@@ -47,6 +47,20 @@ const forbiddenPromptTerms = [
   "hedging"
 ];
 
+const forbiddenSetupTerms = [
+  "english class in the",
+  "vocabulary lesson in the",
+  "reads from the",
+  "attendance report about",
+  "budget summary about",
+  "customer survey about",
+  "safety notice about",
+  "research abstract about",
+  "training schedule about",
+  "course outline about",
+  "travel itinerary about"
+];
+
 const languageGuides = {
   en: {
     title: "How to use EnglishRoad",
@@ -155,6 +169,12 @@ const reports = ["attendance report", "budget summary", "customer survey", "safe
 const topics = ["class schedules", "workplace training", "public transport", "customer feedback", "health appointments", "online learning", "housing rules", "research results", "budget planning", "job interviews"];
 const simpleObjects = ["forms", "emails", "instructions", "notices", "receipts", "charts", "applications", "reports", "messages", "appointments"];
 const programs = ["morning class", "evening class", "new-student orientation", "staff workshop", "exam review group", "conversation club", "writing lab", "internship program", "parent meeting", "online seminar", "career clinic", "visitor briefing", "research update", "reading circle", "skills course", "placement meeting", "study group"];
+const practiceSettings = ["an English practice activity", "an English study session", "a short English lesson", "an English review activity", "an English level check", "an English reading exercise", "an English class exercise", "an English warm-up task", "an English practice round", "an English learning activity"];
+const practiceMaterials = ["worksheet", "practice card", "exercise page", "study screen", "review sheet", "sample question", "class handout", "workbook page", "quiz page", "learning app"];
+const practicePurposes = {
+  Grammar: ["grammar practice", "sentence practice", "verb practice", "word order practice", "grammar review", "accuracy practice", "sentence review", "form practice", "English practice", "level practice"],
+  Vocabulary: ["word practice", "meaning practice", "phrase practice", "reading practice", "word review", "vocabulary review", "English practice", "level practice", "usage practice", "study practice"]
+};
 
 const vocabularySets = {
   easySynonyms: [
@@ -572,12 +592,11 @@ function item(text, options, answer) {
 
 function contextualize(text, blueprint, index) {
   const name = pick(names, index, 7);
-  const topic = pick(topics, index, 3);
-  const report = pick(reports, index, 5);
-  const program = pick(programs, index, 11);
-  const setup = blueprint.category === "Grammar"
-    ? `During an English class in the ${program}, ${name} reads from the ${report} about ${topic}.`
-    : `During a vocabulary lesson in the ${program}, ${name} reads from the ${report} about ${topic}.`;
+  const setting = practiceSettings[Math.floor(index / names.length) % practiceSettings.length];
+  const material = practiceMaterials[Math.floor(index / (names.length * practiceSettings.length)) % practiceMaterials.length];
+  const purposes = practicePurposes[blueprint.category] || practicePurposes.Grammar;
+  const purpose = purposes[Math.floor(index / (names.length * practiceSettings.length * practiceMaterials.length)) % purposes.length];
+  const setup = `During ${setting}, ${name} reads one sentence from a ${material} for ${purpose}.`;
   return {
     setup,
     task: text,
@@ -598,6 +617,8 @@ function validateBank(bank) {
     if (!question.category || !question.subcategory || !question.difficulty) issues.push(`Missing metadata: ${question.id}`);
     if (!question.setupText || !question.taskText) issues.push(`Missing display parts: ${question.id}`);
     if (!learnerSubcategoryLabels[question.subcategory]) issues.push(`Missing learner label: ${question.subcategory}`);
+    const setupProblem = forbiddenSetupTerms.find((term) => normalizeQuestionText(question.setupText).includes(term));
+    if (setupProblem) issues.push(`Mixed setup context "${setupProblem}": ${question.id}`);
     const technicalTerm = forbiddenPromptTerms.find((term) => normalizeQuestionText(question.taskText).includes(term));
     if (technicalTerm) issues.push(`Technical prompt term "${technicalTerm}": ${question.id}`);
     if (question.options.includes("no article")) issues.push(`Use (nothing), not no article: ${question.id}`);
