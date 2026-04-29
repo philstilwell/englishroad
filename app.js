@@ -503,6 +503,7 @@ function createQuestionBank() {
     const blueprint = blueprints[i % blueprints.length];
     const made = blueprint.make(i);
     const mirror = TEST_MIRRORS[Math.floor(i / blueprints.length) % TEST_MIRRORS.length];
+    const prompt = contextualize(made.text, blueprint, i);
     bank.push({
       id: `${blueprint.code}-${i + 1}`,
       blueprint: blueprint.code,
@@ -510,7 +511,9 @@ function createQuestionBank() {
       subcategory: blueprint.subcategory,
       source: mirror,
       difficulty: jitterDifficulty(blueprint.difficulty, i),
-      text: contextualize(made.text, blueprint, i),
+      setupText: prompt.setup,
+      taskText: prompt.task,
+      text: prompt.fullText,
       options: shuffleStable(uniqueOptions(made.options), i),
       answer: made.answer
     });
@@ -528,10 +531,14 @@ function contextualize(text, blueprint, index) {
   const topic = pick(topics, index, 3);
   const report = pick(reports, index, 5);
   const program = pick(programs, index, 11);
-  if (blueprint.category === "Grammar") {
-    return `During an English class in the ${program}, ${name} reads from the ${report} about ${topic}: ${text}`;
-  }
-  return `During a vocabulary lesson in the ${program}, ${name} reads from the ${report} about ${topic}: ${text}`;
+  const setup = blueprint.category === "Grammar"
+    ? `During an English class in the ${program}, ${name} reads from the ${report} about ${topic}.`
+    : `During a vocabulary lesson in the ${program}, ${name} reads from the ${report} about ${topic}.`;
+  return {
+    setup,
+    task: text,
+    fullText: `${setup} ${text}`
+  };
 }
 
 function validateBank(bank) {
@@ -545,6 +552,7 @@ function validateBank(bank) {
     if (new Set(question.options).size !== question.options.length) issues.push(`Duplicate option: ${question.id}`);
     if (question.options.length !== 4) issues.push(`Wrong option count: ${question.id}`);
     if (!question.category || !question.subcategory || !question.difficulty) issues.push(`Missing metadata: ${question.id}`);
+    if (!question.setupText || !question.taskText) issues.push(`Missing display parts: ${question.id}`);
   });
   if (issues.length) throw new Error(`Question bank failed QA: ${issues.slice(0, 5).join(" | ")}`);
 }
@@ -630,7 +638,16 @@ function renderQuestion() {
     state.current.source,
     `Level ${state.current.difficulty.toFixed(1)}`
   ].map((tag) => `<span class="tag">${tag}</span>`).join("");
-  document.getElementById("questionText").textContent = state.current.text;
+  document.getElementById("questionText").innerHTML = `
+    <span class="question-setup">
+      <span class="question-part-label">Situation</span>
+      ${escapeHtml(state.current.setupText)}
+    </span>
+    <span class="question-stem">
+      <span class="question-part-label">Answer this</span>
+      ${escapeHtml(state.current.taskText)}
+    </span>
+  `;
   document.getElementById("answers").innerHTML = state.current.options.map((option) => `
     <label class="answer-option">
       <input type="radio" name="answer" value="${escapeAttribute(option)}">
@@ -905,6 +922,15 @@ function normalizeQuestionText(text) {
 
 function escapeAttribute(value) {
   return value.replaceAll("&", "&amp;").replaceAll('"', "&quot;").replaceAll("<", "&lt;");
+}
+
+function escapeHtml(value) {
+  return value
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
 }
 
 function formatRange(low, high, step, fixedDigits = 0) {
