@@ -214,7 +214,15 @@ const vocabularySets = {
     ["give", "a presentation", "make", "take", "write"],
     ["reach", "an agreement", "arrive", "make", "hold"],
     ["raise", "a concern", "lift", "grow", "do"],
-    ["take", "responsibility", "make", "give", "hold"]
+    ["take", "responsibility", "make", "give", "hold"],
+    ["submit", "an application", "give", "make", "hold"],
+    ["solve", "a problem", "answer", "make", "hold"],
+    ["follow", "instructions", "make", "do", "hold"],
+    ["send", "a message", "make", "take", "hold"],
+    ["book", "an appointment", "do", "hold", "reach"],
+    ["set", "a goal", "do", "take", "hold"],
+    ["share", "information", "make", "do", "hold"],
+    ["prepare", "a report", "make", "answer", "hold"]
   ],
   register: [
     ["The results indicate a moderate increase.", "The numbers kind of went up.", "Stuff got better, basically.", "It went up a bit, you know."],
@@ -331,8 +339,22 @@ const blueprints = [
     subcategory: "Comparatives",
     difficulty: 3.0,
     make: (i) => {
-      const adjective = pick([["clear", "clearer"], ["simple", "simpler"], ["fast", "faster"], ["quiet", "quieter"]], i);
-      return item(`The revised instructions are ___ than the first version.`, [adjective[1], adjective[0], `more ${adjective[1]}`, `most ${adjective[0]}`], adjective[1]);
+      const examples = [
+        ["This route is ___ than the old route.", "short", "shorter"],
+        ["The new room is ___ than the first room.", "large", "larger"],
+        ["The second train is ___ than the first train.", "fast", "faster"],
+        ["The winter class is ___ than the summer class.", "small", "smaller"],
+        ["This chair is ___ than the chair near the door.", "low", "lower"],
+        ["The morning lesson is ___ than the evening lesson.", "early", "earlier"],
+        ["The new printer is ___ than the old printer.", "quick", "quicker"],
+        ["The blue sign is ___ than the gray sign.", "bright", "brighter"],
+        ["The used book is ___ than the new book.", "cheap", "cheaper"],
+        ["The first answer is ___ than the second answer.", "long", "longer"],
+        ["The online form is ___ than the paper form.", "new", "newer"],
+        ["The classroom is ___ than the hallway.", "warm", "warmer"]
+      ];
+      const ex = pick(examples, i);
+      return item(ex[0], [ex[2], ex[1], `more ${ex[1]}`, `most ${ex[1]}`], ex[2], `comparative:${ex[1]}`);
     }
   },
   {
@@ -439,13 +461,25 @@ const blueprints = [
     difficulty: 2.1,
     make: (i) => {
       const sets = [
-        ["The tutor gave a clear ___ of the grammar rule.", "explanation", "explain", "explained", "explaining"],
-        ["The office needs written ___ before it changes the booking.", "confirmation", "confirm", "confirmed", "confirming"],
-        ["The chart gives a useful ___ of the survey results.", "comparison", "compare", "compared", "comparing"],
-        ["The speaker made a brief ___ before the discussion.", "introduction", "introduce", "introduced", "introducing"]
+        ["The tutor gave a clear ___ of the grammar rule.", "explanation", "explain", "explained", "explaining", "explain"],
+        ["The office needs written ___ before it changes the booking.", "confirmation", "confirm", "confirmed", "confirming", "confirm"],
+        ["The worksheet includes a short ___ of the survey results.", "summary", "summarize", "summarized", "summarizing", "summarize"],
+        ["The speaker made a brief ___ before the discussion.", "introduction", "introduce", "introduced", "introducing", "introduce"],
+        ["The teacher asked for a quick ___ before class ended.", "decision", "decide", "decided", "deciding", "decide"],
+        ["The lesson showed clear ___ after more practice.", "improvement", "improve", "improved", "improving", "improve"],
+        ["The student gave a polite ___ to the question.", "response", "respond", "responded", "responding", "respond"],
+        ["The office sent a request for ___ before Friday.", "payment", "pay", "paid", "paying", "pay"],
+        ["The program requires an online ___ first.", "application", "apply", "applied", "applying", "apply"],
+        ["The two groups reached an ___ after the meeting.", "agreement", "agree", "agreed", "agreeing", "agree"],
+        ["The form asks for a short ___ of the problem.", "description", "describe", "described", "describing", "describe"],
+        ["The activity begins with a clear ___ from the teacher.", "instruction", "instruct", "instructed", "instructing", "instruct"],
+        ["The list shows the final ___ for the course.", "selection", "select", "selected", "selecting", "select"],
+        ["The manager gave official ___ for the new plan.", "approval", "approve", "approved", "approving", "approve"],
+        ["The club sent an ___ to every new student.", "invitation", "invite", "invited", "inviting", "invite"],
+        ["The report includes a careful ___ of the answers.", "analysis", "analyze", "analyzed", "analyzing", "analyze"]
       ];
       const set = pick(sets, i);
-      return item(set[0], set.slice(1), set[1]);
+      return item(set[0], set.slice(1, 5), set[1], `word-form:${set[5]}`);
     }
   },
   {
@@ -455,7 +489,7 @@ const blueprints = [
     difficulty: 2.5,
     make: (i) => {
       const set = pick(vocabularySets.collocations, i);
-      return item(`Choose the word that sounds natural: The coordinator will ___ ${set[1]} before Friday.`, [set[0], set[2], set[3], set[4]], set[0]);
+      return item(`Choose the word that sounds natural: The coordinator will ___ ${set[1]} before Friday.`, [set[0], set[2], set[3], set[4]], set[0], `words-together:${set[0]} ${set[1]}`);
     }
   },
   {
@@ -563,9 +597,12 @@ const state = {
 
 function createQuestionBank() {
   const bank = [];
+  const blueprintCounts = {};
   for (let i = 0; i < BANK_SIZE; i += 1) {
     const blueprint = blueprints[i % blueprints.length];
-    const made = blueprint.make(i);
+    const localIndex = blueprintCounts[blueprint.code] || 0;
+    blueprintCounts[blueprint.code] = localIndex + 1;
+    const made = blueprint.make(localIndex);
     const mirror = TEST_MIRRORS[Math.floor(i / blueprints.length) % TEST_MIRRORS.length];
     const prompt = contextualize(made.text, blueprint, i);
     bank.push({
@@ -579,15 +616,16 @@ function createQuestionBank() {
       taskText: prompt.task,
       text: prompt.fullText,
       options: shuffleStable(uniqueOptions(made.options), i),
-      answer: made.answer
+      answer: made.answer,
+      focusKey: made.focusKey || ""
     });
   }
   validateBank(bank);
   return bank;
 }
 
-function item(text, options, answer) {
-  return { text, options, answer };
+function item(text, options, answer, focusKey = "") {
+  return { text, options, answer, focusKey };
 }
 
 function contextualize(text, blueprint, index) {
@@ -606,11 +644,13 @@ function contextualize(text, blueprint, index) {
 
 function validateBank(bank) {
   const textSet = new Set();
+  const focusCounts = {};
   const issues = [];
   bank.forEach((question) => {
     const key = normalizeQuestionText(question.text);
     if (textSet.has(key)) issues.push(`Duplicate prompt: ${question.text}`);
     textSet.add(key);
+    if (question.focusKey) focusCounts[question.focusKey] = (focusCounts[question.focusKey] || 0) + 1;
     if (!question.options.includes(question.answer)) issues.push(`Missing answer: ${question.id}`);
     if (new Set(question.options).size !== question.options.length) issues.push(`Duplicate option: ${question.id}`);
     if (question.options.length !== 4) issues.push(`Wrong option count: ${question.id}`);
@@ -624,6 +664,11 @@ function validateBank(bank) {
     if (question.options.includes("no article")) issues.push(`Use (nothing), not no article: ${question.id}`);
     if (hasKnownAnswerAmbiguity(question)) issues.push(`Possible multiple correct answers: ${question.id}`);
   });
+  const focusClumps = Object.entries(focusCounts).filter(([, count]) => count > 8);
+  if (focusClumps.length) {
+    const examples = focusClumps.slice(0, 5).map(([key, count]) => `${key} (${count})`).join(", ");
+    issues.push(`Repeated focus terms: ${examples}`);
+  }
   if (issues.length) throw new Error(`Question bank failed QA: ${issues.slice(0, 5).join(" | ")}`);
 }
 
