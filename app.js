@@ -912,6 +912,16 @@ function renderLanguageInfo(languageKey = "en") {
   }));
 }
 
+function toggleInstructions() {
+  const content = document.getElementById("instructionsContent");
+  const button = document.getElementById("instructionsToggle");
+  if (!content || !button) return;
+
+  const isHidden = content.classList.toggle("is-hidden");
+  button.textContent = isHidden ? "Show instructions" : "Hide instructions";
+  button.setAttribute("aria-expanded", String(!isHidden));
+}
+
 function sumCounts(values) {
   return Object.values(values).reduce((sum, count) => sum + count, 0);
 }
@@ -950,6 +960,7 @@ function clamp(value, min, max) {
 
 document.getElementById("submitAnswer").addEventListener("click", submitAnswer);
 document.getElementById("restart").addEventListener("click", restart);
+document.getElementById("instructionsToggle").addEventListener("click", toggleInstructions);
 document.getElementById("languageSelect").addEventListener("change", (event) => {
   renderLanguageInfo(event.target.value);
 });

@@ -22,9 +22,12 @@
         </header>
 
         <section class="panel intro-panel" aria-labelledby="intro-title">
-          <div class="intro-grid">
+          <div class="intro-header">
+            <p class="label">Instructions:</p>
+            <button id="instructionsToggle" class="instruction-toggle" type="button" aria-controls="instructionsContent" aria-expanded="true">Hide instructions</button>
+          </div>
+          <div id="instructionsContent" class="intro-grid">
             <div class="intro-copy">
-              <p class="label">What is this?</p>
               <h2 id="intro-title">Find your English level and what to practice.</h2>
               <p>
                 Answer English questions. The app estimates your level for TOEFL, IELTS,
@@ -137,6 +140,6 @@
         </section>
       </section>
     </main>
-    <script src="app.js?v=prompt-split-v1"></script>
+    <script src="app.js?v=instructions-toggle-v1"></script>
   </body>
 </html>

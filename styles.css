@@ -98,14 +98,26 @@ h1 {
 }
 
 .intro-panel {
-  padding: 24px;
+  padding: clamp(28px, 4vw, 42px);
+}
+
+.intro-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 18px;
 }
 
 .intro-grid {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(320px, 0.78fr);
-  gap: 24px;
+  gap: 30px;
   align-items: start;
+}
+
+.intro-grid.is-hidden {
+  display: none;
 }
 
 .intro-copy h2 {
@@ -128,7 +140,7 @@ h1 {
 .simple-steps {
   display: grid;
   gap: 8px;
-  margin: 18px 0 0;
+  margin: 24px 0 0;
   padding-left: 22px;
   color: var(--ink);
   font-weight: 800;
@@ -139,7 +151,25 @@ h1 {
   border: 1px solid var(--line);
   border-radius: 8px;
   background: var(--panel-soft);
-  padding: 16px;
+  padding: 22px;
+}
+
+.instruction-toggle {
+  flex: 0 0 auto;
+  min-height: 40px;
+  border: 1px solid rgba(28, 124, 84, 0.26);
+  border-radius: 8px;
+  background: var(--panel-soft);
+  color: var(--green-dark);
+  padding: 0 14px;
+  font-weight: 850;
+  cursor: pointer;
+}
+
+.instruction-toggle:hover,
+.instruction-toggle:focus-visible {
+  border-color: rgba(28, 124, 84, 0.65);
+  background: #fff;
 }
 
 .language-control {
@@ -519,6 +549,11 @@ h1 {
   }
 
   .topbar {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .intro-header {
     align-items: flex-start;
     flex-direction: column;
   }
