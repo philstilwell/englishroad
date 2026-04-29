@@ -204,7 +204,7 @@ const blueprints = [
         ["Please read ___ instructions before signing.", "the"]
       ];
       const ex = pick(examples, i);
-      return item(ex[0], ["a", "an", "the", "no article"], ex[1]);
+      return item(ex[0], ["a", "an", "the", "(nothing)"], ex[1]);
     }
   },
   {
@@ -217,7 +217,7 @@ const blueprints = [
         [`The workshop starts ___ ${pick(["Monday", "Friday", "Wednesday"], i)}.`, "on"],
         [`The interview begins ___ ${pick(["9:30", "2:15", "11:00"], i)}.`, "at"],
         [`The course begins ___ ${pick(["September", "January", "April"], i)}.`, "in"],
-        [`The forms are due ___ the end of the week.`, "by"]
+        [`The forms must arrive ___ Friday.`, "by"]
       ];
       const ex = pick(examples, i);
       return item(ex[0], ["in", "on", "at", "by"], ex[1]);
@@ -553,8 +553,15 @@ function validateBank(bank) {
     if (question.options.length !== 4) issues.push(`Wrong option count: ${question.id}`);
     if (!question.category || !question.subcategory || !question.difficulty) issues.push(`Missing metadata: ${question.id}`);
     if (!question.setupText || !question.taskText) issues.push(`Missing display parts: ${question.id}`);
+    if (question.options.includes("no article")) issues.push(`Use (nothing), not no article: ${question.id}`);
+    if (hasKnownAnswerAmbiguity(question)) issues.push(`Possible multiple correct answers: ${question.id}`);
   });
   if (issues.length) throw new Error(`Question bank failed QA: ${issues.slice(0, 5).join(" | ")}`);
+}
+
+function hasKnownAnswerAmbiguity(question) {
+  const task = normalizeQuestionText(question.taskText);
+  return task.includes("due ___ the end of the week") && question.options.includes("at") && question.options.includes("by");
 }
 
 function createCandidateOrder() {
