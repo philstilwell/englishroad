@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="EnglishRoad ESL proficiency assessment for TOEFL, IELTS, and TOEIC score estimates.">
+    <title>EnglishRoad ESL Assessment</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="workspace" aria-labelledby="app-title">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow">EnglishRoad</p>
+            <h1 id="app-title">ESL Level Assessment</h1>
+          </div>
+          <div class="domain-pill" aria-label="Custom domain">englishroad.com</div>
+        </header>
+
+        <section class="assessment-grid">
+          <article class="panel assessment-panel" aria-live="polite">
+            <div class="progress-row">
+              <div>
+                <p class="label">Question</p>
+                <p class="progress-count"><span id="questionNumber">1</span> / 5</p>
+              </div>
+              <div class="meter" aria-hidden="true">
+                <span id="meterFill"></span>
+              </div>
+            </div>
+
+            <div id="questionMeta" class="question-meta"></div>
+            <h2 id="questionText" class="question-text"></h2>
+            <div id="answers" class="answers"></div>
+
+            <div class="actions">
+              <button id="submitAnswer" class="primary-action" type="button">Submit answer</button>
+              <button id="restart" class="ghost-action" type="button">Restart</button>
+            </div>
+            <p id="feedback" class="feedback" role="status"></p>
+          </article>
+
+          <aside class="panel results-panel" aria-labelledby="result-title">
+            <div class="result-header">
+              <p class="label">Estimated Level</p>
+              <h2 id="result-title">Pending</h2>
+            </div>
+
+            <div class="score-grid" aria-label="Score estimates">
+              <div>
+                <span>TOEFL iBT</span>
+                <strong id="toeflScore">--</strong>
+              </div>
+              <div>
+                <span>IELTS</span>
+                <strong id="ieltsScore">--</strong>
+              </div>
+              <div>
+                <span>TOEIC L&amp;R</span>
+                <strong id="toeicScore">--</strong>
+              </div>
+              <div>
+                <span>CEFR</span>
+                <strong id="cefrScore">--</strong>
+              </div>
+            </div>
+
+            <section class="weaknesses" aria-labelledby="weakness-title">
+              <h3 id="weakness-title">Weakness Register</h3>
+              <div class="weakness-group">
+                <div class="weakness-heading">
+                  <span>Grammar</span>
+                  <strong id="grammarCount">0</strong>
+                </div>
+                <div id="grammarWeaknesses" class="chips"></div>
+              </div>
+              <div class="weakness-group">
+                <div class="weakness-heading">
+                  <span>Vocabulary</span>
+                  <strong id="vocabularyCount">0</strong>
+                </div>
+                <div id="vocabularyWeaknesses" class="chips"></div>
+              </div>
+            </section>
+
+            <div class="bank-note">
+              <strong id="bankSize">1,500</strong>
+              <span>original TOEFL, IELTS, and TOEIC-style questions in the bank</span>
+            </div>
+          </aside>
+        </section>
+      </section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
