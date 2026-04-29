@@ -318,7 +318,15 @@ const blueprints = [
     difficulty: 2.6,
     make: (i) => {
       const noun = pick(["team", "department", "committee", "class"], i);
-      return item(`Choose the correct sentence.`, [
+      const prompt = pick([
+        "Choose the correct sentence.",
+        "Which sentence is correct?",
+        "Pick the correct sentence.",
+        "Find the correct sentence.",
+        "Choose the sentence that is right.",
+        "Which sentence is right?"
+      ], i);
+      return item(prompt, [
         `The ${noun} is ready for the presentation.`,
         `The ${noun} are ready for the presentation.`,
         `The ${noun} have ready for the presentation.`,
