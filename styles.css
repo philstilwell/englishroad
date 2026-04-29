@@ -101,12 +101,20 @@ h1 {
   padding: clamp(28px, 4vw, 42px);
 }
 
+.intro-panel.is-collapsed {
+  padding: 20px 24px;
+}
+
 .intro-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 16px;
   margin-bottom: 18px;
+}
+
+.intro-panel.is-collapsed .intro-header {
+  margin-bottom: 0;
 }
 
 .intro-grid {

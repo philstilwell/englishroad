@@ -8,6 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
@@ -21,12 +22,12 @@
           <div class="domain-pill" aria-label="Custom domain">englishroad.com</div>
         </header>
 
-        <section class="panel intro-panel" aria-labelledby="intro-title">
+        <section id="introPanel" class="panel intro-panel is-collapsed" aria-labelledby="intro-title">
           <div class="intro-header">
             <p class="label">Instructions:</p>
-            <button id="instructionsToggle" class="instruction-toggle" type="button" aria-controls="instructionsContent" aria-expanded="true">Hide instructions</button>
+            <button id="instructionsToggle" class="instruction-toggle" type="button" aria-controls="instructionsContent" aria-expanded="false">Show instructions</button>
           </div>
-          <div id="instructionsContent" class="intro-grid">
+          <div id="instructionsContent" class="intro-grid is-hidden">
             <div class="intro-copy">
               <h2 id="intro-title">Find your English level and what to practice.</h2>
               <p>
@@ -140,6 +141,6 @@
         </section>
       </section>
     </main>
-    <script src="app.js?v=instructions-toggle-v1"></script>
+    <script src="app.js?v=favicon-toggle-v1"></script>
   </body>
 </html>

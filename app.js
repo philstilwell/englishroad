@@ -913,11 +913,13 @@ function renderLanguageInfo(languageKey = "en") {
 }
 
 function toggleInstructions() {
+  const panel = document.getElementById("introPanel");
   const content = document.getElementById("instructionsContent");
   const button = document.getElementById("instructionsToggle");
   if (!content || !button) return;
 
   const isHidden = content.classList.toggle("is-hidden");
+  if (panel) panel.classList.toggle("is-collapsed", isHidden);
   button.textContent = isHidden ? "Show instructions" : "Hide instructions";
   button.setAttribute("aria-expanded", String(!isHidden));
 }
