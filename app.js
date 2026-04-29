@@ -3,6 +3,99 @@ const FIRST_ESTIMATE_AT = 5;
 const BANK_SIZE = 1500;
 const TEST_MIRRORS = ["TOEFL", "IELTS", "TOEIC", "CEFR"];
 
+const languageGuides = {
+  en: {
+    title: "How to use EnglishRoad",
+    purpose: "EnglishRoad helps English learners check their level. It is a practice tool, not an official test score.",
+    functionText: "You answer multiple-choice questions. The questions start easy. They get harder only when many answers are correct. The app estimates TOEFL, IELTS, TOEIC, and CEFR levels and shows grammar and vocabulary areas to practice.",
+    steps: [
+      "Choose one answer and click Check answer.",
+      "You see a first level after 5 answers.",
+      "Continue up to 120 questions for a clearer result."
+    ]
+  },
+  ja: {
+    title: "EnglishRoad の使い方",
+    purpose: "EnglishRoad は、英語学習者が自分の英語レベルを確認するための練習ツールです。公式の試験スコアではありません。",
+    functionText: "4択の問題に答えます。問題はやさしいレベルから始まります。正解が多いときだけ、少しずつ難しくなります。TOEFL、IELTS、TOEIC、CEFR の目安と、練習が必要な文法・語彙を表示します。",
+    steps: [
+      "答えを1つ選び、「Check answer」を押します。",
+      "5問答えると、最初のレベルが表示されます。",
+      "120問まで続けると、結果がよりはっきりします。"
+    ]
+  },
+  zh: {
+    title: "如何使用 EnglishRoad",
+    purpose: "EnglishRoad 帮助英语学习者了解自己的英语水平。这是练习工具，不是官方考试成绩。",
+    functionText: "你会回答选择题。题目从简单开始。只有当你答对很多题时，题目才会逐渐变难。应用会估算 TOEFL、IELTS、TOEIC 和 CEFR 水平，并显示需要练习的语法和词汇。",
+    steps: [
+      "选择一个答案，然后点击 Check answer。",
+      "回答 5 题后，你会看到第一次水平估计。",
+      "继续完成最多 120 题，结果会更清楚。"
+    ]
+  },
+  es: {
+    title: "Cómo usar EnglishRoad",
+    purpose: "EnglishRoad ayuda a estudiantes de inglés a conocer su nivel. Es una herramienta de práctica, no una calificación oficial.",
+    functionText: "Respondes preguntas de opción múltiple. Las preguntas empiezan fáciles. Solo se vuelven más difíciles si aciertas muchas respuestas. La app estima niveles TOEFL, IELTS, TOEIC y CEFR, y muestra gramática y vocabulario para practicar.",
+    steps: [
+      "Elige una respuesta y pulsa Check answer.",
+      "Ves un primer nivel después de 5 respuestas.",
+      "Continúa hasta 120 preguntas para obtener un resultado más claro."
+    ]
+  },
+  te: {
+    title: "EnglishRoad ఎలా ఉపయోగించాలి",
+    purpose: "EnglishRoad ఆంగ్లం నేర్చుకునే వారికి తమ స్థాయిని తెలుసుకోవడానికి సహాయపడుతుంది. ఇది సాధన సాధనం మాత్రమే; అధికారిక పరీక్ష స్కోరు కాదు.",
+    functionText: "మీరు బహుళ ఎంపిక ప్రశ్నలకు సమాధానం ఇస్తారు. ప్రశ్నలు సులభంగా మొదలవుతాయి. మీరు చాలా సరైన సమాధానాలు ఇస్తేనే అవి క్రమంగా కష్టమవుతాయి. ఈ యాప్ TOEFL, IELTS, TOEIC, CEFR స్థాయులను అంచనా వేస్తుంది మరియు సాధన చేయాల్సిన వ్యాకరణం, పదజాలం చూపిస్తుంది.",
+    steps: [
+      "ఒక సమాధానం ఎంచుకొని Check answer నొక్కండి.",
+      "5 సమాధానాల తర్వాత మొదటి స్థాయి కనిపిస్తుంది.",
+      "మరింత స్పష్టమైన ఫలితం కోసం 120 ప్రశ్నల వరకు కొనసాగండి."
+    ]
+  },
+  pt: {
+    title: "Como usar o EnglishRoad",
+    purpose: "O EnglishRoad ajuda estudantes de inglês a ver seu nível. É uma ferramenta de prática, não uma nota oficial.",
+    functionText: "Você responde perguntas de múltipla escolha. As perguntas começam fáceis. Elas ficam mais difíceis apenas quando muitas respostas estão corretas. O app estima níveis TOEFL, IELTS, TOEIC e CEFR, e mostra gramática e vocabulário para praticar.",
+    steps: [
+      "Escolha uma resposta e clique em Check answer.",
+      "Você vê um primeiro nível depois de 5 respostas.",
+      "Continue até 120 perguntas para um resultado mais claro."
+    ]
+  },
+  pl: {
+    title: "Jak korzystać z EnglishRoad",
+    purpose: "EnglishRoad pomaga osobom uczącym się angielskiego sprawdzić swój poziom. To narzędzie do ćwiczeń, a nie oficjalny wynik egzaminu.",
+    functionText: "Odpowiadasz na pytania wielokrotnego wyboru. Pytania zaczynają się od łatwych. Stają się trudniejsze tylko wtedy, gdy wiele odpowiedzi jest poprawnych. Aplikacja szacuje poziomy TOEFL, IELTS, TOEIC i CEFR oraz pokazuje gramatykę i słownictwo do ćwiczenia.",
+    steps: [
+      "Wybierz jedną odpowiedź i kliknij Check answer.",
+      "Pierwszy poziom zobaczysz po 5 odpowiedziach.",
+      "Kontynuuj do 120 pytań, aby wynik był dokładniejszy."
+    ]
+  },
+  ko: {
+    title: "EnglishRoad 사용 방법",
+    purpose: "EnglishRoad는 영어 학습자가 자신의 영어 수준을 확인하도록 돕는 연습 도구입니다. 공식 시험 점수는 아닙니다.",
+    functionText: "객관식 문제에 답합니다. 문제는 쉬운 수준에서 시작합니다. 정답이 많을 때만 조금씩 어려워집니다. 앱은 TOEFL, IELTS, TOEIC, CEFR 수준을 추정하고 연습할 문법과 어휘 영역을 보여 줍니다.",
+    steps: [
+      "답 하나를 고르고 Check answer를 누르세요.",
+      "5문제에 답하면 첫 수준이 보입니다.",
+      "더 정확한 결과를 위해 120문제까지 계속하세요."
+    ]
+  },
+  fr: {
+    title: "Comment utiliser EnglishRoad",
+    purpose: "EnglishRoad aide les apprenants d’anglais à connaître leur niveau. C’est un outil d’entraînement, pas un score officiel.",
+    functionText: "Vous répondez à des questions à choix multiple. Les questions commencent facilement. Elles deviennent plus difficiles seulement si vous avez beaucoup de bonnes réponses. L’application estime les niveaux TOEFL, IELTS, TOEIC et CEFR, et montre la grammaire et le vocabulaire à travailler.",
+    steps: [
+      "Choisissez une réponse et cliquez sur Check answer.",
+      "Vous voyez un premier niveau après 5 réponses.",
+      "Continuez jusqu’à 120 questions pour un résultat plus clair."
+    ]
+  }
+};
+
 const cefrBands = [
   { min: 0, label: "A1" },
   { min: 1.8, label: "A2" },
@@ -546,7 +639,7 @@ function renderQuestion() {
   `).join("");
   document.getElementById("feedback").textContent = "";
   document.getElementById("feedback").className = "feedback";
-  document.getElementById("submitAnswer").textContent = "Submit answer";
+  document.getElementById("submitAnswer").textContent = "Check answer";
   document.getElementById("submitAnswer").disabled = false;
 
   document.querySelectorAll("input[name='answer']").forEach((input) => {
@@ -558,7 +651,7 @@ function renderQuestion() {
 
 function submitAnswer() {
   if (!state.selected && !state.answered) {
-    document.getElementById("feedback").textContent = "Choose an answer to continue.";
+    document.getElementById("feedback").textContent = "Choose one answer.";
     return;
   }
 
@@ -583,17 +676,17 @@ function submitAnswer() {
   });
 
   const feedback = document.getElementById("feedback");
-  feedback.textContent = correct ? "Correct. The estimate has been adjusted upward." : `Not quite. Correct answer: ${state.current.answer}`;
+  feedback.textContent = correct ? "Good answer." : `Not correct. Answer: ${state.current.answer}`;
   feedback.className = `feedback ${correct ? "good" : "needs-work"}`;
 
   updateResults();
 
   const button = document.getElementById("submitAnswer");
   if (state.questionIndex >= TOTAL_QUESTIONS) {
-    button.textContent = "Assessment complete";
+    button.textContent = "Done";
     button.disabled = true;
   } else {
-    button.textContent = "Next question";
+    button.textContent = "Next";
   }
 }
 
@@ -617,7 +710,7 @@ function updateResults() {
   const band = cefrFromAbility(state.ability);
   const estimated = state.responses.length >= FIRST_ESTIMATE_AT;
   const correctCount = state.responses.filter((response) => response.correct).length;
-  document.getElementById("result-title").textContent = estimated ? `${band} estimate` : "Collecting signal";
+  document.getElementById("result-title").textContent = estimated ? `${band} level` : "Answer 5 questions";
   document.getElementById("toeflScore").textContent = estimated ? toeflEstimate() : "after 5";
   document.getElementById("ieltsScore").textContent = estimated ? ieltsEstimate() : "after 5";
   document.getElementById("toeicScore").textContent = estimated ? toeicEstimate() : "after 5";
@@ -628,9 +721,9 @@ function updateResults() {
 
 function precisionLabel() {
   const answered = state.responses.length;
-  if (answered < FIRST_ESTIMATE_AT) return `First estimate after ${FIRST_ESTIMATE_AT} questions`;
-  if (answered >= TOTAL_QUESTIONS) return "Final 120-question estimate";
-  return `${answered}/${TOTAL_QUESTIONS} answered. Difficulty rises gradually unless recent accuracy is strong.`;
+  if (answered < FIRST_ESTIMATE_AT) return `We show your first level after ${FIRST_ESTIMATE_AT} answers.`;
+  if (answered >= TOTAL_QUESTIONS) return "Finished. This is your final result.";
+  return `${answered}/${TOTAL_QUESTIONS} answers. Keep going. The level gets more exact.`;
 }
 
 function standardError() {
@@ -693,8 +786,8 @@ function renderWeaknesses() {
 
   document.getElementById("grammarCount").textContent = String(sumCounts(groups.Grammar));
   document.getElementById("vocabularyCount").textContent = String(sumCounts(groups.Vocabulary));
-  renderChips("grammarWeaknesses", groups.Grammar, "No grammar weakness registered yet");
-  renderChips("vocabularyWeaknesses", groups.Vocabulary, "No vocabulary weakness registered yet");
+  renderChips("grammarWeaknesses", groups.Grammar, "No grammar problem yet");
+  renderChips("vocabularyWeaknesses", groups.Vocabulary, "No vocabulary problem yet");
 }
 
 function restart() {
@@ -784,6 +877,24 @@ function renderChips(targetId, values, emptyText) {
     : `<span class="chip empty">${emptyText}</span>`;
 }
 
+function renderLanguageInfo(languageKey = "en") {
+  const guide = languageGuides[languageKey] || languageGuides.en;
+  const title = document.getElementById("infoTitle");
+  const purpose = document.getElementById("infoPurpose");
+  const functionText = document.getElementById("infoFunction");
+  const steps = document.getElementById("infoSteps");
+  if (!title || !purpose || !functionText || !steps) return;
+
+  title.textContent = guide.title;
+  purpose.textContent = guide.purpose;
+  functionText.textContent = guide.functionText;
+  steps.replaceChildren(...guide.steps.map((step) => {
+    const itemNode = document.createElement("li");
+    itemNode.textContent = step;
+    return itemNode;
+  }));
+}
+
 function sumCounts(values) {
   return Object.values(values).reduce((sum, count) => sum + count, 0);
 }
@@ -813,6 +924,10 @@ function clamp(value, min, max) {
 
 document.getElementById("submitAnswer").addEventListener("click", submitAnswer);
 document.getElementById("restart").addEventListener("click", restart);
+document.getElementById("languageSelect").addEventListener("change", (event) => {
+  renderLanguageInfo(event.target.value);
+});
 state.bank = createQuestionBank();
 document.getElementById("bankSize").textContent = state.bank.length.toLocaleString();
+renderLanguageInfo(document.getElementById("languageSelect").value);
 restart();

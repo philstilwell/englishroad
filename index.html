@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="EnglishRoad ESL proficiency assessment for TOEFL, IELTS, and TOEIC score estimates.">
-    <title>EnglishRoad ESL Assessment</title>
+    <meta name="description" content="EnglishRoad helps English learners check their level and see grammar and vocabulary areas to practice.">
+    <title>EnglishRoad English Level Check</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -16,10 +16,51 @@
         <header class="topbar">
           <div>
             <p class="eyebrow">EnglishRoad</p>
-            <h1 id="app-title">ESL Level Assessment</h1>
+            <h1 id="app-title">English Level Check</h1>
           </div>
           <div class="domain-pill" aria-label="Custom domain">englishroad.com</div>
         </header>
+
+        <section class="panel intro-panel" aria-labelledby="intro-title">
+          <div class="intro-grid">
+            <div class="intro-copy">
+              <p class="label">What is this?</p>
+              <h2 id="intro-title">Find your English level and what to practice.</h2>
+              <p>
+                Answer English questions. The app estimates your level for TOEFL, IELTS,
+                TOEIC, and CEFR. It also shows grammar and vocabulary areas that need work.
+              </p>
+              <ol class="simple-steps">
+                <li>Choose one answer.</li>
+                <li>See your first level after 5 answers.</li>
+                <li>Keep going to 120 questions for a better result.</li>
+              </ol>
+            </div>
+
+            <div class="language-box" aria-labelledby="language-title">
+              <label class="language-control" for="languageSelect">
+                <span id="language-title">Read help in your language</span>
+                <select id="languageSelect" class="language-select">
+                  <option value="en">English</option>
+                  <option value="ja">Japanese</option>
+                  <option value="zh">Chinese</option>
+                  <option value="es">Spanish</option>
+                  <option value="te">Telugu</option>
+                  <option value="pt">Portuguese</option>
+                  <option value="pl">Polish</option>
+                  <option value="ko">Korean</option>
+                  <option value="fr">French</option>
+                </select>
+              </label>
+              <div class="language-info">
+                <h3 id="infoTitle"></h3>
+                <p id="infoPurpose"></p>
+                <p id="infoFunction"></p>
+                <ul id="infoSteps"></ul>
+              </div>
+            </div>
+          </div>
+        </section>
 
         <section class="assessment-grid">
           <article class="panel assessment-panel" aria-live="polite">
@@ -38,17 +79,17 @@
             <div id="answers" class="answers"></div>
 
             <div class="actions">
-              <button id="submitAnswer" class="primary-action" type="button">Submit answer</button>
-              <button id="restart" class="ghost-action" type="button">Restart</button>
+              <button id="submitAnswer" class="primary-action" type="button">Check answer</button>
+              <button id="restart" class="ghost-action" type="button">Start again</button>
             </div>
             <p id="feedback" class="feedback" role="status"></p>
           </article>
 
           <aside class="panel results-panel" aria-labelledby="result-title">
             <div class="result-header">
-              <p class="label">Estimated Level</p>
-              <h2 id="result-title">Pending</h2>
-              <p id="precisionText" class="precision-text">First estimate after 5 questions</p>
+              <p class="label">Your English level</p>
+              <h2 id="result-title">Answer 5 questions</h2>
+              <p id="precisionText" class="precision-text">We show your first level after 5 answers.</p>
             </div>
 
             <div class="score-grid" aria-label="Score estimates">
@@ -71,7 +112,7 @@
             </div>
 
             <section class="weaknesses" aria-labelledby="weakness-title">
-              <h3 id="weakness-title">Weakness Register</h3>
+              <h3 id="weakness-title">Things to practice</h3>
               <div class="weakness-group">
                 <div class="weakness-heading">
                   <span>Grammar</span>
@@ -90,12 +131,12 @@
 
             <div class="bank-note">
               <strong id="bankSize">1,500</strong>
-              <span>original TOEFL, IELTS, and TOEIC-style questions in the bank</span>
+              <span>practice questions for TOEFL, IELTS, TOEIC, and CEFR level checks</span>
             </div>
           </aside>
         </section>
       </section>
     </main>
-    <script src="app.js?v=quality-bank-v1"></script>
+    <script src="app.js?v=language-info-v1"></script>
   </body>
 </html>
