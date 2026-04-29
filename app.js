@@ -246,13 +246,16 @@ const contexts = [
   }
 ];
 
-const scoreBands = [
-  { min: 0, cefr: "A1", toefl: "0-17", ielts: "1.0-2.0", toeic: "10-120" },
-  { min: 1.8, cefr: "A2", toefl: "18-41", ielts: "2.5-3.5", toeic: "125-224" },
-  { min: 2.7, cefr: "B1", toefl: "42-71", ielts: "4.0-5.0", toeic: "225-549" },
-  { min: 3.65, cefr: "B2", toefl: "72-94", ielts: "5.5-6.5", toeic: "550-784" },
-  { min: 4.65, cefr: "C1", toefl: "95-114", ielts: "7.0-8.0", toeic: "785-944" },
-  { min: 5.45, cefr: "C2", toefl: "115-120", ielts: "8.5-9.0", toeic: "945-990" }
+const TOTAL_QUESTIONS = 120;
+const FIRST_ESTIMATE_AT = 5;
+const TEST_MIRRORS = ["TOEFL", "IELTS", "TOEIC", "CEFR"];
+const cefrBands = [
+  { min: 0, label: "A1" },
+  { min: 1.8, label: "A2" },
+  { min: 2.7, label: "B1" },
+  { min: 3.65, label: "B2" },
+  { min: 4.65, label: "C1" },
+  { min: 5.45, label: "C2" }
 ];
 
 const state = {
@@ -263,7 +266,8 @@ const state = {
   questionIndex: 0,
   ability: 3.15,
   responses: [],
-  used: new Set()
+  used: new Set(),
+  mirrorStats: {}
 };
 
 function createQuestionBank() {
@@ -280,7 +284,7 @@ function createQuestionBank() {
       id,
       category: template.category,
       subcategory: template.sub,
-      source: ["TOEFL", "IELTS", "TOEIC"][i % 3],
+      source: TEST_MIRRORS[i % TEST_MIRRORS.length],
       difficulty: Math.min(6, Math.max(1, template.level + ((i % 5) - 2) * 0.16)),
       text: made.text,
       options: shuffle(made.options, i),
@@ -301,13 +305,27 @@ function shuffle(items, seed) {
 }
 
 function chooseQuestion() {
+  const nextMirror = TEST_MIRRORS[state.questionIndex % TEST_MIRRORS.length];
+  const nextCategory = state.questionIndex % 2 === 0 ? "Grammar" : "Vocabulary";
   const available = state.bank
     .filter((question) => !state.used.has(question.id))
-    .sort((a, b) => Math.abs(a.difficulty - state.ability) - Math.abs(b.difficulty - state.ability));
-  const window = available.slice(0, 18);
-  const next = window[(state.questionIndex * 5 + state.responses.length) % window.length] || available[0];
+    .sort((a, b) => questionFit(a, nextMirror, nextCategory) - questionFit(b, nextMirror, nextCategory));
+  const window = available.slice(0, 24);
+  const next = window[(state.questionIndex * 7 + state.responses.length) % window.length] || available[0];
   state.used.add(next.id);
   return next;
+}
+
+function questionFit(question, mirror, category) {
+  const difficultyFit = Math.abs(question.difficulty - state.ability);
+  const mirrorPenalty = question.source === mirror ? 0 : 0.55;
+  const categoryPenalty = question.category === category ? 0 : 0.22;
+  const weakAreaBonus = recentMissedSubcategories().has(question.subcategory) ? -0.18 : 0;
+  return difficultyFit + mirrorPenalty + categoryPenalty + weakAreaBonus;
+}
+
+function recentMissedSubcategories() {
+  return new Set(state.responses.slice(-20).filter((response) => !response.correct).map((response) => response.subcategory));
 }
 
 function renderQuestion() {
@@ -316,7 +334,8 @@ function renderQuestion() {
   state.selected = "";
 
   document.getElementById("questionNumber").textContent = String(state.questionIndex + 1);
-  document.getElementById("meterFill").style.width = `${((state.questionIndex + 1) / 5) * 100}%`;
+  document.getElementById("totalQuestions").textContent = String(TOTAL_QUESTIONS);
+  document.getElementById("meterFill").style.width = `${((state.questionIndex + 1) / TOTAL_QUESTIONS) * 100}%`;
   document.getElementById("questionMeta").innerHTML = [
     state.current.category,
     state.current.subcategory,
@@ -353,14 +372,14 @@ function submitAnswer() {
   }
 
   if (state.answered) {
-    if (state.questionIndex >= 5) return;
+    if (state.questionIndex >= TOTAL_QUESTIONS) return;
     renderQuestion();
     return;
   }
 
   const correct = state.selected === state.current.answer;
-  const difficultyGap = state.current.difficulty - state.ability;
-  state.ability = clamp(state.ability + (correct ? 0.46 + Math.max(0, difficultyGap) * 0.08 : -0.42 + Math.min(0, difficultyGap) * 0.06), 1, 6);
+  updateAbility(correct);
+  updateMirrorStats(correct);
   state.responses.push({ ...state.current, correct, selected: state.selected });
   state.questionIndex += 1;
   state.answered = true;
@@ -379,7 +398,7 @@ function submitAnswer() {
   updateResults();
 
   const button = document.getElementById("submitAnswer");
-  if (state.questionIndex >= 5) {
+  if (state.questionIndex >= TOTAL_QUESTIONS) {
     button.textContent = "Assessment complete";
     button.disabled = true;
   } else {
@@ -387,19 +406,104 @@ function submitAnswer() {
   }
 }
 
+function updateAbility(correct) {
+  const answeredCount = state.responses.length + 1;
+  const expected = 1 / (1 + Math.exp(-(state.ability - state.current.difficulty) * 1.35));
+  const error = (correct ? 1 : 0) - expected;
+  const learningRate = Math.max(0.18, 0.76 - answeredCount * 0.0045);
+  state.ability = clamp(state.ability + learningRate * error, 1, 6);
+}
+
+function updateMirrorStats(correct) {
+  const mirror = state.current.source;
+  state.mirrorStats[mirror] = state.mirrorStats[mirror] || { answered: 0, correct: 0 };
+  state.mirrorStats[mirror].answered += 1;
+  if (correct) state.mirrorStats[mirror].correct += 1;
+}
+
 function updateResults() {
-  const band = scoreBands.reduce((active, bandOption) => state.ability >= bandOption.min ? bandOption : active, scoreBands[0]);
-  const finished = state.responses.length >= 5;
+  const band = cefrFromAbility(state.ability);
+  const estimated = state.responses.length >= FIRST_ESTIMATE_AT;
   const correctCount = state.responses.filter((response) => response.correct).length;
-  const title = finished ? `${band.cefr} estimate` : `${band.cefr} developing`;
+  const title = estimated ? `${band} estimate` : "Collecting signal";
 
   document.getElementById("result-title").textContent = title;
-  document.getElementById("toeflScore").textContent = finished ? band.toefl : "after 5";
-  document.getElementById("ieltsScore").textContent = finished ? band.ielts : "after 5";
-  document.getElementById("toeicScore").textContent = finished ? band.toeic : "after 5";
-  document.getElementById("cefrScore").textContent = finished ? band.cefr : `${correctCount}/${state.responses.length || 0}`;
+  document.getElementById("toeflScore").textContent = estimated ? toeflEstimate() : "after 5";
+  document.getElementById("ieltsScore").textContent = estimated ? ieltsEstimate() : "after 5";
+  document.getElementById("toeicScore").textContent = estimated ? toeicEstimate() : "after 5";
+  document.getElementById("cefrScore").textContent = estimated ? cefrEstimate() : `${correctCount}/${state.responses.length || 0}`;
+  document.getElementById("precisionText").textContent = precisionLabel();
 
   renderWeaknesses();
+}
+
+function precisionLabel() {
+  const answered = state.responses.length;
+  if (answered < FIRST_ESTIMATE_AT) return `First estimate after ${FIRST_ESTIMATE_AT} questions`;
+  if (answered >= TOTAL_QUESTIONS) return "Final 120-question estimate";
+  return `${answered}/${TOTAL_QUESTIONS} answered. Precision tightens every question across TOEFL, IELTS, TOEIC, and CEFR mirrors.`;
+}
+
+function standardError() {
+  const answered = Math.max(FIRST_ESTIMATE_AT, state.responses.length);
+  return Math.max(0.1, 1.25 / Math.sqrt(answered / 4));
+}
+
+function abilityRange() {
+  const spread = standardError();
+  return {
+    low: clamp(state.ability - spread, 1, 6),
+    high: clamp(state.ability + spread, 1, 6)
+  };
+}
+
+function cefrFromAbility(ability) {
+  return cefrBands.reduce((active, band) => ability >= band.min ? band.label : active, cefrBands[0].label);
+}
+
+function cefrEstimate() {
+  const range = abilityRange();
+  const low = cefrFromAbility(range.low);
+  const high = cefrFromAbility(range.high);
+  return low === high ? low : `${low}-${high}`;
+}
+
+function toeflEstimate() {
+  const range = abilityRange();
+  return formatRange(toeflFromAbility(range.low), toeflFromAbility(range.high), 1);
+}
+
+function ieltsEstimate() {
+  const range = abilityRange();
+  return formatRange(ieltsFromAbility(range.low), ieltsFromAbility(range.high), 0.5, 1);
+}
+
+function toeicEstimate() {
+  const range = abilityRange();
+  return formatRange(toeicFromAbility(range.low), toeicFromAbility(range.high), 5);
+}
+
+function toeflFromAbility(ability) {
+  return Math.round(clamp(5 + ((ability - 1) / 5) * 115, 0, 120));
+}
+
+function ieltsFromAbility(ability) {
+  return roundToStep(clamp(1 + ((ability - 1) / 5) * 8, 1, 9), 0.5);
+}
+
+function toeicFromAbility(ability) {
+  return roundToStep(clamp(10 + ((ability - 1) / 5) * 980, 10, 990), 5);
+}
+
+function formatRange(low, high, step, fixedDigits = 0) {
+  const roundedLow = roundToStep(Math.min(low, high), step);
+  const roundedHigh = roundToStep(Math.max(low, high), step);
+  const format = (value) => fixedDigits ? value.toFixed(fixedDigits) : String(Math.round(value));
+  return roundedLow === roundedHigh ? format(roundedLow) : `${format(roundedLow)}-${format(roundedHigh)}`;
+}
+
+function roundToStep(value, step) {
+  return Math.round(value / step) * step;
 }
 
 function renderWeaknesses() {
@@ -434,6 +538,7 @@ function restart() {
   state.ability = 3.15;
   state.responses = [];
   state.used = new Set();
+  state.mirrorStats = {};
   updateResults();
   renderQuestion();
 }

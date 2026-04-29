@@ -2,7 +2,7 @@
 
 Static GitHub Pages app for `englishroad.com`.
 
-The assessment uses a generated bank of 1,500 original TOEFL, IELTS, and TOEIC-style multiple-choice questions. After five answers, it estimates a CEFR level and maps that estimate to approximate TOEFL iBT, IELTS, and TOEIC Listening & Reading ranges. Missed items are registered under parent weakness categories, `Grammar` and `Vocabulary`, with sub-weaknesses beneath each.
+The assessment uses a generated bank of 1,500 original TOEFL, IELTS, TOEIC, and CEFR-mirrored multiple-choice questions. It gives its first estimate after five answers, then continues adaptively through 120 questions while progressively narrowing the CEFR, TOEFL iBT, IELTS, and TOEIC Listening & Reading ranges. Missed items are registered under parent weakness categories, `Grammar` and `Vocabulary`, with sub-weaknesses beneath each.
 
 ## Deploy on GitHub Pages
 
