@@ -277,7 +277,7 @@ const scenarioTopics = [
   "academic writing",
   "job training"
 ];
-const scenarioPurposes = [
+const scenarioActions = [
   "clarifying a report",
   "checking a summary",
   "preparing a formal reply",
@@ -341,8 +341,8 @@ function createQuestionBank() {
 function contextualizeQuestion(text, index) {
   const setting = scenarioSettings[index % scenarioSettings.length];
   const topic = scenarioTopics[Math.floor(index / scenarioSettings.length) % scenarioTopics.length];
-  const purpose = scenarioPurposes[Math.floor(index / (scenarioSettings.length * scenarioTopics.length)) % scenarioPurposes.length];
-  return `In a ${setting} context about ${topic}, ${lowercaseFirst(text)} This item is used for ${purpose}.`;
+  const action = scenarioActions[Math.floor(index / (scenarioSettings.length * scenarioTopics.length)) % scenarioActions.length];
+  return `In a ${setting} context about ${topic}, a speaker is ${action}. ${text}`;
 }
 
 function lowercaseFirst(text) {
