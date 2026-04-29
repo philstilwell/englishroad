@@ -249,6 +249,48 @@ const contexts = [
 const TOTAL_QUESTIONS = 120;
 const FIRST_ESTIMATE_AT = 5;
 const TEST_MIRRORS = ["TOEFL", "IELTS", "TOEIC", "CEFR"];
+const scenarioSettings = [
+  "university advising",
+  "workplace onboarding",
+  "airport information desk",
+  "online course",
+  "community workshop",
+  "medical reception",
+  "library help desk",
+  "customer support",
+  "research seminar",
+  "team meeting",
+  "housing office",
+  "bank appointment"
+];
+const scenarioTopics = [
+  "scheduling",
+  "market research",
+  "public transportation",
+  "environmental policy",
+  "student services",
+  "technical support",
+  "health and safety",
+  "budget planning",
+  "travel arrangements",
+  "product feedback",
+  "academic writing",
+  "job training"
+];
+const scenarioPurposes = [
+  "clarifying a report",
+  "checking a summary",
+  "preparing a formal reply",
+  "reviewing a short notice",
+  "editing a presentation",
+  "answering a client question",
+  "comparing two options",
+  "summarizing a policy",
+  "planning a meeting",
+  "evaluating instructions",
+  "responding to feedback",
+  "confirming details"
+];
 const cefrBands = [
   { min: 0, label: "A1" },
   { min: 1.8, label: "A2" },
@@ -266,6 +308,7 @@ const state = {
   questionIndex: 0,
   ability: 3.15,
   responses: [],
+  sessionQuestions: [],
   used: new Set(),
   mirrorStats: {}
 };
@@ -286,13 +329,24 @@ function createQuestionBank() {
       subcategory: template.sub,
       source: TEST_MIRRORS[i % TEST_MIRRORS.length],
       difficulty: Math.min(6, Math.max(1, template.level + ((i % 5) - 2) * 0.16)),
-      text: made.text,
+      text: contextualizeQuestion(made.text, i),
       options: shuffle(made.options, i),
       answer: made.answer
     });
   }
 
   return bank;
+}
+
+function contextualizeQuestion(text, index) {
+  const setting = scenarioSettings[index % scenarioSettings.length];
+  const topic = scenarioTopics[Math.floor(index / scenarioSettings.length) % scenarioTopics.length];
+  const purpose = scenarioPurposes[Math.floor(index / (scenarioSettings.length * scenarioTopics.length)) % scenarioPurposes.length];
+  return `In a ${setting} context about ${topic}, ${lowercaseFirst(text)} This item is used for ${purpose}.`;
+}
+
+function lowercaseFirst(text) {
+  return text.charAt(0).toLowerCase() + text.slice(1);
 }
 
 function shuffle(items, seed) {
@@ -304,28 +358,52 @@ function shuffle(items, seed) {
   return copy;
 }
 
+function shuffleRandom(items) {
+  const copy = [...items];
+  for (let i = copy.length - 1; i > 0; i -= 1) {
+    const j = randomInt(i + 1);
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+function randomInt(max) {
+  if (window.crypto && window.crypto.getRandomValues) {
+    const values = new Uint32Array(1);
+    window.crypto.getRandomValues(values);
+    return values[0] % max;
+  }
+  return Math.floor(Math.random() * max);
+}
+
+function createSessionQuestions() {
+  const seenTexts = new Set();
+  const randomized = shuffleRandom(state.bank);
+  const selected = [];
+
+  for (const question of randomized) {
+    const key = normalizeQuestionText(question.text);
+    if (seenTexts.has(key)) continue;
+    seenTexts.add(key);
+    selected.push(question);
+    if (selected.length === TOTAL_QUESTIONS) break;
+  }
+
+  if (selected.length < TOTAL_QUESTIONS) {
+    throw new Error(`Only ${selected.length} unique questions are available for this session.`);
+  }
+
+  return selected;
+}
+
+function normalizeQuestionText(text) {
+  return text.toLowerCase().replace(/\s+/g, " ").trim();
+}
+
 function chooseQuestion() {
-  const nextMirror = TEST_MIRRORS[state.questionIndex % TEST_MIRRORS.length];
-  const nextCategory = state.questionIndex % 2 === 0 ? "Grammar" : "Vocabulary";
-  const available = state.bank
-    .filter((question) => !state.used.has(question.id))
-    .sort((a, b) => questionFit(a, nextMirror, nextCategory) - questionFit(b, nextMirror, nextCategory));
-  const window = available.slice(0, 24);
-  const next = window[(state.questionIndex * 7 + state.responses.length) % window.length] || available[0];
+  const next = state.sessionQuestions[state.questionIndex];
   state.used.add(next.id);
   return next;
-}
-
-function questionFit(question, mirror, category) {
-  const difficultyFit = Math.abs(question.difficulty - state.ability);
-  const mirrorPenalty = question.source === mirror ? 0 : 0.55;
-  const categoryPenalty = question.category === category ? 0 : 0.22;
-  const weakAreaBonus = recentMissedSubcategories().has(question.subcategory) ? -0.18 : 0;
-  return difficultyFit + mirrorPenalty + categoryPenalty + weakAreaBonus;
-}
-
-function recentMissedSubcategories() {
-  return new Set(state.responses.slice(-20).filter((response) => !response.correct).map((response) => response.subcategory));
 }
 
 function renderQuestion() {
@@ -537,6 +615,7 @@ function restart() {
   state.questionIndex = 0;
   state.ability = 3.15;
   state.responses = [];
+  state.sessionQuestions = createSessionQuestions();
   state.used = new Set();
   state.mirrorStats = {};
   updateResults();
