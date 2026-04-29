@@ -1,296 +1,8 @@
-const grammarItems = [
-  {
-    sub: "Verb tense",
-    level: 1,
-    make: (c) => ({
-      text: `Choose the best verb: ${c.person} ___ ${c.time} ${c.activity}.`,
-      options: [c.correctVerb, c.wrongVerbA, c.wrongVerbB, c.wrongVerbC],
-      answer: c.correctVerb
-    })
-  },
-  {
-    sub: "Articles",
-    level: 2,
-    make: (c) => ({
-      text: `Choose the correct article: ${c.sentence}`,
-      options: c.articleOptions,
-      answer: c.articleAnswer
-    })
-  },
-  {
-    sub: "Prepositions",
-    level: 2,
-    make: (c) => ({
-      text: `Choose the best preposition: ${c.person} is interested ___ ${c.topic}.`,
-      options: ["in", "on", "at", "for"],
-      answer: "in"
-    })
-  },
-  {
-    sub: "Subject-verb agreement",
-    level: 3,
-    make: (c) => ({
-      text: `Choose the sentence with correct agreement.`,
-      options: [
-        `The ${c.group} ${c.singularVerb} ready for the presentation.`,
-        `The ${c.group} ${c.pluralVerb} ready for the presentation.`,
-        `The ${c.group} were prepares for the presentation.`,
-        `The ${c.group} have ready for the presentation.`
-      ],
-      answer: `The ${c.group} ${c.singularVerb} ready for the presentation.`
-    })
-  },
-  {
-    sub: "Clauses and connectors",
-    level: 4,
-    make: (c) => ({
-      text: `Choose the best connector: ___ the report was short, it explained the problem clearly.`,
-      options: ["Although", "Because", "Unless", "Therefore"],
-      answer: "Although"
-    })
-  },
-  {
-    sub: "Conditionals",
-    level: 4,
-    make: (c) => ({
-      text: `Choose the best form: If the company ${c.condition}, it would attract more clients.`,
-      options: ["reduced its prices", "will reduce its prices", "reduces its prices", "has reduced its prices"],
-      answer: "reduced its prices"
-    })
-  },
-  {
-    sub: "Passive voice",
-    level: 5,
-    make: (c) => ({
-      text: `Choose the best passive form: The survey results ___ by the research team yesterday.`,
-      options: ["were analyzed", "analyzed", "have analyzing", "were analyze"],
-      answer: "were analyzed"
-    })
-  },
-  {
-    sub: "Reduced clauses",
-    level: 6,
-    make: (c) => ({
-      text: `Choose the most concise academic sentence.`,
-      options: [
-        `The data collected during the trial support the original hypothesis.`,
-        `The data which it was collected during the trial support the original hypothesis.`,
-        `The data were collected during the trial supporting the original hypothesis.`,
-        `The data collecting during the trial support the original hypothesis.`
-      ],
-      answer: `The data collected during the trial support the original hypothesis.`
-    })
-  }
-];
-
-const vocabularyItems = [
-  {
-    sub: "Everyday vocabulary",
-    level: 1,
-    make: (c) => ({
-      text: `Which word means almost the same as "${c.easyWord}"?`,
-      options: c.easyOptions,
-      answer: c.easyAnswer
-    })
-  },
-  {
-    sub: "Word forms",
-    level: 2,
-    make: (c) => ({
-      text: `Choose the correct word form: The teacher gave a clear ___ of the rule.`,
-      options: ["explanation", "explain", "explained", "explaining"],
-      answer: "explanation"
-    })
-  },
-  {
-    sub: "Business vocabulary",
-    level: 3,
-    make: (c) => ({
-      text: `In a workplace email, "deadline" means the time when something must be ___.`,
-      options: ["finished", "forgotten", "expanded", "borrowed"],
-      answer: "finished"
-    })
-  },
-  {
-    sub: "Transitions",
-    level: 3,
-    make: (c) => ({
-      text: `Choose the transition that shows contrast: The plan is inexpensive; ___, it may take too long.`,
-      options: ["however", "therefore", "for example", "similarly"],
-      answer: "however"
-    })
-  },
-  {
-    sub: "Academic vocabulary",
-    level: 4,
-    make: (c) => ({
-      text: `Which word best completes the sentence? The results were ___ with the earlier study.`,
-      options: ["consistent", "casual", "temporary", "visible"],
-      answer: "consistent"
-    })
-  },
-  {
-    sub: "Meaning in context",
-    level: 4,
-    make: (c) => ({
-      text: `In the sentence "The policy may hinder small businesses," what does "hinder" mean?`,
-      options: ["make progress difficult", "give official permission", "describe in detail", "pay in advance"],
-      answer: "make progress difficult"
-    })
-  },
-  {
-    sub: "Collocations",
-    level: 5,
-    make: (c) => ({
-      text: `Choose the natural collocation: The committee will ___ a decision after reviewing the evidence.`,
-      options: ["make", "do", "take up", "create up"],
-      answer: "make"
-    })
-  },
-  {
-    sub: "Register and nuance",
-    level: 6,
-    make: (c) => ({
-      text: `Which phrase is most appropriate in a formal report?`,
-      options: [
-        "The findings indicate a moderate increase.",
-        "The numbers kind of went up.",
-        "Things got a bit better, basically.",
-        "We saw stuff rise a little."
-      ],
-      answer: "The findings indicate a moderate increase."
-    })
-  }
-];
-
-const contexts = [
-  {
-    person: "Mina",
-    time: "every morning",
-    activity: "reviews her notes",
-    correctVerb: "reviews",
-    wrongVerbA: "review",
-    wrongVerbB: "reviewing",
-    wrongVerbC: "is review",
-    sentence: "I saw ___ useful chart in the lecture notes.",
-    articleOptions: ["a", "an", "the", "no article"],
-    articleAnswer: "a",
-    topic: "environmental policy",
-    group: "team",
-    singularVerb: "is",
-    pluralVerb: "are",
-    condition: "reduced its prices",
-    easyWord: "large",
-    easyOptions: ["big", "late", "cold", "near"],
-    easyAnswer: "big"
-  },
-  {
-    person: "Carlos",
-    time: "on weekends",
-    activity: "studies business vocabulary",
-    correctVerb: "studies",
-    wrongVerbA: "study",
-    wrongVerbB: "studying",
-    wrongVerbC: "has study",
-    sentence: "She is ___ honest applicant with strong references.",
-    articleOptions: ["an", "a", "the", "no article"],
-    articleAnswer: "an",
-    topic: "customer service",
-    group: "department",
-    singularVerb: "is",
-    pluralVerb: "are",
-    condition: "improved its website",
-    easyWord: "quick",
-    easyOptions: ["fast", "quiet", "heavy", "full"],
-    easyAnswer: "fast"
-  },
-  {
-    person: "Aiko",
-    time: "after class",
-    activity: "practices listening exercises",
-    correctVerb: "practices",
-    wrongVerbA: "practice",
-    wrongVerbB: "practiced",
-    wrongVerbC: "is practice",
-    sentence: "The speaker described ___ unusual solution.",
-    articleOptions: ["an", "a", "the", "no article"],
-    articleAnswer: "an",
-    topic: "public transportation",
-    group: "committee",
-    singularVerb: "is",
-    pluralVerb: "are",
-    condition: "changed its schedule",
-    easyWord: "begin",
-    easyOptions: ["start", "close", "carry", "sell"],
-    easyAnswer: "start"
-  },
-  {
-    person: "Nadia",
-    time: "each Friday",
-    activity: "writes a short report",
-    correctVerb: "writes",
-    wrongVerbA: "write",
-    wrongVerbB: "writing",
-    wrongVerbC: "does write",
-    sentence: "We need ___ information before we decide.",
-    articleOptions: ["no article", "a", "an", "the"],
-    articleAnswer: "no article",
-    topic: "online learning",
-    group: "staff",
-    singularVerb: "is",
-    pluralVerb: "are",
-    condition: "offered training",
-    easyWord: "help",
-    easyOptions: ["assist", "arrive", "divide", "invite"],
-    easyAnswer: "assist"
-  }
-];
-
 const TOTAL_QUESTIONS = 120;
 const FIRST_ESTIMATE_AT = 5;
+const BANK_SIZE = 1500;
 const TEST_MIRRORS = ["TOEFL", "IELTS", "TOEIC", "CEFR"];
-const scenarioSettings = [
-  "university advising",
-  "workplace onboarding",
-  "airport information desk",
-  "online course",
-  "community workshop",
-  "medical reception",
-  "library help desk",
-  "customer support",
-  "research seminar",
-  "team meeting",
-  "housing office",
-  "bank appointment"
-];
-const scenarioTopics = [
-  "scheduling",
-  "market research",
-  "public transportation",
-  "environmental policy",
-  "student services",
-  "technical support",
-  "health and safety",
-  "budget planning",
-  "travel arrangements",
-  "product feedback",
-  "academic writing",
-  "job training"
-];
-const scenarioActions = [
-  "clarifying a report",
-  "checking a summary",
-  "preparing a formal reply",
-  "reviewing a short notice",
-  "editing a presentation",
-  "answering a client question",
-  "comparing two options",
-  "summarizing a policy",
-  "planning a meeting",
-  "evaluating instructions",
-  "responding to feedback",
-  "confirming details"
-];
+
 const cefrBands = [
   { min: 0, label: "A1" },
   { min: 1.8, label: "A2" },
@@ -300,110 +12,515 @@ const cefrBands = [
   { min: 5.45, label: "C2" }
 ];
 
+const names = ["Mina", "Carlos", "Aiko", "Nadia", "Omar", "Lena", "Sofia", "Daniel", "Rina", "Mateo", "Hana", "Jonas"];
+const places = ["language center", "community college", "library", "training office", "customer service desk", "research lab", "travel agency", "health clinic", "housing office", "conference room"];
+const reports = ["attendance report", "budget summary", "customer survey", "safety notice", "research abstract", "training schedule", "course outline", "travel itinerary"];
+const topics = ["class schedules", "workplace training", "public transport", "customer feedback", "health appointments", "online learning", "housing rules", "research results", "budget planning", "job interviews"];
+const simpleObjects = ["forms", "emails", "instructions", "notices", "receipts", "charts", "applications", "reports", "messages", "appointments"];
+const programs = ["morning class", "evening class", "new-student orientation", "staff workshop", "exam review group", "conversation club", "writing lab", "internship program", "parent meeting", "online seminar", "career clinic", "visitor briefing", "research update", "reading circle", "skills course", "placement meeting", "study group"];
+
+const vocabularySets = {
+  easySynonyms: [
+    ["large", "big", "late", "cold", "near"],
+    ["quick", "fast", "quiet", "heavy", "full"],
+    ["begin", "start", "close", "carry", "sell"],
+    ["help", "assist", "arrive", "divide", "invite"],
+    ["buy", "purchase", "repair", "borrow", "cancel"],
+    ["job", "position", "machine", "receipt", "hallway"],
+    ["speak", "talk", "lend", "print", "pack"],
+    ["need", "require", "refuse", "repair", "reduce"]
+  ],
+  workplace: [
+    ["deadline", "the time something must be finished", "a person who trains employees", "a room for interviews", "a printed advertisement"],
+    ["invoice", "a document requesting payment", "a list of holidays", "a message of apology", "a workplace rule"],
+    ["supervisor", "a person who manages workers", "a customer complaint", "a delivery address", "a meeting agenda"],
+    ["extension", "extra time to finish something", "a written signature", "a travel discount", "a safety problem"],
+    ["appointment", "an arranged meeting", "a monthly salary", "a product manual", "an office supply"]
+  ],
+  academic: [
+    ["consistent", "matching or agreeing with something", "easy to notice", "not lasting long", "based on luck"],
+    ["significant", "important enough to notice", "too simple to use", "made by hand", "written in advance"],
+    ["assumption", "an idea accepted before proof", "a final payment", "a public celebration", "a travel document"],
+    ["indicate", "show or suggest", "hide completely", "copy exactly", "pay immediately"],
+    ["method", "a way of doing something", "a result that cannot change", "a list of prices", "a private opinion"]
+  ],
+  contextMeanings: [
+    ["The new rule may hinder small shops.", "make progress difficult", "give official permission", "describe in detail", "pay in advance"],
+    ["The manager tried to resolve the complaint.", "find a solution to", "make larger", "read aloud", "delay without reason"],
+    ["The evidence supports the speaker's claim.", "gives reason to believe", "makes impossible", "repeats exactly", "changes the topic"],
+    ["The tutor emphasized the final paragraph.", "gave special attention to", "removed from the page", "translated into another language", "made shorter"],
+    ["The policy will affect evening classes.", "change or influence", "protect from weather", "arrive before", "write by hand"]
+  ],
+  collocations: [
+    ["make", "a decision", "do", "take", "build"],
+    ["meet", "a deadline", "arrive", "touch", "hold"],
+    ["give", "a presentation", "make", "take", "write"],
+    ["reach", "an agreement", "arrive", "make", "hold"],
+    ["raise", "a concern", "lift", "grow", "do"],
+    ["take", "responsibility", "make", "give", "hold"]
+  ],
+  register: [
+    ["The results indicate a moderate increase.", "The numbers kind of went up.", "Stuff got better, basically.", "It went up a bit, you know."],
+    ["Please let me know if further information is required.", "Tell me if you need more stuff.", "You can ask if anything is missing.", "Hit me back if you want more."],
+    ["The proposal should be revised before submission.", "The plan needs fixing before you send it.", "This thing should be changed first.", "Maybe tweak it before handing it in."],
+    ["The applicant has relevant experience in customer service.", "The applicant knows customer-service stuff.", "The applicant has done this kind of thing.", "They have some useful work background."]
+  ],
+  nuance: [
+    ["unlikely", "not expected to happen", "certain to happen", "already finished", "easy to measure"],
+    ["roughly", "approximately", "exactly", "rarely", "immediately"],
+    ["reluctant", "not willing", "not visible", "not careful", "not expensive"],
+    ["plausible", "reasonable or believable", "impossible to explain", "required by law", "easy to pronounce"],
+    ["subtle", "not obvious", "very loud", "already known", "fully complete"]
+  ]
+};
+
+const blueprints = [
+  {
+    code: "g-present-simple",
+    category: "Grammar",
+    subcategory: "Verb tense",
+    difficulty: 1.1,
+    make: (i) => {
+      const person = pick(names, i);
+      const activity = pick(["review the vocabulary list", "check the class schedule", "answer client emails", "update the attendance sheet"], i, 2);
+      return item(`Every Monday, ${person} ___ ${activity.replace(baseVerb(activity), "").trim()}.`, [thirdPerson(activity), activity, gerundPhrase(activity), `is ${gerundPhrase(activity)}`], thirdPerson(activity));
+    }
+  },
+  {
+    code: "g-past-simple",
+    category: "Grammar",
+    subcategory: "Verb tense",
+    difficulty: 1.5,
+    make: (i) => {
+      const person = pick(names, i, 1);
+      const action = pick([["sent", "send"], ["printed", "print"], ["joined", "join"], ["called", "call"], ["opened", "open"]], i);
+      return item(`Yesterday, ${person} ___ the ${pick(simpleObjects, i)} before lunch.`, [action[0], action[1], `${action[1]}s`, `has ${action[0]}`], action[0]);
+    }
+  },
+  {
+    code: "g-articles",
+    category: "Grammar",
+    subcategory: "Articles",
+    difficulty: 1.8,
+    make: (i) => {
+      const examples = [
+        ["The receptionist gave me ___ appointment card.", "an"],
+        ["We need ___ updated map for the new students.", "an"],
+        ["Carlos found ___ useful chart in the report.", "a"],
+        ["The office has ___ printer near the entrance.", "a"],
+        ["Please read ___ instructions before signing.", "the"]
+      ];
+      const ex = pick(examples, i);
+      return item(ex[0], ["a", "an", "the", "no article"], ex[1]);
+    }
+  },
+  {
+    code: "g-prepositions-time",
+    category: "Grammar",
+    subcategory: "Prepositions",
+    difficulty: 2.0,
+    make: (i) => {
+      const examples = [
+        [`The workshop starts ___ ${pick(["Monday", "Friday", "Wednesday"], i)}.`, "on"],
+        [`The interview begins ___ ${pick(["9:30", "2:15", "11:00"], i)}.`, "at"],
+        [`The course begins ___ ${pick(["September", "January", "April"], i)}.`, "in"],
+        [`The forms are due ___ the end of the week.`, "by"]
+      ];
+      const ex = pick(examples, i);
+      return item(ex[0], ["in", "on", "at", "by"], ex[1]);
+    }
+  },
+  {
+    code: "g-count-noncount",
+    category: "Grammar",
+    subcategory: "Count and noncount nouns",
+    difficulty: 2.2,
+    make: (i) => {
+      const examples = [
+        ["The advisor gave us ___ information about the exam.", "some"],
+        ["There are ___ application forms on the desk.", "several"],
+        ["The teacher asked for ___ advice about the lesson plan.", "some"],
+        ["The office received ___ complaints after the schedule changed.", "many"]
+      ];
+      const ex = pick(examples, i);
+      return item(ex[0], ["some", "many", "several", "an"], ex[1]);
+    }
+  },
+  {
+    code: "g-subject-verb",
+    category: "Grammar",
+    subcategory: "Subject-verb agreement",
+    difficulty: 2.6,
+    make: (i) => {
+      const noun = pick(["team", "department", "committee", "class"], i);
+      return item(`Choose the sentence with correct agreement.`, [
+        `The ${noun} is ready for the presentation.`,
+        `The ${noun} are ready for the presentation.`,
+        `The ${noun} have ready for the presentation.`,
+        `The ${noun} were prepares for the presentation.`
+      ], `The ${noun} is ready for the presentation.`);
+    }
+  },
+  {
+    code: "g-modals",
+    category: "Grammar",
+    subcategory: "Modals",
+    difficulty: 2.8,
+    make: (i) => item(`The safety notice says that visitors ___ wear identification badges inside the lab.`, ["must", "might", "used to", "would rather"], "must")
+  },
+  {
+    code: "g-comparatives",
+    category: "Grammar",
+    subcategory: "Comparatives",
+    difficulty: 3.0,
+    make: (i) => {
+      const adjective = pick([["clear", "clearer"], ["simple", "simpler"], ["fast", "faster"], ["quiet", "quieter"]], i);
+      return item(`The revised instructions are ___ than the first version.`, [adjective[1], adjective[0], `more ${adjective[1]}`, `most ${adjective[0]}`], adjective[1]);
+    }
+  },
+  {
+    code: "g-connectors",
+    category: "Grammar",
+    subcategory: "Clauses and connectors",
+    difficulty: 3.2,
+    make: (i) => item(`Choose the best connector: ___ the training room was small, everyone could see the screen clearly.`, ["Although", "Because", "Therefore", "Unless"], "Although")
+  },
+  {
+    code: "g-first-conditional",
+    category: "Grammar",
+    subcategory: "Conditionals",
+    difficulty: 3.4,
+    make: (i) => {
+      const result = pick(["more students will attend", "clients will receive faster replies", "the office will avoid delays", "visitors will find the room easily"], i);
+      return item(`Choose the best form: If the schedule changes, ${result}.`, [result, result.replace("will ", "would "), result.replace("will ", "are "), result.replace("will ", "have ")], result);
+    }
+  },
+  {
+    code: "g-second-conditional",
+    category: "Grammar",
+    subcategory: "Conditionals",
+    difficulty: 3.8,
+    make: (i) => item(`Choose the best form: If the clinic added evening appointments, more patients ___ after work.`, ["could visit", "can visited", "will visiting", "visit"], "could visit")
+  },
+  {
+    code: "g-passive",
+    category: "Grammar",
+    subcategory: "Passive voice",
+    difficulty: 4.2,
+    make: (i) => {
+      const doc = pick(reports, i);
+      return item(`The ${doc} ___ by the coordinator yesterday.`, ["was reviewed", "reviewed", "was reviewing", "has review"], "was reviewed");
+    }
+  },
+  {
+    code: "g-relative",
+    category: "Grammar",
+    subcategory: "Relative clauses",
+    difficulty: 4.4,
+    make: (i) => item(`Choose the best completion: The applicant ___ resume arrived late still received an interview.`, ["whose", "who", "which", "where"], "whose")
+  },
+  {
+    code: "g-reported-speech",
+    category: "Grammar",
+    subcategory: "Reported speech",
+    difficulty: 4.8,
+    make: (i) => item(`The manager said, "The meeting starts at noon." Choose the best reported speech.`, [
+      "The manager said that the meeting started at noon.",
+      "The manager said that the meeting start at noon.",
+      "The manager said the meeting has start at noon.",
+      "The manager said that noon starts the meeting."
+    ], "The manager said that the meeting started at noon.")
+  },
+  {
+    code: "g-reduced-clauses",
+    category: "Grammar",
+    subcategory: "Reduced clauses",
+    difficulty: 5.3,
+    make: (i) => item(`Choose the most concise academic sentence.`, [
+      "The data collected during the trial support the original hypothesis.",
+      "The data which it was collected during the trial support the original hypothesis.",
+      "The data collecting during the trial support the original hypothesis.",
+      "The data were collected during the trial supporting the original hypothesis."
+    ], "The data collected during the trial support the original hypothesis.")
+  },
+  {
+    code: "g-inversion",
+    category: "Grammar",
+    subcategory: "Advanced sentence structure",
+    difficulty: 5.8,
+    make: (i) => item(`Choose the grammatically correct formal sentence.`, [
+      "Only after the survey closed did the team analyze the responses.",
+      "Only after the survey closed the team analyzed the responses.",
+      "Only after closed the survey did analyze the team responses.",
+      "Only after the survey did closed the team analyze responses."
+    ], "Only after the survey closed did the team analyze the responses.")
+  },
+  {
+    code: "v-easy-synonym",
+    category: "Vocabulary",
+    subcategory: "Everyday vocabulary",
+    difficulty: 1.1,
+    make: (i) => {
+      const set = pick(vocabularySets.easySynonyms, i);
+      return item(`Which word means almost the same as "${set[0]}"?`, set.slice(1), set[1]);
+    }
+  },
+  {
+    code: "v-workplace",
+    category: "Vocabulary",
+    subcategory: "Workplace vocabulary",
+    difficulty: 1.7,
+    make: (i) => {
+      const set = pick(vocabularySets.workplace, i);
+      return item(`In an office message, "${set[0]}" means ___.`, set.slice(1), set[1]);
+    }
+  },
+  {
+    code: "v-word-forms",
+    category: "Vocabulary",
+    subcategory: "Word forms",
+    difficulty: 2.1,
+    make: (i) => {
+      const sets = [
+        ["The tutor gave a clear ___ of the grammar rule.", "explanation", "explain", "explained", "explaining"],
+        ["The office needs written ___ before it changes the booking.", "confirmation", "confirm", "confirmed", "confirming"],
+        ["The chart gives a useful ___ of the survey results.", "comparison", "compare", "compared", "comparing"],
+        ["The speaker made a brief ___ before the discussion.", "introduction", "introduce", "introduced", "introducing"]
+      ];
+      const set = pick(sets, i);
+      return item(set[0], set.slice(1), set[1]);
+    }
+  },
+  {
+    code: "v-collocations",
+    category: "Vocabulary",
+    subcategory: "Collocations",
+    difficulty: 2.5,
+    make: (i) => {
+      const set = pick(vocabularySets.collocations, i);
+      return item(`Choose the natural collocation: The coordinator will ___ ${set[1]} before Friday.`, [set[0], set[2], set[3], set[4]], set[0]);
+    }
+  },
+  {
+    code: "v-phrasal-verbs",
+    category: "Vocabulary",
+    subcategory: "Phrasal verbs",
+    difficulty: 2.9,
+    make: (i) => {
+      const sets = [
+        ["Please fill ___ the application before the interview.", "out", "up", "over", "away"],
+        ["The meeting was put ___ until Friday.", "off", "out", "up", "over"],
+        ["The teacher pointed ___ the most common error.", "out", "in", "over", "through"],
+        ["The receptionist looked ___ the appointment number.", "up", "off", "out", "away"]
+      ];
+      const set = pick(sets, i);
+      return item(set[0], set.slice(1), set[1]);
+    }
+  },
+  {
+    code: "v-transitions",
+    category: "Vocabulary",
+    subcategory: "Transitions",
+    difficulty: 3.2,
+    make: (i) => item(`Choose the transition that shows contrast: The plan is inexpensive; ___, it may take too long.`, ["however", "therefore", "for example", "similarly"], "however")
+  },
+  {
+    code: "v-context-meaning",
+    category: "Vocabulary",
+    subcategory: "Meaning in context",
+    difficulty: 3.5,
+    make: (i) => {
+      const set = pick(vocabularySets.contextMeanings, i);
+      return item(`In the sentence "${set[0]}" what does the underlined word or phrase mean?`, set.slice(1), set[1]);
+    }
+  },
+  {
+    code: "v-academic",
+    category: "Vocabulary",
+    subcategory: "Academic vocabulary",
+    difficulty: 3.9,
+    make: (i) => {
+      const set = pick(vocabularySets.academic, i);
+      return item(`In an academic discussion, "${set[0]}" means ___.`, set.slice(1), set[1]);
+    }
+  },
+  {
+    code: "v-register",
+    category: "Vocabulary",
+    subcategory: "Register",
+    difficulty: 4.3,
+    make: (i) => {
+      const set = pick(vocabularySets.register, i);
+      return item(`Which sentence is most appropriate for a formal report?`, set, set[0]);
+    }
+  },
+  {
+    code: "v-nuance",
+    category: "Vocabulary",
+    subcategory: "Nuance",
+    difficulty: 4.7,
+    make: (i) => {
+      const set = pick(vocabularySets.nuance, i);
+      return item(`Which meaning best matches "${set[0]}"?`, set.slice(1), set[1]);
+    }
+  },
+  {
+    code: "v-hedging",
+    category: "Vocabulary",
+    subcategory: "Hedging and precision",
+    difficulty: 5.2,
+    make: (i) => item(`Which sentence uses cautious academic language?`, [
+      "The findings suggest that attendance may affect course completion.",
+      "The findings prove that attendance always causes success.",
+      "The findings are totally certain for every student.",
+      "The findings show that no other factor matters."
+    ], "The findings suggest that attendance may affect course completion.")
+  },
+  {
+    code: "v-discourse",
+    category: "Vocabulary",
+    subcategory: "Discourse function",
+    difficulty: 5.6,
+    make: (i) => item(`Which phrase best introduces a limitation in an academic presentation?`, [
+      "One limitation of this study is that the sample was small.",
+      "This study is perfect because the sample was small.",
+      "The sample was small, so the topic is not worth discussing.",
+      "A small sample proves that the results are universal."
+    ], "One limitation of this study is that the sample was small.")
+  }
+];
+
 const state = {
   bank: [],
   current: null,
   answered: false,
   selected: "",
   questionIndex: 0,
-  ability: 3.15,
+  ability: 1.45,
   responses: [],
-  sessionQuestions: [],
-  used: new Set(),
+  candidateOrder: [],
+  usedIds: new Set(),
+  usedTexts: new Set(),
   mirrorStats: {}
 };
 
 function createQuestionBank() {
   const bank = [];
-  const templates = [...grammarItems.map((item) => ({ ...item, category: "Grammar" })), ...vocabularyItems.map((item) => ({ ...item, category: "Vocabulary" }))];
-
-  for (let i = 0; i < 1500; i += 1) {
-    const template = templates[i % templates.length];
-    const context = contexts[(i + template.level) % contexts.length];
-    const made = template.make(context);
-    const id = `${template.category[0]}-${template.sub.replace(/\W+/g, "-").toLowerCase()}-${i + 1}`;
-
+  for (let i = 0; i < BANK_SIZE; i += 1) {
+    const blueprint = blueprints[i % blueprints.length];
+    const made = blueprint.make(i);
+    const mirror = TEST_MIRRORS[Math.floor(i / blueprints.length) % TEST_MIRRORS.length];
     bank.push({
-      id,
-      category: template.category,
-      subcategory: template.sub,
-      source: TEST_MIRRORS[i % TEST_MIRRORS.length],
-      difficulty: Math.min(6, Math.max(1, template.level + ((i % 5) - 2) * 0.16)),
-      text: contextualizeQuestion(made.text, i),
-      options: shuffle(made.options, i),
+      id: `${blueprint.code}-${i + 1}`,
+      blueprint: blueprint.code,
+      category: blueprint.category,
+      subcategory: blueprint.subcategory,
+      source: mirror,
+      difficulty: jitterDifficulty(blueprint.difficulty, i),
+      text: contextualize(made.text, blueprint, i),
+      options: shuffleStable(uniqueOptions(made.options), i),
       answer: made.answer
     });
   }
-
+  validateBank(bank);
   return bank;
 }
 
-function contextualizeQuestion(text, index) {
-  const setting = scenarioSettings[index % scenarioSettings.length];
-  const topic = scenarioTopics[Math.floor(index / scenarioSettings.length) % scenarioTopics.length];
-  const action = scenarioActions[Math.floor(index / (scenarioSettings.length * scenarioTopics.length)) % scenarioActions.length];
-  return `In a ${setting} context about ${topic}, a speaker is ${action}. ${text}`;
+function item(text, options, answer) {
+  return { text, options, answer };
 }
 
-function lowercaseFirst(text) {
-  return text.charAt(0).toLowerCase() + text.slice(1);
-}
-
-function shuffle(items, seed) {
-  const copy = [...items];
-  for (let i = copy.length - 1; i > 0; i -= 1) {
-    const j = (seed + i * 7) % (i + 1);
-    [copy[i], copy[j]] = [copy[j], copy[i]];
+function contextualize(text, blueprint, index) {
+  const name = pick(names, index, 7);
+  const topic = pick(topics, index, 3);
+  const report = pick(reports, index, 5);
+  const program = pick(programs, index, 11);
+  if (blueprint.category === "Grammar") {
+    return `During an English class in the ${program}, ${name} reads from the ${report} about ${topic}: ${text}`;
   }
-  return copy;
+  return `During a vocabulary lesson in the ${program}, ${name} reads from the ${report} about ${topic}: ${text}`;
 }
 
-function shuffleRandom(items) {
-  const copy = [...items];
-  for (let i = copy.length - 1; i > 0; i -= 1) {
-    const j = randomInt(i + 1);
-    [copy[i], copy[j]] = [copy[j], copy[i]];
-  }
-  return copy;
-}
-
-function randomInt(max) {
-  if (window.crypto && window.crypto.getRandomValues) {
-    const values = new Uint32Array(1);
-    window.crypto.getRandomValues(values);
-    return values[0] % max;
-  }
-  return Math.floor(Math.random() * max);
-}
-
-function createSessionQuestions() {
-  const seenTexts = new Set();
-  const randomized = shuffleRandom(state.bank);
-  const selected = [];
-
-  for (const question of randomized) {
+function validateBank(bank) {
+  const textSet = new Set();
+  const issues = [];
+  bank.forEach((question) => {
     const key = normalizeQuestionText(question.text);
-    if (seenTexts.has(key)) continue;
-    seenTexts.add(key);
-    selected.push(question);
-    if (selected.length === TOTAL_QUESTIONS) break;
-  }
-
-  if (selected.length < TOTAL_QUESTIONS) {
-    throw new Error(`Only ${selected.length} unique questions are available for this session.`);
-  }
-
-  return selected;
+    if (textSet.has(key)) issues.push(`Duplicate prompt: ${question.text}`);
+    textSet.add(key);
+    if (!question.options.includes(question.answer)) issues.push(`Missing answer: ${question.id}`);
+    if (new Set(question.options).size !== question.options.length) issues.push(`Duplicate option: ${question.id}`);
+    if (question.options.length !== 4) issues.push(`Wrong option count: ${question.id}`);
+    if (!question.category || !question.subcategory || !question.difficulty) issues.push(`Missing metadata: ${question.id}`);
+  });
+  if (issues.length) throw new Error(`Question bank failed QA: ${issues.slice(0, 5).join(" | ")}`);
 }
 
-function normalizeQuestionText(text) {
-  return text.toLowerCase().replace(/\s+/g, " ").trim();
+function createCandidateOrder() {
+  return shuffleRandom(state.bank);
 }
 
 function chooseQuestion() {
-  const next = state.sessionQuestions[state.questionIndex];
-  state.used.add(next.id);
-  return next;
+  const target = targetDifficulty();
+  const ceiling = difficultyCeiling();
+  const floor = difficultyFloor();
+  const recentBlueprints = new Set(state.responses.slice(-10).map((response) => response.blueprint));
+  const recentWeaknesses = new Set(state.responses.slice(-5).map((response) => response.subcategory));
+  let best = null;
+  let bestScore = Number.POSITIVE_INFINITY;
+
+  for (const question of state.candidateOrder) {
+    if (state.usedIds.has(question.id) || state.usedTexts.has(normalizeQuestionText(question.text))) continue;
+    const outsideRange = question.difficulty < floor || question.difficulty > ceiling;
+    const distance = Math.abs(question.difficulty - target);
+    const blueprintPenalty = recentBlueprints.has(question.blueprint) ? 1.2 : 0;
+    const weaknessPenalty = recentWeaknesses.has(question.subcategory) ? 0.55 : 0;
+    const categoryPenalty = desiredCategory() === question.category ? 0 : 0.16;
+    const outsidePenalty = outsideRange ? 4 + Math.abs(question.difficulty - clamp(question.difficulty, floor, ceiling)) : 0;
+    const randomTieBreak = randomInt(1000) / 100000;
+    const score = distance + blueprintPenalty + weaknessPenalty + categoryPenalty + outsidePenalty + randomTieBreak;
+    if (score < bestScore) {
+      best = question;
+      bestScore = score;
+    }
+  }
+
+  if (!best) throw new Error("No unused question is available.");
+  state.usedIds.add(best.id);
+  state.usedTexts.add(normalizeQuestionText(best.text));
+  return best;
+}
+
+function desiredCategory() {
+  const grammarMisses = state.responses.filter((response) => !response.correct && response.category === "Grammar").length;
+  const vocabularyMisses = state.responses.filter((response) => !response.correct && response.category === "Vocabulary").length;
+  if (grammarMisses > vocabularyMisses + 1) return "Grammar";
+  if (vocabularyMisses > grammarMisses + 1) return "Vocabulary";
+  return state.questionIndex % 2 === 0 ? "Grammar" : "Vocabulary";
+}
+
+function targetDifficulty() {
+  const answered = state.responses.length;
+  if (answered < 4) return 1.3 + answered * 0.18;
+  const rolling = rollingAccuracy(8);
+  const gentleLift = rolling >= 0.85 ? 0.42 : rolling >= 0.7 ? 0.18 : -0.1;
+  return clamp(state.ability + gentleLift, 1.1, 6);
+}
+
+function difficultyFloor() {
+  const answered = state.responses.length;
+  if (answered < 8) return 1;
+  return clamp(state.ability - 0.9, 1, 6);
+}
+
+function difficultyCeiling() {
+  const answered = state.responses.length;
+  const rolling = rollingAccuracy(8);
+  if (answered < 5) return 2.1;
+  if (answered < 10) return rolling >= 0.8 ? 2.8 : 2.35;
+  if (answered < 20) return rolling >= 0.85 ? 3.5 : rolling >= 0.65 ? 3.0 : 2.55;
+  if (answered < 40) return rolling >= 0.85 ? state.ability + 1.0 : state.ability + 0.55;
+  return rolling >= 0.85 ? state.ability + 1.15 : rolling >= 0.65 ? state.ability + 0.75 : state.ability + 0.35;
 }
 
 function renderQuestion() {
@@ -421,9 +538,9 @@ function renderQuestion() {
     `Level ${state.current.difficulty.toFixed(1)}`
   ].map((tag) => `<span class="tag">${tag}</span>`).join("");
   document.getElementById("questionText").textContent = state.current.text;
-  document.getElementById("answers").innerHTML = state.current.options.map((option, index) => `
+  document.getElementById("answers").innerHTML = state.current.options.map((option) => `
     <label class="answer-option">
-      <input type="radio" name="answer" value="${escapeAttribute(option)}" ${index === 0 ? "" : ""}>
+      <input type="radio" name="answer" value="${escapeAttribute(option)}">
       <span>${option}</span>
     </label>
   `).join("");
@@ -437,10 +554,6 @@ function renderQuestion() {
       state.selected = event.target.value;
     });
   });
-}
-
-function escapeAttribute(value) {
-  return value.replaceAll("&", "&amp;").replaceAll('"', "&quot;").replaceAll("<", "&lt;");
 }
 
 function submitAnswer() {
@@ -485,11 +598,12 @@ function submitAnswer() {
 }
 
 function updateAbility(correct) {
-  const answeredCount = state.responses.length + 1;
-  const expected = 1 / (1 + Math.exp(-(state.ability - state.current.difficulty) * 1.35));
-  const error = (correct ? 1 : 0) - expected;
-  const learningRate = Math.max(0.18, 0.76 - answeredCount * 0.0045);
-  state.ability = clamp(state.ability + learningRate * error, 1, 6);
+  const recent = state.responses.slice(-7).map((response) => response.correct).concat(correct);
+  const rolling = recent.filter(Boolean).length / recent.length;
+  const performanceEstimate = state.current.difficulty + (correct ? 0.52 : -0.9);
+  const consistencyAdjustment = (rolling - 0.68) * 0.28;
+  const learningRate = Math.max(0.075, 0.22 - state.responses.length * 0.0008);
+  state.ability = clamp((state.ability * (1 - learningRate)) + ((performanceEstimate + consistencyAdjustment) * learningRate), 1, 6);
 }
 
 function updateMirrorStats(correct) {
@@ -503,15 +617,12 @@ function updateResults() {
   const band = cefrFromAbility(state.ability);
   const estimated = state.responses.length >= FIRST_ESTIMATE_AT;
   const correctCount = state.responses.filter((response) => response.correct).length;
-  const title = estimated ? `${band} estimate` : "Collecting signal";
-
-  document.getElementById("result-title").textContent = title;
+  document.getElementById("result-title").textContent = estimated ? `${band} estimate` : "Collecting signal";
   document.getElementById("toeflScore").textContent = estimated ? toeflEstimate() : "after 5";
   document.getElementById("ieltsScore").textContent = estimated ? ieltsEstimate() : "after 5";
   document.getElementById("toeicScore").textContent = estimated ? toeicEstimate() : "after 5";
   document.getElementById("cefrScore").textContent = estimated ? cefrEstimate() : `${correctCount}/${state.responses.length || 0}`;
   document.getElementById("precisionText").textContent = precisionLabel();
-
   renderWeaknesses();
 }
 
@@ -519,12 +630,12 @@ function precisionLabel() {
   const answered = state.responses.length;
   if (answered < FIRST_ESTIMATE_AT) return `First estimate after ${FIRST_ESTIMATE_AT} questions`;
   if (answered >= TOTAL_QUESTIONS) return "Final 120-question estimate";
-  return `${answered}/${TOTAL_QUESTIONS} answered. Precision tightens every question across TOEFL, IELTS, TOEIC, and CEFR mirrors.`;
+  return `${answered}/${TOTAL_QUESTIONS} answered. Difficulty rises gradually unless recent accuracy is strong.`;
 }
 
 function standardError() {
   const answered = Math.max(FIRST_ESTIMATE_AT, state.responses.length);
-  return Math.max(0.1, 1.25 / Math.sqrt(answered / 4));
+  return Math.max(0.1, 1.2 / Math.sqrt(answered / 4));
 }
 
 function abilityRange() {
@@ -533,10 +644,6 @@ function abilityRange() {
     low: clamp(state.ability - spread, 1, 6),
     high: clamp(state.ability + spread, 1, 6)
   };
-}
-
-function cefrFromAbility(ability) {
-  return cefrBands.reduce((active, band) => ability >= band.min ? band.label : active, cefrBands[0].label);
 }
 
 function cefrEstimate() {
@@ -561,6 +668,10 @@ function toeicEstimate() {
   return formatRange(toeicFromAbility(range.low), toeicFromAbility(range.high), 5);
 }
 
+function cefrFromAbility(ability) {
+  return cefrBands.reduce((active, band) => ability >= band.min ? band.label : active, cefrBands[0].label);
+}
+
 function toeflFromAbility(ability) {
   return Math.round(clamp(5 + ((ability - 1) / 5) * 115, 0, 120));
 }
@@ -573,17 +684,6 @@ function toeicFromAbility(ability) {
   return roundToStep(clamp(10 + ((ability - 1) / 5) * 980, 10, 990), 5);
 }
 
-function formatRange(low, high, step, fixedDigits = 0) {
-  const roundedLow = roundToStep(Math.min(low, high), step);
-  const roundedHigh = roundToStep(Math.max(low, high), step);
-  const format = (value) => fixedDigits ? value.toFixed(fixedDigits) : String(Math.round(value));
-  return roundedLow === roundedHigh ? format(roundedLow) : `${format(roundedLow)}-${format(roundedHigh)}`;
-}
-
-function roundToStep(value, step) {
-  return Math.round(value / step) * step;
-}
-
 function renderWeaknesses() {
   const misses = state.responses.filter((response) => !response.correct);
   const groups = {
@@ -591,10 +691,83 @@ function renderWeaknesses() {
     Vocabulary: countBySubcategory(misses.filter((response) => response.category === "Vocabulary"))
   };
 
-  document.getElementById("grammarCount").textContent = String(Object.values(groups.Grammar).reduce((sum, count) => sum + count, 0));
-  document.getElementById("vocabularyCount").textContent = String(Object.values(groups.Vocabulary).reduce((sum, count) => sum + count, 0));
+  document.getElementById("grammarCount").textContent = String(sumCounts(groups.Grammar));
+  document.getElementById("vocabularyCount").textContent = String(sumCounts(groups.Vocabulary));
   renderChips("grammarWeaknesses", groups.Grammar, "No grammar weakness registered yet");
   renderChips("vocabularyWeaknesses", groups.Vocabulary, "No vocabulary weakness registered yet");
+}
+
+function restart() {
+  state.questionIndex = 0;
+  state.ability = 1.45;
+  state.responses = [];
+  state.candidateOrder = createCandidateOrder();
+  state.usedIds = new Set();
+  state.usedTexts = new Set();
+  state.mirrorStats = {};
+  updateResults();
+  renderQuestion();
+}
+
+function pick(values, index, offset = 0) {
+  return values[(index + offset) % values.length];
+}
+
+function thirdPerson(phrase) {
+  const [verb, ...rest] = phrase.split(" ");
+  const converted = verb.endsWith("s") || verb.endsWith("x") || verb.endsWith("ch") ? `${verb}es` : verb.endsWith("y") ? `${verb.slice(0, -1)}ies` : `${verb}s`;
+  return [converted, ...rest].join(" ");
+}
+
+function baseVerb(phrase) {
+  return phrase.split(" ")[0];
+}
+
+function gerundPhrase(phrase) {
+  const [verb, ...rest] = phrase.split(" ");
+  const gerund = verb.endsWith("e") && !verb.endsWith("ee") ? `${verb.slice(0, -1)}ing` : `${verb}ing`;
+  return [gerund, ...rest].join(" ");
+}
+
+function jitterDifficulty(difficulty, index) {
+  return clamp(difficulty + ((index % 5) - 2) * 0.06, 1, 6);
+}
+
+function uniqueOptions(options) {
+  return [...new Set(options)];
+}
+
+function shuffleStable(items, seed) {
+  const copy = [...items];
+  for (let i = copy.length - 1; i > 0; i -= 1) {
+    const j = (seed + i * 7) % (i + 1);
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+function shuffleRandom(items) {
+  const copy = [...items];
+  for (let i = copy.length - 1; i > 0; i -= 1) {
+    const j = randomInt(i + 1);
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+function randomInt(max) {
+  if (window.crypto && window.crypto.getRandomValues) {
+    const values = new Uint32Array(1);
+    window.crypto.getRandomValues(values);
+    return values[0] % max;
+  }
+  return Math.floor(Math.random() * max);
+}
+
+function rollingAccuracy(size) {
+  const recent = state.responses.slice(-size);
+  if (!recent.length) return 0.5;
+  return recent.filter((response) => response.correct).length / recent.length;
 }
 
 function countBySubcategory(items) {
@@ -611,15 +784,27 @@ function renderChips(targetId, values, emptyText) {
     : `<span class="chip empty">${emptyText}</span>`;
 }
 
-function restart() {
-  state.questionIndex = 0;
-  state.ability = 3.15;
-  state.responses = [];
-  state.sessionQuestions = createSessionQuestions();
-  state.used = new Set();
-  state.mirrorStats = {};
-  updateResults();
-  renderQuestion();
+function sumCounts(values) {
+  return Object.values(values).reduce((sum, count) => sum + count, 0);
+}
+
+function normalizeQuestionText(text) {
+  return text.toLowerCase().replace(/\s+/g, " ").trim();
+}
+
+function escapeAttribute(value) {
+  return value.replaceAll("&", "&amp;").replaceAll('"', "&quot;").replaceAll("<", "&lt;");
+}
+
+function formatRange(low, high, step, fixedDigits = 0) {
+  const roundedLow = roundToStep(Math.min(low, high), step);
+  const roundedHigh = roundToStep(Math.max(low, high), step);
+  const format = (value) => fixedDigits ? value.toFixed(fixedDigits) : String(Math.round(value));
+  return roundedLow === roundedHigh ? format(roundedLow) : `${format(roundedLow)}-${format(roundedHigh)}`;
+}
+
+function roundToStep(value, step) {
+  return Math.round(value / step) * step;
 }
 
 function clamp(value, min, max) {

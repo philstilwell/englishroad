@@ -2,7 +2,7 @@
 
 Static GitHub Pages app for `englishroad.com`.
 
-The assessment uses a generated bank of 1,500 original TOEFL, IELTS, TOEIC, and CEFR-mirrored multiple-choice questions. Each session draws 120 randomized, non-repeating visible questions from the full bank. It gives its first estimate after five answers, then continues through 120 questions while progressively narrowing the CEFR, TOEFL iBT, IELTS, and TOEIC Listening & Reading ranges. Missed items are registered under parent weakness categories, `Grammar` and `Vocabulary`, with sub-weaknesses beneath each.
+The assessment uses a generated bank of 1,500 original TOEFL, IELTS, TOEIC, and CEFR-mirrored multiple-choice questions. Each item is generated from a controlled blueprint with coded difficulty, parent category, and sub-weakness. Sessions draw non-repeating questions from the full bank, start with easy items, and only move sharply upward after strong recent accuracy. Missed items are registered under parent weakness categories, `Grammar` and `Vocabulary`, with sub-weaknesses beneath each.
 
 ## Deploy on GitHub Pages
 
