@@ -434,7 +434,7 @@ const blueprints = [
     difficulty: 3.4,
     make: (i) => {
       const result = pick(["more students will attend", "clients will receive faster replies", "the office will avoid delays", "visitors will find the room easily"], i);
-      return item(`Choose the best words: If the schedule changes, ${result}.`, [result, result.replace("will ", "would "), result.replace("will ", "are "), result.replace("will ", "have ")], result);
+      return item(`Choose the best words: If the schedule changes, ___.`, [result, result.replace("will ", "would "), result.replace("will ", "are "), result.replace("will ", "have ")], result);
     }
   },
   {
@@ -881,18 +881,18 @@ const supplementalQuestionSets = {
     ["I wonder what the company will do ___ the product launch failed.", ["now that", "because that", "during", "while"], "now that"]
   ],
   correctSentences: [
-    ["Which sentence is correct?", ["It is almost 2 p.m. now.", "It has almost 2 p.m. now.", "It close to 2 p.m. now.", "2 p.m. is almost now."], "It is almost 2 p.m. now."],
-    ["Choose the correct sentence.", ["Because I was tired, I went to bed.", "I was tired. Because I went to bed.", "I went to bed. Because I was tired.", "I was tired because I went to bed."], "Because I was tired, I went to bed."],
-    ["Which sentence is correct?", ["Could you tell me what the homework is?", "Could you tell to me the homework?", "Would you say me the homework?", "Would you say to me the homework?"], "Could you tell me what the homework is?"],
-    ["Choose the best sentence.", ["Were you born the same year as I was?", "Are you born the same year with me?", "Do you and I have the same year of born?", "Are we born the same year?"], "Were you born the same year as I was?"],
-    ["Which sentence is correct?", ["There are five participants.", "There is five participants.", "There be five participants.", "There will has five participants."], "There are five participants."],
-    ["Choose the correct sentence.", ["The teacher prohibits students from eating in class.", "The teacher prohibits students to eat in class.", "The teacher has prohibit students from eating in class.", "The teacher have prohibited students from eating in class."], "The teacher prohibits students from eating in class."],
-    ["Which sentence is correct?", ["My brother earns much more than I do.", "My brother make much more than I do.", "My brother has an income much more than I do.", "My brother is paid much more than I do earn."], "My brother earns much more than I do."],
-    ["Choose the best sentence.", ["I had my hair cut by the barber.", "I cut my hair by the barber.", "I am cutting my hairs at the barber.", "I had my hairs cut by the barber."], "I had my hair cut by the barber."],
-    ["Which sentence is correct?", ["I have been busy recently.", "I have busy life recently.", "I am busy recently.", "I had been busy recently."], "I have been busy recently."],
-    ["Choose the correct sentence.", ["Most people do not worry about earthquakes.", "Almost people do not worry about earthquakes.", "Most of people do not worry about earthquakes.", "Most of the peoples do not worry about earthquakes."], "Most people do not worry about earthquakes."],
-    ["Which sentence is correct?", ["I enjoy watching kittens play.", "I enjoy to watch kittens play.", "I enjoy to look kittens playing.", "I am enjoying to view kittens."], "I enjoy watching kittens play."],
-    ["Choose the best sentence.", ["It does not matter what people think about you.", "It does not care what people think about you.", "It does not important what people think about you.", "It does not problem what people think about you."], "It does not matter what people think about you."]
+    { text: "Which sentence is correct?", options: ["It is almost 2 p.m. now.", "It has almost 2 p.m. now.", "It close to 2 p.m. now.", "2 p.m. is almost now."], answer: "It is almost 2 p.m. now.", subcategory: "Advanced sentence structure" },
+    { text: "Choose the correct sentence.", options: ["Because I was tired, I went to bed.", "I was tired. Because I went to bed.", "I went to bed. Because I was tired.", "I was tired because I went to bed."], answer: "Because I was tired, I went to bed.", subcategory: "Clauses and connectors" },
+    { text: "Which sentence is correct?", options: ["Could you tell me what the homework is?", "Could you tell to me the homework?", "Would you say me the homework?", "Would you say to me the homework?"], answer: "Could you tell me what the homework is?", subcategory: "Advanced sentence structure" },
+    { text: "Choose the best sentence.", options: ["Were you born the same year as I was?", "Are you born the same year with me?", "Do you and I have the same year of born?", "Are we born the same year?"], answer: "Were you born the same year as I was?", subcategory: "Advanced sentence structure" },
+    { text: "Which sentence is correct?", options: ["There are five participants.", "There is five participants.", "There be five participants.", "There will has five participants."], answer: "There are five participants.", subcategory: "Subject-verb agreement" },
+    { text: "Choose the correct sentence.", options: ["The teacher prohibits students from eating in class.", "The teacher prohibits students to eat in class.", "The teacher has prohibit students from eating in class.", "The teacher have prohibited students from eating in class."], answer: "The teacher prohibits students from eating in class.", subcategory: "Verb tense" },
+    { text: "Which sentence is correct?", options: ["My brother earns much more than I do.", "My brother make much more than I do.", "My brother has an income much more than I do.", "My brother is paid much more than I do earn."], answer: "My brother earns much more than I do.", subcategory: "Comparatives" },
+    { text: "Choose the best sentence.", options: ["I had my hair cut by the barber.", "I cut my hair by the barber.", "I am cutting my hairs at the barber.", "I had my hairs cut by the barber."], answer: "I had my hair cut by the barber.", subcategory: "Passive voice" },
+    { text: "Which sentence is correct?", options: ["I have been busy recently.", "I have busy life recently.", "I am busy recently.", "I had been busy recently."], answer: "I have been busy recently.", subcategory: "Verb tense" },
+    { text: "Choose the correct sentence.", options: ["Most people do not worry about earthquakes.", "Almost people do not worry about earthquakes.", "Most of people do not worry about earthquakes.", "Most of the peoples do not worry about earthquakes."], answer: "Most people do not worry about earthquakes.", subcategory: "Count and noncount nouns" },
+    { text: "Which sentence is correct?", options: ["I enjoy watching kittens play.", "I enjoy to watch kittens play.", "I enjoy to look kittens playing.", "I am enjoying to view kittens."], answer: "I enjoy watching kittens play.", subcategory: "Clauses and connectors" },
+    { text: "Choose the best sentence.", options: ["It does not matter what people think about you.", "It does not care what people think about you.", "It does not important what people think about you.", "It does not problem what people think about you."], answer: "It does not matter what people think about you.", subcategory: "Advanced sentence structure" }
   ]
 };
 
@@ -912,6 +912,7 @@ const supplementalBlueprints = [
   ...blueprint,
   make: (i) => {
     const set = pick(blueprint.sets, i);
+    if (set && !Array.isArray(set)) return item(set.text, set.options, set.answer, "", "", { subcategory: set.subcategory });
     return item(set[0], set[1], set[2]);
   }
 }));
@@ -961,8 +962,8 @@ function buildQuestion(blueprint, localIndex, globalIndex, difficulty) {
   return {
     id: `${blueprint.code}-${globalIndex + 1}`,
     blueprint: blueprint.code,
-    category: blueprint.category,
-    subcategory: blueprint.subcategory,
+    category: made.category || blueprint.category,
+    subcategory: made.subcategory || blueprint.subcategory,
     source: mirror,
     difficulty,
     setupText: prompt.setup,
@@ -980,12 +981,12 @@ function supplementalDifficulty(blueprint, supplementalIndex) {
   return jitterDifficulty(clamp(roughToiecProgression + (blueprint.difficultyOffset || 0), 1.15, 4.9), CORE_BANK_SIZE + supplementalIndex);
 }
 
-function item(text, options, answer, focusKey = "", setup = "") {
-  return { text, options, answer, focusKey, setup };
+function item(text, options, answer, focusKey = "", setup = "", metadata = {}) {
+  return { text, options, answer, focusKey, setup, ...metadata };
 }
 
 function contextualize(text, blueprint, index, made) {
-  const setup = made.setup || helpfulSetup(text, blueprint, index);
+  const setup = made.setup || helpfulSetup(text, blueprint, index, made);
   return {
     setup,
     task: text,
@@ -993,7 +994,100 @@ function contextualize(text, blueprint, index, made) {
   };
 }
 
-function helpfulSetup(text, blueprint, index = 0) {
+function helpfulSetup(text, blueprint, index = 0, made = {}) {
+  const subcategory = made.subcategory || blueprint.subcategory;
+  const hasBlank = text.includes("___");
+
+  if (blueprint.code === "s-correct-sentence") {
+    return pick([
+      "Read all four choices. Only one sentence is correct.",
+      "Choose the sentence that sounds natural and correct.",
+      "Look for the sentence with clear English grammar.",
+      "Only one choice is a good English sentence."
+    ], index);
+  }
+
+  if (blueprint.code === "g-subject-verb") {
+    return pick([
+      "The subject and verb must fit together.",
+      "Look for the sentence where the subject and verb match.",
+      "Only one choice has the right verb for the subject.",
+      "Read the subject first, then check the verb."
+    ], index);
+  }
+
+  if (blueprint.code === "g-reported-speech") {
+    return pick([
+      "Change the quoted words into a sentence with said that.",
+      "Tell another person what was said earlier.",
+      "Choose the sentence that keeps the meaning of the quote.",
+      "The answer should report the quote clearly."
+    ], index);
+  }
+
+  if (blueprint.code === "g-inversion") {
+    return pick([
+      "Look for the sentence with natural formal word order.",
+      "Only one choice has the correct formal word order.",
+      "Read the opening words and check the word order after them.",
+      "Choose the formal sentence that sounds correct."
+    ], index);
+  }
+
+  if (blueprint.code === "g-reduced-clauses") {
+    return pick([
+      "Choose the shorter sentence that still sounds clear.",
+      "Only one short sentence keeps the meaning and grammar.",
+      "Look for the short form that fits the noun before it.",
+      "The answer should be short, clear, and grammatical."
+    ], index);
+  }
+
+  if (blueprint.code === "v-register") {
+    return pick([
+      "Choose the sentence that fits formal writing.",
+      "The answer should sound professional and polite.",
+      "Read each choice and choose the best report style.",
+      "Only one sentence is best for formal writing."
+    ], index);
+  }
+
+  if (blueprint.code === "v-hedging") {
+    return pick([
+      "Choose the careful sentence that is not too strong.",
+      "The answer should avoid saying more than the evidence shows.",
+      "Look for the sentence that sounds careful and precise.",
+      "The best choice makes a careful claim."
+    ], index);
+  }
+
+  if (blueprint.code === "v-discourse") {
+    return pick([
+      "Choose the sentence that clearly names one study problem.",
+      "The answer should describe one limitation without exaggeration.",
+      "Look for the choice that states a reasonable problem.",
+      "The best choice explains one weakness in the study."
+    ], index);
+  }
+
+  if (!hasBlank && isSentenceChoiceTask(text)) {
+    return pick([
+      "Read all four choices before you answer.",
+      "Only one choice is a complete, correct sentence.",
+      "Choose the sentence that has clear English grammar.",
+      "The answer should sound natural and correct."
+    ], index);
+  }
+
+  if (isMeaningTask(text)) {
+    return pick([
+      "Use the sentence to choose the meaning.",
+      "The words around the quoted word give the clue.",
+      "Choose the meaning that fits this sentence.",
+      "Read the whole sentence before choosing."
+    ], index);
+  }
+
   if (blueprint.code === "g-present-simple") {
     return pick([
       "The sentence describes a regular Monday action.",
@@ -1016,17 +1110,17 @@ function helpfulSetup(text, blueprint, index = 0) {
   }
   if (blueprint.code === "g-first-conditional") {
     return pick([
-      "The sentence describes what may happen after a schedule change.",
-      "The if-clause is about a real future possibility.",
-      "Choose the result form for a possible future event.",
-      "The sentence connects a real condition with a future result."
+      "The first part gives a real future condition.",
+      "Choose the result that fits the future condition.",
+      "Read the if part, then complete the result.",
+      "The sentence talks about a possible future result."
     ], index);
   }
   if (blueprint.code === "g-second-conditional") {
     return pick([
       "The sentence imagines a different situation.",
-      "The if-clause is not about a real plan.",
-      "Choose the result form for an imagined situation.",
+      "The if part is not about a real plan.",
+      "Choose the result that fits an imagined situation.",
       "The sentence talks about what could happen in a different case."
     ], index);
   }
@@ -1043,7 +1137,7 @@ function helpfulSetup(text, blueprint, index = 0) {
     "Relative clauses": ["The sentence gives more information about a person.", "The missing word connects a person with something they have.", "Choose the word that shows possession.", "The noun after the blank belongs to the person."],
     "Reported speech": ["A person is telling someone what another person said earlier.", "Choose the sentence that reports the direct quote.", "The original words are being retold later.", "The answer should sound like reported information."],
     "Reduced clauses": ["Choose the shorter sentence that keeps the same meaning.", "The best sentence removes extra words cleanly.", "Choose the clear short form.", "The answer should be shorter but still grammatical."],
-    "Advanced sentence structure": ["Choose the formal sentence with correct word order.", "The sentence begins with Only after.", "Choose the sentence with correct formal inversion.", "The formal opening changes the word order."],
+    "Advanced sentence structure": ["Use the words around the blank for help.", "Choose the sentence with clear word order.", "Read the whole sentence before choosing.", "The answer should make a natural sentence."],
     "Everyday vocabulary": ["Choose the word with the same meaning.", "Find the closest simple meaning.", "Choose the matching everyday word.", "The answer should mean almost the same thing."],
     "Workplace vocabulary": ["Use the office-message meaning of the word.", "Choose the meaning that fits a work message.", "Think about how this word is used at work.", "The answer should fit an office context."],
     "Word forms": ["Choose the form of the word that fits the sentence.", "The sentence needs the right word-family form.", "Choose the noun, verb, or -ing form that fits.", "The words are from the same family."],
@@ -1058,7 +1152,22 @@ function helpfulSetup(text, blueprint, index = 0) {
     "Discourse function": ["Choose the sentence that states a study problem clearly.", "The answer should describe a limitation.", "Choose the sentence that explains one weakness in the study.", "The best option names a problem without exaggeration."]
   };
 
-  return pick(setups[blueprint.subcategory] || ["Use the sentence to choose the best answer."], index);
+  if (hasBlank) return pick(setups[subcategory] || ["Use the words around the blank to choose the best answer."], index);
+
+  return pick([
+    "Read the question and all four choices.",
+    "Choose the answer that best fits the sentence.",
+    "Use the whole sentence before choosing.",
+    "Only one answer should fit clearly."
+  ], index);
+}
+
+function isSentenceChoiceTask(text) {
+  return /^(Choose|Which|Pick|Find)\b/i.test(text) && !text.includes(": ");
+}
+
+function isMeaningTask(text) {
+  return /^(What does|Which word means|Which meaning|In an office message|In school or work reading|Which sentence is most appropriate|Which sentence is careful|Which sentence says)/i.test(text);
 }
 
 function validateBank(bank) {
@@ -1083,6 +1192,8 @@ function validateBank(bank) {
     if (question.options.includes("no article")) issues.push(`Use (nothing), not no article: ${question.id}`);
     if (hasKnownAnswerAmbiguity(question)) issues.push(`Possible multiple correct answers: ${question.id}`);
     if (hasKnownAwkwardPhrase(question)) issues.push(`Awkward phrase: ${question.id}`);
+    const displayProblem = hasDisplayGuidanceProblem(question);
+    if (displayProblem) issues.push(`${displayProblem}: ${question.id}`);
   });
   const focusClumps = Object.entries(focusCounts).filter(([, count]) => count > 8);
   if (focusClumps.length) {
@@ -1115,6 +1226,20 @@ function hasKnownAwkwardPhrase(question) {
     "opens the appointments"
   ];
   return awkwardPhrases.some((phrase) => text.includes(phrase));
+}
+
+function hasDisplayGuidanceProblem(question) {
+  const setup = normalizeQuestionText(question.setupText);
+  const task = normalizeQuestionText(question.taskText);
+  const answerText = normalizeQuestionText([question.taskText, question.options.join(" | ")].join(" "));
+  const taskHasBlank = question.taskText.includes("___");
+  if (setup.includes("blank") && !taskHasBlank) return "Setup mentions a blank, but the item has no blank";
+  if (setup.includes("only after") && !answerText.includes("only after")) return "Setup mentions Only after for an unrelated item";
+  if (task.startsWith("choose the best words") && !taskHasBlank) return "Best-words item needs a cloze blank";
+  if (task.includes("choose the best answer") && !taskHasBlank && question.options.every((option) => !/[.!?]$/.test(option))) {
+    return "Fragment options need a cloze sentence";
+  }
+  return "";
 }
 
 function createCandidateOrder() {
@@ -1439,8 +1564,8 @@ function renderReportPanel() {
   button.textContent = state.reportSending ? "Sending..." : "Send report and end quiz";
 
   if (state.reportSent) {
-    status.textContent = "Report sent. This quiz has ended.";
-    status.className = "report-status good";
+    status.textContent = "";
+    status.className = "report-status is-hidden";
   } else if (!status.textContent) {
     status.textContent = "The email address is hidden on this page.";
     status.className = "report-status";
@@ -1586,8 +1711,8 @@ function endQuizAfterReport() {
   button.textContent = "Quiz ended";
   button.disabled = true;
   const feedback = document.getElementById("feedback");
-  feedback.textContent = "Report sent. The quiz has ended.";
-  feedback.className = "feedback good";
+  feedback.textContent = "";
+  feedback.className = "feedback";
 }
 
 function restart() {
