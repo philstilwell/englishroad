@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="icon" href="favicon.svg?v=olive-v2" type="image/svg+xml">
-    <link rel="stylesheet" href="styles.css?v=final-report-v1">
+    <link rel="stylesheet" href="styles.css?v=copy-report-v1">
   </head>
   <body>
     <main class="shell">
@@ -38,8 +38,8 @@
               <ol class="simple-steps">
                 <li>Choose one answer.</li>
                 <li>See your first level after 5 answers.</li>
-                <li>For an unofficial report, take a screenshot of your level and practice areas.</li>
-                <li>After 100 questions, you get a short unofficial report. It shows your level range, test score estimates, correct answers, strong areas, weak areas, and the date.</li>
+                <li>Your answers are saved in this browser if the page refreshes.</li>
+                <li>After 100 questions, you get a short unofficial report. It shows your level range, test score estimates, correct answers, strong areas, weak areas, and the date. You can copy the report text or take a screenshot.</li>
               </ol>
             </div>
 
@@ -90,7 +90,7 @@
             </div>
             <p id="feedback" class="feedback" role="status"></p>
             <p class="screenshot-note">
-              Unofficial report: You can take a screenshot showing your level and practice areas, then send it to your teacher or school if they ask for your results.
+              Unofficial report: After 100 answers, you can copy the report text or take a screenshot, then send it to your teacher or school if they ask for your results.
             </p>
           </article>
 
@@ -162,6 +162,11 @@
             This is an unofficial estimated range. It is for practice and placement conversations, not an official test score.
           </p>
 
+          <div class="final-report-actions">
+            <button id="copyReport" class="ghost-action copy-report-action" type="button">Copy report text</button>
+            <span id="copyReportStatus" class="copy-status" role="status"></span>
+          </div>
+
           <div class="final-score-grid" aria-label="Final estimated score ranges">
             <div>
               <span>EnglishRoad level</span>
@@ -199,6 +204,6 @@
       </section>
     </main>
     <script src="item-bank-data.js?v=structured-data-v1"></script>
-    <script src="app.js?v=random-bank-copy-v2"></script>
+    <script src="app.js?v=autosave-balanced-copy-v1"></script>
   </body>
 </html>

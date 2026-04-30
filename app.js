@@ -4,6 +4,14 @@ const CORE_BANK_SIZE = 1500;
 const SUPPLEMENTAL_BANK_SIZE = 700;
 const BANK_SIZE = CORE_BANK_SIZE + SUPPLEMENTAL_BANK_SIZE;
 const TEST_MIRRORS = ["TOEFL", "IELTS", "TOEIC", "CEFR"];
+const STORAGE_KEY = "englishroad-level-check-session-v1";
+const SESSION_VERSION = 1;
+const DIFFICULTY_BANDS = [
+  { key: "starter", max: 2.2, target: 28 },
+  { key: "developing", max: 3.3, target: 28 },
+  { key: "independent", max: 4.5, target: 24 },
+  { key: "advanced", max: 6.1, target: 20 }
+];
 
 const learnerSubcategoryLabels = {
   "Verb tense": "Verbs",
@@ -71,8 +79,8 @@ const languageGuides = {
     steps: [
       "Choose one answer and click Check answer.",
       "You see a first level after 5 answers.",
-      "For an unofficial report, take a screenshot of your level and practice areas.",
-      "After 100 questions, you get a short unofficial report. It shows your level range, test score estimates, correct answers, strong areas, weak areas, and the date."
+      "Your answers are saved in this browser if the page refreshes.",
+      "After 100 questions, you get a short unofficial report. It shows your level range, test score estimates, correct answers, strong areas, weak areas, and the date. You can copy the report text or take a screenshot."
     ]
   },
   ja: {
@@ -82,8 +90,8 @@ const languageGuides = {
     steps: [
       "答えを1つ選び、「Check answer」を押します。",
       "5問答えると、最初のレベルが表示されます。",
-      "非公式レポートが必要な場合は、レベルと練習項目の画面をスクリーンショットしてください。",
-      "100問が終わると、短い非公式レポートが表示されます。レベル範囲、試験スコアの目安、正解数、得意な部分、苦手な部分、日付がわかります。"
+      "ページが更新されても、このブラウザに答えが保存されます。",
+      "100問が終わると、短い非公式レポートが表示されます。レベル範囲、試験スコアの目安、正解数、得意な部分、苦手な部分、日付がわかります。レポート文をコピーするか、スクリーンショットを撮れます。"
     ]
   },
   zh: {
@@ -93,8 +101,8 @@ const languageGuides = {
     steps: [
       "选择一个答案，然后点击 Check answer。",
       "回答 5 题后，你会看到第一次水平估计。",
-      "如果需要非正式报告，请截屏保存你的水平和需要练习的内容。",
-      "完成 100 题后，你会看到一份简短的非正式报告。它会显示水平范围、考试分数估计、答对题数、强项、弱项和日期。"
+      "如果页面刷新，你的答案会保存在这个浏览器中。",
+      "完成 100 题后，你会看到一份简短的非正式报告。它会显示水平范围、考试分数估计、答对题数、强项、弱项和日期。你可以复制报告文字或截图。"
     ]
   },
   es: {
@@ -104,8 +112,8 @@ const languageGuides = {
     steps: [
       "Elige una respuesta y pulsa Check answer.",
       "Ves un primer nivel después de 5 respuestas.",
-      "Para un informe no oficial, haz una captura de tu nivel y de las áreas para practicar.",
-      "Después de 100 preguntas, recibes un informe no oficial breve. Muestra tu rango de nivel, estimaciones de puntaje, respuestas correctas, áreas fuertes, áreas débiles y la fecha."
+      "Tus respuestas se guardan en este navegador si la página se actualiza.",
+      "Después de 100 preguntas, recibes un informe no oficial breve. Muestra tu rango de nivel, estimaciones de puntaje, respuestas correctas, áreas fuertes, áreas débiles y la fecha. Puedes copiar el texto del informe o hacer una captura."
     ]
   },
   te: {
@@ -115,8 +123,8 @@ const languageGuides = {
     steps: [
       "ఒక సమాధానం ఎంచుకొని Check answer నొక్కండి.",
       "5 సమాధానాల తర్వాత మొదటి స్థాయి కనిపిస్తుంది.",
-      "అనధికారిక నివేదిక కోసం, మీ స్థాయి మరియు సాధన చేయాల్సిన భాగాల స్క్రీన్‌షాట్ తీసుకోండి.",
-      "100 ప్రశ్నల తర్వాత, మీకు చిన్న అనధికారిక నివేదిక కనిపిస్తుంది. అందులో మీ స్థాయి పరిధి, పరీక్ష స్కోరు అంచనాలు, సరైన సమాధానాల సంఖ్య, బలమైన భాగాలు, బలహీన భాగాలు, తేదీ ఉంటాయి."
+      "పేజీ రిఫ్రెష్ అయితే, మీ సమాధానాలు ఈ బ్రౌజర్‌లో సేవ్ అవుతాయి.",
+      "100 ప్రశ్నల తర్వాత, మీకు చిన్న అనధికారిక నివేదిక కనిపిస్తుంది. అందులో మీ స్థాయి పరిధి, పరీక్ష స్కోరు అంచనాలు, సరైన సమాధానాల సంఖ్య, బలమైన భాగాలు, బలహీన భాగాలు, తేదీ ఉంటాయి. మీరు నివేదిక టెక్స్ట్‌ను కాపీ చేయవచ్చు లేదా స్క్రీన్‌షాట్ తీసుకోవచ్చు."
     ]
   },
   pt: {
@@ -126,8 +134,8 @@ const languageGuides = {
     steps: [
       "Escolha uma resposta e clique em Check answer.",
       "Você vê um primeiro nível depois de 5 respostas.",
-      "Para um relatório não oficial, tire uma captura da tela com seu nível e áreas de prática.",
-      "Depois de 100 perguntas, você recebe um relatório não oficial curto. Ele mostra sua faixa de nível, estimativas de pontuação, respostas corretas, pontos fortes, pontos fracos e a data."
+      "Suas respostas são salvas neste navegador se a página atualizar.",
+      "Depois de 100 perguntas, você recebe um relatório não oficial curto. Ele mostra sua faixa de nível, estimativas de pontuação, respostas corretas, pontos fortes, pontos fracos e a data. Você pode copiar o texto do relatório ou tirar uma captura da tela."
     ]
   },
   pl: {
@@ -137,8 +145,8 @@ const languageGuides = {
     steps: [
       "Wybierz jedną odpowiedź i kliknij Check answer.",
       "Pierwszy poziom zobaczysz po 5 odpowiedziach.",
-      "Aby mieć nieoficjalny raport, zrób zrzut ekranu z poziomem i obszarami do ćwiczenia.",
-      "Po 100 pytaniach zobaczysz krótki nieoficjalny raport. Pokazuje zakres poziomu, szacowane wyniki testów, liczbę poprawnych odpowiedzi, mocne strony, słabe strony i datę."
+      "Twoje odpowiedzi zapisują się w tej przeglądarce, jeśli strona się odświeży.",
+      "Po 100 pytaniach zobaczysz krótki nieoficjalny raport. Pokazuje zakres poziomu, szacowane wyniki testów, liczbę poprawnych odpowiedzi, mocne strony, słabe strony i datę. Możesz skopiować tekst raportu albo zrobić zrzut ekranu."
     ]
   },
   ko: {
@@ -148,8 +156,8 @@ const languageGuides = {
     steps: [
       "답 하나를 고르고 Check answer를 누르세요.",
       "5문제에 답하면 첫 수준이 보입니다.",
-      "비공식 보고서가 필요하면 수준과 연습할 부분이 보이도록 스크린샷을 찍으세요.",
-      "100문제를 끝내면 짧은 비공식 보고서가 나옵니다. 수준 범위, 시험 점수 예상, 정답 수, 강한 부분, 약한 부분, 날짜를 보여 줍니다."
+      "페이지가 새로고침되어도 답은 이 브라우저에 저장됩니다.",
+      "100문제를 끝내면 짧은 비공식 보고서가 나옵니다. 수준 범위, 시험 점수 예상, 정답 수, 강한 부분, 약한 부분, 날짜를 보여 줍니다. 보고서 글을 복사하거나 스크린샷을 찍을 수 있습니다."
     ]
   },
   fr: {
@@ -159,8 +167,8 @@ const languageGuides = {
     steps: [
       "Choisissez une réponse et cliquez sur Check answer.",
       "Vous voyez un premier niveau après 5 réponses.",
-      "Pour un rapport non officiel, faites une capture d’écran de votre niveau et des points à travailler.",
-      "Après 100 questions, vous obtenez un court rapport non officiel. Il montre votre fourchette de niveau, les estimations de scores, les bonnes réponses, les points forts, les points faibles et la date."
+      "Vos réponses sont enregistrées dans ce navigateur si la page se recharge.",
+      "Après 100 questions, vous obtenez un court rapport non officiel. Il montre votre fourchette de niveau, les estimations de scores, les bonnes réponses, les points forts, les points faibles et la date. Vous pouvez copier le texte du rapport ou faire une capture d’écran."
     ]
   }
 };
@@ -190,7 +198,9 @@ const state = {
   responses: [],
   candidateOrder: [],
   usedIds: new Set(),
-  usedTexts: new Set()
+  usedTexts: new Set(),
+  completedAt: "",
+  mixTargets: null
 };
 
 function createQuestionBank() {
@@ -620,6 +630,7 @@ function chooseQuestion() {
   const target = targetDifficulty();
   const ceiling = difficultyCeiling();
   const floor = difficultyFloor();
+  const balance = responseBalance();
   const recentBlueprints = new Set(state.responses.slice(-10).map((response) => response.blueprint));
   const recentWeaknesses = new Set(state.responses.slice(-5).map((response) => response.subcategory));
   let best = null;
@@ -633,8 +644,9 @@ function chooseQuestion() {
     const weaknessPenalty = recentWeaknesses.has(question.subcategory) ? 0.55 : 0;
     const categoryPenalty = desiredCategory() === question.category ? 0 : 0.16;
     const outsidePenalty = outsideRange ? 4 + Math.abs(question.difficulty - clamp(question.difficulty, floor, ceiling)) : 0;
+    const balancePenalty = sessionBalancePenalty(question, balance);
     const randomTieBreak = randomInt(1000) / 100000;
-    const score = distance + blueprintPenalty + weaknessPenalty + categoryPenalty + outsidePenalty + randomTieBreak;
+    const score = distance + blueprintPenalty + weaknessPenalty + categoryPenalty + outsidePenalty + balancePenalty + randomTieBreak;
     if (score < bestScore) {
       best = question;
       bestScore = score;
@@ -647,7 +659,94 @@ function chooseQuestion() {
   return best;
 }
 
+function createMixTargets() {
+  const categories = ["Grammar", "Vocabulary"];
+  const categoryTargets = categories.reduce((targets, category) => {
+    targets[category] = TOTAL_QUESTIONS / categories.length;
+    return targets;
+  }, {});
+  const subcategoryTargets = {};
+
+  categories.forEach((category) => {
+    const subcategories = [...new Set(state.bank
+      .filter((question) => question.category === category)
+      .map((question) => question.subcategory))];
+    const target = categoryTargets[category] || TOTAL_QUESTIONS / categories.length;
+    subcategories.forEach((subcategory) => {
+      subcategoryTargets[subcategory] = Math.max(3, Math.ceil(target / Math.max(1, subcategories.length)) + 1);
+    });
+  });
+
+  return {
+    categoryTargets,
+    subcategoryTargets,
+    sourceTarget: Math.ceil(TOTAL_QUESTIONS / TEST_MIRRORS.length),
+    difficultyTargets: DIFFICULTY_BANDS.reduce((targets, band) => {
+      targets[band.key] = band.target;
+      return targets;
+    }, {})
+  };
+}
+
+function responseBalance() {
+  return state.responses.reduce((balance, response) => {
+    incrementCount(balance.categories, response.category);
+    incrementCount(balance.subcategories, response.subcategory);
+    incrementCount(balance.sources, response.source);
+    incrementCount(balance.difficultyBands, difficultyBand(response.difficulty).key);
+    return balance;
+  }, {
+    categories: {},
+    subcategories: {},
+    sources: {},
+    difficultyBands: {}
+  });
+}
+
+function sessionBalancePenalty(question, balance) {
+  const targets = state.mixTargets || createMixTargets();
+  const categoryTarget = targets.categoryTargets[question.category] || TOTAL_QUESTIONS / 2;
+  const subcategoryTarget = targets.subcategoryTargets[question.subcategory] || 5;
+  const band = difficultyBand(question.difficulty);
+  const bandTarget = targets.difficultyTargets[band.key] || band.target;
+  const sourceTarget = targets.sourceTarget;
+  const categoryCount = balance.categories[question.category] || 0;
+  const subcategoryCount = balance.subcategories[question.subcategory] || 0;
+  const bandCount = balance.difficultyBands[band.key] || 0;
+  const sourceCount = balance.sources[question.source] || 0;
+  let penalty = 0;
+
+  if (categoryCount >= categoryTarget + 4) penalty += 6 + (categoryCount - categoryTarget) * 0.35;
+  else if (categoryCount >= categoryTarget) penalty += 1.6 + (categoryCount - categoryTarget) * 0.2;
+  else if (categoryCount < categoryTarget - 5) penalty -= 0.04;
+
+  if (subcategoryCount >= subcategoryTarget + 2) penalty += 4 + (subcategoryCount - subcategoryTarget) * 0.5;
+  else if (subcategoryCount >= subcategoryTarget) penalty += 1.2 + (subcategoryCount - subcategoryTarget) * 0.32;
+  else if (subcategoryCount < Math.max(1, subcategoryTarget - 2)) penalty -= 0.06;
+
+  if (state.responses.length >= 16 && bandCount >= bandTarget) penalty += 0.28 + (bandCount - bandTarget) * 0.04;
+  if (sourceCount >= sourceTarget + 2) penalty += 0.65 + (sourceCount - sourceTarget) * 0.16;
+  else if (sourceCount >= sourceTarget) penalty += 0.22 + (sourceCount - sourceTarget) * 0.08;
+
+  return penalty;
+}
+
+function difficultyBand(difficulty) {
+  return DIFFICULTY_BANDS.find((band) => difficulty <= band.max) || DIFFICULTY_BANDS[DIFFICULTY_BANDS.length - 1];
+}
+
+function incrementCount(counts, key) {
+  counts[key] = (counts[key] || 0) + 1;
+}
+
 function desiredCategory() {
+  const categoryCounts = responseBalance().categories;
+  const grammarCount = categoryCounts.Grammar || 0;
+  const vocabularyCount = categoryCounts.Vocabulary || 0;
+  const categoryLimit = TOTAL_QUESTIONS / 2 + 4;
+  if (grammarCount >= categoryLimit) return "Vocabulary";
+  if (vocabularyCount >= categoryLimit) return "Grammar";
+
   const grammarMisses = state.responses.filter((response) => !response.correct && response.category === "Grammar").length;
   const vocabularyMisses = state.responses.filter((response) => !response.correct && response.category === "Vocabulary").length;
   if (grammarMisses > vocabularyMisses + 1) return "Grammar";
@@ -721,10 +820,16 @@ function renderQuestion() {
   state.current = chooseQuestion();
   state.answered = false;
   state.selected = "";
+  renderCurrentQuestion();
+  persistSession();
+}
 
-  document.getElementById("questionNumber").textContent = String(state.questionIndex + 1);
+function renderCurrentQuestion() {
+  if (!state.current) return;
+  const displayNumber = clamp(state.answered ? state.questionIndex : state.questionIndex + 1, 1, TOTAL_QUESTIONS);
+  document.getElementById("questionNumber").textContent = String(displayNumber);
   document.getElementById("totalQuestions").textContent = String(TOTAL_QUESTIONS);
-  document.getElementById("meterFill").style.width = `${((state.questionIndex + 1) / TOTAL_QUESTIONS) * 100}%`;
+  document.getElementById("meterFill").style.width = `${(displayNumber / TOTAL_QUESTIONS) * 100}%`;
   const taskParts = splitTaskText(state.current.taskText);
   document.getElementById("questionMeta").innerHTML = [
     state.current.category,
@@ -749,20 +854,39 @@ function renderQuestion() {
   `;
   document.getElementById("answers").innerHTML = state.current.options.map((option) => `
     <label class="answer-option">
-      <input type="radio" name="answer" value="${escapeAttribute(option)}">
+      <input type="radio" name="answer" value="${escapeAttribute(option)}"${option === state.selected ? " checked" : ""}>
       <span>${option}</span>
     </label>
   `).join("");
-  document.getElementById("feedback").textContent = "";
-  document.getElementById("feedback").className = "feedback";
-  document.getElementById("submitAnswer").textContent = "Check answer";
-  document.getElementById("submitAnswer").disabled = false;
 
   document.querySelectorAll("input[name='answer']").forEach((input) => {
+    if (state.answered) {
+      input.disabled = true;
+      const option = input.closest(".answer-option");
+      if (input.value === state.current.answer) option.classList.add("correct");
+      if (input.checked && input.value !== state.current.answer) option.classList.add("incorrect");
+      return;
+    }
     input.addEventListener("change", (event) => {
       state.selected = event.target.value;
+      persistSession();
     });
   });
+
+  const feedback = document.getElementById("feedback");
+  const button = document.getElementById("submitAnswer");
+  if (state.answered) {
+    const correct = state.selected === state.current.answer;
+    feedback.textContent = correct ? "Correct." : `Not correct. Correct answer: ${formatAnswerForFeedback(state.current.answer)} ${state.current.explanation}`;
+    feedback.className = `feedback ${correct ? "good" : "needs-work"}`;
+    button.textContent = state.questionIndex >= TOTAL_QUESTIONS ? "Done" : "Next";
+    button.disabled = state.questionIndex >= TOTAL_QUESTIONS;
+  } else {
+    feedback.textContent = "";
+    feedback.className = "feedback";
+    button.textContent = "Check answer";
+    button.disabled = false;
+  }
 }
 
 function submitAnswer() {
@@ -782,6 +906,7 @@ function submitAnswer() {
   state.responses.push({ ...state.current, correct, selected: state.selected });
   state.questionIndex += 1;
   state.answered = true;
+  if (state.questionIndex >= TOTAL_QUESTIONS && !state.completedAt) state.completedAt = new Date().toISOString();
 
   document.querySelectorAll(".answer-option").forEach((option) => {
     const input = option.querySelector("input");
@@ -807,6 +932,7 @@ function submitAnswer() {
   } else {
     button.textContent = "Next";
   }
+  persistSession();
 }
 
 function updateAbility(correct) {
@@ -908,9 +1034,10 @@ function renderFinalReport() {
   const finished = state.responses.length >= TOTAL_QUESTIONS;
   report.hidden = !finished;
   if (!finished) return;
+  if (!state.completedAt) state.completedAt = new Date().toISOString();
 
   const correctCount = state.responses.filter((response) => response.correct).length;
-  document.getElementById("finalReportDate").textContent = `Completed: ${formatReportDate(new Date())}`;
+  document.getElementById("finalReportDate").textContent = `Completed: ${formatReportDate(new Date(state.completedAt))}`;
   document.getElementById("finalCorrect").textContent = `${correctCount}/${TOTAL_QUESTIONS}`;
   document.getElementById("finalLevelRange").textContent = levelRangeEstimate();
   document.getElementById("finalCefr").textContent = cefrEstimate();
@@ -919,6 +1046,61 @@ function renderFinalReport() {
   document.getElementById("finalToeic").textContent = toeicEstimate();
   renderReportChips("finalStrongAreas", strongestAreas(), "No clear strong area");
   renderReportChips("finalWeakAreas", weakestAreas(), "No clear weak area");
+}
+
+function copyFinalReport() {
+  const status = document.getElementById("copyReportStatus");
+  copyText(buildReportText())
+    .then(() => {
+      if (status) status.textContent = "Report copied.";
+    })
+    .catch(() => {
+      if (status) status.textContent = "Copy did not work. Please take a screenshot.";
+    });
+}
+
+function buildReportText() {
+  const correctCount = state.responses.filter((response) => response.correct).length;
+  const completedAt = state.completedAt ? new Date(state.completedAt) : new Date();
+  const strongAreas = strongestAreas();
+  const weakAreas = weakestAreas();
+  return [
+    "EnglishRoad Level Check - Unofficial report",
+    `Completed: ${formatReportDate(completedAt)}`,
+    `Total correct: ${correctCount}/${TOTAL_QUESTIONS}`,
+    `EnglishRoad level range: ${levelRangeEstimate()}`,
+    `CEFR estimate: ${cefrEstimate()}`,
+    `TOEFL iBT estimate: ${toeflEstimate()}`,
+    `IELTS estimate: ${ieltsEstimate()}`,
+    `TOEIC L&R estimate: ${toeicEstimate()}`,
+    `Strongest areas: ${strongAreas.length ? strongAreas.join(", ") : "No clear strong area"}`,
+    `Weakest areas: ${weakAreas.length ? weakAreas.join(", ") : "No clear weak area"}`,
+    "Note: This is an unofficial estimated range for practice and placement conversations, not an official test score."
+  ].join("\n");
+}
+
+function copyText(text) {
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    return navigator.clipboard.writeText(text);
+  }
+
+  return new Promise((resolve, reject) => {
+    const textArea = document.createElement("textarea");
+    textArea.value = text;
+    textArea.setAttribute("readonly", "");
+    textArea.style.position = "fixed";
+    textArea.style.left = "-9999px";
+    document.body.appendChild(textArea);
+    textArea.select();
+    try {
+      if (document.execCommand("copy")) resolve();
+      else reject(new Error("Copy command failed"));
+    } catch (error) {
+      reject(error);
+    } finally {
+      document.body.removeChild(textArea);
+    }
+  });
 }
 
 function strongestAreas() {
@@ -977,14 +1159,126 @@ function formatAnswerForFeedback(answer) {
 }
 
 function restart() {
+  clearSavedSession();
   state.questionIndex = 0;
   state.ability = 1.45;
   state.responses = [];
   state.candidateOrder = createCandidateOrder();
   state.usedIds = new Set();
   state.usedTexts = new Set();
+  state.completedAt = "";
   updateResults();
   renderQuestion();
+}
+
+function persistSession() {
+  const storage = safeStorage();
+  if (!storage || !state.bank.length || !state.current) return;
+
+  const payload = {
+    version: SESSION_VERSION,
+    totalQuestions: TOTAL_QUESTIONS,
+    bankSize: state.bank.length,
+    savedAt: new Date().toISOString(),
+    questionIndex: state.questionIndex,
+    ability: state.ability,
+    answered: state.answered,
+    selected: state.selected,
+    currentId: state.current.id,
+    completedAt: state.completedAt,
+    candidateOrderIds: state.candidateOrder.map((question) => question.id),
+    usedIds: [...state.usedIds],
+    responses: state.responses.map((response) => ({
+      id: response.id,
+      selected: response.selected,
+      correct: response.correct
+    }))
+  };
+
+  try {
+    storage.setItem(STORAGE_KEY, JSON.stringify(payload));
+  } catch {
+    // Storage can fail in private browsing or locked-down school browsers.
+  }
+}
+
+function restoreSession() {
+  const storage = safeStorage();
+  if (!storage) return false;
+
+  try {
+    const saved = JSON.parse(storage.getItem(STORAGE_KEY) || "null");
+    if (!saved || saved.version !== SESSION_VERSION || saved.totalQuestions !== TOTAL_QUESTIONS || saved.bankSize !== state.bank.length) return false;
+    const byId = questionMap();
+    const current = byId.get(saved.currentId);
+    const candidateOrder = Array.isArray(saved.candidateOrderIds)
+      ? saved.candidateOrderIds.map((id) => byId.get(id)).filter(Boolean)
+      : [];
+    const responses = Array.isArray(saved.responses)
+      ? saved.responses.map((response) => hydrateResponse(response, byId)).filter(Boolean)
+      : [];
+    if (!current || !candidateOrder.length) return false;
+
+    state.questionIndex = clamp(Number(saved.questionIndex) || responses.length, 0, TOTAL_QUESTIONS);
+    state.ability = clamp(Number(saved.ability) || 1.45, 1, 6);
+    state.responses = responses.slice(0, TOTAL_QUESTIONS);
+    state.candidateOrder = candidateOrder;
+    state.current = current;
+    state.answered = Boolean(saved.answered);
+    state.selected = saved.selected || "";
+    state.completedAt = saved.completedAt || "";
+    state.usedIds = new Set(Array.isArray(saved.usedIds) ? saved.usedIds.filter((id) => byId.has(id)) : []);
+    state.usedTexts = new Set([...state.usedIds].map((id) => questionSignature(byId.get(id))));
+    state.responses.forEach((response) => {
+      state.usedIds.add(response.id);
+      state.usedTexts.add(questionSignature(response));
+    });
+    state.usedIds.add(current.id);
+    state.usedTexts.add(questionSignature(current));
+    if (state.questionIndex >= TOTAL_QUESTIONS) {
+      state.answered = true;
+      if (!state.completedAt) state.completedAt = new Date().toISOString();
+    }
+
+    updateResults();
+    renderCurrentQuestion();
+    return true;
+  } catch {
+    clearSavedSession();
+    return false;
+  }
+}
+
+function hydrateResponse(savedResponse, byId) {
+  const question = byId.get(savedResponse.id);
+  if (!question) return null;
+  return {
+    ...question,
+    selected: savedResponse.selected || "",
+    correct: Boolean(savedResponse.correct)
+  };
+}
+
+function questionMap() {
+  return new Map(state.bank.map((question) => [question.id, question]));
+}
+
+function clearSavedSession() {
+  const storage = safeStorage();
+  if (!storage) return;
+  try {
+    storage.removeItem(STORAGE_KEY);
+  } catch {
+    // Ignore storage failures.
+  }
+}
+
+function safeStorage() {
+  try {
+    return window.localStorage || null;
+  } catch {
+    return null;
+  }
 }
 
 function pick(values, index, offset = 0) {
@@ -1140,7 +1434,9 @@ document.getElementById("instructionsToggle").addEventListener("click", toggleIn
 document.getElementById("languageSelect").addEventListener("change", (event) => {
   renderLanguageInfo(event.target.value);
 });
+document.getElementById("copyReport").addEventListener("click", copyFinalReport);
 state.bank = createQuestionBank();
+state.mixTargets = createMixTargets();
 document.getElementById("bankSize").textContent = state.bank.length.toLocaleString();
 renderLanguageInfo(document.getElementById("languageSelect").value);
-restart();
+if (!restoreSession()) restart();
