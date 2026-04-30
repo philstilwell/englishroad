@@ -67,7 +67,7 @@ const languageGuides = {
   en: {
     title: "How to use EnglishRoad",
     purpose: "EnglishRoad helps English learners check their level. It is a practice tool, not an official test score.",
-    functionText: "You answer multiple-choice questions from a bank of 2,200 items. The items appear in a generally random order, while the first questions are easier. They get harder only when many answers are correct. The app estimates TOEFL, IELTS, TOEIC, and CEFR levels and shows grammar and vocabulary areas to practice.",
+    functionText: "You answer multiple-choice questions from a bank of 2,200 items. The items appear in a largely random order, with the first questions being generally easier. They get harder only when many answers are correct. The app estimates TOEFL, IELTS, TOEIC, and CEFR levels and shows grammar and vocabulary areas to practice.",
     steps: [
       "Choose one answer and click Check answer.",
       "You see a first level after 5 answers.",
