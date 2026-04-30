@@ -1263,8 +1263,10 @@ async function submitReport(event) {
       _subject: `EnglishRoad report: ${studentName}`,
       _template: "table",
       _captcha: "false",
+      _url: window.location.href,
       student_name: studentName,
       teacher_name: teacherName,
+      form_url: window.location.href,
       questions_answered: String(report.summary.questionsAnswered),
       total_correct: String(report.summary.correct),
       accuracy: report.summary.accuracy,
@@ -1283,8 +1285,9 @@ async function submitReport(event) {
       headers: { Accept: "application/json" },
       body: formData
     });
+    const result = await response.json().catch(() => null);
 
-    if (!response.ok) throw new Error("Report service did not accept the report.");
+    if (!response.ok || (result && result.success === false)) throw new Error("Report service did not accept the report.");
     state.reportSent = true;
     endQuizAfterReport();
     renderReportPanel();

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 190" role="img" aria-labelledby="title desc">
+  <title id="title">EnglishRoad English Level Check</title>
+  <desc id="desc">EnglishRoad logo with the title English Level Check</desc>
+  <defs>
+    <filter id="titleShadow" x="-8%" y="-12%" width="116%" height="132%">
+      <feDropShadow dx="0" dy="5" stdDeviation="3" flood-color="#11160a" flood-opacity="0.5"/>
+      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#f8f8ea" flood-opacity="0.35"/>
+    </filter>
+    <linearGradient id="titleInk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#37410f"/>
+      <stop offset="0.48" stop-color="#1f2411"/>
+      <stop offset="1" stop-color="#0d1107"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="190" fill="#f3f1e1"/>
+  <text x="36" y="70" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="900" letter-spacing="4" fill="#656948">ENGLISHROAD</text>
+  <text x="38" y="158" font-family="Georgia, 'Times New Roman', serif" font-size="92" font-weight="700" letter-spacing="0" fill="url(#titleInk)" filter="url(#titleShadow)">English Level Check</text>
+</svg>
