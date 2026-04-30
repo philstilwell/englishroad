@@ -1076,8 +1076,8 @@ function helpfulSetup(text, blueprint, index = 0, made = {}) {
 
   if (isMeaningTask(text)) {
     return pick([
-      "Use the sentence to choose the meaning.",
-      "The words around the quoted word give the clue.",
+      "Read the sentence and choose the meaning.",
+      "Use the full sentence to understand the word.",
       "Choose the meaning that fits this sentence.",
       "Read the whole sentence before choosing."
     ], index);
@@ -1121,23 +1121,23 @@ function helpfulSetup(text, blueprint, index = 0, made = {}) {
   }
 
   const setups = {
-    Articles: ["The blank comes before a noun or noun phrase.", "Look at the sound and meaning of the noun phrase.", "Choose the small word that fits before the noun.", "The noun phrase after the blank gives the clue."],
-    Prepositions: ["Use the words after the blank for help.", "Choose the small word that fits the sentence.", "The answer depends on the time, place, or relationship.", "Read the whole phrase around the blank."],
-    "Count and noncount nouns": ["The blank comes before a noun phrase.", "Think about whether the noun is countable.", "Choose the amount word that fits the noun.", "The noun after the blank gives the clue."],
+    Articles: ["Choose the small word that fits the noun.", "Look at the noun and choose the best answer.", "Choose the answer that sounds natural before the noun.", "Read the whole sentence before choosing."],
+    Prepositions: ["Choose the small word that fits the sentence.", "Read the whole sentence before choosing.", "Choose the answer that sounds natural in the sentence.", "Choose the best answer."],
+    "Count and noncount nouns": ["Think about whether the noun can be counted.", "Choose the amount word that fits the noun.", "Choose the answer that sounds natural with the noun.", "Read the whole sentence before choosing."],
     "Subject-verb agreement": ["Each option describes the same idea with different grammar.", "Choose the sentence where the subject and verb fit.", "The subject controls the verb form.", "Only one option has a matching subject and verb."],
     Modals: ["A rule or notice is giving an instruction.", "The sentence says what people are required to do.", "Choose the helping verb that shows a requirement.", "The sentence gives a rule, not a preference."],
     Comparatives: ["The sentence compares two things.", "Choose the form used to compare two things.", "The answer should fit the comparison.", "Look at both things being compared."],
-    "Clauses and connectors": ["Use the words around the blank for help.", "Choose the phrase that fits the sentence.", "The answer must connect clearly with the rest of the sentence.", "Read before and after the blank."],
+    "Clauses and connectors": ["Choose the phrase that fits the sentence.", "The answer must connect clearly with the rest of the sentence.", "Read the whole sentence before choosing.", "Choose the best answer."],
     "Passive voice": ["The sentence describes what happened to a document yesterday.", "The focus is on the thing, not the person.", "Choose the form that shows the document received the action.", "The by phrase names who did the action."],
-    "Relative clauses": ["The sentence gives more information about a person.", "The missing word connects a person with something they have.", "Choose the word that shows possession.", "The noun after the blank belongs to the person."],
+    "Relative clauses": ["The sentence gives more information about a person.", "Choose the word that connects the extra information.", "Choose the word that shows possession.", "Read the whole sentence before choosing."],
     "Reported speech": ["A person is telling someone what another person said earlier.", "Choose the sentence that reports the direct quote.", "The original words are being retold later.", "The answer should sound like reported information."],
     "Reduced clauses": ["Choose the shorter sentence that keeps the same meaning.", "The best sentence removes extra words cleanly.", "Choose the clear short form.", "The answer should be shorter but still grammatical."],
-    "Advanced sentence structure": ["Use the words around the blank for help.", "Choose the sentence with clear word order.", "Read the whole sentence before choosing.", "The answer should make a natural sentence."],
+    "Advanced sentence structure": ["Choose the sentence with clear word order.", "Read the whole sentence before choosing.", "The answer should make a natural sentence.", "Choose the best answer."],
     "Everyday vocabulary": ["Choose the word with the same meaning.", "Find the closest simple meaning.", "Choose the matching everyday word.", "The answer should mean almost the same thing."],
     "Workplace vocabulary": ["Use the office-message meaning of the word.", "Choose the meaning that fits a work message.", "Think about how this word is used at work.", "The answer should fit an office context."],
     "Word forms": ["Choose the form of the word that fits the sentence.", "The sentence needs the right word-family form.", "Choose the noun, verb, or -ing form that fits.", "The words are from the same family."],
     Collocations: ["Choose the word that naturally goes with the phrase.", "Only one word makes a common phrase.", "Choose the word pair that sounds natural.", "The answer should make a common English phrase."],
-    "Phrasal verbs": ["Choose the phrase that sounds natural.", "Use the words around the blank for help.", "Choose the word or phrase that fits everyday English.", "The answer completes a common English phrase."],
+    "Phrasal verbs": ["Choose the phrase that sounds natural.", "Read the whole sentence before choosing.", "Choose the word or phrase that fits everyday English.", "The answer completes a common English phrase."],
     Transitions: ["Choose the word that shows how the ideas connect.", "Read both ideas before you answer.", "Choose the linking word that fits the relationship.", "The answer should show the right connection."],
     "Meaning in context": ["Use the sentence to choose the meaning of the quoted word.", "The sentence gives the clue for the word meaning.", "Choose the meaning that fits this sentence.", "The answer should match the quoted word in context."],
     "Academic vocabulary": ["Choose the school or work meaning of the word.", "The answer should fit formal reading.", "Choose the meaning used in study or work texts.", "Think about how the word is used in reports or lessons."],
@@ -1147,7 +1147,7 @@ function helpfulSetup(text, blueprint, index = 0, made = {}) {
     "Discourse function": ["Choose the sentence that states a study problem clearly.", "The answer should describe a limitation.", "Choose the sentence that explains one weakness in the study.", "The best option names a problem without exaggeration."]
   };
 
-  if (hasBlank) return pick(setups[subcategory] || ["Use the words around the blank to choose the best answer."], index);
+  if (hasBlank) return pick(setups[subcategory] || ["Read the whole sentence before choosing.", "Choose the answer that fits the sentence.", "Choose the best answer.", "The answer should sound natural in the sentence."], index);
 
   return pick([
     "Read the question and all four choices.",
@@ -1228,6 +1228,17 @@ function hasDisplayGuidanceProblem(question) {
   const task = normalizeQuestionText(question.taskText);
   const answerText = normalizeQuestionText([question.taskText, question.options.join(" | ")].join(" "));
   const taskHasBlank = question.taskText.includes("___");
+  const confusingSetupPhrases = [
+    "after the blank",
+    "before and after",
+    "around the blank",
+    "words after",
+    "words before",
+    "words around",
+    "noun after",
+    "the blank comes"
+  ];
+  if (confusingSetupPhrases.some((phrase) => setup.includes(phrase))) return "Setup uses confusing blank-position wording";
   if (setup.includes("blank") && !taskHasBlank) return "Setup mentions a blank, but the item has no blank";
   if (setup.includes("only after") && !answerText.includes("only after")) return "Setup mentions Only after for an unrelated item";
   if (task.startsWith("choose the best words") && !taskHasBlank) return "Best-words item needs a cloze blank";
