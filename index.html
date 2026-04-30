@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="icon" href="favicon.svg?v=olive-v2" type="image/svg+xml">
-    <link rel="stylesheet" href="styles.css?v=pending-report-v1">
+    <link rel="stylesheet" href="styles.css?v=visible-report-preview-v1">
   </head>
   <body>
     <main class="shell">
@@ -125,6 +125,43 @@
               </div>
             </div>
 
+            <section id="reportPreview" class="report-preview is-pending" aria-labelledby="reportPreviewTitle">
+              <div class="report-preview-header">
+                <div>
+                  <p class="label">Report preview</p>
+                  <h3 id="reportPreviewTitle">Unofficial final report</h3>
+                </div>
+                <strong id="reportPreviewProgress">0/100</strong>
+              </div>
+              <p id="reportPreviewNote">Preview only. Real report data appears after 100 answers.</p>
+              <div class="report-preview-grid" aria-label="Inactive final report preview">
+                <div>
+                  <span>Level</span>
+                  <strong id="reportPreviewLevel">—</strong>
+                </div>
+                <div>
+                  <span>CEFR</span>
+                  <strong id="reportPreviewCefr">—</strong>
+                </div>
+                <div>
+                  <span>TOEFL</span>
+                  <strong id="reportPreviewToefl">—</strong>
+                </div>
+                <div>
+                  <span>IELTS</span>
+                  <strong id="reportPreviewIelts">—</strong>
+                </div>
+                <div>
+                  <span>TOEIC</span>
+                  <strong id="reportPreviewToeic">—</strong>
+                </div>
+                <div>
+                  <span>Confidence</span>
+                  <strong id="reportPreviewConfidence">—</strong>
+                </div>
+              </div>
+            </section>
+
             <section class="weaknesses" aria-labelledby="weakness-title">
               <h3 id="weakness-title">Things to practice</h3>
               <div class="weakness-group">
@@ -150,7 +187,7 @@
           </aside>
         </section>
 
-        <section id="finalReport" class="panel final-report is-pending" aria-labelledby="finalReportTitle">
+        <section id="finalReport" class="panel final-report" aria-labelledby="finalReportTitle" hidden>
           <div class="final-report-header">
             <div>
               <p class="label">Unofficial final report</p>
@@ -215,6 +252,6 @@
       </section>
     </main>
     <script src="item-bank-data.js?v=context-vocab-v1"></script>
-    <script src="app.js?v=pending-report-v1"></script>
+    <script src="app.js?v=visible-report-preview-v1"></script>
   </body>
 </html>

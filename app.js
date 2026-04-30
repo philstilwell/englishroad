@@ -1121,12 +1121,10 @@ function renderFinalReport() {
   const report = document.getElementById("finalReport");
   if (!report) return;
   const finished = state.responses.length >= TOTAL_QUESTIONS;
-  report.hidden = false;
-  report.classList.toggle("is-pending", !finished);
-  if (!finished) {
-    renderPendingFinalReport();
-    return;
-  }
+  renderReportPreview(finished);
+  report.hidden = !finished;
+  report.classList.remove("is-pending");
+  if (!finished) return;
   if (!state.completedAt) state.completedAt = new Date().toISOString();
 
   const correctCount = state.responses.filter((response) => response.correct).length;
@@ -1148,23 +1146,21 @@ function renderFinalReport() {
   renderReportChips("finalWeakAreas", weakestAreas(), "No clear weak area");
 }
 
-function renderPendingFinalReport() {
+function renderReportPreview(finished) {
+  const preview = document.getElementById("reportPreview");
+  if (!preview) return;
+  preview.hidden = finished;
+  if (finished) return;
   const answered = state.responses.length;
-  const copyButton = document.getElementById("copyReport");
-  const copyStatus = document.getElementById("copyReportStatus");
-  document.getElementById("finalReportDate").textContent = "Completed: —";
-  document.getElementById("finalCorrect").textContent = `0/${TOTAL_QUESTIONS}`;
-  document.getElementById("finalConfidenceScore").textContent = "—";
-  document.getElementById("finalConfidenceText").textContent = `This report is inactive for now. It will be populated with real data after ${TOTAL_QUESTIONS} items have been answered. You have answered ${answered}/${TOTAL_QUESTIONS}.`;
-  document.getElementById("finalLevelRange").textContent = "—";
-  document.getElementById("finalCefr").textContent = "—";
-  document.getElementById("finalToefl").textContent = "—";
-  document.getElementById("finalIelts").textContent = "—";
-  document.getElementById("finalToeic").textContent = "—";
-  renderReportChips("finalStrongAreas", [], "—");
-  renderReportChips("finalWeakAreas", [], "—");
-  if (copyButton) copyButton.disabled = true;
-  if (copyStatus) copyStatus.textContent = `Available after ${TOTAL_QUESTIONS} answers.`;
+  preview.classList.add("is-pending");
+  document.getElementById("reportPreviewProgress").textContent = `${answered}/${TOTAL_QUESTIONS}`;
+  document.getElementById("reportPreviewNote").textContent = `Preview only. Real level, score ranges, strong areas, and weak areas appear after ${TOTAL_QUESTIONS} answers.`;
+  document.getElementById("reportPreviewLevel").textContent = "—";
+  document.getElementById("reportPreviewCefr").textContent = "—";
+  document.getElementById("reportPreviewToefl").textContent = "—";
+  document.getElementById("reportPreviewIelts").textContent = "—";
+  document.getElementById("reportPreviewToeic").textContent = "—";
+  document.getElementById("reportPreviewConfidence").textContent = "—";
 }
 
 function copyFinalReport() {
