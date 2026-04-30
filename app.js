@@ -744,7 +744,7 @@ function createQuestionBank() {
     blueprintCounts[blueprint.code] = localIndex + 1;
     const made = blueprint.make(localIndex);
     const mirror = TEST_MIRRORS[Math.floor(i / blueprints.length) % TEST_MIRRORS.length];
-    const prompt = contextualize(made.text, blueprint, i, made);
+    const prompt = contextualize(made.text, blueprint, localIndex, made);
     bank.push({
       id: `${blueprint.code}-${i + 1}`,
       blueprint: blueprint.code,
@@ -777,40 +777,72 @@ function contextualize(text, blueprint, index, made) {
   };
 }
 
-function helpfulSetup(text, blueprint) {
-  if (blueprint.code === "g-present-simple") return "The sentence is about a regular Monday action.";
-  if (blueprint.code === "g-past-simple") return "The sentence is about one action before lunch yesterday.";
-  if (blueprint.code === "g-first-conditional") return "The sentence describes what may happen after a schedule change.";
-  if (blueprint.code === "g-second-conditional") return "The sentence imagines a different situation.";
+function helpfulSetup(text, blueprint, index = 0) {
+  if (blueprint.code === "g-present-simple") {
+    return pick([
+      "The sentence describes a regular Monday action.",
+      "This action happens every Monday.",
+      "The time words show a weekly habit.",
+      "Choose the verb form for a repeated action.",
+      "The sentence is about something that happens again and again.",
+      "Use the verb form that fits a weekly routine."
+    ], index);
+  }
+  if (blueprint.code === "g-past-simple") {
+    return pick([
+      "The sentence is about one action before lunch yesterday.",
+      "The time word shows the action is finished.",
+      "Choose the verb form for a completed past action.",
+      "The sentence tells what happened yesterday.",
+      "Use the verb form that fits a finished action.",
+      "The action happened at one past time."
+    ], index);
+  }
+  if (blueprint.code === "g-first-conditional") {
+    return pick([
+      "The sentence describes what may happen after a schedule change.",
+      "The if-clause is about a real future possibility.",
+      "Choose the result form for a possible future event.",
+      "The sentence connects a real condition with a future result."
+    ], index);
+  }
+  if (blueprint.code === "g-second-conditional") {
+    return pick([
+      "The sentence imagines a different situation.",
+      "The if-clause is not about a real plan.",
+      "Choose the result form for an imagined situation.",
+      "The sentence talks about what could happen in a different case."
+    ], index);
+  }
 
   const setups = {
-    Articles: "The blank comes before a noun or noun phrase.",
-    Prepositions: "The blank comes before a time word.",
-    "Count and noncount nouns": "The blank comes before a noun phrase.",
-    "Subject-verb agreement": "Each option describes the same idea with different grammar.",
-    Modals: "A rule or notice is giving an instruction.",
-    Comparatives: "The sentence compares two things.",
-    "Clauses and connectors": "Choose the word that connects the two ideas clearly.",
-    "Passive voice": "The sentence describes what happened to a document yesterday.",
-    "Relative clauses": "The sentence gives more information about a person.",
-    "Reported speech": "A person is telling someone what the manager said earlier.",
-    "Reduced clauses": "Choose the shorter sentence that keeps the same meaning.",
-    "Advanced sentence structure": "Choose the formal sentence with correct word order.",
-    "Everyday vocabulary": "Choose the word with the same meaning.",
-    "Workplace vocabulary": "Use the office-message meaning of the word.",
-    "Word forms": "Choose the form of the word that fits the sentence.",
-    Collocations: "Choose the word that naturally goes with the phrase.",
-    "Phrasal verbs": "Choose the small word that completes the verb phrase.",
-    Transitions: "Choose the word that shows how the two ideas connect.",
-    "Meaning in context": "Use the sentence to choose the meaning of the quoted word.",
-    "Academic vocabulary": "Choose the school or work meaning of the word.",
-    Register: "Choose the sentence that fits formal writing.",
-    Nuance: "Choose the closest meaning.",
-    "Hedging and precision": "Choose the careful sentence that is not too strong.",
-    "Discourse function": "Choose the sentence that states a study problem clearly."
+    Articles: ["The blank comes before a noun or noun phrase.", "Look at the sound and meaning of the noun phrase.", "Choose the small word that fits before the noun.", "The noun phrase after the blank gives the clue."],
+    Prepositions: ["The blank comes before a time word.", "Use the time expression after the blank.", "Choose the small word that fits the time phrase.", "The answer depends on the day, clock time, or month."],
+    "Count and noncount nouns": ["The blank comes before a noun phrase.", "Think about whether the noun is countable.", "Choose the amount word that fits the noun.", "The noun after the blank gives the clue."],
+    "Subject-verb agreement": ["Each option describes the same idea with different grammar.", "Choose the sentence where the subject and verb fit.", "The subject controls the verb form.", "Only one option has a matching subject and verb."],
+    Modals: ["A rule or notice is giving an instruction.", "The sentence says what people are required to do.", "Choose the helping verb that shows a requirement.", "The sentence gives a rule, not a preference."],
+    Comparatives: ["The sentence compares two things.", "The word than shows a comparison.", "Choose the form used to compare two things.", "The answer should fit before than."],
+    "Clauses and connectors": ["Choose the word that connects the two ideas clearly.", "The two ideas contrast with each other.", "Choose the joining word that fits both ideas.", "The first idea is surprising with the second idea."],
+    "Passive voice": ["The sentence describes what happened to a document yesterday.", "The focus is on the thing, not the person.", "Choose the form that shows the document received the action.", "The by phrase names who did the action."],
+    "Relative clauses": ["The sentence gives more information about a person.", "The missing word connects a person with something they have.", "Choose the word that shows possession.", "The noun after the blank belongs to the person."],
+    "Reported speech": ["A person is telling someone what another person said earlier.", "Choose the sentence that reports the direct quote.", "The original words are being retold later.", "The answer should sound like reported information."],
+    "Reduced clauses": ["Choose the shorter sentence that keeps the same meaning.", "The best sentence removes extra words cleanly.", "Choose the clear short form.", "The answer should be shorter but still grammatical."],
+    "Advanced sentence structure": ["Choose the formal sentence with correct word order.", "The sentence begins with Only after.", "Choose the sentence with correct formal inversion.", "The formal opening changes the word order."],
+    "Everyday vocabulary": ["Choose the word with the same meaning.", "Find the closest simple meaning.", "Choose the matching everyday word.", "The answer should mean almost the same thing."],
+    "Workplace vocabulary": ["Use the office-message meaning of the word.", "Choose the meaning that fits a work message.", "Think about how this word is used at work.", "The answer should fit an office context."],
+    "Word forms": ["Choose the form of the word that fits the sentence.", "The sentence needs the right word-family form.", "Choose the noun, verb, or -ing form that fits.", "The words are from the same family."],
+    Collocations: ["Choose the word that naturally goes with the phrase.", "Only one word makes a common phrase.", "Choose the word pair that sounds natural.", "The answer should make a common English phrase."],
+    "Phrasal verbs": ["Choose the small word that completes the verb phrase.", "The verb needs one small word after it.", "Choose the word that makes the phrase natural.", "The answer completes a common verb phrase."],
+    Transitions: ["Choose the word that shows how the two ideas connect.", "The second idea is different from the first.", "Choose the linking word that fits the relationship.", "The answer should show contrast."],
+    "Meaning in context": ["Use the sentence to choose the meaning of the quoted word.", "The sentence gives the clue for the word meaning.", "Choose the meaning that fits this sentence.", "The answer should match the quoted word in context."],
+    "Academic vocabulary": ["Choose the school or work meaning of the word.", "The answer should fit formal reading.", "Choose the meaning used in study or work texts.", "Think about how the word is used in reports or lessons."],
+    Register: ["Choose the sentence that fits formal writing.", "The answer should sound appropriate in a report.", "Choose the most professional sentence.", "The best option has a formal tone."],
+    Nuance: ["Choose the closest meaning.", "Pick the meaning that best matches the word.", "Choose the most exact meaning.", "The answer should match the word's usual meaning."],
+    "Hedging and precision": ["Choose the careful sentence that is not too strong.", "The best sentence avoids overclaiming.", "Choose the sentence that sounds cautious and precise.", "The answer should make a careful claim."],
+    "Discourse function": ["Choose the sentence that states a study problem clearly.", "The answer should describe a limitation.", "Choose the sentence that explains one weakness in the study.", "The best option names a problem without exaggeration."]
   };
 
-  return setups[blueprint.subcategory] || "Use the sentence to choose the best answer.";
+  return pick(setups[blueprint.subcategory] || ["Use the sentence to choose the best answer."], index);
 }
 
 function validateBank(bank) {
@@ -986,7 +1018,6 @@ function renderQuestion() {
   document.getElementById("questionMeta").innerHTML = [
     state.current.category,
     learnerSubcategory(state.current.subcategory),
-    state.current.source,
     `Level ${state.current.difficulty.toFixed(1)}`
   ].map((tag) => `<span class="tag">${tag}</span>`).join("");
   document.getElementById("questionText").innerHTML = `
@@ -1173,12 +1204,18 @@ function renderReportPanel() {
   const status = document.getElementById("reportStatus");
   const button = document.getElementById("sendReport");
   const intro = document.getElementById("reportIntro");
-  if (!panel || !form || !status || !button || !intro) return;
+  const complete = document.getElementById("reportComplete");
+  const copy = panel ? panel.querySelector(".report-copy") : null;
+  if (!panel || !form || !status || !button || !intro || !complete || !copy) return;
 
   const answered = state.responses.length;
   const canReport = answered >= REPORT_THRESHOLD;
   panel.classList.toggle("is-hidden", !canReport && !state.reportSent);
   if (!canReport && !state.reportSent) return;
+
+  complete.classList.toggle("is-hidden", !state.reportSent);
+  copy.classList.toggle("is-hidden", state.reportSent);
+  status.classList.toggle("is-hidden", state.reportSent);
 
   intro.textContent = `${answered}/${TOTAL_QUESTIONS} answers are complete. The report includes scores, question history, and grammar and vocabulary areas to practice.`;
   form.classList.toggle("is-hidden", state.reportSent);
@@ -1347,6 +1384,7 @@ function restart() {
   document.getElementById("reportForm").reset();
   document.getElementById("reportStatus").textContent = "";
   document.getElementById("reportStatus").className = "report-status";
+  document.getElementById("reportComplete").classList.add("is-hidden");
   updateResults();
   renderQuestion();
 }
