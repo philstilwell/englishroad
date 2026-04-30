@@ -1,4 +1,4 @@
-const TOTAL_QUESTIONS = 120;
+const TOTAL_QUESTIONS = 100;
 const FIRST_ESTIMATE_AT = 5;
 const CORE_BANK_SIZE = 1500;
 const SUPPLEMENTAL_BANK_SIZE = 700;
@@ -72,7 +72,7 @@ const languageGuides = {
       "Choose one answer and click Check answer.",
       "You see a first level after 5 answers.",
       "For an unofficial report, take a screenshot of your level and practice areas.",
-      "Continue up to 120 questions for a clearer result."
+      "Continue up to 100 questions for a clearer result."
     ]
   },
   ja: {
@@ -83,7 +83,7 @@ const languageGuides = {
       "答えを1つ選び、「Check answer」を押します。",
       "5問答えると、最初のレベルが表示されます。",
       "非公式レポートが必要な場合は、レベルと練習項目の画面をスクリーンショットしてください。",
-      "120問まで続けると、結果がよりはっきりします。"
+      "100問まで続けると、結果がよりはっきりします。"
     ]
   },
   zh: {
@@ -94,7 +94,7 @@ const languageGuides = {
       "选择一个答案，然后点击 Check answer。",
       "回答 5 题后，你会看到第一次水平估计。",
       "如果需要非正式报告，请截屏保存你的水平和需要练习的内容。",
-      "继续完成最多 120 题，结果会更清楚。"
+      "继续完成最多 100 题，结果会更清楚。"
     ]
   },
   es: {
@@ -105,7 +105,7 @@ const languageGuides = {
       "Elige una respuesta y pulsa Check answer.",
       "Ves un primer nivel después de 5 respuestas.",
       "Para un informe no oficial, haz una captura de tu nivel y de las áreas para practicar.",
-      "Continúa hasta 120 preguntas para obtener un resultado más claro."
+      "Continúa hasta 100 preguntas para obtener un resultado más claro."
     ]
   },
   te: {
@@ -116,7 +116,7 @@ const languageGuides = {
       "ఒక సమాధానం ఎంచుకొని Check answer నొక్కండి.",
       "5 సమాధానాల తర్వాత మొదటి స్థాయి కనిపిస్తుంది.",
       "అనధికారిక నివేదిక కోసం, మీ స్థాయి మరియు సాధన చేయాల్సిన భాగాల స్క్రీన్‌షాట్ తీసుకోండి.",
-      "మరింత స్పష్టమైన ఫలితం కోసం 120 ప్రశ్నల వరకు కొనసాగండి."
+      "మరింత స్పష్టమైన ఫలితం కోసం 100 ప్రశ్నల వరకు కొనసాగండి."
     ]
   },
   pt: {
@@ -127,7 +127,7 @@ const languageGuides = {
       "Escolha uma resposta e clique em Check answer.",
       "Você vê um primeiro nível depois de 5 respostas.",
       "Para um relatório não oficial, tire uma captura da tela com seu nível e áreas de prática.",
-      "Continue até 120 perguntas para um resultado mais claro."
+      "Continue até 100 perguntas para um resultado mais claro."
     ]
   },
   pl: {
@@ -138,7 +138,7 @@ const languageGuides = {
       "Wybierz jedną odpowiedź i kliknij Check answer.",
       "Pierwszy poziom zobaczysz po 5 odpowiedziach.",
       "Aby mieć nieoficjalny raport, zrób zrzut ekranu z poziomem i obszarami do ćwiczenia.",
-      "Kontynuuj do 120 pytań, aby wynik był dokładniejszy."
+      "Kontynuuj do 100 pytań, aby wynik był dokładniejszy."
     ]
   },
   ko: {
@@ -149,7 +149,7 @@ const languageGuides = {
       "답 하나를 고르고 Check answer를 누르세요.",
       "5문제에 답하면 첫 수준이 보입니다.",
       "비공식 보고서가 필요하면 수준과 연습할 부분이 보이도록 스크린샷을 찍으세요.",
-      "더 정확한 결과를 위해 120문제까지 계속하세요."
+      "더 정확한 결과를 위해 100문제까지 계속하세요."
     ]
   },
   fr: {
@@ -160,7 +160,7 @@ const languageGuides = {
       "Choisissez une réponse et cliquez sur Check answer.",
       "Vous voyez un premier niveau après 5 réponses.",
       "Pour un rapport non officiel, faites une capture d’écran de votre niveau et des points à travailler.",
-      "Continuez jusqu’à 120 questions pour un résultat plus clair."
+      "Continuez jusqu’à 100 questions pour un résultat plus clair."
     ]
   }
 };
