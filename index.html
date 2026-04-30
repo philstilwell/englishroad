@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="icon" href="favicon.svg?v=olive-v2" type="image/svg+xml">
-    <link rel="stylesheet" href="styles.css?v=olive-compact-v1">
+    <link rel="stylesheet" href="styles.css?v=final-report-v1">
   </head>
   <body>
     <main class="shell">
@@ -94,26 +94,26 @@
 
           <aside class="panel results-panel" aria-labelledby="result-title">
             <div class="result-header">
-              <p class="label">Your English level</p>
+              <p class="label">Estimated range</p>
               <h2 id="result-title">Answer 5 questions</h2>
               <p id="precisionText" class="precision-text">We show your first level after 5 answers.</p>
             </div>
 
             <div class="score-grid" aria-label="Score estimates">
               <div>
-                <span>TOEFL iBT</span>
+                <span>Estimated TOEFL iBT range</span>
                 <strong id="toeflScore">--</strong>
               </div>
               <div>
-                <span>IELTS</span>
+                <span>Estimated IELTS range</span>
                 <strong id="ieltsScore">--</strong>
               </div>
               <div>
-                <span>TOEIC L&amp;R</span>
+                <span>Estimated TOEIC L&amp;R range</span>
                 <strong id="toeicScore">--</strong>
               </div>
               <div>
-                <span>CEFR</span>
+                <span>Estimated CEFR range</span>
                 <strong id="cefrScore">--</strong>
               </div>
             </div>
@@ -142,8 +142,61 @@
             </div>
           </aside>
         </section>
+
+        <section id="finalReport" class="panel final-report" aria-labelledby="finalReportTitle" hidden>
+          <div class="final-report-header">
+            <div>
+              <p class="label">Unofficial final report</p>
+              <h2 id="finalReportTitle">EnglishRoad Level Check</h2>
+              <p id="finalReportDate" class="final-report-date"></p>
+            </div>
+            <div class="final-correct">
+              <span>Total correct</span>
+              <strong id="finalCorrect">--</strong>
+            </div>
+          </div>
+
+          <p class="final-confidence">
+            This is an unofficial estimated range. It is for practice and placement conversations, not an official test score.
+          </p>
+
+          <div class="final-score-grid" aria-label="Final estimated score ranges">
+            <div>
+              <span>EnglishRoad level</span>
+              <strong id="finalLevelRange">--</strong>
+            </div>
+            <div>
+              <span>CEFR</span>
+              <strong id="finalCefr">--</strong>
+            </div>
+            <div>
+              <span>TOEFL iBT</span>
+              <strong id="finalToefl">--</strong>
+            </div>
+            <div>
+              <span>IELTS</span>
+              <strong id="finalIelts">--</strong>
+            </div>
+            <div>
+              <span>TOEIC L&amp;R</span>
+              <strong id="finalToeic">--</strong>
+            </div>
+          </div>
+
+          <div class="final-area-grid">
+            <section aria-labelledby="strongAreasTitle">
+              <h3 id="strongAreasTitle">Strongest areas</h3>
+              <div id="finalStrongAreas" class="chips compact-chips"></div>
+            </section>
+            <section aria-labelledby="weakAreasTitle">
+              <h3 id="weakAreasTitle">Weakest areas</h3>
+              <div id="finalWeakAreas" class="chips compact-chips"></div>
+            </section>
+          </div>
+        </section>
       </section>
     </main>
-    <script src="app.js?v=item-audit-v1"></script>
+    <script src="item-bank-data.js?v=structured-data-v1"></script>
+    <script src="app.js?v=final-report-v1"></script>
   </body>
 </html>

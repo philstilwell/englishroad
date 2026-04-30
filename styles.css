@@ -604,6 +604,103 @@ h1 {
   line-height: 1.35;
 }
 
+.final-report {
+  padding: 22px;
+}
+
+.final-report[hidden] {
+  display: none;
+}
+
+.final-report-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 18px;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 14px;
+}
+
+.final-report-header h2 {
+  margin: 0;
+  font-size: clamp(1.45rem, 3vw, 2.25rem);
+  line-height: 1.05;
+}
+
+.final-report-date,
+.final-confidence {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-weight: 750;
+  line-height: 1.35;
+}
+
+.final-correct {
+  min-width: 130px;
+  border: 1px solid rgba(111, 127, 42, 0.35);
+  border-radius: 8px;
+  background: var(--panel-soft);
+  padding: 12px;
+  text-align: right;
+}
+
+.final-correct span,
+.final-score-grid span {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--muted);
+  font-size: 0.74rem;
+  font-weight: 850;
+  text-transform: uppercase;
+}
+
+.final-correct strong {
+  color: var(--green-dark);
+  font-size: 1.85rem;
+  line-height: 1;
+}
+
+.final-score-grid {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.final-score-grid div {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fffdf2;
+  padding: 12px;
+}
+
+.final-score-grid strong {
+  color: var(--ink);
+  font-size: 1.3rem;
+  line-height: 1.1;
+}
+
+.final-area-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+  margin-top: 16px;
+}
+
+.final-area-grid section {
+  border-top: 1px solid var(--line);
+  padding-top: 12px;
+}
+
+.final-area-grid h3 {
+  margin: 0 0 10px;
+  font-size: 1rem;
+}
+
+.compact-chips {
+  min-height: 30px;
+}
+
 @media (max-width: 880px) {
   .intro-grid,
   .assessment-grid {
@@ -617,6 +714,11 @@ h1 {
   .topbar {
     align-items: flex-start;
     flex-direction: column;
+  }
+
+  .final-score-grid,
+  .final-area-grid {
+    grid-template-columns: 1fr 1fr;
   }
 
   .brand-title img {
@@ -642,8 +744,19 @@ h1 {
   }
 
   .progress-row,
-  .score-grid {
+  .score-grid,
+  .final-score-grid,
+  .final-area-grid {
     grid-template-columns: 1fr;
+  }
+
+  .final-report-header {
+    flex-direction: column;
+  }
+
+  .final-correct {
+    width: 100%;
+    text-align: left;
   }
 
   .question-text {
