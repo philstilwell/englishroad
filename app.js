@@ -1,7 +1,9 @@
 const TOTAL_QUESTIONS = 120;
 const FIRST_ESTIMATE_AT = 5;
 const REPORT_THRESHOLD = 60;
-const BANK_SIZE = 1500;
+const CORE_BANK_SIZE = 1500;
+const SUPPLEMENTAL_BANK_SIZE = 700;
+const BANK_SIZE = CORE_BANK_SIZE + SUPPLEMENTAL_BANK_SIZE;
 const TEST_MIRRORS = ["TOEFL", "IELTS", "TOEIC", "CEFR"];
 const REPORT_RECIPIENT = ["cGhpbHN0aWx3ZWxs", "eWFob28", "Y29t"];
 
@@ -719,6 +721,201 @@ const blueprints = [
   }
 ];
 
+const supplementalQuestionSets = {
+  comparisons: [
+    ["Tom is ___ than Mike.", ["much more intelligent", "very more intelligent", "very much intelligent", "many more intelligent"], "much more intelligent"],
+    ["Dogs are usually ___ cats.", ["larger than", "larger", "more larger than", "very larger than"], "larger than"],
+    ["This zoo is ___ the one in Paris.", ["much cheaper than", "more cheaper than", "very cheap less than", "more lesser price than"], "much cheaper than"],
+    ["Tom is twice ___ as Mike.", ["as tall", "as high", "as much high", "the high"], "as tall"],
+    ["My new apartment is ___ my old apartment.", ["the same size as", "same size to", "same size than", "the same size to"], "the same size as"],
+    ["The museums in Tokyo are ___ the museums in Paris.", ["less crowded than", "less crowded to", "less crowding than", "less crowding to"], "less crowded than"],
+    ["There are ___ large animals in Africa than in Australia.", ["many more", "much more", "so many", "very many"], "many more"],
+    ["This chair is ___ that one.", ["more comfortable than", "more comfortable to", "more comfort than", "very comfort than"], "more comfortable than"],
+    ["The taxi costs ___ 50 dollars.", ["more than", "higher than", "very over", "more expensive"], "more than"],
+    ["It is ___ today than yesterday.", ["much colder", "so colder", "very colder", "very cold"], "much colder"],
+    ["Our shirts are ___ the shirts from other companies.", ["better than", "more better than", "superior than", "good than"], "better than"],
+    ["The price is now almost ___ last year's price.", ["double", "double than", "double from", "twice more above"], "double"],
+    ["I am ___ the other students.", ["older than", "more old than", "higher age from", "the oldest of"], "older than"],
+    ["This task is ___ than I expected.", ["more difficult", "more difficult as", "very difficult than", "much difficult"], "more difficult"]
+  ],
+  feelings: [
+    ["I ___ because my dog died.", ["am sad", "have sad", "sad", "sadness"], "am sad"],
+    ["Based on his expression, he ___.", ["is angry", "is anger", "will angry", "will anger"], "is angry"],
+    ["I ___ to walk in the dark by myself.", ["am scared", "am scary", "have scare", "is scared"], "am scared"],
+    ["When my friend arrived unexpectedly, I ___.", ["was surprised", "was surprising", "had surprise", "have surprised"], "was surprised"],
+    ["I could not see my mother this weekend, so I ___.", ["was disappointed", "was disappointing", "feel disappoint", "disappointed"], "was disappointed"],
+    ["The recent decline in the economy makes me ___.", ["depressed", "a depression", "depression", "depressing"], "depressed"],
+    ["Their loud voices were ___ me.", ["annoying to", "annoyance to", "annoyed", "annoying for"], "annoying to"],
+    ["I ___ to find my lost keys under my bed.", ["was relieved", "had relief", "show relief", "took relief"], "was relieved"],
+    ["If you ___, I recommend you take a short holiday.", ["are stressed", "are stress", "are stressful", "feel stressful"], "are stressed"],
+    ["I am not ___ the danger of earthquakes.", ["worried about", "worried for", "worry about", "worried"], "worried about"],
+    ["Mary's condition ___ after she left the hospital.", ["got worse", "is worse", "is worser", "worsened worse"], "got worse"],
+    ["Parenting is ___ for many new parents.", ["very stressful", "high stressful", "much stressful", "so big stress"], "very stressful"]
+  ],
+  verbForms: [
+    ["Yesterday, Daniel ___ the client before lunch.", ["called", "call", "has called", "calls"], "called"],
+    ["Every Monday, Mina ___ the sales report.", ["checks", "check", "checked", "checking"], "checks"],
+    ["Recently, employment ___ increasing.", ["has been", "have been", "is likely to", "will be"], "has been"],
+    ["The weather ___ since this morning.", ["has changed", "changes", "is changing", "very changed"], "has changed"],
+    ["I ___ that woman before.", ["have never seen", "having never seen", "never see", "not see"], "have never seen"],
+    ["I ___ you ten dollars already.", ["have given", "have gave", "gave to", "did give to"], "have given"],
+    ["He was severely injured, but he ___.", ["has now recovered", "did now recover", "has now recovering", "now is recovery"], "has now recovered"],
+    ["The team ___ many games recently.", ["has won", "has been winning", "wins", "will win"], "has won"],
+    ["I ___ my job last year because I was tired of working nights.", ["quit", "quitted", "have quitted", "will quit"], "quit"],
+    ["If he ___ here tomorrow, I hope he brings a camera.", ["comes", "come", "goes", "is going"], "comes"],
+    ["I would buy a car if I ___ enough money.", ["had", "have", "make", "pay"], "had"],
+    ["The boss would have been happy if they ___ the report.", ["had finished", "can finish", "finish", "were finished"], "had finished"],
+    ["Look outside. It ___ to rain.", ["has started", "started", "will starting", "is doing"], "has started"],
+    ["By the time I ___ the database, it was already 7 p.m.", ["accessed", "accessed to", "have accessed", "have access"], "accessed"]
+  ],
+  prepositions: [
+    ["I will return to my hometown ___ Saturday.", ["on", "at", "in", "for"], "on"],
+    ["I saw a good comedy ___ television last night.", ["on", "during", "in", "while"], "on"],
+    ["I hope to stay dry ___ home.", ["on my way", "during walking", "for my way", "when walk"], "on my way"],
+    ["I have visited many restaurants ___ Paris.", ["in", "at", "near to", "on"], "in"],
+    ["The differences ___ Tokyo and Paris are significant.", ["between", "about", "among", "of"], "between"],
+    ["My increasing weight is likely related ___ eating late.", ["to", "with", "for", "on"], "to"],
+    ["I was not familiar ___ London, so I got lost.", ["with", "about", "for", "on"], "with"],
+    ["I was able to concentrate ___ my work despite the noise.", ["on", "at", "for", "to"], "on"],
+    ["I am responsible ___ my work duties.", ["for", "all", "in", "to"], "for"],
+    ["The trip will take about one hour ___ train.", ["by", "for the", "on", "with"], "by"],
+    ["We replaced the old coffee machine ___ a new one.", ["with", "behind", "for", "to"], "with"],
+    ["The map indicated the restaurant was north, so I headed ___ that direction.", ["in", "at", "for", "to"], "in"],
+    ["I always feel tired ___ night.", ["at", "in", "over", "when"], "at"],
+    ["We have the same opinion ___ this issue.", ["on", "for", "to", "with"], "on"]
+  ],
+  articlesAndNouns: [
+    ["I found my keys under ___ old chair.", ["an", "a", "the", "(nothing)"], "an"],
+    ["I bought a new car. ___ car is red.", ["The", "And", "Because a", "New"], "The"],
+    ["Are you able to play ___ piano?", ["the", "a", "for", "on"], "the"],
+    ["I have ___ information about the competition.", ["much", "many", "several", "a few"], "much"],
+    ["There is ___ furniture in my house.", ["much", "many", "many furnitures", "much furnitures"], "much"],
+    ["There was ___ traffic on the road this morning.", ["heavy", "many", "big", "such heavier"], "heavy"],
+    ["Each ___ has a unique personality.", ["child", "children", "childs", "childrens"], "child"],
+    ["Two ___ were sick yesterday.", ["staff members", "staffs", "staff member", "employee"], "staff members"],
+    ["I drank ___ water after running.", ["a lot of", "several", "very many", "many"], "a lot of"],
+    ["She got sick after eating ___ cake.", ["too much", "a lots of", "very many", "huge many"], "too much"],
+    ["I have ___ money, so I cannot buy the computer.", ["little", "few", "not many", "few monies"], "little"],
+    ["A few ___ in my town dislike the tourists.", ["people", "peoples", "of people", "of the people"], "people"],
+    ["Almost ___ cats are smaller than dogs.", ["all", "every", "all of", "the"], "all"],
+    ["Most ___ have a casual way of speaking.", ["Americans", "all American", "every American", "of Americans"], "Americans"]
+  ],
+  infinitivesAndGerunds: [
+    ["Are you able ___ market conditions?", ["to research", "for researching", "at researching", "to researching"], "to research"],
+    ["What is the best way ___ a new apartment?", ["to find", "for finding", "of finding", "to finding"], "to find"],
+    ["I decided ___ the incident to the police.", ["to report", "on report", "reporting", "the report"], "to report"],
+    ["They decided ___ the new product in the U.S.", ["to promote", "promotion of", "on a promote of", "to promoting"], "to promote"],
+    ["I asked them ___ the broken machine.", ["to repair", "fixing", "if they repair", "repair"], "to repair"],
+    ["It is easy ___ a new computer online.", ["to buy", "easily to buy", "easy for buying", "easy in buying"], "to buy"],
+    ["I don't enjoy ___ in English.", ["emailing", "at times I email", "during email", "to do email"], "emailing"],
+    ["I hope ___ many friends at university.", ["to make", "finding", "making", "to look"], "to make"],
+    ["It is important ___ your instructor carefully.", ["to listen to", "for listening to", "to listen", "to listen for"], "to listen to"],
+    ["Please consider ___ our product.", ["buying", "if can buy", "if you will buy", "to buy"], "buying"],
+    ["I suggest ___ the museums in Paris.", ["visiting", "you visit to", "visiting to", "to visit for seeing"], "visiting"],
+    ["I had difficulty ___ the exam.", ["completing", "for completion of", "in complete", "to complete"], "completing"],
+    ["I recommend you ___ dangerous places when traveling.", ["avoid", "to avoiding", "for avoiding", "use caution to avoiding"], "avoid"],
+    ["I want ___ a law degree.", ["to try to get", "the challenge of", "to challenge to", "to try so"], "to try to get"]
+  ],
+  wordForms: [
+    ["You are always ___ on every project.", ["successful", "a succeed", "succeed", "success"], "successful"],
+    ["This is the end of my ___. Are there any questions?", ["speech", "speak", "speaker", "speaking"], "speech"],
+    ["I am now ___ to walk home from my office.", ["able", "ability", "able to", "have ability"], "able"],
+    ["I received an ___ prize after I won the race.", ["amazing", "amazed", "amazement", "amazingly"], "amazing"],
+    ["To be ___, you must think positively.", ["successful", "succeed", "success", "successfully"], "successful"],
+    ["I am ___ your friendship.", ["appreciative of", "appreciating", "feeling appreciative with", "having appreciation for"], "appreciative of"],
+    ["Learning any language requires time and ___.", ["effort", "efforts", "efforting", "effortful"], "effort"],
+    ["His ___ is not important. He is kind even though he is short.", ["height", "high", "short", "tall"], "height"],
+    ["My tennis ___ are still low.", ["skills", "skill is", "skills very", "skill are"], "skills"],
+    ["Please keep personal information ___.", ["confidential", "careful", "hiding", "secretly"], "confidential"],
+    ["The German ___ has been improving recently.", ["economy", "economic", "finance", "financial"], "economy"],
+    ["The choice was difficult, but I ___ the blue shirt.", ["chose", "choose", "choice", "choosing"], "chose"],
+    ["I am ___ that you will do well.", ["confident", "confidence", "have confident", "am confidence"], "confident"],
+    ["The recent news made investors more ___.", ["optimistic", "optimism", "optimist", "optimistically"], "optimistic"]
+  ],
+  workplace: [
+    ["We would like ___ a 10% discount.", ["to request", "for request", "to be requesting", "your request"], "to request"],
+    ["Can you ___ if we buy 100 units?", ["give us a discount", "be given one", "give us", "have given this"], "give us a discount"],
+    ["Please ___ the contract in the bottom-right corner.", ["sign", "add", "put", "write on"], "sign"],
+    ["The company currently ___ a strong data privacy policy.", ["does not have", "did not have", "has no", "is not having"], "does not have"],
+    ["We need to keep our data ___.", ["confidential", "careful", "hiding", "secretly"], "confidential"],
+    ["The manager ___ the old copy machine.", ["is discussing replacing", "is discussing to replace", "has discussion for replacing", "will discuss replacement of"], "is discussing replacing"],
+    ["I ___ a credit card last year, but I was rejected.", ["applied for", "applicant on", "applied to", "applying to"], "applied for"],
+    ["The CEO ___ the project because it looked promising.", ["signed off on", "signed over", "signed up on", "signed it over"], "signed off on"],
+    ["We are ___ with another company.", ["in negotiations", "having negotiating", "negotiate", "on negotiation"], "in negotiations"],
+    ["Your employer must ___ if you work more than 40 hours.", ["pay you overtime", "calculate overtime into salary", "overtime pay to you", "pay for overwork"], "pay you overtime"],
+    ["The new product ___ last month.", ["did not sell very well", "did not sell good", "has not selling very well", "is not selling many"], "did not sell very well"],
+    ["The launch of the new products ___.", ["was unsuccessful", "do not succeed", "made successfully", "wasn't success"], "was unsuccessful"],
+    ["The speaker gave three ___ sales.", ["ways to increase", "points increasing", "points to increase", "ways for increasing"], "ways to increase"],
+    ["We need a way ___ our expenses.", ["to reduce", "for reducing", "in reduction of", "of reduction"], "to reduce"]
+  ],
+  commonPhrases: [
+    ["He has already ___ a seat on the train.", ["booked", "scheduled", "had", "special"], "booked"],
+    ["I usually pay with a card, but today I paid ___.", ["in cash", "by dollars", "different", "money"], "in cash"],
+    ["If you blow out all the candles, your wish may ___.", ["come true", "go true", "hold true", "make true"], "come true"],
+    ["I have ___ a new apartment for two weeks.", ["been looking for", "a search for", "been searching", "search for"], "been looking for"],
+    ["Feel free to ___ my office anytime.", ["drop by", "return", "stop over", "visit to"], "drop by"],
+    ["I'll have my boss ___ as soon as he returns.", ["call you back", "back call you", "call to you", "call to you back"], "call you back"],
+    ["You should ___ both doors before we leave.", ["lock", "locking", "to lock", "to locking"], "lock"],
+    ["I borrowed money from my friend, so I need to ___ soon.", ["pay him back", "have paid him back", "make payment back", "pay back it"], "pay him back"],
+    ["You can ___ if you exercise every day.", ["get in shape", "conditioning", "have good condition", "shape up yourself"], "get in shape"],
+    ["I got lost ___ the park.", ["on my way to", "during walking to", "on the way for", "on way to"], "on my way to"],
+    ["Go ahead and borrow my coat. You can ___ later.", ["bring it back", "back to me", "return for it", "take it back to me"], "bring it back"],
+    ["I need someone to wash my car. Can you ___?", ["do it", "do", "wash this", "washing"], "do it"],
+    ["I ___ my favorite baseball team whenever they play.", ["cheer for", "always cheering", "cheer up", "say cheers at"], "cheer for"],
+    ["We thought it wise to ___ an emergency.", ["prepare for", "have preparation for", "plan an emergency", "prepare emergencies"], "prepare for"]
+  ],
+  linksAndClauses: [
+    ["I like cycling. ___, cycling carries a risk of injury.", ["However", "Because", "In fact", "Therefore"], "However"],
+    ["The boy spent all his money on candy. ___, his mother was angry.", ["Therefore", "After", "Then", "This reason"], "Therefore"],
+    ["I asked him to close the window ___ I was cold.", ["because", "due to", "since to", "so"], "because"],
+    ["___ my friend is short, he is athletic.", ["Even though", "Even", "Even after", "Even if"], "Even though"],
+    ["I may move to Argentina ___ I know little about the country.", ["even though", "even", "even although", "even if"], "even though"],
+    ["The first idea is useful, ___ the second idea is more practical.", ["but", "for example", "so", "then"], "but"],
+    ["I did well in school, ___ both of my parents were proud.", ["so", "although", "because", "that"], "so"],
+    ["No one is here in the park ___ me.", ["except for", "except only", "including", "unless"], "except for"],
+    ["___ bananas, are there other tropical fruits you enjoy?", ["Apart from", "Excluding banana", "Not counting banana", "Except to"], "Apart from"],
+    ["I was allowed to use my father's car ___ I came home before 10 p.m.", ["on the condition that", "condition that", "if the condition", "with conditioning"], "on the condition that"],
+    ["I will let you know ___ my boss gets back.", ["as soon as", "as soon", "soon", "until"], "as soon as"],
+    ["I always drink coffee ___ eating breakfast.", ["while", "during", "every time I", "every time"], "while"],
+    ["No one in my family believes in Santa ___ me.", ["except for", "but except", "but exception is", "except to"], "except for"],
+    ["I wonder what the company will do ___ the product launch failed.", ["now that", "because that", "during", "while"], "now that"]
+  ],
+  correctSentences: [
+    ["Which sentence is correct?", ["It is almost 2 p.m. now.", "It has almost 2 p.m. now.", "It close to 2 p.m. now.", "2 p.m. is almost now."], "It is almost 2 p.m. now."],
+    ["Choose the correct sentence.", ["Because I was tired, I went to bed.", "I was tired. Because I went to bed.", "I went to bed. Because I was tired.", "I was tired because I went to bed."], "Because I was tired, I went to bed."],
+    ["Which sentence is correct?", ["Could you tell me what the homework is?", "Could you tell to me the homework?", "Would you say me the homework?", "Would you say to me the homework?"], "Could you tell me what the homework is?"],
+    ["Choose the best sentence.", ["Were you born the same year as I was?", "Are you born the same year with me?", "Do you and I have the same year of born?", "Are we born the same year?"], "Were you born the same year as I was?"],
+    ["Which sentence is correct?", ["There are five participants.", "There is five participants.", "There be five participants.", "There will has five participants."], "There are five participants."],
+    ["Choose the correct sentence.", ["The teacher prohibits students from eating in class.", "The teacher prohibits students to eat in class.", "The teacher has prohibit students from eating in class.", "The teacher have prohibited students from eating in class."], "The teacher prohibits students from eating in class."],
+    ["Which sentence is correct?", ["My brother earns much more than I do.", "My brother make much more than I do.", "My brother has an income much more than I do.", "My brother is paid much more than I do earn."], "My brother earns much more than I do."],
+    ["Choose the best sentence.", ["I had my hair cut by the barber.", "I cut my hair by the barber.", "I am cutting my hairs at the barber.", "I had my hairs cut by the barber."], "I had my hair cut by the barber."],
+    ["Which sentence is correct?", ["I have been busy recently.", "I have busy life recently.", "I am busy recently.", "I had been busy recently."], "I have been busy recently."],
+    ["Choose the correct sentence.", ["Most people do not worry about earthquakes.", "Almost people do not worry about earthquakes.", "Most of people do not worry about earthquakes.", "Most of the peoples do not worry about earthquakes."], "Most people do not worry about earthquakes."],
+    ["Which sentence is correct?", ["I enjoy watching kittens play.", "I enjoy to watch kittens play.", "I enjoy to look kittens playing.", "I am enjoying to view kittens."], "I enjoy watching kittens play."],
+    ["Choose the best sentence.", ["It does not matter what people think about you.", "It does not care what people think about you.", "It does not important what people think about you.", "It does not problem what people think about you."], "It does not matter what people think about you."]
+  ]
+};
+
+const supplementalBlueprints = [
+  { code: "s-comparisons", category: "Grammar", subcategory: "Comparatives", difficultyOffset: -0.08, sets: supplementalQuestionSets.comparisons },
+  { code: "s-feelings", category: "Vocabulary", subcategory: "Word forms", difficultyOffset: -0.12, sets: supplementalQuestionSets.feelings },
+  { code: "s-verb-forms", category: "Grammar", subcategory: "Verb tense", difficultyOffset: -0.04, sets: supplementalQuestionSets.verbForms },
+  { code: "s-prepositions", category: "Grammar", subcategory: "Prepositions", difficultyOffset: -0.02, sets: supplementalQuestionSets.prepositions },
+  { code: "s-nouns", category: "Grammar", subcategory: "Count and noncount nouns", difficultyOffset: -0.1, sets: supplementalQuestionSets.articlesAndNouns },
+  { code: "s-infinitives", category: "Grammar", subcategory: "Clauses and connectors", difficultyOffset: 0.08, sets: supplementalQuestionSets.infinitivesAndGerunds },
+  { code: "s-word-forms", category: "Vocabulary", subcategory: "Word forms", difficultyOffset: 0.03, sets: supplementalQuestionSets.wordForms },
+  { code: "s-workplace", category: "Vocabulary", subcategory: "Workplace vocabulary", difficultyOffset: 0.12, sets: supplementalQuestionSets.workplace },
+  { code: "s-phrases", category: "Vocabulary", subcategory: "Phrasal verbs", difficultyOffset: 0.06, sets: supplementalQuestionSets.commonPhrases },
+  { code: "s-links", category: "Vocabulary", subcategory: "Transitions", difficultyOffset: 0.14, sets: supplementalQuestionSets.linksAndClauses },
+  { code: "s-correct-sentence", category: "Grammar", subcategory: "Advanced sentence structure", difficultyOffset: 0.18, sets: supplementalQuestionSets.correctSentences }
+].map((blueprint) => ({
+  ...blueprint,
+  make: (i) => {
+    const set = pick(blueprint.sets, i);
+    return item(set[0], set[1], set[2]);
+  }
+}));
+
 const state = {
   bank: [],
   current: null,
@@ -738,30 +935,49 @@ const state = {
 function createQuestionBank() {
   const bank = [];
   const blueprintCounts = {};
-  for (let i = 0; i < BANK_SIZE; i += 1) {
+  for (let i = 0; i < CORE_BANK_SIZE; i += 1) {
     const blueprint = blueprints[i % blueprints.length];
     const localIndex = blueprintCounts[blueprint.code] || 0;
     blueprintCounts[blueprint.code] = localIndex + 1;
-    const made = blueprint.make(localIndex);
-    const mirror = TEST_MIRRORS[Math.floor(i / blueprints.length) % TEST_MIRRORS.length];
-    const prompt = contextualize(made.text, blueprint, localIndex, made);
-    bank.push({
-      id: `${blueprint.code}-${i + 1}`,
-      blueprint: blueprint.code,
-      category: blueprint.category,
-      subcategory: blueprint.subcategory,
-      source: mirror,
-      difficulty: jitterDifficulty(blueprint.difficulty, i),
-      setupText: prompt.setup,
-      taskText: prompt.task,
-      text: prompt.fullText,
-      options: shuffleStable(uniqueOptions(made.options), i),
-      answer: made.answer,
-      focusKey: made.focusKey || ""
-    });
+    bank.push(buildQuestion(blueprint, localIndex, i, jitterDifficulty(blueprint.difficulty, i)));
+  }
+
+  const supplementalCounts = {};
+  for (let i = 0; i < SUPPLEMENTAL_BANK_SIZE; i += 1) {
+    const globalIndex = CORE_BANK_SIZE + i;
+    const blueprint = supplementalBlueprints[i % supplementalBlueprints.length];
+    const localIndex = supplementalCounts[blueprint.code] || 0;
+    supplementalCounts[blueprint.code] = localIndex + 1;
+    bank.push(buildQuestion(blueprint, localIndex, globalIndex, supplementalDifficulty(blueprint, i)));
   }
   validateBank(bank);
   return bank;
+}
+
+function buildQuestion(blueprint, localIndex, globalIndex, difficulty) {
+  const made = blueprint.make(localIndex);
+  const mirror = TEST_MIRRORS[globalIndex % TEST_MIRRORS.length];
+  const prompt = contextualize(made.text, blueprint, localIndex, made);
+  return {
+    id: `${blueprint.code}-${globalIndex + 1}`,
+    blueprint: blueprint.code,
+    category: blueprint.category,
+    subcategory: blueprint.subcategory,
+    source: mirror,
+    difficulty,
+    setupText: prompt.setup,
+    taskText: prompt.task,
+    text: prompt.fullText,
+    options: shuffleStable(uniqueOptions(made.options), globalIndex),
+    answer: made.answer,
+    focusKey: made.focusKey || ""
+  };
+}
+
+function supplementalDifficulty(blueprint, supplementalIndex) {
+  const progress = supplementalIndex / Math.max(1, SUPPLEMENTAL_BANK_SIZE - 1);
+  const roughToiecProgression = 1.25 + progress * 3.45;
+  return jitterDifficulty(clamp(roughToiecProgression + (blueprint.difficultyOffset || 0), 1.15, 4.9), CORE_BANK_SIZE + supplementalIndex);
 }
 
 function item(text, options, answer, focusKey = "", setup = "") {
@@ -817,12 +1033,12 @@ function helpfulSetup(text, blueprint, index = 0) {
 
   const setups = {
     Articles: ["The blank comes before a noun or noun phrase.", "Look at the sound and meaning of the noun phrase.", "Choose the small word that fits before the noun.", "The noun phrase after the blank gives the clue."],
-    Prepositions: ["The blank comes before a time word.", "Use the time expression after the blank.", "Choose the small word that fits the time phrase.", "The answer depends on the day, clock time, or month."],
+    Prepositions: ["Use the words after the blank for help.", "Choose the small word that fits the sentence.", "The answer depends on the time, place, or relationship.", "Read the whole phrase around the blank."],
     "Count and noncount nouns": ["The blank comes before a noun phrase.", "Think about whether the noun is countable.", "Choose the amount word that fits the noun.", "The noun after the blank gives the clue."],
     "Subject-verb agreement": ["Each option describes the same idea with different grammar.", "Choose the sentence where the subject and verb fit.", "The subject controls the verb form.", "Only one option has a matching subject and verb."],
     Modals: ["A rule or notice is giving an instruction.", "The sentence says what people are required to do.", "Choose the helping verb that shows a requirement.", "The sentence gives a rule, not a preference."],
-    Comparatives: ["The sentence compares two things.", "The word than shows a comparison.", "Choose the form used to compare two things.", "The answer should fit before than."],
-    "Clauses and connectors": ["Choose the word that connects the two ideas clearly.", "The two ideas contrast with each other.", "Choose the joining word that fits both ideas.", "The first idea is surprising with the second idea."],
+    Comparatives: ["The sentence compares two things.", "Choose the form used to compare two things.", "The answer should fit the comparison.", "Look at both things being compared."],
+    "Clauses and connectors": ["Use the words around the blank for help.", "Choose the phrase that fits the sentence.", "The answer must connect clearly with the rest of the sentence.", "Read before and after the blank."],
     "Passive voice": ["The sentence describes what happened to a document yesterday.", "The focus is on the thing, not the person.", "Choose the form that shows the document received the action.", "The by phrase names who did the action."],
     "Relative clauses": ["The sentence gives more information about a person.", "The missing word connects a person with something they have.", "Choose the word that shows possession.", "The noun after the blank belongs to the person."],
     "Reported speech": ["A person is telling someone what another person said earlier.", "Choose the sentence that reports the direct quote.", "The original words are being retold later.", "The answer should sound like reported information."],
@@ -832,8 +1048,8 @@ function helpfulSetup(text, blueprint, index = 0) {
     "Workplace vocabulary": ["Use the office-message meaning of the word.", "Choose the meaning that fits a work message.", "Think about how this word is used at work.", "The answer should fit an office context."],
     "Word forms": ["Choose the form of the word that fits the sentence.", "The sentence needs the right word-family form.", "Choose the noun, verb, or -ing form that fits.", "The words are from the same family."],
     Collocations: ["Choose the word that naturally goes with the phrase.", "Only one word makes a common phrase.", "Choose the word pair that sounds natural.", "The answer should make a common English phrase."],
-    "Phrasal verbs": ["Choose the small word that completes the verb phrase.", "The verb needs one small word after it.", "Choose the word that makes the phrase natural.", "The answer completes a common verb phrase."],
-    Transitions: ["Choose the word that shows how the two ideas connect.", "The second idea is different from the first.", "Choose the linking word that fits the relationship.", "The answer should show contrast."],
+    "Phrasal verbs": ["Choose the phrase that sounds natural.", "Use the words around the blank for help.", "Choose the word or phrase that fits everyday English.", "The answer completes a common English phrase."],
+    Transitions: ["Choose the word that shows how the ideas connect.", "Read both ideas before you answer.", "Choose the linking word that fits the relationship.", "The answer should show the right connection."],
     "Meaning in context": ["Use the sentence to choose the meaning of the quoted word.", "The sentence gives the clue for the word meaning.", "Choose the meaning that fits this sentence.", "The answer should match the quoted word in context."],
     "Academic vocabulary": ["Choose the school or work meaning of the word.", "The answer should fit formal reading.", "Choose the meaning used in study or work texts.", "Think about how the word is used in reports or lessons."],
     Register: ["Choose the sentence that fits formal writing.", "The answer should sound appropriate in a report.", "Choose the most professional sentence.", "The best option has a formal tone."],
