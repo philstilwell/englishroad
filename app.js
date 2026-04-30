@@ -5,7 +5,7 @@ const SUPPLEMENTAL_BANK_SIZE = 700;
 const BANK_SIZE = CORE_BANK_SIZE + SUPPLEMENTAL_BANK_SIZE;
 const TEST_MIRRORS = ["TOEFL", "IELTS", "TOEIC", "CEFR"];
 const STORAGE_KEY = "englishroad-level-check-session-v1";
-const SESSION_VERSION = 1;
+const SESSION_VERSION = 2;
 const DIFFICULTY_BANDS = [
   { key: "starter", max: 2.2, target: 28 },
   { key: "developing", max: 3.3, target: 28 },
@@ -705,6 +705,7 @@ function responseBalance() {
 
 function sessionBalancePenalty(question, balance) {
   const targets = state.mixTargets || createMixTargets();
+  const nextPosition = state.responses.length + 1;
   const categoryTarget = targets.categoryTargets[question.category] || TOTAL_QUESTIONS / 2;
   const subcategoryTarget = targets.subcategoryTargets[question.subcategory] || 5;
   const band = difficultyBand(question.difficulty);
@@ -716,6 +717,11 @@ function sessionBalancePenalty(question, balance) {
   const sourceCount = balance.sources[question.source] || 0;
   let penalty = 0;
 
+  penalty += pacedQuotaPenalty(categoryCount, categoryTarget, nextPosition, 0.9, 1.1);
+  penalty += pacedQuotaPenalty(subcategoryCount, subcategoryTarget, nextPosition, 0.35, 0.32);
+  penalty += pacedQuotaPenalty(bandCount, bandTarget, nextPosition, 1.2, 0.28);
+  penalty += pacedQuotaPenalty(sourceCount, sourceTarget, nextPosition, 1, 0.24);
+
   if (categoryCount >= categoryTarget + 4) penalty += 6 + (categoryCount - categoryTarget) * 0.35;
   else if (categoryCount >= categoryTarget) penalty += 1.6 + (categoryCount - categoryTarget) * 0.2;
   else if (categoryCount < categoryTarget - 5) penalty -= 0.04;
@@ -725,10 +731,17 @@ function sessionBalancePenalty(question, balance) {
   else if (subcategoryCount < Math.max(1, subcategoryTarget - 2)) penalty -= 0.06;
 
   if (state.responses.length >= 16 && bandCount >= bandTarget) penalty += 0.28 + (bandCount - bandTarget) * 0.04;
-  if (sourceCount >= sourceTarget + 2) penalty += 0.65 + (sourceCount - sourceTarget) * 0.16;
+  if (sourceCount >= sourceTarget + 2) penalty += 2.5 + (sourceCount - sourceTarget) * 0.35;
   else if (sourceCount >= sourceTarget) penalty += 0.22 + (sourceCount - sourceTarget) * 0.08;
 
   return penalty;
+}
+
+function pacedQuotaPenalty(count, finalTarget, nextPosition, tolerance, weight) {
+  const expectedNow = (nextPosition / TOTAL_QUESTIONS) * finalTarget;
+  if (count < expectedNow - tolerance) return -weight;
+  if (count > expectedNow + tolerance) return weight;
+  return 0;
 }
 
 function difficultyBand(difficulty) {
@@ -947,12 +960,15 @@ function updateAbility(correct) {
 function updateResults() {
   const estimated = state.responses.length >= FIRST_ESTIMATE_AT;
   const correctCount = state.responses.filter((response) => response.correct).length;
+  const confidence = confidenceMetrics();
   document.getElementById("result-title").textContent = estimated ? `${cefrEstimate()} range` : "Answer 5 questions";
   document.getElementById("toeflScore").textContent = estimated ? toeflEstimate() : "after 5";
   document.getElementById("ieltsScore").textContent = estimated ? ieltsEstimate() : "after 5";
   document.getElementById("toeicScore").textContent = estimated ? toeicEstimate() : "after 5";
   document.getElementById("cefrScore").textContent = estimated ? cefrEstimate() : `${correctCount}/${state.responses.length || 0}`;
   document.getElementById("precisionText").textContent = precisionLabel();
+  document.getElementById("confidenceScore").textContent = estimated ? `${confidence.score}%` : "--";
+  document.getElementById("confidenceLabel").textContent = estimated ? confidence.label : `after ${FIRST_ESTIMATE_AT} answers`;
   renderWeaknesses();
   renderFinalReport();
 }
@@ -960,8 +976,9 @@ function updateResults() {
 function precisionLabel() {
   const answered = state.responses.length;
   if (answered < FIRST_ESTIMATE_AT) return `We show your first level after ${FIRST_ESTIMATE_AT} answers.`;
-  if (answered >= TOTAL_QUESTIONS) return "Finished. This is your unofficial estimated range.";
-  return `${answered}/${TOTAL_QUESTIONS} answers. This is an unofficial estimated range.`;
+  const confidence = confidenceMetrics();
+  if (answered >= TOTAL_QUESTIONS) return `Finished. Estimated range, ${confidence.label.toLowerCase()} confidence.`;
+  return `${answered}/${TOTAL_QUESTIONS} answers. Estimated range, ${confidence.label.toLowerCase()} confidence.`;
 }
 
 function standardError() {
@@ -975,6 +992,59 @@ function abilityRange() {
     low: clamp(state.ability - spread, 1, 6),
     high: clamp(state.ability + spread, 1, 6)
   };
+}
+
+function confidenceMetrics() {
+  const answered = state.responses.length;
+  if (answered < FIRST_ESTIMATE_AT) {
+    return {
+      score: 0,
+      label: "Pending",
+      summary: `Confidence starts after ${FIRST_ESTIMATE_AT} answers.`
+    };
+  }
+
+  const sampleFactor = Math.sqrt(answered / TOTAL_QUESTIONS);
+  const range = abilityRange();
+  const rangeWidth = range.high - range.low;
+  const precisionFactor = clamp(1 - ((rangeWidth - 0.35) / 2.1), 0, 1);
+  const stabilityFactor = responseStabilityFactor();
+  const coverageFactor = responseCoverageFactor();
+  const stabilityWeight = 0.18 * (0.25 + (0.75 * sampleFactor));
+  const coverageWeight = 0.1 * (0.35 + (0.65 * sampleFactor));
+  const score = Math.round(clamp(
+    100 * ((0.5 * sampleFactor) + (0.22 * precisionFactor) + (stabilityWeight * stabilityFactor) + (coverageWeight * coverageFactor)),
+    18,
+    95
+  ));
+  const label = score >= 75 ? "High" : score >= 50 ? "Moderate" : "Low";
+  return {
+    score,
+    label,
+    summary: `Estimated range, ${label.toLowerCase()} confidence (${score}%).`
+  };
+}
+
+function responseStabilityFactor() {
+  const values = state.responses.map((response) => response.difficulty + (response.correct ? 0.45 : -0.65));
+  if (values.length < FIRST_ESTIMATE_AT) return 0;
+  const midpoint = Math.max(1, Math.floor(values.length / 2));
+  const earlyMean = mean(values.slice(0, midpoint));
+  const lateMean = mean(values.slice(midpoint));
+  const drift = Math.abs(earlyMean - lateMean);
+  const recentSpread = standardDeviation(values.slice(-Math.min(25, values.length)));
+  const driftFactor = 1 - clamp(drift / 2.2, 0, 1);
+  const spreadFactor = 1 - clamp((recentSpread - 0.45) / 1.65, 0, 1);
+  return clamp((driftFactor * 0.55) + (spreadFactor * 0.45), 0, 1);
+}
+
+function responseCoverageFactor() {
+  const answered = Math.max(1, state.responses.length);
+  const categories = new Set(state.responses.map((response) => response.category)).size / 2;
+  const sources = new Set(state.responses.map((response) => response.source)).size / TEST_MIRRORS.length;
+  const subcategories = new Set(state.responses.map((response) => response.subcategory)).size / Math.min(12, answered);
+  const difficultyBands = new Set(state.responses.map((response) => difficultyBand(response.difficulty).key)).size / Math.min(3, DIFFICULTY_BANDS.length);
+  return clamp((categories * 0.24) + (sources * 0.2) + (subcategories * 0.26) + (difficultyBands * 0.3), 0, 1);
 }
 
 function cefrEstimate() {
@@ -1037,8 +1107,11 @@ function renderFinalReport() {
   if (!state.completedAt) state.completedAt = new Date().toISOString();
 
   const correctCount = state.responses.filter((response) => response.correct).length;
+  const confidence = confidenceMetrics();
   document.getElementById("finalReportDate").textContent = `Completed: ${formatReportDate(new Date(state.completedAt))}`;
   document.getElementById("finalCorrect").textContent = `${correctCount}/${TOTAL_QUESTIONS}`;
+  document.getElementById("finalConfidenceScore").textContent = `${confidence.score}%`;
+  document.getElementById("finalConfidenceText").textContent = `${confidence.summary} Confidence increases with a larger sample, steadier answers across difficulty levels, and balanced item coverage. This is for practice and placement conversations, not an official test score.`;
   document.getElementById("finalLevelRange").textContent = levelRangeEstimate();
   document.getElementById("finalCefr").textContent = cefrEstimate();
   document.getElementById("finalToefl").textContent = toeflEstimate();
@@ -1064,9 +1137,11 @@ function buildReportText() {
   const completedAt = state.completedAt ? new Date(state.completedAt) : new Date();
   const strongAreas = strongestAreas();
   const weakAreas = weakestAreas();
+  const confidence = confidenceMetrics();
   return [
     "EnglishRoad Level Check - Unofficial report",
     `Completed: ${formatReportDate(completedAt)}`,
+    `Confidence: ${confidence.label} (${confidence.score}%)`,
     `Total correct: ${correctCount}/${TOTAL_QUESTIONS}`,
     `EnglishRoad level range: ${levelRangeEstimate()}`,
     `CEFR estimate: ${cefrEstimate()}`,
@@ -1375,6 +1450,145 @@ function renderLanguageInfo(languageKey = "en") {
   }));
 }
 
+function renderQaDashboard() {
+  const dashboard = document.getElementById("qaDashboard");
+  if (!dashboard) return;
+  if (!isQaDashboardEnabled()) {
+    dashboard.hidden = true;
+    return;
+  }
+
+  const audit = auditItemBank();
+  dashboard.hidden = false;
+  dashboard.innerHTML = `
+    <div class="qa-dashboard-header">
+      <p class="label">Internal QA</p>
+      <h2 id="qaDashboardTitle">Item Bank Dashboard</h2>
+      <p>Shown only when the URL includes <strong>?qa=1</strong> or <strong>#qa</strong>.</p>
+    </div>
+    <div class="qa-summary-grid">
+      ${qaMetricCard("Total items", audit.total.toLocaleString())}
+      ${qaMetricCard("Missing rationales", audit.missingRationales)}
+      ${qaMetricCard("Duplicate-risk groups", audit.duplicateGroups)}
+      ${qaMetricCard("Flagged ambiguity", audit.flaggedAmbiguity)}
+      ${qaMetricCard("Display guidance flags", audit.displayFlags)}
+      ${qaMetricCard("QA status issues", audit.qaStatusIssues)}
+    </div>
+    <div class="qa-table-grid">
+      ${qaTable("By Category", audit.categoryCounts)}
+      ${qaTable("By Difficulty Band", audit.difficultyCounts)}
+      ${qaTable("By Source Mirror", audit.sourceCounts)}
+      ${qaTable("By Practice Area", audit.subcategoryCounts)}
+    </div>
+    <section class="qa-issues">
+      <h3>Flagged Items</h3>
+      ${audit.flaggedItems.length ? `
+        <table>
+          <thead><tr><th>ID</th><th>Area</th><th>Issue</th></tr></thead>
+          <tbody>
+            ${audit.flaggedItems.map((item) => `
+              <tr>
+                <td>${escapeHtml(item.id)}</td>
+                <td>${escapeHtml(learnerSubcategory(item.subcategory))}</td>
+                <td>${escapeHtml(item.issue)}</td>
+              </tr>
+            `).join("")}
+          </tbody>
+        </table>
+      ` : "<p>No flagged items in the generated bank.</p>"}
+    </section>
+  `;
+}
+
+function auditItemBank() {
+  const signatureCounts = {};
+  const flaggedItems = [];
+  state.bank.forEach((question) => {
+    incrementCount(signatureCounts, questionSignature(question));
+    const issues = itemQaIssues(question);
+    issues.forEach((issue) => flaggedItems.push({
+      id: question.id,
+      subcategory: question.subcategory,
+      issue
+    }));
+  });
+
+  return {
+    total: state.bank.length,
+    categoryCounts: sortedCountEntries(countByField(state.bank, "category")),
+    difficultyCounts: sortedCountEntries(countByDifficultyBand(state.bank)),
+    sourceCounts: sortedCountEntries(countByField(state.bank, "source")),
+    subcategoryCounts: sortedCountEntries(countByField(state.bank, "subcategory")).map(([label, count]) => [learnerSubcategory(label), count]),
+    missingRationales: state.bank.filter((question) => !question.rationales || question.options.some((option) => !question.rationales[option])).length,
+    duplicateGroups: Object.values(signatureCounts).filter((count) => count > 1).length,
+    flaggedAmbiguity: state.bank.filter(hasKnownAnswerAmbiguity).length,
+    displayFlags: state.bank.filter(hasDisplayGuidanceProblem).length,
+    qaStatusIssues: state.bank.filter((question) => question.qaStatus !== "screened").length,
+    flaggedItems: flaggedItems.slice(0, 80)
+  };
+}
+
+function itemQaIssues(question) {
+  const issues = [];
+  if (!question.explanation) issues.push("Missing explanation");
+  if (!question.rationales || question.options.some((option) => !question.rationales[option])) issues.push("Missing option rationale");
+  if (question.qaStatus !== "screened") issues.push("QA status is not screened");
+  if (hasKnownAnswerAmbiguity(question)) issues.push("Possible answer ambiguity");
+  if (hasKnownAwkwardPhrase(question)) issues.push("Known awkward phrase");
+  const displayProblem = hasDisplayGuidanceProblem(question);
+  if (displayProblem) issues.push(displayProblem);
+  if (new Set(question.options.map(normalizeQuestionText)).size !== question.options.length) issues.push("Duplicate normalized option");
+  return issues;
+}
+
+function qaMetricCard(label, value) {
+  return `
+    <div>
+      <span>${escapeHtml(label)}</span>
+      <strong>${escapeHtml(String(value))}</strong>
+    </div>
+  `;
+}
+
+function qaTable(title, entries) {
+  return `
+    <section>
+      <h3>${escapeHtml(title)}</h3>
+      <table>
+        <thead><tr><th>Group</th><th>Items</th></tr></thead>
+        <tbody>
+          ${entries.map(([label, count]) => `
+            <tr><td>${escapeHtml(String(label))}</td><td>${count}</td></tr>
+          `).join("")}
+        </tbody>
+      </table>
+    </section>
+  `;
+}
+
+function sortedCountEntries(counts) {
+  return Object.entries(counts).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+}
+
+function countByField(items, field) {
+  return items.reduce((counts, item) => {
+    incrementCount(counts, item[field] || "Missing");
+    return counts;
+  }, {});
+}
+
+function countByDifficultyBand(items) {
+  return items.reduce((counts, item) => {
+    incrementCount(counts, difficultyBand(item.difficulty).key);
+    return counts;
+  }, {});
+}
+
+function isQaDashboardEnabled() {
+  const location = window.location || {};
+  return String(location.search || "").includes("qa=1") || String(location.hash || "") === "#qa";
+}
+
 function toggleInstructions() {
   const panel = document.getElementById("introPanel");
   const content = document.getElementById("instructionsContent");
@@ -1389,6 +1603,18 @@ function toggleInstructions() {
 
 function sumCounts(values) {
   return Object.values(values).reduce((sum, count) => sum + count, 0);
+}
+
+function mean(values) {
+  if (!values.length) return 0;
+  return values.reduce((sum, value) => sum + value, 0) / values.length;
+}
+
+function standardDeviation(values) {
+  if (values.length < 2) return 0;
+  const average = mean(values);
+  const variance = values.reduce((sum, value) => sum + ((value - average) ** 2), 0) / values.length;
+  return Math.sqrt(variance);
 }
 
 function normalizeQuestionText(text) {
@@ -1439,4 +1665,5 @@ state.bank = createQuestionBank();
 state.mixTargets = createMixTargets();
 document.getElementById("bankSize").textContent = state.bank.length.toLocaleString();
 renderLanguageInfo(document.getElementById("languageSelect").value);
+renderQaDashboard();
 if (!restoreSession()) restart();

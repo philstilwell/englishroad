@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="icon" href="favicon.svg?v=olive-v2" type="image/svg+xml">
-    <link rel="stylesheet" href="styles.css?v=copy-report-v1">
+    <link rel="stylesheet" href="styles.css?v=confidence-qa-v1">
   </head>
   <body>
     <main class="shell">
@@ -99,6 +99,11 @@
               <p class="label">Estimated range</p>
               <h2 id="result-title">Answer 5 questions</h2>
               <p id="precisionText" class="precision-text">We show your first level after 5 answers.</p>
+              <div class="confidence-box" aria-label="Estimate confidence">
+                <span>Confidence</span>
+                <strong id="confidenceScore">--</strong>
+                <em id="confidenceLabel">after 5 answers</em>
+              </div>
             </div>
 
             <div class="score-grid" aria-label="Score estimates">
@@ -156,9 +161,13 @@
               <span>Total correct</span>
               <strong id="finalCorrect">--</strong>
             </div>
+            <div class="final-confidence-badge">
+              <span>Confidence</span>
+              <strong id="finalConfidenceScore">--</strong>
+            </div>
           </div>
 
-          <p class="final-confidence">
+          <p id="finalConfidenceText" class="final-confidence">
             This is an unofficial estimated range. It is for practice and placement conversations, not an official test score.
           </p>
 
@@ -201,9 +210,11 @@
             </section>
           </div>
         </section>
+
+        <section id="qaDashboard" class="panel qa-dashboard" aria-labelledby="qaDashboardTitle" hidden></section>
       </section>
     </main>
     <script src="item-bank-data.js?v=structured-data-v1"></script>
-    <script src="app.js?v=autosave-balanced-copy-v1"></script>
+    <script src="app.js?v=confidence-qa-v1"></script>
   </body>
 </html>
