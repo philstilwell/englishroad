@@ -72,7 +72,7 @@ const languageGuides = {
       "Choose one answer and click Check answer.",
       "You see a first level after 5 answers.",
       "For an unofficial report, take a screenshot of your level and practice areas.",
-      "Continue up to 100 questions for a clearer result."
+      "After 100 questions, you get a short unofficial report. It shows your level range, test score estimates, correct answers, strong areas, weak areas, and the date."
     ]
   },
   ja: {
@@ -83,7 +83,7 @@ const languageGuides = {
       "答えを1つ選び、「Check answer」を押します。",
       "5問答えると、最初のレベルが表示されます。",
       "非公式レポートが必要な場合は、レベルと練習項目の画面をスクリーンショットしてください。",
-      "100問まで続けると、結果がよりはっきりします。"
+      "100問が終わると、短い非公式レポートが表示されます。レベル範囲、試験スコアの目安、正解数、得意な部分、苦手な部分、日付がわかります。"
     ]
   },
   zh: {
@@ -94,7 +94,7 @@ const languageGuides = {
       "选择一个答案，然后点击 Check answer。",
       "回答 5 题后，你会看到第一次水平估计。",
       "如果需要非正式报告，请截屏保存你的水平和需要练习的内容。",
-      "继续完成最多 100 题，结果会更清楚。"
+      "完成 100 题后，你会看到一份简短的非正式报告。它会显示水平范围、考试分数估计、答对题数、强项、弱项和日期。"
     ]
   },
   es: {
@@ -105,7 +105,7 @@ const languageGuides = {
       "Elige una respuesta y pulsa Check answer.",
       "Ves un primer nivel después de 5 respuestas.",
       "Para un informe no oficial, haz una captura de tu nivel y de las áreas para practicar.",
-      "Continúa hasta 100 preguntas para obtener un resultado más claro."
+      "Después de 100 preguntas, recibes un informe no oficial breve. Muestra tu rango de nivel, estimaciones de puntaje, respuestas correctas, áreas fuertes, áreas débiles y la fecha."
     ]
   },
   te: {
@@ -116,7 +116,7 @@ const languageGuides = {
       "ఒక సమాధానం ఎంచుకొని Check answer నొక్కండి.",
       "5 సమాధానాల తర్వాత మొదటి స్థాయి కనిపిస్తుంది.",
       "అనధికారిక నివేదిక కోసం, మీ స్థాయి మరియు సాధన చేయాల్సిన భాగాల స్క్రీన్‌షాట్ తీసుకోండి.",
-      "మరింత స్పష్టమైన ఫలితం కోసం 100 ప్రశ్నల వరకు కొనసాగండి."
+      "100 ప్రశ్నల తర్వాత, మీకు చిన్న అనధికారిక నివేదిక కనిపిస్తుంది. అందులో మీ స్థాయి పరిధి, పరీక్ష స్కోరు అంచనాలు, సరైన సమాధానాల సంఖ్య, బలమైన భాగాలు, బలహీన భాగాలు, తేదీ ఉంటాయి."
     ]
   },
   pt: {
@@ -127,7 +127,7 @@ const languageGuides = {
       "Escolha uma resposta e clique em Check answer.",
       "Você vê um primeiro nível depois de 5 respostas.",
       "Para um relatório não oficial, tire uma captura da tela com seu nível e áreas de prática.",
-      "Continue até 100 perguntas para um resultado mais claro."
+      "Depois de 100 perguntas, você recebe um relatório não oficial curto. Ele mostra sua faixa de nível, estimativas de pontuação, respostas corretas, pontos fortes, pontos fracos e a data."
     ]
   },
   pl: {
@@ -138,7 +138,7 @@ const languageGuides = {
       "Wybierz jedną odpowiedź i kliknij Check answer.",
       "Pierwszy poziom zobaczysz po 5 odpowiedziach.",
       "Aby mieć nieoficjalny raport, zrób zrzut ekranu z poziomem i obszarami do ćwiczenia.",
-      "Kontynuuj do 100 pytań, aby wynik był dokładniejszy."
+      "Po 100 pytaniach zobaczysz krótki nieoficjalny raport. Pokazuje zakres poziomu, szacowane wyniki testów, liczbę poprawnych odpowiedzi, mocne strony, słabe strony i datę."
     ]
   },
   ko: {
@@ -149,7 +149,7 @@ const languageGuides = {
       "답 하나를 고르고 Check answer를 누르세요.",
       "5문제에 답하면 첫 수준이 보입니다.",
       "비공식 보고서가 필요하면 수준과 연습할 부분이 보이도록 스크린샷을 찍으세요.",
-      "더 정확한 결과를 위해 100문제까지 계속하세요."
+      "100문제를 끝내면 짧은 비공식 보고서가 나옵니다. 수준 범위, 시험 점수 예상, 정답 수, 강한 부분, 약한 부분, 날짜를 보여 줍니다."
     ]
   },
   fr: {
@@ -160,7 +160,7 @@ const languageGuides = {
       "Choisissez une réponse et cliquez sur Check answer.",
       "Vous voyez un premier niveau après 5 réponses.",
       "Pour un rapport non officiel, faites une capture d’écran de votre niveau et des points à travailler.",
-      "Continuez jusqu’à 100 questions pour un résultat plus clair."
+      "Après 100 questions, vous obtenez un court rapport non officiel. Il montre votre fourchette de niveau, les estimations de scores, les bonnes réponses, les points forts, les points faibles et la date."
     ]
   }
 };
