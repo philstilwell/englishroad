@@ -258,8 +258,15 @@ const blueprints = [
     difficulty: 1.1,
     make: (i) => {
       const person = pick(names, i);
-      const activity = pick(["review the vocabulary list", "check the class schedule", "answer client emails", "update the attendance sheet"], i, 2);
-      return item(`Every Monday, ${person} ___ ${activity.replace(baseVerb(activity), "").trim()}.`, [thirdPerson(activity), activity, gerundPhrase(activity), `is ${gerundPhrase(activity)}`], thirdPerson(activity));
+      const action = pick([
+        ["review", "reviews", "reviewing", "the vocabulary list"],
+        ["check", "checks", "checking", "the class schedule"],
+        ["answer", "answers", "answering", "client emails"],
+        ["update", "updates", "updating", "the attendance sheet"],
+        ["read", "reads", "reading", "the weekly notice"],
+        ["prepare", "prepares", "preparing", "the lesson plan"]
+      ], i, 2);
+      return item(`Every Monday, ${person} ___ ${action[3]}.`, [action[1], action[0], action[2], `is ${action[2]}`], action[1]);
     }
   },
   {
@@ -269,8 +276,17 @@ const blueprints = [
     difficulty: 1.5,
     make: (i) => {
       const person = pick(names, i, 1);
-      const action = pick([["sent", "send"], ["printed", "print"], ["joined", "join"], ["called", "call"], ["opened", "open"]], i);
-      return item(`Yesterday, ${person} ___ the ${pick(simpleObjects, i)} before lunch.`, [action[0], action[1], `${action[1]}s`, `has ${action[0]}`], action[0]);
+      const action = pick([
+        ["sent", "send", "sends", "has sent", "the emails"],
+        ["printed", "print", "prints", "has printed", "the forms"],
+        ["joined", "join", "joins", "has joined", "the meeting"],
+        ["called", "call", "calls", "has called", "the client"],
+        ["opened", "open", "opens", "has opened", "the office"],
+        ["checked", "check", "checks", "has checked", "the schedule"],
+        ["answered", "answer", "answers", "has answered", "the messages"],
+        ["completed", "complete", "completes", "has completed", "the application"]
+      ], i);
+      return item(`Yesterday, ${person} ___ ${action[4]} before lunch.`, [action[0], action[1], action[2], action[3]], action[0]);
     }
   },
   {
@@ -350,7 +366,20 @@ const blueprints = [
     category: "Grammar",
     subcategory: "Modals",
     difficulty: 2.8,
-    make: (i) => item(`The safety notice says that visitors ___ wear identification badges inside the lab.`, ["must", "might", "used to", "would rather"], "must")
+    make: (i) => {
+      const examples = [
+        ["The safety notice says that visitors ___ wear identification badges inside the lab.", "must"],
+        ["The class rule says students ___ turn off phones during the test.", "must"],
+        ["The form says applicants ___ sign their names at the bottom.", "must"],
+        ["The library notice says readers ___ return books by Friday.", "must"],
+        ["The clinic sign says patients ___ check in before the appointment.", "must"],
+        ["The travel rule says passengers ___ show photo ID at the desk.", "must"],
+        ["The office policy says workers ___ lock the door after evening class.", "must"],
+        ["The test instructions say students ___ write their names on every page.", "must"]
+      ];
+      const ex = pick(examples, i);
+      return item(ex[0], [ex[1], "might", "used to", "would rather"], ex[1]);
+    }
   },
   {
     code: "g-comparatives",
@@ -381,7 +410,20 @@ const blueprints = [
     category: "Grammar",
     subcategory: "Clauses and connectors",
     difficulty: 3.2,
-    make: (i) => item(`Choose the best word to join the ideas: ___ the training room was small, everyone could see the screen clearly.`, ["Although", "Because", "Therefore", "Unless"], "Although")
+    make: (i) => {
+      const examples = [
+        ["___ the training room was small, everyone could see the screen clearly.", "Although"],
+        ["___ the rain was heavy, the bus arrived on time.", "Although"],
+        ["___ the form looked simple, several students made mistakes.", "Although"],
+        ["___ the speaker talked quickly, the main idea was clear.", "Although"],
+        ["___ the office was busy, the clerk answered every question.", "Although"],
+        ["___ the book was short, it gave useful examples.", "Although"],
+        ["___ the lesson was difficult, the class finished the activity.", "Although"],
+        ["___ the schedule changed, most people arrived early.", "Although"]
+      ];
+      const ex = pick(examples, i);
+      return item(`Choose the best word to join the ideas: ${ex[0]}`, [ex[1], "Because", "Therefore", "Unless"], ex[1]);
+    }
   },
   {
     code: "g-first-conditional",
@@ -398,7 +440,20 @@ const blueprints = [
     category: "Grammar",
     subcategory: "Conditionals",
     difficulty: 3.8,
-    make: (i) => item(`Choose the best words: If the clinic added evening appointments, more patients ___ after work.`, ["could visit", "can visited", "will visiting", "visit"], "could visit")
+    make: (i) => {
+      const examples = [
+        ["If the clinic added evening appointments, more patients ___ after work.", "could visit"],
+        ["If the library opened earlier, more students ___ before class.", "could study"],
+        ["If the office hired another clerk, customers ___ help faster.", "could get"],
+        ["If the course offered online lessons, more workers ___ after dinner.", "could join"],
+        ["If the bus stopped near the school, students ___ there easily.", "could travel"],
+        ["If the form were shorter, applicants ___ it more quickly.", "could finish"],
+        ["If the room had more chairs, visitors ___ comfortably.", "could sit"],
+        ["If the teacher gave examples, the class ___ the rule better.", "could understand"]
+      ];
+      const ex = pick(examples, i);
+      return item(`Choose the best words: ${ex[0]}`, [ex[1], ex[1].replace("could ", "can "), ex[1].replace("could ", "will "), ex[1].replace("could ", "")], ex[1]);
+    }
   },
   {
     code: "g-passive",
@@ -415,43 +470,79 @@ const blueprints = [
     category: "Grammar",
     subcategory: "Relative clauses",
     difficulty: 4.4,
-    make: (i) => item(`Choose the best word: The applicant ___ resume arrived late still received an interview.`, ["whose", "who", "which", "where"], "whose")
+    make: (i) => {
+      const examples = [
+        "The applicant ___ resume arrived late still received an interview.",
+        "The student ___ notebook was missing asked for another copy.",
+        "The worker ___ badge was lost reported it to security.",
+        "The teacher ___ class ended early stayed to answer questions.",
+        "The client ___ appointment was canceled called the office.",
+        "The researcher ___ data were incomplete repeated the survey.",
+        "The driver ___ license had expired could not rent the car.",
+        "The guest ___ ticket was damaged went to the service desk."
+      ];
+      return item(`Choose the best word: ${pick(examples, i)}`, ["whose", "who", "which", "where"], "whose");
+    }
   },
   {
     code: "g-reported-speech",
     category: "Grammar",
     subcategory: "Reported speech",
     difficulty: 4.8,
-    make: (i) => item(`Choose the best way to tell another person: The manager said, "The meeting starts at noon."`, [
-      "The manager said that the meeting started at noon.",
-      "The manager said that the meeting start at noon.",
-      "The manager said the meeting has start at noon.",
-      "The manager said that noon starts the meeting."
-    ], "The manager said that the meeting started at noon.")
+    make: (i) => {
+      const examples = [
+        ["The manager said, \"The meeting starts at noon.\"", "The manager said that the meeting started at noon.", "The manager said that the meeting start at noon.", "The manager said the meeting has start at noon.", "The manager said that noon starts the meeting."],
+        ["The teacher said, \"The test begins at nine.\"", "The teacher said that the test began at nine.", "The teacher said that the test begin at nine.", "The teacher said the test has begin at nine.", "The teacher said that nine begins the test."],
+        ["The clerk said, \"The office closes at five.\"", "The clerk said that the office closed at five.", "The clerk said that the office close at five.", "The clerk said the office has close at five.", "The clerk said that five closes the office."],
+        ["The guide said, \"The bus leaves at six.\"", "The guide said that the bus left at six.", "The guide said that the bus leave at six.", "The guide said the bus has leave at six.", "The guide said that six leaves the bus."],
+        ["The nurse said, \"The clinic opens at eight.\"", "The nurse said that the clinic opened at eight.", "The nurse said that the clinic open at eight.", "The nurse said the clinic has open at eight.", "The nurse said that eight opens the clinic."],
+        ["The trainer said, \"The lesson ends at four.\"", "The trainer said that the lesson ended at four.", "The trainer said that the lesson end at four.", "The trainer said the lesson has end at four.", "The trainer said that four ends the lesson."],
+        ["The assistant said, \"The report arrives today.\"", "The assistant said that the report arrived that day.", "The assistant said that the report arrive that day.", "The assistant said the report has arrive today.", "The assistant said that day arrives the report."],
+        ["The director said, \"The program starts next week.\"", "The director said that the program started the next week.", "The director said that the program start the next week.", "The director said the program has start next week.", "The director said that next week starts the program."]
+      ];
+      const ex = pick(examples, i);
+      return item(`Choose the best way to tell another person: ${ex[0]}`, ex.slice(1), ex[1]);
+    }
   },
   {
     code: "g-reduced-clauses",
     category: "Grammar",
     subcategory: "Reduced clauses",
     difficulty: 5.3,
-    make: (i) => item(`Choose the clearest short sentence.`, [
-      "The data collected during the trial support the original hypothesis.",
-      "The data which it was collected during the trial support the original hypothesis.",
-      "The data collecting during the trial support the original hypothesis.",
-      "The data were collected during the trial supporting the original hypothesis."
-    ], "The data collected during the trial support the original hypothesis.")
+    make: (i) => {
+      const examples = [
+        ["Choose the clearest short sentence.", "The data collected during the trial support the original hypothesis.", "The data which it was collected during the trial support the original hypothesis.", "The data collecting during the trial support the original hypothesis.", "The data were collected during the trial supporting the original hypothesis."],
+        ["Choose the clearest short sentence.", "The forms submitted after Friday require special approval.", "The forms which they submitted after Friday require special approval.", "The forms submitting after Friday require special approval.", "The forms were submitted after Friday requiring special approval."],
+        ["Choose the clearest short sentence.", "The notes written during the meeting explain the decision.", "The notes which they were written during the meeting explain the decision.", "The notes writing during the meeting explain the decision.", "The notes were written during the meeting explaining the decision."],
+        ["Choose the clearest short sentence.", "The emails sent before noon reached every participant.", "The emails which they were sent before noon reached every participant.", "The emails sending before noon reached every participant.", "The emails were sent before noon reaching every participant."],
+        ["Choose the clearest short sentence.", "The survey completed by the students shows clear progress.", "The survey which it completed by the students shows clear progress.", "The survey completing by the students shows clear progress.", "The survey was completed by the students showing clear progress."],
+        ["Choose the clearest short sentence.", "The schedule posted near the door lists all room changes.", "The schedule which it was posted near the door lists all room changes.", "The schedule posting near the door lists all room changes.", "The schedule was posted near the door listing all room changes."],
+        ["Choose the clearest short sentence.", "The chart prepared for the lesson compares two answers.", "The chart which it was prepared for the lesson compares two answers.", "The chart preparing for the lesson compares two answers.", "The chart was prepared for the lesson comparing two answers."],
+        ["Choose the clearest short sentence.", "The rules printed on the card apply to all visitors.", "The rules which they printed on the card apply to all visitors.", "The rules printing on the card apply to all visitors.", "The rules were printed on the card applying to all visitors."]
+      ];
+      const ex = pick(examples, i);
+      return item(ex[0], ex.slice(1), ex[1]);
+    }
   },
   {
     code: "g-inversion",
     category: "Grammar",
     subcategory: "Advanced sentence structure",
     difficulty: 5.8,
-    make: (i) => item(`Choose the correct formal sentence.`, [
-      "Only after the survey closed did the team analyze the responses.",
-      "Only after the survey closed the team analyzed the responses.",
-      "Only after closed the survey did analyze the team responses.",
-      "Only after the survey did closed the team analyze responses."
-    ], "Only after the survey closed did the team analyze the responses.")
+    make: (i) => {
+      const examples = [
+        ["Only after the survey closed did the team analyze the responses.", "Only after the survey closed the team analyzed the responses.", "Only after closed the survey did analyze the team responses.", "Only after the survey did closed the team analyze responses."],
+        ["Only after the meeting ended did the manager send the notes.", "Only after the meeting ended the manager sent the notes.", "Only after ended the meeting did send the manager notes.", "Only after the meeting did ended the manager send notes."],
+        ["Only after the data arrived did the researcher write the report.", "Only after the data arrived the researcher wrote the report.", "Only after arrived the data did write the researcher report.", "Only after the data did arrived the researcher write report."],
+        ["Only after the class finished did the teacher collect the papers.", "Only after the class finished the teacher collected the papers.", "Only after finished the class did collect the teacher papers.", "Only after the class did finished the teacher collect papers."],
+        ["Only after the office opened did the clerk answer the calls.", "Only after the office opened the clerk answered the calls.", "Only after opened the office did answer the clerk calls.", "Only after the office did opened the clerk answer calls."],
+        ["Only after the rule changed did the school update the form.", "Only after the rule changed the school updated the form.", "Only after changed the rule did update the school form.", "Only after the rule did changed the school update form."],
+        ["Only after the test began did the students see the instructions.", "Only after the test began the students saw the instructions.", "Only after began the test did see the students instructions.", "Only after the test did began the students see instructions."],
+        ["Only after the clinic closed did the nurse check the schedule.", "Only after the clinic closed the nurse checked the schedule.", "Only after closed the clinic did check the nurse schedule.", "Only after the clinic did closed the nurse check schedule."]
+      ];
+      const set = pick(examples, i);
+      return item(`Choose the correct formal sentence.`, set, set[0]);
+    }
   },
   {
     code: "v-easy-synonym",
@@ -532,7 +623,19 @@ const blueprints = [
     category: "Vocabulary",
     subcategory: "Transitions",
     difficulty: 3.2,
-    make: (i) => item(`Choose the word that shows a different idea: The plan is inexpensive; ___, it may take too long.`, ["however", "therefore", "for example", "similarly"], "however")
+    make: (i) => {
+      const examples = [
+        "The plan is inexpensive; ___, it may take too long.",
+        "The room is small; ___, it has enough chairs.",
+        "The form is short; ___, some questions are difficult.",
+        "The course is useful; ___, it requires a lot of homework.",
+        "The office is busy; ___, the staff answer calls quickly.",
+        "The book is old; ___, the examples are still helpful.",
+        "The bus is slow; ___, it is cheaper than a taxi.",
+        "The lesson is hard; ___, most students can follow it."
+      ];
+      return item(`Choose the word that shows a different idea: ${pick(examples, i)}`, ["however", "therefore", "for example", "similarly"], "however");
+    }
   },
   {
     code: "v-context-meaning",
@@ -579,24 +682,40 @@ const blueprints = [
     category: "Vocabulary",
     subcategory: "Hedging and precision",
     difficulty: 5.2,
-    make: (i) => item(`Which sentence is careful and not too strong?`, [
-      "The findings suggest that attendance may affect course completion.",
-      "The findings prove that attendance always causes success.",
-      "The findings are totally certain for every student.",
-      "The findings show that no other factor matters."
-    ], "The findings suggest that attendance may affect course completion.")
+    make: (i) => {
+      const examples = [
+        ["The findings suggest that attendance may affect course completion.", "The findings prove that attendance always causes success.", "The findings are totally certain for every student.", "The findings show that no other factor matters."],
+        ["The survey results suggest that cost may influence enrollment.", "The survey results prove that cost always controls enrollment.", "The survey results are totally certain for every school.", "The survey results show that no other issue matters."],
+        ["The data indicate that class size may affect participation.", "The data prove that class size always causes participation.", "The data are totally certain for every class.", "The data show that no other factor matters."],
+        ["The responses suggest that clearer instructions may reduce errors.", "The responses prove that instructions always remove all errors.", "The responses are totally certain for every student.", "The responses show that no other problem matters."],
+        ["The pattern suggests that practice may improve test performance.", "The pattern proves that practice always guarantees high scores.", "The pattern is totally certain for every learner.", "The pattern shows that no other factor matters."],
+        ["The chart indicates that wait times may affect satisfaction.", "The chart proves that wait times always cause satisfaction.", "The chart is totally certain for every customer.", "The chart shows that no other detail matters."],
+        ["The report suggests that reminders may increase attendance.", "The report proves that reminders always force attendance.", "The report is totally certain for every event.", "The report shows that no other factor matters."],
+        ["The results indicate that location may influence student choice.", "The results prove that location always controls student choice.", "The results are totally certain for every student.", "The results show that no other factor matters."]
+      ];
+      const set = pick(examples, i);
+      return item(`Which sentence is careful and not too strong?`, set, set[0]);
+    }
   },
   {
     code: "v-discourse",
     category: "Vocabulary",
     subcategory: "Discourse function",
     difficulty: 5.6,
-    make: (i) => item(`Which sentence says one problem with a study?`, [
-      "One limitation of this study is that the sample was small.",
-      "This study is perfect because the sample was small.",
-      "The sample was small, so the topic is not worth discussing.",
-      "A small sample proves that the results are universal."
-    ], "One limitation of this study is that the sample was small.")
+    make: (i) => {
+      const examples = [
+        ["One limitation of this study is that the sample was small.", "This study is perfect because the sample was small.", "The sample was small, so the topic is not worth discussing.", "A small sample proves that the results are universal."],
+        ["One limitation of this survey is that most responses came from one school.", "This survey is perfect because most responses came from one school.", "One school answered, so the topic is not worth discussing.", "Responses from one school prove that the results are universal."],
+        ["One limitation of this report is that it uses data from only two months.", "This report is perfect because it uses data from only two months.", "Two months of data mean the topic is not worth discussing.", "Two months of data prove that the results are universal."],
+        ["One limitation of this experiment is that the groups were not the same size.", "This experiment is perfect because the groups were not the same size.", "Unequal groups mean the topic is not worth discussing.", "Unequal groups prove that the results are universal."],
+        ["One limitation of this analysis is that some answers were incomplete.", "This analysis is perfect because some answers were incomplete.", "Incomplete answers mean the topic is not worth discussing.", "Incomplete answers prove that the results are universal."],
+        ["One limitation of this study is that it did not include evening students.", "This study is perfect because it did not include evening students.", "Missing one group means the topic is not worth discussing.", "Missing one group proves that the results are universal."],
+        ["One limitation of this survey is that the questions were very general.", "This survey is perfect because the questions were very general.", "General questions mean the topic is not worth discussing.", "General questions prove that the results are universal."],
+        ["One limitation of this report is that it compares only two locations.", "This report is perfect because it compares only two locations.", "Two locations mean the topic is not worth discussing.", "Two locations prove that the results are universal."]
+      ];
+      const set = pick(examples, i);
+      return item(`Which sentence says one problem with a study?`, set, set[0]);
+    }
   }
 ];
 
@@ -625,7 +744,7 @@ function createQuestionBank() {
     blueprintCounts[blueprint.code] = localIndex + 1;
     const made = blueprint.make(localIndex);
     const mirror = TEST_MIRRORS[Math.floor(i / blueprints.length) % TEST_MIRRORS.length];
-    const prompt = contextualize(made.text, blueprint, i);
+    const prompt = contextualize(made.text, blueprint, i, made);
     bank.push({
       id: `${blueprint.code}-${i + 1}`,
       blueprint: blueprint.code,
@@ -645,17 +764,12 @@ function createQuestionBank() {
   return bank;
 }
 
-function item(text, options, answer, focusKey = "") {
-  return { text, options, answer, focusKey };
+function item(text, options, answer, focusKey = "", setup = "") {
+  return { text, options, answer, focusKey, setup };
 }
 
-function contextualize(text, blueprint, index) {
-  const name = pick(names, index, 7);
-  const setting = practiceSettings[Math.floor(index / names.length) % practiceSettings.length];
-  const material = practiceMaterials[Math.floor(index / (names.length * practiceSettings.length)) % practiceMaterials.length];
-  const purposes = practicePurposes[blueprint.category] || practicePurposes.Grammar;
-  const purpose = purposes[Math.floor(index / (names.length * practiceSettings.length * practiceMaterials.length)) % purposes.length];
-  const setup = `During ${setting}, ${name} reads one sentence from a ${material} for ${purpose}.`;
+function contextualize(text, blueprint, index, made) {
+  const setup = made.setup || helpfulSetup(text, blueprint, index);
   return {
     setup,
     task: text,
@@ -663,13 +777,48 @@ function contextualize(text, blueprint, index) {
   };
 }
 
+function helpfulSetup(text, blueprint) {
+  if (blueprint.code === "g-present-simple") return "The sentence is about a regular Monday action.";
+  if (blueprint.code === "g-past-simple") return "The sentence is about one action before lunch yesterday.";
+  if (blueprint.code === "g-first-conditional") return "The sentence describes what may happen after a schedule change.";
+  if (blueprint.code === "g-second-conditional") return "The sentence imagines a different situation.";
+
+  const setups = {
+    Articles: "The blank comes before a noun or noun phrase.",
+    Prepositions: "The blank comes before a time word.",
+    "Count and noncount nouns": "The blank comes before a noun phrase.",
+    "Subject-verb agreement": "Each option describes the same idea with different grammar.",
+    Modals: "A rule or notice is giving an instruction.",
+    Comparatives: "The sentence compares two things.",
+    "Clauses and connectors": "Choose the word that connects the two ideas clearly.",
+    "Passive voice": "The sentence describes what happened to a document yesterday.",
+    "Relative clauses": "The sentence gives more information about a person.",
+    "Reported speech": "A person is telling someone what the manager said earlier.",
+    "Reduced clauses": "Choose the shorter sentence that keeps the same meaning.",
+    "Advanced sentence structure": "Choose the formal sentence with correct word order.",
+    "Everyday vocabulary": "Choose the word with the same meaning.",
+    "Workplace vocabulary": "Use the office-message meaning of the word.",
+    "Word forms": "Choose the form of the word that fits the sentence.",
+    Collocations: "Choose the word that naturally goes with the phrase.",
+    "Phrasal verbs": "Choose the small word that completes the verb phrase.",
+    Transitions: "Choose the word that shows how the two ideas connect.",
+    "Meaning in context": "Use the sentence to choose the meaning of the quoted word.",
+    "Academic vocabulary": "Choose the school or work meaning of the word.",
+    Register: "Choose the sentence that fits formal writing.",
+    Nuance: "Choose the closest meaning.",
+    "Hedging and precision": "Choose the careful sentence that is not too strong.",
+    "Discourse function": "Choose the sentence that states a study problem clearly."
+  };
+
+  return setups[blueprint.subcategory] || "Use the sentence to choose the best answer.";
+}
+
 function validateBank(bank) {
   const textSet = new Set();
   const focusCounts = {};
   const issues = [];
   bank.forEach((question) => {
-    const key = normalizeQuestionText(question.text);
-    if (textSet.has(key)) issues.push(`Duplicate prompt: ${question.text}`);
+    const key = questionSignature(question);
     textSet.add(key);
     if (question.focusKey) focusCounts[question.focusKey] = (focusCounts[question.focusKey] || 0) + 1;
     if (!question.options.includes(question.answer)) issues.push(`Missing answer: ${question.id}`);
@@ -678,17 +827,22 @@ function validateBank(bank) {
     if (!question.category || !question.subcategory || !question.difficulty) issues.push(`Missing metadata: ${question.id}`);
     if (!question.setupText || !question.taskText) issues.push(`Missing display parts: ${question.id}`);
     if (!learnerSubcategoryLabels[question.subcategory]) issues.push(`Missing learner label: ${question.subcategory}`);
+    if (normalizeQuestionText(question.setupText).startsWith("during ")) issues.push(`Generic setup text: ${question.id}`);
     const setupProblem = forbiddenSetupTerms.find((term) => normalizeQuestionText(question.setupText).includes(term));
     if (setupProblem) issues.push(`Mixed setup context "${setupProblem}": ${question.id}`);
     const technicalTerm = forbiddenPromptTerms.find((term) => normalizeQuestionText(question.taskText).includes(term));
     if (technicalTerm) issues.push(`Technical prompt term "${technicalTerm}": ${question.id}`);
     if (question.options.includes("no article")) issues.push(`Use (nothing), not no article: ${question.id}`);
     if (hasKnownAnswerAmbiguity(question)) issues.push(`Possible multiple correct answers: ${question.id}`);
+    if (hasKnownAwkwardPhrase(question)) issues.push(`Awkward phrase: ${question.id}`);
   });
   const focusClumps = Object.entries(focusCounts).filter(([, count]) => count > 8);
   if (focusClumps.length) {
     const examples = focusClumps.slice(0, 5).map(([key, count]) => `${key} (${count})`).join(", ");
     issues.push(`Repeated focus terms: ${examples}`);
+  }
+  if (textSet.size < TOTAL_QUESTIONS) {
+    issues.push(`Too few unique question signatures: ${textSet.size}`);
   }
   if (issues.length) throw new Error(`Question bank failed QA: ${issues.slice(0, 5).join(" | ")}`);
 }
@@ -696,6 +850,23 @@ function validateBank(bank) {
 function hasKnownAnswerAmbiguity(question) {
   const task = normalizeQuestionText(question.taskText);
   return task.includes("due ___ the end of the week") && question.options.includes("at") && question.options.includes("by");
+}
+
+function hasKnownAwkwardPhrase(question) {
+  const text = normalizeQuestionText([question.taskText, question.options.join(" "), question.answer].join(" "));
+  const awkwardPhrases = [
+    "call the messages",
+    "called the messages",
+    "calls the messages",
+    "calling the messages",
+    "join the reports",
+    "joined the reports",
+    "joins the reports",
+    "open the appointments",
+    "opened the appointments",
+    "opens the appointments"
+  ];
+  return awkwardPhrases.some((phrase) => text.includes(phrase));
 }
 
 function createCandidateOrder() {
@@ -712,7 +883,7 @@ function chooseQuestion() {
   let bestScore = Number.POSITIVE_INFINITY;
 
   for (const question of state.candidateOrder) {
-    if (state.usedIds.has(question.id) || state.usedTexts.has(normalizeQuestionText(question.text))) continue;
+    if (state.usedIds.has(question.id) || state.usedTexts.has(questionSignature(question))) continue;
     const outsideRange = question.difficulty < floor || question.difficulty > ceiling;
     const distance = Math.abs(question.difficulty - target);
     const blueprintPenalty = recentBlueprints.has(question.blueprint) ? 1.2 : 0;
@@ -729,7 +900,7 @@ function chooseQuestion() {
 
   if (!best) throw new Error("No unused question is available.");
   state.usedIds.add(best.id);
-  state.usedTexts.add(normalizeQuestionText(best.text));
+  state.usedTexts.add(questionSignature(best));
   return best;
 }
 
@@ -820,7 +991,7 @@ function renderQuestion() {
   ].map((tag) => `<span class="tag">${tag}</span>`).join("");
   document.getElementById("questionText").innerHTML = `
     <span class="question-setup">
-      <span class="question-part-label">Situation</span>
+      <span class="question-part-label">Helpful information</span>
       ${escapeHtml(state.current.setupText)}
     </span>
     <span class="question-stem">
@@ -1309,6 +1480,10 @@ function formatPercent(count, total) {
 
 function normalizeQuestionText(text) {
   return text.toLowerCase().replace(/\s+/g, " ").trim();
+}
+
+function questionSignature(question) {
+  return normalizeQuestionText([question.taskText, question.options.join(" | ")].join(" "));
 }
 
 function escapeAttribute(value) {
