@@ -1,7 +1,9 @@
 const TOTAL_QUESTIONS = 120;
 const FIRST_ESTIMATE_AT = 5;
+const REPORT_THRESHOLD = 60;
 const BANK_SIZE = 1500;
 const TEST_MIRRORS = ["TOEFL", "IELTS", "TOEIC", "CEFR"];
+const REPORT_RECIPIENT = ["cGhpbHN0aWx3ZWxs", "eWFob28", "Y29t"];
 
 const learnerSubcategoryLabels = {
   "Verb tense": "Verbs",
@@ -69,6 +71,7 @@ const languageGuides = {
     steps: [
       "Choose one answer and click Check answer.",
       "You see a first level after 5 answers.",
+      "After 60 answers, you can send your results. Sending ends the quiz.",
       "Continue up to 120 questions for a clearer result."
     ]
   },
@@ -79,6 +82,7 @@ const languageGuides = {
     steps: [
       "答えを1つ選び、「Check answer」を押します。",
       "5問答えると、最初のレベルが表示されます。",
+      "60問答えると、結果を送信できます。送信するとクイズは終了します。",
       "120問まで続けると、結果がよりはっきりします。"
     ]
   },
@@ -89,6 +93,7 @@ const languageGuides = {
     steps: [
       "选择一个答案，然后点击 Check answer。",
       "回答 5 题后，你会看到第一次水平估计。",
+      "回答 60 题后，你可以发送结果。发送后，测验会结束。",
       "继续完成最多 120 题，结果会更清楚。"
     ]
   },
@@ -99,6 +104,7 @@ const languageGuides = {
     steps: [
       "Elige una respuesta y pulsa Check answer.",
       "Ves un primer nivel después de 5 respuestas.",
+      "Después de 60 respuestas, puedes enviar tus resultados. Al enviarlos, el cuestionario termina.",
       "Continúa hasta 120 preguntas para obtener un resultado más claro."
     ]
   },
@@ -109,6 +115,7 @@ const languageGuides = {
     steps: [
       "ఒక సమాధానం ఎంచుకొని Check answer నొక్కండి.",
       "5 సమాధానాల తర్వాత మొదటి స్థాయి కనిపిస్తుంది.",
+      "60 సమాధానాల తర్వాత మీ ఫలితాలను పంపవచ్చు. పంపిన తర్వాత క్విజ్ ముగుస్తుంది.",
       "మరింత స్పష్టమైన ఫలితం కోసం 120 ప్రశ్నల వరకు కొనసాగండి."
     ]
   },
@@ -119,6 +126,7 @@ const languageGuides = {
     steps: [
       "Escolha uma resposta e clique em Check answer.",
       "Você vê um primeiro nível depois de 5 respostas.",
+      "Depois de 60 respostas, você pode enviar seus resultados. Ao enviar, o quiz termina.",
       "Continue até 120 perguntas para um resultado mais claro."
     ]
   },
@@ -129,6 +137,7 @@ const languageGuides = {
     steps: [
       "Wybierz jedną odpowiedź i kliknij Check answer.",
       "Pierwszy poziom zobaczysz po 5 odpowiedziach.",
+      "Po 60 odpowiedziach możesz wysłać wyniki. Po wysłaniu quiz się kończy.",
       "Kontynuuj do 120 pytań, aby wynik był dokładniejszy."
     ]
   },
@@ -139,6 +148,7 @@ const languageGuides = {
     steps: [
       "답 하나를 고르고 Check answer를 누르세요.",
       "5문제에 답하면 첫 수준이 보입니다.",
+      "60문제에 답하면 결과를 보낼 수 있습니다. 보내면 퀴즈가 끝납니다.",
       "더 정확한 결과를 위해 120문제까지 계속하세요."
     ]
   },
@@ -149,6 +159,7 @@ const languageGuides = {
     steps: [
       "Choisissez une réponse et cliquez sur Check answer.",
       "Vous voyez un premier niveau après 5 réponses.",
+      "Après 60 réponses, vous pouvez envoyer vos résultats. L’envoi termine le quiz.",
       "Continuez jusqu’à 120 questions pour un résultat plus clair."
     ]
   }
@@ -600,7 +611,9 @@ const state = {
   candidateOrder: [],
   usedIds: new Set(),
   usedTexts: new Set(),
-  mirrorStats: {}
+  mirrorStats: {},
+  reportSent: false,
+  reportSending: false
 };
 
 function createQuestionBank() {
@@ -840,6 +853,8 @@ function renderQuestion() {
 }
 
 function submitAnswer() {
+  if (state.reportSent) return;
+
   if (!state.selected && !state.answered) {
     document.getElementById("feedback").textContent = "Choose one answer.";
     return;
@@ -907,6 +922,7 @@ function updateResults() {
   document.getElementById("cefrScore").textContent = estimated ? cefrEstimate() : `${correctCount}/${state.responses.length || 0}`;
   document.getElementById("precisionText").textContent = precisionLabel();
   renderWeaknesses();
+  renderReportPanel();
 }
 
 function precisionLabel() {
@@ -980,6 +996,173 @@ function renderWeaknesses() {
   renderChips("vocabularyWeaknesses", groups.Vocabulary, "No vocabulary problem yet");
 }
 
+function renderReportPanel() {
+  const panel = document.getElementById("reportPanel");
+  const form = document.getElementById("reportForm");
+  const status = document.getElementById("reportStatus");
+  const button = document.getElementById("sendReport");
+  const intro = document.getElementById("reportIntro");
+  if (!panel || !form || !status || !button || !intro) return;
+
+  const answered = state.responses.length;
+  const canReport = answered >= REPORT_THRESHOLD;
+  panel.classList.toggle("is-hidden", !canReport && !state.reportSent);
+  if (!canReport && !state.reportSent) return;
+
+  intro.textContent = `${answered}/${TOTAL_QUESTIONS} answers are complete. The report includes scores, question history, and grammar and vocabulary areas to practice.`;
+  form.classList.toggle("is-hidden", state.reportSent);
+  button.disabled = state.reportSending || state.reportSent;
+  button.textContent = state.reportSending ? "Sending..." : "Send report and end quiz";
+
+  if (state.reportSent) {
+    status.textContent = "Report sent. This quiz has ended.";
+    status.className = "report-status good";
+  } else if (!status.textContent) {
+    status.textContent = "The email address is hidden on this page.";
+    status.className = "report-status";
+  }
+}
+
+async function submitReport(event) {
+  event.preventDefault();
+  if (state.reportSent || state.reportSending) return;
+
+  const status = document.getElementById("reportStatus");
+  const studentName = document.getElementById("studentName").value.trim();
+  const teacherName = document.getElementById("teacherName").value.trim();
+
+  if (state.responses.length < REPORT_THRESHOLD) {
+    status.textContent = `You can send a report after ${REPORT_THRESHOLD} answers.`;
+    status.className = "report-status needs-work";
+    return;
+  }
+
+  if (!studentName || !teacherName) {
+    status.textContent = "Please enter the student name and teacher name.";
+    status.className = "report-status needs-work";
+    return;
+  }
+
+  state.reportSending = true;
+  status.textContent = "Sending report...";
+  status.className = "report-status";
+  renderReportPanel();
+
+  try {
+    const report = buildReport(studentName, teacherName);
+    const formData = new FormData();
+    Object.entries({
+      _subject: `EnglishRoad report: ${studentName}`,
+      _template: "table",
+      _captcha: "false",
+      student_name: studentName,
+      teacher_name: teacherName,
+      questions_answered: String(report.summary.questionsAnswered),
+      total_correct: String(report.summary.correct),
+      accuracy: report.summary.accuracy,
+      cefr: report.scores.CEFR,
+      toefl_ibt: report.scores.TOEFL,
+      ielts: report.scores.IELTS,
+      toeic_lr: report.scores.TOEIC,
+      grammar_weaknesses: formatCounts(report.weaknesses.Grammar),
+      vocabulary_weaknesses: formatCounts(report.weaknesses.Vocabulary),
+      mirror_stats: JSON.stringify(report.mirrorStats, null, 2),
+      full_report_json: JSON.stringify(report, null, 2)
+    }).forEach(([key, value]) => formData.append(key, value));
+
+    const response = await fetch(reportEndpoint(), {
+      method: "POST",
+      headers: { Accept: "application/json" },
+      body: formData
+    });
+
+    if (!response.ok) throw new Error("Report service did not accept the report.");
+    state.reportSent = true;
+    endQuizAfterReport();
+    renderReportPanel();
+  } catch (error) {
+    status.textContent = "The report could not be sent. Please try again.";
+    status.className = "report-status needs-work";
+  } finally {
+    state.reportSending = false;
+    renderReportPanel();
+  }
+}
+
+function buildReport(studentName, teacherName) {
+  const correct = state.responses.filter((response) => response.correct).length;
+  const answered = state.responses.length;
+  return {
+    studentName,
+    teacherName,
+    sentAt: new Date().toISOString(),
+    summary: {
+      questionsAnswered: answered,
+      totalQuestions: TOTAL_QUESTIONS,
+      correct,
+      incorrect: answered - correct,
+      accuracy: formatPercent(correct, answered),
+      ability: Number(state.ability.toFixed(2)),
+      reportThreshold: REPORT_THRESHOLD
+    },
+    scores: {
+      TOEFL: toeflEstimate(),
+      IELTS: ieltsEstimate(),
+      TOEIC: toeicEstimate(),
+      CEFR: cefrEstimate()
+    },
+    mirrorStats: mirrorReport(),
+    weaknesses: weaknessReport(),
+    responses: state.responses.map((response, index) => ({
+      number: index + 1,
+      id: response.id,
+      source: response.source,
+      category: response.category,
+      subcategory: response.subcategory,
+      displaySubcategory: learnerSubcategory(response.subcategory),
+      difficulty: Number(response.difficulty.toFixed(1)),
+      correct: response.correct,
+      selected: response.selected,
+      answer: response.answer,
+      setup: response.setupText,
+      item: response.taskText
+    }))
+  };
+}
+
+function mirrorReport() {
+  return TEST_MIRRORS.reduce((report, mirror) => {
+    const stats = state.mirrorStats[mirror] || { answered: 0, correct: 0 };
+    report[mirror] = {
+      answered: stats.answered,
+      correct: stats.correct,
+      accuracy: formatPercent(stats.correct, stats.answered)
+    };
+    return report;
+  }, {});
+}
+
+function weaknessReport() {
+  const misses = state.responses.filter((response) => !response.correct);
+  return {
+    Grammar: countBySubcategory(misses.filter((response) => response.category === "Grammar")),
+    Vocabulary: countBySubcategory(misses.filter((response) => response.category === "Vocabulary"))
+  };
+}
+
+function endQuizAfterReport() {
+  state.answered = true;
+  document.querySelectorAll("input[name='answer']").forEach((input) => {
+    input.disabled = true;
+  });
+  const button = document.getElementById("submitAnswer");
+  button.textContent = "Quiz ended";
+  button.disabled = true;
+  const feedback = document.getElementById("feedback");
+  feedback.textContent = "Report sent. The quiz has ended.";
+  feedback.className = "feedback good";
+}
+
 function restart() {
   state.questionIndex = 0;
   state.ability = 1.45;
@@ -988,8 +1171,21 @@ function restart() {
   state.usedIds = new Set();
   state.usedTexts = new Set();
   state.mirrorStats = {};
+  state.reportSent = false;
+  state.reportSending = false;
+  document.getElementById("reportForm").reset();
+  document.getElementById("reportStatus").textContent = "";
+  document.getElementById("reportStatus").className = "report-status";
   updateResults();
   renderQuestion();
+}
+
+function reportEndpoint() {
+  return `https://formsubmit.co/ajax/${decodeReportPart(REPORT_RECIPIENT[0])}@${decodeReportPart(REPORT_RECIPIENT[1])}.${decodeReportPart(REPORT_RECIPIENT[2])}`;
+}
+
+function decodeReportPart(part) {
+  return window.atob(part);
 }
 
 function pick(values, index, offset = 0) {
@@ -1102,6 +1298,15 @@ function sumCounts(values) {
   return Object.values(values).reduce((sum, count) => sum + count, 0);
 }
 
+function formatCounts(values) {
+  const entries = Object.entries(values).sort((a, b) => b[1] - a[1]);
+  return entries.length ? entries.map(([label, count]) => `${label}: ${count}`).join("; ") : "None";
+}
+
+function formatPercent(count, total) {
+  return total ? `${Math.round((count / total) * 100)}%` : "0%";
+}
+
 function normalizeQuestionText(text) {
   return text.toLowerCase().replace(/\s+/g, " ").trim();
 }
@@ -1136,6 +1341,7 @@ function clamp(value, min, max) {
 
 document.getElementById("submitAnswer").addEventListener("click", submitAnswer);
 document.getElementById("restart").addEventListener("click", restart);
+document.getElementById("reportForm").addEventListener("submit", submitReport);
 document.getElementById("instructionsToggle").addEventListener("click", toggleInstructions);
 document.getElementById("languageSelect").addEventListener("change", (event) => {
   renderLanguageInfo(event.target.value);

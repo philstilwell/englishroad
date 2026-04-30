@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="favicon.svg?v=warm-v1" type="image/svg+xml">
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
@@ -37,6 +37,7 @@
               <ol class="simple-steps">
                 <li>Choose one answer.</li>
                 <li>See your first level after 5 answers.</li>
+                <li>After 60 answers, you can send your results. Sending ends the quiz.</li>
                 <li>Keep going to 120 questions for a better result.</li>
               </ol>
             </div>
@@ -87,6 +88,27 @@
               <button id="restart" class="ghost-action" type="button">Start again</button>
             </div>
             <p id="feedback" class="feedback" role="status"></p>
+
+            <section id="reportPanel" class="report-panel is-hidden" aria-labelledby="reportTitle">
+              <div class="report-copy">
+                <p class="label">Send results</p>
+                <h3 id="reportTitle">Send your report and end the quiz</h3>
+                <p id="reportIntro">This option appears after 60 answers. It sends your scores and practice areas to EnglishRoad.</p>
+                <p class="report-warning">Warning: after you send the report, this quiz will end.</p>
+              </div>
+              <form id="reportForm" class="report-form">
+                <label>
+                  <span>Student name</span>
+                  <input id="studentName" name="studentName" type="text" autocomplete="name" required>
+                </label>
+                <label>
+                  <span>Teacher name</span>
+                  <input id="teacherName" name="teacherName" type="text" autocomplete="organization-title" required>
+                </label>
+                <button id="sendReport" class="report-action" type="submit">Send report and end quiz</button>
+              </form>
+              <p id="reportStatus" class="report-status" role="status"></p>
+            </section>
           </article>
 
           <aside class="panel results-panel" aria-labelledby="result-title">
@@ -141,6 +163,6 @@
         </section>
       </section>
     </main>
-    <script src="app.js?v=warm-varied-v1"></script>
+    <script src="app.js?v=report-after-60-v1"></script>
   </body>
 </html>
