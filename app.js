@@ -220,20 +220,20 @@ const vocabularySets = {
     ["The policy will affect evening classes.", "affect", "change or influence", "protect from weather", "arrive before", "write by hand"]
   ],
   collocations: [
-    ["make", "a decision", "do", "take", "build"],
+    ["make", "a decision", "open", "send", "carry"],
     ["meet", "a deadline", "arrive", "touch", "hold"],
-    ["give", "a presentation", "make", "take", "write"],
-    ["reach", "an agreement", "arrive", "make", "hold"],
+    ["give", "a presentation", "open", "carry", "touch"],
+    ["reach", "an agreement", "arrive", "touch", "hold"],
     ["raise", "a concern", "lift", "grow", "do"],
-    ["take", "responsibility", "make", "give", "hold"],
-    ["submit", "an application", "give", "make", "hold"],
+    ["take", "responsibility", "open", "send", "meet"],
+    ["submit", "an application", "open", "carry", "touch"],
     ["solve", "a problem", "answer", "make", "hold"],
     ["follow", "instructions", "make", "do", "hold"],
     ["send", "a message", "make", "take", "hold"],
     ["book", "an appointment", "do", "hold", "reach"],
-    ["set", "a goal", "do", "take", "hold"],
+    ["set", "a goal", "open", "send", "carry"],
     ["share", "information", "make", "do", "hold"],
-    ["prepare", "a report", "make", "answer", "hold"]
+    ["prepare", "a report", "answer", "touch", "hold"]
   ],
   register: [
     ["The results indicate a moderate increase.", "The numbers kind of went up.", "Stuff got better, basically.", "It went up a bit, you know."],
@@ -344,7 +344,7 @@ const blueprints = [
     subcategory: "Subject-verb agreement",
     difficulty: 2.6,
     make: (i) => {
-      const noun = pick(["team", "department", "committee", "class"], i);
+      const noun = pick(["report", "schedule", "application", "lesson"], i);
       const prompt = pick([
         "Choose the correct sentence.",
         "Which sentence is correct?",
@@ -354,11 +354,11 @@ const blueprints = [
         "Which sentence is right?"
       ], i);
       return item(prompt, [
-        `The ${noun} is ready for the presentation.`,
-        `The ${noun} are ready for the presentation.`,
-        `The ${noun} have ready for the presentation.`,
-        `The ${noun} were prepares for the presentation.`
-      ], `The ${noun} is ready for the presentation.`);
+        `The ${noun} is ready for review.`,
+        `The ${noun} are ready for review.`,
+        `The ${noun} have ready for review.`,
+        `The ${noun} were prepares for review.`
+      ], `The ${noun} is ready for review.`);
     }
   },
   {
@@ -412,14 +412,14 @@ const blueprints = [
     difficulty: 3.2,
     make: (i) => {
       const examples = [
-        ["___ the training room was small, everyone could see the screen clearly.", "Although"],
+        ["___ the training room was noisy, everyone could hear the speaker clearly.", "Although"],
         ["___ the rain was heavy, the bus arrived on time.", "Although"],
         ["___ the form looked simple, several students made mistakes.", "Although"],
         ["___ the speaker talked quickly, the main idea was clear.", "Although"],
         ["___ the office was busy, the clerk answered every question.", "Although"],
-        ["___ the book was short, it gave useful examples.", "Although"],
+        ["___ the book was short, it gave many useful examples.", "Although"],
         ["___ the lesson was difficult, the class finished the activity.", "Although"],
-        ["___ the schedule changed, most people arrived early.", "Although"]
+        ["___ the schedule changed, most people arrived on time.", "Although"]
       ];
       const ex = pick(examples, i);
       return item(`Choose the best word to join the ideas: ${ex[0]}`, [ex[1], "Because", "Therefore", "Unless"], ex[1]);
@@ -511,14 +511,14 @@ const blueprints = [
     difficulty: 5.3,
     make: (i) => {
       const examples = [
-        ["Choose the clearest short sentence.", "The data collected during the trial support the original hypothesis.", "The data which it was collected during the trial support the original hypothesis.", "The data collecting during the trial support the original hypothesis.", "The data were collected during the trial supporting the original hypothesis."],
-        ["Choose the clearest short sentence.", "The forms submitted after Friday require special approval.", "The forms which they submitted after Friday require special approval.", "The forms submitting after Friday require special approval.", "The forms were submitted after Friday requiring special approval."],
-        ["Choose the clearest short sentence.", "The notes written during the meeting explain the decision.", "The notes which they were written during the meeting explain the decision.", "The notes writing during the meeting explain the decision.", "The notes were written during the meeting explaining the decision."],
-        ["Choose the clearest short sentence.", "The emails sent before noon reached every participant.", "The emails which they were sent before noon reached every participant.", "The emails sending before noon reached every participant.", "The emails were sent before noon reaching every participant."],
-        ["Choose the clearest short sentence.", "The survey completed by the students shows clear progress.", "The survey which it completed by the students shows clear progress.", "The survey completing by the students shows clear progress.", "The survey was completed by the students showing clear progress."],
-        ["Choose the clearest short sentence.", "The schedule posted near the door lists all room changes.", "The schedule which it was posted near the door lists all room changes.", "The schedule posting near the door lists all room changes.", "The schedule was posted near the door listing all room changes."],
-        ["Choose the clearest short sentence.", "The chart prepared for the lesson compares two answers.", "The chart which it was prepared for the lesson compares two answers.", "The chart preparing for the lesson compares two answers.", "The chart was prepared for the lesson comparing two answers."],
-        ["Choose the clearest short sentence.", "The rules printed on the card apply to all visitors.", "The rules which they printed on the card apply to all visitors.", "The rules printing on the card apply to all visitors.", "The rules were printed on the card applying to all visitors."]
+        ["Choose the clearest short sentence.", "The data collected during the trial support the original hypothesis.", "The data which it was collected during the trial support the original hypothesis.", "The data collecting during the trial support the original hypothesis.", "The data collected during the trial supporting the original hypothesis."],
+        ["Choose the clearest short sentence.", "The forms submitted after Friday require special approval.", "The forms which they were submitted after Friday require special approval.", "The forms submitting after Friday require special approval.", "The forms submitted after Friday requiring special approval."],
+        ["Choose the clearest short sentence.", "The notes written during the meeting explain the decision.", "The notes which they were written during the meeting explain the decision.", "The notes writing during the meeting explain the decision.", "The notes written during the meeting explaining the decision."],
+        ["Choose the clearest short sentence.", "The emails sent before noon reached every participant.", "The emails which they were sent before noon reached every participant.", "The emails sending before noon reached every participant.", "The emails sent before noon reaching every participant."],
+        ["Choose the clearest short sentence.", "The survey completed by the students shows clear progress.", "The survey which it completed by the students shows clear progress.", "The survey completing by the students shows clear progress.", "The survey completed by the students showing clear progress."],
+        ["Choose the clearest short sentence.", "The schedule posted near the door lists all room changes.", "The schedule which it was posted near the door lists all room changes.", "The schedule posting near the door lists all room changes.", "The schedule posted near the door listing all room changes."],
+        ["Choose the clearest short sentence.", "The chart prepared for the lesson compares two answers.", "The chart which it was prepared for the lesson compares two answers.", "The chart preparing for the lesson compares two answers.", "The chart prepared for the lesson comparing two answers."],
+        ["Choose the clearest short sentence.", "The rules printed on the card apply to all visitors.", "The rules which they were printed on the card apply to all visitors.", "The rules printing on the card apply to all visitors.", "The rules printed on the card applying to all visitors."]
       ];
       const ex = pick(examples, i);
       return item(ex[0], ex.slice(1), ex[1]);
@@ -833,10 +833,10 @@ const supplementalQuestionSets = {
   workplace: [
     ["We would like ___ a 10% discount.", ["to request", "for request", "to be requesting", "your request"], "to request"],
     ["Can you ___ if we buy 100 units?", ["give us a discount", "be given one", "give us", "have given this"], "give us a discount"],
-    ["Please ___ the contract in the bottom-right corner.", ["sign", "add", "put", "write on"], "sign"],
+    ["Please ___ the contract before Friday.", ["sign", "pay", "spend", "cost"], "sign"],
     ["The company currently ___ a strong data privacy policy.", ["does not have", "did not have", "has no", "is not having"], "does not have"],
     ["We need to keep our data ___.", ["confidential", "careful", "hiding", "secretly"], "confidential"],
-    ["The manager ___ the old copy machine.", ["is discussing replacing", "is discussing to replace", "has discussion for replacing", "will discuss replacement of"], "is discussing replacing"],
+    ["The manager ___ the old copy machine right now.", ["is discussing replacing", "is discussing to replace", "has discussion for replacing", "will discussing replacing"], "is discussing replacing"],
     ["I ___ a credit card last year, but I was rejected.", ["applied for", "applicant on", "applied to", "applying to"], "applied for"],
     ["The CEO ___ the project because it looked promising.", ["signed off on", "signed over", "signed up on", "signed it over"], "signed off on"],
     ["We are ___ with another company.", ["in negotiations", "having negotiating", "negotiate", "on negotiation"], "in negotiations"],
@@ -864,7 +864,7 @@ const supplementalQuestionSets = {
   ],
   linksAndClauses: [
     ["I like cycling. ___, cycling carries a risk of injury.", ["However", "Because", "In fact", "Therefore"], "However"],
-    ["The boy spent all his money on candy. ___, his mother was angry.", ["Therefore", "After", "Then", "This reason"], "Therefore"],
+    ["The boy spent all his money on candy. ___, his mother was angry.", ["Therefore", "After", "For example", "This reason"], "Therefore"],
     ["I asked him to close the window ___ I was cold.", ["because", "due to", "since to", "so"], "because"],
     ["___ my friend is short, he is athletic.", ["Even though", "Even", "Even after", "Even if"], "Even though"],
     ["I may move to Argentina ___ I know little about the country.", ["even though", "even", "even although", "even if"], "even though"],
@@ -880,7 +880,7 @@ const supplementalQuestionSets = {
   ],
   correctSentences: [
     { text: "Which sentence is correct?", options: ["It is almost 2 p.m. now.", "It has almost 2 p.m. now.", "It close to 2 p.m. now.", "2 p.m. is almost now."], answer: "It is almost 2 p.m. now.", subcategory: "Advanced sentence structure" },
-    { text: "Choose the correct sentence.", options: ["Because I was tired, I went to bed.", "I was tired. Because I went to bed.", "I went to bed. Because I was tired.", "I was tired because I went to bed."], answer: "Because I was tired, I went to bed.", subcategory: "Clauses and connectors" },
+    { text: "Choose the correct sentence.", options: ["Because I was tired, I went to bed.", "I was tired. Because I went to bed.", "I went to bed. Because I was tired.", "Because I tired, I went to bed."], answer: "Because I was tired, I went to bed.", subcategory: "Clauses and connectors" },
     { text: "Which sentence is correct?", options: ["Could you tell me what the homework is?", "Could you tell to me the homework?", "Would you say me the homework?", "Would you say to me the homework?"], answer: "Could you tell me what the homework is?", subcategory: "Advanced sentence structure" },
     { text: "Choose the best sentence.", options: ["Were you born the same year as I was?", "Are you born the same year with me?", "Do you and I have the same year of born?", "Are we born the same year?"], answer: "Were you born the same year as I was?", subcategory: "Advanced sentence structure" },
     { text: "Which sentence is correct?", options: ["There are five participants.", "There is five participants.", "There be five participants.", "There will has five participants."], answer: "There are five participants.", subcategory: "Subject-verb agreement" },
@@ -915,6 +915,20 @@ const supplementalBlueprints = [
   }
 }));
 
+const supplementalDifficultyRanges = {
+  "s-comparisons": [1.45, 3.85],
+  "s-feelings": [1.1, 3.35],
+  "s-verb-forms": [1.35, 4.45],
+  "s-prepositions": [1.3, 3.9],
+  "s-nouns": [1.25, 3.8],
+  "s-infinitives": [1.75, 4.25],
+  "s-word-forms": [1.35, 4.05],
+  "s-workplace": [1.8, 4.4],
+  "s-phrases": [1.75, 4.15],
+  "s-links": [2.05, 4.5],
+  "s-correct-sentence": [1.35, 3.95]
+};
+
 const state = {
   bank: [],
   current: null,
@@ -944,7 +958,7 @@ function createQuestionBank() {
     const blueprint = supplementalBlueprints[i % supplementalBlueprints.length];
     const localIndex = supplementalCounts[blueprint.code] || 0;
     supplementalCounts[blueprint.code] = localIndex + 1;
-    bank.push(buildQuestion(blueprint, localIndex, globalIndex, supplementalDifficulty(blueprint, i)));
+    bank.push(buildQuestion(blueprint, localIndex, globalIndex, supplementalDifficulty(blueprint, localIndex)));
   }
   validateBank(bank);
   return bank;
@@ -970,10 +984,14 @@ function buildQuestion(blueprint, localIndex, globalIndex, difficulty) {
   };
 }
 
-function supplementalDifficulty(blueprint, supplementalIndex) {
-  const progress = supplementalIndex / Math.max(1, SUPPLEMENTAL_BANK_SIZE - 1);
-  const roughToiecProgression = 1.25 + progress * 3.45;
-  return jitterDifficulty(clamp(roughToiecProgression + (blueprint.difficultyOffset || 0), 1.15, 4.9), CORE_BANK_SIZE + supplementalIndex);
+function supplementalDifficulty(blueprint, localIndex) {
+  const [low, high] = supplementalDifficultyRanges[blueprint.code] || [1.4, 4.2];
+  const setCount = Math.max(1, blueprint.sets.length);
+  const setIndex = localIndex % setCount;
+  const progress = setCount === 1 ? 0 : setIndex / (setCount - 1);
+  const itemLevel = low + (high - low) * progress;
+  const stableJitter = ((setIndex % 5) - 2) * 0.035;
+  return clamp(itemLevel + stableJitter, 1, 6);
 }
 
 function item(text, options, answer, focusKey = "", setup = "", metadata = {}) {
@@ -1167,14 +1185,18 @@ function isMeaningTask(text) {
 
 function validateBank(bank) {
   const textSet = new Set();
+  const difficultyByText = {};
   const focusCounts = {};
   const issues = [];
   bank.forEach((question) => {
     const key = questionSignature(question);
     textSet.add(key);
+    if (!difficultyByText[key]) difficultyByText[key] = [];
+    difficultyByText[key].push(question.difficulty);
     if (question.focusKey) focusCounts[question.focusKey] = (focusCounts[question.focusKey] || 0) + 1;
     if (!question.options.includes(question.answer)) issues.push(`Missing answer: ${question.id}`);
     if (new Set(question.options).size !== question.options.length) issues.push(`Duplicate option: ${question.id}`);
+    if (new Set(question.options.map(normalizeQuestionText)).size !== question.options.length) issues.push(`Duplicate normalized option: ${question.id}`);
     if (question.options.length !== 4) issues.push(`Wrong option count: ${question.id}`);
     if (!question.category || !question.subcategory || !question.difficulty) issues.push(`Missing metadata: ${question.id}`);
     if (!question.setupText || !question.taskText) issues.push(`Missing display parts: ${question.id}`);
@@ -1195,6 +1217,10 @@ function validateBank(bank) {
     const examples = focusClumps.slice(0, 5).map(([key, count]) => `${key} (${count})`).join(", ");
     issues.push(`Repeated focus terms: ${examples}`);
   }
+  const levelDrift = Object.entries(difficultyByText).filter(([, levels]) => Math.max(...levels) - Math.min(...levels) > 0.35);
+  if (levelDrift.length) {
+    issues.push(`Repeated item has inconsistent levels: ${levelDrift.length}`);
+  }
   if (textSet.size < TOTAL_QUESTIONS) {
     issues.push(`Too few unique question signatures: ${textSet.size}`);
   }
@@ -1203,6 +1229,16 @@ function validateBank(bank) {
 
 function hasKnownAnswerAmbiguity(question) {
   const task = normalizeQuestionText(question.taskText);
+  const options = question.options.map(normalizeQuestionText);
+  if (task.includes("because i was tired") && options.includes("i was tired because i went to bed.")) return true;
+  if (task.includes("___ a decision") && options.includes("take")) return true;
+  if (task.includes("___ a presentation") && options.includes("make")) return true;
+  if (task.includes("___ an agreement") && options.includes("make")) return true;
+  if (task.includes("___ an application") && options.includes("make")) return true;
+  if (task.includes("___ a report") && options.includes("make")) return true;
+  if (task.includes("his mother was angry") && options.includes("then")) return true;
+  if (task.includes("the old copy machine") && options.includes("will discuss replacement of")) return true;
+  if (task.includes("please ___ the contract") && (options.includes("write on") || options.includes("put") || options.includes("add"))) return true;
   return task.includes("due ___ the end of the week") && question.options.includes("at") && question.options.includes("by");
 }
 
@@ -1427,7 +1463,7 @@ function submitAnswer() {
   });
 
   const feedback = document.getElementById("feedback");
-  feedback.textContent = correct ? "Good answer." : `Not correct. Answer: ${state.current.answer}`;
+  feedback.textContent = correct ? "Correct." : `Not correct. Correct answer: ${state.current.answer}`;
   feedback.className = `feedback ${correct ? "good" : "needs-work"}`;
 
   updateResults();
@@ -1660,7 +1696,8 @@ function normalizeQuestionText(text) {
 }
 
 function questionSignature(question) {
-  return normalizeQuestionText([question.taskText, question.options.join(" | ")].join(" "));
+  const optionKey = question.options.map(normalizeQuestionText).sort().join(" | ");
+  return normalizeQuestionText(question.taskText) + " || " + optionKey;
 }
 
 function escapeAttribute(value) {
