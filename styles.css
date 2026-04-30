@@ -468,6 +468,11 @@ h1 {
   color: var(--ink);
 }
 
+.ghost-action:disabled {
+  cursor: default;
+  opacity: 0.58;
+}
+
 .feedback {
   min-height: 27px;
   margin: 18px 0 0;
@@ -638,6 +643,37 @@ h1 {
 
 .final-report[hidden] {
   display: none;
+}
+
+.final-report.is-pending {
+  background: rgba(255, 255, 255, 0.64);
+  border-color: rgba(101, 105, 72, 0.32);
+  border-style: dashed;
+  box-shadow: none;
+}
+
+.final-report.is-pending .final-report-header,
+.final-report.is-pending .final-score-grid,
+.final-report.is-pending .final-area-grid {
+  opacity: 0.58;
+  filter: grayscale(0.45);
+}
+
+.final-report.is-pending .final-confidence {
+  border: 1px dashed rgba(101, 105, 72, 0.32);
+  border-radius: 8px;
+  background: rgba(238, 233, 209, 0.58);
+  padding: 10px 12px;
+  color: var(--muted);
+}
+
+.final-report.is-pending .copy-report-action {
+  cursor: not-allowed;
+  opacity: 0.55;
+}
+
+.final-report.is-pending .copy-status {
+  color: var(--muted);
 }
 
 .final-report-header {

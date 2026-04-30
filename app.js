@@ -1121,12 +1121,20 @@ function renderFinalReport() {
   const report = document.getElementById("finalReport");
   if (!report) return;
   const finished = state.responses.length >= TOTAL_QUESTIONS;
-  report.hidden = !finished;
-  if (!finished) return;
+  report.hidden = false;
+  report.classList.toggle("is-pending", !finished);
+  if (!finished) {
+    renderPendingFinalReport();
+    return;
+  }
   if (!state.completedAt) state.completedAt = new Date().toISOString();
 
   const correctCount = state.responses.filter((response) => response.correct).length;
   const confidence = confidenceMetrics();
+  const copyButton = document.getElementById("copyReport");
+  const copyStatus = document.getElementById("copyReportStatus");
+  if (copyButton) copyButton.disabled = false;
+  if (copyStatus) copyStatus.textContent = "";
   document.getElementById("finalReportDate").textContent = `Completed: ${formatReportDate(new Date(state.completedAt))}`;
   document.getElementById("finalCorrect").textContent = `${correctCount}/${TOTAL_QUESTIONS}`;
   document.getElementById("finalConfidenceScore").textContent = `${confidence.score}%`;
@@ -1140,8 +1148,31 @@ function renderFinalReport() {
   renderReportChips("finalWeakAreas", weakestAreas(), "No clear weak area");
 }
 
+function renderPendingFinalReport() {
+  const answered = state.responses.length;
+  const copyButton = document.getElementById("copyReport");
+  const copyStatus = document.getElementById("copyReportStatus");
+  document.getElementById("finalReportDate").textContent = "Completed: —";
+  document.getElementById("finalCorrect").textContent = `0/${TOTAL_QUESTIONS}`;
+  document.getElementById("finalConfidenceScore").textContent = "—";
+  document.getElementById("finalConfidenceText").textContent = `This report is inactive for now. It will be populated with real data after ${TOTAL_QUESTIONS} items have been answered. You have answered ${answered}/${TOTAL_QUESTIONS}.`;
+  document.getElementById("finalLevelRange").textContent = "—";
+  document.getElementById("finalCefr").textContent = "—";
+  document.getElementById("finalToefl").textContent = "—";
+  document.getElementById("finalIelts").textContent = "—";
+  document.getElementById("finalToeic").textContent = "—";
+  renderReportChips("finalStrongAreas", [], "—");
+  renderReportChips("finalWeakAreas", [], "—");
+  if (copyButton) copyButton.disabled = true;
+  if (copyStatus) copyStatus.textContent = `Available after ${TOTAL_QUESTIONS} answers.`;
+}
+
 function copyFinalReport() {
   const status = document.getElementById("copyReportStatus");
+  if (state.responses.length < TOTAL_QUESTIONS) {
+    if (status) status.textContent = `Available after ${TOTAL_QUESTIONS} answers.`;
+    return;
+  }
   copyText(buildReportText())
     .then(() => {
       if (status) status.textContent = "Report copied.";

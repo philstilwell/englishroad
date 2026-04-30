@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="icon" href="favicon.svg?v=olive-v2" type="image/svg+xml">
-    <link rel="stylesheet" href="styles.css?v=confidence-qa-v1">
+    <link rel="stylesheet" href="styles.css?v=pending-report-v1">
   </head>
   <body>
     <main class="shell">
@@ -150,52 +150,52 @@
           </aside>
         </section>
 
-        <section id="finalReport" class="panel final-report" aria-labelledby="finalReportTitle" hidden>
+        <section id="finalReport" class="panel final-report is-pending" aria-labelledby="finalReportTitle">
           <div class="final-report-header">
             <div>
               <p class="label">Unofficial final report</p>
               <h2 id="finalReportTitle">EnglishRoad Level Check</h2>
-              <p id="finalReportDate" class="final-report-date"></p>
+              <p id="finalReportDate" class="final-report-date">Completed: —</p>
             </div>
             <div class="final-correct">
               <span>Total correct</span>
-              <strong id="finalCorrect">--</strong>
+              <strong id="finalCorrect">0/100</strong>
             </div>
             <div class="final-confidence-badge">
               <span>Confidence</span>
-              <strong id="finalConfidenceScore">--</strong>
+              <strong id="finalConfidenceScore">—</strong>
             </div>
           </div>
 
           <p id="finalConfidenceText" class="final-confidence">
-            This is an unofficial estimated range. It is for practice and placement conversations, not an official test score.
+            This report is inactive for now. It will be populated with real data after 100 items have been answered. You have answered 0/100.
           </p>
 
           <div class="final-report-actions">
-            <button id="copyReport" class="ghost-action copy-report-action" type="button">Copy report text</button>
-            <span id="copyReportStatus" class="copy-status" role="status"></span>
+            <button id="copyReport" class="ghost-action copy-report-action" type="button" disabled>Copy report text</button>
+            <span id="copyReportStatus" class="copy-status" role="status">Available after 100 answers.</span>
           </div>
 
           <div class="final-score-grid" aria-label="Final estimated score ranges">
             <div>
               <span>EnglishRoad level</span>
-              <strong id="finalLevelRange">--</strong>
+              <strong id="finalLevelRange">—</strong>
             </div>
             <div>
               <span>CEFR</span>
-              <strong id="finalCefr">--</strong>
+              <strong id="finalCefr">—</strong>
             </div>
             <div>
               <span>TOEFL iBT</span>
-              <strong id="finalToefl">--</strong>
+              <strong id="finalToefl">—</strong>
             </div>
             <div>
               <span>IELTS</span>
-              <strong id="finalIelts">--</strong>
+              <strong id="finalIelts">—</strong>
             </div>
             <div>
               <span>TOEIC L&amp;R</span>
-              <strong id="finalToeic">--</strong>
+              <strong id="finalToeic">—</strong>
             </div>
           </div>
 
@@ -215,6 +215,6 @@
       </section>
     </main>
     <script src="item-bank-data.js?v=context-vocab-v1"></script>
-    <script src="app.js?v=vocab-context-v1"></script>
+    <script src="app.js?v=pending-report-v1"></script>
   </body>
 </html>
