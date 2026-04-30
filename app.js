@@ -415,6 +415,24 @@ function helpfulSetup(text, blueprint, index = 0, made = {}) {
     ], index);
   }
 
+  if (blueprint.code === "v-easy-synonym") {
+    return pick([
+      "Choose the word with almost the same meaning.",
+      "Find the closest simple meaning.",
+      "Choose the word that means almost the same thing.",
+      "Read the word and choose its closest match."
+    ], index);
+  }
+
+  if (blueprint.code === "v-nuance") {
+    return pick([
+      "Choose the closest meaning.",
+      "Pick the meaning that best matches the word.",
+      "Choose the most exact meaning.",
+      "The answer should match the word's usual meaning."
+    ], index);
+  }
+
   if (!hasBlank && isSentenceChoiceTask(text)) {
     return pick([
       "Read all four choices before you answer.",
@@ -512,7 +530,7 @@ function isSentenceChoiceTask(text) {
 }
 
 function isMeaningTask(text) {
-  return /^(What does|Which word means|Which meaning|In an office message|In school or work reading|Which sentence is most appropriate|Which sentence is careful|Which sentence says)/i.test(text);
+  return /^(What does|Which sentence is most appropriate|Which sentence is careful|Which sentence says)/i.test(text);
 }
 
 function validateBank(bank) {
@@ -614,6 +632,7 @@ function hasDisplayGuidanceProblem(question) {
   ];
   if (confusingSetupPhrases.some((phrase) => setup.includes(phrase))) return "Setup uses confusing blank-position wording";
   if (setup.includes("blank") && !taskHasBlank) return "Setup mentions a blank, but the item has no blank";
+  if (task.startsWith("in school or work reading") || task.startsWith("in an office message")) return "Meaning item lacks a real example sentence";
   if (setup.includes("only after") && !answerText.includes("only after")) return "Setup mentions Only after for an unrelated item";
   if (task.startsWith("choose the best words") && !taskHasBlank) return "Best-words item needs a cloze blank";
   if (task.includes("choose the best answer") && !taskHasBlank && question.options.every((option) => !/[.!?]$/.test(option))) {

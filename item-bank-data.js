@@ -33,18 +33,18 @@
         ["need", "require", "refuse", "repair", "reduce"]
       ],
       workplace: [
-        ["deadline", "the time something must be finished", "a person who trains employees", "a room for interviews", "a printed advertisement"],
-        ["invoice", "a document requesting payment", "a list of holidays", "a message of apology", "a workplace rule"],
-        ["supervisor", "a person who manages workers", "a customer complaint", "a delivery address", "a meeting agenda"],
-        ["extension", "extra time to finish something", "a written signature", "a travel discount", "a safety problem"],
-        ["appointment", "an arranged meeting", "a monthly salary", "a product manual", "an office supply"]
+        ["The notice says the deadline for the form is Friday.", "deadline", "the time something must be finished", "a person who trains employees", "a room for interviews", "a printed advertisement"],
+        ["The company sent an invoice after the customer bought the chairs.", "invoice", "a document requesting payment", "a list of holidays", "a message of apology", "a workplace rule"],
+        ["Please ask your supervisor before changing your work schedule.", "supervisor", "a person who manages workers", "a customer complaint", "a delivery address", "a meeting agenda"],
+        ["The teacher gave the class an extension, so the project is due next week.", "extension", "extra time to finish something", "a written signature", "a travel discount", "a safety problem"],
+        ["My appointment with the adviser is at 3 p.m.", "appointment", "an arranged meeting", "a monthly salary", "a product manual", "an office supply"]
       ],
       academic: [
-        ["consistent", "matching or agreeing with something", "easy to notice", "not lasting long", "based on luck"],
-        ["significant", "important enough to notice", "too simple to use", "made by hand", "written in advance"],
-        ["assumption", "an idea accepted before proof", "a final payment", "a public celebration", "a travel document"],
-        ["indicate", "show or suggest", "hide completely", "copy exactly", "pay immediately"],
-        ["method", "a way of doing something", "a result that cannot change", "a list of prices", "a private opinion"]
+        ["The two reports gave consistent results, so the manager trusted the numbers.", "consistent", "matching or agreeing with something", "easy to notice", "not lasting long", "based on luck"],
+        ["The new schedule made a significant difference because fewer students arrived late.", "significant", "important enough to notice", "too simple to use", "made by hand", "written in advance"],
+        ["The plan was based on the assumption that most students had internet access.", "assumption", "an idea accepted before proof", "a final payment", "a public celebration", "a travel document"],
+        ["The arrows on the map indicate the safest exit from the building.", "indicate", "show or suggest", "hide completely", "copy exactly", "pay immediately"],
+        ["The teacher showed a new method for remembering vocabulary words.", "method", "a way of doing something", "a result that cannot change", "a list of prices", "a private opinion"]
       ],
       contextMeanings: [
         ["The new rule may hinder small shops.", "hinder", "make progress difficult", "give official permission", "describe in detail", "pay in advance"],
@@ -395,7 +395,7 @@
         difficulty: 1.7,
         make: (i) => {
           const set = pick(vocabularySets.workplace, i);
-          return item(`In an office message, "${set[0]}" means ___.`, set.slice(1), set[1]);
+          return item(`What does "${set[1]}" mean in this sentence? ${set[0]}`, set.slice(2), set[2]);
         }
       },
       {
@@ -488,7 +488,7 @@
         difficulty: 3.9,
         make: (i) => {
           const set = pick(vocabularySets.academic, i);
-          return item(`In school or work reading, "${set[0]}" means ___.`, set.slice(1), set[1]);
+          return item(`What does "${set[1]}" mean in this sentence? ${set[0]}`, set.slice(2), set[2]);
         }
       },
       {
