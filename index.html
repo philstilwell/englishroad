@@ -36,7 +36,7 @@
               <ol class="simple-steps">
                 <li>Choose one answer.</li>
                 <li>See your first level after 5 answers.</li>
-                <li>After 60 answers, you can send your results. Sending ends the quiz.</li>
+                <li>For an unofficial report, take a screenshot of your level and practice areas.</li>
                 <li>Keep going to 120 questions for a better result.</li>
               </ol>
             </div>
@@ -81,34 +81,15 @@
             <div id="questionMeta" class="question-meta"></div>
             <h2 id="questionText" class="question-text"></h2>
             <div id="answers" class="answers"></div>
+            <p class="screenshot-note">
+              Unofficial report: Take a screenshot showing your level and practice areas, then send it to your teacher or school if they ask for your results.
+            </p>
 
             <div class="actions">
               <button id="submitAnswer" class="primary-action" type="button">Check answer</button>
               <button id="restart" class="ghost-action" type="button">Start again</button>
             </div>
             <p id="feedback" class="feedback" role="status"></p>
-
-            <section id="reportPanel" class="report-panel is-hidden" aria-labelledby="reportTitle">
-              <p id="reportComplete" class="report-complete is-hidden">Report sent. This quiz has ended.</p>
-              <div class="report-copy">
-                <p class="label">Send results</p>
-                <h3 id="reportTitle">Send your report and end the quiz</h3>
-                <p id="reportIntro">This option appears after 60 answers. It sends your scores and practice areas to EnglishRoad.</p>
-                <p class="report-warning">Warning: after you send the report, this quiz will end.</p>
-              </div>
-              <form id="reportForm" class="report-form">
-                <label>
-                  <span>Student name</span>
-                  <input id="studentName" name="studentName" type="text" autocomplete="name" required>
-                </label>
-                <label>
-                  <span>Teacher name</span>
-                  <input id="teacherName" name="teacherName" type="text" autocomplete="organization-title" required>
-                </label>
-                <button id="sendReport" class="report-action" type="submit">Send report and end quiz</button>
-              </form>
-              <p id="reportStatus" class="report-status" role="status"></p>
-            </section>
           </article>
 
           <aside class="panel results-panel" aria-labelledby="result-title">
@@ -163,6 +144,6 @@
         </section>
       </section>
     </main>
-    <script src="app.js?v=guidance-fix-v1"></script>
+    <script src="app.js?v=screenshot-report-v1"></script>
   </body>
 </html>
