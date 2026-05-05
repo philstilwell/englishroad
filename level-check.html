@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="EnglishRoad helps English learners check their level and see grammar and vocabulary areas to practice.">
+    <title>EnglishRoad English Level Check</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="icon" href="favicon.svg?v=olive-v2" type="image/svg+xml">
+    <link rel="stylesheet" href="styles.css?v=visible-report-preview-v1">
+  </head>
+  <body>
+    <main class="shell">
+      <section class="workspace" aria-labelledby="app-title">
+        <header class="topbar">
+          <h1 id="app-title" class="brand-title">
+            <img src="englishroad-title.svg?v=olive-v1" alt="EnglishRoad English Level Check">
+          </h1>
+          <nav class="tool-nav" aria-label="EnglishRoad tools">
+            <a href="index.html?nocache=hub-v1">Hub</a>
+            <a aria-current="page" href="level-check.html?nocache=level-check-v1">Level check</a>
+            <a href="practice.html?nocache=practice-tool-v1">Practice quizzes</a>
+          </nav>
+          <div class="domain-pill" aria-label="Custom domain">englishroad.com</div>
+        </header>
+
+        <section id="introPanel" class="panel intro-panel is-collapsed" aria-labelledby="intro-title">
+          <div class="intro-header">
+            <p class="label">Instructions:</p>
+            <button id="instructionsToggle" class="instruction-toggle" type="button" aria-controls="instructionsContent" aria-expanded="false">Show instructions</button>
+          </div>
+          <div id="instructionsContent" class="intro-grid is-hidden">
+            <div class="intro-copy">
+              <h2 id="intro-title">Find your English level and what to practice.</h2>
+              <p>
+                Answer English questions from a bank of 2,200 items. The items appear in a
+                largely random order, with the first questions being generally easier. The app
+                estimates your level for TOEFL, IELTS, TOEIC, and CEFR. It also shows grammar and
+                vocabulary areas that need work.
+              </p>
+              <ol class="simple-steps">
+                <li>Choose one answer.</li>
+                <li>See your first level after 5 answers.</li>
+                <li>Your answers are saved in this browser if the page refreshes.</li>
+                <li>After 100 questions, you get a short unofficial report. It shows your level range, test score estimates, correct answers, strong areas, weak areas, and the date. You can copy the report text or take a screenshot.</li>
+              </ol>
+            </div>
+
+            <div class="language-box" aria-labelledby="language-title">
+              <label class="language-control" for="languageSelect">
+                <span id="language-title">Read help in your language</span>
+                <select id="languageSelect" class="language-select">
+                  <option value="en">English</option>
+                  <option value="ja">Japanese</option>
+                  <option value="zh">Chinese</option>
+                  <option value="es">Spanish</option>
+                  <option value="te">Telugu</option>
+                  <option value="pt">Portuguese</option>
+                  <option value="pl">Polish</option>
+                  <option value="ko">Korean</option>
+                  <option value="fr">French</option>
+                </select>
+              </label>
+              <div class="language-info">
+                <h3 id="infoTitle"></h3>
+                <p id="infoPurpose"></p>
+                <p id="infoFunction"></p>
+                <ul id="infoSteps"></ul>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="assessment-grid">
+          <article class="panel assessment-panel" aria-live="polite">
+            <div class="progress-row">
+              <div>
+                <p class="label">Question</p>
+                <p class="progress-count"><span id="questionNumber">1</span> / <span id="totalQuestions">100</span></p>
+              </div>
+              <div class="meter" aria-hidden="true">
+                <span id="meterFill"></span>
+              </div>
+            </div>
+
+            <div id="questionMeta" class="question-meta"></div>
+            <h2 id="questionText" class="question-text"></h2>
+            <div id="answers" class="answers"></div>
+
+            <div class="actions">
+              <button id="submitAnswer" class="primary-action" type="button">Check answer</button>
+              <button id="restart" class="ghost-action" type="button">Start again</button>
+            </div>
+            <p id="feedback" class="feedback" role="status"></p>
+            <p class="screenshot-note">
+              Unofficial report: After 100 answers, you can copy the report text or take a screenshot, then send it to your teacher or school if they ask for your results.
+            </p>
+          </article>
+
+          <aside class="panel results-panel" aria-labelledby="result-title">
+            <div class="result-header">
+              <p class="label">Estimated range</p>
+              <h2 id="result-title">Answer 5 questions</h2>
+              <p id="precisionText" class="precision-text">We show your first level after 5 answers.</p>
+              <div class="confidence-box" aria-label="Estimate confidence">
+                <span>Confidence</span>
+                <strong id="confidenceScore">--</strong>
+                <em id="confidenceLabel">after 5 answers</em>
+              </div>
+            </div>
+
+            <div class="score-grid" aria-label="Score estimates">
+              <div>
+                <span>Estimated TOEFL iBT range</span>
+                <strong id="toeflScore">--</strong>
+              </div>
+              <div>
+                <span>Estimated IELTS range</span>
+                <strong id="ieltsScore">--</strong>
+              </div>
+              <div>
+                <span>Estimated TOEIC L&amp;R range</span>
+                <strong id="toeicScore">--</strong>
+              </div>
+              <div>
+                <span>Estimated CEFR range</span>
+                <strong id="cefrScore">--</strong>
+              </div>
+            </div>
+
+            <section id="reportPreview" class="report-preview is-pending" aria-labelledby="reportPreviewTitle">
+              <div class="report-preview-header">
+                <div>
+                  <p class="label">Report preview</p>
+                  <h3 id="reportPreviewTitle">Unofficial final report</h3>
+                </div>
+                <strong id="reportPreviewProgress">0/100</strong>
+              </div>
+              <p id="reportPreviewNote">Preview only. Real report data appears after 100 answers.</p>
+              <div class="report-preview-grid" aria-label="Inactive final report preview">
+                <div>
+                  <span>Level</span>
+                  <strong id="reportPreviewLevel">—</strong>
+                </div>
+                <div>
+                  <span>CEFR</span>
+                  <strong id="reportPreviewCefr">—</strong>
+                </div>
+                <div>
+                  <span>TOEFL</span>
+                  <strong id="reportPreviewToefl">—</strong>
+                </div>
+                <div>
+                  <span>IELTS</span>
+                  <strong id="reportPreviewIelts">—</strong>
+                </div>
+                <div>
+                  <span>TOEIC</span>
+                  <strong id="reportPreviewToeic">—</strong>
+                </div>
+                <div>
+                  <span>Confidence</span>
+                  <strong id="reportPreviewConfidence">—</strong>
+                </div>
+              </div>
+            </section>
+
+            <section class="weaknesses" aria-labelledby="weakness-title">
+              <h3 id="weakness-title">Things to practice</h3>
+              <div class="weakness-group">
+                <div class="weakness-heading">
+                  <span>Grammar</span>
+                  <strong id="grammarCount">0</strong>
+                </div>
+                <div id="grammarWeaknesses" class="chips"></div>
+              </div>
+              <div class="weakness-group">
+                <div class="weakness-heading">
+                  <span>Vocabulary</span>
+                  <strong id="vocabularyCount">0</strong>
+                </div>
+                <div id="vocabularyWeaknesses" class="chips"></div>
+              </div>
+            </section>
+
+            <div class="bank-note">
+              <strong id="bankSize">2,200</strong>
+              <span>practice questions for TOEFL, IELTS, TOEIC, and CEFR level checks</span>
+            </div>
+          </aside>
+        </section>
+
+        <section id="finalReport" class="panel final-report" aria-labelledby="finalReportTitle" hidden>
+          <div class="final-report-header">
+            <div>
+              <p class="label">Unofficial final report</p>
+              <h2 id="finalReportTitle">EnglishRoad Level Check</h2>
+              <p id="finalReportDate" class="final-report-date">Completed: —</p>
+            </div>
+            <div class="final-correct">
+              <span>Total correct</span>
+              <strong id="finalCorrect">0/100</strong>
+            </div>
+            <div class="final-confidence-badge">
+              <span>Confidence</span>
+              <strong id="finalConfidenceScore">—</strong>
+            </div>
+          </div>
+
+          <p id="finalConfidenceText" class="final-confidence">
+            This report is inactive for now. It will be populated with real data after 100 items have been answered. You have answered 0/100.
+          </p>
+
+          <div class="final-report-actions">
+            <button id="copyReport" class="ghost-action copy-report-action" type="button" disabled>Copy report text</button>
+            <span id="copyReportStatus" class="copy-status" role="status">Available after 100 answers.</span>
+          </div>
+
+          <div class="final-score-grid" aria-label="Final estimated score ranges">
+            <div>
+              <span>EnglishRoad level</span>
+              <strong id="finalLevelRange">—</strong>
+            </div>
+            <div>
+              <span>CEFR</span>
+              <strong id="finalCefr">—</strong>
+            </div>
+            <div>
+              <span>TOEFL iBT</span>
+              <strong id="finalToefl">—</strong>
+            </div>
+            <div>
+              <span>IELTS</span>
+              <strong id="finalIelts">—</strong>
+            </div>
+            <div>
+              <span>TOEIC L&amp;R</span>
+              <strong id="finalToeic">—</strong>
+            </div>
+          </div>
+
+          <div class="final-area-grid">
+            <section aria-labelledby="strongAreasTitle">
+              <h3 id="strongAreasTitle">Strongest areas</h3>
+              <div id="finalStrongAreas" class="chips compact-chips"></div>
+            </section>
+            <section aria-labelledby="weakAreasTitle">
+              <h3 id="weakAreasTitle">Weakest areas</h3>
+              <div id="finalWeakAreas" class="chips compact-chips"></div>
+            </section>
+          </div>
+        </section>
+
+        <section id="qaDashboard" class="panel qa-dashboard" aria-labelledby="qaDashboardTitle" hidden></section>
+      </section>
+    </main>
+    <script src="item-bank-data.js?v=context-vocab-v1"></script>
+    <script src="app.js?v=visible-report-preview-v1"></script>
+    <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a2642182f9504544b9a79213f2b2e35d"}'></script><!-- End Cloudflare Web Analytics -->
+  </body>
+</html>
