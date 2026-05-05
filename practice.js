@@ -247,6 +247,7 @@ function startPractice(event) {
   state.selected = "";
   state.answered = false;
   state.responses = [];
+  renderAiPrompt();
   renderPractice();
 }
 
@@ -426,6 +427,78 @@ function renderCompletion() {
   document.getElementById("nextPracticeItem").hidden = true;
 }
 
+function renderAiPrompt() {
+  const promptField = document.getElementById("aiPromptText");
+  const status = document.getElementById("copyAiPromptStatus");
+  if (!promptField) return;
+  promptField.value = buildAiPrompt();
+  if (status) status.textContent = "";
+}
+
+function buildAiPrompt() {
+  return [
+    `You are an expert ESL teacher. Explain the following 25-item EnglishRoad ${state.level} practice quiz.`,
+    "",
+    "For each item:",
+    "1. State the correct answer.",
+    "2. Explain in simple English why the correct answer is right.",
+    "3. Explain why each other option is wrong or less natural.",
+    "4. Give one short extra example sentence when useful.",
+    "",
+    "Use clear language for English learners. Do not rewrite the quiz into harder English.",
+    "",
+    state.quiz.map(formatItemForAiPrompt).join("\n\n")
+  ].join("\n");
+}
+
+function formatItemForAiPrompt(item, index) {
+  return [
+    `Item ${index + 1}`,
+    `Level: ${state.level}; Area: ${item.category} / ${learnerSubcategory(item.subcategory)}; Difficulty: ${item.difficulty.toFixed(1)}`,
+    `Helpful information: ${item.setupText}`,
+    `Question: ${item.taskText}`,
+    "Options:",
+    ...item.options.map((option, optionIndex) => `${String.fromCharCode(65 + optionIndex)}. ${option}`),
+    `Correct answer: ${item.answer}`
+  ].join("\n");
+}
+
+function copyAiPrompt() {
+  const status = document.getElementById("copyAiPromptStatus");
+  const prompt = document.getElementById("aiPromptText").value;
+  copyText(prompt)
+    .then(() => {
+      if (status) status.textContent = "AI prompt copied.";
+    })
+    .catch(() => {
+      if (status) status.textContent = "Copy did not work. Select the text and copy it.";
+    });
+}
+
+function copyText(text) {
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    return navigator.clipboard.writeText(text);
+  }
+
+  return new Promise((resolve, reject) => {
+    const textArea = document.createElement("textarea");
+    textArea.value = text;
+    textArea.setAttribute("readonly", "");
+    textArea.style.position = "fixed";
+    textArea.style.left = "-9999px";
+    document.body.appendChild(textArea);
+    textArea.select();
+    try {
+      if (document.execCommand("copy")) resolve();
+      else reject(new Error("Copy command failed"));
+    } catch (error) {
+      reject(error);
+    } finally {
+      document.body.removeChild(textArea);
+    }
+  });
+}
+
 function renderSidePanel() {
   const correct = state.responses.filter((response) => response.correct).length;
   document.getElementById("sideLevel").textContent = state.level;
@@ -564,4 +637,5 @@ document.getElementById("practiceSetup").addEventListener("submit", startPractic
 document.getElementById("checkPracticeAnswer").addEventListener("click", checkPracticeAnswer);
 document.getElementById("nextPracticeItem").addEventListener("click", nextPracticeItem);
 document.getElementById("restartPractice").addEventListener("click", startPractice);
+document.getElementById("copyAiPrompt").addEventListener("click", copyAiPrompt);
 startPractice();
