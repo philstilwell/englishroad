@@ -344,7 +344,6 @@ function renderPractice() {
     });
   });
 
-  document.getElementById("practiceFeedback").hidden = true;
   document.getElementById("checkPracticeAnswer").hidden = false;
   document.getElementById("checkPracticeAnswer").disabled = true;
   document.getElementById("nextPracticeItem").hidden = true;
@@ -364,43 +363,11 @@ function checkPracticeAnswer() {
     if (input.checked && input.value !== item.answer) option.classList.add("incorrect");
   });
 
-  renderFeedback(item, correct);
   renderSidePanel();
   document.getElementById("checkPracticeAnswer").hidden = true;
   const nextButton = document.getElementById("nextPracticeItem");
   nextButton.hidden = false;
   nextButton.textContent = state.index + 1 >= PRACTICE_LENGTH ? "See summary" : "Next question";
-}
-
-function renderFeedback(item, correct) {
-  const feedback = document.getElementById("practiceFeedback");
-  feedback.hidden = false;
-  feedback.innerHTML = `
-    <h3 id="feedbackTitle">${correct ? "Correct." : "Not correct."}</h3>
-    <p><strong>Correct answer:</strong> ${escapeHtml(formatAnswerForFeedback(item.answer))}</p>
-    <p>${escapeHtml(item.explanation)}</p>
-    <div class="feedback-grid">
-      ${item.options.map((option) => feedbackRow(item, option)).join("")}
-    </div>
-  `;
-}
-
-function feedbackRow(item, option) {
-  const kind = option === item.answer ? "correct" : option === state.selected ? "incorrect" : "";
-  const label = option === item.answer ? "Correct choice" : option === state.selected ? "Your choice" : "Other choice";
-  const rationale = item.rationales[option] || distractorRationale(item, option);
-  return `
-    <div class="feedback-row ${kind}">
-      <div>
-        <strong>${escapeHtml(option)}</strong>
-        <span>${label}</span>
-      </div>
-      <span class="tooltip">
-        <button type="button" aria-label="Show explanation for ${escapeHtml(option)}">?</button>
-        <span class="tooltip-bubble">${escapeHtml(rationale)}</span>
-      </span>
-    </div>
-  `;
 }
 
 function nextPracticeItem() {
@@ -422,7 +389,6 @@ function renderCompletion() {
     </div>
   `;
   document.getElementById("practiceAnswers").innerHTML = "";
-  document.getElementById("practiceFeedback").hidden = true;
   document.getElementById("checkPracticeAnswer").hidden = true;
   document.getElementById("nextPracticeItem").hidden = true;
 }
@@ -440,10 +406,11 @@ function buildAiPrompt() {
     `You are an expert ESL teacher. Explain the following 25-item EnglishRoad ${state.level} practice quiz.`,
     "",
     "For each item:",
-    "1. State the correct answer.",
-    "2. Explain in simple English why the correct answer is right.",
-    "3. Explain why each other option is wrong or less natural.",
-    "4. Give one short extra example sentence when useful.",
+    "1. Preface each new item with \"◉ \".",
+    "2. State the correct answer.",
+    "3. Explain in simple English why the correct answer is right.",
+    "4. Explain why each other option is wrong or less natural.",
+    "5. Generate 3 more example sentences based on the quiz item question or sentence. Preface each example sentence with \"➘ \".",
     "",
     "Use clear language for English learners. Do not rewrite the quiz into harder English.",
     "",
@@ -453,7 +420,7 @@ function buildAiPrompt() {
 
 function formatItemForAiPrompt(item, index) {
   return [
-    `Item ${index + 1}`,
+    `◉ Item ${index + 1}`,
     `Level: ${state.level}; Area: ${item.category} / ${learnerSubcategory(item.subcategory)}; Difficulty: ${item.difficulty.toFixed(1)}`,
     `Helpful information: ${item.setupText}`,
     `Question: ${item.taskText}`,
@@ -604,10 +571,6 @@ function learnerSubcategory(subcategory) {
 
 function ensurePeriod(text) {
   return /[.!?]$/.test(text) ? text : `${text}.`;
-}
-
-function formatAnswerForFeedback(answer) {
-  return /[.!?]$/.test(answer) ? answer : `${answer}.`;
 }
 
 function normalizeQuestionText(text) {
