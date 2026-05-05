@@ -261,27 +261,40 @@ function selectQuizItems(level) {
 function balancedSample(candidates, length) {
   const pool = shuffleRandom(candidates);
   const selected = [];
+  const usedIds = new Set();
+  const usedSignatures = new Set();
   const categoryCounts = {};
   const subcategoryCounts = {};
   const targetCategory = Math.ceil(length / 2);
 
   for (const item of pool) {
     if (selected.length >= length) break;
+    if (!isUniquePracticeCandidate(item, usedIds, usedSignatures)) continue;
     const categoryCount = categoryCounts[item.category] || 0;
     const subcategoryCount = subcategoryCounts[item.subcategory] || 0;
     if (categoryCount >= targetCategory + 2) continue;
     if (subcategoryCount >= 4) continue;
-    selected.push(item);
+    addPracticeItem(selected, item, usedIds, usedSignatures);
     incrementCount(categoryCounts, item.category);
     incrementCount(subcategoryCounts, item.subcategory);
   }
 
   for (const item of pool) {
     if (selected.length >= length) break;
-    if (!selected.some((chosen) => chosen.id === item.id)) selected.push(item);
+    if (isUniquePracticeCandidate(item, usedIds, usedSignatures)) addPracticeItem(selected, item, usedIds, usedSignatures);
   }
 
   return selected.slice(0, length);
+}
+
+function isUniquePracticeCandidate(item, usedIds, usedSignatures) {
+  return !usedIds.has(item.id) && !usedSignatures.has(questionSignature(item));
+}
+
+function addPracticeItem(selected, item, usedIds, usedSignatures) {
+  selected.push(item);
+  usedIds.add(item.id);
+  usedSignatures.add(questionSignature(item));
 }
 
 function renderPractice() {
@@ -526,6 +539,11 @@ function formatAnswerForFeedback(answer) {
 
 function normalizeQuestionText(text) {
   return String(text).toLowerCase().replace(/\s+/g, " ").trim();
+}
+
+function questionSignature(question) {
+  const optionKey = question.options.map(normalizeQuestionText).sort().join(" | ");
+  return `${normalizeQuestionText(question.taskText)} || ${optionKey}`;
 }
 
 function clamp(value, min, max) {
