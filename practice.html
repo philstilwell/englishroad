@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="EnglishRoad Practice Quizzes give English learners 25-item practice sets with detailed feedback.">
+    <title>EnglishRoad Practice Quizzes</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link rel="icon" href="favicon.svg?v=olive-v2" type="image/svg+xml">
+    <link rel="stylesheet" href="practice.css?v=practice-tool-v1">
+  </head>
+  <body>
+    <main class="practice-shell">
+      <header class="practice-topbar">
+        <a class="brand-link" href="index.html?nocache=level-check-link-v1" aria-label="Go to EnglishRoad Level Check">
+          <img src="englishroad-title.svg?v=olive-v1" alt="EnglishRoad English Level Check">
+        </a>
+        <nav class="tool-nav" aria-label="EnglishRoad tools">
+          <a href="index.html?nocache=level-check-link-v1">Level check</a>
+          <a aria-current="page" href="practice.html">Practice quizzes</a>
+        </nav>
+      </header>
+
+      <section class="practice-hero panel" aria-labelledby="practiceTitle">
+        <div>
+          <p class="label">Practice quizzes</p>
+          <h1 id="practiceTitle">Practice 25 English questions with full feedback.</h1>
+          <p>
+            Choose your level. EnglishRoad pulls 25 questions from the same 2,200-item bank used
+            by the level check. After each answer, you can read why the correct answer works and
+            why the other choices do not.
+          </p>
+        </div>
+        <form id="practiceSetup" class="setup-box">
+          <label for="levelSelect">
+            <span>Choose level</span>
+            <select id="levelSelect">
+              <option value="A1">A1 beginner</option>
+              <option value="A2" selected>A2 elementary</option>
+              <option value="B1">B1 intermediate</option>
+              <option value="B2">B2 upper intermediate</option>
+              <option value="C1">C1 advanced</option>
+              <option value="C2">C2 very advanced</option>
+            </select>
+          </label>
+          <button class="primary-action" type="submit">Start 25-item quiz</button>
+        </form>
+      </section>
+
+      <section class="practice-layout">
+        <article class="panel quiz-panel" aria-live="polite">
+          <div class="practice-progress">
+            <div>
+              <p class="label">Question</p>
+              <p class="progress-count"><span id="practiceNumber">0</span> / <span id="practiceTotal">25</span></p>
+            </div>
+            <div class="meter" aria-hidden="true"><span id="practiceMeter"></span></div>
+          </div>
+
+          <div id="practiceMeta" class="practice-meta"></div>
+          <section id="practicePrompt" class="practice-prompt"></section>
+          <div id="practiceAnswers" class="practice-answers"></div>
+
+          <div class="practice-actions">
+            <button id="checkPracticeAnswer" class="primary-action" type="button">Check answer</button>
+            <button id="nextPracticeItem" class="ghost-action" type="button" hidden>Next question</button>
+            <button id="restartPractice" class="ghost-action" type="button">New quiz</button>
+          </div>
+
+          <section id="practiceFeedback" class="feedback-panel" aria-labelledby="feedbackTitle" hidden></section>
+        </article>
+
+        <aside class="panel practice-side" aria-labelledby="practiceSideTitle">
+          <p class="label">Practice report</p>
+          <h2 id="practiceSideTitle">This quiz</h2>
+          <div class="side-stats">
+            <div>
+              <span>Level</span>
+              <strong id="sideLevel">A2</strong>
+            </div>
+            <div>
+              <span>Correct</span>
+              <strong id="sideCorrect">0/25</strong>
+            </div>
+          </div>
+          <div class="side-note">
+            Feedback appears after each item. Use the small question-mark buttons to open short explanations for each answer choice.
+          </div>
+          <section class="practice-summary" aria-labelledby="practiceSummaryTitle">
+            <h3 id="practiceSummaryTitle">Areas practiced</h3>
+            <div id="practiceAreas" class="practice-chips"></div>
+          </section>
+          <a class="level-check-link" href="index.html?nocache=practice-cross-link-v1">Go to the level check</a>
+        </aside>
+      </section>
+    </main>
+
+    <script src="item-bank-data.js?v=context-vocab-v1"></script>
+    <script src="practice.js?v=practice-tool-v1"></script>
+  </body>
+</html>
