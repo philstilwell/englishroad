@@ -453,6 +453,12 @@ p {
   margin-top: 10px;
 }
 
+.copy-prompt-action.is-copied {
+  border-color: #102033;
+  background: #102033;
+  color: #fff;
+}
+
 .copy-prompt-status {
   display: block;
   min-height: 20px;

@@ -56,6 +56,8 @@ const state = {
   responses: []
 };
 
+let copyPromptResetTimer = null;
+
 function createQuestionBank() {
   const bank = [];
   const blueprintCounts = {};
@@ -398,6 +400,7 @@ function renderAiPrompt() {
   const status = document.getElementById("copyAiPromptStatus");
   if (!promptField) return;
   promptField.value = buildAiPrompt();
+  resetCopyPromptButton();
   if (status) status.textContent = "";
 }
 
@@ -432,15 +435,31 @@ function formatItemForAiPrompt(item, index) {
 }
 
 function copyAiPrompt() {
+  const button = document.getElementById("copyAiPrompt");
   const status = document.getElementById("copyAiPromptStatus");
   const prompt = document.getElementById("aiPromptText").value;
   copyText(prompt)
     .then(() => {
-      if (status) status.textContent = "AI prompt copied.";
+      if (status) status.textContent = "";
+      if (!button) return;
+      button.textContent = "Copied!";
+      button.classList.add("is-copied");
+      window.clearTimeout(copyPromptResetTimer);
+      copyPromptResetTimer = window.setTimeout(resetCopyPromptButton, 5000);
     })
     .catch(() => {
+      resetCopyPromptButton();
       if (status) status.textContent = "Copy did not work. Select the text and copy it.";
     });
+}
+
+function resetCopyPromptButton() {
+  const button = document.getElementById("copyAiPrompt");
+  window.clearTimeout(copyPromptResetTimer);
+  copyPromptResetTimer = null;
+  if (!button) return;
+  button.textContent = "Copy AI prompt";
+  button.classList.remove("is-copied");
 }
 
 function copyText(text) {
