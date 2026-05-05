@@ -406,11 +406,12 @@ function buildAiPrompt() {
     `You are an expert ESL teacher. Explain the following 25-item EnglishRoad ${state.level} practice quiz.`,
     "",
     "For each item:",
-    "1. Preface each new item with \"◉ \".",
+    "1. Write the item number, prefaced with \"◉ \".",
     "2. State the correct answer.",
-    "3. Explain in simple English why the correct answer is right.",
-    "4. Explain why each other option is wrong or less natural.",
-    "5. Generate 3 more example sentences based on the quiz item question or sentence. Preface each example sentence with \"➘ \".",
+    "3. Insert the quiz question/item exactly as shown.",
+    "4. Explain in simple English why the correct answer is right.",
+    "5. Explain why each other option is wrong or less natural.",
+    "6. Generate 3 more example sentences based on the quiz item question or sentence. Preface each example sentence with \"➘ \".",
     "",
     "Use clear language for English learners. Do not rewrite the quiz into harder English.",
     "",
@@ -421,12 +422,12 @@ function buildAiPrompt() {
 function formatItemForAiPrompt(item, index) {
   return [
     `◉ Item ${index + 1}`,
-    `Level: ${state.level}; Area: ${item.category} / ${learnerSubcategory(item.subcategory)}; Difficulty: ${item.difficulty.toFixed(1)}`,
-    `Helpful information: ${item.setupText}`,
+    `Correct answer: ${item.answer}`,
     `Question: ${item.taskText}`,
     "Options:",
     ...item.options.map((option, optionIndex) => `${String.fromCharCode(65 + optionIndex)}. ${option}`),
-    `Correct answer: ${item.answer}`
+    `Helpful information: ${item.setupText}`,
+    `Level: ${state.level}; Area: ${item.category} / ${learnerSubcategory(item.subcategory)}; Difficulty: ${item.difficulty.toFixed(1)}`
   ].join("\n");
 }
 
