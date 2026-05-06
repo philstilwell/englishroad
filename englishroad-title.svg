@@ -1,18 +1,35 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 190" role="img" aria-labelledby="title desc">
   <title id="title">EnglishRoad English Level Check</title>
-  <desc id="desc">EnglishRoad logo with the title English Level Check</desc>
+  <desc id="desc">EnglishRoad header with the title English Level Check.</desc>
   <defs>
-    <filter id="titleShadow" x="-8%" y="-12%" width="116%" height="132%">
-      <feDropShadow dx="0" dy="5" stdDeviation="3" flood-color="#11160a" flood-opacity="0.5"/>
-      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#f8f8ea" flood-opacity="0.35"/>
-    </filter>
-    <linearGradient id="titleInk" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#37410f"/>
-      <stop offset="0.48" stop-color="#1f2411"/>
-      <stop offset="1" stop-color="#0d1107"/>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fbfaef"/>
+      <stop offset="0.5" stop-color="#e9ecd4"/>
+      <stop offset="1" stop-color="#f3f1e1"/>
     </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6f7f2a"/>
+      <stop offset="0.52" stop-color="#35430f"/>
+      <stop offset="1" stop-color="#1f2411"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#35430f"/>
+      <stop offset="0.52" stop-color="#6f7f2a"/>
+      <stop offset="1" stop-color="#b88926"/>
+    </linearGradient>
+    <filter id="titleShadow" x="-8%" y="-14%" width="116%" height="138%">
+      <feDropShadow dx="0" dy="6" stdDeviation="3" flood-color="#1f2411" flood-opacity="0.34"/>
+      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#fffdf2" flood-opacity="0.6"/>
+    </filter>
   </defs>
-  <rect width="1024" height="190" fill="#f3f1e1"/>
-  <text x="36" y="70" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="900" letter-spacing="4" fill="#656948">ENGLISHROAD</text>
-  <text x="38" y="158" font-family="Georgia, 'Times New Roman', serif" font-size="92" font-weight="700" letter-spacing="0" fill="url(#titleInk)" filter="url(#titleShadow)">English Level Check</text>
+  <rect width="1024" height="190" rx="20" fill="url(#paper)"/>
+  <path d="M0 154 C146 112 260 170 404 124 C570 70 706 112 858 68 C934 46 980 48 1024 58 L1024 190 L0 190 Z" fill="#d9ddba" opacity="0.82"/>
+  <path d="M-18 132 C132 82 260 152 404 106 C568 54 700 94 846 46 C916 24 968 26 1042 38" fill="none" stroke="url(#road)" stroke-width="16" stroke-linecap="round" opacity="0.94"/>
+  <path d="M34 119 C166 82 274 134 412 96 C560 54 680 80 824 38 C892 20 954 22 990 28" fill="none" stroke="#fff8d8" stroke-width="3" stroke-linecap="round" stroke-dasharray="24 18" opacity="0.95"/>
+  <path d="M744 30 L984 30 L948 82 L708 82 Z" fill="#fffdf2" opacity="0.62"/>
+  <path d="M762 39 L956 39" stroke="#b88926" stroke-width="3" stroke-linecap="round" opacity="0.65"/>
+  <path d="M762 55 L930 55" stroke="#6f7f2a" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
+  <path d="M762 71 L904 71" stroke="#6f7f2a" stroke-width="3" stroke-linecap="round" opacity="0.4"/>
+  <text x="38" y="64" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" letter-spacing="6" fill="#656948">ENGLISHROAD</text>
+  <text x="38" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="84" font-weight="700" fill="url(#ink)" filter="url(#titleShadow)">English Level Check</text>
 </svg>

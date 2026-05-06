@@ -63,8 +63,7 @@ textarea {
   justify-content: flex-end;
 }
 
-.tool-nav a,
-.level-check-link {
+.tool-nav a {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -78,8 +77,7 @@ textarea {
   text-decoration: none;
 }
 
-.tool-nav a[aria-current="page"],
-.level-check-link {
+.tool-nav a[aria-current="page"] {
   background: var(--blue-dark);
   color: #fff;
 }
@@ -403,12 +401,6 @@ p {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
-}
-
-.level-check-link {
-  width: 100%;
-  margin-top: 16px;
-  border-radius: 8px;
 }
 
 .ai-prompt-box {

@@ -3,19 +3,19 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="EnglishRoad Practice Quizzes give English learners 25-item practice sets with detailed feedback.">
+    <meta name="description" content="EnglishRoad Practice Quizzes give English learners 25-item practice sets with an AI study prompt.">
     <title>EnglishRoad Practice Quizzes</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="icon" href="practice-favicon.svg?v=blue-er-v1" type="image/svg+xml">
-    <link rel="stylesheet" href="practice.css?v=practice-copy-state-v1">
+    <link rel="stylesheet" href="practice.css?v=practice-header-v1">
   </head>
   <body>
     <main class="practice-shell">
       <header class="practice-topbar">
         <a class="brand-link" href="index.html?nocache=hub-v1" aria-label="Go to EnglishRoad hub">
-          <img src="practice-title.svg?v=practice-blue-v1" alt="EnglishRoad Practice Quizzes">
+          <img src="practice-title.svg?v=practice-blue-v2" alt="EnglishRoad Practice Quizzes">
         </a>
         <nav class="tool-nav" aria-label="EnglishRoad tools">
           <a href="index.html?nocache=hub-v1">Hub</a>
@@ -27,11 +27,11 @@
       <section class="practice-hero panel" aria-labelledby="practiceTitle">
         <div>
           <p class="label">Practice quizzes</p>
-          <h1 id="practiceTitle">Practice 25 English questions with full feedback.</h1>
+          <h1 id="practiceTitle">Practice 25 English questions at your level.</h1>
           <p>
             Choose your level. EnglishRoad pulls 25 questions from the same 2,200-item bank used
-            by the level check. After each answer, you can read why the correct answer works and
-            why the other choices do not.
+            by the level check. After the quiz, you can copy an AI study prompt to get deeper
+            explanations for every answer choice.
           </p>
         </div>
         <form id="practiceSetup" class="setup-box">
@@ -99,7 +99,6 @@
             <button id="copyAiPrompt" class="ghost-action copy-prompt-action" type="button">Copy AI prompt</button>
             <span id="copyAiPromptStatus" class="copy-prompt-status" role="status"></span>
           </details>
-          <a class="level-check-link" href="level-check.html?nocache=practice-cross-link-v1">Go to the level check</a>
         </aside>
       </section>
     </main>
