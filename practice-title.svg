@@ -2,34 +2,45 @@
   <title id="title">EnglishRoad Practice Quizzes</title>
   <desc id="desc">A blue EnglishRoad header for the Practice Quizzes tool.</desc>
   <defs>
-    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#f4fbff"/>
-      <stop offset="0.48" stop-color="#d9edf9"/>
-      <stop offset="1" stop-color="#ffffff"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6fcff"/>
+      <stop offset="0.58" stop-color="#d9edf9"/>
+      <stop offset="1" stop-color="#eef8fd"/>
     </linearGradient>
-    <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#2f7fb8"/>
-      <stop offset="0.52" stop-color="#17456f"/>
-      <stop offset="1" stop-color="#102033"/>
-    </linearGradient>
-    <linearGradient id="road" x1="0" y1="0" x2="1" y2="0">
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#17456f"/>
-      <stop offset="0.5" stop-color="#2f7fb8"/>
-      <stop offset="1" stop-color="#84bddc"/>
+      <stop offset="1" stop-color="#2f7fb8"/>
     </linearGradient>
-    <filter id="titleShadow" x="-8%" y="-14%" width="116%" height="138%">
-      <feDropShadow dx="0" dy="6" stdDeviation="3" flood-color="#0b2a45" flood-opacity="0.28"/>
-      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#ffffff" flood-opacity="0.55"/>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="10" stdDeviation="8" flood-color="#17456f" flood-opacity="0.18"/>
     </filter>
   </defs>
-  <rect width="1024" height="190" rx="20" fill="url(#paper)"/>
-  <path d="M0 152 C148 116 248 170 382 126 C560 66 696 116 858 70 C930 50 974 48 1024 56 L1024 190 L0 190 Z" fill="#c2e2f4" opacity="0.76"/>
-  <path d="M-18 132 C130 84 248 150 382 108 C558 52 696 94 846 46 C918 24 970 26 1042 38" fill="none" stroke="url(#road)" stroke-width="16" stroke-linecap="round" opacity="0.92"/>
-  <path d="M34 119 C164 84 262 132 390 96 C552 50 676 78 824 38 C894 20 954 22 990 28" fill="none" stroke="#eef8fd" stroke-width="3" stroke-linecap="round" stroke-dasharray="24 18" opacity="0.9"/>
-  <path d="M742 30 L984 30 L948 82 L706 82 Z" fill="#ffffff" opacity="0.58"/>
-  <path d="M760 39 L956 39" stroke="#84bddc" stroke-width="3" stroke-linecap="round" opacity="0.75"/>
-  <path d="M760 55 L928 55" stroke="#84bddc" stroke-width="3" stroke-linecap="round" opacity="0.55"/>
-  <path d="M760 71 L902 71" stroke="#84bddc" stroke-width="3" stroke-linecap="round" opacity="0.4"/>
-  <text x="38" y="64" fill="#17456f" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" letter-spacing="6">ENGLISHROAD</text>
-  <text x="38" y="148" fill="url(#ink)" filter="url(#titleShadow)" font-family="Georgia, 'Times New Roman', serif" font-size="84" font-weight="700">Practice Quizzes</text>
+
+  <rect width="1024" height="190" rx="20" fill="url(#bg)"/>
+  <path d="M760 0H1024V190H694L760 0Z" fill="#c2e2f4" opacity="0.58"/>
+  <path d="M0 158H1024" stroke="#84bddc" stroke-width="2" opacity="0.45"/>
+  <path d="M42 154H492" stroke="url(#accent)" stroke-width="8" stroke-linecap="round"/>
+
+  <text x="42" y="68" fill="#17456f" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="900" letter-spacing="6">ENGLISHROAD</text>
+  <text x="42" y="133" fill="#102033" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="900" letter-spacing="0">Practice Quizzes</text>
+
+  <g filter="url(#cardShadow)">
+    <rect x="700" y="36" width="244" height="124" rx="16" fill="#ffffff"/>
+    <rect x="724" y="60" width="132" height="11" rx="5.5" fill="#2f7fb8" opacity="0.26"/>
+    <rect x="724" y="86" width="176" height="9" rx="4.5" fill="#84bddc" opacity="0.42"/>
+    <rect x="724" y="111" width="154" height="9" rx="4.5" fill="#84bddc" opacity="0.28"/>
+    <circle cx="890" cy="65" r="18" fill="#2f7fb8"/>
+    <path d="M881 65l7 7 14-17" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <g transform="translate(728 132)">
+      <circle cx="8" cy="8" r="8" fill="#d9edf9"/>
+      <rect x="25" y="2" width="92" height="12" rx="6" fill="#17456f" opacity="0.82"/>
+      <rect x="132" y="2" width="44" height="12" rx="6" fill="#2f7fb8" opacity="0.34"/>
+    </g>
+  </g>
+
+  <g opacity="0.6">
+    <rect x="628" y="58" width="52" height="12" rx="6" fill="#84bddc"/>
+    <rect x="640" y="82" width="30" height="12" rx="6" fill="#2f7fb8"/>
+    <rect x="614" y="106" width="66" height="12" rx="6" fill="#84bddc"/>
+  </g>
 </svg>
