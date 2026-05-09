@@ -805,7 +805,11 @@ h1 {
 }
 
 .bank-note strong {
+  flex: 0 0 auto;
   font-size: 1.8rem;
+  overflow-wrap: normal;
+  white-space: nowrap;
+  word-break: normal;
 }
 
 .bank-note span {
