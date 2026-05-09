@@ -302,6 +302,8 @@ function addPracticeItem(selected, item, usedIds, usedSignatures) {
 
 function renderPractice() {
   const item = state.quiz[state.index];
+  const review = document.getElementById("practiceReview");
+  if (review) review.hidden = true;
   renderSidePanel();
   if (!item) {
     renderCompletion();
@@ -356,7 +358,20 @@ function checkPracticeAnswer() {
   const item = state.quiz[state.index];
   const correct = state.selected === item.answer;
   state.answered = true;
-  state.responses.push({ id: item.id, category: item.category, subcategory: item.subcategory, correct });
+  state.responses.push({
+    id: item.id,
+    category: item.category,
+    subcategory: item.subcategory,
+    difficulty: item.difficulty,
+    setupText: item.setupText,
+    taskText: item.taskText,
+    options: item.options,
+    answer: item.answer,
+    selected: state.selected,
+    explanation: item.explanation,
+    rationales: item.rationales,
+    correct
+  });
 
   document.querySelectorAll(".answer-option").forEach((option) => {
     const input = option.querySelector("input");
@@ -393,6 +408,38 @@ function renderCompletion() {
   document.getElementById("practiceAnswers").innerHTML = "";
   document.getElementById("checkPracticeAnswer").hidden = true;
   document.getElementById("nextPracticeItem").hidden = true;
+  renderPracticeReview();
+}
+
+function renderPracticeReview() {
+  const review = document.getElementById("practiceReview");
+  if (!review) return;
+
+  review.hidden = false;
+  review.innerHTML = `
+    <h2 id="practiceReviewTitle">Review answers</h2>
+    <p>Use this after the quiz to see the answer, the main reason, and your selected choice.</p>
+    <div class="review-list">
+      ${state.responses.map((response, index) => {
+        const parts = splitTaskText(response.taskText);
+        const selectedRationale = response.rationales && response.rationales[response.selected]
+          ? response.rationales[response.selected]
+          : "This choice does not fit the grammar or meaning of the item.";
+        const selectedLine = response.correct
+          ? "Your answer was correct."
+          : `Your answer: ${response.selected}. ${selectedRationale}`;
+        return `
+          <article class="review-item ${response.correct ? "is-correct" : "is-missed"}">
+            <h3>${index + 1}. ${escapeHtml(response.correct ? "Correct" : "Review this item")}</h3>
+            <p class="review-target"><strong>${escapeHtml(parts.instruction)}</strong>${parts.target ? `<br>${escapeHtml(parts.target)}` : ""}</p>
+            <p class="review-meta">Correct answer: <strong>${escapeHtml(response.answer)}</strong></p>
+            <p class="review-rationale">${escapeHtml(response.explanation || "This is the best answer for the item.")}</p>
+            <p class="review-rationale">${escapeHtml(selectedLine)}</p>
+          </article>
+        `;
+      }).join("")}
+    </div>
+  `;
 }
 
 function renderAiPrompt() {

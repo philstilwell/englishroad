@@ -18,11 +18,22 @@
   box-sizing: border-box;
 }
 
+html,
+body {
+  overflow-x: hidden;
+}
+
 body {
   margin: 0;
   background: linear-gradient(180deg, #f4fbff 0%, #ffffff 48%, #edf7fc 100%);
   color: var(--ink);
   font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  overflow-wrap: anywhere;
+}
+
+img,
+svg {
+  max-width: 100%;
 }
 
 button,
@@ -31,10 +42,40 @@ textarea {
   font: inherit;
 }
 
+button,
+a,
+select,
+textarea {
+  -webkit-tap-highlight-color: transparent;
+}
+
+a:focus-visible,
+button:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid rgba(47, 127, 184, 0.48);
+  outline-offset: 3px;
+}
+
+h1,
+h2,
+h3,
+p,
+li,
+a,
+button,
+span,
+strong {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
 .practice-shell {
-  width: min(1180px, calc(100% - 32px));
+  width: 100%;
+  max-width: 1180px;
   margin: 0 auto;
-  padding: 28px 0;
+  padding: 28px 16px;
+  min-width: 0;
 }
 
 .practice-topbar,
@@ -52,6 +93,7 @@ textarea {
 
 .brand-link {
   flex: 1 1 auto;
+  min-width: 0;
 }
 
 .brand-link img {
@@ -91,6 +133,27 @@ textarea {
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.9);
   box-shadow: var(--shadow);
+}
+
+.panel,
+.practice-topbar,
+.practice-hero,
+.quiz-panel,
+.practice-side,
+.practice-layout,
+.practice-prompt,
+.prompt-help,
+.prompt-task,
+.sentence,
+.answer-option,
+.ai-prompt-box,
+.bank-note,
+.quiz-complete,
+.practice-review,
+.review-item,
+.privacy-note {
+  min-width: 0;
+  overflow-wrap: break-word;
 }
 
 .practice-hero {
@@ -169,6 +232,7 @@ p {
   padding: 0 18px;
   font-weight: 850;
   cursor: pointer;
+  text-align: center;
 }
 
 .primary-action {
@@ -353,6 +417,71 @@ p {
   margin-top: 16px;
 }
 
+.practice-review {
+  margin-top: 18px;
+  border-top: 1px solid var(--line);
+  padding-top: 16px;
+}
+
+.practice-review[hidden] {
+  display: none;
+}
+
+.practice-review h2 {
+  margin: 0;
+  color: var(--blue-dark);
+  font-size: 1.18rem;
+}
+
+.practice-review > p {
+  margin: 6px 0 12px;
+  color: var(--muted);
+  font-weight: 750;
+  line-height: 1.4;
+}
+
+.review-list {
+  display: grid;
+  gap: 10px;
+}
+
+.review-item {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  padding: 12px;
+}
+
+.review-item.is-correct {
+  border-color: rgba(47, 125, 89, 0.4);
+  background: var(--correct-soft);
+}
+
+.review-item.is-missed {
+  border-color: rgba(186, 77, 93, 0.42);
+  background: var(--wrong-soft);
+}
+
+.review-item h3 {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.25;
+}
+
+.review-meta,
+.review-rationale,
+.review-target {
+  margin: 6px 0 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 750;
+  line-height: 1.42;
+}
+
+.review-target {
+  color: var(--ink);
+}
+
 .side-stats {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -484,6 +613,27 @@ p {
   line-height: 1.35;
 }
 
+.privacy-note {
+  margin-top: 16px;
+  border: 1px solid rgba(168, 200, 220, 0.72);
+  border-radius: 8px;
+  background: #f7fcff;
+  padding: 14px 16px;
+}
+
+.privacy-note h2 {
+  margin: 0;
+  color: var(--blue-dark);
+  font-size: 1rem;
+}
+
+.privacy-note p {
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-weight: 750;
+  line-height: 1.42;
+}
+
 .quiz-complete {
   border: 1px solid rgba(47, 127, 184, 0.28);
   border-radius: 8px;
@@ -519,14 +669,21 @@ p {
 
 @media (max-width: 560px) {
   .practice-shell {
-    width: min(100% - 20px, 1180px);
-    padding: 12px 0;
+    padding: 12px 10px;
   }
 
   .practice-hero,
   .quiz-panel,
   .practice-side {
     padding: 16px;
+  }
+
+  .practice-hero h1 {
+    font-size: 1.55rem;
+  }
+
+  .practice-hero p:not(.label) {
+    font-size: 0.92rem;
   }
 
   .practice-progress,
@@ -539,6 +696,16 @@ p {
   }
 
   .sentence {
-    font-size: 1.28rem;
+    font-size: 1.08rem;
+  }
+
+  .prompt-help,
+  .instruction {
+    font-size: 0.92rem;
+  }
+
+  .practice-actions .primary-action,
+  .practice-actions .ghost-action {
+    flex: 1 1 100%;
   }
 }

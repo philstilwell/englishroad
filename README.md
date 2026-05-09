@@ -1,8 +1,19 @@
-# EnglishRoad ESL Assessment
+# EnglishRoad
 
 Static GitHub Pages app for `englishroad.com`.
 
-The assessment uses a generated bank of 1,500 original TOEFL, IELTS, TOEIC, and CEFR-mirrored multiple-choice questions. Each item is generated from a controlled blueprint with coded difficulty, parent category, and sub-weakness. Sessions draw non-repeating questions from the full bank, start with easy items, and only move sharply upward after strong recent accuracy. Missed items are registered under parent weakness categories, `Grammar` and `Vocabulary`, with sub-weaknesses beneath each.
+EnglishRoad has two static tools backed by a generated bank of 2,200 original ESL multiple-choice items.
+
+- **Level Check**: a 100-question unofficial placement tool. It estimates EnglishRoad level, CEFR, TOEFL iBT, IELTS, and TOEIC L&R ranges; shows confidence language; and creates a screenshot-friendly final report.
+- **Practice Quizzes**: 25-question quizzes for A1, A2, B1, B2, C1, and C2. Each quiz uses non-repeating random items from the same bank and includes a copyable AI study prompt for deeper explanations.
+
+Each item is generated from a controlled blueprint with coded difficulty, parent category, practice area, explanation, option rationales, and QA status. Level Check samples across Grammar/Vocabulary, subcategories, and difficulty bands. Missed items are registered under `Grammar` and `Vocabulary` with practice areas beneath each.
+
+The site does not require a login. Level Check can store progress in the browser so a refresh can continue the quiz. Cloudflare Web Analytics is included on the main pages to understand traffic.
+
+## Internal QA
+
+Open `level-check.html?qa=1` or `level-check.html#qa` to view the internal item-bank dashboard. It shows item counts, category coverage, duplicate-risk groups, missing rationales, flagged ambiguity, and QA status issues. The dashboard also includes a JSON export for future audits.
 
 ## Deploy on GitHub Pages
 

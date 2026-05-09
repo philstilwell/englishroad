@@ -1512,6 +1512,9 @@ function renderQaDashboard() {
       <h2 id="qaDashboardTitle">Item Bank Dashboard</h2>
       <p>Shown only when the URL includes <strong>?qa=1</strong> or <strong>#qa</strong>.</p>
     </div>
+    <div class="qa-actions">
+      <button id="downloadQaReport" class="ghost-action" type="button">Download QA JSON</button>
+    </div>
     <div class="qa-summary-grid">
       ${qaMetricCard("Total items", audit.total.toLocaleString())}
       ${qaMetricCard("Missing rationales", audit.missingRationales)}
@@ -1544,6 +1547,40 @@ function renderQaDashboard() {
       ` : "<p>No flagged items in the generated bank.</p>"}
     </section>
   `;
+
+  const exportButton = document.getElementById("downloadQaReport");
+  if (exportButton) exportButton.addEventListener("click", () => downloadQaReport(audit));
+}
+
+function downloadQaReport(audit) {
+  const payload = {
+    generatedAt: new Date().toISOString(),
+    bankSize: state.bank.length,
+    summary: {
+      total: audit.total,
+      missingRationales: audit.missingRationales,
+      duplicateGroups: audit.duplicateGroups,
+      flaggedAmbiguity: audit.flaggedAmbiguity,
+      displayFlags: audit.displayFlags,
+      qaStatusIssues: audit.qaStatusIssues
+    },
+    counts: {
+      category: Object.fromEntries(audit.categoryCounts),
+      difficulty: Object.fromEntries(audit.difficultyCounts),
+      source: Object.fromEntries(audit.sourceCounts),
+      subcategory: Object.fromEntries(audit.subcategoryCounts)
+    },
+    flaggedItems: audit.flaggedItems
+  };
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = "englishroad-item-qa.json";
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  URL.revokeObjectURL(url);
 }
 
 function auditItemBank() {
