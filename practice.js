@@ -53,7 +53,8 @@ const state = {
   selected: "",
   answered: false,
   level: "A2",
-  responses: []
+  responses: [],
+  optionPositionCounts: [0, 0, 0, 0]
 };
 
 let copyPromptResetTimer = null;
@@ -93,7 +94,7 @@ function buildQuestion(blueprint, localIndex, globalIndex, difficulty) {
     setupText: prompt.setup,
     taskText: prompt.task,
     text: prompt.fullText,
-    options: shuffleStable(uniqueOptions(made.options), globalIndex),
+    options: uniqueOptions(made.options),
     answer: made.answer,
     focusKey: made.focusKey || "",
     qaStatus: made.qaStatus || "screened"
@@ -249,6 +250,7 @@ function startPractice(event) {
   state.selected = "";
   state.answered = false;
   state.responses = [];
+  state.optionPositionCounts = [0, 0, 0, 0];
   renderAiPrompt();
   renderPractice();
 }
@@ -287,7 +289,7 @@ function balancedSample(candidates, length) {
     if (isUniquePracticeCandidate(item, usedIds, usedSignatures)) addPracticeItem(selected, item, usedIds, usedSignatures);
   }
 
-  return selected.slice(0, length);
+  return applyBalancedOptionOrders(selected.slice(0, length), state.optionPositionCounts);
 }
 
 function isUniquePracticeCandidate(item, usedIds, usedSignatures) {
@@ -298,6 +300,43 @@ function addPracticeItem(selected, item, usedIds, usedSignatures) {
   selected.push(item);
   usedIds.add(item.id);
   usedSignatures.add(questionSignature(item));
+}
+
+function applyBalancedOptionOrders(items, positionCounts) {
+  return items.map((question) => {
+    const options = orderOptionsWithBalancedAnswerPosition(question.options, question.answer, positionCounts);
+    recordAnswerPosition(options, question.answer, positionCounts);
+    return { ...question, options };
+  });
+}
+
+function orderOptionsWithBalancedAnswerPosition(options, answer, positionCounts) {
+  const unique = uniqueOptions(options);
+  const answerIndex = unique.indexOf(answer);
+  if (answerIndex === -1 || unique.length < 2) return shuffleRandom(unique);
+
+  const answerPosition = chooseBalancedAnswerPosition(positionCounts, unique.length);
+  const distractors = shuffleRandom(unique.filter((option) => option !== answer));
+  const ordered = [];
+  for (let index = 0; index < unique.length; index += 1) {
+    ordered.push(index === answerPosition ? answer : distractors.shift());
+  }
+  return ordered.filter((option) => option !== undefined);
+}
+
+function chooseBalancedAnswerPosition(positionCounts, optionCount) {
+  const counts = positionCounts.slice(0, optionCount);
+  const minCount = Math.min(...counts);
+  const choices = counts
+    .map((count, index) => ({ count, index }))
+    .filter((entry) => entry.count === minCount)
+    .map((entry) => entry.index);
+  return choices[randomInt(choices.length)];
+}
+
+function recordAnswerPosition(options, answer, positionCounts) {
+  const index = options.indexOf(answer);
+  if (index >= 0) positionCounts[index] = (positionCounts[index] || 0) + 1;
 }
 
 function renderPractice() {

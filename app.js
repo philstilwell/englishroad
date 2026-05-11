@@ -5,7 +5,7 @@ const SUPPLEMENTAL_BANK_SIZE = 700;
 const BANK_SIZE = CORE_BANK_SIZE + SUPPLEMENTAL_BANK_SIZE;
 const TEST_MIRRORS = ["TOEFL", "IELTS", "TOEIC", "CEFR"];
 const STORAGE_KEY = "englishroad-level-check-session-v1";
-const SESSION_VERSION = 2;
+const SESSION_VERSION = 3;
 const DIFFICULTY_BANDS = [
   { key: "starter", max: 2.2, target: 28 },
   { key: "developing", max: 3.3, target: 28 },
@@ -200,7 +200,8 @@ const state = {
   usedIds: new Set(),
   usedTexts: new Set(),
   completedAt: "",
-  mixTargets: null
+  mixTargets: null,
+  optionPositionCounts: [0, 0, 0, 0]
 };
 
 function createQuestionBank() {
@@ -229,7 +230,7 @@ function buildQuestion(blueprint, localIndex, globalIndex, difficulty) {
   const made = blueprint.make(localIndex);
   const mirror = TEST_MIRRORS[globalIndex % TEST_MIRRORS.length];
   const prompt = contextualize(made.text, blueprint, localIndex, made);
-  const options = shuffleStable(uniqueOptions(made.options), globalIndex);
+  const options = uniqueOptions(made.options);
   const question = {
     id: `${blueprint.code}-${globalIndex + 1}`,
     blueprint: blueprint.code,
@@ -675,7 +676,46 @@ function chooseQuestion() {
   if (!best) throw new Error("No unused question is available.");
   state.usedIds.add(best.id);
   state.usedTexts.add(questionSignature(best));
-  return best;
+  return prepareQuestionOptions(best);
+}
+
+function prepareQuestionOptions(question) {
+  const options = orderOptionsWithBalancedAnswerPosition(
+    question.options,
+    question.answer,
+    state.optionPositionCounts
+  );
+  recordAnswerPosition(options, question.answer, state.optionPositionCounts);
+  return { ...question, options };
+}
+
+function orderOptionsWithBalancedAnswerPosition(options, answer, positionCounts) {
+  const unique = uniqueOptions(options);
+  const answerIndex = unique.indexOf(answer);
+  if (answerIndex === -1 || unique.length < 2) return shuffleRandom(unique);
+
+  const answerPosition = chooseBalancedAnswerPosition(positionCounts, unique.length);
+  const distractors = shuffleRandom(unique.filter((option) => option !== answer));
+  const ordered = [];
+  for (let index = 0; index < unique.length; index += 1) {
+    ordered.push(index === answerPosition ? answer : distractors.shift());
+  }
+  return ordered.filter((option) => option !== undefined);
+}
+
+function chooseBalancedAnswerPosition(positionCounts, optionCount) {
+  const counts = positionCounts.slice(0, optionCount);
+  const minCount = Math.min(...counts);
+  const choices = counts
+    .map((count, index) => ({ count, index }))
+    .filter((entry) => entry.count === minCount)
+    .map((entry) => entry.index);
+  return choices[randomInt(choices.length)];
+}
+
+function recordAnswerPosition(options, answer, positionCounts) {
+  const index = options.indexOf(answer);
+  if (index >= 0) positionCounts[index] = (positionCounts[index] || 0) + 1;
 }
 
 function createMixTargets() {
@@ -1288,6 +1328,7 @@ function restart() {
   state.usedIds = new Set();
   state.usedTexts = new Set();
   state.completedAt = "";
+  state.optionPositionCounts = [0, 0, 0, 0];
   updateResults();
   renderQuestion();
 }
@@ -1307,10 +1348,13 @@ function persistSession() {
     selected: state.selected,
     currentId: state.current.id,
     completedAt: state.completedAt,
+    currentOptions: state.current.options,
+    optionPositionCounts: state.optionPositionCounts,
     candidateOrderIds: state.candidateOrder.map((question) => question.id),
     usedIds: [...state.usedIds],
     responses: state.responses.map((response) => ({
       id: response.id,
+      options: response.options,
       selected: response.selected,
       correct: response.correct
     }))
@@ -1344,10 +1388,13 @@ function restoreSession() {
     state.ability = clamp(Number(saved.ability) || 1.45, 1, 6);
     state.responses = responses.slice(0, TOTAL_QUESTIONS);
     state.candidateOrder = candidateOrder;
-    state.current = current;
+    state.current = Array.isArray(saved.currentOptions) && saved.currentOptions.includes(current.answer)
+      ? { ...current, options: saved.currentOptions }
+      : current;
     state.answered = Boolean(saved.answered);
     state.selected = saved.selected || "";
     state.completedAt = saved.completedAt || "";
+    state.optionPositionCounts = normalizeOptionPositionCounts(saved.optionPositionCounts);
     state.usedIds = new Set(Array.isArray(saved.usedIds) ? saved.usedIds.filter((id) => byId.has(id)) : []);
     state.usedTexts = new Set([...state.usedIds].map((id) => questionSignature(byId.get(id))));
     state.responses.forEach((response) => {
@@ -1375,9 +1422,17 @@ function hydrateResponse(savedResponse, byId) {
   if (!question) return null;
   return {
     ...question,
+    options: Array.isArray(savedResponse.options) && savedResponse.options.includes(question.answer)
+      ? savedResponse.options
+      : question.options,
     selected: savedResponse.selected || "",
     correct: Boolean(savedResponse.correct)
   };
+}
+
+function normalizeOptionPositionCounts(counts) {
+  if (!Array.isArray(counts) || counts.length < 4) return [0, 0, 0, 0];
+  return counts.slice(0, 4).map((count) => Math.max(0, Number(count) || 0));
 }
 
 function questionMap() {
