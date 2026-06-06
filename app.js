@@ -1,11 +1,11 @@
 const TOTAL_QUESTIONS = 100;
 const FIRST_ESTIMATE_AT = 5;
-const CORE_BANK_SIZE = 1500;
-const SUPPLEMENTAL_BANK_SIZE = 700;
+const CORE_BANK_SIZE = 1800;
+const SUPPLEMENTAL_BANK_SIZE = 2400;
 const BANK_SIZE = CORE_BANK_SIZE + SUPPLEMENTAL_BANK_SIZE;
 const TEST_MIRRORS = ["TOEFL", "IELTS", "TOEIC", "CEFR"];
 const STORAGE_KEY = "englishroad-level-check-session-v1";
-const SESSION_VERSION = 3;
+const SESSION_VERSION = 4;
 const DIFFICULTY_BANDS = [
   { key: "starter", max: 2.2, target: 28 },
   { key: "developing", max: 3.3, target: 28 },
@@ -28,6 +28,15 @@ const learnerSubcategoryLabels = {
   "Reported speech": "Telling what someone said",
   "Reduced clauses": "Short sentences",
   "Advanced sentence structure": "Word order",
+  "Gerunds and infinitives": "Verb patterns",
+  "Question forms": "Questions",
+  "Pronouns and reference": "Pronouns",
+  "Determiners and quantifiers": "Amount words",
+  "Adjective and adverb forms": "Describing words",
+  "Parallel structure": "Same pattern",
+  "Inversion and emphasis": "Emphasis",
+  "Subjunctive and unreal forms": "Formal wishes",
+  "Sentence boundaries": "Sentence boundaries",
   "Everyday vocabulary": "Daily words",
   "Workplace vocabulary": "Work words",
   "Word forms": "Word families",
@@ -75,7 +84,7 @@ const languageGuides = {
   en: {
     title: "How to use EnglishRoad",
     purpose: "EnglishRoad helps English learners check their level. It is a practice tool, not an official test score.",
-    functionText: "You answer multiple-choice questions from a bank of 2,200 items. The items appear in a largely random order, with the first questions being generally easier. They get harder only when many answers are correct. The app estimates TOEFL, IELTS, TOEIC, and CEFR levels and shows grammar and vocabulary areas to practice.",
+    functionText: "You answer multiple-choice questions from a bank of 4,200 items. The items appear in a largely random order, with the first questions being generally easier. They get harder only when many answers are correct. The app estimates TOEFL, IELTS, TOEIC, and CEFR levels and shows grammar and vocabulary areas to practice.",
     steps: [
       "Choose one answer and click Check answer.",
       "You see a first level after 5 answers.",
@@ -86,7 +95,7 @@ const languageGuides = {
   ja: {
     title: "EnglishRoad の使い方",
     purpose: "EnglishRoad は、英語学習者が自分の英語レベルを確認するための練習ツールです。公式の試験スコアではありません。",
-    functionText: "2,200問の中から4択の問題に答えます。問題はだいたいランダムな順番で出ますが、最初はやさしい問題です。正解が多いときだけ、少しずつ難しくなります。TOEFL、IELTS、TOEIC、CEFR の目安と、練習が必要な文法・語彙を表示します。",
+    functionText: "4,200問の中から4択の問題に答えます。問題はだいたいランダムな順番で出ますが、最初はやさしい問題です。正解が多いときだけ、少しずつ難しくなります。TOEFL、IELTS、TOEIC、CEFR の目安と、練習が必要な文法・語彙を表示します。",
     steps: [
       "答えを1つ選び、「Check answer」を押します。",
       "5問答えると、最初のレベルが表示されます。",
@@ -97,7 +106,7 @@ const languageGuides = {
   zh: {
     title: "如何使用 EnglishRoad",
     purpose: "EnglishRoad 帮助英语学习者了解自己的英语水平。这是练习工具，不是官方考试成绩。",
-    functionText: "你会从 2,200 道题中回答选择题。题目大体随机出现，但一开始比较简单。只有当你答对很多题时，题目才会逐渐变难。应用会估算 TOEFL、IELTS、TOEIC 和 CEFR 水平，并显示需要练习的语法和词汇。",
+    functionText: "你会从 4,200 道题中回答选择题。题目大体随机出现，但一开始比较简单。只有当你答对很多题时，题目才会逐渐变难。应用会估算 TOEFL、IELTS、TOEIC 和 CEFR 水平，并显示需要练习的语法和词汇。",
     steps: [
       "选择一个答案，然后点击 Check answer。",
       "回答 5 题后，你会看到第一次水平估计。",
@@ -108,7 +117,7 @@ const languageGuides = {
   es: {
     title: "Cómo usar EnglishRoad",
     purpose: "EnglishRoad ayuda a estudiantes de inglés a conocer su nivel. Es una herramienta de práctica, no una calificación oficial.",
-    functionText: "Respondes preguntas de opción múltiple de un banco de 2,200 ítems. Los ítems aparecen en un orden generalmente aleatorio, pero los primeros son más fáciles. Solo se vuelven más difíciles si aciertas muchas respuestas. La app estima niveles TOEFL, IELTS, TOEIC y CEFR, y muestra gramática y vocabulario para practicar.",
+    functionText: "Respondes preguntas de opción múltiple de un banco de 4,200 ítems. Los ítems aparecen en un orden generalmente aleatorio, pero los primeros son más fáciles. Solo se vuelven más difíciles si aciertas muchas respuestas. La app estima niveles TOEFL, IELTS, TOEIC y CEFR, y muestra gramática y vocabulario para practicar.",
     steps: [
       "Elige una respuesta y pulsa Check answer.",
       "Ves un primer nivel después de 5 respuestas.",
@@ -119,7 +128,7 @@ const languageGuides = {
   te: {
     title: "EnglishRoad ఎలా ఉపయోగించాలి",
     purpose: "EnglishRoad ఆంగ్లం నేర్చుకునే వారికి తమ స్థాయిని తెలుసుకోవడానికి సహాయపడుతుంది. ఇది సాధన సాధనం మాత్రమే; అధికారిక పరీక్ష స్కోరు కాదు.",
-    functionText: "మీరు 2,200 అంశాల బ్యాంక్ నుండి బహుళ ఎంపిక ప్రశ్నలకు సమాధానం ఇస్తారు. అంశాలు సాధారణంగా యాదృచ్ఛిక క్రమంలో వస్తాయి, కానీ మొదటి ప్రశ్నలు సులభంగా ఉంటాయి. మీరు చాలా సరైన సమాధానాలు ఇస్తేనే అవి క్రమంగా కష్టమవుతాయి. ఈ యాప్ TOEFL, IELTS, TOEIC, CEFR స్థాయులను అంచనా వేస్తుంది మరియు సాధన చేయాల్సిన వ్యాకరణం, పదజాలం చూపిస్తుంది.",
+    functionText: "మీరు 4,200 అంశాల బ్యాంక్ నుండి బహుళ ఎంపిక ప్రశ్నలకు సమాధానం ఇస్తారు. అంశాలు సాధారణంగా యాదృచ్ఛిక క్రమంలో వస్తాయి, కానీ మొదటి ప్రశ్నలు సులభంగా ఉంటాయి. మీరు చాలా సరైన సమాధానాలు ఇస్తేనే అవి క్రమంగా కష్టమవుతాయి. ఈ యాప్ TOEFL, IELTS, TOEIC, CEFR స్థాయులను అంచనా వేస్తుంది మరియు సాధన చేయాల్సిన వ్యాకరణం, పదజాలం చూపిస్తుంది.",
     steps: [
       "ఒక సమాధానం ఎంచుకొని Check answer నొక్కండి.",
       "5 సమాధానాల తర్వాత మొదటి స్థాయి కనిపిస్తుంది.",
@@ -130,7 +139,7 @@ const languageGuides = {
   pt: {
     title: "Como usar o EnglishRoad",
     purpose: "O EnglishRoad ajuda estudantes de inglês a ver seu nível. É uma ferramenta de prática, não uma nota oficial.",
-    functionText: "Você responde perguntas de múltipla escolha de um banco de 2.200 itens. Os itens aparecem em uma ordem geralmente aleatória, mas os primeiros são mais fáceis. Eles ficam mais difíceis apenas quando muitas respostas estão corretas. O app estima níveis TOEFL, IELTS, TOEIC e CEFR, e mostra gramática e vocabulário para praticar.",
+    functionText: "Você responde perguntas de múltipla escolha de um banco de 4.200 itens. Os itens aparecem em uma ordem geralmente aleatória, mas os primeiros são mais fáceis. Eles ficam mais difíceis apenas quando muitas respostas estão corretas. O app estima níveis TOEFL, IELTS, TOEIC e CEFR, e mostra gramática e vocabulário para praticar.",
     steps: [
       "Escolha uma resposta e clique em Check answer.",
       "Você vê um primeiro nível depois de 5 respostas.",
@@ -141,7 +150,7 @@ const languageGuides = {
   pl: {
     title: "Jak korzystać z EnglishRoad",
     purpose: "EnglishRoad pomaga osobom uczącym się angielskiego sprawdzić swój poziom. To narzędzie do ćwiczeń, a nie oficjalny wynik egzaminu.",
-    functionText: "Odpowiadasz na pytania wielokrotnego wyboru z banku 2 200 pytań. Pytania pojawiają się w ogólnie losowej kolejności, ale pierwsze pytania są łatwiejsze. Stają się trudniejsze tylko wtedy, gdy wiele odpowiedzi jest poprawnych. Aplikacja szacuje poziomy TOEFL, IELTS, TOEIC i CEFR oraz pokazuje gramatykę i słownictwo do ćwiczenia.",
+    functionText: "Odpowiadasz na pytania wielokrotnego wyboru z banku 4 200 pytań. Pytania pojawiają się w ogólnie losowej kolejności, ale pierwsze pytania są łatwiejsze. Stają się trudniejsze tylko wtedy, gdy wiele odpowiedzi jest poprawnych. Aplikacja szacuje poziomy TOEFL, IELTS, TOEIC i CEFR oraz pokazuje gramatykę i słownictwo do ćwiczenia.",
     steps: [
       "Wybierz jedną odpowiedź i kliknij Check answer.",
       "Pierwszy poziom zobaczysz po 5 odpowiedziach.",
@@ -152,7 +161,7 @@ const languageGuides = {
   ko: {
     title: "EnglishRoad 사용 방법",
     purpose: "EnglishRoad는 영어 학습자가 자신의 영어 수준을 확인하도록 돕는 연습 도구입니다. 공식 시험 점수는 아닙니다.",
-    functionText: "2,200개 문항 은행에서 객관식 문제에 답합니다. 문항은 대체로 무작위 순서로 나오지만, 처음 문제는 더 쉽습니다. 정답이 많을 때만 조금씩 어려워집니다. 앱은 TOEFL, IELTS, TOEIC, CEFR 수준을 추정하고 연습할 문법과 어휘 영역을 보여 줍니다.",
+    functionText: "4,200개 문항 은행에서 객관식 문제에 답합니다. 문항은 대체로 무작위 순서로 나오지만, 처음 문제는 더 쉽습니다. 정답이 많을 때만 조금씩 어려워집니다. 앱은 TOEFL, IELTS, TOEIC, CEFR 수준을 추정하고 연습할 문법과 어휘 영역을 보여 줍니다.",
     steps: [
       "답 하나를 고르고 Check answer를 누르세요.",
       "5문제에 답하면 첫 수준이 보입니다.",
@@ -163,7 +172,7 @@ const languageGuides = {
   fr: {
     title: "Comment utiliser EnglishRoad",
     purpose: "EnglishRoad aide les apprenants d’anglais à connaître leur niveau. C’est un outil d’entraînement, pas un score officiel.",
-    functionText: "Vous répondez à des questions à choix multiple venant d’une banque de 2 200 items. Les items apparaissent dans un ordre généralement aléatoire, mais les premières questions sont plus faciles. Elles deviennent plus difficiles seulement si vous avez beaucoup de bonnes réponses. L’application estime les niveaux TOEFL, IELTS, TOEIC et CEFR, et montre la grammaire et le vocabulaire à travailler.",
+    functionText: "Vous répondez à des questions à choix multiple venant d’une banque de 4 200 items. Les items apparaissent dans un ordre généralement aléatoire, mais les premières questions sont plus faciles. Elles deviennent plus difficiles seulement si vous avez beaucoup de bonnes réponses. L’application estime les niveaux TOEFL, IELTS, TOEIC et CEFR, et montre la grammaire et le vocabulaire à travailler.",
     steps: [
       "Choisissez une réponse et cliquez sur Check answer.",
       "Vous voyez un premier niveau après 5 réponses.",
@@ -307,6 +316,15 @@ function explainAnswer(question) {
   if (question.subcategory === "Reported speech") return "The answer reports the original words clearly and naturally.";
   if (question.subcategory === "Reduced clauses") return "The answer keeps the meaning while using a shorter grammatical form.";
   if (question.subcategory === "Advanced sentence structure") return "Only this option has natural English word order and grammar.";
+  if (question.subcategory === "Gerunds and infinitives") return "Some verbs and adjectives need an -ing form, and some need to plus a verb.";
+  if (question.subcategory === "Question forms") return "The question needs the correct helper word and word order.";
+  if (question.subcategory === "Pronouns and reference") return "The pronoun must clearly point to the right person or thing.";
+  if (question.subcategory === "Determiners and quantifiers") return "The amount word must fit the noun and meaning.";
+  if (question.subcategory === "Adjective and adverb forms") return "The describing word must fit what it describes.";
+  if (question.subcategory === "Parallel structure") return "The answer keeps the same pattern in each part of the list.";
+  if (question.subcategory === "Inversion and emphasis") return "The opening phrase changes the word order in this formal sentence.";
+  if (question.subcategory === "Subjunctive and unreal forms") return "This formal pattern uses the base verb after the request or requirement.";
+  if (question.subcategory === "Sentence boundaries") return "The answer joins or separates the ideas as a complete sentence.";
   if (question.subcategory === "Everyday vocabulary" || question.subcategory === "Nuance" || question.subcategory === "Meaning in context" || question.subcategory === "Academic vocabulary") return `\"${answer}\" best matches the meaning in this item.`;
   if (question.subcategory === "Workplace vocabulary") return `\"${answer}\" fits the work or office meaning in this sentence.`;
   if (question.subcategory === "Word forms") return "The sentence needs this form of the word family.";
@@ -335,6 +353,15 @@ function distractorRationale(question, option) {
   if (question.subcategory === "Count and noncount nouns") return `\"${option}\" does not fit this noun.`;
   if (question.subcategory === "Subject-verb agreement") return `\"${option}\" does not match the subject correctly.`;
   if (question.subcategory === "Comparatives") return `\"${option}\" is not the correct comparison form.`;
+  if (question.subcategory === "Gerunds and infinitives") return `\"${option}\" does not fit the verb pattern in this sentence.`;
+  if (question.subcategory === "Question forms") return `\"${option}\" does not use the correct question word order.`;
+  if (question.subcategory === "Pronouns and reference") return `\"${option}\" does not clearly refer to the right person or thing.`;
+  if (question.subcategory === "Determiners and quantifiers") return `\"${option}\" does not fit this noun or amount.`;
+  if (question.subcategory === "Adjective and adverb forms") return `\"${option}\" does not describe the right word correctly.`;
+  if (question.subcategory === "Parallel structure") return `\"${option}\" does not keep the same pattern in the list.`;
+  if (question.subcategory === "Inversion and emphasis") return `\"${option}\" does not use the correct formal word order.`;
+  if (question.subcategory === "Subjunctive and unreal forms") return `\"${option}\" does not fit this formal request or requirement pattern.`;
+  if (question.subcategory === "Sentence boundaries") return `\"${option}\" does not make the sentence complete and clear.`;
   if (question.subcategory === "Collocations") return `\"${option}\" does not make the natural phrase in this sentence.`;
   if (question.subcategory === "Phrasal verbs") return `\"${option}\" does not complete the common verb phrase.`;
   return `\"${option}\" does not fit the grammar or meaning of this item.`;
@@ -502,6 +529,15 @@ function helpfulSetup(text, blueprint, index = 0, made = {}) {
     "Reported speech": ["A person is telling someone what another person said earlier.", "Choose the sentence that reports the direct quote.", "The original words are being retold later.", "The answer should sound like reported information."],
     "Reduced clauses": ["Choose the shorter sentence that keeps the same meaning.", "The best sentence removes extra words cleanly.", "Choose the clear short form.", "The answer should be shorter but still grammatical."],
     "Advanced sentence structure": ["Choose the sentence with clear word order.", "Read the whole sentence before choosing.", "The answer should make a natural sentence.", "Choose the best answer."],
+    "Gerunds and infinitives": ["Choose the verb pattern that sounds natural.", "Read the word before the blank, then choose the best form.", "The answer should fit the verb pattern.", "Choose the best answer."],
+    "Question forms": ["Choose the question with natural word order.", "Only one choice is a clear question.", "Check the helper word and word order.", "Choose the best question."],
+    "Pronouns and reference": ["Choose the word that clearly points to the right person or thing.", "The answer should make the meaning clear.", "Read the whole sentence before choosing.", "Choose the best answer."],
+    "Determiners and quantifiers": ["Choose the amount word that fits the noun.", "The answer should fit the amount meaning.", "Read the whole sentence before choosing.", "Choose the best answer."],
+    "Adjective and adverb forms": ["Choose the form that describes the right word.", "The answer should sound natural in the sentence.", "Read the whole sentence before choosing.", "Choose the best answer."],
+    "Parallel structure": ["Choose the sentence with the same pattern in each part.", "The list should use matching forms.", "Read all parts of the sentence before choosing.", "Choose the clearest sentence."],
+    "Inversion and emphasis": ["Look for the sentence with natural formal word order.", "Read the opening words and check the word order after them.", "Only one choice has the correct formal word order.", "Choose the best sentence."],
+    "Subjunctive and unreal forms": ["Choose the formal verb form that fits.", "The sentence gives a request or requirement.", "Read the formal pattern before choosing.", "Choose the best answer."],
+    "Sentence boundaries": ["Choose the complete sentence.", "The answer should join the ideas clearly.", "Read both ideas before choosing.", "Choose the sentence with clear punctuation and grammar."],
     "Everyday vocabulary": ["Choose the word with the same meaning.", "Find the closest simple meaning.", "Choose the matching everyday word.", "The answer should mean almost the same thing."],
     "Workplace vocabulary": ["Use the office-message meaning of the word.", "Choose the meaning that fits a work message.", "Think about how this word is used at work.", "The answer should fit an office context."],
     "Word forms": ["Choose the form of the word that fits the sentence.", "The sentence needs the right word-family form.", "Choose the noun, verb, or -ing form that fits.", "The words are from the same family."],

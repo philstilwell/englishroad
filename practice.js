@@ -1,6 +1,6 @@
 const PRACTICE_LENGTH = 25;
-const CORE_BANK_SIZE = 1500;
-const SUPPLEMENTAL_BANK_SIZE = 700;
+const CORE_BANK_SIZE = 1800;
+const SUPPLEMENTAL_BANK_SIZE = 2400;
 const TEST_MIRRORS = ["TOEFL", "IELTS", "TOEIC", "CEFR"];
 
 const learnerSubcategoryLabels = {
@@ -18,6 +18,15 @@ const learnerSubcategoryLabels = {
   "Reported speech": "Telling what someone said",
   "Reduced clauses": "Short sentences",
   "Advanced sentence structure": "Word order",
+  "Gerunds and infinitives": "Verb patterns",
+  "Question forms": "Questions",
+  "Pronouns and reference": "Pronouns",
+  "Determiners and quantifiers": "Amount words",
+  "Adjective and adverb forms": "Describing words",
+  "Parallel structure": "Same pattern",
+  "Inversion and emphasis": "Emphasis",
+  "Subjunctive and unreal forms": "Formal wishes",
+  "Sentence boundaries": "Sentence boundaries",
   "Everyday vocabulary": "Daily words",
   "Workplace vocabulary": "Work words",
   "Word forms": "Word families",
@@ -162,6 +171,15 @@ function helpfulSetup(text, blueprint, index = 0, made = {}) {
     "Reported speech": "Choose the sentence that reports the original words clearly.",
     "Reduced clauses": "Choose the shorter form that keeps the meaning.",
     "Advanced sentence structure": "Choose the sentence with clear word order.",
+    "Gerunds and infinitives": "Choose the verb pattern that sounds natural.",
+    "Question forms": "Choose the question with natural word order.",
+    "Pronouns and reference": "Choose the word that clearly points to the right person or thing.",
+    "Determiners and quantifiers": "Choose the amount word that fits the noun.",
+    "Adjective and adverb forms": "Choose the form that describes the right word.",
+    "Parallel structure": "Choose the sentence with the same pattern in each part.",
+    "Inversion and emphasis": "Choose the formal sentence with clear word order.",
+    "Subjunctive and unreal forms": "Choose the formal verb form that fits.",
+    "Sentence boundaries": "Choose the complete sentence.",
     "Everyday vocabulary": "Choose the word with the closest meaning.",
     "Workplace vocabulary": "Choose the meaning that fits work or office English.",
     "Word forms": "Choose the word-family form that fits.",
@@ -210,6 +228,15 @@ function explainAnswer(question) {
   if (question.subcategory === "Reported speech") return "The answer reports the original words clearly and naturally.";
   if (question.subcategory === "Reduced clauses") return "The answer keeps the meaning while using a shorter grammatical form.";
   if (question.subcategory === "Advanced sentence structure") return "Only this option has natural English word order and grammar.";
+  if (question.subcategory === "Gerunds and infinitives") return "Some verbs and adjectives need an -ing form, and some need to plus a verb.";
+  if (question.subcategory === "Question forms") return "The question needs the correct helper word and word order.";
+  if (question.subcategory === "Pronouns and reference") return "The pronoun must clearly point to the right person or thing.";
+  if (question.subcategory === "Determiners and quantifiers") return "The amount word must fit the noun and meaning.";
+  if (question.subcategory === "Adjective and adverb forms") return "The describing word must fit what it describes.";
+  if (question.subcategory === "Parallel structure") return "The answer keeps the same pattern in each part of the list.";
+  if (question.subcategory === "Inversion and emphasis") return "The opening phrase changes the word order in this formal sentence.";
+  if (question.subcategory === "Subjunctive and unreal forms") return "This formal pattern uses the base verb after the request or requirement.";
+  if (question.subcategory === "Sentence boundaries") return "The answer joins or separates the ideas as a complete sentence.";
   if (question.subcategory === "Everyday vocabulary" || question.subcategory === "Nuance" || question.subcategory === "Meaning in context" || question.subcategory === "Academic vocabulary") return `\"${answer}\" best matches the meaning in this item.`;
   if (question.subcategory === "Workplace vocabulary") return `\"${answer}\" fits the work or office meaning in this sentence.`;
   if (question.subcategory === "Word forms") return "The sentence needs this form of the word family.";
@@ -237,6 +264,15 @@ function distractorRationale(question, option) {
   if (question.subcategory === "Count and noncount nouns") return `\"${option}\" does not fit this noun.`;
   if (question.subcategory === "Subject-verb agreement") return `\"${option}\" does not match the subject correctly.`;
   if (question.subcategory === "Comparatives") return `\"${option}\" is not the correct comparison form.`;
+  if (question.subcategory === "Gerunds and infinitives") return `\"${option}\" does not fit the verb pattern in this sentence.`;
+  if (question.subcategory === "Question forms") return `\"${option}\" does not use the correct question word order.`;
+  if (question.subcategory === "Pronouns and reference") return `\"${option}\" does not clearly refer to the right person or thing.`;
+  if (question.subcategory === "Determiners and quantifiers") return `\"${option}\" does not fit this noun or amount.`;
+  if (question.subcategory === "Adjective and adverb forms") return `\"${option}\" does not describe the right word correctly.`;
+  if (question.subcategory === "Parallel structure") return `\"${option}\" does not keep the same pattern in the list.`;
+  if (question.subcategory === "Inversion and emphasis") return `\"${option}\" does not use the correct formal word order.`;
+  if (question.subcategory === "Subjunctive and unreal forms") return `\"${option}\" does not fit this formal request or requirement pattern.`;
+  if (question.subcategory === "Sentence boundaries") return `\"${option}\" does not make the sentence complete and clear.`;
   if (question.subcategory === "Collocations") return `\"${option}\" does not make the natural phrase in this sentence.`;
   if (question.subcategory === "Phrasal verbs") return `\"${option}\" does not complete the common verb phrase.`;
   return `\"${option}\" does not fit the grammar or meaning of this item.`;

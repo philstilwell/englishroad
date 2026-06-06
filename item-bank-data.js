@@ -361,7 +361,7 @@
       {
         code: "g-inversion",
         category: "Grammar",
-        subcategory: "Advanced sentence structure",
+        subcategory: "Inversion and emphasis",
         difficulty: 5.8,
         make: (i) => {
           const examples = [
@@ -376,6 +376,346 @@
           ];
           const set = pick(examples, i);
           return item(`Choose the correct formal sentence.`, set, set[0]);
+        }
+      },
+      {
+        code: "g-gerund-infinitive",
+        category: "Grammar",
+        subcategory: "Gerunds and infinitives",
+        difficulty: 3.1,
+        make: (i) => {
+          const examples = [
+            ["The teacher suggested ___ the article before class.", "reading", "to read", "read", "to reading"],
+            ["The office agreed ___ the deadline by two days.", "to extend", "extending", "extend", "to extending"],
+            ["Nadia avoided ___ the same mistake twice.", "making", "to make", "make", "to making"],
+            ["The manager expects the team ___ the form today.", "to finish", "finishing", "finish", "to finishing"],
+            ["Students practiced ___ short answers in pairs.", "writing", "to write", "write", "to writing"],
+            ["Carlos hopes ___ the certificate this year.", "to earn", "earning", "earn", "to earning"],
+            ["The notice reminded visitors ___ their badges.", "to wear", "wearing", "wear", "to wearing"],
+            ["Mina is interested in ___ online classes.", "taking", "to take", "take", "to taking"]
+          ];
+          const ex = pick(examples, i);
+          return item(ex[0], ex.slice(1), ex[1]);
+        }
+      },
+      {
+        code: "g-question-forms",
+        category: "Grammar",
+        subcategory: "Question forms",
+        difficulty: 3.3,
+        make: (i) => {
+          const examples = [
+            ["Where did the interview take place?", "Where the interview took place?", "Where did took place the interview?", "Where was the interview took place?"],
+            ["How many students joined the class?", "How many students did joined the class?", "How many joined students the class?", "How many students were join the class?"],
+            ["Why was the office closed yesterday?", "Why the office was closed yesterday?", "Why did the office was closed yesterday?", "Why was closed the office yesterday?"],
+            ["When will the course begin?", "When the course will begin?", "When will begin the course?", "When does the course will begin?"],
+            ["What does this notice mean?", "What this notice means?", "What does mean this notice?", "What is this notice mean?"],
+            ["Who did the teacher call after class?", "Who the teacher called after class?", "Who did called the teacher after class?", "Who was the teacher call after class?"],
+            ["How long has Daniel worked there?", "How long Daniel has worked there?", "How long has worked Daniel there?", "How long did Daniel has worked there?"],
+            ["Which form should applicants complete first?", "Which form applicants should complete first?", "Which form should complete applicants first?", "Which form do applicants should complete first?"]
+          ];
+          const set = pick(examples, i);
+          return item("Choose the correct question.", set, set[0]);
+        }
+      },
+      {
+        code: "g-pronouns-reference",
+        category: "Grammar",
+        subcategory: "Pronouns and reference",
+        difficulty: 3.6,
+        make: (i) => {
+          const examples = [
+            ["The report was long, so I read ___ twice.", "it", "them", "they", "she"],
+            ["Mina and Sofia finished the task, and ___ sent it to the teacher.", "they", "she", "it", "we"],
+            ["The students asked the teacher if ___ could leave early.", "they", "it", "she", "him"],
+            ["The printer is broken, so please do not use ___.", "it", "them", "they", "her"],
+            ["The forms are ready; please put ___ on the desk.", "them", "it", "they", "she"],
+            ["Aiko lost her card, but she found ___ later.", "it", "them", "they", "him"],
+            ["The clinic changed its hours because ___ had fewer evening patients.", "it", "they", "them", "she"],
+            ["The books were heavy, so Carlos carried ___ in two bags.", "them", "it", "they", "he"]
+          ];
+          const ex = pick(examples, i);
+          return item(ex[0], ex.slice(1), ex[1]);
+        }
+      },
+      {
+        code: "g-determiners-quantifiers",
+        category: "Grammar",
+        subcategory: "Determiners and quantifiers",
+        difficulty: 3.7,
+        make: (i) => {
+          const examples = [
+            ["Several students came, but only ___ brought photo ID.", "a few", "much", "any", "a little"],
+            ["There was too ___ noise in the hallway.", "much", "many", "few", "several"],
+            ["We have enough chairs for ___ participant.", "each", "all", "many", "much"],
+            ["The office has ___ copies left, so please print more.", "few", "a little", "much", "every"],
+            ["Both rooms have ___ own projector.", "their", "its", "his", "our"],
+            ["I have ___ time before class, so I can help.", "a little", "few", "many", "several"],
+            ["Neither answer is complete, so ___ one is correct.", "neither", "both", "all", "many"],
+            ["Every applicant must bring ___ passport.", "a", "many", "much", "any"]
+          ];
+          const ex = pick(examples, i);
+          return item(ex[0], ex.slice(1), ex[1]);
+        }
+      },
+      {
+        code: "g-adjective-adverb",
+        category: "Grammar",
+        subcategory: "Adjective and adverb forms",
+        difficulty: 3.9,
+        make: (i) => {
+          const examples = [
+            ["The assistant explained the rule ___.", "clearly", "clear", "clearness", "clearer"],
+            ["The instructions were ___.", "clear", "clearly", "clearness", "clearer than"],
+            ["The speaker talked ___ enough for the class to follow.", "slowly", "slow", "slowness", "slower"],
+            ["The room became ___ after the repair.", "quiet", "quietly", "quietness", "quieter than"],
+            ["The clerk handled the complaint ___.", "politely", "polite", "politeness", "more polite"],
+            ["The result was ___ different from last year.", "slightly", "slight", "slightness", "slighter"],
+            ["The students worked ___ during the practice test.", "carefully", "careful", "carefulness", "more careful"],
+            ["The answer sounds ___.", "natural", "naturally", "nature", "more naturally"]
+          ];
+          const ex = pick(examples, i);
+          return item(ex[0], ex.slice(1), ex[1]);
+        }
+      },
+      {
+        code: "g-sentence-boundaries",
+        category: "Grammar",
+        subcategory: "Sentence boundaries",
+        difficulty: 4.0,
+        make: (i) => {
+          const examples = [
+            ["Although the room was small, everyone found a seat.", "Although the room was small. Everyone found a seat.", "Although the room was small everyone found.", "Although small room, everyone a seat."],
+            ["The train was late, so the class started at ten.", "The train was late, so at ten.", "The train was late. So the class.", "The train late so class started ten."],
+            ["Because the form was missing, the office called the applicant.", "Because the form was missing. The office called.", "Because missing the form, the applicant.", "Because the form missing called the applicant."],
+            ["The instructions were clear; however, several students asked questions.", "The instructions were clear however several students.", "The instructions clear; however asked questions.", "However clear instructions, several students."],
+            ["I checked the report before I sent it.", "I checked the report before.", "Before I sent it the report checked.", "I checked before sent the report."],
+            ["When the meeting ended, the manager sent the notes.", "When the meeting ended. The manager sent.", "When ended meeting, the manager notes.", "The meeting ended when sent the notes."],
+            ["The desk was closed, but the clerk answered the phone.", "The desk was closed but.", "But the clerk answered the phone the desk.", "The desk closed answered phone."],
+            ["If the rain stops, the class will meet outside.", "If the rain stops. The class will.", "If stops rain, class outside.", "The class if rain stops meet outside."]
+          ];
+          const set = pick(examples, i);
+          return item("Choose the complete sentence.", set, set[0]);
+        }
+      },
+      {
+        code: "g-parallel-structure",
+        category: "Grammar",
+        subcategory: "Parallel structure",
+        difficulty: 4.6,
+        make: (i) => {
+          const examples = [
+            ["The program helps students read faster, write clearly, and speak confidently.", "The program helps students read faster, clear writing, and speaking confidently.", "The program helps students reading faster, write clearly, and confident speech.", "The program helps students to read faster, writing clearly, and speak confidence."],
+            ["The new policy is simple, fair, and easy to follow.", "The new policy is simple, fairness, and easy to follow.", "The new policy is simply, fair, and following easily.", "The new policy is simple, it is fair, and following."],
+            ["The workshop teaches planning, writing, and revising.", "The workshop teaches planning, to write, and revision.", "The workshop teaches to plan, writing, and revise.", "The workshop teaches plans, writing, and to revise."],
+            ["The manager asked us to check the data, update the chart, and send the file.", "The manager asked us to check the data, updating the chart, and the file sent.", "The manager asked us checking data, update the chart, and to send the file.", "The manager asked us to check the data, the chart update, and sending the file."],
+            ["The report was accurate, organized, and useful.", "The report was accurate, organization, and useful.", "The report was accurately, organized, and usefulness.", "The report was accuracy, organized, and usefully."],
+            ["Good feedback is specific, timely, and respectful.", "Good feedback is specific, timing, and respectful.", "Good feedback is specifically, timely, and respect.", "Good feedback is specific, time, and respectfully."],
+            ["The course requires reading articles, joining discussions, and completing quizzes.", "The course requires reading articles, discussions to join, and complete quizzes.", "The course requires to read articles, joining discussions, and quizzes completed.", "The course requires article reading, to join discussions, and complete quizzes."],
+            ["The team needs a clear goal, a realistic schedule, and a shared checklist.", "The team needs a clear goal, schedule realistically, and sharing checklist.", "The team needs clearly goal, a realistic schedule, and checklist shared.", "The team needs goal clear, realistic scheduling, and to share checklist."]
+          ];
+          const set = pick(examples, i);
+          return item("Choose the sentence with matching parts.", set, set[0]);
+        }
+      },
+      {
+        code: "g-subjunctive",
+        category: "Grammar",
+        subcategory: "Subjunctive and unreal forms",
+        difficulty: 5.1,
+        make: (i) => {
+          const examples = [
+            ["The policy requires that each visitor ___ a badge.", "wear", "wears", "wore", "wearing"],
+            ["The director suggested that the team ___ the report again.", "review", "reviews", "reviewed", "reviewing"],
+            ["The rule requires that every applicant ___ on time.", "arrive", "arrives", "arrived", "arriving"],
+            ["The teacher requested that each student ___ the form.", "submit", "submits", "submitted", "submitting"],
+            ["The committee recommended that the office ___ the schedule.", "change", "changes", "changed", "changing"],
+            ["It is important that the data ___ accurate.", "be", "is", "are", "being"],
+            ["The lawyer insisted that the contract ___ signed today.", "be", "is", "was", "being"],
+            ["The notice requires that payment ___ made before Friday.", "be", "is", "was", "being"]
+          ];
+          const ex = pick(examples, i);
+          return item(ex[0], ex.slice(1), ex[1]);
+        }
+      },
+      {
+        code: "g-cleft-emphasis",
+        category: "Grammar",
+        subcategory: "Inversion and emphasis",
+        difficulty: 5.5,
+        make: (i) => {
+          const examples = [
+            ["What the office needs most is a clearer schedule.", "What the office needs most are a clearer schedule.", "The office what needs most is a clearer schedule.", "What needs most the office is a clearer schedule."],
+            ["It was Lena who found the missing form.", "It was Lena which found the missing form.", "Lena was it who found the missing form.", "It found Lena who was the missing form."],
+            ["What surprised the class was the final example.", "What surprised the class were the final example.", "The class what surprised was the final example.", "What was surprised the class was the final example."],
+            ["It is the deadline that worries the applicants.", "It is the deadline who worries the applicants.", "The deadline it is that worries applicants.", "It worries the deadline that the applicants."],
+            ["What matters most is clear communication.", "What matter most is clear communication.", "What most matters are clear communication.", "Clear communication what matters most is."],
+            ["It was after lunch that the results arrived.", "It was after lunch when did the results arrived.", "After lunch it was that arrived the results.", "It arrived after lunch that the results."],
+            ["What the students wanted was more practice time.", "What the students wanted were more practice time.", "The students what wanted was more practice time.", "What wanted the students was more practice time."],
+            ["It is this rule that causes the most mistakes.", "It is this rule who causes the most mistakes.", "This rule it is that the most mistakes.", "It causes this rule that most mistakes."]
+          ];
+          const set = pick(examples, i);
+          return item("Choose the sentence that gives clear emphasis.", set, set[0]);
+        }
+      },
+      {
+        code: "v-school-work-terms",
+        category: "Vocabulary",
+        subcategory: "Academic vocabulary",
+        difficulty: 2.7,
+        make: (i) => {
+          const examples = [
+            ["The students must enroll before the class begins.", "enroll", "officially join a course", "pay for lunch", "write a complaint", "leave early"],
+            ["The guide gave a brief overview before the tour.", "overview", "a short general explanation", "a lost object", "a private meeting", "a printed ticket"],
+            ["The form asks for your current address.", "current", "true now", "very expensive", "written by hand", "easy to break"],
+            ["The teacher asked us to identify the main problem.", "identify", "find and name", "repair quickly", "make smaller", "copy twice"],
+            ["The office will notify applicants by email.", "notify", "tell officially", "invite socially", "refuse politely", "clean carefully"],
+            ["The chart shows the annual cost of the program.", "annual", "happening once a year", "happening every day", "very private", "hard to understand"],
+            ["The class will focus on practical skills.", "practical", "useful in real life", "hard to see", "not allowed", "written in the past"],
+            ["The report includes a brief comment from the director.", "brief", "short", "late", "angry", "empty"]
+          ];
+          const set = pick(examples, i);
+          return item(`What does "${set[1]}" mean in this sentence? ${set[0]}`, set.slice(2), set[2]);
+        }
+      },
+      {
+        code: "v-work-actions",
+        category: "Vocabulary",
+        subcategory: "Workplace vocabulary",
+        difficulty: 3.1,
+        make: (i) => {
+          const examples = [
+            ["The supervisor will ___ the final report before it is sent.", "review", "borrow", "ignore", "decorate"],
+            ["Please ___ your password if you cannot log in.", "reset", "translate", "measure", "invite"],
+            ["The office will ___ the appointment if the doctor is sick.", "reschedule", "celebrate", "describe", "rent"],
+            ["The manager will ___ the new rules at the meeting.", "explain", "damage", "lend", "forget"],
+            ["The assistant will ___ the files by date.", "organize", "repair", "refund", "complain"],
+            ["The company will ___ the cost of travel after the trip.", "reimburse", "interrupt", "predict", "borrow"],
+            ["The clerk will ___ your address in the system.", "update", "perform", "measure", "reserve"],
+            ["The team will ___ the plan after receiving feedback.", "revise", "delay", "cancel", "print"]
+          ];
+          const ex = pick(examples, i);
+          return item(ex[0], ex.slice(1), ex[1]);
+        }
+      },
+      {
+        code: "v-cause-result",
+        category: "Vocabulary",
+        subcategory: "Transitions",
+        difficulty: 3.6,
+        make: (i) => {
+          const examples = [
+            ["The form was late; ___, it was not accepted.", "as a result", "in contrast", "for example", "in the meantime"],
+            ["The room was full; ___, the class moved online.", "therefore", "however", "for instance", "similarly"],
+            ["The bus was delayed; ___, several students arrived late.", "as a result", "on the other hand", "for example", "likewise"],
+            ["The instructions were unclear; ___, many people asked questions.", "therefore", "nevertheless", "for instance", "instead"],
+            ["The price increased; ___, fewer customers bought the product.", "as a result", "similarly", "for example", "meanwhile"],
+            ["The website was down; ___, applicants could not submit forms.", "therefore", "however", "for example", "in addition"],
+            ["The reminder was helpful; ___, attendance improved.", "as a result", "in contrast", "for instance", "meanwhile"],
+            ["The office added another clerk; ___, waiting times became shorter.", "therefore", "however", "for example", "otherwise"]
+          ];
+          const ex = pick(examples, i);
+          return item(`Choose the phrase that best connects the ideas: ${ex[0]}`, ex.slice(1), ex[1]);
+        }
+      },
+      {
+        code: "v-precise-verbs",
+        category: "Vocabulary",
+        subcategory: "Nuance",
+        difficulty: 4.1,
+        make: (i) => {
+          const examples = [
+            ["The chart ___ a steady increase in attendance.", "shows", "borrows", "excuses", "carries"],
+            ["The report ___ several possible causes of the delay.", "identifies", "forgets", "decorates", "borrows"],
+            ["The teacher ___ the difference between the two words.", "clarified", "damaged", "delivered", "rented"],
+            ["The policy ___ visitors from entering after six.", "prevents", "invites", "borrows", "translates"],
+            ["The example ___ how the rule works.", "illustrates", "cancels", "repairs", "rents"],
+            ["The survey ___ that most students prefer evening classes.", "indicates", "carries", "prints", "interrupts"],
+            ["The new rule ___ all applicants equally.", "applies to", "borrows from", "laughs at", "sleeps through"],
+            ["The data ___ the manager's main point.", "support", "forget", "rent", "decorate"]
+          ];
+          const ex = pick(examples, i);
+          return item(ex[0], ex.slice(1), ex[1]);
+        }
+      },
+      {
+        code: "v-word-family-advanced",
+        category: "Vocabulary",
+        subcategory: "Word forms",
+        difficulty: 4.5,
+        make: (i) => {
+          const examples = [
+            ["The ___ of the data took two days.", "analysis", "analyze", "analyzed", "analyzing"],
+            ["The manager asked for a more ___ explanation.", "detailed", "detail", "details", "detailing"],
+            ["The chart shows a clear ___ in attendance.", "increase", "increasing", "increased", "increases"],
+            ["The team made a careful ___ of the options.", "comparison", "compare", "compared", "comparing"],
+            ["The school needs written ___ from a parent.", "permission", "permit", "permitted", "permitting"],
+            ["The speaker gave a ___ answer to the question.", "direct", "direction", "directly", "directed"],
+            ["The course requires regular ___ in class.", "participation", "participate", "participated", "participating"],
+            ["The office needs an accurate ___ of the total cost.", "calculation", "calculate", "calculated", "calculating"]
+          ];
+          const ex = pick(examples, i);
+          return item(ex[0], ex.slice(1), ex[1]);
+        }
+      },
+      {
+        code: "v-formal-choice",
+        category: "Vocabulary",
+        subcategory: "Register",
+        difficulty: 5.0,
+        make: (i) => {
+          const examples = [
+            ["We would appreciate your response by Friday.", "Please answer us by Friday, okay?", "Tell us by Friday if you can.", "Get back to us soon if possible."],
+            ["The attached document provides further details.", "The file has more stuff in it.", "Look at the thing I sent for more.", "The attachment tells you more things."],
+            ["Please contact the office if you require assistance.", "Call us if you need help.", "Tell the office if help is wanted.", "You can ask if you get stuck."],
+            ["The meeting has been postponed until Monday.", "The meeting got pushed to Monday.", "We moved the meeting thing to Monday.", "Monday is when the meeting happens now."],
+            ["We apologize for any inconvenience this may cause.", "Sorry if this causes trouble.", "We feel bad if this makes problems.", "Sorry about the mess this causes."],
+            ["Your application is currently under review.", "We are looking at your application now.", "Your form is being checked these days.", "We have your application and look at it."],
+            ["Please confirm your attendance at your earliest convenience.", "Please say if you will come when you can.", "Tell us soon if you are coming.", "Let us know about coming whenever."],
+            ["The revised schedule will be distributed tomorrow.", "We will send the changed schedule tomorrow.", "The new schedule goes out tomorrow.", "Tomorrow we give everyone the fixed schedule."]
+          ];
+          const set = pick(examples, i);
+          return item("Which sentence is best for a formal email?", set, set[0]);
+        }
+      },
+      {
+        code: "v-inference-meaning",
+        category: "Vocabulary",
+        subcategory: "Meaning in context",
+        difficulty: 5.4,
+        make: (i) => {
+          const examples = [
+            ["The manager ruled out closing the office because too many clients still needed help.", "ruled out", "decided not to consider", "made into a law", "wrote on a form", "counted carefully"],
+            ["The team carried out the survey over three weeks.", "carried out", "completed or performed", "held in their hands", "moved outdoors", "cancelled suddenly"],
+            ["The director backed up the decision with sales data.", "backed up", "supported", "moved backward", "copied a file only", "delayed"],
+            ["The teacher went over the rule again before the quiz.", "went over", "reviewed", "walked above", "accepted quickly", "ignored"],
+            ["The company phased out the old system during the summer.", "phased out", "stopped using gradually", "fixed completely", "announced loudly", "sold cheaply"],
+            ["The report points out that costs rose in March.", "points out", "mentions clearly", "draws a picture", "stands near", "hides"],
+            ["The office set aside two rooms for interviews.", "set aside", "reserved", "threw away", "cleaned badly", "counted twice"],
+            ["The plan fell through when the supplier cancelled.", "fell through", "failed to happen", "became stronger", "arrived early", "became cheaper"]
+          ];
+          const set = pick(examples, i);
+          return item(`What does "${set[1]}" mean in this sentence? ${set[0]}`, set.slice(2), set[2]);
+        }
+      },
+      {
+        code: "v-main-point",
+        category: "Vocabulary",
+        subcategory: "Academic vocabulary",
+        difficulty: 5.7,
+        make: (i) => {
+          const examples = [
+            ["The survey was useful, but only twenty students answered it.", "The survey may help, but the number of answers was small.", "The survey proves every student agrees.", "The survey is useless because students answered.", "The survey was about twenty different schools."],
+            ["The new schedule reduced late arrivals, but some evening students still had problems.", "The schedule helped overall, but not for everyone.", "The schedule failed completely for every student.", "Evening students never arrive late now.", "Late arrivals were not measured."],
+            ["The price is lower than before, although delivery now takes longer.", "The product costs less, but customers wait longer.", "The product costs more and arrives faster.", "Delivery is free for all customers.", "The price and delivery time did not change."],
+            ["The app is easy to use, but it needs clearer instructions for new users.", "The app works well, but beginners need more guidance.", "The app is too hard for all users.", "The instructions are perfect for new users.", "No one can use the app."],
+            ["The class improved speaking scores, though writing scores stayed the same.", "Speaking improved, but writing did not.", "Writing improved more than speaking.", "Both speaking and writing became worse.", "The class did not measure speaking."],
+            ["The office answered calls faster after hiring staff, but email replies stayed slow.", "Phone service improved, but email service did not.", "Email replies became faster than calls.", "Hiring staff made every service worse.", "The office stopped answering calls."],
+            ["The training helped new workers, but experienced workers learned little from it.", "The training was useful mainly for new workers.", "Experienced workers learned the most.", "No worker found the training useful.", "The training was only for managers."],
+            ["The policy saved money, but it also made the process more difficult.", "The policy lowered costs but added difficulty.", "The policy cost more and became easier.", "The process did not change.", "The policy had no effect on money."]
+          ];
+          const set = pick(examples, i);
+          return item(`Which sentence best states the main point? ${set[0]}`, set.slice(1), set[1]);
         }
       },
       {
@@ -725,6 +1065,176 @@
         { text: "Choose the correct sentence.", options: ["Most people do not worry about earthquakes.", "Almost people do not worry about earthquakes.", "Most of people do not worry about earthquakes.", "Most of the peoples do not worry about earthquakes."], answer: "Most people do not worry about earthquakes.", subcategory: "Count and noncount nouns" },
         { text: "Which sentence is correct?", options: ["I enjoy watching kittens play.", "I enjoy to watch kittens play.", "I enjoy to look kittens playing.", "I am enjoying to view kittens."], answer: "I enjoy watching kittens play.", subcategory: "Clauses and connectors" },
         { text: "Choose the best sentence.", options: ["It does not matter what people think about you.", "It does not care what people think about you.", "It does not important what people think about you.", "It does not problem what people think about you."], answer: "It does not matter what people think about you.", subcategory: "Advanced sentence structure" }
+      ],
+      verbPatterns: [
+        ["The teacher encouraged students ___ every day.", ["to practice", "practicing", "practice", "to practicing"], "to practice"],
+        ["Lena finished ___ the report before dinner.", ["writing", "to write", "write", "to writing"], "writing"],
+        ["The guide offered ___ us find the station.", ["to help", "helping", "help", "to helping"], "to help"],
+        ["Carlos kept ___ notes during the lecture.", ["taking", "to take", "take", "to taking"], "taking"],
+        ["The office promised ___ the forms by Monday.", ["to send", "sending", "send", "to sending"], "to send"],
+        ["The students stopped ___ when the test began.", ["talking", "to talk", "talk", "to talking"], "talking"],
+        ["Aiko learned ___ the new software quickly.", ["to use", "using", "use", "to using"], "to use"],
+        ["The class discussed ___ the schedule.", ["changing", "to change", "change", "to changing"], "changing"]
+      ],
+      questions: [
+        ["Choose the correct question.", ["Why did the manager cancel the meeting?", "Why the manager cancelled the meeting?", "Why did cancelled the manager the meeting?", "Why was the manager cancel the meeting?"], "Why did the manager cancel the meeting?"],
+        ["Which question is correct?", ["How often do you check your email?", "How often you check your email?", "How often are you check your email?", "How often do check you your email?"], "How often do you check your email?"],
+        ["Choose the correct question.", ["What time does the library open?", "What time the library opens?", "What time does open the library?", "What time is the library open it?"], "What time does the library open?"],
+        ["Which question is correct?", ["Where should we put the extra chairs?", "Where we should put the extra chairs?", "Where should put we the extra chairs?", "Where do we should put the extra chairs?"], "Where should we put the extra chairs?"],
+        ["Choose the correct question.", ["Have you submitted the form yet?", "Have submitted you the form yet?", "Did you submitted the form yet?", "Are you submit the form yet?"], "Have you submitted the form yet?"],
+        ["Which question is correct?", ["Who will lead the discussion?", "Who the discussion will lead?", "Who will leads the discussion?", "Who does will lead the discussion?"], "Who will lead the discussion?"],
+        ["Choose the correct question.", ["How much time do we have?", "How much time we have?", "How much time are we have?", "How much do we have time?"], "How much time do we have?"],
+        ["Which question is correct?", ["Which answer did you choose?", "Which answer you chose?", "Which did you chose answer?", "Which answer were you choose?"], "Which answer did you choose?"]
+      ],
+      pronouns: [
+        ["The old schedule was confusing, so the office replaced ___.", ["it", "them", "they", "her"], "it"],
+        ["The students finished the worksheets and handed ___ in.", ["them", "it", "they", "she"], "them"],
+        ["The teacher spoke to Carlos and asked ___ to read aloud.", ["him", "he", "they", "it"], "him"],
+        ["The course has many lessons, and ___ are all online.", ["they", "it", "them", "he"], "they"],
+        ["Mina emailed the office because ___ needed a receipt.", ["she", "her", "they", "it"], "she"],
+        ["The files are private, so please do not share ___.", ["them", "it", "they", "he"], "them"],
+        ["The notice is important; please read ___ carefully.", ["it", "them", "they", "her"], "it"],
+        ["The children brought umbrellas because ___ expected rain.", ["they", "them", "it", "he"], "they"]
+      ],
+      amountWords: [
+        ["Only ___ people came to the early meeting.", ["a few", "a little", "much", "any"], "a few"],
+        ["We need ___ more time to finish the project.", ["a little", "a few", "many", "several"], "a little"],
+        ["___ participant received a name card.", ["Each", "Many", "Much", "Few"], "Each"],
+        ["The room has ___ chairs for all visitors.", ["enough", "much", "little", "any"], "enough"],
+        ["There are ___ mistakes in this paragraph, so please check it.", ["several", "much", "a little", "every"], "several"],
+        ["The office has ___ paper left, so we can print the forms.", ["some", "many", "few", "several"], "some"],
+        ["___ of the two answers is correct.", ["Neither", "All", "Many", "Several"], "Neither"],
+        ["We invited ten people, and ___ of them replied.", ["most", "much", "each", "any"], "most"]
+      ],
+      describingForms: [
+        ["The speaker answered the question ___.", ["quickly", "quick", "quickness", "quicker"], "quickly"],
+        ["The answer was ___ enough for everyone to understand.", ["simple", "simply", "simplicity", "simpler than"], "simple"],
+        ["The student looked ___ after the long exam.", ["tired", "tiredly", "tiringly", "tire"], "tired"],
+        ["The teacher spoke ___ because the room was noisy.", ["loudly", "loud", "loudness", "louder than"], "loudly"],
+        ["The new instructions are ___ helpful.", ["especially", "especial", "special", "specialness"], "especially"],
+        ["The team worked ___ to meet the deadline.", ["hard", "hardly", "hardness", "harder than"], "hard"],
+        ["The bus arrived ___, so we missed the first activity.", ["late", "lately", "lateness", "later than"], "late"],
+        ["The worksheet was ___ difficult for beginners.", ["too", "to", "very much", "many"], "too"]
+      ],
+      sentenceBoundaries: [
+        ["Choose the complete sentence.", ["The office closed early because the storm was strong.", "The office closed early because.", "Because the storm was strong the office.", "The storm strong, office closed."], "The office closed early because the storm was strong."],
+        ["Which sentence is complete?", ["When the class ended, the students left quietly.", "When the class ended.", "The students left quietly when.", "When ended class, left quietly."], "When the class ended, the students left quietly."],
+        ["Choose the complete sentence.", ["The report was short, but it answered the question.", "The report was short but.", "But it answered the question the report.", "Short report, but answered."], "The report was short, but it answered the question."],
+        ["Which sentence is complete?", ["If the office calls, please write down the message.", "If the office calls.", "Please write down if office.", "The office calls if the message."], "If the office calls, please write down the message."],
+        ["Choose the complete sentence.", ["The form was missing, so the clerk printed another copy.", "The form was missing so.", "So the clerk printed.", "Missing form, another copy clerk."], "The form was missing, so the clerk printed another copy."],
+        ["Which sentence is complete?", ["Although the test was hard, many students passed.", "Although the test was hard.", "Many students passed although.", "Although hard test, passed students."], "Although the test was hard, many students passed."],
+        ["Choose the complete sentence.", ["The email arrived after the meeting had ended.", "After the meeting had ended.", "The email after meeting.", "Had ended the meeting email arrived."], "The email arrived after the meeting had ended."],
+        ["Which sentence is complete?", ["The teacher gave examples, and the class understood the rule.", "The teacher gave examples and.", "And the class understood.", "Examples teacher gave understood rule."], "The teacher gave examples, and the class understood the rule."]
+      ],
+      formalRequirements: [
+        ["The contract requires that each page ___ signed.", ["be", "is", "was", "being"], "be"],
+        ["The principal requested that the teacher ___ the scores today.", ["submit", "submits", "submitted", "submitting"], "submit"],
+        ["The rule requires that every visitor ___ an ID card.", ["show", "shows", "showed", "showing"], "show"],
+        ["The committee recommended that the policy ___ revised.", ["be", "is", "was", "being"], "be"],
+        ["The judge insisted that the document ___ available to both sides.", ["be", "is", "was", "being"], "be"],
+        ["The office requests that each applicant ___ a phone number.", ["provide", "provides", "provided", "providing"], "provide"],
+        ["The notice requires that all bags ___ checked at the entrance.", ["be", "are", "were", "being"], "be"],
+        ["The director suggested that the team ___ a clearer chart.", ["prepare", "prepares", "prepared", "preparing"], "prepare"]
+      ],
+      matchingParts: [
+        ["Choose the sentence with matching parts.", ["The course is useful, practical, and affordable.", "The course is useful, practice, and affordability.", "The course is usefully, practical, and affordable.", "The course is useful, practically, and afford."], "The course is useful, practical, and affordable."],
+        ["Which sentence has matching parts?", ["The plan saves time, reduces errors, and improves service.", "The plan saves time, reducing errors, and service improvement.", "The plan saving time, reduces errors, and improves service.", "The plan saves time, errors are reduced, and improves service."], "The plan saves time, reduces errors, and improves service."],
+        ["Choose the sentence with matching parts.", ["The teacher asked us to read, summarize, and discuss the article.", "The teacher asked us to read, summary, and discussing the article.", "The teacher asked us reading, summarize, and discuss the article.", "The teacher asked us to read, to summary, and discussion."], "The teacher asked us to read, summarize, and discuss the article."],
+        ["Which sentence has matching parts?", ["The job requires patience, accuracy, and good communication.", "The job requires patience, accurate, and communicating well.", "The job requires patiently, accuracy, and good communication.", "The job requires patience, accuracy, and communicate well."], "The job requires patience, accuracy, and good communication."],
+        ["Choose the sentence with matching parts.", ["The report is clear, concise, and well organized.", "The report is clear, concision, and organizing well.", "The report is clearly, concise, and well organized.", "The report is clear, concise, and organization."], "The report is clear, concise, and well organized."],
+        ["Which sentence has matching parts?", ["The app helps users check levels, review mistakes, and plan practice.", "The app helps users check levels, mistakes reviewing, and practice plans.", "The app helps users checking levels, review mistakes, and plan practice.", "The app helps users levels check, mistakes review, and planning practice."], "The app helps users check levels, review mistakes, and plan practice."],
+        ["Choose the sentence with matching parts.", ["Good instructions are short, clear, and easy to follow.", "Good instructions are short, clarity, and easy to follow.", "Good instructions are shortly, clear, and following easily.", "Good instructions are short, clear, and easiness."], "Good instructions are short, clear, and easy to follow."],
+        ["Which sentence has matching parts?", ["The team needs to test the page, fix the errors, and publish the update.", "The team needs to test the page, fixing errors, and the update published.", "The team needs testing the page, fix the errors, and publish update.", "The team needs to test, error fixing, and publishing the update."], "The team needs to test the page, fix the errors, and publish the update."]
+      ],
+      emphasisPatterns: [
+        ["Choose the sentence that gives clear emphasis.", ["It was the schedule that caused the delay.", "It was the schedule who caused the delay.", "The schedule it was caused the delay.", "It caused the schedule that delay."], "It was the schedule that caused the delay."],
+        ["Which sentence gives clear emphasis?", ["What the class needs is more listening practice.", "What the class needs are more listening practice.", "The class what needs is more listening practice.", "What needs the class is more listening practice."], "What the class needs is more listening practice."],
+        ["Choose the sentence that gives clear emphasis.", ["It was Rina who noticed the error first.", "It was Rina which noticed the error first.", "Rina was it who noticed first error.", "It noticed Rina who the error first."], "It was Rina who noticed the error first."],
+        ["Which sentence gives clear emphasis?", ["What matters here is the final deadline.", "What matter here is the final deadline.", "What here matters are the final deadline.", "The final deadline what matters here."], "What matters here is the final deadline."],
+        ["Choose the sentence that gives clear emphasis.", ["Only after the payment arrived did the office send the receipt.", "Only after the payment arrived the office sent the receipt.", "Only after arrived the payment did send the office receipt.", "Only after payment did arrived the office send receipt."], "Only after the payment arrived did the office send the receipt."],
+        ["Which sentence gives clear emphasis?", ["Not until Friday did the manager approve the plan.", "Not until Friday the manager approved the plan.", "Not until Friday did approved the manager the plan.", "Not until approved Friday the manager plan."], "Not until Friday did the manager approve the plan."],
+        ["Choose the sentence that gives clear emphasis.", ["Rarely do students finish the task so quickly.", "Rarely students finish the task so quickly.", "Rarely do finish students the task so quickly.", "Rarely finished students do the task quickly."], "Rarely do students finish the task so quickly."],
+        ["Which sentence gives clear emphasis?", ["What surprised everyone was the low cost.", "What surprised everyone were the low cost.", "Everyone what surprised was the low cost.", "What was surprised everyone was the low cost."], "What surprised everyone was the low cost."]
+      ],
+      schoolTerms: [
+        ["What does \"requirement\" mean in this sentence? A passport is a requirement for this trip.", ["something that is necessary", "something that is optional", "a type of payment", "a short holiday"], "something that is necessary"],
+        ["What does \"evidence\" mean in this sentence? The chart gives evidence for the claim.", ["information that supports an idea", "a personal dislike", "a future plan", "a written apology"], "information that supports an idea"],
+        ["What does \"factor\" mean in this sentence? Cost is one factor in the decision.", ["one thing that affects a result", "a person who signs forms", "a place to study", "a wrong answer"], "one thing that affects a result"],
+        ["What does \"outcome\" mean in this sentence? The outcome of the meeting was positive.", ["the result", "the location", "the invitation", "the question"], "the result"],
+        ["What does \"source\" mean in this sentence? Please include the source of this information.", ["where the information came from", "when the class begins", "how much money is needed", "who will clean the room"], "where the information came from"],
+        ["What does \"accurate\" mean in this sentence? The final number must be accurate.", ["correct", "early", "private", "heavy"], "correct"],
+        ["What does \"relevant\" mean in this sentence? Please include only relevant details.", ["closely connected to the topic", "very expensive", "easy to pronounce", "written in pencil"], "closely connected to the topic"],
+        ["What does \"complex\" mean in this sentence? The process is complex.", ["having many parts", "very cheap", "not allowed", "full of light"], "having many parts"]
+      ],
+      preciseActions: [
+        ["The report ___ the main reason for the delay.", ["explains", "borrows", "washes", "decorates"], "explains"],
+        ["The new software ___ the number of typing errors.", ["reduces", "invites", "repairs", "borrows"], "reduces"],
+        ["The teacher ___ the answer with a simple example.", ["demonstrated", "cancelled", "borrowed", "refunded"], "demonstrated"],
+        ["The manager ___ the problem before choosing a solution.", ["analyzed", "decorated", "returned", "rented"], "analyzed"],
+        ["The form ___ a signature at the bottom.", ["requires", "hides", "borrows", "celebrates"], "requires"],
+        ["The office ___ all applicants by email.", ["contacted", "measured", "damaged", "translated"], "contacted"],
+        ["The data ___ that attendance improved.", ["suggest", "borrow", "decorate", "interrupt"], "suggest"],
+        ["The teacher ___ the instructions to make them easier.", ["simplified", "borrowed", "escaped", "rented"], "simplified"]
+      ],
+      formalEmail: [
+        ["Which sentence is best for a formal email?", ["Thank you for your prompt response.", "Thanks for answering fast.", "Cool, you answered quickly.", "Nice, you got back to me."], "Thank you for your prompt response."],
+        ["Which sentence is best for a formal email?", ["Please find the updated schedule attached.", "Here is the fixed schedule thing.", "I stuck the new schedule here.", "The schedule is with this email, okay."], "Please find the updated schedule attached."],
+        ["Which sentence is best for a formal email?", ["I would be grateful for any additional information.", "Give me more details if you have them.", "More info would be nice.", "Send extra stuff if possible."], "I would be grateful for any additional information."],
+        ["Which sentence is best for a formal email?", ["We look forward to your reply.", "We want you to answer soon.", "Please write back when you can.", "Hope you message us."], "We look forward to your reply."],
+        ["Which sentence is best for a formal email?", ["The issue has now been resolved.", "The problem is fixed now.", "We fixed the thing.", "That trouble is done."], "The issue has now been resolved."],
+        ["Which sentence is best for a formal email?", ["Please accept our apologies for the delay.", "Sorry we were late.", "Sorry for taking so long.", "We are sorry about the slow reply."], "Please accept our apologies for the delay."],
+        ["Which sentence is best for a formal email?", ["Further details will be provided next week.", "More details come next week.", "We will tell you more stuff next week.", "Next week you get more."], "Further details will be provided next week."],
+        ["Which sentence is best for a formal email?", ["Your request has been approved.", "Your request is okay.", "We said yes to your request.", "Your request got a yes."], "Your request has been approved."]
+      ],
+      higherMeanings: [
+        ["What does \"feasible\" mean in this sentence? The plan is feasible if we hire one more worker.", ["possible to do", "too expensive to discuss", "already finished", "not connected"], "possible to do"],
+        ["What does \"temporary\" mean in this sentence? This is a temporary rule for the summer.", ["lasting for a short time", "required by law", "easy to measure", "very popular"], "lasting for a short time"],
+        ["What does \"priority\" mean in this sentence? Safety is our top priority.", ["most important concern", "oldest problem", "written answer", "private opinion"], "most important concern"],
+        ["What does \"consistent\" mean in this sentence? Her attendance has been consistent.", ["steady and regular", "late and careless", "short and simple", "private and hidden"], "steady and regular"],
+        ["What does \"approach\" mean in this sentence? We need a new approach to this problem.", ["way of dealing with something", "place near a door", "written signature", "late payment"], "way of dealing with something"],
+        ["What does \"substantial\" mean in this sentence? The change made a substantial difference.", ["large or important", "hard to see", "not allowed", "written in advance"], "large or important"],
+        ["What does \"retain\" mean in this sentence? The company wants to retain experienced workers.", ["keep", "train for the first time", "pay late", "ask to leave"], "keep"],
+        ["What does \"briefly\" mean in this sentence? Please explain the issue briefly.", ["in a short way", "with great anger", "at a later time", "with no reason"], "in a short way"]
+      ],
+      moreWordFamilies: [
+        ["The teacher gave a clear ___ of the new rule.", ["explanation", "explain", "explained", "explaining"], "explanation"],
+        ["The ___ of the office will begin next month.", ["renovation", "renovate", "renovated", "renovating"], "renovation"],
+        ["The company made an important ___ yesterday.", ["announcement", "announce", "announced", "announcing"], "announcement"],
+        ["The student gave a very ___ answer.", ["confident", "confidence", "confidently", "confide"], "confident"],
+        ["The ___ of the new system took three weeks.", ["installation", "install", "installed", "installing"], "installation"],
+        ["The instructions were written ___ for beginners.", ["clearly", "clear", "clarity", "clearer"], "clearly"],
+        ["The team needs a more ___ solution.", ["practical", "practice", "practically", "practiced"], "practical"],
+        ["The school asked for ___ before the trip.", ["permission", "permit", "permitted", "permitting"], "permission"]
+      ],
+      resultLinks: [
+        ["The teacher spoke slowly; ___, the students understood the rule.", ["as a result", "however", "for example", "in contrast"], "as a result"],
+        ["The price was high; ___, many customers waited for a sale.", ["therefore", "similarly", "for instance", "meanwhile"], "therefore"],
+        ["The train arrived early; ___, we had time for coffee.", ["as a result", "however", "for example", "nevertheless"], "as a result"],
+        ["The form was incomplete; ___, the office returned it.", ["therefore", "in contrast", "for example", "similarly"], "therefore"],
+        ["The room was too small; ___, the meeting moved downstairs.", ["as a result", "for instance", "however", "likewise"], "as a result"],
+        ["The website was easier to use; ___, more people completed the form.", ["therefore", "however", "meanwhile", "for example"], "therefore"],
+        ["The office sent reminders; ___, fewer people missed appointments.", ["as a result", "in contrast", "for example", "otherwise"], "as a result"],
+        ["The lesson included examples; ___, the homework was easier.", ["therefore", "however", "in contrast", "for instance"], "therefore"]
+      ],
+      phraseMeanings: [
+        ["What does \"look into\" mean in this sentence? The manager will look into the complaint.", ["examine", "enter", "watch from outside", "forget"], "examine"],
+        ["What does \"set up\" mean in this sentence? The assistant will set up the meeting room.", ["prepare", "cancel", "clean badly", "leave"], "prepare"],
+        ["What does \"take over\" mean in this sentence? Lina will take over the project next week.", ["become responsible for", "throw away", "visit briefly", "pay for"], "become responsible for"],
+        ["What does \"bring up\" mean in this sentence? Please bring up the safety issue at the meeting.", ["mention", "carry upstairs", "make louder", "hide"], "mention"],
+        ["What does \"work out\" mean in this sentence? The plan worked out well.", ["succeeded", "exercised", "became more expensive", "left early"], "succeeded"],
+        ["What does \"turn down\" mean in this sentence? The applicant turned down the job offer.", ["refused", "made quieter", "arrived late", "accepted"], "refused"],
+        ["What does \"find out\" mean in this sentence? We need to find out why the file is missing.", ["discover", "lose", "pay", "translate"], "discover"],
+        ["What does \"carry on\" mean in this sentence? The class will carry on after lunch.", ["continue", "hold something", "arrive", "complain"], "continue"]
+      ],
+      carefulClaims: [
+        ["Which sentence is careful and not too strong?", ["The results suggest that practice may improve scores.", "Practice always guarantees perfect scores.", "The results prove every student will improve.", "No other factor matters."], "The results suggest that practice may improve scores."],
+        ["Which sentence is careful and not too strong?", ["The survey indicates that cost may affect enrollment.", "Cost is the only reason people enroll.", "The survey proves all students think the same way.", "No student cares about anything except cost."], "The survey indicates that cost may affect enrollment."],
+        ["Which sentence is careful and not too strong?", ["The data suggest that reminders may reduce missed appointments.", "Reminders always stop missed appointments.", "The data prove people never forget after reminders.", "No other problem affects attendance."], "The data suggest that reminders may reduce missed appointments."],
+        ["Which sentence is careful and not too strong?", ["The chart indicates that demand may increase next month.", "Demand will certainly increase forever.", "The chart proves every customer will buy more.", "Demand cannot decrease."], "The chart indicates that demand may increase next month."],
+        ["Which sentence is careful and not too strong?", ["The report suggests that clearer forms may reduce errors.", "Clearer forms remove all errors every time.", "The report proves no one will ever make a mistake.", "Errors happen only because forms are unclear."], "The report suggests that clearer forms may reduce errors."],
+        ["Which sentence is careful and not too strong?", ["The pattern suggests that smaller classes may help participation.", "Small classes always make every student participate.", "The pattern proves class size is the only factor.", "Participation cannot improve in large classes."], "The pattern suggests that smaller classes may help participation."],
+        ["Which sentence is careful and not too strong?", ["The responses indicate that location may influence attendance.", "Location completely controls attendance.", "The responses prove everyone chooses by location only.", "No other issue affects attendance."], "The responses indicate that location may influence attendance."],
+        ["Which sentence is careful and not too strong?", ["The evidence suggests that training may improve customer service.", "Training always creates perfect customer service.", "The evidence proves all workers improve equally.", "No worker needs anything except training."], "The evidence suggests that training may improve customer service."]
       ]
     };
     
@@ -734,12 +1244,29 @@
       { code: "s-verb-forms", category: "Grammar", subcategory: "Verb tense", difficultyOffset: -0.04, sets: supplementalQuestionSets.verbForms },
       { code: "s-prepositions", category: "Grammar", subcategory: "Prepositions", difficultyOffset: -0.02, sets: supplementalQuestionSets.prepositions },
       { code: "s-nouns", category: "Grammar", subcategory: "Count and noncount nouns", difficultyOffset: -0.1, sets: supplementalQuestionSets.articlesAndNouns },
-      { code: "s-infinitives", category: "Grammar", subcategory: "Clauses and connectors", difficultyOffset: 0.08, sets: supplementalQuestionSets.infinitivesAndGerunds },
+      { code: "s-infinitives", category: "Grammar", subcategory: "Gerunds and infinitives", difficultyOffset: 0.08, sets: supplementalQuestionSets.infinitivesAndGerunds },
       { code: "s-word-forms", category: "Vocabulary", subcategory: "Word forms", difficultyOffset: 0.03, sets: supplementalQuestionSets.wordForms },
       { code: "s-workplace", category: "Vocabulary", subcategory: "Workplace vocabulary", difficultyOffset: 0.12, sets: supplementalQuestionSets.workplace },
       { code: "s-phrases", category: "Vocabulary", subcategory: "Phrasal verbs", difficultyOffset: 0.06, sets: supplementalQuestionSets.commonPhrases },
       { code: "s-links", category: "Vocabulary", subcategory: "Transitions", difficultyOffset: 0.14, sets: supplementalQuestionSets.linksAndClauses },
-      { code: "s-correct-sentence", category: "Grammar", subcategory: "Advanced sentence structure", difficultyOffset: 0.18, sets: supplementalQuestionSets.correctSentences }
+      { code: "s-correct-sentence", category: "Grammar", subcategory: "Advanced sentence structure", difficultyOffset: 0.18, sets: supplementalQuestionSets.correctSentences },
+      { code: "s-verb-patterns", category: "Grammar", subcategory: "Gerunds and infinitives", difficultyOffset: 0.16, sets: supplementalQuestionSets.verbPatterns },
+      { code: "s-questions", category: "Grammar", subcategory: "Question forms", difficultyOffset: 0.08, sets: supplementalQuestionSets.questions },
+      { code: "s-pronouns", category: "Grammar", subcategory: "Pronouns and reference", difficultyOffset: 0.04, sets: supplementalQuestionSets.pronouns },
+      { code: "s-amount-words", category: "Grammar", subcategory: "Determiners and quantifiers", difficultyOffset: 0.06, sets: supplementalQuestionSets.amountWords },
+      { code: "s-describing-forms", category: "Grammar", subcategory: "Adjective and adverb forms", difficultyOffset: 0.12, sets: supplementalQuestionSets.describingForms },
+      { code: "s-sentence-boundaries", category: "Grammar", subcategory: "Sentence boundaries", difficultyOffset: 0.2, sets: supplementalQuestionSets.sentenceBoundaries },
+      { code: "s-formal-requirements", category: "Grammar", subcategory: "Subjunctive and unreal forms", difficultyOffset: 0.28, sets: supplementalQuestionSets.formalRequirements },
+      { code: "s-matching-parts", category: "Grammar", subcategory: "Parallel structure", difficultyOffset: 0.24, sets: supplementalQuestionSets.matchingParts },
+      { code: "s-emphasis", category: "Grammar", subcategory: "Inversion and emphasis", difficultyOffset: 0.34, sets: supplementalQuestionSets.emphasisPatterns },
+      { code: "s-school-terms", category: "Vocabulary", subcategory: "Academic vocabulary", difficultyOffset: 0.12, sets: supplementalQuestionSets.schoolTerms },
+      { code: "s-precise-actions", category: "Vocabulary", subcategory: "Nuance", difficultyOffset: 0.18, sets: supplementalQuestionSets.preciseActions },
+      { code: "s-formal-email", category: "Vocabulary", subcategory: "Register", difficultyOffset: 0.24, sets: supplementalQuestionSets.formalEmail },
+      { code: "s-higher-meanings", category: "Vocabulary", subcategory: "Meaning in context", difficultyOffset: 0.28, sets: supplementalQuestionSets.higherMeanings },
+      { code: "s-more-word-families", category: "Vocabulary", subcategory: "Word forms", difficultyOffset: 0.18, sets: supplementalQuestionSets.moreWordFamilies },
+      { code: "s-result-links", category: "Vocabulary", subcategory: "Transitions", difficultyOffset: 0.16, sets: supplementalQuestionSets.resultLinks },
+      { code: "s-phrase-meanings", category: "Vocabulary", subcategory: "Phrasal verbs", difficultyOffset: 0.22, sets: supplementalQuestionSets.phraseMeanings },
+      { code: "s-careful-claims", category: "Vocabulary", subcategory: "Hedging and precision", difficultyOffset: 0.32, sets: supplementalQuestionSets.carefulClaims }
     ].map((blueprint) => ({
       ...blueprint,
       make: (i) => {
@@ -760,7 +1287,24 @@
       "s-workplace": [1.8, 4.4],
       "s-phrases": [1.75, 4.15],
       "s-links": [2.05, 4.5],
-      "s-correct-sentence": [1.35, 3.95]
+      "s-correct-sentence": [1.35, 3.95],
+      "s-verb-patterns": [2.15, 4.85],
+      "s-questions": [1.85, 4.15],
+      "s-pronouns": [1.65, 3.85],
+      "s-amount-words": [1.6, 4.05],
+      "s-describing-forms": [1.85, 4.25],
+      "s-sentence-boundaries": [2.35, 5.05],
+      "s-formal-requirements": [4.35, 6],
+      "s-matching-parts": [3.55, 5.7],
+      "s-emphasis": [4.45, 6],
+      "s-school-terms": [2.05, 4.55],
+      "s-precise-actions": [2.65, 5.05],
+      "s-formal-email": [3.6, 5.8],
+      "s-higher-meanings": [3.75, 6],
+      "s-more-word-families": [2.5, 5.3],
+      "s-result-links": [2.2, 4.8],
+      "s-phrase-meanings": [3.25, 5.75],
+      "s-careful-claims": [4.25, 6]
     };
     
 
