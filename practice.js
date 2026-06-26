@@ -295,47 +295,80 @@ function selectQuizItems(level) {
   const band = levelBands[level] || levelBands.A2;
   const nearby = state.bank.filter((question) => question.difficulty >= band.low && question.difficulty <= band.high);
   const widened = state.bank.filter((question) => question.difficulty >= band.low - 0.35 && question.difficulty <= band.high + 0.35);
-  const candidates = nearby.length >= PRACTICE_LENGTH ? nearby : widened;
+  const candidates = shouldUseWidenedPracticePool(nearby, widened, PRACTICE_LENGTH) ? widened : nearby;
   return balancedSample(candidates, PRACTICE_LENGTH);
+}
+
+function shouldUseWidenedPracticePool(nearby, widened, length) {
+  if (nearby.length < length) return true;
+  const nearbyBlueprints = new Set(nearby.map((question) => question.blueprint)).size;
+  const widenedBlueprints = new Set(widened.map((question) => question.blueprint)).size;
+  return nearbyBlueprints < length && widenedBlueprints > nearbyBlueprints;
 }
 
 function balancedSample(candidates, length) {
   const pool = shuffleRandom(candidates);
   const selected = [];
-  const usedIds = new Set();
-  const usedSignatures = new Set();
-  const categoryCounts = {};
-  const subcategoryCounts = {};
+  const trackers = createPracticeTrackers();
   const targetCategory = Math.ceil(length / 2);
+  const passes = [
+    { categoryLimit: targetCategory + 1, subcategoryLimit: 2, blueprintLimit: 1, requireUnusedFocus: true },
+    { categoryLimit: targetCategory + 2, subcategoryLimit: 3, blueprintLimit: 2, requireUnusedFocus: true },
+    { categoryLimit: targetCategory + 4, subcategoryLimit: 4, blueprintLimit: 3, requireUnusedFocus: true },
+    { categoryLimit: length, subcategoryLimit: 5, blueprintLimit: 4, requireUnusedFocus: false },
+    { categoryLimit: length, subcategoryLimit: length, blueprintLimit: length, requireUnusedFocus: false }
+  ];
 
-  for (const item of pool) {
+  for (const pass of passes) {
+    for (const item of pool) {
+      if (selected.length >= length) break;
+      if (!canAddPracticeItem(item, trackers, pass)) continue;
+      addPracticeItem(selected, item, trackers);
+    }
     if (selected.length >= length) break;
-    if (!isUniquePracticeCandidate(item, usedIds, usedSignatures)) continue;
-    const categoryCount = categoryCounts[item.category] || 0;
-    const subcategoryCount = subcategoryCounts[item.subcategory] || 0;
-    if (categoryCount >= targetCategory + 2) continue;
-    if (subcategoryCount >= 4) continue;
-    addPracticeItem(selected, item, usedIds, usedSignatures);
-    incrementCount(categoryCounts, item.category);
-    incrementCount(subcategoryCounts, item.subcategory);
-  }
-
-  for (const item of pool) {
-    if (selected.length >= length) break;
-    if (isUniquePracticeCandidate(item, usedIds, usedSignatures)) addPracticeItem(selected, item, usedIds, usedSignatures);
   }
 
   return applyBalancedOptionOrders(selected.slice(0, length), state.optionPositionCounts);
+}
+
+function createPracticeTrackers() {
+  return {
+    usedIds: new Set(),
+    usedSignatures: new Set(),
+    usedFocusKeys: new Set(),
+    categoryCounts: {},
+    subcategoryCounts: {},
+    blueprintCounts: {}
+  };
+}
+
+function canAddPracticeItem(item, trackers, limits) {
+  if (!isUniquePracticeCandidate(item, trackers.usedIds, trackers.usedSignatures)) return false;
+  const focusKey = practiceFocusKey(item);
+  if (limits.requireUnusedFocus && focusKey && trackers.usedFocusKeys.has(focusKey)) return false;
+  if ((trackers.categoryCounts[item.category] || 0) >= limits.categoryLimit) return false;
+  if ((trackers.subcategoryCounts[item.subcategory] || 0) >= limits.subcategoryLimit) return false;
+  if ((trackers.blueprintCounts[item.blueprint] || 0) >= limits.blueprintLimit) return false;
+  return true;
 }
 
 function isUniquePracticeCandidate(item, usedIds, usedSignatures) {
   return !usedIds.has(item.id) && !usedSignatures.has(questionSignature(item));
 }
 
-function addPracticeItem(selected, item, usedIds, usedSignatures) {
+function addPracticeItem(selected, item, trackers) {
   selected.push(item);
-  usedIds.add(item.id);
-  usedSignatures.add(questionSignature(item));
+  trackers.usedIds.add(item.id);
+  trackers.usedSignatures.add(questionSignature(item));
+  const focusKey = practiceFocusKey(item);
+  if (focusKey) trackers.usedFocusKeys.add(focusKey);
+  incrementCount(trackers.categoryCounts, item.category);
+  incrementCount(trackers.subcategoryCounts, item.subcategory);
+  incrementCount(trackers.blueprintCounts, item.blueprint);
+}
+
+function practiceFocusKey(item) {
+  return item.focusKey || "";
 }
 
 function applyBalancedOptionOrders(items, positionCounts) {
