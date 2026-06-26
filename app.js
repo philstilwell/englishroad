@@ -600,6 +600,7 @@ function validateBank(bank) {
     const technicalTerm = forbiddenPromptTerms.find((term) => normalizeQuestionText(question.taskText).includes(term));
     if (technicalTerm) issues.push(`Technical prompt term "${technicalTerm}": ${question.id}`);
     if (question.options.includes("no article")) issues.push(`Use (nothing), not no article: ${question.id}`);
+    if (hasArticleAmbiguity(question)) issues.push(`Article ambiguity: ${question.id}`);
     if (hasKnownAnswerAmbiguity(question)) issues.push(`Possible multiple correct answers: ${question.id}`);
     if (hasKnownAwkwardPhrase(question)) issues.push(`Awkward phrase: ${question.id}`);
     const displayProblem = hasDisplayGuidanceProblem(question);
@@ -633,6 +634,12 @@ function hasKnownAnswerAmbiguity(question) {
   if (task.includes("the old copy machine") && options.includes("will discuss replacement of")) return true;
   if (task.includes("please ___ the contract") && (options.includes("write on") || options.includes("put") || options.includes("add"))) return true;
   return task.includes("due ___ the end of the week") && question.options.includes("at") && question.options.includes("by");
+}
+
+function hasArticleAmbiguity(question) {
+  const answer = normalizeQuestionText(question.answer);
+  const options = question.options.map(normalizeQuestionText);
+  return ["a", "an"].includes(answer) && (options.includes("the") || options.includes("some"));
 }
 
 function hasKnownAwkwardPhrase(question) {

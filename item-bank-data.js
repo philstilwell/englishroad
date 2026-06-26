@@ -130,14 +130,14 @@
         difficulty: 1.8,
         make: (i) => {
           const examples = [
-            ["The receptionist gave me ___ appointment card.", "an"],
-            ["We need ___ updated map for the new students.", "an"],
-            ["Carlos found ___ useful chart in the report.", "a"],
-            ["The office has ___ printer near the entrance.", "a"],
-            ["Please read ___ instructions before signing.", "the"]
+            ["The receptionist gave me ___ appointment card.", "an", ["a", "an", "many", "(nothing)"]],
+            ["We need ___ updated map for the new students.", "an", ["a", "an", "many", "(nothing)"]],
+            ["Carlos found ___ useful chart in the report.", "a", ["a", "an", "many", "(nothing)"]],
+            ["The office has ___ printer near the entrance.", "a", ["a", "an", "many", "(nothing)"]],
+            ["Please bring ___ umbrella if it rains.", "an", ["a", "an", "many", "(nothing)"]]
           ];
           const ex = pick(examples, i);
-          return item(ex[0], ["a", "an", "the", "(nothing)"], ex[1]);
+          return item(ex[0], ex[2], ex[1]);
         }
       },
       {
@@ -957,7 +957,7 @@
         ["We have the same opinion ___ this issue.", ["on", "for", "to", "with"], "on"]
       ],
       articlesAndNouns: [
-        ["I found my keys under ___ old chair.", ["an", "a", "the", "(nothing)"], "an"],
+        ["I found my keys under ___ old chair.", ["an", "a", "many", "(nothing)"], "an"],
         ["I bought a new car. ___ car is red.", ["The", "And", "Because a", "New"], "The"],
         ["Are you able to play ___ piano?", ["the", "a", "for", "on"], "the"],
         ["I have ___ information about the competition.", ["much", "many", "several", "a few"], "much"],
