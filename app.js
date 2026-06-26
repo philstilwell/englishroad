@@ -12,6 +12,13 @@ const DIFFICULTY_BANDS = [
   { key: "independent", max: 4.5, target: 24 },
   { key: "advanced", max: 6.1, target: 20 }
 ];
+const LEVEL_CHECK_DIVERSITY_PASSES = [
+  { categoryLimit: 56, subcategoryLimit: 7, blueprintLimit: 3, focusLimit: 1, avoidRecentBlueprint: true },
+  { categoryLimit: 58, subcategoryLimit: 9, blueprintLimit: 4, focusLimit: 1, avoidRecentBlueprint: false },
+  { categoryLimit: 62, subcategoryLimit: 11, blueprintLimit: 5, focusLimit: 2, avoidRecentBlueprint: false },
+  { categoryLimit: 70, subcategoryLimit: 14, blueprintLimit: 7, focusLimit: 3, avoidRecentBlueprint: false },
+  { categoryLimit: TOTAL_QUESTIONS, subcategoryLimit: TOTAL_QUESTIONS, blueprintLimit: TOTAL_QUESTIONS, focusLimit: TOTAL_QUESTIONS, avoidRecentBlueprint: false }
+];
 
 const learnerSubcategoryLabels = {
   "Verb tense": "Verbs",
@@ -700,27 +707,58 @@ function chooseQuestion() {
   let best = null;
   let bestScore = Number.POSITIVE_INFINITY;
 
-  for (const question of state.candidateOrder) {
-    if (state.usedIds.has(question.id) || state.usedTexts.has(questionSignature(question))) continue;
-    const outsideRange = question.difficulty < floor || question.difficulty > ceiling;
-    const distance = Math.abs(question.difficulty - target);
-    const blueprintPenalty = recentBlueprints.has(question.blueprint) ? 1.2 : 0;
-    const weaknessPenalty = recentWeaknesses.has(question.subcategory) ? 0.55 : 0;
-    const categoryPenalty = desiredCategory() === question.category ? 0 : 0.16;
-    const outsidePenalty = outsideRange ? 4 + Math.abs(question.difficulty - clamp(question.difficulty, floor, ceiling)) : 0;
-    const balancePenalty = sessionBalancePenalty(question, balance);
-    const randomTieBreak = randomInt(1000) / 100000;
-    const score = distance + blueprintPenalty + weaknessPenalty + categoryPenalty + outsidePenalty + balancePenalty + randomTieBreak;
-    if (score < bestScore) {
-      best = question;
-      bestScore = score;
+  for (const diversityPass of LEVEL_CHECK_DIVERSITY_PASSES) {
+    best = null;
+    bestScore = Number.POSITIVE_INFINITY;
+
+    for (const question of state.candidateOrder) {
+      if (!canUseLevelCheckCandidate(question, balance, diversityPass, recentBlueprints)) continue;
+      const outsideRange = question.difficulty < floor || question.difficulty > ceiling;
+      const distance = Math.abs(question.difficulty - target);
+      const blueprintPenalty = recentBlueprints.has(question.blueprint) ? 1.2 : 0;
+      const weaknessPenalty = recentWeaknesses.has(question.subcategory) ? 0.55 : 0;
+      const categoryPenalty = desiredCategory() === question.category ? 0 : 0.16;
+      const outsidePenalty = outsideRange ? 4 + Math.abs(question.difficulty - clamp(question.difficulty, floor, ceiling)) : 0;
+      const balancePenalty = sessionBalancePenalty(question, balance);
+      const diversityPenalty = levelCheckDiversityPenalty(question, balance);
+      const randomTieBreak = randomInt(1000) / 100000;
+      const score = distance + blueprintPenalty + weaknessPenalty + categoryPenalty + outsidePenalty + balancePenalty + diversityPenalty + randomTieBreak;
+      if (score < bestScore) {
+        best = question;
+        bestScore = score;
+      }
     }
+
+    if (best) break;
   }
 
   if (!best) throw new Error("No unused question is available.");
   state.usedIds.add(best.id);
   state.usedTexts.add(questionSignature(best));
   return prepareQuestionOptions(best);
+}
+
+function canUseLevelCheckCandidate(question, balance, diversityPass, recentBlueprints) {
+  if (state.usedIds.has(question.id) || state.usedTexts.has(questionSignature(question))) return false;
+  const focusKey = questionFocusKey(question);
+  if (focusKey && (balance.focusKeys[focusKey] || 0) >= diversityPass.focusLimit) return false;
+  if ((balance.categories[question.category] || 0) >= diversityPass.categoryLimit) return false;
+  if ((balance.subcategories[question.subcategory] || 0) >= diversityPass.subcategoryLimit) return false;
+  if ((balance.blueprints[question.blueprint] || 0) >= diversityPass.blueprintLimit) return false;
+  if (diversityPass.avoidRecentBlueprint && recentBlueprints.has(question.blueprint)) return false;
+  return true;
+}
+
+function levelCheckDiversityPenalty(question, balance) {
+  const focusKey = questionFocusKey(question);
+  const focusCount = focusKey ? balance.focusKeys[focusKey] || 0 : 0;
+  const blueprintCount = balance.blueprints[question.blueprint] || 0;
+  const subcategoryCount = balance.subcategories[question.subcategory] || 0;
+  return (focusCount * 1.4) + (blueprintCount * 0.28) + (subcategoryCount * 0.08);
+}
+
+function questionFocusKey(question) {
+  return question.focusKey || "";
 }
 
 function prepareQuestionOptions(question) {
@@ -797,12 +835,17 @@ function responseBalance() {
     incrementCount(balance.subcategories, response.subcategory);
     incrementCount(balance.sources, response.source);
     incrementCount(balance.difficultyBands, difficultyBand(response.difficulty).key);
+    incrementCount(balance.blueprints, response.blueprint);
+    const focusKey = questionFocusKey(response);
+    if (focusKey) incrementCount(balance.focusKeys, focusKey);
     return balance;
   }, {
     categories: {},
     subcategories: {},
     sources: {},
-    difficultyBands: {}
+    difficultyBands: {},
+    blueprints: {},
+    focusKeys: {}
   });
 }
 
