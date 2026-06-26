@@ -678,6 +678,7 @@ function hasDisplayGuidanceProblem(question) {
   if (setup.includes("blank") && !taskHasBlank) return "Setup mentions a blank, but the item has no blank";
   if (task.startsWith("in school or work reading") || task.startsWith("in an office message")) return "Meaning item lacks a real example sentence";
   if (setup.includes("only after") && !answerText.includes("only after")) return "Setup mentions Only after for an unrelated item";
+  if (task.includes("coordinator will ___ instructions")) return "Instructions item has an unnatural actor";
   if (task.startsWith("choose the best words") && !taskHasBlank) return "Best-words item needs a cloze blank";
   if (task.includes("choose the best answer") && !taskHasBlank && question.options.every((option) => !/[.!?]$/.test(option))) {
     return "Fragment options need a cloze sentence";

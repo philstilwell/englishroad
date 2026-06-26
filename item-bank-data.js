@@ -773,7 +773,24 @@
         difficulty: 2.5,
         make: (i) => {
           const set = pick(vocabularySets.collocations, i);
-          return item(`Choose the word that sounds natural: The coordinator will ___ ${set[1]} before Friday.`, [set[0], set[2], set[3], set[4]], set[0], `words-together:${set[0]} ${set[1]}`);
+          const frames = {
+            "make a decision": "The manager must ___ a decision before Friday.",
+            "meet a deadline": "The team needs to ___ a deadline before Friday.",
+            "give a presentation": "The speaker will ___ a presentation on Friday.",
+            "reach an agreement": "The two offices hope to ___ an agreement before Friday.",
+            "raise a concern": "A student may ___ a concern during the meeting.",
+            "take responsibility": "Each worker should ___ responsibility for their task.",
+            "submit an application": "Applicants must ___ an application before Friday.",
+            "solve a problem": "The team will ___ a problem before Friday.",
+            "follow instructions": "Students should ___ instructions during the test.",
+            "send a message": "Please ___ a message before Friday.",
+            "book an appointment": "Patients can ___ an appointment online.",
+            "set a goal": "Each student should ___ a goal for the week.",
+            "share information": "The teacher will ___ information before Friday.",
+            "prepare a report": "The analyst will ___ a report before Friday."
+          };
+          const focusKey = `words-together:${set[0]} ${set[1]}`;
+          return item(`Choose the word that sounds natural: ${frames[`${set[0]} ${set[1]}`]}`, [set[0], set[2], set[3], set[4]], set[0], focusKey);
         }
       },
       {
