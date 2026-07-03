@@ -169,7 +169,7 @@ function helpfulSetup(text, blueprint, index = 0, made = {}) {
     "Passive voice": "The focus is on the thing receiving the action.",
     "Relative clauses": "Choose the word that connects the extra information.",
     "Reported speech": "Choose the sentence that reports the original words clearly.",
-    "Reduced clauses": "Choose the shorter form that keeps the meaning.",
+    "Reduced clauses": "Choose the sentence with correct grammar.",
     "Advanced sentence structure": "Choose the sentence with clear word order.",
     "Gerunds and infinitives": "Choose the verb pattern that sounds natural.",
     "Question forms": "Choose the question with natural word order.",
@@ -226,7 +226,7 @@ function explainAnswer(question) {
   if (question.subcategory === "Passive voice") return "The focus is on the thing receiving the action, so passive voice is needed.";
   if (question.subcategory === "Relative clauses") return "\"Whose\" shows that something belongs to the person.";
   if (question.subcategory === "Reported speech") return "The answer reports the original words clearly and naturally.";
-  if (question.subcategory === "Reduced clauses") return "The answer keeps the meaning while using a shorter grammatical form.";
+  if (question.subcategory === "Reduced clauses") return "This is the only option with correct grammar.";
   if (question.subcategory === "Advanced sentence structure") return "Only this option has natural English word order and grammar.";
   if (question.subcategory === "Gerunds and infinitives") return "Some verbs and adjectives need an -ing form, and some need to plus a verb.";
   if (question.subcategory === "Question forms") return "The question needs the correct helper word and word order.";
@@ -535,7 +535,7 @@ function renderPracticeReview() {
           : "This choice does not fit the grammar or meaning of the item.";
         const selectedLine = response.correct
           ? "Your answer was correct."
-          : `Your answer: ${response.selected}. ${selectedRationale}`;
+          : `Your answer: ${formatAnswerForFeedback(response.selected)} ${selectedRationale}`;
         return `
           <article class="review-item ${response.correct ? "is-correct" : "is-missed"}">
             <h3>${index + 1}. ${escapeHtml(response.correct ? "Correct" : "Review this item")}</h3>
@@ -746,6 +746,10 @@ function learnerSubcategory(subcategory) {
 
 function ensurePeriod(text) {
   return /[.!?]$/.test(text) ? text : `${text}.`;
+}
+
+function formatAnswerForFeedback(answer) {
+  return /[.!?]$/.test(answer) ? answer : `${answer}.`;
 }
 
 function normalizeQuestionText(text) {

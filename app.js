@@ -321,7 +321,7 @@ function explainAnswer(question) {
   if (question.subcategory === "Passive voice") return "The focus is on the thing receiving the action, so passive voice is needed.";
   if (question.subcategory === "Relative clauses") return "\"Whose\" shows that something belongs to the person.";
   if (question.subcategory === "Reported speech") return "The answer reports the original words clearly and naturally.";
-  if (question.subcategory === "Reduced clauses") return "The answer keeps the meaning while using a shorter grammatical form.";
+  if (question.subcategory === "Reduced clauses") return "This is the only option with correct grammar.";
   if (question.subcategory === "Advanced sentence structure") return "Only this option has natural English word order and grammar.";
   if (question.subcategory === "Gerunds and infinitives") return "Some verbs and adjectives need an -ing form, and some need to plus a verb.";
   if (question.subcategory === "Question forms") return "The question needs the correct helper word and word order.";
@@ -416,10 +416,10 @@ function helpfulSetup(text, blueprint, index = 0, made = {}) {
 
   if (blueprint.code === "g-reduced-clauses") {
     return pick([
-      "Choose the shorter sentence that still sounds clear.",
-      "Only one short sentence keeps the meaning and grammar.",
-      "Look for the short form that fits the noun before it.",
-      "The answer should be short, clear, and grammatical."
+      "Read each option and check the grammar.",
+      "Only one choice is a complete, correct sentence.",
+      "Look for the form that fits the noun before it.",
+      "The answer should be a correct English sentence."
     ], index);
   }
 
@@ -534,7 +534,7 @@ function helpfulSetup(text, blueprint, index = 0, made = {}) {
     "Passive voice": ["The sentence describes what happened to a document yesterday.", "The focus is on the thing, not the person.", "Choose the form that shows the document received the action.", "The by phrase names who did the action."],
     "Relative clauses": ["The sentence gives more information about a person.", "Choose the word that connects the extra information.", "Choose the word that shows possession.", "Read the whole sentence before choosing."],
     "Reported speech": ["A person is telling someone what another person said earlier.", "Choose the sentence that reports the direct quote.", "The original words are being retold later.", "The answer should sound like reported information."],
-    "Reduced clauses": ["Choose the shorter sentence that keeps the same meaning.", "The best sentence removes extra words cleanly.", "Choose the clear short form.", "The answer should be shorter but still grammatical."],
+    "Reduced clauses": ["Choose the sentence with correct grammar.", "Only one choice is a complete, correct sentence.", "Look for the form that fits the noun before it.", "The answer should be a correct English sentence."],
     "Advanced sentence structure": ["Choose the sentence with clear word order.", "Read the whole sentence before choosing.", "The answer should make a natural sentence.", "Choose the best answer."],
     "Gerunds and infinitives": ["Choose the verb pattern that sounds natural.", "Read the word before the blank, then choose the best form.", "The answer should fit the verb pattern.", "Choose the best answer."],
     "Question forms": ["Choose the question with natural word order.", "Only one choice is a clear question.", "Check the helper word and word order.", "Choose the best question."],
