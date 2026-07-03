@@ -163,13 +163,13 @@
         difficulty: 2.2,
         make: (i) => {
           const examples = [
-            ["The advisor gave us ___ information about the exam.", "some"],
-            ["There are ___ application forms on the desk.", "several"],
-            ["The teacher asked for ___ advice about the lesson plan.", "some"],
-            ["The office received ___ complaints after the schedule changed.", "many"]
+            ["The advisor gave us ___ information about the exam.", "some", ["some", "many", "several", "an"]],
+            ["There are ___ application forms on the desk.", "several", ["several", "much", "a little", "an"]],
+            ["The teacher asked for ___ advice about the lesson plan.", "some", ["some", "many", "several", "an"]],
+            ["The office received ___ complaints after the schedule changed.", "many", ["many", "much", "a little", "an"]]
           ];
           const ex = pick(examples, i);
-          return item(ex[0], ["some", "many", "several", "an"], ex[1]);
+          return item(ex[0], ex[2], ex[1]);
         }
       },
       {

@@ -608,6 +608,7 @@ function validateBank(bank) {
     if (technicalTerm) issues.push(`Technical prompt term "${technicalTerm}": ${question.id}`);
     if (question.options.includes("no article")) issues.push(`Use (nothing), not no article: ${question.id}`);
     if (hasArticleAmbiguity(question)) issues.push(`Article ambiguity: ${question.id}`);
+    if (hasPluralCountQuantifierAmbiguity(question)) issues.push(`Plural count quantifier ambiguity: ${question.id}`);
     if (hasKnownAnswerAmbiguity(question)) issues.push(`Possible multiple correct answers: ${question.id}`);
     if (hasKnownAwkwardPhrase(question)) issues.push(`Awkward phrase: ${question.id}`);
     const displayProblem = hasDisplayGuidanceProblem(question);
@@ -647,6 +648,37 @@ function hasArticleAmbiguity(question) {
   const answer = normalizeQuestionText(question.answer);
   const options = question.options.map(normalizeQuestionText);
   return ["a", "an"].includes(answer) && (options.includes("the") || options.includes("some"));
+}
+
+function hasPluralCountQuantifierAmbiguity(question) {
+  const broadPluralQuantifiers = new Set(["some", "many", "several", "a few"]);
+  const answer = normalizeQuestionText(question.answer);
+  if (!broadPluralQuantifiers.has(answer)) return false;
+  const plausibleOptions = question.options
+    .map(normalizeQuestionText)
+    .filter((option) => broadPluralQuantifiers.has(option));
+  if (plausibleOptions.length < 2) return false;
+
+  const afterBlank = normalizeQuestionText(question.taskText).split("___")[1] || "";
+  const nextWord = (afterBlank.match(/[a-z]+/) || [""])[0];
+  const noncountOrIrregularWords = new Set([
+    "advice",
+    "equipment",
+    "evidence",
+    "feedback",
+    "furniture",
+    "homework",
+    "information",
+    "money",
+    "news",
+    "paper",
+    "research",
+    "series",
+    "species",
+    "traffic",
+    "water"
+  ]);
+  return nextWord.endsWith("s") && !noncountOrIrregularWords.has(nextWord);
 }
 
 function hasKnownAwkwardPhrase(question) {
@@ -1759,6 +1791,7 @@ function itemQaIssues(question) {
   if (!question.rationales || question.options.some((option) => !question.rationales[option])) issues.push("Missing option rationale");
   if (question.qaStatus !== "screened") issues.push("QA status is not screened");
   if (hasKnownAnswerAmbiguity(question)) issues.push("Possible answer ambiguity");
+  if (hasPluralCountQuantifierAmbiguity(question)) issues.push("Plural count quantifier ambiguity");
   if (hasKnownAwkwardPhrase(question)) issues.push("Known awkward phrase");
   const displayProblem = hasDisplayGuidanceProblem(question);
   if (displayProblem) issues.push(displayProblem);
