@@ -332,7 +332,7 @@
             ["The nurse said, \"The clinic opens at eight.\"", "The nurse said that the clinic opened at eight.", "The nurse said that the clinic open at eight.", "The nurse said the clinic has open at eight.", "The nurse said that eight opens the clinic."],
             ["The trainer said, \"The lesson ends at four.\"", "The trainer said that the lesson ended at four.", "The trainer said that the lesson end at four.", "The trainer said the lesson has end at four.", "The trainer said that four ends the lesson."],
             ["The assistant said, \"The report arrives today.\"", "The assistant said that the report arrived that day.", "The assistant said that the report arrive that day.", "The assistant said the report has arrive today.", "The assistant said that day arrives the report."],
-            ["The director said, \"The program starts next week.\"", "The director said that the program started the next week.", "The director said that the program start the next week.", "The director said the program has start next week.", "The director said that next week starts the program."]
+            ["The director said, \"The program starts next week.\"", "The director said that the program would start the following week.", "The director said that the program start the following week.", "The director said the program has start next week.", "The director said that next week starts the program."]
           ];
           const ex = pick(examples, i);
           return item(`Choose the best way to tell another person: ${ex[0]}`, ex.slice(1), ex[1]);

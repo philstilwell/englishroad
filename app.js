@@ -320,7 +320,10 @@ function explainAnswer(question) {
   if (question.subcategory === "Conditionals") return "The answer must match the condition in the first part of the sentence.";
   if (question.subcategory === "Passive voice") return "The focus is on the thing receiving the action, so passive voice is needed.";
   if (question.subcategory === "Relative clauses") return "\"Whose\" shows that something belongs to the person.";
-  if (question.subcategory === "Reported speech") return "The answer reports the original words clearly and naturally.";
+  if (question.subcategory === "Reported speech") {
+    if (normalizedTask.includes("starts next week")) return "Because the start was still in the future, \"starts\" changes to \"would start,\" and \"next week\" changes to \"the following week.\"";
+    return "The answer reports the original words clearly and naturally.";
+  }
   if (question.subcategory === "Reduced clauses") return "This is the only option with correct grammar.";
   if (question.subcategory === "Advanced sentence structure") return "Only this option has natural English word order and grammar.";
   if (question.subcategory === "Gerunds and infinitives") return "Some verbs and adjectives need an -ing form, and some need to plus a verb.";

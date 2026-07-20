@@ -225,7 +225,10 @@ function explainAnswer(question) {
   if (question.subcategory === "Conditionals") return "The answer must match the condition in the first part of the sentence.";
   if (question.subcategory === "Passive voice") return "The focus is on the thing receiving the action, so passive voice is needed.";
   if (question.subcategory === "Relative clauses") return "\"Whose\" shows that something belongs to the person.";
-  if (question.subcategory === "Reported speech") return "The answer reports the original words clearly and naturally.";
+  if (question.subcategory === "Reported speech") {
+    if (normalizedTask.includes("starts next week")) return "Because the start was still in the future, \"starts\" changes to \"would start,\" and \"next week\" changes to \"the following week.\"";
+    return "The answer reports the original words clearly and naturally.";
+  }
   if (question.subcategory === "Reduced clauses") return "This is the only option with correct grammar.";
   if (question.subcategory === "Advanced sentence structure") return "Only this option has natural English word order and grammar.";
   if (question.subcategory === "Gerunds and infinitives") return "Some verbs and adjectives need an -ing form, and some need to plus a verb.";
@@ -276,6 +279,13 @@ function distractorRationale(question, option) {
   if (question.subcategory === "Collocations") return `\"${option}\" does not make the natural phrase in this sentence.`;
   if (question.subcategory === "Phrasal verbs") return `\"${option}\" does not complete the common verb phrase.`;
   return `\"${option}\" does not fit the grammar or meaning of this item.`;
+}
+
+function rationaleWithoutRepeatedAnswer(rationale, answer) {
+  const repeatedAnswer = `\"${answer}\" `;
+  if (!rationale.startsWith(repeatedAnswer)) return rationale;
+  const remaining = rationale.slice(repeatedAnswer.length);
+  return remaining.charAt(0).toUpperCase() + remaining.slice(1);
 }
 
 function startPractice(event) {
@@ -535,7 +545,7 @@ function renderPracticeReview() {
           : "This choice does not fit the grammar or meaning of the item.";
         const selectedLine = response.correct
           ? "Your answer was correct."
-          : `Your answer: ${formatAnswerForFeedback(response.selected)} ${selectedRationale}`;
+          : `Your answer: ${formatAnswerForFeedback(response.selected)} ${rationaleWithoutRepeatedAnswer(selectedRationale, response.selected)}`;
         return `
           <article class="review-item ${response.correct ? "is-correct" : "is-missed"}">
             <h3>${index + 1}. ${escapeHtml(response.correct ? "Correct" : "Review this item")}</h3>
