@@ -227,6 +227,9 @@ function explainAnswer(question) {
   if (question.subcategory === "Relative clauses") return "\"Whose\" shows that something belongs to the person.";
   if (question.subcategory === "Reported speech") {
     if (normalizedTask.includes("starts next week")) return "Because the start was still in the future, \"starts\" changes to \"would start,\" and \"next week\" changes to \"the following week.\"";
+    if (normalizedTask.includes("arrives today")) return "Because the arrival was still in the future, \"arrives\" changes to \"would arrive,\" and \"today\" changes to \"that day.\"";
+    const reportedFuture = answer.match(/\bwould ([a-z]+)\b/i);
+    if (reportedFuture) return `The quote describes a scheduled future event. From a past viewpoint, use \"would\" plus the base verb: \"would ${reportedFuture[1]}.\"`;
     return "The answer reports the original words clearly and naturally.";
   }
   if (question.subcategory === "Reduced clauses") return "This is the only option with correct grammar.";
@@ -278,6 +281,7 @@ function distractorRationale(question, option) {
   if (question.subcategory === "Sentence boundaries") return `\"${option}\" does not make the sentence complete and clear.`;
   if (question.subcategory === "Collocations") return `\"${option}\" does not make the natural phrase in this sentence.`;
   if (question.subcategory === "Phrasal verbs") return `\"${option}\" does not complete the common verb phrase.`;
+  if (question.subcategory === "Reported speech" && question.answer.includes(" would ")) return "This choice does not use \"would\" plus the base verb to report the scheduled future event.";
   return `\"${option}\" does not fit the grammar or meaning of this item.`;
 }
 

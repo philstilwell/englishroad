@@ -325,13 +325,13 @@
         difficulty: 4.8,
         make: (i) => {
           const examples = [
-            ["The manager said, \"The meeting starts at noon.\"", "The manager said that the meeting started at noon.", "The manager said that the meeting start at noon.", "The manager said the meeting has start at noon.", "The manager said that noon starts the meeting."],
-            ["The teacher said, \"The test begins at nine.\"", "The teacher said that the test began at nine.", "The teacher said that the test begin at nine.", "The teacher said the test has begin at nine.", "The teacher said that nine begins the test."],
-            ["The clerk said, \"The office closes at five.\"", "The clerk said that the office closed at five.", "The clerk said that the office close at five.", "The clerk said the office has close at five.", "The clerk said that five closes the office."],
-            ["The guide said, \"The bus leaves at six.\"", "The guide said that the bus left at six.", "The guide said that the bus leave at six.", "The guide said the bus has leave at six.", "The guide said that six leaves the bus."],
-            ["The nurse said, \"The clinic opens at eight.\"", "The nurse said that the clinic opened at eight.", "The nurse said that the clinic open at eight.", "The nurse said the clinic has open at eight.", "The nurse said that eight opens the clinic."],
-            ["The trainer said, \"The lesson ends at four.\"", "The trainer said that the lesson ended at four.", "The trainer said that the lesson end at four.", "The trainer said the lesson has end at four.", "The trainer said that four ends the lesson."],
-            ["The assistant said, \"The report arrives today.\"", "The assistant said that the report arrived that day.", "The assistant said that the report arrive that day.", "The assistant said the report has arrive today.", "The assistant said that day arrives the report."],
+            ["The manager said, \"The meeting starts at noon.\"", "The manager said that the meeting would start at noon.", "The manager said that the meeting start at noon.", "The manager said the meeting has start at noon.", "The manager said that noon starts the meeting."],
+            ["The teacher said, \"The test begins at nine.\"", "The teacher said that the test would begin at nine.", "The teacher said that the test begin at nine.", "The teacher said the test has begin at nine.", "The teacher said that nine begins the test."],
+            ["The clerk said, \"The office closes at five.\"", "The clerk said that the office would close at five.", "The clerk said that the office close at five.", "The clerk said the office has close at five.", "The clerk said that five closes the office."],
+            ["The guide said, \"The bus leaves at six.\"", "The guide said that the bus would leave at six.", "The guide said that the bus leave at six.", "The guide said the bus has leave at six.", "The guide said that six leaves the bus."],
+            ["The nurse said, \"The clinic opens at eight.\"", "The nurse said that the clinic would open at eight.", "The nurse said that the clinic open at eight.", "The nurse said the clinic has open at eight.", "The nurse said that eight opens the clinic."],
+            ["The trainer said, \"The lesson ends at four.\"", "The trainer said that the lesson would end at four.", "The trainer said that the lesson end at four.", "The trainer said the lesson has end at four.", "The trainer said that four ends the lesson."],
+            ["The assistant said, \"The report arrives today.\"", "The assistant said that the report would arrive that day.", "The assistant said that the report arrive that day.", "The assistant said the report has arrive today.", "The assistant said that day arrives the report."],
             ["The director said, \"The program starts next week.\"", "The director said that the program would start the following week.", "The director said that the program start the following week.", "The director said the program has start next week.", "The director said that next week starts the program."]
           ];
           const ex = pick(examples, i);
