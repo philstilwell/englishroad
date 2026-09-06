@@ -1,0 +1,37 @@
+'use strict';
+const fs = require('node:fs');
+const crypto = require('node:crypto');
+const cp = require('node:child_process');
+const path = require('node:path');
+const root = path.resolve(__dirname, '..');
+const origin = new URL(process.argv[2]);
+if (!['https:', 'http:'].includes(origin.protocol) || origin.pathname !== '/') throw new Error('Provide a site origin without a path.');
+const manifest = JSON.parse(fs.readFileSync(path.join(root, '.cf-site/deployment.json'), 'utf8'));
+const errors = [];
+function get(file) {
+  return new Promise((resolve, reject) => {
+    cp.execFile('curl', ['--silent','--show-error','--fail','--max-time','30','--user-agent','English-family-deploy-check',new URL(file, origin).href], {encoding:'buffer',maxBuffer:30*1024*1024}, (err, body) => err ? reject(new Error(`Could not fetch ${file}`)) : resolve(body));
+  });
+}
+(async () => {
+  const entries = Object.entries(manifest.files);
+  let next = 0;
+  await Promise.all(Array.from({length:8}, async () => {
+    while (next < entries.length) {
+      const [file, expected] = entries[next++];
+      try {
+        const body = await get(file);
+        const actual = crypto.createHash('sha256').update(body).digest('hex');
+        if (actual !== expected) errors.push(`${file}: content mismatch`);
+      } catch (e) { errors.push(e.message); }
+    }
+  }));
+  const home = await get('/');
+  if (crypto.createHash('sha256').update(home).digest('hex') !== manifest.files['index.html']) errors.push('Homepage mismatch');
+  for (const missing of ['/missing-migration-check-74629.html','/.git/config','/README.md','/cloudflare/build.cjs']) {
+    const status = cp.execFileSync('curl',['-sS','-o','/dev/null','-w','%{http_code}','--max-time','30',new URL(missing,origin).href],{encoding:'utf8'});
+    if (status !== '404') errors.push(`${missing}: expected 404, got ${status}`);
+  }
+  if (errors.length) throw new Error(errors.join('\n'));
+  console.log(`Verified ${entries.length} files byte for byte, homepage, and real 404 responses at ${origin.origin}.`);
+})().catch(e => { console.error(e.message); process.exitCode = 1; });

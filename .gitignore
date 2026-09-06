@@ -1,2 +1,4 @@
 .playwright-cli/
 output/
+.cf-site/
+.wrangler/

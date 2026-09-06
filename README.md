@@ -1,6 +1,6 @@
 # EnglishRoad
 
-Static GitHub Pages app for `englishroad.com`.
+Static Cloudflare Workers site for `englishroad.com`, with source and automatic publishing connected to GitHub.
 
 English Road offers grammar and vocabulary self-study, using 659 distinct question-and-choice combinations selected from 4,200 generated variations.
 
@@ -31,32 +31,28 @@ The internal dashboard at `level-check.html?qa=1` distinguishes structural flags
 
 Cloudflare’s existing page-traffic analytics remains in place. There is no custom answer/report collection and no automatic call to an AI service. The question-report link opens a GitHub issue draft for the learner to submit; the site does not submit it automatically.
 
-## Deploy on GitHub Pages
+## Hosting and publishing
 
-1. Push these files to a GitHub repository.
-2. In GitHub, open **Settings > Pages**.
-3. Choose the branch and root folder as the Pages source.
-4. Set the custom domain to `englishroad.com`.
-5. Keep the included `CNAME` file in the repository root.
+Cloudflare's existing GitHub integration publishes the `main` branch to the `englishroad` Worker. `wrangler.jsonc` runs the question checks and `cloudflare/build.cjs`, which stages only public files under ignored `.cf-site/`. No paid Worker code or databases are required.
 
-## Namecheap DNS
+Public `.html` addresses are preserved, `/` serves `index.html`, and missing pages return a real 404. Preview addresses on `workers.dev` carry `X-Robots-Tag: noindex, nofollow`; the public domain remains indexable. Files revalidate with browsers so updates do not strand learners on older scripts. Learner storage stays on the same domain.
 
-For the apex domain `englishroad.com`, add four `A` records for host `@`:
+Validate a deployment with:
 
-```text
-185.199.108.153
-185.199.109.153
-185.199.110.153
-185.199.111.153
+```sh
+node scripts/check.cjs
+node cloudflare/build.cjs
+node cloudflare/verify.cjs https://englishroad.philstilwell.workers.dev
+node cloudflare/verify.cjs https://englishroad.com
 ```
 
-For `www.englishroad.com`, add a `CNAME` record for host `www` pointing to your GitHub Pages default domain, such as:
+The verifier compares every public file with its local SHA-256 fingerprint, checks the homepage, and confirms that missing files and project sources return 404. `deployment.json` records the deployed commit and public-file fingerprints without exposing credentials.
 
-```text
-YOUR-GITHUB-USERNAME.github.io
-```
+Namecheap remains the domain registrar. Cloudflare manages DNS and serves the site through Worker custom domains for the apex and `www`; the `www` hostname redirects to the apex. Domain registration renewals remain separate from the free static hosting.
 
-After DNS resolves in GitHub Pages, enable **Enforce HTTPS**.
+### Recovery
+
+Cloudflare retains earlier Worker versions for rollback. The original Namecheap DNS used `dns1.registrar-servers.com` and `dns2.registrar-servers.com`, with four apex A records `185.199.108.153` through `185.199.111.153` and `www` pointing to `philstilwell.github.io`. Preserve GitHub Pages as a temporary fallback during migration and confirm the intended host before changing DNS.
 
 ## Design system
 
