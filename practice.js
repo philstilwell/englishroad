@@ -823,3 +823,8 @@ document.getElementById("checkPracticeAnswer").addEventListener("click", checkPr
 document.getElementById("nextPracticeItem").addEventListener("click", nextPracticeItem);
 document.getElementById("restartPractice").addEventListener("click", startPractice);
 document.getElementById("copyAiPrompt").addEventListener("click", copyAiPrompt);
+
+// Enable setup only after the question bank and event handlers are ready.
+const startButton = document.getElementById("startPracticeQuiz");
+startButton.textContent = "Start practice quiz";
+startButton.disabled = false;
