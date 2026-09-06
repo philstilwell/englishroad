@@ -294,6 +294,10 @@ function rationaleWithoutRepeatedAnswer(rationale, answer) {
 
 function startPractice(event) {
   if (event) event.preventDefault();
+  if ((state.responses.length || state.selected) && state.index < PRACTICE_LENGTH && !window.confirm("Start a new practice quiz? Your current answers will be lost.")) return;
+  document.getElementById("practiceLayout").hidden = false;
+  document.querySelector(".practice-hero").classList.add("is-active");
+  document.getElementById("practiceSetupDetails").open = false;
   state.level = document.getElementById("levelSelect").value;
   state.quiz = selectQuizItems(state.level);
   state.index = 0;
@@ -303,6 +307,7 @@ function startPractice(event) {
   state.optionPositionCounts = [0, 0, 0, 0];
   renderAiPrompt();
   renderPractice();
+  document.getElementById("practicePrompt").focus({ preventScroll: true });
 }
 
 function selectQuizItems(level) {
@@ -423,6 +428,9 @@ function recordAnswerPosition(options, answer, positionCounts) {
 }
 
 function renderPractice() {
+  document.getElementById("practiceFeedback").textContent = "";
+  document.getElementById("practiceFeedback").className = "feedback";
+  document.getElementById("practiceAnswerHint").hidden = false;
   const item = state.quiz[state.index];
   const review = document.getElementById("practiceReview");
   if (review) review.hidden = true;
@@ -439,8 +447,8 @@ function renderPractice() {
   document.getElementById("practiceMeta").innerHTML = [
     item.category,
     learnerSubcategory(item.subcategory),
-    state.level,
-    `Level ${item.difficulty.toFixed(1)}`
+    `CEFR ${state.level}`,
+    `English Road level ${item.difficulty.toFixed(1)}`
   ].map((label) => `<span class="tag">${escapeHtml(label)}</span>`).join("");
 
   const parts = splitTaskText(item.taskText);
@@ -466,6 +474,7 @@ function renderPractice() {
   document.querySelectorAll("input[name='practiceAnswer']").forEach((input) => {
     input.addEventListener("change", (changeEvent) => {
       state.selected = changeEvent.target.value;
+      document.getElementById("practiceAnswerHint").hidden = true;
       document.getElementById("checkPracticeAnswer").disabled = false;
     });
   });
@@ -498,25 +507,39 @@ function checkPracticeAnswer() {
   document.querySelectorAll(".answer-option").forEach((option) => {
     const input = option.querySelector("input");
     input.disabled = true;
-    if (input.value === item.answer) option.classList.add("correct");
-    if (input.checked && input.value !== item.answer) option.classList.add("incorrect");
+    if (input.value === item.answer) {
+      option.classList.add("correct");
+      option.insertAdjacentHTML("beforeend", '<span class="option-result">✓ Correct answer</span>');
+    }
+    if (input.checked && input.value !== item.answer) {
+      option.classList.add("incorrect");
+      option.insertAdjacentHTML("beforeend", '<span class="option-result">Your answer · Not quite</span>');
+    }
   });
 
+  const feedback = document.getElementById("practiceFeedback");
+  feedback.textContent = correct ? `✓ Correct. ${item.explanation}` : `Not quite. Correct answer: ${formatAnswerForFeedback(item.answer)} ${item.explanation}`;
+  feedback.className = `feedback ${correct ? "good" : "needs-work"}`;
+  document.getElementById("practiceAnswerHint").hidden = true;
   renderSidePanel();
   document.getElementById("checkPracticeAnswer").hidden = true;
   const nextButton = document.getElementById("nextPracticeItem");
   nextButton.hidden = false;
   nextButton.textContent = state.index + 1 >= PRACTICE_LENGTH ? "See summary" : "Next question";
+  nextButton.focus({ preventScroll: true });
 }
 
 function nextPracticeItem() {
+  if (!state.answered) return;
   state.index += 1;
   state.selected = "";
   state.answered = false;
   renderPractice();
+  document.getElementById("practicePrompt").focus({ preventScroll: true });
 }
 
 function renderCompletion() {
+  document.getElementById("practiceAnswerHint").hidden = true;
   const correct = state.responses.filter((response) => response.correct).length;
   document.getElementById("practiceNumber").textContent = String(PRACTICE_LENGTH);
   document.getElementById("practiceMeter").style.width = "100%";
@@ -524,7 +547,9 @@ function renderCompletion() {
   document.getElementById("practicePrompt").innerHTML = `
     <div class="quiz-complete">
       <h2>Practice complete</h2>
-      <p>You answered ${correct}/${PRACTICE_LENGTH} items correctly. Start another quiz when you are ready.</p>
+      <p>You answered all ${PRACTICE_LENGTH} questions, with ${correct} correct answers. Review your answers below or copy a study prompt for more practice.</p>
+      <p><a href="https://englishladder.com/${["A1", "A2"].includes(state.level) ? "beginner" : ["B1", "B2"].includes(state.level) ? "intermediate" : "advanced"}.html">Try an English Ladder reading lesson ↗</a></p>
+      <p class="side-note">This is a broad reading suggestion. You can choose a different track on English Ladder.</p>
     </div>
   `;
   document.getElementById("practiceAnswers").innerHTML = "";
@@ -609,7 +634,7 @@ function copyAiPrompt() {
   const prompt = document.getElementById("aiPromptText").value;
   copyText(prompt)
     .then(() => {
-      if (status) status.textContent = "";
+      if (status) status.textContent = "Study prompt copied. Paste it into your chosen AI service.";
       if (!button) return;
       button.textContent = "Copied!";
       button.classList.add("is-copied");
@@ -627,7 +652,7 @@ function resetCopyPromptButton() {
   window.clearTimeout(copyPromptResetTimer);
   copyPromptResetTimer = null;
   if (!button) return;
-  button.textContent = "Copy AI prompt";
+  button.textContent = "Copy study prompt";
   button.classList.remove("is-copied");
 }
 
@@ -658,7 +683,11 @@ function copyText(text) {
 function renderSidePanel() {
   const correct = state.responses.filter((response) => response.correct).length;
   document.getElementById("sideLevel").textContent = state.level;
-  document.getElementById("sideCorrect").textContent = `${correct}/${PRACTICE_LENGTH}`;
+  document.getElementById("sideCorrect").textContent = `${correct} of ${state.responses.length}`;
+  document.getElementById("practiceAnswered").textContent = `${state.responses.length} of ${PRACTICE_LENGTH} answered`;
+  document.getElementById("practiceEmpty").hidden = state.responses.length > 0;
+  document.getElementById("practiceStats").hidden = !state.responses.length;
+  document.getElementById("practiceSummary").hidden = !state.responses.length;
   const counts = state.responses.reduce((groups, response) => {
     incrementCount(groups, learnerSubcategory(response.subcategory));
     return groups;
@@ -794,4 +823,3 @@ document.getElementById("checkPracticeAnswer").addEventListener("click", checkPr
 document.getElementById("nextPracticeItem").addEventListener("click", nextPracticeItem);
 document.getElementById("restartPractice").addEventListener("click", startPractice);
 document.getElementById("copyAiPrompt").addEventListener("click", copyAiPrompt);
-startPractice();

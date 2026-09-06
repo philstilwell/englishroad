@@ -3,52 +3,47 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="EnglishRoad Practice Quizzes give English learners 25-item practice sets with an AI study prompt.">
-    <meta name="theme-color" content="#eef8fd">
-    <meta name="englishroad-version" content="20260702-quantifier-qa-v1">
+    <meta name="description" content="English Road Practice Quizzes give English learners 25-item practice sets with an AI study prompt.">
+    <meta name="theme-color" content="#FAF9F6">
+    <meta name="englishroad-version" content="20260906-family-v1">
     <link rel="canonical" href="https://englishroad.com/practice.html">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://englishroad.com/practice.html">
-    <meta property="og:title" content="EnglishRoad Practice Quizzes">
+    <meta property="og:title" content="English Road Practice Quizzes">
     <meta property="og:description" content="Choose A1-C2 and take a 25-question English practice quiz with an AI study prompt.">
     <meta property="og:image" content="https://englishroad.com/practice-title.svg">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="EnglishRoad Practice Quizzes">
+    <meta name="twitter:title" content="English Road Practice Quizzes">
     <meta name="twitter:description" content="Choose A1-C2 and take a 25-question English practice quiz with an AI study prompt.">
     <meta name="twitter:image" content="https://englishroad.com/practice-title.svg">
-    <title>EnglishRoad Practice Quizzes</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <link rel="icon" href="practice-favicon.svg?v=20260702-quantifier-qa-v1" type="image/svg+xml">
-    <link rel="stylesheet" href="practice.css?v=20260702-quantifier-qa-v1">
+    <title>English Road Practice Quizzes</title>
+    <link rel="icon" href="favicon.svg?v=20260906-family-v1" type="image/svg+xml">
+    <link rel="stylesheet" href="family.css?v=20260906-family-v1">
+    <link rel="stylesheet" href="practice.css?v=20260906-family-v1">
   </head>
   <body>
-    <main class="practice-shell">
-      <header class="practice-topbar">
-        <a class="brand-link" href="index.html?v=20260702-quantifier-qa-v1" aria-label="Go to EnglishRoad hub">
-          <img src="practice-title.svg?v=20260702-quantifier-qa-v1" alt="EnglishRoad Practice Quizzes">
-        </a>
-        <nav class="tool-nav" aria-label="EnglishRoad tools">
-          <a href="index.html?v=20260702-quantifier-qa-v1">Hub</a>
-          <a href="level-check.html?v=20260702-quantifier-qa-v1">Level check</a>
-          <a aria-current="page" href="practice.html?v=20260702-quantifier-qa-v1">Practice quizzes</a>
-        </nav>
-      </header>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a class="brand" href="index.html"><img class="brand-mark" src="favicon.svg" width="40" height="40" alt=""><span>English Road</span></a>
+      <nav class="site-links" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a href="level-check.html">Level check</a>
+        <a aria-current="page" href="practice.html">Practice quizzes</a>
+        <a class="sister-link" href="https://englishladder.com/">English Ladder <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+    <main id="main" class="practice-shell">
 
-      <section class="practice-hero panel" aria-labelledby="practiceTitle">
+      <section class="practice-hero" aria-labelledby="practiceTitle">
         <div>
-          <p class="label">Practice quizzes</p>
-          <h1 id="practiceTitle">Practice 25 English questions at your level.</h1>
-          <p>
-            Choose your level. EnglishRoad pulls 25 questions from the same 4,200-item bank used
-            by the level check. After the quiz, you can copy an AI study prompt to get deeper
-            explanations for every answer choice.
-          </p>
+          <p class="eyebrow">Build your skills</p>
+          <h1 id="practiceTitle">Practice at your level.</h1>
+          <p class="practice-introduction">A short quiz, a clearer understanding. Choose your level and practice grammar and vocabulary, one question at a time.</p>
         </div>
+        <details id="practiceSetupDetails" class="practice-setup-details" open><summary>Change level or start again</summary>
         <form id="practiceSetup" class="setup-box">
           <label for="levelSelect">
-            <span>Choose level</span>
+            <span>Choose your CEFR level</span>
             <select id="levelSelect">
               <option value="A1">A1 beginner</option>
               <option value="A2" selected>A2 elementary</option>
@@ -58,58 +53,64 @@
               <option value="C2">C2 very advanced</option>
             </select>
           </label>
-          <button class="primary-action" type="submit">Start 25-item quiz</button>
-        </form>
+          <span class="quiz-length">25 questions</span>
+          <button id="startPracticeQuiz" class="primary-action" type="submit">Start practice quiz</button>
+        </form></details>
+        <p class="cefr-help">CEFR is the Common European Framework of Reference for Languages, from A1 to C2. <a href="level-check.html">Not sure of your level?</a></p>
       </section>
 
-      <section class="practice-layout">
-        <article class="panel quiz-panel" aria-live="polite">
+      <noscript><p>Turn on JavaScript to start a practice quiz.</p></noscript>
+      <section id="practiceLayout" class="practice-layout" hidden>
+        <article class="panel quiz-panel" aria-label="Practice question">
           <div class="practice-progress">
             <div>
-              <p class="label">Question</p>
-              <p class="progress-count"><span id="practiceNumber">0</span> / <span id="practiceTotal">25</span></p>
+              <p class="progress-count">Question <span id="practiceNumber">0</span> of <span id="practiceTotal">25</span></p>
+              <p id="practiceAnswered" class="progress-detail">0 of 25 answered</p>
             </div>
             <div class="meter" aria-hidden="true"><span id="practiceMeter"></span></div>
           </div>
 
           <div id="practiceMeta" class="practice-meta"></div>
-          <section id="practicePrompt" class="practice-prompt"></section>
-          <div id="practiceAnswers" class="practice-answers"></div>
+          <div id="practicePrompt" class="practice-prompt" tabindex="-1"></div>
+          <div id="practiceAnswers" class="practice-answers" role="radiogroup" aria-labelledby="practicePrompt"></div>
+          <p id="practiceFeedback" class="feedback" role="status" aria-live="polite" aria-atomic="true"></p>
+          <p id="practiceAnswerHint" class="answer-hint">Choose an answer to enable Check answer.</p>
 
           <div class="practice-actions">
             <button id="checkPracticeAnswer" class="primary-action" type="button">Check answer</button>
-            <button id="nextPracticeItem" class="ghost-action" type="button" hidden>Next question</button>
+            <button id="nextPracticeItem" class="primary-action" type="button" hidden>Next question</button>
             <button id="restartPractice" class="ghost-action" type="button">New quiz</button>
           </div>
-          <section id="practiceReview" class="practice-review" aria-labelledby="practiceReviewTitle" hidden></section>
+          <section id="practiceReview" class="practice-review" aria-labelledby="practiceReviewTitle" hidden><h2 id="practiceReviewTitle">Review answers</h2></section>
 
         </article>
 
         <aside class="panel practice-side" aria-labelledby="practiceSideTitle">
           <p class="label">Practice report</p>
-          <h2 id="practiceSideTitle">This quiz</h2>
-          <div class="side-stats">
+          <h2 id="practiceSideTitle">Your practice</h2>
+          <p id="practiceEmpty" class="side-note">Your results will appear as you answer.</p>
+          <div id="practiceStats" class="side-stats" hidden>
             <div>
-              <span>Level</span>
+              <span>CEFR level</span>
               <strong id="sideLevel">A2</strong>
             </div>
             <div>
-              <span>Correct</span>
+              <span>Correct answers</span>
               <strong id="sideCorrect">0/25</strong>
             </div>
           </div>
           <div class="side-note">
             Use the AI study prompt after the quiz if you want deeper explanations for every answer choice.
           </div>
-          <section class="practice-summary" aria-labelledby="practiceSummaryTitle">
+          <section id="practiceSummary" hidden class="practice-summary" aria-labelledby="practiceSummaryTitle">
             <h3 id="practiceSummaryTitle">Areas practiced</h3>
             <div id="practiceAreas" class="practice-chips"></div>
           </section>
           <details class="ai-prompt-box">
-            <summary>AI study prompt</summary>
-            <p>This includes all 25 items and the answer key. Open it after the quiz if you want an AI to explain each option.</p>
+            <summary>Study prompt and answer key</summary>
+            <p>This includes all 25 questions and the answer key, so it is best used after the quiz. “Copy study prompt” copies text for you to paste into an AI service. Nothing is sent automatically.</p>
             <textarea id="aiPromptText" readonly aria-label="AI prompt for this 25-item quiz"></textarea>
-            <button id="copyAiPrompt" class="ghost-action copy-prompt-action" type="button">Copy AI prompt</button>
+            <button id="copyAiPrompt" class="ghost-action copy-prompt-action" type="button">Copy study prompt</button>
             <span id="copyAiPromptStatus" class="copy-prompt-status" role="status"></span>
           </details>
           <div class="bank-note">
@@ -118,14 +119,15 @@
           </div>
           <div class="privacy-note">
             <h2>Privacy and use</h2>
-            <p>No login is required. Cloudflare Web Analytics helps us understand site traffic. Practice quiz answers stay on this page and are not an official score.</p>
+            <p>No login is required. Cloudflare Web Analytics helps us understand site traffic. Practice answers stay on this page and are lost when you leave or refresh it. Your results are unofficial.</p>
           </div>
         </aside>
       </section>
+      <footer class="site-footer"><span>English Road · Find your next step.</span><a href="https://englishladder.com/">Read today’s English lesson at English Ladder <span aria-hidden="true">↗</span></a></footer>
     </main>
 
-    <script src="item-bank-data.js?v=20260720-reported-future-v2"></script>
-    <script src="practice.js?v=20260720-reported-future-v2"></script>
+    <script src="item-bank-data.js?v=20260906-family-v1"></script>
+    <script src="practice.js?v=20260906-family-v1"></script>
     <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a2642182f9504544b9a79213f2b2e35d"}'></script><!-- End Cloudflare Web Analytics -->
   </body>
 </html>

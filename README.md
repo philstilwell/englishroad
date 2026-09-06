@@ -41,3 +41,7 @@ YOUR-GITHUB-USERNAME.github.io
 ```
 
 After DNS resolves in GitHub Pages, enable **Enforce HTTPS**.
+
+## Design system
+
+The September 2026 redesign aligns English Road with English Ladder's editorial layout while keeping English Road green. See [DESIGN.md](DESIGN.md) for the shared foundation, component rules, preserved assessment behavior, and verification checklist. All three pages load `family.css` before their page-specific stylesheet.

@@ -1032,7 +1032,7 @@ function renderCurrentQuestion() {
   document.getElementById("questionMeta").innerHTML = [
     state.current.category,
     learnerSubcategory(state.current.subcategory),
-    `Level ${state.current.difficulty.toFixed(1)}`
+    `English Road level ${state.current.difficulty.toFixed(1)}`
   ].map((tag) => `<span class="tag">${tag}</span>`).join("");
   document.getElementById("questionText").innerHTML = `
     <span class="question-setup">
@@ -1061,8 +1061,14 @@ function renderCurrentQuestion() {
     if (state.answered) {
       input.disabled = true;
       const option = input.closest(".answer-option");
-      if (input.value === state.current.answer) option.classList.add("correct");
-      if (input.checked && input.value !== state.current.answer) option.classList.add("incorrect");
+      if (input.value === state.current.answer) {
+        option.classList.add("correct");
+        option.insertAdjacentHTML("beforeend", '<span class="option-result">✓ Correct answer</span>');
+      }
+      if (input.checked && input.value !== state.current.answer) {
+        option.classList.add("incorrect");
+        option.insertAdjacentHTML("beforeend", '<span class="option-result">Your answer · Not quite</span>');
+      }
       return;
     }
     input.addEventListener("change", (event) => {
@@ -1075,9 +1081,9 @@ function renderCurrentQuestion() {
   const button = document.getElementById("submitAnswer");
   if (state.answered) {
     const correct = state.selected === state.current.answer;
-    feedback.textContent = correct ? "Correct." : `Not correct. Correct answer: ${formatAnswerForFeedback(state.current.answer)} ${state.current.explanation}`;
+    feedback.textContent = correct ? `✓ Correct. ${state.current.explanation}` : `Not quite. Correct answer: ${formatAnswerForFeedback(state.current.answer)} ${state.current.explanation}`;
     feedback.className = `feedback ${correct ? "good" : "needs-work"}`;
-    button.textContent = state.questionIndex >= TOTAL_QUESTIONS ? "Done" : "Next";
+    button.textContent = state.questionIndex >= TOTAL_QUESTIONS ? "Completed" : "Next question";
     button.disabled = state.questionIndex >= TOTAL_QUESTIONS;
   } else {
     feedback.textContent = "";
@@ -1089,13 +1095,14 @@ function renderCurrentQuestion() {
 
 function submitAnswer() {
   if (!state.selected && !state.answered) {
-    document.getElementById("feedback").textContent = "Choose one answer.";
+    document.getElementById("feedback").textContent = "Choose an answer first.";
     return;
   }
 
   if (state.answered) {
     if (state.questionIndex >= TOTAL_QUESTIONS) return;
     renderQuestion();
+    document.getElementById("questionText").focus({ preventScroll: true });
     return;
   }
 
@@ -1109,26 +1116,28 @@ function submitAnswer() {
   document.querySelectorAll(".answer-option").forEach((option) => {
     const input = option.querySelector("input");
     input.disabled = true;
-    if (input.value === state.current.answer) option.classList.add("correct");
-    if (input.checked && input.value !== state.current.answer) option.classList.add("incorrect");
+    if (input.value === state.current.answer) {
+      option.classList.add("correct");
+      option.insertAdjacentHTML("beforeend", '<span class="option-result">✓ Correct answer</span>');
+    }
+    if (input.checked && input.value !== state.current.answer) {
+      option.classList.add("incorrect");
+      option.insertAdjacentHTML("beforeend", '<span class="option-result">Your answer · Not quite</span>');
+    }
   });
 
   const feedback = document.getElementById("feedback");
-  feedback.textContent = correct ? "Correct." : `Not correct. Correct answer: ${formatAnswerForFeedback(state.current.answer)} ${state.current.explanation}`;
+  feedback.textContent = correct ? `✓ Correct. ${state.current.explanation}` : `Not quite. Correct answer: ${formatAnswerForFeedback(state.current.answer)} ${state.current.explanation}`;
   feedback.className = `feedback ${correct ? "good" : "needs-work"}`;
 
   updateResults();
 
   const button = document.getElementById("submitAnswer");
   if (state.questionIndex >= TOTAL_QUESTIONS) {
-    button.textContent = "Done";
+    button.textContent = "Completed";
     button.disabled = true;
-    const finalReport = document.getElementById("finalReport");
-    if (finalReport && typeof finalReport.scrollIntoView === "function") {
-      finalReport.scrollIntoView({ behavior: "smooth", block: "start" });
-    }
   } else {
-    button.textContent = "Next";
+    button.textContent = "Next question";
   }
   persistSession();
 }
@@ -1143,10 +1152,15 @@ function updateAbility(correct) {
 }
 
 function updateResults() {
+  document.getElementById("answerProgress").textContent = `${state.responses.length} of ${TOTAL_QUESTIONS} answered`;
+  document.getElementById("completionLink").hidden = state.responses.length < TOTAL_QUESTIONS;
   const estimated = state.responses.length >= FIRST_ESTIMATE_AT;
   const correctCount = state.responses.filter((response) => response.correct).length;
   const confidence = confidenceMetrics();
-  document.getElementById("result-title").textContent = estimated ? `${cefrEstimate()} range` : "Answer 5 questions";
+  document.getElementById("estimateConfidence").hidden = !estimated;
+  document.getElementById("estimateScores").hidden = !estimated;
+  document.getElementById("practiceSuggestions").hidden = !state.responses.length;
+  document.getElementById("result-title").textContent = estimated ? `${cefrEstimate()} · CEFR estimate` : "Your first estimate";
   document.getElementById("toeflScore").textContent = estimated ? toeflEstimate() : "after 5";
   document.getElementById("ieltsScore").textContent = estimated ? ieltsEstimate() : "after 5";
   document.getElementById("toeicScore").textContent = estimated ? toeicEstimate() : "after 5";
@@ -1160,10 +1174,10 @@ function updateResults() {
 
 function precisionLabel() {
   const answered = state.responses.length;
-  if (answered < FIRST_ESTIMATE_AT) return `We show your first level after ${FIRST_ESTIMATE_AT} answers.`;
+  if (answered < FIRST_ESTIMATE_AT) return `Answer ${FIRST_ESTIMATE_AT} questions to see your first estimate.`;
   const confidence = confidenceMetrics();
   if (answered >= TOTAL_QUESTIONS) return `Finished. Estimated range, ${confidence.label.toLowerCase()} confidence.`;
-  return `${answered}/${TOTAL_QUESTIONS} answers. Estimated range, ${confidence.label.toLowerCase()} confidence.`;
+  return `${answered} of ${TOTAL_QUESTIONS} answered. Estimated range, ${confidence.label.toLowerCase()} confidence.`;
 }
 
 function standardError() {
@@ -1279,8 +1293,8 @@ function renderWeaknesses() {
 
   document.getElementById("grammarCount").textContent = String(sumCounts(groups.Grammar));
   document.getElementById("vocabularyCount").textContent = String(sumCounts(groups.Vocabulary));
-  renderChips("grammarWeaknesses", groups.Grammar, "No grammar problem yet");
-  renderChips("vocabularyWeaknesses", groups.Vocabulary, "No vocabulary problem yet");
+  renderChips("grammarWeaknesses", groups.Grammar, state.responses.some((response) => response.category === "Grammar") ? "No missed grammar answers so far" : "No results yet");
+  renderChips("vocabularyWeaknesses", groups.Vocabulary, state.responses.some((response) => response.category === "Vocabulary") ? "No missed vocabulary answers so far" : "No results yet");
 }
 
 function renderFinalReport() {
@@ -1316,17 +1330,7 @@ function renderReportPreview(finished) {
   const preview = document.getElementById("reportPreview");
   if (!preview) return;
   preview.hidden = finished;
-  if (finished) return;
-  const answered = state.responses.length;
-  preview.classList.add("is-pending");
-  document.getElementById("reportPreviewProgress").textContent = `${answered}/${TOTAL_QUESTIONS}`;
-  document.getElementById("reportPreviewNote").textContent = `Preview only. Real level, score ranges, strong areas, and weak areas appear after ${TOTAL_QUESTIONS} answers.`;
-  document.getElementById("reportPreviewLevel").textContent = "—";
-  document.getElementById("reportPreviewCefr").textContent = "—";
-  document.getElementById("reportPreviewToefl").textContent = "—";
-  document.getElementById("reportPreviewIelts").textContent = "—";
-  document.getElementById("reportPreviewToeic").textContent = "—";
-  document.getElementById("reportPreviewConfidence").textContent = "—";
+  document.getElementById("reportPreviewNote").textContent = `Your report will be available after ${TOTAL_QUESTIONS} answers.`;
 }
 
 function copyFinalReport() {
@@ -1351,17 +1355,17 @@ function buildReportText() {
   const weakAreas = weakestAreas();
   const confidence = confidenceMetrics();
   return [
-    "EnglishRoad Level Check - Unofficial report",
+    "English Road Level Check - Unofficial report",
     `Completed: ${formatReportDate(completedAt)}`,
     `Confidence: ${confidence.label} (${confidence.score}%)`,
     `Total correct: ${correctCount}/${TOTAL_QUESTIONS}`,
-    `EnglishRoad level range: ${levelRangeEstimate()}`,
+    `English Road level range: ${levelRangeEstimate()}`,
     `CEFR estimate: ${cefrEstimate()}`,
     `TOEFL iBT estimate: ${toeflEstimate()}`,
     `IELTS estimate: ${ieltsEstimate()}`,
     `TOEIC L&R estimate: ${toeicEstimate()}`,
     `Strongest areas: ${strongAreas.length ? strongAreas.join(", ") : "No clear strong area"}`,
-    `Weakest areas: ${weakAreas.length ? weakAreas.join(", ") : "No clear weak area"}`,
+    `Things to practice: ${weakAreas.length ? weakAreas.join(", ") : "No clear weak area"}`,
     "Note: This is an unofficial estimated range for practice and placement conversations, not an official test score."
   ].join("\n");
 }
@@ -1446,6 +1450,7 @@ function formatAnswerForFeedback(answer) {
 }
 
 function restart() {
+  if ((state.responses.length || state.selected) && !window.confirm("Start a new level check? Your current answers and saved report will be cleared.")) return;
   clearSavedSession();
   state.questionIndex = 0;
   state.ability = 1.45;

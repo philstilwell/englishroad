@@ -3,43 +3,42 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="EnglishRoad helps English learners check their level and see grammar and vocabulary areas to practice.">
-    <meta name="theme-color" content="#f3f1e1">
-    <meta name="englishroad-version" content="20260702-quantifier-qa-v1">
+    <meta name="description" content="English Road helps English learners check their level and see grammar and vocabulary areas to practice.">
+    <meta name="theme-color" content="#FAF9F6">
+    <meta name="englishroad-version" content="20260906-family-v1">
     <link rel="canonical" href="https://englishroad.com/level-check.html">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://englishroad.com/level-check.html">
-    <meta property="og:title" content="EnglishRoad English Level Check">
+    <meta property="og:title" content="English Road English Level Check">
     <meta property="og:description" content="Check your English level with an unofficial 100-question report for TOEFL, IELTS, TOEIC, and CEFR ranges.">
     <meta property="og:image" content="https://englishroad.com/englishroad-title.svg">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="EnglishRoad English Level Check">
+    <meta name="twitter:title" content="English Road English Level Check">
     <meta name="twitter:description" content="Check your English level with an unofficial 100-question report for TOEFL, IELTS, TOEIC, and CEFR ranges.">
     <meta name="twitter:image" content="https://englishroad.com/englishroad-title.svg">
-    <title>EnglishRoad English Level Check</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-    <link rel="icon" href="favicon.svg?v=20260702-quantifier-qa-v1" type="image/svg+xml">
-    <link rel="stylesheet" href="styles.css?v=20260702-quantifier-qa-v1">
+    <title>English Road English Level Check</title>
+    <link rel="icon" href="favicon.svg?v=20260906-family-v1" type="image/svg+xml">
+    <link rel="stylesheet" href="family.css?v=20260906-family-v1">
+    <link rel="stylesheet" href="styles.css?v=20260906-family-v1">
   </head>
   <body>
-    <main class="shell">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <a class="brand" href="index.html"><img class="brand-mark" src="favicon.svg" width="40" height="40" alt=""><span>English Road</span></a>
+      <nav class="site-links" aria-label="Main navigation">
+        <a href="index.html">Home</a>
+        <a aria-current="page" href="level-check.html">Level check</a>
+        <a href="practice.html">Practice quizzes</a>
+        <a class="sister-link" href="https://englishladder.com/">English Ladder <span aria-hidden="true">↗</span></a>
+      </nav>
+    </header>
+    <main id="main" class="shell">
       <section class="workspace" aria-labelledby="app-title">
-        <header class="topbar">
-          <h1 id="app-title" class="brand-title">
-            <img src="englishroad-title.svg?v=20260702-quantifier-qa-v1" alt="EnglishRoad English Level Check">
-          </h1>
-          <nav class="tool-nav" aria-label="EnglishRoad tools">
-            <a href="index.html?v=20260702-quantifier-qa-v1">Hub</a>
-            <a aria-current="page" href="level-check.html?v=20260702-quantifier-qa-v1">Level check</a>
-            <a href="practice.html?v=20260702-quantifier-qa-v1">Practice quizzes</a>
-          </nav>
-        </header>
+        <div class="page-intro"><p class="eyebrow">Find your starting point</p><h1 id="app-title">Check your English level.</h1><p>100 questions to explore your grammar and vocabulary. An unofficial estimate to help you choose your next step.</p></div>
 
-        <section id="introPanel" class="panel intro-panel is-collapsed" aria-labelledby="intro-title">
+        <section id="introPanel" class="intro-panel is-collapsed" aria-label="Instructions and language help">
           <div class="intro-header">
-            <p class="label">Instructions:</p>
+            <p class="instruction-caption">How it works · Help in 9 languages</p>
             <button id="instructionsToggle" class="instruction-toggle" type="button" aria-controls="instructionsContent" aria-expanded="false">Show instructions</button>
           </div>
           <div id="instructionsContent" class="intro-grid is-hidden">
@@ -55,7 +54,7 @@
                 <li>Choose one answer.</li>
                 <li>See your first level after 5 answers.</li>
                 <li>Your answers are saved in this browser if the page refreshes.</li>
-                <li>After 100 questions, you get a short unofficial report. It shows your level range, test score estimates, correct answers, strong areas, weak areas, and the date. You can copy the report text or take a screenshot.</li>
+                <li>After 100 questions, you get a short unofficial report. It shows your level range, test score estimates, correct answers, strong areas, things to practice, and the date. You can copy the report text or take a screenshot.</li>
               </ol>
             </div>
 
@@ -85,11 +84,11 @@
         </section>
 
         <section class="assessment-grid">
-          <article class="panel assessment-panel" aria-live="polite">
+          <article class="panel assessment-panel" aria-label="Level check question">
             <div class="progress-row">
               <div>
-                <p class="label">Question</p>
-                <p class="progress-count"><span id="questionNumber">1</span> / <span id="totalQuestions">100</span></p>
+                <p class="progress-count">Question <span id="questionNumber">1</span> of <span id="totalQuestions">100</span></p>
+                <p id="answerProgress" class="progress-detail">0 of 100 answered</p>
               </div>
               <div class="meter" aria-hidden="true">
                 <span id="meterFill"></span>
@@ -97,32 +96,31 @@
             </div>
 
             <div id="questionMeta" class="question-meta"></div>
-            <h2 id="questionText" class="question-text"></h2>
-            <div id="answers" class="answers"></div>
+            <div id="questionText" class="question-text" tabindex="-1"></div>
+            <div id="answers" class="answers" role="radiogroup" aria-labelledby="questionText"></div>
 
             <div class="actions">
               <button id="submitAnswer" class="primary-action" type="button">Check answer</button>
               <button id="restart" class="ghost-action" type="button">Start again</button>
             </div>
-            <p id="feedback" class="feedback" role="status"></p>
-            <p class="screenshot-note">
-              Unofficial report: After 100 answers, you can copy the report text or take a screenshot, then send it to your teacher or school if they ask for your results.
-            </p>
+            <p id="feedback" class="feedback" role="status" aria-live="polite" aria-atomic="true"></p>
+            <a id="completionLink" class="completion-link" href="#finalReport" hidden>Level check complete. View your report ↓</a>
+            <p class="screenshot-note">Choose one answer, then check it. Your answer is locked after checking.</p>
           </article>
 
           <aside class="panel results-panel" aria-labelledby="result-title">
             <div class="result-header">
               <p class="label">Estimated range</p>
-              <h2 id="result-title">Answer 5 questions</h2>
-              <p id="precisionText" class="precision-text">We show your first level after 5 answers.</p>
-              <div class="confidence-box" aria-label="Estimate confidence">
+              <h2 id="result-title">Your first estimate</h2>
+              <p id="precisionText" class="precision-text">Answer 5 questions to see your first estimate.</p>
+              <div id="estimateConfidence" hidden class="confidence-box" aria-label="Estimate confidence">
                 <span>Confidence</span>
                 <strong id="confidenceScore">--</strong>
                 <em id="confidenceLabel">after 5 answers</em>
               </div>
             </div>
 
-            <div class="score-grid" aria-label="Score estimates">
+            <div id="estimateScores" hidden class="score-grid" aria-label="Score estimates">
               <div>
                 <span>Estimated TOEFL iBT range</span>
                 <strong id="toeflScore">--</strong>
@@ -141,44 +139,9 @@
               </div>
             </div>
 
-            <section id="reportPreview" class="report-preview is-pending" aria-labelledby="reportPreviewTitle">
-              <div class="report-preview-header">
-                <div>
-                  <p class="label">Report preview</p>
-                  <h3 id="reportPreviewTitle">Unofficial final report</h3>
-                </div>
-                <strong id="reportPreviewProgress">0/100</strong>
-              </div>
-              <p id="reportPreviewNote">Preview only. Real report data appears after 100 answers.</p>
-              <div class="report-preview-grid" aria-label="Inactive final report preview">
-                <div>
-                  <span>Level</span>
-                  <strong id="reportPreviewLevel">—</strong>
-                </div>
-                <div>
-                  <span>CEFR</span>
-                  <strong id="reportPreviewCefr">—</strong>
-                </div>
-                <div>
-                  <span>TOEFL</span>
-                  <strong id="reportPreviewToefl">—</strong>
-                </div>
-                <div>
-                  <span>IELTS</span>
-                  <strong id="reportPreviewIelts">—</strong>
-                </div>
-                <div>
-                  <span>TOEIC</span>
-                  <strong id="reportPreviewToeic">—</strong>
-                </div>
-                <div>
-                  <span>Confidence</span>
-                  <strong id="reportPreviewConfidence">—</strong>
-                </div>
-              </div>
-            </section>
+            <section id="reportPreview" class="report-preview" aria-label="Report availability"><p id="reportPreviewNote">Your report will be available after 100 answers.</p></section>
 
-            <section class="weaknesses" aria-labelledby="weakness-title">
+            <section id="practiceSuggestions" hidden class="weaknesses" aria-labelledby="weakness-title">
               <h3 id="weakness-title">Things to practice</h3>
               <div class="weakness-group">
                 <div class="weakness-heading">
@@ -206,8 +169,8 @@
         <section id="finalReport" class="panel final-report" aria-labelledby="finalReportTitle" hidden>
           <div class="final-report-header">
             <div>
-              <p class="label">Unofficial final report</p>
-              <h2 id="finalReportTitle">EnglishRoad Level Check</h2>
+              <p class="label">English Road · Unofficial final report</p>
+              <h2 id="finalReportTitle">Level check complete</h2>
               <p id="finalReportDate" class="final-report-date">Completed: —</p>
             </div>
             <div class="final-correct">
@@ -231,7 +194,7 @@
 
           <div class="final-score-grid" aria-label="Final estimated score ranges">
             <div>
-              <span>EnglishRoad level</span>
+              <span>English Road level</span>
               <strong id="finalLevelRange">—</strong>
             </div>
             <div>
@@ -252,19 +215,21 @@
             </div>
           </div>
 
+          <p>You answered all 100 questions. Use this English Road report to choose what to practice next.</p>
           <div class="final-area-grid">
             <section aria-labelledby="strongAreasTitle">
               <h3 id="strongAreasTitle">Strongest areas</h3>
               <div id="finalStrongAreas" class="chips compact-chips"></div>
             </section>
             <section aria-labelledby="weakAreasTitle">
-              <h3 id="weakAreasTitle">Weakest areas</h3>
+              <h3 id="weakAreasTitle">Things to practice</h3>
               <div id="finalWeakAreas" class="chips compact-chips"></div>
             </section>
           </div>
+          <div class="report-next-steps"><a class="primary-link" href="practice.html">Choose a practice quiz →</a><a href="https://englishladder.com/">Explore English Ladder lessons ↗</a></div>
         </section>
 
-        <section id="qaDashboard" class="panel qa-dashboard" aria-labelledby="qaDashboardTitle" hidden></section>
+        <section id="qaDashboard" class="panel qa-dashboard" aria-labelledby="qaDashboardTitle" hidden><h2 id="qaDashboardTitle">Item-bank dashboard</h2></section>
         <section class="privacy-note panel" aria-labelledby="privacyTitle">
           <h2 id="privacyTitle">Privacy and use</h2>
           <p>
@@ -274,9 +239,10 @@
           </p>
         </section>
       </section>
+      <footer class="site-footer"><span>English Road · Find your next step.</span><a href="https://englishladder.com/">Read today’s English lesson at English Ladder <span aria-hidden="true">↗</span></a></footer>
     </main>
-    <script src="item-bank-data.js?v=20260720-reported-future-v2"></script>
-    <script src="app.js?v=20260720-reported-future-v2"></script>
+    <script src="item-bank-data.js?v=20260906-family-v1"></script>
+    <script src="app.js?v=20260906-family-v1"></script>
     <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a2642182f9504544b9a79213f2b2e35d"}'></script><!-- End Cloudflare Web Analytics -->
   </body>
 </html>
