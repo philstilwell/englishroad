@@ -57,3 +57,5 @@ Cloudflare retains earlier Worker versions for rollback. The original Namecheap 
 ## Design system
 
 The September 2026 redesign aligns English Road with English Ladder's editorial layout while keeping English Road green. See [DESIGN.md](DESIGN.md) for the shared foundation, component rules, current activity behavior, and verification checklist. All three pages load `family.css` before their page-specific stylesheet.
+
+During a DNS handover, the verifier accepts an optional third argument containing the new server IP address. This bypasses old DNS cache entries for the check while still validating the real domain’s HTTPS certificate. Normal daily checks use public DNS.

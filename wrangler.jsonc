@@ -5,10 +5,22 @@
   "compatibility_date": "2026-07-02",
   "workers_dev": true,
   "preview_urls": true,
-  "build": { "command": "node scripts/check.cjs && node cloudflare/build.cjs" },
+  "build": {
+    "command": "node scripts/check.cjs && node cloudflare/build.cjs"
+  },
   "assets": {
     "directory": "./.cf-site",
     "html_handling": "none",
     "not_found_handling": "404-page"
-  }
+  },
+  "routes": [
+    {
+      "pattern": "englishroad.com",
+      "custom_domain": true
+    },
+    {
+      "pattern": "www.englishroad.com",
+      "custom_domain": true
+    }
+  ]
 }

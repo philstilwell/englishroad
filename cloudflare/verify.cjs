@@ -7,10 +7,13 @@ const root = path.resolve(__dirname, '..');
 const origin = new URL(process.argv[2]);
 if (!['https:', 'http:'].includes(origin.protocol) || origin.pathname !== '/') throw new Error('Provide a site origin without a path.');
 const manifest = JSON.parse(fs.readFileSync(path.join(root, '.cf-site/deployment.json'), 'utf8'));
+// An optional IP lets us verify the real domain before old DNS caches expire.
+// curl still validates the domain's HTTPS certificate.
+const connection = process.argv[3] ? ['--resolve', `${origin.hostname}:${origin.port || (origin.protocol === 'https:' ? 443 : 80)}:${process.argv[3]}`] : [];
 const errors = [];
 function get(file) {
   return new Promise((resolve, reject) => {
-    cp.execFile('curl', ['--silent','--show-error','--fail','--max-time','30','--user-agent','English-family-deploy-check',new URL(file, origin).href], {encoding:'buffer',maxBuffer:30*1024*1024}, (err, body) => err ? reject(new Error(`Could not fetch ${file}`)) : resolve(body));
+    cp.execFile('curl', [...connection,'--silent','--show-error','--fail','--max-time','30','--user-agent','English-family-deploy-check',new URL(file, origin).href], {encoding:'buffer',maxBuffer:30*1024*1024}, (err, body) => err ? reject(new Error(`Could not fetch ${file}`)) : resolve(body));
   });
 }
 (async () => {
@@ -29,7 +32,7 @@ function get(file) {
   const home = await get('/');
   if (crypto.createHash('sha256').update(home).digest('hex') !== manifest.files['index.html']) errors.push('Homepage mismatch');
   for (const missing of ['/missing-migration-check-74629.html','/.git/config','/README.md','/cloudflare/build.cjs']) {
-    const status = cp.execFileSync('curl',['-sS','-o','/dev/null','-w','%{http_code}','--max-time','30',new URL(missing,origin).href],{encoding:'utf8'});
+    const status = cp.execFileSync('curl',[...connection,'-sS','-o','/dev/null','-w','%{http_code}','--max-time','30',new URL(missing,origin).href],{encoding:'utf8'});
     if (status !== '404') errors.push(`${missing}: expected 404, got ${status}`);
   }
   if (errors.length) throw new Error(errors.join('\n'));
