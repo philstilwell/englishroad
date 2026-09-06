@@ -131,3 +131,24 @@ select { min-height: 46px; }
   h2, h3 { break-after: avoid; }
   .review-item { break-inside: avoid; }
 }
+/* Recovery and practice guidance use the same quiet editorial components. */
+.notice { border: 1px solid var(--control-edge); border-left: 3px solid var(--primary); background: var(--selected); padding: 16px 20px; border-radius: 8px; margin: 16px 0; }
+.notice p:first-child { margin-top: 0; }
+.notice h2 { font-size: 22px; }
+.save-bar { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 8px 20px; margin: 16px 0 24px; padding: 8px 0; }
+.save-bar p { margin: 0; color: var(--muted); font-size: 14px; flex: 1 1 260px; }
+.save-bar:has(.is-warning) { position: sticky; top: 0; z-index: 3; padding: 12px; border: 1px solid var(--incorrect); border-radius: 8px; background: var(--incorrect-soft); }
+.save-bar .is-warning { color: var(--incorrect); }
+.text-action { border: 0; border-radius: 4px; background: transparent; color: var(--primary); min-height: 44px; padding: 8px 4px; font-size: 14px; text-decoration: underline; text-underline-offset: .22em; }
+.text-action:disabled { background: transparent; }
+.question-report { font-size: 13px; margin-top: 24px; }
+.question-report a { display: inline-block; min-height: 44px; padding: 10px 0; }
+.question-text, .practice-prompt { scroll-margin-top: 20px; }
+.practice-starting-point { border-top: 1px solid var(--line); padding-top: 20px; margin-top: 24px; }
+.practice-starting-point p { font-size: 15px; }
+a.chip { color: var(--primary); min-height: 44px; padding: 8px; }
+.about-content { max-width: 1000px; }
+.about-content .panel { margin: 24px 0; }
+.about-content .panel h3 { margin-top: 24px; }
+.about-content .panel p { max-width: 80ch; }
+@media print { .save-bar, .notice, .question-report { display: none !important; } }

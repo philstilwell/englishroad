@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://englishroad.com/</loc>
-    <lastmod>2026-05-09</lastmod>
+    <lastmod>2026-09-06</lastmod>
   </url>
   <url>
     <loc>https://englishroad.com/level-check.html</loc>
-    <lastmod>2026-05-09</lastmod>
+    <lastmod>2026-09-06</lastmod>
   </url>
   <url>
     <loc>https://englishroad.com/practice.html</loc>
-    <lastmod>2026-05-09</lastmod>
+    <lastmod>2026-09-06</lastmod>
+  </url>
+  <url>
+    <loc>https://englishroad.com/about.html</loc>
+    <lastmod>2026-09-06</lastmod>
   </url>
 </urlset>

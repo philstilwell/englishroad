@@ -5,21 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="English Road helps English learners check their level and see grammar and vocabulary areas to practice.">
     <meta name="theme-color" content="#FAF9F6">
-    <meta name="englishroad-version" content="20260906-family-v2">
+    <meta name="englishroad-version" content="20260906-review-v1">
     <link rel="canonical" href="https://englishroad.com/level-check.html">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://englishroad.com/level-check.html">
     <meta property="og:title" content="English Road English Level Check">
-    <meta property="og:description" content="Check your English level with an unofficial 100-question report for TOEFL, IELTS, TOEIC, and CEFR ranges.">
-    <meta property="og:image" content="https://englishroad.com/englishroad-title.svg">
+    <meta property="og:description" content="Review your grammar and vocabulary with 100 questions, clear feedback, and focused practice suggestions.">
+    <meta property="og:image" content="https://englishroad.com/social-preview.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta property="og:image:alt" content="English Road: grammar and vocabulary practice in the green English Family design">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="English Road English Level Check">
-    <meta name="twitter:description" content="Check your English level with an unofficial 100-question report for TOEFL, IELTS, TOEIC, and CEFR ranges.">
-    <meta name="twitter:image" content="https://englishroad.com/englishroad-title.svg">
-    <title>English Road English Level Check</title>
-    <link rel="icon" href="favicon.svg?v=20260906-family-v2" type="image/svg+xml">
-    <link rel="stylesheet" href="family.css?v=20260906-family-v2">
-    <link rel="stylesheet" href="styles.css?v=20260906-family-v2">
+    <meta name="twitter:description" content="Review your grammar and vocabulary with 100 questions, clear feedback, and focused practice suggestions.">
+    <meta name="twitter:image" content="https://englishroad.com/social-preview.png">
+    <title>Grammar and vocabulary check · English Road</title>
+    <link rel="icon" href="favicon.svg?v=20260906-review-v1" type="image/svg+xml">
+    <link rel="stylesheet" href="family.css?v=20260906-review-v1">
+    <link rel="stylesheet" href="styles.css?v=20260906-review-v1">
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
@@ -34,7 +39,7 @@
     </header>
     <main id="main" class="shell">
       <section class="workspace" aria-labelledby="app-title">
-        <div class="page-intro"><p class="eyebrow">Find your starting point</p><h1 id="app-title">Check your English level.</h1><p>100 questions to explore your grammar and vocabulary. An unofficial estimate to help you choose your next step.</p></div>
+        <div class="page-intro"><p class="eyebrow">Find your starting point</p><h1 id="app-title">Find what to practice.</h1><p>100 questions to explore your grammar and vocabulary. See what you answered correctly and choose what to practice next.</p></div>
 
         <section id="introPanel" class="intro-panel is-collapsed" aria-label="Instructions and language help">
           <div class="intro-header">
@@ -43,19 +48,15 @@
           </div>
           <div id="instructionsContent" class="intro-grid is-hidden">
             <div class="intro-copy">
-              <h2 id="intro-title">Find your English level and what to practice.</h2>
-              <p>
-                Answer English questions from a bank of 4,200 items. The items appear in a
-                largely random order, with the first questions being generally easier. The app
-                estimates your level for TOEFL, IELTS, TOEIC, and CEFR. It also shows grammar and
-                vocabulary areas that need work.
-              </p>
+              <h2 id="intro-title">Explore your grammar and vocabulary.</h2>
+              <p>Answer 100 questions, beginning with easier practice. Review each answer and see topic-by-topic results. This activity does not assess speaking, listening, extended writing, or your overall English level.</p>
               <ol class="simple-steps">
-                <li>Choose one answer.</li>
-                <li>See your first level after 5 answers.</li>
-                <li>Your answers are saved in this browser if the page refreshes.</li>
-                <li>After 100 questions, you get a short unofficial report. It shows your level range, test score estimates, correct answers, strong areas, things to practice, and the date. You can copy the report text or take a screenshot.</li>
+                <li>Choose one answer, then select Check answer.</li>
+                <li>Read the explanation, then choose Next question.</li>
+                <li>Check the save status. You can also download your progress at any time.</li>
+                <li>After 100 answers, copy your activity report and follow a topic link into practice.</li>
               </ol>
+              <p><a href="about.html#method">How the questions and practice suggestions work</a></p>
             </div>
 
             <div class="language-box" aria-labelledby="language-title">
@@ -73,7 +74,7 @@
                   <option value="fr">French</option>
                 </select>
               </label>
-              <div class="language-info">
+              <div class="language-info" lang="en" aria-live="polite" aria-atomic="true">
                 <h3 id="infoTitle"></h3>
                 <p id="infoPurpose"></p>
                 <p id="infoFunction"></p>
@@ -83,6 +84,10 @@
           </div>
         </section>
 
+      <div id="loadStatus" class="notice" role="status"><p id="loadMessage">Loading questions. If this takes too long, check your connection.</p><a href="">Retry loading</a></div>
+      <div id="sessionNotice" class="notice" role="status" hidden></div>
+      <div class="save-bar"><p id="saveStatus" role="status" aria-live="polite">Progress can be saved in this browser.</p><button id="downloadProgress" class="text-action" type="button" disabled>Download progress</button></div>
+        <noscript><p class="notice">Turn on JavaScript to answer questions. You can still read <a href="about.html">how this activity works</a> or visit <a href="https://englishladder.com/">English Ladder</a>.</p></noscript>
         <section class="assessment-grid">
           <article class="panel assessment-panel" aria-label="Level check question">
             <div class="progress-row">
@@ -101,58 +106,44 @@
 
             <div class="actions">
               <button id="submitAnswer" class="primary-action" type="button" disabled>Loading questions…</button>
-              <button id="restart" class="ghost-action" type="button">Start again</button>
+              <button id="restart" class="ghost-action" type="button" disabled>Start again</button>
             </div>
             <p id="feedback" class="feedback" role="status" aria-live="polite" aria-atomic="true"></p>
             <a id="completionLink" class="completion-link" href="#finalReport" hidden>Level check complete. View your report ↓</a>
+            <p class="question-report"><a id="reportQuestion" href="https://github.com/philstilwell/englishroad/issues" target="_blank" rel="noopener noreferrer" hidden>Report a question problem</a></p>
             <p class="screenshot-note">Choose one answer, then check it. Your answer is locked after checking.</p>
           </article>
 
           <aside class="panel results-panel" aria-labelledby="result-title">
             <div class="result-header">
-              <p class="label">Estimated range</p>
-              <h2 id="result-title">Your first estimate</h2>
-              <p id="precisionText" class="precision-text">Answer 5 questions to see your first estimate.</p>
-              <div id="estimateConfidence" hidden class="confidence-box" aria-label="Estimate confidence">
-                <span>Confidence</span>
-                <strong id="confidenceScore">--</strong>
-                <em id="confidenceLabel">after 5 answers</em>
-              </div>
+              <p class="label">Your activity</p>
+              <h2 id="result-title">Your answers so far</h2>
+              <p id="precisionText" class="precision-text">Results describe this grammar and vocabulary activity only.</p>
             </div>
-
-            <div id="estimateScores" hidden class="score-grid" aria-label="Score estimates">
-              <div>
-                <span>Estimated TOEFL iBT range</span>
-                <strong id="toeflScore">--</strong>
-              </div>
-              <div>
-                <span>Estimated IELTS range</span>
-                <strong id="ieltsScore">--</strong>
-              </div>
-              <div>
-                <span>Estimated TOEIC L&amp;R range</span>
-                <strong id="toeicScore">--</strong>
-              </div>
-              <div>
-                <span>Estimated CEFR range</span>
-                <strong id="cefrScore">--</strong>
-              </div>
+            <div class="score-grid" aria-label="Correct answers by category">
+              <div><span>Grammar</span><strong id="grammarPerformance">0 of 0 correct</strong></div>
+              <div><span>Vocabulary</span><strong id="vocabularyPerformance">0 of 0 correct</strong></div>
             </div>
-
+            <section id="practiceStartingPoint" class="practice-starting-point" hidden>
+              <h3>A starting point for practice</h3>
+              <p id="suggestionReason"></p>
+              <p><a id="suggestedPractice" href="practice.html">Try a practice quiz →</a></p>
+              <p class="side-note">Practice bands are approximate content labels, not a measured CEFR level. You can change bands.</p>
+            </section>
             <section id="reportPreview" class="report-preview" aria-label="Report availability"><p id="reportPreviewNote">Your report will be available after 100 answers.</p></section>
 
             <section id="practiceSuggestions" hidden class="weaknesses" aria-labelledby="weakness-title">
-              <h3 id="weakness-title">Things to practice</h3>
+              <h3 id="weakness-title">Things to practice</h3><p class="side-note">Choose a topic for focused practice. A few answers cannot establish a lasting strength or weakness.</p>
               <div class="weakness-group">
                 <div class="weakness-heading">
-                  <span>Grammar</span>
+                  <span>Grammar · missed answers</span>
                   <strong id="grammarCount">0</strong>
                 </div>
                 <div id="grammarWeaknesses" class="chips"></div>
               </div>
               <div class="weakness-group">
                 <div class="weakness-heading">
-                  <span>Vocabulary</span>
+                  <span>Vocabulary · missed answers</span>
                   <strong id="vocabularyCount">0</strong>
                 </div>
                 <div id="vocabularyWeaknesses" class="chips"></div>
@@ -160,8 +151,8 @@
             </section>
 
             <div class="bank-note">
-              <strong id="bankSize">4,200</strong>
-              <span>practice questions for TOEFL, IELTS, TOEIC, and CEFR level checks</span>
+              <strong id="bankSize">659</strong>
+              <span>distinct question-and-choice combinations in the shared practice bank. Editorial review is ongoing.</span>
             </div>
           </aside>
         </section>
@@ -177,48 +168,17 @@
               <span>Total correct</span>
               <strong id="finalCorrect">0/100</strong>
             </div>
-            <div class="final-confidence-badge">
-              <span>Confidence</span>
-              <strong id="finalConfidenceScore">—</strong>
-            </div>
           </div>
-
-          <p id="finalConfidenceText" class="final-confidence">
-            This report is inactive for now. It will be populated with real data after 100 items have been answered. You have answered 0/100.
-          </p>
-
+          <p>This report records a self-study grammar and vocabulary activity. It does not measure an overall English level, predict examination scores, or certify proficiency.</p>
           <div class="final-report-actions">
             <button id="copyReport" class="ghost-action copy-report-action" type="button" disabled>Copy report text</button>
             <span id="copyReportStatus" class="copy-status" role="status">Available after 100 answers.</span>
           </div>
 
-          <div class="final-score-grid" aria-label="Final estimated score ranges">
-            <div>
-              <span>English Road level</span>
-              <strong id="finalLevelRange">—</strong>
-            </div>
-            <div>
-              <span>CEFR</span>
-              <strong id="finalCefr">—</strong>
-            </div>
-            <div>
-              <span>TOEFL iBT</span>
-              <strong id="finalToefl">—</strong>
-            </div>
-            <div>
-              <span>IELTS</span>
-              <strong id="finalIelts">—</strong>
-            </div>
-            <div>
-              <span>TOEIC L&amp;R</span>
-              <strong id="finalToeic">—</strong>
-            </div>
-          </div>
-
-          <p>You answered all 100 questions. Use this English Road report to choose what to practice next.</p>
+          <p id="finalSuggestion"></p>
           <div class="final-area-grid">
             <section aria-labelledby="strongAreasTitle">
-              <h3 id="strongAreasTitle">Strongest areas</h3>
+              <h3 id="strongAreasTitle">Consistent answers in this activity</h3>
               <div id="finalStrongAreas" class="chips compact-chips"></div>
             </section>
             <section aria-labelledby="weakAreasTitle">
@@ -226,7 +186,7 @@
               <div id="finalWeakAreas" class="chips compact-chips"></div>
             </section>
           </div>
-          <div class="report-next-steps"><a class="primary-link" href="practice.html">Choose a practice quiz →</a><a href="https://englishladder.com/">Explore English Ladder lessons ↗</a></div>
+          <div class="report-next-steps"><a id="finalPracticeLink" class="primary-link" href="practice.html">Choose a practice quiz →</a><a id="finalLadderLink" href="https://englishladder.com/">Try an English Ladder reading lesson ↗</a></div>
         </section>
 
         <section id="qaDashboard" class="panel qa-dashboard" aria-labelledby="qaDashboardTitle" hidden><h2 id="qaDashboardTitle">Item-bank dashboard</h2></section>
@@ -235,14 +195,13 @@
           <p>
             No login is required. Your quiz progress can be saved in this browser so a refresh can
             continue the quiz. Cloudflare Web Analytics helps us understand traffic. This is an
-            unofficial practice report, not an official test score.
+            activity report. <a href="about.html">Method, limitations, privacy, and deleting saved progress</a>.
           </p>
         </section>
       </section>
-      <footer class="site-footer"><span>English Road · Find your next step.</span><a href="https://englishladder.com/">Read today’s English lesson at English Ladder <span aria-hidden="true">↗</span></a></footer>
+      <footer class="site-footer"><span>English Road · Find your next step. <a href="about.html">About &amp; privacy</a></span><a href="https://englishladder.com/">Read today’s English lesson at English Ladder <span aria-hidden="true">↗</span></a></footer>
     </main>
-    <script src="item-bank-data.js?v=20260906-family-v2"></script>
-    <script src="app.js?v=20260906-family-v2"></script>
+    <script src="quiz-loader.js?v=20260906-review-v1" data-app="app.js" data-version="20260906-review-v1"></script>
     <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a2642182f9504544b9a79213f2b2e35d"}'></script><!-- End Cloudflare Web Analytics -->
   </body>
 </html>

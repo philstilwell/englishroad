@@ -22,19 +22,19 @@ The existing green ER favicon is reused as the compact brand mark. No new image,
 
 ## Behavior to preserve
 
-- The 4,200-question bank, item generation, scoring, balanced question selection, and answer ordering remain unchanged.
-- Level Check retains its first estimate at five answers and final report at 100. Existing browser storage keys, session format, restoration, and report calculations remain unchanged.
-- Practice begins with the six-level setup. Each quiz still contains 25 non-repeating questions. Answers are locked when checked, with explicit correct/incorrect text and the existing item explanation.
-- Native radio buttons and labeled selectors remain keyboard accessible. Feedback uses polite status regions. Checking an answer never changes its scored result through a retry.
-- Restart controls ask before discarding an unfinished attempt. Level Check also asks before clearing a completed saved report.
-- The study-prompt disclosure retains its existing availability once a practice quiz starts. It includes the answer key and clearly recommends using it after the quiz. Copying only writes text to the clipboard; it never contacts an AI service.
-- Practice answers exist only on the current page; Level Check can save progress in this browser. The sites do not share stored answers or personal data.
-- Completed practice offers a broad English Ladder reading-track link: A1/A2 → beginner, B1/B2 → intermediate, C1/C2 → advanced. No answers or personal information are added to URLs.
+The audit implementation supersedes the first design release’s scoring and storage behavior:
+
+- Display observed performance and small-sample cautions. Do not restore unvalidated confidence percentages, examination conversions, or measured CEFR claims.
+- Draw both tools from the same deduplicated bank and explanation engine. Practice bands describe content, not certified learner ability.
+- Keep native radio controls, clear focus, locked checked answers, and explicit correct/incorrect feedback. Keep feedback stationary; scroll the new question into view when Next is chosen.
+- Level Check has 100 questions; mixed Practice has 25; focused Practice can be shorter. Both tools show truthful saving status, provide readable downloads, and can resume compatible saved progress.
+- Ask before replacing unfinished progress. Make obsolete/corrupt data notices visible and provide a download of the previous saved data when available.
+- Show the AI study prompt only after completion, including the learner’s choices. Copying writes to the clipboard only.
+- Report topic links carry a practice band and topic, without individual answers. English Ladder links are broad reading-track suggestions with no personal data in the URL.
+- Loading failures offer recovery and never silently leave a permanent disabled button.
 
 ## Verification
 
-Check all three routes at 320, 390, 768, and 1280 px, including active questions, feedback, expanded help, and completed reports. Check 200% scaling, long text, native keyboard selection, visible focus, and copy controls. Complete both quiz lengths with mixed correct and incorrect answers; verify no repeats, score totals, five- and 100-answer thresholds, and selection/answer/completion restoration.
+Use the checks in README.md and `node scripts/check.cjs`. Browser verification covers complete sessions, mobile Next positioning, narrow widths, save/restore/failure states, loading errors, translated language metadata, focused topic sets, clipboard, and screenshots. Accessibility scans supplement manual checks; they do not prove complete accessibility.
 
-Use `output/playwright/` for local screenshots and verification logs; those files and `.playwright-cli/` are excluded from commits. Report printing uses the shared typography and green accent. There is no new PDF export.
-
-Verified on September 6, 2026 in Chromium: complete 25-question practice session (16 correct) and 100-question level check (75 correct), unique questions, answer locking, five-answer estimates, final reports, all six practice level choices, all nine language-help choices, refresh/resume before and after checking and after completion, clipboard output, keyboard controls, visible focus, the four target widths, 200% scaling, expanded help, long answers, and print styling. All checked text/background pairs exceed 4.5:1 contrast; green button text measures 6.48:1. No application JavaScript errors occurred. Local verification suppresses the existing analytics script, which otherwise rejects localhost traffic.
+Use `output/playwright/` for local screenshots. The shared social card is a browser capture of the updated homepage, not generated artwork. The existing legacy banner files are no longer referenced by active page metadata.

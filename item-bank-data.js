@@ -5,7 +5,7 @@
     const schema = {
       version: "item-data-v1",
       generatedFields: ["id", "sentence", "options", "answer", "difficulty", "category", "subcategory", "explanation", "rationales", "qaStatus"],
-      qaStatusValues: ["screened"]
+      qaStatusValues: ["draft", "reviewed", "retired"]
     };
 
     const names = ["Mina", "Carlos", "Aiko", "Nadia", "Omar", "Lena", "Sofia", "Daniel", "Rina", "Mateo", "Hana", "Jonas"];
@@ -645,14 +645,14 @@
         difficulty: 4.5,
         make: (i) => {
           const examples = [
-            ["The ___ of the data took two days.", "analysis", "analyze", "analyzed", "analyzing"],
+            ["The ___ of the data took two days.", "analysis", "analyze", "analyzed", "analyzes"],
             ["The manager asked for a more ___ explanation.", "detailed", "detail", "details", "detailing"],
             ["The chart shows a clear ___ in attendance.", "increase", "increasing", "increased", "increases"],
-            ["The team made a careful ___ of the options.", "comparison", "compare", "compared", "comparing"],
+            ["The team made a careful ___ of the options.", "comparison", "compare", "compared", "compares"],
             ["The school needs written ___ from a parent.", "permission", "permit", "permitted", "permitting"],
-            ["The speaker gave a ___ answer to the question.", "direct", "direction", "directly", "directed"],
-            ["The course requires regular ___ in class.", "participation", "participate", "participated", "participating"],
-            ["The office needs an accurate ___ of the total cost.", "calculation", "calculate", "calculated", "calculating"]
+            ["The speaker gave a ___ answer to the question.", "direct", "direction", "directly", "directs"],
+            ["The course requires regular ___ in class.", "participation", "participate", "participated", "participates"],
+            ["The office needs an accurate ___ of the total cost.", "calculation", "calculate", "calculated", "calculates"]
           ];
           const ex = pick(examples, i);
           return item(ex[0], ex.slice(1), ex[1]);
@@ -760,7 +760,7 @@
             ["The list shows the final ___ for the course.", "selection", "select", "selected", "selecting", "select"],
             ["The manager gave official ___ for the new plan.", "approval", "approve", "approved", "approving", "approve"],
             ["The club sent an ___ to every new student.", "invitation", "invite", "invited", "inviting", "invite"],
-            ["The report includes a careful ___ of the answers.", "analysis", "analyze", "analyzed", "analyzing", "analyze"]
+            ["The report includes a careful ___ of the answers.", "analysis", "analyze", "analyzed", "analyzes", "analyze"]
           ];
           const set = pick(sets, i);
           return item(set[0], set.slice(1, 5), set[1], `word-form:${set[5]}`);
@@ -934,11 +934,11 @@
         ["When my friend arrived unexpectedly, I ___.", ["was surprised", "was surprising", "had surprise", "have surprised"], "was surprised"],
         ["I could not see my mother this weekend, so I ___.", ["was disappointed", "was disappointing", "feel disappoint", "disappointed"], "was disappointed"],
         ["The recent decline in the economy makes me ___.", ["depressed", "a depression", "depression", "depressing"], "depressed"],
-        ["Their loud voices were ___ me.", ["annoying to", "annoyance to", "annoyed", "annoying for"], "annoying to"],
+        ["Their loud voices were ___ me.", ["annoying to", "annoyance to", "annoyed", "annoy to"], "annoying to"],
         ["I ___ to find my lost keys under my bed.", ["was relieved", "had relief", "show relief", "took relief"], "was relieved"],
         ["If you ___, I recommend you take a short holiday.", ["are stressed", "are stress", "are stressful", "feel stressful"], "are stressed"],
         ["I am not ___ the danger of earthquakes.", ["worried about", "worried for", "worry about", "worried"], "worried about"],
-        ["Mary's condition ___ after she left the hospital.", ["got worse", "is worse", "is worser", "worsened worse"], "got worse"],
+        ["Mary's condition ___ after she left the hospital.", ["got worse", "get worst", "is worser", "worsened worse"], "got worse"],
         ["Parenting is ___ for many new parents.", ["very stressful", "high stressful", "much stressful", "so big stress"], "very stressful"]
       ],
       verbForms: [
@@ -949,26 +949,26 @@
         ["I ___ that woman before.", ["have never seen", "having never seen", "never see", "not see"], "have never seen"],
         ["I ___ you ten dollars already.", ["have given", "have gave", "gave to", "did give to"], "have given"],
         ["He was severely injured, but he ___.", ["has now recovered", "did now recover", "has now recovering", "now is recovery"], "has now recovered"],
-        ["The team ___ many games recently.", ["has won", "has been winning", "wins", "will win"], "has won"],
-        ["I ___ my job last year because I was tired of working nights.", ["quit", "quitted", "have quitted", "will quit"], "quit"],
+        ["The team ___ many games recently.", ["has won", "has win", "have won", "winning"], "has won"],
+        ["I ___ my job last year because I was tired of working nights.", ["quit", "quitting", "has quit", "will quit"], "quit"],
         ["If he ___ here tomorrow, I hope he brings a camera.", ["comes", "come", "goes", "is going"], "comes"],
         ["I would buy a car if I ___ enough money.", ["had", "have", "make", "pay"], "had"],
         ["The boss would have been happy if they ___ the report.", ["had finished", "can finish", "finish", "were finished"], "had finished"],
-        ["Look outside. It ___ to rain.", ["has started", "started", "will starting", "is doing"], "has started"],
+        ["Look outside. It ___ to rain.", ["has started", "has starting", "will starting", "is doing"], "has started"],
         ["By the time I ___ the database, it was already 7 p.m.", ["accessed", "accessed to", "have accessed", "have access"], "accessed"]
       ],
       prepositions: [
         ["I will return to my hometown ___ Saturday.", ["on", "at", "in", "for"], "on"],
-        ["I saw a good comedy ___ television last night.", ["on", "during", "in", "while"], "on"],
+        ["I saw a good comedy ___ television last night.", ["on", "during", "into", "while"], "on"],
         ["I hope to stay dry ___ home.", ["on my way", "during walking", "for my way", "when walk"], "on my way"],
-        ["I have visited many restaurants ___ Paris.", ["in", "at", "near to", "on"], "in"],
-        ["The differences ___ Tokyo and Paris are significant.", ["between", "about", "among", "of"], "between"],
-        ["My increasing weight is likely related ___ eating late.", ["to", "with", "for", "on"], "to"],
+        ["I have visited many restaurants ___ Paris.", ["in", "into", "onto", "on"], "in"],
+        ["The differences ___ Tokyo and Paris are significant.", ["between", "aboard", "throughout", "under"], "between"],
+        ["My increasing weight is likely related ___ eating late.", ["to", "onto", "during", "on"], "to"],
         ["I was not familiar ___ London, so I got lost.", ["with", "about", "for", "on"], "with"],
         ["I was able to concentrate ___ my work despite the noise.", ["on", "at", "for", "to"], "on"],
         ["I am responsible ___ my work duties.", ["for", "all", "in", "to"], "for"],
         ["The trip will take about one hour ___ train.", ["by", "for the", "on", "with"], "by"],
-        ["We replaced the old coffee machine ___ a new one.", ["with", "behind", "for", "to"], "with"],
+        ["We replaced the old coffee machine ___ a new one.", ["with", "behind", "onto", "to"], "with"],
         ["The map indicated the restaurant was north, so I headed ___ that direction.", ["in", "at", "for", "to"], "in"],
         ["I always feel tired ___ night.", ["at", "in", "over", "when"], "at"],
         ["We have the same opinion ___ this issue.", ["on", "for", "to", "with"], "on"]
@@ -976,7 +976,7 @@
       articlesAndNouns: [
         ["I found my keys under ___ old chair.", ["an", "a", "many", "(nothing)"], "an"],
         ["I bought a new car. ___ car is red.", ["The", "And", "Because a", "New"], "The"],
-        ["Are you able to play ___ piano?", ["the", "a", "for", "on"], "the"],
+        ["Are you able to play ___ piano?", ["the", "an", "for", "on"], "the"],
         ["I have ___ information about the competition.", ["much", "many", "several", "a few"], "much"],
         ["There is ___ furniture in my house.", ["much", "many", "many furnitures", "much furnitures"], "much"],
         ["There was ___ traffic on the road this morning.", ["heavy", "many", "big", "such heavier"], "heavy"],
@@ -985,21 +985,21 @@
         ["I drank ___ water after running.", ["a lot of", "several", "very many", "many"], "a lot of"],
         ["She got sick after eating ___ cake.", ["too much", "a lots of", "very many", "huge many"], "too much"],
         ["I have ___ money, so I cannot buy the computer.", ["little", "few", "not many", "few monies"], "little"],
-        ["A few ___ in my town dislike the tourists.", ["people", "peoples", "of people", "of the people"], "people"],
+        ["A few ___ in my town dislike the tourists.", ["people", "person", "of people", "peoples are"], "people"],
         ["Almost ___ cats are smaller than dogs.", ["all", "every", "all of", "the"], "all"],
         ["Most ___ have a casual way of speaking.", ["Americans", "all American", "every American", "of Americans"], "Americans"]
       ],
       infinitivesAndGerunds: [
         ["Are you able ___ market conditions?", ["to research", "for researching", "at researching", "to researching"], "to research"],
-        ["What is the best way ___ a new apartment?", ["to find", "for finding", "of finding", "to finding"], "to find"],
+        ["What is the best way ___ a new apartment?", ["to find", "to finding", "of find", "for find"], "to find"],
         ["I decided ___ the incident to the police.", ["to report", "on report", "reporting", "the report"], "to report"],
         ["They decided ___ the new product in the U.S.", ["to promote", "promotion of", "on a promote of", "to promoting"], "to promote"],
         ["I asked them ___ the broken machine.", ["to repair", "fixing", "if they repair", "repair"], "to repair"],
         ["It is easy ___ a new computer online.", ["to buy", "easily to buy", "easy for buying", "easy in buying"], "to buy"],
         ["I don't enjoy ___ in English.", ["emailing", "at times I email", "during email", "to do email"], "emailing"],
         ["I hope ___ many friends at university.", ["to make", "finding", "making", "to look"], "to make"],
-        ["It is important ___ your instructor carefully.", ["to listen to", "for listening to", "to listen", "to listen for"], "to listen to"],
-        ["Please consider ___ our product.", ["buying", "if can buy", "if you will buy", "to buy"], "buying"],
+        ["It is important ___ your instructor carefully.", ["to listen to", "to listening to", "listen to", "to listen"], "to listen to"],
+        ["Please consider ___ our product.", ["buying", "if can buy", "buy to", "to buy"], "buying"],
         ["I suggest ___ the museums in Paris.", ["visiting", "you visit to", "visiting to", "to visit for seeing"], "visiting"],
         ["I had difficulty ___ the exam.", ["completing", "for completion of", "in complete", "to complete"], "completing"],
         ["I recommend you ___ dangerous places when traveling.", ["avoid", "to avoiding", "for avoiding", "use caution to avoiding"], "avoid"],
@@ -1007,67 +1007,67 @@
       ],
       wordForms: [
         ["You are always ___ on every project.", ["successful", "a succeed", "succeed", "success"], "successful"],
-        ["This is the end of my ___. Are there any questions?", ["speech", "speak", "speaker", "speaking"], "speech"],
+        ["This is the end of my ___. Are there any questions?", ["speech", "speak", "spoken", "speaks"], "speech"],
         ["I am now ___ to walk home from my office.", ["able", "ability", "able to", "have ability"], "able"],
         ["I received an ___ prize after I won the race.", ["amazing", "amazed", "amazement", "amazingly"], "amazing"],
         ["To be ___, you must think positively.", ["successful", "succeed", "success", "successfully"], "successful"],
-        ["I am ___ your friendship.", ["appreciative of", "appreciating", "feeling appreciative with", "having appreciation for"], "appreciative of"],
-        ["Learning any language requires time and ___.", ["effort", "efforts", "efforting", "effortful"], "effort"],
+        ["I am ___ your friendship.", ["appreciative of", "appreciative to", "appreciation of", "appreciatively of"], "appreciative of"],
+        ["Use the uncountable noun: Learning any language requires time and ___.", ["effort", "efforts", "efforting", "effortful"], "effort"],
         ["His ___ is not important. He is kind even though he is short.", ["height", "high", "short", "tall"], "height"],
-        ["My tennis ___ are still low.", ["skills", "skill is", "skills very", "skill are"], "skills"],
+        ["My tennis ___ are still developing.", ["skills", "skill is", "skills very", "skill are"], "skills"],
         ["Please keep personal information ___.", ["confidential", "careful", "hiding", "secretly"], "confidential"],
-        ["The German ___ has been improving recently.", ["economy", "economic", "finance", "financial"], "economy"],
+        ["The German ___ has been improving recently.", ["economy", "economic", "economical", "economically"], "economy"],
         ["The choice was difficult, but I ___ the blue shirt.", ["chose", "choose", "choice", "choosing"], "chose"],
         ["I am ___ that you will do well.", ["confident", "confidence", "have confident", "am confidence"], "confident"],
         ["The recent news made investors more ___.", ["optimistic", "optimism", "optimist", "optimistically"], "optimistic"]
       ],
       workplace: [
-        ["We would like ___ a 10% discount.", ["to request", "for request", "to be requesting", "your request"], "to request"],
+        ["We would like ___ a 10% discount.", ["to request", "for request", "to requesting", "requesting for"], "to request"],
         ["Can you ___ if we buy 100 units?", ["give us a discount", "be given one", "give us", "have given this"], "give us a discount"],
         ["Please ___ the contract before Friday.", ["sign", "pay", "spend", "cost"], "sign"],
-        ["The company currently ___ a strong data privacy policy.", ["does not have", "did not have", "has no", "is not having"], "does not have"],
+        ["The company currently ___ a strong data privacy policy.", ["does not have", "do not has", "has no", "not having"], "does not have"],
         ["We need to keep our data ___.", ["confidential", "careful", "hiding", "secretly"], "confidential"],
         ["The manager ___ the old copy machine right now.", ["is discussing replacing", "is discussing to replace", "has discussion for replacing", "will discussing replacing"], "is discussing replacing"],
         ["I ___ a credit card last year, but I was rejected.", ["applied for", "applicant on", "applied to", "applying to"], "applied for"],
         ["The CEO ___ the project because it looked promising.", ["signed off on", "signed over", "signed up on", "signed it over"], "signed off on"],
         ["We are ___ with another company.", ["in negotiations", "having negotiating", "negotiate", "on negotiation"], "in negotiations"],
-        ["Your employer must ___ if you work more than 40 hours.", ["pay you overtime", "calculate overtime into salary", "overtime pay to you", "pay for overwork"], "pay you overtime"],
+        ["Your contract promises extra pay for work beyond 40 hours. Under that contract, your employer must ___.", ["pay you overtime", "paying overtime you", "overtime pay to you", "pay you overtimely"], "pay you overtime"],
         ["The new product ___ last month.", ["did not sell very well", "did not sell good", "has not selling very well", "is not selling many"], "did not sell very well"],
         ["The launch of the new products ___.", ["was unsuccessful", "do not succeed", "made successfully", "wasn't success"], "was unsuccessful"],
-        ["The speaker gave three ___ sales.", ["ways to increase", "points increasing", "points to increase", "ways for increasing"], "ways to increase"],
-        ["We need a way ___ our expenses.", ["to reduce", "for reducing", "in reduction of", "of reduction"], "to reduce"]
+        ["The speaker gave three ___ sales.", ["ways to increase", "ways increase to", "ways increasing to", "ways for increase"], "ways to increase"],
+        ["We need a way ___ our expenses.", ["to reduce", "for reduce", "to reducing", "of reduce"], "to reduce"]
       ],
       commonPhrases: [
-        ["He has already ___ a seat on the train.", ["booked", "scheduled", "had", "special"], "booked"],
+        ["He has already ___ a seat on the train.", ["booked", "booking", "book", "special"], "booked"],
         ["I usually pay with a card, but today I paid ___.", ["in cash", "by dollars", "different", "money"], "in cash"],
-        ["If you blow out all the candles, your wish may ___.", ["come true", "go true", "hold true", "make true"], "come true"],
+        ["If you blow out all the candles, your wish may ___.", ["come true", "go true", "come truth", "make true"], "come true"],
         ["I have ___ a new apartment for two weeks.", ["been looking for", "a search for", "been searching", "search for"], "been looking for"],
         ["Feel free to ___ my office anytime.", ["drop by", "return", "stop over", "visit to"], "drop by"],
         ["I'll have my boss ___ as soon as he returns.", ["call you back", "back call you", "call to you", "call to you back"], "call you back"],
         ["You should ___ both doors before we leave.", ["lock", "locking", "to lock", "to locking"], "lock"],
-        ["I borrowed money from my friend, so I need to ___ soon.", ["pay him back", "have paid him back", "make payment back", "pay back it"], "pay him back"],
+        ["I borrowed money from my friend, so I need to ___ soon.", ["pay him back", "pay back he", "pay he back", "pay back it"], "pay him back"],
         ["You can ___ if you exercise every day.", ["get in shape", "conditioning", "have good condition", "shape up yourself"], "get in shape"],
         ["I got lost ___ the park.", ["on my way to", "during walking to", "on the way for", "on way to"], "on my way to"],
-        ["Go ahead and borrow my coat. You can ___ later.", ["bring it back", "back to me", "return for it", "take it back to me"], "bring it back"],
-        ["I need someone to wash my car. Can you ___?", ["do it", "do", "wash this", "washing"], "do it"],
-        ["I ___ my favorite baseball team whenever they play.", ["cheer for", "always cheering", "cheer up", "say cheers at"], "cheer for"],
-        ["We thought it wise to ___ an emergency.", ["prepare for", "have preparation for", "plan an emergency", "prepare emergencies"], "prepare for"]
+        ["Go ahead and borrow my coat. You can ___ later.", ["bring it back", "back to me", "bring back it", "bring back to"], "bring it back"],
+        ["I need someone to wash my car. Can you ___?", ["do it", "doing it", "does it", "washing it"], "do it"],
+        ["I ___ my favorite baseball team whenever they play.", ["cheer for", "always cheering", "cheer at to", "say cheers at"], "cheer for"],
+        ["We thought it wise to ___ an emergency.", ["prepare for", "preparing for", "preparation for", "prepared for"], "prepare for"]
       ],
       linksAndClauses: [
-        ["I like cycling. ___, cycling carries a risk of injury.", ["However", "Because", "In fact", "Therefore"], "However"],
+        ["I like cycling. ___, cycling carries a risk of injury.", ["However", "Because", "Despite of", "Although of"], "However"],
         ["The boy spent all his money on candy. ___, his mother was angry.", ["Therefore", "After", "For example", "This reason"], "Therefore"],
         ["I asked him to close the window ___ I was cold.", ["because", "due to", "since to", "so"], "because"],
-        ["___ my friend is short, he is athletic.", ["Even though", "Even", "Even after", "Even if"], "Even though"],
-        ["I may move to Argentina ___ I know little about the country.", ["even though", "even", "even although", "even if"], "even though"],
-        ["The first idea is useful, ___ the second idea is more practical.", ["but", "for example", "so", "then"], "but"],
-        ["I did well in school, ___ both of my parents were proud.", ["so", "although", "because", "that"], "so"],
+        ["___ my friend is short, he is athletic.", ["Even though", "Even", "Despite of", "Although of"], "Even though"],
+        ["I may move to Argentina ___ I know little about the country.", ["even though", "even", "even although", "despite of"], "even though"],
+        ["The first idea is useful, ___ the second idea is more practical.", ["but", "for example", "despite of", "although of"], "but"],
+        ["I did well in school, ___ both of my parents were proud.", ["so", "despite of", "because of", "that"], "so"],
         ["No one is here in the park ___ me.", ["except for", "except only", "including", "unless"], "except for"],
         ["___ bananas, are there other tropical fruits you enjoy?", ["Apart from", "Excluding banana", "Not counting banana", "Except to"], "Apart from"],
         ["I was allowed to use my father's car ___ I came home before 10 p.m.", ["on the condition that", "condition that", "if the condition", "with conditioning"], "on the condition that"],
-        ["I will let you know ___ my boss gets back.", ["as soon as", "as soon", "soon", "until"], "as soon as"],
+        ["I will let you know ___ my boss gets back.", ["as soon as", "as soon", "soon", "during"], "as soon as"],
         ["I always drink coffee ___ eating breakfast.", ["while", "during", "every time I", "every time"], "while"],
         ["No one in my family believes in Santa ___ me.", ["except for", "but except", "but exception is", "except to"], "except for"],
-        ["I wonder what the company will do ___ the product launch failed.", ["now that", "because that", "during", "while"], "now that"]
+        ["I wonder what the company will do ___ the product launch failed.", ["now that", "because that", "during", "despite of"], "now that"]
       ],
       correctSentences: [
         { text: "Which sentence is correct?", options: ["It is almost 2 p.m. now.", "It has almost 2 p.m. now.", "It close to 2 p.m. now.", "2 p.m. is almost now."], answer: "It is almost 2 p.m. now.", subcategory: "Advanced sentence structure" },
@@ -1076,9 +1076,9 @@
         { text: "Choose the best sentence.", options: ["Were you born the same year as I was?", "Are you born the same year with me?", "Do you and I have the same year of born?", "Are we born the same year?"], answer: "Were you born the same year as I was?", subcategory: "Advanced sentence structure" },
         { text: "Which sentence is correct?", options: ["There are five participants.", "There is five participants.", "There be five participants.", "There will has five participants."], answer: "There are five participants.", subcategory: "Subject-verb agreement" },
         { text: "Choose the correct sentence.", options: ["The teacher prohibits students from eating in class.", "The teacher prohibits students to eat in class.", "The teacher has prohibit students from eating in class.", "The teacher have prohibited students from eating in class."], answer: "The teacher prohibits students from eating in class.", subcategory: "Verb tense" },
-        { text: "Which sentence is correct?", options: ["My brother earns much more than I do.", "My brother make much more than I do.", "My brother has an income much more than I do.", "My brother is paid much more than I do earn."], answer: "My brother earns much more than I do.", subcategory: "Comparatives" },
-        { text: "Choose the best sentence.", options: ["I had my hair cut by the barber.", "I cut my hair by the barber.", "I am cutting my hairs at the barber.", "I had my hairs cut by the barber."], answer: "I had my hair cut by the barber.", subcategory: "Passive voice" },
-        { text: "Which sentence is correct?", options: ["I have been busy recently.", "I have busy life recently.", "I am busy recently.", "I had been busy recently."], answer: "I have been busy recently.", subcategory: "Verb tense" },
+        { text: "Which sentence is correct?", options: ["My brother earns much more than I do.", "My brother make much more than I do.", "My brother has an income much more than I do.", "My brother earn much than I do."], answer: "My brother earns much more than I do.", subcategory: "Comparatives" },
+        { text: "Choose the best sentence.", options: ["I had my hair cut by the barber.", "I cut my hair by the barber.", "I am cutting my hairs at the barber.", "I had my hair cutting by the barber."], answer: "I had my hair cut by the barber.", subcategory: "Passive voice" },
+        { text: "Which sentence is correct?", options: ["I have been busy recently.", "I have busy life recently.", "I am busy recently.", "I have be busy recently."], answer: "I have been busy recently.", subcategory: "Verb tense" },
         { text: "Choose the correct sentence.", options: ["Most people do not worry about earthquakes.", "Almost people do not worry about earthquakes.", "Most of people do not worry about earthquakes.", "Most of the peoples do not worry about earthquakes."], answer: "Most people do not worry about earthquakes.", subcategory: "Count and noncount nouns" },
         { text: "Which sentence is correct?", options: ["I enjoy watching kittens play.", "I enjoy to watch kittens play.", "I enjoy to look kittens playing.", "I am enjoying to view kittens."], answer: "I enjoy watching kittens play.", subcategory: "Clauses and connectors" },
         { text: "Choose the best sentence.", options: ["It does not matter what people think about you.", "It does not care what people think about you.", "It does not important what people think about you.", "It does not problem what people think about you."], answer: "It does not matter what people think about you.", subcategory: "Advanced sentence structure" }
@@ -1108,7 +1108,7 @@
         ["The students finished the worksheets and handed ___ in.", ["them", "it", "they", "she"], "them"],
         ["The teacher spoke to Carlos and asked ___ to read aloud.", ["him", "he", "they", "it"], "him"],
         ["The course has many lessons, and ___ are all online.", ["they", "it", "them", "he"], "they"],
-        ["Mina emailed the office because ___ needed a receipt.", ["she", "her", "they", "it"], "she"],
+        ["Mina emailed the office because ___ needed a receipt.", ["she", "her", "hers", "herself"], "she"],
         ["The files are private, so please do not share ___.", ["them", "it", "they", "he"], "them"],
         ["The notice is important; please read ___ carefully.", ["it", "them", "they", "her"], "it"],
         ["The children brought umbrellas because ___ expected rain.", ["they", "them", "it", "he"], "they"]
@@ -1121,13 +1121,13 @@
         ["There are ___ mistakes in this paragraph, so please check it.", ["several", "much", "a little", "every"], "several"],
         ["The office has ___ paper left, so we can print the forms.", ["some", "many", "few", "several"], "some"],
         ["___ of the two answers is correct.", ["Neither", "All", "Many", "Several"], "Neither"],
-        ["We invited ten people, and ___ of them replied.", ["most", "much", "each", "any"], "most"]
+        ["We invited ten people. Eight replied, so ___ of them replied.", ["most", "much", "each", "any"], "most"]
       ],
       describingForms: [
-        ["The speaker answered the question ___.", ["quickly", "quick", "quickness", "quicker"], "quickly"],
+        ["Use the -ly adverb: The speaker answered the question ___.", ["quickly", "quick", "quickness", "quicker"], "quickly"],
         ["The answer was ___ enough for everyone to understand.", ["simple", "simply", "simplicity", "simpler than"], "simple"],
         ["The student looked ___ after the long exam.", ["tired", "tiredly", "tiringly", "tire"], "tired"],
-        ["The teacher spoke ___ because the room was noisy.", ["loudly", "loud", "loudness", "louder than"], "loudly"],
+        ["Use the -ly adverb: The teacher spoke ___ because the room was noisy.", ["loudly", "loud", "loudness", "louder than"], "loudly"],
         ["The new instructions are ___ helpful.", ["especially", "especial", "special", "specialness"], "especially"],
         ["The team worked ___ to meet the deadline.", ["hard", "hardly", "hardness", "harder than"], "hard"],
         ["The bus arrived ___, so we missed the first activity.", ["late", "lately", "lateness", "later than"], "late"],
@@ -1138,10 +1138,10 @@
         ["Which sentence is complete?", ["When the class ended, the students left quietly.", "When the class ended.", "The students left quietly when.", "When ended class, left quietly."], "When the class ended, the students left quietly."],
         ["Choose the complete sentence.", ["The report was short, but it answered the question.", "The report was short but.", "But it answered the question the report.", "Short report, but answered."], "The report was short, but it answered the question."],
         ["Which sentence is complete?", ["If the office calls, please write down the message.", "If the office calls.", "Please write down if office.", "The office calls if the message."], "If the office calls, please write down the message."],
-        ["Choose the complete sentence.", ["The form was missing, so the clerk printed another copy.", "The form was missing so.", "So the clerk printed.", "Missing form, another copy clerk."], "The form was missing, so the clerk printed another copy."],
+        ["Choose the complete sentence.", ["The form was missing, so the clerk printed another copy.", "The form was missing so.", "Because the clerk printed.", "Missing form, another copy clerk."], "The form was missing, so the clerk printed another copy."],
         ["Which sentence is complete?", ["Although the test was hard, many students passed.", "Although the test was hard.", "Many students passed although.", "Although hard test, passed students."], "Although the test was hard, many students passed."],
         ["Choose the complete sentence.", ["The email arrived after the meeting had ended.", "After the meeting had ended.", "The email after meeting.", "Had ended the meeting email arrived."], "The email arrived after the meeting had ended."],
-        ["Which sentence is complete?", ["The teacher gave examples, and the class understood the rule.", "The teacher gave examples and.", "And the class understood.", "Examples teacher gave understood rule."], "The teacher gave examples, and the class understood the rule."]
+        ["Which sentence is complete?", ["The teacher gave examples, and the class understood the rule.", "The teacher gave examples and.", "Although the class understood.", "Examples teacher gave understood rule."], "The teacher gave examples, and the class understood the rule."]
       ],
       formalRequirements: [
         ["The contract requires that each page ___ signed.", ["be", "is", "was", "being"], "be"],
@@ -1288,8 +1288,8 @@
       ...blueprint,
       make: (i) => {
         const set = pick(blueprint.sets, i);
-        if (set && !Array.isArray(set)) return item(set.text, set.options, set.answer, "", "", { subcategory: set.subcategory });
-        return item(set[0], set[1], set[2]);
+        if (set && !Array.isArray(set)) return item(set.text, set.options, set.answer, "", set.setup || "", { ...set });
+        return item(set[0], set[1], set[2], "", "", set[3] || {});
       }
     }));
     

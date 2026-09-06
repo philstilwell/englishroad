@@ -3,23 +3,28 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="English Road Practice Quizzes give English learners 25-item practice sets with an AI study prompt.">
+    <meta name="description" content="English Road Practice Quizzes give English learners practice sets by level and topic with an AI study prompt.">
     <meta name="theme-color" content="#FAF9F6">
-    <meta name="englishroad-version" content="20260906-family-v2">
+    <meta name="englishroad-version" content="20260906-review-v1">
     <link rel="canonical" href="https://englishroad.com/practice.html">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://englishroad.com/practice.html">
     <meta property="og:title" content="English Road Practice Quizzes">
-    <meta property="og:description" content="Choose A1-C2 and take a 25-question English practice quiz with an AI study prompt.">
-    <meta property="og:image" content="https://englishroad.com/practice-title.svg">
+    <meta property="og:description" content="Choose A1-C2 and choose a topic or a 25-question mixed quiz with an AI study prompt.">
+    <meta property="og:image" content="https://englishroad.com/social-preview.png">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta property="og:image:alt" content="English Road: grammar and vocabulary practice in the green English Family design">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="English Road Practice Quizzes">
-    <meta name="twitter:description" content="Choose A1-C2 and take a 25-question English practice quiz with an AI study prompt.">
-    <meta name="twitter:image" content="https://englishroad.com/practice-title.svg">
+    <meta name="twitter:description" content="Choose A1-C2 and choose a topic or a 25-question mixed quiz with an AI study prompt.">
+    <meta name="twitter:image" content="https://englishroad.com/social-preview.png">
     <title>English Road Practice Quizzes</title>
-    <link rel="icon" href="favicon.svg?v=20260906-family-v2" type="image/svg+xml">
-    <link rel="stylesheet" href="family.css?v=20260906-family-v2">
-    <link rel="stylesheet" href="practice.css?v=20260906-family-v2">
+    <link rel="icon" href="favicon.svg?v=20260906-review-v1" type="image/svg+xml">
+    <link rel="stylesheet" href="family.css?v=20260906-review-v1">
+    <link rel="stylesheet" href="practice.css?v=20260906-review-v1">
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
@@ -43,7 +48,7 @@
         <details id="practiceSetupDetails" class="practice-setup-details" open><summary>Change level or start again</summary>
         <form id="practiceSetup" class="setup-box">
           <label for="levelSelect">
-            <span>Choose your CEFR level</span>
+            <span>Choose a practice band</span>
             <select id="levelSelect">
               <option value="A1">A1 beginner</option>
               <option value="A2" selected>A2 elementary</option>
@@ -53,12 +58,17 @@
               <option value="C2">C2 very advanced</option>
             </select>
           </label>
-          <span class="quiz-length">25 questions</span>
+          <label for="topicSelect"><span>Choose a topic</span><select id="topicSelect"><option value="">All topics</option></select></label>
+          <span id="quizLength" class="quiz-length">Up to 25 questions</span>
           <button id="startPracticeQuiz" class="primary-action" type="submit" disabled>Loading questions…</button>
-        </form></details>
-        <p class="cefr-help">CEFR is the Common European Framework of Reference for Languages, from A1 to C2. <a href="level-check.html">Not sure of your level?</a></p>
+        </form><p id="setupStatus" class="side-note" role="status"></p></details>
+        <p class="cefr-help">A1–C2 are labels from the Common European Framework of Reference for Languages (CEFR). Here they are approximate practice bands; completing a quiz does not establish your CEFR level. <a href="level-check.html">Not sure of your level?</a></p>
       </section>
 
+      <div id="loadStatus" class="notice" role="status"><p id="loadMessage">Loading questions. If this takes too long, check your connection.</p><a href="">Retry loading</a></div>
+      <div id="sessionNotice" class="notice" role="status" hidden></div>
+      <div class="save-bar"><p id="saveStatus" role="status" aria-live="polite">Progress can be saved in this browser.</p><button id="downloadProgress" class="text-action" type="button" disabled>Download progress</button></div>
+      <section id="resumePracticeBox" class="notice" hidden><h2>Continue your practice</h2><p id="resumePracticeMessage"></p><div class="actions"><button id="resumePractice" class="primary-action" type="button">Resume saved quiz</button><button id="downloadSavedPractice" class="ghost-action" type="button">Download saved progress</button></div></section>
       <noscript><p>Turn on JavaScript to start a practice quiz.</p></noscript>
       <section id="practiceLayout" class="practice-layout" hidden>
         <article class="panel quiz-panel" aria-label="Practice question">
@@ -81,6 +91,7 @@
             <button id="nextPracticeItem" class="primary-action" type="button" hidden>Next question</button>
             <button id="restartPractice" class="ghost-action" type="button">New quiz</button>
           </div>
+          <p class="question-report"><a id="reportQuestion" href="https://github.com/philstilwell/englishroad/issues" target="_blank" rel="noopener noreferrer" hidden>Report a question problem</a></p>
           <section id="practiceReview" class="practice-review" aria-labelledby="practiceReviewTitle" hidden><h2 id="practiceReviewTitle">Review answers</h2></section>
 
         </article>
@@ -91,7 +102,7 @@
           <p id="practiceEmpty" class="side-note">Your results will appear as you answer.</p>
           <div id="practiceStats" class="side-stats" hidden>
             <div>
-              <span>CEFR level</span>
+              <span>Practice band</span>
               <strong id="sideLevel">A2</strong>
             </div>
             <div>
@@ -106,28 +117,27 @@
             <h3 id="practiceSummaryTitle">Areas practiced</h3>
             <div id="practiceAreas" class="practice-chips"></div>
           </section>
-          <details class="ai-prompt-box">
-            <summary>Study prompt and answer key</summary>
-            <p>This includes all 25 questions and the answer key, so it is best used after the quiz. “Copy study prompt” copies text for you to paste into an AI service. Nothing is sent automatically.</p>
-            <textarea id="aiPromptText" readonly aria-label="AI prompt for this 25-item quiz"></textarea>
+          <details id="aiPromptBox" class="ai-prompt-box" hidden>
+            <summary>Review with an AI study prompt</summary>
+            <p>After you finish, this includes your missed questions, your choices, and the site’s explanations. If you missed none, it includes all your answers. “Copy study prompt” copies text for you to paste into an AI service. Nothing is sent automatically.</p>
+            <textarea id="aiPromptText" readonly aria-label="Study prompt for your completed quiz"></textarea>
             <button id="copyAiPrompt" class="ghost-action copy-prompt-action" type="button">Copy study prompt</button>
             <span id="copyAiPromptStatus" class="copy-prompt-status" role="status"></span>
           </details>
           <div class="bank-note">
-            <strong>4,200</strong>
-            <span>practice questions available across A1, A2, B1, B2, C1, and C2 levels</span>
+            <strong id="bankSize">659</strong>
+            <span>distinct question-and-choice combinations across the practice bands. Editorial review is ongoing.</span>
           </div>
           <div class="privacy-note">
             <h2>Privacy and use</h2>
-            <p>No login is required. Cloudflare Web Analytics helps us understand site traffic. Practice answers stay on this page and are lost when you leave or refresh it. Your results are unofficial.</p>
+            <p>No login is required. Cloudflare Web Analytics helps us understand site traffic. Practice progress can be saved in this browser. Check the save status, especially on a shared device. <a href="about.html">Method, limitations, privacy, and deleting saved progress</a>.</p>
           </div>
         </aside>
       </section>
-      <footer class="site-footer"><span>English Road · Find your next step.</span><a href="https://englishladder.com/">Read today’s English lesson at English Ladder <span aria-hidden="true">↗</span></a></footer>
+      <footer class="site-footer"><span>English Road · Find your next step. <a href="about.html">About &amp; privacy</a></span><a href="https://englishladder.com/">Read today’s English lesson at English Ladder <span aria-hidden="true">↗</span></a></footer>
     </main>
 
-    <script src="item-bank-data.js?v=20260906-family-v2"></script>
-    <script src="practice.js?v=20260906-family-v2"></script>
+    <script src="quiz-loader.js?v=20260906-review-v1" data-app="practice.js" data-version="20260906-review-v1"></script>
     <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a2642182f9504544b9a79213f2b2e35d"}'></script><!-- End Cloudflare Web Analytics -->
   </body>
 </html>

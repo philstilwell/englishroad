@@ -2,18 +2,34 @@
 
 Static GitHub Pages app for `englishroad.com`.
 
-EnglishRoad has two static tools backed by a generated bank of 4,200 screened ESL multiple-choice items.
+English Road offers grammar and vocabulary self-study, using 659 distinct question-and-choice combinations selected from 4,200 generated variations.
 
-- **Level Check**: a 100-question unofficial placement tool. It estimates EnglishRoad level, CEFR, TOEFL iBT, IELTS, and TOEIC L&R ranges; shows confidence language; and creates a screenshot-friendly final report.
-- **Practice Quizzes**: 25-question quizzes for A1, A2, B1, B2, C1, and C2. Each quiz uses non-repeating random items from the same bank and includes a copyable AI study prompt for deeper explanations.
+- **Level Check**: a 100-question review with answer explanations, correct-answer totals, topic counts, and a downloadable/copyable activity report. It does not claim a measured CEFR level, numerical confidence, or predicted examination scores.
+- **Practice**: 25-question mixed sets across A1–C2 practice bands, or shorter focused topic sets. No question repeats within an attempt. A completed quiz offers a review and an optional study prompt containing the learner’s actual choices.
+- **About and privacy**: the method, limits, ongoing editorial review, browser-data export, and deletion controls.
 
-Each item is generated from a controlled blueprint with coded difficulty, parent category, practice area, explanation, option rationales, and QA status. Level Check samples across Grammar/Vocabulary, subcategories, and difficulty bands. Missed items are registered under `Grammar` and `Vocabulary` with practice areas beneath each.
+Both tools can save one attempt in the browser. Save failures are visible and unsaved work has a leave warning. Previous Level Check sessions using obsolete questions/calculations cannot be resumed, but their saved data is retained as one backup when browser storage permits and can be downloaded from the update notice. A content fingerprint detects changed questions even if the saved-session format has not changed. Exported records are not importable quiz sessions. Concurrent changes in another tab are detected before overwriting them.
 
-The site does not require a login. Level Check can store progress in the browser so a refresh can continue the quiz. Cloudflare Web Analytics is included on the main pages to understand traffic.
+## Shared code and data
 
-## Internal QA
+- `item-bank-data.js`: authored templates and answer choices.
+- `question-engine.js`: one bank builder, deduplication, shared explanations, display helpers, option ordering, and structural validation. Stable first-entry IDs survive deduplication; repeated entries use one averaged editorial difficulty. Corrected feedback records a reviewer and date where explicitly reviewed. Other entries remain `draft`.
+- `learning-summary.js`: whole-history difficulty pacing and conservative, changeable practice suggestions. The logistic pacing cue is internal only; it is not a validated proficiency score. It has no recency weighting, and an incorrect response cannot increase it.
+- `site-ui.js`: save status, record downloads, saved-data validation helpers, question-report links, and question focus/scroll behavior.
+- `quiz-loader.js`: concurrent script fetching with ordered execution, bounded waiting, and retry guidance. Each app signals readiness only after initialization succeeds.
+- `app.js` / `practice.js`: the distinct activity flows and saved-session handling.
 
-Open `level-check.html?qa=1` or `level-check.html#qa` to view the internal item-bank dashboard. It shows item counts, category coverage, duplicate-risk groups, missing rationales, flagged ambiguity, and QA status issues. The dashboard also includes a JSON export for future audits.
+Suggested bands require at least five responses in the band and at least 75% correct; suggestions appear after ten total answers. When no band qualifies, A1 is offered as a starting point. These are transparent practice rules, not psychometric thresholds. Topic links choose an available band closest to the general suggestion, and learners can change it.
+
+## Checks before publishing
+
+Run `node scripts/check.cjs` (Node.js 22 or newer). No dependency installation is needed. It checks the distinct bank, answer metadata, known content regressions, monotonic pacing, order independence for identical responses, full synthetic runs, all six mixed sets, and every topic/band combination. These checks do not establish linguistic correctness or CEFR validity.
+
+For browser verification, test both complete quiz flows, selected/checked/completed restore, ordinary navigation, 320-pixel Next positioning, keyboard focus, nine help languages, clipboard/downloads, blocked storage, obsolete/corrupt saves, script failures and retry, and every public page at 320/390/768/1280 pixels. Use an isolated browser profile; do not clear a learner’s actual progress. Keep temporary evidence under ignored `output/`.
+
+The internal dashboard at `level-check.html?qa=1` distinguishes structural flags from editorial review pending. It offers a JSON export. An absence of automated flags does not mean every answer key is correct. Full independent editorial review, real-learner validation, and manual assistive-technology evaluation remain necessary before making stronger claims.
+
+Cloudflare’s existing page-traffic analytics remains in place. There is no custom answer/report collection and no automatic call to an AI service. The question-report link opens a GitHub issue draft for the learner to submit; the site does not submit it automatically.
 
 ## Deploy on GitHub Pages
 
@@ -44,4 +60,4 @@ After DNS resolves in GitHub Pages, enable **Enforce HTTPS**.
 
 ## Design system
 
-The September 2026 redesign aligns English Road with English Ladder's editorial layout while keeping English Road green. See [DESIGN.md](DESIGN.md) for the shared foundation, component rules, preserved assessment behavior, and verification checklist. All three pages load `family.css` before their page-specific stylesheet.
+The September 2026 redesign aligns English Road with English Ladder's editorial layout while keeping English Road green. See [DESIGN.md](DESIGN.md) for the shared foundation, component rules, current activity behavior, and verification checklist. All three pages load `family.css` before their page-specific stylesheet.
