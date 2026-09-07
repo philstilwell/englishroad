@@ -156,7 +156,6 @@ function renderPractice() {
   document.getElementById("practiceFeedback").className = "feedback";
   document.getElementById("practiceAnswerHint").hidden = false;
   const item = state.quiz[state.index];
-  window.EnglishRoadUI.updateReportLink("reportQuestion", item);
   const review = document.getElementById("practiceReview");
   if (review) review.hidden = true;
   renderSidePanel();
@@ -318,7 +317,6 @@ function renderPracticeReview() {
             <p class="review-meta">Correct answer: <strong>${escapeHtml(response.answer)}</strong></p>
             <p class="review-rationale">${escapeHtml(response.explanation || "This is the best answer for the item.")}</p>
             <p class="review-rationale">${escapeHtml(selectedLine)}</p>
-            <p class="question-report"><a href="${escapeHtml(window.EnglishRoadUI.questionReportLink(response))}" target="_blank" rel="noopener noreferrer">Report a question problem · ${escapeHtml(response.id)}</a></p>
           </article>
         `;
       }).join("")}

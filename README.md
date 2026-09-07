@@ -15,7 +15,7 @@ Both tools can save one attempt in the browser. Save failures are visible and un
 - `item-bank-data.js`: authored templates and answer choices.
 - `question-engine.js`: one bank builder, deduplication, shared explanations, display helpers, option ordering, and structural validation. Stable first-entry IDs survive deduplication; repeated entries use one averaged editorial difficulty. Corrected feedback records a reviewer and date where explicitly reviewed. Other entries remain `draft`.
 - `learning-summary.js`: whole-history difficulty pacing and conservative, changeable practice suggestions. The logistic pacing cue is internal only; it is not a validated proficiency score. It has no recency weighting, and an incorrect response cannot increase it.
-- `site-ui.js`: save status, record downloads, saved-data validation helpers, question-report links, and question focus/scroll behavior.
+- `site-ui.js`: save status, record downloads, saved-data validation helpers, and question focus/scroll behavior.
 - `quiz-loader.js`: concurrent script fetching with ordered execution, bounded waiting, and retry guidance. Each app signals readiness only after initialization succeeds.
 - `app.js` / `practice.js`: the distinct activity flows and saved-session handling.
 
@@ -29,7 +29,7 @@ For browser verification, test both complete quiz flows, selected/checked/comple
 
 The internal dashboard at `level-check.html?qa=1` distinguishes structural flags from editorial review pending. It offers a JSON export. An absence of automated flags does not mean every answer key is correct. Full independent editorial review, real-learner validation, and manual assistive-technology evaluation remain necessary before making stronger claims.
 
-Cloudflare’s existing page-traffic analytics remains in place. There is no custom answer/report collection and no automatic call to an AI service. The question-report link opens a GitHub issue draft for the learner to submit; the site does not submit it automatically.
+Cloudflare’s existing page-traffic analytics remains in place. There is no custom answer/report collection and no automatic call to an AI service.
 
 ## Hosting and publishing
 

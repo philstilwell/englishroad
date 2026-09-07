@@ -352,7 +352,6 @@ function renderQuestion() {
 function renderCurrentQuestion() {
   if (!state.current) return;
   const displayNumber = clamp(state.answered ? state.questionIndex : state.questionIndex + 1, 1, TOTAL_QUESTIONS);
-  window.EnglishRoadUI.updateReportLink("reportQuestion", state.current);
   document.getElementById("questionNumber").textContent = String(displayNumber);
   document.getElementById("totalQuestions").textContent = String(TOTAL_QUESTIONS);
   document.getElementById("meterFill").style.width = `${(displayNumber / TOTAL_QUESTIONS) * 100}%`;

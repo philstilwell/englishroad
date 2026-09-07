@@ -128,20 +128,5 @@
       new Set(saved).size === original.length && saved.every((value) => original.includes(value));
   }
 
-  function questionReportLink(question) {
-    const params = new URLSearchParams({
-      title: `Question review: ${question.id}`,
-      body: `Question ID: ${question.id}\nQuestion: ${question.taskText}\nChoices: ${question.options.join(" | ")}\n\nWhat seems wrong?\n\nSuggested correction (optional):\n\nPlease do not include personal details or your full report.`
-    });
-    return `https://github.com/philstilwell/englishroad/issues/new?${params}`;
-  }
-  function updateReportLink(id, question) {
-    const link = document.getElementById(id);
-    link.hidden = !question;
-    if (question) {
-      link.href = questionReportLink(question);
-      link.textContent = `Report a question problem · ${question.id}`;
-    }
-  }
-  window.EnglishRoadUI = Object.freeze({ focusQuestion, downloadText, sessionStore, validOptions, updateReportLink, questionReportLink });
+  window.EnglishRoadUI = Object.freeze({ focusQuestion, downloadText, sessionStore, validOptions });
 })();
