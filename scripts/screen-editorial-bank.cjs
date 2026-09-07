@@ -6,7 +6,7 @@ const vm = require('node:vm');
 const crypto = require('node:crypto');
 const root = path.resolve(__dirname, '..');
 const context = vm.createContext({ window: {}, console });
-for (const name of ['item-bank-data.js', 'coverage-bank-data.js', 'question-engine.js', 'learning-summary.js']) {
+for (const name of ['coverage-bank-data.js', 'question-engine.js', 'learning-summary.js']) {
   vm.runInContext(fs.readFileSync(path.join(root, name), 'utf8'), context);
 }
 const bank = context.window.EnglishRoadQuestions.createQuestionBank();

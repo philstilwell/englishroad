@@ -23,5 +23,12 @@ for (const revision of revisions) {
   byId.set(q.id, q);
 }
 group.items = group.items.map(q => byId.get(q.id) || q);
-fs.writeFileSync(path.resolve(topicFile), JSON.stringify(group, null, 2) + '\n');
+const destination = path.resolve(topicFile);
+const temporary = `${destination}.${process.pid}.tmp`;
+try {
+  fs.writeFileSync(temporary, JSON.stringify(group, null, 2) + '\n', { flag: 'wx' });
+  fs.renameSync(temporary, destination);
+} finally {
+  if (fs.existsSync(temporary)) fs.unlinkSync(temporary);
+}
 console.log(`Applied ${revisions.length} authored revisions to ${group.topic}.`);

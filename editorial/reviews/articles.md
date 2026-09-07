@@ -3482,37 +3482,37 @@ Choose the strongest conclusion the wording supports.
 
 **Similarity review:** An artwork counted by its maker's name, not an aspect of a person.
 
-### 9. Bare role complement licensed by an appointment construction
+### 9. Indefinite article with a modified plural measure expression
 
 ID: `coverage-articles-c2-469`
 
-Choose the explanation that avoids adding an unwarranted rule.
+An editor queries the article before the plural unit in this sentence. Choose the sound response to the query.
 
-"She was appointed director of the observatory." Why can "director" appear without an article?
+'The projectionist waited a further twenty minutes before starting the film.'
 
-1. The phrase names the office conferred on her after appointed **[Correct]**
-2. Director is treated as a personal name because a unique job is involved
-3. Director becomes an uncountable activity, like management, in this sentence
-4. An of-phrase makes a role noun definite and therefore removes its article
+1. The article is licensed because the phrase presents one additional duration measured in plural units. **[Correct]**
+2. The article marks an approximation, so twenty minutes must be understood as an imprecise estimate.
+3. The article is licensed because further changes minutes from a countable noun into an uncountable noun.
+4. The article is an error here; the plural unit requires either the or no article instead.
 
-**Explanation:** After verbs such as "appoint" and "elect", an office can be named without an article: "appointed director". That licensing belongs to the construction; it is not a rule that all profession nouns are article-free.
+**Explanation:** A further twenty minutes is a valid measure expression: the twenty minutes are presented as one additional stretch of time. Minutes remains plural; this construction does not license ordinary phrases such as a minutes or a chairs.
 
 **Choice feedback:**
 
-- **The phrase names the office conferred on her after appointed:** The verb licenses a bare phrase naming the office resulting from the appointment.
-- **Director is treated as a personal name because a unique job is involved:** The noun remains a role description, not part of her name. Bare office complements do not require a naming interpretation.
-- **Director becomes an uncountable activity, like management, in this sentence:** Director still names an office or role, not the activity of directing. The construction licenses the missing article.
-- **An of-phrase makes a role noun definite and therefore removes its article:** Postmodification does not impose article omission: "the director of the observatory" is a normal complete noun phrase.
+- **The article is licensed because the phrase presents one additional duration measured in plural units.:** The article belongs to the complete measure expression, which packages the plural units as an additional duration.
+- **The article marks an approximation, so twenty minutes must be understood as an imprecise estimate.:** The duration may be exact or approximate in the real situation. A further does not itself require an approximate reading; it marks an additional amount.
+- **The article is licensed because further changes minutes from a countable noun into an uncountable noun.:** Minutes still counts units of time and retains plural form. The construction groups those units into a duration rather than changing the noun into a mass noun.
+- **The article is an error here; the plural unit requires either the or no article instead.:** This applies the elementary a-plus-singular rule too broadly. Modified measure expressions such as a further twenty minutes legitimately contain a plural unit after a.
 
 **Decision:** replaced.
 
-**Original findings:** Original only assumption that was unnatural and made the answer trivial.
+**Original findings:** Original only-assumption template was unnatural; the first director replacement duplicated C1's bare elected-office construction.
 
-**Learning value:** Replaces an overgeneralised article rule with a construction-specific explanation.
+**Learning value:** Teaches an important limit on the simplified rule that an indefinite article cannot occur with a plural unit.
 
-**Level rationale:** Tests a restricted formal construction and its limits; distractors target competing explanations.
+**Level rationale:** Requires judging a construction-specific exception while distinguishing number, countability, grouping, and approximation.
 
-**Similarity review:** Names an office conferred by a verb rather than referring to an incumbent.
+**Similarity review:** A grouped duration in a cinema setting replaces a second appointment-role item; unlike a good many, the quantity is numerically specified.
 
 ### 10. Article-controlled contrast between intensifying and ranking most
 
@@ -3550,65 +3550,65 @@ A diarist calls a guest's interruption 'a most unhelpful intervention'. An edito
 
 ID: `coverage-articles-c2-471`
 
-Choose the explanation that accounts for the narrator's correction.
+Read the description as the chair's interpretation, then consider the narrator's correction.
 
-'The chair took a silence for the silence of agreement; in fact, nobody had understood the proposal.' Why can the writer use 'the silence of agreement' without saying that the group agreed?
+The chair called the pause 'the silence of agreement'. In fact, nobody had understood the proposal. Why does the definite phrase not establish that the group agreed?
 
-1. The definite phrase names the interpretation the chair imposed, rather than one the narrator endorses **[Correct]**
-2. The definite phrase establishes agreement as a fact, while the ending questions only its wisdom
-3. The definite phrase identifies an earlier agreement, so the ending refers to a different proposal
-4. The definite phrase specifies a duration of silence, leaving the group's attitude outside its meaning
+1. The phrase reports the chair's characterization, which the narrator does not endorse. **[Correct]**
+2. The phrase establishes agreement, but leaves its precise content for the reader to identify.
+3. The phrase identifies a previous agreement that the group had reached before the pause.
+4. The phrase denotes a hypothetical silence rather than the pause that actually occurred.
 
-**Explanation:** 'Took X for Y' can report a mistaken interpretation. A silence introduces the pause; the silence of agreement describes what the chair wrongly thought it represented. The definite phrase belongs inside that attributed interpretation, which the narrator then corrects.
+**Explanation:** The pause occurred, but the chair's label assigns it an interpretation. The narrator reports that label without endorsing it and immediately explains why it was mistaken. Definiteness inside an attributed description does not turn the described agreement into the narrator's own assertion.
 
 **Choice feedback:**
 
-- **The definite phrase names the interpretation the chair imposed, rather than one the narrator endorses:** The article identifies a kind of meaningful silence within the chair's mistaken reading of events.
-- **The definite phrase establishes agreement as a fact, while the ending questions only its wisdom:** The phrase is within 'took ... for', not an independent assertion of agreement. The ending explains why the chair's interpretation was mistaken.
-- **The definite phrase identifies an earlier agreement, so the ending refers to a different proposal:** No earlier agreement or second proposal is introduced. The contrast concerns two interpretations of the same pause.
-- **The definite phrase specifies a duration of silence, leaving the group's attitude outside its meaning:** 'Of agreement' attributes communicative significance to the silence; it does not measure how long the pause lasted.
+- **The phrase reports the chair's characterization, which the narrator does not endorse.:** Called attributes the description to the chair, while the following sentence rejects the inference of agreement.
+- **The phrase establishes agreement, but leaves its precise content for the reader to identify.:** The narrator disputes the agreement itself, not merely the identification of its content. The is part of the chair's label.
+- **The phrase identifies a previous agreement that the group had reached before the pause.:** No earlier agreement is established. The description is the chair's interpretation of the present pause.
+- **The phrase denotes a hypothetical silence rather than the pause that actually occurred.:** The pause is real in the narrative. What fails is the interpretation of it as agreement, not its occurrence.
 
 **Decision:** replaced.
 
-**Original findings:** Original treats silence as evidence allowed a particular-silence reading and generic feedback.
+**Original findings:** Original abstract-noun template was elementary; a later replacement used the stilted wording took a silence for the silence of agreement.
 
 **Learning value:** Shows that an identifiable description within a reported viewpoint is not automatically the narrator's factual commitment.
 
 **Level rationale:** Requires tracking article reference through an attribution of belief and a subsequent correction.
 
-**Similarity review:** A mistaken viewpoint, distinct from conditional reference and countable emotional qualities.
+**Similarity review:** A quoted label and an explicit narrative correction test attributed reference without repeating a hypothetical-existence construction.
 
-### 12. Representative generic indefinite with a postmodified singular noun
+### 12. Discourse-dependent generic and particular readings of the same modified indefinite
 
 ID: `coverage-articles-c2-472`
 
-Choose the interpretation of the modified indefinite noun phrase.
+Compare the same indefinite noun phrase in two different kinds of writing.
 
-"A novel of this kind rewards a patient reader." The critic is making a general claim about a genre, rather than reviewing one identified book. Why is "a novel of this kind" appropriate?
+A handbook on political fiction says, 'A novel of this kind can outlive the controversy that prompted it.' A security log says, 'A novel of this kind has vanished from the locked display.' How does the reference normally differ?
 
-1. It introduces one particular novel whose title the critic has chosen to withhold
-2. It presents a representative member of the genre without identifying an individual book **[Correct]**
-3. It implies that only one novel belongs to the kind being discussed
-4. It identifies a book through a modifier, so a and the have identical force here
+1. Both phrases introduce particular books; the difference lies only in whether their titles have been supplied.
+2. The handbook presents a representative member of a genre; the log reports an event involving a particular book. **[Correct]**
+3. The handbook identifies the genre's only novel; the log leaves the number of missing books unrestricted.
+4. Both phrases identify a shared book because the modifier of this kind makes the indefinite article definite.
 
-**Explanation:** An indefinite singular can support a generalisation by representing a member of a class. The modifier "of this kind" restricts the class; it does not by itself turn the phrase into definite reference to an individual book.
+**Explanation:** The handbook's statement about what such fiction can do supports a representative, general reading. The log's report of a completed disappearance instead introduces a particular book, even without naming its title. The indefinite article and modifier alone do not decide between those readings; the clause and discourse matter.
 
 **Choice feedback:**
 
-- **It introduces one particular novel whose title the critic has chosen to withhold:** That is one possible use of an indefinite phrase elsewhere, but the stated genre-level claim establishes a representative reading here.
-- **It presents a representative member of the genre without identifying an individual book:** This preserves the generalisation while treating the novel as a representative class member.
-- **It implies that only one novel belongs to the kind being discussed:** An indefinite singular used generically does not limit the class to one member.
-- **It identifies a book through a modifier, so a and the have identical force here:** A modifier can restrict a class without identifying a unique individual. The two articles do not become interchangeable merely because a modifier follows.
+- **Both phrases introduce particular books; the difference lies only in whether their titles have been supplied.:** An unnamed particular book is possible in a log, but it misses the handbook's genre-level generalization. A does not always introduce one particular referent.
+- **The handbook presents a representative member of a genre; the log reports an event involving a particular book.:** The first clause expresses a characteristic possibility for a kind of fiction; the second locates a disappearance involving one actual display item.
+- **The handbook identifies the genre's only novel; the log leaves the number of missing books unrestricted.:** Representative a does not limit a genre to one member. In the log, the singular phrase reports one book's disappearance, although it does not rule out other losses.
+- **Both phrases identify a shared book because the modifier of this kind makes the indefinite article definite.:** Of this kind narrows the class of novels. It does not by itself establish shared identification of a particular book or change a into a definite article.
 
 **Decision:** replaced.
 
-**Original findings:** Original only-reading item forced the through a repeated elementary frame.
+**Original findings:** Original only-reading template was elementary; the first generic-novel replacement directly announced the generic reading in its setup.
 
-**Learning value:** Teaches that postmodification and specificity are separate decisions.
+**Learning value:** Shows why readers must consider the predicate and the kind of text, not decide reference from the article or modifier alone.
 
-**Level rationale:** Distinguishes generic, specific-indefinite, and definite readings of a modified noun phrase.
+**Level rationale:** Coordinates indefinite reference, representative possibility, and an actual event across two genres without an explicit label giving away the interpretation.
 
-**Similarity review:** Representative generic reference in literary criticism, distinct from known individuals and hypothetical existence.
+**Similarity review:** An intentional within-item minimal comparison demonstrates contextual interpretation, rather than reusing a sentence across separate items.
 
 ### 13. Definiteness established by a distinguishing consequence
 

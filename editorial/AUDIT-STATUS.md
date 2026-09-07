@@ -22,7 +22,9 @@ Each reviewer owns separate topic files. The coordinating pass handles shared-ba
 ## Verification
 
 - `node scripts/check-editorial-bank.cjs` overlays completed records on the real quiz engine, checks exact preservation of all display fields, and tests the incomplete-publication guard. It also checks that a 20-item quiz distributes correct answers equally across the four displayed positions.
+- Add `--full-checks` to run the wider quiz regression suite against that in-memory preview without changing the active bank file.
 - `node scripts/screen-reviewed-items.cjs` produces an advisory report for near-duplicate wording, repeated explanations, generic feedback, repeated stated learning points, and possible longest-answer cues. These are review leads, not automated certification.
+- After all individual reviews finish, `node scripts/balance-editorial-options.cjs` reorders the existing choices so each written set has five correct answers in each position. It never authors prose or changes an answer or explanation. The compiler independently enforces this distribution; live quizzes also randomize balanced positions.
 - `node scripts/check.cjs` exercises coverage, shared content, quiz selection, saved-attempt compatibility, and scoring behaviour. It does not substitute for a semantic review.
 - The engine distinguishes structural failures from linguistic pattern warnings. For example, an indefinite article alongside `the` requires contextual review; it is not automatically an ambiguous item. Deliberately incorrect choices are not treated as accidental errors in the keyed sentence.
 
@@ -49,5 +51,6 @@ This is an AI-assisted editorial review. It does not provide empirical item-diff
 - [Cambridge: article use with meals and determiner constructions](https://dictionaryblog.cambridge.org/2018/01/03/how-to-use-articles-another-look-2/)
 - [Cambridge: superlatives and optional the after a linking verb](https://dictionary.cambridge.org/grammar/british-grammar/comparison-adjectives-bigger-biggest-more-interesting-most-interesting)
 - [British Council: indefinite articles, including formal a most](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/indefinite-article?page=0%2C1%3Fpage%3D0%2C1)
+- [Cambridge: further, including an indefinite article with an additional monetary amount](https://dictionary.cambridge.org/dictionary/english/further)
 
 The references guide editorial judgment; they do not independently certify these new items or their practice-band assignments.

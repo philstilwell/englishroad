@@ -70,8 +70,11 @@ const forbiddenSetupTerms = [
 ];
 
 
-const itemData = window.createEnglishRoadItemData({ pick, item });
-const { schema: itemDataSchema, supplementalDifficultyRanges } = itemData;
+const itemDataSchema = {
+  version: "item-data-v1",
+  generatedFields: ["id", "sentence", "options", "answer", "difficulty", "category", "subcategory", "explanation", "rationales", "qaStatus"],
+  qaStatusValues: ["draft", "reviewed", "retired"]
+};
 
 function editorialNotes(made, blueprint) {
   if (made.qaStatus === "reviewed" && made.reviewer && made.reviewDate && made.explanation && made.rationales) return made;
@@ -559,10 +562,6 @@ function item(text, options, answer, focusKey = "", setup = "", metadata = {}) {
   return { text, options, answer, focusKey, setup, ...metadata };
 }
 
-function jitterDifficulty(difficulty, index) {
-  return clamp(difficulty + ((index % 5) - 2) * 0.06, 1, 6);
-}
-
 function learnerSubcategory(subcategory) {
   return learnerSubcategoryLabels[subcategory] || subcategory;
 }
@@ -663,16 +662,6 @@ function splitTaskText(text) {
     instruction: "Choose the best answer.",
     target: text
   };
-}
-
-function supplementalDifficulty(blueprint, localIndex) {
-  const [low, high] = supplementalDifficultyRanges[blueprint.code] || [1.4, 4.2];
-  const setCount = Math.max(1, blueprint.sets.length);
-  const setIndex = localIndex % setCount;
-  const progress = setCount === 1 ? 0 : setIndex / (setCount - 1);
-  const itemLevel = low + (high - low) * progress;
-  const stableJitter = ((setIndex % 5) - 2) * 0.035;
-  return clamp(itemLevel + stableJitter, 1, 6);
 }
 
 function uniqueOptions(options) {
@@ -876,6 +865,6 @@ function bankRevision(bank) {
 
 window.EnglishRoadQuestions = Object.freeze({
   bankRevision, editorialWarnings, answerFeedback,
-  buildQuestion, chooseBalancedAnswerPosition, clamp, contextualize, copyText, createQuestionBank, distractorRationale, ensurePeriod, escapeHtml, explainAnswer, formatAnswerForFeedback, helpfulSetup, incrementCount, item, jitterDifficulty, learnerSubcategory, normalizeQuestionText, orderOptionsWithBalancedAnswerPosition, pick, questionSignature, randomInt, rationalesForOptions, recordAnswerPosition, shuffleRandom, shuffleStable, splitTaskText, supplementalDifficulty, uniqueOptions, isSentenceChoiceTask, isMeaningTask, validateBank, validateCoverage, hasKnownAnswerAmbiguity, hasArticleAmbiguity, hasPluralCountQuantifierAmbiguity, hasKnownAwkwardPhrase, hasDisplayGuidanceProblem, learnerSubcategoryLabels, itemDataSchema
+  buildQuestion, chooseBalancedAnswerPosition, clamp, contextualize, copyText, createQuestionBank, distractorRationale, ensurePeriod, escapeHtml, explainAnswer, formatAnswerForFeedback, helpfulSetup, incrementCount, item, learnerSubcategory, normalizeQuestionText, orderOptionsWithBalancedAnswerPosition, pick, questionSignature, randomInt, rationalesForOptions, recordAnswerPosition, shuffleRandom, shuffleStable, splitTaskText, uniqueOptions, isSentenceChoiceTask, isMeaningTask, validateBank, validateCoverage, hasKnownAnswerAmbiguity, hasArticleAmbiguity, hasPluralCountQuantifierAmbiguity, hasKnownAwkwardPhrase, hasDisplayGuidanceProblem, learnerSubcategoryLabels, itemDataSchema
 });
 })();

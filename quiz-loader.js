@@ -32,7 +32,7 @@
   }
   (async () => {
     try {
-      await Promise.all(["site-ui.js", "item-bank-data.js", "coverage-bank-data.js", "question-engine.js", "learning-summary.js", app].map(load));
+      await Promise.all(["site-ui.js", "coverage-bank-data.js", "question-engine.js", "learning-summary.js", app].map(load));
       if (!finished) fail();
     } catch { clearTimeout(timeout); fail(); }
     finally { window.removeEventListener("error", runtimeError); }

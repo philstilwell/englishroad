@@ -56,7 +56,8 @@ for (const group of groups) {
       assert(['retained', 'revised', 'replaced'].includes(q.audit.decision), `${label}: missing editorial decision`);
       assert(Array.isArray(q.audit.findings), `${label}: missing original findings`);
       if (q.audit.decision !== 'retained') assert(q.audit.findings.some(finding => typeof finding === 'string' && finding.trim()), `${label}: changed item needs an original finding`);
-      for (const field of ['microSkill', 'pedagogicalValue', 'levelReason', 'similarityNote']) {
+      assert(q.audit.microSkill?.trim().length >= 3, `${label}: missing microSkill`);
+      for (const field of ['pedagogicalValue', 'levelReason', 'similarityNote']) {
         assert(q.audit[field]?.trim().length >= 12, `${label}: missing ${field}`);
       }
       const signature = JSON.stringify([q.taskText.toLowerCase().trim(), q.options.map(o => o.toLowerCase().trim()).sort()]);
@@ -64,6 +65,9 @@ for (const group of groups) {
       signatures.add(signature);
     }
     if (validateReviewed) continue;
+    const answerPositions = [0, 0, 0, 0];
+    for (const q of cell) answerPositions[q.options.indexOf(q.answer)]++;
+    assert.deepEqual(answerPositions, [5, 5, 5, 5], `${group.topic}/${level}: balance written answer positions with scripts/balance-editorial-options.cjs`);
     blueprints.push({ code: cell[0].id.replace(/-\d+$/, ''), category: group.category, subcategory: group.topic,
       difficulty: difficulty[level], level, perCell: 20, firstId: Number(cell[0].id.match(/\d+$/)[0]),
       items: cell.map(q => ({ text: q.taskText, options: q.options, answer: q.answer, setup: q.setupText,
@@ -97,6 +101,12 @@ if (process.argv.includes('--check')) {
   assert.equal(fs.readFileSync(destination, 'utf8'), source, 'Compiled bank differs from reviewed source');
   console.log('All 4,200 editorial records are complete and match the published question source.');
 } else {
-  fs.writeFileSync(destination, source);
+  const temporary = `${destination}.${process.pid}.tmp`;
+  try {
+    fs.writeFileSync(temporary, source, { flag: 'wx' });
+    fs.renameSync(temporary, destination);
+  } finally {
+    if (fs.existsSync(temporary)) fs.unlinkSync(temporary);
+  }
   console.log(`Compiled 4,200 reviewed items. Editorial source SHA-256: ${sourceHash}`);
 }

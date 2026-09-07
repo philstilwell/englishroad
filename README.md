@@ -12,7 +12,7 @@ Both tools can save one attempt in the browser. Save failures are visible and un
 
 ## Shared code and data
 
-- `item-bank-data.js`: authored templates and answer choices.
+- `editorial/items/`: item-level editorial source and audit decisions. The compiler prevents an incomplete audit from replacing the active bank.
 - `coverage-bank-data.js`: balanced source patterns that create 20 unique active items for every topic and practice band.
 - `question-engine.js`: one bank builder, shared explanations, display helpers, option ordering, and structural validation. Corrected feedback records a reviewer and date where explicitly reviewed. Other entries remain `draft`.
 - `learning-summary.js`: whole-history difficulty pacing and conservative, changeable practice suggestions. The logistic pacing cue is internal only; it is not a validated proficiency score. It has no recency weighting, and an incorrect response cannot increase it.

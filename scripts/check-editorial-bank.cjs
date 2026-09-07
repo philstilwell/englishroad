@@ -11,7 +11,7 @@ const source = fs.readdirSync(directory).filter(f => f.endsWith('.json')).flatMa
 const reviewed = new Map(source.filter(q => q.audit.status === 'reviewed').map(q => [q.id, q]));
 cp.execFileSync(process.execPath, [path.join(__dirname, 'compile-editorial-bank.cjs'), '--validate-reviewed'], { cwd: root, stdio: 'inherit' });
 const c = vm.createContext({ window: {}, console });
-for (const file of ['item-bank-data.js', 'coverage-bank-data.js', 'question-engine.js', 'learning-summary.js']) {
+for (const file of ['coverage-bank-data.js', 'question-engine.js', 'learning-summary.js']) {
   vm.runInContext(fs.readFileSync(path.join(root, file), 'utf8'), c);
 }
 const original = c.window.createEnglishRoadCoverageBlueprints;
@@ -35,6 +35,27 @@ const preview = c.window.EnglishRoadQuestions.createQuestionBank();
 const engine = c.window.EnglishRoadQuestions;
 assert.equal(preview.length, 4200);
 assert.deepEqual(preview.map(q => q.id), baseline.map(q => q.id));
+if (process.argv.includes('--full-checks')) {
+  const groups = new Map();
+  for (const q of preview) {
+    if (!groups.has(q.blueprint)) groups.set(q.blueprint, { code: q.blueprint, category: q.category,
+      subcategory: q.subcategory, difficulty: q.difficulty, perCell: 20, items: [] });
+    groups.get(q.blueprint).items.push({ text: q.taskText, setup: q.setupText, options: q.options,
+      answer: q.answer, explanation: q.explanation, rationales: q.rationales, focusKey: q.focusKey,
+      qaStatus: q.qaStatus, reviewer: q.reviewer, reviewDate: q.reviewDate });
+  }
+  const payload = `window.createEnglishRoadCoverageBlueprints = () => ${JSON.stringify([...groups.values()])}.map(({items,...group}) => ({...group, make(index) { const q=items[index]; return {...q, options:[...q.options], rationales:{...q.rationales}}; }}));`;
+  const previewFs = { ...fs, readFileSync(file, options) {
+    if (typeof file === 'string' && path.resolve(file) === path.join(root, 'coverage-bank-data.js')) {
+      const encoding = typeof options === 'string' ? options : options?.encoding;
+      return encoding ? payload : Buffer.from(payload);
+    }
+    return fs.readFileSync(file, options);
+  } };
+  vm.runInNewContext(fs.readFileSync(path.join(__dirname, 'check.cjs'), 'utf8'), {
+    require: name => name === 'node:fs' ? previewFs : require(name), console, URL, URLSearchParams
+  }, { filename: 'check-reviewed-preview.cjs' });
+}
 for (const q of preview) {
   const record = reviewed.get(q.id);
   if (!record) continue;

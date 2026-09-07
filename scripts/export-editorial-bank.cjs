@@ -5,7 +5,7 @@ const path = require('node:path');
 const vm = require('node:vm');
 const root = path.resolve(__dirname, '..');
 const context = vm.createContext({ window: {}, console });
-for (const file of ['item-bank-data.js', 'coverage-bank-data.js', 'question-engine.js', 'learning-summary.js']) {
+for (const file of ['coverage-bank-data.js', 'question-engine.js', 'learning-summary.js']) {
   vm.runInContext(fs.readFileSync(path.join(root, file), 'utf8'), context);
 }
 const bank = context.window.EnglishRoadQuestions.createQuestionBank();

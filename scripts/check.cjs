@@ -8,7 +8,7 @@ function context(app) {
     crypto: { getRandomValues(values) { for (let i = 0; i < values.length; i++) { seed = (Math.imul(1664525, seed) + 1013904223) >>> 0; values[i] = seed; } } },
     EnglishRoadUI: { sessionStore: () => ({}) }
   } });
-  for (const file of ['item-bank-data.js', 'coverage-bank-data.js', 'question-engine.js', 'learning-summary.js']) vm.runInContext(fs.readFileSync(file, 'utf8'), c);
+  for (const file of ['coverage-bank-data.js', 'question-engine.js', 'learning-summary.js']) vm.runInContext(fs.readFileSync(file, 'utf8'), c);
   if (app) {
     let code = fs.readFileSync(app, 'utf8');
     code = code.slice(0, code.indexOf(app === 'app.js' ? '\nconst sessionStore =' : '\nstate.bank = createQuestionBank();'));
@@ -121,7 +121,10 @@ for (const q of bank) {
   assert(q.options.every((option) => q.rationales[option]), q.id);
 }
 const contentStemItems = bank.filter(q => q.taskText.includes('___') || /^What does/.test(q.taskText));
-const repeatedContentStems = [...contentStemItems.reduce((counts, q) => counts.set(q.taskText, (counts.get(q.taskText) || 0) + 1), new Map()).entries()].filter(([, count]) => count > 1);
+const repeatedContentStems = [...contentStemItems.reduce((counts, q) => {
+  const surface = antiTemplateSurface(q);
+  return counts.set(surface, (counts.get(surface) || 0) + 1);
+}, new Map()).entries()].filter(([, count]) => count > 1);
 assert.equal(repeatedContentStems.length, 0, `Repeated content stems: ${repeatedContentStems.slice(0, 3).map(([text, count]) => `${count}x ${text}`).join(' / ')}`);
 const genericWrongRationales = bank.flatMap(q => q.options.filter(option => option !== q.answer).map(option => q.rationales[option])).filter(text => /does not fit the grammar or meaning of this item/.test(text));
 assert.equal(genericWrongRationales.length, 0, 'Wrong-answer feedback should name the specific problem.');
