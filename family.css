@@ -67,8 +67,10 @@ select { min-height: 46px; }
 .progress-row, .practice-progress { display: grid; grid-template-columns: auto minmax(40px, 1fr); gap: 24px; align-items: center; margin-bottom: 24px; }
 .progress-count { margin: 0; font-size: 14px; font-weight: 600; }
 .progress-detail { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
-.meter { height: 6px; background: var(--line); border-radius: 4px; }
-.meter span { display: block; width: 0; height: 100%; background: var(--primary); border-radius: inherit; }
+.meter { display: flex; height: 12px; overflow: hidden; background: var(--line); border-radius: 999px; }
+.meter span { display: block; flex: 0 0 auto; width: 0; height: 100%; }
+.meter-incorrect { background: var(--incorrect); }
+.meter-correct { background: var(--correct); }
 .question-meta, .practice-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
 .tag, .chip { display: inline-flex; align-items: center; padding: 4px 8px; border: 1px solid var(--line); border-radius: 6px; font-size: 13px; color: var(--muted); font-weight: 400; }
 .tag { background: var(--bg); }

@@ -355,7 +355,6 @@ function renderCurrentQuestion() {
   const displayNumber = clamp(state.answered ? state.questionIndex : state.questionIndex + 1, 1, TOTAL_QUESTIONS);
   document.getElementById("questionNumber").textContent = String(displayNumber);
   document.getElementById("totalQuestions").textContent = String(TOTAL_QUESTIONS);
-  document.getElementById("meterFill").style.width = `${(displayNumber / TOTAL_QUESTIONS) * 100}%`;
   const taskParts = splitTaskText(state.current.taskText);
   document.getElementById("questionMeta").innerHTML = [
     state.current.category,
@@ -476,11 +475,20 @@ function updateSelectionCue(correct) {
   ]);
 }
 
+function updateResultMeter(correct, incorrect, total) {
+  const denominator = Math.max(1, total);
+  document.getElementById("meterIncorrect").style.width = `${incorrect / denominator * 100}%`;
+  document.getElementById("meterCorrect").style.width = `${correct / denominator * 100}%`;
+}
+
 function updateResults() {
   const count = state.responses.length;
   const correct = state.responses.filter((response) => response.correct).length;
-  document.getElementById("answerProgress").textContent = `${count} of ${TOTAL_QUESTIONS} answered`;
-  document.getElementById("meterFill").style.width = `${count / TOTAL_QUESTIONS * 100}%`;
+  const incorrect = count - correct;
+  document.getElementById("answerProgress").textContent = count
+    ? `${count} of ${TOTAL_QUESTIONS} answered · ${correct} correct, ${incorrect} incorrect`
+    : `${count} of ${TOTAL_QUESTIONS} answered`;
+  updateResultMeter(correct, incorrect, TOTAL_QUESTIONS);
   document.getElementById("completionLink").hidden = count < TOTAL_QUESTIONS;
   document.getElementById("result-title").textContent = count ? `${correct} of ${count} correct` : "Your answers so far";
   document.getElementById("precisionText").textContent = "This is a record of this grammar and vocabulary activity. It does not measure your overall English level or predict examination scores.";

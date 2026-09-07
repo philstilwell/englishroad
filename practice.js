@@ -167,7 +167,6 @@ function renderPractice() {
   const displayNumber = state.index + 1;
   document.getElementById("practiceNumber").textContent = String(displayNumber);
   document.getElementById("practiceTotal").textContent = String(state.quiz.length);
-  document.getElementById("practiceMeter").style.width = `${state.responses.length / state.quiz.length * 100}%`;
   document.getElementById("practiceMeta").innerHTML = [
     item.category,
     learnerSubcategory(item.subcategory),
@@ -275,8 +274,9 @@ function nextPracticeItem() {
 function renderCompletion() {
   document.getElementById("practiceAnswerHint").hidden = true;
   const correct = state.responses.filter((response) => response.correct).length;
+  const incorrect = state.responses.length - correct;
   document.getElementById("practiceNumber").textContent = String(state.quiz.length);
-  document.getElementById("practiceMeter").style.width = "100%";
+  updatePracticeMeter(correct, incorrect, state.quiz.length);
   document.getElementById("practiceMeta").innerHTML = `<span class="tag">${escapeHtml(state.level)}</span><span class="tag">Complete</span>`;
   document.getElementById("practicePrompt").innerHTML = `
     <div class="quiz-complete">
@@ -390,12 +390,21 @@ function resetCopyPromptButton() {
   button.classList.remove("is-copied");
 }
 
+function updatePracticeMeter(correct, incorrect, total) {
+  const denominator = Math.max(1, total);
+  document.getElementById("practiceMeterIncorrect").style.width = `${incorrect / denominator * 100}%`;
+  document.getElementById("practiceMeterCorrect").style.width = `${correct / denominator * 100}%`;
+}
+
 function renderSidePanel() {
   const correct = state.responses.filter((response) => response.correct).length;
-  document.getElementById("practiceMeter").style.width = `${state.responses.length / Math.max(1, state.quiz.length) * 100}%`;
+  const incorrect = state.responses.length - correct;
+  updatePracticeMeter(correct, incorrect, state.quiz.length);
   document.getElementById("sideLevel").textContent = state.level;
   document.getElementById("sideCorrect").textContent = `${correct} of ${state.responses.length}`;
-  document.getElementById("practiceAnswered").textContent = `${state.responses.length} of ${state.quiz.length} answered`;
+  document.getElementById("practiceAnswered").textContent = state.responses.length
+    ? `${state.responses.length} of ${state.quiz.length} answered · ${correct} correct, ${incorrect} incorrect`
+    : `${state.responses.length} of ${state.quiz.length} answered`;
   document.getElementById("practiceEmpty").hidden = state.responses.length > 0;
   document.getElementById("practiceStats").hidden = !state.responses.length;
   document.getElementById("practiceSummary").hidden = !state.responses.length;
