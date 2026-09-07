@@ -23,7 +23,7 @@
     <meta name="twitter:image" content="https://englishroad.com/social-preview.png">
     <title>English Road Practice Quizzes</title>
     <link rel="icon" href="favicon.svg?v=20260907-audited-v2" type="image/svg+xml">
-    <link rel="stylesheet" href="family.css?v=20260907-audited-v2">
+    <link rel="stylesheet" href="family.css?v=20260907-save-controls-v1">
     <link rel="stylesheet" href="practice.css?v=20260907-audited-v2-topics-v1">
   </head>
   <body>
@@ -38,12 +38,13 @@
       </nav>
     </header>
     <main id="main" class="practice-shell">
-      <div class="save-bar"><p id="saveStatus" role="status" aria-live="polite">Progress can be saved in this browser.</p><button id="deleteStudentData" class="text-action danger-action" type="button">Delete my data</button></div>
-
       <section class="practice-hero" aria-labelledby="practiceTitle">
         <div>
           <p class="eyebrow">Build your skills</p>
-          <h1 id="practiceTitle">Practice at your level.</h1>
+          <div class="page-heading">
+            <h1 id="practiceTitle">Practice at your level.</h1>
+            <div class="save-bar"><p id="saveStatus" role="status" aria-live="polite">Progress can be saved in this browser.</p><button id="deleteStudentData" class="text-action danger-action" type="button">Delete my data</button></div>
+          </div>
           <p class="practice-introduction">A short quiz, a clearer understanding. Choose your level and practice grammar and vocabulary, one question at a time.</p>
         </div>
         <details id="practiceSetupDetails" class="practice-setup-details" open><summary>Change level or start again</summary>
@@ -162,6 +163,6 @@
     </main>
 
     <script src="cefr-comparison.js?v=20260907-audited-v2" defer></script>
-    <script src="quiz-loader.js?v=20260907-audited-v2" data-app="practice.js" data-version="20260907-feedback-v1"></script>
+    <script src="quiz-loader.js?v=20260907-audited-v2" data-app="practice.js" data-version="20260907-save-controls-v1"></script>
   </body>
 </html>

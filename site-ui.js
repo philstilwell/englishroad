@@ -2,8 +2,7 @@
   function focusQuestion(id) {
     const target = document.getElementById(id);
     target.focus({ preventScroll: true });
-    const warning = document.querySelector(".save-bar:has(.is-warning)");
-    const topInset = warning ? warning.getBoundingClientRect().height + 16 : 20;
+    const topInset = 20;
     target.style.scrollMarginTop = `${topInset}px`;
     const rect = target.getBoundingClientRect();
     if (rect.top < topInset || rect.bottom > window.innerHeight - 16) {
