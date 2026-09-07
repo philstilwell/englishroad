@@ -22,6 +22,33 @@ const run = (code) => vm.runInContext(code, c);
 const bank = run('state.bank');
 const activeBankSize = 4200;
 const minTopicLevelItems = 5;
+const templateAuditTerms = [
+  'Mina','Carlos','Aiko','Nadia','Omar','Lena','Sofia','Daniel','Rina','Mateo','Hana','Jonas','Priya','Kenji','Sara','Luis','Emma','Noah','Yara','Theo','Maya','Ben','Nora','Kai','Tom','Aya','Sam',
+  'library','clinic','office','school','station','museum','training room','conference room','housing desk','language center','airport','bookstore','laboratory','community center','garden','market','workshop','reception desk','classroom','cafeteria',
+  'report','schedule','form','notice','email','chart','application','message','contract','invoice','lesson plan','survey','manual','proposal','receipt','agenda','map','guide','policy','summary',
+  'reports','schedules','forms','notices','emails','charts','applications','messages','contracts','invoices','lesson plans','surveys','manuals','proposals','receipts','agendas','maps','guides','policies','summaries',
+  'Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday','June','September','winter','spring','noon','3 p.m.','9 a.m.','midnight','lunchtime','desk','table','room','door','window','bus','train',
+  'teacher','student','students','workers','visitors','parents','applicants','readers','nurses','clerks','drivers','volunteers','researchers','managers','assistants','tutors','trainees','analysts','coordinators','guests','interns'
+].sort((a, b) => b.length - a.length);
+function escapedPattern(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+function templateSkeleton(text) {
+  let skeleton = text.toLowerCase().replace(/["“”]/g, '').replace(/\b\d+\b/g, 'NUM');
+  for (const term of templateAuditTerms) {
+    skeleton = skeleton.replace(new RegExp(`\\b${escapedPattern(term.toLowerCase())}\\b`, 'g'), 'X');
+  }
+  return skeleton
+    .replace(/\b[a-z]+ed\b/g, 'Ved')
+    .replace(/\b[a-z]+ing\b/g, 'Ving')
+    .replace(/\b[a-z]+s\b/g, 'Ns')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+function antiTemplateSurface(question) {
+  if (question.taskText.includes('___') || /^(What|Read)\b/.test(question.taskText) || /^[A-Z][^,]+, read\b/.test(question.taskText)) return question.taskText;
+  return question.answer;
+}
 const levelCheckHtml = fs.readFileSync('level-check.html', 'utf8');
 const practiceHtml = fs.readFileSync('practice.html', 'utf8');
 const familyCss = fs.readFileSync('family.css', 'utf8');
@@ -56,6 +83,9 @@ assert.equal(genericExplanations.length, 0, `Generic or confusing prompt/explana
 const textGlitchPattern = /\.\.|\{[a-z0-9]+\}|which they were sent|undefined|null/i;
 const textGlitch = bank.find(q => textGlitchPattern.test([q.taskText, q.explanation, ...q.options, ...Object.values(q.rationales || {})].join(' ')));
 assert(!textGlitch, `Generated text glitch: ${textGlitch?.id}`);
+const articleGlitchPattern = /\ba (email|application|invoice|agenda|office|airport|answer|address|example|interview|updated|old|online|early|emergency|appointment)\b/i;
+const articleGlitch = bank.find(q => articleGlitchPattern.test([q.taskText, q.explanation, ...q.options, ...Object.values(q.rationales || {})].join(' ')));
+assert(!articleGlitch, `Generated a/an glitch: ${articleGlitch?.id}`);
 const generatedChoices = bank.flatMap(q => q.options.map(option => ({ ...q, option, completed: q.taskText.replace('___', option) })));
 const artificialOptionPattern = /\b(simpleer|largeer|safeer|closeer|carefulest|usefulest|formalest|regularest|reliableest|completeest|balancedly)\b/i;
 const artificialOption = generatedChoices.find(q => artificialOptionPattern.test(q.option));
@@ -66,6 +96,14 @@ assert(!accidentalCollocation, `Plausible collocation used as a distractor: ${ac
 const namePronounMismatchPattern = /\b(Carlos|Omar|Daniel|Mateo|Jonas|Kenji|Luis|Noah|Theo)\b[^.?!]*\bshe\b|\bshe\b[^.?!]*\b(Carlos|Omar|Daniel|Mateo|Jonas|Kenji|Luis|Noah|Theo)\b/i;
 const namePronounMismatch = bank.find(q => namePronounMismatchPattern.test([q.taskText, ...q.options].join(' ')));
 assert(!namePronounMismatch, `Possible name/pronoun mismatch: ${namePronounMismatch?.id}`);
+const lowercaseNamePattern = /\b(mina|carlos|aiko|nadia|omar|lena|sofia|daniel|rina|mateo|hana|jonas|priya|kenji|sara|luis|emma|noah|yara|theo|maya|ben|nora|kai|tom|aya|sam)\b/;
+const lowercaseName = bank.find(q => lowercaseNamePattern.test([q.taskText, q.explanation, ...q.options, ...Object.values(q.rationales || {})].join(' ')));
+assert(!lowercaseName, `Generated lowercase proper name: ${lowercaseName?.id}`);
+const boilerplateSurfacePattern = /\bduring the [a-z ]+ activity\b|a practice card says,|choose the clearest short/i;
+const boilerplateSurface = bank.find(q => boilerplateSurfacePattern.test([q.taskText, q.explanation, ...q.options, ...Object.values(q.rationales || {})].join(' ')));
+assert(!boilerplateSurface, `Boilerplate surface text remains: ${boilerplateSurface?.id}`);
+const prefilledChoiceItem = bank.find(q => !q.taskText.includes('___') && !/^(What|Which|Choose|Read)\b/.test(q.taskText) && !/^[A-Z][^,]+, read\b/.test(q.taskText) && !q.options.some(option => /[.!?]$/.test(option)));
+assert(!prefilledChoiceItem, `Isolated choices need a blank or prompt frame: ${prefilledChoiceItem?.id}`);
 const transport = bank.find(q => q.taskText.includes('one hour ___ train'));
 assert.match(transport.explanation, /transport/);
 assert.doesNotMatch(transport.explanation, /later than/);
@@ -90,6 +128,28 @@ assert.equal(a1EmphasisItems.length, expectedTopicLevelItems, 'A1 Emphasis shoul
 assert.equal(new Set(a1EmphasisItems.map(q => q.answer)).size, a1EmphasisItems.length, 'A1 Emphasis correct sentences should be bespoke, not recycled with name swaps');
 assert(!a1EmphasisItems.some(q => /\bready\b/i.test([q.setupText, q.taskText, q.explanation, ...q.options, ...Object.values(q.rationales)].join(' '))), 'A1 Emphasis should not reuse the old "ready" template');
 assert(!a1EmphasisItems.some(q => /opening phrase changes the word order|formal sentence/i.test(q.explanation)), 'A1 Emphasis needs targeted feedback, not the old generic explanation');
+const templateClusters = [];
+const answerBalanceProblems = [];
+for (const topic of topics) {
+  for (const level of learning.levels) {
+    const cell = bank.filter(q => q.subcategory === topic && learning.levelForDifficulty(q.difficulty) === level);
+    const counts = new Map();
+    for (const question of cell) {
+      const skeleton = templateSkeleton(antiTemplateSurface(question));
+      counts.set(skeleton, (counts.get(skeleton) || 0) + 1);
+    }
+    const [skeleton, count] = [...counts.entries()].sort((a, b) => b[1] - a[1])[0];
+    if (count >= 8) templateClusters.push(`${topic} / ${level}: ${count}x ${skeleton}`);
+    const answerCounts = cell.reduce((map, question) => map.set(question.answer, (map.get(question.answer) || 0) + 1), new Map());
+    const distinctAnswers = answerCounts.size;
+    const [mostRepeatedAnswer, mostRepeatedCount] = [...answerCounts.entries()].sort((a, b) => b[1] - a[1])[0];
+    if (distinctAnswers < 4 || mostRepeatedCount > 8) {
+      answerBalanceProblems.push(`${topic} / ${level}: ${distinctAnswers} answers, ${mostRepeatedCount}x "${mostRepeatedAnswer}"`);
+    }
+  }
+}
+assert.equal(templateClusters.length, 0, `Topic-level cells still look templated: ${templateClusters.slice(0, 5).join(' | ')}`);
+assert.equal(answerBalanceProblems.length, 0, `Topic-level cells still over-repeat answer keys: ${answerBalanceProblems.slice(0, 5).join(' | ')}`);
 // Selection cue is monotonic for every response and independent of response order.
 const history = bank.slice(0, 30).map((q, i) => ({ difficulty: q.difficulty, correct: i % 3 !== 0 }));
 const baseline = learning.selectionDifficulty(history);
