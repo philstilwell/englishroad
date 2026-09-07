@@ -42,6 +42,7 @@ for (const file of files.filter(f => /\.(html|css)$/.test(f))) {
   const refs = [...text.matchAll(/(?:href|src)=["']([^"']+)["']|url\(["']?([^\s)'";]+)["']?\)/g)];
   for (const match of refs) {
     const value = (match[1] || match[2]).replaceAll('&amp;', '&');
+    if (value.startsWith('https://static.cloudflareinsights.com/')) throw new Error(`${file}: remove the manual analytics snippet; Cloudflare injects it automatically.`);
     if (/^(?:#|data:|mailto:|tel:|javascript:)/i.test(value)) continue;
     const base = `https://${domain}/${file}`;
     let url;

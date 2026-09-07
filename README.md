@@ -33,6 +33,8 @@ Cloudflare’s existing page-traffic analytics remains in place. There is no cus
 
 ## Hosting and publishing
 
+Cloudflare Web Analytics uses **Automatic setup** for the public domain. Cloudflare injects the beacon as pages are served; do not embed it in HTML or page generators. The earlier manual analytics record is retained for historical traffic, while new visits appear in the automatic record.
+
 Cloudflare's existing GitHub integration publishes the `main` branch to the `englishroad` Worker. `wrangler.jsonc` runs the question checks and `cloudflare/build.cjs`, which stages only public files under ignored `.cf-site/`. No paid Worker code or databases are required.
 
 Public `.html` addresses are preserved, `/` serves `index.html`, and missing pages return a real 404. Preview addresses on `workers.dev` carry `X-Robots-Tag: noindex, nofollow`; the public domain remains indexable. Files revalidate with browsers so updates do not strand learners on older scripts. Learner storage stays on the same domain.
