@@ -27,8 +27,8 @@ The audit implementation supersedes the first design release’s scoring and sto
 - Display observed performance and small-sample cautions. Do not restore unvalidated confidence percentages, examination conversions, or measured CEFR claims.
 - Draw both tools from the same deduplicated bank and explanation engine. Practice bands describe content, not certified learner ability.
 - Keep native radio controls, clear focus, locked checked answers, and explicit correct/incorrect feedback. Keep feedback stationary; scroll the new question into view when Next is chosen.
-- Level Check has 100 questions; mixed Practice has 25; focused Practice can be shorter. Both tools show truthful saving status, provide readable downloads, and can resume compatible saved progress.
-- Ask before replacing unfinished progress. Make obsolete/corrupt data notices visible and provide a download of the previous saved data when available.
+- Level Check has 100 questions; mixed Practice has 25; focused Practice can be shorter. Both tools show truthful saving status, offer an always-visible Delete my data button, and can resume compatible browser-saved attempts.
+- Ask before replacing unfinished attempts. Make obsolete/corrupt data notices visible and clear old incompatible data without offering downloads.
 - Show the AI study prompt only after completion, including the learner’s choices. Copying writes to the clipboard only.
 - Report topic links carry a practice band and topic, without individual answers. English Ladder links are broad reading-track suggestions with no personal data in the URL.
 - Loading failures offer recovery and never silently leave a permanent disabled button.

@@ -11,13 +11,22 @@
     }
   }
 
-  function downloadText(text, filename, type = "text/plain") {
-    const url = URL.createObjectURL(new Blob([text], { type }));
-    const link = document.createElement("a");
-    link.href = url;
-    link.download = filename;
-    link.click();
-    setTimeout(() => URL.revokeObjectURL(url), 1000);
+  const storagePrefix = "englishroad-";
+
+  function removeEnglishRoadStorage() {
+    try {
+      for (const storage of [localStorage, sessionStorage]) {
+        const keys = [];
+        for (let index = 0; index < storage.length; index += 1) {
+          const key = storage.key(index);
+          if (key && key.startsWith(storagePrefix)) keys.push(key);
+        }
+        keys.forEach((key) => storage.removeItem(key));
+      }
+      return true;
+    } catch {
+      return false;
+    }
   }
 
   function sessionStore(key, hasWork) {
@@ -25,9 +34,6 @@
     const notice = document.getElementById("sessionNotice");
     let failed = false;
     let previousRaw = null;
-    let backupRaw = null;
-    let archiveBlocked = false;
-    const backupKey = `${key}-previous`;
     let revision = null;
     function message(text, warning = false) {
       status.textContent = text;
@@ -35,18 +41,15 @@
     }
     function failure() {
       failed = true;
-      message("Progress is not being saved in this browser. Keep this tab open, or download your progress before leaving.", true);
+      message("Progress is not being saved in this browser. Keep this tab open if you want to finish this attempt.", true);
     }
-    function showPrevious(text) {
+    function showNotice(text) {
       notice.hidden = false;
-      notice.replaceChildren(document.createTextNode(text + " "));
-      if (!backupRaw) return;
-      const button = document.createElement("button");
-      button.type = "button";
-      button.className = "text-action";
-      button.textContent = "Download previous saved data";
-      button.addEventListener("click", () => downloadText(backupRaw, "englishroad-previous-progress.json", "application/json"));
-      notice.append(button);
+      notice.replaceChildren(document.createTextNode(text));
+    }
+    function hideNotice() {
+      notice.hidden = true;
+      notice.replaceChildren();
     }
     // Avoid silently overwriting a different attempt edited in another tab.
     function changedElsewhere() {
@@ -63,14 +66,15 @@
       if (!failed || !hasWork() || !link || link.hasAttribute("download") || link.target === "_blank") return;
       const url = new URL(link.href, location.href);
       if (url.origin === location.origin && url.pathname === location.pathname && url.hash) return;
-      if (!window.confirm("This progress is not saved. Download it before leaving if you want to keep a copy. Leave this page?")) event.preventDefault();
+      if (!window.confirm("This progress is not saved. Leave this page?")) event.preventDefault();
     });
     return {
       read() {
         try {
           previousRaw = localStorage.getItem(key);
+          try { localStorage.removeItem(`${key}-previous`); }
+          catch {}
           revision = previousRaw;
-          backupRaw = localStorage.getItem(backupKey);
           return previousRaw === null ? null : JSON.parse(previousRaw);
         } catch {
           if (previousRaw !== null) this.reject("The saved attempt could not be read. A new attempt is ready.");
@@ -79,23 +83,17 @@
         }
       },
       reject(text) {
-        backupRaw = previousRaw;
-        if (backupRaw) {
-          try { localStorage.setItem(backupKey, backupRaw); }
-          catch { archiveBlocked = true; }
-        }
-        showPrevious(text);
+        try { localStorage.removeItem(key); }
+        catch { failure(); }
+        previousRaw = null;
+        revision = null;
+        showNotice(text);
       },
       save(payload, replace = false) {
         try {
-          if (archiveBlocked) {
-            failed = true;
-            message("Your previous data could not be backed up. Download it using the notice above. This new attempt is not saving; Start again will explicitly replace the previous saved attempt.", true);
-            return false;
-          }
           if (!replace && changedElsewhere()) {
             failed = true;
-            message("A different attempt was saved in another tab. This tab is not saving. Download its progress, or reload to open the saved attempt.", true);
+            message("A different attempt was saved in another tab. This tab is not saving. Reload to open the saved attempt, or use Delete my data to clear browser data.", true);
             return false;
           }
           const raw = JSON.stringify(payload);
@@ -112,10 +110,22 @@
       remove() {
         try {
           localStorage.removeItem(key);
+          localStorage.removeItem(`${key}-previous`);
+          sessionStorage.removeItem(key);
+          sessionStorage.removeItem(`${key}-previous`);
           revision = null;
-          archiveBlocked = false;
+          previousRaw = null;
           return true;
         } catch { failure(); return false; }
+      },
+      clearAll() {
+        const cleared = removeEnglishRoadStorage();
+        revision = null;
+        previousRaw = null;
+        failed = !cleared;
+        hideNotice();
+        message(cleared ? "English Road data has been deleted from this browser." : "This browser did not allow deletion. Use its site-data settings to remove English Road data.", !cleared);
+        return cleared;
       },
       restored() { message("Saved attempt restored in this browser."); },
       failed: () => failed
@@ -127,5 +137,5 @@
       new Set(saved).size === original.length && saved.every((value) => original.includes(value));
   }
 
-  window.EnglishRoadUI = Object.freeze({ focusQuestion, downloadText, sessionStore, validOptions });
+  window.EnglishRoadUI = Object.freeze({ focusQuestion, removeEnglishRoadStorage, sessionStore, validOptions });
 })();

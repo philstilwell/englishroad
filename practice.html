@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="English Road Practice Quizzes give English learners practice sets by level and topic with an AI study prompt.">
     <meta name="theme-color" content="#FAF9F6">
-    <meta name="englishroad-version" content="20260906-review-v1">
+    <meta name="englishroad-version" content="20260906-data-v1">
     <link rel="canonical" href="https://englishroad.com/practice.html">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://englishroad.com/practice.html">
@@ -23,7 +23,7 @@
     <meta name="twitter:image" content="https://englishroad.com/social-preview.png">
     <title>English Road Practice Quizzes</title>
     <link rel="icon" href="favicon.svg?v=20260906-review-v1" type="image/svg+xml">
-    <link rel="stylesheet" href="family.css?v=20260906-review-v1">
+    <link rel="stylesheet" href="family.css?v=20260906-data-v1">
     <link rel="stylesheet" href="practice.css?v=20260906-review-v1">
   </head>
   <body>
@@ -38,6 +38,7 @@
       </nav>
     </header>
     <main id="main" class="practice-shell">
+      <div class="save-bar"><p id="saveStatus" role="status" aria-live="polite">Progress can be saved in this browser.</p><button id="deleteStudentData" class="text-action danger-action" type="button">Delete my data</button></div>
 
       <section class="practice-hero" aria-labelledby="practiceTitle">
         <div>
@@ -67,8 +68,7 @@
 
       <div id="loadStatus" class="notice" role="status"><p id="loadMessage">Loading questions. If this takes too long, check your connection.</p><a href="">Retry loading</a></div>
       <div id="sessionNotice" class="notice" role="status" hidden></div>
-      <div class="save-bar"><p id="saveStatus" role="status" aria-live="polite">Progress can be saved in this browser.</p><button id="downloadProgress" class="text-action" type="button" disabled>Download progress</button></div>
-      <section id="resumePracticeBox" class="notice" hidden><h2>Continue your practice</h2><p id="resumePracticeMessage"></p><div class="actions"><button id="resumePractice" class="primary-action" type="button">Resume saved quiz</button><button id="downloadSavedPractice" class="ghost-action" type="button">Download saved progress</button></div></section>
+      <section id="resumePracticeBox" class="notice" hidden><h2>Continue your practice</h2><p id="resumePracticeMessage"></p><div class="actions"><button id="resumePractice" class="primary-action" type="button">Resume saved quiz</button></div></section>
       <noscript><p>Turn on JavaScript to start a practice quiz.</p></noscript>
       <section id="practiceLayout" class="practice-layout" hidden>
         <article class="panel quiz-panel" aria-label="Practice question">
@@ -129,14 +129,14 @@
           </div>
           <div class="privacy-note">
             <h2>Privacy and use</h2>
-            <p>No login is required. Cloudflare Web Analytics helps us understand site traffic. Practice progress can be saved in this browser. Check the save status, especially on a shared device. <a href="about.html">Method, limitations, privacy, and deleting saved progress</a>.</p>
+            <p>No login is required. Cloudflare Web Analytics helps us understand site traffic. Practice data can be saved in this browser. Check the save status, especially on a shared device. <a href="about.html">Method, limitations, privacy, and deleting saved data</a>.</p>
           </div>
         </aside>
       </section>
       <footer class="site-footer"><span>English Road · Find your next step. <a href="about.html">About &amp; privacy</a></span><a href="https://englishladder.com/">Read today’s English lesson at English Ladder <span aria-hidden="true">↗</span></a></footer>
     </main>
 
-    <script src="quiz-loader.js?v=20260906-review-v1" data-app="practice.js" data-version="20260906-ui-v2"></script>
+    <script src="quiz-loader.js?v=20260906-review-v1" data-app="practice.js" data-version="20260906-ui-v3"></script>
     <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a2642182f9504544b9a79213f2b2e35d"}'></script><!-- End Cloudflare Web Analytics -->
   </body>
 </html>

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="English Road helps English learners check their level and see grammar and vocabulary areas to practice.">
     <meta name="theme-color" content="#FAF9F6">
-    <meta name="englishroad-version" content="20260906-review-v1">
+    <meta name="englishroad-version" content="20260906-data-v1">
     <link rel="canonical" href="https://englishroad.com/level-check.html">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://englishroad.com/level-check.html">
@@ -23,7 +23,7 @@
     <meta name="twitter:image" content="https://englishroad.com/social-preview.png">
     <title>Grammar and vocabulary check · English Road</title>
     <link rel="icon" href="favicon.svg?v=20260906-review-v1" type="image/svg+xml">
-    <link rel="stylesheet" href="family.css?v=20260906-review-v1">
+    <link rel="stylesheet" href="family.css?v=20260906-data-v1">
     <link rel="stylesheet" href="styles.css?v=20260906-review-v1">
   </head>
   <body>
@@ -39,6 +39,7 @@
     </header>
     <main id="main" class="shell">
       <section class="workspace" aria-labelledby="app-title">
+        <div class="save-bar"><p id="saveStatus" role="status" aria-live="polite">Progress can be saved in this browser.</p><button id="deleteStudentData" class="text-action danger-action" type="button">Delete my data</button></div>
         <div class="page-intro"><p class="eyebrow">Find your starting point</p><h1 id="app-title">Find what to practice.</h1><p>100 questions to explore your grammar and vocabulary. See what you answered correctly and choose what to practice next.</p></div>
 
         <section id="introPanel" class="intro-panel is-collapsed" aria-label="Instructions and language help">
@@ -53,7 +54,7 @@
               <ol class="simple-steps">
                 <li>Choose one answer, then select Check answer.</li>
                 <li>Read the explanation, then choose Next question.</li>
-                <li>Check the save status. You can also download your progress at any time.</li>
+                <li>Check the save status. Use Delete my data any time to clear this browser.</li>
                 <li>After 100 answers, copy your activity report and follow a topic link into practice.</li>
               </ol>
               <p><a href="about.html#method">How the questions and practice suggestions work</a></p>
@@ -86,7 +87,6 @@
 
       <div id="loadStatus" class="notice" role="status"><p id="loadMessage">Loading questions. If this takes too long, check your connection.</p><a href="">Retry loading</a></div>
       <div id="sessionNotice" class="notice" role="status" hidden></div>
-      <div class="save-bar"><p id="saveStatus" role="status" aria-live="polite">Progress can be saved in this browser.</p><button id="downloadProgress" class="text-action" type="button" disabled>Download progress</button></div>
         <noscript><p class="notice">Turn on JavaScript to answer questions. You can still read <a href="about.html">how this activity works</a> or visit <a href="https://englishladder.com/">English Ladder</a>.</p></noscript>
         <section class="assessment-grid">
           <article class="panel assessment-panel" aria-label="Level check question">
@@ -194,13 +194,13 @@
           <p>
             No login is required. Your quiz progress can be saved in this browser so a refresh can
             continue the quiz. Cloudflare Web Analytics helps us understand traffic. This is an
-            activity report. <a href="about.html">Method, limitations, privacy, and deleting saved progress</a>.
+            activity report. <a href="about.html">Method, limitations, privacy, and deleting saved data</a>.
           </p>
         </section>
       </section>
       <footer class="site-footer"><span>English Road · Find your next step. <a href="about.html">About &amp; privacy</a></span><a href="https://englishladder.com/">Read today’s English lesson at English Ladder <span aria-hidden="true">↗</span></a></footer>
     </main>
-    <script src="quiz-loader.js?v=20260906-review-v1" data-app="app.js" data-version="20260906-ui-v2"></script>
+    <script src="quiz-loader.js?v=20260906-review-v1" data-app="app.js" data-version="20260906-ui-v3"></script>
     <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a2642182f9504544b9a79213f2b2e35d"}'></script><!-- End Cloudflare Web Analytics -->
   </body>
 </html>

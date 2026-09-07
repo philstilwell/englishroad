@@ -4,18 +4,18 @@ Static Cloudflare Workers site for `englishroad.com`, with source and automatic 
 
 English Road offers grammar and vocabulary self-study, using 659 distinct question-and-choice combinations selected from 4,200 generated variations.
 
-- **Level Check**: a 100-question review with answer explanations, correct-answer totals, topic counts, and a downloadable/copyable activity report. It does not claim a measured CEFR level, numerical confidence, or predicted examination scores.
+- **Level Check**: a 100-question review with answer explanations, correct-answer totals, topic counts, and a copyable activity report. It does not claim a measured CEFR level, numerical confidence, or predicted examination scores.
 - **Practice**: 25-question mixed sets across A1–C2 practice bands, or shorter focused topic sets. No question repeats within an attempt. A completed quiz offers a review and an optional study prompt containing the learner’s actual choices.
-- **About and privacy**: the method, limits, ongoing editorial review, browser-data export, and deletion controls.
+- **About and privacy**: the method, limits, ongoing editorial review, and deletion controls.
 
-Both tools can save one attempt in the browser. Save failures are visible and unsaved work has a leave warning. Previous Level Check sessions using obsolete questions/calculations cannot be resumed, but their saved data is retained as one backup when browser storage permits and can be downloaded from the update notice. A content fingerprint detects changed questions even if the saved-session format has not changed. Exported records are not importable quiz sessions. Concurrent changes in another tab are detected before overwriting them.
+Both tools can save one attempt in the browser. Save failures are visible and unsaved work has a leave warning. Each quiz page has a Delete my data button that clears English Road browser data and resets the current page. Previous sessions using obsolete questions/calculations cannot be resumed. A content fingerprint detects changed questions even if the saved-session format has not changed. Concurrent changes in another tab are detected before overwriting them.
 
 ## Shared code and data
 
 - `item-bank-data.js`: authored templates and answer choices.
 - `question-engine.js`: one bank builder, deduplication, shared explanations, display helpers, option ordering, and structural validation. Stable first-entry IDs survive deduplication; repeated entries use one averaged editorial difficulty. Corrected feedback records a reviewer and date where explicitly reviewed. Other entries remain `draft`.
 - `learning-summary.js`: whole-history difficulty pacing and conservative, changeable practice suggestions. The logistic pacing cue is internal only; it is not a validated proficiency score. It has no recency weighting, and an incorrect response cannot increase it.
-- `site-ui.js`: save status, record downloads, saved-data validation helpers, and question focus/scroll behavior.
+- `site-ui.js`: save status, saved-data deletion and validation helpers, and question focus/scroll behavior.
 - `quiz-loader.js`: concurrent script fetching with ordered execution, bounded waiting, and retry guidance. Each app signals readiness only after initialization succeeds.
 - `app.js` / `practice.js`: the distinct activity flows and saved-session handling.
 
@@ -25,7 +25,7 @@ Suggested bands require at least five responses in the band and at least 75% cor
 
 Run `node scripts/check.cjs` (Node.js 22 or newer). No dependency installation is needed. It checks the distinct bank, answer metadata, known content regressions, monotonic pacing, order independence for identical responses, full synthetic runs, all six mixed sets, and every topic/band combination. These checks do not establish linguistic correctness or CEFR validity.
 
-For browser verification, test both complete quiz flows, selected/checked/completed restore, ordinary navigation, 320-pixel Next positioning, keyboard focus, nine help languages, clipboard/downloads, blocked storage, obsolete/corrupt saves, script failures and retry, and every public page at 320/390/768/1280 pixels. Use an isolated browser profile; do not clear a learner’s actual progress. Keep temporary evidence under ignored `output/`.
+For browser verification, test both complete quiz flows, selected/checked/completed restore, ordinary navigation, 320-pixel Next positioning, keyboard focus, nine help languages, clipboard actions, Delete my data, blocked storage, obsolete/corrupt saves, script failures and retry, and every public page at 320/390/768/1280 pixels. Use an isolated browser profile; do not clear a learner’s actual progress. Keep temporary evidence under ignored `output/`.
 
 The internal dashboard at `level-check.html?qa=1` distinguishes structural flags from editorial review pending. It offers a JSON export. An absence of automated flags does not mean every answer key is correct. Full independent editorial review, real-learner validation, and manual assistive-technology evaluation remain necessary before making stronger claims.
 

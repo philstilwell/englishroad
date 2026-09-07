@@ -27,7 +27,7 @@ const languageGuides = {
     "steps": [
       "Choose an answer and click Check answer.",
       "Read the explanation, then click Next question.",
-      "Check the save status. You can download your progress if saving is unavailable.",
+      "Check the save status. Use Delete my data any time to clear this browser.",
       "After 100 answers, copy your activity report or choose a topic for more practice."
     ]
   },
@@ -38,7 +38,7 @@ const languageGuides = {
     "steps": [
       "答えを選び、Check answer を押します。",
       "説明を読んで、Next question を押します。",
-      "保存状況を確認してください。保存できない場合は、進捗をダウンロードできます。",
+      "保存状況を確認してください。Delete my data で、このブラウザのデータをいつでも削除できます。",
       "100問の後、学習レポートをコピーするか、項目を選んで練習を続けられます。"
     ]
   },
@@ -49,7 +49,7 @@ const languageGuides = {
     "steps": [
       "选择答案，然后点击 Check answer。",
       "阅读解释，然后点击 Next question。",
-      "检查保存状态。如果无法保存，可以下载学习进度。",
+      "检查保存状态。你可以随时用 Delete my data 删除此浏览器中的数据。",
       "回答100题后，可以复制练习报告或选择一个主题继续练习。"
     ]
   },
@@ -60,7 +60,7 @@ const languageGuides = {
     "steps": [
       "Elige una respuesta y pulsa Check answer.",
       "Lee la explicación y pulsa Next question.",
-      "Comprueba el estado del guardado. Si no se puede guardar, puedes descargar tu progreso.",
+      "Comprueba el estado del guardado. Puedes usar Delete my data para borrar los datos de este navegador en cualquier momento.",
       "Después de 100 respuestas, copia el informe de la actividad o elige un tema para seguir practicando."
     ]
   },
@@ -71,7 +71,7 @@ const languageGuides = {
     "steps": [
       "Escolha uma resposta e clique em Check answer.",
       "Leia a explicação e clique em Next question.",
-      "Verifique o estado do salvamento. Se não for possível salvar, você pode baixar seu progresso.",
+      "Verifique o estado do salvamento. Você pode usar Delete my data para apagar os dados deste navegador a qualquer momento.",
       "Depois de 100 respostas, copie o relatório da atividade ou escolha um tema para continuar praticando."
     ]
   },
@@ -82,7 +82,7 @@ const languageGuides = {
     "steps": [
       "Wybierz odpowiedź i kliknij Check answer.",
       "Przeczytaj wyjaśnienie i kliknij Next question.",
-      "Sprawdź stan zapisu. Jeśli zapisywanie nie działa, możesz pobrać swoje postępy.",
+      "Sprawdź stan zapisu. Możesz użyć Delete my data, aby w każdej chwili usunąć dane z tej przeglądarki.",
       "Po 100 odpowiedziach skopiuj raport z ćwiczenia lub wybierz temat do dalszej nauki."
     ]
   },
@@ -93,7 +93,7 @@ const languageGuides = {
     "steps": [
       "답을 고르고 Check answer를 누르세요.",
       "설명을 읽고 Next question을 누르세요.",
-      "저장 상태를 확인하세요. 저장할 수 없다면 학습 진행 내용을 다운로드할 수 있습니다.",
+      "저장 상태를 확인하세요. Delete my data로 이 브라우저의 데이터를 언제든지 삭제할 수 있습니다.",
       "100문제 후 활동 보고서를 복사하거나 주제를 골라 연습을 계속하세요."
     ]
   },
@@ -104,7 +104,7 @@ const languageGuides = {
     "steps": [
       "Choisissez une réponse et cliquez sur Check answer.",
       "Lisez l’explication, puis cliquez sur Next question.",
-      "Vérifiez l’état de l’enregistrement. Si celui-ci ne fonctionne pas, vous pouvez télécharger votre progression.",
+      "Vérifiez l’état de l’enregistrement. Vous pouvez utiliser Delete my data pour supprimer à tout moment les données de ce navigateur.",
       "Après 100 réponses, copiez le rapport de l’activité ou choisissez un thème pour continuer à vous entraîner."
     ]
   },
@@ -115,7 +115,7 @@ const languageGuides = {
     "steps": [
       "ఒక సమాధానం ఎంచుకొని Check answer నొక్కండి.",
       "వివరణ చదివి Next question నొక్కండి.",
-      "సేవ్ స్థితిని తనిఖీ చేయండి. సేవ్ చేయలేకపోతే, మీ పురోగతిని డౌన్‌లోడ్ చేసుకోవచ్చు.",
+      "సేవ్ స్థితిని తనిఖీ చేయండి. Delete my data తో, ఈ బ్రౌజర్‌లోని డేటాను ఎప్పుడైనా తొలగించవచ్చు.",
       "100 సమాధానాల తర్వాత, సాధన నివేదికను కాపీ చేయండి లేదా మరింత సాధన కోసం ఒక అంశాన్ని ఎంచుకోండి."
     ]
   }
@@ -340,13 +340,14 @@ function difficultyCeiling() {
   return rolling >= 0.85 ? state.selectionCue + 1.15 : rolling >= 0.65 ? state.selectionCue + 0.75 : state.selectionCue + 0.35;
 }
 
-function renderQuestion() {
+function renderQuestion(options = {}) {
+  const shouldPersist = options.persist !== false;
   state.current = chooseQuestion();
   state.answered = false;
   state.selected = "";
   renderCurrentQuestion();
   updateResults();
-  persistSession();
+  if (shouldPersist) persistSession();
 }
 
 function renderCurrentQuestion() {
@@ -493,7 +494,6 @@ function updateResults() {
     const answers = state.responses.filter((response) => response.category === category);
     document.getElementById(`${category.toLowerCase()}Performance`).textContent = `${answers.filter((r) => r.correct).length} of ${answers.length} correct`;
   }
-  document.getElementById("downloadProgress").disabled = !count;
   renderWeaknesses();
   renderFinalReport();
 }
@@ -619,9 +619,10 @@ function formatReportDate(date) {
   });
 }
 
-function restart(event) {
-  if ((state.responses.length || state.selected) && !window.confirm("Start a new level check? Your current answers and saved report will be cleared.")) return;
+function restart(event, options = {}) {
+  if (!options.skipConfirm && (state.responses.length || state.selected) && !window.confirm("Start a new level check? Your current answers will be cleared.")) return;
   if (event) clearSavedSession();
+  const shouldPersist = options.persist !== false;
   state.questionIndex = 0;
   state.selectionCue = 1.45;
   state.responses = [];
@@ -631,8 +632,15 @@ function restart(event) {
   state.completedAt = "";
   state.optionPositionCounts = [0, 0, 0, 0];
   updateResults();
-  renderQuestion();
+  renderQuestion({ persist: shouldPersist });
   if (event) window.EnglishRoadUI.focusQuestion("questionText");
+}
+
+function clearStudentData() {
+  if (!window.confirm("Delete all English Road data from this browser and reset this page? This cannot be undone.")) return;
+  if (!sessionStore.clearAll()) return;
+  restart(null, { persist: false, skipConfirm: true });
+  window.EnglishRoadUI.focusQuestion("questionText");
 }
 
 function persistSession() {
@@ -684,7 +692,7 @@ function restoreSession() {
     sessionStore.restored();
     return true;
   } catch (error) {
-    sessionStore.reject(error.message === "updated" ? "The questions and reports have been updated. Your previous attempt cannot be resumed with the revised bank. A new attempt is ready." : "The saved attempt is incomplete or unreadable. A new attempt is ready.");
+    sessionStore.reject(error.message === "updated" ? "The questions and reports have been updated. The old saved attempt was cleared, and a new attempt is ready." : "The saved attempt is incomplete or unreadable. A new attempt is ready.");
     return false;
   }
 }
@@ -925,9 +933,9 @@ function escapeAttribute(value) {
 
 const sessionStore = window.EnglishRoadUI.sessionStore(STORAGE_KEY, () => Boolean(state.responses.length || state.selected));
 
-document.getElementById("downloadProgress").addEventListener("click", () => window.EnglishRoadUI.downloadText(buildReportText(), "englishroad-progress.txt"));
 document.getElementById("submitAnswer").addEventListener("click", submitAnswer);
 document.getElementById("restart").addEventListener("click", restart);
+document.getElementById("deleteStudentData").addEventListener("click", clearStudentData);
 document.getElementById("instructionsToggle").addEventListener("click", toggleInstructions);
 document.getElementById("languageSelect").addEventListener("change", (event) => {
   renderLanguageInfo(event.target.value);

@@ -31,7 +31,7 @@ function startPractice(event) {
   if (event) event.preventDefault();
   const unfinished = (state.responses.length || state.selected) && state.index < state.quiz.length;
   const savedUnfinished = savedAttempt && savedAttempt.responses.length && savedAttempt.index < savedAttempt.quiz.length;
-  if ((unfinished || savedUnfinished) && !window.confirm("Start a new practice quiz? This replaces your unfinished saved practice. You can download its progress first.")) return;
+  if ((unfinished || savedUnfinished) && !window.confirm("Start a new practice quiz? This replaces your unfinished saved practice.")) return;
   const level = document.getElementById("levelSelect").value;
   const topic = document.getElementById("topicSelect").value;
   const quiz = selectQuizItems(level, topic);
@@ -392,7 +392,6 @@ function resetCopyPromptButton() {
 
 function renderSidePanel() {
   const correct = state.responses.filter((response) => response.correct).length;
-  document.getElementById("downloadProgress").disabled = !state.quiz.length;
   document.getElementById("practiceMeter").style.width = `${state.responses.length / Math.max(1, state.quiz.length) * 100}%`;
   document.getElementById("sideLevel").textContent = state.level;
   document.getElementById("sideCorrect").textContent = `${correct} of ${state.responses.length}`;
@@ -452,7 +451,7 @@ function readPractice() {
     if (saved.answered && saved.selected !== responses.at(-1).selected) throw new Error("invalid");
     return { ...saved, quiz, responses };
   } catch (error) {
-    sessionStore.reject(error.message === "updated" ? "The practice bank has changed. A previous attempt cannot be resumed; you can download its saved data." : "The saved practice is incomplete or unreadable. Choose a new quiz.");
+    sessionStore.reject(error.message === "updated" ? "The practice bank has changed. The old saved practice was cleared. Choose a new quiz." : "The saved practice is incomplete or unreadable. Choose a new quiz.");
     return null;
   }
 }
@@ -471,13 +470,37 @@ function resumePractice() {
   window.EnglishRoadUI.focusQuestion("practicePrompt");
 }
 
-function practiceProgressText(attempt = state) {
-  return [
-    `English Road — ${attempt.level} practice${attempt.topic ? ` / ${learnerSubcategory(attempt.topic)}` : ""}`,
-    `${attempt.responses.length}/${attempt.quiz.length} answered; ${attempt.responses.filter((r) => r.correct).length} correct.`,
-    "Self-study activity only; not an English-level assessment or examination prediction.",
-    ...attempt.responses.map((response, index) => formatItemForAiPrompt(response, index))
-  ].join("\n\n");
+function clearStudentData() {
+  if (!window.confirm("Delete all English Road data from this browser and reset this page? This cannot be undone.")) return;
+  if (!sessionStore.clearAll()) return;
+  Object.assign(state, {
+    quiz: [],
+    index: 0,
+    selected: "",
+    answered: false,
+    level: "A2",
+    topic: "",
+    responses: [],
+    optionPositionCounts: [0, 0, 0, 0]
+  });
+  savedAttempt = null;
+  document.getElementById("levelSelect").value = state.level;
+  document.getElementById("topicSelect").value = state.topic;
+  document.getElementById("resumePracticeBox").hidden = true;
+  document.getElementById("practiceLayout").hidden = true;
+  document.querySelector(".practice-hero").classList.remove("is-active");
+  document.getElementById("practiceSetupDetails").open = true;
+  document.getElementById("practiceFeedback").textContent = "";
+  document.getElementById("practiceFeedback").className = "feedback";
+  document.getElementById("practiceAnswerHint").hidden = true;
+  document.getElementById("practiceReview").hidden = true;
+  document.getElementById("practiceReview").innerHTML = '<h2 id="practiceReviewTitle">Review answers</h2>';
+  document.getElementById("practicePrompt").innerHTML = "";
+  document.getElementById("practiceAnswers").innerHTML = "";
+  document.getElementById("practiceMeta").innerHTML = "";
+  renderAiPrompt();
+  updateSetup();
+  document.getElementById("startPracticeQuiz").focus({ preventScroll: true });
 }
 
 state.bank = createQuestionBank();
@@ -495,8 +518,7 @@ document.getElementById("nextPracticeItem").addEventListener("click", nextPracti
 document.getElementById("restartPractice").addEventListener("click", startPractice);
 document.getElementById("copyAiPrompt").addEventListener("click", copyAiPrompt);
 document.getElementById("resumePractice").addEventListener("click", resumePractice);
-document.getElementById("downloadProgress").addEventListener("click", () => window.EnglishRoadUI.downloadText(practiceProgressText(), "englishroad-practice-progress.txt"));
-document.getElementById("downloadSavedPractice").addEventListener("click", () => { if (savedAttempt) window.EnglishRoadUI.downloadText(practiceProgressText(savedAttempt), "englishroad-saved-practice.txt"); });
+document.getElementById("deleteStudentData").addEventListener("click", clearStudentData);
 document.getElementById("bankSize").textContent = state.bank.length.toLocaleString();
 savedAttempt = readPractice();
 if (savedAttempt) {
