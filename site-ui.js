@@ -2,8 +2,9 @@
   function focusQuestion(id) {
     const target = document.getElementById(id);
     target.focus({ preventScroll: true });
-    const topInset = 20;
-    target.style.scrollMarginTop = `${topInset}px`;
+    const header = document.querySelector(".site-header");
+    const topInset = (header ? header.getBoundingClientRect().height : 0) + 20;
+    target.style.scrollMarginTop = "20px";
     const rect = target.getBoundingClientRect();
     if (rect.top < topInset || rect.bottom > window.innerHeight - 16) {
       target.scrollIntoView({ block: "start", behavior: "instant" });

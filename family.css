@@ -26,6 +26,8 @@
   --selected: #edf1ff;
 }
 * { box-sizing: border-box; }
+html { scroll-padding-top: var(--site-header-height, 90px); }
+:target { scroll-margin-top: 16px; }
 [hidden] { display: none !important; }
 body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); font-size: 16px; font-weight: 400; line-height: 1.65; overflow-wrap: break-word; }
 button, input, select, textarea { font: inherit; }
@@ -43,9 +45,9 @@ button, summary { cursor: pointer; }
 button, a, summary { -webkit-tap-highlight-color: transparent; }
 button:disabled { cursor: default; background: var(--line); color: var(--muted); border-color: var(--line); }
 button:disabled:hover { background: var(--line); color: var(--muted); }
-.skip-link { position: absolute; left: 20px; top: -100px; z-index: 10; background: var(--surface); padding: 12px; }
+.skip-link { position: absolute; left: 20px; top: -100px; z-index: 100; background: var(--surface); padding: 12px; }
 .skip-link:focus { top: 10px; }
-.site-header { max-width: 1200px; margin: auto; padding: 22px 32px; display: flex; align-items: center; justify-content: space-between; gap: 28px; border-bottom: 1px solid var(--line); }
+.site-header { position: sticky; top: 0; z-index: 20; max-width: 1200px; margin: auto; padding: 22px 32px; display: flex; align-items: center; justify-content: space-between; gap: 28px; border-bottom: 1px solid var(--line); background: var(--bg); box-shadow: 0 4px 12px #20242b0a; }
 .brand { display: inline-flex; align-items: center; flex-shrink: 0; gap: 12px; color: var(--ink); font-weight: 700; font-size: 1.25rem; letter-spacing: -.045em; text-decoration: none; min-height: 44px; }
 .brand-mark { display: block; width: 40px; height: 40px; border-radius: 10px; flex: 0 0 40px; }
 .site-links { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 24px; }
@@ -111,6 +113,7 @@ select { min-height: 46px; }
 .site-footer { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 16px; margin-top: 40px; padding-top: 24px; border-top: 1px solid var(--line); color: var(--muted); font-size: 14px; }
 .site-footer a { display: inline-flex; align-items: center; min-height: 44px; }
 @media (max-width: 900px) {
+  html { scroll-padding-top: var(--site-header-height, 190px); }
   .site-header { flex-wrap: wrap; gap: 12px 24px; }
   .site-links .sister-link { margin-left: 0; }
 }
