@@ -24,7 +24,7 @@
     <title>English Road Practice Quizzes</title>
     <link rel="icon" href="favicon.svg?v=20260907-bank-v1" type="image/svg+xml">
     <link rel="stylesheet" href="family.css?v=20260907-bank-v1">
-    <link rel="stylesheet" href="practice.css?v=20260907-bank-v1">
+    <link rel="stylesheet" href="practice.css?v=20260907-cefr-v1">
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
@@ -63,7 +63,32 @@
           <span id="quizLength" class="quiz-length">Up to 25 questions</span>
           <button id="startPracticeQuiz" class="primary-action" type="submit" disabled>Loading questions…</button>
         </form><p id="setupStatus" class="side-note" role="status"></p></details>
-        <p class="cefr-help">A1–C2 are labels from the Common European Framework of Reference for Languages (CEFR). Here they are approximate practice bands; completing a quiz does not establish your CEFR level. <a href="level-check.html">Not sure of your level?</a></p>
+        <p id="cefrHelp" class="cefr-help"><button id="cefrComparisonTrigger" class="cefr-comparison-trigger" type="button" aria-expanded="false" aria-controls="cefrComparison" aria-haspopup="dialog" aria-label="Compare A1–C2 with TOEIC and TOEFL">A1–C2 <span aria-hidden="true">ⓘ</span></button> are labels from the Common European Framework of Reference for Languages (CEFR). Here they are approximate practice bands; completing a quiz does not establish your CEFR level. <a href="level-check.html">Not sure of your level?</a></p>
+        <section id="cefrComparison" class="cefr-comparison" role="dialog" aria-modal="false" aria-labelledby="cefrComparisonTitle" hidden>
+          <header class="cefr-comparison-header">
+            <h2 id="cefrComparisonTitle">How the scales compare</h2>
+            <button id="closeCefrComparison" class="cefr-comparison-close" type="button" aria-label="Close score comparison">×</button>
+          </header>
+          <div class="cefr-comparison-body">
+            <p>CEFR describes language ability. TOEIC and TOEFL are tests linked to those levels. These are reference comparisons, not predicted scores from your English Road quiz.</p>
+            <table class="cefr-score-table">
+              <caption>CEFR levels and ETS score guidance</caption>
+              <thead><tr><th scope="col">CEFR</th><th scope="col">TOEIC <small>Listening + Reading</small></th><th scope="col">TOEFL iBT <small>Current 1–6 scale</small></th></tr></thead>
+              <tbody>
+                <tr><th scope="row">A1</th><td><strong>120+</strong><small>L 60 · R 60</small></td><td><strong>1–1.5</strong><small>≈ 0–23 / 120</small></td></tr>
+                <tr><th scope="row">A2</th><td><strong>225+</strong><small>L 110 · R 115</small></td><td><strong>2–2.5</strong><small>≈ 24–43 / 120</small></td></tr>
+                <tr><th scope="row">B1</th><td><strong>550+</strong><small>L 275 · R 275</small></td><td><strong>3–3.5</strong><small>≈ 44–71 / 120</small></td></tr>
+                <tr><th scope="row">B2</th><td><strong>785+</strong><small>L 400 · R 385</small></td><td><strong>4–4.5</strong><small>≈ 72–94 / 120</small></td></tr>
+                <tr><th scope="row">C1</th><td><strong>945+</strong><small>L 490 · R 455</small></td><td><strong>5–5.5</strong><small>≈ 95–113 / 120</small></td></tr>
+                <tr><th scope="row">C2</th><td>Not mapped</td><td><strong>6</strong><small>≈ 114–120 / 120</small></td></tr>
+              </tbody>
+            </table>
+            <p><strong>TOEIC:</strong> totals out of 990 sum ETS’s recommended listening (L) and reading (R) minimums. Both section scores matter; a total alone can hide a weaker skill. These are guidelines. Speaking and Writing use separate scales; this mapping does not establish C2.</p>
+            <p><strong>TOEFL:</strong> the 1–6 scale applies from January 21, 2026. The smaller figures combine ETS’s comparable 0–120 ranges; they are not the historical CEFR cut-offs. Overall scores can hide differences between skills.</p>
+            <p class="cefr-comparison-sources">Official sources: <a href="https://www.ets.org/content/dam/ets-org/pdfs/toeic/toeic-mapping-cefr-reference.pdf" target="_blank" rel="noopener noreferrer">ETS TOEIC mapping (PDF) ↗</a> · <a href="https://www.ets.org/toefl/institutions/ibt/score-scale-update.html" target="_blank" rel="noopener noreferrer">ETS TOEFL scales ↗</a><br>Checked September 7, 2026.</p>
+          </div>
+        </section>
+        <noscript><p class="cefr-help">Compare the official <a href="https://www.ets.org/content/dam/ets-org/pdfs/toeic/toeic-mapping-cefr-reference.pdf">TOEIC</a> and <a href="https://www.ets.org/toefl/institutions/ibt/score-scale-update.html">TOEFL</a> score guides.</p></noscript>
       </section>
 
       <div id="loadStatus" class="notice" role="status"><p id="loadMessage">Loading questions. If this takes too long, check your connection.</p><a href="">Retry loading</a></div>
@@ -136,6 +161,7 @@
       <footer class="site-footer"><span>English Road · Find your next step. <a href="about.html">About &amp; privacy</a></span><a href="https://englishladder.com/">Read today’s English lesson at English Ladder <span aria-hidden="true">↗</span></a></footer>
     </main>
 
+    <script src="cefr-comparison.js?v=20260907-cefr-v1" defer></script>
     <script src="quiz-loader.js?v=20260907-bank-v1" data-app="practice.js" data-version="20260907-bank-v1"></script>
   </body>
 </html>
