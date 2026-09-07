@@ -512,7 +512,7 @@ function clearStudentData() {
 state.bank = createQuestionBank();
 const BANK_REVISION = window.EnglishRoadQuestions.bankRevision(state.bank);
 const topics = [...new Set(state.bank.map((question) => question.subcategory))].sort((a, b) => learnerSubcategory(a).localeCompare(learnerSubcategory(b)));
-document.getElementById("topicSelect").innerHTML = '<option value="">All topics</option>' + topics.map((topic) => `<option value="${escapeHtml(topic)}">${escapeHtml(learnerSubcategory(topic))}</option>`).join("");
+document.getElementById("topicSelect").innerHTML = '<option value="">— All topics</option>' + topics.map((topic) => `<option value="${escapeHtml(topic)}">${escapeHtml(learnerSubcategory(topic))}</option>`).join("");
 const params = new URLSearchParams(location.search);
 if (Object.hasOwn(levelBands, params.get("level"))) document.getElementById("levelSelect").value = params.get("level");
 if (topics.includes(params.get("topic"))) document.getElementById("topicSelect").value = params.get("topic");

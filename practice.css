@@ -5,6 +5,15 @@
 .setup-box { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 16px 24px; }
 .setup-box label { display: grid; gap: 8px; font-size: 14px; font-weight: 600; min-width: 0; }
 .setup-box select { width: 280px; font-size: 16px; font-weight: 400; }
+#topicSelect option { font-weight: 400; }
+#topicSelect option[value=""], #topicSelect:has(option[value=""]:checked) { font-weight: 700; }
+/* Let supporting browsers render the option's bold text, including on macOS. */
+@supports (appearance: base-select) {
+  #topicSelect, #topicSelect::picker(select) { appearance: base-select; }
+  #topicSelect::picker(select) { max-height: min(60dvh, 420px); overflow-y: auto; border: 1px solid var(--control-edge); border-radius: 8px; background: var(--surface); color: var(--ink); font: inherit; }
+  #topicSelect option { min-height: 44px; padding: 8px 12px; }
+  #topicSelect option:hover, #topicSelect option:focus { background: var(--selected); }
+}
 .quiz-length { align-self: flex-end; padding-bottom: 12px; color: var(--muted); font-size: 14px; }
 .cefr-help { max-width: 75ch; }
 .cefr-comparison-trigger { display: inline; border: 0; border-bottom: 1px dotted currentColor; border-radius: 0; padding: 0 0 2px; background: none; color: var(--primary); font: inherit; cursor: help; }
