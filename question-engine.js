@@ -356,7 +356,7 @@ function formatAnswerForFeedback(answer) {
 function answerFeedback(question, selected) {
   if (selected === question.answer) return `Correct. ${question.explanation}`;
   return ["Not quite.", question.rationales[selected],
-    `Correct answer: ${formatAnswerForFeedback(question.answer)}`, question.explanation].filter(Boolean).join("\n\n");
+    `Correct answer: ${formatAnswerForFeedback(question.answer)}`, question.explanation].filter(Boolean).join("\n");
 }
 
 function helpfulSetup(text, blueprint, index = 0, made = {}) {
