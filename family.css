@@ -96,7 +96,7 @@ select { min-height: 46px; }
 .answer-option.incorrect { background: var(--incorrect-soft); border-color: var(--incorrect); color: var(--incorrect); }
 .option-result { grid-column: 2; font-size: 13px; font-weight: 600; }
 .actions, .practice-actions, .final-report-actions, .report-next-steps { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; margin-top: 24px; }
-.feedback { font-size: 16px; line-height: 1.65; margin-top: 16px; }
+.feedback { font-size: 16px; line-height: 1.65; margin-top: 16px; white-space: pre-line; }
 .feedback:empty { display: none; }
 .feedback.good, .feedback.needs-work { padding: 16px; border-radius: 8px; }
 .feedback.good { background: var(--correct-soft); color: var(--correct); }

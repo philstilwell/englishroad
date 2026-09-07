@@ -1,5 +1,5 @@
 const {
-  clamp, copyText, createQuestionBank, escapeHtml, formatAnswerForFeedback, incrementCount, learnerSubcategory, normalizeQuestionText, orderOptionsWithBalancedAnswerPosition, questionSignature, randomInt, recordAnswerPosition, shuffleRandom, splitTaskText, hasKnownAnswerAmbiguity, hasPluralCountQuantifierAmbiguity, hasKnownAwkwardPhrase, hasDisplayGuidanceProblem
+  answerFeedback, clamp, copyText, createQuestionBank, escapeHtml, incrementCount, learnerSubcategory, normalizeQuestionText, orderOptionsWithBalancedAnswerPosition, questionSignature, randomInt, recordAnswerPosition, shuffleRandom, hasKnownAnswerAmbiguity, hasPluralCountQuantifierAmbiguity, hasKnownAwkwardPhrase, hasDisplayGuidanceProblem
 } = window.EnglishRoadQuestions;
 
 const TOTAL_QUESTIONS = 100;
@@ -364,7 +364,6 @@ function renderCurrentQuestion() {
   const displayNumber = clamp(state.answered ? state.questionIndex : state.questionIndex + 1, 1, TOTAL_QUESTIONS);
   document.getElementById("questionNumber").textContent = String(displayNumber);
   document.getElementById("totalQuestions").textContent = String(TOTAL_QUESTIONS);
-  const taskParts = splitTaskText(state.current.taskText);
   document.getElementById("questionMeta").innerHTML = [
     state.current.category,
     learnerSubcategory(state.current.subcategory),
@@ -377,13 +376,7 @@ function renderCurrentQuestion() {
     </span>
     <span class="question-stem">
       <span class="question-part-label">Answer this</span>
-      <span class="question-instruction">${escapeHtml(taskParts.instruction)}</span>
-      ${taskParts.target ? `
-        <span class="spoken-sentence">
-          <span class="spoken-label">Sentence</span>
-          ${escapeHtml(taskParts.target)}
-        </span>
-      ` : ""}
+      <span class="question-instruction">${escapeHtml(state.current.taskText)}</span>
     </span>
   `;
   document.getElementById("answers").innerHTML = state.current.options.map((option) => `
@@ -417,7 +410,7 @@ function renderCurrentQuestion() {
   const button = document.getElementById("submitAnswer");
   if (state.answered) {
     const correct = state.selected === state.current.answer;
-    feedback.textContent = correct ? `✓ Correct. ${state.current.explanation}` : `Not quite. Correct answer: ${formatAnswerForFeedback(state.current.answer)} ${state.current.explanation}`;
+    feedback.textContent = answerFeedback(state.current, state.selected);
     feedback.className = `feedback ${correct ? "good" : "needs-work"}`;
     button.textContent = state.questionIndex >= TOTAL_QUESTIONS ? "Completed" : "Next question";
     button.disabled = state.questionIndex >= TOTAL_QUESTIONS;
@@ -463,7 +456,7 @@ function submitAnswer() {
   });
 
   const feedback = document.getElementById("feedback");
-  feedback.textContent = correct ? `✓ Correct. ${state.current.explanation}` : `Not quite. Correct answer: ${formatAnswerForFeedback(state.current.answer)} ${state.current.explanation}`;
+  feedback.textContent = answerFeedback(state.current, state.selected);
   feedback.className = `feedback ${correct ? "good" : "needs-work"}`;
 
   updateResults();
@@ -598,7 +591,7 @@ function buildReportText() {
     "Results by area:",
     ...areaStats().map((area) => `${area.label}: ${area.correct}/${area.attempted} correct${area.attempted < 3 ? " (small sample)" : ""}`),
     "", "Answers reviewed:",
-    ...state.responses.map((response, index) => `${index + 1}. [${response.id}] ${response.taskText}\nYour answer: ${response.selected}\nKeyed answer: ${response.answer}\n${response.explanation}`),
+    ...state.responses.map((response, index) => `${index + 1}. [${response.id}] ${response.setupText}\n${response.taskText}\nYour answer: ${response.selected}\nKeyed answer: ${response.answer}\n${response.explanation}${response.correct ? "" : `\nFeedback on your answer: ${response.rationales[response.selected]}`}`),
     "", "Method and limitations: https://englishroad.com/about.html"
   ].join("\n");
 }

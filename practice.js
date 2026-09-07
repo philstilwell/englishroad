@@ -1,5 +1,5 @@
 const {
-  copyText, createQuestionBank, escapeHtml, formatAnswerForFeedback, incrementCount, learnerSubcategory, orderOptionsWithBalancedAnswerPosition, questionSignature, recordAnswerPosition, shuffleRandom, splitTaskText
+  answerFeedback, copyText, createQuestionBank, escapeHtml, formatAnswerForFeedback, incrementCount, learnerSubcategory, orderOptionsWithBalancedAnswerPosition, questionSignature, recordAnswerPosition, shuffleRandom
 } = window.EnglishRoadQuestions;
 
 const PRACTICE_LENGTH = 25;
@@ -19,13 +19,6 @@ const state = {
 };
 
 let copyPromptResetTimer = null;
-
-function rationaleWithoutRepeatedAnswer(rationale, answer) {
-  const repeatedAnswer = `\"${answer}\" `;
-  if (!rationale.startsWith(repeatedAnswer)) return rationale;
-  const remaining = rationale.slice(repeatedAnswer.length);
-  return remaining.charAt(0).toUpperCase() + remaining.slice(1);
-}
 
 function startPractice(event) {
   if (event) event.preventDefault();
@@ -173,7 +166,6 @@ function renderPractice() {
     `${state.level} practice band`
   ].map((label) => `<span class="tag">${escapeHtml(label)}</span>`).join("");
 
-  const parts = splitTaskText(item.taskText);
   document.getElementById("practicePrompt").innerHTML = `
     <div class="prompt-help">
       <span class="part-label">Helpful information</span>
@@ -181,8 +173,7 @@ function renderPractice() {
     </div>
     <div class="prompt-task">
       <span class="part-label">Answer this</span>
-      <span class="instruction">${escapeHtml(parts.instruction)}</span>
-      ${parts.target ? `<span class="sentence">${escapeHtml(parts.target)}</span>` : ""}
+      <span class="instruction">${escapeHtml(item.taskText)}</span>
     </div>
   `;
 
@@ -250,7 +241,7 @@ function showPracticeFeedback() {
   });
 
   const feedback = document.getElementById("practiceFeedback");
-  feedback.textContent = correct ? `✓ Correct. ${item.explanation}` : `Not quite. Correct answer: ${formatAnswerForFeedback(item.answer)} ${item.explanation}`;
+  feedback.textContent = answerFeedback(item, state.selected);
   feedback.className = `feedback ${correct ? "good" : "needs-work"}`;
   document.getElementById("practiceAnswerHint").hidden = true;
   renderSidePanel();
@@ -302,17 +293,17 @@ function renderPracticeReview() {
     <p>Use this after the quiz to see the answer, the main reason, and your selected choice.</p>
     <div class="review-list">
       ${state.responses.map((response, index) => {
-        const parts = splitTaskText(response.taskText);
         const selectedRationale = response.rationales && response.rationales[response.selected]
           ? response.rationales[response.selected]
           : "This choice does not fit the grammar or meaning of the item.";
         const selectedLine = response.correct
           ? "Your answer was correct."
-          : `Your answer: ${formatAnswerForFeedback(response.selected)} ${rationaleWithoutRepeatedAnswer(selectedRationale, response.selected)}`;
+          : `Your answer: ${formatAnswerForFeedback(response.selected)} ${selectedRationale}`;
         return `
           <article class="review-item ${response.correct ? "is-correct" : "is-missed"}">
             <h3>${index + 1}. ${escapeHtml(response.correct ? "Correct" : "Review this item")}</h3>
-            <p class="review-target"><strong>${escapeHtml(parts.instruction)}</strong>${parts.target ? `<br>${escapeHtml(parts.target)}` : ""}</p>
+            <p class="review-context">${escapeHtml(response.setupText)}</p>
+            <p class="review-target"><strong>${escapeHtml(response.taskText)}</strong></p>
             <p class="review-meta">Correct answer: <strong>${escapeHtml(response.answer)}</strong></p>
             <p class="review-rationale">${escapeHtml(response.explanation || "This is the best answer for the item.")}</p>
             <p class="review-rationale">${escapeHtml(selectedLine)}</p>
@@ -351,11 +342,13 @@ function buildAiPrompt() {
 function formatItemForAiPrompt(item, index) {
   return [
     `Item ${index + 1} [${item.id}]`,
+    `Context and instruction: ${item.setupText}`,
     `Question: ${item.taskText}`,
     `Choices: ${item.options.join(" | ")}`,
     `My answer: ${item.selected}`,
     `Keyed answer: ${item.answer}`,
     `Site explanation: ${item.explanation}`,
+    `Feedback on my answer: ${item.rationales[item.selected]}`,
     `Area: ${item.category} / ${learnerSubcategory(item.subcategory)}`
   ].join("\n");
 }

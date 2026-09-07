@@ -2778,23 +2778,23 @@ Choose the meaning of the article change.
 
 ID: `coverage-articles-c1-447`
 
-Choose the explanation of the definite phrase.
+Alex once avoided crowds; now he hosts huge parties. An old friend comments on the change.
 
-"This is not the Alex I remember from university." What does "the Alex I remember" most naturally identify?
+'This is not the Alex I remember from university.' What does 'the Alex I remember' identify?
 
-1. A second person whose first name is also Alex
-2. The speaker's remembered version or impression of the same person **[Correct]**
-3. A formal title that Alex held at university
-4. An unidentified example of a personality type called Alex
+1. Another university friend who happened to have the same name
+2. Alex as the person with his former habits and character **[Correct]**
+3. Alex as the only person in his university class with that name
+4. Alex as a representative of everyone the speaker knew at university
 
 **Explanation:** The article and following clause select Alex as remembered by the speaker. A personal name can take the when the phrase identifies a particular version, aspect, or namesake; this context favours a remembered version.
 
 **Choice feedback:**
 
-- **A second person whose first name is also Alex:** That can be a possible use in another context, but the comparison with memory naturally concerns how this person has changed.
-- **The speaker's remembered version or impression of the same person:** The modifying clause identifies the version of Alex being compared with the present person.
-- **A formal title that Alex held at university:** Nothing makes Alex a title rather than a name.
-- **An unidentified example of a personality type called Alex:** The definite modifier links the phrase to the speaker's specific memory, not an unidentified category member.
+- **Another university friend who happened to have the same name:** The context explicitly concerns a change in Alex's behaviour, not confusion between two people named Alex.
+- **Alex as the person with his former habits and character:** The article and relative clause select the version of Alex preserved in the speaker's memory.
+- **Alex as the only person in his university class with that name:** The definite phrase identifies a remembered version of him; it supplies no information about classmates' names.
+- **Alex as a representative of everyone the speaker knew at university:** The clause identifies the speaker's memory of this individual. It does not make Alex a type representing an entire group.
 
 **Decision:** replaced.
 
@@ -2913,16 +2913,16 @@ Which sentence is correct?
 1. Many a promising scheme has failed for lack of maintenance. **[Correct]**
 2. Many a promising schemes has failed for lack of maintenance.
 3. Many a promising scheme have failed for lack of maintenance.
-4. Many an promising scheme has failed for lack of maintenance.
+4. A many promising schemes have failed for lack of maintenance.
 
-**Explanation:** "Many a" has a plural meaning but uses a singular count noun and singular verb: "Many a scheme has failed". The adjective promising begins with a consonant sound.
+**Explanation:** Many a has a plural meaning but uses a singular count noun and singular verb: 'Many a scheme has failed.' Keep this formal construction distinct from ordinary 'many schemes have failed'.
 
 **Choice feedback:**
 
-- **Many a promising scheme has failed for lack of maintenance.:** The formal quantity expression correctly combines a singular noun with singular agreement.
-- **Many a promising schemes has failed for lack of maintenance.:** After "many a", keep the noun singular: "scheme".
-- **Many a promising scheme have failed for lack of maintenance.:** The grammatical subject is singular in this construction, so use "has".
-- **Many an promising scheme has failed for lack of maintenance.:** The next word is promising, which starts with /p/; use "a", not "an".
+- **Many a promising scheme has failed for lack of maintenance.:** The formal quantity expression combines the singular scheme with has even though it refers to many cases.
+- **Many a promising schemes has failed for lack of maintenance.:** After many a, use the singular noun scheme. The plural meaning does not license schemes in this pattern.
+- **Many a promising scheme have failed for lack of maintenance.:** The head noun scheme is grammatically singular in this construction, so its verb is has.
+- **A many promising schemes have failed for lack of maintenance.:** This mixes two patterns. Use either 'many promising schemes have' or 'many a promising scheme has'; a cannot simply precede many here.
 
 **Decision:** replaced.
 
@@ -2940,21 +2940,21 @@ ID: `coverage-articles-c1-452`
 
 Choose the interpretation that follows from the definite phrase.
 
-"We are still searching for a framework. The framework must accommodate exceptions without treating them as errors." Does the second sentence assert that a suitable framework has already been found?
+'We are still searching for a framework. The framework must accommodate exceptions without treating them as errors.' How should the second sentence be understood?
 
-1. Yes; the always guarantees an existing object already found
-2. No; it can refer to the framework being sought and state a requirement on it **[Correct]**
-3. Yes; repeating the noun changes searching into finding
-4. No; it refers to an unrelated framework used by a different group
+1. It describes a framework already selected, while leaving open whether the framework can meet the requirement
+2. It sets a requirement for the framework being sought, without asserting that one has been found **[Correct]**
+3. It refers to an earlier unsuccessful framework and describes the feature that the new one should replace
+4. It announces that the search has ended but that the chosen framework still needs to be tested
 
 **Explanation:** The definite phrase can continue reference to the object of a search. It specifies what the sought framework must be like, without cancelling "still searching" or asserting that one has been found.
 
 **Choice feedback:**
 
-- **Yes; the always guarantees an existing object already found:** Definite reference can operate within a proposed or sought situation. The article is not evidence that the search succeeded.
-- **No; it can refer to the framework being sought and state a requirement on it:** This preserves the search context and the requirement expressed by must.
-- **Yes; repeating the noun changes searching into finding:** Noun repetition does not change the meaning of the earlier verb.
-- **No; it refers to an unrelated framework used by a different group:** The discourse links the second phrase to the same search, not to another group's work.
+- **It describes a framework already selected, while leaving open whether the framework can meet the requirement:** Still searching rules out treating the definite article as an announcement of selection. The phrase continues reference to what is being sought.
+- **It sets a requirement for the framework being sought, without asserting that one has been found:** Must states the desired property of the sought object. Definite reference can remain within that projected situation.
+- **It refers to an earlier unsuccessful framework and describes the feature that the new one should replace:** No earlier failed framework is established. The natural link is back to a framework in the ongoing search.
+- **It announces that the search has ended but that the chosen framework still needs to be tested:** Changing a to the maintains reference; it does not cancel the statement that the search is continuing.
 
 **Decision:** replaced.
 
@@ -3166,19 +3166,19 @@ Choose the interpretation of the article phrase.
 
 "The explanation has a clarity that the earlier draft lacked." What does "a clarity" do?
 
-1. Counts one complete explanation independently of its style
+1. Presents the current explanation as one of several equally clear versions
 2. Presents a particular quality or degree of clearness characterised by the following clause **[Correct]**
-3. Identifies a previous explanation already named Clarity
-4. States that the explanation contains one clear fact and no others
+3. Introduces a separate clear passage that can be counted within the explanation
+4. Identifies the same quality of clearness as one already established in the earlier draft
 
 **Explanation:** Clarity is usually uncountable, but the phrase presents a characterised manifestation of that quality. The following clause contrasts the present text with the earlier draft.
 
 **Choice feedback:**
 
-- **Counts one complete explanation independently of its style:** The article modifies clarity, not explanation; it characterises a quality of the text.
-- **Presents a particular quality or degree of clearness characterised by the following clause:** This explains the bounded, characterised use of the abstract noun.
-- **Identifies a previous explanation already named Clarity:** Clarity is an ordinary abstract noun here, not a title or proper name.
-- **States that the explanation contains one clear fact and no others:** The phrase evaluates the text's clearness; it does not count facts.
+- **Presents the current explanation as one of several equally clear versions:** A modifies clarity, not explanation. It characterises the present text's quality without establishing a set of equally clear versions.
+- **Presents a particular quality or degree of clearness characterised by the following clause:** The article presents an instance of the abstract quality, and the clause distinguishes it from what the earlier text lacked.
+- **Introduces a separate clear passage that can be counted within the explanation:** The bounded use concerns a quality of the explanation, not a newly introduced passage or section.
+- **Identifies the same quality of clearness as one already established in the earlier draft:** The earlier draft is said to lack this clarity. The indefinite phrase presents the current quality rather than referring back to one already established there.
 
 **Decision:** replaced.
 
@@ -3190,37 +3190,37 @@ Choose the interpretation of the article phrase.
 
 **Similarity review:** Textual clarity rather than emotion, knowledge, or a countable document.
 
-### 20. Limits of moving an adjective phrase before an article
+### 20. Neutral not a classification versus evaluative no and identifying not the
 
 ID: `coverage-articles-c1-460`
 
-Choose the grammatically correct formal construction.
+Amira does not practise as an architect, but she sometimes designs useful spaces.
 
-Which sentence is correct?
+A critic dismisses her by saying, 'She is no architect.' Choose the revision that states only her occupational status, without judging the quality of her designs.
 
-1. We could not have asked for such precise an explanation.
-2. We could not have asked for more precise an explanation.
-3. We could not have asked for a more precise explanation. **[Correct]**
-4. We could not have asked for an more precise explanation.
+1. She is not much of an architect.
+2. She is not the architect.
+3. She is not an architect. **[Correct]**
+4. She is no great architect.
 
-**Explanation:** An ordinary comparative adjective phrase follows the article: "a more precise explanation". Unlike the special "so precise an explanation" pattern, more precise does not normally precede an in this construction.
+**Explanation:** Not an architect neutrally denies membership of the professional category. In the critic's dismissive use, no architect suggests that she lacks an architect's competence. The revision removes that evaluation without introducing a particular architect's identity.
 
 **Choice feedback:**
 
-- **We could not have asked for such precise an explanation.:** With such, the standard order is "such a precise explanation".
-- **We could not have asked for more precise an explanation.:** The ordinary comparative construction places the article first: "a more precise explanation".
-- **We could not have asked for a more precise explanation.:** The article precedes the comparative phrase and matches the initial /m/ sound.
-- **We could not have asked for an more precise explanation.:** The next sound is the consonant /m/ in more, so use a rather than an.
+- **She is not much of an architect.:** Not much of evaluates how good she is at the role; it retains the criticism the revision is meant to remove.
+- **She is not the architect.:** The points to a particular architect relevant to a project or conversation. Denying that identity does not deny being an architect professionally.
+- **She is not an architect.:** The indefinite noun phrase names the professional category; ordinary negation denies that category membership without rating her design skill.
+- **She is no great architect.:** This denies distinction or excellence, not professional status. It can describe someone who is an architect but not a great one.
 
 **Decision:** replaced.
 
-**Original findings:** Original only-explanation item repeated a trivial definite frame.
+**Original findings:** The original only-methodology frame was repetitive; the first revision repeated a degree-word-order task and depended on a potentially marginal comparative alternative.
 
-**Learning value:** Prevents overextending the marked so-adjective-article pattern to ordinary comparatives.
+**Learning value:** Helps writers remove an unintended put-down while keeping an accurate statement of professional status.
 
-**Level rationale:** Comparing permissible and impermissible formal noun-phrase orders supports C1 editing.
+**Level rationale:** Requires distinguishing grammatical paraphrases by evaluative force and reference rather than basic article form.
 
-**Similarity review:** Tests the boundary of the so-pattern rather than repeating its licensed form.
+**Similarity review:** An interpersonal editing decision about negative classification, distinct from degree-word order and countability.
 
 ## C2
 
@@ -3298,19 +3298,19 @@ Choose the account of the two article functions.
 
 "As the curator of the collection, she approached the purchase with the caution of a curator rather than the enthusiasm of a collector." How do "the curator" and "a curator" function?
 
-1. Both identify the same curator, with the second article merely avoiding repetition
+1. Both identify her personally; the article change merely avoids repeating an identical noun phrase
 2. The first identifies her role; the second characterises caution by a professional type **[Correct]**
-3. The first identifies a professional curator; the second downgrades her to an amateur
-4. The first identifies one person; the second introduces a different curator advising her
+3. The first establishes her occupation; the second leaves whether she is a curator unresolved
+4. The first identifies her position; the second attributes her caution to another curator's influence
 
 **Explanation:** "The curator of the collection" identifies her as the holder of the relevant role. "The caution of a curator" classifies the quality of her approach by reference to a professional type. It does not introduce another curator.
 
 **Choice feedback:**
 
-- **Both identify the same curator, with the second article merely avoiding repetition:** The second phrase supplies a professional characterisation rather than simply renaming the individual. Article choice changes its referential function.
-- **The first identifies her role; the second characterises caution by a professional type:** This distinguishes the identifying phrase from the category-based description of her caution.
-- **The first identifies a professional curator; the second downgrades her to an amateur:** The indefinite article does not reduce her qualifications or professional status.
-- **The first identifies one person; the second introduces a different curator advising her:** The caution-of phrase need not introduce any adviser; it describes her approach through a type.
+- **Both identify her personally; the article change merely avoids repeating an identical noun phrase:** The second phrase invokes qualities associated with a professional category; it is not simply another identifying reference to her.
+- **The first identifies her role; the second characterises caution by a professional type:** The definite role identifies her; the indefinite professional type characterises the caution she displays.
+- **The first establishes her occupation; the second leaves whether she is a curator unresolved:** The first phrase has already established her role. Using a professional type to describe her manner does not withdraw that information.
+- **The first identifies her position; the second attributes her caution to another curator's influence:** 'Of a curator' describes the kind of caution; it does not assert that an adviser influenced her.
 
 **Decision:** replaced.
 
@@ -3330,19 +3330,19 @@ Choose the most precise explanation of the contrast.
 
 Compare "She studies education in coastal communities" with "She studies the education of the three siblings". Why does the second noun phrase use "the"?
 
-1. A following modifier always converts a general field into a definite noun phrase
+1. A postmodifier makes education definite whenever it narrows the range of people being studied
 2. The second identifies the siblings' educational history, while the first can retain a general reading **[Correct]**
-3. The number of siblings makes education a plural count noun, which then requires the
-4. The second of-phrase makes the education an individual course rather than a set of experiences
+3. The second points back to an education mentioned earlier, which the first sentence must introduce
+4. The first refers to education generally, whereas the second must refer to one course shared by the siblings
 
 **Explanation:** The second sentence treats the siblings' education as an identifiable object of study. Postmodification alone does not force "the": "education in coastal communities" remains general in the first sentence.
 
 **Choice feedback:**
 
-- **A following modifier always converts a general field into a definite noun phrase:** The first phrase also has a modifier, "in coastal communities", but can remain general. Modification alone does not impose definiteness.
-- **The second identifies the siblings' educational history, while the first can retain a general reading:** The interpretation, rather than a mechanical property of the modifier, motivates the article difference.
-- **The number of siblings makes education a plural count noun, which then requires the:** Education remains uncountable in this use; the number of people does not turn it into plural educational units.
-- **The second of-phrase makes the education an individual course rather than a set of experiences:** Their education can include many years and experiences. The definite phrase does not reduce it to a single course.
+- **A postmodifier makes education definite whenever it narrows the range of people being studied:** The coastal-community modifier also narrows the subject without requiring the. Restricted subject matter is not the same as an identifiable referent.
+- **The second identifies the siblings' educational history, while the first can retain a general reading:** The siblings' education can be identified through its relation to them. The other sentence treats education as a general subject within a setting.
+- **The second points back to an education mentioned earlier, which the first sentence must introduce:** These are separate examples. An of-phrase can make a referent identifiable without an earlier mention of it.
+- **The first refers to education generally, whereas the second must refer to one course shared by the siblings:** An identifiable education can cover different schools and many experiences. Definiteness does not turn it into a single course.
 
 **Decision:** replaced.
 
@@ -3386,37 +3386,37 @@ Choose the interpretation of the highlighted article use.
 
 **Similarity review:** A biographical aspect of a person differs from the artwork-name metonymy elsewhere.
 
-### 6. Countable negotiated outcome versus uncountable consensus
+### 6. Editing countable settlement and uncountable consensus without changing negotiation status
 
 ID: `coverage-articles-c2-466`
 
-Choose the interpretation supported by the wording.
+Choose the revision that preserves the distinction between an arrangement and consensus.
 
-"They reached an agreement on access, but agreement on ownership remained elusive." How do the two uses of "agreement" differ?
+Negotiators settled how to share access but still differed over ownership. An editor wants to use 'agreement' for both the settled arrangement and the missing consensus. Which sentence does that?
 
-1. The first names a negotiated arrangement; the second names the state of being in accord **[Correct]**
-2. The first is legally binding; the second is legally unenforceable
-3. The first concerns several participants; the second concerns only two
-4. The first concerns a final decision; the second concerns a written draft
+1. They reached an agreement on access, but agreement on ownership remained elusive. **[Correct]**
+2. They reached agreement on access, but an agreement on ownership remained unsigned.
+3. They reached the agreement on access, but the agreement on ownership remained unsigned.
+4. They reached agreements on access, but agreement on ownership remained provisional.
 
-**Explanation:** "An agreement" is a countable arrangement reached about access. Article-free "agreement" refers to consensus about ownership. The articles do not establish legal force, group size, or whether a document exists.
+**Explanation:** 'An agreement' packages the access settlement as an arrangement. Bare 'agreement' names consensus, and 'remained elusive' says that consensus had not been reached. This preserves both the noun-sense distinction and the state of the negotiations.
 
 **Choice feedback:**
 
-- **The first names a negotiated arrangement; the second names the state of being in accord:** This captures the countable outcome versus uncountable consensus distinction.
-- **The first is legally binding; the second is legally unenforceable:** Neither legal status follows from the article. An agreement may or may not be binding.
-- **The first concerns several participants; the second concerns only two:** Article choice does not specify the number of parties.
-- **The first concerns a final decision; the second concerns a written draft:** The second phrase names unavailable consensus, not a draft document.
+- **They reached an agreement on access, but agreement on ownership remained elusive.:** The countable arrangement is settled; the uncountable consensus is still missing.
+- **They reached agreement on access, but an agreement on ownership remained unsigned.:** This reverses the requested noun senses and substitutes an unsigned arrangement for the absence of consensus. Lack of a signature does not establish continued disagreement.
+- **They reached the agreement on access, but the agreement on ownership remained unsigned.:** The second definite phrase treats an ownership arrangement as identifiable and awaiting signature, rather than saying consensus is still missing.
+- **They reached agreements on access, but agreement on ownership remained provisional.:** The plural introduces multiple access arrangements, and provisional consensus is tentative consensus, not consensus that remains unreached.
 
 **Decision:** replaced.
 
 **Original findings:** Original grants authority also admitted grants the authority.
 
-**Learning value:** Separates what article choice encodes from legal or procedural assumptions it does not encode.
+**Learning value:** Coordinates article choice with the distinction between agreement, a document, and a signature.
 
-**Level rationale:** Requires precise interpretation of nominal meanings without overreading professional context.
+**Level rationale:** Requires choosing among grammatical revisions whose article use and predicates subtly change what has been achieved.
 
-**Similarity review:** Negotiation outcome/state distinction has no equivalent elsewhere in this set.
+**Similarity review:** A constrained editing task about two negotiation outcomes, not another article-definition question.
 
 ### 7. Contrastive the versus a for pre-eminent status and category membership
 
@@ -3426,19 +3426,19 @@ Choose the paraphrase that preserves the writer's meaning.
 
 "He is not the expert on medieval glass, but he is an expert." What distinction is the writer making?
 
-1. He has practical knowledge but lacks professional qualifications
-2. He is a qualified specialist, though not the uniquely outstanding or recognised authority **[Correct]**
-3. He used to be the leading specialist but is no longer active
-4. He studies several subjects and therefore has no specialised knowledge
+1. His expertise is acknowledged by the writer but denied by other specialists in the field
+2. He has specialist knowledge without being presented as the field's uniquely recognised authority **[Correct]**
+3. He is the relevant specialist here, although the writer is unsure about his competence
+4. His expertise is broader than medieval glass, which is why the definite description is rejected
 
 **Explanation:** In this contrast, stressed "the expert" means the person treated as the authority. "An expert" classifies him as a specialist without giving him that uniquely pre-eminent status.
 
 **Choice feedback:**
 
-- **He has practical knowledge but lacks professional qualifications:** The article contrast does not distinguish practical experience from credentials.
-- **He is a qualified specialist, though not the uniquely outstanding or recognised authority:** This preserves the difference between membership of the expert category and uniquely recognised authority.
-- **He used to be the leading specialist but is no longer active:** Both clauses are in the present; neither asserts a change over time.
-- **He studies several subjects and therefore has no specialised knowledge:** The second clause explicitly grants expertise, so this paraphrase contradicts it.
+- **His expertise is acknowledged by the writer but denied by other specialists in the field:** The contrast concerns category membership and pre-eminence. It does not report a dispute between the writer and other specialists.
+- **He has specialist knowledge without being presented as the field's uniquely recognised authority:** The indefinite article grants expertise; the contrastive definite phrase withholds uniquely authoritative status.
+- **He is the relevant specialist here, although the writer is unsure about his competence:** The writer positively calls him an expert. The reservation concerns being the outstanding authority, not uncertainty about whether he is competent.
+- **His expertise is broader than medieval glass, which is why the definite description is rejected:** Neither article specifies the breadth of his other knowledge. The contrast does not explain his status by giving him a wider field.
 
 **Decision:** replaced.
 
@@ -3522,19 +3522,19 @@ Choose the account of the speaker's change of wording.
 
 "I expected resistance. What I encountered was a resistance born of years of broken promises." Why is "a resistance" possible?
 
-1. The second sentence counts the people resisting
-2. The article identifies the resistance as previously agreed by both speakers
+1. The indefinite article introduces a second episode of resistance, separate from the one expected
+2. The article identifies resistance as shared information because its cause is fully described
 3. The resistance is presented as a particular manifestation characterised by its origin **[Correct]**
-4. The article changes resistance from opposition to electrical impedance
+4. The article turns the cause into a defining feature that all resistance necessarily possesses
 
 **Explanation:** An abstract noun can be presented as a particular kind or manifestation when elaborated: "a resistance born of years of broken promises". The noun still denotes opposition, but the phrase characterises the form it took.
 
 **Choice feedback:**
 
-- **The second sentence counts the people resisting:** The phrase characterises opposition itself; it supplies no count of participants.
-- **The article identifies the resistance as previously agreed by both speakers:** That would confuse indefiniteness with shared definite reference. "A" introduces a characterised manifestation.
-- **The resistance is presented as a particular manifestation characterised by its origin:** The modifier supplies the defining character of this instance of resistance.
-- **The article changes resistance from opposition to electrical impedance:** The social context and broken promises retain the opposition sense.
+- **The indefinite article introduces a second episode of resistance, separate from the one expected:** An expected phenomenon is being characterised more precisely after the encounter. The article does not itself establish two separate episodes.
+- **The article identifies resistance as shared information because its cause is fully described:** A detailed description need not create definite shared reference. Here a presents the kind or manifestation encountered.
+- **The resistance is presented as a particular manifestation characterised by its origin:** The modifier specifies what this opposition was like and where it came from, licensing a characterised indefinite use.
+- **The article turns the cause into a defining feature that all resistance necessarily possesses:** The phrase characterises this manifestation, not resistance in general. Other resistance need not arise from broken promises.
 
 **Decision:** replaced.
 
@@ -3546,37 +3546,37 @@ Choose the account of the speaker's change of wording.
 
 **Similarity review:** Characterised social opposition differs from an individual reservation or negotiated arrangement.
 
-### 11. Definite scene reference versus a countable rhetorical act
+### 11. Definite description inside an attributed but mistaken interpretation
 
 ID: `coverage-articles-c2-471`
 
-Choose the interpretation supported by both clauses.
+Choose the explanation that accounts for the narrator's correction.
 
-"The witness broke the silence with a silence of her own: she refused to answer the question." What contrast do the articles help create?
+'The chair took a silence for the silence of agreement; in fact, nobody had understood the proposal.' Why can the writer use 'the silence of agreement' without saying that the group agreed?
 
-1. One previously established quiet situation versus a particular act of withholding speech **[Correct]**
-2. A short pause versus a pause whose duration is specified
-3. The witness's involuntary inability to speak versus another person's deliberate refusal
-4. Silence shared by every witness versus silence required by a formal rule
+1. The definite phrase names the interpretation the chair imposed, rather than one the narrator endorses **[Correct]**
+2. The definite phrase establishes agreement as a fact, while the ending questions only its wisdom
+3. The definite phrase identifies an earlier agreement, so the ending refers to a different proposal
+4. The definite phrase specifies a duration of silence, leaving the group's attitude outside its meaning
 
-**Explanation:** "The silence" refers to the quiet already framing the scene. "A silence of her own" presents the witness's refusal as a distinct act. The final clause guides this deliberate rhetorical contrast.
+**Explanation:** 'Took X for Y' can report a mistaken interpretation. A silence introduces the pause; the silence of agreement describes what the chair wrongly thought it represented. The definite phrase belongs inside that attributed interpretation, which the narrator then corrects.
 
 **Choice feedback:**
 
-- **One previously established quiet situation versus a particular act of withholding speech:** The definite phrase supplies the scene; the indefinite phrase individuates the witness's response.
-- **A short pause versus a pause whose duration is specified:** Neither article tells us a duration, and the sentence gives none.
-- **The witness's involuntary inability to speak versus another person's deliberate refusal:** The final clause explicitly concerns the witness's own refusal, and the earlier silence is not attributed to inability.
-- **Silence shared by every witness versus silence required by a formal rule:** The wording establishes neither a group of witnesses nor a rule requiring silence.
+- **The definite phrase names the interpretation the chair imposed, rather than one the narrator endorses:** The article identifies a kind of meaningful silence within the chair's mistaken reading of events.
+- **The definite phrase establishes agreement as a fact, while the ending questions only its wisdom:** The phrase is within 'took ... for', not an independent assertion of agreement. The ending explains why the chair's interpretation was mistaken.
+- **The definite phrase identifies an earlier agreement, so the ending refers to a different proposal:** No earlier agreement or second proposal is introduced. The contrast concerns two interpretations of the same pause.
+- **The definite phrase specifies a duration of silence, leaving the group's attitude outside its meaning:** 'Of agreement' attributes communicative significance to the silence; it does not measure how long the pause lasted.
 
 **Decision:** replaced.
 
 **Original findings:** Original treats silence as evidence allowed a particular-silence reading and generic feedback.
 
-**Learning value:** Shows how articles help a writer reinterpret the same abstract noun within a sentence.
+**Learning value:** Shows that an identifiable description within a reported viewpoint is not automatically the narrator's factual commitment.
 
-**Level rationale:** Requires resolving a deliberate apparent paradox through article use and an explanatory continuation.
+**Level rationale:** Requires tracking article reference through an attribution of belief and a subsequent correction.
 
-**Similarity review:** A rhetorical contrast between two uses of silence, not a straightforward abstract-noun cloze.
+**Similarity review:** A mistaken viewpoint, distinct from conditional reference and countable emotional qualities.
 
 ### 12. Representative generic indefinite with a postmodified singular noun
 
@@ -3746,19 +3746,19 @@ Choose the interpretation of the article phrase.
 
 "For all his objections, he remained a believer in the project, if not the believer his colleagues had hoped for." What does the final phrase imply?
 
-1. His colleagues expected a particular degree or kind of commitment that he did not fully display **[Correct]**
-2. His colleagues had expected someone else, with the same surname, to support the project
-3. He no longer supported the project but was pretending to do so
-4. He was the sole supporter whose objections the group had formally recorded
+1. His colleagues had envisaged a kind of supporter whose commitment he did not fully display **[Correct]**
+2. His colleagues wanted another supporter to replace him because they considered him an opponent
+3. His colleagues recognised him as their leading supporter but had not expected his objections
+4. His colleagues doubted his private support because his public commitment exceeded their expectations
 
 **Explanation:** "A believer" grants membership in the category of supporters. "The believer his colleagues had hoped for" refers to their envisaged kind of committed supporter. The contrast qualifies his support without cancelling it.
 
 **Choice feedback:**
 
-- **His colleagues expected a particular degree or kind of commitment that he did not fully display:** This preserves the concession that he supports the project while interpreting the definite phrase as an expected standard.
-- **His colleagues had expected someone else, with the same surname, to support the project:** No name or alternative person is introduced; the contrast concerns the support he embodies.
-- **He no longer supported the project but was pretending to do so:** "He remained a believer" explicitly affirms continued support.
-- **He was the sole supporter whose objections the group had formally recorded:** The article does not establish sole support or a record of objections.
+- **His colleagues had envisaged a kind of supporter whose commitment he did not fully display:** The indefinite phrase grants that he supports the project; the definite description measures him against their unrealised expectation.
+- **His colleagues wanted another supporter to replace him because they considered him an opponent:** 'He remained a believer' affirms support. The contrast concerns the kind of supporter he was, not a stated plan to replace an opponent.
+- **His colleagues recognised him as their leading supporter but had not expected his objections:** The relative clause identifies an envisaged supporter, not an established leading figure. 'If not' withholds the hoped-for characterisation.
+- **His colleagues doubted his private support because his public commitment exceeded their expectations:** The sentence neither divides public from private belief nor says he exceeded their expectations; he falls short of the hoped-for characterisation.
 
 **Decision:** replaced.
 
@@ -3810,19 +3810,19 @@ Choose the explanation of the changed noun phrase.
 
 A reviewer writes "The chapter offers history, not nostalgia". Another writes "The chapter offers a history, not a memoir". What change accompanies the added articles?
 
-1. The second reviewer necessarily endorses the chapter's historical accuracy
-2. The comparison shifts from qualities or modes of treatment to types of complete account **[Correct]**
-3. The second reviewer dates the chapter to an earlier historical period
-4. History changes into fiction and memoir changes into nonfiction
+1. Both reviewers describe a single historical account; only the second says whether it is personal
+2. The first contrasts approaches to the past; the second classifies an account by genre **[Correct]**
+3. The first judges the account's accuracy; the second establishes that the chapter is a complete book
+4. Both contrast genres; the added articles identify particular accounts already familiar to the reader
 
 **Explanation:** Article-free "history" and "nostalgia" contrast ways of treating the past. "A history" and "a memoir" count kinds of account. Neither article choice establishes accuracy or whether the account is fictional.
 
 **Choice feedback:**
 
-- **The second reviewer necessarily endorses the chapter's historical accuracy:** Calling an account "a history" classifies it; the classification alone does not endorse its accuracy.
-- **The comparison shifts from qualities or modes of treatment to types of complete account:** The indefinite articles package the nouns as individual accounts that can be assigned to genres.
-- **The second reviewer dates the chapter to an earlier historical period:** The articles concern nominal interpretation, not the age of the chapter or its subject.
-- **History changes into fiction and memoir changes into nonfiction:** The countable use does not assign that fiction/nonfiction contrast.
+- **Both reviewers describe a single historical account; only the second says whether it is personal:** The first bare-noun contrast need not count a single account: a chapter can offer historical treatment rather than nostalgic treatment without constituting an individual history.
+- **The first contrasts approaches to the past; the second classifies an account by genre:** Bare nouns describe modes of treatment; a history and a memoir package accounts as countable genre instances.
+- **The first judges the account's accuracy; the second establishes that the chapter is a complete book:** The first may praise its approach without guaranteeing accuracy. A chapter can offer a history without being a complete book.
+- **Both contrast genres; the added articles identify particular accounts already familiar to the reader:** The indefinite articles classify accounts without presenting them as already familiar. The first contrast is between historical and nostalgic treatment.
 
 **Decision:** replaced.
 

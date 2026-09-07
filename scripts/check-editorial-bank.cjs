@@ -32,6 +32,7 @@ c.window.createEnglishRoadCoverageBlueprints = helpers => original(helpers).map(
   }
 }));
 const preview = c.window.EnglishRoadQuestions.createQuestionBank();
+const engine = c.window.EnglishRoadQuestions;
 assert.equal(preview.length, 4200);
 assert.deepEqual(preview.map(q => q.id), baseline.map(q => q.id));
 for (const q of preview) {
@@ -40,6 +41,51 @@ for (const q of preview) {
   for (const field of ['taskText', 'setupText', 'answer', 'explanation']) assert.equal(q[field], record[field], `${q.id}: ${field} changed in the engine`);
   assert.equal(JSON.stringify(q.options), JSON.stringify(record.options), `${q.id}: options changed`);
   assert.equal(JSON.stringify(q.rationales), JSON.stringify(record.rationales), `${q.id}: feedback changed`);
+  assert.equal(c.window.EnglishRoadLearning.levelForDifficulty(q.difficulty), record.level, `${q.id}: level changed`);
+}
+const revision = engine.bankRevision(preview);
+for (const field of ['setupText', 'taskText', 'answer', 'explanation']) {
+  const changed = preview.map((q, index) => index ? q : { ...q, [field]: `${q[field]} Changed` });
+  assert.notEqual(engine.bankRevision(changed), revision, `Changing ${field} must invalidate a saved attempt`);
+}
+const feedbackChange = preview.map((q, index) => index ? q : { ...q, rationales: { ...q.rationales, [q.options[0]]: 'Updated diagnostic feedback.' } });
+assert.notEqual(engine.bankRevision(feedbackChange), revision, 'Feedback changes must invalidate a saved attempt');
+const reorderedFeedback = preview.map(q => ({ ...q, rationales: Object.fromEntries(Object.entries(q.rationales).reverse()) }));
+assert.equal(engine.bankRevision(reorderedFeedback), revision, 'Object-key order alone must not invalidate an attempt');
+
+// Regression fixtures distinguish an editorial warning from corrupt question data.
+const article = { ...preview[0], taskText: 'I have just joined ___ university. You have not heard of it.',
+  sentence: 'I have just joined ___ university. You have not heard of it.', setupText: 'Choose the article that introduces the university as new information.',
+  options: ['a', 'an', 'the', '(nothing)'], answer: 'a', rationales: { a: 'A new singular referent with a consonant sound.', an: 'University starts with the consonant sound /j/.', the: 'This task asks for a new, unidentified referent.', '(nothing)': 'A singular count noun needs a determiner here.' } };
+assert(engine.editorialWarnings(article).some(warning => warning.includes('article reference')));
+assert.doesNotThrow(() => engine.validateBank([article, ...preview.slice(1)]), 'A context-dependent article warning must not disable the bank');
+for (const broken of [
+  { ...article, answer: 'some' },
+  { ...article, options: ['a', 'a', 'the', '(nothing)'] },
+  { ...article, rationales: { ...article.rationales, extra: 'Stale feedback.' } },
+  { ...article, rationales: { ...article.rationales, the: '' } },
+  { ...article, qaStatus: 'reviewed', reviewer: '' }
+]) assert.throws(() => engine.validateBank([broken, ...preview.slice(1)]), /Question bank failed QA/);
+const explicit = { text: 'I bought a new car. ___ car is red.', setup: 'Choose the article that keeps the same reference.',
+  options: article.options, answer: 'the', explanation: 'An individually authored explanation must survive the legacy correction table.',
+  rationales: article.rationales, qaStatus: 'reviewed', reviewer: 'Regression fixture', reviewDate: '2026-09-07' };
+const built = engine.buildQuestion({ code: 'fixture', category: 'Grammar', subcategory: 'Articles', make: () => explicit }, 0, 0, 1.25);
+assert.equal(built.explanation, explicit.explanation);
+const zeroArticle = engine.explainAnswer({ subcategory: 'Prepositions', taskText: 'We travel ___ home.', answer: '(nothing)' });
+assert(zeroArticle.includes('The completed sentence is: We travel home.'), 'The zero-article label must not appear inside a completed sentence');
+
+for (const group of fs.readdirSync(directory).filter(f => f.endsWith('.json'))) {
+  const records = JSON.parse(fs.readFileSync(path.join(directory, group))).items;
+  for (const level of ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']) {
+    const counts = [0, 0, 0, 0];
+    for (const q of records.filter(q => q.level === level)) {
+      const ordered = engine.orderOptionsWithBalancedAnswerPosition(q.options, q.answer, counts);
+      assert.equal(new Set(ordered).size, 4);
+      engine.recordAnswerPosition(ordered, q.answer, counts);
+      assert(Math.max(...counts) - Math.min(...counts) <= 1, `${group}/${level}: unbalanced displayed answer positions`);
+    }
+    assert.deepEqual(counts, [5, 5, 5, 5], `${group}/${level}: a full quiz must balance all four displayed positions`);
+  }
 }
 if (reviewed.size < 4200) {
   const filename = path.join(root, 'coverage-bank-data.js');

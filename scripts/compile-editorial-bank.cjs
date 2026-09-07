@@ -29,6 +29,12 @@ for (const group of groups) {
     const cell = group.items.filter(q => q.level === level);
     assert.equal(cell.length, 20, `${group.topic}/${level}: expected 20 items`);
     cell.sort((a, b) => Number(a.id.match(/\d+$/)[0]) - Number(b.id.match(/\d+$/)[0]));
+    const firstId = Number(cell[0].id.match(/\d+$/)[0]);
+    const code = cell[0].id.replace(/-\d+$/, '');
+    for (const [index, q] of cell.entries()) {
+      assert.equal(q.id, `${code}-${firstId + index}`, `${group.topic}/${level}: IDs must stay contiguous and in their original cell`);
+      assert(code.endsWith(`-${level.toLowerCase()}`), `${q.id}: ID and level differ`);
+    }
     for (const q of cell) {
       const label = `${group.topic}/${level}/${q.id}`;
       assert(['pending', 'reviewed'].includes(q.audit?.status), `${label}: invalid review status`);
@@ -46,6 +52,7 @@ for (const group of groups) {
       assert.equal(new Set(wrongFeedback).size, 3, `${label}: identical incorrect-answer feedback`);
       assert(['retained', 'revised', 'replaced'].includes(q.audit.decision), `${label}: missing editorial decision`);
       assert(Array.isArray(q.audit.findings), `${label}: missing original findings`);
+      if (q.audit.decision !== 'retained') assert(q.audit.findings.some(finding => typeof finding === 'string' && finding.trim()), `${label}: changed item needs an original finding`);
       for (const field of ['microSkill', 'pedagogicalValue', 'levelReason', 'similarityNote']) {
         assert(q.audit[field]?.trim().length >= 12, `${label}: missing ${field}`);
       }

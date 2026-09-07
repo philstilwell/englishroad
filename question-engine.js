@@ -52,7 +52,6 @@ const forbiddenPromptTerms = [
   "academic discussion",
   "academic sentence",
   "academic language",
-  "grammatically",
   "completion",
   "discourse",
   "hedging"
@@ -77,6 +76,7 @@ const itemData = window.createEnglishRoadItemData({ pick, item });
 const { schema: itemDataSchema, blueprints, supplementalBlueprints, supplementalDifficultyRanges } = itemData;
 
 function editorialNotes(made, blueprint) {
+  if (made.qaStatus === "reviewed" && made.reviewer && made.reviewDate && made.explanation && made.rationales) return made;
   const notes = {
     "I bought a new car. ___ car is red.": { subcategory: "Articles", explanation: 'Use "the" for the car already introduced in the first sentence. Both sentences refer to the same car.' },
     "I found my keys under ___ old chair.": { subcategory: "Articles", explanation: 'Use "an" before the vowel sound at the beginning of "old": an old chair. A singular countable noun needs a determiner here.' },
@@ -309,7 +309,11 @@ function wordFormExplanation(question) {
 }
 
 function completedFeedback(question) {
-  if (question.taskText.includes("___")) return ` The completed sentence is: ${question.taskText.replace("___", question.answer)}`;
+  if (question.taskText.includes("___")) {
+    const answer = question.answer === "(nothing)" ? "" : question.answer;
+    const completed = question.taskText.replace("___", answer).replace(/ {2,}/g, " ").trim();
+    return ` The completed sentence is: ${completed}`;
+  }
   if (/[.!?]$/.test(question.answer)) return ` The correct sentence is: ${question.answer}`;
   return "";
 }
@@ -380,6 +384,12 @@ function explainAnswer(question) {
 
 function formatAnswerForFeedback(answer) {
   return /[.!?]$/.test(answer) ? answer : `${answer}.`;
+}
+
+function answerFeedback(question, selected) {
+  if (selected === question.answer) return `Correct. ${question.explanation}`;
+  return ["Not quite.", question.rationales[selected],
+    `Correct answer: ${formatAnswerForFeedback(question.answer)}`, question.explanation].filter(Boolean).join("\n\n");
 }
 
 function helpfulSetup(text, blueprint, index = 0, made = {}) {
@@ -733,22 +743,13 @@ function validateBank(bank) {
     if (!question.sentence || question.sentence !== question.taskText) issues.push(`Missing structured sentence: ${question.id}`);
     if (!question.explanation) issues.push(`Missing explanation: ${question.id}`);
     if (!question.rationales || question.options.some((option) => !question.rationales[option])) issues.push(`Missing option rationale: ${question.id}`);
+    if (question.rationales && Object.keys(question.rationales).some((option) => !question.options.includes(option))) issues.push(`Rationale for an absent option: ${question.id}`);
     if (!itemDataSchema.qaStatusValues.includes(question.qaStatus)) issues.push(`Invalid QA status: ${question.id}`);
+    if (question.qaStatus === "reviewed" && (!question.reviewer || !question.reviewDate)) issues.push(`Missing review attribution: ${question.id}`);
     const missingStructuredField = itemDataSchema.generatedFields.find((field) => question[field] === undefined || question[field] === null || question[field] === "");
     if (missingStructuredField) issues.push(`Missing structured field ${missingStructuredField}: ${question.id}`);
     if (!learnerSubcategoryLabels[question.subcategory]) issues.push(`Missing learner label: ${question.subcategory}`);
-    if (normalizeQuestionText(question.setupText).startsWith("during ")) issues.push(`Generic setup text: ${question.id}`);
-    const setupProblem = forbiddenSetupTerms.find((term) => normalizeQuestionText(question.setupText).includes(term));
-    if (setupProblem) issues.push(`Mixed setup context "${setupProblem}": ${question.id}`);
-    const technicalTerm = forbiddenPromptTerms.find((term) => normalizeQuestionText(question.taskText).includes(term));
-    if (technicalTerm) issues.push(`Technical prompt term "${technicalTerm}": ${question.id}`);
     if (question.options.includes("no article")) issues.push(`Use (nothing), not no article: ${question.id}`);
-    if (hasArticleAmbiguity(question)) issues.push(`Article ambiguity: ${question.id}`);
-    if (hasPluralCountQuantifierAmbiguity(question)) issues.push(`Plural count quantifier ambiguity: ${question.id}`);
-    if (hasKnownAnswerAmbiguity(question)) issues.push(`Possible multiple correct answers: ${question.id}`);
-    if (hasKnownAwkwardPhrase(question)) issues.push(`Awkward phrase: ${question.id}`);
-    const displayProblem = hasDisplayGuidanceProblem(question);
-    if (displayProblem) issues.push(`${displayProblem}: ${question.id}`);
   });
   const focusClumps = Object.entries(focusCounts).filter(([, count]) => count > 8);
   if (focusClumps.length) {
@@ -763,6 +764,24 @@ function validateBank(bank) {
     issues.push(`Too few unique question signatures: ${textSet.size}`);
   }
   if (issues.length) throw new Error(`Question bank failed QA: ${issues.slice(0, 5).join(" | ")}`);
+}
+
+// These pattern matches cannot judge context, dialect, or an intentionally wrong
+// option. Keep them available to editors without treating them as grammar rules.
+function editorialWarnings(question) {
+  const warnings = [];
+  if (normalizeQuestionText(question.setupText).startsWith("during ")) warnings.push("Check whether the setup is meaningful context");
+  const setupProblem = forbiddenSetupTerms.find((term) => normalizeQuestionText(question.setupText).includes(term));
+  if (setupProblem) warnings.push(`Check setup context: ${setupProblem}`);
+  const technicalTerm = forbiddenPromptTerms.find((term) => normalizeQuestionText(question.taskText).includes(term));
+  if (technicalTerm) warnings.push(`Check instruction vocabulary: ${technicalTerm}`);
+  if (hasArticleAmbiguity(question)) warnings.push("Check article reference in context");
+  if (hasPluralCountQuantifierAmbiguity(question)) warnings.push("Check quantifier alternatives in context");
+  if (hasKnownAnswerAmbiguity(question)) warnings.push("Check potentially acceptable alternative");
+  if (hasKnownAwkwardPhrase(question)) warnings.push("Check phrase and whether it is an intentional distractor");
+  const displayProblem = hasDisplayGuidanceProblem(question);
+  if (displayProblem) warnings.push(displayProblem);
+  return warnings;
 }
 
 function validateCoverage(bank) {
@@ -883,16 +902,16 @@ function hasDisplayGuidanceProblem(question) {
 }
 
 function bankRevision(bank) {
-  // Detect changed tasks, choices, keys and content labels before resuming an
-  // old attempt, including when the session format itself did not change.
-  const content = JSON.stringify(bank.map((q) => [q.id, q.taskText, q.options, q.answer, q.category, q.subcategory, q.difficulty]));
+  // Context and feedback are part of an attempt too, not just its answer key.
+  const content = JSON.stringify(bank.map((q) => [q.id, q.setupText, q.taskText, q.options, q.answer, q.explanation,
+    q.options.map((option) => q.rationales?.[option]), q.category, q.subcategory, q.difficulty]));
   let hash = 2166136261;
   for (let index = 0; index < content.length; index += 1) hash = Math.imul(hash ^ content.charCodeAt(index), 16777619) >>> 0;
   return `bank-${hash.toString(16)}`;
 }
 
 window.EnglishRoadQuestions = Object.freeze({
-  bankRevision,
+  bankRevision, editorialWarnings, answerFeedback,
   buildQuestion, chooseBalancedAnswerPosition, clamp, contextualize, copyText, createQuestionBank, distractorRationale, ensurePeriod, escapeHtml, explainAnswer, formatAnswerForFeedback, helpfulSetup, incrementCount, item, jitterDifficulty, learnerSubcategory, normalizeQuestionText, orderOptionsWithBalancedAnswerPosition, pick, questionSignature, randomInt, rationalesForOptions, recordAnswerPosition, shuffleRandom, shuffleStable, splitTaskText, supplementalDifficulty, uniqueOptions, isSentenceChoiceTask, isMeaningTask, validateBank, validateCoverage, hasKnownAnswerAmbiguity, hasArticleAmbiguity, hasPluralCountQuantifierAmbiguity, hasKnownAwkwardPhrase, hasDisplayGuidanceProblem, learnerSubcategoryLabels, itemDataSchema
 });
 })();

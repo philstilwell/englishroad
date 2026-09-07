@@ -6,7 +6,25 @@ An item is not considered reviewed because its wording is unique or because a sc
 
 Run `node scripts/compile-editorial-bank.cjs --progress` for the actual count. The compiler refuses to replace the active bank until all 4,200 records have complete editorial decisions. Pending records are not approved for quality by this audit. `--validate-reviewed` checks the completed records without publishing an incomplete bank.
 
-The first topic pass covers all 120 Articles items, including sentence, alternatives, key, feedback, learning purpose, level rationale, and similarity notes. Twelve records received a further revision after checking ambiguity, distractor relevance, and level demand. The other 4,080 records remain pending individual review. These article revisions are in the editorial source only; they have not replaced the active site bank.
+All 120 Articles items have an initial individual review. A further pass has tightened advanced distractors, replaced a potentially marginal word-order contrast, and added context where an alternative reading remained possible. Six parallel reviewers are now working through the remaining 34 topics, one complete topic at a time. Progress is recorded in the item files, not inferred from agent activity. The revisions remain in the editorial source until the full-bank completion guard passes.
+
+## Parallel assignments
+
+- Verb tense; Passive voice; Reported speech; Subjunctive and unreal forms; Question forms; Advanced sentence structure.
+- Conditionals; Clauses and connectors; Relative clauses; Reduced clauses; Sentence boundaries; Parallel structure.
+- Modals; Gerunds and infinitives; Inversion and emphasis; Adjective and adverb forms; Comparatives; Subject-verb agreement.
+- Determiners and quantifiers; Count and noncount nouns; Pronouns and reference; Prepositions; Word forms; Phrasal verbs.
+- Register; Everyday vocabulary; Workplace vocabulary; Collocations; Academic vocabulary.
+- Hedging and precision; Discourse function; Meaning in context; Nuance; Transitions.
+
+Each reviewer owns separate topic files. The coordinating pass handles shared-bank integration and checks for overlap between topics. No reviewer is permitted to approve an unread record or generate student-facing prose by substitution.
+
+## Verification
+
+- `node scripts/check-editorial-bank.cjs` overlays completed records on the real quiz engine, checks exact preservation of all display fields, and tests the incomplete-publication guard. It also checks that a 20-item quiz distributes correct answers equally across the four displayed positions.
+- `node scripts/screen-reviewed-items.cjs` produces an advisory report for near-duplicate wording, repeated explanations, generic feedback, repeated stated learning points, and possible longest-answer cues. These are review leads, not automated certification.
+- `node scripts/check.cjs` exercises coverage, shared content, quiz selection, saved-attempt compatibility, and scoring behaviour. It does not substitute for a semantic review.
+- The engine distinguishes structural failures from linguistic pattern warnings. For example, an indefinite article alongside `the` requires contextual review; it is not automatically an ambiguous item. Deliberately incorrect choices are not treated as accidental errors in the keyed sentence.
 
 `initial-screening.json` records an automated screening result for every original active item. It found 4,080 items whose wrong-answer messages share a structure after quoted option/term strings are removed, 1,419 with a detected nonspecific correct-answer explanation, 29 that insert `(nothing)` into explanatory text, and 120 with grammar-only instructions on register or cautious-claim questions. Counts overlap. These are targeted screening categories, not a comprehensive count of linguistic defects.
 
