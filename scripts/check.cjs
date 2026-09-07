@@ -49,6 +49,41 @@ function antiTemplateSurface(question) {
   if (question.taskText.includes('___') || /^(What|Read)\b/.test(question.taskText) || /^[A-Z][^,]+, read\b/.test(question.taskText)) return question.taskText;
   return question.answer;
 }
+function innerItemSurface(question) {
+  let text = antiTemplateSurface(question);
+  const meaningTask = text.match(/^What does "([^"]+)" (?:mean|do) in this sentence\?\s*(.+)$/i);
+  if (meaningTask) {
+    text = `${meaningTask[1]} :: ${meaningTask[2]}`;
+  } else {
+    const quoted = [...text.matchAll(/"([^"]+)"/g)].map(match => match[1]);
+    if (quoted.length) text = quoted[quoted.length - 1];
+  }
+  return text
+    .replace(/^within (?:the|a) [^,]+,\s*/i, '')
+    .replace(/^the [a-z ]+ note says,\s*/i, '')
+    .replace(/^[A-Z][a-z]+(?:'s)? (?:worksheet says|reminder reads|copied this sentence):\s*/i, '')
+    .replace(/^for the [a-z ]+ staff,\s*/i, '')
+    .replace(/^a practice card for the [a-z ]+ says,\s*/i, '')
+    .replace(/^in a message to [a-z ]+,\s*/i, '')
+    .replace(/^the first line of the [a-z ]+ says,\s*/i, '')
+    .replace(/^on the [a-z ]+ board,\s*/i, '')
+    .replace(/^during a short review,\s*/i, '')
+    .replace(/^the example in the [a-z ]+ is:\s*/i, '')
+    .replace(/^for tomorrow's lesson,\s*/i, '')
+    .replace(/^a note beside the [a-z ]+ says,\s*/i, '')
+    .replace(/^in the practice text,\s*/i, '')
+    .replace(/^the instruction on the [a-z ]+ reads,\s*/i, '')
+    .replace(/^for the final question,\s*/i, '')
+    .replace(/^a message from [A-Z][a-z]+ says,\s*/i, '')
+    .replace(/^the classroom example is:\s*/i, '')
+    .replace(/^on the review screen,\s*/i, '')
+    .replace(/^(?:for|during|before|after|in|on|near|at|beside|by) [^,]{2,80},\s*/i, '')
+    .replace(/^what does "[^"]+" (?:mean|do) in this sentence\?\s*/i, '')
+    .replace(/^read this (?:note|sentence|claim|comment):\s*/i, '')
+    .toLowerCase()
+    .replace(/\s+/g, ' ')
+    .trim();
+}
 const levelCheckHtml = fs.readFileSync('level-check.html', 'utf8');
 const practiceHtml = fs.readFileSync('practice.html', 'utf8');
 const familyCss = fs.readFileSync('family.css', 'utf8');
@@ -96,10 +131,13 @@ assert(!accidentalCollocation, `Plausible collocation used as a distractor: ${ac
 const namePronounMismatchPattern = /\b(Carlos|Omar|Daniel|Mateo|Jonas|Kenji|Luis|Noah|Theo)\b[^.?!]*\bshe\b|\bshe\b[^.?!]*\b(Carlos|Omar|Daniel|Mateo|Jonas|Kenji|Luis|Noah|Theo)\b/i;
 const namePronounMismatch = bank.find(q => namePronounMismatchPattern.test([q.taskText, ...q.options].join(' ')));
 assert(!namePronounMismatch, `Possible name/pronoun mismatch: ${namePronounMismatch?.id}`);
+const secondPersonMismatchPattern = /\b(Mina|Carlos|Aiko|Nadia|Omar|Lena|Sofia|Daniel|Rina|Mateo|Hana|Jonas|Priya|Kenji|Sara|Luis|Emma|Noah|Yara|Theo)\b[^.?!]*\b(your|yourself)\b/i;
+const secondPersonMismatch = bank.find(q => secondPersonMismatchPattern.test([q.taskText, ...q.options].join(' ')));
+assert(!secondPersonMismatch, `Possible named-person/second-person mismatch: ${secondPersonMismatch?.id}`);
 const lowercaseNamePattern = /\b(mina|carlos|aiko|nadia|omar|lena|sofia|daniel|rina|mateo|hana|jonas|priya|kenji|sara|luis|emma|noah|yara|theo|maya|ben|nora|kai|tom|aya|sam)\b/;
 const lowercaseName = bank.find(q => lowercaseNamePattern.test([q.taskText, q.explanation, ...q.options, ...Object.values(q.rationales || {})].join(' ')));
 assert(!lowercaseName, `Generated lowercase proper name: ${lowercaseName?.id}`);
-const boilerplateSurfacePattern = /\bduring the [a-z ]+ activity\b|a practice card says,|choose the clearest short/i;
+const boilerplateSurfacePattern = /\bwithin (?:the|a)\b|\bthe [a-z ]+ note says,|\bworksheet says,|\breminder reads,|\bcopied this sentence:|\bfor the [a-z ]+ staff,|\ba practice card for the [a-z ]+ says,|\bthe first line of the [a-z ]+ says,|\bthe classroom example is:|\bon the review screen,|\bduring the [a-z ]+ activity\b|a practice card says,|choose the clearest short/i;
 const boilerplateSurface = bank.find(q => boilerplateSurfacePattern.test([q.taskText, q.explanation, ...q.options, ...Object.values(q.rationales || {})].join(' ')));
 assert(!boilerplateSurface, `Boilerplate surface text remains: ${boilerplateSurface?.id}`);
 const prefilledChoiceItem = bank.find(q => !q.taskText.includes('___') && !/^(What|Which|Choose|Read)\b/.test(q.taskText) && !/^[A-Z][^,]+, read\b/.test(q.taskText) && !q.options.some(option => /[.!?]$/.test(option)));
@@ -130,6 +168,8 @@ assert(!a1EmphasisItems.some(q => /\bready\b/i.test([q.setupText, q.taskText, q.
 assert(!a1EmphasisItems.some(q => /opening phrase changes the word order|formal sentence/i.test(q.explanation)), 'A1 Emphasis needs targeted feedback, not the old generic explanation');
 const templateClusters = [];
 const answerBalanceProblems = [];
+const repeatedInnerSurfaces = [];
+const repeatedFocusTargets = [];
 for (const topic of topics) {
   for (const level of learning.levels) {
     const cell = bank.filter(q => q.subcategory === topic && learning.levelForDifficulty(q.difficulty) === level);
@@ -146,10 +186,27 @@ for (const topic of topics) {
     if (distinctAnswers < 4 || mostRepeatedCount > 8) {
       answerBalanceProblems.push(`${topic} / ${level}: ${distinctAnswers} answers, ${mostRepeatedCount}x "${mostRepeatedAnswer}"`);
     }
+    const focusCounts = cell
+      .filter(question => question.focusKey)
+      .reduce((map, question) => map.set(question.focusKey, (map.get(question.focusKey) || 0) + 1), new Map());
+    const repeatedFocus = [...focusCounts.entries()].filter(([, focusCount]) => focusCount > 1);
+    if (repeatedFocus.length) {
+      repeatedFocusTargets.push(`${topic} / ${level}: ${repeatedFocus.map(([focus, focusCount]) => `${focusCount}x ${focus}`).slice(0, 3).join(', ')}`);
+    }
+    const innerCounts = cell
+      .filter(question => question.taskText.includes('___') || /^What does|^Read\b|^[A-Z][^,]+, read\b/i.test(question.taskText))
+      .reduce((map, question) => {
+        const inner = innerItemSurface(question);
+        return map.set(inner, (map.get(inner) || 0) + 1);
+      }, new Map());
+    const [inner, innerCount] = [...innerCounts.entries()].sort((a, b) => b[1] - a[1])[0] || ['', 0];
+    if (innerCount > 1) repeatedInnerSurfaces.push(`${topic} / ${level}: ${innerCount}x ${inner}`);
   }
 }
 assert.equal(templateClusters.length, 0, `Topic-level cells still look templated: ${templateClusters.slice(0, 5).join(' | ')}`);
 assert.equal(answerBalanceProblems.length, 0, `Topic-level cells still over-repeat answer keys: ${answerBalanceProblems.slice(0, 5).join(' | ')}`);
+assert.equal(repeatedFocusTargets.length, 0, `Topic-level cells still repeat focus targets: ${repeatedFocusTargets.slice(0, 5).join(' | ')}`);
+assert.equal(repeatedInnerSurfaces.length, 0, `Topic-level cells still repeat inner items: ${repeatedInnerSurfaces.slice(0, 5).join(' | ')}`);
 // Selection cue is monotonic for every response and independent of response order.
 const history = bank.slice(0, 30).map((q, i) => ({ difficulty: q.difficulty, correct: i % 3 !== 0 }));
 const baseline = learning.selectionDifficulty(history);

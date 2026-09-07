@@ -137,6 +137,14 @@ const state = {
   optionPositionCounts: [0, 0, 0, 0]
 };
 
+const signatureCache = new Map();
+
+function cachedQuestionSignature(question) {
+  if (!question.id) return questionSignature(question);
+  if (!signatureCache.has(question.id)) signatureCache.set(question.id, questionSignature(question));
+  return signatureCache.get(question.id);
+}
+
 function createCandidateOrder() {
   return shuffleRandom(state.bank);
 }
@@ -146,6 +154,7 @@ function chooseQuestion() {
   const ceiling = difficultyCeiling();
   const floor = difficultyFloor();
   const balance = responseBalance();
+  const categoryPreference = desiredCategory();
   const recentBlueprints = new Set(state.responses.slice(-10).map((response) => response.blueprint));
   const recentWeaknesses = new Set(state.responses.slice(-5).map((response) => response.subcategory));
   let best = null;
@@ -161,7 +170,7 @@ function chooseQuestion() {
       const distance = Math.abs(question.difficulty - target);
       const blueprintPenalty = recentBlueprints.has(question.blueprint) ? 1.2 : 0;
       const weaknessPenalty = recentWeaknesses.has(question.subcategory) ? 0.55 : 0;
-      const categoryPenalty = desiredCategory() === question.category ? 0 : 0.16;
+      const categoryPenalty = categoryPreference === question.category ? 0 : 0.16;
       const outsidePenalty = outsideRange ? 4 + Math.abs(question.difficulty - clamp(question.difficulty, floor, ceiling)) : 0;
       const balancePenalty = sessionBalancePenalty(question, balance);
       const diversityPenalty = levelCheckDiversityPenalty(question, balance);
@@ -178,12 +187,12 @@ function chooseQuestion() {
 
   if (!best) throw new Error("No unused question is available.");
   state.usedIds.add(best.id);
-  state.usedTexts.add(questionSignature(best));
+  state.usedTexts.add(cachedQuestionSignature(best));
   return prepareQuestionOptions(best);
 }
 
 function canUseLevelCheckCandidate(question, balance, diversityPass, recentBlueprints) {
-  if (state.usedIds.has(question.id) || state.usedTexts.has(questionSignature(question))) return false;
+  if (state.usedIds.has(question.id) || state.usedTexts.has(cachedQuestionSignature(question))) return false;
   const focusKey = questionFocusKey(question);
   if (focusKey && (balance.focusKeys[focusKey] || 0) >= diversityPass.focusLimit) return false;
   if ((balance.categories[question.category] || 0) >= diversityPass.categoryLimit) return false;
