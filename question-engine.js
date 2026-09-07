@@ -223,7 +223,18 @@ function distractorRationale(question, option) {
   if (question.subcategory === "Articles") return `\"${option}\" does not fit the noun phrase here.`;
   if (question.subcategory === "Count and noncount nouns") return `\"${option}\" does not fit this noun.`;
   if (question.subcategory === "Subject-verb agreement") return `\"${option}\" does not match the subject correctly.`;
+  if (question.subcategory === "Modals") return `\"${option}\" does not express the needed modal meaning in this sentence.`;
   if (question.subcategory === "Comparatives") return `\"${option}\" is not the correct comparison form.`;
+  if (question.subcategory === "Clauses and connectors") return `\"${option}\" does not connect the two ideas with the right relationship.`;
+  if (question.subcategory === "Conditionals") return `\"${option}\" does not match the condition pattern in the sentence.`;
+  if (question.subcategory === "Passive voice") return `\"${option}\" does not form the passive verb phrase needed here.`;
+  if (question.subcategory === "Relative clauses") return `\"${option}\" does not correctly link the added information to the noun.`;
+  if (question.subcategory === "Reported speech") {
+    if (question.answer.includes(" would ")) return "This choice does not use \"would\" plus the base verb to report the scheduled future event.";
+    return `\"${option}\" does not report the original idea with correct word order and verb form.`;
+  }
+  if (question.subcategory === "Reduced clauses") return `\"${option}\" does not form a grammatical reduced-clause sentence here.`;
+  if (question.subcategory === "Advanced sentence structure") return `\"${option}\" has incorrect word order or missing structure words.`;
   if (question.subcategory === "Gerunds and infinitives") return `\"${option}\" does not fit the verb pattern in this sentence.`;
   if (question.subcategory === "Question forms") return `\"${option}\" does not use the correct question word order.`;
   if (question.subcategory === "Pronouns and reference") return `\"${option}\" does not clearly refer to the right person or thing.`;
@@ -233,9 +244,18 @@ function distractorRationale(question, option) {
   if (question.subcategory === "Inversion and emphasis") return `\"${option}\" does not use the correct formal word order.`;
   if (question.subcategory === "Subjunctive and unreal forms") return `\"${option}\" does not fit this formal request or requirement pattern.`;
   if (question.subcategory === "Sentence boundaries") return `\"${option}\" does not make the sentence complete and clear.`;
+  if (question.subcategory === "Everyday vocabulary") return `\"${option}\" is a real meaning, but it is not the meaning of the word in this sentence.`;
+  if (question.subcategory === "Workplace vocabulary") return `\"${option}\" does not match the work or office meaning used here.`;
+  if (question.subcategory === "Word forms") return `\"${option}\" is from the word family, but it does not fit this sentence position.`;
   if (question.subcategory === "Collocations") return `\"${option}\" does not make the natural phrase in this sentence.`;
   if (question.subcategory === "Phrasal verbs") return `\"${option}\" does not complete the common verb phrase.`;
-  if (question.subcategory === "Reported speech" && question.answer.includes(" would ")) return "This choice does not use \"would\" plus the base verb to report the scheduled future event.";
+  if (question.subcategory === "Transitions") return `\"${option}\" does not show the intended relationship between the ideas.`;
+  if (question.subcategory === "Meaning in context") return `\"${option}\" is a possible meaning in English, but not the meaning used in this sentence.`;
+  if (question.subcategory === "Academic vocabulary") return `\"${option}\" does not match the academic or formal meaning used here.`;
+  if (question.subcategory === "Register") return `\"${option}\" is understandable, but it is not the best formal choice.`;
+  if (question.subcategory === "Nuance") return `\"${option}\" is not the most exact meaning in this context.`;
+  if (question.subcategory === "Hedging and precision") return `\"${option}\" states the claim too strongly or too loosely for the evidence.`;
+  if (question.subcategory === "Discourse function") return `\"${option}\" describes a text function, but not the role of this part of the text.`;
   return `\"${option}\" does not fit the grammar or meaning of this item.`;
 }
 
@@ -288,54 +308,64 @@ function wordFormExplanation(question) {
   return `Use "${answer}" as ${role}. The completed sentence is: ${task.replace("___", answer)}`;
 }
 
+function completedFeedback(question) {
+  if (question.taskText.includes("___")) return ` The completed sentence is: ${question.taskText.replace("___", question.answer)}`;
+  if (/[.!?]$/.test(question.answer)) return ` The correct sentence is: ${question.answer}`;
+  return "";
+}
+
+function explanationWithCompletion(question, reason) {
+  return `${reason}${completedFeedback(question)}`;
+}
+
 function explainAnswer(question) {
   const answer = question.answer;
   const task = question.taskText;
   const normalizedTask = normalizeQuestionText(task);
 
   if (question.subcategory === "Prepositions") {
-    if (answer === "on" && /\b(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\b/.test(task)) return "We use \"on\" with days: on Monday, on Saturday.";
-    if (answer === "at" && /\d/.test(task)) return "We use \"at\" with clock times: at 9:30, at 2:15.";
-    if (answer === "in" && /\b(January|February|March|April|May|June|July|August|September|October|November|December|Paris|London|Tokyo|Boston)\b/.test(task)) return "We use \"in\" with months, cities, and larger places.";
-    if (answer === "by" && /___ (train|bus|car|plane)\b/.test(task)) return '"By" followed by a vehicle without an article names the means of transport: by train, by bus.';
-    if (answer === "by") return "\"By\" means no later than a time or day.";
-    return `\"${answer}\" is the small word that fits this sentence.`;
+    if (answer === "on" && /\b(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\b/.test(task)) return explanationWithCompletion(question, "We use \"on\" with days: on Monday, on Saturday.");
+    if (answer === "at" && /\d/.test(task)) return explanationWithCompletion(question, "We use \"at\" with clock times: at 9:30, at 2:15.");
+    if (answer === "in" && /\b(January|February|March|April|May|June|July|August|September|October|November|December|Paris|London|Tokyo|Boston)\b/.test(task)) return explanationWithCompletion(question, "We use \"in\" with months, cities, and larger places.");
+    if (answer === "by" && /___ (train|bus|car|plane)\b/.test(task)) return explanationWithCompletion(question, '"By" followed by a vehicle without an article names the means of transport: by train, by bus.');
+    if (answer === "by") return explanationWithCompletion(question, "\"By\" means no later than a time or day.");
+    return explanationWithCompletion(question, `\"${answer}\" is the small word that fits this sentence.`);
   }
 
   if (question.subcategory === "Verb tense") {
-    if (normalizedTask.includes("yesterday") || normalizedTask.includes("last year")) return "The time word shows a finished past action, so the past form is needed.";
-    if (normalizedTask.includes("every monday")) return "This is a repeated action, so the present simple form is needed.";
-    if (normalizedTask.includes("recently") || normalizedTask.includes("since")) return "The sentence connects a past time with now, so a present perfect form fits.";
-    return "The verb form must match the time meaning in the sentence.";
+    if (normalizedTask.includes("yesterday") || normalizedTask.includes("last year")) return explanationWithCompletion(question, "The time word shows a finished past action, so the past form is needed.");
+    if (normalizedTask.includes("every monday")) return explanationWithCompletion(question, "This is a repeated action, so the present simple form is needed.");
+    if (normalizedTask.includes("recently") || normalizedTask.includes("since")) return explanationWithCompletion(question, "The sentence connects a past time with now, so a present perfect form fits.");
+    return explanationWithCompletion(question, "The verb form must match the time meaning in the sentence.");
   }
 
-  if (question.subcategory === "Articles") return "The small word before the noun must fit the sound and meaning of the noun phrase.";
-  if (question.subcategory === "Count and noncount nouns") return "The amount word must fit whether the noun can be counted.";
-  if (question.subcategory === "Subject-verb agreement") return "The subject and verb must match in number.";
-  if (question.subcategory === "Modals") return `"${answer}" fits the requirement described here: ${task.replace("___", answer)}`;
-  if (question.subcategory === "Comparatives") return "The sentence compares two things, so the comparative form is needed.";
-  if (question.subcategory === "Clauses and connectors" || question.subcategory === "Transitions") return "The answer connects the ideas with the intended meaning.";
-  if (question.subcategory === "Conditionals") return "The answer must match the condition in the first part of the sentence.";
-  if (question.subcategory === "Passive voice") return "The focus is on the thing receiving the action, so passive voice is needed.";
-  if (question.subcategory === "Relative clauses") return answer === "whose" ? '"Whose" introduces something belonging to the person just mentioned.' : `"${answer}" links the description to the person or thing: ${task.replace("___", answer)}`;
+  if (question.subcategory === "Articles") return explanationWithCompletion(question, "The small word before the noun must fit the sound and meaning of the noun phrase.");
+  if (question.subcategory === "Count and noncount nouns") return explanationWithCompletion(question, "The amount word must fit whether the noun can be counted.");
+  if (question.subcategory === "Subject-verb agreement") return explanationWithCompletion(question, "The subject and verb must match in number.");
+  if (question.subcategory === "Modals") return explanationWithCompletion(question, `"${answer}" fits the meaning and grammar of the modal phrase.`);
+  if (question.subcategory === "Comparatives") return explanationWithCompletion(question, "The sentence compares two things, so the comparative form is needed.");
+  if (question.subcategory === "Clauses and connectors" || question.subcategory === "Transitions") return explanationWithCompletion(question, "The answer connects the ideas with the intended meaning.");
+  if (question.subcategory === "Conditionals") return explanationWithCompletion(question, "The answer must match the condition in the first part of the sentence.");
+  if (question.subcategory === "Passive voice") return explanationWithCompletion(question, "The focus is on the thing receiving the action, so passive voice is needed.");
+  if (question.subcategory === "Relative clauses") return answer === "whose" ? explanationWithCompletion(question, '"Whose" introduces something belonging to the person just mentioned.') : explanationWithCompletion(question, `"${answer}" links the description to the person or thing.`);
   if (question.subcategory === "Reported speech") {
     if (normalizedTask.includes("starts next week")) return "Because the start was still in the future, \"starts\" changes to \"would start,\" and \"next week\" changes to \"the following week.\"";
     if (normalizedTask.includes("arrives today")) return "Because the arrival was still in the future, \"arrives\" changes to \"would arrive,\" and \"today\" changes to \"that day.\"";
     const reportedFuture = answer.match(/\bwould ([a-z]+)\b/i);
     if (reportedFuture) return `The quote describes a scheduled future event. From a past viewpoint, use \"would\" plus the base verb: \"would ${reportedFuture[1]}.\"`;
-    return "The answer reports the original words clearly and naturally.";
+    return explanationWithCompletion(question, "The answer reports the original words clearly and naturally.");
   }
-  if (question.subcategory === "Reduced clauses") return "This is the only option with correct grammar.";
-  if (question.subcategory === "Advanced sentence structure") return "Only this option has natural English word order and grammar.";
-  if (question.subcategory === "Gerunds and infinitives") return "Some verbs and adjectives need an -ing form, and some need to plus a verb.";
-  if (question.subcategory === "Question forms") return "The question needs the correct helper word and word order.";
-  if (question.subcategory === "Pronouns and reference") return "The pronoun must clearly point to the right person or thing.";
-  if (question.subcategory === "Determiners and quantifiers") return "The amount word must fit the noun and meaning.";
-  if (question.subcategory === "Adjective and adverb forms") return "The describing word must fit what it describes.";
-  if (question.subcategory === "Parallel structure") return "The answer keeps the same pattern in each part of the list.";
-  if (question.subcategory === "Inversion and emphasis") return "The opening phrase changes the word order in this formal sentence.";
-  if (question.subcategory === "Subjunctive and unreal forms") return "This formal pattern uses the base verb after the request or requirement.";
-  if (question.subcategory === "Sentence boundaries") return "The answer joins or separates the ideas as a complete sentence.";
+  if (question.subcategory === "Reduced clauses") return explanationWithCompletion(question, "This is the only option with correct grammar.");
+  if (question.subcategory === "Advanced sentence structure") return explanationWithCompletion(question, "Only this option has natural English word order and grammar.");
+  if (question.subcategory === "Gerunds and infinitives") return explanationWithCompletion(question, "Some verbs and adjectives need an -ing form, and some need to plus a verb.");
+  if (question.subcategory === "Question forms") return explanationWithCompletion(question, "The question needs the correct helper word and word order.");
+  if (question.subcategory === "Pronouns and reference") return explanationWithCompletion(question, "The pronoun must clearly point to the right person or thing.");
+  if (question.subcategory === "Determiners and quantifiers") return explanationWithCompletion(question, "The amount word must fit the noun and meaning.");
+  if (question.subcategory === "Adjective and adverb forms") return explanationWithCompletion(question, "The describing word must fit what it describes.");
+  if (question.subcategory === "Parallel structure") return explanationWithCompletion(question, "The answer keeps the same pattern in each part of the list.");
+  if (question.subcategory === "Inversion and emphasis") return explanationWithCompletion(question, "The opening phrase changes the word order in this formal sentence.");
+  if (question.subcategory === "Subjunctive and unreal forms") return explanationWithCompletion(question, "This formal pattern uses the base form after the request or requirement.");
+  if (question.subcategory === "Sentence boundaries") return explanationWithCompletion(question, "The answer joins or separates the ideas as a complete sentence.");
   if (question.subcategory === "Everyday vocabulary" || question.subcategory === "Nuance" || question.subcategory === "Meaning in context" || question.subcategory === "Academic vocabulary") return `\"${answer}\" best matches the meaning in this item.`;
   if (question.subcategory === "Workplace vocabulary") return `\"${answer}\" fits the work or office meaning in this sentence.`;
   if (question.subcategory === "Word forms") return wordFormExplanation(question);
@@ -640,7 +670,7 @@ function splitTaskText(text) {
     };
   }
 
-  const meaningMatch = text.match(/^(What does "[^"]+" mean in this sentence\?)\s+(.+)$/);
+  const meaningMatch = text.match(/^(What does "[^"]+" (?:mean|do) in this [^?]+\?)\s+(.+)$/);
   if (meaningMatch) {
     return {
       instruction: meaningMatch[1],
@@ -740,6 +770,7 @@ function validateCoverage(bank) {
   if (!learning) throw new Error("Question bank coverage check requires learning levels.");
   const topics = Object.keys(learnerSubcategoryLabels);
   const signatures = new Set(bank.map(questionSignature));
+  const expectedTopicLevelItems = ACTIVE_BANK_SIZE / (topics.length * learning.levels.length);
   const issues = [];
   if (bank.length !== ACTIVE_BANK_SIZE) issues.push(`Expected ${ACTIVE_BANK_SIZE} active items, found ${bank.length}`);
   if (signatures.size !== bank.length) issues.push(`Expected unique active items, found ${signatures.size} unique signatures`);
@@ -747,6 +778,7 @@ function validateCoverage(bank) {
     for (const level of learning.levels) {
       const count = bank.filter((question) => question.subcategory === topic && learning.levelForDifficulty(question.difficulty) === level).length;
       if (count < MIN_LEVEL_TOPIC_ITEMS) issues.push(`${topic} / ${level}: ${count} items`);
+      if (count !== expectedTopicLevelItems) issues.push(`${topic} / ${level}: expected ${expectedTopicLevelItems}, found ${count}`);
     }
   }
   if (issues.length) throw new Error(`Question bank failed coverage: ${issues.slice(0, 8).join(" | ")}`);

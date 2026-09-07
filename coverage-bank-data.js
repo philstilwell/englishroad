@@ -119,6 +119,21 @@
       return text.replace(/\.$/, "");
     }
 
+    function ensurePeriod(text) {
+      return /[.!?]$/.test(text) ? text : `${text}.`;
+    }
+
+    function completedSentence(text, answer) {
+      return text.includes("___") ? text.replace("___", answer) : answer;
+    }
+
+    function rationales(options, answer, correctReason, wrongReason) {
+      return options.reduce((messages, option) => {
+        messages[option] = option === answer ? correctReason : wrongReason(option);
+        return messages;
+      }, {});
+    }
+
     function makeItem(text, options, answer, focusKey = "", setup = "", metadata = {}) {
       return item(text, options, answer, focusKey, setup, { ...metadata, qaStatus: "draft" });
     }
@@ -186,8 +201,31 @@
       if (level === "A2" && i === 0) {
         return makeItem("The trip will take about one hour ___ train.", ["by", "on", "in", "at"], "by");
       }
+      const timePrepositionItems = [
+        [`The class starts ___ Monday.`, "on"],
+        [`The workshop begins ___ Tuesday.`, "on"],
+        [`The office opens ___ Friday.`, "on"],
+        [`The test is ___ Wednesday.`, "on"],
+        [`The meeting is ___ Thursday.`, "on"],
+        [`The class starts ___ June.`, "in"],
+        [`The course begins ___ September.`, "in"],
+        [`The garden opens ___ spring.`, "in"],
+        [`The office is busy ___ the morning.`, "in"],
+        [`The lesson starts ___ the afternoon.`, "in"],
+        [`The meeting starts ___ noon.`, "at"],
+        [`The train leaves ___ 3 p.m.`, "at"],
+        [`The office opens ___ 9 a.m.`, "at"],
+        [`The class begins ___ midnight.`, "at"],
+        [`The interview starts ___ lunchtime.`, "at"],
+        [`Please finish the ${c.thing} ___ Friday.`, "by"],
+        [`Send the ${c.thing2} ___ noon.`, "by"],
+        [`Return the ${c.thing} ___ 3 p.m.`, "by"],
+        [`Complete the ${c.thing2} ___ Monday.`, "by"],
+        [`Bring the ${c.thing} ___ the end of the day.`, "by"]
+      ];
+      const [timeText, timeAnswer] = pick(timePrepositionItems, i);
       const sets = {
-        A1: [[`The class starts ___ ${withoutFinalPeriod(c.time)}.`, ["on", "in", "at", "by"], ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "the weekend"].includes(c.time) ? "on" : ["noon", "3 p.m."].includes(c.time) ? "at" : "in"]],
+        A1: [[timeText, ["on", "in", "at", "by"], timeAnswer]],
         A2: [[`${c.person} left the ${c.place} and walked ___ the ${c.otherPlace}.`, ["to", "at", "in", "on"], "to"]],
         B1: [[`${c.person} is responsible ___ checking the ${c.thing}.`, ["for", "to", "at", "with"], "for"]],
         B2: [[`There was a sharp increase ___ ${c.plural} this month.`, ["in", "on", "at", "for"], "in"]],
@@ -232,11 +270,11 @@
       const c = row(i);
       const sets = {
         A1: [[`${c.team} ___ bring a pencil to class.`, ["must", "must to", "musted", "musting"], "must"]],
-        A2: [[`${c.person} ___ be at the ${c.place}; the lights are on.`, ["might", "must to", "should to", "can to"], "might"]],
+        A2: [[`For better results, ${c.person} ___ check the ${c.thing} again.`, ["should", "must", "might", "can"], "should"]],
         B1: [[`${c.team} ___ wear badges inside the building.`, ["have to", "have", "must to", "are must"], "have to"]],
-        B2: [[`${c.person} ___ have left the file at home; it is not in the bag.`, ["may", "must to", "should to", "can to"], "may"]],
-        C1: [[`${c.person} ___ rather finish the ${c.thing} before lunch.`, ["would", "had", "should to", "must to"], "would"]],
-        C2: [[`${c.person} ___ have submitted the form earlier, but the office accepted it anyway.`, ["should", "must to", "would to", "can to"], "should"]]
+        B2: [[`I am not sure, but ${c.person} ___ have left the file at home; it is not in the bag.`, ["may", "must", "should", "would"], "may"]],
+        C1: [[`${c.person} ___ rather finish the ${c.thing} before lunch than rush through it later.`, ["would", "will", "should", "must"], "would"]],
+        C2: [[`${c.person} ___ have submitted the form earlier; the late file delayed the review.`, ["should", "must", "might", "would"], "should"]]
       };
       return makeItem(...chooseByLevel(level, sets, i));
     }
@@ -247,7 +285,33 @@
       if (adjective === "far") return "farther";
       if (["careful", "helpful", "useful", "formal", "regular", "honest", "practical", "reliable", "complete"].includes(adjective)) return `more ${adjective}`;
       if (adjective.endsWith("y")) return `${adjective.slice(0, -1)}ier`;
+      if (adjective.endsWith("e")) return `${adjective}r`;
       return `${adjective}er`;
+    }
+
+    function adjectiveNounForm(adjective) {
+      return {
+        clear: "clarity",
+        quick: "quickness",
+        quiet: "quietness",
+        careful: "carefulness",
+        helpful: "helpfulness",
+        simple: "simplicity",
+        polite: "politeness",
+        accurate: "accuracy",
+        safe: "safety",
+        useful: "usefulness",
+        formal: "formality",
+        regular: "regularity",
+        calm: "calmness",
+        honest: "honesty",
+        steady: "steadiness",
+        brief: "brevity",
+        direct: "directness",
+        practical: "practicality",
+        reliable: "reliability",
+        complete: "completeness"
+      }[adjective] || `${adjective}ness`;
     }
 
     function comparatives(level, i) {
@@ -269,7 +333,7 @@
       const c = row(i);
       const sets = {
         A1: [[`${c.person} stayed home ___ it was raining.`, ["because", "so", "although", "unless"], "because"]],
-        A2: [[`${c.person} was tired, ___ she finished the ${c.thing}.`, ["but", "because", "unless", "so that"], "but"]],
+        A2: [[`${c.person} was tired, ___ ${c.person} finished the ${c.thing}.`, ["but", "because", "unless", "so that"], "but"]],
         B1: [[`___ the room was noisy, ${c.team} understood the speaker.`, ["Although", "Because", "Therefore", "Unless"], "Although"]],
         B2: [[`${c.person} saved the file ___ the computer restarted.`, ["before", "during", "therefore", "despite"], "before"]],
         C1: [[`${c.person} revised the proposal, ___ the main argument remained unchanged.`, ["whereas", "because", "unless", "so that"], "whereas"]],
@@ -284,8 +348,8 @@
       const sets = {
         A1: [[`If it rains, ${c.person} ___ inside.`, ["will stay", "stays to", "stayed to", "will stayed"], "will stay"]],
         A2: [[`If ${c.person} ${s} early, ${c.team} will have more time.`, [s, base, `will ${base}`, `has ${pp}`], s]],
-        B1: [[`${c.person} would help if she ___ more time.`, ["had", "has", "will have", "having"], "had"]],
-        B2: [[`If ${c.person} had checked the ${c.thing}, she ___ the error.`, ["would have found", "will find", "would find", "has found"], "would have found"]],
+        B1: [[`${c.person} would help if there ___ more time.`, ["were", "is", "will be", "being"], "were"]],
+        B2: [[`If ${c.person} had checked the ${c.thing}, the team ___ the error.`, ["would have found", "will find", "would find", "has found"], "would have found"]],
         C1: [[`If the ${c.thing} were clearer, fewer people ___ mistakes.`, ["would make", "will make", "made", "had made"], "would make"]],
         C2: [[`Had ${c.person} ${pp} ${object} earlier, the meeting would have started on time.`, [pp, `have ${pp}`, `to ${base}`, ing], pp]]
       };
@@ -296,13 +360,14 @@
       const c = row(i);
       const [base, , past, pp, ing, object] = c.action;
       const passiveObject = object.replace(/^the /, "The ");
+      const simpleObject = pick(["room", "desk", "floor", "window", "table"], i);
       const sets = {
-        A1: [[`${passiveObject} ___ every Friday.`, [`is ${pp}`, past, `is ${ing}`, `has ${base}`], `is ${pp}`]],
-        A2: [[`${passiveObject} ___ yesterday.`, [`was ${pp}`, past, `was ${ing}`, `has ${pp}`], `was ${pp}`]],
+        A1: [[`The ${simpleObject} at the ${c.place} ___ after class.`, ["is cleaned", "cleans", "is cleaning", "has clean"], "is cleaned"]],
+        A2: [[`The ${simpleObject} at the ${c.place} ___ yesterday.`, ["was cleaned", "cleaned", "was cleaning", "has cleaned"], "was cleaned"]],
         B1: [[`${passiveObject} ___ by ${c.person} before lunch.`, [`was ${pp}`, past, `has ${base}`, `were ${pp}`], `was ${pp}`]],
         B2: [[`${passiveObject} ___ by three different reviewers.`, [`has been ${pp}`, `has ${pp}`, `was ${ing}`, `have been ${pp}`], `has been ${pp}`]],
-        C1: [[`${passiveObject} should ___ before it is published.`, [`be ${pp}`, pp, `being ${pp}`, `have ${pp}`], `be ${pp}`]],
-        C2: [[`The error is believed ___ during the final update.`, [`to have been ${pp}`, `to ${base}`, `being ${pp}`, `was ${pp}`], `to have been ${pp}`]]
+        C1: [[`The ${c.thing} should ___ before it is shared.`, ["be reviewed", "review", "being reviewed", "have reviewed"], "be reviewed"]],
+        C2: [[`The mistake in the ${c.thing} is believed ___ during the final update.`, ["to have been introduced", "to introduce", "being introduced", "was introduced"], "to have been introduced"]]
       };
       return makeItem(...chooseByLevel(level, sets, i));
     }
@@ -315,7 +380,7 @@
         B1: [[`The ${c.place} ___ we met last week is closed today.`, ["where", "who", "whose", "what"], "where"]],
         B2: [[`The student ___ ${c.thing} was missing asked for another copy.`, ["whose", "who", "which", "where"], "whose"]],
         C1: [[`The ${c.thing}, ___ was revised twice, is ready now.`, ["which", "that", "what", "where"], "which"]],
-        C2: [[`The policy under ___ the ${c.thing} program operates will be reviewed next month.`, ["which", "that", "what", "where"], "which"]]
+        C2: [[`The conditions under ___ the ${c.thing} was approved will be reviewed next month.`, ["which", "that", "what", "where"], "which"]]
       };
       return makeItem(...chooseByLevel(level, sets, i));
     }
@@ -323,11 +388,11 @@
     function reportedSpeech(level, i) {
       const c = row(i);
       const sets = {
-        A1: [`${c.person} said that she was tired.`, `${c.person} said that she is tired yesterday.`, `${c.person} said that tired she was.`, `${c.person} said she tired was.`],
+        A1: [`${c.other} said that ${c.person} was tired.`, `${c.other} said that ${c.person} is tired yesterday.`, `${c.other} said that tired ${c.person} was.`, `${c.other} said ${c.person} tired was.`],
         A2: [`${c.person} said that the class started at nine.`, `${c.person} said that the class start at nine.`, `${c.person} said the class has start at nine.`, `${c.person} said that nine started the class.`],
         B1: [`${c.person} asked where the ${c.place} was.`, `${c.person} asked where was the ${c.place}.`, `${c.person} asked where the ${c.place} is yesterday.`, `${c.person} asked where did the ${c.place} be.`],
         B2: [`${c.person} said that the meeting would start at noon.`, `${c.person} said that the meeting will started at noon.`, `${c.person} said the meeting would starts at noon.`, `${c.person} said that noon would the meeting start.`],
-        C1: [`${c.person} explained that she had already sent the ${c.thing}.`, `${c.person} explained that she has already send the ${c.thing}.`, `${c.person} explained had she already sent the ${c.thing}.`, `${c.person} explained that already sent she the ${c.thing}.`],
+        C1: [`${c.other} explained that ${c.person} had already sent the ${c.thing}.`, `${c.other} explained that ${c.person} has already send the ${c.thing}.`, `${c.other} explained had ${c.person} already sent the ${c.thing}.`, `${c.other} explained that already sent ${c.person} the ${c.thing}.`],
         C2: [`${c.person} denied having changed the ${c.thing}.`, `${c.person} denied to have changed the ${c.thing}.`, `${c.person} denied that having changed the ${c.thing}.`, `${c.person} denied changed having the ${c.thing}.`]
       };
       const set = sets[level];
@@ -355,8 +420,8 @@
         A2: [`Could you tell me where the ${c.place} is?`, `Could you tell me where is the ${c.place}?`, `Could you tell to me where the ${c.place} is?`, `Could you tell me the ${c.place} where is?`],
         B1: [`It is important for ${c.person} to check the ${c.thing}.`, `It is important ${c.person} check the ${c.thing}.`, `It important for ${c.person} to check the ${c.thing}.`, `It is important for ${c.person} checking the ${c.thing}.`],
         B2: [`What ${c.person} needs is a clearer ${c.thing}.`, `What ${c.person} needs are a clearer ${c.thing}.`, `What needs ${c.person} is a clearer ${c.thing}.`, `What ${c.person} needs it is a clearer ${c.thing}.`],
-        C1: [`Not only did ${c.person} revise the ${c.thing}, but she also explained the change.`, `Not only ${c.person} revised the ${c.thing}, but she also explained the change.`, `Not only did ${c.person} revised the ${c.thing}, but she also explained the change.`, `Not only revised ${c.person} the ${c.thing}, but also explained the change.`],
-        C2: [`Had ${c.person} known about the delay, she would have changed the schedule.`, `Had ${c.person} knew about the delay, she would have changed the schedule.`, `If had ${c.person} known about the delay, she would have changed the schedule.`, `Had known ${c.person} about the delay, she would have changed the schedule.`]
+        C1: [`Not only did ${c.person} revise the ${c.thing}, but ${c.person} also explained the change.`, `Not only ${c.person} revised the ${c.thing}, but ${c.person} also explained the change.`, `Not only did ${c.person} revised the ${c.thing}, but ${c.person} also explained the change.`, `Not only revised ${c.person} the ${c.thing}, but also explained the change.`],
+        C2: [`Had ${c.person} known about the delay, ${c.person} would have changed the schedule.`, `Had ${c.person} knew about the delay, ${c.person} would have changed the schedule.`, `If had ${c.person} known about the delay, ${c.person} would have changed the schedule.`, `Had known ${c.person} about the delay, ${c.person} would have changed the schedule.`]
       };
       const set = sets[level];
       return sentenceChoice("Choose the sentence with correct grammar.", set[0], set.slice(1), `advanced:${level}:${i}`);
@@ -395,9 +460,9 @@
         A1: [[`${c.person} has a book. ___ is on the desk.`, ["It", "They", "Them", "She"], "It"]],
         A2: [[`${c.person} and ${c.other} finished the task, and ___ sent it to the teacher.`, ["they", "she", "it", "him"], "they"]],
         B1: [[`The ${c.plural} are ready; please put ___ in the folder.`, ["them", "it", "they", "he"], "them"]],
-        B2: [[`Every ${pick(["student", "worker", "visitor", "applicant", "reader"], i)} at the ${c.place} should bring ___ own notebook.`, ["his or her", "their are", "them", "it"], "his or her"]],
-        C1: [[`The ${pick(["committee", "company", "school", "office", "agency"], i)} at the ${c.place} published ___ final decision after the review.`, ["its", "their are", "them", "itself are"], "its"]],
-        C2: [[`${c.person} gave the report to ${c.other} and ___.`, ["me", "I", "myself I", "mine"], "me"]]
+        B2: [[`Every ${pick(["student", "worker", "visitor", "applicant", "reader"], i)} at the ${c.place} should bring ___ own notebook.`, ["their", "there", "them", "its"], "their"]],
+        C1: [[`The agency at the ${c.place} published ___ final decision after the review.`, ["its", "it's", "itself", "them"], "its"]],
+        C2: [[`The committee members disagreed among ___ about the final ${c.thing}.`, ["themselves", "itself", "theirselves", "them"], "themselves"]]
       };
       return makeItem(...chooseByLevel(level, sets, i));
     }
@@ -420,13 +485,32 @@
       const adj = c.adjective;
       const adv = c.adverb;
       const comp = comparativeForm(adj);
+      const noun = adjectiveNounForm(adj);
+      const c1Forms = [
+        ["coherent", "coherently", "coherence"], ["efficient", "efficiently", "efficiency"], ["consistent", "consistently", "consistency"], ["precise", "precisely", "precision"], ["subtle", "subtly", "subtlety"],
+        ["practical", "practically", "practicality"], ["credible", "credibly", "credibility"], ["relevant", "relevantly", "relevance"], ["robust", "robustly", "robustness"], ["explicit", "explicitly", "explicitness"],
+        ["implicit", "implicitly", "implicitness"], ["tentative", "tentatively", "tentativeness"], ["valid", "validly", "validity"], ["methodical", "methodically", "method"], ["logical", "logically", "logic"],
+        ["formal", "formally", "formality"], ["critical", "critically", "criticism"], ["analytical", "analytically", "analysis"], ["persuasive", "persuasively", "persuasion"], ["transparent", "transparently", "transparency"]
+      ];
+      const c2Forms = [
+        ["systematic", "systematically", "system"], ["rigorous", "rigorously", "rigor"], ["objective", "objectively", "objectivity"], ["critical", "critically", "critique"], ["independent", "independently", "independence"],
+        ["transparent", "transparently", "transparency"], ["cautious", "cautiously", "caution"], ["deliberate", "deliberately", "deliberation"], ["precise", "precisely", "precision"], ["comparative", "comparatively", "comparison"],
+        ["empirical", "empirically", "empiricism"], ["analytical", "analytically", "analysis"], ["methodical", "methodically", "method"], ["consistent", "consistently", "consistency"], ["provisional", "provisionally", "provision"],
+        ["substantive", "substantively", "substance"], ["sequential", "sequentially", "sequence"], ["contextual", "contextually", "context"], ["skeptical", "skeptically", "skepticism"], ["judicious", "judiciously", "judgment"]
+      ];
+      if (level === "C1") {
+        const [advancedAdj, advancedAdv, noun] = pick(c1Forms, i);
+        return makeItem(`The explanation about the ${c.thing} was surprisingly ___ for such a complex topic.`, [advancedAdj, advancedAdv, noun, `very ${advancedAdv}`], advancedAdj);
+      }
+      if (level === "C2") {
+        const [advancedAdj, advancedAdv, noun] = pick(c2Forms, i);
+        return makeItem(`${c.person} evaluated the concerns ___ before revising the ${c.thing}.`, [advancedAdv, advancedAdj, noun, `${advancedAdj} evaluation`], advancedAdv);
+      }
       const sets = {
-        A1: [[`${c.person} is a ___ student.`, [adj, adv, `${adj}ness`, `very ${adv}`], adj]],
-        A2: [[`${c.person} answered the question ___.`, [adv, adj, `${adj}ness`, `very ${adj}`], adv]],
-        B1: [[`The ${c.plural} were written ___ for beginners.`, [adv, adj, `${adj}ness`, `very ${adj}`], adv]],
-        B2: [[`The new ${c.thing} is ___ than the old one.`, [comp, adv, `${adj}est`, `${adj}ness`], comp]],
-        C1: [[`The explanation about the ${c.thing} was surprisingly ___ for such a complex topic.`, [adj, adv, `${adj}ness`, `very ${adv}`], adj]],
-        C2: [[`The committee responded in a ___ ${adj} way.`, [adv, adj, `${adj}ness`, `${adj} response`], adv]]
+        A1: [[`${c.person} is a ___ student.`, [adj, adv, noun, `very ${adv}`], adj]],
+        A2: [[`${c.person} answered the question ___.`, [adv, adj, noun, `very ${adj}`], adv]],
+        B1: [[`The ${c.plural} were written ___ for beginners.`, [adv, adj, noun, `very ${adj}`], adv]],
+        B2: [[`The new ${c.thing} is ___ than the old one.`, [comp, adv, `most ${adj}`, noun], comp]]
       };
       return makeItem(...chooseByLevel(level, sets, i));
     }
@@ -451,7 +535,7 @@
         A1: [`I am ready, and so is ${c.person}.`, `I am ready, and so ${c.person} is.`, `I am ready, and so does ${c.person}.`, `I am ready, and so ${c.person} does.`],
         A2: [`Here comes the ${pick(["bus", "train", "teacher", "visitor", "manager"], i)} from the ${c.place}.`, `Here the ${pick(["bus", "train", "teacher", "visitor", "manager"], i)} comes it from the ${c.place}.`, `Here does come the ${pick(["bus", "train", "teacher", "visitor", "manager"], i)} from the ${c.place}.`, `Here is comes the ${pick(["bus", "train", "teacher", "visitor", "manager"], i)} from the ${c.place}.`],
         B1: [`${c.person} likes English, and so do I.`, `${c.person} likes English, and so I do.`, `${c.person} likes English, and so am I.`, `${c.person} likes English, and so I am.`],
-        B2: [`Not only did ${c.person} finish the ${c.thing}, but she also checked it.`, `Not only ${c.person} finished the ${c.thing}, but she also checked it.`, `Not only did ${c.person} finished the ${c.thing}, but she also checked it.`, `Not only finished ${c.person} the ${c.thing}, but she also checked it.`],
+        B2: [`Not only did ${c.person} finish the ${c.thing}, but ${c.person} also checked it.`, `Not only ${c.person} finished the ${c.thing}, but ${c.person} also checked it.`, `Not only did ${c.person} finished the ${c.thing}, but ${c.person} also checked it.`, `Not only finished ${c.person} the ${c.thing}, but ${c.person} also checked it.`],
         C1: [`Only after the meeting ended did ${c.person} send the notes.`, `Only after the meeting ended ${c.person} sent the notes.`, `Only after ended the meeting did ${c.person} send the notes.`, `Only after the meeting did ended ${c.person} send the notes.`],
         C2: [`No sooner had ${c.person} opened the file than the system stopped working.`, `No sooner ${c.person} had opened the file than the system stopped working.`, `No sooner had opened ${c.person} the file than the system stopped working.`, `No sooner had ${c.person} open the file than the system stopped working.`]
       };
@@ -462,11 +546,11 @@
     function subjunctive(level, i) {
       const c = row(i);
       const sets = {
-        A1: [[`${c.person} wishes she ___ at home now.`, ["were", "is", "be", "being"], "were"]],
+        A1: [[`${c.other} wishes ${c.person} ___ at home now.`, ["were", "is", "be", "being"], "were"]],
         A2: [[`If I ___ ${c.person}, I would ask for help.`, ["were", "am", "be", "being"], "were"]],
         B1: [[`The teacher suggested that ${c.person} ___ early.`, ["arrive", "arrives", "arrived", "arriving"], "arrive"]],
         B2: [[`It is important that every ${pick(["applicant", "student", "visitor", "worker", "parent"], i)} at the ${c.place} ___ the form today.`, ["complete", "completes", "completed", "completing"], "complete"]],
-        C1: [[`The policy requires that the ${c.thing} ___ submitted by Friday.`, ["be", "is", "was", "being"], "be"]],
+        C1: [[`The rule requires that the ${c.thing} ___ submitted by Friday.`, ["be", "is", "was", "being"], "be"]],
         C2: [[`The committee insisted that the wording in the ${c.thing} ___ unchanged until the review ended.`, ["remain", "remains", "remained", "remaining"], "remain"]]
       };
       return makeItem(...chooseByLevel(level, sets, i));
@@ -475,7 +559,7 @@
     function boundaries(level, i) {
       const c = row(i);
       const sets = {
-        A1: [`${c.person} was tired, so she went home.`, `${c.person} was tired she went home.`, `${c.person} was tired, she went home.`, `${c.person} was tired so went home.`],
+        A1: [`${c.person} was tired, so ${c.person} went home.`, `${c.person} was tired ${c.person} went home.`, `${c.person} was tired, ${c.person} went home.`, `${c.person} was tired so went home.`],
         A2: [`Because the train was late, ${c.person} called the office.`, `Because the train was late. ${c.person} called the office.`, `${c.person} called the office because. The train was late.`, `Because was late the train, ${c.person} called the office.`],
         B1: [`The ${c.thing} was incomplete, so the office returned it.`, `The ${c.thing} was incomplete the office returned it.`, `The ${c.thing} was incomplete, the office returned it.`, `The ${c.thing} was incomplete, so returned it the office.`],
         B2: [`The ${c.thing} changed; however, most students arrived on time.`, `The ${c.thing} changed, however most students arrived on time.`, `The ${c.thing} changed however most students arrived on time.`, `The ${c.thing} changed; however most students arriving on time.`],
@@ -515,19 +599,6 @@
       return makers[topic](level, i);
     }
 
-    const definitionDistractors = [
-      "a place where people wait",
-      "a printed list of names",
-      "money paid after a mistake",
-      "a rule for using a building",
-      "a person who repairs equipment",
-      "a short holiday from work",
-      "a document used for travel",
-      "a sound made by a machine",
-      "a way to hide information",
-      "a tool for measuring distance"
-    ];
-
     const vocabEntries = {
       "Everyday vocabulary": {
         A1: [["big", "large", "The {thing} is big."], ["small", "not large", "The room is small."], ["fast", "quick", "The train is fast."], ["near", "not far away", "The {place} is near the {otherPlace}."], ["begin", "start", "The lesson will begin at noon."]],
@@ -558,8 +629,8 @@
         A2: [["miss", "fail to catch or attend", "{person} might miss the bus."], ["save", "keep for later", "Please save the file."], ["stand", "accept or tolerate", "I cannot stand loud noise."], ["run", "manage or operate", "The school runs evening classes."], ["clear", "easy to understand", "The instructions are clear."]],
         B1: [["affect", "change or influence", "The rule will affect evening classes."], ["resolve", "find a solution to", "The manager tried to resolve the complaint."], ["support", "give reason to believe", "The evidence supports the claim."], ["emphasize", "give special attention to", "The tutor emphasized the final paragraph."], ["hinder", "make progress difficult", "The delay may hinder the project."]],
         B2: [["address", "deal with a problem", "The meeting will address safety concerns."], ["issue", "give officially", "The office will issue new cards."], ["conduct", "carry out", "The team will conduct a survey."], ["maintain", "keep at the same level", "The school wants to maintain quality."], ["approach", "way of dealing with something", "We need a new approach."]],
-        C1: [["rule out", "decide not to consider", "The manager ruled out closing the office."], ["carry out", "complete or perform", "The team carried out the survey."], ["back up", "support with evidence", "The director backed up the decision with data."], ["phase out", "stop using gradually", "The company phased out the old {thing} during the summer."], ["set aside", "reserve", "The office set aside two rooms."]],
-        C2: [["qualify", "make less absolute", "The final paragraph qualifies the claim."], ["undermine", "weaken", "The missing data undermine the conclusion."], ["account for", "explain", "The report accounts for seasonal changes."], ["bear out", "support or confirm", "The later evidence bore out the prediction."], ["give rise to", "cause", "The new rule gave rise to several complaints."]]
+        C1: [["attribute", "see as caused by", "The report attributes the delay to late data."], ["constitute", "be or amount to", "The change may constitute a new policy."], ["retain", "keep", "The school will retain the existing schedule."], ["offset", "balance or reduce the effect of", "The discount may offset the higher fee."], ["undergo", "experience a change or process", "The form will undergo review next month."]],
+        C2: [["substantiate", "support with evidence", "The appendix substantiates the central claim."], ["preclude", "make impossible or rule out", "The missing signature may preclude approval."], ["ameliorate", "make better", "The new policy may ameliorate the problem."], ["construe", "interpret in a particular way", "Readers may construe the wording as a warning."], ["entail", "involve or make necessary", "The change would entail additional costs."]]
       },
       "Nuance": {
         A1: [["often", "many times", "{person} often studies after dinner."], ["usually", "most of the time", "The office usually opens at nine."], ["maybe", "possibly", "Maybe the class is full."], ["almost", "nearly", "The work is almost finished."], ["only", "no more than", "Only five students arrived."]],
@@ -571,29 +642,126 @@
       }
     };
 
+    function rotatedOtherEntries(entries, answer, index) {
+      const others = entries.filter((entry) => entry[1] !== answer);
+      return [0, 1, 2].map((offset) => pick(others, index + offset));
+    }
+
+    function meaningRationales(term, answer, distractors, sentence) {
+      const correct = `In this sentence, "${term}" means "${answer}": ${sentence}`;
+      const options = [answer, ...distractors.map((entry) => entry[1])];
+      return rationales(options, answer, correct, (choice) => {
+        const source = distractors.find((entry) => entry[1] === choice);
+        return `"${choice}" is a real meaning, but it matches ${source ? `"${source[0]}"` : "another word"}, not "${term}" in this sentence.`;
+      });
+    }
+
+    function isImperativeSentence(sentence) {
+      return /^(Please|Turn|Put|Bring|Use|Ask|Submit|Send|Return|Complete|Call|Read|Choose)\b/.test(sentence);
+    }
+
+    function contextualMeaningSentence(sentence, c, index) {
+      const clean = withoutFinalPeriod(sentence);
+      const variant = index % 4;
+      if (variant === 0) return ensurePeriod(clean);
+
+      if (isImperativeSentence(clean)) {
+        return [
+          `The note says, "${clean}."`,
+          `In the ${c.place}, the instruction is, "${clean}."`,
+          `For the ${c.thing}, the message says, "${clean}."`
+        ][variant - 1];
+      }
+
+      const lower = lowerFirst(clean);
+      return [
+        `In the ${c.place}, ${lower}.`,
+        `During the discussion, ${lower}.`,
+        `The example says that ${lower}.`
+      ][variant - 1];
+    }
+
     function vocabMeaning(topic, level, i) {
       const entries = vocabEntries[topic][level];
       const entry = pick(entries, Math.floor(i / 4));
       const c = row(i);
-      const sentence = fill(entry[2], c);
-      const wrongs = definitionDistractors.filter((choice) => choice !== entry[1]).slice(i % 5, i % 5 + 3);
-      return makeItem(`What does "${entry[0]}" mean in this sentence? ${sentence}`, [entry[1], ...wrongs], entry[1], `vocab:${topic}:${level}:${entry[0]}`);
+      const sentence = contextualMeaningSentence(fill(entry[2], c), c, i);
+      const distractors = rotatedOtherEntries(entries, entry[1], i);
+      return makeItem(
+        `What does "${entry[0]}" mean in this sentence? ${sentence}`,
+        [entry[1], ...distractors.map((choice) => choice[1])],
+        entry[1],
+        `vocab:${topic}:${level}:${entry[0]}`,
+        "",
+        {
+          explanation: `In this sentence, "${entry[0]}" means "${entry[1]}": ${sentence}`,
+          rationales: meaningRationales(entry[0], entry[1], distractors, sentence)
+        }
+      );
     }
 
     const collocations = {
-      A1: [["take", "a break"], ["make", "a cake"], ["have", "lunch"], ["catch", "a bus"], ["do", "homework"]],
-      A2: [["make", "a choice"], ["keep", "a promise"], ["ask", "a question"], ["send", "an email"], ["follow", "the rules"]],
-      B1: [["meet", "a deadline"], ["raise", "a concern"], ["book", "an appointment"], ["solve", "a problem"], ["set", "a goal"]],
-      B2: [["reach", "a conclusion"], ["draw", "attention"], ["take", "responsibility"], ["gain", "experience"], ["hold", "a meeting"]],
-      C1: [["pose", "a challenge"], ["conduct", "research"], ["allocate", "resources"], ["submit", "a proposal"], ["provide", "evidence"]],
-      C2: [["mitigate", "risk"], ["yield", "results"], ["exert", "influence"], ["scrutinize", "evidence"], ["formulate", "a hypothesis"]]
+      A1: [
+        ["take", "a break", ["make", "do", "catch"]],
+        ["make", "a cake", ["do", "catch", "open"]],
+        ["have", "lunch", ["do", "catch", "open"]],
+        ["catch", "a bus", ["make", "do", "hold"]],
+        ["do", "homework", ["take", "catch", "hold"]]
+      ],
+      A2: [
+        ["make", "a choice", ["do", "take", "ask"]],
+        ["keep", "a promise", ["do", "send", "follow"]],
+        ["ask", "a question", ["make", "send", "keep"]],
+        ["send", "an email", ["make", "ask", "follow"]],
+        ["follow", "the rules", ["make", "send", "ask"]]
+      ],
+      B1: [
+        ["meet", "a deadline", ["solve", "raise", "book"]],
+        ["raise", "a concern", ["meet", "solve", "book"]],
+        ["book", "an appointment", ["meet", "solve", "raise"]],
+        ["solve", "a problem", ["meet", "book", "set"]],
+        ["set", "a goal", ["meet", "raise", "book"]]
+      ],
+      B2: [
+        ["reach", "a conclusion", ["hold", "gain", "take"]],
+        ["draw", "attention", ["reach", "take", "carry"]],
+        ["take", "responsibility", ["reach", "draw", "gain"]],
+        ["gain", "experience", ["reach", "draw", "hold"]],
+        ["hold", "a meeting", ["reach", "draw", "gain"]]
+      ],
+      C1: [
+        ["pose", "a challenge", ["conduct", "allocate", "submit"]],
+        ["conduct", "research", ["pose", "submit", "allocate"]],
+        ["allocate", "resources", ["pose", "conduct", "submit"]],
+        ["submit", "a proposal", ["pose", "conduct", "allocate"]],
+        ["provide", "evidence", ["pose", "conduct", "allocate"]]
+      ],
+      C2: [
+        ["mitigate", "risk", ["yield", "exert", "formulate"]],
+        ["yield", "results", ["mitigate", "exert", "formulate"]],
+        ["exert", "influence", ["yield", "mitigate", "formulate"]],
+        ["scrutinize", "evidence", ["mitigate", "exert", "formulate"]],
+        ["formulate", "a hypothesis", ["mitigate", "yield", "exert"]]
+      ]
     };
 
     function collocationItem(level, i) {
-      const [verb, object] = pick(collocations[level], Math.floor(i / 4));
+      const [verb, object, wrongs] = pick(collocations[level], Math.floor(i / 4));
       const c = row(i);
-      const wrongs = ["open", "touch", "carry", "watch", "move", "paint", "repair"].filter((word) => word !== verb).slice(i % 4, i % 4 + 3);
-      return makeItem(`${c.person} needs to ___ ${object} before ${withoutFinalPeriod(c.time)}.`, [verb, ...wrongs], verb, `collocation:${level}:${verb}:${object}`);
+      const deadline = pick(["the meeting", "Friday", "the review", "the deadline"], i);
+      const text = `${c.person} needs to ___ ${object} before ${deadline}.`;
+      const explanation = `The natural phrase is "${verb} ${object}." The completed sentence is: ${completedSentence(text, verb)}`;
+      return makeItem(
+        text,
+        [verb, ...wrongs],
+        verb,
+        `collocation:${level}:${verb}:${object}`,
+        "",
+        {
+          explanation,
+          rationales: rationales([verb, ...wrongs], verb, explanation, (choice) => `"${choice} ${object}" is not the natural phrase for this meaning here.`)
+        }
+      );
     }
 
     const phrasal = {
@@ -608,41 +776,147 @@
     function phrasalItem(level, i) {
       const entry = pick(phrasal[level], Math.floor(i / 4));
       const c = row(i);
-      const sentence = fill(entry[2], c);
-      const wrongs = definitionDistractors.slice((i + 2) % 5, (i + 2) % 5 + 3);
-      return makeItem(`What does "${entry[0]}" mean in this sentence? ${sentence}`, [entry[1], ...wrongs], entry[1], `phrasal:${level}:${entry[0]}`);
+      const sentence = contextualMeaningSentence(fill(entry[2], c), c, i);
+      const distractors = rotatedOtherEntries(phrasal[level], entry[1], i);
+      return makeItem(
+        `What does "${entry[0]}" mean in this sentence? ${sentence}`,
+        [entry[1], ...distractors.map((choice) => choice[1])],
+        entry[1],
+        `phrasal:${level}:${entry[0]}`,
+        "",
+        {
+          explanation: `In this sentence, "${entry[0]}" means "${entry[1]}": ${sentence}`,
+          rationales: meaningRationales(entry[0], entry[1], distractors, sentence)
+        }
+      );
     }
 
     const wordForms = {
-      A1: [["teach", "teacher", "The ___ helped the class."], ["work", "worker", "Each ___ needs a badge."], ["write", "writer", "The ___ signed the book."], ["drive", "driver", "The ___ stopped the bus."], ["visit", "visitor", "One ___ asked a question."]],
-      A2: [["explain", "explanation", "The teacher gave a clear ___."], ["decide", "decision", "The final ___ was difficult."], ["invite", "invitation", "The office sent an ___."], ["pay", "payment", "The ___ arrived yesterday."], ["improve", "improvement", "The report showed clear ___." ]],
-      B1: [["accurate", "accuracy", "The ___ of the number matters."], ["confident", "confidence", "Practice builds ___."], ["possible", "possibility", "The team discussed one ___."], ["responsible", "responsibility", "Each worker has a ___."], ["successful", "success", "The project was a ___." ]],
-      B2: [["analyze", "analysis", "The ___ took two weeks."], ["participate", "participation", "The course requires regular ___."], ["calculate", "calculation", "The ___ was incorrect."], ["approve", "approval", "The plan needs official ___."], ["compare", "comparison", "The ___ was useful." ]],
-      C1: [["valid", "validity", "The study questioned the test's ___."], ["relevant", "relevance", "The teacher explained the detail's ___."], ["coherent", "coherence", "The essay lacked ___."], ["efficient", "efficiency", "The change improved ___."], ["consistent", "consistency", "The data showed strong ___." ]],
-      C2: [["ambiguous", "ambiguity", "The wording created ___."], ["imply", "implication", "The result has one practical ___."], ["derive", "derivation", "The article explains the term's ___."], ["assume", "assumption", "The model depends on that ___."], ["infer", "inference", "The final ___ was too strong." ]]
+      A1: [
+        ["teach", "teacher", "The ___ helped the class.", ["teach", "teaches", "taught"]],
+        ["work", "worker", "Each ___ needs a badge.", ["work", "works", "working"]],
+        ["write", "writer", "The ___ signed the book.", ["write", "writes", "written"]],
+        ["drive", "driver", "The ___ stopped the bus.", ["drive", "drives", "driven"]],
+        ["visit", "visitor", "One ___ asked a question.", ["visit", "visits", "visited"]]
+      ],
+      A2: [
+        ["explain", "explanation", "The teacher gave a clear ___.", ["explain", "explained", "explaining"]],
+        ["decide", "decision", "The final ___ was difficult.", ["decide", "decided", "deciding"]],
+        ["invite", "invitation", "The office sent an ___.", ["invite", "invited", "inviting"]],
+        ["pay", "payment", "The ___ arrived yesterday.", ["pay", "paid", "paying"]],
+        ["improve", "improvement", "The report showed clear ___.", ["improve", "improved", "improving"]]
+      ],
+      B1: [
+        ["accurate", "accuracy", "The ___ of the number matters.", ["accurate", "accurately", "inaccurate"]],
+        ["confident", "confidence", "Practice builds ___.", ["confident", "confidently", "confide"]],
+        ["possible", "possibility", "The team discussed one ___.", ["possible", "possibly", "possibilities"]],
+        ["responsible", "responsibility", "Each worker has a ___.", ["responsible", "responsibly", "responsibilities"]],
+        ["successful", "success", "The project was a ___.", ["successful", "successfully", "succeed"]]
+      ],
+      B2: [
+        ["analyze", "analysis", "The ___ took two weeks.", ["analyze", "analytical", "analyzing"]],
+        ["participate", "participation", "The course requires regular ___.", ["participate", "participant", "participating"]],
+        ["calculate", "calculation", "The ___ was incorrect.", ["calculate", "calculated", "calculating"]],
+        ["approve", "approval", "The plan needs official ___.", ["approve", "approved", "approving"]],
+        ["compare", "comparison", "The ___ was useful.", ["compare", "comparative", "comparing"]]
+      ],
+      C1: [
+        ["valid", "validity", "The study questioned the test's ___.", ["valid", "validly", "validate"]],
+        ["relevant", "relevance", "The teacher explained the detail's ___.", ["relevant", "relevantly", "relate"]],
+        ["coherent", "coherence", "The essay lacked ___.", ["coherent", "coherently", "cohere"]],
+        ["efficient", "efficiency", "The process's ___ improved after the change.", ["efficient", "efficiently", "expedite"]],
+        ["consistent", "consistency", "The data showed strong ___.", ["consistent", "consistently", "consisting"]]
+      ],
+      C2: [
+        ["ambiguous", "ambiguity", "The wording created ___.", ["ambiguous", "ambiguously", "ambiguate"]],
+        ["imply", "implication", "The result has one practical ___.", ["imply", "implied", "implying"]],
+        ["derive", "derivation", "The article explains the term's ___.", ["derive", "derived", "deriving"]],
+        ["assume", "assumption", "The model depends on that ___.", ["assume", "assumed", "assuming"]],
+        ["infer", "inference", "The final ___ was too strong.", ["infer", "inferred", "inferring"]]
+      ]
     };
 
     function wordFormItem(level, i) {
-      const [base, answer, sentence] = pick(wordForms[level], Math.floor(i / 4));
+      const [base, answer, sentence, distractors] = pick(wordForms[level], Math.floor(i / 4));
       const c = row(i);
-      const wrongs = [base, `${base}ed`, `${base}ing`, `${answer}ly`].filter((choice) => choice !== answer).slice(0, 3);
-      return makeItem(`During the ${c.place} activity, ${lowerFirst(fill(sentence, c))}`, [answer, ...wrongs], answer, `word-form:${level}:${base}`);
+      const wrongs = distractors.filter((choice) => choice !== answer).slice(0, 3);
+      const text = `During the ${c.place} activity, ${lowerFirst(fill(sentence, c))}`;
+      const explanation = `The sentence needs "${answer}", the word-family form that fits this position. The completed sentence is: ${completedSentence(text, answer)}`;
+      return makeItem(
+        text,
+        [answer, ...wrongs],
+        answer,
+        `word-form:${level}:${base}`,
+        "",
+        {
+          explanation,
+          rationales: rationales([answer, ...wrongs], answer, explanation, (choice) => `"${choice}" is related to "${base}", but it does not fit the grammar of this sentence.`)
+        }
+      );
     }
 
     const transitions = {
-      A1: [["because", "shows a reason", "{person} stayed home because it rained."], ["and", "adds another idea", "{person} read and wrote."], ["but", "shows a different idea", "The room was small but clean."], ["so", "shows a result", "It rained, so we stayed inside."], ["then", "shows the next time", "{person} ate lunch, then studied."]],
-      A2: [["however", "shows contrast", "The class was hard; however, it was useful."], ["therefore", "shows a result", "The form was late; therefore, it was returned."], ["for example", "introduces an example", "Bring ID, for example, a passport."], ["also", "adds information", "The course is cheap and also practical."], ["instead", "shows a replacement", "The room was full, so we met outside instead."]],
-      B1: [["although", "shows contrast", "Although it rained, the class continued."], ["unless", "means if not", "Unless the office calls, the meeting is on."], ["while", "shows two things at the same time or contrast", "While the price is low, delivery is slow."], ["since", "shows a reason", "Since the form was missing, the office called."], ["as soon as", "means immediately after", "Call me as soon as the file arrives."]],
-      B2: [["nevertheless", "shows contrast despite what came before", "The sample was small; nevertheless, the result was useful."], ["in contrast", "shows a difference", "Costs fell; in contrast, delays increased."], ["as a result", "shows an effect", "The form was clearer; as a result, errors fell."], ["meanwhile", "shows another action at the same time", "The team revised the form; meanwhile, the office trained staff."], ["otherwise", "means if not", "Submit the file today; otherwise, it will be late."]],
-      C1: [["whereas", "compares two different facts", "The first plan saves money, whereas the second saves time."], ["provided that", "means only if", "The trip will continue provided that the weather improves."], ["consequently", "shows a result", "Demand increased; consequently, prices rose."], ["nonetheless", "shows contrast", "The evidence is limited; nonetheless, it is useful."], ["by contrast", "introduces a clear difference", "The old form was long; by contrast, the new one is brief."]],
-      C2: [["notwithstanding", "despite", "Notwithstanding the delay, the project succeeded."], ["inasmuch as", "to the extent that", "The plan is fair inasmuch as it treats all groups equally."], ["thereby", "by doing that", "The new rule reduced errors, thereby saving time."], ["hence", "therefore", "The figures were incomplete; hence, the cautious conclusion."], ["lest", "to avoid the risk that", "The files were checked twice lest errors remain."]]
+      A1: [
+        ["because", "shows a reason", "{person} stayed home because it rained.", ["shows a result", "adds another idea", "shows the next time"]],
+        ["and", "adds another idea", "{person} read and wrote.", ["shows a reason", "shows a result", "shows a different idea"]],
+        ["but", "shows a different idea", "The room was small but clean.", ["shows a reason", "adds another idea", "shows the next time"]],
+        ["so", "shows a result", "It rained, so we stayed inside.", ["shows a reason", "adds another idea", "shows a different idea"]],
+        ["then", "shows the next time", "{person} ate lunch, then studied.", ["shows a reason", "adds another idea", "shows a different idea"]]
+      ],
+      A2: [
+        ["however", "shows contrast", "The class was hard; however, it was useful.", ["shows a result", "introduces an example", "adds information"]],
+        ["therefore", "shows a result", "The form was late; therefore, it was returned.", ["shows contrast", "introduces an example", "shows a replacement"]],
+        ["for example", "introduces an example", "Bring ID, for example, a passport.", ["shows contrast", "shows a result", "shows a replacement"]],
+        ["also", "adds information", "The course is cheap and also practical.", ["shows a result", "shows contrast", "shows a replacement"]],
+        ["instead", "shows a replacement", "The room was full, so we met outside instead.", ["adds information", "shows a result", "introduces an example"]]
+      ],
+      B1: [
+        ["although", "shows contrast", "Although it rained, the class continued.", ["shows a reason", "means if not", "means immediately after"]],
+        ["unless", "means if not", "Unless the office calls, the meeting is on.", ["shows a reason", "shows contrast", "means immediately after"]],
+        ["while", "shows two actions happening at the same time", "While {person} checked the file, {other} answered questions.", ["shows a reason", "means if not", "shows a result"]],
+        ["since", "shows a reason", "Since the form was missing, the office called.", ["shows contrast", "means if not", "means immediately after"]],
+        ["as soon as", "means immediately after", "Call me as soon as the file arrives.", ["shows a reason", "means if not", "shows contrast"]]
+      ],
+      B2: [
+        ["nevertheless", "shows contrast despite what came before", "The sample was small; nevertheless, the result was useful.", ["shows an effect", "shows another action at the same time", "means if not"]],
+        ["in contrast", "shows a difference", "Costs fell; in contrast, delays increased.", ["shows an effect", "shows another action at the same time", "means if not"]],
+        ["as a result", "shows an effect", "The form was clearer; as a result, errors fell.", ["shows contrast", "shows a difference", "means if not"]],
+        ["meanwhile", "shows another action at the same time", "The team revised the form; meanwhile, the office trained staff.", ["shows an effect", "shows a difference", "means if not"]],
+        ["otherwise", "means if not", "Submit the file today; otherwise, it will be late.", ["shows an effect", "shows a difference", "shows another action at the same time"]]
+      ],
+      C1: [
+        ["whereas", "compares two different facts", "The first plan saves money, whereas the second saves time.", ["means only if", "shows a result", "adds a concession"]],
+        ["provided that", "means only if", "The trip will continue provided that the weather improves.", ["compares two different facts", "shows a result", "adds a concession"]],
+        ["consequently", "shows a result", "Demand increased; consequently, prices rose.", ["compares two different facts", "means only if", "adds a concession"]],
+        ["nonetheless", "adds a concession", "The evidence is limited; nonetheless, it is useful.", ["means only if", "shows a result", "compares two different facts"]],
+        ["by contrast", "introduces a clear difference", "The old form was long; by contrast, the new one is brief.", ["means only if", "shows a result", "adds a concession"]]
+      ],
+      C2: [
+        ["notwithstanding", "despite", "Notwithstanding the delay, the project succeeded.", ["because of that", "therefore", "only if"]],
+        ["inasmuch as", "to the extent that", "The plan is fair inasmuch as it treats all groups equally.", ["despite", "therefore", "to avoid the risk that"]],
+        ["thereby", "by doing that", "The new rule reduced errors, thereby saving time.", ["despite", "only if", "to avoid the risk that"]],
+        ["hence", "therefore", "The figures were incomplete; hence, the cautious conclusion.", ["despite", "only if", "to avoid the risk that"]],
+        ["lest", "to avoid the risk that", "The files were checked twice lest errors remain.", ["because of that", "therefore", "despite"]]
+      ]
     };
 
     function transitionItem(level, i) {
       const entry = pick(transitions[level], Math.floor(i / 4));
-      const sentence = fill(entry[2], row(i));
-      const wrongs = definitionDistractors.slice((i + 3) % 5, (i + 3) % 5 + 3);
-      return makeItem(`What does "${entry[0]}" do in this sentence? ${sentence}`, [entry[1], ...wrongs], entry[1], `transition:${level}:${entry[0]}`);
+      const [word, meaning, sample, wrongMeanings] = entry;
+      const c = row(i);
+      const sentence = contextualMeaningSentence(fill(sample, c), c, i);
+      const explanation = `"${word}" ${meaning} in this sentence: ${sentence}`;
+      return makeItem(
+        `What does "${word}" do in this sentence? ${sentence}`,
+        [meaning, ...wrongMeanings],
+        meaning,
+        `transition:${level}:${word}`,
+        "",
+        {
+          explanation,
+          rationales: rationales([meaning, ...wrongMeanings], meaning, explanation, (choice) => `"${choice}" is a real text function, but it is not the job of "${word}" in this sentence.`)
+        }
+      );
     }
 
     function registerItem(level, i) {
@@ -650,17 +924,32 @@
       const formal = {
         A1: `Please sit down in the ${c.place}.`,
         A2: `Please send the ${c.thing} by Friday.`,
-        B1: `Could you please confirm your appointment?`,
-        B2: `Please let me know if further information is required.`,
-        C1: `We apologize for any inconvenience this delay may cause.`,
-        C2: `The attached document provides a concise summary of the revised proposal.`
+        B1: `Could you please confirm the details of the ${c.thing}?`,
+        B2: `Please let me know whether further information about the ${c.thing} is required.`,
+        C1: `We apologize for any inconvenience caused by the delay in the ${c.thing}.`,
+        C2: `The attached document provides a concise summary of the revised ${c.thing}.`
       }[level];
-      const wrongs = [
-        `Hey, do the ${c.thing} soon, okay?`,
-        `This ${c.thing} thing needs fixing fast.`,
-        `Just send stuff when you can.`
-      ];
-      return sentenceChoice(`Which sentence is best for a formal message about the ${c.thing}?`, formal, wrongs, `register:${level}:${i}`);
+      const wrongs = {
+        A1: [`Sit down in the ${c.place} now.`, `You need to sit in the ${c.place}, okay?`, `Go sit over there in the ${c.place}.`],
+        A2: [`Send the ${c.thing} by Friday, okay?`, `I need the ${c.thing}, so send it by Friday.`, `Get the ${c.thing} to me sometime Friday.`],
+        B1: [`Tell me the ${c.thing} details soon.`, `Can you say what is going on with the ${c.thing}?`, `I need you to confirm the ${c.thing}.`],
+        B2: [`Tell me if you need more stuff for the ${c.thing}.`, `Send whatever else you need about the ${c.thing}.`, `I need to know if the ${c.thing} needs things.`],
+        C1: [`Sorry the ${c.thing} is late and caused trouble.`, `The late ${c.thing} was unfortunate, but these things happen.`, `We know the ${c.thing} delay was annoying.`],
+        C2: [`The attached file gives a quick look at the changed ${c.thing}.`, `Here is the new ${c.thing} stuff in short form.`, `This attachment says what got changed in the ${c.thing}.`]
+      }[level];
+      const options = [formal, ...wrongs];
+      const explanation = `The keyed sentence is polite, precise, and appropriate for formal writing: ${formal}`;
+      return makeItem(
+        "Which sentence is best for a formal message?",
+        options,
+        formal,
+        `register:${level}:${i}`,
+        "",
+        {
+          explanation,
+          rationales: rationales(options, formal, explanation, () => "This sentence is understandable, but it is too casual, too blunt, or too vague for a formal message.")
+        }
+      );
     }
 
     function hedgingItem(level, i) {
@@ -673,30 +962,78 @@
         C1: `The results for the ${c.thing} suggest a possible relationship between practice and performance.`,
         C2: `The available evidence about the ${c.thing} is consistent with, but does not prove, a modest training effect.`
       }[level];
-      const wrongs = [
-        `This proves that every student will improve.`,
-        `No other factor matters at all.`,
-        `The result is certainly true in every situation.`
-      ];
-      return sentenceChoice("Which sentence is careful and not too strong?", careful, wrongs, `hedging:${level}:${i}`);
+      const wrongs = {
+        A1: [`This answer about the ${c.thing} is definitely correct.`, `This answer about the ${c.thing} must be correct.`, `This answer about the ${c.thing} is correct for every question.`],
+        A2: [`The new ${c.thing} will help all students.`, `The new ${c.thing} proves that every student improves.`, `The new ${c.thing} is always the best solution.`],
+        B1: [`The survey about the ${c.thing} proves that reminders improve attendance.`, `The survey about the ${c.thing} shows that reminders are the only factor.`, `The survey about the ${c.thing} guarantees better attendance.`],
+        B2: [`The data about the ${c.thing} prove that clearer forms reduce errors.`, `The data about the ${c.thing} show that unclear forms are the only cause of errors.`, `The data about the ${c.thing} guarantee that errors will disappear.`],
+        C1: [`The results for the ${c.thing} prove that practice causes better performance.`, `The results for the ${c.thing} eliminate every alternative explanation.`, `The results for the ${c.thing} show a universal law about learning.`],
+        C2: [`The available evidence about the ${c.thing} proves a decisive training effect.`, `The available evidence about the ${c.thing} leaves no meaningful uncertainty.`, `The available evidence about the ${c.thing} establishes that the training always works.`]
+      }[level];
+      const options = [careful, ...wrongs];
+      const explanation = `The keyed sentence makes a careful claim and leaves room for uncertainty: ${careful}`;
+      return makeItem(
+        "Which sentence is careful and not too strong?",
+        options,
+        careful,
+        `hedging:${level}:${i}`,
+        "",
+        {
+          explanation,
+          rationales: rationales(options, careful, explanation, () => "This choice overstates the evidence by using absolute language such as proves, every, only, always, or no uncertainty.")
+        }
+      );
     }
 
     function discourseItem(level, i) {
       const c = row(i);
-      const good = {
-        A1: `This sentence gives an example about the ${c.thing}.`,
-        A2: `This sentence explains the reason for the ${c.thing} change.`,
-        B1: `One limitation is that only a few ${pick(["students", "workers", "visitors", "parents", "applicants"], i)} at the ${c.place} answered the survey.`,
-        B2: `The paragraph compares the advantages and disadvantages of the ${c.thing}.`,
-        C1: `The final sentence qualifies the claim about the ${c.thing} by noting a possible exception.`,
-        C2: `The paragraph reframes the objection about the ${c.thing} as a question about evidence rather than intention.`
+      const peopleGroup = pick(["students", "workers", "visitors", "parents", "applicants"], i);
+      const items = {
+        A1: [
+          `Read this note: "Bring one item to class. For example, bring the ${c.thing} from yesterday." What does the second sentence do?`,
+          "It gives an example.",
+          ["It gives the final answer.", "It asks a question.", "It changes the topic."]
+        ],
+        A2: [
+          `Read this note: "The office changed the ${c.thing} because many students were confused." What does the because part do?`,
+          "It gives a reason.",
+          ["It gives an example.", "It shows a contrast.", "It asks for advice."]
+        ],
+        B1: [
+          `Read this sentence: "Only a few ${peopleGroup} at the ${c.place} answered the survey." What problem does it show?`,
+          "The sample may be too small.",
+          ["The survey question was translated badly.", "The results prove the program worked.", "The topic changed halfway through."]
+        ],
+        B2: [
+          `Read this sentence: "The ${c.thing} saved time, but it also created extra work for staff." What does the sentence do?`,
+          "It compares an advantage and a disadvantage.",
+          ["It defines a technical term.", "It gives instructions in order.", "It reports only a positive result."]
+        ],
+        C1: [
+          `Read this claim: "The results for the ${c.thing} are promising; however, the sample was small." What does the second part do?`,
+          "It qualifies the claim by adding a limitation.",
+          ["It repeats the claim in simpler words.", "It gives an unrelated example.", "It proves that the claim is false."]
+        ],
+        C2: [
+          `Read this comment: "Some critics call the ${c.thing} unfair; the stronger question is whether the evidence supports that criticism." What does the second part do?`,
+          "It reframes the objection as a question about evidence.",
+          ["It concedes that the criticism is certainly true.", "It dismisses the objection as irrelevant.", "It summarizes the history of the disagreement."]
+        ]
       }[level];
-      const wrongs = [
-        `This sentence proves that the study is perfect.`,
-        `This sentence says the topic is not worth discussing.`,
-        `This sentence removes every possible uncertainty.`
-      ];
-      return sentenceChoice("Which sentence best describes the purpose?", fill(good, c), wrongs, `discourse:${level}:${i}`);
+      const [text, answer, wrongs] = items;
+      const options = [answer, ...wrongs];
+      const explanation = `${answer} That is the role of the highlighted part in the short text.`;
+      return makeItem(
+        text,
+        options,
+        answer,
+        `discourse:${level}:${i}`,
+        "",
+        {
+          explanation,
+          rationales: rationales(options, answer, explanation, () => "This describes a possible text function, but it is not what the quoted part is doing here.")
+        }
+      );
     }
 
     function vocabulary(topic, level, i) {

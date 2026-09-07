@@ -35,6 +35,27 @@ for (const q of bank) {
   assert(!q.explanation.includes('The sentence needs this form of the word family.'), q.id);
   assert(q.options.every((option) => q.rationales[option]), q.id);
 }
+const contentStemItems = bank.filter(q => q.taskText.includes('___') || /^What does/.test(q.taskText));
+const repeatedContentStems = [...contentStemItems.reduce((counts, q) => counts.set(q.taskText, (counts.get(q.taskText) || 0) + 1), new Map()).entries()].filter(([, count]) => count > 1);
+assert.equal(repeatedContentStems.length, 0, `Repeated content stems: ${repeatedContentStems.slice(0, 3).map(([text, count]) => `${count}x ${text}`).join(' / ')}`);
+const genericWrongRationales = bank.flatMap(q => q.options.filter(option => option !== q.answer).map(option => q.rationales[option])).filter(text => /does not fit the grammar or meaning of this item/.test(text));
+assert.equal(genericWrongRationales.length, 0, 'Wrong-answer feedback should name the specific problem.');
+const genericExplanationFragments = /best answer for this item|best matches the meaning in this item|makes the natural English phrase\.|most formal and professional\.|careful claim without saying too much|clearly states one reasonable problem|clearest short/i;
+const genericExplanations = bank.filter(q => genericExplanationFragments.test(q.explanation) || genericExplanationFragments.test(q.taskText));
+assert.equal(genericExplanations.length, 0, `Generic or confusing prompt/explanation text remains: ${genericExplanations[0]?.id}`);
+const textGlitchPattern = /\.\.|\{[a-z0-9]+\}|which they were sent|undefined|null/i;
+const textGlitch = bank.find(q => textGlitchPattern.test([q.taskText, q.explanation, ...q.options, ...Object.values(q.rationales || {})].join(' ')));
+assert(!textGlitch, `Generated text glitch: ${textGlitch?.id}`);
+const generatedChoices = bank.flatMap(q => q.options.map(option => ({ ...q, option, completed: q.taskText.replace('___', option) })));
+const artificialOptionPattern = /\b(simpleer|largeer|safeer|closeer|carefulest|usefulest|formalest|regularest|reliableest|completeest|balancedly)\b/i;
+const artificialOption = generatedChoices.find(q => artificialOptionPattern.test(q.option));
+assert(!artificialOption, `Artificial-looking option form: ${artificialOption?.id} / ${artificialOption?.option}`);
+const accidentalCollocationPattern = /\b(scrutinize results|gain attention|hold attention|provide research|submit evidence|scrutinize a hypothesis)\b/i;
+const accidentalCollocation = generatedChoices.find(q => q.subcategory === 'Collocations' && accidentalCollocationPattern.test(q.completed));
+assert(!accidentalCollocation, `Plausible collocation used as a distractor: ${accidentalCollocation?.id} / ${accidentalCollocation?.completed}`);
+const namePronounMismatchPattern = /\b(Carlos|Omar|Daniel|Mateo|Jonas|Kenji|Luis|Noah|Theo)\b[^.?!]*\bshe\b|\bshe\b[^.?!]*\b(Carlos|Omar|Daniel|Mateo|Jonas|Kenji|Luis|Noah|Theo)\b/i;
+const namePronounMismatch = bank.find(q => namePronounMismatchPattern.test([q.taskText, ...q.options].join(' ')));
+assert(!namePronounMismatch, `Possible name/pronoun mismatch: ${namePronounMismatch?.id}`);
 const transport = bank.find(q => q.taskText.includes('one hour ___ train'));
 assert.match(transport.explanation, /transport/);
 assert.doesNotMatch(transport.explanation, /later than/);
@@ -44,12 +65,14 @@ assert(!bank.some(q => /complete sentence|sentence.*complete/.test(q.taskText) &
 const learning = c.window.EnglishRoadLearning;
 const topics = Object.keys(c.window.EnglishRoadQuestions.learnerSubcategoryLabels);
 assert.equal(new Set(bank.map(q => q.subcategory)).size, topics.length);
+const expectedTopicLevelItems = activeBankSize / (topics.length * learning.levels.length);
 let minObservedTopicLevelItems = Infinity;
 for (const topic of topics) {
   for (const level of learning.levels) {
     const count = bank.filter(q => q.subcategory === topic && learning.levelForDifficulty(q.difficulty) === level).length;
     minObservedTopicLevelItems = Math.min(minObservedTopicLevelItems, count);
     assert(count >= minTopicLevelItems, `${topic} / ${level} has only ${count} items`);
+    assert.equal(count, expectedTopicLevelItems, `${topic} / ${level} should have ${expectedTopicLevelItems} items`);
   }
 }
 // Selection cue is monotonic for every response and independent of response order.
