@@ -96,4 +96,4 @@ if (reviewed.size < 4200) {
   assert(attempt.stderr.includes('Editorial review incomplete'), 'Compilation should fail specifically because review is incomplete');
   assert.equal(fingerprint(), before, 'The incomplete compile changed the active bank');
 }
-console.log(`${reviewed.size} revised items pass the real question engine with their IDs, instructions, choices and feedback preserved. Incomplete-publication guard passed.`);
+console.log(`${reviewed.size} revised items pass the real question engine with their IDs, instructions, choices and feedback preserved.${reviewed.size < 4200 ? ' Incomplete-publication guard passed.' : ''}`);

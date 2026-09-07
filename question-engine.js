@@ -1,7 +1,5 @@
 // Shared question bank and learner feedback. Difficulty is an editorial practice label, not a calibrated score.
 (() => {
-const CORE_BANK_SIZE = 1800;
-const SUPPLEMENTAL_BANK_SIZE = 2400;
 const TOTAL_QUESTIONS = 100;
 const ACTIVE_BANK_SIZE = 4200;
 const MIN_LEVEL_TOPIC_ITEMS = 5;
@@ -73,7 +71,7 @@ const forbiddenSetupTerms = [
 
 
 const itemData = window.createEnglishRoadItemData({ pick, item });
-const { schema: itemDataSchema, blueprints, supplementalBlueprints, supplementalDifficultyRanges } = itemData;
+const { schema: itemDataSchema, supplementalDifficultyRanges } = itemData;
 
 function editorialNotes(made, blueprint) {
   if (made.qaStatus === "reviewed" && made.reviewer && made.reviewDate && made.explanation && made.rationales) return made;
@@ -167,54 +165,20 @@ function copyText(text) {
 }
 
 function createQuestionBank() {
-  if (window.createEnglishRoadCoverageBlueprints) {
-    const coverageBlueprints = window.createEnglishRoadCoverageBlueprints({ item, pick });
-    const bank = [];
-    for (const blueprint of coverageBlueprints) {
-      for (let localIndex = 0; localIndex < blueprint.perCell; localIndex += 1) {
-        const question = buildQuestion(blueprint, localIndex, bank.length, blueprint.difficulty);
-        bank.push({ ...question, variationCount: 1 });
-      }
-    }
-    validateBank(bank);
-    validateCoverage(bank);
-    return bank;
+  if (typeof window.createEnglishRoadCoverageBlueprints !== "function") {
+    throw new Error("The question bank did not load. Please reload to try again.");
   }
-
+  const coverageBlueprints = window.createEnglishRoadCoverageBlueprints({ item, pick });
   const bank = [];
-  const blueprintCounts = {};
-  for (let i = 0; i < CORE_BANK_SIZE; i += 1) {
-    const blueprint = blueprints[i % blueprints.length];
-    const localIndex = blueprintCounts[blueprint.code] || 0;
-    blueprintCounts[blueprint.code] = localIndex + 1;
-    bank.push(buildQuestion(blueprint, localIndex, i, jitterDifficulty(blueprint.difficulty, i)));
+  for (const blueprint of coverageBlueprints) {
+    for (let localIndex = 0; localIndex < blueprint.perCell; localIndex += 1) {
+      const question = buildQuestion(blueprint, localIndex, bank.length, blueprint.difficulty);
+      bank.push({ ...question, variationCount: 1 });
+    }
   }
-
-  const supplementalCounts = {};
-  for (let i = 0; i < SUPPLEMENTAL_BANK_SIZE; i += 1) {
-    const globalIndex = CORE_BANK_SIZE + i;
-    const blueprint = supplementalBlueprints[i % supplementalBlueprints.length];
-    const localIndex = supplementalCounts[blueprint.code] || 0;
-    supplementalCounts[blueprint.code] = localIndex + 1;
-    bank.push(buildQuestion(blueprint, localIndex, globalIndex, supplementalDifficulty(blueprint, localIndex)));
-  }
-  // A generated variation is not a new question. Keep stable first IDs and one
-  // consistent difficulty for each task/options combination across both tools.
-  const distinct = new Map();
-  for (const question of bank) {
-    const key = questionSignature(question);
-    if (distinct.has(key)) {
-      const prior = distinct.get(key);
-      if (prior.answer !== question.answer) throw new Error(`Conflicting answer keys: ${question.id}`);
-      prior.variationCount += 1;
-      prior.difficultySum += question.difficulty;
-    } else distinct.set(key, { ...question, variationCount: 1, difficultySum: question.difficulty });
-  }
-  const result = [...distinct.values()].map(({ difficultySum, ...question }) => ({
-    ...question, difficulty: Math.round(difficultySum / question.variationCount * 100) / 100
-  }));
-  validateBank(result);
-  return result;
+  validateBank(bank);
+  validateCoverage(bank);
+  return bank;
 }
 
 function distractorRationale(question, option) {

@@ -47,5 +47,7 @@ This is an AI-assisted editorial review. It does not provide empirical item-diff
 - [Cambridge: accommodation in British English](https://dictionary.cambridge.org/grammar/british-grammar/accommodation)
 - [Cambridge: articles and countable interpretations of abstract nouns](https://dictionaryblog.cambridge.org/2017/12/13/how-to-use-articles-another-look-1/)
 - [Cambridge: article use with meals and determiner constructions](https://dictionaryblog.cambridge.org/2018/01/03/how-to-use-articles-another-look-2/)
+- [Cambridge: superlatives and optional the after a linking verb](https://dictionary.cambridge.org/grammar/british-grammar/comparison-adjectives-bigger-biggest-more-interesting-most-interesting)
+- [British Council: indefinite articles, including formal a most](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/indefinite-article?page=0%2C1%3Fpage%3D0%2C1)
 
 The references guide editorial judgment; they do not independently certify these new items or their practice-band assignments.

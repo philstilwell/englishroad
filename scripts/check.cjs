@@ -20,6 +20,9 @@ function context(app) {
 const c = context('app.js');
 const run = (code) => vm.runInContext(code, c);
 const bank = run('state.bank');
+const missingBankContext = context();
+delete missingBankContext.window.createEnglishRoadCoverageBlueprints;
+assert.throws(() => vm.runInContext('window.EnglishRoadQuestions.createQuestionBank()', missingBankContext), /question bank did not load/, 'A missing bank must not revive legacy template questions');
 const activeBankSize = 4200;
 const minTopicLevelItems = 5;
 const templateAuditTerms = [
@@ -162,7 +165,7 @@ for (const topic of topics) {
 }
 const a1EmphasisItems = bank.filter(q => q.subcategory === 'Inversion and emphasis' && learning.levelForDifficulty(q.difficulty) === 'A1');
 assert.equal(a1EmphasisItems.length, expectedTopicLevelItems, 'A1 Emphasis should keep its full 20-item cell');
-assert.equal(new Set(a1EmphasisItems.map(q => q.answer)).size, a1EmphasisItems.length, 'A1 Emphasis correct sentences should be bespoke, not recycled with name swaps');
+assert.equal(new Set(a1EmphasisItems.map(q => c.window.EnglishRoadQuestions.questionSignature(q))).size, a1EmphasisItems.length, 'A1 Emphasis tasks and choice sets must be distinct; short correct forms may legitimately recur');
 assert(!a1EmphasisItems.some(q => /\bready\b/i.test([q.setupText, q.taskText, q.explanation, ...q.options, ...Object.values(q.rationales)].join(' '))), 'A1 Emphasis should not reuse the old "ready" template');
 assert(!a1EmphasisItems.some(q => /opening phrase changes the word order|formal sentence/i.test(q.explanation)), 'A1 Emphasis needs targeted feedback, not the old generic explanation');
 const templateClusters = [];

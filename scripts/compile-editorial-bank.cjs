@@ -17,6 +17,7 @@ if (process.argv.includes('--progress')) {
   process.exit(0);
 }
 assert.equal(groups.length, 35, 'Expected all 35 topics');
+assert.equal(new Set(groups.map(group => group.topic)).size, 35, 'Duplicate topic labels');
 assert.equal(items.length, 4200, 'Expected all 4,200 items');
 if (!validateReviewed) assert.equal(reviewed, 4200, `Editorial review incomplete: ${reviewed}/4200 items reviewed`);
 assert.equal(new Set(items.map(q => q.id)).size, 4200, 'Duplicate IDs');
@@ -25,12 +26,14 @@ const difficulty = { A1: 1.25, A2: 2.1, B1: 3.1, B2: 4.1, C1: 5.05, C2: 5.75 };
 const signatures = new Set();
 const blueprints = [];
 for (const group of groups) {
+  assert(['Grammar', 'Vocabulary'].includes(group.category), `${group.topic}: invalid category`);
   for (const level of levels) {
     const cell = group.items.filter(q => q.level === level);
     assert.equal(cell.length, 20, `${group.topic}/${level}: expected 20 items`);
     cell.sort((a, b) => Number(a.id.match(/\d+$/)[0]) - Number(b.id.match(/\d+$/)[0]));
     const firstId = Number(cell[0].id.match(/\d+$/)[0]);
     const code = cell[0].id.replace(/-\d+$/, '');
+    assert.equal(code, `coverage-${path.basename(group.file, '.json')}-${level.toLowerCase()}`, `${group.topic}/${level}: ID belongs to a different topic file`);
     for (const [index, q] of cell.entries()) {
       assert.equal(q.id, `${code}-${firstId + index}`, `${group.topic}/${level}: IDs must stay contiguous and in their original cell`);
       assert(code.endsWith(`-${level.toLowerCase()}`), `${q.id}: ID and level differ`);

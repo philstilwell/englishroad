@@ -64,7 +64,8 @@ const cells = [];
 for (const group of groups) {
   for (const level of ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']) {
     const reviewed = group.items.filter(q => q.level === level && q.audit.status === 'reviewed');
-    const sentenceChoices = reviewed.filter(q => q.options.every(o => words(o).length >= 5));
+    const sentenceChoices = reviewed.filter(q => q.options.every(o => words(o).length >= 2)
+      && q.options.reduce((sum, o) => sum + words(o).length, 0) / 4 >= 5);
     const longestCorrect = sentenceChoices.filter(q => {
       const correctLength = words(q.answer).length;
       return q.options.filter(o => o !== q.answer).every(o => words(o).length < correctLength);
