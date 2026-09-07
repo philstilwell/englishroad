@@ -1,14 +1,14 @@
-# Audit in progress
+# Completed AI-assisted item review
 
-The 4,200-item bank has been exported as 35 topic files under `editorial/items/`. Each file contains the exact sentences, options, keys, and feedback presented by the existing engine, divided into six groups of 20.
+The original 4,200-item bank was exported as 35 topic files under `editorial/items/`. Those files now contain the individually reviewed sentences, options, keys, feedback, and editorial decisions, divided into six groups of 20. See [the full audit report](AUDIT-REPORT.md) for the coverage table and readable review copies.
 
 An item is not considered reviewed because its wording is unique or because a script accepts its structure. The item-level `audit` record must explain its learning point, level demand, original problems, pedagogical value, and distinction from other items.
 
 Run `node scripts/compile-editorial-bank.cjs --progress` for the actual count. The compiler refuses to replace the active bank until all 4,200 records have complete editorial decisions. Pending records are not approved for quality by this audit. `--validate-reviewed` checks the completed records without publishing an incomplete bank.
 
-All 120 Articles items have an initial individual review. A further pass has tightened advanced distractors, replaced a potentially marginal word-order contrast, and added context where an alternative reading remained possible. Six parallel reviewers are now working through the remaining 34 topics, one complete topic at a time. Progress is recorded in the item files, not inferred from agent activity. The revisions remain in the editorial source until the full-bank completion guard passes.
+All 4,200 items have individual editorial decisions. Six parallel reviewers covered the 34 non-Articles topics; the coordinator reviewed Articles, and another reviewer subsequently checked all 120 Articles records and refined six. Coordinating checks returned additional items for stronger distractors, less leading instructions, simpler beginner wording, and more distinct learning contrasts. The compiled bank is accepted only when it matches the complete reviewed source.
 
-## Parallel assignments
+## Completed parallel assignments
 
 - Verb tense; Passive voice; Reported speech; Subjunctive and unreal forms; Question forms.
 - Conditionals; Clauses and connectors; Relative clauses; Reduced clauses; Sentence boundaries; Parallel structure.
@@ -52,5 +52,6 @@ This is an AI-assisted editorial review. It does not provide empirical item-diff
 - [Cambridge: superlatives and optional the after a linking verb](https://dictionary.cambridge.org/grammar/british-grammar/comparison-adjectives-bigger-biggest-more-interesting-most-interesting)
 - [British Council: indefinite articles, including formal a most](https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/indefinite-article?page=0%2C1%3Fpage%3D0%2C1)
 - [Cambridge: further, including an indefinite article with an additional monetary amount](https://dictionary.cambridge.org/dictionary/english/further)
+- [Stanford Encyclopedia of Philosophy: hypothetical conditionals need not have false antecedents](https://plato.stanford.edu/entries/counterfactuals/)
 
 The references guide editorial judgment; they do not independently certify these new items or their practice-band assignments.

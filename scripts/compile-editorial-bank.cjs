@@ -87,7 +87,7 @@ for (const blueprint of blueprints) {
   delete blueprint.firstId;
 }
 const sourceHash = crypto.createHash('sha256').update(JSON.stringify(groups)).digest('hex');
-const source = '// Generated from individually reviewed editorial/items/*.json.\n' +
+const source = '// Compiled from individually reviewed editorial/items/*.json.\n' +
   '// Rebuild with node scripts/compile-editorial-bank.cjs; edit the source items, not this file.\n' +
   `// Editorial source SHA-256: ${sourceHash}\n` +
   '(() => {\n  const groups = ' + JSON.stringify(blueprints) + ';\n' +
@@ -98,8 +98,8 @@ const source = '// Generated from individually reviewed editorial/items/*.json.\
   '    } }));\n  };\n})();\n';
 const destination = path.join(root, 'coverage-bank-data.js');
 if (process.argv.includes('--check')) {
-  assert.equal(fs.readFileSync(destination, 'utf8'), source, 'Compiled bank differs from reviewed source');
-  console.log('All 4,200 editorial records are complete and match the published question source.');
+  assert(fs.readFileSync(destination, 'utf8') === source, 'Compiled bank differs from reviewed source; rebuild before publishing');
+  console.log('All 4,200 editorial records are complete and match the active question source.');
 } else {
   const temporary = `${destination}.${process.pid}.tmp`;
   try {

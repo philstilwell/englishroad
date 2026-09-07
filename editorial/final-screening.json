@@ -1,0 +1,3483 @@
+{
+  "purpose": "Advisory similarity, feedback and answer-cue screening of individually reviewed items. Every flag needs contextual judgment; passing is not pedagogical certification.",
+  "sourceSha256": "a64912d4a44747f55d4d6c9d34ed457e91769242c42c42abc738be2ba9c45a0d",
+  "reviewed": 4200,
+  "pending": 0,
+  "similarPairs": [],
+  "repeatedExplanations": [],
+  "itemFlags": [],
+  "cells": [
+    {
+      "topic": "Academic vocabulary",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 14,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-academic-vocabulary-a1-2",
+        "coverage-academic-vocabulary-a1-8",
+        "coverage-academic-vocabulary-a1-11",
+        "coverage-academic-vocabulary-a1-13",
+        "coverage-academic-vocabulary-a1-20"
+      ]
+    },
+    {
+      "topic": "Academic vocabulary",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 14,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-academic-vocabulary-a2-25",
+        "coverage-academic-vocabulary-a2-27",
+        "coverage-academic-vocabulary-a2-32",
+        "coverage-academic-vocabulary-a2-38"
+      ]
+    },
+    {
+      "topic": "Academic vocabulary",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 18,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-academic-vocabulary-b1-43",
+        "coverage-academic-vocabulary-b1-44",
+        "coverage-academic-vocabulary-b1-51",
+        "coverage-academic-vocabulary-b1-55"
+      ]
+    },
+    {
+      "topic": "Academic vocabulary",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-academic-vocabulary-b2-64",
+        "coverage-academic-vocabulary-b2-69",
+        "coverage-academic-vocabulary-b2-73"
+      ]
+    },
+    {
+      "topic": "Academic vocabulary",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 18,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-academic-vocabulary-c1-84",
+        "coverage-academic-vocabulary-c1-85",
+        "coverage-academic-vocabulary-c1-87"
+      ]
+    },
+    {
+      "topic": "Academic vocabulary",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-academic-vocabulary-c2-102",
+        "coverage-academic-vocabulary-c2-112",
+        "coverage-academic-vocabulary-c2-113",
+        "coverage-academic-vocabulary-c2-116",
+        "coverage-academic-vocabulary-c2-118"
+      ]
+    },
+    {
+      "topic": "Adjective and adverb forms",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 0,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Adjective and adverb forms",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 4,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Adjective and adverb forms",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 8,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Adjective and adverb forms",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 18,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-adjective-and-adverb-forms-b2-183",
+        "coverage-adjective-and-adverb-forms-b2-192",
+        "coverage-adjective-and-adverb-forms-b2-193"
+      ]
+    },
+    {
+      "topic": "Adjective and adverb forms",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-adjective-and-adverb-forms-c1-210",
+        "coverage-adjective-and-adverb-forms-c1-218",
+        "coverage-adjective-and-adverb-forms-c1-219",
+        "coverage-adjective-and-adverb-forms-c1-220"
+      ]
+    },
+    {
+      "topic": "Adjective and adverb forms",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-adjective-and-adverb-forms-c2-233",
+        "coverage-adjective-and-adverb-forms-c2-237"
+      ]
+    },
+    {
+      "topic": "Advanced sentence structure",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 8,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Advanced sentence structure",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 18,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Advanced sentence structure",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-advanced-sentence-structure-b1-285",
+        "coverage-advanced-sentence-structure-b1-286"
+      ]
+    },
+    {
+      "topic": "Advanced sentence structure",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-advanced-sentence-structure-b2-301",
+        "coverage-advanced-sentence-structure-b2-302",
+        "coverage-advanced-sentence-structure-b2-319"
+      ]
+    },
+    {
+      "topic": "Advanced sentence structure",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-advanced-sentence-structure-c1-327",
+        "coverage-advanced-sentence-structure-c1-340"
+      ]
+    },
+    {
+      "topic": "Advanced sentence structure",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-advanced-sentence-structure-c2-344",
+        "coverage-advanced-sentence-structure-c2-350",
+        "coverage-advanced-sentence-structure-c2-356",
+        "coverage-advanced-sentence-structure-c2-359"
+      ]
+    },
+    {
+      "topic": "Articles",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 17,
+        "revised": 3
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 7,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Articles",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "revised": 5,
+        "replaced": 15
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 4,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Articles",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 12,
+        "revised": 8
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 5,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-articles-b1-415"
+      ]
+    },
+    {
+      "topic": "Articles",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 17,
+        "revised": 3
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-articles-b2-428",
+        "coverage-articles-b2-435",
+        "coverage-articles-b2-437",
+        "coverage-articles-b2-440"
+      ]
+    },
+    {
+      "topic": "Articles",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "revised": 3,
+        "replaced": 17
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-articles-c1-445",
+        "coverage-articles-c1-459"
+      ]
+    },
+    {
+      "topic": "Articles",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 7,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-articles-c2-461",
+        "coverage-articles-c2-465",
+        "coverage-articles-c2-472",
+        "coverage-articles-c2-475",
+        "coverage-articles-c2-476",
+        "coverage-articles-c2-477",
+        "coverage-articles-c2-478"
+      ]
+    },
+    {
+      "topic": "Clauses and connectors",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 3,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Clauses and connectors",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 1,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-clauses-and-connectors-a2-520"
+      ]
+    },
+    {
+      "topic": "Clauses and connectors",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 4,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Clauses and connectors",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 9,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-clauses-and-connectors-b2-541",
+        "coverage-clauses-and-connectors-b2-551",
+        "coverage-clauses-and-connectors-b2-553",
+        "coverage-clauses-and-connectors-b2-560"
+      ]
+    },
+    {
+      "topic": "Clauses and connectors",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 14,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-clauses-and-connectors-c1-563",
+        "coverage-clauses-and-connectors-c1-566",
+        "coverage-clauses-and-connectors-c1-567",
+        "coverage-clauses-and-connectors-c1-570",
+        "coverage-clauses-and-connectors-c1-579"
+      ]
+    },
+    {
+      "topic": "Clauses and connectors",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 10,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-clauses-and-connectors-c2-585",
+        "coverage-clauses-and-connectors-c2-587",
+        "coverage-clauses-and-connectors-c2-589",
+        "coverage-clauses-and-connectors-c2-591",
+        "coverage-clauses-and-connectors-c2-593",
+        "coverage-clauses-and-connectors-c2-594",
+        "coverage-clauses-and-connectors-c2-596",
+        "coverage-clauses-and-connectors-c2-597",
+        "coverage-clauses-and-connectors-c2-599",
+        "coverage-clauses-and-connectors-c2-600"
+      ]
+    },
+    {
+      "topic": "Collocations",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 1,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Collocations",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 0,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Collocations",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 0,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Collocations",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 6,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Collocations",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 2,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Collocations",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 5,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Comparatives",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 8,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Comparatives",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 12,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-comparatives-a2-750",
+        "coverage-comparatives-a2-756"
+      ]
+    },
+    {
+      "topic": "Comparatives",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 14,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-comparatives-b1-771",
+        "coverage-comparatives-b1-776",
+        "coverage-comparatives-b1-780"
+      ]
+    },
+    {
+      "topic": "Comparatives",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-comparatives-b2-786",
+        "coverage-comparatives-b2-790",
+        "coverage-comparatives-b2-793",
+        "coverage-comparatives-b2-798",
+        "coverage-comparatives-b2-799"
+      ]
+    },
+    {
+      "topic": "Comparatives",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-comparatives-c1-802",
+        "coverage-comparatives-c1-811",
+        "coverage-comparatives-c1-812"
+      ]
+    },
+    {
+      "topic": "Comparatives",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 8,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-comparatives-c2-825",
+        "coverage-comparatives-c2-826",
+        "coverage-comparatives-c2-829",
+        "coverage-comparatives-c2-833",
+        "coverage-comparatives-c2-835",
+        "coverage-comparatives-c2-836",
+        "coverage-comparatives-c2-837",
+        "coverage-comparatives-c2-839"
+      ]
+    },
+    {
+      "topic": "Conditionals",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 0,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Conditionals",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 6,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-conditionals-a2-878",
+        "coverage-conditionals-a2-880"
+      ]
+    },
+    {
+      "topic": "Conditionals",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 8,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-conditionals-b1-882",
+        "coverage-conditionals-b1-896",
+        "coverage-conditionals-b1-900"
+      ]
+    },
+    {
+      "topic": "Conditionals",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 5,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-conditionals-b2-908",
+        "coverage-conditionals-b2-915",
+        "coverage-conditionals-b2-920"
+      ]
+    },
+    {
+      "topic": "Conditionals",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 14,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-conditionals-c1-932",
+        "coverage-conditionals-c1-935"
+      ]
+    },
+    {
+      "topic": "Conditionals",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-conditionals-c2-942",
+        "coverage-conditionals-c2-943",
+        "coverage-conditionals-c2-948",
+        "coverage-conditionals-c2-949",
+        "coverage-conditionals-c2-950"
+      ]
+    },
+    {
+      "topic": "Count and noncount nouns",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 0,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Count and noncount nouns",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 3,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Count and noncount nouns",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 7,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Count and noncount nouns",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-count-and-noncount-nouns-b2-1034",
+        "coverage-count-and-noncount-nouns-b2-1040"
+      ]
+    },
+    {
+      "topic": "Count and noncount nouns",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-count-and-noncount-nouns-c1-1043",
+        "coverage-count-and-noncount-nouns-c1-1045",
+        "coverage-count-and-noncount-nouns-c1-1049",
+        "coverage-count-and-noncount-nouns-c1-1056"
+      ]
+    },
+    {
+      "topic": "Count and noncount nouns",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-count-and-noncount-nouns-c2-1062",
+        "coverage-count-and-noncount-nouns-c2-1065",
+        "coverage-count-and-noncount-nouns-c2-1072",
+        "coverage-count-and-noncount-nouns-c2-1073",
+        "coverage-count-and-noncount-nouns-c2-1078"
+      ]
+    },
+    {
+      "topic": "Determiners and quantifiers",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 0,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Determiners and quantifiers",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 19,
+        "revised": 1
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 0,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Determiners and quantifiers",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 5,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Determiners and quantifiers",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 7,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-determiners-and-quantifiers-b2-1142"
+      ]
+    },
+    {
+      "topic": "Determiners and quantifiers",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 15,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-determiners-and-quantifiers-c1-1163",
+        "coverage-determiners-and-quantifiers-c1-1164",
+        "coverage-determiners-and-quantifiers-c1-1169",
+        "coverage-determiners-and-quantifiers-c1-1171",
+        "coverage-determiners-and-quantifiers-c1-1175"
+      ]
+    },
+    {
+      "topic": "Determiners and quantifiers",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 18,
+      "longestCorrect": 7,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-determiners-and-quantifiers-c2-1182",
+        "coverage-determiners-and-quantifiers-c2-1183",
+        "coverage-determiners-and-quantifiers-c2-1186",
+        "coverage-determiners-and-quantifiers-c2-1187",
+        "coverage-determiners-and-quantifiers-c2-1191",
+        "coverage-determiners-and-quantifiers-c2-1193",
+        "coverage-determiners-and-quantifiers-c2-1200"
+      ]
+    },
+    {
+      "topic": "Discourse function",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 16,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-discourse-function-a1-1213"
+      ]
+    },
+    {
+      "topic": "Discourse function",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-discourse-function-a2-1222",
+        "coverage-discourse-function-a2-1229",
+        "coverage-discourse-function-a2-1230",
+        "coverage-discourse-function-a2-1235",
+        "coverage-discourse-function-a2-1236"
+      ]
+    },
+    {
+      "topic": "Discourse function",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-discourse-function-b1-1243",
+        "coverage-discourse-function-b1-1255"
+      ]
+    },
+    {
+      "topic": "Discourse function",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 9,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-discourse-function-b2-1261",
+        "coverage-discourse-function-b2-1269",
+        "coverage-discourse-function-b2-1270",
+        "coverage-discourse-function-b2-1272",
+        "coverage-discourse-function-b2-1273",
+        "coverage-discourse-function-b2-1276",
+        "coverage-discourse-function-b2-1278",
+        "coverage-discourse-function-b2-1279",
+        "coverage-discourse-function-b2-1280"
+      ]
+    },
+    {
+      "topic": "Discourse function",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-discourse-function-c1-1283",
+        "coverage-discourse-function-c1-1287",
+        "coverage-discourse-function-c1-1292",
+        "coverage-discourse-function-c1-1293",
+        "coverage-discourse-function-c1-1295",
+        "coverage-discourse-function-c1-1296"
+      ]
+    },
+    {
+      "topic": "Discourse function",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-discourse-function-c2-1303",
+        "coverage-discourse-function-c2-1304",
+        "coverage-discourse-function-c2-1306",
+        "coverage-discourse-function-c2-1313",
+        "coverage-discourse-function-c2-1316",
+        "coverage-discourse-function-c2-1319"
+      ]
+    },
+    {
+      "topic": "Everyday vocabulary",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 5,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-everyday-vocabulary-a1-1336"
+      ]
+    },
+    {
+      "topic": "Everyday vocabulary",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 16,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-everyday-vocabulary-a2-1351"
+      ]
+    },
+    {
+      "topic": "Everyday vocabulary",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 16,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-everyday-vocabulary-b1-1365",
+        "coverage-everyday-vocabulary-b1-1366",
+        "coverage-everyday-vocabulary-b1-1369",
+        "coverage-everyday-vocabulary-b1-1375",
+        "coverage-everyday-vocabulary-b1-1376"
+      ]
+    },
+    {
+      "topic": "Everyday vocabulary",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 15,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-everyday-vocabulary-b2-1385",
+        "coverage-everyday-vocabulary-b2-1398",
+        "coverage-everyday-vocabulary-b2-1399",
+        "coverage-everyday-vocabulary-b2-1400"
+      ]
+    },
+    {
+      "topic": "Everyday vocabulary",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 11,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-everyday-vocabulary-c1-1401",
+        "coverage-everyday-vocabulary-c1-1403",
+        "coverage-everyday-vocabulary-c1-1404",
+        "coverage-everyday-vocabulary-c1-1406",
+        "coverage-everyday-vocabulary-c1-1410",
+        "coverage-everyday-vocabulary-c1-1412",
+        "coverage-everyday-vocabulary-c1-1413",
+        "coverage-everyday-vocabulary-c1-1415",
+        "coverage-everyday-vocabulary-c1-1416",
+        "coverage-everyday-vocabulary-c1-1419",
+        "coverage-everyday-vocabulary-c1-1420"
+      ]
+    },
+    {
+      "topic": "Everyday vocabulary",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 10,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-everyday-vocabulary-c2-1422",
+        "coverage-everyday-vocabulary-c2-1425",
+        "coverage-everyday-vocabulary-c2-1427",
+        "coverage-everyday-vocabulary-c2-1428",
+        "coverage-everyday-vocabulary-c2-1429",
+        "coverage-everyday-vocabulary-c2-1430",
+        "coverage-everyday-vocabulary-c2-1432",
+        "coverage-everyday-vocabulary-c2-1434",
+        "coverage-everyday-vocabulary-c2-1435",
+        "coverage-everyday-vocabulary-c2-1437"
+      ]
+    },
+    {
+      "topic": "Gerunds and infinitives",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 3,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Gerunds and infinitives",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 4,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Gerunds and infinitives",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 1,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Gerunds and infinitives",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 5,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-gerunds-and-infinitives-b2-1506"
+      ]
+    },
+    {
+      "topic": "Gerunds and infinitives",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 15,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-gerunds-and-infinitives-c1-1525",
+        "coverage-gerunds-and-infinitives-c1-1528",
+        "coverage-gerunds-and-infinitives-c1-1539",
+        "coverage-gerunds-and-infinitives-c1-1540"
+      ]
+    },
+    {
+      "topic": "Gerunds and infinitives",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-gerunds-and-infinitives-c2-1549",
+        "coverage-gerunds-and-infinitives-c2-1552",
+        "coverage-gerunds-and-infinitives-c2-1560"
+      ]
+    },
+    {
+      "topic": "Hedging and precision",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 14,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-hedging-and-precision-a1-1569",
+        "coverage-hedging-and-precision-a1-1570",
+        "coverage-hedging-and-precision-a1-1571",
+        "coverage-hedging-and-precision-a1-1577"
+      ]
+    },
+    {
+      "topic": "Hedging and precision",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 15,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-hedging-and-precision-a2-1587",
+        "coverage-hedging-and-precision-a2-1594",
+        "coverage-hedging-and-precision-a2-1595"
+      ]
+    },
+    {
+      "topic": "Hedging and precision",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 7,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-hedging-and-precision-b1-1601",
+        "coverage-hedging-and-precision-b1-1603",
+        "coverage-hedging-and-precision-b1-1604",
+        "coverage-hedging-and-precision-b1-1608",
+        "coverage-hedging-and-precision-b1-1612",
+        "coverage-hedging-and-precision-b1-1614",
+        "coverage-hedging-and-precision-b1-1616"
+      ]
+    },
+    {
+      "topic": "Hedging and precision",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-hedging-and-precision-b2-1627",
+        "coverage-hedging-and-precision-b2-1633",
+        "coverage-hedging-and-precision-b2-1634",
+        "coverage-hedging-and-precision-b2-1637",
+        "coverage-hedging-and-precision-b2-1639"
+      ]
+    },
+    {
+      "topic": "Hedging and precision",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-hedging-and-precision-c1-1648",
+        "coverage-hedging-and-precision-c1-1651",
+        "coverage-hedging-and-precision-c1-1654"
+      ]
+    },
+    {
+      "topic": "Hedging and precision",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-hedging-and-precision-c2-1668",
+        "coverage-hedging-and-precision-c2-1670",
+        "coverage-hedging-and-precision-c2-1675",
+        "coverage-hedging-and-precision-c2-1676",
+        "coverage-hedging-and-precision-c2-1678",
+        "coverage-hedging-and-precision-c2-1679"
+      ]
+    },
+    {
+      "topic": "Inversion and emphasis",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 4,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-inversion-and-emphasis-a1-1693"
+      ]
+    },
+    {
+      "topic": "Inversion and emphasis",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 11,
+        "revised": 9
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 9,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Inversion and emphasis",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 16,
+        "revised": 4
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 13,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-inversion-and-emphasis-b1-1725",
+        "coverage-inversion-and-emphasis-b1-1727",
+        "coverage-inversion-and-emphasis-b1-1735"
+      ]
+    },
+    {
+      "topic": "Inversion and emphasis",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 17,
+        "revised": 3
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-inversion-and-emphasis-b2-1745",
+        "coverage-inversion-and-emphasis-b2-1758"
+      ]
+    },
+    {
+      "topic": "Inversion and emphasis",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 19,
+        "revised": 1
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-inversion-and-emphasis-c1-1762",
+        "coverage-inversion-and-emphasis-c1-1773",
+        "coverage-inversion-and-emphasis-c1-1774"
+      ]
+    },
+    {
+      "topic": "Inversion and emphasis",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 7,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-inversion-and-emphasis-c2-1781",
+        "coverage-inversion-and-emphasis-c2-1787",
+        "coverage-inversion-and-emphasis-c2-1792",
+        "coverage-inversion-and-emphasis-c2-1793",
+        "coverage-inversion-and-emphasis-c2-1795",
+        "coverage-inversion-and-emphasis-c2-1796",
+        "coverage-inversion-and-emphasis-c2-1799"
+      ]
+    },
+    {
+      "topic": "Meaning in context",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 6,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-meaning-in-context-a1-1805",
+        "coverage-meaning-in-context-a1-1806"
+      ]
+    },
+    {
+      "topic": "Meaning in context",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 15,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-meaning-in-context-a2-1827",
+        "coverage-meaning-in-context-a2-1828",
+        "coverage-meaning-in-context-a2-1829",
+        "coverage-meaning-in-context-a2-1830",
+        "coverage-meaning-in-context-a2-1837"
+      ]
+    },
+    {
+      "topic": "Meaning in context",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 15,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-meaning-in-context-b1-1848",
+        "coverage-meaning-in-context-b1-1856"
+      ]
+    },
+    {
+      "topic": "Meaning in context",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 12,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-meaning-in-context-b2-1865",
+        "coverage-meaning-in-context-b2-1867"
+      ]
+    },
+    {
+      "topic": "Meaning in context",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 16,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-meaning-in-context-c1-1896"
+      ]
+    },
+    {
+      "topic": "Meaning in context",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-meaning-in-context-c2-1909"
+      ]
+    },
+    {
+      "topic": "Modals",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 2,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Modals",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 6,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Modals",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 11,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-modals-b1-1963",
+        "coverage-modals-b1-1974"
+      ]
+    },
+    {
+      "topic": "Modals",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 5,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-modals-b2-1990",
+        "coverage-modals-b2-1996"
+      ]
+    },
+    {
+      "topic": "Modals",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 16,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-modals-c1-2009",
+        "coverage-modals-c1-2019"
+      ]
+    },
+    {
+      "topic": "Modals",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-modals-c2-2021",
+        "coverage-modals-c2-2025",
+        "coverage-modals-c2-2034",
+        "coverage-modals-c2-2037"
+      ]
+    },
+    {
+      "topic": "Nuance",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 17,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-nuance-a1-2041",
+        "coverage-nuance-a1-2047",
+        "coverage-nuance-a1-2052",
+        "coverage-nuance-a1-2054",
+        "coverage-nuance-a1-2056",
+        "coverage-nuance-a1-2060"
+      ]
+    },
+    {
+      "topic": "Nuance",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-nuance-a2-2067",
+        "coverage-nuance-a2-2072"
+      ]
+    },
+    {
+      "topic": "Nuance",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 18,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-nuance-b1-2084",
+        "coverage-nuance-b1-2086",
+        "coverage-nuance-b1-2094",
+        "coverage-nuance-b1-2095"
+      ]
+    },
+    {
+      "topic": "Nuance",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 7,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-nuance-b2-2103",
+        "coverage-nuance-b2-2104",
+        "coverage-nuance-b2-2110",
+        "coverage-nuance-b2-2111",
+        "coverage-nuance-b2-2112",
+        "coverage-nuance-b2-2117",
+        "coverage-nuance-b2-2119"
+      ]
+    },
+    {
+      "topic": "Nuance",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 9,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-nuance-c1-2125",
+        "coverage-nuance-c1-2126",
+        "coverage-nuance-c1-2128",
+        "coverage-nuance-c1-2130",
+        "coverage-nuance-c1-2133",
+        "coverage-nuance-c1-2137",
+        "coverage-nuance-c1-2138",
+        "coverage-nuance-c1-2139",
+        "coverage-nuance-c1-2140"
+      ]
+    },
+    {
+      "topic": "Nuance",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-nuance-c2-2143",
+        "coverage-nuance-c2-2144",
+        "coverage-nuance-c2-2154",
+        "coverage-nuance-c2-2156",
+        "coverage-nuance-c2-2159",
+        "coverage-nuance-c2-2160"
+      ]
+    },
+    {
+      "topic": "Parallel structure",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 3,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Parallel structure",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 8,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-parallel-structure-a2-2183"
+      ]
+    },
+    {
+      "topic": "Parallel structure",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 14,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Parallel structure",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-parallel-structure-b2-2238",
+        "coverage-parallel-structure-b2-2240"
+      ]
+    },
+    {
+      "topic": "Parallel structure",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-parallel-structure-c1-2252",
+        "coverage-parallel-structure-c1-2253",
+        "coverage-parallel-structure-c1-2257"
+      ]
+    },
+    {
+      "topic": "Parallel structure",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-parallel-structure-c2-2269",
+        "coverage-parallel-structure-c2-2270"
+      ]
+    },
+    {
+      "topic": "Passive voice",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 6,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-passive-voice-a1-2285",
+        "coverage-passive-voice-a1-2290",
+        "coverage-passive-voice-a1-2296"
+      ]
+    },
+    {
+      "topic": "Passive voice",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 8,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Passive voice",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 9,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Passive voice",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 17,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-passive-voice-b2-2349",
+        "coverage-passive-voice-b2-2350",
+        "coverage-passive-voice-b2-2356",
+        "coverage-passive-voice-b2-2359",
+        "coverage-passive-voice-b2-2360"
+      ]
+    },
+    {
+      "topic": "Passive voice",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-passive-voice-c1-2364",
+        "coverage-passive-voice-c1-2373",
+        "coverage-passive-voice-c1-2377"
+      ]
+    },
+    {
+      "topic": "Passive voice",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-passive-voice-c2-2381",
+        "coverage-passive-voice-c2-2386",
+        "coverage-passive-voice-c2-2387",
+        "coverage-passive-voice-c2-2388",
+        "coverage-passive-voice-c2-2392",
+        "coverage-passive-voice-c2-2395"
+      ]
+    },
+    {
+      "topic": "Phrasal verbs",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 5,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-phrasal-verbs-a1-2409"
+      ]
+    },
+    {
+      "topic": "Phrasal verbs",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 14,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-phrasal-verbs-a2-2430",
+        "coverage-phrasal-verbs-a2-2436"
+      ]
+    },
+    {
+      "topic": "Phrasal verbs",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 18,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Phrasal verbs",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Phrasal verbs",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-phrasal-verbs-c1-2482",
+        "coverage-phrasal-verbs-c1-2484",
+        "coverage-phrasal-verbs-c1-2485",
+        "coverage-phrasal-verbs-c1-2487",
+        "coverage-phrasal-verbs-c1-2489",
+        "coverage-phrasal-verbs-c1-2493"
+      ]
+    },
+    {
+      "topic": "Phrasal verbs",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-phrasal-verbs-c2-2503",
+        "coverage-phrasal-verbs-c2-2512",
+        "coverage-phrasal-verbs-c2-2514"
+      ]
+    },
+    {
+      "topic": "Prepositions",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "revised": 1,
+        "replaced": 19
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 6,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Prepositions",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "revised": 1,
+        "replaced": 19
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 5,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Prepositions",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 11,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-prepositions-b1-2572",
+        "coverage-prepositions-b1-2580"
+      ]
+    },
+    {
+      "topic": "Prepositions",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 15,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Prepositions",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 18,
+      "longestCorrect": 7,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-prepositions-c1-2601",
+        "coverage-prepositions-c1-2602",
+        "coverage-prepositions-c1-2607",
+        "coverage-prepositions-c1-2612",
+        "coverage-prepositions-c1-2616",
+        "coverage-prepositions-c1-2617",
+        "coverage-prepositions-c1-2620"
+      ]
+    },
+    {
+      "topic": "Prepositions",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-prepositions-c2-2635",
+        "coverage-prepositions-c2-2639"
+      ]
+    },
+    {
+      "topic": "Pronouns and reference",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "revised": 1,
+        "replaced": 19
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 0,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Pronouns and reference",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 4,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Pronouns and reference",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 17,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-pronouns-and-reference-b1-2683",
+        "coverage-pronouns-and-reference-b1-2686",
+        "coverage-pronouns-and-reference-b1-2698"
+      ]
+    },
+    {
+      "topic": "Pronouns and reference",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 18,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-pronouns-and-reference-b2-2711",
+        "coverage-pronouns-and-reference-b2-2719"
+      ]
+    },
+    {
+      "topic": "Pronouns and reference",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 7,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-pronouns-and-reference-c1-2724",
+        "coverage-pronouns-and-reference-c1-2726",
+        "coverage-pronouns-and-reference-c1-2728",
+        "coverage-pronouns-and-reference-c1-2729",
+        "coverage-pronouns-and-reference-c1-2731",
+        "coverage-pronouns-and-reference-c1-2732",
+        "coverage-pronouns-and-reference-c1-2735"
+      ]
+    },
+    {
+      "topic": "Pronouns and reference",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-pronouns-and-reference-c2-2743",
+        "coverage-pronouns-and-reference-c2-2745",
+        "coverage-pronouns-and-reference-c2-2746",
+        "coverage-pronouns-and-reference-c2-2750",
+        "coverage-pronouns-and-reference-c2-2754",
+        "coverage-pronouns-and-reference-c2-2757"
+      ]
+    },
+    {
+      "topic": "Question forms",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 4,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Question forms",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 10,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-question-forms-a2-2788"
+      ]
+    },
+    {
+      "topic": "Question forms",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 13,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-question-forms-b1-2810",
+        "coverage-question-forms-b1-2814",
+        "coverage-question-forms-b1-2820"
+      ]
+    },
+    {
+      "topic": "Question forms",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 17,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-question-forms-b2-2826",
+        "coverage-question-forms-b2-2830",
+        "coverage-question-forms-b2-2837",
+        "coverage-question-forms-b2-2838",
+        "coverage-question-forms-b2-2839",
+        "coverage-question-forms-b2-2840"
+      ]
+    },
+    {
+      "topic": "Question forms",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 10,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-question-forms-c1-2841",
+        "coverage-question-forms-c1-2842",
+        "coverage-question-forms-c1-2845",
+        "coverage-question-forms-c1-2846",
+        "coverage-question-forms-c1-2849",
+        "coverage-question-forms-c1-2851",
+        "coverage-question-forms-c1-2853",
+        "coverage-question-forms-c1-2855",
+        "coverage-question-forms-c1-2858",
+        "coverage-question-forms-c1-2860"
+      ]
+    },
+    {
+      "topic": "Question forms",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-question-forms-c2-2861",
+        "coverage-question-forms-c2-2862",
+        "coverage-question-forms-c2-2864",
+        "coverage-question-forms-c2-2865",
+        "coverage-question-forms-c2-2874"
+      ]
+    },
+    {
+      "topic": "Reduced clauses",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 9,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-reduced-clauses-a1-2881",
+        "coverage-reduced-clauses-a1-2894",
+        "coverage-reduced-clauses-a1-2900"
+      ]
+    },
+    {
+      "topic": "Reduced clauses",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 15,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-reduced-clauses-a2-2902",
+        "coverage-reduced-clauses-a2-2908",
+        "coverage-reduced-clauses-a2-2914",
+        "coverage-reduced-clauses-a2-2917"
+      ]
+    },
+    {
+      "topic": "Reduced clauses",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-reduced-clauses-b1-2926",
+        "coverage-reduced-clauses-b1-2928",
+        "coverage-reduced-clauses-b1-2930",
+        "coverage-reduced-clauses-b1-2931"
+      ]
+    },
+    {
+      "topic": "Reduced clauses",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-reduced-clauses-b2-2945",
+        "coverage-reduced-clauses-b2-2946",
+        "coverage-reduced-clauses-b2-2956"
+      ]
+    },
+    {
+      "topic": "Reduced clauses",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-reduced-clauses-c1-2963",
+        "coverage-reduced-clauses-c1-2969",
+        "coverage-reduced-clauses-c1-2970",
+        "coverage-reduced-clauses-c1-2973",
+        "coverage-reduced-clauses-c1-2975",
+        "coverage-reduced-clauses-c1-2979"
+      ]
+    },
+    {
+      "topic": "Reduced clauses",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 7,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-reduced-clauses-c2-2986",
+        "coverage-reduced-clauses-c2-2988",
+        "coverage-reduced-clauses-c2-2989",
+        "coverage-reduced-clauses-c2-2995",
+        "coverage-reduced-clauses-c2-2996",
+        "coverage-reduced-clauses-c2-2997",
+        "coverage-reduced-clauses-c2-3000"
+      ]
+    },
+    {
+      "topic": "Register",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 1,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-register-a1-3013"
+      ]
+    },
+    {
+      "topic": "Register",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 16,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-register-a2-3031"
+      ]
+    },
+    {
+      "topic": "Register",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 7,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-register-b1-3043",
+        "coverage-register-b1-3044",
+        "coverage-register-b1-3046",
+        "coverage-register-b1-3056",
+        "coverage-register-b1-3057",
+        "coverage-register-b1-3058",
+        "coverage-register-b1-3059"
+      ]
+    },
+    {
+      "topic": "Register",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-register-b2-3062",
+        "coverage-register-b2-3064",
+        "coverage-register-b2-3069",
+        "coverage-register-b2-3079"
+      ]
+    },
+    {
+      "topic": "Register",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-register-c1-3088",
+        "coverage-register-c1-3093"
+      ]
+    },
+    {
+      "topic": "Register",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-register-c2-3104",
+        "coverage-register-c2-3105",
+        "coverage-register-c2-3116",
+        "coverage-register-c2-3117"
+      ]
+    },
+    {
+      "topic": "Relative clauses",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 6,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-relative-clauses-a1-3135"
+      ]
+    },
+    {
+      "topic": "Relative clauses",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 8,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-relative-clauses-a2-3158"
+      ]
+    },
+    {
+      "topic": "Relative clauses",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-relative-clauses-b1-3167"
+      ]
+    },
+    {
+      "topic": "Relative clauses",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-relative-clauses-b2-3185",
+        "coverage-relative-clauses-b2-3194",
+        "coverage-relative-clauses-b2-3199"
+      ]
+    },
+    {
+      "topic": "Relative clauses",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-relative-clauses-c1-3203",
+        "coverage-relative-clauses-c1-3204",
+        "coverage-relative-clauses-c1-3209",
+        "coverage-relative-clauses-c1-3219"
+      ]
+    },
+    {
+      "topic": "Relative clauses",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-relative-clauses-c2-3225",
+        "coverage-relative-clauses-c2-3229",
+        "coverage-relative-clauses-c2-3235",
+        "coverage-relative-clauses-c2-3239",
+        "coverage-relative-clauses-c2-3240"
+      ]
+    },
+    {
+      "topic": "Reported speech",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 7,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-reported-speech-a1-3260"
+      ]
+    },
+    {
+      "topic": "Reported speech",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 5,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Reported speech",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 15,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-reported-speech-b1-3291"
+      ]
+    },
+    {
+      "topic": "Reported speech",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 18,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-reported-speech-b2-3301",
+        "coverage-reported-speech-b2-3302",
+        "coverage-reported-speech-b2-3313",
+        "coverage-reported-speech-b2-3317",
+        "coverage-reported-speech-b2-3318"
+      ]
+    },
+    {
+      "topic": "Reported speech",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-reported-speech-c1-3328",
+        "coverage-reported-speech-c1-3330",
+        "coverage-reported-speech-c1-3331",
+        "coverage-reported-speech-c1-3338"
+      ]
+    },
+    {
+      "topic": "Reported speech",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-reported-speech-c2-3341",
+        "coverage-reported-speech-c2-3344",
+        "coverage-reported-speech-c2-3345",
+        "coverage-reported-speech-c2-3352",
+        "coverage-reported-speech-c2-3353",
+        "coverage-reported-speech-c2-3357"
+      ]
+    },
+    {
+      "topic": "Sentence boundaries",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 13,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-sentence-boundaries-a1-3362",
+        "coverage-sentence-boundaries-a1-3372"
+      ]
+    },
+    {
+      "topic": "Sentence boundaries",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-sentence-boundaries-a2-3391",
+        "coverage-sentence-boundaries-a2-3396"
+      ]
+    },
+    {
+      "topic": "Sentence boundaries",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-sentence-boundaries-b1-3419"
+      ]
+    },
+    {
+      "topic": "Sentence boundaries",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-sentence-boundaries-b2-3430",
+        "coverage-sentence-boundaries-b2-3440"
+      ]
+    },
+    {
+      "topic": "Sentence boundaries",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-sentence-boundaries-c1-3444"
+      ]
+    },
+    {
+      "topic": "Sentence boundaries",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Subject-verb agreement",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 0,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Subject-verb agreement",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 1,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Subject-verb agreement",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 1,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Subject-verb agreement",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 12,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-subject-verb-agreement-b2-3547",
+        "coverage-subject-verb-agreement-b2-3549",
+        "coverage-subject-verb-agreement-b2-3551",
+        "coverage-subject-verb-agreement-b2-3555"
+      ]
+    },
+    {
+      "topic": "Subject-verb agreement",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-subject-verb-agreement-c1-3566",
+        "coverage-subject-verb-agreement-c1-3573",
+        "coverage-subject-verb-agreement-c1-3577",
+        "coverage-subject-verb-agreement-c1-3579"
+      ]
+    },
+    {
+      "topic": "Subject-verb agreement",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-subject-verb-agreement-c2-3586",
+        "coverage-subject-verb-agreement-c2-3588",
+        "coverage-subject-verb-agreement-c2-3591"
+      ]
+    },
+    {
+      "topic": "Subjunctive and unreal forms",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 8,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-subjunctive-and-unreal-forms-a1-3618"
+      ]
+    },
+    {
+      "topic": "Subjunctive and unreal forms",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 9,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-subjunctive-and-unreal-forms-a2-3624",
+        "coverage-subjunctive-and-unreal-forms-a2-3632",
+        "coverage-subjunctive-and-unreal-forms-a2-3639"
+      ]
+    },
+    {
+      "topic": "Subjunctive and unreal forms",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 5,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-subjunctive-and-unreal-forms-b1-3654"
+      ]
+    },
+    {
+      "topic": "Subjunctive and unreal forms",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-subjunctive-and-unreal-forms-b2-3670",
+        "coverage-subjunctive-and-unreal-forms-b2-3671"
+      ]
+    },
+    {
+      "topic": "Subjunctive and unreal forms",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-subjunctive-and-unreal-forms-c1-3687",
+        "coverage-subjunctive-and-unreal-forms-c1-3694"
+      ]
+    },
+    {
+      "topic": "Subjunctive and unreal forms",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-subjunctive-and-unreal-forms-c2-3703",
+        "coverage-subjunctive-and-unreal-forms-c2-3716"
+      ]
+    },
+    {
+      "topic": "Transitions",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 9,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-transitions-a1-3728",
+        "coverage-transitions-a1-3740"
+      ]
+    },
+    {
+      "topic": "Transitions",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 15,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-transitions-a2-3742",
+        "coverage-transitions-a2-3752",
+        "coverage-transitions-a2-3755",
+        "coverage-transitions-a2-3759"
+      ]
+    },
+    {
+      "topic": "Transitions",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 16,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-transitions-b1-3761",
+        "coverage-transitions-b1-3766",
+        "coverage-transitions-b1-3771",
+        "coverage-transitions-b1-3775"
+      ]
+    },
+    {
+      "topic": "Transitions",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 17,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-transitions-b2-3784",
+        "coverage-transitions-b2-3785",
+        "coverage-transitions-b2-3787",
+        "coverage-transitions-b2-3789",
+        "coverage-transitions-b2-3790",
+        "coverage-transitions-b2-3796"
+      ]
+    },
+    {
+      "topic": "Transitions",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-transitions-c1-3801",
+        "coverage-transitions-c1-3803",
+        "coverage-transitions-c1-3805",
+        "coverage-transitions-c1-3812",
+        "coverage-transitions-c1-3813",
+        "coverage-transitions-c1-3816"
+      ]
+    },
+    {
+      "topic": "Transitions",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-transitions-c2-3826",
+        "coverage-transitions-c2-3832",
+        "coverage-transitions-c2-3834",
+        "coverage-transitions-c2-3836"
+      ]
+    },
+    {
+      "topic": "Verb tense",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 1,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Verb tense",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 7,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-verb-tense-a2-3878"
+      ]
+    },
+    {
+      "topic": "Verb tense",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 5,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-verb-tense-b1-3886",
+        "coverage-verb-tense-b1-3896"
+      ]
+    },
+    {
+      "topic": "Verb tense",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 11,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-verb-tense-b2-3910",
+        "coverage-verb-tense-b2-3918",
+        "coverage-verb-tense-b2-3920"
+      ]
+    },
+    {
+      "topic": "Verb tense",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 10,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Verb tense",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Word forms",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "revised": 1,
+        "replaced": 19
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 1,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Word forms",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 19,
+        "revised": 1
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 0,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Word forms",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 1,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    },
+    {
+      "topic": "Word forms",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 14,
+      "longestCorrect": 2,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-word-forms-b2-4023",
+        "coverage-word-forms-b2-4033"
+      ]
+    },
+    {
+      "topic": "Word forms",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 19,
+      "longestCorrect": 3,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-word-forms-c1-4050",
+        "coverage-word-forms-c1-4052",
+        "coverage-word-forms-c1-4057"
+      ]
+    },
+    {
+      "topic": "Word forms",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 1,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-word-forms-c2-4080"
+      ]
+    },
+    {
+      "topic": "Workplace vocabulary",
+      "level": "A1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 17,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-workplace-vocabulary-a1-4081",
+        "coverage-workplace-vocabulary-a1-4082",
+        "coverage-workplace-vocabulary-a1-4090",
+        "coverage-workplace-vocabulary-a1-4098",
+        "coverage-workplace-vocabulary-a1-4099"
+      ]
+    },
+    {
+      "topic": "Workplace vocabulary",
+      "level": "A2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-workplace-vocabulary-a2-4109",
+        "coverage-workplace-vocabulary-a2-4110",
+        "coverage-workplace-vocabulary-a2-4112",
+        "coverage-workplace-vocabulary-a2-4113",
+        "coverage-workplace-vocabulary-a2-4114"
+      ]
+    },
+    {
+      "topic": "Workplace vocabulary",
+      "level": "B1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 5,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-workplace-vocabulary-b1-4124",
+        "coverage-workplace-vocabulary-b1-4125",
+        "coverage-workplace-vocabulary-b1-4127",
+        "coverage-workplace-vocabulary-b1-4128",
+        "coverage-workplace-vocabulary-b1-4140"
+      ]
+    },
+    {
+      "topic": "Workplace vocabulary",
+      "level": "B2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 6,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-workplace-vocabulary-b2-4145",
+        "coverage-workplace-vocabulary-b2-4147",
+        "coverage-workplace-vocabulary-b2-4148",
+        "coverage-workplace-vocabulary-b2-4150",
+        "coverage-workplace-vocabulary-b2-4155",
+        "coverage-workplace-vocabulary-b2-4160"
+      ]
+    },
+    {
+      "topic": "Workplace vocabulary",
+      "level": "C1",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 4,
+      "lengthCueReview": false,
+      "longestCorrectIds": [
+        "coverage-workplace-vocabulary-c1-4173",
+        "coverage-workplace-vocabulary-c1-4174",
+        "coverage-workplace-vocabulary-c1-4177",
+        "coverage-workplace-vocabulary-c1-4178"
+      ]
+    },
+    {
+      "topic": "Workplace vocabulary",
+      "level": "C2",
+      "reviewed": 20,
+      "decisions": {
+        "replaced": 20
+      },
+      "repeatedMicroSkills": [],
+      "sentenceChoiceItems": 20,
+      "longestCorrect": 0,
+      "lengthCueReview": false,
+      "longestCorrectIds": []
+    }
+  ]
+}

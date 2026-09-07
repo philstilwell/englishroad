@@ -6,37 +6,37 @@ This is an AI-assisted editorial review copy. Publication and independent valida
 
 20 of 20 items individually reviewed.
 
-### 1. Indefinite article when naming an occupation
+### 1. Indefinite article and singular number when naming an occupation
 
 ID: `coverage-articles-a1-361`
 
-Choose the words for this introduction.
+You are introducing your job. Choose the grammatically correct sentence.
 
-You meet a new neighbour. Which sentence tells them your job?
+Which sentence is correct?
 
 1. I am nurse.
 2. I am an nurse.
-3. I am a nurse. **[Correct]**
-4. I am the nurse.
+3. I am a nurses.
+4. I am a nurse. **[Correct]**
 
-**Explanation:** "A nurse" names your job. You are introducing yourself as one member of that profession.
+**Explanation:** Use a before the singular job noun nurse: I am a nurse. Nurse begins with the consonant sound /n/.
 
 **Choice feedback:**
 
-- **I am nurse.:** A job such as "nurse" is a singular countable noun. It needs a word such as "a" before it.
-- **I am an nurse.:** "Nurse" begins with the consonant sound /n/, so use "a", not "an".
-- **I am a nurse.:** This introduces your job without assuming that your neighbour already knows about a particular nurse.
-- **I am the nurse.:** This identifies a particular nurse, such as the nurse someone is waiting for. The question asks you to introduce your job.
+- **I am nurse.:** The singular job noun nurse needs a word such as a before it: I am a nurse.
+- **I am an nurse.:** Nurse starts with the consonant sound /n/, so use a, not an.
+- **I am a nurses.:** A needs a singular noun. Use a nurse, not a nurses.
+- **I am a nurse.:** A nurse correctly names one person's job, with a before the singular noun.
 
 **Decision:** replaced.
 
-**Original findings:** Photo item repeated the singular-noun frame and gave no reason for individual errors.
+**Original findings:** Photo item repeated the singular-noun frame and gave no reason for individual errors. Secondary review: telling a new neighbour one's job did not exclude the grammatical definite-role interpretation. The instruction now explicitly requests professional classification without shared-role identification. Further secondary refinement: the explicit reference exclusion imposed excessive metalinguistic processing at A1. Replaced the valid definite-role option with the plausible number error a nurses and changed to a simple grammar-only task.
 
-**Learning value:** Distinguishes telling someone a job from identifying a particular worker.
+**Learning value:** Practises the job expression a nurse while distinguishing a missing article, the wrong sound-based article, and a plural noun after a.
 
-**Level rationale:** A short personal introduction uses an everyday job word and the present form of be.
+**Level rationale:** A simple job introduction tests familiar beginner forms without abstract reference instructions.
 
-**Similarity review:** The only A1 item about an occupation in a first meeting.
+**Similarity review:** The only A1 profession introduction; all three distractors contain actual form errors.
 
 ### 2. An before a vowel sound in a request
 
@@ -46,18 +46,18 @@ Choose the grammatically correct sentence.
 
 Which sentence is correct?
 
-1. Can I borrow an eraser? **[Correct]**
-2. Can I borrow a eraser?
-3. Can I borrow eraser?
+1. Can I borrow a eraser?
+2. Can I borrow eraser?
+3. Can I borrow an eraser? **[Correct]**
 4. Can I borrow an erasers?
 
 **Explanation:** "Eraser" begins with a vowel sound. For one eraser, say "an eraser".
 
 **Choice feedback:**
 
-- **Can I borrow an eraser?:** "An eraser" correctly asks for one countable object beginning with a vowel sound.
 - **Can I borrow a eraser?:** Use "an" before the vowel sound at the start of "eraser".
 - **Can I borrow eraser?:** "Eraser" names one countable object here, so it cannot stand alone without a determiner.
+- **Can I borrow an eraser?:** "An eraser" correctly asks for one countable object beginning with a vowel sound.
 - **Can I borrow an erasers?:** "An" is for one object, but "erasers" is plural. Use "an eraser" or simply "erasers".
 
 **Decision:** revised.
@@ -79,18 +79,18 @@ Choose the words that refer to the door you can both see.
 There is just one door in the room. Please close ___ door.
 
 1. a
-2. an
-3. (nothing)
-4. the **[Correct]**
+2. the **[Correct]**
+3. an
+4. (nothing)
 
 **Explanation:** You can both identify the room's one door. "The door" points to that particular door.
 
 **Choice feedback:**
 
 - **a:** "A door" means one door without identifying which. Here the speaker means the room's already identified door.
+- **the:** "The" refers to the single door already identified in the room.
 - **an:** "Door" starts with /d/, a consonant sound. "An door" is not grammatical.
 - **(nothing):** A singular countable noun such as "door" needs a determiner in this request.
-- **the:** "The" refers to the single door already identified in the room.
 
 **Decision:** revised.
 
@@ -111,18 +111,18 @@ Choose the sentence about water in general.
 Which sentence says what people need every day?
 
 1. People need a water every day.
-2. People need water every day. **[Correct]**
-3. People need an water every day.
-4. People need the water every day.
+2. People need an water every day.
+3. People need the water every day.
+4. People need water every day. **[Correct]**
 
 **Explanation:** "Water" names a substance in general here. We do not put an article before it: "People need water."
 
 **Choice feedback:**
 
 - **People need a water every day.:** "A water" can mean one serving when ordering a drink. This question is about the substance people need, not a serving.
-- **People need water every day.:** No article is needed when "water" means the substance in general.
 - **People need an water every day.:** "An" is not used before the consonant sound /w/. It also does not express water as a substance in general.
 - **People need the water every day.:** "The water" refers to particular water already identified. No such water is meant in this general statement.
+- **People need water every day.:** No article is needed when "water" means the substance in general.
 
 **Decision:** replaced.
 
@@ -174,8 +174,8 @@ You are in your own flat. Choose the usual way to tell a friend where you are.
 
 I'm ___ now. You can call me.
 
-1. at a home
-2. at home **[Correct]**
+1. at home **[Correct]**
+2. at a home
 3. at an home
 4. at the home
 
@@ -183,8 +183,8 @@ I'm ___ now. You can call me.
 
 **Choice feedback:**
 
-- **at a home:** A home introduces one home, often a place that provides care. It is not the usual expression for being in your own flat.
 - **at home:** This is the ordinary expression for being in the place where you live.
+- **at a home:** A home introduces one home, often a place that provides care. It is not the usual expression for being in your own flat.
 - **at an home:** Home begins with a pronounced h, so an is wrong. The expression for your location is at home, with no article.
 - **at the home:** The home points to a particular home already understood, such as a care home. To say you are in your own flat, use at home.
 
@@ -206,18 +206,18 @@ Choose the word for the same bus.
 
 A bus stops beside us. ___ bus is full.
 
-1. The **[Correct]**
-2. A
-3. An
+1. A
+2. An
+3. The **[Correct]**
 4. (nothing)
 
 **Explanation:** The first sentence introduces "a bus". The second refers to that same bus, so it says "the bus".
 
 **Choice feedback:**
 
-- **The:** "The bus" takes the reader back to the bus that has just stopped.
 - **A:** "A bus" would introduce a bus without clearly linking it to the one in the first sentence.
 - **An:** "Bus" begins with a consonant sound, so "an bus" is not possible.
+- **The:** "The bus" takes the reader back to the bus that has just stopped.
 - **(nothing):** "Bus" is singular and countable; it cannot be used without a determiner here.
 
 **Decision:** revised.
@@ -238,18 +238,18 @@ Choose the sentence about a general liking.
 
 You like cats of all kinds. What do you say?
 
-1. I like a cats.
-2. I like an cats.
-3. I like cats. **[Correct]**
+1. I like cats. **[Correct]**
+2. I like a cats.
+3. I like an cats.
 4. I like the cats.
 
 **Explanation:** A plural noun with no article can mean the whole kind: "I like cats" means cats in general.
 
 **Choice feedback:**
 
+- **I like cats.:** The plural "cats" without an article expresses the general liking described.
 - **I like a cats.:** "A" goes with a singular countable noun, not the plural "cats".
 - **I like an cats.:** "An" cannot introduce a plural noun. It also does not match the initial consonant sound in "cats".
-- **I like cats.:** The plural "cats" without an article expresses the general liking described.
 - **I like the cats.:** This means a particular group of cats that speaker and listener can identify, not cats of all kinds.
 
 **Decision:** replaced.
@@ -271,8 +271,8 @@ Choose the grammatically correct sentence.
 Which sentence is correct?
 
 1. We have an small kitchen.
-2. We have a small kitchen. **[Correct]**
-3. We have small kitchen.
+2. We have small kitchen.
+3. We have a small kitchen. **[Correct]**
 4. We have a small kitchens.
 
 **Explanation:** Put the article before the adjective: "a small kitchen". "Small" begins with a consonant sound.
@@ -280,8 +280,8 @@ Which sentence is correct?
 **Choice feedback:**
 
 - **We have an small kitchen.:** Choose the article using the next sound, which is /s/ in "small". It needs "a".
-- **We have a small kitchen.:** "A" comes before "small" and introduces the one kitchen.
 - **We have small kitchen.:** An adjective does not remove the need for an article before the singular noun "kitchen".
+- **We have a small kitchen.:** "A" comes before "small" and introduces the one kitchen.
 - **We have a small kitchens.:** "A" introduces one kitchen; "kitchens" is plural and cannot follow it.
 
 **Decision:** replaced.
@@ -330,27 +330,27 @@ Which sentence is correct?
 
 ID: `coverage-articles-a1-371`
 
-Choose the word for the marked item.
+Refer to the particular blue cup both people can identify, not just any blue cup.
 
 There are three cups. Only one is blue. Please use ___ blue cup.
 
 1. an
 2. (nothing)
-3. the **[Correct]**
-4. a
+3. a
+4. the **[Correct]**
 
 **Explanation:** The colour identifies one cup among the three. "The blue cup" tells the listener exactly which cup to use.
 
 **Choice feedback:**
 
-- **an:** "Blue" starts with a consonant sound, so "an blue cup" is not grammatical.
-- **(nothing):** The singular noun "cup" still needs a determiner even when an adjective comes before it.
-- **the:** There is exactly one blue cup, so "the" identifies it among the three cups.
-- **a:** "A blue cup" does not mark the already identified unique blue cup as clearly as the definite phrase requested.
+- **an:** 'Blue' starts with a consonant sound, so 'an blue cup' is not grammatical.
+- **(nothing):** The singular noun 'cup' still needs a determiner even when an adjective comes before it.
+- **a:** 'A blue cup' is grammatical and might lead to the same choice here. It does not explicitly present the cup as already identifiable, as this instruction requires.
+- **the:** The definite article presents the blue cup as the particular cup both people can identify.
 
 **Decision:** replaced.
 
-**Original findings:** Pencil-on-desk item relied on unstated shared knowledge.
+**Original findings:** Pencil-on-desk item relied on unstated shared knowledge. Secondary review: a blue cup remained grammatical and practically sufficient in the one-blue-cup setting. The task now explicitly requires identifiable reference rather than treating the preferred article as a grammatical necessity.
 
 **Learning value:** Shows how a description can identify a particular object.
 
@@ -430,8 +430,8 @@ Choose the grammatically correct sentence.
 
 Which sentence is correct?
 
-1. This is a old photo of me.
-2. This is an old photo of me. **[Correct]**
+1. This is an old photo of me. **[Correct]**
+2. This is a old photo of me.
 3. This is old photo of me.
 4. This is an old photos of me.
 
@@ -439,8 +439,8 @@ Which sentence is correct?
 
 **Choice feedback:**
 
-- **This is a old photo of me.:** Use the first sound of "old", not the first sound of "photo", to choose the article.
 - **This is an old photo of me.:** "An" correctly comes before the vowel sound in "old" and introduces one photo.
+- **This is a old photo of me.:** Use the first sound of "old", not the first sound of "photo", to choose the article.
 - **This is old photo of me.:** "Old" describes the photo but cannot replace the article needed with this singular noun.
 - **This is an old photos of me.:** "An" is singular; it cannot be followed by the plural noun "photos".
 
@@ -463,8 +463,8 @@ Choose the grammatically correct sentence.
 Which sentence is correct?
 
 1. Sun is very bright today.
-2. An sun is very bright today.
-3. The sun is very bright today. **[Correct]**
+2. The sun is very bright today. **[Correct]**
+3. An sun is very bright today.
 4. The a sun is very bright today.
 
 **Explanation:** When we talk about the sun in our sky, we normally say "the sun" because we can identify which sun we mean.
@@ -472,8 +472,8 @@ Which sentence is correct?
 **Choice feedback:**
 
 - **Sun is very bright today.:** In an ordinary full sentence about our sky, the noun phrase is "the sun", with an article.
-- **An sun is very bright today.:** "Sun" starts with /s/, so "an sun" is not grammatical.
 - **The sun is very bright today.:** "The sun" is the usual way to name the familiar sun in our sky.
+- **An sun is very bright today.:** "Sun" starts with /s/, so "an sun" is not grammatical.
 - **The a sun is very bright today.:** Do not put "the" and "a" together before the same noun.
 
 **Decision:** replaced.
@@ -496,8 +496,8 @@ Which sentence uses the city name correctly?
 
 1. I live in a Tokyo.
 2. I live in the Tokyo.
-3. I live in an Tokyo.
-4. I live in Tokyo. **[Correct]**
+3. I live in Tokyo. **[Correct]**
+4. I live in an Tokyo.
 
 **Explanation:** The city name "Tokyo" normally stands alone. Do not add an article when you simply say where you live.
 
@@ -505,8 +505,8 @@ Which sentence uses the city name correctly?
 
 - **I live in a Tokyo.:** "A Tokyo" is not the usual name of this city in a simple address statement.
 - **I live in the Tokyo.:** The city name does not normally take "the" on its own. Say "in Tokyo".
-- **I live in an Tokyo.:** "An" does not belong before this city name and does not match its initial consonant sound.
 - **I live in Tokyo.:** The proper name "Tokyo" identifies the city without an article.
+- **I live in an Tokyo.:** "An" does not belong before this city name and does not match its initial consonant sound.
 
 **Decision:** replaced.
 
@@ -526,8 +526,8 @@ Choose the grammatically correct sentence.
 
 Which sentence is correct?
 
-1. I have a brother and two sisters. **[Correct]**
-2. I have brother and two sisters.
+1. I have brother and two sisters.
+2. I have a brother and two sisters. **[Correct]**
 3. I have an brother and two sisters.
 4. I have a brother and a two sisters.
 
@@ -535,8 +535,8 @@ Which sentence is correct?
 
 **Choice feedback:**
 
-- **I have a brother and two sisters.:** This uses "a" for one brother and a number without an article for the sisters.
 - **I have brother and two sisters.:** The singular countable noun "brother" needs a determiner such as "a".
+- **I have a brother and two sisters.:** This uses "a" for one brother and a number without an article for the sisters.
 - **I have an brother and two sisters.:** "Brother" begins with the consonant sound /b/, so use "a".
 - **I have a brother and a two sisters.:** The singular article "a" cannot introduce the plural number phrase "two sisters".
 
@@ -559,8 +559,8 @@ Choose the usual sentence for introducing yourself.
 Your name is Ana. What do you say?
 
 1. My name is an Ana.
-2. My name is Ana. **[Correct]**
-3. My name Ana.
+2. My name Ana.
+3. My name is Ana. **[Correct]**
 4. My a name is Ana.
 
 **Explanation:** Use a person's ordinary name without an article: "My name is Ana." A vowel at the start of a name does not mean it needs "an".
@@ -568,8 +568,8 @@ Your name is Ana. What do you say?
 **Choice feedback:**
 
 - **My name is an Ana.:** A name does not need an just because it begins with a vowel. In this introduction, say Ana on its own.
-- **My name is Ana.:** The sentence has the verb is and uses the personal name without an article.
 - **My name Ana.:** A complete statement needs the verb is between my name and Ana. An article cannot replace that verb.
+- **My name is Ana.:** The sentence has the verb is and uses the personal name without an article.
 - **My a name is Ana.:** My already identifies whose name you mean. Do not add a between my and name.
 
 **Decision:** replaced.
@@ -591,8 +591,8 @@ Choose the word used with this position.
 Our lesson is on ___ first floor, not the second floor.
 
 1. a
-2. an
-3. the **[Correct]**
+2. the **[Correct]**
+3. an
 4. (nothing)
 
 **Explanation:** Use "the" with the numbered position "first" here: "the first floor", just as we say "the second floor".
@@ -600,8 +600,8 @@ Our lesson is on ___ first floor, not the second floor.
 **Choice feedback:**
 
 - **a:** "A first floor" can introduce one in a different description, but this sentence identifies the floor by its position in this building.
-- **an:** "First" begins with a consonant sound, so "an first floor" is not grammatical.
 - **the:** "The first floor" identifies a specific floor by its position.
+- **an:** "First" begins with a consonant sound, so "an first floor" is not grammatical.
 - **(nothing):** In this ordinary sentence, the position phrase is "on the first floor", with "the".
 
 **Decision:** replaced.
@@ -659,18 +659,18 @@ Choose the words that keep talking about the same car.
 I bought a used car yesterday. ___ car needs two new tyres.
 
 1. An
-2. The **[Correct]**
-3. A
-4. (nothing)
+2. A
+3. (nothing)
+4. The **[Correct]**
 
 **Explanation:** "The car" refers back to the used car just introduced. Repeating "a car" would not clearly maintain that reference.
 
 **Choice feedback:**
 
 - **An:** "Car" begins with /k/, so "an car" is incorrect.
-- **The:** The reader already knows which car is being discussed: the one bought yesterday.
 - **A:** This would introduce a car without explicitly linking it to the previous sentence. The task asks you to maintain the same reference.
 - **(nothing):** The singular noun "car" needs a determiner; it cannot start this sentence alone.
+- **The:** The reader already knows which car is being discussed: the one bought yesterday.
 
 **Decision:** revised.
 
@@ -691,18 +691,18 @@ Choose the grammatically correct phrase.
 My new position begins tomorrow. The company has sent me ___ about my first day.
 
 1. an information
-2. a piece of information **[Correct]**
-3. an piece of information
-4. a piece of informations
+2. an piece of information
+3. a piece of informations
+4. a piece of information **[Correct]**
 
 **Explanation:** "Information" is uncountable. To refer to one detail, use the countable phrase "a piece of information".
 
 **Choice feedback:**
 
 - **an information:** English does not normally count information as "an information". Count a piece or an item of information instead.
-- **a piece of information:** "A" introduces the singular countable noun "piece", while "information" stays uncountable.
 - **an piece of information:** "Piece" starts with /p/, so the article must be "a".
 - **a piece of informations:** The uncountable noun stays "information" after "a piece of"; it does not take plural -s.
+- **a piece of information:** "A" introduces the singular countable noun "piece", while "information" stays uncountable.
 
 **Decision:** replaced.
 
@@ -756,8 +756,8 @@ Which sentence uses the day name correctly?
 
 1. We have training every the Monday.
 2. We have training on a Mondays.
-3. We have training on an Mondays.
-4. We have training on Mondays. **[Correct]**
+3. We have training on Mondays. **[Correct]**
+4. We have training on an Mondays.
 
 **Explanation:** "On Mondays" means regularly on that day of the week. The plural day name does not take an article in this expression.
 
@@ -765,8 +765,8 @@ Which sentence uses the day name correctly?
 
 - **We have training every the Monday.:** Do not combine "every" with "the" here. You can say "every Monday".
 - **We have training on a Mondays.:** The singular article "a" cannot introduce the plural day name "Mondays".
-- **We have training on an Mondays.:** "An" is singular and does not match either the plural form or the initial consonant sound.
 - **We have training on Mondays.:** The plural day name without an article expresses the repeated weekly event.
+- **We have training on an Mondays.:** "An" is singular and does not match either the plural form or the initial consonant sound.
 
 **Decision:** replaced.
 
@@ -786,8 +786,8 @@ Choose the grammatically correct phrase.
 
 This isn't a language school. It's ___.
 
-1. an university
-2. a university **[Correct]**
+1. a university **[Correct]**
+2. an university
 3. university
 4. a universities
 
@@ -795,8 +795,8 @@ This isn't a language school. It's ___.
 
 **Choice feedback:**
 
-- **an university:** The initial sound is /y/, not a vowel sound. Write "a university".
 - **a university:** "A" agrees with the initial sound and introduces one institution of this kind.
+- **an university:** The initial sound is /y/, not a vowel sound. Write "a university".
 - **university:** When classifying this institution after "It is", the singular noun needs a determiner.
 - **a universities:** "A" means one; it cannot be followed by the plural "universities".
 
@@ -820,8 +820,8 @@ At the tourist office: 'We're looking for ___ near the beach.'
 
 1. the small hotel
 2. another small hotel
-3. a small hotel **[Correct]**
-4. that small hotel
+3. that small hotel
+4. a small hotel **[Correct]**
 
 **Explanation:** A small hotel describes one place of the kind the travellers want. They can use a before they have found or chosen that place.
 
@@ -829,8 +829,8 @@ At the tourist office: 'We're looking for ___ near the beach.'
 
 - **the small hotel:** The suggests that the listener can identify which hotel is meant. The travellers are introducing the kind they want.
 - **another small hotel:** Another asks for a different or additional hotel. That adds a comparison with a hotel not mentioned in this request.
-- **a small hotel:** This introduces one hotel of the desired kind without identifying it in advance.
 - **that small hotel:** That points to a particular hotel, perhaps one already discussed. No such hotel has been identified here.
+- **a small hotel:** This introduces one hotel of the desired kind without identifying it in advance.
 
 **Decision:** replaced.
 
@@ -850,8 +850,8 @@ Choose the usual phrase naming the means of travel.
 
 Flights are expensive, so we're going to Paris ___.
 
-1. by train **[Correct]**
-2. by a train
+1. by a train
+2. by train **[Correct]**
 3. by an train
 4. by the train
 
@@ -859,8 +859,8 @@ Flights are expensive, so we're going to Paris ___.
 
 **Choice feedback:**
 
-- **by train:** This names the travel method using the standard by + transport expression.
 - **by a train:** A train counts one vehicle. The usual expression naming this means of travel is by train, without an article.
+- **by train:** This names the travel method using the standard by + transport expression.
 - **by an train:** An cannot come before the consonant sound at the start of train. The method expression also needs no article.
 - **by the train:** The train identifies a particular vehicle. That can occur in other contexts, but the ordinary phrase for the travel method alone is by train.
 
@@ -882,8 +882,8 @@ Choose the grammatically correct phrase.
 
 The repair took exactly sixty minutes: ___.
 
-1. a hour
-2. an hour **[Correct]**
+1. an hour **[Correct]**
+2. a hour
 3. an hours
 4. hour
 
@@ -891,8 +891,8 @@ The repair took exactly sixty minutes: ___.
 
 **Choice feedback:**
 
-- **a hour:** The first spoken sound in "hour" is a vowel, so "a" must become "an".
 - **an hour:** The article follows the sound, not the silent written h.
+- **a hour:** The first spoken sound in "hour" is a vowel, so "a" must become "an".
 - **an hours:** "An" introduces one unit; "hours" is plural.
 - **hour:** To name one countable period here, include the article: "an hour".
 
@@ -914,18 +914,18 @@ Choose the phrase for all the details printed on this ticket.
 
 Check ___ before you travel.
 
-1. an information on your ticket
-2. a information on your ticket
-3. the information on your ticket **[Correct]**
+1. the information on your ticket **[Correct]**
+2. an information on your ticket
+3. a information on your ticket
 4. the informations on your ticket
 
 **Explanation:** "On your ticket" identifies the information to check. Although "information" is uncountable, it can take "the" when it refers to specific details.
 
 **Choice feedback:**
 
+- **the information on your ticket:** "The" identifies the particular set of details printed on the ticket.
 - **an information on your ticket:** "Information" is uncountable; "an information" is not a standard singular unit.
 - **a information on your ticket:** The uncountable noun does not take "a", and the following sound is a vowel as well.
-- **the information on your ticket:** "The" identifies the particular set of details printed on the ticket.
 - **the informations on your ticket:** "Information" does not normally have a plural -s form in English.
 
 **Decision:** revised.
@@ -946,19 +946,19 @@ Choose the words for this country name.
 
 My sister lives in ___ United States.
 
-1. a
-2. an
-3. (nothing)
-4. the **[Correct]**
+1. the **[Correct]**
+2. a
+3. an
+4. (nothing)
 
 **Explanation:** The conventional country name is "the United States". Some multiword country names use "the", even though names such as Japan do not.
 
 **Choice feedback:**
 
+- **the:** "The United States" is the established form of this country name.
 - **a:** "A United States" does not name the country in this ordinary location sentence.
 - **an:** The name does not take "an"; "United" also starts with a consonant sound.
 - **(nothing):** The country name normally includes "the" in a full sentence: "in the United States".
-- **the:** "The United States" is the established form of this country name.
 
 **Decision:** replaced.
 
@@ -979,8 +979,8 @@ Choose the grammatically correct phrase.
 The map has bus routes and opening times. What ___!
 
 1. an useful guide
-2. useful guide
-3. a useful guide **[Correct]**
+2. a useful guide **[Correct]**
+3. useful guide
 4. a useful guides
 
 **Explanation:** The exclamation is "What a useful guide!". "Useful" begins with the consonant sound /y/, so it takes "a".
@@ -988,8 +988,8 @@ The map has bus routes and opening times. What ___!
 **Choice feedback:**
 
 - **an useful guide:** The written u in "useful" represents a /y/ sound at the start. Use "a".
-- **useful guide:** A singular countable noun in this exclamation needs an article: "What a useful guide!".
 - **a useful guide:** This puts "a" before the adjective and uses the correct sound-based choice.
+- **useful guide:** A singular countable noun in this exclamation needs an article: "What a useful guide!".
 - **a useful guides:** "A" cannot introduce the plural "guides" in this exclamation.
 
 **Decision:** revised.
@@ -1011,8 +1011,8 @@ Choose the grammatically correct phrase.
 At the cafe: "Two coffees, please: ___ and a cappuccino."
 
 1. a espresso
-2. an espresso **[Correct]**
-3. an espressos
+2. an espressos
+3. an espresso **[Correct]**
 4. a espressos
 
 **Explanation:** A drink name can be countable when it means one serving. "An espresso" is one serving, and "espresso" begins with a vowel sound.
@@ -1020,8 +1020,8 @@ At the cafe: "Two coffees, please: ___ and a cappuccino."
 **Choice feedback:**
 
 - **a espresso:** For this vowel sound, the singular article is "an".
-- **an espresso:** This correctly names one serving of espresso within the two-drink order.
 - **an espressos:** "An" is singular, whereas "espressos" is plural.
+- **an espresso:** This correctly names one serving of espresso within the two-drink order.
 - **a espressos:** "A" cannot introduce plural "espressos" and does not match the initial vowel sound.
 
 **Decision:** replaced.
@@ -1042,19 +1042,19 @@ Choose the grammatically correct phrase.
 
 Both bags look blue to me. Are they ___ colour?
 
-1. a same
-2. an same
-3. same
-4. the same **[Correct]**
+1. the same **[Correct]**
+2. a same
+3. an same
+4. same
 
 **Explanation:** The normal expression is "the same colour". English uses "the" with "same" in this comparison.
 
 **Choice feedback:**
 
+- **the same:** "The same colour" asks whether the colours match.
 - **a same:** Do not use "a same" in this expression; say "the same".
 - **an same:** "An same" is not the expression and also mismatches the /s/ sound.
 - **same:** In this full question, include "the": "Are they the same colour?".
-- **the same:** "The same colour" asks whether the colours match.
 
 **Decision:** replaced.
 
@@ -1074,8 +1074,8 @@ Choose the ordinary way to name the sport.
 
 After work, we usually play ___ with our neighbours.
 
-1. tennis **[Correct]**
-2. a tennis
+1. a tennis
+2. tennis **[Correct]**
 3. an tennis
 4. the tennis
 
@@ -1083,8 +1083,8 @@ After work, we usually play ___ with our neighbours.
 
 **Choice feedback:**
 
-- **tennis:** "Play tennis" is the standard phrase for taking part in this sport.
 - **a tennis:** "Tennis" does not count a single match. You could say "a game of tennis".
+- **tennis:** "Play tennis" is the standard phrase for taking part in this sport.
 - **an tennis:** "An" neither fits the initial consonant sound nor belongs before this sport name here.
 - **the tennis:** The usual activity phrase is "play tennis". "The tennis" can refer to a particular competition in other constructions.
 
@@ -1108,8 +1108,8 @@ We usually eat toast, but yesterday the hotel served us ___.
 
 1. an big breakfast
 2. big breakfast
-3. a big breakfast **[Correct]**
-4. a big breakfasts
+3. a big breakfasts
+4. a big breakfast **[Correct]**
 
 **Explanation:** An ordinary meal name can become countable when we describe one particular meal: "a big breakfast".
 
@@ -1117,8 +1117,8 @@ We usually eat toast, but yesterday the hotel served us ___.
 
 - **an big breakfast:** "Big" begins with /b/, so the article is "a".
 - **big breakfast:** The phrase describes one meal with an adjective; it needs a determiner such as "a" here.
-- **a big breakfast:** "A" introduces one breakfast described as big, rather than the routine activity of eating breakfast.
 - **a big breakfasts:** "A" introduces one meal and cannot be followed by plural "breakfasts".
+- **a big breakfast:** "A" introduces one breakfast described as big, rather than the routine activity of eating breakfast.
 
 **Decision:** replaced.
 
@@ -1171,18 +1171,18 @@ Choose the phrase that identifies the lowest-priced flat out of all three.
 We saw three flats at different prices. We chose ___.
 
 1. a cheap flat
-2. another cheap flat
-3. the cheaper flat
-4. the cheapest flat **[Correct]**
+2. the cheapest flat **[Correct]**
+3. another cheap flat
+4. the cheaper flat
 
 **Explanation:** The cheapest flat identifies the one with the lowest price in the group of three. A cheap flat only says that its price is low; it does not rank it against the other two.
 
 **Choice feedback:**
 
 - **a cheap flat:** This describes a flat as low-priced. It does not say it costs less than both of the others.
+- **the cheapest flat:** The + cheapest + flat identifies the lowest-priced member of this group.
 - **another cheap flat:** Another introduces a different or additional low-priced flat, not the lowest-priced one in the stated group.
 - **the cheaper flat:** Cheaper makes a comparison, normally between two alternatives. It does not explicitly identify the lowest price out of all three as cheapest does.
-- **the cheapest flat:** The + cheapest + flat identifies the lowest-priced member of this group.
 
 **Decision:** replaced.
 
@@ -1202,18 +1202,18 @@ Choose the grammatically correct sentence.
 
 Which sentence is correct?
 
-1. My brother gave me some useful advice. **[Correct]**
-2. My brother gave me an useful advice.
-3. My brother gave me a useful advice.
+1. My brother gave me an useful advice.
+2. My brother gave me a useful advice.
+3. My brother gave me some useful advice. **[Correct]**
 4. My brother gave me some useful advices.
 
 **Explanation:** "Advice" is uncountable, so "some useful advice" works without a or an. An adjective does not make advice countable.
 
 **Choice feedback:**
 
-- **My brother gave me some useful advice.:** "Some" can introduce an unspecified amount of the uncountable noun "advice".
 - **My brother gave me an useful advice.:** "Advice" cannot be introduced by "an" here, and "useful" begins with a consonant sound.
 - **My brother gave me a useful advice.:** An adjective does not turn "advice" into a singular countable noun. Say "some useful advice" or "a useful piece of advice".
+- **My brother gave me some useful advice.:** "Some" can introduce an unspecified amount of the uncountable noun "advice".
 - **My brother gave me some useful advices.:** The noun remains "advice", without plural -s, in standard English.
 
 **Decision:** revised.
@@ -1235,8 +1235,8 @@ Choose the grammatically correct phrase.
 I take this medicine twice ___: once in the morning and once at night.
 
 1. an day
-2. a day **[Correct]**
-3. a days
+2. a days
+3. a day **[Correct]**
 4. day
 
 **Explanation:** "Twice a day" means two times each day. Here "a" expresses a repeated rate, not an unidentified calendar day.
@@ -1244,8 +1244,8 @@ I take this medicine twice ___: once in the morning and once at night.
 **Choice feedback:**
 
 - **an day:** "Day" begins with /d/, so it cannot follow "an".
-- **a day:** "A day" expresses the daily frequency and matches the two times specified.
 - **a days:** The article "a" takes the singular unit "day", not plural "days".
+- **a day:** "A day" expresses the daily frequency and matches the two times specified.
 - **day:** The frequency expression requires "a day" or "per day" after "twice".
 
 **Decision:** replaced.
@@ -1268,8 +1268,8 @@ The shop assistant offers two sizes: 'Would you like ___?'
 
 1. small or large bag
 2. an small or an large bag
-3. a small or a large bag **[Correct]**
-4. a small or a large bags
+3. a small or a large bags
+4. a small or a large bag **[Correct]**
 
 **Explanation:** A small or a large bag offers two possible sizes of one bag. Repeating a before large is correct; a small or large bag, with one shared article, is also possible.
 
@@ -1277,8 +1277,8 @@ The shop assistant offers two sizes: 'Would you like ___?'
 
 - **small or large bag:** The singular noun "bag" needs a determiner in this full question, even when two adjectives are offered.
 - **an small or an large bag:** Both "small" and "large" begin with consonant sounds, so neither can follow "an".
-- **a small or a large bag:** Both alternatives correctly introduce a possible singular bag with "a".
 - **a small or a large bags:** The article "a" cannot introduce the plural noun "bags".
+- **a small or a large bag:** Both alternatives correctly introduce a possible singular bag with "a".
 
 **Decision:** replaced.
 
@@ -1336,8 +1336,8 @@ The old recipe is difficult to follow. Could you draw ___ showing when to add ea
 
 1. an clearer diagram
 2. clearer diagram
-3. a clearer diagram **[Correct]**
-4. a clearer diagrams
+3. a clearer diagrams
+4. a clearer diagram **[Correct]**
 
 **Explanation:** Diagram is a singular countable noun here, and clearer describes it. The article comes before the adjective: a clearer diagram. Unlike explanation, diagram does not have an ordinary uncountable reading in this request.
 
@@ -1345,8 +1345,8 @@ The old recipe is difficult to follow. Could you draw ___ showing when to add ea
 
 - **an clearer diagram:** The next sound is /k/ in clearer, so the article is a, not an.
 - **clearer diagram:** The singular count noun diagram needs a determiner; the comparative adjective does not replace one.
-- **a clearer diagram:** This asks for one diagram whose presentation is clearer than the recipe's current instructions.
 - **a clearer diagrams:** A introduces one item, so use singular diagram rather than diagrams.
+- **a clearer diagram:** This asks for one diagram whose presentation is clearer than the recipe's current instructions.
 
 **Decision:** revised.
 
@@ -1398,19 +1398,19 @@ Choose the phrase for the roof belonging to the rented house.
 
 We rented a house beside the lake, but ___ leaks whenever it rains.
 
-1. the roof **[Correct]**
-2. a roof
-3. another roof
-4. one of the roofs
+1. a roof
+2. another roof
+3. one of the roofs
+4. the roof **[Correct]**
 
 **Explanation:** The house has introduced an associated roof even though the word "roof" is new. "The roof" means the roof of that house.
 
 **Choice feedback:**
 
-- **the roof:** The house makes its associated roof identifiable. A noun can take the on its first literal mention when that relationship supplies the reference.
 - **a roof:** This introduces a roof without identifying it through the rented house. The task asks for the roof associated with that house.
 - **another roof:** Another introduces an additional or different roof rather than simply identifying the rented house's roof.
 - **one of the roofs:** This assumes an established set of several roofs and selects one from it. No such set is supplied.
+- **the roof:** The house makes its associated roof identifiable. A noun can take the on its first literal mention when that relationship supplies the reference.
 
 **Decision:** replaced.
 
@@ -1432,8 +1432,8 @@ The detective cannot solve the case on a guess. She needs ___.
 
 1. an evidence
 2. a convincing evidence
-3. a pieces of evidence
-4. convincing evidence **[Correct]**
+3. convincing evidence **[Correct]**
+4. a pieces of evidence
 
 **Explanation:** "Evidence" is uncountable in this meaning. Say "convincing evidence", or use a unit such as "a piece of evidence".
 
@@ -1441,8 +1441,8 @@ The detective cannot solve the case on a guess. She needs ___.
 
 - **an evidence:** English does not normally count a clue as "an evidence"; it can be a piece of evidence.
 - **a convincing evidence:** Adding an adjective does not make "evidence" a singular countable noun.
-- **a pieces of evidence:** The article "a" needs singular "piece", not plural "pieces".
 - **convincing evidence:** This correctly uses the uncountable noun without an indefinite article.
+- **a pieces of evidence:** The article "a" needs singular "piece", not plural "pieces".
 
 **Decision:** revised.
 
@@ -1494,8 +1494,8 @@ Choose the grammatically correct phrase in standard written English.
 
 My passport arrived just before the trip. It was ___ to stop worrying about it.
 
-1. such a relief **[Correct]**
-2. a such relief
+1. a such relief
+2. such a relief **[Correct]**
 3. such the relief
 4. so a relief
 
@@ -1503,8 +1503,8 @@ My passport arrived just before the trip. It was ___ to stop worrying about it.
 
 **Choice feedback:**
 
-- **such a relief:** The order is such + a + relief, presenting the news as an instance of relief and intensifying the reaction.
 - **a such relief:** Place such before the indefinite article in this construction: such a relief.
+- **such a relief:** The order is such + a + relief, presenting the news as an instance of relief and intensifying the reaction.
 - **such the relief:** The standard intensifying construction here uses such a relief, not such followed by the definite article.
 - **so a relief:** So does not directly introduce a noun phrase in this order. Use such a relief or an adjective phrase such as so relieved.
 
@@ -1558,19 +1558,19 @@ Choose the expression for the already identified train.
 
 My ticket says 8:15, platform four. I'll meet you on ___ from Brighton.
 
-1. an 8:15 train
-2. 8:15 train
-3. these 8:15 train
-4. the 8:15 train **[Correct]**
+1. the 8:15 train **[Correct]**
+2. an 8:15 train
+3. 8:15 train
+4. these 8:15 train
 
 **Explanation:** The departure time identifies the booked service. "The 8:15 train" refers to that particular train, rather than naming travel by train in general.
 
 **Choice feedback:**
 
+- **the 8:15 train:** The time and ticket establish the particular service being referenced.
 - **an 8:15 train:** This can introduce an unspecified service leaving at that time, but the prompt asks for the train already identified by the ticket.
 - **8:15 train:** The singular countable noun phrase needs a determiner here.
 - **these 8:15 train:** "These" is plural, while the ticket identifies one train.
-- **the 8:15 train:** The time and ticket establish the particular service being referenced.
 
 **Decision:** replaced.
 
@@ -1591,8 +1591,8 @@ Choose the grammatically correct phrase in standard British English.
 Both families need a place to live. The charity helps people find ___ .
 
 1. an accommodation
-2. a suitable accommodation
-3. suitable accommodation **[Correct]**
+2. suitable accommodation **[Correct]**
+3. a suitable accommodation
 4. a suitable accommodations
 
 **Explanation:** In the housing sense used here, standard British English treats "accommodation" as uncountable: "suitable accommodation". American English also uses plural "accommodations", but none of the offered indefinite-article forms fits.
@@ -1600,8 +1600,8 @@ Both families need a place to live. The charity helps people find ___ .
 **Choice feedback:**
 
 - **an accommodation:** For somewhere to live in this usage, use uncountable "accommodation"; count "a room" or "a flat" instead.
-- **a suitable accommodation:** The housing noun is uncountable in this reading. Other meanings of "an accommodation", such as an adjustment or compromise, are different.
 - **suitable accommodation:** This describes housing without trying to count it as one accommodation.
+- **a suitable accommodation:** The housing noun is uncountable in this reading. Other meanings of "an accommodation", such as an adjustment or compromise, are different.
 - **a suitable accommodations:** The singular article "a" cannot introduce plural "accommodations", even in varieties that use that plural for lodging.
 
 **Decision:** replaced.
@@ -1655,8 +1655,8 @@ Choose the meaning of the article phrase.
 "Before the meeting, I read a paper about local water use." What does "a paper" most naturally mean here?
 
 1. Paper as a material for printing
-2. One written article or study **[Correct]**
-3. All the documents required for the meeting
+2. All the documents required for the meeting
+3. One written article or study **[Correct]**
 4. A quantity of blank sheets
 
 **Explanation:** With "a" and a topic introduced by "about", "paper" means a countable piece of writing. Article-free "paper" can name the material instead.
@@ -1664,8 +1664,8 @@ Choose the meaning of the article phrase.
 **Choice feedback:**
 
 - **Paper as a material for printing:** The article and the action of reading a work about a subject support the countable written-work meaning.
-- **One written article or study:** The phrase names one work of writing on the specified subject.
 - **All the documents required for the meeting:** "A paper" is singular and does not mean the entire set of documents.
+- **One written article or study:** The phrase names one work of writing on the specified subject.
 - **A quantity of blank sheets:** Blank sheets would not be read for information about water use.
 
 **Decision:** replaced.
@@ -1687,18 +1687,18 @@ Choose the phrase identifying the remaining key.
 There were two keys. I have one; do you have ___?
 
 1. another key
-2. the other key **[Correct]**
-3. an other key
-4. other key
+2. an other key
+3. other key
+4. the other key **[Correct]**
 
 **Explanation:** Only two keys are in the stated set. Once one is identified, "the other key" identifies the single remaining key.
 
 **Choice feedback:**
 
 - **another key:** This asks for an additional key without explicitly marking it as the remaining member of the known pair.
-- **the other key:** The two-key context makes the remaining key uniquely identifiable.
 - **an other key:** The ordinary indefinite form is the single word "another"; it still would not express the definite remaining member as directly.
 - **other key:** The singular countable phrase needs a determiner; for this pair, use "the other key".
+- **the other key:** The two-key context makes the remaining key uniquely identifiable.
 
 **Decision:** replaced.
 
@@ -1719,18 +1719,18 @@ Choose the words for the general field of study.
 Her degree is in ___; she studies how people use limited resources.
 
 1. an economics
-2. a economics
-3. the economics
-4. economics **[Correct]**
+2. economics **[Correct]**
+3. a economics
+4. the economics
 
 **Explanation:** The name of the field is "economics", without an article in "a degree in economics". Its final -s does not make it a set of countable objects.
 
 **Choice feedback:**
 
 - **an economics:** The field name is not a singular countable item that can be introduced with "an".
+- **economics:** The article-free subject name matches the stated degree field.
 - **a economics:** The ordinary name of the subject takes no indefinite article.
 - **the economics:** "The economics of a project" can refer to a project's financial aspects, but the question names the general field of study.
-- **economics:** The article-free subject name matches the stated degree field.
 
 **Decision:** replaced.
 
@@ -1750,19 +1750,19 @@ In a British English conversation about education, a neighbour asks, 'Has your d
 
 The parent replies, 'No, she's still at school.' What does the article-free phrase express in this exchange?
 
-1. She is still a pupil rather than having finished that stage of education. **[Correct]**
-2. She has stayed on the school premises later than the parent expected.
-3. She works at a school rather than studying there as a pupil.
-4. She is visiting a school without being enrolled as a student.
+1. She has stayed on the school premises later than the parent expected.
+2. She works at a school rather than studying there as a pupil.
+3. She is visiting a school without being enrolled as a student.
+4. She is still a pupil rather than having finished that stage of education. **[Correct]**
 
 **Explanation:** In this British English exchange, still at school concerns educational status: she has not finished school. The question about finishing education selects that reading rather than a claim about her physical location at this moment.
 
 **Choice feedback:**
 
-- **She is still a pupil rather than having finished that stage of education.:** The bare institutional phrase answers the question about whether her school education is complete.
 - **She has stayed on the school premises later than the parent expected.:** At school can describe a location in another context, but the neighbour asks about completing education, not today's departure time.
 - **She works at a school rather than studying there as a pupil.:** The negative answer about finishing secondary school concerns continued pupil status, not employment at the institution.
 - **She is visiting a school without being enrolled as a student.:** A visit would not answer whether she had finished secondary education. The exchange supports continued attendance as a pupil.
+- **She is still a pupil rather than having finished that stage of education.:** The bare institutional phrase answers the question about whether her school education is complete.
 
 **Decision:** replaced.
 
@@ -1782,18 +1782,18 @@ Choose the correct phrase for this building's unique exit of that kind.
 
 The plan shows just one emergency exit. Staff must keep ___ clear.
 
-1. an emergency exits
-2. emergency exit
-3. the emergency exit **[Correct]**
+1. the emergency exit **[Correct]**
+2. an emergency exits
+3. emergency exit
 4. these emergency exit
 
 **Explanation:** The plan establishes one exit of this kind. "The emergency exit" refers back to that identified exit.
 
 **Choice feedback:**
 
+- **the emergency exit:** The definite article identifies the exit already established by the plan.
 - **an emergency exits:** "An" is singular, but "exits" is plural.
 - **emergency exit:** The singular countable phrase needs a determiner in this instruction.
-- **the emergency exit:** The definite article identifies the exit already established by the plan.
 - **these emergency exit:** "These" cannot introduce the singular noun "exit".
 
 **Decision:** revised.
@@ -1846,8 +1846,8 @@ Choose the grammatically correct phrase.
 
 At the end of each placement, trainees receive ___ about their work.
 
-1. a detailed feedback
-2. detailed feedback **[Correct]**
+1. detailed feedback **[Correct]**
+2. a detailed feedback
 3. an detailed feedback
 4. detailed feedbacks
 
@@ -1855,8 +1855,8 @@ At the end of each placement, trainees receive ___ about their work.
 
 **Choice feedback:**
 
-- **a detailed feedback:** The adjective detailed does not make feedback countable. You can receive "a detailed comment" but not normally "a detailed feedback".
 - **detailed feedback:** This correctly treats the comments as an uncountable body of feedback.
+- **a detailed feedback:** The adjective detailed does not make feedback countable. You can receive "a detailed comment" but not normally "a detailed feedback".
 - **an detailed feedback:** Feedback does not take an indefinite article in this meaning; an also mismatches the /d/ sound in detailed.
 - **detailed feedbacks:** Use the uncountable form feedback. To count individual points, use a plural noun such as comments.
 
@@ -1878,18 +1878,18 @@ Choose the phrase that introduces several summaries as new information, without 
 
 The librarian found ___ of the debate, so I could compare different accounts.
 
-1. a useful summary
-2. the useful summaries
-3. some useful summaries **[Correct]**
+1. some useful summaries **[Correct]**
+2. a useful summary
+3. the useful summaries
 4. another useful summary
 
 **Explanation:** "Summaries" is plural. "Some useful summaries" introduces an unspecified number; a and an would require a singular noun.
 
 **Choice feedback:**
 
+- **some useful summaries:** Some introduces an unspecified plural set as new information, matching the comparison of several accounts.
 - **a useful summary:** A introduces one summary, not the several accounts needed for the intended comparison.
 - **the useful summaries:** The assumes an identifiable set. The task asks for a first introduction without that shared identification.
-- **some useful summaries:** Some introduces an unspecified plural set as new information, matching the comparison of several accounts.
 - **another useful summary:** Another introduces one additional summary and assumes a previous one; it does not introduce the requested plural set.
 
 **Decision:** revised.
@@ -1910,19 +1910,19 @@ Two musicians are looking for somewhere to practise. Choose the distinction betw
 
 'There's space for the drum kit downstairs, and a rehearsal space upstairs.'
 
-1. The first concerns available room; the second introduces one area used for rehearsing. **[Correct]**
-2. The first identifies a booked room; the second names the spare room inside that same booking.
-3. The first counts one rehearsal session; the second counts the musicians who can attend it.
-4. Both count individual rooms, with the article omitted from the first because it is downstairs.
+1. The first identifies a booked room; the second names the spare room inside that same booking.
+2. The first counts one rehearsal session; the second counts the musicians who can attend it.
+3. Both count individual rooms, with the article omitted from the first because it is downstairs.
+4. The first concerns available room; the second introduces one area used for rehearsing. **[Correct]**
 
 **Explanation:** Bare space describes room available for the drum kit without counting a separate area. A rehearsal space counts one area with a particular use. The same noun can therefore be uncountable or countable with different meanings.
 
 **Choice feedback:**
 
-- **The first concerns available room; the second introduces one area used for rehearsing.:** The drum-kit phrase concerns capacity, while the indefinite noun phrase introduces a rehearsal area.
 - **The first identifies a booked room; the second names the spare room inside that same booking.:** No booking is mentioned. The two locations are different, and the first use describes capacity rather than identifying a reservation.
 - **The first counts one rehearsal session; the second counts the musicians who can attend it.:** Neither use counts sessions or people. The contrast is between available room and one physical area.
 - **Both count individual rooms, with the article omitted from the first because it is downstairs.:** Downstairs does not determine article use. The first space is uncountable capacity, not a counted room with a missing article.
+- **The first concerns available room; the second introduces one area used for rehearsing.:** The drum-kit phrase concerns capacity, while the indefinite noun phrase introduces a rehearsal area.
 
 **Decision:** replaced.
 
@@ -1947,8 +1947,8 @@ Choose the meaning of the article phrase.
 "It was a most enjoyable evening." What does "a most enjoyable evening" mean here?
 
 1. The most enjoyable evening out of every evening compared
-2. A very enjoyable evening, without an explicit ranking **[Correct]**
-3. An evening enjoyed by most of the guests
+2. An evening enjoyed by most of the guests
+3. A very enjoyable evening, without an explicit ranking **[Correct]**
 4. An evening that was enjoyable for most of its duration
 
 **Explanation:** In this formal expression, "a most enjoyable" means "a very enjoyable". "The most enjoyable" would identify the top evening in a comparison.
@@ -1956,8 +1956,8 @@ Choose the meaning of the article phrase.
 **Choice feedback:**
 
 - **The most enjoyable evening out of every evening compared:** That is the normal ranking meaning of "the most enjoyable evening", not the intensifying use with "a".
-- **A very enjoyable evening, without an explicit ranking:** The indefinite article supports the formal intensifier meaning of most.
 - **An evening enjoyed by most of the guests:** "Most" modifies enjoyable here; it does not count the guests.
+- **A very enjoyable evening, without an explicit ranking:** The indefinite article supports the formal intensifier meaning of most.
 - **An evening that was enjoyable for most of its duration:** Nothing in the article phrase divides the evening into enjoyable and unenjoyable periods.
 
 **Decision:** replaced.
@@ -1978,18 +1978,18 @@ Choose the interpretation that preserves the writer's emphasis.
 
 "We still have a few seats, so you can join us." Why does "a few" fit the invitation?
 
-1. It presents the small number of remaining seats positively as available **[Correct]**
-2. It emphasises that almost no seats remain and therefore discourages attendance
-3. It identifies seats already reserved for the listener
+1. It emphasises that almost no seats remain and therefore discourages attendance
+2. It identifies seats already reserved for the listener
+3. It presents the small number of remaining seats positively as available **[Correct]**
 4. It says the speaker cannot estimate whether any seats remain
 
 **Explanation:** "A few" means some, though not many. That positive orientation supports "you can join us". Bare "few" would emphasise scarcity instead.
 
 **Choice feedback:**
 
-- **It presents the small number of remaining seats positively as available:** The article changes the orientation towards the seats that do remain, which supports the invitation.
 - **It emphasises that almost no seats remain and therefore discourages attendance:** That interpretation is closer to bare "few" and conflicts with the invitation.
 - **It identifies seats already reserved for the listener:** "A few" indicates an unspecified number; it does not identify reserved seats.
+- **It presents the small number of remaining seats positively as available:** The article changes the orientation towards the seats that do remain, which supports the invitation.
 - **It says the speaker cannot estimate whether any seats remain:** The phrase asserts that some seats remain, though it does not give an exact count.
 
 **Decision:** replaced.
@@ -2010,8 +2010,8 @@ Choose the wording that supports the stated reason for cancelling.
 
 The guide cancels the climb because the group has almost no experience. Which explanation keeps that emphasis?
 
-1. We have a little experience of climbing.
-2. We have little experience of climbing. **[Correct]**
+1. We have little experience of climbing. **[Correct]**
+2. We have a little experience of climbing.
 3. We have a little of the experience of climbing.
 4. We have the little experience of climbing.
 
@@ -2019,8 +2019,8 @@ The guide cancels the climb because the group has almost no experience. Which ex
 
 **Choice feedback:**
 
-- **We have a little experience of climbing.:** This highlights the experience the group does have. It does not preserve the requested emphasis on near-absence.
 - **We have little experience of climbing.:** Bare little gives the negative orientation needed to explain the cancellation.
+- **We have a little experience of climbing.:** This highlights the experience the group does have. It does not preserve the requested emphasis on near-absence.
 - **We have a little of the experience of climbing.:** This awkwardly treats the experience as an identified whole with a small portion; that is not the general lack described.
 - **We have the little experience of climbing.:** "The little experience" normally needs a defining continuation such as "we gained last year". It does not express the intended general shortfall here.
 
@@ -2043,18 +2043,18 @@ Choose the meaning of the first phrase.
 A website adds an unexpected fee at the final payment step. Its designer calls this 'confusing by design'. What does 'by design' mean?
 
 1. Confusing because the design has not yet been completed
-2. Deliberately confusing as a planned part of the payment process **[Correct]**
-3. Confusing despite a plan intended to make the process clear
-4. Confusing in its layout rather than in the information it presents
+2. Confusing despite a plan intended to make the process clear
+3. Confusing in its layout rather than in the information it presents
+4. Deliberately confusing as a planned part of the payment process **[Correct]**
 
 **Explanation:** By design is an article-free expression meaning intentionally. It says the confusing effect was planned, not that the design was unfinished or that only the visual layout causes difficulty.
 
 **Choice feedback:**
 
 - **Confusing because the design has not yet been completed:** The fixed phrase states intention. It does not attribute the confusion to unfinished work.
-- **Deliberately confusing as a planned part of the payment process:** By design presents the confusing effect as deliberate, even though the phrase contains no article before design.
 - **Confusing despite a plan intended to make the process clear:** Despite the plan would describe an unintended result. By design says the result was intended.
 - **Confusing in its layout rather than in the information it presents:** Design here is part of an idiom about intention; it does not limit the problem to visual layout.
+- **Deliberately confusing as a planned part of the payment process:** By design presents the confusing effect as deliberate, even though the phrase contains no article before design.
 
 **Decision:** replaced.
 
@@ -2075,18 +2075,18 @@ Choose the interpretation of the definite noun phrase.
 "The electric car is changing the way cities plan charging networks." In a paragraph about transport trends, what does "the electric car" represent?
 
 1. One electric vehicle being used as the main example throughout the paragraph
-2. Electric cars as a technological category, rather than a particular physical vehicle **[Correct]**
-3. The city's first electric vehicle, treated as the beginning of a wider trend
-4. The electric vehicles in one identified fleet, rather than the vehicle type generally
+2. The city's first electric vehicle, treated as the beginning of a wider trend
+3. The electric vehicles in one identified fleet, rather than the vehicle type generally
+4. Electric cars as a technological category, rather than a particular physical vehicle **[Correct]**
 
 **Explanation:** A definite singular can represent a class or invention. In this general discussion, "the electric car" means the technology or vehicle type, not one physical car.
 
 **Choice feedback:**
 
 - **One electric vehicle being used as the main example throughout the paragraph:** An individual-car reading would need an identifiable vehicle. The statement about transport trends instead presents the vehicle type as an influence on cities.
-- **Electric cars as a technological category, rather than a particular physical vehicle:** The definite singular can stand for a class or technological development in a general statement.
 - **The city's first electric vehicle, treated as the beginning of a wider trend:** The article does not give the car a first-in-history meaning; that would need wording such as the first electric car.
 - **The electric vehicles in one identified fleet, rather than the vehicle type generally:** No fleet is identified. The category reading fits the broad claim about how cities plan their networks.
+- **Electric cars as a technological category, rather than a particular physical vehicle:** The definite singular can stand for a class or technological development in a general statement.
 
 **Decision:** replaced.
 
@@ -2106,8 +2106,8 @@ Choose the interpretation of the article change.
 
 Compare "She has experience in emergency nursing" and "She described an experience from her first night on the ward". What does "an" do in the second sentence?
 
-1. It presents one event she lived through rather than accumulated practical knowledge **[Correct]**
-2. It says her practical knowledge is greater than that of other nurses
+1. It says her practical knowledge is greater than that of other nurses
+2. It presents one event she lived through rather than accumulated practical knowledge **[Correct]**
 3. It identifies an event that the listener has already heard about
 4. It says the event was unusual or dangerous
 
@@ -2115,8 +2115,8 @@ Compare "She has experience in emergency nursing" and "She described an experien
 
 **Choice feedback:**
 
-- **It presents one event she lived through rather than accumulated practical knowledge:** This captures the change from practical knowledge to a countable episode.
 - **It says her practical knowledge is greater than that of other nurses:** The article changes the noun's sense; it does not compare anyone's expertise.
+- **It presents one event she lived through rather than accumulated practical knowledge:** This captures the change from practical knowledge to a countable episode.
 - **It identifies an event that the listener has already heard about:** The indefinite article does not itself mark a previously identified event.
 - **It says the event was unusual or dangerous:** Those qualities would need additional wording; they do not follow from "an".
 
@@ -2170,8 +2170,8 @@ Choose the paraphrase that preserves the force of the article-free expression.
 
 An old resident says, 'The village has changed beyond recognition.'
 
-1. The village has changed in ways that few people have officially acknowledged.
-2. The village is so different that its former appearance is hard to recognise. **[Correct]**
+1. The village is so different that its former appearance is hard to recognise. **[Correct]**
+2. The village has changed in ways that few people have officially acknowledged.
 3. The village has changed, though its old appearance remains easy to recognise.
 4. The village has become better known because people have praised its improvements.
 
@@ -2179,8 +2179,8 @@ An old resident says, 'The village has changed beyond recognition.'
 
 **Choice feedback:**
 
-- **The village has changed in ways that few people have officially acknowledged.:** This uses recognition in the sense of acknowledgment. The resident is describing how different the village looks, not whether officials acknowledge the changes.
 - **The village is so different that its former appearance is hard to recognise.:** The paraphrase keeps the strong degree of change expressed by beyond recognition.
+- **The village has changed in ways that few people have officially acknowledged.:** This uses recognition in the sense of acknowledgment. The resident is describing how different the village looks, not whether officials acknowledge the changes.
 - **The village has changed, though its old appearance remains easy to recognise.:** Easy to recognise weakens and reverses the idiom's central point: the changes have made recognition difficult.
 - **The village has become better known because people have praised its improvements.:** This treats recognition as public appreciation. The phrase does not say the changes brought fame or were improvements.
 
@@ -2203,8 +2203,8 @@ Choose the sentence that refers to the people, not their language.
 A travel writer is describing the inhabitants of France as a national group. Which sentence has that reading?
 
 1. French has influenced the neighbouring regions.
-2. A French has influenced the neighbouring regions.
-3. The French have influenced the neighbouring regions. **[Correct]**
+2. The French have influenced the neighbouring regions. **[Correct]**
+3. A French has influenced the neighbouring regions.
 4. The French has influenced the neighbouring regions.
 
 **Explanation:** "The French" can name the French people collectively and takes plural agreement. Article-free "French" commonly names the language and takes singular agreement.
@@ -2212,8 +2212,8 @@ A travel writer is describing the inhabitants of France as a national group. Whi
 **Choice feedback:**
 
 - **French has influenced the neighbouring regions.:** This naturally names the language, while the task specifies the people.
-- **A French has influenced the neighbouring regions.:** To refer to one person, use a countable person noun such as "a French person".
 - **The French have influenced the neighbouring regions.:** The definite group expression and plural verb identify the people collectively.
+- **A French has influenced the neighbouring regions.:** To refer to one person, use a countable person noun such as "a French person".
 - **The French has influenced the neighbouring regions.:** For the national group of people, "the French" takes plural agreement, so use "have".
 
 **Decision:** replaced.
@@ -2234,18 +2234,18 @@ Choose the interpretation that fits the purpose of each visit.
 
 "During her sentence she was in prison. Years later she returned to the prison to give a talk." What does the added article help signal?
 
-1. It contrasts imprisonment with a later visit to an identified institution. **[Correct]**
-2. It introduces an unfamiliar prison, then identifies a different one for the talk.
-3. It contrasts time spent in prison generally with a return to prisoner status.
+1. It introduces an unfamiliar prison, then identifies a different one for the talk.
+2. It contrasts time spent in prison generally with a return to prisoner status.
+3. It contrasts imprisonment with a later visit to an identified institution. **[Correct]**
 4. It describes her earlier circumstances, then leaves the later destination unspecified.
 
 **Explanation:** "In prison" conventionally describes imprisonment. "The prison" identifies a particular institution; the talk establishes that the later visit is not another statement of prisoner status.
 
 **Choice feedback:**
 
-- **It contrasts imprisonment with a later visit to an identified institution.:** Bare in prison expresses prisoner status; the definite phrase identifies the institution she later visits for a talk.
 - **It introduces an unfamiliar prison, then identifies a different one for the talk.:** The first phrase expresses imprisonment rather than introducing an unfamiliar institution with a. The wording does not establish a change of prison.
 - **It contrasts time spent in prison generally with a return to prisoner status.:** The later purpose is giving a talk. The prison identifies her destination without saying that she is imprisoned again.
+- **It contrasts imprisonment with a later visit to an identified institution.:** Bare in prison expresses prisoner status; the definite phrase identifies the institution she later visits for a talk.
 - **It describes her earlier circumstances, then leaves the later destination unspecified.:** The later definite article presents the destination as identifiable, not unspecified.
 
 **Decision:** replaced.
@@ -2267,18 +2267,18 @@ A charity tested a new service in one town before expanding it. Choose the inter
 "The pilot was a success, although the wider programme still faced difficulties." What does "a success" mean?
 
 1. Success as an abstract quality of every part of the programme
-2. One undertaking judged to have achieved a good result **[Correct]**
-3. The only successful activity in the organisation's history
-4. A successful person appointed to manage the programme
+2. The only successful activity in the organisation's history
+3. A successful person appointed to manage the programme
+4. One undertaking judged to have achieved a good result **[Correct]**
 
 **Explanation:** "A success" classifies the pilot as a successful undertaking. It is a countable result use, whereas article-free "success" can name the abstract idea.
 
 **Choice feedback:**
 
 - **Success as an abstract quality of every part of the programme:** The article makes the pilot a countable example of success; the following clause explicitly limits the wider conclusion.
-- **One undertaking judged to have achieved a good result:** This captures the predicative countable use in "was a success".
 - **The only successful activity in the organisation's history:** The indefinite article classifies one case; it does not make an only-ever claim.
 - **A successful person appointed to manage the programme:** The subject is the pilot undertaking, not a person.
+- **One undertaking judged to have achieved a good result:** This captures the predicative countable use in "was a success".
 
 **Decision:** replaced.
 
@@ -2298,8 +2298,8 @@ Choose the explanation of the two article patterns.
 
 "We need evidence before deciding. The evidence from yesterday's inspection is particularly relevant." Why can the second sentence use "the"?
 
-1. Evidence becomes a singular count noun because it comes from one inspection
-2. The source phrase identifies a particular body of evidence **[Correct]**
+1. The source phrase identifies a particular body of evidence **[Correct]**
+2. Evidence becomes a singular count noun because it comes from one inspection
 3. Repeating evidence requires the even if the second sentence concerns a different source
 4. The article presents the inspection findings as conclusive rather than merely relevant
 
@@ -2307,8 +2307,8 @@ Choose the explanation of the two article patterns.
 
 **Choice feedback:**
 
-- **Evidence becomes a singular count noun because it comes from one inspection:** Evidence remains uncountable. One identifiable source does not turn it into a count noun.
 - **The source phrase identifies a particular body of evidence:** The inspection makes this evidence identifiable; an uncountable noun can take the for that purpose.
+- **Evidence becomes a singular count noun because it comes from one inspection:** Evidence remains uncountable. One identifiable source does not turn it into a count noun.
 - **Repeating evidence requires the even if the second sentence concerns a different source:** Word repetition alone does not require the. Here the source phrase identifies which evidence the writer means.
 - **The article presents the inspection findings as conclusive rather than merely relevant:** Definiteness identifies the evidence; it does not increase its strength. The sentence describes it as particularly relevant, not conclusive.
 
@@ -2362,19 +2362,19 @@ Choose the explanation that preserves the contrast.
 
 "An essay can explore a question without answering it; the essay you submitted does neither." How do the articles guide the reader?
 
-1. A general possibility for essays is contrasted with an assessment of one identifiable submission **[Correct]**
-2. Both phrases refer to the submitted text, first as new information and then as known information
-3. The first identifies a model essay already written; the second identifies a student's response to it
-4. The first introduces an unidentified text that the writer later discovers to be the submitted essay
+1. Both phrases refer to the submitted text, first as new information and then as known information
+2. The first identifies a model essay already written; the second identifies a student's response to it
+3. The first introduces an unidentified text that the writer later discovers to be the submitted essay
+4. A general possibility for essays is contrasted with an assessment of one identifiable submission **[Correct]**
 
 **Explanation:** "An essay" supports a general claim through a representative example. "The essay you submitted" then singles out an identifiable text for criticism.
 
 **Choice feedback:**
 
-- **A general possibility for essays is contrasted with an assessment of one identifiable submission:** An essay represents a class member in the general statement; the essay you submitted then identifies the particular work being assessed.
 - **Both phrases refer to the submitted text, first as new information and then as known information:** The first clause describes what essays can do in general. It does not introduce the submitted essay as a particular new referent.
 - **The first identifies a model essay already written; the second identifies a student's response to it:** No existing model or response to a model is introduced. The first noun phrase supports a general possibility.
 - **The first introduces an unidentified text that the writer later discovers to be the submitted essay:** The passage moves from generalisation to assessment, not from ignorance to discovery of a text's identity.
+- **A general possibility for essays is contrasted with an assessment of one identifiable submission:** An essay represents a class member in the general statement; the essay you submitted then identifies the particular work being assessed.
 
 **Decision:** replaced.
 
@@ -2394,8 +2394,8 @@ Choose the interpretation of the indefinite phrase.
 
 "There is a reason for the delay, but I cannot discuss it yet." What does "a reason" establish?
 
-1. The speaker presents an explanation as existing without identifying it to the listener **[Correct]**
-2. The speaker says the listener already knows the explanation
+1. The speaker says the listener already knows the explanation
+2. The speaker presents an explanation as existing without identifying it to the listener **[Correct]**
 3. The speaker guarantees that only one contributing factor exists
 4. The speaker says the delay has no explanation that could be expressed
 
@@ -2403,8 +2403,8 @@ Choose the interpretation of the indefinite phrase.
 
 **Choice feedback:**
 
-- **The speaker presents an explanation as existing without identifying it to the listener:** This separates introducing a referent from revealing which one it is.
 - **The speaker says the listener already knows the explanation:** The phrase does not mark the reason as already identifiable to the listener.
+- **The speaker presents an explanation as existing without identifying it to the listener:** This separates introducing a referent from revealing which one it is.
 - **The speaker guarantees that only one contributing factor exists:** "A reason" introduces one reason; it does not exclude further reasons.
 - **The speaker says the delay has no explanation that could be expressed:** The opening explicitly asserts that a reason exists. The speaker is declining to discuss it.
 
@@ -2427,8 +2427,8 @@ Choose the phrase that identifies the previously stated reason.
 The memo cancels the concert because the venue is unsafe. We can dispute ___ without denying that repairs are needed.
 
 1. a further reason given in the memo
-2. the reason given in the memo **[Correct]**
-3. some other reasons given in the memo
+2. some other reasons given in the memo
+3. the reason given in the memo **[Correct]**
 4. another reason given in the memo
 
 **Explanation:** The earlier sentence has supplied the reason being discussed: the venue is unsafe. "The reason given in the memo" points back to that identified reason.
@@ -2436,8 +2436,8 @@ The memo cancels the concert because the venue is unsafe. We can dispute ___ wit
 **Choice feedback:**
 
 - **a further reason given in the memo:** Further adds another reason instead of pointing back to the safety reason just stated.
-- **the reason given in the memo:** The definite phrase identifies the safety justification already supplied for cancelling the concert.
 - **some other reasons given in the memo:** This introduces several different reasons; the prompt asks for the one already stated.
+- **the reason given in the memo:** The definite phrase identifies the safety justification already supplied for cancelling the concert.
 - **another reason given in the memo:** Another shifts to a different reason instead of maintaining reference to the safety justification.
 
 **Decision:** revised.
@@ -2458,8 +2458,8 @@ Choose the meaning of the article phrase.
 
 "After the interview, she felt a confidence she had never felt before." Why is "a confidence" possible?
 
-1. It presents a particular kind or instance of the feeling, described by the following clause **[Correct]**
-2. It counts one secret she has told the interviewer
+1. It counts one secret she has told the interviewer
+2. It presents a particular kind or instance of the feeling, described by the following clause **[Correct]**
 3. It identifies the feeling as already shared by all the interviewers
 4. It means the noun confidence is always countable after felt
 
@@ -2467,8 +2467,8 @@ Choose the meaning of the article phrase.
 
 **Choice feedback:**
 
-- **It presents a particular kind or instance of the feeling, described by the following clause:** The following clause characterises the distinctive confidence she experienced.
 - **It counts one secret she has told the interviewer:** "A confidence" can mean a secret in other contexts, but "felt" and the repeated feeling point to self-assurance.
+- **It presents a particular kind or instance of the feeling, described by the following clause:** The following clause characterises the distinctive confidence she experienced.
 - **It identifies the feeling as already shared by all the interviewers:** The sentence concerns her feeling and does not establish a shared state among interviewers.
 - **It means the noun confidence is always countable after felt:** Compare "She felt confidence in the plan". Countability depends on the chosen interpretation, not a universal rule after felt.
 
@@ -2522,19 +2522,19 @@ Choose the grammatically correct sentence for this meaning.
 
 The speaker means people who are out of work as a group. Which sentence expresses that?
 
-1. The unemployed need access to affordable training. **[Correct]**
-2. An unemployed needs access to affordable training.
-3. The unemployeds need access to affordable training.
-4. An unemployed people need access to affordable training.
+1. An unemployed needs access to affordable training.
+2. The unemployeds need access to affordable training.
+3. An unemployed people need access to affordable training.
+4. The unemployed need access to affordable training. **[Correct]**
 
 **Explanation:** "The unemployed" uses the adjective to refer collectively to unemployed people. It takes plural agreement but does not add a plural -s to the adjective.
 
 **Choice feedback:**
 
-- **The unemployed need access to affordable training.:** The definite article plus adjective names the group, with the plural verb "need".
 - **An unemployed needs access to affordable training.:** To count one person, say "an unemployed person"; unemployed does not normally stand as that singular count noun.
 - **The unemployeds need access to affordable training.:** Do not add plural -s to the adjective in this group construction.
 - **An unemployed people need access to affordable training.:** The singular article "an" cannot introduce plural "people".
+- **The unemployed need access to affordable training.:** The definite article plus adjective names the group, with the plural verb "need".
 
 **Decision:** replaced.
 
@@ -2590,18 +2590,18 @@ Choose the interpretation of the two noun phrases.
 
 "She studies public policy, but the policy she criticised yesterday was her own department's." How do the articles distinguish the references?
 
-1. A field of study is contrasted with a particular departmental course of action **[Correct]**
-2. One established policy is contrasted with a new example of the same policy
-3. Two particular policies are contrasted, with identifying details omitted from the first
+1. One established policy is contrasted with a new example of the same policy
+2. Two particular policies are contrasted, with identifying details omitted from the first
+3. A field of study is contrasted with a particular departmental course of action **[Correct]**
 4. Two fields of study are contrasted, with the second limited to work in one department
 
 **Explanation:** Article-free "public policy" names a field. "The policy she criticised" identifies one policy through the following clause. Neither article alone tells us whether the policy has legal force or an international scope.
 
 **Choice feedback:**
 
-- **A field of study is contrasted with a particular departmental course of action:** Bare public policy names the academic field. The policy she criticised identifies one adopted policy through the following clause.
 - **One established policy is contrasted with a new example of the same policy:** The first phrase names a field rather than one established policy. The second is definite, not an indefinite introduction of a new example.
 - **Two particular policies are contrasted, with identifying details omitted from the first:** Studying public policy describes her subject area; it does not establish a first individual policy whose details have been withheld.
+- **A field of study is contrasted with a particular departmental course of action:** Bare public policy names the academic field. The policy she criticised identifies one adopted policy through the following clause.
 - **Two fields of study are contrasted, with the second limited to work in one department:** The second phrase identifies a policy belonging to a department, not another academic discipline.
 
 **Decision:** revised.
@@ -2614,37 +2614,37 @@ Choose the interpretation of the two noun phrases.
 
 **Similarity review:** A field-to-policy shift rather than a mere contrast of identified examples.
 
-### 2. The with a degree-modified adjective denoting a human group
+### 2. Distinguishing human and abstract reference in the-plus-adjective expressions
 
 ID: `coverage-articles-c1-442`
 
-Choose the reading supported by the article and modifier.
+Compare the two expressions formed with the plus an adjective.
 
-"The very wealthy were largely insulated from the rise in rents." What does "the very wealthy" denote?
+A report says, 'The wealthy were protected from the worst of the losses.' How do the two definite expressions differ?
 
-1. A single exceptionally wealthy household already mentioned
-2. A collective group defined by a high degree of wealth **[Correct]**
-3. Wealth itself considered as an abstract resource
-4. Every person whose income rose during the period
+1. Both expressions denote groups of people, distinguished by their financial circumstances.
+2. The first denotes wealth as a resource; the second identifies the people who lost most of it.
+3. The first denotes wealthy people collectively; the second selects the most severe part of the losses. **[Correct]**
+4. Both expressions denote abstract conditions, one favourable and the other unfavourable.
 
-**Explanation:** "The" allows the modified adjective phrase "very wealthy" to refer collectively to people. It takes plural agreement without turning wealthy into a plural noun.
+**Explanation:** The plus an adjective can denote a human group or an abstract extreme. Wealthy gives the collective people reading; worst is interpreted through the following of the losses phrase.
 
 **Choice feedback:**
 
-- **A single exceptionally wealthy household already mentioned:** The adjective phrase refers collectively to wealthy people; it does not name or identify one particular household.
-- **A collective group defined by a high degree of wealth:** The definite article combines with the degree-modified adjective to identify the group.
-- **Wealth itself considered as an abstract resource:** The phrase refers to people who possess wealth; the abstract noun would be wealth.
-- **Every person whose income rose during the period:** An increase in income does not establish that a person is very wealthy. The adjective describes a level of wealth, not a recent change.
+- **Both expressions denote groups of people, distinguished by their financial circumstances.:** The wealthy denotes people, but the worst of the losses selects the most severe part of the losses, not a second human group.
+- **The first denotes wealth as a resource; the second identifies the people who lost most of it.:** Wealthy describes people possessing wealth, not the resource itself. The losses phrase makes worst refer to losses rather than their sufferers.
+- **The first denotes wealthy people collectively; the second selects the most severe part of the losses.:** The plus an adjective can denote a human group or an abstract extreme. Wealthy gives the collective people reading; worst is interpreted through the following of the losses phrase.
+- **Both expressions denote abstract conditions, one favourable and the other unfavourable.:** The wealthy has plural human reference, reflected in were. Only the second phrase selects an abstract extent of something in this sentence.
 
 **Decision:** replaced.
 
-**Original findings:** Original most-serious-limitation item was a simple superlative cloze.
+**Original findings:** Original most-serious-limitation item was a simple superlative cloze. Secondary review: adding very to wealthy repeated the B2 collective-adjective decision in 439 without a substantive C1 extension. The replacement contrasts human collective reference with an abstract extreme within one sentence.
 
-**Learning value:** Shows how internal adjective modification works in a collective reference phrase.
+**Learning value:** Prevents interpreting every definite adjective expression as a plural group of people.
 
-**Level rationale:** The learner interprets an expanded collective adjective construction in analytical prose.
+**Level rationale:** C1 readers must resolve two structurally similar expressions using their complements and agreement, rather than applying one collective-noun rule.
 
-**Similarity review:** Degree-defined social group, distinct from institutional roles and proper names.
+**Similarity review:** Unlike B2's unemployed item, this tests the limits of that construction through a contrasting abstract use.
 
 ### 3. Article placement in a good many with a comparative quantity
 
@@ -2654,19 +2654,19 @@ Choose the grammatically correct phrase.
 
 The proposal attracted ___ than its authors had anticipated.
 
-1. a good many more objections **[Correct]**
-2. good a many more objections
-3. a good much more objections
-4. a good many more objection
+1. good a many more objections
+2. a good much more objections
+3. a good many more objection
+4. a good many more objections **[Correct]**
 
 **Explanation:** "A good many" means quite a large number and takes a plural count noun. Here it modifies the comparison: "a good many more objections".
 
 **Choice feedback:**
 
-- **a good many more objections:** The fixed quantity phrase keeps a before good many and agrees with plural objections.
 - **good a many more objections:** The order of the expression is "a good many", not "good a many".
 - **a good much more objections:** "Objections" is countable and plural; the phrase uses many rather than much.
 - **a good many more objection:** The meaning involves a number of objections, so the noun must be plural.
+- **a good many more objections:** The fixed quantity phrase keeps a before good many and agrees with plural objections.
 
 **Decision:** replaced.
 
@@ -2718,19 +2718,19 @@ Choose the account of the definite reference.
 
 "A donor offered to fund the restoration. The generosity surprised everyone, but the conditions did not." What identifies "the generosity"?
 
-1. The quality inferred from the donor's offer in the preceding sentence **[Correct]**
-2. A separate charitable act mentioned before the quoted passage
-3. The donor's general character across all previous donations
-4. The total monetary value of every contribution to the project
+1. A separate charitable act mentioned before the quoted passage
+2. The donor's general character across all previous donations
+3. The total monetary value of every contribution to the project
+4. The quality inferred from the donor's offer in the preceding sentence **[Correct]**
 
 **Explanation:** A noun need not have appeared literally before for definite reference to work. The offer makes a quality of generosity available for reference. The passage does not establish the donor's entire history or the project's total funding.
 
 **Choice feedback:**
 
-- **The quality inferred from the donor's offer in the preceding sentence:** The reader derives the quality from the event and can then identify it with the.
 - **A separate charitable act mentioned before the quoted passage:** The immediately preceding offer supplies the needed connection; no separate act is required.
 - **The donor's general character across all previous donations:** The passage supports a quality displayed in this offer, not a general biography of the donor.
 - **The total monetary value of every contribution to the project:** Generosity names an evaluated quality here, not the sum of all contributions.
+- **The quality inferred from the donor's offer in the preceding sentence:** The reader derives the quality from the event and can then identify it with the.
 
 **Decision:** replaced.
 
@@ -2750,8 +2750,8 @@ Choose the meaning of the article change.
 
 "The laboratory performs analysis; this particular procedure is an analysis of trace metals." What does "an analysis" present?
 
-1. One particular type or instance of an analytical procedure **[Correct]**
-2. Analytical work in general, without presenting an individual procedure
+1. Analytical work in general, without presenting an individual procedure
+2. One particular type or instance of an analytical procedure **[Correct]**
 3. The specific analysis already identified by the first use of the noun
 4. A laboratory classified by the kind of analytical service it provides
 
@@ -2759,8 +2759,8 @@ Choose the meaning of the article change.
 
 **Choice feedback:**
 
-- **One particular type or instance of an analytical procedure:** The indefinite article packages the activity as an individual procedure of the specified kind.
 - **Analytical work in general, without presenting an individual procedure:** That describes the article-free activity reading in the first clause, not the counted use an analysis of trace metals.
+- **One particular type or instance of an analytical procedure:** The indefinite article packages the activity as an individual procedure of the specified kind.
 - **The specific analysis already identified by the first use of the noun:** The first clause names analysis as an activity; it does not identify an individual procedure for a definite phrase to refer back to.
 - **A laboratory classified by the kind of analytical service it provides:** The second clause classifies the procedure, not the laboratory. Its subject is this particular procedure.
 
@@ -2814,18 +2814,18 @@ Choose the interpretation of the article pattern.
 
 "They elected her chair, but she continued to work as a researcher." Why is the first role bare while the second has "a"?
 
-1. The first names an office conferred; the second classifies her continuing professional work **[Correct]**
-2. The first is bare because her identity is known; the second is indefinite because her identity is unknown
-3. The first role is uniquely held, so bare chair would also be required after interviewed
+1. The first is bare because her identity is known; the second is indefinite because her identity is unknown
+2. The first role is uniquely held, so bare chair would also be required after interviewed
+3. The first names an office conferred; the second classifies her continuing professional work **[Correct]**
 4. The second article counts a separate research project rather than classifying the person
 
 **Explanation:** After elect, a role complement can be bare: "elected her chair". "As a researcher" classifies her continuing professional activity. The article patterns do not establish pay or permanence.
 
 **Choice feedback:**
 
-- **The first names an office conferred; the second classifies her continuing professional work:** Elect licenses the bare role complement, while as a researcher gives an indefinite professional classification.
 - **The first is bare because her identity is known; the second is indefinite because her identity is unknown:** The same known person is described in both clauses. The difference is in construction and role, not knowledge of her identity.
 - **The first role is uniquely held, so bare chair would also be required after interviewed:** Interviewed does not license the same role complement: "They interviewed the chair" normally needs a determiner.
+- **The first names an office conferred; the second classifies her continuing professional work:** Elect licenses the bare role complement, while as a researcher gives an indefinite professional classification.
 - **The second article counts a separate research project rather than classifying the person:** The noun researcher denotes a person, so the article classifies her professional role rather than counting projects.
 
 **Decision:** replaced.
@@ -2846,18 +2846,18 @@ Choose the implication of the introductory phrase.
 
 "A certain Mr Bell has been asking to see you." What does "a certain Mr Bell" most naturally do?
 
-1. Introduces a named visitor without assuming shared familiarity with him **[Correct]**
-2. Identifies a visitor the listener is expected to recognise as the only relevant Bell
-3. Presents Bell as an example of a familiar personality type rather than an individual
+1. Identifies a visitor the listener is expected to recognise as the only relevant Bell
+2. Presents Bell as an example of a familiar personality type rather than an individual
+3. Introduces a named visitor without assuming shared familiarity with him **[Correct]**
 4. Expresses uncertainty about the surname while affirming familiarity with the person
 
 **Explanation:** "A certain" can introduce a person by name while leaving their identity or relevance unsettled for the listener. Certain here does not simply mean confident or reliable.
 
 **Choice feedback:**
 
-- **Introduces a named visitor without assuming shared familiarity with him:** A certain introduces the named individual without treating identification by the listener as settled.
 - **Identifies a visitor the listener is expected to recognise as the only relevant Bell:** The indefinite introduction does not assume that shared identification.
 - **Presents Bell as an example of a familiar personality type rather than an individual:** The visitor is an actual person asking for a meeting, not a type defined by the name Bell.
+- **Introduces a named visitor without assuming shared familiarity with him:** A certain introduces the named individual without treating identification by the listener as settled.
 - **Expresses uncertainty about the surname while affirming familiarity with the person:** The construction does not itself cast doubt on the name; it marks how the individual is being introduced.
 
 **Decision:** replaced.
@@ -2878,18 +2878,18 @@ Choose the grammatically correct version in formal prose.
 
 Which sentence is correct?
 
-1. Rarely have we encountered so a compelling argument.
-2. Rarely have we encountered such compelling an argument.
-3. Rarely have we encountered so compelling an argument. **[Correct]**
+1. Rarely have we encountered so compelling an argument. **[Correct]**
+2. Rarely have we encountered so a compelling argument.
+3. Rarely have we encountered such compelling an argument.
 4. Rarely have we encountered a so compelling argument.
 
 **Explanation:** In the formal pattern "so + adjective + a/an + singular noun", the adjective precedes the article: "so compelling an argument". The article still matches the sound of argument.
 
 **Choice feedback:**
 
+- **Rarely have we encountered so compelling an argument.:** This correctly uses the formal so-adjective-article-noun sequence.
 - **Rarely have we encountered so a compelling argument.:** The so-pattern places the adjective before the article: "so compelling an argument".
 - **Rarely have we encountered such compelling an argument.:** With such, the normal order is "such a compelling argument"; this mixes the such and so patterns.
-- **Rarely have we encountered so compelling an argument.:** This correctly uses the formal so-adjective-article-noun sequence.
 - **Rarely have we encountered a so compelling argument.:** The degree word so cannot occupy this position after the article in the standard construction.
 
 **Decision:** replaced.
@@ -3039,18 +3039,18 @@ A museum editor is distinguishing statements about an extinct species from state
 The editor changes 'A dodo is extinct' to 'The dodo is extinct' but leaves 'A dodo laid eggs' unchanged. Why is the article changed only in the first example?
 
 1. Present-tense general statements require the, whereas past-tense general statements require a
-2. Extinction concerns the species as a whole; egg-laying can describe a representative member **[Correct]**
-3. The first statement names a previously identified specimen; the second introduces another specimen
-4. The identifies the only extinct species, while a identifies one of several egg-laying species
+2. The first statement names a previously identified specimen; the second introduces another specimen
+3. The identifies the only extinct species, while a identifies one of several egg-laying species
+4. Extinction concerns the species as a whole; egg-laying can describe a representative member **[Correct]**
 
 **Explanation:** A generic indefinite singular can describe a typical member, as in a dodo laid eggs. In its literal biological sense, extinct applies to a species, not an individual bird that dies. The definite singular can name that kind: the dodo is extinct. The distinction is not a tense rule.
 
 **Choice feedback:**
 
 - **Present-tense general statements require the, whereas past-tense general statements require a:** Article choice is not determined by tense: a dodo has a beak is a possible generic statement, while the dodo became extinct names the species in the past tense.
-- **Extinction concerns the species as a whole; egg-laying can describe a representative member:** The article needs to fit the kind of property being predicated: extinction of a species versus a characteristic of its members.
 - **The first statement names a previously identified specimen; the second introduces another specimen:** The museum editor is making general statements, and no individual specimens have been introduced. Extinct does not literally mean that one specimen has died.
 - **The identifies the only extinct species, while a identifies one of several egg-laying species:** The definite article names this species as a kind; it does not claim that no other species is extinct. The indefinite example represents a typical dodo.
+- **Extinction concerns the species as a whole; egg-laying can describe a representative member:** The article needs to fit the kind of property being predicated: extinction of a species versus a characteristic of its members.
 
 **Decision:** replaced.
 
@@ -3071,18 +3071,18 @@ Choose the interpretation of the fronted expression.
 "For a beginner, the restoration work is remarkably assured." What does "a beginner" contribute?
 
 1. An identified novice whose name the reader already knows
-2. A comparison standard based on membership of the beginner category **[Correct]**
-3. A claim that exactly one beginner contributed to the restoration
-4. A claim that the restorer has never attempted any related task
+2. A claim that exactly one beginner contributed to the restoration
+3. A claim that the restorer has never attempted any related task
+4. A comparison standard based on membership of the beginner category **[Correct]**
 
 **Explanation:** "For a beginner" frames the evaluation against expectations for someone in that category. The indefinite article classifies; it does not count all contributors or establish the restorer's complete history.
 
 **Choice feedback:**
 
 - **An identified novice whose name the reader already knows:** The phrase supplies a category-based standard, not a name or definite identity.
-- **A comparison standard based on membership of the beginner category:** This explains how the indefinite phrase qualifies the evaluation of the work.
 - **A claim that exactly one beginner contributed to the restoration:** The article does not state the size or composition of the restoration team.
 - **A claim that the restorer has never attempted any related task:** Beginner status does not imply zero related experience.
+- **A comparison standard based on membership of the beginner category:** This explains how the indefinite phrase qualifies the evaluation of the work.
 
 **Decision:** replaced.
 
@@ -3102,19 +3102,19 @@ Choose the account of the contrast.
 
 "We need research, not a research proposal." What distinction does the article support?
 
-1. An activity or body of investigation versus one document proposing it **[Correct]**
-2. An informal conversation versus a published scientific result
-3. A completed investigation versus a document that has already been rejected
-4. Several studies versus several proposals
+1. An informal conversation versus a published scientific result
+2. A completed investigation versus a document that has already been rejected
+3. Several studies versus several proposals
+4. An activity or body of investigation versus one document proposing it **[Correct]**
 
 **Explanation:** Research is uncountable in the first phrase. In the second, the head noun is countable "proposal", so "a" introduces one document; research modifies the kind of proposal.
 
 **Choice feedback:**
 
-- **An activity or body of investigation versus one document proposing it:** This identifies the head noun and reference type of each phrase.
 - **An informal conversation versus a published scientific result:** The article contrast does not establish informality or publication.
 - **A completed investigation versus a document that has already been rejected:** Research need not be complete, and the proposal's rejection is not stated.
 - **Several studies versus several proposals:** The second phrase is explicitly singular; the first does not supply a count.
+- **An activity or body of investigation versus one document proposing it:** This identifies the head noun and reference type of each phrase.
 
 **Decision:** replaced.
 
@@ -3158,37 +3158,37 @@ Choose the interpretation of the negative article phrase.
 
 **Similarity review:** The only negative minimiser construction in the C1 set.
 
-### 19. Indefinite article with a characterised abstract quality
+### 19. Total limited supply in what little versus an indefinite portion in a little of
 
 ID: `coverage-articles-c1-459`
 
-Choose the interpretation of the article phrase.
+Consider what is lost when an editor changes the quantity phrase.
 
-"The explanation has a clarity that the earlier draft lacked." What does "a clarity" do?
+'She devoted what little free time she had to restoring the archive' becomes 'She devoted a little of her free time to restoring the archive.' Which account preserves the distinction?
 
-1. Presents the current explanation as one of several equally clear versions
-2. Presents a particular quality or degree of clearness characterised by the following clause **[Correct]**
-3. Introduces a separate clear passage that can be counted within the explanation
-4. Identifies the same quality of clearness as one already established in the earlier draft
+1. Both versions say her total free time was scarce; only the revision leaves its use unspecified.
+2. The original presents her available time as plentiful; the revision presents it as scarce.
+3. The original commits her limited supply of free time; the revision states only that she devoted a small amount of it. **[Correct]**
+4. The original leaves how much she devoted open; the revision says she devoted her entire small supply.
 
-**Explanation:** Clarity is usually uncountable, but the phrase presents a characterised manifestation of that quality. The following clause contrasts the present text with the earlier draft.
+**Explanation:** What little free time she had refers to the small total available to her. A little of her free time selects a small amount without saying that this exhausted a limited supply.
 
 **Choice feedback:**
 
-- **Presents the current explanation as one of several equally clear versions:** A modifies clarity, not explanation. It characterises the present text's quality without establishing a set of equally clear versions.
-- **Presents a particular quality or degree of clearness characterised by the following clause:** The article presents an instance of the abstract quality, and the clause distinguishes it from what the earlier text lacked.
-- **Introduces a separate clear passage that can be counted within the explanation:** The bounded use concerns a quality of the explanation, not a newly introduced passage or section.
-- **Identifies the same quality of clearness as one already established in the earlier draft:** The earlier draft is said to lack this clarity. The indefinite phrase presents the current quality rather than referring back to one already established there.
+- **Both versions say her total free time was scarce; only the revision leaves its use unspecified.:** A little of her free time specifies a small amount devoted to restoration, but does not say her total supply of free time was small. Its use is still specified.
+- **The original presents her available time as plentiful; the revision presents it as scarce.:** What little signals that her available time was limited. The revision quantifies the portion used, not the size of her total supply.
+- **The original commits her limited supply of free time; the revision states only that she devoted a small amount of it.:** What little free time she had refers to the small total available to her. A little of her free time selects a small amount without saying that this exhausted a limited supply.
+- **The original leaves how much she devoted open; the revision says she devoted her entire small supply.:** This reverses the contrast. The totalising reference belongs to what little she had, not to the partitive a little of her free time.
 
 **Decision:** replaced.
 
-**Original findings:** Original explanation-for-non-specialists item only tested an before a vowel.
+**Original findings:** Original explanation-for-non-specialists item only tested an before a vowel. Secondary review: a clarity characterised by a relative clause repeated B2-437's a confidence frame and micro-skill with a different abstract noun. The replacement tests the reference and scope lost in an editorial change from what little to a little of.
 
-**Learning value:** Explains a controlled abstract-noun use common in evaluative prose.
+**Learning value:** Shows how a small determiner change can remove both a scarcity claim and the commitment of the full available amount.
 
-**Level rationale:** The learner interprets rhetorical individuation of a quality rather than merely choosing from spelling.
+**Level rationale:** The learner compares the scope of two grammatical quantity expressions and avoids transferring a claim about a portion to the total supply.
 
-**Similarity review:** Textual clarity rather than emotion, knowledge, or a countable document.
+**Similarity review:** Extends beyond B2's positive and negative quantity orientation to total-versus-part reference in an editing task.
 
 ### 20. Neutral not a classification versus evaluative no and identifying not the
 
@@ -3198,18 +3198,18 @@ Amira does not practise as an architect, but she sometimes designs useful spaces
 
 A critic dismisses her by saying, 'She is no architect.' Choose the revision that states only her occupational status, without judging the quality of her designs.
 
-1. She is not much of an architect.
-2. She is not the architect.
-3. She is not an architect. **[Correct]**
+1. She is not an architect. **[Correct]**
+2. She is not much of an architect.
+3. She is not the architect.
 4. She is no great architect.
 
 **Explanation:** Not an architect neutrally denies membership of the professional category. In the critic's dismissive use, no architect suggests that she lacks an architect's competence. The revision removes that evaluation without introducing a particular architect's identity.
 
 **Choice feedback:**
 
+- **She is not an architect.:** The indefinite noun phrase names the professional category; ordinary negation denies that category membership without rating her design skill.
 - **She is not much of an architect.:** Not much of evaluates how good she is at the role; it retains the criticism the revision is meant to remove.
 - **She is not the architect.:** The points to a particular architect relevant to a project or conversation. Denying that identity does not deny being an architect professionally.
-- **She is not an architect.:** The indefinite noun phrase names the professional category; ordinary negation denies that category membership without rating her design skill.
 - **She is no great architect.:** This denies distinction or excellence, not professional status. It can describe someone who is an architect but not a great one.
 
 **Decision:** replaced.
@@ -3236,8 +3236,8 @@ Choose the interpretation licensed by the articles.
 
 1. The same person appointed to chair every committee
 2. Whoever chairs a committee, whether appointed or acting temporarily
-3. The particular appointee in each appointment covered by the rule **[Correct]**
-4. A chair already holding office before the appointment
+3. A chair already holding office before the appointment
+4. The particular appointee in each appointment covered by the rule **[Correct]**
 
 **Explanation:** "A chair" introduces an appointee inside each situation described by "whenever". "The chair" refers back within that situation; it need not identify one person across all committees.
 
@@ -3245,8 +3245,8 @@ Choose the interpretation licensed by the articles.
 
 - **The same person appointed to chair every committee:** The definite phrase is interpreted separately for each appointment. It does not require a single chair shared by all committees.
 - **Whoever chairs a committee, whether appointed or acting temporarily:** The sentence establishes its referent through the appointment just mentioned. It does not extend the rule explicitly to acting chairs appointed in no such event.
-- **The particular appointee in each appointment covered by the rule:** This preserves the local link from "a chair" to "the chair" under "whenever".
 - **A chair already holding office before the appointment:** The antecedent is the appointee introduced by "appoints a chair", not a previously established officeholder.
+- **The particular appointee in each appointment covered by the rule:** This preserves the local link from "a chair" to "the chair" under "whenever".
 
 **Decision:** replaced.
 
@@ -3266,8 +3266,8 @@ Choose the account of the article change.
 
 An editor changes "There is little room for doubt" to "There is little room for a doubt of that kind". What does the added article do?
 
-1. It presents a reservation as one bounded possibility of the specified kind **[Correct]**
-2. It asserts that a particular reservation is already held, despite the limiting phrase
+1. It asserts that a particular reservation is already held, despite the limiting phrase
+2. It presents a reservation as one bounded possibility of the specified kind **[Correct]**
 3. It identifies a previously discussed reservation rather than introducing a kind
 4. It turns all remaining uncertainty into one objection that the writer accepts
 
@@ -3275,8 +3275,8 @@ An editor changes "There is little room for doubt" to "There is little room for 
 
 **Choice feedback:**
 
-- **It presents a reservation as one bounded possibility of the specified kind:** The indefinite article individuates doubt while the surrounding phrase still limits room for such a reservation.
 - **It asserts that a particular reservation is already held, despite the limiting phrase:** An indefinite within "little room for" does not by itself assert an existing, held reservation.
+- **It presents a reservation as one bounded possibility of the specified kind:** The indefinite article individuates doubt while the surrounding phrase still limits room for such a reservation.
 - **It identifies a previously discussed reservation rather than introducing a kind:** That would be the identifying function more naturally expressed by "the doubt"; the indefinite phrase characterises a possible instance.
 - **It turns all remaining uncertainty into one objection that the writer accepts:** The writer does not assert acceptance of an objection or equate it with all uncertainty.
 
@@ -3299,8 +3299,8 @@ Choose the account of the two article functions.
 "As the curator of the collection, she approached the purchase with the caution of a curator rather than the enthusiasm of a collector." How do "the curator" and "a curator" function?
 
 1. Both identify her personally; the article change merely avoids repeating an identical noun phrase
-2. The first identifies her role; the second characterises caution by a professional type **[Correct]**
-3. The first establishes her occupation; the second leaves whether she is a curator unresolved
+2. The first establishes her occupation; the second leaves whether she is a curator unresolved
+3. The first identifies her role; the second characterises caution by a professional type **[Correct]**
 4. The first identifies her position; the second attributes her caution to another curator's influence
 
 **Explanation:** "The curator of the collection" identifies her as the holder of the relevant role. "The caution of a curator" classifies the quality of her approach by reference to a professional type. It does not introduce another curator.
@@ -3308,8 +3308,8 @@ Choose the account of the two article functions.
 **Choice feedback:**
 
 - **Both identify her personally; the article change merely avoids repeating an identical noun phrase:** The second phrase invokes qualities associated with a professional category; it is not simply another identifying reference to her.
-- **The first identifies her role; the second characterises caution by a professional type:** The definite role identifies her; the indefinite professional type characterises the caution she displays.
 - **The first establishes her occupation; the second leaves whether she is a curator unresolved:** The first phrase has already established her role. Using a professional type to describe her manner does not withdraw that information.
+- **The first identifies her role; the second characterises caution by a professional type:** The definite role identifies her; the indefinite professional type characterises the caution she displays.
 - **The first identifies her position; the second attributes her caution to another curator's influence:** 'Of a curator' describes the kind of caution; it does not assert that an adviser influenced her.
 
 **Decision:** replaced.
@@ -3394,18 +3394,18 @@ Choose the revision that preserves the distinction between an arrangement and co
 
 Negotiators settled how to share access but still differed over ownership. An editor wants to use 'agreement' for both the settled arrangement and the missing consensus. Which sentence does that?
 
-1. They reached an agreement on access, but agreement on ownership remained elusive. **[Correct]**
-2. They reached agreement on access, but an agreement on ownership remained unsigned.
-3. They reached the agreement on access, but the agreement on ownership remained unsigned.
+1. They reached agreement on access, but an agreement on ownership remained unsigned.
+2. They reached the agreement on access, but the agreement on ownership remained unsigned.
+3. They reached an agreement on access, but agreement on ownership remained elusive. **[Correct]**
 4. They reached agreements on access, but agreement on ownership remained provisional.
 
 **Explanation:** 'An agreement' packages the access settlement as an arrangement. Bare 'agreement' names consensus, and 'remained elusive' says that consensus had not been reached. This preserves both the noun-sense distinction and the state of the negotiations.
 
 **Choice feedback:**
 
-- **They reached an agreement on access, but agreement on ownership remained elusive.:** The countable arrangement is settled; the uncountable consensus is still missing.
 - **They reached agreement on access, but an agreement on ownership remained unsigned.:** This reverses the requested noun senses and substitutes an unsigned arrangement for the absence of consensus. Lack of a signature does not establish continued disagreement.
 - **They reached the agreement on access, but the agreement on ownership remained unsigned.:** The second definite phrase treats an ownership arrangement as identifiable and awaiting signature, rather than saying consensus is still missing.
+- **They reached an agreement on access, but agreement on ownership remained elusive.:** The countable arrangement is settled; the uncountable consensus is still missing.
 - **They reached agreements on access, but agreement on ownership remained provisional.:** The plural introduces multiple access arrangements, and provisional consensus is tentative consensus, not consensus that remains unreached.
 
 **Decision:** replaced.
@@ -3490,18 +3490,18 @@ An editor queries the article before the plural unit in this sentence. Choose th
 
 'The projectionist waited a further twenty minutes before starting the film.'
 
-1. The article is licensed because the phrase presents one additional duration measured in plural units. **[Correct]**
-2. The article marks an approximation, so twenty minutes must be understood as an imprecise estimate.
-3. The article is licensed because further changes minutes from a countable noun into an uncountable noun.
+1. The article marks an approximation, so twenty minutes must be understood as an imprecise estimate.
+2. The article is licensed because further changes minutes from a countable noun into an uncountable noun.
+3. The article is licensed because the phrase presents one additional duration measured in plural units. **[Correct]**
 4. The article is an error here; the plural unit requires either the or no article instead.
 
 **Explanation:** A further twenty minutes is a valid measure expression: the twenty minutes are presented as one additional stretch of time. Minutes remains plural; this construction does not license ordinary phrases such as a minutes or a chairs.
 
 **Choice feedback:**
 
-- **The article is licensed because the phrase presents one additional duration measured in plural units.:** The article belongs to the complete measure expression, which packages the plural units as an additional duration.
 - **The article marks an approximation, so twenty minutes must be understood as an imprecise estimate.:** The duration may be exact or approximate in the real situation. A further does not itself require an approximate reading; it marks an additional amount.
 - **The article is licensed because further changes minutes from a countable noun into an uncountable noun.:** Minutes still counts units of time and retains plural form. The construction groups those units into a duration rather than changing the noun into a mass noun.
+- **The article is licensed because the phrase presents one additional duration measured in plural units.:** The article belongs to the complete measure expression, which packages the plural units as an additional duration.
 - **The article is an error here; the plural unit requires either the or no article instead.:** This applies the elementary a-plus-singular rule too broadly. Modified measure expressions such as a further twenty minutes legitimately contain a plural unit after a.
 
 **Decision:** replaced.
@@ -3514,37 +3514,37 @@ An editor queries the article before the plural unit in this sentence. Choose th
 
 **Similarity review:** A grouped duration in a cinema setting replaces a second appointment-role item; unlike a good many, the quantity is numerically specified.
 
-### 10. Article-controlled contrast between intensifying and ranking most
+### 10. Indefinite existence within a question versus assumptions carried by definite and wh-question forms
 
 ID: `coverage-articles-c2-470`
 
-Compare the evaluative force of these two descriptions in formal English.
+An editor is checking an old submission file. The editor does not know whether anyone was assigned to review it.
 
-A diarist calls a guest's interruption 'a most unhelpful intervention'. An editor changes this to 'the most unhelpful intervention'. What change does the article normally produce?
+Which question asks whether a withdrawal occurred without treating either an assigned reviewer or a withdrawal as already established?
 
-1. It changes a tentative criticism into a criticism presented as certain.
-2. It changes a high-degree evaluation into a ranking within a comparison set. **[Correct]**
-3. It changes one of several interventions into the only intervention that occurred.
-4. It changes the diarist's personal judgment into an independently established fact.
+1. Has the reviewer withdrawn?
+2. Which reviewer has withdrawn?
+3. When did a reviewer withdraw?
+4. Has a reviewer withdrawn? **[Correct]**
 
-**Explanation:** In the formal phrase a most unhelpful intervention, most can mean very: the diarist condemns the intervention without ranking it. The most unhelpful intervention instead places it at the top of a relevant comparison for unhelpfulness. That ranking remains the writer's judgment, not automatically a proven fact.
+**Explanation:** An indefinite inside this yes-no question asks whether there is an instance of a reviewer withdrawing. It does not assert that a reviewer was assigned or that a withdrawal occurred.
 
 **Choice feedback:**
 
-- **It changes a tentative criticism into a criticism presented as certain.:** A most unhelpful is already a strong evaluation. A does not hedge the diarist's confidence here.
-- **It changes a high-degree evaluation into a ranking within a comparison set.:** The indefinite construction permits intensifying most; the definite construction supplies the ordinary superlative ranking.
-- **It changes one of several interventions into the only intervention that occurred.:** The most unhelpful selects by degree among relevant alternatives. It does not claim that no other intervention occurred.
-- **It changes the diarist's personal judgment into an independently established fact.:** Definiteness changes how the intervention is identified, not the source or objectivity of the evaluation.
+- **Has the reviewer withdrawn?:** The yes-no question leaves withdrawal open, but the reviewer presents a relevant reviewer as identifiable. That is precisely what the editor does not yet know.
+- **Which reviewer has withdrawn?:** Which reviewer asks for an identity within a withdrawal already treated as having occurred. The editor needs first to establish whether any withdrawal happened.
+- **When did a reviewer withdraw?:** Although a reviewer is indefinite, when asks for the time of a withdrawal treated as established. Changing the article does not remove that assumption from the question.
+- **Has a reviewer withdrawn?:** An indefinite inside this yes-no question asks whether there is an instance of a reviewer withdrawing. It does not assert that a reviewer was assigned or that a withdrawal occurred.
 
 **Decision:** replaced.
 
-**Original findings:** Original vowel-article item was elementary; the first abstract-resistance replacement repeated the C1 clarity item's recategorisation.
+**Original findings:** Original vowel-article item was elementary; the first abstract-resistance replacement repeated the C1 clarity item's recategorisation. Secondary review: the intensifying a most versus ranking the most decision duplicated B2-421. The replacement tests how definite and indefinite reference interact with the assumptions carried by different question forms.
 
-**Learning value:** Shows why a seemingly small editorial article change can add a comparison the original author did not make.
+**Learning value:** Helps writers ask about a possible event without quietly treating a participant or the event as established.
 
-**Level rationale:** Interprets a less frequent formal degree construction and separates ranking, certainty, existence, and evidential status.
+**Level rationale:** C2 editing requires coordinating article reference with question scope: indefiniteness alone does not remove the event assumption in a when-question.
 
-**Similarity review:** An article-sensitive formal intensifier replaces a second characterised-abstract-noun item.
+**Similarity review:** A question-design task replaces the duplicate B2 formal intensifier; it differs from anaphoric reference inside an if-condition.
 
 ### 11. Definite description inside an attributed but mistaken interpretation
 
@@ -3554,19 +3554,19 @@ Read the description as the chair's interpretation, then consider the narrator's
 
 The chair called the pause 'the silence of agreement'. In fact, nobody had understood the proposal. Why does the definite phrase not establish that the group agreed?
 
-1. The phrase reports the chair's characterization, which the narrator does not endorse. **[Correct]**
-2. The phrase establishes agreement, but leaves its precise content for the reader to identify.
-3. The phrase identifies a previous agreement that the group had reached before the pause.
-4. The phrase denotes a hypothetical silence rather than the pause that actually occurred.
+1. The phrase establishes agreement, but leaves its precise content for the reader to identify.
+2. The phrase identifies a previous agreement that the group had reached before the pause.
+3. The phrase denotes a hypothetical silence rather than the pause that actually occurred.
+4. The phrase reports the chair's characterization, which the narrator does not endorse. **[Correct]**
 
 **Explanation:** The pause occurred, but the chair's label assigns it an interpretation. The narrator reports that label without endorsing it and immediately explains why it was mistaken. Definiteness inside an attributed description does not turn the described agreement into the narrator's own assertion.
 
 **Choice feedback:**
 
-- **The phrase reports the chair's characterization, which the narrator does not endorse.:** Called attributes the description to the chair, while the following sentence rejects the inference of agreement.
 - **The phrase establishes agreement, but leaves its precise content for the reader to identify.:** The narrator disputes the agreement itself, not merely the identification of its content. The is part of the chair's label.
 - **The phrase identifies a previous agreement that the group had reached before the pause.:** No earlier agreement is established. The description is the chair's interpretation of the present pause.
 - **The phrase denotes a hypothetical silence rather than the pause that actually occurred.:** The pause is real in the narrative. What fails is the interpretation of it as agreement, not its occurrence.
+- **The phrase reports the chair's characterization, which the narrator does not endorse.:** Called attributes the description to the chair, while the following sentence rejects the inference of agreement.
 
 **Decision:** replaced.
 
@@ -3587,8 +3587,8 @@ Compare the same indefinite noun phrase in two different kinds of writing.
 A handbook on political fiction says, 'A novel of this kind can outlive the controversy that prompted it.' A security log says, 'A novel of this kind has vanished from the locked display.' How does the reference normally differ?
 
 1. Both phrases introduce particular books; the difference lies only in whether their titles have been supplied.
-2. The handbook presents a representative member of a genre; the log reports an event involving a particular book. **[Correct]**
-3. The handbook identifies the genre's only novel; the log leaves the number of missing books unrestricted.
+2. The handbook identifies the genre's only novel; the log leaves the number of missing books unrestricted.
+3. The handbook presents a representative member of a genre; the log reports an event involving a particular book. **[Correct]**
 4. Both phrases identify a shared book because the modifier of this kind makes the indefinite article definite.
 
 **Explanation:** The handbook's statement about what such fiction can do supports a representative, general reading. The log's report of a completed disappearance instead introduces a particular book, even without naming its title. The indefinite article and modifier alone do not decide between those readings; the clause and discourse matter.
@@ -3596,8 +3596,8 @@ A handbook on political fiction says, 'A novel of this kind can outlive the cont
 **Choice feedback:**
 
 - **Both phrases introduce particular books; the difference lies only in whether their titles have been supplied.:** An unnamed particular book is possible in a log, but it misses the handbook's genre-level generalization. A does not always introduce one particular referent.
-- **The handbook presents a representative member of a genre; the log reports an event involving a particular book.:** The first clause expresses a characteristic possibility for a kind of fiction; the second locates a disappearance involving one actual display item.
 - **The handbook identifies the genre's only novel; the log leaves the number of missing books unrestricted.:** Representative a does not limit a genre to one member. In the log, the singular phrase reports one book's disappearance, although it does not rule out other losses.
+- **The handbook presents a representative member of a genre; the log reports an event involving a particular book.:** The first clause expresses a characteristic possibility for a kind of fiction; the second locates a disappearance involving one actual display item.
 - **Both phrases identify a shared book because the modifier of this kind makes the indefinite article definite.:** Of this kind narrows the class of novels. It does not by itself establish shared identification of a particular book or change a into a definite article.
 
 **Decision:** replaced.
@@ -3618,8 +3618,8 @@ Choose the paraphrase that preserves the article's effect.
 
 "It was not merely an inconvenience; it was the inconvenience that finally made her leave." What does the second article contribute?
 
-1. It turns every inconvenience she had suffered into a single event
-2. It identifies this inconvenience by its decisive consequence **[Correct]**
+1. It identifies this inconvenience by its decisive consequence **[Correct]**
+2. It turns every inconvenience she had suffered into a single event
 3. It proves that she had never suffered an inconvenience before
 4. It changes inconvenience from an event into an uncountable emotional state
 
@@ -3627,8 +3627,8 @@ Choose the paraphrase that preserves the article's effect.
 
 **Choice feedback:**
 
-- **It turns every inconvenience she had suffered into a single event:** The definite phrase selects the decisive event; it does not merge multiple events.
 - **It identifies this inconvenience by its decisive consequence:** The following clause specifies what makes this event identifiable in the narrative.
+- **It turns every inconvenience she had suffered into a single event:** The definite phrase selects the decisive event; it does not merge multiple events.
 - **It proves that she had never suffered an inconvenience before:** Other inconveniences may have occurred. "Finally" even makes a sequence of problems plausible.
 - **It changes inconvenience from an event into an uncountable emotional state:** Both occurrences remain countable event uses; the change concerns reference, not noun class.
 
@@ -3650,8 +3650,8 @@ Choose the interpretation that the article contrast supports.
 
 "She spoke with authority, though she was not an authority on the period." What is contrasted?
 
-1. Her manner sounded assured, though she was not a recognised specialist in the subject. **[Correct]**
-2. Her role authorised the speech, though she lacked permission to advise on that period.
+1. Her role authorised the speech, though she lacked permission to advise on that period.
+2. Her manner sounded assured, though she was not a recognised specialist in the subject. **[Correct]**
 3. Her subject knowledge was authoritative, though her manner failed to convey confidence.
 4. Her expertise was recognised, though she held no official post governing the discussion.
 
@@ -3659,8 +3659,8 @@ Choose the interpretation that the article contrast supports.
 
 **Choice feedback:**
 
-- **Her manner sounded assured, though she was not a recognised specialist in the subject.:** With authority describes the force or assurance of her speech; an authority on the period denotes an expert, which the second clause denies.
 - **Her role authorised the speech, though she lacked permission to advise on that period.:** This substitutes institutional permission for both senses. The sentence contrasts an assured manner with subject expertise, not two permissions.
+- **Her manner sounded assured, though she was not a recognised specialist in the subject.:** With authority describes the force or assurance of her speech; an authority on the period denotes an expert, which the second clause denies.
 - **Her subject knowledge was authoritative, though her manner failed to convey confidence.:** This reverses the contrast. She sounded authoritative, but the writer denies that she was a recognised expert on the period.
 - **Her expertise was recognised, though she held no official post governing the discussion.:** An authority on a period is a specialist, not an official who controls a meeting. The sentence denies specialist status, not an official post.
 
@@ -3682,8 +3682,8 @@ Choose the interpretation licensed by the phrase.
 
 "The correspondence reveals the Paris of her youth rather than the city the tourist brochures describe." What does "the Paris of her youth" identify?
 
-1. A different city formally named Paris during her youth
-2. The city as experienced or represented in a particular period of her life **[Correct]**
+1. The city as experienced or represented in a particular period of her life **[Correct]**
+2. A different city formally named Paris during her youth
 3. An unidentified city sharing some Parisian characteristics
 4. A set of letters whose published title is Paris of Her Youth
 
@@ -3691,8 +3691,8 @@ Choose the interpretation licensed by the phrase.
 
 **Choice feedback:**
 
-- **A different city formally named Paris during her youth:** The phrase need not refer to another municipality or a name change; it frames the familiar city through a period of experience.
 - **The city as experienced or represented in a particular period of her life:** This captures how the modifier licenses a definite, characterised use of the proper name.
+- **A different city formally named Paris during her youth:** The phrase need not refer to another municipality or a name change; it frames the familiar city through a period of experience.
 - **An unidentified city sharing some Parisian characteristics:** That would resemble a metaphorical "a Paris" reading, not the identified version of the city described here.
 - **A set of letters whose published title is Paris of Her Youth:** The words identify what the correspondence reveals, not a title assigned to the letters.
 
@@ -3716,8 +3716,8 @@ Choose the inference warranted by the indefinite phrase.
 
 1. The writer asserts that the proof contains exactly one flaw
 2. The writer has identified a flaw but is withholding its location
-3. The second phrase refers back to a flaw under the stated condition, without asserting that one exists **[Correct]**
-4. The writer excludes flaws in other proofs because the noun is definite
+3. The writer excludes flaws in other proofs because the noun is definite
+4. The second phrase refers back to a flaw under the stated condition, without asserting that one exists **[Correct]**
 
 **Explanation:** "A flaw" is introduced inside an if-condition. "The flaw" can refer back inside that hypothetical reasoning without committing the writer to the existence of a flaw.
 
@@ -3725,8 +3725,8 @@ Choose the inference warranted by the indefinite phrase.
 
 - **The writer asserts that the proof contains exactly one flaw:** The conditional introduction does not assert existence, much less an exact count of actual flaws.
 - **The writer has identified a flaw but is withholding its location:** The writer explicitly proposes a location while leaving existence conditional.
-- **The second phrase refers back to a flaw under the stated condition, without asserting that one exists:** This keeps the definite reference within the hypothetical situation introduced by if.
 - **The writer excludes flaws in other proofs because the noun is definite:** The article identifies the locally introduced possibility; it says nothing about other proofs.
+- **The second phrase refers back to a flaw under the stated condition, without asserting that one exists:** This keeps the definite reference within the hypothetical situation introduced by if.
 
 **Decision:** replaced.
 
@@ -3746,19 +3746,19 @@ Choose the interpretation of the article phrase.
 
 "For all his objections, he remained a believer in the project, if not the believer his colleagues had hoped for." What does the final phrase imply?
 
-1. His colleagues had envisaged a kind of supporter whose commitment he did not fully display **[Correct]**
-2. His colleagues wanted another supporter to replace him because they considered him an opponent
-3. His colleagues recognised him as their leading supporter but had not expected his objections
-4. His colleagues doubted his private support because his public commitment exceeded their expectations
+1. His colleagues wanted another supporter to replace him because they considered him an opponent
+2. His colleagues recognised him as their leading supporter but had not expected his objections
+3. His colleagues doubted his private support because his public commitment exceeded their expectations
+4. His colleagues had envisaged a kind of supporter whose commitment he did not fully display **[Correct]**
 
 **Explanation:** "A believer" grants membership in the category of supporters. "The believer his colleagues had hoped for" refers to their envisaged kind of committed supporter. The contrast qualifies his support without cancelling it.
 
 **Choice feedback:**
 
-- **His colleagues had envisaged a kind of supporter whose commitment he did not fully display:** The indefinite phrase grants that he supports the project; the definite description measures him against their unrealised expectation.
 - **His colleagues wanted another supporter to replace him because they considered him an opponent:** 'He remained a believer' affirms support. The contrast concerns the kind of supporter he was, not a stated plan to replace an opponent.
 - **His colleagues recognised him as their leading supporter but had not expected his objections:** The relative clause identifies an envisaged supporter, not an established leading figure. 'If not' withholds the hoped-for characterisation.
 - **His colleagues doubted his private support because his public commitment exceeded their expectations:** The sentence neither divides public from private belief nor says he exceeded their expectations; he falls short of the hoped-for characterisation.
+- **His colleagues had envisaged a kind of supporter whose commitment he did not fully display:** The indefinite phrase grants that he supports the project; the definite description measures him against their unrealised expectation.
 
 **Decision:** replaced.
 
@@ -3770,37 +3770,37 @@ Choose the interpretation of the article phrase.
 
 **Similarity review:** An expected persona differs from recognised pre-eminence in the expert contrast.
 
-### 18. Institutional activity versus identified location with a qualified interpretation
+### 18. Limits on reconstructing definiteness after headline article omission
 
 ID: `coverage-articles-c2-478`
 
-Choose the explanation that fits both examples.
+A copy editor has a headline but not the accompanying report.
 
-Compare "She went to court to challenge the decision" and "She went to the court to photograph its entrance". What is the principal effect of the article?
+The headline reads 'Court dismisses claim'. Can the missing article before court be reconstructed as a or the from these words alone?
 
-1. The first frames participation in proceedings; the second identifies a place in this context **[Correct]**
-2. The bare phrase identifies any court, while the definite phrase always identifies a building
-3. The first refers to one case, while the second refers to the whole judicial system
-4. The article itself changes her role from claimant in the first sentence to employee in the second
+1. No: headline compression can omit either article; the report must establish how the court is being introduced or identified. **[Correct]**
+2. Yes: the completed event requires the because its participants are now definite.
+3. Yes: bare court names the judicial system, so adding either article would change the subject.
+4. No article is missing: capitalisation makes Court a proper name that should remain bare in full prose.
 
-**Explanation:** "Go to court" conventionally means engaging with legal proceedings. "Go to the court" can identify a particular institution or location; photographing its entrance makes the physical-place reading salient. The contrast is contextual, not a rule that the always means a building.
+**Explanation:** Headlines commonly omit articles. Bare court here therefore does not settle whether full prose would introduce a court with a or identify the relevant court with the.
 
 **Choice feedback:**
 
-- **The first frames participation in proceedings; the second identifies a place in this context:** The bare institutional expression and the stated photographic purpose together support this qualified distinction.
-- **The bare phrase identifies any court, while the definite phrase always identifies a building:** The building-only rule is too strong: "the court rejected the appeal" refers to judicial authority, not a building acting physically.
-- **The first refers to one case, while the second refers to the whole judicial system:** Article choice does not establish that case-versus-system contrast; the second sentence identifies a place with an entrance.
-- **The article itself changes her role from claimant in the first sentence to employee in the second:** The purposes of the visits guide interpretation. The article does not assign her an employment status.
+- **No: headline compression can omit either article; the report must establish how the court is being introduced or identified.:** Headlines commonly omit articles. Bare court here therefore does not settle whether full prose would introduce a court with a or identify the relevant court with the.
+- **Yes: the completed event requires the because its participants are now definite.:** Completion of an event does not determine article choice. A past event can introduce a participant with a or refer to an identifiable participant with the.
+- **Yes: bare court names the judicial system, so adding either article would change the subject.:** The headline can report a decision by an individual court. Article omission in a headline is not the same as the conventional bare institutional expression in go to court.
+- **No article is missing: capitalisation makes Court a proper name that should remain bare in full prose.:** The capital occurs at the start of the headline. It does not establish Court as a proper name or license ordinary prose such as Court dismissed a claim.
 
 **Decision:** replaced.
 
-**Original findings:** Original earlier-precedent item tested only vowel-based an.
+**Original findings:** Original earlier-precedent item tested only vowel-based an. Secondary review: the court-versus-building comparison repeated B2-430's institutional-status-versus-place contrast. The replacement distinguishes headline article omission from ordinary institutional zero article and recognises that omitted definiteness cannot be recovered without discourse.
 
-**Learning value:** Teaches a useful article contrast while explicitly avoiding a false building-only rule.
+**Learning value:** Prevents treating compressed headline grammar as evidence for ordinary zero-article usage or a uniquely recoverable article.
 
-**Level rationale:** Requires interpreting conventional usage and recognising the limits of a commonly simplified grammar rule.
+**Level rationale:** The learner must separate genre-specific omission, institutional reference, proper-name status, and information unavailable without the report.
 
-**Similarity review:** Institutional activity is distinct from names, professions, and abstract concepts.
+**Similarity review:** Only headline-restoration item; replaces a second institutional visit comparison.
 
 ### 19. Mass intellectual activity versus countable genre product
 
@@ -3810,8 +3810,8 @@ Choose the explanation of the changed noun phrase.
 
 A reviewer writes "The chapter offers history, not nostalgia". Another writes "The chapter offers a history, not a memoir". What change accompanies the added articles?
 
-1. Both reviewers describe a single historical account; only the second says whether it is personal
-2. The first contrasts approaches to the past; the second classifies an account by genre **[Correct]**
+1. The first contrasts approaches to the past; the second classifies an account by genre **[Correct]**
+2. Both reviewers describe a single historical account; only the second says whether it is personal
 3. The first judges the account's accuracy; the second establishes that the chapter is a complete book
 4. Both contrast genres; the added articles identify particular accounts already familiar to the reader
 
@@ -3819,8 +3819,8 @@ A reviewer writes "The chapter offers history, not nostalgia". Another writes "T
 
 **Choice feedback:**
 
-- **Both reviewers describe a single historical account; only the second says whether it is personal:** The first bare-noun contrast need not count a single account: a chapter can offer historical treatment rather than nostalgic treatment without constituting an individual history.
 - **The first contrasts approaches to the past; the second classifies an account by genre:** Bare nouns describe modes of treatment; a history and a memoir package accounts as countable genre instances.
+- **Both reviewers describe a single historical account; only the second says whether it is personal:** The first bare-noun contrast need not count a single account: a chapter can offer historical treatment rather than nostalgic treatment without constituting an individual history.
 - **The first judges the account's accuracy; the second establishes that the chapter is a complete book:** The first may praise its approach without guaranteeing accuracy. A chapter can offer a history without being a complete book.
 - **Both contrast genres; the added articles identify particular accounts already familiar to the reader:** The indefinite articles classify accounts without presenting them as already familiar. The first contrast is between historical and nostalgic treatment.
 
@@ -3843,8 +3843,8 @@ Read the definite phrase in its statistical context; no arithmetic is required.
 'The average respondent had 1.6 children, although no individual respondent had that number.' Why is 'the average respondent' coherent here?
 
 1. It identifies the actual respondent whose family was closest to the numerical mean.
-2. It identifies the previously mentioned respondent selected to represent the sample.
-3. It denotes an abstract statistical representative rather than an individual person. **[Correct]**
+2. It denotes an abstract statistical representative rather than an individual person. **[Correct]**
+3. It identifies the previously mentioned respondent selected to represent the sample.
 4. It denotes the most frequently occurring family type among the actual respondents.
 
 **Explanation:** The definite phrase presents a statistical abstraction as a representative respondent. It does not require an actual person with exactly the averaged properties. Treating the as a guarantee of one real-world individual would therefore misread the sentence.
@@ -3852,8 +3852,8 @@ Read the definite phrase in its statistical context; no arithmetic is required.
 **Choice feedback:**
 
 - **It identifies the actual respondent whose family was closest to the numerical mean.:** An average representative is not necessarily the nearest actual case. The sentence assigns the averaged value to an abstraction, not a selected person's family.
-- **It identifies the previously mentioned respondent selected to represent the sample.:** No earlier individual is supplied, and the phrase does not perform ordinary backward reference to a survey participant.
 - **It denotes an abstract statistical representative rather than an individual person.:** The definite description names a constructed representative whose properties summarise the sample, so they need not coexist in one person.
+- **It identifies the previously mentioned respondent selected to represent the sample.:** No earlier individual is supplied, and the phrase does not perform ordinary backward reference to a survey participant.
 - **It denotes the most frequently occurring family type among the actual respondents.:** The most frequent family type is a different statistical idea. Average respondent here represents an averaged property, not the commonest actual household.
 
 **Decision:** replaced.

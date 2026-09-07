@@ -5,32 +5,34 @@
     {
       "id": "coverage-articles-a1-361",
       "level": "A1",
-      "setupText": "Choose the words for this introduction.",
-      "taskText": "You meet a new neighbour. Which sentence tells them your job?",
+      "setupText": "You are introducing your job. Choose the grammatically correct sentence.",
+      "taskText": "Which sentence is correct?",
       "options": [
         "I am nurse.",
         "I am an nurse.",
-        "I am a nurse.",
-        "I am the nurse."
+        "I am a nurses.",
+        "I am a nurse."
       ],
       "answer": "I am a nurse.",
-      "explanation": "\"A nurse\" names your job. You are introducing yourself as one member of that profession.",
+      "explanation": "Use a before the singular job noun nurse: I am a nurse. Nurse begins with the consonant sound /n/.",
       "rationales": {
-        "I am nurse.": "A job such as \"nurse\" is a singular countable noun. It needs a word such as \"a\" before it.",
-        "I am an nurse.": "\"Nurse\" begins with the consonant sound /n/, so use \"a\", not \"an\".",
-        "I am a nurse.": "This introduces your job without assuming that your neighbour already knows about a particular nurse.",
-        "I am the nurse.": "This identifies a particular nurse, such as the nurse someone is waiting for. The question asks you to introduce your job."
+        "I am nurse.": "The singular job noun nurse needs a word such as a before it: I am a nurse.",
+        "I am an nurse.": "Nurse starts with the consonant sound /n/, so use a, not an.",
+        "I am a nurse.": "A nurse correctly names one person's job, with a before the singular noun.",
+        "I am a nurses.": "A needs a singular noun. Use a nurse, not a nurses."
       },
       "audit": {
         "status": "reviewed",
         "decision": "replaced",
         "findings": [
-          "Photo item repeated the singular-noun frame and gave no reason for individual errors."
+          "Photo item repeated the singular-noun frame and gave no reason for individual errors.",
+          "Secondary review: telling a new neighbour one's job did not exclude the grammatical definite-role interpretation. The instruction now explicitly requests professional classification without shared-role identification.",
+          "Further secondary refinement: the explicit reference exclusion imposed excessive metalinguistic processing at A1. Replaced the valid definite-role option with the plausible number error a nurses and changed to a simple grammar-only task."
         ],
-        "microSkill": "Indefinite article when naming an occupation",
-        "pedagogicalValue": "Distinguishes telling someone a job from identifying a particular worker.",
-        "levelReason": "A short personal introduction uses an everyday job word and the present form of be.",
-        "similarityNote": "The only A1 item about an occupation in a first meeting."
+        "microSkill": "Indefinite article and singular number when naming an occupation",
+        "pedagogicalValue": "Practises the job expression a nurse while distinguishing a missing article, the wrong sound-based article, and a plural noun after a.",
+        "levelReason": "A simple job introduction tests familiar beginner forms without abstract reference instructions.",
+        "similarityNote": "The only A1 profession introduction; all three distractors contain actual form errors."
       }
     },
     {
@@ -39,9 +41,9 @@
       "setupText": "Choose the grammatically correct sentence.",
       "taskText": "Which sentence is correct?",
       "options": [
-        "Can I borrow an eraser?",
         "Can I borrow a eraser?",
         "Can I borrow eraser?",
+        "Can I borrow an eraser?",
         "Can I borrow an erasers?"
       ],
       "answer": "Can I borrow an eraser?",
@@ -71,9 +73,9 @@
       "taskText": "There is just one door in the room. Please close ___ door.",
       "options": [
         "a",
+        "the",
         "an",
-        "(nothing)",
-        "the"
+        "(nothing)"
       ],
       "answer": "the",
       "explanation": "You can both identify the room's one door. \"The door\" points to that particular door.",
@@ -102,9 +104,9 @@
       "taskText": "Which sentence says what people need every day?",
       "options": [
         "People need a water every day.",
-        "People need water every day.",
         "People need an water every day.",
-        "People need the water every day."
+        "People need the water every day.",
+        "People need water every day."
       ],
       "answer": "People need water every day.",
       "explanation": "\"Water\" names a substance in general here. We do not put an article before it: \"People need water.\"",
@@ -163,8 +165,8 @@
       "setupText": "You are in your own flat. Choose the usual way to tell a friend where you are.",
       "taskText": "I'm ___ now. You can call me.",
       "options": [
-        "at a home",
         "at home",
+        "at a home",
         "at an home",
         "at the home"
       ],
@@ -194,9 +196,9 @@
       "setupText": "Choose the word for the same bus.",
       "taskText": "A bus stops beside us. ___ bus is full.",
       "options": [
-        "The",
         "A",
         "An",
+        "The",
         "(nothing)"
       ],
       "answer": "The",
@@ -225,9 +227,9 @@
       "setupText": "Choose the sentence about a general liking.",
       "taskText": "You like cats of all kinds. What do you say?",
       "options": [
+        "I like cats.",
         "I like a cats.",
         "I like an cats.",
-        "I like cats.",
         "I like the cats."
       ],
       "answer": "I like cats.",
@@ -257,8 +259,8 @@
       "taskText": "Which sentence is correct?",
       "options": [
         "We have an small kitchen.",
-        "We have a small kitchen.",
         "We have small kitchen.",
+        "We have a small kitchen.",
         "We have a small kitchens."
       ],
       "answer": "We have a small kitchen.",
@@ -315,27 +317,28 @@
     {
       "id": "coverage-articles-a1-371",
       "level": "A1",
-      "setupText": "Choose the word for the marked item.",
+      "setupText": "Refer to the particular blue cup both people can identify, not just any blue cup.",
       "taskText": "There are three cups. Only one is blue. Please use ___ blue cup.",
       "options": [
         "an",
         "(nothing)",
-        "the",
-        "a"
+        "a",
+        "the"
       ],
       "answer": "the",
       "explanation": "The colour identifies one cup among the three. \"The blue cup\" tells the listener exactly which cup to use.",
       "rationales": {
-        "an": "\"Blue\" starts with a consonant sound, so \"an blue cup\" is not grammatical.",
-        "(nothing)": "The singular noun \"cup\" still needs a determiner even when an adjective comes before it.",
-        "the": "There is exactly one blue cup, so \"the\" identifies it among the three cups.",
-        "a": "\"A blue cup\" does not mark the already identified unique blue cup as clearly as the definite phrase requested."
+        "an": "'Blue' starts with a consonant sound, so 'an blue cup' is not grammatical.",
+        "(nothing)": "The singular noun 'cup' still needs a determiner even when an adjective comes before it.",
+        "the": "The definite article presents the blue cup as the particular cup both people can identify.",
+        "a": "'A blue cup' is grammatical and might lead to the same choice here. It does not explicitly present the cup as already identifiable, as this instruction requires."
       },
       "audit": {
         "status": "reviewed",
         "decision": "replaced",
         "findings": [
-          "Pencil-on-desk item relied on unstated shared knowledge."
+          "Pencil-on-desk item relied on unstated shared knowledge.",
+          "Secondary review: a blue cup remained grammatical and practically sufficient in the one-blue-cup setting. The task now explicitly requires identifiable reference rather than treating the preferred article as a grammatical necessity."
         ],
         "microSkill": "The when an adjective identifies one member of a group",
         "pedagogicalValue": "Shows how a description can identify a particular object.",
@@ -411,8 +414,8 @@
       "setupText": "Choose the grammatically correct sentence.",
       "taskText": "Which sentence is correct?",
       "options": [
-        "This is a old photo of me.",
         "This is an old photo of me.",
+        "This is a old photo of me.",
         "This is old photo of me.",
         "This is an old photos of me."
       ],
@@ -443,8 +446,8 @@
       "taskText": "Which sentence is correct?",
       "options": [
         "Sun is very bright today.",
-        "An sun is very bright today.",
         "The sun is very bright today.",
+        "An sun is very bright today.",
         "The a sun is very bright today."
       ],
       "answer": "The sun is very bright today.",
@@ -475,8 +478,8 @@
       "options": [
         "I live in a Tokyo.",
         "I live in the Tokyo.",
-        "I live in an Tokyo.",
-        "I live in Tokyo."
+        "I live in Tokyo.",
+        "I live in an Tokyo."
       ],
       "answer": "I live in Tokyo.",
       "explanation": "The city name \"Tokyo\" normally stands alone. Do not add an article when you simply say where you live.",
@@ -504,8 +507,8 @@
       "setupText": "Choose the grammatically correct sentence.",
       "taskText": "Which sentence is correct?",
       "options": [
-        "I have a brother and two sisters.",
         "I have brother and two sisters.",
+        "I have a brother and two sisters.",
         "I have an brother and two sisters.",
         "I have a brother and a two sisters."
       ],
@@ -536,8 +539,8 @@
       "taskText": "Your name is Ana. What do you say?",
       "options": [
         "My name is an Ana.",
-        "My name is Ana.",
         "My name Ana.",
+        "My name is Ana.",
         "My a name is Ana."
       ],
       "answer": "My name is Ana.",
@@ -567,8 +570,8 @@
       "taskText": "Our lesson is on ___ first floor, not the second floor.",
       "options": [
         "a",
-        "an",
         "the",
+        "an",
         "(nothing)"
       ],
       "answer": "the",
@@ -629,9 +632,9 @@
       "taskText": "I bought a used car yesterday. ___ car needs two new tyres.",
       "options": [
         "An",
-        "The",
         "A",
-        "(nothing)"
+        "(nothing)",
+        "The"
       ],
       "answer": "The",
       "explanation": "\"The car\" refers back to the used car just introduced. Repeating \"a car\" would not clearly maintain that reference.",
@@ -660,9 +663,9 @@
       "taskText": "My new position begins tomorrow. The company has sent me ___ about my first day.",
       "options": [
         "an information",
-        "a piece of information",
         "an piece of information",
-        "a piece of informations"
+        "a piece of informations",
+        "a piece of information"
       ],
       "answer": "a piece of information",
       "explanation": "\"Information\" is uncountable. To refer to one detail, use the countable phrase \"a piece of information\".",
@@ -723,8 +726,8 @@
       "options": [
         "We have training every the Monday.",
         "We have training on a Mondays.",
-        "We have training on an Mondays.",
-        "We have training on Mondays."
+        "We have training on Mondays.",
+        "We have training on an Mondays."
       ],
       "answer": "We have training on Mondays.",
       "explanation": "\"On Mondays\" means regularly on that day of the week. The plural day name does not take an article in this expression.",
@@ -752,8 +755,8 @@
       "setupText": "Choose the grammatically correct phrase.",
       "taskText": "This isn't a language school. It's ___.",
       "options": [
-        "an university",
         "a university",
+        "an university",
         "university",
         "a universities"
       ],
@@ -785,8 +788,8 @@
       "options": [
         "the small hotel",
         "another small hotel",
-        "a small hotel",
-        "that small hotel"
+        "that small hotel",
+        "a small hotel"
       ],
       "answer": "a small hotel",
       "explanation": "A small hotel describes one place of the kind the travellers want. They can use a before they have found or chosen that place.",
@@ -814,8 +817,8 @@
       "setupText": "Choose the usual phrase naming the means of travel.",
       "taskText": "Flights are expensive, so we're going to Paris ___.",
       "options": [
-        "by train",
         "by a train",
+        "by train",
         "by an train",
         "by the train"
       ],
@@ -845,8 +848,8 @@
       "setupText": "Choose the grammatically correct phrase.",
       "taskText": "The repair took exactly sixty minutes: ___.",
       "options": [
-        "a hour",
         "an hour",
+        "a hour",
         "an hours",
         "hour"
       ],
@@ -876,9 +879,9 @@
       "setupText": "Choose the phrase for all the details printed on this ticket.",
       "taskText": "Check ___ before you travel.",
       "options": [
+        "the information on your ticket",
         "an information on your ticket",
         "a information on your ticket",
-        "the information on your ticket",
         "the informations on your ticket"
       ],
       "answer": "the information on your ticket",
@@ -907,10 +910,10 @@
       "setupText": "Choose the words for this country name.",
       "taskText": "My sister lives in ___ United States.",
       "options": [
+        "the",
         "a",
         "an",
-        "(nothing)",
-        "the"
+        "(nothing)"
       ],
       "answer": "the",
       "explanation": "The conventional country name is \"the United States\". Some multiword country names use \"the\", even though names such as Japan do not.",
@@ -939,8 +942,8 @@
       "taskText": "The map has bus routes and opening times. What ___!",
       "options": [
         "an useful guide",
-        "useful guide",
         "a useful guide",
+        "useful guide",
         "a useful guides"
       ],
       "answer": "a useful guide",
@@ -970,8 +973,8 @@
       "taskText": "At the cafe: \"Two coffees, please: ___ and a cappuccino.\"",
       "options": [
         "a espresso",
-        "an espresso",
         "an espressos",
+        "an espresso",
         "a espressos"
       ],
       "answer": "an espresso",
@@ -1000,10 +1003,10 @@
       "setupText": "Choose the grammatically correct phrase.",
       "taskText": "Both bags look blue to me. Are they ___ colour?",
       "options": [
+        "the same",
         "a same",
         "an same",
-        "same",
-        "the same"
+        "same"
       ],
       "answer": "the same",
       "explanation": "The normal expression is \"the same colour\". English uses \"the\" with \"same\" in this comparison.",
@@ -1031,8 +1034,8 @@
       "setupText": "Choose the ordinary way to name the sport.",
       "taskText": "After work, we usually play ___ with our neighbours.",
       "options": [
-        "tennis",
         "a tennis",
+        "tennis",
         "an tennis",
         "the tennis"
       ],
@@ -1064,8 +1067,8 @@
       "options": [
         "an big breakfast",
         "big breakfast",
-        "a big breakfast",
-        "a big breakfasts"
+        "a big breakfasts",
+        "a big breakfast"
       ],
       "answer": "a big breakfast",
       "explanation": "An ordinary meal name can become countable when we describe one particular meal: \"a big breakfast\".",
@@ -1125,9 +1128,9 @@
       "taskText": "We saw three flats at different prices. We chose ___.",
       "options": [
         "a cheap flat",
+        "the cheapest flat",
         "another cheap flat",
-        "the cheaper flat",
-        "the cheapest flat"
+        "the cheaper flat"
       ],
       "answer": "the cheapest flat",
       "explanation": "The cheapest flat identifies the one with the lowest price in the group of three. A cheap flat only says that its price is low; it does not rank it against the other two.",
@@ -1155,9 +1158,9 @@
       "setupText": "Choose the grammatically correct sentence.",
       "taskText": "Which sentence is correct?",
       "options": [
-        "My brother gave me some useful advice.",
         "My brother gave me an useful advice.",
         "My brother gave me a useful advice.",
+        "My brother gave me some useful advice.",
         "My brother gave me some useful advices."
       ],
       "answer": "My brother gave me some useful advice.",
@@ -1187,8 +1190,8 @@
       "taskText": "I take this medicine twice ___: once in the morning and once at night.",
       "options": [
         "an day",
-        "a day",
         "a days",
+        "a day",
         "day"
       ],
       "answer": "a day",
@@ -1219,8 +1222,8 @@
       "options": [
         "small or large bag",
         "an small or an large bag",
-        "a small or a large bag",
-        "a small or a large bags"
+        "a small or a large bags",
+        "a small or a large bag"
       ],
       "answer": "a small or a large bag",
       "explanation": "A small or a large bag offers two possible sizes of one bag. Repeating a before large is correct; a small or large bag, with one shared article, is also possible.",
@@ -1281,8 +1284,8 @@
       "options": [
         "an clearer diagram",
         "clearer diagram",
-        "a clearer diagram",
-        "a clearer diagrams"
+        "a clearer diagrams",
+        "a clearer diagram"
       ],
       "answer": "a clearer diagram",
       "explanation": "Diagram is a singular countable noun here, and clearer describes it. The article comes before the adjective: a clearer diagram. Unlike explanation, diagram does not have an ordinary uncountable reading in this request.",
@@ -1341,10 +1344,10 @@
       "setupText": "Choose the phrase for the roof belonging to the rented house.",
       "taskText": "We rented a house beside the lake, but ___ leaks whenever it rains.",
       "options": [
-        "the roof",
         "a roof",
         "another roof",
-        "one of the roofs"
+        "one of the roofs",
+        "the roof"
       ],
       "answer": "the roof",
       "explanation": "The house has introduced an associated roof even though the word \"roof\" is new. \"The roof\" means the roof of that house.",
@@ -1374,8 +1377,8 @@
       "options": [
         "an evidence",
         "a convincing evidence",
-        "a pieces of evidence",
-        "convincing evidence"
+        "convincing evidence",
+        "a pieces of evidence"
       ],
       "answer": "convincing evidence",
       "explanation": "\"Evidence\" is uncountable in this meaning. Say \"convincing evidence\", or use a unit such as \"a piece of evidence\".",
@@ -1434,8 +1437,8 @@
       "setupText": "Choose the grammatically correct phrase in standard written English.",
       "taskText": "My passport arrived just before the trip. It was ___ to stop worrying about it.",
       "options": [
-        "such a relief",
         "a such relief",
+        "such a relief",
         "such the relief",
         "so a relief"
       ],
@@ -1496,10 +1499,10 @@
       "setupText": "Choose the expression for the already identified train.",
       "taskText": "My ticket says 8:15, platform four. I'll meet you on ___ from Brighton.",
       "options": [
+        "the 8:15 train",
         "an 8:15 train",
         "8:15 train",
-        "these 8:15 train",
-        "the 8:15 train"
+        "these 8:15 train"
       ],
       "answer": "the 8:15 train",
       "explanation": "The departure time identifies the booked service. \"The 8:15 train\" refers to that particular train, rather than naming travel by train in general.",
@@ -1528,8 +1531,8 @@
       "taskText": "Both families need a place to live. The charity helps people find ___ .",
       "options": [
         "an accommodation",
-        "a suitable accommodation",
         "suitable accommodation",
+        "a suitable accommodation",
         "a suitable accommodations"
       ],
       "answer": "suitable accommodation",
@@ -1590,8 +1593,8 @@
       "taskText": "\"Before the meeting, I read a paper about local water use.\" What does \"a paper\" most naturally mean here?",
       "options": [
         "Paper as a material for printing",
-        "One written article or study",
         "All the documents required for the meeting",
+        "One written article or study",
         "A quantity of blank sheets"
       ],
       "answer": "One written article or study",
@@ -1621,9 +1624,9 @@
       "taskText": "There were two keys. I have one; do you have ___?",
       "options": [
         "another key",
-        "the other key",
         "an other key",
-        "other key"
+        "other key",
+        "the other key"
       ],
       "answer": "the other key",
       "explanation": "Only two keys are in the stated set. Once one is identified, \"the other key\" identifies the single remaining key.",
@@ -1652,9 +1655,9 @@
       "taskText": "Her degree is in ___; she studies how people use limited resources.",
       "options": [
         "an economics",
+        "economics",
         "a economics",
-        "the economics",
-        "economics"
+        "the economics"
       ],
       "answer": "economics",
       "explanation": "The name of the field is \"economics\", without an article in \"a degree in economics\". Its final -s does not make it a set of countable objects.",
@@ -1682,10 +1685,10 @@
       "setupText": "In a British English conversation about education, a neighbour asks, 'Has your daughter finished secondary school yet?'",
       "taskText": "The parent replies, 'No, she's still at school.' What does the article-free phrase express in this exchange?",
       "options": [
-        "She is still a pupil rather than having finished that stage of education.",
         "She has stayed on the school premises later than the parent expected.",
         "She works at a school rather than studying there as a pupil.",
-        "She is visiting a school without being enrolled as a student."
+        "She is visiting a school without being enrolled as a student.",
+        "She is still a pupil rather than having finished that stage of education."
       ],
       "answer": "She is still a pupil rather than having finished that stage of education.",
       "explanation": "In this British English exchange, still at school concerns educational status: she has not finished school. The question about finishing education selects that reading rather than a claim about her physical location at this moment.",
@@ -1713,9 +1716,9 @@
       "setupText": "Choose the correct phrase for this building's unique exit of that kind.",
       "taskText": "The plan shows just one emergency exit. Staff must keep ___ clear.",
       "options": [
+        "the emergency exit",
         "an emergency exits",
         "emergency exit",
-        "the emergency exit",
         "these emergency exit"
       ],
       "answer": "the emergency exit",
@@ -1775,8 +1778,8 @@
       "setupText": "Choose the grammatically correct phrase.",
       "taskText": "At the end of each placement, trainees receive ___ about their work.",
       "options": [
-        "a detailed feedback",
         "detailed feedback",
+        "a detailed feedback",
         "an detailed feedback",
         "detailed feedbacks"
       ],
@@ -1806,9 +1809,9 @@
       "setupText": "Choose the phrase that introduces several summaries as new information, without assuming the listener can already identify them.",
       "taskText": "The librarian found ___ of the debate, so I could compare different accounts.",
       "options": [
+        "some useful summaries",
         "a useful summary",
         "the useful summaries",
-        "some useful summaries",
         "another useful summary"
       ],
       "answer": "some useful summaries",
@@ -1837,10 +1840,10 @@
       "setupText": "Two musicians are looking for somewhere to practise. Choose the distinction between the two uses of space.",
       "taskText": "'There's space for the drum kit downstairs, and a rehearsal space upstairs.'",
       "options": [
-        "The first concerns available room; the second introduces one area used for rehearsing.",
         "The first identifies a booked room; the second names the spare room inside that same booking.",
         "The first counts one rehearsal session; the second counts the musicians who can attend it.",
-        "Both count individual rooms, with the article omitted from the first because it is downstairs."
+        "Both count individual rooms, with the article omitted from the first because it is downstairs.",
+        "The first concerns available room; the second introduces one area used for rehearsing."
       ],
       "answer": "The first concerns available room; the second introduces one area used for rehearsing.",
       "explanation": "Bare space describes room available for the drum kit without counting a separate area. A rehearsal space counts one area with a particular use. The same noun can therefore be uncountable or countable with different meanings.",
@@ -1869,8 +1872,8 @@
       "taskText": "\"It was a most enjoyable evening.\" What does \"a most enjoyable evening\" mean here?",
       "options": [
         "The most enjoyable evening out of every evening compared",
-        "A very enjoyable evening, without an explicit ranking",
         "An evening enjoyed by most of the guests",
+        "A very enjoyable evening, without an explicit ranking",
         "An evening that was enjoyable for most of its duration"
       ],
       "answer": "A very enjoyable evening, without an explicit ranking",
@@ -1899,9 +1902,9 @@
       "setupText": "Choose the interpretation that preserves the writer's emphasis.",
       "taskText": "\"We still have a few seats, so you can join us.\" Why does \"a few\" fit the invitation?",
       "options": [
-        "It presents the small number of remaining seats positively as available",
         "It emphasises that almost no seats remain and therefore discourages attendance",
         "It identifies seats already reserved for the listener",
+        "It presents the small number of remaining seats positively as available",
         "It says the speaker cannot estimate whether any seats remain"
       ],
       "answer": "It presents the small number of remaining seats positively as available",
@@ -1930,8 +1933,8 @@
       "setupText": "Choose the wording that supports the stated reason for cancelling.",
       "taskText": "The guide cancels the climb because the group has almost no experience. Which explanation keeps that emphasis?",
       "options": [
-        "We have a little experience of climbing.",
         "We have little experience of climbing.",
+        "We have a little experience of climbing.",
         "We have a little of the experience of climbing.",
         "We have the little experience of climbing."
       ],
@@ -1962,9 +1965,9 @@
       "taskText": "A website adds an unexpected fee at the final payment step. Its designer calls this 'confusing by design'. What does 'by design' mean?",
       "options": [
         "Confusing because the design has not yet been completed",
-        "Deliberately confusing as a planned part of the payment process",
         "Confusing despite a plan intended to make the process clear",
-        "Confusing in its layout rather than in the information it presents"
+        "Confusing in its layout rather than in the information it presents",
+        "Deliberately confusing as a planned part of the payment process"
       ],
       "answer": "Deliberately confusing as a planned part of the payment process",
       "explanation": "By design is an article-free expression meaning intentionally. It says the confusing effect was planned, not that the design was unfinished or that only the visual layout causes difficulty.",
@@ -1993,9 +1996,9 @@
       "taskText": "\"The electric car is changing the way cities plan charging networks.\" In a paragraph about transport trends, what does \"the electric car\" represent?",
       "options": [
         "One electric vehicle being used as the main example throughout the paragraph",
-        "Electric cars as a technological category, rather than a particular physical vehicle",
         "The city's first electric vehicle, treated as the beginning of a wider trend",
-        "The electric vehicles in one identified fleet, rather than the vehicle type generally"
+        "The electric vehicles in one identified fleet, rather than the vehicle type generally",
+        "Electric cars as a technological category, rather than a particular physical vehicle"
       ],
       "answer": "Electric cars as a technological category, rather than a particular physical vehicle",
       "explanation": "A definite singular can represent a class or invention. In this general discussion, \"the electric car\" means the technology or vehicle type, not one physical car.",
@@ -2023,8 +2026,8 @@
       "setupText": "Choose the interpretation of the article change.",
       "taskText": "Compare \"She has experience in emergency nursing\" and \"She described an experience from her first night on the ward\". What does \"an\" do in the second sentence?",
       "options": [
-        "It presents one event she lived through rather than accumulated practical knowledge",
         "It says her practical knowledge is greater than that of other nurses",
+        "It presents one event she lived through rather than accumulated practical knowledge",
         "It identifies an event that the listener has already heard about",
         "It says the event was unusual or dangerous"
       ],
@@ -2085,8 +2088,8 @@
       "setupText": "Choose the paraphrase that preserves the force of the article-free expression.",
       "taskText": "An old resident says, 'The village has changed beyond recognition.'",
       "options": [
-        "The village has changed in ways that few people have officially acknowledged.",
         "The village is so different that its former appearance is hard to recognise.",
+        "The village has changed in ways that few people have officially acknowledged.",
         "The village has changed, though its old appearance remains easy to recognise.",
         "The village has become better known because people have praised its improvements."
       ],
@@ -2117,8 +2120,8 @@
       "taskText": "A travel writer is describing the inhabitants of France as a national group. Which sentence has that reading?",
       "options": [
         "French has influenced the neighbouring regions.",
-        "A French has influenced the neighbouring regions.",
         "The French have influenced the neighbouring regions.",
+        "A French has influenced the neighbouring regions.",
         "The French has influenced the neighbouring regions."
       ],
       "answer": "The French have influenced the neighbouring regions.",
@@ -2147,9 +2150,9 @@
       "setupText": "Choose the interpretation that fits the purpose of each visit.",
       "taskText": "\"During her sentence she was in prison. Years later she returned to the prison to give a talk.\" What does the added article help signal?",
       "options": [
-        "It contrasts imprisonment with a later visit to an identified institution.",
         "It introduces an unfamiliar prison, then identifies a different one for the talk.",
         "It contrasts time spent in prison generally with a return to prisoner status.",
+        "It contrasts imprisonment with a later visit to an identified institution.",
         "It describes her earlier circumstances, then leaves the later destination unspecified."
       ],
       "answer": "It contrasts imprisonment with a later visit to an identified institution.",
@@ -2179,9 +2182,9 @@
       "taskText": "\"The pilot was a success, although the wider programme still faced difficulties.\" What does \"a success\" mean?",
       "options": [
         "Success as an abstract quality of every part of the programme",
-        "One undertaking judged to have achieved a good result",
         "The only successful activity in the organisation's history",
-        "A successful person appointed to manage the programme"
+        "A successful person appointed to manage the programme",
+        "One undertaking judged to have achieved a good result"
       ],
       "answer": "One undertaking judged to have achieved a good result",
       "explanation": "\"A success\" classifies the pilot as a successful undertaking. It is a countable result use, whereas article-free \"success\" can name the abstract idea.",
@@ -2209,8 +2212,8 @@
       "setupText": "Choose the explanation of the two article patterns.",
       "taskText": "\"We need evidence before deciding. The evidence from yesterday's inspection is particularly relevant.\" Why can the second sentence use \"the\"?",
       "options": [
-        "Evidence becomes a singular count noun because it comes from one inspection",
         "The source phrase identifies a particular body of evidence",
+        "Evidence becomes a singular count noun because it comes from one inspection",
         "Repeating evidence requires the even if the second sentence concerns a different source",
         "The article presents the inspection findings as conclusive rather than merely relevant"
       ],
@@ -2271,10 +2274,10 @@
       "setupText": "Choose the explanation that preserves the contrast.",
       "taskText": "\"An essay can explore a question without answering it; the essay you submitted does neither.\" How do the articles guide the reader?",
       "options": [
-        "A general possibility for essays is contrasted with an assessment of one identifiable submission",
         "Both phrases refer to the submitted text, first as new information and then as known information",
         "The first identifies a model essay already written; the second identifies a student's response to it",
-        "The first introduces an unidentified text that the writer later discovers to be the submitted essay"
+        "The first introduces an unidentified text that the writer later discovers to be the submitted essay",
+        "A general possibility for essays is contrasted with an assessment of one identifiable submission"
       ],
       "answer": "A general possibility for essays is contrasted with an assessment of one identifiable submission",
       "explanation": "\"An essay\" supports a general claim through a representative example. \"The essay you submitted\" then singles out an identifiable text for criticism.",
@@ -2302,8 +2305,8 @@
       "setupText": "Choose the interpretation of the indefinite phrase.",
       "taskText": "\"There is a reason for the delay, but I cannot discuss it yet.\" What does \"a reason\" establish?",
       "options": [
-        "The speaker presents an explanation as existing without identifying it to the listener",
         "The speaker says the listener already knows the explanation",
+        "The speaker presents an explanation as existing without identifying it to the listener",
         "The speaker guarantees that only one contributing factor exists",
         "The speaker says the delay has no explanation that could be expressed"
       ],
@@ -2334,8 +2337,8 @@
       "taskText": "The memo cancels the concert because the venue is unsafe. We can dispute ___ without denying that repairs are needed.",
       "options": [
         "a further reason given in the memo",
-        "the reason given in the memo",
         "some other reasons given in the memo",
+        "the reason given in the memo",
         "another reason given in the memo"
       ],
       "answer": "the reason given in the memo",
@@ -2364,8 +2367,8 @@
       "setupText": "Choose the meaning of the article phrase.",
       "taskText": "\"After the interview, she felt a confidence she had never felt before.\" Why is \"a confidence\" possible?",
       "options": [
-        "It presents a particular kind or instance of the feeling, described by the following clause",
         "It counts one secret she has told the interviewer",
+        "It presents a particular kind or instance of the feeling, described by the following clause",
         "It identifies the feeling as already shared by all the interviewers",
         "It means the noun confidence is always countable after felt"
       ],
@@ -2426,10 +2429,10 @@
       "setupText": "Choose the grammatically correct sentence for this meaning.",
       "taskText": "The speaker means people who are out of work as a group. Which sentence expresses that?",
       "options": [
-        "The unemployed need access to affordable training.",
         "An unemployed needs access to affordable training.",
         "The unemployeds need access to affordable training.",
-        "An unemployed people need access to affordable training."
+        "An unemployed people need access to affordable training.",
+        "The unemployed need access to affordable training."
       ],
       "answer": "The unemployed need access to affordable training.",
       "explanation": "\"The unemployed\" uses the adjective to refer collectively to unemployed people. It takes plural agreement but does not add a plural -s to the adjective.",
@@ -2488,9 +2491,9 @@
       "setupText": "Choose the interpretation of the two noun phrases.",
       "taskText": "\"She studies public policy, but the policy she criticised yesterday was her own department's.\" How do the articles distinguish the references?",
       "options": [
-        "A field of study is contrasted with a particular departmental course of action",
         "One established policy is contrasted with a new example of the same policy",
         "Two particular policies are contrasted, with identifying details omitted from the first",
+        "A field of study is contrasted with a particular departmental course of action",
         "Two fields of study are contrasted, with the second limited to work in one department"
       ],
       "answer": "A field of study is contrasted with a particular departmental course of action",
@@ -2516,32 +2519,33 @@
     {
       "id": "coverage-articles-c1-442",
       "level": "C1",
-      "setupText": "Choose the reading supported by the article and modifier.",
-      "taskText": "\"The very wealthy were largely insulated from the rise in rents.\" What does \"the very wealthy\" denote?",
+      "setupText": "Compare the two expressions formed with the plus an adjective.",
+      "taskText": "A report says, 'The wealthy were protected from the worst of the losses.' How do the two definite expressions differ?",
       "options": [
-        "A single exceptionally wealthy household already mentioned",
-        "A collective group defined by a high degree of wealth",
-        "Wealth itself considered as an abstract resource",
-        "Every person whose income rose during the period"
+        "Both expressions denote groups of people, distinguished by their financial circumstances.",
+        "The first denotes wealth as a resource; the second identifies the people who lost most of it.",
+        "The first denotes wealthy people collectively; the second selects the most severe part of the losses.",
+        "Both expressions denote abstract conditions, one favourable and the other unfavourable."
       ],
-      "answer": "A collective group defined by a high degree of wealth",
-      "explanation": "\"The\" allows the modified adjective phrase \"very wealthy\" to refer collectively to people. It takes plural agreement without turning wealthy into a plural noun.",
+      "answer": "The first denotes wealthy people collectively; the second selects the most severe part of the losses.",
+      "explanation": "The plus an adjective can denote a human group or an abstract extreme. Wealthy gives the collective people reading; worst is interpreted through the following of the losses phrase.",
       "rationales": {
-        "A single exceptionally wealthy household already mentioned": "The adjective phrase refers collectively to wealthy people; it does not name or identify one particular household.",
-        "A collective group defined by a high degree of wealth": "The definite article combines with the degree-modified adjective to identify the group.",
-        "Wealth itself considered as an abstract resource": "The phrase refers to people who possess wealth; the abstract noun would be wealth.",
-        "Every person whose income rose during the period": "An increase in income does not establish that a person is very wealthy. The adjective describes a level of wealth, not a recent change."
+        "Both expressions denote groups of people, distinguished by their financial circumstances.": "The wealthy denotes people, but the worst of the losses selects the most severe part of the losses, not a second human group.",
+        "The first denotes wealthy people collectively; the second selects the most severe part of the losses.": "The plus an adjective can denote a human group or an abstract extreme. Wealthy gives the collective people reading; worst is interpreted through the following of the losses phrase.",
+        "The first denotes wealth as a resource; the second identifies the people who lost most of it.": "Wealthy describes people possessing wealth, not the resource itself. The losses phrase makes worst refer to losses rather than their sufferers.",
+        "Both expressions denote abstract conditions, one favourable and the other unfavourable.": "The wealthy has plural human reference, reflected in were. Only the second phrase selects an abstract extent of something in this sentence."
       },
       "audit": {
         "status": "reviewed",
         "decision": "replaced",
         "findings": [
-          "Original most-serious-limitation item was a simple superlative cloze."
+          "Original most-serious-limitation item was a simple superlative cloze.",
+          "Secondary review: adding very to wealthy repeated the B2 collective-adjective decision in 439 without a substantive C1 extension. The replacement contrasts human collective reference with an abstract extreme within one sentence."
         ],
-        "microSkill": "The with a degree-modified adjective denoting a human group",
-        "pedagogicalValue": "Shows how internal adjective modification works in a collective reference phrase.",
-        "levelReason": "The learner interprets an expanded collective adjective construction in analytical prose.",
-        "similarityNote": "Degree-defined social group, distinct from institutional roles and proper names."
+        "microSkill": "Distinguishing human and abstract reference in the-plus-adjective expressions",
+        "pedagogicalValue": "Prevents interpreting every definite adjective expression as a plural group of people.",
+        "levelReason": "C1 readers must resolve two structurally similar expressions using their complements and agreement, rather than applying one collective-noun rule.",
+        "similarityNote": "Unlike B2's unemployed item, this tests the limits of that construction through a contrasting abstract use."
       }
     },
     {
@@ -2550,10 +2554,10 @@
       "setupText": "Choose the grammatically correct phrase.",
       "taskText": "The proposal attracted ___ than its authors had anticipated.",
       "options": [
-        "a good many more objections",
         "good a many more objections",
         "a good much more objections",
-        "a good many more objection"
+        "a good many more objection",
+        "a good many more objections"
       ],
       "answer": "a good many more objections",
       "explanation": "\"A good many\" means quite a large number and takes a plural count noun. Here it modifies the comparison: \"a good many more objections\".",
@@ -2612,10 +2616,10 @@
       "setupText": "Choose the account of the definite reference.",
       "taskText": "\"A donor offered to fund the restoration. The generosity surprised everyone, but the conditions did not.\" What identifies \"the generosity\"?",
       "options": [
-        "The quality inferred from the donor's offer in the preceding sentence",
         "A separate charitable act mentioned before the quoted passage",
         "The donor's general character across all previous donations",
-        "The total monetary value of every contribution to the project"
+        "The total monetary value of every contribution to the project",
+        "The quality inferred from the donor's offer in the preceding sentence"
       ],
       "answer": "The quality inferred from the donor's offer in the preceding sentence",
       "explanation": "A noun need not have appeared literally before for definite reference to work. The offer makes a quality of generosity available for reference. The passage does not establish the donor's entire history or the project's total funding.",
@@ -2643,8 +2647,8 @@
       "setupText": "Choose the meaning of the article change.",
       "taskText": "\"The laboratory performs analysis; this particular procedure is an analysis of trace metals.\" What does \"an analysis\" present?",
       "options": [
-        "One particular type or instance of an analytical procedure",
         "Analytical work in general, without presenting an individual procedure",
+        "One particular type or instance of an analytical procedure",
         "The specific analysis already identified by the first use of the noun",
         "A laboratory classified by the kind of analytical service it provides"
       ],
@@ -2705,9 +2709,9 @@
       "setupText": "Choose the interpretation of the article pattern.",
       "taskText": "\"They elected her chair, but she continued to work as a researcher.\" Why is the first role bare while the second has \"a\"?",
       "options": [
-        "The first names an office conferred; the second classifies her continuing professional work",
         "The first is bare because her identity is known; the second is indefinite because her identity is unknown",
         "The first role is uniquely held, so bare chair would also be required after interviewed",
+        "The first names an office conferred; the second classifies her continuing professional work",
         "The second article counts a separate research project rather than classifying the person"
       ],
       "answer": "The first names an office conferred; the second classifies her continuing professional work",
@@ -2736,9 +2740,9 @@
       "setupText": "Choose the implication of the introductory phrase.",
       "taskText": "\"A certain Mr Bell has been asking to see you.\" What does \"a certain Mr Bell\" most naturally do?",
       "options": [
-        "Introduces a named visitor without assuming shared familiarity with him",
         "Identifies a visitor the listener is expected to recognise as the only relevant Bell",
         "Presents Bell as an example of a familiar personality type rather than an individual",
+        "Introduces a named visitor without assuming shared familiarity with him",
         "Expresses uncertainty about the surname while affirming familiarity with the person"
       ],
       "answer": "Introduces a named visitor without assuming shared familiarity with him",
@@ -2767,9 +2771,9 @@
       "setupText": "Choose the grammatically correct version in formal prose.",
       "taskText": "Which sentence is correct?",
       "options": [
+        "Rarely have we encountered so compelling an argument.",
         "Rarely have we encountered so a compelling argument.",
         "Rarely have we encountered such compelling an argument.",
-        "Rarely have we encountered so compelling an argument.",
         "Rarely have we encountered a so compelling argument."
       ],
       "answer": "Rarely have we encountered so compelling an argument.",
@@ -2923,9 +2927,9 @@
       "taskText": "The editor changes 'A dodo is extinct' to 'The dodo is extinct' but leaves 'A dodo laid eggs' unchanged. Why is the article changed only in the first example?",
       "options": [
         "Present-tense general statements require the, whereas past-tense general statements require a",
-        "Extinction concerns the species as a whole; egg-laying can describe a representative member",
         "The first statement names a previously identified specimen; the second introduces another specimen",
-        "The identifies the only extinct species, while a identifies one of several egg-laying species"
+        "The identifies the only extinct species, while a identifies one of several egg-laying species",
+        "Extinction concerns the species as a whole; egg-laying can describe a representative member"
       ],
       "answer": "Extinction concerns the species as a whole; egg-laying can describe a representative member",
       "explanation": "A generic indefinite singular can describe a typical member, as in a dodo laid eggs. In its literal biological sense, extinct applies to a species, not an individual bird that dies. The definite singular can name that kind: the dodo is extinct. The distinction is not a tense rule.",
@@ -2954,9 +2958,9 @@
       "taskText": "\"For a beginner, the restoration work is remarkably assured.\" What does \"a beginner\" contribute?",
       "options": [
         "An identified novice whose name the reader already knows",
-        "A comparison standard based on membership of the beginner category",
         "A claim that exactly one beginner contributed to the restoration",
-        "A claim that the restorer has never attempted any related task"
+        "A claim that the restorer has never attempted any related task",
+        "A comparison standard based on membership of the beginner category"
       ],
       "answer": "A comparison standard based on membership of the beginner category",
       "explanation": "\"For a beginner\" frames the evaluation against expectations for someone in that category. The indefinite article classifies; it does not count all contributors or establish the restorer's complete history.",
@@ -2984,10 +2988,10 @@
       "setupText": "Choose the account of the contrast.",
       "taskText": "\"We need research, not a research proposal.\" What distinction does the article support?",
       "options": [
-        "An activity or body of investigation versus one document proposing it",
         "An informal conversation versus a published scientific result",
         "A completed investigation versus a document that has already been rejected",
-        "Several studies versus several proposals"
+        "Several studies versus several proposals",
+        "An activity or body of investigation versus one document proposing it"
       ],
       "answer": "An activity or body of investigation versus one document proposing it",
       "explanation": "Research is uncountable in the first phrase. In the second, the head noun is countable \"proposal\", so \"a\" introduces one document; research modifies the kind of proposal.",
@@ -3043,32 +3047,33 @@
     {
       "id": "coverage-articles-c1-459",
       "level": "C1",
-      "setupText": "Choose the interpretation of the article phrase.",
-      "taskText": "\"The explanation has a clarity that the earlier draft lacked.\" What does \"a clarity\" do?",
+      "setupText": "Consider what is lost when an editor changes the quantity phrase.",
+      "taskText": "'She devoted what little free time she had to restoring the archive' becomes 'She devoted a little of her free time to restoring the archive.' Which account preserves the distinction?",
       "options": [
-        "Presents the current explanation as one of several equally clear versions",
-        "Presents a particular quality or degree of clearness characterised by the following clause",
-        "Introduces a separate clear passage that can be counted within the explanation",
-        "Identifies the same quality of clearness as one already established in the earlier draft"
+        "Both versions say her total free time was scarce; only the revision leaves its use unspecified.",
+        "The original presents her available time as plentiful; the revision presents it as scarce.",
+        "The original commits her limited supply of free time; the revision states only that she devoted a small amount of it.",
+        "The original leaves how much she devoted open; the revision says she devoted her entire small supply."
       ],
-      "answer": "Presents a particular quality or degree of clearness characterised by the following clause",
-      "explanation": "Clarity is usually uncountable, but the phrase presents a characterised manifestation of that quality. The following clause contrasts the present text with the earlier draft.",
+      "answer": "The original commits her limited supply of free time; the revision states only that she devoted a small amount of it.",
+      "explanation": "What little free time she had refers to the small total available to her. A little of her free time selects a small amount without saying that this exhausted a limited supply.",
       "rationales": {
-        "Presents the current explanation as one of several equally clear versions": "A modifies clarity, not explanation. It characterises the present text's quality without establishing a set of equally clear versions.",
-        "Presents a particular quality or degree of clearness characterised by the following clause": "The article presents an instance of the abstract quality, and the clause distinguishes it from what the earlier text lacked.",
-        "Introduces a separate clear passage that can be counted within the explanation": "The bounded use concerns a quality of the explanation, not a newly introduced passage or section.",
-        "Identifies the same quality of clearness as one already established in the earlier draft": "The earlier draft is said to lack this clarity. The indefinite phrase presents the current quality rather than referring back to one already established there."
+        "Both versions say her total free time was scarce; only the revision leaves its use unspecified.": "A little of her free time specifies a small amount devoted to restoration, but does not say her total supply of free time was small. Its use is still specified.",
+        "The original presents her available time as plentiful; the revision presents it as scarce.": "What little signals that her available time was limited. The revision quantifies the portion used, not the size of her total supply.",
+        "The original commits her limited supply of free time; the revision states only that she devoted a small amount of it.": "What little free time she had refers to the small total available to her. A little of her free time selects a small amount without saying that this exhausted a limited supply.",
+        "The original leaves how much she devoted open; the revision says she devoted her entire small supply.": "This reverses the contrast. The totalising reference belongs to what little she had, not to the partitive a little of her free time."
       },
       "audit": {
         "status": "reviewed",
         "decision": "replaced",
         "findings": [
-          "Original explanation-for-non-specialists item only tested an before a vowel."
+          "Original explanation-for-non-specialists item only tested an before a vowel.",
+          "Secondary review: a clarity characterised by a relative clause repeated B2-437's a confidence frame and micro-skill with a different abstract noun. The replacement tests the reference and scope lost in an editorial change from what little to a little of."
         ],
-        "microSkill": "Indefinite article with a characterised abstract quality",
-        "pedagogicalValue": "Explains a controlled abstract-noun use common in evaluative prose.",
-        "levelReason": "The learner interprets rhetorical individuation of a quality rather than merely choosing from spelling.",
-        "similarityNote": "Textual clarity rather than emotion, knowledge, or a countable document."
+        "microSkill": "Total limited supply in what little versus an indefinite portion in a little of",
+        "pedagogicalValue": "Shows how a small determiner change can remove both a scarcity claim and the commitment of the full available amount.",
+        "levelReason": "The learner compares the scope of two grammatical quantity expressions and avoids transferring a claim about a portion to the total supply.",
+        "similarityNote": "Extends beyond B2's positive and negative quantity orientation to total-versus-part reference in an editing task."
       }
     },
     {
@@ -3077,9 +3082,9 @@
       "setupText": "Amira does not practise as an architect, but she sometimes designs useful spaces.",
       "taskText": "A critic dismisses her by saying, 'She is no architect.' Choose the revision that states only her occupational status, without judging the quality of her designs.",
       "options": [
+        "She is not an architect.",
         "She is not much of an architect.",
         "She is not the architect.",
-        "She is not an architect.",
         "She is no great architect."
       ],
       "answer": "She is not an architect.",
@@ -3110,8 +3115,8 @@
       "options": [
         "The same person appointed to chair every committee",
         "Whoever chairs a committee, whether appointed or acting temporarily",
-        "The particular appointee in each appointment covered by the rule",
-        "A chair already holding office before the appointment"
+        "A chair already holding office before the appointment",
+        "The particular appointee in each appointment covered by the rule"
       ],
       "answer": "The particular appointee in each appointment covered by the rule",
       "explanation": "\"A chair\" introduces an appointee inside each situation described by \"whenever\". \"The chair\" refers back within that situation; it need not identify one person across all committees.",
@@ -3139,8 +3144,8 @@
       "setupText": "Choose the account of the article change.",
       "taskText": "An editor changes \"There is little room for doubt\" to \"There is little room for a doubt of that kind\". What does the added article do?",
       "options": [
-        "It presents a reservation as one bounded possibility of the specified kind",
         "It asserts that a particular reservation is already held, despite the limiting phrase",
+        "It presents a reservation as one bounded possibility of the specified kind",
         "It identifies a previously discussed reservation rather than introducing a kind",
         "It turns all remaining uncertainty into one objection that the writer accepts"
       ],
@@ -3171,8 +3176,8 @@
       "taskText": "\"As the curator of the collection, she approached the purchase with the caution of a curator rather than the enthusiasm of a collector.\" How do \"the curator\" and \"a curator\" function?",
       "options": [
         "Both identify her personally; the article change merely avoids repeating an identical noun phrase",
-        "The first identifies her role; the second characterises caution by a professional type",
         "The first establishes her occupation; the second leaves whether she is a curator unresolved",
+        "The first identifies her role; the second characterises caution by a professional type",
         "The first identifies her position; the second attributes her caution to another curator's influence"
       ],
       "answer": "The first identifies her role; the second characterises caution by a professional type",
@@ -3263,9 +3268,9 @@
       "setupText": "Choose the revision that preserves the distinction between an arrangement and consensus.",
       "taskText": "Negotiators settled how to share access but still differed over ownership. An editor wants to use 'agreement' for both the settled arrangement and the missing consensus. Which sentence does that?",
       "options": [
-        "They reached an agreement on access, but agreement on ownership remained elusive.",
         "They reached agreement on access, but an agreement on ownership remained unsigned.",
         "They reached the agreement on access, but the agreement on ownership remained unsigned.",
+        "They reached an agreement on access, but agreement on ownership remained elusive.",
         "They reached agreements on access, but agreement on ownership remained provisional."
       ],
       "answer": "They reached an agreement on access, but agreement on ownership remained elusive.",
@@ -3356,9 +3361,9 @@
       "setupText": "An editor queries the article before the plural unit in this sentence. Choose the sound response to the query.",
       "taskText": "'The projectionist waited a further twenty minutes before starting the film.'",
       "options": [
-        "The article is licensed because the phrase presents one additional duration measured in plural units.",
         "The article marks an approximation, so twenty minutes must be understood as an imprecise estimate.",
         "The article is licensed because further changes minutes from a countable noun into an uncountable noun.",
+        "The article is licensed because the phrase presents one additional duration measured in plural units.",
         "The article is an error here; the plural unit requires either the or no article instead."
       ],
       "answer": "The article is licensed because the phrase presents one additional duration measured in plural units.",
@@ -3384,32 +3389,33 @@
     {
       "id": "coverage-articles-c2-470",
       "level": "C2",
-      "setupText": "Compare the evaluative force of these two descriptions in formal English.",
-      "taskText": "A diarist calls a guest's interruption 'a most unhelpful intervention'. An editor changes this to 'the most unhelpful intervention'. What change does the article normally produce?",
+      "setupText": "An editor is checking an old submission file. The editor does not know whether anyone was assigned to review it.",
+      "taskText": "Which question asks whether a withdrawal occurred without treating either an assigned reviewer or a withdrawal as already established?",
       "options": [
-        "It changes a tentative criticism into a criticism presented as certain.",
-        "It changes a high-degree evaluation into a ranking within a comparison set.",
-        "It changes one of several interventions into the only intervention that occurred.",
-        "It changes the diarist's personal judgment into an independently established fact."
+        "Has the reviewer withdrawn?",
+        "Which reviewer has withdrawn?",
+        "When did a reviewer withdraw?",
+        "Has a reviewer withdrawn?"
       ],
-      "answer": "It changes a high-degree evaluation into a ranking within a comparison set.",
-      "explanation": "In the formal phrase a most unhelpful intervention, most can mean very: the diarist condemns the intervention without ranking it. The most unhelpful intervention instead places it at the top of a relevant comparison for unhelpfulness. That ranking remains the writer's judgment, not automatically a proven fact.",
+      "answer": "Has a reviewer withdrawn?",
+      "explanation": "An indefinite inside this yes-no question asks whether there is an instance of a reviewer withdrawing. It does not assert that a reviewer was assigned or that a withdrawal occurred.",
       "rationales": {
-        "It changes a tentative criticism into a criticism presented as certain.": "A most unhelpful is already a strong evaluation. A does not hedge the diarist's confidence here.",
-        "It changes a high-degree evaluation into a ranking within a comparison set.": "The indefinite construction permits intensifying most; the definite construction supplies the ordinary superlative ranking.",
-        "It changes one of several interventions into the only intervention that occurred.": "The most unhelpful selects by degree among relevant alternatives. It does not claim that no other intervention occurred.",
-        "It changes the diarist's personal judgment into an independently established fact.": "Definiteness changes how the intervention is identified, not the source or objectivity of the evaluation."
+        "Has the reviewer withdrawn?": "The yes-no question leaves withdrawal open, but the reviewer presents a relevant reviewer as identifiable. That is precisely what the editor does not yet know.",
+        "Which reviewer has withdrawn?": "Which reviewer asks for an identity within a withdrawal already treated as having occurred. The editor needs first to establish whether any withdrawal happened.",
+        "Has a reviewer withdrawn?": "An indefinite inside this yes-no question asks whether there is an instance of a reviewer withdrawing. It does not assert that a reviewer was assigned or that a withdrawal occurred.",
+        "When did a reviewer withdraw?": "Although a reviewer is indefinite, when asks for the time of a withdrawal treated as established. Changing the article does not remove that assumption from the question."
       },
       "audit": {
         "status": "reviewed",
         "decision": "replaced",
         "findings": [
-          "Original vowel-article item was elementary; the first abstract-resistance replacement repeated the C1 clarity item's recategorisation."
+          "Original vowel-article item was elementary; the first abstract-resistance replacement repeated the C1 clarity item's recategorisation.",
+          "Secondary review: the intensifying a most versus ranking the most decision duplicated B2-421. The replacement tests how definite and indefinite reference interact with the assumptions carried by different question forms."
         ],
-        "microSkill": "Article-controlled contrast between intensifying and ranking most",
-        "pedagogicalValue": "Shows why a seemingly small editorial article change can add a comparison the original author did not make.",
-        "levelReason": "Interprets a less frequent formal degree construction and separates ranking, certainty, existence, and evidential status.",
-        "similarityNote": "An article-sensitive formal intensifier replaces a second characterised-abstract-noun item."
+        "microSkill": "Indefinite existence within a question versus assumptions carried by definite and wh-question forms",
+        "pedagogicalValue": "Helps writers ask about a possible event without quietly treating a participant or the event as established.",
+        "levelReason": "C2 editing requires coordinating article reference with question scope: indefiniteness alone does not remove the event assumption in a when-question.",
+        "similarityNote": "A question-design task replaces the duplicate B2 formal intensifier; it differs from anaphoric reference inside an if-condition."
       }
     },
     {
@@ -3418,10 +3424,10 @@
       "setupText": "Read the description as the chair's interpretation, then consider the narrator's correction.",
       "taskText": "The chair called the pause 'the silence of agreement'. In fact, nobody had understood the proposal. Why does the definite phrase not establish that the group agreed?",
       "options": [
-        "The phrase reports the chair's characterization, which the narrator does not endorse.",
         "The phrase establishes agreement, but leaves its precise content for the reader to identify.",
         "The phrase identifies a previous agreement that the group had reached before the pause.",
-        "The phrase denotes a hypothetical silence rather than the pause that actually occurred."
+        "The phrase denotes a hypothetical silence rather than the pause that actually occurred.",
+        "The phrase reports the chair's characterization, which the narrator does not endorse."
       ],
       "answer": "The phrase reports the chair's characterization, which the narrator does not endorse.",
       "explanation": "The pause occurred, but the chair's label assigns it an interpretation. The narrator reports that label without endorsing it and immediately explains why it was mistaken. Definiteness inside an attributed description does not turn the described agreement into the narrator's own assertion.",
@@ -3450,8 +3456,8 @@
       "taskText": "A handbook on political fiction says, 'A novel of this kind can outlive the controversy that prompted it.' A security log says, 'A novel of this kind has vanished from the locked display.' How does the reference normally differ?",
       "options": [
         "Both phrases introduce particular books; the difference lies only in whether their titles have been supplied.",
-        "The handbook presents a representative member of a genre; the log reports an event involving a particular book.",
         "The handbook identifies the genre's only novel; the log leaves the number of missing books unrestricted.",
+        "The handbook presents a representative member of a genre; the log reports an event involving a particular book.",
         "Both phrases identify a shared book because the modifier of this kind makes the indefinite article definite."
       ],
       "answer": "The handbook presents a representative member of a genre; the log reports an event involving a particular book.",
@@ -3480,8 +3486,8 @@
       "setupText": "Choose the paraphrase that preserves the article's effect.",
       "taskText": "\"It was not merely an inconvenience; it was the inconvenience that finally made her leave.\" What does the second article contribute?",
       "options": [
-        "It turns every inconvenience she had suffered into a single event",
         "It identifies this inconvenience by its decisive consequence",
+        "It turns every inconvenience she had suffered into a single event",
         "It proves that she had never suffered an inconvenience before",
         "It changes inconvenience from an event into an uncountable emotional state"
       ],
@@ -3511,8 +3517,8 @@
       "setupText": "Choose the interpretation that the article contrast supports.",
       "taskText": "\"She spoke with authority, though she was not an authority on the period.\" What is contrasted?",
       "options": [
-        "Her manner sounded assured, though she was not a recognised specialist in the subject.",
         "Her role authorised the speech, though she lacked permission to advise on that period.",
+        "Her manner sounded assured, though she was not a recognised specialist in the subject.",
         "Her subject knowledge was authoritative, though her manner failed to convey confidence.",
         "Her expertise was recognised, though she held no official post governing the discussion."
       ],
@@ -3542,8 +3548,8 @@
       "setupText": "Choose the interpretation licensed by the phrase.",
       "taskText": "\"The correspondence reveals the Paris of her youth rather than the city the tourist brochures describe.\" What does \"the Paris of her youth\" identify?",
       "options": [
-        "A different city formally named Paris during her youth",
         "The city as experienced or represented in a particular period of her life",
+        "A different city formally named Paris during her youth",
         "An unidentified city sharing some Parisian characteristics",
         "A set of letters whose published title is Paris of Her Youth"
       ],
@@ -3575,8 +3581,8 @@
       "options": [
         "The writer asserts that the proof contains exactly one flaw",
         "The writer has identified a flaw but is withholding its location",
-        "The second phrase refers back to a flaw under the stated condition, without asserting that one exists",
-        "The writer excludes flaws in other proofs because the noun is definite"
+        "The writer excludes flaws in other proofs because the noun is definite",
+        "The second phrase refers back to a flaw under the stated condition, without asserting that one exists"
       ],
       "answer": "The second phrase refers back to a flaw under the stated condition, without asserting that one exists",
       "explanation": "\"A flaw\" is introduced inside an if-condition. \"The flaw\" can refer back inside that hypothetical reasoning without committing the writer to the existence of a flaw.",
@@ -3604,10 +3610,10 @@
       "setupText": "Choose the interpretation of the article phrase.",
       "taskText": "\"For all his objections, he remained a believer in the project, if not the believer his colleagues had hoped for.\" What does the final phrase imply?",
       "options": [
-        "His colleagues had envisaged a kind of supporter whose commitment he did not fully display",
         "His colleagues wanted another supporter to replace him because they considered him an opponent",
         "His colleagues recognised him as their leading supporter but had not expected his objections",
-        "His colleagues doubted his private support because his public commitment exceeded their expectations"
+        "His colleagues doubted his private support because his public commitment exceeded their expectations",
+        "His colleagues had envisaged a kind of supporter whose commitment he did not fully display"
       ],
       "answer": "His colleagues had envisaged a kind of supporter whose commitment he did not fully display",
       "explanation": "\"A believer\" grants membership in the category of supporters. \"The believer his colleagues had hoped for\" refers to their envisaged kind of committed supporter. The contrast qualifies his support without cancelling it.",
@@ -3632,32 +3638,33 @@
     {
       "id": "coverage-articles-c2-478",
       "level": "C2",
-      "setupText": "Choose the explanation that fits both examples.",
-      "taskText": "Compare \"She went to court to challenge the decision\" and \"She went to the court to photograph its entrance\". What is the principal effect of the article?",
+      "setupText": "A copy editor has a headline but not the accompanying report.",
+      "taskText": "The headline reads 'Court dismisses claim'. Can the missing article before court be reconstructed as a or the from these words alone?",
       "options": [
-        "The first frames participation in proceedings; the second identifies a place in this context",
-        "The bare phrase identifies any court, while the definite phrase always identifies a building",
-        "The first refers to one case, while the second refers to the whole judicial system",
-        "The article itself changes her role from claimant in the first sentence to employee in the second"
+        "No: headline compression can omit either article; the report must establish how the court is being introduced or identified.",
+        "Yes: the completed event requires the because its participants are now definite.",
+        "Yes: bare court names the judicial system, so adding either article would change the subject.",
+        "No article is missing: capitalisation makes Court a proper name that should remain bare in full prose."
       ],
-      "answer": "The first frames participation in proceedings; the second identifies a place in this context",
-      "explanation": "\"Go to court\" conventionally means engaging with legal proceedings. \"Go to the court\" can identify a particular institution or location; photographing its entrance makes the physical-place reading salient. The contrast is contextual, not a rule that the always means a building.",
+      "answer": "No: headline compression can omit either article; the report must establish how the court is being introduced or identified.",
+      "explanation": "Headlines commonly omit articles. Bare court here therefore does not settle whether full prose would introduce a court with a or identify the relevant court with the.",
       "rationales": {
-        "The first frames participation in proceedings; the second identifies a place in this context": "The bare institutional expression and the stated photographic purpose together support this qualified distinction.",
-        "The bare phrase identifies any court, while the definite phrase always identifies a building": "The building-only rule is too strong: \"the court rejected the appeal\" refers to judicial authority, not a building acting physically.",
-        "The first refers to one case, while the second refers to the whole judicial system": "Article choice does not establish that case-versus-system contrast; the second sentence identifies a place with an entrance.",
-        "The article itself changes her role from claimant in the first sentence to employee in the second": "The purposes of the visits guide interpretation. The article does not assign her an employment status."
+        "Yes: the completed event requires the because its participants are now definite.": "Completion of an event does not determine article choice. A past event can introduce a participant with a or refer to an identifiable participant with the.",
+        "No: headline compression can omit either article; the report must establish how the court is being introduced or identified.": "Headlines commonly omit articles. Bare court here therefore does not settle whether full prose would introduce a court with a or identify the relevant court with the.",
+        "Yes: bare court names the judicial system, so adding either article would change the subject.": "The headline can report a decision by an individual court. Article omission in a headline is not the same as the conventional bare institutional expression in go to court.",
+        "No article is missing: capitalisation makes Court a proper name that should remain bare in full prose.": "The capital occurs at the start of the headline. It does not establish Court as a proper name or license ordinary prose such as Court dismissed a claim."
       },
       "audit": {
         "status": "reviewed",
         "decision": "replaced",
         "findings": [
-          "Original earlier-precedent item tested only vowel-based an."
+          "Original earlier-precedent item tested only vowel-based an.",
+          "Secondary review: the court-versus-building comparison repeated B2-430's institutional-status-versus-place contrast. The replacement distinguishes headline article omission from ordinary institutional zero article and recognises that omitted definiteness cannot be recovered without discourse."
         ],
-        "microSkill": "Institutional activity versus identified location with a qualified interpretation",
-        "pedagogicalValue": "Teaches a useful article contrast while explicitly avoiding a false building-only rule.",
-        "levelReason": "Requires interpreting conventional usage and recognising the limits of a commonly simplified grammar rule.",
-        "similarityNote": "Institutional activity is distinct from names, professions, and abstract concepts."
+        "microSkill": "Limits on reconstructing definiteness after headline article omission",
+        "pedagogicalValue": "Prevents treating compressed headline grammar as evidence for ordinary zero-article usage or a uniquely recoverable article.",
+        "levelReason": "The learner must separate genre-specific omission, institutional reference, proper-name status, and information unavailable without the report.",
+        "similarityNote": "Only headline-restoration item; replaces a second institutional visit comparison."
       }
     },
     {
@@ -3666,8 +3673,8 @@
       "setupText": "Choose the explanation of the changed noun phrase.",
       "taskText": "A reviewer writes \"The chapter offers history, not nostalgia\". Another writes \"The chapter offers a history, not a memoir\". What change accompanies the added articles?",
       "options": [
-        "Both reviewers describe a single historical account; only the second says whether it is personal",
         "The first contrasts approaches to the past; the second classifies an account by genre",
+        "Both reviewers describe a single historical account; only the second says whether it is personal",
         "The first judges the account's accuracy; the second establishes that the chapter is a complete book",
         "Both contrast genres; the added articles identify particular accounts already familiar to the reader"
       ],
@@ -3698,8 +3705,8 @@
       "taskText": "'The average respondent had 1.6 children, although no individual respondent had that number.' Why is 'the average respondent' coherent here?",
       "options": [
         "It identifies the actual respondent whose family was closest to the numerical mean.",
-        "It identifies the previously mentioned respondent selected to represent the sample.",
         "It denotes an abstract statistical representative rather than an individual person.",
+        "It identifies the previously mentioned respondent selected to represent the sample.",
         "It denotes the most frequently occurring family type among the actual respondents."
       ],
       "answer": "It denotes an abstract statistical representative rather than an individual person.",
