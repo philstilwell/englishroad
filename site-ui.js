@@ -71,7 +71,6 @@
           previousRaw = localStorage.getItem(key);
           revision = previousRaw;
           backupRaw = localStorage.getItem(backupKey);
-          if (backupRaw) showPrevious("An older, incompatible attempt is available to download. It cannot be resumed with this question bank.");
           return previousRaw === null ? null : JSON.parse(previousRaw);
         } catch {
           if (previousRaw !== null) this.reject("The saved attempt could not be read. A new attempt is ready.");
