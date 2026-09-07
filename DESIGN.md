@@ -25,7 +25,7 @@ The existing green ER favicon is reused as the compact brand mark. No new image,
 The audit implementation supersedes the first design release’s scoring and storage behavior:
 
 - Display observed performance and small-sample cautions. Do not restore unvalidated confidence percentages, examination conversions, or measured CEFR claims.
-- Draw both tools from the same deduplicated bank and explanation engine. Practice bands describe content, not certified learner ability.
+- Draw both tools from the same balanced bank and explanation engine. Practice bands describe content, not certified learner ability. Every topic in every practice band must have at least five active items.
 - Keep native radio controls, clear focus, locked checked answers, and explicit correct/incorrect feedback. Keep feedback stationary; scroll the new question into view when Next is chosen.
 - Level Check has 100 questions; mixed Practice has 25; focused Practice can be shorter. Both tools show truthful saving status, offer an always-visible Delete my data button, and can resume compatible browser-saved attempts.
 - Ask before replacing unfinished attempts. Make obsolete/corrupt data notices visible and clear old incompatible data without offering downloads.

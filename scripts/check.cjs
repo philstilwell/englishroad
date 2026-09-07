@@ -8,7 +8,7 @@ function context(app) {
     crypto: { getRandomValues(values) { for (let i = 0; i < values.length; i++) { seed = (Math.imul(1664525, seed) + 1013904223) >>> 0; values[i] = seed; } } },
     EnglishRoadUI: { sessionStore: () => ({}) }
   } });
-  for (const file of ['item-bank-data.js', 'question-engine.js', 'learning-summary.js']) vm.runInContext(fs.readFileSync(file, 'utf8'), c);
+  for (const file of ['item-bank-data.js', 'coverage-bank-data.js', 'question-engine.js', 'learning-summary.js']) vm.runInContext(fs.readFileSync(file, 'utf8'), c);
   if (app) {
     let code = fs.readFileSync(app, 'utf8');
     code = code.slice(0, code.indexOf(app === 'app.js' ? '\nconst sessionStore =' : '\nstate.bank = createQuestionBank();'));
@@ -20,11 +20,13 @@ function context(app) {
 const c = context('app.js');
 const run = (code) => vm.runInContext(code, c);
 const bank = run('state.bank');
+const activeBankSize = 4200;
+const minTopicLevelItems = 5;
 const revision = c.window.EnglishRoadQuestions.bankRevision(bank);
 assert.notEqual(revision, c.window.EnglishRoadQuestions.bankRevision(bank.map((q, i) => i ? q : {...q, taskText:q.taskText+' Updated'})), 'A content change must invalidate an old saved attempt');
-assert.equal(bank.length, 659);
+assert.equal(bank.length, activeBankSize);
 assert.equal(run('new Set(state.bank.map(questionSignature)).size'), bank.length);
-assert.equal(bank.reduce((sum, q) => sum + q.variationCount, 0), 4200);
+assert.equal(bank.reduce((sum, q) => sum + q.variationCount, 0), bank.length);
 for (const q of bank) {
   assert.equal(q.options.length, 4, q.id);
   assert(q.options.includes(q.answer), q.id);
@@ -39,8 +41,18 @@ assert.doesNotMatch(transport.explanation, /later than/);
 assert.equal(bank.find(q => q.taskText.includes('I bought a new car.')).subcategory, 'Articles');
 assert(!bank.some(q => q.taskText === 'We invited ten people, and ___ of them replied.'));
 assert(!bank.some(q => /complete sentence|sentence.*complete/.test(q.taskText) && q.options.includes('And the class understood.')));
-// Selection cue is monotonic for every response and independent of response order.
 const learning = c.window.EnglishRoadLearning;
+const topics = Object.keys(c.window.EnglishRoadQuestions.learnerSubcategoryLabels);
+assert.equal(new Set(bank.map(q => q.subcategory)).size, topics.length);
+let minObservedTopicLevelItems = Infinity;
+for (const topic of topics) {
+  for (const level of learning.levels) {
+    const count = bank.filter(q => q.subcategory === topic && learning.levelForDifficulty(q.difficulty) === level).length;
+    minObservedTopicLevelItems = Math.min(minObservedTopicLevelItems, count);
+    assert(count >= minTopicLevelItems, `${topic} / ${level} has only ${count} items`);
+  }
+}
+// Selection cue is monotonic for every response and independent of response order.
 const history = bank.slice(0, 30).map((q, i) => ({ difficulty: q.difficulty, correct: i % 3 !== 0 }));
 const baseline = learning.selectionDifficulty(history);
 for (let difficulty = 1; difficulty <= 6; difficulty += 0.1) {
@@ -93,5 +105,5 @@ for (const level of ['A1','A2','B1','B2','C1','C2']) {
     if(quiz.length) focused++;
   }
 }
-console.log(JSON.stringify({ distinctItems: bank.length, generatedVariations: 4200, reviewedItems:bank.filter(q=>q.qaStatus==='reviewed').length, focusedCombinations:focused, simulations:results },null,2));
+console.log(JSON.stringify({ activeItems: bank.length, uniqueItems: run('new Set(state.bank.map(questionSignature)).size'), topics: topics.length, practiceBands: learning.levels.length, minItemsPerTopicBand: minObservedTopicLevelItems, reviewedItems:bank.filter(q=>q.qaStatus==='reviewed').length, focusedCombinations:focused, simulations:results },null,2));
 console.log('All question-bank, scoring-boundary, shared-engine and quiz-selection checks passed.');

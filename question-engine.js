@@ -3,6 +3,8 @@
 const CORE_BANK_SIZE = 1800;
 const SUPPLEMENTAL_BANK_SIZE = 2400;
 const TOTAL_QUESTIONS = 100;
+const ACTIVE_BANK_SIZE = 4200;
+const MIN_LEVEL_TOPIC_ITEMS = 5;
 const learnerSubcategoryLabels = {
   "Verb tense": "Verbs",
   Articles: "A / an / the",
@@ -165,6 +167,20 @@ function copyText(text) {
 }
 
 function createQuestionBank() {
+  if (window.createEnglishRoadCoverageBlueprints) {
+    const coverageBlueprints = window.createEnglishRoadCoverageBlueprints({ item, pick });
+    const bank = [];
+    for (const blueprint of coverageBlueprints) {
+      for (let localIndex = 0; localIndex < blueprint.perCell; localIndex += 1) {
+        const question = buildQuestion(blueprint, localIndex, bank.length, blueprint.difficulty);
+        bank.push({ ...question, variationCount: 1 });
+      }
+    }
+    validateBank(bank);
+    validateCoverage(bank);
+    return bank;
+  }
+
   const bank = [];
   const blueprintCounts = {};
   for (let i = 0; i < CORE_BANK_SIZE; i += 1) {
@@ -503,7 +519,7 @@ function helpfulSetup(text, blueprint, index = 0, made = {}) {
     "Pronouns and reference": ["Choose the word that clearly points to the right person or thing.", "The answer should make the meaning clear.", "Read the whole sentence before choosing.", "Choose the best answer."],
     "Determiners and quantifiers": ["Choose the amount word that fits the noun.", "The answer should fit the amount meaning.", "Read the whole sentence before choosing.", "Choose the best answer."],
     "Adjective and adverb forms": ["Choose the form that describes the right word.", "The answer should sound natural in the sentence.", "Read the whole sentence before choosing.", "Choose the best answer."],
-    "Parallel structure": ["Choose the sentence with the same pattern in each part.", "The list should use matching forms.", "Read all parts of the sentence before choosing.", "Choose the clearest sentence."],
+    "Parallel structure": ["Choose the sentence with the same pattern in each part.", "The list should use matching forms.", "Read all parts of the sentence before choosing.", "Choose the sentence with matching structure."],
     "Inversion and emphasis": ["Look for the sentence with natural formal word order.", "Read the opening words and check the word order after them.", "Only one choice has the correct formal word order.", "Choose the best sentence."],
     "Subjunctive and unreal forms": ["Choose the formal verb form that fits.", "The sentence gives a request or requirement.", "Read the formal pattern before choosing.", "Choose the best answer."],
     "Sentence boundaries": ["Choose the complete sentence.", "The answer should join the ideas clearly.", "Read both ideas before choosing.", "Choose the sentence with clear punctuation and grammar."],
@@ -719,6 +735,23 @@ function validateBank(bank) {
   if (issues.length) throw new Error(`Question bank failed QA: ${issues.slice(0, 5).join(" | ")}`);
 }
 
+function validateCoverage(bank) {
+  const learning = window.EnglishRoadLearning;
+  if (!learning) throw new Error("Question bank coverage check requires learning levels.");
+  const topics = Object.keys(learnerSubcategoryLabels);
+  const signatures = new Set(bank.map(questionSignature));
+  const issues = [];
+  if (bank.length !== ACTIVE_BANK_SIZE) issues.push(`Expected ${ACTIVE_BANK_SIZE} active items, found ${bank.length}`);
+  if (signatures.size !== bank.length) issues.push(`Expected unique active items, found ${signatures.size} unique signatures`);
+  for (const topic of topics) {
+    for (const level of learning.levels) {
+      const count = bank.filter((question) => question.subcategory === topic && learning.levelForDifficulty(question.difficulty) === level).length;
+      if (count < MIN_LEVEL_TOPIC_ITEMS) issues.push(`${topic} / ${level}: ${count} items`);
+    }
+  }
+  if (issues.length) throw new Error(`Question bank failed coverage: ${issues.slice(0, 8).join(" | ")}`);
+}
+
 function hasKnownAnswerAmbiguity(question) {
   const task = normalizeQuestionText(question.taskText);
   const options = question.options.map(normalizeQuestionText);
@@ -828,6 +861,6 @@ function bankRevision(bank) {
 
 window.EnglishRoadQuestions = Object.freeze({
   bankRevision,
-  buildQuestion, chooseBalancedAnswerPosition, clamp, contextualize, copyText, createQuestionBank, distractorRationale, ensurePeriod, escapeHtml, explainAnswer, formatAnswerForFeedback, helpfulSetup, incrementCount, item, jitterDifficulty, learnerSubcategory, normalizeQuestionText, orderOptionsWithBalancedAnswerPosition, pick, questionSignature, randomInt, rationalesForOptions, recordAnswerPosition, shuffleRandom, shuffleStable, splitTaskText, supplementalDifficulty, uniqueOptions, isSentenceChoiceTask, isMeaningTask, validateBank, hasKnownAnswerAmbiguity, hasArticleAmbiguity, hasPluralCountQuantifierAmbiguity, hasKnownAwkwardPhrase, hasDisplayGuidanceProblem, learnerSubcategoryLabels, itemDataSchema
+  buildQuestion, chooseBalancedAnswerPosition, clamp, contextualize, copyText, createQuestionBank, distractorRationale, ensurePeriod, escapeHtml, explainAnswer, formatAnswerForFeedback, helpfulSetup, incrementCount, item, jitterDifficulty, learnerSubcategory, normalizeQuestionText, orderOptionsWithBalancedAnswerPosition, pick, questionSignature, randomInt, rationalesForOptions, recordAnswerPosition, shuffleRandom, shuffleStable, splitTaskText, supplementalDifficulty, uniqueOptions, isSentenceChoiceTask, isMeaningTask, validateBank, validateCoverage, hasKnownAnswerAmbiguity, hasArticleAmbiguity, hasPluralCountQuantifierAmbiguity, hasKnownAwkwardPhrase, hasDisplayGuidanceProblem, learnerSubcategoryLabels, itemDataSchema
 });
 })();

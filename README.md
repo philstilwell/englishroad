@@ -2,7 +2,7 @@
 
 Static Cloudflare Workers site for `englishroad.com`, with source and automatic publishing connected to GitHub.
 
-English Road offers grammar and vocabulary self-study, using 659 distinct question-and-choice combinations selected from 4,200 generated variations.
+English Road offers grammar and vocabulary self-study, using 4,200 available quiz items across 35 topics and six practice bands.
 
 - **Level Check**: a 100-question review with answer explanations, correct-answer totals, topic counts, and a copyable activity report. It does not claim a measured CEFR level, numerical confidence, or predicted examination scores.
 - **Practice**: 25-question mixed sets across A1–C2 practice bands, or shorter focused topic sets. No question repeats within an attempt. A completed quiz offers a review and an optional study prompt containing the learner’s actual choices.
@@ -13,7 +13,8 @@ Both tools can save one attempt in the browser. Save failures are visible and un
 ## Shared code and data
 
 - `item-bank-data.js`: authored templates and answer choices.
-- `question-engine.js`: one bank builder, deduplication, shared explanations, display helpers, option ordering, and structural validation. Stable first-entry IDs survive deduplication; repeated entries use one averaged editorial difficulty. Corrected feedback records a reviewer and date where explicitly reviewed. Other entries remain `draft`.
+- `coverage-bank-data.js`: balanced source patterns that create 20 unique active items for every topic and practice band.
+- `question-engine.js`: one bank builder, shared explanations, display helpers, option ordering, and structural validation. Corrected feedback records a reviewer and date where explicitly reviewed. Other entries remain `draft`.
 - `learning-summary.js`: whole-history difficulty pacing and conservative, changeable practice suggestions. The logistic pacing cue is internal only; it is not a validated proficiency score. It has no recency weighting, and an incorrect response cannot increase it.
 - `site-ui.js`: save status, saved-data deletion and validation helpers, and question focus/scroll behavior.
 - `quiz-loader.js`: concurrent script fetching with ordered execution, bounded waiting, and retry guidance. Each app signals readiness only after initialization succeeds.
@@ -23,7 +24,7 @@ Suggested bands require at least five responses in the band and at least 75% cor
 
 ## Checks before publishing
 
-Run `node scripts/check.cjs` (Node.js 22 or newer). No dependency installation is needed. It checks the distinct bank, answer metadata, known content regressions, monotonic pacing, order independence for identical responses, full synthetic runs, all six mixed sets, and every topic/band combination. These checks do not establish linguistic correctness or CEFR validity.
+Run `node scripts/check.cjs` (Node.js 22 or newer). No dependency installation is needed. It checks the active bank size, unique question-and-choice combinations, answer metadata, known content regressions, minimum topic/band coverage, monotonic pacing, order independence for identical responses, full synthetic runs, all six mixed sets, and every topic/band combination. These checks do not establish linguistic correctness or CEFR validity.
 
 For browser verification, test both complete quiz flows, selected/checked/completed restore, ordinary navigation, 320-pixel Next positioning, keyboard focus, nine help languages, clipboard actions, Delete my data, blocked storage, obsolete/corrupt saves, script failures and retry, and every public page at 320/390/768/1280 pixels. Use an isolated browser profile; do not clear a learner’s actual progress. Keep temporary evidence under ignored `output/`.
 
