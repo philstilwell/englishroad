@@ -14,6 +14,7 @@
   --primary-hover: #35430f;
   --selected: #eef2e2;
   --correct: #1c5b36;
+  --correct-meter: #72c776;
   --correct-soft: #e0f0e6;
   --incorrect: #9e3039;
   --incorrect-soft: #fbecee;
@@ -68,9 +69,11 @@ select { min-height: 46px; }
 .progress-count { margin: 0; font-size: 14px; font-weight: 600; }
 .progress-detail { margin: 4px 0 0; color: var(--muted); font-size: 13px; }
 .meter { display: flex; height: 12px; overflow: hidden; background: var(--line); border-radius: 999px; }
-.meter span { display: block; flex: 0 0 auto; width: 0; height: 100%; }
-.meter-incorrect { background: var(--incorrect); }
-.meter-correct { background: var(--correct); }
+.meter span { display: block; flex: 0 0 auto; height: 100%; }
+.meter-segment { width: var(--meter-segment-width, 0); }
+.meter-segment + .meter-segment { border-left: 1px solid rgba(255, 255, 255, .72); }
+.meter-segment.is-incorrect { background: var(--incorrect); }
+.meter-segment.is-correct { background: var(--correct-meter); }
 .question-meta, .practice-meta { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; }
 .tag, .chip { display: inline-flex; align-items: center; padding: 4px 8px; border: 1px solid var(--line); border-radius: 6px; font-size: 13px; color: var(--muted); font-weight: 400; }
 .tag { background: var(--bg); }

@@ -475,10 +475,15 @@ function updateSelectionCue(correct) {
   ]);
 }
 
-function updateResultMeter(correct, incorrect, total) {
-  const denominator = Math.max(1, total);
-  document.getElementById("meterIncorrect").style.width = `${incorrect / denominator * 100}%`;
-  document.getElementById("meterCorrect").style.width = `${correct / denominator * 100}%`;
+function updateResultMeter(responses, total) {
+  const meter = document.getElementById("meterSegments");
+  const width = `${100 / Math.max(1, total)}%`;
+  meter.replaceChildren(...responses.map((response) => {
+    const segment = document.createElement("span");
+    segment.className = `meter-segment ${response.correct ? "is-correct" : "is-incorrect"}`;
+    segment.style.setProperty("--meter-segment-width", width);
+    return segment;
+  }));
 }
 
 function updateResults() {
@@ -488,7 +493,7 @@ function updateResults() {
   document.getElementById("answerProgress").textContent = count
     ? `${count} of ${TOTAL_QUESTIONS} answered · ${correct} correct, ${incorrect} incorrect`
     : `${count} of ${TOTAL_QUESTIONS} answered`;
-  updateResultMeter(correct, incorrect, TOTAL_QUESTIONS);
+  updateResultMeter(state.responses, TOTAL_QUESTIONS);
   document.getElementById("completionLink").hidden = count < TOTAL_QUESTIONS;
   document.getElementById("result-title").textContent = count ? `${correct} of ${count} correct` : "Your answers so far";
   document.getElementById("precisionText").textContent = "This is a record of this grammar and vocabulary activity. It does not measure your overall English level or predict examination scores.";

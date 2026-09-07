@@ -274,9 +274,8 @@ function nextPracticeItem() {
 function renderCompletion() {
   document.getElementById("practiceAnswerHint").hidden = true;
   const correct = state.responses.filter((response) => response.correct).length;
-  const incorrect = state.responses.length - correct;
   document.getElementById("practiceNumber").textContent = String(state.quiz.length);
-  updatePracticeMeter(correct, incorrect, state.quiz.length);
+  updatePracticeMeter(state.responses, state.quiz.length);
   document.getElementById("practiceMeta").innerHTML = `<span class="tag">${escapeHtml(state.level)}</span><span class="tag">Complete</span>`;
   document.getElementById("practicePrompt").innerHTML = `
     <div class="quiz-complete">
@@ -390,16 +389,21 @@ function resetCopyPromptButton() {
   button.classList.remove("is-copied");
 }
 
-function updatePracticeMeter(correct, incorrect, total) {
-  const denominator = Math.max(1, total);
-  document.getElementById("practiceMeterIncorrect").style.width = `${incorrect / denominator * 100}%`;
-  document.getElementById("practiceMeterCorrect").style.width = `${correct / denominator * 100}%`;
+function updatePracticeMeter(responses, total) {
+  const meter = document.getElementById("practiceMeterSegments");
+  const width = `${100 / Math.max(1, total)}%`;
+  meter.replaceChildren(...responses.map((response) => {
+    const segment = document.createElement("span");
+    segment.className = `meter-segment ${response.correct ? "is-correct" : "is-incorrect"}`;
+    segment.style.setProperty("--meter-segment-width", width);
+    return segment;
+  }));
 }
 
 function renderSidePanel() {
   const correct = state.responses.filter((response) => response.correct).length;
   const incorrect = state.responses.length - correct;
-  updatePracticeMeter(correct, incorrect, state.quiz.length);
+  updatePracticeMeter(state.responses, state.quiz.length);
   document.getElementById("sideLevel").textContent = state.level;
   document.getElementById("sideCorrect").textContent = `${correct} of ${state.responses.length}`;
   document.getElementById("practiceAnswered").textContent = state.responses.length
