@@ -529,10 +529,218 @@
       return sentenceChoice("Choose the sentence with matching structure.", set[0], set.slice(1), `parallel:${level}:${i}`);
     }
 
+    const a1EmphasisSetups = [
+      "Use so or neither with the helper verb before the second subject.",
+      "Match the helper verb in the first part, then put it before the second subject.",
+      "For this emphasis pattern, the helper verb comes before the second subject.",
+      "The second part should use the same helper verb pattern as the first part."
+    ];
+
+    const a1EmphasisItems = [
+      {
+        correct: "I am hungry, and so is my little sister.",
+        reason: '"So is my little sister" matches "am hungry": use a form of be before the second subject.',
+        wrongs: [
+          ["I am hungry, and so do my little sister.", '"Do" does not match the be verb in "am hungry."'],
+          ["I am hungry, and so is my little sister is.", "This repeats the be verb after the second subject."],
+          ["I am hungry, and so my little sister.", "The second part is missing the helper verb before the subject."]
+        ]
+      },
+      {
+        correct: "Lena likes soccer, and so does Omar.",
+        reason: '"So does Omar" matches the simple present verb "likes" for one other person.',
+        wrongs: [
+          ["Lena likes soccer, and so do Omar.", '"Do" does not match the singular subject "Omar."'],
+          ["Lena likes soccer, and so is Omar.", '"Is" does not match the action verb "likes."'],
+          ["Lena likes soccer, and so does Omar likes soccer.", 'After "does," the main verb should not keep the -s ending.']
+        ]
+      },
+      {
+        correct: "We can swim, and so can the twins.",
+        reason: '"So can the twins" repeats the modal helper "can" before the second subject.',
+        wrongs: [
+          ["We can swim, and so do the twins.", '"Do" does not match the modal helper "can."'],
+          ["We can swim, and so can the twins can.", 'The helper "can" is repeated after the second subject.'],
+          ["We can swim, and so can the twins swims.", 'A verb after "can" should use the base form, not an -s form.']
+        ]
+      },
+      {
+        correct: "The bus was late, and so was the train.",
+        reason: '"So was the train" uses the past be verb before the second subject.',
+        wrongs: [
+          ["The bus was late, and so were the train.", '"Were" does not match the singular subject "the train."'],
+          ["The bus was late, and so did the train.", '"Did" does not match the be verb "was."'],
+          ["The bus was late, and so was the train was.", "This repeats the past be verb after the second subject."]
+        ]
+      },
+      {
+        correct: "My socks are wet, and so are my shoes.",
+        reason: '"So are my shoes" uses the plural be verb before the second subject.',
+        wrongs: [
+          ["My socks are wet, and so is my shoes.", '"Is" does not match the plural subject "my shoes."'],
+          ["My socks are wet, and so do my shoes.", '"Do" does not match the be verb "are."'],
+          ["My socks are wet, and so are my shoes are.", "This repeats the be verb after the second subject."]
+        ]
+      },
+      {
+        correct: "Dad will call, and so will Mom.",
+        reason: '"So will Mom" repeats the future helper "will" before the second subject.',
+        wrongs: [
+          ["Dad will call, and so does Mom.", '"Does" does not match the future helper "will."'],
+          ["Dad will call, and so will Mom calls.", 'A verb after "will" should use the base form, not an -s form.'],
+          ["Dad will call, and so will Mom will.", 'The helper "will" is repeated after the second subject.']
+        ]
+      },
+      {
+        correct: "Maya has a red bag, and so does Ben.",
+        reason: '"So does Ben" is the correct simple-present helper for another person having the same thing.',
+        wrongs: [
+          ["Maya has a red bag, and so do Ben.", '"Do" does not match the singular subject "Ben."'],
+          ["Maya has a red bag, and so is Ben.", '"Is" does not match the verb "has."'],
+          ["Maya has a red bag, and so does Ben has one.", 'After "does," the verb should be "have," not "has."']
+        ]
+      },
+      {
+        correct: "I like music, and so does my brother.",
+        reason: '"So does my brother" uses "does" because the second subject is one person.',
+        wrongs: [
+          ["I like music, and so do my brother.", '"Do" does not match the singular subject "my brother."'],
+          ["I like music, and so is my brother.", '"Is" does not match the action verb "like."'],
+          ["I like music, and so does my brother likes music.", 'After "does," the main verb should not keep the -s ending.']
+        ]
+      },
+      {
+        correct: "The children were quiet, and so was the teacher.",
+        reason: '"So was the teacher" uses a singular be verb for the second subject.',
+        wrongs: [
+          ["The children were quiet, and so were the teacher.", '"Were" does not match the singular subject "the teacher."'],
+          ["The children were quiet, and so did the teacher.", '"Did" does not match the be verb in "were quiet."'],
+          ["The children were quiet, and so was the teacher was.", "This repeats the be verb after the second subject."]
+        ]
+      },
+      {
+        correct: "Nora can read the sign, and so can I.",
+        reason: '"So can I" repeats the modal helper "can" before the second subject.',
+        wrongs: [
+          ["Nora can read the sign, and so do I.", '"Do" does not match the modal helper "can."'],
+          ["Nora can read the sign, and so can I can.", 'The helper "can" is repeated after the second subject.'],
+          ["Nora can read the sign, and so can I reads it.", 'A verb after "can" should use the base form, not an -s form.']
+        ]
+      },
+      {
+        correct: "I am not sleepy, and neither is Kai.",
+        reason: '"Neither is Kai" matches the negative be sentence "I am not sleepy."',
+        wrongs: [
+          ["I am not sleepy, and neither Kai is.", 'With "neither," the be verb should come before the subject.'],
+          ["I am not sleepy, and neither does Kai.", '"Does" does not match the be verb in "am not sleepy."'],
+          ["I am not sleepy, and neither is Kai is.", "This repeats the be verb after the second subject."]
+        ]
+      },
+      {
+        correct: "The door is open, and so is the window.",
+        reason: '"So is the window" uses the singular be verb before the second subject.',
+        wrongs: [
+          ["The door is open, and so are the window.", '"Are" does not match the singular subject "the window."'],
+          ["The door is open, and so does the window.", '"Does" does not match the be verb "is."'],
+          ["The door is open, and so is the window is.", "This repeats the be verb after the second subject."]
+        ]
+      },
+      {
+        correct: "Emma went home, and so did Luis.",
+        reason: '"So did Luis" uses the past helper "did" for the same past action.',
+        wrongs: [
+          ["Emma went home, and so was Luis.", '"Was" does not match the past action verb "went."'],
+          ["Emma went home, and so do Luis.", '"Do" does not match the singular subject or the past time.'],
+          ["Emma went home, and so did Luis went home.", 'After "did," the main verb should be the base form "go."']
+        ]
+      },
+      {
+        correct: "The soup smells good, and so does the bread.",
+        reason: '"So does the bread" uses "does" for a simple present verb with one second subject.',
+        wrongs: [
+          ["The soup smells good, and so do the bread.", '"Do" does not match the singular subject "the bread."'],
+          ["The soup smells good, and so is the bread.", '"Is" does not match the action-like verb "smells."'],
+          ["The soup smells good, and so does the bread smells good.", 'After "does," the main verb should not keep the -s ending.']
+        ]
+      },
+      {
+        correct: "Tom cannot come today, and neither can I.",
+        reason: '"Neither can I" repeats the modal helper "can" for the same negative idea.',
+        wrongs: [
+          ["Tom cannot come today, and neither do I.", '"Do" does not match the modal helper "can."'],
+          ["Tom cannot come today, and neither I can.", 'With "neither," the helper verb should come before the subject.'],
+          ["Tom cannot come today, and neither can I can.", 'The helper "can" is repeated after the second subject.']
+        ]
+      },
+      {
+        correct: "Our room has two windows, and so does their room.",
+        reason: '"So does their room" uses "does" because the second subject is one room.',
+        wrongs: [
+          ["Our room has two windows, and so do their room.", '"Do" does not match the singular subject "their room."'],
+          ["Our room has two windows, and so is their room.", '"Is" does not match the verb "has."'],
+          ["Our room has two windows, and so does their room has two.", 'After "does," the verb should be "have," not "has."']
+        ]
+      },
+      {
+        correct: "Sam is laughing, and so are the girls.",
+        reason: '"So are the girls" uses the plural be verb for the second subject.',
+        wrongs: [
+          ["Sam is laughing, and so is the girls.", '"Is" does not match the plural subject "the girls."'],
+          ["Sam is laughing, and so do the girls.", '"Do" does not match the be verb in "is laughing."'],
+          ["Sam is laughing, and so are the girls are.", "This repeats the be verb after the second subject."]
+        ]
+      },
+      {
+        correct: "The baby slept well, and so did Grandma.",
+        reason: '"So did Grandma" uses the past helper "did" for the same past action.',
+        wrongs: [
+          ["The baby slept well, and so does Grandma.", '"Does" does not match the past time of "slept."'],
+          ["The baby slept well, and so was Grandma.", '"Was" does not match the action verb "slept."'],
+          ["The baby slept well, and so did Grandma slept well.", 'After "did," the main verb should be the base form "sleep."']
+        ]
+      },
+      {
+        correct: "I need a pencil, and so does Aya.",
+        reason: '"So does Aya" uses "does" because the second subject is one person.',
+        wrongs: [
+          ["I need a pencil, and so do Aya.", '"Do" does not match the singular subject "Aya."'],
+          ["I need a pencil, and so is Aya.", '"Is" does not match the action verb "need."'],
+          ["I need a pencil, and so does Aya needs a pencil.", 'After "does," the main verb should not keep the -s ending.']
+        ]
+      },
+      {
+        correct: "The shop opens early, and so does the cafe.",
+        reason: '"So does the cafe" uses "does" for a simple present verb with one second subject.',
+        wrongs: [
+          ["The shop opens early, and so do the cafe.", '"Do" does not match the singular subject "the cafe."'],
+          ["The shop opens early, and so is the cafe.", '"Is" does not match the action verb "opens."'],
+          ["The shop opens early, and so does the cafe opens early.", 'After "does," the main verb should not keep the -s ending.']
+        ]
+      }
+    ];
+
+    function bespokeA1Emphasis(i) {
+      const entry = pick(a1EmphasisItems, i);
+      const options = [entry.correct, ...entry.wrongs.map(([option]) => option)];
+      const explanation = `${entry.reason} The correct sentence is: ${entry.correct}`;
+      const rationales = {
+        [entry.correct]: explanation
+      };
+      for (const [option, note] of entry.wrongs) rationales[option] = note;
+      return makeItem(
+        "Choose the sentence with correct word order.",
+        options,
+        entry.correct,
+        `inversion:a1-bespoke:${i}`,
+        pick(a1EmphasisSetups, i),
+        { explanation, rationales }
+      );
+    }
+
     function inversion(level, i) {
       const c = row(i);
+      if (level === "A1") return bespokeA1Emphasis(i);
       const sets = {
-        A1: [`I am ready, and so is ${c.person}.`, `I am ready, and so ${c.person} is.`, `I am ready, and so does ${c.person}.`, `I am ready, and so ${c.person} does.`],
         A2: [`Here comes the ${pick(["bus", "train", "teacher", "visitor", "manager"], i)} from the ${c.place}.`, `Here the ${pick(["bus", "train", "teacher", "visitor", "manager"], i)} comes it from the ${c.place}.`, `Here does come the ${pick(["bus", "train", "teacher", "visitor", "manager"], i)} from the ${c.place}.`, `Here is comes the ${pick(["bus", "train", "teacher", "visitor", "manager"], i)} from the ${c.place}.`],
         B1: [`${c.person} likes English, and so do I.`, `${c.person} likes English, and so I do.`, `${c.person} likes English, and so am I.`, `${c.person} likes English, and so I am.`],
         B2: [`Not only did ${c.person} finish the ${c.thing}, but ${c.person} also checked it.`, `Not only ${c.person} finished the ${c.thing}, but ${c.person} also checked it.`, `Not only did ${c.person} finished the ${c.thing}, but ${c.person} also checked it.`, `Not only finished ${c.person} the ${c.thing}, but ${c.person} also checked it.`],

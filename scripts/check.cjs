@@ -85,6 +85,11 @@ for (const topic of topics) {
     assert.equal(count, expectedTopicLevelItems, `${topic} / ${level} should have ${expectedTopicLevelItems} items`);
   }
 }
+const a1EmphasisItems = bank.filter(q => q.subcategory === 'Inversion and emphasis' && learning.levelForDifficulty(q.difficulty) === 'A1');
+assert.equal(a1EmphasisItems.length, expectedTopicLevelItems, 'A1 Emphasis should keep its full 20-item cell');
+assert.equal(new Set(a1EmphasisItems.map(q => q.answer)).size, a1EmphasisItems.length, 'A1 Emphasis correct sentences should be bespoke, not recycled with name swaps');
+assert(!a1EmphasisItems.some(q => /\bready\b/i.test([q.setupText, q.taskText, q.explanation, ...q.options, ...Object.values(q.rationales)].join(' '))), 'A1 Emphasis should not reuse the old "ready" template');
+assert(!a1EmphasisItems.some(q => /opening phrase changes the word order|formal sentence/i.test(q.explanation)), 'A1 Emphasis needs targeted feedback, not the old generic explanation');
 // Selection cue is monotonic for every response and independent of response order.
 const history = bank.slice(0, 30).map((q, i) => ({ difficulty: q.difficulty, correct: i % 3 !== 0 }));
 const baseline = learning.selectionDifficulty(history);
