@@ -1,0 +1,2766 @@
+{
+  "topic": "Determiners and quantifiers",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1081",
+      "level": "A1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "Mina needs ___ pencil for the test.",
+      "options": [
+        "a",
+        "many",
+        "much",
+        "(nothing)"
+      ],
+      "answer": "a",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Mina needs a pencil for the test.",
+      "rationales": {
+        "a": "The amount word must fit the noun and meaning. The completed sentence is: Mina needs a pencil for the test.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "(nothing)": "\"(nothing)\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1082",
+      "level": "A1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "There are ___ books on the desk in class.",
+      "options": [
+        "three",
+        "much",
+        "a",
+        "an"
+      ],
+      "answer": "three",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: There are three books on the desk in class.",
+      "rationales": {
+        "three": "The amount word must fit the noun and meaning. The completed sentence is: There are three books on the desk in class.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1083",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "I do not have ___ money today after lunch.",
+      "options": [
+        "any",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "any",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: I do not have any money today after lunch.",
+      "rationales": {
+        "any": "The amount word must fit the noun and meaning. The completed sentence is: I do not have any money today after lunch.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1084",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ student has a name card at school.",
+      "options": [
+        "Each",
+        "Many",
+        "Much",
+        "Several"
+      ],
+      "answer": "Each",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Each student has a name card at school.",
+      "rationales": {
+        "Each": "The amount word must fit the noun and meaning. The completed sentence is: Each student has a name card at school.",
+        "Many": "\"Many\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "Several": "\"Several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1085",
+      "level": "A1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "We need ___ water for lunch this morning.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: We need some water for lunch this morning.",
+      "rationales": {
+        "some": "The amount word must fit the noun and meaning. The completed sentence is: We need some water for lunch this morning.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1086",
+      "level": "A1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "Lena needs ___ pencil for the test.",
+      "options": [
+        "a",
+        "many",
+        "much",
+        "(nothing)"
+      ],
+      "answer": "a",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Lena needs a pencil for the test.",
+      "rationales": {
+        "a": "The amount word must fit the noun and meaning. The completed sentence is: Lena needs a pencil for the test.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "(nothing)": "\"(nothing)\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1087",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "There are ___ books on the desk near the door.",
+      "options": [
+        "three",
+        "much",
+        "a",
+        "an"
+      ],
+      "answer": "three",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: There are three books on the desk near the door.",
+      "rationales": {
+        "three": "The amount word must fit the noun and meaning. The completed sentence is: There are three books on the desk near the door.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1088",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "I do not have ___ money today at home.",
+      "options": [
+        "any",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "any",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: I do not have any money today at home.",
+      "rationales": {
+        "any": "The amount word must fit the noun and meaning. The completed sentence is: I do not have any money today at home.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1089",
+      "level": "A1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "___ student has a name card on Monday.",
+      "options": [
+        "Each",
+        "Many",
+        "Much",
+        "Several"
+      ],
+      "answer": "Each",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Each student has a name card on Monday.",
+      "rationales": {
+        "Each": "The amount word must fit the noun and meaning. The completed sentence is: Each student has a name card on Monday.",
+        "Many": "\"Many\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "Several": "\"Several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1090",
+      "level": "A1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "We need ___ water for lunch in the kitchen.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: We need some water for lunch in the kitchen.",
+      "rationales": {
+        "some": "The amount word must fit the noun and meaning. The completed sentence is: We need some water for lunch in the kitchen.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1091",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Hana needs ___ pencil for the test.",
+      "options": [
+        "a",
+        "many",
+        "much",
+        "(nothing)"
+      ],
+      "answer": "a",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Hana needs a pencil for the test.",
+      "rationales": {
+        "a": "The amount word must fit the noun and meaning. The completed sentence is: Hana needs a pencil for the test.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "(nothing)": "\"(nothing)\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1092",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "There are ___ books on the desk by the window.",
+      "options": [
+        "three",
+        "much",
+        "a",
+        "an"
+      ],
+      "answer": "three",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: There are three books on the desk by the window.",
+      "rationales": {
+        "three": "The amount word must fit the noun and meaning. The completed sentence is: There are three books on the desk by the window.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1093",
+      "level": "A1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "I do not have ___ money today before dinner.",
+      "options": [
+        "any",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "any",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: I do not have any money today before dinner.",
+      "rationales": {
+        "any": "The amount word must fit the noun and meaning. The completed sentence is: I do not have any money today before dinner.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1094",
+      "level": "A1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "___ student has a name card at the park.",
+      "options": [
+        "Each",
+        "Many",
+        "Much",
+        "Several"
+      ],
+      "answer": "Each",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Each student has a name card at the park.",
+      "rationales": {
+        "Each": "The amount word must fit the noun and meaning. The completed sentence is: Each student has a name card at the park.",
+        "Many": "\"Many\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "Several": "\"Several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1095",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "We need ___ water for lunch on the bus.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: We need some water for lunch on the bus.",
+      "rationales": {
+        "some": "The amount word must fit the noun and meaning. The completed sentence is: We need some water for lunch on the bus.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1096",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis needs ___ pencil for the test.",
+      "options": [
+        "a",
+        "many",
+        "much",
+        "(nothing)"
+      ],
+      "answer": "a",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Luis needs a pencil for the test.",
+      "rationales": {
+        "a": "The amount word must fit the noun and meaning. The completed sentence is: Luis needs a pencil for the test.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "(nothing)": "\"(nothing)\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1097",
+      "level": "A1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "There are ___ books on the desk with the teacher.",
+      "options": [
+        "three",
+        "much",
+        "a",
+        "an"
+      ],
+      "answer": "three",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: There are three books on the desk with the teacher.",
+      "rationales": {
+        "three": "The amount word must fit the noun and meaning. The completed sentence is: There are three books on the desk with the teacher.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1098",
+      "level": "A1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "I do not have ___ money today before the bell.",
+      "options": [
+        "any",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "any",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: I do not have any money today before the bell.",
+      "rationales": {
+        "any": "The amount word must fit the noun and meaning. The completed sentence is: I do not have any money today before the bell.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1099",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ student has a name card during the lesson.",
+      "options": [
+        "Each",
+        "Many",
+        "Much",
+        "Several"
+      ],
+      "answer": "Each",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Each student has a name card during the lesson.",
+      "rationales": {
+        "Each": "The amount word must fit the noun and meaning. The completed sentence is: Each student has a name card during the lesson.",
+        "Many": "\"Many\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "Several": "\"Several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a1-1100",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "We need ___ water for lunch at the front.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: We need some water for lunch at the front.",
+      "rationales": {
+        "some": "The amount word must fit the noun and meaning. The completed sentence is: We need some water for lunch at the front.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1101",
+      "level": "A2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "There is ___ milk in the library for the evening course.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: There is some milk in the library for the evening course.",
+      "rationales": {
+        "some": "The amount word must fit the noun and meaning. The completed sentence is: There is some milk in the library for the evening course.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1102",
+      "level": "A2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "___ students finished the application form before noon.",
+      "options": [
+        "Several",
+        "Much",
+        "A",
+        "An"
+      ],
+      "answer": "Several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Several students finished the application form before noon.",
+      "rationales": {
+        "Several": "The amount word must fit the noun and meaning. The completed sentence is: Several students finished the application form before noon.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "A": "\"A\" does not fit this noun or amount.",
+        "An": "\"An\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1103",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Please bring ___ ID card to the housing office.",
+      "options": [
+        "your",
+        "you",
+        "yours",
+        "yourself"
+      ],
+      "answer": "your",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Please bring your ID card to the housing office.",
+      "rationales": {
+        "your": "The amount word must fit the noun and meaning. The completed sentence is: Please bring your ID card to the housing office.",
+        "you": "\"you\" does not fit this noun or amount.",
+        "yours": "\"yours\" does not fit this noun or amount.",
+        "yourself": "\"yourself\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1104",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The reading class does not have ___ extra chairs.",
+      "options": [
+        "enough",
+        "many of",
+        "much of",
+        "each"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The reading class does not have enough extra chairs.",
+      "rationales": {
+        "enough": "The amount word must fit the noun and meaning. The completed sentence is: The reading class does not have enough extra chairs.",
+        "many of": "\"many of\" does not fit this noun or amount.",
+        "much of": "\"much of\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1105",
+      "level": "A2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "I saw ___ teacher near the front desk after the phone call.",
+      "options": [
+        "another",
+        "much",
+        "several",
+        "any"
+      ],
+      "answer": "another",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: I saw another teacher near the front desk after the phone call.",
+      "rationales": {
+        "another": "The amount word must fit the noun and meaning. The completed sentence is: I saw another teacher near the front desk after the phone call.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "any": "\"any\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1106",
+      "level": "A2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "There is ___ milk in the museum during the travel lesson.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: There is some milk in the museum during the travel lesson.",
+      "rationales": {
+        "some": "The amount word must fit the noun and meaning. The completed sentence is: There is some milk in the museum during the travel lesson.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1107",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ students finished the clinic form before noon.",
+      "options": [
+        "Several",
+        "Much",
+        "A",
+        "An"
+      ],
+      "answer": "Several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Several students finished the clinic form before noon.",
+      "rationales": {
+        "Several": "The amount word must fit the noun and meaning. The completed sentence is: Several students finished the clinic form before noon.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "A": "\"A\" does not fit this noun or amount.",
+        "An": "\"An\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1108",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Please bring ___ ID card to the travel office.",
+      "options": [
+        "your",
+        "you",
+        "yours",
+        "yourself"
+      ],
+      "answer": "your",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Please bring your ID card to the travel office.",
+      "rationales": {
+        "your": "The amount word must fit the noun and meaning. The completed sentence is: Please bring your ID card to the travel office.",
+        "you": "\"you\" does not fit this noun or amount.",
+        "yours": "\"yours\" does not fit this noun or amount.",
+        "yourself": "\"yourself\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1109",
+      "level": "A2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The Saturday class does not have ___ extra chairs.",
+      "options": [
+        "enough",
+        "many of",
+        "much of",
+        "each"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The Saturday class does not have enough extra chairs.",
+      "rationales": {
+        "enough": "The amount word must fit the noun and meaning. The completed sentence is: The Saturday class does not have enough extra chairs.",
+        "many of": "\"many of\" does not fit this noun or amount.",
+        "much of": "\"much of\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1110",
+      "level": "A2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "I saw ___ teacher near the front desk on the student portal.",
+      "options": [
+        "another",
+        "much",
+        "several",
+        "any"
+      ],
+      "answer": "another",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: I saw another teacher near the front desk on the student portal.",
+      "rationales": {
+        "another": "The amount word must fit the noun and meaning. The completed sentence is: I saw another teacher near the front desk on the student portal.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "any": "\"any\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1111",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "There is ___ milk in the airport after the reminder email.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: There is some milk in the airport after the reminder email.",
+      "rationales": {
+        "some": "The amount word must fit the noun and meaning. The completed sentence is: There is some milk in the airport after the reminder email.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1112",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ students finished the payroll form before noon.",
+      "options": [
+        "Several",
+        "Much",
+        "A",
+        "An"
+      ],
+      "answer": "Several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Several students finished the payroll form before noon.",
+      "rationales": {
+        "Several": "The amount word must fit the noun and meaning. The completed sentence is: Several students finished the payroll form before noon.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "A": "\"A\" does not fit this noun or amount.",
+        "An": "\"An\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1113",
+      "level": "A2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "Please bring ___ ID card to the program office.",
+      "options": [
+        "your",
+        "you",
+        "yours",
+        "yourself"
+      ],
+      "answer": "your",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Please bring your ID card to the program office.",
+      "rationales": {
+        "your": "The amount word must fit the noun and meaning. The completed sentence is: Please bring your ID card to the program office.",
+        "you": "\"you\" does not fit this noun or amount.",
+        "yours": "\"yours\" does not fit this noun or amount.",
+        "yourself": "\"yourself\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1114",
+      "level": "A2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "The summer class does not have ___ extra chairs.",
+      "options": [
+        "enough",
+        "many of",
+        "much of",
+        "each"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The summer class does not have enough extra chairs.",
+      "rationales": {
+        "enough": "The amount word must fit the noun and meaning. The completed sentence is: The summer class does not have enough extra chairs.",
+        "many of": "\"many of\" does not fit this noun or amount.",
+        "much of": "\"much of\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1115",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "I saw ___ teacher near the front desk before the review quiz.",
+      "options": [
+        "another",
+        "much",
+        "several",
+        "any"
+      ],
+      "answer": "another",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: I saw another teacher near the front desk before the review quiz.",
+      "rationales": {
+        "another": "The amount word must fit the noun and meaning. The completed sentence is: I saw another teacher near the front desk before the review quiz.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "any": "\"any\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1116",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "There is ___ milk in the market on the notice board.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: There is some milk in the market on the notice board.",
+      "rationales": {
+        "some": "The amount word must fit the noun and meaning. The completed sentence is: There is some milk in the market on the notice board.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "a": "\"a\" does not fit this noun or amount.",
+        "an": "\"an\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1117",
+      "level": "A2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "___ students finished the intake form before noon.",
+      "options": [
+        "Several",
+        "Much",
+        "A",
+        "An"
+      ],
+      "answer": "Several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Several students finished the intake form before noon.",
+      "rationales": {
+        "Several": "The amount word must fit the noun and meaning. The completed sentence is: Several students finished the intake form before noon.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "A": "\"A\" does not fit this noun or amount.",
+        "An": "\"An\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1118",
+      "level": "A2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "Please bring ___ ID card to the local office.",
+      "options": [
+        "your",
+        "you",
+        "yours",
+        "yourself"
+      ],
+      "answer": "your",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Please bring your ID card to the local office.",
+      "rationales": {
+        "your": "The amount word must fit the noun and meaning. The completed sentence is: Please bring your ID card to the local office.",
+        "you": "\"you\" does not fit this noun or amount.",
+        "yours": "\"yours\" does not fit this noun or amount.",
+        "yourself": "\"yourself\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1119",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The final class does not have ___ extra chairs.",
+      "options": [
+        "enough",
+        "many of",
+        "much of",
+        "each"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The final class does not have enough extra chairs.",
+      "rationales": {
+        "enough": "The amount word must fit the noun and meaning. The completed sentence is: The final class does not have enough extra chairs.",
+        "many of": "\"many of\" does not fit this noun or amount.",
+        "much of": "\"much of\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-a2-1120",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "I saw ___ teacher near the front desk before the form is submitted.",
+      "options": [
+        "another",
+        "much",
+        "several",
+        "any"
+      ],
+      "answer": "another",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: I saw another teacher near the front desk before the form is submitted.",
+      "rationales": {
+        "another": "The amount word must fit the noun and meaning. The completed sentence is: I saw another teacher near the front desk before the form is submitted.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "any": "\"any\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1121",
+      "level": "B1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "___ student in the library must sign the registration form.",
+      "options": [
+        "Each",
+        "Many",
+        "Much",
+        "Several"
+      ],
+      "answer": "Each",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Each student in the library must sign the registration form.",
+      "rationales": {
+        "Each": "The amount word must fit the noun and meaning. The completed sentence is: Each student in the library must sign the registration form.",
+        "Many": "\"Many\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "Several": "\"Several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1122",
+      "level": "B1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "The school office has ___ copies for everyone in the room.",
+      "options": [
+        "enough",
+        "much",
+        "each",
+        "another"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The school office has enough copies for everyone in the room.",
+      "rationales": {
+        "enough": "The amount word must fit the noun and meaning. The completed sentence is: The school office has enough copies for everyone in the room.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "another": "\"another\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1123",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "There were ___ complaints after the schedule changed before the client call.",
+      "options": [
+        "several",
+        "much",
+        "a little",
+        "each"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: There were several complaints after the schedule changed before the client call.",
+      "rationales": {
+        "several": "The amount word must fit the noun and meaning. The completed sentence is: There were several complaints after the schedule changed before the client call.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "a little": "\"a little\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1124",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ of the two answers is completely correct in the course update.",
+      "options": [
+        "Neither",
+        "Several",
+        "Many",
+        "Much"
+      ],
+      "answer": "Neither",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Neither of the two answers is completely correct in the course update.",
+      "rationales": {
+        "Neither": "The amount word must fit the noun and meaning. The completed sentence is: Neither of the two answers is completely correct in the course update.",
+        "Several": "\"Several\" does not fit this noun or amount.",
+        "Many": "\"Many\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1125",
+      "level": "B1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The reading teacher gave ___ student the same instructions.",
+      "options": [
+        "each",
+        "many",
+        "much",
+        "several"
+      ],
+      "answer": "each",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The reading teacher gave each student the same instructions.",
+      "rationales": {
+        "each": "The amount word must fit the noun and meaning. The completed sentence is: The reading teacher gave each student the same instructions.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1126",
+      "level": "B1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "___ student in the museum must sign the housing form.",
+      "options": [
+        "Each",
+        "Many",
+        "Much",
+        "Several"
+      ],
+      "answer": "Each",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Each student in the museum must sign the housing form.",
+      "rationales": {
+        "Each": "The amount word must fit the noun and meaning. The completed sentence is: Each student in the museum must sign the housing form.",
+        "Many": "\"Many\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "Several": "\"Several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1127",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The records office has ___ copies for everyone in the room.",
+      "options": [
+        "enough",
+        "much",
+        "each",
+        "another"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The records office has enough copies for everyone in the room.",
+      "rationales": {
+        "enough": "The amount word must fit the noun and meaning. The completed sentence is: The records office has enough copies for everyone in the room.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "another": "\"another\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1128",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "There were ___ complaints after the schedule changed before the application review.",
+      "options": [
+        "several",
+        "much",
+        "a little",
+        "each"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: There were several complaints after the schedule changed before the application review.",
+      "rationales": {
+        "several": "The amount word must fit the noun and meaning. The completed sentence is: There were several complaints after the schedule changed before the application review.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "a little": "\"a little\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1129",
+      "level": "B1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "___ of the two answers is completely correct in the weekly summary.",
+      "options": [
+        "Neither",
+        "Several",
+        "Many",
+        "Much"
+      ],
+      "answer": "Neither",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Neither of the two answers is completely correct in the weekly summary.",
+      "rationales": {
+        "Neither": "The amount word must fit the noun and meaning. The completed sentence is: Neither of the two answers is completely correct in the weekly summary.",
+        "Several": "\"Several\" does not fit this noun or amount.",
+        "Many": "\"Many\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1130",
+      "level": "B1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "The new teacher gave ___ student the same instructions.",
+      "options": [
+        "each",
+        "many",
+        "much",
+        "several"
+      ],
+      "answer": "each",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The new teacher gave each student the same instructions.",
+      "rationales": {
+        "each": "The amount word must fit the noun and meaning. The completed sentence is: The new teacher gave each student the same instructions.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1131",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ student in the airport must sign the course form.",
+      "options": [
+        "Each",
+        "Many",
+        "Much",
+        "Several"
+      ],
+      "answer": "Each",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Each student in the airport must sign the course form.",
+      "rationales": {
+        "Each": "The amount word must fit the noun and meaning. The completed sentence is: Each student in the airport must sign the course form.",
+        "Many": "\"Many\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "Several": "\"Several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1132",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The registrar's office has ___ copies for everyone in the room.",
+      "options": [
+        "enough",
+        "much",
+        "each",
+        "another"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The registrar's office has enough copies for everyone in the room.",
+      "rationales": {
+        "enough": "The amount word must fit the noun and meaning. The completed sentence is: The registrar's office has enough copies for everyone in the room.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "another": "\"another\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1133",
+      "level": "B1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "There were ___ complaints after the schedule changed before the team review.",
+      "options": [
+        "several",
+        "much",
+        "a little",
+        "each"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: There were several complaints after the schedule changed before the team review.",
+      "rationales": {
+        "several": "The amount word must fit the noun and meaning. The completed sentence is: There were several complaints after the schedule changed before the team review.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "a little": "\"a little\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1134",
+      "level": "B1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "___ of the two answers is completely correct in the student handbook.",
+      "options": [
+        "Neither",
+        "Several",
+        "Many",
+        "Much"
+      ],
+      "answer": "Neither",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Neither of the two answers is completely correct in the student handbook.",
+      "rationales": {
+        "Neither": "The amount word must fit the noun and meaning. The completed sentence is: Neither of the two answers is completely correct in the student handbook.",
+        "Several": "\"Several\" does not fit this noun or amount.",
+        "Many": "\"Many\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1135",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The science teacher gave ___ student the same instructions.",
+      "options": [
+        "each",
+        "many",
+        "much",
+        "several"
+      ],
+      "answer": "each",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The science teacher gave each student the same instructions.",
+      "rationales": {
+        "each": "The amount word must fit the noun and meaning. The completed sentence is: The science teacher gave each student the same instructions.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1136",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ student in the market must sign the tax form.",
+      "options": [
+        "Each",
+        "Many",
+        "Much",
+        "Several"
+      ],
+      "answer": "Each",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Each student in the market must sign the tax form.",
+      "rationales": {
+        "Each": "The amount word must fit the noun and meaning. The completed sentence is: Each student in the market must sign the tax form.",
+        "Many": "\"Many\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "Several": "\"Several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1137",
+      "level": "B1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The training office has ___ copies for everyone in the room.",
+      "options": [
+        "enough",
+        "much",
+        "each",
+        "another"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The training office has enough copies for everyone in the room.",
+      "rationales": {
+        "enough": "The amount word must fit the noun and meaning. The completed sentence is: The training office has enough copies for everyone in the room.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "another": "\"another\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1138",
+      "level": "B1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "There were ___ complaints after the schedule changed before the documents are filed.",
+      "options": [
+        "several",
+        "much",
+        "a little",
+        "each"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: There were several complaints after the schedule changed before the documents are filed.",
+      "rationales": {
+        "several": "The amount word must fit the noun and meaning. The completed sentence is: There were several complaints after the schedule changed before the documents are filed.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "a little": "\"a little\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1139",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ of the two answers is completely correct in the project checklist.",
+      "options": [
+        "Neither",
+        "Several",
+        "Many",
+        "Much"
+      ],
+      "answer": "Neither",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Neither of the two answers is completely correct in the project checklist.",
+      "rationales": {
+        "Neither": "The amount word must fit the noun and meaning. The completed sentence is: Neither of the two answers is completely correct in the project checklist.",
+        "Several": "\"Several\" does not fit this noun or amount.",
+        "Many": "\"Many\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b1-1140",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The history teacher gave ___ student the same instructions.",
+      "options": [
+        "each",
+        "many",
+        "much",
+        "several"
+      ],
+      "answer": "each",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The history teacher gave each student the same instructions.",
+      "rationales": {
+        "each": "The amount word must fit the noun and meaning. The completed sentence is: The history teacher gave each student the same instructions.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1141",
+      "level": "B2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "We have enough chairs for ___ visitor in the library for the audit file.",
+      "options": [
+        "every",
+        "much",
+        "several",
+        "few"
+      ],
+      "answer": "every",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: We have enough chairs for every visitor in the library for the audit file.",
+      "rationales": {
+        "every": "The amount word must fit the noun and meaning. The completed sentence is: We have enough chairs for every visitor in the library for the audit file.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1142",
+      "level": "B2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "Only ___ of the applicants submitted both forms during the policy review.",
+      "options": [
+        "some",
+        "much",
+        "each",
+        "another"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Only some of the applicants submitted both forms during the policy review.",
+      "rationales": {
+        "some": "The amount word must fit the noun and meaning. The completed sentence is: Only some of the applicants submitted both forms during the policy review.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "another": "\"another\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1143",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The safety report gives ___ detail to support the conclusion.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The safety report gives little detail to support the conclusion.",
+      "rationales": {
+        "little": "The amount word must fit the noun and meaning. The completed sentence is: The safety report gives little detail to support the conclusion.",
+        "few": "\"few\" does not fit this noun or amount.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1144",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ participants who missed the first session must attend the safety review.",
+      "options": [
+        "All",
+        "Much",
+        "Every",
+        "Each of"
+      ],
+      "answer": "All",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: All participants who missed the first session must attend the safety review.",
+      "rationales": {
+        "All": "The amount word must fit the noun and meaning. The completed sentence is: All participants who missed the first session must attend the safety review.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "Every": "\"Every\" does not fit this noun or amount.",
+        "Each of": "\"Each of\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1145",
+      "level": "B2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The safety committee rejected ___ proposal because both were incomplete.",
+      "options": [
+        "both",
+        "either",
+        "neither",
+        "each"
+      ],
+      "answer": "both",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The safety committee rejected both proposal because both were incomplete.",
+      "rationales": {
+        "both": "The amount word must fit the noun and meaning. The completed sentence is: The safety committee rejected both proposal because both were incomplete.",
+        "either": "\"either\" does not fit this noun or amount.",
+        "neither": "\"neither\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1146",
+      "level": "B2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "We have enough chairs for ___ visitor in the museum during the data check.",
+      "options": [
+        "every",
+        "much",
+        "several",
+        "few"
+      ],
+      "answer": "every",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: We have enough chairs for every visitor in the museum during the data check.",
+      "rationales": {
+        "every": "The amount word must fit the noun and meaning. The completed sentence is: We have enough chairs for every visitor in the museum during the data check.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1147",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Only ___ of the applicants submitted both forms for the training portal.",
+      "options": [
+        "some",
+        "much",
+        "each",
+        "another"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Only some of the applicants submitted both forms for the training portal.",
+      "rationales": {
+        "some": "The amount word must fit the noun and meaning. The completed sentence is: Only some of the applicants submitted both forms for the training portal.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "another": "\"another\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1148",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The training report gives ___ detail to support the conclusion.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The training report gives little detail to support the conclusion.",
+      "rationales": {
+        "little": "The amount word must fit the noun and meaning. The completed sentence is: The training report gives little detail to support the conclusion.",
+        "few": "\"few\" does not fit this noun or amount.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1149",
+      "level": "B2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "___ participants who missed the first session must attend the application review.",
+      "options": [
+        "All",
+        "Much",
+        "Every",
+        "Each of"
+      ],
+      "answer": "All",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: All participants who missed the first session must attend the application review.",
+      "rationales": {
+        "All": "The amount word must fit the noun and meaning. The completed sentence is: All participants who missed the first session must attend the application review.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "Every": "\"Every\" does not fit this noun or amount.",
+        "Each of": "\"Each of\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1150",
+      "level": "B2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "The budget committee rejected ___ proposal because both were incomplete.",
+      "options": [
+        "both",
+        "either",
+        "neither",
+        "each"
+      ],
+      "answer": "both",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The budget committee rejected both proposal because both were incomplete.",
+      "rationales": {
+        "both": "The amount word must fit the noun and meaning. The completed sentence is: The budget committee rejected both proposal because both were incomplete.",
+        "either": "\"either\" does not fit this noun or amount.",
+        "neither": "\"neither\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1151",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "We have enough chairs for ___ visitor in the airport during the hiring process.",
+      "options": [
+        "every",
+        "much",
+        "several",
+        "few"
+      ],
+      "answer": "every",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: We have enough chairs for every visitor in the airport during the hiring process.",
+      "rationales": {
+        "every": "The amount word must fit the noun and meaning. The completed sentence is: We have enough chairs for every visitor in the airport during the hiring process.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1152",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Only ___ of the applicants submitted both forms for the project dashboard.",
+      "options": [
+        "some",
+        "much",
+        "each",
+        "another"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Only some of the applicants submitted both forms for the project dashboard.",
+      "rationales": {
+        "some": "The amount word must fit the noun and meaning. The completed sentence is: Only some of the applicants submitted both forms for the project dashboard.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "another": "\"another\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1153",
+      "level": "B2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The policy report gives ___ detail to support the conclusion.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The policy report gives little detail to support the conclusion.",
+      "rationales": {
+        "little": "The amount word must fit the noun and meaning. The completed sentence is: The policy report gives little detail to support the conclusion.",
+        "few": "\"few\" does not fit this noun or amount.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1154",
+      "level": "B2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "___ participants who missed the first session must attend the curriculum review.",
+      "options": [
+        "All",
+        "Much",
+        "Every",
+        "Each of"
+      ],
+      "answer": "All",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: All participants who missed the first session must attend the curriculum review.",
+      "rationales": {
+        "All": "The amount word must fit the noun and meaning. The completed sentence is: All participants who missed the first session must attend the curriculum review.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "Every": "\"Every\" does not fit this noun or amount.",
+        "Each of": "\"Each of\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1155",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The oversight committee rejected ___ proposal because both were incomplete.",
+      "options": [
+        "both",
+        "either",
+        "neither",
+        "each"
+      ],
+      "answer": "both",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The oversight committee rejected both proposal because both were incomplete.",
+      "rationales": {
+        "both": "The amount word must fit the noun and meaning. The completed sentence is: The oversight committee rejected both proposal because both were incomplete.",
+        "either": "\"either\" does not fit this noun or amount.",
+        "neither": "\"neither\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1156",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "We have enough chairs for ___ visitor in the market during the operations review.",
+      "options": [
+        "every",
+        "much",
+        "several",
+        "few"
+      ],
+      "answer": "every",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: We have enough chairs for every visitor in the market during the operations review.",
+      "rationales": {
+        "every": "The amount word must fit the noun and meaning. The completed sentence is: We have enough chairs for every visitor in the market during the operations review.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1157",
+      "level": "B2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "Only ___ of the applicants submitted both forms for the quarterly summary.",
+      "options": [
+        "some",
+        "much",
+        "each",
+        "another"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Only some of the applicants submitted both forms for the quarterly summary.",
+      "rationales": {
+        "some": "The amount word must fit the noun and meaning. The completed sentence is: Only some of the applicants submitted both forms for the quarterly summary.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "another": "\"another\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1158",
+      "level": "B2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "The financial report gives ___ detail to support the conclusion.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The financial report gives little detail to support the conclusion.",
+      "rationales": {
+        "little": "The amount word must fit the noun and meaning. The completed sentence is: The financial report gives little detail to support the conclusion.",
+        "few": "\"few\" does not fit this noun or amount.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1159",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ participants who missed the first session must attend the peer review.",
+      "options": [
+        "All",
+        "Much",
+        "Every",
+        "Each of"
+      ],
+      "answer": "All",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: All participants who missed the first session must attend the peer review.",
+      "rationales": {
+        "All": "The amount word must fit the noun and meaning. The completed sentence is: All participants who missed the first session must attend the peer review.",
+        "Much": "\"Much\" does not fit this noun or amount.",
+        "Every": "\"Every\" does not fit this noun or amount.",
+        "Each of": "\"Each of\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-b2-1160",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The steering committee rejected ___ proposal because both were incomplete.",
+      "options": [
+        "both",
+        "either",
+        "neither",
+        "each"
+      ],
+      "answer": "both",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The steering committee rejected both proposal because both were incomplete.",
+      "rationales": {
+        "both": "The amount word must fit the noun and meaning. The completed sentence is: The steering committee rejected both proposal because both were incomplete.",
+        "either": "\"either\" does not fit this noun or amount.",
+        "neither": "\"neither\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1161",
+      "level": "C1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "Neither answer about the attendance report gives ___ detail to support the claim.",
+      "options": [
+        "enough",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Neither answer about the attendance report gives enough detail to support the claim.",
+      "rationales": {
+        "enough": "The amount word must fit the noun and meaning. The completed sentence is: Neither answer about the attendance report gives enough detail to support the claim.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1162",
+      "level": "C1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "The budget report includes ___ evidence to justify a cautious recommendation.",
+      "options": [
+        "sufficient",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "sufficient",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The budget report includes sufficient evidence to justify a cautious recommendation.",
+      "rationales": {
+        "sufficient": "The amount word must fit the noun and meaning. The completed sentence is: The budget report includes sufficient evidence to justify a cautious recommendation.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1163",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ of the proposed explanations accounts for every case during the stakeholder meeting.",
+      "options": [
+        "None",
+        "Each",
+        "Every",
+        "Much"
+      ],
+      "answer": "None",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: None of the proposed explanations accounts for every case during the stakeholder meeting.",
+      "rationales": {
+        "None": "The amount word must fit the noun and meaning. The completed sentence is: None of the proposed explanations accounts for every case during the stakeholder meeting.",
+        "Each": "\"Each\" does not fit this noun or amount.",
+        "Every": "\"Every\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1164",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The reviewer found ___ inconsistencies in the methodological appendix.",
+      "options": [
+        "several",
+        "much",
+        "each",
+        "any of"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The reviewer found several inconsistencies in the methodological appendix.",
+      "rationales": {
+        "several": "The amount word must fit the noun and meaning. The completed sentence is: The reviewer found several inconsistencies in the methodological appendix.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "any of": "\"any of\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1165",
+      "level": "C1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The method leaves ___ room for subjective interpretation after the evidence is compared.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The method leaves little room for subjective interpretation after the evidence is compared.",
+      "rationales": {
+        "little": "The amount word must fit the noun and meaning. The completed sentence is: The method leaves little room for subjective interpretation after the evidence is compared.",
+        "few": "\"few\" does not fit this noun or amount.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1166",
+      "level": "C1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "Neither answer about the chart gives ___ detail to support the claim during the compliance review.",
+      "options": [
+        "enough",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Neither answer about the chart gives enough detail to support the claim during the compliance review.",
+      "rationales": {
+        "enough": "The amount word must fit the noun and meaning. The completed sentence is: Neither answer about the chart gives enough detail to support the claim during the compliance review.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1167",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The audit report includes ___ evidence to justify a cautious recommendation.",
+      "options": [
+        "sufficient",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "sufficient",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The audit report includes sufficient evidence to justify a cautious recommendation.",
+      "rationales": {
+        "sufficient": "The amount word must fit the noun and meaning. The completed sentence is: The audit report includes sufficient evidence to justify a cautious recommendation.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1168",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ of the proposed explanations accounts for every case after the pilot program.",
+      "options": [
+        "None",
+        "Each",
+        "Every",
+        "Much"
+      ],
+      "answer": "None",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: None of the proposed explanations accounts for every case after the pilot program.",
+      "rationales": {
+        "None": "The amount word must fit the noun and meaning. The completed sentence is: None of the proposed explanations accounts for every case after the pilot program.",
+        "Each": "\"Each\" does not fit this noun or amount.",
+        "Every": "\"Every\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1169",
+      "level": "C1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The reviewer found ___ inconsistencies in the final appendix.",
+      "options": [
+        "several",
+        "much",
+        "each",
+        "any of"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The reviewer found several inconsistencies in the final appendix.",
+      "rationales": {
+        "several": "The amount word must fit the noun and meaning. The completed sentence is: The reviewer found several inconsistencies in the final appendix.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "any of": "\"any of\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1170",
+      "level": "C1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "The method leaves ___ room for subjective interpretation in the grant application.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The method leaves little room for subjective interpretation in the grant application.",
+      "rationales": {
+        "little": "The amount word must fit the noun and meaning. The completed sentence is: The method leaves little room for subjective interpretation in the grant application.",
+        "few": "\"few\" does not fit this noun or amount.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1171",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Neither answer about the lesson plan gives ___ detail to support the claim during the seminar discussion.",
+      "options": [
+        "enough",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Neither answer about the lesson plan gives enough detail to support the claim during the seminar discussion.",
+      "rationales": {
+        "enough": "The amount word must fit the noun and meaning. The completed sentence is: Neither answer about the lesson plan gives enough detail to support the claim during the seminar discussion.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1172",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The inspection report includes ___ evidence to justify a cautious recommendation.",
+      "options": [
+        "sufficient",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "sufficient",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The inspection report includes sufficient evidence to justify a cautious recommendation.",
+      "rationales": {
+        "sufficient": "The amount word must fit the noun and meaning. The completed sentence is: The inspection report includes sufficient evidence to justify a cautious recommendation.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1173",
+      "level": "C1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "___ of the proposed explanations accounts for every case after the interviews are coded.",
+      "options": [
+        "None",
+        "Each",
+        "Every",
+        "Much"
+      ],
+      "answer": "None",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: None of the proposed explanations accounts for every case after the interviews are coded.",
+      "rationales": {
+        "None": "The amount word must fit the noun and meaning. The completed sentence is: None of the proposed explanations accounts for every case after the interviews are coded.",
+        "Each": "\"Each\" does not fit this noun or amount.",
+        "Every": "\"Every\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1174",
+      "level": "C1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "The reviewer found ___ inconsistencies in the comparative appendix.",
+      "options": [
+        "several",
+        "much",
+        "each",
+        "any of"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The reviewer found several inconsistencies in the comparative appendix.",
+      "rationales": {
+        "several": "The amount word must fit the noun and meaning. The completed sentence is: The reviewer found several inconsistencies in the comparative appendix.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "any of": "\"any of\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1175",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The method leaves ___ room for subjective interpretation in the appendix note.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The method leaves little room for subjective interpretation in the appendix note.",
+      "rationales": {
+        "little": "The amount word must fit the noun and meaning. The completed sentence is: The method leaves little room for subjective interpretation in the appendix note.",
+        "few": "\"few\" does not fit this noun or amount.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1176",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Neither answer about the agenda gives ___ detail to support the claim for the advisory brief.",
+      "options": [
+        "enough",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Neither answer about the agenda gives enough detail to support the claim for the advisory brief.",
+      "rationales": {
+        "enough": "The amount word must fit the noun and meaning. The completed sentence is: Neither answer about the agenda gives enough detail to support the claim for the advisory brief.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1177",
+      "level": "C1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The compliance report includes ___ evidence to justify a cautious recommendation.",
+      "options": [
+        "sufficient",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "sufficient",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The compliance report includes sufficient evidence to justify a cautious recommendation.",
+      "rationales": {
+        "sufficient": "The amount word must fit the noun and meaning. The completed sentence is: The compliance report includes sufficient evidence to justify a cautious recommendation.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1178",
+      "level": "C1",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "___ of the proposed explanations accounts for every case on the evidence table.",
+      "options": [
+        "None",
+        "Each",
+        "Every",
+        "Much"
+      ],
+      "answer": "None",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: None of the proposed explanations accounts for every case on the evidence table.",
+      "rationales": {
+        "None": "The amount word must fit the noun and meaning. The completed sentence is: None of the proposed explanations accounts for every case on the evidence table.",
+        "Each": "\"Each\" does not fit this noun or amount.",
+        "Every": "\"Every\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1179",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The reviewer found ___ inconsistencies in the empirical appendix.",
+      "options": [
+        "several",
+        "much",
+        "each",
+        "any of"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The reviewer found several inconsistencies in the empirical appendix.",
+      "rationales": {
+        "several": "The amount word must fit the noun and meaning. The completed sentence is: The reviewer found several inconsistencies in the empirical appendix.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "any of": "\"any of\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c1-1180",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The method leaves ___ room for subjective interpretation in the assessment rubric.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The method leaves little room for subjective interpretation in the assessment rubric.",
+      "rationales": {
+        "little": "The amount word must fit the noun and meaning. The completed sentence is: The method leaves little room for subjective interpretation in the assessment rubric.",
+        "few": "\"few\" does not fit this noun or amount.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1181",
+      "level": "C2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The attendance report about the report offers little, if ___, evidence for that conclusion.",
+      "options": [
+        "any",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "any",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The attendance report about the report offers little, if any, evidence for that conclusion.",
+      "rationales": {
+        "any": "The amount word must fit the noun and meaning. The completed sentence is: The attendance report about the report offers little, if any, evidence for that conclusion.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1182",
+      "level": "C2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "___ interpretation can be defended without additional evidence during the evidentiary hearing.",
+      "options": [
+        "Neither",
+        "Both",
+        "Several",
+        "Much"
+      ],
+      "answer": "Neither",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Neither interpretation can be defended without additional evidence during the evidentiary hearing.",
+      "rationales": {
+        "Neither": "The amount word must fit the noun and meaning. The completed sentence is: Neither interpretation can be defended without additional evidence during the evidentiary hearing.",
+        "Both": "\"Both\" does not fit this noun or amount.",
+        "Several": "\"Several\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1183",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The dissent accepts ___ of the majority's factual assumptions before the arbitration panel meets.",
+      "options": [
+        "none",
+        "every",
+        "each",
+        "much"
+      ],
+      "answer": "none",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The dissent accepts none of the majority's factual assumptions before the arbitration panel meets.",
+      "rationales": {
+        "none": "The amount word must fit the noun and meaning. The completed sentence is: The dissent accepts none of the majority's factual assumptions before the arbitration panel meets.",
+        "every": "\"every\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "much": "\"much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1184",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The model depends on ___ assumptions that remain untested in the fiduciary briefing.",
+      "options": [
+        "several",
+        "much",
+        "each",
+        "any of"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The model depends on several assumptions that remain untested in the fiduciary briefing.",
+      "rationales": {
+        "several": "The amount word must fit the noun and meaning. The completed sentence is: The model depends on several assumptions that remain untested in the fiduciary briefing.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "any of": "\"any of\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1185",
+      "level": "C2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The clause gives the agency ___ discretion than the earlier version did after the methodological critique.",
+      "options": [
+        "less",
+        "fewer",
+        "many",
+        "several"
+      ],
+      "answer": "less",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The clause gives the agency less discretion than the earlier version did after the methodological critique.",
+      "rationales": {
+        "less": "The amount word must fit the noun and meaning. The completed sentence is: The clause gives the agency less discretion than the earlier version did after the methodological critique.",
+        "fewer": "\"fewer\" does not fit this noun or amount.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1186",
+      "level": "C2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "The progress report about the chart offers little, if ___, evidence for that conclusion.",
+      "options": [
+        "any",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "any",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The progress report about the chart offers little, if any, evidence for that conclusion.",
+      "rationales": {
+        "any": "The amount word must fit the noun and meaning. The completed sentence is: The progress report about the chart offers little, if any, evidence for that conclusion.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1187",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ interpretation can be defended without additional evidence in the interpretive framework.",
+      "options": [
+        "Neither",
+        "Both",
+        "Several",
+        "Much"
+      ],
+      "answer": "Neither",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Neither interpretation can be defended without additional evidence in the interpretive framework.",
+      "rationales": {
+        "Neither": "The amount word must fit the noun and meaning. The completed sentence is: Neither interpretation can be defended without additional evidence in the interpretive framework.",
+        "Both": "\"Both\" does not fit this noun or amount.",
+        "Several": "\"Several\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1188",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The dissent accepts ___ of the majority's factual assumptions during the appellate review.",
+      "options": [
+        "none",
+        "every",
+        "each",
+        "much"
+      ],
+      "answer": "none",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The dissent accepts none of the majority's factual assumptions during the appellate review.",
+      "rationales": {
+        "none": "The amount word must fit the noun and meaning. The completed sentence is: The dissent accepts none of the majority's factual assumptions during the appellate review.",
+        "every": "\"every\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "much": "\"much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1189",
+      "level": "C2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The model depends on ___ assumptions that remain untested in the technical memorandum.",
+      "options": [
+        "several",
+        "much",
+        "each",
+        "any of"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The model depends on several assumptions that remain untested in the technical memorandum.",
+      "rationales": {
+        "several": "The amount word must fit the noun and meaning. The completed sentence is: The model depends on several assumptions that remain untested in the technical memorandum.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "any of": "\"any of\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1190",
+      "level": "C2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "The clause gives the agency ___ discretion than the earlier version did after the objections are synthesized.",
+      "options": [
+        "less",
+        "fewer",
+        "many",
+        "several"
+      ],
+      "answer": "less",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The clause gives the agency less discretion than the earlier version did after the objections are synthesized.",
+      "rationales": {
+        "less": "The amount word must fit the noun and meaning. The completed sentence is: The clause gives the agency less discretion than the earlier version did after the objections are synthesized.",
+        "fewer": "\"fewer\" does not fit this noun or amount.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1191",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The evaluation report about the lesson plan offers little, if ___, evidence for that conclusion.",
+      "options": [
+        "any",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "any",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The evaluation report about the lesson plan offers little, if any, evidence for that conclusion.",
+      "rationales": {
+        "any": "The amount word must fit the noun and meaning. The completed sentence is: The evaluation report about the lesson plan offers little, if any, evidence for that conclusion.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1192",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ interpretation can be defended without additional evidence in the published corrigendum.",
+      "options": [
+        "Neither",
+        "Both",
+        "Several",
+        "Much"
+      ],
+      "answer": "Neither",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Neither interpretation can be defended without additional evidence in the published corrigendum.",
+      "rationales": {
+        "Neither": "The amount word must fit the noun and meaning. The completed sentence is: Neither interpretation can be defended without additional evidence in the published corrigendum.",
+        "Both": "\"Both\" does not fit this noun or amount.",
+        "Several": "\"Several\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1193",
+      "level": "C2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The dissent accepts ___ of the majority's factual assumptions during the ethics review.",
+      "options": [
+        "none",
+        "every",
+        "each",
+        "much"
+      ],
+      "answer": "none",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The dissent accepts none of the majority's factual assumptions during the ethics review.",
+      "rationales": {
+        "none": "The amount word must fit the noun and meaning. The completed sentence is: The dissent accepts none of the majority's factual assumptions during the ethics review.",
+        "every": "\"every\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "much": "\"much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1194",
+      "level": "C2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "The model depends on ___ assumptions that remain untested on the counterargument table.",
+      "options": [
+        "several",
+        "much",
+        "each",
+        "any of"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The model depends on several assumptions that remain untested on the counterargument table.",
+      "rationales": {
+        "several": "The amount word must fit the noun and meaning. The completed sentence is: The model depends on several assumptions that remain untested on the counterargument table.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "any of": "\"any of\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1195",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The clause gives the agency ___ discretion than the earlier version did before the final adjudication.",
+      "options": [
+        "less",
+        "fewer",
+        "many",
+        "several"
+      ],
+      "answer": "less",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The clause gives the agency less discretion than the earlier version did before the final adjudication.",
+      "rationales": {
+        "less": "The amount word must fit the noun and meaning. The completed sentence is: The clause gives the agency less discretion than the earlier version did before the final adjudication.",
+        "fewer": "\"fewer\" does not fit this noun or amount.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1196",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The final report about the agenda offers little, if ___, evidence for that conclusion.",
+      "options": [
+        "any",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "any",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The final report about the agenda offers little, if any, evidence for that conclusion.",
+      "rationales": {
+        "any": "The amount word must fit the noun and meaning. The completed sentence is: The final report about the agenda offers little, if any, evidence for that conclusion.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount.",
+        "few": "\"few\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1197",
+      "level": "C2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "___ interpretation can be defended without additional evidence during expert testimony.",
+      "options": [
+        "Neither",
+        "Both",
+        "Several",
+        "Much"
+      ],
+      "answer": "Neither",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: Neither interpretation can be defended without additional evidence during expert testimony.",
+      "rationales": {
+        "Neither": "The amount word must fit the noun and meaning. The completed sentence is: Neither interpretation can be defended without additional evidence during expert testimony.",
+        "Both": "\"Both\" does not fit this noun or amount.",
+        "Several": "\"Several\" does not fit this noun or amount.",
+        "Much": "\"Much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1198",
+      "level": "C2",
+      "setupText": "The answer should fit the amount meaning.",
+      "taskText": "The dissent accepts ___ of the majority's factual assumptions in the compliance addendum.",
+      "options": [
+        "none",
+        "every",
+        "each",
+        "much"
+      ],
+      "answer": "none",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The dissent accepts none of the majority's factual assumptions in the compliance addendum.",
+      "rationales": {
+        "none": "The amount word must fit the noun and meaning. The completed sentence is: The dissent accepts none of the majority's factual assumptions in the compliance addendum.",
+        "every": "\"every\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "much": "\"much\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1199",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The model depends on ___ assumptions that remain untested after the longitudinal model is revised.",
+      "options": [
+        "several",
+        "much",
+        "each",
+        "any of"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The model depends on several assumptions that remain untested after the longitudinal model is revised.",
+      "rationales": {
+        "several": "The amount word must fit the noun and meaning. The completed sentence is: The model depends on several assumptions that remain untested after the longitudinal model is revised.",
+        "much": "\"much\" does not fit this noun or amount.",
+        "each": "\"each\" does not fit this noun or amount.",
+        "any of": "\"any of\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-determiners-and-quantifiers-c2-1200",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The clause gives the agency ___ discretion than the earlier version did before the ruling is issued.",
+      "options": [
+        "less",
+        "fewer",
+        "many",
+        "several"
+      ],
+      "answer": "less",
+      "explanation": "The amount word must fit the noun and meaning. The completed sentence is: The clause gives the agency less discretion than the earlier version did before the ruling is issued.",
+      "rationales": {
+        "less": "The amount word must fit the noun and meaning. The completed sentence is: The clause gives the agency less discretion than the earlier version did before the ruling is issued.",
+        "fewer": "\"fewer\" does not fit this noun or amount.",
+        "many": "\"many\" does not fit this noun or amount.",
+        "several": "\"several\" does not fit this noun or amount."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

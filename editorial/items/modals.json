@@ -1,0 +1,2766 @@
+{
+  "topic": "Modals",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-modals-a1-1921",
+      "level": "A1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "Students ___ bring a pencil to class.",
+      "options": [
+        "must",
+        "must to",
+        "musted",
+        "musting"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: Students must bring a pencil to class.",
+      "rationales": {
+        "must": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: Students must bring a pencil to class.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "musted": "\"musted\" does not express the needed modal meaning in this sentence.",
+        "musting": "\"musting\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1922",
+      "level": "A1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "Carlos ___ swim across the pool.",
+      "options": [
+        "can",
+        "can to",
+        "cans",
+        "is can"
+      ],
+      "answer": "can",
+      "explanation": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: Carlos can swim across the pool.",
+      "rationales": {
+        "can": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: Carlos can swim across the pool.",
+        "can to": "\"can to\" does not express the needed modal meaning in this sentence.",
+        "cans": "\"cans\" does not express the needed modal meaning in this sentence.",
+        "is can": "\"is can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1923",
+      "level": "A1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "It ___ rain later, so bring a coat.",
+      "options": [
+        "may",
+        "may to",
+        "mays",
+        "is may"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: It may rain later, so bring a coat.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: It may rain later, so bring a coat.",
+        "may to": "\"may to\" does not express the needed modal meaning in this sentence.",
+        "mays": "\"mays\" does not express the needed modal meaning in this sentence.",
+        "is may": "\"is may\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1924",
+      "level": "A1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The bus ___ arrive at noon.",
+      "options": [
+        "will",
+        "will to",
+        "wills",
+        "is will"
+      ],
+      "answer": "will",
+      "explanation": "\"will\" fits the meaning and grammar of the modal phrase. The completed sentence is: The bus will arrive at noon.",
+      "rationales": {
+        "will": "\"will\" fits the meaning and grammar of the modal phrase. The completed sentence is: The bus will arrive at noon.",
+        "will to": "\"will to\" does not express the needed modal meaning in this sentence.",
+        "wills": "\"wills\" does not express the needed modal meaning in this sentence.",
+        "is will": "\"is will\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1925",
+      "level": "A1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "Students ___ talk during the test.",
+      "options": [
+        "must not",
+        "must not to",
+        "musted not",
+        "do must not"
+      ],
+      "answer": "must not",
+      "explanation": "\"must not\" fits the meaning and grammar of the modal phrase. The completed sentence is: Students must not talk during the test.",
+      "rationales": {
+        "must not": "\"must not\" fits the meaning and grammar of the modal phrase. The completed sentence is: Students must not talk during the test.",
+        "must not to": "\"must not to\" does not express the needed modal meaning in this sentence.",
+        "musted not": "\"musted not\" does not express the needed modal meaning in this sentence.",
+        "do must not": "\"do must not\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1926",
+      "level": "A1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "You ___ wash your hands before lunch.",
+      "options": [
+        "must",
+        "must to",
+        "musting",
+        "are must"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: You must wash your hands before lunch.",
+      "rationales": {
+        "must": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: You must wash your hands before lunch.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "musting": "\"musting\" does not express the needed modal meaning in this sentence.",
+        "are must": "\"are must\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1927",
+      "level": "A1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "Mina ___ ride a bike now.",
+      "options": [
+        "can",
+        "can to",
+        "cans",
+        "is can"
+      ],
+      "answer": "can",
+      "explanation": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: Mina can ride a bike now.",
+      "rationales": {
+        "can": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: Mina can ride a bike now.",
+        "can to": "\"can to\" does not express the needed modal meaning in this sentence.",
+        "cans": "\"cans\" does not express the needed modal meaning in this sentence.",
+        "is can": "\"is can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1928",
+      "level": "A1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The shop ___ close early today.",
+      "options": [
+        "may",
+        "may to",
+        "mays",
+        "is may"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The shop may close early today.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The shop may close early today.",
+        "may to": "\"may to\" does not express the needed modal meaning in this sentence.",
+        "mays": "\"mays\" does not express the needed modal meaning in this sentence.",
+        "is may": "\"is may\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1929",
+      "level": "A1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "Dad ___ call after work.",
+      "options": [
+        "will",
+        "will to",
+        "wills",
+        "is will"
+      ],
+      "answer": "will",
+      "explanation": "\"will\" fits the meaning and grammar of the modal phrase. The completed sentence is: Dad will call after work.",
+      "rationales": {
+        "will": "\"will\" fits the meaning and grammar of the modal phrase. The completed sentence is: Dad will call after work.",
+        "will to": "\"will to\" does not express the needed modal meaning in this sentence.",
+        "wills": "\"wills\" does not express the needed modal meaning in this sentence.",
+        "is will": "\"is will\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1930",
+      "level": "A1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "Visitors ___ enter this room.",
+      "options": [
+        "must not",
+        "must not to",
+        "do must not",
+        "musted not"
+      ],
+      "answer": "must not",
+      "explanation": "\"must not\" fits the meaning and grammar of the modal phrase. The completed sentence is: Visitors must not enter this room.",
+      "rationales": {
+        "must not": "\"must not\" fits the meaning and grammar of the modal phrase. The completed sentence is: Visitors must not enter this room.",
+        "must not to": "\"must not to\" does not express the needed modal meaning in this sentence.",
+        "do must not": "\"do must not\" does not express the needed modal meaning in this sentence.",
+        "musted not": "\"musted not\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1931",
+      "level": "A1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "We ___ be quiet in the library.",
+      "options": [
+        "must",
+        "must to",
+        "musted",
+        "musting"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: We must be quiet in the library.",
+      "rationales": {
+        "must": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: We must be quiet in the library.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "musted": "\"musted\" does not express the needed modal meaning in this sentence.",
+        "musting": "\"musting\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1932",
+      "level": "A1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "Lena ___ read the small sign.",
+      "options": [
+        "can",
+        "can to",
+        "cans",
+        "is can"
+      ],
+      "answer": "can",
+      "explanation": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: Lena can read the small sign.",
+      "rationales": {
+        "can": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: Lena can read the small sign.",
+        "can to": "\"can to\" does not express the needed modal meaning in this sentence.",
+        "cans": "\"cans\" does not express the needed modal meaning in this sentence.",
+        "is can": "\"is can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1933",
+      "level": "A1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The cafe ___ open at eight.",
+      "options": [
+        "will",
+        "will to",
+        "wills",
+        "is will"
+      ],
+      "answer": "will",
+      "explanation": "\"will\" fits the meaning and grammar of the modal phrase. The completed sentence is: The cafe will open at eight.",
+      "rationales": {
+        "will": "\"will\" fits the meaning and grammar of the modal phrase. The completed sentence is: The cafe will open at eight.",
+        "will to": "\"will to\" does not express the needed modal meaning in this sentence.",
+        "wills": "\"wills\" does not express the needed modal meaning in this sentence.",
+        "is will": "\"is will\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1934",
+      "level": "A1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "It ___ be cold tonight.",
+      "options": [
+        "may",
+        "may to",
+        "mays",
+        "is may"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: It may be cold tonight.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: It may be cold tonight.",
+        "may to": "\"may to\" does not express the needed modal meaning in this sentence.",
+        "mays": "\"mays\" does not express the needed modal meaning in this sentence.",
+        "is may": "\"is may\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1935",
+      "level": "A1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "Children ___ run near the street.",
+      "options": [
+        "must not",
+        "must not to",
+        "do must not",
+        "musted not"
+      ],
+      "answer": "must not",
+      "explanation": "\"must not\" fits the meaning and grammar of the modal phrase. The completed sentence is: Children must not run near the street.",
+      "rationales": {
+        "must not": "\"must not\" fits the meaning and grammar of the modal phrase. The completed sentence is: Children must not run near the street.",
+        "must not to": "\"must not to\" does not express the needed modal meaning in this sentence.",
+        "do must not": "\"do must not\" does not express the needed modal meaning in this sentence.",
+        "musted not": "\"musted not\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1936",
+      "level": "A1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "You ___ show your ticket here.",
+      "options": [
+        "must",
+        "must to",
+        "musted",
+        "musting"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: You must show your ticket here.",
+      "rationales": {
+        "must": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: You must show your ticket here.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "musted": "\"musted\" does not express the needed modal meaning in this sentence.",
+        "musting": "\"musting\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1937",
+      "level": "A1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "Omar ___ speak a little Spanish.",
+      "options": [
+        "can",
+        "can to",
+        "cans",
+        "is can"
+      ],
+      "answer": "can",
+      "explanation": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: Omar can speak a little Spanish.",
+      "rationales": {
+        "can": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: Omar can speak a little Spanish.",
+        "can to": "\"can to\" does not express the needed modal meaning in this sentence.",
+        "cans": "\"cans\" does not express the needed modal meaning in this sentence.",
+        "is can": "\"is can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1938",
+      "level": "A1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The lesson ___ start soon.",
+      "options": [
+        "will",
+        "will to",
+        "wills",
+        "is will"
+      ],
+      "answer": "will",
+      "explanation": "\"will\" fits the meaning and grammar of the modal phrase. The completed sentence is: The lesson will start soon.",
+      "rationales": {
+        "will": "\"will\" fits the meaning and grammar of the modal phrase. The completed sentence is: The lesson will start soon.",
+        "will to": "\"will to\" does not express the needed modal meaning in this sentence.",
+        "wills": "\"wills\" does not express the needed modal meaning in this sentence.",
+        "is will": "\"is will\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1939",
+      "level": "A1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The phone ___ be in my bag.",
+      "options": [
+        "may",
+        "may to",
+        "mays",
+        "is may"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The phone may be in my bag.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The phone may be in my bag.",
+        "may to": "\"may to\" does not express the needed modal meaning in this sentence.",
+        "mays": "\"mays\" does not express the needed modal meaning in this sentence.",
+        "is may": "\"is may\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a1-1940",
+      "level": "A1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "We ___ use phones during the movie.",
+      "options": [
+        "must not",
+        "must not to",
+        "do must not",
+        "musted not"
+      ],
+      "answer": "must not",
+      "explanation": "\"must not\" fits the meaning and grammar of the modal phrase. The completed sentence is: We must not use phones during the movie.",
+      "rationales": {
+        "must not": "\"must not\" fits the meaning and grammar of the modal phrase. The completed sentence is: We must not use phones during the movie.",
+        "must not to": "\"must not to\" does not express the needed modal meaning in this sentence.",
+        "do must not": "\"do must not\" does not express the needed modal meaning in this sentence.",
+        "musted not": "\"musted not\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1941",
+      "level": "A2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "For better results, Mina ___ check her answer again.",
+      "options": [
+        "should",
+        "must",
+        "might",
+        "can"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: For better results, Mina should check her answer again.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: For better results, Mina should check her answer again.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1942",
+      "level": "A2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The notice says visitors ___ show ID at the entrance.",
+      "options": [
+        "must",
+        "might",
+        "would",
+        "used to"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: The notice says visitors must show ID at the entrance.",
+      "rationales": {
+        "must": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: The notice says visitors must show ID at the entrance.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1943",
+      "level": "A2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "Aiko ___ be late; the train was delayed.",
+      "options": [
+        "might",
+        "should",
+        "must",
+        "can"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: Aiko might be late; the train was delayed.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: Aiko might be late; the train was delayed.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1944",
+      "level": "A2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "You ___ borrow a dictionary during the lesson.",
+      "options": [
+        "can",
+        "should",
+        "might",
+        "would"
+      ],
+      "answer": "can",
+      "explanation": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: You can borrow a dictionary during the lesson.",
+      "rationales": {
+        "can": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: You can borrow a dictionary during the lesson.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1945",
+      "level": "A2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The office ___ close early tomorrow because of the storm.",
+      "options": [
+        "may",
+        "must",
+        "should",
+        "can"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The office may close early tomorrow because of the storm.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The office may close early tomorrow because of the storm.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1946",
+      "level": "A2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "Jonas has a fever, so he ___ stay home today.",
+      "options": [
+        "should",
+        "can",
+        "would",
+        "used to"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: Jonas has a fever, so he should stay home today.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: Jonas has a fever, so he should stay home today.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1947",
+      "level": "A2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "All passengers ___ wear a seat belt.",
+      "options": [
+        "must",
+        "might",
+        "would",
+        "can"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: All passengers must wear a seat belt.",
+      "rationales": {
+        "must": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: All passengers must wear a seat belt.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1948",
+      "level": "A2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "Sofia is not sure, but she ___ need another form.",
+      "options": [
+        "might",
+        "must",
+        "can",
+        "should"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: Sofia is not sure, but she might need another form.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: Sofia is not sure, but she might need another form.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1949",
+      "level": "A2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "Students ___ use the computers after class.",
+      "options": [
+        "can",
+        "must",
+        "might",
+        "would"
+      ],
+      "answer": "can",
+      "explanation": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: Students can use the computers after class.",
+      "rationales": {
+        "can": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: Students can use the computers after class.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1950",
+      "level": "A2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The evening class ___ move online if the snow gets worse.",
+      "options": [
+        "may",
+        "must",
+        "should",
+        "can"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The evening class may move online if the snow gets worse.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The evening class may move online if the snow gets worse.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1951",
+      "level": "A2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "You ___ ask before taking photos in the museum.",
+      "options": [
+        "should",
+        "might",
+        "would",
+        "used to"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: You should ask before taking photos in the museum.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: You should ask before taking photos in the museum.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1952",
+      "level": "A2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "Staff ___ wash their hands before preparing food.",
+      "options": [
+        "must",
+        "might",
+        "would",
+        "can"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: Staff must wash their hands before preparing food.",
+      "rationales": {
+        "must": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: Staff must wash their hands before preparing food.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1953",
+      "level": "A2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The package ___ arrive today, but I am not certain.",
+      "options": [
+        "might",
+        "must",
+        "should",
+        "can"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The package might arrive today, but I am not certain.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The package might arrive today, but I am not certain.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1954",
+      "level": "A2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "Visitors ___ park behind the clinic on weekends.",
+      "options": [
+        "can",
+        "must",
+        "might",
+        "would"
+      ],
+      "answer": "can",
+      "explanation": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: Visitors can park behind the clinic on weekends.",
+      "rationales": {
+        "can": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: Visitors can park behind the clinic on weekends.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1955",
+      "level": "A2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The teacher ___ give us a short quiz tomorrow.",
+      "options": [
+        "may",
+        "must",
+        "should",
+        "can"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The teacher may give us a short quiz tomorrow.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The teacher may give us a short quiz tomorrow.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1956",
+      "level": "A2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "You ___ keep a copy of the receipt.",
+      "options": [
+        "should",
+        "might",
+        "would",
+        "used to"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: You should keep a copy of the receipt.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: You should keep a copy of the receipt.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1957",
+      "level": "A2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "Every applicant ___ sign the last page.",
+      "options": [
+        "must",
+        "might",
+        "would",
+        "can"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: Every applicant must sign the last page.",
+      "rationales": {
+        "must": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: Every applicant must sign the last page.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1958",
+      "level": "A2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The lights are off, so the office ___ be closed.",
+      "options": [
+        "might",
+        "should",
+        "can",
+        "would"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The lights are off, so the office might be closed.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The lights are off, so the office might be closed.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1959",
+      "level": "A2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "We ___ sit here until the next class starts.",
+      "options": [
+        "can",
+        "must",
+        "might",
+        "would"
+      ],
+      "answer": "can",
+      "explanation": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: We can sit here until the next class starts.",
+      "rationales": {
+        "can": "\"can\" fits the meaning and grammar of the modal phrase. The completed sentence is: We can sit here until the next class starts.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-a2-1960",
+      "level": "A2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The clinic ___ call you this afternoon if a time opens.",
+      "options": [
+        "may",
+        "must",
+        "should",
+        "can"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The clinic may call you this afternoon if a time opens.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The clinic may call you this afternoon if a time opens.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1961",
+      "level": "B1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "the students ___ wear badges inside the building.",
+      "options": [
+        "have to",
+        "have",
+        "must to",
+        "are must"
+      ],
+      "answer": "have to",
+      "explanation": "\"have to\" fits the meaning and grammar of the modal phrase. The completed sentence is: the students have to wear badges inside the building.",
+      "rationales": {
+        "have to": "\"have to\" fits the meaning and grammar of the modal phrase. The completed sentence is: the students have to wear badges inside the building.",
+        "have": "\"have\" does not express the needed modal meaning in this sentence.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "are must": "\"are must\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1962",
+      "level": "B1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "Before the online form, applicants ___ mail every document during the staff meeting.",
+      "options": [
+        "used to",
+        "use to",
+        "were use to",
+        "are used"
+      ],
+      "answer": "used to",
+      "explanation": "\"used to\" fits the meaning and grammar of the modal phrase. The completed sentence is: Before the online form, applicants used to mail every document during the staff meeting.",
+      "rationales": {
+        "used to": "\"used to\" fits the meaning and grammar of the modal phrase. The completed sentence is: Before the online form, applicants used to mail every document during the staff meeting.",
+        "use to": "\"use to\" does not express the needed modal meaning in this sentence.",
+        "were use to": "\"were use to\" does not express the needed modal meaning in this sentence.",
+        "are used": "\"are used\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1963",
+      "level": "B1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "Aiko ___ call the office before changing the appointment.",
+      "options": [
+        "had better",
+        "had better to",
+        "had to better",
+        "better had"
+      ],
+      "answer": "had better",
+      "explanation": "\"had better\" fits the meaning and grammar of the modal phrase. The completed sentence is: Aiko had better call the office before changing the appointment.",
+      "rationales": {
+        "had better": "\"had better\" fits the meaning and grammar of the modal phrase. The completed sentence is: Aiko had better call the office before changing the appointment.",
+        "had better to": "\"had better to\" does not express the needed modal meaning in this sentence.",
+        "had to better": "\"had to better\" does not express the needed modal meaning in this sentence.",
+        "better had": "\"better had\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1964",
+      "level": "B1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The new clerk ___ answer most questions without help in the course update.",
+      "options": [
+        "is able to",
+        "is able",
+        "can to",
+        "able to"
+      ],
+      "answer": "is able to",
+      "explanation": "\"is able to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The new clerk is able to answer most questions without help in the course update.",
+      "rationales": {
+        "is able to": "\"is able to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The new clerk is able to answer most questions without help in the course update.",
+        "is able": "\"is able\" does not express the needed modal meaning in this sentence.",
+        "can to": "\"can to\" does not express the needed modal meaning in this sentence.",
+        "able to": "\"able to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1965",
+      "level": "B1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The travel form ___ be signed before it is accepted.",
+      "options": [
+        "has to",
+        "has",
+        "must to",
+        "is have to"
+      ],
+      "answer": "has to",
+      "explanation": "\"has to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The travel form has to be signed before it is accepted.",
+      "rationales": {
+        "has to": "\"has to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The travel form has to be signed before it is accepted.",
+        "has": "\"has\" does not express the needed modal meaning in this sentence.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "is have to": "\"is have to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1966",
+      "level": "B1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "the volunteers ___ wear badges inside the building.",
+      "options": [
+        "have to",
+        "have",
+        "must to",
+        "are must"
+      ],
+      "answer": "have to",
+      "explanation": "\"have to\" fits the meaning and grammar of the modal phrase. The completed sentence is: the volunteers have to wear badges inside the building.",
+      "rationales": {
+        "have to": "\"have to\" fits the meaning and grammar of the modal phrase. The completed sentence is: the volunteers have to wear badges inside the building.",
+        "have": "\"have\" does not express the needed modal meaning in this sentence.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "are must": "\"are must\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1967",
+      "level": "B1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "Before the online form, applicants ___ mail every document for the department update.",
+      "options": [
+        "used to",
+        "use to",
+        "were use to",
+        "are used"
+      ],
+      "answer": "used to",
+      "explanation": "\"used to\" fits the meaning and grammar of the modal phrase. The completed sentence is: Before the online form, applicants used to mail every document for the department update.",
+      "rationales": {
+        "used to": "\"used to\" fits the meaning and grammar of the modal phrase. The completed sentence is: Before the online form, applicants used to mail every document for the department update.",
+        "use to": "\"use to\" does not express the needed modal meaning in this sentence.",
+        "were use to": "\"were use to\" does not express the needed modal meaning in this sentence.",
+        "are used": "\"are used\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1968",
+      "level": "B1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "Daniel ___ call the office before changing the appointment.",
+      "options": [
+        "had better",
+        "had better to",
+        "had to better",
+        "better had"
+      ],
+      "answer": "had better",
+      "explanation": "\"had better\" fits the meaning and grammar of the modal phrase. The completed sentence is: Daniel had better call the office before changing the appointment.",
+      "rationales": {
+        "had better": "\"had better\" fits the meaning and grammar of the modal phrase. The completed sentence is: Daniel had better call the office before changing the appointment.",
+        "had better to": "\"had better to\" does not express the needed modal meaning in this sentence.",
+        "had to better": "\"had to better\" does not express the needed modal meaning in this sentence.",
+        "better had": "\"better had\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1969",
+      "level": "B1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The new clerk ___ answer most questions without help in the weekly summary.",
+      "options": [
+        "is able to",
+        "is able",
+        "can to",
+        "able to"
+      ],
+      "answer": "is able to",
+      "explanation": "\"is able to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The new clerk is able to answer most questions without help in the weekly summary.",
+      "rationales": {
+        "is able to": "\"is able to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The new clerk is able to answer most questions without help in the weekly summary.",
+        "is able": "\"is able\" does not express the needed modal meaning in this sentence.",
+        "can to": "\"can to\" does not express the needed modal meaning in this sentence.",
+        "able to": "\"able to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1970",
+      "level": "B1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The renewal form ___ be signed before it is accepted.",
+      "options": [
+        "has to",
+        "has",
+        "must to",
+        "is have to"
+      ],
+      "answer": "has to",
+      "explanation": "\"has to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The renewal form has to be signed before it is accepted.",
+      "rationales": {
+        "has to": "\"has to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The renewal form has to be signed before it is accepted.",
+        "has": "\"has\" does not express the needed modal meaning in this sentence.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "is have to": "\"is have to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1971",
+      "level": "B1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "the workers ___ wear badges inside the building.",
+      "options": [
+        "have to",
+        "have",
+        "must to",
+        "are must"
+      ],
+      "answer": "have to",
+      "explanation": "\"have to\" fits the meaning and grammar of the modal phrase. The completed sentence is: the workers have to wear badges inside the building.",
+      "rationales": {
+        "have to": "\"have to\" fits the meaning and grammar of the modal phrase. The completed sentence is: the workers have to wear badges inside the building.",
+        "have": "\"have\" does not express the needed modal meaning in this sentence.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "are must": "\"are must\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1972",
+      "level": "B1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "Before the online form, applicants ___ mail every document in the supervisor's email.",
+      "options": [
+        "used to",
+        "use to",
+        "were use to",
+        "are used"
+      ],
+      "answer": "used to",
+      "explanation": "\"used to\" fits the meaning and grammar of the modal phrase. The completed sentence is: Before the online form, applicants used to mail every document in the supervisor's email.",
+      "rationales": {
+        "used to": "\"used to\" fits the meaning and grammar of the modal phrase. The completed sentence is: Before the online form, applicants used to mail every document in the supervisor's email.",
+        "use to": "\"use to\" does not express the needed modal meaning in this sentence.",
+        "were use to": "\"were use to\" does not express the needed modal meaning in this sentence.",
+        "are used": "\"are used\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1973",
+      "level": "B1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "Priya ___ call the office before changing the appointment.",
+      "options": [
+        "had better",
+        "had better to",
+        "had to better",
+        "better had"
+      ],
+      "answer": "had better",
+      "explanation": "\"had better\" fits the meaning and grammar of the modal phrase. The completed sentence is: Priya had better call the office before changing the appointment.",
+      "rationales": {
+        "had better": "\"had better\" fits the meaning and grammar of the modal phrase. The completed sentence is: Priya had better call the office before changing the appointment.",
+        "had better to": "\"had better to\" does not express the needed modal meaning in this sentence.",
+        "had to better": "\"had to better\" does not express the needed modal meaning in this sentence.",
+        "better had": "\"better had\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1974",
+      "level": "B1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The new clerk ___ answer most questions without help in the student handbook.",
+      "options": [
+        "is able to",
+        "is able",
+        "can to",
+        "able to"
+      ],
+      "answer": "is able to",
+      "explanation": "\"is able to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The new clerk is able to answer most questions without help in the student handbook.",
+      "rationales": {
+        "is able to": "\"is able to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The new clerk is able to answer most questions without help in the student handbook.",
+        "is able": "\"is able\" does not express the needed modal meaning in this sentence.",
+        "can to": "\"can to\" does not express the needed modal meaning in this sentence.",
+        "able to": "\"able to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1975",
+      "level": "B1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The safety form ___ be signed before it is accepted.",
+      "options": [
+        "has to",
+        "has",
+        "must to",
+        "is have to"
+      ],
+      "answer": "has to",
+      "explanation": "\"has to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The safety form has to be signed before it is accepted.",
+      "rationales": {
+        "has to": "\"has to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The safety form has to be signed before it is accepted.",
+        "has": "\"has\" does not express the needed modal meaning in this sentence.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "is have to": "\"is have to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1976",
+      "level": "B1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "the readers ___ wear badges inside the building.",
+      "options": [
+        "have to",
+        "have",
+        "must to",
+        "are must"
+      ],
+      "answer": "have to",
+      "explanation": "\"have to\" fits the meaning and grammar of the modal phrase. The completed sentence is: the readers have to wear badges inside the building.",
+      "rationales": {
+        "have to": "\"have to\" fits the meaning and grammar of the modal phrase. The completed sentence is: the readers have to wear badges inside the building.",
+        "have": "\"have\" does not express the needed modal meaning in this sentence.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "are must": "\"are must\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1977",
+      "level": "B1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "Before the online form, applicants ___ mail every document for the training session.",
+      "options": [
+        "used to",
+        "use to",
+        "were use to",
+        "are used"
+      ],
+      "answer": "used to",
+      "explanation": "\"used to\" fits the meaning and grammar of the modal phrase. The completed sentence is: Before the online form, applicants used to mail every document for the training session.",
+      "rationales": {
+        "used to": "\"used to\" fits the meaning and grammar of the modal phrase. The completed sentence is: Before the online form, applicants used to mail every document for the training session.",
+        "use to": "\"use to\" does not express the needed modal meaning in this sentence.",
+        "were use to": "\"were use to\" does not express the needed modal meaning in this sentence.",
+        "are used": "\"are used\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1978",
+      "level": "B1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "Noah ___ call the office before changing the appointment.",
+      "options": [
+        "had better",
+        "had better to",
+        "had to better",
+        "better had"
+      ],
+      "answer": "had better",
+      "explanation": "\"had better\" fits the meaning and grammar of the modal phrase. The completed sentence is: Noah had better call the office before changing the appointment.",
+      "rationales": {
+        "had better": "\"had better\" fits the meaning and grammar of the modal phrase. The completed sentence is: Noah had better call the office before changing the appointment.",
+        "had better to": "\"had better to\" does not express the needed modal meaning in this sentence.",
+        "had to better": "\"had to better\" does not express the needed modal meaning in this sentence.",
+        "better had": "\"better had\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1979",
+      "level": "B1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The new clerk ___ answer most questions without help in the project checklist.",
+      "options": [
+        "is able to",
+        "is able",
+        "can to",
+        "able to"
+      ],
+      "answer": "is able to",
+      "explanation": "\"is able to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The new clerk is able to answer most questions without help in the project checklist.",
+      "rationales": {
+        "is able to": "\"is able to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The new clerk is able to answer most questions without help in the project checklist.",
+        "is able": "\"is able\" does not express the needed modal meaning in this sentence.",
+        "can to": "\"can to\" does not express the needed modal meaning in this sentence.",
+        "able to": "\"able to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b1-1980",
+      "level": "B1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The appeal form ___ be signed before it is accepted.",
+      "options": [
+        "has to",
+        "has",
+        "must to",
+        "is have to"
+      ],
+      "answer": "has to",
+      "explanation": "\"has to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The appeal form has to be signed before it is accepted.",
+      "rationales": {
+        "has to": "\"has to\" fits the meaning and grammar of the modal phrase. The completed sentence is: The appeal form has to be signed before it is accepted.",
+        "has": "\"has\" does not express the needed modal meaning in this sentence.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "is have to": "\"is have to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1981",
+      "level": "B2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "I am not sure, but Mina ___ have left the file at home; it is not in the bag.",
+      "options": [
+        "may",
+        "must",
+        "should",
+        "would"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: I am not sure, but Mina may have left the file at home; it is not in the bag.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: I am not sure, but Mina may have left the file at home; it is not in the bag.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1982",
+      "level": "B2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The lights are off, so the school office ___ have closed early.",
+      "options": [
+        "must",
+        "should",
+        "would",
+        "can"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: The lights are off, so the school office must have closed early.",
+      "rationales": {
+        "must": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: The lights are off, so the school office must have closed early.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1983",
+      "level": "B2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The answer is unclear; the student ___ have misunderstood the instructions before the budget meeting.",
+      "options": [
+        "might",
+        "must",
+        "should",
+        "will"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The answer is unclear; the student might have misunderstood the instructions before the budget meeting.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The answer is unclear; the student might have misunderstood the instructions before the budget meeting.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1984",
+      "level": "B2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The policy is optional, so staff ___ wear the badge outside the lab in the manager's briefing.",
+      "options": [
+        "need not",
+        "must not",
+        "should not",
+        "would not"
+      ],
+      "answer": "need not",
+      "explanation": "\"need not\" fits the meaning and grammar of the modal phrase. The completed sentence is: The policy is optional, so staff need not wear the badge outside the lab in the manager's briefing.",
+      "rationales": {
+        "need not": "\"need not\" fits the meaning and grammar of the modal phrase. The completed sentence is: The policy is optional, so staff need not wear the badge outside the lab in the manager's briefing.",
+        "must not": "\"must not\" does not express the needed modal meaning in this sentence.",
+        "should not": "\"should not\" does not express the needed modal meaning in this sentence.",
+        "would not": "\"would not\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1985",
+      "level": "B2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The file arrived late, but the team ___ still finish the budget review today.",
+      "options": [
+        "could",
+        "must",
+        "used to",
+        "should have"
+      ],
+      "answer": "could",
+      "explanation": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The file arrived late, but the team could still finish the budget review today.",
+      "rationales": {
+        "could": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The file arrived late, but the team could still finish the budget review today.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence.",
+        "should have": "\"should have\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1986",
+      "level": "B2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "I am not sure, but Lena ___ have left the file at home; it is not in the bag.",
+      "options": [
+        "may",
+        "must",
+        "should",
+        "would"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: I am not sure, but Lena may have left the file at home; it is not in the bag.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: I am not sure, but Lena may have left the file at home; it is not in the bag.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1987",
+      "level": "B2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The lights are off, so the records office ___ have closed early.",
+      "options": [
+        "must",
+        "should",
+        "would",
+        "can"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: The lights are off, so the records office must have closed early.",
+      "rationales": {
+        "must": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: The lights are off, so the records office must have closed early.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1988",
+      "level": "B2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The answer is unclear; the student ___ have misunderstood the instructions before the contract is signed.",
+      "options": [
+        "might",
+        "must",
+        "should",
+        "will"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The answer is unclear; the student might have misunderstood the instructions before the contract is signed.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The answer is unclear; the student might have misunderstood the instructions before the contract is signed.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1989",
+      "level": "B2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The policy is optional, so staff ___ wear the badge outside the lab in the customer update.",
+      "options": [
+        "need not",
+        "must not",
+        "should not",
+        "would not"
+      ],
+      "answer": "need not",
+      "explanation": "\"need not\" fits the meaning and grammar of the modal phrase. The completed sentence is: The policy is optional, so staff need not wear the badge outside the lab in the customer update.",
+      "rationales": {
+        "need not": "\"need not\" fits the meaning and grammar of the modal phrase. The completed sentence is: The policy is optional, so staff need not wear the badge outside the lab in the customer update.",
+        "must not": "\"must not\" does not express the needed modal meaning in this sentence.",
+        "should not": "\"should not\" does not express the needed modal meaning in this sentence.",
+        "would not": "\"would not\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1990",
+      "level": "B2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The file arrived late, but the team ___ still finish the external review today.",
+      "options": [
+        "could",
+        "must",
+        "used to",
+        "should have"
+      ],
+      "answer": "could",
+      "explanation": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The file arrived late, but the team could still finish the external review today.",
+      "rationales": {
+        "could": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The file arrived late, but the team could still finish the external review today.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence.",
+        "should have": "\"should have\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1991",
+      "level": "B2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "I am not sure, but Hana ___ have left the file at home; it is not in the bag.",
+      "options": [
+        "may",
+        "must",
+        "should",
+        "would"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: I am not sure, but Hana may have left the file at home; it is not in the bag.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: I am not sure, but Hana may have left the file at home; it is not in the bag.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1992",
+      "level": "B2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The lights are off, so the registrar's office ___ have closed early.",
+      "options": [
+        "must",
+        "should",
+        "would",
+        "can"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: The lights are off, so the registrar's office must have closed early.",
+      "rationales": {
+        "must": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: The lights are off, so the registrar's office must have closed early.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1993",
+      "level": "B2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The answer is unclear; the student ___ have misunderstood the instructions before the board discussion.",
+      "options": [
+        "might",
+        "must",
+        "should",
+        "will"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The answer is unclear; the student might have misunderstood the instructions before the board discussion.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The answer is unclear; the student might have misunderstood the instructions before the board discussion.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1994",
+      "level": "B2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The policy is optional, so staff ___ wear the badge outside the lab under the revised procedure.",
+      "options": [
+        "need not",
+        "must not",
+        "should not",
+        "would not"
+      ],
+      "answer": "need not",
+      "explanation": "\"need not\" fits the meaning and grammar of the modal phrase. The completed sentence is: The policy is optional, so staff need not wear the badge outside the lab under the revised procedure.",
+      "rationales": {
+        "need not": "\"need not\" fits the meaning and grammar of the modal phrase. The completed sentence is: The policy is optional, so staff need not wear the badge outside the lab under the revised procedure.",
+        "must not": "\"must not\" does not express the needed modal meaning in this sentence.",
+        "should not": "\"should not\" does not express the needed modal meaning in this sentence.",
+        "would not": "\"would not\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1995",
+      "level": "B2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The file arrived late, but the team ___ still finish the compliance review today.",
+      "options": [
+        "could",
+        "must",
+        "used to",
+        "should have"
+      ],
+      "answer": "could",
+      "explanation": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The file arrived late, but the team could still finish the compliance review today.",
+      "rationales": {
+        "could": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The file arrived late, but the team could still finish the compliance review today.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence.",
+        "should have": "\"should have\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1996",
+      "level": "B2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "I am not sure, but Luis ___ have left the file at home; it is not in the bag.",
+      "options": [
+        "may",
+        "must",
+        "should",
+        "would"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: I am not sure, but Luis may have left the file at home; it is not in the bag.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: I am not sure, but Luis may have left the file at home; it is not in the bag.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1997",
+      "level": "B2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The lights are off, so the training office ___ have closed early.",
+      "options": [
+        "must",
+        "should",
+        "would",
+        "can"
+      ],
+      "answer": "must",
+      "explanation": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: The lights are off, so the training office must have closed early.",
+      "rationales": {
+        "must": "\"must\" fits the meaning and grammar of the modal phrase. The completed sentence is: The lights are off, so the training office must have closed early.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1998",
+      "level": "B2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The answer is unclear; the student ___ have misunderstood the instructions before the compliance check.",
+      "options": [
+        "might",
+        "must",
+        "should",
+        "will"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The answer is unclear; the student might have misunderstood the instructions before the compliance check.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The answer is unclear; the student might have misunderstood the instructions before the compliance check.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-1999",
+      "level": "B2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The policy is optional, so staff ___ wear the badge outside the lab in the evaluation memo.",
+      "options": [
+        "need not",
+        "must not",
+        "should not",
+        "would not"
+      ],
+      "answer": "need not",
+      "explanation": "\"need not\" fits the meaning and grammar of the modal phrase. The completed sentence is: The policy is optional, so staff need not wear the badge outside the lab in the evaluation memo.",
+      "rationales": {
+        "need not": "\"need not\" fits the meaning and grammar of the modal phrase. The completed sentence is: The policy is optional, so staff need not wear the badge outside the lab in the evaluation memo.",
+        "must not": "\"must not\" does not express the needed modal meaning in this sentence.",
+        "should not": "\"should not\" does not express the needed modal meaning in this sentence.",
+        "would not": "\"would not\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-b2-2000",
+      "level": "B2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The file arrived late, but the team ___ still finish the technical review today.",
+      "options": [
+        "could",
+        "must",
+        "used to",
+        "should have"
+      ],
+      "answer": "could",
+      "explanation": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The file arrived late, but the team could still finish the technical review today.",
+      "rationales": {
+        "could": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The file arrived late, but the team could still finish the technical review today.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence.",
+        "should have": "\"should have\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2001",
+      "level": "C1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "Mina ___ rather finish the report before lunch than rush through it later.",
+      "options": [
+        "would",
+        "will",
+        "should",
+        "must"
+      ],
+      "answer": "would",
+      "explanation": "\"would\" fits the meaning and grammar of the modal phrase. The completed sentence is: Mina would rather finish the report before lunch than rush through it later.",
+      "rationales": {
+        "would": "\"would\" fits the meaning and grammar of the modal phrase. The completed sentence is: Mina would rather finish the report before lunch than rush through it later.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2002",
+      "level": "C1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The planning committee ___ well reject the proposal if the evidence remains weak.",
+      "options": [
+        "may",
+        "must",
+        "should",
+        "would"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The planning committee may well reject the proposal if the evidence remains weak.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The planning committee may well reject the proposal if the evidence remains weak.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2003",
+      "level": "C1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The applicant ___ have to submit a second form if the address changes during the stakeholder meeting.",
+      "options": [
+        "might",
+        "must",
+        "will",
+        "would rather"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The applicant might have to submit a second form if the address changes during the stakeholder meeting.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The applicant might have to submit a second form if the address changes during the stakeholder meeting.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "would rather": "\"would rather\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2004",
+      "level": "C1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The survey report ___ not be circulated until the names are removed.",
+      "options": [
+        "should",
+        "would rather",
+        "used to",
+        "is able to"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The survey report should not be circulated until the names are removed.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The survey report should not be circulated until the names are removed.",
+        "would rather": "\"would rather\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence.",
+        "is able to": "\"is able to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2005",
+      "level": "C1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The reviewer ___ have overlooked the data appendix, given the comment on page two.",
+      "options": [
+        "could",
+        "must",
+        "will",
+        "has to"
+      ],
+      "answer": "could",
+      "explanation": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The reviewer could have overlooked the data appendix, given the comment on page two.",
+      "rationales": {
+        "could": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The reviewer could have overlooked the data appendix, given the comment on page two.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "has to": "\"has to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2006",
+      "level": "C1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "Lena ___ rather finish the chart before lunch than rush through it later.",
+      "options": [
+        "would",
+        "will",
+        "should",
+        "must"
+      ],
+      "answer": "would",
+      "explanation": "\"would\" fits the meaning and grammar of the modal phrase. The completed sentence is: Lena would rather finish the chart before lunch than rush through it later.",
+      "rationales": {
+        "would": "\"would\" fits the meaning and grammar of the modal phrase. The completed sentence is: Lena would rather finish the chart before lunch than rush through it later.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2007",
+      "level": "C1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The scholarship committee ___ well reject the proposal if the evidence remains weak.",
+      "options": [
+        "may",
+        "must",
+        "should",
+        "would"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The scholarship committee may well reject the proposal if the evidence remains weak.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The scholarship committee may well reject the proposal if the evidence remains weak.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2008",
+      "level": "C1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The applicant ___ have to submit a second form if the address changes after the pilot program.",
+      "options": [
+        "might",
+        "must",
+        "will",
+        "would rather"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The applicant might have to submit a second form if the address changes after the pilot program.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The applicant might have to submit a second form if the address changes after the pilot program.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "would rather": "\"would rather\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2009",
+      "level": "C1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The incident report ___ not be circulated until the names are removed.",
+      "options": [
+        "should",
+        "would rather",
+        "used to",
+        "is able to"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The incident report should not be circulated until the names are removed.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The incident report should not be circulated until the names are removed.",
+        "would rather": "\"would rather\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence.",
+        "is able to": "\"is able to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2010",
+      "level": "C1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The reviewer ___ have overlooked the published appendix, given the comment on page two.",
+      "options": [
+        "could",
+        "must",
+        "will",
+        "has to"
+      ],
+      "answer": "could",
+      "explanation": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The reviewer could have overlooked the published appendix, given the comment on page two.",
+      "rationales": {
+        "could": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The reviewer could have overlooked the published appendix, given the comment on page two.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "has to": "\"has to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2011",
+      "level": "C1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "Hana ___ rather finish the lesson plan before lunch than rush through it later.",
+      "options": [
+        "would",
+        "will",
+        "should",
+        "must"
+      ],
+      "answer": "would",
+      "explanation": "\"would\" fits the meaning and grammar of the modal phrase. The completed sentence is: Hana would rather finish the lesson plan before lunch than rush through it later.",
+      "rationales": {
+        "would": "\"would\" fits the meaning and grammar of the modal phrase. The completed sentence is: Hana would rather finish the lesson plan before lunch than rush through it later.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2012",
+      "level": "C1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The policy committee ___ well reject the proposal if the evidence remains weak.",
+      "options": [
+        "may",
+        "must",
+        "should",
+        "would"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The policy committee may well reject the proposal if the evidence remains weak.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The policy committee may well reject the proposal if the evidence remains weak.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2013",
+      "level": "C1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The applicant ___ have to submit a second form if the address changes after the interviews are coded.",
+      "options": [
+        "might",
+        "must",
+        "will",
+        "would rather"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The applicant might have to submit a second form if the address changes after the interviews are coded.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The applicant might have to submit a second form if the address changes after the interviews are coded.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "would rather": "\"would rather\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2014",
+      "level": "C1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The field report ___ not be circulated until the names are removed.",
+      "options": [
+        "should",
+        "would rather",
+        "used to",
+        "is able to"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The field report should not be circulated until the names are removed.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The field report should not be circulated until the names are removed.",
+        "would rather": "\"would rather\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence.",
+        "is able to": "\"is able to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2015",
+      "level": "C1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The reviewer ___ have overlooked the compliance appendix, given the comment on page two.",
+      "options": [
+        "could",
+        "must",
+        "will",
+        "has to"
+      ],
+      "answer": "could",
+      "explanation": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The reviewer could have overlooked the compliance appendix, given the comment on page two.",
+      "rationales": {
+        "could": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The reviewer could have overlooked the compliance appendix, given the comment on page two.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "has to": "\"has to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2016",
+      "level": "C1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "Luis ___ rather finish the agenda before lunch than rush through it later.",
+      "options": [
+        "would",
+        "will",
+        "should",
+        "must"
+      ],
+      "answer": "would",
+      "explanation": "\"would\" fits the meaning and grammar of the modal phrase. The completed sentence is: Luis would rather finish the agenda before lunch than rush through it later.",
+      "rationales": {
+        "would": "\"would\" fits the meaning and grammar of the modal phrase. The completed sentence is: Luis would rather finish the agenda before lunch than rush through it later.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2017",
+      "level": "C1",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The examination committee ___ well reject the proposal if the evidence remains weak.",
+      "options": [
+        "may",
+        "must",
+        "should",
+        "would"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The examination committee may well reject the proposal if the evidence remains weak.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The examination committee may well reject the proposal if the evidence remains weak.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "should": "\"should\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2018",
+      "level": "C1",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The applicant ___ have to submit a second form if the address changes on the evidence table.",
+      "options": [
+        "might",
+        "must",
+        "will",
+        "would rather"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The applicant might have to submit a second form if the address changes on the evidence table.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The applicant might have to submit a second form if the address changes on the evidence table.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "would rather": "\"would rather\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2019",
+      "level": "C1",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The statistical report ___ not be circulated until the names are removed.",
+      "options": [
+        "should",
+        "would rather",
+        "used to",
+        "is able to"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The statistical report should not be circulated until the names are removed.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The statistical report should not be circulated until the names are removed.",
+        "would rather": "\"would rather\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence.",
+        "is able to": "\"is able to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c1-2020",
+      "level": "C1",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The reviewer ___ have overlooked the revised appendix, given the comment on page two.",
+      "options": [
+        "could",
+        "must",
+        "will",
+        "has to"
+      ],
+      "answer": "could",
+      "explanation": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The reviewer could have overlooked the revised appendix, given the comment on page two.",
+      "rationales": {
+        "could": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The reviewer could have overlooked the revised appendix, given the comment on page two.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "has to": "\"has to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2021",
+      "level": "C2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "Mina ___ have submitted the form earlier; the late file delayed the review.",
+      "options": [
+        "should",
+        "must",
+        "might",
+        "would"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: Mina should have submitted the form earlier; the late file delayed the review.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: Mina should have submitted the form earlier; the late file delayed the review.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2022",
+      "level": "C2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The board ___ have anticipated the objection, since the same issue arose last year during the evidentiary hearing.",
+      "options": [
+        "could",
+        "will",
+        "can",
+        "is to"
+      ],
+      "answer": "could",
+      "explanation": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The board could have anticipated the objection, since the same issue arose last year during the evidentiary hearing.",
+      "rationales": {
+        "could": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The board could have anticipated the objection, since the same issue arose last year during the evidentiary hearing.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence.",
+        "is to": "\"is to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2023",
+      "level": "C2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The clause ___ be interpreted narrowly if the precedent applies before the arbitration panel meets.",
+      "options": [
+        "may",
+        "must to",
+        "used to",
+        "would rather"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The clause may be interpreted narrowly if the precedent applies before the arbitration panel meets.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The clause may be interpreted narrowly if the precedent applies before the arbitration panel meets.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence.",
+        "would rather": "\"would rather\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2024",
+      "level": "C2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The dissent ___ have persuaded the court if stronger evidence had been available in the fiduciary briefing.",
+      "options": [
+        "might",
+        "must",
+        "will",
+        "can"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The dissent might have persuaded the court if stronger evidence had been available in the fiduciary briefing.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The dissent might have persuaded the court if stronger evidence had been available in the fiduciary briefing.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2025",
+      "level": "C2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The agency ___ not have disclosed the records without consent after the methodological critique.",
+      "options": [
+        "should",
+        "would",
+        "can",
+        "used to"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The agency should not have disclosed the records without consent after the methodological critique.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The agency should not have disclosed the records without consent after the methodological critique.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2026",
+      "level": "C2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "Lena ___ have submitted the form earlier; the late file delayed the review.",
+      "options": [
+        "should",
+        "must",
+        "might",
+        "would"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: Lena should have submitted the form earlier; the late file delayed the review.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: Lena should have submitted the form earlier; the late file delayed the review.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2027",
+      "level": "C2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The board ___ have anticipated the objection, since the same issue arose last year in the interpretive framework.",
+      "options": [
+        "could",
+        "will",
+        "can",
+        "is to"
+      ],
+      "answer": "could",
+      "explanation": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The board could have anticipated the objection, since the same issue arose last year in the interpretive framework.",
+      "rationales": {
+        "could": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The board could have anticipated the objection, since the same issue arose last year in the interpretive framework.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence.",
+        "is to": "\"is to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2028",
+      "level": "C2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The clause ___ be interpreted narrowly if the precedent applies during the appellate review.",
+      "options": [
+        "may",
+        "must to",
+        "used to",
+        "would rather"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The clause may be interpreted narrowly if the precedent applies during the appellate review.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The clause may be interpreted narrowly if the precedent applies during the appellate review.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence.",
+        "would rather": "\"would rather\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2029",
+      "level": "C2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The dissent ___ have persuaded the court if stronger evidence had been available in the technical memorandum.",
+      "options": [
+        "might",
+        "must",
+        "will",
+        "can"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The dissent might have persuaded the court if stronger evidence had been available in the technical memorandum.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The dissent might have persuaded the court if stronger evidence had been available in the technical memorandum.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2030",
+      "level": "C2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The agency ___ not have disclosed the records without consent after the objections are synthesized.",
+      "options": [
+        "should",
+        "would",
+        "can",
+        "used to"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The agency should not have disclosed the records without consent after the objections are synthesized.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The agency should not have disclosed the records without consent after the objections are synthesized.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2031",
+      "level": "C2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "Hana ___ have submitted the form earlier; the late file delayed the review.",
+      "options": [
+        "should",
+        "must",
+        "might",
+        "would"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: Hana should have submitted the form earlier; the late file delayed the review.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: Hana should have submitted the form earlier; the late file delayed the review.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2032",
+      "level": "C2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The board ___ have anticipated the objection, since the same issue arose last year in the published corrigendum.",
+      "options": [
+        "could",
+        "will",
+        "can",
+        "is to"
+      ],
+      "answer": "could",
+      "explanation": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The board could have anticipated the objection, since the same issue arose last year in the published corrigendum.",
+      "rationales": {
+        "could": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The board could have anticipated the objection, since the same issue arose last year in the published corrigendum.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence.",
+        "is to": "\"is to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2033",
+      "level": "C2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The clause ___ be interpreted narrowly if the precedent applies during the ethics review.",
+      "options": [
+        "may",
+        "must to",
+        "used to",
+        "would rather"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The clause may be interpreted narrowly if the precedent applies during the ethics review.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The clause may be interpreted narrowly if the precedent applies during the ethics review.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence.",
+        "would rather": "\"would rather\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2034",
+      "level": "C2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The dissent ___ have persuaded the court if stronger evidence had been available on the counterargument table.",
+      "options": [
+        "might",
+        "must",
+        "will",
+        "can"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The dissent might have persuaded the court if stronger evidence had been available on the counterargument table.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The dissent might have persuaded the court if stronger evidence had been available on the counterargument table.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2035",
+      "level": "C2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The agency ___ not have disclosed the records without consent before the final adjudication.",
+      "options": [
+        "should",
+        "would",
+        "can",
+        "used to"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The agency should not have disclosed the records without consent before the final adjudication.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The agency should not have disclosed the records without consent before the final adjudication.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2036",
+      "level": "C2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "Luis ___ have submitted the form earlier; the late file delayed the review.",
+      "options": [
+        "should",
+        "must",
+        "might",
+        "would"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: Luis should have submitted the form earlier; the late file delayed the review.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: Luis should have submitted the form earlier; the late file delayed the review.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "might": "\"might\" does not express the needed modal meaning in this sentence.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2037",
+      "level": "C2",
+      "setupText": "A rule or notice is giving an instruction.",
+      "taskText": "The board ___ have anticipated the objection, since the same issue arose last year during expert testimony.",
+      "options": [
+        "could",
+        "will",
+        "can",
+        "is to"
+      ],
+      "answer": "could",
+      "explanation": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The board could have anticipated the objection, since the same issue arose last year during expert testimony.",
+      "rationales": {
+        "could": "\"could\" fits the meaning and grammar of the modal phrase. The completed sentence is: The board could have anticipated the objection, since the same issue arose last year during expert testimony.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence.",
+        "is to": "\"is to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2038",
+      "level": "C2",
+      "setupText": "The sentence says what people are required to do.",
+      "taskText": "The clause ___ be interpreted narrowly if the precedent applies in the compliance addendum.",
+      "options": [
+        "may",
+        "must to",
+        "used to",
+        "would rather"
+      ],
+      "answer": "may",
+      "explanation": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The clause may be interpreted narrowly if the precedent applies in the compliance addendum.",
+      "rationales": {
+        "may": "\"may\" fits the meaning and grammar of the modal phrase. The completed sentence is: The clause may be interpreted narrowly if the precedent applies in the compliance addendum.",
+        "must to": "\"must to\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence.",
+        "would rather": "\"would rather\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2039",
+      "level": "C2",
+      "setupText": "Choose the helping verb that shows a requirement.",
+      "taskText": "The dissent ___ have persuaded the court if stronger evidence had been available after the longitudinal model is revised.",
+      "options": [
+        "might",
+        "must",
+        "will",
+        "can"
+      ],
+      "answer": "might",
+      "explanation": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The dissent might have persuaded the court if stronger evidence had been available after the longitudinal model is revised.",
+      "rationales": {
+        "might": "\"might\" fits the meaning and grammar of the modal phrase. The completed sentence is: The dissent might have persuaded the court if stronger evidence had been available after the longitudinal model is revised.",
+        "must": "\"must\" does not express the needed modal meaning in this sentence.",
+        "will": "\"will\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-modals-c2-2040",
+      "level": "C2",
+      "setupText": "The sentence gives a rule, not a preference.",
+      "taskText": "The agency ___ not have disclosed the records without consent before the ruling is issued.",
+      "options": [
+        "should",
+        "would",
+        "can",
+        "used to"
+      ],
+      "answer": "should",
+      "explanation": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The agency should not have disclosed the records without consent before the ruling is issued.",
+      "rationales": {
+        "should": "\"should\" fits the meaning and grammar of the modal phrase. The completed sentence is: The agency should not have disclosed the records without consent before the ruling is issued.",
+        "would": "\"would\" does not express the needed modal meaning in this sentence.",
+        "can": "\"can\" does not express the needed modal meaning in this sentence.",
+        "used to": "\"used to\" does not express the needed modal meaning in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

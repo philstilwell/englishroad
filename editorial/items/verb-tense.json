@@ -1,0 +1,2766 @@
+{
+  "topic": "Verb tense",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-verb-tense-a1-3841",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Every morning, Mina ___ the report.",
+      "options": [
+        "reviews",
+        "review",
+        "reviewed",
+        "is reviewing"
+      ],
+      "answer": "reviews",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Mina reviews the report.",
+      "rationales": {
+        "reviews": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Mina reviews the report.",
+        "review": "\"review\" does not match the time meaning in the sentence.",
+        "reviewed": "\"reviewed\" does not match the time meaning in the sentence.",
+        "is reviewing": "\"is reviewing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3842",
+      "level": "A1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Yesterday, Carlos ___ the schedule.",
+      "options": [
+        "checked",
+        "checks",
+        "has checked",
+        "checking"
+      ],
+      "answer": "checked",
+      "explanation": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Carlos checked the schedule.",
+      "rationales": {
+        "checked": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Carlos checked the schedule.",
+        "checks": "\"checks\" does not match the time meaning in the sentence.",
+        "has checked": "\"has checked\" does not match the time meaning in the sentence.",
+        "checking": "\"checking\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3843",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Every morning, Aiko ___ the summary.",
+      "options": [
+        "writes",
+        "write",
+        "wrote",
+        "is writing"
+      ],
+      "answer": "writes",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Aiko writes the summary.",
+      "rationales": {
+        "writes": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Aiko writes the summary.",
+        "write": "\"write\" does not match the time meaning in the sentence.",
+        "wrote": "\"wrote\" does not match the time meaning in the sentence.",
+        "is writing": "\"is writing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3844",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Yesterday, Nadia ___ the email.",
+      "options": [
+        "sent",
+        "sends",
+        "has sent",
+        "sending"
+      ],
+      "answer": "sent",
+      "explanation": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Nadia sent the email.",
+      "rationales": {
+        "sent": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Nadia sent the email.",
+        "sends": "\"sends\" does not match the time meaning in the sentence.",
+        "has sent": "\"has sent\" does not match the time meaning in the sentence.",
+        "sending": "\"sending\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3845",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Every morning, Omar ___ the list.",
+      "options": [
+        "updates",
+        "update",
+        "updated",
+        "is updating"
+      ],
+      "answer": "updates",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Omar updates the list.",
+      "rationales": {
+        "updates": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Omar updates the list.",
+        "update": "\"update\" does not match the time meaning in the sentence.",
+        "updated": "\"updated\" does not match the time meaning in the sentence.",
+        "is updating": "\"is updating\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3846",
+      "level": "A1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Yesterday, Lena ___ the lesson.",
+      "options": [
+        "prepared",
+        "prepares",
+        "has prepared",
+        "preparing"
+      ],
+      "answer": "prepared",
+      "explanation": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Lena prepared the lesson.",
+      "rationales": {
+        "prepared": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Lena prepared the lesson.",
+        "prepares": "\"prepares\" does not match the time meaning in the sentence.",
+        "has prepared": "\"has prepared\" does not match the time meaning in the sentence.",
+        "preparing": "\"preparing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3847",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Every morning, Sofia ___ the forms.",
+      "options": [
+        "prints",
+        "print",
+        "printed",
+        "is printing"
+      ],
+      "answer": "prints",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Sofia prints the forms.",
+      "rationales": {
+        "prints": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Sofia prints the forms.",
+        "print": "\"print\" does not match the time meaning in the sentence.",
+        "printed": "\"printed\" does not match the time meaning in the sentence.",
+        "is printing": "\"is printing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3848",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Yesterday, Daniel ___ the office.",
+      "options": [
+        "opened",
+        "opens",
+        "has opened",
+        "opening"
+      ],
+      "answer": "opened",
+      "explanation": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Daniel opened the office.",
+      "rationales": {
+        "opened": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Daniel opened the office.",
+        "opens": "\"opens\" does not match the time meaning in the sentence.",
+        "has opened": "\"has opened\" does not match the time meaning in the sentence.",
+        "opening": "\"opening\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3849",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Every morning, Rina ___ the questions.",
+      "options": [
+        "answers",
+        "answer",
+        "answered",
+        "is answering"
+      ],
+      "answer": "answers",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Rina answers the questions.",
+      "rationales": {
+        "answers": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Rina answers the questions.",
+        "answer": "\"answer\" does not match the time meaning in the sentence.",
+        "answered": "\"answered\" does not match the time meaning in the sentence.",
+        "is answering": "\"is answering\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3850",
+      "level": "A1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Yesterday, Mateo ___ the notice.",
+      "options": [
+        "read",
+        "reads",
+        "has read",
+        "reading"
+      ],
+      "answer": "read",
+      "explanation": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Mateo read the notice.",
+      "rationales": {
+        "read": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Mateo read the notice.",
+        "reads": "\"reads\" does not match the time meaning in the sentence.",
+        "has read": "\"has read\" does not match the time meaning in the sentence.",
+        "reading": "\"reading\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3851",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Every morning, Hana ___ the topic.",
+      "options": [
+        "chooses",
+        "choose",
+        "chose",
+        "is choosing"
+      ],
+      "answer": "chooses",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Hana chooses the topic.",
+      "rationales": {
+        "chooses": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Hana chooses the topic.",
+        "choose": "\"choose\" does not match the time meaning in the sentence.",
+        "chose": "\"chose\" does not match the time meaning in the sentence.",
+        "is choosing": "\"is choosing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3852",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Yesterday, Jonas ___ the plan.",
+      "options": [
+        "made",
+        "makes",
+        "has made",
+        "making"
+      ],
+      "answer": "made",
+      "explanation": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Jonas made the plan.",
+      "rationales": {
+        "made": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Jonas made the plan.",
+        "makes": "\"makes\" does not match the time meaning in the sentence.",
+        "has made": "\"has made\" does not match the time meaning in the sentence.",
+        "making": "\"making\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3853",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Every morning, Priya ___ the file.",
+      "options": [
+        "finds",
+        "find",
+        "found",
+        "is finding"
+      ],
+      "answer": "finds",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Priya finds the file.",
+      "rationales": {
+        "finds": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Priya finds the file.",
+        "find": "\"find\" does not match the time meaning in the sentence.",
+        "found": "\"found\" does not match the time meaning in the sentence.",
+        "is finding": "\"is finding\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3854",
+      "level": "A1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Yesterday, Kenji ___ the class.",
+      "options": [
+        "taught",
+        "teaches",
+        "has taught",
+        "teaching"
+      ],
+      "answer": "taught",
+      "explanation": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Kenji taught the class.",
+      "rationales": {
+        "taught": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Kenji taught the class.",
+        "teaches": "\"teaches\" does not match the time meaning in the sentence.",
+        "has taught": "\"has taught\" does not match the time meaning in the sentence.",
+        "teaching": "\"teaching\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3855",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Every morning, Sara ___ the documents.",
+      "options": [
+        "brings",
+        "bring",
+        "brought",
+        "is bringing"
+      ],
+      "answer": "brings",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Sara brings the documents.",
+      "rationales": {
+        "brings": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Sara brings the documents.",
+        "bring": "\"bring\" does not match the time meaning in the sentence.",
+        "brought": "\"brought\" does not match the time meaning in the sentence.",
+        "is bringing": "\"is bringing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3856",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Yesterday, Luis ___ the session.",
+      "options": [
+        "began",
+        "begins",
+        "has begun",
+        "beginning"
+      ],
+      "answer": "began",
+      "explanation": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Luis began the session.",
+      "rationales": {
+        "began": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Luis began the session.",
+        "begins": "\"begins\" does not match the time meaning in the sentence.",
+        "has begun": "\"has begun\" does not match the time meaning in the sentence.",
+        "beginning": "\"beginning\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3857",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Every morning, Emma ___ the application.",
+      "options": [
+        "completes",
+        "complete",
+        "completed",
+        "is completing"
+      ],
+      "answer": "completes",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Emma completes the application.",
+      "rationales": {
+        "completes": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Emma completes the application.",
+        "complete": "\"complete\" does not match the time meaning in the sentence.",
+        "completed": "\"completed\" does not match the time meaning in the sentence.",
+        "is completing": "\"is completing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3858",
+      "level": "A1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Yesterday, Noah ___ the rule.",
+      "options": [
+        "explained",
+        "explains",
+        "has explained",
+        "explaining"
+      ],
+      "answer": "explained",
+      "explanation": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Noah explained the rule.",
+      "rationales": {
+        "explained": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Noah explained the rule.",
+        "explains": "\"explains\" does not match the time meaning in the sentence.",
+        "has explained": "\"has explained\" does not match the time meaning in the sentence.",
+        "explaining": "\"explaining\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3859",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Every morning, Yara ___ the results.",
+      "options": [
+        "compares",
+        "compare",
+        "compared",
+        "is comparing"
+      ],
+      "answer": "compares",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Yara compares the results.",
+      "rationales": {
+        "compares": "The verb form must match the time meaning in the sentence. The completed sentence is: Every morning, Yara compares the results.",
+        "compare": "\"compare\" does not match the time meaning in the sentence.",
+        "compared": "\"compared\" does not match the time meaning in the sentence.",
+        "is comparing": "\"is comparing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a1-3860",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Yesterday, Theo ___ the request.",
+      "options": [
+        "approved",
+        "approves",
+        "has approved",
+        "approving"
+      ],
+      "answer": "approved",
+      "explanation": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Theo approved the request.",
+      "rationales": {
+        "approved": "The time word shows a finished past action, so the past form is needed. The completed sentence is: Yesterday, Theo approved the request.",
+        "approves": "\"approves\" does not match the time meaning in the sentence.",
+        "has approved": "\"has approved\" does not match the time meaning in the sentence.",
+        "approving": "\"approving\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3861",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Right now, Mina ___ the report.",
+      "options": [
+        "is reviewing",
+        "reviews",
+        "reviewed",
+        "has reviewed"
+      ],
+      "answer": "is reviewing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Mina is reviewing the report.",
+      "rationales": {
+        "is reviewing": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Mina is reviewing the report.",
+        "reviews": "\"reviews\" does not match the time meaning in the sentence.",
+        "reviewed": "\"reviewed\" does not match the time meaning in the sentence.",
+        "has reviewed": "\"has reviewed\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3862",
+      "level": "A2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Tomorrow, Carlos ___ the schedule.",
+      "options": [
+        "is going to check",
+        "goes to check",
+        "checked",
+        "has checked"
+      ],
+      "answer": "is going to check",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Carlos is going to check the schedule.",
+      "rationales": {
+        "is going to check": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Carlos is going to check the schedule.",
+        "goes to check": "\"goes to check\" does not match the time meaning in the sentence.",
+        "checked": "\"checked\" does not match the time meaning in the sentence.",
+        "has checked": "\"has checked\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3863",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Right now, Aiko ___ the summary.",
+      "options": [
+        "is writing",
+        "writes",
+        "wrote",
+        "has written"
+      ],
+      "answer": "is writing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Aiko is writing the summary.",
+      "rationales": {
+        "is writing": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Aiko is writing the summary.",
+        "writes": "\"writes\" does not match the time meaning in the sentence.",
+        "wrote": "\"wrote\" does not match the time meaning in the sentence.",
+        "has written": "\"has written\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3864",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Tomorrow, Nadia ___ the email.",
+      "options": [
+        "is going to send",
+        "goes to send",
+        "sent",
+        "has sent"
+      ],
+      "answer": "is going to send",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Nadia is going to send the email.",
+      "rationales": {
+        "is going to send": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Nadia is going to send the email.",
+        "goes to send": "\"goes to send\" does not match the time meaning in the sentence.",
+        "sent": "\"sent\" does not match the time meaning in the sentence.",
+        "has sent": "\"has sent\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3865",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Right now, Omar ___ the list.",
+      "options": [
+        "is updating",
+        "updates",
+        "updated",
+        "has updated"
+      ],
+      "answer": "is updating",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Omar is updating the list.",
+      "rationales": {
+        "is updating": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Omar is updating the list.",
+        "updates": "\"updates\" does not match the time meaning in the sentence.",
+        "updated": "\"updated\" does not match the time meaning in the sentence.",
+        "has updated": "\"has updated\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3866",
+      "level": "A2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Tomorrow, Lena ___ the lesson.",
+      "options": [
+        "is going to prepare",
+        "goes to prepare",
+        "prepared",
+        "has prepared"
+      ],
+      "answer": "is going to prepare",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Lena is going to prepare the lesson.",
+      "rationales": {
+        "is going to prepare": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Lena is going to prepare the lesson.",
+        "goes to prepare": "\"goes to prepare\" does not match the time meaning in the sentence.",
+        "prepared": "\"prepared\" does not match the time meaning in the sentence.",
+        "has prepared": "\"has prepared\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3867",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Right now, Sofia ___ the forms.",
+      "options": [
+        "is printing",
+        "prints",
+        "printed",
+        "has printed"
+      ],
+      "answer": "is printing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Sofia is printing the forms.",
+      "rationales": {
+        "is printing": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Sofia is printing the forms.",
+        "prints": "\"prints\" does not match the time meaning in the sentence.",
+        "printed": "\"printed\" does not match the time meaning in the sentence.",
+        "has printed": "\"has printed\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3868",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Tomorrow, Daniel ___ the office.",
+      "options": [
+        "is going to open",
+        "goes to open",
+        "opened",
+        "has opened"
+      ],
+      "answer": "is going to open",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Daniel is going to open the office.",
+      "rationales": {
+        "is going to open": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Daniel is going to open the office.",
+        "goes to open": "\"goes to open\" does not match the time meaning in the sentence.",
+        "opened": "\"opened\" does not match the time meaning in the sentence.",
+        "has opened": "\"has opened\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3869",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Right now, Rina ___ the questions.",
+      "options": [
+        "is answering",
+        "answers",
+        "answered",
+        "has answered"
+      ],
+      "answer": "is answering",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Rina is answering the questions.",
+      "rationales": {
+        "is answering": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Rina is answering the questions.",
+        "answers": "\"answers\" does not match the time meaning in the sentence.",
+        "answered": "\"answered\" does not match the time meaning in the sentence.",
+        "has answered": "\"has answered\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3870",
+      "level": "A2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Tomorrow, Mateo ___ the notice.",
+      "options": [
+        "is going to read",
+        "goes to read",
+        "read",
+        "has read"
+      ],
+      "answer": "is going to read",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Mateo is going to read the notice.",
+      "rationales": {
+        "is going to read": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Mateo is going to read the notice.",
+        "goes to read": "\"goes to read\" does not match the time meaning in the sentence.",
+        "read": "\"read\" does not match the time meaning in the sentence.",
+        "has read": "\"has read\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3871",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Right now, Hana ___ the topic.",
+      "options": [
+        "is choosing",
+        "chooses",
+        "chose",
+        "has chosen"
+      ],
+      "answer": "is choosing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Hana is choosing the topic.",
+      "rationales": {
+        "is choosing": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Hana is choosing the topic.",
+        "chooses": "\"chooses\" does not match the time meaning in the sentence.",
+        "chose": "\"chose\" does not match the time meaning in the sentence.",
+        "has chosen": "\"has chosen\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3872",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Tomorrow, Jonas ___ the plan.",
+      "options": [
+        "is going to make",
+        "goes to make",
+        "made",
+        "has made"
+      ],
+      "answer": "is going to make",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Jonas is going to make the plan.",
+      "rationales": {
+        "is going to make": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Jonas is going to make the plan.",
+        "goes to make": "\"goes to make\" does not match the time meaning in the sentence.",
+        "made": "\"made\" does not match the time meaning in the sentence.",
+        "has made": "\"has made\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3873",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Right now, Priya ___ the file.",
+      "options": [
+        "is finding",
+        "finds",
+        "found",
+        "has found"
+      ],
+      "answer": "is finding",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Priya is finding the file.",
+      "rationales": {
+        "is finding": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Priya is finding the file.",
+        "finds": "\"finds\" does not match the time meaning in the sentence.",
+        "found": "\"found\" does not match the time meaning in the sentence.",
+        "has found": "\"has found\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3874",
+      "level": "A2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Tomorrow, Kenji ___ the class.",
+      "options": [
+        "is going to teach",
+        "goes to teach",
+        "taught",
+        "has taught"
+      ],
+      "answer": "is going to teach",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Kenji is going to teach the class.",
+      "rationales": {
+        "is going to teach": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Kenji is going to teach the class.",
+        "goes to teach": "\"goes to teach\" does not match the time meaning in the sentence.",
+        "taught": "\"taught\" does not match the time meaning in the sentence.",
+        "has taught": "\"has taught\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3875",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Right now, Sara ___ the documents.",
+      "options": [
+        "is bringing",
+        "brings",
+        "brought",
+        "has brought"
+      ],
+      "answer": "is bringing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Sara is bringing the documents.",
+      "rationales": {
+        "is bringing": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Sara is bringing the documents.",
+        "brings": "\"brings\" does not match the time meaning in the sentence.",
+        "brought": "\"brought\" does not match the time meaning in the sentence.",
+        "has brought": "\"has brought\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3876",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Tomorrow, Luis ___ the session.",
+      "options": [
+        "is going to begin",
+        "goes to begin",
+        "began",
+        "has begun"
+      ],
+      "answer": "is going to begin",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Luis is going to begin the session.",
+      "rationales": {
+        "is going to begin": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Luis is going to begin the session.",
+        "goes to begin": "\"goes to begin\" does not match the time meaning in the sentence.",
+        "began": "\"began\" does not match the time meaning in the sentence.",
+        "has begun": "\"has begun\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3877",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Right now, Emma ___ the application.",
+      "options": [
+        "is completing",
+        "completes",
+        "completed",
+        "has completed"
+      ],
+      "answer": "is completing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Emma is completing the application.",
+      "rationales": {
+        "is completing": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Emma is completing the application.",
+        "completes": "\"completes\" does not match the time meaning in the sentence.",
+        "completed": "\"completed\" does not match the time meaning in the sentence.",
+        "has completed": "\"has completed\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3878",
+      "level": "A2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Tomorrow, Noah ___ the rule.",
+      "options": [
+        "is going to explain",
+        "goes to explain",
+        "explained",
+        "has explained"
+      ],
+      "answer": "is going to explain",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Noah is going to explain the rule.",
+      "rationales": {
+        "is going to explain": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Noah is going to explain the rule.",
+        "goes to explain": "\"goes to explain\" does not match the time meaning in the sentence.",
+        "explained": "\"explained\" does not match the time meaning in the sentence.",
+        "has explained": "\"has explained\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3879",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Right now, Yara ___ the results.",
+      "options": [
+        "is comparing",
+        "compares",
+        "compared",
+        "has compared"
+      ],
+      "answer": "is comparing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Yara is comparing the results.",
+      "rationales": {
+        "is comparing": "The verb form must match the time meaning in the sentence. The completed sentence is: Right now, Yara is comparing the results.",
+        "compares": "\"compares\" does not match the time meaning in the sentence.",
+        "compared": "\"compared\" does not match the time meaning in the sentence.",
+        "has compared": "\"has compared\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-a2-3880",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Tomorrow, Theo ___ the request.",
+      "options": [
+        "is going to approve",
+        "goes to approve",
+        "approved",
+        "has approved"
+      ],
+      "answer": "is going to approve",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Theo is going to approve the request.",
+      "rationales": {
+        "is going to approve": "The verb form must match the time meaning in the sentence. The completed sentence is: Tomorrow, Theo is going to approve the request.",
+        "goes to approve": "\"goes to approve\" does not match the time meaning in the sentence.",
+        "approved": "\"approved\" does not match the time meaning in the sentence.",
+        "has approved": "\"has approved\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3881",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Since Monday, Mina ___ the report twice.",
+      "options": [
+        "has reviewed",
+        "reviewed",
+        "is reviewing",
+        "has review"
+      ],
+      "answer": "has reviewed",
+      "explanation": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Mina has reviewed the report twice.",
+      "rationales": {
+        "has reviewed": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Mina has reviewed the report twice.",
+        "reviewed": "\"reviewed\" does not match the time meaning in the sentence.",
+        "is reviewing": "\"is reviewing\" does not match the time meaning in the sentence.",
+        "has review": "\"has review\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3882",
+      "level": "B1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Carlos ___ the schedule today, the teachers will use it tomorrow.",
+      "options": [
+        "checks",
+        "check",
+        "will check",
+        "has checked"
+      ],
+      "answer": "checks",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: If Carlos checks the schedule today, the teachers will use it tomorrow.",
+      "rationales": {
+        "checks": "The verb form must match the time meaning in the sentence. The completed sentence is: If Carlos checks the schedule today, the teachers will use it tomorrow.",
+        "check": "\"check\" does not match the time meaning in the sentence.",
+        "will check": "\"will check\" does not match the time meaning in the sentence.",
+        "has checked": "\"has checked\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3883",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Since Monday, Aiko ___ the summary twice.",
+      "options": [
+        "has written",
+        "wrote",
+        "is writing",
+        "has write"
+      ],
+      "answer": "has written",
+      "explanation": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Aiko has written the summary twice.",
+      "rationales": {
+        "has written": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Aiko has written the summary twice.",
+        "wrote": "\"wrote\" does not match the time meaning in the sentence.",
+        "is writing": "\"is writing\" does not match the time meaning in the sentence.",
+        "has write": "\"has write\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3884",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Nadia ___ the email today, the clerks will use it tomorrow.",
+      "options": [
+        "sends",
+        "send",
+        "will send",
+        "has sent"
+      ],
+      "answer": "sends",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: If Nadia sends the email today, the clerks will use it tomorrow.",
+      "rationales": {
+        "sends": "The verb form must match the time meaning in the sentence. The completed sentence is: If Nadia sends the email today, the clerks will use it tomorrow.",
+        "send": "\"send\" does not match the time meaning in the sentence.",
+        "will send": "\"will send\" does not match the time meaning in the sentence.",
+        "has sent": "\"has sent\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3885",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Since Monday, Omar ___ the list twice.",
+      "options": [
+        "has updated",
+        "updated",
+        "is updating",
+        "has update"
+      ],
+      "answer": "has updated",
+      "explanation": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Omar has updated the list twice.",
+      "rationales": {
+        "has updated": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Omar has updated the list twice.",
+        "updated": "\"updated\" does not match the time meaning in the sentence.",
+        "is updating": "\"is updating\" does not match the time meaning in the sentence.",
+        "has update": "\"has update\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3886",
+      "level": "B1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Lena ___ the lesson today, the volunteers will use it tomorrow.",
+      "options": [
+        "prepares",
+        "prepare",
+        "will prepare",
+        "has prepared"
+      ],
+      "answer": "prepares",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: If Lena prepares the lesson today, the volunteers will use it tomorrow.",
+      "rationales": {
+        "prepares": "The verb form must match the time meaning in the sentence. The completed sentence is: If Lena prepares the lesson today, the volunteers will use it tomorrow.",
+        "prepare": "\"prepare\" does not match the time meaning in the sentence.",
+        "will prepare": "\"will prepare\" does not match the time meaning in the sentence.",
+        "has prepared": "\"has prepared\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3887",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Since Monday, Sofia ___ the forms twice.",
+      "options": [
+        "has printed",
+        "printed",
+        "is printing",
+        "has print"
+      ],
+      "answer": "has printed",
+      "explanation": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Sofia has printed the forms twice.",
+      "rationales": {
+        "has printed": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Sofia has printed the forms twice.",
+        "printed": "\"printed\" does not match the time meaning in the sentence.",
+        "is printing": "\"is printing\" does not match the time meaning in the sentence.",
+        "has print": "\"has print\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3888",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Daniel ___ the office today, the visitors will use it tomorrow.",
+      "options": [
+        "opens",
+        "open",
+        "will open",
+        "has opened"
+      ],
+      "answer": "opens",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: If Daniel opens the office today, the visitors will use it tomorrow.",
+      "rationales": {
+        "opens": "The verb form must match the time meaning in the sentence. The completed sentence is: If Daniel opens the office today, the visitors will use it tomorrow.",
+        "open": "\"open\" does not match the time meaning in the sentence.",
+        "will open": "\"will open\" does not match the time meaning in the sentence.",
+        "has opened": "\"has opened\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3889",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Since Monday, Rina ___ the questions twice.",
+      "options": [
+        "has answered",
+        "answered",
+        "is answering",
+        "has answer"
+      ],
+      "answer": "has answered",
+      "explanation": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Rina has answered the questions twice.",
+      "rationales": {
+        "has answered": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Rina has answered the questions twice.",
+        "answered": "\"answered\" does not match the time meaning in the sentence.",
+        "is answering": "\"is answering\" does not match the time meaning in the sentence.",
+        "has answer": "\"has answer\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3890",
+      "level": "B1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Mateo ___ the notice today, the applicants will use it tomorrow.",
+      "options": [
+        "reads",
+        "read",
+        "will read",
+        "has read"
+      ],
+      "answer": "reads",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: If Mateo reads the notice today, the applicants will use it tomorrow.",
+      "rationales": {
+        "reads": "The verb form must match the time meaning in the sentence. The completed sentence is: If Mateo reads the notice today, the applicants will use it tomorrow.",
+        "read": "\"read\" does not match the time meaning in the sentence.",
+        "will read": "\"will read\" does not match the time meaning in the sentence.",
+        "has read": "\"has read\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3891",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Since Monday, Hana ___ the topic twice.",
+      "options": [
+        "has chosen",
+        "chose",
+        "is choosing",
+        "has choose"
+      ],
+      "answer": "has chosen",
+      "explanation": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Hana has chosen the topic twice.",
+      "rationales": {
+        "has chosen": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Hana has chosen the topic twice.",
+        "chose": "\"chose\" does not match the time meaning in the sentence.",
+        "is choosing": "\"is choosing\" does not match the time meaning in the sentence.",
+        "has choose": "\"has choose\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3892",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Jonas ___ the plan today, the parents will use it tomorrow.",
+      "options": [
+        "makes",
+        "make",
+        "will make",
+        "has made"
+      ],
+      "answer": "makes",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: If Jonas makes the plan today, the parents will use it tomorrow.",
+      "rationales": {
+        "makes": "The verb form must match the time meaning in the sentence. The completed sentence is: If Jonas makes the plan today, the parents will use it tomorrow.",
+        "make": "\"make\" does not match the time meaning in the sentence.",
+        "will make": "\"will make\" does not match the time meaning in the sentence.",
+        "has made": "\"has made\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3893",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Since Monday, Priya ___ the file twice.",
+      "options": [
+        "has found",
+        "found",
+        "is finding",
+        "has find"
+      ],
+      "answer": "has found",
+      "explanation": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Priya has found the file twice.",
+      "rationales": {
+        "has found": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Priya has found the file twice.",
+        "found": "\"found\" does not match the time meaning in the sentence.",
+        "is finding": "\"is finding\" does not match the time meaning in the sentence.",
+        "has find": "\"has find\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3894",
+      "level": "B1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Kenji ___ the class today, the tutors will use it tomorrow.",
+      "options": [
+        "teaches",
+        "teach",
+        "will teach",
+        "has taught"
+      ],
+      "answer": "teaches",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: If Kenji teaches the class today, the tutors will use it tomorrow.",
+      "rationales": {
+        "teaches": "The verb form must match the time meaning in the sentence. The completed sentence is: If Kenji teaches the class today, the tutors will use it tomorrow.",
+        "teach": "\"teach\" does not match the time meaning in the sentence.",
+        "will teach": "\"will teach\" does not match the time meaning in the sentence.",
+        "has taught": "\"has taught\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3895",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Since Monday, Sara ___ the documents twice.",
+      "options": [
+        "has brought",
+        "brought",
+        "is bringing",
+        "has bring"
+      ],
+      "answer": "has brought",
+      "explanation": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Sara has brought the documents twice.",
+      "rationales": {
+        "has brought": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Sara has brought the documents twice.",
+        "brought": "\"brought\" does not match the time meaning in the sentence.",
+        "is bringing": "\"is bringing\" does not match the time meaning in the sentence.",
+        "has bring": "\"has bring\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3896",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Luis ___ the session today, the readers will use it tomorrow.",
+      "options": [
+        "begins",
+        "begin",
+        "will begin",
+        "has begun"
+      ],
+      "answer": "begins",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: If Luis begins the session today, the readers will use it tomorrow.",
+      "rationales": {
+        "begins": "The verb form must match the time meaning in the sentence. The completed sentence is: If Luis begins the session today, the readers will use it tomorrow.",
+        "begin": "\"begin\" does not match the time meaning in the sentence.",
+        "will begin": "\"will begin\" does not match the time meaning in the sentence.",
+        "has begun": "\"has begun\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3897",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Since Monday, Emma ___ the application twice.",
+      "options": [
+        "has completed",
+        "completed",
+        "is completing",
+        "has complete"
+      ],
+      "answer": "has completed",
+      "explanation": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Emma has completed the application twice.",
+      "rationales": {
+        "has completed": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Emma has completed the application twice.",
+        "completed": "\"completed\" does not match the time meaning in the sentence.",
+        "is completing": "\"is completing\" does not match the time meaning in the sentence.",
+        "has complete": "\"has complete\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3898",
+      "level": "B1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Noah ___ the rule today, the coordinators will use it tomorrow.",
+      "options": [
+        "explains",
+        "explain",
+        "will explain",
+        "has explained"
+      ],
+      "answer": "explains",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: If Noah explains the rule today, the coordinators will use it tomorrow.",
+      "rationales": {
+        "explains": "The verb form must match the time meaning in the sentence. The completed sentence is: If Noah explains the rule today, the coordinators will use it tomorrow.",
+        "explain": "\"explain\" does not match the time meaning in the sentence.",
+        "will explain": "\"will explain\" does not match the time meaning in the sentence.",
+        "has explained": "\"has explained\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3899",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Since Monday, Yara ___ the results twice.",
+      "options": [
+        "has compared",
+        "compared",
+        "is comparing",
+        "has compare"
+      ],
+      "answer": "has compared",
+      "explanation": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Yara has compared the results twice.",
+      "rationales": {
+        "has compared": "The sentence connects a past time with now, so a present perfect form fits. The completed sentence is: Since Monday, Yara has compared the results twice.",
+        "compared": "\"compared\" does not match the time meaning in the sentence.",
+        "is comparing": "\"is comparing\" does not match the time meaning in the sentence.",
+        "has compare": "\"has compare\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b1-3900",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Theo ___ the request today, the interns will use it tomorrow.",
+      "options": [
+        "approves",
+        "approve",
+        "will approve",
+        "has approved"
+      ],
+      "answer": "approves",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: If Theo approves the request today, the interns will use it tomorrow.",
+      "rationales": {
+        "approves": "The verb form must match the time meaning in the sentence. The completed sentence is: If Theo approves the request today, the interns will use it tomorrow.",
+        "approve": "\"approve\" does not match the time meaning in the sentence.",
+        "will approve": "\"will approve\" does not match the time meaning in the sentence.",
+        "has approved": "\"has approved\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3901",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By the time the meeting began, Mina ___ the report.",
+      "options": [
+        "had reviewed",
+        "has reviewed",
+        "reviewed",
+        "was reviewing"
+      ],
+      "answer": "had reviewed",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Mina had reviewed the report.",
+      "rationales": {
+        "had reviewed": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Mina had reviewed the report.",
+        "has reviewed": "\"has reviewed\" does not match the time meaning in the sentence.",
+        "reviewed": "\"reviewed\" does not match the time meaning in the sentence.",
+        "was reviewing": "\"was reviewing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3902",
+      "level": "B2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "When I arrived, Carlos ___ the schedule.",
+      "options": [
+        "was checking",
+        "has checked",
+        "check",
+        "had check"
+      ],
+      "answer": "was checking",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Carlos was checking the schedule.",
+      "rationales": {
+        "was checking": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Carlos was checking the schedule.",
+        "has checked": "\"has checked\" does not match the time meaning in the sentence.",
+        "check": "\"check\" does not match the time meaning in the sentence.",
+        "had check": "\"had check\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3903",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "By the time the meeting began, Aiko ___ the summary.",
+      "options": [
+        "had written",
+        "has written",
+        "wrote",
+        "was writing"
+      ],
+      "answer": "had written",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Aiko had written the summary.",
+      "rationales": {
+        "had written": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Aiko had written the summary.",
+        "has written": "\"has written\" does not match the time meaning in the sentence.",
+        "wrote": "\"wrote\" does not match the time meaning in the sentence.",
+        "was writing": "\"was writing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3904",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "When I arrived, Nadia ___ the email.",
+      "options": [
+        "was sending",
+        "has sent",
+        "send",
+        "had send"
+      ],
+      "answer": "was sending",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Nadia was sending the email.",
+      "rationales": {
+        "was sending": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Nadia was sending the email.",
+        "has sent": "\"has sent\" does not match the time meaning in the sentence.",
+        "send": "\"send\" does not match the time meaning in the sentence.",
+        "had send": "\"had send\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3905",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By the time the meeting began, Omar ___ the list.",
+      "options": [
+        "had updated",
+        "has updated",
+        "updated",
+        "was updating"
+      ],
+      "answer": "had updated",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Omar had updated the list.",
+      "rationales": {
+        "had updated": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Omar had updated the list.",
+        "has updated": "\"has updated\" does not match the time meaning in the sentence.",
+        "updated": "\"updated\" does not match the time meaning in the sentence.",
+        "was updating": "\"was updating\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3906",
+      "level": "B2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "When I arrived, Lena ___ the lesson.",
+      "options": [
+        "was preparing",
+        "has prepared",
+        "prepare",
+        "had prepare"
+      ],
+      "answer": "was preparing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Lena was preparing the lesson.",
+      "rationales": {
+        "was preparing": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Lena was preparing the lesson.",
+        "has prepared": "\"has prepared\" does not match the time meaning in the sentence.",
+        "prepare": "\"prepare\" does not match the time meaning in the sentence.",
+        "had prepare": "\"had prepare\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3907",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "By the time the meeting began, Sofia ___ the forms.",
+      "options": [
+        "had printed",
+        "has printed",
+        "printed",
+        "was printing"
+      ],
+      "answer": "had printed",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Sofia had printed the forms.",
+      "rationales": {
+        "had printed": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Sofia had printed the forms.",
+        "has printed": "\"has printed\" does not match the time meaning in the sentence.",
+        "printed": "\"printed\" does not match the time meaning in the sentence.",
+        "was printing": "\"was printing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3908",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "When I arrived, Daniel ___ the office.",
+      "options": [
+        "was opening",
+        "has opened",
+        "open",
+        "had open"
+      ],
+      "answer": "was opening",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Daniel was opening the office.",
+      "rationales": {
+        "was opening": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Daniel was opening the office.",
+        "has opened": "\"has opened\" does not match the time meaning in the sentence.",
+        "open": "\"open\" does not match the time meaning in the sentence.",
+        "had open": "\"had open\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3909",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By the time the meeting began, Rina ___ the questions.",
+      "options": [
+        "had answered",
+        "has answered",
+        "answered",
+        "was answering"
+      ],
+      "answer": "had answered",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Rina had answered the questions.",
+      "rationales": {
+        "had answered": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Rina had answered the questions.",
+        "has answered": "\"has answered\" does not match the time meaning in the sentence.",
+        "answered": "\"answered\" does not match the time meaning in the sentence.",
+        "was answering": "\"was answering\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3910",
+      "level": "B2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "When I arrived, Mateo ___ the notice.",
+      "options": [
+        "was reading",
+        "has read",
+        "read",
+        "had read"
+      ],
+      "answer": "was reading",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Mateo was reading the notice.",
+      "rationales": {
+        "was reading": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Mateo was reading the notice.",
+        "has read": "\"has read\" does not match the time meaning in the sentence.",
+        "read": "\"read\" does not match the time meaning in the sentence.",
+        "had read": "\"had read\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3911",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "By the time the meeting began, Hana ___ the topic.",
+      "options": [
+        "had chosen",
+        "has chosen",
+        "chose",
+        "was choosing"
+      ],
+      "answer": "had chosen",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Hana had chosen the topic.",
+      "rationales": {
+        "had chosen": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Hana had chosen the topic.",
+        "has chosen": "\"has chosen\" does not match the time meaning in the sentence.",
+        "chose": "\"chose\" does not match the time meaning in the sentence.",
+        "was choosing": "\"was choosing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3912",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "When I arrived, Jonas ___ the plan.",
+      "options": [
+        "was making",
+        "has made",
+        "make",
+        "had make"
+      ],
+      "answer": "was making",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Jonas was making the plan.",
+      "rationales": {
+        "was making": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Jonas was making the plan.",
+        "has made": "\"has made\" does not match the time meaning in the sentence.",
+        "make": "\"make\" does not match the time meaning in the sentence.",
+        "had make": "\"had make\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3913",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By the time the meeting began, Priya ___ the file.",
+      "options": [
+        "had found",
+        "has found",
+        "found",
+        "was finding"
+      ],
+      "answer": "had found",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Priya had found the file.",
+      "rationales": {
+        "had found": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Priya had found the file.",
+        "has found": "\"has found\" does not match the time meaning in the sentence.",
+        "found": "\"found\" does not match the time meaning in the sentence.",
+        "was finding": "\"was finding\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3914",
+      "level": "B2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "When I arrived, Kenji ___ the class.",
+      "options": [
+        "was teaching",
+        "has taught",
+        "teach",
+        "had teach"
+      ],
+      "answer": "was teaching",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Kenji was teaching the class.",
+      "rationales": {
+        "was teaching": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Kenji was teaching the class.",
+        "has taught": "\"has taught\" does not match the time meaning in the sentence.",
+        "teach": "\"teach\" does not match the time meaning in the sentence.",
+        "had teach": "\"had teach\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3915",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "By the time the meeting began, Sara ___ the documents.",
+      "options": [
+        "had brought",
+        "has brought",
+        "brought",
+        "was bringing"
+      ],
+      "answer": "had brought",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Sara had brought the documents.",
+      "rationales": {
+        "had brought": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Sara had brought the documents.",
+        "has brought": "\"has brought\" does not match the time meaning in the sentence.",
+        "brought": "\"brought\" does not match the time meaning in the sentence.",
+        "was bringing": "\"was bringing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3916",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "When I arrived, Luis ___ the session.",
+      "options": [
+        "was beginning",
+        "has begun",
+        "begin",
+        "had begin"
+      ],
+      "answer": "was beginning",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Luis was beginning the session.",
+      "rationales": {
+        "was beginning": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Luis was beginning the session.",
+        "has begun": "\"has begun\" does not match the time meaning in the sentence.",
+        "begin": "\"begin\" does not match the time meaning in the sentence.",
+        "had begin": "\"had begin\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3917",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By the time the meeting began, Emma ___ the application.",
+      "options": [
+        "had completed",
+        "has completed",
+        "completed",
+        "was completing"
+      ],
+      "answer": "had completed",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Emma had completed the application.",
+      "rationales": {
+        "had completed": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Emma had completed the application.",
+        "has completed": "\"has completed\" does not match the time meaning in the sentence.",
+        "completed": "\"completed\" does not match the time meaning in the sentence.",
+        "was completing": "\"was completing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3918",
+      "level": "B2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "When I arrived, Noah ___ the rule.",
+      "options": [
+        "was explaining",
+        "has explained",
+        "explain",
+        "had explain"
+      ],
+      "answer": "was explaining",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Noah was explaining the rule.",
+      "rationales": {
+        "was explaining": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Noah was explaining the rule.",
+        "has explained": "\"has explained\" does not match the time meaning in the sentence.",
+        "explain": "\"explain\" does not match the time meaning in the sentence.",
+        "had explain": "\"had explain\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3919",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "By the time the meeting began, Yara ___ the results.",
+      "options": [
+        "had compared",
+        "has compared",
+        "compared",
+        "was comparing"
+      ],
+      "answer": "had compared",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Yara had compared the results.",
+      "rationales": {
+        "had compared": "The verb form must match the time meaning in the sentence. The completed sentence is: By the time the meeting began, Yara had compared the results.",
+        "has compared": "\"has compared\" does not match the time meaning in the sentence.",
+        "compared": "\"compared\" does not match the time meaning in the sentence.",
+        "was comparing": "\"was comparing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-b2-3920",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "When I arrived, Theo ___ the request.",
+      "options": [
+        "was approving",
+        "has approved",
+        "approve",
+        "had approve"
+      ],
+      "answer": "was approving",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Theo was approving the request.",
+      "rationales": {
+        "was approving": "The verb form must match the time meaning in the sentence. The completed sentence is: When I arrived, Theo was approving the request.",
+        "has approved": "\"has approved\" does not match the time meaning in the sentence.",
+        "approve": "\"approve\" does not match the time meaning in the sentence.",
+        "had approve": "\"had approve\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3921",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By next Friday, Mina ___ the report.",
+      "options": [
+        "will have reviewed",
+        "will review",
+        "will be reviewing",
+        "had reviewed"
+      ],
+      "answer": "will have reviewed",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Mina will have reviewed the report.",
+      "rationales": {
+        "will have reviewed": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Mina will have reviewed the report.",
+        "will review": "\"will review\" does not match the time meaning in the sentence.",
+        "will be reviewing": "\"will be reviewing\" does not match the time meaning in the sentence.",
+        "had reviewed": "\"had reviewed\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3922",
+      "level": "C1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Before the notice was sent, Carlos ___ the schedule for two hours.",
+      "options": [
+        "had been checking",
+        "has been checking",
+        "was checking",
+        "had check"
+      ],
+      "answer": "had been checking",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Carlos had been checking the schedule for two hours.",
+      "rationales": {
+        "had been checking": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Carlos had been checking the schedule for two hours.",
+        "has been checking": "\"has been checking\" does not match the time meaning in the sentence.",
+        "was checking": "\"was checking\" does not match the time meaning in the sentence.",
+        "had check": "\"had check\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3923",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "By next Friday, Aiko ___ the summary.",
+      "options": [
+        "will have written",
+        "will write",
+        "will be writing",
+        "had written"
+      ],
+      "answer": "will have written",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Aiko will have written the summary.",
+      "rationales": {
+        "will have written": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Aiko will have written the summary.",
+        "will write": "\"will write\" does not match the time meaning in the sentence.",
+        "will be writing": "\"will be writing\" does not match the time meaning in the sentence.",
+        "had written": "\"had written\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3924",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Before the notice was sent, Nadia ___ the email for two hours.",
+      "options": [
+        "had been sending",
+        "has been sending",
+        "was sending",
+        "had send"
+      ],
+      "answer": "had been sending",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Nadia had been sending the email for two hours.",
+      "rationales": {
+        "had been sending": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Nadia had been sending the email for two hours.",
+        "has been sending": "\"has been sending\" does not match the time meaning in the sentence.",
+        "was sending": "\"was sending\" does not match the time meaning in the sentence.",
+        "had send": "\"had send\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3925",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By next Friday, Omar ___ the list.",
+      "options": [
+        "will have updated",
+        "will update",
+        "will be updating",
+        "had updated"
+      ],
+      "answer": "will have updated",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Omar will have updated the list.",
+      "rationales": {
+        "will have updated": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Omar will have updated the list.",
+        "will update": "\"will update\" does not match the time meaning in the sentence.",
+        "will be updating": "\"will be updating\" does not match the time meaning in the sentence.",
+        "had updated": "\"had updated\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3926",
+      "level": "C1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Before the notice was sent, Lena ___ the lesson for two hours.",
+      "options": [
+        "had been preparing",
+        "has been preparing",
+        "was preparing",
+        "had prepare"
+      ],
+      "answer": "had been preparing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Lena had been preparing the lesson for two hours.",
+      "rationales": {
+        "had been preparing": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Lena had been preparing the lesson for two hours.",
+        "has been preparing": "\"has been preparing\" does not match the time meaning in the sentence.",
+        "was preparing": "\"was preparing\" does not match the time meaning in the sentence.",
+        "had prepare": "\"had prepare\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3927",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "By next Friday, Sofia ___ the forms.",
+      "options": [
+        "will have printed",
+        "will print",
+        "will be printing",
+        "had printed"
+      ],
+      "answer": "will have printed",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Sofia will have printed the forms.",
+      "rationales": {
+        "will have printed": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Sofia will have printed the forms.",
+        "will print": "\"will print\" does not match the time meaning in the sentence.",
+        "will be printing": "\"will be printing\" does not match the time meaning in the sentence.",
+        "had printed": "\"had printed\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3928",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Before the notice was sent, Daniel ___ the office for two hours.",
+      "options": [
+        "had been opening",
+        "has been opening",
+        "was opening",
+        "had open"
+      ],
+      "answer": "had been opening",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Daniel had been opening the office for two hours.",
+      "rationales": {
+        "had been opening": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Daniel had been opening the office for two hours.",
+        "has been opening": "\"has been opening\" does not match the time meaning in the sentence.",
+        "was opening": "\"was opening\" does not match the time meaning in the sentence.",
+        "had open": "\"had open\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3929",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By next Friday, Rina ___ the questions.",
+      "options": [
+        "will have answered",
+        "will answer",
+        "will be answering",
+        "had answered"
+      ],
+      "answer": "will have answered",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Rina will have answered the questions.",
+      "rationales": {
+        "will have answered": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Rina will have answered the questions.",
+        "will answer": "\"will answer\" does not match the time meaning in the sentence.",
+        "will be answering": "\"will be answering\" does not match the time meaning in the sentence.",
+        "had answered": "\"had answered\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3930",
+      "level": "C1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Before the notice was sent, Mateo ___ the notice for two hours.",
+      "options": [
+        "had been reading",
+        "has been reading",
+        "was reading",
+        "had read"
+      ],
+      "answer": "had been reading",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Mateo had been reading the notice for two hours.",
+      "rationales": {
+        "had been reading": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Mateo had been reading the notice for two hours.",
+        "has been reading": "\"has been reading\" does not match the time meaning in the sentence.",
+        "was reading": "\"was reading\" does not match the time meaning in the sentence.",
+        "had read": "\"had read\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3931",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "By next Friday, Hana ___ the topic.",
+      "options": [
+        "will have chosen",
+        "will choose",
+        "will be choosing",
+        "had chosen"
+      ],
+      "answer": "will have chosen",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Hana will have chosen the topic.",
+      "rationales": {
+        "will have chosen": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Hana will have chosen the topic.",
+        "will choose": "\"will choose\" does not match the time meaning in the sentence.",
+        "will be choosing": "\"will be choosing\" does not match the time meaning in the sentence.",
+        "had chosen": "\"had chosen\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3932",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Before the notice was sent, Jonas ___ the plan for two hours.",
+      "options": [
+        "had been making",
+        "has been making",
+        "was making",
+        "had make"
+      ],
+      "answer": "had been making",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Jonas had been making the plan for two hours.",
+      "rationales": {
+        "had been making": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Jonas had been making the plan for two hours.",
+        "has been making": "\"has been making\" does not match the time meaning in the sentence.",
+        "was making": "\"was making\" does not match the time meaning in the sentence.",
+        "had make": "\"had make\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3933",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By next Friday, Priya ___ the file.",
+      "options": [
+        "will have found",
+        "will find",
+        "will be finding",
+        "had found"
+      ],
+      "answer": "will have found",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Priya will have found the file.",
+      "rationales": {
+        "will have found": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Priya will have found the file.",
+        "will find": "\"will find\" does not match the time meaning in the sentence.",
+        "will be finding": "\"will be finding\" does not match the time meaning in the sentence.",
+        "had found": "\"had found\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3934",
+      "level": "C1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Before the notice was sent, Kenji ___ the class for two hours.",
+      "options": [
+        "had been teaching",
+        "has been teaching",
+        "was teaching",
+        "had teach"
+      ],
+      "answer": "had been teaching",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Kenji had been teaching the class for two hours.",
+      "rationales": {
+        "had been teaching": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Kenji had been teaching the class for two hours.",
+        "has been teaching": "\"has been teaching\" does not match the time meaning in the sentence.",
+        "was teaching": "\"was teaching\" does not match the time meaning in the sentence.",
+        "had teach": "\"had teach\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3935",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "By next Friday, Sara ___ the documents.",
+      "options": [
+        "will have brought",
+        "will bring",
+        "will be bringing",
+        "had brought"
+      ],
+      "answer": "will have brought",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Sara will have brought the documents.",
+      "rationales": {
+        "will have brought": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Sara will have brought the documents.",
+        "will bring": "\"will bring\" does not match the time meaning in the sentence.",
+        "will be bringing": "\"will be bringing\" does not match the time meaning in the sentence.",
+        "had brought": "\"had brought\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3936",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Before the notice was sent, Luis ___ the session for two hours.",
+      "options": [
+        "had been beginning",
+        "has been beginning",
+        "was beginning",
+        "had begin"
+      ],
+      "answer": "had been beginning",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Luis had been beginning the session for two hours.",
+      "rationales": {
+        "had been beginning": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Luis had been beginning the session for two hours.",
+        "has been beginning": "\"has been beginning\" does not match the time meaning in the sentence.",
+        "was beginning": "\"was beginning\" does not match the time meaning in the sentence.",
+        "had begin": "\"had begin\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3937",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By next Friday, Emma ___ the application.",
+      "options": [
+        "will have completed",
+        "will complete",
+        "will be completing",
+        "had completed"
+      ],
+      "answer": "will have completed",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Emma will have completed the application.",
+      "rationales": {
+        "will have completed": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Emma will have completed the application.",
+        "will complete": "\"will complete\" does not match the time meaning in the sentence.",
+        "will be completing": "\"will be completing\" does not match the time meaning in the sentence.",
+        "had completed": "\"had completed\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3938",
+      "level": "C1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Before the notice was sent, Noah ___ the rule for two hours.",
+      "options": [
+        "had been explaining",
+        "has been explaining",
+        "was explaining",
+        "had explain"
+      ],
+      "answer": "had been explaining",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Noah had been explaining the rule for two hours.",
+      "rationales": {
+        "had been explaining": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Noah had been explaining the rule for two hours.",
+        "has been explaining": "\"has been explaining\" does not match the time meaning in the sentence.",
+        "was explaining": "\"was explaining\" does not match the time meaning in the sentence.",
+        "had explain": "\"had explain\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3939",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "By next Friday, Yara ___ the results.",
+      "options": [
+        "will have compared",
+        "will compare",
+        "will be comparing",
+        "had compared"
+      ],
+      "answer": "will have compared",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Yara will have compared the results.",
+      "rationales": {
+        "will have compared": "The verb form must match the time meaning in the sentence. The completed sentence is: By next Friday, Yara will have compared the results.",
+        "will compare": "\"will compare\" does not match the time meaning in the sentence.",
+        "will be comparing": "\"will be comparing\" does not match the time meaning in the sentence.",
+        "had compared": "\"had compared\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c1-3940",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Before the notice was sent, Theo ___ the request for two hours.",
+      "options": [
+        "had been approving",
+        "has been approving",
+        "was approving",
+        "had approve"
+      ],
+      "answer": "had been approving",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Theo had been approving the request for two hours.",
+      "rationales": {
+        "had been approving": "The verb form must match the time meaning in the sentence. The completed sentence is: Before the notice was sent, Theo had been approving the request for two hours.",
+        "has been approving": "\"has been approving\" does not match the time meaning in the sentence.",
+        "was approving": "\"was approving\" does not match the time meaning in the sentence.",
+        "had approve": "\"had approve\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3941",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By this time next month, Mina ___ the report for three years.",
+      "options": [
+        "will have been reviewing",
+        "will be reviewing",
+        "will have reviewed",
+        "had been reviewing"
+      ],
+      "answer": "will have been reviewing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Mina will have been reviewing the report for three years.",
+      "rationales": {
+        "will have been reviewing": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Mina will have been reviewing the report for three years.",
+        "will be reviewing": "\"will be reviewing\" does not match the time meaning in the sentence.",
+        "will have reviewed": "\"will have reviewed\" does not match the time meaning in the sentence.",
+        "had been reviewing": "\"had been reviewing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3942",
+      "level": "C2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Hardly had Carlos ___ the schedule when the director requested a change.",
+      "options": [
+        "checked",
+        "have checked",
+        "to check",
+        "checking"
+      ],
+      "answer": "checked",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Carlos checked the schedule when the director requested a change.",
+      "rationales": {
+        "checked": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Carlos checked the schedule when the director requested a change.",
+        "have checked": "\"have checked\" does not match the time meaning in the sentence.",
+        "to check": "\"to check\" does not match the time meaning in the sentence.",
+        "checking": "\"checking\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3943",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "By this time next month, Aiko ___ the summary for three years.",
+      "options": [
+        "will have been writing",
+        "will be writing",
+        "will have written",
+        "had been writing"
+      ],
+      "answer": "will have been writing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Aiko will have been writing the summary for three years.",
+      "rationales": {
+        "will have been writing": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Aiko will have been writing the summary for three years.",
+        "will be writing": "\"will be writing\" does not match the time meaning in the sentence.",
+        "will have written": "\"will have written\" does not match the time meaning in the sentence.",
+        "had been writing": "\"had been writing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3944",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Hardly had Nadia ___ the email when the director requested a change.",
+      "options": [
+        "sent",
+        "have sent",
+        "to send",
+        "sending"
+      ],
+      "answer": "sent",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Nadia sent the email when the director requested a change.",
+      "rationales": {
+        "sent": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Nadia sent the email when the director requested a change.",
+        "have sent": "\"have sent\" does not match the time meaning in the sentence.",
+        "to send": "\"to send\" does not match the time meaning in the sentence.",
+        "sending": "\"sending\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3945",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By this time next month, Omar ___ the list for three years.",
+      "options": [
+        "will have been updating",
+        "will be updating",
+        "will have updated",
+        "had been updating"
+      ],
+      "answer": "will have been updating",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Omar will have been updating the list for three years.",
+      "rationales": {
+        "will have been updating": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Omar will have been updating the list for three years.",
+        "will be updating": "\"will be updating\" does not match the time meaning in the sentence.",
+        "will have updated": "\"will have updated\" does not match the time meaning in the sentence.",
+        "had been updating": "\"had been updating\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3946",
+      "level": "C2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Hardly had Lena ___ the lesson when the director requested a change.",
+      "options": [
+        "prepared",
+        "have prepared",
+        "to prepare",
+        "preparing"
+      ],
+      "answer": "prepared",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Lena prepared the lesson when the director requested a change.",
+      "rationales": {
+        "prepared": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Lena prepared the lesson when the director requested a change.",
+        "have prepared": "\"have prepared\" does not match the time meaning in the sentence.",
+        "to prepare": "\"to prepare\" does not match the time meaning in the sentence.",
+        "preparing": "\"preparing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3947",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "By this time next month, Sofia ___ the forms for three years.",
+      "options": [
+        "will have been printing",
+        "will be printing",
+        "will have printed",
+        "had been printing"
+      ],
+      "answer": "will have been printing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Sofia will have been printing the forms for three years.",
+      "rationales": {
+        "will have been printing": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Sofia will have been printing the forms for three years.",
+        "will be printing": "\"will be printing\" does not match the time meaning in the sentence.",
+        "will have printed": "\"will have printed\" does not match the time meaning in the sentence.",
+        "had been printing": "\"had been printing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3948",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Hardly had Daniel ___ the office when the director requested a change.",
+      "options": [
+        "opened",
+        "have opened",
+        "to open",
+        "opening"
+      ],
+      "answer": "opened",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Daniel opened the office when the director requested a change.",
+      "rationales": {
+        "opened": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Daniel opened the office when the director requested a change.",
+        "have opened": "\"have opened\" does not match the time meaning in the sentence.",
+        "to open": "\"to open\" does not match the time meaning in the sentence.",
+        "opening": "\"opening\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3949",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By this time next month, Rina ___ the questions for three years.",
+      "options": [
+        "will have been answering",
+        "will be answering",
+        "will have answered",
+        "had been answering"
+      ],
+      "answer": "will have been answering",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Rina will have been answering the questions for three years.",
+      "rationales": {
+        "will have been answering": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Rina will have been answering the questions for three years.",
+        "will be answering": "\"will be answering\" does not match the time meaning in the sentence.",
+        "will have answered": "\"will have answered\" does not match the time meaning in the sentence.",
+        "had been answering": "\"had been answering\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3950",
+      "level": "C2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Hardly had Mateo ___ the notice when the director requested a change.",
+      "options": [
+        "read",
+        "have read",
+        "to read",
+        "reading"
+      ],
+      "answer": "read",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Mateo read the notice when the director requested a change.",
+      "rationales": {
+        "read": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Mateo read the notice when the director requested a change.",
+        "have read": "\"have read\" does not match the time meaning in the sentence.",
+        "to read": "\"to read\" does not match the time meaning in the sentence.",
+        "reading": "\"reading\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3951",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "By this time next month, Hana ___ the topic for three years.",
+      "options": [
+        "will have been choosing",
+        "will be choosing",
+        "will have chosen",
+        "had been choosing"
+      ],
+      "answer": "will have been choosing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Hana will have been choosing the topic for three years.",
+      "rationales": {
+        "will have been choosing": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Hana will have been choosing the topic for three years.",
+        "will be choosing": "\"will be choosing\" does not match the time meaning in the sentence.",
+        "will have chosen": "\"will have chosen\" does not match the time meaning in the sentence.",
+        "had been choosing": "\"had been choosing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3952",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Hardly had Jonas ___ the plan when the director requested a change.",
+      "options": [
+        "made",
+        "have made",
+        "to make",
+        "making"
+      ],
+      "answer": "made",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Jonas made the plan when the director requested a change.",
+      "rationales": {
+        "made": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Jonas made the plan when the director requested a change.",
+        "have made": "\"have made\" does not match the time meaning in the sentence.",
+        "to make": "\"to make\" does not match the time meaning in the sentence.",
+        "making": "\"making\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3953",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By this time next month, Priya ___ the file for three years.",
+      "options": [
+        "will have been finding",
+        "will be finding",
+        "will have found",
+        "had been finding"
+      ],
+      "answer": "will have been finding",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Priya will have been finding the file for three years.",
+      "rationales": {
+        "will have been finding": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Priya will have been finding the file for three years.",
+        "will be finding": "\"will be finding\" does not match the time meaning in the sentence.",
+        "will have found": "\"will have found\" does not match the time meaning in the sentence.",
+        "had been finding": "\"had been finding\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3954",
+      "level": "C2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Hardly had Kenji ___ the class when the director requested a change.",
+      "options": [
+        "taught",
+        "have taught",
+        "to teach",
+        "teaching"
+      ],
+      "answer": "taught",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Kenji taught the class when the director requested a change.",
+      "rationales": {
+        "taught": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Kenji taught the class when the director requested a change.",
+        "have taught": "\"have taught\" does not match the time meaning in the sentence.",
+        "to teach": "\"to teach\" does not match the time meaning in the sentence.",
+        "teaching": "\"teaching\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3955",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "By this time next month, Sara ___ the documents for three years.",
+      "options": [
+        "will have been bringing",
+        "will be bringing",
+        "will have brought",
+        "had been bringing"
+      ],
+      "answer": "will have been bringing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Sara will have been bringing the documents for three years.",
+      "rationales": {
+        "will have been bringing": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Sara will have been bringing the documents for three years.",
+        "will be bringing": "\"will be bringing\" does not match the time meaning in the sentence.",
+        "will have brought": "\"will have brought\" does not match the time meaning in the sentence.",
+        "had been bringing": "\"had been bringing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3956",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Hardly had Luis ___ the session when the director requested a change.",
+      "options": [
+        "begun",
+        "have begun",
+        "to begin",
+        "beginning"
+      ],
+      "answer": "begun",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Luis begun the session when the director requested a change.",
+      "rationales": {
+        "begun": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Luis begun the session when the director requested a change.",
+        "have begun": "\"have begun\" does not match the time meaning in the sentence.",
+        "to begin": "\"to begin\" does not match the time meaning in the sentence.",
+        "beginning": "\"beginning\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3957",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "By this time next month, Emma ___ the application for three years.",
+      "options": [
+        "will have been completing",
+        "will be completing",
+        "will have completed",
+        "had been completing"
+      ],
+      "answer": "will have been completing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Emma will have been completing the application for three years.",
+      "rationales": {
+        "will have been completing": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Emma will have been completing the application for three years.",
+        "will be completing": "\"will be completing\" does not match the time meaning in the sentence.",
+        "will have completed": "\"will have completed\" does not match the time meaning in the sentence.",
+        "had been completing": "\"had been completing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3958",
+      "level": "C2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Hardly had Noah ___ the rule when the director requested a change.",
+      "options": [
+        "explained",
+        "have explained",
+        "to explain",
+        "explaining"
+      ],
+      "answer": "explained",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Noah explained the rule when the director requested a change.",
+      "rationales": {
+        "explained": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Noah explained the rule when the director requested a change.",
+        "have explained": "\"have explained\" does not match the time meaning in the sentence.",
+        "to explain": "\"to explain\" does not match the time meaning in the sentence.",
+        "explaining": "\"explaining\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3959",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "By this time next month, Yara ___ the results for three years.",
+      "options": [
+        "will have been comparing",
+        "will be comparing",
+        "will have compared",
+        "had been comparing"
+      ],
+      "answer": "will have been comparing",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Yara will have been comparing the results for three years.",
+      "rationales": {
+        "will have been comparing": "The verb form must match the time meaning in the sentence. The completed sentence is: By this time next month, Yara will have been comparing the results for three years.",
+        "will be comparing": "\"will be comparing\" does not match the time meaning in the sentence.",
+        "will have compared": "\"will have compared\" does not match the time meaning in the sentence.",
+        "had been comparing": "\"had been comparing\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-verb-tense-c2-3960",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Hardly had Theo ___ the request when the director requested a change.",
+      "options": [
+        "approved",
+        "have approved",
+        "to approve",
+        "approving"
+      ],
+      "answer": "approved",
+      "explanation": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Theo approved the request when the director requested a change.",
+      "rationales": {
+        "approved": "The verb form must match the time meaning in the sentence. The completed sentence is: Hardly had Theo approved the request when the director requested a change.",
+        "have approved": "\"have approved\" does not match the time meaning in the sentence.",
+        "to approve": "\"to approve\" does not match the time meaning in the sentence.",
+        "approving": "\"approving\" does not match the time meaning in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

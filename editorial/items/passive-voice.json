@@ -1,0 +1,2766 @@
+{
+  "topic": "Passive voice",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-passive-voice-a1-2281",
+      "level": "A1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The room at the library ___ after class today.",
+      "options": [
+        "is cleaned",
+        "cleans",
+        "is cleaning",
+        "has clean"
+      ],
+      "answer": "is cleaned",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the library is cleaned after class today.",
+      "rationales": {
+        "is cleaned": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the library is cleaned after class today.",
+        "cleans": "\"cleans\" does not form the passive verb phrase needed here.",
+        "is cleaning": "\"is cleaning\" does not form the passive verb phrase needed here.",
+        "has clean": "\"has clean\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2282",
+      "level": "A1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The front door ___ at nine every morning in class.",
+      "options": [
+        "is opened",
+        "opens it",
+        "is opening",
+        "has open"
+      ],
+      "answer": "is opened",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The front door is opened at nine every morning in class.",
+      "rationales": {
+        "is opened": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The front door is opened at nine every morning in class.",
+        "opens it": "\"opens it\" does not form the passive verb phrase needed here.",
+        "is opening": "\"is opening\" does not form the passive verb phrase needed here.",
+        "has open": "\"has open\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2283",
+      "level": "A1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The homework ___ by the substitute teacher.",
+      "options": [
+        "is checked",
+        "checks",
+        "is checking",
+        "has check"
+      ],
+      "answer": "is checked",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The homework is checked by the substitute teacher.",
+      "rationales": {
+        "is checked": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The homework is checked by the substitute teacher.",
+        "checks": "\"checks\" does not form the passive verb phrase needed here.",
+        "is checking": "\"is checking\" does not form the passive verb phrase needed here.",
+        "has check": "\"has check\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2284",
+      "level": "A1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The books ___ on the shelf after class at school.",
+      "options": [
+        "are put",
+        "put",
+        "are putting",
+        "has put"
+      ],
+      "answer": "are put",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The books are put on the shelf after class at school.",
+      "rationales": {
+        "are put": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The books are put on the shelf after class at school.",
+        "put": "\"put\" does not form the passive verb phrase needed here.",
+        "are putting": "\"are putting\" does not form the passive verb phrase needed here.",
+        "has put": "\"has put\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2285",
+      "level": "A1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "Lunch ___ in the cafeteria at noon this morning.",
+      "options": [
+        "is served",
+        "serves",
+        "is serving",
+        "has serve"
+      ],
+      "answer": "is served",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: Lunch is served in the cafeteria at noon this morning.",
+      "rationales": {
+        "is served": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: Lunch is served in the cafeteria at noon this morning.",
+        "serves": "\"serves\" does not form the passive verb phrase needed here.",
+        "is serving": "\"is serving\" does not form the passive verb phrase needed here.",
+        "has serve": "\"has serve\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2286",
+      "level": "A1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The room at the museum ___ after class before class.",
+      "options": [
+        "is cleaned",
+        "cleans",
+        "is cleaning",
+        "has clean"
+      ],
+      "answer": "is cleaned",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the museum is cleaned after class before class.",
+      "rationales": {
+        "is cleaned": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the museum is cleaned after class before class.",
+        "cleans": "\"cleans\" does not form the passive verb phrase needed here.",
+        "is cleaning": "\"is cleaning\" does not form the passive verb phrase needed here.",
+        "has clean": "\"has clean\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2287",
+      "level": "A1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The front door ___ at nine every morning near the door.",
+      "options": [
+        "is opened",
+        "opens it",
+        "is opening",
+        "has open"
+      ],
+      "answer": "is opened",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The front door is opened at nine every morning near the door.",
+      "rationales": {
+        "is opened": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The front door is opened at nine every morning near the door.",
+        "opens it": "\"opens it\" does not form the passive verb phrase needed here.",
+        "is opening": "\"is opening\" does not form the passive verb phrase needed here.",
+        "has open": "\"has open\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2288",
+      "level": "A1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The homework ___ by the lead teacher.",
+      "options": [
+        "is checked",
+        "checks",
+        "is checking",
+        "has check"
+      ],
+      "answer": "is checked",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The homework is checked by the lead teacher.",
+      "rationales": {
+        "is checked": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The homework is checked by the lead teacher.",
+        "checks": "\"checks\" does not form the passive verb phrase needed here.",
+        "is checking": "\"is checking\" does not form the passive verb phrase needed here.",
+        "has check": "\"has check\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2289",
+      "level": "A1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The books ___ on the shelf after class on Monday.",
+      "options": [
+        "are put",
+        "put",
+        "are putting",
+        "has put"
+      ],
+      "answer": "are put",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The books are put on the shelf after class on Monday.",
+      "rationales": {
+        "are put": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The books are put on the shelf after class on Monday.",
+        "put": "\"put\" does not form the passive verb phrase needed here.",
+        "are putting": "\"are putting\" does not form the passive verb phrase needed here.",
+        "has put": "\"has put\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2290",
+      "level": "A1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "Lunch ___ in the cafeteria at noon in the kitchen.",
+      "options": [
+        "is served",
+        "serves",
+        "is serving",
+        "has serve"
+      ],
+      "answer": "is served",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: Lunch is served in the cafeteria at noon in the kitchen.",
+      "rationales": {
+        "is served": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: Lunch is served in the cafeteria at noon in the kitchen.",
+        "serves": "\"serves\" does not form the passive verb phrase needed here.",
+        "is serving": "\"is serving\" does not form the passive verb phrase needed here.",
+        "has serve": "\"has serve\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2291",
+      "level": "A1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The room at the airport ___ after class after school.",
+      "options": [
+        "is cleaned",
+        "cleans",
+        "is cleaning",
+        "has clean"
+      ],
+      "answer": "is cleaned",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the airport is cleaned after class after school.",
+      "rationales": {
+        "is cleaned": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the airport is cleaned after class after school.",
+        "cleans": "\"cleans\" does not form the passive verb phrase needed here.",
+        "is cleaning": "\"is cleaning\" does not form the passive verb phrase needed here.",
+        "has clean": "\"has clean\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2292",
+      "level": "A1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The front door ___ at nine every morning by the window.",
+      "options": [
+        "is opened",
+        "opens it",
+        "is opening",
+        "has open"
+      ],
+      "answer": "is opened",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The front door is opened at nine every morning by the window.",
+      "rationales": {
+        "is opened": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The front door is opened at nine every morning by the window.",
+        "opens it": "\"opens it\" does not form the passive verb phrase needed here.",
+        "is opening": "\"is opening\" does not form the passive verb phrase needed here.",
+        "has open": "\"has open\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2293",
+      "level": "A1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The homework ___ by the test-prep teacher.",
+      "options": [
+        "is checked",
+        "checks",
+        "is checking",
+        "has check"
+      ],
+      "answer": "is checked",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The homework is checked by the test-prep teacher.",
+      "rationales": {
+        "is checked": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The homework is checked by the test-prep teacher.",
+        "checks": "\"checks\" does not form the passive verb phrase needed here.",
+        "is checking": "\"is checking\" does not form the passive verb phrase needed here.",
+        "has check": "\"has check\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2294",
+      "level": "A1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The books ___ on the shelf after class at the park.",
+      "options": [
+        "are put",
+        "put",
+        "are putting",
+        "has put"
+      ],
+      "answer": "are put",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The books are put on the shelf after class at the park.",
+      "rationales": {
+        "are put": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The books are put on the shelf after class at the park.",
+        "put": "\"put\" does not form the passive verb phrase needed here.",
+        "are putting": "\"are putting\" does not form the passive verb phrase needed here.",
+        "has put": "\"has put\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2295",
+      "level": "A1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "Lunch ___ in the cafeteria at noon on the bus.",
+      "options": [
+        "is served",
+        "serves",
+        "is serving",
+        "has serve"
+      ],
+      "answer": "is served",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: Lunch is served in the cafeteria at noon on the bus.",
+      "rationales": {
+        "is served": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: Lunch is served in the cafeteria at noon on the bus.",
+        "serves": "\"serves\" does not form the passive verb phrase needed here.",
+        "is serving": "\"is serving\" does not form the passive verb phrase needed here.",
+        "has serve": "\"has serve\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2296",
+      "level": "A1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The room at the market ___ after class in the hallway.",
+      "options": [
+        "is cleaned",
+        "cleans",
+        "is cleaning",
+        "has clean"
+      ],
+      "answer": "is cleaned",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the market is cleaned after class in the hallway.",
+      "rationales": {
+        "is cleaned": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the market is cleaned after class in the hallway.",
+        "cleans": "\"cleans\" does not form the passive verb phrase needed here.",
+        "is cleaning": "\"is cleaning\" does not form the passive verb phrase needed here.",
+        "has clean": "\"has clean\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2297",
+      "level": "A1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The front door ___ at nine every morning with the teacher.",
+      "options": [
+        "is opened",
+        "opens it",
+        "is opening",
+        "has open"
+      ],
+      "answer": "is opened",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The front door is opened at nine every morning with the teacher.",
+      "rationales": {
+        "is opened": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The front door is opened at nine every morning with the teacher.",
+        "opens it": "\"opens it\" does not form the passive verb phrase needed here.",
+        "is opening": "\"is opening\" does not form the passive verb phrase needed here.",
+        "has open": "\"has open\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2298",
+      "level": "A1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The homework ___ by the music teacher.",
+      "options": [
+        "is checked",
+        "checks",
+        "is checking",
+        "has check"
+      ],
+      "answer": "is checked",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The homework is checked by the music teacher.",
+      "rationales": {
+        "is checked": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The homework is checked by the music teacher.",
+        "checks": "\"checks\" does not form the passive verb phrase needed here.",
+        "is checking": "\"is checking\" does not form the passive verb phrase needed here.",
+        "has check": "\"has check\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2299",
+      "level": "A1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The books ___ on the shelf after class during the lesson.",
+      "options": [
+        "are put",
+        "put",
+        "are putting",
+        "has put"
+      ],
+      "answer": "are put",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The books are put on the shelf after class during the lesson.",
+      "rationales": {
+        "are put": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The books are put on the shelf after class during the lesson.",
+        "put": "\"put\" does not form the passive verb phrase needed here.",
+        "are putting": "\"are putting\" does not form the passive verb phrase needed here.",
+        "has put": "\"has put\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a1-2300",
+      "level": "A1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "Lunch ___ in the cafeteria at noon at the front.",
+      "options": [
+        "is served",
+        "serves",
+        "is serving",
+        "has serve"
+      ],
+      "answer": "is served",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: Lunch is served in the cafeteria at noon at the front.",
+      "rationales": {
+        "is served": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: Lunch is served in the cafeteria at noon at the front.",
+        "serves": "\"serves\" does not form the passive verb phrase needed here.",
+        "is serving": "\"is serving\" does not form the passive verb phrase needed here.",
+        "has serve": "\"has serve\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2301",
+      "level": "A2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The room at the library ___ yesterday for the evening course.",
+      "options": [
+        "was cleaned",
+        "cleaned",
+        "was cleaning",
+        "has cleaned"
+      ],
+      "answer": "was cleaned",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the library was cleaned yesterday for the evening course.",
+      "rationales": {
+        "was cleaned": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the library was cleaned yesterday for the evening course.",
+        "cleaned": "\"cleaned\" does not form the passive verb phrase needed here.",
+        "was cleaning": "\"was cleaning\" does not form the passive verb phrase needed here.",
+        "has cleaned": "\"has cleaned\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2302",
+      "level": "A2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The notices ___ before lunch at the front desk.",
+      "options": [
+        "were printed",
+        "printed",
+        "were printing",
+        "has printed"
+      ],
+      "answer": "were printed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The notices were printed before lunch at the front desk.",
+      "rationales": {
+        "were printed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The notices were printed before lunch at the front desk.",
+        "printed": "\"printed\" does not form the passive verb phrase needed here.",
+        "were printing": "\"were printing\" does not form the passive verb phrase needed here.",
+        "has printed": "\"has printed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2303",
+      "level": "A2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The message ___ to every parent before registration.",
+      "options": [
+        "was sent",
+        "sent",
+        "was sending",
+        "has send"
+      ],
+      "answer": "was sent",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The message was sent to every parent before registration.",
+      "rationales": {
+        "was sent": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The message was sent to every parent before registration.",
+        "sent": "\"sent\" does not form the passive verb phrase needed here.",
+        "was sending": "\"was sending\" does not form the passive verb phrase needed here.",
+        "has send": "\"has send\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2304",
+      "level": "A2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The classroom windows ___ during the break on the class website.",
+      "options": [
+        "were opened",
+        "opened",
+        "were opening",
+        "has opened"
+      ],
+      "answer": "were opened",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The classroom windows were opened during the break on the class website.",
+      "rationales": {
+        "were opened": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The classroom windows were opened during the break on the class website.",
+        "opened": "\"opened\" does not form the passive verb phrase needed here.",
+        "were opening": "\"were opening\" does not form the passive verb phrase needed here.",
+        "has opened": "\"has opened\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2305",
+      "level": "A2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The final answer ___ on the board after the phone call.",
+      "options": [
+        "was written",
+        "wrote",
+        "was writing",
+        "has write"
+      ],
+      "answer": "was written",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The final answer was written on the board after the phone call.",
+      "rationales": {
+        "was written": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The final answer was written on the board after the phone call.",
+        "wrote": "\"wrote\" does not form the passive verb phrase needed here.",
+        "was writing": "\"was writing\" does not form the passive verb phrase needed here.",
+        "has write": "\"has write\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2306",
+      "level": "A2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The room at the museum ___ yesterday during the travel lesson.",
+      "options": [
+        "was cleaned",
+        "cleaned",
+        "was cleaning",
+        "has cleaned"
+      ],
+      "answer": "was cleaned",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the museum was cleaned yesterday during the travel lesson.",
+      "rationales": {
+        "was cleaned": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the museum was cleaned yesterday during the travel lesson.",
+        "cleaned": "\"cleaned\" does not form the passive verb phrase needed here.",
+        "was cleaning": "\"was cleaning\" does not form the passive verb phrase needed here.",
+        "has cleaned": "\"has cleaned\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2307",
+      "level": "A2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The notices ___ before lunch for the weekend trip.",
+      "options": [
+        "were printed",
+        "printed",
+        "were printing",
+        "has printed"
+      ],
+      "answer": "were printed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The notices were printed before lunch for the weekend trip.",
+      "rationales": {
+        "were printed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The notices were printed before lunch for the weekend trip.",
+        "printed": "\"printed\" does not form the passive verb phrase needed here.",
+        "were printing": "\"were printing\" does not form the passive verb phrase needed here.",
+        "has printed": "\"has printed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2308",
+      "level": "A2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The message ___ to every parent near the printer.",
+      "options": [
+        "was sent",
+        "sent",
+        "was sending",
+        "has send"
+      ],
+      "answer": "was sent",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The message was sent to every parent near the printer.",
+      "rationales": {
+        "was sent": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The message was sent to every parent near the printer.",
+        "sent": "\"sent\" does not form the passive verb phrase needed here.",
+        "was sending": "\"was sending\" does not form the passive verb phrase needed here.",
+        "has send": "\"has send\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2309",
+      "level": "A2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The classroom windows ___ during the break before the interview.",
+      "options": [
+        "were opened",
+        "opened",
+        "were opening",
+        "has opened"
+      ],
+      "answer": "were opened",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The classroom windows were opened during the break before the interview.",
+      "rationales": {
+        "were opened": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The classroom windows were opened during the break before the interview.",
+        "opened": "\"opened\" does not form the passive verb phrase needed here.",
+        "were opening": "\"were opening\" does not form the passive verb phrase needed here.",
+        "has opened": "\"has opened\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2310",
+      "level": "A2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The final answer ___ on the board on the student portal.",
+      "options": [
+        "was written",
+        "wrote",
+        "was writing",
+        "has write"
+      ],
+      "answer": "was written",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The final answer was written on the board on the student portal.",
+      "rationales": {
+        "was written": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The final answer was written on the board on the student portal.",
+        "wrote": "\"wrote\" does not form the passive verb phrase needed here.",
+        "was writing": "\"was writing\" does not form the passive verb phrase needed here.",
+        "has write": "\"has write\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2311",
+      "level": "A2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The room at the airport ___ yesterday after the reminder email.",
+      "options": [
+        "was cleaned",
+        "cleaned",
+        "was cleaning",
+        "has cleaned"
+      ],
+      "answer": "was cleaned",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the airport was cleaned yesterday after the reminder email.",
+      "rationales": {
+        "was cleaned": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the airport was cleaned yesterday after the reminder email.",
+        "cleaned": "\"cleaned\" does not form the passive verb phrase needed here.",
+        "was cleaning": "\"was cleaning\" does not form the passive verb phrase needed here.",
+        "has cleaned": "\"has cleaned\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2312",
+      "level": "A2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The notices ___ before lunch during the workshop.",
+      "options": [
+        "were printed",
+        "printed",
+        "were printing",
+        "has printed"
+      ],
+      "answer": "were printed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The notices were printed before lunch during the workshop.",
+      "rationales": {
+        "were printed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The notices were printed before lunch during the workshop.",
+        "printed": "\"printed\" does not form the passive verb phrase needed here.",
+        "were printing": "\"were printing\" does not form the passive verb phrase needed here.",
+        "has printed": "\"has printed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2313",
+      "level": "A2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The message ___ to every parent for the online task.",
+      "options": [
+        "was sent",
+        "sent",
+        "was sending",
+        "has send"
+      ],
+      "answer": "was sent",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The message was sent to every parent for the online task.",
+      "rationales": {
+        "was sent": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The message was sent to every parent for the online task.",
+        "sent": "\"sent\" does not form the passive verb phrase needed here.",
+        "was sending": "\"was sending\" does not form the passive verb phrase needed here.",
+        "has send": "\"has send\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2314",
+      "level": "A2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The classroom windows ___ during the break at the language center.",
+      "options": [
+        "were opened",
+        "opened",
+        "were opening",
+        "has opened"
+      ],
+      "answer": "were opened",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The classroom windows were opened during the break at the language center.",
+      "rationales": {
+        "were opened": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The classroom windows were opened during the break at the language center.",
+        "opened": "\"opened\" does not form the passive verb phrase needed here.",
+        "were opening": "\"were opening\" does not form the passive verb phrase needed here.",
+        "has opened": "\"has opened\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2315",
+      "level": "A2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The final answer ___ on the board before the review quiz.",
+      "options": [
+        "was written",
+        "wrote",
+        "was writing",
+        "has write"
+      ],
+      "answer": "was written",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The final answer was written on the board before the review quiz.",
+      "rationales": {
+        "was written": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The final answer was written on the board before the review quiz.",
+        "wrote": "\"wrote\" does not form the passive verb phrase needed here.",
+        "was writing": "\"was writing\" does not form the passive verb phrase needed here.",
+        "has write": "\"has write\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2316",
+      "level": "A2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The room at the market ___ yesterday on the notice board.",
+      "options": [
+        "was cleaned",
+        "cleaned",
+        "was cleaning",
+        "has cleaned"
+      ],
+      "answer": "was cleaned",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the market was cleaned yesterday on the notice board.",
+      "rationales": {
+        "was cleaned": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The room at the market was cleaned yesterday on the notice board.",
+        "cleaned": "\"cleaned\" does not form the passive verb phrase needed here.",
+        "was cleaning": "\"was cleaning\" does not form the passive verb phrase needed here.",
+        "has cleaned": "\"has cleaned\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2317",
+      "level": "A2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The notices ___ before lunch after reading the guide.",
+      "options": [
+        "were printed",
+        "printed",
+        "were printing",
+        "has printed"
+      ],
+      "answer": "were printed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The notices were printed before lunch after reading the guide.",
+      "rationales": {
+        "were printed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The notices were printed before lunch after reading the guide.",
+        "printed": "\"printed\" does not form the passive verb phrase needed here.",
+        "were printing": "\"were printing\" does not form the passive verb phrase needed here.",
+        "has printed": "\"has printed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2318",
+      "level": "A2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The message ___ to every parent near the office door.",
+      "options": [
+        "was sent",
+        "sent",
+        "was sending",
+        "has send"
+      ],
+      "answer": "was sent",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The message was sent to every parent near the office door.",
+      "rationales": {
+        "was sent": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The message was sent to every parent near the office door.",
+        "sent": "\"sent\" does not form the passive verb phrase needed here.",
+        "was sending": "\"was sending\" does not form the passive verb phrase needed here.",
+        "has send": "\"has send\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2319",
+      "level": "A2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The classroom windows ___ during the break during pair practice.",
+      "options": [
+        "were opened",
+        "opened",
+        "were opening",
+        "has opened"
+      ],
+      "answer": "were opened",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The classroom windows were opened during the break during pair practice.",
+      "rationales": {
+        "were opened": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The classroom windows were opened during the break during pair practice.",
+        "opened": "\"opened\" does not form the passive verb phrase needed here.",
+        "were opening": "\"were opening\" does not form the passive verb phrase needed here.",
+        "has opened": "\"has opened\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-a2-2320",
+      "level": "A2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The final answer ___ on the board before the form is submitted.",
+      "options": [
+        "was written",
+        "wrote",
+        "was writing",
+        "has write"
+      ],
+      "answer": "was written",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The final answer was written on the board before the form is submitted.",
+      "rationales": {
+        "was written": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The final answer was written on the board before the form is submitted.",
+        "wrote": "\"wrote\" does not form the passive verb phrase needed here.",
+        "was writing": "\"was writing\" does not form the passive verb phrase needed here.",
+        "has write": "\"has write\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2321",
+      "level": "B1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The report ___ by Mina for the registration packet.",
+      "options": [
+        "was reviewed",
+        "reviewed",
+        "has review",
+        "were reviewed"
+      ],
+      "answer": "was reviewed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The report was reviewed by Mina for the registration packet.",
+      "rationales": {
+        "was reviewed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The report was reviewed by Mina for the registration packet.",
+        "reviewed": "\"reviewed\" does not form the passive verb phrase needed here.",
+        "has review": "\"has review\" does not form the passive verb phrase needed here.",
+        "were reviewed": "\"were reviewed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2322",
+      "level": "B1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The schedule ___ by Carlos before the parents arrived.",
+      "options": [
+        "was checked",
+        "checked",
+        "has check",
+        "were checked"
+      ],
+      "answer": "was checked",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The schedule was checked by Carlos before the parents arrived.",
+      "rationales": {
+        "was checked": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The schedule was checked by Carlos before the parents arrived.",
+        "checked": "\"checked\" does not form the passive verb phrase needed here.",
+        "has check": "\"has check\" does not form the passive verb phrase needed here.",
+        "were checked": "\"were checked\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2323",
+      "level": "B1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The summary ___ by Aiko after the morning review.",
+      "options": [
+        "was written",
+        "wrote",
+        "has write",
+        "were written"
+      ],
+      "answer": "was written",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The summary was written by Aiko after the morning review.",
+      "rationales": {
+        "was written": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The summary was written by Aiko after the morning review.",
+        "wrote": "\"wrote\" does not form the passive verb phrase needed here.",
+        "has write": "\"has write\" does not form the passive verb phrase needed here.",
+        "were written": "\"were written\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2324",
+      "level": "B1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The email ___ by Nadia for the clinic archive.",
+      "options": [
+        "was sent",
+        "sent",
+        "has send",
+        "were sent"
+      ],
+      "answer": "was sent",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The email was sent by Nadia for the clinic archive.",
+      "rationales": {
+        "was sent": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The email was sent by Nadia for the clinic archive.",
+        "sent": "\"sent\" does not form the passive verb phrase needed here.",
+        "has send": "\"has send\" does not form the passive verb phrase needed here.",
+        "were sent": "\"were sent\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2325",
+      "level": "B1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The list ___ by Omar before the director returned.",
+      "options": [
+        "was updated",
+        "updated",
+        "has update",
+        "were updated"
+      ],
+      "answer": "was updated",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The list was updated by Omar before the director returned.",
+      "rationales": {
+        "was updated": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The list was updated by Omar before the director returned.",
+        "updated": "\"updated\" does not form the passive verb phrase needed here.",
+        "has update": "\"has update\" does not form the passive verb phrase needed here.",
+        "were updated": "\"were updated\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2326",
+      "level": "B1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The lesson ___ by Lena during the lunch break.",
+      "options": [
+        "was prepared",
+        "prepared",
+        "has prepare",
+        "were prepared"
+      ],
+      "answer": "was prepared",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The lesson was prepared by Lena during the lunch break.",
+      "rationales": {
+        "was prepared": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The lesson was prepared by Lena during the lunch break.",
+        "prepared": "\"prepared\" does not form the passive verb phrase needed here.",
+        "has prepare": "\"has prepare\" does not form the passive verb phrase needed here.",
+        "were prepared": "\"were prepared\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2327",
+      "level": "B1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The forms ___ by Sofia for the evening class.",
+      "options": [
+        "were printed",
+        "printed",
+        "has print",
+        "was printed"
+      ],
+      "answer": "were printed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The forms were printed by Sofia for the evening class.",
+      "rationales": {
+        "were printed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The forms were printed by Sofia for the evening class.",
+        "printed": "\"printed\" does not form the passive verb phrase needed here.",
+        "has print": "\"has print\" does not form the passive verb phrase needed here.",
+        "was printed": "\"was printed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2328",
+      "level": "B1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The office ___ by Daniel after the power outage.",
+      "options": [
+        "was opened",
+        "opened",
+        "has open",
+        "were opened"
+      ],
+      "answer": "was opened",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The office was opened by Daniel after the power outage.",
+      "rationales": {
+        "was opened": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The office was opened by Daniel after the power outage.",
+        "opened": "\"opened\" does not form the passive verb phrase needed here.",
+        "has open": "\"has open\" does not form the passive verb phrase needed here.",
+        "were opened": "\"were opened\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2329",
+      "level": "B1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The questions ___ by Rina before the applicants queued.",
+      "options": [
+        "were answered",
+        "answered",
+        "has answer",
+        "was answered"
+      ],
+      "answer": "were answered",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The questions were answered by Rina before the applicants queued.",
+      "rationales": {
+        "were answered": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The questions were answered by Rina before the applicants queued.",
+        "answered": "\"answered\" does not form the passive verb phrase needed here.",
+        "has answer": "\"has answer\" does not form the passive verb phrase needed here.",
+        "was answered": "\"was answered\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2330",
+      "level": "B1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The notice ___ by Mateo for the tutor's folder.",
+      "options": [
+        "was read",
+        "read",
+        "has read",
+        "were read"
+      ],
+      "answer": "was read",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The notice was read by Mateo for the tutor's folder.",
+      "rationales": {
+        "was read": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The notice was read by Mateo for the tutor's folder.",
+        "read": "\"read\" does not form the passive verb phrase needed here.",
+        "has read": "\"has read\" does not form the passive verb phrase needed here.",
+        "were read": "\"were read\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2331",
+      "level": "B1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The topic ___ by Hana during the office move.",
+      "options": [
+        "was chosen",
+        "chose",
+        "has choose",
+        "were chosen"
+      ],
+      "answer": "was chosen",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The topic was chosen by Hana during the office move.",
+      "rationales": {
+        "was chosen": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The topic was chosen by Hana during the office move.",
+        "chose": "\"chose\" does not form the passive verb phrase needed here.",
+        "has choose": "\"has choose\" does not form the passive verb phrase needed here.",
+        "were chosen": "\"were chosen\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2332",
+      "level": "B1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The plan ___ by Jonas after the deadline changed.",
+      "options": [
+        "was made",
+        "made",
+        "has make",
+        "were made"
+      ],
+      "answer": "was made",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The plan was made by Jonas after the deadline changed.",
+      "rationales": {
+        "was made": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The plan was made by Jonas after the deadline changed.",
+        "made": "\"made\" does not form the passive verb phrase needed here.",
+        "has make": "\"has make\" does not form the passive verb phrase needed here.",
+        "were made": "\"were made\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2333",
+      "level": "B1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The file ___ by Priya for the safety inspection.",
+      "options": [
+        "was found",
+        "found",
+        "has find",
+        "were found"
+      ],
+      "answer": "was found",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The file was found by Priya for the safety inspection.",
+      "rationales": {
+        "was found": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The file was found by Priya for the safety inspection.",
+        "found": "\"found\" does not form the passive verb phrase needed here.",
+        "has find": "\"has find\" does not form the passive verb phrase needed here.",
+        "were found": "\"were found\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2334",
+      "level": "B1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The class ___ by Kenji before the workshop opened.",
+      "options": [
+        "was taught",
+        "taught",
+        "has teach",
+        "were taught"
+      ],
+      "answer": "was taught",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The class was taught by Kenji before the workshop opened.",
+      "rationales": {
+        "was taught": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The class was taught by Kenji before the workshop opened.",
+        "taught": "\"taught\" does not form the passive verb phrase needed here.",
+        "has teach": "\"has teach\" does not form the passive verb phrase needed here.",
+        "were taught": "\"were taught\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2335",
+      "level": "B1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The documents ___ by Sara during the first session.",
+      "options": [
+        "were brought",
+        "brought",
+        "has bring",
+        "was brought"
+      ],
+      "answer": "were brought",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The documents were brought by Sara during the first session.",
+      "rationales": {
+        "were brought": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The documents were brought by Sara during the first session.",
+        "brought": "\"brought\" does not form the passive verb phrase needed here.",
+        "has bring": "\"has bring\" does not form the passive verb phrase needed here.",
+        "was brought": "\"was brought\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2336",
+      "level": "B1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The session ___ by Luis for the language center.",
+      "options": [
+        "was begun",
+        "began",
+        "has begin",
+        "were begun"
+      ],
+      "answer": "was begun",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The session was begun by Luis for the language center.",
+      "rationales": {
+        "was begun": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The session was begun by Luis for the language center.",
+        "began": "\"began\" does not form the passive verb phrase needed here.",
+        "has begin": "\"has begin\" does not form the passive verb phrase needed here.",
+        "were begun": "\"were begun\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2337",
+      "level": "B1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The application ___ by Emma after the software update.",
+      "options": [
+        "was completed",
+        "completed",
+        "has complete",
+        "were completed"
+      ],
+      "answer": "was completed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The application was completed by Emma after the software update.",
+      "rationales": {
+        "was completed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The application was completed by Emma after the software update.",
+        "completed": "\"completed\" does not form the passive verb phrase needed here.",
+        "has complete": "\"has complete\" does not form the passive verb phrase needed here.",
+        "were completed": "\"were completed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2338",
+      "level": "B1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The rule ___ by Noah before the appeal hearing.",
+      "options": [
+        "was explained",
+        "explained",
+        "has explain",
+        "were explained"
+      ],
+      "answer": "was explained",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The rule was explained by Noah before the appeal hearing.",
+      "rationales": {
+        "was explained": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The rule was explained by Noah before the appeal hearing.",
+        "explained": "\"explained\" does not form the passive verb phrase needed here.",
+        "has explain": "\"has explain\" does not form the passive verb phrase needed here.",
+        "were explained": "\"were explained\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2339",
+      "level": "B1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The results ___ by Yara during the final check.",
+      "options": [
+        "were compared",
+        "compared",
+        "has compare",
+        "was compared"
+      ],
+      "answer": "were compared",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The results were compared by Yara during the final check.",
+      "rationales": {
+        "were compared": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The results were compared by Yara during the final check.",
+        "compared": "\"compared\" does not form the passive verb phrase needed here.",
+        "has compare": "\"has compare\" does not form the passive verb phrase needed here.",
+        "was compared": "\"was compared\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b1-2340",
+      "level": "B1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The request ___ by Theo for the monthly summary.",
+      "options": [
+        "was approved",
+        "approved",
+        "has approve",
+        "were approved"
+      ],
+      "answer": "was approved",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The request was approved by Theo for the monthly summary.",
+      "rationales": {
+        "was approved": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The request was approved by Theo for the monthly summary.",
+        "approved": "\"approved\" does not form the passive verb phrase needed here.",
+        "has approve": "\"has approve\" does not form the passive verb phrase needed here.",
+        "were approved": "\"were approved\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2341",
+      "level": "B2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The attendance report ___ by three different reviewers for the registration packet.",
+      "options": [
+        "has been reviewed",
+        "has reviewed",
+        "was reviewing",
+        "have been reviewed"
+      ],
+      "answer": "has been reviewed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The attendance report has been reviewed by three different reviewers for the registration packet.",
+      "rationales": {
+        "has been reviewed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The attendance report has been reviewed by three different reviewers for the registration packet.",
+        "has reviewed": "\"has reviewed\" does not form the passive verb phrase needed here.",
+        "was reviewing": "\"was reviewing\" does not form the passive verb phrase needed here.",
+        "have been reviewed": "\"have been reviewed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2342",
+      "level": "B2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The schedule ___ by three different reviewers before the parents arrived during the policy review.",
+      "options": [
+        "has been checked",
+        "has checked",
+        "was checking",
+        "have been checked"
+      ],
+      "answer": "has been checked",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The schedule has been checked by three different reviewers before the parents arrived during the policy review.",
+      "rationales": {
+        "has been checked": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The schedule has been checked by three different reviewers before the parents arrived during the policy review.",
+        "has checked": "\"has checked\" does not form the passive verb phrase needed here.",
+        "was checking": "\"was checking\" does not form the passive verb phrase needed here.",
+        "have been checked": "\"have been checked\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2343",
+      "level": "B2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The summary ___ by three different reviewers after the morning review before the budget meeting.",
+      "options": [
+        "has been written",
+        "has written",
+        "was writing",
+        "have been written"
+      ],
+      "answer": "has been written",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The summary has been written by three different reviewers after the morning review before the budget meeting.",
+      "rationales": {
+        "has been written": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The summary has been written by three different reviewers after the morning review before the budget meeting.",
+        "has written": "\"has written\" does not form the passive verb phrase needed here.",
+        "was writing": "\"was writing\" does not form the passive verb phrase needed here.",
+        "have been written": "\"have been written\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2344",
+      "level": "B2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The email ___ by three different reviewers for the clinic archive in the manager's briefing.",
+      "options": [
+        "has been sent",
+        "has sent",
+        "was sending",
+        "have been sent"
+      ],
+      "answer": "has been sent",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The email has been sent by three different reviewers for the clinic archive in the manager's briefing.",
+      "rationales": {
+        "has been sent": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The email has been sent by three different reviewers for the clinic archive in the manager's briefing.",
+        "has sent": "\"has sent\" does not form the passive verb phrase needed here.",
+        "was sending": "\"was sending\" does not form the passive verb phrase needed here.",
+        "have been sent": "\"have been sent\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2345",
+      "level": "B2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The list ___ by three different reviewers before the director returned after the complaint review.",
+      "options": [
+        "has been updated",
+        "has updated",
+        "was updating",
+        "have been updated"
+      ],
+      "answer": "has been updated",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The list has been updated by three different reviewers before the director returned after the complaint review.",
+      "rationales": {
+        "has been updated": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The list has been updated by three different reviewers before the director returned after the complaint review.",
+        "has updated": "\"has updated\" does not form the passive verb phrase needed here.",
+        "was updating": "\"was updating\" does not form the passive verb phrase needed here.",
+        "have been updated": "\"have been updated\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2346",
+      "level": "B2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The lesson ___ by three different reviewers during the lunch break during the data check.",
+      "options": [
+        "has been prepared",
+        "has prepared",
+        "was preparing",
+        "have been prepared"
+      ],
+      "answer": "has been prepared",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The lesson has been prepared by three different reviewers during the lunch break during the data check.",
+      "rationales": {
+        "has been prepared": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The lesson has been prepared by three different reviewers during the lunch break during the data check.",
+        "has prepared": "\"has prepared\" does not form the passive verb phrase needed here.",
+        "was preparing": "\"was preparing\" does not form the passive verb phrase needed here.",
+        "have been prepared": "\"have been prepared\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2347",
+      "level": "B2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The forms ___ by three different reviewers for the evening class for the training portal.",
+      "options": [
+        "have been printed",
+        "has printed",
+        "was printing",
+        "has been printed"
+      ],
+      "answer": "have been printed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The forms have been printed by three different reviewers for the evening class for the training portal.",
+      "rationales": {
+        "have been printed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The forms have been printed by three different reviewers for the evening class for the training portal.",
+        "has printed": "\"has printed\" does not form the passive verb phrase needed here.",
+        "was printing": "\"was printing\" does not form the passive verb phrase needed here.",
+        "has been printed": "\"has been printed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2348",
+      "level": "B2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The travel office ___ by three different reviewers after the power outage.",
+      "options": [
+        "has been opened",
+        "has opened",
+        "was opening",
+        "have been opened"
+      ],
+      "answer": "has been opened",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The travel office has been opened by three different reviewers after the power outage.",
+      "rationales": {
+        "has been opened": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The travel office has been opened by three different reviewers after the power outage.",
+        "has opened": "\"has opened\" does not form the passive verb phrase needed here.",
+        "was opening": "\"was opening\" does not form the passive verb phrase needed here.",
+        "have been opened": "\"have been opened\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2349",
+      "level": "B2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The questions ___ by three different reviewers before the applicants queued in the customer update.",
+      "options": [
+        "have been answered",
+        "has answered",
+        "was answering",
+        "has been answered"
+      ],
+      "answer": "have been answered",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The questions have been answered by three different reviewers before the applicants queued in the customer update.",
+      "rationales": {
+        "have been answered": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The questions have been answered by three different reviewers before the applicants queued in the customer update.",
+        "has answered": "\"has answered\" does not form the passive verb phrase needed here.",
+        "was answering": "\"was answering\" does not form the passive verb phrase needed here.",
+        "has been answered": "\"has been answered\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2350",
+      "level": "B2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The library notice ___ by three different reviewers for the tutor's folder.",
+      "options": [
+        "has been read",
+        "has read",
+        "was reading",
+        "have been read"
+      ],
+      "answer": "has been read",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The library notice has been read by three different reviewers for the tutor's folder.",
+      "rationales": {
+        "has been read": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The library notice has been read by three different reviewers for the tutor's folder.",
+        "has read": "\"has read\" does not form the passive verb phrase needed here.",
+        "was reading": "\"was reading\" does not form the passive verb phrase needed here.",
+        "have been read": "\"have been read\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2351",
+      "level": "B2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The topic ___ by three different reviewers during the finance office move.",
+      "options": [
+        "has been chosen",
+        "has chosen",
+        "was choosing",
+        "have been chosen"
+      ],
+      "answer": "has been chosen",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The topic has been chosen by three different reviewers during the finance office move.",
+      "rationales": {
+        "has been chosen": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The topic has been chosen by three different reviewers during the finance office move.",
+        "has chosen": "\"has chosen\" does not form the passive verb phrase needed here.",
+        "was choosing": "\"was choosing\" does not form the passive verb phrase needed here.",
+        "have been chosen": "\"have been chosen\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2352",
+      "level": "B2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The plan ___ by three different reviewers after the deadline changed for the project dashboard.",
+      "options": [
+        "has been made",
+        "has made",
+        "was making",
+        "have been made"
+      ],
+      "answer": "has been made",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The plan has been made by three different reviewers after the deadline changed for the project dashboard.",
+      "rationales": {
+        "has been made": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The plan has been made by three different reviewers after the deadline changed for the project dashboard.",
+        "has made": "\"has made\" does not form the passive verb phrase needed here.",
+        "was making": "\"was making\" does not form the passive verb phrase needed here.",
+        "have been made": "\"have been made\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2353",
+      "level": "B2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The file ___ by three different reviewers for the safety inspection before the board discussion.",
+      "options": [
+        "has been found",
+        "has found",
+        "was finding",
+        "have been found"
+      ],
+      "answer": "has been found",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The file has been found by three different reviewers for the safety inspection before the board discussion.",
+      "rationales": {
+        "has been found": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The file has been found by three different reviewers for the safety inspection before the board discussion.",
+        "has found": "\"has found\" does not form the passive verb phrase needed here.",
+        "was finding": "\"was finding\" does not form the passive verb phrase needed here.",
+        "have been found": "\"have been found\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2354",
+      "level": "B2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The summer class ___ by three different reviewers before the workshop opened.",
+      "options": [
+        "has been taught",
+        "has taught",
+        "was teaching",
+        "have been taught"
+      ],
+      "answer": "has been taught",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The summer class has been taught by three different reviewers before the workshop opened.",
+      "rationales": {
+        "has been taught": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The summer class has been taught by three different reviewers before the workshop opened.",
+        "has taught": "\"has taught\" does not form the passive verb phrase needed here.",
+        "was teaching": "\"was teaching\" does not form the passive verb phrase needed here.",
+        "have been taught": "\"have been taught\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2355",
+      "level": "B2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The documents ___ by three different reviewers during the first session after the service report.",
+      "options": [
+        "have been brought",
+        "has brought",
+        "was bringing",
+        "has been brought"
+      ],
+      "answer": "have been brought",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The documents have been brought by three different reviewers during the first session after the service report.",
+      "rationales": {
+        "have been brought": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The documents have been brought by three different reviewers during the first session after the service report.",
+        "has brought": "\"has brought\" does not form the passive verb phrase needed here.",
+        "was bringing": "\"was bringing\" does not form the passive verb phrase needed here.",
+        "has been brought": "\"has been brought\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2356",
+      "level": "B2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The session ___ by three different reviewers for the language center during the operations review.",
+      "options": [
+        "has been begun",
+        "has begun",
+        "was beginning",
+        "have been begun"
+      ],
+      "answer": "has been begun",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The session has been begun by three different reviewers for the language center during the operations review.",
+      "rationales": {
+        "has been begun": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The session has been begun by three different reviewers for the language center during the operations review.",
+        "has begun": "\"has begun\" does not form the passive verb phrase needed here.",
+        "was beginning": "\"was beginning\" does not form the passive verb phrase needed here.",
+        "have been begun": "\"have been begun\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2357",
+      "level": "B2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The application ___ by three different reviewers after the software update for the quarterly summary.",
+      "options": [
+        "has been completed",
+        "has completed",
+        "was completing",
+        "have been completed"
+      ],
+      "answer": "has been completed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The application has been completed by three different reviewers after the software update for the quarterly summary.",
+      "rationales": {
+        "has been completed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The application has been completed by three different reviewers after the software update for the quarterly summary.",
+        "has completed": "\"has completed\" does not form the passive verb phrase needed here.",
+        "was completing": "\"was completing\" does not form the passive verb phrase needed here.",
+        "have been completed": "\"have been completed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2358",
+      "level": "B2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The rule ___ by three different reviewers before the appeal hearing before the compliance check.",
+      "options": [
+        "has been explained",
+        "has explained",
+        "was explaining",
+        "have been explained"
+      ],
+      "answer": "has been explained",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The rule has been explained by three different reviewers before the appeal hearing before the compliance check.",
+      "rationales": {
+        "has been explained": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The rule has been explained by three different reviewers before the appeal hearing before the compliance check.",
+        "has explained": "\"has explained\" does not form the passive verb phrase needed here.",
+        "was explaining": "\"was explaining\" does not form the passive verb phrase needed here.",
+        "have been explained": "\"have been explained\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2359",
+      "level": "B2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The results ___ by three different reviewers during the final check in the evaluation memo.",
+      "options": [
+        "have been compared",
+        "has compared",
+        "was comparing",
+        "has been compared"
+      ],
+      "answer": "have been compared",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The results have been compared by three different reviewers during the final check in the evaluation memo.",
+      "rationales": {
+        "have been compared": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The results have been compared by three different reviewers during the final check in the evaluation memo.",
+        "has compared": "\"has compared\" does not form the passive verb phrase needed here.",
+        "was comparing": "\"was comparing\" does not form the passive verb phrase needed here.",
+        "has been compared": "\"has been compared\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-b2-2360",
+      "level": "B2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The request ___ by three different reviewers for the monthly summary after the final interview.",
+      "options": [
+        "has been approved",
+        "has approved",
+        "was approving",
+        "have been approved"
+      ],
+      "answer": "has been approved",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The request has been approved by three different reviewers for the monthly summary after the final interview.",
+      "rationales": {
+        "has been approved": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The request has been approved by three different reviewers for the monthly summary after the final interview.",
+        "has approved": "\"has approved\" does not form the passive verb phrase needed here.",
+        "was approving": "\"was approving\" does not form the passive verb phrase needed here.",
+        "have been approved": "\"have been approved\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2361",
+      "level": "C1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The attendance report should ___ before it is shared.",
+      "options": [
+        "be reviewed",
+        "review",
+        "being reviewed",
+        "have reviewed"
+      ],
+      "answer": "be reviewed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The attendance report should be reviewed before it is shared.",
+      "rationales": {
+        "be reviewed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The attendance report should be reviewed before it is shared.",
+        "review": "\"review\" does not form the passive verb phrase needed here.",
+        "being reviewed": "\"being reviewed\" does not form the passive verb phrase needed here.",
+        "have reviewed": "\"have reviewed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2362",
+      "level": "C1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "All names must ___ before the data are published in the methodology section.",
+      "options": [
+        "be removed",
+        "remove",
+        "being removed",
+        "have removed"
+      ],
+      "answer": "be removed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: All names must be removed before the data are published in the methodology section.",
+      "rationales": {
+        "be removed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: All names must be removed before the data are published in the methodology section.",
+        "remove": "\"remove\" does not form the passive verb phrase needed here.",
+        "being removed": "\"being removed\" does not form the passive verb phrase needed here.",
+        "have removed": "\"have removed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2363",
+      "level": "C1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The revised policy ought to ___ by legal staff during the stakeholder meeting.",
+      "options": [
+        "be checked",
+        "check",
+        "being checked",
+        "have checked"
+      ],
+      "answer": "be checked",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The revised policy ought to be checked by legal staff during the stakeholder meeting.",
+      "rationales": {
+        "be checked": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The revised policy ought to be checked by legal staff during the stakeholder meeting.",
+        "check": "\"check\" does not form the passive verb phrase needed here.",
+        "being checked": "\"being checked\" does not form the passive verb phrase needed here.",
+        "have checked": "\"have checked\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2364",
+      "level": "C1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The survey results need to ___ in context before the recommendation is issued.",
+      "options": [
+        "be interpreted",
+        "interpret",
+        "being interpreted",
+        "have interpreted"
+      ],
+      "answer": "be interpreted",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The survey results need to be interpreted in context before the recommendation is issued.",
+      "rationales": {
+        "be interpreted": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The survey results need to be interpreted in context before the recommendation is issued.",
+        "interpret": "\"interpret\" does not form the passive verb phrase needed here.",
+        "being interpreted": "\"being interpreted\" does not form the passive verb phrase needed here.",
+        "have interpreted": "\"have interpreted\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2365",
+      "level": "C1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The complaint is likely to ___ at the next meeting after the evidence is compared.",
+      "options": [
+        "be discussed",
+        "discuss",
+        "being discussed",
+        "have discussed"
+      ],
+      "answer": "be discussed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The complaint is likely to be discussed at the next meeting after the evidence is compared.",
+      "rationales": {
+        "be discussed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The complaint is likely to be discussed at the next meeting after the evidence is compared.",
+        "discuss": "\"discuss\" does not form the passive verb phrase needed here.",
+        "being discussed": "\"being discussed\" does not form the passive verb phrase needed here.",
+        "have discussed": "\"have discussed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2366",
+      "level": "C1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The chart should ___ before it is shared during the compliance review.",
+      "options": [
+        "be reviewed",
+        "review",
+        "being reviewed",
+        "have reviewed"
+      ],
+      "answer": "be reviewed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The chart should be reviewed before it is shared during the compliance review.",
+      "rationales": {
+        "be reviewed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The chart should be reviewed before it is shared during the compliance review.",
+        "review": "\"review\" does not form the passive verb phrase needed here.",
+        "being reviewed": "\"being reviewed\" does not form the passive verb phrase needed here.",
+        "have reviewed": "\"have reviewed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2367",
+      "level": "C1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "All names must ___ before the data are published on the evaluation form.",
+      "options": [
+        "be removed",
+        "remove",
+        "being removed",
+        "have removed"
+      ],
+      "answer": "be removed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: All names must be removed before the data are published on the evaluation form.",
+      "rationales": {
+        "be removed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: All names must be removed before the data are published on the evaluation form.",
+        "remove": "\"remove\" does not form the passive verb phrase needed here.",
+        "being removed": "\"being removed\" does not form the passive verb phrase needed here.",
+        "have removed": "\"have removed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2368",
+      "level": "C1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The revised policy ought to ___ by legal staff after the pilot program.",
+      "options": [
+        "be checked",
+        "check",
+        "being checked",
+        "have checked"
+      ],
+      "answer": "be checked",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The revised policy ought to be checked by legal staff after the pilot program.",
+      "rationales": {
+        "be checked": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The revised policy ought to be checked by legal staff after the pilot program.",
+        "check": "\"check\" does not form the passive verb phrase needed here.",
+        "being checked": "\"being checked\" does not form the passive verb phrase needed here.",
+        "have checked": "\"have checked\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2369",
+      "level": "C1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The survey results need to ___ in context before the findings are published.",
+      "options": [
+        "be interpreted",
+        "interpret",
+        "being interpreted",
+        "have interpreted"
+      ],
+      "answer": "be interpreted",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The survey results need to be interpreted in context before the findings are published.",
+      "rationales": {
+        "be interpreted": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The survey results need to be interpreted in context before the findings are published.",
+        "interpret": "\"interpret\" does not form the passive verb phrase needed here.",
+        "being interpreted": "\"being interpreted\" does not form the passive verb phrase needed here.",
+        "have interpreted": "\"have interpreted\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2370",
+      "level": "C1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The complaint is likely to ___ at the next meeting in the grant application.",
+      "options": [
+        "be discussed",
+        "discuss",
+        "being discussed",
+        "have discussed"
+      ],
+      "answer": "be discussed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The complaint is likely to be discussed at the next meeting in the grant application.",
+      "rationales": {
+        "be discussed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The complaint is likely to be discussed at the next meeting in the grant application.",
+        "discuss": "\"discuss\" does not form the passive verb phrase needed here.",
+        "being discussed": "\"being discussed\" does not form the passive verb phrase needed here.",
+        "have discussed": "\"have discussed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2371",
+      "level": "C1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The lesson plan should ___ before it is shared during the seminar discussion.",
+      "options": [
+        "be reviewed",
+        "review",
+        "being reviewed",
+        "have reviewed"
+      ],
+      "answer": "be reviewed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The lesson plan should be reviewed before it is shared during the seminar discussion.",
+      "rationales": {
+        "be reviewed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The lesson plan should be reviewed before it is shared during the seminar discussion.",
+        "review": "\"review\" does not form the passive verb phrase needed here.",
+        "being reviewed": "\"being reviewed\" does not form the passive verb phrase needed here.",
+        "have reviewed": "\"have reviewed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2372",
+      "level": "C1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "All names must ___ before the data are published on the risk assessment.",
+      "options": [
+        "be removed",
+        "remove",
+        "being removed",
+        "have removed"
+      ],
+      "answer": "be removed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: All names must be removed before the data are published on the risk assessment.",
+      "rationales": {
+        "be removed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: All names must be removed before the data are published on the risk assessment.",
+        "remove": "\"remove\" does not form the passive verb phrase needed here.",
+        "being removed": "\"being removed\" does not form the passive verb phrase needed here.",
+        "have removed": "\"have removed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2373",
+      "level": "C1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The revised policy ought to ___ by legal staff after the interviews are coded.",
+      "options": [
+        "be checked",
+        "check",
+        "being checked",
+        "have checked"
+      ],
+      "answer": "be checked",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The revised policy ought to be checked by legal staff after the interviews are coded.",
+      "rationales": {
+        "be checked": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The revised policy ought to be checked by legal staff after the interviews are coded.",
+        "check": "\"check\" does not form the passive verb phrase needed here.",
+        "being checked": "\"being checked\" does not form the passive verb phrase needed here.",
+        "have checked": "\"have checked\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2374",
+      "level": "C1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The survey results need to ___ in context before the final vote.",
+      "options": [
+        "be interpreted",
+        "interpret",
+        "being interpreted",
+        "have interpreted"
+      ],
+      "answer": "be interpreted",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The survey results need to be interpreted in context before the final vote.",
+      "rationales": {
+        "be interpreted": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The survey results need to be interpreted in context before the final vote.",
+        "interpret": "\"interpret\" does not form the passive verb phrase needed here.",
+        "being interpreted": "\"being interpreted\" does not form the passive verb phrase needed here.",
+        "have interpreted": "\"have interpreted\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2375",
+      "level": "C1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The complaint is likely to ___ at the next meeting in the appendix note.",
+      "options": [
+        "be discussed",
+        "discuss",
+        "being discussed",
+        "have discussed"
+      ],
+      "answer": "be discussed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The complaint is likely to be discussed at the next meeting in the appendix note.",
+      "rationales": {
+        "be discussed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The complaint is likely to be discussed at the next meeting in the appendix note.",
+        "discuss": "\"discuss\" does not form the passive verb phrase needed here.",
+        "being discussed": "\"being discussed\" does not form the passive verb phrase needed here.",
+        "have discussed": "\"have discussed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2376",
+      "level": "C1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The agenda should ___ before it is shared for the advisory brief.",
+      "options": [
+        "be reviewed",
+        "review",
+        "being reviewed",
+        "have reviewed"
+      ],
+      "answer": "be reviewed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The agenda should be reviewed before it is shared for the advisory brief.",
+      "rationales": {
+        "be reviewed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The agenda should be reviewed before it is shared for the advisory brief.",
+        "review": "\"review\" does not form the passive verb phrase needed here.",
+        "being reviewed": "\"being reviewed\" does not form the passive verb phrase needed here.",
+        "have reviewed": "\"have reviewed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2377",
+      "level": "C1",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "All names must ___ before the data are published during the protocol review.",
+      "options": [
+        "be removed",
+        "remove",
+        "being removed",
+        "have removed"
+      ],
+      "answer": "be removed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: All names must be removed before the data are published during the protocol review.",
+      "rationales": {
+        "be removed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: All names must be removed before the data are published during the protocol review.",
+        "remove": "\"remove\" does not form the passive verb phrase needed here.",
+        "being removed": "\"being removed\" does not form the passive verb phrase needed here.",
+        "have removed": "\"have removed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2378",
+      "level": "C1",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The revised policy ought to ___ by legal staff on the evidence table.",
+      "options": [
+        "be checked",
+        "check",
+        "being checked",
+        "have checked"
+      ],
+      "answer": "be checked",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The revised policy ought to be checked by legal staff on the evidence table.",
+      "rationales": {
+        "be checked": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The revised policy ought to be checked by legal staff on the evidence table.",
+        "check": "\"check\" does not form the passive verb phrase needed here.",
+        "being checked": "\"being checked\" does not form the passive verb phrase needed here.",
+        "have checked": "\"have checked\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2379",
+      "level": "C1",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The survey results need to ___ in context before the policy draft.",
+      "options": [
+        "be interpreted",
+        "interpret",
+        "being interpreted",
+        "have interpreted"
+      ],
+      "answer": "be interpreted",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The survey results need to be interpreted in context before the policy draft.",
+      "rationales": {
+        "be interpreted": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The survey results need to be interpreted in context before the policy draft.",
+        "interpret": "\"interpret\" does not form the passive verb phrase needed here.",
+        "being interpreted": "\"being interpreted\" does not form the passive verb phrase needed here.",
+        "have interpreted": "\"have interpreted\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c1-2380",
+      "level": "C1",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The complaint is likely to ___ at the next meeting in the assessment rubric.",
+      "options": [
+        "be discussed",
+        "discuss",
+        "being discussed",
+        "have discussed"
+      ],
+      "answer": "be discussed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The complaint is likely to be discussed at the next meeting in the assessment rubric.",
+      "rationales": {
+        "be discussed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The complaint is likely to be discussed at the next meeting in the assessment rubric.",
+        "discuss": "\"discuss\" does not form the passive verb phrase needed here.",
+        "being discussed": "\"being discussed\" does not form the passive verb phrase needed here.",
+        "have discussed": "\"have discussed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2381",
+      "level": "C2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The mistake in the attendance report is believed ___ during the final update.",
+      "options": [
+        "to have been introduced",
+        "to introduce",
+        "being introduced",
+        "was introduced"
+      ],
+      "answer": "to have been introduced",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The mistake in the attendance report is believed to have been introduced during the final update.",
+      "rationales": {
+        "to have been introduced": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The mistake in the attendance report is believed to have been introduced during the final update.",
+        "to introduce": "\"to introduce\" does not form the passive verb phrase needed here.",
+        "being introduced": "\"being introduced\" does not form the passive verb phrase needed here.",
+        "was introduced": "\"was introduced\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2382",
+      "level": "C2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The records are alleged ___ without proper consent during the evidentiary hearing.",
+      "options": [
+        "to have been disclosed",
+        "to disclose",
+        "being disclosed",
+        "were disclosed"
+      ],
+      "answer": "to have been disclosed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The records are alleged to have been disclosed without proper consent during the evidentiary hearing.",
+      "rationales": {
+        "to have been disclosed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The records are alleged to have been disclosed without proper consent during the evidentiary hearing.",
+        "to disclose": "\"to disclose\" does not form the passive verb phrase needed here.",
+        "being disclosed": "\"being disclosed\" does not form the passive verb phrase needed here.",
+        "were disclosed": "\"were disclosed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2383",
+      "level": "C2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The clause is understood ___ narrowly in recent decisions before the arbitration panel meets.",
+      "options": [
+        "to have been interpreted",
+        "to interpret",
+        "being interpreted",
+        "was interpreted"
+      ],
+      "answer": "to have been interpreted",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The clause is understood to have been interpreted narrowly in recent decisions before the arbitration panel meets.",
+      "rationales": {
+        "to have been interpreted": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The clause is understood to have been interpreted narrowly in recent decisions before the arbitration panel meets.",
+        "to interpret": "\"to interpret\" does not form the passive verb phrase needed here.",
+        "being interpreted": "\"being interpreted\" does not form the passive verb phrase needed here.",
+        "was interpreted": "\"was interpreted\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2384",
+      "level": "C2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The objection is expected ___ during the hearing in the fiduciary briefing.",
+      "options": [
+        "to be addressed",
+        "to address",
+        "being addressed",
+        "was addressed"
+      ],
+      "answer": "to be addressed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The objection is expected to be addressed during the hearing in the fiduciary briefing.",
+      "rationales": {
+        "to be addressed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The objection is expected to be addressed during the hearing in the fiduciary briefing.",
+        "to address": "\"to address\" does not form the passive verb phrase needed here.",
+        "being addressed": "\"being addressed\" does not form the passive verb phrase needed here.",
+        "was addressed": "\"was addressed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2385",
+      "level": "C2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The findings are said ___ by later interviews after the methodological critique.",
+      "options": [
+        "to have been corroborated",
+        "to corroborate",
+        "being corroborated",
+        "were corroborated"
+      ],
+      "answer": "to have been corroborated",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The findings are said to have been corroborated by later interviews after the methodological critique.",
+      "rationales": {
+        "to have been corroborated": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The findings are said to have been corroborated by later interviews after the methodological critique.",
+        "to corroborate": "\"to corroborate\" does not form the passive verb phrase needed here.",
+        "being corroborated": "\"being corroborated\" does not form the passive verb phrase needed here.",
+        "were corroborated": "\"were corroborated\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2386",
+      "level": "C2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The mistake in the chart is believed ___ during the final update before the precedent is cited.",
+      "options": [
+        "to have been introduced",
+        "to introduce",
+        "being introduced",
+        "was introduced"
+      ],
+      "answer": "to have been introduced",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The mistake in the chart is believed to have been introduced during the final update before the precedent is cited.",
+      "rationales": {
+        "to have been introduced": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The mistake in the chart is believed to have been introduced during the final update before the precedent is cited.",
+        "to introduce": "\"to introduce\" does not form the passive verb phrase needed here.",
+        "being introduced": "\"being introduced\" does not form the passive verb phrase needed here.",
+        "was introduced": "\"was introduced\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2387",
+      "level": "C2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The records are alleged ___ without proper consent in the interpretive framework.",
+      "options": [
+        "to have been disclosed",
+        "to disclose",
+        "being disclosed",
+        "were disclosed"
+      ],
+      "answer": "to have been disclosed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The records are alleged to have been disclosed without proper consent in the interpretive framework.",
+      "rationales": {
+        "to have been disclosed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The records are alleged to have been disclosed without proper consent in the interpretive framework.",
+        "to disclose": "\"to disclose\" does not form the passive verb phrase needed here.",
+        "being disclosed": "\"being disclosed\" does not form the passive verb phrase needed here.",
+        "were disclosed": "\"were disclosed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2388",
+      "level": "C2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The clause is understood ___ narrowly in recent decisions during the appellate review.",
+      "options": [
+        "to have been interpreted",
+        "to interpret",
+        "being interpreted",
+        "was interpreted"
+      ],
+      "answer": "to have been interpreted",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The clause is understood to have been interpreted narrowly in recent decisions during the appellate review.",
+      "rationales": {
+        "to have been interpreted": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The clause is understood to have been interpreted narrowly in recent decisions during the appellate review.",
+        "to interpret": "\"to interpret\" does not form the passive verb phrase needed here.",
+        "being interpreted": "\"being interpreted\" does not form the passive verb phrase needed here.",
+        "was interpreted": "\"was interpreted\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2389",
+      "level": "C2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The objection is expected ___ during the hearing in the technical memorandum.",
+      "options": [
+        "to be addressed",
+        "to address",
+        "being addressed",
+        "was addressed"
+      ],
+      "answer": "to be addressed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The objection is expected to be addressed during the hearing in the technical memorandum.",
+      "rationales": {
+        "to be addressed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The objection is expected to be addressed during the hearing in the technical memorandum.",
+        "to address": "\"to address\" does not form the passive verb phrase needed here.",
+        "being addressed": "\"being addressed\" does not form the passive verb phrase needed here.",
+        "was addressed": "\"was addressed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2390",
+      "level": "C2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The findings are said ___ by later interviews after the objections are synthesized.",
+      "options": [
+        "to have been corroborated",
+        "to corroborate",
+        "being corroborated",
+        "were corroborated"
+      ],
+      "answer": "to have been corroborated",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The findings are said to have been corroborated by later interviews after the objections are synthesized.",
+      "rationales": {
+        "to have been corroborated": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The findings are said to have been corroborated by later interviews after the objections are synthesized.",
+        "to corroborate": "\"to corroborate\" does not form the passive verb phrase needed here.",
+        "being corroborated": "\"being corroborated\" does not form the passive verb phrase needed here.",
+        "were corroborated": "\"were corroborated\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2391",
+      "level": "C2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The mistake in the lesson plan is believed ___ during the final update before the caveat is removed.",
+      "options": [
+        "to have been introduced",
+        "to introduce",
+        "being introduced",
+        "was introduced"
+      ],
+      "answer": "to have been introduced",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The mistake in the lesson plan is believed to have been introduced during the final update before the caveat is removed.",
+      "rationales": {
+        "to have been introduced": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The mistake in the lesson plan is believed to have been introduced during the final update before the caveat is removed.",
+        "to introduce": "\"to introduce\" does not form the passive verb phrase needed here.",
+        "being introduced": "\"being introduced\" does not form the passive verb phrase needed here.",
+        "was introduced": "\"was introduced\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2392",
+      "level": "C2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The records are alleged ___ without proper consent in the published corrigendum.",
+      "options": [
+        "to have been disclosed",
+        "to disclose",
+        "being disclosed",
+        "were disclosed"
+      ],
+      "answer": "to have been disclosed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The records are alleged to have been disclosed without proper consent in the published corrigendum.",
+      "rationales": {
+        "to have been disclosed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The records are alleged to have been disclosed without proper consent in the published corrigendum.",
+        "to disclose": "\"to disclose\" does not form the passive verb phrase needed here.",
+        "being disclosed": "\"being disclosed\" does not form the passive verb phrase needed here.",
+        "were disclosed": "\"were disclosed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2393",
+      "level": "C2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The clause is understood ___ narrowly in recent decisions during the ethics review.",
+      "options": [
+        "to have been interpreted",
+        "to interpret",
+        "being interpreted",
+        "was interpreted"
+      ],
+      "answer": "to have been interpreted",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The clause is understood to have been interpreted narrowly in recent decisions during the ethics review.",
+      "rationales": {
+        "to have been interpreted": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The clause is understood to have been interpreted narrowly in recent decisions during the ethics review.",
+        "to interpret": "\"to interpret\" does not form the passive verb phrase needed here.",
+        "being interpreted": "\"being interpreted\" does not form the passive verb phrase needed here.",
+        "was interpreted": "\"was interpreted\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2394",
+      "level": "C2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The objection is expected ___ during the hearing on the counterargument table.",
+      "options": [
+        "to be addressed",
+        "to address",
+        "being addressed",
+        "was addressed"
+      ],
+      "answer": "to be addressed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The objection is expected to be addressed during the hearing on the counterargument table.",
+      "rationales": {
+        "to be addressed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The objection is expected to be addressed during the hearing on the counterargument table.",
+        "to address": "\"to address\" does not form the passive verb phrase needed here.",
+        "being addressed": "\"being addressed\" does not form the passive verb phrase needed here.",
+        "was addressed": "\"was addressed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2395",
+      "level": "C2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The findings are said ___ by later interviews before the final adjudication.",
+      "options": [
+        "to have been corroborated",
+        "to corroborate",
+        "being corroborated",
+        "were corroborated"
+      ],
+      "answer": "to have been corroborated",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The findings are said to have been corroborated by later interviews before the final adjudication.",
+      "rationales": {
+        "to have been corroborated": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The findings are said to have been corroborated by later interviews before the final adjudication.",
+        "to corroborate": "\"to corroborate\" does not form the passive verb phrase needed here.",
+        "being corroborated": "\"being corroborated\" does not form the passive verb phrase needed here.",
+        "were corroborated": "\"were corroborated\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2396",
+      "level": "C2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The mistake in the agenda is believed ___ during the final update in the statutory analysis.",
+      "options": [
+        "to have been introduced",
+        "to introduce",
+        "being introduced",
+        "was introduced"
+      ],
+      "answer": "to have been introduced",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The mistake in the agenda is believed to have been introduced during the final update in the statutory analysis.",
+      "rationales": {
+        "to have been introduced": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The mistake in the agenda is believed to have been introduced during the final update in the statutory analysis.",
+        "to introduce": "\"to introduce\" does not form the passive verb phrase needed here.",
+        "being introduced": "\"being introduced\" does not form the passive verb phrase needed here.",
+        "was introduced": "\"was introduced\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2397",
+      "level": "C2",
+      "setupText": "The sentence describes what happened to a document yesterday.",
+      "taskText": "The records are alleged ___ without proper consent during expert testimony.",
+      "options": [
+        "to have been disclosed",
+        "to disclose",
+        "being disclosed",
+        "were disclosed"
+      ],
+      "answer": "to have been disclosed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The records are alleged to have been disclosed without proper consent during expert testimony.",
+      "rationales": {
+        "to have been disclosed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The records are alleged to have been disclosed without proper consent during expert testimony.",
+        "to disclose": "\"to disclose\" does not form the passive verb phrase needed here.",
+        "being disclosed": "\"being disclosed\" does not form the passive verb phrase needed here.",
+        "were disclosed": "\"were disclosed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2398",
+      "level": "C2",
+      "setupText": "The focus is on the thing, not the person.",
+      "taskText": "The clause is understood ___ narrowly in recent decisions in the compliance addendum.",
+      "options": [
+        "to have been interpreted",
+        "to interpret",
+        "being interpreted",
+        "was interpreted"
+      ],
+      "answer": "to have been interpreted",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The clause is understood to have been interpreted narrowly in recent decisions in the compliance addendum.",
+      "rationales": {
+        "to have been interpreted": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The clause is understood to have been interpreted narrowly in recent decisions in the compliance addendum.",
+        "to interpret": "\"to interpret\" does not form the passive verb phrase needed here.",
+        "being interpreted": "\"being interpreted\" does not form the passive verb phrase needed here.",
+        "was interpreted": "\"was interpreted\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2399",
+      "level": "C2",
+      "setupText": "Choose the form that shows the document received the action.",
+      "taskText": "The objection is expected ___ during the hearing after the longitudinal model is revised.",
+      "options": [
+        "to be addressed",
+        "to address",
+        "being addressed",
+        "was addressed"
+      ],
+      "answer": "to be addressed",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The objection is expected to be addressed during the hearing after the longitudinal model is revised.",
+      "rationales": {
+        "to be addressed": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The objection is expected to be addressed during the hearing after the longitudinal model is revised.",
+        "to address": "\"to address\" does not form the passive verb phrase needed here.",
+        "being addressed": "\"being addressed\" does not form the passive verb phrase needed here.",
+        "was addressed": "\"was addressed\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-passive-voice-c2-2400",
+      "level": "C2",
+      "setupText": "The by phrase names who did the action.",
+      "taskText": "The findings are said ___ by later interviews before the ruling is issued.",
+      "options": [
+        "to have been corroborated",
+        "to corroborate",
+        "being corroborated",
+        "were corroborated"
+      ],
+      "answer": "to have been corroborated",
+      "explanation": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The findings are said to have been corroborated by later interviews before the ruling is issued.",
+      "rationales": {
+        "to have been corroborated": "The focus is on the thing receiving the action, so passive voice is needed. The completed sentence is: The findings are said to have been corroborated by later interviews before the ruling is issued.",
+        "to corroborate": "\"to corroborate\" does not form the passive verb phrase needed here.",
+        "being corroborated": "\"being corroborated\" does not form the passive verb phrase needed here.",
+        "were corroborated": "\"were corroborated\" does not form the passive verb phrase needed here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

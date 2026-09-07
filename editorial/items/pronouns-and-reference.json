@@ -1,0 +1,2766 @@
+{
+  "topic": "Pronouns and reference",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-pronouns-and-reference-a1-2641",
+      "level": "A1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "Mina has a book. ___ is on the desk.",
+      "options": [
+        "It",
+        "They",
+        "Them",
+        "She"
+      ],
+      "answer": "It",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Mina has a book. It is on the desk.",
+      "rationales": {
+        "It": "The pronoun must clearly point to the right person or thing. The completed sentence is: Mina has a book. It is on the desk.",
+        "They": "\"They\" does not clearly refer to the right person or thing.",
+        "Them": "\"Them\" does not clearly refer to the right person or thing.",
+        "She": "\"She\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2642",
+      "level": "A1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The girl is in class. ___ has a red bag in class.",
+      "options": [
+        "She",
+        "It",
+        "They",
+        "Her"
+      ],
+      "answer": "She",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The girl is in class. She has a red bag in class.",
+      "rationales": {
+        "She": "The pronoun must clearly point to the right person or thing. The completed sentence is: The girl is in class. She has a red bag in class.",
+        "It": "\"It\" does not clearly refer to the right person or thing.",
+        "They": "\"They\" does not clearly refer to the right person or thing.",
+        "Her": "\"Her\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2643",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The boys are outside. ___ are playing soccer after lunch.",
+      "options": [
+        "They",
+        "He",
+        "Them",
+        "It"
+      ],
+      "answer": "They",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boys are outside. They are playing soccer after lunch.",
+      "rationales": {
+        "They": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boys are outside. They are playing soccer after lunch.",
+        "He": "\"He\" does not clearly refer to the right person or thing.",
+        "Them": "\"Them\" does not clearly refer to the right person or thing.",
+        "It": "\"It\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2644",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The writing teacher gave the papers to ___.",
+      "options": [
+        "us",
+        "we",
+        "our",
+        "ours"
+      ],
+      "answer": "us",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The writing teacher gave the papers to us.",
+      "rationales": {
+        "us": "The pronoun must clearly point to the right person or thing. The completed sentence is: The writing teacher gave the papers to us.",
+        "we": "\"we\" does not clearly refer to the right person or thing.",
+        "our": "\"our\" does not clearly refer to the right person or thing.",
+        "ours": "\"ours\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2645",
+      "level": "A1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The boy cannot find ___ pencil this morning.",
+      "options": [
+        "his",
+        "he",
+        "him",
+        "they"
+      ],
+      "answer": "his",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boy cannot find his pencil this morning.",
+      "rationales": {
+        "his": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boy cannot find his pencil this morning.",
+        "he": "\"he\" does not clearly refer to the right person or thing.",
+        "him": "\"him\" does not clearly refer to the right person or thing.",
+        "they": "\"they\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2646",
+      "level": "A1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "Lena has a book. ___ is on the desk.",
+      "options": [
+        "It",
+        "They",
+        "Them",
+        "She"
+      ],
+      "answer": "It",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Lena has a book. It is on the desk.",
+      "rationales": {
+        "It": "The pronoun must clearly point to the right person or thing. The completed sentence is: Lena has a book. It is on the desk.",
+        "They": "\"They\" does not clearly refer to the right person or thing.",
+        "Them": "\"Them\" does not clearly refer to the right person or thing.",
+        "She": "\"She\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2647",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The girl is in class. ___ has a red bag near the door.",
+      "options": [
+        "She",
+        "It",
+        "They",
+        "Her"
+      ],
+      "answer": "She",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The girl is in class. She has a red bag near the door.",
+      "rationales": {
+        "She": "The pronoun must clearly point to the right person or thing. The completed sentence is: The girl is in class. She has a red bag near the door.",
+        "It": "\"It\" does not clearly refer to the right person or thing.",
+        "They": "\"They\" does not clearly refer to the right person or thing.",
+        "Her": "\"Her\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2648",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The boys are outside. ___ are playing soccer at home.",
+      "options": [
+        "They",
+        "He",
+        "Them",
+        "It"
+      ],
+      "answer": "They",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boys are outside. They are playing soccer at home.",
+      "rationales": {
+        "They": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boys are outside. They are playing soccer at home.",
+        "He": "\"He\" does not clearly refer to the right person or thing.",
+        "Them": "\"Them\" does not clearly refer to the right person or thing.",
+        "It": "\"It\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2649",
+      "level": "A1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The online teacher gave the papers to ___.",
+      "options": [
+        "us",
+        "we",
+        "our",
+        "ours"
+      ],
+      "answer": "us",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The online teacher gave the papers to us.",
+      "rationales": {
+        "us": "The pronoun must clearly point to the right person or thing. The completed sentence is: The online teacher gave the papers to us.",
+        "we": "\"we\" does not clearly refer to the right person or thing.",
+        "our": "\"our\" does not clearly refer to the right person or thing.",
+        "ours": "\"ours\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2650",
+      "level": "A1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The boy cannot find ___ pencil in the kitchen.",
+      "options": [
+        "his",
+        "he",
+        "him",
+        "they"
+      ],
+      "answer": "his",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boy cannot find his pencil in the kitchen.",
+      "rationales": {
+        "his": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boy cannot find his pencil in the kitchen.",
+        "he": "\"he\" does not clearly refer to the right person or thing.",
+        "him": "\"him\" does not clearly refer to the right person or thing.",
+        "they": "\"they\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2651",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Hana has a book. ___ is on the desk.",
+      "options": [
+        "It",
+        "They",
+        "Them",
+        "She"
+      ],
+      "answer": "It",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Hana has a book. It is on the desk.",
+      "rationales": {
+        "It": "The pronoun must clearly point to the right person or thing. The completed sentence is: Hana has a book. It is on the desk.",
+        "They": "\"They\" does not clearly refer to the right person or thing.",
+        "Them": "\"Them\" does not clearly refer to the right person or thing.",
+        "She": "\"She\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2652",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The girl is in class. ___ has a red bag by the window.",
+      "options": [
+        "She",
+        "It",
+        "They",
+        "Her"
+      ],
+      "answer": "She",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The girl is in class. She has a red bag by the window.",
+      "rationales": {
+        "She": "The pronoun must clearly point to the right person or thing. The completed sentence is: The girl is in class. She has a red bag by the window.",
+        "It": "\"It\" does not clearly refer to the right person or thing.",
+        "They": "\"They\" does not clearly refer to the right person or thing.",
+        "Her": "\"Her\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2653",
+      "level": "A1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The boys are outside. ___ are playing soccer before dinner.",
+      "options": [
+        "They",
+        "He",
+        "Them",
+        "It"
+      ],
+      "answer": "They",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boys are outside. They are playing soccer before dinner.",
+      "rationales": {
+        "They": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boys are outside. They are playing soccer before dinner.",
+        "He": "\"He\" does not clearly refer to the right person or thing.",
+        "Them": "\"Them\" does not clearly refer to the right person or thing.",
+        "It": "\"It\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2654",
+      "level": "A1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The morning teacher gave the papers to ___.",
+      "options": [
+        "us",
+        "we",
+        "our",
+        "ours"
+      ],
+      "answer": "us",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The morning teacher gave the papers to us.",
+      "rationales": {
+        "us": "The pronoun must clearly point to the right person or thing. The completed sentence is: The morning teacher gave the papers to us.",
+        "we": "\"we\" does not clearly refer to the right person or thing.",
+        "our": "\"our\" does not clearly refer to the right person or thing.",
+        "ours": "\"ours\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2655",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The boy cannot find ___ pencil on the bus.",
+      "options": [
+        "his",
+        "he",
+        "him",
+        "they"
+      ],
+      "answer": "his",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boy cannot find his pencil on the bus.",
+      "rationales": {
+        "his": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boy cannot find his pencil on the bus.",
+        "he": "\"he\" does not clearly refer to the right person or thing.",
+        "him": "\"him\" does not clearly refer to the right person or thing.",
+        "they": "\"they\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2656",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis has a book. ___ is on the desk.",
+      "options": [
+        "It",
+        "They",
+        "Them",
+        "She"
+      ],
+      "answer": "It",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Luis has a book. It is on the desk.",
+      "rationales": {
+        "It": "The pronoun must clearly point to the right person or thing. The completed sentence is: Luis has a book. It is on the desk.",
+        "They": "\"They\" does not clearly refer to the right person or thing.",
+        "Them": "\"Them\" does not clearly refer to the right person or thing.",
+        "She": "\"She\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2657",
+      "level": "A1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The girl is in class. ___ has a red bag with the teacher.",
+      "options": [
+        "She",
+        "It",
+        "They",
+        "Her"
+      ],
+      "answer": "She",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The girl is in class. She has a red bag with the teacher.",
+      "rationales": {
+        "She": "The pronoun must clearly point to the right person or thing. The completed sentence is: The girl is in class. She has a red bag with the teacher.",
+        "It": "\"It\" does not clearly refer to the right person or thing.",
+        "They": "\"They\" does not clearly refer to the right person or thing.",
+        "Her": "\"Her\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2658",
+      "level": "A1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The boys are outside. ___ are playing soccer before the bell.",
+      "options": [
+        "They",
+        "He",
+        "Them",
+        "It"
+      ],
+      "answer": "They",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boys are outside. They are playing soccer before the bell.",
+      "rationales": {
+        "They": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boys are outside. They are playing soccer before the bell.",
+        "He": "\"He\" does not clearly refer to the right person or thing.",
+        "Them": "\"Them\" does not clearly refer to the right person or thing.",
+        "It": "\"It\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2659",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The language teacher gave the papers to ___.",
+      "options": [
+        "us",
+        "we",
+        "our",
+        "ours"
+      ],
+      "answer": "us",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The language teacher gave the papers to us.",
+      "rationales": {
+        "us": "The pronoun must clearly point to the right person or thing. The completed sentence is: The language teacher gave the papers to us.",
+        "we": "\"we\" does not clearly refer to the right person or thing.",
+        "our": "\"our\" does not clearly refer to the right person or thing.",
+        "ours": "\"ours\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a1-2660",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The boy cannot find ___ pencil at the front.",
+      "options": [
+        "his",
+        "he",
+        "him",
+        "they"
+      ],
+      "answer": "his",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boy cannot find his pencil at the front.",
+      "rationales": {
+        "his": "The pronoun must clearly point to the right person or thing. The completed sentence is: The boy cannot find his pencil at the front.",
+        "he": "\"he\" does not clearly refer to the right person or thing.",
+        "him": "\"him\" does not clearly refer to the right person or thing.",
+        "they": "\"they\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2661",
+      "level": "A2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "Mina and Daniel finished the task, and ___ sent it to the teacher.",
+      "options": [
+        "they",
+        "she",
+        "it",
+        "him"
+      ],
+      "answer": "they",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Mina and Daniel finished the task, and they sent it to the teacher.",
+      "rationales": {
+        "they": "The pronoun must clearly point to the right person or thing. The completed sentence is: Mina and Daniel finished the task, and they sent it to the teacher.",
+        "she": "\"she\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing.",
+        "him": "\"him\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2662",
+      "level": "A2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The receipt is missing, so please look for ___ at the front desk.",
+      "options": [
+        "it",
+        "they",
+        "them",
+        "he"
+      ],
+      "answer": "it",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The receipt is missing, so please look for it at the front desk.",
+      "rationales": {
+        "it": "The pronoun must clearly point to the right person or thing. The completed sentence is: The receipt is missing, so please look for it at the front desk.",
+        "they": "\"they\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing.",
+        "he": "\"he\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2663",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The students left early, but the substitute teacher called ___ back.",
+      "options": [
+        "them",
+        "they",
+        "their",
+        "it"
+      ],
+      "answer": "them",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The students left early, but the substitute teacher called them back.",
+      "rationales": {
+        "them": "The pronoun must clearly point to the right person or thing. The completed sentence is: The students left early, but the substitute teacher called them back.",
+        "they": "\"they\" does not clearly refer to the right person or thing.",
+        "their": "\"their\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2664",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The training manager asked Carlos to bring ___ passport.",
+      "options": [
+        "his",
+        "he",
+        "him",
+        "its"
+      ],
+      "answer": "his",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The training manager asked Carlos to bring his passport.",
+      "rationales": {
+        "his": "The pronoun must clearly point to the right person or thing. The completed sentence is: The training manager asked Carlos to bring his passport.",
+        "he": "\"he\" does not clearly refer to the right person or thing.",
+        "him": "\"him\" does not clearly refer to the right person or thing.",
+        "its": "\"its\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2665",
+      "level": "A2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "Lena forgot her notebook, so I lent ___ mine after the phone call.",
+      "options": [
+        "her",
+        "she",
+        "hers",
+        "it"
+      ],
+      "answer": "her",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Lena forgot her notebook, so I lent her mine after the phone call.",
+      "rationales": {
+        "her": "The pronoun must clearly point to the right person or thing. The completed sentence is: Lena forgot her notebook, so I lent her mine after the phone call.",
+        "she": "\"she\" does not clearly refer to the right person or thing.",
+        "hers": "\"hers\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2666",
+      "level": "A2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "Lena and Priya finished the task, and ___ sent it to the teacher.",
+      "options": [
+        "they",
+        "she",
+        "it",
+        "him"
+      ],
+      "answer": "they",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Lena and Priya finished the task, and they sent it to the teacher.",
+      "rationales": {
+        "they": "The pronoun must clearly point to the right person or thing. The completed sentence is: Lena and Priya finished the task, and they sent it to the teacher.",
+        "she": "\"she\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing.",
+        "him": "\"him\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2667",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The receipt is missing, so please look for ___ for the weekend trip.",
+      "options": [
+        "it",
+        "they",
+        "them",
+        "he"
+      ],
+      "answer": "it",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The receipt is missing, so please look for it for the weekend trip.",
+      "rationales": {
+        "it": "The pronoun must clearly point to the right person or thing. The completed sentence is: The receipt is missing, so please look for it for the weekend trip.",
+        "they": "\"they\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing.",
+        "he": "\"he\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2668",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The students left early, but the lead teacher called ___ back.",
+      "options": [
+        "them",
+        "they",
+        "their",
+        "it"
+      ],
+      "answer": "them",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The students left early, but the lead teacher called them back.",
+      "rationales": {
+        "them": "The pronoun must clearly point to the right person or thing. The completed sentence is: The students left early, but the lead teacher called them back.",
+        "they": "\"they\" does not clearly refer to the right person or thing.",
+        "their": "\"their\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2669",
+      "level": "A2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The finance manager asked Carlos to bring ___ passport.",
+      "options": [
+        "his",
+        "he",
+        "him",
+        "its"
+      ],
+      "answer": "his",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The finance manager asked Carlos to bring his passport.",
+      "rationales": {
+        "his": "The pronoun must clearly point to the right person or thing. The completed sentence is: The finance manager asked Carlos to bring his passport.",
+        "he": "\"he\" does not clearly refer to the right person or thing.",
+        "him": "\"him\" does not clearly refer to the right person or thing.",
+        "its": "\"its\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2670",
+      "level": "A2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "Lena forgot her notebook, so I lent ___ mine on the student portal.",
+      "options": [
+        "her",
+        "she",
+        "hers",
+        "it"
+      ],
+      "answer": "her",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Lena forgot her notebook, so I lent her mine on the student portal.",
+      "rationales": {
+        "her": "The pronoun must clearly point to the right person or thing. The completed sentence is: Lena forgot her notebook, so I lent her mine on the student portal.",
+        "she": "\"she\" does not clearly refer to the right person or thing.",
+        "hers": "\"hers\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2671",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Hana and Noah finished the task, and ___ sent it to the teacher.",
+      "options": [
+        "they",
+        "she",
+        "it",
+        "him"
+      ],
+      "answer": "they",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Hana and Noah finished the task, and they sent it to the teacher.",
+      "rationales": {
+        "they": "The pronoun must clearly point to the right person or thing. The completed sentence is: Hana and Noah finished the task, and they sent it to the teacher.",
+        "she": "\"she\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing.",
+        "him": "\"him\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2672",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The receipt is missing, so please look for ___ during the workshop.",
+      "options": [
+        "it",
+        "they",
+        "them",
+        "he"
+      ],
+      "answer": "it",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The receipt is missing, so please look for it during the workshop.",
+      "rationales": {
+        "it": "The pronoun must clearly point to the right person or thing. The completed sentence is: The receipt is missing, so please look for it during the workshop.",
+        "they": "\"they\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing.",
+        "he": "\"he\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2673",
+      "level": "A2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The students left early, but the test-prep teacher called ___ back.",
+      "options": [
+        "them",
+        "they",
+        "their",
+        "it"
+      ],
+      "answer": "them",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The students left early, but the test-prep teacher called them back.",
+      "rationales": {
+        "them": "The pronoun must clearly point to the right person or thing. The completed sentence is: The students left early, but the test-prep teacher called them back.",
+        "they": "\"they\" does not clearly refer to the right person or thing.",
+        "their": "\"their\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2674",
+      "level": "A2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The operations manager asked Carlos to bring ___ passport.",
+      "options": [
+        "his",
+        "he",
+        "him",
+        "its"
+      ],
+      "answer": "his",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The operations manager asked Carlos to bring his passport.",
+      "rationales": {
+        "his": "The pronoun must clearly point to the right person or thing. The completed sentence is: The operations manager asked Carlos to bring his passport.",
+        "he": "\"he\" does not clearly refer to the right person or thing.",
+        "him": "\"him\" does not clearly refer to the right person or thing.",
+        "its": "\"its\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2675",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Lena forgot her notebook, so I lent ___ mine before the review quiz.",
+      "options": [
+        "her",
+        "she",
+        "hers",
+        "it"
+      ],
+      "answer": "her",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Lena forgot her notebook, so I lent her mine before the review quiz.",
+      "rationales": {
+        "her": "The pronoun must clearly point to the right person or thing. The completed sentence is: Lena forgot her notebook, so I lent her mine before the review quiz.",
+        "she": "\"she\" does not clearly refer to the right person or thing.",
+        "hers": "\"hers\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2676",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis and Aiko finished the task, and ___ sent it to the teacher.",
+      "options": [
+        "they",
+        "she",
+        "it",
+        "him"
+      ],
+      "answer": "they",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Luis and Aiko finished the task, and they sent it to the teacher.",
+      "rationales": {
+        "they": "The pronoun must clearly point to the right person or thing. The completed sentence is: Luis and Aiko finished the task, and they sent it to the teacher.",
+        "she": "\"she\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing.",
+        "him": "\"him\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2677",
+      "level": "A2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The receipt is missing, so please look for ___ after reading the guide.",
+      "options": [
+        "it",
+        "they",
+        "them",
+        "he"
+      ],
+      "answer": "it",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The receipt is missing, so please look for it after reading the guide.",
+      "rationales": {
+        "it": "The pronoun must clearly point to the right person or thing. The completed sentence is: The receipt is missing, so please look for it after reading the guide.",
+        "they": "\"they\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing.",
+        "he": "\"he\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2678",
+      "level": "A2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The students left early, but the music teacher called ___ back.",
+      "options": [
+        "them",
+        "they",
+        "their",
+        "it"
+      ],
+      "answer": "them",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The students left early, but the music teacher called them back.",
+      "rationales": {
+        "them": "The pronoun must clearly point to the right person or thing. The completed sentence is: The students left early, but the music teacher called them back.",
+        "they": "\"they\" does not clearly refer to the right person or thing.",
+        "their": "\"their\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2679",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The support manager asked Carlos to bring ___ passport.",
+      "options": [
+        "his",
+        "he",
+        "him",
+        "its"
+      ],
+      "answer": "his",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The support manager asked Carlos to bring his passport.",
+      "rationales": {
+        "his": "The pronoun must clearly point to the right person or thing. The completed sentence is: The support manager asked Carlos to bring his passport.",
+        "he": "\"he\" does not clearly refer to the right person or thing.",
+        "him": "\"him\" does not clearly refer to the right person or thing.",
+        "its": "\"its\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-a2-2680",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Lena forgot her notebook, so I lent ___ mine before the form is submitted.",
+      "options": [
+        "her",
+        "she",
+        "hers",
+        "it"
+      ],
+      "answer": "her",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Lena forgot her notebook, so I lent her mine before the form is submitted.",
+      "rationales": {
+        "her": "The pronoun must clearly point to the right person or thing. The completed sentence is: Lena forgot her notebook, so I lent her mine before the form is submitted.",
+        "she": "\"she\" does not clearly refer to the right person or thing.",
+        "hers": "\"hers\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2681",
+      "level": "B1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The reports are complete; please put ___ in the folder for the orientation group.",
+      "options": [
+        "them",
+        "it",
+        "they",
+        "he"
+      ],
+      "answer": "them",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The reports are complete; please put them in the folder for the orientation group.",
+      "rationales": {
+        "them": "The pronoun must clearly point to the right person or thing. The completed sentence is: The reports are complete; please put them in the folder for the orientation group.",
+        "it": "\"it\" does not clearly refer to the right person or thing.",
+        "they": "\"they\" does not clearly refer to the right person or thing.",
+        "he": "\"he\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2682",
+      "level": "B1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "Neither answer explains ___ clearly during the staff meeting.",
+      "options": [
+        "itself",
+        "themselves",
+        "theirself",
+        "them"
+      ],
+      "answer": "itself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Neither answer explains itself clearly during the staff meeting.",
+      "rationales": {
+        "itself": "The pronoun must clearly point to the right person or thing. The completed sentence is: Neither answer explains itself clearly during the staff meeting.",
+        "themselves": "\"themselves\" does not clearly refer to the right person or thing.",
+        "theirself": "\"theirself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2683",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The workers completed the forms by ___ before the client call.",
+      "options": [
+        "themselves",
+        "itself",
+        "theirselves",
+        "them"
+      ],
+      "answer": "themselves",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The workers completed the forms by themselves before the client call.",
+      "rationales": {
+        "themselves": "The pronoun must clearly point to the right person or thing. The completed sentence is: The workers completed the forms by themselves before the client call.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2684",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The clinic office changed ___ hours after the holiday.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "they"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The clinic office changed its hours after the holiday.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The clinic office changed its hours after the holiday.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "they": "\"they\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2685",
+      "level": "B1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The student ___ won the prize thanked the grammar class.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "what"
+      ],
+      "answer": "who",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The student who won the prize thanked the grammar class.",
+      "rationales": {
+        "who": "The pronoun must clearly point to the right person or thing. The completed sentence is: The student who won the prize thanked the grammar class.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing.",
+        "what": "\"what\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2686",
+      "level": "B1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The charts are complete; please put ___ in the folder during the safety briefing.",
+      "options": [
+        "them",
+        "it",
+        "they",
+        "he"
+      ],
+      "answer": "them",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The charts are complete; please put them in the folder during the safety briefing.",
+      "rationales": {
+        "them": "The pronoun must clearly point to the right person or thing. The completed sentence is: The charts are complete; please put them in the folder during the safety briefing.",
+        "it": "\"it\" does not clearly refer to the right person or thing.",
+        "they": "\"they\" does not clearly refer to the right person or thing.",
+        "he": "\"he\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2687",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Neither answer explains ___ clearly for the department update.",
+      "options": [
+        "itself",
+        "themselves",
+        "theirself",
+        "them"
+      ],
+      "answer": "itself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Neither answer explains itself clearly for the department update.",
+      "rationales": {
+        "itself": "The pronoun must clearly point to the right person or thing. The completed sentence is: Neither answer explains itself clearly for the department update.",
+        "themselves": "\"themselves\" does not clearly refer to the right person or thing.",
+        "theirself": "\"theirself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2688",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The workers completed the forms by ___ before the application review.",
+      "options": [
+        "themselves",
+        "itself",
+        "theirselves",
+        "them"
+      ],
+      "answer": "themselves",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The workers completed the forms by themselves before the application review.",
+      "rationales": {
+        "themselves": "The pronoun must clearly point to the right person or thing. The completed sentence is: The workers completed the forms by themselves before the application review.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2689",
+      "level": "B1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The testing office changed ___ hours after the holiday.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "they"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The testing office changed its hours after the holiday.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The testing office changed its hours after the holiday.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "they": "\"they\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2690",
+      "level": "B1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The student ___ won the prize thanked the exam-prep class.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "what"
+      ],
+      "answer": "who",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The student who won the prize thanked the exam-prep class.",
+      "rationales": {
+        "who": "The pronoun must clearly point to the right person or thing. The completed sentence is: The student who won the prize thanked the exam-prep class.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing.",
+        "what": "\"what\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2691",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The lesson plans are complete; please put ___ in the folder during the planning discussion.",
+      "options": [
+        "them",
+        "it",
+        "they",
+        "he"
+      ],
+      "answer": "them",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The lesson plans are complete; please put them in the folder during the planning discussion.",
+      "rationales": {
+        "them": "The pronoun must clearly point to the right person or thing. The completed sentence is: The lesson plans are complete; please put them in the folder during the planning discussion.",
+        "it": "\"it\" does not clearly refer to the right person or thing.",
+        "they": "\"they\" does not clearly refer to the right person or thing.",
+        "he": "\"he\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2692",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Neither answer explains ___ clearly in the supervisor's email.",
+      "options": [
+        "itself",
+        "themselves",
+        "theirself",
+        "them"
+      ],
+      "answer": "itself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Neither answer explains itself clearly in the supervisor's email.",
+      "rationales": {
+        "itself": "The pronoun must clearly point to the right person or thing. The completed sentence is: Neither answer explains itself clearly in the supervisor's email.",
+        "themselves": "\"themselves\" does not clearly refer to the right person or thing.",
+        "theirself": "\"theirself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2693",
+      "level": "B1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The workers completed the forms by ___ before the team review.",
+      "options": [
+        "themselves",
+        "itself",
+        "theirselves",
+        "them"
+      ],
+      "answer": "themselves",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The workers completed the forms by themselves before the team review.",
+      "rationales": {
+        "themselves": "The pronoun must clearly point to the right person or thing. The completed sentence is: The workers completed the forms by themselves before the team review.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2694",
+      "level": "B1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The language office changed ___ hours after the holiday.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "they"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The language office changed its hours after the holiday.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The language office changed its hours after the holiday.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "they": "\"they\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2695",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The student ___ won the prize thanked the skills class.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "what"
+      ],
+      "answer": "who",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The student who won the prize thanked the skills class.",
+      "rationales": {
+        "who": "The pronoun must clearly point to the right person or thing. The completed sentence is: The student who won the prize thanked the skills class.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing.",
+        "what": "\"what\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2696",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The agendas are complete; please put ___ in the folder during the support call.",
+      "options": [
+        "them",
+        "it",
+        "they",
+        "he"
+      ],
+      "answer": "them",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The agendas are complete; please put them in the folder during the support call.",
+      "rationales": {
+        "them": "The pronoun must clearly point to the right person or thing. The completed sentence is: The agendas are complete; please put them in the folder during the support call.",
+        "it": "\"it\" does not clearly refer to the right person or thing.",
+        "they": "\"they\" does not clearly refer to the right person or thing.",
+        "he": "\"he\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2697",
+      "level": "B1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "Neither answer explains ___ clearly for the training session.",
+      "options": [
+        "itself",
+        "themselves",
+        "theirself",
+        "them"
+      ],
+      "answer": "itself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Neither answer explains itself clearly for the training session.",
+      "rationales": {
+        "itself": "The pronoun must clearly point to the right person or thing. The completed sentence is: Neither answer explains itself clearly for the training session.",
+        "themselves": "\"themselves\" does not clearly refer to the right person or thing.",
+        "theirself": "\"theirself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2698",
+      "level": "B1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The workers completed the forms by ___ before the documents are filed.",
+      "options": [
+        "themselves",
+        "itself",
+        "theirselves",
+        "them"
+      ],
+      "answer": "themselves",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The workers completed the forms by themselves before the documents are filed.",
+      "rationales": {
+        "themselves": "The pronoun must clearly point to the right person or thing. The completed sentence is: The workers completed the forms by themselves before the documents are filed.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2699",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The department office changed ___ hours after the holiday.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "they"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The department office changed its hours after the holiday.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The department office changed its hours after the holiday.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "they": "\"they\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b1-2700",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The student ___ won the prize thanked the workshop class.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "what"
+      ],
+      "answer": "who",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The student who won the prize thanked the workshop class.",
+      "rationales": {
+        "who": "The pronoun must clearly point to the right person or thing. The completed sentence is: The student who won the prize thanked the workshop class.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing.",
+        "what": "\"what\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2701",
+      "level": "B2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "Every student at the library should bring ___ own notebook for the audit file.",
+      "options": [
+        "their",
+        "there",
+        "them",
+        "its"
+      ],
+      "answer": "their",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Every student at the library should bring their own notebook for the audit file.",
+      "rationales": {
+        "their": "The pronoun must clearly point to the right person or thing. The completed sentence is: Every student at the library should bring their own notebook for the audit file.",
+        "there": "\"there\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing.",
+        "its": "\"its\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2702",
+      "level": "B2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The planning committee released ___ decision after the vote.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "them"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The planning committee released its decision after the vote.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The planning committee released its decision after the vote.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2703",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The two departments blamed each other instead of solving the problem ___ before the budget meeting.",
+      "options": [
+        "themselves",
+        "itself",
+        "theirself",
+        "them"
+      ],
+      "answer": "themselves",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two departments blamed each other instead of solving the problem themselves before the budget meeting.",
+      "rationales": {
+        "themselves": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two departments blamed each other instead of solving the problem themselves before the budget meeting.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "theirself": "\"theirself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2704",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The applicant to ___ the email was sent replied immediately in the manager's briefing.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whom",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The applicant to whom the email was sent replied immediately in the manager's briefing.",
+      "rationales": {
+        "whom": "The pronoun must clearly point to the right person or thing. The completed sentence is: The applicant to whom the email was sent replied immediately in the manager's briefing.",
+        "who": "\"who\" does not clearly refer to the right person or thing.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2705",
+      "level": "B2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The research report refers to two policies but explains only the newer ___.",
+      "options": [
+        "one",
+        "ones",
+        "it",
+        "them"
+      ],
+      "answer": "one",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The research report refers to two policies but explains only the newer one.",
+      "rationales": {
+        "one": "The pronoun must clearly point to the right person or thing. The completed sentence is: The research report refers to two policies but explains only the newer one.",
+        "ones": "\"ones\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2706",
+      "level": "B2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "Every student at the museum should bring ___ own notebook during the data check.",
+      "options": [
+        "their",
+        "there",
+        "them",
+        "its"
+      ],
+      "answer": "their",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Every student at the museum should bring their own notebook during the data check.",
+      "rationales": {
+        "their": "The pronoun must clearly point to the right person or thing. The completed sentence is: Every student at the museum should bring their own notebook during the data check.",
+        "there": "\"there\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing.",
+        "its": "\"its\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2707",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The scholarship committee released ___ decision after the vote.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "them"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The scholarship committee released its decision after the vote.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The scholarship committee released its decision after the vote.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2708",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The two departments blamed each other instead of solving the problem ___ before the contract is signed.",
+      "options": [
+        "themselves",
+        "itself",
+        "theirself",
+        "them"
+      ],
+      "answer": "themselves",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two departments blamed each other instead of solving the problem themselves before the contract is signed.",
+      "rationales": {
+        "themselves": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two departments blamed each other instead of solving the problem themselves before the contract is signed.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "theirself": "\"theirself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2709",
+      "level": "B2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The applicant to ___ the email was sent replied immediately in the customer update.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whom",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The applicant to whom the email was sent replied immediately in the customer update.",
+      "rationales": {
+        "whom": "The pronoun must clearly point to the right person or thing. The completed sentence is: The applicant to whom the email was sent replied immediately in the customer update.",
+        "who": "\"who\" does not clearly refer to the right person or thing.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2710",
+      "level": "B2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The quarterly report refers to two policies but explains only the newer ___.",
+      "options": [
+        "one",
+        "ones",
+        "it",
+        "them"
+      ],
+      "answer": "one",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The quarterly report refers to two policies but explains only the newer one.",
+      "rationales": {
+        "one": "The pronoun must clearly point to the right person or thing. The completed sentence is: The quarterly report refers to two policies but explains only the newer one.",
+        "ones": "\"ones\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2711",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Every student at the airport should bring ___ own notebook during the hiring process.",
+      "options": [
+        "their",
+        "there",
+        "them",
+        "its"
+      ],
+      "answer": "their",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Every student at the airport should bring their own notebook during the hiring process.",
+      "rationales": {
+        "their": "The pronoun must clearly point to the right person or thing. The completed sentence is: Every student at the airport should bring their own notebook during the hiring process.",
+        "there": "\"there\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing.",
+        "its": "\"its\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2712",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The policy committee released ___ decision after the vote.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "them"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The policy committee released its decision after the vote.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The policy committee released its decision after the vote.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2713",
+      "level": "B2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The two departments blamed each other instead of solving the problem ___ before the board discussion.",
+      "options": [
+        "themselves",
+        "itself",
+        "theirself",
+        "them"
+      ],
+      "answer": "themselves",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two departments blamed each other instead of solving the problem themselves before the board discussion.",
+      "rationales": {
+        "themselves": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two departments blamed each other instead of solving the problem themselves before the board discussion.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "theirself": "\"theirself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2714",
+      "level": "B2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The applicant to ___ the email was sent replied immediately under the revised procedure.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whom",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The applicant to whom the email was sent replied immediately under the revised procedure.",
+      "rationales": {
+        "whom": "The pronoun must clearly point to the right person or thing. The completed sentence is: The applicant to whom the email was sent replied immediately under the revised procedure.",
+        "who": "\"who\" does not clearly refer to the right person or thing.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2715",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The annual report refers to two policies but explains only the newer ___.",
+      "options": [
+        "one",
+        "ones",
+        "it",
+        "them"
+      ],
+      "answer": "one",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The annual report refers to two policies but explains only the newer one.",
+      "rationales": {
+        "one": "The pronoun must clearly point to the right person or thing. The completed sentence is: The annual report refers to two policies but explains only the newer one.",
+        "ones": "\"ones\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2716",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Every student at the market should bring ___ own notebook during the operations review.",
+      "options": [
+        "their",
+        "there",
+        "them",
+        "its"
+      ],
+      "answer": "their",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Every student at the market should bring their own notebook during the operations review.",
+      "rationales": {
+        "their": "The pronoun must clearly point to the right person or thing. The completed sentence is: Every student at the market should bring their own notebook during the operations review.",
+        "there": "\"there\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing.",
+        "its": "\"its\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2717",
+      "level": "B2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The examination committee released ___ decision after the vote.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "them"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The examination committee released its decision after the vote.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The examination committee released its decision after the vote.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2718",
+      "level": "B2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The two departments blamed each other instead of solving the problem ___ before the compliance check.",
+      "options": [
+        "themselves",
+        "itself",
+        "theirself",
+        "them"
+      ],
+      "answer": "themselves",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two departments blamed each other instead of solving the problem themselves before the compliance check.",
+      "rationales": {
+        "themselves": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two departments blamed each other instead of solving the problem themselves before the compliance check.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "theirself": "\"theirself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2719",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The applicant to ___ the email was sent replied immediately in the evaluation memo.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whom",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The applicant to whom the email was sent replied immediately in the evaluation memo.",
+      "rationales": {
+        "whom": "The pronoun must clearly point to the right person or thing. The completed sentence is: The applicant to whom the email was sent replied immediately in the evaluation memo.",
+        "who": "\"who\" does not clearly refer to the right person or thing.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-b2-2720",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The draft report refers to two policies but explains only the newer ___.",
+      "options": [
+        "one",
+        "ones",
+        "it",
+        "them"
+      ],
+      "answer": "one",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The draft report refers to two policies but explains only the newer one.",
+      "rationales": {
+        "one": "The pronoun must clearly point to the right person or thing. The completed sentence is: The draft report refers to two policies but explains only the newer one.",
+        "ones": "\"ones\" does not clearly refer to the right person or thing.",
+        "it": "\"it\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2721",
+      "level": "C1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The agency at the library published ___ final decision after the file review.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "them"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The agency at the library published its final decision after the file review.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The agency at the library published its final decision after the file review.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2722",
+      "level": "C1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "Each researcher checked the figures for ___ in the methodology section.",
+      "options": [
+        "herself",
+        "she",
+        "her",
+        "itself"
+      ],
+      "answer": "herself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Each researcher checked the figures for herself in the methodology section.",
+      "rationales": {
+        "herself": "The pronoun must clearly point to the right person or thing. The completed sentence is: Each researcher checked the figures for herself in the methodology section.",
+        "she": "\"she\" does not clearly refer to the right person or thing.",
+        "her": "\"her\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2723",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The proposal, ___ critics initially rejected, was later revised during the stakeholder meeting.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The proposal, which critics initially rejected, was later revised during the stakeholder meeting.",
+      "rationales": {
+        "which": "The pronoun must clearly point to the right person or thing. The completed sentence is: The proposal, which critics initially rejected, was later revised during the stakeholder meeting.",
+        "who": "\"who\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing.",
+        "whose": "\"whose\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2724",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The curriculum committee divided the remaining tasks among ___.",
+      "options": [
+        "itself",
+        "themselves",
+        "theirselves",
+        "them"
+      ],
+      "answer": "itself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The curriculum committee divided the remaining tasks among itself.",
+      "rationales": {
+        "itself": "The pronoun must clearly point to the right person or thing. The completed sentence is: The curriculum committee divided the remaining tasks among itself.",
+        "themselves": "\"themselves\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2725",
+      "level": "C1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The two reports contradict each other, so ___ can both be correct after the evidence is compared.",
+      "options": [
+        "neither",
+        "none",
+        "either",
+        "both"
+      ],
+      "answer": "neither",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two reports contradict each other, so neither can both be correct after the evidence is compared.",
+      "rationales": {
+        "neither": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two reports contradict each other, so neither can both be correct after the evidence is compared.",
+        "none": "\"none\" does not clearly refer to the right person or thing.",
+        "either": "\"either\" does not clearly refer to the right person or thing.",
+        "both": "\"both\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2726",
+      "level": "C1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The agency at the museum published ___ final decision after the course review.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "them"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The agency at the museum published its final decision after the course review.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The agency at the museum published its final decision after the course review.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2727",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Each researcher checked the figures for ___ on the evaluation form.",
+      "options": [
+        "herself",
+        "she",
+        "her",
+        "itself"
+      ],
+      "answer": "herself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Each researcher checked the figures for herself on the evaluation form.",
+      "rationales": {
+        "herself": "The pronoun must clearly point to the right person or thing. The completed sentence is: Each researcher checked the figures for herself on the evaluation form.",
+        "she": "\"she\" does not clearly refer to the right person or thing.",
+        "her": "\"her\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2728",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The proposal, ___ critics initially rejected, was later revised after the pilot program.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The proposal, which critics initially rejected, was later revised after the pilot program.",
+      "rationales": {
+        "which": "The pronoun must clearly point to the right person or thing. The completed sentence is: The proposal, which critics initially rejected, was later revised after the pilot program.",
+        "who": "\"who\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing.",
+        "whose": "\"whose\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2729",
+      "level": "C1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The ethics committee divided the remaining tasks among ___.",
+      "options": [
+        "itself",
+        "themselves",
+        "theirselves",
+        "them"
+      ],
+      "answer": "itself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The ethics committee divided the remaining tasks among itself.",
+      "rationales": {
+        "itself": "The pronoun must clearly point to the right person or thing. The completed sentence is: The ethics committee divided the remaining tasks among itself.",
+        "themselves": "\"themselves\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2730",
+      "level": "C1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The two reports contradict each other, so ___ can both be correct in the grant application.",
+      "options": [
+        "neither",
+        "none",
+        "either",
+        "both"
+      ],
+      "answer": "neither",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two reports contradict each other, so neither can both be correct in the grant application.",
+      "rationales": {
+        "neither": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two reports contradict each other, so neither can both be correct in the grant application.",
+        "none": "\"none\" does not clearly refer to the right person or thing.",
+        "either": "\"either\" does not clearly refer to the right person or thing.",
+        "both": "\"both\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2731",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The agency at the airport published ___ final decision after the legal review.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "them"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The agency at the airport published its final decision after the legal review.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The agency at the airport published its final decision after the legal review.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2732",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Each researcher checked the figures for ___ on the risk assessment.",
+      "options": [
+        "herself",
+        "she",
+        "her",
+        "itself"
+      ],
+      "answer": "herself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Each researcher checked the figures for herself on the risk assessment.",
+      "rationales": {
+        "herself": "The pronoun must clearly point to the right person or thing. The completed sentence is: Each researcher checked the figures for herself on the risk assessment.",
+        "she": "\"she\" does not clearly refer to the right person or thing.",
+        "her": "\"her\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2733",
+      "level": "C1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The proposal, ___ critics initially rejected, was later revised after the interviews are coded.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The proposal, which critics initially rejected, was later revised after the interviews are coded.",
+      "rationales": {
+        "which": "The pronoun must clearly point to the right person or thing. The completed sentence is: The proposal, which critics initially rejected, was later revised after the interviews are coded.",
+        "who": "\"who\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing.",
+        "whose": "\"whose\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2734",
+      "level": "C1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The assessment committee divided the remaining tasks among ___.",
+      "options": [
+        "itself",
+        "themselves",
+        "theirselves",
+        "them"
+      ],
+      "answer": "itself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The assessment committee divided the remaining tasks among itself.",
+      "rationales": {
+        "itself": "The pronoun must clearly point to the right person or thing. The completed sentence is: The assessment committee divided the remaining tasks among itself.",
+        "themselves": "\"themselves\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2735",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The two reports contradict each other, so ___ can both be correct in the appendix note.",
+      "options": [
+        "neither",
+        "none",
+        "either",
+        "both"
+      ],
+      "answer": "neither",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two reports contradict each other, so neither can both be correct in the appendix note.",
+      "rationales": {
+        "neither": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two reports contradict each other, so neither can both be correct in the appendix note.",
+        "none": "\"none\" does not clearly refer to the right person or thing.",
+        "either": "\"either\" does not clearly refer to the right person or thing.",
+        "both": "\"both\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2736",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The agency at the market published ___ final decision after the audit review.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "them"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The agency at the market published its final decision after the audit review.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The agency at the market published its final decision after the audit review.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2737",
+      "level": "C1",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "Each researcher checked the figures for ___ during the protocol review.",
+      "options": [
+        "herself",
+        "she",
+        "her",
+        "itself"
+      ],
+      "answer": "herself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: Each researcher checked the figures for herself during the protocol review.",
+      "rationales": {
+        "herself": "The pronoun must clearly point to the right person or thing. The completed sentence is: Each researcher checked the figures for herself during the protocol review.",
+        "she": "\"she\" does not clearly refer to the right person or thing.",
+        "her": "\"her\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2738",
+      "level": "C1",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The proposal, ___ critics initially rejected, was later revised on the evidence table.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The proposal, which critics initially rejected, was later revised on the evidence table.",
+      "rationales": {
+        "which": "The pronoun must clearly point to the right person or thing. The completed sentence is: The proposal, which critics initially rejected, was later revised on the evidence table.",
+        "who": "\"who\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing.",
+        "whose": "\"whose\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2739",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The disciplinary committee divided the remaining tasks among ___.",
+      "options": [
+        "itself",
+        "themselves",
+        "theirselves",
+        "them"
+      ],
+      "answer": "itself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The disciplinary committee divided the remaining tasks among itself.",
+      "rationales": {
+        "itself": "The pronoun must clearly point to the right person or thing. The completed sentence is: The disciplinary committee divided the remaining tasks among itself.",
+        "themselves": "\"themselves\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c1-2740",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The two reports contradict each other, so ___ can both be correct in the assessment rubric.",
+      "options": [
+        "neither",
+        "none",
+        "either",
+        "both"
+      ],
+      "answer": "neither",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two reports contradict each other, so neither can both be correct in the assessment rubric.",
+      "rationales": {
+        "neither": "The pronoun must clearly point to the right person or thing. The completed sentence is: The two reports contradict each other, so neither can both be correct in the assessment rubric.",
+        "none": "\"none\" does not clearly refer to the right person or thing.",
+        "either": "\"either\" does not clearly refer to the right person or thing.",
+        "both": "\"both\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2741",
+      "level": "C2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The review committee members disagreed among ___ about the final report.",
+      "options": [
+        "themselves",
+        "itself",
+        "theirselves",
+        "them"
+      ],
+      "answer": "themselves",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The review committee members disagreed among themselves about the final report.",
+      "rationales": {
+        "themselves": "The pronoun must clearly point to the right person or thing. The completed sentence is: The review committee members disagreed among themselves about the final report.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2742",
+      "level": "C2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The statute leaves open the question of ___ must authorize the appeal during the evidentiary hearing.",
+      "options": [
+        "who",
+        "whom",
+        "which",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The statute leaves open the question of who must authorize the appeal during the evidentiary hearing.",
+      "rationales": {
+        "who": "The pronoun must clearly point to the right person or thing. The completed sentence is: The statute leaves open the question of who must authorize the appeal during the evidentiary hearing.",
+        "whom": "\"whom\" does not clearly refer to the right person or thing.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "whose": "\"whose\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2743",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The dissent criticizes the majority for contradicting ___ before the arbitration panel meets.",
+      "options": [
+        "itself",
+        "themselves",
+        "theirselves",
+        "them"
+      ],
+      "answer": "itself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The dissent criticizes the majority for contradicting itself before the arbitration panel meets.",
+      "rationales": {
+        "itself": "The pronoun must clearly point to the right person or thing. The completed sentence is: The dissent criticizes the majority for contradicting itself before the arbitration panel meets.",
+        "themselves": "\"themselves\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2744",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The expert on ___ the panel relied later revised the estimate in the fiduciary briefing.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whom",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The expert on whom the panel relied later revised the estimate in the fiduciary briefing.",
+      "rationales": {
+        "whom": "The pronoun must clearly point to the right person or thing. The completed sentence is: The expert on whom the panel relied later revised the estimate in the fiduciary briefing.",
+        "who": "\"who\" does not clearly refer to the right person or thing.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2745",
+      "level": "C2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The framework treats each objection on ___ own terms after the methodological critique.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "their"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The framework treats each objection on its own terms after the methodological critique.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The framework treats each objection on its own terms after the methodological critique.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "their": "\"their\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2746",
+      "level": "C2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The hiring committee members disagreed among ___ about the final chart.",
+      "options": [
+        "themselves",
+        "itself",
+        "theirselves",
+        "them"
+      ],
+      "answer": "themselves",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The hiring committee members disagreed among themselves about the final chart.",
+      "rationales": {
+        "themselves": "The pronoun must clearly point to the right person or thing. The completed sentence is: The hiring committee members disagreed among themselves about the final chart.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2747",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The statute leaves open the question of ___ must authorize the appeal in the interpretive framework.",
+      "options": [
+        "who",
+        "whom",
+        "which",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The statute leaves open the question of who must authorize the appeal in the interpretive framework.",
+      "rationales": {
+        "who": "The pronoun must clearly point to the right person or thing. The completed sentence is: The statute leaves open the question of who must authorize the appeal in the interpretive framework.",
+        "whom": "\"whom\" does not clearly refer to the right person or thing.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "whose": "\"whose\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2748",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The dissent criticizes the majority for contradicting ___ during the appellate review.",
+      "options": [
+        "itself",
+        "themselves",
+        "theirselves",
+        "them"
+      ],
+      "answer": "itself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The dissent criticizes the majority for contradicting itself during the appellate review.",
+      "rationales": {
+        "itself": "The pronoun must clearly point to the right person or thing. The completed sentence is: The dissent criticizes the majority for contradicting itself during the appellate review.",
+        "themselves": "\"themselves\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2749",
+      "level": "C2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The expert on ___ the panel relied later revised the estimate in the technical memorandum.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whom",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The expert on whom the panel relied later revised the estimate in the technical memorandum.",
+      "rationales": {
+        "whom": "The pronoun must clearly point to the right person or thing. The completed sentence is: The expert on whom the panel relied later revised the estimate in the technical memorandum.",
+        "who": "\"who\" does not clearly refer to the right person or thing.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2750",
+      "level": "C2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The framework treats each objection on ___ own terms after the objections are synthesized.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "their"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The framework treats each objection on its own terms after the objections are synthesized.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The framework treats each objection on its own terms after the objections are synthesized.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "their": "\"their\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2751",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The language committee members disagreed among ___ about the final lesson plan.",
+      "options": [
+        "themselves",
+        "itself",
+        "theirselves",
+        "them"
+      ],
+      "answer": "themselves",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The language committee members disagreed among themselves about the final lesson plan.",
+      "rationales": {
+        "themselves": "The pronoun must clearly point to the right person or thing. The completed sentence is: The language committee members disagreed among themselves about the final lesson plan.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2752",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The statute leaves open the question of ___ must authorize the appeal in the published corrigendum.",
+      "options": [
+        "who",
+        "whom",
+        "which",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The statute leaves open the question of who must authorize the appeal in the published corrigendum.",
+      "rationales": {
+        "who": "The pronoun must clearly point to the right person or thing. The completed sentence is: The statute leaves open the question of who must authorize the appeal in the published corrigendum.",
+        "whom": "\"whom\" does not clearly refer to the right person or thing.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "whose": "\"whose\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2753",
+      "level": "C2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The dissent criticizes the majority for contradicting ___ during the ethics review.",
+      "options": [
+        "itself",
+        "themselves",
+        "theirselves",
+        "them"
+      ],
+      "answer": "itself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The dissent criticizes the majority for contradicting itself during the ethics review.",
+      "rationales": {
+        "itself": "The pronoun must clearly point to the right person or thing. The completed sentence is: The dissent criticizes the majority for contradicting itself during the ethics review.",
+        "themselves": "\"themselves\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2754",
+      "level": "C2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The expert on ___ the panel relied later revised the estimate on the counterargument table.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whom",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The expert on whom the panel relied later revised the estimate on the counterargument table.",
+      "rationales": {
+        "whom": "The pronoun must clearly point to the right person or thing. The completed sentence is: The expert on whom the panel relied later revised the estimate on the counterargument table.",
+        "who": "\"who\" does not clearly refer to the right person or thing.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2755",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The framework treats each objection on ___ own terms before the final adjudication.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "their"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The framework treats each objection on its own terms before the final adjudication.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The framework treats each objection on its own terms before the final adjudication.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "their": "\"their\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2756",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The advisory committee members disagreed among ___ about the final agenda.",
+      "options": [
+        "themselves",
+        "itself",
+        "theirselves",
+        "them"
+      ],
+      "answer": "themselves",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The advisory committee members disagreed among themselves about the final agenda.",
+      "rationales": {
+        "themselves": "The pronoun must clearly point to the right person or thing. The completed sentence is: The advisory committee members disagreed among themselves about the final agenda.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2757",
+      "level": "C2",
+      "setupText": "Choose the word that clearly points to the right person or thing.",
+      "taskText": "The statute leaves open the question of ___ must authorize the appeal during expert testimony.",
+      "options": [
+        "who",
+        "whom",
+        "which",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The statute leaves open the question of who must authorize the appeal during expert testimony.",
+      "rationales": {
+        "who": "The pronoun must clearly point to the right person or thing. The completed sentence is: The statute leaves open the question of who must authorize the appeal during expert testimony.",
+        "whom": "\"whom\" does not clearly refer to the right person or thing.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "whose": "\"whose\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2758",
+      "level": "C2",
+      "setupText": "The answer should make the meaning clear.",
+      "taskText": "The dissent criticizes the majority for contradicting ___ in the compliance addendum.",
+      "options": [
+        "itself",
+        "themselves",
+        "theirselves",
+        "them"
+      ],
+      "answer": "itself",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The dissent criticizes the majority for contradicting itself in the compliance addendum.",
+      "rationales": {
+        "itself": "The pronoun must clearly point to the right person or thing. The completed sentence is: The dissent criticizes the majority for contradicting itself in the compliance addendum.",
+        "themselves": "\"themselves\" does not clearly refer to the right person or thing.",
+        "theirselves": "\"theirselves\" does not clearly refer to the right person or thing.",
+        "them": "\"them\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2759",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The expert on ___ the panel relied later revised the estimate after the longitudinal model is revised.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whom",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The expert on whom the panel relied later revised the estimate after the longitudinal model is revised.",
+      "rationales": {
+        "whom": "The pronoun must clearly point to the right person or thing. The completed sentence is: The expert on whom the panel relied later revised the estimate after the longitudinal model is revised.",
+        "who": "\"who\" does not clearly refer to the right person or thing.",
+        "which": "\"which\" does not clearly refer to the right person or thing.",
+        "where": "\"where\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-pronouns-and-reference-c2-2760",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The framework treats each objection on ___ own terms before the ruling is issued.",
+      "options": [
+        "its",
+        "it's",
+        "itself",
+        "their"
+      ],
+      "answer": "its",
+      "explanation": "The pronoun must clearly point to the right person or thing. The completed sentence is: The framework treats each objection on its own terms before the ruling is issued.",
+      "rationales": {
+        "its": "The pronoun must clearly point to the right person or thing. The completed sentence is: The framework treats each objection on its own terms before the ruling is issued.",
+        "it's": "\"it's\" does not clearly refer to the right person or thing.",
+        "itself": "\"itself\" does not clearly refer to the right person or thing.",
+        "their": "\"their\" does not clearly refer to the right person or thing."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

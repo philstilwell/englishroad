@@ -1,0 +1,2766 @@
+{
+  "topic": "Clauses and connectors",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-clauses-and-connectors-a1-481",
+      "level": "A1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "Mina stayed home ___ it was raining.",
+      "options": [
+        "because",
+        "so",
+        "although",
+        "unless"
+      ],
+      "answer": "because",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Mina stayed home because it was raining.",
+      "rationales": {
+        "because": "The answer connects the ideas with the intended meaning. The completed sentence is: Mina stayed home because it was raining.",
+        "so": "\"so\" does not connect the two ideas with the right relationship.",
+        "although": "\"although\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-482",
+      "level": "A1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The room was cold, ___ we closed the window in class.",
+      "options": [
+        "so",
+        "because",
+        "but",
+        "unless"
+      ],
+      "answer": "so",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The room was cold, so we closed the window in class.",
+      "rationales": {
+        "so": "The answer connects the ideas with the intended meaning. The completed sentence is: The room was cold, so we closed the window in class.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "but": "\"but\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-483",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Aiko wanted tea, ___ Mateo wanted coffee.",
+      "options": [
+        "but",
+        "because",
+        "so",
+        "then"
+      ],
+      "answer": "but",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Aiko wanted tea, but Mateo wanted coffee.",
+      "rationales": {
+        "but": "The answer connects the ideas with the intended meaning. The completed sentence is: Aiko wanted tea, but Mateo wanted coffee.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "so": "\"so\" does not connect the two ideas with the right relationship.",
+        "then": "\"then\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-484",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The students opened their books ___ read the first page at school.",
+      "options": [
+        "and",
+        "because",
+        "but",
+        "so"
+      ],
+      "answer": "and",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The students opened their books and read the first page at school.",
+      "rationales": {
+        "and": "The answer connects the ideas with the intended meaning. The completed sentence is: The students opened their books and read the first page at school.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "but": "\"but\" does not connect the two ideas with the right relationship.",
+        "so": "\"so\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-485",
+      "level": "A1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The students washed their hands, ___ they ate lunch this morning.",
+      "options": [
+        "then",
+        "because",
+        "but",
+        "unless"
+      ],
+      "answer": "then",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The students washed their hands, then they ate lunch this morning.",
+      "rationales": {
+        "then": "The answer connects the ideas with the intended meaning. The completed sentence is: The students washed their hands, then they ate lunch this morning.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "but": "\"but\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-486",
+      "level": "A1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "Lena stayed home ___ it was raining.",
+      "options": [
+        "because",
+        "so",
+        "although",
+        "unless"
+      ],
+      "answer": "because",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Lena stayed home because it was raining.",
+      "rationales": {
+        "because": "The answer connects the ideas with the intended meaning. The completed sentence is: Lena stayed home because it was raining.",
+        "so": "\"so\" does not connect the two ideas with the right relationship.",
+        "although": "\"although\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-487",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The room was cold, ___ we closed the window near the door.",
+      "options": [
+        "so",
+        "because",
+        "but",
+        "unless"
+      ],
+      "answer": "so",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The room was cold, so we closed the window near the door.",
+      "rationales": {
+        "so": "The answer connects the ideas with the intended meaning. The completed sentence is: The room was cold, so we closed the window near the door.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "but": "\"but\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-488",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Daniel wanted tea, ___ Sara wanted coffee.",
+      "options": [
+        "but",
+        "because",
+        "so",
+        "then"
+      ],
+      "answer": "but",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Daniel wanted tea, but Sara wanted coffee.",
+      "rationales": {
+        "but": "The answer connects the ideas with the intended meaning. The completed sentence is: Daniel wanted tea, but Sara wanted coffee.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "so": "\"so\" does not connect the two ideas with the right relationship.",
+        "then": "\"then\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-489",
+      "level": "A1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The students opened their books ___ read the first page on Monday.",
+      "options": [
+        "and",
+        "because",
+        "but",
+        "so"
+      ],
+      "answer": "and",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The students opened their books and read the first page on Monday.",
+      "rationales": {
+        "and": "The answer connects the ideas with the intended meaning. The completed sentence is: The students opened their books and read the first page on Monday.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "but": "\"but\" does not connect the two ideas with the right relationship.",
+        "so": "\"so\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-490",
+      "level": "A1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The students washed their hands, ___ they ate lunch in the kitchen.",
+      "options": [
+        "then",
+        "because",
+        "but",
+        "unless"
+      ],
+      "answer": "then",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The students washed their hands, then they ate lunch in the kitchen.",
+      "rationales": {
+        "then": "The answer connects the ideas with the intended meaning. The completed sentence is: The students washed their hands, then they ate lunch in the kitchen.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "but": "\"but\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-491",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Hana stayed home ___ it was raining.",
+      "options": [
+        "because",
+        "so",
+        "although",
+        "unless"
+      ],
+      "answer": "because",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Hana stayed home because it was raining.",
+      "rationales": {
+        "because": "The answer connects the ideas with the intended meaning. The completed sentence is: Hana stayed home because it was raining.",
+        "so": "\"so\" does not connect the two ideas with the right relationship.",
+        "although": "\"although\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-492",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The room was cold, ___ we closed the window by the window.",
+      "options": [
+        "so",
+        "because",
+        "but",
+        "unless"
+      ],
+      "answer": "so",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The room was cold, so we closed the window by the window.",
+      "rationales": {
+        "so": "The answer connects the ideas with the intended meaning. The completed sentence is: The room was cold, so we closed the window by the window.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "but": "\"but\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-493",
+      "level": "A1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "Priya wanted tea, ___ Theo wanted coffee.",
+      "options": [
+        "but",
+        "because",
+        "so",
+        "then"
+      ],
+      "answer": "but",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Priya wanted tea, but Theo wanted coffee.",
+      "rationales": {
+        "but": "The answer connects the ideas with the intended meaning. The completed sentence is: Priya wanted tea, but Theo wanted coffee.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "so": "\"so\" does not connect the two ideas with the right relationship.",
+        "then": "\"then\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-494",
+      "level": "A1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The students opened their books ___ read the first page at the park.",
+      "options": [
+        "and",
+        "because",
+        "but",
+        "so"
+      ],
+      "answer": "and",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The students opened their books and read the first page at the park.",
+      "rationales": {
+        "and": "The answer connects the ideas with the intended meaning. The completed sentence is: The students opened their books and read the first page at the park.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "but": "\"but\" does not connect the two ideas with the right relationship.",
+        "so": "\"so\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-495",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The students washed their hands, ___ they ate lunch on the bus.",
+      "options": [
+        "then",
+        "because",
+        "but",
+        "unless"
+      ],
+      "answer": "then",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The students washed their hands, then they ate lunch on the bus.",
+      "rationales": {
+        "then": "The answer connects the ideas with the intended meaning. The completed sentence is: The students washed their hands, then they ate lunch on the bus.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "but": "\"but\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-496",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis stayed home ___ it was raining.",
+      "options": [
+        "because",
+        "so",
+        "although",
+        "unless"
+      ],
+      "answer": "because",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Luis stayed home because it was raining.",
+      "rationales": {
+        "because": "The answer connects the ideas with the intended meaning. The completed sentence is: Luis stayed home because it was raining.",
+        "so": "\"so\" does not connect the two ideas with the right relationship.",
+        "although": "\"although\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-497",
+      "level": "A1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The room was cold, ___ we closed the window with the teacher.",
+      "options": [
+        "so",
+        "because",
+        "but",
+        "unless"
+      ],
+      "answer": "so",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The room was cold, so we closed the window with the teacher.",
+      "rationales": {
+        "so": "The answer connects the ideas with the intended meaning. The completed sentence is: The room was cold, so we closed the window with the teacher.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "but": "\"but\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-498",
+      "level": "A1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "Noah wanted tea, ___ Omar wanted coffee.",
+      "options": [
+        "but",
+        "because",
+        "so",
+        "then"
+      ],
+      "answer": "but",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Noah wanted tea, but Omar wanted coffee.",
+      "rationales": {
+        "but": "The answer connects the ideas with the intended meaning. The completed sentence is: Noah wanted tea, but Omar wanted coffee.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "so": "\"so\" does not connect the two ideas with the right relationship.",
+        "then": "\"then\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-499",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The students opened their books ___ read the first page during the lesson.",
+      "options": [
+        "and",
+        "because",
+        "but",
+        "so"
+      ],
+      "answer": "and",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The students opened their books and read the first page during the lesson.",
+      "rationales": {
+        "and": "The answer connects the ideas with the intended meaning. The completed sentence is: The students opened their books and read the first page during the lesson.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "but": "\"but\" does not connect the two ideas with the right relationship.",
+        "so": "\"so\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a1-500",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The students washed their hands, ___ they ate lunch at the front.",
+      "options": [
+        "then",
+        "because",
+        "but",
+        "unless"
+      ],
+      "answer": "then",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The students washed their hands, then they ate lunch at the front.",
+      "rationales": {
+        "then": "The answer connects the ideas with the intended meaning. The completed sentence is: The students washed their hands, then they ate lunch at the front.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "but": "\"but\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-501",
+      "level": "A2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "Mina was tired, ___ Mina finished the report.",
+      "options": [
+        "but",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": "but",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Mina was tired, but Mina finished the report.",
+      "rationales": {
+        "but": "The answer connects the ideas with the intended meaning. The completed sentence is: Mina was tired, but Mina finished the report.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-502",
+      "level": "A2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The school office called ___ the form was missing.",
+      "options": [
+        "because",
+        "although",
+        "unless",
+        "so that"
+      ],
+      "answer": "because",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The school office called because the form was missing.",
+      "rationales": {
+        "because": "The answer connects the ideas with the intended meaning. The completed sentence is: The school office called because the form was missing.",
+        "although": "\"although\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-503",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ the train arrived, the students walked to class before registration.",
+      "options": [
+        "After",
+        "Because",
+        "Unless",
+        "Therefore"
+      ],
+      "answer": "After",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: After the train arrived, the students walked to class before registration.",
+      "rationales": {
+        "After": "The answer connects the ideas with the intended meaning. The completed sentence is: After the train arrived, the students walked to class before registration.",
+        "Because": "\"Because\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-504",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Please read the guide ___ you sign the office notice.",
+      "options": [
+        "before",
+        "because",
+        "although",
+        "therefore"
+      ],
+      "answer": "before",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Please read the guide before you sign the office notice.",
+      "rationales": {
+        "before": "The answer connects the ideas with the intended meaning. The completed sentence is: Please read the guide before you sign the office notice.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "although": "\"although\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-505",
+      "level": "A2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The grammar class will meet online ___ the room is closed.",
+      "options": [
+        "if",
+        "because of",
+        "despite",
+        "therefore"
+      ],
+      "answer": "if",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The grammar class will meet online if the room is closed.",
+      "rationales": {
+        "if": "The answer connects the ideas with the intended meaning. The completed sentence is: The grammar class will meet online if the room is closed.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-506",
+      "level": "A2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "Lena was tired, ___ Lena finished the chart.",
+      "options": [
+        "but",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": "but",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Lena was tired, but Lena finished the chart.",
+      "rationales": {
+        "but": "The answer connects the ideas with the intended meaning. The completed sentence is: Lena was tired, but Lena finished the chart.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-507",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The records office called ___ the form was missing.",
+      "options": [
+        "because",
+        "although",
+        "unless",
+        "so that"
+      ],
+      "answer": "because",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The records office called because the form was missing.",
+      "rationales": {
+        "because": "The answer connects the ideas with the intended meaning. The completed sentence is: The records office called because the form was missing.",
+        "although": "\"although\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-508",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ the train arrived, the students walked to class near the printer.",
+      "options": [
+        "After",
+        "Because",
+        "Unless",
+        "Therefore"
+      ],
+      "answer": "After",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: After the train arrived, the students walked to class near the printer.",
+      "rationales": {
+        "After": "The answer connects the ideas with the intended meaning. The completed sentence is: After the train arrived, the students walked to class near the printer.",
+        "Because": "\"Because\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-509",
+      "level": "A2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "Please read the guide ___ you sign the contract before the interview.",
+      "options": [
+        "before",
+        "because",
+        "although",
+        "therefore"
+      ],
+      "answer": "before",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Please read the guide before you sign the contract before the interview.",
+      "rationales": {
+        "before": "The answer connects the ideas with the intended meaning. The completed sentence is: Please read the guide before you sign the contract before the interview.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "although": "\"although\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-510",
+      "level": "A2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The exam-prep class will meet online ___ the room is closed.",
+      "options": [
+        "if",
+        "because of",
+        "despite",
+        "therefore"
+      ],
+      "answer": "if",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The exam-prep class will meet online if the room is closed.",
+      "rationales": {
+        "if": "The answer connects the ideas with the intended meaning. The completed sentence is: The exam-prep class will meet online if the room is closed.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-511",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Hana was tired, ___ Hana finished the lesson plan.",
+      "options": [
+        "but",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": "but",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Hana was tired, but Hana finished the lesson plan.",
+      "rationales": {
+        "but": "The answer connects the ideas with the intended meaning. The completed sentence is: Hana was tired, but Hana finished the lesson plan.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-512",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The registrar's office called ___ the form was missing.",
+      "options": [
+        "because",
+        "although",
+        "unless",
+        "so that"
+      ],
+      "answer": "because",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The registrar's office called because the form was missing.",
+      "rationales": {
+        "because": "The answer connects the ideas with the intended meaning. The completed sentence is: The registrar's office called because the form was missing.",
+        "although": "\"although\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-513",
+      "level": "A2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "___ the train arrived, the students walked to class for the online task.",
+      "options": [
+        "After",
+        "Because",
+        "Unless",
+        "Therefore"
+      ],
+      "answer": "After",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: After the train arrived, the students walked to class for the online task.",
+      "rationales": {
+        "After": "The answer connects the ideas with the intended meaning. The completed sentence is: After the train arrived, the students walked to class for the online task.",
+        "Because": "\"Because\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-514",
+      "level": "A2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "Please read the guide ___ you sign the proposal at the language center.",
+      "options": [
+        "before",
+        "because",
+        "although",
+        "therefore"
+      ],
+      "answer": "before",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Please read the guide before you sign the proposal at the language center.",
+      "rationales": {
+        "before": "The answer connects the ideas with the intended meaning. The completed sentence is: Please read the guide before you sign the proposal at the language center.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "although": "\"although\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-515",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The skills class will meet online ___ the room is closed.",
+      "options": [
+        "if",
+        "because of",
+        "despite",
+        "therefore"
+      ],
+      "answer": "if",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The skills class will meet online if the room is closed.",
+      "rationales": {
+        "if": "The answer connects the ideas with the intended meaning. The completed sentence is: The skills class will meet online if the room is closed.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-516",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis was tired, ___ Luis finished the agenda.",
+      "options": [
+        "but",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": "but",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Luis was tired, but Luis finished the agenda.",
+      "rationales": {
+        "but": "The answer connects the ideas with the intended meaning. The completed sentence is: Luis was tired, but Luis finished the agenda.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-517",
+      "level": "A2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The training office called ___ the form was missing.",
+      "options": [
+        "because",
+        "although",
+        "unless",
+        "so that"
+      ],
+      "answer": "because",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The training office called because the form was missing.",
+      "rationales": {
+        "because": "The answer connects the ideas with the intended meaning. The completed sentence is: The training office called because the form was missing.",
+        "although": "\"although\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-518",
+      "level": "A2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "___ the train arrived, the students walked to class near the office door.",
+      "options": [
+        "After",
+        "Because",
+        "Unless",
+        "Therefore"
+      ],
+      "answer": "After",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: After the train arrived, the students walked to class near the office door.",
+      "rationales": {
+        "After": "The answer connects the ideas with the intended meaning. The completed sentence is: After the train arrived, the students walked to class near the office door.",
+        "Because": "\"Because\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-519",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Please read the guide ___ you sign the policy during pair practice.",
+      "options": [
+        "before",
+        "because",
+        "although",
+        "therefore"
+      ],
+      "answer": "before",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Please read the guide before you sign the policy during pair practice.",
+      "rationales": {
+        "before": "The answer connects the ideas with the intended meaning. The completed sentence is: Please read the guide before you sign the policy during pair practice.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "although": "\"although\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-a2-520",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The workshop class will meet online ___ the room is closed.",
+      "options": [
+        "if",
+        "because of",
+        "despite",
+        "therefore"
+      ],
+      "answer": "if",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The workshop class will meet online if the room is closed.",
+      "rationales": {
+        "if": "The answer connects the ideas with the intended meaning. The completed sentence is: The workshop class will meet online if the room is closed.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-521",
+      "level": "B1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "___ the room was noisy, the students understood the speaker.",
+      "options": [
+        "Although",
+        "Because",
+        "Therefore",
+        "Unless"
+      ],
+      "answer": "Although",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Although the room was noisy, the students understood the speaker.",
+      "rationales": {
+        "Although": "The answer connects the ideas with the intended meaning. The completed sentence is: Although the room was noisy, the students understood the speaker.",
+        "Because": "\"Because\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-522",
+      "level": "B1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "___ the school office calls, the meeting will start at noon.",
+      "options": [
+        "Unless",
+        "Although",
+        "Therefore",
+        "Despite"
+      ],
+      "answer": "Unless",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Unless the school office calls, the meeting will start at noon.",
+      "rationales": {
+        "Unless": "The answer connects the ideas with the intended meaning. The completed sentence is: Unless the school office calls, the meeting will start at noon.",
+        "Although": "\"Although\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Despite": "\"Despite\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-523",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ Aiko checked the file, Mateo answered questions.",
+      "options": [
+        "While",
+        "Unless",
+        "Therefore",
+        "Despite"
+      ],
+      "answer": "While",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: While Aiko checked the file, Mateo answered questions.",
+      "rationales": {
+        "While": "The answer connects the ideas with the intended meaning. The completed sentence is: While Aiko checked the file, Mateo answered questions.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Despite": "\"Despite\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-524",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ the consent form was incomplete, the clerk returned it.",
+      "options": [
+        "Since",
+        "Although",
+        "Unless",
+        "Nevertheless"
+      ],
+      "answer": "Since",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Since the consent form was incomplete, the clerk returned it.",
+      "rationales": {
+        "Since": "The answer connects the ideas with the intended meaning. The completed sentence is: Since the consent form was incomplete, the clerk returned it.",
+        "Although": "\"Although\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Nevertheless": "\"Nevertheless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-525",
+      "level": "B1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "Call the campus office ___ the new file arrives.",
+      "options": [
+        "as soon as",
+        "despite",
+        "therefore",
+        "unless"
+      ],
+      "answer": "as soon as",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Call the campus office as soon as the new file arrives.",
+      "rationales": {
+        "as soon as": "The answer connects the ideas with the intended meaning. The completed sentence is: Call the campus office as soon as the new file arrives.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-526",
+      "level": "B1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "___ the room was noisy, the volunteers understood the speaker.",
+      "options": [
+        "Although",
+        "Because",
+        "Therefore",
+        "Unless"
+      ],
+      "answer": "Although",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Although the room was noisy, the volunteers understood the speaker.",
+      "rationales": {
+        "Although": "The answer connects the ideas with the intended meaning. The completed sentence is: Although the room was noisy, the volunteers understood the speaker.",
+        "Because": "\"Because\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-527",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ the records office calls, the meeting will start at noon.",
+      "options": [
+        "Unless",
+        "Although",
+        "Therefore",
+        "Despite"
+      ],
+      "answer": "Unless",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Unless the records office calls, the meeting will start at noon.",
+      "rationales": {
+        "Unless": "The answer connects the ideas with the intended meaning. The completed sentence is: Unless the records office calls, the meeting will start at noon.",
+        "Although": "\"Although\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Despite": "\"Despite\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-528",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ Daniel checked the file, Sara answered questions.",
+      "options": [
+        "While",
+        "Unless",
+        "Therefore",
+        "Despite"
+      ],
+      "answer": "While",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: While Daniel checked the file, Sara answered questions.",
+      "rationales": {
+        "While": "The answer connects the ideas with the intended meaning. The completed sentence is: While Daniel checked the file, Sara answered questions.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Despite": "\"Despite\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-529",
+      "level": "B1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "___ the printed form was incomplete, the clerk returned it.",
+      "options": [
+        "Since",
+        "Although",
+        "Unless",
+        "Nevertheless"
+      ],
+      "answer": "Since",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Since the printed form was incomplete, the clerk returned it.",
+      "rationales": {
+        "Since": "The answer connects the ideas with the intended meaning. The completed sentence is: Since the printed form was incomplete, the clerk returned it.",
+        "Although": "\"Although\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Nevertheless": "\"Nevertheless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-530",
+      "level": "B1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "Call the evening office ___ the new file arrives.",
+      "options": [
+        "as soon as",
+        "despite",
+        "therefore",
+        "unless"
+      ],
+      "answer": "as soon as",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Call the evening office as soon as the new file arrives.",
+      "rationales": {
+        "as soon as": "The answer connects the ideas with the intended meaning. The completed sentence is: Call the evening office as soon as the new file arrives.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-531",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ the room was noisy, the workers understood the speaker.",
+      "options": [
+        "Although",
+        "Because",
+        "Therefore",
+        "Unless"
+      ],
+      "answer": "Although",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Although the room was noisy, the workers understood the speaker.",
+      "rationales": {
+        "Although": "The answer connects the ideas with the intended meaning. The completed sentence is: Although the room was noisy, the workers understood the speaker.",
+        "Because": "\"Because\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-532",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ the registrar's office calls, the meeting will start at noon.",
+      "options": [
+        "Unless",
+        "Although",
+        "Therefore",
+        "Despite"
+      ],
+      "answer": "Unless",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Unless the registrar's office calls, the meeting will start at noon.",
+      "rationales": {
+        "Unless": "The answer connects the ideas with the intended meaning. The completed sentence is: Unless the registrar's office calls, the meeting will start at noon.",
+        "Although": "\"Although\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Despite": "\"Despite\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-533",
+      "level": "B1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "___ Priya checked the file, Theo answered questions.",
+      "options": [
+        "While",
+        "Unless",
+        "Therefore",
+        "Despite"
+      ],
+      "answer": "While",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: While Priya checked the file, Theo answered questions.",
+      "rationales": {
+        "While": "The answer connects the ideas with the intended meaning. The completed sentence is: While Priya checked the file, Theo answered questions.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Despite": "\"Despite\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-534",
+      "level": "B1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "___ the transfer form was incomplete, the clerk returned it.",
+      "options": [
+        "Since",
+        "Although",
+        "Unless",
+        "Nevertheless"
+      ],
+      "answer": "Since",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Since the transfer form was incomplete, the clerk returned it.",
+      "rationales": {
+        "Since": "The answer connects the ideas with the intended meaning. The completed sentence is: Since the transfer form was incomplete, the clerk returned it.",
+        "Although": "\"Although\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Nevertheless": "\"Nevertheless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-535",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Call the support office ___ the new file arrives.",
+      "options": [
+        "as soon as",
+        "despite",
+        "therefore",
+        "unless"
+      ],
+      "answer": "as soon as",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Call the support office as soon as the new file arrives.",
+      "rationales": {
+        "as soon as": "The answer connects the ideas with the intended meaning. The completed sentence is: Call the support office as soon as the new file arrives.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-536",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ the room was noisy, the readers understood the speaker.",
+      "options": [
+        "Although",
+        "Because",
+        "Therefore",
+        "Unless"
+      ],
+      "answer": "Although",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Although the room was noisy, the readers understood the speaker.",
+      "rationales": {
+        "Although": "The answer connects the ideas with the intended meaning. The completed sentence is: Although the room was noisy, the readers understood the speaker.",
+        "Because": "\"Because\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-537",
+      "level": "B1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "___ the training office calls, the meeting will start at noon.",
+      "options": [
+        "Unless",
+        "Although",
+        "Therefore",
+        "Despite"
+      ],
+      "answer": "Unless",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Unless the training office calls, the meeting will start at noon.",
+      "rationales": {
+        "Unless": "The answer connects the ideas with the intended meaning. The completed sentence is: Unless the training office calls, the meeting will start at noon.",
+        "Although": "\"Although\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Despite": "\"Despite\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-538",
+      "level": "B1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "___ Noah checked the file, Omar answered questions.",
+      "options": [
+        "While",
+        "Unless",
+        "Therefore",
+        "Despite"
+      ],
+      "answer": "While",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: While Noah checked the file, Omar answered questions.",
+      "rationales": {
+        "While": "The answer connects the ideas with the intended meaning. The completed sentence is: While Noah checked the file, Omar answered questions.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Despite": "\"Despite\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-539",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ the permission form was incomplete, the clerk returned it.",
+      "options": [
+        "Since",
+        "Although",
+        "Unless",
+        "Nevertheless"
+      ],
+      "answer": "Since",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Since the permission form was incomplete, the clerk returned it.",
+      "rationales": {
+        "Since": "The answer connects the ideas with the intended meaning. The completed sentence is: Since the permission form was incomplete, the clerk returned it.",
+        "Although": "\"Although\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Nevertheless": "\"Nevertheless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b1-540",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Call the main office ___ the new file arrives.",
+      "options": [
+        "as soon as",
+        "despite",
+        "therefore",
+        "unless"
+      ],
+      "answer": "as soon as",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Call the main office as soon as the new file arrives.",
+      "rationales": {
+        "as soon as": "The answer connects the ideas with the intended meaning. The completed sentence is: Call the main office as soon as the new file arrives.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-541",
+      "level": "B2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "Mina saved the file ___ the computer restarted.",
+      "options": [
+        "before",
+        "during",
+        "therefore",
+        "despite"
+      ],
+      "answer": "before",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Mina saved the file before the computer restarted.",
+      "rationales": {
+        "before": "The answer connects the ideas with the intended meaning. The completed sentence is: Mina saved the file before the computer restarted.",
+        "during": "\"during\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-542",
+      "level": "B2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The school office reopened ___ the repairs were finished.",
+      "options": [
+        "after",
+        "despite",
+        "therefore",
+        "during"
+      ],
+      "answer": "after",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The school office reopened after the repairs were finished.",
+      "rationales": {
+        "after": "The answer connects the ideas with the intended meaning. The completed sentence is: The school office reopened after the repairs were finished.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "during": "\"during\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-543",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ the high cost, the school approved the training before the budget meeting.",
+      "options": [
+        "Despite",
+        "Because",
+        "Therefore",
+        "Unless"
+      ],
+      "answer": "Despite",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Despite the high cost, the school approved the training before the budget meeting.",
+      "rationales": {
+        "Despite": "The answer connects the ideas with the intended meaning. The completed sentence is: Despite the high cost, the school approved the training before the budget meeting.",
+        "Because": "\"Because\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-544",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The first plan saves time, ___ the second plan reduces errors in the manager's briefing.",
+      "options": [
+        "whereas",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": "whereas",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The first plan saves time, whereas the second plan reduces errors in the manager's briefing.",
+      "rationales": {
+        "whereas": "The answer connects the ideas with the intended meaning. The completed sentence is: The first plan saves time, whereas the second plan reduces errors in the manager's briefing.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-545",
+      "level": "B2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The instructions were rewritten ___ applicants could complete the travel form more easily.",
+      "options": [
+        "so that",
+        "because of",
+        "despite",
+        "whereas"
+      ],
+      "answer": "so that",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The instructions were rewritten so that applicants could complete the travel form more easily.",
+      "rationales": {
+        "so that": "The answer connects the ideas with the intended meaning. The completed sentence is: The instructions were rewritten so that applicants could complete the travel form more easily.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "whereas": "\"whereas\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-546",
+      "level": "B2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "Lena saved the file ___ the computer restarted.",
+      "options": [
+        "before",
+        "during",
+        "therefore",
+        "despite"
+      ],
+      "answer": "before",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Lena saved the file before the computer restarted.",
+      "rationales": {
+        "before": "The answer connects the ideas with the intended meaning. The completed sentence is: Lena saved the file before the computer restarted.",
+        "during": "\"during\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-547",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The records office reopened ___ the repairs were finished.",
+      "options": [
+        "after",
+        "despite",
+        "therefore",
+        "during"
+      ],
+      "answer": "after",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The records office reopened after the repairs were finished.",
+      "rationales": {
+        "after": "The answer connects the ideas with the intended meaning. The completed sentence is: The records office reopened after the repairs were finished.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "during": "\"during\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-548",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ the high cost, the school approved the training before the contract is signed.",
+      "options": [
+        "Despite",
+        "Because",
+        "Therefore",
+        "Unless"
+      ],
+      "answer": "Despite",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Despite the high cost, the school approved the training before the contract is signed.",
+      "rationales": {
+        "Despite": "The answer connects the ideas with the intended meaning. The completed sentence is: Despite the high cost, the school approved the training before the contract is signed.",
+        "Because": "\"Because\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-549",
+      "level": "B2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The first plan saves time, ___ the second plan reduces errors in the customer update.",
+      "options": [
+        "whereas",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": "whereas",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The first plan saves time, whereas the second plan reduces errors in the customer update.",
+      "rationales": {
+        "whereas": "The answer connects the ideas with the intended meaning. The completed sentence is: The first plan saves time, whereas the second plan reduces errors in the customer update.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-550",
+      "level": "B2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The instructions were rewritten ___ applicants could complete the renewal form more easily.",
+      "options": [
+        "so that",
+        "because of",
+        "despite",
+        "whereas"
+      ],
+      "answer": "so that",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The instructions were rewritten so that applicants could complete the renewal form more easily.",
+      "rationales": {
+        "so that": "The answer connects the ideas with the intended meaning. The completed sentence is: The instructions were rewritten so that applicants could complete the renewal form more easily.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "whereas": "\"whereas\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-551",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Hana saved the file ___ the computer restarted.",
+      "options": [
+        "before",
+        "during",
+        "therefore",
+        "despite"
+      ],
+      "answer": "before",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Hana saved the file before the computer restarted.",
+      "rationales": {
+        "before": "The answer connects the ideas with the intended meaning. The completed sentence is: Hana saved the file before the computer restarted.",
+        "during": "\"during\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-552",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The registrar's office reopened ___ the repairs were finished.",
+      "options": [
+        "after",
+        "despite",
+        "therefore",
+        "during"
+      ],
+      "answer": "after",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The registrar's office reopened after the repairs were finished.",
+      "rationales": {
+        "after": "The answer connects the ideas with the intended meaning. The completed sentence is: The registrar's office reopened after the repairs were finished.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "during": "\"during\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-553",
+      "level": "B2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "___ the high cost, the school approved the training before the board discussion.",
+      "options": [
+        "Despite",
+        "Because",
+        "Therefore",
+        "Unless"
+      ],
+      "answer": "Despite",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Despite the high cost, the school approved the training before the board discussion.",
+      "rationales": {
+        "Despite": "The answer connects the ideas with the intended meaning. The completed sentence is: Despite the high cost, the school approved the training before the board discussion.",
+        "Because": "\"Because\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-554",
+      "level": "B2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The first plan saves time, ___ the second plan reduces errors under the revised procedure.",
+      "options": [
+        "whereas",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": "whereas",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The first plan saves time, whereas the second plan reduces errors under the revised procedure.",
+      "rationales": {
+        "whereas": "The answer connects the ideas with the intended meaning. The completed sentence is: The first plan saves time, whereas the second plan reduces errors under the revised procedure.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-555",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The instructions were rewritten ___ applicants could complete the safety form more easily.",
+      "options": [
+        "so that",
+        "because of",
+        "despite",
+        "whereas"
+      ],
+      "answer": "so that",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The instructions were rewritten so that applicants could complete the safety form more easily.",
+      "rationales": {
+        "so that": "The answer connects the ideas with the intended meaning. The completed sentence is: The instructions were rewritten so that applicants could complete the safety form more easily.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "whereas": "\"whereas\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-556",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis saved the file ___ the computer restarted.",
+      "options": [
+        "before",
+        "during",
+        "therefore",
+        "despite"
+      ],
+      "answer": "before",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Luis saved the file before the computer restarted.",
+      "rationales": {
+        "before": "The answer connects the ideas with the intended meaning. The completed sentence is: Luis saved the file before the computer restarted.",
+        "during": "\"during\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-557",
+      "level": "B2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The training office reopened ___ the repairs were finished.",
+      "options": [
+        "after",
+        "despite",
+        "therefore",
+        "during"
+      ],
+      "answer": "after",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The training office reopened after the repairs were finished.",
+      "rationales": {
+        "after": "The answer connects the ideas with the intended meaning. The completed sentence is: The training office reopened after the repairs were finished.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "during": "\"during\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-558",
+      "level": "B2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "___ the high cost, the school approved the training before the compliance check.",
+      "options": [
+        "Despite",
+        "Because",
+        "Therefore",
+        "Unless"
+      ],
+      "answer": "Despite",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Despite the high cost, the school approved the training before the compliance check.",
+      "rationales": {
+        "Despite": "The answer connects the ideas with the intended meaning. The completed sentence is: Despite the high cost, the school approved the training before the compliance check.",
+        "Because": "\"Because\" does not connect the two ideas with the right relationship.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-559",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The first plan saves time, ___ the second plan reduces errors in the evaluation memo.",
+      "options": [
+        "whereas",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": "whereas",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The first plan saves time, whereas the second plan reduces errors in the evaluation memo.",
+      "rationales": {
+        "whereas": "The answer connects the ideas with the intended meaning. The completed sentence is: The first plan saves time, whereas the second plan reduces errors in the evaluation memo.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-b2-560",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The instructions were rewritten ___ applicants could complete the appeal form more easily.",
+      "options": [
+        "so that",
+        "because of",
+        "despite",
+        "whereas"
+      ],
+      "answer": "so that",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The instructions were rewritten so that applicants could complete the appeal form more easily.",
+      "rationales": {
+        "so that": "The answer connects the ideas with the intended meaning. The completed sentence is: The instructions were rewritten so that applicants could complete the appeal form more easily.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "whereas": "\"whereas\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-561",
+      "level": "C1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "Mina revised the proposal, ___ the main argument remained unchanged.",
+      "options": [
+        "whereas",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": "whereas",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Mina revised the proposal, whereas the main argument remained unchanged.",
+      "rationales": {
+        "whereas": "The answer connects the ideas with the intended meaning. The completed sentence is: Mina revised the proposal, whereas the main argument remained unchanged.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-562",
+      "level": "C1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The policy will apply ___ the planning committee grants an exemption.",
+      "options": [
+        "unless",
+        "whereas",
+        "therefore",
+        "because of"
+      ],
+      "answer": "unless",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The policy will apply unless the planning committee grants an exemption.",
+      "rationales": {
+        "unless": "The answer connects the ideas with the intended meaning. The completed sentence is: The policy will apply unless the planning committee grants an exemption.",
+        "whereas": "\"whereas\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-563",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The increase may reflect better reminders ___ stronger motivation during the stakeholder meeting.",
+      "options": [
+        "rather than",
+        "provided that",
+        "despite",
+        "therefore"
+      ],
+      "answer": "rather than",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The increase may reflect better reminders rather than stronger motivation during the stakeholder meeting.",
+      "rationales": {
+        "rather than": "The answer connects the ideas with the intended meaning. The completed sentence is: The increase may reflect better reminders rather than stronger motivation during the stakeholder meeting.",
+        "provided that": "\"provided that\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-564",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The finding is useful ___ the sample represents the full class before the recommendation is issued.",
+      "options": [
+        "provided that",
+        "whereas",
+        "despite",
+        "therefore"
+      ],
+      "answer": "provided that",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The finding is useful provided that the sample represents the full class before the recommendation is issued.",
+      "rationales": {
+        "provided that": "The answer connects the ideas with the intended meaning. The completed sentence is: The finding is useful provided that the sample represents the full class before the recommendation is issued.",
+        "whereas": "\"whereas\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-565",
+      "level": "C1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The new data support the result, ___ they do not explain its cause after the evidence is compared.",
+      "options": [
+        "although",
+        "because of",
+        "therefore",
+        "unless"
+      ],
+      "answer": "although",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The new data support the result, although they do not explain its cause after the evidence is compared.",
+      "rationales": {
+        "although": "The answer connects the ideas with the intended meaning. The completed sentence is: The new data support the result, although they do not explain its cause after the evidence is compared.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-566",
+      "level": "C1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "Lena revised the proposal, ___ the main argument remained unchanged.",
+      "options": [
+        "whereas",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": "whereas",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Lena revised the proposal, whereas the main argument remained unchanged.",
+      "rationales": {
+        "whereas": "The answer connects the ideas with the intended meaning. The completed sentence is: Lena revised the proposal, whereas the main argument remained unchanged.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-567",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The policy will apply ___ the scholarship committee grants an exemption.",
+      "options": [
+        "unless",
+        "whereas",
+        "therefore",
+        "because of"
+      ],
+      "answer": "unless",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The policy will apply unless the scholarship committee grants an exemption.",
+      "rationales": {
+        "unless": "The answer connects the ideas with the intended meaning. The completed sentence is: The policy will apply unless the scholarship committee grants an exemption.",
+        "whereas": "\"whereas\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-568",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The increase may reflect better reminders ___ stronger motivation after the pilot program.",
+      "options": [
+        "rather than",
+        "provided that",
+        "despite",
+        "therefore"
+      ],
+      "answer": "rather than",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The increase may reflect better reminders rather than stronger motivation after the pilot program.",
+      "rationales": {
+        "rather than": "The answer connects the ideas with the intended meaning. The completed sentence is: The increase may reflect better reminders rather than stronger motivation after the pilot program.",
+        "provided that": "\"provided that\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-569",
+      "level": "C1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The finding is useful ___ the sample represents the full class before the findings are published.",
+      "options": [
+        "provided that",
+        "whereas",
+        "despite",
+        "therefore"
+      ],
+      "answer": "provided that",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The finding is useful provided that the sample represents the full class before the findings are published.",
+      "rationales": {
+        "provided that": "The answer connects the ideas with the intended meaning. The completed sentence is: The finding is useful provided that the sample represents the full class before the findings are published.",
+        "whereas": "\"whereas\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-570",
+      "level": "C1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The new data support the result, ___ they do not explain its cause in the grant application.",
+      "options": [
+        "although",
+        "because of",
+        "therefore",
+        "unless"
+      ],
+      "answer": "although",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The new data support the result, although they do not explain its cause in the grant application.",
+      "rationales": {
+        "although": "The answer connects the ideas with the intended meaning. The completed sentence is: The new data support the result, although they do not explain its cause in the grant application.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-571",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Hana revised the proposal, ___ the main argument remained unchanged.",
+      "options": [
+        "whereas",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": "whereas",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Hana revised the proposal, whereas the main argument remained unchanged.",
+      "rationales": {
+        "whereas": "The answer connects the ideas with the intended meaning. The completed sentence is: Hana revised the proposal, whereas the main argument remained unchanged.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-572",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The policy will apply ___ the policy committee grants an exemption.",
+      "options": [
+        "unless",
+        "whereas",
+        "therefore",
+        "because of"
+      ],
+      "answer": "unless",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The policy will apply unless the policy committee grants an exemption.",
+      "rationales": {
+        "unless": "The answer connects the ideas with the intended meaning. The completed sentence is: The policy will apply unless the policy committee grants an exemption.",
+        "whereas": "\"whereas\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-573",
+      "level": "C1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The increase may reflect better reminders ___ stronger motivation after the interviews are coded.",
+      "options": [
+        "rather than",
+        "provided that",
+        "despite",
+        "therefore"
+      ],
+      "answer": "rather than",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The increase may reflect better reminders rather than stronger motivation after the interviews are coded.",
+      "rationales": {
+        "rather than": "The answer connects the ideas with the intended meaning. The completed sentence is: The increase may reflect better reminders rather than stronger motivation after the interviews are coded.",
+        "provided that": "\"provided that\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-574",
+      "level": "C1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The finding is useful ___ the sample represents the full class before the final vote.",
+      "options": [
+        "provided that",
+        "whereas",
+        "despite",
+        "therefore"
+      ],
+      "answer": "provided that",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The finding is useful provided that the sample represents the full class before the final vote.",
+      "rationales": {
+        "provided that": "The answer connects the ideas with the intended meaning. The completed sentence is: The finding is useful provided that the sample represents the full class before the final vote.",
+        "whereas": "\"whereas\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-575",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The new data support the result, ___ they do not explain its cause in the appendix note.",
+      "options": [
+        "although",
+        "because of",
+        "therefore",
+        "unless"
+      ],
+      "answer": "although",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The new data support the result, although they do not explain its cause in the appendix note.",
+      "rationales": {
+        "although": "The answer connects the ideas with the intended meaning. The completed sentence is: The new data support the result, although they do not explain its cause in the appendix note.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-576",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis revised the proposal, ___ the main argument remained unchanged.",
+      "options": [
+        "whereas",
+        "because",
+        "unless",
+        "so that"
+      ],
+      "answer": "whereas",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Luis revised the proposal, whereas the main argument remained unchanged.",
+      "rationales": {
+        "whereas": "The answer connects the ideas with the intended meaning. The completed sentence is: Luis revised the proposal, whereas the main argument remained unchanged.",
+        "because": "\"because\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship.",
+        "so that": "\"so that\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-577",
+      "level": "C1",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The policy will apply ___ the examination committee grants an exemption.",
+      "options": [
+        "unless",
+        "whereas",
+        "therefore",
+        "because of"
+      ],
+      "answer": "unless",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The policy will apply unless the examination committee grants an exemption.",
+      "rationales": {
+        "unless": "The answer connects the ideas with the intended meaning. The completed sentence is: The policy will apply unless the examination committee grants an exemption.",
+        "whereas": "\"whereas\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-578",
+      "level": "C1",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The increase may reflect better reminders ___ stronger motivation on the evidence table.",
+      "options": [
+        "rather than",
+        "provided that",
+        "despite",
+        "therefore"
+      ],
+      "answer": "rather than",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The increase may reflect better reminders rather than stronger motivation on the evidence table.",
+      "rationales": {
+        "rather than": "The answer connects the ideas with the intended meaning. The completed sentence is: The increase may reflect better reminders rather than stronger motivation on the evidence table.",
+        "provided that": "\"provided that\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-579",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The finding is useful ___ the sample represents the full class before the policy draft.",
+      "options": [
+        "provided that",
+        "whereas",
+        "despite",
+        "therefore"
+      ],
+      "answer": "provided that",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The finding is useful provided that the sample represents the full class before the policy draft.",
+      "rationales": {
+        "provided that": "The answer connects the ideas with the intended meaning. The completed sentence is: The finding is useful provided that the sample represents the full class before the policy draft.",
+        "whereas": "\"whereas\" does not connect the two ideas with the right relationship.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c1-580",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The new data support the result, ___ they do not explain its cause in the assessment rubric.",
+      "options": [
+        "although",
+        "because of",
+        "therefore",
+        "unless"
+      ],
+      "answer": "although",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The new data support the result, although they do not explain its cause in the assessment rubric.",
+      "rationales": {
+        "although": "The answer connects the ideas with the intended meaning. The completed sentence is: The new data support the result, although they do not explain its cause in the assessment rubric.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "unless": "\"unless\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-581",
+      "level": "C2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The plan for the report is feasible ___ the review committee approves the extra funding.",
+      "options": [
+        "provided that",
+        "despite that",
+        "because of",
+        "therefore"
+      ],
+      "answer": "provided that",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The plan for the report is feasible provided that the review committee approves the extra funding.",
+      "rationales": {
+        "provided that": "The answer connects the ideas with the intended meaning. The completed sentence is: The plan for the report is feasible provided that the review committee approves the extra funding.",
+        "despite that": "\"despite that\" does not connect the two ideas with the right relationship.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-582",
+      "level": "C2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The conclusion is defensible ___ the missing cases are treated as nonresponses during the evidentiary hearing.",
+      "options": [
+        "insofar as",
+        "despite",
+        "therefore",
+        "unless of"
+      ],
+      "answer": "insofar as",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The conclusion is defensible insofar as the missing cases are treated as nonresponses during the evidentiary hearing.",
+      "rationales": {
+        "insofar as": "The answer connects the ideas with the intended meaning. The completed sentence is: The conclusion is defensible insofar as the missing cases are treated as nonresponses during the evidentiary hearing.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "unless of": "\"unless of\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-583",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The files were checked twice ___ any clerical errors remain before the arbitration panel meets.",
+      "options": [
+        "lest",
+        "therefore",
+        "because of",
+        "inasmuch"
+      ],
+      "answer": "lest",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The files were checked twice lest any clerical errors remain before the arbitration panel meets.",
+      "rationales": {
+        "lest": "The answer connects the ideas with the intended meaning. The completed sentence is: The files were checked twice lest any clerical errors remain before the arbitration panel meets.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "inasmuch": "\"inasmuch\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-584",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "___ the narrow sample, the authors avoid broad claims in the fiduciary briefing.",
+      "options": [
+        "Given",
+        "Therefore",
+        "Unless",
+        "Whereas"
+      ],
+      "answer": "Given",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Given the narrow sample, the authors avoid broad claims in the fiduciary briefing.",
+      "rationales": {
+        "Given": "The answer connects the ideas with the intended meaning. The completed sentence is: Given the narrow sample, the authors avoid broad claims in the fiduciary briefing.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Whereas": "\"Whereas\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-585",
+      "level": "C2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The objection matters ___ it challenges the study's central assumption after the methodological critique.",
+      "options": [
+        "inasmuch as",
+        "despite",
+        "therefore",
+        "lest"
+      ],
+      "answer": "inasmuch as",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The objection matters inasmuch as it challenges the study's central assumption after the methodological critique.",
+      "rationales": {
+        "inasmuch as": "The answer connects the ideas with the intended meaning. The completed sentence is: The objection matters inasmuch as it challenges the study's central assumption after the methodological critique.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "lest": "\"lest\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-586",
+      "level": "C2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The plan for the chart is feasible ___ the hiring committee approves the extra funding.",
+      "options": [
+        "provided that",
+        "despite that",
+        "because of",
+        "therefore"
+      ],
+      "answer": "provided that",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The plan for the chart is feasible provided that the hiring committee approves the extra funding.",
+      "rationales": {
+        "provided that": "The answer connects the ideas with the intended meaning. The completed sentence is: The plan for the chart is feasible provided that the hiring committee approves the extra funding.",
+        "despite that": "\"despite that\" does not connect the two ideas with the right relationship.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-587",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The conclusion is defensible ___ the missing cases are treated as nonresponses in the interpretive framework.",
+      "options": [
+        "insofar as",
+        "despite",
+        "therefore",
+        "unless of"
+      ],
+      "answer": "insofar as",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The conclusion is defensible insofar as the missing cases are treated as nonresponses in the interpretive framework.",
+      "rationales": {
+        "insofar as": "The answer connects the ideas with the intended meaning. The completed sentence is: The conclusion is defensible insofar as the missing cases are treated as nonresponses in the interpretive framework.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "unless of": "\"unless of\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-588",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The files were checked twice ___ any clerical errors remain during the appellate review.",
+      "options": [
+        "lest",
+        "therefore",
+        "because of",
+        "inasmuch"
+      ],
+      "answer": "lest",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The files were checked twice lest any clerical errors remain during the appellate review.",
+      "rationales": {
+        "lest": "The answer connects the ideas with the intended meaning. The completed sentence is: The files were checked twice lest any clerical errors remain during the appellate review.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "inasmuch": "\"inasmuch\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-589",
+      "level": "C2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "___ the narrow sample, the authors avoid broad claims in the technical memorandum.",
+      "options": [
+        "Given",
+        "Therefore",
+        "Unless",
+        "Whereas"
+      ],
+      "answer": "Given",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Given the narrow sample, the authors avoid broad claims in the technical memorandum.",
+      "rationales": {
+        "Given": "The answer connects the ideas with the intended meaning. The completed sentence is: Given the narrow sample, the authors avoid broad claims in the technical memorandum.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Whereas": "\"Whereas\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-590",
+      "level": "C2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The objection matters ___ it challenges the study's central assumption after the objections are synthesized.",
+      "options": [
+        "inasmuch as",
+        "despite",
+        "therefore",
+        "lest"
+      ],
+      "answer": "inasmuch as",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The objection matters inasmuch as it challenges the study's central assumption after the objections are synthesized.",
+      "rationales": {
+        "inasmuch as": "The answer connects the ideas with the intended meaning. The completed sentence is: The objection matters inasmuch as it challenges the study's central assumption after the objections are synthesized.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "lest": "\"lest\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-591",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The plan for the lesson plan is feasible ___ the language committee approves the extra funding.",
+      "options": [
+        "provided that",
+        "despite that",
+        "because of",
+        "therefore"
+      ],
+      "answer": "provided that",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The plan for the lesson plan is feasible provided that the language committee approves the extra funding.",
+      "rationales": {
+        "provided that": "The answer connects the ideas with the intended meaning. The completed sentence is: The plan for the lesson plan is feasible provided that the language committee approves the extra funding.",
+        "despite that": "\"despite that\" does not connect the two ideas with the right relationship.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-592",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The conclusion is defensible ___ the missing cases are treated as nonresponses in the published corrigendum.",
+      "options": [
+        "insofar as",
+        "despite",
+        "therefore",
+        "unless of"
+      ],
+      "answer": "insofar as",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The conclusion is defensible insofar as the missing cases are treated as nonresponses in the published corrigendum.",
+      "rationales": {
+        "insofar as": "The answer connects the ideas with the intended meaning. The completed sentence is: The conclusion is defensible insofar as the missing cases are treated as nonresponses in the published corrigendum.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "unless of": "\"unless of\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-593",
+      "level": "C2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The files were checked twice ___ any clerical errors remain during the ethics review.",
+      "options": [
+        "lest",
+        "therefore",
+        "because of",
+        "inasmuch"
+      ],
+      "answer": "lest",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The files were checked twice lest any clerical errors remain during the ethics review.",
+      "rationales": {
+        "lest": "The answer connects the ideas with the intended meaning. The completed sentence is: The files were checked twice lest any clerical errors remain during the ethics review.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "inasmuch": "\"inasmuch\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-594",
+      "level": "C2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "___ the narrow sample, the authors avoid broad claims on the counterargument table.",
+      "options": [
+        "Given",
+        "Therefore",
+        "Unless",
+        "Whereas"
+      ],
+      "answer": "Given",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Given the narrow sample, the authors avoid broad claims on the counterargument table.",
+      "rationales": {
+        "Given": "The answer connects the ideas with the intended meaning. The completed sentence is: Given the narrow sample, the authors avoid broad claims on the counterargument table.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Whereas": "\"Whereas\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-595",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The objection matters ___ it challenges the study's central assumption before the final adjudication.",
+      "options": [
+        "inasmuch as",
+        "despite",
+        "therefore",
+        "lest"
+      ],
+      "answer": "inasmuch as",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The objection matters inasmuch as it challenges the study's central assumption before the final adjudication.",
+      "rationales": {
+        "inasmuch as": "The answer connects the ideas with the intended meaning. The completed sentence is: The objection matters inasmuch as it challenges the study's central assumption before the final adjudication.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "lest": "\"lest\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-596",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The plan for the agenda is feasible ___ the advisory committee approves the extra funding.",
+      "options": [
+        "provided that",
+        "despite that",
+        "because of",
+        "therefore"
+      ],
+      "answer": "provided that",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The plan for the agenda is feasible provided that the advisory committee approves the extra funding.",
+      "rationales": {
+        "provided that": "The answer connects the ideas with the intended meaning. The completed sentence is: The plan for the agenda is feasible provided that the advisory committee approves the extra funding.",
+        "despite that": "\"despite that\" does not connect the two ideas with the right relationship.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-597",
+      "level": "C2",
+      "setupText": "Choose the phrase that fits the sentence.",
+      "taskText": "The conclusion is defensible ___ the missing cases are treated as nonresponses during expert testimony.",
+      "options": [
+        "insofar as",
+        "despite",
+        "therefore",
+        "unless of"
+      ],
+      "answer": "insofar as",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The conclusion is defensible insofar as the missing cases are treated as nonresponses during expert testimony.",
+      "rationales": {
+        "insofar as": "The answer connects the ideas with the intended meaning. The completed sentence is: The conclusion is defensible insofar as the missing cases are treated as nonresponses during expert testimony.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "unless of": "\"unless of\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-598",
+      "level": "C2",
+      "setupText": "The answer must connect clearly with the rest of the sentence.",
+      "taskText": "The files were checked twice ___ any clerical errors remain in the compliance addendum.",
+      "options": [
+        "lest",
+        "therefore",
+        "because of",
+        "inasmuch"
+      ],
+      "answer": "lest",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The files were checked twice lest any clerical errors remain in the compliance addendum.",
+      "rationales": {
+        "lest": "The answer connects the ideas with the intended meaning. The completed sentence is: The files were checked twice lest any clerical errors remain in the compliance addendum.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "because of": "\"because of\" does not connect the two ideas with the right relationship.",
+        "inasmuch": "\"inasmuch\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-599",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ the narrow sample, the authors avoid broad claims after the longitudinal model is revised.",
+      "options": [
+        "Given",
+        "Therefore",
+        "Unless",
+        "Whereas"
+      ],
+      "answer": "Given",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: Given the narrow sample, the authors avoid broad claims after the longitudinal model is revised.",
+      "rationales": {
+        "Given": "The answer connects the ideas with the intended meaning. The completed sentence is: Given the narrow sample, the authors avoid broad claims after the longitudinal model is revised.",
+        "Therefore": "\"Therefore\" does not connect the two ideas with the right relationship.",
+        "Unless": "\"Unless\" does not connect the two ideas with the right relationship.",
+        "Whereas": "\"Whereas\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-clauses-and-connectors-c2-600",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The objection matters ___ it challenges the study's central assumption before the ruling is issued.",
+      "options": [
+        "inasmuch as",
+        "despite",
+        "therefore",
+        "lest"
+      ],
+      "answer": "inasmuch as",
+      "explanation": "The answer connects the ideas with the intended meaning. The completed sentence is: The objection matters inasmuch as it challenges the study's central assumption before the ruling is issued.",
+      "rationales": {
+        "inasmuch as": "The answer connects the ideas with the intended meaning. The completed sentence is: The objection matters inasmuch as it challenges the study's central assumption before the ruling is issued.",
+        "despite": "\"despite\" does not connect the two ideas with the right relationship.",
+        "therefore": "\"therefore\" does not connect the two ideas with the right relationship.",
+        "lest": "\"lest\" does not connect the two ideas with the right relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

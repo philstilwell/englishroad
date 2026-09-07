@@ -1,0 +1,2766 @@
+{
+  "topic": "Gerunds and infinitives",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1441",
+      "level": "A1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "Mina wants ___ English after work.",
+      "options": [
+        "to study",
+        "study",
+        "studying",
+        "to studying"
+      ],
+      "answer": "to study",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Mina wants to study English after work.",
+      "rationales": {
+        "to study": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Mina wants to study English after work.",
+        "study": "\"study\" does not fit the verb pattern in this sentence.",
+        "studying": "\"studying\" does not fit the verb pattern in this sentence.",
+        "to studying": "\"to studying\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1442",
+      "level": "A1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The students need ___ their names on the form.",
+      "options": [
+        "to write",
+        "write",
+        "writing",
+        "to writing"
+      ],
+      "answer": "to write",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The students need to write their names on the form.",
+      "rationales": {
+        "to write": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The students need to write their names on the form.",
+        "write": "\"write\" does not fit the verb pattern in this sentence.",
+        "writing": "\"writing\" does not fit the verb pattern in this sentence.",
+        "to writing": "\"to writing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1443",
+      "level": "A1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "Aiko enjoys ___ music after dinner.",
+      "options": [
+        "listening to",
+        "listen",
+        "to listening",
+        "listen to"
+      ],
+      "answer": "listening to",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Aiko enjoys listening to music after dinner.",
+      "rationales": {
+        "listening to": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Aiko enjoys listening to music after dinner.",
+        "listen": "\"listen\" does not fit the verb pattern in this sentence.",
+        "to listening": "\"to listening\" does not fit the verb pattern in this sentence.",
+        "listen to": "\"listen to\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1444",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "We hope ___ the lesson early.",
+      "options": [
+        "to start",
+        "start",
+        "starting",
+        "to starting"
+      ],
+      "answer": "to start",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: We hope to start the lesson early.",
+      "rationales": {
+        "to start": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: We hope to start the lesson early.",
+        "start": "\"start\" does not fit the verb pattern in this sentence.",
+        "starting": "\"starting\" does not fit the verb pattern in this sentence.",
+        "to starting": "\"to starting\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1445",
+      "level": "A1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The children want ___ outside today.",
+      "options": [
+        "to play",
+        "play",
+        "playing",
+        "to playing"
+      ],
+      "answer": "to play",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The children want to play outside today.",
+      "rationales": {
+        "to play": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The children want to play outside today.",
+        "play": "\"play\" does not fit the verb pattern in this sentence.",
+        "playing": "\"playing\" does not fit the verb pattern in this sentence.",
+        "to playing": "\"to playing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1446",
+      "level": "A1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "Carlos plans ___ a sandwich after class.",
+      "options": [
+        "to buy",
+        "buy",
+        "buying",
+        "to buying"
+      ],
+      "answer": "to buy",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Carlos plans to buy a sandwich after class.",
+      "rationales": {
+        "to buy": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Carlos plans to buy a sandwich after class.",
+        "buy": "\"buy\" does not fit the verb pattern in this sentence.",
+        "buying": "\"buying\" does not fit the verb pattern in this sentence.",
+        "to buying": "\"to buying\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1447",
+      "level": "A1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "Lena enjoys ___ pictures of flowers.",
+      "options": [
+        "drawing",
+        "to draw",
+        "draw",
+        "to drawing"
+      ],
+      "answer": "drawing",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Lena enjoys drawing pictures of flowers.",
+      "rationales": {
+        "drawing": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Lena enjoys drawing pictures of flowers.",
+        "to draw": "\"to draw\" does not fit the verb pattern in this sentence.",
+        "draw": "\"draw\" does not fit the verb pattern in this sentence.",
+        "to drawing": "\"to drawing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1448",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Please remember ___ the door.",
+      "options": [
+        "to close",
+        "close",
+        "closing",
+        "to closing"
+      ],
+      "answer": "to close",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Please remember to close the door.",
+      "rationales": {
+        "to close": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Please remember to close the door.",
+        "close": "\"close\" does not fit the verb pattern in this sentence.",
+        "closing": "\"closing\" does not fit the verb pattern in this sentence.",
+        "to closing": "\"to closing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1449",
+      "level": "A1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "Omar finished ___ his homework at six.",
+      "options": [
+        "doing",
+        "to doing",
+        "do",
+        "to do"
+      ],
+      "answer": "doing",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Omar finished doing his homework at six.",
+      "rationales": {
+        "doing": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Omar finished doing his homework at six.",
+        "to doing": "\"to doing\" does not fit the verb pattern in this sentence.",
+        "do": "\"do\" does not fit the verb pattern in this sentence.",
+        "to do": "\"to do\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1450",
+      "level": "A1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "Rina needs ___ a clean shirt.",
+      "options": [
+        "to wear",
+        "wear",
+        "wearing",
+        "to wearing"
+      ],
+      "answer": "to wear",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Rina needs to wear a clean shirt.",
+      "rationales": {
+        "to wear": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Rina needs to wear a clean shirt.",
+        "wear": "\"wear\" does not fit the verb pattern in this sentence.",
+        "wearing": "\"wearing\" does not fit the verb pattern in this sentence.",
+        "to wearing": "\"to wearing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1451",
+      "level": "A1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The baby enjoys ___ with the red ball.",
+      "options": [
+        "playing",
+        "play",
+        "to playing",
+        "played"
+      ],
+      "answer": "playing",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The baby enjoys playing with the red ball.",
+      "rationales": {
+        "playing": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The baby enjoys playing with the red ball.",
+        "play": "\"play\" does not fit the verb pattern in this sentence.",
+        "to playing": "\"to playing\" does not fit the verb pattern in this sentence.",
+        "played": "\"played\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1452",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Jonas forgot ___ his lunch bag.",
+      "options": [
+        "to bring",
+        "bring",
+        "bringing",
+        "to bringing"
+      ],
+      "answer": "to bring",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Jonas forgot to bring his lunch bag.",
+      "rationales": {
+        "to bring": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Jonas forgot to bring his lunch bag.",
+        "bring": "\"bring\" does not fit the verb pattern in this sentence.",
+        "bringing": "\"bringing\" does not fit the verb pattern in this sentence.",
+        "to bringing": "\"to bringing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1453",
+      "level": "A1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "Sara finished ___ the story aloud.",
+      "options": [
+        "reading",
+        "read",
+        "to reading",
+        "to read"
+      ],
+      "answer": "reading",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Sara finished reading the story aloud.",
+      "rationales": {
+        "reading": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Sara finished reading the story aloud.",
+        "read": "\"read\" does not fit the verb pattern in this sentence.",
+        "to reading": "\"to reading\" does not fit the verb pattern in this sentence.",
+        "to read": "\"to read\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1454",
+      "level": "A1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "Luis wants ___ near the window.",
+      "options": [
+        "to sit",
+        "sit",
+        "sitting",
+        "to sitting"
+      ],
+      "answer": "to sit",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Luis wants to sit near the window.",
+      "rationales": {
+        "to sit": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Luis wants to sit near the window.",
+        "sit": "\"sit\" does not fit the verb pattern in this sentence.",
+        "sitting": "\"sitting\" does not fit the verb pattern in this sentence.",
+        "to sitting": "\"to sitting\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1455",
+      "level": "A1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "Emma enjoys ___ tea in the morning.",
+      "options": [
+        "drinking",
+        "drink",
+        "to drinking",
+        "drank"
+      ],
+      "answer": "drinking",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Emma enjoys drinking tea in the morning.",
+      "rationales": {
+        "drinking": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Emma enjoys drinking tea in the morning.",
+        "drink": "\"drink\" does not fit the verb pattern in this sentence.",
+        "to drinking": "\"to drinking\" does not fit the verb pattern in this sentence.",
+        "drank": "\"drank\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1456",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Noah needs ___ the bus at seven.",
+      "options": [
+        "to catch",
+        "catch",
+        "catching",
+        "to catching"
+      ],
+      "answer": "to catch",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Noah needs to catch the bus at seven.",
+      "rationales": {
+        "to catch": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Noah needs to catch the bus at seven.",
+        "catch": "\"catch\" does not fit the verb pattern in this sentence.",
+        "catching": "\"catching\" does not fit the verb pattern in this sentence.",
+        "to catching": "\"to catching\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1457",
+      "level": "A1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "Yara stopped ___ when the teacher spoke.",
+      "options": [
+        "talking",
+        "talk",
+        "to talking",
+        "to talk"
+      ],
+      "answer": "talking",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Yara stopped talking when the teacher spoke.",
+      "rationales": {
+        "talking": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Yara stopped talking when the teacher spoke.",
+        "talk": "\"talk\" does not fit the verb pattern in this sentence.",
+        "to talking": "\"to talking\" does not fit the verb pattern in this sentence.",
+        "to talk": "\"to talk\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1458",
+      "level": "A1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "Theo hopes ___ his friend tomorrow.",
+      "options": [
+        "to see",
+        "see",
+        "seeing",
+        "to seeing"
+      ],
+      "answer": "to see",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Theo hopes to see his friend tomorrow.",
+      "rationales": {
+        "to see": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Theo hopes to see his friend tomorrow.",
+        "see": "\"see\" does not fit the verb pattern in this sentence.",
+        "seeing": "\"seeing\" does not fit the verb pattern in this sentence.",
+        "to seeing": "\"to seeing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1459",
+      "level": "A1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "My sister enjoys ___ in the kitchen.",
+      "options": [
+        "cooking",
+        "cook",
+        "to cooking",
+        "cooked"
+      ],
+      "answer": "cooking",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: My sister enjoys cooking in the kitchen.",
+      "rationales": {
+        "cooking": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: My sister enjoys cooking in the kitchen.",
+        "cook": "\"cook\" does not fit the verb pattern in this sentence.",
+        "to cooking": "\"to cooking\" does not fit the verb pattern in this sentence.",
+        "cooked": "\"cooked\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a1-1460",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "We need ___ before the movie starts.",
+      "options": [
+        "to leave",
+        "leave",
+        "leaving",
+        "to leaving"
+      ],
+      "answer": "to leave",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: We need to leave before the movie starts.",
+      "rationales": {
+        "to leave": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: We need to leave before the movie starts.",
+        "leave": "\"leave\" does not fit the verb pattern in this sentence.",
+        "leaving": "\"leaving\" does not fit the verb pattern in this sentence.",
+        "to leaving": "\"to leaving\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1461",
+      "level": "A2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "Mina enjoys ___ short stories.",
+      "options": [
+        "reading",
+        "to read",
+        "read",
+        "to reading"
+      ],
+      "answer": "reading",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Mina enjoys reading short stories.",
+      "rationales": {
+        "reading": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Mina enjoys reading short stories.",
+        "to read": "\"to read\" does not fit the verb pattern in this sentence.",
+        "read": "\"read\" does not fit the verb pattern in this sentence.",
+        "to reading": "\"to reading\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1462",
+      "level": "A2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The class finished ___ the worksheet before lunch.",
+      "options": [
+        "checking",
+        "to check",
+        "check",
+        "to checking"
+      ],
+      "answer": "checking",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The class finished checking the worksheet before lunch.",
+      "rationales": {
+        "checking": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The class finished checking the worksheet before lunch.",
+        "to check": "\"to check\" does not fit the verb pattern in this sentence.",
+        "check": "\"check\" does not fit the verb pattern in this sentence.",
+        "to checking": "\"to checking\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1463",
+      "level": "A2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "Aiko decided ___ the office before five.",
+      "options": [
+        "to call",
+        "calling",
+        "call",
+        "to calling"
+      ],
+      "answer": "to call",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Aiko decided to call the office before five.",
+      "rationales": {
+        "to call": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Aiko decided to call the office before five.",
+        "calling": "\"calling\" does not fit the verb pattern in this sentence.",
+        "call": "\"call\" does not fit the verb pattern in this sentence.",
+        "to calling": "\"to calling\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1464",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Please avoid ___ near the exam room.",
+      "options": [
+        "talking",
+        "to talk",
+        "talk",
+        "to talking"
+      ],
+      "answer": "talking",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Please avoid talking near the exam room.",
+      "rationales": {
+        "talking": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Please avoid talking near the exam room.",
+        "to talk": "\"to talk\" does not fit the verb pattern in this sentence.",
+        "talk": "\"talk\" does not fit the verb pattern in this sentence.",
+        "to talking": "\"to talking\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1465",
+      "level": "A2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The teacher promised ___ the results tomorrow.",
+      "options": [
+        "to send",
+        "sending",
+        "send",
+        "to sending"
+      ],
+      "answer": "to send",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The teacher promised to send the results tomorrow.",
+      "rationales": {
+        "to send": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The teacher promised to send the results tomorrow.",
+        "sending": "\"sending\" does not fit the verb pattern in this sentence.",
+        "send": "\"send\" does not fit the verb pattern in this sentence.",
+        "to sending": "\"to sending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1466",
+      "level": "A2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "Carlos agreed ___ the chairs after class.",
+      "options": [
+        "to move",
+        "moving",
+        "move",
+        "to moving"
+      ],
+      "answer": "to move",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Carlos agreed to move the chairs after class.",
+      "rationales": {
+        "to move": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Carlos agreed to move the chairs after class.",
+        "moving": "\"moving\" does not fit the verb pattern in this sentence.",
+        "move": "\"move\" does not fit the verb pattern in this sentence.",
+        "to moving": "\"to moving\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1467",
+      "level": "A2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "Lena kept ___ notes during the video.",
+      "options": [
+        "taking",
+        "to take",
+        "take",
+        "to taking"
+      ],
+      "answer": "taking",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Lena kept taking notes during the video.",
+      "rationales": {
+        "taking": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Lena kept taking notes during the video.",
+        "to take": "\"to take\" does not fit the verb pattern in this sentence.",
+        "take": "\"take\" does not fit the verb pattern in this sentence.",
+        "to taking": "\"to taking\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1468",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Omar hopes ___ a new job this month.",
+      "options": [
+        "to find",
+        "finding",
+        "find",
+        "to finding"
+      ],
+      "answer": "to find",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Omar hopes to find a new job this month.",
+      "rationales": {
+        "to find": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Omar hopes to find a new job this month.",
+        "finding": "\"finding\" does not fit the verb pattern in this sentence.",
+        "find": "\"find\" does not fit the verb pattern in this sentence.",
+        "to finding": "\"to finding\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1469",
+      "level": "A2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "Rina avoided ___ the same question twice.",
+      "options": [
+        "asking",
+        "to ask",
+        "ask",
+        "to asking"
+      ],
+      "answer": "asking",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Rina avoided asking the same question twice.",
+      "rationales": {
+        "asking": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Rina avoided asking the same question twice.",
+        "to ask": "\"to ask\" does not fit the verb pattern in this sentence.",
+        "ask": "\"ask\" does not fit the verb pattern in this sentence.",
+        "to asking": "\"to asking\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1470",
+      "level": "A2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "Jonas offered ___ the new student.",
+      "options": [
+        "to help",
+        "helping",
+        "help",
+        "to helping"
+      ],
+      "answer": "to help",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Jonas offered to help the new student.",
+      "rationales": {
+        "to help": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Jonas offered to help the new student.",
+        "helping": "\"helping\" does not fit the verb pattern in this sentence.",
+        "help": "\"help\" does not fit the verb pattern in this sentence.",
+        "to helping": "\"to helping\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1471",
+      "level": "A2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "Sara quit ___ sugar in her tea.",
+      "options": [
+        "putting",
+        "to put",
+        "put",
+        "to putting"
+      ],
+      "answer": "putting",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Sara quit putting sugar in her tea.",
+      "rationales": {
+        "putting": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Sara quit putting sugar in her tea.",
+        "to put": "\"to put\" does not fit the verb pattern in this sentence.",
+        "put": "\"put\" does not fit the verb pattern in this sentence.",
+        "to putting": "\"to putting\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1472",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis chose ___ by bus instead of train.",
+      "options": [
+        "to travel",
+        "traveling",
+        "travel",
+        "to traveling"
+      ],
+      "answer": "to travel",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Luis chose to travel by bus instead of train.",
+      "rationales": {
+        "to travel": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Luis chose to travel by bus instead of train.",
+        "traveling": "\"traveling\" does not fit the verb pattern in this sentence.",
+        "travel": "\"travel\" does not fit the verb pattern in this sentence.",
+        "to traveling": "\"to traveling\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1473",
+      "level": "A2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "Emma practiced ___ the new words aloud.",
+      "options": [
+        "saying",
+        "to say",
+        "say",
+        "to saying"
+      ],
+      "answer": "saying",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Emma practiced saying the new words aloud.",
+      "rationales": {
+        "saying": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Emma practiced saying the new words aloud.",
+        "to say": "\"to say\" does not fit the verb pattern in this sentence.",
+        "say": "\"say\" does not fit the verb pattern in this sentence.",
+        "to saying": "\"to saying\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1474",
+      "level": "A2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "Noah expects ___ home before dark.",
+      "options": [
+        "to arrive",
+        "arriving",
+        "arrive",
+        "to arriving"
+      ],
+      "answer": "to arrive",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Noah expects to arrive home before dark.",
+      "rationales": {
+        "to arrive": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Noah expects to arrive home before dark.",
+        "arriving": "\"arriving\" does not fit the verb pattern in this sentence.",
+        "arrive": "\"arrive\" does not fit the verb pattern in this sentence.",
+        "to arriving": "\"to arriving\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1475",
+      "level": "A2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "Yara missed ___ with her old classmates.",
+      "options": [
+        "studying",
+        "to study",
+        "study",
+        "to studying"
+      ],
+      "answer": "studying",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Yara missed studying with her old classmates.",
+      "rationales": {
+        "studying": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Yara missed studying with her old classmates.",
+        "to study": "\"to study\" does not fit the verb pattern in this sentence.",
+        "study": "\"study\" does not fit the verb pattern in this sentence.",
+        "to studying": "\"to studying\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1476",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Theo learned ___ a simple email in English.",
+      "options": [
+        "to write",
+        "writing",
+        "write",
+        "to writing"
+      ],
+      "answer": "to write",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Theo learned to write a simple email in English.",
+      "rationales": {
+        "to write": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Theo learned to write a simple email in English.",
+        "writing": "\"writing\" does not fit the verb pattern in this sentence.",
+        "write": "\"write\" does not fit the verb pattern in this sentence.",
+        "to writing": "\"to writing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1477",
+      "level": "A2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The nurse suggested ___ more water.",
+      "options": [
+        "drinking",
+        "to drink",
+        "drink",
+        "to drinking"
+      ],
+      "answer": "drinking",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The nurse suggested drinking more water.",
+      "rationales": {
+        "drinking": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The nurse suggested drinking more water.",
+        "to drink": "\"to drink\" does not fit the verb pattern in this sentence.",
+        "drink": "\"drink\" does not fit the verb pattern in this sentence.",
+        "to drinking": "\"to drinking\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1478",
+      "level": "A2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The driver refused ___ without a ticket.",
+      "options": [
+        "to leave",
+        "leaving",
+        "leave",
+        "to leaving"
+      ],
+      "answer": "to leave",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The driver refused to leave without a ticket.",
+      "rationales": {
+        "to leave": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The driver refused to leave without a ticket.",
+        "leaving": "\"leaving\" does not fit the verb pattern in this sentence.",
+        "leave": "\"leave\" does not fit the verb pattern in this sentence.",
+        "to leaving": "\"to leaving\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1479",
+      "level": "A2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The children kept ___ when the music began.",
+      "options": [
+        "dancing",
+        "to dancing",
+        "dance",
+        "to dance"
+      ],
+      "answer": "dancing",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The children kept dancing when the music began.",
+      "rationales": {
+        "dancing": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The children kept dancing when the music began.",
+        "to dancing": "\"to dancing\" does not fit the verb pattern in this sentence.",
+        "dance": "\"dance\" does not fit the verb pattern in this sentence.",
+        "to dance": "\"to dance\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-a2-1480",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The clerk reminded us ___ the last page.",
+      "options": [
+        "to sign",
+        "signing",
+        "sign",
+        "to signing"
+      ],
+      "answer": "to sign",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The clerk reminded us to sign the last page.",
+      "rationales": {
+        "to sign": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The clerk reminded us to sign the last page.",
+        "signing": "\"signing\" does not fit the verb pattern in this sentence.",
+        "sign": "\"sign\" does not fit the verb pattern in this sentence.",
+        "to signing": "\"to signing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1481",
+      "level": "B1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The front office agreed ___ the deadline for the report.",
+      "options": [
+        "to extend",
+        "extending",
+        "extend",
+        "to extending"
+      ],
+      "answer": "to extend",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The front office agreed to extend the deadline for the report.",
+      "rationales": {
+        "to extend": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The front office agreed to extend the deadline for the report.",
+        "extending": "\"extending\" does not fit the verb pattern in this sentence.",
+        "extend": "\"extend\" does not fit the verb pattern in this sentence.",
+        "to extending": "\"to extending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1482",
+      "level": "B1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "Carlos admitted ___ the wrong file.",
+      "options": [
+        "opening",
+        "to open",
+        "open",
+        "to opening"
+      ],
+      "answer": "opening",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Carlos admitted opening the wrong file.",
+      "rationales": {
+        "opening": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Carlos admitted opening the wrong file.",
+        "to open": "\"to open\" does not fit the verb pattern in this sentence.",
+        "open": "\"open\" does not fit the verb pattern in this sentence.",
+        "to opening": "\"to opening\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1483",
+      "level": "B1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The office manager refused ___ the incomplete form.",
+      "options": [
+        "to accept",
+        "accepting",
+        "accept",
+        "to accepting"
+      ],
+      "answer": "to accept",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The office manager refused to accept the incomplete form.",
+      "rationales": {
+        "to accept": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The office manager refused to accept the incomplete form.",
+        "accepting": "\"accepting\" does not fit the verb pattern in this sentence.",
+        "accept": "\"accept\" does not fit the verb pattern in this sentence.",
+        "to accepting": "\"to accepting\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1484",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The reading class practiced ___ questions politely.",
+      "options": [
+        "asking",
+        "to ask",
+        "ask",
+        "to asking"
+      ],
+      "answer": "asking",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The reading class practiced asking questions politely.",
+      "rationales": {
+        "asking": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The reading class practiced asking questions politely.",
+        "to ask": "\"to ask\" does not fit the verb pattern in this sentence.",
+        "ask": "\"ask\" does not fit the verb pattern in this sentence.",
+        "to asking": "\"to asking\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1485",
+      "level": "B1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "Omar managed ___ the missing receipt.",
+      "options": [
+        "to find",
+        "finding",
+        "find",
+        "to finding"
+      ],
+      "answer": "to find",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Omar managed to find the missing receipt.",
+      "rationales": {
+        "to find": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Omar managed to find the missing receipt.",
+        "finding": "\"finding\" does not fit the verb pattern in this sentence.",
+        "find": "\"find\" does not fit the verb pattern in this sentence.",
+        "to finding": "\"to finding\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1486",
+      "level": "B1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The admissions office agreed ___ the deadline for the chart.",
+      "options": [
+        "to extend",
+        "extending",
+        "extend",
+        "to extending"
+      ],
+      "answer": "to extend",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The admissions office agreed to extend the deadline for the chart.",
+      "rationales": {
+        "to extend": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The admissions office agreed to extend the deadline for the chart.",
+        "extending": "\"extending\" does not fit the verb pattern in this sentence.",
+        "extend": "\"extend\" does not fit the verb pattern in this sentence.",
+        "to extending": "\"to extending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1487",
+      "level": "B1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "Sofia admitted ___ the wrong file.",
+      "options": [
+        "opening",
+        "to open",
+        "open",
+        "to opening"
+      ],
+      "answer": "opening",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Sofia admitted opening the wrong file.",
+      "rationales": {
+        "opening": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Sofia admitted opening the wrong file.",
+        "to open": "\"to open\" does not fit the verb pattern in this sentence.",
+        "open": "\"open\" does not fit the verb pattern in this sentence.",
+        "to opening": "\"to opening\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1488",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The service manager refused ___ the incomplete form.",
+      "options": [
+        "to accept",
+        "accepting",
+        "accept",
+        "to accepting"
+      ],
+      "answer": "to accept",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The service manager refused to accept the incomplete form.",
+      "rationales": {
+        "to accept": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The service manager refused to accept the incomplete form.",
+        "accepting": "\"accepting\" does not fit the verb pattern in this sentence.",
+        "accept": "\"accept\" does not fit the verb pattern in this sentence.",
+        "to accepting": "\"to accepting\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1489",
+      "level": "B1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The Saturday class practiced ___ questions politely.",
+      "options": [
+        "asking",
+        "to ask",
+        "ask",
+        "to asking"
+      ],
+      "answer": "asking",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The Saturday class practiced asking questions politely.",
+      "rationales": {
+        "asking": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The Saturday class practiced asking questions politely.",
+        "to ask": "\"to ask\" does not fit the verb pattern in this sentence.",
+        "ask": "\"ask\" does not fit the verb pattern in this sentence.",
+        "to asking": "\"to asking\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1490",
+      "level": "B1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "Mateo managed ___ the missing receipt.",
+      "options": [
+        "to find",
+        "finding",
+        "find",
+        "to finding"
+      ],
+      "answer": "to find",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Mateo managed to find the missing receipt.",
+      "rationales": {
+        "to find": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Mateo managed to find the missing receipt.",
+        "finding": "\"finding\" does not fit the verb pattern in this sentence.",
+        "find": "\"find\" does not fit the verb pattern in this sentence.",
+        "to finding": "\"to finding\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1491",
+      "level": "B1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The finance office agreed ___ the deadline for the lesson plan.",
+      "options": [
+        "to extend",
+        "extending",
+        "extend",
+        "to extending"
+      ],
+      "answer": "to extend",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The finance office agreed to extend the deadline for the lesson plan.",
+      "rationales": {
+        "to extend": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The finance office agreed to extend the deadline for the lesson plan.",
+        "extending": "\"extending\" does not fit the verb pattern in this sentence.",
+        "extend": "\"extend\" does not fit the verb pattern in this sentence.",
+        "to extending": "\"to extending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1492",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Jonas admitted ___ the wrong file.",
+      "options": [
+        "opening",
+        "to open",
+        "open",
+        "to opening"
+      ],
+      "answer": "opening",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Jonas admitted opening the wrong file.",
+      "rationales": {
+        "opening": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Jonas admitted opening the wrong file.",
+        "to open": "\"to open\" does not fit the verb pattern in this sentence.",
+        "open": "\"open\" does not fit the verb pattern in this sentence.",
+        "to opening": "\"to opening\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1493",
+      "level": "B1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The department manager refused ___ the incomplete form.",
+      "options": [
+        "to accept",
+        "accepting",
+        "accept",
+        "to accepting"
+      ],
+      "answer": "to accept",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The department manager refused to accept the incomplete form.",
+      "rationales": {
+        "to accept": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The department manager refused to accept the incomplete form.",
+        "accepting": "\"accepting\" does not fit the verb pattern in this sentence.",
+        "accept": "\"accept\" does not fit the verb pattern in this sentence.",
+        "to accepting": "\"to accepting\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1494",
+      "level": "B1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The summer class practiced ___ questions politely.",
+      "options": [
+        "asking",
+        "to ask",
+        "ask",
+        "to asking"
+      ],
+      "answer": "asking",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The summer class practiced asking questions politely.",
+      "rationales": {
+        "asking": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The summer class practiced asking questions politely.",
+        "to ask": "\"to ask\" does not fit the verb pattern in this sentence.",
+        "ask": "\"ask\" does not fit the verb pattern in this sentence.",
+        "to asking": "\"to asking\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1495",
+      "level": "B1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "Sara managed ___ the missing receipt.",
+      "options": [
+        "to find",
+        "finding",
+        "find",
+        "to finding"
+      ],
+      "answer": "to find",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Sara managed to find the missing receipt.",
+      "rationales": {
+        "to find": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Sara managed to find the missing receipt.",
+        "finding": "\"finding\" does not fit the verb pattern in this sentence.",
+        "find": "\"find\" does not fit the verb pattern in this sentence.",
+        "to finding": "\"to finding\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1496",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The reception office agreed ___ the deadline for the agenda.",
+      "options": [
+        "to extend",
+        "extending",
+        "extend",
+        "to extending"
+      ],
+      "answer": "to extend",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The reception office agreed to extend the deadline for the agenda.",
+      "rationales": {
+        "to extend": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The reception office agreed to extend the deadline for the agenda.",
+        "extending": "\"extending\" does not fit the verb pattern in this sentence.",
+        "extend": "\"extend\" does not fit the verb pattern in this sentence.",
+        "to extending": "\"to extending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1497",
+      "level": "B1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "Emma admitted ___ the wrong file.",
+      "options": [
+        "opening",
+        "to open",
+        "open",
+        "to opening"
+      ],
+      "answer": "opening",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Emma admitted opening the wrong file.",
+      "rationales": {
+        "opening": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Emma admitted opening the wrong file.",
+        "to open": "\"to open\" does not fit the verb pattern in this sentence.",
+        "open": "\"open\" does not fit the verb pattern in this sentence.",
+        "to opening": "\"to opening\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1498",
+      "level": "B1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The payroll manager refused ___ the incomplete form.",
+      "options": [
+        "to accept",
+        "accepting",
+        "accept",
+        "to accepting"
+      ],
+      "answer": "to accept",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The payroll manager refused to accept the incomplete form.",
+      "rationales": {
+        "to accept": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The payroll manager refused to accept the incomplete form.",
+        "accepting": "\"accepting\" does not fit the verb pattern in this sentence.",
+        "accept": "\"accept\" does not fit the verb pattern in this sentence.",
+        "to accepting": "\"to accepting\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1499",
+      "level": "B1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The final class practiced ___ questions politely.",
+      "options": [
+        "asking",
+        "to ask",
+        "ask",
+        "to asking"
+      ],
+      "answer": "asking",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The final class practiced asking questions politely.",
+      "rationales": {
+        "asking": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The final class practiced asking questions politely.",
+        "to ask": "\"to ask\" does not fit the verb pattern in this sentence.",
+        "ask": "\"ask\" does not fit the verb pattern in this sentence.",
+        "to asking": "\"to asking\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b1-1500",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Theo managed ___ the missing receipt.",
+      "options": [
+        "to find",
+        "finding",
+        "find",
+        "to finding"
+      ],
+      "answer": "to find",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Theo managed to find the missing receipt.",
+      "rationales": {
+        "to find": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Theo managed to find the missing receipt.",
+        "finding": "\"finding\" does not fit the verb pattern in this sentence.",
+        "find": "\"find\" does not fit the verb pattern in this sentence.",
+        "to finding": "\"to finding\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1501",
+      "level": "B2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "Mina avoided ___ the same mistake twice.",
+      "options": [
+        "making",
+        "to make",
+        "make",
+        "to making"
+      ],
+      "answer": "making",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Mina avoided making the same mistake twice.",
+      "rationales": {
+        "making": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Mina avoided making the same mistake twice.",
+        "to make": "\"to make\" does not fit the verb pattern in this sentence.",
+        "make": "\"make\" does not fit the verb pattern in this sentence.",
+        "to making": "\"to making\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1502",
+      "level": "B2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The planning committee considered ___ the deadline by one week.",
+      "options": [
+        "extending",
+        "to extend",
+        "extend",
+        "to extending"
+      ],
+      "answer": "extending",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The planning committee considered extending the deadline by one week.",
+      "rationales": {
+        "extending": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The planning committee considered extending the deadline by one week.",
+        "to extend": "\"to extend\" does not fit the verb pattern in this sentence.",
+        "extend": "\"extend\" does not fit the verb pattern in this sentence.",
+        "to extending": "\"to extending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1503",
+      "level": "B2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The applicant expected ___ a reply by Friday before the budget meeting.",
+      "options": [
+        "to receive",
+        "receiving",
+        "receive",
+        "to receiving"
+      ],
+      "answer": "to receive",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The applicant expected to receive a reply by Friday before the budget meeting.",
+      "rationales": {
+        "to receive": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The applicant expected to receive a reply by Friday before the budget meeting.",
+        "receiving": "\"receiving\" does not fit the verb pattern in this sentence.",
+        "receive": "\"receive\" does not fit the verb pattern in this sentence.",
+        "to receiving": "\"to receiving\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1504",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The training manager postponed ___ the final decision.",
+      "options": [
+        "announcing",
+        "to announce",
+        "announce",
+        "to announcing"
+      ],
+      "answer": "announcing",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The training manager postponed announcing the final decision.",
+      "rationales": {
+        "announcing": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The training manager postponed announcing the final decision.",
+        "to announce": "\"to announce\" does not fit the verb pattern in this sentence.",
+        "announce": "\"announce\" does not fit the verb pattern in this sentence.",
+        "to announcing": "\"to announcing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1505",
+      "level": "B2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The team planned ___ the survey after the meeting after the complaint review.",
+      "options": [
+        "to revise",
+        "revising",
+        "revise",
+        "to revising"
+      ],
+      "answer": "to revise",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The team planned to revise the survey after the meeting after the complaint review.",
+      "rationales": {
+        "to revise": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The team planned to revise the survey after the meeting after the complaint review.",
+        "revising": "\"revising\" does not fit the verb pattern in this sentence.",
+        "revise": "\"revise\" does not fit the verb pattern in this sentence.",
+        "to revising": "\"to revising\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1506",
+      "level": "B2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "Lena avoided ___ the same mistake twice.",
+      "options": [
+        "making",
+        "to make",
+        "make",
+        "to making"
+      ],
+      "answer": "making",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Lena avoided making the same mistake twice.",
+      "rationales": {
+        "making": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Lena avoided making the same mistake twice.",
+        "to make": "\"to make\" does not fit the verb pattern in this sentence.",
+        "make": "\"make\" does not fit the verb pattern in this sentence.",
+        "to making": "\"to making\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1507",
+      "level": "B2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The scholarship committee considered ___ the deadline by one week.",
+      "options": [
+        "extending",
+        "to extend",
+        "extend",
+        "to extending"
+      ],
+      "answer": "extending",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The scholarship committee considered extending the deadline by one week.",
+      "rationales": {
+        "extending": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The scholarship committee considered extending the deadline by one week.",
+        "to extend": "\"to extend\" does not fit the verb pattern in this sentence.",
+        "extend": "\"extend\" does not fit the verb pattern in this sentence.",
+        "to extending": "\"to extending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1508",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The applicant expected ___ a reply by Friday before the contract is signed.",
+      "options": [
+        "to receive",
+        "receiving",
+        "receive",
+        "to receiving"
+      ],
+      "answer": "to receive",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The applicant expected to receive a reply by Friday before the contract is signed.",
+      "rationales": {
+        "to receive": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The applicant expected to receive a reply by Friday before the contract is signed.",
+        "receiving": "\"receiving\" does not fit the verb pattern in this sentence.",
+        "receive": "\"receive\" does not fit the verb pattern in this sentence.",
+        "to receiving": "\"to receiving\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1509",
+      "level": "B2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The finance manager postponed ___ the final decision.",
+      "options": [
+        "announcing",
+        "to announce",
+        "announce",
+        "to announcing"
+      ],
+      "answer": "announcing",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The finance manager postponed announcing the final decision.",
+      "rationales": {
+        "announcing": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The finance manager postponed announcing the final decision.",
+        "to announce": "\"to announce\" does not fit the verb pattern in this sentence.",
+        "announce": "\"announce\" does not fit the verb pattern in this sentence.",
+        "to announcing": "\"to announcing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1510",
+      "level": "B2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The team planned ___ the survey after the meeting after the planning call.",
+      "options": [
+        "to revise",
+        "revising",
+        "revise",
+        "to revising"
+      ],
+      "answer": "to revise",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The team planned to revise the survey after the meeting after the planning call.",
+      "rationales": {
+        "to revise": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The team planned to revise the survey after the meeting after the planning call.",
+        "revising": "\"revising\" does not fit the verb pattern in this sentence.",
+        "revise": "\"revise\" does not fit the verb pattern in this sentence.",
+        "to revising": "\"to revising\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1511",
+      "level": "B2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "Hana avoided ___ the same mistake twice.",
+      "options": [
+        "making",
+        "to make",
+        "make",
+        "to making"
+      ],
+      "answer": "making",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Hana avoided making the same mistake twice.",
+      "rationales": {
+        "making": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Hana avoided making the same mistake twice.",
+        "to make": "\"to make\" does not fit the verb pattern in this sentence.",
+        "make": "\"make\" does not fit the verb pattern in this sentence.",
+        "to making": "\"to making\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1512",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The policy committee considered ___ the deadline by one week.",
+      "options": [
+        "extending",
+        "to extend",
+        "extend",
+        "to extending"
+      ],
+      "answer": "extending",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The policy committee considered extending the deadline by one week.",
+      "rationales": {
+        "extending": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The policy committee considered extending the deadline by one week.",
+        "to extend": "\"to extend\" does not fit the verb pattern in this sentence.",
+        "extend": "\"extend\" does not fit the verb pattern in this sentence.",
+        "to extending": "\"to extending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1513",
+      "level": "B2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The applicant expected ___ a reply by Friday before the board discussion.",
+      "options": [
+        "to receive",
+        "receiving",
+        "receive",
+        "to receiving"
+      ],
+      "answer": "to receive",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The applicant expected to receive a reply by Friday before the board discussion.",
+      "rationales": {
+        "to receive": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The applicant expected to receive a reply by Friday before the board discussion.",
+        "receiving": "\"receiving\" does not fit the verb pattern in this sentence.",
+        "receive": "\"receive\" does not fit the verb pattern in this sentence.",
+        "to receiving": "\"to receiving\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1514",
+      "level": "B2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The operations manager postponed ___ the final decision.",
+      "options": [
+        "announcing",
+        "to announce",
+        "announce",
+        "to announcing"
+      ],
+      "answer": "announcing",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The operations manager postponed announcing the final decision.",
+      "rationales": {
+        "announcing": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The operations manager postponed announcing the final decision.",
+        "to announce": "\"to announce\" does not fit the verb pattern in this sentence.",
+        "announce": "\"announce\" does not fit the verb pattern in this sentence.",
+        "to announcing": "\"to announcing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1515",
+      "level": "B2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The team planned ___ the survey after the meeting after the service report.",
+      "options": [
+        "to revise",
+        "revising",
+        "revise",
+        "to revising"
+      ],
+      "answer": "to revise",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The team planned to revise the survey after the meeting after the service report.",
+      "rationales": {
+        "to revise": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The team planned to revise the survey after the meeting after the service report.",
+        "revising": "\"revising\" does not fit the verb pattern in this sentence.",
+        "revise": "\"revise\" does not fit the verb pattern in this sentence.",
+        "to revising": "\"to revising\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1516",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis avoided ___ the same mistake twice.",
+      "options": [
+        "making",
+        "to make",
+        "make",
+        "to making"
+      ],
+      "answer": "making",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Luis avoided making the same mistake twice.",
+      "rationales": {
+        "making": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Luis avoided making the same mistake twice.",
+        "to make": "\"to make\" does not fit the verb pattern in this sentence.",
+        "make": "\"make\" does not fit the verb pattern in this sentence.",
+        "to making": "\"to making\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1517",
+      "level": "B2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The examination committee considered ___ the deadline by one week.",
+      "options": [
+        "extending",
+        "to extend",
+        "extend",
+        "to extending"
+      ],
+      "answer": "extending",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The examination committee considered extending the deadline by one week.",
+      "rationales": {
+        "extending": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The examination committee considered extending the deadline by one week.",
+        "to extend": "\"to extend\" does not fit the verb pattern in this sentence.",
+        "extend": "\"extend\" does not fit the verb pattern in this sentence.",
+        "to extending": "\"to extending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1518",
+      "level": "B2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The applicant expected ___ a reply by Friday before the compliance check.",
+      "options": [
+        "to receive",
+        "receiving",
+        "receive",
+        "to receiving"
+      ],
+      "answer": "to receive",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The applicant expected to receive a reply by Friday before the compliance check.",
+      "rationales": {
+        "to receive": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The applicant expected to receive a reply by Friday before the compliance check.",
+        "receiving": "\"receiving\" does not fit the verb pattern in this sentence.",
+        "receive": "\"receive\" does not fit the verb pattern in this sentence.",
+        "to receiving": "\"to receiving\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1519",
+      "level": "B2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The support manager postponed ___ the final decision.",
+      "options": [
+        "announcing",
+        "to announce",
+        "announce",
+        "to announcing"
+      ],
+      "answer": "announcing",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The support manager postponed announcing the final decision.",
+      "rationales": {
+        "announcing": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The support manager postponed announcing the final decision.",
+        "to announce": "\"to announce\" does not fit the verb pattern in this sentence.",
+        "announce": "\"announce\" does not fit the verb pattern in this sentence.",
+        "to announcing": "\"to announcing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-b2-1520",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The team planned ___ the survey after the meeting after the final interview.",
+      "options": [
+        "to revise",
+        "revising",
+        "revise",
+        "to revising"
+      ],
+      "answer": "to revise",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The team planned to revise the survey after the meeting after the final interview.",
+      "rationales": {
+        "to revise": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The team planned to revise the survey after the meeting after the final interview.",
+        "revising": "\"revising\" does not fit the verb pattern in this sentence.",
+        "revise": "\"revise\" does not fit the verb pattern in this sentence.",
+        "to revising": "\"to revising\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1521",
+      "level": "C1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "Mina is accustomed to ___ complex instructions.",
+      "options": [
+        "reading",
+        "read",
+        "to read",
+        "to reading"
+      ],
+      "answer": "reading",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Mina is accustomed to reading complex instructions.",
+      "rationales": {
+        "reading": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Mina is accustomed to reading complex instructions.",
+        "read": "\"read\" does not fit the verb pattern in this sentence.",
+        "to read": "\"to read\" does not fit the verb pattern in this sentence.",
+        "to reading": "\"to reading\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1522",
+      "level": "C1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The planning committee is committed to ___ the review transparent.",
+      "options": [
+        "making",
+        "make",
+        "to make",
+        "to making"
+      ],
+      "answer": "making",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The planning committee is committed to making the review transparent.",
+      "rationales": {
+        "making": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The planning committee is committed to making the review transparent.",
+        "make": "\"make\" does not fit the verb pattern in this sentence.",
+        "to make": "\"to make\" does not fit the verb pattern in this sentence.",
+        "to making": "\"to making\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1523",
+      "level": "C1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The policy aims ___ unnecessary delays during the stakeholder meeting.",
+      "options": [
+        "to reduce",
+        "reducing",
+        "reduce",
+        "to reducing"
+      ],
+      "answer": "to reduce",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The policy aims to reduce unnecessary delays during the stakeholder meeting.",
+      "rationales": {
+        "to reduce": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The policy aims to reduce unnecessary delays during the stakeholder meeting.",
+        "reducing": "\"reducing\" does not fit the verb pattern in this sentence.",
+        "reduce": "\"reduce\" does not fit the verb pattern in this sentence.",
+        "to reducing": "\"to reducing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1524",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The researcher resisted ___ the finding too broadly before the recommendation is issued.",
+      "options": [
+        "interpreting",
+        "to interpret",
+        "interpret",
+        "to interpreting"
+      ],
+      "answer": "interpreting",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The researcher resisted interpreting the finding too broadly before the recommendation is issued.",
+      "rationales": {
+        "interpreting": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The researcher resisted interpreting the finding too broadly before the recommendation is issued.",
+        "to interpret": "\"to interpret\" does not fit the verb pattern in this sentence.",
+        "interpret": "\"interpret\" does not fit the verb pattern in this sentence.",
+        "to interpreting": "\"to interpreting\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1525",
+      "level": "C1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The research report failed ___ the strongest objection.",
+      "options": [
+        "to address",
+        "addressing",
+        "address",
+        "to addressing"
+      ],
+      "answer": "to address",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The research report failed to address the strongest objection.",
+      "rationales": {
+        "to address": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The research report failed to address the strongest objection.",
+        "addressing": "\"addressing\" does not fit the verb pattern in this sentence.",
+        "address": "\"address\" does not fit the verb pattern in this sentence.",
+        "to addressing": "\"to addressing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1526",
+      "level": "C1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "Lena is accustomed to ___ complex instructions.",
+      "options": [
+        "reading",
+        "read",
+        "to read",
+        "to reading"
+      ],
+      "answer": "reading",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Lena is accustomed to reading complex instructions.",
+      "rationales": {
+        "reading": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Lena is accustomed to reading complex instructions.",
+        "read": "\"read\" does not fit the verb pattern in this sentence.",
+        "to read": "\"to read\" does not fit the verb pattern in this sentence.",
+        "to reading": "\"to reading\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1527",
+      "level": "C1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The scholarship committee is committed to ___ the review transparent.",
+      "options": [
+        "making",
+        "make",
+        "to make",
+        "to making"
+      ],
+      "answer": "making",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The scholarship committee is committed to making the review transparent.",
+      "rationales": {
+        "making": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The scholarship committee is committed to making the review transparent.",
+        "make": "\"make\" does not fit the verb pattern in this sentence.",
+        "to make": "\"to make\" does not fit the verb pattern in this sentence.",
+        "to making": "\"to making\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1528",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The policy aims ___ unnecessary delays after the pilot program.",
+      "options": [
+        "to reduce",
+        "reducing",
+        "reduce",
+        "to reducing"
+      ],
+      "answer": "to reduce",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The policy aims to reduce unnecessary delays after the pilot program.",
+      "rationales": {
+        "to reduce": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The policy aims to reduce unnecessary delays after the pilot program.",
+        "reducing": "\"reducing\" does not fit the verb pattern in this sentence.",
+        "reduce": "\"reduce\" does not fit the verb pattern in this sentence.",
+        "to reducing": "\"to reducing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1529",
+      "level": "C1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The researcher resisted ___ the finding too broadly before the findings are published.",
+      "options": [
+        "interpreting",
+        "to interpret",
+        "interpret",
+        "to interpreting"
+      ],
+      "answer": "interpreting",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The researcher resisted interpreting the finding too broadly before the findings are published.",
+      "rationales": {
+        "interpreting": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The researcher resisted interpreting the finding too broadly before the findings are published.",
+        "to interpret": "\"to interpret\" does not fit the verb pattern in this sentence.",
+        "interpret": "\"interpret\" does not fit the verb pattern in this sentence.",
+        "to interpreting": "\"to interpreting\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1530",
+      "level": "C1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The quarterly report failed ___ the strongest objection.",
+      "options": [
+        "to address",
+        "addressing",
+        "address",
+        "to addressing"
+      ],
+      "answer": "to address",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The quarterly report failed to address the strongest objection.",
+      "rationales": {
+        "to address": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The quarterly report failed to address the strongest objection.",
+        "addressing": "\"addressing\" does not fit the verb pattern in this sentence.",
+        "address": "\"address\" does not fit the verb pattern in this sentence.",
+        "to addressing": "\"to addressing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1531",
+      "level": "C1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "Hana is accustomed to ___ complex instructions.",
+      "options": [
+        "reading",
+        "read",
+        "to read",
+        "to reading"
+      ],
+      "answer": "reading",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Hana is accustomed to reading complex instructions.",
+      "rationales": {
+        "reading": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Hana is accustomed to reading complex instructions.",
+        "read": "\"read\" does not fit the verb pattern in this sentence.",
+        "to read": "\"to read\" does not fit the verb pattern in this sentence.",
+        "to reading": "\"to reading\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1532",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The policy committee is committed to ___ the review transparent.",
+      "options": [
+        "making",
+        "make",
+        "to make",
+        "to making"
+      ],
+      "answer": "making",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The policy committee is committed to making the review transparent.",
+      "rationales": {
+        "making": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The policy committee is committed to making the review transparent.",
+        "make": "\"make\" does not fit the verb pattern in this sentence.",
+        "to make": "\"to make\" does not fit the verb pattern in this sentence.",
+        "to making": "\"to making\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1533",
+      "level": "C1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The policy aims ___ unnecessary delays after the interviews are coded.",
+      "options": [
+        "to reduce",
+        "reducing",
+        "reduce",
+        "to reducing"
+      ],
+      "answer": "to reduce",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The policy aims to reduce unnecessary delays after the interviews are coded.",
+      "rationales": {
+        "to reduce": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The policy aims to reduce unnecessary delays after the interviews are coded.",
+        "reducing": "\"reducing\" does not fit the verb pattern in this sentence.",
+        "reduce": "\"reduce\" does not fit the verb pattern in this sentence.",
+        "to reducing": "\"to reducing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1534",
+      "level": "C1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The researcher resisted ___ the finding too broadly before the final vote.",
+      "options": [
+        "interpreting",
+        "to interpret",
+        "interpret",
+        "to interpreting"
+      ],
+      "answer": "interpreting",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The researcher resisted interpreting the finding too broadly before the final vote.",
+      "rationales": {
+        "interpreting": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The researcher resisted interpreting the finding too broadly before the final vote.",
+        "to interpret": "\"to interpret\" does not fit the verb pattern in this sentence.",
+        "interpret": "\"interpret\" does not fit the verb pattern in this sentence.",
+        "to interpreting": "\"to interpreting\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1535",
+      "level": "C1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The annual report failed ___ the strongest objection.",
+      "options": [
+        "to address",
+        "addressing",
+        "address",
+        "to addressing"
+      ],
+      "answer": "to address",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The annual report failed to address the strongest objection.",
+      "rationales": {
+        "to address": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The annual report failed to address the strongest objection.",
+        "addressing": "\"addressing\" does not fit the verb pattern in this sentence.",
+        "address": "\"address\" does not fit the verb pattern in this sentence.",
+        "to addressing": "\"to addressing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1536",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis is accustomed to ___ complex instructions.",
+      "options": [
+        "reading",
+        "read",
+        "to read",
+        "to reading"
+      ],
+      "answer": "reading",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Luis is accustomed to reading complex instructions.",
+      "rationales": {
+        "reading": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Luis is accustomed to reading complex instructions.",
+        "read": "\"read\" does not fit the verb pattern in this sentence.",
+        "to read": "\"to read\" does not fit the verb pattern in this sentence.",
+        "to reading": "\"to reading\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1537",
+      "level": "C1",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The examination committee is committed to ___ the review transparent.",
+      "options": [
+        "making",
+        "make",
+        "to make",
+        "to making"
+      ],
+      "answer": "making",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The examination committee is committed to making the review transparent.",
+      "rationales": {
+        "making": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The examination committee is committed to making the review transparent.",
+        "make": "\"make\" does not fit the verb pattern in this sentence.",
+        "to make": "\"to make\" does not fit the verb pattern in this sentence.",
+        "to making": "\"to making\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1538",
+      "level": "C1",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The policy aims ___ unnecessary delays on the evidence table.",
+      "options": [
+        "to reduce",
+        "reducing",
+        "reduce",
+        "to reducing"
+      ],
+      "answer": "to reduce",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The policy aims to reduce unnecessary delays on the evidence table.",
+      "rationales": {
+        "to reduce": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The policy aims to reduce unnecessary delays on the evidence table.",
+        "reducing": "\"reducing\" does not fit the verb pattern in this sentence.",
+        "reduce": "\"reduce\" does not fit the verb pattern in this sentence.",
+        "to reducing": "\"to reducing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1539",
+      "level": "C1",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The researcher resisted ___ the finding too broadly before the policy draft.",
+      "options": [
+        "interpreting",
+        "to interpret",
+        "interpret",
+        "to interpreting"
+      ],
+      "answer": "interpreting",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The researcher resisted interpreting the finding too broadly before the policy draft.",
+      "rationales": {
+        "interpreting": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The researcher resisted interpreting the finding too broadly before the policy draft.",
+        "to interpret": "\"to interpret\" does not fit the verb pattern in this sentence.",
+        "interpret": "\"interpret\" does not fit the verb pattern in this sentence.",
+        "to interpreting": "\"to interpreting\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c1-1540",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The draft report failed ___ the strongest objection.",
+      "options": [
+        "to address",
+        "addressing",
+        "address",
+        "to addressing"
+      ],
+      "answer": "to address",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The draft report failed to address the strongest objection.",
+      "rationales": {
+        "to address": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The draft report failed to address the strongest objection.",
+        "addressing": "\"addressing\" does not fit the verb pattern in this sentence.",
+        "address": "\"address\" does not fit the verb pattern in this sentence.",
+        "to addressing": "\"to addressing\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1541",
+      "level": "C2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "Mina objected to ___ without enough evidence.",
+      "options": [
+        "being criticized",
+        "criticize",
+        "be criticized",
+        "to criticize"
+      ],
+      "answer": "being criticized",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Mina objected to being criticized without enough evidence.",
+      "rationales": {
+        "being criticized": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Mina objected to being criticized without enough evidence.",
+        "criticize": "\"criticize\" does not fit the verb pattern in this sentence.",
+        "be criticized": "\"be criticized\" does not fit the verb pattern in this sentence.",
+        "to criticize": "\"to criticize\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1542",
+      "level": "C2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The author acknowledged ___ the original claim too broadly during the evidentiary hearing.",
+      "options": [
+        "having stated",
+        "to have stated",
+        "state",
+        "having state"
+      ],
+      "answer": "having stated",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The author acknowledged having stated the original claim too broadly during the evidentiary hearing.",
+      "rationales": {
+        "having stated": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The author acknowledged having stated the original claim too broadly during the evidentiary hearing.",
+        "to have stated": "\"to have stated\" does not fit the verb pattern in this sentence.",
+        "state": "\"state\" does not fit the verb pattern in this sentence.",
+        "having state": "\"having state\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1543",
+      "level": "C2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The dissent stops short of ___ the statute invalid before the arbitration panel meets.",
+      "options": [
+        "calling",
+        "to call",
+        "call",
+        "to calling"
+      ],
+      "answer": "calling",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The dissent stops short of calling the statute invalid before the arbitration panel meets.",
+      "rationales": {
+        "calling": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The dissent stops short of calling the statute invalid before the arbitration panel meets.",
+        "to call": "\"to call\" does not fit the verb pattern in this sentence.",
+        "call": "\"call\" does not fit the verb pattern in this sentence.",
+        "to calling": "\"to calling\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1544",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The panel declined ___ the precedent beyond this case in the fiduciary briefing.",
+      "options": [
+        "to extend",
+        "extending",
+        "extend",
+        "to extending"
+      ],
+      "answer": "to extend",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The panel declined to extend the precedent beyond this case in the fiduciary briefing.",
+      "rationales": {
+        "to extend": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The panel declined to extend the precedent beyond this case in the fiduciary briefing.",
+        "extending": "\"extending\" does not fit the verb pattern in this sentence.",
+        "extend": "\"extend\" does not fit the verb pattern in this sentence.",
+        "to extending": "\"to extending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1545",
+      "level": "C2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The memo recommends ___ the disputed clause intact after the methodological critique.",
+      "options": [
+        "leaving",
+        "to leave",
+        "leave",
+        "to leaving"
+      ],
+      "answer": "leaving",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The memo recommends leaving the disputed clause intact after the methodological critique.",
+      "rationales": {
+        "leaving": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The memo recommends leaving the disputed clause intact after the methodological critique.",
+        "to leave": "\"to leave\" does not fit the verb pattern in this sentence.",
+        "leave": "\"leave\" does not fit the verb pattern in this sentence.",
+        "to leaving": "\"to leaving\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1546",
+      "level": "C2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "Lena objected to ___ without enough evidence.",
+      "options": [
+        "being criticized",
+        "criticize",
+        "be criticized",
+        "to criticize"
+      ],
+      "answer": "being criticized",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Lena objected to being criticized without enough evidence.",
+      "rationales": {
+        "being criticized": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Lena objected to being criticized without enough evidence.",
+        "criticize": "\"criticize\" does not fit the verb pattern in this sentence.",
+        "be criticized": "\"be criticized\" does not fit the verb pattern in this sentence.",
+        "to criticize": "\"to criticize\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1547",
+      "level": "C2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The author acknowledged ___ the original claim too broadly in the interpretive framework.",
+      "options": [
+        "having stated",
+        "to have stated",
+        "state",
+        "having state"
+      ],
+      "answer": "having stated",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The author acknowledged having stated the original claim too broadly in the interpretive framework.",
+      "rationales": {
+        "having stated": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The author acknowledged having stated the original claim too broadly in the interpretive framework.",
+        "to have stated": "\"to have stated\" does not fit the verb pattern in this sentence.",
+        "state": "\"state\" does not fit the verb pattern in this sentence.",
+        "having state": "\"having state\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1548",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The dissent stops short of ___ the statute invalid during the appellate review.",
+      "options": [
+        "calling",
+        "to call",
+        "call",
+        "to calling"
+      ],
+      "answer": "calling",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The dissent stops short of calling the statute invalid during the appellate review.",
+      "rationales": {
+        "calling": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The dissent stops short of calling the statute invalid during the appellate review.",
+        "to call": "\"to call\" does not fit the verb pattern in this sentence.",
+        "call": "\"call\" does not fit the verb pattern in this sentence.",
+        "to calling": "\"to calling\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1549",
+      "level": "C2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The panel declined ___ the precedent beyond this case in the technical memorandum.",
+      "options": [
+        "to extend",
+        "extending",
+        "extend",
+        "to extending"
+      ],
+      "answer": "to extend",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The panel declined to extend the precedent beyond this case in the technical memorandum.",
+      "rationales": {
+        "to extend": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The panel declined to extend the precedent beyond this case in the technical memorandum.",
+        "extending": "\"extending\" does not fit the verb pattern in this sentence.",
+        "extend": "\"extend\" does not fit the verb pattern in this sentence.",
+        "to extending": "\"to extending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1550",
+      "level": "C2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The memo recommends ___ the disputed clause intact after the objections are synthesized.",
+      "options": [
+        "leaving",
+        "to leave",
+        "leave",
+        "to leaving"
+      ],
+      "answer": "leaving",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The memo recommends leaving the disputed clause intact after the objections are synthesized.",
+      "rationales": {
+        "leaving": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The memo recommends leaving the disputed clause intact after the objections are synthesized.",
+        "to leave": "\"to leave\" does not fit the verb pattern in this sentence.",
+        "leave": "\"leave\" does not fit the verb pattern in this sentence.",
+        "to leaving": "\"to leaving\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1551",
+      "level": "C2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "Hana objected to ___ without enough evidence.",
+      "options": [
+        "being criticized",
+        "criticize",
+        "be criticized",
+        "to criticize"
+      ],
+      "answer": "being criticized",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Hana objected to being criticized without enough evidence.",
+      "rationales": {
+        "being criticized": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Hana objected to being criticized without enough evidence.",
+        "criticize": "\"criticize\" does not fit the verb pattern in this sentence.",
+        "be criticized": "\"be criticized\" does not fit the verb pattern in this sentence.",
+        "to criticize": "\"to criticize\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1552",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The author acknowledged ___ the original claim too broadly in the published corrigendum.",
+      "options": [
+        "having stated",
+        "to have stated",
+        "state",
+        "having state"
+      ],
+      "answer": "having stated",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The author acknowledged having stated the original claim too broadly in the published corrigendum.",
+      "rationales": {
+        "having stated": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The author acknowledged having stated the original claim too broadly in the published corrigendum.",
+        "to have stated": "\"to have stated\" does not fit the verb pattern in this sentence.",
+        "state": "\"state\" does not fit the verb pattern in this sentence.",
+        "having state": "\"having state\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1553",
+      "level": "C2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The dissent stops short of ___ the statute invalid during the ethics review.",
+      "options": [
+        "calling",
+        "to call",
+        "call",
+        "to calling"
+      ],
+      "answer": "calling",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The dissent stops short of calling the statute invalid during the ethics review.",
+      "rationales": {
+        "calling": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The dissent stops short of calling the statute invalid during the ethics review.",
+        "to call": "\"to call\" does not fit the verb pattern in this sentence.",
+        "call": "\"call\" does not fit the verb pattern in this sentence.",
+        "to calling": "\"to calling\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1554",
+      "level": "C2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The panel declined ___ the precedent beyond this case on the counterargument table.",
+      "options": [
+        "to extend",
+        "extending",
+        "extend",
+        "to extending"
+      ],
+      "answer": "to extend",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The panel declined to extend the precedent beyond this case on the counterargument table.",
+      "rationales": {
+        "to extend": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The panel declined to extend the precedent beyond this case on the counterargument table.",
+        "extending": "\"extending\" does not fit the verb pattern in this sentence.",
+        "extend": "\"extend\" does not fit the verb pattern in this sentence.",
+        "to extending": "\"to extending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1555",
+      "level": "C2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The memo recommends ___ the disputed clause intact before the final adjudication.",
+      "options": [
+        "leaving",
+        "to leave",
+        "leave",
+        "to leaving"
+      ],
+      "answer": "leaving",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The memo recommends leaving the disputed clause intact before the final adjudication.",
+      "rationales": {
+        "leaving": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The memo recommends leaving the disputed clause intact before the final adjudication.",
+        "to leave": "\"to leave\" does not fit the verb pattern in this sentence.",
+        "leave": "\"leave\" does not fit the verb pattern in this sentence.",
+        "to leaving": "\"to leaving\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1556",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis objected to ___ without enough evidence.",
+      "options": [
+        "being criticized",
+        "criticize",
+        "be criticized",
+        "to criticize"
+      ],
+      "answer": "being criticized",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Luis objected to being criticized without enough evidence.",
+      "rationales": {
+        "being criticized": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: Luis objected to being criticized without enough evidence.",
+        "criticize": "\"criticize\" does not fit the verb pattern in this sentence.",
+        "be criticized": "\"be criticized\" does not fit the verb pattern in this sentence.",
+        "to criticize": "\"to criticize\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1557",
+      "level": "C2",
+      "setupText": "Choose the verb pattern that sounds natural.",
+      "taskText": "The author acknowledged ___ the original claim too broadly during expert testimony.",
+      "options": [
+        "having stated",
+        "to have stated",
+        "state",
+        "having state"
+      ],
+      "answer": "having stated",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The author acknowledged having stated the original claim too broadly during expert testimony.",
+      "rationales": {
+        "having stated": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The author acknowledged having stated the original claim too broadly during expert testimony.",
+        "to have stated": "\"to have stated\" does not fit the verb pattern in this sentence.",
+        "state": "\"state\" does not fit the verb pattern in this sentence.",
+        "having state": "\"having state\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1558",
+      "level": "C2",
+      "setupText": "Read the word before the blank, then choose the best form.",
+      "taskText": "The dissent stops short of ___ the statute invalid in the compliance addendum.",
+      "options": [
+        "calling",
+        "to call",
+        "call",
+        "to calling"
+      ],
+      "answer": "calling",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The dissent stops short of calling the statute invalid in the compliance addendum.",
+      "rationales": {
+        "calling": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The dissent stops short of calling the statute invalid in the compliance addendum.",
+        "to call": "\"to call\" does not fit the verb pattern in this sentence.",
+        "call": "\"call\" does not fit the verb pattern in this sentence.",
+        "to calling": "\"to calling\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1559",
+      "level": "C2",
+      "setupText": "The answer should fit the verb pattern.",
+      "taskText": "The panel declined ___ the precedent beyond this case after the longitudinal model is revised.",
+      "options": [
+        "to extend",
+        "extending",
+        "extend",
+        "to extending"
+      ],
+      "answer": "to extend",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The panel declined to extend the precedent beyond this case after the longitudinal model is revised.",
+      "rationales": {
+        "to extend": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The panel declined to extend the precedent beyond this case after the longitudinal model is revised.",
+        "extending": "\"extending\" does not fit the verb pattern in this sentence.",
+        "extend": "\"extend\" does not fit the verb pattern in this sentence.",
+        "to extending": "\"to extending\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-gerunds-and-infinitives-c2-1560",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The memo recommends ___ the disputed clause intact before the ruling is issued.",
+      "options": [
+        "leaving",
+        "to leave",
+        "leave",
+        "to leaving"
+      ],
+      "answer": "leaving",
+      "explanation": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The memo recommends leaving the disputed clause intact before the ruling is issued.",
+      "rationales": {
+        "leaving": "Some verbs and adjectives need an -ing form, and some need to plus a verb. The completed sentence is: The memo recommends leaving the disputed clause intact before the ruling is issued.",
+        "to leave": "\"to leave\" does not fit the verb pattern in this sentence.",
+        "leave": "\"leave\" does not fit the verb pattern in this sentence.",
+        "to leaving": "\"to leaving\" does not fit the verb pattern in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

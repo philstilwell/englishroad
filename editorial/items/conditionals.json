@@ -1,0 +1,2766 @@
+{
+  "topic": "Conditionals",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-conditionals-a1-841",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If it rains, Mina ___ inside.",
+      "options": [
+        "will stay",
+        "stays to",
+        "stayed to",
+        "will stayed"
+      ],
+      "answer": "will stay",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If it rains, Mina will stay inside.",
+      "rationales": {
+        "will stay": "The answer must match the condition in the first part of the sentence. The completed sentence is: If it rains, Mina will stay inside.",
+        "stays to": "\"stays to\" does not match the condition pattern in the sentence.",
+        "stayed to": "\"stayed to\" does not match the condition pattern in the sentence.",
+        "will stayed": "\"will stayed\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-842",
+      "level": "A1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If the door is open, the students ___ in in class.",
+      "options": [
+        "can come",
+        "can comes",
+        "came to",
+        "are come"
+      ],
+      "answer": "can come",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the door is open, the students can come in in class.",
+      "rationales": {
+        "can come": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the door is open, the students can come in in class.",
+        "can comes": "\"can comes\" does not match the condition pattern in the sentence.",
+        "came to": "\"came to\" does not match the condition pattern in the sentence.",
+        "are come": "\"are come\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-843",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "If the bell rings, class ___ soon after lunch.",
+      "options": [
+        "will start",
+        "starts to",
+        "started to",
+        "will started"
+      ],
+      "answer": "will start",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bell rings, class will start soon after lunch.",
+      "rationales": {
+        "will start": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bell rings, class will start soon after lunch.",
+        "starts to": "\"starts to\" does not match the condition pattern in the sentence.",
+        "started to": "\"started to\" does not match the condition pattern in the sentence.",
+        "will started": "\"will started\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-844",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Nadia is hungry, Nadia ___ lunch now.",
+      "options": [
+        "can eat",
+        "can eats",
+        "ate to",
+        "is eat"
+      ],
+      "answer": "can eat",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Nadia is hungry, Nadia can eat lunch now.",
+      "rationales": {
+        "can eat": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Nadia is hungry, Nadia can eat lunch now.",
+        "can eats": "\"can eats\" does not match the condition pattern in the sentence.",
+        "ate to": "\"ate to\" does not match the condition pattern in the sentence.",
+        "is eat": "\"is eat\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-845",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If the bus is late, Omar ___ to school.",
+      "options": [
+        "will walk",
+        "walks to",
+        "walked to",
+        "will walked"
+      ],
+      "answer": "will walk",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bus is late, Omar will walk to school.",
+      "rationales": {
+        "will walk": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bus is late, Omar will walk to school.",
+        "walks to": "\"walks to\" does not match the condition pattern in the sentence.",
+        "walked to": "\"walked to\" does not match the condition pattern in the sentence.",
+        "will walked": "\"will walked\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-846",
+      "level": "A1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If it rains, Lena ___ inside.",
+      "options": [
+        "will stay",
+        "stays to",
+        "stayed to",
+        "will stayed"
+      ],
+      "answer": "will stay",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If it rains, Lena will stay inside.",
+      "rationales": {
+        "will stay": "The answer must match the condition in the first part of the sentence. The completed sentence is: If it rains, Lena will stay inside.",
+        "stays to": "\"stays to\" does not match the condition pattern in the sentence.",
+        "stayed to": "\"stayed to\" does not match the condition pattern in the sentence.",
+        "will stayed": "\"will stayed\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-847",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "If the door is open, the students ___ in near the door.",
+      "options": [
+        "can come",
+        "can comes",
+        "came to",
+        "are come"
+      ],
+      "answer": "can come",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the door is open, the students can come in near the door.",
+      "rationales": {
+        "can come": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the door is open, the students can come in near the door.",
+        "can comes": "\"can comes\" does not match the condition pattern in the sentence.",
+        "came to": "\"came to\" does not match the condition pattern in the sentence.",
+        "are come": "\"are come\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-848",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If the bell rings, class ___ soon at home.",
+      "options": [
+        "will start",
+        "starts to",
+        "started to",
+        "will started"
+      ],
+      "answer": "will start",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bell rings, class will start soon at home.",
+      "rationales": {
+        "will start": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bell rings, class will start soon at home.",
+        "starts to": "\"starts to\" does not match the condition pattern in the sentence.",
+        "started to": "\"started to\" does not match the condition pattern in the sentence.",
+        "will started": "\"will started\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-849",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If Rina is hungry, Rina ___ lunch now.",
+      "options": [
+        "can eat",
+        "can eats",
+        "ate to",
+        "is eat"
+      ],
+      "answer": "can eat",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Rina is hungry, Rina can eat lunch now.",
+      "rationales": {
+        "can eat": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Rina is hungry, Rina can eat lunch now.",
+        "can eats": "\"can eats\" does not match the condition pattern in the sentence.",
+        "ate to": "\"ate to\" does not match the condition pattern in the sentence.",
+        "is eat": "\"is eat\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-850",
+      "level": "A1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If the bus is late, Mateo ___ to school.",
+      "options": [
+        "will walk",
+        "walks to",
+        "walked to",
+        "will walked"
+      ],
+      "answer": "will walk",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bus is late, Mateo will walk to school.",
+      "rationales": {
+        "will walk": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bus is late, Mateo will walk to school.",
+        "walks to": "\"walks to\" does not match the condition pattern in the sentence.",
+        "walked to": "\"walked to\" does not match the condition pattern in the sentence.",
+        "will walked": "\"will walked\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-851",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "If it rains, Hana ___ inside.",
+      "options": [
+        "will stay",
+        "stays to",
+        "stayed to",
+        "will stayed"
+      ],
+      "answer": "will stay",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If it rains, Hana will stay inside.",
+      "rationales": {
+        "will stay": "The answer must match the condition in the first part of the sentence. The completed sentence is: If it rains, Hana will stay inside.",
+        "stays to": "\"stays to\" does not match the condition pattern in the sentence.",
+        "stayed to": "\"stayed to\" does not match the condition pattern in the sentence.",
+        "will stayed": "\"will stayed\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-852",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If the door is open, the students ___ in by the window.",
+      "options": [
+        "can come",
+        "can comes",
+        "came to",
+        "are come"
+      ],
+      "answer": "can come",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the door is open, the students can come in by the window.",
+      "rationales": {
+        "can come": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the door is open, the students can come in by the window.",
+        "can comes": "\"can comes\" does not match the condition pattern in the sentence.",
+        "came to": "\"came to\" does not match the condition pattern in the sentence.",
+        "are come": "\"are come\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-853",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If the bell rings, class ___ soon before dinner.",
+      "options": [
+        "will start",
+        "starts to",
+        "started to",
+        "will started"
+      ],
+      "answer": "will start",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bell rings, class will start soon before dinner.",
+      "rationales": {
+        "will start": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bell rings, class will start soon before dinner.",
+        "starts to": "\"starts to\" does not match the condition pattern in the sentence.",
+        "started to": "\"started to\" does not match the condition pattern in the sentence.",
+        "will started": "\"will started\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-854",
+      "level": "A1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Kenji is hungry, Kenji ___ lunch now.",
+      "options": [
+        "can eat",
+        "can eats",
+        "ate to",
+        "is eat"
+      ],
+      "answer": "can eat",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Kenji is hungry, Kenji can eat lunch now.",
+      "rationales": {
+        "can eat": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Kenji is hungry, Kenji can eat lunch now.",
+        "can eats": "\"can eats\" does not match the condition pattern in the sentence.",
+        "ate to": "\"ate to\" does not match the condition pattern in the sentence.",
+        "is eat": "\"is eat\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-855",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "If the bus is late, Sara ___ to school.",
+      "options": [
+        "will walk",
+        "walks to",
+        "walked to",
+        "will walked"
+      ],
+      "answer": "will walk",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bus is late, Sara will walk to school.",
+      "rationales": {
+        "will walk": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bus is late, Sara will walk to school.",
+        "walks to": "\"walks to\" does not match the condition pattern in the sentence.",
+        "walked to": "\"walked to\" does not match the condition pattern in the sentence.",
+        "will walked": "\"will walked\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-856",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If it rains, Luis ___ inside.",
+      "options": [
+        "will stay",
+        "stays to",
+        "stayed to",
+        "will stayed"
+      ],
+      "answer": "will stay",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If it rains, Luis will stay inside.",
+      "rationales": {
+        "will stay": "The answer must match the condition in the first part of the sentence. The completed sentence is: If it rains, Luis will stay inside.",
+        "stays to": "\"stays to\" does not match the condition pattern in the sentence.",
+        "stayed to": "\"stayed to\" does not match the condition pattern in the sentence.",
+        "will stayed": "\"will stayed\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-857",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If the door is open, the students ___ in with the teacher.",
+      "options": [
+        "can come",
+        "can comes",
+        "came to",
+        "are come"
+      ],
+      "answer": "can come",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the door is open, the students can come in with the teacher.",
+      "rationales": {
+        "can come": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the door is open, the students can come in with the teacher.",
+        "can comes": "\"can comes\" does not match the condition pattern in the sentence.",
+        "came to": "\"came to\" does not match the condition pattern in the sentence.",
+        "are come": "\"are come\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-858",
+      "level": "A1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If the bell rings, class ___ soon before the bell.",
+      "options": [
+        "will start",
+        "starts to",
+        "started to",
+        "will started"
+      ],
+      "answer": "will start",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bell rings, class will start soon before the bell.",
+      "rationales": {
+        "will start": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bell rings, class will start soon before the bell.",
+        "starts to": "\"starts to\" does not match the condition pattern in the sentence.",
+        "started to": "\"started to\" does not match the condition pattern in the sentence.",
+        "will started": "\"will started\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-859",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "If Yara is hungry, Yara ___ lunch now.",
+      "options": [
+        "can eat",
+        "can eats",
+        "ate to",
+        "is eat"
+      ],
+      "answer": "can eat",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Yara is hungry, Yara can eat lunch now.",
+      "rationales": {
+        "can eat": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Yara is hungry, Yara can eat lunch now.",
+        "can eats": "\"can eats\" does not match the condition pattern in the sentence.",
+        "ate to": "\"ate to\" does not match the condition pattern in the sentence.",
+        "is eat": "\"is eat\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a1-860",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If the bus is late, Theo ___ to school.",
+      "options": [
+        "will walk",
+        "walks to",
+        "walked to",
+        "will walked"
+      ],
+      "answer": "will walk",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bus is late, Theo will walk to school.",
+      "rationales": {
+        "will walk": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the bus is late, Theo will walk to school.",
+        "walks to": "\"walks to\" does not match the condition pattern in the sentence.",
+        "walked to": "\"walked to\" does not match the condition pattern in the sentence.",
+        "will walked": "\"will walked\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-861",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If Mina ___ the report early, the students will have more time.",
+      "options": [
+        "reviews",
+        "review",
+        "will review",
+        "has reviewed"
+      ],
+      "answer": "reviews",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Mina reviews the report early, the students will have more time.",
+      "rationales": {
+        "reviews": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Mina reviews the report early, the students will have more time.",
+        "review": "\"review\" does not match the condition pattern in the sentence.",
+        "will review": "\"will review\" does not match the condition pattern in the sentence.",
+        "has reviewed": "\"has reviewed\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-862",
+      "level": "A2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Carlos ___ the schedule early, the teachers will have more time.",
+      "options": [
+        "checks",
+        "check",
+        "will check",
+        "has checked"
+      ],
+      "answer": "checks",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Carlos checks the schedule early, the teachers will have more time.",
+      "rationales": {
+        "checks": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Carlos checks the schedule early, the teachers will have more time.",
+        "check": "\"check\" does not match the condition pattern in the sentence.",
+        "will check": "\"will check\" does not match the condition pattern in the sentence.",
+        "has checked": "\"has checked\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-863",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "If Aiko ___ the summary early, the nurses will have more time.",
+      "options": [
+        "writes",
+        "write",
+        "will write",
+        "has written"
+      ],
+      "answer": "writes",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Aiko writes the summary early, the nurses will have more time.",
+      "rationales": {
+        "writes": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Aiko writes the summary early, the nurses will have more time.",
+        "write": "\"write\" does not match the condition pattern in the sentence.",
+        "will write": "\"will write\" does not match the condition pattern in the sentence.",
+        "has written": "\"has written\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-864",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Nadia ___ the email early, the clerks will have more time.",
+      "options": [
+        "sends",
+        "send",
+        "will send",
+        "has sent"
+      ],
+      "answer": "sends",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Nadia sends the email early, the clerks will have more time.",
+      "rationales": {
+        "sends": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Nadia sends the email early, the clerks will have more time.",
+        "send": "\"send\" does not match the condition pattern in the sentence.",
+        "will send": "\"will send\" does not match the condition pattern in the sentence.",
+        "has sent": "\"has sent\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-865",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If Omar ___ the list early, the drivers will have more time.",
+      "options": [
+        "updates",
+        "update",
+        "will update",
+        "has updated"
+      ],
+      "answer": "updates",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Omar updates the list early, the drivers will have more time.",
+      "rationales": {
+        "updates": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Omar updates the list early, the drivers will have more time.",
+        "update": "\"update\" does not match the condition pattern in the sentence.",
+        "will update": "\"will update\" does not match the condition pattern in the sentence.",
+        "has updated": "\"has updated\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-866",
+      "level": "A2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Lena ___ the lesson early, the volunteers will have more time.",
+      "options": [
+        "prepares",
+        "prepare",
+        "will prepare",
+        "has prepared"
+      ],
+      "answer": "prepares",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Lena prepares the lesson early, the volunteers will have more time.",
+      "rationales": {
+        "prepares": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Lena prepares the lesson early, the volunteers will have more time.",
+        "prepare": "\"prepare\" does not match the condition pattern in the sentence.",
+        "will prepare": "\"will prepare\" does not match the condition pattern in the sentence.",
+        "has prepared": "\"has prepared\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-867",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "If Sofia ___ the forms early, the researchers will have more time.",
+      "options": [
+        "prints",
+        "print",
+        "will print",
+        "has printed"
+      ],
+      "answer": "prints",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Sofia prints the forms early, the researchers will have more time.",
+      "rationales": {
+        "prints": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Sofia prints the forms early, the researchers will have more time.",
+        "print": "\"print\" does not match the condition pattern in the sentence.",
+        "will print": "\"will print\" does not match the condition pattern in the sentence.",
+        "has printed": "\"has printed\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-868",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Daniel ___ the office early, the visitors will have more time.",
+      "options": [
+        "opens",
+        "open",
+        "will open",
+        "has opened"
+      ],
+      "answer": "opens",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Daniel opens the office early, the visitors will have more time.",
+      "rationales": {
+        "opens": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Daniel opens the office early, the visitors will have more time.",
+        "open": "\"open\" does not match the condition pattern in the sentence.",
+        "will open": "\"will open\" does not match the condition pattern in the sentence.",
+        "has opened": "\"has opened\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-869",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If Rina ___ the questions early, the managers will have more time.",
+      "options": [
+        "answers",
+        "answer",
+        "will answer",
+        "has answered"
+      ],
+      "answer": "answers",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Rina answers the questions early, the managers will have more time.",
+      "rationales": {
+        "answers": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Rina answers the questions early, the managers will have more time.",
+        "answer": "\"answer\" does not match the condition pattern in the sentence.",
+        "will answer": "\"will answer\" does not match the condition pattern in the sentence.",
+        "has answered": "\"has answered\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-870",
+      "level": "A2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Mateo ___ the notice early, the applicants will have more time.",
+      "options": [
+        "reads",
+        "read",
+        "will read",
+        "has read"
+      ],
+      "answer": "reads",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Mateo reads the notice early, the applicants will have more time.",
+      "rationales": {
+        "reads": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Mateo reads the notice early, the applicants will have more time.",
+        "read": "\"read\" does not match the condition pattern in the sentence.",
+        "will read": "\"will read\" does not match the condition pattern in the sentence.",
+        "has read": "\"has read\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-871",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "If Hana ___ the topic early, the workers will have more time.",
+      "options": [
+        "chooses",
+        "choose",
+        "will choose",
+        "has chosen"
+      ],
+      "answer": "chooses",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Hana chooses the topic early, the workers will have more time.",
+      "rationales": {
+        "chooses": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Hana chooses the topic early, the workers will have more time.",
+        "choose": "\"choose\" does not match the condition pattern in the sentence.",
+        "will choose": "\"will choose\" does not match the condition pattern in the sentence.",
+        "has chosen": "\"has chosen\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-872",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Jonas ___ the plan early, the parents will have more time.",
+      "options": [
+        "makes",
+        "make",
+        "will make",
+        "has made"
+      ],
+      "answer": "makes",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Jonas makes the plan early, the parents will have more time.",
+      "rationales": {
+        "makes": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Jonas makes the plan early, the parents will have more time.",
+        "make": "\"make\" does not match the condition pattern in the sentence.",
+        "will make": "\"will make\" does not match the condition pattern in the sentence.",
+        "has made": "\"has made\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-873",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If Priya ___ the file early, the assistants will have more time.",
+      "options": [
+        "finds",
+        "find",
+        "will find",
+        "has found"
+      ],
+      "answer": "finds",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Priya finds the file early, the assistants will have more time.",
+      "rationales": {
+        "finds": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Priya finds the file early, the assistants will have more time.",
+        "find": "\"find\" does not match the condition pattern in the sentence.",
+        "will find": "\"will find\" does not match the condition pattern in the sentence.",
+        "has found": "\"has found\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-874",
+      "level": "A2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Kenji ___ the class early, the tutors will have more time.",
+      "options": [
+        "teaches",
+        "teach",
+        "will teach",
+        "has taught"
+      ],
+      "answer": "teaches",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Kenji teaches the class early, the tutors will have more time.",
+      "rationales": {
+        "teaches": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Kenji teaches the class early, the tutors will have more time.",
+        "teach": "\"teach\" does not match the condition pattern in the sentence.",
+        "will teach": "\"will teach\" does not match the condition pattern in the sentence.",
+        "has taught": "\"has taught\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-875",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "If Sara ___ the documents early, the trainees will have more time.",
+      "options": [
+        "brings",
+        "bring",
+        "will bring",
+        "has brought"
+      ],
+      "answer": "brings",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Sara brings the documents early, the trainees will have more time.",
+      "rationales": {
+        "brings": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Sara brings the documents early, the trainees will have more time.",
+        "bring": "\"bring\" does not match the condition pattern in the sentence.",
+        "will bring": "\"will bring\" does not match the condition pattern in the sentence.",
+        "has brought": "\"has brought\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-876",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Luis ___ the session early, the readers will have more time.",
+      "options": [
+        "begins",
+        "begin",
+        "will begin",
+        "has begun"
+      ],
+      "answer": "begins",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Luis begins the session early, the readers will have more time.",
+      "rationales": {
+        "begins": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Luis begins the session early, the readers will have more time.",
+        "begin": "\"begin\" does not match the condition pattern in the sentence.",
+        "will begin": "\"will begin\" does not match the condition pattern in the sentence.",
+        "has begun": "\"has begun\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-877",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If Emma ___ the application early, the analysts will have more time.",
+      "options": [
+        "completes",
+        "complete",
+        "will complete",
+        "has completed"
+      ],
+      "answer": "completes",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Emma completes the application early, the analysts will have more time.",
+      "rationales": {
+        "completes": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Emma completes the application early, the analysts will have more time.",
+        "complete": "\"complete\" does not match the condition pattern in the sentence.",
+        "will complete": "\"will complete\" does not match the condition pattern in the sentence.",
+        "has completed": "\"has completed\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-878",
+      "level": "A2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Noah ___ the rule early, the coordinators will have more time.",
+      "options": [
+        "explains",
+        "explain",
+        "will explain",
+        "has explained"
+      ],
+      "answer": "explains",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Noah explains the rule early, the coordinators will have more time.",
+      "rationales": {
+        "explains": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Noah explains the rule early, the coordinators will have more time.",
+        "explain": "\"explain\" does not match the condition pattern in the sentence.",
+        "will explain": "\"will explain\" does not match the condition pattern in the sentence.",
+        "has explained": "\"has explained\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-879",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "If Yara ___ the results early, the guests will have more time.",
+      "options": [
+        "compares",
+        "compare",
+        "will compare",
+        "has compared"
+      ],
+      "answer": "compares",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Yara compares the results early, the guests will have more time.",
+      "rationales": {
+        "compares": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Yara compares the results early, the guests will have more time.",
+        "compare": "\"compare\" does not match the condition pattern in the sentence.",
+        "will compare": "\"will compare\" does not match the condition pattern in the sentence.",
+        "has compared": "\"has compared\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-a2-880",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Theo ___ the request early, the interns will have more time.",
+      "options": [
+        "approves",
+        "approve",
+        "will approve",
+        "has approved"
+      ],
+      "answer": "approves",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Theo approves the request early, the interns will have more time.",
+      "rationales": {
+        "approves": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Theo approves the request early, the interns will have more time.",
+        "approve": "\"approve\" does not match the condition pattern in the sentence.",
+        "will approve": "\"will approve\" does not match the condition pattern in the sentence.",
+        "has approved": "\"has approved\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-881",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Mina would help if there ___ more time.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Mina would help if there were more time.",
+      "rationales": {
+        "were": "The answer must match the condition in the first part of the sentence. The completed sentence is: Mina would help if there were more time.",
+        "is": "\"is\" does not match the condition pattern in the sentence.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence.",
+        "being": "\"being\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-882",
+      "level": "B1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Carlos ___ the answer, Carlos would explain it.",
+      "options": [
+        "knew",
+        "knows",
+        "will know",
+        "knowing"
+      ],
+      "answer": "knew",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Carlos knew the answer, Carlos would explain it.",
+      "rationales": {
+        "knew": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Carlos knew the answer, Carlos would explain it.",
+        "knows": "\"knows\" does not match the condition pattern in the sentence.",
+        "will know": "\"will know\" does not match the condition pattern in the sentence.",
+        "knowing": "\"knowing\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-883",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The writing class would be quieter if the room ___ larger.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The writing class would be quieter if the room were larger.",
+      "rationales": {
+        "were": "The answer must match the condition in the first part of the sentence. The completed sentence is: The writing class would be quieter if the room were larger.",
+        "is": "\"is\" does not match the condition pattern in the sentence.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence.",
+        "being": "\"being\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-884",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If the clinic office ___ open later, more workers could come.",
+      "options": [
+        "stayed",
+        "stays",
+        "will stay",
+        "staying"
+      ],
+      "answer": "stayed",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the clinic office stayed open later, more workers could come.",
+      "rationales": {
+        "stayed": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the clinic office stayed open later, more workers could come.",
+        "stays": "\"stays\" does not match the condition pattern in the sentence.",
+        "will stay": "\"will stay\" does not match the condition pattern in the sentence.",
+        "staying": "\"staying\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-885",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Omar could finish today if Omar ___ the missing file.",
+      "options": [
+        "had",
+        "has",
+        "will have",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Omar could finish today if Omar had the missing file.",
+      "rationales": {
+        "had": "The answer must match the condition in the first part of the sentence. The completed sentence is: Omar could finish today if Omar had the missing file.",
+        "has": "\"has\" does not match the condition pattern in the sentence.",
+        "will have": "\"will have\" does not match the condition pattern in the sentence.",
+        "having": "\"having\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-886",
+      "level": "B1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Lena would help if there ___ more time.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Lena would help if there were more time.",
+      "rationales": {
+        "were": "The answer must match the condition in the first part of the sentence. The completed sentence is: Lena would help if there were more time.",
+        "is": "\"is\" does not match the condition pattern in the sentence.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence.",
+        "being": "\"being\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-887",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "If Sofia ___ the answer, Sofia would explain it.",
+      "options": [
+        "knew",
+        "knows",
+        "will know",
+        "knowing"
+      ],
+      "answer": "knew",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Sofia knew the answer, Sofia would explain it.",
+      "rationales": {
+        "knew": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Sofia knew the answer, Sofia would explain it.",
+        "knows": "\"knows\" does not match the condition pattern in the sentence.",
+        "will know": "\"will know\" does not match the condition pattern in the sentence.",
+        "knowing": "\"knowing\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-888",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The pronunciation class would be quieter if the room ___ larger.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The pronunciation class would be quieter if the room were larger.",
+      "rationales": {
+        "were": "The answer must match the condition in the first part of the sentence. The completed sentence is: The pronunciation class would be quieter if the room were larger.",
+        "is": "\"is\" does not match the condition pattern in the sentence.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence.",
+        "being": "\"being\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-889",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If the testing office ___ open later, more workers could come.",
+      "options": [
+        "stayed",
+        "stays",
+        "will stay",
+        "staying"
+      ],
+      "answer": "stayed",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the testing office stayed open later, more workers could come.",
+      "rationales": {
+        "stayed": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the testing office stayed open later, more workers could come.",
+        "stays": "\"stays\" does not match the condition pattern in the sentence.",
+        "will stay": "\"will stay\" does not match the condition pattern in the sentence.",
+        "staying": "\"staying\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-890",
+      "level": "B1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Mateo could finish today if Mateo ___ the missing file.",
+      "options": [
+        "had",
+        "has",
+        "will have",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Mateo could finish today if Mateo had the missing file.",
+      "rationales": {
+        "had": "The answer must match the condition in the first part of the sentence. The completed sentence is: Mateo could finish today if Mateo had the missing file.",
+        "has": "\"has\" does not match the condition pattern in the sentence.",
+        "will have": "\"will have\" does not match the condition pattern in the sentence.",
+        "having": "\"having\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-891",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Hana would help if there ___ more time.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Hana would help if there were more time.",
+      "rationales": {
+        "were": "The answer must match the condition in the first part of the sentence. The completed sentence is: Hana would help if there were more time.",
+        "is": "\"is\" does not match the condition pattern in the sentence.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence.",
+        "being": "\"being\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-892",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Jonas ___ the answer, Jonas would explain it.",
+      "options": [
+        "knew",
+        "knows",
+        "will know",
+        "knowing"
+      ],
+      "answer": "knew",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Jonas knew the answer, Jonas would explain it.",
+      "rationales": {
+        "knew": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Jonas knew the answer, Jonas would explain it.",
+        "knows": "\"knows\" does not match the condition pattern in the sentence.",
+        "will know": "\"will know\" does not match the condition pattern in the sentence.",
+        "knowing": "\"knowing\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-893",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The mixed-level class would be quieter if the room ___ larger.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The mixed-level class would be quieter if the room were larger.",
+      "rationales": {
+        "were": "The answer must match the condition in the first part of the sentence. The completed sentence is: The mixed-level class would be quieter if the room were larger.",
+        "is": "\"is\" does not match the condition pattern in the sentence.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence.",
+        "being": "\"being\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-894",
+      "level": "B1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If the language office ___ open later, more workers could come.",
+      "options": [
+        "stayed",
+        "stays",
+        "will stay",
+        "staying"
+      ],
+      "answer": "stayed",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the language office stayed open later, more workers could come.",
+      "rationales": {
+        "stayed": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the language office stayed open later, more workers could come.",
+        "stays": "\"stays\" does not match the condition pattern in the sentence.",
+        "will stay": "\"will stay\" does not match the condition pattern in the sentence.",
+        "staying": "\"staying\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-895",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Sara could finish today if Sara ___ the missing file.",
+      "options": [
+        "had",
+        "has",
+        "will have",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Sara could finish today if Sara had the missing file.",
+      "rationales": {
+        "had": "The answer must match the condition in the first part of the sentence. The completed sentence is: Sara could finish today if Sara had the missing file.",
+        "has": "\"has\" does not match the condition pattern in the sentence.",
+        "will have": "\"will have\" does not match the condition pattern in the sentence.",
+        "having": "\"having\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-896",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Luis would help if there ___ more time.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Luis would help if there were more time.",
+      "rationales": {
+        "were": "The answer must match the condition in the first part of the sentence. The completed sentence is: Luis would help if there were more time.",
+        "is": "\"is\" does not match the condition pattern in the sentence.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence.",
+        "being": "\"being\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-897",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If Emma ___ the answer, Emma would explain it.",
+      "options": [
+        "knew",
+        "knows",
+        "will know",
+        "knowing"
+      ],
+      "answer": "knew",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Emma knew the answer, Emma would explain it.",
+      "rationales": {
+        "knew": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Emma knew the answer, Emma would explain it.",
+        "knows": "\"knows\" does not match the condition pattern in the sentence.",
+        "will know": "\"will know\" does not match the condition pattern in the sentence.",
+        "knowing": "\"knowing\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-898",
+      "level": "B1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "The first class would be quieter if the room ___ larger.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The first class would be quieter if the room were larger.",
+      "rationales": {
+        "were": "The answer must match the condition in the first part of the sentence. The completed sentence is: The first class would be quieter if the room were larger.",
+        "is": "\"is\" does not match the condition pattern in the sentence.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence.",
+        "being": "\"being\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-899",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "If the department office ___ open later, more workers could come.",
+      "options": [
+        "stayed",
+        "stays",
+        "will stay",
+        "staying"
+      ],
+      "answer": "stayed",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the department office stayed open later, more workers could come.",
+      "rationales": {
+        "stayed": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the department office stayed open later, more workers could come.",
+        "stays": "\"stays\" does not match the condition pattern in the sentence.",
+        "will stay": "\"will stay\" does not match the condition pattern in the sentence.",
+        "staying": "\"staying\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b1-900",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Theo could finish today if Theo ___ the missing file.",
+      "options": [
+        "had",
+        "has",
+        "will have",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Theo could finish today if Theo had the missing file.",
+      "rationales": {
+        "had": "The answer must match the condition in the first part of the sentence. The completed sentence is: Theo could finish today if Theo had the missing file.",
+        "has": "\"has\" does not match the condition pattern in the sentence.",
+        "will have": "\"will have\" does not match the condition pattern in the sentence.",
+        "having": "\"having\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-901",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If Mina had checked the report, the team ___ the error.",
+      "options": [
+        "would have found",
+        "will find",
+        "would find",
+        "has found"
+      ],
+      "answer": "would have found",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Mina had checked the report, the team would have found the error.",
+      "rationales": {
+        "would have found": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Mina had checked the report, the team would have found the error.",
+        "will find": "\"will find\" does not match the condition pattern in the sentence.",
+        "would find": "\"would find\" does not match the condition pattern in the sentence.",
+        "has found": "\"has found\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-902",
+      "level": "B2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If the notice had been clearer, fewer students ___ the school office.",
+      "options": [
+        "would have called",
+        "will call",
+        "would call",
+        "have called"
+      ],
+      "answer": "would have called",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the notice had been clearer, fewer students would have called the school office.",
+      "rationales": {
+        "would have called": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the notice had been clearer, fewer students would have called the school office.",
+        "will call": "\"will call\" does not match the condition pattern in the sentence.",
+        "would call": "\"would call\" does not match the condition pattern in the sentence.",
+        "have called": "\"have called\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-903",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The document review could have ended sooner if the files ___ complete.",
+      "options": [
+        "had been",
+        "have been",
+        "were being",
+        "will be"
+      ],
+      "answer": "had been",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The document review could have ended sooner if the files had been complete.",
+      "rationales": {
+        "had been": "The answer must match the condition in the first part of the sentence. The completed sentence is: The document review could have ended sooner if the files had been complete.",
+        "have been": "\"have been\" does not match the condition pattern in the sentence.",
+        "were being": "\"were being\" does not match the condition pattern in the sentence.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-904",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Nadia had arrived earlier, the group ___ the first train.",
+      "options": [
+        "would not have missed",
+        "will not miss",
+        "would not miss",
+        "has not missed"
+      ],
+      "answer": "would not have missed",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Nadia had arrived earlier, the group would not have missed the first train.",
+      "rationales": {
+        "would not have missed": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Nadia had arrived earlier, the group would not have missed the first train.",
+        "will not miss": "\"will not miss\" does not match the condition pattern in the sentence.",
+        "would not miss": "\"would not miss\" does not match the condition pattern in the sentence.",
+        "has not missed": "\"has not missed\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-905",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The shift manager might have approved the request if the budget ___ room for it.",
+      "options": [
+        "had included",
+        "includes",
+        "will include",
+        "has included"
+      ],
+      "answer": "had included",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The shift manager might have approved the request if the budget had included room for it.",
+      "rationales": {
+        "had included": "The answer must match the condition in the first part of the sentence. The completed sentence is: The shift manager might have approved the request if the budget had included room for it.",
+        "includes": "\"includes\" does not match the condition pattern in the sentence.",
+        "will include": "\"will include\" does not match the condition pattern in the sentence.",
+        "has included": "\"has included\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-906",
+      "level": "B2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Lena had checked the chart, the team ___ the error.",
+      "options": [
+        "would have found",
+        "will find",
+        "would find",
+        "has found"
+      ],
+      "answer": "would have found",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Lena had checked the chart, the team would have found the error.",
+      "rationales": {
+        "would have found": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Lena had checked the chart, the team would have found the error.",
+        "will find": "\"will find\" does not match the condition pattern in the sentence.",
+        "would find": "\"would find\" does not match the condition pattern in the sentence.",
+        "has found": "\"has found\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-907",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "If the notice had been clearer, fewer students ___ the records office.",
+      "options": [
+        "would have called",
+        "will call",
+        "would call",
+        "have called"
+      ],
+      "answer": "would have called",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the notice had been clearer, fewer students would have called the records office.",
+      "rationales": {
+        "would have called": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the notice had been clearer, fewer students would have called the records office.",
+        "will call": "\"will call\" does not match the condition pattern in the sentence.",
+        "would call": "\"would call\" does not match the condition pattern in the sentence.",
+        "have called": "\"have called\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-908",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The evidence review could have ended sooner if the files ___ complete.",
+      "options": [
+        "had been",
+        "have been",
+        "were being",
+        "will be"
+      ],
+      "answer": "had been",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The evidence review could have ended sooner if the files had been complete.",
+      "rationales": {
+        "had been": "The answer must match the condition in the first part of the sentence. The completed sentence is: The evidence review could have ended sooner if the files had been complete.",
+        "have been": "\"have been\" does not match the condition pattern in the sentence.",
+        "were being": "\"were being\" does not match the condition pattern in the sentence.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-909",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If Rina had arrived earlier, the group ___ the first train.",
+      "options": [
+        "would not have missed",
+        "will not miss",
+        "would not miss",
+        "has not missed"
+      ],
+      "answer": "would not have missed",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Rina had arrived earlier, the group would not have missed the first train.",
+      "rationales": {
+        "would not have missed": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Rina had arrived earlier, the group would not have missed the first train.",
+        "will not miss": "\"will not miss\" does not match the condition pattern in the sentence.",
+        "would not miss": "\"would not miss\" does not match the condition pattern in the sentence.",
+        "has not missed": "\"has not missed\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-910",
+      "level": "B2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "The clinic manager might have approved the request if the budget ___ room for it.",
+      "options": [
+        "had included",
+        "includes",
+        "will include",
+        "has included"
+      ],
+      "answer": "had included",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The clinic manager might have approved the request if the budget had included room for it.",
+      "rationales": {
+        "had included": "The answer must match the condition in the first part of the sentence. The completed sentence is: The clinic manager might have approved the request if the budget had included room for it.",
+        "includes": "\"includes\" does not match the condition pattern in the sentence.",
+        "will include": "\"will include\" does not match the condition pattern in the sentence.",
+        "has included": "\"has included\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-911",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "If Hana had checked the lesson plan, the team ___ the error.",
+      "options": [
+        "would have found",
+        "will find",
+        "would find",
+        "has found"
+      ],
+      "answer": "would have found",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Hana had checked the lesson plan, the team would have found the error.",
+      "rationales": {
+        "would have found": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Hana had checked the lesson plan, the team would have found the error.",
+        "will find": "\"will find\" does not match the condition pattern in the sentence.",
+        "would find": "\"would find\" does not match the condition pattern in the sentence.",
+        "has found": "\"has found\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-912",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If the notice had been clearer, fewer students ___ the registrar's office.",
+      "options": [
+        "would have called",
+        "will call",
+        "would call",
+        "have called"
+      ],
+      "answer": "would have called",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the notice had been clearer, fewer students would have called the registrar's office.",
+      "rationales": {
+        "would have called": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the notice had been clearer, fewer students would have called the registrar's office.",
+        "will call": "\"will call\" does not match the condition pattern in the sentence.",
+        "would call": "\"would call\" does not match the condition pattern in the sentence.",
+        "have called": "\"have called\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-913",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The internal review could have ended sooner if the files ___ complete.",
+      "options": [
+        "had been",
+        "have been",
+        "were being",
+        "will be"
+      ],
+      "answer": "had been",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The internal review could have ended sooner if the files had been complete.",
+      "rationales": {
+        "had been": "The answer must match the condition in the first part of the sentence. The completed sentence is: The internal review could have ended sooner if the files had been complete.",
+        "have been": "\"have been\" does not match the condition pattern in the sentence.",
+        "were being": "\"were being\" does not match the condition pattern in the sentence.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-914",
+      "level": "B2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If Kenji had arrived earlier, the group ___ the first train.",
+      "options": [
+        "would not have missed",
+        "will not miss",
+        "would not miss",
+        "has not missed"
+      ],
+      "answer": "would not have missed",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Kenji had arrived earlier, the group would not have missed the first train.",
+      "rationales": {
+        "would not have missed": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Kenji had arrived earlier, the group would not have missed the first train.",
+        "will not miss": "\"will not miss\" does not match the condition pattern in the sentence.",
+        "would not miss": "\"would not miss\" does not match the condition pattern in the sentence.",
+        "has not missed": "\"has not missed\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-915",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The records manager might have approved the request if the budget ___ room for it.",
+      "options": [
+        "had included",
+        "includes",
+        "will include",
+        "has included"
+      ],
+      "answer": "had included",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The records manager might have approved the request if the budget had included room for it.",
+      "rationales": {
+        "had included": "The answer must match the condition in the first part of the sentence. The completed sentence is: The records manager might have approved the request if the budget had included room for it.",
+        "includes": "\"includes\" does not match the condition pattern in the sentence.",
+        "will include": "\"will include\" does not match the condition pattern in the sentence.",
+        "has included": "\"has included\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-916",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If Luis had checked the agenda, the team ___ the error.",
+      "options": [
+        "would have found",
+        "will find",
+        "would find",
+        "has found"
+      ],
+      "answer": "would have found",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Luis had checked the agenda, the team would have found the error.",
+      "rationales": {
+        "would have found": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Luis had checked the agenda, the team would have found the error.",
+        "will find": "\"will find\" does not match the condition pattern in the sentence.",
+        "would find": "\"would find\" does not match the condition pattern in the sentence.",
+        "has found": "\"has found\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-917",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If the notice had been clearer, fewer students ___ the training office.",
+      "options": [
+        "would have called",
+        "will call",
+        "would call",
+        "have called"
+      ],
+      "answer": "would have called",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the notice had been clearer, fewer students would have called the training office.",
+      "rationales": {
+        "would have called": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the notice had been clearer, fewer students would have called the training office.",
+        "will call": "\"will call\" does not match the condition pattern in the sentence.",
+        "would call": "\"would call\" does not match the condition pattern in the sentence.",
+        "have called": "\"have called\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-918",
+      "level": "B2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "The ethics review could have ended sooner if the files ___ complete.",
+      "options": [
+        "had been",
+        "have been",
+        "were being",
+        "will be"
+      ],
+      "answer": "had been",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The ethics review could have ended sooner if the files had been complete.",
+      "rationales": {
+        "had been": "The answer must match the condition in the first part of the sentence. The completed sentence is: The ethics review could have ended sooner if the files had been complete.",
+        "have been": "\"have been\" does not match the condition pattern in the sentence.",
+        "were being": "\"were being\" does not match the condition pattern in the sentence.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-919",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "If Yara had arrived earlier, the group ___ the first train.",
+      "options": [
+        "would not have missed",
+        "will not miss",
+        "would not miss",
+        "has not missed"
+      ],
+      "answer": "would not have missed",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Yara had arrived earlier, the group would not have missed the first train.",
+      "rationales": {
+        "would not have missed": "The answer must match the condition in the first part of the sentence. The completed sentence is: If Yara had arrived earlier, the group would not have missed the first train.",
+        "will not miss": "\"will not miss\" does not match the condition pattern in the sentence.",
+        "would not miss": "\"would not miss\" does not match the condition pattern in the sentence.",
+        "has not missed": "\"has not missed\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-b2-920",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The facilities manager might have approved the request if the budget ___ room for it.",
+      "options": [
+        "had included",
+        "includes",
+        "will include",
+        "has included"
+      ],
+      "answer": "had included",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The facilities manager might have approved the request if the budget had included room for it.",
+      "rationales": {
+        "had included": "The answer must match the condition in the first part of the sentence. The completed sentence is: The facilities manager might have approved the request if the budget had included room for it.",
+        "includes": "\"includes\" does not match the condition pattern in the sentence.",
+        "will include": "\"will include\" does not match the condition pattern in the sentence.",
+        "has included": "\"has included\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-921",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If the attendance report were clearer, fewer people ___ mistakes.",
+      "options": [
+        "would make",
+        "will make",
+        "made",
+        "had made"
+      ],
+      "answer": "would make",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the attendance report were clearer, fewer people would make mistakes.",
+      "rationales": {
+        "would make": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the attendance report were clearer, fewer people would make mistakes.",
+        "will make": "\"will make\" does not match the condition pattern in the sentence.",
+        "made": "\"made\" does not match the condition pattern in the sentence.",
+        "had made": "\"had made\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-922",
+      "level": "C1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Were the evidence stronger, the planning committee ___ the proposal.",
+      "options": [
+        "would approve",
+        "will approve",
+        "approved",
+        "had approved"
+      ],
+      "answer": "would approve",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Were the evidence stronger, the planning committee would approve the proposal.",
+      "rationales": {
+        "would approve": "The answer must match the condition in the first part of the sentence. The completed sentence is: Were the evidence stronger, the planning committee would approve the proposal.",
+        "will approve": "\"will approve\" does not match the condition pattern in the sentence.",
+        "approved": "\"approved\" does not match the condition pattern in the sentence.",
+        "had approved": "\"had approved\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-923",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "If the sample represented all learners, the finding ___ more persuasive during the stakeholder meeting.",
+      "options": [
+        "would be",
+        "will be",
+        "has been",
+        "being"
+      ],
+      "answer": "would be",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the sample represented all learners, the finding would be more persuasive during the stakeholder meeting.",
+      "rationales": {
+        "would be": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the sample represented all learners, the finding would be more persuasive during the stakeholder meeting.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence.",
+        "has been": "\"has been\" does not match the condition pattern in the sentence.",
+        "being": "\"being\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-924",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The policy could work if staff ___ enough training before the recommendation is issued.",
+      "options": [
+        "received",
+        "receive",
+        "will receive",
+        "had receiving"
+      ],
+      "answer": "received",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The policy could work if staff received enough training before the recommendation is issued.",
+      "rationales": {
+        "received": "The answer must match the condition in the first part of the sentence. The completed sentence is: The policy could work if staff received enough training before the recommendation is issued.",
+        "receive": "\"receive\" does not match the condition pattern in the sentence.",
+        "will receive": "\"will receive\" does not match the condition pattern in the sentence.",
+        "had receiving": "\"had receiving\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-925",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If the wording were less vague, the objection ___ less force after the evidence is compared.",
+      "options": [
+        "would have",
+        "will have",
+        "had",
+        "has had"
+      ],
+      "answer": "would have",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the wording were less vague, the objection would have less force after the evidence is compared.",
+      "rationales": {
+        "would have": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the wording were less vague, the objection would have less force after the evidence is compared.",
+        "will have": "\"will have\" does not match the condition pattern in the sentence.",
+        "had": "\"had\" does not match the condition pattern in the sentence.",
+        "has had": "\"has had\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-926",
+      "level": "C1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If the chart were clearer, fewer people ___ mistakes during the compliance review.",
+      "options": [
+        "would make",
+        "will make",
+        "made",
+        "had made"
+      ],
+      "answer": "would make",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the chart were clearer, fewer people would make mistakes during the compliance review.",
+      "rationales": {
+        "would make": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the chart were clearer, fewer people would make mistakes during the compliance review.",
+        "will make": "\"will make\" does not match the condition pattern in the sentence.",
+        "made": "\"made\" does not match the condition pattern in the sentence.",
+        "had made": "\"had made\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-927",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Were the evidence stronger, the scholarship committee ___ the proposal.",
+      "options": [
+        "would approve",
+        "will approve",
+        "approved",
+        "had approved"
+      ],
+      "answer": "would approve",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Were the evidence stronger, the scholarship committee would approve the proposal.",
+      "rationales": {
+        "would approve": "The answer must match the condition in the first part of the sentence. The completed sentence is: Were the evidence stronger, the scholarship committee would approve the proposal.",
+        "will approve": "\"will approve\" does not match the condition pattern in the sentence.",
+        "approved": "\"approved\" does not match the condition pattern in the sentence.",
+        "had approved": "\"had approved\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-928",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If the sample represented all learners, the finding ___ more persuasive after the pilot program.",
+      "options": [
+        "would be",
+        "will be",
+        "has been",
+        "being"
+      ],
+      "answer": "would be",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the sample represented all learners, the finding would be more persuasive after the pilot program.",
+      "rationales": {
+        "would be": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the sample represented all learners, the finding would be more persuasive after the pilot program.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence.",
+        "has been": "\"has been\" does not match the condition pattern in the sentence.",
+        "being": "\"being\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-929",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The policy could work if staff ___ enough training before the findings are published.",
+      "options": [
+        "received",
+        "receive",
+        "will receive",
+        "had receiving"
+      ],
+      "answer": "received",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The policy could work if staff received enough training before the findings are published.",
+      "rationales": {
+        "received": "The answer must match the condition in the first part of the sentence. The completed sentence is: The policy could work if staff received enough training before the findings are published.",
+        "receive": "\"receive\" does not match the condition pattern in the sentence.",
+        "will receive": "\"will receive\" does not match the condition pattern in the sentence.",
+        "had receiving": "\"had receiving\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-930",
+      "level": "C1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If the wording were less vague, the objection ___ less force in the grant application.",
+      "options": [
+        "would have",
+        "will have",
+        "had",
+        "has had"
+      ],
+      "answer": "would have",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the wording were less vague, the objection would have less force in the grant application.",
+      "rationales": {
+        "would have": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the wording were less vague, the objection would have less force in the grant application.",
+        "will have": "\"will have\" does not match the condition pattern in the sentence.",
+        "had": "\"had\" does not match the condition pattern in the sentence.",
+        "has had": "\"has had\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-931",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "If the lesson plan were clearer, fewer people ___ mistakes during the seminar discussion.",
+      "options": [
+        "would make",
+        "will make",
+        "made",
+        "had made"
+      ],
+      "answer": "would make",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the lesson plan were clearer, fewer people would make mistakes during the seminar discussion.",
+      "rationales": {
+        "would make": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the lesson plan were clearer, fewer people would make mistakes during the seminar discussion.",
+        "will make": "\"will make\" does not match the condition pattern in the sentence.",
+        "made": "\"made\" does not match the condition pattern in the sentence.",
+        "had made": "\"had made\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-932",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Were the evidence stronger, the policy committee ___ the proposal.",
+      "options": [
+        "would approve",
+        "will approve",
+        "approved",
+        "had approved"
+      ],
+      "answer": "would approve",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Were the evidence stronger, the policy committee would approve the proposal.",
+      "rationales": {
+        "would approve": "The answer must match the condition in the first part of the sentence. The completed sentence is: Were the evidence stronger, the policy committee would approve the proposal.",
+        "will approve": "\"will approve\" does not match the condition pattern in the sentence.",
+        "approved": "\"approved\" does not match the condition pattern in the sentence.",
+        "had approved": "\"had approved\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-933",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "If the sample represented all learners, the finding ___ more persuasive after the interviews are coded.",
+      "options": [
+        "would be",
+        "will be",
+        "has been",
+        "being"
+      ],
+      "answer": "would be",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the sample represented all learners, the finding would be more persuasive after the interviews are coded.",
+      "rationales": {
+        "would be": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the sample represented all learners, the finding would be more persuasive after the interviews are coded.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence.",
+        "has been": "\"has been\" does not match the condition pattern in the sentence.",
+        "being": "\"being\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-934",
+      "level": "C1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "The policy could work if staff ___ enough training before the final vote.",
+      "options": [
+        "received",
+        "receive",
+        "will receive",
+        "had receiving"
+      ],
+      "answer": "received",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The policy could work if staff received enough training before the final vote.",
+      "rationales": {
+        "received": "The answer must match the condition in the first part of the sentence. The completed sentence is: The policy could work if staff received enough training before the final vote.",
+        "receive": "\"receive\" does not match the condition pattern in the sentence.",
+        "will receive": "\"will receive\" does not match the condition pattern in the sentence.",
+        "had receiving": "\"had receiving\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-935",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "If the wording were less vague, the objection ___ less force in the appendix note.",
+      "options": [
+        "would have",
+        "will have",
+        "had",
+        "has had"
+      ],
+      "answer": "would have",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the wording were less vague, the objection would have less force in the appendix note.",
+      "rationales": {
+        "would have": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the wording were less vague, the objection would have less force in the appendix note.",
+        "will have": "\"will have\" does not match the condition pattern in the sentence.",
+        "had": "\"had\" does not match the condition pattern in the sentence.",
+        "has had": "\"has had\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-936",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If the agenda were clearer, fewer people ___ mistakes for the advisory brief.",
+      "options": [
+        "would make",
+        "will make",
+        "made",
+        "had made"
+      ],
+      "answer": "would make",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the agenda were clearer, fewer people would make mistakes for the advisory brief.",
+      "rationales": {
+        "would make": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the agenda were clearer, fewer people would make mistakes for the advisory brief.",
+        "will make": "\"will make\" does not match the condition pattern in the sentence.",
+        "made": "\"made\" does not match the condition pattern in the sentence.",
+        "had made": "\"had made\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-937",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Were the evidence stronger, the examination committee ___ the proposal.",
+      "options": [
+        "would approve",
+        "will approve",
+        "approved",
+        "had approved"
+      ],
+      "answer": "would approve",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Were the evidence stronger, the examination committee would approve the proposal.",
+      "rationales": {
+        "would approve": "The answer must match the condition in the first part of the sentence. The completed sentence is: Were the evidence stronger, the examination committee would approve the proposal.",
+        "will approve": "\"will approve\" does not match the condition pattern in the sentence.",
+        "approved": "\"approved\" does not match the condition pattern in the sentence.",
+        "had approved": "\"had approved\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-938",
+      "level": "C1",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "If the sample represented all learners, the finding ___ more persuasive on the evidence table.",
+      "options": [
+        "would be",
+        "will be",
+        "has been",
+        "being"
+      ],
+      "answer": "would be",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the sample represented all learners, the finding would be more persuasive on the evidence table.",
+      "rationales": {
+        "would be": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the sample represented all learners, the finding would be more persuasive on the evidence table.",
+        "will be": "\"will be\" does not match the condition pattern in the sentence.",
+        "has been": "\"has been\" does not match the condition pattern in the sentence.",
+        "being": "\"being\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-939",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The policy could work if staff ___ enough training before the policy draft.",
+      "options": [
+        "received",
+        "receive",
+        "will receive",
+        "had receiving"
+      ],
+      "answer": "received",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: The policy could work if staff received enough training before the policy draft.",
+      "rationales": {
+        "received": "The answer must match the condition in the first part of the sentence. The completed sentence is: The policy could work if staff received enough training before the policy draft.",
+        "receive": "\"receive\" does not match the condition pattern in the sentence.",
+        "will receive": "\"will receive\" does not match the condition pattern in the sentence.",
+        "had receiving": "\"had receiving\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c1-940",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "If the wording were less vague, the objection ___ less force in the assessment rubric.",
+      "options": [
+        "would have",
+        "will have",
+        "had",
+        "has had"
+      ],
+      "answer": "would have",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the wording were less vague, the objection would have less force in the assessment rubric.",
+      "rationales": {
+        "would have": "The answer must match the condition in the first part of the sentence. The completed sentence is: If the wording were less vague, the objection would have less force in the assessment rubric.",
+        "will have": "\"will have\" does not match the condition pattern in the sentence.",
+        "had": "\"had\" does not match the condition pattern in the sentence.",
+        "has had": "\"has had\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-941",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Had Mina ___ the report earlier, the reviewers would have caught the numbering error.",
+      "options": [
+        "reviewed",
+        "have reviewed",
+        "to review",
+        "reviewing"
+      ],
+      "answer": "reviewed",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Mina reviewed the report earlier, the reviewers would have caught the numbering error.",
+      "rationales": {
+        "reviewed": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Mina reviewed the report earlier, the reviewers would have caught the numbering error.",
+        "have reviewed": "\"have reviewed\" does not match the condition pattern in the sentence.",
+        "to review": "\"to review\" does not match the condition pattern in the sentence.",
+        "reviewing": "\"reviewing\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-942",
+      "level": "C2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Had Carlos ___ the schedule earlier, the morning session would have opened without delay.",
+      "options": [
+        "checked",
+        "have checked",
+        "to check",
+        "checking"
+      ],
+      "answer": "checked",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Carlos checked the schedule earlier, the morning session would have opened without delay.",
+      "rationales": {
+        "checked": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Carlos checked the schedule earlier, the morning session would have opened without delay.",
+        "have checked": "\"have checked\" does not match the condition pattern in the sentence.",
+        "to check": "\"to check\" does not match the condition pattern in the sentence.",
+        "checking": "\"checking\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-943",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Had Aiko ___ the summary earlier, the editor could have resolved the ambiguity.",
+      "options": [
+        "written",
+        "have written",
+        "to write",
+        "writing"
+      ],
+      "answer": "written",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Aiko written the summary earlier, the editor could have resolved the ambiguity.",
+      "rationales": {
+        "written": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Aiko written the summary earlier, the editor could have resolved the ambiguity.",
+        "have written": "\"have written\" does not match the condition pattern in the sentence.",
+        "to write": "\"to write\" does not match the condition pattern in the sentence.",
+        "writing": "\"writing\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-944",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Had Nadia ___ the email earlier, the clerk might have prevented the duplicate filing.",
+      "options": [
+        "sent",
+        "have sent",
+        "to send",
+        "sending"
+      ],
+      "answer": "sent",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Nadia sent the email earlier, the clerk might have prevented the duplicate filing.",
+      "rationales": {
+        "sent": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Nadia sent the email earlier, the clerk might have prevented the duplicate filing.",
+        "have sent": "\"have sent\" does not match the condition pattern in the sentence.",
+        "to send": "\"to send\" does not match the condition pattern in the sentence.",
+        "sending": "\"sending\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-945",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Had Omar ___ the list earlier, the director would have approved the revised timeline.",
+      "options": [
+        "updated",
+        "have updated",
+        "to update",
+        "updating"
+      ],
+      "answer": "updated",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Omar updated the list earlier, the director would have approved the revised timeline.",
+      "rationales": {
+        "updated": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Omar updated the list earlier, the director would have approved the revised timeline.",
+        "have updated": "\"have updated\" does not match the condition pattern in the sentence.",
+        "to update": "\"to update\" does not match the condition pattern in the sentence.",
+        "updating": "\"updating\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-946",
+      "level": "C2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Had Lena ___ the lesson earlier, the class could have used the new materials.",
+      "options": [
+        "prepared",
+        "have prepared",
+        "to prepare",
+        "preparing"
+      ],
+      "answer": "prepared",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Lena prepared the lesson earlier, the class could have used the new materials.",
+      "rationales": {
+        "prepared": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Lena prepared the lesson earlier, the class could have used the new materials.",
+        "have prepared": "\"have prepared\" does not match the condition pattern in the sentence.",
+        "to prepare": "\"to prepare\" does not match the condition pattern in the sentence.",
+        "preparing": "\"preparing\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-947",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Had Sofia ___ the forms earlier, the printer would not have jammed during registration.",
+      "options": [
+        "printed",
+        "have printed",
+        "to print",
+        "printing"
+      ],
+      "answer": "printed",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Sofia printed the forms earlier, the printer would not have jammed during registration.",
+      "rationales": {
+        "printed": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Sofia printed the forms earlier, the printer would not have jammed during registration.",
+        "have printed": "\"have printed\" does not match the condition pattern in the sentence.",
+        "to print": "\"to print\" does not match the condition pattern in the sentence.",
+        "printing": "\"printing\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-948",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Had Daniel ___ the office earlier, the reception desk might have avoided the long queue.",
+      "options": [
+        "opened",
+        "have opened",
+        "to open",
+        "opening"
+      ],
+      "answer": "opened",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Daniel opened the office earlier, the reception desk might have avoided the long queue.",
+      "rationales": {
+        "opened": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Daniel opened the office earlier, the reception desk might have avoided the long queue.",
+        "have opened": "\"have opened\" does not match the condition pattern in the sentence.",
+        "to open": "\"to open\" does not match the condition pattern in the sentence.",
+        "opening": "\"opening\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-949",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Had Rina ___ the questions earlier, the applicants could have received confirmation sooner.",
+      "options": [
+        "answered",
+        "have answered",
+        "to answer",
+        "answering"
+      ],
+      "answer": "answered",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Rina answered the questions earlier, the applicants could have received confirmation sooner.",
+      "rationales": {
+        "answered": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Rina answered the questions earlier, the applicants could have received confirmation sooner.",
+        "have answered": "\"have answered\" does not match the condition pattern in the sentence.",
+        "to answer": "\"to answer\" does not match the condition pattern in the sentence.",
+        "answering": "\"answering\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-950",
+      "level": "C2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Had Mateo ___ the notice earlier, the tutor would have noticed the missing page.",
+      "options": [
+        "read",
+        "have read",
+        "to read",
+        "reading"
+      ],
+      "answer": "read",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Mateo read the notice earlier, the tutor would have noticed the missing page.",
+      "rationales": {
+        "read": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Mateo read the notice earlier, the tutor would have noticed the missing page.",
+        "have read": "\"have read\" does not match the condition pattern in the sentence.",
+        "to read": "\"to read\" does not match the condition pattern in the sentence.",
+        "reading": "\"reading\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-951",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Had Hana ___ the topic earlier, the committee might have postponed the vote.",
+      "options": [
+        "chosen",
+        "have chosen",
+        "to choose",
+        "choosing"
+      ],
+      "answer": "chosen",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Hana chosen the topic earlier, the committee might have postponed the vote.",
+      "rationales": {
+        "chosen": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Hana chosen the topic earlier, the committee might have postponed the vote.",
+        "have chosen": "\"have chosen\" does not match the condition pattern in the sentence.",
+        "to choose": "\"to choose\" does not match the condition pattern in the sentence.",
+        "choosing": "\"choosing\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-952",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Had Jonas ___ the plan earlier, the auditors could have verified the figures.",
+      "options": [
+        "made",
+        "have made",
+        "to make",
+        "making"
+      ],
+      "answer": "made",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Jonas made the plan earlier, the auditors could have verified the figures.",
+      "rationales": {
+        "made": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Jonas made the plan earlier, the auditors could have verified the figures.",
+        "have made": "\"have made\" does not match the condition pattern in the sentence.",
+        "to make": "\"to make\" does not match the condition pattern in the sentence.",
+        "making": "\"making\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-953",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Had Priya ___ the file earlier, the client would not have questioned the estimate.",
+      "options": [
+        "found",
+        "have found",
+        "to find",
+        "finding"
+      ],
+      "answer": "found",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Priya found the file earlier, the client would not have questioned the estimate.",
+      "rationales": {
+        "found": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Priya found the file earlier, the client would not have questioned the estimate.",
+        "have found": "\"have found\" does not match the condition pattern in the sentence.",
+        "to find": "\"to find\" does not match the condition pattern in the sentence.",
+        "finding": "\"finding\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-954",
+      "level": "C2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Had Kenji ___ the class earlier, the manager could have arranged a replacement.",
+      "options": [
+        "taught",
+        "have taught",
+        "to teach",
+        "teaching"
+      ],
+      "answer": "taught",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Kenji taught the class earlier, the manager could have arranged a replacement.",
+      "rationales": {
+        "taught": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Kenji taught the class earlier, the manager could have arranged a replacement.",
+        "have taught": "\"have taught\" does not match the condition pattern in the sentence.",
+        "to teach": "\"to teach\" does not match the condition pattern in the sentence.",
+        "teaching": "\"teaching\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-955",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Had Sara ___ the documents earlier, the visitors might have found the entrance more easily.",
+      "options": [
+        "brought",
+        "have brought",
+        "to bring",
+        "bringing"
+      ],
+      "answer": "brought",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Sara brought the documents earlier, the visitors might have found the entrance more easily.",
+      "rationales": {
+        "brought": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Sara brought the documents earlier, the visitors might have found the entrance more easily.",
+        "have brought": "\"have brought\" does not match the condition pattern in the sentence.",
+        "to bring": "\"to bring\" does not match the condition pattern in the sentence.",
+        "bringing": "\"bringing\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-956",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Had Luis ___ the session earlier, the coordinator would have updated the shared calendar.",
+      "options": [
+        "begun",
+        "have begun",
+        "to begin",
+        "beginning"
+      ],
+      "answer": "begun",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Luis begun the session earlier, the coordinator would have updated the shared calendar.",
+      "rationales": {
+        "begun": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Luis begun the session earlier, the coordinator would have updated the shared calendar.",
+        "have begun": "\"have begun\" does not match the condition pattern in the sentence.",
+        "to begin": "\"to begin\" does not match the condition pattern in the sentence.",
+        "beginning": "\"beginning\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-957",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Had Emma ___ the application earlier, the school could have avoided the second notice.",
+      "options": [
+        "completed",
+        "have completed",
+        "to complete",
+        "completing"
+      ],
+      "answer": "completed",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Emma completed the application earlier, the school could have avoided the second notice.",
+      "rationales": {
+        "completed": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Emma completed the application earlier, the school could have avoided the second notice.",
+        "have completed": "\"have completed\" does not match the condition pattern in the sentence.",
+        "to complete": "\"to complete\" does not match the condition pattern in the sentence.",
+        "completing": "\"completing\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-958",
+      "level": "C2",
+      "setupText": "Choose the answer that fits the sentence.",
+      "taskText": "Had Noah ___ the rule earlier, the analyst might have flagged the weak comparison.",
+      "options": [
+        "explained",
+        "have explained",
+        "to explain",
+        "explaining"
+      ],
+      "answer": "explained",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Noah explained the rule earlier, the analyst might have flagged the weak comparison.",
+      "rationales": {
+        "explained": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Noah explained the rule earlier, the analyst might have flagged the weak comparison.",
+        "have explained": "\"have explained\" does not match the condition pattern in the sentence.",
+        "to explain": "\"to explain\" does not match the condition pattern in the sentence.",
+        "explaining": "\"explaining\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-959",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Had Yara ___ the results earlier, the panel would have narrowed the disputed issue.",
+      "options": [
+        "compared",
+        "have compared",
+        "to compare",
+        "comparing"
+      ],
+      "answer": "compared",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Yara compared the results earlier, the panel would have narrowed the disputed issue.",
+      "rationales": {
+        "compared": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Yara compared the results earlier, the panel would have narrowed the disputed issue.",
+        "have compared": "\"have compared\" does not match the condition pattern in the sentence.",
+        "to compare": "\"to compare\" does not match the condition pattern in the sentence.",
+        "comparing": "\"comparing\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-conditionals-c2-960",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Had Theo ___ the request earlier, the agency could have released the summary earlier.",
+      "options": [
+        "approved",
+        "have approved",
+        "to approve",
+        "approving"
+      ],
+      "answer": "approved",
+      "explanation": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Theo approved the request earlier, the agency could have released the summary earlier.",
+      "rationales": {
+        "approved": "The answer must match the condition in the first part of the sentence. The completed sentence is: Had Theo approved the request earlier, the agency could have released the summary earlier.",
+        "have approved": "\"have approved\" does not match the condition pattern in the sentence.",
+        "to approve": "\"to approve\" does not match the condition pattern in the sentence.",
+        "approving": "\"approving\" does not match the condition pattern in the sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

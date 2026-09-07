@@ -1,0 +1,2766 @@
+{
+  "topic": "Subjunctive and unreal forms",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3601",
+      "level": "A1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "Daniel wishes Mina ___ at home now.",
+      "options": [
+        "were",
+        "is",
+        "be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: Daniel wishes Mina were at home now.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: Daniel wishes Mina were at home now.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "be": "\"be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3602",
+      "level": "A1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "I wish I ___ a pencil in class.",
+      "options": [
+        "had",
+        "have",
+        "will have",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I had a pencil in class.",
+      "rationales": {
+        "had": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I had a pencil in class.",
+        "have": "\"have\" does not fit this formal request or requirement pattern.",
+        "will have": "\"will have\" does not fit this formal request or requirement pattern.",
+        "having": "\"having\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3603",
+      "level": "A1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The children wish they ___ outside today after lunch.",
+      "options": [
+        "could play",
+        "can played",
+        "could played",
+        "playing"
+      ],
+      "answer": "could play",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The children wish they could play outside today after lunch.",
+      "rationales": {
+        "could play": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The children wish they could play outside today after lunch.",
+        "can played": "\"can played\" does not fit this formal request or requirement pattern.",
+        "could played": "\"could played\" does not fit this formal request or requirement pattern.",
+        "playing": "\"playing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3604",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "I wish I ___ the answer at school.",
+      "options": [
+        "knew",
+        "know",
+        "will know",
+        "knowing"
+      ],
+      "answer": "knew",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I knew the answer at school.",
+      "rationales": {
+        "knew": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I knew the answer at school.",
+        "know": "\"know\" does not fit this formal request or requirement pattern.",
+        "will know": "\"will know\" does not fit this formal request or requirement pattern.",
+        "knowing": "\"knowing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3605",
+      "level": "A1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The students wish school ___ closed today this morning.",
+      "options": [
+        "were",
+        "is",
+        "be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The students wish school were closed today this morning.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The students wish school were closed today this morning.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "be": "\"be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3606",
+      "level": "A1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "Priya wishes Lena ___ at home now.",
+      "options": [
+        "were",
+        "is",
+        "be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: Priya wishes Lena were at home now.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: Priya wishes Lena were at home now.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "be": "\"be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3607",
+      "level": "A1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "I wish I ___ a pencil near the door.",
+      "options": [
+        "had",
+        "have",
+        "will have",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I had a pencil near the door.",
+      "rationales": {
+        "had": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I had a pencil near the door.",
+        "have": "\"have\" does not fit this formal request or requirement pattern.",
+        "will have": "\"will have\" does not fit this formal request or requirement pattern.",
+        "having": "\"having\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3608",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The children wish they ___ outside today at home.",
+      "options": [
+        "could play",
+        "can played",
+        "could played",
+        "playing"
+      ],
+      "answer": "could play",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The children wish they could play outside today at home.",
+      "rationales": {
+        "could play": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The children wish they could play outside today at home.",
+        "can played": "\"can played\" does not fit this formal request or requirement pattern.",
+        "could played": "\"could played\" does not fit this formal request or requirement pattern.",
+        "playing": "\"playing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3609",
+      "level": "A1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "I wish I ___ the answer on Monday.",
+      "options": [
+        "knew",
+        "know",
+        "will know",
+        "knowing"
+      ],
+      "answer": "knew",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I knew the answer on Monday.",
+      "rationales": {
+        "knew": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I knew the answer on Monday.",
+        "know": "\"know\" does not fit this formal request or requirement pattern.",
+        "will know": "\"will know\" does not fit this formal request or requirement pattern.",
+        "knowing": "\"knowing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3610",
+      "level": "A1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The students wish school ___ closed today in the kitchen.",
+      "options": [
+        "were",
+        "is",
+        "be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The students wish school were closed today in the kitchen.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The students wish school were closed today in the kitchen.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "be": "\"be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3611",
+      "level": "A1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "Noah wishes Hana ___ at home now.",
+      "options": [
+        "were",
+        "is",
+        "be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: Noah wishes Hana were at home now.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: Noah wishes Hana were at home now.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "be": "\"be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3612",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "I wish I ___ a pencil by the window.",
+      "options": [
+        "had",
+        "have",
+        "will have",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I had a pencil by the window.",
+      "rationales": {
+        "had": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I had a pencil by the window.",
+        "have": "\"have\" does not fit this formal request or requirement pattern.",
+        "will have": "\"will have\" does not fit this formal request or requirement pattern.",
+        "having": "\"having\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3613",
+      "level": "A1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The children wish they ___ outside today before dinner.",
+      "options": [
+        "could play",
+        "can played",
+        "could played",
+        "playing"
+      ],
+      "answer": "could play",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The children wish they could play outside today before dinner.",
+      "rationales": {
+        "could play": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The children wish they could play outside today before dinner.",
+        "can played": "\"can played\" does not fit this formal request or requirement pattern.",
+        "could played": "\"could played\" does not fit this formal request or requirement pattern.",
+        "playing": "\"playing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3614",
+      "level": "A1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "I wish I ___ the answer at the park.",
+      "options": [
+        "knew",
+        "know",
+        "will know",
+        "knowing"
+      ],
+      "answer": "knew",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I knew the answer at the park.",
+      "rationales": {
+        "knew": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I knew the answer at the park.",
+        "know": "\"know\" does not fit this formal request or requirement pattern.",
+        "will know": "\"will know\" does not fit this formal request or requirement pattern.",
+        "knowing": "\"knowing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3615",
+      "level": "A1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The students wish school ___ closed today on the bus.",
+      "options": [
+        "were",
+        "is",
+        "be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The students wish school were closed today on the bus.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The students wish school were closed today on the bus.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "be": "\"be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3616",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Aiko wishes Luis ___ at home now.",
+      "options": [
+        "were",
+        "is",
+        "be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: Aiko wishes Luis were at home now.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: Aiko wishes Luis were at home now.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "be": "\"be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3617",
+      "level": "A1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "I wish I ___ a pencil with the teacher.",
+      "options": [
+        "had",
+        "have",
+        "will have",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I had a pencil with the teacher.",
+      "rationales": {
+        "had": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I had a pencil with the teacher.",
+        "have": "\"have\" does not fit this formal request or requirement pattern.",
+        "will have": "\"will have\" does not fit this formal request or requirement pattern.",
+        "having": "\"having\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3618",
+      "level": "A1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The children wish they ___ outside today before the bell.",
+      "options": [
+        "could play",
+        "can played",
+        "could played",
+        "playing"
+      ],
+      "answer": "could play",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The children wish they could play outside today before the bell.",
+      "rationales": {
+        "could play": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The children wish they could play outside today before the bell.",
+        "can played": "\"can played\" does not fit this formal request or requirement pattern.",
+        "could played": "\"could played\" does not fit this formal request or requirement pattern.",
+        "playing": "\"playing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3619",
+      "level": "A1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "I wish I ___ the answer during the lesson.",
+      "options": [
+        "knew",
+        "know",
+        "will know",
+        "knowing"
+      ],
+      "answer": "knew",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I knew the answer during the lesson.",
+      "rationales": {
+        "knew": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I wish I knew the answer during the lesson.",
+        "know": "\"know\" does not fit this formal request or requirement pattern.",
+        "will know": "\"will know\" does not fit this formal request or requirement pattern.",
+        "knowing": "\"knowing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a1-3620",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The students wish school ___ closed today at the front.",
+      "options": [
+        "were",
+        "is",
+        "be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The students wish school were closed today at the front.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The students wish school were closed today at the front.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "be": "\"be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3621",
+      "level": "A2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "If I ___ Mina, I would ask for help.",
+      "options": [
+        "were",
+        "am",
+        "be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If I were Mina, I would ask for help.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If I were Mina, I would ask for help.",
+        "am": "\"am\" does not fit this formal request or requirement pattern.",
+        "be": "\"be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3622",
+      "level": "A2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "If the school office ___ earlier, we could get the form before class.",
+      "options": [
+        "opened",
+        "opens",
+        "will open",
+        "opening"
+      ],
+      "answer": "opened",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If the school office opened earlier, we could get the form before class.",
+      "rationales": {
+        "opened": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If the school office opened earlier, we could get the form before class.",
+        "opens": "\"opens\" does not fit this formal request or requirement pattern.",
+        "will open": "\"will open\" does not fit this formal request or requirement pattern.",
+        "opening": "\"opening\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3623",
+      "level": "A2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "If Aiko ___ more time, the answer would be clearer.",
+      "options": [
+        "had",
+        "has",
+        "will have",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If Aiko had more time, the answer would be clearer.",
+      "rationales": {
+        "had": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If Aiko had more time, the answer would be clearer.",
+        "has": "\"has\" does not fit this formal request or requirement pattern.",
+        "will have": "\"will have\" does not fit this formal request or requirement pattern.",
+        "having": "\"having\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3624",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "I would call the writing teacher if I ___ the number.",
+      "options": [
+        "knew",
+        "know",
+        "will know",
+        "knowing"
+      ],
+      "answer": "knew",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I would call the writing teacher if I knew the number.",
+      "rationales": {
+        "knew": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I would call the writing teacher if I knew the number.",
+        "know": "\"know\" does not fit this formal request or requirement pattern.",
+        "will know": "\"will know\" does not fit this formal request or requirement pattern.",
+        "knowing": "\"knowing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3625",
+      "level": "A2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The grammar class could finish today if the printer ___ working.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The grammar class could finish today if the printer were working.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The grammar class could finish today if the printer were working.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "will be": "\"will be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3626",
+      "level": "A2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "If I ___ Lena, I would ask for help.",
+      "options": [
+        "were",
+        "am",
+        "be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If I were Lena, I would ask for help.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If I were Lena, I would ask for help.",
+        "am": "\"am\" does not fit this formal request or requirement pattern.",
+        "be": "\"be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3627",
+      "level": "A2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "If the records office ___ earlier, we could get the form before class.",
+      "options": [
+        "opened",
+        "opens",
+        "will open",
+        "opening"
+      ],
+      "answer": "opened",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If the records office opened earlier, we could get the form before class.",
+      "rationales": {
+        "opened": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If the records office opened earlier, we could get the form before class.",
+        "opens": "\"opens\" does not fit this formal request or requirement pattern.",
+        "will open": "\"will open\" does not fit this formal request or requirement pattern.",
+        "opening": "\"opening\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3628",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "If Daniel ___ more time, the answer would be clearer.",
+      "options": [
+        "had",
+        "has",
+        "will have",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If Daniel had more time, the answer would be clearer.",
+      "rationales": {
+        "had": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If Daniel had more time, the answer would be clearer.",
+        "has": "\"has\" does not fit this formal request or requirement pattern.",
+        "will have": "\"will have\" does not fit this formal request or requirement pattern.",
+        "having": "\"having\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3629",
+      "level": "A2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "I would call the online teacher if I ___ the number.",
+      "options": [
+        "knew",
+        "know",
+        "will know",
+        "knowing"
+      ],
+      "answer": "knew",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I would call the online teacher if I knew the number.",
+      "rationales": {
+        "knew": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I would call the online teacher if I knew the number.",
+        "know": "\"know\" does not fit this formal request or requirement pattern.",
+        "will know": "\"will know\" does not fit this formal request or requirement pattern.",
+        "knowing": "\"knowing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3630",
+      "level": "A2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The exam-prep class could finish today if the printer ___ working.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The exam-prep class could finish today if the printer were working.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The exam-prep class could finish today if the printer were working.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "will be": "\"will be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3631",
+      "level": "A2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "If I ___ Hana, I would ask for help.",
+      "options": [
+        "were",
+        "am",
+        "be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If I were Hana, I would ask for help.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If I were Hana, I would ask for help.",
+        "am": "\"am\" does not fit this formal request or requirement pattern.",
+        "be": "\"be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3632",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "If the registrar's office ___ earlier, we could get the form before class.",
+      "options": [
+        "opened",
+        "opens",
+        "will open",
+        "opening"
+      ],
+      "answer": "opened",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If the registrar's office opened earlier, we could get the form before class.",
+      "rationales": {
+        "opened": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If the registrar's office opened earlier, we could get the form before class.",
+        "opens": "\"opens\" does not fit this formal request or requirement pattern.",
+        "will open": "\"will open\" does not fit this formal request or requirement pattern.",
+        "opening": "\"opening\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3633",
+      "level": "A2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "If Priya ___ more time, the answer would be clearer.",
+      "options": [
+        "had",
+        "has",
+        "will have",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If Priya had more time, the answer would be clearer.",
+      "rationales": {
+        "had": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If Priya had more time, the answer would be clearer.",
+        "has": "\"has\" does not fit this formal request or requirement pattern.",
+        "will have": "\"will have\" does not fit this formal request or requirement pattern.",
+        "having": "\"having\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3634",
+      "level": "A2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "I would call the morning teacher if I ___ the number.",
+      "options": [
+        "knew",
+        "know",
+        "will know",
+        "knowing"
+      ],
+      "answer": "knew",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I would call the morning teacher if I knew the number.",
+      "rationales": {
+        "knew": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I would call the morning teacher if I knew the number.",
+        "know": "\"know\" does not fit this formal request or requirement pattern.",
+        "will know": "\"will know\" does not fit this formal request or requirement pattern.",
+        "knowing": "\"knowing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3635",
+      "level": "A2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The skills class could finish today if the printer ___ working.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The skills class could finish today if the printer were working.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The skills class could finish today if the printer were working.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "will be": "\"will be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3636",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "If I ___ Luis, I would ask for help.",
+      "options": [
+        "were",
+        "am",
+        "be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If I were Luis, I would ask for help.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If I were Luis, I would ask for help.",
+        "am": "\"am\" does not fit this formal request or requirement pattern.",
+        "be": "\"be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3637",
+      "level": "A2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "If the training office ___ earlier, we could get the form before class.",
+      "options": [
+        "opened",
+        "opens",
+        "will open",
+        "opening"
+      ],
+      "answer": "opened",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If the training office opened earlier, we could get the form before class.",
+      "rationales": {
+        "opened": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If the training office opened earlier, we could get the form before class.",
+        "opens": "\"opens\" does not fit this formal request or requirement pattern.",
+        "will open": "\"will open\" does not fit this formal request or requirement pattern.",
+        "opening": "\"opening\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3638",
+      "level": "A2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "If Noah ___ more time, the answer would be clearer.",
+      "options": [
+        "had",
+        "has",
+        "will have",
+        "having"
+      ],
+      "answer": "had",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If Noah had more time, the answer would be clearer.",
+      "rationales": {
+        "had": "This formal pattern uses the base form after the request or requirement. The completed sentence is: If Noah had more time, the answer would be clearer.",
+        "has": "\"has\" does not fit this formal request or requirement pattern.",
+        "will have": "\"will have\" does not fit this formal request or requirement pattern.",
+        "having": "\"having\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3639",
+      "level": "A2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "I would call the language teacher if I ___ the number.",
+      "options": [
+        "knew",
+        "know",
+        "will know",
+        "knowing"
+      ],
+      "answer": "knew",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I would call the language teacher if I knew the number.",
+      "rationales": {
+        "knew": "This formal pattern uses the base form after the request or requirement. The completed sentence is: I would call the language teacher if I knew the number.",
+        "know": "\"know\" does not fit this formal request or requirement pattern.",
+        "will know": "\"will know\" does not fit this formal request or requirement pattern.",
+        "knowing": "\"knowing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-a2-3640",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The workshop class could finish today if the printer ___ working.",
+      "options": [
+        "were",
+        "is",
+        "will be",
+        "being"
+      ],
+      "answer": "were",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The workshop class could finish today if the printer were working.",
+      "rationales": {
+        "were": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The workshop class could finish today if the printer were working.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "will be": "\"will be\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3641",
+      "level": "B1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The teacher suggested that Mina ___ early.",
+      "options": [
+        "arrive",
+        "arrives",
+        "arrived",
+        "arriving"
+      ],
+      "answer": "arrive",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The teacher suggested that Mina arrive early.",
+      "rationales": {
+        "arrive": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The teacher suggested that Mina arrive early.",
+        "arrives": "\"arrives\" does not fit this formal request or requirement pattern.",
+        "arrived": "\"arrived\" does not fit this formal request or requirement pattern.",
+        "arriving": "\"arriving\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3642",
+      "level": "B1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The program manager asked that the clerk ___ the receipt today.",
+      "options": [
+        "file",
+        "files",
+        "filed",
+        "filing"
+      ],
+      "answer": "file",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The program manager asked that the clerk file the receipt today.",
+      "rationales": {
+        "file": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The program manager asked that the clerk file the receipt today.",
+        "files": "\"files\" does not fit this formal request or requirement pattern.",
+        "filed": "\"filed\" does not fit this formal request or requirement pattern.",
+        "filing": "\"filing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3643",
+      "level": "B1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The rule requires that each student ___ a badge before the client call.",
+      "options": [
+        "wear",
+        "wears",
+        "wore",
+        "wearing"
+      ],
+      "answer": "wear",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that each student wear a badge before the client call.",
+      "rationales": {
+        "wear": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that each student wear a badge before the client call.",
+        "wears": "\"wears\" does not fit this formal request or requirement pattern.",
+        "wore": "\"wore\" does not fit this formal request or requirement pattern.",
+        "wearing": "\"wearing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3644",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The clinic office requested that the form ___ signed in blue ink.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The clinic office requested that the form be signed in blue ink.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The clinic office requested that the form be signed in blue ink.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3645",
+      "level": "B1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The tutor recommended that Omar ___ the essay again.",
+      "options": [
+        "revise",
+        "revises",
+        "revised",
+        "revising"
+      ],
+      "answer": "revise",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The tutor recommended that Omar revise the essay again.",
+      "rationales": {
+        "revise": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The tutor recommended that Omar revise the essay again.",
+        "revises": "\"revises\" does not fit this formal request or requirement pattern.",
+        "revised": "\"revised\" does not fit this formal request or requirement pattern.",
+        "revising": "\"revising\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3646",
+      "level": "B1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The teacher suggested that Lena ___ early.",
+      "options": [
+        "arrive",
+        "arrives",
+        "arrived",
+        "arriving"
+      ],
+      "answer": "arrive",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The teacher suggested that Lena arrive early.",
+      "rationales": {
+        "arrive": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The teacher suggested that Lena arrive early.",
+        "arrives": "\"arrives\" does not fit this formal request or requirement pattern.",
+        "arrived": "\"arrived\" does not fit this formal request or requirement pattern.",
+        "arriving": "\"arriving\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3647",
+      "level": "B1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The hiring manager asked that the clerk ___ the receipt today.",
+      "options": [
+        "file",
+        "files",
+        "filed",
+        "filing"
+      ],
+      "answer": "file",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The hiring manager asked that the clerk file the receipt today.",
+      "rationales": {
+        "file": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The hiring manager asked that the clerk file the receipt today.",
+        "files": "\"files\" does not fit this formal request or requirement pattern.",
+        "filed": "\"filed\" does not fit this formal request or requirement pattern.",
+        "filing": "\"filing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3648",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The rule requires that each student ___ a badge before the application review.",
+      "options": [
+        "wear",
+        "wears",
+        "wore",
+        "wearing"
+      ],
+      "answer": "wear",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that each student wear a badge before the application review.",
+      "rationales": {
+        "wear": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that each student wear a badge before the application review.",
+        "wears": "\"wears\" does not fit this formal request or requirement pattern.",
+        "wore": "\"wore\" does not fit this formal request or requirement pattern.",
+        "wearing": "\"wearing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3649",
+      "level": "B1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The testing office requested that the form ___ signed in blue ink.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The testing office requested that the form be signed in blue ink.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The testing office requested that the form be signed in blue ink.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3650",
+      "level": "B1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The tutor recommended that Mateo ___ the essay again.",
+      "options": [
+        "revise",
+        "revises",
+        "revised",
+        "revising"
+      ],
+      "answer": "revise",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The tutor recommended that Mateo revise the essay again.",
+      "rationales": {
+        "revise": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The tutor recommended that Mateo revise the essay again.",
+        "revises": "\"revises\" does not fit this formal request or requirement pattern.",
+        "revised": "\"revised\" does not fit this formal request or requirement pattern.",
+        "revising": "\"revising\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3651",
+      "level": "B1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The teacher suggested that Hana ___ early.",
+      "options": [
+        "arrive",
+        "arrives",
+        "arrived",
+        "arriving"
+      ],
+      "answer": "arrive",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The teacher suggested that Hana arrive early.",
+      "rationales": {
+        "arrive": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The teacher suggested that Hana arrive early.",
+        "arrives": "\"arrives\" does not fit this formal request or requirement pattern.",
+        "arrived": "\"arrived\" does not fit this formal request or requirement pattern.",
+        "arriving": "\"arriving\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3652",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The regional manager asked that the clerk ___ the receipt today.",
+      "options": [
+        "file",
+        "files",
+        "filed",
+        "filing"
+      ],
+      "answer": "file",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The regional manager asked that the clerk file the receipt today.",
+      "rationales": {
+        "file": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The regional manager asked that the clerk file the receipt today.",
+        "files": "\"files\" does not fit this formal request or requirement pattern.",
+        "filed": "\"filed\" does not fit this formal request or requirement pattern.",
+        "filing": "\"filing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3653",
+      "level": "B1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The rule requires that each student ___ a badge before the team review.",
+      "options": [
+        "wear",
+        "wears",
+        "wore",
+        "wearing"
+      ],
+      "answer": "wear",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that each student wear a badge before the team review.",
+      "rationales": {
+        "wear": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that each student wear a badge before the team review.",
+        "wears": "\"wears\" does not fit this formal request or requirement pattern.",
+        "wore": "\"wore\" does not fit this formal request or requirement pattern.",
+        "wearing": "\"wearing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3654",
+      "level": "B1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The language office requested that the form ___ signed in blue ink.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The language office requested that the form be signed in blue ink.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The language office requested that the form be signed in blue ink.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3655",
+      "level": "B1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The tutor recommended that Sara ___ the essay again.",
+      "options": [
+        "revise",
+        "revises",
+        "revised",
+        "revising"
+      ],
+      "answer": "revise",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The tutor recommended that Sara revise the essay again.",
+      "rationales": {
+        "revise": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The tutor recommended that Sara revise the essay again.",
+        "revises": "\"revises\" does not fit this formal request or requirement pattern.",
+        "revised": "\"revised\" does not fit this formal request or requirement pattern.",
+        "revising": "\"revising\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3656",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The teacher suggested that Luis ___ early.",
+      "options": [
+        "arrive",
+        "arrives",
+        "arrived",
+        "arriving"
+      ],
+      "answer": "arrive",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The teacher suggested that Luis arrive early.",
+      "rationales": {
+        "arrive": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The teacher suggested that Luis arrive early.",
+        "arrives": "\"arrives\" does not fit this formal request or requirement pattern.",
+        "arrived": "\"arrived\" does not fit this formal request or requirement pattern.",
+        "arriving": "\"arriving\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3657",
+      "level": "B1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The event manager asked that the clerk ___ the receipt today.",
+      "options": [
+        "file",
+        "files",
+        "filed",
+        "filing"
+      ],
+      "answer": "file",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The event manager asked that the clerk file the receipt today.",
+      "rationales": {
+        "file": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The event manager asked that the clerk file the receipt today.",
+        "files": "\"files\" does not fit this formal request or requirement pattern.",
+        "filed": "\"filed\" does not fit this formal request or requirement pattern.",
+        "filing": "\"filing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3658",
+      "level": "B1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The rule requires that each student ___ a badge before the documents are filed.",
+      "options": [
+        "wear",
+        "wears",
+        "wore",
+        "wearing"
+      ],
+      "answer": "wear",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that each student wear a badge before the documents are filed.",
+      "rationales": {
+        "wear": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that each student wear a badge before the documents are filed.",
+        "wears": "\"wears\" does not fit this formal request or requirement pattern.",
+        "wore": "\"wore\" does not fit this formal request or requirement pattern.",
+        "wearing": "\"wearing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3659",
+      "level": "B1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The department office requested that the form ___ signed in blue ink.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The department office requested that the form be signed in blue ink.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The department office requested that the form be signed in blue ink.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b1-3660",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The tutor recommended that Theo ___ the essay again.",
+      "options": [
+        "revise",
+        "revises",
+        "revised",
+        "revising"
+      ],
+      "answer": "revise",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The tutor recommended that Theo revise the essay again.",
+      "rationales": {
+        "revise": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The tutor recommended that Theo revise the essay again.",
+        "revises": "\"revises\" does not fit this formal request or requirement pattern.",
+        "revised": "\"revised\" does not fit this formal request or requirement pattern.",
+        "revising": "\"revising\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3661",
+      "level": "B2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "It is important that every applicant at the library ___ the registration form today.",
+      "options": [
+        "complete",
+        "completes",
+        "completed",
+        "completing"
+      ],
+      "answer": "complete",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is important that every applicant at the library complete the registration form today.",
+      "rationales": {
+        "complete": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is important that every applicant at the library complete the registration form today.",
+        "completes": "\"completes\" does not fit this formal request or requirement pattern.",
+        "completed": "\"completed\" does not fit this formal request or requirement pattern.",
+        "completing": "\"completing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3662",
+      "level": "B2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The director insisted that the class notice ___ posted before noon.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The director insisted that the class notice be posted before noon.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The director insisted that the class notice be posted before noon.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3663",
+      "level": "B2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The policy requires that every complaint ___ a case number before the budget meeting.",
+      "options": [
+        "receive",
+        "receives",
+        "received",
+        "receiving"
+      ],
+      "answer": "receive",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The policy requires that every complaint receive a case number before the budget meeting.",
+      "rationales": {
+        "receive": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The policy requires that every complaint receive a case number before the budget meeting.",
+        "receives": "\"receives\" does not fit this formal request or requirement pattern.",
+        "received": "\"received\" does not fit this formal request or requirement pattern.",
+        "receiving": "\"receiving\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3664",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The curriculum committee recommended that the deadline ___ extended.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The curriculum committee recommended that the deadline be extended.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The curriculum committee recommended that the deadline be extended.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3665",
+      "level": "B2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "It is essential that the reviewer ___ the missing appendix after the complaint review.",
+      "options": [
+        "check",
+        "checks",
+        "checked",
+        "checking"
+      ],
+      "answer": "check",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is essential that the reviewer check the missing appendix after the complaint review.",
+      "rationales": {
+        "check": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is essential that the reviewer check the missing appendix after the complaint review.",
+        "checks": "\"checks\" does not fit this formal request or requirement pattern.",
+        "checked": "\"checked\" does not fit this formal request or requirement pattern.",
+        "checking": "\"checking\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3666",
+      "level": "B2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "It is important that every applicant at the museum ___ the housing form today.",
+      "options": [
+        "complete",
+        "completes",
+        "completed",
+        "completing"
+      ],
+      "answer": "complete",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is important that every applicant at the museum complete the housing form today.",
+      "rationales": {
+        "complete": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is important that every applicant at the museum complete the housing form today.",
+        "completes": "\"completes\" does not fit this formal request or requirement pattern.",
+        "completed": "\"completed\" does not fit this formal request or requirement pattern.",
+        "completing": "\"completing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3667",
+      "level": "B2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The director insisted that the bus notice ___ posted before noon.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The director insisted that the bus notice be posted before noon.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The director insisted that the bus notice be posted before noon.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3668",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The policy requires that every complaint ___ a case number before the contract is signed.",
+      "options": [
+        "receive",
+        "receives",
+        "received",
+        "receiving"
+      ],
+      "answer": "receive",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The policy requires that every complaint receive a case number before the contract is signed.",
+      "rationales": {
+        "receive": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The policy requires that every complaint receive a case number before the contract is signed.",
+        "receives": "\"receives\" does not fit this formal request or requirement pattern.",
+        "received": "\"received\" does not fit this formal request or requirement pattern.",
+        "receiving": "\"receiving\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3669",
+      "level": "B2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The ethics committee recommended that the deadline ___ extended.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The ethics committee recommended that the deadline be extended.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The ethics committee recommended that the deadline be extended.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3670",
+      "level": "B2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "It is essential that the reviewer ___ the missing appendix after the planning call.",
+      "options": [
+        "check",
+        "checks",
+        "checked",
+        "checking"
+      ],
+      "answer": "check",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is essential that the reviewer check the missing appendix after the planning call.",
+      "rationales": {
+        "check": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is essential that the reviewer check the missing appendix after the planning call.",
+        "checks": "\"checks\" does not fit this formal request or requirement pattern.",
+        "checked": "\"checked\" does not fit this formal request or requirement pattern.",
+        "checking": "\"checking\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3671",
+      "level": "B2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "It is important that every applicant at the airport ___ the course form today.",
+      "options": [
+        "complete",
+        "completes",
+        "completed",
+        "completing"
+      ],
+      "answer": "complete",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is important that every applicant at the airport complete the course form today.",
+      "rationales": {
+        "complete": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is important that every applicant at the airport complete the course form today.",
+        "completes": "\"completes\" does not fit this formal request or requirement pattern.",
+        "completed": "\"completed\" does not fit this formal request or requirement pattern.",
+        "completing": "\"completing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3672",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The director insisted that the travel notice ___ posted before noon.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The director insisted that the travel notice be posted before noon.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The director insisted that the travel notice be posted before noon.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3673",
+      "level": "B2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The policy requires that every complaint ___ a case number before the board discussion.",
+      "options": [
+        "receive",
+        "receives",
+        "received",
+        "receiving"
+      ],
+      "answer": "receive",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The policy requires that every complaint receive a case number before the board discussion.",
+      "rationales": {
+        "receive": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The policy requires that every complaint receive a case number before the board discussion.",
+        "receives": "\"receives\" does not fit this formal request or requirement pattern.",
+        "received": "\"received\" does not fit this formal request or requirement pattern.",
+        "receiving": "\"receiving\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3674",
+      "level": "B2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The assessment committee recommended that the deadline ___ extended.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The assessment committee recommended that the deadline be extended.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The assessment committee recommended that the deadline be extended.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3675",
+      "level": "B2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "It is essential that the reviewer ___ the missing appendix after the service report.",
+      "options": [
+        "check",
+        "checks",
+        "checked",
+        "checking"
+      ],
+      "answer": "check",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is essential that the reviewer check the missing appendix after the service report.",
+      "rationales": {
+        "check": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is essential that the reviewer check the missing appendix after the service report.",
+        "checks": "\"checks\" does not fit this formal request or requirement pattern.",
+        "checked": "\"checked\" does not fit this formal request or requirement pattern.",
+        "checking": "\"checking\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3676",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "It is important that every applicant at the market ___ the tax form today.",
+      "options": [
+        "complete",
+        "completes",
+        "completed",
+        "completing"
+      ],
+      "answer": "complete",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is important that every applicant at the market complete the tax form today.",
+      "rationales": {
+        "complete": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is important that every applicant at the market complete the tax form today.",
+        "completes": "\"completes\" does not fit this formal request or requirement pattern.",
+        "completed": "\"completed\" does not fit this formal request or requirement pattern.",
+        "completing": "\"completing\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3677",
+      "level": "B2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The director insisted that the visitor notice ___ posted before noon.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The director insisted that the visitor notice be posted before noon.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The director insisted that the visitor notice be posted before noon.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3678",
+      "level": "B2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The policy requires that every complaint ___ a case number before the compliance check.",
+      "options": [
+        "receive",
+        "receives",
+        "received",
+        "receiving"
+      ],
+      "answer": "receive",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The policy requires that every complaint receive a case number before the compliance check.",
+      "rationales": {
+        "receive": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The policy requires that every complaint receive a case number before the compliance check.",
+        "receives": "\"receives\" does not fit this formal request or requirement pattern.",
+        "received": "\"received\" does not fit this formal request or requirement pattern.",
+        "receiving": "\"receiving\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3679",
+      "level": "B2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The disciplinary committee recommended that the deadline ___ extended.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The disciplinary committee recommended that the deadline be extended.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The disciplinary committee recommended that the deadline be extended.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-b2-3680",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "It is essential that the reviewer ___ the missing appendix after the final interview.",
+      "options": [
+        "check",
+        "checks",
+        "checked",
+        "checking"
+      ],
+      "answer": "check",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is essential that the reviewer check the missing appendix after the final interview.",
+      "rationales": {
+        "check": "This formal pattern uses the base form after the request or requirement. The completed sentence is: It is essential that the reviewer check the missing appendix after the final interview.",
+        "checks": "\"checks\" does not fit this formal request or requirement pattern.",
+        "checked": "\"checked\" does not fit this formal request or requirement pattern.",
+        "checking": "\"checking\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3681",
+      "level": "C1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The rule requires that the attendance report ___ submitted by Friday.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that the attendance report be submitted by Friday.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that the attendance report be submitted by Friday.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3682",
+      "level": "C1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The chair requested that the budget report ___ confidential until Monday.",
+      "options": [
+        "remain",
+        "remains",
+        "remained",
+        "remaining"
+      ],
+      "answer": "remain",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The chair requested that the budget report remain confidential until Monday.",
+      "rationales": {
+        "remain": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The chair requested that the budget report remain confidential until Monday.",
+        "remains": "\"remains\" does not fit this formal request or requirement pattern.",
+        "remained": "\"remained\" does not fit this formal request or requirement pattern.",
+        "remaining": "\"remaining\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3683",
+      "level": "C1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The proposal recommends that the housing office ___ a clearer appeals process.",
+      "options": [
+        "adopt",
+        "adopts",
+        "adopted",
+        "adopting"
+      ],
+      "answer": "adopt",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The proposal recommends that the housing office adopt a clearer appeals process.",
+      "rationales": {
+        "adopt": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The proposal recommends that the housing office adopt a clearer appeals process.",
+        "adopts": "\"adopts\" does not fit this formal request or requirement pattern.",
+        "adopted": "\"adopted\" does not fit this formal request or requirement pattern.",
+        "adopting": "\"adopting\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3684",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The contract stipulates that payment ___ made within thirty days before the recommendation is issued.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The contract stipulates that payment be made within thirty days before the recommendation is issued.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The contract stipulates that payment be made within thirty days before the recommendation is issued.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3685",
+      "level": "C1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The reviewer suggested that the author ___ the claim more narrowly after the evidence is compared.",
+      "options": [
+        "state",
+        "states",
+        "stated",
+        "stating"
+      ],
+      "answer": "state",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The reviewer suggested that the author state the claim more narrowly after the evidence is compared.",
+      "rationales": {
+        "state": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The reviewer suggested that the author state the claim more narrowly after the evidence is compared.",
+        "states": "\"states\" does not fit this formal request or requirement pattern.",
+        "stated": "\"stated\" does not fit this formal request or requirement pattern.",
+        "stating": "\"stating\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3686",
+      "level": "C1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The rule requires that the chart ___ submitted by Friday during the compliance review.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that the chart be submitted by Friday during the compliance review.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that the chart be submitted by Friday during the compliance review.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3687",
+      "level": "C1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The chair requested that the audit report ___ confidential until Monday.",
+      "options": [
+        "remain",
+        "remains",
+        "remained",
+        "remaining"
+      ],
+      "answer": "remain",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The chair requested that the audit report remain confidential until Monday.",
+      "rationales": {
+        "remain": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The chair requested that the audit report remain confidential until Monday.",
+        "remains": "\"remains\" does not fit this formal request or requirement pattern.",
+        "remained": "\"remained\" does not fit this formal request or requirement pattern.",
+        "remaining": "\"remaining\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3688",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The proposal recommends that the travel office ___ a clearer appeals process.",
+      "options": [
+        "adopt",
+        "adopts",
+        "adopted",
+        "adopting"
+      ],
+      "answer": "adopt",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The proposal recommends that the travel office adopt a clearer appeals process.",
+      "rationales": {
+        "adopt": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The proposal recommends that the travel office adopt a clearer appeals process.",
+        "adopts": "\"adopts\" does not fit this formal request or requirement pattern.",
+        "adopted": "\"adopted\" does not fit this formal request or requirement pattern.",
+        "adopting": "\"adopting\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3689",
+      "level": "C1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The contract stipulates that payment ___ made within thirty days before the findings are published.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The contract stipulates that payment be made within thirty days before the findings are published.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The contract stipulates that payment be made within thirty days before the findings are published.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3690",
+      "level": "C1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The reviewer suggested that the author ___ the claim more narrowly in the grant application.",
+      "options": [
+        "state",
+        "states",
+        "stated",
+        "stating"
+      ],
+      "answer": "state",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The reviewer suggested that the author state the claim more narrowly in the grant application.",
+      "rationales": {
+        "state": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The reviewer suggested that the author state the claim more narrowly in the grant application.",
+        "states": "\"states\" does not fit this formal request or requirement pattern.",
+        "stated": "\"stated\" does not fit this formal request or requirement pattern.",
+        "stating": "\"stating\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3691",
+      "level": "C1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The rule requires that the lesson plan ___ submitted by Friday during the seminar discussion.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that the lesson plan be submitted by Friday during the seminar discussion.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that the lesson plan be submitted by Friday during the seminar discussion.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3692",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The chair requested that the inspection report ___ confidential until Monday.",
+      "options": [
+        "remain",
+        "remains",
+        "remained",
+        "remaining"
+      ],
+      "answer": "remain",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The chair requested that the inspection report remain confidential until Monday.",
+      "rationales": {
+        "remain": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The chair requested that the inspection report remain confidential until Monday.",
+        "remains": "\"remains\" does not fit this formal request or requirement pattern.",
+        "remained": "\"remained\" does not fit this formal request or requirement pattern.",
+        "remaining": "\"remaining\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3693",
+      "level": "C1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The proposal recommends that the program office ___ a clearer appeals process.",
+      "options": [
+        "adopt",
+        "adopts",
+        "adopted",
+        "adopting"
+      ],
+      "answer": "adopt",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The proposal recommends that the program office adopt a clearer appeals process.",
+      "rationales": {
+        "adopt": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The proposal recommends that the program office adopt a clearer appeals process.",
+        "adopts": "\"adopts\" does not fit this formal request or requirement pattern.",
+        "adopted": "\"adopted\" does not fit this formal request or requirement pattern.",
+        "adopting": "\"adopting\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3694",
+      "level": "C1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The contract stipulates that payment ___ made within thirty days before the final vote.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The contract stipulates that payment be made within thirty days before the final vote.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The contract stipulates that payment be made within thirty days before the final vote.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3695",
+      "level": "C1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The reviewer suggested that the author ___ the claim more narrowly in the appendix note.",
+      "options": [
+        "state",
+        "states",
+        "stated",
+        "stating"
+      ],
+      "answer": "state",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The reviewer suggested that the author state the claim more narrowly in the appendix note.",
+      "rationales": {
+        "state": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The reviewer suggested that the author state the claim more narrowly in the appendix note.",
+        "states": "\"states\" does not fit this formal request or requirement pattern.",
+        "stated": "\"stated\" does not fit this formal request or requirement pattern.",
+        "stating": "\"stating\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3696",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The rule requires that the agenda ___ submitted by Friday for the advisory brief.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that the agenda be submitted by Friday for the advisory brief.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The rule requires that the agenda be submitted by Friday for the advisory brief.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3697",
+      "level": "C1",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The chair requested that the compliance report ___ confidential until Monday.",
+      "options": [
+        "remain",
+        "remains",
+        "remained",
+        "remaining"
+      ],
+      "answer": "remain",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The chair requested that the compliance report remain confidential until Monday.",
+      "rationales": {
+        "remain": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The chair requested that the compliance report remain confidential until Monday.",
+        "remains": "\"remains\" does not fit this formal request or requirement pattern.",
+        "remained": "\"remained\" does not fit this formal request or requirement pattern.",
+        "remaining": "\"remaining\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3698",
+      "level": "C1",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The proposal recommends that the local office ___ a clearer appeals process.",
+      "options": [
+        "adopt",
+        "adopts",
+        "adopted",
+        "adopting"
+      ],
+      "answer": "adopt",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The proposal recommends that the local office adopt a clearer appeals process.",
+      "rationales": {
+        "adopt": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The proposal recommends that the local office adopt a clearer appeals process.",
+        "adopts": "\"adopts\" does not fit this formal request or requirement pattern.",
+        "adopted": "\"adopted\" does not fit this formal request or requirement pattern.",
+        "adopting": "\"adopting\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3699",
+      "level": "C1",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The contract stipulates that payment ___ made within thirty days before the policy draft.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The contract stipulates that payment be made within thirty days before the policy draft.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The contract stipulates that payment be made within thirty days before the policy draft.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c1-3700",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The reviewer suggested that the author ___ the claim more narrowly in the assessment rubric.",
+      "options": [
+        "state",
+        "states",
+        "stated",
+        "stating"
+      ],
+      "answer": "state",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The reviewer suggested that the author state the claim more narrowly in the assessment rubric.",
+      "rationales": {
+        "state": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The reviewer suggested that the author state the claim more narrowly in the assessment rubric.",
+        "states": "\"states\" does not fit this formal request or requirement pattern.",
+        "stated": "\"stated\" does not fit this formal request or requirement pattern.",
+        "stating": "\"stating\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3701",
+      "level": "C2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The review committee insisted that the wording in the report ___ unchanged until the review ended.",
+      "options": [
+        "remain",
+        "remains",
+        "remained",
+        "remaining"
+      ],
+      "answer": "remain",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The review committee insisted that the wording in the report remain unchanged until the review ended.",
+      "rationales": {
+        "remain": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The review committee insisted that the wording in the report remain unchanged until the review ended.",
+        "remains": "\"remains\" does not fit this formal request or requirement pattern.",
+        "remained": "\"remained\" does not fit this formal request or requirement pattern.",
+        "remaining": "\"remaining\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3702",
+      "level": "C2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The order requires that all identifying details ___ redacted before release during the evidentiary hearing.",
+      "options": [
+        "be",
+        "are",
+        "were",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The order requires that all identifying details be redacted before release during the evidentiary hearing.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The order requires that all identifying details be redacted before release during the evidentiary hearing.",
+        "are": "\"are\" does not fit this formal request or requirement pattern.",
+        "were": "\"were\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3703",
+      "level": "C2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The dissent urges that the precedent ___ applied only to similar cases before the arbitration panel meets.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The dissent urges that the precedent be applied only to similar cases before the arbitration panel meets.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The dissent urges that the precedent be applied only to similar cases before the arbitration panel meets.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3704",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The panel recommended that the agency ___ the disputed clause in the fiduciary briefing.",
+      "options": [
+        "reconsider",
+        "reconsiders",
+        "reconsidered",
+        "reconsidering"
+      ],
+      "answer": "reconsider",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The panel recommended that the agency reconsider the disputed clause in the fiduciary briefing.",
+      "rationales": {
+        "reconsider": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The panel recommended that the agency reconsider the disputed clause in the fiduciary briefing.",
+        "reconsiders": "\"reconsiders\" does not fit this formal request or requirement pattern.",
+        "reconsidered": "\"reconsidered\" does not fit this formal request or requirement pattern.",
+        "reconsidering": "\"reconsidering\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3705",
+      "level": "C2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The settlement demands that neither party ___ liability after the methodological critique.",
+      "options": [
+        "admit",
+        "admits",
+        "admitted",
+        "admitting"
+      ],
+      "answer": "admit",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The settlement demands that neither party admit liability after the methodological critique.",
+      "rationales": {
+        "admit": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The settlement demands that neither party admit liability after the methodological critique.",
+        "admits": "\"admits\" does not fit this formal request or requirement pattern.",
+        "admitted": "\"admitted\" does not fit this formal request or requirement pattern.",
+        "admitting": "\"admitting\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3706",
+      "level": "C2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The hiring committee insisted that the wording in the chart ___ unchanged until the review ended.",
+      "options": [
+        "remain",
+        "remains",
+        "remained",
+        "remaining"
+      ],
+      "answer": "remain",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The hiring committee insisted that the wording in the chart remain unchanged until the review ended.",
+      "rationales": {
+        "remain": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The hiring committee insisted that the wording in the chart remain unchanged until the review ended.",
+        "remains": "\"remains\" does not fit this formal request or requirement pattern.",
+        "remained": "\"remained\" does not fit this formal request or requirement pattern.",
+        "remaining": "\"remaining\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3707",
+      "level": "C2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The order requires that all identifying details ___ redacted before release in the interpretive framework.",
+      "options": [
+        "be",
+        "are",
+        "were",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The order requires that all identifying details be redacted before release in the interpretive framework.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The order requires that all identifying details be redacted before release in the interpretive framework.",
+        "are": "\"are\" does not fit this formal request or requirement pattern.",
+        "were": "\"were\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3708",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The dissent urges that the precedent ___ applied only to similar cases during the appellate review.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The dissent urges that the precedent be applied only to similar cases during the appellate review.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The dissent urges that the precedent be applied only to similar cases during the appellate review.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3709",
+      "level": "C2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The panel recommended that the agency ___ the disputed clause in the technical memorandum.",
+      "options": [
+        "reconsider",
+        "reconsiders",
+        "reconsidered",
+        "reconsidering"
+      ],
+      "answer": "reconsider",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The panel recommended that the agency reconsider the disputed clause in the technical memorandum.",
+      "rationales": {
+        "reconsider": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The panel recommended that the agency reconsider the disputed clause in the technical memorandum.",
+        "reconsiders": "\"reconsiders\" does not fit this formal request or requirement pattern.",
+        "reconsidered": "\"reconsidered\" does not fit this formal request or requirement pattern.",
+        "reconsidering": "\"reconsidering\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3710",
+      "level": "C2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The settlement demands that neither party ___ liability after the objections are synthesized.",
+      "options": [
+        "admit",
+        "admits",
+        "admitted",
+        "admitting"
+      ],
+      "answer": "admit",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The settlement demands that neither party admit liability after the objections are synthesized.",
+      "rationales": {
+        "admit": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The settlement demands that neither party admit liability after the objections are synthesized.",
+        "admits": "\"admits\" does not fit this formal request or requirement pattern.",
+        "admitted": "\"admitted\" does not fit this formal request or requirement pattern.",
+        "admitting": "\"admitting\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3711",
+      "level": "C2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The language committee insisted that the wording in the lesson plan ___ unchanged until the review ended.",
+      "options": [
+        "remain",
+        "remains",
+        "remained",
+        "remaining"
+      ],
+      "answer": "remain",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The language committee insisted that the wording in the lesson plan remain unchanged until the review ended.",
+      "rationales": {
+        "remain": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The language committee insisted that the wording in the lesson plan remain unchanged until the review ended.",
+        "remains": "\"remains\" does not fit this formal request or requirement pattern.",
+        "remained": "\"remained\" does not fit this formal request or requirement pattern.",
+        "remaining": "\"remaining\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3712",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The order requires that all identifying details ___ redacted before release in the published corrigendum.",
+      "options": [
+        "be",
+        "are",
+        "were",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The order requires that all identifying details be redacted before release in the published corrigendum.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The order requires that all identifying details be redacted before release in the published corrigendum.",
+        "are": "\"are\" does not fit this formal request or requirement pattern.",
+        "were": "\"were\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3713",
+      "level": "C2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The dissent urges that the precedent ___ applied only to similar cases during the ethics review.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The dissent urges that the precedent be applied only to similar cases during the ethics review.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The dissent urges that the precedent be applied only to similar cases during the ethics review.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3714",
+      "level": "C2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The panel recommended that the agency ___ the disputed clause on the counterargument table.",
+      "options": [
+        "reconsider",
+        "reconsiders",
+        "reconsidered",
+        "reconsidering"
+      ],
+      "answer": "reconsider",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The panel recommended that the agency reconsider the disputed clause on the counterargument table.",
+      "rationales": {
+        "reconsider": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The panel recommended that the agency reconsider the disputed clause on the counterargument table.",
+        "reconsiders": "\"reconsiders\" does not fit this formal request or requirement pattern.",
+        "reconsidered": "\"reconsidered\" does not fit this formal request or requirement pattern.",
+        "reconsidering": "\"reconsidering\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3715",
+      "level": "C2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The settlement demands that neither party ___ liability before the final adjudication.",
+      "options": [
+        "admit",
+        "admits",
+        "admitted",
+        "admitting"
+      ],
+      "answer": "admit",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The settlement demands that neither party admit liability before the final adjudication.",
+      "rationales": {
+        "admit": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The settlement demands that neither party admit liability before the final adjudication.",
+        "admits": "\"admits\" does not fit this formal request or requirement pattern.",
+        "admitted": "\"admitted\" does not fit this formal request or requirement pattern.",
+        "admitting": "\"admitting\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3716",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The advisory committee insisted that the wording in the agenda ___ unchanged until the review ended.",
+      "options": [
+        "remain",
+        "remains",
+        "remained",
+        "remaining"
+      ],
+      "answer": "remain",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The advisory committee insisted that the wording in the agenda remain unchanged until the review ended.",
+      "rationales": {
+        "remain": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The advisory committee insisted that the wording in the agenda remain unchanged until the review ended.",
+        "remains": "\"remains\" does not fit this formal request or requirement pattern.",
+        "remained": "\"remained\" does not fit this formal request or requirement pattern.",
+        "remaining": "\"remaining\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3717",
+      "level": "C2",
+      "setupText": "Choose the formal verb form that fits.",
+      "taskText": "The order requires that all identifying details ___ redacted before release during expert testimony.",
+      "options": [
+        "be",
+        "are",
+        "were",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The order requires that all identifying details be redacted before release during expert testimony.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The order requires that all identifying details be redacted before release during expert testimony.",
+        "are": "\"are\" does not fit this formal request or requirement pattern.",
+        "were": "\"were\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3718",
+      "level": "C2",
+      "setupText": "The sentence gives a request or requirement.",
+      "taskText": "The dissent urges that the precedent ___ applied only to similar cases in the compliance addendum.",
+      "options": [
+        "be",
+        "is",
+        "was",
+        "being"
+      ],
+      "answer": "be",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The dissent urges that the precedent be applied only to similar cases in the compliance addendum.",
+      "rationales": {
+        "be": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The dissent urges that the precedent be applied only to similar cases in the compliance addendum.",
+        "is": "\"is\" does not fit this formal request or requirement pattern.",
+        "was": "\"was\" does not fit this formal request or requirement pattern.",
+        "being": "\"being\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3719",
+      "level": "C2",
+      "setupText": "Read the formal pattern before choosing.",
+      "taskText": "The panel recommended that the agency ___ the disputed clause after the longitudinal model is revised.",
+      "options": [
+        "reconsider",
+        "reconsiders",
+        "reconsidered",
+        "reconsidering"
+      ],
+      "answer": "reconsider",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The panel recommended that the agency reconsider the disputed clause after the longitudinal model is revised.",
+      "rationales": {
+        "reconsider": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The panel recommended that the agency reconsider the disputed clause after the longitudinal model is revised.",
+        "reconsiders": "\"reconsiders\" does not fit this formal request or requirement pattern.",
+        "reconsidered": "\"reconsidered\" does not fit this formal request or requirement pattern.",
+        "reconsidering": "\"reconsidering\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-subjunctive-and-unreal-forms-c2-3720",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The settlement demands that neither party ___ liability before the ruling is issued.",
+      "options": [
+        "admit",
+        "admits",
+        "admitted",
+        "admitting"
+      ],
+      "answer": "admit",
+      "explanation": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The settlement demands that neither party admit liability before the ruling is issued.",
+      "rationales": {
+        "admit": "This formal pattern uses the base form after the request or requirement. The completed sentence is: The settlement demands that neither party admit liability before the ruling is issued.",
+        "admits": "\"admits\" does not fit this formal request or requirement pattern.",
+        "admitted": "\"admitted\" does not fit this formal request or requirement pattern.",
+        "admitting": "\"admitting\" does not fit this formal request or requirement pattern."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

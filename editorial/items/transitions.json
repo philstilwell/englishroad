@@ -1,0 +1,2766 @@
+{
+  "topic": "Transitions",
+  "category": "Vocabulary",
+  "items": [
+    {
+      "id": "coverage-transitions-a1-3721",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"because\" do in this sentence? Mina stayed home because it rained.",
+      "options": [
+        "shows a reason",
+        "shows a result",
+        "adds another idea",
+        "shows the next time"
+      ],
+      "answer": "shows a reason",
+      "explanation": "\"because\" shows a reason in this sentence: Mina stayed home because it rained.",
+      "rationales": {
+        "shows a reason": "\"because\" shows a reason in this sentence: Mina stayed home because it rained.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"because\" in this sentence.",
+        "adds another idea": "\"adds another idea\" is a real text function, but it is not the job of \"because\" in this sentence.",
+        "shows the next time": "\"shows the next time\" is a real text function, but it is not the job of \"because\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3722",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"and\" do in this sentence? In the clinic, Carlos read and wrote.",
+      "options": [
+        "adds another idea",
+        "shows a reason",
+        "shows a result",
+        "shows a different idea"
+      ],
+      "answer": "adds another idea",
+      "explanation": "\"and\" adds another idea in this sentence: In the clinic, Carlos read and wrote.",
+      "rationales": {
+        "adds another idea": "\"and\" adds another idea in this sentence: In the clinic, Carlos read and wrote.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"and\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"and\" in this sentence.",
+        "shows a different idea": "\"shows a different idea\" is a real text function, but it is not the job of \"and\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3723",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"but\" do in this sentence? During the discussion, the room was small but clean.",
+      "options": [
+        "shows a different idea",
+        "shows a reason",
+        "adds another idea",
+        "shows the next time"
+      ],
+      "answer": "shows a different idea",
+      "explanation": "\"but\" shows a different idea in this sentence: During the discussion, the room was small but clean.",
+      "rationales": {
+        "shows a different idea": "\"but\" shows a different idea in this sentence: During the discussion, the room was small but clean.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"but\" in this sentence.",
+        "adds another idea": "\"adds another idea\" is a real text function, but it is not the job of \"but\" in this sentence.",
+        "shows the next time": "\"shows the next time\" is a real text function, but it is not the job of \"but\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3724",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"so\" do in this sentence? The example says that it rained, so we stayed inside.",
+      "options": [
+        "shows a result",
+        "shows a reason",
+        "adds another idea",
+        "shows a different idea"
+      ],
+      "answer": "shows a result",
+      "explanation": "\"so\" shows a result in this sentence: The example says that it rained, so we stayed inside.",
+      "rationales": {
+        "shows a result": "\"so\" shows a result in this sentence: The example says that it rained, so we stayed inside.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"so\" in this sentence.",
+        "adds another idea": "\"adds another idea\" is a real text function, but it is not the job of \"so\" in this sentence.",
+        "shows a different idea": "\"shows a different idea\" is a real text function, but it is not the job of \"so\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3725",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"then\" do in this sentence? On the worksheet, Omar ate lunch, then studied.",
+      "options": [
+        "shows the next time",
+        "shows a reason",
+        "adds another idea",
+        "shows a different idea"
+      ],
+      "answer": "shows the next time",
+      "explanation": "\"then\" shows the next time in this sentence: On the worksheet, Omar ate lunch, then studied.",
+      "rationales": {
+        "shows the next time": "\"then\" shows the next time in this sentence: On the worksheet, Omar ate lunch, then studied.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"then\" in this sentence.",
+        "adds another idea": "\"adds another idea\" is a real text function, but it is not the job of \"then\" in this sentence.",
+        "shows a different idea": "\"shows a different idea\" is a real text function, but it is not the job of \"then\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3726",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"or\" do in this sentence? The teacher's example is this: You can use a pencil or a pen.",
+      "options": [
+        "shows a choice",
+        "shows a reason",
+        "shows a result",
+        "adds a different idea"
+      ],
+      "answer": "shows a choice",
+      "explanation": "\"or\" shows a choice in this sentence: The teacher's example is this: You can use a pencil or a pen.",
+      "rationales": {
+        "shows a choice": "\"or\" shows a choice in this sentence: The teacher's example is this: You can use a pencil or a pen.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"or\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"or\" in this sentence.",
+        "adds a different idea": "\"adds a different idea\" is a real text function, but it is not the job of \"or\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3727",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"before\" do in this sentence? In a short message, wash your hands before lunch.",
+      "options": [
+        "shows an earlier time",
+        "shows a reason",
+        "adds another idea",
+        "shows a result"
+      ],
+      "answer": "shows an earlier time",
+      "explanation": "\"before\" shows an earlier time in this sentence: In a short message, wash your hands before lunch.",
+      "rationales": {
+        "shows an earlier time": "\"before\" shows an earlier time in this sentence: In a short message, wash your hands before lunch.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"before\" in this sentence.",
+        "adds another idea": "\"adds another idea\" is a real text function, but it is not the job of \"before\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"before\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3728",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"after\" do in this sentence? The report gives this example: Daniel studied after dinner.",
+      "options": [
+        "shows a later time",
+        "shows a choice",
+        "shows a reason",
+        "adds a different idea"
+      ],
+      "answer": "shows a later time",
+      "explanation": "\"after\" shows a later time in this sentence: The report gives this example: Daniel studied after dinner.",
+      "rationales": {
+        "shows a later time": "\"after\" shows a later time in this sentence: The report gives this example: Daniel studied after dinner.",
+        "shows a choice": "\"shows a choice\" is a real text function, but it is not the job of \"after\" in this sentence.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"after\" in this sentence.",
+        "adds a different idea": "\"adds a different idea\" is a real text function, but it is not the job of \"after\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3729",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"when\" do in this sentence? The email tells students, \"Call me when the bus arrives.\"",
+      "options": [
+        "shows the time something happens",
+        "shows a choice",
+        "shows an opposite idea",
+        "shows a result"
+      ],
+      "answer": "shows the time something happens",
+      "explanation": "\"when\" shows the time something happens in this sentence: The email tells students, \"Call me when the bus arrives.\"",
+      "rationales": {
+        "shows the time something happens": "\"when\" shows the time something happens in this sentence: The email tells students, \"Call me when the bus arrives.\"",
+        "shows a choice": "\"shows a choice\" is a real text function, but it is not the job of \"when\" in this sentence.",
+        "shows an opposite idea": "\"shows an opposite idea\" is a real text function, but it is not the job of \"when\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"when\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3730",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"if\" do in this sentence? The class note says that if it rains, we will stay inside.",
+      "options": [
+        "shows a condition",
+        "adds another idea",
+        "shows a finished action",
+        "shows a different idea"
+      ],
+      "answer": "shows a condition",
+      "explanation": "\"if\" shows a condition in this sentence: The class note says that if it rains, we will stay inside.",
+      "rationales": {
+        "shows a condition": "\"if\" shows a condition in this sentence: The class note says that if it rains, we will stay inside.",
+        "adds another idea": "\"adds another idea\" is a real text function, but it is not the job of \"if\" in this sentence.",
+        "shows a finished action": "\"shows a finished action\" is a real text function, but it is not the job of \"if\" in this sentence.",
+        "shows a different idea": "\"shows a different idea\" is a real text function, but it is not the job of \"if\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3731",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"also\" do in this sentence? In the practice text, Hana reads English and also watches videos.",
+      "options": [
+        "adds one more thing",
+        "shows a reason",
+        "shows a choice",
+        "shows the next time"
+      ],
+      "answer": "adds one more thing",
+      "explanation": "\"also\" adds one more thing in this sentence: In the practice text, Hana reads English and also watches videos.",
+      "rationales": {
+        "adds one more thing": "\"also\" adds one more thing in this sentence: In the practice text, Hana reads English and also watches videos.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"also\" in this sentence.",
+        "shows a choice": "\"shows a choice\" is a real text function, but it is not the job of \"also\" in this sentence.",
+        "shows the next time": "\"shows the next time\" is a real text function, but it is not the job of \"also\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3732",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"first\" do in this sentence? During the lesson, first, write your name.",
+      "options": [
+        "shows the beginning step",
+        "shows a result",
+        "shows a reason",
+        "shows an opposite idea"
+      ],
+      "answer": "shows the beginning step",
+      "explanation": "\"first\" shows the beginning step in this sentence: During the lesson, first, write your name.",
+      "rationales": {
+        "shows the beginning step": "\"first\" shows the beginning step in this sentence: During the lesson, first, write your name.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"first\" in this sentence.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"first\" in this sentence.",
+        "shows an opposite idea": "\"shows an opposite idea\" is a real text function, but it is not the job of \"first\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3733",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"next\" do in this sentence? The first example says that next, open your book.",
+      "options": [
+        "shows the following step",
+        "shows a cause",
+        "shows a choice",
+        "shows a contrast"
+      ],
+      "answer": "shows the following step",
+      "explanation": "\"next\" shows the following step in this sentence: The first example says that next, open your book.",
+      "rationales": {
+        "shows the following step": "\"next\" shows the following step in this sentence: The first example says that next, open your book.",
+        "shows a cause": "\"shows a cause\" is a real text function, but it is not the job of \"next\" in this sentence.",
+        "shows a choice": "\"shows a choice\" is a real text function, but it is not the job of \"next\" in this sentence.",
+        "shows a contrast": "\"shows a contrast\" is a real text function, but it is not the job of \"next\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3734",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"finally\" do in this sentence? On the notice board, finally, check your answers.",
+      "options": [
+        "shows the last step",
+        "shows a reason",
+        "shows a choice",
+        "starts a list"
+      ],
+      "answer": "shows the last step",
+      "explanation": "\"finally\" shows the last step in this sentence: On the notice board, finally, check your answers.",
+      "rationales": {
+        "shows the last step": "\"finally\" shows the last step in this sentence: On the notice board, finally, check your answers.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"finally\" in this sentence.",
+        "shows a choice": "\"shows a choice\" is a real text function, but it is not the job of \"finally\" in this sentence.",
+        "starts a list": "\"starts a list\" is a real text function, but it is not the job of \"finally\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3735",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"too\" do in this sentence? The guide gives this sentence: Sara likes tea, and I do too.",
+      "options": [
+        "adds the same idea",
+        "shows a reason",
+        "shows an opposite idea",
+        "shows a condition"
+      ],
+      "answer": "adds the same idea",
+      "explanation": "\"too\" adds the same idea in this sentence: The guide gives this sentence: Sara likes tea, and I do too.",
+      "rationales": {
+        "adds the same idea": "\"too\" adds the same idea in this sentence: The guide gives this sentence: Sara likes tea, and I do too.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"too\" in this sentence.",
+        "shows an opposite idea": "\"shows an opposite idea\" is a real text function, but it is not the job of \"too\" in this sentence.",
+        "shows a condition": "\"shows a condition\" is a real text function, but it is not the job of \"too\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3736",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"now\" do in this sentence? In the office email, now we can start.",
+      "options": [
+        "shows the present time",
+        "shows a result",
+        "shows a contrast",
+        "gives an example"
+      ],
+      "answer": "shows the present time",
+      "explanation": "\"now\" shows the present time in this sentence: In the office email, now we can start.",
+      "rationales": {
+        "shows the present time": "\"now\" shows the present time in this sentence: In the office email, now we can start.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"now\" in this sentence.",
+        "shows a contrast": "\"shows a contrast\" is a real text function, but it is not the job of \"now\" in this sentence.",
+        "gives an example": "\"gives an example\" is a real text function, but it is not the job of \"now\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3737",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"later\" do in this sentence? The reading passage says that we will practice later.",
+      "options": [
+        "shows a future time",
+        "shows a reason",
+        "adds another choice",
+        "shows contrast"
+      ],
+      "answer": "shows a future time",
+      "explanation": "\"later\" shows a future time in this sentence: The reading passage says that we will practice later.",
+      "rationales": {
+        "shows a future time": "\"later\" shows a future time in this sentence: The reading passage says that we will practice later.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"later\" in this sentence.",
+        "adds another choice": "\"adds another choice\" is a real text function, but it is not the job of \"later\" in this sentence.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"later\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3738",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"again\" do in this sentence? The office notice says, \"Please read the sentence again.\"",
+      "options": [
+        "shows repetition",
+        "shows a cause",
+        "shows the final step",
+        "shows an example"
+      ],
+      "answer": "shows repetition",
+      "explanation": "\"again\" shows repetition in this sentence: The office notice says, \"Please read the sentence again.\"",
+      "rationales": {
+        "shows repetition": "\"again\" shows repetition in this sentence: The office notice says, \"Please read the sentence again.\"",
+        "shows a cause": "\"shows a cause\" is a real text function, but it is not the job of \"again\" in this sentence.",
+        "shows the final step": "\"shows the final step\" is a real text function, but it is not the job of \"again\" in this sentence.",
+        "shows an example": "\"shows an example\" is a real text function, but it is not the job of \"again\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3739",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"with\" do in this sentence? At the start of the task, the teacher says, \"Bring your book with your notebook.\"",
+      "options": [
+        "adds something together",
+        "shows an opposite idea",
+        "shows a condition",
+        "shows a result"
+      ],
+      "answer": "adds something together",
+      "explanation": "\"with\" adds something together in this sentence: At the start of the task, the teacher says, \"Bring your book with your notebook.\"",
+      "rationales": {
+        "adds something together": "\"with\" adds something together in this sentence: At the start of the task, the teacher says, \"Bring your book with your notebook.\"",
+        "shows an opposite idea": "\"shows an opposite idea\" is a real text function, but it is not the job of \"with\" in this sentence.",
+        "shows a condition": "\"shows a condition\" is a real text function, but it is not the job of \"with\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"with\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a1-3740",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"without\" do in this sentence? On the class website, do not leave without your keys.",
+      "options": [
+        "shows something is not included",
+        "adds a reason",
+        "shows the next step",
+        "gives an example"
+      ],
+      "answer": "shows something is not included",
+      "explanation": "\"without\" shows something is not included in this sentence: On the class website, do not leave without your keys.",
+      "rationales": {
+        "shows something is not included": "\"without\" shows something is not included in this sentence: On the class website, do not leave without your keys.",
+        "adds a reason": "\"adds a reason\" is a real text function, but it is not the job of \"without\" in this sentence.",
+        "shows the next step": "\"shows the next step\" is a real text function, but it is not the job of \"without\" in this sentence.",
+        "gives an example": "\"gives an example\" is a real text function, but it is not the job of \"without\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3741",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"however\" do in this sentence? The class was hard; however, it was useful.",
+      "options": [
+        "shows contrast",
+        "shows a result",
+        "introduces an example",
+        "adds information"
+      ],
+      "answer": "shows contrast",
+      "explanation": "\"however\" shows contrast in this sentence: The class was hard; however, it was useful.",
+      "rationales": {
+        "shows contrast": "\"however\" shows contrast in this sentence: The class was hard; however, it was useful.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"however\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"however\" in this sentence.",
+        "adds information": "\"adds information\" is a real text function, but it is not the job of \"however\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3742",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"therefore\" do in this sentence? In the clinic, the form was late; therefore, it was returned.",
+      "options": [
+        "shows a result",
+        "shows contrast",
+        "introduces an example",
+        "shows a replacement"
+      ],
+      "answer": "shows a result",
+      "explanation": "\"therefore\" shows a result in this sentence: In the clinic, the form was late; therefore, it was returned.",
+      "rationales": {
+        "shows a result": "\"therefore\" shows a result in this sentence: In the clinic, the form was late; therefore, it was returned.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"therefore\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"therefore\" in this sentence.",
+        "shows a replacement": "\"shows a replacement\" is a real text function, but it is not the job of \"therefore\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3743",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"for example\" do in this sentence? In the office, the instruction is, \"Bring ID, for example, a passport.\"",
+      "options": [
+        "introduces an example",
+        "shows contrast",
+        "shows a result",
+        "shows a replacement"
+      ],
+      "answer": "introduces an example",
+      "explanation": "\"for example\" introduces an example in this sentence: In the office, the instruction is, \"Bring ID, for example, a passport.\"",
+      "rationales": {
+        "introduces an example": "\"for example\" introduces an example in this sentence: In the office, the instruction is, \"Bring ID, for example, a passport.\"",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"for example\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"for example\" in this sentence.",
+        "shows a replacement": "\"shows a replacement\" is a real text function, but it is not the job of \"for example\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3744",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"also\" do in this sentence? The example says that the course is cheap and also practical.",
+      "options": [
+        "adds information",
+        "shows a result",
+        "shows contrast",
+        "shows a replacement"
+      ],
+      "answer": "adds information",
+      "explanation": "\"also\" adds information in this sentence: The example says that the course is cheap and also practical.",
+      "rationales": {
+        "adds information": "\"also\" adds information in this sentence: The example says that the course is cheap and also practical.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"also\" in this sentence.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"also\" in this sentence.",
+        "shows a replacement": "\"shows a replacement\" is a real text function, but it is not the job of \"also\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3745",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"instead\" do in this sentence? On the worksheet, the room was full, so we met outside instead.",
+      "options": [
+        "shows a replacement",
+        "adds information",
+        "shows a result",
+        "introduces an example"
+      ],
+      "answer": "shows a replacement",
+      "explanation": "\"instead\" shows a replacement in this sentence: On the worksheet, the room was full, so we met outside instead.",
+      "rationales": {
+        "shows a replacement": "\"instead\" shows a replacement in this sentence: On the worksheet, the room was full, so we met outside instead.",
+        "adds information": "\"adds information\" is a real text function, but it is not the job of \"instead\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"instead\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"instead\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3746",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"although\" do in this sentence? The teacher's example is this: Although the room was small, it was comfortable.",
+      "options": [
+        "shows contrast",
+        "shows a result",
+        "introduces an example",
+        "shows a replacement"
+      ],
+      "answer": "shows contrast",
+      "explanation": "\"although\" shows contrast in this sentence: The teacher's example is this: Although the room was small, it was comfortable.",
+      "rationales": {
+        "shows contrast": "\"although\" shows contrast in this sentence: The teacher's example is this: Although the room was small, it was comfortable.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"although\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"although\" in this sentence.",
+        "shows a replacement": "\"shows a replacement\" is a real text function, but it is not the job of \"although\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3747",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"because\" do in this sentence? In a short message, the office called because the form was missing.",
+      "options": [
+        "shows a reason",
+        "shows contrast",
+        "introduces an example",
+        "adds information"
+      ],
+      "answer": "shows a reason",
+      "explanation": "\"because\" shows a reason in this sentence: In a short message, the office called because the form was missing.",
+      "rationales": {
+        "shows a reason": "\"because\" shows a reason in this sentence: In a short message, the office called because the form was missing.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"because\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"because\" in this sentence.",
+        "adds information": "\"adds information\" is a real text function, but it is not the job of \"because\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3748",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"before\" do in this sentence? On the checklist, it says, \"Read the guide before you sign.\"",
+      "options": [
+        "shows earlier time",
+        "shows a result",
+        "shows contrast",
+        "gives a replacement"
+      ],
+      "answer": "shows earlier time",
+      "explanation": "\"before\" shows earlier time in this sentence: On the checklist, it says, \"Read the guide before you sign.\"",
+      "rationales": {
+        "shows earlier time": "\"before\" shows earlier time in this sentence: On the checklist, it says, \"Read the guide before you sign.\"",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"before\" in this sentence.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"before\" in this sentence.",
+        "gives a replacement": "\"gives a replacement\" is a real text function, but it is not the job of \"before\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3749",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"after\" do in this sentence? At the reception desk, the class met after the rain stopped.",
+      "options": [
+        "shows later time",
+        "introduces an example",
+        "shows a choice",
+        "shows contrast"
+      ],
+      "answer": "shows later time",
+      "explanation": "\"after\" shows later time in this sentence: At the reception desk, the class met after the rain stopped.",
+      "rationales": {
+        "shows later time": "\"after\" shows later time in this sentence: At the reception desk, the class met after the rain stopped.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"after\" in this sentence.",
+        "shows a choice": "\"shows a choice\" is a real text function, but it is not the job of \"after\" in this sentence.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"after\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3750",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"when\" do in this sentence? At the reception desk, the clerk says, \"Call the desk when you arrive.\"",
+      "options": [
+        "shows the time of an action",
+        "shows a result",
+        "adds an opposite idea",
+        "gives an example"
+      ],
+      "answer": "shows the time of an action",
+      "explanation": "\"when\" shows the time of an action in this sentence: At the reception desk, the clerk says, \"Call the desk when you arrive.\"",
+      "rationales": {
+        "shows the time of an action": "\"when\" shows the time of an action in this sentence: At the reception desk, the clerk says, \"Call the desk when you arrive.\"",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"when\" in this sentence.",
+        "adds an opposite idea": "\"adds an opposite idea\" is a real text function, but it is not the job of \"when\" in this sentence.",
+        "gives an example": "\"gives an example\" is a real text function, but it is not the job of \"when\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3751",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"if\" do in this sentence? In the practice text, if the room is closed, we will meet online.",
+      "options": [
+        "shows a condition",
+        "adds information",
+        "shows a past time",
+        "introduces an example"
+      ],
+      "answer": "shows a condition",
+      "explanation": "\"if\" shows a condition in this sentence: In the practice text, if the room is closed, we will meet online.",
+      "rationales": {
+        "shows a condition": "\"if\" shows a condition in this sentence: In the practice text, if the room is closed, we will meet online.",
+        "adds information": "\"adds information\" is a real text function, but it is not the job of \"if\" in this sentence.",
+        "shows a past time": "\"shows a past time\" is a real text function, but it is not the job of \"if\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"if\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3752",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"so that\" do in this sentence? During the lesson, speak slowly so that everyone can follow.",
+      "options": [
+        "shows purpose",
+        "shows contrast",
+        "shows a replacement",
+        "adds an example"
+      ],
+      "answer": "shows purpose",
+      "explanation": "\"so that\" shows purpose in this sentence: During the lesson, speak slowly so that everyone can follow.",
+      "rationales": {
+        "shows purpose": "\"so that\" shows purpose in this sentence: During the lesson, speak slowly so that everyone can follow.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"so that\" in this sentence.",
+        "shows a replacement": "\"shows a replacement\" is a real text function, but it is not the job of \"so that\" in this sentence.",
+        "adds an example": "\"adds an example\" is a real text function, but it is not the job of \"so that\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3753",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"then\" do in this sentence? The first example says that pay the fee, then collect your card.",
+      "options": [
+        "shows the next step",
+        "shows a reason",
+        "shows contrast",
+        "introduces an example"
+      ],
+      "answer": "shows the next step",
+      "explanation": "\"then\" shows the next step in this sentence: The first example says that pay the fee, then collect your card.",
+      "rationales": {
+        "shows the next step": "\"then\" shows the next step in this sentence: The first example says that pay the fee, then collect your card.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"then\" in this sentence.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"then\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"then\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3754",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"for instance\" do in this sentence? The short message says, \"Bring ID, for instance, a passport.\"",
+      "options": [
+        "introduces an example",
+        "shows a result",
+        "shows a replacement",
+        "adds contrast"
+      ],
+      "answer": "introduces an example",
+      "explanation": "\"for instance\" introduces an example in this sentence: The short message says, \"Bring ID, for instance, a passport.\"",
+      "rationales": {
+        "introduces an example": "\"for instance\" introduces an example in this sentence: The short message says, \"Bring ID, for instance, a passport.\"",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"for instance\" in this sentence.",
+        "shows a replacement": "\"shows a replacement\" is a real text function, but it is not the job of \"for instance\" in this sentence.",
+        "adds contrast": "\"adds contrast\" is a real text function, but it is not the job of \"for instance\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3755",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"besides\" do in this sentence? The guide gives this sentence: The app is free; besides, it is easy to use.",
+      "options": [
+        "adds another point",
+        "shows a reason",
+        "shows a condition",
+        "shows a replacement"
+      ],
+      "answer": "adds another point",
+      "explanation": "\"besides\" adds another point in this sentence: The guide gives this sentence: The app is free; besides, it is easy to use.",
+      "rationales": {
+        "adds another point": "\"besides\" adds another point in this sentence: The guide gives this sentence: The app is free; besides, it is easy to use.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"besides\" in this sentence.",
+        "shows a condition": "\"shows a condition\" is a real text function, but it is not the job of \"besides\" in this sentence.",
+        "shows a replacement": "\"shows a replacement\" is a real text function, but it is not the job of \"besides\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3756",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"later\" do in this sentence? In the office email, the results will be posted later.",
+      "options": [
+        "shows a later time",
+        "adds contrast",
+        "shows cause",
+        "introduces an example"
+      ],
+      "answer": "shows a later time",
+      "explanation": "\"later\" shows a later time in this sentence: In the office email, the results will be posted later.",
+      "rationales": {
+        "shows a later time": "\"later\" shows a later time in this sentence: In the office email, the results will be posted later.",
+        "adds contrast": "\"adds contrast\" is a real text function, but it is not the job of \"later\" in this sentence.",
+        "shows cause": "\"shows cause\" is a real text function, but it is not the job of \"later\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"later\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3757",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"finally\" do in this sentence? The reading passage says that finally, press Submit.",
+      "options": [
+        "introduces the last step",
+        "shows contrast",
+        "shows cause",
+        "adds a choice"
+      ],
+      "answer": "introduces the last step",
+      "explanation": "\"finally\" introduces the last step in this sentence: The reading passage says that finally, press Submit.",
+      "rationales": {
+        "introduces the last step": "\"finally\" introduces the last step in this sentence: The reading passage says that finally, press Submit.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"finally\" in this sentence.",
+        "shows cause": "\"shows cause\" is a real text function, but it is not the job of \"finally\" in this sentence.",
+        "adds a choice": "\"adds a choice\" is a real text function, but it is not the job of \"finally\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3758",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"while\" do in this sentence? The office notice says, \"Read the notice while you wait.\"",
+      "options": [
+        "shows two actions at the same time",
+        "shows a result",
+        "introduces an example",
+        "shows a replacement"
+      ],
+      "answer": "shows two actions at the same time",
+      "explanation": "\"while\" shows two actions at the same time in this sentence: The office notice says, \"Read the notice while you wait.\"",
+      "rationales": {
+        "shows two actions at the same time": "\"while\" shows two actions at the same time in this sentence: The office notice says, \"Read the notice while you wait.\"",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"while\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"while\" in this sentence.",
+        "shows a replacement": "\"shows a replacement\" is a real text function, but it is not the job of \"while\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3759",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"unless\" do in this sentence? The second example says that unless the office calls, the appointment is confirmed.",
+      "options": [
+        "means if not",
+        "shows a reason",
+        "introduces an example",
+        "adds information"
+      ],
+      "answer": "means if not",
+      "explanation": "\"unless\" means if not in this sentence: The second example says that unless the office calls, the appointment is confirmed.",
+      "rationales": {
+        "means if not": "\"unless\" means if not in this sentence: The second example says that unless the office calls, the appointment is confirmed.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"unless\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"unless\" in this sentence.",
+        "adds information": "\"adds information\" is a real text function, but it is not the job of \"unless\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-a2-3760",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"as well\" do in this sentence? On the class website, the course teaches writing as well.",
+      "options": [
+        "adds the same kind of point",
+        "shows contrast",
+        "shows purpose",
+        "shows a result"
+      ],
+      "answer": "adds the same kind of point",
+      "explanation": "\"as well\" adds the same kind of point in this sentence: On the class website, the course teaches writing as well.",
+      "rationales": {
+        "adds the same kind of point": "\"as well\" adds the same kind of point in this sentence: On the class website, the course teaches writing as well.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"as well\" in this sentence.",
+        "shows purpose": "\"shows purpose\" is a real text function, but it is not the job of \"as well\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"as well\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3761",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"although\" do in this sentence? Although it rained, the class continued.",
+      "options": [
+        "shows contrast",
+        "shows a reason",
+        "means if not",
+        "means immediately after"
+      ],
+      "answer": "shows contrast",
+      "explanation": "\"although\" shows contrast in this sentence: Although it rained, the class continued.",
+      "rationales": {
+        "shows contrast": "\"although\" shows contrast in this sentence: Although it rained, the class continued.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"although\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"although\" in this sentence.",
+        "means immediately after": "\"means immediately after\" is a real text function, but it is not the job of \"although\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3762",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"unless\" do in this sentence? In the clinic, unless the office calls, the meeting is on.",
+      "options": [
+        "means if not",
+        "shows a reason",
+        "shows contrast",
+        "means immediately after"
+      ],
+      "answer": "means if not",
+      "explanation": "\"unless\" means if not in this sentence: In the clinic, unless the office calls, the meeting is on.",
+      "rationales": {
+        "means if not": "\"unless\" means if not in this sentence: In the clinic, unless the office calls, the meeting is on.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"unless\" in this sentence.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"unless\" in this sentence.",
+        "means immediately after": "\"means immediately after\" is a real text function, but it is not the job of \"unless\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3763",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"while\" do in this sentence? During the discussion, while Aiko checked the file, Mateo answered questions.",
+      "options": [
+        "shows two actions happening at the same time",
+        "shows a reason",
+        "means if not",
+        "shows a result"
+      ],
+      "answer": "shows two actions happening at the same time",
+      "explanation": "\"while\" shows two actions happening at the same time in this sentence: During the discussion, while Aiko checked the file, Mateo answered questions.",
+      "rationales": {
+        "shows two actions happening at the same time": "\"while\" shows two actions happening at the same time in this sentence: During the discussion, while Aiko checked the file, Mateo answered questions.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"while\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"while\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"while\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3764",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"since\" do in this sentence? The example says that since the form was missing, the office called.",
+      "options": [
+        "shows a reason",
+        "shows contrast",
+        "means if not",
+        "means immediately after"
+      ],
+      "answer": "shows a reason",
+      "explanation": "\"since\" shows a reason in this sentence: The example says that since the form was missing, the office called.",
+      "rationales": {
+        "shows a reason": "\"since\" shows a reason in this sentence: The example says that since the form was missing, the office called.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"since\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"since\" in this sentence.",
+        "means immediately after": "\"means immediately after\" is a real text function, but it is not the job of \"since\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3765",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"as soon as\" do in this sentence? A sign by the door says, \"Call me as soon as the file arrives.\"",
+      "options": [
+        "means immediately after",
+        "shows a reason",
+        "means if not",
+        "shows contrast"
+      ],
+      "answer": "means immediately after",
+      "explanation": "\"as soon as\" means immediately after in this sentence: A sign by the door says, \"Call me as soon as the file arrives.\"",
+      "rationales": {
+        "means immediately after": "\"as soon as\" means immediately after in this sentence: A sign by the door says, \"Call me as soon as the file arrives.\"",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"as soon as\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"as soon as\" in this sentence.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"as soon as\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3766",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"even though\" do in this sentence? The teacher's example is this: Even though the task was hard, the group finished it.",
+      "options": [
+        "shows contrast",
+        "shows a reason",
+        "means if not",
+        "shows a result"
+      ],
+      "answer": "shows contrast",
+      "explanation": "\"even though\" shows contrast in this sentence: The teacher's example is this: Even though the task was hard, the group finished it.",
+      "rationales": {
+        "shows contrast": "\"even though\" shows contrast in this sentence: The teacher's example is this: Even though the task was hard, the group finished it.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"even though\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"even though\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"even though\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3767",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"because of\" do in this sentence? In a short message, because of the delay, the meeting started late.",
+      "options": [
+        "introduces a cause as a noun phrase",
+        "shows contrast",
+        "means immediately after",
+        "adds an example"
+      ],
+      "answer": "introduces a cause as a noun phrase",
+      "explanation": "\"because of\" introduces a cause as a noun phrase in this sentence: In a short message, because of the delay, the meeting started late.",
+      "rationales": {
+        "introduces a cause as a noun phrase": "\"because of\" introduces a cause as a noun phrase in this sentence: In a short message, because of the delay, the meeting started late.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"because of\" in this sentence.",
+        "means immediately after": "\"means immediately after\" is a real text function, but it is not the job of \"because of\" in this sentence.",
+        "adds an example": "\"adds an example\" is a real text function, but it is not the job of \"because of\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3768",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"due to\" do in this sentence? The report gives this example: The cancellation was due to heavy rain.",
+      "options": [
+        "means caused by",
+        "adds a choice",
+        "shows a contrast",
+        "means before"
+      ],
+      "answer": "means caused by",
+      "explanation": "\"due to\" means caused by in this sentence: The report gives this example: The cancellation was due to heavy rain.",
+      "rationales": {
+        "means caused by": "\"due to\" means caused by in this sentence: The report gives this example: The cancellation was due to heavy rain.",
+        "adds a choice": "\"adds a choice\" is a real text function, but it is not the job of \"due to\" in this sentence.",
+        "shows a contrast": "\"shows a contrast\" is a real text function, but it is not the job of \"due to\" in this sentence.",
+        "means before": "\"means before\" is a real text function, but it is not the job of \"due to\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3769",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"as\" do in this sentence? At the reception desk, as the office was closed, we waited outside.",
+      "options": [
+        "shows a reason",
+        "means if not",
+        "adds a contrast",
+        "gives a final step"
+      ],
+      "answer": "shows a reason",
+      "explanation": "\"as\" shows a reason in this sentence: At the reception desk, as the office was closed, we waited outside.",
+      "rationales": {
+        "shows a reason": "\"as\" shows a reason in this sentence: At the reception desk, as the office was closed, we waited outside.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"as\" in this sentence.",
+        "adds a contrast": "\"adds a contrast\" is a real text function, but it is not the job of \"as\" in this sentence.",
+        "gives a final step": "\"gives a final step\" is a real text function, but it is not the job of \"as\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3770",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"once\" do in this sentence? The class note says that once the file arrives, we can begin.",
+      "options": [
+        "means after something happens",
+        "shows a reason",
+        "shows contrast",
+        "adds another point"
+      ],
+      "answer": "means after something happens",
+      "explanation": "\"once\" means after something happens in this sentence: The class note says that once the file arrives, we can begin.",
+      "rationales": {
+        "means after something happens": "\"once\" means after something happens in this sentence: The class note says that once the file arrives, we can begin.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"once\" in this sentence.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"once\" in this sentence.",
+        "adds another point": "\"adds another point\" is a real text function, but it is not the job of \"once\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3771",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"until\" do in this sentence? In the practice text, wait until the clerk returns.",
+      "options": [
+        "shows the ending point of a time",
+        "shows a reason",
+        "shows contrast",
+        "gives an example"
+      ],
+      "answer": "shows the ending point of a time",
+      "explanation": "\"until\" shows the ending point of a time in this sentence: In the practice text, wait until the clerk returns.",
+      "rationales": {
+        "shows the ending point of a time": "\"until\" shows the ending point of a time in this sentence: In the practice text, wait until the clerk returns.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"until\" in this sentence.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"until\" in this sentence.",
+        "gives an example": "\"gives an example\" is a real text function, but it is not the job of \"until\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3772",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"as long as\" do in this sentence? During the lesson, you can join as long as you register today.",
+      "options": [
+        "means only if",
+        "shows an example",
+        "adds an opposite idea",
+        "shows a result"
+      ],
+      "answer": "means only if",
+      "explanation": "\"as long as\" means only if in this sentence: During the lesson, you can join as long as you register today.",
+      "rationales": {
+        "means only if": "\"as long as\" means only if in this sentence: During the lesson, you can join as long as you register today.",
+        "shows an example": "\"shows an example\" is a real text function, but it is not the job of \"as long as\" in this sentence.",
+        "adds an opposite idea": "\"adds an opposite idea\" is a real text function, but it is not the job of \"as long as\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"as long as\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3773",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"in addition\" do in this sentence? The first example says that the fee is low; in addition, books are free.",
+      "options": [
+        "adds another point",
+        "shows a reason",
+        "shows a condition",
+        "introduces a contrast"
+      ],
+      "answer": "adds another point",
+      "explanation": "\"in addition\" adds another point in this sentence: The first example says that the fee is low; in addition, books are free.",
+      "rationales": {
+        "adds another point": "\"in addition\" adds another point in this sentence: The first example says that the fee is low; in addition, books are free.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"in addition\" in this sentence.",
+        "shows a condition": "\"shows a condition\" is a real text function, but it is not the job of \"in addition\" in this sentence.",
+        "introduces a contrast": "\"introduces a contrast\" is a real text function, but it is not the job of \"in addition\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3774",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"in fact\" do in this sentence? On the notice board, the class was useful; in fact, every student passed.",
+      "options": [
+        "adds stronger or clearer information",
+        "shows a choice",
+        "means if not",
+        "shows time order"
+      ],
+      "answer": "adds stronger or clearer information",
+      "explanation": "\"in fact\" adds stronger or clearer information in this sentence: On the notice board, the class was useful; in fact, every student passed.",
+      "rationales": {
+        "adds stronger or clearer information": "\"in fact\" adds stronger or clearer information in this sentence: On the notice board, the class was useful; in fact, every student passed.",
+        "shows a choice": "\"shows a choice\" is a real text function, but it is not the job of \"in fact\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"in fact\" in this sentence.",
+        "shows time order": "\"shows time order\" is a real text function, but it is not the job of \"in fact\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3775",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"for instance\" do in this sentence? The guide gives this sentence: Several documents are accepted; for instance, a passport is fine.",
+      "options": [
+        "introduces an example",
+        "shows contrast",
+        "means if not",
+        "shows a result"
+      ],
+      "answer": "introduces an example",
+      "explanation": "\"for instance\" introduces an example in this sentence: The guide gives this sentence: Several documents are accepted; for instance, a passport is fine.",
+      "rationales": {
+        "introduces an example": "\"for instance\" introduces an example in this sentence: The guide gives this sentence: Several documents are accepted; for instance, a passport is fine.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"for instance\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"for instance\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"for instance\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3776",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"on the other hand\" do in this sentence? In the office email, the online class is convenient; on the other hand, it has fewer speaking tasks.",
+      "options": [
+        "introduces a different side",
+        "shows a cause",
+        "means immediately after",
+        "adds an example"
+      ],
+      "answer": "introduces a different side",
+      "explanation": "\"on the other hand\" introduces a different side in this sentence: In the office email, the online class is convenient; on the other hand, it has fewer speaking tasks.",
+      "rationales": {
+        "introduces a different side": "\"on the other hand\" introduces a different side in this sentence: In the office email, the online class is convenient; on the other hand, it has fewer speaking tasks.",
+        "shows a cause": "\"shows a cause\" is a real text function, but it is not the job of \"on the other hand\" in this sentence.",
+        "means immediately after": "\"means immediately after\" is a real text function, but it is not the job of \"on the other hand\" in this sentence.",
+        "adds an example": "\"adds an example\" is a real text function, but it is not the job of \"on the other hand\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3777",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"therefore\" do in this sentence? The reading passage says that the office was closed; therefore, the forms arrived late.",
+      "options": [
+        "shows a result",
+        "shows contrast",
+        "means if not",
+        "introduces an example"
+      ],
+      "answer": "shows a result",
+      "explanation": "\"therefore\" shows a result in this sentence: The reading passage says that the office was closed; therefore, the forms arrived late.",
+      "rationales": {
+        "shows a result": "\"therefore\" shows a result in this sentence: The reading passage says that the office was closed; therefore, the forms arrived late.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"therefore\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"therefore\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"therefore\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3778",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"as a result\" do in this sentence? At the start of the activity, the instructions were clearer; as a result, errors fell.",
+      "options": [
+        "shows an effect",
+        "shows a contrast",
+        "means while",
+        "adds a choice"
+      ],
+      "answer": "shows an effect",
+      "explanation": "\"as a result\" shows an effect in this sentence: At the start of the activity, the instructions were clearer; as a result, errors fell.",
+      "rationales": {
+        "shows an effect": "\"as a result\" shows an effect in this sentence: At the start of the activity, the instructions were clearer; as a result, errors fell.",
+        "shows a contrast": "\"shows a contrast\" is a real text function, but it is not the job of \"as a result\" in this sentence.",
+        "means while": "\"means while\" is a real text function, but it is not the job of \"as a result\" in this sentence.",
+        "adds a choice": "\"adds a choice\" is a real text function, but it is not the job of \"as a result\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3779",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"in order to\" do in this sentence? The second example says that the guide was rewritten in order to reduce mistakes.",
+      "options": [
+        "shows purpose",
+        "shows a result",
+        "shows an exception",
+        "adds an example"
+      ],
+      "answer": "shows purpose",
+      "explanation": "\"in order to\" shows purpose in this sentence: The second example says that the guide was rewritten in order to reduce mistakes.",
+      "rationales": {
+        "shows purpose": "\"in order to\" shows purpose in this sentence: The second example says that the guide was rewritten in order to reduce mistakes.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"in order to\" in this sentence.",
+        "shows an exception": "\"shows an exception\" is a real text function, but it is not the job of \"in order to\" in this sentence.",
+        "adds an example": "\"adds an example\" is a real text function, but it is not the job of \"in order to\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b1-3780",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"after all\" do in this sentence? On the class website, we should wait; after all, the train is only five minutes late.",
+      "options": [
+        "adds a reason already known",
+        "shows time order only",
+        "means if not",
+        "introduces a definition"
+      ],
+      "answer": "adds a reason already known",
+      "explanation": "\"after all\" adds a reason already known in this sentence: On the class website, we should wait; after all, the train is only five minutes late.",
+      "rationales": {
+        "adds a reason already known": "\"after all\" adds a reason already known in this sentence: On the class website, we should wait; after all, the train is only five minutes late.",
+        "shows time order only": "\"shows time order only\" is a real text function, but it is not the job of \"after all\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"after all\" in this sentence.",
+        "introduces a definition": "\"introduces a definition\" is a real text function, but it is not the job of \"after all\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3781",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"nevertheless\" do in this sentence? The sample was small; nevertheless, the result was useful.",
+      "options": [
+        "shows contrast despite what came before",
+        "shows an effect",
+        "shows another action at the same time",
+        "means if not"
+      ],
+      "answer": "shows contrast despite what came before",
+      "explanation": "\"nevertheless\" shows contrast despite what came before in this sentence: The sample was small; nevertheless, the result was useful.",
+      "rationales": {
+        "shows contrast despite what came before": "\"nevertheless\" shows contrast despite what came before in this sentence: The sample was small; nevertheless, the result was useful.",
+        "shows an effect": "\"shows an effect\" is a real text function, but it is not the job of \"nevertheless\" in this sentence.",
+        "shows another action at the same time": "\"shows another action at the same time\" is a real text function, but it is not the job of \"nevertheless\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"nevertheless\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3782",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"in contrast\" do in this sentence? In the clinic, costs fell; in contrast, delays increased.",
+      "options": [
+        "shows a difference",
+        "shows an effect",
+        "shows another action at the same time",
+        "means if not"
+      ],
+      "answer": "shows a difference",
+      "explanation": "\"in contrast\" shows a difference in this sentence: In the clinic, costs fell; in contrast, delays increased.",
+      "rationales": {
+        "shows a difference": "\"in contrast\" shows a difference in this sentence: In the clinic, costs fell; in contrast, delays increased.",
+        "shows an effect": "\"shows an effect\" is a real text function, but it is not the job of \"in contrast\" in this sentence.",
+        "shows another action at the same time": "\"shows another action at the same time\" is a real text function, but it is not the job of \"in contrast\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"in contrast\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3783",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"as a result\" do in this sentence? During the discussion, the form was clearer; as a result, errors fell.",
+      "options": [
+        "shows an effect",
+        "shows contrast",
+        "shows a difference",
+        "means if not"
+      ],
+      "answer": "shows an effect",
+      "explanation": "\"as a result\" shows an effect in this sentence: During the discussion, the form was clearer; as a result, errors fell.",
+      "rationales": {
+        "shows an effect": "\"as a result\" shows an effect in this sentence: During the discussion, the form was clearer; as a result, errors fell.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"as a result\" in this sentence.",
+        "shows a difference": "\"shows a difference\" is a real text function, but it is not the job of \"as a result\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"as a result\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3784",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"meanwhile\" do in this sentence? The example says that the team revised the form; meanwhile, the office trained staff.",
+      "options": [
+        "shows another action at the same time",
+        "shows an effect",
+        "shows a difference",
+        "means if not"
+      ],
+      "answer": "shows another action at the same time",
+      "explanation": "\"meanwhile\" shows another action at the same time in this sentence: The example says that the team revised the form; meanwhile, the office trained staff.",
+      "rationales": {
+        "shows another action at the same time": "\"meanwhile\" shows another action at the same time in this sentence: The example says that the team revised the form; meanwhile, the office trained staff.",
+        "shows an effect": "\"shows an effect\" is a real text function, but it is not the job of \"meanwhile\" in this sentence.",
+        "shows a difference": "\"shows a difference\" is a real text function, but it is not the job of \"meanwhile\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"meanwhile\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3785",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"otherwise\" do in this sentence? A sign by the door says, \"Submit the file today; otherwise, it will be late.\"",
+      "options": [
+        "means if not",
+        "shows an effect",
+        "shows a difference",
+        "shows another action at the same time"
+      ],
+      "answer": "means if not",
+      "explanation": "\"otherwise\" means if not in this sentence: A sign by the door says, \"Submit the file today; otherwise, it will be late.\"",
+      "rationales": {
+        "means if not": "\"otherwise\" means if not in this sentence: A sign by the door says, \"Submit the file today; otherwise, it will be late.\"",
+        "shows an effect": "\"shows an effect\" is a real text function, but it is not the job of \"otherwise\" in this sentence.",
+        "shows a difference": "\"shows a difference\" is a real text function, but it is not the job of \"otherwise\" in this sentence.",
+        "shows another action at the same time": "\"shows another action at the same time\" is a real text function, but it is not the job of \"otherwise\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3786",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"by comparison\" do in this sentence? The teacher's example is this: The old system was slow; by comparison, the new one is efficient.",
+      "options": [
+        "compares with another case",
+        "shows an effect",
+        "means if not",
+        "adds a cause"
+      ],
+      "answer": "compares with another case",
+      "explanation": "\"by comparison\" compares with another case in this sentence: The teacher's example is this: The old system was slow; by comparison, the new one is efficient.",
+      "rationales": {
+        "compares with another case": "\"by comparison\" compares with another case in this sentence: The teacher's example is this: The old system was slow; by comparison, the new one is efficient.",
+        "shows an effect": "\"shows an effect\" is a real text function, but it is not the job of \"by comparison\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"by comparison\" in this sentence.",
+        "adds a cause": "\"adds a cause\" is a real text function, but it is not the job of \"by comparison\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3787",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"consequently\" do in this sentence? In a short message, several files were missing; consequently, the review was delayed.",
+      "options": [
+        "shows a result",
+        "shows contrast",
+        "adds an example",
+        "means at the same time"
+      ],
+      "answer": "shows a result",
+      "explanation": "\"consequently\" shows a result in this sentence: In a short message, several files were missing; consequently, the review was delayed.",
+      "rationales": {
+        "shows a result": "\"consequently\" shows a result in this sentence: In a short message, several files were missing; consequently, the review was delayed.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"consequently\" in this sentence.",
+        "adds an example": "\"adds an example\" is a real text function, but it is not the job of \"consequently\" in this sentence.",
+        "means at the same time": "\"means at the same time\" is a real text function, but it is not the job of \"consequently\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3788",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"furthermore\" do in this sentence? The report gives this example: The course is affordable; furthermore, it offers evening classes.",
+      "options": [
+        "adds a related point",
+        "shows an exception",
+        "shows a replacement",
+        "means if not"
+      ],
+      "answer": "adds a related point",
+      "explanation": "\"furthermore\" adds a related point in this sentence: The report gives this example: The course is affordable; furthermore, it offers evening classes.",
+      "rationales": {
+        "adds a related point": "\"furthermore\" adds a related point in this sentence: The report gives this example: The course is affordable; furthermore, it offers evening classes.",
+        "shows an exception": "\"shows an exception\" is a real text function, but it is not the job of \"furthermore\" in this sentence.",
+        "shows a replacement": "\"shows a replacement\" is a real text function, but it is not the job of \"furthermore\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"furthermore\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3789",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"even so\" do in this sentence? At the reception desk, the sample was small; even so, the trend was clear.",
+      "options": [
+        "adds contrast after a difficulty",
+        "shows a cause",
+        "introduces an example",
+        "means before"
+      ],
+      "answer": "adds contrast after a difficulty",
+      "explanation": "\"even so\" adds contrast after a difficulty in this sentence: At the reception desk, the sample was small; even so, the trend was clear.",
+      "rationales": {
+        "adds contrast after a difficulty": "\"even so\" adds contrast after a difficulty in this sentence: At the reception desk, the sample was small; even so, the trend was clear.",
+        "shows a cause": "\"shows a cause\" is a real text function, but it is not the job of \"even so\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"even so\" in this sentence.",
+        "means before": "\"means before\" is a real text function, but it is not the job of \"even so\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3790",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"in particular\" do in this sentence? The class note says that several sections need revision, in particular the conclusion.",
+      "options": [
+        "points to a specific example",
+        "shows a result",
+        "adds contrast",
+        "means if not"
+      ],
+      "answer": "points to a specific example",
+      "explanation": "\"in particular\" points to a specific example in this sentence: The class note says that several sections need revision, in particular the conclusion.",
+      "rationales": {
+        "points to a specific example": "\"in particular\" points to a specific example in this sentence: The class note says that several sections need revision, in particular the conclusion.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"in particular\" in this sentence.",
+        "adds contrast": "\"adds contrast\" is a real text function, but it is not the job of \"in particular\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"in particular\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3791",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"for this reason\" do in this sentence? In the practice text, the rule confused applicants; for this reason, it was rewritten.",
+      "options": [
+        "shows why a result follows",
+        "shows a contrast",
+        "introduces an example",
+        "shows simultaneous action"
+      ],
+      "answer": "shows why a result follows",
+      "explanation": "\"for this reason\" shows why a result follows in this sentence: In the practice text, the rule confused applicants; for this reason, it was rewritten.",
+      "rationales": {
+        "shows why a result follows": "\"for this reason\" shows why a result follows in this sentence: In the practice text, the rule confused applicants; for this reason, it was rewritten.",
+        "shows a contrast": "\"shows a contrast\" is a real text function, but it is not the job of \"for this reason\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"for this reason\" in this sentence.",
+        "shows simultaneous action": "\"shows simultaneous action\" is a real text function, but it is not the job of \"for this reason\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3792",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"similarly\" do in this sentence? During the lesson, the first group improved; similarly, the second group made gains.",
+      "options": [
+        "shows likeness",
+        "shows a cause",
+        "means if not",
+        "shows an opposite result"
+      ],
+      "answer": "shows likeness",
+      "explanation": "\"similarly\" shows likeness in this sentence: During the lesson, the first group improved; similarly, the second group made gains.",
+      "rationales": {
+        "shows likeness": "\"similarly\" shows likeness in this sentence: During the lesson, the first group improved; similarly, the second group made gains.",
+        "shows a cause": "\"shows a cause\" is a real text function, but it is not the job of \"similarly\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"similarly\" in this sentence.",
+        "shows an opposite result": "\"shows an opposite result\" is a real text function, but it is not the job of \"similarly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3793",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"conversely\" do in this sentence? The first example says that higher fees reduced demand; conversely, discounts increased it.",
+      "options": [
+        "introduces the opposite relation",
+        "adds the same point",
+        "shows a cause",
+        "means afterward"
+      ],
+      "answer": "introduces the opposite relation",
+      "explanation": "\"conversely\" introduces the opposite relation in this sentence: The first example says that higher fees reduced demand; conversely, discounts increased it.",
+      "rationales": {
+        "introduces the opposite relation": "\"conversely\" introduces the opposite relation in this sentence: The first example says that higher fees reduced demand; conversely, discounts increased it.",
+        "adds the same point": "\"adds the same point\" is a real text function, but it is not the job of \"conversely\" in this sentence.",
+        "shows a cause": "\"shows a cause\" is a real text function, but it is not the job of \"conversely\" in this sentence.",
+        "means afterward": "\"means afterward\" is a real text function, but it is not the job of \"conversely\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3794",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"despite this\" do in this sentence? On the notice board, the deadline was short; despite this, most applicants finished.",
+      "options": [
+        "shows contrast with the previous idea",
+        "shows a result",
+        "adds an example",
+        "means only if"
+      ],
+      "answer": "shows contrast with the previous idea",
+      "explanation": "\"despite this\" shows contrast with the previous idea in this sentence: On the notice board, the deadline was short; despite this, most applicants finished.",
+      "rationales": {
+        "shows contrast with the previous idea": "\"despite this\" shows contrast with the previous idea in this sentence: On the notice board, the deadline was short; despite this, most applicants finished.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"despite this\" in this sentence.",
+        "adds an example": "\"adds an example\" is a real text function, but it is not the job of \"despite this\" in this sentence.",
+        "means only if": "\"means only if\" is a real text function, but it is not the job of \"despite this\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3795",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"in other words\" do in this sentence? The guide gives this sentence: The plan is optional; in other words, no one has to join.",
+      "options": [
+        "restates the idea",
+        "shows contrast",
+        "adds a new cause",
+        "shows time order"
+      ],
+      "answer": "restates the idea",
+      "explanation": "\"in other words\" restates the idea in this sentence: The guide gives this sentence: The plan is optional; in other words, no one has to join.",
+      "rationales": {
+        "restates the idea": "\"in other words\" restates the idea in this sentence: The guide gives this sentence: The plan is optional; in other words, no one has to join.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"in other words\" in this sentence.",
+        "adds a new cause": "\"adds a new cause\" is a real text function, but it is not the job of \"in other words\" in this sentence.",
+        "shows time order": "\"shows time order\" is a real text function, but it is not the job of \"in other words\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3796",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"namely\" do in this sentence? In the office email, one issue remains, namely the cost of training.",
+      "options": [
+        "identifies exactly what is meant",
+        "shows a result",
+        "adds a contrast",
+        "means if not"
+      ],
+      "answer": "identifies exactly what is meant",
+      "explanation": "\"namely\" identifies exactly what is meant in this sentence: In the office email, one issue remains, namely the cost of training.",
+      "rationales": {
+        "identifies exactly what is meant": "\"namely\" identifies exactly what is meant in this sentence: In the office email, one issue remains, namely the cost of training.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"namely\" in this sentence.",
+        "adds a contrast": "\"adds a contrast\" is a real text function, but it is not the job of \"namely\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"namely\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3797",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"provided that\" do in this sentence? The reading passage says that the course will run provided that ten students register.",
+      "options": [
+        "means only if",
+        "shows a result",
+        "introduces an example",
+        "adds the same idea"
+      ],
+      "answer": "means only if",
+      "explanation": "\"provided that\" means only if in this sentence: The reading passage says that the course will run provided that ten students register.",
+      "rationales": {
+        "means only if": "\"provided that\" means only if in this sentence: The reading passage says that the course will run provided that ten students register.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"provided that\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"provided that\" in this sentence.",
+        "adds the same idea": "\"adds the same idea\" is a real text function, but it is not the job of \"provided that\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3798",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"unless\" do in this sentence? At the start of the activity, the appeal will fail unless the missing signature is added.",
+      "options": [
+        "means if not",
+        "shows a reason",
+        "adds an example",
+        "means at the same time"
+      ],
+      "answer": "means if not",
+      "explanation": "\"unless\" means if not in this sentence: At the start of the activity, the appeal will fail unless the missing signature is added.",
+      "rationales": {
+        "means if not": "\"unless\" means if not in this sentence: At the start of the activity, the appeal will fail unless the missing signature is added.",
+        "shows a reason": "\"shows a reason\" is a real text function, but it is not the job of \"unless\" in this sentence.",
+        "adds an example": "\"adds an example\" is a real text function, but it is not the job of \"unless\" in this sentence.",
+        "means at the same time": "\"means at the same time\" is a real text function, but it is not the job of \"unless\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3799",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"whereas\" do in this sentence? The second example says that the first option saves time, whereas the second saves money.",
+      "options": [
+        "compares two contrasting facts",
+        "shows a result",
+        "means if not",
+        "adds an example"
+      ],
+      "answer": "compares two contrasting facts",
+      "explanation": "\"whereas\" compares two contrasting facts in this sentence: The second example says that the first option saves time, whereas the second saves money.",
+      "rationales": {
+        "compares two contrasting facts": "\"whereas\" compares two contrasting facts in this sentence: The second example says that the first option saves time, whereas the second saves money.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"whereas\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"whereas\" in this sentence.",
+        "adds an example": "\"adds an example\" is a real text function, but it is not the job of \"whereas\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-b2-3800",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"to illustrate\" do in this sentence? On the class website, some errors change meaning; to illustrate, compare these two sentences.",
+      "options": [
+        "introduces an example",
+        "shows a condition",
+        "shows a result",
+        "adds contrast"
+      ],
+      "answer": "introduces an example",
+      "explanation": "\"to illustrate\" introduces an example in this sentence: On the class website, some errors change meaning; to illustrate, compare these two sentences.",
+      "rationales": {
+        "introduces an example": "\"to illustrate\" introduces an example in this sentence: On the class website, some errors change meaning; to illustrate, compare these two sentences.",
+        "shows a condition": "\"shows a condition\" is a real text function, but it is not the job of \"to illustrate\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"to illustrate\" in this sentence.",
+        "adds contrast": "\"adds contrast\" is a real text function, but it is not the job of \"to illustrate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3801",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"whereas\" do in this sentence? The first plan saves money, whereas the second saves time.",
+      "options": [
+        "compares two different facts",
+        "means only if",
+        "shows a result",
+        "adds a concession"
+      ],
+      "answer": "compares two different facts",
+      "explanation": "\"whereas\" compares two different facts in this sentence: The first plan saves money, whereas the second saves time.",
+      "rationales": {
+        "compares two different facts": "\"whereas\" compares two different facts in this sentence: The first plan saves money, whereas the second saves time.",
+        "means only if": "\"means only if\" is a real text function, but it is not the job of \"whereas\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"whereas\" in this sentence.",
+        "adds a concession": "\"adds a concession\" is a real text function, but it is not the job of \"whereas\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3802",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"provided that\" do in this sentence? In the clinic, the trip will continue provided that the weather improves.",
+      "options": [
+        "means only if",
+        "compares two different facts",
+        "shows a result",
+        "adds a concession"
+      ],
+      "answer": "means only if",
+      "explanation": "\"provided that\" means only if in this sentence: In the clinic, the trip will continue provided that the weather improves.",
+      "rationales": {
+        "means only if": "\"provided that\" means only if in this sentence: In the clinic, the trip will continue provided that the weather improves.",
+        "compares two different facts": "\"compares two different facts\" is a real text function, but it is not the job of \"provided that\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"provided that\" in this sentence.",
+        "adds a concession": "\"adds a concession\" is a real text function, but it is not the job of \"provided that\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3803",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"consequently\" do in this sentence? During the discussion, demand increased; consequently, prices rose.",
+      "options": [
+        "shows a result",
+        "compares two different facts",
+        "means only if",
+        "adds a concession"
+      ],
+      "answer": "shows a result",
+      "explanation": "\"consequently\" shows a result in this sentence: During the discussion, demand increased; consequently, prices rose.",
+      "rationales": {
+        "shows a result": "\"consequently\" shows a result in this sentence: During the discussion, demand increased; consequently, prices rose.",
+        "compares two different facts": "\"compares two different facts\" is a real text function, but it is not the job of \"consequently\" in this sentence.",
+        "means only if": "\"means only if\" is a real text function, but it is not the job of \"consequently\" in this sentence.",
+        "adds a concession": "\"adds a concession\" is a real text function, but it is not the job of \"consequently\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3804",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"nonetheless\" do in this sentence? The example says that the evidence is limited; nonetheless, it is useful.",
+      "options": [
+        "adds a concession",
+        "means only if",
+        "shows a result",
+        "compares two different facts"
+      ],
+      "answer": "adds a concession",
+      "explanation": "\"nonetheless\" adds a concession in this sentence: The example says that the evidence is limited; nonetheless, it is useful.",
+      "rationales": {
+        "adds a concession": "\"nonetheless\" adds a concession in this sentence: The example says that the evidence is limited; nonetheless, it is useful.",
+        "means only if": "\"means only if\" is a real text function, but it is not the job of \"nonetheless\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"nonetheless\" in this sentence.",
+        "compares two different facts": "\"compares two different facts\" is a real text function, but it is not the job of \"nonetheless\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3805",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"by contrast\" do in this sentence? On the worksheet, the old form was long; by contrast, the new one is brief.",
+      "options": [
+        "introduces a clear difference",
+        "means only if",
+        "shows a result",
+        "adds a concession"
+      ],
+      "answer": "introduces a clear difference",
+      "explanation": "\"by contrast\" introduces a clear difference in this sentence: On the worksheet, the old form was long; by contrast, the new one is brief.",
+      "rationales": {
+        "introduces a clear difference": "\"by contrast\" introduces a clear difference in this sentence: On the worksheet, the old form was long; by contrast, the new one is brief.",
+        "means only if": "\"means only if\" is a real text function, but it is not the job of \"by contrast\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"by contrast\" in this sentence.",
+        "adds a concession": "\"adds a concession\" is a real text function, but it is not the job of \"by contrast\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3806",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"assuming that\" do in this sentence? The teacher's example is this: Assuming that the records are complete, the result is defensible.",
+      "options": [
+        "sets a condition as a starting point",
+        "adds a concession",
+        "shows a result",
+        "introduces an example"
+      ],
+      "answer": "sets a condition as a starting point",
+      "explanation": "\"assuming that\" sets a condition as a starting point in this sentence: The teacher's example is this: Assuming that the records are complete, the result is defensible.",
+      "rationales": {
+        "sets a condition as a starting point": "\"assuming that\" sets a condition as a starting point in this sentence: The teacher's example is this: Assuming that the records are complete, the result is defensible.",
+        "adds a concession": "\"adds a concession\" is a real text function, but it is not the job of \"assuming that\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"assuming that\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"assuming that\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3807",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"given that\" do in this sentence? In a short message, given that the sample is small, the claim should be cautious.",
+      "options": [
+        "introduces a reason already accepted",
+        "means only if",
+        "adds a contrast",
+        "shows sequence"
+      ],
+      "answer": "introduces a reason already accepted",
+      "explanation": "\"given that\" introduces a reason already accepted in this sentence: In a short message, given that the sample is small, the claim should be cautious.",
+      "rationales": {
+        "introduces a reason already accepted": "\"given that\" introduces a reason already accepted in this sentence: In a short message, given that the sample is small, the claim should be cautious.",
+        "means only if": "\"means only if\" is a real text function, but it is not the job of \"given that\" in this sentence.",
+        "adds a contrast": "\"adds a contrast\" is a real text function, but it is not the job of \"given that\" in this sentence.",
+        "shows sequence": "\"shows sequence\" is a real text function, but it is not the job of \"given that\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3808",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"accordingly\" do in this sentence? The report gives this example: The figures were revised; accordingly, the conclusion changed.",
+      "options": [
+        "shows a result based on what came before",
+        "adds a concession",
+        "compares two facts",
+        "introduces an example"
+      ],
+      "answer": "shows a result based on what came before",
+      "explanation": "\"accordingly\" shows a result based on what came before in this sentence: The report gives this example: The figures were revised; accordingly, the conclusion changed.",
+      "rationales": {
+        "shows a result based on what came before": "\"accordingly\" shows a result based on what came before in this sentence: The report gives this example: The figures were revised; accordingly, the conclusion changed.",
+        "adds a concession": "\"adds a concession\" is a real text function, but it is not the job of \"accordingly\" in this sentence.",
+        "compares two facts": "\"compares two facts\" is a real text function, but it is not the job of \"accordingly\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"accordingly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3809",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"even so\" do in this sentence? At the reception desk, the response rate was low; even so, the comments were useful.",
+      "options": [
+        "keeps a point despite a limitation",
+        "means only if",
+        "shows a cause",
+        "defines a term"
+      ],
+      "answer": "keeps a point despite a limitation",
+      "explanation": "\"even so\" keeps a point despite a limitation in this sentence: At the reception desk, the response rate was low; even so, the comments were useful.",
+      "rationales": {
+        "keeps a point despite a limitation": "\"even so\" keeps a point despite a limitation in this sentence: At the reception desk, the response rate was low; even so, the comments were useful.",
+        "means only if": "\"means only if\" is a real text function, but it is not the job of \"even so\" in this sentence.",
+        "shows a cause": "\"shows a cause\" is a real text function, but it is not the job of \"even so\" in this sentence.",
+        "defines a term": "\"defines a term\" is a real text function, but it is not the job of \"even so\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3810",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"conversely\" do in this sentence? The class note says that extra guidance reduced errors; conversely, vague instructions increased them.",
+      "options": [
+        "presents the reverse relation",
+        "adds a reason",
+        "means after that",
+        "introduces an example"
+      ],
+      "answer": "presents the reverse relation",
+      "explanation": "\"conversely\" presents the reverse relation in this sentence: The class note says that extra guidance reduced errors; conversely, vague instructions increased them.",
+      "rationales": {
+        "presents the reverse relation": "\"conversely\" presents the reverse relation in this sentence: The class note says that extra guidance reduced errors; conversely, vague instructions increased them.",
+        "adds a reason": "\"adds a reason\" is a real text function, but it is not the job of \"conversely\" in this sentence.",
+        "means after that": "\"means after that\" is a real text function, but it is not the job of \"conversely\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"conversely\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3811",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"moreover\" do in this sentence? In the practice text, the method is transparent; moreover, it is easy to replicate.",
+      "options": [
+        "adds a supporting point",
+        "sets a condition",
+        "shows contrast",
+        "means if not"
+      ],
+      "answer": "adds a supporting point",
+      "explanation": "\"moreover\" adds a supporting point in this sentence: In the practice text, the method is transparent; moreover, it is easy to replicate.",
+      "rationales": {
+        "adds a supporting point": "\"moreover\" adds a supporting point in this sentence: In the practice text, the method is transparent; moreover, it is easy to replicate.",
+        "sets a condition": "\"sets a condition\" is a real text function, but it is not the job of \"moreover\" in this sentence.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"moreover\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"moreover\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3812",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"thereafter\" do in this sentence? During the lesson, the policy was revised in March; thereafter, complaints declined.",
+      "options": [
+        "means after that point",
+        "shows contrast",
+        "adds a cause",
+        "means only if"
+      ],
+      "answer": "means after that point",
+      "explanation": "\"thereafter\" means after that point in this sentence: During the lesson, the policy was revised in March; thereafter, complaints declined.",
+      "rationales": {
+        "means after that point": "\"thereafter\" means after that point in this sentence: During the lesson, the policy was revised in March; thereafter, complaints declined.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"thereafter\" in this sentence.",
+        "adds a cause": "\"adds a cause\" is a real text function, but it is not the job of \"thereafter\" in this sentence.",
+        "means only if": "\"means only if\" is a real text function, but it is not the job of \"thereafter\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3813",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"to that end\" do in this sentence? The first example says that the office wanted fewer errors; to that end, it rewrote the form.",
+      "options": [
+        "introduces the intended means",
+        "shows contrast",
+        "adds a concession",
+        "means before"
+      ],
+      "answer": "introduces the intended means",
+      "explanation": "\"to that end\" introduces the intended means in this sentence: The first example says that the office wanted fewer errors; to that end, it rewrote the form.",
+      "rationales": {
+        "introduces the intended means": "\"to that end\" introduces the intended means in this sentence: The first example says that the office wanted fewer errors; to that end, it rewrote the form.",
+        "shows contrast": "\"shows contrast\" is a real text function, but it is not the job of \"to that end\" in this sentence.",
+        "adds a concession": "\"adds a concession\" is a real text function, but it is not the job of \"to that end\" in this sentence.",
+        "means before": "\"means before\" is a real text function, but it is not the job of \"to that end\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3814",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"insofar as\" do in this sentence? On the notice board, the claim is persuasive insofar as the sample is representative.",
+      "options": [
+        "means to the extent that",
+        "adds an example",
+        "shows a result",
+        "means despite"
+      ],
+      "answer": "means to the extent that",
+      "explanation": "\"insofar as\" means to the extent that in this sentence: On the notice board, the claim is persuasive insofar as the sample is representative.",
+      "rationales": {
+        "means to the extent that": "\"insofar as\" means to the extent that in this sentence: On the notice board, the claim is persuasive insofar as the sample is representative.",
+        "adds an example": "\"adds an example\" is a real text function, but it is not the job of \"insofar as\" in this sentence.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"insofar as\" in this sentence.",
+        "means despite": "\"means despite\" is a real text function, but it is not the job of \"insofar as\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3815",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"albeit\" do in this sentence? The guide gives this sentence: The result is useful, albeit limited.",
+      "options": [
+        "adds a concession inside the same idea",
+        "shows a cause",
+        "means afterward",
+        "introduces a definition"
+      ],
+      "answer": "adds a concession inside the same idea",
+      "explanation": "\"albeit\" adds a concession inside the same idea in this sentence: The guide gives this sentence: The result is useful, albeit limited.",
+      "rationales": {
+        "adds a concession inside the same idea": "\"albeit\" adds a concession inside the same idea in this sentence: The guide gives this sentence: The result is useful, albeit limited.",
+        "shows a cause": "\"shows a cause\" is a real text function, but it is not the job of \"albeit\" in this sentence.",
+        "means afterward": "\"means afterward\" is a real text function, but it is not the job of \"albeit\" in this sentence.",
+        "introduces a definition": "\"introduces a definition\" is a real text function, but it is not the job of \"albeit\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3816",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"notably\" do in this sentence? In the office email, notably, the strongest gains appeared among beginners.",
+      "options": [
+        "marks something as worth attention",
+        "sets a condition",
+        "means if not",
+        "shows a replacement"
+      ],
+      "answer": "marks something as worth attention",
+      "explanation": "\"notably\" marks something as worth attention in this sentence: In the office email, notably, the strongest gains appeared among beginners.",
+      "rationales": {
+        "marks something as worth attention": "\"notably\" marks something as worth attention in this sentence: In the office email, notably, the strongest gains appeared among beginners.",
+        "sets a condition": "\"sets a condition\" is a real text function, but it is not the job of \"notably\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"notably\" in this sentence.",
+        "shows a replacement": "\"shows a replacement\" is a real text function, but it is not the job of \"notably\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3817",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"in turn\" do in this sentence? The reading passage says that clearer forms reduced calls, which in turn saved staff time.",
+      "options": [
+        "shows the next effect in a chain",
+        "adds an unrelated example",
+        "shows contrast only",
+        "means if not"
+      ],
+      "answer": "shows the next effect in a chain",
+      "explanation": "\"in turn\" shows the next effect in a chain in this sentence: The reading passage says that clearer forms reduced calls, which in turn saved staff time.",
+      "rationales": {
+        "shows the next effect in a chain": "\"in turn\" shows the next effect in a chain in this sentence: The reading passage says that clearer forms reduced calls, which in turn saved staff time.",
+        "adds an unrelated example": "\"adds an unrelated example\" is a real text function, but it is not the job of \"in turn\" in this sentence.",
+        "shows contrast only": "\"shows contrast only\" is a real text function, but it is not the job of \"in turn\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"in turn\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3818",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"by extension\" do in this sentence? At the start of the activity, if the rule protects students, by extension it may protect applicants too.",
+      "options": [
+        "applies an idea to a related case",
+        "shows a cause",
+        "means before",
+        "adds a concession"
+      ],
+      "answer": "applies an idea to a related case",
+      "explanation": "\"by extension\" applies an idea to a related case in this sentence: At the start of the activity, if the rule protects students, by extension it may protect applicants too.",
+      "rationales": {
+        "applies an idea to a related case": "\"by extension\" applies an idea to a related case in this sentence: At the start of the activity, if the rule protects students, by extension it may protect applicants too.",
+        "shows a cause": "\"shows a cause\" is a real text function, but it is not the job of \"by extension\" in this sentence.",
+        "means before": "\"means before\" is a real text function, but it is not the job of \"by extension\" in this sentence.",
+        "adds a concession": "\"adds a concession\" is a real text function, but it is not the job of \"by extension\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3819",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"with respect to\" do in this sentence? The second example says that with respect to attendance, the program improved.",
+      "options": [
+        "limits the topic being discussed",
+        "shows a result",
+        "means if not",
+        "introduces an example"
+      ],
+      "answer": "limits the topic being discussed",
+      "explanation": "\"with respect to\" limits the topic being discussed in this sentence: The second example says that with respect to attendance, the program improved.",
+      "rationales": {
+        "limits the topic being discussed": "\"with respect to\" limits the topic being discussed in this sentence: The second example says that with respect to attendance, the program improved.",
+        "shows a result": "\"shows a result\" is a real text function, but it is not the job of \"with respect to\" in this sentence.",
+        "means if not": "\"means if not\" is a real text function, but it is not the job of \"with respect to\" in this sentence.",
+        "introduces an example": "\"introduces an example\" is a real text function, but it is not the job of \"with respect to\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c1-3820",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"in light of\" do in this sentence? On the class website, in light of the new evidence, the decision was revised.",
+      "options": [
+        "means considering",
+        "means despite",
+        "shows sequence only",
+        "adds an unrelated point"
+      ],
+      "answer": "means considering",
+      "explanation": "\"in light of\" means considering in this sentence: On the class website, in light of the new evidence, the decision was revised.",
+      "rationales": {
+        "means considering": "\"in light of\" means considering in this sentence: On the class website, in light of the new evidence, the decision was revised.",
+        "means despite": "\"means despite\" is a real text function, but it is not the job of \"in light of\" in this sentence.",
+        "shows sequence only": "\"shows sequence only\" is a real text function, but it is not the job of \"in light of\" in this sentence.",
+        "adds an unrelated point": "\"adds an unrelated point\" is a real text function, but it is not the job of \"in light of\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3821",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"notwithstanding\" do in this sentence? Notwithstanding the delay, the project succeeded.",
+      "options": [
+        "despite",
+        "because of that",
+        "therefore",
+        "only if"
+      ],
+      "answer": "despite",
+      "explanation": "\"notwithstanding\" despite in this sentence: Notwithstanding the delay, the project succeeded.",
+      "rationales": {
+        "despite": "\"notwithstanding\" despite in this sentence: Notwithstanding the delay, the project succeeded.",
+        "because of that": "\"because of that\" is a real text function, but it is not the job of \"notwithstanding\" in this sentence.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"notwithstanding\" in this sentence.",
+        "only if": "\"only if\" is a real text function, but it is not the job of \"notwithstanding\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3822",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"inasmuch as\" do in this sentence? In the clinic, the plan is fair inasmuch as it treats all groups equally.",
+      "options": [
+        "to the extent that",
+        "despite",
+        "therefore",
+        "to avoid the risk that"
+      ],
+      "answer": "to the extent that",
+      "explanation": "\"inasmuch as\" to the extent that in this sentence: In the clinic, the plan is fair inasmuch as it treats all groups equally.",
+      "rationales": {
+        "to the extent that": "\"inasmuch as\" to the extent that in this sentence: In the clinic, the plan is fair inasmuch as it treats all groups equally.",
+        "despite": "\"despite\" is a real text function, but it is not the job of \"inasmuch as\" in this sentence.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"inasmuch as\" in this sentence.",
+        "to avoid the risk that": "\"to avoid the risk that\" is a real text function, but it is not the job of \"inasmuch as\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3823",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"thereby\" do in this sentence? During the discussion, the new rule reduced errors, thereby saving time.",
+      "options": [
+        "by doing that",
+        "despite",
+        "only if",
+        "to avoid the risk that"
+      ],
+      "answer": "by doing that",
+      "explanation": "\"thereby\" by doing that in this sentence: During the discussion, the new rule reduced errors, thereby saving time.",
+      "rationales": {
+        "by doing that": "\"thereby\" by doing that in this sentence: During the discussion, the new rule reduced errors, thereby saving time.",
+        "despite": "\"despite\" is a real text function, but it is not the job of \"thereby\" in this sentence.",
+        "only if": "\"only if\" is a real text function, but it is not the job of \"thereby\" in this sentence.",
+        "to avoid the risk that": "\"to avoid the risk that\" is a real text function, but it is not the job of \"thereby\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3824",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"hence\" do in this sentence? The example says that the figures were incomplete; hence, the cautious conclusion.",
+      "options": [
+        "therefore",
+        "despite",
+        "only if",
+        "to avoid the risk that"
+      ],
+      "answer": "therefore",
+      "explanation": "\"hence\" therefore in this sentence: The example says that the figures were incomplete; hence, the cautious conclusion.",
+      "rationales": {
+        "therefore": "\"hence\" therefore in this sentence: The example says that the figures were incomplete; hence, the cautious conclusion.",
+        "despite": "\"despite\" is a real text function, but it is not the job of \"hence\" in this sentence.",
+        "only if": "\"only if\" is a real text function, but it is not the job of \"hence\" in this sentence.",
+        "to avoid the risk that": "\"to avoid the risk that\" is a real text function, but it is not the job of \"hence\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3825",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"lest\" do in this sentence? On the worksheet, the files were checked twice lest errors remain.",
+      "options": [
+        "to avoid the risk that",
+        "because of that",
+        "therefore",
+        "despite"
+      ],
+      "answer": "to avoid the risk that",
+      "explanation": "\"lest\" to avoid the risk that in this sentence: On the worksheet, the files were checked twice lest errors remain.",
+      "rationales": {
+        "to avoid the risk that": "\"lest\" to avoid the risk that in this sentence: On the worksheet, the files were checked twice lest errors remain.",
+        "because of that": "\"because of that\" is a real text function, but it is not the job of \"lest\" in this sentence.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"lest\" in this sentence.",
+        "despite": "\"despite\" is a real text function, but it is not the job of \"lest\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3826",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"insofar as\" do in this sentence? The teacher's example is this: The rule is defensible insofar as it treats similar cases alike.",
+      "options": [
+        "to the extent that",
+        "despite that",
+        "therefore",
+        "to avoid the risk that"
+      ],
+      "answer": "to the extent that",
+      "explanation": "\"insofar as\" to the extent that in this sentence: The teacher's example is this: The rule is defensible insofar as it treats similar cases alike.",
+      "rationales": {
+        "to the extent that": "\"insofar as\" to the extent that in this sentence: The teacher's example is this: The rule is defensible insofar as it treats similar cases alike.",
+        "despite that": "\"despite that\" is a real text function, but it is not the job of \"insofar as\" in this sentence.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"insofar as\" in this sentence.",
+        "to avoid the risk that": "\"to avoid the risk that\" is a real text function, but it is not the job of \"insofar as\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3827",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"accordingly\" do in this sentence? In a short message, the premise fails; accordingly, the conclusion must be revised.",
+      "options": [
+        "as a result of that reasoning",
+        "despite",
+        "only if",
+        "by contrast"
+      ],
+      "answer": "as a result of that reasoning",
+      "explanation": "\"accordingly\" as a result of that reasoning in this sentence: In a short message, the premise fails; accordingly, the conclusion must be revised.",
+      "rationales": {
+        "as a result of that reasoning": "\"accordingly\" as a result of that reasoning in this sentence: In a short message, the premise fails; accordingly, the conclusion must be revised.",
+        "despite": "\"despite\" is a real text function, but it is not the job of \"accordingly\" in this sentence.",
+        "only if": "\"only if\" is a real text function, but it is not the job of \"accordingly\" in this sentence.",
+        "by contrast": "\"by contrast\" is a real text function, but it is not the job of \"accordingly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3828",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"conversely\" do in this sentence? The report gives this example: If narrow notice weakens consent, conversely, clear notice strengthens it.",
+      "options": [
+        "in the opposite relation",
+        "therefore",
+        "despite",
+        "for example"
+      ],
+      "answer": "in the opposite relation",
+      "explanation": "\"conversely\" in the opposite relation in this sentence: The report gives this example: If narrow notice weakens consent, conversely, clear notice strengthens it.",
+      "rationales": {
+        "in the opposite relation": "\"conversely\" in the opposite relation in this sentence: The report gives this example: If narrow notice weakens consent, conversely, clear notice strengthens it.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"conversely\" in this sentence.",
+        "despite": "\"despite\" is a real text function, but it is not the job of \"conversely\" in this sentence.",
+        "for example": "\"for example\" is a real text function, but it is not the job of \"conversely\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3829",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"thereafter\" do in this sentence? At the reception desk, the clause was amended; thereafter, the exception no longer applied.",
+      "options": [
+        "after that point",
+        "despite that",
+        "because of that",
+        "only if"
+      ],
+      "answer": "after that point",
+      "explanation": "\"thereafter\" after that point in this sentence: At the reception desk, the clause was amended; thereafter, the exception no longer applied.",
+      "rationales": {
+        "after that point": "\"thereafter\" after that point in this sentence: At the reception desk, the clause was amended; thereafter, the exception no longer applied.",
+        "despite that": "\"despite that\" is a real text function, but it is not the job of \"thereafter\" in this sentence.",
+        "because of that": "\"because of that\" is a real text function, but it is not the job of \"thereafter\" in this sentence.",
+        "only if": "\"only if\" is a real text function, but it is not the job of \"thereafter\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3830",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"whereby\" do in this sentence? The class note says that the statute creates a procedure whereby applicants may appeal.",
+      "options": [
+        "by which process",
+        "despite",
+        "therefore",
+        "to avoid the risk"
+      ],
+      "answer": "by which process",
+      "explanation": "\"whereby\" by which process in this sentence: The class note says that the statute creates a procedure whereby applicants may appeal.",
+      "rationales": {
+        "by which process": "\"whereby\" by which process in this sentence: The class note says that the statute creates a procedure whereby applicants may appeal.",
+        "despite": "\"despite\" is a real text function, but it is not the job of \"whereby\" in this sentence.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"whereby\" in this sentence.",
+        "to avoid the risk": "\"to avoid the risk\" is a real text function, but it is not the job of \"whereby\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3831",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"albeit\" do in this sentence? In the practice text, the precedent is relevant, albeit not controlling.",
+      "options": [
+        "although",
+        "therefore",
+        "only if",
+        "by that means"
+      ],
+      "answer": "although",
+      "explanation": "\"albeit\" although in this sentence: In the practice text, the precedent is relevant, albeit not controlling.",
+      "rationales": {
+        "although": "\"albeit\" although in this sentence: In the practice text, the precedent is relevant, albeit not controlling.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"albeit\" in this sentence.",
+        "only if": "\"only if\" is a real text function, but it is not the job of \"albeit\" in this sentence.",
+        "by that means": "\"by that means\" is a real text function, but it is not the job of \"albeit\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3832",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"even assuming that\" do in this sentence? During the lesson, even assuming that notice was late, the appeal remains timely.",
+      "options": [
+        "granting a point for argument's sake",
+        "therefore",
+        "for example",
+        "by contrast"
+      ],
+      "answer": "granting a point for argument's sake",
+      "explanation": "\"even assuming that\" granting a point for argument's sake in this sentence: During the lesson, even assuming that notice was late, the appeal remains timely.",
+      "rationales": {
+        "granting a point for argument's sake": "\"even assuming that\" granting a point for argument's sake in this sentence: During the lesson, even assuming that notice was late, the appeal remains timely.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"even assuming that\" in this sentence.",
+        "for example": "\"for example\" is a real text function, but it is not the job of \"even assuming that\" in this sentence.",
+        "by contrast": "\"by contrast\" is a real text function, but it is not the job of \"even assuming that\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3833",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"save that\" do in this sentence? The first example says that the two provisions are identical, save that one includes an appeal period.",
+      "options": [
+        "except that",
+        "therefore",
+        "because of that",
+        "to avoid the risk"
+      ],
+      "answer": "except that",
+      "explanation": "\"save that\" except that in this sentence: The first example says that the two provisions are identical, save that one includes an appeal period.",
+      "rationales": {
+        "except that": "\"save that\" except that in this sentence: The first example says that the two provisions are identical, save that one includes an appeal period.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"save that\" in this sentence.",
+        "because of that": "\"because of that\" is a real text function, but it is not the job of \"save that\" in this sentence.",
+        "to avoid the risk": "\"to avoid the risk\" is a real text function, but it is not the job of \"save that\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3834",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"to wit\" do in this sentence? On the notice board, the defect is procedural, to wit, the absence of notice.",
+      "options": [
+        "namely",
+        "despite",
+        "only if",
+        "by doing that"
+      ],
+      "answer": "namely",
+      "explanation": "\"to wit\" namely in this sentence: On the notice board, the defect is procedural, to wit, the absence of notice.",
+      "rationales": {
+        "namely": "\"to wit\" namely in this sentence: On the notice board, the defect is procedural, to wit, the absence of notice.",
+        "despite": "\"despite\" is a real text function, but it is not the job of \"to wit\" in this sentence.",
+        "only if": "\"only if\" is a real text function, but it is not the job of \"to wit\" in this sentence.",
+        "by doing that": "\"by doing that\" is a real text function, but it is not the job of \"to wit\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3835",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"namely\" do in this sentence? The guide gives this sentence: Only one question remains, namely whether consent was informed.",
+      "options": [
+        "specifically",
+        "therefore",
+        "despite",
+        "to avoid the risk"
+      ],
+      "answer": "specifically",
+      "explanation": "\"namely\" specifically in this sentence: The guide gives this sentence: Only one question remains, namely whether consent was informed.",
+      "rationales": {
+        "specifically": "\"namely\" specifically in this sentence: The guide gives this sentence: Only one question remains, namely whether consent was informed.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"namely\" in this sentence.",
+        "despite": "\"despite\" is a real text function, but it is not the job of \"namely\" in this sentence.",
+        "to avoid the risk": "\"to avoid the risk\" is a real text function, but it is not the job of \"namely\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3836",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"by contrast\" do in this sentence? In the office email, the majority treats the clause broadly; by contrast, the dissent reads it narrowly.",
+      "options": [
+        "introducing a sharp difference",
+        "therefore",
+        "only if",
+        "by doing that"
+      ],
+      "answer": "introducing a sharp difference",
+      "explanation": "\"by contrast\" introducing a sharp difference in this sentence: In the office email, the majority treats the clause broadly; by contrast, the dissent reads it narrowly.",
+      "rationales": {
+        "introducing a sharp difference": "\"by contrast\" introducing a sharp difference in this sentence: In the office email, the majority treats the clause broadly; by contrast, the dissent reads it narrowly.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"by contrast\" in this sentence.",
+        "only if": "\"only if\" is a real text function, but it is not the job of \"by contrast\" in this sentence.",
+        "by doing that": "\"by doing that\" is a real text function, but it is not the job of \"by contrast\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3837",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"on that basis\" do in this sentence? The reading passage says that the evidence was incomplete; on that basis, the panel remanded the case.",
+      "options": [
+        "using that reason",
+        "despite",
+        "for example",
+        "except that"
+      ],
+      "answer": "using that reason",
+      "explanation": "\"on that basis\" using that reason in this sentence: The reading passage says that the evidence was incomplete; on that basis, the panel remanded the case.",
+      "rationales": {
+        "using that reason": "\"on that basis\" using that reason in this sentence: The reading passage says that the evidence was incomplete; on that basis, the panel remanded the case.",
+        "despite": "\"despite\" is a real text function, but it is not the job of \"on that basis\" in this sentence.",
+        "for example": "\"for example\" is a real text function, but it is not the job of \"on that basis\" in this sentence.",
+        "except that": "\"except that\" is a real text function, but it is not the job of \"on that basis\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3838",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"for all that\" do in this sentence? At the start of the activity, the objection is forceful; for all that, it does not defeat the claim.",
+      "options": [
+        "despite that",
+        "therefore",
+        "namely",
+        "only if"
+      ],
+      "answer": "despite that",
+      "explanation": "\"for all that\" despite that in this sentence: At the start of the activity, the objection is forceful; for all that, it does not defeat the claim.",
+      "rationales": {
+        "despite that": "\"for all that\" despite that in this sentence: At the start of the activity, the objection is forceful; for all that, it does not defeat the claim.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"for all that\" in this sentence.",
+        "namely": "\"namely\" is a real text function, but it is not the job of \"for all that\" in this sentence.",
+        "only if": "\"only if\" is a real text function, but it is not the job of \"for all that\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3839",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"if and only if\" do in this sentence? The second example says that the appeal is valid if and only if notice was timely.",
+      "options": [
+        "only under this exact condition",
+        "despite",
+        "therefore",
+        "by doing that"
+      ],
+      "answer": "only under this exact condition",
+      "explanation": "\"if and only if\" only under this exact condition in this sentence: The second example says that the appeal is valid if and only if notice was timely.",
+      "rationales": {
+        "only under this exact condition": "\"if and only if\" only under this exact condition in this sentence: The second example says that the appeal is valid if and only if notice was timely.",
+        "despite": "\"despite\" is a real text function, but it is not the job of \"if and only if\" in this sentence.",
+        "therefore": "\"therefore\" is a real text function, but it is not the job of \"if and only if\" in this sentence.",
+        "by doing that": "\"by doing that\" is a real text function, but it is not the job of \"if and only if\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-transitions-c2-3840",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"in consequence\" do in this sentence? On the class website, the filing was defective; in consequence, the order was vacated.",
+      "options": [
+        "as a formal result",
+        "despite",
+        "only if",
+        "for example"
+      ],
+      "answer": "as a formal result",
+      "explanation": "\"in consequence\" as a formal result in this sentence: On the class website, the filing was defective; in consequence, the order was vacated.",
+      "rationales": {
+        "as a formal result": "\"in consequence\" as a formal result in this sentence: On the class website, the filing was defective; in consequence, the order was vacated.",
+        "despite": "\"despite\" is a real text function, but it is not the job of \"in consequence\" in this sentence.",
+        "only if": "\"only if\" is a real text function, but it is not the job of \"in consequence\" in this sentence.",
+        "for example": "\"for example\" is a real text function, but it is not the job of \"in consequence\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

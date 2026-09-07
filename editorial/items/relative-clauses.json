@@ -1,0 +1,2766 @@
+{
+  "topic": "Relative clauses",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-relative-clauses-a1-3121",
+      "level": "A1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The English teacher ___ works in the library is kind.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The English teacher who works in the library is kind.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The English teacher who works in the library is kind.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3122",
+      "level": "A1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "This is the room ___ we study English in class.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": "where",
+      "explanation": "\"where\" links the description to the person or thing. The completed sentence is: This is the room where we study English in class.",
+      "rationales": {
+        "where": "\"where\" links the description to the person or thing. The completed sentence is: This is the room where we study English in class.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3123",
+      "level": "A1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The book ___ is on the desk is mine after lunch.",
+      "options": [
+        "that",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "that",
+      "explanation": "\"that\" links the description to the person or thing. The completed sentence is: The book that is on the desk is mine after lunch.",
+      "rationales": {
+        "that": "\"that\" links the description to the person or thing. The completed sentence is: The book that is on the desk is mine after lunch.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3124",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "I know the student ___ bag is blue at school.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: I know the student whose bag is blue at school.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: I know the student whose bag is blue at school.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3125",
+      "level": "A1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The woman ___ teaches math is friendly this morning.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "what"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The woman who teaches math is friendly this morning.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The woman who teaches math is friendly this morning.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3126",
+      "level": "A1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The grammar teacher ___ works in the museum is kind.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The grammar teacher who works in the museum is kind.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The grammar teacher who works in the museum is kind.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3127",
+      "level": "A1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "This is the room ___ we study English near the door.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": "where",
+      "explanation": "\"where\" links the description to the person or thing. The completed sentence is: This is the room where we study English near the door.",
+      "rationales": {
+        "where": "\"where\" links the description to the person or thing. The completed sentence is: This is the room where we study English near the door.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3128",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The book ___ is on the desk is mine at home.",
+      "options": [
+        "that",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "that",
+      "explanation": "\"that\" links the description to the person or thing. The completed sentence is: The book that is on the desk is mine at home.",
+      "rationales": {
+        "that": "\"that\" links the description to the person or thing. The completed sentence is: The book that is on the desk is mine at home.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3129",
+      "level": "A1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "I know the student ___ bag is blue on Monday.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: I know the student whose bag is blue on Monday.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: I know the student whose bag is blue on Monday.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3130",
+      "level": "A1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The woman ___ teaches math is friendly in the kitchen.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "what"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The woman who teaches math is friendly in the kitchen.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The woman who teaches math is friendly in the kitchen.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3131",
+      "level": "A1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The senior teacher ___ works in the airport is kind.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The senior teacher who works in the airport is kind.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The senior teacher who works in the airport is kind.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3132",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "This is the room ___ we study English by the window.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": "where",
+      "explanation": "\"where\" links the description to the person or thing. The completed sentence is: This is the room where we study English by the window.",
+      "rationales": {
+        "where": "\"where\" links the description to the person or thing. The completed sentence is: This is the room where we study English by the window.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3133",
+      "level": "A1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The book ___ is on the desk is mine before dinner.",
+      "options": [
+        "that",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "that",
+      "explanation": "\"that\" links the description to the person or thing. The completed sentence is: The book that is on the desk is mine before dinner.",
+      "rationales": {
+        "that": "\"that\" links the description to the person or thing. The completed sentence is: The book that is on the desk is mine before dinner.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3134",
+      "level": "A1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "I know the student ___ bag is blue at the park.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: I know the student whose bag is blue at the park.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: I know the student whose bag is blue at the park.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3135",
+      "level": "A1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The woman ___ teaches math is friendly on the bus.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "what"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The woman who teaches math is friendly on the bus.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The woman who teaches math is friendly on the bus.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3136",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The art teacher ___ works in the market is kind.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The art teacher who works in the market is kind.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The art teacher who works in the market is kind.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3137",
+      "level": "A1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "This is the room ___ we study English with the teacher.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": "where",
+      "explanation": "\"where\" links the description to the person or thing. The completed sentence is: This is the room where we study English with the teacher.",
+      "rationales": {
+        "where": "\"where\" links the description to the person or thing. The completed sentence is: This is the room where we study English with the teacher.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3138",
+      "level": "A1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The book ___ is on the desk is mine before the bell.",
+      "options": [
+        "that",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "that",
+      "explanation": "\"that\" links the description to the person or thing. The completed sentence is: The book that is on the desk is mine before the bell.",
+      "rationales": {
+        "that": "\"that\" links the description to the person or thing. The completed sentence is: The book that is on the desk is mine before the bell.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3139",
+      "level": "A1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "I know the student ___ bag is blue during the lesson.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: I know the student whose bag is blue during the lesson.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: I know the student whose bag is blue during the lesson.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a1-3140",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The woman ___ teaches math is friendly at the front.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "what"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The woman who teaches math is friendly at the front.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The woman who teaches math is friendly at the front.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3141",
+      "level": "A2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "This is the report ___ Mina needs today.",
+      "options": [
+        "that",
+        "where",
+        "whose",
+        "what"
+      ],
+      "answer": "that",
+      "explanation": "\"that\" links the description to the person or thing. The completed sentence is: This is the report that Mina needs today.",
+      "rationales": {
+        "that": "\"that\" links the description to the person or thing. The completed sentence is: This is the report that Mina needs today.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3142",
+      "level": "A2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The school office ___ we registered is upstairs.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": "where",
+      "explanation": "\"where\" links the description to the person or thing. The completed sentence is: The school office where we registered is upstairs.",
+      "rationales": {
+        "where": "\"where\" links the description to the person or thing. The completed sentence is: The school office where we registered is upstairs.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3143",
+      "level": "A2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The man ___ called earlier left a message before registration.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The man who called earlier left a message before registration.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The man who called earlier left a message before registration.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3144",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The student ___ notebook was lost asked for help on the class website.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose notebook was lost asked for help on the class website.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose notebook was lost asked for help on the class website.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3145",
+      "level": "A2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The travel form ___ arrived yesterday is on the desk.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The travel form which arrived yesterday is on the desk.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The travel form which arrived yesterday is on the desk.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3146",
+      "level": "A2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "This is the chart ___ Lena needs today.",
+      "options": [
+        "that",
+        "where",
+        "whose",
+        "what"
+      ],
+      "answer": "that",
+      "explanation": "\"that\" links the description to the person or thing. The completed sentence is: This is the chart that Lena needs today.",
+      "rationales": {
+        "that": "\"that\" links the description to the person or thing. The completed sentence is: This is the chart that Lena needs today.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3147",
+      "level": "A2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The records office ___ we registered is upstairs.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": "where",
+      "explanation": "\"where\" links the description to the person or thing. The completed sentence is: The records office where we registered is upstairs.",
+      "rationales": {
+        "where": "\"where\" links the description to the person or thing. The completed sentence is: The records office where we registered is upstairs.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3148",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The man ___ called earlier left a message near the printer.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The man who called earlier left a message near the printer.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The man who called earlier left a message near the printer.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3149",
+      "level": "A2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The student ___ notebook was lost asked for help before the interview.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose notebook was lost asked for help before the interview.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose notebook was lost asked for help before the interview.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3150",
+      "level": "A2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The renewal form ___ arrived yesterday is on the desk.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The renewal form which arrived yesterday is on the desk.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The renewal form which arrived yesterday is on the desk.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3151",
+      "level": "A2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "This is the lesson plan ___ Hana needs today.",
+      "options": [
+        "that",
+        "where",
+        "whose",
+        "what"
+      ],
+      "answer": "that",
+      "explanation": "\"that\" links the description to the person or thing. The completed sentence is: This is the lesson plan that Hana needs today.",
+      "rationales": {
+        "that": "\"that\" links the description to the person or thing. The completed sentence is: This is the lesson plan that Hana needs today.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3152",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The registrar's office ___ we registered is upstairs.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": "where",
+      "explanation": "\"where\" links the description to the person or thing. The completed sentence is: The registrar's office where we registered is upstairs.",
+      "rationales": {
+        "where": "\"where\" links the description to the person or thing. The completed sentence is: The registrar's office where we registered is upstairs.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3153",
+      "level": "A2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The man ___ called earlier left a message for the online task.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The man who called earlier left a message for the online task.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The man who called earlier left a message for the online task.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3154",
+      "level": "A2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The student ___ notebook was lost asked for help at the language center.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose notebook was lost asked for help at the language center.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose notebook was lost asked for help at the language center.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3155",
+      "level": "A2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The safety form ___ arrived yesterday is on the desk.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The safety form which arrived yesterday is on the desk.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The safety form which arrived yesterday is on the desk.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3156",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "This is the agenda ___ Luis needs today.",
+      "options": [
+        "that",
+        "where",
+        "whose",
+        "what"
+      ],
+      "answer": "that",
+      "explanation": "\"that\" links the description to the person or thing. The completed sentence is: This is the agenda that Luis needs today.",
+      "rationales": {
+        "that": "\"that\" links the description to the person or thing. The completed sentence is: This is the agenda that Luis needs today.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3157",
+      "level": "A2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The training office ___ we registered is upstairs.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": "where",
+      "explanation": "\"where\" links the description to the person or thing. The completed sentence is: The training office where we registered is upstairs.",
+      "rationales": {
+        "where": "\"where\" links the description to the person or thing. The completed sentence is: The training office where we registered is upstairs.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3158",
+      "level": "A2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The man ___ called earlier left a message near the office door.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The man who called earlier left a message near the office door.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The man who called earlier left a message near the office door.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3159",
+      "level": "A2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The student ___ notebook was lost asked for help during pair practice.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose notebook was lost asked for help during pair practice.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose notebook was lost asked for help during pair practice.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-a2-3160",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The appeal form ___ arrived yesterday is on the desk.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The appeal form which arrived yesterday is on the desk.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The appeal form which arrived yesterday is on the desk.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3161",
+      "level": "B1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The library ___ we met last week is closed today for the orientation group.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": "where",
+      "explanation": "\"where\" links the description to the person or thing. The completed sentence is: The library where we met last week is closed today for the orientation group.",
+      "rationales": {
+        "where": "\"where\" links the description to the person or thing. The completed sentence is: The library where we met last week is closed today for the orientation group.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3162",
+      "level": "B1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The reason ___ the school office called was unclear.",
+      "options": [
+        "why",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "why",
+      "explanation": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the school office called was unclear.",
+      "rationales": {
+        "why": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the school office called was unclear.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3163",
+      "level": "B1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The applicant ___ completed the refund form received a reply.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The applicant who completed the refund form received a reply.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The applicant who completed the refund form received a reply.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3164",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The notice ___ Nadia sent yesterday was incomplete.",
+      "options": [
+        "that",
+        "where",
+        "whose",
+        "what"
+      ],
+      "answer": "that",
+      "explanation": "\"that\" links the description to the person or thing. The completed sentence is: The notice that Nadia sent yesterday was incomplete.",
+      "rationales": {
+        "that": "\"that\" links the description to the person or thing. The completed sentence is: The notice that Nadia sent yesterday was incomplete.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3165",
+      "level": "B1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The day ___ the course begins is printed on the travel form.",
+      "options": [
+        "when",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "when",
+      "explanation": "\"when\" links the description to the person or thing. The completed sentence is: The day when the course begins is printed on the travel form.",
+      "rationales": {
+        "when": "\"when\" links the description to the person or thing. The completed sentence is: The day when the course begins is printed on the travel form.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3166",
+      "level": "B1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The museum ___ we met last week is closed today during the safety briefing.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": "where",
+      "explanation": "\"where\" links the description to the person or thing. The completed sentence is: The museum where we met last week is closed today during the safety briefing.",
+      "rationales": {
+        "where": "\"where\" links the description to the person or thing. The completed sentence is: The museum where we met last week is closed today during the safety briefing.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3167",
+      "level": "B1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The reason ___ the records office called was unclear.",
+      "options": [
+        "why",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "why",
+      "explanation": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the records office called was unclear.",
+      "rationales": {
+        "why": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the records office called was unclear.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3168",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The applicant ___ completed the online form received a reply.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The applicant who completed the online form received a reply.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The applicant who completed the online form received a reply.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3169",
+      "level": "B1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The contract ___ Rina sent yesterday was incomplete.",
+      "options": [
+        "that",
+        "where",
+        "whose",
+        "what"
+      ],
+      "answer": "that",
+      "explanation": "\"that\" links the description to the person or thing. The completed sentence is: The contract that Rina sent yesterday was incomplete.",
+      "rationales": {
+        "that": "\"that\" links the description to the person or thing. The completed sentence is: The contract that Rina sent yesterday was incomplete.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3170",
+      "level": "B1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The day ___ the course begins is printed on the renewal form.",
+      "options": [
+        "when",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "when",
+      "explanation": "\"when\" links the description to the person or thing. The completed sentence is: The day when the course begins is printed on the renewal form.",
+      "rationales": {
+        "when": "\"when\" links the description to the person or thing. The completed sentence is: The day when the course begins is printed on the renewal form.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3171",
+      "level": "B1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The airport ___ we met last week is closed today during the planning discussion.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": "where",
+      "explanation": "\"where\" links the description to the person or thing. The completed sentence is: The airport where we met last week is closed today during the planning discussion.",
+      "rationales": {
+        "where": "\"where\" links the description to the person or thing. The completed sentence is: The airport where we met last week is closed today during the planning discussion.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3172",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The reason ___ the registrar's office called was unclear.",
+      "options": [
+        "why",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "why",
+      "explanation": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the registrar's office called was unclear.",
+      "rationales": {
+        "why": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the registrar's office called was unclear.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3173",
+      "level": "B1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The applicant ___ completed the complaint form received a reply.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The applicant who completed the complaint form received a reply.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The applicant who completed the complaint form received a reply.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3174",
+      "level": "B1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The proposal ___ Kenji sent yesterday was incomplete.",
+      "options": [
+        "that",
+        "where",
+        "whose",
+        "what"
+      ],
+      "answer": "that",
+      "explanation": "\"that\" links the description to the person or thing. The completed sentence is: The proposal that Kenji sent yesterday was incomplete.",
+      "rationales": {
+        "that": "\"that\" links the description to the person or thing. The completed sentence is: The proposal that Kenji sent yesterday was incomplete.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3175",
+      "level": "B1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The day ___ the course begins is printed on the safety form.",
+      "options": [
+        "when",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "when",
+      "explanation": "\"when\" links the description to the person or thing. The completed sentence is: The day when the course begins is printed on the safety form.",
+      "rationales": {
+        "when": "\"when\" links the description to the person or thing. The completed sentence is: The day when the course begins is printed on the safety form.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3176",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The market ___ we met last week is closed today during the support call.",
+      "options": [
+        "where",
+        "who",
+        "whose",
+        "what"
+      ],
+      "answer": "where",
+      "explanation": "\"where\" links the description to the person or thing. The completed sentence is: The market where we met last week is closed today during the support call.",
+      "rationales": {
+        "where": "\"where\" links the description to the person or thing. The completed sentence is: The market where we met last week is closed today during the support call.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3177",
+      "level": "B1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The reason ___ the training office called was unclear.",
+      "options": [
+        "why",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "why",
+      "explanation": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the training office called was unclear.",
+      "rationales": {
+        "why": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the training office called was unclear.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3178",
+      "level": "B1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The applicant ___ completed the visa form received a reply.",
+      "options": [
+        "who",
+        "which",
+        "where",
+        "whose"
+      ],
+      "answer": "who",
+      "explanation": "\"who\" links the description to the person or thing. The completed sentence is: The applicant who completed the visa form received a reply.",
+      "rationales": {
+        "who": "\"who\" links the description to the person or thing. The completed sentence is: The applicant who completed the visa form received a reply.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3179",
+      "level": "B1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The policy ___ Yara sent yesterday was incomplete.",
+      "options": [
+        "that",
+        "where",
+        "whose",
+        "what"
+      ],
+      "answer": "that",
+      "explanation": "\"that\" links the description to the person or thing. The completed sentence is: The policy that Yara sent yesterday was incomplete.",
+      "rationales": {
+        "that": "\"that\" links the description to the person or thing. The completed sentence is: The policy that Yara sent yesterday was incomplete.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b1-3180",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The day ___ the course begins is printed on the appeal form.",
+      "options": [
+        "when",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "when",
+      "explanation": "\"when\" links the description to the person or thing. The completed sentence is: The day when the course begins is printed on the appeal form.",
+      "rationales": {
+        "when": "\"when\" links the description to the person or thing. The completed sentence is: The day when the course begins is printed on the appeal form.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3181",
+      "level": "B2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The student ___ report was missing asked for another copy for the audit file.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose report was missing asked for another copy for the audit file.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose report was missing asked for another copy for the audit file.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3182",
+      "level": "B2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The budget report, ___ I read twice, changed the recommendation.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The budget report, which I read twice, changed the recommendation.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The budget report, which I read twice, changed the recommendation.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3183",
+      "level": "B2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The clerk to ___ the refund form was given signed the receipt.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whom",
+      "explanation": "\"whom\" links the description to the person or thing. The completed sentence is: The clerk to whom the refund form was given signed the receipt.",
+      "rationales": {
+        "whom": "\"whom\" links the description to the person or thing. The completed sentence is: The clerk to whom the refund form was given signed the receipt.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3184",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The clinic office in ___ the records are stored closes at five.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The clinic office in which the records are stored closes at five.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The clinic office in which the records are stored closes at five.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3185",
+      "level": "B2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The reason ___ the schedule changed was never explained after the complaint review.",
+      "options": [
+        "why",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "why",
+      "explanation": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the schedule changed was never explained after the complaint review.",
+      "rationales": {
+        "why": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the schedule changed was never explained after the complaint review.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3186",
+      "level": "B2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The student ___ chart was missing asked for another copy during the data check.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose chart was missing asked for another copy during the data check.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose chart was missing asked for another copy during the data check.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3187",
+      "level": "B2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The audit report, ___ I read twice, changed the recommendation.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The audit report, which I read twice, changed the recommendation.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The audit report, which I read twice, changed the recommendation.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3188",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The clerk to ___ the online form was given signed the receipt.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whom",
+      "explanation": "\"whom\" links the description to the person or thing. The completed sentence is: The clerk to whom the online form was given signed the receipt.",
+      "rationales": {
+        "whom": "\"whom\" links the description to the person or thing. The completed sentence is: The clerk to whom the online form was given signed the receipt.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3189",
+      "level": "B2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The testing office in ___ the records are stored closes at five.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The testing office in which the records are stored closes at five.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The testing office in which the records are stored closes at five.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3190",
+      "level": "B2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The reason ___ the schedule changed was never explained after the planning call.",
+      "options": [
+        "why",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "why",
+      "explanation": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the schedule changed was never explained after the planning call.",
+      "rationales": {
+        "why": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the schedule changed was never explained after the planning call.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3191",
+      "level": "B2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The student ___ lesson plan was missing asked for another copy during the hiring process.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose lesson plan was missing asked for another copy during the hiring process.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose lesson plan was missing asked for another copy during the hiring process.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3192",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The inspection report, ___ I read twice, changed the recommendation.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The inspection report, which I read twice, changed the recommendation.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The inspection report, which I read twice, changed the recommendation.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3193",
+      "level": "B2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The clerk to ___ the complaint form was given signed the receipt.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whom",
+      "explanation": "\"whom\" links the description to the person or thing. The completed sentence is: The clerk to whom the complaint form was given signed the receipt.",
+      "rationales": {
+        "whom": "\"whom\" links the description to the person or thing. The completed sentence is: The clerk to whom the complaint form was given signed the receipt.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3194",
+      "level": "B2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The language office in ___ the records are stored closes at five.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The language office in which the records are stored closes at five.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The language office in which the records are stored closes at five.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3195",
+      "level": "B2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The reason ___ the schedule changed was never explained after the service report.",
+      "options": [
+        "why",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "why",
+      "explanation": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the schedule changed was never explained after the service report.",
+      "rationales": {
+        "why": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the schedule changed was never explained after the service report.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3196",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The student ___ agenda was missing asked for another copy during the operations review.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose agenda was missing asked for another copy during the operations review.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The student whose agenda was missing asked for another copy during the operations review.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3197",
+      "level": "B2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The compliance report, ___ I read twice, changed the recommendation.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The compliance report, which I read twice, changed the recommendation.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The compliance report, which I read twice, changed the recommendation.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3198",
+      "level": "B2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The clerk to ___ the visa form was given signed the receipt.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whom",
+      "explanation": "\"whom\" links the description to the person or thing. The completed sentence is: The clerk to whom the visa form was given signed the receipt.",
+      "rationales": {
+        "whom": "\"whom\" links the description to the person or thing. The completed sentence is: The clerk to whom the visa form was given signed the receipt.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3199",
+      "level": "B2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The department office in ___ the records are stored closes at five.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "whose"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The department office in which the records are stored closes at five.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The department office in which the records are stored closes at five.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-b2-3200",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The reason ___ the schedule changed was never explained after the final interview.",
+      "options": [
+        "why",
+        "who",
+        "where",
+        "whose"
+      ],
+      "answer": "why",
+      "explanation": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the schedule changed was never explained after the final interview.",
+      "rationales": {
+        "why": "\"why\" links the description to the person or thing. The completed sentence is: The reason why the schedule changed was never explained after the final interview.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3201",
+      "level": "C1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The attendance report, ___ was revised twice, is on file now.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The attendance report, which was revised twice, is on file now.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The attendance report, which was revised twice, is on file now.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3202",
+      "level": "C1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The applicant, ___ experience impressed the panel, received an offer in the methodology section.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The applicant, whose experience impressed the panel, received an offer in the methodology section.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The applicant, whose experience impressed the panel, received an offer in the methodology section.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3203",
+      "level": "C1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The point at ___ the argument changes is easy to miss during the stakeholder meeting.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The point at which the argument changes is easy to miss during the stakeholder meeting.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The point at which the argument changes is easy to miss during the stakeholder meeting.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3204",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The researcher to ___ the grant was awarded thanked the curriculum committee.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": "whom",
+      "explanation": "\"whom\" links the description to the person or thing. The completed sentence is: The researcher to whom the grant was awarded thanked the curriculum committee.",
+      "rationales": {
+        "whom": "\"whom\" links the description to the person or thing. The completed sentence is: The researcher to whom the grant was awarded thanked the curriculum committee.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3205",
+      "level": "C1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The process ___ appeals are reviewed changed after the audit after the evidence is compared.",
+      "options": [
+        "whereby",
+        "where",
+        "which",
+        "what"
+      ],
+      "answer": "whereby",
+      "explanation": "\"whereby\" links the description to the person or thing. The completed sentence is: The process whereby appeals are reviewed changed after the audit after the evidence is compared.",
+      "rationales": {
+        "whereby": "\"whereby\" links the description to the person or thing. The completed sentence is: The process whereby appeals are reviewed changed after the audit after the evidence is compared.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3206",
+      "level": "C1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The chart, ___ was revised twice, is on file now during the compliance review.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The chart, which was revised twice, is on file now during the compliance review.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The chart, which was revised twice, is on file now during the compliance review.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3207",
+      "level": "C1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The applicant, ___ experience impressed the panel, received an offer on the evaluation form.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The applicant, whose experience impressed the panel, received an offer on the evaluation form.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The applicant, whose experience impressed the panel, received an offer on the evaluation form.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3208",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The point at ___ the argument changes is easy to miss after the pilot program.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The point at which the argument changes is easy to miss after the pilot program.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The point at which the argument changes is easy to miss after the pilot program.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3209",
+      "level": "C1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The researcher to ___ the grant was awarded thanked the ethics committee.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": "whom",
+      "explanation": "\"whom\" links the description to the person or thing. The completed sentence is: The researcher to whom the grant was awarded thanked the ethics committee.",
+      "rationales": {
+        "whom": "\"whom\" links the description to the person or thing. The completed sentence is: The researcher to whom the grant was awarded thanked the ethics committee.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3210",
+      "level": "C1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The process ___ appeals are reviewed changed after the audit in the grant application.",
+      "options": [
+        "whereby",
+        "where",
+        "which",
+        "what"
+      ],
+      "answer": "whereby",
+      "explanation": "\"whereby\" links the description to the person or thing. The completed sentence is: The process whereby appeals are reviewed changed after the audit in the grant application.",
+      "rationales": {
+        "whereby": "\"whereby\" links the description to the person or thing. The completed sentence is: The process whereby appeals are reviewed changed after the audit in the grant application.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3211",
+      "level": "C1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The lesson plan, ___ was revised twice, is on file now during the seminar discussion.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The lesson plan, which was revised twice, is on file now during the seminar discussion.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The lesson plan, which was revised twice, is on file now during the seminar discussion.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3212",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The applicant, ___ experience impressed the panel, received an offer on the risk assessment.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The applicant, whose experience impressed the panel, received an offer on the risk assessment.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The applicant, whose experience impressed the panel, received an offer on the risk assessment.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3213",
+      "level": "C1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The point at ___ the argument changes is easy to miss after the interviews are coded.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The point at which the argument changes is easy to miss after the interviews are coded.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The point at which the argument changes is easy to miss after the interviews are coded.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3214",
+      "level": "C1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The researcher to ___ the grant was awarded thanked the assessment committee.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": "whom",
+      "explanation": "\"whom\" links the description to the person or thing. The completed sentence is: The researcher to whom the grant was awarded thanked the assessment committee.",
+      "rationales": {
+        "whom": "\"whom\" links the description to the person or thing. The completed sentence is: The researcher to whom the grant was awarded thanked the assessment committee.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3215",
+      "level": "C1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The process ___ appeals are reviewed changed after the audit in the appendix note.",
+      "options": [
+        "whereby",
+        "where",
+        "which",
+        "what"
+      ],
+      "answer": "whereby",
+      "explanation": "\"whereby\" links the description to the person or thing. The completed sentence is: The process whereby appeals are reviewed changed after the audit in the appendix note.",
+      "rationales": {
+        "whereby": "\"whereby\" links the description to the person or thing. The completed sentence is: The process whereby appeals are reviewed changed after the audit in the appendix note.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3216",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The agenda, ___ was revised twice, is on file now for the advisory brief.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The agenda, which was revised twice, is on file now for the advisory brief.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The agenda, which was revised twice, is on file now for the advisory brief.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3217",
+      "level": "C1",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The applicant, ___ experience impressed the panel, received an offer during the protocol review.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The applicant, whose experience impressed the panel, received an offer during the protocol review.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The applicant, whose experience impressed the panel, received an offer during the protocol review.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3218",
+      "level": "C1",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The point at ___ the argument changes is easy to miss on the evidence table.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The point at which the argument changes is easy to miss on the evidence table.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The point at which the argument changes is easy to miss on the evidence table.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3219",
+      "level": "C1",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The researcher to ___ the grant was awarded thanked the disciplinary committee.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": "whom",
+      "explanation": "\"whom\" links the description to the person or thing. The completed sentence is: The researcher to whom the grant was awarded thanked the disciplinary committee.",
+      "rationales": {
+        "whom": "\"whom\" links the description to the person or thing. The completed sentence is: The researcher to whom the grant was awarded thanked the disciplinary committee.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c1-3220",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The process ___ appeals are reviewed changed after the audit in the assessment rubric.",
+      "options": [
+        "whereby",
+        "where",
+        "which",
+        "what"
+      ],
+      "answer": "whereby",
+      "explanation": "\"whereby\" links the description to the person or thing. The completed sentence is: The process whereby appeals are reviewed changed after the audit in the assessment rubric.",
+      "rationales": {
+        "whereby": "\"whereby\" links the description to the person or thing. The completed sentence is: The process whereby appeals are reviewed changed after the audit in the assessment rubric.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3221",
+      "level": "C2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The conditions under ___ the attendance report was approved will be reviewed next month.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The conditions under which the attendance report was approved will be reviewed next month.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The conditions under which the attendance report was approved will be reviewed next month.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3222",
+      "level": "C2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The tribunal, ___ jurisdiction was challenged, delayed the hearing during the evidentiary hearing.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The tribunal, whose jurisdiction was challenged, delayed the hearing during the evidentiary hearing.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The tribunal, whose jurisdiction was challenged, delayed the hearing during the evidentiary hearing.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3223",
+      "level": "C2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The witnesses, several of ___ challenged the timeline, were recalled before the arbitration panel meets.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": "whom",
+      "explanation": "\"whom\" links the description to the person or thing. The completed sentence is: The witnesses, several of whom challenged the timeline, were recalled before the arbitration panel meets.",
+      "rationales": {
+        "whom": "\"whom\" links the description to the person or thing. The completed sentence is: The witnesses, several of whom challenged the timeline, were recalled before the arbitration panel meets.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3224",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The statute, the meaning of ___ remains contested, was amended twice in the fiduciary briefing.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The statute, the meaning of which remains contested, was amended twice in the fiduciary briefing.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The statute, the meaning of which remains contested, was amended twice in the fiduciary briefing.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3225",
+      "level": "C2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The mechanism ___ the policy affects attendance is still unclear after the methodological critique.",
+      "options": [
+        "whereby",
+        "where",
+        "which",
+        "what"
+      ],
+      "answer": "whereby",
+      "explanation": "\"whereby\" links the description to the person or thing. The completed sentence is: The mechanism whereby the policy affects attendance is still unclear after the methodological critique.",
+      "rationales": {
+        "whereby": "\"whereby\" links the description to the person or thing. The completed sentence is: The mechanism whereby the policy affects attendance is still unclear after the methodological critique.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3226",
+      "level": "C2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The conditions under ___ the chart was approved will be reviewed next month before the precedent is cited.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The conditions under which the chart was approved will be reviewed next month before the precedent is cited.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The conditions under which the chart was approved will be reviewed next month before the precedent is cited.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3227",
+      "level": "C2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The tribunal, ___ jurisdiction was challenged, delayed the hearing in the interpretive framework.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The tribunal, whose jurisdiction was challenged, delayed the hearing in the interpretive framework.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The tribunal, whose jurisdiction was challenged, delayed the hearing in the interpretive framework.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3228",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The witnesses, several of ___ challenged the timeline, were recalled during the appellate review.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": "whom",
+      "explanation": "\"whom\" links the description to the person or thing. The completed sentence is: The witnesses, several of whom challenged the timeline, were recalled during the appellate review.",
+      "rationales": {
+        "whom": "\"whom\" links the description to the person or thing. The completed sentence is: The witnesses, several of whom challenged the timeline, were recalled during the appellate review.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3229",
+      "level": "C2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The statute, the meaning of ___ remains contested, was amended twice in the technical memorandum.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The statute, the meaning of which remains contested, was amended twice in the technical memorandum.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The statute, the meaning of which remains contested, was amended twice in the technical memorandum.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3230",
+      "level": "C2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The mechanism ___ the policy affects attendance is still unclear after the objections are synthesized.",
+      "options": [
+        "whereby",
+        "where",
+        "which",
+        "what"
+      ],
+      "answer": "whereby",
+      "explanation": "\"whereby\" links the description to the person or thing. The completed sentence is: The mechanism whereby the policy affects attendance is still unclear after the objections are synthesized.",
+      "rationales": {
+        "whereby": "\"whereby\" links the description to the person or thing. The completed sentence is: The mechanism whereby the policy affects attendance is still unclear after the objections are synthesized.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3231",
+      "level": "C2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The conditions under ___ the lesson plan was approved will be reviewed next month before the caveat is removed.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The conditions under which the lesson plan was approved will be reviewed next month before the caveat is removed.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The conditions under which the lesson plan was approved will be reviewed next month before the caveat is removed.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3232",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The tribunal, ___ jurisdiction was challenged, delayed the hearing in the published corrigendum.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The tribunal, whose jurisdiction was challenged, delayed the hearing in the published corrigendum.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The tribunal, whose jurisdiction was challenged, delayed the hearing in the published corrigendum.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3233",
+      "level": "C2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The witnesses, several of ___ challenged the timeline, were recalled during the ethics review.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": "whom",
+      "explanation": "\"whom\" links the description to the person or thing. The completed sentence is: The witnesses, several of whom challenged the timeline, were recalled during the ethics review.",
+      "rationales": {
+        "whom": "\"whom\" links the description to the person or thing. The completed sentence is: The witnesses, several of whom challenged the timeline, were recalled during the ethics review.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3234",
+      "level": "C2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The statute, the meaning of ___ remains contested, was amended twice on the counterargument table.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The statute, the meaning of which remains contested, was amended twice on the counterargument table.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The statute, the meaning of which remains contested, was amended twice on the counterargument table.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3235",
+      "level": "C2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The mechanism ___ the policy affects attendance is still unclear before the final adjudication.",
+      "options": [
+        "whereby",
+        "where",
+        "which",
+        "what"
+      ],
+      "answer": "whereby",
+      "explanation": "\"whereby\" links the description to the person or thing. The completed sentence is: The mechanism whereby the policy affects attendance is still unclear before the final adjudication.",
+      "rationales": {
+        "whereby": "\"whereby\" links the description to the person or thing. The completed sentence is: The mechanism whereby the policy affects attendance is still unclear before the final adjudication.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3236",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The conditions under ___ the agenda was approved will be reviewed next month in the statutory analysis.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The conditions under which the agenda was approved will be reviewed next month in the statutory analysis.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The conditions under which the agenda was approved will be reviewed next month in the statutory analysis.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3237",
+      "level": "C2",
+      "setupText": "The sentence gives more information about a person.",
+      "taskText": "The tribunal, ___ jurisdiction was challenged, delayed the hearing during expert testimony.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "where"
+      ],
+      "answer": "whose",
+      "explanation": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The tribunal, whose jurisdiction was challenged, delayed the hearing during expert testimony.",
+      "rationales": {
+        "whose": "\"Whose\" introduces something belonging to the person just mentioned. The completed sentence is: The tribunal, whose jurisdiction was challenged, delayed the hearing during expert testimony.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3238",
+      "level": "C2",
+      "setupText": "Choose the word that connects the extra information.",
+      "taskText": "The witnesses, several of ___ challenged the timeline, were recalled in the compliance addendum.",
+      "options": [
+        "whom",
+        "who",
+        "which",
+        "whose"
+      ],
+      "answer": "whom",
+      "explanation": "\"whom\" links the description to the person or thing. The completed sentence is: The witnesses, several of whom challenged the timeline, were recalled in the compliance addendum.",
+      "rationales": {
+        "whom": "\"whom\" links the description to the person or thing. The completed sentence is: The witnesses, several of whom challenged the timeline, were recalled in the compliance addendum.",
+        "who": "\"who\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "whose": "\"whose\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3239",
+      "level": "C2",
+      "setupText": "Choose the word that shows possession.",
+      "taskText": "The statute, the meaning of ___ remains contested, was amended twice after the longitudinal model is revised.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "answer": "which",
+      "explanation": "\"which\" links the description to the person or thing. The completed sentence is: The statute, the meaning of which remains contested, was amended twice after the longitudinal model is revised.",
+      "rationales": {
+        "which": "\"which\" links the description to the person or thing. The completed sentence is: The statute, the meaning of which remains contested, was amended twice after the longitudinal model is revised.",
+        "that": "\"that\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun.",
+        "where": "\"where\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-relative-clauses-c2-3240",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The mechanism ___ the policy affects attendance is still unclear before the ruling is issued.",
+      "options": [
+        "whereby",
+        "where",
+        "which",
+        "what"
+      ],
+      "answer": "whereby",
+      "explanation": "\"whereby\" links the description to the person or thing. The completed sentence is: The mechanism whereby the policy affects attendance is still unclear before the ruling is issued.",
+      "rationales": {
+        "whereby": "\"whereby\" links the description to the person or thing. The completed sentence is: The mechanism whereby the policy affects attendance is still unclear before the ruling is issued.",
+        "where": "\"where\" does not correctly link the added information to the noun.",
+        "which": "\"which\" does not correctly link the added information to the noun.",
+        "what": "\"what\" does not correctly link the added information to the noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

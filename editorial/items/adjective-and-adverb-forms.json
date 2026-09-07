@@ -1,0 +1,2766 @@
+{
+  "topic": "Adjective and adverb forms",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-121",
+      "level": "A1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "Mina gave a ___ answer to the teacher.",
+      "options": [
+        "clear",
+        "clearly",
+        "clarity",
+        "very clearly"
+      ],
+      "answer": "clear",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Mina gave a clear answer to the teacher.",
+      "rationales": {
+        "clear": "The describing word must fit what it describes. The completed sentence is: Mina gave a clear answer to the teacher.",
+        "clearly": "\"clearly\" does not describe the right word correctly.",
+        "clarity": "\"clarity\" does not describe the right word correctly.",
+        "very clearly": "\"very clearly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-122",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Carlos made a ___ stop near the clinic.",
+      "options": [
+        "quick",
+        "quickly",
+        "quickness",
+        "very quickly"
+      ],
+      "answer": "quick",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Carlos made a quick stop near the clinic.",
+      "rationales": {
+        "quick": "The describing word must fit what it describes. The completed sentence is: Carlos made a quick stop near the clinic.",
+        "quickly": "\"quickly\" does not describe the right word correctly.",
+        "quickness": "\"quickness\" does not describe the right word correctly.",
+        "very quickly": "\"very quickly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-123",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Aiko found a ___ place to study.",
+      "options": [
+        "quiet",
+        "quietly",
+        "quietness",
+        "very quietly"
+      ],
+      "answer": "quiet",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Aiko found a quiet place to study.",
+      "rationales": {
+        "quiet": "The describing word must fit what it describes. The completed sentence is: Aiko found a quiet place to study.",
+        "quietly": "\"quietly\" does not describe the right word correctly.",
+        "quietness": "\"quietness\" does not describe the right word correctly.",
+        "very quietly": "\"very quietly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-124",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Nadia is a ___ partner in class.",
+      "options": [
+        "careful",
+        "carefully",
+        "carefulness",
+        "very carefully"
+      ],
+      "answer": "careful",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Nadia is a careful partner in class.",
+      "rationales": {
+        "careful": "The describing word must fit what it describes. The completed sentence is: Nadia is a careful partner in class.",
+        "carefully": "\"carefully\" does not describe the right word correctly.",
+        "carefulness": "\"carefulness\" does not describe the right word correctly.",
+        "very carefully": "\"very carefully\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-125",
+      "level": "A1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "Omar wrote a ___ note for the new student.",
+      "options": [
+        "helpful",
+        "helpfully",
+        "helpfulness",
+        "very helpfully"
+      ],
+      "answer": "helpful",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Omar wrote a helpful note for the new student.",
+      "rationales": {
+        "helpful": "The describing word must fit what it describes. The completed sentence is: Omar wrote a helpful note for the new student.",
+        "helpfully": "\"helpfully\" does not describe the right word correctly.",
+        "helpfulness": "\"helpfulness\" does not describe the right word correctly.",
+        "very helpfully": "\"very helpfully\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-126",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Lena chose a ___ question for practice.",
+      "options": [
+        "simple",
+        "simply",
+        "simplicity",
+        "very simply"
+      ],
+      "answer": "simple",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Lena chose a simple question for practice.",
+      "rationales": {
+        "simple": "The describing word must fit what it describes. The completed sentence is: Lena chose a simple question for practice.",
+        "simply": "\"simply\" does not describe the right word correctly.",
+        "simplicity": "\"simplicity\" does not describe the right word correctly.",
+        "very simply": "\"very simply\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-127",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Sofia gave a ___ reply at the counter.",
+      "options": [
+        "polite",
+        "politely",
+        "politeness",
+        "very politely"
+      ],
+      "answer": "polite",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Sofia gave a polite reply at the counter.",
+      "rationales": {
+        "polite": "The describing word must fit what it describes. The completed sentence is: Sofia gave a polite reply at the counter.",
+        "politely": "\"politely\" does not describe the right word correctly.",
+        "politeness": "\"politeness\" does not describe the right word correctly.",
+        "very politely": "\"very politely\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-128",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Daniel wrote an ___ address on the form.",
+      "options": [
+        "accurate",
+        "accurately",
+        "accuracy",
+        "very accurately"
+      ],
+      "answer": "accurate",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Daniel wrote an accurate address on the form.",
+      "rationales": {
+        "accurate": "The describing word must fit what it describes. The completed sentence is: Daniel wrote an accurate address on the form.",
+        "accurately": "\"accurately\" does not describe the right word correctly.",
+        "accuracy": "\"accuracy\" does not describe the right word correctly.",
+        "very accurately": "\"very accurately\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-129",
+      "level": "A1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "Rina found a ___ route to school.",
+      "options": [
+        "safe",
+        "safely",
+        "safety",
+        "very safely"
+      ],
+      "answer": "safe",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Rina found a safe route to school.",
+      "rationales": {
+        "safe": "The describing word must fit what it describes. The completed sentence is: Rina found a safe route to school.",
+        "safely": "\"safely\" does not describe the right word correctly.",
+        "safety": "\"safety\" does not describe the right word correctly.",
+        "very safely": "\"very safely\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-130",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Mateo gave the class a ___ example.",
+      "options": [
+        "useful",
+        "usefully",
+        "usefulness",
+        "very usefully"
+      ],
+      "answer": "useful",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Mateo gave the class a useful example.",
+      "rationales": {
+        "useful": "The describing word must fit what it describes. The completed sentence is: Mateo gave the class a useful example.",
+        "usefully": "\"usefully\" does not describe the right word correctly.",
+        "usefulness": "\"usefulness\" does not describe the right word correctly.",
+        "very usefully": "\"very usefully\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-131",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Hana wrote a ___ email about the schedule.",
+      "options": [
+        "formal",
+        "formally",
+        "formality",
+        "very formally"
+      ],
+      "answer": "formal",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Hana wrote a formal email about the schedule.",
+      "rationales": {
+        "formal": "The describing word must fit what it describes. The completed sentence is: Hana wrote a formal email about the schedule.",
+        "formally": "\"formally\" does not describe the right word correctly.",
+        "formality": "\"formality\" does not describe the right word correctly.",
+        "very formally": "\"very formally\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-132",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Jonas has a ___ lesson on Mondays.",
+      "options": [
+        "regular",
+        "regularly",
+        "regularity",
+        "very regularly"
+      ],
+      "answer": "regular",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Jonas has a regular lesson on Mondays.",
+      "rationales": {
+        "regular": "The describing word must fit what it describes. The completed sentence is: Jonas has a regular lesson on Mondays.",
+        "regularly": "\"regularly\" does not describe the right word correctly.",
+        "regularity": "\"regularity\" does not describe the right word correctly.",
+        "very regularly": "\"very regularly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-133",
+      "level": "A1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "Priya used a ___ voice with the child.",
+      "options": [
+        "calm",
+        "calmly",
+        "calmness",
+        "very calmly"
+      ],
+      "answer": "calm",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Priya used a calm voice with the child.",
+      "rationales": {
+        "calm": "The describing word must fit what it describes. The completed sentence is: Priya used a calm voice with the child.",
+        "calmly": "\"calmly\" does not describe the right word correctly.",
+        "calmness": "\"calmness\" does not describe the right word correctly.",
+        "very calmly": "\"very calmly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-134",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Kenji gave an ___ answer after the mistake.",
+      "options": [
+        "honest",
+        "honestly",
+        "honesty",
+        "very honestly"
+      ],
+      "answer": "honest",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Kenji gave an honest answer after the mistake.",
+      "rationales": {
+        "honest": "The describing word must fit what it describes. The completed sentence is: Kenji gave an honest answer after the mistake.",
+        "honestly": "\"honestly\" does not describe the right word correctly.",
+        "honesty": "\"honesty\" does not describe the right word correctly.",
+        "very honestly": "\"very honestly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-135",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Sara kept a ___ pace during the walk.",
+      "options": [
+        "steady",
+        "steadily",
+        "steadiness",
+        "very steadily"
+      ],
+      "answer": "steady",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Sara kept a steady pace during the walk.",
+      "rationales": {
+        "steady": "The describing word must fit what it describes. The completed sentence is: Sara kept a steady pace during the walk.",
+        "steadily": "\"steadily\" does not describe the right word correctly.",
+        "steadiness": "\"steadiness\" does not describe the right word correctly.",
+        "very steadily": "\"very steadily\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-136",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis wrote a ___ message on the board.",
+      "options": [
+        "brief",
+        "briefly",
+        "brevity",
+        "very briefly"
+      ],
+      "answer": "brief",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Luis wrote a brief message on the board.",
+      "rationales": {
+        "brief": "The describing word must fit what it describes. The completed sentence is: Luis wrote a brief message on the board.",
+        "briefly": "\"briefly\" does not describe the right word correctly.",
+        "brevity": "\"brevity\" does not describe the right word correctly.",
+        "very briefly": "\"very briefly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-137",
+      "level": "A1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "Emma gave a ___ answer at the desk.",
+      "options": [
+        "direct",
+        "directly",
+        "directness",
+        "very directly"
+      ],
+      "answer": "direct",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Emma gave a direct answer at the desk.",
+      "rationales": {
+        "direct": "The describing word must fit what it describes. The completed sentence is: Emma gave a direct answer at the desk.",
+        "directly": "\"directly\" does not describe the right word correctly.",
+        "directness": "\"directness\" does not describe the right word correctly.",
+        "very directly": "\"very directly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-138",
+      "level": "A1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Noah suggested a ___ plan for lunch.",
+      "options": [
+        "practical",
+        "practically",
+        "practicality",
+        "very practically"
+      ],
+      "answer": "practical",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Noah suggested a practical plan for lunch.",
+      "rationales": {
+        "practical": "The describing word must fit what it describes. The completed sentence is: Noah suggested a practical plan for lunch.",
+        "practically": "\"practically\" does not describe the right word correctly.",
+        "practicality": "\"practicality\" does not describe the right word correctly.",
+        "very practically": "\"very practically\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-139",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Yara found a ___ printer near the window.",
+      "options": [
+        "reliable",
+        "reliably",
+        "reliability",
+        "very reliably"
+      ],
+      "answer": "reliable",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Yara found a reliable printer near the window.",
+      "rationales": {
+        "reliable": "The describing word must fit what it describes. The completed sentence is: Yara found a reliable printer near the window.",
+        "reliably": "\"reliably\" does not describe the right word correctly.",
+        "reliability": "\"reliability\" does not describe the right word correctly.",
+        "very reliably": "\"very reliably\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a1-140",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Theo submitted a ___ form before class.",
+      "options": [
+        "complete",
+        "completely",
+        "completeness",
+        "very completely"
+      ],
+      "answer": "complete",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Theo submitted a complete form before class.",
+      "rationales": {
+        "complete": "The describing word must fit what it describes. The completed sentence is: Theo submitted a complete form before class.",
+        "completely": "\"completely\" does not describe the right word correctly.",
+        "completeness": "\"completeness\" does not describe the right word correctly.",
+        "very completely": "\"very completely\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-141",
+      "level": "A2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "Mina explained the answer ___.",
+      "options": [
+        "clearly",
+        "clear",
+        "clarity",
+        "very clear"
+      ],
+      "answer": "clearly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Mina explained the answer clearly.",
+      "rationales": {
+        "clearly": "The describing word must fit what it describes. The completed sentence is: Mina explained the answer clearly.",
+        "clear": "\"clear\" does not describe the right word correctly.",
+        "clarity": "\"clarity\" does not describe the right word correctly.",
+        "very clear": "\"very clear\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-142",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Carlos closed the door ___ after the lesson.",
+      "options": [
+        "quickly",
+        "quick",
+        "quickness",
+        "very quick"
+      ],
+      "answer": "quickly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Carlos closed the door quickly after the lesson.",
+      "rationales": {
+        "quickly": "The describing word must fit what it describes. The completed sentence is: Carlos closed the door quickly after the lesson.",
+        "quick": "\"quick\" does not describe the right word correctly.",
+        "quickness": "\"quickness\" does not describe the right word correctly.",
+        "very quick": "\"very quick\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-143",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Aiko entered the room ___ during the test.",
+      "options": [
+        "quietly",
+        "quiet",
+        "quietness",
+        "very quiet"
+      ],
+      "answer": "quietly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Aiko entered the room quietly during the test.",
+      "rationales": {
+        "quietly": "The describing word must fit what it describes. The completed sentence is: Aiko entered the room quietly during the test.",
+        "quiet": "\"quiet\" does not describe the right word correctly.",
+        "quietness": "\"quietness\" does not describe the right word correctly.",
+        "very quiet": "\"very quiet\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-144",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Nadia checked the address ___ before sending it.",
+      "options": [
+        "carefully",
+        "careful",
+        "carefulness",
+        "very careful"
+      ],
+      "answer": "carefully",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Nadia checked the address carefully before sending it.",
+      "rationales": {
+        "carefully": "The describing word must fit what it describes. The completed sentence is: Nadia checked the address carefully before sending it.",
+        "careful": "\"careful\" does not describe the right word correctly.",
+        "carefulness": "\"carefulness\" does not describe the right word correctly.",
+        "very careful": "\"very careful\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-145",
+      "level": "A2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "Omar explained the rule ___ to the new student.",
+      "options": [
+        "helpfully",
+        "helpful",
+        "helpfulness",
+        "very helpful"
+      ],
+      "answer": "helpfully",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Omar explained the rule helpfully to the new student.",
+      "rationales": {
+        "helpfully": "The describing word must fit what it describes. The completed sentence is: Omar explained the rule helpfully to the new student.",
+        "helpful": "\"helpful\" does not describe the right word correctly.",
+        "helpfulness": "\"helpfulness\" does not describe the right word correctly.",
+        "very helpful": "\"very helpful\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-146",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Lena described the step ___.",
+      "options": [
+        "simply",
+        "simple",
+        "simplicity",
+        "very simple"
+      ],
+      "answer": "simply",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Lena described the step simply.",
+      "rationales": {
+        "simply": "The describing word must fit what it describes. The completed sentence is: Lena described the step simply.",
+        "simple": "\"simple\" does not describe the right word correctly.",
+        "simplicity": "\"simplicity\" does not describe the right word correctly.",
+        "very simple": "\"very simple\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-147",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Sofia asked for help ___ at the counter.",
+      "options": [
+        "politely",
+        "polite",
+        "politeness",
+        "very polite"
+      ],
+      "answer": "politely",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Sofia asked for help politely at the counter.",
+      "rationales": {
+        "politely": "The describing word must fit what it describes. The completed sentence is: Sofia asked for help politely at the counter.",
+        "polite": "\"polite\" does not describe the right word correctly.",
+        "politeness": "\"politeness\" does not describe the right word correctly.",
+        "very polite": "\"very polite\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-148",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Daniel copied the number ___ from the screen.",
+      "options": [
+        "accurately",
+        "accurate",
+        "accuracy",
+        "very accurate"
+      ],
+      "answer": "accurately",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Daniel copied the number accurately from the screen.",
+      "rationales": {
+        "accurately": "The describing word must fit what it describes. The completed sentence is: Daniel copied the number accurately from the screen.",
+        "accurate": "\"accurate\" does not describe the right word correctly.",
+        "accuracy": "\"accuracy\" does not describe the right word correctly.",
+        "very accurate": "\"very accurate\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-149",
+      "level": "A2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "Rina carried the glass ___ to the table.",
+      "options": [
+        "safely",
+        "safe",
+        "safety",
+        "very safe"
+      ],
+      "answer": "safely",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Rina carried the glass safely to the table.",
+      "rationales": {
+        "safely": "The describing word must fit what it describes. The completed sentence is: Rina carried the glass safely to the table.",
+        "safe": "\"safe\" does not describe the right word correctly.",
+        "safety": "\"safety\" does not describe the right word correctly.",
+        "very safe": "\"very safe\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-150",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The guide ___ explains the route for new visitors on the student portal.",
+      "options": [
+        "usefully",
+        "useful",
+        "usefulness",
+        "very useful"
+      ],
+      "answer": "usefully",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The guide usefully explains the route for new visitors on the student portal.",
+      "rationales": {
+        "usefully": "The describing word must fit what it describes. The completed sentence is: The guide usefully explains the route for new visitors on the student portal.",
+        "useful": "\"useful\" does not describe the right word correctly.",
+        "usefulness": "\"usefulness\" does not describe the right word correctly.",
+        "very useful": "\"very useful\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-151",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Hana wrote the formal letter ___.",
+      "options": [
+        "formally",
+        "formal",
+        "formality",
+        "very formal"
+      ],
+      "answer": "formally",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Hana wrote the formal letter formally.",
+      "rationales": {
+        "formally": "The describing word must fit what it describes. The completed sentence is: Hana wrote the formal letter formally.",
+        "formal": "\"formal\" does not describe the right word correctly.",
+        "formality": "\"formality\" does not describe the right word correctly.",
+        "very formal": "\"very formal\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-152",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Jonas attends the evening class ___.",
+      "options": [
+        "regularly",
+        "regular",
+        "regularity",
+        "very regular"
+      ],
+      "answer": "regularly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Jonas attends the evening class regularly.",
+      "rationales": {
+        "regularly": "The describing word must fit what it describes. The completed sentence is: Jonas attends the evening class regularly.",
+        "regular": "\"regular\" does not describe the right word correctly.",
+        "regularity": "\"regularity\" does not describe the right word correctly.",
+        "very regular": "\"very regular\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-153",
+      "level": "A2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "Priya waited ___ while the clerk searched.",
+      "options": [
+        "calmly",
+        "calm",
+        "calmness",
+        "very calm"
+      ],
+      "answer": "calmly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Priya waited calmly while the clerk searched.",
+      "rationales": {
+        "calmly": "The describing word must fit what it describes. The completed sentence is: Priya waited calmly while the clerk searched.",
+        "calm": "\"calm\" does not describe the right word correctly.",
+        "calmness": "\"calmness\" does not describe the right word correctly.",
+        "very calm": "\"very calm\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-154",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Kenji answered ___ when the nurse asked.",
+      "options": [
+        "honestly",
+        "honest",
+        "honesty",
+        "very honest"
+      ],
+      "answer": "honestly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Kenji answered honestly when the nurse asked.",
+      "rationales": {
+        "honestly": "The describing word must fit what it describes. The completed sentence is: Kenji answered honestly when the nurse asked.",
+        "honest": "\"honest\" does not describe the right word correctly.",
+        "honesty": "\"honesty\" does not describe the right word correctly.",
+        "very honest": "\"very honest\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-155",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Attendance increased ___ during the month before the review quiz.",
+      "options": [
+        "steadily",
+        "steady",
+        "steadiness",
+        "very steady"
+      ],
+      "answer": "steadily",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Attendance increased steadily during the month before the review quiz.",
+      "rationales": {
+        "steadily": "The describing word must fit what it describes. The completed sentence is: Attendance increased steadily during the month before the review quiz.",
+        "steady": "\"steady\" does not describe the right word correctly.",
+        "steadiness": "\"steadiness\" does not describe the right word correctly.",
+        "very steady": "\"very steady\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-156",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis summarized the message ___.",
+      "options": [
+        "briefly",
+        "brief",
+        "brevity",
+        "very brief"
+      ],
+      "answer": "briefly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Luis summarized the message briefly.",
+      "rationales": {
+        "briefly": "The describing word must fit what it describes. The completed sentence is: Luis summarized the message briefly.",
+        "brief": "\"brief\" does not describe the right word correctly.",
+        "brevity": "\"brevity\" does not describe the right word correctly.",
+        "very brief": "\"very brief\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-157",
+      "level": "A2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "Emma gave the directions ___ to the visitor.",
+      "options": [
+        "directly",
+        "direct",
+        "directness",
+        "very direct"
+      ],
+      "answer": "directly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Emma gave the directions directly to the visitor.",
+      "rationales": {
+        "directly": "The describing word must fit what it describes. The completed sentence is: Emma gave the directions directly to the visitor.",
+        "direct": "\"direct\" does not describe the right word correctly.",
+        "directness": "\"directness\" does not describe the right word correctly.",
+        "very direct": "\"very direct\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-158",
+      "level": "A2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "Noah was ___ ready before lunch.",
+      "options": [
+        "practically",
+        "practical",
+        "practicality",
+        "very practical"
+      ],
+      "answer": "practically",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Noah was practically ready before lunch.",
+      "rationales": {
+        "practically": "The describing word must fit what it describes. The completed sentence is: Noah was practically ready before lunch.",
+        "practical": "\"practical\" does not describe the right word correctly.",
+        "practicality": "\"practicality\" does not describe the right word correctly.",
+        "very practical": "\"very practical\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-159",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The help desk replied ___ after each request during pair practice.",
+      "options": [
+        "reliably",
+        "reliable",
+        "reliability",
+        "very reliable"
+      ],
+      "answer": "reliably",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The help desk replied reliably after each request during pair practice.",
+      "rationales": {
+        "reliably": "The describing word must fit what it describes. The completed sentence is: The help desk replied reliably after each request during pair practice.",
+        "reliable": "\"reliable\" does not describe the right word correctly.",
+        "reliability": "\"reliability\" does not describe the right word correctly.",
+        "very reliable": "\"very reliable\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-a2-160",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Theo finished the checklist ___.",
+      "options": [
+        "completely",
+        "complete",
+        "completeness",
+        "very complete"
+      ],
+      "answer": "completely",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Theo finished the checklist completely.",
+      "rationales": {
+        "completely": "The describing word must fit what it describes. The completed sentence is: Theo finished the checklist completely.",
+        "complete": "\"complete\" does not describe the right word correctly.",
+        "completeness": "\"completeness\" does not describe the right word correctly.",
+        "very complete": "\"very complete\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-161",
+      "level": "B1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The reports were written ___ for beginners for the orientation group.",
+      "options": [
+        "clearly",
+        "clear",
+        "clarity",
+        "very clear"
+      ],
+      "answer": "clearly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The reports were written clearly for beginners for the orientation group.",
+      "rationales": {
+        "clearly": "The describing word must fit what it describes. The completed sentence is: The reports were written clearly for beginners for the orientation group.",
+        "clear": "\"clear\" does not describe the right word correctly.",
+        "clarity": "\"clarity\" does not describe the right word correctly.",
+        "very clear": "\"very clear\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-162",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The clerk handled the complaint ___ after the call during the staff meeting.",
+      "options": [
+        "quickly",
+        "quick",
+        "quickness",
+        "very quick"
+      ],
+      "answer": "quickly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The clerk handled the complaint quickly after the call during the staff meeting.",
+      "rationales": {
+        "quickly": "The describing word must fit what it describes. The completed sentence is: The clerk handled the complaint quickly after the call during the staff meeting.",
+        "quick": "\"quick\" does not describe the right word correctly.",
+        "quickness": "\"quickness\" does not describe the right word correctly.",
+        "very quick": "\"very quick\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-163",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The students worked ___ during the reading hour before the client call.",
+      "options": [
+        "quietly",
+        "quiet",
+        "quietness",
+        "very quiet"
+      ],
+      "answer": "quietly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The students worked quietly during the reading hour before the client call.",
+      "rationales": {
+        "quietly": "The describing word must fit what it describes. The completed sentence is: The students worked quietly during the reading hour before the client call.",
+        "quiet": "\"quiet\" does not describe the right word correctly.",
+        "quietness": "\"quietness\" does not describe the right word correctly.",
+        "very quiet": "\"very quiet\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-164",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The tutor marked the essays ___ before lunch in the course update.",
+      "options": [
+        "carefully",
+        "careful",
+        "carefulness",
+        "very careful"
+      ],
+      "answer": "carefully",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The tutor marked the essays carefully before lunch in the course update.",
+      "rationales": {
+        "carefully": "The describing word must fit what it describes. The completed sentence is: The tutor marked the essays carefully before lunch in the course update.",
+        "careful": "\"careful\" does not describe the right word correctly.",
+        "carefulness": "\"carefulness\" does not describe the right word correctly.",
+        "very careful": "\"very careful\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-165",
+      "level": "B1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The shift manager spoke ___ during the meeting.",
+      "options": [
+        "helpfully",
+        "helpful",
+        "helpfulness",
+        "very helpful"
+      ],
+      "answer": "helpfully",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The shift manager spoke helpfully during the meeting.",
+      "rationales": {
+        "helpfully": "The describing word must fit what it describes. The completed sentence is: The shift manager spoke helpfully during the meeting.",
+        "helpful": "\"helpful\" does not describe the right word correctly.",
+        "helpfulness": "\"helpfulness\" does not describe the right word correctly.",
+        "very helpful": "\"very helpful\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-166",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The chart explains the process ___ for new learners during the safety briefing.",
+      "options": [
+        "simply",
+        "simple",
+        "simplicity",
+        "very simple"
+      ],
+      "answer": "simply",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The chart explains the process simply for new learners during the safety briefing.",
+      "rationales": {
+        "simply": "The describing word must fit what it describes. The completed sentence is: The chart explains the process simply for new learners during the safety briefing.",
+        "simple": "\"simple\" does not describe the right word correctly.",
+        "simplicity": "\"simplicity\" does not describe the right word correctly.",
+        "very simple": "\"very simple\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-167",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The receptionist answered the questions ___ despite the line for the department update.",
+      "options": [
+        "politely",
+        "polite",
+        "politeness",
+        "very polite"
+      ],
+      "answer": "politely",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The receptionist answered the questions politely despite the line for the department update.",
+      "rationales": {
+        "politely": "The describing word must fit what it describes. The completed sentence is: The receptionist answered the questions politely despite the line for the department update.",
+        "polite": "\"polite\" does not describe the right word correctly.",
+        "politeness": "\"politeness\" does not describe the right word correctly.",
+        "very polite": "\"very polite\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-168",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The clerk copied the figures ___ into the file before the application review.",
+      "options": [
+        "accurately",
+        "accurate",
+        "accuracy",
+        "very accurate"
+      ],
+      "answer": "accurately",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The clerk copied the figures accurately into the file before the application review.",
+      "rationales": {
+        "accurately": "The describing word must fit what it describes. The completed sentence is: The clerk copied the figures accurately into the file before the application review.",
+        "accurate": "\"accurate\" does not describe the right word correctly.",
+        "accuracy": "\"accuracy\" does not describe the right word correctly.",
+        "very accurate": "\"very accurate\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-169",
+      "level": "B1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The trainer demonstrated the task ___ for the new group in the weekly summary.",
+      "options": [
+        "safely",
+        "safe",
+        "safety",
+        "very safe"
+      ],
+      "answer": "safely",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The trainer demonstrated the task safely for the new group in the weekly summary.",
+      "rationales": {
+        "safely": "The describing word must fit what it describes. The completed sentence is: The trainer demonstrated the task safely for the new group in the weekly summary.",
+        "safe": "\"safe\" does not describe the right word correctly.",
+        "safety": "\"safety\" does not describe the right word correctly.",
+        "very safe": "\"very safe\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-170",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The guide describes the process ___ on page two after the survey closed.",
+      "options": [
+        "usefully",
+        "useful",
+        "usefulness",
+        "very useful"
+      ],
+      "answer": "usefully",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The guide describes the process usefully on page two after the survey closed.",
+      "rationales": {
+        "usefully": "The describing word must fit what it describes. The completed sentence is: The guide describes the process usefully on page two after the survey closed.",
+        "useful": "\"useful\" does not describe the right word correctly.",
+        "usefulness": "\"usefulness\" does not describe the right word correctly.",
+        "very useful": "\"very useful\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-171",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The finance office announced the deadline ___ in the staff update.",
+      "options": [
+        "formally",
+        "formal",
+        "formality",
+        "very formal"
+      ],
+      "answer": "formally",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The finance office announced the deadline formally in the staff update.",
+      "rationales": {
+        "formally": "The describing word must fit what it describes. The completed sentence is: The finance office announced the deadline formally in the staff update.",
+        "formal": "\"formal\" does not describe the right word correctly.",
+        "formality": "\"formality\" does not describe the right word correctly.",
+        "very formal": "\"very formal\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-172",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The small class meets ___ for writing practice.",
+      "options": [
+        "regularly",
+        "regular",
+        "regularity",
+        "very regular"
+      ],
+      "answer": "regularly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The small class meets regularly for writing practice.",
+      "rationales": {
+        "regularly": "The describing word must fit what it describes. The completed sentence is: The small class meets regularly for writing practice.",
+        "regular": "\"regular\" does not describe the right word correctly.",
+        "regularity": "\"regularity\" does not describe the right word correctly.",
+        "very regular": "\"very regular\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-173",
+      "level": "B1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The volunteer reported the problem ___ to the program office.",
+      "options": [
+        "calmly",
+        "calm",
+        "calmness",
+        "very calm"
+      ],
+      "answer": "calmly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The volunteer reported the problem calmly to the program office.",
+      "rationales": {
+        "calmly": "The describing word must fit what it describes. The completed sentence is: The volunteer reported the problem calmly to the program office.",
+        "calm": "\"calm\" does not describe the right word correctly.",
+        "calmness": "\"calmness\" does not describe the right word correctly.",
+        "very calm": "\"very calm\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-174",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The adviser replied ___ to the student's question in the student handbook.",
+      "options": [
+        "honestly",
+        "honest",
+        "honesty",
+        "very honest"
+      ],
+      "answer": "honestly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The adviser replied honestly to the student's question in the student handbook.",
+      "rationales": {
+        "honestly": "The describing word must fit what it describes. The completed sentence is: The adviser replied honestly to the student's question in the student handbook.",
+        "honest": "\"honest\" does not describe the right word correctly.",
+        "honesty": "\"honesty\" does not describe the right word correctly.",
+        "very honest": "\"very honest\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-175",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Attendance rose ___ during the first week after the policy reminder.",
+      "options": [
+        "steadily",
+        "steady",
+        "steadiness",
+        "very steady"
+      ],
+      "answer": "steadily",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: Attendance rose steadily during the first week after the policy reminder.",
+      "rationales": {
+        "steadily": "The describing word must fit what it describes. The completed sentence is: Attendance rose steadily during the first week after the policy reminder.",
+        "steady": "\"steady\" does not describe the right word correctly.",
+        "steadiness": "\"steadiness\" does not describe the right word correctly.",
+        "very steady": "\"very steady\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-176",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The assistant summarized the issue ___ for the team during the support call.",
+      "options": [
+        "briefly",
+        "brief",
+        "brevity",
+        "very brief"
+      ],
+      "answer": "briefly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The assistant summarized the issue briefly for the team during the support call.",
+      "rationales": {
+        "briefly": "The describing word must fit what it describes. The completed sentence is: The assistant summarized the issue briefly for the team during the support call.",
+        "brief": "\"brief\" does not describe the right word correctly.",
+        "brevity": "\"brevity\" does not describe the right word correctly.",
+        "very brief": "\"very brief\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-177",
+      "level": "B1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The math teacher corrected the example ___ on the board.",
+      "options": [
+        "directly",
+        "direct",
+        "directness",
+        "very direct"
+      ],
+      "answer": "directly",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The math teacher corrected the example directly on the board.",
+      "rationales": {
+        "directly": "The describing word must fit what it describes. The completed sentence is: The math teacher corrected the example directly on the board.",
+        "direct": "\"direct\" does not describe the right word correctly.",
+        "directness": "\"directness\" does not describe the right word correctly.",
+        "very direct": "\"very direct\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-178",
+      "level": "B1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The plan was ___ impossible after the budget cut before the documents are filed.",
+      "options": [
+        "practically",
+        "practical",
+        "practicality",
+        "very practical"
+      ],
+      "answer": "practically",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The plan was practically impossible after the budget cut before the documents are filed.",
+      "rationales": {
+        "practically": "The describing word must fit what it describes. The completed sentence is: The plan was practically impossible after the budget cut before the documents are filed.",
+        "practical": "\"practical\" does not describe the right word correctly.",
+        "practicality": "\"practicality\" does not describe the right word correctly.",
+        "very practical": "\"very practical\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-179",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The records were stored ___ after the move in the project checklist.",
+      "options": [
+        "reliably",
+        "reliable",
+        "reliability",
+        "very reliable"
+      ],
+      "answer": "reliably",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The records were stored reliably after the move in the project checklist.",
+      "rationales": {
+        "reliably": "The describing word must fit what it describes. The completed sentence is: The records were stored reliably after the move in the project checklist.",
+        "reliable": "\"reliable\" does not describe the right word correctly.",
+        "reliability": "\"reliability\" does not describe the right word correctly.",
+        "very reliable": "\"very reliable\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b1-180",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The packet was prepared ___ before registration after the tutor's explanation.",
+      "options": [
+        "completely",
+        "complete",
+        "completeness",
+        "very complete"
+      ],
+      "answer": "completely",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The packet was prepared completely before registration after the tutor's explanation.",
+      "rationales": {
+        "completely": "The describing word must fit what it describes. The completed sentence is: The packet was prepared completely before registration after the tutor's explanation.",
+        "complete": "\"complete\" does not describe the right word correctly.",
+        "completeness": "\"completeness\" does not describe the right word correctly.",
+        "very complete": "\"very complete\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-181",
+      "level": "B2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The new report is ___ than the old one for the audit file.",
+      "options": [
+        "clearer",
+        "clearly",
+        "most clear",
+        "clarity"
+      ],
+      "answer": "clearer",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The new report is clearer than the old one for the audit file.",
+      "rationales": {
+        "clearer": "The describing word must fit what it describes. The completed sentence is: The new report is clearer than the old one for the audit file.",
+        "clearly": "\"clearly\" does not describe the right word correctly.",
+        "most clear": "\"most clear\" does not describe the right word correctly.",
+        "clarity": "\"clarity\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-182",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The revised signup process is ___ than the old one during the policy review.",
+      "options": [
+        "quicker",
+        "quickly",
+        "most quick",
+        "quickness"
+      ],
+      "answer": "quicker",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The revised signup process is quicker than the old one during the policy review.",
+      "rationales": {
+        "quicker": "The describing word must fit what it describes. The completed sentence is: The revised signup process is quicker than the old one during the policy review.",
+        "quickly": "\"quickly\" does not describe the right word correctly.",
+        "most quick": "\"most quick\" does not describe the right word correctly.",
+        "quickness": "\"quickness\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-183",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The new study room is ___ than the hallway before the budget meeting.",
+      "options": [
+        "quieter",
+        "quietly",
+        "most quiet",
+        "quietness"
+      ],
+      "answer": "quieter",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The new study room is quieter than the hallway before the budget meeting.",
+      "rationales": {
+        "quieter": "The describing word must fit what it describes. The completed sentence is: The new study room is quieter than the hallway before the budget meeting.",
+        "quietly": "\"quietly\" does not describe the right word correctly.",
+        "most quiet": "\"most quiet\" does not describe the right word correctly.",
+        "quietness": "\"quietness\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-184",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The second procedure is ___ than the informal workaround in the manager's briefing.",
+      "options": [
+        "more careful",
+        "carefully",
+        "most careful",
+        "carefulness"
+      ],
+      "answer": "more careful",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The second procedure is more careful than the informal workaround in the manager's briefing.",
+      "rationales": {
+        "more careful": "The describing word must fit what it describes. The completed sentence is: The second procedure is more careful than the informal workaround in the manager's briefing.",
+        "carefully": "\"carefully\" does not describe the right word correctly.",
+        "most careful": "\"most careful\" does not describe the right word correctly.",
+        "carefulness": "\"carefulness\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-185",
+      "level": "B2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The shift manager's reply was ___ than the earlier message.",
+      "options": [
+        "more helpful",
+        "helpfully",
+        "most helpful",
+        "helpfulness"
+      ],
+      "answer": "more helpful",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The shift manager's reply was more helpful than the earlier message.",
+      "rationales": {
+        "more helpful": "The describing word must fit what it describes. The completed sentence is: The shift manager's reply was more helpful than the earlier message.",
+        "helpfully": "\"helpfully\" does not describe the right word correctly.",
+        "most helpful": "\"most helpful\" does not describe the right word correctly.",
+        "helpfulness": "\"helpfulness\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-186",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The new form is ___ than the paper packet during the data check.",
+      "options": [
+        "simpler",
+        "simply",
+        "most simple",
+        "simplicity"
+      ],
+      "answer": "simpler",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The new form is simpler than the paper packet during the data check.",
+      "rationales": {
+        "simpler": "The describing word must fit what it describes. The completed sentence is: The new form is simpler than the paper packet during the data check.",
+        "simply": "\"simply\" does not describe the right word correctly.",
+        "most simple": "\"most simple\" does not describe the right word correctly.",
+        "simplicity": "\"simplicity\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-187",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The receptionist's reply was ___ than the first answer for the training portal.",
+      "options": [
+        "more polite",
+        "politely",
+        "most polite",
+        "politeness"
+      ],
+      "answer": "more polite",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The receptionist's reply was more polite than the first answer for the training portal.",
+      "rationales": {
+        "more polite": "The describing word must fit what it describes. The completed sentence is: The receptionist's reply was more polite than the first answer for the training portal.",
+        "politely": "\"politely\" does not describe the right word correctly.",
+        "most polite": "\"most polite\" does not describe the right word correctly.",
+        "politeness": "\"politeness\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-188",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The final estimate is ___ than the rough total before the contract is signed.",
+      "options": [
+        "accurater",
+        "accurately",
+        "most accurate",
+        "accuracy"
+      ],
+      "answer": "accurater",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The final estimate is accurater than the rough total before the contract is signed.",
+      "rationales": {
+        "accurater": "The describing word must fit what it describes. The completed sentence is: The final estimate is accurater than the rough total before the contract is signed.",
+        "accurately": "\"accurately\" does not describe the right word correctly.",
+        "most accurate": "\"most accurate\" does not describe the right word correctly.",
+        "accuracy": "\"accuracy\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-189",
+      "level": "B2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The new walking route is ___ than the old shortcut in the customer update.",
+      "options": [
+        "safer",
+        "safely",
+        "most safe",
+        "safety"
+      ],
+      "answer": "safer",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The new walking route is safer than the old shortcut in the customer update.",
+      "rationales": {
+        "safer": "The describing word must fit what it describes. The completed sentence is: The new walking route is safer than the old shortcut in the customer update.",
+        "safely": "\"safely\" does not describe the right word correctly.",
+        "most safe": "\"most safe\" does not describe the right word correctly.",
+        "safety": "\"safety\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-190",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The training example is ___ than the abstract rule after the planning call.",
+      "options": [
+        "more useful",
+        "usefully",
+        "most useful",
+        "usefulness"
+      ],
+      "answer": "more useful",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The training example is more useful than the abstract rule after the planning call.",
+      "rationales": {
+        "more useful": "The describing word must fit what it describes. The completed sentence is: The training example is more useful than the abstract rule after the planning call.",
+        "usefully": "\"usefully\" does not describe the right word correctly.",
+        "most useful": "\"most useful\" does not describe the right word correctly.",
+        "usefulness": "\"usefulness\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-191",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The email template is ___ than the handwritten note during the hiring process.",
+      "options": [
+        "more formal",
+        "formally",
+        "most formal",
+        "formality"
+      ],
+      "answer": "more formal",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The email template is more formal than the handwritten note during the hiring process.",
+      "rationales": {
+        "more formal": "The describing word must fit what it describes. The completed sentence is: The email template is more formal than the handwritten note during the hiring process.",
+        "formally": "\"formally\" does not describe the right word correctly.",
+        "most formal": "\"most formal\" does not describe the right word correctly.",
+        "formality": "\"formality\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-192",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The final review cycle is ___ than the old monthly process.",
+      "options": [
+        "more regular",
+        "regularly",
+        "most regular",
+        "regularity"
+      ],
+      "answer": "more regular",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The final review cycle is more regular than the old monthly process.",
+      "rationales": {
+        "more regular": "The describing word must fit what it describes. The completed sentence is: The final review cycle is more regular than the old monthly process.",
+        "regularly": "\"regularly\" does not describe the right word correctly.",
+        "most regular": "\"most regular\" does not describe the right word correctly.",
+        "regularity": "\"regularity\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-193",
+      "level": "B2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The second explanation is ___ than the first warning before the board discussion.",
+      "options": [
+        "calmer",
+        "calmly",
+        "most calm",
+        "calmness"
+      ],
+      "answer": "calmer",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The second explanation is calmer than the first warning before the board discussion.",
+      "rationales": {
+        "calmer": "The describing word must fit what it describes. The completed sentence is: The second explanation is calmer than the first warning before the board discussion.",
+        "calmly": "\"calmly\" does not describe the right word correctly.",
+        "most calm": "\"most calm\" does not describe the right word correctly.",
+        "calmness": "\"calmness\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-194",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The revised statement is ___ than the original claim under the revised procedure.",
+      "options": [
+        "more honest",
+        "honestly",
+        "most honest",
+        "honesty"
+      ],
+      "answer": "more honest",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The revised statement is more honest than the original claim under the revised procedure.",
+      "rationales": {
+        "more honest": "The describing word must fit what it describes. The completed sentence is: The revised statement is more honest than the original claim under the revised procedure.",
+        "honestly": "\"honestly\" does not describe the right word correctly.",
+        "most honest": "\"most honest\" does not describe the right word correctly.",
+        "honesty": "\"honesty\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-195",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The reminder system is ___ than occasional announcements after the service report.",
+      "options": [
+        "more steady",
+        "steadily",
+        "most steady",
+        "steadiness"
+      ],
+      "answer": "more steady",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The reminder system is more steady than occasional announcements after the service report.",
+      "rationales": {
+        "more steady": "The describing word must fit what it describes. The completed sentence is: The reminder system is more steady than occasional announcements after the service report.",
+        "steadily": "\"steadily\" does not describe the right word correctly.",
+        "most steady": "\"most steady\" does not describe the right word correctly.",
+        "steadiness": "\"steadiness\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-196",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The short summary is ___ than the full appendix during the operations review.",
+      "options": [
+        "more brief",
+        "briefly",
+        "most brief",
+        "brevity"
+      ],
+      "answer": "more brief",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The short summary is more brief than the full appendix during the operations review.",
+      "rationales": {
+        "more brief": "The describing word must fit what it describes. The completed sentence is: The short summary is more brief than the full appendix during the operations review.",
+        "briefly": "\"briefly\" does not describe the right word correctly.",
+        "most brief": "\"most brief\" does not describe the right word correctly.",
+        "brevity": "\"brevity\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-197",
+      "level": "B2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The direct question is ___ than the vague prompt for the quarterly summary.",
+      "options": [
+        "more direct",
+        "directly",
+        "most direct",
+        "directness"
+      ],
+      "answer": "more direct",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The direct question is more direct than the vague prompt for the quarterly summary.",
+      "rationales": {
+        "more direct": "The describing word must fit what it describes. The completed sentence is: The direct question is more direct than the vague prompt for the quarterly summary.",
+        "directly": "\"directly\" does not describe the right word correctly.",
+        "most direct": "\"most direct\" does not describe the right word correctly.",
+        "directness": "\"directness\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-198",
+      "level": "B2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The practical example is ___ than the abstract rule before the compliance check.",
+      "options": [
+        "more practical",
+        "practically",
+        "most practical",
+        "practicality"
+      ],
+      "answer": "more practical",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The practical example is more practical than the abstract rule before the compliance check.",
+      "rationales": {
+        "more practical": "The describing word must fit what it describes. The completed sentence is: The practical example is more practical than the abstract rule before the compliance check.",
+        "practically": "\"practically\" does not describe the right word correctly.",
+        "most practical": "\"most practical\" does not describe the right word correctly.",
+        "practicality": "\"practicality\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-199",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The new help desk is ___ than the old phone line in the evaluation memo.",
+      "options": [
+        "more reliable",
+        "reliably",
+        "most reliable",
+        "reliability"
+      ],
+      "answer": "more reliable",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The new help desk is more reliable than the old phone line in the evaluation memo.",
+      "rationales": {
+        "more reliable": "The describing word must fit what it describes. The completed sentence is: The new help desk is more reliable than the old phone line in the evaluation memo.",
+        "reliably": "\"reliably\" does not describe the right word correctly.",
+        "most reliable": "\"most reliable\" does not describe the right word correctly.",
+        "reliability": "\"reliability\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-b2-200",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The completed file is ___ than the partial packet after the final interview.",
+      "options": [
+        "more complete",
+        "completely",
+        "most complete",
+        "completeness"
+      ],
+      "answer": "more complete",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The completed file is more complete than the partial packet after the final interview.",
+      "rationales": {
+        "more complete": "The describing word must fit what it describes. The completed sentence is: The completed file is more complete than the partial packet after the final interview.",
+        "completely": "\"completely\" does not describe the right word correctly.",
+        "most complete": "\"most complete\" does not describe the right word correctly.",
+        "completeness": "\"completeness\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-201",
+      "level": "C1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The reviewer found the summary ___ despite its length.",
+      "options": [
+        "coherent",
+        "coherently",
+        "coherence",
+        "very coherently"
+      ],
+      "answer": "coherent",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The reviewer found the summary coherent despite its length.",
+      "rationales": {
+        "coherent": "The describing word must fit what it describes. The completed sentence is: The reviewer found the summary coherent despite its length.",
+        "coherently": "\"coherently\" does not describe the right word correctly.",
+        "coherence": "\"coherence\" does not describe the right word correctly.",
+        "very coherently": "\"very coherently\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-202",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The revised method seems ___ in the pilot data.",
+      "options": [
+        "efficient",
+        "efficiently",
+        "efficiency",
+        "very efficiently"
+      ],
+      "answer": "efficient",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The revised method seems efficient in the pilot data.",
+      "rationales": {
+        "efficient": "The describing word must fit what it describes. The completed sentence is: The revised method seems efficient in the pilot data.",
+        "efficiently": "\"efficiently\" does not describe the right word correctly.",
+        "efficiency": "\"efficiency\" does not describe the right word correctly.",
+        "very efficiently": "\"very efficiently\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-203",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The appendix was ___ with the main argument.",
+      "options": [
+        "consistent",
+        "consistently",
+        "consistency",
+        "very consistently"
+      ],
+      "answer": "consistent",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The appendix was consistent with the main argument.",
+      "rationales": {
+        "consistent": "The describing word must fit what it describes. The completed sentence is: The appendix was consistent with the main argument.",
+        "consistently": "\"consistently\" does not describe the right word correctly.",
+        "consistency": "\"consistency\" does not describe the right word correctly.",
+        "very consistently": "\"very consistently\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-204",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The description of the sampling process is unusually ___.",
+      "options": [
+        "precise",
+        "precisely",
+        "precision",
+        "very precisely"
+      ],
+      "answer": "precise",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The description of the sampling process is unusually precise.",
+      "rationales": {
+        "precise": "The describing word must fit what it describes. The completed sentence is: The description of the sampling process is unusually precise.",
+        "precisely": "\"precisely\" does not describe the right word correctly.",
+        "precision": "\"precision\" does not describe the right word correctly.",
+        "very precisely": "\"very precisely\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-205",
+      "level": "C1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The distinction between the two claims is too ___ to ignore.",
+      "options": [
+        "subtle",
+        "subtly",
+        "subtlety",
+        "very subtly"
+      ],
+      "answer": "subtle",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The distinction between the two claims is too subtle to ignore.",
+      "rationales": {
+        "subtle": "The describing word must fit what it describes. The completed sentence is: The distinction between the two claims is too subtle to ignore.",
+        "subtly": "\"subtly\" does not describe the right word correctly.",
+        "subtlety": "\"subtlety\" does not describe the right word correctly.",
+        "very subtly": "\"very subtly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-206",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The proposed schedule remains ___ for a small staff.",
+      "options": [
+        "practical",
+        "practically",
+        "practicality",
+        "very practically"
+      ],
+      "answer": "practical",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The proposed schedule remains practical for a small staff.",
+      "rationales": {
+        "practical": "The describing word must fit what it describes. The completed sentence is: The proposed schedule remains practical for a small staff.",
+        "practically": "\"practically\" does not describe the right word correctly.",
+        "practicality": "\"practicality\" does not describe the right word correctly.",
+        "very practically": "\"very practically\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-207",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The witness's explanation sounded ___ after the records appeared.",
+      "options": [
+        "credible",
+        "credibly",
+        "credibility",
+        "very credibly"
+      ],
+      "answer": "credible",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The witness's explanation sounded credible after the records appeared.",
+      "rationales": {
+        "credible": "The describing word must fit what it describes. The completed sentence is: The witness's explanation sounded credible after the records appeared.",
+        "credibly": "\"credibly\" does not describe the right word correctly.",
+        "credibility": "\"credibility\" does not describe the right word correctly.",
+        "very credibly": "\"very credibly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-208",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The objection is ___ to the narrow issue before the panel.",
+      "options": [
+        "relevant",
+        "relevantly",
+        "relevance",
+        "very relevantly"
+      ],
+      "answer": "relevant",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The objection is relevant to the narrow issue before the panel.",
+      "rationales": {
+        "relevant": "The describing word must fit what it describes. The completed sentence is: The objection is relevant to the narrow issue before the panel.",
+        "relevantly": "\"relevantly\" does not describe the right word correctly.",
+        "relevance": "\"relevance\" does not describe the right word correctly.",
+        "very relevantly": "\"very relevantly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-209",
+      "level": "C1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The result looks ___ across all three samples.",
+      "options": [
+        "robust",
+        "robustly",
+        "robustness",
+        "very robustly"
+      ],
+      "answer": "robust",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The result looks robust across all three samples.",
+      "rationales": {
+        "robust": "The describing word must fit what it describes. The completed sentence is: The result looks robust across all three samples.",
+        "robustly": "\"robustly\" does not describe the right word correctly.",
+        "robustness": "\"robustness\" does not describe the right word correctly.",
+        "very robustly": "\"very robustly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-210",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The instruction is ___ about what counts as late.",
+      "options": [
+        "explicit",
+        "explicitly",
+        "explicitness",
+        "very explicitly"
+      ],
+      "answer": "explicit",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The instruction is explicit about what counts as late.",
+      "rationales": {
+        "explicit": "The describing word must fit what it describes. The completed sentence is: The instruction is explicit about what counts as late.",
+        "explicitly": "\"explicitly\" does not describe the right word correctly.",
+        "explicitness": "\"explicitness\" does not describe the right word correctly.",
+        "very explicitly": "\"very explicitly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-211",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The warning is ___ rather than directly stated.",
+      "options": [
+        "implicit",
+        "implicitly",
+        "implicitness",
+        "very implicitly"
+      ],
+      "answer": "implicit",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The warning is implicit rather than directly stated.",
+      "rationales": {
+        "implicit": "The describing word must fit what it describes. The completed sentence is: The warning is implicit rather than directly stated.",
+        "implicitly": "\"implicitly\" does not describe the right word correctly.",
+        "implicitness": "\"implicitness\" does not describe the right word correctly.",
+        "very implicitly": "\"very implicitly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-212",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The conclusion is ___ until the missing data are checked.",
+      "options": [
+        "tentative",
+        "tentatively",
+        "tentativeness",
+        "very tentatively"
+      ],
+      "answer": "tentative",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The conclusion is tentative until the missing data are checked.",
+      "rationales": {
+        "tentative": "The describing word must fit what it describes. The completed sentence is: The conclusion is tentative until the missing data are checked.",
+        "tentatively": "\"tentatively\" does not describe the right word correctly.",
+        "tentativeness": "\"tentativeness\" does not describe the right word correctly.",
+        "very tentatively": "\"very tentatively\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-213",
+      "level": "C1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The instrument appears ___ for measuring listening speed.",
+      "options": [
+        "valid",
+        "validly",
+        "validity",
+        "very validly"
+      ],
+      "answer": "valid",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The instrument appears valid for measuring listening speed.",
+      "rationales": {
+        "valid": "The describing word must fit what it describes. The completed sentence is: The instrument appears valid for measuring listening speed.",
+        "validly": "\"validly\" does not describe the right word correctly.",
+        "validity": "\"validity\" does not describe the right word correctly.",
+        "very validly": "\"very validly\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-214",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The checklist is ___ enough for repeated use.",
+      "options": [
+        "methodical",
+        "methodically",
+        "method",
+        "very methodically"
+      ],
+      "answer": "methodical",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The checklist is methodical enough for repeated use.",
+      "rationales": {
+        "methodical": "The describing word must fit what it describes. The completed sentence is: The checklist is methodical enough for repeated use.",
+        "methodically": "\"methodically\" does not describe the right word correctly.",
+        "method": "\"method\" does not describe the right word correctly.",
+        "very methodically": "\"very methodically\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-215",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The inference is ___ only if the timeline is correct.",
+      "options": [
+        "logical",
+        "logically",
+        "logic",
+        "very logically"
+      ],
+      "answer": "logical",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The inference is logical only if the timeline is correct.",
+      "rationales": {
+        "logical": "The describing word must fit what it describes. The completed sentence is: The inference is logical only if the timeline is correct.",
+        "logically": "\"logically\" does not describe the right word correctly.",
+        "logic": "\"logic\" does not describe the right word correctly.",
+        "very logically": "\"very logically\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-216",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The email is ___ without sounding distant.",
+      "options": [
+        "formal",
+        "formally",
+        "formality",
+        "very formally"
+      ],
+      "answer": "formal",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The email is formal without sounding distant.",
+      "rationales": {
+        "formal": "The describing word must fit what it describes. The completed sentence is: The email is formal without sounding distant.",
+        "formally": "\"formally\" does not describe the right word correctly.",
+        "formality": "\"formality\" does not describe the right word correctly.",
+        "very formally": "\"very formally\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-217",
+      "level": "C1",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The comment is ___ of the unsupported claim.",
+      "options": [
+        "critical",
+        "critically",
+        "criticism",
+        "very critically"
+      ],
+      "answer": "critical",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The comment is critical of the unsupported claim.",
+      "rationales": {
+        "critical": "The describing word must fit what it describes. The completed sentence is: The comment is critical of the unsupported claim.",
+        "critically": "\"critically\" does not describe the right word correctly.",
+        "criticism": "\"criticism\" does not describe the right word correctly.",
+        "very critically": "\"very critically\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-218",
+      "level": "C1",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The response is ___ rather than merely descriptive.",
+      "options": [
+        "analytical",
+        "analytically",
+        "analysis",
+        "very analytically"
+      ],
+      "answer": "analytical",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The response is analytical rather than merely descriptive.",
+      "rationales": {
+        "analytical": "The describing word must fit what it describes. The completed sentence is: The response is analytical rather than merely descriptive.",
+        "analytically": "\"analytically\" does not describe the right word correctly.",
+        "analysis": "\"analysis\" does not describe the right word correctly.",
+        "very analytically": "\"very analytically\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-219",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The final paragraph is ___ enough to change a reader's mind.",
+      "options": [
+        "persuasive",
+        "persuasively",
+        "persuasion",
+        "very persuasively"
+      ],
+      "answer": "persuasive",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The final paragraph is persuasive enough to change a reader's mind.",
+      "rationales": {
+        "persuasive": "The describing word must fit what it describes. The completed sentence is: The final paragraph is persuasive enough to change a reader's mind.",
+        "persuasively": "\"persuasively\" does not describe the right word correctly.",
+        "persuasion": "\"persuasion\" does not describe the right word correctly.",
+        "very persuasively": "\"very persuasively\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c1-220",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The revised procedure is ___ about who approves appeals.",
+      "options": [
+        "transparent",
+        "transparently",
+        "transparency",
+        "very transparently"
+      ],
+      "answer": "transparent",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The revised procedure is transparent about who approves appeals.",
+      "rationales": {
+        "transparent": "The describing word must fit what it describes. The completed sentence is: The revised procedure is transparent about who approves appeals.",
+        "transparently": "\"transparently\" does not describe the right word correctly.",
+        "transparency": "\"transparency\" does not describe the right word correctly.",
+        "very transparently": "\"very transparently\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-221",
+      "level": "C2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The panel reviewed the objection ___ before issuing the order.",
+      "options": [
+        "systematically",
+        "systematic",
+        "system",
+        "systematic evaluation"
+      ],
+      "answer": "systematically",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The panel reviewed the objection systematically before issuing the order.",
+      "rationales": {
+        "systematically": "The describing word must fit what it describes. The completed sentence is: The panel reviewed the objection systematically before issuing the order.",
+        "systematic": "\"systematic\" does not describe the right word correctly.",
+        "system": "\"system\" does not describe the right word correctly.",
+        "systematic evaluation": "\"systematic evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-222",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The authors documented the coding decisions ___ in the appendix.",
+      "options": [
+        "rigorously",
+        "rigorous",
+        "rigor",
+        "rigorous evaluation"
+      ],
+      "answer": "rigorously",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The authors documented the coding decisions rigorously in the appendix.",
+      "rationales": {
+        "rigorously": "The describing word must fit what it describes. The completed sentence is: The authors documented the coding decisions rigorously in the appendix.",
+        "rigorous": "\"rigorous\" does not describe the right word correctly.",
+        "rigor": "\"rigor\" does not describe the right word correctly.",
+        "rigorous evaluation": "\"rigorous evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-223",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The arbitrator weighed the testimony ___ rather than rhetorically.",
+      "options": [
+        "objectively",
+        "objective",
+        "objectivity",
+        "objective evaluation"
+      ],
+      "answer": "objectively",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The arbitrator weighed the testimony objectively rather than rhetorically.",
+      "rationales": {
+        "objectively": "The describing word must fit what it describes. The completed sentence is: The arbitrator weighed the testimony objectively rather than rhetorically.",
+        "objective": "\"objective\" does not describe the right word correctly.",
+        "objectivity": "\"objectivity\" does not describe the right word correctly.",
+        "objective evaluation": "\"objective evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-224",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The dissent examines the precedent ___ but not dismissively.",
+      "options": [
+        "critically",
+        "critical",
+        "critique",
+        "critical evaluation"
+      ],
+      "answer": "critically",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The dissent examines the precedent critically but not dismissively.",
+      "rationales": {
+        "critically": "The describing word must fit what it describes. The completed sentence is: The dissent examines the precedent critically but not dismissively.",
+        "critical": "\"critical\" does not describe the right word correctly.",
+        "critique": "\"critique\" does not describe the right word correctly.",
+        "critical evaluation": "\"critical evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-225",
+      "level": "C2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The expert separated the two estimates ___ before combining them.",
+      "options": [
+        "independently",
+        "independent",
+        "independence",
+        "independent evaluation"
+      ],
+      "answer": "independently",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The expert separated the two estimates independently before combining them.",
+      "rationales": {
+        "independently": "The describing word must fit what it describes. The completed sentence is: The expert separated the two estimates independently before combining them.",
+        "independent": "\"independent\" does not describe the right word correctly.",
+        "independence": "\"independence\" does not describe the right word correctly.",
+        "independent evaluation": "\"independent evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-226",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The committee published the limitations ___ in the final addendum.",
+      "options": [
+        "transparently",
+        "transparent",
+        "transparency",
+        "transparent evaluation"
+      ],
+      "answer": "transparently",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The committee published the limitations transparently in the final addendum.",
+      "rationales": {
+        "transparently": "The describing word must fit what it describes. The completed sentence is: The committee published the limitations transparently in the final addendum.",
+        "transparent": "\"transparent\" does not describe the right word correctly.",
+        "transparency": "\"transparency\" does not describe the right word correctly.",
+        "transparent evaluation": "\"transparent evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-227",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The reviewer treated the alternative explanation ___ throughout.",
+      "options": [
+        "cautiously",
+        "cautious",
+        "caution",
+        "cautious evaluation"
+      ],
+      "answer": "cautiously",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The reviewer treated the alternative explanation cautiously throughout.",
+      "rationales": {
+        "cautiously": "The describing word must fit what it describes. The completed sentence is: The reviewer treated the alternative explanation cautiously throughout.",
+        "cautious": "\"cautious\" does not describe the right word correctly.",
+        "caution": "\"caution\" does not describe the right word correctly.",
+        "cautious evaluation": "\"cautious evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-228",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The chair introduced the amendment ___ to avoid surprise.",
+      "options": [
+        "deliberately",
+        "deliberate",
+        "deliberation",
+        "deliberate evaluation"
+      ],
+      "answer": "deliberately",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The chair introduced the amendment deliberately to avoid surprise.",
+      "rationales": {
+        "deliberately": "The describing word must fit what it describes. The completed sentence is: The chair introduced the amendment deliberately to avoid surprise.",
+        "deliberate": "\"deliberate\" does not describe the right word correctly.",
+        "deliberation": "\"deliberation\" does not describe the right word correctly.",
+        "deliberate evaluation": "\"deliberate evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-229",
+      "level": "C2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The analyst reported the interval ___ in the technical note.",
+      "options": [
+        "precisely",
+        "precise",
+        "precision",
+        "precise evaluation"
+      ],
+      "answer": "precisely",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The analyst reported the interval precisely in the technical note.",
+      "rationales": {
+        "precisely": "The describing word must fit what it describes. The completed sentence is: The analyst reported the interval precisely in the technical note.",
+        "precise": "\"precise\" does not describe the right word correctly.",
+        "precision": "\"precision\" does not describe the right word correctly.",
+        "precise evaluation": "\"precise evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-230",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The memo treats the two doctrines ___ without collapsing them.",
+      "options": [
+        "comparatively",
+        "comparative",
+        "comparison",
+        "comparative evaluation"
+      ],
+      "answer": "comparatively",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The memo treats the two doctrines comparatively without collapsing them.",
+      "rationales": {
+        "comparatively": "The describing word must fit what it describes. The completed sentence is: The memo treats the two doctrines comparatively without collapsing them.",
+        "comparative": "\"comparative\" does not describe the right word correctly.",
+        "comparison": "\"comparison\" does not describe the right word correctly.",
+        "comparative evaluation": "\"comparative evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-231",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The claim was tested ___ against the archive.",
+      "options": [
+        "empirically",
+        "empirical",
+        "empiricism",
+        "empirical evaluation"
+      ],
+      "answer": "empirically",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The claim was tested empirically against the archive.",
+      "rationales": {
+        "empirically": "The describing word must fit what it describes. The completed sentence is: The claim was tested empirically against the archive.",
+        "empirical": "\"empirical\" does not describe the right word correctly.",
+        "empiricism": "\"empiricism\" does not describe the right word correctly.",
+        "empirical evaluation": "\"empirical evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-232",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The brief develops the argument ___ across three sections.",
+      "options": [
+        "analytically",
+        "analytical",
+        "analysis",
+        "analytical evaluation"
+      ],
+      "answer": "analytically",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The brief develops the argument analytically across three sections.",
+      "rationales": {
+        "analytically": "The describing word must fit what it describes. The completed sentence is: The brief develops the argument analytically across three sections.",
+        "analytical": "\"analytical\" does not describe the right word correctly.",
+        "analysis": "\"analysis\" does not describe the right word correctly.",
+        "analytical evaluation": "\"analytical evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-233",
+      "level": "C2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The investigator checked the sequence ___ before assigning blame.",
+      "options": [
+        "methodically",
+        "methodical",
+        "method",
+        "methodical evaluation"
+      ],
+      "answer": "methodically",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The investigator checked the sequence methodically before assigning blame.",
+      "rationales": {
+        "methodically": "The describing word must fit what it describes. The completed sentence is: The investigator checked the sequence methodically before assigning blame.",
+        "methodical": "\"methodical\" does not describe the right word correctly.",
+        "method": "\"method\" does not describe the right word correctly.",
+        "methodical evaluation": "\"methodical evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-234",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The agency applied the standard ___ after the appeal.",
+      "options": [
+        "consistently",
+        "consistent",
+        "consistency",
+        "consistent evaluation"
+      ],
+      "answer": "consistently",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The agency applied the standard consistently after the appeal.",
+      "rationales": {
+        "consistently": "The describing word must fit what it describes. The completed sentence is: The agency applied the standard consistently after the appeal.",
+        "consistent": "\"consistent\" does not describe the right word correctly.",
+        "consistency": "\"consistency\" does not describe the right word correctly.",
+        "consistent evaluation": "\"consistent evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-235",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The committee framed the conclusion ___ until replication is possible.",
+      "options": [
+        "provisionally",
+        "provisional",
+        "provision",
+        "provisional evaluation"
+      ],
+      "answer": "provisionally",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The committee framed the conclusion provisionally until replication is possible.",
+      "rationales": {
+        "provisionally": "The describing word must fit what it describes. The completed sentence is: The committee framed the conclusion provisionally until replication is possible.",
+        "provisional": "\"provisional\" does not describe the right word correctly.",
+        "provision": "\"provision\" does not describe the right word correctly.",
+        "provisional evaluation": "\"provisional evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-236",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The court addressed the objection ___ rather than procedurally.",
+      "options": [
+        "substantively",
+        "substantive",
+        "substance",
+        "substantive evaluation"
+      ],
+      "answer": "substantively",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The court addressed the objection substantively rather than procedurally.",
+      "rationales": {
+        "substantively": "The describing word must fit what it describes. The completed sentence is: The court addressed the objection substantively rather than procedurally.",
+        "substantive": "\"substantive\" does not describe the right word correctly.",
+        "substance": "\"substance\" does not describe the right word correctly.",
+        "substantive evaluation": "\"substantive evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-237",
+      "level": "C2",
+      "setupText": "Choose the form that describes the right word.",
+      "taskText": "The minutes present the votes ___ as they occurred.",
+      "options": [
+        "sequentially",
+        "sequential",
+        "sequence",
+        "sequential evaluation"
+      ],
+      "answer": "sequentially",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The minutes present the votes sequentially as they occurred.",
+      "rationales": {
+        "sequentially": "The describing word must fit what it describes. The completed sentence is: The minutes present the votes sequentially as they occurred.",
+        "sequential": "\"sequential\" does not describe the right word correctly.",
+        "sequence": "\"sequence\" does not describe the right word correctly.",
+        "sequential evaluation": "\"sequential evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-238",
+      "level": "C2",
+      "setupText": "The answer should sound natural in the sentence.",
+      "taskText": "The report interprets the silence ___ in light of the statute.",
+      "options": [
+        "contextually",
+        "contextual",
+        "context",
+        "contextual evaluation"
+      ],
+      "answer": "contextually",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The report interprets the silence contextually in light of the statute.",
+      "rationales": {
+        "contextually": "The describing word must fit what it describes. The completed sentence is: The report interprets the silence contextually in light of the statute.",
+        "contextual": "\"contextual\" does not describe the right word correctly.",
+        "context": "\"context\" does not describe the right word correctly.",
+        "contextual evaluation": "\"contextual evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-239",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The reviewer approached the claim ___ because the data were thin.",
+      "options": [
+        "skeptically",
+        "skeptical",
+        "skepticism",
+        "skeptical evaluation"
+      ],
+      "answer": "skeptically",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The reviewer approached the claim skeptically because the data were thin.",
+      "rationales": {
+        "skeptically": "The describing word must fit what it describes. The completed sentence is: The reviewer approached the claim skeptically because the data were thin.",
+        "skeptical": "\"skeptical\" does not describe the right word correctly.",
+        "skepticism": "\"skepticism\" does not describe the right word correctly.",
+        "skeptical evaluation": "\"skeptical evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-adjective-and-adverb-forms-c2-240",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The panel applied the exception ___ to avoid overreach.",
+      "options": [
+        "judiciously",
+        "judicious",
+        "judgment",
+        "judicious evaluation"
+      ],
+      "answer": "judiciously",
+      "explanation": "The describing word must fit what it describes. The completed sentence is: The panel applied the exception judiciously to avoid overreach.",
+      "rationales": {
+        "judiciously": "The describing word must fit what it describes. The completed sentence is: The panel applied the exception judiciously to avoid overreach.",
+        "judicious": "\"judicious\" does not describe the right word correctly.",
+        "judgment": "\"judgment\" does not describe the right word correctly.",
+        "judicious evaluation": "\"judicious evaluation\" does not describe the right word correctly."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

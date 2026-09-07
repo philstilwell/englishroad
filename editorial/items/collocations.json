@@ -1,0 +1,2766 @@
+{
+  "topic": "Collocations",
+  "category": "Vocabulary",
+  "items": [
+    {
+      "id": "coverage-collocations-a1-601",
+      "level": "A1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Mina needs to ___ a break before class.",
+      "options": [
+        "take",
+        "make",
+        "do",
+        "catch"
+      ],
+      "answer": "take",
+      "explanation": "The natural phrase is \"take a break.\" The completed sentence is: Mina needs to take a break before class.",
+      "rationales": {
+        "take": "The natural phrase is \"take a break.\" The completed sentence is: Mina needs to take a break before class.",
+        "make": "\"make a break\" is not the natural phrase for this meaning here.",
+        "do": "\"do a break\" is not the natural phrase for this meaning here.",
+        "catch": "\"catch a break\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-602",
+      "level": "A1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Carlos needs to ___ a cake after breakfast.",
+      "options": [
+        "make",
+        "do",
+        "catch",
+        "open"
+      ],
+      "answer": "make",
+      "explanation": "The natural phrase is \"make a cake.\" The completed sentence is: Carlos needs to make a cake after breakfast.",
+      "rationales": {
+        "make": "The natural phrase is \"make a cake.\" The completed sentence is: Carlos needs to make a cake after breakfast.",
+        "do": "\"do a cake\" is not the natural phrase for this meaning here.",
+        "catch": "\"catch a cake\" is not the natural phrase for this meaning here.",
+        "open": "\"open a cake\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-603",
+      "level": "A1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Aiko needs to ___ lunch at school.",
+      "options": [
+        "have",
+        "do",
+        "catch",
+        "open"
+      ],
+      "answer": "have",
+      "explanation": "The natural phrase is \"have lunch.\" The completed sentence is: Aiko needs to have lunch at school.",
+      "rationales": {
+        "have": "The natural phrase is \"have lunch.\" The completed sentence is: Aiko needs to have lunch at school.",
+        "do": "\"do lunch\" is not the natural phrase for this meaning here.",
+        "catch": "\"catch lunch\" is not the natural phrase for this meaning here.",
+        "open": "\"open lunch\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-604",
+      "level": "A1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Nadia needs to ___ a bus before lunch.",
+      "options": [
+        "catch",
+        "make",
+        "do",
+        "hold"
+      ],
+      "answer": "catch",
+      "explanation": "The natural phrase is \"catch a bus.\" The completed sentence is: Nadia needs to catch a bus before lunch.",
+      "rationales": {
+        "catch": "The natural phrase is \"catch a bus.\" The completed sentence is: Nadia needs to catch a bus before lunch.",
+        "make": "\"make a bus\" is not the natural phrase for this meaning here.",
+        "do": "\"do a bus\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold a bus\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-605",
+      "level": "A1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Omar needs to ___ homework at home.",
+      "options": [
+        "do",
+        "take",
+        "catch",
+        "hold"
+      ],
+      "answer": "do",
+      "explanation": "The natural phrase is \"do homework.\" The completed sentence is: Omar needs to do homework at home.",
+      "rationales": {
+        "do": "The natural phrase is \"do homework.\" The completed sentence is: Omar needs to do homework at home.",
+        "take": "\"take homework\" is not the natural phrase for this meaning here.",
+        "catch": "\"catch homework\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold homework\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-606",
+      "level": "A1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Lena needs to ___ water before the bus arrives.",
+      "options": [
+        "drink",
+        "eat",
+        "do",
+        "make"
+      ],
+      "answer": "drink",
+      "explanation": "The natural phrase is \"drink water.\" The completed sentence is: Lena needs to drink water before the bus arrives.",
+      "rationales": {
+        "drink": "The natural phrase is \"drink water.\" The completed sentence is: Lena needs to drink water before the bus arrives.",
+        "eat": "\"eat water\" is not the natural phrase for this meaning here.",
+        "do": "\"do water\" is not the natural phrase for this meaning here.",
+        "make": "\"make water\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-607",
+      "level": "A1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Before bed, remember to ___ your teeth.",
+      "options": [
+        "brush",
+        "wash",
+        "make",
+        "do"
+      ],
+      "answer": "brush",
+      "explanation": "The natural phrase is \"brush your teeth.\" The completed sentence is: Before bed, remember to brush your teeth.",
+      "rationales": {
+        "brush": "The natural phrase is \"brush your teeth.\" The completed sentence is: Before bed, remember to brush your teeth.",
+        "wash": "\"wash your teeth\" is not the natural phrase for this meaning here.",
+        "make": "\"make your teeth\" is not the natural phrase for this meaning here.",
+        "do": "\"do your teeth\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-608",
+      "level": "A1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Visitors must ___ shoes inside the workshop.",
+      "options": [
+        "wear",
+        "use",
+        "carry",
+        "open"
+      ],
+      "answer": "wear",
+      "explanation": "The natural phrase is \"wear shoes.\" The completed sentence is: Visitors must wear shoes inside the workshop.",
+      "rationales": {
+        "wear": "The natural phrase is \"wear shoes.\" The completed sentence is: Visitors must wear shoes inside the workshop.",
+        "use": "\"use shoes\" is not the natural phrase for this meaning here.",
+        "carry": "\"carry shoes\" is not the natural phrase for this meaning here.",
+        "open": "\"open shoes\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-609",
+      "level": "A1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Rina needs to ___ the door before practice.",
+      "options": [
+        "open",
+        "start",
+        "make",
+        "do"
+      ],
+      "answer": "open",
+      "explanation": "The natural phrase is \"open the door.\" The completed sentence is: Rina needs to open the door before practice.",
+      "rationales": {
+        "open": "The natural phrase is \"open the door.\" The completed sentence is: Rina needs to open the door before practice.",
+        "start": "\"start the door\" is not the natural phrase for this meaning here.",
+        "make": "\"make the door\" is not the natural phrase for this meaning here.",
+        "do": "\"do the door\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-610",
+      "level": "A1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Mateo needs to ___ the window at the community center.",
+      "options": [
+        "close",
+        "finish",
+        "stop",
+        "catch"
+      ],
+      "answer": "close",
+      "explanation": "The natural phrase is \"close the window.\" The completed sentence is: Mateo needs to close the window at the community center.",
+      "rationales": {
+        "close": "The natural phrase is \"close the window.\" The completed sentence is: Mateo needs to close the window at the community center.",
+        "finish": "\"finish the window\" is not the natural phrase for this meaning here.",
+        "stop": "\"stop the window\" is not the natural phrase for this meaning here.",
+        "catch": "\"catch the window\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-611",
+      "level": "A1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Before lunch, please ___ your hands.",
+      "options": [
+        "wash",
+        "clean",
+        "do",
+        "make"
+      ],
+      "answer": "wash",
+      "explanation": "The natural phrase is \"wash your hands.\" The completed sentence is: Before lunch, please wash your hands.",
+      "rationales": {
+        "wash": "The natural phrase is \"wash your hands.\" The completed sentence is: Before lunch, please wash your hands.",
+        "clean": "\"clean your hands\" is not the natural phrase for this meaning here.",
+        "do": "\"do your hands\" is not the natural phrase for this meaning here.",
+        "make": "\"make your hands\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-612",
+      "level": "A1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Jonas needs to ___ a book during the morning routine.",
+      "options": [
+        "read",
+        "look",
+        "speak",
+        "listen"
+      ],
+      "answer": "read",
+      "explanation": "The natural phrase is \"read a book.\" The completed sentence is: Jonas needs to read a book during the morning routine.",
+      "rationales": {
+        "read": "The natural phrase is \"read a book.\" The completed sentence is: Jonas needs to read a book during the morning routine.",
+        "look": "\"look a book\" is not the natural phrase for this meaning here.",
+        "speak": "\"speak a book\" is not the natural phrase for this meaning here.",
+        "listen": "\"listen a book\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-613",
+      "level": "A1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Please ___ your name at the top of the page.",
+      "options": [
+        "write",
+        "say",
+        "do",
+        "open"
+      ],
+      "answer": "write",
+      "explanation": "The natural phrase is \"write your name.\" The completed sentence is: Please write your name at the top of the page.",
+      "rationales": {
+        "write": "The natural phrase is \"write your name.\" The completed sentence is: Please write your name at the top of the page.",
+        "say": "\"say your name\" is not the natural phrase for this meaning here.",
+        "do": "\"do your name\" is not the natural phrase for this meaning here.",
+        "open": "\"open your name\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-614",
+      "level": "A1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Kenji learned to ___ a bike in the park.",
+      "options": [
+        "ride",
+        "drive",
+        "take",
+        "do"
+      ],
+      "answer": "ride",
+      "explanation": "The natural phrase is \"ride a bike.\" The completed sentence is: Kenji learned to ride a bike in the park.",
+      "rationales": {
+        "ride": "The natural phrase is \"ride a bike.\" The completed sentence is: Kenji learned to ride a bike in the park.",
+        "drive": "\"drive a bike\" is not the natural phrase for this meaning here.",
+        "take": "\"take a bike\" is not the natural phrase for this meaning here.",
+        "do": "\"do a bike\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-615",
+      "level": "A1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Sara likes to ___ music while cooking.",
+      "options": [
+        "play",
+        "do",
+        "listen",
+        "open"
+      ],
+      "answer": "play",
+      "explanation": "The natural phrase is \"play music.\" The completed sentence is: Sara likes to play music while cooking.",
+      "rationales": {
+        "play": "The natural phrase is \"play music.\" The completed sentence is: Sara likes to play music while cooking.",
+        "do": "\"do music\" is not the natural phrase for this meaning here.",
+        "listen": "\"listen music\" is not the natural phrase for this meaning here.",
+        "open": "\"open music\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-616",
+      "level": "A1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Luis needs to ___ a question at the front desk.",
+      "options": [
+        "answer",
+        "tell",
+        "do",
+        "open"
+      ],
+      "answer": "answer",
+      "explanation": "The natural phrase is \"answer a question.\" The completed sentence is: Luis needs to answer a question at the front desk.",
+      "rationales": {
+        "answer": "The natural phrase is \"answer a question.\" The completed sentence is: Luis needs to answer a question at the front desk.",
+        "tell": "\"tell a question\" is not the natural phrase for this meaning here.",
+        "do": "\"do a question\" is not the natural phrase for this meaning here.",
+        "open": "\"open a question\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-617",
+      "level": "A1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Emma needs to ___ a bag before the short test.",
+      "options": [
+        "carry",
+        "wear",
+        "drive",
+        "drink"
+      ],
+      "answer": "carry",
+      "explanation": "The natural phrase is \"carry a bag.\" The completed sentence is: Emma needs to carry a bag before the short test.",
+      "rationales": {
+        "carry": "The natural phrase is \"carry a bag.\" The completed sentence is: Emma needs to carry a bag before the short test.",
+        "wear": "\"wear a bag\" is not the natural phrase for this meaning here.",
+        "drive": "\"drive a bag\" is not the natural phrase for this meaning here.",
+        "drink": "\"drink a bag\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-618",
+      "level": "A1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Noah needs to ___ a key during the warm-up.",
+      "options": [
+        "use",
+        "wear",
+        "drink",
+        "ride"
+      ],
+      "answer": "use",
+      "explanation": "The natural phrase is \"use a key.\" The completed sentence is: Noah needs to use a key during the warm-up.",
+      "rationales": {
+        "use": "The natural phrase is \"use a key.\" The completed sentence is: Noah needs to use a key during the warm-up.",
+        "wear": "\"wear a key\" is not the natural phrase for this meaning here.",
+        "drink": "\"drink a key\" is not the natural phrase for this meaning here.",
+        "ride": "\"ride a key\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-619",
+      "level": "A1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Yara wants to ___ a picture of the class project.",
+      "options": [
+        "take",
+        "make",
+        "do",
+        "catch"
+      ],
+      "answer": "take",
+      "explanation": "The natural phrase is \"take a picture.\" The completed sentence is: Yara wants to take a picture of the class project.",
+      "rationales": {
+        "take": "The natural phrase is \"take a picture.\" The completed sentence is: Yara wants to take a picture of the class project.",
+        "make": "\"make a picture\" is not the natural phrase for this meaning here.",
+        "do": "\"do a picture\" is not the natural phrase for this meaning here.",
+        "catch": "\"catch a picture\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a1-620",
+      "level": "A1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Theo needs to ___ a book after the final example.",
+      "options": [
+        "open",
+        "start",
+        "do",
+        "wear"
+      ],
+      "answer": "open",
+      "explanation": "The natural phrase is \"open a book.\" The completed sentence is: Theo needs to open a book after the final example.",
+      "rationales": {
+        "open": "The natural phrase is \"open a book.\" The completed sentence is: Theo needs to open a book after the final example.",
+        "start": "\"start a book\" is not the natural phrase for this meaning here.",
+        "do": "\"do a book\" is not the natural phrase for this meaning here.",
+        "wear": "\"wear a book\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-621",
+      "level": "A2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Mina needs to ___ a choice before the appointment.",
+      "options": [
+        "make",
+        "do",
+        "take",
+        "ask"
+      ],
+      "answer": "make",
+      "explanation": "The natural phrase is \"make a choice.\" The completed sentence is: Mina needs to make a choice before the appointment.",
+      "rationales": {
+        "make": "The natural phrase is \"make a choice.\" The completed sentence is: Mina needs to make a choice before the appointment.",
+        "do": "\"do a choice\" is not the natural phrase for this meaning here.",
+        "take": "\"take a choice\" is not the natural phrase for this meaning here.",
+        "ask": "\"ask a choice\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-622",
+      "level": "A2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Carlos needs to ___ a promise on the registration page.",
+      "options": [
+        "keep",
+        "do",
+        "send",
+        "follow"
+      ],
+      "answer": "keep",
+      "explanation": "The natural phrase is \"keep a promise.\" The completed sentence is: Carlos needs to keep a promise on the registration page.",
+      "rationales": {
+        "keep": "The natural phrase is \"keep a promise.\" The completed sentence is: Carlos needs to keep a promise on the registration page.",
+        "do": "\"do a promise\" is not the natural phrase for this meaning here.",
+        "send": "\"send a promise\" is not the natural phrase for this meaning here.",
+        "follow": "\"follow a promise\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-623",
+      "level": "A2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Aiko needs to ___ a question before the train leaves.",
+      "options": [
+        "ask",
+        "make",
+        "send",
+        "keep"
+      ],
+      "answer": "ask",
+      "explanation": "The natural phrase is \"ask a question.\" The completed sentence is: Aiko needs to ask a question before the train leaves.",
+      "rationales": {
+        "ask": "The natural phrase is \"ask a question.\" The completed sentence is: Aiko needs to ask a question before the train leaves.",
+        "make": "\"make a question\" is not the natural phrase for this meaning here.",
+        "send": "\"send a question\" is not the natural phrase for this meaning here.",
+        "keep": "\"keep a question\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-624",
+      "level": "A2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Nadia needs to ___ an email during the travel lesson.",
+      "options": [
+        "send",
+        "make",
+        "ask",
+        "follow"
+      ],
+      "answer": "send",
+      "explanation": "The natural phrase is \"send an email.\" The completed sentence is: Nadia needs to send an email during the travel lesson.",
+      "rationales": {
+        "send": "The natural phrase is \"send an email.\" The completed sentence is: Nadia needs to send an email during the travel lesson.",
+        "make": "\"make an email\" is not the natural phrase for this meaning here.",
+        "ask": "\"ask an email\" is not the natural phrase for this meaning here.",
+        "follow": "\"follow an email\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-625",
+      "level": "A2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Omar needs to ___ the rules before the office closes.",
+      "options": [
+        "follow",
+        "make",
+        "send",
+        "ask"
+      ],
+      "answer": "follow",
+      "explanation": "The natural phrase is \"follow the rules.\" The completed sentence is: Omar needs to follow the rules before the office closes.",
+      "rationales": {
+        "follow": "The natural phrase is \"follow the rules.\" The completed sentence is: Omar needs to follow the rules before the office closes.",
+        "make": "\"make the rules\" is not the natural phrase for this meaning here.",
+        "send": "\"send the rules\" is not the natural phrase for this meaning here.",
+        "ask": "\"ask the rules\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-626",
+      "level": "A2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Lena needs to ___ a receipt after the phone call.",
+      "options": [
+        "keep",
+        "hold",
+        "do",
+        "make"
+      ],
+      "answer": "keep",
+      "explanation": "The natural phrase is \"keep a receipt.\" The completed sentence is: Lena needs to keep a receipt after the phone call.",
+      "rationales": {
+        "keep": "The natural phrase is \"keep a receipt.\" The completed sentence is: Lena needs to keep a receipt after the phone call.",
+        "hold": "\"hold a receipt\" is not the natural phrase for this meaning here.",
+        "do": "\"do a receipt\" is not the natural phrase for this meaning here.",
+        "make": "\"make a receipt\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-627",
+      "level": "A2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Sofia left early because Sofia did not want to ___ a bus.",
+      "options": [
+        "miss",
+        "lose",
+        "drop",
+        "leave"
+      ],
+      "answer": "miss",
+      "explanation": "The natural phrase is \"miss a bus.\" The completed sentence is: Sofia left early because Sofia did not want to miss a bus.",
+      "rationales": {
+        "miss": "The natural phrase is \"miss a bus.\" The completed sentence is: Sofia left early because Sofia did not want to miss a bus.",
+        "lose": "\"lose a bus\" is not the natural phrase for this meaning here.",
+        "drop": "\"drop a bus\" is not the natural phrase for this meaning here.",
+        "leave": "\"leave a bus\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-628",
+      "level": "A2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "It is easy to ___ a mistake when the instructions change.",
+      "options": [
+        "make",
+        "do",
+        "take",
+        "catch"
+      ],
+      "answer": "make",
+      "explanation": "The natural phrase is \"make a mistake.\" The completed sentence is: It is easy to make a mistake when the instructions change.",
+      "rationales": {
+        "make": "The natural phrase is \"make a mistake.\" The completed sentence is: It is easy to make a mistake when the instructions change.",
+        "do": "\"do a mistake\" is not the natural phrase for this meaning here.",
+        "take": "\"take a mistake\" is not the natural phrase for this meaning here.",
+        "catch": "\"catch a mistake\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-629",
+      "level": "A2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Rina needs to ___ notes before the interview.",
+      "options": [
+        "take",
+        "make",
+        "do",
+        "write"
+      ],
+      "answer": "take",
+      "explanation": "The natural phrase is \"take notes.\" The completed sentence is: Rina needs to take notes before the interview.",
+      "rationales": {
+        "take": "The natural phrase is \"take notes.\" The completed sentence is: Rina needs to take notes before the interview.",
+        "make": "\"make notes\" is not the natural phrase for this meaning here.",
+        "do": "\"do notes\" is not the natural phrase for this meaning here.",
+        "write": "\"write notes\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-630",
+      "level": "A2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Mateo needs to ___ a form on the student portal.",
+      "options": [
+        "complete",
+        "do",
+        "make",
+        "write"
+      ],
+      "answer": "complete",
+      "explanation": "The natural phrase is \"complete a form.\" The completed sentence is: Mateo needs to complete a form on the student portal.",
+      "rationales": {
+        "complete": "The natural phrase is \"complete a form.\" The completed sentence is: Mateo needs to complete a form on the student portal.",
+        "do": "\"do a form\" is not the natural phrase for this meaning here.",
+        "make": "\"make a form\" is not the natural phrase for this meaning here.",
+        "write": "\"write a form\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-631",
+      "level": "A2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Hana needs to ___ a meeting during the workshop.",
+      "options": [
+        "attend",
+        "visit",
+        "assist",
+        "join"
+      ],
+      "answer": "attend",
+      "explanation": "The natural phrase is \"attend a meeting.\" The completed sentence is: Hana needs to attend a meeting during the workshop.",
+      "rationales": {
+        "attend": "The natural phrase is \"attend a meeting.\" The completed sentence is: Hana needs to attend a meeting during the workshop.",
+        "visit": "\"visit a meeting\" is not the natural phrase for this meaning here.",
+        "assist": "\"assist a meeting\" is not the natural phrase for this meaning here.",
+        "join": "\"join a meeting\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-632",
+      "level": "A2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Jonas needs to ___ a class before the deadline.",
+      "options": [
+        "join",
+        "enter",
+        "attend",
+        "follow"
+      ],
+      "answer": "join",
+      "explanation": "The natural phrase is \"join a class.\" The completed sentence is: Jonas needs to join a class before the deadline.",
+      "rationales": {
+        "join": "The natural phrase is \"join a class.\" The completed sentence is: Jonas needs to join a class before the deadline.",
+        "enter": "\"enter a class\" is not the natural phrase for this meaning here.",
+        "attend": "\"attend a class\" is not the natural phrase for this meaning here.",
+        "follow": "\"follow a class\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-633",
+      "level": "A2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Priya needs to ___ a train after reading the guide.",
+      "options": [
+        "catch",
+        "take",
+        "meet",
+        "reach"
+      ],
+      "answer": "catch",
+      "explanation": "The natural phrase is \"catch a train.\" The completed sentence is: Priya needs to catch a train after reading the guide.",
+      "rationales": {
+        "catch": "The natural phrase is \"catch a train.\" The completed sentence is: Priya needs to catch a train after reading the guide.",
+        "take": "\"take a train\" is not the natural phrase for this meaning here.",
+        "meet": "\"meet a train\" is not the natural phrase for this meaning here.",
+        "reach": "\"reach a train\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-634",
+      "level": "A2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Kenji needs to ___ a fee for the online task.",
+      "options": [
+        "pay",
+        "spend",
+        "cost",
+        "buy"
+      ],
+      "answer": "pay",
+      "explanation": "The natural phrase is \"pay a fee.\" The completed sentence is: Kenji needs to pay a fee for the online task.",
+      "rationales": {
+        "pay": "The natural phrase is \"pay a fee.\" The completed sentence is: Kenji needs to pay a fee for the online task.",
+        "spend": "\"spend a fee\" is not the natural phrase for this meaning here.",
+        "cost": "\"cost a fee\" is not the natural phrase for this meaning here.",
+        "buy": "\"buy a fee\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-635",
+      "level": "A2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Sara needs to ___ a contract before the review quiz.",
+      "options": [
+        "sign",
+        "write",
+        "mark",
+        "draw"
+      ],
+      "answer": "sign",
+      "explanation": "The natural phrase is \"sign a contract.\" The completed sentence is: Sara needs to sign a contract before the review quiz.",
+      "rationales": {
+        "sign": "The natural phrase is \"sign a contract.\" The completed sentence is: Sara needs to sign a contract before the review quiz.",
+        "write": "\"write a contract\" is not the natural phrase for this meaning here.",
+        "mark": "\"mark a contract\" is not the natural phrase for this meaning here.",
+        "draw": "\"draw a contract\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-636",
+      "level": "A2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Luis needs to ___ an appointment at reception.",
+      "options": [
+        "cancel",
+        "stop",
+        "close",
+        "leave"
+      ],
+      "answer": "cancel",
+      "explanation": "The natural phrase is \"cancel an appointment.\" The completed sentence is: Luis needs to cancel an appointment at reception.",
+      "rationales": {
+        "cancel": "The natural phrase is \"cancel an appointment.\" The completed sentence is: Luis needs to cancel an appointment at reception.",
+        "stop": "\"stop an appointment\" is not the natural phrase for this meaning here.",
+        "close": "\"close an appointment\" is not the natural phrase for this meaning here.",
+        "leave": "\"leave an appointment\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-637",
+      "level": "A2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Emma needs to ___ a meeting before Friday's lesson.",
+      "options": [
+        "arrange",
+        "put",
+        "set",
+        "make"
+      ],
+      "answer": "arrange",
+      "explanation": "The natural phrase is \"arrange a meeting.\" The completed sentence is: Emma needs to arrange a meeting before Friday's lesson.",
+      "rationales": {
+        "arrange": "The natural phrase is \"arrange a meeting.\" The completed sentence is: Emma needs to arrange a meeting before Friday's lesson.",
+        "put": "\"put a meeting\" is not the natural phrase for this meaning here.",
+        "set": "\"set a meeting\" is not the natural phrase for this meaning here.",
+        "make": "\"make a meeting\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-638",
+      "level": "A2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Noah needs to ___ instructions on the class website.",
+      "options": [
+        "follow",
+        "keep",
+        "walk",
+        "move"
+      ],
+      "answer": "follow",
+      "explanation": "The natural phrase is \"follow instructions.\" The completed sentence is: Noah needs to follow instructions on the class website.",
+      "rationales": {
+        "follow": "The natural phrase is \"follow instructions.\" The completed sentence is: Noah needs to follow instructions on the class website.",
+        "keep": "\"keep instructions\" is not the natural phrase for this meaning here.",
+        "walk": "\"walk instructions\" is not the natural phrase for this meaning here.",
+        "move": "\"move instructions\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-639",
+      "level": "A2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Yara needs to ___ advice after the reminder.",
+      "options": [
+        "give",
+        "say",
+        "tell",
+        "speak"
+      ],
+      "answer": "give",
+      "explanation": "The natural phrase is \"give advice.\" The completed sentence is: Yara needs to give advice after the reminder.",
+      "rationales": {
+        "give": "The natural phrase is \"give advice.\" The completed sentence is: Yara needs to give advice after the reminder.",
+        "say": "\"say advice\" is not the natural phrase for this meaning here.",
+        "tell": "\"tell advice\" is not the natural phrase for this meaning here.",
+        "speak": "\"speak advice\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-a2-640",
+      "level": "A2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Theo needs to ___ progress before submitting the form.",
+      "options": [
+        "make",
+        "do",
+        "take",
+        "hold"
+      ],
+      "answer": "make",
+      "explanation": "The natural phrase is \"make progress.\" The completed sentence is: Theo needs to make progress before submitting the form.",
+      "rationales": {
+        "make": "The natural phrase is \"make progress.\" The completed sentence is: Theo needs to make progress before submitting the form.",
+        "do": "\"do progress\" is not the natural phrase for this meaning here.",
+        "take": "\"take progress\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold progress\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-641",
+      "level": "B1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Mina needs to ___ a deadline before the staff meeting.",
+      "options": [
+        "meet",
+        "solve",
+        "raise",
+        "book"
+      ],
+      "answer": "meet",
+      "explanation": "The natural phrase is \"meet a deadline.\" The completed sentence is: Mina needs to meet a deadline before the staff meeting.",
+      "rationales": {
+        "meet": "The natural phrase is \"meet a deadline.\" The completed sentence is: Mina needs to meet a deadline before the staff meeting.",
+        "solve": "\"solve a deadline\" is not the natural phrase for this meaning here.",
+        "raise": "\"raise a deadline\" is not the natural phrase for this meaning here.",
+        "book": "\"book a deadline\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-642",
+      "level": "B1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Carlos needs to ___ a concern in the project plan.",
+      "options": [
+        "raise",
+        "meet",
+        "solve",
+        "book"
+      ],
+      "answer": "raise",
+      "explanation": "The natural phrase is \"raise a concern.\" The completed sentence is: Carlos needs to raise a concern in the project plan.",
+      "rationales": {
+        "raise": "The natural phrase is \"raise a concern.\" The completed sentence is: Carlos needs to raise a concern in the project plan.",
+        "meet": "\"meet a concern\" is not the natural phrase for this meaning here.",
+        "solve": "\"solve a concern\" is not the natural phrase for this meaning here.",
+        "book": "\"book a concern\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-643",
+      "level": "B1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Aiko needs to ___ an appointment before the client call.",
+      "options": [
+        "book",
+        "meet",
+        "solve",
+        "raise"
+      ],
+      "answer": "book",
+      "explanation": "The natural phrase is \"book an appointment.\" The completed sentence is: Aiko needs to book an appointment before the client call.",
+      "rationales": {
+        "book": "The natural phrase is \"book an appointment.\" The completed sentence is: Aiko needs to book an appointment before the client call.",
+        "meet": "\"meet an appointment\" is not the natural phrase for this meaning here.",
+        "solve": "\"solve an appointment\" is not the natural phrase for this meaning here.",
+        "raise": "\"raise an appointment\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-644",
+      "level": "B1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Nadia needs to ___ a problem during the training session.",
+      "options": [
+        "solve",
+        "meet",
+        "book",
+        "set"
+      ],
+      "answer": "solve",
+      "explanation": "The natural phrase is \"solve a problem.\" The completed sentence is: Nadia needs to solve a problem during the training session.",
+      "rationales": {
+        "solve": "The natural phrase is \"solve a problem.\" The completed sentence is: Nadia needs to solve a problem during the training session.",
+        "meet": "\"meet a problem\" is not the natural phrase for this meaning here.",
+        "book": "\"book a problem\" is not the natural phrase for this meaning here.",
+        "set": "\"set a problem\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-645",
+      "level": "B1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Omar needs to ___ a goal before the deadline.",
+      "options": [
+        "set",
+        "meet",
+        "raise",
+        "book"
+      ],
+      "answer": "set",
+      "explanation": "The natural phrase is \"set a goal.\" The completed sentence is: Omar needs to set a goal before the deadline.",
+      "rationales": {
+        "set": "The natural phrase is \"set a goal.\" The completed sentence is: Omar needs to set a goal before the deadline.",
+        "meet": "\"meet a goal\" is not the natural phrase for this meaning here.",
+        "raise": "\"raise a goal\" is not the natural phrase for this meaning here.",
+        "book": "\"book a goal\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-646",
+      "level": "B1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Lena needs to ___ requirements after the schedule changed.",
+      "options": [
+        "meet",
+        "touch",
+        "visit",
+        "arrive"
+      ],
+      "answer": "meet",
+      "explanation": "The natural phrase is \"meet requirements.\" The completed sentence is: Lena needs to meet requirements after the schedule changed.",
+      "rationales": {
+        "meet": "The natural phrase is \"meet requirements.\" The completed sentence is: Lena needs to meet requirements after the schedule changed.",
+        "touch": "\"touch requirements\" is not the natural phrase for this meaning here.",
+        "visit": "\"visit requirements\" is not the natural phrase for this meaning here.",
+        "arrive": "\"arrive requirements\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-647",
+      "level": "B1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Sofia needs to ___ awareness for the safety briefing.",
+      "options": [
+        "raise",
+        "lift",
+        "grow",
+        "make"
+      ],
+      "answer": "raise",
+      "explanation": "The natural phrase is \"raise awareness.\" The completed sentence is: Sofia needs to raise awareness for the safety briefing.",
+      "rationales": {
+        "raise": "The natural phrase is \"raise awareness.\" The completed sentence is: Sofia needs to raise awareness for the safety briefing.",
+        "lift": "\"lift awareness\" is not the natural phrase for this meaning here.",
+        "grow": "\"grow awareness\" is not the natural phrase for this meaning here.",
+        "make": "\"make awareness\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-648",
+      "level": "B1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Daniel needs to ___ a dispute in the weekly report.",
+      "options": [
+        "resolve",
+        "answer",
+        "close",
+        "finish"
+      ],
+      "answer": "resolve",
+      "explanation": "The natural phrase is \"resolve a dispute.\" The completed sentence is: Daniel needs to resolve a dispute in the weekly report.",
+      "rationales": {
+        "resolve": "The natural phrase is \"resolve a dispute.\" The completed sentence is: Daniel needs to resolve a dispute in the weekly report.",
+        "answer": "\"answer a dispute\" is not the natural phrase for this meaning here.",
+        "close": "\"close a dispute\" is not the natural phrase for this meaning here.",
+        "finish": "\"finish a dispute\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-649",
+      "level": "B1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Rina needs to ___ a request before the application review.",
+      "options": [
+        "submit",
+        "open",
+        "do",
+        "give"
+      ],
+      "answer": "submit",
+      "explanation": "The natural phrase is \"submit a request.\" The completed sentence is: Rina needs to submit a request before the application review.",
+      "rationales": {
+        "submit": "The natural phrase is \"submit a request.\" The completed sentence is: Rina needs to submit a request before the application review.",
+        "open": "\"open a request\" is not the natural phrase for this meaning here.",
+        "do": "\"do a request\" is not the natural phrase for this meaning here.",
+        "give": "\"give a request\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-650",
+      "level": "B1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Mateo needs to ___ an interview after the survey closed.",
+      "options": [
+        "conduct",
+        "make",
+        "solve",
+        "take"
+      ],
+      "answer": "conduct",
+      "explanation": "The natural phrase is \"conduct an interview.\" The completed sentence is: Mateo needs to conduct an interview after the survey closed.",
+      "rationales": {
+        "conduct": "The natural phrase is \"conduct an interview.\" The completed sentence is: Mateo needs to conduct an interview after the survey closed.",
+        "make": "\"make an interview\" is not the natural phrase for this meaning here.",
+        "solve": "\"solve an interview\" is not the natural phrase for this meaning here.",
+        "take": "\"take an interview\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-651",
+      "level": "B1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Hana needs to ___ arrangements during the planning discussion.",
+      "options": [
+        "make",
+        "do",
+        "set",
+        "put"
+      ],
+      "answer": "make",
+      "explanation": "The natural phrase is \"make arrangements.\" The completed sentence is: Hana needs to make arrangements during the planning discussion.",
+      "rationales": {
+        "make": "The natural phrase is \"make arrangements.\" The completed sentence is: Hana needs to make arrangements during the planning discussion.",
+        "do": "\"do arrangements\" is not the natural phrase for this meaning here.",
+        "set": "\"set arrangements\" is not the natural phrase for this meaning here.",
+        "put": "\"put arrangements\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-652",
+      "level": "B1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Jonas needs to ___ permission for the department update.",
+      "options": [
+        "give",
+        "make",
+        "allow",
+        "send"
+      ],
+      "answer": "give",
+      "explanation": "The natural phrase is \"give permission.\" The completed sentence is: Jonas needs to give permission for the department update.",
+      "rationales": {
+        "give": "The natural phrase is \"give permission.\" The completed sentence is: Jonas needs to give permission for the department update.",
+        "make": "\"make permission\" is not the natural phrase for this meaning here.",
+        "allow": "\"allow permission\" is not the natural phrase for this meaning here.",
+        "send": "\"send permission\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-653",
+      "level": "B1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Priya needs to ___ action before the course begins.",
+      "options": [
+        "take",
+        "make",
+        "do",
+        "move"
+      ],
+      "answer": "take",
+      "explanation": "The natural phrase is \"take action.\" The completed sentence is: Priya needs to take action before the course begins.",
+      "rationales": {
+        "take": "The natural phrase is \"take action.\" The completed sentence is: Priya needs to take action before the course begins.",
+        "make": "\"make action\" is not the natural phrase for this meaning here.",
+        "do": "\"do action\" is not the natural phrase for this meaning here.",
+        "move": "\"move action\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-654",
+      "level": "B1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "The tutor can ___ support during the first week.",
+      "options": [
+        "provide",
+        "make",
+        "hold",
+        "set"
+      ],
+      "answer": "provide",
+      "explanation": "The natural phrase is \"provide support.\" The completed sentence is: The tutor can provide support during the first week.",
+      "rationales": {
+        "provide": "The natural phrase is \"provide support.\" The completed sentence is: The tutor can provide support during the first week.",
+        "make": "\"make support\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold support\" is not the natural phrase for this meaning here.",
+        "set": "\"set support\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-655",
+      "level": "B1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Sara needs to ___ data after the policy reminder.",
+      "options": [
+        "collect",
+        "touch",
+        "solve",
+        "raise"
+      ],
+      "answer": "collect",
+      "explanation": "The natural phrase is \"collect data.\" The completed sentence is: Sara needs to collect data after the policy reminder.",
+      "rationales": {
+        "collect": "The natural phrase is \"collect data.\" The completed sentence is: Sara needs to collect data after the policy reminder.",
+        "touch": "\"touch data\" is not the natural phrase for this meaning here.",
+        "solve": "\"solve data\" is not the natural phrase for this meaning here.",
+        "raise": "\"raise data\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-656",
+      "level": "B1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Luis needs to ___ a conclusion before the team review.",
+      "options": [
+        "draw",
+        "make",
+        "take",
+        "hold"
+      ],
+      "answer": "draw",
+      "explanation": "The natural phrase is \"draw a conclusion.\" The completed sentence is: Luis needs to draw a conclusion before the team review.",
+      "rationales": {
+        "draw": "The natural phrase is \"draw a conclusion.\" The completed sentence is: Luis needs to draw a conclusion before the team review.",
+        "make": "\"make a conclusion\" is not the natural phrase for this meaning here.",
+        "take": "\"take a conclusion\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold a conclusion\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-657",
+      "level": "B1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Emma needs to ___ feedback on the checklist.",
+      "options": [
+        "receive",
+        "take",
+        "hear",
+        "accept"
+      ],
+      "answer": "receive",
+      "explanation": "The natural phrase is \"receive feedback.\" The completed sentence is: Emma needs to receive feedback on the checklist.",
+      "rationales": {
+        "receive": "The natural phrase is \"receive feedback.\" The completed sentence is: Emma needs to receive feedback on the checklist.",
+        "take": "\"take feedback\" is not the natural phrase for this meaning here.",
+        "hear": "\"hear feedback\" is not the natural phrase for this meaning here.",
+        "accept": "\"accept feedback\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-658",
+      "level": "B1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Noah needs to ___ costs for the supervisor's email.",
+      "options": [
+        "reduce",
+        "close",
+        "solve",
+        "hold"
+      ],
+      "answer": "reduce",
+      "explanation": "The natural phrase is \"reduce costs.\" The completed sentence is: Noah needs to reduce costs for the supervisor's email.",
+      "rationales": {
+        "reduce": "The natural phrase is \"reduce costs.\" The completed sentence is: Noah needs to reduce costs for the supervisor's email.",
+        "close": "\"close costs\" is not the natural phrase for this meaning here.",
+        "solve": "\"solve costs\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold costs\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-659",
+      "level": "B1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Yara needs to ___ performance during the support call.",
+      "options": [
+        "improve",
+        "grow",
+        "build",
+        "repair"
+      ],
+      "answer": "improve",
+      "explanation": "The natural phrase is \"improve performance.\" The completed sentence is: Yara needs to improve performance during the support call.",
+      "rationales": {
+        "improve": "The natural phrase is \"improve performance.\" The completed sentence is: Yara needs to improve performance during the support call.",
+        "grow": "\"grow performance\" is not the natural phrase for this meaning here.",
+        "build": "\"build performance\" is not the natural phrase for this meaning here.",
+        "repair": "\"repair performance\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b1-660",
+      "level": "B1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Theo needs to ___ confidence before the final report.",
+      "options": [
+        "gain",
+        "win",
+        "earn",
+        "take"
+      ],
+      "answer": "gain",
+      "explanation": "The natural phrase is \"gain confidence.\" The completed sentence is: Theo needs to gain confidence before the final report.",
+      "rationales": {
+        "gain": "The natural phrase is \"gain confidence.\" The completed sentence is: Theo needs to gain confidence before the final report.",
+        "win": "\"win confidence\" is not the natural phrase for this meaning here.",
+        "earn": "\"earn confidence\" is not the natural phrase for this meaning here.",
+        "take": "\"take confidence\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-661",
+      "level": "B2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Mina needs to ___ a conclusion before the audit deadline.",
+      "options": [
+        "reach",
+        "hold",
+        "gain",
+        "take"
+      ],
+      "answer": "reach",
+      "explanation": "The natural phrase is \"reach a conclusion.\" The completed sentence is: Mina needs to reach a conclusion before the audit deadline.",
+      "rationales": {
+        "reach": "The natural phrase is \"reach a conclusion.\" The completed sentence is: Mina needs to reach a conclusion before the audit deadline.",
+        "hold": "\"hold a conclusion\" is not the natural phrase for this meaning here.",
+        "gain": "\"gain a conclusion\" is not the natural phrase for this meaning here.",
+        "take": "\"take a conclusion\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-662",
+      "level": "B2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Carlos needs to ___ attention during the policy review.",
+      "options": [
+        "draw",
+        "reach",
+        "take",
+        "carry"
+      ],
+      "answer": "draw",
+      "explanation": "The natural phrase is \"draw attention.\" The completed sentence is: Carlos needs to draw attention during the policy review.",
+      "rationales": {
+        "draw": "The natural phrase is \"draw attention.\" The completed sentence is: Carlos needs to draw attention during the policy review.",
+        "reach": "\"reach attention\" is not the natural phrase for this meaning here.",
+        "take": "\"take attention\" is not the natural phrase for this meaning here.",
+        "carry": "\"carry attention\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-663",
+      "level": "B2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Aiko needs to ___ responsibility in the manager's briefing.",
+      "options": [
+        "take",
+        "reach",
+        "draw",
+        "gain"
+      ],
+      "answer": "take",
+      "explanation": "The natural phrase is \"take responsibility.\" The completed sentence is: Aiko needs to take responsibility in the manager's briefing.",
+      "rationales": {
+        "take": "The natural phrase is \"take responsibility.\" The completed sentence is: Aiko needs to take responsibility in the manager's briefing.",
+        "reach": "\"reach responsibility\" is not the natural phrase for this meaning here.",
+        "draw": "\"draw responsibility\" is not the natural phrase for this meaning here.",
+        "gain": "\"gain responsibility\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-664",
+      "level": "B2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Nadia needs to ___ experience before the budget meeting.",
+      "options": [
+        "gain",
+        "reach",
+        "draw",
+        "hold"
+      ],
+      "answer": "gain",
+      "explanation": "The natural phrase is \"gain experience.\" The completed sentence is: Nadia needs to gain experience before the budget meeting.",
+      "rationales": {
+        "gain": "The natural phrase is \"gain experience.\" The completed sentence is: Nadia needs to gain experience before the budget meeting.",
+        "reach": "\"reach experience\" is not the natural phrase for this meaning here.",
+        "draw": "\"draw experience\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold experience\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-665",
+      "level": "B2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Omar needs to ___ a meeting after the complaint review.",
+      "options": [
+        "hold",
+        "reach",
+        "draw",
+        "gain"
+      ],
+      "answer": "hold",
+      "explanation": "The natural phrase is \"hold a meeting.\" The completed sentence is: Omar needs to hold a meeting after the complaint review.",
+      "rationales": {
+        "hold": "The natural phrase is \"hold a meeting.\" The completed sentence is: Omar needs to hold a meeting after the complaint review.",
+        "reach": "\"reach a meeting\" is not the natural phrase for this meaning here.",
+        "draw": "\"draw a meeting\" is not the natural phrase for this meaning here.",
+        "gain": "\"gain a meeting\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-666",
+      "level": "B2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Lena needs to ___ an analysis for the training portal.",
+      "options": [
+        "conduct",
+        "hold",
+        "reach",
+        "take"
+      ],
+      "answer": "conduct",
+      "explanation": "The natural phrase is \"conduct an analysis.\" The completed sentence is: Lena needs to conduct an analysis for the training portal.",
+      "rationales": {
+        "conduct": "The natural phrase is \"conduct an analysis.\" The completed sentence is: Lena needs to conduct an analysis for the training portal.",
+        "hold": "\"hold an analysis\" is not the natural phrase for this meaning here.",
+        "reach": "\"reach an analysis\" is not the natural phrase for this meaning here.",
+        "take": "\"take an analysis\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-667",
+      "level": "B2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Sofia needs to ___ a question during the data check.",
+      "options": [
+        "pose",
+        "do",
+        "hold",
+        "reach"
+      ],
+      "answer": "pose",
+      "explanation": "The natural phrase is \"pose a question.\" The completed sentence is: Sofia needs to pose a question during the data check.",
+      "rationales": {
+        "pose": "The natural phrase is \"pose a question.\" The completed sentence is: Sofia needs to pose a question during the data check.",
+        "do": "\"do a question\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold a question\" is not the natural phrase for this meaning here.",
+        "reach": "\"reach a question\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-668",
+      "level": "B2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Daniel needs to ___ funding before signing the contract.",
+      "options": [
+        "allocate",
+        "put",
+        "send",
+        "follow"
+      ],
+      "answer": "allocate",
+      "explanation": "The natural phrase is \"allocate funding.\" The completed sentence is: Daniel needs to allocate funding before signing the contract.",
+      "rationales": {
+        "allocate": "The natural phrase is \"allocate funding.\" The completed sentence is: Daniel needs to allocate funding before signing the contract.",
+        "put": "\"put funding\" is not the natural phrase for this meaning here.",
+        "send": "\"send funding\" is not the natural phrase for this meaning here.",
+        "follow": "\"follow funding\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-669",
+      "level": "B2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Rina needs to ___ a policy in the customer update.",
+      "options": [
+        "implement",
+        "perform",
+        "do",
+        "install"
+      ],
+      "answer": "implement",
+      "explanation": "The natural phrase is \"implement a policy.\" The completed sentence is: Rina needs to implement a policy in the customer update.",
+      "rationales": {
+        "implement": "The natural phrase is \"implement a policy.\" The completed sentence is: Rina needs to implement a policy in the customer update.",
+        "perform": "\"perform a policy\" is not the natural phrase for this meaning here.",
+        "do": "\"do a policy\" is not the natural phrase for this meaning here.",
+        "install": "\"install a policy\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-670",
+      "level": "B2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Mateo needs to ___ concerns after the planning call.",
+      "options": [
+        "address",
+        "speak",
+        "tell",
+        "answer"
+      ],
+      "answer": "address",
+      "explanation": "The natural phrase is \"address concerns.\" The completed sentence is: Mateo needs to address concerns after the planning call.",
+      "rationales": {
+        "address": "The natural phrase is \"address concerns.\" The completed sentence is: Mateo needs to address concerns after the planning call.",
+        "speak": "\"speak concerns\" is not the natural phrase for this meaning here.",
+        "tell": "\"tell concerns\" is not the natural phrase for this meaning here.",
+        "answer": "\"answer concerns\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-671",
+      "level": "B2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Hana needs to ___ standards for the project dashboard.",
+      "options": [
+        "maintain",
+        "save",
+        "make",
+        "open"
+      ],
+      "answer": "maintain",
+      "explanation": "The natural phrase is \"maintain standards.\" The completed sentence is: Hana needs to maintain standards for the project dashboard.",
+      "rationales": {
+        "maintain": "The natural phrase is \"maintain standards.\" The completed sentence is: Hana needs to maintain standards for the project dashboard.",
+        "save": "\"save standards\" is not the natural phrase for this meaning here.",
+        "make": "\"make standards\" is not the natural phrase for this meaning here.",
+        "open": "\"open standards\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-672",
+      "level": "B2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Jonas needs to ___ responsibility before the board discussion.",
+      "options": [
+        "assume",
+        "hold",
+        "make",
+        "carry"
+      ],
+      "answer": "assume",
+      "explanation": "The natural phrase is \"assume responsibility.\" The completed sentence is: Jonas needs to assume responsibility before the board discussion.",
+      "rationales": {
+        "assume": "The natural phrase is \"assume responsibility.\" The completed sentence is: Jonas needs to assume responsibility before the board discussion.",
+        "hold": "\"hold responsibility\" is not the natural phrase for this meaning here.",
+        "make": "\"make responsibility\" is not the natural phrase for this meaning here.",
+        "carry": "\"carry responsibility\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-673",
+      "level": "B2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Priya needs to ___ evidence during the hiring process.",
+      "options": [
+        "present",
+        "make",
+        "hold",
+        "reach"
+      ],
+      "answer": "present",
+      "explanation": "The natural phrase is \"present evidence.\" The completed sentence is: Priya needs to present evidence during the hiring process.",
+      "rationales": {
+        "present": "The natural phrase is \"present evidence.\" The completed sentence is: Priya needs to present evidence during the hiring process.",
+        "make": "\"make evidence\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold evidence\" is not the natural phrase for this meaning here.",
+        "reach": "\"reach evidence\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-674",
+      "level": "B2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Kenji needs to ___ an objective on the revised procedure.",
+      "options": [
+        "achieve",
+        "touch",
+        "hold",
+        "make"
+      ],
+      "answer": "achieve",
+      "explanation": "The natural phrase is \"achieve an objective.\" The completed sentence is: Kenji needs to achieve an objective on the revised procedure.",
+      "rationales": {
+        "achieve": "The natural phrase is \"achieve an objective.\" The completed sentence is: Kenji needs to achieve an objective on the revised procedure.",
+        "touch": "\"touch an objective\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold an objective\" is not the natural phrase for this meaning here.",
+        "make": "\"make an objective\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-675",
+      "level": "B2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Sara needs to ___ criteria after the service report.",
+      "options": [
+        "establish",
+        "open",
+        "touch",
+        "reach"
+      ],
+      "answer": "establish",
+      "explanation": "The natural phrase is \"establish criteria.\" The completed sentence is: Sara needs to establish criteria after the service report.",
+      "rationales": {
+        "establish": "The natural phrase is \"establish criteria.\" The completed sentence is: Sara needs to establish criteria after the service report.",
+        "open": "\"open criteria\" is not the natural phrase for this meaning here.",
+        "touch": "\"touch criteria\" is not the natural phrase for this meaning here.",
+        "reach": "\"reach criteria\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-676",
+      "level": "B2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Luis needs to ___ risk for the quarterly summary.",
+      "options": [
+        "assess",
+        "count",
+        "answer",
+        "make"
+      ],
+      "answer": "assess",
+      "explanation": "The natural phrase is \"assess risk.\" The completed sentence is: Luis needs to assess risk for the quarterly summary.",
+      "rationales": {
+        "assess": "The natural phrase is \"assess risk.\" The completed sentence is: Luis needs to assess risk for the quarterly summary.",
+        "count": "\"count risk\" is not the natural phrase for this meaning here.",
+        "answer": "\"answer risk\" is not the natural phrase for this meaning here.",
+        "make": "\"make risk\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-677",
+      "level": "B2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Emma needs to ___ discussion before the compliance check.",
+      "options": [
+        "facilitate",
+        "make",
+        "open",
+        "solve"
+      ],
+      "answer": "facilitate",
+      "explanation": "The natural phrase is \"facilitate discussion.\" The completed sentence is: Emma needs to facilitate discussion before the compliance check.",
+      "rationales": {
+        "facilitate": "The natural phrase is \"facilitate discussion.\" The completed sentence is: Emma needs to facilitate discussion before the compliance check.",
+        "make": "\"make discussion\" is not the natural phrase for this meaning here.",
+        "open": "\"open discussion\" is not the natural phrase for this meaning here.",
+        "solve": "\"solve discussion\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-678",
+      "level": "B2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Noah needs to ___ an obligation during the operations review.",
+      "options": [
+        "fulfill",
+        "serve",
+        "open",
+        "touch"
+      ],
+      "answer": "fulfill",
+      "explanation": "The natural phrase is \"fulfill an obligation.\" The completed sentence is: Noah needs to fulfill an obligation during the operations review.",
+      "rationales": {
+        "fulfill": "The natural phrase is \"fulfill an obligation.\" The completed sentence is: Noah needs to fulfill an obligation during the operations review.",
+        "serve": "\"serve an obligation\" is not the natural phrase for this meaning here.",
+        "open": "\"open an obligation\" is not the natural phrase for this meaning here.",
+        "touch": "\"touch an obligation\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-679",
+      "level": "B2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Yara needs to ___ an estimate in the evaluation memo.",
+      "options": [
+        "revise",
+        "change",
+        "review",
+        "renew"
+      ],
+      "answer": "revise",
+      "explanation": "The natural phrase is \"revise an estimate.\" The completed sentence is: Yara needs to revise an estimate in the evaluation memo.",
+      "rationales": {
+        "revise": "The natural phrase is \"revise an estimate.\" The completed sentence is: Yara needs to revise an estimate in the evaluation memo.",
+        "change": "\"change an estimate\" is not the natural phrase for this meaning here.",
+        "review": "\"review an estimate\" is not the natural phrase for this meaning here.",
+        "renew": "\"renew an estimate\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-b2-680",
+      "level": "B2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Theo needs to ___ progress before the final decision.",
+      "options": [
+        "monitor",
+        "hold",
+        "meet",
+        "open"
+      ],
+      "answer": "monitor",
+      "explanation": "The natural phrase is \"monitor progress.\" The completed sentence is: Theo needs to monitor progress before the final decision.",
+      "rationales": {
+        "monitor": "The natural phrase is \"monitor progress.\" The completed sentence is: Theo needs to monitor progress before the final decision.",
+        "hold": "\"hold progress\" is not the natural phrase for this meaning here.",
+        "meet": "\"meet progress\" is not the natural phrase for this meaning here.",
+        "open": "\"open progress\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-681",
+      "level": "C1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Mina needs to ___ a challenge before the committee review.",
+      "options": [
+        "pose",
+        "conduct",
+        "allocate",
+        "submit"
+      ],
+      "answer": "pose",
+      "explanation": "The natural phrase is \"pose a challenge.\" The completed sentence is: Mina needs to pose a challenge before the committee review.",
+      "rationales": {
+        "pose": "The natural phrase is \"pose a challenge.\" The completed sentence is: Mina needs to pose a challenge before the committee review.",
+        "conduct": "\"conduct a challenge\" is not the natural phrase for this meaning here.",
+        "allocate": "\"allocate a challenge\" is not the natural phrase for this meaning here.",
+        "submit": "\"submit a challenge\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-682",
+      "level": "C1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Carlos needs to ___ research in the methodology section.",
+      "options": [
+        "conduct",
+        "pose",
+        "submit",
+        "allocate"
+      ],
+      "answer": "conduct",
+      "explanation": "The natural phrase is \"conduct research.\" The completed sentence is: Carlos needs to conduct research in the methodology section.",
+      "rationales": {
+        "conduct": "The natural phrase is \"conduct research.\" The completed sentence is: Carlos needs to conduct research in the methodology section.",
+        "pose": "\"pose research\" is not the natural phrase for this meaning here.",
+        "submit": "\"submit research\" is not the natural phrase for this meaning here.",
+        "allocate": "\"allocate research\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-683",
+      "level": "C1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Aiko needs to ___ resources during the stakeholder meeting.",
+      "options": [
+        "allocate",
+        "pose",
+        "conduct",
+        "submit"
+      ],
+      "answer": "allocate",
+      "explanation": "The natural phrase is \"allocate resources.\" The completed sentence is: Aiko needs to allocate resources during the stakeholder meeting.",
+      "rationales": {
+        "allocate": "The natural phrase is \"allocate resources.\" The completed sentence is: Aiko needs to allocate resources during the stakeholder meeting.",
+        "pose": "\"pose resources\" is not the natural phrase for this meaning here.",
+        "conduct": "\"conduct resources\" is not the natural phrase for this meaning here.",
+        "submit": "\"submit resources\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-684",
+      "level": "C1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Nadia needs to ___ a proposal before issuing the recommendation.",
+      "options": [
+        "submit",
+        "pose",
+        "conduct",
+        "allocate"
+      ],
+      "answer": "submit",
+      "explanation": "The natural phrase is \"submit a proposal.\" The completed sentence is: Nadia needs to submit a proposal before issuing the recommendation.",
+      "rationales": {
+        "submit": "The natural phrase is \"submit a proposal.\" The completed sentence is: Nadia needs to submit a proposal before issuing the recommendation.",
+        "pose": "\"pose a proposal\" is not the natural phrase for this meaning here.",
+        "conduct": "\"conduct a proposal\" is not the natural phrase for this meaning here.",
+        "allocate": "\"allocate a proposal\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-685",
+      "level": "C1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "The author must ___ evidence for the central claim.",
+      "options": [
+        "provide",
+        "pose",
+        "conduct",
+        "allocate"
+      ],
+      "answer": "provide",
+      "explanation": "The natural phrase is \"provide evidence.\" The completed sentence is: The author must provide evidence for the central claim.",
+      "rationales": {
+        "provide": "The natural phrase is \"provide evidence.\" The completed sentence is: The author must provide evidence for the central claim.",
+        "pose": "\"pose evidence\" is not the natural phrase for this meaning here.",
+        "conduct": "\"conduct evidence\" is not the natural phrase for this meaning here.",
+        "allocate": "\"allocate evidence\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-686",
+      "level": "C1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Lena needs to ___ a strategy for the compliance review.",
+      "options": [
+        "formulate",
+        "make",
+        "write",
+        "design"
+      ],
+      "answer": "formulate",
+      "explanation": "The natural phrase is \"formulate a strategy.\" The completed sentence is: Lena needs to formulate a strategy for the compliance review.",
+      "rationales": {
+        "formulate": "The natural phrase is \"formulate a strategy.\" The completed sentence is: Lena needs to formulate a strategy for the compliance review.",
+        "make": "\"make a strategy\" is not the natural phrase for this meaning here.",
+        "write": "\"write a strategy\" is not the natural phrase for this meaning here.",
+        "design": "\"design a strategy\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-687",
+      "level": "C1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "The team plans to ___ safeguards after the risk review.",
+      "options": [
+        "implement",
+        "install",
+        "perform",
+        "do"
+      ],
+      "answer": "implement",
+      "explanation": "The natural phrase is \"implement safeguards.\" The completed sentence is: The team plans to implement safeguards after the risk review.",
+      "rationales": {
+        "implement": "The natural phrase is \"implement safeguards.\" The completed sentence is: The team plans to implement safeguards after the risk review.",
+        "install": "\"install safeguards\" is not the natural phrase for this meaning here.",
+        "perform": "\"perform safeguards\" is not the natural phrase for this meaning here.",
+        "do": "\"do safeguards\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-688",
+      "level": "C1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Daniel needs to ___ consent after the pilot program.",
+      "options": [
+        "obtain",
+        "take",
+        "make",
+        "hold"
+      ],
+      "answer": "obtain",
+      "explanation": "The natural phrase is \"obtain consent.\" The completed sentence is: Daniel needs to obtain consent after the pilot program.",
+      "rationales": {
+        "obtain": "The natural phrase is \"obtain consent.\" The completed sentence is: Daniel needs to obtain consent after the pilot program.",
+        "take": "\"take consent\" is not the natural phrase for this meaning here.",
+        "make": "\"make consent\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold consent\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-689",
+      "level": "C1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Rina needs to ___ outcomes before publishing the findings.",
+      "options": [
+        "evaluate",
+        "make",
+        "hold",
+        "raise"
+      ],
+      "answer": "evaluate",
+      "explanation": "The natural phrase is \"evaluate outcomes.\" The completed sentence is: Rina needs to evaluate outcomes before publishing the findings.",
+      "rationales": {
+        "evaluate": "The natural phrase is \"evaluate outcomes.\" The completed sentence is: Rina needs to evaluate outcomes before publishing the findings.",
+        "make": "\"make outcomes\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold outcomes\" is not the natural phrase for this meaning here.",
+        "raise": "\"raise outcomes\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-690",
+      "level": "C1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Mateo needs to ___ a precedent in the grant application.",
+      "options": [
+        "establish",
+        "open",
+        "follow",
+        "touch"
+      ],
+      "answer": "establish",
+      "explanation": "The natural phrase is \"establish a precedent.\" The completed sentence is: Mateo needs to establish a precedent in the grant application.",
+      "rationales": {
+        "establish": "The natural phrase is \"establish a precedent.\" The completed sentence is: Mateo needs to establish a precedent in the grant application.",
+        "open": "\"open a precedent\" is not the natural phrase for this meaning here.",
+        "follow": "\"follow a precedent\" is not the natural phrase for this meaning here.",
+        "touch": "\"touch a precedent\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-691",
+      "level": "C1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Hana needs to ___ constraints during the seminar.",
+      "options": [
+        "identify",
+        "make",
+        "hold",
+        "answer"
+      ],
+      "answer": "identify",
+      "explanation": "The natural phrase is \"identify constraints.\" The completed sentence is: Hana needs to identify constraints during the seminar.",
+      "rationales": {
+        "identify": "The natural phrase is \"identify constraints.\" The completed sentence is: Hana needs to identify constraints during the seminar.",
+        "make": "\"make constraints\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold constraints\" is not the natural phrase for this meaning here.",
+        "answer": "\"answer constraints\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-692",
+      "level": "C1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Jonas needs to ___ differences on the risk assessment.",
+      "options": [
+        "reconcile",
+        "make",
+        "hold",
+        "raise"
+      ],
+      "answer": "reconcile",
+      "explanation": "The natural phrase is \"reconcile differences.\" The completed sentence is: Jonas needs to reconcile differences on the risk assessment.",
+      "rationales": {
+        "reconcile": "The natural phrase is \"reconcile differences.\" The completed sentence is: Jonas needs to reconcile differences on the risk assessment.",
+        "make": "\"make differences\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold differences\" is not the natural phrase for this meaning here.",
+        "raise": "\"raise differences\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-693",
+      "level": "C1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Priya needs to ___ a methodology after coding the interviews.",
+      "options": [
+        "refine",
+        "clean",
+        "move",
+        "hold"
+      ],
+      "answer": "refine",
+      "explanation": "The natural phrase is \"refine a methodology.\" The completed sentence is: Priya needs to refine a methodology after coding the interviews.",
+      "rationales": {
+        "refine": "The natural phrase is \"refine a methodology.\" The completed sentence is: Priya needs to refine a methodology after coding the interviews.",
+        "clean": "\"clean a methodology\" is not the natural phrase for this meaning here.",
+        "move": "\"move a methodology\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold a methodology\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-694",
+      "level": "C1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Kenji needs to ___ assumptions before the final vote.",
+      "options": [
+        "challenge",
+        "fight",
+        "refuse",
+        "move"
+      ],
+      "answer": "challenge",
+      "explanation": "The natural phrase is \"challenge assumptions.\" The completed sentence is: Kenji needs to challenge assumptions before the final vote.",
+      "rationales": {
+        "challenge": "The natural phrase is \"challenge assumptions.\" The completed sentence is: Kenji needs to challenge assumptions before the final vote.",
+        "fight": "\"fight assumptions\" is not the natural phrase for this meaning here.",
+        "refuse": "\"refuse assumptions\" is not the natural phrase for this meaning here.",
+        "move": "\"move assumptions\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-695",
+      "level": "C1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Sara needs to ___ limitations in the appendix.",
+      "options": [
+        "address",
+        "speak",
+        "hold",
+        "make"
+      ],
+      "answer": "address",
+      "explanation": "The natural phrase is \"address limitations.\" The completed sentence is: Sara needs to address limitations in the appendix.",
+      "rationales": {
+        "address": "The natural phrase is \"address limitations.\" The completed sentence is: Sara needs to address limitations in the appendix.",
+        "speak": "\"speak limitations\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold limitations\" is not the natural phrase for this meaning here.",
+        "make": "\"make limitations\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-696",
+      "level": "C1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "Luis needs to ___ insight for the advisory brief.",
+      "options": [
+        "generate",
+        "hold",
+        "touch",
+        "send"
+      ],
+      "answer": "generate",
+      "explanation": "The natural phrase is \"generate insight.\" The completed sentence is: Luis needs to generate insight for the advisory brief.",
+      "rationales": {
+        "generate": "The natural phrase is \"generate insight.\" The completed sentence is: Luis needs to generate insight for the advisory brief.",
+        "hold": "\"hold insight\" is not the natural phrase for this meaning here.",
+        "touch": "\"touch insight\" is not the natural phrase for this meaning here.",
+        "send": "\"send insight\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-697",
+      "level": "C1",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "Emma needs to ___ confidentiality during the protocol review.",
+      "options": [
+        "maintain",
+        "save",
+        "hold",
+        "make"
+      ],
+      "answer": "maintain",
+      "explanation": "The natural phrase is \"maintain confidentiality.\" The completed sentence is: Emma needs to maintain confidentiality during the protocol review.",
+      "rationales": {
+        "maintain": "The natural phrase is \"maintain confidentiality.\" The completed sentence is: Emma needs to maintain confidentiality during the protocol review.",
+        "save": "\"save confidentiality\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold confidentiality\" is not the natural phrase for this meaning here.",
+        "make": "\"make confidentiality\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-698",
+      "level": "C1",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "Noah needs to ___ feasibility on the evidence table.",
+      "options": [
+        "assess",
+        "measure",
+        "open",
+        "hold"
+      ],
+      "answer": "assess",
+      "explanation": "The natural phrase is \"assess feasibility.\" The completed sentence is: Noah needs to assess feasibility on the evidence table.",
+      "rationales": {
+        "assess": "The natural phrase is \"assess feasibility.\" The completed sentence is: Noah needs to assess feasibility on the evidence table.",
+        "measure": "\"measure feasibility\" is not the natural phrase for this meaning here.",
+        "open": "\"open feasibility\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold feasibility\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-699",
+      "level": "C1",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "Yara needs to ___ compliance before the policy draft.",
+      "options": [
+        "ensure",
+        "make",
+        "guard",
+        "hold"
+      ],
+      "answer": "ensure",
+      "explanation": "The natural phrase is \"ensure compliance.\" The completed sentence is: Yara needs to ensure compliance before the policy draft.",
+      "rationales": {
+        "ensure": "The natural phrase is \"ensure compliance.\" The completed sentence is: Yara needs to ensure compliance before the policy draft.",
+        "make": "\"make compliance\" is not the natural phrase for this meaning here.",
+        "guard": "\"guard compliance\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold compliance\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c1-700",
+      "level": "C1",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "The new workshop is designed to ___ collaboration among teachers.",
+      "options": [
+        "foster",
+        "raise",
+        "make",
+        "hold"
+      ],
+      "answer": "foster",
+      "explanation": "The natural phrase is \"foster collaboration.\" The completed sentence is: The new workshop is designed to foster collaboration among teachers.",
+      "rationales": {
+        "foster": "The natural phrase is \"foster collaboration.\" The completed sentence is: The new workshop is designed to foster collaboration among teachers.",
+        "raise": "\"raise collaboration\" is not the natural phrase for this meaning here.",
+        "make": "\"make collaboration\" is not the natural phrase for this meaning here.",
+        "hold": "\"hold collaboration\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-701",
+      "level": "C2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "The revised procedure is intended to ___ risk during the hearing.",
+      "options": [
+        "mitigate",
+        "yield",
+        "exert",
+        "formulate"
+      ],
+      "answer": "mitigate",
+      "explanation": "The natural phrase is \"mitigate risk.\" The completed sentence is: The revised procedure is intended to mitigate risk during the hearing.",
+      "rationales": {
+        "mitigate": "The natural phrase is \"mitigate risk.\" The completed sentence is: The revised procedure is intended to mitigate risk during the hearing.",
+        "yield": "\"yield risk\" is not the natural phrase for this meaning here.",
+        "exert": "\"exert risk\" is not the natural phrase for this meaning here.",
+        "formulate": "\"formulate risk\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-702",
+      "level": "C2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "The small pilot may ___ results that justify further study.",
+      "options": [
+        "yield",
+        "mitigate",
+        "exert",
+        "formulate"
+      ],
+      "answer": "yield",
+      "explanation": "The natural phrase is \"yield results.\" The completed sentence is: The small pilot may yield results that justify further study.",
+      "rationales": {
+        "yield": "The natural phrase is \"yield results.\" The completed sentence is: The small pilot may yield results that justify further study.",
+        "mitigate": "\"mitigate results\" is not the natural phrase for this meaning here.",
+        "exert": "\"exert results\" is not the natural phrase for this meaning here.",
+        "formulate": "\"formulate results\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-703",
+      "level": "C2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "A funding change can ___ influence over local practice.",
+      "options": [
+        "exert",
+        "yield",
+        "mitigate",
+        "formulate"
+      ],
+      "answer": "exert",
+      "explanation": "The natural phrase is \"exert influence.\" The completed sentence is: A funding change can exert influence over local practice.",
+      "rationales": {
+        "exert": "The natural phrase is \"exert influence.\" The completed sentence is: A funding change can exert influence over local practice.",
+        "yield": "\"yield influence\" is not the natural phrase for this meaning here.",
+        "mitigate": "\"mitigate influence\" is not the natural phrase for this meaning here.",
+        "formulate": "\"formulate influence\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-704",
+      "level": "C2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "The panel must ___ evidence before accepting the claim.",
+      "options": [
+        "scrutinize",
+        "mitigate",
+        "exert",
+        "formulate"
+      ],
+      "answer": "scrutinize",
+      "explanation": "The natural phrase is \"scrutinize evidence.\" The completed sentence is: The panel must scrutinize evidence before accepting the claim.",
+      "rationales": {
+        "scrutinize": "The natural phrase is \"scrutinize evidence.\" The completed sentence is: The panel must scrutinize evidence before accepting the claim.",
+        "mitigate": "\"mitigate evidence\" is not the natural phrase for this meaning here.",
+        "exert": "\"exert evidence\" is not the natural phrase for this meaning here.",
+        "formulate": "\"formulate evidence\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-705",
+      "level": "C2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "The researchers tried to ___ a hypothesis before collecting data.",
+      "options": [
+        "formulate",
+        "mitigate",
+        "yield",
+        "exert"
+      ],
+      "answer": "formulate",
+      "explanation": "The natural phrase is \"formulate a hypothesis.\" The completed sentence is: The researchers tried to formulate a hypothesis before collecting data.",
+      "rationales": {
+        "formulate": "The natural phrase is \"formulate a hypothesis.\" The completed sentence is: The researchers tried to formulate a hypothesis before collecting data.",
+        "mitigate": "\"mitigate a hypothesis\" is not the natural phrase for this meaning here.",
+        "yield": "\"yield a hypothesis\" is not the natural phrase for this meaning here.",
+        "exert": "\"exert a hypothesis\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-706",
+      "level": "C2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "The defense will ___ evidence before the arbitration panel.",
+      "options": [
+        "adduce",
+        "infer",
+        "derive",
+        "construe"
+      ],
+      "answer": "adduce",
+      "explanation": "The natural phrase is \"adduce evidence.\" The completed sentence is: The defense will adduce evidence before the arbitration panel.",
+      "rationales": {
+        "adduce": "The natural phrase is \"adduce evidence.\" The completed sentence is: The defense will adduce evidence before the arbitration panel.",
+        "infer": "\"infer evidence\" is not the natural phrase for this meaning here.",
+        "derive": "\"derive evidence\" is not the natural phrase for this meaning here.",
+        "construe": "\"construe evidence\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-707",
+      "level": "C2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "A hidden fee may ___ consent under the revised policy.",
+      "options": [
+        "vitiate",
+        "damage",
+        "cancel",
+        "weaken"
+      ],
+      "answer": "vitiate",
+      "explanation": "The natural phrase is \"vitiate consent.\" The completed sentence is: A hidden fee may vitiate consent under the revised policy.",
+      "rationales": {
+        "vitiate": "The natural phrase is \"vitiate consent.\" The completed sentence is: A hidden fee may vitiate consent under the revised policy.",
+        "damage": "\"damage consent\" is not the natural phrase for this meaning here.",
+        "cancel": "\"cancel consent\" is not the natural phrase for this meaning here.",
+        "weaken": "\"weaken consent\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-708",
+      "level": "C2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "The ruling may ___ discretion in later cases.",
+      "options": [
+        "circumscribe",
+        "draw",
+        "define",
+        "preclude"
+      ],
+      "answer": "circumscribe",
+      "explanation": "The natural phrase is \"circumscribe discretion.\" The completed sentence is: The ruling may circumscribe discretion in later cases.",
+      "rationales": {
+        "circumscribe": "The natural phrase is \"circumscribe discretion.\" The completed sentence is: The ruling may circumscribe discretion in later cases.",
+        "draw": "\"draw discretion\" is not the natural phrase for this meaning here.",
+        "define": "\"define discretion\" is not the natural phrase for this meaning here.",
+        "preclude": "\"preclude discretion\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-709",
+      "level": "C2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "The court must ___ the statute in light of the amendment.",
+      "options": [
+        "construe",
+        "adduce",
+        "rebut",
+        "attenuate"
+      ],
+      "answer": "construe",
+      "explanation": "The natural phrase is \"construe the statute.\" The completed sentence is: The court must construe the statute in light of the amendment.",
+      "rationales": {
+        "construe": "The natural phrase is \"construe the statute.\" The completed sentence is: The court must construe the statute in light of the amendment.",
+        "adduce": "\"adduce the statute\" is not the natural phrase for this meaning here.",
+        "rebut": "\"rebut the statute\" is not the natural phrase for this meaning here.",
+        "attenuate": "\"attenuate the statute\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-710",
+      "level": "C2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "The witness tried to ___ an allegation with dated records.",
+      "options": [
+        "substantiate",
+        "state",
+        "infer",
+        "confer"
+      ],
+      "answer": "substantiate",
+      "explanation": "The natural phrase is \"substantiate an allegation.\" The completed sentence is: The witness tried to substantiate an allegation with dated records.",
+      "rationales": {
+        "substantiate": "The natural phrase is \"substantiate an allegation.\" The completed sentence is: The witness tried to substantiate an allegation with dated records.",
+        "state": "\"state an allegation\" is not the natural phrase for this meaning here.",
+        "infer": "\"infer an allegation\" is not the natural phrase for this meaning here.",
+        "confer": "\"confer an allegation\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-711",
+      "level": "C2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "The delayed intervention may ___ causality in the model.",
+      "options": [
+        "attenuate",
+        "derive",
+        "preclude",
+        "instantiate"
+      ],
+      "answer": "attenuate",
+      "explanation": "The natural phrase is \"attenuate causality.\" The completed sentence is: The delayed intervention may attenuate causality in the model.",
+      "rationales": {
+        "attenuate": "The natural phrase is \"attenuate causality.\" The completed sentence is: The delayed intervention may attenuate causality in the model.",
+        "derive": "\"derive causality\" is not the natural phrase for this meaning here.",
+        "preclude": "\"preclude causality\" is not the natural phrase for this meaning here.",
+        "instantiate": "\"instantiate causality\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-712",
+      "level": "C2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "The appellant may ___ precedent from the earlier ruling.",
+      "options": [
+        "invoke",
+        "give",
+        "take",
+        "draw"
+      ],
+      "answer": "invoke",
+      "explanation": "The natural phrase is \"invoke precedent.\" The completed sentence is: The appellant may invoke precedent from the earlier ruling.",
+      "rationales": {
+        "invoke": "The natural phrase is \"invoke precedent.\" The completed sentence is: The appellant may invoke precedent from the earlier ruling.",
+        "give": "\"give precedent\" is not the natural phrase for this meaning here.",
+        "take": "\"take precedent\" is not the natural phrase for this meaning here.",
+        "draw": "\"draw precedent\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-713",
+      "level": "C2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "The agency tried to ___ a presumption created by the statute.",
+      "options": [
+        "rebut",
+        "derive",
+        "confer",
+        "circumscribe"
+      ],
+      "answer": "rebut",
+      "explanation": "The natural phrase is \"rebut a presumption.\" The completed sentence is: The agency tried to rebut a presumption created by the statute.",
+      "rationales": {
+        "rebut": "The natural phrase is \"rebut a presumption.\" The completed sentence is: The agency tried to rebut a presumption created by the statute.",
+        "derive": "\"derive a presumption\" is not the natural phrase for this meaning here.",
+        "confer": "\"confer a presumption\" is not the natural phrase for this meaning here.",
+        "circumscribe": "\"circumscribe a presumption\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-714",
+      "level": "C2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "The brief attempts to ___ authorities that appear to conflict.",
+      "options": [
+        "reconcile",
+        "combine",
+        "settle",
+        "join"
+      ],
+      "answer": "reconcile",
+      "explanation": "The natural phrase is \"reconcile authorities.\" The completed sentence is: The brief attempts to reconcile authorities that appear to conflict.",
+      "rationales": {
+        "reconcile": "The natural phrase is \"reconcile authorities.\" The completed sentence is: The brief attempts to reconcile authorities that appear to conflict.",
+        "combine": "\"combine authorities\" is not the natural phrase for this meaning here.",
+        "settle": "\"settle authorities\" is not the natural phrase for this meaning here.",
+        "join": "\"join authorities\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-715",
+      "level": "C2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "The definition helps ___ scope without rewriting the rule.",
+      "options": [
+        "delimit",
+        "mark",
+        "measure",
+        "discharge"
+      ],
+      "answer": "delimit",
+      "explanation": "The natural phrase is \"delimit scope.\" The completed sentence is: The definition helps delimit scope without rewriting the rule.",
+      "rationales": {
+        "delimit": "The natural phrase is \"delimit scope.\" The completed sentence is: The definition helps delimit scope without rewriting the rule.",
+        "mark": "\"mark scope\" is not the natural phrase for this meaning here.",
+        "measure": "\"measure scope\" is not the natural phrase for this meaning here.",
+        "discharge": "\"discharge scope\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-716",
+      "level": "C2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "The seminar asks students to ___ assumptions behind the method.",
+      "options": [
+        "interrogate",
+        "ask",
+        "inspect",
+        "question"
+      ],
+      "answer": "interrogate",
+      "explanation": "The natural phrase is \"interrogate assumptions.\" The completed sentence is: The seminar asks students to interrogate assumptions behind the method.",
+      "rationales": {
+        "interrogate": "The natural phrase is \"interrogate assumptions.\" The completed sentence is: The seminar asks students to interrogate assumptions behind the method.",
+        "ask": "\"ask assumptions\" is not the natural phrase for this meaning here.",
+        "inspect": "\"inspect assumptions\" is not the natural phrase for this meaning here.",
+        "question": "\"question assumptions\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-717",
+      "level": "C2",
+      "setupText": "Choose the word that naturally goes with the phrase.",
+      "taskText": "The example may ___ a principle that the article states abstractly.",
+      "options": [
+        "instantiate",
+        "create",
+        "derive",
+        "rebut"
+      ],
+      "answer": "instantiate",
+      "explanation": "The natural phrase is \"instantiate a principle.\" The completed sentence is: The example may instantiate a principle that the article states abstractly.",
+      "rationales": {
+        "instantiate": "The natural phrase is \"instantiate a principle.\" The completed sentence is: The example may instantiate a principle that the article states abstractly.",
+        "create": "\"create a principle\" is not the natural phrase for this meaning here.",
+        "derive": "\"derive a principle\" is not the natural phrase for this meaning here.",
+        "rebut": "\"rebut a principle\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-718",
+      "level": "C2",
+      "setupText": "Only one word makes a common phrase.",
+      "taskText": "The missed deadline may ___ recovery under the contract.",
+      "options": [
+        "preclude",
+        "confer",
+        "derive",
+        "instantiate"
+      ],
+      "answer": "preclude",
+      "explanation": "The natural phrase is \"preclude recovery.\" The completed sentence is: The missed deadline may preclude recovery under the contract.",
+      "rationales": {
+        "preclude": "The natural phrase is \"preclude recovery.\" The completed sentence is: The missed deadline may preclude recovery under the contract.",
+        "confer": "\"confer recovery\" is not the natural phrase for this meaning here.",
+        "derive": "\"derive recovery\" is not the natural phrase for this meaning here.",
+        "instantiate": "\"instantiate recovery\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-719",
+      "level": "C2",
+      "setupText": "Choose the word pair that sounds natural.",
+      "taskText": "The statute may ___ jurisdiction on the review panel.",
+      "options": [
+        "confer",
+        "remove",
+        "limit",
+        "challenge"
+      ],
+      "answer": "confer",
+      "explanation": "The natural phrase is \"confer jurisdiction.\" The completed sentence is: The statute may confer jurisdiction on the review panel.",
+      "rationales": {
+        "confer": "The natural phrase is \"confer jurisdiction.\" The completed sentence is: The statute may confer jurisdiction on the review panel.",
+        "remove": "\"remove jurisdiction\" is not the natural phrase for this meaning here.",
+        "limit": "\"limit jurisdiction\" is not the natural phrase for this meaning here.",
+        "challenge": "\"challenge jurisdiction\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-collocations-c2-720",
+      "level": "C2",
+      "setupText": "The answer should make a common English phrase.",
+      "taskText": "The signed receipt can ___ an obligation created by the settlement.",
+      "options": [
+        "discharge",
+        "remove",
+        "confer",
+        "rebut"
+      ],
+      "answer": "discharge",
+      "explanation": "The natural phrase is \"discharge an obligation.\" The completed sentence is: The signed receipt can discharge an obligation created by the settlement.",
+      "rationales": {
+        "discharge": "The natural phrase is \"discharge an obligation.\" The completed sentence is: The signed receipt can discharge an obligation created by the settlement.",
+        "remove": "\"remove an obligation\" is not the natural phrase for this meaning here.",
+        "confer": "\"confer an obligation\" is not the natural phrase for this meaning here.",
+        "rebut": "\"rebut an obligation\" is not the natural phrase for this meaning here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2766 @@
+{
+  "topic": "Discourse function",
+  "category": "Vocabulary",
+  "items": [
+    {
+      "id": "coverage-discourse-function-a1-1201",
+      "level": "A1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "Today, read this note: \"Bring one item to class. For example, bring the report from yesterday.\" What does the second sentence do?",
+      "options": [
+        "It gives an example.",
+        "It gives the final answer.",
+        "It asks a question.",
+        "It changes the topic."
+      ],
+      "answer": "It gives an example.",
+      "explanation": "It gives an example. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives an example.": "It gives an example. That is the role of the highlighted part in the short text.",
+        "It gives the final answer.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks a question.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the topic.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1202",
+      "level": "A1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "At school, read this note: \"The class moved inside because it was raining.\" What does the because part do?",
+      "options": [
+        "It gives a reason.",
+        "It gives an example.",
+        "It asks for a name.",
+        "It shows the next step."
+      ],
+      "answer": "It gives a reason.",
+      "explanation": "It gives a reason. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives a reason.": "It gives a reason. That is the role of the highlighted part in the short text.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks for a name.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows the next step.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1203",
+      "level": "A1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "In class, read this note: \"First write your name. Then open the form.\" What does the second sentence do?",
+      "options": [
+        "It gives the next step.",
+        "It gives a reason.",
+        "It describes a person.",
+        "It says the task is finished."
+      ],
+      "answer": "It gives the next step.",
+      "explanation": "It gives the next step. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives the next step.": "It gives the next step. That is the role of the highlighted part in the short text.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It describes a person.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It says the task is finished.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1204",
+      "level": "A1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "This morning, read this note: \"Use a pencil or a blue pen.\" What does the word or do?",
+      "options": [
+        "It gives another choice.",
+        "It gives a reason.",
+        "It shows a problem.",
+        "It gives an example."
+      ],
+      "answer": "It gives another choice.",
+      "explanation": "It gives another choice. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives another choice.": "It gives another choice. That is the role of the highlighted part in the short text.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a problem.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1205",
+      "level": "A1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "At home, read this note: \"The office is upstairs. It is next to the station.\" What does the second sentence do?",
+      "options": [
+        "It gives more place information.",
+        "It asks a question.",
+        "It gives a reason.",
+        "It changes the time."
+      ],
+      "answer": "It gives more place information.",
+      "explanation": "It gives more place information. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives more place information.": "It gives more place information. That is the role of the highlighted part in the short text.",
+        "It asks a question.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the time.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1206",
+      "level": "A1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "After lunch, read this note: \"The lesson starts at nine. Please arrive early.\" What does the second sentence do?",
+      "options": [
+        "It gives a request.",
+        "It gives a reason.",
+        "It changes the place.",
+        "It gives an example."
+      ],
+      "answer": "It gives a request.",
+      "explanation": "It gives a request. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives a request.": "It gives a request. That is the role of the highlighted part in the short text.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the place.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1207",
+      "level": "A1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "Before class, read this note: \"Do not touch the hot pan.\" What does the sentence do?",
+      "options": [
+        "It gives a warning.",
+        "It asks for a name.",
+        "It gives a choice.",
+        "It describes yesterday."
+      ],
+      "answer": "It gives a warning.",
+      "explanation": "It gives a warning. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives a warning.": "It gives a warning. That is the role of the highlighted part in the short text.",
+        "It asks for a name.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a choice.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It describes yesterday.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1208",
+      "level": "A1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "At the door, read this note: \"Bring a notebook, a pencil, and your ID card.\" What does the sentence do?",
+      "options": [
+        "It lists things to bring.",
+        "It gives a reason.",
+        "It shows a problem.",
+        "It asks a question."
+      ],
+      "answer": "It lists things to bring.",
+      "explanation": "It lists things to bring. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It lists things to bring.": "It lists things to bring. That is the role of the highlighted part in the short text.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a problem.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks a question.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1209",
+      "level": "A1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "In the shop, read this note: \"The test is not today. It is tomorrow.\" What does the second sentence do?",
+      "options": [
+        "It corrects the time.",
+        "It gives an example.",
+        "It asks for help.",
+        "It gives a reason."
+      ],
+      "answer": "It corrects the time.",
+      "explanation": "It corrects the time. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It corrects the time.": "It corrects the time. That is the role of the highlighted part in the short text.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks for help.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1210",
+      "level": "A1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "At the cafe, read this note: \"The office is closed today.\" What does the sentence do?",
+      "options": [
+        "It gives information.",
+        "It gives a choice.",
+        "It asks a question.",
+        "It gives an example."
+      ],
+      "answer": "It gives information.",
+      "explanation": "It gives information. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives information.": "It gives information. That is the role of the highlighted part in the short text.",
+        "It gives a choice.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks a question.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1211",
+      "level": "A1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "On Monday, read this note: \"Can you help me with this word?\" What does the sentence do?",
+      "options": [
+        "It asks for help.",
+        "It gives a warning.",
+        "It lists steps.",
+        "It changes the topic."
+      ],
+      "answer": "It asks for help.",
+      "explanation": "It asks for help. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It asks for help.": "It asks for help. That is the role of the highlighted part in the short text.",
+        "It gives a warning.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It lists steps.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the topic.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1212",
+      "level": "A1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "In the lesson, read this note: \"Put your bag under the chair.\" What does the sentence do?",
+      "options": [
+        "It gives an instruction.",
+        "It gives a reason.",
+        "It asks for a time.",
+        "It gives an example."
+      ],
+      "answer": "It gives an instruction.",
+      "explanation": "It gives an instruction. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives an instruction.": "It gives an instruction. That is the role of the highlighted part in the short text.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks for a time.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1213",
+      "level": "A1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "At the park, read this note: \"The first room is full. Use the room next door.\" What does the second sentence do?",
+      "options": [
+        "It gives the solution.",
+        "It gives the cause.",
+        "It asks a question.",
+        "It lists two choices."
+      ],
+      "answer": "It gives the solution.",
+      "explanation": "It gives the solution. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives the solution.": "It gives the solution. That is the role of the highlighted part in the short text.",
+        "It gives the cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks a question.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It lists two choices.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1214",
+      "level": "A1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "On the bus, read this note: \"I like tea. My sister likes coffee.\" What does the second sentence add?",
+      "options": [
+        "It adds different information.",
+        "It gives a warning.",
+        "It shows the next step.",
+        "It gives a place."
+      ],
+      "answer": "It adds different information.",
+      "explanation": "It adds different information. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It adds different information.": "It adds different information. That is the role of the highlighted part in the short text.",
+        "It gives a warning.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows the next step.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a place.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1215",
+      "level": "A1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "In the kitchen, read this note: \"Turn left at the library.\" What does the sentence do?",
+      "options": [
+        "It gives directions.",
+        "It gives a reason.",
+        "It asks for permission.",
+        "It gives an example."
+      ],
+      "answer": "It gives directions.",
+      "explanation": "It gives directions. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives directions.": "It gives directions. That is the role of the highlighted part in the short text.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks for permission.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1216",
+      "level": "A1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "After school, read this note: \"The bus leaves at six, so come now.\" What does so show?",
+      "options": [
+        "It shows a result.",
+        "It gives a choice.",
+        "It names a person.",
+        "It gives an example."
+      ],
+      "answer": "It shows a result.",
+      "explanation": "It shows a result. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It shows a result.": "It shows a result. That is the role of the highlighted part in the short text.",
+        "It gives a choice.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It names a person.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1217",
+      "level": "A1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "At the desk, read this note: \"Use the blue form, not the yellow one.\" What does not the yellow one do?",
+      "options": [
+        "It tells which choice to avoid.",
+        "It gives a reason.",
+        "It gives the next step.",
+        "It asks for help."
+      ],
+      "answer": "It tells which choice to avoid.",
+      "explanation": "It tells which choice to avoid. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It tells which choice to avoid.": "It tells which choice to avoid. That is the role of the highlighted part in the short text.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives the next step.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks for help.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1218",
+      "level": "A1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "Before dinner, read this note: \"The cafe is beside the station.\" What does the sentence tell you?",
+      "options": [
+        "It gives a place.",
+        "It gives a warning.",
+        "It lists materials.",
+        "It gives a result."
+      ],
+      "answer": "It gives a place.",
+      "explanation": "It gives a place. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives a place.": "It gives a place. That is the role of the highlighted part in the short text.",
+        "It gives a warning.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It lists materials.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a result.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1219",
+      "level": "A1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "In the hallway, read this note: \"Sorry, class is late today.\" What does sorry do?",
+      "options": [
+        "It shows an apology.",
+        "It gives an example.",
+        "It gives a direction.",
+        "It asks a question."
+      ],
+      "answer": "It shows an apology.",
+      "explanation": "It shows an apology. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It shows an apology.": "It shows an apology. That is the role of the highlighted part in the short text.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a direction.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks a question.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a1-1220",
+      "level": "A1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "At the window, read this note: \"Check your answer again.\" What does again show?",
+      "options": [
+        "It asks for repetition.",
+        "It gives a choice.",
+        "It changes the place.",
+        "It gives a reason."
+      ],
+      "answer": "It asks for repetition.",
+      "explanation": "It asks for repetition. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It asks for repetition.": "It asks for repetition. That is the role of the highlighted part in the short text.",
+        "It gives a choice.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the place.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1221",
+      "level": "A2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "Before the lesson, read this note: \"The office changed the report because many students were confused.\" What does the because part do?",
+      "options": [
+        "It gives a reason.",
+        "It gives an example.",
+        "It shows a contrast.",
+        "It asks for advice."
+      ],
+      "answer": "It gives a reason.",
+      "explanation": "It gives a reason. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives a reason.": "It gives a reason. That is the role of the highlighted part in the short text.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a contrast.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks for advice.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1222",
+      "level": "A2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "In a short message, read this note: \"The schedule is short, but it has several difficult questions.\" What does but show?",
+      "options": [
+        "It shows a contrast.",
+        "It gives a time.",
+        "It introduces a definition.",
+        "It lists the next step."
+      ],
+      "answer": "It shows a contrast.",
+      "explanation": "It shows a contrast. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It shows a contrast.": "It shows a contrast. That is the role of the highlighted part in the short text.",
+        "It gives a time.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces a definition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It lists the next step.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1223",
+      "level": "A2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "At the front desk, read this note: \"Bring photo ID, such as a passport or student card.\" What does such as do?",
+      "options": [
+        "It introduces examples.",
+        "It explains a cause.",
+        "It shows a warning.",
+        "It gives an opposite idea."
+      ],
+      "answer": "It introduces examples.",
+      "explanation": "It introduces examples. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It introduces examples.": "It introduces examples. That is the role of the highlighted part in the short text.",
+        "It explains a cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a warning.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an opposite idea.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1224",
+      "level": "A2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "After the phone call, read this note: \"The room was full, so the class met online.\" What does so show?",
+      "options": [
+        "It shows a result.",
+        "It gives a choice.",
+        "It introduces a quote.",
+        "It describes a person."
+      ],
+      "answer": "It shows a result.",
+      "explanation": "It shows a result. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It shows a result.": "It shows a result. That is the role of the highlighted part in the short text.",
+        "It gives a choice.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces a quote.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It describes a person.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1225",
+      "level": "A2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "During the morning class, read this note: \"Please read the guide before you sign the email.\" What does before show?",
+      "options": [
+        "It shows time order.",
+        "It gives a reason.",
+        "It adds a contrast.",
+        "It gives an example."
+      ],
+      "answer": "It shows time order.",
+      "explanation": "It shows time order. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It shows time order.": "It shows time order. That is the role of the highlighted part in the short text.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It adds a contrast.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1226",
+      "level": "A2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "On the notice board, read this note: \"If you arrive late, call the office.\" What does if show?",
+      "options": [
+        "It gives a condition.",
+        "It gives an example.",
+        "It shows a contrast.",
+        "It gives a definition."
+      ],
+      "answer": "It gives a condition.",
+      "explanation": "It gives a condition. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives a condition.": "It gives a condition. That is the role of the highlighted part in the short text.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a contrast.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a definition.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1227",
+      "level": "A2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "At the train station, read this note: \"The guide was rewritten so that beginners could understand it.\" What does so that show?",
+      "options": [
+        "It shows purpose.",
+        "It gives a contrast.",
+        "It lists examples.",
+        "It gives an opposite idea."
+      ],
+      "answer": "It shows purpose.",
+      "explanation": "It shows purpose. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It shows purpose.": "It shows purpose. That is the role of the highlighted part in the short text.",
+        "It gives a contrast.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It lists examples.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an opposite idea.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1228",
+      "level": "A2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "In the school office, read this note: \"First pay the fee. Next collect your card.\" What does Next do?",
+      "options": [
+        "It shows the following step.",
+        "It gives a reason.",
+        "It introduces a problem.",
+        "It shows a contrast."
+      ],
+      "answer": "It shows the following step.",
+      "explanation": "It shows the following step. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It shows the following step.": "It shows the following step. That is the role of the highlighted part in the short text.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces a problem.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a contrast.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1229",
+      "level": "A2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "Before the interview, read this note: \"Most students passed, except two who were absent.\" What does except show?",
+      "options": [
+        "It gives an exception.",
+        "It gives a cause.",
+        "It asks for advice.",
+        "It introduces an example."
+      ],
+      "answer": "It gives an exception.",
+      "explanation": "It gives an exception. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives an exception.": "It gives an exception. That is the role of the highlighted part in the short text.",
+        "It gives a cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks for advice.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1230",
+      "level": "A2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "After the break, read this note: \"The room is available after 2 p.m.\" What does after 2 p.m. show?",
+      "options": [
+        "It gives a time limit.",
+        "It shows a result.",
+        "It gives an example.",
+        "It asks a question."
+      ],
+      "answer": "It gives a time limit.",
+      "explanation": "It gives a time limit. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives a time limit.": "It gives a time limit. That is the role of the highlighted part in the short text.",
+        "It shows a result.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks a question.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1231",
+      "level": "A2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "During the workshop, read this note: \"You may bring a passport or a residence card.\" What does or do?",
+      "options": [
+        "It gives alternatives.",
+        "It gives a cause.",
+        "It gives a warning.",
+        "It shows a result."
+      ],
+      "answer": "It gives alternatives.",
+      "explanation": "It gives alternatives. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives alternatives.": "It gives alternatives. That is the role of the highlighted part in the short text.",
+        "It gives a cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a warning.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a result.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1232",
+      "level": "A2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "On the registration form, read this note: \"The class is full; therefore, new students must wait.\" What does therefore show?",
+      "options": [
+        "It shows a result.",
+        "It gives an example.",
+        "It shows an opposite idea.",
+        "It asks for permission."
+      ],
+      "answer": "It shows a result.",
+      "explanation": "It shows a result. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It shows a result.": "It shows a result. That is the role of the highlighted part in the short text.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows an opposite idea.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks for permission.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1233",
+      "level": "A2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "At the language center, read this note: \"The course is useful. Also, it is free.\" What does Also do?",
+      "options": [
+        "It adds another point.",
+        "It gives a contrast.",
+        "It shows a condition.",
+        "It gives a time."
+      ],
+      "answer": "It adds another point.",
+      "explanation": "It adds another point. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It adds another point.": "It adds another point. That is the role of the highlighted part in the short text.",
+        "It gives a contrast.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a condition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a time.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1234",
+      "level": "A2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "In the travel plan, read this note: \"Do not send cash by mail.\" What does the sentence do?",
+      "options": [
+        "It gives a rule.",
+        "It gives a definition.",
+        "It gives an example.",
+        "It asks for a reason."
+      ],
+      "answer": "It gives a rule.",
+      "explanation": "It gives a rule. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives a rule.": "It gives a rule. That is the role of the highlighted part in the short text.",
+        "It gives a definition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks for a reason.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1235",
+      "level": "A2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "Before the weekend, read this note: \"A valid ID means a passport, license, or residence card.\" What does means do?",
+      "options": [
+        "It gives a definition.",
+        "It gives a contrast.",
+        "It shows a warning.",
+        "It lists the next step."
+      ],
+      "answer": "It gives a definition.",
+      "explanation": "It gives a definition. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives a definition.": "It gives a definition. That is the role of the highlighted part in the short text.",
+        "It gives a contrast.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a warning.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It lists the next step.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1236",
+      "level": "A2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "After the teacher's reminder, read this note: \"The test was short. However, it was difficult.\" What does However show?",
+      "options": [
+        "It shows contrast.",
+        "It gives a reason.",
+        "It shows a result.",
+        "It gives an example."
+      ],
+      "answer": "It shows contrast.",
+      "explanation": "It shows contrast. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It shows contrast.": "It shows contrast. That is the role of the highlighted part in the short text.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a result.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1237",
+      "level": "A2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "During the pair exercise, read this note: \"Because the line was long, the office opened a second desk.\" What does the first part do?",
+      "options": [
+        "It gives the cause.",
+        "It gives the final result.",
+        "It lists examples.",
+        "It asks a question."
+      ],
+      "answer": "It gives the cause.",
+      "explanation": "It gives the cause. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives the cause.": "It gives the cause. That is the role of the highlighted part in the short text.",
+        "It gives the final result.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It lists examples.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It asks a question.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1238",
+      "level": "A2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "On the class website, read this note: \"Bring a photo, for example, a passport photo.\" What does for example do?",
+      "options": [
+        "It gives one example.",
+        "It gives a condition.",
+        "It shows contrast.",
+        "It gives a result."
+      ],
+      "answer": "It gives one example.",
+      "explanation": "It gives one example. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives one example.": "It gives one example. That is the role of the highlighted part in the short text.",
+        "It gives a condition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows contrast.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a result.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1239",
+      "level": "A2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "At the reception desk, read this note: \"The class moved online instead.\" What does instead show?",
+      "options": [
+        "It shows a replacement.",
+        "It gives a reason.",
+        "It gives an example.",
+        "It adds a warning."
+      ],
+      "answer": "It shows a replacement.",
+      "explanation": "It shows a replacement. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It shows a replacement.": "It shows a replacement. That is the role of the highlighted part in the short text.",
+        "It gives a reason.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It adds a warning.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-a2-1240",
+      "level": "A2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "In the final exercise, read this note: \"Please check the date before you pay.\" What does before show?",
+      "options": [
+        "It shows the order of actions.",
+        "It gives a definition.",
+        "It shows an exception.",
+        "It gives an example."
+      ],
+      "answer": "It shows the order of actions.",
+      "explanation": "It shows the order of actions. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It shows the order of actions.": "It shows the order of actions. That is the role of the highlighted part in the short text.",
+        "It gives a definition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows an exception.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1241",
+      "level": "B1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "During the staff meeting, read this sentence: \"Only a few students at the library answered the survey.\" What problem does it show?",
+      "options": [
+        "The sample may be too small.",
+        "The survey question was translated badly.",
+        "The results prove the program worked.",
+        "The topic changed halfway through."
+      ],
+      "answer": "The sample may be too small.",
+      "explanation": "The sample may be too small. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The sample may be too small.": "The sample may be too small. That is the role of the highlighted part in the short text.",
+        "The survey question was translated badly.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The results prove the program worked.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The topic changed halfway through.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1242",
+      "level": "B1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "In the course update, read this sentence: \"All responses came from morning classes.\" What problem does it show?",
+      "options": [
+        "One group may be overrepresented.",
+        "The results include every possible group.",
+        "The questions were written too simply.",
+        "The report gives no topic."
+      ],
+      "answer": "One group may be overrepresented.",
+      "explanation": "One group may be overrepresented. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "One group may be overrepresented.": "One group may be overrepresented. That is the role of the highlighted part in the short text.",
+        "The results include every possible group.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The questions were written too simply.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The report gives no topic.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1243",
+      "level": "B1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "Before the deadline, read this sentence: \"Several students skipped the final question.\" What problem does it show?",
+      "options": [
+        "Some data may be missing.",
+        "The answer choices were all correct.",
+        "The sample was too large.",
+        "The conclusion is certainly true."
+      ],
+      "answer": "Some data may be missing.",
+      "explanation": "Some data may be missing. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "Some data may be missing.": "Some data may be missing. That is the role of the highlighted part in the short text.",
+        "The answer choices were all correct.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The sample was too large.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The conclusion is certainly true.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1244",
+      "level": "B1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "After the schedule changed, read this sentence: \"The survey asked whether the class was good.\" What problem does it show?",
+      "options": [
+        "The question may be too vague.",
+        "The question gives too much detail.",
+        "The survey has no respondents.",
+        "The result proves the class failed."
+      ],
+      "answer": "The question may be too vague.",
+      "explanation": "The question may be too vague. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The question may be too vague.": "The question may be too vague. That is the role of the highlighted part in the short text.",
+        "The question gives too much detail.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The survey has no respondents.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The result proves the class failed.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1245",
+      "level": "B1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "In the training session, read this sentence: \"The report compares scores from only one week.\" What problem does it show?",
+      "options": [
+        "The time period may be too short.",
+        "The report uses too many years of data.",
+        "The scores are not numbers.",
+        "The topic changed to attendance."
+      ],
+      "answer": "The time period may be too short.",
+      "explanation": "The time period may be too short. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The time period may be too short.": "The time period may be too short. That is the role of the highlighted part in the short text.",
+        "The report uses too many years of data.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The scores are not numbers.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The topic changed to attendance.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1246",
+      "level": "B1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "On the application form, read this sentence: \"Only students with smartphones answered the survey.\" What problem does it show?",
+      "options": [
+        "The sample may exclude some learners.",
+        "The survey used too many questions.",
+        "The results prove the app worked.",
+        "The time period was too long."
+      ],
+      "answer": "The sample may exclude some learners.",
+      "explanation": "The sample may exclude some learners. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The sample may exclude some learners.": "The sample may exclude some learners. That is the role of the highlighted part in the short text.",
+        "The survey used too many questions.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The results prove the app worked.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The time period was too long.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1247",
+      "level": "B1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "During the client call, read this sentence: \"The report does not say when the interviews happened.\" What problem does it show?",
+      "options": [
+        "The timing is unclear.",
+        "The sample is definitely too large.",
+        "The results are guaranteed.",
+        "The topic is unrelated to learning."
+      ],
+      "answer": "The timing is unclear.",
+      "explanation": "The timing is unclear. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The timing is unclear.": "The timing is unclear. That is the role of the highlighted part in the short text.",
+        "The sample is definitely too large.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The results are guaranteed.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The topic is unrelated to learning.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1248",
+      "level": "B1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "In the weekly report, read this sentence: \"The teacher who designed the course also graded the survey.\" What problem does it show?",
+      "options": [
+        "The results may be biased.",
+        "The class had no teacher.",
+        "The survey had too many dates.",
+        "The definition was too narrow."
+      ],
+      "answer": "The results may be biased.",
+      "explanation": "The results may be biased. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The results may be biased.": "The results may be biased. That is the role of the highlighted part in the short text.",
+        "The class had no teacher.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The survey had too many dates.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The definition was too narrow.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1249",
+      "level": "B1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "Before the office opened, read this sentence: \"The chart shows percentages but not the number of students.\" What problem does it show?",
+      "options": [
+        "The size of the group is missing.",
+        "The chart gives too many examples.",
+        "The survey question is translated badly.",
+        "The conclusion is certainly false."
+      ],
+      "answer": "The size of the group is missing.",
+      "explanation": "The size of the group is missing. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The size of the group is missing.": "The size of the group is missing. That is the role of the highlighted part in the short text.",
+        "The chart gives too many examples.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The survey question is translated badly.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The conclusion is certainly false.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1250",
+      "level": "B1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "After the survey ended, read this sentence: \"The survey asked, 'Was the lesson nice?'\" What problem does it show?",
+      "options": [
+        "The wording may be unclear.",
+        "The sample includes every group.",
+        "The time period is too long.",
+        "The result proves improvement."
+      ],
+      "answer": "The wording may be unclear.",
+      "explanation": "The wording may be unclear. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The wording may be unclear.": "The wording may be unclear. That is the role of the highlighted part in the short text.",
+        "The sample includes every group.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The time period is too long.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The result proves improvement.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1251",
+      "level": "B1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "In the project notes, read this sentence: \"The report compares this year's beginners with last year's advanced class.\" What problem does it show?",
+      "options": [
+        "The groups may not be comparable.",
+        "The report has no comparison.",
+        "The sample is too detailed.",
+        "The survey has no questions."
+      ],
+      "answer": "The groups may not be comparable.",
+      "explanation": "The groups may not be comparable. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The groups may not be comparable.": "The groups may not be comparable. That is the role of the highlighted part in the short text.",
+        "The report has no comparison.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The sample is too detailed.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The survey has no questions.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1252",
+      "level": "B1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "During the safety briefing, read this sentence: \"The conclusion is based on three comments.\" What problem does it show?",
+      "options": [
+        "There may be too little evidence.",
+        "The time period is too long.",
+        "The question is too precise.",
+        "The result is certainly universal."
+      ],
+      "answer": "There may be too little evidence.",
+      "explanation": "There may be too little evidence. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "There may be too little evidence.": "There may be too little evidence. That is the role of the highlighted part in the short text.",
+        "The time period is too long.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The question is too precise.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The result is certainly universal.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1253",
+      "level": "B1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "On the department website, read this sentence: \"The form was changed at the same time that a new teacher started.\" What problem does it show?",
+      "options": [
+        "Another factor may explain the result.",
+        "The report has no event.",
+        "The form is impossible to read.",
+        "The conclusion is already proven."
+      ],
+      "answer": "Another factor may explain the result.",
+      "explanation": "Another factor may explain the result. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "Another factor may explain the result.": "Another factor may explain the result. That is the role of the highlighted part in the short text.",
+        "The report has no event.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The form is impossible to read.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The conclusion is already proven.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1254",
+      "level": "B1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "After the teacher's explanation, read this sentence: \"Students reported their own attendance.\" What problem does it show?",
+      "options": [
+        "The data may depend on memory or honesty.",
+        "The sample is too large.",
+        "The report gives too much context.",
+        "The result cannot be counted."
+      ],
+      "answer": "The data may depend on memory or honesty.",
+      "explanation": "The data may depend on memory or honesty. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The data may depend on memory or honesty.": "The data may depend on memory or honesty. That is the role of the highlighted part in the short text.",
+        "The sample is too large.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The report gives too much context.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The result cannot be counted.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1255",
+      "level": "B1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "In the planning email, read this sentence: \"The report says scores improved, but it gives no earlier scores.\" What problem does it show?",
+      "options": [
+        "There is no clear starting point for comparison.",
+        "The report has too many starting points.",
+        "The results prove the method failed.",
+        "The sample includes too many classes."
+      ],
+      "answer": "There is no clear starting point for comparison.",
+      "explanation": "There is no clear starting point for comparison. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "There is no clear starting point for comparison.": "There is no clear starting point for comparison. That is the role of the highlighted part in the short text.",
+        "The report has too many starting points.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The results prove the method failed.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The sample includes too many classes.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1256",
+      "level": "B1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "Before the documents were filed, read this sentence: \"Only the afternoon class used the new worksheet.\" What problem does it show?",
+      "options": [
+        "The result may not apply to other classes.",
+        "The worksheet was used by everyone.",
+        "The time period is not mentioned.",
+        "The survey question is too long."
+      ],
+      "answer": "The result may not apply to other classes.",
+      "explanation": "The result may not apply to other classes. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The result may not apply to other classes.": "The result may not apply to other classes. That is the role of the highlighted part in the short text.",
+        "The worksheet was used by everyone.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The time period is not mentioned.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The survey question is too long.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1257",
+      "level": "B1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "During the review meeting, read this sentence: \"The report says 'many students' but gives no number.\" What problem does it show?",
+      "options": [
+        "The amount is vague.",
+        "The report gives too many numbers.",
+        "The sample is definitely balanced.",
+        "The conclusion is too cautious."
+      ],
+      "answer": "The amount is vague.",
+      "explanation": "The amount is vague. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The amount is vague.": "The amount is vague. That is the role of the highlighted part in the short text.",
+        "The report gives too many numbers.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The sample is definitely balanced.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The conclusion is too cautious.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1258",
+      "level": "B1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "In the student handbook, read this sentence: \"The survey was optional.\" What problem does it show?",
+      "options": [
+        "People with stronger opinions may be more likely to answer.",
+        "All students had to answer.",
+        "The questions were all definitions.",
+        "The time period was too short."
+      ],
+      "answer": "People with stronger opinions may be more likely to answer.",
+      "explanation": "People with stronger opinions may be more likely to answer. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "People with stronger opinions may be more likely to answer.": "People with stronger opinions may be more likely to answer. That is the role of the highlighted part in the short text.",
+        "All students had to answer.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The questions were all definitions.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The time period was too short.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1259",
+      "level": "B1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "After the reminder was sent, read this sentence: \"The report only includes students who completed the course.\" What problem does it show?",
+      "options": [
+        "It leaves out students who stopped attending.",
+        "It includes too many beginners.",
+        "It gives an unnecessary definition.",
+        "It proves the course was too short."
+      ],
+      "answer": "It leaves out students who stopped attending.",
+      "explanation": "It leaves out students who stopped attending. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It leaves out students who stopped attending.": "It leaves out students who stopped attending. That is the role of the highlighted part in the short text.",
+        "It includes too many beginners.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an unnecessary definition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It proves the course was too short.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b1-1260",
+      "level": "B1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "On the checklist, read this sentence: \"The conclusion uses one class to describe the whole school.\" What problem does it show?",
+      "options": [
+        "The conclusion may be too broad.",
+        "The report gives no conclusion.",
+        "The class was not part of the school.",
+        "The results are too specific to understand."
+      ],
+      "answer": "The conclusion may be too broad.",
+      "explanation": "The conclusion may be too broad. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "The conclusion may be too broad.": "The conclusion may be too broad. That is the role of the highlighted part in the short text.",
+        "The report gives no conclusion.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The class was not part of the school.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "The results are too specific to understand.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1261",
+      "level": "B2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "In the manager's summary, read this sentence: \"The report saved time, but it also created extra work for staff.\" What does the sentence do?",
+      "options": [
+        "It compares an advantage and a disadvantage.",
+        "It defines a technical term.",
+        "It gives instructions in order.",
+        "It reports only a positive result."
+      ],
+      "answer": "It compares an advantage and a disadvantage.",
+      "explanation": "It compares an advantage and a disadvantage. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It compares an advantage and a disadvantage.": "It compares an advantage and a disadvantage. That is the role of the highlighted part in the short text.",
+        "It defines a technical term.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives instructions in order.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It reports only a positive result.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1262",
+      "level": "B2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "During the policy review, read this sentence: \"Unlike the old form, the new version asks for an email address first.\" What does unlike show?",
+      "options": [
+        "It compares two versions.",
+        "It gives the cause of an error.",
+        "It shows that both versions are identical.",
+        "It introduces an unrelated example."
+      ],
+      "answer": "It compares two versions.",
+      "explanation": "It compares two versions. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It compares two versions.": "It compares two versions. That is the role of the highlighted part in the short text.",
+        "It gives the cause of an error.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows that both versions are identical.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces an unrelated example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1263",
+      "level": "B2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "After the first draft, read this sentence: \"A valid response means an answer submitted before the deadline.\" What does the sentence do?",
+      "options": [
+        "It defines a term.",
+        "It reports a disadvantage.",
+        "It rejects the whole study.",
+        "It gives a future prediction."
+      ],
+      "answer": "It defines a term.",
+      "explanation": "It defines a term. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It defines a term.": "It defines a term. That is the role of the highlighted part in the short text.",
+        "It reports a disadvantage.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It rejects the whole study.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a future prediction.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1264",
+      "level": "B2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "Before the audit began, read this sentence: \"Because the instructions were clearer, fewer applicants called the office.\" What does the first part do?",
+      "options": [
+        "It explains a likely cause.",
+        "It gives an exception.",
+        "It lists two equal choices.",
+        "It changes the topic."
+      ],
+      "answer": "It explains a likely cause.",
+      "explanation": "It explains a likely cause. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It explains a likely cause.": "It explains a likely cause. That is the role of the highlighted part in the short text.",
+        "It gives an exception.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It lists two equal choices.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the topic.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1265",
+      "level": "B2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "In the survey report, read this sentence: \"Although the class was popular, the evening section had low attendance.\" What does although show?",
+      "options": [
+        "It adds a contrasting fact.",
+        "It proves the class was ineffective.",
+        "It gives the next step in a process.",
+        "It defines attendance."
+      ],
+      "answer": "It adds a contrasting fact.",
+      "explanation": "It adds a contrasting fact. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It adds a contrasting fact.": "It adds a contrasting fact. That is the role of the highlighted part in the short text.",
+        "It proves the class was ineffective.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives the next step in a process.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines attendance.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1266",
+      "level": "B2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "During the budget meeting, read this sentence: \"The new portal reduced errors, although older users needed extra support.\" What does although show?",
+      "options": [
+        "It adds a limitation to a positive result.",
+        "It defines a technical term.",
+        "It gives only the cause.",
+        "It lists steps in order."
+      ],
+      "answer": "It adds a limitation to a positive result.",
+      "explanation": "It adds a limitation to a positive result. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It adds a limitation to a positive result.": "It adds a limitation to a positive result. That is the role of the highlighted part in the short text.",
+        "It defines a technical term.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives only the cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It lists steps in order.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1267",
+      "level": "B2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "On the revised form, read this sentence: \"A completed file refers to an application with every required document attached.\" What does the sentence do?",
+      "options": [
+        "It defines a working term.",
+        "It predicts a future result.",
+        "It reports a disadvantage.",
+        "It gives a personal opinion."
+      ],
+      "answer": "It defines a working term.",
+      "explanation": "It defines a working term. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It defines a working term.": "It defines a working term. That is the role of the highlighted part in the short text.",
+        "It predicts a future result.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It reports a disadvantage.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a personal opinion.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1268",
+      "level": "B2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "After the complaint was reviewed, read this sentence: \"The first plan lowers cost, whereas the second reduces waiting time.\" What does whereas do?",
+      "options": [
+        "It contrasts two advantages.",
+        "It gives the cause of both plans.",
+        "It defines waiting time.",
+        "It shows that the plans are identical."
+      ],
+      "answer": "It contrasts two advantages.",
+      "explanation": "It contrasts two advantages. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It contrasts two advantages.": "It contrasts two advantages. That is the role of the highlighted part in the short text.",
+        "It gives the cause of both plans.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines waiting time.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows that the plans are identical.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1269",
+      "level": "B2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "Before the results were shared, read this sentence: \"Since reminders were sent twice, missed appointments fell.\" What does the first part do?",
+      "options": [
+        "It presents a likely reason.",
+        "It gives an exception.",
+        "It introduces a definition.",
+        "It rejects the data."
+      ],
+      "answer": "It presents a likely reason.",
+      "explanation": "It presents a likely reason. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It presents a likely reason.": "It presents a likely reason. That is the role of the highlighted part in the short text.",
+        "It gives an exception.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces a definition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It rejects the data.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1270",
+      "level": "B2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "In the staff memo, read this sentence: \"The policy applies only to new applicants.\" What does only do?",
+      "options": [
+        "It limits the scope.",
+        "It gives a result.",
+        "It introduces an example.",
+        "It shows a contrast between two policies."
+      ],
+      "answer": "It limits the scope.",
+      "explanation": "It limits the scope. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It limits the scope.": "It limits the scope. That is the role of the highlighted part in the short text.",
+        "It gives a result.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces an example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a contrast between two policies.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1271",
+      "level": "B2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "During the hiring process, read this sentence: \"For example, late files were returned without review.\" What does For example do?",
+      "options": [
+        "It supports a general point with a case.",
+        "It gives the main conclusion.",
+        "It shows a cause.",
+        "It gives an opposite argument."
+      ],
+      "answer": "It supports a general point with a case.",
+      "explanation": "It supports a general point with a case. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It supports a general point with a case.": "It supports a general point with a case. That is the role of the highlighted part in the short text.",
+        "It gives the main conclusion.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an opposite argument.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1272",
+      "level": "B2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "On the training portal, read this sentence: \"The change may save time; however, the evidence is still limited.\" What does however do?",
+      "options": [
+        "It adds caution after a possible benefit.",
+        "It proves the benefit.",
+        "It defines the change.",
+        "It gives a step in a process."
+      ],
+      "answer": "It adds caution after a possible benefit.",
+      "explanation": "It adds caution after a possible benefit. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It adds caution after a possible benefit.": "It adds caution after a possible benefit. That is the role of the highlighted part in the short text.",
+        "It proves the benefit.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines the change.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a step in a process.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1273",
+      "level": "B2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "After the data check, read this sentence: \"In other words, students could appeal only once.\" What does In other words do?",
+      "options": [
+        "It restates the rule more plainly.",
+        "It adds an unrelated example.",
+        "It shows a new cause.",
+        "It reports a future prediction."
+      ],
+      "answer": "It restates the rule more plainly.",
+      "explanation": "It restates the rule more plainly. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It restates the rule more plainly.": "It restates the rule more plainly. That is the role of the highlighted part in the short text.",
+        "It adds an unrelated example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows a new cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It reports a future prediction.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1274",
+      "level": "B2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "Before the contract was signed, read this sentence: \"The comparison excludes students who joined late.\" What does the sentence do?",
+      "options": [
+        "It names a boundary of the analysis.",
+        "It defines every term.",
+        "It reports only a benefit.",
+        "It changes the topic to cost."
+      ],
+      "answer": "It names a boundary of the analysis.",
+      "explanation": "It names a boundary of the analysis. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It names a boundary of the analysis.": "It names a boundary of the analysis. That is the role of the highlighted part in the short text.",
+        "It defines every term.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It reports only a benefit.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the topic to cost.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1275",
+      "level": "B2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "In the customer update, read this sentence: \"The increase was larger among beginners than among advanced students.\" What does the sentence do?",
+      "options": [
+        "It compares two groups.",
+        "It gives a definition.",
+        "It shows time order.",
+        "It rejects the whole study."
+      ],
+      "answer": "It compares two groups.",
+      "explanation": "It compares two groups. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It compares two groups.": "It compares two groups. That is the role of the highlighted part in the short text.",
+        "It gives a definition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows time order.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It rejects the whole study.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1276",
+      "level": "B2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "During the planning call, read this sentence: \"The form was redesigned to reduce duplicate entries.\" What does to reduce duplicate entries show?",
+      "options": [
+        "It states the purpose of the redesign.",
+        "It gives a contrast.",
+        "It defines duplicate entries.",
+        "It introduces an exception."
+      ],
+      "answer": "It states the purpose of the redesign.",
+      "explanation": "It states the purpose of the redesign. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It states the purpose of the redesign.": "It states the purpose of the redesign. That is the role of the highlighted part in the short text.",
+        "It gives a contrast.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines duplicate entries.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces an exception.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1277",
+      "level": "B2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "On the project dashboard, read this sentence: \"The old policy required signatures; the revised policy accepts digital consent.\" What does the sentence do?",
+      "options": [
+        "It identifies a change in rules.",
+        "It gives an unrelated example.",
+        "It proves both policies failed.",
+        "It reports a missing sample."
+      ],
+      "answer": "It identifies a change in rules.",
+      "explanation": "It identifies a change in rules. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It identifies a change in rules.": "It identifies a change in rules. That is the role of the highlighted part in the short text.",
+        "It gives an unrelated example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It proves both policies failed.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It reports a missing sample.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1278",
+      "level": "B2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "After the instructions changed, read this sentence: \"The finding is based on attendance records rather than student opinions.\" What does rather than show?",
+      "options": [
+        "It distinguishes the evidence source.",
+        "It gives a reason for attendance.",
+        "It introduces a time limit.",
+        "It defines student opinions."
+      ],
+      "answer": "It distinguishes the evidence source.",
+      "explanation": "It distinguishes the evidence source. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It distinguishes the evidence source.": "It distinguishes the evidence source. That is the role of the highlighted part in the short text.",
+        "It gives a reason for attendance.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces a time limit.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines student opinions.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1279",
+      "level": "B2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "Before the board discussion, read this sentence: \"This result should be interpreted cautiously because the sample was small.\" What does because do?",
+      "options": [
+        "It explains why caution is needed.",
+        "It introduces a replacement.",
+        "It gives a definition.",
+        "It lists two equal choices."
+      ],
+      "answer": "It explains why caution is needed.",
+      "explanation": "It explains why caution is needed. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It explains why caution is needed.": "It explains why caution is needed. That is the role of the highlighted part in the short text.",
+        "It introduces a replacement.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a definition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It lists two equal choices.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-b2-1280",
+      "level": "B2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "In the final schedule, read this sentence: \"The survey captures satisfaction, not actual progress.\" What does not actual progress do?",
+      "options": [
+        "It clarifies what the survey does not measure.",
+        "It gives a cause.",
+        "It adds a future plan.",
+        "It defines satisfaction."
+      ],
+      "answer": "It clarifies what the survey does not measure.",
+      "explanation": "It clarifies what the survey does not measure. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It clarifies what the survey does not measure.": "It clarifies what the survey does not measure. That is the role of the highlighted part in the short text.",
+        "It gives a cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It adds a future plan.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines satisfaction.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1281",
+      "level": "C1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "In the research note, read this claim: \"The results for the report are promising; however, the sample was small.\" What does the second part do?",
+      "options": [
+        "It qualifies the claim by adding a limitation.",
+        "It repeats the claim in simpler words.",
+        "It gives an unrelated example.",
+        "It proves that the claim is false."
+      ],
+      "answer": "It qualifies the claim by adding a limitation.",
+      "explanation": "It qualifies the claim by adding a limitation. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It qualifies the claim by adding a limitation.": "It qualifies the claim by adding a limitation. That is the role of the highlighted part in the short text.",
+        "It repeats the claim in simpler words.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an unrelated example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It proves that the claim is false.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1282",
+      "level": "C1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "During the committee review, read this claim: \"The policy appears effective if the attendance records are complete.\" What does the if part do?",
+      "options": [
+        "It states a condition for the claim.",
+        "It removes every uncertainty.",
+        "It summarizes the conclusion only.",
+        "It introduces a new topic."
+      ],
+      "answer": "It states a condition for the claim.",
+      "explanation": "It states a condition for the claim. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It states a condition for the claim.": "It states a condition for the claim. That is the role of the highlighted part in the short text.",
+        "It removes every uncertainty.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It summarizes the conclusion only.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces a new topic.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1283",
+      "level": "C1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "After the preliminary analysis, read this sentence: \"The increase may reflect better reminders rather than stronger motivation.\" What does rather than do?",
+      "options": [
+        "It offers an alternative explanation.",
+        "It confirms the first explanation completely.",
+        "It gives a step-by-step instruction.",
+        "It reports an exact definition."
+      ],
+      "answer": "It offers an alternative explanation.",
+      "explanation": "It offers an alternative explanation. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It offers an alternative explanation.": "It offers an alternative explanation. That is the role of the highlighted part in the short text.",
+        "It confirms the first explanation completely.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a step-by-step instruction.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It reports an exact definition.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1284",
+      "level": "C1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "Before the policy was finalized, read this sentence: \"This finding applies mainly to adult learners in evening classes.\" What does mainly do?",
+      "options": [
+        "It narrows the scope of the finding.",
+        "It makes the finding universal.",
+        "It gives a reason for the method.",
+        "It denies that the finding exists."
+      ],
+      "answer": "It narrows the scope of the finding.",
+      "explanation": "It narrows the scope of the finding. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It narrows the scope of the finding.": "It narrows the scope of the finding. That is the role of the highlighted part in the short text.",
+        "It makes the finding universal.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a reason for the method.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It denies that the finding exists.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1285",
+      "level": "C1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "In the methodology section, read this sentence: \"The interview data support the survey results, but they do not explain the cause.\" What does the second part do?",
+      "options": [
+        "It separates support from explanation.",
+        "It claims the data are useless.",
+        "It gives a personal opinion.",
+        "It changes the subject to cost."
+      ],
+      "answer": "It separates support from explanation.",
+      "explanation": "It separates support from explanation. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It separates support from explanation.": "It separates support from explanation. That is the role of the highlighted part in the short text.",
+        "It claims the data are useless.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a personal opinion.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the subject to cost.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1286",
+      "level": "C1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "During the stakeholder meeting, read this claim: \"The effect appears stronger among learners who attended regularly.\" What does appears do?",
+      "options": [
+        "It makes the claim cautious.",
+        "It removes uncertainty.",
+        "It gives a definition.",
+        "It changes the topic."
+      ],
+      "answer": "It makes the claim cautious.",
+      "explanation": "It makes the claim cautious. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It makes the claim cautious.": "It makes the claim cautious. That is the role of the highlighted part in the short text.",
+        "It removes uncertainty.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a definition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the topic.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1287",
+      "level": "C1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "On the revised proposal, read this claim: \"The conclusion depends on whether missing responses are counted as failures.\" What does depends on show?",
+      "options": [
+        "It makes the conclusion conditional.",
+        "It gives a direct cause.",
+        "It rejects the conclusion.",
+        "It adds an example only."
+      ],
+      "answer": "It makes the conclusion conditional.",
+      "explanation": "It makes the conclusion conditional. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It makes the conclusion conditional.": "It makes the conclusion conditional. That is the role of the highlighted part in the short text.",
+        "It gives a direct cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It rejects the conclusion.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It adds an example only.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1288",
+      "level": "C1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "After the evidence was compared, read this sentence: \"The study controls for age but not prior schooling.\" What does but not do?",
+      "options": [
+        "It marks a remaining limitation.",
+        "It gives the main result.",
+        "It defines prior schooling.",
+        "It shows that age was ignored."
+      ],
+      "answer": "It marks a remaining limitation.",
+      "explanation": "It marks a remaining limitation. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It marks a remaining limitation.": "It marks a remaining limitation. That is the role of the highlighted part in the short text.",
+        "It gives the main result.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines prior schooling.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It shows that age was ignored.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1289",
+      "level": "C1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "Before the recommendation was issued, read this sentence: \"The authors distinguish attendance from engagement.\" What does the sentence do?",
+      "options": [
+        "It separates two related concepts.",
+        "It gives a time order.",
+        "It proves engagement increased.",
+        "It introduces an unrelated example."
+      ],
+      "answer": "It separates two related concepts.",
+      "explanation": "It separates two related concepts. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It separates two related concepts.": "It separates two related concepts. That is the role of the highlighted part in the short text.",
+        "It gives a time order.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It proves engagement increased.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces an unrelated example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1290",
+      "level": "C1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "In the executive summary, read this sentence: \"The pattern is consistent with improved instruction, though motivation may also matter.\" What does though add?",
+      "options": [
+        "It introduces an alternative factor.",
+        "It proves the first explanation.",
+        "It defines motivation.",
+        "It gives a procedural step."
+      ],
+      "answer": "It introduces an alternative factor.",
+      "explanation": "It introduces an alternative factor. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It introduces an alternative factor.": "It introduces an alternative factor. That is the role of the highlighted part in the short text.",
+        "It proves the first explanation.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines motivation.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a procedural step.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1291",
+      "level": "C1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "During the compliance review, read this sentence: \"The estimate excludes learners who changed levels midterm.\" What does the sentence do?",
+      "options": [
+        "It states an exclusion from the analysis.",
+        "It gives a universal conclusion.",
+        "It explains a grammar rule.",
+        "It adds an example of success."
+      ],
+      "answer": "It states an exclusion from the analysis.",
+      "explanation": "It states an exclusion from the analysis. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It states an exclusion from the analysis.": "It states an exclusion from the analysis. That is the role of the highlighted part in the short text.",
+        "It gives a universal conclusion.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It explains a grammar rule.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It adds an example of success.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1292",
+      "level": "C1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "On the evaluation form, read this sentence: \"A finished attempt means that all twenty items were answered.\" What does the sentence do?",
+      "options": [
+        "It defines a key measure.",
+        "It gives a cause.",
+        "It adds a contrast.",
+        "It describes a problem with timing."
+      ],
+      "answer": "It defines a key measure.",
+      "explanation": "It defines a key measure. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It defines a key measure.": "It defines a key measure. That is the role of the highlighted part in the short text.",
+        "It gives a cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It adds a contrast.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It describes a problem with timing.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1293",
+      "level": "C1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "After the pilot program ended, read this sentence: \"This explanation accounts for the timing of the change but not its size.\" What does but not its size do?",
+      "options": [
+        "It limits the reach of the explanation.",
+        "It restates the explanation.",
+        "It gives another example.",
+        "It proves the explanation false."
+      ],
+      "answer": "It limits the reach of the explanation.",
+      "explanation": "It limits the reach of the explanation. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It limits the reach of the explanation.": "It limits the reach of the explanation. That is the role of the highlighted part in the short text.",
+        "It restates the explanation.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives another example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It proves the explanation false.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1294",
+      "level": "C1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "Before the findings were published, read this sentence: \"The pilot suggests feasibility rather than effectiveness.\" What does rather than do?",
+      "options": [
+        "It prevents overreading the result.",
+        "It gives a reason for the pilot.",
+        "It reports a sequence of steps.",
+        "It defines effectiveness."
+      ],
+      "answer": "It prevents overreading the result.",
+      "explanation": "It prevents overreading the result. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It prevents overreading the result.": "It prevents overreading the result. That is the role of the highlighted part in the short text.",
+        "It gives a reason for the pilot.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It reports a sequence of steps.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines effectiveness.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1295",
+      "level": "C1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "In the grant application, read this sentence: \"The data were coded independently to reduce reviewer bias.\" What does to reduce reviewer bias show?",
+      "options": [
+        "It gives the purpose of the method.",
+        "It shows a contrast.",
+        "It gives an exception.",
+        "It defines independent coding."
+      ],
+      "answer": "It gives the purpose of the method.",
+      "explanation": "It gives the purpose of the method. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It gives the purpose of the method.": "It gives the purpose of the method. That is the role of the highlighted part in the short text.",
+        "It shows a contrast.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an exception.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines independent coding.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1296",
+      "level": "C1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "During the seminar, read this sentence: \"Even if the improvement is real, its cause remains uncertain.\" What does Even if do?",
+      "options": [
+        "It grants one point while preserving doubt.",
+        "It proves the cause.",
+        "It lists two measurements.",
+        "It introduces an example."
+      ],
+      "answer": "It grants one point while preserving doubt.",
+      "explanation": "It grants one point while preserving doubt. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It grants one point while preserving doubt.": "It grants one point while preserving doubt. That is the role of the highlighted part in the short text.",
+        "It proves the cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It lists two measurements.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1297",
+      "level": "C1",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "On the risk assessment, read this sentence: \"The strongest evidence comes from classes observed before and after the change.\" What does before and after help show?",
+      "options": [
+        "It supports comparison over time.",
+        "It defines the class level.",
+        "It gives a legal condition.",
+        "It reports a personal opinion."
+      ],
+      "answer": "It supports comparison over time.",
+      "explanation": "It supports comparison over time. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It supports comparison over time.": "It supports comparison over time. That is the role of the highlighted part in the short text.",
+        "It defines the class level.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a legal condition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It reports a personal opinion.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1298",
+      "level": "C1",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "After the interviews were coded, read this sentence: \"The authors use attendance as a proxy for participation.\" What does as a proxy for do?",
+      "options": [
+        "It names an indirect measure.",
+        "It gives a contrast.",
+        "It proves attendance is unimportant.",
+        "It gives a chronological order."
+      ],
+      "answer": "It names an indirect measure.",
+      "explanation": "It names an indirect measure. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It names an indirect measure.": "It names an indirect measure. That is the role of the highlighted part in the short text.",
+        "It gives a contrast.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It proves attendance is unimportant.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a chronological order.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1299",
+      "level": "C1",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "Before the final vote, read this sentence: \"The recommendation follows only if the cost estimates are accurate.\" What does only if show?",
+      "options": [
+        "It states a necessary condition.",
+        "It gives a concession.",
+        "It adds an example.",
+        "It gives a definition."
+      ],
+      "answer": "It states a necessary condition.",
+      "explanation": "It states a necessary condition. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It states a necessary condition.": "It states a necessary condition. That is the role of the highlighted part in the short text.",
+        "It gives a concession.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It adds an example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a definition.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c1-1300",
+      "level": "C1",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "In the appendix, read this sentence: \"The appendix corroborates the timeline but leaves the motive unclear.\" What does the second part do?",
+      "options": [
+        "It separates support for timing from uncertainty about motive.",
+        "It rejects the timeline.",
+        "It gives a definition of motive.",
+        "It changes the topic to cost."
+      ],
+      "answer": "It separates support for timing from uncertainty about motive.",
+      "explanation": "It separates support for timing from uncertainty about motive. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It separates support for timing from uncertainty about motive.": "It separates support for timing from uncertainty about motive. That is the role of the highlighted part in the short text.",
+        "It rejects the timeline.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a definition of motive.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the topic to cost.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1301",
+      "level": "C2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "In the peer reviewer's response, read this comment: \"Some critics call the report unfair; the stronger question is whether the evidence supports that criticism.\" What does the second part do?",
+      "options": [
+        "It reframes the objection as a question about evidence.",
+        "It concedes that the criticism is certainly true.",
+        "It dismisses the objection as irrelevant.",
+        "It summarizes the history of the disagreement."
+      ],
+      "answer": "It reframes the objection as a question about evidence.",
+      "explanation": "It reframes the objection as a question about evidence. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It reframes the objection as a question about evidence.": "It reframes the objection as a question about evidence. That is the role of the highlighted part in the short text.",
+        "It concedes that the criticism is certainly true.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It dismisses the objection as irrelevant.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It summarizes the history of the disagreement.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1302",
+      "level": "C2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "During the legal analysis, read this comment: \"The correlation is clear; whether it reflects causation remains unresolved.\" What does the second clause do?",
+      "options": [
+        "It distinguishes association from cause.",
+        "It treats correlation and causation as identical.",
+        "It gives a procedural instruction.",
+        "It abandons the topic."
+      ],
+      "answer": "It distinguishes association from cause.",
+      "explanation": "It distinguishes association from cause. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It distinguishes association from cause.": "It distinguishes association from cause. That is the role of the highlighted part in the short text.",
+        "It treats correlation and causation as identical.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a procedural instruction.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It abandons the topic.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1303",
+      "level": "C2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "After the longitudinal data were examined, read this comment: \"Granted, the sample is unusually narrow; nevertheless, the pattern is worth testing elsewhere.\" What does nevertheless do?",
+      "options": [
+        "It moves from concession to cautious continuation.",
+        "It rejects the limitation as false.",
+        "It gives a dictionary definition.",
+        "It claims the result is universal."
+      ],
+      "answer": "It moves from concession to cautious continuation.",
+      "explanation": "It moves from concession to cautious continuation. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It moves from concession to cautious continuation.": "It moves from concession to cautious continuation. That is the role of the highlighted part in the short text.",
+        "It rejects the limitation as false.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a dictionary definition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It claims the result is universal.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1304",
+      "level": "C2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "Before the theoretical claim was accepted, read this comment: \"The term engagement is used broadly here, which makes the result harder to interpret.\" What does the which clause do?",
+      "options": [
+        "It explains the effect of a broad definition.",
+        "It supplies a second example of engagement.",
+        "It reports that the term is precise.",
+        "It changes the subject to cost."
+      ],
+      "answer": "It explains the effect of a broad definition.",
+      "explanation": "It explains the effect of a broad definition. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It explains the effect of a broad definition.": "It explains the effect of a broad definition. That is the role of the highlighted part in the short text.",
+        "It supplies a second example of engagement.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It reports that the term is precise.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the subject to cost.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1305",
+      "level": "C2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "In the policy addendum, read this comment: \"The conclusion may hold for this cohort, but extrapolating beyond it would require more evidence.\" What does the but part do?",
+      "options": [
+        "It limits how far the conclusion can be extended.",
+        "It proves the conclusion is false.",
+        "It replaces evidence with opinion.",
+        "It repeats the same claim."
+      ],
+      "answer": "It limits how far the conclusion can be extended.",
+      "explanation": "It limits how far the conclusion can be extended. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It limits how far the conclusion can be extended.": "It limits how far the conclusion can be extended. That is the role of the highlighted part in the short text.",
+        "It proves the conclusion is false.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It replaces evidence with opinion.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It repeats the same claim.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1306",
+      "level": "C2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "During the methodological critique, read this comment: \"The claim is plausible only insofar as the comparison group is genuinely comparable.\" What does only insofar as do?",
+      "options": [
+        "It restricts the conditions under which the claim works.",
+        "It removes the need for evidence.",
+        "It gives a dictionary definition.",
+        "It rejects comparison entirely."
+      ],
+      "answer": "It restricts the conditions under which the claim works.",
+      "explanation": "It restricts the conditions under which the claim works. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It restricts the conditions under which the claim works.": "It restricts the conditions under which the claim works. That is the role of the highlighted part in the short text.",
+        "It removes the need for evidence.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a dictionary definition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It rejects comparison entirely.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1307",
+      "level": "C2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "On the arbitration record, read this comment: \"The majority treats silence as consent; the dissent treats it as ambiguity.\" What does the sentence do?",
+      "options": [
+        "It contrasts two interpretations of the same fact.",
+        "It gives a procedural instruction.",
+        "It proves both views are false.",
+        "It summarizes a timeline."
+      ],
+      "answer": "It contrasts two interpretations of the same fact.",
+      "explanation": "It contrasts two interpretations of the same fact. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It contrasts two interpretations of the same fact.": "It contrasts two interpretations of the same fact. That is the role of the highlighted part in the short text.",
+        "It gives a procedural instruction.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It proves both views are false.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It summarizes a timeline.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1308",
+      "level": "C2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "After the counterargument was addressed, read this comment: \"The objection has force, but only against the broader version of the argument.\" What does the but part do?",
+      "options": [
+        "It narrows the objection's target.",
+        "It rejects the objection completely.",
+        "It defines force.",
+        "It introduces a new example."
+      ],
+      "answer": "It narrows the objection's target.",
+      "explanation": "It narrows the objection's target. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It narrows the objection's target.": "It narrows the objection's target. That is the role of the highlighted part in the short text.",
+        "It rejects the objection completely.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines force.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces a new example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1309",
+      "level": "C2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "Before the findings were generalized, read this comment: \"The evidence is probative, not conclusive.\" What does not conclusive do?",
+      "options": [
+        "It distinguishes support from proof.",
+        "It denies that the evidence matters.",
+        "It gives a cause.",
+        "It changes the topic to procedure."
+      ],
+      "answer": "It distinguishes support from proof.",
+      "explanation": "It distinguishes support from proof. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It distinguishes support from proof.": "It distinguishes support from proof. That is the role of the highlighted part in the short text.",
+        "It denies that the evidence matters.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the topic to procedure.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1310",
+      "level": "C2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "In the final adjudication, read this comment: \"This reading preserves the exception while avoiding a contradiction in the rule.\" What does while do?",
+      "options": [
+        "It presents two effects of the interpretation together.",
+        "It gives a chronological sequence only.",
+        "It rejects the exception.",
+        "It defines contradiction."
+      ],
+      "answer": "It presents two effects of the interpretation together.",
+      "explanation": "It presents two effects of the interpretation together. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It presents two effects of the interpretation together.": "It presents two effects of the interpretation together. That is the role of the highlighted part in the short text.",
+        "It gives a chronological sequence only.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It rejects the exception.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines contradiction.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1311",
+      "level": "C2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "During the ethics review, read this comment: \"Even granting the factual premise, the legal conclusion does not follow.\" What does Even granting do?",
+      "options": [
+        "It accepts a premise for argument while challenging the inference.",
+        "It proves the premise false.",
+        "It introduces a new law.",
+        "It gives an example."
+      ],
+      "answer": "It accepts a premise for argument while challenging the inference.",
+      "explanation": "It accepts a premise for argument while challenging the inference. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It accepts a premise for argument while challenging the inference.": "It accepts a premise for argument while challenging the inference. That is the role of the highlighted part in the short text.",
+        "It proves the premise false.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It introduces a new law.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1312",
+      "level": "C2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "On the fiduciary briefing, read this comment: \"The term notice is doing more work here than the statute can bear.\" What does the sentence criticize?",
+      "options": [
+        "It says the interpretation depends too heavily on one term.",
+        "It praises the statute's precision.",
+        "It gives filing instructions.",
+        "It summarizes witness testimony."
+      ],
+      "answer": "It says the interpretation depends too heavily on one term.",
+      "explanation": "It says the interpretation depends too heavily on one term. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It says the interpretation depends too heavily on one term.": "It says the interpretation depends too heavily on one term. That is the role of the highlighted part in the short text.",
+        "It praises the statute's precision.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives filing instructions.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It summarizes witness testimony.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1313",
+      "level": "C2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "After the statistical model was revised, read this comment: \"The analysis conflates eligibility with entitlement.\" What does the sentence do?",
+      "options": [
+        "It identifies a confused distinction.",
+        "It gives a result.",
+        "It adds a concession.",
+        "It reports a sequence of events."
+      ],
+      "answer": "It identifies a confused distinction.",
+      "explanation": "It identifies a confused distinction. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It identifies a confused distinction.": "It identifies a confused distinction. That is the role of the highlighted part in the short text.",
+        "It gives a result.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It adds a concession.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It reports a sequence of events.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1314",
+      "level": "C2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "Before the precedent was cited, read this comment: \"The analogy illuminates the problem but cannot settle it.\" What does the second part do?",
+      "options": [
+        "It limits what the analogy can prove.",
+        "It rejects the analogy as useless.",
+        "It gives the next procedural step.",
+        "It defines analogy."
+      ],
+      "answer": "It limits what the analogy can prove.",
+      "explanation": "It limits what the analogy can prove. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It limits what the analogy can prove.": "It limits what the analogy can prove. That is the role of the highlighted part in the short text.",
+        "It rejects the analogy as useless.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives the next procedural step.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines analogy.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1315",
+      "level": "C2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "In the interpretive framework, read this comment: \"The premise is descriptive; the conclusion is normative.\" What does the semicolon help show?",
+      "options": [
+        "It sets up a conceptual contrast.",
+        "It gives a time sequence.",
+        "It lists examples of one category.",
+        "It reports the same idea twice."
+      ],
+      "answer": "It sets up a conceptual contrast.",
+      "explanation": "It sets up a conceptual contrast. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It sets up a conceptual contrast.": "It sets up a conceptual contrast. That is the role of the highlighted part in the short text.",
+        "It gives a time sequence.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It lists examples of one category.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It reports the same idea twice.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1316",
+      "level": "C2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "During the evidentiary hearing, read this comment: \"The argument turns not on intent but on the public meaning of the text.\" What does not on intent but on do?",
+      "options": [
+        "It redirects the basis of the argument.",
+        "It adds a concession.",
+        "It gives a cause of intent.",
+        "It defines public meaning."
+      ],
+      "answer": "It redirects the basis of the argument.",
+      "explanation": "It redirects the basis of the argument. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It redirects the basis of the argument.": "It redirects the basis of the argument. That is the role of the highlighted part in the short text.",
+        "It adds a concession.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a cause of intent.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines public meaning.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1317",
+      "level": "C2",
+      "setupText": "Read the question and all four choices.",
+      "taskText": "On the technical memorandum, read this comment: \"The caveat is easy to miss, yet it controls the scope of the holding.\" What does yet do?",
+      "options": [
+        "It contrasts low visibility with high importance.",
+        "It gives a definition.",
+        "It reports a cause.",
+        "It adds an example."
+      ],
+      "answer": "It contrasts low visibility with high importance.",
+      "explanation": "It contrasts low visibility with high importance. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It contrasts low visibility with high importance.": "It contrasts low visibility with high importance. That is the role of the highlighted part in the short text.",
+        "It gives a definition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It reports a cause.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It adds an example.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1318",
+      "level": "C2",
+      "setupText": "Choose the answer that best fits the sentence.",
+      "taskText": "After the objections were synthesized, read this comment: \"The objection presupposes the very distinction it aims to reject.\" What does the sentence do?",
+      "options": [
+        "It exposes a circular problem in the objection.",
+        "It summarizes a timeline.",
+        "It gives a neutral definition.",
+        "It accepts the objection fully."
+      ],
+      "answer": "It exposes a circular problem in the objection.",
+      "explanation": "It exposes a circular problem in the objection. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It exposes a circular problem in the objection.": "It exposes a circular problem in the objection. That is the role of the highlighted part in the short text.",
+        "It summarizes a timeline.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a neutral definition.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It accepts the objection fully.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1319",
+      "level": "C2",
+      "setupText": "Use the whole sentence before choosing.",
+      "taskText": "Before the caveat was removed, read this comment: \"The finding is not false; it is underdetermined.\" What does the second clause do?",
+      "options": [
+        "It replaces rejection with a more precise criticism.",
+        "It gives an example.",
+        "It proves the finding true.",
+        "It changes the topic to cost."
+      ],
+      "answer": "It replaces rejection with a more precise criticism.",
+      "explanation": "It replaces rejection with a more precise criticism. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It replaces rejection with a more precise criticism.": "It replaces rejection with a more precise criticism. That is the role of the highlighted part in the short text.",
+        "It gives an example.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It proves the finding true.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It changes the topic to cost.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-discourse-function-c2-1320",
+      "level": "C2",
+      "setupText": "Only one answer should fit clearly.",
+      "taskText": "In the published corrigendum, read this comment: \"The framework explains individual choices at the expense of institutional context.\" What does at the expense of show?",
+      "options": [
+        "It identifies what the explanation sacrifices.",
+        "It gives a result in time order.",
+        "It defines institutional context.",
+        "It gives a procedural condition."
+      ],
+      "answer": "It identifies what the explanation sacrifices.",
+      "explanation": "It identifies what the explanation sacrifices. That is the role of the highlighted part in the short text.",
+      "rationales": {
+        "It identifies what the explanation sacrifices.": "It identifies what the explanation sacrifices. That is the role of the highlighted part in the short text.",
+        "It gives a result in time order.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It defines institutional context.": "This describes a possible text function, but it is not what the quoted part is doing here.",
+        "It gives a procedural condition.": "This describes a possible text function, but it is not what the quoted part is doing here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

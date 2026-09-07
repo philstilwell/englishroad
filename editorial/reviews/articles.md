@@ -1,0 +1,3867 @@
+# Articles: editorial review
+
+This is an AI-assisted editorial review copy. Publication and independent validation are separate steps.
+
+## A1
+
+20 of 20 items individually reviewed.
+
+### 1. Indefinite article when naming an occupation
+
+ID: `coverage-articles-a1-361`
+
+Choose the words for this introduction.
+
+You meet a new neighbour. Which sentence tells them your job?
+
+1. I am nurse.
+2. I am an nurse.
+3. I am a nurse. **[Correct]**
+4. I am the nurse.
+
+**Explanation:** "A nurse" names your job. You are introducing yourself as one member of that profession.
+
+**Choice feedback:**
+
+- **I am nurse.:** A job such as "nurse" is a singular countable noun. It needs a word such as "a" before it.
+- **I am an nurse.:** "Nurse" begins with the consonant sound /n/, so use "a", not "an".
+- **I am a nurse.:** This introduces your job without assuming that your neighbour already knows about a particular nurse.
+- **I am the nurse.:** This identifies a particular nurse, such as the nurse someone is waiting for. The question asks you to introduce your job.
+
+**Decision:** replaced.
+
+**Original findings:** Photo item repeated the singular-noun frame and gave no reason for individual errors.
+
+**Learning value:** Distinguishes telling someone a job from identifying a particular worker.
+
+**Level rationale:** A short personal introduction uses an everyday job word and the present form of be.
+
+**Similarity review:** The only A1 item about an occupation in a first meeting.
+
+### 2. An before a vowel sound in a request
+
+ID: `coverage-articles-a1-362`
+
+Choose the grammatically correct sentence.
+
+Which sentence is correct?
+
+1. Can I borrow an eraser? **[Correct]**
+2. Can I borrow a eraser?
+3. Can I borrow eraser?
+4. Can I borrow an erasers?
+
+**Explanation:** "Eraser" begins with a vowel sound. For one eraser, say "an eraser".
+
+**Choice feedback:**
+
+- **Can I borrow an eraser?:** "An eraser" correctly asks for one countable object beginning with a vowel sound.
+- **Can I borrow a eraser?:** Use "an" before the vowel sound at the start of "eraser".
+- **Can I borrow eraser?:** "Eraser" names one countable object here, so it cannot stand alone without a determiner.
+- **Can I borrow an erasers?:** "An" is for one object, but "erasers" is plural. Use "an eraser" or simply "erasers".
+
+**Decision:** revised.
+
+**Original findings:** The original feedback did not explain the vowel sound or singular countability.
+
+**Learning value:** Connects the sound of eraser to an and distinguishes singular from plural.
+
+**Level rationale:** A familiar borrowing request contains one concrete object.
+
+**Similarity review:** Uses a request and contrasts both article choice and noun number.
+
+### 3. The for a uniquely identifiable object in the situation
+
+ID: `coverage-articles-a1-363`
+
+Choose the words that refer to the door you can both see.
+
+There is just one door in the room. Please close ___ door.
+
+1. a
+2. an
+3. (nothing)
+4. the **[Correct]**
+
+**Explanation:** You can both identify the room's one door. "The door" points to that particular door.
+
+**Choice feedback:**
+
+- **a:** "A door" means one door without identifying which. Here the speaker means the room's already identified door.
+- **an:** "Door" starts with /d/, a consonant sound. "An door" is not grammatical.
+- **(nothing):** A singular countable noun such as "door" needs a determiner in this request.
+- **the:** "The" refers to the single door already identified in the room.
+
+**Decision:** revised.
+
+**Original findings:** The original allowed a possible first-mention reading with A.
+
+**Learning value:** Shows how shared surroundings can make a noun definite without an earlier story about it.
+
+**Level rationale:** The concrete setting and short imperative suit beginning learners.
+
+**Similarity review:** This is shared physical reference, distinct from later-mention reference.
+
+### 4. Zero article with a mass noun in a general statement
+
+ID: `coverage-articles-a1-364`
+
+Choose the sentence about water in general.
+
+Which sentence says what people need every day?
+
+1. People need a water every day.
+2. People need water every day. **[Correct]**
+3. People need an water every day.
+4. People need the water every day.
+
+**Explanation:** "Water" names a substance in general here. We do not put an article before it: "People need water."
+
+**Choice feedback:**
+
+- **People need a water every day.:** "A water" can mean one serving when ordering a drink. This question is about the substance people need, not a serving.
+- **People need water every day.:** No article is needed when "water" means the substance in general.
+- **People need an water every day.:** "An" is not used before the consonant sound /w/. It also does not express water as a substance in general.
+- **People need the water every day.:** "The water" refers to particular water already identified. No such water is meant in this general statement.
+
+**Decision:** replaced.
+
+**Original findings:** The old context allowed particular water, and the explanation inserted (nothing) into the sentence.
+
+**Learning value:** Explains why general water differs from a serving or an identified supply.
+
+**Level rationale:** The idea of an everyday need is simple and uses common vocabulary.
+
+**Similarity review:** The set's substance example; other zero-article items have different noun types.
+
+### 5. No article before a possessive determiner
+
+ID: `coverage-articles-a1-365`
+
+Choose the grammatically correct sentence.
+
+Which sentence is correct?
+
+1. That is a my coat.
+2. That is the my coat.
+3. That is an my coat.
+4. That is my coat. **[Correct]**
+
+**Explanation:** "My" already shows whose coat it is. Do not add "a", "an", or "the" before "my".
+
+**Choice feedback:**
+
+- **That is a my coat.:** English does not combine "a" and "my" before the same noun. Say "my coat".
+- **That is the my coat.:** "The" and "my" both identify the noun; they do not go together in "the my coat".
+- **That is an my coat.:** "An" cannot come before the possessive "my". The phrase needs only "my coat".
+- **That is my coat.:** The possessive "my" supplies the information needed before the singular noun "coat".
+
+**Decision:** replaced.
+
+**Original findings:** Notebook item repeated basic a plus singular noun.
+
+**Learning value:** Prevents learners from adding an article whenever they see a singular noun.
+
+**Level rationale:** Possession and clothing are familiar A1 language.
+
+**Similarity review:** Only item testing the interaction of an article with my.
+
+### 6. A countable fruit introduced with there is
+
+ID: `coverage-articles-a1-366`
+
+Choose the grammatically correct sentence.
+
+Which sentence is correct?
+
+1. There is a orange in the bowl.
+2. There is an orange in the bowl. **[Correct]**
+3. There is an oranges in the bowl.
+4. There is orange fruit in bowl.
+
+**Explanation:** "An orange" means one fruit. "Orange" begins with a vowel sound, so the article is "an".
+
+**Choice feedback:**
+
+- **There is a orange in the bowl.:** The first sound in "orange" is a vowel; "a orange" should be "an orange".
+- **There is an orange in the bowl.:** The article "an" fits both the vowel sound and the singular fruit.
+- **There is an oranges in the bowl.:** The singular article "an" cannot introduce the plural noun "oranges".
+- **There is orange fruit in bowl.:** "Bowl" is a singular countable noun and needs a determiner here, for example "in the bowl".
+
+**Decision:** replaced.
+
+**Original findings:** Apple item had generic distractor feedback and repeated a basic noun frame.
+
+**Learning value:** Practises an in an existence sentence and keeps singular and plural forms consistent.
+
+**Level rationale:** Food, containers, and there is are early everyday language.
+
+**Similarity review:** Existence statement about food rather than the request used for eraser.
+
+### 7. A on introduction followed by the for the same referent
+
+ID: `coverage-articles-a1-367`
+
+Choose the word for the same bus.
+
+A bus stops beside us. ___ bus is full.
+
+1. The **[Correct]**
+2. A
+3. An
+4. (nothing)
+
+**Explanation:** The first sentence introduces "a bus". The second refers to that same bus, so it says "the bus".
+
+**Choice feedback:**
+
+- **The:** "The bus" takes the reader back to the bus that has just stopped.
+- **A:** "A bus" would introduce a bus without clearly linking it to the one in the first sentence.
+- **An:** "Bus" begins with a consonant sound, so "an bus" is not possible.
+- **(nothing):** "Bus" is singular and countable; it cannot be used without a determiner here.
+
+**Decision:** revised.
+
+**Original findings:** The old bus outside sentence did not clearly establish the intended reference.
+
+**Learning value:** Makes the change from first to later mention visible across two sentences.
+
+**Level rationale:** Two very short sentences describe a familiar event.
+
+**Similarity review:** Only A1 item that explicitly links a first and second mention.
+
+### 8. Zero article with generic plural nouns
+
+ID: `coverage-articles-a1-368`
+
+Choose the sentence about a general liking.
+
+You like cats of all kinds. What do you say?
+
+1. I like a cats.
+2. I like an cats.
+3. I like cats. **[Correct]**
+4. I like the cats.
+
+**Explanation:** A plural noun with no article can mean the whole kind: "I like cats" means cats in general.
+
+**Choice feedback:**
+
+- **I like a cats.:** "A" goes with a singular countable noun, not the plural "cats".
+- **I like an cats.:** "An" cannot introduce a plural noun. It also does not match the initial consonant sound in "cats".
+- **I like cats.:** The plural "cats" without an article expresses the general liking described.
+- **I like the cats.:** This means a particular group of cats that speaker and listener can identify, not cats of all kinds.
+
+**Decision:** replaced.
+
+**Original findings:** The music sentence did not make general versus specific reference explicit.
+
+**Learning value:** Contrasts a whole category with a particular identified group.
+
+**Level rationale:** A simple like statement and a familiar plural suit A1.
+
+**Similarity review:** General plural reference, unlike the uncountable water example.
+
+### 9. Article before an adjective and a singular noun
+
+ID: `coverage-articles-a1-369`
+
+Choose the grammatically correct sentence.
+
+Which sentence is correct?
+
+1. We have an small kitchen.
+2. We have a small kitchen. **[Correct]**
+3. We have small kitchen.
+4. We have a small kitchens.
+
+**Explanation:** Put the article before the adjective: "a small kitchen". "Small" begins with a consonant sound.
+
+**Choice feedback:**
+
+- **We have an small kitchen.:** Choose the article using the next sound, which is /s/ in "small". It needs "a".
+- **We have a small kitchen.:** "A" comes before "small" and introduces the one kitchen.
+- **We have small kitchen.:** An adjective does not remove the need for an article before the singular noun "kitchen".
+- **We have a small kitchens.:** "A" introduces one kitchen; "kitchens" is plural and cannot follow it.
+
+**Decision:** replaced.
+
+**Original findings:** Key-on-floor item added no distinction beyond first-mention a.
+
+**Learning value:** Shows the position of the article in a longer noun phrase.
+
+**Level rationale:** Describing a home with one adjective is an A1 task.
+
+**Similarity review:** The only home-description item with article-adjective-noun order.
+
+### 10. Article with a container phrase
+
+ID: `coverage-articles-a1-370`
+
+Choose the grammatically correct sentence.
+
+Which sentence is correct?
+
+1. Would you like a apple juice?
+2. Would you like an glass of juice?
+3. Would you like glass of juice?
+4. Would you like a glass of juice? **[Correct]**
+
+**Explanation:** The article belongs to "glass", a countable container. We can offer "a glass of juice" even though juice itself is not counted here.
+
+**Choice feedback:**
+
+- **Would you like a apple juice?:** "Apple" starts with a vowel sound, so an order for one serving would use "an apple juice", not "a apple juice".
+- **Would you like an glass of juice?:** "Glass" begins with /g/, so it takes "a", not "an".
+- **Would you like glass of juice?:** One countable container needs a determiner: "a glass of juice".
+- **Would you like a glass of juice?:** "A" correctly introduces the container "glass"; no second article is needed before "juice".
+
+**Decision:** replaced.
+
+**Original findings:** Umbrella item repeated the simple an-plus-object decision.
+
+**Learning value:** Gives learners a practical way to count a drink by its container.
+
+**Level rationale:** Offering a drink is an everyday beginner interaction.
+
+**Similarity review:** Adds a measure phrase instead of another isolated object.
+
+### 11. The when an adjective identifies one member of a group
+
+ID: `coverage-articles-a1-371`
+
+Choose the word for the marked item.
+
+There are three cups. Only one is blue. Please use ___ blue cup.
+
+1. an
+2. (nothing)
+3. the **[Correct]**
+4. a
+
+**Explanation:** The colour identifies one cup among the three. "The blue cup" tells the listener exactly which cup to use.
+
+**Choice feedback:**
+
+- **an:** "Blue" starts with a consonant sound, so "an blue cup" is not grammatical.
+- **(nothing):** The singular noun "cup" still needs a determiner even when an adjective comes before it.
+- **the:** There is exactly one blue cup, so "the" identifies it among the three cups.
+- **a:** "A blue cup" does not mark the already identified unique blue cup as clearly as the definite phrase requested.
+
+**Decision:** replaced.
+
+**Original findings:** Pencil-on-desk item relied on unstated shared knowledge.
+
+**Learning value:** Shows how a description can identify a particular object.
+
+**Level rationale:** Numbers, colours, and a short request are accessible at A1.
+
+**Similarity review:** Contrast within a visible group differs from the single-door situation.
+
+### 12. Zero article in a routine meal and time expression
+
+ID: `coverage-articles-a1-372`
+
+Choose the grammatically correct sentence.
+
+Which sentence is correct?
+
+1. We eat breakfast at seven. **[Correct]**
+2. We eat a breakfast at a seven.
+3. We eat an breakfast at seven.
+4. We eat breakfast at the seven.
+
+**Explanation:** The ordinary meal name needs no article in "eat breakfast". A clock time is also used without an article: "at seven".
+
+**Choice feedback:**
+
+- **We eat breakfast at seven.:** This uses the usual article-free meal name and clock time.
+- **We eat a breakfast at a seven.:** "A breakfast" can describe one meal, but "at a seven" is not how English gives this clock time.
+- **We eat an breakfast at seven.:** "An" does not fit the consonant sound /b/. The usual routine expression is simply "eat breakfast".
+- **We eat breakfast at the seven.:** Do not put "the" before a bare clock time. Say "at seven".
+
+**Decision:** replaced.
+
+**Original findings:** Rice item duplicated a mass-noun choice and showed incorrect capitalisation in alternatives.
+
+**Learning value:** Builds a complete usable sentence for describing a daily routine.
+
+**Level rationale:** Breakfast and simple clock times belong to everyday beginner language.
+
+**Similarity review:** Uses a routine expression rather than a general noun category.
+
+### 13. Interpreting a as per in a shop price
+
+ID: `coverage-articles-a1-373`
+
+Choose the meaning of the price.
+
+The label says, "Two euros a kilo." What does "a kilo" mean here?
+
+1. For each apple
+2. For each kilo **[Correct]**
+3. For half a kilo
+4. For all the apples
+
+**Explanation:** In this price, "a kilo" means "for each kilo". One kilo costs two euros; two kilos cost four euros.
+
+**Choice feedback:**
+
+- **For each apple:** The unit named is kilo, a weight, not an individual apple.
+- **For each kilo:** Here a means for each unit, and the stated unit is one kilo.
+- **For half a kilo:** The label gives the price for a full kilo. Half a kilo would cost one euro at this rate.
+- **For all the apples:** The price applies to each kilo, not to the whole supply of apples.
+
+**Decision:** replaced.
+
+**Original findings:** Picture-of-house item repeated singular object introduction.
+
+**Learning value:** Connects the article with the price paid for each unit of weight.
+
+**Level rationale:** A short price calculation and familiar shopping language support A1 comprehension.
+
+**Similarity review:** The only rate interpretation, using a price label rather than a sentence correction.
+
+### 14. Article sound determined by an intervening adjective
+
+ID: `coverage-articles-a1-374`
+
+Choose the grammatically correct sentence.
+
+Which sentence is correct?
+
+1. This is a old photo of me.
+2. This is an old photo of me. **[Correct]**
+3. This is old photo of me.
+4. This is an old photos of me.
+
+**Explanation:** Although "photo" starts with a consonant, the word directly after the article is "old". Its vowel sound requires "an".
+
+**Choice feedback:**
+
+- **This is a old photo of me.:** Use the first sound of "old", not the first sound of "photo", to choose the article.
+- **This is an old photo of me.:** "An" correctly comes before the vowel sound in "old" and introduces one photo.
+- **This is old photo of me.:** "Old" describes the photo but cannot replace the article needed with this singular noun.
+- **This is an old photos of me.:** "An" is singular; it cannot be followed by the plural noun "photos".
+
+**Decision:** replaced.
+
+**Original findings:** Elephant item offered another unvaried vowel-initial noun.
+
+**Learning value:** Prevents choosing a solely from the sound of the main noun.
+
+**Level rationale:** An old photograph is concrete and the sentence structure is short.
+
+**Similarity review:** Contrasts adjective sound with noun sound, extending the small-kitchen example.
+
+### 15. The with the familiar sun
+
+ID: `coverage-articles-a1-375`
+
+Choose the grammatically correct sentence.
+
+Which sentence is correct?
+
+1. Sun is very bright today.
+2. An sun is very bright today.
+3. The sun is very bright today. **[Correct]**
+4. The a sun is very bright today.
+
+**Explanation:** When we talk about the sun in our sky, we normally say "the sun" because we can identify which sun we mean.
+
+**Choice feedback:**
+
+- **Sun is very bright today.:** In an ordinary full sentence about our sky, the noun phrase is "the sun", with an article.
+- **An sun is very bright today.:** "Sun" starts with /s/, so "an sun" is not grammatical.
+- **The sun is very bright today.:** "The sun" is the usual way to name the familiar sun in our sky.
+- **The a sun is very bright today.:** Do not put "the" and "a" together before the same noun.
+
+**Decision:** replaced.
+
+**Original findings:** Window-near-person item repeated a locative identification frame.
+
+**Learning value:** Introduces a common definite phrase based on shared world knowledge.
+
+**Level rationale:** Weather and the sky provide familiar concrete vocabulary.
+
+**Similarity review:** Shared world knowledge, not a room object or previous sentence, establishes reference.
+
+### 16. Zero article with an unmodified city name
+
+ID: `coverage-articles-a1-376`
+
+Choose the usual sentence for saying where you live.
+
+Which sentence uses the city name correctly?
+
+1. I live in a Tokyo.
+2. I live in the Tokyo.
+3. I live in an Tokyo.
+4. I live in Tokyo. **[Correct]**
+
+**Explanation:** The city name "Tokyo" normally stands alone. Do not add an article when you simply say where you live.
+
+**Choice feedback:**
+
+- **I live in a Tokyo.:** "A Tokyo" is not the usual name of this city in a simple address statement.
+- **I live in the Tokyo.:** The city name does not normally take "the" on its own. Say "in Tokyo".
+- **I live in an Tokyo.:** "An" does not belong before this city name and does not match its initial consonant sound.
+- **I live in Tokyo.:** The proper name "Tokyo" identifies the city without an article.
+
+**Decision:** replaced.
+
+**Original findings:** Generic books item repeated plural-reference practice and used distracting capitalised options.
+
+**Learning value:** Gives a reliable pattern for a common personal-information sentence.
+
+**Level rationale:** Saying where one lives is a central A1 interaction.
+
+**Similarity review:** Only geographic proper-name item at A1.
+
+### 17. A for one family member versus a number for plural members
+
+ID: `coverage-articles-a1-377`
+
+Choose the grammatically correct sentence.
+
+Which sentence is correct?
+
+1. I have a brother and two sisters. **[Correct]**
+2. I have brother and two sisters.
+3. I have an brother and two sisters.
+4. I have a brother and a two sisters.
+
+**Explanation:** One brother needs "a brother". The number "two" already tells us how many sisters, so no article goes before it here.
+
+**Choice feedback:**
+
+- **I have a brother and two sisters.:** This uses "a" for one brother and a number without an article for the sisters.
+- **I have brother and two sisters.:** The singular countable noun "brother" needs a determiner such as "a".
+- **I have an brother and two sisters.:** "Brother" begins with the consonant sound /b/, so use "a".
+- **I have a brother and a two sisters.:** The singular article "a" cannot introduce the plural number phrase "two sisters".
+
+**Decision:** replaced.
+
+**Original findings:** Sandwich item repeated a plus single object without a new contrast.
+
+**Learning value:** Contrasts two noun phrases learners often use in the same introduction.
+
+**Level rationale:** Family descriptions and small numbers fit A1.
+
+**Similarity review:** Only coordinated singular-and-numbered-plural noun contrast.
+
+### 18. No article in an ordinary personal-name introduction
+
+ID: `coverage-articles-a1-378`
+
+Choose the grammatically correct sentence.
+
+Which sentence is correct?
+
+1. My name is an Ana.
+2. My name is Ana. **[Correct]**
+3. My an name is Ana.
+4. An my name is Ana.
+
+**Explanation:** Use a person's ordinary name without an article: "My name is Ana." A vowel at the start of a name does not mean it needs "an".
+
+**Choice feedback:**
+
+- **My name is an Ana.:** In a simple self-introduction, the name "Ana" is used without "an".
+- **My name is Ana.:** The personal name identifies the person directly and takes no article in this introduction.
+- **My an name is Ana.:** Do not add "an" between the possessive "my" and the noun "name".
+- **An my name is Ana.:** An article cannot precede the phrase "my name" in this sentence.
+
+**Decision:** replaced.
+
+**Original findings:** ID-card initialism increased sound complexity while repeating the same vowel-article rule.
+
+**Learning value:** Stops learners from applying the a/an sound rule to nouns that need no article.
+
+**Level rationale:** A simple statement of one's name is appropriate for beginners.
+
+**Similarity review:** Personal naming contrasts with the city name and the occupation introduction.
+
+### 19. The with first in a building location
+
+ID: `coverage-articles-a1-379`
+
+Choose the word used with this position.
+
+Our lesson is on ___ first floor, not the second floor.
+
+1. a
+2. an
+3. the **[Correct]**
+4. (nothing)
+
+**Explanation:** Use "the" with the numbered position "first" here: "the first floor", just as we say "the second floor".
+
+**Choice feedback:**
+
+- **a:** "A first floor" can introduce one in a different description, but this sentence identifies the floor by its position in this building.
+- **an:** "First" begins with a consonant sound, so "an first floor" is not grammatical.
+- **the:** "The first floor" identifies a specific floor by its position.
+- **(nothing):** In this ordinary sentence, the position phrase is "on the first floor", with "the".
+
+**Decision:** replaced.
+
+**Original findings:** Clock-above-board item repeated location-based the.
+
+**Learning value:** Teaches a practical definite phrase for finding a room.
+
+**Level rationale:** First and second with a short location statement are beginner-level language.
+
+**Similarity review:** Ordinal identification adds a different basis for definiteness.
+
+### 20. Zero article with a language name after speak
+
+ID: `coverage-articles-a1-380`
+
+Choose the usual sentence about speaking a language.
+
+Which sentence names the language correctly?
+
+1. We speak English at home. **[Correct]**
+2. We speak an English at home.
+3. We speak a English at home.
+4. We speak the English at home.
+
+**Explanation:** Use the language name on its own in "speak English". An article is not needed to name the language you speak.
+
+**Choice feedback:**
+
+- **We speak English at home.:** "English" names the language directly, without an article.
+- **We speak an English at home.:** Although "English" begins with a vowel sound, a language name does not take "an" in this ordinary statement.
+- **We speak a English at home.:** "A English" is not the phrase for naming the language. Use "speak English".
+- **We speak the English at home.:** "The English" can refer to English people, but the ordinary language phrase here is simply "English".
+
+**Decision:** replaced.
+
+**Original findings:** Tea item allowed a serving interpretation and repeated the mass-noun decision.
+
+**Learning value:** Separates language names from countable things and named groups of people.
+
+**Level rationale:** Talking about languages spoken at home is accessible personal information.
+
+**Similarity review:** Language reference differs from city and personal names and from general substances.
+
+## A2
+
+20 of 20 items individually reviewed.
+
+### 1. Maintaining a referent across a short narrative
+
+ID: `coverage-articles-a2-381`
+
+Choose the words that keep talking about the same car.
+
+I bought a used car yesterday. ___ car needs two new tyres.
+
+1. An
+2. The **[Correct]**
+3. A
+4. (nothing)
+
+**Explanation:** "The car" refers back to the used car just introduced. Repeating "a car" would not clearly maintain that reference.
+
+**Choice feedback:**
+
+- **An:** "Car" begins with /k/, so "an car" is incorrect.
+- **The:** The reader already knows which car is being discussed: the one bought yesterday.
+- **A:** This would introduce a car without explicitly linking it to the previous sentence. The task asks you to maintain the same reference.
+- **(nothing):** The singular noun "car" needs a determiner; it cannot start this sentence alone.
+
+**Decision:** revised.
+
+**Original findings:** Wrong-answer messages did not explain reference or countability.
+
+**Learning value:** Links the choice of the to continuity in a story.
+
+**Level rationale:** Two past/present sentences describe an everyday purchase and repair.
+
+**Similarity review:** The A2 set's narrative reference item.
+
+### 2. Article with a unit of an uncountable noun
+
+ID: `coverage-articles-a2-382`
+
+Choose the grammatically correct phrase.
+
+My new position begins tomorrow. The company has sent me ___ about my first day.
+
+1. an information
+2. a piece of information **[Correct]**
+3. an piece of information
+4. a piece of informations
+
+**Explanation:** "Information" is uncountable. To refer to one detail, use the countable phrase "a piece of information".
+
+**Choice feedback:**
+
+- **an information:** English does not normally count information as "an information". Count a piece or an item of information instead.
+- **a piece of information:** "A" introduces the singular countable noun "piece", while "information" stays uncountable.
+- **an piece of information:** "Piece" starts with /p/, so the article must be "a".
+- **a piece of informations:** The uncountable noun stays "information" after "a piece of"; it does not take plural -s.
+
+**Decision:** replaced.
+
+**Original findings:** Email item repeated a basic sound rule without an A2 distinction.
+
+**Learning value:** Teaches how to count a detail without inventing an information.
+
+**Level rationale:** A workplace message supplies accessible context for a common A2 countability difficulty.
+
+**Similarity review:** Only item using a piece of with an abstract uncountable noun.
+
+### 3. A in the fixed expression have a headache
+
+ID: `coverage-articles-a2-383`
+
+Choose the correct phrase for this feeling.
+
+Please turn the music down. I've got ___ .
+
+1. headache
+2. an headache
+3. a headache **[Correct]**
+4. a headaches
+
+**Explanation:** The usual expression is "have a headache". "Headache" is a singular countable noun and begins with a pronounced /h/.
+
+**Choice feedback:**
+
+- **headache:** This expression normally needs an article: "I've got a headache".
+- **an headache:** The /h/ in "headache" is pronounced, so use "a".
+- **a headache:** "A headache" correctly names one instance of this discomfort.
+- **a headaches:** "A" cannot introduce the plural "headaches". Use singular "headache" here.
+
+**Decision:** replaced.
+
+**Original findings:** New-tutor item merely retested a before a consonant.
+
+**Learning value:** Provides a usable expression for explaining discomfort.
+
+**Level rationale:** Everyday health vocabulary and a simple request fit A2.
+
+**Similarity review:** The only minor-health expression in the article set.
+
+### 4. No article with plural weekday names for routines
+
+ID: `coverage-articles-a2-384`
+
+Choose the sentence about a regular weekly class.
+
+Which sentence uses the day name correctly?
+
+1. We have training every the Monday.
+2. We have training on a Mondays.
+3. We have training on an Mondays.
+4. We have training on Mondays. **[Correct]**
+
+**Explanation:** "On Mondays" means regularly on that day of the week. The plural day name does not take an article in this expression.
+
+**Choice feedback:**
+
+- **We have training every the Monday.:** Do not combine "every" with "the" here. You can say "every Monday".
+- **We have training on a Mondays.:** The singular article "a" cannot introduce the plural day name "Mondays".
+- **We have training on an Mondays.:** "An" is singular and does not match either the plural form or the initial consonant sound.
+- **We have training on Mondays.:** The plural day name without an article expresses the repeated weekly event.
+
+**Decision:** replaced.
+
+**Original findings:** Original Training starts at nine also allowed The training and had a capitalisation cue.
+
+**Learning value:** Distinguishes a regular weekly schedule from an identified individual date.
+
+**Level rationale:** Talking about a weekly class is a routine A2 task.
+
+**Similarity review:** Time reference adds a new zero-article use.
+
+### 5. A before a written vowel with a consonant sound
+
+ID: `coverage-articles-a2-385`
+
+Choose the grammatically correct phrase.
+
+The college accepts students from many countries. It is ___ .
+
+1. an university
+2. a university **[Correct]**
+3. university
+4. a universities
+
+**Explanation:** "University" starts with the consonant sound /y/, as in "you". The spelling starts with u, but the sound requires "a".
+
+**Choice feedback:**
+
+- **an university:** The initial sound is /y/, not a vowel sound. Write "a university".
+- **a university:** "A" agrees with the initial sound and introduces one institution of this kind.
+- **university:** When classifying this institution after "It is", the singular noun needs a determiner.
+- **a universities:** "A" means one; it cannot be followed by the plural "universities".
+
+**Decision:** replaced.
+
+**Original findings:** Application item retested a simple vowel spelling at too low a demand.
+
+**Learning value:** Separates article choice from the first written letter.
+
+**Level rationale:** A common education word introduces a manageable A2 sound-spelling exception.
+
+**Similarity review:** Contrasts with the silent-h item rather than repeating it.
+
+### 6. Indefinite reference to something sought but not yet selected
+
+ID: `coverage-articles-a2-386`
+
+Choose the phrase that names one hotel of this kind.
+
+We have not chosen where to stay yet. We're looking for ___ near the beach.
+
+1. an small hotel
+2. small hotel
+3. a small hotel **[Correct]**
+4. a small hotels
+
+**Explanation:** "A small hotel" describes the kind of place wanted, without identifying one hotel already chosen. The article comes before "small".
+
+**Choice feedback:**
+
+- **an small hotel:** The first sound after the article is /s/ in "small", so "an" is incorrect.
+- **small hotel:** The singular countable noun "hotel" needs a determiner even when described by "small".
+- **a small hotel:** This describes an as-yet-unidentified member of the category the travellers want.
+- **a small hotels:** The singular article "a" cannot go with plural "hotels".
+
+**Decision:** replaced.
+
+**Original findings:** Original repeated the same two-sentence later-mention car pattern.
+
+**Learning value:** Shows that a can introduce a desired object without asserting a known example.
+
+**Level rationale:** Accommodation search and a short adjective phrase suit A2.
+
+**Similarity review:** A future choice of accommodation rather than reference to an existing possession.
+
+### 7. Zero article when naming a transport method with by
+
+ID: `coverage-articles-a2-387`
+
+Choose the grammatically correct phrase.
+
+Flights are expensive, so we're going to Paris ___ .
+
+1. by train **[Correct]**
+2. by a train
+3. by an train
+4. by the train
+
+**Explanation:** Use "by train" to name the means of travel. In this expression, "by" is followed by the transport word without an article.
+
+**Choice feedback:**
+
+- **by train:** This names the method of travel using the standard "by + transport" expression.
+- **by a train:** For the travel method, say "by train". To name a vehicle, use a different construction such as "on a train".
+- **by an train:** "An" does not fit /t/, and the transport expression needs no article.
+- **by the train:** "By the train" can mean beside a train, but it does not express the intended travel method here.
+
+**Decision:** replaced.
+
+**Original findings:** Passport sentence added no article contrast beyond singular a.
+
+**Learning value:** Distinguishes travelling by train from being beside a particular train.
+
+**Level rationale:** Planning travel is a common A2 situation.
+
+**Similarity review:** Only transport-method article item at A2.
+
+### 8. An before silent h in hour
+
+ID: `coverage-articles-a2-388`
+
+Choose the grammatically correct phrase.
+
+The repair took exactly sixty minutes: ___ .
+
+1. a hour
+2. an hour **[Correct]**
+3. an hours
+4. hour
+
+**Explanation:** "Hour" begins with a vowel sound because its h is silent. One period of sixty minutes is "an hour".
+
+**Choice feedback:**
+
+- **a hour:** The first spoken sound in "hour" is a vowel, so "a" must become "an".
+- **an hour:** The article follows the sound, not the silent written h.
+- **an hours:** "An" introduces one unit; "hours" is plural.
+- **hour:** To name one countable period here, include the article: "an hour".
+
+**Decision:** revised.
+
+**Original findings:** The original did not explain the silent h.
+
+**Learning value:** Makes pronunciation the basis of the article decision.
+
+**Level rationale:** A common duration word supplies an accessible A2 exception.
+
+**Similarity review:** Silent consonant contrasts with the pronounced initial sound in university.
+
+### 9. The with identified uncountable information
+
+ID: `coverage-articles-a2-389`
+
+Choose the phrase for all the details printed on this ticket.
+
+Check ___ before you travel.
+
+1. an information on your ticket
+2. a information on your ticket
+3. the information on your ticket **[Correct]**
+4. the informations on your ticket
+
+**Explanation:** "On your ticket" identifies the information to check. Although "information" is uncountable, it can take "the" when it refers to specific details.
+
+**Choice feedback:**
+
+- **an information on your ticket:** "Information" is uncountable; "an information" is not a standard singular unit.
+- **a information on your ticket:** The uncountable noun does not take "a", and the following sound is a vowel as well.
+- **the information on your ticket:** "The" identifies the particular set of details printed on the ticket.
+- **the informations on your ticket:** "Information" does not normally have a plural -s form in English.
+
+**Decision:** revised.
+
+**Original findings:** Original feedback did not teach that uncountable nouns can take the.
+
+**Learning value:** Counters the mistaken rule that uncountable nouns never take an article.
+
+**Level rationale:** Checking a ticket gives the added phrase a clear everyday function.
+
+**Similarity review:** Specific mass reference contrasts with the separate unit-of-information item.
+
+### 10. The in the established name the United States
+
+ID: `coverage-articles-a2-390`
+
+Choose the words for this country name.
+
+My sister lives in ___ United States.
+
+1. a
+2. an
+3. (nothing)
+4. the **[Correct]**
+
+**Explanation:** The conventional country name is "the United States". Some multiword country names use "the", even though names such as Japan do not.
+
+**Choice feedback:**
+
+- **a:** "A United States" does not name the country in this ordinary location sentence.
+- **an:** The name does not take "an"; "United" also starts with a consonant sound.
+- **(nothing):** The country name normally includes "the" in a full sentence: "in the United States".
+- **the:** "The United States" is the established form of this country name.
+
+**Decision:** replaced.
+
+**Original findings:** Patience sentence repeated generic uncountable reference without contrasting noun types.
+
+**Learning value:** Shows why learners must learn articles as part of some place names.
+
+**Level rationale:** A common country name and family location are suitable A2 content.
+
+**Similarity review:** The set's country-name exception.
+
+### 11. Article in a what exclamation with a singular noun
+
+ID: `coverage-articles-a2-391`
+
+Choose the grammatically correct phrase.
+
+The map has bus routes and opening times. What ___ !
+
+1. an useful guide
+2. useful guide
+3. a useful guide **[Correct]**
+4. a useful guides
+
+**Explanation:** The exclamation is "What a useful guide!". "Useful" begins with the consonant sound /y/, so it takes "a".
+
+**Choice feedback:**
+
+- **an useful guide:** The written u in "useful" represents a /y/ sound at the start. Use "a".
+- **useful guide:** A singular countable noun in this exclamation needs an article: "What a useful guide!".
+- **a useful guide:** This puts "a" before the adjective and uses the correct sound-based choice.
+- **a useful guides:** "A" cannot introduce the plural "guides" in this exclamation.
+
+**Decision:** revised.
+
+**Original findings:** The useful-map sentence lacked an explanation of the sound-spelling contrast.
+
+**Learning value:** Teaches a common positive response as a complete phrase.
+
+**Level rationale:** Short exclamations with familiar adjectives extend A2 conversational range.
+
+**Similarity review:** Exclamation structure differs from the university classification item.
+
+### 12. An with a drink interpreted as one serving
+
+ID: `coverage-articles-a2-392`
+
+Choose the grammatically correct phrase.
+
+At the cafe: "Two coffees, please: ___ and a cappuccino."
+
+1. a espresso
+2. an espresso **[Correct]**
+3. an espressos
+4. a espressos
+
+**Explanation:** A drink name can be countable when it means one serving. "An espresso" is one serving, and "espresso" begins with a vowel sound.
+
+**Choice feedback:**
+
+- **a espresso:** For this vowel sound, the singular article is "an".
+- **an espresso:** This correctly names one serving of espresso within the two-drink order.
+- **an espressos:** "An" is singular, whereas "espressos" is plural.
+- **a espressos:** "A" cannot introduce plural "espressos" and does not match the initial vowel sound.
+
+**Decision:** replaced.
+
+**Original findings:** Umbrella item repeated object counting and did not extend A2 control.
+
+**Learning value:** Shows that context can make a normally uncountable drink countable.
+
+**Level rationale:** Ordering two drinks is practical A2 language.
+
+**Similarity review:** Serving interpretation contrasts with abstract information and countable containers.
+
+### 13. The in the expression the same
+
+ID: `coverage-articles-a2-393`
+
+Choose the grammatically correct phrase.
+
+Both bags look blue to me. Are they ___ colour?
+
+1. a same
+2. an same
+3. same
+4. the same **[Correct]**
+
+**Explanation:** The normal expression is "the same colour". English uses "the" with "same" in this comparison.
+
+**Choice feedback:**
+
+- **a same:** Do not use "a same" in this expression; say "the same".
+- **an same:** "An same" is not the expression and also mismatches the /s/ sound.
+- **same:** In this full question, include "the": "Are they the same colour?".
+- **the same:** "The same colour" asks whether the colours match.
+
+**Decision:** replaced.
+
+**Original findings:** Printer-by-door item did not rule out another indefinite reading.
+
+**Learning value:** Supplies an article pattern that transfers to the same size, price, and time.
+
+**Level rationale:** Comparing the colours of two objects suits A2.
+
+**Similarity review:** Fixed comparison expression rather than identifying an object by location.
+
+### 14. Zero article with a sport after play
+
+ID: `coverage-articles-a2-394`
+
+Choose the ordinary way to name the sport.
+
+After work, we usually play ___ with our neighbours.
+
+1. tennis **[Correct]**
+2. a tennis
+3. an tennis
+4. the tennis
+
+**Explanation:** Sport names normally have no article after "play": "play tennis". The sentence names an activity, not one countable match.
+
+**Choice feedback:**
+
+- **tennis:** "Play tennis" is the standard phrase for taking part in this sport.
+- **a tennis:** "Tennis" does not count a single match. You could say "a game of tennis".
+- **an tennis:** "An" neither fits the initial consonant sound nor belongs before this sport name here.
+- **the tennis:** The usual activity phrase is "play tennis". "The tennis" can refer to a particular competition in other constructions.
+
+**Decision:** replaced.
+
+**Original findings:** Original study English item repeated a beginner language-name rule.
+
+**Learning value:** Teaches an activity expression and distinguishes it from a countable game.
+
+**Level rationale:** Leisure activities and frequency are established A2 contexts.
+
+**Similarity review:** Only sporting activity in the A2 set.
+
+### 15. A with a described instance of a meal
+
+ID: `coverage-articles-a2-395`
+
+Choose the grammatically correct phrase.
+
+We usually eat toast, but yesterday the hotel served us ___ .
+
+1. an big breakfast
+2. big breakfast
+3. a big breakfast **[Correct]**
+4. a big breakfasts
+
+**Explanation:** An ordinary meal name can become countable when we describe one particular meal: "a big breakfast".
+
+**Choice feedback:**
+
+- **an big breakfast:** "Big" begins with /b/, so the article is "a".
+- **big breakfast:** The phrase describes one meal with an adjective; it needs a determiner such as "a" here.
+- **a big breakfast:** "A" introduces one breakfast described as big, rather than the routine activity of eating breakfast.
+- **a big breakfasts:** "A" introduces one meal and cannot be followed by plural "breakfasts".
+
+**Decision:** replaced.
+
+**Original findings:** Receipt item repeated indefinite singular counting.
+
+**Learning value:** Extends the familiar article-free meal expression to one described meal.
+
+**Level rationale:** A hotel breakfast is a concrete A2 narrative context.
+
+**Similarity review:** Meal reinterpretation differs from counting a cafe drink.
+
+### 16. An before an initialism pronounced with a vowel sound
+
+ID: `coverage-articles-a2-396`
+
+Choose the grammatically correct phrase.
+
+At reception, please show ___ with a photo.
+
+1. a ID card
+2. an ID card **[Correct]**
+3. an ID cards
+4. ID card
+
+**Explanation:** The letter I is pronounced with a vowel sound. Because ID is read as letter names, the phrase is "an ID card".
+
+**Choice feedback:**
+
+- **a ID card:** Use the sound of the letter name I. It begins with a vowel sound and needs "an".
+- **an ID card:** "An" matches the spoken beginning of ID and introduces one card.
+- **an ID cards:** The article is singular, so the noun must be "card", not "cards".
+- **ID card:** The singular countable phrase needs a determiner in this request.
+
+**Decision:** replaced.
+
+**Original findings:** Online-course item offered another uncomplicated vowel-initial noun phrase.
+
+**Learning value:** Transfers the sound rule to letters read aloud.
+
+**Level rationale:** Showing identification is a common adult A2 transaction.
+
+**Similarity review:** An initialism adds a distinct sound decision beyond hour and useful.
+
+### 17. The with an identifying superlative
+
+ID: `coverage-articles-a2-397`
+
+Choose the grammatically correct phrase.
+
+Our new flat is farther from the station, but it is ___ of the three we saw.
+
+1. a cheapest
+2. an cheapest
+3. cheapest
+4. the cheapest **[Correct]**
+
+**Explanation:** "The cheapest" identifies the flat with the lowest price in the stated group of three. This superlative takes "the".
+
+**Choice feedback:**
+
+- **a cheapest:** The phrase identifies the lowest-priced member of a defined group, so use "the cheapest".
+- **an cheapest:** "An" does not fit the consonant sound and is not the article for this identifying superlative.
+- **cheapest:** Include "the" before this superlative when identifying one flat among the three.
+- **the cheapest:** "The" works with the superlative to identify the lowest-priced flat in the comparison.
+
+**Decision:** replaced.
+
+**Original findings:** Address-on-form item repeated location-based definite reference.
+
+**Learning value:** Shows how a superlative selects a member of a stated comparison group.
+
+**Level rationale:** Housing prices and common superlatives are suitable A2 language.
+
+**Similarity review:** The set's ranked comparison, distinct from the same colour.
+
+### 18. Some rather than a or an with modified advice
+
+ID: `coverage-articles-a2-398`
+
+Choose the grammatically correct sentence.
+
+Which sentence is correct?
+
+1. My brother gave me some useful advice. **[Correct]**
+2. My brother gave me an useful advice.
+3. My brother gave me a useful advice.
+4. My brother gave me some useful advices.
+
+**Explanation:** "Advice" is uncountable, so "some useful advice" works without a or an. An adjective does not make advice countable.
+
+**Choice feedback:**
+
+- **My brother gave me some useful advice.:** "Some" can introduce an unspecified amount of the uncountable noun "advice".
+- **My brother gave me an useful advice.:** "Advice" cannot be introduced by "an" here, and "useful" begins with a consonant sound.
+- **My brother gave me a useful advice.:** An adjective does not turn "advice" into a singular countable noun. Say "some useful advice" or "a useful piece of advice".
+- **My brother gave me some useful advices.:** The noun remains "advice", without plural -s, in standard English.
+
+**Decision:** revised.
+
+**Original findings:** Original advice blank could allow the advice and did not explain countability.
+
+**Learning value:** Explains the effect of adding an adjective to an uncountable noun.
+
+**Level rationale:** Giving and receiving advice in family contexts fits A2.
+
+**Similarity review:** Quantified abstract noun complements the definite-information example.
+
+### 19. A expressing frequency per unit of time
+
+ID: `coverage-articles-a2-399`
+
+Choose the grammatically correct phrase.
+
+I take this medicine twice ___ : once in the morning and once at night.
+
+1. an day
+2. a day **[Correct]**
+3. a days
+4. day
+
+**Explanation:** "Twice a day" means two times each day. Here "a" expresses a repeated rate, not an unidentified calendar day.
+
+**Choice feedback:**
+
+- **an day:** "Day" begins with /d/, so it cannot follow "an".
+- **a day:** "A day" expresses the daily frequency and matches the two times specified.
+- **a days:** The article "a" takes the singular unit "day", not plural "days".
+- **day:** The frequency expression requires "a day" or "per day" after "twice".
+
+**Decision:** replaced.
+
+**Original findings:** Short-answer item repeated a plus adjective without a new usage.
+
+**Learning value:** Connects an article pattern with understanding a routine instruction.
+
+**Level rationale:** Frequency and daily routines are A2 language; no medical decision is tested.
+
+**Similarity review:** Temporal rate differs from singular objects and identified times.
+
+### 20. Articles in coordinated alternatives sharing a noun
+
+ID: `coverage-articles-a2-400`
+
+Choose the grammatically correct phrase.
+
+The shop assistant offers two sizes: "Would you like ___ ?"
+
+1. small or large bag
+2. an small or an large bag
+3. a small or a large bag **[Correct]**
+4. a small or a large bags
+
+**Explanation:** Each size describes a possible singular bag. The phrase "a small or a large bag" uses an article before each alternative.
+
+**Choice feedback:**
+
+- **small or large bag:** The singular noun "bag" needs a determiner in this full question, even when two adjectives are offered.
+- **an small or an large bag:** Both "small" and "large" begin with consonant sounds, so neither can follow "an".
+- **a small or a large bag:** Both alternatives correctly introduce a possible singular bag with "a".
+- **a small or a large bags:** The article "a" cannot introduce the plural noun "bags".
+
+**Decision:** replaced.
+
+**Original findings:** Account item supplied another isolated an answer with generic feedback.
+
+**Learning value:** Shows how to offer alternatives while keeping singular articles consistent.
+
+**Level rationale:** Choosing a bag size is a concrete transactional task at A2.
+
+**Similarity review:** The only either-size alternative construction in this set.
+
+## B1
+
+20 of 20 items individually reviewed.
+
+### 1. Activity reading versus one instance of conversation
+
+ID: `coverage-articles-b1-401`
+
+Choose the phrase for the general activity.
+
+Daria works in a bookshop and enjoys ___ about books with customers.
+
+1. a conversation
+2. conversation **[Correct]**
+3. an conversation
+4. a conversations
+
+**Explanation:** Here "conversation" names the activity of talking in general, so no article is needed. "A conversation" would count one particular exchange.
+
+**Choice feedback:**
+
+- **a conversation:** This would count a single exchange. The task asks for the general activity she enjoys as part of her work.
+- **conversation:** The uncountable use names the activity without counting individual exchanges.
+- **an conversation:** "Conversation" begins with /k/, so "an" is not possible.
+- **a conversations:** The singular article cannot introduce the plural form "conversations".
+
+**Decision:** replaced.
+
+**Original findings:** Original generic Reports sentence did not distinguish general from identified reports.
+
+**Learning value:** Shows that the same noun may name an activity or a countable event.
+
+**Level rationale:** A familiar work routine supports a B1 shift between countable and uncountable meaning.
+
+**Similarity review:** Only general conversation activity in the set.
+
+### 2. Article with a comparative adjective and countable abstract noun
+
+ID: `coverage-articles-b1-402`
+
+Choose the grammatically correct phrase.
+
+The old recipe is difficult to follow. Could you give me ___ of how to make the sauce?
+
+1. an clearer explanation
+2. clearer explanation
+3. a clearer explanation **[Correct]**
+4. a clearer explanations
+
+**Explanation:** "Explanation" is countable here. The comparative adjective stays inside the noun phrase: "a clearer explanation".
+
+**Choice feedback:**
+
+- **an clearer explanation:** The next sound is /k/ in "clearer", so the article must be "a".
+- **clearer explanation:** The adjective does not supply the determiner needed with singular countable "explanation".
+- **a clearer explanation:** This correctly asks for one explanation that is clearer than the current one.
+- **a clearer explanations:** "A" requires a singular noun, so plural "explanations" cannot follow.
+
+**Decision:** revised.
+
+**Original findings:** Original useful-explanation item repeated A2 sound selection with generic feedback.
+
+**Learning value:** Preserves article use when a learner expands an abstract noun phrase.
+
+**Level rationale:** A request for clarification and comparative description are appropriate B1 functions.
+
+**Similarity review:** A comparative request in cooking, unlike the narrative and institutional items.
+
+### 3. Another introducing an additional singular item
+
+ID: `coverage-articles-b1-403`
+
+Choose the phrase for a second, different message.
+
+I sent one email this morning. Now I need to send ___ with the missing attachment.
+
+1. a other email
+2. an other email
+3. another email **[Correct]**
+4. another an email
+
+**Explanation:** "Another" means one more or a different one. It already contains the indefinite idea, so say "another email" without adding a or an.
+
+**Choice feedback:**
+
+- **a other email:** The standard single word is "another", not the separate phrase "a other".
+- **an other email:** In this ordinary use, "another" is written as one word.
+- **another email:** This correctly introduces a further email distinct from the first.
+- **another an email:** Do not add a second indefinite article after "another".
+
+**Decision:** replaced.
+
+**Original findings:** Original email sentence was another elementary an-before-vowel item.
+
+**Learning value:** Prevents double articles and links a determiner to sequence of communication.
+
+**Level rationale:** Correcting an everyday message is a practical B1 context.
+
+**Similarity review:** Only additional-item use of another.
+
+### 4. The on first mention through a part-whole association
+
+ID: `coverage-articles-b1-404`
+
+Choose the phrase for the roof belonging to the rented house.
+
+We rented a house beside the lake, but ___ leaks whenever it rains.
+
+1. the roof **[Correct]**
+2. an roof
+3. roof
+4. these roof
+
+**Explanation:** The house has introduced an associated roof even though the word "roof" is new. "The roof" means the roof of that house.
+
+**Choice feedback:**
+
+- **the roof:** The rented house makes its roof identifiable, so the first mention of roof can still use "the".
+- **an roof:** "Roof" starts with a consonant sound, so "an roof" is incorrect.
+- **roof:** A singular countable "roof" needs a determiner in this clause.
+- **these roof:** "These" introduces plural nouns. A single roof would use "this roof" or, for the intended link, "the roof".
+
+**Decision:** replaced.
+
+**Original findings:** Original confidential-information item repeated a postmodifier without teaching reference.
+
+**Learning value:** Corrects the mistaken rule that every first mention must use a or an.
+
+**Level rationale:** A concrete house-and-roof relationship supports B1 reference beyond literal repetition.
+
+**Similarity review:** An associated part rather than the same repeated noun.
+
+### 5. Uncountable evidence versus a countable unit
+
+ID: `coverage-articles-b1-405`
+
+Choose the grammatically correct phrase.
+
+The detective cannot solve the case on a guess. She needs ___ .
+
+1. an evidence
+2. a convincing evidence
+3. a pieces of evidence
+4. convincing evidence **[Correct]**
+
+**Explanation:** "Evidence" is uncountable in this meaning. Say "convincing evidence", or use a unit such as "a piece of evidence".
+
+**Choice feedback:**
+
+- **an evidence:** English does not normally count a clue as "an evidence"; it can be a piece of evidence.
+- **a convincing evidence:** Adding an adjective does not make "evidence" a singular countable noun.
+- **a pieces of evidence:** The article "a" needs singular "piece", not plural "pieces".
+- **convincing evidence:** This correctly uses the uncountable noun without an indefinite article.
+
+**Decision:** revised.
+
+**Original findings:** The old context allowed the additional evidence and offered only generic feedback.
+
+**Learning value:** Teaches a common abstract noun that differs in countability across languages.
+
+**Level rationale:** A short detective scenario makes an abstract B1 noun concrete.
+
+**Similarity review:** Evidence after an adjective, distinct from counting a conversation.
+
+### 6. Interpreting a definite plural group with a restricting phrase
+
+ID: `coverage-articles-b1-406`
+
+Choose the meaning of the sentence.
+
+"The students in the evening class asked for a later deadline." Who does "the students" identify?
+
+1. Any students who might attend an evening class in future
+2. The particular group belonging to the evening class being discussed **[Correct]**
+3. One representative student from any evening class
+4. Students as a general category, including those in morning classes
+
+**Explanation:** "The" and "in the evening class" identify a particular group. The sentence reports what that group did; it is not a general statement about all students.
+
+**Choice feedback:**
+
+- **Any students who might attend an evening class in future:** The definite group is connected to the class being discussed, and the past-tense request has already happened.
+- **The particular group belonging to the evening class being discussed:** This preserves the definite plural reference and its identifying modifier.
+- **One representative student from any evening class:** "Students" is plural and identifies a group, not one representative individual.
+- **Students as a general category, including those in morning classes:** The phrase restricts reference to the identified evening class.
+
+**Decision:** replaced.
+
+**Original findings:** Original allowed both Students and The students despite marking only zero article correct.
+
+**Learning value:** Explains the meaning contrast instead of declaring a grammatical alternative wrong.
+
+**Level rationale:** Interpreting a defined group in a familiar class situation fits B1.
+
+**Similarity review:** Only explicit plural-group reference interpretation.
+
+### 7. Indefinite article introducing an illustrative case
+
+ID: `coverage-articles-b1-407`
+
+Choose the grammatically correct phrase.
+
+In the instructions, please include ___ so readers can see exactly what to do.
+
+1. an example **[Correct]**
+2. a example
+3. an examples
+4. example
+
+**Explanation:** A single demonstration is "an example". "Example" is countable and begins with a vowel sound.
+
+**Choice feedback:**
+
+- **an example:** This introduces one illustrative case and uses the correct vowel-based article.
+- **a example:** The first sound in "example" is a vowel, so use "an".
+- **an examples:** "An" cannot introduce plural "examples".
+- **example:** A singular countable example needs a determiner here.
+
+**Decision:** revised.
+
+**Original findings:** Original explanation did not connect the counted noun to its meaning.
+
+**Learning value:** Connects an abstract countable noun to a clear communicative purpose.
+
+**Level rationale:** Requesting a clarifying example is useful B1 functional language.
+
+**Similarity review:** An instruction-writing context introduces an illustration, rather than a physical object.
+
+### 8. Contrasting article sounds across two modified abstract nouns
+
+ID: `coverage-articles-b1-408`
+
+Choose the grammatically correct sentence.
+
+Which sentence is correct?
+
+1. It was a honest mistake, not a deliberate lie.
+2. It was an honest mistake, not a deliberate lie. **[Correct]**
+3. It was an honest mistake, not an deliberate lie.
+4. It was honest mistake, not deliberate lie.
+
+**Explanation:** "Honest" begins with a vowel sound because h is silent; "deliberate" begins with /d/. The contrast therefore needs "an honest mistake" and "a deliberate lie".
+
+**Choice feedback:**
+
+- **It was a honest mistake, not a deliberate lie.:** The silent h in "honest" requires "an", not "a".
+- **It was an honest mistake, not a deliberate lie.:** Both articles follow the sounds of their adjectives and introduce singular countable nouns.
+- **It was an honest mistake, not an deliberate lie.:** "Deliberate" begins with a consonant sound, so the second article must be "a".
+- **It was honest mistake, not deliberate lie.:** Both singular countable nouns need determiners in this full sentence.
+
+**Decision:** revised.
+
+**Original findings:** Original honest-apology item did not explain silent h and lacked a contrast.
+
+**Learning value:** Applies the sound rule twice while distinguishing an accident from deliberate action.
+
+**Level rationale:** A short explanation of responsibility uses accessible B1 concepts.
+
+**Similarity review:** The only paired sound contrast in a correction of intent.
+
+### 9. The for a scheduled service identified by time
+
+ID: `coverage-articles-b1-409`
+
+Choose the expression for the already identified train.
+
+My ticket says 8:15, platform four. I'll meet you on ___ from Brighton.
+
+1. an 8:15 train
+2. 8:15 train
+3. these 8:15 train
+4. the 8:15 train **[Correct]**
+
+**Explanation:** The departure time identifies the booked service. "The 8:15 train" refers to that particular train, rather than naming travel by train in general.
+
+**Choice feedback:**
+
+- **an 8:15 train:** This can introduce an unspecified service leaving at that time, but the prompt asks for the train already identified by the ticket.
+- **8:15 train:** The singular countable noun phrase needs a determiner here.
+- **these 8:15 train:** "These" is plural, while the ticket identifies one train.
+- **the 8:15 train:** The time and ticket establish the particular service being referenced.
+
+**Decision:** replaced.
+
+**Original findings:** Schedule-on-wall item did not establish a uniquely intended schedule.
+
+**Learning value:** Distinguishes an identified vehicle from an article-free mode of travel.
+
+**Level rationale:** Coordinating travel arrangements is a familiar B1 task.
+
+**Similarity review:** Timetable-based identification differs from association with a house.
+
+### 10. Uncountable accommodation in a housing context
+
+ID: `coverage-articles-b1-410`
+
+Choose the grammatically correct phrase in standard British English.
+
+Both families need a place to live. The charity helps people find ___ .
+
+1. an accommodation
+2. a suitable accommodation
+3. suitable accommodation **[Correct]**
+4. a suitable accommodations
+
+**Explanation:** In the housing sense used here, standard British English treats "accommodation" as uncountable: "suitable accommodation". American English also uses plural "accommodations", but none of the offered indefinite-article forms fits.
+
+**Choice feedback:**
+
+- **an accommodation:** For somewhere to live in this usage, use uncountable "accommodation"; count "a room" or "a flat" instead.
+- **a suitable accommodation:** The housing noun is uncountable in this reading. Other meanings of "an accommodation", such as an adjustment or compromise, are different.
+- **suitable accommodation:** This describes housing without trying to count it as one accommodation.
+- **a suitable accommodations:** The singular article "a" cannot introduce plural "accommodations", even in varieties that use that plural for lodging.
+
+**Decision:** replaced.
+
+**Original findings:** Original discussed housing could also take the housing in a specific reading.
+
+**Learning value:** Explains the noun's intended sense and acknowledges the relevant dialect distinction.
+
+**Level rationale:** Finding somewhere to live is practical B1 language with a common countability trap.
+
+**Similarity review:** Housing vocabulary provides a sense-sensitive countability example.
+
+### 11. A introducing the outcome in reach a decision
+
+ID: `coverage-articles-b1-411`
+
+Choose the words for a new decision, rather than one previously identified.
+
+After considering several options, the team reached ___ about where to hold the event.
+
+1. decision
+2. an decision
+3. a decision **[Correct]**
+4. a decisions
+
+**Explanation:** "Reach a decision" introduces one outcome of discussion. "Decision" is countable and starts with a consonant sound.
+
+**Choice feedback:**
+
+- **decision:** The singular countable noun needs a determiner: "reach a decision".
+- **an decision:** "Decision" begins with /d/, so "an" is incorrect.
+- **a decision:** This introduces a newly reached outcome rather than referring to an already identified decision.
+- **a decisions:** The singular article cannot be used before plural "decisions".
+
+**Decision:** revised.
+
+**Original findings:** Original feedback did not explain the new countable outcome.
+
+**Learning value:** Teaches an article as part of a productive discussion expression.
+
+**Level rationale:** Group planning and reporting an outcome are B1 functions.
+
+**Similarity review:** An outcome of deliberation differs from an example or explanation.
+
+### 12. A paper as a written work rather than material
+
+ID: `coverage-articles-b1-412`
+
+Choose the meaning of the article phrase.
+
+"Before the meeting, I read a paper about local water use." What does "a paper" most naturally mean here?
+
+1. Paper as a material for printing
+2. One written article or study **[Correct]**
+3. All the documents required for the meeting
+4. A quantity of blank sheets
+
+**Explanation:** With "a" and a topic introduced by "about", "paper" means a countable piece of writing. Article-free "paper" can name the material instead.
+
+**Choice feedback:**
+
+- **Paper as a material for printing:** The article and the action of reading a work about a subject support the countable written-work meaning.
+- **One written article or study:** The phrase names one work of writing on the specified subject.
+- **All the documents required for the meeting:** "A paper" is singular and does not mean the entire set of documents.
+- **A quantity of blank sheets:** Blank sheets would not be read for information about water use.
+
+**Decision:** replaced.
+
+**Original findings:** Old-invoice item repeated an-before-vowel without a new reading demand.
+
+**Learning value:** Makes an article-dependent change of noun meaning explicit.
+
+**Level rationale:** Reading a short work-related article is a familiar B1 task.
+
+**Similarity review:** Material-versus-document sense, distinct from abstract activity versus event.
+
+### 13. The other for the remaining member of a pair
+
+ID: `coverage-articles-b1-413`
+
+Choose the phrase identifying the remaining key.
+
+There were two keys. I have one; do you have ___ ?
+
+1. another key
+2. the other key **[Correct]**
+3. an other key
+4. other key
+
+**Explanation:** Only two keys are in the stated set. Once one is identified, "the other key" identifies the single remaining key.
+
+**Choice feedback:**
+
+- **another key:** This asks for an additional key without explicitly marking it as the remaining member of the known pair.
+- **the other key:** The two-key context makes the remaining key uniquely identifiable.
+- **an other key:** The ordinary indefinite form is the single word "another"; it still would not express the definite remaining member as directly.
+- **other key:** The singular countable phrase needs a determiner; for this pair, use "the other key".
+
+**Decision:** replaced.
+
+**Original findings:** Answer-at-bottom item was another weak locative definite cloze.
+
+**Learning value:** Contrasts definite remaining reference with indefinite another.
+
+**Level rationale:** A two-item practical situation gives B1 learners a clear determiner contrast.
+
+**Similarity review:** Paired-item reference complements the additional-email item.
+
+### 14. Zero article with a discipline name ending in s
+
+ID: `coverage-articles-b1-414`
+
+Choose the words for the general field of study.
+
+Her degree is in ___ ; she studies how people use limited resources.
+
+1. an economics
+2. a economics
+3. the economics
+4. economics **[Correct]**
+
+**Explanation:** The name of the field is "economics", without an article in "a degree in economics". Its final -s does not make it a set of countable objects.
+
+**Choice feedback:**
+
+- **an economics:** The field name is not a singular countable item that can be introduced with "an".
+- **a economics:** The ordinary name of the subject takes no indefinite article.
+- **the economics:** "The economics of a project" can refer to a project's financial aspects, but the question names the general field of study.
+- **economics:** The article-free subject name matches the stated degree field.
+
+**Decision:** replaced.
+
+**Original findings:** Reliable-data item provided no clear general-versus-specific constraint.
+
+**Learning value:** Separates a field name from both plural count nouns and a specific project's economics.
+
+**Level rationale:** Discussing a degree and its subject fits B1 educational language.
+
+**Similarity review:** A field-of-study example with a misleading noun ending.
+
+### 15. Bare school for its institutional activity
+
+ID: `coverage-articles-b1-415`
+
+Choose the sentence that describes the ordinary purpose of attending school.
+
+Speaking about his children as pupils, a parent says:
+
+1. They go to school by bus. **[Correct]**
+2. They go to a school by a bus.
+3. They go to an school by bus.
+4. They go to school by an bus.
+
+**Explanation:** "Go to school" uses school for its normal educational activity. "By bus" names a transport method without an article.
+
+**Choice feedback:**
+
+- **They go to school by bus.:** Both conventional expressions fit: attending school as pupils and travelling by bus.
+- **They go to a school by a bus.:** "A school" can introduce a particular institution, but "by a bus" is not the intended transport-method expression.
+- **They go to an school by bus.:** "School" begins with a consonant sound and cannot follow "an".
+- **They go to school by an bus.:** "An bus" mismatches the initial sound, and the transport expression needs no article.
+
+**Decision:** replaced.
+
+**Original findings:** Broken-printer item repeated simple singular a with no B1 extension.
+
+**Learning value:** Connects article omission with a conventional social activity.
+
+**Level rationale:** School attendance and travel routines are accessible B1 content.
+
+**Similarity review:** Institutional attendance differs from generic fields or particular buildings.
+
+### 16. Definite reference maintained across a safety instruction
+
+ID: `coverage-articles-b1-416`
+
+Choose the correct phrase for this building's unique exit of that kind.
+
+The plan shows just one emergency exit. Staff must keep ___ clear.
+
+1. an emergency exits
+2. emergency exit
+3. the emergency exit **[Correct]**
+4. these emergency exit
+
+**Explanation:** The plan establishes one exit of this kind. "The emergency exit" refers back to that identified exit.
+
+**Choice feedback:**
+
+- **an emergency exits:** "An" is singular, but "exits" is plural.
+- **emergency exit:** The singular countable phrase needs a determiner in this instruction.
+- **the emergency exit:** The definite article identifies the exit already established by the plan.
+- **these emergency exit:** "These" cannot introduce the singular noun "exit".
+
+**Decision:** revised.
+
+**Original findings:** Original emergency-exit item tested only the vowel sound.
+
+**Learning value:** Connects a described plan to an instruction about the same identified object.
+
+**Level rationale:** A short workplace safety instruction suits B1 reading.
+
+**Similarity review:** An identified functional exit rather than an associated part or scheduled vehicle.
+
+### 17. The with a named river
+
+ID: `coverage-articles-b1-417`
+
+Choose the article used in this river name.
+
+Their cycling route follows ___ Thames from Oxford towards London.
+
+1. a
+2. an
+3. the **[Correct]**
+4. (nothing)
+
+**Explanation:** The conventional river name is "the Thames". English normally uses "the" with named rivers in full sentences.
+
+**Choice feedback:**
+
+- **a:** "A Thames" does not name the identified river along this route.
+- **an:** The name does not take an indefinite article, and its initial sound is a consonant.
+- **the:** "The Thames" is the established river name in this geographical context.
+- **(nothing):** In an ordinary sentence naming the river, include "the".
+
+**Decision:** replaced.
+
+**Original findings:** Original students-who-missed-test sentence also allowed zero article.
+
+**Learning value:** Extends proper-name article knowledge beyond city and country names.
+
+**Level rationale:** Describing a travel route gives a familiar B1 setting for a geographical convention.
+
+**Similarity review:** Only river-name article use.
+
+### 18. No indefinite article with modified feedback
+
+ID: `coverage-articles-b1-418`
+
+Choose the grammatically correct phrase.
+
+At the end of each placement, trainees receive ___ about their work.
+
+1. a detailed feedback
+2. detailed feedback **[Correct]**
+3. an detailed feedback
+4. detailed feedbacks
+
+**Explanation:** "Feedback" is uncountable in this context. Say "detailed feedback", without a or an and without plural -s.
+
+**Choice feedback:**
+
+- **a detailed feedback:** The adjective detailed does not make feedback countable. You can receive "a detailed comment" but not normally "a detailed feedback".
+- **detailed feedback:** This correctly treats the comments as an uncountable body of feedback.
+- **an detailed feedback:** Feedback does not take an indefinite article in this meaning; an also mismatches the /d/ sound in detailed.
+- **detailed feedbacks:** Use the uncountable form feedback. To count individual points, use a plural noun such as comments.
+
+**Decision:** revised.
+
+**Original findings:** Original request could refer to the feedback and used capitalised distractors inside a sentence.
+
+**Learning value:** Distinguishes an uncountable body of feedback from individual countable comments.
+
+**Level rationale:** A training context uses relevant B1 vocabulary and a simple general statement.
+
+**Similarity review:** A body of evaluative comments rather than the supporting evidence or available housing used elsewhere.
+
+### 19. Indefinite plural some contrasted with a and an
+
+ID: `coverage-articles-b1-419`
+
+Choose the phrase for an unspecified number of useful summaries.
+
+The librarian found ___ of the debate, so I could compare different accounts.
+
+1. a useful summaries
+2. an useful summaries
+3. some useful summaries **[Correct]**
+4. some a useful summaries
+
+**Explanation:** "Summaries" is plural. "Some useful summaries" introduces an unspecified number; a and an would require a singular noun.
+
+**Choice feedback:**
+
+- **a useful summaries:** "A" cannot introduce plural "summaries".
+- **an useful summaries:** "An" is singular and also does not match the initial consonant sound in "useful".
+- **some useful summaries:** "Some" correctly introduces the unspecified plural accounts needed for comparison.
+- **some a useful summaries:** Do not combine "some" and "a" before this noun phrase; the plural noun also rules out "a".
+
+**Decision:** revised.
+
+**Original findings:** Original useful-summary item repeated singular a and generic feedback.
+
+**Learning value:** Connects article number to a real need for multiple accounts.
+
+**Level rationale:** Comparing short accounts is a manageable B1 reading-related activity.
+
+**Similarity review:** Only indefinite plural-quantity choice in the set.
+
+### 20. Countable space for an area assigned a purpose
+
+ID: `coverage-articles-b1-420`
+
+Choose the phrase that makes the intended contrast.
+
+On most days the room is used as a classroom, but tonight it is ___ for the visiting performers.
+
+1. a rehearsal space **[Correct]**
+2. an rehearsal space
+3. rehearsal space a
+4. a rehearsal spaces
+
+**Explanation:** Here "space" means one area serving a particular purpose, so "a rehearsal space" is countable. In "We need more space", it would instead mean uncountable available room.
+
+**Choice feedback:**
+
+- **a rehearsal space:** This classifies the room as one area used for rehearsals tonight.
+- **an rehearsal space:** The next sound is /r/ in "rehearsal", so the article must be "a".
+- **rehearsal space a:** An article comes before the noun phrase, not after it.
+- **a rehearsal spaces:** The singular article cannot introduce plural "spaces".
+
+**Decision:** replaced.
+
+**Original findings:** Original unusual-error item was a repeated basic an choice.
+
+**Learning value:** Shows how meaning changes the countability and article pattern of space.
+
+**Level rationale:** Temporary room use is concrete enough for B1 count/mass comparison.
+
+**Similarity review:** Physical area versus available room, distinct from document and activity senses.
+
+## B2
+
+20 of 20 items individually reviewed.
+
+### 1. A most as an intensifier versus the most as a ranking
+
+ID: `coverage-articles-b2-421`
+
+Choose the meaning of the article phrase.
+
+"It was a most enjoyable evening." What does "a most enjoyable evening" mean here?
+
+1. The most enjoyable evening out of every evening compared
+2. A very enjoyable evening, without an explicit ranking **[Correct]**
+3. An evening enjoyed by most of the guests
+4. An evening that was enjoyable for most of its duration
+
+**Explanation:** In this formal expression, "a most enjoyable" means "a very enjoyable". "The most enjoyable" would identify the top evening in a comparison.
+
+**Choice feedback:**
+
+- **The most enjoyable evening out of every evening compared:** That is the normal ranking meaning of "the most enjoyable evening", not the intensifying use with "a".
+- **A very enjoyable evening, without an explicit ranking:** The indefinite article supports the formal intensifier meaning of most.
+- **An evening enjoyed by most of the guests:** "Most" modifies enjoyable here; it does not count the guests.
+- **An evening that was enjoyable for most of its duration:** Nothing in the article phrase divides the evening into enjoyable and unenjoyable periods.
+
+**Decision:** replaced.
+
+**Original findings:** Original most-useful-form item tested a basic superlative article only.
+
+**Learning value:** Shows that apparently similar article phrases can perform different evaluations.
+
+**Level rationale:** The less common formal intensifier and its distinction from a familiar superlative suit B2.
+
+**Similarity review:** Only intensifying most construction.
+
+### 2. Positive orientation created by a in a few
+
+ID: `coverage-articles-b2-422`
+
+Choose the interpretation that preserves the writer's emphasis.
+
+"We still have a few seats, so you can join us." Why does "a few" fit the invitation?
+
+1. It presents the small number of remaining seats positively as available **[Correct]**
+2. It emphasises that almost no seats remain and therefore discourages attendance
+3. It identifies seats already reserved for the listener
+4. It says the speaker cannot estimate whether any seats remain
+
+**Explanation:** "A few" means some, though not many. That positive orientation supports "you can join us". Bare "few" would emphasise scarcity instead.
+
+**Choice feedback:**
+
+- **It presents the small number of remaining seats positively as available:** The article changes the orientation towards the seats that do remain, which supports the invitation.
+- **It emphasises that almost no seats remain and therefore discourages attendance:** That interpretation is closer to bare "few" and conflicts with the invitation.
+- **It identifies seats already reserved for the listener:** "A few" indicates an unspecified number; it does not identify reserved seats.
+- **It says the speaker cannot estimate whether any seats remain:** The phrase asserts that some seats remain, though it does not give an exact count.
+
+**Decision:** replaced.
+
+**Original findings:** Original unusually-careful item tested only an before a vowel.
+
+**Learning value:** Connects the small article to the practical implication of an invitation.
+
+**Level rationale:** B2 interpretation goes beyond quantity to the speaker's argumentative emphasis.
+
+**Similarity review:** Countable quantity orientation, paired conceptually but not structurally with little.
+
+### 3. Bare little versus a little in an explanatory argument
+
+ID: `coverage-articles-b2-423`
+
+Choose the wording that supports the stated reason for cancelling.
+
+The guide cancels the climb because the group has almost no experience. Which explanation keeps that emphasis?
+
+1. We have a little experience of climbing.
+2. We have little experience of climbing. **[Correct]**
+3. We have a little of the experience of climbing.
+4. We have the little experience of climbing.
+
+**Explanation:** Bare "little" stresses how limited the experience is. "A little" stresses the existence of some experience, which would support a more positive argument.
+
+**Choice feedback:**
+
+- **We have a little experience of climbing.:** This highlights the experience the group does have. It does not preserve the requested emphasis on near-absence.
+- **We have little experience of climbing.:** Bare little gives the negative orientation needed to explain the cancellation.
+- **We have a little of the experience of climbing.:** This awkwardly treats the experience as an identified whole with a small portion; that is not the general lack described.
+- **We have the little experience of climbing.:** "The little experience" normally needs a defining continuation such as "we gained last year". It does not express the intended general shortfall here.
+
+**Decision:** replaced.
+
+**Original findings:** Original clearer-policy item used formal content for an elementary a decision.
+
+**Learning value:** Shows how article choice affects whether a quantity supports or undermines a conclusion.
+
+**Level rationale:** Interpreting the reason for a decision through quantity orientation suits B2.
+
+**Similarity review:** A negative uncountable evaluation, distinct from the positive invitation with seats.
+
+### 4. Zero article in the idiomatic phrase by design
+
+ID: `coverage-articles-b2-424`
+
+Choose the meaning of the first phrase.
+
+"The form was confusing by design, not by accident." What does "by design" mean?
+
+1. According to the particular drawing already mentioned
+2. Intentionally, as part of how it was planned **[Correct]**
+3. Through the work of the design department alone
+4. Because the completed design was physically beside the form
+
+**Explanation:** Article-free "by design" is a fixed expression meaning intentionally. It is not a reference to one drawing or one named department.
+
+**Choice feedback:**
+
+- **According to the particular drawing already mentioned:** That would treat design as an identified document; the article-free expression instead expresses intention.
+- **Intentionally, as part of how it was planned:** The contrast with "by accident" confirms the intentional meaning.
+- **Through the work of the design department alone:** The phrase describes intention, not which department is responsible.
+- **Because the completed design was physically beside the form:** Although by can mean beside, the parallel with "by accident" rules out that physical reading.
+
+**Decision:** replaced.
+
+**Original findings:** Privacy item tested general mass reference without a substantial B2 distinction.
+
+**Learning value:** Explains a fixed article-free phrase in a meaningful contrast.
+
+**Level rationale:** The learner must distinguish an idiomatic abstract use from ordinary noun reference.
+
+**Similarity review:** Only phrase expressing intentionality.
+
+### 5. Generic definite singular for a technological category
+
+ID: `coverage-articles-b2-425`
+
+Choose the interpretation of the definite noun phrase.
+
+"The electric car is changing the way cities plan charging networks." In a paragraph about transport trends, what does "the electric car" represent?
+
+1. One particular car whose owner has been identified
+2. Electric cars as a technological category **[Correct]**
+3. The first electric car manufactured in the city
+4. Only electric cars owned by city planners
+
+**Explanation:** A definite singular can represent a class or invention. In this general discussion, "the electric car" means the technology or vehicle type, not one physical car.
+
+**Choice feedback:**
+
+- **One particular car whose owner has been identified:** No owner or individual vehicle is established; the broad planning context supports a category reading.
+- **Electric cars as a technological category:** The definite singular represents the vehicle type in a general claim about change.
+- **The first electric car manufactured in the city:** "The" does not add a first-in-history meaning or a manufacturing location.
+- **Only electric cars owned by city planners:** The sentence concerns city planning, not ownership by the people doing it.
+
+**Decision:** replaced.
+
+**Original findings:** Original option-that sentence was only an-before-vowel despite a following clause.
+
+**Learning value:** Counters the rule that the always points to one previously mentioned object.
+
+**Level rationale:** Interpreting a category-level statement in a public-policy context suits B2 reading.
+
+**Similarity review:** Generic invention reference rather than an individual service or named place.
+
+### 6. Experience as knowledge versus an experience as an event
+
+ID: `coverage-articles-b2-426`
+
+Choose the interpretation of the article change.
+
+Compare "She has experience in emergency nursing" and "She described an experience from her first night on the ward". What does "an" do in the second sentence?
+
+1. It presents one event she lived through rather than accumulated practical knowledge **[Correct]**
+2. It says her practical knowledge is greater than that of other nurses
+3. It identifies an event that the listener has already heard about
+4. It says the event was unusual or dangerous
+
+**Explanation:** Uncountable "experience" can mean accumulated knowledge. "An experience" counts one event someone went through. The article itself does not tell us whether that event was unusual, dangerous, or already known.
+
+**Choice feedback:**
+
+- **It presents one event she lived through rather than accumulated practical knowledge:** This captures the change from practical knowledge to a countable episode.
+- **It says her practical knowledge is greater than that of other nurses:** The article changes the noun's sense; it does not compare anyone's expertise.
+- **It identifies an event that the listener has already heard about:** The indefinite article does not itself mark a previously identified event.
+- **It says the event was unusual or dangerous:** Those qualities would need additional wording; they do not follow from "an".
+
+**Decision:** replaced.
+
+**Original findings:** Original review-of-policy item repeated elementary singular a.
+
+**Learning value:** Prevents article errors caused by transferring one noun sense to another.
+
+**Level rationale:** A familiar professional noun has a meaning contrast relevant to B2 narration.
+
+**Similarity review:** Knowledge-to-event change distinct from other abstract-noun examples.
+
+### 7. Definite complement reference in a two-member discourse set
+
+ID: `coverage-articles-b2-427`
+
+Choose the words that identify a particular review.
+
+Two reviews were commissioned. One concerned staffing; ___ concerned transport costs.
+
+1. another review
+2. an other review
+3. the other review **[Correct]**
+4. other review
+
+**Explanation:** The opening establishes a set of exactly two reviews. "The other review" identifies the remaining member once the staffing review has been named.
+
+**Choice feedback:**
+
+- **another review:** This introduces a further review without explicitly identifying the remaining member of the stated pair.
+- **an other review:** The ordinary indefinite word is "another", not "an other"; the intended reference here is definite anyway.
+- **the other review:** The definite phrase picks out the one review left in the two-review set.
+- **other review:** The singular countable noun phrase needs a determiner.
+
+**Decision:** revised.
+
+**Original findings:** Original only-review frame forced the and repeated other sets.
+
+**Learning value:** Shows how an opening count controls reference in the following sentence.
+
+**Level rationale:** Tracking two abstract institutional processes in prose is suitable B2 reference practice.
+
+**Similarity review:** An explicitly bounded pair of processes, rather than a countable event sense.
+
+### 8. Zero article in beyond recognition
+
+ID: `coverage-articles-b2-428`
+
+Choose the meaning of the article-free phrase.
+
+"The village has changed beyond recognition." How is "recognition" used?
+
+1. As one official award presented to the village
+2. As the general ability to recognise what the village used to be like **[Correct]**
+3. As a particular statement acknowledging the village's success
+4. As a countable event when one resident recognises another
+
+**Explanation:** "Beyond recognition" is an article-free expression meaning that something has changed so much it is hard to recognise. Recognition here is not an award or an individual meeting.
+
+**Choice feedback:**
+
+- **As one official award presented to the village:** Recognition can mean public acknowledgement, but that sense does not fit "changed beyond recognition".
+- **As the general ability to recognise what the village used to be like:** This preserves the idiomatic meaning of extreme change.
+- **As a particular statement acknowledging the village's success:** No act of praise or particular acknowledgement is identified.
+- **As a countable event when one resident recognises another:** The expression concerns recognising the place's former appearance, not one encounter between residents.
+
+**Decision:** replaced.
+
+**Original findings:** Original advice-versus-requirement item was elementary uncountability at B2.
+
+**Learning value:** Builds control of a common abstract phrase through its context-dependent sense.
+
+**Level rationale:** Interpreting figurative change and distinguishing abstract noun senses suit B2.
+
+**Similarity review:** An idiom of extent, unlike the intentionality phrase by design.
+
+### 9. The plus nationality adjective for a collective group
+
+ID: `coverage-articles-b2-429`
+
+Choose the sentence that refers to the people, not their language.
+
+A travel writer is describing the inhabitants of France as a national group. Which sentence has that reading?
+
+1. French has influenced the neighbouring regions.
+2. A French has influenced the neighbouring regions.
+3. The French have influenced the neighbouring regions. **[Correct]**
+4. The French has influenced the neighbouring regions.
+
+**Explanation:** "The French" can name the French people collectively and takes plural agreement. Article-free "French" commonly names the language and takes singular agreement.
+
+**Choice feedback:**
+
+- **French has influenced the neighbouring regions.:** This naturally names the language, while the task specifies the people.
+- **A French has influenced the neighbouring regions.:** To refer to one person, use a countable person noun such as "a French person".
+- **The French have influenced the neighbouring regions.:** The definite group expression and plural verb identify the people collectively.
+- **The French has influenced the neighbouring regions.:** For the national group of people, "the French" takes plural agreement, so use "have".
+
+**Decision:** replaced.
+
+**Original findings:** Online-system item again tested an before a vowel.
+
+**Learning value:** Links the article to both reference and subject-verb agreement.
+
+**Level rationale:** This noun-like adjective construction and its language/person contrast are appropriate B2 grammar.
+
+**Similarity review:** A national group, unlike a technological generic singular.
+
+### 10. Bare institutional status versus definite institutional reference
+
+ID: `coverage-articles-b2-430`
+
+Choose the interpretation that fits the purpose of each visit.
+
+"During her sentence she was in prison. Years later she returned to the prison to give a talk." What does the added article help signal?
+
+1. A shift from prisoner status to an identified institution visited for another purpose **[Correct]**
+2. A shift from an unnamed country to a named country
+3. A shift from a public prison to a private prison
+4. A shift from a short sentence to a long sentence
+
+**Explanation:** "In prison" conventionally describes imprisonment. "The prison" identifies a particular institution; the talk establishes that the later visit is not another statement of prisoner status.
+
+**Choice feedback:**
+
+- **A shift from prisoner status to an identified institution visited for another purpose:** This connects the bare institutional expression with the later definite reference and the stated reason for visiting.
+- **A shift from an unnamed country to a named country:** No country is identified by either article pattern.
+- **A shift from a public prison to a private prison:** Ownership or administration is not encoded in the article.
+- **A shift from a short sentence to a long sentence:** The article does not tell us the duration of imprisonment, and the second visit is for a talk.
+
+**Decision:** replaced.
+
+**Original findings:** Original only-entrance sentence forced a basic definite article.
+
+**Learning value:** Shows how article choice works with a stated purpose, rather than merely naming a building.
+
+**Level rationale:** Tracking a change in social role across a narrative is suitable B2 interpretation.
+
+**Similarity review:** A status-to-visit contrast rather than schooling or legal-proceeding examples.
+
+### 11. A success as a countable evaluative classification
+
+ID: `coverage-articles-b2-431`
+
+Choose the interpretation of the indefinite noun.
+
+"The pilot was a success, although the wider programme still faced difficulties." What does "a success" mean?
+
+1. Success as an abstract quality of every part of the programme
+2. One undertaking judged to have achieved a good result **[Correct]**
+3. The only successful activity in the organisation's history
+4. A successful person appointed to manage the programme
+
+**Explanation:** "A success" classifies the pilot as a successful undertaking. It is a countable result use, whereas article-free "success" can name the abstract idea.
+
+**Choice feedback:**
+
+- **Success as an abstract quality of every part of the programme:** The article makes the pilot a countable example of success; the following clause explicitly limits the wider conclusion.
+- **One undertaking judged to have achieved a good result:** This captures the predicative countable use in "was a success".
+- **The only successful activity in the organisation's history:** The indefinite article classifies one case; it does not make an only-ever claim.
+- **A successful person appointed to manage the programme:** The subject is the pilot undertaking, not a person.
+
+**Decision:** replaced.
+
+**Original findings:** Original pilot-study item only tested a before a consonant.
+
+**Learning value:** Teaches a useful way to evaluate one event without generalising to a whole programme.
+
+**Level rationale:** The count/mass distinction and limitation of an evaluation suit B2 discourse.
+
+**Similarity review:** Evaluating an undertaking rather than describing an experience.
+
+### 12. Definite reference to a specified body of uncountable evidence
+
+ID: `coverage-articles-b2-432`
+
+Choose the explanation of the two article patterns.
+
+"We need evidence before deciding. The evidence from yesterday's inspection is particularly relevant." Why can the second sentence use "the"?
+
+1. Evidence becomes countable whenever it comes from an inspection
+2. The source phrase identifies a particular body of evidence **[Correct]**
+3. Past-time expressions always require a definite article before the subject
+4. The second sentence refers to every possible form of evidence
+
+**Explanation:** The first sentence requests evidence without identifying a body of it. The second points to evidence from a specified inspection. An uncountable noun can take "the" when its reference is identifiable.
+
+**Choice feedback:**
+
+- **Evidence becomes countable whenever it comes from an inspection:** "Evidence" remains uncountable. Definiteness and countability are separate properties.
+- **The source phrase identifies a particular body of evidence:** This explains the change in reference while preserving the noun's uncountable use.
+- **Past-time expressions always require a definite article before the subject:** A time reference does not impose that grammar rule; the identifying source is what matters here.
+- **The second sentence refers to every possible form of evidence:** It narrows attention to yesterday's inspection, rather than broadening it to all evidence.
+
+**Decision:** revised.
+
+**Original findings:** Original cloze did not explain identified uncountable reference.
+
+**Learning value:** Separates a noun's article choice from whether it can be counted.
+
+**Level rationale:** Following general-to-specific reference in a decision-making context suits B2.
+
+**Similarity review:** A body of supporting material, distinct from an individual outcome or experience.
+
+### 13. Article-free activity noun naming an expense category
+
+ID: `coverage-articles-b2-433`
+
+Choose the interpretation of the article-free noun.
+
+"The company will reimburse travel but not meals." What does "travel" refer to?
+
+1. The general category of travel costs covered by the arrangement **[Correct]**
+2. One journey already completed by a named employee
+3. A particular travel document submitted with the claim
+4. The travel agency selected to arrange the journey
+
+**Explanation:** Article-free "travel" names a general activity or expense category. In this reimbursement sentence, it refers to travel costs rather than one identified journey, document, or provider.
+
+**Choice feedback:**
+
+- **The general category of travel costs covered by the arrangement:** The contrast with meals places travel among categories of reimbursable expenses.
+- **One journey already completed by a named employee:** No individual employee or journey is identified by the wording.
+- **A particular travel document submitted with the claim:** Travel is not used as a countable document noun here.
+- **The travel agency selected to arrange the journey:** The noun names an expense category, not the organisation providing a service.
+
+**Decision:** replaced.
+
+**Original findings:** Original public-transport blank allowed an identified-system reading.
+
+**Learning value:** Connects zero article to category-level policy reference.
+
+**Level rationale:** Understanding which expenses a policy covers is a useful B2 workplace reading task.
+
+**Similarity review:** A reimbursement category, distinct from a travel method or particular vehicle.
+
+### 14. Generic indefinite followed by a definite individual application
+
+ID: `coverage-articles-b2-434`
+
+Choose the explanation that preserves the contrast.
+
+"An essay can explore a question without answering it; the essay you submitted does neither." How do the articles guide the reader?
+
+1. The first phrase introduces a representative member of a class; the second identifies one submitted text **[Correct]**
+2. Both phrases identify the same previously discussed text
+3. The first refers only to a future text; the second only to a published text
+4. The first names a genre as uncountable; the second makes its title countable
+
+**Explanation:** "An essay" supports a general claim through a representative example. "The essay you submitted" then singles out an identifiable text for criticism.
+
+**Choice feedback:**
+
+- **The first phrase introduces a representative member of a class; the second identifies one submitted text:** This preserves the movement from a general possibility to a particular assessment.
+- **Both phrases identify the same previously discussed text:** The first clause makes a general claim about what an essay can do; the second narrows to the submitted work.
+- **The first refers only to a future text; the second only to a published text:** Neither future time nor publication status follows from these articles.
+- **The first names a genre as uncountable; the second makes its title countable:** "Essay" is countable in both phrases, and neither phrase supplies a title.
+
+**Decision:** replaced.
+
+**Original findings:** Original essay-at-the-end item was elementary an selection.
+
+**Learning value:** Shows how articles structure movement from principle to case.
+
+**Level rationale:** Interpreting a generalisation and its particular application suits B2 academic feedback.
+
+**Similarity review:** A rhetorical general-to-specific transition rather than evidence-source identification.
+
+### 15. Indefinite introduction despite speaker knowledge
+
+ID: `coverage-articles-b2-435`
+
+Choose the interpretation of the indefinite phrase.
+
+"There is a reason for the delay, but I cannot discuss it yet." What does "a reason" establish?
+
+1. The speaker presents an explanation as existing without identifying it to the listener **[Correct]**
+2. The speaker says the listener already knows the explanation
+3. The speaker guarantees that only one contributing factor exists
+4. The speaker says the delay has no explanation that could be expressed
+
+**Explanation:** The indefinite article introduces a reason while withholding its identity. It does not mean the speaker is ignorant of it, nor does it prove there is only one contributing factor.
+
+**Choice feedback:**
+
+- **The speaker presents an explanation as existing without identifying it to the listener:** This separates introducing a referent from revealing which one it is.
+- **The speaker says the listener already knows the explanation:** The phrase does not mark the reason as already identifiable to the listener.
+- **The speaker guarantees that only one contributing factor exists:** "A reason" introduces one reason; it does not exclude further reasons.
+- **The speaker says the delay has no explanation that could be expressed:** The opening explicitly asserts that a reason exists. The speaker is declining to discuss it.
+
+**Decision:** revised.
+
+**Original findings:** Original reason-for-rejecting cloze did not teach what indefinite reference implies.
+
+**Learning value:** Corrects the idea that a necessarily means unknown to the speaker.
+
+**Level rationale:** Interpreting withheld information and reference status fits B2 communication.
+
+**Similarity review:** A reason known but withheld, rather than a hypothetical or generic referent.
+
+### 16. Definite reference to a reason expressed as a whole proposition
+
+ID: `coverage-articles-b2-436`
+
+Choose the phrase that identifies the previously stated reason.
+
+The memo says the venue is unsafe. We can dispute ___ without denying that repairs are needed.
+
+1. a reason given in the memo
+2. the reason given in the memo **[Correct]**
+3. an reason given in the memo
+4. reason given in the memo
+
+**Explanation:** The earlier sentence has supplied the reason being discussed: the venue is unsafe. "The reason given in the memo" points back to that identified reason.
+
+**Choice feedback:**
+
+- **a reason given in the memo:** This introduces a reason as one among possible reasons rather than explicitly continuing reference to the stated one.
+- **the reason given in the memo:** The definite phrase preserves reference to the reason just supplied.
+- **an reason given in the memo:** "Reason" begins with /r/, so it cannot follow "an".
+- **reason given in the memo:** The singular countable noun needs a determiner in this construction.
+
+**Decision:** revised.
+
+**Original findings:** Original reason-given sentence did not establish the reason in context.
+
+**Learning value:** Shows that a prior idea can establish reference without repeating the same noun.
+
+**Level rationale:** Following a proposal and a qualified objection is appropriate B2 discourse.
+
+**Similarity review:** Propositional antecedent, unlike a noun introduced in an earlier sentence.
+
+### 17. A characterised manifestation of an abstract feeling
+
+ID: `coverage-articles-b2-437`
+
+Choose the meaning of the article phrase.
+
+"After the interview, she felt a confidence she had never felt before." Why is "a confidence" possible?
+
+1. It presents a particular kind or instance of the feeling, described by the following clause **[Correct]**
+2. It counts one secret she has told the interviewer
+3. It identifies the feeling as already shared by all the interviewers
+4. It means the noun confidence is always countable after felt
+
+**Explanation:** An abstract feeling can be presented as a particular manifestation when it is characterised: "a confidence she had never felt before". This does not make every use of confidence countable.
+
+**Choice feedback:**
+
+- **It presents a particular kind or instance of the feeling, described by the following clause:** The following clause characterises the distinctive confidence she experienced.
+- **It counts one secret she has told the interviewer:** "A confidence" can mean a secret in other contexts, but "felt" and the repeated feeling point to self-assurance.
+- **It identifies the feeling as already shared by all the interviewers:** The sentence concerns her feeling and does not establish a shared state among interviewers.
+- **It means the noun confidence is always countable after felt:** Compare "She felt confidence in the plan". Countability depends on the chosen interpretation, not a universal rule after felt.
+
+**Decision:** replaced.
+
+**Original findings:** Original experience-versus-certificates item allowed more than one article reading.
+
+**Learning value:** Introduces a controlled exception to the no-a-with-abstract-nouns shortcut.
+
+**Level rationale:** Interpreting a described emotional state in a short narrative suits upper-intermediate reading.
+
+**Similarity review:** An emotional manifestation differs from practical experience as an event.
+
+### 18. Associated definite reference to an appointment's time
+
+ID: `coverage-articles-b2-438`
+
+Choose the explanation of the definite reference.
+
+"The dentist offered an appointment on Friday. Unfortunately, the time clashes with my shift." How does the listener identify "the time"?
+
+1. As the time associated with the offered appointment **[Correct]**
+2. As every available appointment time on Friday
+3. As the current clock time during the conversation
+4. As a new unspecified time that the dentist has not offered
+
+**Explanation:** An appointment conventionally has a scheduled time. The offered appointment therefore makes "the time" identifiable without a previous literal mention of the word time.
+
+**Choice feedback:**
+
+- **As the time associated with the offered appointment:** The relationship between an appointment and its time supplies the reference.
+- **As every available appointment time on Friday:** The singular phrase refers to the offered appointment's time, not all available slots.
+- **As the current clock time during the conversation:** The clash is with a shift at the appointment time, not with the moment of speaking.
+- **As a new unspecified time that the dentist has not offered:** The definite phrase depends on the appointment just offered; it does not introduce an unrelated time.
+
+**Decision:** replaced.
+
+**Original findings:** Original appointment-slot item tested only a vowel-initial noun.
+
+**Learning value:** Extends reference tracking beyond repeating the same word.
+
+**Level rationale:** The learner resolves an implied relation in a practical scheduling exchange.
+
+**Similarity review:** A scheduled event's attribute, unlike the physical part-whole roof example at B1.
+
+### 19. The plus adjective forming a collective human group
+
+ID: `coverage-articles-b2-439`
+
+Choose the grammatically correct sentence for this meaning.
+
+The speaker means people who are out of work as a group. Which sentence expresses that?
+
+1. The unemployed need access to affordable training. **[Correct]**
+2. An unemployed needs access to affordable training.
+3. The unemployeds need access to affordable training.
+4. An unemployed people need access to affordable training.
+
+**Explanation:** "The unemployed" uses the adjective to refer collectively to unemployed people. It takes plural agreement but does not add a plural -s to the adjective.
+
+**Choice feedback:**
+
+- **The unemployed need access to affordable training.:** The definite article plus adjective names the group, with the plural verb "need".
+- **An unemployed needs access to affordable training.:** To count one person, say "an unemployed person"; unemployed does not normally stand as that singular count noun.
+- **The unemployeds need access to affordable training.:** Do not add plural -s to the adjective in this group construction.
+- **An unemployed people need access to affordable training.:** The singular article "an" cannot introduce plural "people".
+
+**Decision:** replaced.
+
+**Original findings:** Original link-between-practice-and-speed item was a basic a cloze.
+
+**Learning value:** Links article choice with the limits of adjective-to-noun conversion.
+
+**Level rationale:** This collective construction belongs in upper-intermediate discussion of social issues.
+
+**Similarity review:** A social category rather than the nationality example.
+
+### 20. Definite reference to a desired kind of an uncountable phenomenon
+
+ID: `coverage-articles-b2-440`
+
+Choose the interpretation of the repeated noun.
+
+"The campaign gave the issue publicity, though not the publicity the organisers wanted." What does the second phrase do?
+
+1. It counts one advertisement purchased by the organisers
+2. It identifies a desired kind of public attention and contrasts it with the attention received **[Correct]**
+3. It states that the campaign received no public attention
+4. It establishes that all publicity was arranged in advance
+
+**Explanation:** The first article-free use names public attention generally. "The publicity the organisers wanted" then identifies the particular kind or character of attention they had hoped for.
+
+**Choice feedback:**
+
+- **It counts one advertisement purchased by the organisers:** "Publicity" remains uncountable; the sentence does not identify a purchased advertisement.
+- **It identifies a desired kind of public attention and contrasts it with the attention received:** This preserves both the existence of publicity and the qualification about its character.
+- **It states that the campaign received no public attention:** The first clause explicitly says the issue received publicity.
+- **It establishes that all publicity was arranged in advance:** Wanting a kind of attention does not mean the actual attention was planned or controlled.
+
+**Decision:** replaced.
+
+**Original findings:** Original only-link item repeated a forced definite frame.
+
+**Learning value:** Shows how an identifying clause narrows an abstract noun without making it countable.
+
+**Level rationale:** Interpreting a qualified assessment of an outcome is suitable B2 reading.
+
+**Similarity review:** Desired versus actual publicity, distinct from identified evidence or accumulated expertise.
+
+## C1
+
+20 of 20 items individually reviewed.
+
+### 1. Field reference versus a definite individual policy
+
+ID: `coverage-articles-c1-441`
+
+Choose the interpretation of the two noun phrases.
+
+"She studies public policy, but the policy she criticised yesterday was her own department's." How do the articles distinguish the references?
+
+1. A field of study is contrasted with a particular adopted course of action **[Correct]**
+2. Two different fields of study are distinguished by their academic status
+3. An informal opinion is contrasted with a legally binding law
+4. A national policy is contrasted with an international policy
+
+**Explanation:** Article-free "public policy" names a field. "The policy she criticised" identifies one policy through the following clause. Neither article alone tells us whether the policy has legal force or an international scope.
+
+**Choice feedback:**
+
+- **A field of study is contrasted with a particular adopted course of action:** This explains the shift from general academic domain to identified policy.
+- **Two different fields of study are distinguished by their academic status:** The second noun phrase is a policy belonging to a department, not a second academic discipline.
+- **An informal opinion is contrasted with a legally binding law:** Those statuses are not established by the article contrast.
+- **A national policy is contrasted with an international policy:** No national/international distinction is encoded here.
+
+**Decision:** revised.
+
+**Original findings:** Original public-policy cloze tested only a basic field-name rule.
+
+**Learning value:** Connects the same noun's article pattern with two different referential roles.
+
+**Level rationale:** Interpreting an academic field and a qualified institutional claim suits C1 precision.
+
+**Similarity review:** A field-to-policy shift rather than a mere contrast of identified examples.
+
+### 2. The with a degree-modified adjective denoting a human group
+
+ID: `coverage-articles-c1-442`
+
+Choose the reading supported by the article and modifier.
+
+"The very wealthy were largely insulated from the rise in rents." What does "the very wealthy" denote?
+
+1. A single exceptionally wealthy household already mentioned
+2. A collective group defined by a high degree of wealth **[Correct]**
+3. Wealth itself considered as an abstract resource
+4. Every person whose income rose during the period
+
+**Explanation:** "The" allows the modified adjective phrase "very wealthy" to refer collectively to people. It takes plural agreement without turning wealthy into a plural noun.
+
+**Choice feedback:**
+
+- **A single exceptionally wealthy household already mentioned:** The plural verb "were" and the collective adjective construction do not identify one household.
+- **A collective group defined by a high degree of wealth:** The definite article combines with the degree-modified adjective to identify the group.
+- **Wealth itself considered as an abstract resource:** The phrase refers to people who possess wealth; the abstract noun would be "wealth".
+- **Every person whose income rose during the period:** Increasing income is not equivalent to being very wealthy, and the sentence gives no such criterion.
+
+**Decision:** replaced.
+
+**Original findings:** Original most-serious-limitation item was a simple superlative cloze.
+
+**Learning value:** Shows how internal adjective modification works in a collective reference phrase.
+
+**Level rationale:** The learner interprets an expanded collective adjective construction in analytical prose.
+
+**Similarity review:** Degree-defined social group, distinct from institutional roles and proper names.
+
+### 3. Article placement in a good many with a comparative quantity
+
+ID: `coverage-articles-c1-443`
+
+Choose the grammatically correct phrase.
+
+The proposal attracted ___ than its authors had anticipated.
+
+1. a good many more objections **[Correct]**
+2. good a many more objections
+3. a good much more objections
+4. a good many more objection
+
+**Explanation:** "A good many" means quite a large number and takes a plural count noun. Here it modifies the comparison: "a good many more objections".
+
+**Choice feedback:**
+
+- **a good many more objections:** The fixed quantity phrase keeps a before good many and agrees with plural objections.
+- **good a many more objections:** The order of the expression is "a good many", not "good a many".
+- **a good much more objections:** "Objections" is countable and plural; the phrase uses many rather than much.
+- **a good many more objection:** The meaning involves a number of objections, so the noun must be plural.
+
+**Decision:** replaced.
+
+**Original findings:** Original unusually-cautious-interpretation item tested only a vowel sound.
+
+**Learning value:** Teaches an idiomatic quantity phrase as part of a longer comparison.
+
+**Level rationale:** The expanded quantifying construction is useful in C1 formal argument and commentary.
+
+**Similarity review:** Only fixed a good many expression.
+
+### 4. Article-free in principle as qualified assent
+
+ID: `coverage-articles-c1-444`
+
+Choose the inference supported by the article-free expression.
+
+"The board approved the merger in principle, subject to agreement on the financing." What does "in principle" contribute?
+
+1. Agreement with the general proposal while detailed conditions remain unresolved **[Correct]**
+2. Agreement only with the first numbered rule in the financing document
+3. Approval of every practical detail despite outstanding paperwork
+4. A prediction that approval will become legally binding without further action
+
+**Explanation:** "In principle" signals assent at the level of the general idea. The financing condition shows that this is not yet unconditional approval of all practical details.
+
+**Choice feedback:**
+
+- **Agreement with the general proposal while detailed conditions remain unresolved:** This preserves the limited assent expressed by the fixed phrase and its qualification.
+- **Agreement only with the first numbered rule in the financing document:** The article-free idiom does not identify a particular numbered principle or clause.
+- **Approval of every practical detail despite outstanding paperwork:** That overstates the approval: substantive financing agreement is still a condition.
+- **A prediction that approval will become legally binding without further action:** The phrase does not itself determine legal effect or eliminate the stated condition.
+
+**Decision:** replaced.
+
+**Original findings:** Original more-transparent-procedure item was elementary indefinite counting.
+
+**Learning value:** Connects a fixed article pattern with the limits of a commitment.
+
+**Level rationale:** Interpreting qualified approval and remaining conditions requires C1 precision.
+
+**Similarity review:** A commitment-limiting phrase rather than an abstract noun naming a field.
+
+### 5. Definite reference to a quality inferred from an event
+
+ID: `coverage-articles-c1-445`
+
+Choose the account of the definite reference.
+
+"A donor offered to fund the restoration. The generosity surprised everyone, but the conditions did not." What identifies "the generosity"?
+
+1. The quality inferred from the donor's offer in the preceding sentence **[Correct]**
+2. A separate charitable act mentioned before the quoted passage
+3. The donor's general character across all previous donations
+4. The total monetary value of every contribution to the project
+
+**Explanation:** A noun need not have appeared literally before for definite reference to work. The offer makes a quality of generosity available for reference. The passage does not establish the donor's entire history or the project's total funding.
+
+**Choice feedback:**
+
+- **The quality inferred from the donor's offer in the preceding sentence:** The reader derives the quality from the event and can then identify it with the.
+- **A separate charitable act mentioned before the quoted passage:** The immediately preceding offer supplies the needed connection; no separate act is required.
+- **The donor's general character across all previous donations:** The passage supports a quality displayed in this offer, not a general biography of the donor.
+- **The total monetary value of every contribution to the project:** Generosity names an evaluated quality here, not the sum of all contributions.
+
+**Decision:** replaced.
+
+**Original findings:** Original Evidence sentence provided only elementary uncountable reference.
+
+**Learning value:** Extends reference tracking beyond literal noun repetition.
+
+**Level rationale:** The reader must infer a nominal referent from a proposition in connected prose.
+
+**Similarity review:** An inferred quality, unlike an associated physical part or scheduled time.
+
+### 6. Analysis as activity versus a bounded analytical procedure
+
+ID: `coverage-articles-c1-446`
+
+Choose the meaning of the article change.
+
+"The laboratory performs analysis; this particular procedure is an analysis of trace metals." What does "an analysis" present?
+
+1. One identifiable type or instance of an analytical procedure **[Correct]**
+2. All analytical work as an undivided activity
+3. The laboratory's only scientifically valid procedure
+4. A result necessarily known to the reader beforehand
+
+**Explanation:** Article-free analysis can name the general activity. "An analysis of trace metals" presents one analytical procedure or instance. The indefinite article does not certify validity or mark prior familiarity.
+
+**Choice feedback:**
+
+- **One identifiable type or instance of an analytical procedure:** The article packages the activity as an individual procedure of the specified kind.
+- **All analytical work as an undivided activity:** That is the broad activity reading of the first occurrence, not the counted second occurrence.
+- **The laboratory's only scientifically valid procedure:** The article introduces an instance; it does not state exclusivity or scientific validation.
+- **A result necessarily known to the reader beforehand:** The indefinite phrase does not require the reader to have identified a result already.
+
+**Decision:** revised.
+
+**Original findings:** Original analysis-of-records cloze tested an without teaching countable versus activity readings.
+
+**Learning value:** Explains an article choice common in technical prose without equating it with scientific merit.
+
+**Level rationale:** Interpreting an abstract process as an individual procedure is suitable C1 nominal precision.
+
+**Similarity review:** Procedural individuation, distinct from field-to-policy reference.
+
+### 7. The with a modified personal name referring to a remembered aspect
+
+ID: `coverage-articles-c1-447`
+
+Choose the explanation of the definite phrase.
+
+"This is not the Alex I remember from university." What does "the Alex I remember" most naturally identify?
+
+1. A second person whose first name is also Alex
+2. The speaker's remembered version or impression of the same person **[Correct]**
+3. A formal title that Alex held at university
+4. An unidentified example of a personality type called Alex
+
+**Explanation:** The article and following clause select Alex as remembered by the speaker. A personal name can take the when the phrase identifies a particular version, aspect, or namesake; this context favours a remembered version.
+
+**Choice feedback:**
+
+- **A second person whose first name is also Alex:** That can be a possible use in another context, but the comparison with memory naturally concerns how this person has changed.
+- **The speaker's remembered version or impression of the same person:** The modifying clause identifies the version of Alex being compared with the present person.
+- **A formal title that Alex held at university:** Nothing makes Alex a title rather than a name.
+- **An unidentified example of a personality type called Alex:** The definite modifier links the phrase to the speaker's specific memory, not an unidentified category member.
+
+**Decision:** replaced.
+
+**Original findings:** Original only-analysis item forced the in a repeated frame.
+
+**Learning value:** Explains a familiar exception to bare personal names through reference.
+
+**Level rationale:** The learner distinguishes literal namesake reference from a contextually favoured aspect reading.
+
+**Similarity review:** Personal memory rather than an artwork or public portrayal.
+
+### 8. Bare elected office contrasted with indefinite professional classification
+
+ID: `coverage-articles-c1-448`
+
+Choose the interpretation of the article pattern.
+
+"They elected her chair, but she continued to work as a researcher." Why is the first role bare while the second has "a"?
+
+1. The first names an office conferred; the second classifies her continuing professional work **[Correct]**
+2. The first is bare because her identity is known; the second is indefinite because her identity is unknown
+3. The first role is uniquely held, so bare chair would also be required after interviewed
+4. The second article counts a separate research project rather than classifying the person
+
+**Explanation:** After elect, a role complement can be bare: "elected her chair". "As a researcher" classifies her continuing professional activity. The article patterns do not establish pay or permanence.
+
+**Choice feedback:**
+
+- **The first names an office conferred; the second classifies her continuing professional work:** Elect licenses the bare role complement, while as a researcher gives an indefinite professional classification.
+- **The first is bare because her identity is known; the second is indefinite because her identity is unknown:** The same known person is described in both clauses. The difference is in construction and role, not knowledge of her identity.
+- **The first role is uniquely held, so bare chair would also be required after interviewed:** Interviewed does not license the same role complement: "They interviewed the chair" normally needs a determiner.
+- **The second article counts a separate research project rather than classifying the person:** The noun researcher denotes a person, so the article classifies her professional role rather than counting projects.
+
+**Decision:** replaced.
+
+**Original findings:** Original language-acquisition item was a basic article-free field name.
+
+**Learning value:** Prevents applying article omission for offices to all profession descriptions.
+
+**Level rationale:** Coordinating two role constructions and distinguishing their functions suits C1 grammar.
+
+**Similarity review:** Contrasting constructions within one person's career, not simply an isolated appointment.
+
+### 9. A certain introducing a named but not mutually identified person
+
+ID: `coverage-articles-c1-449`
+
+Choose the implication of the introductory phrase.
+
+"A certain Mr Bell has been asking to see you." What does "a certain Mr Bell" most naturally do?
+
+1. Introduces a named visitor without assuming shared familiarity with him **[Correct]**
+2. Identifies a visitor the listener is expected to recognise as the only relevant Bell
+3. Presents Bell as an example of a familiar personality type rather than an individual
+4. Expresses uncertainty about the surname while affirming familiarity with the person
+
+**Explanation:** "A certain" can introduce a person by name while leaving their identity or relevance unsettled for the listener. Certain here does not simply mean confident or reliable.
+
+**Choice feedback:**
+
+- **Introduces a named visitor without assuming shared familiarity with him:** A certain introduces the named individual without treating identification by the listener as settled.
+- **Identifies a visitor the listener is expected to recognise as the only relevant Bell:** The indefinite introduction does not assume that shared identification.
+- **Presents Bell as an example of a familiar personality type rather than an individual:** The visitor is an actual person asking for a meeting, not a type defined by the name Bell.
+- **Expresses uncertainty about the surname while affirming familiarity with the person:** The construction does not itself cast doubt on the name; it marks how the individual is being introduced.
+
+**Decision:** replaced.
+
+**Original findings:** Original exception-for-staff item tested only an before a vowel.
+
+**Learning value:** Connects an unusual proper-name article pattern with assumptions about the listener's knowledge.
+
+**Level rationale:** The conventional pragmatic effect of a certain is an advanced reference distinction.
+
+**Similarity review:** Listener familiarity at first introduction, distinct from remembered versions of a known person.
+
+### 10. Article position in so plus adjective plus singular noun
+
+ID: `coverage-articles-c1-450`
+
+Choose the grammatically correct version in formal prose.
+
+Which sentence is correct?
+
+1. Rarely have we encountered so a compelling argument.
+2. Rarely have we encountered such compelling an argument.
+3. Rarely have we encountered so compelling an argument. **[Correct]**
+4. Rarely have we encountered a so compelling argument.
+
+**Explanation:** In the formal pattern "so + adjective + a/an + singular noun", the adjective precedes the article: "so compelling an argument". The article still matches the sound of argument.
+
+**Choice feedback:**
+
+- **Rarely have we encountered so a compelling argument.:** The so-pattern places the adjective before the article: "so compelling an argument".
+- **Rarely have we encountered such compelling an argument.:** With such, the normal order is "such a compelling argument"; this mixes the such and so patterns.
+- **Rarely have we encountered so compelling an argument.:** This correctly uses the formal so-adjective-article-noun sequence.
+- **Rarely have we encountered a so compelling argument.:** The degree word so cannot occupy this position after the article in the standard construction.
+
+**Decision:** replaced.
+
+**Original findings:** Original only argument that was an unnatural forced-the construction.
+
+**Learning value:** Contrasts two similar degree constructions and preserves sound-based article choice.
+
+**Level rationale:** The marked noun-phrase order is appropriate to C1 formal writing.
+
+**Similarity review:** Only so-adjective article inversion in the set.
+
+### 11. Many a with singular noun and agreement
+
+ID: `coverage-articles-c1-451`
+
+Choose the grammatically correct version of the formal expression.
+
+Which sentence is correct?
+
+1. Many a promising scheme has failed for lack of maintenance. **[Correct]**
+2. Many a promising schemes has failed for lack of maintenance.
+3. Many a promising scheme have failed for lack of maintenance.
+4. Many an promising scheme has failed for lack of maintenance.
+
+**Explanation:** "Many a" has a plural meaning but uses a singular count noun and singular verb: "Many a scheme has failed". The adjective promising begins with a consonant sound.
+
+**Choice feedback:**
+
+- **Many a promising scheme has failed for lack of maintenance.:** The formal quantity expression correctly combines a singular noun with singular agreement.
+- **Many a promising schemes has failed for lack of maintenance.:** After "many a", keep the noun singular: "scheme".
+- **Many a promising scheme have failed for lack of maintenance.:** The grammatical subject is singular in this construction, so use "has".
+- **Many an promising scheme has failed for lack of maintenance.:** The next word is promising, which starts with /p/; use "a", not "an".
+
+**Decision:** replaced.
+
+**Original findings:** Original framework-for-comparing item only tested a before a consonant.
+
+**Learning value:** Distinguishes semantic plurality from the syntax of a formal quantity expression.
+
+**Level rationale:** The marked many a construction and its agreement demand suit C1.
+
+**Similarity review:** Singular syntax with plural meaning, distinct from a good many.
+
+### 12. Definite reference to a sought object without asserting successful discovery
+
+ID: `coverage-articles-c1-452`
+
+Choose the interpretation that follows from the definite phrase.
+
+"We are still searching for a framework. The framework must accommodate exceptions without treating them as errors." Does the second sentence assert that a suitable framework has already been found?
+
+1. Yes; the always guarantees an existing object already found
+2. No; it can refer to the framework being sought and state a requirement on it **[Correct]**
+3. Yes; repeating the noun changes searching into finding
+4. No; it refers to an unrelated framework used by a different group
+
+**Explanation:** The definite phrase can continue reference to the object of a search. It specifies what the sought framework must be like, without cancelling "still searching" or asserting that one has been found.
+
+**Choice feedback:**
+
+- **Yes; the always guarantees an existing object already found:** Definite reference can operate within a proposed or sought situation. The article is not evidence that the search succeeded.
+- **No; it can refer to the framework being sought and state a requirement on it:** This preserves the search context and the requirement expressed by must.
+- **Yes; repeating the noun changes searching into finding:** Noun repetition does not change the meaning of the earlier verb.
+- **No; it refers to an unrelated framework used by a different group:** The discourse links the second phrase to the same search, not to another group's work.
+
+**Decision:** replaced.
+
+**Original findings:** Original only-framework item mechanically forced a definite article.
+
+**Learning value:** Counters an overstrong existence inference from the.
+
+**Level rationale:** Interpreting reference within a search and requirement context is appropriate C1 precision.
+
+**Similarity review:** A desired object of search, rather than a conditional flaw or expected persona.
+
+### 13. The with the content clause in in the hope that
+
+ID: `coverage-articles-c1-453`
+
+Choose the account of the fixed phrase.
+
+"The reform was introduced in the hope that smaller classes would improve participation." Why is "the hope" natural here?
+
+1. The following clause specifies the content of the motivating hope **[Correct]**
+2. Hope is countable only when the outcome is guaranteed
+3. Any noun immediately before that must take the
+4. The article proves that all participants shared the same expectation
+
+**Explanation:** "In the hope that" presents a motivating hope and supplies its content in the following clause. It does not promise success or establish that everyone shared the hope.
+
+**Choice feedback:**
+
+- **The following clause specifies the content of the motivating hope:** This explains the content-linked definite phrase in the established expression.
+- **Hope is countable only when the outcome is guaranteed:** Having a hope does not guarantee its fulfilment, and countability is not determined by success.
+- **Any noun immediately before that must take the:** Compare "a claim that surprised us". A following that-clause does not impose the article mechanically.
+- **The article proves that all participants shared the same expectation:** The phrase states the motivation for the reform, not a unanimous belief among participants.
+
+**Decision:** replaced.
+
+**Original findings:** Original education-policy item allowed both general and identified policy readings.
+
+**Learning value:** Teaches a formal purpose expression while limiting inferences about certainty and agreement.
+
+**Level rationale:** Distinguishing motivation, content, and outcome is useful C1 reading and writing.
+
+**Similarity review:** Content-specified motivation, distinct from source-specified evidence.
+
+### 14. A with an ordinal meaning an additional instance
+
+ID: `coverage-articles-c1-454`
+
+Choose the interpretation of the indefinite ordinal phrase.
+
+"The diagnosis was unclear, so she sought a second opinion." Why is "a" possible before "second"?
+
+1. An ordinal always requires an indefinite article when it describes advice
+2. The phrase introduces an additional opinion rather than identifying a previously known numbered opinion **[Correct]**
+3. The phrase says the first opinion has been withdrawn
+4. The phrase identifies the second clinician in a list already supplied
+
+**Explanation:** Ordinals do not always require the. "A second opinion" introduces another opinion as an additional instance. "The second opinion" would identify an opinion in an established ordered set.
+
+**Choice feedback:**
+
+- **An ordinal always requires an indefinite article when it describes advice:** There is no such universal rule. The intended reference determines whether an ordinal phrase is indefinite or definite.
+- **The phrase introduces an additional opinion rather than identifying a previously known numbered opinion:** This captures the additional-instance reading of a second.
+- **The phrase says the first opinion has been withdrawn:** Seeking another view does not establish that the first has been withdrawn.
+- **The phrase identifies the second clinician in a list already supplied:** No list of clinicians is supplied, and the noun being introduced is opinion.
+
+**Decision:** replaced.
+
+**Original findings:** Original more-precise-definition item only tested elementary a.
+
+**Learning value:** Replaces the shortcut ordinal equals the with a reference-based distinction.
+
+**Level rationale:** The learner must distinguish an additional instance from a definite position in a known series.
+
+**Similarity review:** Only indefinite ordinal construction.
+
+### 15. Definite singular representing a biological kind
+
+ID: `coverage-articles-c1-455`
+
+Choose the interpretation of the definite singular.
+
+"The blue whale is threatened by changes in its feeding grounds." In a conservation overview, what does "the blue whale" identify?
+
+1. One animal selected for tracking but not named
+2. The species considered as a category **[Correct]**
+3. The largest individual animal currently alive
+4. Only the whales feeding in one previously identified bay
+
+**Explanation:** A definite singular can represent a biological kind. The conservation-overview context favours the species-level reading, without identifying an individual animal or one local group.
+
+**Choice feedback:**
+
+- **One animal selected for tracking but not named:** A tracking report could support that reading, but this passage is explicitly a general conservation overview.
+- **The species considered as a category:** The definite singular stands for the kind in this general statement.
+- **The largest individual animal currently alive:** The article does not turn the species name into a superlative description of one animal.
+- **Only the whales feeding in one previously identified bay:** No bay or restricted local group is established.
+
+**Decision:** replaced.
+
+**Original findings:** Original attendance-as-proxy item relied on elementary mass reference.
+
+**Learning value:** Separates generic the from ordinary individual identification.
+
+**Level rationale:** The learner interprets category-level reference in analytical prose.
+
+**Similarity review:** Biological kind reference rather than a person, institution, or process.
+
+### 16. Indefinite category membership setting an evaluative standard
+
+ID: `coverage-articles-c1-456`
+
+Choose the interpretation of the fronted expression.
+
+"For a beginner, the restoration work is remarkably assured." What does "a beginner" contribute?
+
+1. An identified novice whose name the reader already knows
+2. A comparison standard based on membership of the beginner category **[Correct]**
+3. A claim that exactly one beginner contributed to the restoration
+4. A claim that the restorer has never attempted any related task
+
+**Explanation:** "For a beginner" frames the evaluation against expectations for someone in that category. The indefinite article classifies; it does not count all contributors or establish the restorer's complete history.
+
+**Choice feedback:**
+
+- **An identified novice whose name the reader already knows:** The phrase supplies a category-based standard, not a name or definite identity.
+- **A comparison standard based on membership of the beginner category:** This explains how the indefinite phrase qualifies the evaluation of the work.
+- **A claim that exactly one beginner contributed to the restoration:** The article does not state the size or composition of the restoration team.
+- **A claim that the restorer has never attempted any related task:** Beginner status does not imply zero related experience.
+
+**Decision:** replaced.
+
+**Original findings:** Original only-interpretation item repeated a forced-the pattern.
+
+**Learning value:** Shows how a noun phrase can frame an assessment without identifying an individual.
+
+**Level rationale:** Interpreting an implicit comparison standard suits C1 evaluative writing.
+
+**Similarity review:** Category-based expectations rather than professional pre-eminence or role appointment.
+
+### 17. Article determined by the head noun in a compound noun phrase
+
+ID: `coverage-articles-c1-457`
+
+Choose the account of the contrast.
+
+"We need research, not a research proposal." What distinction does the article support?
+
+1. An activity or body of investigation versus one document proposing it **[Correct]**
+2. An informal conversation versus a published scientific result
+3. A completed investigation versus a document that has already been rejected
+4. Several studies versus several proposals
+
+**Explanation:** Research is uncountable in the first phrase. In the second, the head noun is countable "proposal", so "a" introduces one document; research modifies the kind of proposal.
+
+**Choice feedback:**
+
+- **An activity or body of investigation versus one document proposing it:** This identifies the head noun and reference type of each phrase.
+- **An informal conversation versus a published scientific result:** The article contrast does not establish informality or publication.
+- **A completed investigation versus a document that has already been rejected:** Research need not be complete, and the proposal's rejection is not stated.
+- **Several studies versus several proposals:** The second phrase is explicitly singular; the first does not supply a count.
+
+**Decision:** replaced.
+
+**Original findings:** Original interview-data sentence was a general mass-noun cloze.
+
+**Learning value:** Explains why a research proposal is grammatical although a research normally is not.
+
+**Level rationale:** Identifying the head of an academic noun phrase supports C1 editing accuracy.
+
+**Similarity review:** A compound's countable head, distinct from recategorising the same noun.
+
+### 18. Emphatic not a minimiser under negation
+
+ID: `coverage-articles-c1-458`
+
+Choose the interpretation of the negative article phrase.
+
+"Not a word of her account was corroborated by the recordings." What does "not a word" convey?
+
+1. One particular word lacked support, while the rest was corroborated
+2. No part of her account received corroboration from those recordings **[Correct]**
+3. Her account was conclusively disproved by the recordings
+4. The recordings contained no speech from any participant
+
+**Explanation:** "Not a word" is emphatic: even the smallest part of the account received no corroboration from the specified source. Lack of corroboration is not itself proof that the account is false.
+
+**Choice feedback:**
+
+- **One particular word lacked support, while the rest was corroborated:** The emphatic phrase denies support throughout the account; it does not isolate one unsupported word.
+- **No part of her account received corroboration from those recordings:** This preserves both the force of not a and the limited claim about support from the recordings.
+- **Her account was conclusively disproved by the recordings:** Not being corroborated is weaker than being disproved. The sentence does not assert conclusive falsification.
+- **The recordings contained no speech from any participant:** The sentence concerns whether the recordings support the account, not whether they contain speech.
+
+**Decision:** revised.
+
+**Original findings:** Original an estimate item supplied only a basic unmodified sound decision.
+
+**Learning value:** Distinguishes zero support from one exception and from positive disproof.
+
+**Level rationale:** Interpreting emphatic negative scope while preserving an evidential limit requires advanced precision.
+
+**Similarity review:** The only negative minimiser construction in the C1 set.
+
+### 19. Indefinite article with a characterised abstract quality
+
+ID: `coverage-articles-c1-459`
+
+Choose the interpretation of the article phrase.
+
+"The explanation has a clarity that the earlier draft lacked." What does "a clarity" do?
+
+1. Counts one complete explanation independently of its style
+2. Presents a particular quality or degree of clearness characterised by the following clause **[Correct]**
+3. Identifies a previous explanation already named Clarity
+4. States that the explanation contains one clear fact and no others
+
+**Explanation:** Clarity is usually uncountable, but the phrase presents a characterised manifestation of that quality. The following clause contrasts the present text with the earlier draft.
+
+**Choice feedback:**
+
+- **Counts one complete explanation independently of its style:** The article modifies clarity, not explanation; it characterises a quality of the text.
+- **Presents a particular quality or degree of clearness characterised by the following clause:** This explains the bounded, characterised use of the abstract noun.
+- **Identifies a previous explanation already named Clarity:** Clarity is an ordinary abstract noun here, not a title or proper name.
+- **States that the explanation contains one clear fact and no others:** The phrase evaluates the text's clearness; it does not count facts.
+
+**Decision:** replaced.
+
+**Original findings:** Original explanation-for-non-specialists item only tested an before a vowel.
+
+**Learning value:** Explains a controlled abstract-noun use common in evaluative prose.
+
+**Level rationale:** The learner interprets rhetorical individuation of a quality rather than merely choosing from spelling.
+
+**Similarity review:** Textual clarity rather than emotion, knowledge, or a countable document.
+
+### 20. Limits of moving an adjective phrase before an article
+
+ID: `coverage-articles-c1-460`
+
+Choose the grammatically correct formal construction.
+
+Which sentence is correct?
+
+1. We could not have asked for such precise an explanation.
+2. We could not have asked for more precise an explanation.
+3. We could not have asked for a more precise explanation. **[Correct]**
+4. We could not have asked for an more precise explanation.
+
+**Explanation:** An ordinary comparative adjective phrase follows the article: "a more precise explanation". Unlike the special "so precise an explanation" pattern, more precise does not normally precede an in this construction.
+
+**Choice feedback:**
+
+- **We could not have asked for such precise an explanation.:** With such, the standard order is "such a precise explanation".
+- **We could not have asked for more precise an explanation.:** The ordinary comparative construction places the article first: "a more precise explanation".
+- **We could not have asked for a more precise explanation.:** The article precedes the comparative phrase and matches the initial /m/ sound.
+- **We could not have asked for an more precise explanation.:** The next sound is the consonant /m/ in more, so use a rather than an.
+
+**Decision:** replaced.
+
+**Original findings:** Original only-explanation item repeated a trivial definite frame.
+
+**Learning value:** Prevents overextending the marked so-adjective-article pattern to ordinary comparatives.
+
+**Level rationale:** Comparing permissible and impermissible formal noun-phrase orders supports C1 editing.
+
+**Similarity review:** Tests the boundary of the so-pattern rather than repeating its licensed form.
+
+## C2
+
+20 of 20 items individually reviewed.
+
+### 1. Definite reference dependent on a quantified situation
+
+ID: `coverage-articles-c2-461`
+
+Choose the interpretation licensed by the articles.
+
+"Whenever a committee appoints a chair, the chair receives a casting vote." What does "the chair" refer to?
+
+1. The same person appointed to chair every committee
+2. Whoever chairs a committee, whether appointed or acting temporarily
+3. The particular appointee in each appointment covered by the rule **[Correct]**
+4. A chair already holding office before the appointment
+
+**Explanation:** "A chair" introduces an appointee inside each situation described by "whenever". "The chair" refers back within that situation; it need not identify one person across all committees.
+
+**Choice feedback:**
+
+- **The same person appointed to chair every committee:** The definite phrase is interpreted separately for each appointment. It does not require a single chair shared by all committees.
+- **Whoever chairs a committee, whether appointed or acting temporarily:** The sentence establishes its referent through the appointment just mentioned. It does not extend the rule explicitly to acting chairs appointed in no such event.
+- **The particular appointee in each appointment covered by the rule:** This preserves the local link from "a chair" to "the chair" under "whenever".
+- **A chair already holding office before the appointment:** The antecedent is the appointee introduced by "appoints a chair", not a previously established officeholder.
+
+**Decision:** replaced.
+
+**Original findings:** Original role-of-timing cloze offered elementary article selection and generic feedback at C2.
+
+**Learning value:** Shows that the can identify a different referent on each application of a rule.
+
+**Level rationale:** Interpreting reference under whenever requires control beyond a simple first/later-mention rule.
+
+**Similarity review:** Only item with a definite referent varying across quantified situations.
+
+### 2. Individuating an abstract mass noun under a limiting expression
+
+ID: `coverage-articles-c2-462`
+
+Choose the account of the article change.
+
+An editor changes "There is little room for doubt" to "There is little room for a doubt of that kind". What does the added article do?
+
+1. It presents a reservation as one bounded possibility of the specified kind **[Correct]**
+2. It asserts that a particular reservation is already held, despite the limiting phrase
+3. It identifies a previously discussed reservation rather than introducing a kind
+4. It turns all remaining uncertainty into one objection that the writer accepts
+
+**Explanation:** Without an article, "doubt" names uncertainty as a general state. "A doubt of that kind" packages a reservation as an individual possibility. The negative scope of "little room" still limits it.
+
+**Choice feedback:**
+
+- **It presents a reservation as one bounded possibility of the specified kind:** The indefinite article individuates doubt while the surrounding phrase still limits room for such a reservation.
+- **It asserts that a particular reservation is already held, despite the limiting phrase:** An indefinite within "little room for" does not by itself assert an existing, held reservation.
+- **It identifies a previously discussed reservation rather than introducing a kind:** That would be the identifying function more naturally expressed by "the doubt"; the indefinite phrase characterises a possible instance.
+- **It turns all remaining uncertainty into one objection that the writer accepts:** The writer does not assert acceptance of an objection or equate it with all uncertainty.
+
+**Decision:** replaced.
+
+**Original findings:** Original empirical-account item tested only an before a vowel.
+
+**Learning value:** Connects countable reinterpretation with what a sentence does and does not assert.
+
+**Level rationale:** Requires subtle interpretation of an abstract noun and the scope of a limiting phrase.
+
+**Similarity review:** Focuses on abstract uncertainty, distinct from emotional and material reinterpretations.
+
+### 3. Identifying role versus classifying professional quality
+
+ID: `coverage-articles-c2-463`
+
+Choose the account of the two article functions.
+
+"As the curator of the collection, she approached the purchase with the caution of a curator rather than the enthusiasm of a collector." How do "the curator" and "a curator" function?
+
+1. Both identify the same curator, with the second article merely avoiding repetition
+2. The first identifies her role; the second characterises caution by a professional type **[Correct]**
+3. The first identifies a professional curator; the second downgrades her to an amateur
+4. The first identifies one person; the second introduces a different curator advising her
+
+**Explanation:** "The curator of the collection" identifies her as the holder of the relevant role. "The caution of a curator" classifies the quality of her approach by reference to a professional type. It does not introduce another curator.
+
+**Choice feedback:**
+
+- **Both identify the same curator, with the second article merely avoiding repetition:** The second phrase supplies a professional characterisation rather than simply renaming the individual. Article choice changes its referential function.
+- **The first identifies her role; the second characterises caution by a professional type:** This distinguishes the identifying phrase from the category-based description of her caution.
+- **The first identifies a professional curator; the second downgrades her to an amateur:** The indefinite article does not reduce her qualifications or professional status.
+- **The first identifies one person; the second introduces a different curator advising her:** The caution-of phrase need not introduce any adviser; it describes her approach through a type.
+
+**Decision:** replaced.
+
+**Original findings:** Original narrower-definition item was elementary singular counting in formal vocabulary.
+
+**Learning value:** Separates definite role identification from an indefinite professional characterisation without inventing another participant.
+
+**Level rationale:** The decision coordinates two reference functions and a count/mass distinction in one sentence.
+
+**Similarity review:** Professional characterisation rather than the appointment rule used elsewhere.
+
+### 4. Definiteness determined by reference rather than postmodification alone
+
+ID: `coverage-articles-c2-464`
+
+Choose the most precise explanation of the contrast.
+
+Compare "She studies education in coastal communities" with "She studies the education of the three siblings". Why does the second noun phrase use "the"?
+
+1. A following modifier always converts a general field into a definite noun phrase
+2. The second identifies the siblings' educational history, while the first can retain a general reading **[Correct]**
+3. The number of siblings makes education a plural count noun, which then requires the
+4. The second of-phrase makes the education an individual course rather than a set of experiences
+
+**Explanation:** The second sentence treats the siblings' education as an identifiable object of study. Postmodification alone does not force "the": "education in coastal communities" remains general in the first sentence.
+
+**Choice feedback:**
+
+- **A following modifier always converts a general field into a definite noun phrase:** The first phrase also has a modifier, "in coastal communities", but can remain general. Modification alone does not impose definiteness.
+- **The second identifies the siblings' educational history, while the first can retain a general reading:** The interpretation, rather than a mechanical property of the modifier, motivates the article difference.
+- **The number of siblings makes education a plural count noun, which then requires the:** Education remains uncountable in this use; the number of people does not turn it into plural educational units.
+- **The second of-phrase makes the education an individual course rather than a set of experiences:** Their education can include many years and experiences. The definite phrase does not reduce it to a single course.
+
+**Decision:** replaced.
+
+**Original findings:** Original Causation item had a capitalisation cue and no advanced article contrast.
+
+**Learning value:** Corrects the misleading rule that an of-phrase automatically requires the.
+
+**Level rationale:** Requires comparing interpretations and rejecting a tempting overgeneralisation about modified abstract nouns.
+
+**Similarity review:** Pairs field/process reference with individuated educational history.
+
+### 5. Indefinite article giving an aspectual reading to a proper name
+
+ID: `coverage-articles-c2-465`
+
+Choose the interpretation of the highlighted article use.
+
+"A new biography promises to reveal a Shakespeare unfamiliar to readers of the school anthologies." What does "a Shakespeare" most naturally mean?
+
+1. A biography whose title is Shakespeare
+2. A writer merely similar in ability to Shakespeare
+3. An aspect or representation of Shakespeare that readers may not know **[Correct]**
+4. An unidentified person whose surname happens to be Shakespeare
+
+**Explanation:** The indefinite article allows a proper name to present one version or aspect of the known person. The biography and the reference to school anthologies support this reading of "a Shakespeare".
+
+**Choice feedback:**
+
+- **A biography whose title is Shakespeare:** The biography promises to reveal Shakespeare; the phrase is not naming the book itself.
+- **A writer merely similar in ability to Shakespeare:** "A Shakespeare" can mean a comparable genius elsewhere, but a biography revealing its subject favours a new view of the original person.
+- **An aspect or representation of Shakespeare that readers may not know:** The article frames a particular portrayal of the familiar historical person.
+- **An unidentified person whose surname happens to be Shakespeare:** That reading is grammatically possible elsewhere, but the biography and anthology context identify the established writer.
+
+**Decision:** replaced.
+
+**Original findings:** Original only-precedent sentence forced an elementary the answer through only.
+
+**Learning value:** Shows why proper names can take a without introducing a different person.
+
+**Level rationale:** Discriminates among several legitimate meanings of a proper-name construction using discourse context.
+
+**Similarity review:** A biographical aspect of a person differs from the artwork-name metonymy elsewhere.
+
+### 6. Countable negotiated outcome versus uncountable consensus
+
+ID: `coverage-articles-c2-466`
+
+Choose the interpretation supported by the wording.
+
+"They reached an agreement on access, but agreement on ownership remained elusive." How do the two uses of "agreement" differ?
+
+1. The first names a negotiated arrangement; the second names the state of being in accord **[Correct]**
+2. The first is legally binding; the second is legally unenforceable
+3. The first concerns several participants; the second concerns only two
+4. The first concerns a final decision; the second concerns a written draft
+
+**Explanation:** "An agreement" is a countable arrangement reached about access. Article-free "agreement" refers to consensus about ownership. The articles do not establish legal force, group size, or whether a document exists.
+
+**Choice feedback:**
+
+- **The first names a negotiated arrangement; the second names the state of being in accord:** This captures the countable outcome versus uncountable consensus distinction.
+- **The first is legally binding; the second is legally unenforceable:** Neither legal status follows from the article. An agreement may or may not be binding.
+- **The first concerns several participants; the second concerns only two:** Article choice does not specify the number of parties.
+- **The first concerns a final decision; the second concerns a written draft:** The second phrase names unavailable consensus, not a draft document.
+
+**Decision:** replaced.
+
+**Original findings:** Original grants authority also admitted grants the authority.
+
+**Learning value:** Separates what article choice encodes from legal or procedural assumptions it does not encode.
+
+**Level rationale:** Requires precise interpretation of nominal meanings without overreading professional context.
+
+**Similarity review:** Negotiation outcome/state distinction has no equivalent elsewhere in this set.
+
+### 7. Contrastive the versus a for pre-eminent status and category membership
+
+ID: `coverage-articles-c2-467`
+
+Choose the paraphrase that preserves the writer's meaning.
+
+"He is not the expert on medieval glass, but he is an expert." What distinction is the writer making?
+
+1. He has practical knowledge but lacks professional qualifications
+2. He is a qualified specialist, though not the uniquely outstanding or recognised authority **[Correct]**
+3. He used to be the leading specialist but is no longer active
+4. He studies several subjects and therefore has no specialised knowledge
+
+**Explanation:** In this contrast, stressed "the expert" means the person treated as the authority. "An expert" classifies him as a specialist without giving him that uniquely pre-eminent status.
+
+**Choice feedback:**
+
+- **He has practical knowledge but lacks professional qualifications:** The article contrast does not distinguish practical experience from credentials.
+- **He is a qualified specialist, though not the uniquely outstanding or recognised authority:** This preserves the difference between membership of the expert category and uniquely recognised authority.
+- **He used to be the leading specialist but is no longer active:** Both clauses are in the present; neither asserts a change over time.
+- **He studies several subjects and therefore has no specialised knowledge:** The second clause explicitly grants expertise, so this paraphrase contradicts it.
+
+**Decision:** replaced.
+
+**Original findings:** Original draws a distinction was a basic collocation with no C2 article demand.
+
+**Learning value:** Makes an article-based evaluative distinction available for nuanced descriptions of people.
+
+**Level rationale:** Interpretation depends on contrastive emphasis and implied social status rather than elementary countability.
+
+**Similarity review:** Evaluative prominence, distinct from ordinary specific reference.
+
+### 8. Countable artwork reference through an artist's proper name
+
+ID: `coverage-articles-c2-468`
+
+Choose the strongest conclusion the wording supports.
+
+"The gallery has bought a Hokusai, but it has not said whether the work is a print or a drawing." What does the article permit us to infer?
+
+1. The purchase is one work attributed to Hokusai **[Correct]**
+2. The purchase is a portrait depicting Hokusai
+3. The purchase is a copy by an unnamed follower of Hokusai
+4. The purchase is the particular Hokusai work already discussed
+
+**Explanation:** "A Hokusai" uses an artist's name to stand for one work by that artist. The indefinite article introduces a work without identifying its medium or marking it as previously discussed.
+
+**Choice feedback:**
+
+- **The purchase is one work attributed to Hokusai:** The article counts an artwork through the artist's name, as confirmed by "the work" in the second clause.
+- **The purchase is a portrait depicting Hokusai:** The construction normally attributes the work to the artist; it does not say the artist is depicted in it.
+- **The purchase is a copy by an unnamed follower of Hokusai:** A copy or follower attribution would need further wording. The article alone does not supply it.
+- **The purchase is the particular Hokusai work already discussed:** "A" introduces an unspecified work. "The Hokusai" would more directly identify a previously established work.
+
+**Decision:** replaced.
+
+**Original findings:** Original distinction-drawn sentence repeated a postmodified noun frame.
+
+**Learning value:** Teaches a productive metonymic use while limiting inferences about medium and reference.
+
+**Level rationale:** Requires recognising an indirect noun meaning and distinguishing it from closely related interpretations.
+
+**Similarity review:** An artwork counted by its maker's name, not an aspect of a person.
+
+### 9. Bare role complement licensed by an appointment construction
+
+ID: `coverage-articles-c2-469`
+
+Choose the explanation that avoids adding an unwarranted rule.
+
+"She was appointed director of the observatory." Why can "director" appear without an article?
+
+1. The phrase names the office conferred on her after appointed **[Correct]**
+2. Director is treated as a personal name because a unique job is involved
+3. Director becomes an uncountable activity, like management, in this sentence
+4. An of-phrase makes a role noun definite and therefore removes its article
+
+**Explanation:** After verbs such as "appoint" and "elect", an office can be named without an article: "appointed director". That licensing belongs to the construction; it is not a rule that all profession nouns are article-free.
+
+**Choice feedback:**
+
+- **The phrase names the office conferred on her after appointed:** The verb licenses a bare phrase naming the office resulting from the appointment.
+- **Director is treated as a personal name because a unique job is involved:** The noun remains a role description, not part of her name. Bare office complements do not require a naming interpretation.
+- **Director becomes an uncountable activity, like management, in this sentence:** Director still names an office or role, not the activity of directing. The construction licenses the missing article.
+- **An of-phrase makes a role noun definite and therefore removes its article:** Postmodification does not impose article omission: "the director of the observatory" is a normal complete noun phrase.
+
+**Decision:** replaced.
+
+**Original findings:** Original only assumption that was unnatural and made the answer trivial.
+
+**Learning value:** Replaces an overgeneralised article rule with a construction-specific explanation.
+
+**Level rationale:** Tests a restricted formal construction and its limits; distractors target competing explanations.
+
+**Similarity review:** Names an office conferred by a verb rather than referring to an incumbent.
+
+### 10. Indefinite article with a characterised manifestation of an abstract noun
+
+ID: `coverage-articles-c2-470`
+
+Choose the account of the speaker's change of wording.
+
+"I expected resistance. What I encountered was a resistance born of years of broken promises." Why is "a resistance" possible?
+
+1. The second sentence counts the people resisting
+2. The article identifies the resistance as previously agreed by both speakers
+3. The resistance is presented as a particular manifestation characterised by its origin **[Correct]**
+4. The article changes resistance from opposition to electrical impedance
+
+**Explanation:** An abstract noun can be presented as a particular kind or manifestation when elaborated: "a resistance born of years of broken promises". The noun still denotes opposition, but the phrase characterises the form it took.
+
+**Choice feedback:**
+
+- **The second sentence counts the people resisting:** The phrase characterises opposition itself; it supplies no count of participants.
+- **The article identifies the resistance as previously agreed by both speakers:** That would confuse indefiniteness with shared definite reference. "A" introduces a characterised manifestation.
+- **The resistance is presented as a particular manifestation characterised by its origin:** The modifier supplies the defining character of this instance of resistance.
+- **The article changes resistance from opposition to electrical impedance:** The social context and broken promises retain the opposition sense.
+
+**Decision:** replaced.
+
+**Original findings:** Original alternative-reading item tested only an before a vowel.
+
+**Learning value:** Explains a literary use without teaching that every modified abstract noun needs a.
+
+**Level rationale:** Requires sensitivity to rhetorical recategorisation in connected prose.
+
+**Similarity review:** Characterised social opposition differs from an individual reservation or negotiated arrangement.
+
+### 11. Definite scene reference versus a countable rhetorical act
+
+ID: `coverage-articles-c2-471`
+
+Choose the interpretation supported by both clauses.
+
+"The witness broke the silence with a silence of her own: she refused to answer the question." What contrast do the articles help create?
+
+1. One previously established quiet situation versus a particular act of withholding speech **[Correct]**
+2. A short pause versus a pause whose duration is specified
+3. The witness's involuntary inability to speak versus another person's deliberate refusal
+4. Silence shared by every witness versus silence required by a formal rule
+
+**Explanation:** "The silence" refers to the quiet already framing the scene. "A silence of her own" presents the witness's refusal as a distinct act. The final clause guides this deliberate rhetorical contrast.
+
+**Choice feedback:**
+
+- **One previously established quiet situation versus a particular act of withholding speech:** The definite phrase supplies the scene; the indefinite phrase individuates the witness's response.
+- **A short pause versus a pause whose duration is specified:** Neither article tells us a duration, and the sentence gives none.
+- **The witness's involuntary inability to speak versus another person's deliberate refusal:** The final clause explicitly concerns the witness's own refusal, and the earlier silence is not attributed to inability.
+- **Silence shared by every witness versus silence required by a formal rule:** The wording establishes neither a group of witnesses nor a rule requiring silence.
+
+**Decision:** replaced.
+
+**Original findings:** Original treats silence as evidence allowed a particular-silence reading and generic feedback.
+
+**Learning value:** Shows how articles help a writer reinterpret the same abstract noun within a sentence.
+
+**Level rationale:** Requires resolving a deliberate apparent paradox through article use and an explanatory continuation.
+
+**Similarity review:** A rhetorical contrast between two uses of silence, not a straightforward abstract-noun cloze.
+
+### 12. Representative generic indefinite with a postmodified singular noun
+
+ID: `coverage-articles-c2-472`
+
+Choose the interpretation of the modified indefinite noun phrase.
+
+"A novel of this kind rewards a patient reader." The critic is making a general claim about a genre, rather than reviewing one identified book. Why is "a novel of this kind" appropriate?
+
+1. It introduces one particular novel whose title the critic has chosen to withhold
+2. It presents a representative member of the genre without identifying an individual book **[Correct]**
+3. It implies that only one novel belongs to the kind being discussed
+4. It identifies a book through a modifier, so a and the have identical force here
+
+**Explanation:** An indefinite singular can support a generalisation by representing a member of a class. The modifier "of this kind" restricts the class; it does not by itself turn the phrase into definite reference to an individual book.
+
+**Choice feedback:**
+
+- **It introduces one particular novel whose title the critic has chosen to withhold:** That is one possible use of an indefinite phrase elsewhere, but the stated genre-level claim establishes a representative reading here.
+- **It presents a representative member of the genre without identifying an individual book:** This preserves the generalisation while treating the novel as a representative class member.
+- **It implies that only one novel belongs to the kind being discussed:** An indefinite singular used generically does not limit the class to one member.
+- **It identifies a book through a modifier, so a and the have identical force here:** A modifier can restrict a class without identifying a unique individual. The two articles do not become interchangeable merely because a modifier follows.
+
+**Decision:** replaced.
+
+**Original findings:** Original only-reading item forced the through a repeated elementary frame.
+
+**Learning value:** Teaches that postmodification and specificity are separate decisions.
+
+**Level rationale:** Distinguishes generic, specific-indefinite, and definite readings of a modified noun phrase.
+
+**Similarity review:** Representative generic reference in literary criticism, distinct from known individuals and hypothetical existence.
+
+### 13. Definiteness established by a distinguishing consequence
+
+ID: `coverage-articles-c2-473`
+
+Choose the paraphrase that preserves the article's effect.
+
+"It was not merely an inconvenience; it was the inconvenience that finally made her leave." What does the second article contribute?
+
+1. It turns every inconvenience she had suffered into a single event
+2. It identifies this inconvenience by its decisive consequence **[Correct]**
+3. It proves that she had never suffered an inconvenience before
+4. It changes inconvenience from an event into an uncountable emotional state
+
+**Explanation:** "An inconvenience" first classifies the event. "The inconvenience that finally made her leave" identifies it through a distinguishing consequence. The definite article does not deny the existence of other inconveniences.
+
+**Choice feedback:**
+
+- **It turns every inconvenience she had suffered into a single event:** The definite phrase selects the decisive event; it does not merge multiple events.
+- **It identifies this inconvenience by its decisive consequence:** The following clause specifies what makes this event identifiable in the narrative.
+- **It proves that she had never suffered an inconvenience before:** Other inconveniences may have occurred. "Finally" even makes a sequence of problems plausible.
+- **It changes inconvenience from an event into an uncountable emotional state:** Both occurrences remain countable event uses; the change concerns reference, not noun class.
+
+**Decision:** replaced.
+
+**Original findings:** Original public-meaning item repeated a weak the-plus-postmodifier cloze.
+
+**Learning value:** Separates identification from claims of absolute uniqueness.
+
+**Level rationale:** Requires interpreting narrative emphasis and the restrictive clause without overclaiming what the implies.
+
+**Similarity review:** Retrospective identification by outcome rather than previous naming or shared setting.
+
+### 14. Mass quality versus countable expert in authority
+
+ID: `coverage-articles-c2-474`
+
+Choose the interpretation that the article contrast supports.
+
+"She spoke with authority, though she was not an authority on the period." What is contrasted?
+
+1. Permission to speak versus ownership of the historical records
+2. A commanding manner versus the status of a recognised specialist **[Correct]**
+3. An official position versus an unofficial position within the same organisation
+4. Confidence about the dates versus uncertainty about the people
+
+**Explanation:** Article-free "authority" describes the manner or force of her speech. "An authority on" is a countable expression for a recognised expert in a subject.
+
+**Choice feedback:**
+
+- **Permission to speak versus ownership of the historical records:** Authority can mean permission elsewhere, but "spoke with authority" naturally describes manner; ownership is not asserted.
+- **A commanding manner versus the status of a recognised specialist:** This preserves the manner noun in the first clause and the person-denoting noun phrase in the second.
+- **An official position versus an unofficial position within the same organisation:** No organisation or institutional post is identified. "An authority on" names expertise, not an employment category.
+- **Confidence about the dates versus uncertainty about the people:** The wording does not divide her knowledge into dates and people.
+
+**Decision:** replaced.
+
+**Original findings:** Original equivocal-pattern question was elementary a/an with inflated vocabulary.
+
+**Learning value:** Connects article choice to a change in noun sense and grammatical reference.
+
+**Level rationale:** Interprets an idiomatic contrast between forceful presentation and subject expertise.
+
+**Similarity review:** A manner-to-person sense contrast, different from expert prominence.
+
+### 15. Definite article with a temporally characterised place name
+
+ID: `coverage-articles-c2-475`
+
+Choose the interpretation licensed by the phrase.
+
+"The correspondence reveals the Paris of her youth rather than the city the tourist brochures describe." What does "the Paris of her youth" identify?
+
+1. A different city formally named Paris during her youth
+2. The city as experienced or represented in a particular period of her life **[Correct]**
+3. An unidentified city sharing some Parisian characteristics
+4. A set of letters whose published title is Paris of Her Youth
+
+**Explanation:** The definite article and modifier select a temporally and personally characterised version of a place. Paris remains the same city; the phrase directs attention to the Paris represented by her youthful experience.
+
+**Choice feedback:**
+
+- **A different city formally named Paris during her youth:** The phrase need not refer to another municipality or a name change; it frames the familiar city through a period of experience.
+- **The city as experienced or represented in a particular period of her life:** This captures how the modifier licenses a definite, characterised use of the proper name.
+- **An unidentified city sharing some Parisian characteristics:** That would resemble a metaphorical "a Paris" reading, not the identified version of the city described here.
+- **A set of letters whose published title is Paris of Her Youth:** The words identify what the correspondence reveals, not a title assigned to the letters.
+
+**Decision:** replaced.
+
+**Original findings:** Original guidance-on-data-retention item permitted the guidance and had no specific feedback.
+
+**Learning value:** Explains an exception to the simplistic rule that city names never take the.
+
+**Level rationale:** The interpretation combines proper-name reference, narrative perspective, and temporal characterisation.
+
+**Similarity review:** Place-and-period framing contrasts with the indefinite portrayal of Shakespeare.
+
+### 16. Anaphoric definiteness without an assertion of existence
+
+ID: `coverage-articles-c2-476`
+
+Choose the inference warranted by the indefinite phrase.
+
+"If there is a flaw in the proof, the flaw will lie in the induction step." Which reading is accurate?
+
+1. The writer asserts that the proof contains exactly one flaw
+2. The writer has identified a flaw but is withholding its location
+3. The second phrase refers back to a flaw under the stated condition, without asserting that one exists **[Correct]**
+4. The writer excludes flaws in other proofs because the noun is definite
+
+**Explanation:** "A flaw" is introduced inside an if-condition. "The flaw" can refer back inside that hypothetical reasoning without committing the writer to the existence of a flaw.
+
+**Choice feedback:**
+
+- **The writer asserts that the proof contains exactly one flaw:** The conditional introduction does not assert existence, much less an exact count of actual flaws.
+- **The writer has identified a flaw but is withholding its location:** The writer explicitly proposes a location while leaving existence conditional.
+- **The second phrase refers back to a flaw under the stated condition, without asserting that one exists:** This keeps the definite reference within the hypothetical situation introduced by if.
+- **The writer excludes flaws in other proofs because the noun is definite:** The article identifies the locally introduced possibility; it says nothing about other proofs.
+
+**Decision:** replaced.
+
+**Original findings:** Original procedural-defect item reduced C2 articles to a before a consonant.
+
+**Learning value:** Prevents treating every definite noun phrase as an unconditional existence claim.
+
+**Level rationale:** Requires reasoning about reference within conditional scope.
+
+**Similarity review:** Hypothetical existence differs from the repeated appointment situations in item 461.
+
+### 17. Definite phrase identifying an envisaged standard of a person
+
+ID: `coverage-articles-c2-477`
+
+Choose the interpretation of the article phrase.
+
+"For all his objections, he remained a believer in the project, if not the believer his colleagues had hoped for." What does the final phrase imply?
+
+1. His colleagues expected a particular degree or kind of commitment that he did not fully display **[Correct]**
+2. His colleagues had expected someone else, with the same surname, to support the project
+3. He no longer supported the project but was pretending to do so
+4. He was the sole supporter whose objections the group had formally recorded
+
+**Explanation:** "A believer" grants membership in the category of supporters. "The believer his colleagues had hoped for" refers to their envisaged kind of committed supporter. The contrast qualifies his support without cancelling it.
+
+**Choice feedback:**
+
+- **His colleagues expected a particular degree or kind of commitment that he did not fully display:** This preserves the concession that he supports the project while interpreting the definite phrase as an expected standard.
+- **His colleagues had expected someone else, with the same surname, to support the project:** No name or alternative person is introduced; the contrast concerns the support he embodies.
+- **He no longer supported the project but was pretending to do so:** "He remained a believer" explicitly affirms continued support.
+- **He was the sole supporter whose objections the group had formally recorded:** The article does not establish sole support or a record of objections.
+
+**Decision:** replaced.
+
+**Original findings:** Original only-defect item repeated a mechanically forced definite answer.
+
+**Learning value:** Shows how a restrictive clause can identify an expected role without introducing a second person.
+
+**Level rationale:** Requires interpreting concession, degree of commitment, and an intensional definite description.
+
+**Similarity review:** An expected persona differs from recognised pre-eminence in the expert contrast.
+
+### 18. Institutional activity versus identified location with a qualified interpretation
+
+ID: `coverage-articles-c2-478`
+
+Choose the explanation that fits both examples.
+
+Compare "She went to court to challenge the decision" and "She went to the court to photograph its entrance". What is the principal effect of the article?
+
+1. The first frames participation in proceedings; the second identifies a place in this context **[Correct]**
+2. The bare phrase identifies any court, while the definite phrase always identifies a building
+3. The first refers to one case, while the second refers to the whole judicial system
+4. The article itself changes her role from claimant in the first sentence to employee in the second
+
+**Explanation:** "Go to court" conventionally means engaging with legal proceedings. "Go to the court" can identify a particular institution or location; photographing its entrance makes the physical-place reading salient. The contrast is contextual, not a rule that the always means a building.
+
+**Choice feedback:**
+
+- **The first frames participation in proceedings; the second identifies a place in this context:** The bare institutional expression and the stated photographic purpose together support this qualified distinction.
+- **The bare phrase identifies any court, while the definite phrase always identifies a building:** The building-only rule is too strong: "the court rejected the appeal" refers to judicial authority, not a building acting physically.
+- **The first refers to one case, while the second refers to the whole judicial system:** Article choice does not establish that case-versus-system contrast; the second sentence identifies a place with an entrance.
+- **The article itself changes her role from claimant in the first sentence to employee in the second:** The purposes of the visits guide interpretation. The article does not assign her an employment status.
+
+**Decision:** replaced.
+
+**Original findings:** Original earlier-precedent item tested only vowel-based an.
+
+**Learning value:** Teaches a useful article contrast while explicitly avoiding a false building-only rule.
+
+**Level rationale:** Requires interpreting conventional usage and recognising the limits of a commonly simplified grammar rule.
+
+**Similarity review:** Institutional activity is distinct from names, professions, and abstract concepts.
+
+### 19. Mass intellectual activity versus countable genre product
+
+ID: `coverage-articles-c2-479`
+
+Choose the explanation of the changed noun phrase.
+
+A reviewer writes "The chapter offers history, not nostalgia". Another writes "The chapter offers a history, not a memoir". What change accompanies the added articles?
+
+1. The second reviewer necessarily endorses the chapter's historical accuracy
+2. The comparison shifts from qualities or modes of treatment to types of complete account **[Correct]**
+3. The second reviewer dates the chapter to an earlier historical period
+4. History changes into fiction and memoir changes into nonfiction
+
+**Explanation:** Article-free "history" and "nostalgia" contrast ways of treating the past. "A history" and "a memoir" count kinds of account. Neither article choice establishes accuracy or whether the account is fictional.
+
+**Choice feedback:**
+
+- **The second reviewer necessarily endorses the chapter's historical accuracy:** Calling an account "a history" classifies it; the classification alone does not endorse its accuracy.
+- **The comparison shifts from qualities or modes of treatment to types of complete account:** The indefinite articles package the nouns as individual accounts that can be assigned to genres.
+- **The second reviewer dates the chapter to an earlier historical period:** The articles concern nominal interpretation, not the age of the chapter or its subject.
+- **History changes into fiction and memoir changes into nonfiction:** The countable use does not assign that fiction/nonfiction contrast.
+
+**Decision:** replaced.
+
+**Original findings:** Original methodology cloze had elementary distractors despite its C2 label.
+
+**Learning value:** Connects article use to whether a noun denotes a mode of treatment or an individual account.
+
+**Level rationale:** Requires interpreting evaluative critical prose and keeping genre classification separate from truth claims.
+
+**Similarity review:** Textual genre contrast, distinct from countable agreements and acts of silence.
+
+### 20. Article choice distinguishing a human capacity from an individual system
+
+ID: `coverage-articles-c2-480`
+
+Choose the wording that keeps the writer's intended reference.
+
+An anthropologist means the human capacity for language as a whole, rather than any one named language or a community's particular usage. Which phrase makes that distinction clearest?
+
+1. the emergence of a language
+2. the emergence of the language
+3. the emergence of language **[Correct]**
+4. the emergence of one language
+
+**Explanation:** Article-free "language" can denote the human capacity or phenomenon. "A language" counts an individual linguistic system, while "the language" normally identifies a particular system or usage. The stated intention selects the uncountable general reading.
+
+**Choice feedback:**
+
+- **the emergence of a language:** The indefinite article presents one linguistic system, which is narrower than the capacity meant here.
+- **the emergence of the language:** The definite phrase invites identification of a particular language or usage from context; the prompt deliberately excludes that reference.
+- **the emergence of language:** With no article before "language", the phrase supports the intended capacity-level meaning.
+- **the emergence of one language:** "One" explicitly counts a single language and therefore changes the scope of the claim.
+
+**Decision:** replaced.
+
+**Original findings:** Original only-methodology item ended another repeated definite-article frame.
+
+**Learning value:** Makes learners attend to the scope of abstract reference when editing scholarly prose.
+
+**Level rationale:** The language is accessible but the referential distinction affects the exact scope of an academic claim.
+
+**Similarity review:** Capacity-versus-system reference closes the set with a different count/mass distinction.

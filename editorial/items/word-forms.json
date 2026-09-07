@@ -1,0 +1,2766 @@
+{
+  "topic": "Word forms",
+  "category": "Vocabulary",
+  "items": [
+    {
+      "id": "coverage-word-forms-a1-3961",
+      "level": "A1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The ___ helped the morning class.",
+      "options": [
+        "teacher",
+        "teach",
+        "teaches",
+        "taught"
+      ],
+      "answer": "teacher",
+      "explanation": "The sentence needs \"teacher\", the word-family form that fits this position. The completed sentence is: The teacher helped the morning class.",
+      "rationales": {
+        "teacher": "The sentence needs \"teacher\", the word-family form that fits this position. The completed sentence is: The teacher helped the morning class.",
+        "teach": "\"teach\" is related to \"teach\", but it does not fit the grammar of this sentence.",
+        "teaches": "\"teaches\" is related to \"teach\", but it does not fit the grammar of this sentence.",
+        "taught": "\"taught\" is related to \"teach\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3962",
+      "level": "A1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "Each ___ needs a badge in class.",
+      "options": [
+        "worker",
+        "work",
+        "works",
+        "working"
+      ],
+      "answer": "worker",
+      "explanation": "The sentence needs \"worker\", the word-family form that fits this position. The completed sentence is: Each worker needs a badge in class.",
+      "rationales": {
+        "worker": "The sentence needs \"worker\", the word-family form that fits this position. The completed sentence is: Each worker needs a badge in class.",
+        "work": "\"work\" is related to \"work\", but it does not fit the grammar of this sentence.",
+        "works": "\"works\" is related to \"work\", but it does not fit the grammar of this sentence.",
+        "working": "\"working\" is related to \"work\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3963",
+      "level": "A1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The ___ signed the book after lunch.",
+      "options": [
+        "writer",
+        "write",
+        "writes",
+        "written"
+      ],
+      "answer": "writer",
+      "explanation": "The sentence needs \"writer\", the word-family form that fits this position. The completed sentence is: The writer signed the book after lunch.",
+      "rationales": {
+        "writer": "The sentence needs \"writer\", the word-family form that fits this position. The completed sentence is: The writer signed the book after lunch.",
+        "write": "\"write\" is related to \"write\", but it does not fit the grammar of this sentence.",
+        "writes": "\"writes\" is related to \"write\", but it does not fit the grammar of this sentence.",
+        "written": "\"written\" is related to \"write\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3964",
+      "level": "A1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The ___ stopped the bus at school.",
+      "options": [
+        "driver",
+        "drive",
+        "drives",
+        "driven"
+      ],
+      "answer": "driver",
+      "explanation": "The sentence needs \"driver\", the word-family form that fits this position. The completed sentence is: The driver stopped the bus at school.",
+      "rationales": {
+        "driver": "The sentence needs \"driver\", the word-family form that fits this position. The completed sentence is: The driver stopped the bus at school.",
+        "drive": "\"drive\" is related to \"drive\", but it does not fit the grammar of this sentence.",
+        "drives": "\"drives\" is related to \"drive\", but it does not fit the grammar of this sentence.",
+        "driven": "\"driven\" is related to \"drive\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3965",
+      "level": "A1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "One ___ asked a question this morning.",
+      "options": [
+        "visitor",
+        "visit",
+        "visits",
+        "visited"
+      ],
+      "answer": "visitor",
+      "explanation": "The sentence needs \"visitor\", the word-family form that fits this position. The completed sentence is: One visitor asked a question this morning.",
+      "rationales": {
+        "visitor": "The sentence needs \"visitor\", the word-family form that fits this position. The completed sentence is: One visitor asked a question this morning.",
+        "visit": "\"visit\" is related to \"visit\", but it does not fit the grammar of this sentence.",
+        "visits": "\"visits\" is related to \"visit\", but it does not fit the grammar of this sentence.",
+        "visited": "\"visited\" is related to \"visit\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3966",
+      "level": "A1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The ___ colored the wall before class.",
+      "options": [
+        "painter",
+        "paint",
+        "paints",
+        "painting"
+      ],
+      "answer": "painter",
+      "explanation": "The sentence needs \"painter\", the word-family form that fits this position. The completed sentence is: The painter colored the wall before class.",
+      "rationales": {
+        "painter": "The sentence needs \"painter\", the word-family form that fits this position. The completed sentence is: The painter colored the wall before class.",
+        "paint": "\"paint\" is related to \"paint\", but it does not fit the grammar of this sentence.",
+        "paints": "\"paints\" is related to \"paint\", but it does not fit the grammar of this sentence.",
+        "painting": "\"painting\" is related to \"paint\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3967",
+      "level": "A1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The ___ stood near the piano near the door.",
+      "options": [
+        "singer",
+        "sing",
+        "sings",
+        "singing"
+      ],
+      "answer": "singer",
+      "explanation": "The sentence needs \"singer\", the word-family form that fits this position. The completed sentence is: The singer stood near the piano near the door.",
+      "rationales": {
+        "singer": "The sentence needs \"singer\", the word-family form that fits this position. The completed sentence is: The singer stood near the piano near the door.",
+        "sing": "\"sing\" is related to \"sing\", but it does not fit the grammar of this sentence.",
+        "sings": "\"sings\" is related to \"sing\", but it does not fit the grammar of this sentence.",
+        "singing": "\"singing\" is related to \"sing\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3968",
+      "level": "A1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The ___ opened the supply closet at home.",
+      "options": [
+        "cleaner",
+        "clean",
+        "cleans",
+        "cleaning"
+      ],
+      "answer": "cleaner",
+      "explanation": "The sentence needs \"cleaner\", the word-family form that fits this position. The completed sentence is: The cleaner opened the supply closet at home.",
+      "rationales": {
+        "cleaner": "The sentence needs \"cleaner\", the word-family form that fits this position. The completed sentence is: The cleaner opened the supply closet at home.",
+        "clean": "\"clean\" is related to \"clean\", but it does not fit the grammar of this sentence.",
+        "cleans": "\"cleans\" is related to \"clean\", but it does not fit the grammar of this sentence.",
+        "cleaning": "\"cleaning\" is related to \"clean\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3969",
+      "level": "A1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The ___ brought fresh eggs on Monday.",
+      "options": [
+        "farmer",
+        "farm",
+        "farms",
+        "farming"
+      ],
+      "answer": "farmer",
+      "explanation": "The sentence needs \"farmer\", the word-family form that fits this position. The completed sentence is: The farmer brought fresh eggs on Monday.",
+      "rationales": {
+        "farmer": "The sentence needs \"farmer\", the word-family form that fits this position. The completed sentence is: The farmer brought fresh eggs on Monday.",
+        "farm": "\"farm\" is related to \"farm\", but it does not fit the grammar of this sentence.",
+        "farms": "\"farms\" is related to \"farm\", but it does not fit the grammar of this sentence.",
+        "farming": "\"farming\" is related to \"farm\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3970",
+      "level": "A1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "One ___ moved across the stage in the kitchen.",
+      "options": [
+        "dancer",
+        "dance",
+        "dances",
+        "dancing"
+      ],
+      "answer": "dancer",
+      "explanation": "The sentence needs \"dancer\", the word-family form that fits this position. The completed sentence is: One dancer moved across the stage in the kitchen.",
+      "rationales": {
+        "dancer": "The sentence needs \"dancer\", the word-family form that fits this position. The completed sentence is: One dancer moved across the stage in the kitchen.",
+        "dance": "\"dance\" is related to \"dance\", but it does not fit the grammar of this sentence.",
+        "dances": "\"dances\" is related to \"dance\", but it does not fit the grammar of this sentence.",
+        "dancing": "\"dancing\" is related to \"dance\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3971",
+      "level": "A1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The ___ made bread this morning after school.",
+      "options": [
+        "baker",
+        "bake",
+        "bakes",
+        "baking"
+      ],
+      "answer": "baker",
+      "explanation": "The sentence needs \"baker\", the word-family form that fits this position. The completed sentence is: The baker made bread this morning after school.",
+      "rationales": {
+        "baker": "The sentence needs \"baker\", the word-family form that fits this position. The completed sentence is: The baker made bread this morning after school.",
+        "bake": "\"bake\" is related to \"bake\", but it does not fit the grammar of this sentence.",
+        "bakes": "\"bakes\" is related to \"bake\", but it does not fit the grammar of this sentence.",
+        "baking": "\"baking\" is related to \"bake\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3972",
+      "level": "A1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The ___ showed us the way by the window.",
+      "options": [
+        "leader",
+        "lead",
+        "leads",
+        "leading"
+      ],
+      "answer": "leader",
+      "explanation": "The sentence needs \"leader\", the word-family form that fits this position. The completed sentence is: The leader showed us the way by the window.",
+      "rationales": {
+        "leader": "The sentence needs \"leader\", the word-family form that fits this position. The completed sentence is: The leader showed us the way by the window.",
+        "lead": "\"lead\" is related to \"lead\", but it does not fit the grammar of this sentence.",
+        "leads": "\"leads\" is related to \"lead\", but it does not fit the grammar of this sentence.",
+        "leading": "\"leading\" is related to \"lead\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3973",
+      "level": "A1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "Each ___ needs a library card before dinner.",
+      "options": [
+        "reader",
+        "read",
+        "reads",
+        "reading"
+      ],
+      "answer": "reader",
+      "explanation": "The sentence needs \"reader\", the word-family form that fits this position. The completed sentence is: Each reader needs a library card before dinner.",
+      "rationales": {
+        "reader": "The sentence needs \"reader\", the word-family form that fits this position. The completed sentence is: Each reader needs a library card before dinner.",
+        "read": "\"read\" is related to \"read\", but it does not fit the grammar of this sentence.",
+        "reads": "\"reads\" is related to \"read\", but it does not fit the grammar of this sentence.",
+        "reading": "\"reading\" is related to \"read\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3974",
+      "level": "A1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "Every ___ makes mistakes at the park.",
+      "options": [
+        "learner",
+        "learn",
+        "learns",
+        "learning"
+      ],
+      "answer": "learner",
+      "explanation": "The sentence needs \"learner\", the word-family form that fits this position. The completed sentence is: Every learner makes mistakes at the park.",
+      "rationales": {
+        "learner": "The sentence needs \"learner\", the word-family form that fits this position. The completed sentence is: Every learner makes mistakes at the park.",
+        "learn": "\"learn\" is related to \"learn\", but it does not fit the grammar of this sentence.",
+        "learns": "\"learns\" is related to \"learn\", but it does not fit the grammar of this sentence.",
+        "learning": "\"learning\" is related to \"learn\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3975",
+      "level": "A1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The ___ carried two bags on the bus.",
+      "options": [
+        "shopper",
+        "shop",
+        "shops",
+        "shopping"
+      ],
+      "answer": "shopper",
+      "explanation": "The sentence needs \"shopper\", the word-family form that fits this position. The completed sentence is: The shopper carried two bags on the bus.",
+      "rationales": {
+        "shopper": "The sentence needs \"shopper\", the word-family form that fits this position. The completed sentence is: The shopper carried two bags on the bus.",
+        "shop": "\"shop\" is related to \"shop\", but it does not fit the grammar of this sentence.",
+        "shops": "\"shops\" is related to \"shop\", but it does not fit the grammar of this sentence.",
+        "shopping": "\"shopping\" is related to \"shop\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3976",
+      "level": "A1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The ___ kicked the ball in the hallway.",
+      "options": [
+        "player",
+        "play",
+        "plays",
+        "playing"
+      ],
+      "answer": "player",
+      "explanation": "The sentence needs \"player\", the word-family form that fits this position. The completed sentence is: The player kicked the ball in the hallway.",
+      "rationales": {
+        "player": "The sentence needs \"player\", the word-family form that fits this position. The completed sentence is: The player kicked the ball in the hallway.",
+        "play": "\"play\" is related to \"play\", but it does not fit the grammar of this sentence.",
+        "plays": "\"plays\" is related to \"play\", but it does not fit the grammar of this sentence.",
+        "playing": "\"playing\" is related to \"play\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3977",
+      "level": "A1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "A ___ brought extra chairs with the teacher.",
+      "options": [
+        "helper",
+        "help",
+        "helps",
+        "helping"
+      ],
+      "answer": "helper",
+      "explanation": "The sentence needs \"helper\", the word-family form that fits this position. The completed sentence is: A helper brought extra chairs with the teacher.",
+      "rationales": {
+        "helper": "The sentence needs \"helper\", the word-family form that fits this position. The completed sentence is: A helper brought extra chairs with the teacher.",
+        "help": "\"help\" is related to \"help\", but it does not fit the grammar of this sentence.",
+        "helps": "\"helps\" is related to \"help\", but it does not fit the grammar of this sentence.",
+        "helping": "\"helping\" is related to \"help\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3978",
+      "level": "A1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The ___ locked the shop before the bell.",
+      "options": [
+        "owner",
+        "own",
+        "owns",
+        "owning"
+      ],
+      "answer": "owner",
+      "explanation": "The sentence needs \"owner\", the word-family form that fits this position. The completed sentence is: The owner locked the shop before the bell.",
+      "rationales": {
+        "owner": "The sentence needs \"owner\", the word-family form that fits this position. The completed sentence is: The owner locked the shop before the bell.",
+        "own": "\"own\" is related to \"own\", but it does not fit the grammar of this sentence.",
+        "owns": "\"owns\" is related to \"own\", but it does not fit the grammar of this sentence.",
+        "owning": "\"owning\" is related to \"own\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3979",
+      "level": "A1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The ___ finished first during the lesson.",
+      "options": [
+        "runner",
+        "run",
+        "runs",
+        "running"
+      ],
+      "answer": "runner",
+      "explanation": "The sentence needs \"runner\", the word-family form that fits this position. The completed sentence is: The runner finished first during the lesson.",
+      "rationales": {
+        "runner": "The sentence needs \"runner\", the word-family form that fits this position. The completed sentence is: The runner finished first during the lesson.",
+        "run": "\"run\" is related to \"run\", but it does not fit the grammar of this sentence.",
+        "runs": "\"runs\" is related to \"run\", but it does not fit the grammar of this sentence.",
+        "running": "\"running\" is related to \"run\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a1-3980",
+      "level": "A1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The ___ crossed the pool at the front.",
+      "options": [
+        "swimmer",
+        "swim",
+        "swims",
+        "swimming"
+      ],
+      "answer": "swimmer",
+      "explanation": "The sentence needs \"swimmer\", the word-family form that fits this position. The completed sentence is: The swimmer crossed the pool at the front.",
+      "rationales": {
+        "swimmer": "The sentence needs \"swimmer\", the word-family form that fits this position. The completed sentence is: The swimmer crossed the pool at the front.",
+        "swim": "\"swim\" is related to \"swim\", but it does not fit the grammar of this sentence.",
+        "swims": "\"swims\" is related to \"swim\", but it does not fit the grammar of this sentence.",
+        "swimming": "\"swimming\" is related to \"swim\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3981",
+      "level": "A2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The English teacher gave a clear ___.",
+      "options": [
+        "explanation",
+        "explain",
+        "explained",
+        "explaining"
+      ],
+      "answer": "explanation",
+      "explanation": "The sentence needs \"explanation\", the word-family form that fits this position. The completed sentence is: The English teacher gave a clear explanation.",
+      "rationales": {
+        "explanation": "The sentence needs \"explanation\", the word-family form that fits this position. The completed sentence is: The English teacher gave a clear explanation.",
+        "explain": "\"explain\" is related to \"explain\", but it does not fit the grammar of this sentence.",
+        "explained": "\"explained\" is related to \"explain\", but it does not fit the grammar of this sentence.",
+        "explaining": "\"explaining\" is related to \"explain\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3982",
+      "level": "A2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The final ___ was difficult at the front desk.",
+      "options": [
+        "decision",
+        "decide",
+        "decided",
+        "deciding"
+      ],
+      "answer": "decision",
+      "explanation": "The sentence needs \"decision\", the word-family form that fits this position. The completed sentence is: The final decision was difficult at the front desk.",
+      "rationales": {
+        "decision": "The sentence needs \"decision\", the word-family form that fits this position. The completed sentence is: The final decision was difficult at the front desk.",
+        "decide": "\"decide\" is related to \"decide\", but it does not fit the grammar of this sentence.",
+        "decided": "\"decided\" is related to \"decide\", but it does not fit the grammar of this sentence.",
+        "deciding": "\"deciding\" is related to \"decide\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3983",
+      "level": "A2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The housing office sent an ___.",
+      "options": [
+        "invitation",
+        "invite",
+        "invited",
+        "inviting"
+      ],
+      "answer": "invitation",
+      "explanation": "The sentence needs \"invitation\", the word-family form that fits this position. The completed sentence is: The housing office sent an invitation.",
+      "rationales": {
+        "invitation": "The sentence needs \"invitation\", the word-family form that fits this position. The completed sentence is: The housing office sent an invitation.",
+        "invite": "\"invite\" is related to \"invite\", but it does not fit the grammar of this sentence.",
+        "invited": "\"invited\" is related to \"invite\", but it does not fit the grammar of this sentence.",
+        "inviting": "\"inviting\" is related to \"invite\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3984",
+      "level": "A2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The ___ arrived yesterday on the class website.",
+      "options": [
+        "payment",
+        "pay",
+        "paid",
+        "paying"
+      ],
+      "answer": "payment",
+      "explanation": "The sentence needs \"payment\", the word-family form that fits this position. The completed sentence is: The payment arrived yesterday on the class website.",
+      "rationales": {
+        "payment": "The sentence needs \"payment\", the word-family form that fits this position. The completed sentence is: The payment arrived yesterday on the class website.",
+        "pay": "\"pay\" is related to \"pay\", but it does not fit the grammar of this sentence.",
+        "paid": "\"paid\" is related to \"pay\", but it does not fit the grammar of this sentence.",
+        "paying": "\"paying\" is related to \"pay\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3985",
+      "level": "A2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The research report showed clear ___.",
+      "options": [
+        "improvement",
+        "improve",
+        "improved",
+        "improving"
+      ],
+      "answer": "improvement",
+      "explanation": "The sentence needs \"improvement\", the word-family form that fits this position. The completed sentence is: The research report showed clear improvement.",
+      "rationales": {
+        "improvement": "The sentence needs \"improvement\", the word-family form that fits this position. The completed sentence is: The research report showed clear improvement.",
+        "improve": "\"improve\" is related to \"improve\", but it does not fit the grammar of this sentence.",
+        "improved": "\"improved\" is related to \"improve\", but it does not fit the grammar of this sentence.",
+        "improving": "\"improving\" is related to \"improve\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3986",
+      "level": "A2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The late ___ caused a problem during the travel lesson.",
+      "options": [
+        "arrival",
+        "arrive",
+        "arrived",
+        "arriving"
+      ],
+      "answer": "arrival",
+      "explanation": "The sentence needs \"arrival\", the word-family form that fits this position. The completed sentence is: The late arrival caused a problem during the travel lesson.",
+      "rationales": {
+        "arrival": "The sentence needs \"arrival\", the word-family form that fits this position. The completed sentence is: The late arrival caused a problem during the travel lesson.",
+        "arrive": "\"arrive\" is related to \"arrive\", but it does not fit the grammar of this sentence.",
+        "arrived": "\"arrived\" is related to \"arrive\", but it does not fit the grammar of this sentence.",
+        "arriving": "\"arriving\" is related to \"arrive\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3987",
+      "level": "A2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "Her final ___ surprised the beginner class.",
+      "options": [
+        "choice",
+        "choose",
+        "chose",
+        "choosing"
+      ],
+      "answer": "choice",
+      "explanation": "The sentence needs \"choice\", the word-family form that fits this position. The completed sentence is: Her final choice surprised the beginner class.",
+      "rationales": {
+        "choice": "The sentence needs \"choice\", the word-family form that fits this position. The completed sentence is: Her final choice surprised the beginner class.",
+        "choose": "\"choose\" is related to \"choose\", but it does not fit the grammar of this sentence.",
+        "chose": "\"chose\" is related to \"choose\", but it does not fit the grammar of this sentence.",
+        "choosing": "\"choosing\" is related to \"choose\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3988",
+      "level": "A2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The guide gives a short ___ near the printer.",
+      "options": [
+        "description",
+        "describe",
+        "described",
+        "describing"
+      ],
+      "answer": "description",
+      "explanation": "The sentence needs \"description\", the word-family form that fits this position. The completed sentence is: The guide gives a short description near the printer.",
+      "rationales": {
+        "description": "The sentence needs \"description\", the word-family form that fits this position. The completed sentence is: The guide gives a short description near the printer.",
+        "describe": "\"describe\" is related to \"describe\", but it does not fit the grammar of this sentence.",
+        "described": "\"described\" is related to \"describe\", but it does not fit the grammar of this sentence.",
+        "describing": "\"describing\" is related to \"describe\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3989",
+      "level": "A2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The ___ lasted ten minutes before the interview.",
+      "options": [
+        "discussion",
+        "discuss",
+        "discussed",
+        "discussing"
+      ],
+      "answer": "discussion",
+      "explanation": "The sentence needs \"discussion\", the word-family form that fits this position. The completed sentence is: The discussion lasted ten minutes before the interview.",
+      "rationales": {
+        "discussion": "The sentence needs \"discussion\", the word-family form that fits this position. The completed sentence is: The discussion lasted ten minutes before the interview.",
+        "discuss": "\"discuss\" is related to \"discuss\", but it does not fit the grammar of this sentence.",
+        "discussed": "\"discussed\" is related to \"discuss\", but it does not fit the grammar of this sentence.",
+        "discussing": "\"discussing\" is related to \"discuss\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3990",
+      "level": "A2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The two teams reached an ___ on the student portal.",
+      "options": [
+        "agreement",
+        "agree",
+        "agreed",
+        "agreeing"
+      ],
+      "answer": "agreement",
+      "explanation": "The sentence needs \"agreement\", the word-family form that fits this position. The completed sentence is: The two teams reached an agreement on the student portal.",
+      "rationales": {
+        "agreement": "The sentence needs \"agreement\", the word-family form that fits this position. The completed sentence is: The two teams reached an agreement on the student portal.",
+        "agree": "\"agree\" is related to \"agree\", but it does not fit the grammar of this sentence.",
+        "agreed": "\"agreed\" is related to \"agree\", but it does not fit the grammar of this sentence.",
+        "agreeing": "\"agreeing\" is related to \"agree\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3991",
+      "level": "A2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The website has useful ___ after the reminder email.",
+      "options": [
+        "information",
+        "inform",
+        "informed",
+        "informing"
+      ],
+      "answer": "information",
+      "explanation": "The sentence needs \"information\", the word-family form that fits this position. The completed sentence is: The website has useful information after the reminder email.",
+      "rationales": {
+        "information": "The sentence needs \"information\", the word-family form that fits this position. The completed sentence is: The website has useful information after the reminder email.",
+        "inform": "\"inform\" is related to \"inform\", but it does not fit the grammar of this sentence.",
+        "informed": "\"informed\" is related to \"inform\", but it does not fit the grammar of this sentence.",
+        "informing": "\"informing\" is related to \"inform\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3992",
+      "level": "A2",
+      "setupText": "The words are from the same family.",
+      "taskText": "Good ___ made the trip easier during the workshop.",
+      "options": [
+        "preparation",
+        "prepare",
+        "prepared",
+        "preparing"
+      ],
+      "answer": "preparation",
+      "explanation": "The sentence needs \"preparation\", the word-family form that fits this position. The completed sentence is: Good preparation made the trip easier during the workshop.",
+      "rationales": {
+        "preparation": "The sentence needs \"preparation\", the word-family form that fits this position. The completed sentence is: Good preparation made the trip easier during the workshop.",
+        "prepare": "\"prepare\" is related to \"prepare\", but it does not fit the grammar of this sentence.",
+        "prepared": "\"prepared\" is related to \"prepare\", but it does not fit the grammar of this sentence.",
+        "preparing": "\"preparing\" is related to \"prepare\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3993",
+      "level": "A2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The hotel lost our ___ for the online task.",
+      "options": [
+        "reservation",
+        "reserve",
+        "reserved",
+        "reserving"
+      ],
+      "answer": "reservation",
+      "explanation": "The sentence needs \"reservation\", the word-family form that fits this position. The completed sentence is: The hotel lost our reservation for the online task.",
+      "rationales": {
+        "reservation": "The sentence needs \"reservation\", the word-family form that fits this position. The completed sentence is: The hotel lost our reservation for the online task.",
+        "reserve": "\"reserve\" is related to \"reserve\", but it does not fit the grammar of this sentence.",
+        "reserved": "\"reserved\" is related to \"reserve\", but it does not fit the grammar of this sentence.",
+        "reserving": "\"reserving\" is related to \"reserve\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3994",
+      "level": "A2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The sudden ___ changed our plans at the language center.",
+      "options": [
+        "cancellation",
+        "cancel",
+        "cancelled",
+        "cancelling"
+      ],
+      "answer": "cancellation",
+      "explanation": "The sentence needs \"cancellation\", the word-family form that fits this position. The completed sentence is: The sudden cancellation changed our plans at the language center.",
+      "rationales": {
+        "cancellation": "The sentence needs \"cancellation\", the word-family form that fits this position. The completed sentence is: The sudden cancellation changed our plans at the language center.",
+        "cancel": "\"cancel\" is related to \"cancel\", but it does not fit the grammar of this sentence.",
+        "cancelled": "\"cancelled\" is related to \"cancel\", but it does not fit the grammar of this sentence.",
+        "cancelling": "\"cancelling\" is related to \"cancel\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3995",
+      "level": "A2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "Online ___ closes tonight before the review quiz.",
+      "options": [
+        "registration",
+        "register",
+        "registered",
+        "registering"
+      ],
+      "answer": "registration",
+      "explanation": "The sentence needs \"registration\", the word-family form that fits this position. The completed sentence is: Online registration closes tonight before the review quiz.",
+      "rationales": {
+        "registration": "The sentence needs \"registration\", the word-family form that fits this position. The completed sentence is: Online registration closes tonight before the review quiz.",
+        "register": "\"register\" is related to \"register\", but it does not fit the grammar of this sentence.",
+        "registered": "\"registered\" is related to \"register\", but it does not fit the grammar of this sentence.",
+        "registering": "\"registering\" is related to \"register\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3996",
+      "level": "A2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The event needs better ___ on the notice board.",
+      "options": [
+        "organization",
+        "organize",
+        "organized",
+        "organizing"
+      ],
+      "answer": "organization",
+      "explanation": "The sentence needs \"organization\", the word-family form that fits this position. The completed sentence is: The event needs better organization on the notice board.",
+      "rationales": {
+        "organization": "The sentence needs \"organization\", the word-family form that fits this position. The completed sentence is: The event needs better organization on the notice board.",
+        "organize": "\"organize\" is related to \"organize\", but it does not fit the grammar of this sentence.",
+        "organized": "\"organized\" is related to \"organize\", but it does not fit the grammar of this sentence.",
+        "organizing": "\"organizing\" is related to \"organize\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3997",
+      "level": "A2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The ___ arrived before lunch after reading the guide.",
+      "options": [
+        "delivery",
+        "deliver",
+        "delivered",
+        "delivering"
+      ],
+      "answer": "delivery",
+      "explanation": "The sentence needs \"delivery\", the word-family form that fits this position. The completed sentence is: The delivery arrived before lunch after reading the guide.",
+      "rationales": {
+        "delivery": "The sentence needs \"delivery\", the word-family form that fits this position. The completed sentence is: The delivery arrived before lunch after reading the guide.",
+        "deliver": "\"deliver\" is related to \"deliver\", but it does not fit the grammar of this sentence.",
+        "delivered": "\"delivered\" is related to \"deliver\", but it does not fit the grammar of this sentence.",
+        "delivering": "\"delivering\" is related to \"deliver\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3998",
+      "level": "A2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "Students need ___ to leave early near the office door.",
+      "options": [
+        "permission",
+        "permit",
+        "permitted",
+        "permitting"
+      ],
+      "answer": "permission",
+      "explanation": "The sentence needs \"permission\", the word-family form that fits this position. The completed sentence is: Students need permission to leave early near the office door.",
+      "rationales": {
+        "permission": "The sentence needs \"permission\", the word-family form that fits this position. The completed sentence is: Students need permission to leave early near the office door.",
+        "permit": "\"permit\" is related to \"permit\", but it does not fit the grammar of this sentence.",
+        "permitted": "\"permitted\" is related to \"permit\", but it does not fit the grammar of this sentence.",
+        "permitting": "\"permitting\" is related to \"permit\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-3999",
+      "level": "A2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The ___ of forms begins at noon during pair practice.",
+      "options": [
+        "collection",
+        "collect",
+        "collected",
+        "collecting"
+      ],
+      "answer": "collection",
+      "explanation": "The sentence needs \"collection\", the word-family form that fits this position. The completed sentence is: The collection of forms begins at noon during pair practice.",
+      "rationales": {
+        "collection": "The sentence needs \"collection\", the word-family form that fits this position. The completed sentence is: The collection of forms begins at noon during pair practice.",
+        "collect": "\"collect\" is related to \"collect\", but it does not fit the grammar of this sentence.",
+        "collected": "\"collected\" is related to \"collect\", but it does not fit the grammar of this sentence.",
+        "collecting": "\"collecting\" is related to \"collect\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-a2-4000",
+      "level": "A2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The ___ took two days before the form is submitted.",
+      "options": [
+        "translation",
+        "translate",
+        "translated",
+        "translating"
+      ],
+      "answer": "translation",
+      "explanation": "The sentence needs \"translation\", the word-family form that fits this position. The completed sentence is: The translation took two days before the form is submitted.",
+      "rationales": {
+        "translation": "The sentence needs \"translation\", the word-family form that fits this position. The completed sentence is: The translation took two days before the form is submitted.",
+        "translate": "\"translate\" is related to \"translate\", but it does not fit the grammar of this sentence.",
+        "translated": "\"translated\" is related to \"translate\", but it does not fit the grammar of this sentence.",
+        "translating": "\"translating\" is related to \"translate\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4001",
+      "level": "B1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The ___ of the number matters for the orientation group.",
+      "options": [
+        "accuracy",
+        "accurate",
+        "accurately",
+        "inaccurate"
+      ],
+      "answer": "accuracy",
+      "explanation": "The sentence needs \"accuracy\", the word-family form that fits this position. The completed sentence is: The accuracy of the number matters for the orientation group.",
+      "rationales": {
+        "accuracy": "The sentence needs \"accuracy\", the word-family form that fits this position. The completed sentence is: The accuracy of the number matters for the orientation group.",
+        "accurate": "\"accurate\" is related to \"accurate\", but it does not fit the grammar of this sentence.",
+        "accurately": "\"accurately\" is related to \"accurate\", but it does not fit the grammar of this sentence.",
+        "inaccurate": "\"inaccurate\" is related to \"accurate\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4002",
+      "level": "B1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "Practice builds ___ during the staff meeting.",
+      "options": [
+        "confidence",
+        "confident",
+        "confidently",
+        "confide"
+      ],
+      "answer": "confidence",
+      "explanation": "The sentence needs \"confidence\", the word-family form that fits this position. The completed sentence is: Practice builds confidence during the staff meeting.",
+      "rationales": {
+        "confidence": "The sentence needs \"confidence\", the word-family form that fits this position. The completed sentence is: Practice builds confidence during the staff meeting.",
+        "confident": "\"confident\" is related to \"confident\", but it does not fit the grammar of this sentence.",
+        "confidently": "\"confidently\" is related to \"confident\", but it does not fit the grammar of this sentence.",
+        "confide": "\"confide\" is related to \"confident\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4003",
+      "level": "B1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The team discussed one ___ before the client call.",
+      "options": [
+        "possibility",
+        "possible",
+        "possibly",
+        "possibilities"
+      ],
+      "answer": "possibility",
+      "explanation": "The sentence needs \"possibility\", the word-family form that fits this position. The completed sentence is: The team discussed one possibility before the client call.",
+      "rationales": {
+        "possibility": "The sentence needs \"possibility\", the word-family form that fits this position. The completed sentence is: The team discussed one possibility before the client call.",
+        "possible": "\"possible\" is related to \"possible\", but it does not fit the grammar of this sentence.",
+        "possibly": "\"possibly\" is related to \"possible\", but it does not fit the grammar of this sentence.",
+        "possibilities": "\"possibilities\" is related to \"possible\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4004",
+      "level": "B1",
+      "setupText": "The words are from the same family.",
+      "taskText": "Each worker has a ___ in the course update.",
+      "options": [
+        "responsibility",
+        "responsible",
+        "responsibly",
+        "responsibilities"
+      ],
+      "answer": "responsibility",
+      "explanation": "The sentence needs \"responsibility\", the word-family form that fits this position. The completed sentence is: Each worker has a responsibility in the course update.",
+      "rationales": {
+        "responsibility": "The sentence needs \"responsibility\", the word-family form that fits this position. The completed sentence is: Each worker has a responsibility in the course update.",
+        "responsible": "\"responsible\" is related to \"responsible\", but it does not fit the grammar of this sentence.",
+        "responsibly": "\"responsibly\" is related to \"responsible\", but it does not fit the grammar of this sentence.",
+        "responsibilities": "\"responsibilities\" is related to \"responsible\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4005",
+      "level": "B1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The project was a ___ after the schedule change.",
+      "options": [
+        "success",
+        "successful",
+        "successfully",
+        "succeed"
+      ],
+      "answer": "success",
+      "explanation": "The sentence needs \"success\", the word-family form that fits this position. The completed sentence is: The project was a success after the schedule change.",
+      "rationales": {
+        "success": "The sentence needs \"success\", the word-family form that fits this position. The completed sentence is: The project was a success after the schedule change.",
+        "successful": "\"successful\" is related to \"successful\", but it does not fit the grammar of this sentence.",
+        "successfully": "\"successfully\" is related to \"successful\", but it does not fit the grammar of this sentence.",
+        "succeed": "\"succeed\" is related to \"successful\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4006",
+      "level": "B1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "Worker ___ is important during the safety briefing.",
+      "options": [
+        "safety",
+        "safe",
+        "safely",
+        "safer"
+      ],
+      "answer": "safety",
+      "explanation": "The sentence needs \"safety\", the word-family form that fits this position. The completed sentence is: Worker safety is important during the safety briefing.",
+      "rationales": {
+        "safety": "The sentence needs \"safety\", the word-family form that fits this position. The completed sentence is: Worker safety is important during the safety briefing.",
+        "safe": "\"safe\" is related to \"safe\", but it does not fit the grammar of this sentence.",
+        "safely": "\"safely\" is related to \"safe\", but it does not fit the grammar of this sentence.",
+        "safer": "\"safer\" is related to \"safe\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4007",
+      "level": "B1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "Daily practice improves ___ for the department update.",
+      "options": [
+        "fluency",
+        "fluent",
+        "fluently",
+        "influence"
+      ],
+      "answer": "fluency",
+      "explanation": "The sentence needs \"fluency\", the word-family form that fits this position. The completed sentence is: Daily practice improves fluency for the department update.",
+      "rationales": {
+        "fluency": "The sentence needs \"fluency\", the word-family form that fits this position. The completed sentence is: Daily practice improves fluency for the department update.",
+        "fluent": "\"fluent\" is related to \"fluent\", but it does not fit the grammar of this sentence.",
+        "fluently": "\"fluently\" is related to \"fluent\", but it does not fit the grammar of this sentence.",
+        "influence": "\"influence\" is related to \"fluent\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4008",
+      "level": "B1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The long line tested our ___ before the application review.",
+      "options": [
+        "patience",
+        "patient",
+        "patiently",
+        "patients"
+      ],
+      "answer": "patience",
+      "explanation": "The sentence needs \"patience\", the word-family form that fits this position. The completed sentence is: The long line tested our patience before the application review.",
+      "rationales": {
+        "patience": "The sentence needs \"patience\", the word-family form that fits this position. The completed sentence is: The long line tested our patience before the application review.",
+        "patient": "\"patient\" is related to \"patient\", but it does not fit the grammar of this sentence.",
+        "patiently": "\"patiently\" is related to \"patient\", but it does not fit the grammar of this sentence.",
+        "patients": "\"patients\" is related to \"patient\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4009",
+      "level": "B1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The evening ___ starts at six in the weekly summary.",
+      "options": [
+        "activity",
+        "active",
+        "actively",
+        "activate"
+      ],
+      "answer": "activity",
+      "explanation": "The sentence needs \"activity\", the word-family form that fits this position. The completed sentence is: The evening activity starts at six in the weekly summary.",
+      "rationales": {
+        "activity": "The sentence needs \"activity\", the word-family form that fits this position. The completed sentence is: The evening activity starts at six in the weekly summary.",
+        "active": "\"active\" is related to \"active\", but it does not fit the grammar of this sentence.",
+        "actively": "\"actively\" is related to \"active\", but it does not fit the grammar of this sentence.",
+        "activate": "\"activate\" is related to \"active\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4010",
+      "level": "B1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The email lacked ___ after the survey closed.",
+      "options": [
+        "clarity",
+        "clear",
+        "clearly",
+        "clarify"
+      ],
+      "answer": "clarity",
+      "explanation": "The sentence needs \"clarity\", the word-family form that fits this position. The completed sentence is: The email lacked clarity after the survey closed.",
+      "rationales": {
+        "clarity": "The sentence needs \"clarity\", the word-family form that fits this position. The completed sentence is: The email lacked clarity after the survey closed.",
+        "clear": "\"clear\" is related to \"clear\", but it does not fit the grammar of this sentence.",
+        "clearly": "\"clearly\" is related to \"clear\", but it does not fit the grammar of this sentence.",
+        "clarify": "\"clarify\" is related to \"clear\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4011",
+      "level": "B1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The practice test measures reading ___.",
+      "options": [
+        "ability",
+        "able",
+        "ably",
+        "enable"
+      ],
+      "answer": "ability",
+      "explanation": "The sentence needs \"ability\", the word-family form that fits this position. The completed sentence is: The practice test measures reading ability.",
+      "rationales": {
+        "ability": "The sentence needs \"ability\", the word-family form that fits this position. The completed sentence is: The practice test measures reading ability.",
+        "able": "\"able\" is related to \"able\", but it does not fit the grammar of this sentence.",
+        "ably": "\"ably\" is related to \"able\", but it does not fit the grammar of this sentence.",
+        "enable": "\"enable\" is related to \"able\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4012",
+      "level": "B1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The project encouraged ___ in the supervisor's email.",
+      "options": [
+        "creativity",
+        "creative",
+        "creatively",
+        "create"
+      ],
+      "answer": "creativity",
+      "explanation": "The sentence needs \"creativity\", the word-family form that fits this position. The completed sentence is: The project encouraged creativity in the supervisor's email.",
+      "rationales": {
+        "creativity": "The sentence needs \"creativity\", the word-family form that fits this position. The completed sentence is: The project encouraged creativity in the supervisor's email.",
+        "creative": "\"creative\" is related to \"creative\", but it does not fit the grammar of this sentence.",
+        "creatively": "\"creatively\" is related to \"creative\", but it does not fit the grammar of this sentence.",
+        "create": "\"create\" is related to \"creative\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4013",
+      "level": "B1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The test-prep teacher valued his ___.",
+      "options": [
+        "honesty",
+        "honest",
+        "honestly",
+        "dishonest"
+      ],
+      "answer": "honesty",
+      "explanation": "The sentence needs \"honesty\", the word-family form that fits this position. The completed sentence is: The test-prep teacher valued his honesty.",
+      "rationales": {
+        "honesty": "The sentence needs \"honesty\", the word-family form that fits this position. The completed sentence is: The test-prep teacher valued his honesty.",
+        "honest": "\"honest\" is related to \"honest\", but it does not fit the grammar of this sentence.",
+        "honestly": "\"honestly\" is related to \"honest\", but it does not fit the grammar of this sentence.",
+        "dishonest": "\"dishonest\" is related to \"honest\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4014",
+      "level": "B1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The course gained ___ quickly in the student handbook.",
+      "options": [
+        "popularity",
+        "popular",
+        "popularly",
+        "populate"
+      ],
+      "answer": "popularity",
+      "explanation": "The sentence needs \"popularity\", the word-family form that fits this position. The completed sentence is: The course gained popularity quickly in the student handbook.",
+      "rationales": {
+        "popularity": "The sentence needs \"popularity\", the word-family form that fits this position. The completed sentence is: The course gained popularity quickly in the student handbook.",
+        "popular": "\"popular\" is related to \"popular\", but it does not fit the grammar of this sentence.",
+        "popularly": "\"popularly\" is related to \"popular\", but it does not fit the grammar of this sentence.",
+        "populate": "\"populate\" is related to \"popular\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4015",
+      "level": "B1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The ___ between the answers confused us after the policy reminder.",
+      "options": [
+        "similarity",
+        "similar",
+        "similarly",
+        "simulate"
+      ],
+      "answer": "similarity",
+      "explanation": "The sentence needs \"similarity\", the word-family form that fits this position. The completed sentence is: The similarity between the answers confused us after the policy reminder.",
+      "rationales": {
+        "similarity": "The sentence needs \"similarity\", the word-family form that fits this position. The completed sentence is: The similarity between the answers confused us after the policy reminder.",
+        "similar": "\"similar\" is related to \"similar\", but it does not fit the grammar of this sentence.",
+        "similarly": "\"similarly\" is related to \"similar\", but it does not fit the grammar of this sentence.",
+        "simulate": "\"simulate\" is related to \"similar\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4016",
+      "level": "B1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The final task caused some ___ during the support call.",
+      "options": [
+        "difficulty",
+        "difficult",
+        "difficultly",
+        "differ"
+      ],
+      "answer": "difficulty",
+      "explanation": "The sentence needs \"difficulty\", the word-family form that fits this position. The completed sentence is: The final task caused some difficulty during the support call.",
+      "rationales": {
+        "difficulty": "The sentence needs \"difficulty\", the word-family form that fits this position. The completed sentence is: The final task caused some difficulty during the support call.",
+        "difficult": "\"difficult\" is related to \"difficult\", but it does not fit the grammar of this sentence.",
+        "difficultly": "\"difficultly\" is related to \"difficult\", but it does not fit the grammar of this sentence.",
+        "differ": "\"differ\" is related to \"difficult\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4017",
+      "level": "B1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The program encourages learner ___ for the training session.",
+      "options": [
+        "independence",
+        "independent",
+        "independently",
+        "depend"
+      ],
+      "answer": "independence",
+      "explanation": "The sentence needs \"independence\", the word-family form that fits this position. The completed sentence is: The program encourages learner independence for the training session.",
+      "rationales": {
+        "independence": "The sentence needs \"independence\", the word-family form that fits this position. The completed sentence is: The program encourages learner independence for the training session.",
+        "independent": "\"independent\" is related to \"independent\", but it does not fit the grammar of this sentence.",
+        "independently": "\"independently\" is related to \"independent\", but it does not fit the grammar of this sentence.",
+        "depend": "\"depend\" is related to \"independent\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4018",
+      "level": "B1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The speaker stressed the ___ of practice before the documents are filed.",
+      "options": [
+        "importance",
+        "important",
+        "importantly",
+        "import"
+      ],
+      "answer": "importance",
+      "explanation": "The sentence needs \"importance\", the word-family form that fits this position. The completed sentence is: The speaker stressed the importance of practice before the documents are filed.",
+      "rationales": {
+        "importance": "The sentence needs \"importance\", the word-family form that fits this position. The completed sentence is: The speaker stressed the importance of practice before the documents are filed.",
+        "important": "\"important\" is related to \"important\", but it does not fit the grammar of this sentence.",
+        "importantly": "\"importantly\" is related to \"important\", but it does not fit the grammar of this sentence.",
+        "import": "\"import\" is related to \"important\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4019",
+      "level": "B1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The ___ between the forms is small in the project checklist.",
+      "options": [
+        "difference",
+        "different",
+        "differently",
+        "differ"
+      ],
+      "answer": "difference",
+      "explanation": "The sentence needs \"difference\", the word-family form that fits this position. The completed sentence is: The difference between the forms is small in the project checklist.",
+      "rationales": {
+        "difference": "The sentence needs \"difference\", the word-family form that fits this position. The completed sentence is: The difference between the forms is small in the project checklist.",
+        "different": "\"different\" is related to \"different\", but it does not fit the grammar of this sentence.",
+        "differently": "\"differently\" is related to \"different\", but it does not fit the grammar of this sentence.",
+        "differ": "\"differ\" is related to \"different\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b1-4020",
+      "level": "B1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The ___ of errors fell after training after the tutor's explanation.",
+      "options": [
+        "frequency",
+        "frequent",
+        "frequently",
+        "frequented"
+      ],
+      "answer": "frequency",
+      "explanation": "The sentence needs \"frequency\", the word-family form that fits this position. The completed sentence is: The frequency of errors fell after training after the tutor's explanation.",
+      "rationales": {
+        "frequency": "The sentence needs \"frequency\", the word-family form that fits this position. The completed sentence is: The frequency of errors fell after training after the tutor's explanation.",
+        "frequent": "\"frequent\" is related to \"frequent\", but it does not fit the grammar of this sentence.",
+        "frequently": "\"frequently\" is related to \"frequent\", but it does not fit the grammar of this sentence.",
+        "frequented": "\"frequented\" is related to \"frequent\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4021",
+      "level": "B2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The ___ took two weeks for the audit file.",
+      "options": [
+        "analysis",
+        "analyze",
+        "analytical",
+        "analyzing"
+      ],
+      "answer": "analysis",
+      "explanation": "The sentence needs \"analysis\", the word-family form that fits this position. The completed sentence is: The analysis took two weeks for the audit file.",
+      "rationales": {
+        "analysis": "The sentence needs \"analysis\", the word-family form that fits this position. The completed sentence is: The analysis took two weeks for the audit file.",
+        "analyze": "\"analyze\" is related to \"analyze\", but it does not fit the grammar of this sentence.",
+        "analytical": "\"analytical\" is related to \"analyze\", but it does not fit the grammar of this sentence.",
+        "analyzing": "\"analyzing\" is related to \"analyze\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4022",
+      "level": "B2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The course requires regular ___ during the policy review.",
+      "options": [
+        "participation",
+        "participate",
+        "participant",
+        "participating"
+      ],
+      "answer": "participation",
+      "explanation": "The sentence needs \"participation\", the word-family form that fits this position. The completed sentence is: The course requires regular participation during the policy review.",
+      "rationales": {
+        "participation": "The sentence needs \"participation\", the word-family form that fits this position. The completed sentence is: The course requires regular participation during the policy review.",
+        "participate": "\"participate\" is related to \"participate\", but it does not fit the grammar of this sentence.",
+        "participant": "\"participant\" is related to \"participate\", but it does not fit the grammar of this sentence.",
+        "participating": "\"participating\" is related to \"participate\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4023",
+      "level": "B2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The ___ was incorrect before the budget meeting.",
+      "options": [
+        "calculation",
+        "calculate",
+        "calculated",
+        "calculating"
+      ],
+      "answer": "calculation",
+      "explanation": "The sentence needs \"calculation\", the word-family form that fits this position. The completed sentence is: The calculation was incorrect before the budget meeting.",
+      "rationales": {
+        "calculation": "The sentence needs \"calculation\", the word-family form that fits this position. The completed sentence is: The calculation was incorrect before the budget meeting.",
+        "calculate": "\"calculate\" is related to \"calculate\", but it does not fit the grammar of this sentence.",
+        "calculated": "\"calculated\" is related to \"calculate\", but it does not fit the grammar of this sentence.",
+        "calculating": "\"calculating\" is related to \"calculate\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4024",
+      "level": "B2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The plan needs official ___ in the manager's briefing.",
+      "options": [
+        "approval",
+        "approve",
+        "approved",
+        "approving"
+      ],
+      "answer": "approval",
+      "explanation": "The sentence needs \"approval\", the word-family form that fits this position. The completed sentence is: The plan needs official approval in the manager's briefing.",
+      "rationales": {
+        "approval": "The sentence needs \"approval\", the word-family form that fits this position. The completed sentence is: The plan needs official approval in the manager's briefing.",
+        "approve": "\"approve\" is related to \"approve\", but it does not fit the grammar of this sentence.",
+        "approved": "\"approved\" is related to \"approve\", but it does not fit the grammar of this sentence.",
+        "approving": "\"approving\" is related to \"approve\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4025",
+      "level": "B2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The ___ was useful after the complaint review.",
+      "options": [
+        "comparison",
+        "compare",
+        "comparative",
+        "comparing"
+      ],
+      "answer": "comparison",
+      "explanation": "The sentence needs \"comparison\", the word-family form that fits this position. The completed sentence is: The comparison was useful after the complaint review.",
+      "rationales": {
+        "comparison": "The sentence needs \"comparison\", the word-family form that fits this position. The completed sentence is: The comparison was useful after the complaint review.",
+        "compare": "\"compare\" is related to \"compare\", but it does not fit the grammar of this sentence.",
+        "comparative": "\"comparative\" is related to \"compare\", but it does not fit the grammar of this sentence.",
+        "comparing": "\"comparing\" is related to \"compare\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4026",
+      "level": "B2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The final ___ mentioned two strengths during the data check.",
+      "options": [
+        "evaluation",
+        "evaluate",
+        "evaluated",
+        "evaluating"
+      ],
+      "answer": "evaluation",
+      "explanation": "The sentence needs \"evaluation\", the word-family form that fits this position. The completed sentence is: The final evaluation mentioned two strengths during the data check.",
+      "rationales": {
+        "evaluation": "The sentence needs \"evaluation\", the word-family form that fits this position. The completed sentence is: The final evaluation mentioned two strengths during the data check.",
+        "evaluate": "\"evaluate\" is related to \"evaluate\", but it does not fit the grammar of this sentence.",
+        "evaluated": "\"evaluated\" is related to \"evaluate\", but it does not fit the grammar of this sentence.",
+        "evaluating": "\"evaluating\" is related to \"evaluate\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4027",
+      "level": "B2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The ___ of materials took an hour for the training portal.",
+      "options": [
+        "distribution",
+        "distribute",
+        "distributed",
+        "distributing"
+      ],
+      "answer": "distribution",
+      "explanation": "The sentence needs \"distribution\", the word-family form that fits this position. The completed sentence is: The distribution of materials took an hour for the training portal.",
+      "rationales": {
+        "distribution": "The sentence needs \"distribution\", the word-family form that fits this position. The completed sentence is: The distribution of materials took an hour for the training portal.",
+        "distribute": "\"distribute\" is related to \"distribute\", but it does not fit the grammar of this sentence.",
+        "distributed": "\"distributed\" is related to \"distribute\", but it does not fit the grammar of this sentence.",
+        "distributing": "\"distributing\" is related to \"distribute\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4028",
+      "level": "B2",
+      "setupText": "The words are from the same family.",
+      "taskText": "Her ___ improved the project before the contract is signed.",
+      "options": [
+        "contribution",
+        "contribute",
+        "contributed",
+        "contributing"
+      ],
+      "answer": "contribution",
+      "explanation": "The sentence needs \"contribution\", the word-family form that fits this position. The completed sentence is: Her contribution improved the project before the contract is signed.",
+      "rationales": {
+        "contribution": "The sentence needs \"contribution\", the word-family form that fits this position. The completed sentence is: Her contribution improved the project before the contract is signed.",
+        "contribute": "\"contribute\" is related to \"contribute\", but it does not fit the grammar of this sentence.",
+        "contributed": "\"contributed\" is related to \"contribute\", but it does not fit the grammar of this sentence.",
+        "contributing": "\"contributing\" is related to \"contribute\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4029",
+      "level": "B2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "A small ___ solved the problem in the customer update.",
+      "options": [
+        "adjustment",
+        "adjust",
+        "adjusted",
+        "adjusting"
+      ],
+      "answer": "adjustment",
+      "explanation": "The sentence needs \"adjustment\", the word-family form that fits this position. The completed sentence is: A small adjustment solved the problem in the customer update.",
+      "rationales": {
+        "adjustment": "The sentence needs \"adjustment\", the word-family form that fits this position. The completed sentence is: A small adjustment solved the problem in the customer update.",
+        "adjust": "\"adjust\" is related to \"adjust\", but it does not fit the grammar of this sentence.",
+        "adjusted": "\"adjusted\" is related to \"adjust\", but it does not fit the grammar of this sentence.",
+        "adjusting": "\"adjusting\" is related to \"adjust\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4030",
+      "level": "B2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The new ___ starts next month after the planning call.",
+      "options": [
+        "requirement",
+        "require",
+        "required",
+        "requiring"
+      ],
+      "answer": "requirement",
+      "explanation": "The sentence needs \"requirement\", the word-family form that fits this position. The completed sentence is: The new requirement starts next month after the planning call.",
+      "rationales": {
+        "requirement": "The sentence needs \"requirement\", the word-family form that fits this position. The completed sentence is: The new requirement starts next month after the planning call.",
+        "require": "\"require\" is related to \"require\", but it does not fit the grammar of this sentence.",
+        "required": "\"required\" is related to \"require\", but it does not fit the grammar of this sentence.",
+        "requiring": "\"requiring\" is related to \"require\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4031",
+      "level": "B2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The ___ of the course took a year during the hiring process.",
+      "options": [
+        "development",
+        "develop",
+        "developed",
+        "developing"
+      ],
+      "answer": "development",
+      "explanation": "The sentence needs \"development\", the word-family form that fits this position. The completed sentence is: The development of the course took a year during the hiring process.",
+      "rationales": {
+        "development": "The sentence needs \"development\", the word-family form that fits this position. The completed sentence is: The development of the course took a year during the hiring process.",
+        "develop": "\"develop\" is related to \"develop\", but it does not fit the grammar of this sentence.",
+        "developed": "\"developed\" is related to \"develop\", but it does not fit the grammar of this sentence.",
+        "developing": "\"developing\" is related to \"develop\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4032",
+      "level": "B2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The ___ found three errors for the project dashboard.",
+      "options": [
+        "investigation",
+        "investigate",
+        "investigated",
+        "investigating"
+      ],
+      "answer": "investigation",
+      "explanation": "The sentence needs \"investigation\", the word-family form that fits this position. The completed sentence is: The investigation found three errors for the project dashboard.",
+      "rationales": {
+        "investigation": "The sentence needs \"investigation\", the word-family form that fits this position. The completed sentence is: The investigation found three errors for the project dashboard.",
+        "investigate": "\"investigate\" is related to \"investigate\", but it does not fit the grammar of this sentence.",
+        "investigated": "\"investigated\" is related to \"investigate\", but it does not fit the grammar of this sentence.",
+        "investigating": "\"investigating\" is related to \"investigate\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4033",
+      "level": "B2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The written ___ included a budget before the board discussion.",
+      "options": [
+        "proposal",
+        "propose",
+        "proposed",
+        "proposing"
+      ],
+      "answer": "proposal",
+      "explanation": "The sentence needs \"proposal\", the word-family form that fits this position. The completed sentence is: The written proposal included a budget before the board discussion.",
+      "rationales": {
+        "proposal": "The sentence needs \"proposal\", the word-family form that fits this position. The completed sentence is: The written proposal included a budget before the board discussion.",
+        "propose": "\"propose\" is related to \"propose\", but it does not fit the grammar of this sentence.",
+        "proposed": "\"proposed\" is related to \"propose\", but it does not fit the grammar of this sentence.",
+        "proposing": "\"proposing\" is related to \"propose\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4034",
+      "level": "B2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The ___ measured listening skills under the revised procedure.",
+      "options": [
+        "assessment",
+        "assess",
+        "assessed",
+        "assessing"
+      ],
+      "answer": "assessment",
+      "explanation": "The sentence needs \"assessment\", the word-family form that fits this position. The completed sentence is: The assessment measured listening skills under the revised procedure.",
+      "rationales": {
+        "assessment": "The sentence needs \"assessment\", the word-family form that fits this position. The completed sentence is: The assessment measured listening skills under the revised procedure.",
+        "assess": "\"assess\" is related to \"assess\", but it does not fit the grammar of this sentence.",
+        "assessed": "\"assessed\" is related to \"assess\", but it does not fit the grammar of this sentence.",
+        "assessing": "\"assessing\" is related to \"assess\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4035",
+      "level": "B2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "Her ___ of the chart was careful after the service report.",
+      "options": [
+        "interpretation",
+        "interpret",
+        "interpreted",
+        "interpreting"
+      ],
+      "answer": "interpretation",
+      "explanation": "The sentence needs \"interpretation\", the word-family form that fits this position. The completed sentence is: Her interpretation of the chart was careful after the service report.",
+      "rationales": {
+        "interpretation": "The sentence needs \"interpretation\", the word-family form that fits this position. The completed sentence is: Her interpretation of the chart was careful after the service report.",
+        "interpret": "\"interpret\" is related to \"interpret\", but it does not fit the grammar of this sentence.",
+        "interpreted": "\"interpreted\" is related to \"interpret\", but it does not fit the grammar of this sentence.",
+        "interpreting": "\"interpreting\" is related to \"interpret\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4036",
+      "level": "B2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The first ___ arrived by email during the operations review.",
+      "options": [
+        "response",
+        "respond",
+        "responded",
+        "responding"
+      ],
+      "answer": "response",
+      "explanation": "The sentence needs \"response\", the word-family form that fits this position. The completed sentence is: The first response arrived by email during the operations review.",
+      "rationales": {
+        "response": "The sentence needs \"response\", the word-family form that fits this position. The completed sentence is: The first response arrived by email during the operations review.",
+        "respond": "\"respond\" is related to \"respond\", but it does not fit the grammar of this sentence.",
+        "responded": "\"responded\" is related to \"respond\", but it does not fit the grammar of this sentence.",
+        "responding": "\"responding\" is related to \"respond\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4037",
+      "level": "B2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The online ___ took fifteen minutes for the quarterly summary.",
+      "options": [
+        "application",
+        "apply",
+        "applied",
+        "applying"
+      ],
+      "answer": "application",
+      "explanation": "The sentence needs \"application\", the word-family form that fits this position. The completed sentence is: The online application took fifteen minutes for the quarterly summary.",
+      "rationales": {
+        "application": "The sentence needs \"application\", the word-family form that fits this position. The completed sentence is: The online application took fifteen minutes for the quarterly summary.",
+        "apply": "\"apply\" is related to \"apply\", but it does not fit the grammar of this sentence.",
+        "applied": "\"applied\" is related to \"apply\", but it does not fit the grammar of this sentence.",
+        "applying": "\"applying\" is related to \"apply\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4038",
+      "level": "B2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "Regular ___ keeps the system reliable before the compliance check.",
+      "options": [
+        "maintenance",
+        "maintain",
+        "maintained",
+        "maintaining"
+      ],
+      "answer": "maintenance",
+      "explanation": "The sentence needs \"maintenance\", the word-family form that fits this position. The completed sentence is: Regular maintenance keeps the system reliable before the compliance check.",
+      "rationales": {
+        "maintenance": "The sentence needs \"maintenance\", the word-family form that fits this position. The completed sentence is: Regular maintenance keeps the system reliable before the compliance check.",
+        "maintain": "\"maintain\" is related to \"maintain\", but it does not fit the grammar of this sentence.",
+        "maintained": "\"maintained\" is related to \"maintain\", but it does not fit the grammar of this sentence.",
+        "maintaining": "\"maintaining\" is related to \"maintain\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4039",
+      "level": "B2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The ___ helped clarify the policy in the evaluation memo.",
+      "options": [
+        "consultation",
+        "consult",
+        "consulted",
+        "consulting"
+      ],
+      "answer": "consultation",
+      "explanation": "The sentence needs \"consultation\", the word-family form that fits this position. The completed sentence is: The consultation helped clarify the policy in the evaluation memo.",
+      "rationales": {
+        "consultation": "The sentence needs \"consultation\", the word-family form that fits this position. The completed sentence is: The consultation helped clarify the policy in the evaluation memo.",
+        "consult": "\"consult\" is related to \"consult\", but it does not fit the grammar of this sentence.",
+        "consulted": "\"consulted\" is related to \"consult\", but it does not fit the grammar of this sentence.",
+        "consulting": "\"consulting\" is related to \"consult\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-b2-4040",
+      "level": "B2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The final ___ corrected the examples after the final interview.",
+      "options": [
+        "revision",
+        "revise",
+        "revised",
+        "revising"
+      ],
+      "answer": "revision",
+      "explanation": "The sentence needs \"revision\", the word-family form that fits this position. The completed sentence is: The final revision corrected the examples after the final interview.",
+      "rationales": {
+        "revision": "The sentence needs \"revision\", the word-family form that fits this position. The completed sentence is: The final revision corrected the examples after the final interview.",
+        "revise": "\"revise\" is related to \"revise\", but it does not fit the grammar of this sentence.",
+        "revised": "\"revised\" is related to \"revise\", but it does not fit the grammar of this sentence.",
+        "revising": "\"revising\" is related to \"revise\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4041",
+      "level": "C1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The study questioned the spelling test's ___.",
+      "options": [
+        "validity",
+        "valid",
+        "validly",
+        "validate"
+      ],
+      "answer": "validity",
+      "explanation": "The sentence needs \"validity\", the word-family form that fits this position. The completed sentence is: The study questioned the spelling test's validity.",
+      "rationales": {
+        "validity": "The sentence needs \"validity\", the word-family form that fits this position. The completed sentence is: The study questioned the spelling test's validity.",
+        "valid": "\"valid\" is related to \"valid\", but it does not fit the grammar of this sentence.",
+        "validly": "\"validly\" is related to \"valid\", but it does not fit the grammar of this sentence.",
+        "validate": "\"validate\" is related to \"valid\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4042",
+      "level": "C1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The evening teacher explained the detail's ___.",
+      "options": [
+        "relevance",
+        "relevant",
+        "relevantly",
+        "relate"
+      ],
+      "answer": "relevance",
+      "explanation": "The sentence needs \"relevance\", the word-family form that fits this position. The completed sentence is: The evening teacher explained the detail's relevance.",
+      "rationales": {
+        "relevance": "The sentence needs \"relevance\", the word-family form that fits this position. The completed sentence is: The evening teacher explained the detail's relevance.",
+        "relevant": "\"relevant\" is related to \"relevant\", but it does not fit the grammar of this sentence.",
+        "relevantly": "\"relevantly\" is related to \"relevant\", but it does not fit the grammar of this sentence.",
+        "relate": "\"relate\" is related to \"relevant\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4043",
+      "level": "C1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The essay lacked ___ during the stakeholder meeting.",
+      "options": [
+        "coherence",
+        "coherent",
+        "coherently",
+        "cohere"
+      ],
+      "answer": "coherence",
+      "explanation": "The sentence needs \"coherence\", the word-family form that fits this position. The completed sentence is: The essay lacked coherence during the stakeholder meeting.",
+      "rationales": {
+        "coherence": "The sentence needs \"coherence\", the word-family form that fits this position. The completed sentence is: The essay lacked coherence during the stakeholder meeting.",
+        "coherent": "\"coherent\" is related to \"coherent\", but it does not fit the grammar of this sentence.",
+        "coherently": "\"coherently\" is related to \"coherent\", but it does not fit the grammar of this sentence.",
+        "cohere": "\"cohere\" is related to \"coherent\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4044",
+      "level": "C1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The process's ___ improved after the change before the recommendation is issued.",
+      "options": [
+        "efficiency",
+        "efficient",
+        "efficiently",
+        "expedite"
+      ],
+      "answer": "efficiency",
+      "explanation": "The sentence needs \"efficiency\", the word-family form that fits this position. The completed sentence is: The process's efficiency improved after the change before the recommendation is issued.",
+      "rationales": {
+        "efficiency": "The sentence needs \"efficiency\", the word-family form that fits this position. The completed sentence is: The process's efficiency improved after the change before the recommendation is issued.",
+        "efficient": "\"efficient\" is related to \"efficient\", but it does not fit the grammar of this sentence.",
+        "efficiently": "\"efficiently\" is related to \"efficient\", but it does not fit the grammar of this sentence.",
+        "expedite": "\"expedite\" is related to \"efficient\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4045",
+      "level": "C1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The data showed strong ___ after the evidence is compared.",
+      "options": [
+        "consistency",
+        "consistent",
+        "consistently",
+        "consisting"
+      ],
+      "answer": "consistency",
+      "explanation": "The sentence needs \"consistency\", the word-family form that fits this position. The completed sentence is: The data showed strong consistency after the evidence is compared.",
+      "rationales": {
+        "consistency": "The sentence needs \"consistency\", the word-family form that fits this position. The completed sentence is: The data showed strong consistency after the evidence is compared.",
+        "consistent": "\"consistent\" is related to \"consistent\", but it does not fit the grammar of this sentence.",
+        "consistently": "\"consistently\" is related to \"consistent\", but it does not fit the grammar of this sentence.",
+        "consisting": "\"consisting\" is related to \"consistent\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4046",
+      "level": "C1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The witness's ___ was questioned during the compliance review.",
+      "options": [
+        "credibility",
+        "credible",
+        "credibly",
+        "credit"
+      ],
+      "answer": "credibility",
+      "explanation": "The sentence needs \"credibility\", the word-family form that fits this position. The completed sentence is: The witness's credibility was questioned during the compliance review.",
+      "rationales": {
+        "credibility": "The sentence needs \"credibility\", the word-family form that fits this position. The completed sentence is: The witness's credibility was questioned during the compliance review.",
+        "credible": "\"credible\" is related to \"credible\", but it does not fit the grammar of this sentence.",
+        "credibly": "\"credibly\" is related to \"credible\", but it does not fit the grammar of this sentence.",
+        "credit": "\"credit\" is related to \"credible\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4047",
+      "level": "C1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The survey's ___ improved after piloting on the evaluation form.",
+      "options": [
+        "reliability",
+        "reliable",
+        "reliably",
+        "rely"
+      ],
+      "answer": "reliability",
+      "explanation": "The sentence needs \"reliability\", the word-family form that fits this position. The completed sentence is: The survey's reliability improved after piloting on the evaluation form.",
+      "rationales": {
+        "reliability": "The sentence needs \"reliability\", the word-family form that fits this position. The completed sentence is: The survey's reliability improved after piloting on the evaluation form.",
+        "reliable": "\"reliable\" is related to \"reliable\", but it does not fit the grammar of this sentence.",
+        "reliably": "\"reliably\" is related to \"reliable\", but it does not fit the grammar of this sentence.",
+        "rely": "\"rely\" is related to \"reliable\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4048",
+      "level": "C1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The process lacked ___ after the pilot program.",
+      "options": [
+        "transparency",
+        "transparent",
+        "transparently",
+        "transpire"
+      ],
+      "answer": "transparency",
+      "explanation": "The sentence needs \"transparency\", the word-family form that fits this position. The completed sentence is: The process lacked transparency after the pilot program.",
+      "rationales": {
+        "transparency": "The sentence needs \"transparency\", the word-family form that fits this position. The completed sentence is: The process lacked transparency after the pilot program.",
+        "transparent": "\"transparent\" is related to \"transparent\", but it does not fit the grammar of this sentence.",
+        "transparently": "\"transparently\" is related to \"transparent\", but it does not fit the grammar of this sentence.",
+        "transpire": "\"transpire\" is related to \"transparent\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4049",
+      "level": "C1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The team tested the plan's ___ before the findings are published.",
+      "options": [
+        "feasibility",
+        "feasible",
+        "feasibly",
+        "feature"
+      ],
+      "answer": "feasibility",
+      "explanation": "The sentence needs \"feasibility\", the word-family form that fits this position. The completed sentence is: The team tested the plan's feasibility before the findings are published.",
+      "rationales": {
+        "feasibility": "The sentence needs \"feasibility\", the word-family form that fits this position. The completed sentence is: The team tested the plan's feasibility before the findings are published.",
+        "feasible": "\"feasible\" is related to \"feasible\", but it does not fit the grammar of this sentence.",
+        "feasibly": "\"feasibly\" is related to \"feasible\", but it does not fit the grammar of this sentence.",
+        "feature": "\"feature\" is related to \"feasible\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4050",
+      "level": "C1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The estimate requires greater ___ in the grant application.",
+      "options": [
+        "precision",
+        "precise",
+        "precisely",
+        "imprecise"
+      ],
+      "answer": "precision",
+      "explanation": "The sentence needs \"precision\", the word-family form that fits this position. The completed sentence is: The estimate requires greater precision in the grant application.",
+      "rationales": {
+        "precision": "The sentence needs \"precision\", the word-family form that fits this position. The completed sentence is: The estimate requires greater precision in the grant application.",
+        "precise": "\"precise\" is related to \"precise\", but it does not fit the grammar of this sentence.",
+        "precisely": "\"precisely\" is related to \"precise\", but it does not fit the grammar of this sentence.",
+        "imprecise": "\"imprecise\" is related to \"precise\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4051",
+      "level": "C1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The model's ___ made it hard to explain during the seminar discussion.",
+      "options": [
+        "complexity",
+        "complex",
+        "complexly",
+        "complicate"
+      ],
+      "answer": "complexity",
+      "explanation": "The sentence needs \"complexity\", the word-family form that fits this position. The completed sentence is: The model's complexity made it hard to explain during the seminar discussion.",
+      "rationales": {
+        "complexity": "The sentence needs \"complexity\", the word-family form that fits this position. The completed sentence is: The model's complexity made it hard to explain during the seminar discussion.",
+        "complex": "\"complex\" is related to \"complex\", but it does not fit the grammar of this sentence.",
+        "complexly": "\"complexly\" is related to \"complex\", but it does not fit the grammar of this sentence.",
+        "complicate": "\"complicate\" is related to \"complex\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4052",
+      "level": "C1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The final review aimed for ___.",
+      "options": [
+        "objectivity",
+        "objective",
+        "objectively",
+        "object"
+      ],
+      "answer": "objectivity",
+      "explanation": "The sentence needs \"objectivity\", the word-family form that fits this position. The completed sentence is: The final review aimed for objectivity.",
+      "rationales": {
+        "objectivity": "The sentence needs \"objectivity\", the word-family form that fits this position. The completed sentence is: The final review aimed for objectivity.",
+        "objective": "\"objective\" is related to \"objective\", but it does not fit the grammar of this sentence.",
+        "objectively": "\"objectively\" is related to \"objective\", but it does not fit the grammar of this sentence.",
+        "object": "\"object\" is related to \"objective\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4053",
+      "level": "C1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The system's ___ improved after repair after the interviews are coded.",
+      "options": [
+        "stability",
+        "stable",
+        "stably",
+        "stabilize"
+      ],
+      "answer": "stability",
+      "explanation": "The sentence needs \"stability\", the word-family form that fits this position. The completed sentence is: The system's stability improved after repair after the interviews are coded.",
+      "rationales": {
+        "stability": "The sentence needs \"stability\", the word-family form that fits this position. The completed sentence is: The system's stability improved after repair after the interviews are coded.",
+        "stable": "\"stable\" is related to \"stable\", but it does not fit the grammar of this sentence.",
+        "stably": "\"stably\" is related to \"stable\", but it does not fit the grammar of this sentence.",
+        "stabilize": "\"stabilize\" is related to \"stable\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4054",
+      "level": "C1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The ___ of the distinction matters before the final vote.",
+      "options": [
+        "subtlety",
+        "subtle",
+        "subtly",
+        "subtler"
+      ],
+      "answer": "subtlety",
+      "explanation": "The sentence needs \"subtlety\", the word-family form that fits this position. The completed sentence is: The subtlety of the distinction matters before the final vote.",
+      "rationales": {
+        "subtlety": "The sentence needs \"subtlety\", the word-family form that fits this position. The completed sentence is: The subtlety of the distinction matters before the final vote.",
+        "subtle": "\"subtle\" is related to \"subtle\", but it does not fit the grammar of this sentence.",
+        "subtly": "\"subtly\" is related to \"subtle\", but it does not fit the grammar of this sentence.",
+        "subtler": "\"subtler\" is related to \"subtle\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4055",
+      "level": "C1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The reviewer questioned the evidence's ___ in the appendix note.",
+      "options": [
+        "adequacy",
+        "adequate",
+        "adequately",
+        "adapt"
+      ],
+      "answer": "adequacy",
+      "explanation": "The sentence needs \"adequacy\", the word-family form that fits this position. The completed sentence is: The reviewer questioned the evidence's adequacy in the appendix note.",
+      "rationales": {
+        "adequacy": "The sentence needs \"adequacy\", the word-family form that fits this position. The completed sentence is: The reviewer questioned the evidence's adequacy in the appendix note.",
+        "adequate": "\"adequate\" is related to \"adequate\", but it does not fit the grammar of this sentence.",
+        "adequately": "\"adequately\" is related to \"adequate\", but it does not fit the grammar of this sentence.",
+        "adapt": "\"adapt\" is related to \"adequate\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4056",
+      "level": "C1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The ___ of the finding surprised the panel for the advisory brief.",
+      "options": [
+        "robustness",
+        "robust",
+        "robustly",
+        "robustnesses"
+      ],
+      "answer": "robustness",
+      "explanation": "The sentence needs \"robustness\", the word-family form that fits this position. The completed sentence is: The robustness of the finding surprised the panel for the advisory brief.",
+      "rationales": {
+        "robustness": "The sentence needs \"robustness\", the word-family form that fits this position. The completed sentence is: The robustness of the finding surprised the panel for the advisory brief.",
+        "robust": "\"robust\" is related to \"robust\", but it does not fit the grammar of this sentence.",
+        "robustly": "\"robustly\" is related to \"robust\", but it does not fit the grammar of this sentence.",
+        "robustnesses": "\"robustnesses\" is related to \"robust\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4057",
+      "level": "C1",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The proposal raised questions of ___ during the protocol review.",
+      "options": [
+        "ethics",
+        "ethical",
+        "ethically",
+        "ethicist"
+      ],
+      "answer": "ethics",
+      "explanation": "The sentence needs \"ethics\", the word-family form that fits this position. The completed sentence is: The proposal raised questions of ethics during the protocol review.",
+      "rationales": {
+        "ethics": "The sentence needs \"ethics\", the word-family form that fits this position. The completed sentence is: The proposal raised questions of ethics during the protocol review.",
+        "ethical": "\"ethical\" is related to \"ethical\", but it does not fit the grammar of this sentence.",
+        "ethically": "\"ethically\" is related to \"ethical\", but it does not fit the grammar of this sentence.",
+        "ethicist": "\"ethicist\" is related to \"ethical\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4058",
+      "level": "C1",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The study protected participant ___ on the evidence table.",
+      "options": [
+        "anonymity",
+        "anonymous",
+        "anonymously",
+        "anonymize"
+      ],
+      "answer": "anonymity",
+      "explanation": "The sentence needs \"anonymity\", the word-family form that fits this position. The completed sentence is: The study protected participant anonymity on the evidence table.",
+      "rationales": {
+        "anonymity": "The sentence needs \"anonymity\", the word-family form that fits this position. The completed sentence is: The study protected participant anonymity on the evidence table.",
+        "anonymous": "\"anonymous\" is related to \"anonymous\", but it does not fit the grammar of this sentence.",
+        "anonymously": "\"anonymously\" is related to \"anonymous\", but it does not fit the grammar of this sentence.",
+        "anonymize": "\"anonymize\" is related to \"anonymous\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4059",
+      "level": "C1",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The data showed considerable ___ before the policy draft.",
+      "options": [
+        "variability",
+        "variable",
+        "variably",
+        "vary"
+      ],
+      "answer": "variability",
+      "explanation": "The sentence needs \"variability\", the word-family form that fits this position. The completed sentence is: The data showed considerable variability before the policy draft.",
+      "rationales": {
+        "variability": "The sentence needs \"variability\", the word-family form that fits this position. The completed sentence is: The data showed considerable variability before the policy draft.",
+        "variable": "\"variable\" is related to \"variable\", but it does not fit the grammar of this sentence.",
+        "variably": "\"variably\" is related to \"variable\", but it does not fit the grammar of this sentence.",
+        "vary": "\"vary\" is related to \"variable\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c1-4060",
+      "level": "C1",
+      "setupText": "The words are from the same family.",
+      "taskText": "The result's statistical ___ was unclear in the assessment rubric.",
+      "options": [
+        "significance",
+        "significant",
+        "significantly",
+        "signify"
+      ],
+      "answer": "significance",
+      "explanation": "The sentence needs \"significance\", the word-family form that fits this position. The completed sentence is: The result's statistical significance was unclear in the assessment rubric.",
+      "rationales": {
+        "significance": "The sentence needs \"significance\", the word-family form that fits this position. The completed sentence is: The result's statistical significance was unclear in the assessment rubric.",
+        "significant": "\"significant\" is related to \"significant\", but it does not fit the grammar of this sentence.",
+        "significantly": "\"significantly\" is related to \"significant\", but it does not fit the grammar of this sentence.",
+        "signify": "\"signify\" is related to \"significant\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4061",
+      "level": "C2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The wording created ___ in the legal memorandum.",
+      "options": [
+        "ambiguity",
+        "ambiguous",
+        "ambiguously",
+        "ambiguate"
+      ],
+      "answer": "ambiguity",
+      "explanation": "The sentence needs \"ambiguity\", the word-family form that fits this position. The completed sentence is: The wording created ambiguity in the legal memorandum.",
+      "rationales": {
+        "ambiguity": "The sentence needs \"ambiguity\", the word-family form that fits this position. The completed sentence is: The wording created ambiguity in the legal memorandum.",
+        "ambiguous": "\"ambiguous\" is related to \"ambiguous\", but it does not fit the grammar of this sentence.",
+        "ambiguously": "\"ambiguously\" is related to \"ambiguous\", but it does not fit the grammar of this sentence.",
+        "ambiguate": "\"ambiguate\" is related to \"ambiguous\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4062",
+      "level": "C2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The result has one practical ___ during the evidentiary hearing.",
+      "options": [
+        "implication",
+        "imply",
+        "implied",
+        "implying"
+      ],
+      "answer": "implication",
+      "explanation": "The sentence needs \"implication\", the word-family form that fits this position. The completed sentence is: The result has one practical implication during the evidentiary hearing.",
+      "rationales": {
+        "implication": "The sentence needs \"implication\", the word-family form that fits this position. The completed sentence is: The result has one practical implication during the evidentiary hearing.",
+        "imply": "\"imply\" is related to \"imply\", but it does not fit the grammar of this sentence.",
+        "implied": "\"implied\" is related to \"imply\", but it does not fit the grammar of this sentence.",
+        "implying": "\"implying\" is related to \"imply\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4063",
+      "level": "C2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The article explains the term's ___ before the arbitration panel meets.",
+      "options": [
+        "derivation",
+        "derive",
+        "derived",
+        "deriving"
+      ],
+      "answer": "derivation",
+      "explanation": "The sentence needs \"derivation\", the word-family form that fits this position. The completed sentence is: The article explains the term's derivation before the arbitration panel meets.",
+      "rationales": {
+        "derivation": "The sentence needs \"derivation\", the word-family form that fits this position. The completed sentence is: The article explains the term's derivation before the arbitration panel meets.",
+        "derive": "\"derive\" is related to \"derive\", but it does not fit the grammar of this sentence.",
+        "derived": "\"derived\" is related to \"derive\", but it does not fit the grammar of this sentence.",
+        "deriving": "\"deriving\" is related to \"derive\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4064",
+      "level": "C2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The model depends on that ___ in the fiduciary briefing.",
+      "options": [
+        "assumption",
+        "assume",
+        "assumed",
+        "assuming"
+      ],
+      "answer": "assumption",
+      "explanation": "The sentence needs \"assumption\", the word-family form that fits this position. The completed sentence is: The model depends on that assumption in the fiduciary briefing.",
+      "rationales": {
+        "assumption": "The sentence needs \"assumption\", the word-family form that fits this position. The completed sentence is: The model depends on that assumption in the fiduciary briefing.",
+        "assume": "\"assume\" is related to \"assume\", but it does not fit the grammar of this sentence.",
+        "assumed": "\"assumed\" is related to \"assume\", but it does not fit the grammar of this sentence.",
+        "assuming": "\"assuming\" is related to \"assume\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4065",
+      "level": "C2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The final ___ was too strong after the methodological critique.",
+      "options": [
+        "inference",
+        "infer",
+        "inferred",
+        "inferring"
+      ],
+      "answer": "inference",
+      "explanation": "The sentence needs \"inference\", the word-family form that fits this position. The completed sentence is: The final inference was too strong after the methodological critique.",
+      "rationales": {
+        "inference": "The sentence needs \"inference\", the word-family form that fits this position. The completed sentence is: The final inference was too strong after the methodological critique.",
+        "infer": "\"infer\" is related to \"infer\", but it does not fit the grammar of this sentence.",
+        "inferred": "\"inferred\" is related to \"infer\", but it does not fit the grammar of this sentence.",
+        "inferring": "\"inferring\" is related to \"infer\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4066",
+      "level": "C2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The response's ___ weakened the apology before the precedent is cited.",
+      "options": [
+        "equivocation",
+        "equivocal",
+        "equivocally",
+        "equivocate"
+      ],
+      "answer": "equivocation",
+      "explanation": "The sentence needs \"equivocation\", the word-family form that fits this position. The completed sentence is: The response's equivocation weakened the apology before the precedent is cited.",
+      "rationales": {
+        "equivocation": "The sentence needs \"equivocation\", the word-family form that fits this position. The completed sentence is: The response's equivocation weakened the apology before the precedent is cited.",
+        "equivocal": "\"equivocal\" is related to \"equivocal\", but it does not fit the grammar of this sentence.",
+        "equivocally": "\"equivocally\" is related to \"equivocal\", but it does not fit the grammar of this sentence.",
+        "equivocate": "\"equivocate\" is related to \"equivocal\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4067",
+      "level": "C2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The objection has little ___ without evidence in the interpretive framework.",
+      "options": [
+        "substance",
+        "substantive",
+        "substantively",
+        "substantiate"
+      ],
+      "answer": "substance",
+      "explanation": "The sentence needs \"substance\", the word-family form that fits this position. The completed sentence is: The objection has little substance without evidence in the interpretive framework.",
+      "rationales": {
+        "substance": "The sentence needs \"substance\", the word-family form that fits this position. The completed sentence is: The objection has little substance without evidence in the interpretive framework.",
+        "substantive": "\"substantive\" is related to \"substantive\", but it does not fit the grammar of this sentence.",
+        "substantively": "\"substantively\" is related to \"substantive\", but it does not fit the grammar of this sentence.",
+        "substantiate": "\"substantiate\" is related to \"substantive\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4068",
+      "level": "C2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The contract includes a narrow ___ during the appellate review.",
+      "options": [
+        "contingency",
+        "contingent",
+        "contingently",
+        "contend"
+      ],
+      "answer": "contingency",
+      "explanation": "The sentence needs \"contingency\", the word-family form that fits this position. The completed sentence is: The contract includes a narrow contingency during the appellate review.",
+      "rationales": {
+        "contingency": "The sentence needs \"contingency\", the word-family form that fits this position. The completed sentence is: The contract includes a narrow contingency during the appellate review.",
+        "contingent": "\"contingent\" is related to \"contingent\", but it does not fit the grammar of this sentence.",
+        "contingently": "\"contingently\" is related to \"contingent\", but it does not fit the grammar of this sentence.",
+        "contend": "\"contend\" is related to \"contingent\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4069",
+      "level": "C2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The article turns to social ___ in the technical memorandum.",
+      "options": [
+        "epistemology",
+        "epistemic",
+        "epistemically",
+        "epistemologist"
+      ],
+      "answer": "epistemology",
+      "explanation": "The sentence needs \"epistemology\", the word-family form that fits this position. The completed sentence is: The article turns to social epistemology in the technical memorandum.",
+      "rationales": {
+        "epistemology": "The sentence needs \"epistemology\", the word-family form that fits this position. The completed sentence is: The article turns to social epistemology in the technical memorandum.",
+        "epistemic": "\"epistemic\" is related to \"epistemic\", but it does not fit the grammar of this sentence.",
+        "epistemically": "\"epistemically\" is related to \"epistemic\", but it does not fit the grammar of this sentence.",
+        "epistemologist": "\"epistemologist\" is related to \"epistemic\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4070",
+      "level": "C2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The debate concerns social ___ after the objections are synthesized.",
+      "options": [
+        "ontology",
+        "ontological",
+        "ontologically",
+        "ontologist"
+      ],
+      "answer": "ontology",
+      "explanation": "The sentence needs \"ontology\", the word-family form that fits this position. The completed sentence is: The debate concerns social ontology after the objections are synthesized.",
+      "rationales": {
+        "ontology": "The sentence needs \"ontology\", the word-family form that fits this position. The completed sentence is: The debate concerns social ontology after the objections are synthesized.",
+        "ontological": "\"ontological\" is related to \"ontological\", but it does not fit the grammar of this sentence.",
+        "ontologically": "\"ontologically\" is related to \"ontological\", but it does not fit the grammar of this sentence.",
+        "ontologist": "\"ontologist\" is related to \"ontological\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4071",
+      "level": "C2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The chapter offers a new ___ of agency before the caveat is removed.",
+      "options": [
+        "theorization",
+        "theoretical",
+        "theoretically",
+        "theorize"
+      ],
+      "answer": "theorization",
+      "explanation": "The sentence needs \"theorization\", the word-family form that fits this position. The completed sentence is: The chapter offers a new theorization of agency before the caveat is removed.",
+      "rationales": {
+        "theorization": "The sentence needs \"theorization\", the word-family form that fits this position. The completed sentence is: The chapter offers a new theorization of agency before the caveat is removed.",
+        "theoretical": "\"theoretical\" is related to \"theoretical\", but it does not fit the grammar of this sentence.",
+        "theoretically": "\"theoretically\" is related to \"theoretical\", but it does not fit the grammar of this sentence.",
+        "theorize": "\"theorize\" is related to \"theoretical\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4072",
+      "level": "C2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The paper defends the ___ of the rule in the published corrigendum.",
+      "options": [
+        "normativity",
+        "normative",
+        "normatively",
+        "normalize"
+      ],
+      "answer": "normativity",
+      "explanation": "The sentence needs \"normativity\", the word-family form that fits this position. The completed sentence is: The paper defends the normativity of the rule in the published corrigendum.",
+      "rationales": {
+        "normativity": "The sentence needs \"normativity\", the word-family form that fits this position. The completed sentence is: The paper defends the normativity of the rule in the published corrigendum.",
+        "normative": "\"normative\" is related to \"normative\", but it does not fit the grammar of this sentence.",
+        "normatively": "\"normatively\" is related to \"normative\", but it does not fit the grammar of this sentence.",
+        "normalize": "\"normalize\" is related to \"normative\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4073",
+      "level": "C2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The seminar focused on legal ___ during the ethics review.",
+      "options": [
+        "hermeneutics",
+        "hermeneutic",
+        "hermeneutically",
+        "hermitage"
+      ],
+      "answer": "hermeneutics",
+      "explanation": "The sentence needs \"hermeneutics\", the word-family form that fits this position. The completed sentence is: The seminar focused on legal hermeneutics during the ethics review.",
+      "rationales": {
+        "hermeneutics": "The sentence needs \"hermeneutics\", the word-family form that fits this position. The completed sentence is: The seminar focused on legal hermeneutics during the ethics review.",
+        "hermeneutic": "\"hermeneutic\" is related to \"hermeneutic\", but it does not fit the grammar of this sentence.",
+        "hermeneutically": "\"hermeneutically\" is related to \"hermeneutic\", but it does not fit the grammar of this sentence.",
+        "hermitage": "\"hermitage\" is related to \"hermeneutic\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4074",
+      "level": "C2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The author frames the debate as a ___ on the counterargument table.",
+      "options": [
+        "dialectic",
+        "dialectical",
+        "dialectically",
+        "dialect"
+      ],
+      "answer": "dialectic",
+      "explanation": "The sentence needs \"dialectic\", the word-family form that fits this position. The completed sentence is: The author frames the debate as a dialectic on the counterargument table.",
+      "rationales": {
+        "dialectic": "The sentence needs \"dialectic\", the word-family form that fits this position. The completed sentence is: The author frames the debate as a dialectic on the counterargument table.",
+        "dialectical": "\"dialectical\" is related to \"dialectical\", but it does not fit the grammar of this sentence.",
+        "dialectically": "\"dialectically\" is related to \"dialectical\", but it does not fit the grammar of this sentence.",
+        "dialect": "\"dialect\" is related to \"dialectical\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4075",
+      "level": "C2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The court questioned the witness's ___ before the final adjudication.",
+      "options": [
+        "probity",
+        "probative",
+        "probatively",
+        "probate"
+      ],
+      "answer": "probity",
+      "explanation": "The sentence needs \"probity\", the word-family form that fits this position. The completed sentence is: The court questioned the witness's probity before the final adjudication.",
+      "rationales": {
+        "probity": "The sentence needs \"probity\", the word-family form that fits this position. The completed sentence is: The court questioned the witness's probity before the final adjudication.",
+        "probative": "\"probative\" is related to \"probative\", but it does not fit the grammar of this sentence.",
+        "probatively": "\"probatively\" is related to \"probative\", but it does not fit the grammar of this sentence.",
+        "probate": "\"probate\" is related to \"probative\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4076",
+      "level": "C2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The argument acknowledges human ___ in the statutory analysis.",
+      "options": [
+        "fallibility",
+        "fallible",
+        "fallibly",
+        "fallacy"
+      ],
+      "answer": "fallibility",
+      "explanation": "The sentence needs \"fallibility\", the word-family form that fits this position. The completed sentence is: The argument acknowledges human fallibility in the statutory analysis.",
+      "rationales": {
+        "fallibility": "The sentence needs \"fallibility\", the word-family form that fits this position. The completed sentence is: The argument acknowledges human fallibility in the statutory analysis.",
+        "fallible": "\"fallible\" is related to \"fallible\", but it does not fit the grammar of this sentence.",
+        "fallibly": "\"fallibly\" is related to \"fallible\", but it does not fit the grammar of this sentence.",
+        "fallacy": "\"fallacy\" is related to \"fallible\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4077",
+      "level": "C2",
+      "setupText": "Choose the form of the word that fits the sentence.",
+      "taskText": "The clause's ___ caused litigation during expert testimony.",
+      "options": [
+        "indeterminacy",
+        "indeterminate",
+        "indeterminately",
+        "determine"
+      ],
+      "answer": "indeterminacy",
+      "explanation": "The sentence needs \"indeterminacy\", the word-family form that fits this position. The completed sentence is: The clause's indeterminacy caused litigation during expert testimony.",
+      "rationales": {
+        "indeterminacy": "The sentence needs \"indeterminacy\", the word-family form that fits this position. The completed sentence is: The clause's indeterminacy caused litigation during expert testimony.",
+        "indeterminate": "\"indeterminate\" is related to \"indeterminate\", but it does not fit the grammar of this sentence.",
+        "indeterminately": "\"indeterminately\" is related to \"indeterminate\", but it does not fit the grammar of this sentence.",
+        "determine": "\"determine\" is related to \"indeterminate\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4078",
+      "level": "C2",
+      "setupText": "The sentence needs the right word-family form.",
+      "taskText": "The models' ___ remains disputed in the compliance addendum.",
+      "options": [
+        "commensurability",
+        "commensurable",
+        "commensurably",
+        "measure"
+      ],
+      "answer": "commensurability",
+      "explanation": "The sentence needs \"commensurability\", the word-family form that fits this position. The completed sentence is: The models' commensurability remains disputed in the compliance addendum.",
+      "rationales": {
+        "commensurability": "The sentence needs \"commensurability\", the word-family form that fits this position. The completed sentence is: The models' commensurability remains disputed in the compliance addendum.",
+        "commensurable": "\"commensurable\" is related to \"commensurable\", but it does not fit the grammar of this sentence.",
+        "commensurably": "\"commensurably\" is related to \"commensurable\", but it does not fit the grammar of this sentence.",
+        "measure": "\"measure\" is related to \"commensurable\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4079",
+      "level": "C2",
+      "setupText": "Choose the noun, verb, or -ing form that fits.",
+      "taskText": "The theories' ___ limits comparison after the longitudinal model is revised.",
+      "options": [
+        "incommensurability",
+        "incommensurable",
+        "incommensurably",
+        "compare"
+      ],
+      "answer": "incommensurability",
+      "explanation": "The sentence needs \"incommensurability\", the word-family form that fits this position. The completed sentence is: The theories' incommensurability limits comparison after the longitudinal model is revised.",
+      "rationales": {
+        "incommensurability": "The sentence needs \"incommensurability\", the word-family form that fits this position. The completed sentence is: The theories' incommensurability limits comparison after the longitudinal model is revised.",
+        "incommensurable": "\"incommensurable\" is related to \"incommensurable\", but it does not fit the grammar of this sentence.",
+        "incommensurably": "\"incommensurably\" is related to \"incommensurable\", but it does not fit the grammar of this sentence.",
+        "compare": "\"compare\" is related to \"incommensurable\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-word-forms-c2-4080",
+      "level": "C2",
+      "setupText": "The words are from the same family.",
+      "taskText": "The claim's ___ matters in this context before the ruling is issued.",
+      "options": [
+        "defeasibility",
+        "defeasible",
+        "defeasibly",
+        "defeat"
+      ],
+      "answer": "defeasibility",
+      "explanation": "The sentence needs \"defeasibility\", the word-family form that fits this position. The completed sentence is: The claim's defeasibility matters in this context before the ruling is issued.",
+      "rationales": {
+        "defeasibility": "The sentence needs \"defeasibility\", the word-family form that fits this position. The completed sentence is: The claim's defeasibility matters in this context before the ruling is issued.",
+        "defeasible": "\"defeasible\" is related to \"defeasible\", but it does not fit the grammar of this sentence.",
+        "defeasibly": "\"defeasibly\" is related to \"defeasible\", but it does not fit the grammar of this sentence.",
+        "defeat": "\"defeat\" is related to \"defeasible\", but it does not fit the grammar of this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

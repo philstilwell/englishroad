@@ -1,0 +1,2766 @@
+{
+  "topic": "Everyday vocabulary",
+  "category": "Vocabulary",
+  "items": [
+    {
+      "id": "coverage-everyday-vocabulary-a1-1321",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"big\" mean in this sentence? The report is big.",
+      "options": [
+        "large",
+        "not large",
+        "quick",
+        "not far away"
+      ],
+      "answer": "large",
+      "explanation": "In this sentence, \"big\" means \"large\": The report is big.",
+      "rationales": {
+        "large": "In this sentence, \"big\" means \"large\": The report is big.",
+        "not large": "\"not large\" is a real meaning, but it matches \"small\", not \"big\" in this sentence.",
+        "quick": "\"quick\" is a real meaning, but it matches \"fast\", not \"big\" in this sentence.",
+        "not far away": "\"not far away\" is a real meaning, but it matches \"near\", not \"big\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1322",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"small\" mean in this sentence? In the clinic, the room is small.",
+      "options": [
+        "not large",
+        "quick",
+        "not far away",
+        "start"
+      ],
+      "answer": "not large",
+      "explanation": "In this sentence, \"small\" means \"not large\": In the clinic, the room is small.",
+      "rationales": {
+        "not large": "In this sentence, \"small\" means \"not large\": In the clinic, the room is small.",
+        "quick": "\"quick\" is a real meaning, but it matches \"fast\", not \"small\" in this sentence.",
+        "not far away": "\"not far away\" is a real meaning, but it matches \"near\", not \"small\" in this sentence.",
+        "start": "\"start\" is a real meaning, but it matches \"begin\", not \"small\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1323",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"fast\" mean in this sentence? During the discussion, the train is fast.",
+      "options": [
+        "quick",
+        "not far away",
+        "start",
+        "pleased"
+      ],
+      "answer": "quick",
+      "explanation": "In this sentence, \"fast\" means \"quick\": During the discussion, the train is fast.",
+      "rationales": {
+        "quick": "In this sentence, \"fast\" means \"quick\": During the discussion, the train is fast.",
+        "not far away": "\"not far away\" is a real meaning, but it matches \"near\", not \"fast\" in this sentence.",
+        "start": "\"start\" is a real meaning, but it matches \"begin\", not \"fast\" in this sentence.",
+        "pleased": "\"pleased\" is a real meaning, but it matches \"happy\", not \"fast\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1324",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"near\" mean in this sentence? The example says that the school is near the laboratory.",
+      "options": [
+        "not far away",
+        "start",
+        "pleased",
+        "unhappy"
+      ],
+      "answer": "not far away",
+      "explanation": "In this sentence, \"near\" means \"not far away\": The example says that the school is near the laboratory.",
+      "rationales": {
+        "not far away": "In this sentence, \"near\" means \"not far away\": The example says that the school is near the laboratory.",
+        "start": "\"start\" is a real meaning, but it matches \"begin\", not \"near\" in this sentence.",
+        "pleased": "\"pleased\" is a real meaning, but it matches \"happy\", not \"near\" in this sentence.",
+        "unhappy": "\"unhappy\" is a real meaning, but it matches \"sad\", not \"near\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1325",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"begin\" mean in this sentence? On the worksheet, the lesson will begin at noon.",
+      "options": [
+        "start",
+        "pleased",
+        "unhappy",
+        "not dirty"
+      ],
+      "answer": "start",
+      "explanation": "In this sentence, \"begin\" means \"start\": On the worksheet, the lesson will begin at noon.",
+      "rationales": {
+        "start": "In this sentence, \"begin\" means \"start\": On the worksheet, the lesson will begin at noon.",
+        "pleased": "\"pleased\" is a real meaning, but it matches \"happy\", not \"begin\" in this sentence.",
+        "unhappy": "\"unhappy\" is a real meaning, but it matches \"sad\", not \"begin\" in this sentence.",
+        "not dirty": "\"not dirty\" is a real meaning, but it matches \"clean\", not \"begin\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1326",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"happy\" mean in this sentence? The teacher's example is this: The child is happy.",
+      "options": [
+        "pleased",
+        "unhappy",
+        "not dirty",
+        "having a high temperature"
+      ],
+      "answer": "pleased",
+      "explanation": "In this sentence, \"happy\" means \"pleased\": The teacher's example is this: The child is happy.",
+      "rationales": {
+        "pleased": "In this sentence, \"happy\" means \"pleased\": The teacher's example is this: The child is happy.",
+        "unhappy": "\"unhappy\" is a real meaning, but it matches \"sad\", not \"happy\" in this sentence.",
+        "not dirty": "\"not dirty\" is a real meaning, but it matches \"clean\", not \"happy\" in this sentence.",
+        "having a high temperature": "\"having a high temperature\" is a real meaning, but it matches \"hot\", not \"happy\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1327",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"sad\" mean in this sentence? In a short message, the story made Aya sad.",
+      "options": [
+        "unhappy",
+        "not dirty",
+        "having a high temperature",
+        "not old"
+      ],
+      "answer": "unhappy",
+      "explanation": "In this sentence, \"sad\" means \"unhappy\": In a short message, the story made Aya sad.",
+      "rationales": {
+        "unhappy": "In this sentence, \"sad\" means \"unhappy\": In a short message, the story made Aya sad.",
+        "not dirty": "\"not dirty\" is a real meaning, but it matches \"clean\", not \"sad\" in this sentence.",
+        "having a high temperature": "\"having a high temperature\" is a real meaning, but it matches \"hot\", not \"sad\" in this sentence.",
+        "not old": "\"not old\" is a real meaning, but it matches \"new\", not \"sad\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1328",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"clean\" mean in this sentence? The report gives this example: The kitchen is clean.",
+      "options": [
+        "not dirty",
+        "having a high temperature",
+        "not old",
+        "not new"
+      ],
+      "answer": "not dirty",
+      "explanation": "In this sentence, \"clean\" means \"not dirty\": The report gives this example: The kitchen is clean.",
+      "rationales": {
+        "not dirty": "In this sentence, \"clean\" means \"not dirty\": The report gives this example: The kitchen is clean.",
+        "having a high temperature": "\"having a high temperature\" is a real meaning, but it matches \"hot\", not \"clean\" in this sentence.",
+        "not old": "\"not old\" is a real meaning, but it matches \"new\", not \"clean\" in this sentence.",
+        "not new": "\"not new\" is a real meaning, but it matches \"old\", not \"clean\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1329",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"hot\" mean in this sentence? At the reception desk, the soup is hot.",
+      "options": [
+        "having a high temperature",
+        "not old",
+        "not new",
+        "not difficult"
+      ],
+      "answer": "having a high temperature",
+      "explanation": "In this sentence, \"hot\" means \"having a high temperature\": At the reception desk, the soup is hot.",
+      "rationales": {
+        "having a high temperature": "In this sentence, \"hot\" means \"having a high temperature\": At the reception desk, the soup is hot.",
+        "not old": "\"not old\" is a real meaning, but it matches \"new\", not \"hot\" in this sentence.",
+        "not new": "\"not new\" is a real meaning, but it matches \"old\", not \"hot\" in this sentence.",
+        "not difficult": "\"not difficult\" is a real meaning, but it matches \"easy\", not \"hot\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1330",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"new\" mean in this sentence? The class note says that this is a new notebook.",
+      "options": [
+        "not old",
+        "not new",
+        "not difficult",
+        "difficult"
+      ],
+      "answer": "not old",
+      "explanation": "In this sentence, \"new\" means \"not old\": The class note says that this is a new notebook.",
+      "rationales": {
+        "not old": "In this sentence, \"new\" means \"not old\": The class note says that this is a new notebook.",
+        "not new": "\"not new\" is a real meaning, but it matches \"old\", not \"new\" in this sentence.",
+        "not difficult": "\"not difficult\" is a real meaning, but it matches \"easy\", not \"new\" in this sentence.",
+        "difficult": "\"difficult\" is a real meaning, but it matches \"hard\", not \"new\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1331",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"old\" mean in this sentence? In the practice text, the old chair is by the door.",
+      "options": [
+        "not new",
+        "not difficult",
+        "difficult",
+        "not closed"
+      ],
+      "answer": "not new",
+      "explanation": "In this sentence, \"old\" means \"not new\": In the practice text, the old chair is by the door.",
+      "rationales": {
+        "not new": "In this sentence, \"old\" means \"not new\": In the practice text, the old chair is by the door.",
+        "not difficult": "\"not difficult\" is a real meaning, but it matches \"easy\", not \"old\" in this sentence.",
+        "difficult": "\"difficult\" is a real meaning, but it matches \"hard\", not \"old\" in this sentence.",
+        "not closed": "\"not closed\" is a real meaning, but it matches \"open\", not \"old\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1332",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"easy\" mean in this sentence? During the lesson, the first question is easy.",
+      "options": [
+        "not difficult",
+        "difficult",
+        "not closed",
+        "after the expected time"
+      ],
+      "answer": "not difficult",
+      "explanation": "In this sentence, \"easy\" means \"not difficult\": During the lesson, the first question is easy.",
+      "rationales": {
+        "not difficult": "In this sentence, \"easy\" means \"not difficult\": During the lesson, the first question is easy.",
+        "difficult": "\"difficult\" is a real meaning, but it matches \"hard\", not \"easy\" in this sentence.",
+        "not closed": "\"not closed\" is a real meaning, but it matches \"open\", not \"easy\" in this sentence.",
+        "after the expected time": "\"after the expected time\" is a real meaning, but it matches \"late\", not \"easy\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1333",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"hard\" mean in this sentence? The first example says that the test is hard.",
+      "options": [
+        "difficult",
+        "not closed",
+        "after the expected time",
+        "containing all it can hold"
+      ],
+      "answer": "difficult",
+      "explanation": "In this sentence, \"hard\" means \"difficult\": The first example says that the test is hard.",
+      "rationales": {
+        "difficult": "In this sentence, \"hard\" means \"difficult\": The first example says that the test is hard.",
+        "not closed": "\"not closed\" is a real meaning, but it matches \"open\", not \"hard\" in this sentence.",
+        "after the expected time": "\"after the expected time\" is a real meaning, but it matches \"late\", not \"hard\" in this sentence.",
+        "containing all it can hold": "\"containing all it can hold\" is a real meaning, but it matches \"full\", not \"hard\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1334",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"open\" mean in this sentence? On the notice board, the shop is open now.",
+      "options": [
+        "not closed",
+        "after the expected time",
+        "containing all it can hold",
+        "with nothing inside"
+      ],
+      "answer": "not closed",
+      "explanation": "In this sentence, \"open\" means \"not closed\": On the notice board, the shop is open now.",
+      "rationales": {
+        "not closed": "In this sentence, \"open\" means \"not closed\": On the notice board, the shop is open now.",
+        "after the expected time": "\"after the expected time\" is a real meaning, but it matches \"late\", not \"open\" in this sentence.",
+        "containing all it can hold": "\"containing all it can hold\" is a real meaning, but it matches \"full\", not \"open\" in this sentence.",
+        "with nothing inside": "\"with nothing inside\" is a real meaning, but it matches \"empty\", not \"open\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1335",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"late\" mean in this sentence? The guide gives this sentence: The bus is late.",
+      "options": [
+        "after the expected time",
+        "containing all it can hold",
+        "with nothing inside",
+        "get by paying money"
+      ],
+      "answer": "after the expected time",
+      "explanation": "In this sentence, \"late\" means \"after the expected time\": The guide gives this sentence: The bus is late.",
+      "rationales": {
+        "after the expected time": "In this sentence, \"late\" means \"after the expected time\": The guide gives this sentence: The bus is late.",
+        "containing all it can hold": "\"containing all it can hold\" is a real meaning, but it matches \"full\", not \"late\" in this sentence.",
+        "with nothing inside": "\"with nothing inside\" is a real meaning, but it matches \"empty\", not \"late\" in this sentence.",
+        "get by paying money": "\"get by paying money\" is a real meaning, but it matches \"buy\", not \"late\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1336",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"full\" mean in this sentence? In the office email, the bottle is full.",
+      "options": [
+        "containing all it can hold",
+        "with nothing inside",
+        "get by paying money",
+        "discover where something is"
+      ],
+      "answer": "containing all it can hold",
+      "explanation": "In this sentence, \"full\" means \"containing all it can hold\": In the office email, the bottle is full.",
+      "rationales": {
+        "containing all it can hold": "In this sentence, \"full\" means \"containing all it can hold\": In the office email, the bottle is full.",
+        "with nothing inside": "\"with nothing inside\" is a real meaning, but it matches \"empty\", not \"full\" in this sentence.",
+        "get by paying money": "\"get by paying money\" is a real meaning, but it matches \"buy\", not \"full\" in this sentence.",
+        "discover where something is": "\"discover where something is\" is a real meaning, but it matches \"find\", not \"full\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1337",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"empty\" mean in this sentence? The reading passage says that the box is empty.",
+      "options": [
+        "with nothing inside",
+        "get by paying money",
+        "discover where something is",
+        "go away from a place"
+      ],
+      "answer": "with nothing inside",
+      "explanation": "In this sentence, \"empty\" means \"with nothing inside\": The reading passage says that the box is empty.",
+      "rationales": {
+        "with nothing inside": "In this sentence, \"empty\" means \"with nothing inside\": The reading passage says that the box is empty.",
+        "get by paying money": "\"get by paying money\" is a real meaning, but it matches \"buy\", not \"empty\" in this sentence.",
+        "discover where something is": "\"discover where something is\" is a real meaning, but it matches \"find\", not \"empty\" in this sentence.",
+        "go away from a place": "\"go away from a place\" is a real meaning, but it matches \"leave\", not \"empty\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1338",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"buy\" mean in this sentence? At the start of the activity, I will buy a ticket.",
+      "options": [
+        "get by paying money",
+        "discover where something is",
+        "go away from a place",
+        "large"
+      ],
+      "answer": "get by paying money",
+      "explanation": "In this sentence, \"buy\" means \"get by paying money\": At the start of the activity, I will buy a ticket.",
+      "rationales": {
+        "get by paying money": "In this sentence, \"buy\" means \"get by paying money\": At the start of the activity, I will buy a ticket.",
+        "discover where something is": "\"discover where something is\" is a real meaning, but it matches \"find\", not \"buy\" in this sentence.",
+        "go away from a place": "\"go away from a place\" is a real meaning, but it matches \"leave\", not \"buy\" in this sentence.",
+        "large": "\"large\" is a real meaning, but it matches \"big\", not \"buy\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1339",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"find\" mean in this sentence? The second example says that Mina found her keys.",
+      "options": [
+        "discover where something is",
+        "go away from a place",
+        "large",
+        "not large"
+      ],
+      "answer": "discover where something is",
+      "explanation": "In this sentence, \"find\" means \"discover where something is\": The second example says that Mina found her keys.",
+      "rationales": {
+        "discover where something is": "In this sentence, \"find\" means \"discover where something is\": The second example says that Mina found her keys.",
+        "go away from a place": "\"go away from a place\" is a real meaning, but it matches \"leave\", not \"find\" in this sentence.",
+        "large": "\"large\" is a real meaning, but it matches \"big\", not \"find\" in this sentence.",
+        "not large": "\"not large\" is a real meaning, but it matches \"small\", not \"find\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a1-1340",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"leave\" mean in this sentence? On the class website, the class will leave at noon.",
+      "options": [
+        "go away from a place",
+        "large",
+        "not large",
+        "quick"
+      ],
+      "answer": "go away from a place",
+      "explanation": "In this sentence, \"leave\" means \"go away from a place\": On the class website, the class will leave at noon.",
+      "rationales": {
+        "go away from a place": "In this sentence, \"leave\" means \"go away from a place\": On the class website, the class will leave at noon.",
+        "large": "\"large\" is a real meaning, but it matches \"big\", not \"leave\" in this sentence.",
+        "not large": "\"not large\" is a real meaning, but it matches \"small\", not \"leave\" in this sentence.",
+        "quick": "\"quick\" is a real meaning, but it matches \"fast\", not \"leave\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1341",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"repair\" mean in this sentence? Mina will repair the chair.",
+      "options": [
+        "fix",
+        "use and return",
+        "go or give back",
+        "not noisy"
+      ],
+      "answer": "fix",
+      "explanation": "In this sentence, \"repair\" means \"fix\": Mina will repair the chair.",
+      "rationales": {
+        "fix": "In this sentence, \"repair\" means \"fix\": Mina will repair the chair.",
+        "use and return": "\"use and return\" is a real meaning, but it matches \"borrow\", not \"repair\" in this sentence.",
+        "go or give back": "\"go or give back\" is a real meaning, but it matches \"return\", not \"repair\" in this sentence.",
+        "not noisy": "\"not noisy\" is a real meaning, but it matches \"quiet\", not \"repair\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1342",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"borrow\" mean in this sentence? In the clinic, Carlos needs to borrow a pen.",
+      "options": [
+        "use and return",
+        "go or give back",
+        "not noisy",
+        "pick"
+      ],
+      "answer": "use and return",
+      "explanation": "In this sentence, \"borrow\" means \"use and return\": In the clinic, Carlos needs to borrow a pen.",
+      "rationales": {
+        "use and return": "In this sentence, \"borrow\" means \"use and return\": In the clinic, Carlos needs to borrow a pen.",
+        "go or give back": "\"go or give back\" is a real meaning, but it matches \"return\", not \"borrow\" in this sentence.",
+        "not noisy": "\"not noisy\" is a real meaning, but it matches \"quiet\", not \"borrow\" in this sentence.",
+        "pick": "\"pick\" is a real meaning, but it matches \"choose\", not \"borrow\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1343",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"return\" mean in this sentence? In the office, the instruction is, \"Please return the book tomorrow.\"",
+      "options": [
+        "go or give back",
+        "not noisy",
+        "pick",
+        "decide something will not happen"
+      ],
+      "answer": "go or give back",
+      "explanation": "In this sentence, \"return\" means \"go or give back\": In the office, the instruction is, \"Please return the book tomorrow.\"",
+      "rationales": {
+        "go or give back": "In this sentence, \"return\" means \"go or give back\": In the office, the instruction is, \"Please return the book tomorrow.\"",
+        "not noisy": "\"not noisy\" is a real meaning, but it matches \"quiet\", not \"return\" in this sentence.",
+        "pick": "\"pick\" is a real meaning, but it matches \"choose\", not \"return\" in this sentence.",
+        "decide something will not happen": "\"decide something will not happen\" is a real meaning, but it matches \"cancel\", not \"return\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1344",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"quiet\" mean in this sentence? The example says that the school is quiet today.",
+      "options": [
+        "not noisy",
+        "pick",
+        "decide something will not happen",
+        "come to a place"
+      ],
+      "answer": "not noisy",
+      "explanation": "In this sentence, \"quiet\" means \"not noisy\": The example says that the school is quiet today.",
+      "rationales": {
+        "not noisy": "In this sentence, \"quiet\" means \"not noisy\": The example says that the school is quiet today.",
+        "pick": "\"pick\" is a real meaning, but it matches \"choose\", not \"quiet\" in this sentence.",
+        "decide something will not happen": "\"decide something will not happen\" is a real meaning, but it matches \"cancel\", not \"quiet\" in this sentence.",
+        "come to a place": "\"come to a place\" is a real meaning, but it matches \"arrive\", not \"quiet\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1345",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"choose\" mean in this sentence? On the worksheet, Omar must choose one answer.",
+      "options": [
+        "pick",
+        "decide something will not happen",
+        "come to a place",
+        "hold while moving"
+      ],
+      "answer": "pick",
+      "explanation": "In this sentence, \"choose\" means \"pick\": On the worksheet, Omar must choose one answer.",
+      "rationales": {
+        "pick": "In this sentence, \"choose\" means \"pick\": On the worksheet, Omar must choose one answer.",
+        "decide something will not happen": "\"decide something will not happen\" is a real meaning, but it matches \"cancel\", not \"choose\" in this sentence.",
+        "come to a place": "\"come to a place\" is a real meaning, but it matches \"arrive\", not \"choose\" in this sentence.",
+        "hold while moving": "\"hold while moving\" is a real meaning, but it matches \"carry\", not \"choose\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1346",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"cancel\" mean in this sentence? The teacher's example is this: The office will cancel the meeting.",
+      "options": [
+        "decide something will not happen",
+        "come to a place",
+        "hold while moving",
+        "give for a short time"
+      ],
+      "answer": "decide something will not happen",
+      "explanation": "In this sentence, \"cancel\" means \"decide something will not happen\": The teacher's example is this: The office will cancel the meeting.",
+      "rationales": {
+        "decide something will not happen": "In this sentence, \"cancel\" means \"decide something will not happen\": The teacher's example is this: The office will cancel the meeting.",
+        "come to a place": "\"come to a place\" is a real meaning, but it matches \"arrive\", not \"cancel\" in this sentence.",
+        "hold while moving": "\"hold while moving\" is a real meaning, but it matches \"carry\", not \"cancel\" in this sentence.",
+        "give for a short time": "\"give for a short time\" is a real meaning, but it matches \"lend\", not \"cancel\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1347",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"arrive\" mean in this sentence? In a short message, the train will arrive soon.",
+      "options": [
+        "come to a place",
+        "hold while moving",
+        "give for a short time",
+        "ask someone to come"
+      ],
+      "answer": "come to a place",
+      "explanation": "In this sentence, \"arrive\" means \"come to a place\": In a short message, the train will arrive soon.",
+      "rationales": {
+        "come to a place": "In this sentence, \"arrive\" means \"come to a place\": In a short message, the train will arrive soon.",
+        "hold while moving": "\"hold while moving\" is a real meaning, but it matches \"carry\", not \"arrive\" in this sentence.",
+        "give for a short time": "\"give for a short time\" is a real meaning, but it matches \"lend\", not \"arrive\" in this sentence.",
+        "ask someone to come": "\"ask someone to come\" is a real meaning, but it matches \"invite\", not \"arrive\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1348",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"carry\" mean in this sentence? On the checklist, it says, \"Please carry this bag.\"",
+      "options": [
+        "hold while moving",
+        "give for a short time",
+        "ask someone to come",
+        "put things into a bag or box"
+      ],
+      "answer": "hold while moving",
+      "explanation": "In this sentence, \"carry\" means \"hold while moving\": On the checklist, it says, \"Please carry this bag.\"",
+      "rationales": {
+        "hold while moving": "In this sentence, \"carry\" means \"hold while moving\": On the checklist, it says, \"Please carry this bag.\"",
+        "give for a short time": "\"give for a short time\" is a real meaning, but it matches \"lend\", not \"carry\" in this sentence.",
+        "ask someone to come": "\"ask someone to come\" is a real meaning, but it matches \"invite\", not \"carry\" in this sentence.",
+        "put things into a bag or box": "\"put things into a bag or box\" is a real meaning, but it matches \"pack\", not \"carry\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1349",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"lend\" mean in this sentence? At the reception desk, can you lend me a pen?.",
+      "options": [
+        "give for a short time",
+        "ask someone to come",
+        "put things into a bag or box",
+        "change place"
+      ],
+      "answer": "give for a short time",
+      "explanation": "In this sentence, \"lend\" means \"give for a short time\": At the reception desk, can you lend me a pen?.",
+      "rationales": {
+        "give for a short time": "In this sentence, \"lend\" means \"give for a short time\": At the reception desk, can you lend me a pen?.",
+        "ask someone to come": "\"ask someone to come\" is a real meaning, but it matches \"invite\", not \"lend\" in this sentence.",
+        "put things into a bag or box": "\"put things into a bag or box\" is a real meaning, but it matches \"pack\", not \"lend\" in this sentence.",
+        "change place": "\"change place\" is a real meaning, but it matches \"move\", not \"lend\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1350",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"invite\" mean in this sentence? The class note says that Nadia will invite her neighbor.",
+      "options": [
+        "ask someone to come",
+        "put things into a bag or box",
+        "change place",
+        "stay until something happens"
+      ],
+      "answer": "ask someone to come",
+      "explanation": "In this sentence, \"invite\" means \"ask someone to come\": The class note says that Nadia will invite her neighbor.",
+      "rationales": {
+        "ask someone to come": "In this sentence, \"invite\" means \"ask someone to come\": The class note says that Nadia will invite her neighbor.",
+        "put things into a bag or box": "\"put things into a bag or box\" is a real meaning, but it matches \"pack\", not \"invite\" in this sentence.",
+        "change place": "\"change place\" is a real meaning, but it matches \"move\", not \"invite\" in this sentence.",
+        "stay until something happens": "\"stay until something happens\" is a real meaning, but it matches \"wait\", not \"invite\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1351",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"pack\" mean in this sentence? The class notice says, \"Please pack your bag before class.\"",
+      "options": [
+        "put things into a bag or box",
+        "change place",
+        "stay until something happens",
+        "as much as needed"
+      ],
+      "answer": "put things into a bag or box",
+      "explanation": "In this sentence, \"pack\" means \"put things into a bag or box\": The class notice says, \"Please pack your bag before class.\"",
+      "rationales": {
+        "put things into a bag or box": "In this sentence, \"pack\" means \"put things into a bag or box\": The class notice says, \"Please pack your bag before class.\"",
+        "change place": "\"change place\" is a real meaning, but it matches \"move\", not \"pack\" in this sentence.",
+        "stay until something happens": "\"stay until something happens\" is a real meaning, but it matches \"wait\", not \"pack\" in this sentence.",
+        "as much as needed": "\"as much as needed\" is a real meaning, but it matches \"enough\", not \"pack\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1352",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"move\" mean in this sentence? During the lesson, we need to move the table.",
+      "options": [
+        "change place",
+        "stay until something happens",
+        "as much as needed",
+        "before the expected time"
+      ],
+      "answer": "change place",
+      "explanation": "In this sentence, \"move\" means \"change place\": During the lesson, we need to move the table.",
+      "rationales": {
+        "change place": "In this sentence, \"move\" means \"change place\": During the lesson, we need to move the table.",
+        "stay until something happens": "\"stay until something happens\" is a real meaning, but it matches \"wait\", not \"move\" in this sentence.",
+        "as much as needed": "\"as much as needed\" is a real meaning, but it matches \"enough\", not \"move\" in this sentence.",
+        "before the expected time": "\"before the expected time\" is a real meaning, but it matches \"early\", not \"move\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1353",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"wait\" mean in this sentence? Before the activity, the speaker says, \"Please wait outside.\"",
+      "options": [
+        "stay until something happens",
+        "as much as needed",
+        "before the expected time",
+        "having a lot to do"
+      ],
+      "answer": "stay until something happens",
+      "explanation": "In this sentence, \"wait\" means \"stay until something happens\": Before the activity, the speaker says, \"Please wait outside.\"",
+      "rationales": {
+        "stay until something happens": "In this sentence, \"wait\" means \"stay until something happens\": Before the activity, the speaker says, \"Please wait outside.\"",
+        "as much as needed": "\"as much as needed\" is a real meaning, but it matches \"enough\", not \"wait\" in this sentence.",
+        "before the expected time": "\"before the expected time\" is a real meaning, but it matches \"early\", not \"wait\" in this sentence.",
+        "having a lot to do": "\"having a lot to do\" is a real meaning, but it matches \"busy\", not \"wait\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1354",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"enough\" mean in this sentence? On the notice board, we have enough chairs.",
+      "options": [
+        "as much as needed",
+        "before the expected time",
+        "having a lot to do",
+        "not dangerous"
+      ],
+      "answer": "as much as needed",
+      "explanation": "In this sentence, \"enough\" means \"as much as needed\": On the notice board, we have enough chairs.",
+      "rationales": {
+        "as much as needed": "In this sentence, \"enough\" means \"as much as needed\": On the notice board, we have enough chairs.",
+        "before the expected time": "\"before the expected time\" is a real meaning, but it matches \"early\", not \"enough\" in this sentence.",
+        "having a lot to do": "\"having a lot to do\" is a real meaning, but it matches \"busy\", not \"enough\" in this sentence.",
+        "not dangerous": "\"not dangerous\" is a real meaning, but it matches \"safe\", not \"enough\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1355",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"early\" mean in this sentence? The guide gives this sentence: The class ended early.",
+      "options": [
+        "before the expected time",
+        "having a lot to do",
+        "not dangerous",
+        "not different"
+      ],
+      "answer": "before the expected time",
+      "explanation": "In this sentence, \"early\" means \"before the expected time\": The guide gives this sentence: The class ended early.",
+      "rationales": {
+        "before the expected time": "In this sentence, \"early\" means \"before the expected time\": The guide gives this sentence: The class ended early.",
+        "having a lot to do": "\"having a lot to do\" is a real meaning, but it matches \"busy\", not \"early\" in this sentence.",
+        "not dangerous": "\"not dangerous\" is a real meaning, but it matches \"safe\", not \"early\" in this sentence.",
+        "not different": "\"not different\" is a real meaning, but it matches \"same\", not \"early\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1356",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"busy\" mean in this sentence? In the office email, the clinic is busy today.",
+      "options": [
+        "having a lot to do",
+        "not dangerous",
+        "not different",
+        "not the same"
+      ],
+      "answer": "having a lot to do",
+      "explanation": "In this sentence, \"busy\" means \"having a lot to do\": In the office email, the clinic is busy today.",
+      "rationales": {
+        "having a lot to do": "In this sentence, \"busy\" means \"having a lot to do\": In the office email, the clinic is busy today.",
+        "not dangerous": "\"not dangerous\" is a real meaning, but it matches \"safe\", not \"busy\" in this sentence.",
+        "not different": "\"not different\" is a real meaning, but it matches \"same\", not \"busy\" in this sentence.",
+        "not the same": "\"not the same\" is a real meaning, but it matches \"different\", not \"busy\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1357",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"safe\" mean in this sentence? The reading passage says that this road is safe at night.",
+      "options": [
+        "not dangerous",
+        "not different",
+        "not the same",
+        "most of the time"
+      ],
+      "answer": "not dangerous",
+      "explanation": "In this sentence, \"safe\" means \"not dangerous\": The reading passage says that this road is safe at night.",
+      "rationales": {
+        "not dangerous": "In this sentence, \"safe\" means \"not dangerous\": The reading passage says that this road is safe at night.",
+        "not different": "\"not different\" is a real meaning, but it matches \"same\", not \"safe\" in this sentence.",
+        "not the same": "\"not the same\" is a real meaning, but it matches \"different\", not \"safe\" in this sentence.",
+        "most of the time": "\"most of the time\" is a real meaning, but it matches \"usually\", not \"safe\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1358",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"same\" mean in this sentence? At the start of the activity, we chose the same answer.",
+      "options": [
+        "not different",
+        "not the same",
+        "most of the time",
+        "fix"
+      ],
+      "answer": "not different",
+      "explanation": "In this sentence, \"same\" means \"not different\": At the start of the activity, we chose the same answer.",
+      "rationales": {
+        "not different": "In this sentence, \"same\" means \"not different\": At the start of the activity, we chose the same answer.",
+        "not the same": "\"not the same\" is a real meaning, but it matches \"different\", not \"same\" in this sentence.",
+        "most of the time": "\"most of the time\" is a real meaning, but it matches \"usually\", not \"same\" in this sentence.",
+        "fix": "\"fix\" is a real meaning, but it matches \"repair\", not \"same\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1359",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"different\" mean in this sentence? The second example says that their schedules are different.",
+      "options": [
+        "not the same",
+        "most of the time",
+        "fix",
+        "use and return"
+      ],
+      "answer": "not the same",
+      "explanation": "In this sentence, \"different\" means \"not the same\": The second example says that their schedules are different.",
+      "rationales": {
+        "not the same": "In this sentence, \"different\" means \"not the same\": The second example says that their schedules are different.",
+        "most of the time": "\"most of the time\" is a real meaning, but it matches \"usually\", not \"different\" in this sentence.",
+        "fix": "\"fix\" is a real meaning, but it matches \"repair\", not \"different\" in this sentence.",
+        "use and return": "\"use and return\" is a real meaning, but it matches \"borrow\", not \"different\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-a2-1360",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"usually\" mean in this sentence? On the class website, the cafe usually opens at seven.",
+      "options": [
+        "most of the time",
+        "fix",
+        "use and return",
+        "go or give back"
+      ],
+      "answer": "most of the time",
+      "explanation": "In this sentence, \"usually\" means \"most of the time\": On the class website, the cafe usually opens at seven.",
+      "rationales": {
+        "most of the time": "In this sentence, \"usually\" means \"most of the time\": On the class website, the cafe usually opens at seven.",
+        "fix": "\"fix\" is a real meaning, but it matches \"repair\", not \"usually\" in this sentence.",
+        "use and return": "\"use and return\" is a real meaning, but it matches \"borrow\", not \"usually\" in this sentence.",
+        "go or give back": "\"go or give back\" is a real meaning, but it matches \"return\", not \"usually\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1361",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"delay\" mean in this sentence? Heavy rain may delay the bus.",
+      "options": [
+        "make something happen later",
+        "become better",
+        "need",
+        "permit"
+      ],
+      "answer": "make something happen later",
+      "explanation": "In this sentence, \"delay\" means \"make something happen later\": Heavy rain may delay the bus.",
+      "rationales": {
+        "make something happen later": "In this sentence, \"delay\" means \"make something happen later\": Heavy rain may delay the bus.",
+        "become better": "\"become better\" is a real meaning, but it matches \"improve\", not \"delay\" in this sentence.",
+        "need": "\"need\" is a real meaning, but it matches \"require\", not \"delay\" in this sentence.",
+        "permit": "\"permit\" is a real meaning, but it matches \"allow\", not \"delay\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1362",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"improve\" mean in this sentence? In the clinic, practice can improve writing.",
+      "options": [
+        "become better",
+        "need",
+        "permit",
+        "stay away from"
+      ],
+      "answer": "become better",
+      "explanation": "In this sentence, \"improve\" means \"become better\": In the clinic, practice can improve writing.",
+      "rationales": {
+        "become better": "In this sentence, \"improve\" means \"become better\": In the clinic, practice can improve writing.",
+        "need": "\"need\" is a real meaning, but it matches \"require\", not \"improve\" in this sentence.",
+        "permit": "\"permit\" is a real meaning, but it matches \"allow\", not \"improve\" in this sentence.",
+        "stay away from": "\"stay away from\" is a real meaning, but it matches \"avoid\", not \"improve\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1363",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"require\" mean in this sentence? During the discussion, the trip will require a passport.",
+      "options": [
+        "need",
+        "permit",
+        "stay away from",
+        "say that something is true or certain"
+      ],
+      "answer": "need",
+      "explanation": "In this sentence, \"require\" means \"need\": During the discussion, the trip will require a passport.",
+      "rationales": {
+        "need": "In this sentence, \"require\" means \"need\": During the discussion, the trip will require a passport.",
+        "permit": "\"permit\" is a real meaning, but it matches \"allow\", not \"require\" in this sentence.",
+        "stay away from": "\"stay away from\" is a real meaning, but it matches \"avoid\", not \"require\" in this sentence.",
+        "say that something is true or certain": "\"say that something is true or certain\" is a real meaning, but it matches \"confirm\", not \"require\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1364",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"allow\" mean in this sentence? The example says that the rule will allow late registration.",
+      "options": [
+        "permit",
+        "stay away from",
+        "say that something is true or certain",
+        "put a new thing in place of an old one"
+      ],
+      "answer": "permit",
+      "explanation": "In this sentence, \"allow\" means \"permit\": The example says that the rule will allow late registration.",
+      "rationales": {
+        "permit": "In this sentence, \"allow\" means \"permit\": The example says that the rule will allow late registration.",
+        "stay away from": "\"stay away from\" is a real meaning, but it matches \"avoid\", not \"allow\" in this sentence.",
+        "say that something is true or certain": "\"say that something is true or certain\" is a real meaning, but it matches \"confirm\", not \"allow\" in this sentence.",
+        "put a new thing in place of an old one": "\"put a new thing in place of an old one\" is a real meaning, but it matches \"replace\", not \"allow\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1365",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"avoid\" mean in this sentence? On the worksheet, Omar tries to avoid mistakes.",
+      "options": [
+        "stay away from",
+        "say that something is true or certain",
+        "put a new thing in place of an old one",
+        "have as one part"
+      ],
+      "answer": "stay away from",
+      "explanation": "In this sentence, \"avoid\" means \"stay away from\": On the worksheet, Omar tries to avoid mistakes.",
+      "rationales": {
+        "stay away from": "In this sentence, \"avoid\" means \"stay away from\": On the worksheet, Omar tries to avoid mistakes.",
+        "say that something is true or certain": "\"say that something is true or certain\" is a real meaning, but it matches \"confirm\", not \"avoid\" in this sentence.",
+        "put a new thing in place of an old one": "\"put a new thing in place of an old one\" is a real meaning, but it matches \"replace\", not \"avoid\" in this sentence.",
+        "have as one part": "\"have as one part\" is a real meaning, but it matches \"include\", not \"avoid\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1366",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"confirm\" mean in this sentence? The teacher writes, \"Please confirm your address.\"",
+      "options": [
+        "say that something is true or certain",
+        "put a new thing in place of an old one",
+        "have as one part",
+        "make smaller"
+      ],
+      "answer": "say that something is true or certain",
+      "explanation": "In this sentence, \"confirm\" means \"say that something is true or certain\": The teacher writes, \"Please confirm your address.\"",
+      "rationales": {
+        "say that something is true or certain": "In this sentence, \"confirm\" means \"say that something is true or certain\": The teacher writes, \"Please confirm your address.\"",
+        "put a new thing in place of an old one": "\"put a new thing in place of an old one\" is a real meaning, but it matches \"replace\", not \"confirm\" in this sentence.",
+        "have as one part": "\"have as one part\" is a real meaning, but it matches \"include\", not \"confirm\" in this sentence.",
+        "make smaller": "\"make smaller\" is a real meaning, but it matches \"reduce\", not \"confirm\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1367",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"replace\" mean in this sentence? In a short message, the school will replace the broken printer.",
+      "options": [
+        "put a new thing in place of an old one",
+        "have as one part",
+        "make smaller",
+        "make or become larger"
+      ],
+      "answer": "put a new thing in place of an old one",
+      "explanation": "In this sentence, \"replace\" means \"put a new thing in place of an old one\": In a short message, the school will replace the broken printer.",
+      "rationales": {
+        "put a new thing in place of an old one": "In this sentence, \"replace\" means \"put a new thing in place of an old one\": In a short message, the school will replace the broken printer.",
+        "have as one part": "\"have as one part\" is a real meaning, but it matches \"include\", not \"replace\" in this sentence.",
+        "make smaller": "\"make smaller\" is a real meaning, but it matches \"reduce\", not \"replace\" in this sentence.",
+        "make or become larger": "\"make or become larger\" is a real meaning, but it matches \"increase\", not \"replace\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1368",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"include\" mean in this sentence? The report gives this example: The fee includes lunch.",
+      "options": [
+        "have as one part",
+        "make smaller",
+        "make or become larger",
+        "help or give backing to"
+      ],
+      "answer": "have as one part",
+      "explanation": "In this sentence, \"include\" means \"have as one part\": The report gives this example: The fee includes lunch.",
+      "rationales": {
+        "have as one part": "In this sentence, \"include\" means \"have as one part\": The report gives this example: The fee includes lunch.",
+        "make smaller": "\"make smaller\" is a real meaning, but it matches \"reduce\", not \"include\" in this sentence.",
+        "make or become larger": "\"make or become larger\" is a real meaning, but it matches \"increase\", not \"include\" in this sentence.",
+        "help or give backing to": "\"help or give backing to\" is a real meaning, but it matches \"support\", not \"include\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1369",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"reduce\" mean in this sentence? At the reception desk, the new route may reduce travel time.",
+      "options": [
+        "make smaller",
+        "make or become larger",
+        "help or give backing to",
+        "stay the same or stay in place"
+      ],
+      "answer": "make smaller",
+      "explanation": "In this sentence, \"reduce\" means \"make smaller\": At the reception desk, the new route may reduce travel time.",
+      "rationales": {
+        "make smaller": "In this sentence, \"reduce\" means \"make smaller\": At the reception desk, the new route may reduce travel time.",
+        "make or become larger": "\"make or become larger\" is a real meaning, but it matches \"increase\", not \"reduce\" in this sentence.",
+        "help or give backing to": "\"help or give backing to\" is a real meaning, but it matches \"support\", not \"reduce\" in this sentence.",
+        "stay the same or stay in place": "\"stay the same or stay in place\" is a real meaning, but it matches \"remain\", not \"reduce\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1370",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"increase\" mean in this sentence? The class note says that prices may increase next month.",
+      "options": [
+        "make or become larger",
+        "help or give backing to",
+        "stay the same or stay in place",
+        "bring things together"
+      ],
+      "answer": "make or become larger",
+      "explanation": "In this sentence, \"increase\" means \"make or become larger\": The class note says that prices may increase next month.",
+      "rationales": {
+        "make or become larger": "In this sentence, \"increase\" means \"make or become larger\": The class note says that prices may increase next month.",
+        "help or give backing to": "\"help or give backing to\" is a real meaning, but it matches \"support\", not \"increase\" in this sentence.",
+        "stay the same or stay in place": "\"stay the same or stay in place\" is a real meaning, but it matches \"remain\", not \"increase\" in this sentence.",
+        "bring things together": "\"bring things together\" is a real meaning, but it matches \"collect\", not \"increase\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1371",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"support\" mean in this sentence? In the practice text, the tutor will support new students.",
+      "options": [
+        "help or give backing to",
+        "stay the same or stay in place",
+        "bring things together",
+        "give what is needed"
+      ],
+      "answer": "help or give backing to",
+      "explanation": "In this sentence, \"support\" means \"help or give backing to\": In the practice text, the tutor will support new students.",
+      "rationales": {
+        "help or give backing to": "In this sentence, \"support\" means \"help or give backing to\": In the practice text, the tutor will support new students.",
+        "stay the same or stay in place": "\"stay the same or stay in place\" is a real meaning, but it matches \"remain\", not \"support\" in this sentence.",
+        "bring things together": "\"bring things together\" is a real meaning, but it matches \"collect\", not \"support\" in this sentence.",
+        "give what is needed": "\"give what is needed\" is a real meaning, but it matches \"provide\", not \"support\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1372",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"remain\" mean in this sentence? During the lesson, the office will remain open.",
+      "options": [
+        "stay the same or stay in place",
+        "bring things together",
+        "give what is needed",
+        "look at similarities and differences"
+      ],
+      "answer": "stay the same or stay in place",
+      "explanation": "In this sentence, \"remain\" means \"stay the same or stay in place\": During the lesson, the office will remain open.",
+      "rationales": {
+        "stay the same or stay in place": "In this sentence, \"remain\" means \"stay the same or stay in place\": During the lesson, the office will remain open.",
+        "bring things together": "\"bring things together\" is a real meaning, but it matches \"collect\", not \"remain\" in this sentence.",
+        "give what is needed": "\"give what is needed\" is a real meaning, but it matches \"provide\", not \"remain\" in this sentence.",
+        "look at similarities and differences": "\"look at similarities and differences\" is a real meaning, but it matches \"compare\", not \"remain\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1373",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"collect\" mean in this sentence? The first example says that the clerk will collect the forms.",
+      "options": [
+        "bring things together",
+        "give what is needed",
+        "look at similarities and differences",
+        "see or become aware of"
+      ],
+      "answer": "bring things together",
+      "explanation": "In this sentence, \"collect\" means \"bring things together\": The first example says that the clerk will collect the forms.",
+      "rationales": {
+        "bring things together": "In this sentence, \"collect\" means \"bring things together\": The first example says that the clerk will collect the forms.",
+        "give what is needed": "\"give what is needed\" is a real meaning, but it matches \"provide\", not \"collect\" in this sentence.",
+        "look at similarities and differences": "\"look at similarities and differences\" is a real meaning, but it matches \"compare\", not \"collect\" in this sentence.",
+        "see or become aware of": "\"see or become aware of\" is a real meaning, but it matches \"notice\", not \"collect\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1374",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"provide\" mean in this sentence? On the notice board, the guide provides useful examples.",
+      "options": [
+        "give what is needed",
+        "look at similarities and differences",
+        "see or become aware of",
+        "be affected or decided by something"
+      ],
+      "answer": "give what is needed",
+      "explanation": "In this sentence, \"provide\" means \"give what is needed\": On the notice board, the guide provides useful examples.",
+      "rationales": {
+        "give what is needed": "In this sentence, \"provide\" means \"give what is needed\": On the notice board, the guide provides useful examples.",
+        "look at similarities and differences": "\"look at similarities and differences\" is a real meaning, but it matches \"compare\", not \"provide\" in this sentence.",
+        "see or become aware of": "\"see or become aware of\" is a real meaning, but it matches \"notice\", not \"provide\" in this sentence.",
+        "be affected or decided by something": "\"be affected or decided by something\" is a real meaning, but it matches \"depend\", not \"provide\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1375",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"compare\" mean in this sentence? The guide gives this sentence: Students compare two answers.",
+      "options": [
+        "look at similarities and differences",
+        "see or become aware of",
+        "be affected or decided by something",
+        "mention as a possible idea"
+      ],
+      "answer": "look at similarities and differences",
+      "explanation": "In this sentence, \"compare\" means \"look at similarities and differences\": The guide gives this sentence: Students compare two answers.",
+      "rationales": {
+        "look at similarities and differences": "In this sentence, \"compare\" means \"look at similarities and differences\": The guide gives this sentence: Students compare two answers.",
+        "see or become aware of": "\"see or become aware of\" is a real meaning, but it matches \"notice\", not \"compare\" in this sentence.",
+        "be affected or decided by something": "\"be affected or decided by something\" is a real meaning, but it matches \"depend\", not \"compare\" in this sentence.",
+        "mention as a possible idea": "\"mention as a possible idea\" is a real meaning, but it matches \"suggest\", not \"compare\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1376",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"notice\" mean in this sentence? In the office email, I noticed a mistake on the form.",
+      "options": [
+        "see or become aware of",
+        "be affected or decided by something",
+        "mention as a possible idea",
+        "keep safe"
+      ],
+      "answer": "see or become aware of",
+      "explanation": "In this sentence, \"notice\" means \"see or become aware of\": In the office email, I noticed a mistake on the form.",
+      "rationales": {
+        "see or become aware of": "In this sentence, \"notice\" means \"see or become aware of\": In the office email, I noticed a mistake on the form.",
+        "be affected or decided by something": "\"be affected or decided by something\" is a real meaning, but it matches \"depend\", not \"notice\" in this sentence.",
+        "mention as a possible idea": "\"mention as a possible idea\" is a real meaning, but it matches \"suggest\", not \"notice\" in this sentence.",
+        "keep safe": "\"keep safe\" is a real meaning, but it matches \"protect\", not \"notice\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1377",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"depend\" mean in this sentence? The reading passage says that the price depends on the date.",
+      "options": [
+        "be affected or decided by something",
+        "mention as a possible idea",
+        "keep safe",
+        "make clear"
+      ],
+      "answer": "be affected or decided by something",
+      "explanation": "In this sentence, \"depend\" means \"be affected or decided by something\": The reading passage says that the price depends on the date.",
+      "rationales": {
+        "be affected or decided by something": "In this sentence, \"depend\" means \"be affected or decided by something\": The reading passage says that the price depends on the date.",
+        "mention as a possible idea": "\"mention as a possible idea\" is a real meaning, but it matches \"suggest\", not \"depend\" in this sentence.",
+        "keep safe": "\"keep safe\" is a real meaning, but it matches \"protect\", not \"depend\" in this sentence.",
+        "make clear": "\"make clear\" is a real meaning, but it matches \"explain\", not \"depend\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1378",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"suggest\" mean in this sentence? At the start of the activity, the teacher suggested a shorter answer.",
+      "options": [
+        "mention as a possible idea",
+        "keep safe",
+        "make clear",
+        "make something happen later"
+      ],
+      "answer": "mention as a possible idea",
+      "explanation": "In this sentence, \"suggest\" means \"mention as a possible idea\": At the start of the activity, the teacher suggested a shorter answer.",
+      "rationales": {
+        "mention as a possible idea": "In this sentence, \"suggest\" means \"mention as a possible idea\": At the start of the activity, the teacher suggested a shorter answer.",
+        "keep safe": "\"keep safe\" is a real meaning, but it matches \"protect\", not \"suggest\" in this sentence.",
+        "make clear": "\"make clear\" is a real meaning, but it matches \"explain\", not \"suggest\" in this sentence.",
+        "make something happen later": "\"make something happen later\" is a real meaning, but it matches \"delay\", not \"suggest\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1379",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"protect\" mean in this sentence? The second example says that the rule protects student privacy.",
+      "options": [
+        "keep safe",
+        "make clear",
+        "make something happen later",
+        "become better"
+      ],
+      "answer": "keep safe",
+      "explanation": "In this sentence, \"protect\" means \"keep safe\": The second example says that the rule protects student privacy.",
+      "rationales": {
+        "keep safe": "In this sentence, \"protect\" means \"keep safe\": The second example says that the rule protects student privacy.",
+        "make clear": "\"make clear\" is a real meaning, but it matches \"explain\", not \"protect\" in this sentence.",
+        "make something happen later": "\"make something happen later\" is a real meaning, but it matches \"delay\", not \"protect\" in this sentence.",
+        "become better": "\"become better\" is a real meaning, but it matches \"improve\", not \"protect\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b1-1380",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"explain\" mean in this sentence? On the class website, the chart explains the process.",
+      "options": [
+        "make clear",
+        "make something happen later",
+        "become better",
+        "need"
+      ],
+      "answer": "make clear",
+      "explanation": "In this sentence, \"explain\" means \"make clear\": On the class website, the chart explains the process.",
+      "rationales": {
+        "make clear": "In this sentence, \"explain\" means \"make clear\": On the class website, the chart explains the process.",
+        "make something happen later": "\"make something happen later\" is a real meaning, but it matches \"delay\", not \"explain\" in this sentence.",
+        "become better": "\"become better\" is a real meaning, but it matches \"improve\", not \"explain\" in this sentence.",
+        "need": "\"need\" is a real meaning, but it matches \"require\", not \"explain\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1381",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"brief\" mean in this sentence? The manager gave a brief explanation.",
+      "options": [
+        "short",
+        "able to be trusted",
+        "correct",
+        "having many parts"
+      ],
+      "answer": "short",
+      "explanation": "In this sentence, \"brief\" means \"short\": The manager gave a brief explanation.",
+      "rationales": {
+        "short": "In this sentence, \"brief\" means \"short\": The manager gave a brief explanation.",
+        "able to be trusted": "\"able to be trusted\" is a real meaning, but it matches \"reliable\", not \"brief\" in this sentence.",
+        "correct": "\"correct\" is a real meaning, but it matches \"accurate\", not \"brief\" in this sentence.",
+        "having many parts": "\"having many parts\" is a real meaning, but it matches \"complex\", not \"brief\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1382",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"reliable\" mean in this sentence? In the clinic, the new schedule is reliable.",
+      "options": [
+        "able to be trusted",
+        "correct",
+        "having many parts",
+        "able to be used"
+      ],
+      "answer": "able to be trusted",
+      "explanation": "In this sentence, \"reliable\" means \"able to be trusted\": In the clinic, the new schedule is reliable.",
+      "rationales": {
+        "able to be trusted": "In this sentence, \"reliable\" means \"able to be trusted\": In the clinic, the new schedule is reliable.",
+        "correct": "\"correct\" is a real meaning, but it matches \"accurate\", not \"reliable\" in this sentence.",
+        "having many parts": "\"having many parts\" is a real meaning, but it matches \"complex\", not \"reliable\" in this sentence.",
+        "able to be used": "\"able to be used\" is a real meaning, but it matches \"available\", not \"reliable\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1383",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"accurate\" mean in this sentence? During the discussion, the final number must be accurate.",
+      "options": [
+        "correct",
+        "having many parts",
+        "able to be used",
+        "working well without wasting time"
+      ],
+      "answer": "correct",
+      "explanation": "In this sentence, \"accurate\" means \"correct\": During the discussion, the final number must be accurate.",
+      "rationales": {
+        "correct": "In this sentence, \"accurate\" means \"correct\": During the discussion, the final number must be accurate.",
+        "having many parts": "\"having many parts\" is a real meaning, but it matches \"complex\", not \"accurate\" in this sentence.",
+        "able to be used": "\"able to be used\" is a real meaning, but it matches \"available\", not \"accurate\" in this sentence.",
+        "working well without wasting time": "\"working well without wasting time\" is a real meaning, but it matches \"efficient\", not \"accurate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1384",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"complex\" mean in this sentence? The example says that the process is complex.",
+      "options": [
+        "having many parts",
+        "able to be used",
+        "working well without wasting time",
+        "able to change easily"
+      ],
+      "answer": "having many parts",
+      "explanation": "In this sentence, \"complex\" means \"having many parts\": The example says that the process is complex.",
+      "rationales": {
+        "having many parts": "In this sentence, \"complex\" means \"having many parts\": The example says that the process is complex.",
+        "able to be used": "\"able to be used\" is a real meaning, but it matches \"available\", not \"complex\" in this sentence.",
+        "working well without wasting time": "\"working well without wasting time\" is a real meaning, but it matches \"efficient\", not \"complex\" in this sentence.",
+        "able to change easily": "\"able to change easily\" is a real meaning, but it matches \"flexible\", not \"complex\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1385",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"available\" mean in this sentence? On the worksheet, the room is available after lunch.",
+      "options": [
+        "able to be used",
+        "working well without wasting time",
+        "able to change easily",
+        "not large in amount or number"
+      ],
+      "answer": "able to be used",
+      "explanation": "In this sentence, \"available\" means \"able to be used\": On the worksheet, the room is available after lunch.",
+      "rationales": {
+        "able to be used": "In this sentence, \"available\" means \"able to be used\": On the worksheet, the room is available after lunch.",
+        "working well without wasting time": "\"working well without wasting time\" is a real meaning, but it matches \"efficient\", not \"available\" in this sentence.",
+        "able to change easily": "\"able to change easily\" is a real meaning, but it matches \"flexible\", not \"available\" in this sentence.",
+        "not large in amount or number": "\"not large in amount or number\" is a real meaning, but it matches \"limited\", not \"available\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1386",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"efficient\" mean in this sentence? The teacher's example is this: The new process is efficient.",
+      "options": [
+        "working well without wasting time",
+        "able to change easily",
+        "not large in amount or number",
+        "very necessary"
+      ],
+      "answer": "working well without wasting time",
+      "explanation": "In this sentence, \"efficient\" means \"working well without wasting time\": The teacher's example is this: The new process is efficient.",
+      "rationales": {
+        "working well without wasting time": "In this sentence, \"efficient\" means \"working well without wasting time\": The teacher's example is this: The new process is efficient.",
+        "able to change easily": "\"able to change easily\" is a real meaning, but it matches \"flexible\", not \"efficient\" in this sentence.",
+        "not large in amount or number": "\"not large in amount or number\" is a real meaning, but it matches \"limited\", not \"efficient\" in this sentence.",
+        "very necessary": "\"very necessary\" is a real meaning, but it matches \"essential\", not \"efficient\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1387",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"flexible\" mean in this sentence? In a short message, the schedule is flexible.",
+      "options": [
+        "able to change easily",
+        "not large in amount or number",
+        "very necessary",
+        "not required"
+      ],
+      "answer": "able to change easily",
+      "explanation": "In this sentence, \"flexible\" means \"able to change easily\": In a short message, the schedule is flexible.",
+      "rationales": {
+        "able to change easily": "In this sentence, \"flexible\" means \"able to change easily\": In a short message, the schedule is flexible.",
+        "not large in amount or number": "\"not large in amount or number\" is a real meaning, but it matches \"limited\", not \"flexible\" in this sentence.",
+        "very necessary": "\"very necessary\" is a real meaning, but it matches \"essential\", not \"flexible\" in this sentence.",
+        "not required": "\"not required\" is a real meaning, but it matches \"optional\", not \"flexible\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1388",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"limited\" mean in this sentence? The report gives this example: The course has limited space.",
+      "options": [
+        "not large in amount or number",
+        "very necessary",
+        "not required",
+        "earlier"
+      ],
+      "answer": "not large in amount or number",
+      "explanation": "In this sentence, \"limited\" means \"not large in amount or number\": The report gives this example: The course has limited space.",
+      "rationales": {
+        "not large in amount or number": "In this sentence, \"limited\" means \"not large in amount or number\": The report gives this example: The course has limited space.",
+        "very necessary": "\"very necessary\" is a real meaning, but it matches \"essential\", not \"limited\" in this sentence.",
+        "not required": "\"not required\" is a real meaning, but it matches \"optional\", not \"limited\" in this sentence.",
+        "earlier": "\"earlier\" is a real meaning, but it matches \"previous\", not \"limited\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1389",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"essential\" mean in this sentence? At the reception desk, a passport is essential for the trip.",
+      "options": [
+        "very necessary",
+        "not required",
+        "earlier",
+        "happening or used now"
+      ],
+      "answer": "very necessary",
+      "explanation": "In this sentence, \"essential\" means \"very necessary\": At the reception desk, a passport is essential for the trip.",
+      "rationales": {
+        "very necessary": "In this sentence, \"essential\" means \"very necessary\": At the reception desk, a passport is essential for the trip.",
+        "not required": "\"not required\" is a real meaning, but it matches \"optional\", not \"essential\" in this sentence.",
+        "earlier": "\"earlier\" is a real meaning, but it matches \"previous\", not \"essential\" in this sentence.",
+        "happening or used now": "\"happening or used now\" is a real meaning, but it matches \"current\", not \"essential\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1390",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"optional\" mean in this sentence? The class note says that the final workshop is optional.",
+      "options": [
+        "not required",
+        "earlier",
+        "happening or used now",
+        "whole"
+      ],
+      "answer": "not required",
+      "explanation": "In this sentence, \"optional\" means \"not required\": The class note says that the final workshop is optional.",
+      "rationales": {
+        "not required": "In this sentence, \"optional\" means \"not required\": The class note says that the final workshop is optional.",
+        "earlier": "\"earlier\" is a real meaning, but it matches \"previous\", not \"optional\" in this sentence.",
+        "happening or used now": "\"happening or used now\" is a real meaning, but it matches \"current\", not \"optional\" in this sentence.",
+        "whole": "\"whole\" is a real meaning, but it matches \"entire\", not \"optional\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1391",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"previous\" mean in this sentence? In the practice text, the previous version was shorter.",
+      "options": [
+        "earlier",
+        "happening or used now",
+        "whole",
+        "a period of waiting"
+      ],
+      "answer": "earlier",
+      "explanation": "In this sentence, \"previous\" means \"earlier\": In the practice text, the previous version was shorter.",
+      "rationales": {
+        "earlier": "In this sentence, \"previous\" means \"earlier\": In the practice text, the previous version was shorter.",
+        "happening or used now": "\"happening or used now\" is a real meaning, but it matches \"current\", not \"previous\" in this sentence.",
+        "whole": "\"whole\" is a real meaning, but it matches \"entire\", not \"previous\" in this sentence.",
+        "a period of waiting": "\"a period of waiting\" is a real meaning, but it matches \"delay\", not \"previous\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1392",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"current\" mean in this sentence? During the lesson, the current rule is stricter.",
+      "options": [
+        "happening or used now",
+        "whole",
+        "a period of waiting",
+        "an advantage"
+      ],
+      "answer": "happening or used now",
+      "explanation": "In this sentence, \"current\" means \"happening or used now\": During the lesson, the current rule is stricter.",
+      "rationales": {
+        "happening or used now": "In this sentence, \"current\" means \"happening or used now\": During the lesson, the current rule is stricter.",
+        "whole": "\"whole\" is a real meaning, but it matches \"entire\", not \"current\" in this sentence.",
+        "a period of waiting": "\"a period of waiting\" is a real meaning, but it matches \"delay\", not \"current\" in this sentence.",
+        "an advantage": "\"an advantage\" is a real meaning, but it matches \"benefit\", not \"current\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1393",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"entire\" mean in this sentence? The first example says that the entire class passed the test.",
+      "options": [
+        "whole",
+        "a period of waiting",
+        "an advantage",
+        "a difficult task or problem"
+      ],
+      "answer": "whole",
+      "explanation": "In this sentence, \"entire\" means \"whole\": The first example says that the entire class passed the test.",
+      "rationales": {
+        "whole": "In this sentence, \"entire\" means \"whole\": The first example says that the entire class passed the test.",
+        "a period of waiting": "\"a period of waiting\" is a real meaning, but it matches \"delay\", not \"entire\" in this sentence.",
+        "an advantage": "\"an advantage\" is a real meaning, but it matches \"benefit\", not \"entire\" in this sentence.",
+        "a difficult task or problem": "\"a difficult task or problem\" is a real meaning, but it matches \"challenge\", not \"entire\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1394",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"delay\" mean in this sentence? On the notice board, the delay lasted twenty minutes.",
+      "options": [
+        "a period of waiting",
+        "an advantage",
+        "a difficult task or problem",
+        "a problem or topic"
+      ],
+      "answer": "a period of waiting",
+      "explanation": "In this sentence, \"delay\" means \"a period of waiting\": On the notice board, the delay lasted twenty minutes.",
+      "rationales": {
+        "a period of waiting": "In this sentence, \"delay\" means \"a period of waiting\": On the notice board, the delay lasted twenty minutes.",
+        "an advantage": "\"an advantage\" is a real meaning, but it matches \"benefit\", not \"delay\" in this sentence.",
+        "a difficult task or problem": "\"a difficult task or problem\" is a real meaning, but it matches \"challenge\", not \"delay\" in this sentence.",
+        "a problem or topic": "\"a problem or topic\" is a real meaning, but it matches \"issue\", not \"delay\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1395",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"benefit\" mean in this sentence? The guide gives this sentence: The main benefit is lower cost.",
+      "options": [
+        "an advantage",
+        "a difficult task or problem",
+        "a problem or topic",
+        "an answer to a problem"
+      ],
+      "answer": "an advantage",
+      "explanation": "In this sentence, \"benefit\" means \"an advantage\": The guide gives this sentence: The main benefit is lower cost.",
+      "rationales": {
+        "an advantage": "In this sentence, \"benefit\" means \"an advantage\": The guide gives this sentence: The main benefit is lower cost.",
+        "a difficult task or problem": "\"a difficult task or problem\" is a real meaning, but it matches \"challenge\", not \"benefit\" in this sentence.",
+        "a problem or topic": "\"a problem or topic\" is a real meaning, but it matches \"issue\", not \"benefit\" in this sentence.",
+        "an answer to a problem": "\"an answer to a problem\" is a real meaning, but it matches \"solution\", not \"benefit\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1396",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"challenge\" mean in this sentence? In the office email, the new system created a challenge.",
+      "options": [
+        "a difficult task or problem",
+        "a problem or topic",
+        "an answer to a problem",
+        "ask for something"
+      ],
+      "answer": "a difficult task or problem",
+      "explanation": "In this sentence, \"challenge\" means \"a difficult task or problem\": In the office email, the new system created a challenge.",
+      "rationales": {
+        "a difficult task or problem": "In this sentence, \"challenge\" means \"a difficult task or problem\": In the office email, the new system created a challenge.",
+        "a problem or topic": "\"a problem or topic\" is a real meaning, but it matches \"issue\", not \"challenge\" in this sentence.",
+        "an answer to a problem": "\"an answer to a problem\" is a real meaning, but it matches \"solution\", not \"challenge\" in this sentence.",
+        "ask for something": "\"ask for something\" is a real meaning, but it matches \"request\", not \"challenge\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1397",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"issue\" mean in this sentence? The reading passage says that the team discussed one safety issue.",
+      "options": [
+        "a problem or topic",
+        "an answer to a problem",
+        "ask for something",
+        "easy to reach or use"
+      ],
+      "answer": "a problem or topic",
+      "explanation": "In this sentence, \"issue\" means \"a problem or topic\": The reading passage says that the team discussed one safety issue.",
+      "rationales": {
+        "a problem or topic": "In this sentence, \"issue\" means \"a problem or topic\": The reading passage says that the team discussed one safety issue.",
+        "an answer to a problem": "\"an answer to a problem\" is a real meaning, but it matches \"solution\", not \"issue\" in this sentence.",
+        "ask for something": "\"ask for something\" is a real meaning, but it matches \"request\", not \"issue\" in this sentence.",
+        "easy to reach or use": "\"easy to reach or use\" is a real meaning, but it matches \"accessible\", not \"issue\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1398",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"solution\" mean in this sentence? At the start of the activity, the manager proposed a solution.",
+      "options": [
+        "an answer to a problem",
+        "ask for something",
+        "easy to reach or use",
+        "short"
+      ],
+      "answer": "an answer to a problem",
+      "explanation": "In this sentence, \"solution\" means \"an answer to a problem\": At the start of the activity, the manager proposed a solution.",
+      "rationales": {
+        "an answer to a problem": "In this sentence, \"solution\" means \"an answer to a problem\": At the start of the activity, the manager proposed a solution.",
+        "ask for something": "\"ask for something\" is a real meaning, but it matches \"request\", not \"solution\" in this sentence.",
+        "easy to reach or use": "\"easy to reach or use\" is a real meaning, but it matches \"accessible\", not \"solution\" in this sentence.",
+        "short": "\"short\" is a real meaning, but it matches \"brief\", not \"solution\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1399",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"request\" mean in this sentence? The second example says that the student made a request.",
+      "options": [
+        "ask for something",
+        "easy to reach or use",
+        "short",
+        "able to be trusted"
+      ],
+      "answer": "ask for something",
+      "explanation": "In this sentence, \"request\" means \"ask for something\": The second example says that the student made a request.",
+      "rationales": {
+        "ask for something": "In this sentence, \"request\" means \"ask for something\": The second example says that the student made a request.",
+        "easy to reach or use": "\"easy to reach or use\" is a real meaning, but it matches \"accessible\", not \"request\" in this sentence.",
+        "short": "\"short\" is a real meaning, but it matches \"brief\", not \"request\" in this sentence.",
+        "able to be trusted": "\"able to be trusted\" is a real meaning, but it matches \"reliable\", not \"request\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-b2-1400",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"accessible\" mean in this sentence? On the class website, the online form is accessible after login.",
+      "options": [
+        "easy to reach or use",
+        "short",
+        "able to be trusted",
+        "correct"
+      ],
+      "answer": "easy to reach or use",
+      "explanation": "In this sentence, \"accessible\" means \"easy to reach or use\": On the class website, the online form is accessible after login.",
+      "rationales": {
+        "easy to reach or use": "In this sentence, \"accessible\" means \"easy to reach or use\": On the class website, the online form is accessible after login.",
+        "short": "\"short\" is a real meaning, but it matches \"brief\", not \"accessible\" in this sentence.",
+        "able to be trusted": "\"able to be trusted\" is a real meaning, but it matches \"reliable\", not \"accessible\" in this sentence.",
+        "correct": "\"correct\" is a real meaning, but it matches \"accurate\", not \"accessible\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1401",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"reluctant\" mean in this sentence? Mina was reluctant to change the plan.",
+      "options": [
+        "not willing",
+        "not easy to notice",
+        "large or important",
+        "lasting for a short time"
+      ],
+      "answer": "not willing",
+      "explanation": "In this sentence, \"reluctant\" means \"not willing\": Mina was reluctant to change the plan.",
+      "rationales": {
+        "not willing": "In this sentence, \"reluctant\" means \"not willing\": Mina was reluctant to change the plan.",
+        "not easy to notice": "\"not easy to notice\" is a real meaning, but it matches \"subtle\", not \"reluctant\" in this sentence.",
+        "large or important": "\"large or important\" is a real meaning, but it matches \"substantial\", not \"reluctant\" in this sentence.",
+        "lasting for a short time": "\"lasting for a short time\" is a real meaning, but it matches \"temporary\", not \"reluctant\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1402",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"subtle\" mean in this sentence? In the clinic, the difference was subtle.",
+      "options": [
+        "not easy to notice",
+        "large or important",
+        "lasting for a short time",
+        "steady and not changing"
+      ],
+      "answer": "not easy to notice",
+      "explanation": "In this sentence, \"subtle\" means \"not easy to notice\": In the clinic, the difference was subtle.",
+      "rationales": {
+        "not easy to notice": "In this sentence, \"subtle\" means \"not easy to notice\": In the clinic, the difference was subtle.",
+        "large or important": "\"large or important\" is a real meaning, but it matches \"substantial\", not \"subtle\" in this sentence.",
+        "lasting for a short time": "\"lasting for a short time\" is a real meaning, but it matches \"temporary\", not \"subtle\" in this sentence.",
+        "steady and not changing": "\"steady and not changing\" is a real meaning, but it matches \"consistent\", not \"subtle\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1403",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"substantial\" mean in this sentence? During the discussion, the change made a substantial difference.",
+      "options": [
+        "large or important",
+        "lasting for a short time",
+        "steady and not changing",
+        "having mixed feelings"
+      ],
+      "answer": "large or important",
+      "explanation": "In this sentence, \"substantial\" means \"large or important\": During the discussion, the change made a substantial difference.",
+      "rationales": {
+        "large or important": "In this sentence, \"substantial\" means \"large or important\": During the discussion, the change made a substantial difference.",
+        "lasting for a short time": "\"lasting for a short time\" is a real meaning, but it matches \"temporary\", not \"substantial\" in this sentence.",
+        "steady and not changing": "\"steady and not changing\" is a real meaning, but it matches \"consistent\", not \"substantial\" in this sentence.",
+        "having mixed feelings": "\"having mixed feelings\" is a real meaning, but it matches \"ambivalent\", not \"substantial\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1404",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"temporary\" mean in this sentence? The example says that this is a temporary notice.",
+      "options": [
+        "lasting for a short time",
+        "steady and not changing",
+        "having mixed feelings",
+        "reasonable or believable"
+      ],
+      "answer": "lasting for a short time",
+      "explanation": "In this sentence, \"temporary\" means \"lasting for a short time\": The example says that this is a temporary notice.",
+      "rationales": {
+        "lasting for a short time": "In this sentence, \"temporary\" means \"lasting for a short time\": The example says that this is a temporary notice.",
+        "steady and not changing": "\"steady and not changing\" is a real meaning, but it matches \"consistent\", not \"temporary\" in this sentence.",
+        "having mixed feelings": "\"having mixed feelings\" is a real meaning, but it matches \"ambivalent\", not \"temporary\" in this sentence.",
+        "reasonable or believable": "\"reasonable or believable\" is a real meaning, but it matches \"plausible\", not \"temporary\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1405",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"consistent\" mean in this sentence? On the worksheet, her attendance was consistent.",
+      "options": [
+        "steady and not changing",
+        "having mixed feelings",
+        "reasonable or believable",
+        "unnecessary because it repeats something"
+      ],
+      "answer": "steady and not changing",
+      "explanation": "In this sentence, \"consistent\" means \"steady and not changing\": On the worksheet, her attendance was consistent.",
+      "rationales": {
+        "steady and not changing": "In this sentence, \"consistent\" means \"steady and not changing\": On the worksheet, her attendance was consistent.",
+        "having mixed feelings": "\"having mixed feelings\" is a real meaning, but it matches \"ambivalent\", not \"consistent\" in this sentence.",
+        "reasonable or believable": "\"reasonable or believable\" is a real meaning, but it matches \"plausible\", not \"consistent\" in this sentence.",
+        "unnecessary because it repeats something": "\"unnecessary because it repeats something\" is a real meaning, but it matches \"redundant\", not \"consistent\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1406",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"ambivalent\" mean in this sentence? The teacher's example is this: The committee was ambivalent about the proposal.",
+      "options": [
+        "having mixed feelings",
+        "reasonable or believable",
+        "unnecessary because it repeats something",
+        "reach a conclusion from evidence"
+      ],
+      "answer": "having mixed feelings",
+      "explanation": "In this sentence, \"ambivalent\" means \"having mixed feelings\": The teacher's example is this: The committee was ambivalent about the proposal.",
+      "rationales": {
+        "having mixed feelings": "In this sentence, \"ambivalent\" means \"having mixed feelings\": The teacher's example is this: The committee was ambivalent about the proposal.",
+        "reasonable or believable": "\"reasonable or believable\" is a real meaning, but it matches \"plausible\", not \"ambivalent\" in this sentence.",
+        "unnecessary because it repeats something": "\"unnecessary because it repeats something\" is a real meaning, but it matches \"redundant\", not \"ambivalent\" in this sentence.",
+        "reach a conclusion from evidence": "\"reach a conclusion from evidence\" is a real meaning, but it matches \"infer\", not \"ambivalent\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1407",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"plausible\" mean in this sentence? In a short message, the explanation sounded plausible.",
+      "options": [
+        "reasonable or believable",
+        "unnecessary because it repeats something",
+        "reach a conclusion from evidence",
+        "change to improve"
+      ],
+      "answer": "reasonable or believable",
+      "explanation": "In this sentence, \"plausible\" means \"reasonable or believable\": In a short message, the explanation sounded plausible.",
+      "rationales": {
+        "reasonable or believable": "In this sentence, \"plausible\" means \"reasonable or believable\": In a short message, the explanation sounded plausible.",
+        "unnecessary because it repeats something": "\"unnecessary because it repeats something\" is a real meaning, but it matches \"redundant\", not \"plausible\" in this sentence.",
+        "reach a conclusion from evidence": "\"reach a conclusion from evidence\" is a real meaning, but it matches \"infer\", not \"plausible\" in this sentence.",
+        "change to improve": "\"change to improve\" is a real meaning, but it matches \"revise\", not \"plausible\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1408",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"redundant\" mean in this sentence? The report gives this example: The final paragraph was redundant.",
+      "options": [
+        "unnecessary because it repeats something",
+        "reach a conclusion from evidence",
+        "change to improve",
+        "make easier to understand"
+      ],
+      "answer": "unnecessary because it repeats something",
+      "explanation": "In this sentence, \"redundant\" means \"unnecessary because it repeats something\": The report gives this example: The final paragraph was redundant.",
+      "rationales": {
+        "unnecessary because it repeats something": "In this sentence, \"redundant\" means \"unnecessary because it repeats something\": The report gives this example: The final paragraph was redundant.",
+        "reach a conclusion from evidence": "\"reach a conclusion from evidence\" is a real meaning, but it matches \"infer\", not \"redundant\" in this sentence.",
+        "change to improve": "\"change to improve\" is a real meaning, but it matches \"revise\", not \"redundant\" in this sentence.",
+        "make easier to understand": "\"make easier to understand\" is a real meaning, but it matches \"clarify\", not \"redundant\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1409",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"infer\" mean in this sentence? At the reception desk, readers may infer a change in policy.",
+      "options": [
+        "reach a conclusion from evidence",
+        "change to improve",
+        "make easier to understand",
+        "a limit"
+      ],
+      "answer": "reach a conclusion from evidence",
+      "explanation": "In this sentence, \"infer\" means \"reach a conclusion from evidence\": At the reception desk, readers may infer a change in policy.",
+      "rationales": {
+        "reach a conclusion from evidence": "In this sentence, \"infer\" means \"reach a conclusion from evidence\": At the reception desk, readers may infer a change in policy.",
+        "change to improve": "\"change to improve\" is a real meaning, but it matches \"revise\", not \"infer\" in this sentence.",
+        "make easier to understand": "\"make easier to understand\" is a real meaning, but it matches \"clarify\", not \"infer\" in this sentence.",
+        "a limit": "\"a limit\" is a real meaning, but it matches \"constraint\", not \"infer\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1410",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"revise\" mean in this sentence? The class note says that the author will revise the introduction.",
+      "options": [
+        "change to improve",
+        "make easier to understand",
+        "a limit",
+        "something more important than other things"
+      ],
+      "answer": "change to improve",
+      "explanation": "In this sentence, \"revise\" means \"change to improve\": The class note says that the author will revise the introduction.",
+      "rationales": {
+        "change to improve": "In this sentence, \"revise\" means \"change to improve\": The class note says that the author will revise the introduction.",
+        "make easier to understand": "\"make easier to understand\" is a real meaning, but it matches \"clarify\", not \"revise\" in this sentence.",
+        "a limit": "\"a limit\" is a real meaning, but it matches \"constraint\", not \"revise\" in this sentence.",
+        "something more important than other things": "\"something more important than other things\" is a real meaning, but it matches \"priority\", not \"revise\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1411",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"clarify\" mean in this sentence? In the practice text, the note clarifies the deadline.",
+      "options": [
+        "make easier to understand",
+        "a limit",
+        "something more important than other things",
+        "combine into a whole"
+      ],
+      "answer": "make easier to understand",
+      "explanation": "In this sentence, \"clarify\" means \"make easier to understand\": In the practice text, the note clarifies the deadline.",
+      "rationales": {
+        "make easier to understand": "In this sentence, \"clarify\" means \"make easier to understand\": In the practice text, the note clarifies the deadline.",
+        "a limit": "\"a limit\" is a real meaning, but it matches \"constraint\", not \"clarify\" in this sentence.",
+        "something more important than other things": "\"something more important than other things\" is a real meaning, but it matches \"priority\", not \"clarify\" in this sentence.",
+        "combine into a whole": "\"combine into a whole\" is a real meaning, but it matches \"integrate\", not \"clarify\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1412",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"constraint\" mean in this sentence? During the lesson, the budget created a serious constraint.",
+      "options": [
+        "a limit",
+        "something more important than other things",
+        "combine into a whole",
+        "change partly"
+      ],
+      "answer": "a limit",
+      "explanation": "In this sentence, \"constraint\" means \"a limit\": During the lesson, the budget created a serious constraint.",
+      "rationales": {
+        "a limit": "In this sentence, \"constraint\" means \"a limit\": During the lesson, the budget created a serious constraint.",
+        "something more important than other things": "\"something more important than other things\" is a real meaning, but it matches \"priority\", not \"constraint\" in this sentence.",
+        "combine into a whole": "\"combine into a whole\" is a real meaning, but it matches \"integrate\", not \"constraint\" in this sentence.",
+        "change partly": "\"change partly\" is a real meaning, but it matches \"modify\", not \"constraint\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1413",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"priority\" mean in this sentence? The first example says that safety became the first priority.",
+      "options": [
+        "something more important than other things",
+        "combine into a whole",
+        "change partly",
+        "watch carefully over time"
+      ],
+      "answer": "something more important than other things",
+      "explanation": "In this sentence, \"priority\" means \"something more important than other things\": The first example says that safety became the first priority.",
+      "rationales": {
+        "something more important than other things": "In this sentence, \"priority\" means \"something more important than other things\": The first example says that safety became the first priority.",
+        "combine into a whole": "\"combine into a whole\" is a real meaning, but it matches \"integrate\", not \"priority\" in this sentence.",
+        "change partly": "\"change partly\" is a real meaning, but it matches \"modify\", not \"priority\" in this sentence.",
+        "watch carefully over time": "\"watch carefully over time\" is a real meaning, but it matches \"monitor\", not \"priority\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1414",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"integrate\" mean in this sentence? On the notice board, the course integrates reading and writing.",
+      "options": [
+        "combine into a whole",
+        "change partly",
+        "watch carefully over time",
+        "settle or solve"
+      ],
+      "answer": "combine into a whole",
+      "explanation": "In this sentence, \"integrate\" means \"combine into a whole\": On the notice board, the course integrates reading and writing.",
+      "rationales": {
+        "combine into a whole": "In this sentence, \"integrate\" means \"combine into a whole\": On the notice board, the course integrates reading and writing.",
+        "change partly": "\"change partly\" is a real meaning, but it matches \"modify\", not \"integrate\" in this sentence.",
+        "watch carefully over time": "\"watch carefully over time\" is a real meaning, but it matches \"monitor\", not \"integrate\" in this sentence.",
+        "settle or solve": "\"settle or solve\" is a real meaning, but it matches \"resolve\", not \"integrate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1415",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"modify\" mean in this sentence? The guide gives this sentence: The office modified the rule.",
+      "options": [
+        "change partly",
+        "watch carefully over time",
+        "settle or solve",
+        "keep"
+      ],
+      "answer": "change partly",
+      "explanation": "In this sentence, \"modify\" means \"change partly\": The guide gives this sentence: The office modified the rule.",
+      "rationales": {
+        "change partly": "In this sentence, \"modify\" means \"change partly\": The guide gives this sentence: The office modified the rule.",
+        "watch carefully over time": "\"watch carefully over time\" is a real meaning, but it matches \"monitor\", not \"modify\" in this sentence.",
+        "settle or solve": "\"settle or solve\" is a real meaning, but it matches \"resolve\", not \"modify\" in this sentence.",
+        "keep": "\"keep\" is a real meaning, but it matches \"retain\", not \"modify\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1416",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"monitor\" mean in this sentence? In the office email, the clinic will monitor attendance.",
+      "options": [
+        "watch carefully over time",
+        "settle or solve",
+        "keep",
+        "change direction or emphasis"
+      ],
+      "answer": "watch carefully over time",
+      "explanation": "In this sentence, \"monitor\" means \"watch carefully over time\": In the office email, the clinic will monitor attendance.",
+      "rationales": {
+        "watch carefully over time": "In this sentence, \"monitor\" means \"watch carefully over time\": In the office email, the clinic will monitor attendance.",
+        "settle or solve": "\"settle or solve\" is a real meaning, but it matches \"resolve\", not \"monitor\" in this sentence.",
+        "keep": "\"keep\" is a real meaning, but it matches \"retain\", not \"monitor\" in this sentence.",
+        "change direction or emphasis": "\"change direction or emphasis\" is a real meaning, but it matches \"shift\", not \"monitor\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1417",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"resolve\" mean in this sentence? The reading passage says that the team resolved the complaint.",
+      "options": [
+        "settle or solve",
+        "keep",
+        "change direction or emphasis",
+        "found in many places"
+      ],
+      "answer": "settle or solve",
+      "explanation": "In this sentence, \"resolve\" means \"settle or solve\": The reading passage says that the team resolved the complaint.",
+      "rationales": {
+        "settle or solve": "In this sentence, \"resolve\" means \"settle or solve\": The reading passage says that the team resolved the complaint.",
+        "keep": "\"keep\" is a real meaning, but it matches \"retain\", not \"resolve\" in this sentence.",
+        "change direction or emphasis": "\"change direction or emphasis\" is a real meaning, but it matches \"shift\", not \"resolve\" in this sentence.",
+        "found in many places": "\"found in many places\" is a real meaning, but it matches \"widespread\", not \"resolve\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1418",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"retain\" mean in this sentence? At the start of the activity, the school retained the old schedule.",
+      "options": [
+        "keep",
+        "change direction or emphasis",
+        "found in many places",
+        "not willing"
+      ],
+      "answer": "keep",
+      "explanation": "In this sentence, \"retain\" means \"keep\": At the start of the activity, the school retained the old schedule.",
+      "rationales": {
+        "keep": "In this sentence, \"retain\" means \"keep\": At the start of the activity, the school retained the old schedule.",
+        "change direction or emphasis": "\"change direction or emphasis\" is a real meaning, but it matches \"shift\", not \"retain\" in this sentence.",
+        "found in many places": "\"found in many places\" is a real meaning, but it matches \"widespread\", not \"retain\" in this sentence.",
+        "not willing": "\"not willing\" is a real meaning, but it matches \"reluctant\", not \"retain\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1419",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"shift\" mean in this sentence? The second example says that the discussion shifted to cost.",
+      "options": [
+        "change direction or emphasis",
+        "found in many places",
+        "not willing",
+        "not easy to notice"
+      ],
+      "answer": "change direction or emphasis",
+      "explanation": "In this sentence, \"shift\" means \"change direction or emphasis\": The second example says that the discussion shifted to cost.",
+      "rationales": {
+        "change direction or emphasis": "In this sentence, \"shift\" means \"change direction or emphasis\": The second example says that the discussion shifted to cost.",
+        "found in many places": "\"found in many places\" is a real meaning, but it matches \"widespread\", not \"shift\" in this sentence.",
+        "not willing": "\"not willing\" is a real meaning, but it matches \"reluctant\", not \"shift\" in this sentence.",
+        "not easy to notice": "\"not easy to notice\" is a real meaning, but it matches \"subtle\", not \"shift\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c1-1420",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"widespread\" mean in this sentence? On the class website, the problem was widespread.",
+      "options": [
+        "found in many places",
+        "not willing",
+        "not easy to notice",
+        "large or important"
+      ],
+      "answer": "found in many places",
+      "explanation": "In this sentence, \"widespread\" means \"found in many places\": On the class website, the problem was widespread.",
+      "rationales": {
+        "found in many places": "In this sentence, \"widespread\" means \"found in many places\": On the class website, the problem was widespread.",
+        "not willing": "\"not willing\" is a real meaning, but it matches \"reluctant\", not \"widespread\" in this sentence.",
+        "not easy to notice": "\"not easy to notice\" is a real meaning, but it matches \"subtle\", not \"widespread\" in this sentence.",
+        "large or important": "\"large or important\" is a real meaning, but it matches \"substantial\", not \"widespread\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1421",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"tentative\" mean in this sentence? The committee reached a tentative agreement.",
+      "options": [
+        "not final or certain",
+        "having more than one possible meaning",
+        "not needed because it repeats something",
+        "reasonable or believable"
+      ],
+      "answer": "not final or certain",
+      "explanation": "In this sentence, \"tentative\" means \"not final or certain\": The committee reached a tentative agreement.",
+      "rationales": {
+        "not final or certain": "In this sentence, \"tentative\" means \"not final or certain\": The committee reached a tentative agreement.",
+        "having more than one possible meaning": "\"having more than one possible meaning\" is a real meaning, but it matches \"ambiguous\", not \"tentative\" in this sentence.",
+        "not needed because it repeats something": "\"not needed because it repeats something\" is a real meaning, but it matches \"redundant\", not \"tentative\" in this sentence.",
+        "reasonable or believable": "\"reasonable or believable\" is a real meaning, but it matches \"plausible\", not \"tentative\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1422",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"ambiguous\" mean in this sentence? In the clinic, the instruction was ambiguous.",
+      "options": [
+        "having more than one possible meaning",
+        "not needed because it repeats something",
+        "reasonable or believable",
+        "become worse"
+      ],
+      "answer": "having more than one possible meaning",
+      "explanation": "In this sentence, \"ambiguous\" means \"having more than one possible meaning\": In the clinic, the instruction was ambiguous.",
+      "rationales": {
+        "having more than one possible meaning": "In this sentence, \"ambiguous\" means \"having more than one possible meaning\": In the clinic, the instruction was ambiguous.",
+        "not needed because it repeats something": "\"not needed because it repeats something\" is a real meaning, but it matches \"redundant\", not \"ambiguous\" in this sentence.",
+        "reasonable or believable": "\"reasonable or believable\" is a real meaning, but it matches \"plausible\", not \"ambiguous\" in this sentence.",
+        "become worse": "\"become worse\" is a real meaning, but it matches \"deteriorate\", not \"ambiguous\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1423",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"redundant\" mean in this sentence? During the discussion, the final sentence was redundant.",
+      "options": [
+        "not needed because it repeats something",
+        "reasonable or believable",
+        "become worse",
+        "admit something is true despite reluctance"
+      ],
+      "answer": "not needed because it repeats something",
+      "explanation": "In this sentence, \"redundant\" means \"not needed because it repeats something\": During the discussion, the final sentence was redundant.",
+      "rationales": {
+        "not needed because it repeats something": "In this sentence, \"redundant\" means \"not needed because it repeats something\": During the discussion, the final sentence was redundant.",
+        "reasonable or believable": "\"reasonable or believable\" is a real meaning, but it matches \"plausible\", not \"redundant\" in this sentence.",
+        "become worse": "\"become worse\" is a real meaning, but it matches \"deteriorate\", not \"redundant\" in this sentence.",
+        "admit something is true despite reluctance": "\"admit something is true despite reluctance\" is a real meaning, but it matches \"concede\", not \"redundant\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1424",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"plausible\" mean in this sentence? The example says that the explanation seemed plausible.",
+      "options": [
+        "reasonable or believable",
+        "become worse",
+        "admit something is true despite reluctance",
+        "weaken support for something"
+      ],
+      "answer": "reasonable or believable",
+      "explanation": "In this sentence, \"plausible\" means \"reasonable or believable\": The example says that the explanation seemed plausible.",
+      "rationales": {
+        "reasonable or believable": "In this sentence, \"plausible\" means \"reasonable or believable\": The example says that the explanation seemed plausible.",
+        "become worse": "\"become worse\" is a real meaning, but it matches \"deteriorate\", not \"plausible\" in this sentence.",
+        "admit something is true despite reluctance": "\"admit something is true despite reluctance\" is a real meaning, but it matches \"concede\", not \"plausible\" in this sentence.",
+        "weaken support for something": "\"weaken support for something\" is a real meaning, but it matches \"undermine\", not \"plausible\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1425",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"deteriorate\" mean in this sentence? On the worksheet, the old building may deteriorate without repairs.",
+      "options": [
+        "become worse",
+        "admit something is true despite reluctance",
+        "weaken support for something",
+        "justify"
+      ],
+      "answer": "become worse",
+      "explanation": "In this sentence, \"deteriorate\" means \"become worse\": On the worksheet, the old building may deteriorate without repairs.",
+      "rationales": {
+        "become worse": "In this sentence, \"deteriorate\" means \"become worse\": On the worksheet, the old building may deteriorate without repairs.",
+        "admit something is true despite reluctance": "\"admit something is true despite reluctance\" is a real meaning, but it matches \"concede\", not \"deteriorate\" in this sentence.",
+        "weaken support for something": "\"weaken support for something\" is a real meaning, but it matches \"undermine\", not \"deteriorate\" in this sentence.",
+        "justify": "\"justify\" is a real meaning, but it matches \"warrant\", not \"deteriorate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1426",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"concede\" mean in this sentence? The teacher's example is this: The author concedes one limitation.",
+      "options": [
+        "admit something is true despite reluctance",
+        "weaken support for something",
+        "justify",
+        "keep going or support over time"
+      ],
+      "answer": "admit something is true despite reluctance",
+      "explanation": "In this sentence, \"concede\" means \"admit something is true despite reluctance\": The teacher's example is this: The author concedes one limitation.",
+      "rationales": {
+        "admit something is true despite reluctance": "In this sentence, \"concede\" means \"admit something is true despite reluctance\": The teacher's example is this: The author concedes one limitation.",
+        "weaken support for something": "\"weaken support for something\" is a real meaning, but it matches \"undermine\", not \"concede\" in this sentence.",
+        "justify": "\"justify\" is a real meaning, but it matches \"warrant\", not \"concede\" in this sentence.",
+        "keep going or support over time": "\"keep going or support over time\" is a real meaning, but it matches \"sustain\", not \"concede\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1427",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"undermine\" mean in this sentence? In a short message, the missing data undermine the claim.",
+      "options": [
+        "weaken support for something",
+        "justify",
+        "keep going or support over time",
+        "accept as likely without proof"
+      ],
+      "answer": "weaken support for something",
+      "explanation": "In this sentence, \"undermine\" means \"weaken support for something\": In a short message, the missing data undermine the claim.",
+      "rationales": {
+        "weaken support for something": "In this sentence, \"undermine\" means \"weaken support for something\": In a short message, the missing data undermine the claim.",
+        "justify": "\"justify\" is a real meaning, but it matches \"warrant\", not \"undermine\" in this sentence.",
+        "keep going or support over time": "\"keep going or support over time\" is a real meaning, but it matches \"sustain\", not \"undermine\" in this sentence.",
+        "accept as likely without proof": "\"accept as likely without proof\" is a real meaning, but it matches \"presume\", not \"undermine\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1428",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"warrant\" mean in this sentence? The report gives this example: The evidence does not warrant that conclusion.",
+      "options": [
+        "justify",
+        "keep going or support over time",
+        "accept as likely without proof",
+        "show that a claim is false"
+      ],
+      "answer": "justify",
+      "explanation": "In this sentence, \"warrant\" means \"justify\": The report gives this example: The evidence does not warrant that conclusion.",
+      "rationales": {
+        "justify": "In this sentence, \"warrant\" means \"justify\": The report gives this example: The evidence does not warrant that conclusion.",
+        "keep going or support over time": "\"keep going or support over time\" is a real meaning, but it matches \"sustain\", not \"warrant\" in this sentence.",
+        "accept as likely without proof": "\"accept as likely without proof\" is a real meaning, but it matches \"presume\", not \"warrant\" in this sentence.",
+        "show that a claim is false": "\"show that a claim is false\" is a real meaning, but it matches \"refute\", not \"warrant\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1429",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"sustain\" mean in this sentence? At the reception desk, the program could not sustain the early gains.",
+      "options": [
+        "keep going or support over time",
+        "accept as likely without proof",
+        "show that a claim is false",
+        "make two things consistent"
+      ],
+      "answer": "keep going or support over time",
+      "explanation": "In this sentence, \"sustain\" means \"keep going or support over time\": At the reception desk, the program could not sustain the early gains.",
+      "rationales": {
+        "keep going or support over time": "In this sentence, \"sustain\" means \"keep going or support over time\": At the reception desk, the program could not sustain the early gains.",
+        "accept as likely without proof": "\"accept as likely without proof\" is a real meaning, but it matches \"presume\", not \"sustain\" in this sentence.",
+        "show that a claim is false": "\"show that a claim is false\" is a real meaning, but it matches \"refute\", not \"sustain\" in this sentence.",
+        "make two things consistent": "\"make two things consistent\" is a real meaning, but it matches \"reconcile\", not \"sustain\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1430",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"presume\" mean in this sentence? The class note says that the model presumes stable attendance.",
+      "options": [
+        "accept as likely without proof",
+        "show that a claim is false",
+        "make two things consistent",
+        "make less important or strong"
+      ],
+      "answer": "accept as likely without proof",
+      "explanation": "In this sentence, \"presume\" means \"accept as likely without proof\": The class note says that the model presumes stable attendance.",
+      "rationales": {
+        "accept as likely without proof": "In this sentence, \"presume\" means \"accept as likely without proof\": The class note says that the model presumes stable attendance.",
+        "show that a claim is false": "\"show that a claim is false\" is a real meaning, but it matches \"refute\", not \"presume\" in this sentence.",
+        "make two things consistent": "\"make two things consistent\" is a real meaning, but it matches \"reconcile\", not \"presume\" in this sentence.",
+        "make less important or strong": "\"make less important or strong\" is a real meaning, but it matches \"diminish\", not \"presume\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1431",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"refute\" mean in this sentence? In the practice text, the appendix tries to refute the objection.",
+      "options": [
+        "show that a claim is false",
+        "make two things consistent",
+        "make less important or strong",
+        "strong and persuasive"
+      ],
+      "answer": "show that a claim is false",
+      "explanation": "In this sentence, \"refute\" means \"show that a claim is false\": In the practice text, the appendix tries to refute the objection.",
+      "rationales": {
+        "show that a claim is false": "In this sentence, \"refute\" means \"show that a claim is false\": In the practice text, the appendix tries to refute the objection.",
+        "make two things consistent": "\"make two things consistent\" is a real meaning, but it matches \"reconcile\", not \"refute\" in this sentence.",
+        "make less important or strong": "\"make less important or strong\" is a real meaning, but it matches \"diminish\", not \"refute\" in this sentence.",
+        "strong and persuasive": "\"strong and persuasive\" is a real meaning, but it matches \"compelling\", not \"refute\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1432",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"reconcile\" mean in this sentence? During the lesson, the revision reconciles two conflicting rules.",
+      "options": [
+        "make two things consistent",
+        "make less important or strong",
+        "strong and persuasive",
+        "small and not central"
+      ],
+      "answer": "make two things consistent",
+      "explanation": "In this sentence, \"reconcile\" means \"make two things consistent\": During the lesson, the revision reconciles two conflicting rules.",
+      "rationales": {
+        "make two things consistent": "In this sentence, \"reconcile\" means \"make two things consistent\": During the lesson, the revision reconciles two conflicting rules.",
+        "make less important or strong": "\"make less important or strong\" is a real meaning, but it matches \"diminish\", not \"reconcile\" in this sentence.",
+        "strong and persuasive": "\"strong and persuasive\" is a real meaning, but it matches \"compelling\", not \"reconcile\" in this sentence.",
+        "small and not central": "\"small and not central\" is a real meaning, but it matches \"marginal\", not \"reconcile\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1433",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"diminish\" mean in this sentence? The first example says that the exception may diminish the policy's effect.",
+      "options": [
+        "make less important or strong",
+        "strong and persuasive",
+        "small and not central",
+        "temporary and open to change"
+      ],
+      "answer": "make less important or strong",
+      "explanation": "In this sentence, \"diminish\" means \"make less important or strong\": The first example says that the exception may diminish the policy's effect.",
+      "rationales": {
+        "make less important or strong": "In this sentence, \"diminish\" means \"make less important or strong\": The first example says that the exception may diminish the policy's effect.",
+        "strong and persuasive": "\"strong and persuasive\" is a real meaning, but it matches \"compelling\", not \"diminish\" in this sentence.",
+        "small and not central": "\"small and not central\" is a real meaning, but it matches \"marginal\", not \"diminish\" in this sentence.",
+        "temporary and open to change": "\"temporary and open to change\" is a real meaning, but it matches \"provisional\", not \"diminish\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1434",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"compelling\" mean in this sentence? On the notice board, the testimony was compelling.",
+      "options": [
+        "strong and persuasive",
+        "small and not central",
+        "temporary and open to change",
+        "strong under different conditions"
+      ],
+      "answer": "strong and persuasive",
+      "explanation": "In this sentence, \"compelling\" means \"strong and persuasive\": On the notice board, the testimony was compelling.",
+      "rationales": {
+        "strong and persuasive": "In this sentence, \"compelling\" means \"strong and persuasive\": On the notice board, the testimony was compelling.",
+        "small and not central": "\"small and not central\" is a real meaning, but it matches \"marginal\", not \"compelling\" in this sentence.",
+        "temporary and open to change": "\"temporary and open to change\" is a real meaning, but it matches \"provisional\", not \"compelling\" in this sentence.",
+        "strong under different conditions": "\"strong under different conditions\" is a real meaning, but it matches \"robust\", not \"compelling\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1435",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"marginal\" mean in this sentence? The guide gives this sentence: The benefit was marginal.",
+      "options": [
+        "small and not central",
+        "temporary and open to change",
+        "strong under different conditions",
+        "likely to give a wrong idea"
+      ],
+      "answer": "small and not central",
+      "explanation": "In this sentence, \"marginal\" means \"small and not central\": The guide gives this sentence: The benefit was marginal.",
+      "rationales": {
+        "small and not central": "In this sentence, \"marginal\" means \"small and not central\": The guide gives this sentence: The benefit was marginal.",
+        "temporary and open to change": "\"temporary and open to change\" is a real meaning, but it matches \"provisional\", not \"marginal\" in this sentence.",
+        "strong under different conditions": "\"strong under different conditions\" is a real meaning, but it matches \"robust\", not \"marginal\" in this sentence.",
+        "likely to give a wrong idea": "\"likely to give a wrong idea\" is a real meaning, but it matches \"misleading\", not \"marginal\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1436",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"provisional\" mean in this sentence? In the office email, the conclusion is provisional.",
+      "options": [
+        "temporary and open to change",
+        "strong under different conditions",
+        "likely to give a wrong idea",
+        "built into the nature of something"
+      ],
+      "answer": "temporary and open to change",
+      "explanation": "In this sentence, \"provisional\" means \"temporary and open to change\": In the office email, the conclusion is provisional.",
+      "rationales": {
+        "temporary and open to change": "In this sentence, \"provisional\" means \"temporary and open to change\": In the office email, the conclusion is provisional.",
+        "strong under different conditions": "\"strong under different conditions\" is a real meaning, but it matches \"robust\", not \"provisional\" in this sentence.",
+        "likely to give a wrong idea": "\"likely to give a wrong idea\" is a real meaning, but it matches \"misleading\", not \"provisional\" in this sentence.",
+        "built into the nature of something": "\"built into the nature of something\" is a real meaning, but it matches \"inherent\", not \"provisional\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1437",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"robust\" mean in this sentence? The reading passage says that the result remained robust.",
+      "options": [
+        "strong under different conditions",
+        "likely to give a wrong idea",
+        "built into the nature of something",
+        "coming later"
+      ],
+      "answer": "strong under different conditions",
+      "explanation": "In this sentence, \"robust\" means \"strong under different conditions\": The reading passage says that the result remained robust.",
+      "rationales": {
+        "strong under different conditions": "In this sentence, \"robust\" means \"strong under different conditions\": The reading passage says that the result remained robust.",
+        "likely to give a wrong idea": "\"likely to give a wrong idea\" is a real meaning, but it matches \"misleading\", not \"robust\" in this sentence.",
+        "built into the nature of something": "\"built into the nature of something\" is a real meaning, but it matches \"inherent\", not \"robust\" in this sentence.",
+        "coming later": "\"coming later\" is a real meaning, but it matches \"subsequent\", not \"robust\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1438",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"misleading\" mean in this sentence? At the start of the activity, the average was misleading.",
+      "options": [
+        "likely to give a wrong idea",
+        "built into the nature of something",
+        "coming later",
+        "not final or certain"
+      ],
+      "answer": "likely to give a wrong idea",
+      "explanation": "In this sentence, \"misleading\" means \"likely to give a wrong idea\": At the start of the activity, the average was misleading.",
+      "rationales": {
+        "likely to give a wrong idea": "In this sentence, \"misleading\" means \"likely to give a wrong idea\": At the start of the activity, the average was misleading.",
+        "built into the nature of something": "\"built into the nature of something\" is a real meaning, but it matches \"inherent\", not \"misleading\" in this sentence.",
+        "coming later": "\"coming later\" is a real meaning, but it matches \"subsequent\", not \"misleading\" in this sentence.",
+        "not final or certain": "\"not final or certain\" is a real meaning, but it matches \"tentative\", not \"misleading\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1439",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"inherent\" mean in this sentence? The second example says that the plan has inherent risks.",
+      "options": [
+        "built into the nature of something",
+        "coming later",
+        "not final or certain",
+        "having more than one possible meaning"
+      ],
+      "answer": "built into the nature of something",
+      "explanation": "In this sentence, \"inherent\" means \"built into the nature of something\": The second example says that the plan has inherent risks.",
+      "rationales": {
+        "built into the nature of something": "In this sentence, \"inherent\" means \"built into the nature of something\": The second example says that the plan has inherent risks.",
+        "coming later": "\"coming later\" is a real meaning, but it matches \"subsequent\", not \"inherent\" in this sentence.",
+        "not final or certain": "\"not final or certain\" is a real meaning, but it matches \"tentative\", not \"inherent\" in this sentence.",
+        "having more than one possible meaning": "\"having more than one possible meaning\" is a real meaning, but it matches \"ambiguous\", not \"inherent\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-everyday-vocabulary-c2-1440",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"subsequent\" mean in this sentence? On the class website, subsequent interviews changed the interpretation.",
+      "options": [
+        "coming later",
+        "not final or certain",
+        "having more than one possible meaning",
+        "not needed because it repeats something"
+      ],
+      "answer": "coming later",
+      "explanation": "In this sentence, \"subsequent\" means \"coming later\": On the class website, subsequent interviews changed the interpretation.",
+      "rationales": {
+        "coming later": "In this sentence, \"subsequent\" means \"coming later\": On the class website, subsequent interviews changed the interpretation.",
+        "not final or certain": "\"not final or certain\" is a real meaning, but it matches \"tentative\", not \"subsequent\" in this sentence.",
+        "having more than one possible meaning": "\"having more than one possible meaning\" is a real meaning, but it matches \"ambiguous\", not \"subsequent\" in this sentence.",
+        "not needed because it repeats something": "\"not needed because it repeats something\" is a real meaning, but it matches \"redundant\", not \"subsequent\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

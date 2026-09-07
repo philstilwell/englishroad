@@ -1,0 +1,2766 @@
+{
+  "topic": "Academic vocabulary",
+  "category": "Vocabulary",
+  "items": [
+    {
+      "id": "coverage-academic-vocabulary-a1-1",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"lesson\" mean in this sentence? The lesson starts at nine.",
+      "options": [
+        "a period of teaching",
+        "an exam or check",
+        "a response to a question",
+        "learn by reading or practice"
+      ],
+      "answer": "a period of teaching",
+      "explanation": "In this sentence, \"lesson\" means \"a period of teaching\": The lesson starts at nine.",
+      "rationales": {
+        "a period of teaching": "In this sentence, \"lesson\" means \"a period of teaching\": The lesson starts at nine.",
+        "an exam or check": "\"an exam or check\" is a real meaning, but it matches \"test\", not \"lesson\" in this sentence.",
+        "a response to a question": "\"a response to a question\" is a real meaning, but it matches \"answer\", not \"lesson\" in this sentence.",
+        "learn by reading or practice": "\"learn by reading or practice\" is a real meaning, but it matches \"study\", not \"lesson\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-2",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"test\" mean in this sentence? In the clinic, the test has ten questions.",
+      "options": [
+        "an exam or check",
+        "a response to a question",
+        "learn by reading or practice",
+        "the subject being discussed"
+      ],
+      "answer": "an exam or check",
+      "explanation": "In this sentence, \"test\" means \"an exam or check\": In the clinic, the test has ten questions.",
+      "rationales": {
+        "an exam or check": "In this sentence, \"test\" means \"an exam or check\": In the clinic, the test has ten questions.",
+        "a response to a question": "\"a response to a question\" is a real meaning, but it matches \"answer\", not \"test\" in this sentence.",
+        "learn by reading or practice": "\"learn by reading or practice\" is a real meaning, but it matches \"study\", not \"test\" in this sentence.",
+        "the subject being discussed": "\"the subject being discussed\" is a real meaning, but it matches \"topic\", not \"test\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-3",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"answer\" mean in this sentence? During the discussion, Aiko wrote the answer.",
+      "options": [
+        "a response to a question",
+        "learn by reading or practice",
+        "the subject being discussed",
+        "a lesson with students"
+      ],
+      "answer": "a response to a question",
+      "explanation": "In this sentence, \"answer\" means \"a response to a question\": During the discussion, Aiko wrote the answer.",
+      "rationales": {
+        "a response to a question": "In this sentence, \"answer\" means \"a response to a question\": During the discussion, Aiko wrote the answer.",
+        "learn by reading or practice": "\"learn by reading or practice\" is a real meaning, but it matches \"study\", not \"answer\" in this sentence.",
+        "the subject being discussed": "\"the subject being discussed\" is a real meaning, but it matches \"topic\", not \"answer\" in this sentence.",
+        "a lesson with students": "\"a lesson with students\" is a real meaning, but it matches \"class\", not \"answer\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-4",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"study\" mean in this sentence? The example says that Nadia will study tonight.",
+      "options": [
+        "learn by reading or practice",
+        "the subject being discussed",
+        "a lesson with students",
+        "pages with words to read"
+      ],
+      "answer": "learn by reading or practice",
+      "explanation": "In this sentence, \"study\" means \"learn by reading or practice\": The example says that Nadia will study tonight.",
+      "rationales": {
+        "learn by reading or practice": "In this sentence, \"study\" means \"learn by reading or practice\": The example says that Nadia will study tonight.",
+        "the subject being discussed": "\"the subject being discussed\" is a real meaning, but it matches \"topic\", not \"study\" in this sentence.",
+        "a lesson with students": "\"a lesson with students\" is a real meaning, but it matches \"class\", not \"study\" in this sentence.",
+        "pages with words to read": "\"pages with words to read\" is a real meaning, but it matches \"book\", not \"study\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-5",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"topic\" mean in this sentence? On the worksheet, the topic is transport.",
+      "options": [
+        "the subject being discussed",
+        "a lesson with students",
+        "pages with words to read",
+        "one side of paper in a book"
+      ],
+      "answer": "the subject being discussed",
+      "explanation": "In this sentence, \"topic\" means \"the subject being discussed\": On the worksheet, the topic is transport.",
+      "rationales": {
+        "the subject being discussed": "In this sentence, \"topic\" means \"the subject being discussed\": On the worksheet, the topic is transport.",
+        "a lesson with students": "\"a lesson with students\" is a real meaning, but it matches \"class\", not \"topic\" in this sentence.",
+        "pages with words to read": "\"pages with words to read\" is a real meaning, but it matches \"book\", not \"topic\" in this sentence.",
+        "one side of paper in a book": "\"one side of paper in a book\" is a real meaning, but it matches \"page\", not \"topic\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-6",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"class\" mean in this sentence? The teacher's example is this: The class begins at ten.",
+      "options": [
+        "a lesson with students",
+        "pages with words to read",
+        "one side of paper in a book",
+        "a unit of language"
+      ],
+      "answer": "a lesson with students",
+      "explanation": "In this sentence, \"class\" means \"a lesson with students\": The teacher's example is this: The class begins at ten.",
+      "rationales": {
+        "a lesson with students": "In this sentence, \"class\" means \"a lesson with students\": The teacher's example is this: The class begins at ten.",
+        "pages with words to read": "\"pages with words to read\" is a real meaning, but it matches \"book\", not \"class\" in this sentence.",
+        "one side of paper in a book": "\"one side of paper in a book\" is a real meaning, but it matches \"page\", not \"class\" in this sentence.",
+        "a unit of language": "\"a unit of language\" is a real meaning, but it matches \"word\", not \"class\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-7",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"book\" mean in this sentence? In a short message, the book is on the table.",
+      "options": [
+        "pages with words to read",
+        "one side of paper in a book",
+        "a unit of language",
+        "a person who teaches"
+      ],
+      "answer": "pages with words to read",
+      "explanation": "In this sentence, \"book\" means \"pages with words to read\": In a short message, the book is on the table.",
+      "rationales": {
+        "pages with words to read": "In this sentence, \"book\" means \"pages with words to read\": In a short message, the book is on the table.",
+        "one side of paper in a book": "\"one side of paper in a book\" is a real meaning, but it matches \"page\", not \"book\" in this sentence.",
+        "a unit of language": "\"a unit of language\" is a real meaning, but it matches \"word\", not \"book\" in this sentence.",
+        "a person who teaches": "\"a person who teaches\" is a real meaning, but it matches \"teacher\", not \"book\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-8",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"page\" mean in this sentence? The report gives this example: Open page five.",
+      "options": [
+        "one side of paper in a book",
+        "a unit of language",
+        "a person who teaches",
+        "a person who studies"
+      ],
+      "answer": "one side of paper in a book",
+      "explanation": "In this sentence, \"page\" means \"one side of paper in a book\": The report gives this example: Open page five.",
+      "rationales": {
+        "one side of paper in a book": "In this sentence, \"page\" means \"one side of paper in a book\": The report gives this example: Open page five.",
+        "a unit of language": "\"a unit of language\" is a real meaning, but it matches \"word\", not \"page\" in this sentence.",
+        "a person who teaches": "\"a person who teaches\" is a real meaning, but it matches \"teacher\", not \"page\" in this sentence.",
+        "a person who studies": "\"a person who studies\" is a real meaning, but it matches \"student\", not \"page\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-9",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"word\" mean in this sentence? At the reception desk, this word is new.",
+      "options": [
+        "a unit of language",
+        "a person who teaches",
+        "a person who studies",
+        "something you ask"
+      ],
+      "answer": "a unit of language",
+      "explanation": "In this sentence, \"word\" means \"a unit of language\": At the reception desk, this word is new.",
+      "rationales": {
+        "a unit of language": "In this sentence, \"word\" means \"a unit of language\": At the reception desk, this word is new.",
+        "a person who teaches": "\"a person who teaches\" is a real meaning, but it matches \"teacher\", not \"word\" in this sentence.",
+        "a person who studies": "\"a person who studies\" is a real meaning, but it matches \"student\", not \"word\" in this sentence.",
+        "something you ask": "\"something you ask\" is a real meaning, but it matches \"question\", not \"word\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-10",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"teacher\" mean in this sentence? The class note says that the teacher explained the answer.",
+      "options": [
+        "a person who teaches",
+        "a person who studies",
+        "something you ask",
+        "a test"
+      ],
+      "answer": "a person who teaches",
+      "explanation": "In this sentence, \"teacher\" means \"a person who teaches\": The class note says that the teacher explained the answer.",
+      "rationales": {
+        "a person who teaches": "In this sentence, \"teacher\" means \"a person who teaches\": The class note says that the teacher explained the answer.",
+        "a person who studies": "\"a person who studies\" is a real meaning, but it matches \"student\", not \"teacher\" in this sentence.",
+        "something you ask": "\"something you ask\" is a real meaning, but it matches \"question\", not \"teacher\" in this sentence.",
+        "a test": "\"a test\" is a real meaning, but it matches \"exam\", not \"teacher\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-11",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"student\" mean in this sentence? In the practice text, each student has a book.",
+      "options": [
+        "a person who studies",
+        "something you ask",
+        "a test",
+        "look at words and understand them"
+      ],
+      "answer": "a person who studies",
+      "explanation": "In this sentence, \"student\" means \"a person who studies\": In the practice text, each student has a book.",
+      "rationales": {
+        "a person who studies": "In this sentence, \"student\" means \"a person who studies\": In the practice text, each student has a book.",
+        "something you ask": "\"something you ask\" is a real meaning, but it matches \"question\", not \"student\" in this sentence.",
+        "a test": "\"a test\" is a real meaning, but it matches \"exam\", not \"student\" in this sentence.",
+        "look at words and understand them": "\"look at words and understand them\" is a real meaning, but it matches \"read\", not \"student\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-12",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"question\" mean in this sentence? During the lesson, the question is easy.",
+      "options": [
+        "something you ask",
+        "a test",
+        "look at words and understand them",
+        "make words on paper or a screen"
+      ],
+      "answer": "something you ask",
+      "explanation": "In this sentence, \"question\" means \"something you ask\": During the lesson, the question is easy.",
+      "rationales": {
+        "something you ask": "In this sentence, \"question\" means \"something you ask\": During the lesson, the question is easy.",
+        "a test": "\"a test\" is a real meaning, but it matches \"exam\", not \"question\" in this sentence.",
+        "look at words and understand them": "\"look at words and understand them\" is a real meaning, but it matches \"read\", not \"question\" in this sentence.",
+        "make words on paper or a screen": "\"make words on paper or a screen\" is a real meaning, but it matches \"write\", not \"question\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-13",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"exam\" mean in this sentence? The first example says that the exam is tomorrow.",
+      "options": [
+        "a test",
+        "look at words and understand them",
+        "make words on paper or a screen",
+        "pay attention to sound"
+      ],
+      "answer": "a test",
+      "explanation": "In this sentence, \"exam\" means \"a test\": The first example says that the exam is tomorrow.",
+      "rationales": {
+        "a test": "In this sentence, \"exam\" means \"a test\": The first example says that the exam is tomorrow.",
+        "look at words and understand them": "\"look at words and understand them\" is a real meaning, but it matches \"read\", not \"exam\" in this sentence.",
+        "make words on paper or a screen": "\"make words on paper or a screen\" is a real meaning, but it matches \"write\", not \"exam\" in this sentence.",
+        "pay attention to sound": "\"pay attention to sound\" is a real meaning, but it matches \"listen\", not \"exam\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-14",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"read\" mean in this sentence? The short message says, \"Please read the sentence.\"",
+      "options": [
+        "look at words and understand them",
+        "make words on paper or a screen",
+        "pay attention to sound",
+        "repeat to improve"
+      ],
+      "answer": "look at words and understand them",
+      "explanation": "In this sentence, \"read\" means \"look at words and understand them\": The short message says, \"Please read the sentence.\"",
+      "rationales": {
+        "look at words and understand them": "In this sentence, \"read\" means \"look at words and understand them\": The short message says, \"Please read the sentence.\"",
+        "make words on paper or a screen": "\"make words on paper or a screen\" is a real meaning, but it matches \"write\", not \"read\" in this sentence.",
+        "pay attention to sound": "\"pay attention to sound\" is a real meaning, but it matches \"listen\", not \"read\" in this sentence.",
+        "repeat to improve": "\"repeat to improve\" is a real meaning, but it matches \"practice\", not \"read\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-15",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"write\" mean in this sentence? The guide gives this sentence: Write your name here.",
+      "options": [
+        "make words on paper or a screen",
+        "pay attention to sound",
+        "repeat to improve",
+        "number of points"
+      ],
+      "answer": "make words on paper or a screen",
+      "explanation": "In this sentence, \"write\" means \"make words on paper or a screen\": The guide gives this sentence: Write your name here.",
+      "rationales": {
+        "make words on paper or a screen": "In this sentence, \"write\" means \"make words on paper or a screen\": The guide gives this sentence: Write your name here.",
+        "pay attention to sound": "\"pay attention to sound\" is a real meaning, but it matches \"listen\", not \"write\" in this sentence.",
+        "repeat to improve": "\"repeat to improve\" is a real meaning, but it matches \"practice\", not \"write\" in this sentence.",
+        "number of points": "\"number of points\" is a real meaning, but it matches \"score\", not \"write\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-16",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"listen\" mean in this sentence? In the office email, listen to the teacher.",
+      "options": [
+        "pay attention to sound",
+        "repeat to improve",
+        "number of points",
+        "a place with books"
+      ],
+      "answer": "pay attention to sound",
+      "explanation": "In this sentence, \"listen\" means \"pay attention to sound\": In the office email, listen to the teacher.",
+      "rationales": {
+        "pay attention to sound": "In this sentence, \"listen\" means \"pay attention to sound\": In the office email, listen to the teacher.",
+        "repeat to improve": "\"repeat to improve\" is a real meaning, but it matches \"practice\", not \"listen\" in this sentence.",
+        "number of points": "\"number of points\" is a real meaning, but it matches \"score\", not \"listen\" in this sentence.",
+        "a place with books": "\"a place with books\" is a real meaning, but it matches \"library\", not \"listen\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-17",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"practice\" mean in this sentence? The reading passage says that practice helps spelling.",
+      "options": [
+        "repeat to improve",
+        "number of points",
+        "a place with books",
+        "schoolwork done outside class"
+      ],
+      "answer": "repeat to improve",
+      "explanation": "In this sentence, \"practice\" means \"repeat to improve\": The reading passage says that practice helps spelling.",
+      "rationales": {
+        "repeat to improve": "In this sentence, \"practice\" means \"repeat to improve\": The reading passage says that practice helps spelling.",
+        "number of points": "\"number of points\" is a real meaning, but it matches \"score\", not \"practice\" in this sentence.",
+        "a place with books": "\"a place with books\" is a real meaning, but it matches \"library\", not \"practice\" in this sentence.",
+        "schoolwork done outside class": "\"schoolwork done outside class\" is a real meaning, but it matches \"homework\", not \"practice\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-18",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"score\" mean in this sentence? At the start of the activity, the score was high.",
+      "options": [
+        "number of points",
+        "a place with books",
+        "schoolwork done outside class",
+        "a period of teaching"
+      ],
+      "answer": "number of points",
+      "explanation": "In this sentence, \"score\" means \"number of points\": At the start of the activity, the score was high.",
+      "rationales": {
+        "number of points": "In this sentence, \"score\" means \"number of points\": At the start of the activity, the score was high.",
+        "a place with books": "\"a place with books\" is a real meaning, but it matches \"library\", not \"score\" in this sentence.",
+        "schoolwork done outside class": "\"schoolwork done outside class\" is a real meaning, but it matches \"homework\", not \"score\" in this sentence.",
+        "a period of teaching": "\"a period of teaching\" is a real meaning, but it matches \"lesson\", not \"score\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-19",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"library\" mean in this sentence? The second example says that the library closes at six.",
+      "options": [
+        "a place with books",
+        "schoolwork done outside class",
+        "a period of teaching",
+        "an exam or check"
+      ],
+      "answer": "a place with books",
+      "explanation": "In this sentence, \"library\" means \"a place with books\": The second example says that the library closes at six.",
+      "rationales": {
+        "a place with books": "In this sentence, \"library\" means \"a place with books\": The second example says that the library closes at six.",
+        "schoolwork done outside class": "\"schoolwork done outside class\" is a real meaning, but it matches \"homework\", not \"library\" in this sentence.",
+        "a period of teaching": "\"a period of teaching\" is a real meaning, but it matches \"lesson\", not \"library\" in this sentence.",
+        "an exam or check": "\"an exam or check\" is a real meaning, but it matches \"test\", not \"library\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a1-20",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"homework\" mean in this sentence? On the class website, the homework is short.",
+      "options": [
+        "schoolwork done outside class",
+        "a period of teaching",
+        "an exam or check",
+        "a response to a question"
+      ],
+      "answer": "schoolwork done outside class",
+      "explanation": "In this sentence, \"homework\" means \"schoolwork done outside class\": On the class website, the homework is short.",
+      "rationales": {
+        "schoolwork done outside class": "In this sentence, \"homework\" means \"schoolwork done outside class\": On the class website, the homework is short.",
+        "a period of teaching": "\"a period of teaching\" is a real meaning, but it matches \"lesson\", not \"homework\" in this sentence.",
+        "an exam or check": "\"an exam or check\" is a real meaning, but it matches \"test\", not \"homework\" in this sentence.",
+        "a response to a question": "\"a response to a question\" is a real meaning, but it matches \"answer\", not \"homework\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-21",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"method\" mean in this sentence? The teacher showed a new method.",
+      "options": [
+        "a way of doing something",
+        "where information came from",
+        "information that supports an idea",
+        "one thing that affects a result"
+      ],
+      "answer": "a way of doing something",
+      "explanation": "In this sentence, \"method\" means \"a way of doing something\": The teacher showed a new method.",
+      "rationales": {
+        "a way of doing something": "In this sentence, \"method\" means \"a way of doing something\": The teacher showed a new method.",
+        "where information came from": "\"where information came from\" is a real meaning, but it matches \"source\", not \"method\" in this sentence.",
+        "information that supports an idea": "\"information that supports an idea\" is a real meaning, but it matches \"evidence\", not \"method\" in this sentence.",
+        "one thing that affects a result": "\"one thing that affects a result\" is a real meaning, but it matches \"factor\", not \"method\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-22",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"source\" mean in this sentence? The note says, \"Please include the source.\"",
+      "options": [
+        "where information came from",
+        "information that supports an idea",
+        "one thing that affects a result",
+        "the result"
+      ],
+      "answer": "where information came from",
+      "explanation": "In this sentence, \"source\" means \"where information came from\": The note says, \"Please include the source.\"",
+      "rationales": {
+        "where information came from": "In this sentence, \"source\" means \"where information came from\": The note says, \"Please include the source.\"",
+        "information that supports an idea": "\"information that supports an idea\" is a real meaning, but it matches \"evidence\", not \"source\" in this sentence.",
+        "one thing that affects a result": "\"one thing that affects a result\" is a real meaning, but it matches \"factor\", not \"source\" in this sentence.",
+        "the result": "\"the result\" is a real meaning, but it matches \"outcome\", not \"source\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-23",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"evidence\" mean in this sentence? During the discussion, the chart gives evidence.",
+      "options": [
+        "information that supports an idea",
+        "one thing that affects a result",
+        "the result",
+        "the meaning of a word"
+      ],
+      "answer": "information that supports an idea",
+      "explanation": "In this sentence, \"evidence\" means \"information that supports an idea\": During the discussion, the chart gives evidence.",
+      "rationales": {
+        "information that supports an idea": "In this sentence, \"evidence\" means \"information that supports an idea\": During the discussion, the chart gives evidence.",
+        "one thing that affects a result": "\"one thing that affects a result\" is a real meaning, but it matches \"factor\", not \"evidence\" in this sentence.",
+        "the result": "\"the result\" is a real meaning, but it matches \"outcome\", not \"evidence\" in this sentence.",
+        "the meaning of a word": "\"the meaning of a word\" is a real meaning, but it matches \"definition\", not \"evidence\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-24",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"factor\" mean in this sentence? The example says that cost is one factor.",
+      "options": [
+        "one thing that affects a result",
+        "the result",
+        "the meaning of a word",
+        "one case that shows an idea"
+      ],
+      "answer": "one thing that affects a result",
+      "explanation": "In this sentence, \"factor\" means \"one thing that affects a result\": The example says that cost is one factor.",
+      "rationales": {
+        "one thing that affects a result": "In this sentence, \"factor\" means \"one thing that affects a result\": The example says that cost is one factor.",
+        "the result": "\"the result\" is a real meaning, but it matches \"outcome\", not \"factor\" in this sentence.",
+        "the meaning of a word": "\"the meaning of a word\" is a real meaning, but it matches \"definition\", not \"factor\" in this sentence.",
+        "one case that shows an idea": "\"one case that shows an idea\" is a real meaning, but it matches \"example\", not \"factor\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-25",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"outcome\" mean in this sentence? On the worksheet, the outcome was positive.",
+      "options": [
+        "the result",
+        "the meaning of a word",
+        "one case that shows an idea",
+        "a group of sentences"
+      ],
+      "answer": "the result",
+      "explanation": "In this sentence, \"outcome\" means \"the result\": On the worksheet, the outcome was positive.",
+      "rationales": {
+        "the result": "In this sentence, \"outcome\" means \"the result\": On the worksheet, the outcome was positive.",
+        "the meaning of a word": "\"the meaning of a word\" is a real meaning, but it matches \"definition\", not \"outcome\" in this sentence.",
+        "one case that shows an idea": "\"one case that shows an idea\" is a real meaning, but it matches \"example\", not \"outcome\" in this sentence.",
+        "a group of sentences": "\"a group of sentences\" is a real meaning, but it matches \"paragraph\", not \"outcome\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-26",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"definition\" mean in this sentence? The teacher's example is this: The dictionary gives a definition.",
+      "options": [
+        "the meaning of a word",
+        "one case that shows an idea",
+        "a group of sentences",
+        "a mark for work"
+      ],
+      "answer": "the meaning of a word",
+      "explanation": "In this sentence, \"definition\" means \"the meaning of a word\": The teacher's example is this: The dictionary gives a definition.",
+      "rationales": {
+        "the meaning of a word": "In this sentence, \"definition\" means \"the meaning of a word\": The teacher's example is this: The dictionary gives a definition.",
+        "one case that shows an idea": "\"one case that shows an idea\" is a real meaning, but it matches \"example\", not \"definition\" in this sentence.",
+        "a group of sentences": "\"a group of sentences\" is a real meaning, but it matches \"paragraph\", not \"definition\" in this sentence.",
+        "a mark for work": "\"a mark for work\" is a real meaning, but it matches \"grade\", not \"definition\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-27",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"example\" mean in this sentence? In a short message, the teacher gave an example.",
+      "options": [
+        "one case that shows an idea",
+        "a group of sentences",
+        "a mark for work",
+        "an area of study"
+      ],
+      "answer": "one case that shows an idea",
+      "explanation": "In this sentence, \"example\" means \"one case that shows an idea\": In a short message, the teacher gave an example.",
+      "rationales": {
+        "one case that shows an idea": "In this sentence, \"example\" means \"one case that shows an idea\": In a short message, the teacher gave an example.",
+        "a group of sentences": "\"a group of sentences\" is a real meaning, but it matches \"paragraph\", not \"example\" in this sentence.",
+        "a mark for work": "\"a mark for work\" is a real meaning, but it matches \"grade\", not \"example\" in this sentence.",
+        "an area of study": "\"an area of study\" is a real meaning, but it matches \"subject\", not \"example\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-28",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"paragraph\" mean in this sentence? The report gives this example: The paragraph has one main idea.",
+      "options": [
+        "a group of sentences",
+        "a mark for work",
+        "an area of study",
+        "what happens at the end"
+      ],
+      "answer": "a group of sentences",
+      "explanation": "In this sentence, \"paragraph\" means \"a group of sentences\": The report gives this example: The paragraph has one main idea.",
+      "rationales": {
+        "a group of sentences": "In this sentence, \"paragraph\" means \"a group of sentences\": The report gives this example: The paragraph has one main idea.",
+        "a mark for work": "\"a mark for work\" is a real meaning, but it matches \"grade\", not \"paragraph\" in this sentence.",
+        "an area of study": "\"an area of study\" is a real meaning, but it matches \"subject\", not \"paragraph\" in this sentence.",
+        "what happens at the end": "\"what happens at the end\" is a real meaning, but it matches \"result\", not \"paragraph\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-29",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"grade\" mean in this sentence? At the reception desk, the grade was fair.",
+      "options": [
+        "a mark for work",
+        "an area of study",
+        "what happens at the end",
+        "careful study to learn facts"
+      ],
+      "answer": "a mark for work",
+      "explanation": "In this sentence, \"grade\" means \"a mark for work\": At the reception desk, the grade was fair.",
+      "rationales": {
+        "a mark for work": "In this sentence, \"grade\" means \"a mark for work\": At the reception desk, the grade was fair.",
+        "an area of study": "\"an area of study\" is a real meaning, but it matches \"subject\", not \"grade\" in this sentence.",
+        "what happens at the end": "\"what happens at the end\" is a real meaning, but it matches \"result\", not \"grade\" in this sentence.",
+        "careful study to learn facts": "\"careful study to learn facts\" is a real meaning, but it matches \"research\", not \"grade\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-30",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"subject\" mean in this sentence? The class note says that science is her favorite subject.",
+      "options": [
+        "an area of study",
+        "what happens at the end",
+        "careful study to learn facts",
+        "questions asked to many people"
+      ],
+      "answer": "an area of study",
+      "explanation": "In this sentence, \"subject\" means \"an area of study\": The class note says that science is her favorite subject.",
+      "rationales": {
+        "an area of study": "In this sentence, \"subject\" means \"an area of study\": The class note says that science is her favorite subject.",
+        "what happens at the end": "\"what happens at the end\" is a real meaning, but it matches \"result\", not \"subject\" in this sentence.",
+        "careful study to learn facts": "\"careful study to learn facts\" is a real meaning, but it matches \"research\", not \"subject\" in this sentence.",
+        "questions asked to many people": "\"questions asked to many people\" is a real meaning, but it matches \"survey\", not \"subject\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-31",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"result\" mean in this sentence? In the practice text, the result was surprising.",
+      "options": [
+        "what happens at the end",
+        "careful study to learn facts",
+        "questions asked to many people",
+        "a picture showing information"
+      ],
+      "answer": "what happens at the end",
+      "explanation": "In this sentence, \"result\" means \"what happens at the end\": In the practice text, the result was surprising.",
+      "rationales": {
+        "what happens at the end": "In this sentence, \"result\" means \"what happens at the end\": In the practice text, the result was surprising.",
+        "careful study to learn facts": "\"careful study to learn facts\" is a real meaning, but it matches \"research\", not \"result\" in this sentence.",
+        "questions asked to many people": "\"questions asked to many people\" is a real meaning, but it matches \"survey\", not \"result\" in this sentence.",
+        "a picture showing information": "\"a picture showing information\" is a real meaning, but it matches \"chart\", not \"result\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-32",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"research\" mean in this sentence? During the lesson, the class began simple research.",
+      "options": [
+        "careful study to learn facts",
+        "questions asked to many people",
+        "a picture showing information",
+        "a typical middle amount"
+      ],
+      "answer": "careful study to learn facts",
+      "explanation": "In this sentence, \"research\" means \"careful study to learn facts\": During the lesson, the class began simple research.",
+      "rationales": {
+        "careful study to learn facts": "In this sentence, \"research\" means \"careful study to learn facts\": During the lesson, the class began simple research.",
+        "questions asked to many people": "\"questions asked to many people\" is a real meaning, but it matches \"survey\", not \"research\" in this sentence.",
+        "a picture showing information": "\"a picture showing information\" is a real meaning, but it matches \"chart\", not \"research\" in this sentence.",
+        "a typical middle amount": "\"a typical middle amount\" is a real meaning, but it matches \"average\", not \"research\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-33",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"survey\" mean in this sentence? The first example says that the survey had ten questions.",
+      "options": [
+        "questions asked to many people",
+        "a picture showing information",
+        "a typical middle amount",
+        "look at how things are similar or different"
+      ],
+      "answer": "questions asked to many people",
+      "explanation": "In this sentence, \"survey\" means \"questions asked to many people\": The first example says that the survey had ten questions.",
+      "rationales": {
+        "questions asked to many people": "In this sentence, \"survey\" means \"questions asked to many people\": The first example says that the survey had ten questions.",
+        "a picture showing information": "\"a picture showing information\" is a real meaning, but it matches \"chart\", not \"survey\" in this sentence.",
+        "a typical middle amount": "\"a typical middle amount\" is a real meaning, but it matches \"average\", not \"survey\" in this sentence.",
+        "look at how things are similar or different": "\"look at how things are similar or different\" is a real meaning, but it matches \"compare\", not \"survey\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-34",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"chart\" mean in this sentence? On the notice board, the chart shows attendance.",
+      "options": [
+        "a picture showing information",
+        "a typical middle amount",
+        "look at how things are similar or different",
+        "state the main points briefly"
+      ],
+      "answer": "a picture showing information",
+      "explanation": "In this sentence, \"chart\" means \"a picture showing information\": On the notice board, the chart shows attendance.",
+      "rationales": {
+        "a picture showing information": "In this sentence, \"chart\" means \"a picture showing information\": On the notice board, the chart shows attendance.",
+        "a typical middle amount": "\"a typical middle amount\" is a real meaning, but it matches \"average\", not \"chart\" in this sentence.",
+        "look at how things are similar or different": "\"look at how things are similar or different\" is a real meaning, but it matches \"compare\", not \"chart\" in this sentence.",
+        "state the main points briefly": "\"state the main points briefly\" is a real meaning, but it matches \"summarize\", not \"chart\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-35",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"average\" mean in this sentence? The guide gives this sentence: The average score rose.",
+      "options": [
+        "a typical middle amount",
+        "look at how things are similar or different",
+        "state the main points briefly",
+        "find or name"
+      ],
+      "answer": "a typical middle amount",
+      "explanation": "In this sentence, \"average\" means \"a typical middle amount\": The guide gives this sentence: The average score rose.",
+      "rationales": {
+        "a typical middle amount": "In this sentence, \"average\" means \"a typical middle amount\": The guide gives this sentence: The average score rose.",
+        "look at how things are similar or different": "\"look at how things are similar or different\" is a real meaning, but it matches \"compare\", not \"average\" in this sentence.",
+        "state the main points briefly": "\"state the main points briefly\" is a real meaning, but it matches \"summarize\", not \"average\" in this sentence.",
+        "find or name": "\"find or name\" is a real meaning, but it matches \"identify\", not \"average\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-36",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"compare\" mean in this sentence? In the office email, students compare two texts.",
+      "options": [
+        "look at how things are similar or different",
+        "state the main points briefly",
+        "find or name",
+        "why something happens"
+      ],
+      "answer": "look at how things are similar or different",
+      "explanation": "In this sentence, \"compare\" means \"look at how things are similar or different\": In the office email, students compare two texts.",
+      "rationales": {
+        "look at how things are similar or different": "In this sentence, \"compare\" means \"look at how things are similar or different\": In the office email, students compare two texts.",
+        "state the main points briefly": "\"state the main points briefly\" is a real meaning, but it matches \"summarize\", not \"compare\" in this sentence.",
+        "find or name": "\"find or name\" is a real meaning, but it matches \"identify\", not \"compare\" in this sentence.",
+        "why something happens": "\"why something happens\" is a real meaning, but it matches \"reason\", not \"compare\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-37",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"summarize\" mean in this sentence? During the lesson, the tutor says, \"Please summarize the article.\"",
+      "options": [
+        "state the main points briefly",
+        "find or name",
+        "why something happens",
+        "a small piece of information"
+      ],
+      "answer": "state the main points briefly",
+      "explanation": "In this sentence, \"summarize\" means \"state the main points briefly\": During the lesson, the tutor says, \"Please summarize the article.\"",
+      "rationales": {
+        "state the main points briefly": "In this sentence, \"summarize\" means \"state the main points briefly\": During the lesson, the tutor says, \"Please summarize the article.\"",
+        "find or name": "\"find or name\" is a real meaning, but it matches \"identify\", not \"summarize\" in this sentence.",
+        "why something happens": "\"why something happens\" is a real meaning, but it matches \"reason\", not \"summarize\" in this sentence.",
+        "a small piece of information": "\"a small piece of information\" is a real meaning, but it matches \"detail\", not \"summarize\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-38",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"identify\" mean in this sentence? At the start of the activity, identify the main idea.",
+      "options": [
+        "find or name",
+        "why something happens",
+        "a small piece of information",
+        "a way of doing something"
+      ],
+      "answer": "find or name",
+      "explanation": "In this sentence, \"identify\" means \"find or name\": At the start of the activity, identify the main idea.",
+      "rationales": {
+        "find or name": "In this sentence, \"identify\" means \"find or name\": At the start of the activity, identify the main idea.",
+        "why something happens": "\"why something happens\" is a real meaning, but it matches \"reason\", not \"identify\" in this sentence.",
+        "a small piece of information": "\"a small piece of information\" is a real meaning, but it matches \"detail\", not \"identify\" in this sentence.",
+        "a way of doing something": "\"a way of doing something\" is a real meaning, but it matches \"method\", not \"identify\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-39",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"reason\" mean in this sentence? The second example says that the reason was unclear.",
+      "options": [
+        "why something happens",
+        "a small piece of information",
+        "a way of doing something",
+        "where information came from"
+      ],
+      "answer": "why something happens",
+      "explanation": "In this sentence, \"reason\" means \"why something happens\": The second example says that the reason was unclear.",
+      "rationales": {
+        "why something happens": "In this sentence, \"reason\" means \"why something happens\": The second example says that the reason was unclear.",
+        "a small piece of information": "\"a small piece of information\" is a real meaning, but it matches \"detail\", not \"reason\" in this sentence.",
+        "a way of doing something": "\"a way of doing something\" is a real meaning, but it matches \"method\", not \"reason\" in this sentence.",
+        "where information came from": "\"where information came from\" is a real meaning, but it matches \"source\", not \"reason\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-a2-40",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"detail\" mean in this sentence? The printed card says, \"Use one detail from the text.\"",
+      "options": [
+        "a small piece of information",
+        "a way of doing something",
+        "where information came from",
+        "information that supports an idea"
+      ],
+      "answer": "a small piece of information",
+      "explanation": "In this sentence, \"detail\" means \"a small piece of information\": The printed card says, \"Use one detail from the text.\"",
+      "rationales": {
+        "a small piece of information": "In this sentence, \"detail\" means \"a small piece of information\": The printed card says, \"Use one detail from the text.\"",
+        "a way of doing something": "\"a way of doing something\" is a real meaning, but it matches \"method\", not \"detail\" in this sentence.",
+        "where information came from": "\"where information came from\" is a real meaning, but it matches \"source\", not \"detail\" in this sentence.",
+        "information that supports an idea": "\"information that supports an idea\" is a real meaning, but it matches \"evidence\", not \"detail\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-41",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"indicate\" mean in this sentence? The arrows indicate the exit.",
+      "options": [
+        "show or suggest",
+        "important enough to notice",
+        "an idea accepted before proof",
+        "study carefully"
+      ],
+      "answer": "show or suggest",
+      "explanation": "In this sentence, \"indicate\" means \"show or suggest\": The arrows indicate the exit.",
+      "rationales": {
+        "show or suggest": "In this sentence, \"indicate\" means \"show or suggest\": The arrows indicate the exit.",
+        "important enough to notice": "\"important enough to notice\" is a real meaning, but it matches \"significant\", not \"indicate\" in this sentence.",
+        "an idea accepted before proof": "\"an idea accepted before proof\" is a real meaning, but it matches \"assumption\", not \"indicate\" in this sentence.",
+        "study carefully": "\"study carefully\" is a real meaning, but it matches \"analyze\", not \"indicate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-42",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"significant\" mean in this sentence? In the clinic, the change was significant.",
+      "options": [
+        "important enough to notice",
+        "an idea accepted before proof",
+        "study carefully",
+        "closely connected to the topic"
+      ],
+      "answer": "important enough to notice",
+      "explanation": "In this sentence, \"significant\" means \"important enough to notice\": In the clinic, the change was significant.",
+      "rationales": {
+        "important enough to notice": "In this sentence, \"significant\" means \"important enough to notice\": In the clinic, the change was significant.",
+        "an idea accepted before proof": "\"an idea accepted before proof\" is a real meaning, but it matches \"assumption\", not \"significant\" in this sentence.",
+        "study carefully": "\"study carefully\" is a real meaning, but it matches \"analyze\", not \"significant\" in this sentence.",
+        "closely connected to the topic": "\"closely connected to the topic\" is a real meaning, but it matches \"relevant\", not \"significant\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-43",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"assumption\" mean in this sentence? During the discussion, the plan was based on an assumption.",
+      "options": [
+        "an idea accepted before proof",
+        "study carefully",
+        "closely connected to the topic",
+        "a statement someone says is true"
+      ],
+      "answer": "an idea accepted before proof",
+      "explanation": "In this sentence, \"assumption\" means \"an idea accepted before proof\": During the discussion, the plan was based on an assumption.",
+      "rationales": {
+        "an idea accepted before proof": "In this sentence, \"assumption\" means \"an idea accepted before proof\": During the discussion, the plan was based on an assumption.",
+        "study carefully": "\"study carefully\" is a real meaning, but it matches \"analyze\", not \"assumption\" in this sentence.",
+        "closely connected to the topic": "\"closely connected to the topic\" is a real meaning, but it matches \"relevant\", not \"assumption\" in this sentence.",
+        "a statement someone says is true": "\"a statement someone says is true\" is a real meaning, but it matches \"claim\", not \"assumption\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-44",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"analyze\" mean in this sentence? The example says that the class will analyze the data.",
+      "options": [
+        "study carefully",
+        "closely connected to the topic",
+        "a statement someone says is true",
+        "information used for study"
+      ],
+      "answer": "study carefully",
+      "explanation": "In this sentence, \"analyze\" means \"study carefully\": The example says that the class will analyze the data.",
+      "rationales": {
+        "study carefully": "In this sentence, \"analyze\" means \"study carefully\": The example says that the class will analyze the data.",
+        "closely connected to the topic": "\"closely connected to the topic\" is a real meaning, but it matches \"relevant\", not \"analyze\" in this sentence.",
+        "a statement someone says is true": "\"a statement someone says is true\" is a real meaning, but it matches \"claim\", not \"analyze\" in this sentence.",
+        "information used for study": "\"information used for study\" is a real meaning, but it matches \"data\", not \"analyze\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-45",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"relevant\" mean in this sentence? A sign by the door says, \"Use only relevant details.\"",
+      "options": [
+        "closely connected to the topic",
+        "a statement someone says is true",
+        "information used for study",
+        "one part of a text"
+      ],
+      "answer": "closely connected to the topic",
+      "explanation": "In this sentence, \"relevant\" means \"closely connected to the topic\": A sign by the door says, \"Use only relevant details.\"",
+      "rationales": {
+        "closely connected to the topic": "In this sentence, \"relevant\" means \"closely connected to the topic\": A sign by the door says, \"Use only relevant details.\"",
+        "a statement someone says is true": "\"a statement someone says is true\" is a real meaning, but it matches \"claim\", not \"relevant\" in this sentence.",
+        "information used for study": "\"information used for study\" is a real meaning, but it matches \"data\", not \"relevant\" in this sentence.",
+        "one part of a text": "\"one part of a text\" is a real meaning, but it matches \"section\", not \"relevant\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-46",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"claim\" mean in this sentence? The teacher's example is this: The claim needs evidence.",
+      "options": [
+        "a statement someone says is true",
+        "information used for study",
+        "one part of a text",
+        "explain the meaning"
+      ],
+      "answer": "a statement someone says is true",
+      "explanation": "In this sentence, \"claim\" means \"a statement someone says is true\": The teacher's example is this: The claim needs evidence.",
+      "rationales": {
+        "a statement someone says is true": "In this sentence, \"claim\" means \"a statement someone says is true\": The teacher's example is this: The claim needs evidence.",
+        "information used for study": "\"information used for study\" is a real meaning, but it matches \"data\", not \"claim\" in this sentence.",
+        "one part of a text": "\"one part of a text\" is a real meaning, but it matches \"section\", not \"claim\" in this sentence.",
+        "explain the meaning": "\"explain the meaning\" is a real meaning, but it matches \"interpret\", not \"claim\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-47",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"data\" mean in this sentence? In a short message, the data came from a survey.",
+      "options": [
+        "information used for study",
+        "one part of a text",
+        "explain the meaning",
+        "decide after thinking"
+      ],
+      "answer": "information used for study",
+      "explanation": "In this sentence, \"data\" means \"information used for study\": In a short message, the data came from a survey.",
+      "rationales": {
+        "information used for study": "In this sentence, \"data\" means \"information used for study\": In a short message, the data came from a survey.",
+        "one part of a text": "\"one part of a text\" is a real meaning, but it matches \"section\", not \"data\" in this sentence.",
+        "explain the meaning": "\"explain the meaning\" is a real meaning, but it matches \"interpret\", not \"data\" in this sentence.",
+        "decide after thinking": "\"decide after thinking\" is a real meaning, but it matches \"conclude\", not \"data\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-48",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"section\" mean in this sentence? The report gives this example: The final section is short.",
+      "options": [
+        "one part of a text",
+        "explain the meaning",
+        "decide after thinking",
+        "state the meaning"
+      ],
+      "answer": "one part of a text",
+      "explanation": "In this sentence, \"section\" means \"one part of a text\": The report gives this example: The final section is short.",
+      "rationales": {
+        "one part of a text": "In this sentence, \"section\" means \"one part of a text\": The report gives this example: The final section is short.",
+        "explain the meaning": "\"explain the meaning\" is a real meaning, but it matches \"interpret\", not \"section\" in this sentence.",
+        "decide after thinking": "\"decide after thinking\" is a real meaning, but it matches \"conclude\", not \"section\" in this sentence.",
+        "state the meaning": "\"state the meaning\" is a real meaning, but it matches \"define\", not \"section\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-49",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"interpret\" mean in this sentence? At the reception desk, students interpret the graph.",
+      "options": [
+        "explain the meaning",
+        "decide after thinking",
+        "state the meaning",
+        "a series of steps"
+      ],
+      "answer": "explain the meaning",
+      "explanation": "In this sentence, \"interpret\" means \"explain the meaning\": At the reception desk, students interpret the graph.",
+      "rationales": {
+        "explain the meaning": "In this sentence, \"interpret\" means \"explain the meaning\": At the reception desk, students interpret the graph.",
+        "decide after thinking": "\"decide after thinking\" is a real meaning, but it matches \"conclude\", not \"interpret\" in this sentence.",
+        "state the meaning": "\"state the meaning\" is a real meaning, but it matches \"define\", not \"interpret\" in this sentence.",
+        "a series of steps": "\"a series of steps\" is a real meaning, but it matches \"process\", not \"interpret\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-50",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"conclude\" mean in this sentence? The class note says that the author concludes that costs fell.",
+      "options": [
+        "decide after thinking",
+        "state the meaning",
+        "a series of steps",
+        "the way parts are organized"
+      ],
+      "answer": "decide after thinking",
+      "explanation": "In this sentence, \"conclude\" means \"decide after thinking\": The class note says that the author concludes that costs fell.",
+      "rationales": {
+        "decide after thinking": "In this sentence, \"conclude\" means \"decide after thinking\": The class note says that the author concludes that costs fell.",
+        "state the meaning": "\"state the meaning\" is a real meaning, but it matches \"define\", not \"conclude\" in this sentence.",
+        "a series of steps": "\"a series of steps\" is a real meaning, but it matches \"process\", not \"conclude\" in this sentence.",
+        "the way parts are organized": "\"the way parts are organized\" is a real meaning, but it matches \"structure\", not \"conclude\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-51",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"define\" mean in this sentence? In the practice text, the paper defines the term.",
+      "options": [
+        "state the meaning",
+        "a series of steps",
+        "the way parts are organized",
+        "answer or react"
+      ],
+      "answer": "state the meaning",
+      "explanation": "In this sentence, \"define\" means \"state the meaning\": In the practice text, the paper defines the term.",
+      "rationales": {
+        "state the meaning": "In this sentence, \"define\" means \"state the meaning\": In the practice text, the paper defines the term.",
+        "a series of steps": "\"a series of steps\" is a real meaning, but it matches \"process\", not \"define\" in this sentence.",
+        "the way parts are organized": "\"the way parts are organized\" is a real meaning, but it matches \"structure\", not \"define\" in this sentence.",
+        "answer or react": "\"answer or react\" is a real meaning, but it matches \"respond\", not \"define\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-52",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"process\" mean in this sentence? During the lesson, the process takes two weeks.",
+      "options": [
+        "a series of steps",
+        "the way parts are organized",
+        "answer or react",
+        "choose"
+      ],
+      "answer": "a series of steps",
+      "explanation": "In this sentence, \"process\" means \"a series of steps\": During the lesson, the process takes two weeks.",
+      "rationales": {
+        "a series of steps": "In this sentence, \"process\" means \"a series of steps\": During the lesson, the process takes two weeks.",
+        "the way parts are organized": "\"the way parts are organized\" is a real meaning, but it matches \"structure\", not \"process\" in this sentence.",
+        "answer or react": "\"answer or react\" is a real meaning, but it matches \"respond\", not \"process\" in this sentence.",
+        "choose": "\"choose\" is a real meaning, but it matches \"select\", not \"process\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-53",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"structure\" mean in this sentence? The first example says that the essay has a clear structure.",
+      "options": [
+        "the way parts are organized",
+        "answer or react",
+        "choose",
+        "a general direction of change"
+      ],
+      "answer": "the way parts are organized",
+      "explanation": "In this sentence, \"structure\" means \"the way parts are organized\": The first example says that the essay has a clear structure.",
+      "rationales": {
+        "the way parts are organized": "In this sentence, \"structure\" means \"the way parts are organized\": The first example says that the essay has a clear structure.",
+        "answer or react": "\"answer or react\" is a real meaning, but it matches \"respond\", not \"structure\" in this sentence.",
+        "choose": "\"choose\" is a real meaning, but it matches \"select\", not \"structure\" in this sentence.",
+        "a general direction of change": "\"a general direction of change\" is a real meaning, but it matches \"trend\", not \"structure\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-54",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"respond\" mean in this sentence? On the notice board, participants responded online.",
+      "options": [
+        "answer or react",
+        "choose",
+        "a general direction of change",
+        "where information comes from"
+      ],
+      "answer": "answer or react",
+      "explanation": "In this sentence, \"respond\" means \"answer or react\": On the notice board, participants responded online.",
+      "rationales": {
+        "answer or react": "In this sentence, \"respond\" means \"answer or react\": On the notice board, participants responded online.",
+        "choose": "\"choose\" is a real meaning, but it matches \"select\", not \"respond\" in this sentence.",
+        "a general direction of change": "\"a general direction of change\" is a real meaning, but it matches \"trend\", not \"respond\" in this sentence.",
+        "where information comes from": "\"where information comes from\" is a real meaning, but it matches \"source\", not \"respond\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-55",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"select\" mean in this sentence? The guide gives this sentence: The researcher selected one group.",
+      "options": [
+        "choose",
+        "a general direction of change",
+        "where information comes from",
+        "unfair influence on judgment"
+      ],
+      "answer": "choose",
+      "explanation": "In this sentence, \"select\" means \"choose\": The guide gives this sentence: The researcher selected one group.",
+      "rationales": {
+        "choose": "In this sentence, \"select\" means \"choose\": The guide gives this sentence: The researcher selected one group.",
+        "a general direction of change": "\"a general direction of change\" is a real meaning, but it matches \"trend\", not \"select\" in this sentence.",
+        "where information comes from": "\"where information comes from\" is a real meaning, but it matches \"source\", not \"select\" in this sentence.",
+        "unfair influence on judgment": "\"unfair influence on judgment\" is a real meaning, but it matches \"bias\", not \"select\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-56",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"trend\" mean in this sentence? In the office email, the trend continued for months.",
+      "options": [
+        "a general direction of change",
+        "where information comes from",
+        "unfair influence on judgment",
+        "mention as evidence"
+      ],
+      "answer": "a general direction of change",
+      "explanation": "In this sentence, \"trend\" means \"a general direction of change\": In the office email, the trend continued for months.",
+      "rationales": {
+        "a general direction of change": "In this sentence, \"trend\" means \"a general direction of change\": In the office email, the trend continued for months.",
+        "where information comes from": "\"where information comes from\" is a real meaning, but it matches \"source\", not \"trend\" in this sentence.",
+        "unfair influence on judgment": "\"unfair influence on judgment\" is a real meaning, but it matches \"bias\", not \"trend\" in this sentence.",
+        "mention as evidence": "\"mention as evidence\" is a real meaning, but it matches \"cite\", not \"trend\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-57",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"source\" mean in this sentence? The reading passage says that the source is listed below.",
+      "options": [
+        "where information comes from",
+        "unfair influence on judgment",
+        "mention as evidence",
+        "the situation around something"
+      ],
+      "answer": "where information comes from",
+      "explanation": "In this sentence, \"source\" means \"where information comes from\": The reading passage says that the source is listed below.",
+      "rationales": {
+        "where information comes from": "In this sentence, \"source\" means \"where information comes from\": The reading passage says that the source is listed below.",
+        "unfair influence on judgment": "\"unfair influence on judgment\" is a real meaning, but it matches \"bias\", not \"source\" in this sentence.",
+        "mention as evidence": "\"mention as evidence\" is a real meaning, but it matches \"cite\", not \"source\" in this sentence.",
+        "the situation around something": "\"the situation around something\" is a real meaning, but it matches \"context\", not \"source\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-58",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"bias\" mean in this sentence? At the start of the activity, the sample may show bias.",
+      "options": [
+        "unfair influence on judgment",
+        "mention as evidence",
+        "the situation around something",
+        "show or suggest"
+      ],
+      "answer": "unfair influence on judgment",
+      "explanation": "In this sentence, \"bias\" means \"unfair influence on judgment\": At the start of the activity, the sample may show bias.",
+      "rationales": {
+        "unfair influence on judgment": "In this sentence, \"bias\" means \"unfair influence on judgment\": At the start of the activity, the sample may show bias.",
+        "mention as evidence": "\"mention as evidence\" is a real meaning, but it matches \"cite\", not \"bias\" in this sentence.",
+        "the situation around something": "\"the situation around something\" is a real meaning, but it matches \"context\", not \"bias\" in this sentence.",
+        "show or suggest": "\"show or suggest\" is a real meaning, but it matches \"indicate\", not \"bias\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-59",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"cite\" mean in this sentence? The second example says that the essay cites two articles.",
+      "options": [
+        "mention as evidence",
+        "the situation around something",
+        "show or suggest",
+        "important enough to notice"
+      ],
+      "answer": "mention as evidence",
+      "explanation": "In this sentence, \"cite\" means \"mention as evidence\": The second example says that the essay cites two articles.",
+      "rationales": {
+        "mention as evidence": "In this sentence, \"cite\" means \"mention as evidence\": The second example says that the essay cites two articles.",
+        "the situation around something": "\"the situation around something\" is a real meaning, but it matches \"context\", not \"cite\" in this sentence.",
+        "show or suggest": "\"show or suggest\" is a real meaning, but it matches \"indicate\", not \"cite\" in this sentence.",
+        "important enough to notice": "\"important enough to notice\" is a real meaning, but it matches \"significant\", not \"cite\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b1-60",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"context\" mean in this sentence? On the class website, context changes the meaning.",
+      "options": [
+        "the situation around something",
+        "show or suggest",
+        "important enough to notice",
+        "an idea accepted before proof"
+      ],
+      "answer": "the situation around something",
+      "explanation": "In this sentence, \"context\" means \"the situation around something\": On the class website, context changes the meaning.",
+      "rationales": {
+        "the situation around something": "In this sentence, \"context\" means \"the situation around something\": On the class website, context changes the meaning.",
+        "show or suggest": "\"show or suggest\" is a real meaning, but it matches \"indicate\", not \"context\" in this sentence.",
+        "important enough to notice": "\"important enough to notice\" is a real meaning, but it matches \"significant\", not \"context\" in this sentence.",
+        "an idea accepted before proof": "\"an idea accepted before proof\" is a real meaning, but it matches \"assumption\", not \"context\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-61",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"hypothesis\" mean in this sentence? The experiment tested a hypothesis.",
+      "options": [
+        "an idea tested by research",
+        "something that can change",
+        "explain the meaning of something",
+        "a system of ideas"
+      ],
+      "answer": "an idea tested by research",
+      "explanation": "In this sentence, \"hypothesis\" means \"an idea tested by research\": The experiment tested a hypothesis.",
+      "rationales": {
+        "an idea tested by research": "In this sentence, \"hypothesis\" means \"an idea tested by research\": The experiment tested a hypothesis.",
+        "something that can change": "\"something that can change\" is a real meaning, but it matches \"variable\", not \"hypothesis\" in this sentence.",
+        "explain the meaning of something": "\"explain the meaning of something\" is a real meaning, but it matches \"interpret\", not \"hypothesis\" in this sentence.",
+        "a system of ideas": "\"a system of ideas\" is a real meaning, but it matches \"framework\", not \"hypothesis\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-62",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"variable\" mean in this sentence? In the clinic, age was one variable in the study.",
+      "options": [
+        "something that can change",
+        "explain the meaning of something",
+        "a system of ideas",
+        "get from a source"
+      ],
+      "answer": "something that can change",
+      "explanation": "In this sentence, \"variable\" means \"something that can change\": In the clinic, age was one variable in the study.",
+      "rationales": {
+        "something that can change": "In this sentence, \"variable\" means \"something that can change\": In the clinic, age was one variable in the study.",
+        "explain the meaning of something": "\"explain the meaning of something\" is a real meaning, but it matches \"interpret\", not \"variable\" in this sentence.",
+        "a system of ideas": "\"a system of ideas\" is a real meaning, but it matches \"framework\", not \"variable\" in this sentence.",
+        "get from a source": "\"get from a source\" is a real meaning, but it matches \"derive\", not \"variable\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-63",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"interpret\" mean in this sentence? During the discussion, students must interpret the graph.",
+      "options": [
+        "explain the meaning of something",
+        "a system of ideas",
+        "get from a source",
+        "a standard for judging"
+      ],
+      "answer": "explain the meaning of something",
+      "explanation": "In this sentence, \"interpret\" means \"explain the meaning of something\": During the discussion, students must interpret the graph.",
+      "rationales": {
+        "explain the meaning of something": "In this sentence, \"interpret\" means \"explain the meaning of something\": During the discussion, students must interpret the graph.",
+        "a system of ideas": "\"a system of ideas\" is a real meaning, but it matches \"framework\", not \"interpret\" in this sentence.",
+        "get from a source": "\"get from a source\" is a real meaning, but it matches \"derive\", not \"interpret\" in this sentence.",
+        "a standard for judging": "\"a standard for judging\" is a real meaning, but it matches \"criterion\", not \"interpret\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-64",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"framework\" mean in this sentence? The example says that the report uses a simple framework.",
+      "options": [
+        "a system of ideas",
+        "get from a source",
+        "a standard for judging",
+        "the order of events"
+      ],
+      "answer": "a system of ideas",
+      "explanation": "In this sentence, \"framework\" means \"a system of ideas\": The example says that the report uses a simple framework.",
+      "rationales": {
+        "a system of ideas": "In this sentence, \"framework\" means \"a system of ideas\": The example says that the report uses a simple framework.",
+        "get from a source": "\"get from a source\" is a real meaning, but it matches \"derive\", not \"framework\" in this sentence.",
+        "a standard for judging": "\"a standard for judging\" is a real meaning, but it matches \"criterion\", not \"framework\" in this sentence.",
+        "the order of events": "\"the order of events\" is a real meaning, but it matches \"sequence\", not \"framework\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-65",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"derive\" mean in this sentence? On the worksheet, the conclusion was derived from survey data.",
+      "options": [
+        "get from a source",
+        "a standard for judging",
+        "the order of events",
+        "a part compared with the whole"
+      ],
+      "answer": "get from a source",
+      "explanation": "In this sentence, \"derive\" means \"get from a source\": On the worksheet, the conclusion was derived from survey data.",
+      "rationales": {
+        "get from a source": "In this sentence, \"derive\" means \"get from a source\": On the worksheet, the conclusion was derived from survey data.",
+        "a standard for judging": "\"a standard for judging\" is a real meaning, but it matches \"criterion\", not \"derive\" in this sentence.",
+        "the order of events": "\"the order of events\" is a real meaning, but it matches \"sequence\", not \"derive\" in this sentence.",
+        "a part compared with the whole": "\"a part compared with the whole\" is a real meaning, but it matches \"proportion\", not \"derive\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-66",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"criterion\" mean in this sentence? The teacher's example is this: Cost was one criterion.",
+      "options": [
+        "a standard for judging",
+        "the order of events",
+        "a part compared with the whole",
+        "a clear difference"
+      ],
+      "answer": "a standard for judging",
+      "explanation": "In this sentence, \"criterion\" means \"a standard for judging\": The teacher's example is this: Cost was one criterion.",
+      "rationales": {
+        "a standard for judging": "In this sentence, \"criterion\" means \"a standard for judging\": The teacher's example is this: Cost was one criterion.",
+        "the order of events": "\"the order of events\" is a real meaning, but it matches \"sequence\", not \"criterion\" in this sentence.",
+        "a part compared with the whole": "\"a part compared with the whole\" is a real meaning, but it matches \"proportion\", not \"criterion\" in this sentence.",
+        "a clear difference": "\"a clear difference\" is a real meaning, but it matches \"contrast\", not \"criterion\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-67",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"sequence\" mean in this sentence? In a short message, the sequence was hard to follow.",
+      "options": [
+        "the order of events",
+        "a part compared with the whole",
+        "a clear difference",
+        "a way of dealing with something"
+      ],
+      "answer": "the order of events",
+      "explanation": "In this sentence, \"sequence\" means \"the order of events\": In a short message, the sequence was hard to follow.",
+      "rationales": {
+        "the order of events": "In this sentence, \"sequence\" means \"the order of events\": In a short message, the sequence was hard to follow.",
+        "a part compared with the whole": "\"a part compared with the whole\" is a real meaning, but it matches \"proportion\", not \"sequence\" in this sentence.",
+        "a clear difference": "\"a clear difference\" is a real meaning, but it matches \"contrast\", not \"sequence\" in this sentence.",
+        "a way of dealing with something": "\"a way of dealing with something\" is a real meaning, but it matches \"approach\", not \"sequence\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-68",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"proportion\" mean in this sentence? The report gives this example: A large proportion answered yes.",
+      "options": [
+        "a part compared with the whole",
+        "a clear difference",
+        "a way of dealing with something",
+        "the range covered"
+      ],
+      "answer": "a part compared with the whole",
+      "explanation": "In this sentence, \"proportion\" means \"a part compared with the whole\": The report gives this example: A large proportion answered yes.",
+      "rationales": {
+        "a part compared with the whole": "In this sentence, \"proportion\" means \"a part compared with the whole\": The report gives this example: A large proportion answered yes.",
+        "a clear difference": "\"a clear difference\" is a real meaning, but it matches \"contrast\", not \"proportion\" in this sentence.",
+        "a way of dealing with something": "\"a way of dealing with something\" is a real meaning, but it matches \"approach\", not \"proportion\" in this sentence.",
+        "the range covered": "\"the range covered\" is a real meaning, but it matches \"scope\", not \"proportion\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-69",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"contrast\" mean in this sentence? At the reception desk, the contrast is important.",
+      "options": [
+        "a clear difference",
+        "a way of dealing with something",
+        "the range covered",
+        "reach a conclusion from evidence"
+      ],
+      "answer": "a clear difference",
+      "explanation": "In this sentence, \"contrast\" means \"a clear difference\": At the reception desk, the contrast is important.",
+      "rationales": {
+        "a clear difference": "In this sentence, \"contrast\" means \"a clear difference\": At the reception desk, the contrast is important.",
+        "a way of dealing with something": "\"a way of dealing with something\" is a real meaning, but it matches \"approach\", not \"contrast\" in this sentence.",
+        "the range covered": "\"the range covered\" is a real meaning, but it matches \"scope\", not \"contrast\" in this sentence.",
+        "reach a conclusion from evidence": "\"reach a conclusion from evidence\" is a real meaning, but it matches \"infer\", not \"contrast\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-70",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"approach\" mean in this sentence? The class note says that the study uses a new approach.",
+      "options": [
+        "a way of dealing with something",
+        "the range covered",
+        "reach a conclusion from evidence",
+        "judge carefully"
+      ],
+      "answer": "a way of dealing with something",
+      "explanation": "In this sentence, \"approach\" means \"a way of dealing with something\": The class note says that the study uses a new approach.",
+      "rationales": {
+        "a way of dealing with something": "In this sentence, \"approach\" means \"a way of dealing with something\": The class note says that the study uses a new approach.",
+        "the range covered": "\"the range covered\" is a real meaning, but it matches \"scope\", not \"approach\" in this sentence.",
+        "reach a conclusion from evidence": "\"reach a conclusion from evidence\" is a real meaning, but it matches \"infer\", not \"approach\" in this sentence.",
+        "judge carefully": "\"judge carefully\" is a real meaning, but it matches \"assess\", not \"approach\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-71",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"scope\" mean in this sentence? In the practice text, the scope of the report is narrow.",
+      "options": [
+        "the range covered",
+        "reach a conclusion from evidence",
+        "judge carefully",
+        "not changing or conflicting"
+      ],
+      "answer": "the range covered",
+      "explanation": "In this sentence, \"scope\" means \"the range covered\": In the practice text, the scope of the report is narrow.",
+      "rationales": {
+        "the range covered": "In this sentence, \"scope\" means \"the range covered\": In the practice text, the scope of the report is narrow.",
+        "reach a conclusion from evidence": "\"reach a conclusion from evidence\" is a real meaning, but it matches \"infer\", not \"scope\" in this sentence.",
+        "judge carefully": "\"judge carefully\" is a real meaning, but it matches \"assess\", not \"scope\" in this sentence.",
+        "not changing or conflicting": "\"not changing or conflicting\" is a real meaning, but it matches \"consistent\", not \"scope\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-72",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"infer\" mean in this sentence? During the lesson, the reader inferred the answer from context.",
+      "options": [
+        "reach a conclusion from evidence",
+        "judge carefully",
+        "not changing or conflicting",
+        "a basic rule or idea"
+      ],
+      "answer": "reach a conclusion from evidence",
+      "explanation": "In this sentence, \"infer\" means \"reach a conclusion from evidence\": During the lesson, the reader inferred the answer from context.",
+      "rationales": {
+        "reach a conclusion from evidence": "In this sentence, \"infer\" means \"reach a conclusion from evidence\": During the lesson, the reader inferred the answer from context.",
+        "judge carefully": "\"judge carefully\" is a real meaning, but it matches \"assess\", not \"infer\" in this sentence.",
+        "not changing or conflicting": "\"not changing or conflicting\" is a real meaning, but it matches \"consistent\", not \"infer\" in this sentence.",
+        "a basic rule or idea": "\"a basic rule or idea\" is a real meaning, but it matches \"principle\", not \"infer\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-73",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"assess\" mean in this sentence? The first example says that the panel assessed the evidence.",
+      "options": [
+        "judge carefully",
+        "not changing or conflicting",
+        "a basic rule or idea",
+        "the group studied"
+      ],
+      "answer": "judge carefully",
+      "explanation": "In this sentence, \"assess\" means \"judge carefully\": The first example says that the panel assessed the evidence.",
+      "rationales": {
+        "judge carefully": "In this sentence, \"assess\" means \"judge carefully\": The first example says that the panel assessed the evidence.",
+        "not changing or conflicting": "\"not changing or conflicting\" is a real meaning, but it matches \"consistent\", not \"assess\" in this sentence.",
+        "a basic rule or idea": "\"a basic rule or idea\" is a real meaning, but it matches \"principle\", not \"assess\" in this sentence.",
+        "the group studied": "\"the group studied\" is a real meaning, but it matches \"sample\", not \"assess\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-74",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"consistent\" mean in this sentence? On the notice board, the findings were consistent.",
+      "options": [
+        "not changing or conflicting",
+        "a basic rule or idea",
+        "the group studied",
+        "a way of doing research"
+      ],
+      "answer": "not changing or conflicting",
+      "explanation": "In this sentence, \"consistent\" means \"not changing or conflicting\": On the notice board, the findings were consistent.",
+      "rationales": {
+        "not changing or conflicting": "In this sentence, \"consistent\" means \"not changing or conflicting\": On the notice board, the findings were consistent.",
+        "a basic rule or idea": "\"a basic rule or idea\" is a real meaning, but it matches \"principle\", not \"consistent\" in this sentence.",
+        "the group studied": "\"the group studied\" is a real meaning, but it matches \"sample\", not \"consistent\" in this sentence.",
+        "a way of doing research": "\"a way of doing research\" is a real meaning, but it matches \"method\", not \"consistent\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-75",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"principle\" mean in this sentence? The guide gives this sentence: The principle applies broadly.",
+      "options": [
+        "a basic rule or idea",
+        "the group studied",
+        "a way of doing research",
+        "the final result"
+      ],
+      "answer": "a basic rule or idea",
+      "explanation": "In this sentence, \"principle\" means \"a basic rule or idea\": The guide gives this sentence: The principle applies broadly.",
+      "rationales": {
+        "a basic rule or idea": "In this sentence, \"principle\" means \"a basic rule or idea\": The guide gives this sentence: The principle applies broadly.",
+        "the group studied": "\"the group studied\" is a real meaning, but it matches \"sample\", not \"principle\" in this sentence.",
+        "a way of doing research": "\"a way of doing research\" is a real meaning, but it matches \"method\", not \"principle\" in this sentence.",
+        "the final result": "\"the final result\" is a real meaning, but it matches \"outcome\", not \"principle\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-76",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"sample\" mean in this sentence? In the office email, the sample was small.",
+      "options": [
+        "the group studied",
+        "a way of doing research",
+        "the final result",
+        "a simplified representation of an idea or system"
+      ],
+      "answer": "the group studied",
+      "explanation": "In this sentence, \"sample\" means \"the group studied\": In the office email, the sample was small.",
+      "rationales": {
+        "the group studied": "In this sentence, \"sample\" means \"the group studied\": In the office email, the sample was small.",
+        "a way of doing research": "\"a way of doing research\" is a real meaning, but it matches \"method\", not \"sample\" in this sentence.",
+        "the final result": "\"the final result\" is a real meaning, but it matches \"outcome\", not \"sample\" in this sentence.",
+        "a simplified representation of an idea or system": "\"a simplified representation of an idea or system\" is a real meaning, but it matches \"model\", not \"sample\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-77",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"method\" mean in this sentence? The reading passage says that the method was simple.",
+      "options": [
+        "a way of doing research",
+        "the final result",
+        "a simplified representation of an idea or system",
+        "a sign or measure used to show something"
+      ],
+      "answer": "a way of doing research",
+      "explanation": "In this sentence, \"method\" means \"a way of doing research\": The reading passage says that the method was simple.",
+      "rationales": {
+        "a way of doing research": "In this sentence, \"method\" means \"a way of doing research\": The reading passage says that the method was simple.",
+        "the final result": "\"the final result\" is a real meaning, but it matches \"outcome\", not \"method\" in this sentence.",
+        "a simplified representation of an idea or system": "\"a simplified representation of an idea or system\" is a real meaning, but it matches \"model\", not \"method\" in this sentence.",
+        "a sign or measure used to show something": "\"a sign or measure used to show something\" is a real meaning, but it matches \"indicator\", not \"method\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-78",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"outcome\" mean in this sentence? At the start of the activity, the outcome was positive.",
+      "options": [
+        "the final result",
+        "a simplified representation of an idea or system",
+        "a sign or measure used to show something",
+        "an idea tested by research"
+      ],
+      "answer": "the final result",
+      "explanation": "In this sentence, \"outcome\" means \"the final result\": At the start of the activity, the outcome was positive.",
+      "rationales": {
+        "the final result": "In this sentence, \"outcome\" means \"the final result\": At the start of the activity, the outcome was positive.",
+        "a simplified representation of an idea or system": "\"a simplified representation of an idea or system\" is a real meaning, but it matches \"model\", not \"outcome\" in this sentence.",
+        "a sign or measure used to show something": "\"a sign or measure used to show something\" is a real meaning, but it matches \"indicator\", not \"outcome\" in this sentence.",
+        "an idea tested by research": "\"an idea tested by research\" is a real meaning, but it matches \"hypothesis\", not \"outcome\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-79",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"model\" mean in this sentence? The second example says that the model explains the pattern.",
+      "options": [
+        "a simplified representation of an idea or system",
+        "a sign or measure used to show something",
+        "an idea tested by research",
+        "something that can change"
+      ],
+      "answer": "a simplified representation of an idea or system",
+      "explanation": "In this sentence, \"model\" means \"a simplified representation of an idea or system\": The second example says that the model explains the pattern.",
+      "rationales": {
+        "a simplified representation of an idea or system": "In this sentence, \"model\" means \"a simplified representation of an idea or system\": The second example says that the model explains the pattern.",
+        "a sign or measure used to show something": "\"a sign or measure used to show something\" is a real meaning, but it matches \"indicator\", not \"model\" in this sentence.",
+        "an idea tested by research": "\"an idea tested by research\" is a real meaning, but it matches \"hypothesis\", not \"model\" in this sentence.",
+        "something that can change": "\"something that can change\" is a real meaning, but it matches \"variable\", not \"model\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-b2-80",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"indicator\" mean in this sentence? On the class website, attendance was one indicator of engagement.",
+      "options": [
+        "a sign or measure used to show something",
+        "an idea tested by research",
+        "something that can change",
+        "explain the meaning of something"
+      ],
+      "answer": "a sign or measure used to show something",
+      "explanation": "In this sentence, \"indicator\" means \"a sign or measure used to show something\": On the class website, attendance was one indicator of engagement.",
+      "rationales": {
+        "a sign or measure used to show something": "In this sentence, \"indicator\" means \"a sign or measure used to show something\": On the class website, attendance was one indicator of engagement.",
+        "an idea tested by research": "\"an idea tested by research\" is a real meaning, but it matches \"hypothesis\", not \"indicator\" in this sentence.",
+        "something that can change": "\"something that can change\" is a real meaning, but it matches \"variable\", not \"indicator\" in this sentence.",
+        "explain the meaning of something": "\"explain the meaning of something\" is a real meaning, but it matches \"interpret\", not \"indicator\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-81",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"methodology\" mean in this sentence? The article explains its methodology.",
+      "options": [
+        "the methods used in a study",
+        "a relationship between two measures",
+        "how well something measures what it should",
+        "early and not final"
+      ],
+      "answer": "the methods used in a study",
+      "explanation": "In this sentence, \"methodology\" means \"the methods used in a study\": The article explains its methodology.",
+      "rationales": {
+        "the methods used in a study": "In this sentence, \"methodology\" means \"the methods used in a study\": The article explains its methodology.",
+        "a relationship between two measures": "\"a relationship between two measures\" is a real meaning, but it matches \"correlation\", not \"methodology\" in this sentence.",
+        "how well something measures what it should": "\"how well something measures what it should\" is a real meaning, but it matches \"validity\", not \"methodology\" in this sentence.",
+        "early and not final": "\"early and not final\" is a real meaning, but it matches \"preliminary\", not \"methodology\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-82",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"correlation\" mean in this sentence? In the clinic, the data show a correlation.",
+      "options": [
+        "a relationship between two measures",
+        "how well something measures what it should",
+        "early and not final",
+        "a possible effect or meaning"
+      ],
+      "answer": "a relationship between two measures",
+      "explanation": "In this sentence, \"correlation\" means \"a relationship between two measures\": In the clinic, the data show a correlation.",
+      "rationales": {
+        "a relationship between two measures": "In this sentence, \"correlation\" means \"a relationship between two measures\": In the clinic, the data show a correlation.",
+        "how well something measures what it should": "\"how well something measures what it should\" is a real meaning, but it matches \"validity\", not \"correlation\" in this sentence.",
+        "early and not final": "\"early and not final\" is a real meaning, but it matches \"preliminary\", not \"correlation\" in this sentence.",
+        "a possible effect or meaning": "\"a possible effect or meaning\" is a real meaning, but it matches \"implication\", not \"correlation\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-83",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"validity\" mean in this sentence? During the discussion, the researcher questioned the test's validity.",
+      "options": [
+        "how well something measures what it should",
+        "early and not final",
+        "a possible effect or meaning",
+        "repeat a study to check results"
+      ],
+      "answer": "how well something measures what it should",
+      "explanation": "In this sentence, \"validity\" means \"how well something measures what it should\": During the discussion, the researcher questioned the test's validity.",
+      "rationales": {
+        "how well something measures what it should": "In this sentence, \"validity\" means \"how well something measures what it should\": During the discussion, the researcher questioned the test's validity.",
+        "early and not final": "\"early and not final\" is a real meaning, but it matches \"preliminary\", not \"validity\" in this sentence.",
+        "a possible effect or meaning": "\"a possible effect or meaning\" is a real meaning, but it matches \"implication\", not \"validity\" in this sentence.",
+        "repeat a study to check results": "\"repeat a study to check results\" is a real meaning, but it matches \"replicate\", not \"validity\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-84",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"preliminary\" mean in this sentence? The example says that these are preliminary results.",
+      "options": [
+        "early and not final",
+        "a possible effect or meaning",
+        "repeat a study to check results",
+        "combination of ideas into a whole"
+      ],
+      "answer": "early and not final",
+      "explanation": "In this sentence, \"preliminary\" means \"early and not final\": The example says that these are preliminary results.",
+      "rationales": {
+        "early and not final": "In this sentence, \"preliminary\" means \"early and not final\": The example says that these are preliminary results.",
+        "a possible effect or meaning": "\"a possible effect or meaning\" is a real meaning, but it matches \"implication\", not \"preliminary\" in this sentence.",
+        "repeat a study to check results": "\"repeat a study to check results\" is a real meaning, but it matches \"replicate\", not \"preliminary\" in this sentence.",
+        "combination of ideas into a whole": "\"combination of ideas into a whole\" is a real meaning, but it matches \"synthesis\", not \"preliminary\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-85",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"implication\" mean in this sentence? On the worksheet, the finding has practical implications.",
+      "options": [
+        "a possible effect or meaning",
+        "repeat a study to check results",
+        "combination of ideas into a whole",
+        "a weakness or boundary"
+      ],
+      "answer": "a possible effect or meaning",
+      "explanation": "In this sentence, \"implication\" means \"a possible effect or meaning\": On the worksheet, the finding has practical implications.",
+      "rationales": {
+        "a possible effect or meaning": "In this sentence, \"implication\" means \"a possible effect or meaning\": On the worksheet, the finding has practical implications.",
+        "repeat a study to check results": "\"repeat a study to check results\" is a real meaning, but it matches \"replicate\", not \"implication\" in this sentence.",
+        "combination of ideas into a whole": "\"combination of ideas into a whole\" is a real meaning, but it matches \"synthesis\", not \"implication\" in this sentence.",
+        "a weakness or boundary": "\"a weakness or boundary\" is a real meaning, but it matches \"limitation\", not \"implication\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-86",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"replicate\" mean in this sentence? The teacher's example is this: The team tried to replicate the experiment.",
+      "options": [
+        "repeat a study to check results",
+        "combination of ideas into a whole",
+        "a weakness or boundary",
+        "the act of causing something"
+      ],
+      "answer": "repeat a study to check results",
+      "explanation": "In this sentence, \"replicate\" means \"repeat a study to check results\": The teacher's example is this: The team tried to replicate the experiment.",
+      "rationales": {
+        "repeat a study to check results": "In this sentence, \"replicate\" means \"repeat a study to check results\": The teacher's example is this: The team tried to replicate the experiment.",
+        "combination of ideas into a whole": "\"combination of ideas into a whole\" is a real meaning, but it matches \"synthesis\", not \"replicate\" in this sentence.",
+        "a weakness or boundary": "\"a weakness or boundary\" is a real meaning, but it matches \"limitation\", not \"replicate\" in this sentence.",
+        "the act of causing something": "\"the act of causing something\" is a real meaning, but it matches \"causation\", not \"replicate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-87",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"synthesis\" mean in this sentence? In a short message, the chapter offers a synthesis.",
+      "options": [
+        "combination of ideas into a whole",
+        "a weakness or boundary",
+        "the act of causing something",
+        "repeating a study to check results"
+      ],
+      "answer": "combination of ideas into a whole",
+      "explanation": "In this sentence, \"synthesis\" means \"combination of ideas into a whole\": In a short message, the chapter offers a synthesis.",
+      "rationales": {
+        "combination of ideas into a whole": "In this sentence, \"synthesis\" means \"combination of ideas into a whole\": In a short message, the chapter offers a synthesis.",
+        "a weakness or boundary": "\"a weakness or boundary\" is a real meaning, but it matches \"limitation\", not \"synthesis\" in this sentence.",
+        "the act of causing something": "\"the act of causing something\" is a real meaning, but it matches \"causation\", not \"synthesis\" in this sentence.",
+        "repeating a study to check results": "\"repeating a study to check results\" is a real meaning, but it matches \"replication\", not \"synthesis\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-88",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"limitation\" mean in this sentence? The report gives this example: The author notes one limitation.",
+      "options": [
+        "a weakness or boundary",
+        "the act of causing something",
+        "repeating a study to check results",
+        "consistency of a measure"
+      ],
+      "answer": "a weakness or boundary",
+      "explanation": "In this sentence, \"limitation\" means \"a weakness or boundary\": The report gives this example: The author notes one limitation.",
+      "rationales": {
+        "a weakness or boundary": "In this sentence, \"limitation\" means \"a weakness or boundary\": The report gives this example: The author notes one limitation.",
+        "the act of causing something": "\"the act of causing something\" is a real meaning, but it matches \"causation\", not \"limitation\" in this sentence.",
+        "repeating a study to check results": "\"repeating a study to check results\" is a real meaning, but it matches \"replication\", not \"limitation\" in this sentence.",
+        "consistency of a measure": "\"consistency of a measure\" is a real meaning, but it matches \"reliability\", not \"limitation\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-89",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"causation\" mean in this sentence? At the reception desk, the data do not prove causation.",
+      "options": [
+        "the act of causing something",
+        "repeating a study to check results",
+        "consistency of a measure",
+        "careful and not final"
+      ],
+      "answer": "the act of causing something",
+      "explanation": "In this sentence, \"causation\" means \"the act of causing something\": At the reception desk, the data do not prove causation.",
+      "rationales": {
+        "the act of causing something": "In this sentence, \"causation\" means \"the act of causing something\": At the reception desk, the data do not prove causation.",
+        "repeating a study to check results": "\"repeating a study to check results\" is a real meaning, but it matches \"replication\", not \"causation\" in this sentence.",
+        "consistency of a measure": "\"consistency of a measure\" is a real meaning, but it matches \"reliability\", not \"causation\" in this sentence.",
+        "careful and not final": "\"careful and not final\" is a real meaning, but it matches \"tentative\", not \"causation\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-90",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"replication\" mean in this sentence? The class note says that replication strengthened the finding.",
+      "options": [
+        "repeating a study to check results",
+        "consistency of a measure",
+        "careful and not final",
+        "a conclusion drawn from evidence"
+      ],
+      "answer": "repeating a study to check results",
+      "explanation": "In this sentence, \"replication\" means \"repeating a study to check results\": The class note says that replication strengthened the finding.",
+      "rationales": {
+        "repeating a study to check results": "In this sentence, \"replication\" means \"repeating a study to check results\": The class note says that replication strengthened the finding.",
+        "consistency of a measure": "\"consistency of a measure\" is a real meaning, but it matches \"reliability\", not \"replication\" in this sentence.",
+        "careful and not final": "\"careful and not final\" is a real meaning, but it matches \"tentative\", not \"replication\" in this sentence.",
+        "a conclusion drawn from evidence": "\"a conclusion drawn from evidence\" is a real meaning, but it matches \"inference\", not \"replication\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-91",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"reliability\" mean in this sentence? In the practice text, reliability improved after piloting.",
+      "options": [
+        "consistency of a measure",
+        "careful and not final",
+        "a conclusion drawn from evidence",
+        "an abstract idea being measured"
+      ],
+      "answer": "consistency of a measure",
+      "explanation": "In this sentence, \"reliability\" means \"consistency of a measure\": In the practice text, reliability improved after piloting.",
+      "rationales": {
+        "consistency of a measure": "In this sentence, \"reliability\" means \"consistency of a measure\": In the practice text, reliability improved after piloting.",
+        "careful and not final": "\"careful and not final\" is a real meaning, but it matches \"tentative\", not \"reliability\" in this sentence.",
+        "a conclusion drawn from evidence": "\"a conclusion drawn from evidence\" is a real meaning, but it matches \"inference\", not \"reliability\" in this sentence.",
+        "an abstract idea being measured": "\"an abstract idea being measured\" is a real meaning, but it matches \"construct\", not \"reliability\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-92",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"tentative\" mean in this sentence? During the lesson, the conclusion remains tentative.",
+      "options": [
+        "careful and not final",
+        "a conclusion drawn from evidence",
+        "an abstract idea being measured",
+        "published research on a subject"
+      ],
+      "answer": "careful and not final",
+      "explanation": "In this sentence, \"tentative\" means \"careful and not final\": During the lesson, the conclusion remains tentative.",
+      "rationales": {
+        "careful and not final": "In this sentence, \"tentative\" means \"careful and not final\": During the lesson, the conclusion remains tentative.",
+        "a conclusion drawn from evidence": "\"a conclusion drawn from evidence\" is a real meaning, but it matches \"inference\", not \"tentative\" in this sentence.",
+        "an abstract idea being measured": "\"an abstract idea being measured\" is a real meaning, but it matches \"construct\", not \"tentative\" in this sentence.",
+        "published research on a subject": "\"published research on a subject\" is a real meaning, but it matches \"literature\", not \"tentative\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-93",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"inference\" mean in this sentence? The first example says that the inference was too broad.",
+      "options": [
+        "a conclusion drawn from evidence",
+        "an abstract idea being measured",
+        "published research on a subject",
+        "define so something can be measured"
+      ],
+      "answer": "a conclusion drawn from evidence",
+      "explanation": "In this sentence, \"inference\" means \"a conclusion drawn from evidence\": The first example says that the inference was too broad.",
+      "rationales": {
+        "a conclusion drawn from evidence": "In this sentence, \"inference\" means \"a conclusion drawn from evidence\": The first example says that the inference was too broad.",
+        "an abstract idea being measured": "\"an abstract idea being measured\" is a real meaning, but it matches \"construct\", not \"inference\" in this sentence.",
+        "published research on a subject": "\"published research on a subject\" is a real meaning, but it matches \"literature\", not \"inference\" in this sentence.",
+        "define so something can be measured": "\"define so something can be measured\" is a real meaning, but it matches \"operationalize\", not \"inference\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-94",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"construct\" mean in this sentence? On the notice board, the construct was defined narrowly.",
+      "options": [
+        "an abstract idea being measured",
+        "published research on a subject",
+        "define so something can be measured",
+        "based on qualities rather than numbers"
+      ],
+      "answer": "an abstract idea being measured",
+      "explanation": "In this sentence, \"construct\" means \"an abstract idea being measured\": On the notice board, the construct was defined narrowly.",
+      "rationales": {
+        "an abstract idea being measured": "In this sentence, \"construct\" means \"an abstract idea being measured\": On the notice board, the construct was defined narrowly.",
+        "published research on a subject": "\"published research on a subject\" is a real meaning, but it matches \"literature\", not \"construct\" in this sentence.",
+        "define so something can be measured": "\"define so something can be measured\" is a real meaning, but it matches \"operationalize\", not \"construct\" in this sentence.",
+        "based on qualities rather than numbers": "\"based on qualities rather than numbers\" is a real meaning, but it matches \"qualitative\", not \"construct\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-95",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"literature\" mean in this sentence? The guide gives this sentence: The literature is divided.",
+      "options": [
+        "published research on a subject",
+        "define so something can be measured",
+        "based on qualities rather than numbers",
+        "based on numbers"
+      ],
+      "answer": "published research on a subject",
+      "explanation": "In this sentence, \"literature\" means \"published research on a subject\": The guide gives this sentence: The literature is divided.",
+      "rationales": {
+        "published research on a subject": "In this sentence, \"literature\" means \"published research on a subject\": The guide gives this sentence: The literature is divided.",
+        "define so something can be measured": "\"define so something can be measured\" is a real meaning, but it matches \"operationalize\", not \"literature\" in this sentence.",
+        "based on qualities rather than numbers": "\"based on qualities rather than numbers\" is a real meaning, but it matches \"qualitative\", not \"literature\" in this sentence.",
+        "based on numbers": "\"based on numbers\" is a real meaning, but it matches \"quantitative\", not \"literature\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-96",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"operationalize\" mean in this sentence? In the office email, the study operationalizes engagement narrowly.",
+      "options": [
+        "define so something can be measured",
+        "based on qualities rather than numbers",
+        "based on numbers",
+        "related to ideas rather than practice"
+      ],
+      "answer": "define so something can be measured",
+      "explanation": "In this sentence, \"operationalize\" means \"define so something can be measured\": In the office email, the study operationalizes engagement narrowly.",
+      "rationales": {
+        "define so something can be measured": "In this sentence, \"operationalize\" means \"define so something can be measured\": In the office email, the study operationalizes engagement narrowly.",
+        "based on qualities rather than numbers": "\"based on qualities rather than numbers\" is a real meaning, but it matches \"qualitative\", not \"operationalize\" in this sentence.",
+        "based on numbers": "\"based on numbers\" is a real meaning, but it matches \"quantitative\", not \"operationalize\" in this sentence.",
+        "related to ideas rather than practice": "\"related to ideas rather than practice\" is a real meaning, but it matches \"theoretical\", not \"operationalize\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-97",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"qualitative\" mean in this sentence? The reading passage says that the interviews provide qualitative data.",
+      "options": [
+        "based on qualities rather than numbers",
+        "based on numbers",
+        "related to ideas rather than practice",
+        "related to concepts"
+      ],
+      "answer": "based on qualities rather than numbers",
+      "explanation": "In this sentence, \"qualitative\" means \"based on qualities rather than numbers\": The reading passage says that the interviews provide qualitative data.",
+      "rationales": {
+        "based on qualities rather than numbers": "In this sentence, \"qualitative\" means \"based on qualities rather than numbers\": The reading passage says that the interviews provide qualitative data.",
+        "based on numbers": "\"based on numbers\" is a real meaning, but it matches \"quantitative\", not \"qualitative\" in this sentence.",
+        "related to ideas rather than practice": "\"related to ideas rather than practice\" is a real meaning, but it matches \"theoretical\", not \"qualitative\" in this sentence.",
+        "related to concepts": "\"related to concepts\" is a real meaning, but it matches \"conceptual\", not \"qualitative\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-98",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"quantitative\" mean in this sentence? At the start of the activity, the survey gives quantitative evidence.",
+      "options": [
+        "based on numbers",
+        "related to ideas rather than practice",
+        "related to concepts",
+        "the methods used in a study"
+      ],
+      "answer": "based on numbers",
+      "explanation": "In this sentence, \"quantitative\" means \"based on numbers\": At the start of the activity, the survey gives quantitative evidence.",
+      "rationales": {
+        "based on numbers": "In this sentence, \"quantitative\" means \"based on numbers\": At the start of the activity, the survey gives quantitative evidence.",
+        "related to ideas rather than practice": "\"related to ideas rather than practice\" is a real meaning, but it matches \"theoretical\", not \"quantitative\" in this sentence.",
+        "related to concepts": "\"related to concepts\" is a real meaning, but it matches \"conceptual\", not \"quantitative\" in this sentence.",
+        "the methods used in a study": "\"the methods used in a study\" is a real meaning, but it matches \"methodology\", not \"quantitative\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-99",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"theoretical\" mean in this sentence? The second example says that the theoretical issue remains unsettled.",
+      "options": [
+        "related to ideas rather than practice",
+        "related to concepts",
+        "the methods used in a study",
+        "a relationship between two measures"
+      ],
+      "answer": "related to ideas rather than practice",
+      "explanation": "In this sentence, \"theoretical\" means \"related to ideas rather than practice\": The second example says that the theoretical issue remains unsettled.",
+      "rationales": {
+        "related to ideas rather than practice": "In this sentence, \"theoretical\" means \"related to ideas rather than practice\": The second example says that the theoretical issue remains unsettled.",
+        "related to concepts": "\"related to concepts\" is a real meaning, but it matches \"conceptual\", not \"theoretical\" in this sentence.",
+        "the methods used in a study": "\"the methods used in a study\" is a real meaning, but it matches \"methodology\", not \"theoretical\" in this sentence.",
+        "a relationship between two measures": "\"a relationship between two measures\" is a real meaning, but it matches \"correlation\", not \"theoretical\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c1-100",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"conceptual\" mean in this sentence? On the class website, the model has a conceptual weakness.",
+      "options": [
+        "related to concepts",
+        "the methods used in a study",
+        "a relationship between two measures",
+        "how well something measures what it should"
+      ],
+      "answer": "related to concepts",
+      "explanation": "In this sentence, \"conceptual\" means \"related to concepts\": On the class website, the model has a conceptual weakness.",
+      "rationales": {
+        "related to concepts": "In this sentence, \"conceptual\" means \"related to concepts\": On the class website, the model has a conceptual weakness.",
+        "the methods used in a study": "\"the methods used in a study\" is a real meaning, but it matches \"methodology\", not \"conceptual\" in this sentence.",
+        "a relationship between two measures": "\"a relationship between two measures\" is a real meaning, but it matches \"correlation\", not \"conceptual\" in this sentence.",
+        "how well something measures what it should": "\"how well something measures what it should\" is a real meaning, but it matches \"validity\", not \"conceptual\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-101",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"paradigm\" mean in this sentence? The theory changed the research paradigm.",
+      "options": [
+        "a model or way of thinking",
+        "combine ideas into a whole",
+        "based on observation or data",
+        "estimate beyond known data"
+      ],
+      "answer": "a model or way of thinking",
+      "explanation": "In this sentence, \"paradigm\" means \"a model or way of thinking\": The theory changed the research paradigm.",
+      "rationales": {
+        "a model or way of thinking": "In this sentence, \"paradigm\" means \"a model or way of thinking\": The theory changed the research paradigm.",
+        "combine ideas into a whole": "\"combine ideas into a whole\" is a real meaning, but it matches \"synthesize\", not \"paradigm\" in this sentence.",
+        "based on observation or data": "\"based on observation or data\" is a real meaning, but it matches \"empirical\", not \"paradigm\" in this sentence.",
+        "estimate beyond known data": "\"estimate beyond known data\" is a real meaning, but it matches \"extrapolate\", not \"paradigm\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-102",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"synthesize\" mean in this sentence? In the clinic, the paper synthesizes several studies.",
+      "options": [
+        "combine ideas into a whole",
+        "based on observation or data",
+        "estimate beyond known data",
+        "following subjects over time"
+      ],
+      "answer": "combine ideas into a whole",
+      "explanation": "In this sentence, \"synthesize\" means \"combine ideas into a whole\": In the clinic, the paper synthesizes several studies.",
+      "rationales": {
+        "combine ideas into a whole": "In this sentence, \"synthesize\" means \"combine ideas into a whole\": In the clinic, the paper synthesizes several studies.",
+        "based on observation or data": "\"based on observation or data\" is a real meaning, but it matches \"empirical\", not \"synthesize\" in this sentence.",
+        "estimate beyond known data": "\"estimate beyond known data\" is a real meaning, but it matches \"extrapolate\", not \"synthesize\" in this sentence.",
+        "following subjects over time": "\"following subjects over time\" is a real meaning, but it matches \"longitudinal\", not \"synthesize\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-103",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"empirical\" mean in this sentence? During the discussion, the claim needs empirical support.",
+      "options": [
+        "based on observation or data",
+        "estimate beyond known data",
+        "following subjects over time",
+        "related to knowledge or justification"
+      ],
+      "answer": "based on observation or data",
+      "explanation": "In this sentence, \"empirical\" means \"based on observation or data\": During the discussion, the claim needs empirical support.",
+      "rationales": {
+        "based on observation or data": "In this sentence, \"empirical\" means \"based on observation or data\": During the discussion, the claim needs empirical support.",
+        "estimate beyond known data": "\"estimate beyond known data\" is a real meaning, but it matches \"extrapolate\", not \"empirical\" in this sentence.",
+        "following subjects over time": "\"following subjects over time\" is a real meaning, but it matches \"longitudinal\", not \"empirical\" in this sentence.",
+        "related to knowledge or justification": "\"related to knowledge or justification\" is a real meaning, but it matches \"epistemic\", not \"empirical\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-104",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"extrapolate\" mean in this sentence? The example says that the report extrapolates from a small sample.",
+      "options": [
+        "estimate beyond known data",
+        "following subjects over time",
+        "related to knowledge or justification",
+        "study of what exists"
+      ],
+      "answer": "estimate beyond known data",
+      "explanation": "In this sentence, \"extrapolate\" means \"estimate beyond known data\": The example says that the report extrapolates from a small sample.",
+      "rationales": {
+        "estimate beyond known data": "In this sentence, \"extrapolate\" means \"estimate beyond known data\": The example says that the report extrapolates from a small sample.",
+        "following subjects over time": "\"following subjects over time\" is a real meaning, but it matches \"longitudinal\", not \"extrapolate\" in this sentence.",
+        "related to knowledge or justification": "\"related to knowledge or justification\" is a real meaning, but it matches \"epistemic\", not \"extrapolate\" in this sentence.",
+        "study of what exists": "\"study of what exists\" is a real meaning, but it matches \"ontology\", not \"extrapolate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-105",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"longitudinal\" mean in this sentence? On the worksheet, the team designed a longitudinal study.",
+      "options": [
+        "following subjects over time",
+        "related to knowledge or justification",
+        "study of what exists",
+        "useful method for discovery"
+      ],
+      "answer": "following subjects over time",
+      "explanation": "In this sentence, \"longitudinal\" means \"following subjects over time\": On the worksheet, the team designed a longitudinal study.",
+      "rationales": {
+        "following subjects over time": "In this sentence, \"longitudinal\" means \"following subjects over time\": On the worksheet, the team designed a longitudinal study.",
+        "related to knowledge or justification": "\"related to knowledge or justification\" is a real meaning, but it matches \"epistemic\", not \"longitudinal\" in this sentence.",
+        "study of what exists": "\"study of what exists\" is a real meaning, but it matches \"ontology\", not \"longitudinal\" in this sentence.",
+        "useful method for discovery": "\"useful method for discovery\" is a real meaning, but it matches \"heuristic\", not \"longitudinal\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-106",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"epistemic\" mean in this sentence? The teacher's example is this: The argument has an epistemic problem.",
+      "options": [
+        "related to knowledge or justification",
+        "study of what exists",
+        "useful method for discovery",
+        "system for classifying things"
+      ],
+      "answer": "related to knowledge or justification",
+      "explanation": "In this sentence, \"epistemic\" means \"related to knowledge or justification\": The teacher's example is this: The argument has an epistemic problem.",
+      "rationales": {
+        "related to knowledge or justification": "In this sentence, \"epistemic\" means \"related to knowledge or justification\": The teacher's example is this: The argument has an epistemic problem.",
+        "study of what exists": "\"study of what exists\" is a real meaning, but it matches \"ontology\", not \"epistemic\" in this sentence.",
+        "useful method for discovery": "\"useful method for discovery\" is a real meaning, but it matches \"heuristic\", not \"epistemic\" in this sentence.",
+        "system for classifying things": "\"system for classifying things\" is a real meaning, but it matches \"taxonomy\", not \"epistemic\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-107",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"ontology\" mean in this sentence? In a short message, the paper discusses social ontology.",
+      "options": [
+        "study of what exists",
+        "useful method for discovery",
+        "system for classifying things",
+        "about how things should be"
+      ],
+      "answer": "study of what exists",
+      "explanation": "In this sentence, \"ontology\" means \"study of what exists\": In a short message, the paper discusses social ontology.",
+      "rationales": {
+        "study of what exists": "In this sentence, \"ontology\" means \"study of what exists\": In a short message, the paper discusses social ontology.",
+        "useful method for discovery": "\"useful method for discovery\" is a real meaning, but it matches \"heuristic\", not \"ontology\" in this sentence.",
+        "system for classifying things": "\"system for classifying things\" is a real meaning, but it matches \"taxonomy\", not \"ontology\" in this sentence.",
+        "about how things should be": "\"about how things should be\" is a real meaning, but it matches \"normative\", not \"ontology\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-108",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"heuristic\" mean in this sentence? The report gives this example: The model is a helpful heuristic.",
+      "options": [
+        "useful method for discovery",
+        "system for classifying things",
+        "about how things should be",
+        "about how things are"
+      ],
+      "answer": "useful method for discovery",
+      "explanation": "In this sentence, \"heuristic\" means \"useful method for discovery\": The report gives this example: The model is a helpful heuristic.",
+      "rationales": {
+        "useful method for discovery": "In this sentence, \"heuristic\" means \"useful method for discovery\": The report gives this example: The model is a helpful heuristic.",
+        "system for classifying things": "\"system for classifying things\" is a real meaning, but it matches \"taxonomy\", not \"heuristic\" in this sentence.",
+        "about how things should be": "\"about how things should be\" is a real meaning, but it matches \"normative\", not \"heuristic\" in this sentence.",
+        "about how things are": "\"about how things are\" is a real meaning, but it matches \"descriptive\", not \"heuristic\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-109",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"taxonomy\" mean in this sentence? At the reception desk, the article proposes a taxonomy.",
+      "options": [
+        "system for classifying things",
+        "about how things should be",
+        "about how things are",
+        "imagined contrary-to-fact situation"
+      ],
+      "answer": "system for classifying things",
+      "explanation": "In this sentence, \"taxonomy\" means \"system for classifying things\": At the reception desk, the article proposes a taxonomy.",
+      "rationales": {
+        "system for classifying things": "In this sentence, \"taxonomy\" means \"system for classifying things\": At the reception desk, the article proposes a taxonomy.",
+        "about how things should be": "\"about how things should be\" is a real meaning, but it matches \"normative\", not \"taxonomy\" in this sentence.",
+        "about how things are": "\"about how things are\" is a real meaning, but it matches \"descriptive\", not \"taxonomy\" in this sentence.",
+        "imagined contrary-to-fact situation": "\"imagined contrary-to-fact situation\" is a real meaning, but it matches \"counterfactual\", not \"taxonomy\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-110",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"normative\" mean in this sentence? The class note says that the claim is normative, not descriptive.",
+      "options": [
+        "about how things should be",
+        "about how things are",
+        "imagined contrary-to-fact situation",
+        "able to be tested and shown false"
+      ],
+      "answer": "about how things should be",
+      "explanation": "In this sentence, \"normative\" means \"about how things should be\": The class note says that the claim is normative, not descriptive.",
+      "rationales": {
+        "about how things should be": "In this sentence, \"normative\" means \"about how things should be\": The class note says that the claim is normative, not descriptive.",
+        "about how things are": "\"about how things are\" is a real meaning, but it matches \"descriptive\", not \"normative\" in this sentence.",
+        "imagined contrary-to-fact situation": "\"imagined contrary-to-fact situation\" is a real meaning, but it matches \"counterfactual\", not \"normative\" in this sentence.",
+        "able to be tested and shown false": "\"able to be tested and shown false\" is a real meaning, but it matches \"falsifiable\", not \"normative\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-111",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"descriptive\" mean in this sentence? In the practice text, the passage makes a descriptive claim.",
+      "options": [
+        "about how things are",
+        "imagined contrary-to-fact situation",
+        "able to be tested and shown false",
+        "how far findings apply elsewhere"
+      ],
+      "answer": "about how things are",
+      "explanation": "In this sentence, \"descriptive\" means \"about how things are\": In the practice text, the passage makes a descriptive claim.",
+      "rationales": {
+        "about how things are": "In this sentence, \"descriptive\" means \"about how things are\": In the practice text, the passage makes a descriptive claim.",
+        "imagined contrary-to-fact situation": "\"imagined contrary-to-fact situation\" is a real meaning, but it matches \"counterfactual\", not \"descriptive\" in this sentence.",
+        "able to be tested and shown false": "\"able to be tested and shown false\" is a real meaning, but it matches \"falsifiable\", not \"descriptive\" in this sentence.",
+        "how far findings apply elsewhere": "\"how far findings apply elsewhere\" is a real meaning, but it matches \"generalizability\", not \"descriptive\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-112",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"counterfactual\" mean in this sentence? During the lesson, the analysis uses a counterfactual.",
+      "options": [
+        "imagined contrary-to-fact situation",
+        "able to be tested and shown false",
+        "how far findings apply elsewhere",
+        "check by using multiple sources"
+      ],
+      "answer": "imagined contrary-to-fact situation",
+      "explanation": "In this sentence, \"counterfactual\" means \"imagined contrary-to-fact situation\": During the lesson, the analysis uses a counterfactual.",
+      "rationales": {
+        "imagined contrary-to-fact situation": "In this sentence, \"counterfactual\" means \"imagined contrary-to-fact situation\": During the lesson, the analysis uses a counterfactual.",
+        "able to be tested and shown false": "\"able to be tested and shown false\" is a real meaning, but it matches \"falsifiable\", not \"counterfactual\" in this sentence.",
+        "how far findings apply elsewhere": "\"how far findings apply elsewhere\" is a real meaning, but it matches \"generalizability\", not \"counterfactual\" in this sentence.",
+        "check by using multiple sources": "\"check by using multiple sources\" is a real meaning, but it matches \"triangulate\", not \"counterfactual\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-113",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"falsifiable\" mean in this sentence? The first example says that a useful hypothesis is falsifiable.",
+      "options": [
+        "able to be tested and shown false",
+        "how far findings apply elsewhere",
+        "check by using multiple sources",
+        "reasoning through opposing ideas"
+      ],
+      "answer": "able to be tested and shown false",
+      "explanation": "In this sentence, \"falsifiable\" means \"able to be tested and shown false\": The first example says that a useful hypothesis is falsifiable.",
+      "rationales": {
+        "able to be tested and shown false": "In this sentence, \"falsifiable\" means \"able to be tested and shown false\": The first example says that a useful hypothesis is falsifiable.",
+        "how far findings apply elsewhere": "\"how far findings apply elsewhere\" is a real meaning, but it matches \"generalizability\", not \"falsifiable\" in this sentence.",
+        "check by using multiple sources": "\"check by using multiple sources\" is a real meaning, but it matches \"triangulate\", not \"falsifiable\" in this sentence.",
+        "reasoning through opposing ideas": "\"reasoning through opposing ideas\" is a real meaning, but it matches \"dialectic\", not \"falsifiable\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-114",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"generalizability\" mean in this sentence? On the notice board, generalizability is limited.",
+      "options": [
+        "how far findings apply elsewhere",
+        "check by using multiple sources",
+        "reasoning through opposing ideas",
+        "focused on one point in time"
+      ],
+      "answer": "how far findings apply elsewhere",
+      "explanation": "In this sentence, \"generalizability\" means \"how far findings apply elsewhere\": On the notice board, generalizability is limited.",
+      "rationales": {
+        "how far findings apply elsewhere": "In this sentence, \"generalizability\" means \"how far findings apply elsewhere\": On the notice board, generalizability is limited.",
+        "check by using multiple sources": "\"check by using multiple sources\" is a real meaning, but it matches \"triangulate\", not \"generalizability\" in this sentence.",
+        "reasoning through opposing ideas": "\"reasoning through opposing ideas\" is a real meaning, but it matches \"dialectic\", not \"generalizability\" in this sentence.",
+        "focused on one point in time": "\"focused on one point in time\" is a real meaning, but it matches \"synchronic\", not \"generalizability\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-115",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"triangulate\" mean in this sentence? The guide gives this sentence: Researchers triangulate interview data.",
+      "options": [
+        "check by using multiple sources",
+        "reasoning through opposing ideas",
+        "focused on one point in time",
+        "theory about theories"
+      ],
+      "answer": "check by using multiple sources",
+      "explanation": "In this sentence, \"triangulate\" means \"check by using multiple sources\": The guide gives this sentence: Researchers triangulate interview data.",
+      "rationales": {
+        "check by using multiple sources": "In this sentence, \"triangulate\" means \"check by using multiple sources\": The guide gives this sentence: Researchers triangulate interview data.",
+        "reasoning through opposing ideas": "\"reasoning through opposing ideas\" is a real meaning, but it matches \"dialectic\", not \"triangulate\" in this sentence.",
+        "focused on one point in time": "\"focused on one point in time\" is a real meaning, but it matches \"synchronic\", not \"triangulate\" in this sentence.",
+        "theory about theories": "\"theory about theories\" is a real meaning, but it matches \"metatheory\", not \"triangulate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-116",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"dialectic\" mean in this sentence? In the office email, the article presents a dialectic.",
+      "options": [
+        "reasoning through opposing ideas",
+        "focused on one point in time",
+        "theory about theories",
+        "show as more complex"
+      ],
+      "answer": "reasoning through opposing ideas",
+      "explanation": "In this sentence, \"dialectic\" means \"reasoning through opposing ideas\": In the office email, the article presents a dialectic.",
+      "rationales": {
+        "reasoning through opposing ideas": "In this sentence, \"dialectic\" means \"reasoning through opposing ideas\": In the office email, the article presents a dialectic.",
+        "focused on one point in time": "\"focused on one point in time\" is a real meaning, but it matches \"synchronic\", not \"dialectic\" in this sentence.",
+        "theory about theories": "\"theory about theories\" is a real meaning, but it matches \"metatheory\", not \"dialectic\" in this sentence.",
+        "show as more complex": "\"show as more complex\" is a real meaning, but it matches \"problematize\", not \"dialectic\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-117",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"synchronic\" mean in this sentence? The reading passage says that the analysis is synchronic.",
+      "options": [
+        "focused on one point in time",
+        "theory about theories",
+        "show as more complex",
+        "explanation by purpose or end"
+      ],
+      "answer": "focused on one point in time",
+      "explanation": "In this sentence, \"synchronic\" means \"focused on one point in time\": The reading passage says that the analysis is synchronic.",
+      "rationales": {
+        "focused on one point in time": "In this sentence, \"synchronic\" means \"focused on one point in time\": The reading passage says that the analysis is synchronic.",
+        "theory about theories": "\"theory about theories\" is a real meaning, but it matches \"metatheory\", not \"synchronic\" in this sentence.",
+        "show as more complex": "\"show as more complex\" is a real meaning, but it matches \"problematize\", not \"synchronic\" in this sentence.",
+        "explanation by purpose or end": "\"explanation by purpose or end\" is a real meaning, but it matches \"teleology\", not \"synchronic\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-118",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"metatheory\" mean in this sentence? At the start of the activity, the chapter develops a metatheory.",
+      "options": [
+        "theory about theories",
+        "show as more complex",
+        "explanation by purpose or end",
+        "a model or way of thinking"
+      ],
+      "answer": "theory about theories",
+      "explanation": "In this sentence, \"metatheory\" means \"theory about theories\": At the start of the activity, the chapter develops a metatheory.",
+      "rationales": {
+        "theory about theories": "In this sentence, \"metatheory\" means \"theory about theories\": At the start of the activity, the chapter develops a metatheory.",
+        "show as more complex": "\"show as more complex\" is a real meaning, but it matches \"problematize\", not \"metatheory\" in this sentence.",
+        "explanation by purpose or end": "\"explanation by purpose or end\" is a real meaning, but it matches \"teleology\", not \"metatheory\" in this sentence.",
+        "a model or way of thinking": "\"a model or way of thinking\" is a real meaning, but it matches \"paradigm\", not \"metatheory\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-119",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"problematize\" mean in this sentence? The second example says that the essay problematizes the distinction.",
+      "options": [
+        "show as more complex",
+        "explanation by purpose or end",
+        "a model or way of thinking",
+        "combine ideas into a whole"
+      ],
+      "answer": "show as more complex",
+      "explanation": "In this sentence, \"problematize\" means \"show as more complex\": The second example says that the essay problematizes the distinction.",
+      "rationales": {
+        "show as more complex": "In this sentence, \"problematize\" means \"show as more complex\": The second example says that the essay problematizes the distinction.",
+        "explanation by purpose or end": "\"explanation by purpose or end\" is a real meaning, but it matches \"teleology\", not \"problematize\" in this sentence.",
+        "a model or way of thinking": "\"a model or way of thinking\" is a real meaning, but it matches \"paradigm\", not \"problematize\" in this sentence.",
+        "combine ideas into a whole": "\"combine ideas into a whole\" is a real meaning, but it matches \"synthesize\", not \"problematize\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-academic-vocabulary-c2-120",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"teleology\" mean in this sentence? On the class website, the argument rejects teleology.",
+      "options": [
+        "explanation by purpose or end",
+        "a model or way of thinking",
+        "combine ideas into a whole",
+        "based on observation or data"
+      ],
+      "answer": "explanation by purpose or end",
+      "explanation": "In this sentence, \"teleology\" means \"explanation by purpose or end\": On the class website, the argument rejects teleology.",
+      "rationales": {
+        "explanation by purpose or end": "In this sentence, \"teleology\" means \"explanation by purpose or end\": On the class website, the argument rejects teleology.",
+        "a model or way of thinking": "\"a model or way of thinking\" is a real meaning, but it matches \"paradigm\", not \"teleology\" in this sentence.",
+        "combine ideas into a whole": "\"combine ideas into a whole\" is a real meaning, but it matches \"synthesize\", not \"teleology\" in this sentence.",
+        "based on observation or data": "\"based on observation or data\" is a real meaning, but it matches \"empirical\", not \"teleology\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

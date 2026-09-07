@@ -1,0 +1,2766 @@
+{
+  "topic": "Nuance",
+  "category": "Vocabulary",
+  "items": [
+    {
+      "id": "coverage-nuance-a1-2041",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"often\" mean in this sentence? Mina often studies after dinner.",
+      "options": [
+        "many times",
+        "most of the time",
+        "possibly",
+        "nearly"
+      ],
+      "answer": "many times",
+      "explanation": "In this sentence, \"often\" means \"many times\": Mina often studies after dinner.",
+      "rationales": {
+        "many times": "In this sentence, \"often\" means \"many times\": Mina often studies after dinner.",
+        "most of the time": "\"most of the time\" is a real meaning, but it matches \"usually\", not \"often\" in this sentence.",
+        "possibly": "\"possibly\" is a real meaning, but it matches \"maybe\", not \"often\" in this sentence.",
+        "nearly": "\"nearly\" is a real meaning, but it matches \"almost\", not \"often\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2042",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"usually\" mean in this sentence? In the clinic, the office usually opens at nine.",
+      "options": [
+        "most of the time",
+        "possibly",
+        "nearly",
+        "no more than"
+      ],
+      "answer": "most of the time",
+      "explanation": "In this sentence, \"usually\" means \"most of the time\": In the clinic, the office usually opens at nine.",
+      "rationales": {
+        "most of the time": "In this sentence, \"usually\" means \"most of the time\": In the clinic, the office usually opens at nine.",
+        "possibly": "\"possibly\" is a real meaning, but it matches \"maybe\", not \"usually\" in this sentence.",
+        "nearly": "\"nearly\" is a real meaning, but it matches \"almost\", not \"usually\" in this sentence.",
+        "no more than": "\"no more than\" is a real meaning, but it matches \"only\", not \"usually\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2043",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"maybe\" mean in this sentence? During the discussion, maybe the class is full.",
+      "options": [
+        "possibly",
+        "nearly",
+        "no more than",
+        "every time"
+      ],
+      "answer": "possibly",
+      "explanation": "In this sentence, \"maybe\" means \"possibly\": During the discussion, maybe the class is full.",
+      "rationales": {
+        "possibly": "In this sentence, \"maybe\" means \"possibly\": During the discussion, maybe the class is full.",
+        "nearly": "\"nearly\" is a real meaning, but it matches \"almost\", not \"maybe\" in this sentence.",
+        "no more than": "\"no more than\" is a real meaning, but it matches \"only\", not \"maybe\" in this sentence.",
+        "every time": "\"every time\" is a real meaning, but it matches \"always\", not \"maybe\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2044",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"almost\" mean in this sentence? The example says that the work is almost finished.",
+      "options": [
+        "nearly",
+        "no more than",
+        "every time",
+        "not at any time"
+      ],
+      "answer": "nearly",
+      "explanation": "In this sentence, \"almost\" means \"nearly\": The example says that the work is almost finished.",
+      "rationales": {
+        "nearly": "In this sentence, \"almost\" means \"nearly\": The example says that the work is almost finished.",
+        "no more than": "\"no more than\" is a real meaning, but it matches \"only\", not \"almost\" in this sentence.",
+        "every time": "\"every time\" is a real meaning, but it matches \"always\", not \"almost\" in this sentence.",
+        "not at any time": "\"not at any time\" is a real meaning, but it matches \"never\", not \"almost\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2045",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"only\" mean in this sentence? On the worksheet, only five students arrived.",
+      "options": [
+        "no more than",
+        "every time",
+        "not at any time",
+        "on some occasions"
+      ],
+      "answer": "no more than",
+      "explanation": "In this sentence, \"only\" means \"no more than\": On the worksheet, only five students arrived.",
+      "rationales": {
+        "no more than": "In this sentence, \"only\" means \"no more than\": On the worksheet, only five students arrived.",
+        "every time": "\"every time\" is a real meaning, but it matches \"always\", not \"only\" in this sentence.",
+        "not at any time": "\"not at any time\" is a real meaning, but it matches \"never\", not \"only\" in this sentence.",
+        "on some occasions": "\"on some occasions\" is a real meaning, but it matches \"sometimes\", not \"only\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2046",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"always\" mean in this sentence? The teacher's example is this: The library always closes at six.",
+      "options": [
+        "every time",
+        "not at any time",
+        "on some occasions",
+        "after a short time"
+      ],
+      "answer": "every time",
+      "explanation": "In this sentence, \"always\" means \"every time\": The teacher's example is this: The library always closes at six.",
+      "rationales": {
+        "every time": "In this sentence, \"always\" means \"every time\": The teacher's example is this: The library always closes at six.",
+        "not at any time": "\"not at any time\" is a real meaning, but it matches \"never\", not \"always\" in this sentence.",
+        "on some occasions": "\"on some occasions\" is a real meaning, but it matches \"sometimes\", not \"always\" in this sentence.",
+        "after a short time": "\"after a short time\" is a real meaning, but it matches \"soon\", not \"always\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2047",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"never\" mean in this sentence? In a short message, the office never opens on Sunday.",
+      "options": [
+        "not at any time",
+        "on some occasions",
+        "after a short time",
+        "one more time"
+      ],
+      "answer": "not at any time",
+      "explanation": "In this sentence, \"never\" means \"not at any time\": In a short message, the office never opens on Sunday.",
+      "rationales": {
+        "not at any time": "In this sentence, \"never\" means \"not at any time\": In a short message, the office never opens on Sunday.",
+        "on some occasions": "\"on some occasions\" is a real meaning, but it matches \"sometimes\", not \"never\" in this sentence.",
+        "after a short time": "\"after a short time\" is a real meaning, but it matches \"soon\", not \"never\" in this sentence.",
+        "one more time": "\"one more time\" is a real meaning, but it matches \"again\", not \"never\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2048",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"sometimes\" mean in this sentence? The report gives this example: Sometimes the bus is late.",
+      "options": [
+        "on some occasions",
+        "after a short time",
+        "one more time",
+        "continuing now"
+      ],
+      "answer": "on some occasions",
+      "explanation": "In this sentence, \"sometimes\" means \"on some occasions\": The report gives this example: Sometimes the bus is late.",
+      "rationales": {
+        "on some occasions": "In this sentence, \"sometimes\" means \"on some occasions\": The report gives this example: Sometimes the bus is late.",
+        "after a short time": "\"after a short time\" is a real meaning, but it matches \"soon\", not \"sometimes\" in this sentence.",
+        "one more time": "\"one more time\" is a real meaning, but it matches \"again\", not \"sometimes\" in this sentence.",
+        "continuing now": "\"continuing now\" is a real meaning, but it matches \"still\", not \"sometimes\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2049",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"soon\" mean in this sentence? At the reception desk, the lesson will start soon.",
+      "options": [
+        "after a short time",
+        "one more time",
+        "continuing now",
+        "before now"
+      ],
+      "answer": "after a short time",
+      "explanation": "In this sentence, \"soon\" means \"after a short time\": At the reception desk, the lesson will start soon.",
+      "rationales": {
+        "after a short time": "In this sentence, \"soon\" means \"after a short time\": At the reception desk, the lesson will start soon.",
+        "one more time": "\"one more time\" is a real meaning, but it matches \"again\", not \"soon\" in this sentence.",
+        "continuing now": "\"continuing now\" is a real meaning, but it matches \"still\", not \"soon\" in this sentence.",
+        "before now": "\"before now\" is a real meaning, but it matches \"already\", not \"soon\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2050",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"again\" mean in this sentence? At the reception desk, the clerk says, \"Please read the sentence again.\"",
+      "options": [
+        "one more time",
+        "continuing now",
+        "before now",
+        "a very short time ago"
+      ],
+      "answer": "one more time",
+      "explanation": "In this sentence, \"again\" means \"one more time\": At the reception desk, the clerk says, \"Please read the sentence again.\"",
+      "rationales": {
+        "one more time": "In this sentence, \"again\" means \"one more time\": At the reception desk, the clerk says, \"Please read the sentence again.\"",
+        "continuing now": "\"continuing now\" is a real meaning, but it matches \"still\", not \"again\" in this sentence.",
+        "before now": "\"before now\" is a real meaning, but it matches \"already\", not \"again\" in this sentence.",
+        "a very short time ago": "\"a very short time ago\" is a real meaning, but it matches \"just\", not \"again\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2051",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"still\" mean in this sentence? In the practice text, Mina is still at school.",
+      "options": [
+        "continuing now",
+        "before now",
+        "a very short time ago",
+        "more than wanted"
+      ],
+      "answer": "continuing now",
+      "explanation": "In this sentence, \"still\" means \"continuing now\": In the practice text, Mina is still at school.",
+      "rationales": {
+        "continuing now": "In this sentence, \"still\" means \"continuing now\": In the practice text, Mina is still at school.",
+        "before now": "\"before now\" is a real meaning, but it matches \"already\", not \"still\" in this sentence.",
+        "a very short time ago": "\"a very short time ago\" is a real meaning, but it matches \"just\", not \"still\" in this sentence.",
+        "more than wanted": "\"more than wanted\" is a real meaning, but it matches \"too\", not \"still\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2052",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"already\" mean in this sentence? During the lesson, the class has already started.",
+      "options": [
+        "before now",
+        "a very short time ago",
+        "more than wanted",
+        "to a high degree"
+      ],
+      "answer": "before now",
+      "explanation": "In this sentence, \"already\" means \"before now\": During the lesson, the class has already started.",
+      "rationales": {
+        "before now": "In this sentence, \"already\" means \"before now\": During the lesson, the class has already started.",
+        "a very short time ago": "\"a very short time ago\" is a real meaning, but it matches \"just\", not \"already\" in this sentence.",
+        "more than wanted": "\"more than wanted\" is a real meaning, but it matches \"too\", not \"already\" in this sentence.",
+        "to a high degree": "\"to a high degree\" is a real meaning, but it matches \"very\", not \"already\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2053",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"just\" mean in this sentence? The first example says that the train just arrived.",
+      "options": [
+        "a very short time ago",
+        "more than wanted",
+        "to a high degree",
+        "fairly"
+      ],
+      "answer": "a very short time ago",
+      "explanation": "In this sentence, \"just\" means \"a very short time ago\": The first example says that the train just arrived.",
+      "rationales": {
+        "a very short time ago": "In this sentence, \"just\" means \"a very short time ago\": The first example says that the train just arrived.",
+        "more than wanted": "\"more than wanted\" is a real meaning, but it matches \"too\", not \"just\" in this sentence.",
+        "to a high degree": "\"to a high degree\" is a real meaning, but it matches \"very\", not \"just\" in this sentence.",
+        "fairly": "\"fairly\" is a real meaning, but it matches \"quite\", not \"just\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2054",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"too\" mean in this sentence? On the notice board, the bag is too heavy.",
+      "options": [
+        "more than wanted",
+        "to a high degree",
+        "fairly",
+        "very"
+      ],
+      "answer": "more than wanted",
+      "explanation": "In this sentence, \"too\" means \"more than wanted\": On the notice board, the bag is too heavy.",
+      "rationales": {
+        "more than wanted": "In this sentence, \"too\" means \"more than wanted\": On the notice board, the bag is too heavy.",
+        "to a high degree": "\"to a high degree\" is a real meaning, but it matches \"very\", not \"too\" in this sentence.",
+        "fairly": "\"fairly\" is a real meaning, but it matches \"quite\", not \"too\" in this sentence.",
+        "very": "\"very\" is a real meaning, but it matches \"really\", not \"too\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2055",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"very\" mean in this sentence? The guide gives this sentence: The room is very cold.",
+      "options": [
+        "to a high degree",
+        "fairly",
+        "very",
+        "with each other"
+      ],
+      "answer": "to a high degree",
+      "explanation": "In this sentence, \"very\" means \"to a high degree\": The guide gives this sentence: The room is very cold.",
+      "rationales": {
+        "to a high degree": "In this sentence, \"very\" means \"to a high degree\": The guide gives this sentence: The room is very cold.",
+        "fairly": "\"fairly\" is a real meaning, but it matches \"quite\", not \"very\" in this sentence.",
+        "very": "\"very\" is a real meaning, but it matches \"really\", not \"very\" in this sentence.",
+        "with each other": "\"with each other\" is a real meaning, but it matches \"together\", not \"very\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2056",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"quite\" mean in this sentence? In the office email, the test is quite short.",
+      "options": [
+        "fairly",
+        "very",
+        "with each other",
+        "without other people"
+      ],
+      "answer": "fairly",
+      "explanation": "In this sentence, \"quite\" means \"fairly\": In the office email, the test is quite short.",
+      "rationales": {
+        "fairly": "In this sentence, \"quite\" means \"fairly\": In the office email, the test is quite short.",
+        "very": "\"very\" is a real meaning, but it matches \"really\", not \"quite\" in this sentence.",
+        "with each other": "\"with each other\" is a real meaning, but it matches \"together\", not \"quite\" in this sentence.",
+        "without other people": "\"without other people\" is a real meaning, but it matches \"alone\", not \"quite\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2057",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"really\" mean in this sentence? The reading passage says that the answer is really clear.",
+      "options": [
+        "very",
+        "with each other",
+        "without other people",
+        "as much as needed"
+      ],
+      "answer": "very",
+      "explanation": "In this sentence, \"really\" means \"very\": The reading passage says that the answer is really clear.",
+      "rationales": {
+        "very": "In this sentence, \"really\" means \"very\": The reading passage says that the answer is really clear.",
+        "with each other": "\"with each other\" is a real meaning, but it matches \"together\", not \"really\" in this sentence.",
+        "without other people": "\"without other people\" is a real meaning, but it matches \"alone\", not \"really\" in this sentence.",
+        "as much as needed": "\"as much as needed\" is a real meaning, but it matches \"enough\", not \"really\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2058",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"together\" mean in this sentence? At the start of the activity, we studied together.",
+      "options": [
+        "with each other",
+        "without other people",
+        "as much as needed",
+        "many times"
+      ],
+      "answer": "with each other",
+      "explanation": "In this sentence, \"together\" means \"with each other\": At the start of the activity, we studied together.",
+      "rationales": {
+        "with each other": "In this sentence, \"together\" means \"with each other\": At the start of the activity, we studied together.",
+        "without other people": "\"without other people\" is a real meaning, but it matches \"alone\", not \"together\" in this sentence.",
+        "as much as needed": "\"as much as needed\" is a real meaning, but it matches \"enough\", not \"together\" in this sentence.",
+        "many times": "\"many times\" is a real meaning, but it matches \"often\", not \"together\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2059",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"alone\" mean in this sentence? The second example says that Carlos worked alone.",
+      "options": [
+        "without other people",
+        "as much as needed",
+        "many times",
+        "most of the time"
+      ],
+      "answer": "without other people",
+      "explanation": "In this sentence, \"alone\" means \"without other people\": The second example says that Carlos worked alone.",
+      "rationales": {
+        "without other people": "In this sentence, \"alone\" means \"without other people\": The second example says that Carlos worked alone.",
+        "as much as needed": "\"as much as needed\" is a real meaning, but it matches \"enough\", not \"alone\" in this sentence.",
+        "many times": "\"many times\" is a real meaning, but it matches \"often\", not \"alone\" in this sentence.",
+        "most of the time": "\"most of the time\" is a real meaning, but it matches \"usually\", not \"alone\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a1-2060",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"enough\" mean in this sentence? On the class website, there is enough time.",
+      "options": [
+        "as much as needed",
+        "many times",
+        "most of the time",
+        "possibly"
+      ],
+      "answer": "as much as needed",
+      "explanation": "In this sentence, \"enough\" means \"as much as needed\": On the class website, there is enough time.",
+      "rationales": {
+        "as much as needed": "In this sentence, \"enough\" means \"as much as needed\": On the class website, there is enough time.",
+        "many times": "\"many times\" is a real meaning, but it matches \"often\", not \"enough\" in this sentence.",
+        "most of the time": "\"most of the time\" is a real meaning, but it matches \"usually\", not \"enough\" in this sentence.",
+        "possibly": "\"possibly\" is a real meaning, but it matches \"maybe\", not \"enough\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2061",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"roughly\" mean in this sentence? The trip takes roughly one hour.",
+      "options": [
+        "approximately",
+        "expected to happen",
+        "not expected to happen",
+        "mostly"
+      ],
+      "answer": "approximately",
+      "explanation": "In this sentence, \"roughly\" means \"approximately\": The trip takes roughly one hour.",
+      "rationales": {
+        "approximately": "In this sentence, \"roughly\" means \"approximately\": The trip takes roughly one hour.",
+        "expected to happen": "\"expected to happen\" is a real meaning, but it matches \"likely\", not \"roughly\" in this sentence.",
+        "not expected to happen": "\"not expected to happen\" is a real meaning, but it matches \"unlikely\", not \"roughly\" in this sentence.",
+        "mostly": "\"mostly\" is a real meaning, but it matches \"mainly\", not \"roughly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2062",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"likely\" mean in this sentence? In the clinic, rain is likely tonight.",
+      "options": [
+        "expected to happen",
+        "not expected to happen",
+        "mostly",
+        "not long ago"
+      ],
+      "answer": "expected to happen",
+      "explanation": "In this sentence, \"likely\" means \"expected to happen\": In the clinic, rain is likely tonight.",
+      "rationales": {
+        "expected to happen": "In this sentence, \"likely\" means \"expected to happen\": In the clinic, rain is likely tonight.",
+        "not expected to happen": "\"not expected to happen\" is a real meaning, but it matches \"unlikely\", not \"likely\" in this sentence.",
+        "mostly": "\"mostly\" is a real meaning, but it matches \"mainly\", not \"likely\" in this sentence.",
+        "not long ago": "\"not long ago\" is a real meaning, but it matches \"recently\", not \"likely\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2063",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"unlikely\" mean in this sentence? During the discussion, a delay is unlikely.",
+      "options": [
+        "not expected to happen",
+        "mostly",
+        "not long ago",
+        "only just"
+      ],
+      "answer": "not expected to happen",
+      "explanation": "In this sentence, \"unlikely\" means \"not expected to happen\": During the discussion, a delay is unlikely.",
+      "rationales": {
+        "not expected to happen": "In this sentence, \"unlikely\" means \"not expected to happen\": During the discussion, a delay is unlikely.",
+        "mostly": "\"mostly\" is a real meaning, but it matches \"mainly\", not \"unlikely\" in this sentence.",
+        "not long ago": "\"not long ago\" is a real meaning, but it matches \"recently\", not \"unlikely\" in this sentence.",
+        "only just": "\"only just\" is a real meaning, but it matches \"barely\", not \"unlikely\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2064",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"mainly\" mean in this sentence? The example says that the course is mainly for beginners.",
+      "options": [
+        "mostly",
+        "not long ago",
+        "only just",
+        "almost"
+      ],
+      "answer": "mostly",
+      "explanation": "In this sentence, \"mainly\" means \"mostly\": The example says that the course is mainly for beginners.",
+      "rationales": {
+        "mostly": "In this sentence, \"mainly\" means \"mostly\": The example says that the course is mainly for beginners.",
+        "not long ago": "\"not long ago\" is a real meaning, but it matches \"recently\", not \"mainly\" in this sentence.",
+        "only just": "\"only just\" is a real meaning, but it matches \"barely\", not \"mainly\" in this sentence.",
+        "almost": "\"almost\" is a real meaning, but it matches \"nearly\", not \"mainly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2065",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"recently\" mean in this sentence? On the worksheet, Omar moved recently.",
+      "options": [
+        "not long ago",
+        "only just",
+        "almost",
+        "more than usual"
+      ],
+      "answer": "not long ago",
+      "explanation": "In this sentence, \"recently\" means \"not long ago\": On the worksheet, Omar moved recently.",
+      "rationales": {
+        "not long ago": "In this sentence, \"recently\" means \"not long ago\": On the worksheet, Omar moved recently.",
+        "only just": "\"only just\" is a real meaning, but it matches \"barely\", not \"recently\" in this sentence.",
+        "almost": "\"almost\" is a real meaning, but it matches \"nearly\", not \"recently\" in this sentence.",
+        "more than usual": "\"more than usual\" is a real meaning, but it matches \"especially\", not \"recently\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2066",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"barely\" mean in this sentence? The teacher's example is this: We barely caught the bus.",
+      "options": [
+        "only just",
+        "almost",
+        "more than usual",
+        "likely"
+      ],
+      "answer": "only just",
+      "explanation": "In this sentence, \"barely\" means \"only just\": The teacher's example is this: We barely caught the bus.",
+      "rationales": {
+        "only just": "In this sentence, \"barely\" means \"only just\": The teacher's example is this: We barely caught the bus.",
+        "almost": "\"almost\" is a real meaning, but it matches \"nearly\", not \"barely\" in this sentence.",
+        "more than usual": "\"more than usual\" is a real meaning, but it matches \"especially\", not \"barely\" in this sentence.",
+        "likely": "\"likely\" is a real meaning, but it matches \"probably\", not \"barely\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2067",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"nearly\" mean in this sentence? In a short message, the form is nearly complete.",
+      "options": [
+        "almost",
+        "more than usual",
+        "likely",
+        "maybe"
+      ],
+      "answer": "almost",
+      "explanation": "In this sentence, \"nearly\" means \"almost\": In a short message, the form is nearly complete.",
+      "rationales": {
+        "almost": "In this sentence, \"nearly\" means \"almost\": In a short message, the form is nearly complete.",
+        "more than usual": "\"more than usual\" is a real meaning, but it matches \"especially\", not \"nearly\" in this sentence.",
+        "likely": "\"likely\" is a real meaning, but it matches \"probably\", not \"nearly\" in this sentence.",
+        "maybe": "\"maybe\" is a real meaning, but it matches \"possibly\", not \"nearly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2068",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"especially\" mean in this sentence? The report gives this example: The rule is especially important.",
+      "options": [
+        "more than usual",
+        "likely",
+        "maybe",
+        "with no difference"
+      ],
+      "answer": "more than usual",
+      "explanation": "In this sentence, \"especially\" means \"more than usual\": The report gives this example: The rule is especially important.",
+      "rationales": {
+        "more than usual": "In this sentence, \"especially\" means \"more than usual\": The report gives this example: The rule is especially important.",
+        "likely": "\"likely\" is a real meaning, but it matches \"probably\", not \"especially\" in this sentence.",
+        "maybe": "\"maybe\" is a real meaning, but it matches \"possibly\", not \"especially\" in this sentence.",
+        "with no difference": "\"with no difference\" is a real meaning, but it matches \"exactly\", not \"especially\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2069",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"probably\" mean in this sentence? At the reception desk, the office will probably call.",
+      "options": [
+        "likely",
+        "maybe",
+        "with no difference",
+        "at the present time"
+      ],
+      "answer": "likely",
+      "explanation": "In this sentence, \"probably\" means \"likely\": At the reception desk, the office will probably call.",
+      "rationales": {
+        "likely": "In this sentence, \"probably\" means \"likely\": At the reception desk, the office will probably call.",
+        "maybe": "\"maybe\" is a real meaning, but it matches \"possibly\", not \"probably\" in this sentence.",
+        "with no difference": "\"with no difference\" is a real meaning, but it matches \"exactly\", not \"probably\" in this sentence.",
+        "at the present time": "\"at the present time\" is a real meaning, but it matches \"currently\", not \"probably\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2070",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"possibly\" mean in this sentence? The class note says that the meeting may possibly move online.",
+      "options": [
+        "maybe",
+        "with no difference",
+        "at the present time",
+        "for the most part"
+      ],
+      "answer": "maybe",
+      "explanation": "In this sentence, \"possibly\" means \"maybe\": The class note says that the meeting may possibly move online.",
+      "rationales": {
+        "maybe": "In this sentence, \"possibly\" means \"maybe\": The class note says that the meeting may possibly move online.",
+        "with no difference": "\"with no difference\" is a real meaning, but it matches \"exactly\", not \"possibly\" in this sentence.",
+        "at the present time": "\"at the present time\" is a real meaning, but it matches \"currently\", not \"possibly\" in this sentence.",
+        "for the most part": "\"for the most part\" is a real meaning, but it matches \"mostly\", not \"possibly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2071",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"exactly\" mean in this sentence? In the practice text, the train left exactly at noon.",
+      "options": [
+        "with no difference",
+        "at the present time",
+        "for the most part",
+        "quite; to some degree"
+      ],
+      "answer": "with no difference",
+      "explanation": "In this sentence, \"exactly\" means \"with no difference\": In the practice text, the train left exactly at noon.",
+      "rationales": {
+        "with no difference": "In this sentence, \"exactly\" means \"with no difference\": In the practice text, the train left exactly at noon.",
+        "at the present time": "\"at the present time\" is a real meaning, but it matches \"currently\", not \"exactly\" in this sentence.",
+        "for the most part": "\"for the most part\" is a real meaning, but it matches \"mostly\", not \"exactly\" in this sentence.",
+        "quite; to some degree": "\"quite; to some degree\" is a real meaning, but it matches \"rather\", not \"exactly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2072",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"currently\" mean in this sentence? During the lesson, the office is currently closed.",
+      "options": [
+        "at the present time",
+        "for the most part",
+        "quite; to some degree",
+        "moderately"
+      ],
+      "answer": "at the present time",
+      "explanation": "In this sentence, \"currently\" means \"at the present time\": During the lesson, the office is currently closed.",
+      "rationales": {
+        "at the present time": "In this sentence, \"currently\" means \"at the present time\": During the lesson, the office is currently closed.",
+        "for the most part": "\"for the most part\" is a real meaning, but it matches \"mostly\", not \"currently\" in this sentence.",
+        "quite; to some degree": "\"quite; to some degree\" is a real meaning, but it matches \"rather\", not \"currently\" in this sentence.",
+        "moderately": "\"moderately\" is a real meaning, but it matches \"fairly\", not \"currently\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2073",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"mostly\" mean in this sentence? The first example says that the course is mostly online.",
+      "options": [
+        "for the most part",
+        "quite; to some degree",
+        "moderately",
+        "as a replacement"
+      ],
+      "answer": "for the most part",
+      "explanation": "In this sentence, \"mostly\" means \"for the most part\": The first example says that the course is mostly online.",
+      "rationales": {
+        "for the most part": "In this sentence, \"mostly\" means \"for the most part\": The first example says that the course is mostly online.",
+        "quite; to some degree": "\"quite; to some degree\" is a real meaning, but it matches \"rather\", not \"mostly\" in this sentence.",
+        "moderately": "\"moderately\" is a real meaning, but it matches \"fairly\", not \"mostly\" in this sentence.",
+        "as a replacement": "\"as a replacement\" is a real meaning, but it matches \"instead\", not \"mostly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2074",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"rather\" mean in this sentence? On the notice board, the room was rather noisy.",
+      "options": [
+        "quite; to some degree",
+        "moderately",
+        "as a replacement",
+        "one or the other"
+      ],
+      "answer": "quite; to some degree",
+      "explanation": "In this sentence, \"rather\" means \"quite; to some degree\": On the notice board, the room was rather noisy.",
+      "rationales": {
+        "quite; to some degree": "In this sentence, \"rather\" means \"quite; to some degree\": On the notice board, the room was rather noisy.",
+        "moderately": "\"moderately\" is a real meaning, but it matches \"fairly\", not \"rather\" in this sentence.",
+        "as a replacement": "\"as a replacement\" is a real meaning, but it matches \"instead\", not \"rather\" in this sentence.",
+        "one or the other": "\"one or the other\" is a real meaning, but it matches \"either\", not \"rather\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2075",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"fairly\" mean in this sentence? The guide gives this sentence: The instructions were fairly clear.",
+      "options": [
+        "moderately",
+        "as a replacement",
+        "one or the other",
+        "the two together"
+      ],
+      "answer": "moderately",
+      "explanation": "In this sentence, \"fairly\" means \"moderately\": The guide gives this sentence: The instructions were fairly clear.",
+      "rationales": {
+        "moderately": "In this sentence, \"fairly\" means \"moderately\": The guide gives this sentence: The instructions were fairly clear.",
+        "as a replacement": "\"as a replacement\" is a real meaning, but it matches \"instead\", not \"fairly\" in this sentence.",
+        "one or the other": "\"one or the other\" is a real meaning, but it matches \"either\", not \"fairly\" in this sentence.",
+        "the two together": "\"the two together\" is a real meaning, but it matches \"both\", not \"fairly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2076",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"instead\" mean in this sentence? In the office email, we met online instead.",
+      "options": [
+        "as a replacement",
+        "one or the other",
+        "the two together",
+        "not one and not the other"
+      ],
+      "answer": "as a replacement",
+      "explanation": "In this sentence, \"instead\" means \"as a replacement\": In the office email, we met online instead.",
+      "rationales": {
+        "as a replacement": "In this sentence, \"instead\" means \"as a replacement\": In the office email, we met online instead.",
+        "one or the other": "\"one or the other\" is a real meaning, but it matches \"either\", not \"instead\" in this sentence.",
+        "the two together": "\"the two together\" is a real meaning, but it matches \"both\", not \"instead\" in this sentence.",
+        "not one and not the other": "\"not one and not the other\" is a real meaning, but it matches \"neither\", not \"instead\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2077",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"either\" mean in this sentence? During the lesson, the tutor says, \"Choose either answer.\"",
+      "options": [
+        "one or the other",
+        "the two together",
+        "not one and not the other",
+        "approximately"
+      ],
+      "answer": "one or the other",
+      "explanation": "In this sentence, \"either\" means \"one or the other\": During the lesson, the tutor says, \"Choose either answer.\"",
+      "rationales": {
+        "one or the other": "In this sentence, \"either\" means \"one or the other\": During the lesson, the tutor says, \"Choose either answer.\"",
+        "the two together": "\"the two together\" is a real meaning, but it matches \"both\", not \"either\" in this sentence.",
+        "not one and not the other": "\"not one and not the other\" is a real meaning, but it matches \"neither\", not \"either\" in this sentence.",
+        "approximately": "\"approximately\" is a real meaning, but it matches \"around\", not \"either\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2078",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"both\" mean in this sentence? At the start of the activity, both forms are required.",
+      "options": [
+        "the two together",
+        "not one and not the other",
+        "approximately",
+        "expected to happen"
+      ],
+      "answer": "the two together",
+      "explanation": "In this sentence, \"both\" means \"the two together\": At the start of the activity, both forms are required.",
+      "rationales": {
+        "the two together": "In this sentence, \"both\" means \"the two together\": At the start of the activity, both forms are required.",
+        "not one and not the other": "\"not one and not the other\" is a real meaning, but it matches \"neither\", not \"both\" in this sentence.",
+        "approximately": "\"approximately\" is a real meaning, but it matches \"around\", not \"both\" in this sentence.",
+        "expected to happen": "\"expected to happen\" is a real meaning, but it matches \"likely\", not \"both\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2079",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"neither\" mean in this sentence? The second example says that neither answer is correct.",
+      "options": [
+        "not one and not the other",
+        "approximately",
+        "expected to happen",
+        "not expected to happen"
+      ],
+      "answer": "not one and not the other",
+      "explanation": "In this sentence, \"neither\" means \"not one and not the other\": The second example says that neither answer is correct.",
+      "rationales": {
+        "not one and not the other": "In this sentence, \"neither\" means \"not one and not the other\": The second example says that neither answer is correct.",
+        "approximately": "\"approximately\" is a real meaning, but it matches \"around\", not \"neither\" in this sentence.",
+        "expected to happen": "\"expected to happen\" is a real meaning, but it matches \"likely\", not \"neither\" in this sentence.",
+        "not expected to happen": "\"not expected to happen\" is a real meaning, but it matches \"unlikely\", not \"neither\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-a2-2080",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"around\" mean in this sentence? On the class website, the trip takes around an hour.",
+      "options": [
+        "approximately",
+        "expected to happen",
+        "not expected to happen",
+        "mostly"
+      ],
+      "answer": "approximately",
+      "explanation": "In this sentence, \"around\" means \"approximately\": On the class website, the trip takes around an hour.",
+      "rationales": {
+        "approximately": "In this sentence, \"around\" means \"approximately\": On the class website, the trip takes around an hour.",
+        "expected to happen": "\"expected to happen\" is a real meaning, but it matches \"likely\", not \"around\" in this sentence.",
+        "not expected to happen": "\"not expected to happen\" is a real meaning, but it matches \"unlikely\", not \"around\" in this sentence.",
+        "mostly": "\"mostly\" is a real meaning, but it matches \"mainly\", not \"around\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2081",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"temporary\" mean in this sentence? This is a temporary rule.",
+      "options": [
+        "lasting for a short time",
+        "suitable for official situations",
+        "not very serious",
+        "very important or serious"
+      ],
+      "answer": "lasting for a short time",
+      "explanation": "In this sentence, \"temporary\" means \"lasting for a short time\": This is a temporary rule.",
+      "rationales": {
+        "lasting for a short time": "In this sentence, \"temporary\" means \"lasting for a short time\": This is a temporary rule.",
+        "suitable for official situations": "\"suitable for official situations\" is a real meaning, but it matches \"formal\", not \"temporary\" in this sentence.",
+        "not very serious": "\"not very serious\" is a real meaning, but it matches \"minor\", not \"temporary\" in this sentence.",
+        "very important or serious": "\"very important or serious\" is a real meaning, but it matches \"major\", not \"temporary\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2082",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"formal\" mean in this sentence? In the clinic, the letter used formal language.",
+      "options": [
+        "suitable for official situations",
+        "not very serious",
+        "very important or serious",
+        "clearly named or exact"
+      ],
+      "answer": "suitable for official situations",
+      "explanation": "In this sentence, \"formal\" means \"suitable for official situations\": In the clinic, the letter used formal language.",
+      "rationales": {
+        "suitable for official situations": "In this sentence, \"formal\" means \"suitable for official situations\": In the clinic, the letter used formal language.",
+        "not very serious": "\"not very serious\" is a real meaning, but it matches \"minor\", not \"formal\" in this sentence.",
+        "very important or serious": "\"very important or serious\" is a real meaning, but it matches \"major\", not \"formal\" in this sentence.",
+        "clearly named or exact": "\"clearly named or exact\" is a real meaning, but it matches \"specific\", not \"formal\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2083",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"minor\" mean in this sentence? During the discussion, the form had a minor error.",
+      "options": [
+        "not very serious",
+        "very important or serious",
+        "clearly named or exact",
+        "as it seems"
+      ],
+      "answer": "not very serious",
+      "explanation": "In this sentence, \"minor\" means \"not very serious\": During the discussion, the form had a minor error.",
+      "rationales": {
+        "not very serious": "In this sentence, \"minor\" means \"not very serious\": During the discussion, the form had a minor error.",
+        "very important or serious": "\"very important or serious\" is a real meaning, but it matches \"major\", not \"minor\" in this sentence.",
+        "clearly named or exact": "\"clearly named or exact\" is a real meaning, but it matches \"specific\", not \"minor\" in this sentence.",
+        "as it seems": "\"as it seems\" is a real meaning, but it matches \"apparently\", not \"minor\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2084",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"major\" mean in this sentence? The example says that the delay caused a major problem.",
+      "options": [
+        "very important or serious",
+        "clearly named or exact",
+        "as it seems",
+        "compared with others"
+      ],
+      "answer": "very important or serious",
+      "explanation": "In this sentence, \"major\" means \"very important or serious\": The example says that the delay caused a major problem.",
+      "rationales": {
+        "very important or serious": "In this sentence, \"major\" means \"very important or serious\": The example says that the delay caused a major problem.",
+        "clearly named or exact": "\"clearly named or exact\" is a real meaning, but it matches \"specific\", not \"major\" in this sentence.",
+        "as it seems": "\"as it seems\" is a real meaning, but it matches \"apparently\", not \"major\" in this sentence.",
+        "compared with others": "\"compared with others\" is a real meaning, but it matches \"relatively\", not \"major\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2085",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"specific\" mean in this sentence? A sign by the door says, \"Please give a specific example.\"",
+      "options": [
+        "clearly named or exact",
+        "as it seems",
+        "compared with others",
+        "for the most part"
+      ],
+      "answer": "clearly named or exact",
+      "explanation": "In this sentence, \"specific\" means \"clearly named or exact\": A sign by the door says, \"Please give a specific example.\"",
+      "rationales": {
+        "clearly named or exact": "In this sentence, \"specific\" means \"clearly named or exact\": A sign by the door says, \"Please give a specific example.\"",
+        "as it seems": "\"as it seems\" is a real meaning, but it matches \"apparently\", not \"specific\" in this sentence.",
+        "compared with others": "\"compared with others\" is a real meaning, but it matches \"relatively\", not \"specific\" in this sentence.",
+        "for the most part": "\"for the most part\" is a real meaning, but it matches \"mostly\", not \"specific\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2086",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"apparently\" mean in this sentence? The teacher's example is this: Apparently, the office closed early.",
+      "options": [
+        "as it seems",
+        "compared with others",
+        "for the most part",
+        "not completely"
+      ],
+      "answer": "as it seems",
+      "explanation": "In this sentence, \"apparently\" means \"as it seems\": The teacher's example is this: Apparently, the office closed early.",
+      "rationales": {
+        "as it seems": "In this sentence, \"apparently\" means \"as it seems\": The teacher's example is this: Apparently, the office closed early.",
+        "compared with others": "\"compared with others\" is a real meaning, but it matches \"relatively\", not \"apparently\" in this sentence.",
+        "for the most part": "\"for the most part\" is a real meaning, but it matches \"mostly\", not \"apparently\" in this sentence.",
+        "not completely": "\"not completely\" is a real meaning, but it matches \"partly\", not \"apparently\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2087",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"relatively\" mean in this sentence? In a short message, the fee is relatively low.",
+      "options": [
+        "compared with others",
+        "for the most part",
+        "not completely",
+        "for a short time"
+      ],
+      "answer": "compared with others",
+      "explanation": "In this sentence, \"relatively\" means \"compared with others\": In a short message, the fee is relatively low.",
+      "rationales": {
+        "compared with others": "In this sentence, \"relatively\" means \"compared with others\": In a short message, the fee is relatively low.",
+        "for the most part": "\"for the most part\" is a real meaning, but it matches \"mostly\", not \"relatively\" in this sentence.",
+        "not completely": "\"not completely\" is a real meaning, but it matches \"partly\", not \"relatively\" in this sentence.",
+        "for a short time": "\"for a short time\" is a real meaning, but it matches \"temporarily\", not \"relatively\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2088",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"mostly\" mean in this sentence? The report gives this example: The comments were mostly positive.",
+      "options": [
+        "for the most part",
+        "not completely",
+        "for a short time",
+        "mainly"
+      ],
+      "answer": "for the most part",
+      "explanation": "In this sentence, \"mostly\" means \"for the most part\": The report gives this example: The comments were mostly positive.",
+      "rationales": {
+        "for the most part": "In this sentence, \"mostly\" means \"for the most part\": The report gives this example: The comments were mostly positive.",
+        "not completely": "\"not completely\" is a real meaning, but it matches \"partly\", not \"mostly\" in this sentence.",
+        "for a short time": "\"for a short time\" is a real meaning, but it matches \"temporarily\", not \"mostly\" in this sentence.",
+        "mainly": "\"mainly\" is a real meaning, but it matches \"primarily\", not \"mostly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2089",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"partly\" mean in this sentence? At the reception desk, the delay was partly our fault.",
+      "options": [
+        "not completely",
+        "for a short time",
+        "mainly",
+        "often"
+      ],
+      "answer": "not completely",
+      "explanation": "In this sentence, \"partly\" means \"not completely\": At the reception desk, the delay was partly our fault.",
+      "rationales": {
+        "not completely": "In this sentence, \"partly\" means \"not completely\": At the reception desk, the delay was partly our fault.",
+        "for a short time": "\"for a short time\" is a real meaning, but it matches \"temporarily\", not \"partly\" in this sentence.",
+        "mainly": "\"mainly\" is a real meaning, but it matches \"primarily\", not \"partly\" in this sentence.",
+        "often": "\"often\" is a real meaning, but it matches \"frequently\", not \"partly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2090",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"temporarily\" mean in this sentence? The class note says that the clinic closed temporarily.",
+      "options": [
+        "for a short time",
+        "mainly",
+        "often",
+        "not often"
+      ],
+      "answer": "for a short time",
+      "explanation": "In this sentence, \"temporarily\" means \"for a short time\": The class note says that the clinic closed temporarily.",
+      "rationales": {
+        "for a short time": "In this sentence, \"temporarily\" means \"for a short time\": The class note says that the clinic closed temporarily.",
+        "mainly": "\"mainly\" is a real meaning, but it matches \"primarily\", not \"temporarily\" in this sentence.",
+        "often": "\"often\" is a real meaning, but it matches \"frequently\", not \"temporarily\" in this sentence.",
+        "not often": "\"not often\" is a real meaning, but it matches \"rarely\", not \"temporarily\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2091",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"primarily\" mean in this sentence? In the practice text, the rule applies primarily to visitors.",
+      "options": [
+        "mainly",
+        "often",
+        "not often",
+        "small in degree"
+      ],
+      "answer": "mainly",
+      "explanation": "In this sentence, \"primarily\" means \"mainly\": In the practice text, the rule applies primarily to visitors.",
+      "rationales": {
+        "mainly": "In this sentence, \"primarily\" means \"mainly\": In the practice text, the rule applies primarily to visitors.",
+        "often": "\"often\" is a real meaning, but it matches \"frequently\", not \"primarily\" in this sentence.",
+        "not often": "\"not often\" is a real meaning, but it matches \"rarely\", not \"primarily\" in this sentence.",
+        "small in degree": "\"small in degree\" is a real meaning, but it matches \"slight\", not \"primarily\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2092",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"frequently\" mean in this sentence? During the lesson, students frequently ask this question.",
+      "options": [
+        "often",
+        "not often",
+        "small in degree",
+        "important or worrying"
+      ],
+      "answer": "often",
+      "explanation": "In this sentence, \"frequently\" means \"often\": During the lesson, students frequently ask this question.",
+      "rationales": {
+        "often": "In this sentence, \"frequently\" means \"often\": During the lesson, students frequently ask this question.",
+        "not often": "\"not often\" is a real meaning, but it matches \"rarely\", not \"frequently\" in this sentence.",
+        "small in degree": "\"small in degree\" is a real meaning, but it matches \"slight\", not \"frequently\" in this sentence.",
+        "important or worrying": "\"important or worrying\" is a real meaning, but it matches \"serious\", not \"frequently\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2093",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"rarely\" mean in this sentence? The first example says that the system rarely fails.",
+      "options": [
+        "not often",
+        "small in degree",
+        "important or worrying",
+        "one exact thing, not any thing"
+      ],
+      "answer": "not often",
+      "explanation": "In this sentence, \"rarely\" means \"not often\": The first example says that the system rarely fails.",
+      "rationales": {
+        "not often": "In this sentence, \"rarely\" means \"not often\": The first example says that the system rarely fails.",
+        "small in degree": "\"small in degree\" is a real meaning, but it matches \"slight\", not \"rarely\" in this sentence.",
+        "important or worrying": "\"important or worrying\" is a real meaning, but it matches \"serious\", not \"rarely\" in this sentence.",
+        "one exact thing, not any thing": "\"one exact thing, not any thing\" is a real meaning, but it matches \"particular\", not \"rarely\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2094",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"slight\" mean in this sentence? On the notice board, the form had a slight error.",
+      "options": [
+        "small in degree",
+        "important or worrying",
+        "one exact thing, not any thing",
+        "not detailed or specific"
+      ],
+      "answer": "small in degree",
+      "explanation": "In this sentence, \"slight\" means \"small in degree\": On the notice board, the form had a slight error.",
+      "rationales": {
+        "small in degree": "In this sentence, \"slight\" means \"small in degree\": On the notice board, the form had a slight error.",
+        "important or worrying": "\"important or worrying\" is a real meaning, but it matches \"serious\", not \"slight\" in this sentence.",
+        "one exact thing, not any thing": "\"one exact thing, not any thing\" is a real meaning, but it matches \"particular\", not \"slight\" in this sentence.",
+        "not detailed or specific": "\"not detailed or specific\" is a real meaning, but it matches \"general\", not \"slight\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2095",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"serious\" mean in this sentence? The guide gives this sentence: The delay caused a serious problem.",
+      "options": [
+        "important or worrying",
+        "one exact thing, not any thing",
+        "not detailed or specific",
+        "connected with rules or public duties"
+      ],
+      "answer": "important or worrying",
+      "explanation": "In this sentence, \"serious\" means \"important or worrying\": The guide gives this sentence: The delay caused a serious problem.",
+      "rationales": {
+        "important or worrying": "In this sentence, \"serious\" means \"important or worrying\": The guide gives this sentence: The delay caused a serious problem.",
+        "one exact thing, not any thing": "\"one exact thing, not any thing\" is a real meaning, but it matches \"particular\", not \"serious\" in this sentence.",
+        "not detailed or specific": "\"not detailed or specific\" is a real meaning, but it matches \"general\", not \"serious\" in this sentence.",
+        "connected with rules or public duties": "\"connected with rules or public duties\" is a real meaning, but it matches \"official\", not \"serious\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2096",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"particular\" mean in this sentence? In the office email, give a particular example.",
+      "options": [
+        "one exact thing, not any thing",
+        "not detailed or specific",
+        "connected with rules or public duties",
+        "casual"
+      ],
+      "answer": "one exact thing, not any thing",
+      "explanation": "In this sentence, \"particular\" means \"one exact thing, not any thing\": In the office email, give a particular example.",
+      "rationales": {
+        "one exact thing, not any thing": "In this sentence, \"particular\" means \"one exact thing, not any thing\": In the office email, give a particular example.",
+        "not detailed or specific": "\"not detailed or specific\" is a real meaning, but it matches \"general\", not \"particular\" in this sentence.",
+        "connected with rules or public duties": "\"connected with rules or public duties\" is a real meaning, but it matches \"official\", not \"particular\" in this sentence.",
+        "casual": "\"casual\" is a real meaning, but it matches \"informal\", not \"particular\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2097",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"general\" mean in this sentence? The reading passage says that the comment was too general.",
+      "options": [
+        "not detailed or specific",
+        "connected with rules or public duties",
+        "casual",
+        "lasting only for a short time"
+      ],
+      "answer": "not detailed or specific",
+      "explanation": "In this sentence, \"general\" means \"not detailed or specific\": The reading passage says that the comment was too general.",
+      "rationales": {
+        "not detailed or specific": "In this sentence, \"general\" means \"not detailed or specific\": The reading passage says that the comment was too general.",
+        "connected with rules or public duties": "\"connected with rules or public duties\" is a real meaning, but it matches \"official\", not \"general\" in this sentence.",
+        "casual": "\"casual\" is a real meaning, but it matches \"informal\", not \"general\" in this sentence.",
+        "lasting only for a short time": "\"lasting only for a short time\" is a real meaning, but it matches \"short-term\", not \"general\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2098",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"official\" mean in this sentence? At the start of the activity, the email used official language.",
+      "options": [
+        "connected with rules or public duties",
+        "casual",
+        "lasting only for a short time",
+        "lasting for a short time"
+      ],
+      "answer": "connected with rules or public duties",
+      "explanation": "In this sentence, \"official\" means \"connected with rules or public duties\": At the start of the activity, the email used official language.",
+      "rationales": {
+        "connected with rules or public duties": "In this sentence, \"official\" means \"connected with rules or public duties\": At the start of the activity, the email used official language.",
+        "casual": "\"casual\" is a real meaning, but it matches \"informal\", not \"official\" in this sentence.",
+        "lasting only for a short time": "\"lasting only for a short time\" is a real meaning, but it matches \"short-term\", not \"official\" in this sentence.",
+        "lasting for a short time": "\"lasting for a short time\" is a real meaning, but it matches \"temporary\", not \"official\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2099",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"informal\" mean in this sentence? The second example says that the note was informal.",
+      "options": [
+        "casual",
+        "lasting only for a short time",
+        "lasting for a short time",
+        "suitable for official situations"
+      ],
+      "answer": "casual",
+      "explanation": "In this sentence, \"informal\" means \"casual\": The second example says that the note was informal.",
+      "rationales": {
+        "casual": "In this sentence, \"informal\" means \"casual\": The second example says that the note was informal.",
+        "lasting only for a short time": "\"lasting only for a short time\" is a real meaning, but it matches \"short-term\", not \"informal\" in this sentence.",
+        "lasting for a short time": "\"lasting for a short time\" is a real meaning, but it matches \"temporary\", not \"informal\" in this sentence.",
+        "suitable for official situations": "\"suitable for official situations\" is a real meaning, but it matches \"formal\", not \"informal\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b1-2100",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"short-term\" mean in this sentence? On the class website, the change is short-term.",
+      "options": [
+        "lasting only for a short time",
+        "lasting for a short time",
+        "suitable for official situations",
+        "not very serious"
+      ],
+      "answer": "lasting only for a short time",
+      "explanation": "In this sentence, \"short-term\" means \"lasting only for a short time\": On the class website, the change is short-term.",
+      "rationales": {
+        "lasting only for a short time": "In this sentence, \"short-term\" means \"lasting only for a short time\": On the class website, the change is short-term.",
+        "lasting for a short time": "\"lasting for a short time\" is a real meaning, but it matches \"temporary\", not \"short-term\" in this sentence.",
+        "suitable for official situations": "\"suitable for official situations\" is a real meaning, but it matches \"formal\", not \"short-term\" in this sentence.",
+        "not very serious": "\"not very serious\" is a real meaning, but it matches \"minor\", not \"short-term\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2101",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"precise\" mean in this sentence? The teacher asked for a precise answer.",
+      "options": [
+        "exact and careful",
+        "not exact but close",
+        "fair or sensible",
+        "easy to see or understand"
+      ],
+      "answer": "exact and careful",
+      "explanation": "In this sentence, \"precise\" means \"exact and careful\": The teacher asked for a precise answer.",
+      "rationales": {
+        "exact and careful": "In this sentence, \"precise\" means \"exact and careful\": The teacher asked for a precise answer.",
+        "not exact but close": "\"not exact but close\" is a real meaning, but it matches \"approximate\", not \"precise\" in this sentence.",
+        "fair or sensible": "\"fair or sensible\" is a real meaning, but it matches \"reasonable\", not \"precise\" in this sentence.",
+        "easy to see or understand": "\"easy to see or understand\" is a real meaning, but it matches \"apparent\", not \"precise\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2102",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"approximate\" mean in this sentence? In the clinic, the chart gives an approximate number.",
+      "options": [
+        "not exact but close",
+        "fair or sensible",
+        "easy to see or understand",
+        "important enough to notice"
+      ],
+      "answer": "not exact but close",
+      "explanation": "In this sentence, \"approximate\" means \"not exact but close\": In the clinic, the chart gives an approximate number.",
+      "rationales": {
+        "not exact but close": "In this sentence, \"approximate\" means \"not exact but close\": In the clinic, the chart gives an approximate number.",
+        "fair or sensible": "\"fair or sensible\" is a real meaning, but it matches \"reasonable\", not \"approximate\" in this sentence.",
+        "easy to see or understand": "\"easy to see or understand\" is a real meaning, but it matches \"apparent\", not \"approximate\" in this sentence.",
+        "important enough to notice": "\"important enough to notice\" is a real meaning, but it matches \"notable\", not \"approximate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2103",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"reasonable\" mean in this sentence? During the discussion, the request seemed reasonable.",
+      "options": [
+        "fair or sensible",
+        "easy to see or understand",
+        "important enough to notice",
+        "it can reasonably be argued"
+      ],
+      "answer": "fair or sensible",
+      "explanation": "In this sentence, \"reasonable\" means \"fair or sensible\": During the discussion, the request seemed reasonable.",
+      "rationales": {
+        "fair or sensible": "In this sentence, \"reasonable\" means \"fair or sensible\": During the discussion, the request seemed reasonable.",
+        "easy to see or understand": "\"easy to see or understand\" is a real meaning, but it matches \"apparent\", not \"reasonable\" in this sentence.",
+        "important enough to notice": "\"important enough to notice\" is a real meaning, but it matches \"notable\", not \"reasonable\" in this sentence.",
+        "it can reasonably be argued": "\"it can reasonably be argued\" is a real meaning, but it matches \"arguably\", not \"reasonable\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2104",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"apparent\" mean in this sentence? The example says that the cause was not apparent.",
+      "options": [
+        "easy to see or understand",
+        "important enough to notice",
+        "it can reasonably be argued",
+        "as one may reasonably suppose"
+      ],
+      "answer": "easy to see or understand",
+      "explanation": "In this sentence, \"apparent\" means \"easy to see or understand\": The example says that the cause was not apparent.",
+      "rationales": {
+        "easy to see or understand": "In this sentence, \"apparent\" means \"easy to see or understand\": The example says that the cause was not apparent.",
+        "important enough to notice": "\"important enough to notice\" is a real meaning, but it matches \"notable\", not \"apparent\" in this sentence.",
+        "it can reasonably be argued": "\"it can reasonably be argued\" is a real meaning, but it matches \"arguably\", not \"apparent\" in this sentence.",
+        "as one may reasonably suppose": "\"as one may reasonably suppose\" is a real meaning, but it matches \"presumably\", not \"apparent\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2105",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"notable\" mean in this sentence? On the worksheet, there was a notable increase.",
+      "options": [
+        "important enough to notice",
+        "it can reasonably be argued",
+        "as one may reasonably suppose",
+        "when compared with others"
+      ],
+      "answer": "important enough to notice",
+      "explanation": "In this sentence, \"notable\" means \"important enough to notice\": On the worksheet, there was a notable increase.",
+      "rationales": {
+        "important enough to notice": "In this sentence, \"notable\" means \"important enough to notice\": On the worksheet, there was a notable increase.",
+        "it can reasonably be argued": "\"it can reasonably be argued\" is a real meaning, but it matches \"arguably\", not \"notable\" in this sentence.",
+        "as one may reasonably suppose": "\"as one may reasonably suppose\" is a real meaning, but it matches \"presumably\", not \"notable\" in this sentence.",
+        "when compared with others": "\"when compared with others\" is a real meaning, but it matches \"comparatively\", not \"notable\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2106",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"arguably\" mean in this sentence? The teacher's example is this: The new rule is arguably fairer.",
+      "options": [
+        "it can reasonably be argued",
+        "as one may reasonably suppose",
+        "when compared with others",
+        "not exactly but close"
+      ],
+      "answer": "it can reasonably be argued",
+      "explanation": "In this sentence, \"arguably\" means \"it can reasonably be argued\": The teacher's example is this: The new rule is arguably fairer.",
+      "rationales": {
+        "it can reasonably be argued": "In this sentence, \"arguably\" means \"it can reasonably be argued\": The teacher's example is this: The new rule is arguably fairer.",
+        "as one may reasonably suppose": "\"as one may reasonably suppose\" is a real meaning, but it matches \"presumably\", not \"arguably\" in this sentence.",
+        "when compared with others": "\"when compared with others\" is a real meaning, but it matches \"comparatively\", not \"arguably\" in this sentence.",
+        "not exactly but close": "\"not exactly but close\" is a real meaning, but it matches \"approximately\", not \"arguably\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2107",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"presumably\" mean in this sentence? In a short message, the office is presumably closed.",
+      "options": [
+        "as one may reasonably suppose",
+        "when compared with others",
+        "not exactly but close",
+        "in a way worth noticing"
+      ],
+      "answer": "as one may reasonably suppose",
+      "explanation": "In this sentence, \"presumably\" means \"as one may reasonably suppose\": In a short message, the office is presumably closed.",
+      "rationales": {
+        "as one may reasonably suppose": "In this sentence, \"presumably\" means \"as one may reasonably suppose\": In a short message, the office is presumably closed.",
+        "when compared with others": "\"when compared with others\" is a real meaning, but it matches \"comparatively\", not \"presumably\" in this sentence.",
+        "not exactly but close": "\"not exactly but close\" is a real meaning, but it matches \"approximately\", not \"presumably\" in this sentence.",
+        "in a way worth noticing": "\"in a way worth noticing\" is a real meaning, but it matches \"notably\", not \"presumably\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2108",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"comparatively\" mean in this sentence? The report gives this example: The method is comparatively simple.",
+      "options": [
+        "when compared with others",
+        "not exactly but close",
+        "in a way worth noticing",
+        "by a large amount"
+      ],
+      "answer": "when compared with others",
+      "explanation": "In this sentence, \"comparatively\" means \"when compared with others\": The report gives this example: The method is comparatively simple.",
+      "rationales": {
+        "when compared with others": "In this sentence, \"comparatively\" means \"when compared with others\": The report gives this example: The method is comparatively simple.",
+        "not exactly but close": "\"not exactly but close\" is a real meaning, but it matches \"approximately\", not \"comparatively\" in this sentence.",
+        "in a way worth noticing": "\"in a way worth noticing\" is a real meaning, but it matches \"notably\", not \"comparatively\" in this sentence.",
+        "by a large amount": "\"by a large amount\" is a real meaning, but it matches \"substantially\", not \"comparatively\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2109",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"approximately\" mean in this sentence? At the reception desk, the class lasted approximately an hour.",
+      "options": [
+        "not exactly but close",
+        "in a way worth noticing",
+        "by a large amount",
+        "by a small amount"
+      ],
+      "answer": "not exactly but close",
+      "explanation": "In this sentence, \"approximately\" means \"not exactly but close\": At the reception desk, the class lasted approximately an hour.",
+      "rationales": {
+        "not exactly but close": "In this sentence, \"approximately\" means \"not exactly but close\": At the reception desk, the class lasted approximately an hour.",
+        "in a way worth noticing": "\"in a way worth noticing\" is a real meaning, but it matches \"notably\", not \"approximately\" in this sentence.",
+        "by a large amount": "\"by a large amount\" is a real meaning, but it matches \"substantially\", not \"approximately\" in this sentence.",
+        "by a small amount": "\"by a small amount\" is a real meaning, but it matches \"marginally\", not \"approximately\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2110",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"notably\" mean in this sentence? The class note says that notably, costs fell after the change.",
+      "options": [
+        "in a way worth noticing",
+        "by a large amount",
+        "by a small amount",
+        "seemingly"
+      ],
+      "answer": "in a way worth noticing",
+      "explanation": "In this sentence, \"notably\" means \"in a way worth noticing\": The class note says that notably, costs fell after the change.",
+      "rationales": {
+        "in a way worth noticing": "In this sentence, \"notably\" means \"in a way worth noticing\": The class note says that notably, costs fell after the change.",
+        "by a large amount": "\"by a large amount\" is a real meaning, but it matches \"substantially\", not \"notably\" in this sentence.",
+        "by a small amount": "\"by a small amount\" is a real meaning, but it matches \"marginally\", not \"notably\" in this sentence.",
+        "seemingly": "\"seemingly\" is a real meaning, but it matches \"apparently\", not \"notably\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2111",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"substantially\" mean in this sentence? In the practice text, attendance increased substantially.",
+      "options": [
+        "by a large amount",
+        "by a small amount",
+        "seemingly",
+        "fully correct in detail"
+      ],
+      "answer": "by a large amount",
+      "explanation": "In this sentence, \"substantially\" means \"by a large amount\": In the practice text, attendance increased substantially.",
+      "rationales": {
+        "by a large amount": "In this sentence, \"substantially\" means \"by a large amount\": In the practice text, attendance increased substantially.",
+        "by a small amount": "\"by a small amount\" is a real meaning, but it matches \"marginally\", not \"substantially\" in this sentence.",
+        "seemingly": "\"seemingly\" is a real meaning, but it matches \"apparently\", not \"substantially\" in this sentence.",
+        "fully correct in detail": "\"fully correct in detail\" is a real meaning, but it matches \"exact\", not \"substantially\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2112",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"marginally\" mean in this sentence? During the lesson, scores improved marginally.",
+      "options": [
+        "by a small amount",
+        "seemingly",
+        "fully correct in detail",
+        "showing good judgment"
+      ],
+      "answer": "by a small amount",
+      "explanation": "In this sentence, \"marginally\" means \"by a small amount\": During the lesson, scores improved marginally.",
+      "rationales": {
+        "by a small amount": "In this sentence, \"marginally\" means \"by a small amount\": During the lesson, scores improved marginally.",
+        "seemingly": "\"seemingly\" is a real meaning, but it matches \"apparently\", not \"marginally\" in this sentence.",
+        "fully correct in detail": "\"fully correct in detail\" is a real meaning, but it matches \"exact\", not \"marginally\" in this sentence.",
+        "showing good judgment": "\"showing good judgment\" is a real meaning, but it matches \"sensible\", not \"marginally\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2113",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"apparently\" mean in this sentence? The first example says that the file was apparently lost.",
+      "options": [
+        "seemingly",
+        "fully correct in detail",
+        "showing good judgment",
+        "easy to notice"
+      ],
+      "answer": "seemingly",
+      "explanation": "In this sentence, \"apparently\" means \"seemingly\": The first example says that the file was apparently lost.",
+      "rationales": {
+        "seemingly": "In this sentence, \"apparently\" means \"seemingly\": The first example says that the file was apparently lost.",
+        "fully correct in detail": "\"fully correct in detail\" is a real meaning, but it matches \"exact\", not \"apparently\" in this sentence.",
+        "showing good judgment": "\"showing good judgment\" is a real meaning, but it matches \"sensible\", not \"apparently\" in this sentence.",
+        "easy to notice": "\"easy to notice\" is a real meaning, but it matches \"obvious\", not \"apparently\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2114",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"exact\" mean in this sentence? On the notice board, the teacher asked for an exact answer.",
+      "options": [
+        "fully correct in detail",
+        "showing good judgment",
+        "easy to notice",
+        "large or important enough to matter"
+      ],
+      "answer": "fully correct in detail",
+      "explanation": "In this sentence, \"exact\" means \"fully correct in detail\": On the notice board, the teacher asked for an exact answer.",
+      "rationales": {
+        "fully correct in detail": "In this sentence, \"exact\" means \"fully correct in detail\": On the notice board, the teacher asked for an exact answer.",
+        "showing good judgment": "\"showing good judgment\" is a real meaning, but it matches \"sensible\", not \"exact\" in this sentence.",
+        "easy to notice": "\"easy to notice\" is a real meaning, but it matches \"obvious\", not \"exact\" in this sentence.",
+        "large or important enough to matter": "\"large or important enough to matter\" is a real meaning, but it matches \"significant\", not \"exact\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2115",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"sensible\" mean in this sentence? The guide gives this sentence: The request seemed sensible.",
+      "options": [
+        "showing good judgment",
+        "easy to notice",
+        "large or important enough to matter",
+        "judged roughly rather than measured exactly"
+      ],
+      "answer": "showing good judgment",
+      "explanation": "In this sentence, \"sensible\" means \"showing good judgment\": The guide gives this sentence: The request seemed sensible.",
+      "rationales": {
+        "showing good judgment": "In this sentence, \"sensible\" means \"showing good judgment\": The guide gives this sentence: The request seemed sensible.",
+        "easy to notice": "\"easy to notice\" is a real meaning, but it matches \"obvious\", not \"sensible\" in this sentence.",
+        "large or important enough to matter": "\"large or important enough to matter\" is a real meaning, but it matches \"significant\", not \"sensible\" in this sentence.",
+        "judged roughly rather than measured exactly": "\"judged roughly rather than measured exactly\" is a real meaning, but it matches \"estimated\", not \"sensible\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2116",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"obvious\" mean in this sentence? In the office email, the cause was not obvious.",
+      "options": [
+        "easy to notice",
+        "large or important enough to matter",
+        "judged roughly rather than measured exactly",
+        "large enough to matter"
+      ],
+      "answer": "easy to notice",
+      "explanation": "In this sentence, \"obvious\" means \"easy to notice\": In the office email, the cause was not obvious.",
+      "rationales": {
+        "easy to notice": "In this sentence, \"obvious\" means \"easy to notice\": In the office email, the cause was not obvious.",
+        "large or important enough to matter": "\"large or important enough to matter\" is a real meaning, but it matches \"significant\", not \"obvious\" in this sentence.",
+        "judged roughly rather than measured exactly": "\"judged roughly rather than measured exactly\" is a real meaning, but it matches \"estimated\", not \"obvious\" in this sentence.",
+        "large enough to matter": "\"large enough to matter\" is a real meaning, but it matches \"considerable\", not \"obvious\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2117",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"significant\" mean in this sentence? The reading passage says that there was a significant increase.",
+      "options": [
+        "large or important enough to matter",
+        "judged roughly rather than measured exactly",
+        "large enough to matter",
+        "limited but real"
+      ],
+      "answer": "large or important enough to matter",
+      "explanation": "In this sentence, \"significant\" means \"large or important enough to matter\": The reading passage says that there was a significant increase.",
+      "rationales": {
+        "large or important enough to matter": "In this sentence, \"significant\" means \"large or important enough to matter\": The reading passage says that there was a significant increase.",
+        "judged roughly rather than measured exactly": "\"judged roughly rather than measured exactly\" is a real meaning, but it matches \"estimated\", not \"significant\" in this sentence.",
+        "large enough to matter": "\"large enough to matter\" is a real meaning, but it matches \"considerable\", not \"significant\" in this sentence.",
+        "limited but real": "\"limited but real\" is a real meaning, but it matches \"modest\", not \"significant\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2118",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"estimated\" mean in this sentence? At the start of the activity, the chart gives an estimated number.",
+      "options": [
+        "judged roughly rather than measured exactly",
+        "large enough to matter",
+        "limited but real",
+        "exact and careful"
+      ],
+      "answer": "judged roughly rather than measured exactly",
+      "explanation": "In this sentence, \"estimated\" means \"judged roughly rather than measured exactly\": At the start of the activity, the chart gives an estimated number.",
+      "rationales": {
+        "judged roughly rather than measured exactly": "In this sentence, \"estimated\" means \"judged roughly rather than measured exactly\": At the start of the activity, the chart gives an estimated number.",
+        "large enough to matter": "\"large enough to matter\" is a real meaning, but it matches \"considerable\", not \"estimated\" in this sentence.",
+        "limited but real": "\"limited but real\" is a real meaning, but it matches \"modest\", not \"estimated\" in this sentence.",
+        "exact and careful": "\"exact and careful\" is a real meaning, but it matches \"precise\", not \"estimated\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2119",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"considerable\" mean in this sentence? The second example says that the change made a considerable difference.",
+      "options": [
+        "large enough to matter",
+        "limited but real",
+        "exact and careful",
+        "not exact but close"
+      ],
+      "answer": "large enough to matter",
+      "explanation": "In this sentence, \"considerable\" means \"large enough to matter\": The second example says that the change made a considerable difference.",
+      "rationales": {
+        "large enough to matter": "In this sentence, \"considerable\" means \"large enough to matter\": The second example says that the change made a considerable difference.",
+        "limited but real": "\"limited but real\" is a real meaning, but it matches \"modest\", not \"considerable\" in this sentence.",
+        "exact and careful": "\"exact and careful\" is a real meaning, but it matches \"precise\", not \"considerable\" in this sentence.",
+        "not exact but close": "\"not exact but close\" is a real meaning, but it matches \"approximate\", not \"considerable\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-b2-2120",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"modest\" mean in this sentence? On the class website, the program had a modest effect.",
+      "options": [
+        "limited but real",
+        "exact and careful",
+        "not exact but close",
+        "fair or sensible"
+      ],
+      "answer": "limited but real",
+      "explanation": "In this sentence, \"modest\" means \"limited but real\": On the class website, the program had a modest effect.",
+      "rationales": {
+        "limited but real": "In this sentence, \"modest\" means \"limited but real\": On the class website, the program had a modest effect.",
+        "exact and careful": "\"exact and careful\" is a real meaning, but it matches \"precise\", not \"modest\" in this sentence.",
+        "not exact but close": "\"not exact but close\" is a real meaning, but it matches \"approximate\", not \"modest\" in this sentence.",
+        "fair or sensible": "\"fair or sensible\" is a real meaning, but it matches \"reasonable\", not \"modest\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2121",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"marginal\" mean in this sentence? The change had only a marginal effect.",
+      "options": [
+        "small and not very important",
+        "strong and reliable",
+        "existing as a natural part",
+        "suggested but not directly stated"
+      ],
+      "answer": "small and not very important",
+      "explanation": "In this sentence, \"marginal\" means \"small and not very important\": The change had only a marginal effect.",
+      "rationales": {
+        "small and not very important": "In this sentence, \"marginal\" means \"small and not very important\": The change had only a marginal effect.",
+        "strong and reliable": "\"strong and reliable\" is a real meaning, but it matches \"robust\", not \"marginal\" in this sentence.",
+        "existing as a natural part": "\"existing as a natural part\" is a real meaning, but it matches \"inherent\", not \"marginal\" in this sentence.",
+        "suggested but not directly stated": "\"suggested but not directly stated\" is a real meaning, but it matches \"implicit\", not \"marginal\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2122",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"robust\" mean in this sentence? In the clinic, the results were robust.",
+      "options": [
+        "strong and reliable",
+        "existing as a natural part",
+        "suggested but not directly stated",
+        "clear and directly stated"
+      ],
+      "answer": "strong and reliable",
+      "explanation": "In this sentence, \"robust\" means \"strong and reliable\": In the clinic, the results were robust.",
+      "rationales": {
+        "strong and reliable": "In this sentence, \"robust\" means \"strong and reliable\": In the clinic, the results were robust.",
+        "existing as a natural part": "\"existing as a natural part\" is a real meaning, but it matches \"inherent\", not \"robust\" in this sentence.",
+        "suggested but not directly stated": "\"suggested but not directly stated\" is a real meaning, but it matches \"implicit\", not \"robust\" in this sentence.",
+        "clear and directly stated": "\"clear and directly stated\" is a real meaning, but it matches \"explicit\", not \"robust\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2123",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"inherent\" mean in this sentence? During the discussion, the plan has inherent risks.",
+      "options": [
+        "existing as a natural part",
+        "suggested but not directly stated",
+        "clear and directly stated",
+        "apparently but perhaps not actually"
+      ],
+      "answer": "existing as a natural part",
+      "explanation": "In this sentence, \"inherent\" means \"existing as a natural part\": During the discussion, the plan has inherent risks.",
+      "rationales": {
+        "existing as a natural part": "In this sentence, \"inherent\" means \"existing as a natural part\": During the discussion, the plan has inherent risks.",
+        "suggested but not directly stated": "\"suggested but not directly stated\" is a real meaning, but it matches \"implicit\", not \"inherent\" in this sentence.",
+        "clear and directly stated": "\"clear and directly stated\" is a real meaning, but it matches \"explicit\", not \"inherent\" in this sentence.",
+        "apparently but perhaps not actually": "\"apparently but perhaps not actually\" is a real meaning, but it matches \"ostensibly\", not \"inherent\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2124",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"implicit\" mean in this sentence? The example says that the message contained an implicit warning.",
+      "options": [
+        "suggested but not directly stated",
+        "clear and directly stated",
+        "apparently but perhaps not actually",
+        "without being directly stated"
+      ],
+      "answer": "suggested but not directly stated",
+      "explanation": "In this sentence, \"implicit\" means \"suggested but not directly stated\": The example says that the message contained an implicit warning.",
+      "rationales": {
+        "suggested but not directly stated": "In this sentence, \"implicit\" means \"suggested but not directly stated\": The example says that the message contained an implicit warning.",
+        "clear and directly stated": "\"clear and directly stated\" is a real meaning, but it matches \"explicit\", not \"implicit\" in this sentence.",
+        "apparently but perhaps not actually": "\"apparently but perhaps not actually\" is a real meaning, but it matches \"ostensibly\", not \"implicit\" in this sentence.",
+        "without being directly stated": "\"without being directly stated\" is a real meaning, but it matches \"implicitly\", not \"implicit\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2125",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"explicit\" mean in this sentence? On the worksheet, the rule was explicit.",
+      "options": [
+        "clear and directly stated",
+        "apparently but perhaps not actually",
+        "without being directly stated",
+        "directly and clearly"
+      ],
+      "answer": "clear and directly stated",
+      "explanation": "In this sentence, \"explicit\" means \"clear and directly stated\": On the worksheet, the rule was explicit.",
+      "rationales": {
+        "clear and directly stated": "In this sentence, \"explicit\" means \"clear and directly stated\": On the worksheet, the rule was explicit.",
+        "apparently but perhaps not actually": "\"apparently but perhaps not actually\" is a real meaning, but it matches \"ostensibly\", not \"explicit\" in this sentence.",
+        "without being directly stated": "\"without being directly stated\" is a real meaning, but it matches \"implicitly\", not \"explicit\" in this sentence.",
+        "directly and clearly": "\"directly and clearly\" is a real meaning, but it matches \"explicitly\", not \"explicit\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2126",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"ostensibly\" mean in this sentence? The teacher's example is this: The change was ostensibly made for safety.",
+      "options": [
+        "apparently but perhaps not actually",
+        "without being directly stated",
+        "directly and clearly",
+        "by its nature"
+      ],
+      "answer": "apparently but perhaps not actually",
+      "explanation": "In this sentence, \"ostensibly\" means \"apparently but perhaps not actually\": The teacher's example is this: The change was ostensibly made for safety.",
+      "rationales": {
+        "apparently but perhaps not actually": "In this sentence, \"ostensibly\" means \"apparently but perhaps not actually\": The teacher's example is this: The change was ostensibly made for safety.",
+        "without being directly stated": "\"without being directly stated\" is a real meaning, but it matches \"implicitly\", not \"ostensibly\" in this sentence.",
+        "directly and clearly": "\"directly and clearly\" is a real meaning, but it matches \"explicitly\", not \"ostensibly\" in this sentence.",
+        "by its nature": "\"by its nature\" is a real meaning, but it matches \"inherently\", not \"ostensibly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2127",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"implicitly\" mean in this sentence? In a short message, the policy implicitly excludes late appeals.",
+      "options": [
+        "without being directly stated",
+        "directly and clearly",
+        "by its nature",
+        "in name only"
+      ],
+      "answer": "without being directly stated",
+      "explanation": "In this sentence, \"implicitly\" means \"without being directly stated\": In a short message, the policy implicitly excludes late appeals.",
+      "rationales": {
+        "without being directly stated": "In this sentence, \"implicitly\" means \"without being directly stated\": In a short message, the policy implicitly excludes late appeals.",
+        "directly and clearly": "\"directly and clearly\" is a real meaning, but it matches \"explicitly\", not \"implicitly\" in this sentence.",
+        "by its nature": "\"by its nature\" is a real meaning, but it matches \"inherently\", not \"implicitly\" in this sentence.",
+        "in name only": "\"in name only\" is a real meaning, but it matches \"nominally\", not \"implicitly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2128",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"explicitly\" mean in this sentence? The report gives this example: The rule explicitly mentions refunds.",
+      "options": [
+        "directly and clearly",
+        "by its nature",
+        "in name only",
+        "in an important way"
+      ],
+      "answer": "directly and clearly",
+      "explanation": "In this sentence, \"explicitly\" means \"directly and clearly\": The report gives this example: The rule explicitly mentions refunds.",
+      "rationales": {
+        "directly and clearly": "In this sentence, \"explicitly\" means \"directly and clearly\": The report gives this example: The rule explicitly mentions refunds.",
+        "by its nature": "\"by its nature\" is a real meaning, but it matches \"inherently\", not \"explicitly\" in this sentence.",
+        "in name only": "\"in name only\" is a real meaning, but it matches \"nominally\", not \"explicitly\" in this sentence.",
+        "in an important way": "\"in an important way\" is a real meaning, but it matches \"materially\", not \"explicitly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2129",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"inherently\" mean in this sentence? At the reception desk, the method is inherently limited.",
+      "options": [
+        "by its nature",
+        "in name only",
+        "in an important way",
+        "not finally"
+      ],
+      "answer": "by its nature",
+      "explanation": "In this sentence, \"inherently\" means \"by its nature\": At the reception desk, the method is inherently limited.",
+      "rationales": {
+        "by its nature": "In this sentence, \"inherently\" means \"by its nature\": At the reception desk, the method is inherently limited.",
+        "in name only": "\"in name only\" is a real meaning, but it matches \"nominally\", not \"inherently\" in this sentence.",
+        "in an important way": "\"in an important way\" is a real meaning, but it matches \"materially\", not \"inherently\" in this sentence.",
+        "not finally": "\"not finally\" is a real meaning, but it matches \"tentatively\", not \"inherently\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2130",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"nominally\" mean in this sentence? The class note says that the course is nominally optional.",
+      "options": [
+        "in name only",
+        "in an important way",
+        "not finally",
+        "able to remain strong over time"
+      ],
+      "answer": "in name only",
+      "explanation": "In this sentence, \"nominally\" means \"in name only\": The class note says that the course is nominally optional.",
+      "rationales": {
+        "in name only": "In this sentence, \"nominally\" means \"in name only\": The class note says that the course is nominally optional.",
+        "in an important way": "\"in an important way\" is a real meaning, but it matches \"materially\", not \"nominally\" in this sentence.",
+        "not finally": "\"not finally\" is a real meaning, but it matches \"tentatively\", not \"nominally\" in this sentence.",
+        "able to remain strong over time": "\"able to remain strong over time\" is a real meaning, but it matches \"durable\", not \"nominally\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2131",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"materially\" mean in this sentence? In the practice text, the correction materially changes the result.",
+      "options": [
+        "in an important way",
+        "not finally",
+        "able to remain strong over time",
+        "not central"
+      ],
+      "answer": "in an important way",
+      "explanation": "In this sentence, \"materially\" means \"in an important way\": In the practice text, the correction materially changes the result.",
+      "rationales": {
+        "in an important way": "In this sentence, \"materially\" means \"in an important way\": In the practice text, the correction materially changes the result.",
+        "not finally": "\"not finally\" is a real meaning, but it matches \"tentatively\", not \"materially\" in this sentence.",
+        "able to remain strong over time": "\"able to remain strong over time\" is a real meaning, but it matches \"durable\", not \"materially\" in this sentence.",
+        "not central": "\"not central\" is a real meaning, but it matches \"peripheral\", not \"materially\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2132",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"tentatively\" mean in this sentence? During the lesson, the committee tentatively approved the plan.",
+      "options": [
+        "not finally",
+        "able to remain strong over time",
+        "not central",
+        "most noticeable or important"
+      ],
+      "answer": "not finally",
+      "explanation": "In this sentence, \"tentatively\" means \"not finally\": During the lesson, the committee tentatively approved the plan.",
+      "rationales": {
+        "not finally": "In this sentence, \"tentatively\" means \"not finally\": During the lesson, the committee tentatively approved the plan.",
+        "able to remain strong over time": "\"able to remain strong over time\" is a real meaning, but it matches \"durable\", not \"tentatively\" in this sentence.",
+        "not central": "\"not central\" is a real meaning, but it matches \"peripheral\", not \"tentatively\" in this sentence.",
+        "most noticeable or important": "\"most noticeable or important\" is a real meaning, but it matches \"salient\", not \"tentatively\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2133",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"durable\" mean in this sentence? The first example says that the result was durable.",
+      "options": [
+        "able to remain strong over time",
+        "not central",
+        "most noticeable or important",
+        "unclear or mixed"
+      ],
+      "answer": "able to remain strong over time",
+      "explanation": "In this sentence, \"durable\" means \"able to remain strong over time\": The first example says that the result was durable.",
+      "rationales": {
+        "able to remain strong over time": "In this sentence, \"durable\" means \"able to remain strong over time\": The first example says that the result was durable.",
+        "not central": "\"not central\" is a real meaning, but it matches \"peripheral\", not \"durable\" in this sentence.",
+        "most noticeable or important": "\"most noticeable or important\" is a real meaning, but it matches \"salient\", not \"durable\" in this sentence.",
+        "unclear or mixed": "\"unclear or mixed\" is a real meaning, but it matches \"equivocal\", not \"durable\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2134",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"peripheral\" mean in this sentence? On the notice board, the issue was peripheral.",
+      "options": [
+        "not central",
+        "most noticeable or important",
+        "unclear or mixed",
+        "dependent on something else"
+      ],
+      "answer": "not central",
+      "explanation": "In this sentence, \"peripheral\" means \"not central\": On the notice board, the issue was peripheral.",
+      "rationales": {
+        "not central": "In this sentence, \"peripheral\" means \"not central\": On the notice board, the issue was peripheral.",
+        "most noticeable or important": "\"most noticeable or important\" is a real meaning, but it matches \"salient\", not \"peripheral\" in this sentence.",
+        "unclear or mixed": "\"unclear or mixed\" is a real meaning, but it matches \"equivocal\", not \"peripheral\" in this sentence.",
+        "dependent on something else": "\"dependent on something else\" is a real meaning, but it matches \"contingent\", not \"peripheral\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2135",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"salient\" mean in this sentence? The guide gives this sentence: The salient issue was cost.",
+      "options": [
+        "most noticeable or important",
+        "unclear or mixed",
+        "dependent on something else",
+        "not said directly"
+      ],
+      "answer": "most noticeable or important",
+      "explanation": "In this sentence, \"salient\" means \"most noticeable or important\": The guide gives this sentence: The salient issue was cost.",
+      "rationales": {
+        "most noticeable or important": "In this sentence, \"salient\" means \"most noticeable or important\": The guide gives this sentence: The salient issue was cost.",
+        "unclear or mixed": "\"unclear or mixed\" is a real meaning, but it matches \"equivocal\", not \"salient\" in this sentence.",
+        "dependent on something else": "\"dependent on something else\" is a real meaning, but it matches \"contingent\", not \"salient\" in this sentence.",
+        "not said directly": "\"not said directly\" is a real meaning, but it matches \"unstated\", not \"salient\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2136",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"equivocal\" mean in this sentence? In the office email, the evidence was equivocal.",
+      "options": [
+        "unclear or mixed",
+        "dependent on something else",
+        "not said directly",
+        "open and direct"
+      ],
+      "answer": "unclear or mixed",
+      "explanation": "In this sentence, \"equivocal\" means \"unclear or mixed\": In the office email, the evidence was equivocal.",
+      "rationales": {
+        "unclear or mixed": "In this sentence, \"equivocal\" means \"unclear or mixed\": In the office email, the evidence was equivocal.",
+        "dependent on something else": "\"dependent on something else\" is a real meaning, but it matches \"contingent\", not \"equivocal\" in this sentence.",
+        "not said directly": "\"not said directly\" is a real meaning, but it matches \"unstated\", not \"equivocal\" in this sentence.",
+        "open and direct": "\"open and direct\" is a real meaning, but it matches \"overt\", not \"equivocal\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2137",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"contingent\" mean in this sentence? The reading passage says that approval is contingent on funding.",
+      "options": [
+        "dependent on something else",
+        "not said directly",
+        "open and direct",
+        "belonging naturally to something"
+      ],
+      "answer": "dependent on something else",
+      "explanation": "In this sentence, \"contingent\" means \"dependent on something else\": The reading passage says that approval is contingent on funding.",
+      "rationales": {
+        "dependent on something else": "In this sentence, \"contingent\" means \"dependent on something else\": The reading passage says that approval is contingent on funding.",
+        "not said directly": "\"not said directly\" is a real meaning, but it matches \"unstated\", not \"contingent\" in this sentence.",
+        "open and direct": "\"open and direct\" is a real meaning, but it matches \"overt\", not \"contingent\" in this sentence.",
+        "belonging naturally to something": "\"belonging naturally to something\" is a real meaning, but it matches \"intrinsic\", not \"contingent\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2138",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"unstated\" mean in this sentence? At the start of the activity, the memo contained an unstated warning.",
+      "options": [
+        "not said directly",
+        "open and direct",
+        "belonging naturally to something",
+        "small and not very important"
+      ],
+      "answer": "not said directly",
+      "explanation": "In this sentence, \"unstated\" means \"not said directly\": At the start of the activity, the memo contained an unstated warning.",
+      "rationales": {
+        "not said directly": "In this sentence, \"unstated\" means \"not said directly\": At the start of the activity, the memo contained an unstated warning.",
+        "open and direct": "\"open and direct\" is a real meaning, but it matches \"overt\", not \"unstated\" in this sentence.",
+        "belonging naturally to something": "\"belonging naturally to something\" is a real meaning, but it matches \"intrinsic\", not \"unstated\" in this sentence.",
+        "small and not very important": "\"small and not very important\" is a real meaning, but it matches \"marginal\", not \"unstated\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2139",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"overt\" mean in this sentence? The second example says that the requirement was overt.",
+      "options": [
+        "open and direct",
+        "belonging naturally to something",
+        "small and not very important",
+        "strong and reliable"
+      ],
+      "answer": "open and direct",
+      "explanation": "In this sentence, \"overt\" means \"open and direct\": The second example says that the requirement was overt.",
+      "rationales": {
+        "open and direct": "In this sentence, \"overt\" means \"open and direct\": The second example says that the requirement was overt.",
+        "belonging naturally to something": "\"belonging naturally to something\" is a real meaning, but it matches \"intrinsic\", not \"overt\" in this sentence.",
+        "small and not very important": "\"small and not very important\" is a real meaning, but it matches \"marginal\", not \"overt\" in this sentence.",
+        "strong and reliable": "\"strong and reliable\" is a real meaning, but it matches \"robust\", not \"overt\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c1-2140",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"intrinsic\" mean in this sentence? On the class website, the design has intrinsic limits.",
+      "options": [
+        "belonging naturally to something",
+        "small and not very important",
+        "strong and reliable",
+        "existing as a natural part"
+      ],
+      "answer": "belonging naturally to something",
+      "explanation": "In this sentence, \"intrinsic\" means \"belonging naturally to something\": On the class website, the design has intrinsic limits.",
+      "rationales": {
+        "belonging naturally to something": "In this sentence, \"intrinsic\" means \"belonging naturally to something\": On the class website, the design has intrinsic limits.",
+        "small and not very important": "\"small and not very important\" is a real meaning, but it matches \"marginal\", not \"intrinsic\" in this sentence.",
+        "strong and reliable": "\"strong and reliable\" is a real meaning, but it matches \"robust\", not \"intrinsic\" in this sentence.",
+        "existing as a natural part": "\"existing as a natural part\" is a real meaning, but it matches \"inherent\", not \"intrinsic\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2141",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"negligible\" mean in this sentence? The cost difference was negligible.",
+      "options": [
+        "so small it is not important",
+        "stated but possibly not real",
+        "depending on something else",
+        "not clearly one thing or the other"
+      ],
+      "answer": "so small it is not important",
+      "explanation": "In this sentence, \"negligible\" means \"so small it is not important\": The cost difference was negligible.",
+      "rationales": {
+        "so small it is not important": "In this sentence, \"negligible\" means \"so small it is not important\": The cost difference was negligible.",
+        "stated but possibly not real": "\"stated but possibly not real\" is a real meaning, but it matches \"ostensible\", not \"negligible\" in this sentence.",
+        "depending on something else": "\"depending on something else\" is a real meaning, but it matches \"contingent\", not \"negligible\" in this sentence.",
+        "not clearly one thing or the other": "\"not clearly one thing or the other\" is a real meaning, but it matches \"equivocal\", not \"negligible\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2142",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"ostensible\" mean in this sentence? In the clinic, the ostensible reason was safety.",
+      "options": [
+        "stated but possibly not real",
+        "depending on something else",
+        "not clearly one thing or the other",
+        "most noticeable or important"
+      ],
+      "answer": "stated but possibly not real",
+      "explanation": "In this sentence, \"ostensible\" means \"stated but possibly not real\": In the clinic, the ostensible reason was safety.",
+      "rationales": {
+        "stated but possibly not real": "In this sentence, \"ostensible\" means \"stated but possibly not real\": In the clinic, the ostensible reason was safety.",
+        "depending on something else": "\"depending on something else\" is a real meaning, but it matches \"contingent\", not \"ostensible\" in this sentence.",
+        "not clearly one thing or the other": "\"not clearly one thing or the other\" is a real meaning, but it matches \"equivocal\", not \"ostensible\" in this sentence.",
+        "most noticeable or important": "\"most noticeable or important\" is a real meaning, but it matches \"salient\", not \"ostensible\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2143",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"contingent\" mean in this sentence? During the discussion, approval is contingent on funding.",
+      "options": [
+        "depending on something else",
+        "not clearly one thing or the other",
+        "most noticeable or important",
+        "supposed but not proven"
+      ],
+      "answer": "depending on something else",
+      "explanation": "In this sentence, \"contingent\" means \"depending on something else\": During the discussion, approval is contingent on funding.",
+      "rationales": {
+        "depending on something else": "In this sentence, \"contingent\" means \"depending on something else\": During the discussion, approval is contingent on funding.",
+        "not clearly one thing or the other": "\"not clearly one thing or the other\" is a real meaning, but it matches \"equivocal\", not \"contingent\" in this sentence.",
+        "most noticeable or important": "\"most noticeable or important\" is a real meaning, but it matches \"salient\", not \"contingent\" in this sentence.",
+        "supposed but not proven": "\"supposed but not proven\" is a real meaning, but it matches \"putative\", not \"contingent\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2144",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"equivocal\" mean in this sentence? The example says that the evidence was equivocal.",
+      "options": [
+        "not clearly one thing or the other",
+        "most noticeable or important",
+        "supposed but not proven",
+        "allegedly"
+      ],
+      "answer": "not clearly one thing or the other",
+      "explanation": "In this sentence, \"equivocal\" means \"not clearly one thing or the other\": The example says that the evidence was equivocal.",
+      "rationales": {
+        "not clearly one thing or the other": "In this sentence, \"equivocal\" means \"not clearly one thing or the other\": The example says that the evidence was equivocal.",
+        "most noticeable or important": "\"most noticeable or important\" is a real meaning, but it matches \"salient\", not \"equivocal\" in this sentence.",
+        "supposed but not proven": "\"supposed but not proven\" is a real meaning, but it matches \"putative\", not \"equivocal\" in this sentence.",
+        "allegedly": "\"allegedly\" is a real meaning, but it matches \"purportedly\", not \"equivocal\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2145",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"salient\" mean in this sentence? On the worksheet, the salient point was cost.",
+      "options": [
+        "most noticeable or important",
+        "supposed but not proven",
+        "allegedly",
+        "claimed but not proved"
+      ],
+      "answer": "most noticeable or important",
+      "explanation": "In this sentence, \"salient\" means \"most noticeable or important\": On the worksheet, the salient point was cost.",
+      "rationales": {
+        "most noticeable or important": "In this sentence, \"salient\" means \"most noticeable or important\": On the worksheet, the salient point was cost.",
+        "supposed but not proven": "\"supposed but not proven\" is a real meaning, but it matches \"putative\", not \"salient\" in this sentence.",
+        "allegedly": "\"allegedly\" is a real meaning, but it matches \"purportedly\", not \"salient\" in this sentence.",
+        "claimed but not proved": "\"claimed but not proved\" is a real meaning, but it matches \"purported\", not \"salient\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2146",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"putative\" mean in this sentence? The teacher's example is this: The putative cause was a software error.",
+      "options": [
+        "supposed but not proven",
+        "allegedly",
+        "claimed but not proved",
+        "existing in name more than reality"
+      ],
+      "answer": "supposed but not proven",
+      "explanation": "In this sentence, \"putative\" means \"supposed but not proven\": The teacher's example is this: The putative cause was a software error.",
+      "rationales": {
+        "supposed but not proven": "In this sentence, \"putative\" means \"supposed but not proven\": The teacher's example is this: The putative cause was a software error.",
+        "allegedly": "\"allegedly\" is a real meaning, but it matches \"purportedly\", not \"putative\" in this sentence.",
+        "claimed but not proved": "\"claimed but not proved\" is a real meaning, but it matches \"purported\", not \"putative\" in this sentence.",
+        "existing in name more than reality": "\"existing in name more than reality\" is a real meaning, but it matches \"nominal\", not \"putative\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2147",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"purportedly\" mean in this sentence? In a short message, the data were purportedly complete.",
+      "options": [
+        "allegedly",
+        "claimed but not proved",
+        "existing in name more than reality",
+        "meaningful in content"
+      ],
+      "answer": "allegedly",
+      "explanation": "In this sentence, \"purportedly\" means \"allegedly\": In a short message, the data were purportedly complete.",
+      "rationales": {
+        "allegedly": "In this sentence, \"purportedly\" means \"allegedly\": In a short message, the data were purportedly complete.",
+        "claimed but not proved": "\"claimed but not proved\" is a real meaning, but it matches \"purported\", not \"purportedly\" in this sentence.",
+        "existing in name more than reality": "\"existing in name more than reality\" is a real meaning, but it matches \"nominal\", not \"purportedly\" in this sentence.",
+        "meaningful in content": "\"meaningful in content\" is a real meaning, but it matches \"substantive\", not \"purportedly\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2148",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"purported\" mean in this sentence? The report gives this example: The purported purpose was efficiency.",
+      "options": [
+        "claimed but not proved",
+        "existing in name more than reality",
+        "meaningful in content",
+        "understood without being said"
+      ],
+      "answer": "claimed but not proved",
+      "explanation": "In this sentence, \"purported\" means \"claimed but not proved\": The report gives this example: The purported purpose was efficiency.",
+      "rationales": {
+        "claimed but not proved": "In this sentence, \"purported\" means \"claimed but not proved\": The report gives this example: The purported purpose was efficiency.",
+        "existing in name more than reality": "\"existing in name more than reality\" is a real meaning, but it matches \"nominal\", not \"purported\" in this sentence.",
+        "meaningful in content": "\"meaningful in content\" is a real meaning, but it matches \"substantive\", not \"purported\" in this sentence.",
+        "understood without being said": "\"understood without being said\" is a real meaning, but it matches \"tacit\", not \"purported\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2149",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"nominal\" mean in this sentence? At the reception desk, the fee was nominal.",
+      "options": [
+        "existing in name more than reality",
+        "meaningful in content",
+        "understood without being said",
+        "weak or uncertain"
+      ],
+      "answer": "existing in name more than reality",
+      "explanation": "In this sentence, \"nominal\" means \"existing in name more than reality\": At the reception desk, the fee was nominal.",
+      "rationales": {
+        "existing in name more than reality": "In this sentence, \"nominal\" means \"existing in name more than reality\": At the reception desk, the fee was nominal.",
+        "meaningful in content": "\"meaningful in content\" is a real meaning, but it matches \"substantive\", not \"nominal\" in this sentence.",
+        "understood without being said": "\"understood without being said\" is a real meaning, but it matches \"tacit\", not \"nominal\" in this sentence.",
+        "weak or uncertain": "\"weak or uncertain\" is a real meaning, but it matches \"tenuous\", not \"nominal\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2150",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"substantive\" mean in this sentence? The class note says that the revision was substantive.",
+      "options": [
+        "meaningful in content",
+        "understood without being said",
+        "weak or uncertain",
+        "too minor to matter legally or practically"
+      ],
+      "answer": "meaningful in content",
+      "explanation": "In this sentence, \"substantive\" means \"meaningful in content\": The class note says that the revision was substantive.",
+      "rationales": {
+        "meaningful in content": "In this sentence, \"substantive\" means \"meaningful in content\": The class note says that the revision was substantive.",
+        "understood without being said": "\"understood without being said\" is a real meaning, but it matches \"tacit\", not \"substantive\" in this sentence.",
+        "weak or uncertain": "\"weak or uncertain\" is a real meaning, but it matches \"tenuous\", not \"substantive\" in this sentence.",
+        "too minor to matter legally or practically": "\"too minor to matter legally or practically\" is a real meaning, but it matches \"de minimis\", not \"substantive\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2151",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"tacit\" mean in this sentence? In the practice text, the agreement included a tacit exception.",
+      "options": [
+        "understood without being said",
+        "weak or uncertain",
+        "too minor to matter legally or practically",
+        "important to the issue"
+      ],
+      "answer": "understood without being said",
+      "explanation": "In this sentence, \"tacit\" means \"understood without being said\": In the practice text, the agreement included a tacit exception.",
+      "rationales": {
+        "understood without being said": "In this sentence, \"tacit\" means \"understood without being said\": In the practice text, the agreement included a tacit exception.",
+        "weak or uncertain": "\"weak or uncertain\" is a real meaning, but it matches \"tenuous\", not \"tacit\" in this sentence.",
+        "too minor to matter legally or practically": "\"too minor to matter legally or practically\" is a real meaning, but it matches \"de minimis\", not \"tacit\" in this sentence.",
+        "important to the issue": "\"important to the issue\" is a real meaning, but it matches \"material\", not \"tacit\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2152",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"tenuous\" mean in this sentence? During the lesson, the connection is tenuous.",
+      "options": [
+        "weak or uncertain",
+        "too minor to matter legally or practically",
+        "important to the issue",
+        "limited rather than absolute"
+      ],
+      "answer": "weak or uncertain",
+      "explanation": "In this sentence, \"tenuous\" means \"weak or uncertain\": During the lesson, the connection is tenuous.",
+      "rationales": {
+        "weak or uncertain": "In this sentence, \"tenuous\" means \"weak or uncertain\": During the lesson, the connection is tenuous.",
+        "too minor to matter legally or practically": "\"too minor to matter legally or practically\" is a real meaning, but it matches \"de minimis\", not \"tenuous\" in this sentence.",
+        "important to the issue": "\"important to the issue\" is a real meaning, but it matches \"material\", not \"tenuous\" in this sentence.",
+        "limited rather than absolute": "\"limited rather than absolute\" is a real meaning, but it matches \"qualified\", not \"tenuous\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2153",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"de minimis\" mean in this sentence? The first example says that the effect was de minimis.",
+      "options": [
+        "too minor to matter legally or practically",
+        "important to the issue",
+        "limited rather than absolute",
+        "temporary and open to revision"
+      ],
+      "answer": "too minor to matter legally or practically",
+      "explanation": "In this sentence, \"de minimis\" means \"too minor to matter legally or practically\": The first example says that the effect was de minimis.",
+      "rationales": {
+        "too minor to matter legally or practically": "In this sentence, \"de minimis\" means \"too minor to matter legally or practically\": The first example says that the effect was de minimis.",
+        "important to the issue": "\"important to the issue\" is a real meaning, but it matches \"material\", not \"de minimis\" in this sentence.",
+        "limited rather than absolute": "\"limited rather than absolute\" is a real meaning, but it matches \"qualified\", not \"de minimis\" in this sentence.",
+        "temporary and open to revision": "\"temporary and open to revision\" is a real meaning, but it matches \"provisional\", not \"de minimis\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2154",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"material\" mean in this sentence? On the notice board, the omission was material.",
+      "options": [
+        "important to the issue",
+        "limited rather than absolute",
+        "temporary and open to revision",
+        "absolute and without exceptions"
+      ],
+      "answer": "important to the issue",
+      "explanation": "In this sentence, \"material\" means \"important to the issue\": On the notice board, the omission was material.",
+      "rationales": {
+        "important to the issue": "In this sentence, \"material\" means \"important to the issue\": On the notice board, the omission was material.",
+        "limited rather than absolute": "\"limited rather than absolute\" is a real meaning, but it matches \"qualified\", not \"material\" in this sentence.",
+        "temporary and open to revision": "\"temporary and open to revision\" is a real meaning, but it matches \"provisional\", not \"material\" in this sentence.",
+        "absolute and without exceptions": "\"absolute and without exceptions\" is a real meaning, but it matches \"categorical\", not \"material\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2155",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"qualified\" mean in this sentence? The guide gives this sentence: The endorsement was qualified.",
+      "options": [
+        "limited rather than absolute",
+        "temporary and open to revision",
+        "absolute and without exceptions",
+        "mixed or uncertain"
+      ],
+      "answer": "limited rather than absolute",
+      "explanation": "In this sentence, \"qualified\" means \"limited rather than absolute\": The guide gives this sentence: The endorsement was qualified.",
+      "rationales": {
+        "limited rather than absolute": "In this sentence, \"qualified\" means \"limited rather than absolute\": The guide gives this sentence: The endorsement was qualified.",
+        "temporary and open to revision": "\"temporary and open to revision\" is a real meaning, but it matches \"provisional\", not \"qualified\" in this sentence.",
+        "absolute and without exceptions": "\"absolute and without exceptions\" is a real meaning, but it matches \"categorical\", not \"qualified\" in this sentence.",
+        "mixed or uncertain": "\"mixed or uncertain\" is a real meaning, but it matches \"ambivalent\", not \"qualified\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2156",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"provisional\" mean in this sentence? In the office email, the finding remains provisional.",
+      "options": [
+        "temporary and open to revision",
+        "absolute and without exceptions",
+        "mixed or uncertain",
+        "directly relevant"
+      ],
+      "answer": "temporary and open to revision",
+      "explanation": "In this sentence, \"provisional\" means \"temporary and open to revision\": In the office email, the finding remains provisional.",
+      "rationales": {
+        "temporary and open to revision": "In this sentence, \"provisional\" means \"temporary and open to revision\": In the office email, the finding remains provisional.",
+        "absolute and without exceptions": "\"absolute and without exceptions\" is a real meaning, but it matches \"categorical\", not \"provisional\" in this sentence.",
+        "mixed or uncertain": "\"mixed or uncertain\" is a real meaning, but it matches \"ambivalent\", not \"provisional\" in this sentence.",
+        "directly relevant": "\"directly relevant\" is a real meaning, but it matches \"germane\", not \"provisional\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2157",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"categorical\" mean in this sentence? The reading passage says that the denial was categorical.",
+      "options": [
+        "absolute and without exceptions",
+        "mixed or uncertain",
+        "directly relevant",
+        "depending on something else"
+      ],
+      "answer": "absolute and without exceptions",
+      "explanation": "In this sentence, \"categorical\" means \"absolute and without exceptions\": The reading passage says that the denial was categorical.",
+      "rationales": {
+        "absolute and without exceptions": "In this sentence, \"categorical\" means \"absolute and without exceptions\": The reading passage says that the denial was categorical.",
+        "mixed or uncertain": "\"mixed or uncertain\" is a real meaning, but it matches \"ambivalent\", not \"categorical\" in this sentence.",
+        "directly relevant": "\"directly relevant\" is a real meaning, but it matches \"germane\", not \"categorical\" in this sentence.",
+        "depending on something else": "\"depending on something else\" is a real meaning, but it matches \"conditional\", not \"categorical\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2158",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"ambivalent\" mean in this sentence? At the start of the activity, the response was ambivalent.",
+      "options": [
+        "mixed or uncertain",
+        "directly relevant",
+        "depending on something else",
+        "so small it is not important"
+      ],
+      "answer": "mixed or uncertain",
+      "explanation": "In this sentence, \"ambivalent\" means \"mixed or uncertain\": At the start of the activity, the response was ambivalent.",
+      "rationales": {
+        "mixed or uncertain": "In this sentence, \"ambivalent\" means \"mixed or uncertain\": At the start of the activity, the response was ambivalent.",
+        "directly relevant": "\"directly relevant\" is a real meaning, but it matches \"germane\", not \"ambivalent\" in this sentence.",
+        "depending on something else": "\"depending on something else\" is a real meaning, but it matches \"conditional\", not \"ambivalent\" in this sentence.",
+        "so small it is not important": "\"so small it is not important\" is a real meaning, but it matches \"negligible\", not \"ambivalent\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2159",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"germane\" mean in this sentence? The second example says that the germane fact was timing.",
+      "options": [
+        "directly relevant",
+        "depending on something else",
+        "so small it is not important",
+        "stated but possibly not real"
+      ],
+      "answer": "directly relevant",
+      "explanation": "In this sentence, \"germane\" means \"directly relevant\": The second example says that the germane fact was timing.",
+      "rationales": {
+        "directly relevant": "In this sentence, \"germane\" means \"directly relevant\": The second example says that the germane fact was timing.",
+        "depending on something else": "\"depending on something else\" is a real meaning, but it matches \"conditional\", not \"germane\" in this sentence.",
+        "so small it is not important": "\"so small it is not important\" is a real meaning, but it matches \"negligible\", not \"germane\" in this sentence.",
+        "stated but possibly not real": "\"stated but possibly not real\" is a real meaning, but it matches \"ostensible\", not \"germane\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-nuance-c2-2160",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"conditional\" mean in this sentence? On the class website, the result is conditional on compliance.",
+      "options": [
+        "depending on something else",
+        "so small it is not important",
+        "stated but possibly not real",
+        "not clearly one thing or the other"
+      ],
+      "answer": "depending on something else",
+      "explanation": "In this sentence, \"conditional\" means \"depending on something else\": On the class website, the result is conditional on compliance.",
+      "rationales": {
+        "depending on something else": "In this sentence, \"conditional\" means \"depending on something else\": On the class website, the result is conditional on compliance.",
+        "so small it is not important": "\"so small it is not important\" is a real meaning, but it matches \"negligible\", not \"conditional\" in this sentence.",
+        "stated but possibly not real": "\"stated but possibly not real\" is a real meaning, but it matches \"ostensible\", not \"conditional\" in this sentence.",
+        "not clearly one thing or the other": "\"not clearly one thing or the other\" is a real meaning, but it matches \"equivocal\", not \"conditional\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

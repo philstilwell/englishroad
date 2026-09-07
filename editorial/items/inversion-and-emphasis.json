@@ -1,0 +1,2766 @@
+{
+  "topic": "Inversion and emphasis",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1681",
+      "level": "A1",
+      "setupText": "Use so or neither with the helper verb before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "I am hungry, and so is my little sister.",
+        "I am hungry, and so do my little sister.",
+        "I am hungry, and so is my little sister is.",
+        "I am hungry, and so my little sister."
+      ],
+      "answer": "I am hungry, and so is my little sister.",
+      "explanation": "\"So is my little sister\" matches \"am hungry\": use a form of be before the second subject. The correct sentence is: I am hungry, and so is my little sister.",
+      "rationales": {
+        "I am hungry, and so is my little sister.": "\"So is my little sister\" matches \"am hungry\": use a form of be before the second subject. The correct sentence is: I am hungry, and so is my little sister.",
+        "I am hungry, and so do my little sister.": "\"Do\" does not match the be verb in \"am hungry.\"",
+        "I am hungry, and so is my little sister is.": "This repeats the be verb after the second subject.",
+        "I am hungry, and so my little sister.": "The second part is missing the helper verb before the subject."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1682",
+      "level": "A1",
+      "setupText": "Match the helper verb in the first part, then put it before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "Lena likes soccer, and so does Omar.",
+        "Lena likes soccer, and so do Omar.",
+        "Lena likes soccer, and so is Omar.",
+        "Lena likes soccer, and so does Omar likes soccer."
+      ],
+      "answer": "Lena likes soccer, and so does Omar.",
+      "explanation": "\"So does Omar\" matches the simple present verb \"likes\" for one other person. The correct sentence is: Lena likes soccer, and so does Omar.",
+      "rationales": {
+        "Lena likes soccer, and so does Omar.": "\"So does Omar\" matches the simple present verb \"likes\" for one other person. The correct sentence is: Lena likes soccer, and so does Omar.",
+        "Lena likes soccer, and so do Omar.": "\"Do\" does not match the singular subject \"Omar.\"",
+        "Lena likes soccer, and so is Omar.": "\"Is\" does not match the action verb \"likes.\"",
+        "Lena likes soccer, and so does Omar likes soccer.": "After \"does,\" the main verb should not keep the -s ending."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1683",
+      "level": "A1",
+      "setupText": "For this emphasis pattern, the helper verb comes before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "We can swim, and so can the twins.",
+        "We can swim, and so do the twins.",
+        "We can swim, and so can the twins can.",
+        "We can swim, and so can the twins swims."
+      ],
+      "answer": "We can swim, and so can the twins.",
+      "explanation": "\"So can the twins\" repeats the modal helper \"can\" before the second subject. The correct sentence is: We can swim, and so can the twins.",
+      "rationales": {
+        "We can swim, and so can the twins.": "\"So can the twins\" repeats the modal helper \"can\" before the second subject. The correct sentence is: We can swim, and so can the twins.",
+        "We can swim, and so do the twins.": "\"Do\" does not match the modal helper \"can.\"",
+        "We can swim, and so can the twins can.": "The helper \"can\" is repeated after the second subject.",
+        "We can swim, and so can the twins swims.": "A verb after \"can\" should use the base form, not an -s form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1684",
+      "level": "A1",
+      "setupText": "The second part should use the same helper verb pattern as the first part.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "The bus was late, and so was the train.",
+        "The bus was late, and so were the train.",
+        "The bus was late, and so did the train.",
+        "The bus was late, and so was the train was."
+      ],
+      "answer": "The bus was late, and so was the train.",
+      "explanation": "\"So was the train\" uses the past be verb before the second subject. The correct sentence is: The bus was late, and so was the train.",
+      "rationales": {
+        "The bus was late, and so was the train.": "\"So was the train\" uses the past be verb before the second subject. The correct sentence is: The bus was late, and so was the train.",
+        "The bus was late, and so were the train.": "\"Were\" does not match the singular subject \"the train.\"",
+        "The bus was late, and so did the train.": "\"Did\" does not match the be verb \"was.\"",
+        "The bus was late, and so was the train was.": "This repeats the past be verb after the second subject."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1685",
+      "level": "A1",
+      "setupText": "Use so or neither with the helper verb before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "My socks are wet, and so are my shoes.",
+        "My socks are wet, and so is my shoes.",
+        "My socks are wet, and so do my shoes.",
+        "My socks are wet, and so are my shoes are."
+      ],
+      "answer": "My socks are wet, and so are my shoes.",
+      "explanation": "\"So are my shoes\" uses the plural be verb before the second subject. The correct sentence is: My socks are wet, and so are my shoes.",
+      "rationales": {
+        "My socks are wet, and so are my shoes.": "\"So are my shoes\" uses the plural be verb before the second subject. The correct sentence is: My socks are wet, and so are my shoes.",
+        "My socks are wet, and so is my shoes.": "\"Is\" does not match the plural subject \"my shoes.\"",
+        "My socks are wet, and so do my shoes.": "\"Do\" does not match the be verb \"are.\"",
+        "My socks are wet, and so are my shoes are.": "This repeats the be verb after the second subject."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1686",
+      "level": "A1",
+      "setupText": "Match the helper verb in the first part, then put it before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "Dad will call, and so will Mom.",
+        "Dad will call, and so does Mom.",
+        "Dad will call, and so will Mom calls.",
+        "Dad will call, and so will Mom will."
+      ],
+      "answer": "Dad will call, and so will Mom.",
+      "explanation": "\"So will Mom\" repeats the future helper \"will\" before the second subject. The correct sentence is: Dad will call, and so will Mom.",
+      "rationales": {
+        "Dad will call, and so will Mom.": "\"So will Mom\" repeats the future helper \"will\" before the second subject. The correct sentence is: Dad will call, and so will Mom.",
+        "Dad will call, and so does Mom.": "\"Does\" does not match the future helper \"will.\"",
+        "Dad will call, and so will Mom calls.": "A verb after \"will\" should use the base form, not an -s form.",
+        "Dad will call, and so will Mom will.": "The helper \"will\" is repeated after the second subject."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1687",
+      "level": "A1",
+      "setupText": "For this emphasis pattern, the helper verb comes before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "Maya has a red bag, and so does Ben.",
+        "Maya has a red bag, and so do Ben.",
+        "Maya has a red bag, and so is Ben.",
+        "Maya has a red bag, and so does Ben has one."
+      ],
+      "answer": "Maya has a red bag, and so does Ben.",
+      "explanation": "\"So does Ben\" is the correct simple-present helper for another person having the same thing. The correct sentence is: Maya has a red bag, and so does Ben.",
+      "rationales": {
+        "Maya has a red bag, and so does Ben.": "\"So does Ben\" is the correct simple-present helper for another person having the same thing. The correct sentence is: Maya has a red bag, and so does Ben.",
+        "Maya has a red bag, and so do Ben.": "\"Do\" does not match the singular subject \"Ben.\"",
+        "Maya has a red bag, and so is Ben.": "\"Is\" does not match the verb \"has.\"",
+        "Maya has a red bag, and so does Ben has one.": "After \"does,\" the verb should be \"have,\" not \"has.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1688",
+      "level": "A1",
+      "setupText": "The second part should use the same helper verb pattern as the first part.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "I like music, and so does my brother.",
+        "I like music, and so do my brother.",
+        "I like music, and so is my brother.",
+        "I like music, and so does my brother likes music."
+      ],
+      "answer": "I like music, and so does my brother.",
+      "explanation": "\"So does my brother\" uses \"does\" because the second subject is one person. The correct sentence is: I like music, and so does my brother.",
+      "rationales": {
+        "I like music, and so does my brother.": "\"So does my brother\" uses \"does\" because the second subject is one person. The correct sentence is: I like music, and so does my brother.",
+        "I like music, and so do my brother.": "\"Do\" does not match the singular subject \"my brother.\"",
+        "I like music, and so is my brother.": "\"Is\" does not match the action verb \"like.\"",
+        "I like music, and so does my brother likes music.": "After \"does,\" the main verb should not keep the -s ending."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1689",
+      "level": "A1",
+      "setupText": "Use so or neither with the helper verb before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "The children were quiet, and so was the teacher.",
+        "The children were quiet, and so were the teacher.",
+        "The children were quiet, and so did the teacher.",
+        "The children were quiet, and so was the teacher was."
+      ],
+      "answer": "The children were quiet, and so was the teacher.",
+      "explanation": "\"So was the teacher\" uses a singular be verb for the second subject. The correct sentence is: The children were quiet, and so was the teacher.",
+      "rationales": {
+        "The children were quiet, and so was the teacher.": "\"So was the teacher\" uses a singular be verb for the second subject. The correct sentence is: The children were quiet, and so was the teacher.",
+        "The children were quiet, and so were the teacher.": "\"Were\" does not match the singular subject \"the teacher.\"",
+        "The children were quiet, and so did the teacher.": "\"Did\" does not match the be verb in \"were quiet.\"",
+        "The children were quiet, and so was the teacher was.": "This repeats the be verb after the second subject."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1690",
+      "level": "A1",
+      "setupText": "Match the helper verb in the first part, then put it before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "Nora can read the sign, and so can I.",
+        "Nora can read the sign, and so do I.",
+        "Nora can read the sign, and so can I can.",
+        "Nora can read the sign, and so can I reads it."
+      ],
+      "answer": "Nora can read the sign, and so can I.",
+      "explanation": "\"So can I\" repeats the modal helper \"can\" before the second subject. The correct sentence is: Nora can read the sign, and so can I.",
+      "rationales": {
+        "Nora can read the sign, and so can I.": "\"So can I\" repeats the modal helper \"can\" before the second subject. The correct sentence is: Nora can read the sign, and so can I.",
+        "Nora can read the sign, and so do I.": "\"Do\" does not match the modal helper \"can.\"",
+        "Nora can read the sign, and so can I can.": "The helper \"can\" is repeated after the second subject.",
+        "Nora can read the sign, and so can I reads it.": "A verb after \"can\" should use the base form, not an -s form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1691",
+      "level": "A1",
+      "setupText": "For this emphasis pattern, the helper verb comes before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "I am not sleepy, and neither is Kai.",
+        "I am not sleepy, and neither Kai is.",
+        "I am not sleepy, and neither does Kai.",
+        "I am not sleepy, and neither is Kai is."
+      ],
+      "answer": "I am not sleepy, and neither is Kai.",
+      "explanation": "\"Neither is Kai\" matches the negative be sentence \"I am not sleepy.\" The correct sentence is: I am not sleepy, and neither is Kai.",
+      "rationales": {
+        "I am not sleepy, and neither is Kai.": "\"Neither is Kai\" matches the negative be sentence \"I am not sleepy.\" The correct sentence is: I am not sleepy, and neither is Kai.",
+        "I am not sleepy, and neither Kai is.": "With \"neither,\" the be verb should come before the subject.",
+        "I am not sleepy, and neither does Kai.": "\"Does\" does not match the be verb in \"am not sleepy.\"",
+        "I am not sleepy, and neither is Kai is.": "This repeats the be verb after the second subject."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1692",
+      "level": "A1",
+      "setupText": "The second part should use the same helper verb pattern as the first part.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "The door is open, and so is the window.",
+        "The door is open, and so are the window.",
+        "The door is open, and so does the window.",
+        "The door is open, and so is the window is."
+      ],
+      "answer": "The door is open, and so is the window.",
+      "explanation": "\"So is the window\" uses the singular be verb before the second subject. The correct sentence is: The door is open, and so is the window.",
+      "rationales": {
+        "The door is open, and so is the window.": "\"So is the window\" uses the singular be verb before the second subject. The correct sentence is: The door is open, and so is the window.",
+        "The door is open, and so are the window.": "\"Are\" does not match the singular subject \"the window.\"",
+        "The door is open, and so does the window.": "\"Does\" does not match the be verb \"is.\"",
+        "The door is open, and so is the window is.": "This repeats the be verb after the second subject."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1693",
+      "level": "A1",
+      "setupText": "Use so or neither with the helper verb before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "Emma went home, and so did Luis.",
+        "Emma went home, and so was Luis.",
+        "Emma went home, and so do Luis.",
+        "Emma went home, and so did Luis went home."
+      ],
+      "answer": "Emma went home, and so did Luis.",
+      "explanation": "\"So did Luis\" uses the past helper \"did\" for the same past action. The correct sentence is: Emma went home, and so did Luis.",
+      "rationales": {
+        "Emma went home, and so did Luis.": "\"So did Luis\" uses the past helper \"did\" for the same past action. The correct sentence is: Emma went home, and so did Luis.",
+        "Emma went home, and so was Luis.": "\"Was\" does not match the past action verb \"went.\"",
+        "Emma went home, and so do Luis.": "\"Do\" does not match the singular subject or the past time.",
+        "Emma went home, and so did Luis went home.": "After \"did,\" the main verb should be the base form \"go.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1694",
+      "level": "A1",
+      "setupText": "Match the helper verb in the first part, then put it before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "The soup smells good, and so does the bread.",
+        "The soup smells good, and so do the bread.",
+        "The soup smells good, and so is the bread.",
+        "The soup smells good, and so does the bread smells good."
+      ],
+      "answer": "The soup smells good, and so does the bread.",
+      "explanation": "\"So does the bread\" uses \"does\" for a simple present verb with one second subject. The correct sentence is: The soup smells good, and so does the bread.",
+      "rationales": {
+        "The soup smells good, and so does the bread.": "\"So does the bread\" uses \"does\" for a simple present verb with one second subject. The correct sentence is: The soup smells good, and so does the bread.",
+        "The soup smells good, and so do the bread.": "\"Do\" does not match the singular subject \"the bread.\"",
+        "The soup smells good, and so is the bread.": "\"Is\" does not match the action-like verb \"smells.\"",
+        "The soup smells good, and so does the bread smells good.": "After \"does,\" the main verb should not keep the -s ending."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1695",
+      "level": "A1",
+      "setupText": "For this emphasis pattern, the helper verb comes before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "Tom cannot come today, and neither can I.",
+        "Tom cannot come today, and neither do I.",
+        "Tom cannot come today, and neither I can.",
+        "Tom cannot come today, and neither can I can."
+      ],
+      "answer": "Tom cannot come today, and neither can I.",
+      "explanation": "\"Neither can I\" repeats the modal helper \"can\" for the same negative idea. The correct sentence is: Tom cannot come today, and neither can I.",
+      "rationales": {
+        "Tom cannot come today, and neither can I.": "\"Neither can I\" repeats the modal helper \"can\" for the same negative idea. The correct sentence is: Tom cannot come today, and neither can I.",
+        "Tom cannot come today, and neither do I.": "\"Do\" does not match the modal helper \"can.\"",
+        "Tom cannot come today, and neither I can.": "With \"neither,\" the helper verb should come before the subject.",
+        "Tom cannot come today, and neither can I can.": "The helper \"can\" is repeated after the second subject."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1696",
+      "level": "A1",
+      "setupText": "The second part should use the same helper verb pattern as the first part.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "Our room has two windows, and so does their room.",
+        "Our room has two windows, and so do their room.",
+        "Our room has two windows, and so is their room.",
+        "Our room has two windows, and so does their room has two."
+      ],
+      "answer": "Our room has two windows, and so does their room.",
+      "explanation": "\"So does their room\" uses \"does\" because the second subject is one room. The correct sentence is: Our room has two windows, and so does their room.",
+      "rationales": {
+        "Our room has two windows, and so does their room.": "\"So does their room\" uses \"does\" because the second subject is one room. The correct sentence is: Our room has two windows, and so does their room.",
+        "Our room has two windows, and so do their room.": "\"Do\" does not match the singular subject \"their room.\"",
+        "Our room has two windows, and so is their room.": "\"Is\" does not match the verb \"has.\"",
+        "Our room has two windows, and so does their room has two.": "After \"does,\" the verb should be \"have,\" not \"has.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1697",
+      "level": "A1",
+      "setupText": "Use so or neither with the helper verb before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "Sam is laughing, and so are the girls.",
+        "Sam is laughing, and so is the girls.",
+        "Sam is laughing, and so do the girls.",
+        "Sam is laughing, and so are the girls are."
+      ],
+      "answer": "Sam is laughing, and so are the girls.",
+      "explanation": "\"So are the girls\" uses the plural be verb for the second subject. The correct sentence is: Sam is laughing, and so are the girls.",
+      "rationales": {
+        "Sam is laughing, and so are the girls.": "\"So are the girls\" uses the plural be verb for the second subject. The correct sentence is: Sam is laughing, and so are the girls.",
+        "Sam is laughing, and so is the girls.": "\"Is\" does not match the plural subject \"the girls.\"",
+        "Sam is laughing, and so do the girls.": "\"Do\" does not match the be verb in \"is laughing.\"",
+        "Sam is laughing, and so are the girls are.": "This repeats the be verb after the second subject."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1698",
+      "level": "A1",
+      "setupText": "Match the helper verb in the first part, then put it before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "The baby slept well, and so did Grandma.",
+        "The baby slept well, and so does Grandma.",
+        "The baby slept well, and so was Grandma.",
+        "The baby slept well, and so did Grandma slept well."
+      ],
+      "answer": "The baby slept well, and so did Grandma.",
+      "explanation": "\"So did Grandma\" uses the past helper \"did\" for the same past action. The correct sentence is: The baby slept well, and so did Grandma.",
+      "rationales": {
+        "The baby slept well, and so did Grandma.": "\"So did Grandma\" uses the past helper \"did\" for the same past action. The correct sentence is: The baby slept well, and so did Grandma.",
+        "The baby slept well, and so does Grandma.": "\"Does\" does not match the past time of \"slept.\"",
+        "The baby slept well, and so was Grandma.": "\"Was\" does not match the action verb \"slept.\"",
+        "The baby slept well, and so did Grandma slept well.": "After \"did,\" the main verb should be the base form \"sleep.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1699",
+      "level": "A1",
+      "setupText": "For this emphasis pattern, the helper verb comes before the second subject.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "I need a pencil, and so does Aya.",
+        "I need a pencil, and so do Aya.",
+        "I need a pencil, and so is Aya.",
+        "I need a pencil, and so does Aya needs a pencil."
+      ],
+      "answer": "I need a pencil, and so does Aya.",
+      "explanation": "\"So does Aya\" uses \"does\" because the second subject is one person. The correct sentence is: I need a pencil, and so does Aya.",
+      "rationales": {
+        "I need a pencil, and so does Aya.": "\"So does Aya\" uses \"does\" because the second subject is one person. The correct sentence is: I need a pencil, and so does Aya.",
+        "I need a pencil, and so do Aya.": "\"Do\" does not match the singular subject \"Aya.\"",
+        "I need a pencil, and so is Aya.": "\"Is\" does not match the action verb \"need.\"",
+        "I need a pencil, and so does Aya needs a pencil.": "After \"does,\" the main verb should not keep the -s ending."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a1-1700",
+      "level": "A1",
+      "setupText": "The second part should use the same helper verb pattern as the first part.",
+      "taskText": "Choose the sentence with correct word order.",
+      "options": [
+        "The shop opens early, and so does the cafe.",
+        "The shop opens early, and so do the cafe.",
+        "The shop opens early, and so is the cafe.",
+        "The shop opens early, and so does the cafe opens early."
+      ],
+      "answer": "The shop opens early, and so does the cafe.",
+      "explanation": "\"So does the cafe\" uses \"does\" for a simple present verb with one second subject. The correct sentence is: The shop opens early, and so does the cafe.",
+      "rationales": {
+        "The shop opens early, and so does the cafe.": "\"So does the cafe\" uses \"does\" for a simple present verb with one second subject. The correct sentence is: The shop opens early, and so does the cafe.",
+        "The shop opens early, and so do the cafe.": "\"Do\" does not match the singular subject \"the cafe.\"",
+        "The shop opens early, and so is the cafe.": "\"Is\" does not match the action verb \"opens.\"",
+        "The shop opens early, and so does the cafe opens early.": "After \"does,\" the main verb should not keep the -s ending."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1701",
+      "level": "A2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Here comes the airport bus.",
+        "Here the airport bus comes.",
+        "Here does come the airport bus.",
+        "Here comes it the airport bus."
+      ],
+      "answer": "Here comes the airport bus.",
+      "explanation": "With \"here comes,\" the verb comes before the noun phrase when something is arriving now. The correct sentence is: Here comes the airport bus.",
+      "rationales": {
+        "Here comes the airport bus.": "With \"here comes,\" the verb comes before the noun phrase when something is arriving now. The correct sentence is: Here comes the airport bus.",
+        "Here the airport bus comes.": "This order is possible in a different style, but it is not the natural arrival phrase \"Here comes\" plus a noun.",
+        "Here does come the airport bus.": "\"Does\" is not used in this simple arrival inversion.",
+        "Here comes it the airport bus.": "\"It\" cannot be added before the noun phrase."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1702",
+      "level": "A2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "There goes our last train.",
+        "There our last train goes.",
+        "There does go our last train.",
+        "There goes it our last train."
+      ],
+      "answer": "There goes our last train.",
+      "explanation": "With \"there goes,\" the verb comes before the noun phrase to point out something leaving. The correct sentence is: There goes our last train.",
+      "rationales": {
+        "There goes our last train.": "With \"there goes,\" the verb comes before the noun phrase to point out something leaving. The correct sentence is: There goes our last train.",
+        "There our last train goes.": "This is understandable but it loses the natural emphatic order \"There goes\" plus a noun.",
+        "There does go our last train.": "\"Does\" is not used in this simple pointing expression.",
+        "There goes it our last train.": "The pronoun \"it\" cannot appear before the noun phrase."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1703",
+      "level": "A2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "I did send the receipt this morning.",
+        "I did sent the receipt this morning.",
+        "I do sent the receipt this morning.",
+        "I sent did the receipt this morning."
+      ],
+      "answer": "I did send the receipt this morning.",
+      "explanation": "\"Did\" before the base verb adds emphasis: the speaker really sent it. The correct sentence is: I did send the receipt this morning.",
+      "rationales": {
+        "I did send the receipt this morning.": "\"Did\" before the base verb adds emphasis: the speaker really sent it. The correct sentence is: I did send the receipt this morning.",
+        "I did sent the receipt this morning.": "After \"did,\" use the base verb \"send,\" not \"sent.\"",
+        "I do sent the receipt this morning.": "\"Do\" does not fit the past-time meaning here.",
+        "I sent did the receipt this morning.": "\"Did\" belongs before the main verb."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1704",
+      "level": "A2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "She does know the answer.",
+        "She does knows the answer.",
+        "She do know the answer.",
+        "She knows does the answer."
+      ],
+      "answer": "She does know the answer.",
+      "explanation": "\"Does know\" emphasizes that the statement is true for one present-tense subject. The correct sentence is: She does know the answer.",
+      "rationales": {
+        "She does know the answer.": "\"Does know\" emphasizes that the statement is true for one present-tense subject. The correct sentence is: She does know the answer.",
+        "She does knows the answer.": "After \"does,\" the main verb stays in the base form: \"know.\"",
+        "She do know the answer.": "\"Do\" does not match the singular subject \"she.\"",
+        "She knows does the answer.": "\"Does\" cannot be placed after the main verb."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1705",
+      "level": "A2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It was Carlos who called the clinic.",
+        "It Carlos was who called the clinic.",
+        "Was Carlos it who called the clinic.",
+        "It was Carlos which called the clinic."
+      ],
+      "answer": "It was Carlos who called the clinic.",
+      "explanation": "This cleft sentence emphasizes the person who made the call. The correct sentence is: It was Carlos who called the clinic.",
+      "rationales": {
+        "It was Carlos who called the clinic.": "This cleft sentence emphasizes the person who made the call. The correct sentence is: It was Carlos who called the clinic.",
+        "It Carlos was who called the clinic.": "\"It was Carlos who called the clinic\" is the correct cleft order.",
+        "Was Carlos it who called the clinic.": "This changes the sentence into an unnatural question-like order.",
+        "It was Carlos which called the clinic.": "Use \"who\" for a person, not \"which.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1706",
+      "level": "A2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It is this form that needs a signature.",
+        "It this form is that needs a signature.",
+        "This is form that needs a signature.",
+        "It is this form needs that a signature."
+      ],
+      "answer": "It is this form that needs a signature.",
+      "explanation": "The cleft pattern \"It is this form that needs a signature\" emphasizes exactly which form needs attention. The correct sentence is: It is this form that needs a signature.",
+      "rationales": {
+        "It is this form that needs a signature.": "The cleft pattern \"It is this form that needs a signature\" emphasizes exactly which form needs attention. The correct sentence is: It is this form that needs a signature.",
+        "It this form is that needs a signature.": "The verb \"is\" belongs after \"it.\"",
+        "This is form that needs a signature.": "The phrase needs \"this form,\" not \"this is form.\"",
+        "It is this form needs that a signature.": "\"That\" should introduce the clause after the emphasized noun phrase."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1707",
+      "level": "A2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Rina is tired, and so am I.",
+        "Rina is tired, and so do I.",
+        "Rina is tired, and so I am.",
+        "Rina is tired, and so I do."
+      ],
+      "answer": "Rina is tired, and so am I.",
+      "explanation": "\"So am I\" uses the same be verb to say the second person is tired too. The correct sentence is: Rina is tired, and so am I.",
+      "rationales": {
+        "Rina is tired, and so am I.": "\"So am I\" uses the same be verb to say the second person is tired too. The correct sentence is: Rina is tired, and so am I.",
+        "Rina is tired, and so do I.": "\"Do\" does not match the be verb \"is.\"",
+        "Rina is tired, and so I am.": "This order is not the usual short agreement pattern after \"so.\"",
+        "Rina is tired, and so I do.": "\"Do\" does not fit a sentence built with \"be.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1708",
+      "level": "A2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The office is not open, and neither is the cafe.",
+        "The office is not open, and neither the cafe is.",
+        "The office is not open, and neither does the cafe.",
+        "The office is not open, and so is the cafe."
+      ],
+      "answer": "The office is not open, and neither is the cafe.",
+      "explanation": "\"Neither is\" plus a subject matches a negative sentence with the be verb. The correct sentence is: The office is not open, and neither is the cafe.",
+      "rationales": {
+        "The office is not open, and neither is the cafe.": "\"Neither is\" plus a subject matches a negative sentence with the be verb. The correct sentence is: The office is not open, and neither is the cafe.",
+        "The office is not open, and neither the cafe is.": "After \"neither,\" the verb comes before the subject.",
+        "The office is not open, and neither does the cafe.": "\"Does\" does not match the be verb \"is.\"",
+        "The office is not open, and so is the cafe.": "\"So\" continues a positive idea, not a negative one."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1709",
+      "level": "A2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Only Rina saw the notice.",
+        "Rina only saw the notice.",
+        "Rina saw only the notice.",
+        "Only saw Rina the notice."
+      ],
+      "answer": "Only Rina saw the notice.",
+      "explanation": "\"Only\" before the subject means Rina, and no one else, saw it. The correct sentence is: Only Rina saw the notice.",
+      "rationales": {
+        "Only Rina saw the notice.": "\"Only\" before the subject means Rina, and no one else, saw it. The correct sentence is: Only Rina saw the notice.",
+        "Rina only saw the notice.": "This can mean she only saw it and did nothing else, so it shifts the emphasis.",
+        "Rina saw only the notice.": "This means she saw the notice and nothing else.",
+        "Only saw Rina the notice.": "This uses unnatural word order for this level."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1710",
+      "level": "A2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "I want tea, not coffee.",
+        "I want not tea, coffee.",
+        "Not I want tea, coffee.",
+        "I not want tea, not coffee."
+      ],
+      "answer": "I want tea, not coffee.",
+      "explanation": "Putting \"not coffee\" after the comma clearly contrasts the wanted drink with the rejected one. The correct sentence is: I want tea, not coffee.",
+      "rationales": {
+        "I want tea, not coffee.": "Putting \"not coffee\" after the comma clearly contrasts the wanted drink with the rejected one. The correct sentence is: I want tea, not coffee.",
+        "I want not tea, coffee.": "This order makes the contrast unclear and unnatural.",
+        "Not I want tea, coffee.": "\"Not\" cannot be placed before the subject this way.",
+        "I not want tea, not coffee.": "Simple present negatives need \"do not\" if the main verb is negated."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1711",
+      "level": "A2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "This is my seat, not yours.",
+        "This my seat is, not yours.",
+        "This is my seat, no yours.",
+        "This is not my seat, yours."
+      ],
+      "answer": "This is my seat, not yours.",
+      "explanation": "The contrast at the end emphasizes whose seat it is. The correct sentence is: This is my seat, not yours.",
+      "rationales": {
+        "This is my seat, not yours.": "The contrast at the end emphasizes whose seat it is. The correct sentence is: This is my seat, not yours.",
+        "This my seat is, not yours.": "The verb \"is\" belongs after \"this.\"",
+        "This is my seat, no yours.": "Use \"not yours\" for contrast, not \"no yours.\"",
+        "This is not my seat, yours.": "This says the opposite of the intended meaning."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1712",
+      "level": "A2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The blue folder is here, not the red one.",
+        "The blue folder here is, not the red one.",
+        "The blue folder is here, no the red one.",
+        "The blue folder is not here, the red one."
+      ],
+      "answer": "The blue folder is here, not the red one.",
+      "explanation": "The final contrast makes clear which folder is present. The correct sentence is: The blue folder is here, not the red one.",
+      "rationales": {
+        "The blue folder is here, not the red one.": "The final contrast makes clear which folder is present. The correct sentence is: The blue folder is here, not the red one.",
+        "The blue folder here is, not the red one.": "The normal order is \"folder is here.\"",
+        "The blue folder is here, no the red one.": "Use \"not the red one\" after a contrast.",
+        "The blue folder is not here, the red one.": "This reverses the main meaning."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1713",
+      "level": "A2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "What I need is a quiet room.",
+        "What I need it is a quiet room.",
+        "What need I is a quiet room.",
+        "What I need are a quiet room."
+      ],
+      "answer": "What I need is a quiet room.",
+      "explanation": "The pattern \"What I need is\" plus a noun phrase emphasizes the thing needed. The correct sentence is: What I need is a quiet room.",
+      "rationales": {
+        "What I need is a quiet room.": "The pattern \"What I need is\" plus a noun phrase emphasizes the thing needed. The correct sentence is: What I need is a quiet room.",
+        "What I need it is a quiet room.": "\"It\" is not used inside this pattern.",
+        "What need I is a quiet room.": "The clause after \"what\" uses normal subject-verb order.",
+        "What I need are a quiet room.": "Use \"is\" because \"a quiet room\" is singular."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1714",
+      "level": "A2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The answer is on page two, not page three.",
+        "The answer on page two is, not page three.",
+        "The answer is page two, not on page three.",
+        "Not page three, the answer is on page two is."
+      ],
+      "answer": "The answer is on page two, not page three.",
+      "explanation": "The contrast at the end highlights the correct page. The correct sentence is: The answer is on page two, not page three.",
+      "rationales": {
+        "The answer is on page two, not page three.": "The contrast at the end highlights the correct page. The correct sentence is: The answer is on page two, not page three.",
+        "The answer on page two is, not page three.": "The be verb should come before the location: \"is on page two.\"",
+        "The answer is page two, not on page three.": "Use \"on\" with a page number.",
+        "Not page three, the answer is on page two is.": "The final \"is\" is extra and ungrammatical."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1715",
+      "level": "A2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "I can help, and so can Omar.",
+        "I can help, and so Omar can.",
+        "I can help, and so does Omar.",
+        "I can help, and so can Omar can."
+      ],
+      "answer": "I can help, and so can Omar.",
+      "explanation": "\"So can Omar\" repeats the modal \"can\" with inverted word order. The correct sentence is: I can help, and so can Omar.",
+      "rationales": {
+        "I can help, and so can Omar.": "\"So can Omar\" repeats the modal \"can\" with inverted word order. The correct sentence is: I can help, and so can Omar.",
+        "I can help, and so Omar can.": "The short agreement pattern puts \"can\" before the subject.",
+        "I can help, and so does Omar.": "\"Does\" does not match the modal \"can.\"",
+        "I can help, and so can Omar can.": "The modal is repeated unnecessarily after the subject."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1716",
+      "level": "A2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "I do want to join the class.",
+        "I do wants to join the class.",
+        "I am want to join the class.",
+        "I want do to join the class."
+      ],
+      "answer": "I do want to join the class.",
+      "explanation": "\"Do want\" emphasizes that the speaker really wants to join. The correct sentence is: I do want to join the class.",
+      "rationales": {
+        "I do want to join the class.": "\"Do want\" emphasizes that the speaker really wants to join. The correct sentence is: I do want to join the class.",
+        "I do wants to join the class.": "After \"do,\" use the base verb \"want.\"",
+        "I am want to join the class.": "\"Am\" cannot be used before the main verb \"want\" in this sentence.",
+        "I want do to join the class.": "\"Do\" belongs before the main verb when it adds emphasis."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1717",
+      "level": "A2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The lesson starts now, not later.",
+        "The lesson now starts, not later.",
+        "The lesson starts not now, later.",
+        "The lesson does starts now, not later."
+      ],
+      "answer": "The lesson starts now, not later.",
+      "explanation": "\"Not later\" emphasizes the contrast with \"now.\" The correct sentence is: The lesson starts now, not later.",
+      "rationales": {
+        "The lesson starts now, not later.": "\"Not later\" emphasizes the contrast with \"now.\" The correct sentence is: The lesson starts now, not later.",
+        "The lesson now starts, not later.": "This order is less natural for the simple time contrast.",
+        "The lesson starts not now, later.": "This reverses the intended contrast.",
+        "The lesson does starts now, not later.": "After \"does,\" the verb would be \"start\"; here \"does\" is unnecessary."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1718",
+      "level": "A2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Here is the key you lost.",
+        "Here the key is you lost.",
+        "Here does the key is you lost.",
+        "Here is it the key you lost."
+      ],
+      "answer": "Here is the key you lost.",
+      "explanation": "\"Here is\" plus a noun phrase presents something to the listener in natural word order. The correct sentence is: Here is the key you lost.",
+      "rationales": {
+        "Here is the key you lost.": "\"Here is\" plus a noun phrase presents something to the listener in natural word order. The correct sentence is: Here is the key you lost.",
+        "Here the key is you lost.": "The relative clause \"you lost\" should follow \"the key\" after the main phrase.",
+        "Here does the key is you lost.": "\"Does\" cannot combine with \"is\" this way.",
+        "Here is it the key you lost.": "Do not add \"it\" before the noun phrase."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1719",
+      "level": "A2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It was the rain that delayed the game.",
+        "It the rain was that delayed the game.",
+        "The rain it was that delayed the game.",
+        "It was the rain which delayed by the game."
+      ],
+      "answer": "It was the rain that delayed the game.",
+      "explanation": "The cleft sentence emphasizes the cause of the delay. The correct sentence is: It was the rain that delayed the game.",
+      "rationales": {
+        "It was the rain that delayed the game.": "The cleft sentence emphasizes the cause of the delay. The correct sentence is: It was the rain that delayed the game.",
+        "It the rain was that delayed the game.": "The correct cleft order is \"It was the rain that delayed the game.\"",
+        "The rain it was that delayed the game.": "This mixes two structures and sounds unnatural.",
+        "It was the rain which delayed by the game.": "The phrase \"delayed by the game\" changes the grammar and meaning."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-a2-1720",
+      "level": "A2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The visitors did arrive before noon.",
+        "The visitors did arrived before noon.",
+        "The visitors does arrive before noon.",
+        "Did the visitors arrived before noon."
+      ],
+      "answer": "The visitors did arrive before noon.",
+      "explanation": "\"Did arrive\" emphasizes that the arrival really happened in the past. The correct sentence is: The visitors did arrive before noon.",
+      "rationales": {
+        "The visitors did arrive before noon.": "\"Did arrive\" emphasizes that the arrival really happened in the past. The correct sentence is: The visitors did arrive before noon.",
+        "The visitors did arrived before noon.": "After \"did,\" use the base verb \"arrive.\"",
+        "The visitors does arrive before noon.": "\"Does\" does not match a plural subject or past time.",
+        "Did the visitors arrived before noon.": "This is a question form, and \"arrived\" should become \"arrive\" after \"did.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1721",
+      "level": "B1",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Not only was the room cold, but it was also noisy.",
+        "Not only the room was cold, but it was also noisy.",
+        "Not only was cold the room, but it was also noisy.",
+        "Not only did the room cold, but it was also noisy."
+      ],
+      "answer": "Not only was the room cold, but it was also noisy.",
+      "explanation": "\"Not only\" before a be-verb clause requires inversion: \"was the room.\" The correct sentence is: Not only was the room cold, but it was also noisy.",
+      "rationales": {
+        "Not only was the room cold, but it was also noisy.": "\"Not only\" before a be-verb clause requires inversion: \"was the room.\" The correct sentence is: Not only was the room cold, but it was also noisy.",
+        "Not only the room was cold, but it was also noisy.": "After initial \"not only,\" put the be verb before the subject.",
+        "Not only was cold the room, but it was also noisy.": "The adjective should stay after the subject complement pattern: \"the room cold.\"",
+        "Not only did the room cold, but it was also noisy.": "\"Did\" cannot replace the be verb \"was\" here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1722",
+      "level": "B1",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Only then did the clerk notice the missing date.",
+        "Only then the clerk noticed the missing date.",
+        "Only then noticed the clerk the missing date.",
+        "Only then did the clerk noticed the missing date."
+      ],
+      "answer": "Only then did the clerk notice the missing date.",
+      "explanation": "After \"only then,\" use inversion with \"did\" before the subject. The correct sentence is: Only then did the clerk notice the missing date.",
+      "rationales": {
+        "Only then did the clerk notice the missing date.": "After \"only then,\" use inversion with \"did\" before the subject. The correct sentence is: Only then did the clerk notice the missing date.",
+        "Only then the clerk noticed the missing date.": "The verb must come before the subject after \"only then.\"",
+        "Only then noticed the clerk the missing date.": "Use \"did\" plus the base verb, not direct inversion with a lexical verb.",
+        "Only then did the clerk noticed the missing date.": "After \"did,\" use \"notice,\" not \"noticed.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1723",
+      "level": "B1",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Here are the forms you asked for.",
+        "Here is the forms you asked for.",
+        "Here the forms are you asked for.",
+        "Here do the forms are you asked for."
+      ],
+      "answer": "Here are the forms you asked for.",
+      "explanation": "\"Here are\" matches the plural noun \"forms\" and presents them naturally. The correct sentence is: Here are the forms you asked for.",
+      "rationales": {
+        "Here are the forms you asked for.": "\"Here are\" matches the plural noun \"forms\" and presents them naturally. The correct sentence is: Here are the forms you asked for.",
+        "Here is the forms you asked for.": "\"Is\" does not agree with plural \"forms.\"",
+        "Here the forms are you asked for.": "This breaks the natural presentation phrase and the relative clause.",
+        "Here do the forms are you asked for.": "\"Do\" cannot be added before \"are.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1724",
+      "level": "B1",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The manager did apologize for the delay.",
+        "The manager did apologized for the delay.",
+        "The manager was apologize for the delay.",
+        "The manager apologized did for the delay."
+      ],
+      "answer": "The manager did apologize for the delay.",
+      "explanation": "\"Did apologize\" emphasizes that the apology really happened. The correct sentence is: The manager did apologize for the delay.",
+      "rationales": {
+        "The manager did apologize for the delay.": "\"Did apologize\" emphasizes that the apology really happened. The correct sentence is: The manager did apologize for the delay.",
+        "The manager did apologized for the delay.": "After \"did,\" use the base verb \"apologize.\"",
+        "The manager was apologize for the delay.": "\"Was\" cannot stand before the base verb in this sentence.",
+        "The manager apologized did for the delay.": "\"Did\" belongs before the main verb when it adds emphasis."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1725",
+      "level": "B1",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "What surprised me was the extra fee.",
+        "What surprised me it was the extra fee.",
+        "What did surprise me was the extra fee.",
+        "What surprised me were the extra fee."
+      ],
+      "answer": "What surprised me was the extra fee.",
+      "explanation": "This pseudo-cleft emphasizes the surprising thing by placing it after \"was.\" The correct sentence is: What surprised me was the extra fee.",
+      "rationales": {
+        "What surprised me was the extra fee.": "This pseudo-cleft emphasizes the surprising thing by placing it after \"was.\" The correct sentence is: What surprised me was the extra fee.",
+        "What surprised me it was the extra fee.": "\"It\" is not used in this pseudo-cleft pattern.",
+        "What did surprise me was the extra fee.": "This can be grammatical in a question-like style, but it is not the intended statement pattern here.",
+        "What surprised me were the extra fee.": "Use \"was\" because \"the extra fee\" is singular."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1726",
+      "level": "B1",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It was the evening class that filled first.",
+        "It the evening class was that filled first.",
+        "It was the evening class which it filled first.",
+        "Was the evening class it that filled first."
+      ],
+      "answer": "It was the evening class that filled first.",
+      "explanation": "The cleft sentence emphasizes which class filled first. The correct sentence is: It was the evening class that filled first.",
+      "rationales": {
+        "It was the evening class that filled first.": "The cleft sentence emphasizes which class filled first. The correct sentence is: It was the evening class that filled first.",
+        "It the evening class was that filled first.": "The verb \"was\" comes right after \"it.\"",
+        "It was the evening class which it filled first.": "The extra \"it\" after \"which\" is ungrammatical.",
+        "Was the evening class it that filled first.": "This is question-like order, not a statement."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1727",
+      "level": "B1",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The first report was useful, and so was the second.",
+        "The first report was useful, and so did the second.",
+        "The first report was useful, and so the second was.",
+        "The first report was useful, and so was useful the second."
+      ],
+      "answer": "The first report was useful, and so was the second.",
+      "explanation": "\"So was the second\" repeats the be verb for the second report. The correct sentence is: The first report was useful, and so was the second.",
+      "rationales": {
+        "The first report was useful, and so was the second.": "\"So was the second\" repeats the be verb for the second report. The correct sentence is: The first report was useful, and so was the second.",
+        "The first report was useful, and so did the second.": "\"Did\" does not match the be verb \"was.\"",
+        "The first report was useful, and so the second was.": "This order is not the usual short agreement pattern after \"so.\"",
+        "The first report was useful, and so was useful the second.": "The adjective should not be repeated before the subject this way."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1728",
+      "level": "B1",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "I have not seen the file, and neither has Lena.",
+        "I have not seen the file, and neither Lena has.",
+        "I have not seen the file, and neither does Lena.",
+        "I have not seen the file, and so has Lena."
+      ],
+      "answer": "I have not seen the file, and neither has Lena.",
+      "explanation": "\"Neither has Lena\" matches the present perfect helper \"have/has\" in a negative sentence. The correct sentence is: I have not seen the file, and neither has Lena.",
+      "rationales": {
+        "I have not seen the file, and neither has Lena.": "\"Neither has Lena\" matches the present perfect helper \"have/has\" in a negative sentence. The correct sentence is: I have not seen the file, and neither has Lena.",
+        "I have not seen the file, and neither Lena has.": "After \"neither,\" put the helper before the subject.",
+        "I have not seen the file, and neither does Lena.": "\"Does\" does not match the present perfect form.",
+        "I have not seen the file, and so has Lena.": "\"So\" continues a positive idea; this sentence is negative."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1729",
+      "level": "B1",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The tutor did explain the rule clearly.",
+        "The tutor did explained the rule clearly.",
+        "The tutor was explain the rule clearly.",
+        "The tutor explained did the rule clearly."
+      ],
+      "answer": "The tutor did explain the rule clearly.",
+      "explanation": "\"Did explain\" emphasizes the truth of the past action. The correct sentence is: The tutor did explain the rule clearly.",
+      "rationales": {
+        "The tutor did explain the rule clearly.": "\"Did explain\" emphasizes the truth of the past action. The correct sentence is: The tutor did explain the rule clearly.",
+        "The tutor did explained the rule clearly.": "After \"did,\" the main verb must be \"explain.\"",
+        "The tutor was explain the rule clearly.": "\"Was\" is not used before the base verb here.",
+        "The tutor explained did the rule clearly.": "\"Did\" cannot be placed after the main verb."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1730",
+      "level": "B1",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Only after lunch did the printer start working.",
+        "Only after lunch the printer started working.",
+        "Only after lunch started the printer working.",
+        "Only after lunch did the printer started working."
+      ],
+      "answer": "Only after lunch did the printer start working.",
+      "explanation": "A fronted \"only after\" phrase requires inversion with \"did.\" The correct sentence is: Only after lunch did the printer start working.",
+      "rationales": {
+        "Only after lunch did the printer start working.": "A fronted \"only after\" phrase requires inversion with \"did.\" The correct sentence is: Only after lunch did the printer start working.",
+        "Only after lunch the printer started working.": "Use inversion after \"only after\" at the beginning.",
+        "Only after lunch started the printer working.": "This direct verb-subject order is not natural here.",
+        "Only after lunch did the printer started working.": "After \"did,\" use \"start,\" not \"started.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1731",
+      "level": "B1",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "There stood an old clock beside the door.",
+        "There an old clock stood beside the door.",
+        "There did stood an old clock beside the door.",
+        "There was stood an old clock beside the door."
+      ],
+      "answer": "There stood an old clock beside the door.",
+      "explanation": "\"There stood\" plus a noun phrase is a descriptive inversion that highlights location before the subject. The correct sentence is: There stood an old clock beside the door.",
+      "rationales": {
+        "There stood an old clock beside the door.": "\"There stood\" plus a noun phrase is a descriptive inversion that highlights location before the subject. The correct sentence is: There stood an old clock beside the door.",
+        "There an old clock stood beside the door.": "This loses the literary/descriptive inversion being tested.",
+        "There did stood an old clock beside the door.": "Do not use \"did\" with the past verb \"stood\" in this inversion.",
+        "There was stood an old clock beside the door.": "\"Was stood\" is not the intended active descriptive form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1732",
+      "level": "B1",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The online form is simple, and so is the paper one.",
+        "The online form is simple, and so does the paper one.",
+        "The online form is simple, and so the paper one is.",
+        "The online form is simple, and neither is the paper one."
+      ],
+      "answer": "The online form is simple, and so is the paper one.",
+      "explanation": "\"So is the paper one\" repeats the be verb for another positive statement. The correct sentence is: The online form is simple, and so is the paper one.",
+      "rationales": {
+        "The online form is simple, and so is the paper one.": "\"So is the paper one\" repeats the be verb for another positive statement. The correct sentence is: The online form is simple, and so is the paper one.",
+        "The online form is simple, and so does the paper one.": "\"Does\" does not match \"is.\"",
+        "The online form is simple, and so the paper one is.": "This is not the normal short agreement order after \"so.\"",
+        "The online form is simple, and neither is the paper one.": "\"Neither\" follows a negative statement, not a positive one."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1733",
+      "level": "B1",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "What the class needs is more speaking practice.",
+        "What the class needs it is more speaking practice.",
+        "What does the class need is more speaking practice.",
+        "What the class need is more speaking practice."
+      ],
+      "answer": "What the class needs is more speaking practice.",
+      "explanation": "The \"what\" clause plus \"is\" pattern emphasizes the needed thing. The correct sentence is: What the class needs is more speaking practice.",
+      "rationales": {
+        "What the class needs is more speaking practice.": "The \"what\" clause plus \"is\" pattern emphasizes the needed thing. The correct sentence is: What the class needs is more speaking practice.",
+        "What the class needs it is more speaking practice.": "Do not add \"it\" inside this pattern.",
+        "What does the class need is more speaking practice.": "That is a question form mixed into a statement.",
+        "What the class need is more speaking practice.": "\"Class\" is singular here, so use \"needs.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1734",
+      "level": "B1",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It was in June that the policy changed.",
+        "It in June was that the policy changed.",
+        "In June it was that changed the policy.",
+        "It was June when changed the policy."
+      ],
+      "answer": "It was in June that the policy changed.",
+      "explanation": "This cleft sentence emphasizes the time of the change. The correct sentence is: It was in June that the policy changed.",
+      "rationales": {
+        "It was in June that the policy changed.": "This cleft sentence emphasizes the time of the change. The correct sentence is: It was in June that the policy changed.",
+        "It in June was that the policy changed.": "The verb \"was\" belongs after \"it.\"",
+        "In June it was that changed the policy.": "This changes the meaning by making the policy the object.",
+        "It was June when changed the policy.": "The clause needs a subject: \"the policy changed.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1735",
+      "level": "B1",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Never did the receptionist raise her voice.",
+        "Never the receptionist raised her voice.",
+        "Never raised the receptionist her voice.",
+        "Never did the receptionist raised her voice."
+      ],
+      "answer": "Never did the receptionist raise her voice.",
+      "explanation": "Initial \"never\" requires inversion with \"did\" in this emphatic sentence. The correct sentence is: Never did the receptionist raise her voice.",
+      "rationales": {
+        "Never did the receptionist raise her voice.": "Initial \"never\" requires inversion with \"did\" in this emphatic sentence. The correct sentence is: Never did the receptionist raise her voice.",
+        "Never the receptionist raised her voice.": "After initial \"never,\" use auxiliary inversion.",
+        "Never raised the receptionist her voice.": "Modern English normally uses \"did\" plus the base verb here.",
+        "Never did the receptionist raised her voice.": "After \"did,\" use \"raise,\" not \"raised.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1736",
+      "level": "B1",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The students can use the lab, and so can the tutors.",
+        "The students can use the lab, and so do the tutors.",
+        "The students can use the lab, and so the tutors can.",
+        "The students can use the lab, and neither can the tutors."
+      ],
+      "answer": "The students can use the lab, and so can the tutors.",
+      "explanation": "\"So can the tutors\" repeats the modal \"can\" with inverted order. The correct sentence is: The students can use the lab, and so can the tutors.",
+      "rationales": {
+        "The students can use the lab, and so can the tutors.": "\"So can the tutors\" repeats the modal \"can\" with inverted order. The correct sentence is: The students can use the lab, and so can the tutors.",
+        "The students can use the lab, and so do the tutors.": "\"Do\" does not match the modal \"can.\"",
+        "The students can use the lab, and so the tutors can.": "The short agreement pattern puts the modal before the subject.",
+        "The students can use the lab, and neither can the tutors.": "\"Neither\" would continue a negative idea, but the first clause is positive."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1737",
+      "level": "B1",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The director did approve the revised schedule.",
+        "The director did approved the revised schedule.",
+        "The director approved did the revised schedule.",
+        "The director was approve the revised schedule."
+      ],
+      "answer": "The director did approve the revised schedule.",
+      "explanation": "\"Did approve\" corrects or emphasizes a past action. The correct sentence is: The director did approve the revised schedule.",
+      "rationales": {
+        "The director did approve the revised schedule.": "\"Did approve\" corrects or emphasizes a past action. The correct sentence is: The director did approve the revised schedule.",
+        "The director did approved the revised schedule.": "After \"did,\" use the base verb \"approve.\"",
+        "The director approved did the revised schedule.": "\"Did\" cannot sit after the main verb.",
+        "The director was approve the revised schedule.": "\"Was approve\" is not a grammatical verb form here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1738",
+      "level": "B1",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Only in the final paragraph does the author mention cost.",
+        "Only in the final paragraph the author mentions cost.",
+        "Only in the final paragraph mentions the author cost.",
+        "Only in the final paragraph does the author mentions cost."
+      ],
+      "answer": "Only in the final paragraph does the author mention cost.",
+      "explanation": "After an initial \"only in\" phrase, use inversion with \"does\" before the subject. The correct sentence is: Only in the final paragraph does the author mention cost.",
+      "rationales": {
+        "Only in the final paragraph does the author mention cost.": "After an initial \"only in\" phrase, use inversion with \"does\" before the subject. The correct sentence is: Only in the final paragraph does the author mention cost.",
+        "Only in the final paragraph the author mentions cost.": "The fronted \"only\" phrase requires auxiliary inversion.",
+        "Only in the final paragraph mentions the author cost.": "Use \"does\" plus the base verb rather than direct inversion here.",
+        "Only in the final paragraph does the author mentions cost.": "After \"does,\" use \"mention,\" not \"mentions.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1739",
+      "level": "B1",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It was the new password that caused the problem.",
+        "It the new password was that caused the problem.",
+        "It was the new password caused that the problem.",
+        "The new password it was caused the problem."
+      ],
+      "answer": "It was the new password that caused the problem.",
+      "explanation": "The cleft pattern emphasizes the cause of the problem. The correct sentence is: It was the new password that caused the problem.",
+      "rationales": {
+        "It was the new password that caused the problem.": "The cleft pattern emphasizes the cause of the problem. The correct sentence is: It was the new password that caused the problem.",
+        "It the new password was that caused the problem.": "The correct order is \"It was the new password that caused the problem.\"",
+        "It was the new password caused that the problem.": "\"That\" should introduce the clause before the verb \"caused.\"",
+        "The new password it was caused the problem.": "This mixes a cleft with a regular statement."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b1-1740",
+      "level": "B1",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Neither answer is correct, and neither is the example.",
+        "Neither answer is correct, and so is the example.",
+        "Neither answer is correct, and neither the example is.",
+        "Neither answer is correct, and neither does the example."
+      ],
+      "answer": "Neither answer is correct, and neither is the example.",
+      "explanation": "The second \"neither is\" phrase continues the negative meaning with the be verb. The correct sentence is: Neither answer is correct, and neither is the example.",
+      "rationales": {
+        "Neither answer is correct, and neither is the example.": "The second \"neither is\" phrase continues the negative meaning with the be verb. The correct sentence is: Neither answer is correct, and neither is the example.",
+        "Neither answer is correct, and so is the example.": "\"So\" would continue a positive idea, not a negative one.",
+        "Neither answer is correct, and neither the example is.": "After \"neither,\" put the be verb before the subject.",
+        "Neither answer is correct, and neither does the example.": "\"Does\" does not match the be verb \"is.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1741",
+      "level": "B2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Not until the final interview did the panel discuss salary.",
+        "Not until the final interview the panel discussed salary.",
+        "Not until the final interview discussed the panel salary.",
+        "Not until the final interview did the panel discussed salary."
+      ],
+      "answer": "Not until the final interview did the panel discuss salary.",
+      "explanation": "A fronted \"not until\" phrase requires inversion with \"did.\" The correct sentence is: Not until the final interview did the panel discuss salary.",
+      "rationales": {
+        "Not until the final interview did the panel discuss salary.": "A fronted \"not until\" phrase requires inversion with \"did.\" The correct sentence is: Not until the final interview did the panel discuss salary.",
+        "Not until the final interview the panel discussed salary.": "After \"not until\" at the front, the auxiliary comes before the subject.",
+        "Not until the final interview discussed the panel salary.": "Use \"did\" plus the base verb in this structure.",
+        "Not until the final interview did the panel discussed salary.": "After \"did,\" use \"discuss,\" not \"discussed.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1742",
+      "level": "B2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Rarely does a single survey answer that question.",
+        "Rarely a single survey answers that question.",
+        "Rarely answers a single survey that question.",
+        "Rarely does a single survey answers that question."
+      ],
+      "answer": "Rarely does a single survey answer that question.",
+      "explanation": "Initial \"rarely\" triggers inversion with \"does\" in formal emphatic style. The correct sentence is: Rarely does a single survey answer that question.",
+      "rationales": {
+        "Rarely does a single survey answer that question.": "Initial \"rarely\" triggers inversion with \"does\" in formal emphatic style. The correct sentence is: Rarely does a single survey answer that question.",
+        "Rarely a single survey answers that question.": "After initial \"rarely,\" use auxiliary inversion.",
+        "Rarely answers a single survey that question.": "This direct inversion sounds unnatural with a normal action verb.",
+        "Rarely does a single survey answers that question.": "After \"does,\" use the base verb \"answer.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1743",
+      "level": "B2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "What the report does not explain is why costs rose.",
+        "What does the report not explain is why costs rose.",
+        "What the report does not explain it is why costs rose.",
+        "What the report does not explains is why costs rose."
+      ],
+      "answer": "What the report does not explain is why costs rose.",
+      "explanation": "The pseudo-cleft emphasizes the missing explanation. The correct sentence is: What the report does not explain is why costs rose.",
+      "rationales": {
+        "What the report does not explain is why costs rose.": "The pseudo-cleft emphasizes the missing explanation. The correct sentence is: What the report does not explain is why costs rose.",
+        "What does the report not explain is why costs rose.": "This mixes question order with a statement.",
+        "What the report does not explain it is why costs rose.": "Do not add \"it\" before \"is\" in this pattern.",
+        "What the report does not explains is why costs rose.": "After \"does,\" use \"explain,\" not \"explains.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1744",
+      "level": "B2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It was the late notice, not the fee, that upset applicants.",
+        "It was the late notice, not the fee, which applicants upset.",
+        "It the late notice was, not the fee, that upset applicants.",
+        "It was the late notice, not the fee, upset that applicants."
+      ],
+      "answer": "It was the late notice, not the fee, that upset applicants.",
+      "explanation": "The cleft sentence emphasizes one cause and contrasts it with another. The correct sentence is: It was the late notice, not the fee, that upset applicants.",
+      "rationales": {
+        "It was the late notice, not the fee, that upset applicants.": "The cleft sentence emphasizes one cause and contrasts it with another. The correct sentence is: It was the late notice, not the fee, that upset applicants.",
+        "It was the late notice, not the fee, which applicants upset.": "This reverses who upset whom.",
+        "It the late notice was, not the fee, that upset applicants.": "The verb \"was\" must follow \"it.\"",
+        "It was the late notice, not the fee, upset that applicants.": "\"That\" should introduce the clause before \"upset.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1745",
+      "level": "B2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Only by comparing both forms can students see the difference.",
+        "Only by comparing both forms students can see the difference.",
+        "Only by compare both forms can students see the difference.",
+        "Only comparing both forms can students by see the difference."
+      ],
+      "answer": "Only by comparing both forms can students see the difference.",
+      "explanation": "After \"only by\" at the front, the modal \"can\" comes before the subject. The correct sentence is: Only by comparing both forms can students see the difference.",
+      "rationales": {
+        "Only by comparing both forms can students see the difference.": "After \"only by\" at the front, the modal \"can\" comes before the subject. The correct sentence is: Only by comparing both forms can students see the difference.",
+        "Only by comparing both forms students can see the difference.": "The modal should come before the subject after the fronted \"only\" phrase.",
+        "Only by compare both forms can students see the difference.": "After \"by,\" use the -ing form \"comparing.\"",
+        "Only comparing both forms can students by see the difference.": "The phrase \"by comparing\" must stay together."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1746",
+      "level": "B2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The deadline changed, and so did the submission rules.",
+        "The deadline changed, and so were the submission rules.",
+        "The deadline changed, and so the submission rules did.",
+        "The deadline changed, and so did the submission rules changed."
+      ],
+      "answer": "The deadline changed, and so did the submission rules.",
+      "explanation": "\"So did\" plus a subject matches a past simple verb and avoids repeating \"changed.\" The correct sentence is: The deadline changed, and so did the submission rules.",
+      "rationales": {
+        "The deadline changed, and so did the submission rules.": "\"So did\" plus a subject matches a past simple verb and avoids repeating \"changed.\" The correct sentence is: The deadline changed, and so did the submission rules.",
+        "The deadline changed, and so were the submission rules.": "\"Were\" does not match the action verb \"changed.\"",
+        "The deadline changed, and so the submission rules did.": "This is not the normal short agreement order after \"so.\"",
+        "The deadline changed, and so did the submission rules changed.": "After \"did,\" do not repeat the past-tense verb."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1747",
+      "level": "B2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Under no circumstances should passwords be shared.",
+        "Under no circumstances passwords should be shared.",
+        "Under no circumstances should be passwords shared.",
+        "Under no circumstances do passwords should be shared."
+      ],
+      "answer": "Under no circumstances should passwords be shared.",
+      "explanation": "The negative fronted phrase \"under no circumstances\" requires inversion with \"should.\" The correct sentence is: Under no circumstances should passwords be shared.",
+      "rationales": {
+        "Under no circumstances should passwords be shared.": "The negative fronted phrase \"under no circumstances\" requires inversion with \"should.\" The correct sentence is: Under no circumstances should passwords be shared.",
+        "Under no circumstances passwords should be shared.": "The modal \"should\" must come before the subject.",
+        "Under no circumstances should be passwords shared.": "The subject should come right after the modal: \"should passwords be shared.\"",
+        "Under no circumstances do passwords should be shared.": "Do not combine \"do\" with the modal \"should.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1748",
+      "level": "B2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The refund was approved only after the manager checked the receipt.",
+        "The refund was approved only after checked the manager the receipt.",
+        "Only after the manager checked the receipt the refund was approved.",
+        "The refund only was approved after the manager checked the receipt."
+      ],
+      "answer": "The refund was approved only after the manager checked the receipt.",
+      "explanation": "Placing \"only after\" at the end emphasizes the condition without requiring inversion. The correct sentence is: The refund was approved only after the manager checked the receipt.",
+      "rationales": {
+        "The refund was approved only after the manager checked the receipt.": "Placing \"only after\" at the end emphasizes the condition without requiring inversion. The correct sentence is: The refund was approved only after the manager checked the receipt.",
+        "The refund was approved only after checked the manager the receipt.": "The time clause needs normal subject-verb order.",
+        "Only after the manager checked the receipt the refund was approved.": "With \"only after\" at the front, this would need inversion: \"was the refund approved.\"",
+        "The refund only was approved after the manager checked the receipt.": "Putting \"only\" before \"was\" gives an awkward and unclear emphasis."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1749",
+      "level": "B2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It is the wording of the question that makes it difficult.",
+        "It the wording of the question is that makes it difficult.",
+        "The wording of the question it is that makes difficult.",
+        "It is the wording of the question makes that it difficult."
+      ],
+      "answer": "It is the wording of the question that makes it difficult.",
+      "explanation": "The cleft sentence emphasizes the source of the difficulty. The correct sentence is: It is the wording of the question that makes it difficult.",
+      "rationales": {
+        "It is the wording of the question that makes it difficult.": "The cleft sentence emphasizes the source of the difficulty. The correct sentence is: It is the wording of the question that makes it difficult.",
+        "It the wording of the question is that makes it difficult.": "The verb \"is\" must follow \"it.\"",
+        "The wording of the question it is that makes difficult.": "This mixes a normal subject with the cleft structure.",
+        "It is the wording of the question makes that it difficult.": "\"That\" should introduce the clause before \"makes.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1750",
+      "level": "B2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Little did the team realize how much time the review would take.",
+        "Little the team realized how much time the review would take.",
+        "Little realized the team how much time the review would take.",
+        "Little did the team realized how much time the review would take."
+      ],
+      "answer": "Little did the team realize how much time the review would take.",
+      "explanation": "Initial \"little\" with this meaning triggers inversion with \"did.\" The correct sentence is: Little did the team realize how much time the review would take.",
+      "rationales": {
+        "Little did the team realize how much time the review would take.": "Initial \"little\" with this meaning triggers inversion with \"did.\" The correct sentence is: Little did the team realize how much time the review would take.",
+        "Little the team realized how much time the review would take.": "Use auxiliary inversion after initial \"little.\"",
+        "Little realized the team how much time the review would take.": "Modern English normally uses \"did\" plus the base verb here.",
+        "Little did the team realized how much time the review would take.": "After \"did,\" use \"realize,\" not \"realized.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1751",
+      "level": "B2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "What matters most is whether the evidence is reliable.",
+        "What does matter most is whether the evidence is reliable.",
+        "What matters most it is whether the evidence is reliable.",
+        "What matter most is whether the evidence is reliable."
+      ],
+      "answer": "What matters most is whether the evidence is reliable.",
+      "explanation": "The \"what\" clause plus \"is\" pattern focuses attention on the central issue. The correct sentence is: What matters most is whether the evidence is reliable.",
+      "rationales": {
+        "What matters most is whether the evidence is reliable.": "The \"what\" clause plus \"is\" pattern focuses attention on the central issue. The correct sentence is: What matters most is whether the evidence is reliable.",
+        "What does matter most is whether the evidence is reliable.": "This mixes a question-like form into a statement.",
+        "What matters most it is whether the evidence is reliable.": "Do not add \"it\" before \"is\" in this pattern.",
+        "What matter most is whether the evidence is reliable.": "\"What matters\" needs the singular verb form here."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1752",
+      "level": "B2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Only when the data were checked did the pattern become clear.",
+        "Only when the data were checked the pattern became clear.",
+        "Only when were the data checked did the pattern become clear.",
+        "Only when the data were checked did the pattern became clear."
+      ],
+      "answer": "Only when the data were checked did the pattern become clear.",
+      "explanation": "Initial \"only when\" requires inversion in the main clause. The correct sentence is: Only when the data were checked did the pattern become clear.",
+      "rationales": {
+        "Only when the data were checked did the pattern become clear.": "Initial \"only when\" requires inversion in the main clause. The correct sentence is: Only when the data were checked did the pattern become clear.",
+        "Only when the data were checked the pattern became clear.": "The main clause needs \"did\" before the subject.",
+        "Only when were the data checked did the pattern become clear.": "The \"when\" clause itself keeps normal order here.",
+        "Only when the data were checked did the pattern became clear.": "After \"did,\" use \"become,\" not \"became.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1753",
+      "level": "B2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Not only has attendance improved, but complaints have fallen.",
+        "Not only attendance has improved, but complaints have fallen.",
+        "Not only has attendance improve, but complaints have fallen.",
+        "Not only did attendance has improved, but complaints have fallen."
+      ],
+      "answer": "Not only has attendance improved, but complaints have fallen.",
+      "explanation": "Initial \"not only\" with present perfect requires \"has\" before the subject. The correct sentence is: Not only has attendance improved, but complaints have fallen.",
+      "rationales": {
+        "Not only has attendance improved, but complaints have fallen.": "Initial \"not only\" with present perfect requires \"has\" before the subject. The correct sentence is: Not only has attendance improved, but complaints have fallen.",
+        "Not only attendance has improved, but complaints have fallen.": "After initial \"not only,\" put the helper before the subject.",
+        "Not only has attendance improve, but complaints have fallen.": "Present perfect needs the past participle \"improved.\"",
+        "Not only did attendance has improved, but complaints have fallen.": "Do not combine \"did\" with present perfect \"has improved.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1754",
+      "level": "B2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "In the appendix, the author does acknowledge one limitation.",
+        "In the appendix, the author does acknowledges one limitation.",
+        "In the appendix, does the author acknowledge one limitation.",
+        "In the appendix, the author is acknowledge one limitation."
+      ],
+      "answer": "In the appendix, the author does acknowledge one limitation.",
+      "explanation": "\"Does acknowledge\" emphasizes that the author really includes the limitation. The correct sentence is: In the appendix, the author does acknowledge one limitation.",
+      "rationales": {
+        "In the appendix, the author does acknowledge one limitation.": "\"Does acknowledge\" emphasizes that the author really includes the limitation. The correct sentence is: In the appendix, the author does acknowledge one limitation.",
+        "In the appendix, the author does acknowledges one limitation.": "After \"does,\" use the base verb \"acknowledge.\"",
+        "In the appendix, does the author acknowledge one limitation.": "That is question order unless it follows a negative or limiting fronted phrase.",
+        "In the appendix, the author is acknowledge one limitation.": "\"Is acknowledge\" is not the right verb form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1755",
+      "level": "B2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "So confusing was the notice that several parents called the office.",
+        "So confusing the notice was that several parents called the office.",
+        "So was confusing the notice that several parents called the office.",
+        "So confusing did the notice was that several parents called the office."
+      ],
+      "answer": "So confusing was the notice that several parents called the office.",
+      "explanation": "The fronted adjective \"so confusing\" can trigger inversion for emphasis. The correct sentence is: So confusing was the notice that several parents called the office.",
+      "rationales": {
+        "So confusing was the notice that several parents called the office.": "The fronted adjective \"so confusing\" can trigger inversion for emphasis. The correct sentence is: So confusing was the notice that several parents called the office.",
+        "So confusing the notice was that several parents called the office.": "This misses the inversion used after fronted \"so + adjective.\"",
+        "So was confusing the notice that several parents called the office.": "The adjective should follow the subject after \"was.\"",
+        "So confusing did the notice was that several parents called the office.": "Do not mix \"did\" with the be verb \"was.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1756",
+      "level": "B2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Neither the old password nor the new code worked.",
+        "Neither the old password or the new code worked.",
+        "Neither worked the old password nor the new code.",
+        "Neither the old password nor the new code were worked."
+      ],
+      "answer": "Neither the old password nor the new code worked.",
+      "explanation": "\"Neither\" paired with \"nor\" emphasizes that both alternatives failed. The correct sentence is: Neither the old password nor the new code worked.",
+      "rationales": {
+        "Neither the old password nor the new code worked.": "\"Neither\" paired with \"nor\" emphasizes that both alternatives failed. The correct sentence is: Neither the old password nor the new code worked.",
+        "Neither the old password or the new code worked.": "Use \"nor\" after \"neither.\"",
+        "Neither worked the old password nor the new code.": "This order is unnatural for the paired subject.",
+        "Neither the old password nor the new code were worked.": "\"Worked\" is already the main verb; do not make it passive."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1757",
+      "level": "B2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The schedule was not merely late; it was impossible to use.",
+        "The schedule was not merely late; was impossible to use.",
+        "The schedule not merely was late; it was impossible to use.",
+        "The schedule was merely not late; it was impossible to use."
+      ],
+      "answer": "The schedule was not merely late; it was impossible to use.",
+      "explanation": "\"Not merely\" followed by a second clause emphasizes a stronger second point. The correct sentence is: The schedule was not merely late; it was impossible to use.",
+      "rationales": {
+        "The schedule was not merely late; it was impossible to use.": "\"Not merely\" followed by a second clause emphasizes a stronger second point. The correct sentence is: The schedule was not merely late; it was impossible to use.",
+        "The schedule was not merely late; was impossible to use.": "The second clause needs the subject \"it.\"",
+        "The schedule not merely was late; it was impossible to use.": "The normal placement is \"was not merely late.\"",
+        "The schedule was merely not late; it was impossible to use.": "This changes the meaning by denying lateness instead of strengthening it."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1758",
+      "level": "B2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Only if the receipt is original will the office issue a refund.",
+        "Only if the receipt is original the office will issue a refund.",
+        "Only if is the receipt original will the office issue a refund.",
+        "Only if the receipt is original will the office issues a refund."
+      ],
+      "answer": "Only if the receipt is original will the office issue a refund.",
+      "explanation": "After initial \"only if,\" the main clause inverts: \"will the office issue.\" The correct sentence is: Only if the receipt is original will the office issue a refund.",
+      "rationales": {
+        "Only if the receipt is original will the office issue a refund.": "After initial \"only if,\" the main clause inverts: \"will the office issue.\" The correct sentence is: Only if the receipt is original will the office issue a refund.",
+        "Only if the receipt is original the office will issue a refund.": "The fronted \"only if\" phrase requires inversion in the main clause.",
+        "Only if is the receipt original will the office issue a refund.": "The if-clause keeps normal order here.",
+        "Only if the receipt is original will the office issues a refund.": "After the modal \"will,\" use \"issue,\" not \"issues.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1759",
+      "level": "B2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It was the lack of dates that made the evidence weak.",
+        "It the lack of dates was that made the evidence weak.",
+        "The lack of dates it was that made the evidence weak.",
+        "It was the lack of dates made that the evidence weak."
+      ],
+      "answer": "It was the lack of dates that made the evidence weak.",
+      "explanation": "The cleft sentence emphasizes the reason the evidence was weak. The correct sentence is: It was the lack of dates that made the evidence weak.",
+      "rationales": {
+        "It was the lack of dates that made the evidence weak.": "The cleft sentence emphasizes the reason the evidence was weak. The correct sentence is: It was the lack of dates that made the evidence weak.",
+        "It the lack of dates was that made the evidence weak.": "The correct cleft order is \"It was the lack of dates that made the evidence weak.\"",
+        "The lack of dates it was that made the evidence weak.": "This mixes a regular subject with the cleft pattern.",
+        "It was the lack of dates made that the evidence weak.": "\"That\" belongs before the clause \"made the evidence weak.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-b2-1760",
+      "level": "B2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "No longer can students submit the form by email.",
+        "No longer students can submit the form by email.",
+        "No longer can submit students the form by email.",
+        "No longer do students can submit the form by email."
+      ],
+      "answer": "No longer can students submit the form by email.",
+      "explanation": "Initial \"no longer\" can take inversion to emphasize a changed rule. The correct sentence is: No longer can students submit the form by email.",
+      "rationales": {
+        "No longer can students submit the form by email.": "Initial \"no longer\" can take inversion to emphasize a changed rule. The correct sentence is: No longer can students submit the form by email.",
+        "No longer students can submit the form by email.": "After initial \"no longer,\" the modal comes before the subject.",
+        "No longer can submit students the form by email.": "The subject should follow the modal: \"can students submit.\"",
+        "No longer do students can submit the form by email.": "Do not combine \"do\" with the modal \"can.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1761",
+      "level": "C1",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Only after the raw data were released did the criticism become persuasive.",
+        "Only after the raw data were released the criticism became persuasive.",
+        "Only after were the raw data released did the criticism become persuasive.",
+        "Only after the raw data were released did the criticism became persuasive."
+      ],
+      "answer": "Only after the raw data were released did the criticism become persuasive.",
+      "explanation": "The fronted \"only after\" phrase requires inversion in the main clause. The correct sentence is: Only after the raw data were released did the criticism become persuasive.",
+      "rationales": {
+        "Only after the raw data were released did the criticism become persuasive.": "The fronted \"only after\" phrase requires inversion in the main clause. The correct sentence is: Only after the raw data were released did the criticism become persuasive.",
+        "Only after the raw data were released the criticism became persuasive.": "The main clause needs auxiliary inversion after initial \"only after.\"",
+        "Only after were the raw data released did the criticism become persuasive.": "The \"after\" clause keeps normal subject-verb order here.",
+        "Only after the raw data were released did the criticism became persuasive.": "After \"did,\" use \"become,\" not \"became.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1762",
+      "level": "C1",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Not only did the proposal reduce costs, it also simplified reporting.",
+        "Not only the proposal reduced costs, it also simplified reporting.",
+        "Not only did the proposal reduced costs, it also simplified reporting.",
+        "Not only reduced the proposal costs, it also simplified reporting."
+      ],
+      "answer": "Not only did the proposal reduce costs, it also simplified reporting.",
+      "explanation": "Initial \"not only\" with a past action uses \"did\" before the subject. The correct sentence is: Not only did the proposal reduce costs, it also simplified reporting.",
+      "rationales": {
+        "Not only did the proposal reduce costs, it also simplified reporting.": "Initial \"not only\" with a past action uses \"did\" before the subject. The correct sentence is: Not only did the proposal reduce costs, it also simplified reporting.",
+        "Not only the proposal reduced costs, it also simplified reporting.": "After initial \"not only,\" use auxiliary inversion.",
+        "Not only did the proposal reduced costs, it also simplified reporting.": "After \"did,\" use \"reduce,\" not \"reduced.\"",
+        "Not only reduced the proposal costs, it also simplified reporting.": "Use \"did\" plus the base verb with this action verb."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1763",
+      "level": "C1",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Seldom has a short memo caused such a long debate.",
+        "Seldom a short memo has caused such a long debate.",
+        "Seldom has a short memo cause such a long debate.",
+        "Seldom did a short memo has caused such a long debate."
+      ],
+      "answer": "Seldom has a short memo caused such a long debate.",
+      "explanation": "Initial \"seldom\" triggers inversion with the present perfect helper \"has.\" The correct sentence is: Seldom has a short memo caused such a long debate.",
+      "rationales": {
+        "Seldom has a short memo caused such a long debate.": "Initial \"seldom\" triggers inversion with the present perfect helper \"has.\" The correct sentence is: Seldom has a short memo caused such a long debate.",
+        "Seldom a short memo has caused such a long debate.": "The helper must come before the subject after initial \"seldom.\"",
+        "Seldom has a short memo cause such a long debate.": "Present perfect needs the past participle \"caused.\"",
+        "Seldom did a short memo has caused such a long debate.": "Do not combine \"did\" with present perfect \"has caused.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1764",
+      "level": "C1",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "What the policy leaves unclear is who may approve exceptions.",
+        "What does the policy leave unclear is who may approve exceptions.",
+        "What the policy leaves unclear it is who may approve exceptions.",
+        "What the policy leave unclear is who may approve exceptions."
+      ],
+      "answer": "What the policy leaves unclear is who may approve exceptions.",
+      "explanation": "The pseudo-cleft highlights the unresolved question. The correct sentence is: What the policy leaves unclear is who may approve exceptions.",
+      "rationales": {
+        "What the policy leaves unclear is who may approve exceptions.": "The pseudo-cleft highlights the unresolved question. The correct sentence is: What the policy leaves unclear is who may approve exceptions.",
+        "What does the policy leave unclear is who may approve exceptions.": "This mixes question order into a statement.",
+        "What the policy leaves unclear it is who may approve exceptions.": "Do not add \"it\" before \"is\" in a pseudo-cleft.",
+        "What the policy leave unclear is who may approve exceptions.": "\"Policy\" is singular, so use \"leaves.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1765",
+      "level": "C1",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It is the assumption behind the model that I find problematic.",
+        "It the assumption behind the model is that I find problematic.",
+        "The assumption behind the model it is that I find problematic.",
+        "It is the assumption behind the model which I find it problematic."
+      ],
+      "answer": "It is the assumption behind the model that I find problematic.",
+      "explanation": "The cleft sentence emphasizes the exact part of the model being criticized. The correct sentence is: It is the assumption behind the model that I find problematic.",
+      "rationales": {
+        "It is the assumption behind the model that I find problematic.": "The cleft sentence emphasizes the exact part of the model being criticized. The correct sentence is: It is the assumption behind the model that I find problematic.",
+        "It the assumption behind the model is that I find problematic.": "The cleft needs \"It is\" before the emphasized phrase.",
+        "The assumption behind the model it is that I find problematic.": "This mixes a regular subject with a cleft.",
+        "It is the assumption behind the model which I find it problematic.": "Do not repeat the object with \"it\" after \"find.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1766",
+      "level": "C1",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Under no circumstances may interview notes be shared outside the team.",
+        "Under no circumstances interview notes may be shared outside the team.",
+        "Under no circumstances may be shared interview notes outside the team.",
+        "Under no circumstances do interview notes may be shared outside the team."
+      ],
+      "answer": "Under no circumstances may interview notes be shared outside the team.",
+      "explanation": "The negative fronted phrase requires inversion with the modal \"may.\" The correct sentence is: Under no circumstances may interview notes be shared outside the team.",
+      "rationales": {
+        "Under no circumstances may interview notes be shared outside the team.": "The negative fronted phrase requires inversion with the modal \"may.\" The correct sentence is: Under no circumstances may interview notes be shared outside the team.",
+        "Under no circumstances interview notes may be shared outside the team.": "The modal must come before the subject.",
+        "Under no circumstances may be shared interview notes outside the team.": "The subject should follow the modal before the passive verb phrase.",
+        "Under no circumstances do interview notes may be shared outside the team.": "Do not combine \"do\" with the modal \"may.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1767",
+      "level": "C1",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Had the archive been complete, the conclusion would have been stronger.",
+        "Had the archive complete, the conclusion would have been stronger.",
+        "If had the archive been complete, the conclusion would have been stronger.",
+        "Had the archive been complete, the conclusion had been stronger."
+      ],
+      "answer": "Had the archive been complete, the conclusion would have been stronger.",
+      "explanation": "This is conditional inversion: initial \"Had\" means \"If something had happened\" in a formal style. The correct sentence is: Had the archive been complete, the conclusion would have been stronger.",
+      "rationales": {
+        "Had the archive been complete, the conclusion would have been stronger.": "This is conditional inversion: initial \"Had\" means \"If something had happened\" in a formal style. The correct sentence is: Had the archive been complete, the conclusion would have been stronger.",
+        "Had the archive complete, the conclusion would have been stronger.": "The passive perfect needs \"been complete\" here.",
+        "If had the archive been complete, the conclusion would have been stronger.": "Do not combine \"if\" with this inverted conditional form.",
+        "Had the archive been complete, the conclusion had been stronger.": "The result clause needs \"would have been.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1768",
+      "level": "C1",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The committee did not reject the idea; it rejected the evidence offered for it.",
+        "The committee did not reject the idea; rejected the evidence offered for it.",
+        "The committee rejected not the idea; it rejected the evidence offered for it.",
+        "Not the committee rejected the idea; it rejected the evidence offered for it."
+      ],
+      "answer": "The committee did not reject the idea; it rejected the evidence offered for it.",
+      "explanation": "The contrast after the semicolon emphasizes what was rejected and what was not. The correct sentence is: The committee did not reject the idea; it rejected the evidence offered for it.",
+      "rationales": {
+        "The committee did not reject the idea; it rejected the evidence offered for it.": "The contrast after the semicolon emphasizes what was rejected and what was not. The correct sentence is: The committee did not reject the idea; it rejected the evidence offered for it.",
+        "The committee did not reject the idea; rejected the evidence offered for it.": "The second clause needs a subject.",
+        "The committee rejected not the idea; it rejected the evidence offered for it.": "This placement of \"not\" is unnatural in modern English.",
+        "Not the committee rejected the idea; it rejected the evidence offered for it.": "This incorrectly emphasizes the subject instead of the object."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1769",
+      "level": "C1",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Only in the revised appendix does the author define the key term.",
+        "Only in the revised appendix the author defines the key term.",
+        "Only in the revised appendix defines the author the key term.",
+        "Only in the revised appendix does the author defines the key term."
+      ],
+      "answer": "Only in the revised appendix does the author define the key term.",
+      "explanation": "An initial \"only in\" phrase requires inversion with \"does.\" The correct sentence is: Only in the revised appendix does the author define the key term.",
+      "rationales": {
+        "Only in the revised appendix does the author define the key term.": "An initial \"only in\" phrase requires inversion with \"does.\" The correct sentence is: Only in the revised appendix does the author define the key term.",
+        "Only in the revised appendix the author defines the key term.": "The fronted \"only\" phrase requires auxiliary inversion.",
+        "Only in the revised appendix defines the author the key term.": "Use \"does\" plus the base verb with this action verb.",
+        "Only in the revised appendix does the author defines the key term.": "After \"does,\" use \"define,\" not \"defines.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1770",
+      "level": "C1",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "So limited was the sample that the authors avoided broad claims.",
+        "So limited the sample was that the authors avoided broad claims.",
+        "So was limited the sample that the authors avoided broad claims.",
+        "So limited did the sample was that the authors avoided broad claims."
+      ],
+      "answer": "So limited was the sample that the authors avoided broad claims.",
+      "explanation": "Fronted \"so + adjective\" can trigger inversion to emphasize degree. The correct sentence is: So limited was the sample that the authors avoided broad claims.",
+      "rationales": {
+        "So limited was the sample that the authors avoided broad claims.": "Fronted \"so + adjective\" can trigger inversion to emphasize degree. The correct sentence is: So limited was the sample that the authors avoided broad claims.",
+        "So limited the sample was that the authors avoided broad claims.": "The be verb should come before the subject in this emphatic structure.",
+        "So was limited the sample that the authors avoided broad claims.": "The adjective belongs before \"was the sample.\"",
+        "So limited did the sample was that the authors avoided broad claims.": "Do not mix \"did\" with the be verb \"was.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1771",
+      "level": "C1",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "No sooner had the funding been approved than the timeline changed.",
+        "No sooner the funding had been approved than the timeline changed.",
+        "No sooner had the funding approved than the timeline changed.",
+        "No sooner had the funding been approved when the timeline changed."
+      ],
+      "answer": "No sooner had the funding been approved than the timeline changed.",
+      "explanation": "The pattern is \"No sooner had\" plus a clause, then \"than\" plus the next event. The correct sentence is: No sooner had the funding been approved than the timeline changed.",
+      "rationales": {
+        "No sooner had the funding been approved than the timeline changed.": "The pattern is \"No sooner had\" plus a clause, then \"than\" plus the next event. The correct sentence is: No sooner had the funding been approved than the timeline changed.",
+        "No sooner the funding had been approved than the timeline changed.": "After \"no sooner,\" the helper comes before the subject.",
+        "No sooner had the funding approved than the timeline changed.": "The passive form needs \"been approved.\"",
+        "No sooner had the funding been approved when the timeline changed.": "Use \"than,\" not \"when,\" after \"no sooner.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1772",
+      "level": "C1",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The issue is not whether the data exist, but whether they are usable.",
+        "The issue is not whether the data exist, but they are usable.",
+        "Not the issue is whether the data exist, but whether they are usable.",
+        "The issue not is whether the data exist, but whether they are usable."
+      ],
+      "answer": "The issue is not whether the data exist, but whether they are usable.",
+      "explanation": "The paired contrast \"not whether\" and \"but whether\" focuses the exact issue. The correct sentence is: The issue is not whether the data exist, but whether they are usable.",
+      "rationales": {
+        "The issue is not whether the data exist, but whether they are usable.": "The paired contrast \"not whether\" and \"but whether\" focuses the exact issue. The correct sentence is: The issue is not whether the data exist, but whether they are usable.",
+        "The issue is not whether the data exist, but they are usable.": "The second half should repeat \"whether\" for parallel contrast.",
+        "Not the issue is whether the data exist, but whether they are usable.": "This places \"not\" before the subject unnaturally.",
+        "The issue not is whether the data exist, but whether they are usable.": "The normal order is \"is not.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1773",
+      "level": "C1",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Little did the reviewers know that the files had been mislabeled.",
+        "Little the reviewers knew that the files had been mislabeled.",
+        "Little knew the reviewers that the files had been mislabeled.",
+        "Little did the reviewers knew that the files had been mislabeled."
+      ],
+      "answer": "Little did the reviewers know that the files had been mislabeled.",
+      "explanation": "Initial \"little\" with this meaning requires inversion with \"did.\" The correct sentence is: Little did the reviewers know that the files had been mislabeled.",
+      "rationales": {
+        "Little did the reviewers know that the files had been mislabeled.": "Initial \"little\" with this meaning requires inversion with \"did.\" The correct sentence is: Little did the reviewers know that the files had been mislabeled.",
+        "Little the reviewers knew that the files had been mislabeled.": "Use auxiliary inversion after initial \"little.\"",
+        "Little knew the reviewers that the files had been mislabeled.": "Modern English normally uses \"did\" plus the base verb here.",
+        "Little did the reviewers knew that the files had been mislabeled.": "After \"did,\" use \"know,\" not \"knew.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1774",
+      "level": "C1",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It was because the baseline shifted that the comparison became misleading.",
+        "It because the baseline shifted was that the comparison became misleading.",
+        "Because the baseline shifted it was that the comparison became misleading.",
+        "It was because the baseline shifted which the comparison became misleading."
+      ],
+      "answer": "It was because the baseline shifted that the comparison became misleading.",
+      "explanation": "The cleft sentence emphasizes the reason for the misleading comparison. The correct sentence is: It was because the baseline shifted that the comparison became misleading.",
+      "rationales": {
+        "It was because the baseline shifted that the comparison became misleading.": "The cleft sentence emphasizes the reason for the misleading comparison. The correct sentence is: It was because the baseline shifted that the comparison became misleading.",
+        "It because the baseline shifted was that the comparison became misleading.": "The cleft needs \"It was because\" in this order.",
+        "Because the baseline shifted it was that the comparison became misleading.": "This mixes an ordinary because-clause with a cleft.",
+        "It was because the baseline shifted which the comparison became misleading.": "Use \"that\" to complete this cleft structure."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1775",
+      "level": "C1",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Not a single applicant was told why the form had changed.",
+        "Not a single applicant were told why the form had changed.",
+        "Not single applicant was told why the form had changed.",
+        "A not single applicant was told why the form had changed."
+      ],
+      "answer": "Not a single applicant was told why the form had changed.",
+      "explanation": "\"Not a single\" strongly emphasizes that no applicant received the explanation. The correct sentence is: Not a single applicant was told why the form had changed.",
+      "rationales": {
+        "Not a single applicant was told why the form had changed.": "\"Not a single\" strongly emphasizes that no applicant received the explanation. The correct sentence is: Not a single applicant was told why the form had changed.",
+        "Not a single applicant were told why the form had changed.": "\"Applicant\" is singular, so use \"was.\"",
+        "Not single applicant was told why the form had changed.": "The phrase needs the article \"a\": \"not a single.\"",
+        "A not single applicant was told why the form had changed.": "\"Not\" belongs before \"a single applicant.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1776",
+      "level": "C1",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Only if the limitation is disclosed can the estimate be trusted.",
+        "Only if the limitation is disclosed the estimate can be trusted.",
+        "Only if is the limitation disclosed can the estimate be trusted.",
+        "Only if the limitation is disclosed can be trusted the estimate."
+      ],
+      "answer": "Only if the limitation is disclosed can the estimate be trusted.",
+      "explanation": "A fronted \"only if\" phrase requires inversion in the main clause. The correct sentence is: Only if the limitation is disclosed can the estimate be trusted.",
+      "rationales": {
+        "Only if the limitation is disclosed can the estimate be trusted.": "A fronted \"only if\" phrase requires inversion in the main clause. The correct sentence is: Only if the limitation is disclosed can the estimate be trusted.",
+        "Only if the limitation is disclosed the estimate can be trusted.": "The modal \"can\" must come before the subject in the main clause.",
+        "Only if is the limitation disclosed can the estimate be trusted.": "The if-clause itself keeps normal order here.",
+        "Only if the limitation is disclosed can be trusted the estimate.": "The subject should come before the passive verb phrase after \"can.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1777",
+      "level": "C1",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The report emphasizes accuracy rather than speed.",
+        "The report emphasizes rather accuracy than speed.",
+        "Rather the report emphasizes accuracy than speed.",
+        "The report rather than emphasizes accuracy speed."
+      ],
+      "answer": "The report emphasizes accuracy rather than speed.",
+      "explanation": "\"Rather than\" clearly emphasizes the preferred quality by contrasting it with another. The correct sentence is: The report emphasizes accuracy rather than speed.",
+      "rationales": {
+        "The report emphasizes accuracy rather than speed.": "\"Rather than\" clearly emphasizes the preferred quality by contrasting it with another. The correct sentence is: The report emphasizes accuracy rather than speed.",
+        "The report emphasizes rather accuracy than speed.": "The phrase is \"accuracy rather than speed.\"",
+        "Rather the report emphasizes accuracy than speed.": "This placement of \"rather\" is not natural for the contrast.",
+        "The report rather than emphasizes accuracy speed.": "This breaks the verb phrase and loses the contrast."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1778",
+      "level": "C1",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Scarcely had the hearing begun when the recording failed.",
+        "Scarcely the hearing had begun when the recording failed.",
+        "Scarcely had the hearing begin when the recording failed.",
+        "Scarcely had begun the hearing when the recording failed."
+      ],
+      "answer": "Scarcely had the hearing begun when the recording failed.",
+      "explanation": "The pattern is \"Scarcely had\" plus a clause, then \"when\" plus the next event. The correct sentence is: Scarcely had the hearing begun when the recording failed.",
+      "rationales": {
+        "Scarcely had the hearing begun when the recording failed.": "The pattern is \"Scarcely had\" plus a clause, then \"when\" plus the next event. The correct sentence is: Scarcely had the hearing begun when the recording failed.",
+        "Scarcely the hearing had begun when the recording failed.": "After initial \"scarcely,\" put the helper before the subject.",
+        "Scarcely had the hearing begin when the recording failed.": "Past perfect needs the past participle \"begun.\"",
+        "Scarcely had begun the hearing when the recording failed.": "The subject should follow the helper before the main verb."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1779",
+      "level": "C1",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "What the witness remembered most clearly was the final warning.",
+        "What did the witness remember most clearly was the final warning.",
+        "What the witness remembered most clearly it was the final warning.",
+        "What the witness remembered most clearly were the final warning."
+      ],
+      "answer": "What the witness remembered most clearly was the final warning.",
+      "explanation": "The pseudo-cleft places the most clearly remembered detail at the end for emphasis. The correct sentence is: What the witness remembered most clearly was the final warning.",
+      "rationales": {
+        "What the witness remembered most clearly was the final warning.": "The pseudo-cleft places the most clearly remembered detail at the end for emphasis. The correct sentence is: What the witness remembered most clearly was the final warning.",
+        "What did the witness remember most clearly was the final warning.": "This mixes question order into a statement.",
+        "What the witness remembered most clearly it was the final warning.": "Do not add \"it\" before \"was\" in this pattern.",
+        "What the witness remembered most clearly were the final warning.": "Use \"was\" because the emphasized noun phrase is singular."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c1-1780",
+      "level": "C1",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Nowhere in the policy does it say that late appeals are automatic.",
+        "Nowhere in the policy it says that late appeals are automatic.",
+        "Nowhere in the policy says it that late appeals are automatic.",
+        "Nowhere in the policy does it says that late appeals are automatic."
+      ],
+      "answer": "Nowhere in the policy does it say that late appeals are automatic.",
+      "explanation": "Initial \"nowhere\" requires inversion with \"does.\" The correct sentence is: Nowhere in the policy does it say that late appeals are automatic.",
+      "rationales": {
+        "Nowhere in the policy does it say that late appeals are automatic.": "Initial \"nowhere\" requires inversion with \"does.\" The correct sentence is: Nowhere in the policy does it say that late appeals are automatic.",
+        "Nowhere in the policy it says that late appeals are automatic.": "After initial \"nowhere,\" use auxiliary inversion.",
+        "Nowhere in the policy says it that late appeals are automatic.": "Use \"does it say\" with this action verb.",
+        "Nowhere in the policy does it says that late appeals are automatic.": "After \"does,\" use \"say,\" not \"says.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1781",
+      "level": "C2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Only by treating silence as ambiguous can the ruling avoid overreach.",
+        "Only by treating silence as ambiguous the ruling can avoid overreach.",
+        "Only by treat silence as ambiguous can the ruling avoid overreach.",
+        "Only treating silence as ambiguous by can the ruling avoid overreach."
+      ],
+      "answer": "Only by treating silence as ambiguous can the ruling avoid overreach.",
+      "explanation": "The fronted \"only by\" phrase requires modal inversion in the main clause. The correct sentence is: Only by treating silence as ambiguous can the ruling avoid overreach.",
+      "rationales": {
+        "Only by treating silence as ambiguous can the ruling avoid overreach.": "The fronted \"only by\" phrase requires modal inversion in the main clause. The correct sentence is: Only by treating silence as ambiguous can the ruling avoid overreach.",
+        "Only by treating silence as ambiguous the ruling can avoid overreach.": "The modal \"can\" must come before the subject after initial \"only by.\"",
+        "Only by treat silence as ambiguous can the ruling avoid overreach.": "After \"by,\" use the -ing form \"treating.\"",
+        "Only treating silence as ambiguous by can the ruling avoid overreach.": "The phrase \"by treating\" must stay together."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1782",
+      "level": "C2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Not since the 1998 amendment has the clause been read so narrowly.",
+        "Not since the 1998 amendment the clause has been read so narrowly.",
+        "Not since the 1998 amendment has the clause read so narrowly.",
+        "Not since the 1998 amendment did the clause has been read so narrowly."
+      ],
+      "answer": "Not since the 1998 amendment has the clause been read so narrowly.",
+      "explanation": "Initial \"not since\" triggers inversion with the present perfect helper \"has.\" The correct sentence is: Not since the 1998 amendment has the clause been read so narrowly.",
+      "rationales": {
+        "Not since the 1998 amendment has the clause been read so narrowly.": "Initial \"not since\" triggers inversion with the present perfect helper \"has.\" The correct sentence is: Not since the 1998 amendment has the clause been read so narrowly.",
+        "Not since the 1998 amendment the clause has been read so narrowly.": "The helper must come before the subject after initial \"not since.\"",
+        "Not since the 1998 amendment has the clause read so narrowly.": "The passive perfect needs \"been read.\"",
+        "Not since the 1998 amendment did the clause has been read so narrowly.": "Do not combine \"did\" with present perfect \"has been read.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1783",
+      "level": "C2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "What the dissent elides is the difference between permission and consent.",
+        "What does the dissent elide is the difference between permission and consent.",
+        "What the dissent elides it is the difference between permission and consent.",
+        "What the dissent elide is the difference between permission and consent."
+      ],
+      "answer": "What the dissent elides is the difference between permission and consent.",
+      "explanation": "The pseudo-cleft emphasizes the omitted distinction. The correct sentence is: What the dissent elides is the difference between permission and consent.",
+      "rationales": {
+        "What the dissent elides is the difference between permission and consent.": "The pseudo-cleft emphasizes the omitted distinction. The correct sentence is: What the dissent elides is the difference between permission and consent.",
+        "What does the dissent elide is the difference between permission and consent.": "This mixes question order into a statement.",
+        "What the dissent elides it is the difference between permission and consent.": "Do not insert \"it\" before \"is\" in a pseudo-cleft.",
+        "What the dissent elide is the difference between permission and consent.": "\"Dissent\" is singular, so use \"elides.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1784",
+      "level": "C2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It is not the outcome but the reasoning that the panel questions.",
+        "It is not the outcome but the reasoning which the panel questions it.",
+        "It not is the outcome but the reasoning that the panel questions.",
+        "Not it is the outcome but the reasoning that the panel questions."
+      ],
+      "answer": "It is not the outcome but the reasoning that the panel questions.",
+      "explanation": "This cleft contrast emphasizes that the reasoning, not the result, is disputed. The correct sentence is: It is not the outcome but the reasoning that the panel questions.",
+      "rationales": {
+        "It is not the outcome but the reasoning that the panel questions.": "This cleft contrast emphasizes that the reasoning, not the result, is disputed. The correct sentence is: It is not the outcome but the reasoning that the panel questions.",
+        "It is not the outcome but the reasoning which the panel questions it.": "Do not repeat the object with \"it.\"",
+        "It not is the outcome but the reasoning that the panel questions.": "The normal order is \"It is not\" plus the contrasted phrase.",
+        "Not it is the outcome but the reasoning that the panel questions.": "\"Not\" does not belong before \"it\" in this cleft."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1785",
+      "level": "C2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Had the parties intended arbitration, the contract would have said so expressly.",
+        "Had the parties intend arbitration, the contract would have said so expressly.",
+        "If had the parties intended arbitration, the contract would have said so expressly.",
+        "Had the parties intended arbitration, the contract had said so expressly."
+      ],
+      "answer": "Had the parties intended arbitration, the contract would have said so expressly.",
+      "explanation": "This formal conditional inversion means \"If the parties had intended arbitration.\" The correct sentence is: Had the parties intended arbitration, the contract would have said so expressly.",
+      "rationales": {
+        "Had the parties intended arbitration, the contract would have said so expressly.": "This formal conditional inversion means \"If the parties had intended arbitration.\" The correct sentence is: Had the parties intended arbitration, the contract would have said so expressly.",
+        "Had the parties intend arbitration, the contract would have said so expressly.": "The inverted past perfect needs the past participle \"intended.\"",
+        "If had the parties intended arbitration, the contract would have said so expressly.": "Do not combine \"if\" with the inverted conditional form.",
+        "Had the parties intended arbitration, the contract had said so expressly.": "The result clause needs \"would have said.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1786",
+      "level": "C2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "So attenuated was the causal chain that liability could not attach.",
+        "So attenuated the causal chain was that liability could not attach.",
+        "So was attenuated the causal chain that liability could not attach.",
+        "So attenuated did the causal chain was that liability could not attach."
+      ],
+      "answer": "So attenuated was the causal chain that liability could not attach.",
+      "explanation": "Fronted \"so + adjective\" triggers inversion to emphasize degree. The correct sentence is: So attenuated was the causal chain that liability could not attach.",
+      "rationales": {
+        "So attenuated was the causal chain that liability could not attach.": "Fronted \"so + adjective\" triggers inversion to emphasize degree. The correct sentence is: So attenuated was the causal chain that liability could not attach.",
+        "So attenuated the causal chain was that liability could not attach.": "The be verb should come before the subject.",
+        "So was attenuated the causal chain that liability could not attach.": "The adjective belongs before \"was the causal chain.\"",
+        "So attenuated did the causal chain was that liability could not attach.": "Do not mix \"did\" with the be verb \"was.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1787",
+      "level": "C2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Under no plausible reading does the statute confer jurisdiction.",
+        "Under no plausible reading the statute confers jurisdiction.",
+        "Under no plausible reading confers the statute jurisdiction.",
+        "Under no plausible reading does the statute confers jurisdiction."
+      ],
+      "answer": "Under no plausible reading does the statute confer jurisdiction.",
+      "explanation": "The negative fronted phrase requires inversion with \"does.\" The correct sentence is: Under no plausible reading does the statute confer jurisdiction.",
+      "rationales": {
+        "Under no plausible reading does the statute confer jurisdiction.": "The negative fronted phrase requires inversion with \"does.\" The correct sentence is: Under no plausible reading does the statute confer jurisdiction.",
+        "Under no plausible reading the statute confers jurisdiction.": "After this negative fronted phrase, use auxiliary inversion.",
+        "Under no plausible reading confers the statute jurisdiction.": "Use \"does\" plus the base verb with this action verb.",
+        "Under no plausible reading does the statute confers jurisdiction.": "After \"does,\" use \"confer,\" not \"confers.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1788",
+      "level": "C2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "No sooner had the injunction expired than the agency reinstated the rule.",
+        "No sooner the injunction had expired than the agency reinstated the rule.",
+        "No sooner had the injunction expire than the agency reinstated the rule.",
+        "No sooner had the injunction expired when the agency reinstated the rule."
+      ],
+      "answer": "No sooner had the injunction expired than the agency reinstated the rule.",
+      "explanation": "The formal pattern is \"No sooner had\" plus a clause, then \"than\" plus the next event. The correct sentence is: No sooner had the injunction expired than the agency reinstated the rule.",
+      "rationales": {
+        "No sooner had the injunction expired than the agency reinstated the rule.": "The formal pattern is \"No sooner had\" plus a clause, then \"than\" plus the next event. The correct sentence is: No sooner had the injunction expired than the agency reinstated the rule.",
+        "No sooner the injunction had expired than the agency reinstated the rule.": "After initial \"no sooner,\" put the helper before the subject.",
+        "No sooner had the injunction expire than the agency reinstated the rule.": "Past perfect needs the past participle \"expired.\"",
+        "No sooner had the injunction expired when the agency reinstated the rule.": "Use \"than,\" not \"when,\" after \"no sooner.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1789",
+      "level": "C2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The brief challenges not the facts themselves, but the inference drawn from them.",
+        "The brief not challenges the facts themselves, but the inference drawn from them.",
+        "The brief challenges not the facts themselves, but inference drawn from them.",
+        "Not the brief challenges the facts themselves, but the inference drawn from them."
+      ],
+      "answer": "The brief challenges not the facts themselves, but the inference drawn from them.",
+      "explanation": "The delayed \"not\" and \"but\" contrast emphasizes the real target of the challenge. The correct sentence is: The brief challenges not the facts themselves, but the inference drawn from them.",
+      "rationales": {
+        "The brief challenges not the facts themselves, but the inference drawn from them.": "The delayed \"not\" and \"but\" contrast emphasizes the real target of the challenge. The correct sentence is: The brief challenges not the facts themselves, but the inference drawn from them.",
+        "The brief not challenges the facts themselves, but the inference drawn from them.": "This placement of \"not\" is unnatural with the verb.",
+        "The brief challenges not the facts themselves, but inference drawn from them.": "The second noun phrase needs \"the\" because it is specific.",
+        "Not the brief challenges the facts themselves, but the inference drawn from them.": "This incorrectly emphasizes the subject rather than the object."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1790",
+      "level": "C2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "At issue is whether the waiver was knowing and voluntary.",
+        "At issue whether the waiver was knowing and voluntary is.",
+        "At issue does whether the waiver was knowing and voluntary.",
+        "At issue is whether was the waiver knowing and voluntary."
+      ],
+      "answer": "At issue is whether the waiver was knowing and voluntary.",
+      "explanation": "This subject-complement inversion foregrounds the disputed question. The correct sentence is: At issue is whether the waiver was knowing and voluntary.",
+      "rationales": {
+        "At issue is whether the waiver was knowing and voluntary.": "This subject-complement inversion foregrounds the disputed question. The correct sentence is: At issue is whether the waiver was knowing and voluntary.",
+        "At issue whether the waiver was knowing and voluntary is.": "The verb should come before the content clause.",
+        "At issue does whether the waiver was knowing and voluntary.": "\"Does\" is not used in this be-verb inversion.",
+        "At issue is whether was the waiver knowing and voluntary.": "The embedded question keeps statement word order."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1791",
+      "level": "C2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Not only had the evidence been withheld, it had also been mislabeled.",
+        "Not only the evidence had been withheld, it had also been mislabeled.",
+        "Not only had the evidence withheld, it had also been mislabeled.",
+        "Not only did the evidence had been withheld, it had also been mislabeled."
+      ],
+      "answer": "Not only had the evidence been withheld, it had also been mislabeled.",
+      "explanation": "Initial \"not only\" with past perfect passive requires \"had\" before the subject. The correct sentence is: Not only had the evidence been withheld, it had also been mislabeled.",
+      "rationales": {
+        "Not only had the evidence been withheld, it had also been mislabeled.": "Initial \"not only\" with past perfect passive requires \"had\" before the subject. The correct sentence is: Not only had the evidence been withheld, it had also been mislabeled.",
+        "Not only the evidence had been withheld, it had also been mislabeled.": "The helper must come before the subject after initial \"not only.\"",
+        "Not only had the evidence withheld, it had also been mislabeled.": "The passive perfect needs \"been withheld.\"",
+        "Not only did the evidence had been withheld, it had also been mislabeled.": "Do not combine \"did\" with past perfect \"had been withheld.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1792",
+      "level": "C2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "What makes the exception difficult to apply is its unclear scope.",
+        "What does make the exception difficult to apply is its unclear scope.",
+        "What makes the exception difficult to apply it is its unclear scope.",
+        "What make the exception difficult to apply is its unclear scope."
+      ],
+      "answer": "What makes the exception difficult to apply is its unclear scope.",
+      "explanation": "The pseudo-cleft emphasizes the source of the practical difficulty. The correct sentence is: What makes the exception difficult to apply is its unclear scope.",
+      "rationales": {
+        "What makes the exception difficult to apply is its unclear scope.": "The pseudo-cleft emphasizes the source of the practical difficulty. The correct sentence is: What makes the exception difficult to apply is its unclear scope.",
+        "What does make the exception difficult to apply is its unclear scope.": "This mixes question order into a statement.",
+        "What makes the exception difficult to apply it is its unclear scope.": "Do not add \"it\" before \"is\" in this pattern.",
+        "What make the exception difficult to apply is its unclear scope.": "\"What makes\" needs the singular verb form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1793",
+      "level": "C2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Scarcely had counsel begun when the judge interrupted.",
+        "Scarcely counsel had begun when the judge interrupted.",
+        "Scarcely had counsel begin when the judge interrupted.",
+        "Scarcely had begun counsel when the judge interrupted."
+      ],
+      "answer": "Scarcely had counsel begun when the judge interrupted.",
+      "explanation": "The pattern \"Scarcely had\" plus a clause, then \"when\" plus the next event, emphasizes immediacy. The correct sentence is: Scarcely had counsel begun when the judge interrupted.",
+      "rationales": {
+        "Scarcely had counsel begun when the judge interrupted.": "The pattern \"Scarcely had\" plus a clause, then \"when\" plus the next event, emphasizes immediacy. The correct sentence is: Scarcely had counsel begun when the judge interrupted.",
+        "Scarcely counsel had begun when the judge interrupted.": "After initial \"scarcely,\" put the helper before the subject.",
+        "Scarcely had counsel begin when the judge interrupted.": "Past perfect needs \"begun.\"",
+        "Scarcely had begun counsel when the judge interrupted.": "The subject should follow the helper before the main verb."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1794",
+      "level": "C2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Only if the agency discloses its assumptions will the estimate be reviewable.",
+        "Only if the agency discloses its assumptions the estimate will be reviewable.",
+        "Only if does the agency disclose its assumptions will the estimate be reviewable.",
+        "Only if the agency discloses its assumptions will be reviewable the estimate."
+      ],
+      "answer": "Only if the agency discloses its assumptions will the estimate be reviewable.",
+      "explanation": "Initial \"only if\" requires inversion in the main clause. The correct sentence is: Only if the agency discloses its assumptions will the estimate be reviewable.",
+      "rationales": {
+        "Only if the agency discloses its assumptions will the estimate be reviewable.": "Initial \"only if\" requires inversion in the main clause. The correct sentence is: Only if the agency discloses its assumptions will the estimate be reviewable.",
+        "Only if the agency discloses its assumptions the estimate will be reviewable.": "The modal \"will\" must come before the subject in the main clause.",
+        "Only if does the agency disclose its assumptions will the estimate be reviewable.": "The if-clause itself keeps normal order here.",
+        "Only if the agency discloses its assumptions will be reviewable the estimate.": "The subject should follow the modal before the adjective."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1795",
+      "level": "C2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "The doctrine is not merely narrow; it is internally unstable.",
+        "The doctrine is not merely narrow; is internally unstable.",
+        "The doctrine not merely is narrow; it is internally unstable.",
+        "The doctrine is merely not narrow; it is internally unstable."
+      ],
+      "answer": "The doctrine is not merely narrow; it is internally unstable.",
+      "explanation": "\"Not merely\" followed by a second clause emphasizes that the second criticism is stronger. The correct sentence is: The doctrine is not merely narrow; it is internally unstable.",
+      "rationales": {
+        "The doctrine is not merely narrow; it is internally unstable.": "\"Not merely\" followed by a second clause emphasizes that the second criticism is stronger. The correct sentence is: The doctrine is not merely narrow; it is internally unstable.",
+        "The doctrine is not merely narrow; is internally unstable.": "The second clause needs the subject \"it.\"",
+        "The doctrine not merely is narrow; it is internally unstable.": "The normal placement is \"is not merely narrow.\"",
+        "The doctrine is merely not narrow; it is internally unstable.": "This changes the meaning by denying narrowness instead of strengthening the criticism."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1796",
+      "level": "C2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Nowhere does the record indicate that consent was informed.",
+        "Nowhere the record indicates that consent was informed.",
+        "Nowhere indicates the record that consent was informed.",
+        "Nowhere does the record indicates that consent was informed."
+      ],
+      "answer": "Nowhere does the record indicate that consent was informed.",
+      "explanation": "Initial \"nowhere\" requires inversion with \"does.\" The correct sentence is: Nowhere does the record indicate that consent was informed.",
+      "rationales": {
+        "Nowhere does the record indicate that consent was informed.": "Initial \"nowhere\" requires inversion with \"does.\" The correct sentence is: Nowhere does the record indicate that consent was informed.",
+        "Nowhere the record indicates that consent was informed.": "After initial \"nowhere,\" use auxiliary inversion.",
+        "Nowhere indicates the record that consent was informed.": "Use \"does\" plus the base verb with this action verb.",
+        "Nowhere does the record indicates that consent was informed.": "After \"does,\" use \"indicate,\" not \"indicates.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1797",
+      "level": "C2",
+      "setupText": "Read all four choices before you answer.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "It is the timing of disclosure, rather than its content, that proves decisive.",
+        "It the timing of disclosure is, rather than its content, that proves decisive.",
+        "The timing of disclosure it is, rather than its content, that proves decisive.",
+        "It is the timing of disclosure, rather than its content, proves that decisive."
+      ],
+      "answer": "It is the timing of disclosure, rather than its content, that proves decisive.",
+      "explanation": "This cleft contrast emphasizes which aspect of disclosure matters. The correct sentence is: It is the timing of disclosure, rather than its content, that proves decisive.",
+      "rationales": {
+        "It is the timing of disclosure, rather than its content, that proves decisive.": "This cleft contrast emphasizes which aspect of disclosure matters. The correct sentence is: It is the timing of disclosure, rather than its content, that proves decisive.",
+        "It the timing of disclosure is, rather than its content, that proves decisive.": "The verb \"is\" should follow \"it.\"",
+        "The timing of disclosure it is, rather than its content, that proves decisive.": "This mixes a regular subject with the cleft pattern.",
+        "It is the timing of disclosure, rather than its content, proves that decisive.": "\"That\" should introduce the clause before \"proves decisive.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1798",
+      "level": "C2",
+      "setupText": "Only one choice is a complete, correct sentence.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Were the clause severable, the rest of the agreement could stand.",
+        "If were the clause severable, the rest of the agreement could stand.",
+        "Were severable the clause, the rest of the agreement could stand.",
+        "Were the clause severable, the rest of the agreement can stood."
+      ],
+      "answer": "Were the clause severable, the rest of the agreement could stand.",
+      "explanation": "This formal conditional inversion means \"If the clause were severable.\" The correct sentence is: Were the clause severable, the rest of the agreement could stand.",
+      "rationales": {
+        "Were the clause severable, the rest of the agreement could stand.": "This formal conditional inversion means \"If the clause were severable.\" The correct sentence is: Were the clause severable, the rest of the agreement could stand.",
+        "If were the clause severable, the rest of the agreement could stand.": "Do not combine \"if\" with the inverted conditional form.",
+        "Were severable the clause, the rest of the agreement could stand.": "The subject should follow \"were.\"",
+        "Were the clause severable, the rest of the agreement can stood.": "The result clause needs \"could stand.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1799",
+      "level": "C2",
+      "setupText": "Choose the sentence that has clear English grammar.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "Little does the opinion say about how damages should be calculated.",
+        "Little the opinion says about how damages should be calculated.",
+        "Little says the opinion about how damages should be calculated.",
+        "Little does the opinion says about how damages should be calculated."
+      ],
+      "answer": "Little does the opinion say about how damages should be calculated.",
+      "explanation": "Initial \"little\" triggers inversion and emphasizes the lack of discussion. The correct sentence is: Little does the opinion say about how damages should be calculated.",
+      "rationales": {
+        "Little does the opinion say about how damages should be calculated.": "Initial \"little\" triggers inversion and emphasizes the lack of discussion. The correct sentence is: Little does the opinion say about how damages should be calculated.",
+        "Little the opinion says about how damages should be calculated.": "After initial \"little,\" use auxiliary inversion.",
+        "Little says the opinion about how damages should be calculated.": "Use \"does\" plus the base verb with this action verb.",
+        "Little does the opinion says about how damages should be calculated.": "After \"does,\" use \"say,\" not \"says.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-inversion-and-emphasis-c2-1800",
+      "level": "C2",
+      "setupText": "The answer should sound natural and correct.",
+      "taskText": "Choose the sentence that gives clear emphasis.",
+      "options": [
+        "What the precedent forecloses is the broader reading urged by the appellant.",
+        "What does the precedent foreclose is the broader reading urged by the appellant.",
+        "What the precedent forecloses it is the broader reading urged by the appellant.",
+        "What the precedent foreclose is the broader reading urged by the appellant."
+      ],
+      "answer": "What the precedent forecloses is the broader reading urged by the appellant.",
+      "explanation": "The pseudo-cleft emphasizes the reading that the precedent rules out. The correct sentence is: What the precedent forecloses is the broader reading urged by the appellant.",
+      "rationales": {
+        "What the precedent forecloses is the broader reading urged by the appellant.": "The pseudo-cleft emphasizes the reading that the precedent rules out. The correct sentence is: What the precedent forecloses is the broader reading urged by the appellant.",
+        "What does the precedent foreclose is the broader reading urged by the appellant.": "This mixes question order into a statement.",
+        "What the precedent forecloses it is the broader reading urged by the appellant.": "Do not insert \"it\" before \"is.\"",
+        "What the precedent foreclose is the broader reading urged by the appellant.": "\"Precedent\" is singular, so use \"forecloses.\""
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

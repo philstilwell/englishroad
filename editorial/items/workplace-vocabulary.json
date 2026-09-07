@@ -1,0 +1,2766 @@
+{
+  "topic": "Workplace vocabulary",
+  "category": "Vocabulary",
+  "items": [
+    {
+      "id": "coverage-workplace-vocabulary-a1-4081",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"job\" mean in this sentence? Mina found a new job.",
+      "options": [
+        "work that someone is paid to do",
+        "a person who manages workers",
+        "give money for work or goods",
+        "people who work for an organization"
+      ],
+      "answer": "work that someone is paid to do",
+      "explanation": "In this sentence, \"job\" means \"work that someone is paid to do\": Mina found a new job.",
+      "rationales": {
+        "work that someone is paid to do": "In this sentence, \"job\" means \"work that someone is paid to do\": Mina found a new job.",
+        "a person who manages workers": "\"a person who manages workers\" is a real meaning, but it matches \"boss\", not \"job\" in this sentence.",
+        "give money for work or goods": "\"give money for work or goods\" is a real meaning, but it matches \"pay\", not \"job\" in this sentence.",
+        "people who work for an organization": "\"people who work for an organization\" is a real meaning, but it matches \"staff\", not \"job\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4082",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"boss\" mean in this sentence? In the clinic, the boss called a meeting.",
+      "options": [
+        "a person who manages workers",
+        "give money for work or goods",
+        "people who work for an organization",
+        "a period of work time"
+      ],
+      "answer": "a person who manages workers",
+      "explanation": "In this sentence, \"boss\" means \"a person who manages workers\": In the clinic, the boss called a meeting.",
+      "rationales": {
+        "a person who manages workers": "In this sentence, \"boss\" means \"a person who manages workers\": In the clinic, the boss called a meeting.",
+        "give money for work or goods": "\"give money for work or goods\" is a real meaning, but it matches \"pay\", not \"boss\" in this sentence.",
+        "people who work for an organization": "\"people who work for an organization\" is a real meaning, but it matches \"staff\", not \"boss\" in this sentence.",
+        "a period of work time": "\"a period of work time\" is a real meaning, but it matches \"shift\", not \"boss\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4083",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"pay\" mean in this sentence? During the discussion, the company will pay on Friday.",
+      "options": [
+        "give money for work or goods",
+        "people who work for an organization",
+        "a period of work time",
+        "a place where people work at desks"
+      ],
+      "answer": "give money for work or goods",
+      "explanation": "In this sentence, \"pay\" means \"give money for work or goods\": During the discussion, the company will pay on Friday.",
+      "rationales": {
+        "give money for work or goods": "In this sentence, \"pay\" means \"give money for work or goods\": During the discussion, the company will pay on Friday.",
+        "people who work for an organization": "\"people who work for an organization\" is a real meaning, but it matches \"staff\", not \"pay\" in this sentence.",
+        "a period of work time": "\"a period of work time\" is a real meaning, but it matches \"shift\", not \"pay\" in this sentence.",
+        "a place where people work at desks": "\"a place where people work at desks\" is a real meaning, but it matches \"office\", not \"pay\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4084",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"staff\" mean in this sentence? The example says that the staff are in the office.",
+      "options": [
+        "people who work for an organization",
+        "a period of work time",
+        "a place where people work at desks",
+        "a person who works"
+      ],
+      "answer": "people who work for an organization",
+      "explanation": "In this sentence, \"staff\" means \"people who work for an organization\": The example says that the staff are in the office.",
+      "rationales": {
+        "people who work for an organization": "In this sentence, \"staff\" means \"people who work for an organization\": The example says that the staff are in the office.",
+        "a period of work time": "\"a period of work time\" is a real meaning, but it matches \"shift\", not \"staff\" in this sentence.",
+        "a place where people work at desks": "\"a place where people work at desks\" is a real meaning, but it matches \"office\", not \"staff\" in this sentence.",
+        "a person who works": "\"a person who works\" is a real meaning, but it matches \"worker\", not \"staff\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4085",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"shift\" mean in this sentence? On the worksheet, Omar works the morning shift.",
+      "options": [
+        "a period of work time",
+        "a place where people work at desks",
+        "a person who works",
+        "a time when people discuss work"
+      ],
+      "answer": "a period of work time",
+      "explanation": "In this sentence, \"shift\" means \"a period of work time\": On the worksheet, Omar works the morning shift.",
+      "rationales": {
+        "a period of work time": "In this sentence, \"shift\" means \"a period of work time\": On the worksheet, Omar works the morning shift.",
+        "a place where people work at desks": "\"a place where people work at desks\" is a real meaning, but it matches \"office\", not \"shift\" in this sentence.",
+        "a person who works": "\"a person who works\" is a real meaning, but it matches \"worker\", not \"shift\" in this sentence.",
+        "a time when people discuss work": "\"a time when people discuss work\" is a real meaning, but it matches \"meeting\", not \"shift\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4086",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"office\" mean in this sentence? The teacher's example is this: The office opens at nine.",
+      "options": [
+        "a place where people work at desks",
+        "a person who works",
+        "a time when people discuss work",
+        "a short rest from work"
+      ],
+      "answer": "a place where people work at desks",
+      "explanation": "In this sentence, \"office\" means \"a place where people work at desks\": The teacher's example is this: The office opens at nine.",
+      "rationales": {
+        "a place where people work at desks": "In this sentence, \"office\" means \"a place where people work at desks\": The teacher's example is this: The office opens at nine.",
+        "a person who works": "\"a person who works\" is a real meaning, but it matches \"worker\", not \"office\" in this sentence.",
+        "a time when people discuss work": "\"a time when people discuss work\" is a real meaning, but it matches \"meeting\", not \"office\" in this sentence.",
+        "a short rest from work": "\"a short rest from work\" is a real meaning, but it matches \"break\", not \"office\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4087",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"worker\" mean in this sentence? In a short message, each worker has a badge.",
+      "options": [
+        "a person who works",
+        "a time when people discuss work",
+        "a short rest from work",
+        "a piece of work"
+      ],
+      "answer": "a person who works",
+      "explanation": "In this sentence, \"worker\" means \"a person who works\": In a short message, each worker has a badge.",
+      "rationales": {
+        "a person who works": "In this sentence, \"worker\" means \"a person who works\": In a short message, each worker has a badge.",
+        "a time when people discuss work": "\"a time when people discuss work\" is a real meaning, but it matches \"meeting\", not \"worker\" in this sentence.",
+        "a short rest from work": "\"a short rest from work\" is a real meaning, but it matches \"break\", not \"worker\" in this sentence.",
+        "a piece of work": "\"a piece of work\" is a real meaning, but it matches \"task\", not \"worker\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4088",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"meeting\" mean in this sentence? The report gives this example: The meeting starts soon.",
+      "options": [
+        "a time when people discuss work",
+        "a short rest from work",
+        "a piece of work",
+        "a person who directs work"
+      ],
+      "answer": "a time when people discuss work",
+      "explanation": "In this sentence, \"meeting\" means \"a time when people discuss work\": The report gives this example: The meeting starts soon.",
+      "rationales": {
+        "a time when people discuss work": "In this sentence, \"meeting\" means \"a time when people discuss work\": The report gives this example: The meeting starts soon.",
+        "a short rest from work": "\"a short rest from work\" is a real meaning, but it matches \"break\", not \"meeting\" in this sentence.",
+        "a piece of work": "\"a piece of work\" is a real meaning, but it matches \"task\", not \"meeting\" in this sentence.",
+        "a person who directs work": "\"a person who directs work\" is a real meaning, but it matches \"manager\", not \"meeting\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4089",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"break\" mean in this sentence? At the reception desk, we take a break at noon.",
+      "options": [
+        "a short rest from work",
+        "a piece of work",
+        "a person who directs work",
+        "a person who buys goods or services"
+      ],
+      "answer": "a short rest from work",
+      "explanation": "In this sentence, \"break\" means \"a short rest from work\": At the reception desk, we take a break at noon.",
+      "rationales": {
+        "a short rest from work": "In this sentence, \"break\" means \"a short rest from work\": At the reception desk, we take a break at noon.",
+        "a piece of work": "\"a piece of work\" is a real meaning, but it matches \"task\", not \"break\" in this sentence.",
+        "a person who directs work": "\"a person who directs work\" is a real meaning, but it matches \"manager\", not \"break\" in this sentence.",
+        "a person who buys goods or services": "\"a person who buys goods or services\" is a real meaning, but it matches \"customer\", not \"break\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4090",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"task\" mean in this sentence? The class note says that this task is easy.",
+      "options": [
+        "a piece of work",
+        "a person who directs work",
+        "a person who buys goods or services",
+        "a group working together"
+      ],
+      "answer": "a piece of work",
+      "explanation": "In this sentence, \"task\" means \"a piece of work\": The class note says that this task is easy.",
+      "rationales": {
+        "a piece of work": "In this sentence, \"task\" means \"a piece of work\": The class note says that this task is easy.",
+        "a person who directs work": "\"a person who directs work\" is a real meaning, but it matches \"manager\", not \"task\" in this sentence.",
+        "a person who buys goods or services": "\"a person who buys goods or services\" is a real meaning, but it matches \"customer\", not \"task\" in this sentence.",
+        "a group working together": "\"a group working together\" is a real meaning, but it matches \"team\", not \"task\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4091",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"manager\" mean in this sentence? In the practice text, the manager called the staff.",
+      "options": [
+        "a person who directs work",
+        "a person who buys goods or services",
+        "a group working together",
+        "a table used for work"
+      ],
+      "answer": "a person who directs work",
+      "explanation": "In this sentence, \"manager\" means \"a person who directs work\": In the practice text, the manager called the staff.",
+      "rationales": {
+        "a person who directs work": "In this sentence, \"manager\" means \"a person who directs work\": In the practice text, the manager called the staff.",
+        "a person who buys goods or services": "\"a person who buys goods or services\" is a real meaning, but it matches \"customer\", not \"manager\" in this sentence.",
+        "a group working together": "\"a group working together\" is a real meaning, but it matches \"team\", not \"manager\" in this sentence.",
+        "a table used for work": "\"a table used for work\" is a real meaning, but it matches \"desk\", not \"manager\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4092",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"customer\" mean in this sentence? During the lesson, the customer needs help.",
+      "options": [
+        "a person who buys goods or services",
+        "a group working together",
+        "a table used for work",
+        "a device used to call people"
+      ],
+      "answer": "a person who buys goods or services",
+      "explanation": "In this sentence, \"customer\" means \"a person who buys goods or services\": During the lesson, the customer needs help.",
+      "rationales": {
+        "a person who buys goods or services": "In this sentence, \"customer\" means \"a person who buys goods or services\": During the lesson, the customer needs help.",
+        "a group working together": "\"a group working together\" is a real meaning, but it matches \"team\", not \"customer\" in this sentence.",
+        "a table used for work": "\"a table used for work\" is a real meaning, but it matches \"desk\", not \"customer\" in this sentence.",
+        "a device used to call people": "\"a device used to call people\" is a real meaning, but it matches \"phone\", not \"customer\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4093",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"team\" mean in this sentence? The first example says that our team is small.",
+      "options": [
+        "a group working together",
+        "a table used for work",
+        "a device used to call people",
+        "a set of papers or records"
+      ],
+      "answer": "a group working together",
+      "explanation": "In this sentence, \"team\" means \"a group working together\": The first example says that our team is small.",
+      "rationales": {
+        "a group working together": "In this sentence, \"team\" means \"a group working together\": The first example says that our team is small.",
+        "a table used for work": "\"a table used for work\" is a real meaning, but it matches \"desk\", not \"team\" in this sentence.",
+        "a device used to call people": "\"a device used to call people\" is a real meaning, but it matches \"phone\", not \"team\" in this sentence.",
+        "a set of papers or records": "\"a set of papers or records\" is a real meaning, but it matches \"file\", not \"team\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4094",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"desk\" mean in this sentence? On the notice board, the form is on the desk.",
+      "options": [
+        "a table used for work",
+        "a device used to call people",
+        "a set of papers or records",
+        "a document with spaces to fill in"
+      ],
+      "answer": "a table used for work",
+      "explanation": "In this sentence, \"desk\" means \"a table used for work\": On the notice board, the form is on the desk.",
+      "rationales": {
+        "a table used for work": "In this sentence, \"desk\" means \"a table used for work\": On the notice board, the form is on the desk.",
+        "a device used to call people": "\"a device used to call people\" is a real meaning, but it matches \"phone\", not \"desk\" in this sentence.",
+        "a set of papers or records": "\"a set of papers or records\" is a real meaning, but it matches \"file\", not \"desk\" in this sentence.",
+        "a document with spaces to fill in": "\"a document with spaces to fill in\" is a real meaning, but it matches \"form\", not \"desk\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4095",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"phone\" mean in this sentence? The guide gives this sentence: The phone is ringing.",
+      "options": [
+        "a device used to call people",
+        "a set of papers or records",
+        "a document with spaces to fill in",
+        "an act of selling"
+      ],
+      "answer": "a device used to call people",
+      "explanation": "In this sentence, \"phone\" means \"a device used to call people\": The guide gives this sentence: The phone is ringing.",
+      "rationales": {
+        "a device used to call people": "In this sentence, \"phone\" means \"a device used to call people\": The guide gives this sentence: The phone is ringing.",
+        "a set of papers or records": "\"a set of papers or records\" is a real meaning, but it matches \"file\", not \"phone\" in this sentence.",
+        "a document with spaces to fill in": "\"a document with spaces to fill in\" is a real meaning, but it matches \"form\", not \"phone\" in this sentence.",
+        "an act of selling": "\"an act of selling\" is a real meaning, but it matches \"sale\", not \"phone\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4096",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"file\" mean in this sentence? In the office email, the file is in the drawer.",
+      "options": [
+        "a set of papers or records",
+        "a document with spaces to fill in",
+        "an act of selling",
+        "a place that sells things"
+      ],
+      "answer": "a set of papers or records",
+      "explanation": "In this sentence, \"file\" means \"a set of papers or records\": In the office email, the file is in the drawer.",
+      "rationales": {
+        "a set of papers or records": "In this sentence, \"file\" means \"a set of papers or records\": In the office email, the file is in the drawer.",
+        "a document with spaces to fill in": "\"a document with spaces to fill in\" is a real meaning, but it matches \"form\", not \"file\" in this sentence.",
+        "an act of selling": "\"an act of selling\" is a real meaning, but it matches \"sale\", not \"file\" in this sentence.",
+        "a place that sells things": "\"a place that sells things\" is a real meaning, but it matches \"shop\", not \"file\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4097",
+      "level": "A1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"form\" mean in this sentence? During the lesson, the tutor says, \"Please complete the form.\"",
+      "options": [
+        "a document with spaces to fill in",
+        "an act of selling",
+        "a place that sells things",
+        "an electronic message"
+      ],
+      "answer": "a document with spaces to fill in",
+      "explanation": "In this sentence, \"form\" means \"a document with spaces to fill in\": During the lesson, the tutor says, \"Please complete the form.\"",
+      "rationales": {
+        "a document with spaces to fill in": "In this sentence, \"form\" means \"a document with spaces to fill in\": During the lesson, the tutor says, \"Please complete the form.\"",
+        "an act of selling": "\"an act of selling\" is a real meaning, but it matches \"sale\", not \"form\" in this sentence.",
+        "a place that sells things": "\"a place that sells things\" is a real meaning, but it matches \"shop\", not \"form\" in this sentence.",
+        "an electronic message": "\"an electronic message\" is a real meaning, but it matches \"email\", not \"form\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4098",
+      "level": "A1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"sale\" mean in this sentence? At the start of the activity, the sale ended today.",
+      "options": [
+        "an act of selling",
+        "a place that sells things",
+        "an electronic message",
+        "work that someone is paid to do"
+      ],
+      "answer": "an act of selling",
+      "explanation": "In this sentence, \"sale\" means \"an act of selling\": At the start of the activity, the sale ended today.",
+      "rationales": {
+        "an act of selling": "In this sentence, \"sale\" means \"an act of selling\": At the start of the activity, the sale ended today.",
+        "a place that sells things": "\"a place that sells things\" is a real meaning, but it matches \"shop\", not \"sale\" in this sentence.",
+        "an electronic message": "\"an electronic message\" is a real meaning, but it matches \"email\", not \"sale\" in this sentence.",
+        "work that someone is paid to do": "\"work that someone is paid to do\" is a real meaning, but it matches \"job\", not \"sale\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4099",
+      "level": "A1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"shop\" mean in this sentence? The second example says that the shop closes at six.",
+      "options": [
+        "a place that sells things",
+        "an electronic message",
+        "work that someone is paid to do",
+        "a person who manages workers"
+      ],
+      "answer": "a place that sells things",
+      "explanation": "In this sentence, \"shop\" means \"a place that sells things\": The second example says that the shop closes at six.",
+      "rationales": {
+        "a place that sells things": "In this sentence, \"shop\" means \"a place that sells things\": The second example says that the shop closes at six.",
+        "an electronic message": "\"an electronic message\" is a real meaning, but it matches \"email\", not \"shop\" in this sentence.",
+        "work that someone is paid to do": "\"work that someone is paid to do\" is a real meaning, but it matches \"job\", not \"shop\" in this sentence.",
+        "a person who manages workers": "\"a person who manages workers\" is a real meaning, but it matches \"boss\", not \"shop\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a1-4100",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"email\" mean in this sentence? On the class website, I sent an email.",
+      "options": [
+        "an electronic message",
+        "work that someone is paid to do",
+        "a person who manages workers",
+        "give money for work or goods"
+      ],
+      "answer": "an electronic message",
+      "explanation": "In this sentence, \"email\" means \"an electronic message\": On the class website, I sent an email.",
+      "rationales": {
+        "an electronic message": "In this sentence, \"email\" means \"an electronic message\": On the class website, I sent an email.",
+        "work that someone is paid to do": "\"work that someone is paid to do\" is a real meaning, but it matches \"job\", not \"email\" in this sentence.",
+        "a person who manages workers": "\"a person who manages workers\" is a real meaning, but it matches \"boss\", not \"email\" in this sentence.",
+        "give money for work or goods": "\"give money for work or goods\" is a real meaning, but it matches \"pay\", not \"email\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4101",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"deadline\" mean in this sentence? The deadline for the form is Friday.",
+      "options": [
+        "the time something must be finished",
+        "a document requesting payment",
+        "a person who manages workers",
+        "an arranged meeting"
+      ],
+      "answer": "the time something must be finished",
+      "explanation": "In this sentence, \"deadline\" means \"the time something must be finished\": The deadline for the form is Friday.",
+      "rationales": {
+        "the time something must be finished": "In this sentence, \"deadline\" means \"the time something must be finished\": The deadline for the form is Friday.",
+        "a document requesting payment": "\"a document requesting payment\" is a real meaning, but it matches \"invoice\", not \"deadline\" in this sentence.",
+        "a person who manages workers": "\"a person who manages workers\" is a real meaning, but it matches \"supervisor\", not \"deadline\" in this sentence.",
+        "an arranged meeting": "\"an arranged meeting\" is a real meaning, but it matches \"appointment\", not \"deadline\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4102",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"invoice\" mean in this sentence? In the clinic, the office sent an invoice.",
+      "options": [
+        "a document requesting payment",
+        "a person who manages workers",
+        "an arranged meeting",
+        "extra work hours"
+      ],
+      "answer": "a document requesting payment",
+      "explanation": "In this sentence, \"invoice\" means \"a document requesting payment\": In the clinic, the office sent an invoice.",
+      "rationales": {
+        "a document requesting payment": "In this sentence, \"invoice\" means \"a document requesting payment\": In the clinic, the office sent an invoice.",
+        "a person who manages workers": "\"a person who manages workers\" is a real meaning, but it matches \"supervisor\", not \"invoice\" in this sentence.",
+        "an arranged meeting": "\"an arranged meeting\" is a real meaning, but it matches \"appointment\", not \"invoice\" in this sentence.",
+        "extra work hours": "\"extra work hours\" is a real meaning, but it matches \"overtime\", not \"invoice\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4103",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"supervisor\" mean in this sentence? In the office, the instruction is, \"Ask your supervisor before leaving.\"",
+      "options": [
+        "a person who manages workers",
+        "an arranged meeting",
+        "extra work hours",
+        "a plan of times"
+      ],
+      "answer": "a person who manages workers",
+      "explanation": "In this sentence, \"supervisor\" means \"a person who manages workers\": In the office, the instruction is, \"Ask your supervisor before leaving.\"",
+      "rationales": {
+        "a person who manages workers": "In this sentence, \"supervisor\" means \"a person who manages workers\": In the office, the instruction is, \"Ask your supervisor before leaving.\"",
+        "an arranged meeting": "\"an arranged meeting\" is a real meaning, but it matches \"appointment\", not \"supervisor\" in this sentence.",
+        "extra work hours": "\"extra work hours\" is a real meaning, but it matches \"overtime\", not \"supervisor\" in this sentence.",
+        "a plan of times": "\"a plan of times\" is a real meaning, but it matches \"schedule\", not \"supervisor\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4104",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"appointment\" mean in this sentence? The example says that the appointment is at 3 p.m.",
+      "options": [
+        "an arranged meeting",
+        "extra work hours",
+        "a plan of times",
+        "regular pay for a job"
+      ],
+      "answer": "an arranged meeting",
+      "explanation": "In this sentence, \"appointment\" means \"an arranged meeting\": The example says that the appointment is at 3 p.m.",
+      "rationales": {
+        "an arranged meeting": "In this sentence, \"appointment\" means \"an arranged meeting\": The example says that the appointment is at 3 p.m.",
+        "extra work hours": "\"extra work hours\" is a real meaning, but it matches \"overtime\", not \"appointment\" in this sentence.",
+        "a plan of times": "\"a plan of times\" is a real meaning, but it matches \"schedule\", not \"appointment\" in this sentence.",
+        "regular pay for a job": "\"regular pay for a job\" is a real meaning, but it matches \"salary\", not \"appointment\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4105",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"overtime\" mean in this sentence? On the worksheet, Omar worked overtime yesterday.",
+      "options": [
+        "extra work hours",
+        "a plan of times",
+        "regular pay for a job",
+        "learning skills for work"
+      ],
+      "answer": "extra work hours",
+      "explanation": "In this sentence, \"overtime\" means \"extra work hours\": On the worksheet, Omar worked overtime yesterday.",
+      "rationales": {
+        "extra work hours": "In this sentence, \"overtime\" means \"extra work hours\": On the worksheet, Omar worked overtime yesterday.",
+        "a plan of times": "\"a plan of times\" is a real meaning, but it matches \"schedule\", not \"overtime\" in this sentence.",
+        "regular pay for a job": "\"regular pay for a job\" is a real meaning, but it matches \"salary\", not \"overtime\" in this sentence.",
+        "learning skills for work": "\"learning skills for work\" is a real meaning, but it matches \"training\", not \"overtime\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4106",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"schedule\" mean in this sentence? The teacher's example is this: The schedule changed yesterday.",
+      "options": [
+        "a plan of times",
+        "regular pay for a job",
+        "learning skills for work",
+        "a person who works for a company"
+      ],
+      "answer": "a plan of times",
+      "explanation": "In this sentence, \"schedule\" means \"a plan of times\": The teacher's example is this: The schedule changed yesterday.",
+      "rationales": {
+        "a plan of times": "In this sentence, \"schedule\" means \"a plan of times\": The teacher's example is this: The schedule changed yesterday.",
+        "regular pay for a job": "\"regular pay for a job\" is a real meaning, but it matches \"salary\", not \"schedule\" in this sentence.",
+        "learning skills for work": "\"learning skills for work\" is a real meaning, but it matches \"training\", not \"schedule\" in this sentence.",
+        "a person who works for a company": "\"a person who works for a company\" is a real meaning, but it matches \"employee\", not \"schedule\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4107",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"salary\" mean in this sentence? In a short message, her salary is paid monthly.",
+      "options": [
+        "regular pay for a job",
+        "learning skills for work",
+        "a person who works for a company",
+        "help given to customers"
+      ],
+      "answer": "regular pay for a job",
+      "explanation": "In this sentence, \"salary\" means \"regular pay for a job\": In a short message, her salary is paid monthly.",
+      "rationales": {
+        "regular pay for a job": "In this sentence, \"salary\" means \"regular pay for a job\": In a short message, her salary is paid monthly.",
+        "learning skills for work": "\"learning skills for work\" is a real meaning, but it matches \"training\", not \"salary\" in this sentence.",
+        "a person who works for a company": "\"a person who works for a company\" is a real meaning, but it matches \"employee\", not \"salary\" in this sentence.",
+        "help given to customers": "\"help given to customers\" is a real meaning, but it matches \"customer service\", not \"salary\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4108",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"training\" mean in this sentence? The report gives this example: New staff need training.",
+      "options": [
+        "learning skills for work",
+        "a person who works for a company",
+        "help given to customers",
+        "proof of payment"
+      ],
+      "answer": "learning skills for work",
+      "explanation": "In this sentence, \"training\" means \"learning skills for work\": The report gives this example: New staff need training.",
+      "rationales": {
+        "learning skills for work": "In this sentence, \"training\" means \"learning skills for work\": The report gives this example: New staff need training.",
+        "a person who works for a company": "\"a person who works for a company\" is a real meaning, but it matches \"employee\", not \"training\" in this sentence.",
+        "help given to customers": "\"help given to customers\" is a real meaning, but it matches \"customer service\", not \"training\" in this sentence.",
+        "proof of payment": "\"proof of payment\" is a real meaning, but it matches \"receipt\", not \"training\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4109",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"employee\" mean in this sentence? At the reception desk, each employee received a card.",
+      "options": [
+        "a person who works for a company",
+        "help given to customers",
+        "proof of payment",
+        "money returned to a customer"
+      ],
+      "answer": "a person who works for a company",
+      "explanation": "In this sentence, \"employee\" means \"a person who works for a company\": At the reception desk, each employee received a card.",
+      "rationales": {
+        "a person who works for a company": "In this sentence, \"employee\" means \"a person who works for a company\": At the reception desk, each employee received a card.",
+        "help given to customers": "\"help given to customers\" is a real meaning, but it matches \"customer service\", not \"employee\" in this sentence.",
+        "proof of payment": "\"proof of payment\" is a real meaning, but it matches \"receipt\", not \"employee\" in this sentence.",
+        "money returned to a customer": "\"money returned to a customer\" is a real meaning, but it matches \"refund\", not \"employee\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4110",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"customer service\" mean in this sentence? The class note says that the job requires customer service.",
+      "options": [
+        "help given to customers",
+        "proof of payment",
+        "money returned to a customer",
+        "a written name"
+      ],
+      "answer": "help given to customers",
+      "explanation": "In this sentence, \"customer service\" means \"help given to customers\": The class note says that the job requires customer service.",
+      "rationales": {
+        "help given to customers": "In this sentence, \"customer service\" means \"help given to customers\": The class note says that the job requires customer service.",
+        "proof of payment": "\"proof of payment\" is a real meaning, but it matches \"receipt\", not \"customer service\" in this sentence.",
+        "money returned to a customer": "\"money returned to a customer\" is a real meaning, but it matches \"refund\", not \"customer service\" in this sentence.",
+        "a written name": "\"a written name\" is a real meaning, but it matches \"signature\", not \"customer service\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4111",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"receipt\" mean in this sentence? In the practice text, keep the receipt for your records.",
+      "options": [
+        "proof of payment",
+        "money returned to a customer",
+        "a written name",
+        "special clothes for work"
+      ],
+      "answer": "proof of payment",
+      "explanation": "In this sentence, \"receipt\" means \"proof of payment\": In the practice text, keep the receipt for your records.",
+      "rationales": {
+        "proof of payment": "In this sentence, \"receipt\" means \"proof of payment\": In the practice text, keep the receipt for your records.",
+        "money returned to a customer": "\"money returned to a customer\" is a real meaning, but it matches \"refund\", not \"receipt\" in this sentence.",
+        "a written name": "\"a written name\" is a real meaning, but it matches \"signature\", not \"receipt\" in this sentence.",
+        "special clothes for work": "\"special clothes for work\" is a real meaning, but it matches \"uniform\", not \"receipt\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4112",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"refund\" mean in this sentence? During the lesson, the store gave a refund.",
+      "options": [
+        "money returned to a customer",
+        "a written name",
+        "special clothes for work",
+        "one office of a larger business"
+      ],
+      "answer": "money returned to a customer",
+      "explanation": "In this sentence, \"refund\" means \"money returned to a customer\": During the lesson, the store gave a refund.",
+      "rationales": {
+        "money returned to a customer": "In this sentence, \"refund\" means \"money returned to a customer\": During the lesson, the store gave a refund.",
+        "a written name": "\"a written name\" is a real meaning, but it matches \"signature\", not \"refund\" in this sentence.",
+        "special clothes for work": "\"special clothes for work\" is a real meaning, but it matches \"uniform\", not \"refund\" in this sentence.",
+        "one office of a larger business": "\"one office of a larger business\" is a real meaning, but it matches \"branch\", not \"refund\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4113",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"signature\" mean in this sentence? The first example says that the form needs a signature.",
+      "options": [
+        "a written name",
+        "special clothes for work",
+        "one office of a larger business",
+        "a job"
+      ],
+      "answer": "a written name",
+      "explanation": "In this sentence, \"signature\" means \"a written name\": The first example says that the form needs a signature.",
+      "rationales": {
+        "a written name": "In this sentence, \"signature\" means \"a written name\": The first example says that the form needs a signature.",
+        "special clothes for work": "\"special clothes for work\" is a real meaning, but it matches \"uniform\", not \"signature\" in this sentence.",
+        "one office of a larger business": "\"one office of a larger business\" is a real meaning, but it matches \"branch\", not \"signature\" in this sentence.",
+        "a job": "\"a job\" is a real meaning, but it matches \"position\", not \"signature\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4114",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"uniform\" mean in this sentence? On the notice board, workers wear a uniform.",
+      "options": [
+        "special clothes for work",
+        "one office of a larger business",
+        "a job",
+        "give someone a job"
+      ],
+      "answer": "special clothes for work",
+      "explanation": "In this sentence, \"uniform\" means \"special clothes for work\": On the notice board, workers wear a uniform.",
+      "rationales": {
+        "special clothes for work": "In this sentence, \"uniform\" means \"special clothes for work\": On the notice board, workers wear a uniform.",
+        "one office of a larger business": "\"one office of a larger business\" is a real meaning, but it matches \"branch\", not \"uniform\" in this sentence.",
+        "a job": "\"a job\" is a real meaning, but it matches \"position\", not \"uniform\" in this sentence.",
+        "give someone a job": "\"give someone a job\" is a real meaning, but it matches \"hire\", not \"uniform\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4115",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"branch\" mean in this sentence? The guide gives this sentence: The bank opened a new branch.",
+      "options": [
+        "one office of a larger business",
+        "a job",
+        "give someone a job",
+        "leave a job officially"
+      ],
+      "answer": "one office of a larger business",
+      "explanation": "In this sentence, \"branch\" means \"one office of a larger business\": The guide gives this sentence: The bank opened a new branch.",
+      "rationales": {
+        "one office of a larger business": "In this sentence, \"branch\" means \"one office of a larger business\": The guide gives this sentence: The bank opened a new branch.",
+        "a job": "\"a job\" is a real meaning, but it matches \"position\", not \"branch\" in this sentence.",
+        "give someone a job": "\"give someone a job\" is a real meaning, but it matches \"hire\", not \"branch\" in this sentence.",
+        "leave a job officially": "\"leave a job officially\" is a real meaning, but it matches \"resign\", not \"branch\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4116",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"position\" mean in this sentence? In the office email, she applied for a position.",
+      "options": [
+        "a job",
+        "give someone a job",
+        "leave a job officially",
+        "bring goods to a place"
+      ],
+      "answer": "a job",
+      "explanation": "In this sentence, \"position\" means \"a job\": In the office email, she applied for a position.",
+      "rationales": {
+        "a job": "In this sentence, \"position\" means \"a job\": In the office email, she applied for a position.",
+        "give someone a job": "\"give someone a job\" is a real meaning, but it matches \"hire\", not \"position\" in this sentence.",
+        "leave a job officially": "\"leave a job officially\" is a real meaning, but it matches \"resign\", not \"position\" in this sentence.",
+        "bring goods to a place": "\"bring goods to a place\" is a real meaning, but it matches \"deliver\", not \"position\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4117",
+      "level": "A2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"hire\" mean in this sentence? The reading passage says that the company will hire two clerks.",
+      "options": [
+        "give someone a job",
+        "leave a job officially",
+        "bring goods to a place",
+        "provide what is needed"
+      ],
+      "answer": "give someone a job",
+      "explanation": "In this sentence, \"hire\" means \"give someone a job\": The reading passage says that the company will hire two clerks.",
+      "rationales": {
+        "give someone a job": "In this sentence, \"hire\" means \"give someone a job\": The reading passage says that the company will hire two clerks.",
+        "leave a job officially": "\"leave a job officially\" is a real meaning, but it matches \"resign\", not \"hire\" in this sentence.",
+        "bring goods to a place": "\"bring goods to a place\" is a real meaning, but it matches \"deliver\", not \"hire\" in this sentence.",
+        "provide what is needed": "\"provide what is needed\" is a real meaning, but it matches \"supply\", not \"hire\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4118",
+      "level": "A2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"resign\" mean in this sentence? At the start of the activity, the manager plans to resign.",
+      "options": [
+        "leave a job officially",
+        "bring goods to a place",
+        "provide what is needed",
+        "the time something must be finished"
+      ],
+      "answer": "leave a job officially",
+      "explanation": "In this sentence, \"resign\" means \"leave a job officially\": At the start of the activity, the manager plans to resign.",
+      "rationales": {
+        "leave a job officially": "In this sentence, \"resign\" means \"leave a job officially\": At the start of the activity, the manager plans to resign.",
+        "bring goods to a place": "\"bring goods to a place\" is a real meaning, but it matches \"deliver\", not \"resign\" in this sentence.",
+        "provide what is needed": "\"provide what is needed\" is a real meaning, but it matches \"supply\", not \"resign\" in this sentence.",
+        "the time something must be finished": "\"the time something must be finished\" is a real meaning, but it matches \"deadline\", not \"resign\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4119",
+      "level": "A2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"deliver\" mean in this sentence? The second example says that they deliver packages daily.",
+      "options": [
+        "bring goods to a place",
+        "provide what is needed",
+        "the time something must be finished",
+        "a document requesting payment"
+      ],
+      "answer": "bring goods to a place",
+      "explanation": "In this sentence, \"deliver\" means \"bring goods to a place\": The second example says that they deliver packages daily.",
+      "rationales": {
+        "bring goods to a place": "In this sentence, \"deliver\" means \"bring goods to a place\": The second example says that they deliver packages daily.",
+        "provide what is needed": "\"provide what is needed\" is a real meaning, but it matches \"supply\", not \"deliver\" in this sentence.",
+        "the time something must be finished": "\"the time something must be finished\" is a real meaning, but it matches \"deadline\", not \"deliver\" in this sentence.",
+        "a document requesting payment": "\"a document requesting payment\" is a real meaning, but it matches \"invoice\", not \"deliver\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-a2-4120",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"supply\" mean in this sentence? On the class website, the office will supply notebooks.",
+      "options": [
+        "provide what is needed",
+        "the time something must be finished",
+        "a document requesting payment",
+        "a person who manages workers"
+      ],
+      "answer": "provide what is needed",
+      "explanation": "In this sentence, \"supply\" means \"provide what is needed\": On the class website, the office will supply notebooks.",
+      "rationales": {
+        "provide what is needed": "In this sentence, \"supply\" means \"provide what is needed\": On the class website, the office will supply notebooks.",
+        "the time something must be finished": "\"the time something must be finished\" is a real meaning, but it matches \"deadline\", not \"supply\" in this sentence.",
+        "a document requesting payment": "\"a document requesting payment\" is a real meaning, but it matches \"invoice\", not \"supply\" in this sentence.",
+        "a person who manages workers": "\"a person who manages workers\" is a real meaning, but it matches \"supervisor\", not \"supply\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4121",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"contract\" mean in this sentence? The contract starts next month.",
+      "options": [
+        "a written agreement",
+        "a person or company that uses a service",
+        "an official rule or plan",
+        "a formal request"
+      ],
+      "answer": "a written agreement",
+      "explanation": "In this sentence, \"contract\" means \"a written agreement\": The contract starts next month.",
+      "rationales": {
+        "a written agreement": "In this sentence, \"contract\" means \"a written agreement\": The contract starts next month.",
+        "a person or company that uses a service": "\"a person or company that uses a service\" is a real meaning, but it matches \"client\", not \"contract\" in this sentence.",
+        "an official rule or plan": "\"an official rule or plan\" is a real meaning, but it matches \"policy\", not \"contract\" in this sentence.",
+        "a formal request": "\"a formal request\" is a real meaning, but it matches \"application\", not \"contract\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4122",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"client\" mean in this sentence? In the clinic, the client requested a refund.",
+      "options": [
+        "a person or company that uses a service",
+        "an official rule or plan",
+        "a formal request",
+        "a plan for spending money"
+      ],
+      "answer": "a person or company that uses a service",
+      "explanation": "In this sentence, \"client\" means \"a person or company that uses a service\": In the clinic, the client requested a refund.",
+      "rationales": {
+        "a person or company that uses a service": "In this sentence, \"client\" means \"a person or company that uses a service\": In the clinic, the client requested a refund.",
+        "an official rule or plan": "\"an official rule or plan\" is a real meaning, but it matches \"policy\", not \"client\" in this sentence.",
+        "a formal request": "\"a formal request\" is a real meaning, but it matches \"application\", not \"client\" in this sentence.",
+        "a plan for spending money": "\"a plan for spending money\" is a real meaning, but it matches \"budget\", not \"client\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4123",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"policy\" mean in this sentence? During the discussion, the company changed its privacy policy.",
+      "options": [
+        "an official rule or plan",
+        "a formal request",
+        "a plan for spending money",
+        "a person you work with"
+      ],
+      "answer": "an official rule or plan",
+      "explanation": "In this sentence, \"policy\" means \"an official rule or plan\": During the discussion, the company changed its privacy policy.",
+      "rationales": {
+        "an official rule or plan": "In this sentence, \"policy\" means \"an official rule or plan\": During the discussion, the company changed its privacy policy.",
+        "a formal request": "\"a formal request\" is a real meaning, but it matches \"application\", not \"policy\" in this sentence.",
+        "a plan for spending money": "\"a plan for spending money\" is a real meaning, but it matches \"budget\", not \"policy\" in this sentence.",
+        "a person you work with": "\"a person you work with\" is a real meaning, but it matches \"colleague\", not \"policy\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4124",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"application\" mean in this sentence? The example says that the application must be signed.",
+      "options": [
+        "a formal request",
+        "a plan for spending money",
+        "a person you work with",
+        "one part of an organization"
+      ],
+      "answer": "a formal request",
+      "explanation": "In this sentence, \"application\" means \"a formal request\": The example says that the application must be signed.",
+      "rationales": {
+        "a formal request": "In this sentence, \"application\" means \"a formal request\": The example says that the application must be signed.",
+        "a plan for spending money": "\"a plan for spending money\" is a real meaning, but it matches \"budget\", not \"application\" in this sentence.",
+        "a person you work with": "\"a person you work with\" is a real meaning, but it matches \"colleague\", not \"application\" in this sentence.",
+        "one part of an organization": "\"one part of an organization\" is a real meaning, but it matches \"department\", not \"application\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4125",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"budget\" mean in this sentence? On the worksheet, the budget includes training costs.",
+      "options": [
+        "a plan for spending money",
+        "a person you work with",
+        "one part of an organization",
+        "a person applying for a position"
+      ],
+      "answer": "a plan for spending money",
+      "explanation": "In this sentence, \"budget\" means \"a plan for spending money\": On the worksheet, the budget includes training costs.",
+      "rationales": {
+        "a plan for spending money": "In this sentence, \"budget\" means \"a plan for spending money\": On the worksheet, the budget includes training costs.",
+        "a person you work with": "\"a person you work with\" is a real meaning, but it matches \"colleague\", not \"budget\" in this sentence.",
+        "one part of an organization": "\"one part of an organization\" is a real meaning, but it matches \"department\", not \"budget\" in this sentence.",
+        "a person applying for a position": "\"a person applying for a position\" is a real meaning, but it matches \"candidate\", not \"budget\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4126",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"colleague\" mean in this sentence? The teacher writes, \"Ask a colleague for help.\"",
+      "options": [
+        "a person you work with",
+        "one part of an organization",
+        "a person applying for a position",
+        "move to a higher job"
+      ],
+      "answer": "a person you work with",
+      "explanation": "In this sentence, \"colleague\" means \"a person you work with\": The teacher writes, \"Ask a colleague for help.\"",
+      "rationales": {
+        "a person you work with": "In this sentence, \"colleague\" means \"a person you work with\": The teacher writes, \"Ask a colleague for help.\"",
+        "one part of an organization": "\"one part of an organization\" is a real meaning, but it matches \"department\", not \"colleague\" in this sentence.",
+        "a person applying for a position": "\"a person applying for a position\" is a real meaning, but it matches \"candidate\", not \"colleague\" in this sentence.",
+        "move to a higher job": "\"move to a higher job\" is a real meaning, but it matches \"promotion\", not \"colleague\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4127",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"department\" mean in this sentence? In a short message, the finance department approved the payment.",
+      "options": [
+        "one part of an organization",
+        "a person applying for a position",
+        "move to a higher job",
+        "time away from work"
+      ],
+      "answer": "one part of an organization",
+      "explanation": "In this sentence, \"department\" means \"one part of an organization\": In a short message, the finance department approved the payment.",
+      "rationales": {
+        "one part of an organization": "In this sentence, \"department\" means \"one part of an organization\": In a short message, the finance department approved the payment.",
+        "a person applying for a position": "\"a person applying for a position\" is a real meaning, but it matches \"candidate\", not \"department\" in this sentence.",
+        "move to a higher job": "\"move to a higher job\" is a real meaning, but it matches \"promotion\", not \"department\" in this sentence.",
+        "time away from work": "\"time away from work\" is a real meaning, but it matches \"absence\", not \"department\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4128",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"candidate\" mean in this sentence? The report gives this example: The candidate arrived early.",
+      "options": [
+        "a person applying for a position",
+        "move to a higher job",
+        "time away from work",
+        "extra things given with a job"
+      ],
+      "answer": "a person applying for a position",
+      "explanation": "In this sentence, \"candidate\" means \"a person applying for a position\": The report gives this example: The candidate arrived early.",
+      "rationales": {
+        "a person applying for a position": "In this sentence, \"candidate\" means \"a person applying for a position\": The report gives this example: The candidate arrived early.",
+        "move to a higher job": "\"move to a higher job\" is a real meaning, but it matches \"promotion\", not \"candidate\" in this sentence.",
+        "time away from work": "\"time away from work\" is a real meaning, but it matches \"absence\", not \"candidate\" in this sentence.",
+        "extra things given with a job": "\"extra things given with a job\" is a real meaning, but it matches \"benefits\", not \"candidate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4129",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"promotion\" mean in this sentence? At the reception desk, Omar received a promotion.",
+      "options": [
+        "move to a higher job",
+        "time away from work",
+        "extra things given with a job",
+        "a statement that something is wrong"
+      ],
+      "answer": "move to a higher job",
+      "explanation": "In this sentence, \"promotion\" means \"move to a higher job\": At the reception desk, Omar received a promotion.",
+      "rationales": {
+        "move to a higher job": "In this sentence, \"promotion\" means \"move to a higher job\": At the reception desk, Omar received a promotion.",
+        "time away from work": "\"time away from work\" is a real meaning, but it matches \"absence\", not \"promotion\" in this sentence.",
+        "extra things given with a job": "\"extra things given with a job\" is a real meaning, but it matches \"benefits\", not \"promotion\" in this sentence.",
+        "a statement that something is wrong": "\"a statement that something is wrong\" is a real meaning, but it matches \"complaint\", not \"promotion\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4130",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"absence\" mean in this sentence? The class note says that the supervisor recorded the absence.",
+      "options": [
+        "time away from work",
+        "extra things given with a job",
+        "a statement that something is wrong",
+        "an official way to do something"
+      ],
+      "answer": "time away from work",
+      "explanation": "In this sentence, \"absence\" means \"time away from work\": The class note says that the supervisor recorded the absence.",
+      "rationales": {
+        "time away from work": "In this sentence, \"absence\" means \"time away from work\": The class note says that the supervisor recorded the absence.",
+        "extra things given with a job": "\"extra things given with a job\" is a real meaning, but it matches \"benefits\", not \"absence\" in this sentence.",
+        "a statement that something is wrong": "\"a statement that something is wrong\" is a real meaning, but it matches \"complaint\", not \"absence\" in this sentence.",
+        "an official way to do something": "\"an official way to do something\" is a real meaning, but it matches \"procedure\", not \"absence\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4131",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"benefits\" mean in this sentence? In the practice text, the job includes health benefits.",
+      "options": [
+        "extra things given with a job",
+        "a statement that something is wrong",
+        "an official way to do something",
+        "tools or machines used for work"
+      ],
+      "answer": "extra things given with a job",
+      "explanation": "In this sentence, \"benefits\" means \"extra things given with a job\": In the practice text, the job includes health benefits.",
+      "rationales": {
+        "extra things given with a job": "In this sentence, \"benefits\" means \"extra things given with a job\": In the practice text, the job includes health benefits.",
+        "a statement that something is wrong": "\"a statement that something is wrong\" is a real meaning, but it matches \"complaint\", not \"benefits\" in this sentence.",
+        "an official way to do something": "\"an official way to do something\" is a real meaning, but it matches \"procedure\", not \"benefits\" in this sentence.",
+        "tools or machines used for work": "\"tools or machines used for work\" is a real meaning, but it matches \"equipment\", not \"benefits\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4132",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"complaint\" mean in this sentence? During the lesson, the client filed a complaint.",
+      "options": [
+        "a statement that something is wrong",
+        "an official way to do something",
+        "tools or machines used for work",
+        "goods a business has"
+      ],
+      "answer": "a statement that something is wrong",
+      "explanation": "In this sentence, \"complaint\" means \"a statement that something is wrong\": During the lesson, the client filed a complaint.",
+      "rationales": {
+        "a statement that something is wrong": "In this sentence, \"complaint\" means \"a statement that something is wrong\": During the lesson, the client filed a complaint.",
+        "an official way to do something": "\"an official way to do something\" is a real meaning, but it matches \"procedure\", not \"complaint\" in this sentence.",
+        "tools or machines used for work": "\"tools or machines used for work\" is a real meaning, but it matches \"equipment\", not \"complaint\" in this sentence.",
+        "goods a business has": "\"goods a business has\" is a real meaning, but it matches \"inventory\", not \"complaint\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4133",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"procedure\" mean in this sentence? The first example says that follow the safety procedure.",
+      "options": [
+        "an official way to do something",
+        "tools or machines used for work",
+        "goods a business has",
+        "a scheduled period of work"
+      ],
+      "answer": "an official way to do something",
+      "explanation": "In this sentence, \"procedure\" means \"an official way to do something\": The first example says that follow the safety procedure.",
+      "rationales": {
+        "an official way to do something": "In this sentence, \"procedure\" means \"an official way to do something\": The first example says that follow the safety procedure.",
+        "tools or machines used for work": "\"tools or machines used for work\" is a real meaning, but it matches \"equipment\", not \"procedure\" in this sentence.",
+        "goods a business has": "\"goods a business has\" is a real meaning, but it matches \"inventory\", not \"procedure\" in this sentence.",
+        "a scheduled period of work": "\"a scheduled period of work\" is a real meaning, but it matches \"shift\", not \"procedure\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4134",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"equipment\" mean in this sentence? On the notice board, the lab bought new equipment.",
+      "options": [
+        "tools or machines used for work",
+        "goods a business has",
+        "a scheduled period of work",
+        "a person hired for a specific job"
+      ],
+      "answer": "tools or machines used for work",
+      "explanation": "In this sentence, \"equipment\" means \"tools or machines used for work\": On the notice board, the lab bought new equipment.",
+      "rationales": {
+        "tools or machines used for work": "In this sentence, \"equipment\" means \"tools or machines used for work\": On the notice board, the lab bought new equipment.",
+        "goods a business has": "\"goods a business has\" is a real meaning, but it matches \"inventory\", not \"equipment\" in this sentence.",
+        "a scheduled period of work": "\"a scheduled period of work\" is a real meaning, but it matches \"shift\", not \"equipment\" in this sentence.",
+        "a person hired for a specific job": "\"a person hired for a specific job\" is a real meaning, but it matches \"contractor\", not \"equipment\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4135",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"inventory\" mean in this sentence? The guide gives this sentence: The store checked inventory.",
+      "options": [
+        "goods a business has",
+        "a scheduled period of work",
+        "a person hired for a specific job",
+        "a person who comments on an applicant"
+      ],
+      "answer": "goods a business has",
+      "explanation": "In this sentence, \"inventory\" means \"goods a business has\": The guide gives this sentence: The store checked inventory.",
+      "rationales": {
+        "goods a business has": "In this sentence, \"inventory\" means \"goods a business has\": The guide gives this sentence: The store checked inventory.",
+        "a scheduled period of work": "\"a scheduled period of work\" is a real meaning, but it matches \"shift\", not \"inventory\" in this sentence.",
+        "a person hired for a specific job": "\"a person hired for a specific job\" is a real meaning, but it matches \"contractor\", not \"inventory\" in this sentence.",
+        "a person who comments on an applicant": "\"a person who comments on an applicant\" is a real meaning, but it matches \"reference\", not \"inventory\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4136",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"shift\" mean in this sentence? In the office email, Lena changed her shift.",
+      "options": [
+        "a scheduled period of work",
+        "a person hired for a specific job",
+        "a person who comments on an applicant",
+        "an official check or evaluation"
+      ],
+      "answer": "a scheduled period of work",
+      "explanation": "In this sentence, \"shift\" means \"a scheduled period of work\": In the office email, Lena changed her shift.",
+      "rationales": {
+        "a scheduled period of work": "In this sentence, \"shift\" means \"a scheduled period of work\": In the office email, Lena changed her shift.",
+        "a person hired for a specific job": "\"a person hired for a specific job\" is a real meaning, but it matches \"contractor\", not \"shift\" in this sentence.",
+        "a person who comments on an applicant": "\"a person who comments on an applicant\" is a real meaning, but it matches \"reference\", not \"shift\" in this sentence.",
+        "an official check or evaluation": "\"an official check or evaluation\" is a real meaning, but it matches \"review\", not \"shift\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4137",
+      "level": "B1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"contractor\" mean in this sentence? The reading passage says that the contractor repaired the office.",
+      "options": [
+        "a person hired for a specific job",
+        "a person who comments on an applicant",
+        "an official check or evaluation",
+        "pay based on hours or days"
+      ],
+      "answer": "a person hired for a specific job",
+      "explanation": "In this sentence, \"contractor\" means \"a person hired for a specific job\": The reading passage says that the contractor repaired the office.",
+      "rationales": {
+        "a person hired for a specific job": "In this sentence, \"contractor\" means \"a person hired for a specific job\": The reading passage says that the contractor repaired the office.",
+        "a person who comments on an applicant": "\"a person who comments on an applicant\" is a real meaning, but it matches \"reference\", not \"contractor\" in this sentence.",
+        "an official check or evaluation": "\"an official check or evaluation\" is a real meaning, but it matches \"review\", not \"contractor\" in this sentence.",
+        "pay based on hours or days": "\"pay based on hours or days\" is a real meaning, but it matches \"wage\", not \"contractor\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4138",
+      "level": "B1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"reference\" mean in this sentence? At the start of the activity, the applicant listed a reference.",
+      "options": [
+        "a person who comments on an applicant",
+        "an official check or evaluation",
+        "pay based on hours or days",
+        "a written agreement"
+      ],
+      "answer": "a person who comments on an applicant",
+      "explanation": "In this sentence, \"reference\" means \"a person who comments on an applicant\": At the start of the activity, the applicant listed a reference.",
+      "rationales": {
+        "a person who comments on an applicant": "In this sentence, \"reference\" means \"a person who comments on an applicant\": At the start of the activity, the applicant listed a reference.",
+        "an official check or evaluation": "\"an official check or evaluation\" is a real meaning, but it matches \"review\", not \"reference\" in this sentence.",
+        "pay based on hours or days": "\"pay based on hours or days\" is a real meaning, but it matches \"wage\", not \"reference\" in this sentence.",
+        "a written agreement": "\"a written agreement\" is a real meaning, but it matches \"contract\", not \"reference\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4139",
+      "level": "B1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"review\" mean in this sentence? The second example says that the annual review is next week.",
+      "options": [
+        "an official check or evaluation",
+        "pay based on hours or days",
+        "a written agreement",
+        "a person or company that uses a service"
+      ],
+      "answer": "an official check or evaluation",
+      "explanation": "In this sentence, \"review\" means \"an official check or evaluation\": The second example says that the annual review is next week.",
+      "rationales": {
+        "an official check or evaluation": "In this sentence, \"review\" means \"an official check or evaluation\": The second example says that the annual review is next week.",
+        "pay based on hours or days": "\"pay based on hours or days\" is a real meaning, but it matches \"wage\", not \"review\" in this sentence.",
+        "a written agreement": "\"a written agreement\" is a real meaning, but it matches \"contract\", not \"review\" in this sentence.",
+        "a person or company that uses a service": "\"a person or company that uses a service\" is a real meaning, but it matches \"client\", not \"review\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b1-4140",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"wage\" mean in this sentence? On the class website, the hourly wage increased.",
+      "options": [
+        "pay based on hours or days",
+        "a written agreement",
+        "a person or company that uses a service",
+        "an official rule or plan"
+      ],
+      "answer": "pay based on hours or days",
+      "explanation": "In this sentence, \"wage\" means \"pay based on hours or days\": On the class website, the hourly wage increased.",
+      "rationales": {
+        "pay based on hours or days": "In this sentence, \"wage\" means \"pay based on hours or days\": On the class website, the hourly wage increased.",
+        "a written agreement": "\"a written agreement\" is a real meaning, but it matches \"contract\", not \"wage\" in this sentence.",
+        "a person or company that uses a service": "\"a person or company that uses a service\" is a real meaning, but it matches \"client\", not \"wage\" in this sentence.",
+        "an official rule or plan": "\"an official rule or plan\" is a real meaning, but it matches \"policy\", not \"wage\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4141",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"negotiate\" mean in this sentence? The company will negotiate the price.",
+      "options": [
+        "discuss to reach an agreement",
+        "give official permission",
+        "put a plan into use",
+        "pay back money spent"
+      ],
+      "answer": "discuss to reach an agreement",
+      "explanation": "In this sentence, \"negotiate\" means \"discuss to reach an agreement\": The company will negotiate the price.",
+      "rationales": {
+        "discuss to reach an agreement": "In this sentence, \"negotiate\" means \"discuss to reach an agreement\": The company will negotiate the price.",
+        "give official permission": "\"give official permission\" is a real meaning, but it matches \"authorize\", not \"negotiate\" in this sentence.",
+        "put a plan into use": "\"put a plan into use\" is a real meaning, but it matches \"implement\", not \"negotiate\" in this sentence.",
+        "pay back money spent": "\"pay back money spent\" is a real meaning, but it matches \"reimburse\", not \"negotiate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4142",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"authorize\" mean in this sentence? In the clinic, only the manager can authorize the payment.",
+      "options": [
+        "give official permission",
+        "put a plan into use",
+        "pay back money spent",
+        "goods or supplies kept by a business"
+      ],
+      "answer": "give official permission",
+      "explanation": "In this sentence, \"authorize\" means \"give official permission\": In the clinic, only the manager can authorize the payment.",
+      "rationales": {
+        "give official permission": "In this sentence, \"authorize\" means \"give official permission\": In the clinic, only the manager can authorize the payment.",
+        "put a plan into use": "\"put a plan into use\" is a real meaning, but it matches \"implement\", not \"authorize\" in this sentence.",
+        "pay back money spent": "\"pay back money spent\" is a real meaning, but it matches \"reimburse\", not \"authorize\" in this sentence.",
+        "goods or supplies kept by a business": "\"goods or supplies kept by a business\" is a real meaning, but it matches \"inventory\", not \"authorize\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4143",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"implement\" mean in this sentence? During the discussion, the team will implement the new system.",
+      "options": [
+        "put a plan into use",
+        "pay back money spent",
+        "goods or supplies kept by a business",
+        "give for a particular purpose"
+      ],
+      "answer": "put a plan into use",
+      "explanation": "In this sentence, \"implement\" means \"put a plan into use\": During the discussion, the team will implement the new system.",
+      "rationales": {
+        "put a plan into use": "In this sentence, \"implement\" means \"put a plan into use\": During the discussion, the team will implement the new system.",
+        "pay back money spent": "\"pay back money spent\" is a real meaning, but it matches \"reimburse\", not \"implement\" in this sentence.",
+        "goods or supplies kept by a business": "\"goods or supplies kept by a business\" is a real meaning, but it matches \"inventory\", not \"implement\" in this sentence.",
+        "give for a particular purpose": "\"give for a particular purpose\" is a real meaning, but it matches \"allocate\", not \"implement\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4144",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"reimburse\" mean in this sentence? The example says that the office will reimburse travel costs.",
+      "options": [
+        "pay back money spent",
+        "goods or supplies kept by a business",
+        "give for a particular purpose",
+        "give a task to another person"
+      ],
+      "answer": "pay back money spent",
+      "explanation": "In this sentence, \"reimburse\" means \"pay back money spent\": The example says that the office will reimburse travel costs.",
+      "rationales": {
+        "pay back money spent": "In this sentence, \"reimburse\" means \"pay back money spent\": The example says that the office will reimburse travel costs.",
+        "goods or supplies kept by a business": "\"goods or supplies kept by a business\" is a real meaning, but it matches \"inventory\", not \"reimburse\" in this sentence.",
+        "give for a particular purpose": "\"give for a particular purpose\" is a real meaning, but it matches \"allocate\", not \"reimburse\" in this sentence.",
+        "give a task to another person": "\"give a task to another person\" is a real meaning, but it matches \"delegate\", not \"reimburse\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4145",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"inventory\" mean in this sentence? On the worksheet, the store checked its inventory.",
+      "options": [
+        "goods or supplies kept by a business",
+        "give for a particular purpose",
+        "give a task to another person",
+        "judge the quality or value"
+      ],
+      "answer": "goods or supplies kept by a business",
+      "explanation": "In this sentence, \"inventory\" means \"goods or supplies kept by a business\": On the worksheet, the store checked its inventory.",
+      "rationales": {
+        "goods or supplies kept by a business": "In this sentence, \"inventory\" means \"goods or supplies kept by a business\": On the worksheet, the store checked its inventory.",
+        "give for a particular purpose": "\"give for a particular purpose\" is a real meaning, but it matches \"allocate\", not \"inventory\" in this sentence.",
+        "give a task to another person": "\"give a task to another person\" is a real meaning, but it matches \"delegate\", not \"inventory\" in this sentence.",
+        "judge the quality or value": "\"judge the quality or value\" is a real meaning, but it matches \"evaluate\", not \"inventory\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4146",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"allocate\" mean in this sentence? The teacher's example is this: The manager allocated funds for training.",
+      "options": [
+        "give for a particular purpose",
+        "give a task to another person",
+        "judge the quality or value",
+        "make a process simpler and faster"
+      ],
+      "answer": "give for a particular purpose",
+      "explanation": "In this sentence, \"allocate\" means \"give for a particular purpose\": The teacher's example is this: The manager allocated funds for training.",
+      "rationales": {
+        "give for a particular purpose": "In this sentence, \"allocate\" means \"give for a particular purpose\": The teacher's example is this: The manager allocated funds for training.",
+        "give a task to another person": "\"give a task to another person\" is a real meaning, but it matches \"delegate\", not \"allocate\" in this sentence.",
+        "judge the quality or value": "\"judge the quality or value\" is a real meaning, but it matches \"evaluate\", not \"allocate\" in this sentence.",
+        "make a process simpler and faster": "\"make a process simpler and faster\" is a real meaning, but it matches \"streamline\", not \"allocate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4147",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"delegate\" mean in this sentence? In a short message, the supervisor delegated the report.",
+      "options": [
+        "give a task to another person",
+        "judge the quality or value",
+        "make a process simpler and faster",
+        "pay another company to do work"
+      ],
+      "answer": "give a task to another person",
+      "explanation": "In this sentence, \"delegate\" means \"give a task to another person\": In a short message, the supervisor delegated the report.",
+      "rationales": {
+        "give a task to another person": "In this sentence, \"delegate\" means \"give a task to another person\": In a short message, the supervisor delegated the report.",
+        "judge the quality or value": "\"judge the quality or value\" is a real meaning, but it matches \"evaluate\", not \"delegate\" in this sentence.",
+        "make a process simpler and faster": "\"make a process simpler and faster\" is a real meaning, but it matches \"streamline\", not \"delegate\" in this sentence.",
+        "pay another company to do work": "\"pay another company to do work\" is a real meaning, but it matches \"outsource\", not \"delegate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4148",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"evaluate\" mean in this sentence? The report gives this example: The team evaluated the proposal.",
+      "options": [
+        "judge the quality or value",
+        "make a process simpler and faster",
+        "pay another company to do work",
+        "keep employees or customers"
+      ],
+      "answer": "judge the quality or value",
+      "explanation": "In this sentence, \"evaluate\" means \"judge the quality or value\": The report gives this example: The team evaluated the proposal.",
+      "rationales": {
+        "judge the quality or value": "In this sentence, \"evaluate\" means \"judge the quality or value\": The report gives this example: The team evaluated the proposal.",
+        "make a process simpler and faster": "\"make a process simpler and faster\" is a real meaning, but it matches \"streamline\", not \"evaluate\" in this sentence.",
+        "pay another company to do work": "\"pay another company to do work\" is a real meaning, but it matches \"outsource\", not \"evaluate\" in this sentence.",
+        "keep employees or customers": "\"keep employees or customers\" is a real meaning, but it matches \"retain\", not \"evaluate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4149",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"streamline\" mean in this sentence? At the reception desk, the office streamlined registration.",
+      "options": [
+        "make a process simpler and faster",
+        "pay another company to do work",
+        "keep employees or customers",
+        "the rate at which workers leave"
+      ],
+      "answer": "make a process simpler and faster",
+      "explanation": "In this sentence, \"streamline\" means \"make a process simpler and faster\": At the reception desk, the office streamlined registration.",
+      "rationales": {
+        "make a process simpler and faster": "In this sentence, \"streamline\" means \"make a process simpler and faster\": At the reception desk, the office streamlined registration.",
+        "pay another company to do work": "\"pay another company to do work\" is a real meaning, but it matches \"outsource\", not \"streamline\" in this sentence.",
+        "keep employees or customers": "\"keep employees or customers\" is a real meaning, but it matches \"retain\", not \"streamline\" in this sentence.",
+        "the rate at which workers leave": "\"the rate at which workers leave\" is a real meaning, but it matches \"turnover\", not \"streamline\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4150",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"outsource\" mean in this sentence? The class note says that the company outsourced payroll.",
+      "options": [
+        "pay another company to do work",
+        "keep employees or customers",
+        "the rate at which workers leave",
+        "choose a small group from many"
+      ],
+      "answer": "pay another company to do work",
+      "explanation": "In this sentence, \"outsource\" means \"pay another company to do work\": The class note says that the company outsourced payroll.",
+      "rationales": {
+        "pay another company to do work": "In this sentence, \"outsource\" means \"pay another company to do work\": The class note says that the company outsourced payroll.",
+        "keep employees or customers": "\"keep employees or customers\" is a real meaning, but it matches \"retain\", not \"outsource\" in this sentence.",
+        "the rate at which workers leave": "\"the rate at which workers leave\" is a real meaning, but it matches \"turnover\", not \"outsource\" in this sentence.",
+        "choose a small group from many": "\"choose a small group from many\" is a real meaning, but it matches \"shortlist\", not \"outsource\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4151",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"retain\" mean in this sentence? In the practice text, better benefits helped retain staff.",
+      "options": [
+        "keep employees or customers",
+        "the rate at which workers leave",
+        "choose a small group from many",
+        "following rules"
+      ],
+      "answer": "keep employees or customers",
+      "explanation": "In this sentence, \"retain\" means \"keep employees or customers\": In the practice text, better benefits helped retain staff.",
+      "rationales": {
+        "keep employees or customers": "In this sentence, \"retain\" means \"keep employees or customers\": In the practice text, better benefits helped retain staff.",
+        "the rate at which workers leave": "\"the rate at which workers leave\" is a real meaning, but it matches \"turnover\", not \"retain\" in this sentence.",
+        "choose a small group from many": "\"choose a small group from many\" is a real meaning, but it matches \"shortlist\", not \"retain\" in this sentence.",
+        "following rules": "\"following rules\" is a real meaning, but it matches \"compliance\", not \"retain\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4152",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"turnover\" mean in this sentence? During the lesson, turnover fell after wages rose.",
+      "options": [
+        "the rate at which workers leave",
+        "choose a small group from many",
+        "following rules",
+        "a required number or amount"
+      ],
+      "answer": "the rate at which workers leave",
+      "explanation": "In this sentence, \"turnover\" means \"the rate at which workers leave\": During the lesson, turnover fell after wages rose.",
+      "rationales": {
+        "the rate at which workers leave": "In this sentence, \"turnover\" means \"the rate at which workers leave\": During the lesson, turnover fell after wages rose.",
+        "choose a small group from many": "\"choose a small group from many\" is a real meaning, but it matches \"shortlist\", not \"turnover\" in this sentence.",
+        "following rules": "\"following rules\" is a real meaning, but it matches \"compliance\", not \"turnover\" in this sentence.",
+        "a required number or amount": "\"a required number or amount\" is a real meaning, but it matches \"quota\", not \"turnover\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4153",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"shortlist\" mean in this sentence? The first example says that the panel shortlisted five candidates.",
+      "options": [
+        "choose a small group from many",
+        "following rules",
+        "a required number or amount",
+        "a company that sells goods or services"
+      ],
+      "answer": "choose a small group from many",
+      "explanation": "In this sentence, \"shortlist\" means \"choose a small group from many\": The first example says that the panel shortlisted five candidates.",
+      "rationales": {
+        "choose a small group from many": "In this sentence, \"shortlist\" means \"choose a small group from many\": The first example says that the panel shortlisted five candidates.",
+        "following rules": "\"following rules\" is a real meaning, but it matches \"compliance\", not \"shortlist\" in this sentence.",
+        "a required number or amount": "\"a required number or amount\" is a real meaning, but it matches \"quota\", not \"shortlist\" in this sentence.",
+        "a company that sells goods or services": "\"a company that sells goods or services\" is a real meaning, but it matches \"vendor\", not \"shortlist\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4154",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"compliance\" mean in this sentence? On the notice board, the audit checked compliance.",
+      "options": [
+        "following rules",
+        "a required number or amount",
+        "a company that sells goods or services",
+        "legal responsibility"
+      ],
+      "answer": "following rules",
+      "explanation": "In this sentence, \"compliance\" means \"following rules\": On the notice board, the audit checked compliance.",
+      "rationales": {
+        "following rules": "In this sentence, \"compliance\" means \"following rules\": On the notice board, the audit checked compliance.",
+        "a required number or amount": "\"a required number or amount\" is a real meaning, but it matches \"quota\", not \"compliance\" in this sentence.",
+        "a company that sells goods or services": "\"a company that sells goods or services\" is a real meaning, but it matches \"vendor\", not \"compliance\" in this sentence.",
+        "legal responsibility": "\"legal responsibility\" is a real meaning, but it matches \"liability\", not \"compliance\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4155",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"quota\" mean in this sentence? The guide gives this sentence: The sales team met its quota.",
+      "options": [
+        "a required number or amount",
+        "a company that sells goods or services",
+        "legal responsibility",
+        "introducing a new employee to a job"
+      ],
+      "answer": "a required number or amount",
+      "explanation": "In this sentence, \"quota\" means \"a required number or amount\": The guide gives this sentence: The sales team met its quota.",
+      "rationales": {
+        "a required number or amount": "In this sentence, \"quota\" means \"a required number or amount\": The guide gives this sentence: The sales team met its quota.",
+        "a company that sells goods or services": "\"a company that sells goods or services\" is a real meaning, but it matches \"vendor\", not \"quota\" in this sentence.",
+        "legal responsibility": "\"legal responsibility\" is a real meaning, but it matches \"liability\", not \"quota\" in this sentence.",
+        "introducing a new employee to a job": "\"introducing a new employee to a job\" is a real meaning, but it matches \"onboarding\", not \"quota\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4156",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"vendor\" mean in this sentence? In the office email, the vendor sent a revised invoice.",
+      "options": [
+        "a company that sells goods or services",
+        "legal responsibility",
+        "introducing a new employee to a job",
+        "money a business receives"
+      ],
+      "answer": "a company that sells goods or services",
+      "explanation": "In this sentence, \"vendor\" means \"a company that sells goods or services\": In the office email, the vendor sent a revised invoice.",
+      "rationales": {
+        "a company that sells goods or services": "In this sentence, \"vendor\" means \"a company that sells goods or services\": In the office email, the vendor sent a revised invoice.",
+        "legal responsibility": "\"legal responsibility\" is a real meaning, but it matches \"liability\", not \"vendor\" in this sentence.",
+        "introducing a new employee to a job": "\"introducing a new employee to a job\" is a real meaning, but it matches \"onboarding\", not \"vendor\" in this sentence.",
+        "money a business receives": "\"money a business receives\" is a real meaning, but it matches \"revenue\", not \"vendor\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4157",
+      "level": "B2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"liability\" mean in this sentence? The reading passage says that the contract limits liability.",
+      "options": [
+        "legal responsibility",
+        "introducing a new employee to a job",
+        "money a business receives",
+        "buying supplies or services"
+      ],
+      "answer": "legal responsibility",
+      "explanation": "In this sentence, \"liability\" means \"legal responsibility\": The reading passage says that the contract limits liability.",
+      "rationales": {
+        "legal responsibility": "In this sentence, \"liability\" means \"legal responsibility\": The reading passage says that the contract limits liability.",
+        "introducing a new employee to a job": "\"introducing a new employee to a job\" is a real meaning, but it matches \"onboarding\", not \"liability\" in this sentence.",
+        "money a business receives": "\"money a business receives\" is a real meaning, but it matches \"revenue\", not \"liability\" in this sentence.",
+        "buying supplies or services": "\"buying supplies or services\" is a real meaning, but it matches \"procurement\", not \"liability\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4158",
+      "level": "B2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"onboarding\" mean in this sentence? At the start of the activity, onboarding begins Monday.",
+      "options": [
+        "introducing a new employee to a job",
+        "money a business receives",
+        "buying supplies or services",
+        "discuss to reach an agreement"
+      ],
+      "answer": "introducing a new employee to a job",
+      "explanation": "In this sentence, \"onboarding\" means \"introducing a new employee to a job\": At the start of the activity, onboarding begins Monday.",
+      "rationales": {
+        "introducing a new employee to a job": "In this sentence, \"onboarding\" means \"introducing a new employee to a job\": At the start of the activity, onboarding begins Monday.",
+        "money a business receives": "\"money a business receives\" is a real meaning, but it matches \"revenue\", not \"onboarding\" in this sentence.",
+        "buying supplies or services": "\"buying supplies or services\" is a real meaning, but it matches \"procurement\", not \"onboarding\" in this sentence.",
+        "discuss to reach an agreement": "\"discuss to reach an agreement\" is a real meaning, but it matches \"negotiate\", not \"onboarding\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4159",
+      "level": "B2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"revenue\" mean in this sentence? The second example says that revenue increased this quarter.",
+      "options": [
+        "money a business receives",
+        "buying supplies or services",
+        "discuss to reach an agreement",
+        "give official permission"
+      ],
+      "answer": "money a business receives",
+      "explanation": "In this sentence, \"revenue\" means \"money a business receives\": The second example says that revenue increased this quarter.",
+      "rationales": {
+        "money a business receives": "In this sentence, \"revenue\" means \"money a business receives\": The second example says that revenue increased this quarter.",
+        "buying supplies or services": "\"buying supplies or services\" is a real meaning, but it matches \"procurement\", not \"revenue\" in this sentence.",
+        "discuss to reach an agreement": "\"discuss to reach an agreement\" is a real meaning, but it matches \"negotiate\", not \"revenue\" in this sentence.",
+        "give official permission": "\"give official permission\" is a real meaning, but it matches \"authorize\", not \"revenue\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-b2-4160",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"procurement\" mean in this sentence? On the class website, procurement approved the order.",
+      "options": [
+        "buying supplies or services",
+        "discuss to reach an agreement",
+        "give official permission",
+        "put a plan into use"
+      ],
+      "answer": "buying supplies or services",
+      "explanation": "In this sentence, \"procurement\" means \"buying supplies or services\": On the class website, procurement approved the order.",
+      "rationales": {
+        "buying supplies or services": "In this sentence, \"procurement\" means \"buying supplies or services\": On the class website, procurement approved the order.",
+        "discuss to reach an agreement": "\"discuss to reach an agreement\" is a real meaning, but it matches \"negotiate\", not \"procurement\" in this sentence.",
+        "give official permission": "\"give official permission\" is a real meaning, but it matches \"authorize\", not \"procurement\" in this sentence.",
+        "put a plan into use": "\"put a plan into use\" is a real meaning, but it matches \"implement\", not \"procurement\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4161",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"compliance\" mean in this sentence? The audit checked compliance with safety rules.",
+      "options": [
+        "following rules or laws",
+        "the process of buying supplies",
+        "legal responsibility",
+        "a person or group affected by a decision"
+      ],
+      "answer": "following rules or laws",
+      "explanation": "In this sentence, \"compliance\" means \"following rules or laws\": The audit checked compliance with safety rules.",
+      "rationales": {
+        "following rules or laws": "In this sentence, \"compliance\" means \"following rules or laws\": The audit checked compliance with safety rules.",
+        "the process of buying supplies": "\"the process of buying supplies\" is a real meaning, but it matches \"procurement\", not \"compliance\" in this sentence.",
+        "legal responsibility": "\"legal responsibility\" is a real meaning, but it matches \"liability\", not \"compliance\" in this sentence.",
+        "a person or group affected by a decision": "\"a person or group affected by a decision\" is a real meaning, but it matches \"stakeholder\", not \"compliance\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4162",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"procurement\" mean in this sentence? In the clinic, procurement took longer than expected.",
+      "options": [
+        "the process of buying supplies",
+        "legal responsibility",
+        "a person or group affected by a decision",
+        "the order in which work is done"
+      ],
+      "answer": "the process of buying supplies",
+      "explanation": "In this sentence, \"procurement\" means \"the process of buying supplies\": In the clinic, procurement took longer than expected.",
+      "rationales": {
+        "the process of buying supplies": "In this sentence, \"procurement\" means \"the process of buying supplies\": In the clinic, procurement took longer than expected.",
+        "legal responsibility": "\"legal responsibility\" is a real meaning, but it matches \"liability\", not \"procurement\" in this sentence.",
+        "a person or group affected by a decision": "\"a person or group affected by a decision\" is a real meaning, but it matches \"stakeholder\", not \"procurement\" in this sentence.",
+        "the order in which work is done": "\"the order in which work is done\" is a real meaning, but it matches \"workflow\", not \"procurement\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4163",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"liability\" mean in this sentence? During the discussion, the contract limits the company's liability.",
+      "options": [
+        "legal responsibility",
+        "a person or group affected by a decision",
+        "the order in which work is done",
+        "payment for work"
+      ],
+      "answer": "legal responsibility",
+      "explanation": "In this sentence, \"liability\" means \"legal responsibility\": During the discussion, the contract limits the company's liability.",
+      "rationales": {
+        "legal responsibility": "In this sentence, \"liability\" means \"legal responsibility\": During the discussion, the contract limits the company's liability.",
+        "a person or group affected by a decision": "\"a person or group affected by a decision\" is a real meaning, but it matches \"stakeholder\", not \"liability\" in this sentence.",
+        "the order in which work is done": "\"the order in which work is done\" is a real meaning, but it matches \"workflow\", not \"liability\" in this sentence.",
+        "payment for work": "\"payment for work\" is a real meaning, but it matches \"remuneration\", not \"liability\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4164",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"stakeholder\" mean in this sentence? The example says that each stakeholder received the update.",
+      "options": [
+        "a person or group affected by a decision",
+        "the order in which work is done",
+        "payment for work",
+        "keeping staff or customers"
+      ],
+      "answer": "a person or group affected by a decision",
+      "explanation": "In this sentence, \"stakeholder\" means \"a person or group affected by a decision\": The example says that each stakeholder received the update.",
+      "rationales": {
+        "a person or group affected by a decision": "In this sentence, \"stakeholder\" means \"a person or group affected by a decision\": The example says that each stakeholder received the update.",
+        "the order in which work is done": "\"the order in which work is done\" is a real meaning, but it matches \"workflow\", not \"stakeholder\" in this sentence.",
+        "payment for work": "\"payment for work\" is a real meaning, but it matches \"remuneration\", not \"stakeholder\" in this sentence.",
+        "keeping staff or customers": "\"keeping staff or customers\" is a real meaning, but it matches \"retention\", not \"stakeholder\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4165",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"workflow\" mean in this sentence? On the worksheet, the new workflow reduced delays.",
+      "options": [
+        "the order in which work is done",
+        "payment for work",
+        "keeping staff or customers",
+        "loss of a job because it is no longer needed"
+      ],
+      "answer": "the order in which work is done",
+      "explanation": "In this sentence, \"workflow\" means \"the order in which work is done\": On the worksheet, the new workflow reduced delays.",
+      "rationales": {
+        "the order in which work is done": "In this sentence, \"workflow\" means \"the order in which work is done\": On the worksheet, the new workflow reduced delays.",
+        "payment for work": "\"payment for work\" is a real meaning, but it matches \"remuneration\", not \"workflow\" in this sentence.",
+        "keeping staff or customers": "\"keeping staff or customers\" is a real meaning, but it matches \"retention\", not \"workflow\" in this sentence.",
+        "loss of a job because it is no longer needed": "\"loss of a job because it is no longer needed\" is a real meaning, but it matches \"redundancy\", not \"workflow\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4166",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"remuneration\" mean in this sentence? The teacher's example is this: The contract specifies remuneration.",
+      "options": [
+        "payment for work",
+        "keeping staff or customers",
+        "loss of a job because it is no longer needed",
+        "a formal workplace complaint"
+      ],
+      "answer": "payment for work",
+      "explanation": "In this sentence, \"remuneration\" means \"payment for work\": The teacher's example is this: The contract specifies remuneration.",
+      "rationales": {
+        "payment for work": "In this sentence, \"remuneration\" means \"payment for work\": The teacher's example is this: The contract specifies remuneration.",
+        "keeping staff or customers": "\"keeping staff or customers\" is a real meaning, but it matches \"retention\", not \"remuneration\" in this sentence.",
+        "loss of a job because it is no longer needed": "\"loss of a job because it is no longer needed\" is a real meaning, but it matches \"redundancy\", not \"remuneration\" in this sentence.",
+        "a formal workplace complaint": "\"a formal workplace complaint\" is a real meaning, but it matches \"grievance\", not \"remuneration\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4167",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"retention\" mean in this sentence? In a short message, retention improved after the policy change.",
+      "options": [
+        "keeping staff or customers",
+        "loss of a job because it is no longer needed",
+        "a formal workplace complaint",
+        "a required work product"
+      ],
+      "answer": "keeping staff or customers",
+      "explanation": "In this sentence, \"retention\" means \"keeping staff or customers\": In a short message, retention improved after the policy change.",
+      "rationales": {
+        "keeping staff or customers": "In this sentence, \"retention\" means \"keeping staff or customers\": In a short message, retention improved after the policy change.",
+        "loss of a job because it is no longer needed": "\"loss of a job because it is no longer needed\" is a real meaning, but it matches \"redundancy\", not \"retention\" in this sentence.",
+        "a formal workplace complaint": "\"a formal workplace complaint\" is a real meaning, but it matches \"grievance\", not \"retention\" in this sentence.",
+        "a required work product": "\"a required work product\" is a real meaning, but it matches \"deliverable\", not \"retention\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4168",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"redundancy\" mean in this sentence? The report gives this example: The merger led to redundancies.",
+      "options": [
+        "loss of a job because it is no longer needed",
+        "a formal workplace complaint",
+        "a required work product",
+        "send a problem to a higher level"
+      ],
+      "answer": "loss of a job because it is no longer needed",
+      "explanation": "In this sentence, \"redundancy\" means \"loss of a job because it is no longer needed\": The report gives this example: The merger led to redundancies.",
+      "rationales": {
+        "loss of a job because it is no longer needed": "In this sentence, \"redundancy\" means \"loss of a job because it is no longer needed\": The report gives this example: The merger led to redundancies.",
+        "a formal workplace complaint": "\"a formal workplace complaint\" is a real meaning, but it matches \"grievance\", not \"redundancy\" in this sentence.",
+        "a required work product": "\"a required work product\" is a real meaning, but it matches \"deliverable\", not \"redundancy\" in this sentence.",
+        "send a problem to a higher level": "\"send a problem to a higher level\" is a real meaning, but it matches \"escalate\", not \"redundancy\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4169",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"grievance\" mean in this sentence? At the reception desk, the employee filed a grievance.",
+      "options": [
+        "a formal workplace complaint",
+        "a required work product",
+        "send a problem to a higher level",
+        "predict future results"
+      ],
+      "answer": "a formal workplace complaint",
+      "explanation": "In this sentence, \"grievance\" means \"a formal workplace complaint\": At the reception desk, the employee filed a grievance.",
+      "rationales": {
+        "a formal workplace complaint": "In this sentence, \"grievance\" means \"a formal workplace complaint\": At the reception desk, the employee filed a grievance.",
+        "a required work product": "\"a required work product\" is a real meaning, but it matches \"deliverable\", not \"grievance\" in this sentence.",
+        "send a problem to a higher level": "\"send a problem to a higher level\" is a real meaning, but it matches \"escalate\", not \"grievance\" in this sentence.",
+        "predict future results": "\"predict future results\" is a real meaning, but it matches \"forecast\", not \"grievance\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4170",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"deliverable\" mean in this sentence? The class note says that the final deliverable is due Friday.",
+      "options": [
+        "a required work product",
+        "send a problem to a higher level",
+        "predict future results",
+        "the difference between cost and selling price"
+      ],
+      "answer": "a required work product",
+      "explanation": "In this sentence, \"deliverable\" means \"a required work product\": The class note says that the final deliverable is due Friday.",
+      "rationales": {
+        "a required work product": "In this sentence, \"deliverable\" means \"a required work product\": The class note says that the final deliverable is due Friday.",
+        "send a problem to a higher level": "\"send a problem to a higher level\" is a real meaning, but it matches \"escalate\", not \"deliverable\" in this sentence.",
+        "predict future results": "\"predict future results\" is a real meaning, but it matches \"forecast\", not \"deliverable\" in this sentence.",
+        "the difference between cost and selling price": "\"the difference between cost and selling price\" is a real meaning, but it matches \"margin\", not \"deliverable\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4171",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"escalate\" mean in this sentence? In the practice text, the clerk escalated the complaint.",
+      "options": [
+        "send a problem to a higher level",
+        "predict future results",
+        "the difference between cost and selling price",
+        "records showing what happened"
+      ],
+      "answer": "send a problem to a higher level",
+      "explanation": "In this sentence, \"escalate\" means \"send a problem to a higher level\": In the practice text, the clerk escalated the complaint.",
+      "rationales": {
+        "send a problem to a higher level": "In this sentence, \"escalate\" means \"send a problem to a higher level\": In the practice text, the clerk escalated the complaint.",
+        "predict future results": "\"predict future results\" is a real meaning, but it matches \"forecast\", not \"escalate\" in this sentence.",
+        "the difference between cost and selling price": "\"the difference between cost and selling price\" is a real meaning, but it matches \"margin\", not \"escalate\" in this sentence.",
+        "records showing what happened": "\"records showing what happened\" is a real meaning, but it matches \"audit trail\", not \"escalate\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4172",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"forecast\" mean in this sentence? During the lesson, the analyst forecast lower sales.",
+      "options": [
+        "predict future results",
+        "the difference between cost and selling price",
+        "records showing what happened",
+        "the other side in an agreement"
+      ],
+      "answer": "predict future results",
+      "explanation": "In this sentence, \"forecast\" means \"predict future results\": During the lesson, the analyst forecast lower sales.",
+      "rationales": {
+        "predict future results": "In this sentence, \"forecast\" means \"predict future results\": During the lesson, the analyst forecast lower sales.",
+        "the difference between cost and selling price": "\"the difference between cost and selling price\" is a real meaning, but it matches \"margin\", not \"forecast\" in this sentence.",
+        "records showing what happened": "\"records showing what happened\" is a real meaning, but it matches \"audit trail\", not \"forecast\" in this sentence.",
+        "the other side in an agreement": "\"the other side in an agreement\" is a real meaning, but it matches \"counterparty\", not \"forecast\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4173",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"margin\" mean in this sentence? The first example says that the margin narrowed last quarter.",
+      "options": [
+        "the difference between cost and selling price",
+        "records showing what happened",
+        "the other side in an agreement",
+        "transfer of responsibility"
+      ],
+      "answer": "the difference between cost and selling price",
+      "explanation": "In this sentence, \"margin\" means \"the difference between cost and selling price\": The first example says that the margin narrowed last quarter.",
+      "rationales": {
+        "the difference between cost and selling price": "In this sentence, \"margin\" means \"the difference between cost and selling price\": The first example says that the margin narrowed last quarter.",
+        "records showing what happened": "\"records showing what happened\" is a real meaning, but it matches \"audit trail\", not \"margin\" in this sentence.",
+        "the other side in an agreement": "\"the other side in an agreement\" is a real meaning, but it matches \"counterparty\", not \"margin\" in this sentence.",
+        "transfer of responsibility": "\"transfer of responsibility\" is a real meaning, but it matches \"handover\", not \"margin\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4174",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"audit trail\" mean in this sentence? On the notice board, the system keeps an audit trail.",
+      "options": [
+        "records showing what happened",
+        "the other side in an agreement",
+        "transfer of responsibility",
+        "a standard for comparison"
+      ],
+      "answer": "records showing what happened",
+      "explanation": "In this sentence, \"audit trail\" means \"records showing what happened\": On the notice board, the system keeps an audit trail.",
+      "rationales": {
+        "records showing what happened": "In this sentence, \"audit trail\" means \"records showing what happened\": On the notice board, the system keeps an audit trail.",
+        "the other side in an agreement": "\"the other side in an agreement\" is a real meaning, but it matches \"counterparty\", not \"audit trail\" in this sentence.",
+        "transfer of responsibility": "\"transfer of responsibility\" is a real meaning, but it matches \"handover\", not \"audit trail\" in this sentence.",
+        "a standard for comparison": "\"a standard for comparison\" is a real meaning, but it matches \"benchmark\", not \"audit trail\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4175",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"counterparty\" mean in this sentence? The guide gives this sentence: The counterparty accepted the revised clause.",
+      "options": [
+        "the other side in an agreement",
+        "transfer of responsibility",
+        "a standard for comparison",
+        "a plan for a possible problem"
+      ],
+      "answer": "the other side in an agreement",
+      "explanation": "In this sentence, \"counterparty\" means \"the other side in an agreement\": The guide gives this sentence: The counterparty accepted the revised clause.",
+      "rationales": {
+        "the other side in an agreement": "In this sentence, \"counterparty\" means \"the other side in an agreement\": The guide gives this sentence: The counterparty accepted the revised clause.",
+        "transfer of responsibility": "\"transfer of responsibility\" is a real meaning, but it matches \"handover\", not \"counterparty\" in this sentence.",
+        "a standard for comparison": "\"a standard for comparison\" is a real meaning, but it matches \"benchmark\", not \"counterparty\" in this sentence.",
+        "a plan for a possible problem": "\"a plan for a possible problem\" is a real meaning, but it matches \"contingency\", not \"counterparty\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4176",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"handover\" mean in this sentence? In the office email, the handover took place before noon.",
+      "options": [
+        "transfer of responsibility",
+        "a standard for comparison",
+        "a plan for a possible problem",
+        "official authority over an area"
+      ],
+      "answer": "transfer of responsibility",
+      "explanation": "In this sentence, \"handover\" means \"transfer of responsibility\": In the office email, the handover took place before noon.",
+      "rationales": {
+        "transfer of responsibility": "In this sentence, \"handover\" means \"transfer of responsibility\": In the office email, the handover took place before noon.",
+        "a standard for comparison": "\"a standard for comparison\" is a real meaning, but it matches \"benchmark\", not \"handover\" in this sentence.",
+        "a plan for a possible problem": "\"a plan for a possible problem\" is a real meaning, but it matches \"contingency\", not \"handover\" in this sentence.",
+        "official authority over an area": "\"official authority over an area\" is a real meaning, but it matches \"jurisdiction\", not \"handover\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4177",
+      "level": "C1",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"benchmark\" mean in this sentence? The reading passage says that the team set a benchmark.",
+      "options": [
+        "a standard for comparison",
+        "a plan for a possible problem",
+        "official authority over an area",
+        "inviting bids for work or supplies"
+      ],
+      "answer": "a standard for comparison",
+      "explanation": "In this sentence, \"benchmark\" means \"a standard for comparison\": The reading passage says that the team set a benchmark.",
+      "rationales": {
+        "a standard for comparison": "In this sentence, \"benchmark\" means \"a standard for comparison\": The reading passage says that the team set a benchmark.",
+        "a plan for a possible problem": "\"a plan for a possible problem\" is a real meaning, but it matches \"contingency\", not \"benchmark\" in this sentence.",
+        "official authority over an area": "\"official authority over an area\" is a real meaning, but it matches \"jurisdiction\", not \"benchmark\" in this sentence.",
+        "inviting bids for work or supplies": "\"inviting bids for work or supplies\" is a real meaning, but it matches \"tendering\", not \"benchmark\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4178",
+      "level": "C1",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"contingency\" mean in this sentence? At the start of the activity, the project needs a contingency.",
+      "options": [
+        "a plan for a possible problem",
+        "official authority over an area",
+        "inviting bids for work or supplies",
+        "following rules or laws"
+      ],
+      "answer": "a plan for a possible problem",
+      "explanation": "In this sentence, \"contingency\" means \"a plan for a possible problem\": At the start of the activity, the project needs a contingency.",
+      "rationales": {
+        "a plan for a possible problem": "In this sentence, \"contingency\" means \"a plan for a possible problem\": At the start of the activity, the project needs a contingency.",
+        "official authority over an area": "\"official authority over an area\" is a real meaning, but it matches \"jurisdiction\", not \"contingency\" in this sentence.",
+        "inviting bids for work or supplies": "\"inviting bids for work or supplies\" is a real meaning, but it matches \"tendering\", not \"contingency\" in this sentence.",
+        "following rules or laws": "\"following rules or laws\" is a real meaning, but it matches \"compliance\", not \"contingency\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4179",
+      "level": "C1",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"jurisdiction\" mean in this sentence? The second example says that the agency questioned its jurisdiction.",
+      "options": [
+        "official authority over an area",
+        "inviting bids for work or supplies",
+        "following rules or laws",
+        "the process of buying supplies"
+      ],
+      "answer": "official authority over an area",
+      "explanation": "In this sentence, \"jurisdiction\" means \"official authority over an area\": The second example says that the agency questioned its jurisdiction.",
+      "rationales": {
+        "official authority over an area": "In this sentence, \"jurisdiction\" means \"official authority over an area\": The second example says that the agency questioned its jurisdiction.",
+        "inviting bids for work or supplies": "\"inviting bids for work or supplies\" is a real meaning, but it matches \"tendering\", not \"jurisdiction\" in this sentence.",
+        "following rules or laws": "\"following rules or laws\" is a real meaning, but it matches \"compliance\", not \"jurisdiction\" in this sentence.",
+        "the process of buying supplies": "\"the process of buying supplies\" is a real meaning, but it matches \"procurement\", not \"jurisdiction\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c1-4180",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"tendering\" mean in this sentence? On the class website, tendering rules delayed the purchase.",
+      "options": [
+        "inviting bids for work or supplies",
+        "following rules or laws",
+        "the process of buying supplies",
+        "legal responsibility"
+      ],
+      "answer": "inviting bids for work or supplies",
+      "explanation": "In this sentence, \"tendering\" means \"inviting bids for work or supplies\": On the class website, tendering rules delayed the purchase.",
+      "rationales": {
+        "inviting bids for work or supplies": "In this sentence, \"tendering\" means \"inviting bids for work or supplies\": On the class website, tendering rules delayed the purchase.",
+        "following rules or laws": "\"following rules or laws\" is a real meaning, but it matches \"compliance\", not \"tendering\" in this sentence.",
+        "the process of buying supplies": "\"the process of buying supplies\" is a real meaning, but it matches \"procurement\", not \"tendering\" in this sentence.",
+        "legal responsibility": "\"legal responsibility\" is a real meaning, but it matches \"liability\", not \"tendering\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4181",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"due diligence\" mean in this sentence? The buyer completed due diligence.",
+      "options": [
+        "careful checking before a decision",
+        "related to a duty to act for someone else's benefit",
+        "a plan for a possible problem",
+        "settling a dispute outside court"
+      ],
+      "answer": "careful checking before a decision",
+      "explanation": "In this sentence, \"due diligence\" means \"careful checking before a decision\": The buyer completed due diligence.",
+      "rationales": {
+        "careful checking before a decision": "In this sentence, \"due diligence\" means \"careful checking before a decision\": The buyer completed due diligence.",
+        "related to a duty to act for someone else's benefit": "\"related to a duty to act for someone else's benefit\" is a real meaning, but it matches \"fiduciary\", not \"due diligence\" in this sentence.",
+        "a plan for a possible problem": "\"a plan for a possible problem\" is a real meaning, but it matches \"contingency\", not \"due diligence\" in this sentence.",
+        "settling a dispute outside court": "\"settling a dispute outside court\" is a real meaning, but it matches \"arbitration\", not \"due diligence\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4182",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"fiduciary\" mean in this sentence? In the clinic, the board discussed its fiduciary duty.",
+      "options": [
+        "related to a duty to act for someone else's benefit",
+        "a plan for a possible problem",
+        "settling a dispute outside court",
+        "a standard used for comparison"
+      ],
+      "answer": "related to a duty to act for someone else's benefit",
+      "explanation": "In this sentence, \"fiduciary\" means \"related to a duty to act for someone else's benefit\": In the clinic, the board discussed its fiduciary duty.",
+      "rationales": {
+        "related to a duty to act for someone else's benefit": "In this sentence, \"fiduciary\" means \"related to a duty to act for someone else's benefit\": In the clinic, the board discussed its fiduciary duty.",
+        "a plan for a possible problem": "\"a plan for a possible problem\" is a real meaning, but it matches \"contingency\", not \"fiduciary\" in this sentence.",
+        "settling a dispute outside court": "\"settling a dispute outside court\" is a real meaning, but it matches \"arbitration\", not \"fiduciary\" in this sentence.",
+        "a standard used for comparison": "\"a standard used for comparison\" is a real meaning, but it matches \"benchmark\", not \"fiduciary\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4183",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"contingency\" mean in this sentence? During the discussion, the contract includes a contingency clause.",
+      "options": [
+        "a plan for a possible problem",
+        "settling a dispute outside court",
+        "a standard used for comparison",
+        "protection against legal loss"
+      ],
+      "answer": "a plan for a possible problem",
+      "explanation": "In this sentence, \"contingency\" means \"a plan for a possible problem\": During the discussion, the contract includes a contingency clause.",
+      "rationales": {
+        "a plan for a possible problem": "In this sentence, \"contingency\" means \"a plan for a possible problem\": During the discussion, the contract includes a contingency clause.",
+        "settling a dispute outside court": "\"settling a dispute outside court\" is a real meaning, but it matches \"arbitration\", not \"contingency\" in this sentence.",
+        "a standard used for comparison": "\"a standard used for comparison\" is a real meaning, but it matches \"benchmark\", not \"contingency\" in this sentence.",
+        "protection against legal loss": "\"protection against legal loss\" is a real meaning, but it matches \"indemnity\", not \"contingency\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4184",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"arbitration\" mean in this sentence? The example says that the dispute went to arbitration.",
+      "options": [
+        "settling a dispute outside court",
+        "a standard used for comparison",
+        "protection against legal loss",
+        "agreement limiting future work for competitors"
+      ],
+      "answer": "settling a dispute outside court",
+      "explanation": "In this sentence, \"arbitration\" means \"settling a dispute outside court\": The example says that the dispute went to arbitration.",
+      "rationales": {
+        "settling a dispute outside court": "In this sentence, \"arbitration\" means \"settling a dispute outside court\": The example says that the dispute went to arbitration.",
+        "a standard used for comparison": "\"a standard used for comparison\" is a real meaning, but it matches \"benchmark\", not \"arbitration\" in this sentence.",
+        "protection against legal loss": "\"protection against legal loss\" is a real meaning, but it matches \"indemnity\", not \"arbitration\" in this sentence.",
+        "agreement limiting future work for competitors": "\"agreement limiting future work for competitors\" is a real meaning, but it matches \"noncompete\", not \"arbitration\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4185",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"benchmark\" mean in this sentence? On the worksheet, the company used sales as a benchmark.",
+      "options": [
+        "a standard used for comparison",
+        "protection against legal loss",
+        "agreement limiting future work for competitors",
+        "legal duty to act for another's benefit"
+      ],
+      "answer": "a standard used for comparison",
+      "explanation": "In this sentence, \"benchmark\" means \"a standard used for comparison\": On the worksheet, the company used sales as a benchmark.",
+      "rationales": {
+        "a standard used for comparison": "In this sentence, \"benchmark\" means \"a standard used for comparison\": On the worksheet, the company used sales as a benchmark.",
+        "protection against legal loss": "\"protection against legal loss\" is a real meaning, but it matches \"indemnity\", not \"benchmark\" in this sentence.",
+        "agreement limiting future work for competitors": "\"agreement limiting future work for competitors\" is a real meaning, but it matches \"noncompete\", not \"benchmark\" in this sentence.",
+        "legal duty to act for another's benefit": "\"legal duty to act for another's benefit\" is a real meaning, but it matches \"fiduciary duty\", not \"benchmark\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4186",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"indemnity\" mean in this sentence? The teacher's example is this: The contract includes an indemnity clause.",
+      "options": [
+        "protection against legal loss",
+        "agreement limiting future work for competitors",
+        "legal duty to act for another's benefit",
+        "pre-set compensation for breach"
+      ],
+      "answer": "protection against legal loss",
+      "explanation": "In this sentence, \"indemnity\" means \"protection against legal loss\": The teacher's example is this: The contract includes an indemnity clause.",
+      "rationales": {
+        "protection against legal loss": "In this sentence, \"indemnity\" means \"protection against legal loss\": The teacher's example is this: The contract includes an indemnity clause.",
+        "agreement limiting future work for competitors": "\"agreement limiting future work for competitors\" is a real meaning, but it matches \"noncompete\", not \"indemnity\" in this sentence.",
+        "legal duty to act for another's benefit": "\"legal duty to act for another's benefit\" is a real meaning, but it matches \"fiduciary duty\", not \"indemnity\" in this sentence.",
+        "pre-set compensation for breach": "\"pre-set compensation for breach\" is a real meaning, but it matches \"liquidated damages\", not \"indemnity\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4187",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"noncompete\" mean in this sentence? In a short message, the noncompete clause was challenged.",
+      "options": [
+        "agreement limiting future work for competitors",
+        "legal duty to act for another's benefit",
+        "pre-set compensation for breach",
+        "uncontrollable event preventing performance"
+      ],
+      "answer": "agreement limiting future work for competitors",
+      "explanation": "In this sentence, \"noncompete\" means \"agreement limiting future work for competitors\": In a short message, the noncompete clause was challenged.",
+      "rationales": {
+        "agreement limiting future work for competitors": "In this sentence, \"noncompete\" means \"agreement limiting future work for competitors\": In a short message, the noncompete clause was challenged.",
+        "legal duty to act for another's benefit": "\"legal duty to act for another's benefit\" is a real meaning, but it matches \"fiduciary duty\", not \"noncompete\" in this sentence.",
+        "pre-set compensation for breach": "\"pre-set compensation for breach\" is a real meaning, but it matches \"liquidated damages\", not \"noncompete\" in this sentence.",
+        "uncontrollable event preventing performance": "\"uncontrollable event preventing performance\" is a real meaning, but it matches \"force majeure\", not \"noncompete\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4188",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"fiduciary duty\" mean in this sentence? The report gives this example: Directors owe a fiduciary duty.",
+      "options": [
+        "legal duty to act for another's benefit",
+        "pre-set compensation for breach",
+        "uncontrollable event preventing performance",
+        "serious failure to meet a contract"
+      ],
+      "answer": "legal duty to act for another's benefit",
+      "explanation": "In this sentence, \"fiduciary duty\" means \"legal duty to act for another's benefit\": The report gives this example: Directors owe a fiduciary duty.",
+      "rationales": {
+        "legal duty to act for another's benefit": "In this sentence, \"fiduciary duty\" means \"legal duty to act for another's benefit\": The report gives this example: Directors owe a fiduciary duty.",
+        "pre-set compensation for breach": "\"pre-set compensation for breach\" is a real meaning, but it matches \"liquidated damages\", not \"fiduciary duty\" in this sentence.",
+        "uncontrollable event preventing performance": "\"uncontrollable event preventing performance\" is a real meaning, but it matches \"force majeure\", not \"fiduciary duty\" in this sentence.",
+        "serious failure to meet a contract": "\"serious failure to meet a contract\" is a real meaning, but it matches \"material breach\", not \"fiduciary duty\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4189",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"liquidated damages\" mean in this sentence? At the reception desk, the agreement specifies liquidated damages.",
+      "options": [
+        "pre-set compensation for breach",
+        "uncontrollable event preventing performance",
+        "serious failure to meet a contract",
+        "payment after leaving a job"
+      ],
+      "answer": "pre-set compensation for breach",
+      "explanation": "In this sentence, \"liquidated damages\" means \"pre-set compensation for breach\": At the reception desk, the agreement specifies liquidated damages.",
+      "rationales": {
+        "pre-set compensation for breach": "In this sentence, \"liquidated damages\" means \"pre-set compensation for breach\": At the reception desk, the agreement specifies liquidated damages.",
+        "uncontrollable event preventing performance": "\"uncontrollable event preventing performance\" is a real meaning, but it matches \"force majeure\", not \"liquidated damages\" in this sentence.",
+        "serious failure to meet a contract": "\"serious failure to meet a contract\" is a real meaning, but it matches \"material breach\", not \"liquidated damages\" in this sentence.",
+        "payment after leaving a job": "\"payment after leaving a job\" is a real meaning, but it matches \"severance\", not \"liquidated damages\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4190",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"force majeure\" mean in this sentence? The class note says that the storm triggered force majeure.",
+      "options": [
+        "uncontrollable event preventing performance",
+        "serious failure to meet a contract",
+        "payment after leaving a job",
+        "neutral person who settles a dispute"
+      ],
+      "answer": "uncontrollable event preventing performance",
+      "explanation": "In this sentence, \"force majeure\" means \"uncontrollable event preventing performance\": The class note says that the storm triggered force majeure.",
+      "rationales": {
+        "uncontrollable event preventing performance": "In this sentence, \"force majeure\" means \"uncontrollable event preventing performance\": The class note says that the storm triggered force majeure.",
+        "serious failure to meet a contract": "\"serious failure to meet a contract\" is a real meaning, but it matches \"material breach\", not \"force majeure\" in this sentence.",
+        "payment after leaving a job": "\"payment after leaving a job\" is a real meaning, but it matches \"severance\", not \"force majeure\" in this sentence.",
+        "neutral person who settles a dispute": "\"neutral person who settles a dispute\" is a real meaning, but it matches \"arbitrator\", not \"force majeure\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4191",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"material breach\" mean in this sentence? In the practice text, late delivery was treated as a material breach.",
+      "options": [
+        "serious failure to meet a contract",
+        "payment after leaving a job",
+        "neutral person who settles a dispute",
+        "negotiation between workers and employer"
+      ],
+      "answer": "serious failure to meet a contract",
+      "explanation": "In this sentence, \"material breach\" means \"serious failure to meet a contract\": In the practice text, late delivery was treated as a material breach.",
+      "rationales": {
+        "serious failure to meet a contract": "In this sentence, \"material breach\" means \"serious failure to meet a contract\": In the practice text, late delivery was treated as a material breach.",
+        "payment after leaving a job": "\"payment after leaving a job\" is a real meaning, but it matches \"severance\", not \"material breach\" in this sentence.",
+        "neutral person who settles a dispute": "\"neutral person who settles a dispute\" is a real meaning, but it matches \"arbitrator\", not \"material breach\" in this sentence.",
+        "negotiation between workers and employer": "\"negotiation between workers and employer\" is a real meaning, but it matches \"collective bargaining\", not \"material breach\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4192",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"severance\" mean in this sentence? During the lesson, the executive negotiated severance.",
+      "options": [
+        "payment after leaving a job",
+        "neutral person who settles a dispute",
+        "negotiation between workers and employer",
+        "person reporting wrongdoing"
+      ],
+      "answer": "payment after leaving a job",
+      "explanation": "In this sentence, \"severance\" means \"payment after leaving a job\": During the lesson, the executive negotiated severance.",
+      "rationales": {
+        "payment after leaving a job": "In this sentence, \"severance\" means \"payment after leaving a job\": During the lesson, the executive negotiated severance.",
+        "neutral person who settles a dispute": "\"neutral person who settles a dispute\" is a real meaning, but it matches \"arbitrator\", not \"severance\" in this sentence.",
+        "negotiation between workers and employer": "\"negotiation between workers and employer\" is a real meaning, but it matches \"collective bargaining\", not \"severance\" in this sentence.",
+        "person reporting wrongdoing": "\"person reporting wrongdoing\" is a real meaning, but it matches \"whistleblower\", not \"severance\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4193",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"arbitrator\" mean in this sentence? The first example says that the arbitrator issued a decision.",
+      "options": [
+        "neutral person who settles a dispute",
+        "negotiation between workers and employer",
+        "person reporting wrongdoing",
+        "fair legal procedure"
+      ],
+      "answer": "neutral person who settles a dispute",
+      "explanation": "In this sentence, \"arbitrator\" means \"neutral person who settles a dispute\": The first example says that the arbitrator issued a decision.",
+      "rationales": {
+        "neutral person who settles a dispute": "In this sentence, \"arbitrator\" means \"neutral person who settles a dispute\": The first example says that the arbitrator issued a decision.",
+        "negotiation between workers and employer": "\"negotiation between workers and employer\" is a real meaning, but it matches \"collective bargaining\", not \"arbitrator\" in this sentence.",
+        "person reporting wrongdoing": "\"person reporting wrongdoing\" is a real meaning, but it matches \"whistleblower\", not \"arbitrator\" in this sentence.",
+        "fair legal procedure": "\"fair legal procedure\" is a real meaning, but it matches \"due process\", not \"arbitrator\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4194",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"collective bargaining\" mean in this sentence? On the notice board, collective bargaining resumed Tuesday.",
+      "options": [
+        "negotiation between workers and employer",
+        "person reporting wrongdoing",
+        "fair legal procedure",
+        "restriction on business competition"
+      ],
+      "answer": "negotiation between workers and employer",
+      "explanation": "In this sentence, \"collective bargaining\" means \"negotiation between workers and employer\": On the notice board, collective bargaining resumed Tuesday.",
+      "rationales": {
+        "negotiation between workers and employer": "In this sentence, \"collective bargaining\" means \"negotiation between workers and employer\": On the notice board, collective bargaining resumed Tuesday.",
+        "person reporting wrongdoing": "\"person reporting wrongdoing\" is a real meaning, but it matches \"whistleblower\", not \"collective bargaining\" in this sentence.",
+        "fair legal procedure": "\"fair legal procedure\" is a real meaning, but it matches \"due process\", not \"collective bargaining\" in this sentence.",
+        "restriction on business competition": "\"restriction on business competition\" is a real meaning, but it matches \"restraint of trade\", not \"collective bargaining\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4195",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"whistleblower\" mean in this sentence? The guide gives this sentence: The whistleblower received protection.",
+      "options": [
+        "person reporting wrongdoing",
+        "fair legal procedure",
+        "restriction on business competition",
+        "gaining a right over time"
+      ],
+      "answer": "person reporting wrongdoing",
+      "explanation": "In this sentence, \"whistleblower\" means \"person reporting wrongdoing\": The guide gives this sentence: The whistleblower received protection.",
+      "rationales": {
+        "person reporting wrongdoing": "In this sentence, \"whistleblower\" means \"person reporting wrongdoing\": The guide gives this sentence: The whistleblower received protection.",
+        "fair legal procedure": "\"fair legal procedure\" is a real meaning, but it matches \"due process\", not \"whistleblower\" in this sentence.",
+        "restriction on business competition": "\"restriction on business competition\" is a real meaning, but it matches \"restraint of trade\", not \"whistleblower\" in this sentence.",
+        "gaining a right over time": "\"gaining a right over time\" is a real meaning, but it matches \"vesting\", not \"whistleblower\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4196",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"due process\" mean in this sentence? In the office email, the dismissal raised due process concerns.",
+      "options": [
+        "fair legal procedure",
+        "restriction on business competition",
+        "gaining a right over time",
+        "company hired by a contractor"
+      ],
+      "answer": "fair legal procedure",
+      "explanation": "In this sentence, \"due process\" means \"fair legal procedure\": In the office email, the dismissal raised due process concerns.",
+      "rationales": {
+        "fair legal procedure": "In this sentence, \"due process\" means \"fair legal procedure\": In the office email, the dismissal raised due process concerns.",
+        "restriction on business competition": "\"restriction on business competition\" is a real meaning, but it matches \"restraint of trade\", not \"due process\" in this sentence.",
+        "gaining a right over time": "\"gaining a right over time\" is a real meaning, but it matches \"vesting\", not \"due process\" in this sentence.",
+        "company hired by a contractor": "\"company hired by a contractor\" is a real meaning, but it matches \"subcontractor\", not \"due process\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4197",
+      "level": "C2",
+      "setupText": "Read the sentence and choose the meaning.",
+      "taskText": "What does \"restraint of trade\" mean in this sentence? The reading passage says that the court examined restraint of trade.",
+      "options": [
+        "restriction on business competition",
+        "gaining a right over time",
+        "company hired by a contractor",
+        "ability to pay debts"
+      ],
+      "answer": "restriction on business competition",
+      "explanation": "In this sentence, \"restraint of trade\" means \"restriction on business competition\": The reading passage says that the court examined restraint of trade.",
+      "rationales": {
+        "restriction on business competition": "In this sentence, \"restraint of trade\" means \"restriction on business competition\": The reading passage says that the court examined restraint of trade.",
+        "gaining a right over time": "\"gaining a right over time\" is a real meaning, but it matches \"vesting\", not \"restraint of trade\" in this sentence.",
+        "company hired by a contractor": "\"company hired by a contractor\" is a real meaning, but it matches \"subcontractor\", not \"restraint of trade\" in this sentence.",
+        "ability to pay debts": "\"ability to pay debts\" is a real meaning, but it matches \"solvency\", not \"restraint of trade\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4198",
+      "level": "C2",
+      "setupText": "Use the full sentence to understand the word.",
+      "taskText": "What does \"vesting\" mean in this sentence? At the start of the activity, the stock options vest gradually.",
+      "options": [
+        "gaining a right over time",
+        "company hired by a contractor",
+        "ability to pay debts",
+        "careful checking before a decision"
+      ],
+      "answer": "gaining a right over time",
+      "explanation": "In this sentence, \"vesting\" means \"gaining a right over time\": At the start of the activity, the stock options vest gradually.",
+      "rationales": {
+        "gaining a right over time": "In this sentence, \"vesting\" means \"gaining a right over time\": At the start of the activity, the stock options vest gradually.",
+        "company hired by a contractor": "\"company hired by a contractor\" is a real meaning, but it matches \"subcontractor\", not \"vesting\" in this sentence.",
+        "ability to pay debts": "\"ability to pay debts\" is a real meaning, but it matches \"solvency\", not \"vesting\" in this sentence.",
+        "careful checking before a decision": "\"careful checking before a decision\" is a real meaning, but it matches \"due diligence\", not \"vesting\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4199",
+      "level": "C2",
+      "setupText": "Choose the meaning that fits this sentence.",
+      "taskText": "What does \"subcontractor\" mean in this sentence? The second example says that the subcontractor missed the deadline.",
+      "options": [
+        "company hired by a contractor",
+        "ability to pay debts",
+        "careful checking before a decision",
+        "related to a duty to act for someone else's benefit"
+      ],
+      "answer": "company hired by a contractor",
+      "explanation": "In this sentence, \"subcontractor\" means \"company hired by a contractor\": The second example says that the subcontractor missed the deadline.",
+      "rationales": {
+        "company hired by a contractor": "In this sentence, \"subcontractor\" means \"company hired by a contractor\": The second example says that the subcontractor missed the deadline.",
+        "ability to pay debts": "\"ability to pay debts\" is a real meaning, but it matches \"solvency\", not \"subcontractor\" in this sentence.",
+        "careful checking before a decision": "\"careful checking before a decision\" is a real meaning, but it matches \"due diligence\", not \"subcontractor\" in this sentence.",
+        "related to a duty to act for someone else's benefit": "\"related to a duty to act for someone else's benefit\" is a real meaning, but it matches \"fiduciary\", not \"subcontractor\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-workplace-vocabulary-c2-4200",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "What does \"solvency\" mean in this sentence? On the class website, the audit questioned solvency.",
+      "options": [
+        "ability to pay debts",
+        "careful checking before a decision",
+        "related to a duty to act for someone else's benefit",
+        "a plan for a possible problem"
+      ],
+      "answer": "ability to pay debts",
+      "explanation": "In this sentence, \"solvency\" means \"ability to pay debts\": On the class website, the audit questioned solvency.",
+      "rationales": {
+        "ability to pay debts": "In this sentence, \"solvency\" means \"ability to pay debts\": On the class website, the audit questioned solvency.",
+        "careful checking before a decision": "\"careful checking before a decision\" is a real meaning, but it matches \"due diligence\", not \"solvency\" in this sentence.",
+        "related to a duty to act for someone else's benefit": "\"related to a duty to act for someone else's benefit\" is a real meaning, but it matches \"fiduciary\", not \"solvency\" in this sentence.",
+        "a plan for a possible problem": "\"a plan for a possible problem\" is a real meaning, but it matches \"contingency\", not \"solvency\" in this sentence."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

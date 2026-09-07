@@ -1,0 +1,2766 @@
+{
+  "topic": "Prepositions",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-prepositions-a1-2521",
+      "level": "A1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The class starts ___ Monday.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "on",
+      "explanation": "We use \"on\" with days: on Monday, on Saturday. The completed sentence is: The class starts on Monday.",
+      "rationales": {
+        "on": "We use \"on\" with days: on Monday, on Saturday. The completed sentence is: The class starts on Monday.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2522",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The workshop begins ___ Tuesday.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "on",
+      "explanation": "We use \"on\" with days: on Monday, on Saturday. The completed sentence is: The workshop begins on Tuesday.",
+      "rationales": {
+        "on": "We use \"on\" with days: on Monday, on Saturday. The completed sentence is: The workshop begins on Tuesday.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2523",
+      "level": "A1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The office opens ___ Friday.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "on",
+      "explanation": "We use \"on\" with days: on Monday, on Saturday. The completed sentence is: The office opens on Friday.",
+      "rationales": {
+        "on": "We use \"on\" with days: on Monday, on Saturday. The completed sentence is: The office opens on Friday.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2524",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The test is ___ Wednesday.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "on",
+      "explanation": "We use \"on\" with days: on Monday, on Saturday. The completed sentence is: The test is on Wednesday.",
+      "rationales": {
+        "on": "We use \"on\" with days: on Monday, on Saturday. The completed sentence is: The test is on Wednesday.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2525",
+      "level": "A1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The meeting is ___ Thursday.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "on",
+      "explanation": "We use \"on\" with days: on Monday, on Saturday. The completed sentence is: The meeting is on Thursday.",
+      "rationales": {
+        "on": "We use \"on\" with days: on Monday, on Saturday. The completed sentence is: The meeting is on Thursday.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2526",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The class starts ___ June.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "explanation": "We use \"in\" with months, cities, and larger places. The completed sentence is: The class starts in June.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "We use \"in\" with months, cities, and larger places. The completed sentence is: The class starts in June.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2527",
+      "level": "A1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The course begins ___ September.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "explanation": "We use \"in\" with months, cities, and larger places. The completed sentence is: The course begins in September.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "We use \"in\" with months, cities, and larger places. The completed sentence is: The course begins in September.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2528",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The garden opens ___ spring.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The garden opens in spring.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The garden opens in spring.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2529",
+      "level": "A1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The office is busy ___ the morning.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The office is busy in the morning.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The office is busy in the morning.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2530",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The lesson starts ___ the afternoon.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The lesson starts in the afternoon.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The lesson starts in the afternoon.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2531",
+      "level": "A1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The meeting starts ___ noon.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "at",
+      "explanation": "\"at\" is the small word that fits this sentence. The completed sentence is: The meeting starts at noon.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" is the small word that fits this sentence. The completed sentence is: The meeting starts at noon.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2532",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The train leaves ___ 3 p.m.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "at",
+      "explanation": "We use \"at\" with clock times: at 9:30, at 2:15. The completed sentence is: The train leaves at 3 p.m.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "We use \"at\" with clock times: at 9:30, at 2:15. The completed sentence is: The train leaves at 3 p.m.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2533",
+      "level": "A1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The office opens ___ 9 a.m.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "at",
+      "explanation": "We use \"at\" with clock times: at 9:30, at 2:15. The completed sentence is: The office opens at 9 a.m.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "We use \"at\" with clock times: at 9:30, at 2:15. The completed sentence is: The office opens at 9 a.m.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2534",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The class begins ___ midnight.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "at",
+      "explanation": "\"at\" is the small word that fits this sentence. The completed sentence is: The class begins at midnight.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" is the small word that fits this sentence. The completed sentence is: The class begins at midnight.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2535",
+      "level": "A1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The interview starts ___ lunchtime.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "at",
+      "explanation": "\"at\" is the small word that fits this sentence. The completed sentence is: The interview starts at lunchtime.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" is the small word that fits this sentence. The completed sentence is: The interview starts at lunchtime.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2536",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Please finish the agenda ___ Friday.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "by",
+      "explanation": "\"By\" means no later than a time or day. The completed sentence is: Please finish the agenda by Friday.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"By\" means no later than a time or day. The completed sentence is: Please finish the agenda by Friday."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2537",
+      "level": "A1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "Send the form ___ noon.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "by",
+      "explanation": "\"By\" means no later than a time or day. The completed sentence is: Send the form by noon.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"By\" means no later than a time or day. The completed sentence is: Send the form by noon."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2538",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Return the guide ___ 3 p.m.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "by",
+      "explanation": "\"By\" means no later than a time or day. The completed sentence is: Return the guide by 3 p.m.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"By\" means no later than a time or day. The completed sentence is: Return the guide by 3 p.m."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2539",
+      "level": "A1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "Complete the email ___ Monday.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "by",
+      "explanation": "\"By\" means no later than a time or day. The completed sentence is: Complete the email by Monday.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"By\" means no later than a time or day. The completed sentence is: Complete the email by Monday."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a1-2540",
+      "level": "A1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Bring the summary ___ the end of the day.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "by",
+      "explanation": "\"By\" means no later than a time or day. The completed sentence is: Bring the summary by the end of the day.",
+      "rationales": {
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"By\" means no later than a time or day. The completed sentence is: Bring the summary by the end of the day."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2541",
+      "level": "A2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The trip will take about one hour ___ train.",
+      "options": [
+        "by",
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": "by",
+      "explanation": "\"By train\" tells us the means of transport. There is no article between \"by\" and \"train\" in this expression.",
+      "rationales": {
+        "by": "\"By train\" tells us the means of transport. There is no article between \"by\" and \"train\" in this expression.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2542",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The new notice is ___ the classroom wall.",
+      "options": [
+        "on",
+        "in",
+        "to",
+        "by"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The new notice is on the classroom wall.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The new notice is on the classroom wall.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2543",
+      "level": "A2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The receipt is ___ the blue folder.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The receipt is in the blue folder.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The receipt is in the blue folder.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2544",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Please wait ___ the front desk.",
+      "options": [
+        "at",
+        "in",
+        "to",
+        "on"
+      ],
+      "answer": "at",
+      "explanation": "\"at\" is the small word that fits this sentence. The completed sentence is: Please wait at the front desk.",
+      "rationales": {
+        "at": "\"at\" is the small word that fits this sentence. The completed sentence is: Please wait at the front desk.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "on": "\"on\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2545",
+      "level": "A2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "Mina left the station and walked ___ the museum.",
+      "options": [
+        "to",
+        "at",
+        "in",
+        "on"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: Mina left the station and walked to the museum.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: Mina left the station and walked to the museum.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "on": "\"on\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2546",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The keys are ___ Carlos's coat pocket.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The keys are in Carlos's coat pocket.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The keys are in Carlos's coat pocket.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2547",
+      "level": "A2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "A poster about the trip is ___ the notice board.",
+      "options": [
+        "on",
+        "in",
+        "by",
+        "to"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: A poster about the trip is on the notice board.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: A poster about the trip is on the notice board.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2548",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The next class begins ___ half past two.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "by"
+      ],
+      "answer": "at",
+      "explanation": "\"at\" is the small word that fits this sentence. The completed sentence is: The next class begins at half past two.",
+      "rationales": {
+        "at": "\"at\" is the small word that fits this sentence. The completed sentence is: The next class begins at half past two.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2549",
+      "level": "A2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "Lena sent the file ___ email.",
+      "options": [
+        "by",
+        "on",
+        "in",
+        "at"
+      ],
+      "answer": "by",
+      "explanation": "\"By\" means no later than a time or day. The completed sentence is: Lena sent the file by email.",
+      "rationales": {
+        "by": "\"By\" means no later than a time or day. The completed sentence is: Lena sent the file by email.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2550",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The cafe is closed ___ Sundays.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The cafe is closed on Sundays.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The cafe is closed on Sundays.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2551",
+      "level": "A2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The suitcase is ___ the bed, not under it.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The suitcase is on the bed, not under it.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The suitcase is on the bed, not under it.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2552",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Omar moved the chairs ___ the meeting room.",
+      "options": [
+        "to",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: Omar moved the chairs to the meeting room.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: Omar moved the chairs to the meeting room.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2553",
+      "level": "A2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The answer is ___ page six.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The answer is on page six.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The answer is on page six.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2554",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The train arrives ___ the evening.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The train arrives in the evening.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The train arrives in the evening.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2555",
+      "level": "A2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "Put your name ___ the top of the form.",
+      "options": [
+        "at",
+        "in",
+        "to",
+        "by"
+      ],
+      "answer": "at",
+      "explanation": "\"at\" is the small word that fits this sentence. The completed sentence is: Put your name at the top of the form.",
+      "rationales": {
+        "at": "\"at\" is the small word that fits this sentence. The completed sentence is: Put your name at the top of the form.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2556",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The office is open ___ Friday afternoon.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "by"
+      ],
+      "answer": "on",
+      "explanation": "We use \"on\" with days: on Monday, on Saturday. The completed sentence is: The office is open on Friday afternoon.",
+      "rationales": {
+        "on": "We use \"on\" with days: on Monday, on Saturday. The completed sentence is: The office is open on Friday afternoon.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2557",
+      "level": "A2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The children ran ___ the park after school.",
+      "options": [
+        "to",
+        "on",
+        "in",
+        "by"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The children ran to the park after school.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The children ran to the park after school.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2558",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The ticket is ___ my phone.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The ticket is on my phone.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The ticket is on my phone.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2559",
+      "level": "A2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "Please return the book ___ Monday morning.",
+      "options": [
+        "by",
+        "in",
+        "at",
+        "to"
+      ],
+      "answer": "by",
+      "explanation": "\"By\" means no later than a time or day. The completed sentence is: Please return the book by Monday morning.",
+      "rationales": {
+        "by": "\"By\" means no later than a time or day. The completed sentence is: Please return the book by Monday morning.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-a2-2560",
+      "level": "A2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The meeting is ___ room 204.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The meeting is in room 204.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The meeting is in room 204.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2561",
+      "level": "B1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "Mina is responsible ___ checking the report.",
+      "options": [
+        "for",
+        "to",
+        "at",
+        "with"
+      ],
+      "answer": "for",
+      "explanation": "\"for\" is the small word that fits this sentence. The completed sentence is: Mina is responsible for checking the report.",
+      "rationales": {
+        "for": "\"for\" is the small word that fits this sentence. The completed sentence is: Mina is responsible for checking the report.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2562",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The students are interested ___ joining the evening class during the staff meeting.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The students are interested in joining the evening class during the staff meeting.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The students are interested in joining the evening class during the staff meeting.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2563",
+      "level": "B1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The office manager was worried ___ the missing form.",
+      "options": [
+        "about",
+        "for",
+        "to",
+        "with"
+      ],
+      "answer": "about",
+      "explanation": "\"about\" is the small word that fits this sentence. The completed sentence is: The office manager was worried about the missing form.",
+      "rationales": {
+        "about": "\"about\" is the small word that fits this sentence. The completed sentence is: The office manager was worried about the missing form.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2564",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Nadia is good ___ explaining the rule clearly.",
+      "options": [
+        "at",
+        "in",
+        "for",
+        "to"
+      ],
+      "answer": "at",
+      "explanation": "\"at\" is the small word that fits this sentence. The completed sentence is: Nadia is good at explaining the rule clearly.",
+      "rationales": {
+        "at": "\"at\" is the small word that fits this sentence. The completed sentence is: Nadia is good at explaining the rule clearly.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2565",
+      "level": "B1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "This form is similar ___ the one we used last year after the schedule change.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "at"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: This form is similar to the one we used last year after the schedule change.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: This form is similar to the one we used last year after the schedule change.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2566",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Lena is responsible ___ checking the chart.",
+      "options": [
+        "for",
+        "to",
+        "at",
+        "with"
+      ],
+      "answer": "for",
+      "explanation": "\"for\" is the small word that fits this sentence. The completed sentence is: Lena is responsible for checking the chart.",
+      "rationales": {
+        "for": "\"for\" is the small word that fits this sentence. The completed sentence is: Lena is responsible for checking the chart.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2567",
+      "level": "B1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The students are interested ___ joining the evening class for the department update.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The students are interested in joining the evening class for the department update.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The students are interested in joining the evening class for the department update.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2568",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The service manager was worried ___ the missing message.",
+      "options": [
+        "about",
+        "for",
+        "to",
+        "with"
+      ],
+      "answer": "about",
+      "explanation": "\"about\" is the small word that fits this sentence. The completed sentence is: The service manager was worried about the missing message.",
+      "rationales": {
+        "about": "\"about\" is the small word that fits this sentence. The completed sentence is: The service manager was worried about the missing message.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2569",
+      "level": "B1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "Rina is good ___ explaining the rule clearly.",
+      "options": [
+        "at",
+        "in",
+        "for",
+        "to"
+      ],
+      "answer": "at",
+      "explanation": "\"at\" is the small word that fits this sentence. The completed sentence is: Rina is good at explaining the rule clearly.",
+      "rationales": {
+        "at": "\"at\" is the small word that fits this sentence. The completed sentence is: Rina is good at explaining the rule clearly.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2570",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "This form is similar ___ the one we used last year after the survey closed.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "at"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: This form is similar to the one we used last year after the survey closed.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: This form is similar to the one we used last year after the survey closed.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2571",
+      "level": "B1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "Hana is responsible ___ checking the lesson plan.",
+      "options": [
+        "for",
+        "to",
+        "at",
+        "with"
+      ],
+      "answer": "for",
+      "explanation": "\"for\" is the small word that fits this sentence. The completed sentence is: Hana is responsible for checking the lesson plan.",
+      "rationales": {
+        "for": "\"for\" is the small word that fits this sentence. The completed sentence is: Hana is responsible for checking the lesson plan.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2572",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The students are interested ___ joining the evening class in the supervisor's email.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The students are interested in joining the evening class in the supervisor's email.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The students are interested in joining the evening class in the supervisor's email.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2573",
+      "level": "B1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The department manager was worried ___ the missing manual.",
+      "options": [
+        "about",
+        "for",
+        "to",
+        "with"
+      ],
+      "answer": "about",
+      "explanation": "\"about\" is the small word that fits this sentence. The completed sentence is: The department manager was worried about the missing manual.",
+      "rationales": {
+        "about": "\"about\" is the small word that fits this sentence. The completed sentence is: The department manager was worried about the missing manual.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2574",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Kenji is good ___ explaining the rule clearly.",
+      "options": [
+        "at",
+        "in",
+        "for",
+        "to"
+      ],
+      "answer": "at",
+      "explanation": "\"at\" is the small word that fits this sentence. The completed sentence is: Kenji is good at explaining the rule clearly.",
+      "rationales": {
+        "at": "\"at\" is the small word that fits this sentence. The completed sentence is: Kenji is good at explaining the rule clearly.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2575",
+      "level": "B1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "This form is similar ___ the one we used last year after the policy reminder.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "at"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: This form is similar to the one we used last year after the policy reminder.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: This form is similar to the one we used last year after the policy reminder.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2576",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "Luis is responsible ___ checking the agenda.",
+      "options": [
+        "for",
+        "to",
+        "at",
+        "with"
+      ],
+      "answer": "for",
+      "explanation": "\"for\" is the small word that fits this sentence. The completed sentence is: Luis is responsible for checking the agenda.",
+      "rationales": {
+        "for": "\"for\" is the small word that fits this sentence. The completed sentence is: Luis is responsible for checking the agenda.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2577",
+      "level": "B1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The students are interested ___ joining the evening class for the training session.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "to"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The students are interested in joining the evening class for the training session.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The students are interested in joining the evening class for the training session.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2578",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The payroll manager was worried ___ the missing guide.",
+      "options": [
+        "about",
+        "for",
+        "to",
+        "with"
+      ],
+      "answer": "about",
+      "explanation": "\"about\" is the small word that fits this sentence. The completed sentence is: The payroll manager was worried about the missing guide.",
+      "rationales": {
+        "about": "\"about\" is the small word that fits this sentence. The completed sentence is: The payroll manager was worried about the missing guide.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2579",
+      "level": "B1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "Yara is good ___ explaining the rule clearly.",
+      "options": [
+        "at",
+        "in",
+        "for",
+        "to"
+      ],
+      "answer": "at",
+      "explanation": "\"at\" is the small word that fits this sentence. The completed sentence is: Yara is good at explaining the rule clearly.",
+      "rationales": {
+        "at": "\"at\" is the small word that fits this sentence. The completed sentence is: Yara is good at explaining the rule clearly.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b1-2580",
+      "level": "B1",
+      "setupText": "Choose the best answer.",
+      "taskText": "This form is similar ___ the one we used last year after the tutor's explanation.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "at"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: This form is similar to the one we used last year after the tutor's explanation.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: This form is similar to the one we used last year after the tutor's explanation.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2581",
+      "level": "B2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "There was a sharp increase ___ reports this month for the audit file.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: There was a sharp increase in reports this month for the audit file.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: There was a sharp increase in reports this month for the audit file.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2582",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The complaint was related ___ the new registration system during the policy review.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "about"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The complaint was related to the new registration system during the policy review.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The complaint was related to the new registration system during the policy review.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "about": "\"about\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2583",
+      "level": "B2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The team is familiar ___ the updated procedure before the budget meeting.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "at"
+      ],
+      "answer": "with",
+      "explanation": "\"with\" is the small word that fits this sentence. The completed sentence is: The team is familiar with the updated procedure before the budget meeting.",
+      "rationales": {
+        "with": "\"with\" is the small word that fits this sentence. The completed sentence is: The team is familiar with the updated procedure before the budget meeting.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2584",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The training manager objected ___ changing the deadline again.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "about"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The training manager objected to changing the deadline again.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The training manager objected to changing the deadline again.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "about": "\"about\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2585",
+      "level": "B2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The decision depends ___ whether the records are complete after the complaint review.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "with"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The decision depends on whether the records are complete after the complaint review.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The decision depends on whether the records are complete after the complaint review.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2586",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "There was a sharp increase ___ charts this month during the data check.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: There was a sharp increase in charts this month during the data check.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: There was a sharp increase in charts this month during the data check.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2587",
+      "level": "B2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The complaint was related ___ the new registration system for the training portal.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "about"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The complaint was related to the new registration system for the training portal.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The complaint was related to the new registration system for the training portal.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "about": "\"about\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2588",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The team is familiar ___ the updated procedure before the contract is signed.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "at"
+      ],
+      "answer": "with",
+      "explanation": "\"with\" is the small word that fits this sentence. The completed sentence is: The team is familiar with the updated procedure before the contract is signed.",
+      "rationales": {
+        "with": "\"with\" is the small word that fits this sentence. The completed sentence is: The team is familiar with the updated procedure before the contract is signed.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2589",
+      "level": "B2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The finance manager objected ___ changing the deadline again.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "about"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The finance manager objected to changing the deadline again.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The finance manager objected to changing the deadline again.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "about": "\"about\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2590",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The decision depends ___ whether the records are complete after the planning call.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "with"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The decision depends on whether the records are complete after the planning call.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The decision depends on whether the records are complete after the planning call.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2591",
+      "level": "B2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "There was a sharp increase ___ lesson plans this month during the hiring process.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: There was a sharp increase in lesson plans this month during the hiring process.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: There was a sharp increase in lesson plans this month during the hiring process.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2592",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The complaint was related ___ the new registration system for the project dashboard.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "about"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The complaint was related to the new registration system for the project dashboard.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The complaint was related to the new registration system for the project dashboard.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "about": "\"about\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2593",
+      "level": "B2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The team is familiar ___ the updated procedure before the board discussion.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "at"
+      ],
+      "answer": "with",
+      "explanation": "\"with\" is the small word that fits this sentence. The completed sentence is: The team is familiar with the updated procedure before the board discussion.",
+      "rationales": {
+        "with": "\"with\" is the small word that fits this sentence. The completed sentence is: The team is familiar with the updated procedure before the board discussion.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2594",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The operations manager objected ___ changing the deadline again.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "about"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The operations manager objected to changing the deadline again.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The operations manager objected to changing the deadline again.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "about": "\"about\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2595",
+      "level": "B2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The decision depends ___ whether the records are complete after the service report.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "with"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The decision depends on whether the records are complete after the service report.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The decision depends on whether the records are complete after the service report.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2596",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "There was a sharp increase ___ agendas this month during the operations review.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: There was a sharp increase in agendas this month during the operations review.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: There was a sharp increase in agendas this month during the operations review.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2597",
+      "level": "B2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The complaint was related ___ the new registration system for the quarterly summary.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "about"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The complaint was related to the new registration system for the quarterly summary.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The complaint was related to the new registration system for the quarterly summary.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "about": "\"about\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2598",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The team is familiar ___ the updated procedure before the compliance check.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "at"
+      ],
+      "answer": "with",
+      "explanation": "\"with\" is the small word that fits this sentence. The completed sentence is: The team is familiar with the updated procedure before the compliance check.",
+      "rationales": {
+        "with": "\"with\" is the small word that fits this sentence. The completed sentence is: The team is familiar with the updated procedure before the compliance check.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2599",
+      "level": "B2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The support manager objected ___ changing the deadline again.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "about"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The support manager objected to changing the deadline again.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The support manager objected to changing the deadline again.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "about": "\"about\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-b2-2600",
+      "level": "B2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The decision depends ___ whether the records are complete after the final interview.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "with"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The decision depends on whether the records are complete after the final interview.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The decision depends on whether the records are complete after the final interview.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2601",
+      "level": "C1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The decision about the attendance report was made ___ response to student feedback.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The decision about the attendance report was made in response to student feedback.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The decision about the attendance report was made in response to student feedback.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2602",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The distinction ___ policy and practice matters here in the methodology section.",
+      "options": [
+        "between",
+        "among",
+        "with",
+        "for"
+      ],
+      "answer": "between",
+      "explanation": "\"between\" is the small word that fits this sentence. The completed sentence is: The distinction between policy and practice matters here in the methodology section.",
+      "rationales": {
+        "between": "\"between\" is the small word that fits this sentence. The completed sentence is: The distinction between policy and practice matters here in the methodology section.",
+        "among": "\"among\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2603",
+      "level": "C1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The admissions committee placed new emphasis ___ privacy protections.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The admissions committee placed new emphasis on privacy protections.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The admissions committee placed new emphasis on privacy protections.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2604",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The survey report gives staff access ___ the revised records.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The survey report gives staff access to the revised records.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The survey report gives staff access to the revised records.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2605",
+      "level": "C1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The objection was based ___ a narrow reading of the rule after the evidence is compared.",
+      "options": [
+        "on",
+        "in",
+        "with",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The objection was based on a narrow reading of the rule after the evidence is compared.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The objection was based on a narrow reading of the rule after the evidence is compared.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2606",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The decision about the chart was made ___ response to student feedback during the compliance review.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The decision about the chart was made in response to student feedback during the compliance review.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The decision about the chart was made in response to student feedback during the compliance review.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2607",
+      "level": "C1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The distinction ___ policy and practice matters here on the evaluation form.",
+      "options": [
+        "between",
+        "among",
+        "with",
+        "for"
+      ],
+      "answer": "between",
+      "explanation": "\"between\" is the small word that fits this sentence. The completed sentence is: The distinction between policy and practice matters here on the evaluation form.",
+      "rationales": {
+        "between": "\"between\" is the small word that fits this sentence. The completed sentence is: The distinction between policy and practice matters here on the evaluation form.",
+        "among": "\"among\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2608",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The appeals committee placed new emphasis ___ privacy protections.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The appeals committee placed new emphasis on privacy protections.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The appeals committee placed new emphasis on privacy protections.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2609",
+      "level": "C1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The incident report gives staff access ___ the revised records.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The incident report gives staff access to the revised records.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The incident report gives staff access to the revised records.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2610",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The objection was based ___ a narrow reading of the rule in the grant application.",
+      "options": [
+        "on",
+        "in",
+        "with",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The objection was based on a narrow reading of the rule in the grant application.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The objection was based on a narrow reading of the rule in the grant application.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2611",
+      "level": "C1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The decision about the lesson plan was made ___ response to student feedback during the seminar discussion.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The decision about the lesson plan was made in response to student feedback during the seminar discussion.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The decision about the lesson plan was made in response to student feedback during the seminar discussion.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2612",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The distinction ___ policy and practice matters here on the risk assessment.",
+      "options": [
+        "between",
+        "among",
+        "with",
+        "for"
+      ],
+      "answer": "between",
+      "explanation": "\"between\" is the small word that fits this sentence. The completed sentence is: The distinction between policy and practice matters here on the risk assessment.",
+      "rationales": {
+        "between": "\"between\" is the small word that fits this sentence. The completed sentence is: The distinction between policy and practice matters here on the risk assessment.",
+        "among": "\"among\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2613",
+      "level": "C1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The research committee placed new emphasis ___ privacy protections.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The research committee placed new emphasis on privacy protections.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The research committee placed new emphasis on privacy protections.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2614",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The field report gives staff access ___ the revised records.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The field report gives staff access to the revised records.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The field report gives staff access to the revised records.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2615",
+      "level": "C1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The objection was based ___ a narrow reading of the rule in the appendix note.",
+      "options": [
+        "on",
+        "in",
+        "with",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The objection was based on a narrow reading of the rule in the appendix note.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The objection was based on a narrow reading of the rule in the appendix note.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2616",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The decision about the agenda was made ___ response to student feedback for the advisory brief.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The decision about the agenda was made in response to student feedback for the advisory brief.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The decision about the agenda was made in response to student feedback for the advisory brief.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2617",
+      "level": "C1",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The distinction ___ policy and practice matters here during the protocol review.",
+      "options": [
+        "between",
+        "among",
+        "with",
+        "for"
+      ],
+      "answer": "between",
+      "explanation": "\"between\" is the small word that fits this sentence. The completed sentence is: The distinction between policy and practice matters here during the protocol review.",
+      "rationales": {
+        "between": "\"between\" is the small word that fits this sentence. The completed sentence is: The distinction between policy and practice matters here during the protocol review.",
+        "among": "\"among\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2618",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The standards committee placed new emphasis ___ privacy protections.",
+      "options": [
+        "on",
+        "in",
+        "at",
+        "to"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The standards committee placed new emphasis on privacy protections.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The standards committee placed new emphasis on privacy protections.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2619",
+      "level": "C1",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The statistical report gives staff access ___ the revised records.",
+      "options": [
+        "to",
+        "for",
+        "with",
+        "at"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: The statistical report gives staff access to the revised records.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: The statistical report gives staff access to the revised records.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c1-2620",
+      "level": "C1",
+      "setupText": "Choose the best answer.",
+      "taskText": "The objection was based ___ a narrow reading of the rule in the assessment rubric.",
+      "options": [
+        "on",
+        "in",
+        "with",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: The objection was based on a narrow reading of the rule in the assessment rubric.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: The objection was based on a narrow reading of the rule in the assessment rubric.",
+        "in": "\"in\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2621",
+      "level": "C2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The proposal about the attendance report is consistent ___ the school's published policy.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "at"
+      ],
+      "answer": "with",
+      "explanation": "\"with\" is the small word that fits this sentence. The completed sentence is: The proposal about the attendance report is consistent with the school's published policy.",
+      "rationales": {
+        "with": "\"with\" is the small word that fits this sentence. The completed sentence is: The proposal about the attendance report is consistent with the school's published policy.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2622",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Approval is contingent ___ the planning committee's final review.",
+      "options": [
+        "on",
+        "with",
+        "to",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: Approval is contingent on the planning committee's final review.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: Approval is contingent on the planning committee's final review.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2623",
+      "level": "C2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The rule applies irrespective ___ whether the applicant appeals before the arbitration panel meets.",
+      "options": [
+        "of",
+        "to",
+        "with",
+        "for"
+      ],
+      "answer": "of",
+      "explanation": "\"of\" is the small word that fits this sentence. The completed sentence is: The rule applies irrespective of whether the applicant appeals before the arbitration panel meets.",
+      "rationales": {
+        "of": "\"of\" is the small word that fits this sentence. The completed sentence is: The rule applies irrespective of whether the applicant appeals before the arbitration panel meets.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2624",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "This objection is analogous ___ the concern raised in the earlier case in the fiduciary briefing.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "about"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: This objection is analogous to the concern raised in the earlier case in the fiduciary briefing.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: This objection is analogous to the concern raised in the earlier case in the fiduciary briefing.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "about": "\"about\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2625",
+      "level": "C2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The records were released ___ accordance with the court order after the methodological critique.",
+      "options": [
+        "in",
+        "on",
+        "by",
+        "at"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The records were released in accordance with the court order after the methodological critique.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The records were released in accordance with the court order after the methodological critique.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2626",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The proposal about the chart is consistent ___ the school's published policy before the precedent is cited.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "at"
+      ],
+      "answer": "with",
+      "explanation": "\"with\" is the small word that fits this sentence. The completed sentence is: The proposal about the chart is consistent with the school's published policy before the precedent is cited.",
+      "rationales": {
+        "with": "\"with\" is the small word that fits this sentence. The completed sentence is: The proposal about the chart is consistent with the school's published policy before the precedent is cited.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2627",
+      "level": "C2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "Approval is contingent ___ the scholarship committee's final review.",
+      "options": [
+        "on",
+        "with",
+        "to",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: Approval is contingent on the scholarship committee's final review.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: Approval is contingent on the scholarship committee's final review.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2628",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The rule applies irrespective ___ whether the applicant appeals during the appellate review.",
+      "options": [
+        "of",
+        "to",
+        "with",
+        "for"
+      ],
+      "answer": "of",
+      "explanation": "\"of\" is the small word that fits this sentence. The completed sentence is: The rule applies irrespective of whether the applicant appeals during the appellate review.",
+      "rationales": {
+        "of": "\"of\" is the small word that fits this sentence. The completed sentence is: The rule applies irrespective of whether the applicant appeals during the appellate review.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2629",
+      "level": "C2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "This objection is analogous ___ the concern raised in the earlier case in the technical memorandum.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "about"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: This objection is analogous to the concern raised in the earlier case in the technical memorandum.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: This objection is analogous to the concern raised in the earlier case in the technical memorandum.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "about": "\"about\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2630",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The records were released ___ accordance with the court order after the objections are synthesized.",
+      "options": [
+        "in",
+        "on",
+        "by",
+        "at"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The records were released in accordance with the court order after the objections are synthesized.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The records were released in accordance with the court order after the objections are synthesized.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2631",
+      "level": "C2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The proposal about the lesson plan is consistent ___ the school's published policy before the caveat is removed.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "at"
+      ],
+      "answer": "with",
+      "explanation": "\"with\" is the small word that fits this sentence. The completed sentence is: The proposal about the lesson plan is consistent with the school's published policy before the caveat is removed.",
+      "rationales": {
+        "with": "\"with\" is the small word that fits this sentence. The completed sentence is: The proposal about the lesson plan is consistent with the school's published policy before the caveat is removed.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2632",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "Approval is contingent ___ the policy committee's final review.",
+      "options": [
+        "on",
+        "with",
+        "to",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: Approval is contingent on the policy committee's final review.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: Approval is contingent on the policy committee's final review.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2633",
+      "level": "C2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "The rule applies irrespective ___ whether the applicant appeals during the ethics review.",
+      "options": [
+        "of",
+        "to",
+        "with",
+        "for"
+      ],
+      "answer": "of",
+      "explanation": "\"of\" is the small word that fits this sentence. The completed sentence is: The rule applies irrespective of whether the applicant appeals during the ethics review.",
+      "rationales": {
+        "of": "\"of\" is the small word that fits this sentence. The completed sentence is: The rule applies irrespective of whether the applicant appeals during the ethics review.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2634",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "This objection is analogous ___ the concern raised in the earlier case on the counterargument table.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "about"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: This objection is analogous to the concern raised in the earlier case on the counterargument table.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: This objection is analogous to the concern raised in the earlier case on the counterargument table.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "about": "\"about\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2635",
+      "level": "C2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "The records were released ___ accordance with the court order before the final adjudication.",
+      "options": [
+        "in",
+        "on",
+        "by",
+        "at"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The records were released in accordance with the court order before the final adjudication.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The records were released in accordance with the court order before the final adjudication.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2636",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The proposal about the agenda is consistent ___ the school's published policy in the statutory analysis.",
+      "options": [
+        "with",
+        "to",
+        "for",
+        "at"
+      ],
+      "answer": "with",
+      "explanation": "\"with\" is the small word that fits this sentence. The completed sentence is: The proposal about the agenda is consistent with the school's published policy in the statutory analysis.",
+      "rationales": {
+        "with": "\"with\" is the small word that fits this sentence. The completed sentence is: The proposal about the agenda is consistent with the school's published policy in the statutory analysis.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2637",
+      "level": "C2",
+      "setupText": "Choose the small word that fits the sentence.",
+      "taskText": "Approval is contingent ___ the examination committee's final review.",
+      "options": [
+        "on",
+        "with",
+        "to",
+        "for"
+      ],
+      "answer": "on",
+      "explanation": "\"on\" is the small word that fits this sentence. The completed sentence is: Approval is contingent on the examination committee's final review.",
+      "rationales": {
+        "on": "\"on\" is the small word that fits this sentence. The completed sentence is: Approval is contingent on the examination committee's final review.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2638",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The rule applies irrespective ___ whether the applicant appeals in the compliance addendum.",
+      "options": [
+        "of",
+        "to",
+        "with",
+        "for"
+      ],
+      "answer": "of",
+      "explanation": "\"of\" is the small word that fits this sentence. The completed sentence is: The rule applies irrespective of whether the applicant appeals in the compliance addendum.",
+      "rationales": {
+        "of": "\"of\" is the small word that fits this sentence. The completed sentence is: The rule applies irrespective of whether the applicant appeals in the compliance addendum.",
+        "to": "\"to\" does not fit this time, place, or relationship.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2639",
+      "level": "C2",
+      "setupText": "Choose the answer that sounds natural in the sentence.",
+      "taskText": "This objection is analogous ___ the concern raised in the earlier case after the longitudinal model is revised.",
+      "options": [
+        "to",
+        "with",
+        "for",
+        "about"
+      ],
+      "answer": "to",
+      "explanation": "\"to\" is the small word that fits this sentence. The completed sentence is: This objection is analogous to the concern raised in the earlier case after the longitudinal model is revised.",
+      "rationales": {
+        "to": "\"to\" is the small word that fits this sentence. The completed sentence is: This objection is analogous to the concern raised in the earlier case after the longitudinal model is revised.",
+        "with": "\"with\" does not fit this time, place, or relationship.",
+        "for": "\"for\" does not fit this time, place, or relationship.",
+        "about": "\"about\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-prepositions-c2-2640",
+      "level": "C2",
+      "setupText": "Choose the best answer.",
+      "taskText": "The records were released ___ accordance with the court order before the ruling is issued.",
+      "options": [
+        "in",
+        "on",
+        "by",
+        "at"
+      ],
+      "answer": "in",
+      "explanation": "\"in\" is the small word that fits this sentence. The completed sentence is: The records were released in accordance with the court order before the ruling is issued.",
+      "rationales": {
+        "in": "\"in\" is the small word that fits this sentence. The completed sentence is: The records were released in accordance with the court order before the ruling is issued.",
+        "on": "\"on\" does not fit this time, place, or relationship.",
+        "by": "\"by\" does not fit this time, place, or relationship.",
+        "at": "\"at\" does not fit this time, place, or relationship."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

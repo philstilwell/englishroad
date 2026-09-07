@@ -1,0 +1,2766 @@
+{
+  "topic": "Comparatives",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-comparatives-a1-721",
+      "level": "A1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The blue bag is ___ than the red bag.",
+      "options": [
+        "bigger",
+        "big",
+        "biggest",
+        "more big"
+      ],
+      "answer": "bigger",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The blue bag is bigger than the red bag.",
+      "rationales": {
+        "bigger": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The blue bag is bigger than the red bag.",
+        "big": "\"big\" is not the correct comparison form.",
+        "biggest": "\"biggest\" is not the correct comparison form.",
+        "more big": "\"more big\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-722",
+      "level": "A1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "This pencil is ___ than the marker.",
+      "options": [
+        "shorter",
+        "short",
+        "shortest",
+        "more short"
+      ],
+      "answer": "shorter",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This pencil is shorter than the marker.",
+      "rationales": {
+        "shorter": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This pencil is shorter than the marker.",
+        "short": "\"short\" is not the correct comparison form.",
+        "shortest": "\"shortest\" is not the correct comparison form.",
+        "more short": "\"more short\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-723",
+      "level": "A1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The soup is ___ than the tea.",
+      "options": [
+        "hotter",
+        "hot",
+        "hottest",
+        "more hot"
+      ],
+      "answer": "hotter",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The soup is hotter than the tea.",
+      "rationales": {
+        "hotter": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The soup is hotter than the tea.",
+        "hot": "\"hot\" is not the correct comparison form.",
+        "hottest": "\"hottest\" is not the correct comparison form.",
+        "more hot": "\"more hot\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-724",
+      "level": "A1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "My box is ___ than your box.",
+      "options": [
+        "heavier",
+        "heavy",
+        "heaviest",
+        "more heavy"
+      ],
+      "answer": "heavier",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: My box is heavier than your box.",
+      "rationales": {
+        "heavier": "The sentence compares two things, so the comparative form is needed. The completed sentence is: My box is heavier than your box.",
+        "heavy": "\"heavy\" is not the correct comparison form.",
+        "heaviest": "\"heaviest\" is not the correct comparison form.",
+        "more heavy": "\"more heavy\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-725",
+      "level": "A1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The white cup is ___ than the black cup.",
+      "options": [
+        "cleaner",
+        "clean",
+        "cleanest",
+        "more clean"
+      ],
+      "answer": "cleaner",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The white cup is cleaner than the black cup.",
+      "rationales": {
+        "cleaner": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The white cup is cleaner than the black cup.",
+        "clean": "\"clean\" is not the correct comparison form.",
+        "cleanest": "\"cleanest\" is not the correct comparison form.",
+        "more clean": "\"more clean\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-726",
+      "level": "A1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "This street is ___ than our street.",
+      "options": [
+        "quieter",
+        "quiet",
+        "quietest",
+        "more quiet"
+      ],
+      "answer": "quieter",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This street is quieter than our street.",
+      "rationales": {
+        "quieter": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This street is quieter than our street.",
+        "quiet": "\"quiet\" is not the correct comparison form.",
+        "quietest": "\"quietest\" is not the correct comparison form.",
+        "more quiet": "\"more quiet\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-727",
+      "level": "A1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The red chair is ___ than the sofa.",
+      "options": [
+        "lighter",
+        "light",
+        "lightest",
+        "more light"
+      ],
+      "answer": "lighter",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The red chair is lighter than the sofa.",
+      "rationales": {
+        "lighter": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The red chair is lighter than the sofa.",
+        "light": "\"light\" is not the correct comparison form.",
+        "lightest": "\"lightest\" is not the correct comparison form.",
+        "more light": "\"more light\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-728",
+      "level": "A1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The morning class is ___ than the evening class.",
+      "options": [
+        "earlier",
+        "early",
+        "earliest",
+        "more early"
+      ],
+      "answer": "earlier",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The morning class is earlier than the evening class.",
+      "rationales": {
+        "earlier": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The morning class is earlier than the evening class.",
+        "early": "\"early\" is not the correct comparison form.",
+        "earliest": "\"earliest\" is not the correct comparison form.",
+        "more early": "\"more early\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-729",
+      "level": "A1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The new shoes are ___ than the old shoes.",
+      "options": [
+        "cleaner",
+        "clean",
+        "cleanest",
+        "more clean"
+      ],
+      "answer": "cleaner",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new shoes are cleaner than the old shoes.",
+      "rationales": {
+        "cleaner": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new shoes are cleaner than the old shoes.",
+        "clean": "\"clean\" is not the correct comparison form.",
+        "cleanest": "\"cleanest\" is not the correct comparison form.",
+        "more clean": "\"more clean\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-730",
+      "level": "A1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "This bag is ___ than that suitcase.",
+      "options": [
+        "smaller",
+        "small",
+        "smallest",
+        "more small"
+      ],
+      "answer": "smaller",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This bag is smaller than that suitcase.",
+      "rationales": {
+        "smaller": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This bag is smaller than that suitcase.",
+        "small": "\"small\" is not the correct comparison form.",
+        "smallest": "\"smallest\" is not the correct comparison form.",
+        "more small": "\"more small\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-731",
+      "level": "A1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The green apple is ___ than the yellow one.",
+      "options": [
+        "harder",
+        "hard",
+        "hardest",
+        "more hard"
+      ],
+      "answer": "harder",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The green apple is harder than the yellow one.",
+      "rationales": {
+        "harder": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The green apple is harder than the yellow one.",
+        "hard": "\"hard\" is not the correct comparison form.",
+        "hardest": "\"hardest\" is not the correct comparison form.",
+        "more hard": "\"more hard\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-732",
+      "level": "A1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The second song is ___ than the first song.",
+      "options": [
+        "slower",
+        "slow",
+        "slowest",
+        "more slow"
+      ],
+      "answer": "slower",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second song is slower than the first song.",
+      "rationales": {
+        "slower": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second song is slower than the first song.",
+        "slow": "\"slow\" is not the correct comparison form.",
+        "slowest": "\"slowest\" is not the correct comparison form.",
+        "more slow": "\"more slow\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-733",
+      "level": "A1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "My room is ___ than the kitchen.",
+      "options": [
+        "colder",
+        "cold",
+        "coldest",
+        "more cold"
+      ],
+      "answer": "colder",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: My room is colder than the kitchen.",
+      "rationales": {
+        "colder": "The sentence compares two things, so the comparative form is needed. The completed sentence is: My room is colder than the kitchen.",
+        "cold": "\"cold\" is not the correct comparison form.",
+        "coldest": "\"coldest\" is not the correct comparison form.",
+        "more cold": "\"more cold\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-734",
+      "level": "A1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "This exercise is ___ than the homework.",
+      "options": [
+        "easier",
+        "easy",
+        "easiest",
+        "more easy"
+      ],
+      "answer": "easier",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This exercise is easier than the homework.",
+      "rationales": {
+        "easier": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This exercise is easier than the homework.",
+        "easy": "\"easy\" is not the correct comparison form.",
+        "easiest": "\"easiest\" is not the correct comparison form.",
+        "more easy": "\"more easy\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-735",
+      "level": "A1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The park is ___ than the station.",
+      "options": [
+        "nearer",
+        "near",
+        "nearest",
+        "more near"
+      ],
+      "answer": "nearer",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The park is nearer than the station.",
+      "rationales": {
+        "nearer": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The park is nearer than the station.",
+        "near": "\"near\" is not the correct comparison form.",
+        "nearest": "\"nearest\" is not the correct comparison form.",
+        "more near": "\"more near\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-736",
+      "level": "A1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The back door is ___ than the front door.",
+      "options": [
+        "wider",
+        "wide",
+        "widest",
+        "more wide"
+      ],
+      "answer": "wider",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The back door is wider than the front door.",
+      "rationales": {
+        "wider": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The back door is wider than the front door.",
+        "wide": "\"wide\" is not the correct comparison form.",
+        "widest": "\"widest\" is not the correct comparison form.",
+        "more wide": "\"more wide\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-737",
+      "level": "A1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The baby is ___ than his sister.",
+      "options": [
+        "younger",
+        "young",
+        "youngest",
+        "more young"
+      ],
+      "answer": "younger",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The baby is younger than his sister.",
+      "rationales": {
+        "younger": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The baby is younger than his sister.",
+        "young": "\"young\" is not the correct comparison form.",
+        "youngest": "\"youngest\" is not the correct comparison form.",
+        "more young": "\"more young\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-738",
+      "level": "A1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The brown desk is ___ than the round table.",
+      "options": [
+        "older",
+        "old",
+        "oldest",
+        "more old"
+      ],
+      "answer": "older",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The brown desk is older than the round table.",
+      "rationales": {
+        "older": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The brown desk is older than the round table.",
+        "old": "\"old\" is not the correct comparison form.",
+        "oldest": "\"oldest\" is not the correct comparison form.",
+        "more old": "\"more old\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-739",
+      "level": "A1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The bus is ___ than the bicycle.",
+      "options": [
+        "faster",
+        "fast",
+        "fastest",
+        "more fast"
+      ],
+      "answer": "faster",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The bus is faster than the bicycle.",
+      "rationales": {
+        "faster": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The bus is faster than the bicycle.",
+        "fast": "\"fast\" is not the correct comparison form.",
+        "fastest": "\"fastest\" is not the correct comparison form.",
+        "more fast": "\"more fast\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a1-740",
+      "level": "A1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The library is ___ than the cafe.",
+      "options": [
+        "larger",
+        "large",
+        "largest",
+        "more large"
+      ],
+      "answer": "larger",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The library is larger than the cafe.",
+      "rationales": {
+        "larger": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The library is larger than the cafe.",
+        "large": "\"large\" is not the correct comparison form.",
+        "largest": "\"largest\" is not the correct comparison form.",
+        "more large": "\"more large\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-741",
+      "level": "A2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The new elevator is ___ than the stairs.",
+      "options": [
+        "faster",
+        "fast",
+        "fastest",
+        "more fast"
+      ],
+      "answer": "faster",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new elevator is faster than the stairs.",
+      "rationales": {
+        "faster": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new elevator is faster than the stairs.",
+        "fast": "\"fast\" is not the correct comparison form.",
+        "fastest": "\"fastest\" is not the correct comparison form.",
+        "more fast": "\"more fast\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-742",
+      "level": "A2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "This backpack is not ___ as my old one.",
+      "options": [
+        "as heavy",
+        "heavier",
+        "heavy than",
+        "more heavy"
+      ],
+      "answer": "as heavy",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This backpack is not as heavy as my old one.",
+      "rationales": {
+        "as heavy": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This backpack is not as heavy as my old one.",
+        "heavier": "\"heavier\" is not the correct comparison form.",
+        "heavy than": "\"heavy than\" is not the correct comparison form.",
+        "more heavy": "\"more heavy\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-743",
+      "level": "A2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "Of the three buses, the blue bus is ___.",
+      "options": [
+        "the earliest",
+        "earlier",
+        "early than",
+        "most early"
+      ],
+      "answer": "the earliest",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: Of the three buses, the blue bus is the earliest.",
+      "rationales": {
+        "the earliest": "The sentence compares two things, so the comparative form is needed. The completed sentence is: Of the three buses, the blue bus is the earliest.",
+        "earlier": "\"earlier\" is not the correct comparison form.",
+        "early than": "\"early than\" is not the correct comparison form.",
+        "most early": "\"most early\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-744",
+      "level": "A2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The online map is ___ than the paper map.",
+      "options": [
+        "more useful",
+        "usefuler",
+        "most useful",
+        "useful than"
+      ],
+      "answer": "more useful",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The online map is more useful than the paper map.",
+      "rationales": {
+        "more useful": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The online map is more useful than the paper map.",
+        "usefuler": "\"usefuler\" is not the correct comparison form.",
+        "most useful": "\"most useful\" is not the correct comparison form.",
+        "useful than": "\"useful than\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-745",
+      "level": "A2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The second hotel is ___ expensive than the first.",
+      "options": [
+        "less",
+        "least",
+        "little",
+        "fewer"
+      ],
+      "answer": "less",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second hotel is less expensive than the first.",
+      "rationales": {
+        "less": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second hotel is less expensive than the first.",
+        "least": "\"least\" is not the correct comparison form.",
+        "little": "\"little\" is not the correct comparison form.",
+        "fewer": "\"fewer\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-746",
+      "level": "A2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The red suitcase is ___ than the black suitcase.",
+      "options": [
+        "easier to carry",
+        "easy carry",
+        "easiest to carry",
+        "more easy carry"
+      ],
+      "answer": "easier to carry",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The red suitcase is easier to carry than the black suitcase.",
+      "rationales": {
+        "easier to carry": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The red suitcase is easier to carry than the black suitcase.",
+        "easy carry": "\"easy carry\" is not the correct comparison form.",
+        "easiest to carry": "\"easiest to carry\" is not the correct comparison form.",
+        "more easy carry": "\"more easy carry\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-747",
+      "level": "A2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The afternoon train is ___ than the morning train.",
+      "options": [
+        "more crowded",
+        "crowdeder",
+        "most crowded",
+        "crowded than"
+      ],
+      "answer": "more crowded",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The afternoon train is more crowded than the morning train.",
+      "rationales": {
+        "more crowded": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The afternoon train is more crowded than the morning train.",
+        "crowdeder": "\"crowdeder\" is not the correct comparison form.",
+        "most crowded": "\"most crowded\" is not the correct comparison form.",
+        "crowded than": "\"crowded than\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-748",
+      "level": "A2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "This answer is ___ than the one I wrote yesterday.",
+      "options": [
+        "clearer",
+        "clear",
+        "clearest",
+        "more clearer"
+      ],
+      "answer": "clearer",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This answer is clearer than the one I wrote yesterday.",
+      "rationales": {
+        "clearer": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This answer is clearer than the one I wrote yesterday.",
+        "clear": "\"clear\" is not the correct comparison form.",
+        "clearest": "\"clearest\" is not the correct comparison form.",
+        "more clearer": "\"more clearer\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-749",
+      "level": "A2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The small room is ___ than the main hall.",
+      "options": [
+        "warmer",
+        "warm",
+        "warmest",
+        "more warmer"
+      ],
+      "answer": "warmer",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The small room is warmer than the main hall.",
+      "rationales": {
+        "warmer": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The small room is warmer than the main hall.",
+        "warm": "\"warm\" is not the correct comparison form.",
+        "warmest": "\"warmest\" is not the correct comparison form.",
+        "more warmer": "\"more warmer\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-750",
+      "level": "A2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "My new phone is ___ than my old phone.",
+      "options": [
+        "better",
+        "gooder",
+        "best",
+        "more good"
+      ],
+      "answer": "better",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: My new phone is better than my old phone.",
+      "rationales": {
+        "better": "The sentence compares two things, so the comparative form is needed. The completed sentence is: My new phone is better than my old phone.",
+        "gooder": "\"gooder\" is not the correct comparison form.",
+        "best": "\"best\" is not the correct comparison form.",
+        "more good": "\"more good\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-751",
+      "level": "A2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The last question was ___ than the first question.",
+      "options": [
+        "more difficult",
+        "difficulter",
+        "most difficult",
+        "difficult than"
+      ],
+      "answer": "more difficult",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The last question was more difficult than the first question.",
+      "rationales": {
+        "more difficult": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The last question was more difficult than the first question.",
+        "difficulter": "\"difficulter\" is not the correct comparison form.",
+        "most difficult": "\"most difficult\" is not the correct comparison form.",
+        "difficult than": "\"difficult than\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-752",
+      "level": "A2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The side entrance is ___ than the main entrance.",
+      "options": [
+        "narrower",
+        "narrow",
+        "narrowest",
+        "more narrower"
+      ],
+      "answer": "narrower",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The side entrance is narrower than the main entrance.",
+      "rationales": {
+        "narrower": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The side entrance is narrower than the main entrance.",
+        "narrow": "\"narrow\" is not the correct comparison form.",
+        "narrowest": "\"narrowest\" is not the correct comparison form.",
+        "more narrower": "\"more narrower\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-753",
+      "level": "A2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "This week's schedule is ___ than last week's.",
+      "options": [
+        "busier",
+        "busy",
+        "busiest",
+        "more busier"
+      ],
+      "answer": "busier",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This week's schedule is busier than last week's.",
+      "rationales": {
+        "busier": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This week's schedule is busier than last week's.",
+        "busy": "\"busy\" is not the correct comparison form.",
+        "busiest": "\"busiest\" is not the correct comparison form.",
+        "more busier": "\"more busier\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-754",
+      "level": "A2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The new chair is ___ comfortable than the old chair.",
+      "options": [
+        "more",
+        "most",
+        "much",
+        "many"
+      ],
+      "answer": "more",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new chair is more comfortable than the old chair.",
+      "rationales": {
+        "more": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new chair is more comfortable than the old chair.",
+        "most": "\"most\" is not the correct comparison form.",
+        "much": "\"much\" is not the correct comparison form.",
+        "many": "\"many\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-755",
+      "level": "A2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The river path is ___ than the road.",
+      "options": [
+        "safer",
+        "safe",
+        "safest",
+        "more safer"
+      ],
+      "answer": "safer",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The river path is safer than the road.",
+      "rationales": {
+        "safer": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The river path is safer than the road.",
+        "safe": "\"safe\" is not the correct comparison form.",
+        "safest": "\"safest\" is not the correct comparison form.",
+        "more safer": "\"more safer\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-756",
+      "level": "A2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "This form is the ___ of the two.",
+      "options": [
+        "shorter",
+        "short",
+        "shortest",
+        "more short"
+      ],
+      "answer": "shorter",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This form is the shorter of the two.",
+      "rationales": {
+        "shorter": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This form is the shorter of the two.",
+        "short": "\"short\" is not the correct comparison form.",
+        "shortest": "\"shortest\" is not the correct comparison form.",
+        "more short": "\"more short\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-757",
+      "level": "A2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The second explanation is not ___ as the first.",
+      "options": [
+        "as simple",
+        "simpler",
+        "simple than",
+        "more simple"
+      ],
+      "answer": "as simple",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second explanation is not as simple as the first.",
+      "rationales": {
+        "as simple": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second explanation is not as simple as the first.",
+        "simpler": "\"simpler\" is not the correct comparison form.",
+        "simple than": "\"simple than\" is not the correct comparison form.",
+        "more simple": "\"more simple\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-758",
+      "level": "A2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The new printer is ___ than the old one.",
+      "options": [
+        "noisier",
+        "noisy",
+        "noisiest",
+        "more noisier"
+      ],
+      "answer": "noisier",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new printer is noisier than the old one.",
+      "rationales": {
+        "noisier": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new printer is noisier than the old one.",
+        "noisy": "\"noisy\" is not the correct comparison form.",
+        "noisiest": "\"noisiest\" is not the correct comparison form.",
+        "more noisier": "\"more noisier\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-759",
+      "level": "A2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The weekend class is ___ popular than the weekday class.",
+      "options": [
+        "more",
+        "most",
+        "many",
+        "much"
+      ],
+      "answer": "more",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The weekend class is more popular than the weekday class.",
+      "rationales": {
+        "more": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The weekend class is more popular than the weekday class.",
+        "most": "\"most\" is not the correct comparison form.",
+        "many": "\"many\" is not the correct comparison form.",
+        "much": "\"much\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-a2-760",
+      "level": "A2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "This route is ___ than it looks on the map.",
+      "options": [
+        "longer",
+        "long",
+        "longest",
+        "more longer"
+      ],
+      "answer": "longer",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This route is longer than it looks on the map.",
+      "rationales": {
+        "longer": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This route is longer than it looks on the map.",
+        "long": "\"long\" is not the correct comparison form.",
+        "longest": "\"longest\" is not the correct comparison form.",
+        "more longer": "\"more longer\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-761",
+      "level": "B1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "Mina's explanation was much ___ than the first one.",
+      "options": [
+        "smaller",
+        "very smaller",
+        "more smaller",
+        "small"
+      ],
+      "answer": "smaller",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: Mina's explanation was much smaller than the first one.",
+      "rationales": {
+        "smaller": "The sentence compares two things, so the comparative form is needed. The completed sentence is: Mina's explanation was much smaller than the first one.",
+        "very smaller": "\"very smaller\" is not the correct comparison form.",
+        "more smaller": "\"more smaller\" is not the correct comparison form.",
+        "small": "\"small\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-762",
+      "level": "B1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The route through the clinic was much ___ than the map suggested during the staff meeting.",
+      "options": [
+        "larger",
+        "very larger",
+        "more larger",
+        "large"
+      ],
+      "answer": "larger",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The route through the clinic was much larger than the map suggested during the staff meeting.",
+      "rationales": {
+        "larger": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The route through the clinic was much larger than the map suggested during the staff meeting.",
+        "very larger": "\"very larger\" is not the correct comparison form.",
+        "more larger": "\"more larger\" is not the correct comparison form.",
+        "large": "\"large\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-763",
+      "level": "B1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The second answer looked much ___ after the tutor revised it before the client call.",
+      "options": [
+        "quicker",
+        "very quicker",
+        "more quicker",
+        "quick"
+      ],
+      "answer": "quicker",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second answer looked much quicker after the tutor revised it before the client call.",
+      "rationales": {
+        "quicker": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second answer looked much quicker after the tutor revised it before the client call.",
+        "very quicker": "\"very quicker\" is not the correct comparison form.",
+        "more quicker": "\"more quicker\" is not the correct comparison form.",
+        "quick": "\"quick\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-764",
+      "level": "B1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "This week's practice task felt much ___ than last week's in the course update.",
+      "options": [
+        "slower",
+        "very slower",
+        "more slower",
+        "slow"
+      ],
+      "answer": "slower",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This week's practice task felt much slower than last week's in the course update.",
+      "rationales": {
+        "slower": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This week's practice task felt much slower than last week's in the course update.",
+        "very slower": "\"very slower\" is not the correct comparison form.",
+        "more slower": "\"more slower\" is not the correct comparison form.",
+        "slow": "\"slow\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-765",
+      "level": "B1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The new waiting area is much ___ than the old hallway after the schedule change.",
+      "options": [
+        "cheaper",
+        "very cheaper",
+        "more cheaper",
+        "cheap"
+      ],
+      "answer": "cheaper",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new waiting area is much cheaper than the old hallway after the schedule change.",
+      "rationales": {
+        "cheaper": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new waiting area is much cheaper than the old hallway after the schedule change.",
+        "very cheaper": "\"very cheaper\" is not the correct comparison form.",
+        "more cheaper": "\"more cheaper\" is not the correct comparison form.",
+        "cheap": "\"cheap\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-766",
+      "level": "B1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The afternoon session moved much ___ once the projector worked during the safety briefing.",
+      "options": [
+        "warmer",
+        "very warmer",
+        "more warmer",
+        "warm"
+      ],
+      "answer": "warmer",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The afternoon session moved much warmer once the projector worked during the safety briefing.",
+      "rationales": {
+        "warmer": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The afternoon session moved much warmer once the projector worked during the safety briefing.",
+        "very warmer": "\"very warmer\" is not the correct comparison form.",
+        "more warmer": "\"more warmer\" is not the correct comparison form.",
+        "warm": "\"warm\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-767",
+      "level": "B1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The replacement form was much ___ for beginners to follow for the department update.",
+      "options": [
+        "clearer",
+        "very clearer",
+        "more clearer",
+        "clear"
+      ],
+      "answer": "clearer",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The replacement form was much clearer for beginners to follow for the department update.",
+      "rationales": {
+        "clearer": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The replacement form was much clearer for beginners to follow for the department update.",
+        "very clearer": "\"very clearer\" is not the correct comparison form.",
+        "more clearer": "\"more clearer\" is not the correct comparison form.",
+        "clear": "\"clear\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-768",
+      "level": "B1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The room near the workshop became much ___ after lunch before the application review.",
+      "options": [
+        "brighter",
+        "very brighter",
+        "more brighter",
+        "bright"
+      ],
+      "answer": "brighter",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The room near the workshop became much brighter after lunch before the application review.",
+      "rationales": {
+        "brighter": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The room near the workshop became much brighter after lunch before the application review.",
+        "very brighter": "\"very brighter\" is not the correct comparison form.",
+        "more brighter": "\"more brighter\" is not the correct comparison form.",
+        "bright": "\"bright\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-769",
+      "level": "B1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The second paragraph was much ___ after Rina cut two examples.",
+      "options": [
+        "longer",
+        "very longer",
+        "more longer",
+        "long"
+      ],
+      "answer": "longer",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second paragraph was much longer after Rina cut two examples.",
+      "rationales": {
+        "longer": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second paragraph was much longer after Rina cut two examples.",
+        "very longer": "\"very longer\" is not the correct comparison form.",
+        "more longer": "\"more longer\" is not the correct comparison form.",
+        "long": "\"long\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-770",
+      "level": "B1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The reminder sounded much ___ than the first announcement after the survey closed.",
+      "options": [
+        "shorter",
+        "very shorter",
+        "more shorter",
+        "short"
+      ],
+      "answer": "shorter",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The reminder sounded much shorter than the first announcement after the survey closed.",
+      "rationales": {
+        "shorter": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The reminder sounded much shorter than the first announcement after the survey closed.",
+        "very shorter": "\"very shorter\" is not the correct comparison form.",
+        "more shorter": "\"more shorter\" is not the correct comparison form.",
+        "short": "\"short\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-771",
+      "level": "B1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The online checklist was much ___ after the update during the planning discussion.",
+      "options": [
+        "safer",
+        "very safer",
+        "more safer",
+        "safe"
+      ],
+      "answer": "safer",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The online checklist was much safer after the update during the planning discussion.",
+      "rationales": {
+        "safer": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The online checklist was much safer after the update during the planning discussion.",
+        "very safer": "\"very safer\" is not the correct comparison form.",
+        "more safer": "\"more safer\" is not the correct comparison form.",
+        "safe": "\"safe\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-772",
+      "level": "B1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The practice conversation was much ___ when the instructions changed in the supervisor's email.",
+      "options": [
+        "easier",
+        "very easier",
+        "more easier",
+        "easy"
+      ],
+      "answer": "easier",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The practice conversation was much easier when the instructions changed in the supervisor's email.",
+      "rationales": {
+        "easier": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The practice conversation was much easier when the instructions changed in the supervisor's email.",
+        "very easier": "\"very easier\" is not the correct comparison form.",
+        "more easier": "\"more easier\" is not the correct comparison form.",
+        "easy": "\"easy\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-773",
+      "level": "B1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The revised timetable felt much ___ to new students before the team review.",
+      "options": [
+        "quieter",
+        "very quieter",
+        "more quieter",
+        "quiet"
+      ],
+      "answer": "quieter",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised timetable felt much quieter to new students before the team review.",
+      "rationales": {
+        "quieter": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised timetable felt much quieter to new students before the team review.",
+        "very quieter": "\"very quieter\" is not the correct comparison form.",
+        "more quieter": "\"more quieter\" is not the correct comparison form.",
+        "quiet": "\"quiet\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-774",
+      "level": "B1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The front desk was much ___ before the evening rush in the student handbook.",
+      "options": [
+        "busier",
+        "very busier",
+        "more busier",
+        "busy"
+      ],
+      "answer": "busier",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The front desk was much busier before the evening rush in the student handbook.",
+      "rationales": {
+        "busier": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The front desk was much busier before the evening rush in the student handbook.",
+        "very busier": "\"very busier\" is not the correct comparison form.",
+        "more busier": "\"more busier\" is not the correct comparison form.",
+        "busy": "\"busy\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-775",
+      "level": "B1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The replacement badge looked much ___ than the temporary one after the policy reminder.",
+      "options": [
+        "newer",
+        "very newer",
+        "more newer",
+        "new"
+      ],
+      "answer": "newer",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The replacement badge looked much newer than the temporary one after the policy reminder.",
+      "rationales": {
+        "newer": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The replacement badge looked much newer than the temporary one after the policy reminder.",
+        "very newer": "\"very newer\" is not the correct comparison form.",
+        "more newer": "\"more newer\" is not the correct comparison form.",
+        "new": "\"new\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-776",
+      "level": "B1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The older guide was much ___ than the one on the website during the support call.",
+      "options": [
+        "older",
+        "very older",
+        "more older",
+        "old"
+      ],
+      "answer": "older",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The older guide was much older than the one on the website during the support call.",
+      "rationales": {
+        "older": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The older guide was much older than the one on the website during the support call.",
+        "very older": "\"very older\" is not the correct comparison form.",
+        "more older": "\"more older\" is not the correct comparison form.",
+        "old": "\"old\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-777",
+      "level": "B1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The volunteer's voice sounded much ___ after the microphone was fixed for the training session.",
+      "options": [
+        "stronger",
+        "very stronger",
+        "more stronger",
+        "strong"
+      ],
+      "answer": "stronger",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The volunteer's voice sounded much stronger after the microphone was fixed for the training session.",
+      "rationales": {
+        "stronger": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The volunteer's voice sounded much stronger after the microphone was fixed for the training session.",
+        "very stronger": "\"very stronger\" is not the correct comparison form.",
+        "more stronger": "\"more stronger\" is not the correct comparison form.",
+        "strong": "\"strong\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-778",
+      "level": "B1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The weak claim became much ___ after the example was added before the documents are filed.",
+      "options": [
+        "weaker",
+        "very weaker",
+        "more weaker",
+        "weak"
+      ],
+      "answer": "weaker",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The weak claim became much weaker after the example was added before the documents are filed.",
+      "rationales": {
+        "weaker": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The weak claim became much weaker after the example was added before the documents are filed.",
+        "very weaker": "\"very weaker\" is not the correct comparison form.",
+        "more weaker": "\"more weaker\" is not the correct comparison form.",
+        "weak": "\"weak\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-779",
+      "level": "B1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The clinic entrance was much ___ than the sign suggested in the project checklist.",
+      "options": [
+        "closer",
+        "very closer",
+        "more closer",
+        "close"
+      ],
+      "answer": "closer",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The clinic entrance was much closer than the sign suggested in the project checklist.",
+      "rationales": {
+        "closer": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The clinic entrance was much closer than the sign suggested in the project checklist.",
+        "very closer": "\"very closer\" is not the correct comparison form.",
+        "more closer": "\"more closer\" is not the correct comparison form.",
+        "close": "\"close\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b1-780",
+      "level": "B1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The final stop was much ___ from the school than I expected after the tutor's explanation.",
+      "options": [
+        "farther",
+        "very farther",
+        "more farther",
+        "far"
+      ],
+      "answer": "farther",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The final stop was much farther from the school than I expected after the tutor's explanation.",
+      "rationales": {
+        "farther": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The final stop was much farther from the school than I expected after the tutor's explanation.",
+        "very farther": "\"very farther\" is not the correct comparison form.",
+        "more farther": "\"more farther\" is not the correct comparison form.",
+        "far": "\"far\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-781",
+      "level": "B2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "This is ___ useful report in the folder for the audit file.",
+      "options": [
+        "the most",
+        "most than",
+        "more than",
+        "the more"
+      ],
+      "answer": "the most",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This is the most useful report in the folder for the audit file.",
+      "rationales": {
+        "the most": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This is the most useful report in the folder for the audit file.",
+        "most than": "\"most than\" is not the correct comparison form.",
+        "more than": "\"more than\" is not the correct comparison form.",
+        "the more": "\"the more\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-782",
+      "level": "B2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The revised chart is ___ clear than the first version during the policy review.",
+      "options": [
+        "far more",
+        "far most",
+        "more far",
+        "most far"
+      ],
+      "answer": "far more",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised chart is far more clear than the first version during the policy review.",
+      "rationales": {
+        "far more": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised chart is far more clear than the first version during the policy review.",
+        "far most": "\"far most\" is not the correct comparison form.",
+        "more far": "\"more far\" is not the correct comparison form.",
+        "most far": "\"most far\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-783",
+      "level": "B2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "Of the three schedules, the afternoon option is ___ before the budget meeting.",
+      "options": [
+        "the least expensive",
+        "least than expensive",
+        "less expensive",
+        "the less expensive"
+      ],
+      "answer": "the least expensive",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: Of the three schedules, the afternoon option is the least expensive before the budget meeting.",
+      "rationales": {
+        "the least expensive": "The sentence compares two things, so the comparative form is needed. The completed sentence is: Of the three schedules, the afternoon option is the least expensive before the budget meeting.",
+        "least than expensive": "\"least than expensive\" is not the correct comparison form.",
+        "less expensive": "\"less expensive\" is not the correct comparison form.",
+        "the less expensive": "\"the less expensive\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-784",
+      "level": "B2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The new instructions are ___ easier to follow than the old ones in the manager's briefing.",
+      "options": [
+        "slightly",
+        "slight",
+        "slightest",
+        "more slightly"
+      ],
+      "answer": "slightly",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new instructions are slightly easier to follow than the old ones in the manager's briefing.",
+      "rationales": {
+        "slightly": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new instructions are slightly easier to follow than the old ones in the manager's briefing.",
+        "slight": "\"slight\" is not the correct comparison form.",
+        "slightest": "\"slightest\" is not the correct comparison form.",
+        "more slightly": "\"more slightly\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-785",
+      "level": "B2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "No other form in the packet is ___ this one after the complaint review.",
+      "options": [
+        "as confusing as",
+        "as confusing than",
+        "so confusing than",
+        "more confusing as"
+      ],
+      "answer": "as confusing as",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: No other form in the packet is as confusing as this one after the complaint review.",
+      "rationales": {
+        "as confusing as": "The sentence compares two things, so the comparative form is needed. The completed sentence is: No other form in the packet is as confusing as this one after the complaint review.",
+        "as confusing than": "\"as confusing than\" is not the correct comparison form.",
+        "so confusing than": "\"so confusing than\" is not the correct comparison form.",
+        "more confusing as": "\"more confusing as\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-786",
+      "level": "B2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "This is ___ useful chart in the folder during the data check.",
+      "options": [
+        "the most",
+        "most than",
+        "more than",
+        "the more"
+      ],
+      "answer": "the most",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This is the most useful chart in the folder during the data check.",
+      "rationales": {
+        "the most": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This is the most useful chart in the folder during the data check.",
+        "most than": "\"most than\" is not the correct comparison form.",
+        "more than": "\"more than\" is not the correct comparison form.",
+        "the more": "\"the more\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-787",
+      "level": "B2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The revised chart is ___ clear than the first version for the training portal.",
+      "options": [
+        "far more",
+        "far most",
+        "more far",
+        "most far"
+      ],
+      "answer": "far more",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised chart is far more clear than the first version for the training portal.",
+      "rationales": {
+        "far more": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised chart is far more clear than the first version for the training portal.",
+        "far most": "\"far most\" is not the correct comparison form.",
+        "more far": "\"more far\" is not the correct comparison form.",
+        "most far": "\"most far\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-788",
+      "level": "B2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "Of the three schedules, the afternoon option is ___ before the contract is signed.",
+      "options": [
+        "the least expensive",
+        "least than expensive",
+        "less expensive",
+        "the less expensive"
+      ],
+      "answer": "the least expensive",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: Of the three schedules, the afternoon option is the least expensive before the contract is signed.",
+      "rationales": {
+        "the least expensive": "The sentence compares two things, so the comparative form is needed. The completed sentence is: Of the three schedules, the afternoon option is the least expensive before the contract is signed.",
+        "least than expensive": "\"least than expensive\" is not the correct comparison form.",
+        "less expensive": "\"less expensive\" is not the correct comparison form.",
+        "the less expensive": "\"the less expensive\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-789",
+      "level": "B2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The new instructions are ___ easier to follow than the old ones in the customer update.",
+      "options": [
+        "slightly",
+        "slight",
+        "slightest",
+        "more slightly"
+      ],
+      "answer": "slightly",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new instructions are slightly easier to follow than the old ones in the customer update.",
+      "rationales": {
+        "slightly": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new instructions are slightly easier to follow than the old ones in the customer update.",
+        "slight": "\"slight\" is not the correct comparison form.",
+        "slightest": "\"slightest\" is not the correct comparison form.",
+        "more slightly": "\"more slightly\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-790",
+      "level": "B2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "No other form in the packet is ___ this one after the planning call.",
+      "options": [
+        "as confusing as",
+        "as confusing than",
+        "so confusing than",
+        "more confusing as"
+      ],
+      "answer": "as confusing as",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: No other form in the packet is as confusing as this one after the planning call.",
+      "rationales": {
+        "as confusing as": "The sentence compares two things, so the comparative form is needed. The completed sentence is: No other form in the packet is as confusing as this one after the planning call.",
+        "as confusing than": "\"as confusing than\" is not the correct comparison form.",
+        "so confusing than": "\"so confusing than\" is not the correct comparison form.",
+        "more confusing as": "\"more confusing as\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-791",
+      "level": "B2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "This is ___ useful lesson plan in the folder during the hiring process.",
+      "options": [
+        "the most",
+        "most than",
+        "more than",
+        "the more"
+      ],
+      "answer": "the most",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This is the most useful lesson plan in the folder during the hiring process.",
+      "rationales": {
+        "the most": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This is the most useful lesson plan in the folder during the hiring process.",
+        "most than": "\"most than\" is not the correct comparison form.",
+        "more than": "\"more than\" is not the correct comparison form.",
+        "the more": "\"the more\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-792",
+      "level": "B2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The revised chart is ___ clear than the first version for the project dashboard.",
+      "options": [
+        "far more",
+        "far most",
+        "more far",
+        "most far"
+      ],
+      "answer": "far more",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised chart is far more clear than the first version for the project dashboard.",
+      "rationales": {
+        "far more": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised chart is far more clear than the first version for the project dashboard.",
+        "far most": "\"far most\" is not the correct comparison form.",
+        "more far": "\"more far\" is not the correct comparison form.",
+        "most far": "\"most far\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-793",
+      "level": "B2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "Of the three schedules, the afternoon option is ___ before the board discussion.",
+      "options": [
+        "the least expensive",
+        "least than expensive",
+        "less expensive",
+        "the less expensive"
+      ],
+      "answer": "the least expensive",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: Of the three schedules, the afternoon option is the least expensive before the board discussion.",
+      "rationales": {
+        "the least expensive": "The sentence compares two things, so the comparative form is needed. The completed sentence is: Of the three schedules, the afternoon option is the least expensive before the board discussion.",
+        "least than expensive": "\"least than expensive\" is not the correct comparison form.",
+        "less expensive": "\"less expensive\" is not the correct comparison form.",
+        "the less expensive": "\"the less expensive\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-794",
+      "level": "B2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The new instructions are ___ easier to follow than the old ones under the revised procedure.",
+      "options": [
+        "slightly",
+        "slight",
+        "slightest",
+        "more slightly"
+      ],
+      "answer": "slightly",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new instructions are slightly easier to follow than the old ones under the revised procedure.",
+      "rationales": {
+        "slightly": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new instructions are slightly easier to follow than the old ones under the revised procedure.",
+        "slight": "\"slight\" is not the correct comparison form.",
+        "slightest": "\"slightest\" is not the correct comparison form.",
+        "more slightly": "\"more slightly\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-795",
+      "level": "B2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "No other form in the packet is ___ this one after the service report.",
+      "options": [
+        "as confusing as",
+        "as confusing than",
+        "so confusing than",
+        "more confusing as"
+      ],
+      "answer": "as confusing as",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: No other form in the packet is as confusing as this one after the service report.",
+      "rationales": {
+        "as confusing as": "The sentence compares two things, so the comparative form is needed. The completed sentence is: No other form in the packet is as confusing as this one after the service report.",
+        "as confusing than": "\"as confusing than\" is not the correct comparison form.",
+        "so confusing than": "\"so confusing than\" is not the correct comparison form.",
+        "more confusing as": "\"more confusing as\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-796",
+      "level": "B2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "This is ___ useful agenda in the folder during the operations review.",
+      "options": [
+        "the most",
+        "most than",
+        "more than",
+        "the more"
+      ],
+      "answer": "the most",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This is the most useful agenda in the folder during the operations review.",
+      "rationales": {
+        "the most": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This is the most useful agenda in the folder during the operations review.",
+        "most than": "\"most than\" is not the correct comparison form.",
+        "more than": "\"more than\" is not the correct comparison form.",
+        "the more": "\"the more\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-797",
+      "level": "B2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The revised chart is ___ clear than the first version for the quarterly summary.",
+      "options": [
+        "far more",
+        "far most",
+        "more far",
+        "most far"
+      ],
+      "answer": "far more",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised chart is far more clear than the first version for the quarterly summary.",
+      "rationales": {
+        "far more": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised chart is far more clear than the first version for the quarterly summary.",
+        "far most": "\"far most\" is not the correct comparison form.",
+        "more far": "\"more far\" is not the correct comparison form.",
+        "most far": "\"most far\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-798",
+      "level": "B2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "Of the three schedules, the afternoon option is ___ before the compliance check.",
+      "options": [
+        "the least expensive",
+        "least than expensive",
+        "less expensive",
+        "the less expensive"
+      ],
+      "answer": "the least expensive",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: Of the three schedules, the afternoon option is the least expensive before the compliance check.",
+      "rationales": {
+        "the least expensive": "The sentence compares two things, so the comparative form is needed. The completed sentence is: Of the three schedules, the afternoon option is the least expensive before the compliance check.",
+        "least than expensive": "\"least than expensive\" is not the correct comparison form.",
+        "less expensive": "\"less expensive\" is not the correct comparison form.",
+        "the less expensive": "\"the less expensive\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-799",
+      "level": "B2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The new instructions are ___ easier to follow than the old ones in the evaluation memo.",
+      "options": [
+        "slightly",
+        "slight",
+        "slightest",
+        "more slightly"
+      ],
+      "answer": "slightly",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new instructions are slightly easier to follow than the old ones in the evaluation memo.",
+      "rationales": {
+        "slightly": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new instructions are slightly easier to follow than the old ones in the evaluation memo.",
+        "slight": "\"slight\" is not the correct comparison form.",
+        "slightest": "\"slightest\" is not the correct comparison form.",
+        "more slightly": "\"more slightly\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-b2-800",
+      "level": "B2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "No other form in the packet is ___ this one after the final interview.",
+      "options": [
+        "as confusing as",
+        "as confusing than",
+        "so confusing than",
+        "more confusing as"
+      ],
+      "answer": "as confusing as",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: No other form in the packet is as confusing as this one after the final interview.",
+      "rationales": {
+        "as confusing as": "The sentence compares two things, so the comparative form is needed. The completed sentence is: No other form in the packet is as confusing as this one after the final interview.",
+        "as confusing than": "\"as confusing than\" is not the correct comparison form.",
+        "so confusing than": "\"so confusing than\" is not the correct comparison form.",
+        "more confusing as": "\"more confusing as\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-801",
+      "level": "C1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The revised report is no ___ small than the original one for the committee review.",
+      "options": [
+        "less",
+        "least",
+        "lesser",
+        "little"
+      ],
+      "answer": "less",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised report is no less small than the original one for the committee review.",
+      "rationales": {
+        "less": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised report is no less small than the original one for the committee review.",
+        "least": "\"least\" is not the correct comparison form.",
+        "lesser": "\"lesser\" is not the correct comparison form.",
+        "little": "\"little\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-802",
+      "level": "C1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The second proposal is ___ preferable to the first because it protects privacy in the methodology section.",
+      "options": [
+        "clearly",
+        "clear",
+        "clearest",
+        "clarity"
+      ],
+      "answer": "clearly",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second proposal is clearly preferable to the first because it protects privacy in the methodology section.",
+      "rationales": {
+        "clearly": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second proposal is clearly preferable to the first because it protects privacy in the methodology section.",
+        "clear": "\"clear\" is not the correct comparison form.",
+        "clearest": "\"clearest\" is not the correct comparison form.",
+        "clarity": "\"clarity\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-803",
+      "level": "C1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The new policy is not ___ as flexible as the draft version during the stakeholder meeting.",
+      "options": [
+        "nearly",
+        "near",
+        "nearest",
+        "nearness"
+      ],
+      "answer": "nearly",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new policy is not nearly as flexible as the draft version during the stakeholder meeting.",
+      "rationales": {
+        "nearly": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new policy is not nearly as flexible as the draft version during the stakeholder meeting.",
+        "near": "\"near\" is not the correct comparison form.",
+        "nearest": "\"nearest\" is not the correct comparison form.",
+        "nearness": "\"nearness\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-804",
+      "level": "C1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "This explanation is the ___ of the two available summaries before the recommendation is issued.",
+      "options": [
+        "more convincing",
+        "most convincing",
+        "convincing than",
+        "more convinced"
+      ],
+      "answer": "more convincing",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This explanation is the more convincing of the two available summaries before the recommendation is issued.",
+      "rationales": {
+        "more convincing": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This explanation is the more convincing of the two available summaries before the recommendation is issued.",
+        "most convincing": "\"most convincing\" is not the correct comparison form.",
+        "convincing than": "\"convincing than\" is not the correct comparison form.",
+        "more convinced": "\"more convinced\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-805",
+      "level": "C1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The final model is marginally ___ robust than the earlier model after the evidence is compared.",
+      "options": [
+        "more",
+        "most",
+        "much",
+        "many"
+      ],
+      "answer": "more",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The final model is marginally more robust than the earlier model after the evidence is compared.",
+      "rationales": {
+        "more": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The final model is marginally more robust than the earlier model after the evidence is compared.",
+        "most": "\"most\" is not the correct comparison form.",
+        "much": "\"much\" is not the correct comparison form.",
+        "many": "\"many\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-806",
+      "level": "C1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The revised chart is no ___ warm than the original one during the compliance review.",
+      "options": [
+        "less",
+        "least",
+        "lesser",
+        "little"
+      ],
+      "answer": "less",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised chart is no less warm than the original one during the compliance review.",
+      "rationales": {
+        "less": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised chart is no less warm than the original one during the compliance review.",
+        "least": "\"least\" is not the correct comparison form.",
+        "lesser": "\"lesser\" is not the correct comparison form.",
+        "little": "\"little\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-807",
+      "level": "C1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The second proposal is ___ preferable to the first because it protects privacy on the evaluation form.",
+      "options": [
+        "clearly",
+        "clear",
+        "clearest",
+        "clarity"
+      ],
+      "answer": "clearly",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second proposal is clearly preferable to the first because it protects privacy on the evaluation form.",
+      "rationales": {
+        "clearly": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second proposal is clearly preferable to the first because it protects privacy on the evaluation form.",
+        "clear": "\"clear\" is not the correct comparison form.",
+        "clearest": "\"clearest\" is not the correct comparison form.",
+        "clarity": "\"clarity\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-808",
+      "level": "C1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The new policy is not ___ as flexible as the draft version after the pilot program.",
+      "options": [
+        "nearly",
+        "near",
+        "nearest",
+        "nearness"
+      ],
+      "answer": "nearly",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new policy is not nearly as flexible as the draft version after the pilot program.",
+      "rationales": {
+        "nearly": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new policy is not nearly as flexible as the draft version after the pilot program.",
+        "near": "\"near\" is not the correct comparison form.",
+        "nearest": "\"nearest\" is not the correct comparison form.",
+        "nearness": "\"nearness\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-809",
+      "level": "C1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "This explanation is the ___ of the two available summaries before the findings are published.",
+      "options": [
+        "more convincing",
+        "most convincing",
+        "convincing than",
+        "more convinced"
+      ],
+      "answer": "more convincing",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This explanation is the more convincing of the two available summaries before the findings are published.",
+      "rationales": {
+        "more convincing": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This explanation is the more convincing of the two available summaries before the findings are published.",
+        "most convincing": "\"most convincing\" is not the correct comparison form.",
+        "convincing than": "\"convincing than\" is not the correct comparison form.",
+        "more convinced": "\"more convinced\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-810",
+      "level": "C1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The final model is marginally ___ robust than the earlier model in the grant application.",
+      "options": [
+        "more",
+        "most",
+        "much",
+        "many"
+      ],
+      "answer": "more",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The final model is marginally more robust than the earlier model in the grant application.",
+      "rationales": {
+        "more": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The final model is marginally more robust than the earlier model in the grant application.",
+        "most": "\"most\" is not the correct comparison form.",
+        "much": "\"much\" is not the correct comparison form.",
+        "many": "\"many\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-811",
+      "level": "C1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The revised lesson plan is no ___ safe than the original one during the seminar discussion.",
+      "options": [
+        "less",
+        "least",
+        "lesser",
+        "little"
+      ],
+      "answer": "less",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised lesson plan is no less safe than the original one during the seminar discussion.",
+      "rationales": {
+        "less": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised lesson plan is no less safe than the original one during the seminar discussion.",
+        "least": "\"least\" is not the correct comparison form.",
+        "lesser": "\"lesser\" is not the correct comparison form.",
+        "little": "\"little\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-812",
+      "level": "C1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The second proposal is ___ preferable to the first because it protects privacy on the risk assessment.",
+      "options": [
+        "clearly",
+        "clear",
+        "clearest",
+        "clarity"
+      ],
+      "answer": "clearly",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second proposal is clearly preferable to the first because it protects privacy on the risk assessment.",
+      "rationales": {
+        "clearly": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second proposal is clearly preferable to the first because it protects privacy on the risk assessment.",
+        "clear": "\"clear\" is not the correct comparison form.",
+        "clearest": "\"clearest\" is not the correct comparison form.",
+        "clarity": "\"clarity\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-813",
+      "level": "C1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The new policy is not ___ as flexible as the draft version after the interviews are coded.",
+      "options": [
+        "nearly",
+        "near",
+        "nearest",
+        "nearness"
+      ],
+      "answer": "nearly",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new policy is not nearly as flexible as the draft version after the interviews are coded.",
+      "rationales": {
+        "nearly": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new policy is not nearly as flexible as the draft version after the interviews are coded.",
+        "near": "\"near\" is not the correct comparison form.",
+        "nearest": "\"nearest\" is not the correct comparison form.",
+        "nearness": "\"nearness\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-814",
+      "level": "C1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "This explanation is the ___ of the two available summaries before the final vote.",
+      "options": [
+        "more convincing",
+        "most convincing",
+        "convincing than",
+        "more convinced"
+      ],
+      "answer": "more convincing",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This explanation is the more convincing of the two available summaries before the final vote.",
+      "rationales": {
+        "more convincing": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This explanation is the more convincing of the two available summaries before the final vote.",
+        "most convincing": "\"most convincing\" is not the correct comparison form.",
+        "convincing than": "\"convincing than\" is not the correct comparison form.",
+        "more convinced": "\"more convinced\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-815",
+      "level": "C1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The final model is marginally ___ robust than the earlier model in the appendix note.",
+      "options": [
+        "more",
+        "most",
+        "much",
+        "many"
+      ],
+      "answer": "more",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The final model is marginally more robust than the earlier model in the appendix note.",
+      "rationales": {
+        "more": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The final model is marginally more robust than the earlier model in the appendix note.",
+        "most": "\"most\" is not the correct comparison form.",
+        "much": "\"much\" is not the correct comparison form.",
+        "many": "\"many\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-816",
+      "level": "C1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The revised agenda is no ___ old than the original one for the advisory brief.",
+      "options": [
+        "less",
+        "least",
+        "lesser",
+        "little"
+      ],
+      "answer": "less",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised agenda is no less old than the original one for the advisory brief.",
+      "rationales": {
+        "less": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The revised agenda is no less old than the original one for the advisory brief.",
+        "least": "\"least\" is not the correct comparison form.",
+        "lesser": "\"lesser\" is not the correct comparison form.",
+        "little": "\"little\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-817",
+      "level": "C1",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The second proposal is ___ preferable to the first because it protects privacy during the protocol review.",
+      "options": [
+        "clearly",
+        "clear",
+        "clearest",
+        "clarity"
+      ],
+      "answer": "clearly",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second proposal is clearly preferable to the first because it protects privacy during the protocol review.",
+      "rationales": {
+        "clearly": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second proposal is clearly preferable to the first because it protects privacy during the protocol review.",
+        "clear": "\"clear\" is not the correct comparison form.",
+        "clearest": "\"clearest\" is not the correct comparison form.",
+        "clarity": "\"clarity\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-818",
+      "level": "C1",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The new policy is not ___ as flexible as the draft version on the evidence table.",
+      "options": [
+        "nearly",
+        "near",
+        "nearest",
+        "nearness"
+      ],
+      "answer": "nearly",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new policy is not nearly as flexible as the draft version on the evidence table.",
+      "rationales": {
+        "nearly": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The new policy is not nearly as flexible as the draft version on the evidence table.",
+        "near": "\"near\" is not the correct comparison form.",
+        "nearest": "\"nearest\" is not the correct comparison form.",
+        "nearness": "\"nearness\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-819",
+      "level": "C1",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "This explanation is the ___ of the two available summaries before the policy draft.",
+      "options": [
+        "more convincing",
+        "most convincing",
+        "convincing than",
+        "more convinced"
+      ],
+      "answer": "more convincing",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This explanation is the more convincing of the two available summaries before the policy draft.",
+      "rationales": {
+        "more convincing": "The sentence compares two things, so the comparative form is needed. The completed sentence is: This explanation is the more convincing of the two available summaries before the policy draft.",
+        "most convincing": "\"most convincing\" is not the correct comparison form.",
+        "convincing than": "\"convincing than\" is not the correct comparison form.",
+        "more convinced": "\"more convinced\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c1-820",
+      "level": "C1",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The final model is marginally ___ robust than the earlier model in the assessment rubric.",
+      "options": [
+        "more",
+        "most",
+        "much",
+        "many"
+      ],
+      "answer": "more",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The final model is marginally more robust than the earlier model in the assessment rubric.",
+      "rationales": {
+        "more": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The final model is marginally more robust than the earlier model in the assessment rubric.",
+        "most": "\"most\" is not the correct comparison form.",
+        "much": "\"much\" is not the correct comparison form.",
+        "many": "\"many\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-821",
+      "level": "C2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The second explanation about the attendance report is all the more ___ because it includes real examples.",
+      "options": [
+        "persuasive",
+        "persuading",
+        "persuaded",
+        "persuasion"
+      ],
+      "answer": "persuasive",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second explanation about the attendance report is all the more persuasive because it includes real examples.",
+      "rationales": {
+        "persuasive": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second explanation about the attendance report is all the more persuasive because it includes real examples.",
+        "persuading": "\"persuading\" is not the correct comparison form.",
+        "persuaded": "\"persuaded\" is not the correct comparison form.",
+        "persuasion": "\"persuasion\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-822",
+      "level": "C2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The objection becomes all the less ___ once the missing data are included during the evidentiary hearing.",
+      "options": [
+        "compelling",
+        "compel",
+        "compelled",
+        "compellingly"
+      ],
+      "answer": "compelling",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The objection becomes all the less compelling once the missing data are included during the evidentiary hearing.",
+      "rationales": {
+        "compelling": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The objection becomes all the less compelling once the missing data are included during the evidentiary hearing.",
+        "compel": "\"compel\" is not the correct comparison form.",
+        "compelled": "\"compelled\" is not the correct comparison form.",
+        "compellingly": "\"compellingly\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-823",
+      "level": "C2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The precedent is no more ___ here than it was in the earlier appeal before the arbitration panel meets.",
+      "options": [
+        "decisive",
+        "decisively",
+        "decision",
+        "decide"
+      ],
+      "answer": "decisive",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The precedent is no more decisive here than it was in the earlier appeal before the arbitration panel meets.",
+      "rationales": {
+        "decisive": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The precedent is no more decisive here than it was in the earlier appeal before the arbitration panel meets.",
+        "decisively": "\"decisively\" is not the correct comparison form.",
+        "decision": "\"decision\" is not the correct comparison form.",
+        "decide": "\"decide\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-824",
+      "level": "C2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The narrower interpretation is by far the ___ defensible option in the fiduciary briefing.",
+      "options": [
+        "most",
+        "more",
+        "much",
+        "many"
+      ],
+      "answer": "most",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The narrower interpretation is by far the most defensible option in the fiduciary briefing.",
+      "rationales": {
+        "most": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The narrower interpretation is by far the most defensible option in the fiduciary briefing.",
+        "more": "\"more\" is not the correct comparison form.",
+        "much": "\"much\" is not the correct comparison form.",
+        "many": "\"many\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-825",
+      "level": "C2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The minority report is none the ___ for acknowledging the strongest objection after the methodological critique.",
+      "options": [
+        "weaker",
+        "weak",
+        "weakest",
+        "weakly"
+      ],
+      "answer": "weaker",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The minority report is none the weaker for acknowledging the strongest objection after the methodological critique.",
+      "rationales": {
+        "weaker": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The minority report is none the weaker for acknowledging the strongest objection after the methodological critique.",
+        "weak": "\"weak\" is not the correct comparison form.",
+        "weakest": "\"weakest\" is not the correct comparison form.",
+        "weakly": "\"weakly\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-826",
+      "level": "C2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The second explanation about the chart is all the more ___ because it includes real examples before the precedent is cited.",
+      "options": [
+        "persuasive",
+        "persuading",
+        "persuaded",
+        "persuasion"
+      ],
+      "answer": "persuasive",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second explanation about the chart is all the more persuasive because it includes real examples before the precedent is cited.",
+      "rationales": {
+        "persuasive": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second explanation about the chart is all the more persuasive because it includes real examples before the precedent is cited.",
+        "persuading": "\"persuading\" is not the correct comparison form.",
+        "persuaded": "\"persuaded\" is not the correct comparison form.",
+        "persuasion": "\"persuasion\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-827",
+      "level": "C2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The objection becomes all the less ___ once the missing data are included in the interpretive framework.",
+      "options": [
+        "compelling",
+        "compel",
+        "compelled",
+        "compellingly"
+      ],
+      "answer": "compelling",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The objection becomes all the less compelling once the missing data are included in the interpretive framework.",
+      "rationales": {
+        "compelling": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The objection becomes all the less compelling once the missing data are included in the interpretive framework.",
+        "compel": "\"compel\" is not the correct comparison form.",
+        "compelled": "\"compelled\" is not the correct comparison form.",
+        "compellingly": "\"compellingly\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-828",
+      "level": "C2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The precedent is no more ___ here than it was in the earlier appeal during the appellate review.",
+      "options": [
+        "decisive",
+        "decisively",
+        "decision",
+        "decide"
+      ],
+      "answer": "decisive",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The precedent is no more decisive here than it was in the earlier appeal during the appellate review.",
+      "rationales": {
+        "decisive": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The precedent is no more decisive here than it was in the earlier appeal during the appellate review.",
+        "decisively": "\"decisively\" is not the correct comparison form.",
+        "decision": "\"decision\" is not the correct comparison form.",
+        "decide": "\"decide\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-829",
+      "level": "C2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The narrower interpretation is by far the ___ defensible option in the technical memorandum.",
+      "options": [
+        "most",
+        "more",
+        "much",
+        "many"
+      ],
+      "answer": "most",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The narrower interpretation is by far the most defensible option in the technical memorandum.",
+      "rationales": {
+        "most": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The narrower interpretation is by far the most defensible option in the technical memorandum.",
+        "more": "\"more\" is not the correct comparison form.",
+        "much": "\"much\" is not the correct comparison form.",
+        "many": "\"many\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-830",
+      "level": "C2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The minority report is none the ___ for acknowledging the strongest objection after the objections are synthesized.",
+      "options": [
+        "weaker",
+        "weak",
+        "weakest",
+        "weakly"
+      ],
+      "answer": "weaker",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The minority report is none the weaker for acknowledging the strongest objection after the objections are synthesized.",
+      "rationales": {
+        "weaker": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The minority report is none the weaker for acknowledging the strongest objection after the objections are synthesized.",
+        "weak": "\"weak\" is not the correct comparison form.",
+        "weakest": "\"weakest\" is not the correct comparison form.",
+        "weakly": "\"weakly\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-831",
+      "level": "C2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The second explanation about the lesson plan is all the more ___ because it includes real examples before the caveat is removed.",
+      "options": [
+        "persuasive",
+        "persuading",
+        "persuaded",
+        "persuasion"
+      ],
+      "answer": "persuasive",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second explanation about the lesson plan is all the more persuasive because it includes real examples before the caveat is removed.",
+      "rationales": {
+        "persuasive": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second explanation about the lesson plan is all the more persuasive because it includes real examples before the caveat is removed.",
+        "persuading": "\"persuading\" is not the correct comparison form.",
+        "persuaded": "\"persuaded\" is not the correct comparison form.",
+        "persuasion": "\"persuasion\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-832",
+      "level": "C2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The objection becomes all the less ___ once the missing data are included in the published corrigendum.",
+      "options": [
+        "compelling",
+        "compel",
+        "compelled",
+        "compellingly"
+      ],
+      "answer": "compelling",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The objection becomes all the less compelling once the missing data are included in the published corrigendum.",
+      "rationales": {
+        "compelling": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The objection becomes all the less compelling once the missing data are included in the published corrigendum.",
+        "compel": "\"compel\" is not the correct comparison form.",
+        "compelled": "\"compelled\" is not the correct comparison form.",
+        "compellingly": "\"compellingly\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-833",
+      "level": "C2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The precedent is no more ___ here than it was in the earlier appeal during the ethics review.",
+      "options": [
+        "decisive",
+        "decisively",
+        "decision",
+        "decide"
+      ],
+      "answer": "decisive",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The precedent is no more decisive here than it was in the earlier appeal during the ethics review.",
+      "rationales": {
+        "decisive": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The precedent is no more decisive here than it was in the earlier appeal during the ethics review.",
+        "decisively": "\"decisively\" is not the correct comparison form.",
+        "decision": "\"decision\" is not the correct comparison form.",
+        "decide": "\"decide\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-834",
+      "level": "C2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The narrower interpretation is by far the ___ defensible option on the counterargument table.",
+      "options": [
+        "most",
+        "more",
+        "much",
+        "many"
+      ],
+      "answer": "most",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The narrower interpretation is by far the most defensible option on the counterargument table.",
+      "rationales": {
+        "most": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The narrower interpretation is by far the most defensible option on the counterargument table.",
+        "more": "\"more\" is not the correct comparison form.",
+        "much": "\"much\" is not the correct comparison form.",
+        "many": "\"many\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-835",
+      "level": "C2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The minority report is none the ___ for acknowledging the strongest objection before the final adjudication.",
+      "options": [
+        "weaker",
+        "weak",
+        "weakest",
+        "weakly"
+      ],
+      "answer": "weaker",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The minority report is none the weaker for acknowledging the strongest objection before the final adjudication.",
+      "rationales": {
+        "weaker": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The minority report is none the weaker for acknowledging the strongest objection before the final adjudication.",
+        "weak": "\"weak\" is not the correct comparison form.",
+        "weakest": "\"weakest\" is not the correct comparison form.",
+        "weakly": "\"weakly\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-836",
+      "level": "C2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The second explanation about the agenda is all the more ___ because it includes real examples in the statutory analysis.",
+      "options": [
+        "persuasive",
+        "persuading",
+        "persuaded",
+        "persuasion"
+      ],
+      "answer": "persuasive",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second explanation about the agenda is all the more persuasive because it includes real examples in the statutory analysis.",
+      "rationales": {
+        "persuasive": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The second explanation about the agenda is all the more persuasive because it includes real examples in the statutory analysis.",
+        "persuading": "\"persuading\" is not the correct comparison form.",
+        "persuaded": "\"persuaded\" is not the correct comparison form.",
+        "persuasion": "\"persuasion\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-837",
+      "level": "C2",
+      "setupText": "The sentence compares two things.",
+      "taskText": "The objection becomes all the less ___ once the missing data are included during expert testimony.",
+      "options": [
+        "compelling",
+        "compel",
+        "compelled",
+        "compellingly"
+      ],
+      "answer": "compelling",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The objection becomes all the less compelling once the missing data are included during expert testimony.",
+      "rationales": {
+        "compelling": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The objection becomes all the less compelling once the missing data are included during expert testimony.",
+        "compel": "\"compel\" is not the correct comparison form.",
+        "compelled": "\"compelled\" is not the correct comparison form.",
+        "compellingly": "\"compellingly\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-838",
+      "level": "C2",
+      "setupText": "Choose the form used to compare two things.",
+      "taskText": "The precedent is no more ___ here than it was in the earlier appeal in the compliance addendum.",
+      "options": [
+        "decisive",
+        "decisively",
+        "decision",
+        "decide"
+      ],
+      "answer": "decisive",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The precedent is no more decisive here than it was in the earlier appeal in the compliance addendum.",
+      "rationales": {
+        "decisive": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The precedent is no more decisive here than it was in the earlier appeal in the compliance addendum.",
+        "decisively": "\"decisively\" is not the correct comparison form.",
+        "decision": "\"decision\" is not the correct comparison form.",
+        "decide": "\"decide\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-839",
+      "level": "C2",
+      "setupText": "The answer should fit the comparison.",
+      "taskText": "The narrower interpretation is by far the ___ defensible option after the longitudinal model is revised.",
+      "options": [
+        "most",
+        "more",
+        "much",
+        "many"
+      ],
+      "answer": "most",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The narrower interpretation is by far the most defensible option after the longitudinal model is revised.",
+      "rationales": {
+        "most": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The narrower interpretation is by far the most defensible option after the longitudinal model is revised.",
+        "more": "\"more\" is not the correct comparison form.",
+        "much": "\"much\" is not the correct comparison form.",
+        "many": "\"many\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-comparatives-c2-840",
+      "level": "C2",
+      "setupText": "Look at both things being compared.",
+      "taskText": "The minority report is none the ___ for acknowledging the strongest objection before the ruling is issued.",
+      "options": [
+        "weaker",
+        "weak",
+        "weakest",
+        "weakly"
+      ],
+      "answer": "weaker",
+      "explanation": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The minority report is none the weaker for acknowledging the strongest objection before the ruling is issued.",
+      "rationales": {
+        "weaker": "The sentence compares two things, so the comparative form is needed. The completed sentence is: The minority report is none the weaker for acknowledging the strongest objection before the ruling is issued.",
+        "weak": "\"weak\" is not the correct comparison form.",
+        "weakest": "\"weakest\" is not the correct comparison form.",
+        "weakly": "\"weakly\" is not the correct comparison form."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}

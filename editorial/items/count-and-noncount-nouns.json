@@ -1,0 +1,2766 @@
+{
+  "topic": "Count and noncount nouns",
+  "category": "Grammar",
+  "items": [
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-961",
+      "level": "A1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "There are ___ reports on the table today.",
+      "options": [
+        "two",
+        "much",
+        "a",
+        "an"
+      ],
+      "answer": "two",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There are two reports on the table today.",
+      "rationales": {
+        "two": "The amount word must fit whether the noun can be counted. The completed sentence is: There are two reports on the table today.",
+        "much": "\"much\" does not fit this noun.",
+        "a": "\"a\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-962",
+      "level": "A1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "I need ___ water after class in class.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: I need some water after class in class.",
+      "rationales": {
+        "some": "The amount word must fit whether the noun can be counted. The completed sentence is: I need some water after class in class.",
+        "many": "\"many\" does not fit this noun.",
+        "a": "\"a\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-963",
+      "level": "A1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "___ students are waiting by the door after lunch.",
+      "options": [
+        "Many",
+        "Much",
+        "A little",
+        "An"
+      ],
+      "answer": "Many",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Many students are waiting by the door after lunch.",
+      "rationales": {
+        "Many": "The amount word must fit whether the noun can be counted. The completed sentence is: Many students are waiting by the door after lunch.",
+        "Much": "\"Much\" does not fit this noun.",
+        "A little": "\"A little\" does not fit this noun.",
+        "An": "\"An\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-964",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The room has ___ chairs for the group at school.",
+      "options": [
+        "enough",
+        "much",
+        "an",
+        "a"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The room has enough chairs for the group at school.",
+      "rationales": {
+        "enough": "The amount word must fit whether the noun can be counted. The completed sentence is: The room has enough chairs for the group at school.",
+        "much": "\"much\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun.",
+        "a": "\"a\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-965",
+      "level": "A1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "There is ___ rice in the bowl this morning.",
+      "options": [
+        "a little",
+        "many",
+        "several",
+        "an"
+      ],
+      "answer": "a little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There is a little rice in the bowl this morning.",
+      "rationales": {
+        "a little": "The amount word must fit whether the noun can be counted. The completed sentence is: There is a little rice in the bowl this morning.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-966",
+      "level": "A1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "There are ___ charts on the table before class.",
+      "options": [
+        "two",
+        "much",
+        "a",
+        "an"
+      ],
+      "answer": "two",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There are two charts on the table before class.",
+      "rationales": {
+        "two": "The amount word must fit whether the noun can be counted. The completed sentence is: There are two charts on the table before class.",
+        "much": "\"much\" does not fit this noun.",
+        "a": "\"a\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-967",
+      "level": "A1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "I need ___ water after class near the door.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: I need some water after class near the door.",
+      "rationales": {
+        "some": "The amount word must fit whether the noun can be counted. The completed sentence is: I need some water after class near the door.",
+        "many": "\"many\" does not fit this noun.",
+        "a": "\"a\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-968",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "___ students are waiting by the door at home.",
+      "options": [
+        "Many",
+        "Much",
+        "A little",
+        "An"
+      ],
+      "answer": "Many",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Many students are waiting by the door at home.",
+      "rationales": {
+        "Many": "The amount word must fit whether the noun can be counted. The completed sentence is: Many students are waiting by the door at home.",
+        "Much": "\"Much\" does not fit this noun.",
+        "A little": "\"A little\" does not fit this noun.",
+        "An": "\"An\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-969",
+      "level": "A1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The room has ___ chairs for the group on Monday.",
+      "options": [
+        "enough",
+        "much",
+        "an",
+        "a"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The room has enough chairs for the group on Monday.",
+      "rationales": {
+        "enough": "The amount word must fit whether the noun can be counted. The completed sentence is: The room has enough chairs for the group on Monday.",
+        "much": "\"much\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun.",
+        "a": "\"a\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-970",
+      "level": "A1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "There is ___ rice in the bowl in the kitchen.",
+      "options": [
+        "a little",
+        "many",
+        "several",
+        "an"
+      ],
+      "answer": "a little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There is a little rice in the bowl in the kitchen.",
+      "rationales": {
+        "a little": "The amount word must fit whether the noun can be counted. The completed sentence is: There is a little rice in the bowl in the kitchen.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-971",
+      "level": "A1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "There are ___ lesson plans on the table after school.",
+      "options": [
+        "two",
+        "much",
+        "a",
+        "an"
+      ],
+      "answer": "two",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There are two lesson plans on the table after school.",
+      "rationales": {
+        "two": "The amount word must fit whether the noun can be counted. The completed sentence is: There are two lesson plans on the table after school.",
+        "much": "\"much\" does not fit this noun.",
+        "a": "\"a\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-972",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "I need ___ water after class by the window.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: I need some water after class by the window.",
+      "rationales": {
+        "some": "The amount word must fit whether the noun can be counted. The completed sentence is: I need some water after class by the window.",
+        "many": "\"many\" does not fit this noun.",
+        "a": "\"a\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-973",
+      "level": "A1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "___ students are waiting by the door before dinner.",
+      "options": [
+        "Many",
+        "Much",
+        "A little",
+        "An"
+      ],
+      "answer": "Many",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Many students are waiting by the door before dinner.",
+      "rationales": {
+        "Many": "The amount word must fit whether the noun can be counted. The completed sentence is: Many students are waiting by the door before dinner.",
+        "Much": "\"Much\" does not fit this noun.",
+        "A little": "\"A little\" does not fit this noun.",
+        "An": "\"An\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-974",
+      "level": "A1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The room has ___ chairs for the group at the park.",
+      "options": [
+        "enough",
+        "much",
+        "an",
+        "a"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The room has enough chairs for the group at the park.",
+      "rationales": {
+        "enough": "The amount word must fit whether the noun can be counted. The completed sentence is: The room has enough chairs for the group at the park.",
+        "much": "\"much\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun.",
+        "a": "\"a\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-975",
+      "level": "A1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "There is ___ rice in the bowl on the bus.",
+      "options": [
+        "a little",
+        "many",
+        "several",
+        "an"
+      ],
+      "answer": "a little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There is a little rice in the bowl on the bus.",
+      "rationales": {
+        "a little": "The amount word must fit whether the noun can be counted. The completed sentence is: There is a little rice in the bowl on the bus.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-976",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "There are ___ agendas on the table in the hallway.",
+      "options": [
+        "two",
+        "much",
+        "a",
+        "an"
+      ],
+      "answer": "two",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There are two agendas on the table in the hallway.",
+      "rationales": {
+        "two": "The amount word must fit whether the noun can be counted. The completed sentence is: There are two agendas on the table in the hallway.",
+        "much": "\"much\" does not fit this noun.",
+        "a": "\"a\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-977",
+      "level": "A1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "I need ___ water after class with the teacher.",
+      "options": [
+        "some",
+        "many",
+        "a",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: I need some water after class with the teacher.",
+      "rationales": {
+        "some": "The amount word must fit whether the noun can be counted. The completed sentence is: I need some water after class with the teacher.",
+        "many": "\"many\" does not fit this noun.",
+        "a": "\"a\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-978",
+      "level": "A1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "___ students are waiting by the door before the bell.",
+      "options": [
+        "Many",
+        "Much",
+        "A little",
+        "An"
+      ],
+      "answer": "Many",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Many students are waiting by the door before the bell.",
+      "rationales": {
+        "Many": "The amount word must fit whether the noun can be counted. The completed sentence is: Many students are waiting by the door before the bell.",
+        "Much": "\"Much\" does not fit this noun.",
+        "A little": "\"A little\" does not fit this noun.",
+        "An": "\"An\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-979",
+      "level": "A1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The room has ___ chairs for the group during the lesson.",
+      "options": [
+        "enough",
+        "much",
+        "an",
+        "a"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The room has enough chairs for the group during the lesson.",
+      "rationales": {
+        "enough": "The amount word must fit whether the noun can be counted. The completed sentence is: The room has enough chairs for the group during the lesson.",
+        "much": "\"much\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun.",
+        "a": "\"a\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a1-980",
+      "level": "A1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "There is ___ rice in the bowl at the front.",
+      "options": [
+        "a little",
+        "many",
+        "several",
+        "an"
+      ],
+      "answer": "a little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There is a little rice in the bowl at the front.",
+      "rationales": {
+        "a little": "The amount word must fit whether the noun can be counted. The completed sentence is: There is a little rice in the bowl at the front.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-981",
+      "level": "A2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "Mina needs ___ information before Friday.",
+      "options": [
+        "some",
+        "many",
+        "several",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Mina needs some information before Friday.",
+      "rationales": {
+        "some": "The amount word must fit whether the noun can be counted. The completed sentence is: Mina needs some information before Friday.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-982",
+      "level": "A2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The school office received ___ complaints after the schedule changed.",
+      "options": [
+        "many",
+        "much",
+        "a little",
+        "an"
+      ],
+      "answer": "many",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The school office received many complaints after the schedule changed.",
+      "rationales": {
+        "many": "The amount word must fit whether the noun can be counted. The completed sentence is: The school office received many complaints after the schedule changed.",
+        "much": "\"much\" does not fit this noun.",
+        "a little": "\"a little\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-983",
+      "level": "A2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The teacher gave us ___ advice before the grammar test.",
+      "options": [
+        "a little",
+        "many",
+        "several",
+        "an"
+      ],
+      "answer": "a little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The teacher gave us a little advice before the grammar test.",
+      "rationales": {
+        "a little": "The amount word must fit whether the noun can be counted. The completed sentence is: The teacher gave us a little advice before the grammar test.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-984",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "There are ___ application forms near the printer on the class website.",
+      "options": [
+        "several",
+        "much",
+        "a little",
+        "an"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There are several application forms near the printer on the class website.",
+      "rationales": {
+        "several": "The amount word must fit whether the noun can be counted. The completed sentence is: There are several application forms near the printer on the class website.",
+        "much": "\"much\" does not fit this noun.",
+        "a little": "\"a little\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-985",
+      "level": "A2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "Only ___ money remains in the grammar class fund.",
+      "options": [
+        "a little",
+        "a few",
+        "many",
+        "several"
+      ],
+      "answer": "a little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a little money remains in the grammar class fund.",
+      "rationales": {
+        "a little": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a little money remains in the grammar class fund.",
+        "a few": "\"a few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-986",
+      "level": "A2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "Lena needs ___ research before Friday.",
+      "options": [
+        "some",
+        "many",
+        "several",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Lena needs some research before Friday.",
+      "rationales": {
+        "some": "The amount word must fit whether the noun can be counted. The completed sentence is: Lena needs some research before Friday.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-987",
+      "level": "A2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The records office received ___ complaints after the schedule changed.",
+      "options": [
+        "many",
+        "much",
+        "a little",
+        "an"
+      ],
+      "answer": "many",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The records office received many complaints after the schedule changed.",
+      "rationales": {
+        "many": "The amount word must fit whether the noun can be counted. The completed sentence is: The records office received many complaints after the schedule changed.",
+        "much": "\"much\" does not fit this noun.",
+        "a little": "\"a little\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-988",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The teacher gave us ___ advice before the online test.",
+      "options": [
+        "a little",
+        "many",
+        "several",
+        "an"
+      ],
+      "answer": "a little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The teacher gave us a little advice before the online test.",
+      "rationales": {
+        "a little": "The amount word must fit whether the noun can be counted. The completed sentence is: The teacher gave us a little advice before the online test.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-989",
+      "level": "A2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "There are ___ application forms near the printer before the interview.",
+      "options": [
+        "several",
+        "much",
+        "a little",
+        "an"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There are several application forms near the printer before the interview.",
+      "rationales": {
+        "several": "The amount word must fit whether the noun can be counted. The completed sentence is: There are several application forms near the printer before the interview.",
+        "much": "\"much\" does not fit this noun.",
+        "a little": "\"a little\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-990",
+      "level": "A2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "Only ___ money remains in the exam-prep class fund.",
+      "options": [
+        "a little",
+        "a few",
+        "many",
+        "several"
+      ],
+      "answer": "a little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a little money remains in the exam-prep class fund.",
+      "rationales": {
+        "a little": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a little money remains in the exam-prep class fund.",
+        "a few": "\"a few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-991",
+      "level": "A2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "Hana needs ___ information before Friday.",
+      "options": [
+        "some",
+        "many",
+        "several",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Hana needs some information before Friday.",
+      "rationales": {
+        "some": "The amount word must fit whether the noun can be counted. The completed sentence is: Hana needs some information before Friday.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-992",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The registrar's office received ___ complaints after the schedule changed.",
+      "options": [
+        "many",
+        "much",
+        "a little",
+        "an"
+      ],
+      "answer": "many",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The registrar's office received many complaints after the schedule changed.",
+      "rationales": {
+        "many": "The amount word must fit whether the noun can be counted. The completed sentence is: The registrar's office received many complaints after the schedule changed.",
+        "much": "\"much\" does not fit this noun.",
+        "a little": "\"a little\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-993",
+      "level": "A2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The teacher gave us ___ advice before the speaking test.",
+      "options": [
+        "a little",
+        "many",
+        "several",
+        "an"
+      ],
+      "answer": "a little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The teacher gave us a little advice before the speaking test.",
+      "rationales": {
+        "a little": "The amount word must fit whether the noun can be counted. The completed sentence is: The teacher gave us a little advice before the speaking test.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-994",
+      "level": "A2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "There are ___ application forms near the printer at the language center.",
+      "options": [
+        "several",
+        "much",
+        "a little",
+        "an"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There are several application forms near the printer at the language center.",
+      "rationales": {
+        "several": "The amount word must fit whether the noun can be counted. The completed sentence is: There are several application forms near the printer at the language center.",
+        "much": "\"much\" does not fit this noun.",
+        "a little": "\"a little\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-995",
+      "level": "A2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "Only ___ money remains in the skills class fund.",
+      "options": [
+        "a little",
+        "a few",
+        "many",
+        "several"
+      ],
+      "answer": "a little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a little money remains in the skills class fund.",
+      "rationales": {
+        "a little": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a little money remains in the skills class fund.",
+        "a few": "\"a few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-996",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Luis needs ___ research before Friday.",
+      "options": [
+        "some",
+        "many",
+        "several",
+        "an"
+      ],
+      "answer": "some",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Luis needs some research before Friday.",
+      "rationales": {
+        "some": "The amount word must fit whether the noun can be counted. The completed sentence is: Luis needs some research before Friday.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-997",
+      "level": "A2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The training office received ___ complaints after the schedule changed.",
+      "options": [
+        "many",
+        "much",
+        "a little",
+        "an"
+      ],
+      "answer": "many",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The training office received many complaints after the schedule changed.",
+      "rationales": {
+        "many": "The amount word must fit whether the noun can be counted. The completed sentence is: The training office received many complaints after the schedule changed.",
+        "much": "\"much\" does not fit this noun.",
+        "a little": "\"a little\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-998",
+      "level": "A2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The teacher gave us ___ advice before the final test.",
+      "options": [
+        "a little",
+        "many",
+        "several",
+        "an"
+      ],
+      "answer": "a little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The teacher gave us a little advice before the final test.",
+      "rationales": {
+        "a little": "The amount word must fit whether the noun can be counted. The completed sentence is: The teacher gave us a little advice before the final test.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-999",
+      "level": "A2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "There are ___ application forms near the printer during pair practice.",
+      "options": [
+        "several",
+        "much",
+        "a little",
+        "an"
+      ],
+      "answer": "several",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There are several application forms near the printer during pair practice.",
+      "rationales": {
+        "several": "The amount word must fit whether the noun can be counted. The completed sentence is: There are several application forms near the printer during pair practice.",
+        "much": "\"much\" does not fit this noun.",
+        "a little": "\"a little\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-a2-1000",
+      "level": "A2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Only ___ money remains in the workshop class fund.",
+      "options": [
+        "a little",
+        "a few",
+        "many",
+        "several"
+      ],
+      "answer": "a little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a little money remains in the workshop class fund.",
+      "rationales": {
+        "a little": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a little money remains in the workshop class fund.",
+        "a few": "\"a few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1001",
+      "level": "B1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The front office added three ___ of advice to the file about the report.",
+      "options": [
+        "pieces",
+        "piece",
+        "many",
+        "much"
+      ],
+      "answer": "pieces",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The front office added three pieces of advice to the file about the report.",
+      "rationales": {
+        "pieces": "The amount word must fit whether the noun can be counted. The completed sentence is: The front office added three pieces of advice to the file about the report.",
+        "piece": "\"piece\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "much": "\"much\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1002",
+      "level": "B1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "There was too ___ traffic for the bus to arrive on time during the staff meeting.",
+      "options": [
+        "much",
+        "many",
+        "several",
+        "a few"
+      ],
+      "answer": "much",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There was too much traffic for the bus to arrive on time during the staff meeting.",
+      "rationales": {
+        "much": "The amount word must fit whether the noun can be counted. The completed sentence is: There was too much traffic for the bus to arrive on time during the staff meeting.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "a few": "\"a few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1003",
+      "level": "B1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "Several ___ were missing from the application packet before the client call.",
+      "options": [
+        "documents",
+        "equipment",
+        "advice",
+        "research"
+      ],
+      "answer": "documents",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Several documents were missing from the application packet before the client call.",
+      "rationales": {
+        "documents": "The amount word must fit whether the noun can be counted. The completed sentence is: Several documents were missing from the application packet before the client call.",
+        "equipment": "\"equipment\" does not fit this noun.",
+        "advice": "\"advice\" does not fit this noun.",
+        "research": "\"research\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1004",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The survey report includes a great ___ of useful information.",
+      "options": [
+        "deal",
+        "number",
+        "few",
+        "many"
+      ],
+      "answer": "deal",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The survey report includes a great deal of useful information.",
+      "rationales": {
+        "deal": "The amount word must fit whether the noun can be counted. The completed sentence is: The survey report includes a great deal of useful information.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1005",
+      "level": "B1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "Only a small ___ of feedback mentioned the new schedule after the schedule change.",
+      "options": [
+        "amount",
+        "number",
+        "many",
+        "few"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a small amount of feedback mentioned the new schedule after the schedule change.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a small amount of feedback mentioned the new schedule after the schedule change.",
+        "number": "\"number\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1006",
+      "level": "B1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The admissions office added three ___ of research to the file about the chart.",
+      "options": [
+        "pieces",
+        "piece",
+        "many",
+        "much"
+      ],
+      "answer": "pieces",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The admissions office added three pieces of research to the file about the chart.",
+      "rationales": {
+        "pieces": "The amount word must fit whether the noun can be counted. The completed sentence is: The admissions office added three pieces of research to the file about the chart.",
+        "piece": "\"piece\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "much": "\"much\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1007",
+      "level": "B1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "There was too ___ traffic for the bus to arrive on time for the department update.",
+      "options": [
+        "much",
+        "many",
+        "several",
+        "a few"
+      ],
+      "answer": "much",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There was too much traffic for the bus to arrive on time for the department update.",
+      "rationales": {
+        "much": "The amount word must fit whether the noun can be counted. The completed sentence is: There was too much traffic for the bus to arrive on time for the department update.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "a few": "\"a few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1008",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Several ___ were missing from the application packet before the application review.",
+      "options": [
+        "documents",
+        "equipment",
+        "advice",
+        "research"
+      ],
+      "answer": "documents",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Several documents were missing from the application packet before the application review.",
+      "rationales": {
+        "documents": "The amount word must fit whether the noun can be counted. The completed sentence is: Several documents were missing from the application packet before the application review.",
+        "equipment": "\"equipment\" does not fit this noun.",
+        "advice": "\"advice\" does not fit this noun.",
+        "research": "\"research\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1009",
+      "level": "B1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The incident report includes a great ___ of useful information.",
+      "options": [
+        "deal",
+        "number",
+        "few",
+        "many"
+      ],
+      "answer": "deal",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The incident report includes a great deal of useful information.",
+      "rationales": {
+        "deal": "The amount word must fit whether the noun can be counted. The completed sentence is: The incident report includes a great deal of useful information.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1010",
+      "level": "B1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "Only a small ___ of feedback mentioned the new schedule after the survey closed.",
+      "options": [
+        "amount",
+        "number",
+        "many",
+        "few"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a small amount of feedback mentioned the new schedule after the survey closed.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a small amount of feedback mentioned the new schedule after the survey closed.",
+        "number": "\"number\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1011",
+      "level": "B1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The finance office added three ___ of information to the file about the lesson plan.",
+      "options": [
+        "pieces",
+        "piece",
+        "many",
+        "much"
+      ],
+      "answer": "pieces",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The finance office added three pieces of information to the file about the lesson plan.",
+      "rationales": {
+        "pieces": "The amount word must fit whether the noun can be counted. The completed sentence is: The finance office added three pieces of information to the file about the lesson plan.",
+        "piece": "\"piece\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "much": "\"much\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1012",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "There was too ___ traffic for the bus to arrive on time in the supervisor's email.",
+      "options": [
+        "much",
+        "many",
+        "several",
+        "a few"
+      ],
+      "answer": "much",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There was too much traffic for the bus to arrive on time in the supervisor's email.",
+      "rationales": {
+        "much": "The amount word must fit whether the noun can be counted. The completed sentence is: There was too much traffic for the bus to arrive on time in the supervisor's email.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "a few": "\"a few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1013",
+      "level": "B1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "Several ___ were missing from the application packet before the team review.",
+      "options": [
+        "documents",
+        "equipment",
+        "advice",
+        "research"
+      ],
+      "answer": "documents",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Several documents were missing from the application packet before the team review.",
+      "rationales": {
+        "documents": "The amount word must fit whether the noun can be counted. The completed sentence is: Several documents were missing from the application packet before the team review.",
+        "equipment": "\"equipment\" does not fit this noun.",
+        "advice": "\"advice\" does not fit this noun.",
+        "research": "\"research\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1014",
+      "level": "B1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The field report includes a great ___ of useful information.",
+      "options": [
+        "deal",
+        "number",
+        "few",
+        "many"
+      ],
+      "answer": "deal",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The field report includes a great deal of useful information.",
+      "rationales": {
+        "deal": "The amount word must fit whether the noun can be counted. The completed sentence is: The field report includes a great deal of useful information.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1015",
+      "level": "B1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "Only a small ___ of feedback mentioned the new schedule after the policy reminder.",
+      "options": [
+        "amount",
+        "number",
+        "many",
+        "few"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a small amount of feedback mentioned the new schedule after the policy reminder.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a small amount of feedback mentioned the new schedule after the policy reminder.",
+        "number": "\"number\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1016",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The reception office added three ___ of furniture to the file about the agenda.",
+      "options": [
+        "pieces",
+        "piece",
+        "many",
+        "much"
+      ],
+      "answer": "pieces",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The reception office added three pieces of furniture to the file about the agenda.",
+      "rationales": {
+        "pieces": "The amount word must fit whether the noun can be counted. The completed sentence is: The reception office added three pieces of furniture to the file about the agenda.",
+        "piece": "\"piece\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "much": "\"much\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1017",
+      "level": "B1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "There was too ___ traffic for the bus to arrive on time for the training session.",
+      "options": [
+        "much",
+        "many",
+        "several",
+        "a few"
+      ],
+      "answer": "much",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: There was too much traffic for the bus to arrive on time for the training session.",
+      "rationales": {
+        "much": "The amount word must fit whether the noun can be counted. The completed sentence is: There was too much traffic for the bus to arrive on time for the training session.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "a few": "\"a few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1018",
+      "level": "B1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "Several ___ were missing from the application packet before the documents are filed.",
+      "options": [
+        "documents",
+        "equipment",
+        "advice",
+        "research"
+      ],
+      "answer": "documents",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Several documents were missing from the application packet before the documents are filed.",
+      "rationales": {
+        "documents": "The amount word must fit whether the noun can be counted. The completed sentence is: Several documents were missing from the application packet before the documents are filed.",
+        "equipment": "\"equipment\" does not fit this noun.",
+        "advice": "\"advice\" does not fit this noun.",
+        "research": "\"research\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1019",
+      "level": "B1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The statistical report includes a great ___ of useful information.",
+      "options": [
+        "deal",
+        "number",
+        "few",
+        "many"
+      ],
+      "answer": "deal",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The statistical report includes a great deal of useful information.",
+      "rationales": {
+        "deal": "The amount word must fit whether the noun can be counted. The completed sentence is: The statistical report includes a great deal of useful information.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b1-1020",
+      "level": "B1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Only a small ___ of feedback mentioned the new schedule after the tutor's explanation.",
+      "options": [
+        "amount",
+        "number",
+        "many",
+        "few"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a small amount of feedback mentioned the new schedule after the tutor's explanation.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a small amount of feedback mentioned the new schedule after the tutor's explanation.",
+        "number": "\"number\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1021",
+      "level": "B2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "Only ___ students at the library understood the final question for the audit file.",
+      "options": [
+        "a few",
+        "a little",
+        "much",
+        "an"
+      ],
+      "answer": "a few",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a few students at the library understood the final question for the audit file.",
+      "rationales": {
+        "a few": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a few students at the library understood the final question for the audit file.",
+        "a little": "\"a little\" does not fit this noun.",
+        "much": "\"much\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1022",
+      "level": "B2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The survey collected ___ data to support a cautious conclusion during the policy review.",
+      "options": [
+        "enough",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The survey collected enough data to support a cautious conclusion during the policy review.",
+      "rationales": {
+        "enough": "The amount word must fit whether the noun can be counted. The completed sentence is: The survey collected enough data to support a cautious conclusion during the policy review.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1023",
+      "level": "B2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "Very ___ evidence was available before the policy changed before the budget meeting.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Very little evidence was available before the policy changed before the budget meeting.",
+      "rationales": {
+        "little": "The amount word must fit whether the noun can be counted. The completed sentence is: Very little evidence was available before the policy changed before the budget meeting.",
+        "few": "\"few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1024",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "A large ___ of the complaints concerned the same form in the manager's briefing.",
+      "options": [
+        "number",
+        "amount",
+        "many",
+        "much"
+      ],
+      "answer": "number",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: A large number of the complaints concerned the same form in the manager's briefing.",
+      "rationales": {
+        "number": "The amount word must fit whether the noun can be counted. The completed sentence is: A large number of the complaints concerned the same form in the manager's briefing.",
+        "amount": "\"amount\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "much": "\"much\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1025",
+      "level": "B2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The safety committee had only a limited ___ of time for review.",
+      "options": [
+        "amount",
+        "number",
+        "few",
+        "several"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The safety committee had only a limited amount of time for review.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: The safety committee had only a limited amount of time for review.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1026",
+      "level": "B2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "Only ___ students at the museum understood the final question during the data check.",
+      "options": [
+        "a few",
+        "a little",
+        "much",
+        "an"
+      ],
+      "answer": "a few",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a few students at the museum understood the final question during the data check.",
+      "rationales": {
+        "a few": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a few students at the museum understood the final question during the data check.",
+        "a little": "\"a little\" does not fit this noun.",
+        "much": "\"much\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1027",
+      "level": "B2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The survey collected ___ data to support a cautious conclusion for the training portal.",
+      "options": [
+        "enough",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The survey collected enough data to support a cautious conclusion for the training portal.",
+      "rationales": {
+        "enough": "The amount word must fit whether the noun can be counted. The completed sentence is: The survey collected enough data to support a cautious conclusion for the training portal.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1028",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Very ___ evidence was available before the policy changed before the contract is signed.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Very little evidence was available before the policy changed before the contract is signed.",
+      "rationales": {
+        "little": "The amount word must fit whether the noun can be counted. The completed sentence is: Very little evidence was available before the policy changed before the contract is signed.",
+        "few": "\"few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1029",
+      "level": "B2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "A large ___ of the complaints concerned the same form in the customer update.",
+      "options": [
+        "number",
+        "amount",
+        "many",
+        "much"
+      ],
+      "answer": "number",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: A large number of the complaints concerned the same form in the customer update.",
+      "rationales": {
+        "number": "The amount word must fit whether the noun can be counted. The completed sentence is: A large number of the complaints concerned the same form in the customer update.",
+        "amount": "\"amount\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "much": "\"much\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1030",
+      "level": "B2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The budget committee had only a limited ___ of time for review.",
+      "options": [
+        "amount",
+        "number",
+        "few",
+        "several"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The budget committee had only a limited amount of time for review.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: The budget committee had only a limited amount of time for review.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1031",
+      "level": "B2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "Only ___ students at the airport understood the final question during the hiring process.",
+      "options": [
+        "a few",
+        "a little",
+        "much",
+        "an"
+      ],
+      "answer": "a few",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a few students at the airport understood the final question during the hiring process.",
+      "rationales": {
+        "a few": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a few students at the airport understood the final question during the hiring process.",
+        "a little": "\"a little\" does not fit this noun.",
+        "much": "\"much\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1032",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The survey collected ___ data to support a cautious conclusion for the project dashboard.",
+      "options": [
+        "enough",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The survey collected enough data to support a cautious conclusion for the project dashboard.",
+      "rationales": {
+        "enough": "The amount word must fit whether the noun can be counted. The completed sentence is: The survey collected enough data to support a cautious conclusion for the project dashboard.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1033",
+      "level": "B2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "Very ___ evidence was available before the policy changed before the board discussion.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Very little evidence was available before the policy changed before the board discussion.",
+      "rationales": {
+        "little": "The amount word must fit whether the noun can be counted. The completed sentence is: Very little evidence was available before the policy changed before the board discussion.",
+        "few": "\"few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1034",
+      "level": "B2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "A large ___ of the complaints concerned the same form under the revised procedure.",
+      "options": [
+        "number",
+        "amount",
+        "many",
+        "much"
+      ],
+      "answer": "number",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: A large number of the complaints concerned the same form under the revised procedure.",
+      "rationales": {
+        "number": "The amount word must fit whether the noun can be counted. The completed sentence is: A large number of the complaints concerned the same form under the revised procedure.",
+        "amount": "\"amount\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "much": "\"much\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1035",
+      "level": "B2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The oversight committee had only a limited ___ of time for review.",
+      "options": [
+        "amount",
+        "number",
+        "few",
+        "several"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The oversight committee had only a limited amount of time for review.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: The oversight committee had only a limited amount of time for review.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1036",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Only ___ students at the market understood the final question during the operations review.",
+      "options": [
+        "a few",
+        "a little",
+        "much",
+        "an"
+      ],
+      "answer": "a few",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a few students at the market understood the final question during the operations review.",
+      "rationales": {
+        "a few": "The amount word must fit whether the noun can be counted. The completed sentence is: Only a few students at the market understood the final question during the operations review.",
+        "a little": "\"a little\" does not fit this noun.",
+        "much": "\"much\" does not fit this noun.",
+        "an": "\"an\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1037",
+      "level": "B2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The survey collected ___ data to support a cautious conclusion for the quarterly summary.",
+      "options": [
+        "enough",
+        "many",
+        "several",
+        "few"
+      ],
+      "answer": "enough",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The survey collected enough data to support a cautious conclusion for the quarterly summary.",
+      "rationales": {
+        "enough": "The amount word must fit whether the noun can be counted. The completed sentence is: The survey collected enough data to support a cautious conclusion for the quarterly summary.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1038",
+      "level": "B2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "Very ___ evidence was available before the policy changed before the compliance check.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Very little evidence was available before the policy changed before the compliance check.",
+      "rationales": {
+        "little": "The amount word must fit whether the noun can be counted. The completed sentence is: Very little evidence was available before the policy changed before the compliance check.",
+        "few": "\"few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1039",
+      "level": "B2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "A large ___ of the complaints concerned the same form in the evaluation memo.",
+      "options": [
+        "number",
+        "amount",
+        "many",
+        "much"
+      ],
+      "answer": "number",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: A large number of the complaints concerned the same form in the evaluation memo.",
+      "rationales": {
+        "number": "The amount word must fit whether the noun can be counted. The completed sentence is: A large number of the complaints concerned the same form in the evaluation memo.",
+        "amount": "\"amount\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "much": "\"much\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-b2-1040",
+      "level": "B2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The steering committee had only a limited ___ of time for review.",
+      "options": [
+        "amount",
+        "number",
+        "few",
+        "several"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The steering committee had only a limited amount of time for review.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: The steering committee had only a limited amount of time for review.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1041",
+      "level": "C1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The attendance report about the report provides ___ evidence to support the decision.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The attendance report about the report provides little evidence to support the decision.",
+      "rationales": {
+        "little": "The amount word must fit whether the noun can be counted. The completed sentence is: The attendance report about the report provides little evidence to support the decision.",
+        "few": "\"few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1042",
+      "level": "C1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The interviews produced a considerable ___ of qualitative data in the methodology section.",
+      "options": [
+        "amount",
+        "number",
+        "few",
+        "several"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The interviews produced a considerable amount of qualitative data in the methodology section.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: The interviews produced a considerable amount of qualitative data in the methodology section.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1043",
+      "level": "C1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "Few ___ in the sample came from evening classes during the stakeholder meeting.",
+      "options": [
+        "respondents",
+        "research",
+        "equipment",
+        "feedback"
+      ],
+      "answer": "respondents",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Few respondents in the sample came from evening classes during the stakeholder meeting.",
+      "rationales": {
+        "respondents": "The amount word must fit whether the noun can be counted. The completed sentence is: Few respondents in the sample came from evening classes during the stakeholder meeting.",
+        "research": "\"research\" does not fit this noun.",
+        "equipment": "\"equipment\" does not fit this noun.",
+        "feedback": "\"feedback\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1044",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The article cites numerous ___ from earlier studies before the recommendation is issued.",
+      "options": [
+        "examples",
+        "evidence",
+        "advice",
+        "research"
+      ],
+      "answer": "examples",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The article cites numerous examples from earlier studies before the recommendation is issued.",
+      "rationales": {
+        "examples": "The amount word must fit whether the noun can be counted. The completed sentence is: The article cites numerous examples from earlier studies before the recommendation is issued.",
+        "evidence": "\"evidence\" does not fit this noun.",
+        "advice": "\"advice\" does not fit this noun.",
+        "research": "\"research\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1045",
+      "level": "C1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The reviewer found insufficient ___ for the strongest claim after the evidence is compared.",
+      "options": [
+        "support",
+        "examples",
+        "respondents",
+        "records"
+      ],
+      "answer": "support",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The reviewer found insufficient support for the strongest claim after the evidence is compared.",
+      "rationales": {
+        "support": "The amount word must fit whether the noun can be counted. The completed sentence is: The reviewer found insufficient support for the strongest claim after the evidence is compared.",
+        "examples": "\"examples\" does not fit this noun.",
+        "respondents": "\"respondents\" does not fit this noun.",
+        "records": "\"records\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1046",
+      "level": "C1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The progress report about the chart provides ___ evidence to support the decision.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The progress report about the chart provides little evidence to support the decision.",
+      "rationales": {
+        "little": "The amount word must fit whether the noun can be counted. The completed sentence is: The progress report about the chart provides little evidence to support the decision.",
+        "few": "\"few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1047",
+      "level": "C1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The interviews produced a considerable ___ of qualitative data on the evaluation form.",
+      "options": [
+        "amount",
+        "number",
+        "few",
+        "several"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The interviews produced a considerable amount of qualitative data on the evaluation form.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: The interviews produced a considerable amount of qualitative data on the evaluation form.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1048",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "Few ___ in the sample came from evening classes after the pilot program.",
+      "options": [
+        "respondents",
+        "research",
+        "equipment",
+        "feedback"
+      ],
+      "answer": "respondents",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Few respondents in the sample came from evening classes after the pilot program.",
+      "rationales": {
+        "respondents": "The amount word must fit whether the noun can be counted. The completed sentence is: Few respondents in the sample came from evening classes after the pilot program.",
+        "research": "\"research\" does not fit this noun.",
+        "equipment": "\"equipment\" does not fit this noun.",
+        "feedback": "\"feedback\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1049",
+      "level": "C1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The article cites numerous ___ from earlier studies before the findings are published.",
+      "options": [
+        "examples",
+        "evidence",
+        "advice",
+        "research"
+      ],
+      "answer": "examples",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The article cites numerous examples from earlier studies before the findings are published.",
+      "rationales": {
+        "examples": "The amount word must fit whether the noun can be counted. The completed sentence is: The article cites numerous examples from earlier studies before the findings are published.",
+        "evidence": "\"evidence\" does not fit this noun.",
+        "advice": "\"advice\" does not fit this noun.",
+        "research": "\"research\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1050",
+      "level": "C1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The reviewer found insufficient ___ for the strongest claim in the grant application.",
+      "options": [
+        "support",
+        "examples",
+        "respondents",
+        "records"
+      ],
+      "answer": "support",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The reviewer found insufficient support for the strongest claim in the grant application.",
+      "rationales": {
+        "support": "The amount word must fit whether the noun can be counted. The completed sentence is: The reviewer found insufficient support for the strongest claim in the grant application.",
+        "examples": "\"examples\" does not fit this noun.",
+        "respondents": "\"respondents\" does not fit this noun.",
+        "records": "\"records\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1051",
+      "level": "C1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The evaluation report about the lesson plan provides ___ evidence to support the decision.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The evaluation report about the lesson plan provides little evidence to support the decision.",
+      "rationales": {
+        "little": "The amount word must fit whether the noun can be counted. The completed sentence is: The evaluation report about the lesson plan provides little evidence to support the decision.",
+        "few": "\"few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1052",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The interviews produced a considerable ___ of qualitative data on the risk assessment.",
+      "options": [
+        "amount",
+        "number",
+        "few",
+        "several"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The interviews produced a considerable amount of qualitative data on the risk assessment.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: The interviews produced a considerable amount of qualitative data on the risk assessment.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1053",
+      "level": "C1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "Few ___ in the sample came from evening classes after the interviews are coded.",
+      "options": [
+        "respondents",
+        "research",
+        "equipment",
+        "feedback"
+      ],
+      "answer": "respondents",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Few respondents in the sample came from evening classes after the interviews are coded.",
+      "rationales": {
+        "respondents": "The amount word must fit whether the noun can be counted. The completed sentence is: Few respondents in the sample came from evening classes after the interviews are coded.",
+        "research": "\"research\" does not fit this noun.",
+        "equipment": "\"equipment\" does not fit this noun.",
+        "feedback": "\"feedback\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1054",
+      "level": "C1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The article cites numerous ___ from earlier studies before the final vote.",
+      "options": [
+        "examples",
+        "evidence",
+        "advice",
+        "research"
+      ],
+      "answer": "examples",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The article cites numerous examples from earlier studies before the final vote.",
+      "rationales": {
+        "examples": "The amount word must fit whether the noun can be counted. The completed sentence is: The article cites numerous examples from earlier studies before the final vote.",
+        "evidence": "\"evidence\" does not fit this noun.",
+        "advice": "\"advice\" does not fit this noun.",
+        "research": "\"research\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1055",
+      "level": "C1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The reviewer found insufficient ___ for the strongest claim in the appendix note.",
+      "options": [
+        "support",
+        "examples",
+        "respondents",
+        "records"
+      ],
+      "answer": "support",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The reviewer found insufficient support for the strongest claim in the appendix note.",
+      "rationales": {
+        "support": "The amount word must fit whether the noun can be counted. The completed sentence is: The reviewer found insufficient support for the strongest claim in the appendix note.",
+        "examples": "\"examples\" does not fit this noun.",
+        "respondents": "\"respondents\" does not fit this noun.",
+        "records": "\"records\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1056",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The final report about the agenda provides ___ evidence to support the decision.",
+      "options": [
+        "little",
+        "few",
+        "many",
+        "several"
+      ],
+      "answer": "little",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The final report about the agenda provides little evidence to support the decision.",
+      "rationales": {
+        "little": "The amount word must fit whether the noun can be counted. The completed sentence is: The final report about the agenda provides little evidence to support the decision.",
+        "few": "\"few\" does not fit this noun.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1057",
+      "level": "C1",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The interviews produced a considerable ___ of qualitative data during the protocol review.",
+      "options": [
+        "amount",
+        "number",
+        "few",
+        "several"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The interviews produced a considerable amount of qualitative data during the protocol review.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: The interviews produced a considerable amount of qualitative data during the protocol review.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1058",
+      "level": "C1",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "Few ___ in the sample came from evening classes on the evidence table.",
+      "options": [
+        "respondents",
+        "research",
+        "equipment",
+        "feedback"
+      ],
+      "answer": "respondents",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: Few respondents in the sample came from evening classes on the evidence table.",
+      "rationales": {
+        "respondents": "The amount word must fit whether the noun can be counted. The completed sentence is: Few respondents in the sample came from evening classes on the evidence table.",
+        "research": "\"research\" does not fit this noun.",
+        "equipment": "\"equipment\" does not fit this noun.",
+        "feedback": "\"feedback\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1059",
+      "level": "C1",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The article cites numerous ___ from earlier studies before the policy draft.",
+      "options": [
+        "examples",
+        "evidence",
+        "advice",
+        "research"
+      ],
+      "answer": "examples",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The article cites numerous examples from earlier studies before the policy draft.",
+      "rationales": {
+        "examples": "The amount word must fit whether the noun can be counted. The completed sentence is: The article cites numerous examples from earlier studies before the policy draft.",
+        "evidence": "\"evidence\" does not fit this noun.",
+        "advice": "\"advice\" does not fit this noun.",
+        "research": "\"research\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c1-1060",
+      "level": "C1",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The reviewer found insufficient ___ for the strongest claim in the assessment rubric.",
+      "options": [
+        "support",
+        "examples",
+        "respondents",
+        "records"
+      ],
+      "answer": "support",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The reviewer found insufficient support for the strongest claim in the assessment rubric.",
+      "rationales": {
+        "support": "The amount word must fit whether the noun can be counted. The completed sentence is: The reviewer found insufficient support for the strongest claim in the assessment rubric.",
+        "examples": "\"examples\" does not fit this noun.",
+        "respondents": "\"respondents\" does not fit this noun.",
+        "records": "\"records\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1061",
+      "level": "C2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The review committee requested ___ additional research before changing the report.",
+      "options": [
+        "further",
+        "many",
+        "several",
+        "a few"
+      ],
+      "answer": "further",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The review committee requested further additional research before changing the report.",
+      "rationales": {
+        "further": "The amount word must fit whether the noun can be counted. The completed sentence is: The review committee requested further additional research before changing the report.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "a few": "\"a few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1062",
+      "level": "C2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The archive contains scant ___ for that interpretation during the evidentiary hearing.",
+      "options": [
+        "evidence",
+        "examples",
+        "documents",
+        "respondents"
+      ],
+      "answer": "evidence",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The archive contains scant evidence for that interpretation during the evidentiary hearing.",
+      "rationales": {
+        "evidence": "The amount word must fit whether the noun can be counted. The completed sentence is: The archive contains scant evidence for that interpretation during the evidentiary hearing.",
+        "examples": "\"examples\" does not fit this noun.",
+        "documents": "\"documents\" does not fit this noun.",
+        "respondents": "\"respondents\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1063",
+      "level": "C2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The analysis depends on several untested ___ before the arbitration panel meets.",
+      "options": [
+        "assumptions",
+        "research",
+        "advice",
+        "equipment"
+      ],
+      "answer": "assumptions",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The analysis depends on several untested assumptions before the arbitration panel meets.",
+      "rationales": {
+        "assumptions": "The amount word must fit whether the noun can be counted. The completed sentence is: The analysis depends on several untested assumptions before the arbitration panel meets.",
+        "research": "\"research\" does not fit this noun.",
+        "advice": "\"advice\" does not fit this noun.",
+        "equipment": "\"equipment\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1064",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The dissent gives little ___ to the procedural objection in the fiduciary briefing.",
+      "options": [
+        "weight",
+        "examples",
+        "respondents",
+        "documents"
+      ],
+      "answer": "weight",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The dissent gives little weight to the procedural objection in the fiduciary briefing.",
+      "rationales": {
+        "weight": "The amount word must fit whether the noun can be counted. The completed sentence is: The dissent gives little weight to the procedural objection in the fiduciary briefing.",
+        "examples": "\"examples\" does not fit this noun.",
+        "respondents": "\"respondents\" does not fit this noun.",
+        "documents": "\"documents\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1065",
+      "level": "C2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The model incorporates a large ___ of longitudinal data after the methodological critique.",
+      "options": [
+        "amount",
+        "number",
+        "few",
+        "several"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The model incorporates a large amount of longitudinal data after the methodological critique.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: The model incorporates a large amount of longitudinal data after the methodological critique.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1066",
+      "level": "C2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The hiring committee requested ___ additional research before changing the chart.",
+      "options": [
+        "further",
+        "many",
+        "several",
+        "a few"
+      ],
+      "answer": "further",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The hiring committee requested further additional research before changing the chart.",
+      "rationales": {
+        "further": "The amount word must fit whether the noun can be counted. The completed sentence is: The hiring committee requested further additional research before changing the chart.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "a few": "\"a few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1067",
+      "level": "C2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The archive contains scant ___ for that interpretation in the interpretive framework.",
+      "options": [
+        "evidence",
+        "examples",
+        "documents",
+        "respondents"
+      ],
+      "answer": "evidence",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The archive contains scant evidence for that interpretation in the interpretive framework.",
+      "rationales": {
+        "evidence": "The amount word must fit whether the noun can be counted. The completed sentence is: The archive contains scant evidence for that interpretation in the interpretive framework.",
+        "examples": "\"examples\" does not fit this noun.",
+        "documents": "\"documents\" does not fit this noun.",
+        "respondents": "\"respondents\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1068",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The analysis depends on several untested ___ during the appellate review.",
+      "options": [
+        "assumptions",
+        "research",
+        "advice",
+        "equipment"
+      ],
+      "answer": "assumptions",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The analysis depends on several untested assumptions during the appellate review.",
+      "rationales": {
+        "assumptions": "The amount word must fit whether the noun can be counted. The completed sentence is: The analysis depends on several untested assumptions during the appellate review.",
+        "research": "\"research\" does not fit this noun.",
+        "advice": "\"advice\" does not fit this noun.",
+        "equipment": "\"equipment\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1069",
+      "level": "C2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The dissent gives little ___ to the procedural objection in the technical memorandum.",
+      "options": [
+        "weight",
+        "examples",
+        "respondents",
+        "documents"
+      ],
+      "answer": "weight",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The dissent gives little weight to the procedural objection in the technical memorandum.",
+      "rationales": {
+        "weight": "The amount word must fit whether the noun can be counted. The completed sentence is: The dissent gives little weight to the procedural objection in the technical memorandum.",
+        "examples": "\"examples\" does not fit this noun.",
+        "respondents": "\"respondents\" does not fit this noun.",
+        "documents": "\"documents\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1070",
+      "level": "C2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The model incorporates a large ___ of longitudinal data after the objections are synthesized.",
+      "options": [
+        "amount",
+        "number",
+        "few",
+        "several"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The model incorporates a large amount of longitudinal data after the objections are synthesized.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: The model incorporates a large amount of longitudinal data after the objections are synthesized.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1071",
+      "level": "C2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The language committee requested ___ additional research before changing the lesson plan.",
+      "options": [
+        "further",
+        "many",
+        "several",
+        "a few"
+      ],
+      "answer": "further",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The language committee requested further additional research before changing the lesson plan.",
+      "rationales": {
+        "further": "The amount word must fit whether the noun can be counted. The completed sentence is: The language committee requested further additional research before changing the lesson plan.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "a few": "\"a few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1072",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The archive contains scant ___ for that interpretation in the published corrigendum.",
+      "options": [
+        "evidence",
+        "examples",
+        "documents",
+        "respondents"
+      ],
+      "answer": "evidence",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The archive contains scant evidence for that interpretation in the published corrigendum.",
+      "rationales": {
+        "evidence": "The amount word must fit whether the noun can be counted. The completed sentence is: The archive contains scant evidence for that interpretation in the published corrigendum.",
+        "examples": "\"examples\" does not fit this noun.",
+        "documents": "\"documents\" does not fit this noun.",
+        "respondents": "\"respondents\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1073",
+      "level": "C2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The analysis depends on several untested ___ during the ethics review.",
+      "options": [
+        "assumptions",
+        "research",
+        "advice",
+        "equipment"
+      ],
+      "answer": "assumptions",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The analysis depends on several untested assumptions during the ethics review.",
+      "rationales": {
+        "assumptions": "The amount word must fit whether the noun can be counted. The completed sentence is: The analysis depends on several untested assumptions during the ethics review.",
+        "research": "\"research\" does not fit this noun.",
+        "advice": "\"advice\" does not fit this noun.",
+        "equipment": "\"equipment\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1074",
+      "level": "C2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The dissent gives little ___ to the procedural objection on the counterargument table.",
+      "options": [
+        "weight",
+        "examples",
+        "respondents",
+        "documents"
+      ],
+      "answer": "weight",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The dissent gives little weight to the procedural objection on the counterargument table.",
+      "rationales": {
+        "weight": "The amount word must fit whether the noun can be counted. The completed sentence is: The dissent gives little weight to the procedural objection on the counterargument table.",
+        "examples": "\"examples\" does not fit this noun.",
+        "respondents": "\"respondents\" does not fit this noun.",
+        "documents": "\"documents\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1075",
+      "level": "C2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The model incorporates a large ___ of longitudinal data before the final adjudication.",
+      "options": [
+        "amount",
+        "number",
+        "few",
+        "several"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The model incorporates a large amount of longitudinal data before the final adjudication.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: The model incorporates a large amount of longitudinal data before the final adjudication.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1076",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The advisory committee requested ___ additional research before changing the agenda.",
+      "options": [
+        "further",
+        "many",
+        "several",
+        "a few"
+      ],
+      "answer": "further",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The advisory committee requested further additional research before changing the agenda.",
+      "rationales": {
+        "further": "The amount word must fit whether the noun can be counted. The completed sentence is: The advisory committee requested further additional research before changing the agenda.",
+        "many": "\"many\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun.",
+        "a few": "\"a few\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1077",
+      "level": "C2",
+      "setupText": "Think about whether the noun can be counted.",
+      "taskText": "The archive contains scant ___ for that interpretation during expert testimony.",
+      "options": [
+        "evidence",
+        "examples",
+        "documents",
+        "respondents"
+      ],
+      "answer": "evidence",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The archive contains scant evidence for that interpretation during expert testimony.",
+      "rationales": {
+        "evidence": "The amount word must fit whether the noun can be counted. The completed sentence is: The archive contains scant evidence for that interpretation during expert testimony.",
+        "examples": "\"examples\" does not fit this noun.",
+        "documents": "\"documents\" does not fit this noun.",
+        "respondents": "\"respondents\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1078",
+      "level": "C2",
+      "setupText": "Choose the amount word that fits the noun.",
+      "taskText": "The analysis depends on several untested ___ in the compliance addendum.",
+      "options": [
+        "assumptions",
+        "research",
+        "advice",
+        "equipment"
+      ],
+      "answer": "assumptions",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The analysis depends on several untested assumptions in the compliance addendum.",
+      "rationales": {
+        "assumptions": "The amount word must fit whether the noun can be counted. The completed sentence is: The analysis depends on several untested assumptions in the compliance addendum.",
+        "research": "\"research\" does not fit this noun.",
+        "advice": "\"advice\" does not fit this noun.",
+        "equipment": "\"equipment\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1079",
+      "level": "C2",
+      "setupText": "Choose the answer that sounds natural with the noun.",
+      "taskText": "The dissent gives little ___ to the procedural objection after the longitudinal model is revised.",
+      "options": [
+        "weight",
+        "examples",
+        "respondents",
+        "documents"
+      ],
+      "answer": "weight",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The dissent gives little weight to the procedural objection after the longitudinal model is revised.",
+      "rationales": {
+        "weight": "The amount word must fit whether the noun can be counted. The completed sentence is: The dissent gives little weight to the procedural objection after the longitudinal model is revised.",
+        "examples": "\"examples\" does not fit this noun.",
+        "respondents": "\"respondents\" does not fit this noun.",
+        "documents": "\"documents\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    },
+    {
+      "id": "coverage-count-and-noncount-nouns-c2-1080",
+      "level": "C2",
+      "setupText": "Read the whole sentence before choosing.",
+      "taskText": "The model incorporates a large ___ of longitudinal data before the ruling is issued.",
+      "options": [
+        "amount",
+        "number",
+        "few",
+        "several"
+      ],
+      "answer": "amount",
+      "explanation": "The amount word must fit whether the noun can be counted. The completed sentence is: The model incorporates a large amount of longitudinal data before the ruling is issued.",
+      "rationales": {
+        "amount": "The amount word must fit whether the noun can be counted. The completed sentence is: The model incorporates a large amount of longitudinal data before the ruling is issued.",
+        "number": "\"number\" does not fit this noun.",
+        "few": "\"few\" does not fit this noun.",
+        "several": "\"several\" does not fit this noun."
+      },
+      "audit": {
+        "status": "pending"
+      }
+    }
+  ]
+}
