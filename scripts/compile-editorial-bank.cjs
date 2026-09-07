@@ -47,7 +47,7 @@ for (const group of groups) {
         assert(q[field].trim(), `${label}: empty ${field}`);
       }
       assert.equal(q.options.length, 4, `${label}: needs four choices`);
-      assert.equal(new Set(q.options.map(s => s.toLowerCase().trim())).size, 4, `${label}: repeated choices`);
+      assert.equal(new Set(q.options.map(s => s.replace(/\s+/g, ' ').trim())).size, 4, `${label}: repeated choices`);
       assert(q.options.includes(q.answer), `${label}: answer absent from choices`);
       assert.deepEqual(Object.keys(q.rationales).sort(), [...q.options].sort(), `${label}: feedback keys differ from choices`);
       for (const option of q.options) assert(q.rationales[option]?.trim().length >= 15, `${label}: missing feedback for ${option}`);

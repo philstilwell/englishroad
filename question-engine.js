@@ -689,7 +689,8 @@ function validateBank(bank) {
     if (question.focusKey) focusCounts[question.focusKey] = (focusCounts[question.focusKey] || 0) + 1;
     if (!question.options.includes(question.answer)) issues.push(`Missing answer: ${question.id}`);
     if (new Set(question.options).size !== question.options.length) issues.push(`Duplicate option: ${question.id}`);
-    if (new Set(question.options.map(normalizeQuestionText)).size !== question.options.length) issues.push(`Duplicate normalized option: ${question.id}`);
+    // Capitals can be the tested distinction; whitespace-only differences cannot.
+    if (new Set(question.options.map(option => option.replace(/\s+/g, " ").trim())).size !== question.options.length) issues.push(`Duplicate normalized option: ${question.id}`);
     if (question.options.length !== 4) issues.push(`Wrong option count: ${question.id}`);
     if (!question.category || !question.subcategory || !question.difficulty) issues.push(`Missing metadata: ${question.id}`);
     if (!question.setupText || !question.taskText) issues.push(`Missing display parts: ${question.id}`);

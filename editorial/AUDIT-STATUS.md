@@ -10,12 +10,12 @@ All 120 Articles items have an initial individual review. A further pass has tig
 
 ## Parallel assignments
 
-- Verb tense; Passive voice; Reported speech; Subjunctive and unreal forms; Question forms; Advanced sentence structure.
+- Verb tense; Passive voice; Reported speech; Subjunctive and unreal forms; Question forms.
 - Conditionals; Clauses and connectors; Relative clauses; Reduced clauses; Sentence boundaries; Parallel structure.
 - Modals; Gerunds and infinitives; Inversion and emphasis; Adjective and adverb forms; Comparatives; Subject-verb agreement.
-- Determiners and quantifiers; Count and noncount nouns; Pronouns and reference; Prepositions; Word forms; Phrasal verbs.
-- Register; Everyday vocabulary; Workplace vocabulary; Collocations; Academic vocabulary.
-- Hedging and precision; Discourse function; Meaning in context; Nuance; Transitions.
+- Determiners and quantifiers; Count and noncount nouns; Pronouns and reference; Prepositions; Word forms.
+- Register; Everyday vocabulary; Workplace vocabulary; Collocations; Academic vocabulary; Advanced sentence structure.
+- Hedging and precision; Discourse function; Meaning in context; Nuance; Transitions; Phrasal verbs, plus a second review of Articles after the coordinator's revisions.
 
 Each reviewer owns separate topic files. The coordinating pass handles shared-bank integration and checks for overlap between topics. No reviewer is permitted to approve an unread record or generate student-facing prose by substitution.
 

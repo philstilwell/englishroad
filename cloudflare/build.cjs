@@ -5,6 +5,8 @@ const path = require('node:path');
 const cp = require('node:child_process');
 const crypto = require('node:crypto');
 const root = path.resolve(__dirname, '..');
+// Publish only a complete bank that matches its individually reviewed source.
+cp.execFileSync(process.execPath, [path.join(root, 'scripts', 'compile-editorial-bank.cjs'), '--check'], { cwd: root, stdio: 'inherit' });
 const out = path.join(root, '.cf-site');
 const domain = fs.readFileSync(path.join(root, 'CNAME'), 'utf8').trim();
 const publicDirs = new Set(['assets', 'pdf', 'prompts', 'news', 'stories', 'grammar-concepts', 'english-for-work', 'sitemaps', 'archive', 'data']);

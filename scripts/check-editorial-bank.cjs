@@ -80,6 +80,16 @@ const article = { ...preview[0], taskText: 'I have just joined ___ university. Y
   options: ['a', 'an', 'the', '(nothing)'], answer: 'a', rationales: { a: 'A new singular referent with a consonant sound.', an: 'University starts with the consonant sound /j/.', the: 'This task asks for a new, unidentified referent.', '(nothing)': 'A singular count noun needs a determiner here.' } };
 assert(engine.editorialWarnings(article).some(warning => warning.includes('article reference')));
 assert.doesNotThrow(() => engine.validateBank([article, ...preview.slice(1)]), 'A context-dependent article warning must not disable the bank');
+const capitalization = { ...article, category: 'Grammar', subcategory: 'Sentence boundaries',
+  setupText: 'Use a normally capitalized statement with a full stop.',
+  taskText: 'Choose the correctly written statement.', sentence: 'Choose the correctly written statement.',
+  options: ['I live here.', 'i live here.', 'I live here?', 'I live here,'], answer: 'I live here.',
+  explanation: 'The statement uses a capital I and ends with a full stop.',
+  rationales: { 'I live here.': 'This correctly writes the statement.', 'i live here.': 'The pronoun I needs a capital.',
+    'I live here?': 'A question mark changes the statement into a question.', 'I live here,': 'A comma does not end this complete statement.' } };
+assert.doesNotThrow(() => engine.validateBank([capitalization, ...preview.slice(1)]), 'Case-sensitive choices are legitimate in a capitalization task');
+const invisibleDuplicate = { ...capitalization, options: ['I live here.', '  I live here. ', 'I live here?', 'I live here,'] };
+assert.throws(() => engine.validateBank([invisibleDuplicate, ...preview.slice(1)]), /Duplicate normalized option/, 'Whitespace-only differences must still be rejected');
 for (const broken of [
   { ...article, answer: 'some' },
   { ...article, options: ['a', 'a', 'the', '(nothing)'] },
