@@ -1524,7 +1524,7 @@
     {
       "id": "coverage-discourse-function-b1-1250",
       "level": "B1",
-      "setupText": "A manager writes, 'Please send the draft soon. By soon, I mean before noon tomorrow.'",
+      "setupText": "A manager writes, 'Please send the draft soon. By \"soon\", I mean before noon tomorrow.'",
       "taskText": "What is the function of the second sentence?",
       "options": [
         "It makes a vague deadline specific.",
@@ -1533,12 +1533,12 @@
         "It withdraws the request to send the draft."
       ],
       "answer": "It makes a vague deadline specific.",
-      "explanation": "'By soon, I mean' defines the intended timing of the earlier request as before noon tomorrow.",
+      "explanation": "'By \"soon\", I mean' defines the intended timing of the earlier request as before noon tomorrow.",
       "rationales": {
         "It explains why the draft is needed.": "A deadline is supplied, but the reason for needing the draft is not.",
         "It gives a second task for tomorrow.": "Both sentences concern sending the same draft.",
         "It withdraws the request to send the draft.": "The request remains in place with a clearer deadline.",
-        "It makes a vague deadline specific.": "'By soon, I mean' defines the intended timing of the earlier request as before noon tomorrow."
+        "It makes a vague deadline specific.": "'By \"soon\", I mean' defines the intended timing of the earlier request as before noon tomorrow."
       },
       "audit": {
         "status": "reviewed",
@@ -1803,7 +1803,7 @@
     {
       "id": "coverage-discourse-function-b1-1259",
       "level": "B1",
-      "setupText": "During a presentation, you say, 'Sorry to interrupt, but could you explain what you mean by a trial account?'",
+      "setupText": "During a presentation, you say, 'Sorry to interrupt, but could you explain what you mean by \"a trial account\"?'",
       "taskText": "What does 'Sorry to interrupt' do before the question?",
       "options": [
         "It withdraws the question you were about to ask.",
@@ -2826,7 +2826,7 @@
     {
       "id": "coverage-discourse-function-c1-1292",
       "level": "C1",
-      "setupText": "An author writes, 'I use resilience here to mean the ability to restore basic services after disruption. I do not use it as a synonym for economic growth.'",
+      "setupText": "An author writes, 'I use \"resilience\" here to mean the ability to restore basic services after disruption. I do not use it as a synonym for \"economic growth\".'",
       "taskText": "What is accomplished by adding the second sentence?",
       "options": [
         "The author demonstrates that economic growth is undesirable.",
@@ -3105,7 +3105,7 @@
     {
       "id": "coverage-discourse-function-c2-1301",
       "level": "C2",
-      "setupText": "A response states, 'Calling the review hostile tells us how it was received. The relevant question is whether its specific objections survive scrutiny.'",
+      "setupText": "A response states, 'Calling the review \"hostile\" tells us how it was received. The relevant question is whether its specific objections survive scrutiny.'",
       "taskText": "What argumentative move does the second sentence make?",
       "options": [
         "It infers the reviewer's intention from readers' reactions.",
@@ -3198,7 +3198,7 @@
     {
       "id": "coverage-discourse-function-c2-1304",
       "level": "C2",
-      "setupText": "A critique notes, 'The introduction uses participation to mean attending meetings. The conclusion uses it to mean shaping decisions. The apparent improvement depends on this shift.'",
+      "setupText": "A critique notes, 'The introduction uses \"participation\" to mean attending meetings. The conclusion uses it to mean shaping decisions. The apparent improvement depends on this shift.'",
       "taskText": "What is the final sentence diagnosing?",
       "options": [
         "A disagreement among participants about when meetings occurred",
@@ -3446,7 +3446,7 @@
     {
       "id": "coverage-discourse-function-c2-1312",
       "level": "C2",
-      "setupText": "A reviewer writes, 'The label community is carrying more weight than the analysis supports: it turns a set of neighboring households into a group with supposedly shared priorities.'",
+      "setupText": "A reviewer writes, 'The label \"community\" is carrying more weight than the analysis supports: it turns a set of neighboring households into a group with supposedly shared priorities.'",
       "taskText": "What is the criticism directed at?",
       "options": [
         "The author's decision to study households rather than public organizations",
@@ -3455,10 +3455,10 @@
         "The claim that neighboring households have disagreed about priorities"
       ],
       "answer": "The unsupported inference imported through the chosen label",
-      "explanation": "The reviewer argues that naming neighbors a community makes shared priorities seem established without supplying evidence for them.",
+      "explanation": "The reviewer argues that naming neighbors 'a community' makes shared priorities seem established without supplying evidence for them.",
       "rationales": {
         "The author's decision to study households rather than public organizations": "The objection concerns an inference from the label, not the choice of population itself.",
-        "The unsupported inference imported through the chosen label": "The reviewer argues that naming neighbors a community makes shared priorities seem established without supplying evidence for them.",
+        "The unsupported inference imported through the chosen label": "The reviewer argues that naming neighbors 'a community' makes shared priorities seem established without supplying evidence for them.",
         "The use of an unfamiliar word that readers cannot understand": "The issue is the word's argumentative implications, not its unfamiliarity.",
         "The claim that neighboring households have disagreed about priorities": "The passage criticizes presumed agreement; it does not identify a documented disagreement."
       },

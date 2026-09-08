@@ -2682,7 +2682,7 @@ ___ a settlement, the mediation service will offer a second session.
 
 ID: `coverage-conditionals-c1-924`
 
-Choose the interpretation that explains will in the if-clause.
+Choose the interpretation that explains 'will' in the if-clause.
 
 'If the technicians will share their notes, we can avoid repeating the tests.' The technicians have so far refused to share them.
 
@@ -2691,14 +2691,14 @@ Choose the interpretation that explains will in the if-clause.
 3. If the technicians used to share their notes, repetition can be avoided.
 4. If the technicians are willing to share their notes, repetition can be avoided. **[Correct]**
 
-**Explanation:** Will expresses willingness in this context; the issue is cooperation after a refusal.
+**Explanation:** 'Will' expresses willingness in this context; the issue is cooperation after a refusal.
 
 **Choice feedback:**
 
-- **If sharing has already finished, repetition can be avoided.:** Will share does not mark an already completed action.
+- **If sharing has already finished, repetition can be avoided.:** 'Will share' does not mark an already completed action.
 - **If the technicians are required to share their notes, repetition can be avoided.:** The conditional asks for willingness, not an externally imposed duty.
-- **If the technicians used to share their notes, repetition can be avoided.:** Will here does not describe an old habit; the refusal concerns current cooperation.
-- **If the technicians are willing to share their notes, repetition can be avoided.:** Will expresses willingness in this context; the issue is cooperation after a refusal.
+- **If the technicians used to share their notes, repetition can be avoided.:** 'Will' here does not describe an old habit; the refusal concerns current cooperation.
+- **If the technicians are willing to share their notes, repetition can be avoided.:** 'Will' expresses willingness in this context; the issue is cooperation after a refusal.
 
 **Decision:** replaced.
 
@@ -2714,7 +2714,7 @@ Choose the interpretation that explains will in the if-clause.
 
 ID: `coverage-conditionals-c1-925`
 
-Choose the reading of won't supported by the context.
+Choose the reading of "won't" supported by the context.
 
 The witness is able to answer but refuses. 'If she won't answer voluntarily, we'll end the interview for today.'
 
@@ -2723,12 +2723,12 @@ The witness is able to answer but refuses. 'If she won't answer voluntarily, we'
 3. She has already answered in writing.
 4. She was not expected to attend.
 
-**Explanation:** Won't can express refusal; here the condition concerns unwillingness, not mere future time.
+**Explanation:** "Won't" can express refusal; here the condition concerns unwillingness, not mere future time.
 
 **Choice feedback:**
 
 - **She is physically unable to speak.:** The context explicitly states that she can answer; inability is not the problem.
-- **She remains unwilling to answer.:** Won't can express refusal; here the condition concerns unwillingness, not mere future time.
+- **She remains unwilling to answer.:** "Won't" can express refusal; here the condition concerns unwillingness, not mere future time.
 - **She has already answered in writing.:** No written answer is reported, and the refusal remains active.
 - **She was not expected to attend.:** The condition concerns answering during the interview, not expectations about attendance.
 
@@ -2970,7 +2970,7 @@ Choose the interpretation of the opening phrase.
 
 ID: `coverage-conditionals-c1-933`
 
-Choose the interpretation of were to in this scenario exercise.
+Choose the interpretation of 'were to' in this scenario exercise.
 
 'If the network were to fail during the presentation, how would you continue?'
 
@@ -2979,13 +2979,13 @@ Choose the interpretation of were to in this scenario exercise.
 3. A prospective failure is being imagined for planning purposes. **[Correct]**
 4. The network is required to fail before the presentation.
 
-**Explanation:** Were to presents a possible future event with hypothetical distance so that a response can be planned.
+**Explanation:** 'Were to' presents a possible future event with hypothetical distance so that a response can be planned.
 
 **Choice feedback:**
 
-- **The network failed during an earlier presentation.:** Were to fail here is prospective, not a report of an earlier failure.
+- **The network failed during an earlier presentation.:** 'Were to fail' here is prospective, not a report of an earlier failure.
 - **The network is currently failing.:** The question sets up a scenario rather than reporting an ongoing outage.
-- **A prospective failure is being imagined for planning purposes.:** Were to presents a possible future event with hypothetical distance so that a response can be planned.
+- **A prospective failure is being imagined for planning purposes.:** 'Were to' presents a possible future event with hypothetical distance so that a response can be planned.
 - **The network is required to fail before the presentation.:** The construction describes a hypothetical event, not an obligation for the network.
 
 **Decision:** replaced.
@@ -3130,7 +3130,7 @@ Choose the function of the if-clause.
 
 ID: `coverage-conditionals-c1-938`
 
-Choose the explanation of will in the if-clause.
+Choose the explanation of 'will' in the if-clause.
 
 'I'll redraw the chart if it will make the results easier to compare.'
 
@@ -3145,7 +3145,7 @@ Choose the explanation of will in the if-clause.
 
 - **The redraw depends on the listener's willingness to compare the results.:** The clause concerns the redraw's expected effect, not another person's willingness to cooperate.
 - **The speaker promises to redraw it before assessing whether that will help.:** The expected benefit determines whether to redraw; the promise is conditional rather than unconditional.
-- **The comparison has already become easier.:** Will make points to a prospective effect, not a completed improvement.
+- **The comparison has already become easier.:** 'Will make' points to a prospective effect, not a completed improvement.
 - **The anticipated benefit is the condition for deciding to redraw it.:** The speaker bases the decision to act on the expected usefulness of that action.
 
 **Decision:** replaced.
@@ -3358,7 +3358,7 @@ Choose the interpretation supported by the reply.
 
 ID: `coverage-conditionals-c2-945`
 
-Choose the function of if anything in this response.
+Choose the function of 'if anything' in this response.
 
 'The revisions have made the policy harsher.' 'If anything, they've made it more flexible.'
 
@@ -3367,12 +3367,12 @@ Choose the function of if anything in this response.
 3. Flexibility depends on whether any revision exists.
 4. The speaker agrees that harshness and flexibility increased equally.
 
-**Explanation:** If anything introduces a tentative correction in the opposite direction: more flexible rather than harsher.
+**Explanation:** 'If anything' introduces a tentative correction in the opposite direction: more flexible rather than harsher.
 
 **Choice feedback:**
 
 - **The speaker remains neutral between the two assessments.:** The hedge is cautious, but the speaker does favor the opposite assessment, more flexible.
-- **The speaker cautiously proposes the opposite assessment.:** If anything introduces a tentative correction in the opposite direction: more flexible rather than harsher.
+- **The speaker cautiously proposes the opposite assessment.:** 'If anything' introduces a tentative correction in the opposite direction: more flexible rather than harsher.
 - **Flexibility depends on whether any revision exists.:** This is an idiomatic corrective phrase, not an ordinary event condition.
 - **The speaker agrees that harshness and flexibility increased equally.:** The reply challenges the first assessment; it does not endorse both equally.
 
@@ -3646,7 +3646,7 @@ The overnight log shows no monitoring took place, and we are still reconstructin
 
 ID: `coverage-conditionals-c2-954`
 
-Choose the meaning of if only to in this recommendation.
+Choose the meaning of 'if only to' in this recommendation.
 
 'You should attend the briefing, if only to learn who is responsible for the handover.'
 
@@ -3655,13 +3655,13 @@ Choose the meaning of if only to in this recommendation.
 3. Finding out who is responsible is reason enough to attend, whatever other benefits there may be. **[Correct]**
 4. Whether attendance is advisable remains uncertain until you know who is responsible.
 
-**Explanation:** If only to presents a modest benefit as sufficient reason to attend without excluding additional benefits.
+**Explanation:** 'If only to' presents a modest benefit as sufficient reason to attend without excluding additional benefits.
 
 **Choice feedback:**
 
-- **Attendance is advisable only if finding out who is responsible is your purpose.:** This turns the highlighted reason into a necessary condition on your purpose; if only to offers it as sufficient support for attending.
-- **Finding out who is responsible is the one benefit the speaker allows that attendance could offer.:** Only highlights a minimum justification here; it does not restrict the briefing to a single possible benefit.
-- **Finding out who is responsible is reason enough to attend, whatever other benefits there may be.:** If only to presents a modest benefit as sufficient reason to attend without excluding additional benefits.
+- **Attendance is advisable only if finding out who is responsible is your purpose.:** This turns the highlighted reason into a necessary condition on your purpose; 'if only to' offers it as sufficient support for attending.
+- **Finding out who is responsible is the one benefit the speaker allows that attendance could offer.:** 'Only' highlights a minimum justification here; it does not restrict the briefing to a single possible benefit.
+- **Finding out who is responsible is reason enough to attend, whatever other benefits there may be.:** 'If only to' presents a modest benefit as sufficient reason to attend without excluding additional benefits.
 - **Whether attendance is advisable remains uncertain until you know who is responsible.:** The recommendation is already made. The phrase supplies a reason to attend, not an unresolved condition delaying the advice.
 
 **Decision:** replaced.
@@ -3774,7 +3774,7 @@ Choose what the if-clause qualifies.
 
 ID: `coverage-conditionals-c2-958`
 
-Choose the reading of stressed WILL supported by the speaker's irritation.
+Choose the reading of stressed 'WILL' supported by the speaker's irritation.
 
 'If you WILL keep changing the requirements after approval, you can't expect us to hold the original deadline.'
 
@@ -3787,7 +3787,7 @@ Choose the reading of stressed WILL supported by the speaker's irritation.
 
 **Choice feedback:**
 
-- **A neutral prediction that requirements may change once.:** Stress on WILL and keep changing convey persistence and irritation, not a neutral one-off forecast.
+- **A neutral prediction that requirements may change once.:** Stress on 'WILL' and 'keep changing' convey persistence and irritation, not a neutral one-off forecast.
 - **A statement that a regulation requires the listener to make changes.:** The utterance attributes the behavior to the listener's insistence, not an external rule.
 - **An admission that the speaker already changed the deadline.:** The speaker rejects an expectation; no actual deadline change is reported.
 - **An objection to the listener's persistent insistence on making changes.:** The stressed modal criticizes insistent repeated behavior and links it to an unreasonable expectation.

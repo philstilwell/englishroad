@@ -2200,21 +2200,21 @@ ID: `coverage-everyday-vocabulary-b2-1389`
 
 The roof repairs are essential, although the builder says they can safely wait until next month.
 
-Which interpretation preserves the distinction between essential and urgent?
+Which interpretation preserves the distinction between 'essential' and 'urgent'?
 
 1. The repairs are necessary but not immediately urgent. **[Correct]**
 2. The repairs are optional because they can wait.
 3. The repairs must be completed immediately.
 4. The repairs are mainly decorative improvements.
 
-**Explanation:** Essential describes necessity; urgency concerns how soon action is needed, which the second clause specifies.
+**Explanation:** 'Essential' describes necessity; urgency concerns how soon action is needed, which the second clause specifies.
 
 **Choice feedback:**
 
-- **The repairs are necessary but not immediately urgent.:** Essential describes necessity; urgency concerns how soon action is needed, which the second clause specifies.
+- **The repairs are necessary but not immediately urgent.:** 'Essential' describes necessity; urgency concerns how soon action is needed, which the second clause specifies.
 - **The repairs are optional because they can wait.:** Postponement does not make necessary repairs optional.
-- **The repairs must be completed immediately.:** The sentence explicitly permits waiting; essential does not automatically mean urgent.
-- **The repairs are mainly decorative improvements.:** Essential means necessary, not merely cosmetic.
+- **The repairs must be completed immediately.:** The sentence explicitly permits waiting; 'essential' does not automatically mean 'urgent'.
+- **The repairs are mainly decorative improvements.:** 'Essential' means 'necessary', not 'merely cosmetic'.
 
 **Decision:** replaced.
 

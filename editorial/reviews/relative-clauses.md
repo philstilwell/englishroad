@@ -170,7 +170,7 @@ Amir repairs bicycles. Jo sells bread. Who is Amir?
 
 ID: `coverage-relative-clauses-a1-3126`
 
-Choose the person referred to by who.
+Choose the person referred to by 'who'.
 
 'I thanked the driver who carried my suitcase.'
 
@@ -179,14 +179,14 @@ Choose the person referred to by who.
 3. Another passenger.
 4. The driver. **[Correct]**
 
-**Explanation:** Who refers back to the driver and describes the driver's helpful action.
+**Explanation:** 'Who' refers back to the driver and describes the driver's helpful action.
 
 **Choice feedback:**
 
-- **The speaker.:** I is the speaker who thanked someone, not the person who carried the suitcase in this sentence.
+- **The speaker.:** 'I' is the speaker who thanked someone, not the person who carried the suitcase in this sentence.
 - **The suitcase owner and driver together.:** The relative clause describes the driver alone, not a combined subject.
 - **Another passenger.:** No other passenger is introduced as the person carrying the suitcase.
-- **The driver.:** Who refers back to the driver and describes the driver's helpful action.
+- **The driver.:** 'Who' refers back to the driver and describes the driver's helpful action.
 
 **Decision:** replaced.
 
@@ -586,7 +586,7 @@ Choose what happens at three o'clock.
 
 ID: `coverage-relative-clauses-a1-3139`
 
-Choose what one means in the reply.
+Choose what 'one' means in the reply.
 
 'Which cup would you like?' 'The one that has a handle.'
 
@@ -595,13 +595,13 @@ Choose what one means in the reply.
 3. A handle.
 4. A plate.
 
-**Explanation:** One stands for cup, and that has a handle identifies the chosen cup.
+**Explanation:** 'One' stands for 'cup', and 'that has a handle' identifies the chosen cup.
 
 **Choice feedback:**
 
-- **A cup.:** One stands for cup, and that has a handle identifies the chosen cup.
+- **A cup.:** 'One' stands for 'cup', and 'that has a handle' identifies the chosen cup.
 - **A drink.:** The question asks about a cup, not the drink it may contain.
-- **A handle.:** The handle is the identifying feature, not what one replaces.
+- **A handle.:** The handle is the identifying feature, not what 'one' replaces.
 - **A plate.:** No plate is being selected in the exchange.
 
 **Decision:** replaced.
@@ -1974,7 +1974,7 @@ A leak damaged six flats in a block of thirty. The residents of those six flats 
 
 ID: `coverage-relative-clauses-b2-3182`
 
-Choose what which refers to in this sentence.
+Choose what 'which' refers to in this sentence.
 
 The museum extended its evening opening hours, which made it easier for shift workers to visit.
 
@@ -1983,14 +1983,14 @@ The museum extended its evening opening hours, which made it easier for shift wo
 3. The museum's location
 4. The extension of the opening hours **[Correct]**
 
-**Explanation:** Which comments on the preceding event: extending the hours made visits easier.
+**Explanation:** 'Which' comments on the preceding event: extending the hours made visits easier.
 
 **Choice feedback:**
 
-- **The shift workers who visited:** Shift workers receive the benefit; they are not what which refers back to.
+- **The shift workers who visited:** Shift workers receive the benefit; they are not what 'which' refers back to.
 - **The museum's evening visitors:** The sentence describes a change in access, not a previously mentioned group of visitors.
 - **The museum's location:** No location is supplied as an antecedent; the benefit follows the change in hours.
-- **The extension of the opening hours:** Which comments on the preceding event: extending the hours made visits easier.
+- **The extension of the opening hours:** 'Which' comments on the preceding event: extending the hours made visits easier.
 
 **Decision:** replaced.
 
@@ -2006,7 +2006,7 @@ The museum extended its evening opening hours, which made it easier for shift wo
 
 ID: `coverage-relative-clauses-b2-3183`
 
-Choose the version suited to a formal report that keeps to immediately before the relative pronoun.
+Choose the version suited to a formal report that keeps 'to' immediately before the relative pronoun.
 
 The officer I handed the documents to recorded the delivery.
 
@@ -2015,14 +2015,14 @@ The officer I handed the documents to recorded the delivery.
 3. The officer to whom I handed the documents recorded the delivery. **[Correct]**
 4. The officer to whose I handed the documents recorded the delivery.
 
-**Explanation:** Whom is the formal object form after the fronted preposition to; the recipient remains the officer.
+**Explanation:** 'Whom' is the formal object form after the fronted preposition 'to'; the recipient remains the officer.
 
 **Choice feedback:**
 
-- **The officer to who I handed the documents recorded the delivery.:** In this formal fronted-preposition construction, the report requires to whom; who is natural with a final to.
-- **The officer to that I handed the documents recorded the delivery.:** That cannot directly follow a fronted preposition in a relative clause.
-- **The officer to whom I handed the documents recorded the delivery.:** Whom is the formal object form after the fronted preposition to; the recipient remains the officer.
-- **The officer to whose I handed the documents recorded the delivery.:** Whose needs a possessed noun, such as whose assistant, and cannot stand alone after to here.
+- **The officer to who I handed the documents recorded the delivery.:** In this formal fronted-preposition construction, the report requires 'to whom'; 'who' is natural with a final 'to'.
+- **The officer to that I handed the documents recorded the delivery.:** 'That' cannot directly follow a fronted preposition in a relative clause.
+- **The officer to whom I handed the documents recorded the delivery.:** 'Whom' is the formal object form after the fronted preposition 'to'; the recipient remains the officer.
+- **The officer to whose I handed the documents recorded the delivery.:** 'Whose' needs a possessed noun, such as 'whose assistant', and cannot stand alone after 'to' here.
 
 **Decision:** replaced.
 
@@ -2294,7 +2294,7 @@ There are exactly two versions of the brochure. Each contains an outdated phone 
 
 ID: `coverage-relative-clauses-b2-3192`
 
-Choose the meaning of what in this sentence.
+Choose the meaning of 'what' in this sentence.
 
 We paid what the supplier had charged, then requested an itemized receipt.
 
@@ -2303,14 +2303,14 @@ We paid what the supplier had charged, then requested an itemized receipt.
 3. The person whom the supplier had charged
 4. The amount the supplier had charged **[Correct]**
 
-**Explanation:** What combines an amount with a relative link: the amount that the supplier had charged was paid.
+**Explanation:** 'What' combines an amount with a relative link: the amount that the supplier had charged was paid.
 
 **Choice feedback:**
 
-- **The reason the supplier had charged it:** A reason is not the object of paid here; what identifies the amount paid.
+- **The reason the supplier had charged it:** A reason is not the object of 'paid' here; 'what' identifies the amount paid.
 - **The time when the supplier had sent the charge:** The phrase supplies what was paid, not when a charge was sent.
-- **The person whom the supplier had charged:** The supplier is the payment recipient; what identifies the charged amount, not a billed person.
-- **The amount the supplier had charged:** What combines an amount with a relative link: the amount that the supplier had charged was paid.
+- **The person whom the supplier had charged:** The supplier is the payment recipient; 'what' identifies the charged amount, not a billed person.
+- **The amount the supplier had charged:** 'What' combines an amount with a relative link: the amount that the supplier had charged was paid.
 
 **Decision:** replaced.
 
@@ -2454,7 +2454,7 @@ A warehouse stands beside our office. Its roof was damaged in the storm.
 
 ID: `coverage-relative-clauses-b2-3197`
 
-Choose the interpretation of at which point.
+Choose the interpretation of 'at which point'.
 
 The guest speaker finished her presentation, at which point the audience began asking questions.
 
@@ -2463,14 +2463,14 @@ The guest speaker finished her presentation, at which point the audience began a
 3. Questions began when the presentation ended. **[Correct]**
 4. The audience chose a place to ask questions later.
 
-**Explanation:** Which refers back to the finishing event, and at which point uses that event as the time for questions to begin.
+**Explanation:** 'Which' refers back to the finishing event, and 'at which point' uses that event as the time for questions to begin.
 
 **Choice feedback:**
 
-- **Questions continued throughout the presentation.:** At which point locates the start of questions at the presentation's end, not throughout it.
+- **Questions continued throughout the presentation.:** 'At which point' locates the start of questions at the presentation's end, not throughout it.
 - **The speaker finished after answering the questions.:** The presentation finishes before the questions begin, not after they have been answered.
-- **Questions began when the presentation ended.:** Which refers back to the finishing event, and at which point uses that event as the time for questions to begin.
-- **The audience chose a place to ask questions later.:** Point is a moment in the sequence here, not a physical place chosen for later use.
+- **Questions began when the presentation ended.:** 'Which' refers back to the finishing event, and 'at which point' uses that event as the time for questions to begin.
+- **The audience chose a place to ask questions later.:** 'Point' is a moment in the sequence here, not a physical place chosen for later use.
 
 **Decision:** replaced.
 
@@ -2518,7 +2518,7 @@ The specialist to whom the nurse referred me has moved to another clinic.
 
 ID: `coverage-relative-clauses-b2-3199`
 
-Choose the paraphrase that preserves the abstract meaning of point where.
+Choose the paraphrase that preserves the abstract meaning of 'point where'.
 
 We may reach a point where further discussion will not help.
 
@@ -2527,13 +2527,13 @@ We may reach a point where further discussion will not help.
 3. We may reach a stage at which more discussion is no longer useful. **[Correct]**
 4. We may choose a subject on which discussion will be helpful.
 
-**Explanation:** Point where describes a stage in the process when continuing the discussion stops being useful.
+**Explanation:** 'Point where' describes a stage in the process when continuing the discussion stops being useful.
 
 **Choice feedback:**
 
-- **We may find a place where discussion will be easier to hear.:** This makes point a physical location and changes usefulness to audibility.
-- **We may establish a rule under which discussion is not permitted.:** Not helping is an assessment of usefulness, not a prohibition on discussion.
-- **We may reach a stage at which more discussion is no longer useful.:** Point where describes a stage in the process when continuing the discussion stops being useful.
+- **We may find a place where discussion will be easier to hear.:** This makes 'point' a physical location and changes usefulness to audibility.
+- **We may establish a rule under which discussion is not permitted.:** 'Not helping' is an assessment of usefulness, not a prohibition on discussion.
+- **We may reach a stage at which more discussion is no longer useful.:** 'Point where' describes a stage in the process when continuing the discussion stops being useful.
 - **We may choose a subject on which discussion will be helpful.:** The original identifies a stage at which discussion ceases to help, not a useful subject for it.
 
 **Decision:** replaced.
@@ -2874,7 +2874,7 @@ The analyst whose supervisor the committee interviewed was subsequently invited 
 
 ID: `coverage-relative-clauses-c1-3210`
 
-Choose the interpretation of setting where in context.
+Choose the interpretation of 'setting where' in context.
 
 The training created a setting where junior staff could question established practice without embarrassment.
 
@@ -2883,14 +2883,14 @@ The training created a setting where junior staff could question established pra
 3. The training designated a room in which questions had to be submitted privately.
 4. The training introduced a requirement to revise practices once they were questioned.
 
-**Explanation:** Where introduces an abstract setting: circumstances in which staff felt able to question practice.
+**Explanation:** 'Where' introduces an abstract setting: circumstances in which staff felt able to question practice.
 
 **Choice feedback:**
 
-- **The training provided circumstances favourable to open questioning.:** Where introduces an abstract setting: circumstances in which staff felt able to question practice.
+- **The training provided circumstances favourable to open questioning.:** 'Where' introduces an abstract setting: circumstances in which staff felt able to question practice.
 - **The training prescribed a procedure specifying how questions should be worded.:** A setting permits questioning; it does not itself prescribe the wording or method of questions.
-- **The training designated a room in which questions had to be submitted privately.:** Setting can describe circumstances rather than a physical room, and privacy is not the same as freedom from embarrassment.
-- **The training introduced a requirement to revise practices once they were questioned.:** Could question creates an opportunity, not a requirement that each questioned practice be revised.
+- **The training designated a room in which questions had to be submitted privately.:** 'Setting' can describe circumstances rather than a physical room, and privacy is not the same as freedom from embarrassment.
+- **The training introduced a requirement to revise practices once they were questioned.:** 'Could question' creates an opportunity, not a requirement that each questioned practice be revised.
 
 **Decision:** replaced.
 
@@ -2906,7 +2906,7 @@ The training created a setting where junior staff could question established pra
 
 ID: `coverage-relative-clauses-c1-3211`
 
-Choose the reading that preserves the scope of none.
+Choose the reading that preserves the scope of 'none'.
 
 The panel interviewed four candidates, none of whom had managed a merger, before choosing its new director.
 
@@ -2915,14 +2915,14 @@ The panel interviewed four candidates, none of whom had managed a merger, before
 3. The four interviewees lacked merger-management experience. **[Correct]**
 4. The four candidates had managed mergers but not as directors.
 
-**Explanation:** None of whom applies the lack of merger-management experience to the four interviewees, without extending it to the panel or other candidates.
+**Explanation:** 'None of whom' applies the lack of merger-management experience to the four interviewees, without extending it to the panel or other candidates.
 
 **Choice feedback:**
 
-- **The interview panel lacked merger-management experience.:** Whom refers to the candidates, not the panel members assessing them.
+- **The interview panel lacked merger-management experience.:** 'Whom' refers to the candidates, not the panel members assessing them.
 - **The panel selected someone outside the four interviewees.:** The relative describes the interviewees' experience; it does not show that the eventual selection came from elsewhere.
-- **The four interviewees lacked merger-management experience.:** None of whom applies the lack of merger-management experience to the four interviewees, without extending it to the panel or other candidates.
-- **The four candidates had managed mergers but not as directors.:** None had managed a merger denies that experience; it does not restrict the denial to experience as a director.
+- **The four interviewees lacked merger-management experience.:** 'None of whom' applies the lack of merger-management experience to the four interviewees, without extending it to the panel or other candidates.
+- **The four candidates had managed mergers but not as directors.:** 'None had managed a merger' denies that experience; it does not restrict the denial to experience as a director.
 
 **Decision:** replaced.
 
@@ -3422,7 +3422,7 @@ Whoever is appointed to chair the inquiry must disclose any previous work for th
 
 ID: `coverage-relative-clauses-c2-3227`
 
-Choose the reading of whatever support in context.
+Choose the reading of 'whatever support' in context.
 
 Whatever support the redevelopment proposal once enjoyed has ebbed away during the prolonged consultation.
 
@@ -3431,13 +3431,13 @@ Whatever support the redevelopment proposal once enjoyed has ebbed away during t
 3. The proposal necessarily had little support before consultation began.
 4. The amount of remaining support is being investigated during consultation.
 
-**Explanation:** Whatever support gathers the earlier support without quantifying it, while has ebbed away reports its decline.
+**Explanation:** 'Whatever support' gathers the earlier support without quantifying it, while 'has ebbed away' reports its decline.
 
 **Choice feedback:**
 
-- **The proposal's renewed support depends on shortening the consultation.:** Whatever support is the subject of has ebbed away, not a conditional promise of renewed support.
-- **The proposal's earlier support, of unspecified extent, has diminished.:** Whatever support gathers the earlier support without quantifying it, while has ebbed away reports its decline.
-- **The proposal necessarily had little support before consultation began.:** Whatever leaves the earlier amount unspecified; it need not have been little.
+- **The proposal's renewed support depends on shortening the consultation.:** 'Whatever support' is the subject of 'has ebbed away', not a conditional promise of renewed support.
+- **The proposal's earlier support, of unspecified extent, has diminished.:** 'Whatever support' gathers the earlier support without quantifying it, while 'has ebbed away' reports its decline.
+- **The proposal necessarily had little support before consultation began.:** 'Whatever' leaves the earlier amount unspecified; it need not have been little.
 - **The amount of remaining support is being investigated during consultation.:** The clause identifies the earlier support and reports decline; it is not a question or investigation into an amount.
 
 **Decision:** replaced.
@@ -3454,7 +3454,7 @@ Whatever support the redevelopment proposal once enjoyed has ebbed away during t
 
 ID: `coverage-relative-clauses-c2-3228`
 
-Choose the inference warranted by the relative clause under need.
+Choose the inference warranted by the relative clause under 'need'.
 
 The team needs an adviser who can reconcile the two datasets without discarding the disputed observations.
 
@@ -3463,14 +3463,14 @@ The team needs an adviser who can reconcile the two datasets without discarding 
 3. An existing adviser has agreed to retain the disputed observations.
 4. The team believes that the disputed observations should be discarded before reconciliation.
 
-**Explanation:** Under needs, an adviser who can... describes a requirement; it does not assert an actual person's existence or availability.
+**Explanation:** Under 'needs', 'an adviser who can...' describes a requirement; it does not assert an actual person's existence or availability.
 
 **Choice feedback:**
 
-- **The sentence specifies required expertise without establishing that a suitable adviser exists.:** Under needs, an adviser who can... describes a requirement; it does not assert an actual person's existence or availability.
-- **The team has identified an adviser who has already reconciled the datasets.:** Can states a required ability, not an identified person's completed reconciliation.
+- **The sentence specifies required expertise without establishing that a suitable adviser exists.:** Under 'needs', 'an adviser who can...' describes a requirement; it does not assert an actual person's existence or availability.
+- **The team has identified an adviser who has already reconciled the datasets.:** 'Can' states a required ability, not an identified person's completed reconciliation.
 - **An existing adviser has agreed to retain the disputed observations.:** No existing adviser or agreement is reported by the need statement.
-- **The team believes that the disputed observations should be discarded before reconciliation.:** Without discarding makes retention part of the required solution, not an obstacle to remove first.
+- **The team believes that the disputed observations should be discarded before reconciliation.:** 'Without discarding' makes retention part of the required solution, not an obstacle to remove first.
 
 **Decision:** replaced.
 
@@ -3518,7 +3518,7 @@ A: Few submissions that challenged the policy received a reply. B: The submissio
 
 ID: `coverage-relative-clauses-c2-3230`
 
-Choose the contribution of what little in this sentence.
+Choose the contribution of 'what little' in this sentence.
 
 What little evidence survived the deletion was insufficient to reconstruct the transaction history.
 
@@ -3527,14 +3527,14 @@ What little evidence survived the deletion was insufficient to reconstruct the t
 3. The phrase gathers the small surviving amount as the sentence's subject. **[Correct]**
 4. The phrase limits insufficiency to evidence deleted rather than evidence retained.
 
-**Explanation:** The phrase means the small amount of evidence that survived, and that amount is the subject of was insufficient.
+**Explanation:** The phrase means the small amount of evidence that survived, and that amount is the subject of 'was insufficient'.
 
 **Choice feedback:**
 
-- **The phrase selects a small part of a larger surviving body of evidence.:** What little evidence survived denotes the small surviving total, not a selected fraction of a larger surviving collection.
+- **The phrase selects a small part of a larger surviving body of evidence.:** 'What little evidence survived' denotes the small surviving total, not a selected fraction of a larger surviving collection.
 - **The phrase asks how much evidence survived before judging its quality.:** This is a noun-like relative construction, not an indirect question about quantity.
-- **The phrase gathers the small surviving amount as the sentence's subject.:** The phrase means the small amount of evidence that survived, and that amount is the subject of was insufficient.
-- **The phrase limits insufficiency to evidence deleted rather than evidence retained.:** Survived identifies retained evidence; insufficiency is predicated of that evidence, not the deleted material.
+- **The phrase gathers the small surviving amount as the sentence's subject.:** The phrase means the small amount of evidence that survived, and that amount is the subject of 'was insufficient'.
+- **The phrase limits insufficiency to evidence deleted rather than evidence retained.:** 'Survived' identifies retained evidence; insufficiency is predicated of that evidence, not the deleted material.
 
 **Decision:** replaced.
 
@@ -3710,7 +3710,7 @@ The panel requested an independent valuation, in the absence of which it said it
 
 ID: `coverage-relative-clauses-c2-3236`
 
-Choose the distinction between the two uses of what.
+Choose the distinction between the two uses of 'what'.
 
 A: We archived what the inspector submitted. B: We asked what the inspector submitted.
 
@@ -3719,13 +3719,13 @@ A: We archived what the inspector submitted. B: We asked what the inspector subm
 3. Both uses ask the reader to identify the inspector's submission.
 4. Both uses refer to material that the speaker physically stored.
 
-**Explanation:** In A, what... functions like the material that and is archived; in B, it supplies the content of an indirect question.
+**Explanation:** In A, 'what...' functions like 'the material that' and is archived; in B, it supplies the content of an indirect question.
 
 **Choice feedback:**
 
-- **A refers to submitted material; B presents a question about its identity.:** In A, what... functions like the material that and is archived; in B, it supplies the content of an indirect question.
-- **A questions whether submission occurred; B confirms that the material was archived.:** Archived reports an action on material, while asked does not establish any archiving.
-- **Both uses ask the reader to identify the inspector's submission.:** Only asked introduces a question; archived takes the submitted material as its object.
+- **A refers to submitted material; B presents a question about its identity.:** In A, 'what...' functions like 'the material that' and is archived; in B, it supplies the content of an indirect question.
+- **A questions whether submission occurred; B confirms that the material was archived.:** 'Archived' reports an action on material, while 'asked' does not establish any archiving.
+- **Both uses ask the reader to identify the inspector's submission.:** Only 'asked' introduces a question; 'archived' takes the submitted material as its object.
 - **Both uses refer to material that the speaker physically stored.:** Storage is asserted in A, not in B, where the action is asking.
 
 **Decision:** replaced.
@@ -3806,7 +3806,7 @@ The witness was shown the same contract as the director had signed.
 
 ID: `coverage-relative-clauses-c2-3239`
 
-Choose the reading of such information as in context.
+Choose the reading of 'such information as' in context.
 
 The reviewer assessed the project using such information as the organizers were willing to release.
 
@@ -3815,14 +3815,14 @@ The reviewer assessed the project using such information as the organizers were 
 3. The organizers released the information that the reviewer had already assessed.
 4. The reviewer assessed examples of information rather than the project itself.
 
-**Explanation:** The as clause restricts the available information to what the organizers were willing to release; it need not mean a complete record.
+**Explanation:** The 'as' clause restricts the available information to what the organizers were willing to release; it need not mean a complete record.
 
 **Choice feedback:**
 
-- **The reviewer worked within the information the organizers were prepared to make available.:** The as clause restricts the available information to what the organizers were willing to release; it need not mean a complete record.
-- **The reviewer chose information similar to material the organizers had withheld.:** Such...as identifies the available information here; it does not describe similarity to withheld material.
+- **The reviewer worked within the information the organizers were prepared to make available.:** The 'as' clause restricts the available information to what the organizers were willing to release; it need not mean a complete record.
+- **The reviewer chose information similar to material the organizers had withheld.:** 'Such...as' identifies the available information here; it does not describe similarity to withheld material.
 - **The organizers released the information that the reviewer had already assessed.:** The relative limits the information by willingness to release it, not by an earlier review of that information.
-- **The reviewer assessed examples of information rather than the project itself.:** Such information as is not an examples list here, and project remains the object of assessed.
+- **The reviewer assessed examples of information rather than the project itself.:** 'Such information as' is not an examples list here, and 'project' remains the object of 'assessed'.
 
 **Decision:** replaced.
 

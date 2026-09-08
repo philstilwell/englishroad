@@ -300,20 +300,20 @@ ID: `coverage-comparatives-a1-730`
 
 A: 'How is the traffic today?' B: 'Worse than yesterday. The journey took an extra hour.'
 
-What does worse mean here?
+What does 'worse' mean here?
 
 1. More difficult to travel in **[Correct]**
 2. Easier to travel in
 3. Just as easy to travel in
 4. Better for a quick journey
 
-**Explanation:** Worse is the comparative of bad; the extra travel time supports a poorer situation.
+**Explanation:** 'Worse' is the comparative of 'bad'; the extra travel time supports a poorer situation.
 
 **Choice feedback:**
 
-- **More difficult to travel in:** Worse is the comparative of bad; the extra travel time supports a poorer situation.
+- **More difficult to travel in:** 'Worse' is the comparative of 'bad'; the extra travel time supports a poorer situation.
 - **Easier to travel in:** That would be better traffic, not worse traffic.
-- **Just as easy to travel in:** Worse signals a difference, not an equal travel situation.
+- **Just as easy to travel in:** 'Worse' signals a difference, not an equal travel situation.
 - **Better for a quick journey:** A quicker journey would be an improvement; an extra hour supports the opposite.
 
 **Decision:** replaced.
@@ -492,21 +492,21 @@ ID: `coverage-comparatives-a1-736`
 
 A: 'Which desk do you want?' B: 'The wider one.'
 
-What does one stand for in B's reply?
+What does 'one' stand for in B's reply?
 
 1. person
 2. room
 3. desk **[Correct]**
 4. width
 
-**Explanation:** The wider one means the wider desk. One avoids repeating the countable noun.
+**Explanation:** 'The wider one' means 'the wider desk'. 'One' avoids repeating the countable noun.
 
 **Choice feedback:**
 
 - **person:** The speakers are choosing furniture, not identifying a person.
-- **room:** No room is being selected; wider describes one of the desks.
-- **desk:** The wider one means the wider desk. One avoids repeating the countable noun.
-- **width:** One replaces the thing being compared, not its measurement.
+- **room:** No room is being selected; 'wider' describes one of the desks.
+- **desk:** 'The wider one' means 'the wider desk'. 'One' avoids repeating the countable noun.
+- **width:** 'One' replaces the thing being compared, not its measurement.
 
 **Decision:** replaced.
 
@@ -1364,21 +1364,21 @@ ID: `coverage-comparatives-b1-763`
 
 A: 'I thought last month's waiting list was long.' B: 'This month's is even longer.'
 
-What does even add to B's comparison?
+What does 'even' add to B's comparison?
 
 1. It says the two lists are exactly equal in length.
 2. It says both lists exceeded a fixed official maximum.
 3. It changes the comparison from length to waiting time.
 4. It highlights a further increase beyond an already notable length. **[Correct]**
 
-**Explanation:** Longer gives the increase, while even presents that increase as striking given the first list's length.
+**Explanation:** 'Longer' gives the increase, while 'even' presents that increase as striking given the first list's length.
 
 **Choice feedback:**
 
-- **It says the two lists are exactly equal in length.:** Even modifies longer here; it does not mean equal as it can in other contexts.
-- **It says both lists exceeded a fixed official maximum.:** Even highlights the new list's greater length but supplies no official limit for either list.
-- **It changes the comparison from length to waiting time.:** Waiting time may be related, but even does not change what longer compares.
-- **It highlights a further increase beyond an already notable length.:** Longer gives the increase, while even presents that increase as striking given the first list's length.
+- **It says the two lists are exactly equal in length.:** 'Even' modifies 'longer' here; it does not mean 'equal' as it can in other contexts.
+- **It says both lists exceeded a fixed official maximum.:** 'Even' highlights the new list's greater length but supplies no official limit for either list.
+- **It changes the comparison from length to waiting time.:** Waiting time may be related, but 'even' does not change what 'longer' compares.
+- **It highlights a further increase beyond an already notable length.:** 'Longer' gives the increase, while 'even' presents that increase as striking given the first list's length.
 
 **Decision:** replaced.
 
@@ -1524,21 +1524,21 @@ ID: `coverage-comparatives-b1-768`
 
 The exhibition has six rooms. A visitor says, 'The final room is by far the brightest.'
 
-What does by far add?
+What does 'by far' add?
 
 1. The final room is only slightly brighter than the others.
 2. The final room's brightness is well above the others'. **[Correct]**
 3. The final room is the greatest distance from the entrance.
 4. All six rooms have almost the same brightness.
 
-**Explanation:** By far strengthens a superlative by presenting a substantial difference from the rest.
+**Explanation:** 'By far' strengthens a superlative by presenting a substantial difference from the rest.
 
 **Choice feedback:**
 
-- **The final room is only slightly brighter than the others.:** By far emphasizes a large lead, not a tiny one.
-- **The final room's brightness is well above the others'.:** By far strengthens a superlative by presenting a substantial difference from the rest.
-- **The final room is the greatest distance from the entrance.:** By far modifies the brightness ranking, not physical distance here.
-- **All six rooms have almost the same brightness.:** That would remove the clear lead expressed by by far the brightest.
+- **The final room is only slightly brighter than the others.:** 'By far' emphasizes a large lead, not a tiny one.
+- **The final room's brightness is well above the others'.:** 'By far' strengthens a superlative by presenting a substantial difference from the rest.
+- **The final room is the greatest distance from the entrance.:** 'By far' modifies the brightness ranking, not physical distance here.
+- **All six rooms have almost the same brightness.:** That would remove the clear lead expressed by 'by far the brightest'.
 
 **Decision:** replaced.
 
@@ -2812,21 +2812,21 @@ ID: `coverage-comparatives-c1-808`
 
 The organiser writes, 'As few as six people came to the public session.'
 
-What stance does as few as communicate here?
+What stance does 'as few as' communicate here?
 
 1. The attendance is given only as a maximum of six.
 2. Six is described as the minimum attendance required to hold the session.
 3. Six people came in addition to the usual attendees.
 4. The attendance is presented as notably low. **[Correct]**
 
-**Explanation:** As few as frames six as a surprisingly or notably small count in context.
+**Explanation:** 'As few as' frames six as a surprisingly or notably small count in context.
 
 **Choice feedback:**
 
-- **The attendance is given only as a maximum of six.:** As few as highlights the low figure; at most six would state only an upper bound.
+- **The attendance is given only as a maximum of six.:** 'As few as' highlights the low figure; 'at most six' would state only an upper bound.
 - **Six is described as the minimum attendance required to hold the session.:** The sentence reports turnout; it does not establish a procedural minimum.
-- **Six people came in addition to the usual attendees.:** As few as modifies the reported total, not an added subgroup.
-- **The attendance is presented as notably low.:** As few as frames six as a surprisingly or notably small count in context.
+- **Six people came in addition to the usual attendees.:** 'As few as' modifies the reported total, not an added subgroup.
+- **The attendance is presented as notably low.:** 'As few as' frames six as a surprisingly or notably small count in context.
 
 **Decision:** replaced.
 
@@ -3616,21 +3616,21 @@ ID: `coverage-comparatives-c2-833`
 
 A: 'Half the catalogue entries name the wrong artist.' B: 'Then calling it less than perfect was rather generous.'
 
-How does B treat the phrase less than perfect in this exchange?
+How does B treat the phrase 'less than perfect' in this exchange?
 
 1. As a precise estimate that nearly all entries are correct
 2. As a comparative ranking of this catalogue below another named catalogue
 3. As an understatement whose weak benchmark understates the seriousness of the faults **[Correct]**
 4. As a rejection of all useful content in the catalogue
 
-**Explanation:** Less than perfect literally excludes perfection; the extensive errors make that restrained description seem overly mild to B.
+**Explanation:** 'Less than perfect' literally excludes perfection; the extensive errors make that restrained description seem overly mild to B.
 
 **Choice feedback:**
 
 - **As a precise estimate that nearly all entries are correct:** The phrase does not quantify correctness, and the exchange gives substantial errors rather than near-perfection.
 - **As a comparative ranking of this catalogue below another named catalogue:** Perfection is the benchmark; no second catalogue is named for comparison.
-- **As an understatement whose weak benchmark understates the seriousness of the faults:** Less than perfect literally excludes perfection; the extensive errors make that restrained description seem overly mild to B.
-- **As a rejection of all useful content in the catalogue:** Neither less than perfect nor B's criticism establishes that every part lacks value.
+- **As an understatement whose weak benchmark understates the seriousness of the faults:** 'Less than perfect' literally excludes perfection; the extensive errors make that restrained description seem overly mild to B.
+- **As a rejection of all useful content in the catalogue:** Neither 'less than perfect' nor B's criticism establishes that every part lacks value.
 
 **Decision:** replaced.
 
@@ -3744,20 +3744,20 @@ ID: `coverage-comparatives-c2-837`
 
 A review says, 'The proposal deserves attention, not least because it addresses the maintenance costs that earlier plans ignored.'
 
-What role does not least assign to the following reason?
+What role does 'not least' assign to the following reason?
 
 1. It ranks maintenance costs below every other reason for considering the proposal.
 2. It identifies maintenance costs as the sole reason that justifies attention.
 3. It marks that reason as especially important without claiming it is the only reason. **[Correct]**
 4. It withdraws the maintenance argument while preserving the other reasons.
 
-**Explanation:** Not least uses a negated lowest-rank expression to give the named reason prominence among possible reasons.
+**Explanation:** 'Not least' uses a negated lowest-rank expression to give the named reason prominence among possible reasons.
 
 **Choice feedback:**
 
 - **It ranks maintenance costs below every other reason for considering the proposal.:** The phrase gives this reason emphasis rather than placing it at the bottom.
-- **It identifies maintenance costs as the sole reason that justifies attention.:** Not least highlights a reason without excluding others.
-- **It marks that reason as especially important without claiming it is the only reason.:** Not least uses a negated lowest-rank expression to give the named reason prominence among possible reasons.
+- **It identifies maintenance costs as the sole reason that justifies attention.:** 'Not least' highlights a reason without excluding others.
+- **It marks that reason as especially important without claiming it is the only reason.:** 'Not least' uses a negated lowest-rank expression to give the named reason prominence among possible reasons.
 - **It withdraws the maintenance argument while preserving the other reasons.:** The negation does not reject the reason; it denies that the reason should be treated as insignificant.
 
 **Decision:** replaced.

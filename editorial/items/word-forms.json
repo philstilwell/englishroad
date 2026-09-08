@@ -36,7 +36,7 @@
     {
       "id": "coverage-word-forms-a1-3962",
       "level": "A1",
-      "setupText": "Choose the action form that follows can.",
+      "setupText": "Choose the action form that follows 'can'.",
       "taskText": "On Friday, I can ___ from home.",
       "options": [
         "worker",
@@ -45,12 +45,12 @@
         "worked"
       ],
       "answer": "work",
-      "explanation": "Can is followed by the base form of a verb: can work.",
+      "explanation": "'Can' is followed by the base form of a verb: 'can work'.",
       "rationales": {
-        "worker": "Worker names a person, not the action after can.",
-        "working": "After can, use the base verb work, not the -ing form.",
-        "work": "Can is followed by the base form of a verb: can work.",
-        "worked": "Worked is a past form; can takes work without a past ending."
+        "worker": "'Worker' names a person, not the action after 'can'.",
+        "working": "After 'can', use the base verb 'work', not the '-ing' form.",
+        "work": "'Can' is followed by the base form of a verb: 'can work'.",
+        "worked": "'Worked' is a past form; 'can' takes 'work' without a past ending."
       },
       "audit": {
         "status": "reviewed",
@@ -222,7 +222,7 @@
     {
       "id": "coverage-word-forms-a1-3968",
       "level": "A1",
-      "setupText": "Choose the usual meaning of cleaner when it names a job.",
+      "setupText": "Choose the usual meaning of 'cleaner' when it names a job.",
       "taskText": "Marta works as a cleaner.",
       "options": [
         "Marta cleans rooms or buildings as her job.",
@@ -231,10 +231,10 @@
         "Marta works in a room that is very clean."
       ],
       "answer": "Marta cleans rooms or buildings as her job.",
-      "explanation": "Cleaner can name a person whose work is cleaning.",
+      "explanation": "'Cleaner' can name a person whose work is cleaning.",
       "rationales": {
-        "Marta owns a shop selling cleaning products.": "Selling cleaning products is not the job named by cleaner.",
-        "Marta cleans rooms or buildings as her job.": "Cleaner can name a person whose work is cleaning.",
+        "Marta owns a shop selling cleaning products.": "Selling cleaning products is not the job named by 'cleaner'.",
+        "Marta cleans rooms or buildings as her job.": "'Cleaner' can name a person whose work is cleaning.",
         "Marta needs someone to clean her home.": "Needing a cleaner does not mean working as one.",
         "Marta works in a room that is very clean.": "A clean workplace does not identify the worker's occupation."
       },
@@ -253,7 +253,7 @@
     {
       "id": "coverage-word-forms-a1-3969",
       "level": "A1",
-      "setupText": "Choose the present-tense action word after we.",
+      "setupText": "Choose the present-tense action word after 'we'.",
       "taskText": "We ___ vegetables in our small garden.",
       "options": [
         "grown",
@@ -262,12 +262,12 @@
         "growing"
       ],
       "answer": "grow",
-      "explanation": "Use grow with we in the present simple: we grow vegetables.",
+      "explanation": "Use 'grow' with 'we' in the present simple: 'we grow vegetables'.",
       "rationales": {
-        "grown": "Grown is a past participle; it cannot stand alone as the present verb after we.",
-        "grower": "Grower names a person or business that grows things, not the action in this sentence.",
-        "grow": "Use grow with we in the present simple: we grow vegetables.",
-        "growing": "For an action happening now, say 'we are growing'; growing alone is incomplete here."
+        "grown": "'Grown' is a past participle; it cannot stand alone as the present verb after 'we'.",
+        "grower": "'Grower' names a person or business that grows things, not the action in this sentence.",
+        "grow": "Use 'grow' with 'we' in the present simple: 'we grow vegetables'.",
+        "growing": "For an action happening now, say 'we are growing'; 'growing' alone is incomplete here."
       },
       "audit": {
         "status": "reviewed",
@@ -377,7 +377,7 @@
     {
       "id": "coverage-word-forms-a1-3973",
       "level": "A1",
-      "setupText": "Choose the form used for an activity after enjoy.",
+      "setupText": "Choose the form used for an activity after 'enjoy'.",
       "taskText": "I enjoy ___ the newspaper with breakfast.",
       "options": [
         "read",
@@ -386,12 +386,12 @@
         "reading"
       ],
       "answer": "reading",
-      "explanation": "Enjoy can be followed by an -ing activity: enjoy reading the newspaper.",
+      "explanation": "'Enjoy' can be followed by an '-ing' activity: 'enjoy reading the newspaper'.",
       "rationales": {
-        "read": "After enjoy, use the -ing form to name an activity: enjoy reading.",
-        "reader": "Reader names a person, not the activity enjoyed.",
-        "reads": "Reads is a present-tense verb form for he or she, not the activity after enjoy.",
-        "reading": "Enjoy can be followed by an -ing activity: enjoy reading the newspaper."
+        "read": "After 'enjoy', use the '-ing' form to name an activity: 'enjoy reading'.",
+        "reader": "'Reader' names a person, not the activity enjoyed.",
+        "reads": "'Reads' is a present-tense verb form for 'he' or 'she', not the activity after 'enjoy'.",
+        "reading": "'Enjoy' can be followed by an '-ing' activity: 'enjoy reading the newspaper'."
       },
       "audit": {
         "status": "reviewed",
@@ -439,7 +439,7 @@
     {
       "id": "coverage-word-forms-a1-3975",
       "level": "A1",
-      "setupText": "Choose the action form after is for something happening now.",
+      "setupText": "Choose the action form after 'is' for something happening now.",
       "taskText": "Amina is ___ at the market right now.",
       "options": [
         "shop",
@@ -448,12 +448,12 @@
         "shopper"
       ],
       "answer": "shopping",
-      "explanation": "Is shopping is the present continuous form for her activity now.",
+      "explanation": "'Is shopping' is the present continuous form for her activity now.",
       "rationales": {
-        "shopping": "Is shopping is the present continuous form for her activity now.",
-        "shop": "The base verb shop does not follow is to form this continuing action.",
-        "shops": "Shops belongs in 'Amina shops'; after is, use shopping.",
-        "shopper": "Shopper names a person and would need an article; it does not express the ongoing action here."
+        "shopping": "'Is shopping' is the present continuous form for her activity now.",
+        "shop": "The base verb 'shop' does not follow 'is' to form this continuing action.",
+        "shops": "'Shops' belongs in 'Amina shops'; after 'is', use 'shopping'.",
+        "shopper": "'Shopper' names a person and would need an article; it does not express the ongoing action here."
       },
       "audit": {
         "status": "reviewed",
@@ -470,7 +470,7 @@
     {
       "id": "coverage-word-forms-a1-3976",
       "level": "A1",
-      "setupText": "Choose the word that means not happy.",
+      "setupText": "Choose the word that means 'not happy'.",
       "taskText": "The customer is ___ with the broken chair.",
       "options": [
         "happier",
@@ -479,12 +479,12 @@
         "unhappy"
       ],
       "answer": "unhappy",
-      "explanation": "The prefix un- makes happy negative: unhappy means not happy.",
+      "explanation": "The prefix 'un-' makes 'happy' negative: 'unhappy' means 'not happy'.",
       "rationales": {
-        "happier": "Happier means more happy, not unhappy.",
-        "happiness": "Happiness names the feeling; it does not describe the customer after is.",
-        "unhappy": "The prefix un- makes happy negative: unhappy means not happy.",
-        "happily": "Happily describes how an action happens, not this negative feeling."
+        "happier": "'Happier' means 'more happy', not 'unhappy'.",
+        "happiness": "'Happiness' names the feeling; it does not describe the customer after 'is'.",
+        "unhappy": "The prefix 'un-' makes 'happy' negative: 'unhappy' means 'not happy'.",
+        "happily": "'Happily' describes how an action happens, not this negative feeling."
       },
       "audit": {
         "status": "reviewed",
@@ -594,7 +594,7 @@
     {
       "id": "coverage-word-forms-a1-3980",
       "level": "A1",
-      "setupText": "What does the word swimming name in this sentence?",
+      "setupText": "What does the word 'swimming' name in this sentence?",
       "taskText": "Swimming is my favourite exercise.",
       "options": [
         "An activity.",
@@ -603,12 +603,12 @@
         "A quality of the exercise."
       ],
       "answer": "An activity.",
-      "explanation": "An -ing form can name an activity and act as the subject: swimming is exercise.",
+      "explanation": "An '-ing' form can name an activity and act as the subject: 'swimming is exercise'.",
       "rationales": {
-        "A person who exercises.": "That person could be a swimmer; swimming names what they do.",
-        "A place for exercise.": "The place might be a swimming pool, but swimming alone names the activity.",
-        "A quality of the exercise.": "The word favourite describes a quality here; swimming identifies the activity.",
-        "An activity.": "An -ing form can name an activity and act as the subject: swimming is exercise."
+        "A person who exercises.": "That person could be a swimmer; 'swimming' names what they do.",
+        "A place for exercise.": "The place might be a swimming pool, but 'swimming' alone names the activity.",
+        "A quality of the exercise.": "The word 'favourite' describes a quality here; 'swimming' identifies the activity.",
+        "An activity.": "An '-ing' form can name an activity and act as the subject: 'swimming is exercise'."
       },
       "audit": {
         "status": "reviewed",
@@ -780,7 +780,7 @@
     {
       "id": "coverage-word-forms-a2-3986",
       "level": "A2",
-      "setupText": "Choose the usual noun used before time on a flight timetable.",
+      "setupText": "Choose the usual noun used before 'time' on a flight timetable.",
       "taskText": "The screen shows our flight's ___ time as 18:40.",
       "options": [
         "arrive",
@@ -789,12 +789,12 @@
         "arrival"
       ],
       "answer": "arrival",
-      "explanation": "Arrival is a noun that can modify another noun: arrival time means the time of arriving.",
+      "explanation": "'Arrival' is a noun that can modify another noun: 'arrival time' means the time of arriving.",
       "rationales": {
-        "arrival": "Arrival is a noun that can modify another noun: arrival time means the time of arriving.",
-        "arrive": "Arrive is the verb, not the usual noun modifier in arrival time.",
-        "arrived": "Arrived is a past verb form; arrived time is not the normal timetable label.",
-        "arriving": "Arriving describes the action or a flight, but arrival time is the conventional noun combination requested."
+        "arrival": "'Arrival' is a noun that can modify another noun: 'arrival time' means the time of arriving.",
+        "arrive": "'Arrive' is the verb, not the usual noun modifier in 'arrival time'.",
+        "arrived": "'Arrived' is a past verb form; 'arrived time' is not the normal timetable label.",
+        "arriving": "'Arriving' describes the action or a flight, but 'arrival time' is the conventional noun combination requested."
       },
       "audit": {
         "status": "reviewed",
@@ -842,7 +842,7 @@
     {
       "id": "coverage-word-forms-a2-3988",
       "level": "A2",
-      "setupText": "Choose the adjective meaning pleasant to sit on, not unpleasant.",
+      "setupText": "Choose the adjective meaning 'pleasant to sit on', not 'unpleasant'.",
       "taskText": "This sofa is very ___.",
       "options": [
         "comfortably",
@@ -851,12 +851,12 @@
         "uncomfortable"
       ],
       "answer": "comfortable",
-      "explanation": "Comfortable is the adjective for a sofa that feels pleasant to sit on.",
+      "explanation": "'Comfortable' is the adjective for a sofa that feels pleasant to sit on.",
       "rationales": {
-        "comfortably": "Comfortably describes an action, as in sit comfortably; the sofa itself is comfortable.",
-        "comfort": "Comfort names the pleasant feeling, not the adjective describing the sofa.",
-        "comfortable": "Comfortable is the adjective for a sofa that feels pleasant to sit on.",
-        "uncomfortable": "Uncomfortable is also an adjective, but un- gives the opposite meaning from the one requested."
+        "comfortably": "'Comfortably' describes an action, as in 'sit comfortably'; the sofa itself is comfortable.",
+        "comfort": "'Comfort' names the pleasant feeling, not the adjective describing the sofa.",
+        "comfortable": "'Comfortable' is the adjective for a sofa that feels pleasant to sit on.",
+        "uncomfortable": "'Uncomfortable' is also an adjective, but 'un-' gives the opposite meaning from the one requested."
       },
       "audit": {
         "status": "reviewed",
@@ -1276,7 +1276,7 @@
     {
       "id": "coverage-word-forms-b1-4002",
       "level": "B1",
-      "setupText": "Choose the adjective meaning private and not to be shared without permission.",
+      "setupText": "Choose the adjective meaning 'private and not to be shared without permission'.",
       "taskText": "The recruitment notes are ___. Please do not forward them.",
       "options": [
         "confident",
@@ -1285,12 +1285,12 @@
         "confiding"
       ],
       "answer": "confidential",
-      "explanation": "Confidential describes information intended to remain private.",
+      "explanation": "'Confidential' describes information intended to remain private.",
       "rationales": {
-        "confident": "Confident describes assurance or certainty, not information that must be kept private.",
-        "confidential": "Confidential describes information intended to remain private.",
-        "confidence": "Confidence is a noun for trust or assurance; the notes need an adjective here.",
-        "confiding": "Confiding describes someone willing to share private thoughts, not documents that should be kept private."
+        "confident": "'Confident' describes assurance or certainty, not information that must be kept private.",
+        "confidential": "'Confidential' describes information intended to remain private.",
+        "confidence": "'Confidence' is a noun for trust or assurance; the notes need an adjective here.",
+        "confiding": "'Confiding' describes someone willing to share private thoughts, not documents that should be kept private."
       },
       "audit": {
         "status": "reviewed",
@@ -1307,7 +1307,7 @@
     {
       "id": "coverage-word-forms-b1-4003",
       "level": "B1",
-      "setupText": "Choose the form after it is that describes whether something could happen.",
+      "setupText": "Choose the form after 'it is' that describes whether something could happen.",
       "taskText": "It is ___ that the last train will be cancelled.",
       "options": [
         "possibility",
@@ -1316,12 +1316,12 @@
         "possibilities"
       ],
       "answer": "possible",
-      "explanation": "Possible is an adjective followed here by a that clause describing what may happen.",
+      "explanation": "'Possible' is an adjective followed here by a 'that' clause describing what may happen.",
       "rationales": {
-        "possibility": "Possibility is a count noun here and would need a different pattern, such as 'There is a possibility that ...'.",
-        "possibly": "Possibly is an adverb: 'The train will possibly be cancelled.' It does not fill this adjective position.",
-        "possibilities": "Possibilities is a plural noun, not the adjective in 'It is possible that ...'.",
-        "possible": "Possible is an adjective followed here by a that clause describing what may happen."
+        "possibility": "'Possibility' is a count noun here and would need a different pattern, such as 'There is a possibility that ...'.",
+        "possibly": "'Possibly' is an adverb: 'The train will possibly be cancelled.' It does not fill this adjective position.",
+        "possibilities": "'Possibilities' is a plural noun, not the adjective in 'It is possible that ...'.",
+        "possible": "'Possible' is an adjective followed here by a 'that' clause describing what may happen."
       },
       "audit": {
         "status": "reviewed",
@@ -1493,7 +1493,7 @@
     {
       "id": "coverage-word-forms-b1-4009",
       "level": "B1",
-      "setupText": "Choose the verb meaning to make the pass ready for use.",
+      "setupText": "Choose the verb meaning 'to make the pass ready for use'.",
       "taskText": "Use this code to ___ your new travel pass.",
       "options": [
         "activate",
@@ -1502,12 +1502,12 @@
         "actively"
       ],
       "answer": "activate",
-      "explanation": "Activate is the verb meaning to make something active or ready for use.",
+      "explanation": "'Activate' is the verb meaning to make something active or ready for use.",
       "rationales": {
-        "activity": "Activity names something done, not the action of making the pass usable.",
-        "active": "Active is an adjective describing a usable or working state; after to here, supply the verb activate.",
-        "actively": "Actively describes how someone acts, but it does not provide the action required.",
-        "activate": "Activate is the verb meaning to make something active or ready for use."
+        "activity": "'Activity' names something done, not the action of making the pass usable.",
+        "active": "'Active' is an adjective describing a usable or working state; after 'to' here, supply the verb 'activate'.",
+        "actively": "'Actively' describes how someone acts, but it does not provide the action required.",
+        "activate": "'Activate' is the verb meaning to make something active or ready for use."
       },
       "audit": {
         "status": "reviewed",
@@ -1525,7 +1525,7 @@
       "id": "coverage-word-forms-b1-4010",
       "level": "B1",
       "setupText": "Choose the verb asking the speaker to make their meaning clearer.",
-      "taskText": "Could you ___ what you mean by flexible hours?",
+      "taskText": "Could you ___ what you mean by 'flexible hours'?",
       "options": [
         "clarity",
         "clearly",
@@ -1533,12 +1533,12 @@
         "clarification"
       ],
       "answer": "clarify",
-      "explanation": "Clarify means make something clearer; it can introduce the matter to be explained.",
+      "explanation": "'Clarify' means make something clearer; it can introduce the matter to be explained.",
       "rationales": {
-        "clarity": "Clarity names a quality of language; could you needs an action verb.",
-        "clarify": "Clarify means make something clearer; it can introduce the matter to be explained.",
-        "clearly": "Clearly is an adverb and needs a separate action, such as explain clearly.",
-        "clarification": "Clarification is the noun, as in ask for clarification, not the verb after could you."
+        "clarity": "'Clarity' names a quality of language; 'could you' needs an action verb.",
+        "clarify": "'Clarify' means make something clearer; it can introduce the matter to be explained.",
+        "clearly": "'Clearly' is an adverb and needs a separate action, such as 'explain clearly'.",
+        "clarification": "'Clarification' is the noun, as in 'ask for clarification', not the verb after 'could you'."
       },
       "audit": {
         "status": "reviewed",
@@ -1710,7 +1710,7 @@
     {
       "id": "coverage-word-forms-b1-4016",
       "level": "B1",
-      "setupText": "Choose the activity form that follows difficulty in this sentence.",
+      "setupText": "Choose the activity form that follows 'difficulty' in this sentence.",
       "taskText": "We had difficulty ___ the old window.",
       "options": [
         "opening",
@@ -1719,12 +1719,12 @@
         "opener"
       ],
       "answer": "opening",
-      "explanation": "Have difficulty can be followed directly by an -ing activity: difficulty opening the window.",
+      "explanation": "'Have difficulty' can be followed directly by an '-ing' activity: 'difficulty opening the window'.",
       "rationales": {
-        "open": "After have difficulty, use an -ing activity, not a bare verb.",
-        "opened": "Opened is a past form and does not introduce the difficult activity after difficulty.",
-        "opener": "Opener names a person or tool, not the activity we had trouble doing.",
-        "opening": "Have difficulty can be followed directly by an -ing activity: difficulty opening the window."
+        "open": "After 'have difficulty', use an '-ing' activity, not a bare verb.",
+        "opened": "'Opened' is a past form and does not introduce the difficult activity after 'difficulty'.",
+        "opener": "'Opener' names a person or tool, not the activity we had trouble doing.",
+        "opening": "'Have difficulty' can be followed directly by an '-ing' activity: 'difficulty opening the window'."
       },
       "audit": {
         "status": "reviewed",
@@ -1741,7 +1741,7 @@
     {
       "id": "coverage-word-forms-b1-4017",
       "level": "B1",
-      "setupText": "Choose the adverb meaning without needing another person's help.",
+      "setupText": "Choose the adverb meaning \"without needing another person's help\".",
       "taskText": "After training, the new staff can complete these tasks ___.",
       "options": [
         "independently",
@@ -1750,12 +1750,12 @@
         "dependent"
       ],
       "answer": "independently",
-      "explanation": "Independently describes doing the tasks without relying on another person's help.",
+      "explanation": "'Independently' describes doing the tasks without relying on another person's help.",
       "rationales": {
-        "independent": "Independent describes a person or thing; the sentence needs a word describing how tasks are completed.",
-        "independently": "Independently describes doing the tasks without relying on another person's help.",
-        "independence": "Independence names the state or quality, not the manner of completing tasks.",
-        "dependent": "Dependent is an adjective for reliance on something or someone, not the requested adverb or meaning."
+        "independent": "'Independent' describes a person or thing; the sentence needs a word describing how tasks are completed.",
+        "independently": "'Independently' describes doing the tasks without relying on another person's help.",
+        "independence": "'Independence' names the state or quality, not the manner of completing tasks.",
+        "dependent": "'Dependent' is an adjective for reliance on something or someone, not the requested adverb or meaning."
       },
       "audit": {
         "status": "reviewed",
@@ -1927,7 +1927,7 @@
     {
       "id": "coverage-word-forms-b2-4023",
       "level": "B2",
-      "setupText": "Choose the meaning of calculated in this business account.",
+      "setupText": "Choose the meaning of 'calculated' in this business account.",
       "taskText": "Opening the second shop was a calculated risk.",
       "options": [
         "The owners discovered the risk only after opening the shop.",
@@ -1939,7 +1939,7 @@
       "explanation": "A calculated risk is taken after considering its possible consequences; it need not involve an exact numerical calculation.",
       "rationales": {
         "The owners considered the possible gains and losses before taking the risk.": "A calculated risk is taken after considering its possible consequences; it need not involve an exact numerical calculation.",
-        "The owners discovered the risk only after opening the shop.": "Calculated presents the choice as considered in advance, not recognized only afterwards.",
+        "The owners discovered the risk only after opening the shop.": "'Calculated' presents the choice as considered in advance, not recognized only afterwards.",
         "The owners established the precise financial value of every possible outcome.": "The adjective does not require exact figures for every outcome.",
         "The owners opened the shop because the risk had already disappeared.": "A calculated risk remains a risk, even when it has been considered carefully."
       },
@@ -2051,7 +2051,7 @@
     {
       "id": "coverage-word-forms-b2-4027",
       "level": "B2",
-      "setupText": "Choose the role named by distributor in this supply-chain description.",
+      "setupText": "Choose the role named by 'distributor' in this supply-chain description.",
       "taskText": "The company acts as a distributor for several small manufacturers.",
       "options": [
         "It designs the products that the manufacturers then produce.",
@@ -2060,11 +2060,11 @@
         "It supplies the manufacturers' products to shops or other buyers."
       ],
       "answer": "It supplies the manufacturers' products to shops or other buyers.",
-      "explanation": "A distributor is a person or business that supplies goods to retailers or other buyers; distribution names that activity.",
+      "explanation": "A distributor is a person or business that supplies goods to retailers or other buyers; 'distribution' names that activity.",
       "rationales": {
         "It designs the products that the manufacturers then produce.": "Designing products is not the distribution role identified here.",
         "It combines the manufacturers into a single new business.": "Distribution concerns supplying products, not merging companies.",
-        "It supplies the manufacturers' products to shops or other buyers.": "A distributor is a person or business that supplies goods to retailers or other buyers; distribution names that activity.",
+        "It supplies the manufacturers' products to shops or other buyers.": "A distributor is a person or business that supplies goods to retailers or other buyers; 'distribution' names that activity.",
         "It buys the manufacturers' products only for use by its own employees.": "That describes an end user, not a business acting as their distributor."
       },
       "audit": {
@@ -2082,7 +2082,7 @@
     {
       "id": "coverage-word-forms-b2-4028",
       "level": "B2",
-      "setupText": "Which interpretation of contributory is supported here?",
+      "setupText": "Which interpretation of 'contributory' is supported here?",
       "taskText": "Poor lighting was a contributory factor in the mistake.",
       "options": [
         "The mistake could not have happened if the lighting had been good.",
@@ -2091,12 +2091,12 @@
         "Poor lighting accompanied the mistake but did not affect whether it occurred."
       ],
       "answer": "Poor lighting helped bring about the mistake.",
-      "explanation": "Contributory means helping to cause a result, without specifying necessity or sufficiency.",
+      "explanation": "'Contributory' means helping to cause a result, without specifying necessity or sufficiency.",
       "rationales": {
-        "The mistake could not have happened if the lighting had been good.": "Contributory does not establish that poor lighting was a necessary condition.",
+        "The mistake could not have happened if the lighting had been good.": "'Contributory' does not establish that poor lighting was a necessary condition.",
         "Poor lighting made the mistake inevitable regardless of the other circumstances.": "A contribution to a mistake does not establish that it guaranteed the mistake.",
-        "Poor lighting accompanied the mistake but did not affect whether it occurred.": "Contributory attributes a causal role, not mere coincidence without an effect.",
-        "Poor lighting helped bring about the mistake.": "Contributory means helping to cause a result, without specifying necessity or sufficiency."
+        "Poor lighting accompanied the mistake but did not affect whether it occurred.": "'Contributory' attributes a causal role, not mere coincidence without an effect.",
+        "Poor lighting helped bring about the mistake.": "'Contributory' means helping to cause a result, without specifying necessity or sufficiency."
       },
       "audit": {
         "status": "reviewed",
@@ -2144,7 +2144,7 @@
     {
       "id": "coverage-word-forms-b2-4030",
       "level": "B2",
-      "setupText": "Choose the meaning of demanding when it describes a role.",
+      "setupText": "Choose the meaning of 'demanding' when it describes a role.",
       "taskText": "Managing the evening service is a demanding role.",
       "options": [
         "Someone has formally requested that the role be created.",
@@ -2153,11 +2153,11 @@
         "The role consists mainly of making requests to other departments."
       ],
       "answer": "The role requires considerable effort, attention, or skill.",
-      "explanation": "Demanding is an adjective meaning requiring a great deal from the person doing the work.",
+      "explanation": "'Demanding' is an adjective meaning requiring a great deal from the person doing the work.",
       "rationales": {
         "Someone has formally requested that the role be created.": "That concerns a demand for a role, not the adjective describing how difficult it is.",
-        "Many applicants have already demanded to receive the role.": "Demanding here describes the work's requirements, not applicants' requests.",
-        "The role requires considerable effort, attention, or skill.": "Demanding is an adjective meaning requiring a great deal from the person doing the work.",
+        "Many applicants have already demanded to receive the role.": "'Demanding' here describes the work's requirements, not applicants' requests.",
+        "The role requires considerable effort, attention, or skill.": "'Demanding' is an adjective meaning requiring a great deal from the person doing the work.",
         "The role consists mainly of making requests to other departments.": "The adjective does not specify requesting as the main task; it describes the role's difficulty."
       },
       "audit": {
@@ -2299,7 +2299,7 @@
     {
       "id": "coverage-word-forms-b2-4035",
       "level": "B2",
-      "setupText": "What does interpretation refer to in this passage?",
+      "setupText": "What does 'interpretation' refer to in this passage?",
       "taskText": "The guide argues that the poem's last line rejects despair, calling this 'one possible interpretation of the ending'.",
       "options": [
         "A proposed understanding of what the final line means.",
@@ -2308,10 +2308,10 @@
         "A reconstruction of wording missing from the poet's original draft."
       ],
       "answer": "A proposed understanding of what the final line means.",
-      "explanation": "The argument about rejecting despair offers a reading of the line; interpretation names that account of its meaning.",
+      "explanation": "The argument about rejecting despair offers a reading of the line; 'interpretation' names that account of its meaning.",
       "rationales": {
-        "A version of the final line in a different language.": "Interpretation can concern language transfer in other settings, but this passage discusses the line's meaning, not another language.",
-        "A proposed understanding of what the final line means.": "The argument about rejecting despair offers a reading of the line; interpretation names that account of its meaning.",
+        "A version of the final line in a different language.": "'Interpretation' can concern language transfer in other settings, but this passage discusses the line's meaning, not another language.",
+        "A proposed understanding of what the final line means.": "The argument about rejecting despair offers a reading of the line; 'interpretation' names that account of its meaning.",
         "An account of the way a performer delivered the final line.": "A performance can be an interpretation, but the guide here argues for a meaning rather than describing delivery.",
         "A reconstruction of wording missing from the poet's original draft.": "The passage does not report missing wording; it proposes an understanding of the existing ending."
       },
@@ -2455,7 +2455,7 @@
     {
       "id": "coverage-word-forms-b2-4040",
       "level": "B2",
-      "setupText": "Which statement is supported by revised in this account?",
+      "setupText": "Which statement is supported by 'revised' in this account?",
       "taskText": "The builder sent a revised estimate after receiving the final measurements.",
       "options": [
         "The builder sent an estimate that had been changed.",
@@ -2464,11 +2464,11 @@
         "The builder corrected an error made in the original estimate."
       ],
       "answer": "The builder sent an estimate that had been changed.",
-      "explanation": "Revised means altered or updated; new information can prompt revision without proving the earlier version mistaken.",
+      "explanation": "'Revised' means altered or updated; new information can prompt revision without proving the earlier version mistaken.",
       "rationales": {
-        "The builder sent a cheaper estimate than before.": "Revised does not state the direction of any change in price.",
-        "The builder sent the first estimate for the work.": "Revised indicates a change to an earlier version, not simply an initial estimate.",
-        "The builder sent an estimate that had been changed.": "Revised means altered or updated; new information can prompt revision without proving the earlier version mistaken.",
+        "The builder sent a cheaper estimate than before.": "'Revised' does not state the direction of any change in price.",
+        "The builder sent the first estimate for the work.": "'Revised' indicates a change to an earlier version, not simply an initial estimate.",
+        "The builder sent an estimate that had been changed.": "'Revised' means altered or updated; new information can prompt revision without proving the earlier version mistaken.",
         "The builder corrected an error made in the original estimate.": "A correction is one reason for revision, but receiving final measurements can also lead to an update without an earlier error."
       },
       "audit": {
@@ -2549,7 +2549,7 @@
     {
       "id": "coverage-word-forms-c1-4043",
       "level": "C1",
-      "setupText": "Choose the faithful rewrite using a verb from the coherence family.",
+      "setupText": "Choose the faithful rewrite using a verb from the 'coherence' family.",
       "taskText": "The coherence of the essay's ideas makes its argument convincing.",
       "options": [
         "The essay's ideas cohere because readers already find its argument convincing.",
@@ -2558,12 +2558,12 @@
         "The argument is convincing because the essay's ideas cohere."
       ],
       "answer": "The argument is convincing because the essay's ideas cohere.",
-      "explanation": "Cohere is the verb meaning fit together as a unified whole; the rewrite keeps coherence as the reason the argument convinces.",
+      "explanation": "'Cohere' is the verb meaning fit together as a unified whole; the rewrite keeps coherence as the reason the argument convinces.",
       "rationales": {
         "The essay's ideas cohere because readers already find its argument convincing.": "This reverses the stated explanatory direction.",
         "The essay's ideas might cohere if the argument became convincing.": "This changes an asserted quality into a conditional possibility.",
         "Readers made the essay's ideas cohere by accepting its argument.": "This adds reader agency and a process of creating coherence.",
-        "The argument is convincing because the essay's ideas cohere.": "Cohere is the verb meaning fit together as a unified whole; the rewrite keeps coherence as the reason the argument convinces."
+        "The argument is convincing because the essay's ideas cohere.": "'Cohere' is the verb meaning fit together as a unified whole; the rewrite keeps coherence as the reason the argument convinces."
       },
       "audit": {
         "status": "reviewed",
@@ -2704,7 +2704,7 @@
     {
       "id": "coverage-word-forms-c1-4048",
       "level": "C1",
-      "setupText": "What does transparently contribute to this description?",
+      "setupText": "What does 'transparently' contribute to this description?",
       "taskText": "The spokesperson repeated a transparently false claim.",
       "options": [
         "The spokesperson openly admitted that the claim was false.",
@@ -2713,10 +2713,10 @@
         "The spokesperson was unaware that the claim was false."
       ],
       "answer": "The claim's falsity was readily apparent.",
-      "explanation": "Transparently modifies false here and means plainly or obviously, not candidly admitting the claim.",
+      "explanation": "'Transparently' modifies 'false' here and means plainly or obviously, not candidly admitting the claim.",
       "rationales": {
         "The spokesperson openly admitted that the claim was false.": "The adverb describes how apparent the falsity is; it does not report an admission.",
-        "The claim's falsity was readily apparent.": "Transparently modifies false here and means plainly or obviously, not candidly admitting the claim.",
+        "The claim's falsity was readily apparent.": "'Transparently' modifies 'false' here and means plainly or obviously, not candidly admitting the claim.",
         "The spokesperson made the claim available for independent checking.": "That would concern openness of procedure; the phrase instead characterizes the obvious falsity.",
         "The spokesperson was unaware that the claim was false.": "The writer calls the falsity apparent; the phrase does not establish what the spokesperson did or did not recognize."
       },
@@ -2797,7 +2797,7 @@
     {
       "id": "coverage-word-forms-c1-4051",
       "level": "C1",
-      "setupText": "Choose the meaning of complicity in this report.",
+      "setupText": "Choose the meaning of 'complicity' in this report.",
       "taskText": "The inquiry examined the supervisor's complicity in the deception.",
       "options": [
         "It examined how difficult the supervisor found the investigation.",
@@ -2806,10 +2806,10 @@
         "It examined whether the supervisor followed the new reporting procedure."
       ],
       "answer": "It examined the supervisor's involvement in the wrongdoing.",
-      "explanation": "Complicity means involvement with others in an improper or wrongful act.",
+      "explanation": "'Complicity' means involvement with others in an improper or wrongful act.",
       "rationales": {
         "It examined how difficult the supervisor found the investigation.": "Difficulty or intricacy concerns complexity, not complicity in wrongdoing.",
-        "It examined the supervisor's involvement in the wrongdoing.": "Complicity means involvement with others in an improper or wrongful act.",
+        "It examined the supervisor's involvement in the wrongdoing.": "'Complicity' means involvement with others in an improper or wrongful act.",
         "It examined an unexpected problem that disrupted the supervisor's work.": "An additional obstacle is a complication, not complicity.",
         "It examined whether the supervisor followed the new reporting procedure.": "Following requirements concerns compliance; complicity concerns involvement in the deception."
       },
@@ -2828,7 +2828,7 @@
     {
       "id": "coverage-word-forms-c1-4052",
       "level": "C1",
-      "setupText": "How do the two uses of objective differ?",
+      "setupText": "How do the two uses of 'objective' differ?",
       "taskText": "Our objective is an objective assessment of the service.",
       "options": [
         "Both describe the assessment as free from personal bias.",
@@ -2837,12 +2837,12 @@
         "Both name outcomes the assessment has already achieved."
       ],
       "answer": "The first names an aim; the second describes an assessment not driven by personal bias.",
-      "explanation": "Objective can be a count noun meaning goal or an adjective meaning unbiased; the sentence uses both.",
+      "explanation": "'Objective' can be a count noun meaning 'goal' or an adjective meaning 'unbiased'; the sentence uses both.",
       "rationales": {
-        "Both describe the assessment as free from personal bias.": "The first follows our as a noun naming what is to be achieved, not as an adjective describing assessment.",
+        "Both describe the assessment as free from personal bias.": "The first follows 'our' as a noun naming what is to be achieved, not as an adjective describing assessment.",
         "The first describes impartiality; the second names the aim of the assessment.": "This reverses their grammatical roles and meanings.",
-        "Both name outcomes the assessment has already achieved.": "An objective is a goal, not necessarily an achieved outcome, and the second objective is an adjective.",
-        "The first names an aim; the second describes an assessment not driven by personal bias.": "Objective can be a count noun meaning goal or an adjective meaning unbiased; the sentence uses both."
+        "Both name outcomes the assessment has already achieved.": "An objective is a goal, not necessarily an achieved outcome, and the second 'objective' is an adjective.",
+        "The first names an aim; the second describes an assessment not driven by personal bias.": "'Objective' can be a count noun meaning 'goal' or an adjective meaning 'unbiased'; the sentence uses both."
       },
       "audit": {
         "status": "reviewed",
@@ -2890,7 +2890,7 @@
     {
       "id": "coverage-word-forms-c1-4054",
       "level": "C1",
-      "setupText": "Choose the rewrite using an adverb from the subtle family that preserves the evaluation.",
+      "setupText": "Choose the rewrite using an adverb from the 'subtle' family that preserves the evaluation.",
       "taskText": "The difference between the two readings remains important despite its subtlety.",
       "options": [
         "Because the readings matter, the difference between them must be subtle.",
@@ -2899,9 +2899,9 @@
         "Although the readings differ subtly, the difference still matters."
       ],
       "answer": "Although the readings differ subtly, the difference still matters.",
-      "explanation": "Subtly describes how the readings differ; the contrast preserves the claim that a hard-to-notice difference can matter.",
+      "explanation": "'Subtly' describes how the readings differ; the contrast preserves the claim that a hard-to-notice difference can matter.",
       "rationales": {
-        "Although the readings differ subtly, the difference still matters.": "Subtly describes how the readings differ; the contrast preserves the claim that a hard-to-notice difference can matter.",
+        "Although the readings differ subtly, the difference still matters.": "'Subtly' describes how the readings differ; the contrast preserves the claim that a hard-to-notice difference can matter.",
         "Because the readings matter, the difference between them must be subtle.": "This adds a causal link from importance to subtlety, which the original does not claim.",
         "The readings differ substantially because the distinction matters.": "Importance does not make the difference large or conspicuous; the original calls it subtle.",
         "The readings differ only in importance, not in their interpretation of the text.": "This changes the dimension of difference rather than preserving its subtle character and importance."
@@ -2952,7 +2952,7 @@
     {
       "id": "coverage-word-forms-c1-4056",
       "level": "C1",
-      "setupText": "Which interpretation of robustly is supported here?",
+      "setupText": "Which interpretation of 'robustly' is supported here?",
       "taskText": "The councillor robustly disagreed with the proposed closure.",
       "options": [
         "The councillor expressed disagreement forcefully.",
@@ -2961,11 +2961,11 @@
         "The councillor insulted the people who proposed the closure."
       ],
       "answer": "The councillor expressed disagreement forcefully.",
-      "explanation": "Robustly describes a strong, vigorous manner of disagreeing, not the truth of the councillor's position.",
+      "explanation": "'Robustly' describes a strong, vigorous manner of disagreeing, not the truth of the councillor's position.",
       "rationales": {
         "The councillor proved that the closure proposal contained factual errors.": "Forceful disagreement does not establish that the proposal was disproved.",
-        "The councillor expressed disagreement forcefully.": "Robustly describes a strong, vigorous manner of disagreeing, not the truth of the councillor's position.",
-        "The councillor expressed disagreement in a deliberately uncertain way.": "That does not match the forceful manner conveyed by robustly.",
+        "The councillor expressed disagreement forcefully.": "'Robustly' describes a strong, vigorous manner of disagreeing, not the truth of the councillor's position.",
+        "The councillor expressed disagreement in a deliberately uncertain way.": "That does not match the forceful manner conveyed by 'robustly'.",
         "The councillor insulted the people who proposed the closure.": "Robust disagreement can be forceful without being personally insulting; the adverb does not establish insults."
       },
       "audit": {
@@ -3448,7 +3448,7 @@
     {
       "id": "coverage-word-forms-c2-4072",
       "level": "C2",
-      "setupText": "What reading does the adjective studied support?",
+      "setupText": "What reading does the adjective 'studied' support?",
       "taskText": "At the reception, his studied casualness sat oddly beside his elaborate courtesies.",
       "options": [
         "His relaxed manner showed how little preparation he had given to the occasion.",
@@ -3457,12 +3457,12 @@
         "His courtesies made an originally deliberate manner become genuinely spontaneous."
       ],
       "answer": "His relaxed manner appeared carefully cultivated rather than spontaneous.",
-      "explanation": "Studied is an evaluative adjective meaning deliberately arranged here, not simply the past form of academic study. The apparent ease can therefore be calculated.",
+      "explanation": "'Studied' is an evaluative adjective meaning deliberately arranged here, not simply the past form of academic study. The apparent ease can therefore be calculated.",
       "rationales": {
-        "His relaxed manner showed how little preparation he had given to the occasion.": "Studied describes deliberate preparation or cultivation, not its absence; casualness is the effect being cultivated.",
-        "His relaxed manner appeared carefully cultivated rather than spontaneous.": "Studied is an evaluative adjective meaning deliberately arranged here, not simply the past form of academic study. The apparent ease can therefore be calculated.",
+        "His relaxed manner showed how little preparation he had given to the occasion.": "'Studied' describes deliberate preparation or cultivation, not its absence; 'casualness' is the effect being cultivated.",
+        "His relaxed manner appeared carefully cultivated rather than spontaneous.": "'Studied' is an evaluative adjective meaning deliberately arranged here, not simply the past form of academic study. The apparent ease can therefore be calculated.",
         "His academic interests were evident despite his relaxed social manner.": "The adjective does not identify an academic interest; it characterizes how the casual manner was produced.",
-        "His courtesies made an originally deliberate manner become genuinely spontaneous.": "Sat oddly beside contrasts two observed features; it does not report one transforming the other."
+        "His courtesies made an originally deliberate manner become genuinely spontaneous.": "'Sat oddly beside' contrasts two observed features; it does not report one transforming the other."
       },
       "audit": {
         "status": "reviewed",

@@ -3663,7 +3663,7 @@
     {
       "id": "coverage-transitions-c2-3839",
       "level": "C2",
-      "setupText": "In this puzzle's classification system, a record is marked complete if and only if it contains both a date and a source reference.",
+      "setupText": "In this puzzle's classification system, a record is marked 'complete' if and only if it contains both a date and a source reference.",
       "taskText": "Which rule expresses both directions of the condition?",
       "options": [
         "Records with both entries may be complete, but completion can require an additional entry.",
@@ -3672,11 +3672,11 @@
         "Having both entries is sufficient for completeness, and completeness requires both."
       ],
       "answer": "Having both entries is sufficient for completeness, and completeness requires both.",
-      "explanation": "If and only if makes the condition both sufficient and necessary; neither direction can be dropped.",
+      "explanation": "'If and only if' makes the condition both sufficient and necessary; neither direction can be dropped.",
       "rationales": {
-        "Records with both entries may be complete, but completion can require an additional entry.": "This withholds sufficiency, which if and only if supplies.",
+        "Records with both entries may be complete, but completion can require an additional entry.": "This withholds sufficiency, which 'if and only if' supplies.",
         "Complete records require both entries, though records with both may remain incomplete.": "This states necessity but denies the given sufficiency.",
-        "Having both entries is sufficient for completeness, and completeness requires both.": "If and only if makes the condition both sufficient and necessary; neither direction can be dropped.",
+        "Having both entries is sufficient for completeness, and completeness requires both.": "'If and only if' makes the condition both sufficient and necessary; neither direction can be dropped.",
         "Records with both entries are complete, but complete records may omit the source reference.": "This retains sufficiency while abandoning necessity."
       },
       "audit": {

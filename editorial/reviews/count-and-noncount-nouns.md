@@ -106,7 +106,7 @@ The taxi can take ___.
 
 ID: `coverage-count-and-noncount-nouns-a1-964`
 
-Choose the noun that agrees with these in standard English.
+Choose the noun that agrees with 'these' in standard English.
 
 These ___ are comfortable to sit on.
 
@@ -115,14 +115,14 @@ These ___ are comfortable to sit on.
 3. seating
 4. equipment
 
-**Explanation:** Chairs names separate seats and has the plural form required by these and are.
+**Explanation:** 'Chairs' names separate seats and has the plural form required by 'these' and 'are'.
 
 **Choice feedback:**
 
-- **furniture:** Furniture is uncountable; say this furniture is comfortable.
-- **chairs:** Chairs names separate seats and has the plural form required by these and are.
-- **seating:** Seating names seats collectively; this seating is would fit that noun.
-- **equipment:** Equipment is uncountable in this meaning and cannot follow these directly.
+- **furniture:** 'Furniture' is uncountable; say 'this furniture is comfortable'.
+- **chairs:** 'Chairs' names separate seats and has the plural form required by 'these' and 'are'.
+- **seating:** 'Seating' names seats collectively; 'this seating is' would fit that noun.
+- **equipment:** 'Equipment' is uncountable in this meaning and cannot follow 'these' directly.
 
 **Decision:** replaced.
 
@@ -138,7 +138,7 @@ These ___ are comfortable to sit on.
 
 ID: `coverage-count-and-noncount-nouns-a1-965`
 
-Choose the sentence about the cooked rice in one bowl, using rice as an uncountable food noun.
+Choose the sentence about the cooked rice in one bowl, using 'rice' as an uncountable food noun.
 
 Dinner is ready.
 
@@ -147,14 +147,14 @@ Dinner is ready.
 3. A rice is hot.
 4. The rice is hot. **[Correct]**
 
-**Explanation:** Rice names the food as an amount here, so it takes singular is.
+**Explanation:** 'Rice' names the food as an amount here, so it takes singular 'is'.
 
 **Choice feedback:**
 
-- **The rice are hot.:** Uncountable rice takes is, even though it contains many small grains.
-- **These rice are hot.:** These needs a plural countable noun, such as grains, not rice in this use.
-- **A rice is hot.:** A rice would name a type in a special context; the task concerns the cooked food as an amount.
-- **The rice is hot.:** Rice names the food as an amount here, so it takes singular is.
+- **The rice are hot.:** Uncountable 'rice' takes 'is', even though it contains many small grains.
+- **These rice are hot.:** 'These' needs a plural countable noun, such as 'grains', not 'rice' in this use.
+- **A rice is hot.:** 'A rice' would name a type in a special context; the task concerns the cooked food as an amount.
+- **The rice is hot.:** 'Rice' names the food as an amount here, so it takes singular 'is'.
 
 **Decision:** replaced.
 
@@ -330,7 +330,7 @@ For this cake, we need ___.
 
 ID: `coverage-count-and-noncount-nouns-a1-971`
 
-Choose the noun phrase that agrees with these.
+Choose the noun phrase that agrees with 'these'.
 
 Please put these ___ in the storeroom.
 
@@ -339,14 +339,14 @@ Please put these ___ in the storeroom.
 3. boxes **[Correct]**
 4. some box
 
-**Explanation:** Boxes is the plural of box and agrees with these.
+**Explanation:** 'Boxes' is the plural of 'box' and agrees with 'these'.
 
 **Choice feedback:**
 
-- **box:** These refers to more than one, so use boxes.
-- **a box:** A box is singular and cannot follow these.
-- **boxes:** Boxes is the plural of box and agrees with these.
-- **some box:** Some box is a singular indefinite phrase and cannot be added after these.
+- **box:** 'These' refers to more than one, so use 'boxes'.
+- **a box:** 'A box' is singular and cannot follow 'these'.
+- **boxes:** 'Boxes' is the plural of 'box' and agrees with 'these'.
+- **some box:** 'Some box' is a singular indefinite phrase and cannot be added after 'these'.
 
 **Decision:** replaced.
 
@@ -1038,7 +1038,7 @@ She offered each guest two ___.
 
 ID: `coverage-count-and-noncount-nouns-a2-993`
 
-Choose the normal meaning of coffees in this cafe order.
+Choose the normal meaning of 'coffees' in this cafe order.
 
 Two coffees, please, one for me and one for my colleague.
 
@@ -1047,14 +1047,14 @@ Two coffees, please, one for me and one for my colleague.
 3. Two servings of coffee. **[Correct]**
 4. An amount of coffee with no number of drinks specified.
 
-**Explanation:** In cafe orders, coffees commonly counts cups or servings of the drink.
+**Explanation:** In cafe orders, 'coffees' commonly counts cups or servings of the drink.
 
 **Choice feedback:**
 
-- **Two kinds of coffee beans.:** Coffees can name varieties elsewhere, but one drink for each person makes servings the relevant meaning here.
-- **Two packets of ground coffee.:** Packets would need to be specified; the ordinary cafe order uses coffees for prepared drinks.
-- **Two servings of coffee.:** In cafe orders, coffees commonly counts cups or servings of the drink.
-- **An amount of coffee with no number of drinks specified.:** Two gives an exact serving count, even though the drink's volume is not stated.
+- **Two kinds of coffee beans.:** 'Coffees' can name varieties elsewhere, but one drink for each person makes servings the relevant meaning here.
+- **Two packets of ground coffee.:** Packets would need to be specified; the ordinary cafe order uses 'coffees' for prepared drinks.
+- **Two servings of coffee.:** In cafe orders, 'coffees' commonly counts cups or servings of the drink.
+- **An amount of coffee with no number of drinks specified.:** 'Two' gives an exact serving count, even though the drink's volume is not stated.
 
 **Decision:** replaced.
 
@@ -1134,7 +1134,7 @@ Your ___ looks different. Did you have it cut?
 
 ID: `coverage-count-and-noncount-nouns-a2-996`
 
-Choose the continuation that refers directly to furniture in standard English.
+Choose the continuation that refers directly to 'furniture' in standard English.
 
 We ordered new furniture for the office.
 
@@ -1143,14 +1143,14 @@ We ordered new furniture for the office.
 3. It arrives on Thursday. **[Correct]**
 4. These arrives on Thursday.
 
-**Explanation:** Furniture is an uncountable noun phrase, so it takes singular reference with it.
+**Explanation:** 'Furniture' is an uncountable noun phrase, so it takes singular reference with 'it'.
 
 **Choice feedback:**
 
-- **They arrives on Thursday.:** They is plural and also requires arrive; it does not agree with the noun furniture.
-- **It arrive on Thursday.:** It needs the singular present verb arrives.
-- **It arrives on Thursday.:** Furniture is an uncountable noun phrase, so it takes singular reference with it.
-- **These arrives on Thursday.:** These is plural and cannot pair with arrives or directly refer back to furniture as a mass noun.
+- **They arrives on Thursday.:** 'They' is plural and also requires 'arrive'; it does not agree with the noun 'furniture'.
+- **It arrive on Thursday.:** 'It' needs the singular present verb 'arrives'.
+- **It arrives on Thursday.:** 'Furniture' is an uncountable noun phrase, so it takes singular reference with 'it'.
+- **These arrives on Thursday.:** 'These' is plural and cannot pair with 'arrives' or directly refer back to 'furniture' as a mass noun.
 
 **Decision:** replaced.
 
@@ -1362,7 +1362,7 @@ The payment failed on Monday, Tuesday and Wednesday. I tried ___.
 
 ID: `coverage-count-and-noncount-nouns-b1-1003`
 
-Choose the meaning of room in this sentence.
+Choose the meaning of 'room' in this sentence.
 
 The lift is full, so there is no room for another suitcase.
 
@@ -1371,14 +1371,14 @@ The lift is full, so there is no room for another suitcase.
 3. Available space. **[Correct]**
 4. A hotel booking.
 
-**Explanation:** Room is uncountable when it means space or capacity; no room means no space available.
+**Explanation:** 'Room' is uncountable when it means space or capacity; 'no room' means no space available.
 
 **Choice feedback:**
 
-- **A separate part of a building.:** That is the countable meaning of a room; this sentence concerns space inside a lift.
-- **An additional lift.:** Room does not name another lift; it describes capacity within the existing one.
-- **Available space.:** Room is uncountable when it means space or capacity; no room means no space available.
-- **A hotel booking.:** A room can be booked at a hotel, but no room for a suitcase concerns physical space.
+- **A separate part of a building.:** That is the countable meaning of 'a room'; this sentence concerns space inside a lift.
+- **An additional lift.:** 'Room' does not name another lift; it describes capacity within the existing one.
+- **Available space.:** 'Room' is uncountable when it means space or capacity; 'no room' means no space available.
+- **A hotel booking.:** A room can be booked at a hotel, but 'no room for a suitcase' concerns physical space.
 
 **Decision:** replaced.
 
@@ -1554,7 +1554,7 @@ The lecturer asked us to discuss ___.
 
 ID: `coverage-count-and-noncount-nouns-b1-1009`
 
-Choose the meaning of coffees in this supplier's description.
+Choose the meaning of 'coffees' in this supplier's description.
 
 The catalogue compares coffees grown in three different regions, with notes on each variety's flavor.
 
@@ -1567,7 +1567,7 @@ The catalogue compares coffees grown in three different regions, with notes on e
 
 **Choice feedback:**
 
-- **Individual beans from one bag.:** Coffees does not count individual beans; the catalogue contrasts regional varieties.
+- **Individual beans from one bag.:** 'Coffees' does not count individual beans; the catalogue contrasts regional varieties.
 - **Cups ordered by three customers.:** Serving counts are possible in a cafe, but the regional varieties in this catalogue establish a types meaning.
 - **The total amount of coffee produced.:** The plural and the notes on each variety divide coffee into kinds rather than giving one total amount.
 - **Different varieties of coffee.:** A normally uncountable drink noun can be plural when distinct kinds or varieties are being compared.
@@ -1650,7 +1650,7 @@ The hotel can lend guests ___ if their clothes are creased.
 
 ID: `coverage-count-and-noncount-nouns-b1-1012`
 
-Choose the meaning of a wood in this British English description.
+Choose the meaning of 'a wood' in this British English description.
 
 A footpath runs through a wood behind the village.
 
@@ -1659,14 +1659,14 @@ A footpath runs through a wood behind the village.
 3. One tree that has fallen.
 4. A wooden object on the path.
 
-**Explanation:** In British English, a wood can mean an area of trees; this is a countable place meaning.
+**Explanation:** In British English, 'a wood' can mean an area of trees; this is a countable place meaning.
 
 **Choice feedback:**
 
-- **Timber used for construction.:** Wood without an article can mean timber, but a wood here names a place a path can cross.
-- **An area covered with trees.:** In British English, a wood can mean an area of trees; this is a countable place meaning.
-- **One tree that has fallen.:** A wood names a wooded area, not one individual tree or log.
-- **A wooden object on the path.:** The path runs through an area; a wood is not a general name for a wooden object.
+- **Timber used for construction.:** 'Wood' without an article can mean timber, but 'a wood' here names a place a path can cross.
+- **An area covered with trees.:** In British English, 'a wood' can mean an area of trees; this is a countable place meaning.
+- **One tree that has fallen.:** 'A wood' names a wooded area, not one individual tree or log.
+- **A wooden object on the path.:** The path runs through an area; 'a wood' is not a general name for a wooden object.
 
 **Decision:** replaced.
 
@@ -1682,7 +1682,7 @@ A footpath runs through a wood behind the village.
 
 ID: `coverage-count-and-noncount-nouns-b1-1013`
 
-Choose the sentence that keeps accommodation as an uncountable noun, as is usual in British English for lodging.
+Choose the sentence that keeps 'accommodation' as an uncountable noun, as is usual in British English for lodging.
 
 The training centre has somewhere for visiting tutors to stay.
 
@@ -1691,14 +1691,14 @@ The training centre has somewhere for visiting tutors to stay.
 3. An accommodation is available for visiting tutors.
 4. Accommodation are available for visiting tutors.
 
-**Explanation:** Accommodation can name lodging as an uncountable provision in British English, so is agrees with it.
+**Explanation:** 'Accommodation' can name lodging as an uncountable provision in British English, so 'is' agrees with it.
 
 **Choice feedback:**
 
-- **Accommodations are available for visiting tutors.:** Plural accommodations is common for lodging in American English, but it does not meet this task's stated uncountable British usage.
-- **Accommodation is available for visiting tutors.:** Accommodation can name lodging as an uncountable provision in British English, so is agrees with it.
-- **An accommodation is available for visiting tutors.:** The task asks for lodging as an uncountable provision, not an individual arrangement introduced with an.
-- **Accommodation are available for visiting tutors.:** Uncountable accommodation takes singular is in this construction.
+- **Accommodations are available for visiting tutors.:** Plural 'accommodations' is common for lodging in American English, but it does not meet this task's stated uncountable British usage.
+- **Accommodation is available for visiting tutors.:** 'Accommodation' can name lodging as an uncountable provision in British English, so 'is' agrees with it.
+- **An accommodation is available for visiting tutors.:** The task asks for lodging as an uncountable provision, not an individual arrangement introduced with 'an'.
+- **Accommodation are available for visiting tutors.:** Uncountable 'accommodation' takes singular 'is' in this construction.
 
 **Decision:** replaced.
 
@@ -1714,7 +1714,7 @@ The training centre has somewhere for visiting tutors to stay.
 
 ID: `coverage-count-and-noncount-nouns-b1-1014`
 
-Choose the verb phrase that agrees with equipment in standard English.
+Choose the verb phrase that agrees with 'equipment' in standard English.
 
 The equipment, including two cameras and a microphone, ___.
 
@@ -1723,14 +1723,14 @@ The equipment, including two cameras and a microphone, ___.
 3. is insured **[Correct]**
 4. were insured
 
-**Explanation:** Equipment is the uncountable subject; the intervening list does not change its singular agreement.
+**Explanation:** 'Equipment' is the uncountable subject; the intervening list does not change its singular agreement.
 
 **Choice feedback:**
 
-- **are insured:** Are would agree with cameras and a microphone as the subject, but those words only give examples of the equipment.
-- **have been insured:** Have requires a plural subject here; uncountable equipment takes has been insured.
-- **is insured:** Equipment is the uncountable subject; the intervening list does not change its singular agreement.
-- **were insured:** Were does not agree with singular equipment in this statement; was would be the singular past form.
+- **are insured:** 'Are' would agree with 'cameras and a microphone' as the subject, but those words only give examples of the equipment.
+- **have been insured:** 'Have' requires a plural subject here; uncountable 'equipment' takes 'has been insured'.
+- **is insured:** 'Equipment' is the uncountable subject; the intervening list does not change its singular agreement.
+- **were insured:** 'Were' does not agree with singular 'equipment' in this statement; 'was' would be the singular past form.
 
 **Decision:** replaced.
 
@@ -1778,7 +1778,7 @@ The team has completed ___ into bus use in the city.
 
 ID: `coverage-count-and-noncount-nouns-b1-1016`
 
-Choose the sentence that reports improvement using progress in its ordinary uncountable sense.
+Choose the sentence that reports improvement using 'progress' in its ordinary uncountable sense.
 
 The prototype now runs faster and uses less power.
 
@@ -1787,14 +1787,14 @@ The prototype now runs faster and uses less power.
 3. We have made several progress.
 4. We have made three progresses.
 
-**Explanation:** Progress names improvement as a process or amount; it does not need an indefinite article.
+**Explanation:** 'Progress' names improvement as a process or amount; it does not need an indefinite article.
 
 **Choice feedback:**
 
-- **We have made good progress.:** Progress names improvement as a process or amount; it does not need an indefinite article.
-- **We have made a good progress.:** Progress does not take a in this ordinary improvement meaning.
-- **We have made several progress.:** Several needs a plural count noun, such as improvements or advances.
-- **We have made three progresses.:** To count specific improvements, say three improvements or advances rather than progresses in this use.
+- **We have made good progress.:** 'Progress' names improvement as a process or amount; it does not need an indefinite article.
+- **We have made a good progress.:** 'Progress' does not take 'a' in this ordinary improvement meaning.
+- **We have made several progress.:** 'Several' needs a plural count noun, such as 'improvements' or 'advances'.
+- **We have made three progresses.:** To count specific improvements, say 'three improvements or advances' rather than 'progresses' in this use.
 
 **Decision:** replaced.
 
@@ -1842,7 +1842,7 @@ Two storms interrupted the outdoor repairs in different weeks. The team lost tim
 
 ID: `coverage-count-and-noncount-nouns-b1-1018`
 
-Choose the meaning of trouble in this sentence.
+Choose the meaning of 'trouble' in this sentence.
 
 We had trouble opening the old archive files.
 
@@ -1851,13 +1851,13 @@ We had trouble opening the old archive files.
 3. Several separate problems that have been counted.
 4. A disagreement between the people opening the files.
 
-**Explanation:** Have trouble doing something uses trouble as uncountable difficulty with an action.
+**Explanation:** 'Have trouble doing something' uses 'trouble' as uncountable difficulty with an action.
 
 **Choice feedback:**
 
 - **A named technical fault that the sentence identifies.:** The sentence reports difficulty but does not name a particular fault.
-- **Difficulty carrying out the task.:** Have trouble doing something uses trouble as uncountable difficulty with an action.
-- **Several separate problems that have been counted.:** Troubles can name separate worries or problems, but uncountable trouble here supplies no count.
+- **Difficulty carrying out the task.:** 'Have trouble doing something' uses 'trouble' as uncountable difficulty with an action.
+- **Several separate problems that have been counted.:** 'Troubles' can name separate worries or problems, but uncountable 'trouble' here supplies no count.
 - **A disagreement between the people opening the files.:** The difficulty is linked to opening files, not to a stated interpersonal dispute.
 
 **Decision:** replaced.
@@ -1874,7 +1874,7 @@ We had trouble opening the old archive files.
 
 ID: `coverage-count-and-noncount-nouns-b1-1019`
 
-Choose the interpretation of a success in this assessment.
+Choose the interpretation of 'a success' in this assessment.
 
 Despite the late change of venue, the conference was a success.
 
@@ -1883,14 +1883,14 @@ Despite the late change of venue, the conference was a success.
 3. The conference succeeded because its venue was changed.
 4. The conference had been expected to succeed before the venue changed.
 
-**Explanation:** A success can be a countable use describing a person, event or project that succeeds.
+**Explanation:** 'A success' can be a countable use describing a person, event or project that succeeds.
 
 **Choice feedback:**
 
-- **Only the change of venue was successful.:** A success describes the conference itself, not just the practical change of venue.
-- **The conference was a successful event.:** A success can be a countable use describing a person, event or project that succeeds.
-- **The conference succeeded because its venue was changed.:** Despite introduces a difficulty overcome, not the stated cause of the event's success.
-- **The conference had been expected to succeed before the venue changed.:** Was a success reports the outcome; it does not tell us what people expected beforehand.
+- **Only the change of venue was successful.:** 'A success' describes the conference itself, not just the practical change of venue.
+- **The conference was a successful event.:** 'A success' can be a countable use describing a person, event or project that succeeds.
+- **The conference succeeded because its venue was changed.:** 'Despite' introduces a difficulty overcome, not the stated cause of the event's success.
+- **The conference had been expected to succeed before the venue changed.:** 'Was a success' reports the outcome; it does not tell us what people expected beforehand.
 
 **Decision:** replaced.
 
@@ -1974,7 +1974,7 @@ The inspection found cracks in several walls. It recorded ___.
 
 ID: `coverage-count-and-noncount-nouns-b2-1022`
 
-The journal treats data as plural. Choose consistent wording in which the later pronoun refers to the data, not the trend.
+The journal treats 'data' as plural. Choose consistent wording in which the later pronoun refers to the data, not the trend.
 
 The results paragraph needs an opening sentence.
 
@@ -1983,14 +1983,14 @@ The results paragraph needs an opening sentence.
 3. These data suggest a trend, but they remain incomplete. **[Correct]**
 4. These data suggest a trend, but it remains incomplete.
 
-**Explanation:** These, suggest and they consistently treat data as plural, as the journal requires.
+**Explanation:** 'These', 'suggest' and 'they' consistently treat 'data' as plural, as the journal requires.
 
 **Choice feedback:**
 
-- **This data suggests a trend, but it remains incomplete.:** This is consistent with a modern mass-noun use of data, but not with the journal's explicitly plural convention.
-- **These data suggests a trend, but they remain incomplete.:** These and they follow the plural convention, but the verb must be suggest rather than suggests.
-- **These data suggest a trend, but they remain incomplete.:** These, suggest and they consistently treat data as plural, as the journal requires.
-- **These data suggest a trend, but it remains incomplete.:** The plural opening is followed by singular it; use they to keep reference consistent under this style.
+- **This data suggests a trend, but it remains incomplete.:** This is consistent with a modern mass-noun use of 'data', but not with the journal's explicitly plural convention.
+- **These data suggests a trend, but they remain incomplete.:** 'These' and 'they' follow the plural convention, but the verb must be 'suggest' rather than 'suggests'.
+- **These data suggest a trend, but they remain incomplete.:** 'These', 'suggest' and 'they' consistently treat 'data' as plural, as the journal requires.
+- **These data suggest a trend, but it remains incomplete.:** The plural opening is followed by singular 'it'; use 'they' to keep reference consistent under this style.
 
 **Decision:** replaced.
 
@@ -2006,7 +2006,7 @@ The results paragraph needs an opening sentence.
 
 ID: `coverage-count-and-noncount-nouns-b2-1023`
 
-Choose the reading of supports that fits the inspection report.
+Choose the reading of 'supports' that fits the inspection report.
 
 Two of the wooden supports beneath the platform need replacing.
 
@@ -2015,12 +2015,12 @@ Two of the wooden supports beneath the platform need replacing.
 3. Two amounts of help with the replacement work.
 4. The platform's overall ability to remain stable.
 
-**Explanation:** A support can be a physical part holding something up; supports counts those separate components.
+**Explanation:** 'A support' can be a physical part holding something up; 'supports' counts those separate components.
 
 **Choice feedback:**
 
-- **Two expressions of approval for the platform.:** Support can mean approval, but wooden and beneath the platform identify physical structural parts.
-- **Two load-bearing parts of the structure.:** A support can be a physical part holding something up; supports counts those separate components.
+- **Two expressions of approval for the platform.:** 'Support' can mean approval, but 'wooden' and 'beneath the platform' identify physical structural parts.
+- **Two load-bearing parts of the structure.:** 'A support' can be a physical part holding something up; 'supports' counts those separate components.
 - **Two amounts of help with the replacement work.:** The supports are what need replacing, not assistance with the task.
 - **The platform's overall ability to remain stable.:** The plural noun counts particular components rather than the structure's support considered as a whole.
 
@@ -2038,7 +2038,7 @@ Two of the wooden supports beneath the platform need replacing.
 
 ID: `coverage-count-and-noncount-nouns-b2-1024`
 
-Choose the pair that uses content for material on a website and contents for items inside a box.
+Choose the pair that uses 'content' for material on a website and 'contents' for items inside a box.
 
 The website's ___ has changed, but the box's ___ are untouched.
 
@@ -2047,14 +2047,14 @@ The website's ___ has changed, but the box's ___ are untouched.
 3. content / a content
 4. a content / contents
 
-**Explanation:** Content can name website material collectively; contents names the items contained in a box and takes plural are.
+**Explanation:** 'Content' can name website material collectively; 'contents' names the items contained in a box and takes plural 'are'.
 
 **Choice feedback:**
 
-- **contents / content:** This reverses the specified meanings and conflicts with has in the first clause and are in the second.
-- **content / contents:** Content can name website material collectively; contents names the items contained in a box and takes plural are.
-- **content / a content:** A content does not name one physical item in a box in this ordinary use.
-- **a content / contents:** The website's a content combines a possessive with an incompatible article; use content for the collective material.
+- **contents / content:** This reverses the specified meanings and conflicts with 'has' in the first clause and 'are' in the second.
+- **content / contents:** 'Content' can name website material collectively; 'contents' names the items contained in a box and takes plural 'are'.
+- **content / a content:** 'A content' does not name one physical item in a box in this ordinary use.
+- **a content / contents:** "The website's a content" combines a possessive with an incompatible article; use 'content' for the collective material.
 
 **Decision:** replaced.
 
@@ -2070,7 +2070,7 @@ The website's ___ has changed, but the box's ___ are untouched.
 
 ID: `coverage-count-and-noncount-nouns-b2-1025`
 
-Choose the sentence that treats statistics first as a subject of study and then as numerical figures.
+Choose the sentence that treats 'statistics' first as a subject of study and then as numerical figures.
 
 The course concerns statistical methods; the report supplies figures that may be unreliable.
 
@@ -2079,14 +2079,14 @@ The course concerns statistical methods; the report supplies figures that may be
 3. A statistics is central to the course, but the report's statistics are unreliable.
 4. Statistics is central to the course, but the report's a statistic are unreliable.
 
-**Explanation:** Statistics as a discipline takes singular is; statistics as separate figures takes plural are.
+**Explanation:** 'Statistics' as a discipline takes singular 'is'; 'statistics' as separate figures takes plural 'are'.
 
 **Choice feedback:**
 
-- **Statistics is central to the course, but the report's statistics are unreliable.:** Statistics as a discipline takes singular is; statistics as separate figures takes plural are.
+- **Statistics is central to the course, but the report's statistics are unreliable.:** 'Statistics' as a discipline takes singular 'is'; 'statistics' as separate figures takes plural 'are'.
 - **Statistics are central to the course, but the report's statistics is unreliable.:** This reverses the agreement required by the specified discipline and figures meanings.
-- **A statistics is central to the course, but the report's statistics are unreliable.:** Use statistics without a for the discipline; a statistic would mean one numerical fact.
-- **Statistics is central to the course, but the report's a statistic are unreliable.:** A statistic would be one figure with singular is, and cannot follow the possessive report's in this form.
+- **A statistics is central to the course, but the report's statistics are unreliable.:** Use 'statistics' without 'a' for the discipline; 'a statistic' would mean one numerical fact.
+- **Statistics is central to the course, but the report's a statistic are unreliable.:** 'A statistic' would be one figure with singular 'is', and cannot follow the possessive "report's" in this form.
 
 **Decision:** replaced.
 
@@ -2102,7 +2102,7 @@ The course concerns statistical methods; the report supplies figures that may be
 
 ID: `coverage-count-and-noncount-nouns-b2-1026`
 
-Choose the statement that distinguishes the two uses of customs accurately.
+Choose the statement that distinguishes the two uses of 'customs' accurately.
 
 The guide explains local customs and gives advice about going through customs at the airport.
 
@@ -2111,13 +2111,13 @@ The guide explains local customs and gives advice about going through customs at
 3. Both uses name offices where travellers' goods are checked.
 4. Local customs means a single tradition; airport customs means several borders.
 
-**Explanation:** Customs counts practices in the first phrase but names the border service in the second; identical spelling does not guarantee the same noun sense.
+**Explanation:** 'Customs' counts practices in the first phrase but names the border service in the second; identical spelling does not guarantee the same noun sense.
 
 **Choice feedback:**
 
-- **Local customs are traditions; airport customs is the border-control service.:** Customs counts practices in the first phrase but names the border service in the second; identical spelling does not guarantee the same noun sense.
-- **Both uses count local traditions, with the second referring to airport traditions.:** Going through customs is a border procedure, not an example of a local social tradition.
-- **Both uses name offices where travellers' goods are checked.:** Local customs in the guide refers to cultural practices, not necessarily offices.
+- **Local customs are traditions; airport customs is the border-control service.:** 'Customs' counts practices in the first phrase but names the border service in the second; identical spelling does not guarantee the same noun sense.
+- **Both uses count local traditions, with the second referring to airport traditions.:** 'Going through customs' is a border procedure, not an example of a local social tradition.
+- **Both uses name offices where travellers' goods are checked.:** 'Local customs' in the guide refers to cultural practices, not necessarily offices.
 - **Local customs means a single tradition; airport customs means several borders.:** The first plural can cover several traditions, while the second names a service rather than counting borders.
 
 **Decision:** replaced.
@@ -2166,7 +2166,7 @@ The new service plan offers a saving of twenty euros a month.
 
 ID: `coverage-count-and-noncount-nouns-b2-1028`
 
-Choose what premises refers to in this notice.
+Choose what 'premises' refers to in this notice.
 
 Visitors must leave these premises by six. The notice is posted at the entrance to one office building.
 
@@ -2175,13 +2175,13 @@ Visitors must leave these premises by six. The notice is posted at the entrance 
 3. Exactly two separate office buildings.
 4. The visitors' reasons for entering the office.
 
-**Explanation:** Premises is a plural-form noun for a building or property; its form does not require several separate buildings.
+**Explanation:** 'Premises' is a plural-form noun for a building or property; its form does not require several separate buildings.
 
 **Choice feedback:**
 
-- **The property occupied by the office.:** Premises is a plural-form noun for a building or property; its form does not require several separate buildings.
-- **Several assumptions supporting an argument.:** Premises can mean assumptions in reasoning, but a notice about visitors leaving a building uses the property sense.
-- **Exactly two separate office buildings.:** The plural form premises does not specify a building count, and the context identifies one building.
+- **The property occupied by the office.:** 'Premises' is a plural-form noun for a building or property; its form does not require several separate buildings.
+- **Several assumptions supporting an argument.:** 'Premises' can mean assumptions in reasoning, but a notice about visitors leaving a building uses the property sense.
+- **Exactly two separate office buildings.:** The plural form 'premises' does not specify a building count, and the context identifies one building.
 - **The visitors' reasons for entering the office.:** The instruction concerns where visitors must leave, not the grounds for their visit.
 
 **Decision:** replaced.
@@ -2198,7 +2198,7 @@ Visitors must leave these premises by six. The notice is posted at the entrance 
 
 ID: `coverage-count-and-noncount-nouns-b2-1029`
 
-Choose the interpretation of means in this financial statement.
+Choose the interpretation of 'means' in this financial statement.
 
 The artist lives within her means, despite earning an irregular income.
 
@@ -2207,14 +2207,14 @@ The artist lives within her means, despite earning an irregular income.
 3. She spends the same amount as every other artist.
 4. She keeps her spending within her financial resources. **[Correct]**
 
-**Explanation:** Means in this expression refers to available financial resources, not a count of methods.
+**Explanation:** 'Means' in this expression refers to available financial resources, not a count of methods.
 
 **Choice feedback:**
 
-- **She uses only one method to earn her income.:** A means can be a method, but within her means concerns spending relative to resources.
+- **She uses only one method to earn her income.:** 'A means' can be a method, but 'within her means' concerns spending relative to resources.
 - **She lives in a place that provides equipment for artists.:** The expression does not describe a location or equipment.
-- **She spends the same amount as every other artist.:** Her means refers to her own resources, not a comparison with other artists' spending.
-- **She keeps her spending within her financial resources.:** Means in this expression refers to available financial resources, not a count of methods.
+- **She spends the same amount as every other artist.:** 'Her means' refers to her own resources, not a comparison with other artists' spending.
+- **She keeps her spending within her financial resources.:** 'Means' in this expression refers to available financial resources, not a count of methods.
 
 **Decision:** replaced.
 
@@ -2230,7 +2230,7 @@ The artist lives within her means, despite earning an irregular income.
 
 ID: `coverage-count-and-noncount-nouns-b2-1030`
 
-Choose the meaning of peoples in the museum description.
+Choose the meaning of 'peoples' in the museum description.
 
 The exhibition traces the histories of three peoples who have lived in the region.
 
@@ -2239,14 +2239,14 @@ The exhibition traces the histories of three peoples who have lived in the regio
 3. Three distinct cultural or national groups. **[Correct]**
 4. Three generations of the same family.
 
-**Explanation:** A people can mean a cultural or national group; peoples is its plural in this historical context.
+**Explanation:** 'A people' can mean a cultural or national group; 'peoples' is its plural in this historical context.
 
 **Choice feedback:**
 
-- **Three individual residents.:** Individual persons would normally be three people; peoples counts groups.
-- **All residents of the region viewed as one group.:** Three peoples explicitly distinguishes three groups rather than combining the population into one.
-- **Three distinct cultural or national groups.:** A people can mean a cultural or national group; peoples is its plural in this historical context.
-- **Three generations of the same family.:** Peoples does not by itself mean family generations; it identifies larger historical or cultural groups.
+- **Three individual residents.:** Individual persons would normally be 'three people'; 'peoples' counts groups.
+- **All residents of the region viewed as one group.:** 'Three peoples' explicitly distinguishes three groups rather than combining the population into one.
+- **Three distinct cultural or national groups.:** 'A people' can mean a cultural or national group; 'peoples' is its plural in this historical context.
+- **Three generations of the same family.:** 'Peoples' does not by itself mean family generations; it identifies larger historical or cultural groups.
 
 **Decision:** replaced.
 
@@ -2262,7 +2262,7 @@ The exhibition traces the histories of three peoples who have lived in the regio
 
 ID: `coverage-count-and-noncount-nouns-b2-1031`
 
-Choose the interpretation of staff as a counted group, without treating a staff as one employee.
+Choose the interpretation of 'staff' as a counted group, without treating 'a staff' as one employee.
 
 The new hotel has a staff of thirty, including receptionists and cleaners.
 
@@ -2271,14 +2271,14 @@ The new hotel has a staff of thirty, including receptionists and cleaners.
 3. It has thirty receptionists plus an unspecified number of cleaners.
 4. Its workforce consists of thirty employees. **[Correct]**
 
-**Explanation:** A staff can name one workforce; of thirty states how many employees belong to that group.
+**Explanation:** 'A staff' can name one workforce; 'of thirty' states how many employees belong to that group.
 
 **Choice feedback:**
 
-- **It has thirty departments with separate workforces.:** Thirty counts the people within a staff, not separate departments or staff groups.
-- **It employs one person in addition to thirty cleaners.:** A staff names the group containing thirty employees; it is not an additional person.
-- **It has thirty receptionists plus an unspecified number of cleaners.:** Thirty is the total staff count, and including introduces examples within it.
-- **Its workforce consists of thirty employees.:** A staff can name one workforce; of thirty states how many employees belong to that group.
+- **It has thirty departments with separate workforces.:** 'Thirty' counts the people within 'a staff', not separate departments or staff groups.
+- **It employs one person in addition to thirty cleaners.:** 'A staff' names the group containing thirty employees; it is not an additional person.
+- **It has thirty receptionists plus an unspecified number of cleaners.:** 'Thirty' is the total staff count, and 'including' introduces examples within it.
+- **Its workforce consists of thirty employees.:** 'A staff' can name one workforce; 'of thirty' states how many employees belong to that group.
 
 **Decision:** replaced.
 
@@ -2326,7 +2326,7 @@ The draft needs to identify who received the inspection report.
 
 ID: `coverage-count-and-noncount-nouns-b2-1033`
 
-Choose the paraphrase that preserves strengths as particular professional advantages without ranking them or making the list exhaustive.
+Choose the paraphrase that preserves 'strengths' as particular professional advantages without ranking them or making the list exhaustive.
 
 Her professional strengths include careful listening and clear writing.
 
@@ -2335,14 +2335,14 @@ Her professional strengths include careful listening and clear writing.
 3. Her professional strength consists entirely of careful listening and clear writing.
 4. She is developing careful listening and clear writing to overcome professional weaknesses.
 
-**Explanation:** Plural strengths counts particular advantages. Include lists two without saying that these are her only strong points.
+**Explanation:** Plural 'strengths' counts particular advantages. 'Include' lists two without saying that these are her only strong points.
 
 **Choice feedback:**
 
-- **Careful listening and clear writing are two of her professional strong points.:** Plural strengths counts particular advantages. Include lists two without saying that these are her only strong points.
+- **Careful listening and clear writing are two of her professional strong points.:** Plural 'strengths' counts particular advantages. 'Include' lists two without saying that these are her only strong points.
 - **Careful listening is her main strength, while clear writing is less developed.:** The list does not rank the two strengths or describe writing as less developed.
-- **Her professional strength consists entirely of careful listening and clear writing.:** Entirely makes the list exhaustive, which include does not do.
-- **She is developing careful listening and clear writing to overcome professional weaknesses.:** Strengths identifies existing advantages, not weaknesses she is working to overcome.
+- **Her professional strength consists entirely of careful listening and clear writing.:** 'Entirely' makes the list exhaustive, which 'include' does not do.
+- **She is developing careful listening and clear writing to overcome professional weaknesses.:** 'Strengths' identifies existing advantages, not weaknesses she is working to overcome.
 
 **Decision:** replaced.
 
@@ -2390,7 +2390,7 @@ Her responsibilities include approving purchases and arranging staff training.
 
 ID: `coverage-count-and-noncount-nouns-b2-1035`
 
-Choose the interpretation of pleasures that fits the writer's list.
+Choose the interpretation of 'pleasures' that fits the writer's list.
 
 A quiet breakfast and an unhurried walk are among the pleasures of working from home.
 
@@ -2399,14 +2399,14 @@ A quiet breakfast and an unhurried walk are among the pleasures of working from 
 3. They are the only enjoyable aspects of working from home.
 4. They are formal duties required when working from home.
 
-**Explanation:** A pleasure can be a source or experience of enjoyment; pleasures counts such things rather than the feeling itself.
+**Explanation:** 'A pleasure' can be a source or experience of enjoyment; 'pleasures' counts such things rather than the feeling itself.
 
 **Choice feedback:**
 
-- **They are measured quantities of one continuous feeling.:** Pleasures identifies sources or occasions of enjoyment, not measurements of the feeling.
-- **They are particular activities or experiences that give enjoyment.:** A pleasure can be a source or experience of enjoyment; pleasures counts such things rather than the feeling itself.
-- **They are the only enjoyable aspects of working from home.:** Among explicitly places them within a larger possible set.
-- **They are formal duties required when working from home.:** Pleasures describes enjoyable experiences, not obligations.
+- **They are measured quantities of one continuous feeling.:** 'Pleasures' identifies sources or occasions of enjoyment, not measurements of the feeling.
+- **They are particular activities or experiences that give enjoyment.:** 'A pleasure' can be a source or experience of enjoyment; 'pleasures' counts such things rather than the feeling itself.
+- **They are the only enjoyable aspects of working from home.:** 'Among' explicitly places them within a larger possible set.
+- **They are formal duties required when working from home.:** 'Pleasures' describes enjoyable experiences, not obligations.
 
 **Decision:** replaced.
 
@@ -2454,7 +2454,7 @@ Applicants need a working knowledge of Spanish for routine calls; complex negoti
 
 ID: `coverage-count-and-noncount-nouns-b2-1037`
 
-Choose the interpretation of uncertainties in this planning note.
+Choose the interpretation of 'uncertainties' in this planning note.
 
 Two uncertainties remain: whether the site will be available and whether transport can be arranged.
 
@@ -2463,14 +2463,14 @@ Two uncertainties remain: whether the site will be available and whether transpo
 3. The plan has already failed in two separate ways.
 4. Two specific matters have not yet been settled. **[Correct]**
 
-**Explanation:** Uncertainties can count distinct unresolved questions, here site availability and transport.
+**Explanation:** 'Uncertainties' can count distinct unresolved questions, here site availability and transport.
 
 **Choice feedback:**
 
 - **The team experiences twice as much anxiety as before.:** The plural counts unresolved matters; it does not measure a feeling or compare anxiety over time.
-- **Two team members are uncertain about the entire plan.:** Two modifies uncertainties, not the number of people involved.
-- **The plan has already failed in two separate ways.:** Uncertainty means the outcomes are unsettled, not that failure has occurred.
-- **Two specific matters have not yet been settled.:** Uncertainties can count distinct unresolved questions, here site availability and transport.
+- **Two team members are uncertain about the entire plan.:** 'Two' modifies 'uncertainties', not the number of people involved.
+- **The plan has already failed in two separate ways.:** 'Uncertainty' means the outcomes are unsettled, not that failure has occurred.
+- **Two specific matters have not yet been settled.:** 'Uncertainties' can count distinct unresolved questions, here site availability and transport.
 
 **Decision:** replaced.
 
@@ -2486,7 +2486,7 @@ Two uncertainties remain: whether the site will be available and whether transpo
 
 ID: `coverage-count-and-noncount-nouns-b2-1038`
 
-Choose the meaning of room that preserves the negotiation context.
+Choose the meaning of 'room' that preserves the negotiation context.
 
 The draft agreement still leaves room for compromise.
 
@@ -2495,14 +2495,14 @@ The draft agreement still leaves room for compromise.
 3. It identifies a fixed number of terms that must change.
 4. It allows some scope for changing the proposed terms. **[Correct]**
 
-**Explanation:** Room can mean opportunity or scope, not just physical space, and remains uncountable in this figurative use.
+**Explanation:** 'Room' can mean opportunity or scope, not just physical space, and remains uncountable in this figurative use.
 
 **Choice feedback:**
 
-- **It reserves a meeting room for the negotiators.:** A room would name a physical space; room for compromise is a figurative uncountable use.
+- **It reserves a meeting room for the negotiators.:** 'A room' would name a physical space; 'room for compromise' is a figurative uncountable use.
 - **It guarantees that a compromise will be reached.:** Having room for compromise makes it possible but does not guarantee agreement.
-- **It identifies a fixed number of terms that must change.:** Room gives no exact count and does not require changes to occur.
-- **It allows some scope for changing the proposed terms.:** Room can mean opportunity or scope, not just physical space, and remains uncountable in this figurative use.
+- **It identifies a fixed number of terms that must change.:** 'Room' gives no exact count and does not require changes to occur.
+- **It allows some scope for changing the proposed terms.:** 'Room' can mean opportunity or scope, not just physical space, and remains uncountable in this figurative use.
 
 **Decision:** replaced.
 
@@ -2550,7 +2550,7 @@ The editor is specifying how the text should be typed.
 
 ID: `coverage-count-and-noncount-nouns-b2-1040`
 
-Choose the reading of the two uses of capital.
+Choose the reading of the two uses of 'capital'.
 
 The company opened an office in the capital but had little capital left to expand it.
 
@@ -2559,13 +2559,13 @@ The company opened an office in the capital but had little capital left to expan
 3. The first refers to funds; the second names a city.
 4. Both uses refer to the company's written capital letters.
 
-**Explanation:** The capital identifies a capital city; little capital quantifies funds as an uncountable resource.
+**Explanation:** 'The capital' identifies a capital city; 'little capital' quantifies funds as an uncountable resource.
 
 **Choice feedback:**
 
-- **Both uses count offices in important cities.:** Capital does not count offices, and the second use concerns available funds.
-- **The first names a city; the second refers to financial resources.:** The capital identifies a capital city; little capital quantifies funds as an uncountable resource.
-- **The first refers to funds; the second names a city.:** This reverses the meanings fixed by in the capital and little capital left to expand.
+- **Both uses count offices in important cities.:** 'Capital' does not count offices, and the second use concerns available funds.
+- **The first names a city; the second refers to financial resources.:** 'The capital' identifies a capital city; 'little capital' quantifies funds as an uncountable resource.
+- **The first refers to funds; the second names a city.:** This reverses the meanings fixed by 'in the capital' and 'little capital left to expand'.
 - **Both uses refer to the company's written capital letters.:** The location and funding context exclude the typographic meaning of capitals.
 
 **Decision:** replaced.
@@ -2586,7 +2586,7 @@ The company opened an office in the capital but had little capital left to expan
 
 ID: `coverage-count-and-noncount-nouns-c1-1041`
 
-Choose the editorial objection that follows from the difference between evidence and proof.
+Choose the editorial objection that follows from the difference between 'evidence' and 'proof'.
 
 Original: 'The chapter presents several pieces of evidence for the claim.' Edit: 'The chapter presents several conclusive proofs of the claim.'
 
@@ -2595,14 +2595,14 @@ Original: 'The chapter presents several pieces of evidence for the claim.' Edit:
 3. The edit preserves the meaning because each piece of evidence is one complete proof.
 4. The edit merely changes an exact count into an approximate one.
 
-**Explanation:** Pieces of evidence counts supporting items; calling them conclusive proofs adds an unwarranted claim about their decisive force.
+**Explanation:** 'Pieces of evidence' counts supporting items; calling them 'conclusive proofs' adds an unwarranted claim about their decisive force.
 
 **Choice feedback:**
 
-- **The edit turns supporting material into conclusive demonstrations, which the original does not promise.:** Pieces of evidence counts supporting items; calling them conclusive proofs adds an unwarranted claim about their decisive force.
-- **The edit is wrong because proof can never be a countable noun.:** Proof can count a demonstration, especially in mathematics or argument; the issue here is the added strength of the assertion.
+- **The edit turns supporting material into conclusive demonstrations, which the original does not promise.:** 'Pieces of evidence' counts supporting items; calling them 'conclusive proofs' adds an unwarranted claim about their decisive force.
+- **The edit is wrong because proof can never be a countable noun.:** 'Proof' can count a demonstration, especially in mathematics or argument; the issue here is the added strength of the assertion.
 - **The edit preserves the meaning because each piece of evidence is one complete proof.:** An item of evidence may contribute to a case without independently proving it.
-- **The edit merely changes an exact count into an approximate one.:** Several is nonexact in both versions; the important change is from evidence to conclusive proof.
+- **The edit merely changes an exact count into an approximate one.:** 'Several' is nonexact in both versions; the important change is from 'evidence' to 'conclusive proof'.
 
 **Decision:** replaced.
 
@@ -2716,21 +2716,21 @@ ID: `coverage-count-and-noncount-nouns-c1-1045`
 
 Choose the accurate editorial response to the proposed rule.
 
-Draft: 'The team collected insufficient samples to assess seasonal variation.' An editor claims that insufficient can modify only uncountable nouns and wants sample instead.
+Draft: 'The team collected insufficient samples to assess seasonal variation.' An editor claims that 'insufficient' can modify only uncountable nouns and wants 'sample' instead.
 
 1. Use sample because insufficient makes the following noun uncountable.
 2. Use samples only if every sample is individually incomplete.
 3. Keep samples: insufficient can modify plural count nouns as well as uncountable nouns. **[Correct]**
 4. Replace insufficient with little while keeping samples.
 
-**Explanation:** Insufficient samples means the number or adequacy of the samples was not enough; insufficient is not restricted to mass nouns.
+**Explanation:** 'Insufficient samples' means the number or adequacy of the samples was not enough; 'insufficient' is not restricted to mass nouns.
 
 **Choice feedback:**
 
-- **Use sample because insufficient makes the following noun uncountable.:** Insufficient expresses inadequacy; it does not automatically change the noun's countability.
+- **Use sample because insufficient makes the following noun uncountable.:** 'Insufficient' expresses inadequacy; it does not automatically change the noun's countability.
 - **Use samples only if every sample is individually incomplete.:** The phrase can concern an inadequate number or coverage of complete samples; individual incompleteness is not required.
-- **Keep samples: insufficient can modify plural count nouns as well as uncountable nouns.:** Insufficient samples means the number or adequacy of the samples was not enough; insufficient is not restricted to mass nouns.
-- **Replace insufficient with little while keeping samples.:** Little does not directly quantify plural countable samples in this meaning; too few samples would express a numerical shortage.
+- **Keep samples: insufficient can modify plural count nouns as well as uncountable nouns.:** 'Insufficient samples' means the number or adequacy of the samples was not enough; 'insufficient' is not restricted to mass nouns.
+- **Replace insufficient with little while keeping samples.:** 'Little' does not directly quantify plural countable 'samples' in this meaning; 'too few samples' would express a numerical shortage.
 
 **Decision:** replaced.
 
@@ -2746,7 +2746,7 @@ Draft: 'The team collected insufficient samples to assess seasonal variation.' A
 
 ID: `coverage-count-and-noncount-nouns-c1-1046`
 
-Choose the reading that preserves the countable plural understandings.
+Choose the reading that preserves the countable plural 'understandings'.
 
 The two departments have different understandings of what counts as a completed case.
 
@@ -2755,12 +2755,12 @@ The two departments have different understandings of what counts as a completed 
 3. Neither department understands what a case is.
 4. Both departments have agreed on a single completion criterion.
 
-**Explanation:** Understandings can count interpretations or conceptions of a matter, while understanding without s often describes comprehension generally.
+**Explanation:** 'Understandings' can count interpretations or conceptions of a matter, while 'understanding' without 's' often describes comprehension generally.
 
 **Choice feedback:**
 
-- **One department understands the criterion better than the other.:** Different understandings identifies differing interpretations, not a ranking of comprehension.
-- **They interpret the completion criterion differently.:** Understandings can count interpretations or conceptions of a matter, while understanding without s often describes comprehension generally.
+- **One department understands the criterion better than the other.:** 'Different understandings' identifies differing interpretations, not a ranking of comprehension.
+- **They interpret the completion criterion differently.:** 'Understandings' can count interpretations or conceptions of a matter, while 'understanding' without 's' often describes comprehension generally.
 - **Neither department understands what a case is.:** Different interpretations do not establish absence of understanding in either department.
 - **Both departments have agreed on a single completion criterion.:** The sentence points to a difference between their interpretations, not agreement on one reading.
 
@@ -2778,7 +2778,7 @@ The two departments have different understandings of what counts as a completed 
 
 ID: `coverage-count-and-noncount-nouns-c1-1047`
 
-Choose the paraphrase of an understanding that fits the negotiation context.
+Choose the paraphrase of 'an understanding' that fits the negotiation context.
 
 After discussing the timetable, the two teams reached an understanding about weekend access.
 
@@ -2787,14 +2787,14 @@ After discussing the timetable, the two teams reached an understanding about wee
 3. They each developed a separate interpretation of weekend access.
 4. They came to an agreement about weekend access. **[Correct]**
 
-**Explanation:** An understanding can be a countable agreement, distinct from uncountable understanding as comprehension.
+**Explanation:** 'An understanding' can be a countable agreement, distinct from uncountable 'understanding' as comprehension.
 
 **Choice feedback:**
 
-- **They developed a common explanation of why the access system was unreliable.:** A shared explanation would concern comprehension of a problem; reached an understanding here reports an agreement about access.
+- **They developed a common explanation of why the access system was unreliable.:** A shared explanation would concern comprehension of a problem; 'reached an understanding' here reports an agreement about access.
 - **They recognized each other's objections without agreeing on access.:** Reaching an understanding goes beyond recognizing opposing views: it presents an agreement.
-- **They each developed a separate interpretation of weekend access.:** Reached an understanding presents a shared agreement, not separate readings that may differ.
-- **They came to an agreement about weekend access.:** An understanding can be a countable agreement, distinct from uncountable understanding as comprehension.
+- **They each developed a separate interpretation of weekend access.:** 'Reached an understanding' presents a shared agreement, not separate readings that may differ.
+- **They came to an agreement about weekend access.:** 'An understanding' can be a countable agreement, distinct from uncountable 'understanding' as comprehension.
 
 **Decision:** replaced.
 
@@ -2810,7 +2810,7 @@ After discussing the timetable, the two teams reached an understanding about wee
 
 ID: `coverage-count-and-noncount-nouns-c1-1048`
 
-Choose the interpretation of interests that preserves the disclosure context.
+Choose the interpretation of 'interests' that preserves the disclosure context.
 
 Before joining the panel, she declared her financial interests in two companies.
 
@@ -2819,13 +2819,13 @@ Before joining the panel, she declared her financial interests in two companies.
 3. She described how curious she was about the companies' finances.
 4. She reported that the companies had identical financial goals.
 
-**Explanation:** Financial interests can be countable stakes or connections that matter in a disclosure; the plural does not simply measure curiosity or interest income.
+**Explanation:** 'Financial interests' can be countable stakes or connections that matter in a disclosure; the plural does not simply measure curiosity or interest income.
 
 **Choice feedback:**
 
-- **She disclosed financial stakes or connections in those companies.:** Financial interests can be countable stakes or connections that matter in a disclosure; the plural does not simply measure curiosity or interest income.
-- **She disclosed the interest rates paid by the companies.:** Interest rates would concern charges or returns on money; interests here refers to her financial stakes or connections.
-- **She described how curious she was about the companies' finances.:** Interest as curiosity is not the financial-stake meaning required by declared...interests in this context.
+- **She disclosed financial stakes or connections in those companies.:** 'Financial interests' can be countable stakes or connections that matter in a disclosure; the plural does not simply measure curiosity or interest income.
+- **She disclosed the interest rates paid by the companies.:** 'Interest rates' would concern charges or returns on money; 'interests' here refers to her financial stakes or connections.
+- **She described how curious she was about the companies' finances.:** 'Interest' as curiosity is not the financial-stake meaning required by 'declared...interests' in this context.
 - **She reported that the companies had identical financial goals.:** The sentence describes her interests, not a shared objective of the companies.
 
 **Decision:** replaced.
@@ -2906,7 +2906,7 @@ The oral-history chapter describes the workers' experiences during the factory's
 
 ID: `coverage-count-and-noncount-nouns-c1-1051`
 
-Choose the interpretation of histories that fits the contrast between accounts.
+Choose the interpretation of 'histories' that fits the contrast between accounts.
 
 The exhibition presents competing histories of the same town, each written from a different social perspective.
 
@@ -2915,13 +2915,13 @@ The exhibition presents competing histories of the same town, each written from 
 3. Different accounts or interpretations of the town's past. **[Correct]**
 4. Separate historical periods that cannot overlap.
 
-**Explanation:** A history can be a written account of past events; competing histories can recount one town from different perspectives.
+**Explanation:** 'A history' can be a written account of past events; 'competing histories' can recount one town from different perspectives.
 
 **Choice feedback:**
 
-- **Different pasts lived by several unrelated towns.:** The sentence identifies the same town; histories counts accounts of its past, not separate towns.
-- **Different lengths of time for which the town has existed.:** Histories does not give competing durations of existence; it identifies differing narratives.
-- **Different accounts or interpretations of the town's past.:** A history can be a written account of past events; competing histories can recount one town from different perspectives.
+- **Different pasts lived by several unrelated towns.:** The sentence identifies the same town; 'histories' counts accounts of its past, not separate towns.
+- **Different lengths of time for which the town has existed.:** 'Histories' does not give competing durations of existence; it identifies differing narratives.
+- **Different accounts or interpretations of the town's past.:** 'A history' can be a written account of past events; 'competing histories' can recount one town from different perspectives.
 - **Separate historical periods that cannot overlap.:** The accounts may cover overlapping periods; the plural does not establish a division into nonoverlapping eras.
 
 **Decision:** replaced.
@@ -2938,7 +2938,7 @@ The exhibition presents competing histories of the same town, each written from 
 
 ID: `coverage-count-and-noncount-nouns-c1-1052`
 
-Choose the interpretation of a literature that fits this academic usage.
+Choose the interpretation of 'a literature' that fits this academic usage.
 
 A substantial literature has developed on how cities reuse industrial buildings.
 
@@ -2947,14 +2947,14 @@ A substantial literature has developed on how cities reuse industrial buildings.
 3. Researchers have reached a shared conclusion about the topic.
 4. A substantial body of published work addresses the topic. **[Correct]**
 
-**Explanation:** A literature is a conventional academic use for a body of writing on a particular topic, even though literature is often uncountable more generally.
+**Explanation:** 'A literature' is a conventional academic use for a body of writing on a particular topic, even though 'literature' is often uncountable more generally.
 
 **Choice feedback:**
 
-- **One unusually long book addresses the topic.:** A literature can refer to a body of work; the article does not reduce it to one book.
-- **An extensive annotated list of publications has been produced.:** A literature means the body of writing itself, not necessarily a bibliography or annotated list of it.
+- **One unusually long book addresses the topic.:** 'A literature' can refer to a body of work; the article does not reduce it to one book.
+- **An extensive annotated list of publications has been produced.:** 'A literature' means the body of writing itself, not necessarily a bibliography or annotated list of it.
 - **Researchers have reached a shared conclusion about the topic.:** A substantial literature can include disagreement; the existence of a body of work does not establish consensus.
-- **A substantial body of published work addresses the topic.:** A literature is a conventional academic use for a body of writing on a particular topic, even though literature is often uncountable more generally.
+- **A substantial body of published work addresses the topic.:** 'A literature' is a conventional academic use for a body of writing on a particular topic, even though 'literature' is often uncountable more generally.
 
 **Decision:** replaced.
 
@@ -3034,7 +3034,7 @@ The essay describes the less obvious beauties of the old industrial landscape.
 
 ID: `coverage-count-and-noncount-nouns-c1-1055`
 
-Choose the paraphrase that treats an injustice as a particular wrong without limiting its effects to one person.
+Choose the paraphrase that treats 'an injustice' as a particular wrong without limiting its effects to one person.
 
 The campaign challenged an injustice that affected several neighbourhoods.
 
@@ -3043,14 +3043,14 @@ The campaign challenged an injustice that affected several neighbourhoods.
 3. It challenged a wrong affecting exactly one resident.
 4. It challenged several unrelated wrongs, one in each neighbourhood.
 
-**Explanation:** An injustice counts a particular wrong or unfair arrangement; the following clause states that its effects extend across neighbourhoods.
+**Explanation:** 'An injustice' counts a particular wrong or unfair arrangement; the following clause states that its effects extend across neighbourhoods.
 
 **Choice feedback:**
 
-- **It challenged one identifiable wrong affecting several neighbourhoods.:** An injustice counts a particular wrong or unfair arrangement; the following clause states that its effects extend across neighbourhoods.
-- **It challenged the general existence of unfairness without identifying any particular wrong.:** An injustice presents an identifiable instance or form of unfairness, not only the abstract condition.
-- **It challenged a wrong affecting exactly one resident.:** A singular injustice can affect many people; its grammatical number does not count those affected.
-- **It challenged several unrelated wrongs, one in each neighbourhood.:** The original uses one injustice and does not distribute separate wrongs across the neighbourhoods.
+- **It challenged one identifiable wrong affecting several neighbourhoods.:** 'An injustice' counts a particular wrong or unfair arrangement; the following clause states that its effects extend across neighbourhoods.
+- **It challenged the general existence of unfairness without identifying any particular wrong.:** 'An injustice' presents an identifiable instance or form of unfairness, not only the abstract condition.
+- **It challenged a wrong affecting exactly one resident.:** A singular 'injustice' can affect many people; its grammatical number does not count those affected.
+- **It challenged several unrelated wrongs, one in each neighbourhood.:** The original uses 'one injustice' and does not distribute separate wrongs across the neighbourhoods.
 
 **Decision:** replaced.
 
@@ -3130,7 +3130,7 @@ Original: 'Emergency supplies were delivered in two shipments.' Edit: 'Two emerg
 
 ID: `coverage-count-and-noncount-nouns-c1-1058`
 
-Choose the meaning of economy in this explanation of the editor's cuts.
+Choose the meaning of 'economy' in this explanation of the editor's cuts.
 
 Several repeated examples were removed for reasons of economy, not because their content was inaccurate.
 
@@ -3139,14 +3139,14 @@ Several repeated examples were removed for reasons of economy, not because their
 3. They were removed to narrow the article to one economic theory.
 4. They were removed to use words or space more efficiently. **[Correct]**
 
-**Explanation:** Economy can be an uncountable quality of avoiding waste; repeated examples invite a concise-editing interpretation.
+**Explanation:** 'Economy' can be an uncountable quality of avoiding waste; repeated examples invite a concise-editing interpretation.
 
 **Choice feedback:**
 
-- **They were removed because the writer charged a separate fee for every example.:** Reasons of economy can concern resources, but the editing context does not establish a fee arrangement.
+- **They were removed because the writer charged a separate fee for every example.:** 'Reasons of economy' can concern resources, but the editing context does not establish a fee arrangement.
 - **They were removed because repetition made the underlying claims false.:** The sentence explicitly excludes inaccuracy as the reason for the cuts.
-- **They were removed to narrow the article to one economic theory.:** Economy describes efficiency of expression here, not a named theory or a change in subject matter.
-- **They were removed to use words or space more efficiently.:** Economy can be an uncountable quality of avoiding waste; repeated examples invite a concise-editing interpretation.
+- **They were removed to narrow the article to one economic theory.:** 'Economy' describes efficiency of expression here, not a named theory or a change in subject matter.
+- **They were removed to use words or space more efficiently.:** 'Economy' can be an uncountable quality of avoiding waste; repeated examples invite a concise-editing interpretation.
 
 **Decision:** replaced.
 
@@ -3194,7 +3194,7 @@ The archive holds three designs for the tower; the note does not say which were 
 
 ID: `coverage-count-and-noncount-nouns-c1-1060`
 
-Choose the reading of languages that fits this comparison of academic disciplines.
+Choose the reading of 'languages' that fits this comparison of academic disciplines.
 
 Although both articles are written in English, the editor says that sociology and engineering use different languages to discuss risk.
 
@@ -3203,14 +3203,14 @@ Although both articles are written in English, the editor says that sociology an
 3. The disciplines address readers with different levels of English proficiency.
 4. The disciplines use different specialized vocabularies and ways of expressing ideas. **[Correct]**
 
-**Explanation:** Languages can count distinct systems or styles of expression within one natural language, especially in this disciplinary comparison.
+**Explanation:** 'Languages' can count distinct systems or styles of expression within one natural language, especially in this disciplinary comparison.
 
 **Choice feedback:**
 
 - **The disciplines have translated the same analysis from different national languages.:** Both articles are written in English, and the comment concerns disciplinary expression rather than a stated translation history.
-- **The disciplines use the same terminology but disagree only about numerical results.:** Different languages points to different expressive systems or terminology, not merely different numerical conclusions.
+- **The disciplines use the same terminology but disagree only about numerical results.:** 'Different languages' points to different expressive systems or terminology, not merely different numerical conclusions.
 - **The disciplines address readers with different levels of English proficiency.:** Specialized disciplinary language does not by itself establish the readers' general proficiency in English.
-- **The disciplines use different specialized vocabularies and ways of expressing ideas.:** Languages can count distinct systems or styles of expression within one natural language, especially in this disciplinary comparison.
+- **The disciplines use different specialized vocabularies and ways of expressing ideas.:** 'Languages' can count distinct systems or styles of expression within one natural language, especially in this disciplinary comparison.
 
 **Decision:** replaced.
 
@@ -3518,7 +3518,7 @@ Original: 'The reviewer gave no grounds for rejecting the submission.' Edit: 'Th
 
 ID: `coverage-count-and-noncount-nouns-c2-1070`
 
-Choose the accurate assessment of the plural methods in the proposed rewrite.
+Choose the accurate assessment of the plural 'methods' in the proposed rewrite.
 
 Original: 'Their means of communication proved reliable.' Edit: 'Their communication methods were reliable.' No other context identifies how many methods were used.
 
@@ -3527,14 +3527,14 @@ Original: 'Their means of communication proved reliable.' Edit: 'Their communica
 3. The edit fixes a plural count that the original wording leaves open. **[Correct]**
 4. The edit reduces several methods to one shared system of communication.
 
-**Explanation:** Means can be singular or plural, their does not decide its number, and past-tense proved supplies no agreement distinction. Methods explicitly chooses plural.
+**Explanation:** 'Means' can be singular or plural, 'their' does not decide its number, and past-tense 'proved' supplies no agreement distinction. 'Methods' explicitly chooses plural.
 
 **Choice feedback:**
 
-- **The edit preserves an explicit plural because their assigns a separate method to each person.:** Their can refer to a shared method as well as separate ones; a plural possessor does not determine the number of means.
+- **The edit preserves an explicit plural because their assigns a separate method to each person.:** 'Their' can refer to a shared method as well as separate ones; a plural possessor does not determine the number of 'means'.
 - **The edit removes a claim that each person used the same method.:** The original allows a shared method but does not assert one; the edit does not remove an established shared-method claim.
-- **The edit fixes a plural count that the original wording leaves open.:** Means can be singular or plural, their does not decide its number, and past-tense proved supplies no agreement distinction. Methods explicitly chooses plural.
-- **The edit reduces several methods to one shared system of communication.:** Methods is explicitly plural. It does not reduce the count to one system.
+- **The edit fixes a plural count that the original wording leaves open.:** 'Means' can be singular or plural, 'their' does not decide its number, and past-tense 'proved' supplies no agreement distinction. 'Methods' explicitly chooses plural.
+- **The edit reduces several methods to one shared system of communication.:** 'Methods' is explicitly plural. It does not reduce the count to one system.
 
 **Decision:** replaced.
 
@@ -3550,7 +3550,7 @@ Original: 'Their means of communication proved reliable.' Edit: 'Their communica
 
 ID: `coverage-count-and-noncount-nouns-c2-1071`
 
-Choose the editorial assessment that best accounts for the change from plural to uncountable silence.
+Choose the editorial assessment that best accounts for the change from plural to uncountable 'silence'.
 
 A memoir describes an interview: 'Her silences unsettled me.' An editor proposes 'Her silence unsettled me.' No other sentence describes the pauses.
 
@@ -3559,14 +3559,14 @@ A memoir describes an interview: 'Her silences unsettled me.' An editor proposes
 3. The edit no longer explicitly presents separate episodes of silence. **[Correct]**
 4. The edit changes deliberate pauses into an involuntary inability to speak.
 
-**Explanation:** Silences presents distinct stretches or occasions. Silence presents the state generally, so the explicit segmentation is lost, even though repeated pauses remain possible.
+**Explanation:** 'Silences' presents distinct stretches or occasions. 'Silence' presents the state generally, so the explicit segmentation is lost, even though repeated pauses remain possible.
 
 **Choice feedback:**
 
-- **The edit establishes that she said nothing throughout the interview.:** Singular silence does not by itself establish an uninterrupted absence of speech throughout the interview.
+- **The edit establishes that she said nothing throughout the interview.:** Singular 'silence' does not by itself establish an uninterrupted absence of speech throughout the interview.
 - **The edit preserves the same segmentation because her refers to the same speaker.:** The possessive identifies whose silence is involved, not whether it is presented as separate episodes.
-- **The edit no longer explicitly presents separate episodes of silence.:** Silences presents distinct stretches or occasions. Silence presents the state generally, so the explicit segmentation is lost, even though repeated pauses remain possible.
-- **The edit changes deliberate pauses into an involuntary inability to speak.:** Neither countable silences nor uncountable silence by itself establishes intention or an inability to speak.
+- **The edit no longer explicitly presents separate episodes of silence.:** 'Silences' presents distinct stretches or occasions. 'Silence' presents the state generally, so the explicit segmentation is lost, even though repeated pauses remain possible.
+- **The edit changes deliberate pauses into an involuntary inability to speak.:** Neither countable 'silences' nor uncountable 'silence' by itself establishes intention or an inability to speak.
 
 **Decision:** replaced.
 

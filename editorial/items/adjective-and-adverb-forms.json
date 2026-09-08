@@ -688,7 +688,7 @@
     {
       "id": "coverage-adjective-and-adverb-forms-a2-143",
       "level": "A2",
-      "setupText": "You have seen a neighbour several times in recent days. Choose the word meaning recently.",
+      "setupText": "You have seen a neighbour several times in recent days. Choose the word meaning 'recently'.",
       "taskText": "'I've seen Jo a lot ___.'",
       "options": [
         "late",
@@ -697,11 +697,11 @@
         "latest"
       ],
       "answer": "lately",
-      "explanation": "'Lately' means recently, often with the present perfect as here.",
+      "explanation": "'Lately' means 'recently', often with the present perfect as here.",
       "rationales": {
         "late": "'Late' relates to a delayed or late-hour event, not generally to recent days.",
         "later": "'Later' points to a subsequent time, not the recent period described here.",
-        "lately": "'Lately' means recently, often with the present perfect as here.",
+        "lately": "'Lately' means 'recently', often with the present perfect as here.",
         "latest": "'Latest' normally describes the most recent item, not this period of seeing Jo."
       },
       "audit": {

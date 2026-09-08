@@ -42,7 +42,7 @@ The ___ helped the morning class.
 
 ID: `coverage-word-forms-a1-3962`
 
-Choose the action form that follows can.
+Choose the action form that follows 'can'.
 
 On Friday, I can ___ from home.
 
@@ -51,14 +51,14 @@ On Friday, I can ___ from home.
 3. work **[Correct]**
 4. worked
 
-**Explanation:** Can is followed by the base form of a verb: can work.
+**Explanation:** 'Can' is followed by the base form of a verb: 'can work'.
 
 **Choice feedback:**
 
-- **worker:** Worker names a person, not the action after can.
-- **working:** After can, use the base verb work, not the -ing form.
-- **work:** Can is followed by the base form of a verb: can work.
-- **worked:** Worked is a past form; can takes work without a past ending.
+- **worker:** 'Worker' names a person, not the action after 'can'.
+- **working:** After 'can', use the base verb 'work', not the '-ing' form.
+- **work:** 'Can' is followed by the base form of a verb: 'can work'.
+- **worked:** 'Worked' is a past form; 'can' takes 'work' without a past ending.
 
 **Decision:** replaced.
 
@@ -234,7 +234,7 @@ Her voice is ___.
 
 ID: `coverage-word-forms-a1-3968`
 
-Choose the usual meaning of cleaner when it names a job.
+Choose the usual meaning of 'cleaner' when it names a job.
 
 Marta works as a cleaner.
 
@@ -243,12 +243,12 @@ Marta works as a cleaner.
 3. Marta needs someone to clean her home.
 4. Marta works in a room that is very clean.
 
-**Explanation:** Cleaner can name a person whose work is cleaning.
+**Explanation:** 'Cleaner' can name a person whose work is cleaning.
 
 **Choice feedback:**
 
-- **Marta cleans rooms or buildings as her job.:** Cleaner can name a person whose work is cleaning.
-- **Marta owns a shop selling cleaning products.:** Selling cleaning products is not the job named by cleaner.
+- **Marta cleans rooms or buildings as her job.:** 'Cleaner' can name a person whose work is cleaning.
+- **Marta owns a shop selling cleaning products.:** Selling cleaning products is not the job named by 'cleaner'.
 - **Marta needs someone to clean her home.:** Needing a cleaner does not mean working as one.
 - **Marta works in a room that is very clean.:** A clean workplace does not identify the worker's occupation.
 
@@ -266,7 +266,7 @@ Marta works as a cleaner.
 
 ID: `coverage-word-forms-a1-3969`
 
-Choose the present-tense action word after we.
+Choose the present-tense action word after 'we'.
 
 We ___ vegetables in our small garden.
 
@@ -275,14 +275,14 @@ We ___ vegetables in our small garden.
 3. grower
 4. growing
 
-**Explanation:** Use grow with we in the present simple: we grow vegetables.
+**Explanation:** Use 'grow' with 'we' in the present simple: 'we grow vegetables'.
 
 **Choice feedback:**
 
-- **grown:** Grown is a past participle; it cannot stand alone as the present verb after we.
-- **grow:** Use grow with we in the present simple: we grow vegetables.
-- **grower:** Grower names a person or business that grows things, not the action in this sentence.
-- **growing:** For an action happening now, say 'we are growing'; growing alone is incomplete here.
+- **grown:** 'Grown' is a past participle; it cannot stand alone as the present verb after 'we'.
+- **grow:** Use 'grow' with 'we' in the present simple: 'we grow vegetables'.
+- **grower:** 'Grower' names a person or business that grows things, not the action in this sentence.
+- **growing:** For an action happening now, say 'we are growing'; 'growing' alone is incomplete here.
 
 **Decision:** replaced.
 
@@ -394,7 +394,7 @@ Lunch is ___.
 
 ID: `coverage-word-forms-a1-3973`
 
-Choose the form used for an activity after enjoy.
+Choose the form used for an activity after 'enjoy'.
 
 I enjoy ___ the newspaper with breakfast.
 
@@ -403,14 +403,14 @@ I enjoy ___ the newspaper with breakfast.
 3. reads
 4. reading **[Correct]**
 
-**Explanation:** Enjoy can be followed by an -ing activity: enjoy reading the newspaper.
+**Explanation:** 'Enjoy' can be followed by an '-ing' activity: 'enjoy reading the newspaper'.
 
 **Choice feedback:**
 
-- **read:** After enjoy, use the -ing form to name an activity: enjoy reading.
-- **reader:** Reader names a person, not the activity enjoyed.
-- **reads:** Reads is a present-tense verb form for he or she, not the activity after enjoy.
-- **reading:** Enjoy can be followed by an -ing activity: enjoy reading the newspaper.
+- **read:** After 'enjoy', use the '-ing' form to name an activity: 'enjoy reading'.
+- **reader:** 'Reader' names a person, not the activity enjoyed.
+- **reads:** 'Reads' is a present-tense verb form for 'he' or 'she', not the activity after 'enjoy'.
+- **reading:** 'Enjoy' can be followed by an '-ing' activity: 'enjoy reading the newspaper'.
 
 **Decision:** replaced.
 
@@ -458,7 +458,7 @@ It's a ___ day, so take an umbrella.
 
 ID: `coverage-word-forms-a1-3975`
 
-Choose the action form after is for something happening now.
+Choose the action form after 'is' for something happening now.
 
 Amina is ___ at the market right now.
 
@@ -467,14 +467,14 @@ Amina is ___ at the market right now.
 3. shopping **[Correct]**
 4. shopper
 
-**Explanation:** Is shopping is the present continuous form for her activity now.
+**Explanation:** 'Is shopping' is the present continuous form for her activity now.
 
 **Choice feedback:**
 
-- **shop:** The base verb shop does not follow is to form this continuing action.
-- **shops:** Shops belongs in 'Amina shops'; after is, use shopping.
-- **shopping:** Is shopping is the present continuous form for her activity now.
-- **shopper:** Shopper names a person and would need an article; it does not express the ongoing action here.
+- **shop:** The base verb 'shop' does not follow 'is' to form this continuing action.
+- **shops:** 'Shops' belongs in 'Amina shops'; after 'is', use 'shopping'.
+- **shopping:** 'Is shopping' is the present continuous form for her activity now.
+- **shopper:** 'Shopper' names a person and would need an article; it does not express the ongoing action here.
 
 **Decision:** replaced.
 
@@ -490,7 +490,7 @@ Amina is ___ at the market right now.
 
 ID: `coverage-word-forms-a1-3976`
 
-Choose the word that means not happy.
+Choose the word that means 'not happy'.
 
 The customer is ___ with the broken chair.
 
@@ -499,14 +499,14 @@ The customer is ___ with the broken chair.
 3. happily
 4. unhappy **[Correct]**
 
-**Explanation:** The prefix un- makes happy negative: unhappy means not happy.
+**Explanation:** The prefix 'un-' makes 'happy' negative: 'unhappy' means 'not happy'.
 
 **Choice feedback:**
 
-- **happier:** Happier means more happy, not unhappy.
-- **happiness:** Happiness names the feeling; it does not describe the customer after is.
-- **happily:** Happily describes how an action happens, not this negative feeling.
-- **unhappy:** The prefix un- makes happy negative: unhappy means not happy.
+- **happier:** 'Happier' means 'more happy', not 'unhappy'.
+- **happiness:** 'Happiness' names the feeling; it does not describe the customer after 'is'.
+- **happily:** 'Happily' describes how an action happens, not this negative feeling.
+- **unhappy:** The prefix 'un-' makes 'happy' negative: 'unhappy' means 'not happy'.
 
 **Decision:** replaced.
 
@@ -618,7 +618,7 @@ My neighbour is a fast ___.
 
 ID: `coverage-word-forms-a1-3980`
 
-What does the word swimming name in this sentence?
+What does the word 'swimming' name in this sentence?
 
 Swimming is my favourite exercise.
 
@@ -627,14 +627,14 @@ Swimming is my favourite exercise.
 3. A place for exercise.
 4. A quality of the exercise.
 
-**Explanation:** An -ing form can name an activity and act as the subject: swimming is exercise.
+**Explanation:** An '-ing' form can name an activity and act as the subject: 'swimming is exercise'.
 
 **Choice feedback:**
 
-- **An activity.:** An -ing form can name an activity and act as the subject: swimming is exercise.
-- **A person who exercises.:** That person could be a swimmer; swimming names what they do.
-- **A place for exercise.:** The place might be a swimming pool, but swimming alone names the activity.
-- **A quality of the exercise.:** The word favourite describes a quality here; swimming identifies the activity.
+- **An activity.:** An '-ing' form can name an activity and act as the subject: 'swimming is exercise'.
+- **A person who exercises.:** That person could be a swimmer; 'swimming' names what they do.
+- **A place for exercise.:** The place might be a swimming pool, but 'swimming' alone names the activity.
+- **A quality of the exercise.:** The word 'favourite' describes a quality here; 'swimming' identifies the activity.
 
 **Decision:** replaced.
 
@@ -814,7 +814,7 @@ The new microphone has made a noticeable ___.
 
 ID: `coverage-word-forms-a2-3986`
 
-Choose the usual noun used before time on a flight timetable.
+Choose the usual noun used before 'time' on a flight timetable.
 
 The screen shows our flight's ___ time as 18:40.
 
@@ -823,14 +823,14 @@ The screen shows our flight's ___ time as 18:40.
 3. arriving
 4. arrival **[Correct]**
 
-**Explanation:** Arrival is a noun that can modify another noun: arrival time means the time of arriving.
+**Explanation:** 'Arrival' is a noun that can modify another noun: 'arrival time' means the time of arriving.
 
 **Choice feedback:**
 
-- **arrive:** Arrive is the verb, not the usual noun modifier in arrival time.
-- **arrived:** Arrived is a past verb form; arrived time is not the normal timetable label.
-- **arriving:** Arriving describes the action or a flight, but arrival time is the conventional noun combination requested.
-- **arrival:** Arrival is a noun that can modify another noun: arrival time means the time of arriving.
+- **arrive:** 'Arrive' is the verb, not the usual noun modifier in 'arrival time'.
+- **arrived:** 'Arrived' is a past verb form; 'arrived time' is not the normal timetable label.
+- **arriving:** 'Arriving' describes the action or a flight, but 'arrival time' is the conventional noun combination requested.
+- **arrival:** 'Arrival' is a noun that can modify another noun: 'arrival time' means the time of arriving.
 
 **Decision:** replaced.
 
@@ -878,7 +878,7 @@ We have a ___ of two rooms. Which one shall we ___?
 
 ID: `coverage-word-forms-a2-3988`
 
-Choose the adjective meaning pleasant to sit on, not unpleasant.
+Choose the adjective meaning 'pleasant to sit on', not 'unpleasant'.
 
 This sofa is very ___.
 
@@ -887,14 +887,14 @@ This sofa is very ___.
 3. comfort
 4. uncomfortable
 
-**Explanation:** Comfortable is the adjective for a sofa that feels pleasant to sit on.
+**Explanation:** 'Comfortable' is the adjective for a sofa that feels pleasant to sit on.
 
 **Choice feedback:**
 
-- **comfortably:** Comfortably describes an action, as in sit comfortably; the sofa itself is comfortable.
-- **comfortable:** Comfortable is the adjective for a sofa that feels pleasant to sit on.
-- **comfort:** Comfort names the pleasant feeling, not the adjective describing the sofa.
-- **uncomfortable:** Uncomfortable is also an adjective, but un- gives the opposite meaning from the one requested.
+- **comfortably:** 'Comfortably' describes an action, as in 'sit comfortably'; the sofa itself is comfortable.
+- **comfortable:** 'Comfortable' is the adjective for a sofa that feels pleasant to sit on.
+- **comfort:** 'Comfort' names the pleasant feeling, not the adjective describing the sofa.
+- **uncomfortable:** 'Uncomfortable' is also an adjective, but 'un-' gives the opposite meaning from the one requested.
 
 **Decision:** replaced.
 
@@ -1330,7 +1330,7 @@ Before confirming the booking, check that the passenger details are ___.
 
 ID: `coverage-word-forms-b1-4002`
 
-Choose the adjective meaning private and not to be shared without permission.
+Choose the adjective meaning 'private and not to be shared without permission'.
 
 The recruitment notes are ___. Please do not forward them.
 
@@ -1339,14 +1339,14 @@ The recruitment notes are ___. Please do not forward them.
 3. confidence
 4. confiding
 
-**Explanation:** Confidential describes information intended to remain private.
+**Explanation:** 'Confidential' describes information intended to remain private.
 
 **Choice feedback:**
 
-- **confident:** Confident describes assurance or certainty, not information that must be kept private.
-- **confidential:** Confidential describes information intended to remain private.
-- **confidence:** Confidence is a noun for trust or assurance; the notes need an adjective here.
-- **confiding:** Confiding describes someone willing to share private thoughts, not documents that should be kept private.
+- **confident:** 'Confident' describes assurance or certainty, not information that must be kept private.
+- **confidential:** 'Confidential' describes information intended to remain private.
+- **confidence:** 'Confidence' is a noun for trust or assurance; the notes need an adjective here.
+- **confiding:** 'Confiding' describes someone willing to share private thoughts, not documents that should be kept private.
 
 **Decision:** replaced.
 
@@ -1362,7 +1362,7 @@ The recruitment notes are ___. Please do not forward them.
 
 ID: `coverage-word-forms-b1-4003`
 
-Choose the form after it is that describes whether something could happen.
+Choose the form after 'it is' that describes whether something could happen.
 
 It is ___ that the last train will be cancelled.
 
@@ -1371,14 +1371,14 @@ It is ___ that the last train will be cancelled.
 3. possible **[Correct]**
 4. possibilities
 
-**Explanation:** Possible is an adjective followed here by a that clause describing what may happen.
+**Explanation:** 'Possible' is an adjective followed here by a 'that' clause describing what may happen.
 
 **Choice feedback:**
 
-- **possibility:** Possibility is a count noun here and would need a different pattern, such as 'There is a possibility that ...'.
-- **possibly:** Possibly is an adverb: 'The train will possibly be cancelled.' It does not fill this adjective position.
-- **possible:** Possible is an adjective followed here by a that clause describing what may happen.
-- **possibilities:** Possibilities is a plural noun, not the adjective in 'It is possible that ...'.
+- **possibility:** 'Possibility' is a count noun here and would need a different pattern, such as 'There is a possibility that ...'.
+- **possibly:** 'Possibly' is an adverb: 'The train will possibly be cancelled.' It does not fill this adjective position.
+- **possible:** 'Possible' is an adjective followed here by a 'that' clause describing what may happen.
+- **possibilities:** 'Possibilities' is a plural noun, not the adjective in 'It is possible that ...'.
 
 **Decision:** replaced.
 
@@ -1554,7 +1554,7 @@ The repair may take a while, so please be ___.
 
 ID: `coverage-word-forms-b1-4009`
 
-Choose the verb meaning to make the pass ready for use.
+Choose the verb meaning 'to make the pass ready for use'.
 
 Use this code to ___ your new travel pass.
 
@@ -1563,14 +1563,14 @@ Use this code to ___ your new travel pass.
 3. active
 4. actively
 
-**Explanation:** Activate is the verb meaning to make something active or ready for use.
+**Explanation:** 'Activate' is the verb meaning to make something active or ready for use.
 
 **Choice feedback:**
 
-- **activate:** Activate is the verb meaning to make something active or ready for use.
-- **activity:** Activity names something done, not the action of making the pass usable.
-- **active:** Active is an adjective describing a usable or working state; after to here, supply the verb activate.
-- **actively:** Actively describes how someone acts, but it does not provide the action required.
+- **activate:** 'Activate' is the verb meaning to make something active or ready for use.
+- **activity:** 'Activity' names something done, not the action of making the pass usable.
+- **active:** 'Active' is an adjective describing a usable or working state; after 'to' here, supply the verb 'activate'.
+- **actively:** 'Actively' describes how someone acts, but it does not provide the action required.
 
 **Decision:** replaced.
 
@@ -1588,21 +1588,21 @@ ID: `coverage-word-forms-b1-4010`
 
 Choose the verb asking the speaker to make their meaning clearer.
 
-Could you ___ what you mean by flexible hours?
+Could you ___ what you mean by 'flexible hours'?
 
 1. clarity
 2. clearly
 3. clarify **[Correct]**
 4. clarification
 
-**Explanation:** Clarify means make something clearer; it can introduce the matter to be explained.
+**Explanation:** 'Clarify' means make something clearer; it can introduce the matter to be explained.
 
 **Choice feedback:**
 
-- **clarity:** Clarity names a quality of language; could you needs an action verb.
-- **clearly:** Clearly is an adverb and needs a separate action, such as explain clearly.
-- **clarify:** Clarify means make something clearer; it can introduce the matter to be explained.
-- **clarification:** Clarification is the noun, as in ask for clarification, not the verb after could you.
+- **clarity:** 'Clarity' names a quality of language; 'could you' needs an action verb.
+- **clearly:** 'Clearly' is an adverb and needs a separate action, such as 'explain clearly'.
+- **clarify:** 'Clarify' means make something clearer; it can introduce the matter to be explained.
+- **clarification:** 'Clarification' is the noun, as in 'ask for clarification', not the verb after 'could you'.
 
 **Decision:** replaced.
 
@@ -1778,7 +1778,7 @@ The staff took part in a ___ of a hotel check-in.
 
 ID: `coverage-word-forms-b1-4016`
 
-Choose the activity form that follows difficulty in this sentence.
+Choose the activity form that follows 'difficulty' in this sentence.
 
 We had difficulty ___ the old window.
 
@@ -1787,14 +1787,14 @@ We had difficulty ___ the old window.
 3. opened
 4. opener
 
-**Explanation:** Have difficulty can be followed directly by an -ing activity: difficulty opening the window.
+**Explanation:** 'Have difficulty' can be followed directly by an '-ing' activity: 'difficulty opening the window'.
 
 **Choice feedback:**
 
-- **opening:** Have difficulty can be followed directly by an -ing activity: difficulty opening the window.
-- **open:** After have difficulty, use an -ing activity, not a bare verb.
-- **opened:** Opened is a past form and does not introduce the difficult activity after difficulty.
-- **opener:** Opener names a person or tool, not the activity we had trouble doing.
+- **opening:** 'Have difficulty' can be followed directly by an '-ing' activity: 'difficulty opening the window'.
+- **open:** After 'have difficulty', use an '-ing' activity, not a bare verb.
+- **opened:** 'Opened' is a past form and does not introduce the difficult activity after 'difficulty'.
+- **opener:** 'Opener' names a person or tool, not the activity we had trouble doing.
 
 **Decision:** replaced.
 
@@ -1810,7 +1810,7 @@ We had difficulty ___ the old window.
 
 ID: `coverage-word-forms-b1-4017`
 
-Choose the adverb meaning without needing another person's help.
+Choose the adverb meaning "without needing another person's help".
 
 After training, the new staff can complete these tasks ___.
 
@@ -1819,14 +1819,14 @@ After training, the new staff can complete these tasks ___.
 3. independence
 4. dependent
 
-**Explanation:** Independently describes doing the tasks without relying on another person's help.
+**Explanation:** 'Independently' describes doing the tasks without relying on another person's help.
 
 **Choice feedback:**
 
-- **independently:** Independently describes doing the tasks without relying on another person's help.
-- **independent:** Independent describes a person or thing; the sentence needs a word describing how tasks are completed.
-- **independence:** Independence names the state or quality, not the manner of completing tasks.
-- **dependent:** Dependent is an adjective for reliance on something or someone, not the requested adverb or meaning.
+- **independently:** 'Independently' describes doing the tasks without relying on another person's help.
+- **independent:** 'Independent' describes a person or thing; the sentence needs a word describing how tasks are completed.
+- **independence:** 'Independence' names the state or quality, not the manner of completing tasks.
+- **dependent:** 'Dependent' is an adjective for reliance on something or someone, not the requested adverb or meaning.
 
 **Decision:** replaced.
 
@@ -2006,7 +2006,7 @@ Residents helped design the survey questions, not just answer them. The research
 
 ID: `coverage-word-forms-b2-4023`
 
-Choose the meaning of calculated in this business account.
+Choose the meaning of 'calculated' in this business account.
 
 Opening the second shop was a calculated risk.
 
@@ -2019,7 +2019,7 @@ Opening the second shop was a calculated risk.
 
 **Choice feedback:**
 
-- **The owners discovered the risk only after opening the shop.:** Calculated presents the choice as considered in advance, not recognized only afterwards.
+- **The owners discovered the risk only after opening the shop.:** 'Calculated' presents the choice as considered in advance, not recognized only afterwards.
 - **The owners established the precise financial value of every possible outcome.:** The adjective does not require exact figures for every outcome.
 - **The owners opened the shop because the risk had already disappeared.:** A calculated risk remains a risk, even when it has been considered carefully.
 - **The owners considered the possible gains and losses before taking the risk.:** A calculated risk is taken after considering its possible consequences; it need not involve an exact numerical calculation.
@@ -2134,7 +2134,7 @@ The review should be evaluative, not just descriptive.
 
 ID: `coverage-word-forms-b2-4027`
 
-Choose the role named by distributor in this supply-chain description.
+Choose the role named by 'distributor' in this supply-chain description.
 
 The company acts as a distributor for several small manufacturers.
 
@@ -2143,14 +2143,14 @@ The company acts as a distributor for several small manufacturers.
 3. It buys the manufacturers' products only for use by its own employees.
 4. It supplies the manufacturers' products to shops or other buyers. **[Correct]**
 
-**Explanation:** A distributor is a person or business that supplies goods to retailers or other buyers; distribution names that activity.
+**Explanation:** A distributor is a person or business that supplies goods to retailers or other buyers; 'distribution' names that activity.
 
 **Choice feedback:**
 
 - **It designs the products that the manufacturers then produce.:** Designing products is not the distribution role identified here.
 - **It combines the manufacturers into a single new business.:** Distribution concerns supplying products, not merging companies.
 - **It buys the manufacturers' products only for use by its own employees.:** That describes an end user, not a business acting as their distributor.
-- **It supplies the manufacturers' products to shops or other buyers.:** A distributor is a person or business that supplies goods to retailers or other buyers; distribution names that activity.
+- **It supplies the manufacturers' products to shops or other buyers.:** A distributor is a person or business that supplies goods to retailers or other buyers; 'distribution' names that activity.
 
 **Decision:** replaced.
 
@@ -2166,7 +2166,7 @@ The company acts as a distributor for several small manufacturers.
 
 ID: `coverage-word-forms-b2-4028`
 
-Which interpretation of contributory is supported here?
+Which interpretation of 'contributory' is supported here?
 
 Poor lighting was a contributory factor in the mistake.
 
@@ -2175,14 +2175,14 @@ Poor lighting was a contributory factor in the mistake.
 3. Poor lighting helped bring about the mistake. **[Correct]**
 4. Poor lighting accompanied the mistake but did not affect whether it occurred.
 
-**Explanation:** Contributory means helping to cause a result, without specifying necessity or sufficiency.
+**Explanation:** 'Contributory' means helping to cause a result, without specifying necessity or sufficiency.
 
 **Choice feedback:**
 
-- **The mistake could not have happened if the lighting had been good.:** Contributory does not establish that poor lighting was a necessary condition.
+- **The mistake could not have happened if the lighting had been good.:** 'Contributory' does not establish that poor lighting was a necessary condition.
 - **Poor lighting made the mistake inevitable regardless of the other circumstances.:** A contribution to a mistake does not establish that it guaranteed the mistake.
-- **Poor lighting helped bring about the mistake.:** Contributory means helping to cause a result, without specifying necessity or sufficiency.
-- **Poor lighting accompanied the mistake but did not affect whether it occurred.:** Contributory attributes a causal role, not mere coincidence without an effect.
+- **Poor lighting helped bring about the mistake.:** 'Contributory' means helping to cause a result, without specifying necessity or sufficiency.
+- **Poor lighting accompanied the mistake but did not affect whether it occurred.:** 'Contributory' attributes a causal role, not mere coincidence without an effect.
 
 **Decision:** replaced.
 
@@ -2230,7 +2230,7 @@ The new worktable is height-___.
 
 ID: `coverage-word-forms-b2-4030`
 
-Choose the meaning of demanding when it describes a role.
+Choose the meaning of 'demanding' when it describes a role.
 
 Managing the evening service is a demanding role.
 
@@ -2239,13 +2239,13 @@ Managing the evening service is a demanding role.
 3. Many applicants have already demanded to receive the role.
 4. The role consists mainly of making requests to other departments.
 
-**Explanation:** Demanding is an adjective meaning requiring a great deal from the person doing the work.
+**Explanation:** 'Demanding' is an adjective meaning requiring a great deal from the person doing the work.
 
 **Choice feedback:**
 
 - **Someone has formally requested that the role be created.:** That concerns a demand for a role, not the adjective describing how difficult it is.
-- **The role requires considerable effort, attention, or skill.:** Demanding is an adjective meaning requiring a great deal from the person doing the work.
-- **Many applicants have already demanded to receive the role.:** Demanding here describes the work's requirements, not applicants' requests.
+- **The role requires considerable effort, attention, or skill.:** 'Demanding' is an adjective meaning requiring a great deal from the person doing the work.
+- **Many applicants have already demanded to receive the role.:** 'Demanding' here describes the work's requirements, not applicants' requests.
 - **The role consists mainly of making requests to other departments.:** The adjective does not specify requesting as the main task; it describes the role's difficulty.
 
 **Decision:** replaced.
@@ -2390,7 +2390,7 @@ After she answered the criticism, an observer praised her 'measured response'.
 
 ID: `coverage-word-forms-b2-4035`
 
-What does interpretation refer to in this passage?
+What does 'interpretation' refer to in this passage?
 
 The guide argues that the poem's last line rejects despair, calling this 'one possible interpretation of the ending'.
 
@@ -2399,12 +2399,12 @@ The guide argues that the poem's last line rejects despair, calling this 'one po
 3. An account of the way a performer delivered the final line.
 4. A reconstruction of wording missing from the poet's original draft.
 
-**Explanation:** The argument about rejecting despair offers a reading of the line; interpretation names that account of its meaning.
+**Explanation:** The argument about rejecting despair offers a reading of the line; 'interpretation' names that account of its meaning.
 
 **Choice feedback:**
 
-- **A proposed understanding of what the final line means.:** The argument about rejecting despair offers a reading of the line; interpretation names that account of its meaning.
-- **A version of the final line in a different language.:** Interpretation can concern language transfer in other settings, but this passage discusses the line's meaning, not another language.
+- **A proposed understanding of what the final line means.:** The argument about rejecting despair offers a reading of the line; 'interpretation' names that account of its meaning.
+- **A version of the final line in a different language.:** 'Interpretation' can concern language transfer in other settings, but this passage discusses the line's meaning, not another language.
 - **An account of the way a performer delivered the final line.:** A performance can be an interpretation, but the guide here argues for a meaning rather than describing delivery.
 - **A reconstruction of wording missing from the poet's original draft.:** The passage does not report missing wording; it proposes an understanding of the existing ending.
 
@@ -2550,7 +2550,7 @@ The committee is consultative; final decisions remain with the board.
 
 ID: `coverage-word-forms-b2-4040`
 
-Which statement is supported by revised in this account?
+Which statement is supported by 'revised' in this account?
 
 The builder sent a revised estimate after receiving the final measurements.
 
@@ -2559,13 +2559,13 @@ The builder sent a revised estimate after receiving the final measurements.
 3. The builder sent the first estimate for the work.
 4. The builder corrected an error made in the original estimate.
 
-**Explanation:** Revised means altered or updated; new information can prompt revision without proving the earlier version mistaken.
+**Explanation:** 'Revised' means altered or updated; new information can prompt revision without proving the earlier version mistaken.
 
 **Choice feedback:**
 
-- **The builder sent an estimate that had been changed.:** Revised means altered or updated; new information can prompt revision without proving the earlier version mistaken.
-- **The builder sent a cheaper estimate than before.:** Revised does not state the direction of any change in price.
-- **The builder sent the first estimate for the work.:** Revised indicates a change to an earlier version, not simply an initial estimate.
+- **The builder sent an estimate that had been changed.:** 'Revised' means altered or updated; new information can prompt revision without proving the earlier version mistaken.
+- **The builder sent a cheaper estimate than before.:** 'Revised' does not state the direction of any change in price.
+- **The builder sent the first estimate for the work.:** 'Revised' indicates a change to an earlier version, not simply an initial estimate.
 - **The builder corrected an error made in the original estimate.:** A correction is one reason for revision, but receiving final measurements can also lead to an update without an earlier error.
 
 **Decision:** replaced.
@@ -2650,7 +2650,7 @@ Mina and Omar were appointed chair and treasurer, respectively. They responded r
 
 ID: `coverage-word-forms-c1-4043`
 
-Choose the faithful rewrite using a verb from the coherence family.
+Choose the faithful rewrite using a verb from the 'coherence' family.
 
 The coherence of the essay's ideas makes its argument convincing.
 
@@ -2659,14 +2659,14 @@ The coherence of the essay's ideas makes its argument convincing.
 3. Readers made the essay's ideas cohere by accepting its argument.
 4. The argument is convincing because the essay's ideas cohere. **[Correct]**
 
-**Explanation:** Cohere is the verb meaning fit together as a unified whole; the rewrite keeps coherence as the reason the argument convinces.
+**Explanation:** 'Cohere' is the verb meaning fit together as a unified whole; the rewrite keeps coherence as the reason the argument convinces.
 
 **Choice feedback:**
 
 - **The essay's ideas cohere because readers already find its argument convincing.:** This reverses the stated explanatory direction.
 - **The essay's ideas might cohere if the argument became convincing.:** This changes an asserted quality into a conditional possibility.
 - **Readers made the essay's ideas cohere by accepting its argument.:** This adds reader agency and a process of creating coherence.
-- **The argument is convincing because the essay's ideas cohere.:** Cohere is the verb meaning fit together as a unified whole; the rewrite keeps coherence as the reason the argument convinces.
+- **The argument is convincing because the essay's ideas cohere.:** 'Cohere' is the verb meaning fit together as a unified whole; the rewrite keeps coherence as the reason the argument convinces.
 
 **Decision:** replaced.
 
@@ -2810,7 +2810,7 @@ Anita, the manager, wants a reliable supplier but does not want the firm to beco
 
 ID: `coverage-word-forms-c1-4048`
 
-What does transparently contribute to this description?
+What does 'transparently' contribute to this description?
 
 The spokesperson repeated a transparently false claim.
 
@@ -2819,13 +2819,13 @@ The spokesperson repeated a transparently false claim.
 3. The claim's falsity was readily apparent. **[Correct]**
 4. The spokesperson was unaware that the claim was false.
 
-**Explanation:** Transparently modifies false here and means plainly or obviously, not candidly admitting the claim.
+**Explanation:** 'Transparently' modifies 'false' here and means plainly or obviously, not candidly admitting the claim.
 
 **Choice feedback:**
 
 - **The spokesperson openly admitted that the claim was false.:** The adverb describes how apparent the falsity is; it does not report an admission.
 - **The spokesperson made the claim available for independent checking.:** That would concern openness of procedure; the phrase instead characterizes the obvious falsity.
-- **The claim's falsity was readily apparent.:** Transparently modifies false here and means plainly or obviously, not candidly admitting the claim.
+- **The claim's falsity was readily apparent.:** 'Transparently' modifies 'false' here and means plainly or obviously, not candidly admitting the claim.
 - **The spokesperson was unaware that the claim was false.:** The writer calls the falsity apparent; the phrase does not establish what the spokesperson did or did not recognize.
 
 **Decision:** replaced.
@@ -2906,7 +2906,7 @@ Original: 'These costs approximate our budget.' Edit: 'These costs are approxima
 
 ID: `coverage-word-forms-c1-4051`
 
-Choose the meaning of complicity in this report.
+Choose the meaning of 'complicity' in this report.
 
 The inquiry examined the supervisor's complicity in the deception.
 
@@ -2915,12 +2915,12 @@ The inquiry examined the supervisor's complicity in the deception.
 3. It examined an unexpected problem that disrupted the supervisor's work.
 4. It examined whether the supervisor followed the new reporting procedure.
 
-**Explanation:** Complicity means involvement with others in an improper or wrongful act.
+**Explanation:** 'Complicity' means involvement with others in an improper or wrongful act.
 
 **Choice feedback:**
 
 - **It examined how difficult the supervisor found the investigation.:** Difficulty or intricacy concerns complexity, not complicity in wrongdoing.
-- **It examined the supervisor's involvement in the wrongdoing.:** Complicity means involvement with others in an improper or wrongful act.
+- **It examined the supervisor's involvement in the wrongdoing.:** 'Complicity' means involvement with others in an improper or wrongful act.
 - **It examined an unexpected problem that disrupted the supervisor's work.:** An additional obstacle is a complication, not complicity.
 - **It examined whether the supervisor followed the new reporting procedure.:** Following requirements concerns compliance; complicity concerns involvement in the deception.
 
@@ -2938,7 +2938,7 @@ The inquiry examined the supervisor's complicity in the deception.
 
 ID: `coverage-word-forms-c1-4052`
 
-How do the two uses of objective differ?
+How do the two uses of 'objective' differ?
 
 Our objective is an objective assessment of the service.
 
@@ -2947,14 +2947,14 @@ Our objective is an objective assessment of the service.
 3. The first describes impartiality; the second names the aim of the assessment.
 4. Both name outcomes the assessment has already achieved.
 
-**Explanation:** Objective can be a count noun meaning goal or an adjective meaning unbiased; the sentence uses both.
+**Explanation:** 'Objective' can be a count noun meaning 'goal' or an adjective meaning 'unbiased'; the sentence uses both.
 
 **Choice feedback:**
 
-- **Both describe the assessment as free from personal bias.:** The first follows our as a noun naming what is to be achieved, not as an adjective describing assessment.
-- **The first names an aim; the second describes an assessment not driven by personal bias.:** Objective can be a count noun meaning goal or an adjective meaning unbiased; the sentence uses both.
+- **Both describe the assessment as free from personal bias.:** The first follows 'our' as a noun naming what is to be achieved, not as an adjective describing assessment.
+- **The first names an aim; the second describes an assessment not driven by personal bias.:** 'Objective' can be a count noun meaning 'goal' or an adjective meaning 'unbiased'; the sentence uses both.
 - **The first describes impartiality; the second names the aim of the assessment.:** This reverses their grammatical roles and meanings.
-- **Both name outcomes the assessment has already achieved.:** An objective is a goal, not necessarily an achieved outcome, and the second objective is an adjective.
+- **Both name outcomes the assessment has already achieved.:** An objective is a goal, not necessarily an achieved outcome, and the second 'objective' is an adjective.
 
 **Decision:** replaced.
 
@@ -3002,7 +3002,7 @@ Original: 'The engineers began stabilizing the platform.' Edit: 'The engineers a
 
 ID: `coverage-word-forms-c1-4054`
 
-Choose the rewrite using an adverb from the subtle family that preserves the evaluation.
+Choose the rewrite using an adverb from the 'subtle' family that preserves the evaluation.
 
 The difference between the two readings remains important despite its subtlety.
 
@@ -3011,14 +3011,14 @@ The difference between the two readings remains important despite its subtlety.
 3. The readings differ only in importance, not in their interpretation of the text.
 4. Although the readings differ subtly, the difference still matters. **[Correct]**
 
-**Explanation:** Subtly describes how the readings differ; the contrast preserves the claim that a hard-to-notice difference can matter.
+**Explanation:** 'Subtly' describes how the readings differ; the contrast preserves the claim that a hard-to-notice difference can matter.
 
 **Choice feedback:**
 
 - **Because the readings matter, the difference between them must be subtle.:** This adds a causal link from importance to subtlety, which the original does not claim.
 - **The readings differ substantially because the distinction matters.:** Importance does not make the difference large or conspicuous; the original calls it subtle.
 - **The readings differ only in importance, not in their interpretation of the text.:** This changes the dimension of difference rather than preserving its subtle character and importance.
-- **Although the readings differ subtly, the difference still matters.:** Subtly describes how the readings differ; the contrast preserves the claim that a hard-to-notice difference can matter.
+- **Although the readings differ subtly, the difference still matters.:** 'Subtly' describes how the readings differ; the contrast preserves the claim that a hard-to-notice difference can matter.
 
 **Decision:** replaced.
 
@@ -3066,7 +3066,7 @@ The display changes its brightness whenever the surrounding light changes. It us
 
 ID: `coverage-word-forms-c1-4056`
 
-Which interpretation of robustly is supported here?
+Which interpretation of 'robustly' is supported here?
 
 The councillor robustly disagreed with the proposed closure.
 
@@ -3075,13 +3075,13 @@ The councillor robustly disagreed with the proposed closure.
 3. The councillor expressed disagreement in a deliberately uncertain way.
 4. The councillor insulted the people who proposed the closure.
 
-**Explanation:** Robustly describes a strong, vigorous manner of disagreeing, not the truth of the councillor's position.
+**Explanation:** 'Robustly' describes a strong, vigorous manner of disagreeing, not the truth of the councillor's position.
 
 **Choice feedback:**
 
-- **The councillor expressed disagreement forcefully.:** Robustly describes a strong, vigorous manner of disagreeing, not the truth of the councillor's position.
+- **The councillor expressed disagreement forcefully.:** 'Robustly' describes a strong, vigorous manner of disagreeing, not the truth of the councillor's position.
 - **The councillor proved that the closure proposal contained factual errors.:** Forceful disagreement does not establish that the proposal was disproved.
-- **The councillor expressed disagreement in a deliberately uncertain way.:** That does not match the forceful manner conveyed by robustly.
+- **The councillor expressed disagreement in a deliberately uncertain way.:** That does not match the forceful manner conveyed by 'robustly'.
 - **The councillor insulted the people who proposed the closure.:** Robust disagreement can be forceful without being personally insulting; the adverb does not establish insults.
 
 **Decision:** replaced.
@@ -3582,7 +3582,7 @@ Although Rafi oversaw the repairs, he overlooked the damage behind the cupboard 
 
 ID: `coverage-word-forms-c2-4072`
 
-What reading does the adjective studied support?
+What reading does the adjective 'studied' support?
 
 At the reception, his studied casualness sat oddly beside his elaborate courtesies.
 
@@ -3591,14 +3591,14 @@ At the reception, his studied casualness sat oddly beside his elaborate courtesi
 3. His relaxed manner appeared carefully cultivated rather than spontaneous. **[Correct]**
 4. His courtesies made an originally deliberate manner become genuinely spontaneous.
 
-**Explanation:** Studied is an evaluative adjective meaning deliberately arranged here, not simply the past form of academic study. The apparent ease can therefore be calculated.
+**Explanation:** 'Studied' is an evaluative adjective meaning deliberately arranged here, not simply the past form of academic study. The apparent ease can therefore be calculated.
 
 **Choice feedback:**
 
-- **His relaxed manner showed how little preparation he had given to the occasion.:** Studied describes deliberate preparation or cultivation, not its absence; casualness is the effect being cultivated.
+- **His relaxed manner showed how little preparation he had given to the occasion.:** 'Studied' describes deliberate preparation or cultivation, not its absence; 'casualness' is the effect being cultivated.
 - **His academic interests were evident despite his relaxed social manner.:** The adjective does not identify an academic interest; it characterizes how the casual manner was produced.
-- **His relaxed manner appeared carefully cultivated rather than spontaneous.:** Studied is an evaluative adjective meaning deliberately arranged here, not simply the past form of academic study. The apparent ease can therefore be calculated.
-- **His courtesies made an originally deliberate manner become genuinely spontaneous.:** Sat oddly beside contrasts two observed features; it does not report one transforming the other.
+- **His relaxed manner appeared carefully cultivated rather than spontaneous.:** 'Studied' is an evaluative adjective meaning deliberately arranged here, not simply the past form of academic study. The apparent ease can therefore be calculated.
+- **His courtesies made an originally deliberate manner become genuinely spontaneous.:** 'Sat oddly beside' contrasts two observed features; it does not report one transforming the other.
 
 **Decision:** replaced.
 

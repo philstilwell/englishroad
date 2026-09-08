@@ -1490,7 +1490,7 @@ The machine had stopped working, but the technician solved the problem.
 
 ID: `coverage-modals-b1-1967`
 
-Report the speaker's ability at that past time using the usual change from can to could.
+Report the speaker's ability at that past time using the usual change from 'can' to 'could'.
 
 In 2019, Ravi said, 'I can work night shifts.' Ravi said that he ___ work night shifts.
 
@@ -1499,14 +1499,14 @@ In 2019, Ravi said, 'I can work night shifts.' Ravi said that he ___ work night 
 3. should
 4. could **[Correct]**
 
-**Explanation:** Could is the usual reported form of can when referring to ability at that past time.
+**Explanation:** 'Could' is the usual reported form of 'can' when referring to ability at that past time.
 
 **Choice feedback:**
 
-- **must:** Must changes an ability into a requirement or conclusion.
-- **would:** Would can report willingness or a future action, but it does not preserve the stated ability.
-- **should:** Should changes the statement into advice or expectation.
-- **could:** Could is the usual reported form of can when referring to ability at that past time.
+- **must:** 'Must' changes an ability into a requirement or conclusion.
+- **would:** 'Would' can report willingness or a future action, but it does not preserve the stated ability.
+- **should:** 'Should' changes the statement into advice or expectation.
+- **could:** 'Could' is the usual reported form of 'can' when referring to ability at that past time.
 
 **Decision:** replaced.
 
@@ -1714,7 +1714,7 @@ Both options are available and allowed.
 
 ID: `coverage-modals-b1-1974`
 
-Choose the meaning of can in this general description.
+Choose the meaning of 'can' in this general description.
 
 'This coastal road can be very busy in summer.'
 
@@ -1723,13 +1723,13 @@ Choose the meaning of can in this general description.
 3. Heavy traffic occurs on this road at some times in summer. **[Correct]**
 4. The speaker is predicting heavy traffic this afternoon.
 
-**Explanation:** Can can describe an occasional or typical possibility, such as summer traffic.
+**Explanation:** 'Can' can describe an occasional or typical possibility, such as summer traffic.
 
 **Choice feedback:**
 
-- **Drivers have permission to make the road busy.:** This is not permission; can describes a feature that sometimes occurs.
-- **The road needs heavy traffic in summer.:** Can does not express a need for traffic.
-- **Heavy traffic occurs on this road at some times in summer.:** Can can describe an occasional or typical possibility, such as summer traffic.
+- **Drivers have permission to make the road busy.:** This is not permission; 'can' describes a feature that sometimes occurs.
+- **The road needs heavy traffic in summer.:** 'Can' does not express a need for traffic.
+- **Heavy traffic occurs on this road at some times in summer.:** 'Can' can describe an occasional or typical possibility, such as summer traffic.
 - **The speaker is predicting heavy traffic this afternoon.:** The sentence is a general description of summer conditions, not a forecast for a specific afternoon.
 
 **Decision:** replaced.
@@ -1810,7 +1810,7 @@ Choose the negative form that preserves this strong advice.
 
 ID: `coverage-modals-b1-1977`
 
-Choose the meaning of would in this memory.
+Choose the meaning of 'would' in this memory.
 
 'During our first year in business, we would meet every Friday to compare sales.'
 
@@ -1819,14 +1819,14 @@ Choose the meaning of would in this memory.
 3. Meeting on Fridays was a repeated past activity. **[Correct]**
 4. The meetings were possible only under an unstated condition.
 
-**Explanation:** Would can describe repeated actions within an established past period.
+**Explanation:** 'Would' can describe repeated actions within an established past period.
 
 **Choice feedback:**
 
-- **The meetings were a future plan that had not begun.:** The opening time phrase and every Friday frame a remembered routine, not an unstarted plan.
+- **The meetings were a future plan that had not begun.:** The opening time phrase and 'every Friday' frame a remembered routine, not an unstarted plan.
 - **The speaker is making a polite request for a meeting.:** This statement recounts what happened; it is not a request addressed to someone.
-- **Meeting on Fridays was a repeated past activity.:** Would can describe repeated actions within an established past period.
-- **The meetings were possible only under an unstated condition.:** No hypothetical condition is needed here because would describes an actual past routine.
+- **Meeting on Fridays was a repeated past activity.:** 'Would' can describe repeated actions within an established past period.
+- **The meetings were possible only under an unstated condition.:** No hypothetical condition is needed here because 'would' describes an actual past routine.
 
 **Decision:** replaced.
 
@@ -1842,7 +1842,7 @@ Choose the meaning of would in this memory.
 
 ID: `coverage-modals-b1-1978`
 
-Leo has refused several offers to discuss the problem. Choose the meaning of won't here.
+Leo has refused several offers to discuss the problem. Choose the meaning of "won't" here.
 
 'He won't talk to us about it.'
 
@@ -1851,12 +1851,12 @@ Leo has refused several offers to discuss the problem. Choose the meaning of won
 3. He is not permitted to speak to us.
 4. He does not need to discuss it with us.
 
-**Explanation:** Won't can express unwillingness, as Leo's repeated refusals show.
+**Explanation:** "Won't" can express unwillingness, as Leo's repeated refusals show.
 
 **Choice feedback:**
 
 - **He is unable to speak our language.:** The stated problem is refusal, not a lack of language ability.
-- **He refuses to discuss it with us.:** Won't can express unwillingness, as Leo's repeated refusals show.
+- **He refuses to discuss it with us.:** "Won't" can express unwillingness, as Leo's repeated refusals show.
 - **He is not permitted to speak to us.:** Nothing indicates a ban; Leo has chosen to reject the invitations.
 - **He does not need to discuss it with us.:** Lack of necessity does not explain the unwillingness highlighted in the context.
 
@@ -2618,7 +2618,7 @@ I'd rather you ___ the results until we have checked the calculations.
 
 ID: `coverage-modals-c1-2002`
 
-Asked what the sponsors' withdrawal means for next month's festival, an analyst gives this response. Choose the closest meaning of may well.
+Asked what the sponsors' withdrawal means for next month's festival, an analyst gives this response. Choose the closest meaning of 'may well'.
 
 'With two major sponsors withdrawing, the festival may well be cancelled.'
 
@@ -2627,13 +2627,13 @@ Asked what the sponsors' withdrawal means for next month's festival, an analyst 
 3. Cancellation is a credible, perhaps likely outcome. **[Correct]**
 4. Cancellation is an established fact that the analyst concedes.
 
-**Explanation:** May well presents an outcome as quite possible or unsurprising given the circumstances, without making it certain.
+**Explanation:** 'May well' presents an outcome as quite possible or unsurprising given the circumstances, without making it certain.
 
 **Choice feedback:**
 
-- **Cancellation is the action the analyst recommends.:** The context is prediction; may well does not state what organizers ought to do.
-- **Cancellation has been formally authorized by the sponsors.:** This sentence does not use may to grant permission or report authorization.
-- **Cancellation is a credible, perhaps likely outcome.:** May well presents an outcome as quite possible or unsurprising given the circumstances, without making it certain.
+- **Cancellation is the action the analyst recommends.:** The context is prediction; 'may well' does not state what organizers ought to do.
+- **Cancellation has been formally authorized by the sponsors.:** This sentence does not use 'may' to grant permission or report authorization.
+- **Cancellation is a credible, perhaps likely outcome.:** 'May well' presents an outcome as quite possible or unsurprising given the circumstances, without making it certain.
 - **Cancellation is an established fact that the analyst concedes.:** The analyst is estimating what may happen, not acknowledging a known cancellation.
 
 **Decision:** replaced.
@@ -2778,7 +2778,7 @@ I'd rather the interviewer ___ salary until the end.
 
 ID: `coverage-modals-c1-2007`
 
-A colleague says, 'This is her first management job.' Another replies as below. Choose the role of may in the reply.
+A colleague says, 'This is her first management job.' Another replies as below. Choose the role of 'may' in the reply.
 
 'She may be inexperienced, but she has already resolved the staffing problem.'
 
@@ -2787,13 +2787,13 @@ A colleague says, 'This is her first management job.' Another replies as below. 
 3. It treats the director's inexperience as an unresolved factual question.
 4. It recommends that the director gain more experience.
 
-**Explanation:** May ..., but ... can concede an accepted point while limiting its force with a contrasting consideration.
+**Explanation:** 'May ..., but ...' can concede an accepted point while limiting its force with a contrasting consideration.
 
 **Choice feedback:**
 
 - **It asks whether the director is permitted to be inexperienced.:** The statement does not request permission; it accepts a known characteristic.
-- **It acknowledges a drawback before introducing a counterbalancing point.:** May ..., but ... can concede an accepted point while limiting its force with a contrasting consideration.
-- **It treats the director's inexperience as an unresolved factual question.:** The context establishes that inexperience is known; may introduces a concession here.
+- **It acknowledges a drawback before introducing a counterbalancing point.:** 'May ..., but ...' can concede an accepted point while limiting its force with a contrasting consideration.
+- **It treats the director's inexperience as an unresolved factual question.:** The context establishes that inexperience is known; 'may' introduces a concession here.
 - **It recommends that the director gain more experience.:** No recommendation is made; the speaker weighs a drawback against an achievement.
 
 **Decision:** replaced.
@@ -2970,7 +2970,7 @@ The next train is delayed by an hour, and the cafe is the only comfortable place
 
 ID: `coverage-modals-c1-2013`
 
-Before discussing candidates, the chair reads this line from the panel's procedure. Choose the interpretation of are to.
+Before discussing candidates, the chair reads this line from the panel's procedure. Choose the interpretation of 'are to'.
 
 'Panel members are to declare any personal connection with an applicant before discussion begins.'
 
@@ -2979,14 +2979,14 @@ Before discussing candidates, the chair reads this line from the panel's procedu
 3. Panel members would prefer to declare connections after discussion.
 4. Panel members were expected to declare connections at an earlier meeting.
 
-**Explanation:** Be to + verb can give a formal instruction or establish an official requirement.
+**Explanation:** 'Be to' + verb can give a formal instruction or establish an official requirement.
 
 **Choice feedback:**
 
-- **Panel members are instructed to make the declaration before discussion.:** Be to + verb can give a formal instruction or establish an official requirement.
+- **Panel members are instructed to make the declaration before discussion.:** 'Be to' + verb can give a formal instruction or establish an official requirement.
 - **Panel members are likely to make the declaration of their own accord.:** The context identifies an instruction, not a prediction about voluntary behavior.
 - **Panel members would prefer to declare connections after discussion.:** The statement gives neither a preference nor permission to delay the declaration.
-- **Panel members were expected to declare connections at an earlier meeting.:** Are to applies to the current instruction and does not locate it at an earlier meeting.
+- **Panel members were expected to declare connections at an earlier meeting.:** 'Are to' applies to the current instruction and does not locate it at an earlier meeting.
 
 **Decision:** replaced.
 
@@ -3002,7 +3002,7 @@ Before discussing candidates, the chair reads this line from the panel's procedu
 
 ID: `coverage-modals-c1-2014`
 
-Read this invented committee procedure as a formal rule. Choose the function of shall.
+Read this invented committee procedure as a formal rule. Choose the function of 'shall'.
 
 'The secretary shall record any declared conflict in the minutes.'
 
@@ -3011,14 +3011,14 @@ Read this invented committee procedure as a formal rule. Choose the function of 
 3. It predicts what the secretary will probably do based on past habits.
 4. It invites the secretary and speaker to write the minutes together.
 
-**Explanation:** Shall can express a requirement in formal procedures; here it assigns the recording duty.
+**Explanation:** 'Shall' can express a requirement in formal procedures; here it assigns the recording duty.
 
 **Choice feedback:**
 
 - **It offers to let the secretary decide whether recording is useful.:** This rule assigns a duty; it does not present recording as optional.
-- **It imposes a duty on the secretary to record the conflict.:** Shall can express a requirement in formal procedures; here it assigns the recording duty.
-- **It predicts what the secretary will probably do based on past habits.:** In the explicitly formal rule, shall is directive rather than a forecast.
-- **It invites the secretary and speaker to write the minutes together.:** The offer or suggestion use of Shall we...? does not fit this third-person rule.
+- **It imposes a duty on the secretary to record the conflict.:** 'Shall' can express a requirement in formal procedures; here it assigns the recording duty.
+- **It predicts what the secretary will probably do based on past habits.:** In the explicitly formal rule, 'shall' is directive rather than a forecast.
+- **It invites the secretary and speaker to write the minutes together.:** The offer or suggestion use of 'Shall we...?' does not fit this third-person rule.
 
 **Decision:** replaced.
 
@@ -3034,7 +3034,7 @@ Read this invented committee procedure as a formal rule. Choose the function of 
 
 ID: `coverage-modals-c1-2015`
 
-'Have you read the revision?' 'Not yet. I sent the author a checklist covering every objection.' The reviewer then adds the statement below. Choose the reading of should have.
+'Have you read the revision?' 'Not yet. I sent the author a checklist covering every objection.' The reviewer then adds the statement below. Choose the reading of 'should have'.
 
 'The author should have dealt with that objection in the revision.'
 
@@ -3043,13 +3043,13 @@ ID: `coverage-modals-c1-2015`
 3. The reviewer concludes that addressing the objection was unnecessary.
 4. The reviewer is granting permission to address the objection later.
 
-**Explanation:** Here should have expresses expected completion based on the checklist, rather than known failure.
+**Explanation:** Here 'should have' expresses expected completion based on the checklist, rather than known failure.
 
 **Choice feedback:**
 
 - **The reviewer knows it was omitted and is criticizing the author.:** That reading is possible elsewhere, but this reviewer has not inspected the revision.
-- **The reviewer expects a response in the unread revision.:** Here should have expresses expected completion based on the checklist, rather than known failure.
-- **The reviewer concludes that addressing the objection was unnecessary.:** Should have does not remove the need to address the objection.
+- **The reviewer expects a response in the unread revision.:** Here 'should have' expresses expected completion based on the checklist, rather than known failure.
+- **The reviewer concludes that addressing the objection was unnecessary.:** 'Should have' does not remove the need to address the objection.
 - **The reviewer is granting permission to address the objection later.:** The phrase concerns expected completion in the existing revision, not future permission.
 
 **Decision:** replaced.
@@ -3098,7 +3098,7 @@ A daytime journey was also available.
 
 ID: `coverage-modals-c1-2017`
 
-Read the speaker's words with stress on WILL. Choose the meaning it conveys in this exchange.
+Read the speaker's words with stress on 'WILL'. Choose the meaning it conveys in this exchange.
 
 'I've asked him to wait for the agenda, but he WILL interrupt before I've finished.'
 
@@ -3107,13 +3107,13 @@ Read the speaker's words with stress on WILL. Choose the meaning it conveys in t
 3. The speaker is irritated by his persistent tendency to interrupt. **[Correct]**
 4. The speaker believes he is physically unable to remain silent.
 
-**Explanation:** Stressed will can criticize a characteristic or persistent behavior, especially when earlier requests have failed.
+**Explanation:** Stressed 'will' can criticize a characteristic or persistent behavior, especially when earlier requests have failed.
 
 **Choice feedback:**
 
-- **The speaker is announcing a newly scheduled interruption.:** The repeated requests and stressed will point to recurring behavior, not an arranged future event.
+- **The speaker is announcing a newly scheduled interruption.:** The repeated requests and stressed 'will' point to recurring behavior, not an arranged future event.
 - **The speaker is allowing him to interrupt before the agenda ends.:** The complaint and requests to wait show that permission is not being granted.
-- **The speaker is irritated by his persistent tendency to interrupt.:** Stressed will can criticize a characteristic or persistent behavior, especially when earlier requests have failed.
+- **The speaker is irritated by his persistent tendency to interrupt.:** Stressed 'will' can criticize a characteristic or persistent behavior, especially when earlier requests have failed.
 - **The speaker believes he is physically unable to remain silent.:** The complaint concerns persistent behavior, not an established inability.
 
 **Decision:** replaced.
@@ -3230,7 +3230,7 @@ To obtain approval for that system, they ___ replace the wiring.
 
 ID: `coverage-modals-c2-2021`
 
-A colleague says, 'I knew they planned to question you about the missing figures, but I didn't think to mention it.' Choose the function of might have in the reply below.
+A colleague says, 'I knew they planned to question you about the missing figures, but I didn't think to mention it.' Choose the function of 'might have' in the reply below.
 
 'You might have warned me before I walked into that meeting.'
 
@@ -3239,12 +3239,12 @@ A colleague says, 'I knew they planned to question you about the missing figures
 3. It expresses uncertainty about whether the speaker attended the meeting.
 4. It grants retrospective permission to issue a warning.
 
-**Explanation:** With a known omission and irritated tone, might have can criticize a failure to take a considerate action.
+**Explanation:** With a known omission and irritated tone, 'might have' can criticize a failure to take a considerate action.
 
 **Choice feedback:**
 
 - **It tentatively suggests that the colleague did give a warning.:** The admitted omission rules out a speculative reading about whether a warning occurred.
-- **It reproaches the colleague for failing to give an expected warning.:** With a known omission and irritated tone, might have can criticize a failure to take a considerate action.
+- **It reproaches the colleague for failing to give an expected warning.:** With a known omission and irritated tone, 'might have' can criticize a failure to take a considerate action.
 - **It expresses uncertainty about whether the speaker attended the meeting.:** The uncertainty reading concerns neither the stated attendance nor the admitted omission in this context.
 - **It grants retrospective permission to issue a warning.:** The speaker is criticizing the omission, not deciding whether warning was permitted.
 
@@ -3390,7 +3390,7 @@ The reviewer is judging the agency's completed conduct.
 
 ID: `coverage-modals-c2-2026`
 
-After sending the report, its author writes, 'I still need to compare the mailing list with the full register,' followed by the sentence below. Interpret should in that sentence.
+After sending the report, its author writes, 'I still need to compare the mailing list with the full register,' followed by the sentence below. Interpret 'should' in that sentence.
 
 'If I should have omitted anyone from the list, please accept my apologies.'
 
@@ -3399,14 +3399,14 @@ After sending the report, its author writes, 'I still need to compare the mailin
 3. The sender promises to omit someone if an apology is accepted.
 4. The sender apologizes conditionally for a possible earlier omission. **[Correct]**
 
-**Explanation:** If ... should have ... can frame a tentative condition about a completed event; it need not express obligation or regret about a known failure.
+**Explanation:** 'If ... should have ...' can frame a tentative condition about a completed event; it need not express obligation or regret about a known failure.
 
 **Choice feedback:**
 
-- **The sender says omitting someone would have been the proper action.:** Should belongs to a tentative condition here; it does not evaluate omission as appropriate.
+- **The sender says omitting someone would have been the proper action.:** 'Should' belongs to a tentative condition here; it does not evaluate omission as appropriate.
 - **The sender admits a known omission and apologizes for it.:** The if-clause leaves the omission unconfirmed.
 - **The sender promises to omit someone if an apology is accepted.:** This reverses the relation: the possible omission is the condition for the apology, not its future consequence.
-- **The sender apologizes conditionally for a possible earlier omission.:** If ... should have ... can frame a tentative condition about a completed event; it need not express obligation or regret about a known failure.
+- **The sender apologizes conditionally for a possible earlier omission.:** 'If ... should have ...' can frame a tentative condition about a completed event; it need not express obligation or regret about a known failure.
 
 **Decision:** replaced.
 
@@ -3422,7 +3422,7 @@ After sending the report, its author writes, 'I still need to compare the mailin
 
 ID: `coverage-modals-c2-2027`
 
-On Monday, the analyst promised a completed review by Friday. It is now Wednesday, and the work is on schedule. Choose the reading of would have.
+On Monday, the analyst promised a completed review by Friday. It is now Wednesday, and the work is on schedule. Choose the reading of 'would have'.
 
 'She said she would have reviewed the figures by Friday.'
 
@@ -3431,14 +3431,14 @@ On Monday, the analyst promised a completed review by Friday. It is now Wednesda
 3. It infers that she had finished before making the promise.
 4. It says she was required to finish but refused to do so.
 
-**Explanation:** Would have reviewed is the reported counterpart of will have reviewed here; it does not inherently mean the action is unrealized.
+**Explanation:** 'Would have reviewed' is the reported counterpart of 'will have reviewed' here; it does not inherently mean the action is unrealized.
 
 **Choice feedback:**
 
 - **It presents the review as an unreal alternative to a known failure.:** There is no failed condition or known failure; the work remains on schedule.
-- **It reports future completion viewed from the earlier promise.:** Would have reviewed is the reported counterpart of will have reviewed here; it does not inherently mean the action is unrealized.
-- **It infers that she had finished before making the promise.:** By Friday places the completion after Monday's promise, not before it.
-- **It says she was required to finish but refused to do so.:** Would have reviewed reports anticipated completion, not necessity or refusal.
+- **It reports future completion viewed from the earlier promise.:** 'Would have reviewed' is the reported counterpart of 'will have reviewed' here; it does not inherently mean the action is unrealized.
+- **It infers that she had finished before making the promise.:** 'By Friday' places the completion after Monday's promise, not before it.
+- **It says she was required to finish but refused to do so.:** 'Would have reviewed' reports anticipated completion, not necessity or refusal.
 
 **Decision:** replaced.
 
@@ -3710,7 +3710,7 @@ A critic ends a review with this sentence. Choose the recommendation it conveys.
 
 ID: `coverage-modals-c2-2036`
 
-After the team agrees on a spending limit, a colleague selects the premium option. Read the response below with stress on WOULD. Choose its implication.
+After the team agrees on a spending limit, a colleague selects the premium option. Read the response below with stress on 'WOULD'. Choose its implication.
 
 'You WOULD choose the one option that exceeds the budget.'
 
@@ -3719,12 +3719,12 @@ After the team agrees on a spending limit, a colleague selects the premium optio
 3. The speaker is offering permission to exceed the budget next time.
 4. The colleague would choose that option only if an unstated condition occurred.
 
-**Explanation:** Stressed would can react to a known event as characteristic and exasperating; it need not place the event in an unreal condition.
+**Explanation:** Stressed 'would' can react to a known event as characteristic and exasperating; it need not place the event in an unreal condition.
 
 **Choice feedback:**
 
 - **The speaker is unsure whether the colleague has made any choice yet.:** The context establishes that the choice has just been made.
-- **The choice is presented as irritatingly typical of the colleague.:** Stressed would can react to a known event as characteristic and exasperating; it need not place the event in an unreal condition.
+- **The choice is presented as irritatingly typical of the colleague.:** Stressed 'would' can react to a known event as characteristic and exasperating; it need not place the event in an unreal condition.
 - **The speaker is offering permission to exceed the budget next time.:** The comment criticizes a known choice rather than granting future permission.
 - **The colleague would choose that option only if an unstated condition occurred.:** The utterance reacts to an actual choice; its force is characteristic disapproval, not an incomplete hypothetical result.
 
@@ -3774,7 +3774,7 @@ A says, 'I know the client asked us to wait until tomorrow, but I'm calling him 
 
 ID: `coverage-modals-c2-2038`
 
-After checking the attendance record, the secretary makes the remark below. Choose the role of should have in that remark.
+After checking the attendance record, the secretary makes the remark below. Choose the role of 'should have' in that remark.
 
 'It is extraordinary that the chair should have missed the one briefing devoted to this issue.'
 
@@ -3783,14 +3783,14 @@ After checking the attendance record, the secretary makes the remark below. Choo
 3. It leaves open whether the chair missed the briefing at all.
 4. It predicts a missed briefing later than the present discussion.
 
-**Explanation:** After an evaluative expression such as it is extraordinary, should can highlight a reaction to a fact without expressing obligation.
+**Explanation:** After an evaluative expression such as 'it is extraordinary', 'should' can highlight a reaction to a fact without expressing obligation.
 
 **Choice feedback:**
 
-- **It presents an established event as striking or surprising.:** After an evaluative expression such as it is extraordinary, should can highlight a reaction to a fact without expressing obligation.
+- **It presents an established event as striking or surprising.:** After an evaluative expression such as 'it is extraordinary', 'should' can highlight a reaction to a fact without expressing obligation.
 - **It identifies missing the briefing as the chair's unfulfilled duty.:** The sentence treats missing it as an established event, not as an action the chair ought to have performed.
-- **It leaves open whether the chair missed the briefing at all.:** The context establishes the absence; should is evaluative here rather than a marker of factual uncertainty.
-- **It predicts a missed briefing later than the present discussion.:** Should have missed refers to the completed event under evaluation, not a later briefing.
+- **It leaves open whether the chair missed the briefing at all.:** The context establishes the absence; 'should' is evaluative here rather than a marker of factual uncertainty.
+- **It predicts a missed briefing later than the present discussion.:** 'Should have missed' refers to the completed event under evaluation, not a later briefing.
 
 **Decision:** replaced.
 

@@ -532,7 +532,7 @@
     {
       "id": "coverage-clauses-and-connectors-a1-498",
       "level": "A1",
-      "setupText": "Choose the idea introduced by but.",
+      "setupText": "Choose the idea introduced by 'but'.",
       "taskText": "'The bag is small, but it is heavy.'",
       "options": [
         "Its color.",
@@ -541,11 +541,11 @@
         "An unexpected feature."
       ],
       "answer": "An unexpected feature.",
-      "explanation": "But presents heaviness as a contrast to what you might expect from a small bag.",
+      "explanation": "'But' presents heaviness as a contrast to what you might expect from a small bag.",
       "rationales": {
         "Its color.": "The sentence says nothing about color.",
         "Its price.": "The sentence says nothing about cost.",
-        "An unexpected feature.": "But presents heaviness as a contrast to what you might expect from a small bag.",
+        "An unexpected feature.": "'But' presents heaviness as a contrast to what you might expect from a small bag.",
         "A choice of bags.": "Both descriptions concern the same bag; no alternative bag is offered."
       },
       "audit": {
@@ -842,7 +842,7 @@
     {
       "id": "coverage-clauses-and-connectors-a2-508",
       "level": "A2",
-      "setupText": "Choose the usual verb form for a future event after before in this instruction.",
+      "setupText": "Choose the usual verb form for a future event after 'before' in this instruction.",
       "taskText": "Check the platform number before the train ___.",
       "options": [
         "will arrive",
@@ -851,12 +851,12 @@
         "arrives"
       ],
       "answer": "arrives",
-      "explanation": "A future time clause after before normally uses the present simple: the train arrives.",
+      "explanation": "A future time clause after 'before' normally uses the present simple: the train arrives.",
       "rationales": {
-        "arrives": "A future time clause after before normally uses the present simple: the train arrives.",
-        "will arrive": "Use the present simple rather than predictive will in this future time clause.",
-        "arriving": "Arriving needs a helping verb to complete the clause.",
-        "arrive": "The singular train takes arrives, not arrive."
+        "arrives": "A future time clause after 'before' normally uses the present simple: the train arrives.",
+        "will arrive": "Use the present simple rather than predictive 'will' in this future time clause.",
+        "arriving": "'Arriving' needs a helping verb to complete the clause.",
+        "arrive": "The singular 'train' takes 'arrives', not 'arrive'."
       },
       "audit": {
         "status": "reviewed",
@@ -873,7 +873,7 @@
     {
       "id": "coverage-clauses-and-connectors-a2-509",
       "level": "A2",
-      "setupText": "Choose the completion that fits the noun phrase the flight.",
+      "setupText": "Choose the completion that fits the noun phrase 'the flight'.",
       "taskText": "Please keep your phone quiet ___ the flight.",
       "options": [
         "while",
@@ -882,12 +882,12 @@
         "during"
       ],
       "answer": "during",
-      "explanation": "During introduces the noun phrase naming the period of time.",
+      "explanation": "'During' introduces the noun phrase naming the period of time.",
       "rationales": {
-        "while": "While normally needs a clause here, such as while you are on the flight.",
-        "when": "When needs a clause or a different reduced structure; the flight alone does not complete it here.",
-        "during": "During introduces the noun phrase naming the period of time.",
-        "as soon as": "As soon as needs an event clause, such as as soon as the flight begins."
+        "while": "'While' normally needs a clause here, such as 'while you are on the flight'.",
+        "when": "'When' needs a clause or a different reduced structure; 'the flight' alone does not complete it here.",
+        "during": "'During' introduces the noun phrase naming the period of time.",
+        "as soon as": "'As soon as' needs an event clause, such as 'as soon as the flight begins'."
       },
       "audit": {
         "status": "reviewed",
@@ -1338,7 +1338,7 @@
     {
       "id": "coverage-clauses-and-connectors-b1-524",
       "level": "B1",
-      "setupText": "Choose the meaning of since in this message.",
+      "setupText": "Choose the meaning of 'since' in this message.",
       "taskText": "'Since the shop has no spare parts, we'll try another repair service.'",
       "options": [
         "From the time the shop opened.",
@@ -1347,12 +1347,12 @@
         "Because the shop has no spare parts."
       ],
       "answer": "Because the shop has no spare parts.",
-      "explanation": "Since introduces the reason for trying a different service here.",
+      "explanation": "'Since' introduces the reason for trying a different service here.",
       "rationales": {
-        "Because the shop has no spare parts.": "Since introduces the reason for trying a different service here.",
+        "Because the shop has no spare parts.": "'Since' introduces the reason for trying a different service here.",
         "From the time the shop opened.": "The clause states a current reason, not a starting date.",
-        "Until the shop receives spare parts.": "Until would make receiving parts an endpoint rather than give the reason for changing services.",
-        "Despite the shop having no spare parts.": "Despite makes the lack of parts an obstacle overcome, not the cause of changing services."
+        "Until the shop receives spare parts.": "'Until' would make receiving parts an endpoint rather than give the reason for changing services.",
+        "Despite the shop having no spare parts.": "'Despite' makes the lack of parts an obstacle overcome, not the cause of changing services."
       },
       "audit": {
         "status": "reviewed",
@@ -1803,7 +1803,7 @@
     {
       "id": "coverage-clauses-and-connectors-b1-539",
       "level": "B1",
-      "setupText": "Choose the interpretation of since in this sentence.",
+      "setupText": "Choose the interpretation of 'since' in this sentence.",
       "taskText": "'I haven't seen the old shop owner since she moved away.'",
       "options": [
         "The move marks the beginning of the period without a meeting.",
@@ -1812,12 +1812,12 @@
         "The speaker expects to see the owner before she moves."
       ],
       "answer": "The move marks the beginning of the period without a meeting.",
-      "explanation": "Since links the past move to the continuing period in which no meeting has occurred.",
+      "explanation": "'Since' links the past move to the continuing period in which no meeting has occurred.",
       "rationales": {
         "Moving away is presented as the only reason for not meeting.": "The sentence's present-perfect time structure locates a starting event; it does not specify an exclusive cause.",
         "Seeing the owner happened at the same time as the move.": "The negative says there has been no meeting in the period following the move.",
-        "The speaker expects to see the owner before she moves.": "Moved away is a past event, not a future move awaiting a meeting.",
-        "The move marks the beginning of the period without a meeting.": "Since links the past move to the continuing period in which no meeting has occurred."
+        "The speaker expects to see the owner before she moves.": "'Moved away' is a past event, not a future move awaiting a meeting.",
+        "The move marks the beginning of the period without a meeting.": "'Since' links the past move to the continuing period in which no meeting has occurred."
       },
       "audit": {
         "status": "reviewed",
@@ -2175,7 +2175,7 @@
     {
       "id": "coverage-clauses-and-connectors-b2-551",
       "level": "B2",
-      "setupText": "Choose the meaning of as long as in this account.",
+      "setupText": "Choose the meaning of 'as long as' in this account.",
       "taskText": "'I stayed on the call as long as my battery lasted, then continued by email.'",
       "options": [
         "The speaker stayed on the call for the duration of the battery's remaining power.",
@@ -2184,12 +2184,12 @@
         "The speaker stayed on the call after the battery ran out."
       ],
       "answer": "The speaker stayed on the call for the duration of the battery's remaining power.",
-      "explanation": "As long as describes the whole period during which the battery continued to supply power.",
+      "explanation": "'As long as' describes the whole period during which the battery continued to supply power.",
       "rationales": {
         "The battery lasting was an unconfirmed condition for joining the call.": "The speaker reports an actual duration, not an unresolved condition for joining.",
         "The call was shorter because email was available.": "No shorter alternative duration is stated; the battery sets the limit.",
-        "The speaker stayed on the call for the duration of the battery's remaining power.": "As long as describes the whole period during which the battery continued to supply power.",
-        "The speaker stayed on the call after the battery ran out.": "Then continued by email indicates a change when the battery no longer supported the call."
+        "The speaker stayed on the call for the duration of the battery's remaining power.": "'As long as' describes the whole period during which the battery continued to supply power.",
+        "The speaker stayed on the call after the battery ran out.": "'Then continued by email' indicates a change when the battery no longer supported the call."
       },
       "audit": {
         "status": "reviewed",
@@ -2392,7 +2392,7 @@
     {
       "id": "coverage-clauses-and-connectors-b2-558",
       "level": "B2",
-      "setupText": "Choose the meaning of otherwise in this description.",
+      "setupText": "Choose the meaning of 'otherwise' in this description.",
       "taskText": "'The cover is worn, but the book is otherwise in excellent condition.'",
       "options": [
         "If the cover were not worn.",
@@ -2401,9 +2401,9 @@
         "After the cover has been replaced."
       ],
       "answer": "In respects other than the cover's wear.",
-      "explanation": "Otherwise limits the negative point to the cover and evaluates the remaining aspects positively.",
+      "explanation": "'Otherwise' limits the negative point to the cover and evaluates the remaining aspects positively.",
       "rationales": {
-        "In respects other than the cover's wear.": "Otherwise limits the negative point to the cover and evaluates the remaining aspects positively.",
+        "In respects other than the cover's wear.": "'Otherwise' limits the negative point to the cover and evaluates the remaining aspects positively.",
         "If the cover were not worn.": "The sentence describes the actual book's other features, not an imagined repaired version.",
         "As a consequence of the cover's wear.": "The worn cover is not given as the cause of the book's good condition.",
         "After the cover has been replaced.": "No replacement is mentioned; the assessment applies now."
@@ -2485,7 +2485,7 @@
     {
       "id": "coverage-clauses-and-connectors-c1-561",
       "level": "C1",
-      "setupText": "Choose the meaning of while in this comparison across different historical periods.",
+      "setupText": "Choose the meaning of 'while' in this comparison across different historical periods.",
       "taskText": "'While the nineteenth-century factory depended on local workers, its modern successor recruits internationally.'",
       "options": [
         "The two recruitment systems operated simultaneously.",
@@ -2494,11 +2494,11 @@
         "International recruitment occurred only during local recruitment."
       ],
       "answer": "The writer contrasts the recruitment patterns of the two organizations.",
-      "explanation": "While has a contrastive function here, comparable to whereas, rather than its temporal meaning.",
+      "explanation": "'While' has a contrastive function here, comparable to 'whereas', rather than its temporal meaning.",
       "rationales": {
-        "The two recruitment systems operated simultaneously.": "The periods are different; while cannot describe literal simultaneity between them here.",
+        "The two recruitment systems operated simultaneously.": "The periods are different; 'while' cannot describe literal simultaneity between them here.",
         "The earlier factory caused the modern firm to recruit internationally.": "The sentence compares the patterns without asserting a causal connection.",
-        "The writer contrasts the recruitment patterns of the two organizations.": "While has a contrastive function here, comparable to whereas, rather than its temporal meaning.",
+        "The writer contrasts the recruitment patterns of the two organizations.": "'While' has a contrastive function here, comparable to 'whereas', rather than its temporal meaning.",
         "International recruitment occurred only during local recruitment.": "This imposes a time restriction on recruitment that the comparison does not express."
       },
       "audit": {
@@ -2516,7 +2516,7 @@
     {
       "id": "coverage-clauses-and-connectors-c1-562",
       "level": "C1",
-      "setupText": "Choose the interpretation that preserves the scope of albeit.",
+      "setupText": "Choose the interpretation that preserves the scope of 'albeit'.",
       "taskText": "'The trial showed a measurable, albeit modest, improvement.'",
       "options": [
         "The trial showed no measurable improvement.",
@@ -2525,11 +2525,11 @@
         "The improvement was measurable because it was modest."
       ],
       "answer": "The improvement was measurable, with its limited size acknowledged.",
-      "explanation": "Albeit introduces a concession about the size of the measurable improvement.",
+      "explanation": "'Albeit' introduces a concession about the size of the measurable improvement.",
       "rationales": {
-        "The trial showed no measurable improvement.": "Albeit qualifies the improvement; it does not cancel the claim that improvement was measured.",
-        "The improvement was measurable, with its limited size acknowledged.": "Albeit introduces a concession about the size of the measurable improvement.",
-        "The trial was modest in size, but the improvement was substantial.": "Modest modifies improvement, not trial, and does not support a substantial effect.",
+        "The trial showed no measurable improvement.": "'Albeit' qualifies the improvement; it does not cancel the claim that improvement was measured.",
+        "The improvement was measurable, with its limited size acknowledged.": "'Albeit' introduces a concession about the size of the measurable improvement.",
+        "The trial was modest in size, but the improvement was substantial.": "'Modest' modifies 'improvement', not 'trial', and does not support a substantial effect.",
         "The improvement was measurable because it was modest.": "The relation is concessive, not causal: modest size is not presented as the reason for measurability."
       },
       "audit": {
@@ -2640,7 +2640,7 @@
     {
       "id": "coverage-clauses-and-connectors-c1-566",
       "level": "C1",
-      "setupText": "Choose the interpretation of much as in this response.",
+      "setupText": "Choose the interpretation of 'much as' in this response.",
       "taskText": "'Much as I admire the proposal, I cannot recommend funding it at present.'",
       "options": [
         "The speaker cannot recommend it because admiration is absent.",
@@ -2651,7 +2651,7 @@
       "answer": "The speaker's admiration is genuine but does not lead to a funding recommendation.",
       "explanation": "The construction acknowledges admiration while contrasting it with the actual recommendation.",
       "rationales": {
-        "The speaker cannot recommend it because admiration is absent.": "Much as concedes strong admiration rather than denying it.",
+        "The speaker cannot recommend it because admiration is absent.": "'Much as' concedes strong admiration rather than denying it.",
         "The speaker's admiration is genuine but does not lead to a funding recommendation.": "The construction acknowledges admiration while contrasting it with the actual recommendation.",
         "The greater the admiration, the stronger the funding recommendation.": "This reads the clause as a proportional relation, but it is concessive here.",
         "Funding the proposal is the purpose of expressing admiration.": "The sentence states an evaluation and a contrasting decision, not a purpose for expressing praise."
@@ -2702,7 +2702,7 @@
     {
       "id": "coverage-clauses-and-connectors-c1-568",
       "level": "C1",
-      "setupText": "Choose the meaning of the moment as a connector.",
+      "setupText": "Choose the meaning of 'the moment' as a connector.",
       "taskText": "'The moment the embargo was lifted, the researchers shared the dataset.'",
       "options": [
         "Sharing continued throughout the restriction.",
@@ -2711,12 +2711,12 @@
         "Sharing began immediately when the restriction ended."
       ],
       "answer": "Sharing began immediately when the restriction ended.",
-      "explanation": "The moment functions as a time connector meaning as soon as, emphasizing immediate sequence.",
+      "explanation": "'The moment' functions as a time connector meaning 'as soon as', emphasizing immediate sequence.",
       "rationales": {
-        "Sharing began immediately when the restriction ended.": "The moment functions as a time connector meaning as soon as, emphasizing immediate sequence.",
+        "Sharing began immediately when the restriction ended.": "'The moment' functions as a time connector meaning 'as soon as', emphasizing immediate sequence.",
         "Sharing continued throughout the restriction.": "The clause locates sharing at the end of the restriction, not during it.",
         "Sharing caused the restriction to end.": "The sentence states timing, not that sharing caused the embargo to be lifted.",
-        "The restriction ended after a lengthy delay in sharing.": "A lengthy delay contradicts the immediacy conveyed by the moment."
+        "The restriction ended after a lengthy delay in sharing.": "A lengthy delay contradicts the immediacy conveyed by 'the moment'."
       },
       "audit": {
         "status": "reviewed",
@@ -2733,7 +2733,7 @@
     {
       "id": "coverage-clauses-and-connectors-c1-569",
       "level": "C1",
-      "setupText": "Choose the completion following the conventional no sooner construction in formal written English.",
+      "setupText": "Choose the completion following the conventional 'no sooner' construction in formal written English.",
       "taskText": "No sooner had the negotiations ended ___ a new dispute arose.",
       "options": [
         "when",
@@ -2742,12 +2742,12 @@
         "than"
       ],
       "answer": "than",
-      "explanation": "No sooner ... than connects two events occurring in rapid succession, with inversion in the first clause.",
+      "explanation": "'No sooner ... than' connects two events occurring in rapid succession, with inversion in the first clause.",
       "rationales": {
-        "when": "When pairs with hardly or scarcely in the corresponding construction; no sooner takes than.",
-        "until": "Until marks a duration endpoint and does not complete no sooner here.",
-        "than": "No sooner ... than connects two events occurring in rapid succession, with inversion in the first clause.",
-        "that": "That introduces other kinds of clauses, not the second event in this conventional pairing."
+        "when": "'When' pairs with 'hardly' or 'scarcely' in the corresponding construction; 'no sooner' takes 'than'.",
+        "until": "'Until' marks a duration endpoint and does not complete 'no sooner' here.",
+        "than": "'No sooner ... than' connects two events occurring in rapid succession, with inversion in the first clause.",
+        "that": "'That' introduces other kinds of clauses, not the second event in this conventional pairing."
       },
       "audit": {
         "status": "reviewed",
@@ -2795,7 +2795,7 @@
     {
       "id": "coverage-clauses-and-connectors-c1-571",
       "level": "C1",
-      "setupText": "Choose the interpretation of the concern introduced by for fear that.",
+      "setupText": "Choose the interpretation of the concern introduced by 'for fear that'.",
       "taskText": "'The editor delayed naming the source for fear that disclosure might expose her to pressure.'",
       "options": [
         "The source had already faced pressure, and this established event caused the delay.",
@@ -2806,7 +2806,7 @@
       "answer": "Concern about possible pressure on the source motivated the delay.",
       "explanation": "The clause identifies an unconfirmed unwanted consequence as the reason for the editor's caution.",
       "rationales": {
-        "The source had already faced pressure, and this established event caused the delay.": "For fear that with might presents a feared possibility, not a reported event that has already happened.",
+        "The source had already faced pressure, and this established event caused the delay.": "'For fear that' with 'might' presents a feared possibility, not a reported event that has already happened.",
         "The delay was intended to put pressure on the source to agree to disclosure.": "The feared pressure is an outcome the delay seeks to avoid, not the editor's intended goal.",
         "Concern about possible pressure on the source motivated the delay.": "The clause identifies an unconfirmed unwanted consequence as the reason for the editor's caution.",
         "The editor regarded disclosure as inevitable and delayed only until the pressure ended.": "The sentence does not assert inevitable disclosure or define the delay by the end of actual pressure."
@@ -2827,7 +2827,7 @@
     {
       "id": "coverage-clauses-and-connectors-c1-572",
       "level": "C1",
-      "setupText": "Choose the function of granted that in this argument.",
+      "setupText": "Choose the function of 'granted that' in this argument.",
       "taskText": "'Granted that the service is cheaper, its limited opening hours make it unsuitable for our staff.'",
       "options": [
         "It leaves the price comparison entirely unresolved.",
@@ -2836,9 +2836,9 @@
         "It accepts the price advantage before challenging the overall suitability."
       ],
       "answer": "It accepts the price advantage before challenging the overall suitability.",
-      "explanation": "Granted that concedes the favorable premise while allowing the main argument to reach a different overall judgment.",
+      "explanation": "'Granted that' concedes the favorable premise while allowing the main argument to reach a different overall judgment.",
       "rationales": {
-        "It accepts the price advantage before challenging the overall suitability.": "Granted that concedes the favorable premise while allowing the main argument to reach a different overall judgment.",
+        "It accepts the price advantage before challenging the overall suitability.": "'Granted that' concedes the favorable premise while allowing the main argument to reach a different overall judgment.",
         "It leaves the price comparison entirely unresolved.": "The speaker accepts the price advantage for the argument rather than leaving it unresolved.",
         "It gives low cost as the cause of limited opening hours.": "The connector does not claim that lower cost causes the hours limitation.",
         "It makes cheapness a guarantee of suitability.": "The main clause explicitly rejects suitability despite the lower cost."
@@ -2858,7 +2858,7 @@
     {
       "id": "coverage-clauses-and-connectors-c1-573",
       "level": "C1",
-      "setupText": "Choose the relationship signaled by hence.",
+      "setupText": "Choose the relationship signaled by 'hence'.",
       "taskText": "'The document refers to an event in 1998; hence, the claim that it was written in 1995 is doubtful.'",
       "options": [
         "The reference physically caused the document to be written later.",
@@ -2867,12 +2867,12 @@
         "The two dates describe successive stages of publication."
       ],
       "answer": "The reference supplies evidence for questioning the claimed date.",
-      "explanation": "Hence introduces a conclusion supported by the discrepancy between the reference and the proposed date.",
+      "explanation": "'Hence' introduces a conclusion supported by the discrepancy between the reference and the proposed date.",
       "rationales": {
         "The reference physically caused the document to be written later.": "The sentence draws an inference about dating, not a causal account of the writing process.",
         "The date claim caused the document to mention the event.": "This reverses the evidential direction and invents a cause of the reference.",
         "The two dates describe successive stages of publication.": "The writer questions a claim; no two-stage publication history is stated.",
-        "The reference supplies evidence for questioning the claimed date.": "Hence introduces a conclusion supported by the discrepancy between the reference and the proposed date."
+        "The reference supplies evidence for questioning the claimed date.": "'Hence' introduces a conclusion supported by the discrepancy between the reference and the proposed date."
       },
       "audit": {
         "status": "reviewed",
@@ -2951,7 +2951,7 @@
     {
       "id": "coverage-clauses-and-connectors-c1-576",
       "level": "C1",
-      "setupText": "Choose the interpretation of pending in this notice.",
+      "setupText": "Choose the interpretation of 'pending' in this notice.",
       "taskText": "'The estimates remain provisional pending the completion of the independent audit.'",
       "options": [
         "The completed audit has already confirmed the estimates.",
@@ -2960,9 +2960,9 @@
         "Completion of the audit is postponed until the estimates become final."
       ],
       "answer": "The estimates retain provisional status while audit completion is awaited.",
-      "explanation": "Pending marks the period awaiting a specified event; the notice does not say what the audit will conclude.",
+      "explanation": "'Pending' marks the period awaiting a specified event; the notice does not say what the audit will conclude.",
       "rationales": {
-        "The estimates retain provisional status while audit completion is awaited.": "Pending marks the period awaiting a specified event; the notice does not say what the audit will conclude.",
+        "The estimates retain provisional status while audit completion is awaited.": "'Pending' marks the period awaiting a specified event; the notice does not say what the audit will conclude.",
         "The completed audit has already confirmed the estimates.": "Completion is still awaited, and no confirmation is reported.",
         "The estimates are provisional because the audit was cancelled.": "The notice does not state cancellation or make it a cause.",
         "Completion of the audit is postponed until the estimates become final.": "This reverses which event is being awaited and which status continues meanwhile."
@@ -3323,7 +3323,7 @@
     {
       "id": "coverage-clauses-and-connectors-c2-588",
       "level": "C2",
-      "setupText": "Choose the relationship conveyed by only to.",
+      "setupText": "Choose the relationship conveyed by 'only to'.",
       "taskText": "'She spent weeks restoring the file, only to discover that a complete copy had been stored elsewhere.'",
       "options": [
         "Finding the complete copy was the sole purpose of restoring the damaged file.",
@@ -3332,9 +3332,9 @@
         "The sentence leaves it open whether she discovered the copy."
       ],
       "answer": "The discovery is an unexpected outcome that makes the effort seem unnecessary.",
-      "explanation": "Only to introduces a subsequent, often frustrating discovery rather than the intended purpose of the effort.",
+      "explanation": "'Only to' introduces a subsequent, often frustrating discovery rather than the intended purpose of the effort.",
       "rationales": {
-        "The discovery is an unexpected outcome that makes the effort seem unnecessary.": "Only to introduces a subsequent, often frustrating discovery rather than the intended purpose of the effort.",
+        "The discovery is an unexpected outcome that makes the effort seem unnecessary.": "'Only to' introduces a subsequent, often frustrating discovery rather than the intended purpose of the effort.",
         "Finding the complete copy was the sole purpose of restoring the damaged file.": "This mistakes an ironic result for an exclusive purpose.",
         "Restoration occurred only after the complete copy was discovered.": "The discovery follows the restoration effort, not the other way round.",
         "The sentence leaves it open whether she discovered the copy.": "The construction reports the discovery as an event, not an unresolved possibility."
@@ -3354,7 +3354,7 @@
     {
       "id": "coverage-clauses-and-connectors-c2-589",
       "level": "C2",
-      "setupText": "Choose the interpretation of so much so that.",
+      "setupText": "Choose the interpretation of 'so much so that'.",
       "taskText": "'The terminology puzzled experienced readers, so much so that the journal commissioned a glossary.'",
       "options": [
         "The glossary was commissioned before the puzzlement was observed.",
@@ -3363,11 +3363,11 @@
         "The extent of the puzzlement is illustrated by the response it prompted."
       ],
       "answer": "The extent of the puzzlement is illustrated by the response it prompted.",
-      "explanation": "So much so that intensifies the preceding claim and gives a consequence demonstrating its degree.",
+      "explanation": "'So much so that' intensifies the preceding claim and gives a consequence demonstrating its degree.",
       "rationales": {
         "The glossary was commissioned before the puzzlement was observed.": "The glossary is presented as a response to the puzzlement, not an earlier event.",
         "Puzzling readers was the journal's purpose in commissioning a glossary.": "This reverses the remedial relationship and attributes an unsupported purpose.",
-        "The extent of the puzzlement is illustrated by the response it prompted.": "So much so that intensifies the preceding claim and gives a consequence demonstrating its degree.",
+        "The extent of the puzzlement is illustrated by the response it prompted.": "'So much so that' intensifies the preceding claim and gives a consequence demonstrating its degree.",
         "The glossary is offered as an alternative explanation for the puzzlement.": "The sentence states a consequence, not a competing explanation."
       },
       "audit": {
@@ -3447,7 +3447,7 @@
     {
       "id": "coverage-clauses-and-connectors-c2-592",
       "level": "C2",
-      "setupText": "Choose the reading of for all that fits this evaluation.",
+      "setupText": "Choose the reading of 'for all' that fits this evaluation.",
       "taskText": "'For all her experience in negotiations, she underestimated how long this agreement would take.'",
       "options": [
         "Her extensive experience is presented as the explanation for her underestimate.",
@@ -3456,11 +3456,11 @@
         "Her experience prevents the writer from judging the accuracy of her estimate."
       ],
       "answer": "Despite her considerable experience, her estimate was too optimistic.",
-      "explanation": "For all functions concessively here: extensive experience did not prevent an underestimate.",
+      "explanation": "'For all' functions concessively here: extensive experience did not prevent an underestimate.",
       "rationales": {
-        "Despite her considerable experience, her estimate was too optimistic.": "For all functions concessively here: extensive experience did not prevent an underestimate.",
-        "Her extensive experience is presented as the explanation for her underestimate.": "For all concedes experience as something that might have prevented the error; it does not state that experience caused it.",
-        "Every negotiation in her experience took less time than this one.": "All does not quantify the duration of every earlier negotiation in this construction.",
+        "Despite her considerable experience, her estimate was too optimistic.": "'For all' functions concessively here: extensive experience did not prevent an underestimate.",
+        "Her extensive experience is presented as the explanation for her underestimate.": "'For all' concedes experience as something that might have prevented the error; it does not state that experience caused it.",
+        "Every negotiation in her experience took less time than this one.": "'All' does not quantify the duration of every earlier negotiation in this construction.",
         "Her experience prevents the writer from judging the accuracy of her estimate.": "The writer does judge the estimate as too low despite acknowledging her experience."
       },
       "audit": {
@@ -3478,7 +3478,7 @@
     {
       "id": "coverage-clauses-and-connectors-c2-593",
       "level": "C2",
-      "setupText": "Choose the function of be that as it may in the reply.",
+      "setupText": "Choose the function of 'be that as it may' in the reply.",
       "taskText": "'The delays may have been unavoidable.' 'Be that as it may, the client was entitled to an update.'",
       "options": [
         "The reply proves that the delays were avoidable.",
@@ -3509,7 +3509,7 @@
     {
       "id": "coverage-clauses-and-connectors-c2-594",
       "level": "C2",
-      "setupText": "Choose what as it were signals about the phrase a bridge.",
+      "setupText": "Choose what 'as it were' signals about the phrase 'a bridge'.",
       "taskText": "'The liaison officer became, as it were, a bridge between the two departments.'",
       "options": [
         "The departments constructed a physical bridge.",
@@ -3520,10 +3520,10 @@
       "answer": "The speaker marks bridge as a figurative approximation of the officer's role.",
       "explanation": "The phrase qualifies the chosen metaphor while retaining the claim about the officer's connecting role.",
       "rationales": {
-        "The departments constructed a physical bridge.": "As it were signals figurative wording, not a physical construction project.",
+        "The departments constructed a physical bridge.": "'As it were' signals figurative wording, not a physical construction project.",
         "The speaker marks bridge as a figurative approximation of the officer's role.": "The phrase qualifies the chosen metaphor while retaining the claim about the officer's connecting role.",
         "The officer's role is conditional on a bridge being built.": "This is a comment on word choice, not an event condition involving construction.",
-        "The speaker doubts that the departments communicated at all.": "The qualification concerns the description bridge, not a denial of communication."
+        "The speaker doubts that the departments communicated at all.": "The qualification concerns the description 'bridge', not a denial of communication."
       },
       "audit": {
         "status": "reviewed",
@@ -3540,7 +3540,7 @@
     {
       "id": "coverage-clauses-and-connectors-c2-595",
       "level": "C2",
-      "setupText": "Choose the interpretation preserving the relationship introduced by that said.",
+      "setupText": "Choose the interpretation preserving the relationship introduced by 'that said'.",
       "taskText": "'The report provides a useful overview. That said, its treatment of the final decade is thin.'",
       "options": [
         "The second sentence retracts the claim that the overview is useful.",
@@ -3551,7 +3551,7 @@
       "answer": "The second sentence adds a limitation without withdrawing the positive overall assessment.",
       "explanation": "The phrase acknowledges what has just been said while adding a counterbalancing limitation.",
       "rationales": {
-        "The second sentence retracts the claim that the overview is useful.": "That said introduces a qualification; it need not cancel the earlier positive claim.",
+        "The second sentence retracts the claim that the overview is useful.": "'That said' introduces a qualification; it need not cancel the earlier positive claim.",
         "The second sentence explains why a thin treatment makes the overview useful.": "No causal connection between thinness and usefulness is asserted.",
         "The second sentence merely repeats the first in more specific words.": "The second sentence limits the first assessment rather than restating it equivalently.",
         "The second sentence adds a limitation without withdrawing the positive overall assessment.": "The phrase acknowledges what has just been said while adding a counterbalancing limitation."
@@ -3571,7 +3571,7 @@
     {
       "id": "coverage-clauses-and-connectors-c2-596",
       "level": "C2",
-      "setupText": "Choose the interpretation capturing both relations expressed by even as.",
+      "setupText": "Choose the interpretation capturing both relations expressed by 'even as'.",
       "taskText": "'The company was announcing record profits even as it was asking employees to accept lower wages.'",
       "options": [
         "The announcement and request coincided, and the writer highlights the tension between them.",
@@ -3580,9 +3580,9 @@
         "The company announced profits only after employees accepted lower wages."
       ],
       "answer": "The announcement and request coincided, and the writer highlights the tension between them.",
-      "explanation": "Even as combines temporal overlap with a pointed contrast between the two actions.",
+      "explanation": "'Even as' combines temporal overlap with a pointed contrast between the two actions.",
       "rationales": {
-        "The announcement and request coincided, and the writer highlights the tension between them.": "Even as combines temporal overlap with a pointed contrast between the two actions.",
+        "The announcement and request coincided, and the writer highlights the tension between them.": "'Even as' combines temporal overlap with a pointed contrast between the two actions.",
         "The wage request occurred well before the profit announcement and caused it.": "The sentence presents overlap, not a prior request causing an announcement.",
         "The profit announcement is merely an example of the wage request.": "These are different actions placed in tension, not a category and an example.",
         "The company announced profits only after employees accepted lower wages.": "The sentence reports a request during the announcement period, not prior acceptance by employees."
@@ -3633,7 +3633,7 @@
     {
       "id": "coverage-clauses-and-connectors-c2-598",
       "level": "C2",
-      "setupText": "Choose the meaning of in the event in this retrospective account.",
+      "setupText": "Choose the meaning of 'in the event' in this retrospective account.",
       "taskText": "'We expected a lengthy dispute. In the event, agreement was reached within an hour.'",
       "options": [
         "Agreement depended on a future dispute occurring.",
@@ -3644,7 +3644,7 @@
       "answer": "The phrase introduces what actually happened, contrasting with the earlier expectation.",
       "explanation": "The phrase shifts from expectation to the actual outcome, which turned out differently.",
       "rationales": {
-        "Agreement depended on a future dispute occurring.": "In the event here reports the outcome; it is not the conditional phrase in the event of.",
+        "Agreement depended on a future dispute occurring.": "'In the event' here reports the outcome; it is not the conditional phrase 'in the event of'.",
         "The phrase introduces what actually happened, contrasting with the earlier expectation.": "The phrase shifts from expectation to the actual outcome, which turned out differently.",
         "The phrase states the condition under which agreement would be possible.": "The sentence reports an achieved agreement rather than a hypothetical condition for one.",
         "The phrase gives a reason why the earlier expectation was justified.": "The quick agreement contrasts with, rather than supports, the expectation of a lengthy dispute."
@@ -3664,7 +3664,7 @@
     {
       "id": "coverage-clauses-and-connectors-c2-599",
       "level": "C2",
-      "setupText": "Choose the additional claim introduced by conversely.",
+      "setupText": "Choose the additional claim introduced by 'conversely'.",
       "taskText": "'Every verified entry is indexed. Conversely, every indexed entry has been verified.'",
       "options": [
         "Some verified entries may remain outside the index.",
@@ -3673,12 +3673,12 @@
         "Membership of the index also guarantees membership of the verified set."
       ],
       "answer": "Membership of the index also guarantees membership of the verified set.",
-      "explanation": "Conversely reverses the direction of the first inclusion, adding indexed-to-verified to verified-to-indexed.",
+      "explanation": "'Conversely' reverses the direction of the first inclusion, adding indexed-to-verified to verified-to-indexed.",
       "rationales": {
         "Some verified entries may remain outside the index.": "The first sentence says every verified entry is indexed, excluding this exception.",
         "Unverified entries are added to the index before verification.": "The second sentence rules out indexed entries lacking verification.",
         "Indexing is stated to cause the verification process.": "The sentences state two inclusion relations, not a causal process between indexing and verification.",
-        "Membership of the index also guarantees membership of the verified set.": "Conversely reverses the direction of the first inclusion, adding indexed-to-verified to verified-to-indexed."
+        "Membership of the index also guarantees membership of the verified set.": "'Conversely' reverses the direction of the first inclusion, adding indexed-to-verified to verified-to-indexed."
       },
       "audit": {
         "status": "reviewed",
@@ -3695,7 +3695,7 @@
     {
       "id": "coverage-clauses-and-connectors-c2-600",
       "level": "C2",
-      "setupText": "Choose the function of in any case in this argument.",
+      "setupText": "Choose the function of 'in any case' in this argument.",
       "taskText": "'The supplier may have misunderstood the specification, or the drawing may have been unclear. In any case, we need to inspect the delivered parts.'",
       "options": [
         "The writer concludes that both explanations have been proved.",
@@ -3704,10 +3704,10 @@
         "The inspection is required whichever of the proposed explanations turns out to be correct."
       ],
       "answer": "The inspection is required whichever of the proposed explanations turns out to be correct.",
-      "explanation": "In any case maintains the practical conclusion across the unresolved alternative explanations.",
+      "explanation": "'In any case' maintains the practical conclusion across the unresolved alternative explanations.",
       "rationales": {
-        "The inspection is required whichever of the proposed explanations turns out to be correct.": "In any case maintains the practical conclusion across the unresolved alternative explanations.",
-        "The writer concludes that both explanations have been proved.": "May keeps both accounts tentative; the connector does not establish either one.",
+        "The inspection is required whichever of the proposed explanations turns out to be correct.": "'In any case' maintains the practical conclusion across the unresolved alternative explanations.",
+        "The writer concludes that both explanations have been proved.": "'May' keeps both accounts tentative; the connector does not establish either one.",
         "The inspection is required only after the misunderstanding is confirmed.": "The sentence does not postpone inspection until one particular explanation is confirmed.",
         "The drawing's lack of clarity is presented as the sole reason for inspection.": "The conclusion is maintained across the alternatives rather than tied exclusively to the drawing."
       },

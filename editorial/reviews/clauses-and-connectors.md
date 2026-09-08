@@ -554,7 +554,7 @@ I cook dinner, ___ my partner washes the dishes.
 
 ID: `coverage-clauses-and-connectors-a1-498`
 
-Choose the idea introduced by but.
+Choose the idea introduced by 'but'.
 
 'The bag is small, but it is heavy.'
 
@@ -563,14 +563,14 @@ Choose the idea introduced by but.
 3. A choice of bags.
 4. An unexpected feature. **[Correct]**
 
-**Explanation:** But presents heaviness as a contrast to what you might expect from a small bag.
+**Explanation:** 'But' presents heaviness as a contrast to what you might expect from a small bag.
 
 **Choice feedback:**
 
 - **Its color.:** The sentence says nothing about color.
 - **Its price.:** The sentence says nothing about cost.
 - **A choice of bags.:** Both descriptions concern the same bag; no alternative bag is offered.
-- **An unexpected feature.:** But presents heaviness as a contrast to what you might expect from a small bag.
+- **An unexpected feature.:** 'But' presents heaviness as a contrast to what you might expect from a small bag.
 
 **Decision:** replaced.
 
@@ -878,7 +878,7 @@ We paid ___ we checked the bill carefully.
 
 ID: `coverage-clauses-and-connectors-a2-508`
 
-Choose the usual verb form for a future event after before in this instruction.
+Choose the usual verb form for a future event after 'before' in this instruction.
 
 Check the platform number before the train ___.
 
@@ -887,14 +887,14 @@ Check the platform number before the train ___.
 3. arrive
 4. arrives **[Correct]**
 
-**Explanation:** A future time clause after before normally uses the present simple: the train arrives.
+**Explanation:** A future time clause after 'before' normally uses the present simple: the train arrives.
 
 **Choice feedback:**
 
-- **will arrive:** Use the present simple rather than predictive will in this future time clause.
-- **arriving:** Arriving needs a helping verb to complete the clause.
-- **arrive:** The singular train takes arrives, not arrive.
-- **arrives:** A future time clause after before normally uses the present simple: the train arrives.
+- **will arrive:** Use the present simple rather than predictive 'will' in this future time clause.
+- **arriving:** 'Arriving' needs a helping verb to complete the clause.
+- **arrive:** The singular 'train' takes 'arrives', not 'arrive'.
+- **arrives:** A future time clause after 'before' normally uses the present simple: the train arrives.
 
 **Decision:** replaced.
 
@@ -910,7 +910,7 @@ Check the platform number before the train ___.
 
 ID: `coverage-clauses-and-connectors-a2-509`
 
-Choose the completion that fits the noun phrase the flight.
+Choose the completion that fits the noun phrase 'the flight'.
 
 Please keep your phone quiet ___ the flight.
 
@@ -919,14 +919,14 @@ Please keep your phone quiet ___ the flight.
 3. as soon as
 4. during **[Correct]**
 
-**Explanation:** During introduces the noun phrase naming the period of time.
+**Explanation:** 'During' introduces the noun phrase naming the period of time.
 
 **Choice feedback:**
 
-- **while:** While normally needs a clause here, such as while you are on the flight.
-- **when:** When needs a clause or a different reduced structure; the flight alone does not complete it here.
-- **as soon as:** As soon as needs an event clause, such as as soon as the flight begins.
-- **during:** During introduces the noun phrase naming the period of time.
+- **while:** 'While' normally needs a clause here, such as 'while you are on the flight'.
+- **when:** 'When' needs a clause or a different reduced structure; 'the flight' alone does not complete it here.
+- **as soon as:** 'As soon as' needs an event clause, such as 'as soon as the flight begins'.
+- **during:** 'During' introduces the noun phrase naming the period of time.
 
 **Decision:** replaced.
 
@@ -1394,7 +1394,7 @@ I prefer working alone, ___ my colleague enjoys a busy team office.
 
 ID: `coverage-clauses-and-connectors-b1-524`
 
-Choose the meaning of since in this message.
+Choose the meaning of 'since' in this message.
 
 'Since the shop has no spare parts, we'll try another repair service.'
 
@@ -1403,14 +1403,14 @@ Choose the meaning of since in this message.
 3. Despite the shop having no spare parts.
 4. Because the shop has no spare parts. **[Correct]**
 
-**Explanation:** Since introduces the reason for trying a different service here.
+**Explanation:** 'Since' introduces the reason for trying a different service here.
 
 **Choice feedback:**
 
 - **From the time the shop opened.:** The clause states a current reason, not a starting date.
-- **Until the shop receives spare parts.:** Until would make receiving parts an endpoint rather than give the reason for changing services.
-- **Despite the shop having no spare parts.:** Despite makes the lack of parts an obstacle overcome, not the cause of changing services.
-- **Because the shop has no spare parts.:** Since introduces the reason for trying a different service here.
+- **Until the shop receives spare parts.:** 'Until' would make receiving parts an endpoint rather than give the reason for changing services.
+- **Despite the shop having no spare parts.:** 'Despite' makes the lack of parts an obstacle overcome, not the cause of changing services.
+- **Because the shop has no spare parts.:** 'Since' introduces the reason for trying a different service here.
 
 **Decision:** replaced.
 
@@ -1874,7 +1874,7 @@ The system sends a receipt ___ I renew my membership.
 
 ID: `coverage-clauses-and-connectors-b1-539`
 
-Choose the interpretation of since in this sentence.
+Choose the interpretation of 'since' in this sentence.
 
 'I haven't seen the old shop owner since she moved away.'
 
@@ -1883,14 +1883,14 @@ Choose the interpretation of since in this sentence.
 3. Seeing the owner happened at the same time as the move.
 4. The speaker expects to see the owner before she moves.
 
-**Explanation:** Since links the past move to the continuing period in which no meeting has occurred.
+**Explanation:** 'Since' links the past move to the continuing period in which no meeting has occurred.
 
 **Choice feedback:**
 
-- **The move marks the beginning of the period without a meeting.:** Since links the past move to the continuing period in which no meeting has occurred.
+- **The move marks the beginning of the period without a meeting.:** 'Since' links the past move to the continuing period in which no meeting has occurred.
 - **Moving away is presented as the only reason for not meeting.:** The sentence's present-perfect time structure locates a starting event; it does not specify an exclusive cause.
 - **Seeing the owner happened at the same time as the move.:** The negative says there has been no meeting in the period following the move.
-- **The speaker expects to see the owner before she moves.:** Moved away is a past event, not a future move awaiting a meeting.
+- **The speaker expects to see the owner before she moves.:** 'Moved away' is a past event, not a future move awaiting a meeting.
 
 **Decision:** replaced.
 
@@ -2262,7 +2262,7 @@ The sentence 'As the manager was away, I handled the complaint' could be read in
 
 ID: `coverage-clauses-and-connectors-b2-551`
 
-Choose the meaning of as long as in this account.
+Choose the meaning of 'as long as' in this account.
 
 'I stayed on the call as long as my battery lasted, then continued by email.'
 
@@ -2271,14 +2271,14 @@ Choose the meaning of as long as in this account.
 3. The call was shorter because email was available.
 4. The speaker stayed on the call after the battery ran out.
 
-**Explanation:** As long as describes the whole period during which the battery continued to supply power.
+**Explanation:** 'As long as' describes the whole period during which the battery continued to supply power.
 
 **Choice feedback:**
 
-- **The speaker stayed on the call for the duration of the battery's remaining power.:** As long as describes the whole period during which the battery continued to supply power.
+- **The speaker stayed on the call for the duration of the battery's remaining power.:** 'As long as' describes the whole period during which the battery continued to supply power.
 - **The battery lasting was an unconfirmed condition for joining the call.:** The speaker reports an actual duration, not an unresolved condition for joining.
 - **The call was shorter because email was available.:** No shorter alternative duration is stated; the battery sets the limit.
-- **The speaker stayed on the call after the battery ran out.:** Then continued by email indicates a change when the battery no longer supported the call.
+- **The speaker stayed on the call after the battery ran out.:** 'Then continued by email' indicates a change when the battery no longer supported the call.
 
 **Decision:** replaced.
 
@@ -2486,7 +2486,7 @@ The deposit is one quarter of the total, ___ 25 percent.
 
 ID: `coverage-clauses-and-connectors-b2-558`
 
-Choose the meaning of otherwise in this description.
+Choose the meaning of 'otherwise' in this description.
 
 'The cover is worn, but the book is otherwise in excellent condition.'
 
@@ -2495,12 +2495,12 @@ Choose the meaning of otherwise in this description.
 3. As a consequence of the cover's wear.
 4. After the cover has been replaced.
 
-**Explanation:** Otherwise limits the negative point to the cover and evaluates the remaining aspects positively.
+**Explanation:** 'Otherwise' limits the negative point to the cover and evaluates the remaining aspects positively.
 
 **Choice feedback:**
 
 - **If the cover were not worn.:** The sentence describes the actual book's other features, not an imagined repaired version.
-- **In respects other than the cover's wear.:** Otherwise limits the negative point to the cover and evaluates the remaining aspects positively.
+- **In respects other than the cover's wear.:** 'Otherwise' limits the negative point to the cover and evaluates the remaining aspects positively.
 - **As a consequence of the cover's wear.:** The worn cover is not given as the cause of the book's good condition.
 - **After the cover has been replaced.:** No replacement is mentioned; the assessment applies now.
 
@@ -2586,7 +2586,7 @@ Choose the interpretation that respects both time limits.
 
 ID: `coverage-clauses-and-connectors-c1-561`
 
-Choose the meaning of while in this comparison across different historical periods.
+Choose the meaning of 'while' in this comparison across different historical periods.
 
 'While the nineteenth-century factory depended on local workers, its modern successor recruits internationally.'
 
@@ -2595,12 +2595,12 @@ Choose the meaning of while in this comparison across different historical perio
 3. The earlier factory caused the modern firm to recruit internationally.
 4. International recruitment occurred only during local recruitment.
 
-**Explanation:** While has a contrastive function here, comparable to whereas, rather than its temporal meaning.
+**Explanation:** 'While' has a contrastive function here, comparable to 'whereas', rather than its temporal meaning.
 
 **Choice feedback:**
 
-- **The two recruitment systems operated simultaneously.:** The periods are different; while cannot describe literal simultaneity between them here.
-- **The writer contrasts the recruitment patterns of the two organizations.:** While has a contrastive function here, comparable to whereas, rather than its temporal meaning.
+- **The two recruitment systems operated simultaneously.:** The periods are different; 'while' cannot describe literal simultaneity between them here.
+- **The writer contrasts the recruitment patterns of the two organizations.:** 'While' has a contrastive function here, comparable to 'whereas', rather than its temporal meaning.
 - **The earlier factory caused the modern firm to recruit internationally.:** The sentence compares the patterns without asserting a causal connection.
 - **International recruitment occurred only during local recruitment.:** This imposes a time restriction on recruitment that the comparison does not express.
 
@@ -2618,7 +2618,7 @@ Choose the meaning of while in this comparison across different historical perio
 
 ID: `coverage-clauses-and-connectors-c1-562`
 
-Choose the interpretation that preserves the scope of albeit.
+Choose the interpretation that preserves the scope of 'albeit'.
 
 'The trial showed a measurable, albeit modest, improvement.'
 
@@ -2627,13 +2627,13 @@ Choose the interpretation that preserves the scope of albeit.
 3. The trial was modest in size, but the improvement was substantial.
 4. The improvement was measurable because it was modest.
 
-**Explanation:** Albeit introduces a concession about the size of the measurable improvement.
+**Explanation:** 'Albeit' introduces a concession about the size of the measurable improvement.
 
 **Choice feedback:**
 
-- **The trial showed no measurable improvement.:** Albeit qualifies the improvement; it does not cancel the claim that improvement was measured.
-- **The improvement was measurable, with its limited size acknowledged.:** Albeit introduces a concession about the size of the measurable improvement.
-- **The trial was modest in size, but the improvement was substantial.:** Modest modifies improvement, not trial, and does not support a substantial effect.
+- **The trial showed no measurable improvement.:** 'Albeit' qualifies the improvement; it does not cancel the claim that improvement was measured.
+- **The improvement was measurable, with its limited size acknowledged.:** 'Albeit' introduces a concession about the size of the measurable improvement.
+- **The trial was modest in size, but the improvement was substantial.:** 'Modest' modifies 'improvement', not 'trial', and does not support a substantial effect.
 - **The improvement was measurable because it was modest.:** The relation is concessive, not causal: modest size is not presented as the reason for measurability.
 
 **Decision:** replaced.
@@ -2746,7 +2746,7 @@ The comparison is misleading ___ the two totals cover different periods, not bec
 
 ID: `coverage-clauses-and-connectors-c1-566`
 
-Choose the interpretation of much as in this response.
+Choose the interpretation of 'much as' in this response.
 
 'Much as I admire the proposal, I cannot recommend funding it at present.'
 
@@ -2759,7 +2759,7 @@ Choose the interpretation of much as in this response.
 
 **Choice feedback:**
 
-- **The speaker cannot recommend it because admiration is absent.:** Much as concedes strong admiration rather than denying it.
+- **The speaker cannot recommend it because admiration is absent.:** 'Much as' concedes strong admiration rather than denying it.
 - **The greater the admiration, the stronger the funding recommendation.:** This reads the clause as a proportional relation, but it is concessive here.
 - **The speaker's admiration is genuine but does not lead to a funding recommendation.:** The construction acknowledges admiration while contrasting it with the actual recommendation.
 - **Funding the proposal is the purpose of expressing admiration.:** The sentence states an evaluation and a contrasting decision, not a purpose for expressing praise.
@@ -2810,7 +2810,7 @@ Choose the rewrite preserving a concession, not a reason or an exact comparison.
 
 ID: `coverage-clauses-and-connectors-c1-568`
 
-Choose the meaning of the moment as a connector.
+Choose the meaning of 'the moment' as a connector.
 
 'The moment the embargo was lifted, the researchers shared the dataset.'
 
@@ -2819,14 +2819,14 @@ Choose the meaning of the moment as a connector.
 3. The restriction ended after a lengthy delay in sharing.
 4. Sharing began immediately when the restriction ended. **[Correct]**
 
-**Explanation:** The moment functions as a time connector meaning as soon as, emphasizing immediate sequence.
+**Explanation:** 'The moment' functions as a time connector meaning 'as soon as', emphasizing immediate sequence.
 
 **Choice feedback:**
 
 - **Sharing continued throughout the restriction.:** The clause locates sharing at the end of the restriction, not during it.
 - **Sharing caused the restriction to end.:** The sentence states timing, not that sharing caused the embargo to be lifted.
-- **The restriction ended after a lengthy delay in sharing.:** A lengthy delay contradicts the immediacy conveyed by the moment.
-- **Sharing began immediately when the restriction ended.:** The moment functions as a time connector meaning as soon as, emphasizing immediate sequence.
+- **The restriction ended after a lengthy delay in sharing.:** A lengthy delay contradicts the immediacy conveyed by 'the moment'.
+- **Sharing began immediately when the restriction ended.:** 'The moment' functions as a time connector meaning 'as soon as', emphasizing immediate sequence.
 
 **Decision:** replaced.
 
@@ -2842,7 +2842,7 @@ Choose the meaning of the moment as a connector.
 
 ID: `coverage-clauses-and-connectors-c1-569`
 
-Choose the completion following the conventional no sooner construction in formal written English.
+Choose the completion following the conventional 'no sooner' construction in formal written English.
 
 No sooner had the negotiations ended ___ a new dispute arose.
 
@@ -2851,14 +2851,14 @@ No sooner had the negotiations ended ___ a new dispute arose.
 3. that
 4. than **[Correct]**
 
-**Explanation:** No sooner ... than connects two events occurring in rapid succession, with inversion in the first clause.
+**Explanation:** 'No sooner ... than' connects two events occurring in rapid succession, with inversion in the first clause.
 
 **Choice feedback:**
 
-- **when:** When pairs with hardly or scarcely in the corresponding construction; no sooner takes than.
-- **until:** Until marks a duration endpoint and does not complete no sooner here.
-- **that:** That introduces other kinds of clauses, not the second event in this conventional pairing.
-- **than:** No sooner ... than connects two events occurring in rapid succession, with inversion in the first clause.
+- **when:** 'When' pairs with 'hardly' or 'scarcely' in the corresponding construction; 'no sooner' takes 'than'.
+- **until:** 'Until' marks a duration endpoint and does not complete 'no sooner' here.
+- **that:** 'That' introduces other kinds of clauses, not the second event in this conventional pairing.
+- **than:** 'No sooner ... than' connects two events occurring in rapid succession, with inversion in the first clause.
 
 **Decision:** replaced.
 
@@ -2906,7 +2906,7 @@ Choose the interpretation of the formal purpose clause.
 
 ID: `coverage-clauses-and-connectors-c1-571`
 
-Choose the interpretation of the concern introduced by for fear that.
+Choose the interpretation of the concern introduced by 'for fear that'.
 
 'The editor delayed naming the source for fear that disclosure might expose her to pressure.'
 
@@ -2919,7 +2919,7 @@ Choose the interpretation of the concern introduced by for fear that.
 
 **Choice feedback:**
 
-- **The source had already faced pressure, and this established event caused the delay.:** For fear that with might presents a feared possibility, not a reported event that has already happened.
+- **The source had already faced pressure, and this established event caused the delay.:** 'For fear that' with 'might' presents a feared possibility, not a reported event that has already happened.
 - **The delay was intended to put pressure on the source to agree to disclosure.:** The feared pressure is an outcome the delay seeks to avoid, not the editor's intended goal.
 - **The editor regarded disclosure as inevitable and delayed only until the pressure ended.:** The sentence does not assert inevitable disclosure or define the delay by the end of actual pressure.
 - **Concern about possible pressure on the source motivated the delay.:** The clause identifies an unconfirmed unwanted consequence as the reason for the editor's caution.
@@ -2938,7 +2938,7 @@ Choose the interpretation of the concern introduced by for fear that.
 
 ID: `coverage-clauses-and-connectors-c1-572`
 
-Choose the function of granted that in this argument.
+Choose the function of 'granted that' in this argument.
 
 'Granted that the service is cheaper, its limited opening hours make it unsuitable for our staff.'
 
@@ -2947,14 +2947,14 @@ Choose the function of granted that in this argument.
 3. It makes cheapness a guarantee of suitability.
 4. It accepts the price advantage before challenging the overall suitability. **[Correct]**
 
-**Explanation:** Granted that concedes the favorable premise while allowing the main argument to reach a different overall judgment.
+**Explanation:** 'Granted that' concedes the favorable premise while allowing the main argument to reach a different overall judgment.
 
 **Choice feedback:**
 
 - **It leaves the price comparison entirely unresolved.:** The speaker accepts the price advantage for the argument rather than leaving it unresolved.
 - **It gives low cost as the cause of limited opening hours.:** The connector does not claim that lower cost causes the hours limitation.
 - **It makes cheapness a guarantee of suitability.:** The main clause explicitly rejects suitability despite the lower cost.
-- **It accepts the price advantage before challenging the overall suitability.:** Granted that concedes the favorable premise while allowing the main argument to reach a different overall judgment.
+- **It accepts the price advantage before challenging the overall suitability.:** 'Granted that' concedes the favorable premise while allowing the main argument to reach a different overall judgment.
 
 **Decision:** replaced.
 
@@ -2970,7 +2970,7 @@ Choose the function of granted that in this argument.
 
 ID: `coverage-clauses-and-connectors-c1-573`
 
-Choose the relationship signaled by hence.
+Choose the relationship signaled by 'hence'.
 
 'The document refers to an event in 1998; hence, the claim that it was written in 1995 is doubtful.'
 
@@ -2979,13 +2979,13 @@ Choose the relationship signaled by hence.
 3. The reference supplies evidence for questioning the claimed date. **[Correct]**
 4. The two dates describe successive stages of publication.
 
-**Explanation:** Hence introduces a conclusion supported by the discrepancy between the reference and the proposed date.
+**Explanation:** 'Hence' introduces a conclusion supported by the discrepancy between the reference and the proposed date.
 
 **Choice feedback:**
 
 - **The reference physically caused the document to be written later.:** The sentence draws an inference about dating, not a causal account of the writing process.
 - **The date claim caused the document to mention the event.:** This reverses the evidential direction and invents a cause of the reference.
-- **The reference supplies evidence for questioning the claimed date.:** Hence introduces a conclusion supported by the discrepancy between the reference and the proposed date.
+- **The reference supplies evidence for questioning the claimed date.:** 'Hence' introduces a conclusion supported by the discrepancy between the reference and the proposed date.
 - **The two dates describe successive stages of publication.:** The writer questions a claim; no two-stage publication history is stated.
 
 **Decision:** replaced.
@@ -3066,7 +3066,7 @@ The reviewers judged the evidence insufficient. ___, the editor requested furthe
 
 ID: `coverage-clauses-and-connectors-c1-576`
 
-Choose the interpretation of pending in this notice.
+Choose the interpretation of 'pending' in this notice.
 
 'The estimates remain provisional pending the completion of the independent audit.'
 
@@ -3075,12 +3075,12 @@ Choose the interpretation of pending in this notice.
 3. The estimates are provisional because the audit was cancelled.
 4. Completion of the audit is postponed until the estimates become final.
 
-**Explanation:** Pending marks the period awaiting a specified event; the notice does not say what the audit will conclude.
+**Explanation:** 'Pending' marks the period awaiting a specified event; the notice does not say what the audit will conclude.
 
 **Choice feedback:**
 
 - **The completed audit has already confirmed the estimates.:** Completion is still awaited, and no confirmation is reported.
-- **The estimates retain provisional status while audit completion is awaited.:** Pending marks the period awaiting a specified event; the notice does not say what the audit will conclude.
+- **The estimates retain provisional status while audit completion is awaited.:** 'Pending' marks the period awaiting a specified event; the notice does not say what the audit will conclude.
 - **The estimates are provisional because the audit was cancelled.:** The notice does not state cancellation or make it a cause.
 - **Completion of the audit is postponed until the estimates become final.:** This reverses which event is being awaited and which status continues meanwhile.
 
@@ -3454,7 +3454,7 @@ Choose the interpretation preserving the limited exception to publication.
 
 ID: `coverage-clauses-and-connectors-c2-588`
 
-Choose the relationship conveyed by only to.
+Choose the relationship conveyed by 'only to'.
 
 'She spent weeks restoring the file, only to discover that a complete copy had been stored elsewhere.'
 
@@ -3463,12 +3463,12 @@ Choose the relationship conveyed by only to.
 3. Restoration occurred only after the complete copy was discovered.
 4. The sentence leaves it open whether she discovered the copy.
 
-**Explanation:** Only to introduces a subsequent, often frustrating discovery rather than the intended purpose of the effort.
+**Explanation:** 'Only to' introduces a subsequent, often frustrating discovery rather than the intended purpose of the effort.
 
 **Choice feedback:**
 
 - **Finding the complete copy was the sole purpose of restoring the damaged file.:** This mistakes an ironic result for an exclusive purpose.
-- **The discovery is an unexpected outcome that makes the effort seem unnecessary.:** Only to introduces a subsequent, often frustrating discovery rather than the intended purpose of the effort.
+- **The discovery is an unexpected outcome that makes the effort seem unnecessary.:** 'Only to' introduces a subsequent, often frustrating discovery rather than the intended purpose of the effort.
 - **Restoration occurred only after the complete copy was discovered.:** The discovery follows the restoration effort, not the other way round.
 - **The sentence leaves it open whether she discovered the copy.:** The construction reports the discovery as an event, not an unresolved possibility.
 
@@ -3486,7 +3486,7 @@ Choose the relationship conveyed by only to.
 
 ID: `coverage-clauses-and-connectors-c2-589`
 
-Choose the interpretation of so much so that.
+Choose the interpretation of 'so much so that'.
 
 'The terminology puzzled experienced readers, so much so that the journal commissioned a glossary.'
 
@@ -3495,14 +3495,14 @@ Choose the interpretation of so much so that.
 3. The glossary is offered as an alternative explanation for the puzzlement.
 4. The extent of the puzzlement is illustrated by the response it prompted. **[Correct]**
 
-**Explanation:** So much so that intensifies the preceding claim and gives a consequence demonstrating its degree.
+**Explanation:** 'So much so that' intensifies the preceding claim and gives a consequence demonstrating its degree.
 
 **Choice feedback:**
 
 - **The glossary was commissioned before the puzzlement was observed.:** The glossary is presented as a response to the puzzlement, not an earlier event.
 - **Puzzling readers was the journal's purpose in commissioning a glossary.:** This reverses the remedial relationship and attributes an unsupported purpose.
 - **The glossary is offered as an alternative explanation for the puzzlement.:** The sentence states a consequence, not a competing explanation.
-- **The extent of the puzzlement is illustrated by the response it prompted.:** So much so that intensifies the preceding claim and gives a consequence demonstrating its degree.
+- **The extent of the puzzlement is illustrated by the response it prompted.:** 'So much so that' intensifies the preceding claim and gives a consequence demonstrating its degree.
 
 **Decision:** replaced.
 
@@ -3582,7 +3582,7 @@ Choose what remains unresolved in the sentence.
 
 ID: `coverage-clauses-and-connectors-c2-592`
 
-Choose the reading of for all that fits this evaluation.
+Choose the reading of 'for all' that fits this evaluation.
 
 'For all her experience in negotiations, she underestimated how long this agreement would take.'
 
@@ -3591,13 +3591,13 @@ Choose the reading of for all that fits this evaluation.
 3. Every negotiation in her experience took less time than this one.
 4. Her experience prevents the writer from judging the accuracy of her estimate.
 
-**Explanation:** For all functions concessively here: extensive experience did not prevent an underestimate.
+**Explanation:** 'For all' functions concessively here: extensive experience did not prevent an underestimate.
 
 **Choice feedback:**
 
-- **Her extensive experience is presented as the explanation for her underestimate.:** For all concedes experience as something that might have prevented the error; it does not state that experience caused it.
-- **Despite her considerable experience, her estimate was too optimistic.:** For all functions concessively here: extensive experience did not prevent an underestimate.
-- **Every negotiation in her experience took less time than this one.:** All does not quantify the duration of every earlier negotiation in this construction.
+- **Her extensive experience is presented as the explanation for her underestimate.:** 'For all' concedes experience as something that might have prevented the error; it does not state that experience caused it.
+- **Despite her considerable experience, her estimate was too optimistic.:** 'For all' functions concessively here: extensive experience did not prevent an underestimate.
+- **Every negotiation in her experience took less time than this one.:** 'All' does not quantify the duration of every earlier negotiation in this construction.
 - **Her experience prevents the writer from judging the accuracy of her estimate.:** The writer does judge the estimate as too low despite acknowledging her experience.
 
 **Decision:** replaced.
@@ -3614,7 +3614,7 @@ Choose the reading of for all that fits this evaluation.
 
 ID: `coverage-clauses-and-connectors-c2-593`
 
-Choose the function of be that as it may in the reply.
+Choose the function of 'be that as it may' in the reply.
 
 'The delays may have been unavoidable.' 'Be that as it may, the client was entitled to an update.'
 
@@ -3646,7 +3646,7 @@ Choose the function of be that as it may in the reply.
 
 ID: `coverage-clauses-and-connectors-c2-594`
 
-Choose what as it were signals about the phrase a bridge.
+Choose what 'as it were' signals about the phrase 'a bridge'.
 
 'The liaison officer became, as it were, a bridge between the two departments.'
 
@@ -3659,10 +3659,10 @@ Choose what as it were signals about the phrase a bridge.
 
 **Choice feedback:**
 
-- **The departments constructed a physical bridge.:** As it were signals figurative wording, not a physical construction project.
+- **The departments constructed a physical bridge.:** 'As it were' signals figurative wording, not a physical construction project.
 - **The officer's role is conditional on a bridge being built.:** This is a comment on word choice, not an event condition involving construction.
 - **The speaker marks bridge as a figurative approximation of the officer's role.:** The phrase qualifies the chosen metaphor while retaining the claim about the officer's connecting role.
-- **The speaker doubts that the departments communicated at all.:** The qualification concerns the description bridge, not a denial of communication.
+- **The speaker doubts that the departments communicated at all.:** The qualification concerns the description 'bridge', not a denial of communication.
 
 **Decision:** replaced.
 
@@ -3678,7 +3678,7 @@ Choose what as it were signals about the phrase a bridge.
 
 ID: `coverage-clauses-and-connectors-c2-595`
 
-Choose the interpretation preserving the relationship introduced by that said.
+Choose the interpretation preserving the relationship introduced by 'that said'.
 
 'The report provides a useful overview. That said, its treatment of the final decade is thin.'
 
@@ -3691,7 +3691,7 @@ Choose the interpretation preserving the relationship introduced by that said.
 
 **Choice feedback:**
 
-- **The second sentence retracts the claim that the overview is useful.:** That said introduces a qualification; it need not cancel the earlier positive claim.
+- **The second sentence retracts the claim that the overview is useful.:** 'That said' introduces a qualification; it need not cancel the earlier positive claim.
 - **The second sentence explains why a thin treatment makes the overview useful.:** No causal connection between thinness and usefulness is asserted.
 - **The second sentence adds a limitation without withdrawing the positive overall assessment.:** The phrase acknowledges what has just been said while adding a counterbalancing limitation.
 - **The second sentence merely repeats the first in more specific words.:** The second sentence limits the first assessment rather than restating it equivalently.
@@ -3710,7 +3710,7 @@ Choose the interpretation preserving the relationship introduced by that said.
 
 ID: `coverage-clauses-and-connectors-c2-596`
 
-Choose the interpretation capturing both relations expressed by even as.
+Choose the interpretation capturing both relations expressed by 'even as'.
 
 'The company was announcing record profits even as it was asking employees to accept lower wages.'
 
@@ -3719,11 +3719,11 @@ Choose the interpretation capturing both relations expressed by even as.
 3. The profit announcement is merely an example of the wage request.
 4. The company announced profits only after employees accepted lower wages.
 
-**Explanation:** Even as combines temporal overlap with a pointed contrast between the two actions.
+**Explanation:** 'Even as' combines temporal overlap with a pointed contrast between the two actions.
 
 **Choice feedback:**
 
-- **The announcement and request coincided, and the writer highlights the tension between them.:** Even as combines temporal overlap with a pointed contrast between the two actions.
+- **The announcement and request coincided, and the writer highlights the tension between them.:** 'Even as' combines temporal overlap with a pointed contrast between the two actions.
 - **The wage request occurred well before the profit announcement and caused it.:** The sentence presents overlap, not a prior request causing an announcement.
 - **The profit announcement is merely an example of the wage request.:** These are different actions placed in tension, not a category and an example.
 - **The company announced profits only after employees accepted lower wages.:** The sentence reports a request during the announcement period, not prior acceptance by employees.
@@ -3774,7 +3774,7 @@ Choose the interpretation preserving the intensifying role of the because-clause
 
 ID: `coverage-clauses-and-connectors-c2-598`
 
-Choose the meaning of in the event in this retrospective account.
+Choose the meaning of 'in the event' in this retrospective account.
 
 'We expected a lengthy dispute. In the event, agreement was reached within an hour.'
 
@@ -3787,7 +3787,7 @@ Choose the meaning of in the event in this retrospective account.
 
 **Choice feedback:**
 
-- **Agreement depended on a future dispute occurring.:** In the event here reports the outcome; it is not the conditional phrase in the event of.
+- **Agreement depended on a future dispute occurring.:** 'In the event' here reports the outcome; it is not the conditional phrase 'in the event of'.
 - **The phrase states the condition under which agreement would be possible.:** The sentence reports an achieved agreement rather than a hypothetical condition for one.
 - **The phrase introduces what actually happened, contrasting with the earlier expectation.:** The phrase shifts from expectation to the actual outcome, which turned out differently.
 - **The phrase gives a reason why the earlier expectation was justified.:** The quick agreement contrasts with, rather than supports, the expectation of a lengthy dispute.
@@ -3806,7 +3806,7 @@ Choose the meaning of in the event in this retrospective account.
 
 ID: `coverage-clauses-and-connectors-c2-599`
 
-Choose the additional claim introduced by conversely.
+Choose the additional claim introduced by 'conversely'.
 
 'Every verified entry is indexed. Conversely, every indexed entry has been verified.'
 
@@ -3815,14 +3815,14 @@ Choose the additional claim introduced by conversely.
 3. Indexing is stated to cause the verification process.
 4. Membership of the index also guarantees membership of the verified set. **[Correct]**
 
-**Explanation:** Conversely reverses the direction of the first inclusion, adding indexed-to-verified to verified-to-indexed.
+**Explanation:** 'Conversely' reverses the direction of the first inclusion, adding indexed-to-verified to verified-to-indexed.
 
 **Choice feedback:**
 
 - **Some verified entries may remain outside the index.:** The first sentence says every verified entry is indexed, excluding this exception.
 - **Unverified entries are added to the index before verification.:** The second sentence rules out indexed entries lacking verification.
 - **Indexing is stated to cause the verification process.:** The sentences state two inclusion relations, not a causal process between indexing and verification.
-- **Membership of the index also guarantees membership of the verified set.:** Conversely reverses the direction of the first inclusion, adding indexed-to-verified to verified-to-indexed.
+- **Membership of the index also guarantees membership of the verified set.:** 'Conversely' reverses the direction of the first inclusion, adding indexed-to-verified to verified-to-indexed.
 
 **Decision:** replaced.
 
@@ -3838,7 +3838,7 @@ Choose the additional claim introduced by conversely.
 
 ID: `coverage-clauses-and-connectors-c2-600`
 
-Choose the function of in any case in this argument.
+Choose the function of 'in any case' in this argument.
 
 'The supplier may have misunderstood the specification, or the drawing may have been unclear. In any case, we need to inspect the delivered parts.'
 
@@ -3847,14 +3847,14 @@ Choose the function of in any case in this argument.
 3. The drawing's lack of clarity is presented as the sole reason for inspection.
 4. The inspection is required whichever of the proposed explanations turns out to be correct. **[Correct]**
 
-**Explanation:** In any case maintains the practical conclusion across the unresolved alternative explanations.
+**Explanation:** 'In any case' maintains the practical conclusion across the unresolved alternative explanations.
 
 **Choice feedback:**
 
-- **The writer concludes that both explanations have been proved.:** May keeps both accounts tentative; the connector does not establish either one.
+- **The writer concludes that both explanations have been proved.:** 'May' keeps both accounts tentative; the connector does not establish either one.
 - **The inspection is required only after the misunderstanding is confirmed.:** The sentence does not postpone inspection until one particular explanation is confirmed.
 - **The drawing's lack of clarity is presented as the sole reason for inspection.:** The conclusion is maintained across the alternatives rather than tied exclusively to the drawing.
-- **The inspection is required whichever of the proposed explanations turns out to be correct.:** In any case maintains the practical conclusion across the unresolved alternative explanations.
+- **The inspection is required whichever of the proposed explanations turns out to be correct.:** 'In any case' maintains the practical conclusion across the unresolved alternative explanations.
 
 **Decision:** replaced.
 

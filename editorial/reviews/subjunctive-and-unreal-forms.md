@@ -266,7 +266,7 @@ Choose the host's offer.
 
 ID: `coverage-subjunctive-and-unreal-forms-a1-3609`
 
-What does I'd mean in this sentence?
+What does "I'd" mean in this sentence?
 
 I'd like two tickets for the concert.
 
@@ -275,14 +275,14 @@ I'd like two tickets for the concert.
 3. I had
 4. I do
 
-**Explanation:** I'd expands to I would before like in this request.
+**Explanation:** "I'd" expands to 'I would' before 'like' in this request.
 
 **Choice feedback:**
 
-- **I did:** I did like would emphasize a past liking, not expand this polite request.
-- **I would:** I'd expands to I would before like in this request.
-- **I had:** I had like is not the construction used here; had would need a different complement.
-- **I do:** I do like expresses emphasis about liking, not the contraction I'd.
+- **I did:** 'I did like' would emphasize a past liking, not expand this polite request.
+- **I would:** "I'd" expands to 'I would' before 'like' in this request.
+- **I had:** 'I had like' is not the construction used here; 'had' would need a different complement.
+- **I do:** 'I do like' expresses emphasis about liking, not the contraction "I'd".
 
 **Decision:** replaced.
 
@@ -974,7 +974,7 @@ If I owned a house with a garden, I would grow vegetables.
 
 ID: `coverage-subjunctive-and-unreal-forms-a2-3631`
 
-Complete the imagined result using the correct form after would.
+Complete the imagined result using the correct form after 'would'.
 
 If I had enough savings, I would ___ a better camera.
 
@@ -983,14 +983,14 @@ If I had enough savings, I would ___ a better camera.
 3. buy **[Correct]**
 4. to buy
 
-**Explanation:** Would buy gives the imagined purchase with the correct base form.
+**Explanation:** 'Would buy' gives the imagined purchase with the correct base form.
 
 **Choice feedback:**
 
-- **bought:** Would takes buy, not the past form bought.
-- **buying:** Buying cannot follow would directly in this phrase.
-- **buy:** Would buy gives the imagined purchase with the correct base form.
-- **to buy:** Would is followed by the base verb without to.
+- **bought:** 'Would' takes 'buy', not the past form 'bought'.
+- **buying:** 'Buying' cannot follow 'would' directly in this phrase.
+- **buy:** 'Would buy' gives the imagined purchase with the correct base form.
+- **to buy:** 'Would' is followed by the base verb without 'to'.
 
 **Decision:** replaced.
 
@@ -1072,19 +1072,19 @@ ID: `coverage-subjunctive-and-unreal-forms-a2-3634`
 
 It is cold now. Read the imagined alternative.
 
-If it were warmer, we could eat on the terrace. What time does warmer concern here?
+If it were warmer, we could eat on the terrace. What time does 'warmer' concern here?
 
 1. The present situation, imagined differently. **[Correct]**
 2. Only last winter.
 3. A day when the meal has already ended.
 4. A confirmed weather forecast for next week.
 
-**Explanation:** The context is cold now, so were warmer imagines a different temperature in the present.
+**Explanation:** The context is cold now, so 'were warmer' imagines a different temperature in the present.
 
 **Choice feedback:**
 
-- **The present situation, imagined differently.:** The context is cold now, so were warmer imagines a different temperature in the present.
-- **Only last winter.:** Were is used for the imagined present temperature here, not to report last winter.
+- **The present situation, imagined differently.:** The context is cold now, so 'were warmer' imagines a different temperature in the present.
+- **Only last winter.:** 'Were' is used for the imagined present temperature here, not to report last winter.
 - **A day when the meal has already ended.:** No completed meal supplies the time reference; the speakers are considering eating now.
 - **A confirmed weather forecast for next week.:** The sentence supplies neither a forecast nor a next-week time reference.
 
@@ -1102,7 +1102,7 @@ If it were warmer, we could eat on the terrace. What time does warmer concern he
 
 ID: `coverage-subjunctive-and-unreal-forms-a2-3635`
 
-Compare the time meaning of had in the two sentences.
+Compare the time meaning of 'had' in the two sentences.
 
 A: 'I had a bicycle when I was eighteen.' B: 'I wish I had a bicycle now.'
 
@@ -1111,13 +1111,13 @@ A: 'I had a bicycle when I was eighteen.' B: 'I wish I had a bicycle now.'
 3. A reports past ownership; B expresses a wish about the present. **[Correct]**
 4. A is a wish about now, while B describes ownership at eighteen.
 
-**Explanation:** When I was eighteen anchors a real past statement, while wish and now give had an unreal present use.
+**Explanation:** 'When I was eighteen' anchors a real past statement, while 'wish' and 'now' give 'had' an unreal present use.
 
 **Choice feedback:**
 
 - **Both sentences state that the speaker owned a bicycle at eighteen.:** Only A reports ownership at eighteen; B gives a present wish.
 - **Both sentences state that the speaker owns a bicycle now.:** A is about the past, and B does not assert present possession.
-- **A reports past ownership; B expresses a wish about the present.:** When I was eighteen anchors a real past statement, while wish and now give had an unreal present use.
+- **A reports past ownership; B expresses a wish about the present.:** 'When I was eighteen' anchors a real past statement, while 'wish' and 'now' give 'had' an unreal present use.
 - **A is a wish about now, while B describes ownership at eighteen.:** This reverses the actual past time in A and unreal present meaning in B.
 
 **Decision:** replaced.
@@ -1330,7 +1330,7 @@ I wish I ___ closer to the studio.
 
 ID: `coverage-subjunctive-and-unreal-forms-b1-3642`
 
-The workshop is crowded today. Use were in a wish for a different present situation.
+The workshop is crowded today. Use 'were' in a wish for a different present situation.
 
 I wish the workshop ___ so crowded.
 
@@ -1339,14 +1339,14 @@ I wish the workshop ___ so crowded.
 3. not be
 4. being not
 
-**Explanation:** Weren't combines the requested unreal were with the negative needed for a less crowded workshop.
+**Explanation:** "Weren't" combines the requested unreal 'were' with the negative needed for a less crowded workshop.
 
 **Choice feedback:**
 
-- **weren't:** Weren't combines the requested unreal were with the negative needed for a less crowded workshop.
-- **isn't:** Isn't uses the present indicative rather than the requested unreal were form.
-- **not be:** Not be has no finite verb for this wish clause.
-- **being not:** Being not is not a finite predicate in this clause.
+- **weren't:** "Weren't" combines the requested unreal 'were' with the negative needed for a less crowded workshop.
+- **isn't:** "Isn't" uses the present indicative rather than the requested unreal 'were' form.
+- **not be:** 'Not be' has no finite verb for this wish clause.
+- **being not:** 'Being not' is not a finite predicate in this clause.
 
 **Decision:** replaced.
 
@@ -1490,7 +1490,7 @@ I would send the spare part if I ___ the address.
 
 ID: `coverage-subjunctive-and-unreal-forms-b1-3647`
 
-Complete the imagined result with would and a base verb.
+Complete the imagined result with 'would' and a base verb.
 
 If the membership fee were lower, more residents ___.
 
@@ -1499,14 +1499,14 @@ If the membership fee were lower, more residents ___.
 3. would join **[Correct]**
 4. would to join
 
-**Explanation:** Would join states the imagined consequence with the correct modal-plus-base structure.
+**Explanation:** 'Would join' states the imagined consequence with the correct modal-plus-base structure.
 
 **Choice feedback:**
 
-- **would joined:** Would requires join rather than the past form joined.
-- **would joining:** Joining cannot follow would directly in this result clause.
-- **would join:** Would join states the imagined consequence with the correct modal-plus-base structure.
-- **would to join:** Would does not take to before the main verb.
+- **would joined:** 'Would' requires 'join' rather than the past form 'joined'.
+- **would joining:** 'Joining' cannot follow 'would' directly in this result clause.
+- **would join:** 'Would join' states the imagined consequence with the correct modal-plus-base structure.
+- **would to join:** 'Would' does not take 'to' before the main verb.
 
 **Decision:** replaced.
 
@@ -1650,7 +1650,7 @@ If I ___ the alarm, I would have arrived on time.
 
 ID: `coverage-subjunctive-and-unreal-forms-b1-3652`
 
-Use the conventional past-form clause after would rather to express a preference about your friend's action now.
+Use the conventional past-form clause after 'would rather' to express a preference about your friend's action now.
 
 I'd rather you ___ your shoes by the door.
 
@@ -1659,14 +1659,14 @@ I'd rather you ___ your shoes by the door.
 3. leaving
 4. left **[Correct]**
 
-**Explanation:** Left is the conventional past form for another person's desired present action after would rather.
+**Explanation:** 'Left' is the conventional past form for another person's desired present action after 'would rather'.
 
 **Choice feedback:**
 
-- **leave:** Leave does not meet the requested past-form construction; this exercise is not using a base-form variant.
-- **had left:** Had left would concern an earlier completed action, not the current request.
-- **leaving:** Leaving lacks a finite verb after the subject you.
-- **left:** Left is the conventional past form for another person's desired present action after would rather.
+- **leave:** 'Leave' does not meet the requested past-form construction; this exercise is not using a base-form variant.
+- **had left:** 'Had left' would concern an earlier completed action, not the current request.
+- **leaving:** 'Leaving' lacks a finite verb after the subject 'you'.
+- **left:** 'Left' is the conventional past form for another person's desired present action after 'would rather'.
 
 **Decision:** replaced.
 
@@ -1874,7 +1874,7 @@ The organizer requested that the entrance ___ blocked during the event.
 
 ID: `coverage-subjunctive-and-unreal-forms-b1-3659`
 
-Complete the preference using the object-plus-to pattern after would prefer.
+Complete the preference using the object-plus-to pattern after 'would prefer'.
 
 I'd prefer you ___ until the paint is dry.
 
@@ -1883,14 +1883,14 @@ I'd prefer you ___ until the paint is dry.
 3. waiting
 4. wait
 
-**Explanation:** To wait gives the action preferred from the listener in the requested construction.
+**Explanation:** 'To wait' gives the action preferred from the listener in the requested construction.
 
 **Choice feedback:**
 
-- **waited:** Waited belongs in a different finite pattern, such as I'd prefer it if you waited, not the requested object-plus-to construction.
-- **to wait:** To wait gives the action preferred from the listener in the requested construction.
-- **waiting:** Waiting does not provide the requested to-infinitive after you.
-- **wait:** Wait lacks to in the specified would-prefer-you-to pattern.
+- **waited:** 'Waited' belongs in a different finite pattern, such as "I'd prefer it if you waited", not the requested object-plus-to construction.
+- **to wait:** 'To wait' gives the action preferred from the listener in the requested construction.
+- **waiting:** 'Waiting' does not provide the requested to-infinitive after 'you'.
+- **wait:** 'Wait' lacks 'to' in the specified would-prefer-you-to pattern.
 
 **Decision:** replaced.
 
@@ -2874,7 +2874,7 @@ What does the remark establish without further context?
 
 ID: `coverage-subjunctive-and-unreal-forms-c1-3690`
 
-How is should functioning in the archivist's response?
+How is 'should' functioning in the archivist's response?
 
 The missing negatives have turned up in a biscuit tin. 'How extraordinary that they should have survived there!' the archivist says.
 
@@ -3130,7 +3130,7 @@ Which reading best fits the engineer's response?
 
 ID: `coverage-subjunctive-and-unreal-forms-c1-3698`
 
-Assess the attendant's use of would in the if-clause.
+Assess the attendant's use of 'would' in the if-clause.
 
 At a cloakroom: 'If you would leave your bag on the counter, I'll attach a numbered tag.'
 
@@ -3144,7 +3144,7 @@ At a cloakroom: 'If you would leave your bag on the counter, I'll attach a numbe
 **Choice feedback:**
 
 - **It makes a polite request for the visitor's cooperation.:** The attendant uses the conditional to solicit cooperation politely before offering the next action.
-- **It must be removed because would cannot occur after if.:** Would is legitimate in an if-clause when it concerns willingness or polite cooperation; a blanket ban is inaccurate.
+- **It must be removed because would cannot occur after if.:** 'Would' is legitimate in an if-clause when it concerns willingness or polite cooperation; a blanket ban is inaccurate.
 - **It reports that the visitor repeatedly left bags there in the past.:** The immediate service exchange concerns a proposed action, not a past habit.
 - **It establishes that leaving the bag is contrary to fact.:** This is a live request the visitor can fulfill, not a statement that the proposed action is unreal or impossible.
 
@@ -3486,7 +3486,7 @@ How does the opening formula interact with the rest of the remark?
 
 ID: `coverage-subjunctive-and-unreal-forms-c2-3709`
 
-What qualification does as it were introduce?
+What qualification does 'as it were' introduce?
 
 'The disused canal became, as it were, the city's spine: the new pedestrian routes branched out from it. The canal itself remained exactly where it had been.'
 

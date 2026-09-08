@@ -1262,7 +1262,7 @@ This building has two lifts. One is broken, but ___ lift works.
 
 ID: `coverage-determiners-and-quantifiers-a2-1120`
 
-Choose the possessive form used before luggage in standard written English.
+Choose the possessive form used before 'luggage' in standard written English.
 
 The guests have arrived, but ___ luggage is still at the airport.
 
@@ -1271,14 +1271,14 @@ The guests have arrived, but ___ luggage is still at the airport.
 3. them
 4. they
 
-**Explanation:** Their goes before luggage to show that it belongs to the guests.
+**Explanation:** 'Their' goes before 'luggage' to show that it belongs to the guests.
 
 **Choice feedback:**
 
-- **theirs:** Theirs stands alone, as in The luggage is theirs; it cannot introduce luggage.
-- **their:** Their goes before luggage to show that it belongs to the guests.
-- **them:** Them is an object form and cannot show possession before luggage.
-- **they:** They is a subject form; the possessive phrase needed here is their luggage.
+- **theirs:** 'Theirs' stands alone, as in 'The luggage is theirs'; it cannot introduce 'luggage'.
+- **their:** 'Their' goes before 'luggage' to show that it belongs to the guests.
+- **them:** 'Them' is an object form and cannot show possession before 'luggage'.
+- **they:** 'They' is a subject form; the possessive phrase needed here is 'their luggage'.
 
 **Decision:** replaced.
 
@@ -1906,7 +1906,7 @@ No cake remained, but the sentence need not say that every guest ate some.
 
 ID: `coverage-determiners-and-quantifiers-b1-1140`
 
-Choose the meaning of each in this sentence.
+Choose the meaning of 'each' in this sentence.
 
 The four guides received twenty euros each.
 
@@ -1915,14 +1915,14 @@ The four guides received twenty euros each.
 3. Every guide received eighty euros.
 4. Every guide received twenty euros. **[Correct]**
 
-**Explanation:** Each distributes twenty euros to every guide, so the four guides received eighty euros in total.
+**Explanation:** 'Each' distributes twenty euros to every guide, so the four guides received eighty euros in total.
 
 **Choice feedback:**
 
-- **The four guides shared twenty euros.:** Sharing twenty euros would make that the group total; each makes twenty the amount per guide.
-- **One guide received twenty euros.:** Each applies to every one of the four guides, not just one guide.
+- **The four guides shared twenty euros.:** Sharing twenty euros would make that the group total; 'each' makes twenty the amount per guide.
+- **One guide received twenty euros.:** 'Each' applies to every one of the four guides, not just one guide.
 - **Every guide received eighty euros.:** Eighty euros is the combined total, not the amount given to each guide.
-- **Every guide received twenty euros.:** Each distributes twenty euros to every guide, so the four guides received eighty euros in total.
+- **Every guide received twenty euros.:** 'Each' distributes twenty euros to every guide, so the four guides received eighty euros in total.
 
 **Decision:** replaced.
 
@@ -2550,7 +2550,7 @@ All but two of the twelve apartments have balconies.
 
 ID: `coverage-determiners-and-quantifiers-b2-1160`
 
-Choose the normal descriptive meaning of either here, rather than a permission to choose a side.
+Choose the normal descriptive meaning of 'either' here, rather than a permission to choose a side.
 
 A row of lamps runs along either side of the footbridge.
 
@@ -2559,14 +2559,14 @@ A row of lamps runs along either side of the footbridge.
 3. There are two rows on each side of the bridge.
 4. There is a row of lamps on each of the two sides. **[Correct]**
 
-**Explanation:** In this descriptive use, either side means each of the two sides, so lamps line both sides.
+**Explanation:** In this descriptive use, 'either side' means each of the two sides, so lamps line both sides.
 
 **Choice feedback:**
 
-- **There is a row on one side, but the sentence does not identify which.:** That treats either as an unspecified choice; the task asks for its normal distributive reading here.
-- **There is a row on the left side only.:** Either does not identify the left side or restrict the lamps to it.
-- **There are two rows on each side of the bridge.:** A row on either side gives one row per side, not two per side.
-- **There is a row of lamps on each of the two sides.:** In this descriptive use, either side means each of the two sides, so lamps line both sides.
+- **There is a row on one side, but the sentence does not identify which.:** That treats 'either' as an unspecified choice; the task asks for its normal distributive reading here.
+- **There is a row on the left side only.:** 'Either' does not identify the left side or restrict the lamps to it.
+- **There are two rows on each side of the bridge.:** 'A row on either side' gives one row per side, not two per side.
+- **There is a row of lamps on each of the two sides.:** In this descriptive use, 'either side' means each of the two sides, so lamps line both sides.
 
 **Decision:** replaced.
 
@@ -2618,7 +2618,7 @@ The new venue is not much of an improvement on the old one.
 
 ID: `coverage-determiners-and-quantifiers-c1-1162`
 
-Choose the interpretation of some in this numerical report.
+Choose the interpretation of 'some' in this numerical report.
 
 Some forty delegates attended the consultation.
 
@@ -2627,14 +2627,14 @@ Some forty delegates attended the consultation.
 3. Exactly forty delegates attended.
 4. Approximately forty delegates attended. **[Correct]**
 
-**Explanation:** Some before forty means about forty, a use common in reports.
+**Explanation:** 'Some' before 'forty' means 'about forty', a use common in reports.
 
 **Choice feedback:**
 
-- **An unspecified subset of forty delegates attended.:** Some forty gives an approximate total; some of the forty would identify a subset.
-- **At least forty delegates attended.:** Some before a number signals approximation, not a guaranteed lower bound.
-- **Exactly forty delegates attended.:** The approximating some prevents the number from being an exact assertion.
-- **Approximately forty delegates attended.:** Some before forty means about forty, a use common in reports.
+- **An unspecified subset of forty delegates attended.:** 'Some forty' gives an approximate total; 'some of the forty' would identify a subset.
+- **At least forty delegates attended.:** 'Some' before a number signals approximation, not a guaranteed lower bound.
+- **Exactly forty delegates attended.:** The approximating 'some' prevents the number from being an exact assertion.
+- **Approximately forty delegates attended.:** 'Some' before 'forty' means 'about forty', a use common in reports.
 
 **Decision:** replaced.
 
@@ -2810,7 +2810,7 @@ The charity spent ___ it had left on emergency accommodation.
 
 ID: `coverage-determiners-and-quantifiers-c1-1168`
 
-Choose the speaker's intended stance in this idiomatic use of every.
+Choose the speaker's intended stance in this idiomatic use of 'every'.
 
 We have every reason to believe that the restoration will succeed.
 
@@ -2819,14 +2819,14 @@ We have every reason to believe that the restoration will succeed.
 3. Success has already occurred and been verified.
 4. We consider success possible but have little basis for expecting it.
 
-**Explanation:** Every reason to believe is an idiom expressing strong grounds for confidence, not a literal inventory of every reason.
+**Explanation:** 'Every reason to believe' is an idiom expressing strong grounds for confidence, not a literal inventory of every reason.
 
 **Choice feedback:**
 
 - **We have listed every conceivable reason for success.:** The phrase conveys confidence without claiming an exhaustive list of possible reasons.
-- **The available grounds give us strong confidence in success.:** Every reason to believe is an idiom expressing strong grounds for confidence, not a literal inventory of every reason.
-- **Success has already occurred and been verified.:** Believe and will succeed concern an expectation, not a completed verified result.
-- **We consider success possible but have little basis for expecting it.:** Every reason expresses strong support, rather than a weakly supported possibility.
+- **The available grounds give us strong confidence in success.:** 'Every reason to believe' is an idiom expressing strong grounds for confidence, not a literal inventory of every reason.
+- **Success has already occurred and been verified.:** 'Believe' and 'will succeed' concern an expectation, not a completed verified result.
+- **We consider success possible but have little basis for expecting it.:** 'Every reason' expresses strong support, rather than a weakly supported possibility.
 
 **Decision:** replaced.
 
@@ -3002,7 +3002,7 @@ The editor asks the reviewer to list the discrepancies, ___, between the two ver
 
 ID: `coverage-determiners-and-quantifiers-c1-1174`
 
-Choose the function of some in this context of an unidentified caller.
+Choose the function of 'some' in this context of an unidentified caller.
 
 Some consultant called while you were out, but I did not catch their name.
 
@@ -3011,13 +3011,13 @@ Some consultant called while you were out, but I did not catch their name.
 3. It introduces a particular caller whose identity is not given. **[Correct]**
 4. It expresses doubt about whether anyone called.
 
-**Explanation:** Some consultant refers to an actual caller while leaving their identity unspecified, matching the missed name.
+**Explanation:** 'Some consultant' refers to an actual caller while leaving their identity unspecified, matching the missed name.
 
 **Choice feedback:**
 
-- **It gives an approximate number of consultants.:** Some before singular consultant does not estimate a count as some forty would.
+- **It gives an approximate number of consultants.:** 'Some' before singular 'consultant' does not estimate a count as 'some forty' would.
 - **It offers a free choice of which consultant should call.:** The call has already happened; no choice of future caller is being offered.
-- **It introduces a particular caller whose identity is not given.:** Some consultant refers to an actual caller while leaving their identity unspecified, matching the missed name.
+- **It introduces a particular caller whose identity is not given.:** 'Some consultant' refers to an actual caller while leaving their identity unspecified, matching the missed name.
 - **It expresses doubt about whether anyone called.:** The speaker reports an actual call and uncertainty about the name, not about whether the call happened.
 
 **Decision:** replaced.
@@ -3034,7 +3034,7 @@ Some consultant called while you were out, but I did not catch their name.
 
 ID: `coverage-determiners-and-quantifiers-c1-1175`
 
-Choose the implication of certain in this use.
+Choose the implication of 'certain' in this use.
 
 A certain supplier has repeatedly missed the deadline, although I will not name them here.
 
@@ -3043,14 +3043,14 @@ A certain supplier has repeatedly missed the deadline, although I will not name 
 3. Several suppliers are known to have missed deadlines.
 4. The speaker has a particular supplier in mind but withholds its name. **[Correct]**
 
-**Explanation:** A certain supplier can introduce a specific individual without identifying them to the audience.
+**Explanation:** 'A certain supplier' can introduce a specific individual without identifying them to the audience.
 
 **Choice feedback:**
 
-- **The supplier's future reliability is certain.:** Certain before supplier identifies an unnamed particular supplier; it does not guarantee reliability.
-- **Any supplier could be substituted without changing the reference.:** A certain points to a particular supplier, not an arbitrary member of the class.
-- **Several suppliers are known to have missed deadlines.:** A certain supplier is singular and does not make a claim about several suppliers.
-- **The speaker has a particular supplier in mind but withholds its name.:** A certain supplier can introduce a specific individual without identifying them to the audience.
+- **The supplier's future reliability is certain.:** 'Certain' before 'supplier' identifies an unnamed particular supplier; it does not guarantee reliability.
+- **Any supplier could be substituted without changing the reference.:** 'A certain' points to a particular supplier, not an arbitrary member of the class.
+- **Several suppliers are known to have missed deadlines.:** 'A certain supplier' is singular and does not make a claim about several suppliers.
+- **The speaker has a particular supplier in mind but withholds its name.:** 'A certain supplier' can introduce a specific individual without identifying them to the audience.
 
 **Decision:** replaced.
 
@@ -3066,7 +3066,7 @@ A certain supplier has repeatedly missed the deadline, although I will not name 
 
 ID: `coverage-determiners-and-quantifiers-c1-1176`
 
-Choose the normal meaning of either under without in this sentence.
+Choose the normal meaning of 'either' under 'without' in this sentence.
 
 She submitted the manuscript without consulting either coauthor.
 
@@ -3075,13 +3075,13 @@ She submitted the manuscript without consulting either coauthor.
 3. She consulted both coauthors separately.
 4. The sentence grants her permission to consult whichever coauthor she chooses.
 
-**Explanation:** Without consulting either places both possible consultations outside what happened before submission.
+**Explanation:** 'Without consulting either' places both possible consultations outside what happened before submission.
 
 **Choice feedback:**
 
-- **She consulted neither of the two coauthors before submitting it.:** Without consulting either places both possible consultations outside what happened before submission.
-- **She consulted one coauthor, but not both.:** That would be without consulting both, or after consulting only one; without consulting either excludes both consultations.
-- **She consulted both coauthors separately.:** Separate consultations would still be consultations, contradicting without consulting either.
+- **She consulted neither of the two coauthors before submitting it.:** 'Without consulting either' places both possible consultations outside what happened before submission.
+- **She consulted one coauthor, but not both.:** That would be 'without consulting both', or 'after consulting only one'; 'without consulting either' excludes both consultations.
+- **She consulted both coauthors separately.:** Separate consultations would still be consultations, contradicting 'without consulting either'.
 - **The sentence grants her permission to consult whichever coauthor she chooses.:** It reports what happened without consultation; it does not offer a choice or permission.
 
 **Decision:** replaced.
@@ -3194,7 +3194,7 @@ Within this shortlist of five designs, ours uses less material than ___.
 
 ID: `coverage-determiners-and-quantifiers-c1-1180`
 
-Choose the force added by last in this expression.
+Choose the force added by 'last' in this expression.
 
 The archivist checked every last page before releasing the documents.
 
@@ -3203,14 +3203,14 @@ The archivist checked every last page before releasing the documents.
 3. It says the pages were checked in reverse order.
 4. It says most pages were checked, with a few exceptions.
 
-**Explanation:** Every last page intensifies completeness: all pages, down to the final remaining one, were checked.
+**Explanation:** 'Every last page' intensifies completeness: all pages, down to the final remaining one, were checked.
 
 **Choice feedback:**
 
-- **It emphasizes that no page was left unchecked.:** Every last page intensifies completeness: all pages, down to the final remaining one, were checked.
-- **It limits the checking to the final page of each document.:** Every last page is an emphatic expression for all pages here, not a selection of document endings.
-- **It says the pages were checked in reverse order.:** Last adds emphasis to completeness, not an order of inspection.
-- **It says most pages were checked, with a few exceptions.:** Every last strengthens the exclusion of exceptions rather than allowing them.
+- **It emphasizes that no page was left unchecked.:** 'Every last page' intensifies completeness: all pages, down to the final remaining one, were checked.
+- **It limits the checking to the final page of each document.:** 'Every last page' is an emphatic expression for all pages here, not a selection of document endings.
+- **It says the pages were checked in reverse order.:** 'Last' adds emphasis to completeness, not an order of inspection.
+- **It says most pages were checked, with a few exceptions.:** 'Every last' strengthens the exclusion of exceptions rather than allowing them.
 
 **Decision:** replaced.
 
@@ -3422,7 +3422,7 @@ All but one of the panelists declined to endorse the recommendation.
 
 ID: `coverage-determiners-and-quantifiers-c2-1187`
 
-Choose the defensible comparison. Both journals use few for a low proportion of their own submissions.
+Choose the defensible comparison. Both journals use 'few' for a low proportion of their own submissions.
 
 Journal A says, 'Few of our fifty submissions were accepted.' Journal B says, 'Few of our five thousand submissions were accepted.'
 
@@ -3431,14 +3431,14 @@ Journal A says, 'Few of our fifty submissions were accepted.' Journal B says, 'F
 3. Each journal accepted at most four manuscripts.
 4. B may have accepted more manuscripts than A, despite both using few. **[Correct]**
 
-**Explanation:** A low proportion of a large pool can exceed a low proportion of a small pool in absolute count; few alone does not settle the comparison.
+**Explanation:** A low proportion of a large pool can exceed a low proportion of a small pool in absolute count; 'few' alone does not settle the comparison.
 
 **Choice feedback:**
 
-- **The journals accepted the same number because both used few.:** Few is context-dependent; using the same vague quantifier does not establish equal counts across different-sized groups.
+- **The journals accepted the same number because both used few.:** 'Few' is context-dependent; using the same vague quantifier does not establish equal counts across different-sized groups.
 - **B must have accepted more manuscripts because it received more.:** A larger submission pool does not guarantee a larger accepted count without actual acceptance figures.
-- **Each journal accepted at most four manuscripts.:** Few does not have a fixed ceiling of four, especially when it describes a proportion of thousands.
-- **B may have accepted more manuscripts than A, despite both using few.:** A low proportion of a large pool can exceed a low proportion of a small pool in absolute count; few alone does not settle the comparison.
+- **Each journal accepted at most four manuscripts.:** 'Few' does not have a fixed ceiling of four, especially when it describes a proportion of thousands.
+- **B may have accepted more manuscripts than A, despite both using few.:** A low proportion of a large pool can exceed a low proportion of a small pool in absolute count; 'few' alone does not settle the comparison.
 
 **Decision:** replaced.
 
@@ -3614,7 +3614,7 @@ Original: 'Three reviewers each rejected two different proposals.' Summary: 'The
 
 ID: `coverage-determiners-and-quantifiers-c2-1193`
 
-Choose the accurate assessment of the change from any to only.
+Choose the accurate assessment of the change from 'any' to 'only'.
 
 Original: 'Any account supported by two independent sources will be included.' Edit: 'Only accounts supported by two independent sources will be included.'
 
@@ -3623,14 +3623,14 @@ Original: 'Any account supported by two independent sources will be included.' E
 3. The original excludes nonqualifying accounts; the edit guarantees inclusion whenever the source condition is met.
 4. Neither version commits to including qualifying accounts; both merely express a preference for independently supported sources.
 
-**Explanation:** Any...will gives a sufficient condition for inclusion. Only makes that condition necessary, without preserving the guarantee for every qualifying account.
+**Explanation:** 'Any...will' gives a sufficient condition for inclusion. 'Only' makes that condition necessary, without preserving the guarantee for every qualifying account.
 
 **Choice feedback:**
 
-- **The original guarantees inclusion for qualifying accounts; the edit excludes others without guaranteeing inclusion for the qualifying accounts.:** Any...will gives a sufficient condition for inclusion. Only makes that condition necessary, without preserving the guarantee for every qualifying account.
-- **Both versions guarantee inclusion for qualifying accounts; the edit merely expresses the same rule more directly.:** Only restricts what may be included, but does not guarantee inclusion of every account meeting that restriction.
-- **The original excludes nonqualifying accounts; the edit guarantees inclusion whenever the source condition is met.:** This reverses the functions: any guarantees inclusion on qualification, while only makes qualification necessary.
-- **Neither version commits to including qualifying accounts; both merely express a preference for independently supported sources.:** Will be included in the original is a commitment, and only in the edit is a restriction, not a preference.
+- **The original guarantees inclusion for qualifying accounts; the edit excludes others without guaranteeing inclusion for the qualifying accounts.:** 'Any...will' gives a sufficient condition for inclusion. 'Only' makes that condition necessary, without preserving the guarantee for every qualifying account.
+- **Both versions guarantee inclusion for qualifying accounts; the edit merely expresses the same rule more directly.:** 'Only' restricts what may be included, but does not guarantee inclusion of every account meeting that restriction.
+- **The original excludes nonqualifying accounts; the edit guarantees inclusion whenever the source condition is met.:** This reverses the functions: 'any' guarantees inclusion on qualification, while 'only' makes qualification necessary.
+- **Neither version commits to including qualifying accounts; both merely express a preference for independently supported sources.:** 'Will be included' in the original is a commitment, and 'only' in the edit is a restriction, not a preference.
 
 **Decision:** replaced.
 

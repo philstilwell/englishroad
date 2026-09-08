@@ -170,7 +170,7 @@ The photographer says, 'Please stand up.' What should people do?
 
 ID: `coverage-phrasal-verbs-a1-2406`
 
-Use it for the lamp. Choose the grammatically correct instruction.
+Use 'it' for the lamp. Choose the grammatically correct instruction.
 
 You want someone to turn on the lamp. Which wording is correct?
 
@@ -179,14 +179,14 @@ You want someone to turn on the lamp. Which wording is correct?
 3. Turn it on it.
 4. It turn on.
 
-**Explanation:** With turn on, put an object pronoun between the two words: turn it on.
+**Explanation:** With 'turn on', put an object pronoun between the two words: 'turn it on'.
 
 **Choice feedback:**
 
-- **Turn it on.:** With turn on, put an object pronoun between the two words: turn it on.
-- **Turn on it.:** With this verb, the short object it goes between turn and on.
-- **Turn it on it.:** It already names the lamp once; do not repeat the object after on.
-- **It turn on.:** In this instruction, turn comes first and it follows the verb.
+- **Turn it on.:** With 'turn on', put an object pronoun between the two words: 'turn it on'.
+- **Turn on it.:** With this verb, the short object 'it' goes between 'turn' and 'on'.
+- **Turn it on it.:** 'It' already names the lamp once; do not repeat the object after 'on'.
+- **It turn on.:** In this instruction, 'turn' comes first and 'it' follows the verb.
 
 **Decision:** replaced.
 
@@ -268,21 +268,21 @@ ID: `coverage-phrasal-verbs-a1-2409`
 
 Read about a short rest.
 
-'After work, I lie down on the sofa.' What does lie down describe?
+'After work, I lie down on the sofa.' What does 'lie down' describe?
 
 1. Sitting with both feet on the floor.
 2. Going to sleep for the night.
 3. Standing beside the sofa.
 4. Putting your body in a flat resting position. **[Correct]**
 
-**Explanation:** Lie down means move into a flat resting position. Sleeping is possible but is not part of the meaning.
+**Explanation:** 'Lie down' means move into a flat resting position. Sleeping is possible but is not part of the meaning.
 
 **Choice feedback:**
 
 - **Sitting with both feet on the floor.:** That is a sitting position, not lying down.
 - **Going to sleep for the night.:** A person can lie down while awake. The phrase does not say how long they rest.
-- **Standing beside the sofa.:** Standing keeps the body upright, so it does not match lie down.
-- **Putting your body in a flat resting position.:** Lie down means move into a flat resting position. Sleeping is possible but is not part of the meaning.
+- **Standing beside the sofa.:** Standing keeps the body upright, so it does not match 'lie down'.
+- **Putting your body in a flat resting position.:** 'Lie down' means move into a flat resting position. Sleeping is possible but is not part of the meaning.
 
 **Decision:** replaced.
 
@@ -332,21 +332,21 @@ ID: `coverage-phrasal-verbs-a1-2411`
 
 Complete the sentence about getting dressed.
 
-'It's cold. I'm going to ___ my coat.' Choose the words that mean start wearing it.
+'It's cold. I'm going to ___ my coat.' Choose the words that mean 'start wearing it'.
 
 1. take off
 2. give back
 3. pick up
 4. put on **[Correct]**
 
-**Explanation:** Put on means place clothes on your body so that you are wearing them.
+**Explanation:** 'Put on' means place clothes on your body so that you are wearing them.
 
 **Choice feedback:**
 
-- **take off:** Take off means remove the coat, not start wearing it.
-- **give back:** Give back means return the coat to someone, not get dressed in it.
-- **pick up:** Pick up means lift or collect the coat. That does not necessarily mean wear it.
-- **put on:** Put on means place clothes on your body so that you are wearing them.
+- **take off:** 'Take off' means remove the coat, not start wearing it.
+- **give back:** 'Give back' means return the coat to someone, not get dressed in it.
+- **pick up:** 'Pick up' means lift or collect the coat. That does not necessarily mean wear it.
+- **put on:** 'Put on' means place clothes on your body so that you are wearing them.
 
 **Decision:** replaced.
 
@@ -1200,20 +1200,20 @@ ID: `coverage-phrasal-verbs-a2-2438`
 
 You want a neighbour to water and care for your plants during your trip.
 
-Use them for the plants. Choose the natural request that asks for this care.
+Use 'them' for the plants. Choose the natural request that asks for this care.
 
 1. Could you look after them? **[Correct]**
 2. Could you look them after?
 3. Could you look for them?
 4. Could you look at them?
 
-**Explanation:** Look after means take care of someone or something. Its object stays after after: look after them.
+**Explanation:** 'Look after' means take care of someone or something. Its object stays after 'after': 'look after them'.
 
 **Choice feedback:**
 
-- **Could you look after them?:** Look after means take care of someone or something. Its object stays after after: look after them.
-- **Could you look them after?:** The object cannot go between look and after in this meaning. Use look after them.
-- **Could you look for them?:** Look for asks someone to search for missing plants, not care for plants in a known place.
+- **Could you look after them?:** 'Look after' means take care of someone or something. Its object stays after 'after': 'look after them'.
+- **Could you look them after?:** The object cannot go between 'look' and 'after' in this meaning. Use 'look after them'.
+- **Could you look for them?:** 'Look for' asks someone to search for missing plants, not care for plants in a known place.
 - **Could you look at them?:** Looking at the plants does not itself ask for the continuing care described in the task.
 
 **Decision:** replaced.
@@ -1300,18 +1300,18 @@ ID: `coverage-phrasal-verbs-b1-2441`
 
 Read the update about an exhibition opening.
 
-'The opening has been put off.' Which meaning does put off express here?
+'The opening has been put off.' Which meaning does 'put off' express here?
 
 1. The opening has been postponed. **[Correct]**
 2. The opening has been announced publicly.
 3. The opening has been brought forward.
 4. The opening has been cancelled altogether.
 
-**Explanation:** Put off an event means postpone it until later. This does not itself mean cancel it permanently.
+**Explanation:** 'Put off an event' means postpone it until later. This does not itself mean cancel it permanently.
 
 **Choice feedback:**
 
-- **The opening has been postponed.:** Put off an event means postpone it until later. This does not itself mean cancel it permanently.
+- **The opening has been postponed.:** 'Put off an event' means postpone it until later. This does not itself mean cancel it permanently.
 - **The opening has been announced publicly.:** Announcing an event makes it known; putting it off changes its timing.
 - **The opening has been brought forward.:** Bringing it forward moves it earlier, whereas putting it off postpones it.
 - **The opening has been cancelled altogether.:** Cancellation abandons the event; postponement leaves it for a later time.
@@ -1364,21 +1364,21 @@ ID: `coverage-phrasal-verbs-b1-2443`
 
 You want to consult a reference source for the meaning of an unfamiliar term.
 
-Use it for the term. Which reply has correct word order and expresses consulting the source?
+Use 'it' for the term. Which reply has correct word order and expresses consulting the source?
 
 1. I'll look it up. **[Correct]**
 2. I'll look up it.
 3. I'll look up to it.
 4. I'll look it over.
 
-**Explanation:** Look something up means consult a source to obtain information about it. With a pronoun, use look it up.
+**Explanation:** 'Look something up' means consult a source to obtain information about it. With a pronoun, use 'look it up'.
 
 **Choice feedback:**
 
-- **I'll look it up.:** Look something up means consult a source to obtain information about it. With a pronoun, use look it up.
-- **I'll look up it.:** A pronoun object goes before up in this sense: look it up.
-- **I'll look up to it.:** Look up to means admire or respect; the added to changes the expression rather than fixing its word order.
-- **I'll look it over.:** Look over means examine something. It does not specifically express searching a reference source for a term's meaning.
+- **I'll look it up.:** 'Look something up' means consult a source to obtain information about it. With a pronoun, use 'look it up'.
+- **I'll look up it.:** A pronoun object goes before 'up' in this sense: 'look it up'.
+- **I'll look up to it.:** 'Look up to' means admire or respect; the added 'to' changes the expression rather than fixing its word order.
+- **I'll look it over.:** 'Look over' means examine something. It does not specifically express searching a reference source for a term's meaning.
 
 **Decision:** replaced.
 
@@ -1492,20 +1492,20 @@ ID: `coverage-phrasal-verbs-b1-2447`
 
 Read a short career history.
 
-'After leaving the agency, Marta set up a translation business.' What does set up mean?
+'After leaving the agency, Marta set up a translation business.' What does 'set up' mean?
 
 1. Established the business. **[Correct]**
 2. Sold the business to the agency.
 3. Closed a business for repairs.
 4. Joined the staff of an existing business.
 
-**Explanation:** Set up a business means create and organise it so that it can operate. It need not involve building new premises.
+**Explanation:** 'Set up a business' means create and organise it so that it can operate. It need not involve building new premises.
 
 **Choice feedback:**
 
-- **Established the business.:** Set up a business means create and organise it so that it can operate. It need not involve building new premises.
+- **Established the business.:** 'Set up a business' means create and organise it so that it can operate. It need not involve building new premises.
 - **Sold the business to the agency.:** Selling transfers an existing business; setting one up establishes it.
-- **Closed a business for repairs.:** Set up does not mean suspend operations or repair a building.
+- **Closed a business for repairs.:** 'Set up' does not mean suspend operations or repair a building.
 - **Joined the staff of an existing business.:** Joining as an employee is different from establishing the business.
 
 **Decision:** replaced.
@@ -1588,21 +1588,21 @@ ID: `coverage-phrasal-verbs-b1-2450`
 
 Completed expense forms must be submitted to the accounts office.
 
-Use them for the forms. Which instruction requests submission?
+Use 'them' for the forms. Which instruction requests submission?
 
 1. Hand them out by Friday.
 2. Fill them in by Friday.
 3. Look them over by Friday.
 4. Hand them in by Friday. **[Correct]**
 
-**Explanation:** Hand in means submit something to the person or office that should receive it. With them, the object goes before in.
+**Explanation:** 'Hand in' means submit something to the person or office that should receive it. With 'them', the object goes before 'in'.
 
 **Choice feedback:**
 
-- **Hand them out by Friday.:** Hand out means distribute the forms to people, not submit the completed forms for processing.
-- **Fill them in by Friday.:** Fill in asks for completion of the information. These forms are already completed and must now be submitted.
+- **Hand them out by Friday.:** 'Hand out' means distribute the forms to people, not submit the completed forms for processing.
+- **Fill them in by Friday.:** 'Fill in' asks for completion of the information. These forms are already completed and must now be submitted.
 - **Look them over by Friday.:** Looking them over means checking them; submission is a separate step.
-- **Hand them in by Friday.:** Hand in means submit something to the person or office that should receive it. With them, the object goes before in.
+- **Hand them in by Friday.:** 'Hand in' means submit something to the person or office that should receive it. With 'them', the object goes before 'in'.
 
 **Decision:** replaced.
 
@@ -1716,21 +1716,21 @@ ID: `coverage-phrasal-verbs-b1-2454`
 
 Two friends are checking a restaurant booking.
 
-'Hold on, that's the old address.' What is the speaker doing with Hold on?
+'Hold on, that's the old address.' What is the speaker doing with 'Hold on'?
 
 1. Telling the friend to grip the booking paper tightly.
 2. Asking the friend to keep the old address unchanged.
 3. Pausing the discussion to point out a problem. **[Correct]**
 4. Promising to keep the table reserved.
 
-**Explanation:** Hold on can interrupt the current course of a conversation. The comment about the old address explains why the speaker pauses it.
+**Explanation:** 'Hold on' can interrupt the current course of a conversation. The comment about the old address explains why the speaker pauses it.
 
 **Choice feedback:**
 
-- **Telling the friend to grip the booking paper tightly.:** There is no object to hold. Here hold on pauses the discussion so the speaker can flag a problem.
+- **Telling the friend to grip the booking paper tightly.:** There is no object to hold. Here 'hold on' pauses the discussion so the speaker can flag a problem.
 - **Asking the friend to keep the old address unchanged.:** The phrase does not request preserving the address; the following words question its use.
-- **Pausing the discussion to point out a problem.:** Hold on can interrupt the current course of a conversation. The comment about the old address explains why the speaker pauses it.
-- **Promising to keep the table reserved.:** Hold on is not a promise to hold a reservation in this exchange.
+- **Pausing the discussion to point out a problem.:** 'Hold on' can interrupt the current course of a conversation. The comment about the old address explains why the speaker pauses it.
+- **Promising to keep the table reserved.:** 'Hold on' is not a promise to hold a reservation in this exchange.
 
 **Decision:** replaced.
 
@@ -1876,21 +1876,21 @@ ID: `coverage-phrasal-verbs-b1-2459`
 
 Read a meeting summary.
 
-'A question about parking came up during the discussion.' What does came up report?
+'A question about parking came up during the discussion.' What does 'came up' report?
 
 1. The group agreed on an answer about parking.
 2. The question arose in the discussion. **[Correct]**
 3. The question was sent to a more senior committee.
 4. The group withdrew the parking question.
 
-**Explanation:** Come up can mean arise or become a topic. The phrase does not name who introduced the question or say that it was answered.
+**Explanation:** 'Come up' can mean arise or become a topic. The phrase does not name who introduced the question or say that it was answered.
 
 **Choice feedback:**
 
 - **The group agreed on an answer about parking.:** A question coming up means it entered the discussion, not that agreement followed.
-- **The question arose in the discussion.:** Come up can mean arise or become a topic. The phrase does not name who introduced the question or say that it was answered.
-- **The question was sent to a more senior committee.:** Up does not identify a higher level of authority in this expression.
-- **The group withdrew the parking question.:** Withdrawal removes a question from consideration; came up introduces it into the discussion.
+- **The question arose in the discussion.:** 'Come up' can mean arise or become a topic. The phrase does not name who introduced the question or say that it was answered.
+- **The question was sent to a more senior committee.:** 'Up' does not identify a higher level of authority in this expression.
+- **The group withdrew the parking question.:** Withdrawal removes a question from consideration; 'came up' introduces it into the discussion.
 
 **Decision:** replaced.
 
@@ -1944,21 +1944,21 @@ ID: `coverage-phrasal-verbs-b2-2461`
 
 A visitor reports a recurring fault in the booking system. You promise an investigation, not a search for a listed definition.
 
-Use it for the fault. Which reply expresses that promise with correct word order?
+Use 'it' for the fault. Which reply expresses that promise with correct word order?
 
 1. I'll look it into.
 2. I'll look it up.
 3. I'll look into it. **[Correct]**
 4. I'll look out for it.
 
-**Explanation:** Look into means investigate a matter. Its pronoun object follows into: look into it.
+**Explanation:** 'Look into' means investigate a matter. Its pronoun object follows 'into': 'look into it'.
 
 **Choice feedback:**
 
-- **I'll look it into.:** In the investigate sense, look into keeps its object after into. It is not separated like look it up.
-- **I'll look it up.:** Look up means consult a source for information. It does not specifically promise to investigate the reported fault.
-- **I'll look into it.:** Look into means investigate a matter. Its pronoun object follows into: look into it.
-- **I'll look out for it.:** Look out for means watch for something's appearance. That is not the same commitment as investigating the existing report.
+- **I'll look it into.:** In the 'investigate' sense, 'look into' keeps its object after 'into'. It is not separated like 'look it up'.
+- **I'll look it up.:** 'Look up' means consult a source for information. It does not specifically promise to investigate the reported fault.
+- **I'll look into it.:** 'Look into' means investigate a matter. Its pronoun object follows 'into': 'look into it'.
+- **I'll look out for it.:** 'Look out for' means watch for something's appearance. That is not the same commitment as investigating the existing report.
 
 **Decision:** replaced.
 
@@ -2008,21 +2008,21 @@ ID: `coverage-phrasal-verbs-b2-2463`
 
 You want to introduce an issue for discussion at a meeting.
 
-Use it for the issue. Which sentence expresses introducing it with correct word order?
+Use 'it' for the issue. Which sentence expresses introducing it with correct word order?
 
 1. I'd like to bring up it at the meeting.
 2. I'd like to bring it up at the meeting. **[Correct]**
 3. I'd like to bring it about at the meeting.
 4. I'd like to put it off until after the meeting.
 
-**Explanation:** Bring up an issue means introduce it into a discussion. A pronoun object belongs between bring and up: bring it up.
+**Explanation:** 'Bring up an issue' means introduce it into a discussion. A pronoun object belongs between 'bring' and 'up': 'bring it up'.
 
 **Choice feedback:**
 
-- **I'd like to bring up it at the meeting.:** With a pronoun, the object cannot follow up in this sense. Use bring it up.
-- **I'd like to bring it up at the meeting.:** Bring up an issue means introduce it into a discussion. A pronoun object belongs between bring and up: bring it up.
-- **I'd like to bring it about at the meeting.:** Bring about means cause something to happen, not introduce an existing issue for discussion.
-- **I'd like to put it off until after the meeting.:** Put off postpones dealing with it; the task calls for introducing it during the meeting.
+- **I'd like to bring up it at the meeting.:** With a pronoun, the object cannot follow 'up' in this sense. Use 'bring it up'.
+- **I'd like to bring it up at the meeting.:** 'Bring up an issue' means introduce it into a discussion. A pronoun object belongs between 'bring' and 'up': 'bring it up'.
+- **I'd like to bring it about at the meeting.:** 'Bring about' means cause something to happen, not introduce an existing issue for discussion.
+- **I'd like to put it off until after the meeting.:** 'Put off' postpones dealing with it; the task calls for introducing it during the meeting.
 
 **Decision:** replaced.
 
@@ -2072,21 +2072,21 @@ ID: `coverage-phrasal-verbs-b2-2465`
 
 A tenant describes the flat above hers.
 
-'I can put up with footsteps, but not music after midnight.' What does put up with express?
+'I can put up with footsteps, but not music after midnight.' What does 'put up with' express?
 
 1. Taking responsibility for stopping a disturbance.
 2. Arranging for the disturbance to happen later.
 3. Agreeing that the disturbance is beneficial.
 4. Tolerating a disturbance. **[Correct]**
 
-**Explanation:** Put up with means tolerate something unpleasant. The contrast distinguishes what she can endure from what she considers unacceptable.
+**Explanation:** 'Put up with' means tolerate something unpleasant. The contrast distinguishes what she can endure from what she considers unacceptable.
 
 **Choice feedback:**
 
 - **Taking responsibility for stopping a disturbance.:** Tolerance does not mean accepting a duty to eliminate the noise.
-- **Arranging for the disturbance to happen later.:** That would concern postponement. Put up with expresses endurance, not scheduling.
+- **Arranging for the disturbance to happen later.:** That would concern postponement. 'Put up with' expresses endurance, not scheduling.
 - **Agreeing that the disturbance is beneficial.:** People can put up with something they dislike. Tolerance is not a positive evaluation of it.
-- **Tolerating a disturbance.:** Put up with means tolerate something unpleasant. The contrast distinguishes what she can endure from what she considers unacceptable.
+- **Tolerating a disturbance.:** 'Put up with' means tolerate something unpleasant. The contrast distinguishes what she can endure from what she considers unacceptable.
 
 **Decision:** replaced.
 
@@ -2232,21 +2232,21 @@ ID: `coverage-phrasal-verbs-b2-2470`
 
 A coordinator is choosing between two updates about a booking problem.
 
-How does 'We've sorted it out' differ from 'We're looking into it'?
+How does "We've sorted it out" differ from "We're looking into it"?
 
 1. The first reports a physical rearrangement; the second reports reading instructions.
 2. Both report resolution, but the first says the solution took longer.
 3. Both report investigation, but the first identifies who caused the problem.
 4. The first reports resolution; the second reports investigation in progress. **[Correct]**
 
-**Explanation:** Sort out a problem means resolve it. Looking into it describes investigation, which can still leave the outcome open.
+**Explanation:** 'Sort out a problem' means resolve it. 'Looking into it' describes investigation, which can still leave the outcome open.
 
 **Choice feedback:**
 
-- **The first reports a physical rearrangement; the second reports reading instructions.:** With the booking problem as it, sorted out concerns resolution, not sorting objects into groups.
+- **The first reports a physical rearrangement; the second reports reading instructions.:** With the booking problem as 'it', 'sorted out' concerns resolution, not sorting objects into groups.
 - **Both report resolution, but the first says the solution took longer.:** Looking into a problem does not report a solution, and neither expression compares duration.
-- **Both report investigation, but the first identifies who caused the problem.:** Sorted it out goes beyond investigation to resolution; it does not itself identify the person responsible.
-- **The first reports resolution; the second reports investigation in progress.:** Sort out a problem means resolve it. Looking into it describes investigation, which can still leave the outcome open.
+- **Both report investigation, but the first identifies who caused the problem.:** 'Sorted it out' goes beyond investigation to resolution; it does not itself identify the person responsible.
+- **The first reports resolution; the second reports investigation in progress.:** 'Sort out a problem' means resolve it. 'Looking into it' describes investigation, which can still leave the outcome open.
 
 **Decision:** replaced.
 
@@ -2296,18 +2296,18 @@ ID: `coverage-phrasal-verbs-b2-2472`
 
 Read an update about flexible opening hours.
 
-'The staff group has put forward a proposal.' What stage does put forward itself establish?
+'The staff group has put forward a proposal.' What stage does 'put forward' itself establish?
 
 1. The proposal has been offered for consideration. **[Correct]**
 2. The director has adopted the proposed hours.
 3. The centre has begun using the proposed hours.
 4. The proposal has been withdrawn from discussion.
 
-**Explanation:** Put forward means present an idea or proposal for consideration. The expression does not itself report a decision to adopt or implement it.
+**Explanation:** 'Put forward' means present an idea or proposal for consideration. The expression does not itself report a decision to adopt or implement it.
 
 **Choice feedback:**
 
-- **The proposal has been offered for consideration.:** Put forward means present an idea or proposal for consideration. The expression does not itself report a decision to adopt or implement it.
+- **The proposal has been offered for consideration.:** 'Put forward' means present an idea or proposal for consideration. The expression does not itself report a decision to adopt or implement it.
 - **The director has adopted the proposed hours.:** Putting a proposal forward offers it for consideration. It does not establish the director's acceptance.
 - **The centre has begun using the proposed hours.:** Implementation is an additional action, not part of putting forward the proposal.
 - **The proposal has been withdrawn from discussion.:** Withdrawal removes a proposal from consideration; putting it forward presents it for consideration.
@@ -2328,19 +2328,19 @@ ID: `coverage-phrasal-verbs-b2-2473`
 
 Read a breakdown of a theatre's annual spending.
 
-'Building repairs account for forty percent of expenditure.' How is account for used?
+'Building repairs account for forty percent of expenditure.' How is 'account for' used?
 
 1. To explain why the expenditure was incorrectly recorded.
 2. To say what proportion the repairs make up. **[Correct]**
 3. To justify the decision to spend money on repairs.
 4. To predict how much spending will rise next year.
 
-**Explanation:** Account for can mean constitute a stated share of a total. The percentage selects that sense, rather than explain why an event occurred.
+**Explanation:** 'Account for' can mean constitute a stated share of a total. The percentage selects that sense, rather than 'explain why an event occurred'.
 
 **Choice feedback:**
 
 - **To explain why the expenditure was incorrectly recorded.:** The sentence assigns a share of spending; it does not report an accounting error or its cause.
-- **To say what proportion the repairs make up.:** Account for can mean constitute a stated share of a total. The percentage selects that sense, rather than explain why an event occurred.
+- **To say what proportion the repairs make up.:** 'Account for' can mean constitute a stated share of a total. The percentage selects that sense, rather than 'explain why an event occurred'.
 - **To justify the decision to spend money on repairs.:** Stating a proportion does not provide a justification for the spending.
 - **To predict how much spending will rise next year.:** Forty percent is a share of the stated expenditure, not a forecast increase.
 
@@ -2392,21 +2392,21 @@ ID: `coverage-phrasal-verbs-b2-2475`
 
 A language centre explains its lesson-credit policy.
 
-'Unused credits can be carried over into the following month.' What does carried over mean here?
+'Unused credits can be carried over into the following month.' What does 'carried over' mean here?
 
 1. Converted into a cash refund.
 2. Transferred to another student's account.
 3. Kept available for use in the next month. **[Correct]**
 4. Replaced with a fresh allocation unrelated to the unused balance.
 
-**Explanation:** Carry over means transfer or continue something into a later period. The credits remain usable rather than disappearing at the current month's end.
+**Explanation:** 'Carry over' means transfer or continue something into a later period. The credits remain usable rather than disappearing at the current month's end.
 
 **Choice feedback:**
 
 - **Converted into a cash refund.:** Carrying credits over preserves them for later use; it does not itself promise a refund.
 - **Transferred to another student's account.:** The following month is a later period, not another recipient.
-- **Kept available for use in the next month.:** Carry over means transfer or continue something into a later period. The credits remain usable rather than disappearing at the current month's end.
-- **Replaced with a fresh allocation unrelated to the unused balance.:** Carry over keeps the unused credits available; it does not discard and replace that balance.
+- **Kept available for use in the next month.:** 'Carry over' means transfer or continue something into a later period. The credits remain usable rather than disappearing at the current month's end.
+- **Replaced with a fresh allocation unrelated to the unused balance.:** 'Carry over' keeps the unused credits available; it does not discard and replace that balance.
 
 **Decision:** replaced.
 
@@ -2488,21 +2488,21 @@ ID: `coverage-phrasal-verbs-b2-2478`
 
 Read a staff member's reflection on a company merger.
 
-'The team went through a difficult reorganisation.' Which sense of went through fits?
+'The team went through a difficult reorganisation.' Which sense of 'went through' fits?
 
 1. Examined a written proposal for reorganisation.
 2. Formally approved the reorganisation.
 3. Designed the reorganisation for another team.
 4. Experienced the difficult process. **[Correct]**
 
-**Explanation:** Go through an experience or period means undergo it. The phrase does not say the team approved it or benefited from it.
+**Explanation:** 'Go through an experience or period' means undergo it. The phrase does not say the team approved it or benefited from it.
 
 **Choice feedback:**
 
-- **Examined a written proposal for reorganisation.:** Go through can mean examine material, but here the object is the difficult process experienced, not a document.
+- **Examined a written proposal for reorganisation.:** 'Go through' can mean examine material, but here the object is the difficult process experienced, not a document.
 - **Formally approved the reorganisation.:** Approval is not part of the experience sense. A team may go through a process it did not choose.
 - **Designed the reorganisation for another team.:** The team is presented as experiencing the process, not designing it for others.
-- **Experienced the difficult process.:** Go through an experience or period means undergo it. The phrase does not say the team approved it or benefited from it.
+- **Experienced the difficult process.:** 'Go through an experience or period' means undergo it. The phrase does not say the team approved it or benefited from it.
 
 **Decision:** replaced.
 
@@ -2552,19 +2552,19 @@ ID: `coverage-phrasal-verbs-b2-2480`
 
 A team leader sets a boundary for discussion.
 
-'We won't stand for personal insults.' What does won't stand for mean?
+"We won't stand for personal insults." What does "won't stand for" mean?
 
 1. Will not represent the people who were insulted.
 2. Will not tolerate personal insults. **[Correct]**
 3. Will not explain what the insults mean.
 4. Will not discuss whether the insults were accurate.
 
-**Explanation:** Stand for can mean tolerate or accept unpleasant behaviour, especially in negative statements. The leader says such behaviour will not be accepted.
+**Explanation:** 'Stand for' can mean tolerate or accept unpleasant behaviour, especially in negative statements. The leader says such behaviour will not be accepted.
 
 **Choice feedback:**
 
-- **Will not represent the people who were insulted.:** Stand for can mean represent, but personal insults as the object of this boundary selects tolerate.
-- **Will not tolerate personal insults.:** Stand for can mean tolerate or accept unpleasant behaviour, especially in negative statements. The leader says such behaviour will not be accepted.
+- **Will not represent the people who were insulted.:** 'Stand for' can mean represent, but 'personal insults' as the object of this boundary selects 'tolerate'.
+- **Will not tolerate personal insults.:** 'Stand for' can mean tolerate or accept unpleasant behaviour, especially in negative statements. The leader says such behaviour will not be accepted.
 - **Will not explain what the insults mean.:** The leader is refusing to tolerate conduct, not declining to define expressions.
 - **Will not discuss whether the insults were accurate.:** The statement concerns allowing the behaviour, not debating the accuracy of particular remarks.
 
@@ -2812,20 +2812,20 @@ ID: `coverage-phrasal-verbs-c1-2488`
 
 A journal describes a museum reorganisation.
 
-'The collection came under the new department, and the arrangement soon came under criticism.' How does under function in the two expressions?
+'The collection came under the new department, and the arrangement soon came under criticism.' How does 'under' function in the two expressions?
 
 1. Both uses locate something below another object in the building.
 2. The first reports criticism by the department; the second reports a transfer to another department.
 3. The first marks oversight by a department; the second marks being subjected to criticism. **[Correct]**
 4. Both uses mean that the collection was being examined for possible transfer.
 
-**Explanation:** Come under can mean enter someone's authority or become subject to an influence or response. The complement selects oversight in the first clause and criticism in the second.
+**Explanation:** 'Come under' can mean enter someone's authority or become subject to an influence or response. The complement selects oversight in the first clause and criticism in the second.
 
 **Choice feedback:**
 
-- **Both uses locate something below another object in the building.:** The department denotes administrative responsibility, and criticism denotes an adverse response; neither is a physical location.
-- **The first reports criticism by the department; the second reports a transfer to another department.:** This swaps the relations selected by the complements: department supplies authority, while criticism supplies the response.
-- **The first marks oversight by a department; the second marks being subjected to criticism.:** Come under can mean enter someone's authority or become subject to an influence or response. The complement selects oversight in the first clause and criticism in the second.
+- **Both uses locate something below another object in the building.:** The 'department' denotes administrative responsibility, and 'criticism' denotes an adverse response; neither is a physical location.
+- **The first reports criticism by the department; the second reports a transfer to another department.:** This swaps the relations selected by the complements: 'department' supplies authority, while 'criticism' supplies the response.
+- **The first marks oversight by a department; the second marks being subjected to criticism.:** 'Come under' can mean enter someone's authority or become subject to an influence or response. The complement selects oversight in the first clause and criticism in the second.
 - **Both uses mean that the collection was being examined for possible transfer.:** The first states that it came under the department, not merely that a transfer was considered. Criticism does not necessarily involve transfer.
 
 **Decision:** replaced.
@@ -2876,21 +2876,21 @@ ID: `coverage-phrasal-verbs-c1-2490`
 
 A reviewer objects to the conditions attached to an archive request.
 
-'Demanding a separate approval for every page amounts to refusing access.' What kind of claim is the reviewer making with amounts to?
+'Demanding a separate approval for every page amounts to refusing access.' What kind of claim is the reviewer making with 'amounts to'?
 
 1. That the archive has issued an explicit written refusal.
 2. That approval requirements will probably cause a later refusal.
 3. That the requirement is effectively equivalent to a refusal. **[Correct]**
 4. That the number of approvals can be calculated from a refusal.
 
-**Explanation:** Amount to can mean be equivalent in effect or significance. The reviewer treats the conditions as a practical refusal without claiming that the archive has used those words.
+**Explanation:** 'Amount to' can mean be equivalent in effect or significance. The reviewer treats the conditions as a practical refusal without claiming that the archive has used those words.
 
 **Choice feedback:**
 
 - **That the archive has issued an explicit written refusal.:** The reviewer equates practical effects; the phrase does not require a formal refusal document.
-- **That approval requirements will probably cause a later refusal.:** Amounts to classifies the present requirement by its effect, rather than predicting a later event.
-- **That the requirement is effectively equivalent to a refusal.:** Amount to can mean be equivalent in effect or significance. The reviewer treats the conditions as a practical refusal without claiming that the archive has used those words.
-- **That the number of approvals can be calculated from a refusal.:** This is not the numerical-total sense of amount to; refusing access names the practical equivalent.
+- **That approval requirements will probably cause a later refusal.:** 'Amounts to' classifies the present requirement by its effect, rather than predicting a later event.
+- **That the requirement is effectively equivalent to a refusal.:** 'Amount to' can mean be equivalent in effect or significance. The reviewer treats the conditions as a practical refusal without claiming that the archive has used those words.
+- **That the number of approvals can be calculated from a refusal.:** This is not the numerical-total sense of 'amount to'; 'refusing access' names the practical equivalent.
 
 **Decision:** replaced.
 
@@ -3034,7 +3034,7 @@ What must be verified before accepting that change?
 
 ID: `coverage-phrasal-verbs-c1-2495`
 
-An editor inserts for into a sentence about negotiations.
+An editor inserts 'for' into a sentence about negotiations.
 
 'The negotiators held out an improved deal' becomes 'The negotiators held out for an improved deal.' What changes?
 
@@ -3043,14 +3043,14 @@ An editor inserts for into a sentence about negotiations.
 3. They change from withdrawing an offer to renewing the same offer.
 4. They change from offering a deal to persisting in pursuit of one. **[Correct]**
 
-**Explanation:** Hold out a deal means offer or present it. Hold out for a deal means continue seeking acceptable terms rather than settle for what is available; for changes the negotiators' role from offering to seeking.
+**Explanation:** 'Hold out a deal' means offer or present it. 'Hold out for a deal' means continue seeking acceptable terms rather than settle for what is available; 'for' changes the negotiators' role from offering to seeking.
 
 **Choice feedback:**
 
 - **They change from guaranteeing acceptance to predicting acceptance.:** Neither phrase guarantees or predicts the other side's acceptance. The edit changes what the negotiators are doing.
 - **They change from agreeing immediate terms to agreeing terms after a fixed delay.:** Neither construction establishes agreement or a fixed delay. Holding out for something describes persistence in seeking it.
-- **They change from withdrawing an offer to renewing the same offer.:** Hold out a deal presents it rather than withdraws it; hold out for does not mean renew an offer.
-- **They change from offering a deal to persisting in pursuit of one.:** Hold out a deal means offer or present it. Hold out for a deal means continue seeking acceptable terms rather than settle for what is available; for changes the negotiators' role from offering to seeking.
+- **They change from withdrawing an offer to renewing the same offer.:** 'Hold out a deal' presents it rather than withdraws it; 'hold out for' does not mean renew an offer.
+- **They change from offering a deal to persisting in pursuit of one.:** 'Hold out a deal' means offer or present it. 'Hold out for a deal' means continue seeking acceptable terms rather than settle for what is available; 'for' changes the negotiators' role from offering to seeking.
 
 **Decision:** replaced.
 
@@ -3132,21 +3132,21 @@ ID: `coverage-phrasal-verbs-c1-2498`
 
 Read the conclusion of a discussion about lending a fragile object.
 
-'In the end, the decision comes down to whether it can travel safely.' What role does the whether-clause have?
+'In the end, the decision comes down to whether it can travel safely.' What role does the 'whether'-clause have?
 
 1. It describes a consequence expected after the decision has been made.
 2. It identifies the question on which the decision ultimately depends. **[Correct]**
 3. It names a minor detail left over after the important questions were settled.
 4. It states that safe travel has already been demonstrated.
 
-**Explanation:** Come down to means reduce ultimately to a key factor or question. The whether-clause identifies that question without answering it.
+**Explanation:** 'Come down to' means reduce ultimately to a key factor or question. The 'whether'-clause identifies that question without answering it.
 
 **Choice feedback:**
 
 - **It describes a consequence expected after the decision has been made.:** The clause gives the deciding issue, not a later consequence of the decision.
-- **It identifies the question on which the decision ultimately depends.:** Come down to means reduce ultimately to a key factor or question. The whether-clause identifies that question without answering it.
-- **It names a minor detail left over after the important questions were settled.:** Come down to presents this as the central determining issue, not a minor remainder.
-- **It states that safe travel has already been demonstrated.:** Whether leaves the answer open; it does not assert that the condition is satisfied.
+- **It identifies the question on which the decision ultimately depends.:** 'Come down to' means reduce ultimately to a key factor or question. The 'whether'-clause identifies that question without answering it.
+- **It names a minor detail left over after the important questions were settled.:** 'Come down to' presents this as the central determining issue, not a minor remainder.
+- **It states that safe travel has already been demonstrated.:** 'Whether' leaves the answer open; it does not assert that the condition is satisfied.
 
 **Decision:** replaced.
 
@@ -3392,21 +3392,21 @@ ID: `coverage-phrasal-verbs-c2-2506`
 
 A translator says, 'I promise to try to finish by Friday.' The client replies, 'I'll hold you to that.'
 
-Reading that as exactly the commitment offered, what can the client hold the translator to?
+Reading 'that' as exactly the commitment offered, what can the client hold the translator to?
 
 1. Delivering the finished translation by Friday regardless of circumstances.
 2. Giving an explanation on Friday instead of attempting the work.
 3. Accepting a deadline the client is free to move earlier.
 4. Making the promised attempt to finish by Friday. **[Correct]**
 
-**Explanation:** Hold someone to a commitment means require them to keep it. The translator promised an attempt, so the phrase does not turn that into a guarantee of a completed translation by Friday.
+**Explanation:** 'Hold someone to a commitment' means require them to keep it. The translator promised an attempt, so the phrase does not turn that into a guarantee of a completed translation by Friday.
 
 **Choice feedback:**
 
-- **Delivering the finished translation by Friday regardless of circumstances.:** This removes try from the promise and makes the commitment stronger than the translator stated.
+- **Delivering the finished translation by Friday regardless of circumstances.:** This removes 'try' from the promise and makes the commitment stronger than the translator stated.
 - **Giving an explanation on Friday instead of attempting the work.:** An explanation is not the promised action. The promise concerns trying to meet the deadline.
-- **Accepting a deadline the client is free to move earlier.:** Hold to preserves the stated commitment; it does not grant the client authority to replace it with an earlier one.
-- **Making the promised attempt to finish by Friday.:** Hold someone to a commitment means require them to keep it. The translator promised an attempt, so the phrase does not turn that into a guarantee of a completed translation by Friday.
+- **Accepting a deadline the client is free to move earlier.:** 'Hold to' preserves the stated commitment; it does not grant the client authority to replace it with an earlier one.
+- **Making the promised attempt to finish by Friday.:** 'Hold someone to a commitment' means require them to keep it. The translator promised an attempt, so the phrase does not turn that into a guarantee of a completed translation by Friday.
 
 **Decision:** replaced.
 
@@ -3486,7 +3486,7 @@ Which interpretation accounts for the apparent tension?
 
 ID: `coverage-phrasal-verbs-c2-2509`
 
-An editor adds with to a sentence about a workshop's printed instructions.
+An editor adds 'with' to a sentence about a workshop's printed instructions.
 
 'The organisers dispensed printed instructions' becomes 'The organisers dispensed with printed instructions.' What is the consequence?
 
@@ -3495,13 +3495,13 @@ An editor adds with to a sentence about a workshop's printed instructions.
 3. The instructions change from compulsory reading to optional reading, but are still supplied.
 4. The organisers change who distributes the instructions while keeping the same procedure.
 
-**Explanation:** Dispense something means supply or distribute it. Dispense with something means do without it or remove it as a requirement; adding with reverses its role in the organisers' procedure.
+**Explanation:** 'Dispense something' means supply or distribute it. 'Dispense with something' means do without it or remove it as a requirement; adding 'with' reverses its role in the organisers' procedure.
 
 **Choice feedback:**
 
-- **The organisers distribute the instructions more widely than before.:** With does not intensify distribution. It creates the different expression dispense with.
-- **Distribution of the instructions becomes proceeding without them.:** Dispense something means supply or distribute it. Dispense with something means do without it or remove it as a requirement; adding with reverses its role in the organisers' procedure.
-- **The instructions change from compulsory reading to optional reading, but are still supplied.:** Dispensed with does not itself preserve supply while merely changing how recipients should read them.
+- **The organisers distribute the instructions more widely than before.:** 'With' does not intensify distribution. It creates the different expression 'dispense with'.
+- **Distribution of the instructions becomes proceeding without them.:** 'Dispense something' means supply or distribute it. 'Dispense with something' means do without it or remove it as a requirement; adding 'with' reverses its role in the organisers' procedure.
+- **The instructions change from compulsory reading to optional reading, but are still supplied.:** 'Dispensed with' does not itself preserve supply while merely changing how recipients should read them.
 - **The organisers change who distributes the instructions while keeping the same procedure.:** The organisers remain the subject. The edit changes the action, not its agent.
 
 **Decision:** replaced.
@@ -3520,21 +3520,21 @@ ID: `coverage-phrasal-verbs-c2-2510`
 
 A passenger describes the railway company's response to a complaint.
 
-'We were fobbed off with a promise of a later review.' What criticism is conveyed by fobbed off with?
+'We were fobbed off with a promise of a later review.' What criticism is conveyed by 'fobbed off with'?
 
 1. An unsatisfactory response was used to put the complainants off. **[Correct]**
 2. The company transferred the complaint to a more competent investigator.
 3. The passenger has proof that the company knowingly made an impossible promise.
 4. The company obtained the passengers' informed agreement that the problem was resolved.
 
-**Explanation:** Fob someone off with something means use an inadequate answer or substitute to satisfy or deflect them. The phrase criticises how the promise functions; it does not by itself prove that no review will ever occur.
+**Explanation:** 'Fob someone off with something' means use an inadequate answer or substitute to satisfy or deflect them. The phrase criticises how the promise functions; it does not by itself prove that no review will ever occur.
 
 **Choice feedback:**
 
-- **An unsatisfactory response was used to put the complainants off.:** Fob someone off with something means use an inadequate answer or substitute to satisfy or deflect them. The phrase criticises how the promise functions; it does not by itself prove that no review will ever occur.
+- **An unsatisfactory response was used to put the complainants off.:** 'Fob someone off with something' means use an inadequate answer or substitute to satisfy or deflect them. The phrase criticises how the promise functions; it does not by itself prove that no review will ever occur.
 - **The company transferred the complaint to a more competent investigator.:** A transfer of responsibility is not part of this expression. The passenger criticises the adequacy of the response given.
 - **The passenger has proof that the company knowingly made an impossible promise.:** A false promise could be used this way, but proof of impossibility and knowledge goes beyond the expression.
-- **The company obtained the passengers' informed agreement that the problem was resolved.:** Fobbed off is a negative assessment of inadequate treatment, not an account of an informed, satisfactory resolution.
+- **The company obtained the passengers' informed agreement that the problem was resolved.:** 'Fobbed off' is a negative assessment of inadequate treatment, not an account of an informed, satisfactory resolution.
 
 **Decision:** replaced.
 
@@ -3680,21 +3680,21 @@ ID: `coverage-phrasal-verbs-c2-2515`
 
 Read an employee's account of a promotion round.
 
-'I was passed over for team leader in favour of a less experienced colleague.' What does passed over establish?
+'I was passed over for team leader in favour of a less experienced colleague.' What does 'passed over' establish?
 
 1. The employee was never considered as a candidate.
 2. The employee was selected but declined the appointment.
 3. The employee's appointment was confirmed but postponed.
 4. Someone else was selected rather than this employee. **[Correct]**
 
-**Explanation:** Pass someone over for a position means not choose them, typically choosing someone else. The expression can convey disappointment without proving that the employee was never considered or that the choice was unjustified.
+**Explanation:** 'Pass someone over for a position' means not choose them, typically choosing someone else. The expression can convey disappointment without proving that the employee was never considered or that the choice was unjustified.
 
 **Choice feedback:**
 
-- **The employee was never considered as a candidate.:** Passed over can describe not being chosen even after consideration; it does not establish exclusion from the candidate pool.
+- **The employee was never considered as a candidate.:** 'Passed over' can describe not being chosen even after consideration; it does not establish exclusion from the candidate pool.
 - **The employee was selected but declined the appointment.:** That would be a refusal after selection, not being passed over in favour of another candidate.
-- **The employee's appointment was confirmed but postponed.:** A postponed appointment still selects the employee. In favour of a colleague instead identifies another successful candidate.
-- **Someone else was selected rather than this employee.:** Pass someone over for a position means not choose them, typically choosing someone else. The expression can convey disappointment without proving that the employee was never considered or that the choice was unjustified.
+- **The employee's appointment was confirmed but postponed.:** A postponed appointment still selects the employee. 'In favour of a colleague' instead identifies another successful candidate.
+- **Someone else was selected rather than this employee.:** 'Pass someone over for a position' means not choose them, typically choosing someone else. The expression can convey disappointment without proving that the employee was never considered or that the choice was unjustified.
 
 **Decision:** replaced.
 
@@ -3776,18 +3776,18 @@ ID: `coverage-phrasal-verbs-c2-2518`
 
 An analyst describes the framework onto which local job titles were mapped.
 
-What relationship does mapped onto establish between the titles and the framework?
+What relationship does 'mapped onto' establish between the titles and the framework?
 
 1. The local titles were associated with positions or categories in the framework. **[Correct]**
 2. The local titles were replaced in actual employment contracts by identical national titles.
 3. The framework was created by merging all the local titles into one new title.
 4. Every framework category was proved equivalent to exactly one local title.
 
-**Explanation:** Map something onto a framework means establish correspondences that represent it there. It does not guarantee identical wording, identical structure, or a one-to-one relationship.
+**Explanation:** 'Map something onto a framework' means establish correspondences that represent it there. It does not guarantee identical wording, identical structure, or a one-to-one relationship.
 
 **Choice feedback:**
 
-- **The local titles were associated with positions or categories in the framework.:** Map something onto a framework means establish correspondences that represent it there. It does not guarantee identical wording, identical structure, or a one-to-one relationship.
+- **The local titles were associated with positions or categories in the framework.:** 'Map something onto a framework' means establish correspondences that represent it there. It does not guarantee identical wording, identical structure, or a one-to-one relationship.
 - **The local titles were replaced in actual employment contracts by identical national titles.:** Mapping establishes a representation or correspondence; it does not itself change employees' contracts or titles.
 - **The framework was created by merging all the local titles into one new title.:** The framework is the target of the mapping, not necessarily a new product formed by merging the titles.
 - **Every framework category was proved equivalent to exactly one local title.:** A mapping does not by itself guarantee a complete one-to-one equivalence between the systems.

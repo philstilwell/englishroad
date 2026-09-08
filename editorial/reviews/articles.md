@@ -1906,7 +1906,7 @@ The librarian found ___ of the debate, so I could compare different accounts.
 
 ID: `coverage-articles-b1-420`
 
-Two musicians are looking for somewhere to practise. Choose the distinction between the two uses of space.
+Two musicians are looking for somewhere to practise. Choose the distinction between the two uses of 'space'.
 
 'There's space for the drum kit downstairs, and a rehearsal space upstairs.'
 
@@ -1915,13 +1915,13 @@ Two musicians are looking for somewhere to practise. Choose the distinction betw
 3. Both count individual rooms, with the article omitted from the first because it is downstairs.
 4. The first concerns available room; the second introduces one area used for rehearsing. **[Correct]**
 
-**Explanation:** Bare space describes room available for the drum kit without counting a separate area. A rehearsal space counts one area with a particular use. The same noun can therefore be uncountable or countable with different meanings.
+**Explanation:** Bare 'space' describes room available for the drum kit without counting a separate area. 'A rehearsal space' counts one area with a particular use. The same noun can therefore be uncountable or countable with different meanings.
 
 **Choice feedback:**
 
 - **The first identifies a booked room; the second names the spare room inside that same booking.:** No booking is mentioned. The two locations are different, and the first use describes capacity rather than identifying a reservation.
 - **The first counts one rehearsal session; the second counts the musicians who can attend it.:** Neither use counts sessions or people. The contrast is between available room and one physical area.
-- **Both count individual rooms, with the article omitted from the first because it is downstairs.:** Downstairs does not determine article use. The first space is uncountable capacity, not a counted room with a missing article.
+- **Both count individual rooms, with the article omitted from the first because it is downstairs.:** 'Downstairs' does not determine article use. The first 'space' is uncountable capacity, not a counted room with a missing article.
 - **The first concerns available room; the second introduces one area used for rehearsing.:** The drum-kit phrase concerns capacity, while the indefinite noun phrase introduces a rehearsal area.
 
 **Decision:** replaced.
@@ -2618,7 +2618,7 @@ Choose the interpretation of the two noun phrases.
 
 ID: `coverage-articles-c1-442`
 
-Compare the two expressions formed with the plus an adjective.
+Compare the two expressions formed with 'the' plus an adjective.
 
 A report says, 'The wealthy were protected from the worst of the losses.' How do the two definite expressions differ?
 
@@ -2627,14 +2627,14 @@ A report says, 'The wealthy were protected from the worst of the losses.' How do
 3. The first denotes wealthy people collectively; the second selects the most severe part of the losses. **[Correct]**
 4. Both expressions denote abstract conditions, one favourable and the other unfavourable.
 
-**Explanation:** The plus an adjective can denote a human group or an abstract extreme. Wealthy gives the collective people reading; worst is interpreted through the following of the losses phrase.
+**Explanation:** 'The' plus an adjective can denote a human group or an abstract extreme. 'Wealthy' gives the collective people reading; 'worst' is interpreted through the following 'of the losses' phrase.
 
 **Choice feedback:**
 
-- **Both expressions denote groups of people, distinguished by their financial circumstances.:** The wealthy denotes people, but the worst of the losses selects the most severe part of the losses, not a second human group.
-- **The first denotes wealth as a resource; the second identifies the people who lost most of it.:** Wealthy describes people possessing wealth, not the resource itself. The losses phrase makes worst refer to losses rather than their sufferers.
-- **The first denotes wealthy people collectively; the second selects the most severe part of the losses.:** The plus an adjective can denote a human group or an abstract extreme. Wealthy gives the collective people reading; worst is interpreted through the following of the losses phrase.
-- **Both expressions denote abstract conditions, one favourable and the other unfavourable.:** The wealthy has plural human reference, reflected in were. Only the second phrase selects an abstract extent of something in this sentence.
+- **Both expressions denote groups of people, distinguished by their financial circumstances.:** 'The wealthy' denotes people, but 'the worst of the losses' selects the most severe part of the losses, not a second human group.
+- **The first denotes wealth as a resource; the second identifies the people who lost most of it.:** 'Wealthy' describes people possessing wealth, not the resource itself. The losses phrase makes 'worst' refer to losses rather than their sufferers.
+- **The first denotes wealthy people collectively; the second selects the most severe part of the losses.:** 'The' plus an adjective can denote a human group or an abstract extreme. 'Wealthy' gives the collective people reading; 'worst' is interpreted through the following 'of the losses' phrase.
+- **Both expressions denote abstract conditions, one favourable and the other unfavourable.:** 'The wealthy' has plural human reference, reflected in 'were'. Only the second phrase selects an abstract extent of something in this sentence.
 
 **Decision:** replaced.
 
@@ -3776,21 +3776,21 @@ ID: `coverage-articles-c2-478`
 
 A copy editor has a headline but not the accompanying report.
 
-The headline reads 'Court dismisses claim'. Can the missing article before court be reconstructed as a or the from these words alone?
+The headline reads 'Court dismisses claim'. Can the missing article before 'court' be reconstructed as 'a' or 'the' from these words alone?
 
 1. No: headline compression can omit either article; the report must establish how the court is being introduced or identified. **[Correct]**
 2. Yes: the completed event requires the because its participants are now definite.
 3. Yes: bare court names the judicial system, so adding either article would change the subject.
 4. No article is missing: capitalisation makes Court a proper name that should remain bare in full prose.
 
-**Explanation:** Headlines commonly omit articles. Bare court here therefore does not settle whether full prose would introduce a court with a or identify the relevant court with the.
+**Explanation:** Headlines commonly omit articles. Bare 'court' here therefore does not settle whether full prose would introduce a court with 'a' or identify the relevant court with 'the'.
 
 **Choice feedback:**
 
-- **No: headline compression can omit either article; the report must establish how the court is being introduced or identified.:** Headlines commonly omit articles. Bare court here therefore does not settle whether full prose would introduce a court with a or identify the relevant court with the.
-- **Yes: the completed event requires the because its participants are now definite.:** Completion of an event does not determine article choice. A past event can introduce a participant with a or refer to an identifiable participant with the.
-- **Yes: bare court names the judicial system, so adding either article would change the subject.:** The headline can report a decision by an individual court. Article omission in a headline is not the same as the conventional bare institutional expression in go to court.
-- **No article is missing: capitalisation makes Court a proper name that should remain bare in full prose.:** The capital occurs at the start of the headline. It does not establish Court as a proper name or license ordinary prose such as Court dismissed a claim.
+- **No: headline compression can omit either article; the report must establish how the court is being introduced or identified.:** Headlines commonly omit articles. Bare 'court' here therefore does not settle whether full prose would introduce a court with 'a' or identify the relevant court with 'the'.
+- **Yes: the completed event requires the because its participants are now definite.:** Completion of an event does not determine article choice. A past event can introduce a participant with 'a' or refer to an identifiable participant with 'the'.
+- **Yes: bare court names the judicial system, so adding either article would change the subject.:** The headline can report a decision by an individual court. Article omission in a headline is not the same as the conventional bare institutional expression in 'go to court'.
+- **No article is missing: capitalisation makes Court a proper name that should remain bare in full prose.:** The capital occurs at the start of the headline. It does not establish 'Court' as a proper name or license ordinary prose such as 'Court dismissed a claim'.
 
 **Decision:** replaced.
 

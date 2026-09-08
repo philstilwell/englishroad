@@ -12,21 +12,21 @@ ID: `coverage-collocations-a1-601`
 
 We have walked for an hour. Our feet are tired.
 
-Choose the usual phrase for stopping briefly to rest: Let's ___ a break.
+Choose the usual phrase for stopping briefly to rest: "Let's ___ a break."
 
 1. catch
 2. make
 3. take **[Correct]**
 4. do
 
-**Explanation:** Take a break means stop an activity for a short rest.
+**Explanation:** 'Take a break' means stop an activity for a short rest.
 
 **Choice feedback:**
 
-- **catch:** Catch a break usually means have some good luck, not pause for a rest.
-- **make:** Make a break often concerns escaping; it is not the rest phrase intended here.
-- **take:** Take a break means stop an activity for a short rest.
-- **do:** Use take, not do, with a break when you mean a rest.
+- **catch:** 'Catch a break' usually means have some good luck, not pause for a rest.
+- **make:** 'Make a break' often concerns escaping; it is not the rest phrase intended here.
+- **take:** 'Take a break' means stop an activity for a short rest.
+- **do:** Use 'take', not 'do', with 'a break' when you mean a rest.
 
 **Decision:** replaced.
 
@@ -44,19 +44,19 @@ ID: `coverage-collocations-a1-602`
 
 We have flour, eggs and butter ready for baking.
 
-Which phrase means prepare the cake from these ingredients?
+Which phrase means 'prepare the cake from these ingredients'?
 
 1. cut a cake
 2. make a cake **[Correct]**
 3. serve a cake
 4. decorate a cake
 
-**Explanation:** Make a cake describes preparing it, including mixing and baking.
+**Explanation:** 'Make a cake' describes preparing it, including mixing and baking.
 
 **Choice feedback:**
 
 - **cut a cake:** Cutting divides a cake that already exists.
-- **make a cake:** Make a cake describes preparing it, including mixing and baking.
+- **make a cake:** 'Make a cake' describes preparing it, including mixing and baking.
 - **serve a cake:** Serving gives the finished cake to people to eat.
 - **decorate a cake:** Decorating adds a design to a cake rather than making it from ingredients.
 
@@ -108,18 +108,18 @@ ID: `coverage-collocations-a1-604`
 
 Nadia is a passenger running toward the stop before her bus leaves.
 
-Which phrase means get on the bus in time?
+Which phrase means 'get on the bus in time'?
 
 1. catch the bus **[Correct]**
 2. miss the bus
 3. drive the bus
 4. leave the bus
 
-**Explanation:** Catch the bus means get on it, especially in time for its departure.
+**Explanation:** 'Catch the bus' means get on it, especially in time for its departure.
 
 **Choice feedback:**
 
-- **catch the bus:** Catch the bus means get on it, especially in time for its departure.
+- **catch the bus:** 'Catch the bus' means get on it, especially in time for its departure.
 - **miss the bus:** Missing the bus means failing to get on it in time.
 - **drive the bus:** The driver operates the bus; Nadia is a passenger.
 - **leave the bus:** Leaving the bus means getting off, not boarding it.
@@ -140,21 +140,21 @@ ID: `coverage-collocations-a1-605`
 
 My evening English course includes exercises to complete at home.
 
-Choose the usual phrase for completing the exercises: I need to ___ my homework.
+Choose the usual phrase for completing the exercises: 'I need to ___ my homework.'
 
 1. do **[Correct]**
 2. make
 3. sit
 4. pass
 
-**Explanation:** Do homework is the ordinary partnership for completing assigned study exercises.
+**Explanation:** 'Do homework' is the ordinary partnership for completing assigned study exercises.
 
 **Choice feedback:**
 
-- **do:** Do homework is the ordinary partnership for completing assigned study exercises.
-- **make:** English normally pairs do with homework; make pairs with things such as a plan.
-- **sit:** You can sit an exam in British English, but not sit your homework.
-- **pass:** Pass an exam means succeed in it; homework is work you do.
+- **do:** 'Do homework' is the ordinary partnership for completing assigned study exercises.
+- **make:** English normally pairs 'do' with 'homework'; 'make' pairs with things such as 'a plan'.
+- **sit:** You can sit an exam in British English, but not 'sit your homework'.
+- **pass:** 'Pass an exam' means succeed in it; homework is work you do.
 
 **Decision:** replaced.
 
@@ -172,21 +172,21 @@ ID: `coverage-collocations-a1-606`
 
 I'm thirsty. Could I have some water?
 
-Choose the usual container phrase: a ___ of water.
+Choose the usual container phrase: 'a ___ of water'.
 
 1. slice
 2. pair
 3. glass **[Correct]**
 4. sheet
 
-**Explanation:** A glass of water is a common phrase for water served in a drinking glass.
+**Explanation:** 'A glass of water' is a common phrase for water served in a drinking glass.
 
 **Choice feedback:**
 
-- **slice:** Slice goes with something cut, such as bread, not a serving of liquid.
-- **pair:** Pair means two matching items, not a container of water.
-- **glass:** A glass of water is a common phrase for water served in a drinking glass.
-- **sheet:** Sheet goes with flat material such as paper, not drinking water.
+- **slice:** 'Slice' goes with something cut, such as bread, not a serving of liquid.
+- **pair:** 'Pair' means two matching items, not a container of water.
+- **glass:** 'A glass of water' is a common phrase for water served in a drinking glass.
+- **sheet:** 'Sheet' goes with flat material such as paper, not drinking water.
 
 **Decision:** replaced.
 
@@ -236,21 +236,21 @@ ID: `coverage-collocations-a1-608`
 
 The workshop requires shoes on your feet, not in your bag.
 
-Complete the instruction with that meaning: You must ___ shoes inside.
+Complete the instruction with that meaning: 'You must ___ shoes inside.'
 
 1. carry
 2. pack
 3. remove
 4. wear **[Correct]**
 
-**Explanation:** Wear shoes means have them on your feet.
+**Explanation:** 'Wear shoes' means have them on your feet.
 
 **Choice feedback:**
 
 - **carry:** Carrying shoes transports them but does not put them on your feet.
 - **pack:** Packing puts the shoes into a bag or container.
 - **remove:** Removing shoes takes them off, opposite to the instruction.
-- **wear:** Wear shoes means have them on your feet.
+- **wear:** 'Wear shoes' means have them on your feet.
 
 **Decision:** replaced.
 
@@ -300,20 +300,20 @@ ID: `coverage-collocations-a1-610`
 
 Cold air is coming through the open window.
 
-Choose the phrase meaning shut the window: Please ___ the window.
+Choose the phrase meaning 'shut the window': 'Please ___ the window.'
 
 1. finish
 2. clean
 3. close **[Correct]**
 4. replace
 
-**Explanation:** Close the window means move it into its shut position.
+**Explanation:** 'Close the window' means move it into its shut position.
 
 **Choice feedback:**
 
-- **finish:** Finish can concern completing work on a window, not simply shutting it.
+- **finish:** 'Finish' can concern completing work on a window, not simply shutting it.
 - **clean:** Cleaning removes dirt; it does not mean shutting the opening.
-- **close:** Close the window means move it into its shut position.
+- **close:** 'Close the window' means move it into its shut position.
 - **replace:** Replacing puts in a different window, rather than closing this one.
 
 **Decision:** replaced.
@@ -364,21 +364,21 @@ ID: `coverage-collocations-a1-612`
 
 My partner cannot see the message and wants to hear its words.
 
-Choose the phrase meaning read it so someone can hear: read it ___.
+Choose the phrase meaning 'read it so someone can hear': 'read it ___'.
 
 1. silently
 2. aloud **[Correct]**
 3. alone
 4. again
 
-**Explanation:** Read aloud means say the written words so they can be heard.
+**Explanation:** 'Read aloud' means say the written words so they can be heard.
 
 **Choice feedback:**
 
 - **silently:** Reading silently does not let another person hear the words.
-- **aloud:** Read aloud means say the written words so they can be heard.
+- **aloud:** 'Read aloud' means say the written words so they can be heard.
 - **alone:** Reading alone describes who is present, not whether you speak.
-- **again:** Again means one more time; it does not specify reading with your voice.
+- **again:** 'Again' means one more time; it does not specify reading with your voice.
 
 **Decision:** replaced.
 
@@ -492,20 +492,20 @@ ID: `coverage-collocations-a1-616`
 
 The teacher asks, 'Where do you live?' It is my turn to reply.
 
-Choose the phrase for giving my reply: ___ the question.
+Choose the phrase for giving my reply: '___ the question'.
 
 1. ask
 2. repeat
 3. answer **[Correct]**
 4. write
 
-**Explanation:** Answer a question means give a reply to it.
+**Explanation:** 'Answer a question' means give a reply to it.
 
 **Choice feedback:**
 
 - **ask:** Asking seeks information; the teacher has already done that.
 - **repeat:** Repeating says the question again rather than replies to it.
-- **answer:** Answer a question means give a reply to it.
+- **answer:** 'Answer a question' means give a reply to it.
 - **write:** Writing records words; it does not by itself provide a reply.
 
 **Decision:** replaced.
@@ -556,21 +556,21 @@ ID: `coverage-collocations-a1-618`
 
 The sheets are untidy after I get up.
 
-Choose the usual phrase for arranging the bed neatly: ___ the bed.
+Choose the usual phrase for arranging the bed neatly: '___ the bed'.
 
 1. build
 2. take
 3. fold
 4. make **[Correct]**
 
-**Explanation:** Make the bed means arrange its sheets and covers neatly.
+**Explanation:** 'Make the bed' means arrange its sheets and covers neatly.
 
 **Choice feedback:**
 
 - **build:** Building a bed makes the furniture itself, not the bedding tidy.
 - **take:** Taking a bed suggests moving or choosing it, not arranging its covers.
 - **fold:** Folding puts a collapsible bed into a smaller form; it does not simply arrange the sheets.
-- **make:** Make the bed means arrange its sheets and covers neatly.
+- **make:** 'Make the bed' means arrange its sheets and covers neatly.
 
 **Decision:** replaced.
 
@@ -620,21 +620,21 @@ ID: `coverage-collocations-a1-620`
 
 I am going to wash myself under running water after my walk.
 
-Choose the usual phrase for that activity: ___ a shower.
+Choose the usual phrase for that activity: '___ a shower'.
 
 1. make
 2. take **[Correct]**
 3. put
 4. do
 
-**Explanation:** Take a shower is a common phrase for washing yourself in a shower.
+**Explanation:** 'Take a shower' is a common phrase for washing yourself in a shower.
 
 **Choice feedback:**
 
 - **make:** Making a shower could concern constructing one; it is not the washing activity here.
-- **take:** Take a shower is a common phrase for washing yourself in a shower.
-- **put:** Put needs a location and does not name the act of showering.
-- **do:** Use take or have for this washing activity, not do a shower in neutral everyday English.
+- **take:** 'Take a shower' is a common phrase for washing yourself in a shower.
+- **put:** 'Put' needs a location and does not name the act of showering.
+- **do:** Use 'take' or 'have' for this washing activity, not 'do a shower' in neutral everyday English.
 
 **Decision:** replaced.
 
@@ -720,21 +720,21 @@ ID: `coverage-collocations-a2-623`
 
 I do not know which platform I need. I want to speak to the station assistant.
 
-Choose the phrase for seeking that information: ___ a question.
+Choose the phrase for seeking that information: '___ a question'.
 
 1. answer
 2. repeat
 3. avoid
 4. ask **[Correct]**
 
-**Explanation:** Ask a question is the usual partnership for seeking information.
+**Explanation:** 'Ask a question' is the usual partnership for seeking information.
 
 **Choice feedback:**
 
 - **answer:** Answering supplies information instead of asks for it.
 - **repeat:** Repeating says a question again; no earlier question is specified.
 - **avoid:** Avoiding a question does not seek the information needed.
-- **ask:** Ask a question is the usual partnership for seeking information.
+- **ask:** 'Ask a question' is the usual partnership for seeking information.
 
 **Decision:** replaced.
 
@@ -752,20 +752,20 @@ ID: `coverage-collocations-a2-624`
 
 The message is written and checked, but it is still in my drafts folder.
 
-Choose the phrase for getting the message to the other person: ___ the email.
+Choose the phrase for getting the message to the other person: '___ the email'.
 
 1. draft
 2. delete
 3. send **[Correct]**
 4. read
 
-**Explanation:** Send an email means transmit it to its recipient.
+**Explanation:** 'Send an email' means transmit it to its recipient.
 
 **Choice feedback:**
 
 - **draft:** Drafting writes a version; this email is already written.
 - **delete:** Deleting removes the message rather than delivers it.
-- **send:** Send an email means transmit it to its recipient.
+- **send:** 'Send an email' means transmit it to its recipient.
 - **read:** Reading examines the words without transmitting them.
 
 **Decision:** replaced.
@@ -816,21 +816,21 @@ ID: `coverage-collocations-a2-626`
 
 The cashier tells me I may need proof of this purchase later.
 
-Choose the phrase meaning save the receipt because you may need it later: ___ the receipt.
+Choose the phrase meaning 'save the receipt because you may need it later': '___ the receipt'.
 
 1. issue
 2. shred
 3. return
 4. keep **[Correct]**
 
-**Explanation:** Keep a receipt means retain it so it is available later.
+**Explanation:** 'Keep a receipt' means retain it so it is available later.
 
 **Choice feedback:**
 
 - **issue:** Issuing gives the receipt to a customer; it is the cashier's action.
 - **shred:** Shredding destroys the receipt, leaving no usable record.
 - **return:** Returning gives it back instead of retaining it yourself.
-- **keep:** Keep a receipt means retain it so it is available later.
+- **keep:** 'Keep a receipt' means retain it so it is available later.
 
 **Decision:** replaced.
 
@@ -848,21 +848,21 @@ ID: `coverage-collocations-a2-627`
 
 Sofia reached the platform just after her train had left.
 
-Choose the phrase for failing to board before departure: She ___ the train.
+Choose the phrase for failing to board before departure: 'She ___ the train.'
 
 1. lost
 2. left
 3. missed **[Correct]**
 4. caught
 
-**Explanation:** Miss a train means fail to catch the train you intended to take.
+**Explanation:** 'Miss a train' means fail to catch the train you intended to take.
 
 **Choice feedback:**
 
-- **lost:** Lose usually concerns no longer having or finding something; use miss for this departure.
-- **left:** Leave the train normally means get off it, not arrive too late to board.
-- **missed:** Miss a train means fail to catch the train you intended to take.
-- **caught:** Catch the train means board it in time, which Sofia did not do.
+- **lost:** 'Lose' usually concerns no longer having or finding something; use 'miss' for this departure.
+- **left:** 'Leave the train' normally means get off it, not arrive too late to board.
+- **missed:** 'Miss a train' means fail to catch the train you intended to take.
+- **caught:** 'Catch the train' means board it in time, which Sofia did not do.
 
 **Decision:** replaced.
 
@@ -1008,21 +1008,21 @@ ID: `coverage-collocations-a2-632`
 
 The new route gets me home fifteen minutes sooner.
 
-Choose the usual phrase meaning use less time: This route ___ time.
+Choose the usual phrase meaning 'use less time': 'This route ___ time.'
 
 1. wastes
 2. saves **[Correct]**
 3. spends
 4. takes
 
-**Explanation:** Save time means reduce the amount of time needed for something.
+**Explanation:** 'Save time' means reduce the amount of time needed for something.
 
 **Choice feedback:**
 
 - **wastes:** Wasting time uses it without useful benefit, not reduces the journey.
-- **saves:** Save time means reduce the amount of time needed for something.
+- **saves:** 'Save time' means reduce the amount of time needed for something.
 - **spends:** People spend time; the route is being described as reducing the time needed.
-- **takes:** Take time describes using time but does not express the reduction asked for.
+- **takes:** 'Take time' describes using time but does not express the reduction asked for.
 
 **Decision:** replaced.
 
@@ -1072,21 +1072,21 @@ ID: `coverage-collocations-a2-634`
 
 The swimming pool charges visitors five dollars to enter.
 
-Choose the ordinary payment phrase: Visitors must ___ an entrance fee.
+Choose the ordinary payment phrase: 'Visitors must ___ an entrance fee.'
 
 1. spend
 2. cost
 3. buy
 4. pay **[Correct]**
 
-**Explanation:** Pay a fee is the conventional phrase for giving the required charge.
+**Explanation:** 'Pay a fee' is the conventional phrase for giving the required charge.
 
 **Choice feedback:**
 
-- **spend:** You spend money on entry, but the usual partnership with the charge itself is pay a fee.
+- **spend:** You spend money on entry, but the usual partnership with the charge itself is 'pay a fee'.
 - **cost:** The visit costs money; the visitor pays the fee.
 - **buy:** You buy admission or a ticket, not the fee itself.
-- **pay:** Pay a fee is the conventional phrase for giving the required charge.
+- **pay:** 'Pay a fee' is the conventional phrase for giving the required charge.
 
 **Decision:** replaced.
 
@@ -1136,18 +1136,18 @@ ID: `coverage-collocations-a2-636`
 
 Luis no longer needs his appointment and does not want a replacement date.
 
-Choose the phrase matching that intention: ___ the appointment.
+Choose the phrase matching that intention: '___ the appointment'.
 
 1. cancel **[Correct]**
 2. postpone
 3. keep
 4. book
 
-**Explanation:** Cancel an appointment means end the arrangement so it will not take place.
+**Explanation:** 'Cancel an appointment' means end the arrangement so it will not take place.
 
 **Choice feedback:**
 
-- **cancel:** Cancel an appointment means end the arrangement so it will not take place.
+- **cancel:** 'Cancel an appointment' means end the arrangement so it will not take place.
 - **postpone:** Postponing moves it to a later time, which Luis does not want.
 - **keep:** Keeping the appointment means retaining the arrangement.
 - **book:** Booking creates an appointment rather than ends this one.
@@ -1264,21 +1264,21 @@ ID: `coverage-collocations-a2-640`
 
 Theo can now swim farther than he could last month.
 
-Choose the phrase meaning become better at this activity: Theo is ___ progress.
+Choose the phrase meaning 'become better at this activity': 'Theo is ___ progress.'
 
 1. reporting
 2. reviewing
 3. stopping
 4. making **[Correct]**
 
-**Explanation:** Make progress means move forward or improve toward a goal.
+**Explanation:** 'Make progress' means move forward or improve toward a goal.
 
 **Choice feedback:**
 
 - **reporting:** Reporting tells others about progress; it does not itself describe improvement.
 - **reviewing:** Reviewing examines progress already made.
 - **stopping:** Stopping progress prevents further improvement, opposite to the intended meaning.
-- **making:** Make progress means move forward or improve toward a goal.
+- **making:** 'Make progress' means move forward or improve toward a goal.
 
 **Decision:** replaced.
 
@@ -1300,21 +1300,21 @@ ID: `coverage-collocations-b1-641`
 
 The competition entry arrived an hour before the closing time.
 
-Choose the phrase meaning the entry was submitted in time: It ___ the deadline.
+Choose the phrase meaning 'the entry was submitted in time': 'It ___ the deadline.'
 
 1. met **[Correct]**
 2. extended
 3. set
 4. missed
 
-**Explanation:** Meet a deadline means complete the required action by the specified time.
+**Explanation:** 'Meet a deadline' means complete the required action by the specified time.
 
 **Choice feedback:**
 
-- **met:** Meet a deadline means complete the required action by the specified time.
+- **met:** 'Meet a deadline' means complete the required action by the specified time.
 - **extended:** Extending changes the allowed time; the entry did not do that.
 - **set:** Setting establishes a deadline rather than satisfies it.
-- **missed:** Missing means being too late, opposite to the arrival described.
+- **missed:** 'Missing' means being too late, opposite to the arrival described.
 
 **Decision:** replaced.
 
@@ -1332,19 +1332,19 @@ ID: `coverage-collocations-b1-642`
 
 At a residents' meeting, Carlos wants people to discuss his worry about the new bus route.
 
-Choose the phrase meaning bring the worry to their attention: ___ a concern.
+Choose the phrase meaning 'bring the worry to their attention': '___ a concern'.
 
 1. dismiss
 2. raise **[Correct]**
 3. allay
 4. conceal
 
-**Explanation:** Raise a concern means bring a worry or problem forward for attention.
+**Explanation:** 'Raise a concern' means bring a worry or problem forward for attention.
 
 **Choice feedback:**
 
 - **dismiss:** Dismissing treats a concern as unworthy of attention rather than introduces it.
-- **raise:** Raise a concern means bring a worry or problem forward for attention.
+- **raise:** 'Raise a concern' means bring a worry or problem forward for attention.
 - **allay:** Allaying reduces someone's worry, rather than raises it for discussion.
 - **conceal:** Concealing keeps a concern hidden from the group.
 
@@ -1364,21 +1364,21 @@ ID: `coverage-collocations-b1-643`
 
 The early lessons were difficult, but I tried hard to speak only English.
 
-Choose the usual phrase for trying hard: I ___ an effort.
+Choose the usual phrase for trying hard: 'I ___ an effort.'
 
 1. did
 2. took
 3. spent
 4. made **[Correct]**
 
-**Explanation:** Make an effort means try hard to do something.
+**Explanation:** 'Make an effort' means try hard to do something.
 
 **Choice feedback:**
 
-- **did:** Use make with an effort; do pairs with activities such as work.
-- **took:** Take can pair with a chance, but the effort someone makes uses make.
-- **spent:** You expend effort or spend time; spent an effort is not the usual phrase.
-- **made:** Make an effort means try hard to do something.
+- **did:** Use 'make' with 'an effort'; 'do' pairs with activities such as 'work'.
+- **took:** 'Take' can pair with 'a chance', but the effort someone makes uses 'make'.
+- **spent:** You expend effort or spend time; 'spent an effort' is not the usual phrase.
+- **made:** 'Make an effort' means try hard to do something.
 
 **Decision:** replaced.
 
@@ -1396,21 +1396,21 @@ ID: `coverage-collocations-b1-644`
 
 The repairer found why the freezer kept stopping and replaced the faulty switch.
 
-Choose the phrase meaning remove the difficulty: ___ the problem.
+Choose the phrase meaning 'remove the difficulty': '___ the problem'.
 
 1. create
 2. describe
 3. ignore
 4. solve **[Correct]**
 
-**Explanation:** Solve a problem means find and apply a way to deal with it successfully.
+**Explanation:** 'Solve a problem' means find and apply a way to deal with it successfully.
 
 **Choice feedback:**
 
 - **create:** Creating a problem introduces a difficulty rather than removes it.
 - **describe:** Describing explains a problem but does not necessarily fix it.
 - **ignore:** Ignoring leaves the difficulty unattended.
-- **solve:** Solve a problem means find and apply a way to deal with it successfully.
+- **solve:** 'Solve a problem' means find and apply a way to deal with it successfully.
 
 **Decision:** replaced.
 
@@ -1428,18 +1428,18 @@ ID: `coverage-collocations-b1-645`
 
 Before training began, Omar decided he wanted to run ten kilometers without stopping.
 
-Choose the phrase for deciding on a target, not reaching it: ___ a goal.
+Choose the phrase for deciding on a target, not reaching it: '___ a goal'.
 
 1. set **[Correct]**
 2. achieve
 3. exceed
 4. abandon
 
-**Explanation:** Set a goal means establish what you intend to achieve.
+**Explanation:** 'Set a goal' means establish what you intend to achieve.
 
 **Choice feedback:**
 
-- **set:** Set a goal means establish what you intend to achieve.
+- **set:** 'Set a goal' means establish what you intend to achieve.
 - **achieve:** Achieving a goal means reaching it, not choosing it in advance.
 - **exceed:** Exceeding goes beyond a target after performance.
 - **abandon:** Abandoning gives up a target rather than establishes it.
@@ -1492,19 +1492,19 @@ ID: `coverage-collocations-b1-647`
 
 The campaign aims to make more people aware of local recycling services.
 
-Choose the phrase expressing that aim: ___ awareness of the services.
+Choose the phrase expressing that aim: '___ awareness of the services'.
 
 1. measure
 2. raise **[Correct]**
 3. assume
 4. limit
 
-**Explanation:** Raise awareness means increase people's knowledge or consciousness of an issue.
+**Explanation:** 'Raise awareness' means increase people's knowledge or consciousness of an issue.
 
 **Choice feedback:**
 
 - **measure:** Measuring assesses existing awareness rather than increases it.
-- **raise:** Raise awareness means increase people's knowledge or consciousness of an issue.
+- **raise:** 'Raise awareness' means increase people's knowledge or consciousness of an issue.
 - **assume:** Assuming awareness treats it as already present, without creating it.
 - **limit:** Limiting awareness restricts what people know, opposite to the campaign's aim.
 
@@ -1524,21 +1524,21 @@ ID: `coverage-collocations-b1-648`
 
 Two club members reached an agreement about sharing the practice room.
 
-Choose the phrase meaning settle their disagreement: ___ the dispute.
+Choose the phrase meaning 'settle their disagreement': '___ the dispute'.
 
 1. reopen
 2. prolong
 3. document
 4. resolve **[Correct]**
 
-**Explanation:** Resolve a dispute means settle the disagreement or find an acceptable way forward.
+**Explanation:** 'Resolve a dispute' means settle the disagreement or find an acceptable way forward.
 
 **Choice feedback:**
 
 - **reopen:** Reopening begins discussion of a dispute again after it had been closed.
 - **prolong:** Prolonging makes a dispute last longer rather than settles it.
 - **document:** Documenting records the disagreement; it does not itself settle it.
-- **resolve:** Resolve a dispute means settle the disagreement or find an acceptable way forward.
+- **resolve:** 'Resolve a dispute' means settle the disagreement or find an acceptable way forward.
 
 **Decision:** replaced.
 
@@ -1620,18 +1620,18 @@ ID: `coverage-collocations-b1-651`
 
 Hana is organizing transport and accommodation for a choir visit.
 
-Choose the phrase for putting these practical plans in place: ___ arrangements.
+Choose the phrase for putting these practical plans in place: '___ arrangements'.
 
 1. make **[Correct]**
 2. cancel
 3. check
 4. change
 
-**Explanation:** Make arrangements means organize the details needed for an activity.
+**Explanation:** 'Make arrangements' means organize the details needed for an activity.
 
 **Choice feedback:**
 
-- **make:** Make arrangements means organize the details needed for an activity.
+- **make:** 'Make arrangements' means organize the details needed for an activity.
 - **cancel:** Cancelling ends arrangements instead of puts them in place.
 - **check:** Checking examines arrangements that have already been made.
 - **change:** Changing alters existing arrangements rather than names the initial organizing work.
@@ -1652,18 +1652,18 @@ ID: `coverage-collocations-b1-652`
 
 The owner says we may film inside her shop.
 
-Choose the phrase for the owner's act of allowing this: ___ permission.
+Choose the phrase for the owner's act of allowing this: '___ permission'.
 
 1. give **[Correct]**
 2. seek
 3. refuse
 4. withdraw
 
-**Explanation:** Give permission means allow someone to do something.
+**Explanation:** 'Give permission' means allow someone to do something.
 
 **Choice feedback:**
 
-- **give:** Give permission means allow someone to do something.
+- **give:** 'Give permission' means allow someone to do something.
 - **seek:** Seeking asks someone else for permission, which is the visitor's role.
 - **refuse:** Refusing says no; the owner has said yes.
 - **withdraw:** Withdrawing takes back permission that was previously given.
@@ -1684,21 +1684,21 @@ ID: `coverage-collocations-b1-653`
 
 The festival is scheduled for the town square on Sunday.
 
-Choose the expression meaning happen: The festival will ___ the square.
+Choose the expression meaning 'happen': 'The festival will ___ the square.'
 
 1. take part in
 2. take care of
 3. take place in **[Correct]**
 4. take turns at
 
-**Explanation:** Take place means happen; in introduces the event's location here.
+**Explanation:** 'Take place' means happen; 'in' introduces the event's location here.
 
 **Choice feedback:**
 
-- **take part in:** Take part in means participate in an activity; it does not mean happen at a location.
-- **take care of:** Take care of means look after, not occur in.
-- **take place in:** Take place means happen; in introduces the event's location here.
-- **take turns at:** Take turns means do something one after another; it does not locate an event.
+- **take part in:** 'Take part in' means participate in an activity; it does not mean happen at a location.
+- **take care of:** 'Take care of' means look after, not occur in.
+- **take place in:** 'Take place' means happen; 'in' introduces the event's location here.
+- **take turns at:** 'Take turns' means do something one after another; it does not locate an event.
 
 **Decision:** replaced.
 
@@ -1780,21 +1780,21 @@ ID: `coverage-collocations-b1-656`
 
 I need a small act of help: could you water my plants while I am away?
 
-Choose the usual phrase asking for that help: Could you ___ me a favor?
+Choose the usual phrase asking for that help: 'Could you ___ me a favor?'
 
 1. make
 2. take
 3. get
 4. do **[Correct]**
 
-**Explanation:** Do someone a favor means perform a helpful act for them.
+**Explanation:** 'Do someone a favor' means perform a helpful act for them.
 
 **Choice feedback:**
 
-- **make:** The ordinary partnership is do someone a favor, not make them a favor.
-- **take:** Take a favor would not describe performing the requested help for someone.
+- **make:** The ordinary partnership is 'do someone a favor', not 'make them a favor'.
+- **take:** 'Take a favor' would not describe performing the requested help for someone.
 - **get:** Getting someone a favor would suggest obtaining help elsewhere, not doing the helpful act yourself.
-- **do:** Do someone a favor means perform a helpful act for them.
+- **do:** 'Do someone a favor' means perform a helpful act for them.
 
 **Decision:** replaced.
 
@@ -1812,20 +1812,20 @@ ID: `coverage-collocations-b1-657`
 
 The desk is too heavy for me to move alone. I ask a colleague for practical help.
 
-Choose the phrase matching that request: Could you ___?
+Choose the phrase matching that request: 'Could you ___?'
 
 1. give me a call
 2. give me a hand **[Correct]**
 3. give me a lift
 4. give me a chance
 
-**Explanation:** Give someone a hand commonly means help them with a task.
+**Explanation:** 'Give someone a hand' commonly means help them with a task.
 
 **Choice feedback:**
 
-- **give me a call:** Giving a call means contacting me by phone, not helping move the desk.
-- **give me a hand:** Give someone a hand commonly means help them with a task.
-- **give me a lift:** Giving a lift means taking me somewhere in a vehicle.
+- **give me a call:** 'Giving a call' means contacting me by phone, not helping move the desk.
+- **give me a hand:** 'Give someone a hand' commonly means help them with a task.
+- **give me a lift:** 'Giving a lift' means taking me somewhere in a vehicle.
 - **give me a chance:** Giving a chance offers an opportunity rather than practical assistance with the desk.
 
 **Decision:** replaced.
@@ -1944,20 +1944,20 @@ ID: `coverage-collocations-b2-661`
 
 The guide explains how restoring an original building differs from constructing a replica.
 
-Choose the phrase meaning explain the difference: ___ a distinction between them.
+Choose the phrase meaning 'explain the difference': '___ a distinction between them'.
 
 1. blur
 2. ignore
 3. draw **[Correct]**
 4. erase
 
-**Explanation:** Draw a distinction means identify and explain a relevant difference.
+**Explanation:** 'Draw a distinction' means identify and explain a relevant difference.
 
 **Choice feedback:**
 
 - **blur:** Blurring makes a difference less clear, opposite to explaining it.
 - **ignore:** Ignoring leaves the distinction unaddressed.
-- **draw:** Draw a distinction means identify and explain a relevant difference.
+- **draw:** 'Draw a distinction' means identify and explain a relevant difference.
 - **erase:** Erasing removes the difference rather than brings it into focus.
 
 **Decision:** replaced.
@@ -2200,21 +2200,21 @@ ID: `coverage-collocations-b2-669`
 
 The new parking rules have been published but do not apply until Monday.
 
-Choose the phrase for the point when they begin to apply: They ___ on Monday.
+Choose the phrase for the point when they begin to apply: 'They ___ on Monday.'
 
 1. remain in effect
 2. are phased out
 3. are put on hold
 4. come into effect **[Correct]**
 
-**Explanation:** Come into effect means begin to apply or operate.
+**Explanation:** 'Come into effect' means begin to apply or operate.
 
 **Choice feedback:**
 
-- **remain in effect:** Remain describes continued application, not its beginning.
+- **remain in effect:** 'Remain' describes continued application, not its beginning.
 - **are phased out:** Phasing out gradually ends use rather than begins it.
 - **are put on hold:** Putting rules on hold delays their application instead of starts it.
-- **come into effect:** Come into effect means begin to apply or operate.
+- **come into effect:** 'Come into effect' means begin to apply or operate.
 
 **Decision:** replaced.
 
@@ -2264,20 +2264,20 @@ ID: `coverage-collocations-b2-671`
 
 The bakery wants the larger branch to offer the same quality as its original shop.
 
-Choose the phrase meaning keep the existing level of quality.
+Choose the phrase meaning 'keep the existing level of quality'.
 
 1. raise standards
 2. lower standards
 3. maintain standards **[Correct]**
 4. set standards
 
-**Explanation:** Maintain standards means keep quality or performance at the required level.
+**Explanation:** 'Maintain standards' means keep quality or performance at the required level.
 
 **Choice feedback:**
 
 - **raise standards:** Raising moves the expected quality upward, not simply keeps it steady.
 - **lower standards:** Lowering accepts less quality, contrary to the goal.
-- **maintain standards:** Maintain standards means keep quality or performance at the required level.
+- **maintain standards:** 'Maintain standards' means keep quality or performance at the required level.
 - **set standards:** Setting establishes the criteria; here the existing level is to continue.
 
 **Decision:** replaced.
@@ -2328,19 +2328,19 @@ ID: `coverage-collocations-b2-673`
 
 The newly found letters help readers understand why the novelist abandoned her final book.
 
-Choose the phrase meaning help explain the decision.
+Choose the phrase meaning 'help explain the decision'.
 
 1. cast doubt on the decision
 2. shed light on the decision **[Correct]**
 3. draw attention away from the decision
 4. lose sight of the decision
 
-**Explanation:** Shed light on means provide information that improves understanding.
+**Explanation:** 'Shed light on' means provide information that improves understanding.
 
 **Choice feedback:**
 
 - **cast doubt on the decision:** Casting doubt questions validity or certainty rather than explains why something occurred.
-- **shed light on the decision:** Shed light on means provide information that improves understanding.
+- **shed light on the decision:** 'Shed light on' means provide information that improves understanding.
 - **draw attention away from the decision:** Drawing attention away reduces focus instead of clarifies the issue.
 - **lose sight of the decision:** Losing sight means failing to keep something in view, not explaining it.
 
@@ -2392,19 +2392,19 @@ ID: `coverage-collocations-b2-675`
 
 When the club proposed replacing its long-standing logo, members objected immediately.
 
-Choose the phrase meaning encountered opposition: The proposal ___.
+Choose the phrase meaning 'encountered opposition': 'The proposal ___.'
 
 1. overcame resistance
 2. met with resistance **[Correct]**
 3. weakened resistance
 4. eliminated resistance
 
-**Explanation:** Meet with resistance means encounter opposition to an action or proposal.
+**Explanation:** 'Meet with resistance' means encounter opposition to an action or proposal.
 
 **Choice feedback:**
 
 - **overcame resistance:** Overcoming means defeating or getting past opposition; that has not happened.
-- **met with resistance:** Meet with resistance means encounter opposition to an action or proposal.
+- **met with resistance:** 'Meet with resistance' means encounter opposition to an action or proposal.
 - **weakened resistance:** Weakening reduces opposition rather than simply encounters it.
 - **eliminated resistance:** Eliminating removes opposition, contrary to the objections.
 
@@ -2424,18 +2424,18 @@ ID: `coverage-collocations-b2-676`
 
 Working on the only copy of a file creates a possibility of losing the whole draft if something goes wrong.
 
-Choose the phrase expressing exposure to that possible loss: You ___.
+Choose the phrase expressing exposure to that possible loss: 'You ___.'
 
 1. run the risk of losing the draft **[Correct]**
 2. bear the cost of losing the draft
 3. avoid the risk of losing the draft
 4. take responsibility for losing the draft
 
-**Explanation:** Run the risk of means expose yourself to a possible adverse outcome.
+**Explanation:** 'Run the risk of' means expose yourself to a possible adverse outcome.
 
 **Choice feedback:**
 
-- **run the risk of losing the draft:** Run the risk of means expose yourself to a possible adverse outcome.
+- **run the risk of losing the draft:** 'Run the risk of' means expose yourself to a possible adverse outcome.
 - **bear the cost of losing the draft:** Bearing the cost describes carrying consequences, not merely facing a possibility.
 - **avoid the risk of losing the draft:** Avoiding the risk prevents exposure; working on the only copy leaves the possible loss described here.
 - **take responsibility for losing the draft:** Taking responsibility accepts accountability for a loss, rather than names exposure to the possibility.
@@ -2456,21 +2456,21 @@ ID: `coverage-collocations-b2-677`
 
 The library wants quiet study areas and lively group spaces without allowing either use to dominate.
 
-Choose the phrase meaning give both needs suitable weight.
+Choose the phrase meaning 'give both needs suitable weight'.
 
 1. draw a distinction between the needs
 2. create a barrier between the needs
 3. establish a link between the needs
 4. strike a balance between the needs **[Correct]**
 
-**Explanation:** Strike a balance means find a satisfactory way to accommodate competing considerations.
+**Explanation:** 'Strike a balance' means find a satisfactory way to accommodate competing considerations.
 
 **Choice feedback:**
 
 - **draw a distinction between the needs:** A distinction identifies their difference without resolving how much weight to give each.
 - **create a barrier between the needs:** A barrier separates them rather than describes a workable weighting.
 - **establish a link between the needs:** A link identifies a connection, not a compromise in how they are met.
-- **strike a balance between the needs:** Strike a balance means find a satisfactory way to accommodate competing considerations.
+- **strike a balance between the needs:** 'Strike a balance' means find a satisfactory way to accommodate competing considerations.
 
 **Decision:** replaced.
 
@@ -2488,20 +2488,20 @@ ID: `coverage-collocations-b2-678`
 
 As requests increased, the translation team expanded quickly enough to handle them without a growing queue.
 
-Which phrase means match the rate of increasing demand?
+Which phrase means 'match the rate of increasing demand'?
 
 1. fall behind demand
 2. drive demand upward
 3. keep pace with demand **[Correct]**
 4. put demand on hold
 
-**Explanation:** Keep pace with means develop or move at a rate sufficient to match something else.
+**Explanation:** 'Keep pace with' means develop or move at a rate sufficient to match something else.
 
 **Choice feedback:**
 
 - **fall behind demand:** Falling behind means capacity fails to match demand.
 - **drive demand upward:** Driving demand creates more requests rather than responds to them at a matching rate.
-- **keep pace with demand:** Keep pace with means develop or move at a rate sufficient to match something else.
+- **keep pace with demand:** 'Keep pace with' means develop or move at a rate sufficient to match something else.
 - **put demand on hold:** Putting demand on hold would delay it rather than keep up with its growth.
 
 **Decision:** replaced.
@@ -2520,19 +2520,19 @@ ID: `coverage-collocations-b2-679`
 
 New measurements showed the room was larger than first thought, so the decorator adjusted the estimated paint cost upward.
 
-Choose the phrase specifically meaning changed the existing calculation.
+Choose the phrase specifically meaning 'changed the existing calculation'.
 
 1. reviewed the estimate
 2. revised the estimate **[Correct]**
 3. confirmed the estimate
 4. withdrew the estimate
 
-**Explanation:** Revise an estimate means alter an existing estimate in light of new information.
+**Explanation:** 'Revise an estimate' means alter an existing estimate in light of new information.
 
 **Choice feedback:**
 
 - **reviewed the estimate:** Reviewing examines an estimate but need not change it.
-- **revised the estimate:** Revise an estimate means alter an existing estimate in light of new information.
+- **revised the estimate:** 'Revise an estimate' means alter an existing estimate in light of new information.
 - **confirmed the estimate:** Confirming accepts it as valid rather than adjusts it.
 - **withdrew the estimate:** Withdrawing removes it from use rather than updates its amount.
 
@@ -2940,21 +2940,21 @@ ID: `coverage-collocations-c1-692`
 
 One visitor saw the gallery empty at noon; another saw a group there a few minutes later. The curator explains that a tour arrived between the two observations.
 
-Choose the phrase meaning show how the apparently conflicting reports can both fit.
+Choose the phrase meaning 'show how the apparently conflicting reports can both fit'.
 
 1. discard the accounts
 2. conflate the accounts
 3. suppress the accounts
 4. reconcile the accounts **[Correct]**
 
-**Explanation:** Reconcile accounts means explain or resolve their apparent inconsistency.
+**Explanation:** 'Reconcile accounts' means explain or resolve their apparent inconsistency.
 
 **Choice feedback:**
 
 - **discard the accounts:** Discarding rejects the reports, whereas the explanation accommodates both.
 - **conflate the accounts:** Conflating treats distinct reports as one, potentially losing their different times.
 - **suppress the accounts:** Suppressing prevents reports from being known instead of explains their relationship.
-- **reconcile the accounts:** Reconcile accounts means explain or resolve their apparent inconsistency.
+- **reconcile the accounts:** 'Reconcile accounts' means explain or resolve their apparent inconsistency.
 
 **Decision:** replaced.
 
@@ -3100,21 +3100,21 @@ ID: `coverage-collocations-c1-697`
 
 The speaker wants to say the information was shared privately and should not be passed on.
 
-Which phrase conveys secrecy rather than certainty or sincerity: She told me ___.
+Which phrase conveys secrecy rather than certainty or sincerity: 'She told me ___.'
 
 1. with great confidence
 2. in strict confidence **[Correct]**
 3. in good faith
 4. without hesitation
 
-**Explanation:** In strict confidence means privately, with an expectation that the information will not be disclosed.
+**Explanation:** 'In strict confidence' means privately, with an expectation that the information will not be disclosed.
 
 **Choice feedback:**
 
-- **with great confidence:** With confidence describes assurance in delivery, not an expectation of privacy.
-- **in strict confidence:** In strict confidence means privately, with an expectation that the information will not be disclosed.
-- **in good faith:** In good faith describes honest intention, not confidentiality.
-- **without hesitation:** Without hesitation describes immediacy or readiness, not secrecy.
+- **with great confidence:** 'With confidence' describes assurance in delivery, not an expectation of privacy.
+- **in strict confidence:** 'In strict confidence' means privately, with an expectation that the information will not be disclosed.
+- **in good faith:** 'In good faith' describes honest intention, not confidentiality.
+- **without hesitation:** 'Without hesitation' describes immediacy or readiness, not secrecy.
 
 **Decision:** replaced.
 
@@ -3456,20 +3456,20 @@ ID: `coverage-collocations-c2-708`
 
 The guidelines leave curators room for judgment but set boundaries around which loans they may approve.
 
-Choose the phrase meaning limit that freedom without abolishing it.
+Choose the phrase meaning 'limit that freedom without abolishing it'.
 
 1. remove discretion
 2. exercise discretion
 3. circumscribe discretion **[Correct]**
 4. expand discretion
 
-**Explanation:** Circumscribe discretion means place limits around the scope of judgment someone may exercise.
+**Explanation:** 'Circumscribe discretion' means place limits around the scope of judgment someone may exercise.
 
 **Choice feedback:**
 
 - **remove discretion:** Removing discretion leaves no room for judgment, stronger than the stated boundaries.
 - **exercise discretion:** Exercising discretion uses the freedom, rather than sets its boundaries.
-- **circumscribe discretion:** Circumscribe discretion means place limits around the scope of judgment someone may exercise.
+- **circumscribe discretion:** 'Circumscribe discretion' means place limits around the scope of judgment someone may exercise.
 - **expand discretion:** Expanding increases freedom rather than limits it.
 
 **Decision:** replaced.
@@ -3808,19 +3808,19 @@ ID: `coverage-collocations-c2-719`
 
 The prestigious award brought honor to an ensemble that had previously been little known.
 
-Which phrase uses 'distinction' to mean honor, not a difference between categories?
+Which phrase uses 'distinction' to mean 'honor', not 'a difference between categories'?
 
 1. drew a distinction between ensembles
 2. conferred distinction on the ensemble **[Correct]**
 3. maintained a distinction between ensembles
 4. blurred the distinction between ensembles
 
-**Explanation:** Confer distinction on means bestow honor or prestige; this partnership uses a different sense from draw a distinction.
+**Explanation:** 'Confer distinction on' means bestow honor or prestige; this partnership uses a different sense from 'draw a distinction'.
 
 **Choice feedback:**
 
-- **drew a distinction between ensembles:** Draw a distinction identifies a difference, not an honor bestowed.
-- **conferred distinction on the ensemble:** Confer distinction on means bestow honor or prestige; this partnership uses a different sense from draw a distinction.
+- **drew a distinction between ensembles:** 'Draw a distinction' identifies a difference, not an honor bestowed.
+- **conferred distinction on the ensemble:** 'Confer distinction on' means bestow honor or prestige; this partnership uses a different sense from 'draw a distinction'.
 - **maintained a distinction between ensembles:** Maintaining a distinction preserves a difference between categories or groups.
 - **blurred the distinction between ensembles:** Blurring a distinction makes a difference less clear rather than confers honor.
 

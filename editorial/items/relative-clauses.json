@@ -160,7 +160,7 @@
     {
       "id": "coverage-relative-clauses-a1-3126",
       "level": "A1",
-      "setupText": "Choose the person referred to by who.",
+      "setupText": "Choose the person referred to by 'who'.",
       "taskText": "'I thanked the driver who carried my suitcase.'",
       "options": [
         "The speaker.",
@@ -169,10 +169,10 @@
         "The driver."
       ],
       "answer": "The driver.",
-      "explanation": "Who refers back to the driver and describes the driver's helpful action.",
+      "explanation": "'Who' refers back to the driver and describes the driver's helpful action.",
       "rationales": {
-        "The speaker.": "I is the speaker who thanked someone, not the person who carried the suitcase in this sentence.",
-        "The driver.": "Who refers back to the driver and describes the driver's helpful action.",
+        "The speaker.": "'I' is the speaker who thanked someone, not the person who carried the suitcase in this sentence.",
+        "The driver.": "'Who' refers back to the driver and describes the driver's helpful action.",
         "The suitcase owner and driver together.": "The relative clause describes the driver alone, not a combined subject.",
         "Another passenger.": "No other passenger is introduced as the person carrying the suitcase."
       },
@@ -564,7 +564,7 @@
     {
       "id": "coverage-relative-clauses-a1-3139",
       "level": "A1",
-      "setupText": "Choose what one means in the reply.",
+      "setupText": "Choose what 'one' means in the reply.",
       "taskText": "'Which cup would you like?' 'The one that has a handle.'",
       "options": [
         "A cup.",
@@ -573,12 +573,12 @@
         "A plate."
       ],
       "answer": "A cup.",
-      "explanation": "One stands for cup, and that has a handle identifies the chosen cup.",
+      "explanation": "'One' stands for 'cup', and 'that has a handle' identifies the chosen cup.",
       "rationales": {
         "A drink.": "The question asks about a cup, not the drink it may contain.",
-        "A handle.": "The handle is the identifying feature, not what one replaces.",
+        "A handle.": "The handle is the identifying feature, not what 'one' replaces.",
         "A plate.": "No plate is being selected in the exchange.",
-        "A cup.": "One stands for cup, and that has a handle identifies the chosen cup."
+        "A cup.": "'One' stands for 'cup', and 'that has a handle' identifies the chosen cup."
       },
       "audit": {
         "status": "reviewed",
@@ -1900,7 +1900,7 @@
     {
       "id": "coverage-relative-clauses-b2-3182",
       "level": "B2",
-      "setupText": "Choose what which refers to in this sentence.",
+      "setupText": "Choose what 'which' refers to in this sentence.",
       "taskText": "The museum extended its evening opening hours, which made it easier for shift workers to visit.",
       "options": [
         "The shift workers who visited",
@@ -1909,11 +1909,11 @@
         "The extension of the opening hours"
       ],
       "answer": "The extension of the opening hours",
-      "explanation": "Which comments on the preceding event: extending the hours made visits easier.",
+      "explanation": "'Which' comments on the preceding event: extending the hours made visits easier.",
       "rationales": {
-        "The shift workers who visited": "Shift workers receive the benefit; they are not what which refers back to.",
+        "The shift workers who visited": "Shift workers receive the benefit; they are not what 'which' refers back to.",
         "The museum's evening visitors": "The sentence describes a change in access, not a previously mentioned group of visitors.",
-        "The extension of the opening hours": "Which comments on the preceding event: extending the hours made visits easier.",
+        "The extension of the opening hours": "'Which' comments on the preceding event: extending the hours made visits easier.",
         "The museum's location": "No location is supplied as an antecedent; the benefit follows the change in hours."
       },
       "audit": {
@@ -1931,7 +1931,7 @@
     {
       "id": "coverage-relative-clauses-b2-3183",
       "level": "B2",
-      "setupText": "Choose the version suited to a formal report that keeps to immediately before the relative pronoun.",
+      "setupText": "Choose the version suited to a formal report that keeps 'to' immediately before the relative pronoun.",
       "taskText": "The officer I handed the documents to recorded the delivery.",
       "options": [
         "The officer to who I handed the documents recorded the delivery.",
@@ -1940,12 +1940,12 @@
         "The officer to whose I handed the documents recorded the delivery."
       ],
       "answer": "The officer to whom I handed the documents recorded the delivery.",
-      "explanation": "Whom is the formal object form after the fronted preposition to; the recipient remains the officer.",
+      "explanation": "'Whom' is the formal object form after the fronted preposition 'to'; the recipient remains the officer.",
       "rationales": {
-        "The officer to who I handed the documents recorded the delivery.": "In this formal fronted-preposition construction, the report requires to whom; who is natural with a final to.",
-        "The officer to that I handed the documents recorded the delivery.": "That cannot directly follow a fronted preposition in a relative clause.",
-        "The officer to whose I handed the documents recorded the delivery.": "Whose needs a possessed noun, such as whose assistant, and cannot stand alone after to here.",
-        "The officer to whom I handed the documents recorded the delivery.": "Whom is the formal object form after the fronted preposition to; the recipient remains the officer."
+        "The officer to who I handed the documents recorded the delivery.": "In this formal fronted-preposition construction, the report requires 'to whom'; 'who' is natural with a final 'to'.",
+        "The officer to that I handed the documents recorded the delivery.": "'That' cannot directly follow a fronted preposition in a relative clause.",
+        "The officer to whose I handed the documents recorded the delivery.": "'Whose' needs a possessed noun, such as 'whose assistant', and cannot stand alone after 'to' here.",
+        "The officer to whom I handed the documents recorded the delivery.": "'Whom' is the formal object form after the fronted preposition 'to'; the recipient remains the officer."
       },
       "audit": {
         "status": "reviewed",
@@ -2211,7 +2211,7 @@
     {
       "id": "coverage-relative-clauses-b2-3192",
       "level": "B2",
-      "setupText": "Choose the meaning of what in this sentence.",
+      "setupText": "Choose the meaning of 'what' in this sentence.",
       "taskText": "We paid what the supplier had charged, then requested an itemized receipt.",
       "options": [
         "The reason the supplier had charged it",
@@ -2220,12 +2220,12 @@
         "The amount the supplier had charged"
       ],
       "answer": "The amount the supplier had charged",
-      "explanation": "What combines an amount with a relative link: the amount that the supplier had charged was paid.",
+      "explanation": "'What' combines an amount with a relative link: the amount that the supplier had charged was paid.",
       "rationales": {
-        "The amount the supplier had charged": "What combines an amount with a relative link: the amount that the supplier had charged was paid.",
-        "The reason the supplier had charged it": "A reason is not the object of paid here; what identifies the amount paid.",
+        "The amount the supplier had charged": "'What' combines an amount with a relative link: the amount that the supplier had charged was paid.",
+        "The reason the supplier had charged it": "A reason is not the object of 'paid' here; 'what' identifies the amount paid.",
         "The time when the supplier had sent the charge": "The phrase supplies what was paid, not when a charge was sent.",
-        "The person whom the supplier had charged": "The supplier is the payment recipient; what identifies the charged amount, not a billed person."
+        "The person whom the supplier had charged": "The supplier is the payment recipient; 'what' identifies the charged amount, not a billed person."
       },
       "audit": {
         "status": "reviewed",
@@ -2366,7 +2366,7 @@
     {
       "id": "coverage-relative-clauses-b2-3197",
       "level": "B2",
-      "setupText": "Choose the interpretation of at which point.",
+      "setupText": "Choose the interpretation of 'at which point'.",
       "taskText": "The guest speaker finished her presentation, at which point the audience began asking questions.",
       "options": [
         "Questions continued throughout the presentation.",
@@ -2375,12 +2375,12 @@
         "The audience chose a place to ask questions later."
       ],
       "answer": "Questions began when the presentation ended.",
-      "explanation": "Which refers back to the finishing event, and at which point uses that event as the time for questions to begin.",
+      "explanation": "'Which' refers back to the finishing event, and 'at which point' uses that event as the time for questions to begin.",
       "rationales": {
-        "Questions continued throughout the presentation.": "At which point locates the start of questions at the presentation's end, not throughout it.",
-        "Questions began when the presentation ended.": "Which refers back to the finishing event, and at which point uses that event as the time for questions to begin.",
+        "Questions continued throughout the presentation.": "'At which point' locates the start of questions at the presentation's end, not throughout it.",
+        "Questions began when the presentation ended.": "'Which' refers back to the finishing event, and 'at which point' uses that event as the time for questions to begin.",
         "The speaker finished after answering the questions.": "The presentation finishes before the questions begin, not after they have been answered.",
-        "The audience chose a place to ask questions later.": "Point is a moment in the sequence here, not a physical place chosen for later use."
+        "The audience chose a place to ask questions later.": "'Point' is a moment in the sequence here, not a physical place chosen for later use."
       },
       "audit": {
         "status": "reviewed",
@@ -2429,7 +2429,7 @@
     {
       "id": "coverage-relative-clauses-b2-3199",
       "level": "B2",
-      "setupText": "Choose the paraphrase that preserves the abstract meaning of point where.",
+      "setupText": "Choose the paraphrase that preserves the abstract meaning of 'point where'.",
       "taskText": "We may reach a point where further discussion will not help.",
       "options": [
         "We may find a place where discussion will be easier to hear.",
@@ -2438,11 +2438,11 @@
         "We may choose a subject on which discussion will be helpful."
       ],
       "answer": "We may reach a stage at which more discussion is no longer useful.",
-      "explanation": "Point where describes a stage in the process when continuing the discussion stops being useful.",
+      "explanation": "'Point where' describes a stage in the process when continuing the discussion stops being useful.",
       "rationales": {
-        "We may reach a stage at which more discussion is no longer useful.": "Point where describes a stage in the process when continuing the discussion stops being useful.",
-        "We may find a place where discussion will be easier to hear.": "This makes point a physical location and changes usefulness to audibility.",
-        "We may establish a rule under which discussion is not permitted.": "Not helping is an assessment of usefulness, not a prohibition on discussion.",
+        "We may reach a stage at which more discussion is no longer useful.": "'Point where' describes a stage in the process when continuing the discussion stops being useful.",
+        "We may find a place where discussion will be easier to hear.": "This makes 'point' a physical location and changes usefulness to audibility.",
+        "We may establish a rule under which discussion is not permitted.": "'Not helping' is an assessment of usefulness, not a prohibition on discussion.",
         "We may choose a subject on which discussion will be helpful.": "The original identifies a stage at which discussion ceases to help, not a useful subject for it."
       },
       "audit": {
@@ -2771,7 +2771,7 @@
     {
       "id": "coverage-relative-clauses-c1-3210",
       "level": "C1",
-      "setupText": "Choose the interpretation of setting where in context.",
+      "setupText": "Choose the interpretation of 'setting where' in context.",
       "taskText": "The training created a setting where junior staff could question established practice without embarrassment.",
       "options": [
         "The training provided circumstances favourable to open questioning.",
@@ -2780,12 +2780,12 @@
         "The training introduced a requirement to revise practices once they were questioned."
       ],
       "answer": "The training provided circumstances favourable to open questioning.",
-      "explanation": "Where introduces an abstract setting: circumstances in which staff felt able to question practice.",
+      "explanation": "'Where' introduces an abstract setting: circumstances in which staff felt able to question practice.",
       "rationales": {
         "The training prescribed a procedure specifying how questions should be worded.": "A setting permits questioning; it does not itself prescribe the wording or method of questions.",
-        "The training designated a room in which questions had to be submitted privately.": "Setting can describe circumstances rather than a physical room, and privacy is not the same as freedom from embarrassment.",
-        "The training provided circumstances favourable to open questioning.": "Where introduces an abstract setting: circumstances in which staff felt able to question practice.",
-        "The training introduced a requirement to revise practices once they were questioned.": "Could question creates an opportunity, not a requirement that each questioned practice be revised."
+        "The training designated a room in which questions had to be submitted privately.": "'Setting' can describe circumstances rather than a physical room, and privacy is not the same as freedom from embarrassment.",
+        "The training provided circumstances favourable to open questioning.": "'Where' introduces an abstract setting: circumstances in which staff felt able to question practice.",
+        "The training introduced a requirement to revise practices once they were questioned.": "'Could question' creates an opportunity, not a requirement that each questioned practice be revised."
       },
       "audit": {
         "status": "reviewed",
@@ -2802,7 +2802,7 @@
     {
       "id": "coverage-relative-clauses-c1-3211",
       "level": "C1",
-      "setupText": "Choose the reading that preserves the scope of none.",
+      "setupText": "Choose the reading that preserves the scope of 'none'.",
       "taskText": "The panel interviewed four candidates, none of whom had managed a merger, before choosing its new director.",
       "options": [
         "The interview panel lacked merger-management experience.",
@@ -2811,12 +2811,12 @@
         "The four candidates had managed mergers but not as directors."
       ],
       "answer": "The four interviewees lacked merger-management experience.",
-      "explanation": "None of whom applies the lack of merger-management experience to the four interviewees, without extending it to the panel or other candidates.",
+      "explanation": "'None of whom' applies the lack of merger-management experience to the four interviewees, without extending it to the panel or other candidates.",
       "rationales": {
-        "The interview panel lacked merger-management experience.": "Whom refers to the candidates, not the panel members assessing them.",
+        "The interview panel lacked merger-management experience.": "'Whom' refers to the candidates, not the panel members assessing them.",
         "The panel selected someone outside the four interviewees.": "The relative describes the interviewees' experience; it does not show that the eventual selection came from elsewhere.",
-        "The four candidates had managed mergers but not as directors.": "None had managed a merger denies that experience; it does not restrict the denial to experience as a director.",
-        "The four interviewees lacked merger-management experience.": "None of whom applies the lack of merger-management experience to the four interviewees, without extending it to the panel or other candidates."
+        "The four candidates had managed mergers but not as directors.": "'None had managed a merger' denies that experience; it does not restrict the denial to experience as a director.",
+        "The four interviewees lacked merger-management experience.": "'None of whom' applies the lack of merger-management experience to the four interviewees, without extending it to the panel or other candidates."
       },
       "audit": {
         "status": "reviewed",
@@ -3298,7 +3298,7 @@
     {
       "id": "coverage-relative-clauses-c2-3227",
       "level": "C2",
-      "setupText": "Choose the reading of whatever support in context.",
+      "setupText": "Choose the reading of 'whatever support' in context.",
       "taskText": "Whatever support the redevelopment proposal once enjoyed has ebbed away during the prolonged consultation.",
       "options": [
         "The proposal's renewed support depends on shortening the consultation.",
@@ -3307,12 +3307,12 @@
         "The amount of remaining support is being investigated during consultation."
       ],
       "answer": "The proposal's earlier support, of unspecified extent, has diminished.",
-      "explanation": "Whatever support gathers the earlier support without quantifying it, while has ebbed away reports its decline.",
+      "explanation": "'Whatever support' gathers the earlier support without quantifying it, while 'has ebbed away' reports its decline.",
       "rationales": {
-        "The proposal's renewed support depends on shortening the consultation.": "Whatever support is the subject of has ebbed away, not a conditional promise of renewed support.",
-        "The proposal necessarily had little support before consultation began.": "Whatever leaves the earlier amount unspecified; it need not have been little.",
+        "The proposal's renewed support depends on shortening the consultation.": "'Whatever support' is the subject of 'has ebbed away', not a conditional promise of renewed support.",
+        "The proposal necessarily had little support before consultation began.": "'Whatever' leaves the earlier amount unspecified; it need not have been little.",
         "The amount of remaining support is being investigated during consultation.": "The clause identifies the earlier support and reports decline; it is not a question or investigation into an amount.",
-        "The proposal's earlier support, of unspecified extent, has diminished.": "Whatever support gathers the earlier support without quantifying it, while has ebbed away reports its decline."
+        "The proposal's earlier support, of unspecified extent, has diminished.": "'Whatever support' gathers the earlier support without quantifying it, while 'has ebbed away' reports its decline."
       },
       "audit": {
         "status": "reviewed",
@@ -3329,7 +3329,7 @@
     {
       "id": "coverage-relative-clauses-c2-3228",
       "level": "C2",
-      "setupText": "Choose the inference warranted by the relative clause under need.",
+      "setupText": "Choose the inference warranted by the relative clause under 'need'.",
       "taskText": "The team needs an adviser who can reconcile the two datasets without discarding the disputed observations.",
       "options": [
         "The sentence specifies required expertise without establishing that a suitable adviser exists.",
@@ -3338,12 +3338,12 @@
         "The team believes that the disputed observations should be discarded before reconciliation."
       ],
       "answer": "The sentence specifies required expertise without establishing that a suitable adviser exists.",
-      "explanation": "Under needs, an adviser who can... describes a requirement; it does not assert an actual person's existence or availability.",
+      "explanation": "Under 'needs', 'an adviser who can...' describes a requirement; it does not assert an actual person's existence or availability.",
       "rationales": {
-        "The sentence specifies required expertise without establishing that a suitable adviser exists.": "Under needs, an adviser who can... describes a requirement; it does not assert an actual person's existence or availability.",
-        "The team has identified an adviser who has already reconciled the datasets.": "Can states a required ability, not an identified person's completed reconciliation.",
+        "The sentence specifies required expertise without establishing that a suitable adviser exists.": "Under 'needs', 'an adviser who can...' describes a requirement; it does not assert an actual person's existence or availability.",
+        "The team has identified an adviser who has already reconciled the datasets.": "'Can' states a required ability, not an identified person's completed reconciliation.",
         "An existing adviser has agreed to retain the disputed observations.": "No existing adviser or agreement is reported by the need statement.",
-        "The team believes that the disputed observations should be discarded before reconciliation.": "Without discarding makes retention part of the required solution, not an obstacle to remove first."
+        "The team believes that the disputed observations should be discarded before reconciliation.": "'Without discarding' makes retention part of the required solution, not an obstacle to remove first."
       },
       "audit": {
         "status": "reviewed",
@@ -3391,7 +3391,7 @@
     {
       "id": "coverage-relative-clauses-c2-3230",
       "level": "C2",
-      "setupText": "Choose the contribution of what little in this sentence.",
+      "setupText": "Choose the contribution of 'what little' in this sentence.",
       "taskText": "What little evidence survived the deletion was insufficient to reconstruct the transaction history.",
       "options": [
         "The phrase selects a small part of a larger surviving body of evidence.",
@@ -3400,12 +3400,12 @@
         "The phrase limits insufficiency to evidence deleted rather than evidence retained."
       ],
       "answer": "The phrase gathers the small surviving amount as the sentence's subject.",
-      "explanation": "The phrase means the small amount of evidence that survived, and that amount is the subject of was insufficient.",
+      "explanation": "The phrase means the small amount of evidence that survived, and that amount is the subject of 'was insufficient'.",
       "rationales": {
-        "The phrase selects a small part of a larger surviving body of evidence.": "What little evidence survived denotes the small surviving total, not a selected fraction of a larger surviving collection.",
-        "The phrase gathers the small surviving amount as the sentence's subject.": "The phrase means the small amount of evidence that survived, and that amount is the subject of was insufficient.",
+        "The phrase selects a small part of a larger surviving body of evidence.": "'What little evidence survived' denotes the small surviving total, not a selected fraction of a larger surviving collection.",
+        "The phrase gathers the small surviving amount as the sentence's subject.": "The phrase means the small amount of evidence that survived, and that amount is the subject of 'was insufficient'.",
         "The phrase asks how much evidence survived before judging its quality.": "This is a noun-like relative construction, not an indirect question about quantity.",
-        "The phrase limits insufficiency to evidence deleted rather than evidence retained.": "Survived identifies retained evidence; insufficiency is predicated of that evidence, not the deleted material."
+        "The phrase limits insufficiency to evidence deleted rather than evidence retained.": "'Survived' identifies retained evidence; insufficiency is predicated of that evidence, not the deleted material."
       },
       "audit": {
         "status": "reviewed",
@@ -3577,7 +3577,7 @@
     {
       "id": "coverage-relative-clauses-c2-3236",
       "level": "C2",
-      "setupText": "Choose the distinction between the two uses of what.",
+      "setupText": "Choose the distinction between the two uses of 'what'.",
       "taskText": "A: We archived what the inspector submitted. B: We asked what the inspector submitted.",
       "options": [
         "A refers to submitted material; B presents a question about its identity.",
@@ -3586,11 +3586,11 @@
         "Both uses refer to material that the speaker physically stored."
       ],
       "answer": "A refers to submitted material; B presents a question about its identity.",
-      "explanation": "In A, what... functions like the material that and is archived; in B, it supplies the content of an indirect question.",
+      "explanation": "In A, 'what...' functions like 'the material that' and is archived; in B, it supplies the content of an indirect question.",
       "rationales": {
-        "A refers to submitted material; B presents a question about its identity.": "In A, what... functions like the material that and is archived; in B, it supplies the content of an indirect question.",
-        "A questions whether submission occurred; B confirms that the material was archived.": "Archived reports an action on material, while asked does not establish any archiving.",
-        "Both uses ask the reader to identify the inspector's submission.": "Only asked introduces a question; archived takes the submitted material as its object.",
+        "A refers to submitted material; B presents a question about its identity.": "In A, 'what...' functions like 'the material that' and is archived; in B, it supplies the content of an indirect question.",
+        "A questions whether submission occurred; B confirms that the material was archived.": "'Archived' reports an action on material, while 'asked' does not establish any archiving.",
+        "Both uses ask the reader to identify the inspector's submission.": "Only 'asked' introduces a question; 'archived' takes the submitted material as its object.",
         "Both uses refer to material that the speaker physically stored.": "Storage is asserted in A, not in B, where the action is asking."
       },
       "audit": {
@@ -3670,7 +3670,7 @@
     {
       "id": "coverage-relative-clauses-c2-3239",
       "level": "C2",
-      "setupText": "Choose the reading of such information as in context.",
+      "setupText": "Choose the reading of 'such information as' in context.",
       "taskText": "The reviewer assessed the project using such information as the organizers were willing to release.",
       "options": [
         "The reviewer worked within the information the organizers were prepared to make available.",
@@ -3679,12 +3679,12 @@
         "The reviewer assessed examples of information rather than the project itself."
       ],
       "answer": "The reviewer worked within the information the organizers were prepared to make available.",
-      "explanation": "The as clause restricts the available information to what the organizers were willing to release; it need not mean a complete record.",
+      "explanation": "The 'as' clause restricts the available information to what the organizers were willing to release; it need not mean a complete record.",
       "rationales": {
-        "The reviewer chose information similar to material the organizers had withheld.": "Such...as identifies the available information here; it does not describe similarity to withheld material.",
+        "The reviewer chose information similar to material the organizers had withheld.": "'Such...as' identifies the available information here; it does not describe similarity to withheld material.",
         "The organizers released the information that the reviewer had already assessed.": "The relative limits the information by willingness to release it, not by an earlier review of that information.",
-        "The reviewer assessed examples of information rather than the project itself.": "Such information as is not an examples list here, and project remains the object of assessed.",
-        "The reviewer worked within the information the organizers were prepared to make available.": "The as clause restricts the available information to what the organizers were willing to release; it need not mean a complete record."
+        "The reviewer assessed examples of information rather than the project itself.": "'Such information as' is not an examples list here, and 'project' remains the object of 'assessed'.",
+        "The reviewer worked within the information the organizers were prepared to make available.": "The 'as' clause restricts the available information to what the organizers were willing to release; it need not mean a complete record."
       },
       "audit": {
         "status": "reviewed",

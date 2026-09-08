@@ -197,7 +197,7 @@
     {
       "id": "coverage-question-forms-a1-2767",
       "level": "A1",
-      "setupText": "Choose the question answered by At six this evening.",
+      "setupText": "Choose the question answered by 'At six this evening'.",
       "taskText": "You are asking about a bakery's closing time.",
       "options": [
         "Where does the bakery close?",
@@ -206,12 +206,12 @@
         "Who closes the bakery?"
       ],
       "answer": "When does the bakery close?",
-      "explanation": "When asks for time, so At six this evening directly answers it.",
+      "explanation": "'When' asks for time, so 'At six this evening' directly answers it.",
       "rationales": {
-        "Where does the bakery close?": "Where asks for a place, not a closing time.",
-        "Why does the bakery close?": "Why asks for the reason for closing, not when it happens.",
-        "Who closes the bakery?": "Who asks for the person responsible for closing.",
-        "When does the bakery close?": "When asks for time, so At six this evening directly answers it."
+        "Where does the bakery close?": "'Where' asks for a place, not a closing time.",
+        "Why does the bakery close?": "'Why' asks for the reason for closing, not when it happens.",
+        "Who closes the bakery?": "'Who' asks for the person responsible for closing.",
+        "When does the bakery close?": "'When' asks for time, so 'At six this evening' directly answers it."
       },
       "audit": {
         "status": "reviewed",
@@ -453,7 +453,7 @@
     {
       "id": "coverage-question-forms-a1-2775",
       "level": "A1",
-      "setupText": "Answer about the shoes using a pronoun and the matching form of be.",
+      "setupText": "Answer about the shoes using a pronoun and the matching form of 'be'.",
       "taskText": "'Are these shoes yours?' 'No, ___.'",
       "options": [
         "it isn't",
@@ -462,12 +462,12 @@
         "they aren't"
       ],
       "answer": "they aren't",
-      "explanation": "They refers to the plural shoes, and aren't gives the matching negative answer.",
+      "explanation": "'They' refers to the plural shoes, and \"aren't\" gives the matching negative answer.",
       "rationales": {
-        "it isn't": "It is singular, but the question refers to plural shoes.",
-        "they doesn't": "Doesn't neither agrees with they nor matches the question's form of be.",
-        "they don't": "Don't belongs to a do-question; this question uses are.",
-        "they aren't": "They refers to the plural shoes, and aren't gives the matching negative answer."
+        "it isn't": "'It' is singular, but the question refers to plural shoes.",
+        "they doesn't": "\"Doesn't\" neither agrees with 'they' nor matches the question's form of 'be'.",
+        "they don't": "\"Don't\" belongs to a do-question; this question uses 'are'.",
+        "they aren't": "'They' refers to the plural shoes, and \"aren't\" gives the matching negative answer."
       },
       "audit": {
         "status": "reviewed",
@@ -773,7 +773,7 @@
     {
       "id": "coverage-question-forms-a2-2785",
       "level": "A2",
-      "setupText": "Choose the question answered by Twice a week.",
+      "setupText": "Choose the question answered by 'Twice a week'.",
       "taskText": "You are discussing a friend's swimming routine.",
       "options": [
         "How long do you swim for?",
@@ -782,12 +782,12 @@
         "How do you get to the pool?"
       ],
       "answer": "How often do you go swimming?",
-      "explanation": "How often asks for frequency, which twice a week supplies.",
+      "explanation": "'How often' asks for frequency, which 'twice a week' supplies.",
       "rationales": {
-        "How long do you swim for?": "How long asks for the duration of swimming, such as an hour.",
-        "How often do you go swimming?": "How often asks for frequency, which twice a week supplies.",
-        "How far do you swim?": "How far asks for distance rather than the number of visits per week.",
-        "How do you get to the pool?": "How do you get there asks about transport, not the routine's frequency."
+        "How long do you swim for?": "'How long' asks for the duration of swimming, such as an hour.",
+        "How often do you go swimming?": "'How often' asks for frequency, which 'twice a week' supplies.",
+        "How far do you swim?": "'How far' asks for distance rather than the number of visits per week.",
+        "How do you get to the pool?": "'How do you get there' asks about transport, not the routine's frequency."
       },
       "audit": {
         "status": "reviewed",
@@ -933,7 +933,7 @@
     {
       "id": "coverage-question-forms-a2-2790",
       "level": "A2",
-      "setupText": "Choose the usual direct question with be going to about a planned stay.",
+      "setupText": "Choose the usual direct question with 'be going to' about a planned stay.",
       "taskText": "You want to know your friend's intended accommodation for the weekend.",
       "options": [
         "Where do you going to stay?",
@@ -942,12 +942,12 @@
         "Where are you go to stay?"
       ],
       "answer": "Where are you going to stay?",
-      "explanation": "Are comes before you, followed by going to and the base verb stay.",
+      "explanation": "'Are' comes before 'you', followed by 'going to' and the base verb 'stay'.",
       "rationales": {
-        "Where do you going to stay?": "Going to needs a form of be, not do, in this future-plan construction.",
-        "Where are you going stay?": "Keep to between going and the base verb stay.",
-        "Where are you going to stay?": "Are comes before you, followed by going to and the base verb stay.",
-        "Where are you go to stay?": "After are in this construction, use going to rather than go to."
+        "Where do you going to stay?": "'Going to' needs a form of 'be', not 'do', in this future-plan construction.",
+        "Where are you going stay?": "Keep 'to' between 'going' and the base verb 'stay'.",
+        "Where are you going to stay?": "'Are' comes before 'you', followed by 'going to' and the base verb 'stay'.",
+        "Where are you go to stay?": "After 'are' in this construction, use 'going to' rather than 'go to'."
       },
       "audit": {
         "status": "reviewed",
@@ -1125,7 +1125,7 @@
     {
       "id": "coverage-question-forms-a2-2796",
       "level": "A2",
-      "setupText": "Complete the question using the have got construction.",
+      "setupText": "Complete the question using the 'have got' construction.",
       "taskText": "___ your sister got a spare helmet?",
       "options": [
         "Does",
@@ -1134,12 +1134,12 @@
         "Have"
       ],
       "answer": "Has",
-      "explanation": "Has agrees with your sister and comes before the subject in Has your sister got ...?",
+      "explanation": "'Has' agrees with 'your sister' and comes before the subject in 'Has your sister got ...?'",
       "rationales": {
-        "Has": "Has agrees with your sister and comes before the subject in Has your sister got ...?",
-        "Does": "Does would require have rather than got: Does your sister have ...? That is a different valid construction.",
-        "Is": "Is does not form a possession question with got in this construction.",
-        "Have": "Have does not agree with the singular subject your sister; use has."
+        "Has": "'Has' agrees with 'your sister' and comes before the subject in 'Has your sister got ...?'",
+        "Does": "'Does' would require 'have' rather than 'got': 'Does your sister have ...?' That is a different valid construction.",
+        "Is": "'Is' does not form a possession question with 'got' in this construction.",
+        "Have": "'Have' does not agree with the singular subject 'your sister'; use 'has'."
       },
       "audit": {
         "status": "reviewed",
@@ -1221,7 +1221,7 @@
     {
       "id": "coverage-question-forms-a2-2799",
       "level": "A2",
-      "setupText": "Complete the standard embedded question after Could you tell me.",
+      "setupText": "Complete the standard embedded question after 'Could you tell me'.",
       "taskText": "Could you tell me ___?",
       "options": [
         "where is the taxi rank",
@@ -1230,12 +1230,12 @@
         "where the taxi rank are"
       ],
       "answer": "where the taxi rank is",
-      "explanation": "Inside Could you tell me, use where plus the subject and then is.",
+      "explanation": "Inside 'Could you tell me', use 'where' plus the subject and then 'is'.",
       "rationales": {
-        "where is the taxi rank": "The embedded where-clause uses subject before verb, unlike the direct question Where is the taxi rank?",
-        "where does the taxi rank is": "Do not add does to is; the embedded clause needs the taxi rank is.",
-        "where the taxi rank are": "The singular taxi rank takes is, not are.",
-        "where the taxi rank is": "Inside Could you tell me, use where plus the subject and then is."
+        "where is the taxi rank": "The embedded where-clause uses subject before verb, unlike the direct question 'Where is the taxi rank?'",
+        "where does the taxi rank is": "Do not add 'does' to 'is'; the embedded clause needs 'the taxi rank is'.",
+        "where the taxi rank are": "The singular 'taxi rank' takes 'is', not 'are'.",
+        "where the taxi rank is": "Inside 'Could you tell me', use 'where' plus the subject and then 'is'."
       },
       "audit": {
         "status": "reviewed",
@@ -1413,7 +1413,7 @@
     {
       "id": "coverage-question-forms-b1-2805",
       "level": "B1",
-      "setupText": "The guest does not eat fish. Choose the clear negative answer with matching do.",
+      "setupText": "The guest does not eat fish. Choose the clear negative answer with matching 'do'.",
       "taskText": "The host asks, 'Don't you eat fish?'",
       "options": [
         "Yes, I do. I'm vegetarian.",
@@ -1422,12 +1422,12 @@
         "Yes, I don't. I'm vegetarian."
       ],
       "answer": "No, I don't. I'm vegetarian.",
-      "explanation": "No, I don't denies eating fish; the negative wording of the question does not reverse the answer's polarity.",
+      "explanation": "\"No, I don't\" denies eating fish; the negative wording of the question does not reverse the answer's polarity.",
       "rationales": {
-        "Yes, I do. I'm vegetarian.": "Yes, I do affirms eating fish, which contradicts the guest's stated diet.",
-        "No, I don't. I'm vegetarian.": "No, I don't denies eating fish; the negative wording of the question does not reverse the answer's polarity.",
-        "No, I do. I'm vegetarian.": "No conflicts with the affirmative I do in this ordinary short answer.",
-        "Yes, I don't. I'm vegetarian.": "In this standard short-answer pattern, I don't goes with no, not yes."
+        "Yes, I do. I'm vegetarian.": "'Yes, I do' affirms eating fish, which contradicts the guest's stated diet.",
+        "No, I don't. I'm vegetarian.": "\"No, I don't\" denies eating fish; the negative wording of the question does not reverse the answer's polarity.",
+        "No, I do. I'm vegetarian.": "'No' conflicts with the affirmative 'I do' in this ordinary short answer.",
+        "Yes, I don't. I'm vegetarian.": "In this standard short-answer pattern, \"I don't\" goes with 'no', not 'yes'."
       },
       "audit": {
         "status": "reviewed",
@@ -1509,7 +1509,7 @@
     {
       "id": "coverage-question-forms-b1-2808",
       "level": "B1",
-      "setupText": "Complete the conventional tag after Let's in standard British English.",
+      "setupText": "Complete the conventional tag after \"Let's\" in standard British English.",
       "taskText": "Let's compare the two fabric samples in daylight, ___?",
       "options": [
         "shall we",
@@ -1518,12 +1518,12 @@
         "won't they"
       ],
       "answer": "shall we",
-      "explanation": "Let's proposes joint action and conventionally takes shall we as its tag.",
+      "explanation": "\"Let's\" proposes joint action and conventionally takes 'shall we' as its tag.",
       "rationales": {
-        "shall we": "Let's proposes joint action and conventionally takes shall we as its tag.",
-        "do we": "Do we would check a present action statement; it is not the conventional tag for this let's proposal.",
-        "are we": "Are we does not match the let's proposal and would need a different main-clause structure.",
-        "won't they": "They excludes the speaker's joint we and does not form the tag for let's."
+        "shall we": "\"Let's\" proposes joint action and conventionally takes 'shall we' as its tag.",
+        "do we": "'Do we' would check a present action statement; it is not the conventional tag for this \"let's\" proposal.",
+        "are we": "'Are we' does not match the \"let's\" proposal and would need a different main-clause structure.",
+        "won't they": "'They' excludes the speaker's joint 'we' and does not form the tag for \"let's\"."
       },
       "audit": {
         "status": "reviewed",
@@ -1573,7 +1573,7 @@
     {
       "id": "coverage-question-forms-b1-2810",
       "level": "B1",
-      "setupText": "Choose the question answered by Five years ago.",
+      "setupText": "Choose the question answered by 'Five years ago'.",
       "taskText": "You are asking about a friend's move to this city.",
       "options": [
         "How long are you staying in this city?",
@@ -1582,12 +1582,12 @@
         "How often do you move between cities?"
       ],
       "answer": "How long ago did you move to this city?",
-      "explanation": "How long ago asks for elapsed time since the past event, which five years ago supplies.",
+      "explanation": "'How long ago' asks for elapsed time since the past event, which 'five years ago' supplies.",
       "rationales": {
         "How long are you staying in this city?": "This asks for a stay's duration, not the time elapsed since a completed move.",
-        "How soon will you move to this city?": "How soon with will asks about a future move, whereas ago points into the past.",
-        "How long ago did you move to this city?": "How long ago asks for elapsed time since the past event, which five years ago supplies.",
-        "How often do you move between cities?": "How often asks for frequency across repeated moves, not the date of one move."
+        "How soon will you move to this city?": "'How soon' with 'will' asks about a future move, whereas 'ago' points into the past.",
+        "How long ago did you move to this city?": "'How long ago' asks for elapsed time since the past event, which 'five years ago' supplies.",
+        "How often do you move between cities?": "'How often' asks for frequency across repeated moves, not the date of one move."
       },
       "audit": {
         "status": "reviewed",
@@ -1669,7 +1669,7 @@
     {
       "id": "coverage-question-forms-b1-2813",
       "level": "B1",
-      "setupText": "Complete the ordinary embedded question without emphatic do.",
+      "setupText": "Complete the ordinary embedded question without emphatic 'do'.",
       "taskText": "Do you know who ___ the narrow strip of land behind the garages?",
       "options": [
         "does own",
@@ -1678,12 +1678,12 @@
         "owning"
       ],
       "answer": "owns",
-      "explanation": "Who is the subject of owns, so no additional question helper is required inside Do you know ...?",
+      "explanation": "'Who' is the subject of 'owns', so no additional question helper is required inside 'Do you know ...?'",
       "rationales": {
-        "does own": "Does own can be used emphatically in some contexts; this task asks for the ordinary unemphatic embedded form owns.",
-        "owns": "Who is the subject of owns, so no additional question helper is required inside Do you know ...?",
-        "do owns": "Do owns is an invalid combination: a do-form takes a base verb, not owns.",
-        "owning": "Owning alone cannot serve as the finite verb after the subject who here."
+        "does own": "'Does own' can be used emphatically in some contexts; this task asks for the ordinary unemphatic embedded form 'owns'.",
+        "owns": "'Who' is the subject of 'owns', so no additional question helper is required inside 'Do you know ...?'",
+        "do owns": "'Do owns' is an invalid combination: a do-form takes a base verb, not 'owns'.",
+        "owning": "'Owning' alone cannot serve as the finite verb after the subject 'who' here."
       },
       "audit": {
         "status": "reviewed",
@@ -1797,7 +1797,7 @@
     {
       "id": "coverage-question-forms-b1-2817",
       "level": "B1",
-      "setupText": "Choose the usual direct question using will and the passive.",
+      "setupText": "Choose the usual direct question using 'will' and the passive.",
       "taskText": "You want the delivery time for a set of replacement shelves.",
       "options": [
         "When will be delivered the shelves?",
@@ -1806,12 +1806,12 @@
         "When will the shelves be delivered?"
       ],
       "answer": "When will the shelves be delivered?",
-      "explanation": "Will moves before the shelves while the passive sequence be delivered remains after the subject.",
+      "explanation": "'Will' moves before 'the shelves' while the passive sequence 'be delivered' remains after the subject.",
       "rationales": {
-        "When will be delivered the shelves?": "In the ordinary question, only will precedes the subject; be delivered stays after the shelves.",
-        "When will the shelves be delivered?": "Will moves before the shelves while the passive sequence be delivered remains after the subject.",
-        "When will the shelves delivered?": "The passive needs be before delivered after will.",
-        "When do the shelves will be delivered?": "Do is not added when will already forms the question."
+        "When will be delivered the shelves?": "In the ordinary question, only 'will' precedes the subject; 'be delivered' stays after 'the shelves'.",
+        "When will the shelves be delivered?": "'Will' moves before 'the shelves' while the passive sequence 'be delivered' remains after the subject.",
+        "When will the shelves delivered?": "The passive needs 'be' before 'delivered' after 'will'.",
+        "When do the shelves will be delivered?": "'Do' is not added when 'will' already forms the question."
       },
       "audit": {
         "status": "reviewed",
@@ -1925,7 +1925,7 @@
     {
       "id": "coverage-question-forms-b2-2821",
       "level": "B2",
-      "setupText": "Choose the ordinary informal standard-English construction with How come.",
+      "setupText": "Choose the ordinary informal standard-English construction with 'How come'.",
       "taskText": "You are surprised that a sold-out performance has so many empty seats.",
       "options": [
         "How come there are so many empty seats?",
@@ -1934,12 +1934,12 @@
         "How come there is so many empty seats?"
       ],
       "answer": "How come there are so many empty seats?",
-      "explanation": "How come introduces a reason question with uninverted there are in this standard informal pattern.",
+      "explanation": "'How come' introduces a reason question with uninverted 'there are' in this standard informal pattern.",
       "rationales": {
-        "How come are there so many empty seats?": "Unlike why, how come normally takes statement order in this construction: there are, not are there.",
-        "How come there are so many empty seats?": "How come introduces a reason question with uninverted there are in this standard informal pattern.",
-        "How come does there are so many empty seats?": "Does cannot be added to are, and how come does not require do-support here.",
-        "How come there is so many empty seats?": "The plural expression so many empty seats requires are in the existential clause."
+        "How come are there so many empty seats?": "Unlike 'why', 'how come' normally takes statement order in this construction: 'there are', not 'are there'.",
+        "How come there are so many empty seats?": "'How come' introduces a reason question with uninverted 'there are' in this standard informal pattern.",
+        "How come does there are so many empty seats?": "'Does' cannot be added to 'are', and 'how come' does not require do-support here.",
+        "How come there is so many empty seats?": "The plural expression 'so many empty seats' requires 'are' in the existential clause."
       },
       "audit": {
         "status": "reviewed",
@@ -2149,7 +2149,7 @@
     {
       "id": "coverage-question-forms-b2-2828",
       "level": "B2",
-      "setupText": "Use the standard formal embedded yes-no construction after on.",
+      "setupText": "Use the standard formal embedded yes-no construction after 'on'.",
       "taskText": "Our departure depends on ___ the mountain road is open.",
       "options": [
         "that",
@@ -2158,12 +2158,12 @@
         "whether"
       ],
       "answer": "whether",
-      "explanation": "Whether introduces the unresolved yes-no issue governed by the preposition on.",
+      "explanation": "'Whether' introduces the unresolved yes-no issue governed by the preposition 'on'.",
       "rationales": {
-        "whether": "Whether introduces the unresolved yes-no issue governed by the preposition on.",
-        "that": "On that the road is open does not form the required prepositional question complement; a fuller phrase such as on the fact that would express a different structure.",
-        "which": "Which would require a choice of a noun or an appropriate gap, neither of which occurs before the complete clause the road is open.",
-        "what": "What does not introduce the yes-no status of the complete clause supplied here."
+        "whether": "'Whether' introduces the unresolved yes-no issue governed by the preposition 'on'.",
+        "that": "'On that the road is open' does not form the required prepositional question complement; a fuller phrase such as 'on the fact that' would express a different structure.",
+        "which": "'Which' would require a choice of a noun or an appropriate gap, neither of which occurs before the complete clause 'the road is open'.",
+        "what": "'What' does not introduce the yes-no status of the complete clause supplied here."
       },
       "audit": {
         "status": "reviewed",
@@ -2694,7 +2694,7 @@
       "id": "coverage-question-forms-c1-2845",
       "level": "C1",
       "setupText": "Compare the two deliveries of the same words.",
-      "taskText": "'Is the commentary in French or Spanish?' In A, the voice rises over the whole question. In B, it rises on French and falls on Spanish.",
+      "taskText": "'Is the commentary in French or Spanish?' In A, the voice rises over the whole question. In B, it rises on 'French' and falls on 'Spanish'.",
       "options": [
         "A asks which language; B checks whether either named language is used.",
         "Both deliveries ask whether French and Spanish are used simultaneously.",
@@ -2706,7 +2706,7 @@
       "rationales": {
         "A asks which language; B checks whether either named language is used.": "This reverses the usual contrast between a polar reading with final rise and an alternative reading with separate rise and fall.",
         "A can check whether either language is used; B normally requests a choice between them.": "The whole-question rise can support a yes-no reading, while the rise-fall pattern normally marks an alternative question asking which language.",
-        "Both deliveries ask whether French and Spanish are used simultaneously.": "Or does not become and merely through either intonation pattern; simultaneous use is not the shared question.",
+        "Both deliveries ask whether French and Spanish are used simultaneously.": "'Or' does not become 'and' merely through either intonation pattern; simultaneous use is not the shared question.",
         "B changes the question into an assertion that Spanish is the language used.": "A fall at the end of an alternative question does not select its last alternative as a factual assertion."
       },
       "audit": {
@@ -3333,7 +3333,7 @@
     {
       "id": "coverage-question-forms-c2-2865",
       "level": "C2",
-      "setupText": "Which account of the final who is defensible without additional context?",
+      "setupText": "Which account of the final 'who' is defensible without additional context?",
       "taskText": "'Someone told me that someone had borrowed my camera, but I can't remember who.'",
       "options": [
         "It can refer to the teller, but not to the borrower.",
@@ -3342,11 +3342,11 @@
         "It can ask for the teller or the borrower, depending on context."
       ],
       "answer": "It can ask for the teller or the borrower, depending on context.",
-      "explanation": "The omitted question can be who told me or who had borrowed the camera; context would need to choose between those recoveries.",
+      "explanation": "The omitted question can be 'who told me' or 'who had borrowed the camera'; context would need to choose between those recoveries.",
       "rationales": {
-        "It can refer to the teller, but not to the borrower.": "Remember who can recover the borrower question as well as the teller question; the nearest clause does not force one interpretation.",
-        "It can ask for the teller or the borrower, depending on context.": "The omitted question can be who told me or who had borrowed the camera; context would need to choose between those recoveries.",
-        "It can refer to the borrower, but not to the teller.": "The outer someone also supplies a possible antecedent for the missing question, so the borrower is not the sole possible target.",
+        "It can refer to the teller, but not to the borrower.": "'Remember who' can recover the borrower question as well as the teller question; the nearest clause does not force one interpretation.",
+        "It can ask for the teller or the borrower, depending on context.": "The omitted question can be 'who told me' or 'who had borrowed the camera'; context would need to choose between those recoveries.",
+        "It can refer to the borrower, but not to the teller.": "The outer 'someone' also supplies a possible antecedent for the missing question, so the borrower is not the sole possible target.",
         "It identifies the teller and borrower as the same forgotten person.": "Ambiguity between two roles does not assert that one person filled both of them."
       },
       "audit": {

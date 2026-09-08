@@ -98,7 +98,7 @@
     {
       "id": "coverage-pronouns-and-reference-a1-2644",
       "level": "A1",
-      "setupText": "Choose the pronoun for the speaker after call, in standard English.",
+      "setupText": "Choose the pronoun for the speaker after 'call', in standard English.",
       "taskText": "I finish work at six. Please call ___ after that.",
       "options": [
         "I",
@@ -107,12 +107,12 @@
         "mine"
       ],
       "answer": "me",
-      "explanation": "Me is the object of call and refers to the speaker.",
+      "explanation": "'Me' is the object of 'call' and refers to the speaker.",
       "rationales": {
-        "I": "I is the subject form, but the speaker receives the call here.",
-        "my": "My needs a following noun, such as my phone.",
-        "mine": "Mine refers to something belonging to the speaker, not the person being called.",
-        "me": "Me is the object of call and refers to the speaker."
+        "I": "'I' is the subject form, but the speaker receives the call here.",
+        "my": "'My' needs a following noun, such as 'my phone'.",
+        "mine": "'Mine' refers to something belonging to the speaker, not the person being called.",
+        "me": "'Me' is the object of 'call' and refers to the speaker."
       },
       "audit": {
         "status": "reviewed",
@@ -160,7 +160,7 @@
     {
       "id": "coverage-pronouns-and-reference-a1-2646",
       "level": "A1",
-      "setupText": "Choose the word that means my bag without repeating bag.",
+      "setupText": "Choose the word that means 'my bag' without repeating 'bag'.",
       "taskText": "The blue bag belongs to me. It is ___.",
       "options": [
         "my",
@@ -169,12 +169,12 @@
         "I"
       ],
       "answer": "mine",
-      "explanation": "Mine replaces my bag and can stand after is.",
+      "explanation": "'Mine' replaces 'my bag' and can stand after 'is'.",
       "rationales": {
-        "my": "My must introduce a noun, as in my bag.",
-        "mine": "Mine replaces my bag and can stand after is.",
-        "me": "Me refers to the speaker, not to something the speaker owns.",
-        "I": "I is a subject pronoun and does not express bag ownership here."
+        "my": "'My' must introduce a noun, as in 'my bag'.",
+        "mine": "'Mine' replaces 'my bag' and can stand after 'is'.",
+        "me": "'Me' refers to the speaker, not to something the speaker owns.",
+        "I": "'I' is a subject pronoun and does not express bag ownership here."
       },
       "audit": {
         "status": "reviewed",
@@ -253,7 +253,7 @@
     {
       "id": "coverage-pronouns-and-reference-a1-2649",
       "level": "A1",
-      "setupText": "Choose the word that means her coat without repeating coat.",
+      "setupText": "Choose the word that means 'her coat' without repeating 'coat'.",
       "taskText": "This coat belongs to my sister. It is ___.",
       "options": [
         "her",
@@ -262,12 +262,12 @@
         "herself"
       ],
       "answer": "hers",
-      "explanation": "Hers can stand alone to mean her coat.",
+      "explanation": "'Hers' can stand alone to mean 'her coat'.",
       "rationales": {
-        "hers": "Hers can stand alone to mean her coat.",
-        "her": "Her shows possession before a noun, but the noun coat is omitted here.",
-        "she": "She refers to the sister as a person, not her coat.",
-        "herself": "Herself refers back to the sister, not to a possession."
+        "hers": "'Hers' can stand alone to mean 'her coat'.",
+        "her": "'Her' shows possession before a noun, but the noun 'coat' is omitted here.",
+        "she": "'She' refers to the sister as a person, not her coat.",
+        "herself": "'Herself' refers back to the sister, not to a possession."
       },
       "audit": {
         "status": "reviewed",
@@ -408,7 +408,7 @@
     {
       "id": "coverage-pronouns-and-reference-a1-2654",
       "level": "A1",
-      "setupText": "Choose the word that means his phone without repeating phone.",
+      "setupText": "Choose the word that means 'his phone' without repeating 'phone'.",
       "taskText": "This phone belongs to my brother. The phone is ___.",
       "options": [
         "he",
@@ -417,12 +417,12 @@
         "his"
       ],
       "answer": "his",
-      "explanation": "His can stand alone to mean his phone; its form does not change when the noun is omitted.",
+      "explanation": "'His' can stand alone to mean 'his phone'; its form does not change when the noun is omitted.",
       "rationales": {
-        "he": "He refers to the brother as a person and does not express ownership here.",
-        "his": "His can stand alone to mean his phone; its form does not change when the noun is omitted.",
-        "him": "Him is an object pronoun, not a possessive form.",
-        "himself": "Himself refers to the brother, not to an object belonging to him."
+        "he": "'He' refers to the brother as a person and does not express ownership here.",
+        "his": "'His' can stand alone to mean 'his phone'; its form does not change when the noun is omitted.",
+        "him": "'Him' is an object pronoun, not a possessive form.",
+        "himself": "'Himself' refers to the brother, not to an object belonging to him."
       },
       "audit": {
         "status": "reviewed",
@@ -594,7 +594,7 @@
     {
       "id": "coverage-pronouns-and-reference-a1-2660",
       "level": "A1",
-      "setupText": "Choose the phrase for an apartment belonging to the speaker and his partner, without repeating apartment.",
+      "setupText": "Choose the phrase for an apartment belonging to the speaker and his partner, without repeating 'apartment'.",
       "taskText": "My partner and I own this apartment. It is ___.",
       "options": [
         "ours",
@@ -603,12 +603,12 @@
         "we"
       ],
       "answer": "ours",
-      "explanation": "Ours stands alone for our apartment and includes the speaker among the owners.",
+      "explanation": "'Ours' stands alone for 'our apartment' and includes the speaker among the owners.",
       "rationales": {
-        "us": "Us refers to the two owners, not to their apartment.",
-        "our": "Our needs a noun after it, such as our apartment.",
-        "we": "We is the subject form for the owners and does not express possession after is.",
-        "ours": "Ours stands alone for our apartment and includes the speaker among the owners."
+        "us": "'Us' refers to the two owners, not to their apartment.",
+        "our": "'Our' needs a noun after it, such as 'our apartment'.",
+        "we": "'We' is the subject form for the owners and does not express possession after 'is'.",
+        "ours": "'Ours' stands alone for 'our apartment' and includes the speaker among the owners."
       },
       "audit": {
         "status": "reviewed",
@@ -687,7 +687,7 @@
     {
       "id": "coverage-pronouns-and-reference-a2-2663",
       "level": "A2",
-      "setupText": "Choose the word replacing the plural noun cups in standard English.",
+      "setupText": "Choose the word replacing the plural noun 'cups' in standard English.",
       "taskText": "The large cups are on the shelf. The small ___ are in the cupboard.",
       "options": [
         "ones",
@@ -696,12 +696,12 @@
         "it"
       ],
       "answer": "ones",
-      "explanation": "Ones replaces plural cups and can follow the small.",
+      "explanation": "'Ones' replaces plural 'cups' and can follow 'the small'.",
       "rationales": {
-        "one": "One is singular; the sentence refers to several small cups and uses are.",
-        "them": "Them cannot follow the adjective in the small them; use a noun substitute.",
-        "it": "It refers to one particular thing and cannot follow the small as a noun substitute.",
-        "ones": "Ones replaces plural cups and can follow the small."
+        "one": "'One' is singular; the sentence refers to several small cups and uses 'are'.",
+        "them": "'Them' cannot follow the adjective in 'the small them'; use a noun substitute.",
+        "it": "'It' refers to one particular thing and cannot follow 'the small' as a noun substitute.",
+        "ones": "'Ones' replaces plural 'cups' and can follow 'the small'."
       },
       "audit": {
         "status": "reviewed",
@@ -749,7 +749,7 @@
     {
       "id": "coverage-pronouns-and-reference-a2-2665",
       "level": "A2",
-      "setupText": "Choose what mine refers to in my reply.",
+      "setupText": "Choose what 'mine' refers to in my reply.",
       "taskText": "Lena says, 'I forgot my notebook.' I reply, 'You can borrow mine.'",
       "options": [
         "The notebook belonging to me, the person replying.",
@@ -758,11 +758,11 @@
         "A notebook belonging to someone neither speaker has mentioned."
       ],
       "answer": "The notebook belonging to me, the person replying.",
-      "explanation": "Mine means my notebook; its owner is the speaker of the reply.",
+      "explanation": "'Mine' means 'my notebook'; its owner is the speaker of the reply.",
       "rationales": {
-        "Lena's missing notebook.": "Mine is used by the replying speaker, so it does not refer to Lena's notebook.",
-        "The notebook belonging to me, the person replying.": "Mine means my notebook; its owner is the speaker of the reply.",
-        "Both notebooks together.": "Mine identifies the speaker's possession, not a combined group of both notebooks.",
+        "Lena's missing notebook.": "'Mine' is used by the replying speaker, so it does not refer to Lena's notebook.",
+        "The notebook belonging to me, the person replying.": "'Mine' means 'my notebook'; its owner is the speaker of the reply.",
+        "Both notebooks together.": "'Mine' identifies the speaker's possession, not a combined group of both notebooks.",
         "A notebook belonging to someone neither speaker has mentioned.": "The first-person possessive identifies the owner as the person replying, not an unspecified third person."
       },
       "audit": {
@@ -842,7 +842,7 @@
     {
       "id": "coverage-pronouns-and-reference-a2-2668",
       "level": "A2",
-      "setupText": "Choose who himself refers to.",
+      "setupText": "Choose who 'himself' refers to.",
       "taskText": "Ravi checked himself in the mirror before his interview.",
       "options": [
         "The interviewer, who is waiting for Ravi.",
@@ -851,12 +851,12 @@
         "The person who owns the mirror."
       ],
       "answer": "Ravi, the person doing the checking.",
-      "explanation": "Himself refers back to Ravi, so Ravi looks at his own appearance.",
+      "explanation": "'Himself' refers back to Ravi, so Ravi looks at his own appearance.",
       "rationales": {
-        "Ravi, the person doing the checking.": "Himself refers back to Ravi, so Ravi looks at his own appearance.",
-        "The interviewer, who is waiting for Ravi.": "Himself refers back to the subject Ravi, not to another person at the interview.",
+        "Ravi, the person doing the checking.": "'Himself' refers back to Ravi, so Ravi looks at his own appearance.",
+        "The interviewer, who is waiting for Ravi.": "'Himself' refers back to the subject Ravi, not to another person at the interview.",
         "Another man standing beside Ravi.": "The reflexive does not introduce a second man; it makes Ravi both the checker and the person checked.",
-        "The person who owns the mirror.": "Owning the mirror is not stated and does not determine the reference of himself."
+        "The person who owns the mirror.": "Owning the mirror is not stated and does not determine the reference of 'himself'."
       },
       "audit": {
         "status": "reviewed",
@@ -873,7 +873,7 @@
     {
       "id": "coverage-pronouns-and-reference-a2-2669",
       "level": "A2",
-      "setupText": "Choose the meaning of by herself in this sentence.",
+      "setupText": "Choose the meaning of 'by herself' in this sentence.",
       "taskText": "Nora assembled the bookshelf by herself.",
       "options": [
         "She assembled it beside another woman.",
@@ -882,10 +882,10 @@
         "She asked another person to assemble it."
       ],
       "answer": "She assembled it without another person's help.",
-      "explanation": "In this task context, by herself describes Nora completing the assembly unaided.",
+      "explanation": "In this task context, 'by herself' describes Nora completing the assembly unaided.",
       "rationales": {
-        "She assembled it beside another woman.": "By herself is an expression for acting alone or unaided, not the location phrase beside her.",
-        "She assembled it without another person's help.": "In this task context, by herself describes Nora completing the assembly unaided.",
+        "She assembled it beside another woman.": "'By herself' is an expression for acting alone or unaided, not the location phrase 'beside her'.",
+        "She assembled it without another person's help.": "In this task context, 'by herself' describes Nora completing the assembly unaided.",
         "She assembled it for someone else's home.": "The phrase describes how she did the work, not who will use the bookshelf.",
         "She asked another person to assemble it.": "Nora is the person who assembled it, not merely the person who requested the work."
       },
@@ -904,7 +904,7 @@
     {
       "id": "coverage-pronouns-and-reference-a2-2670",
       "level": "A2",
-      "setupText": "Choose the pronoun showing that we prepared lunch for the same group as the subject we.",
+      "setupText": "Choose the pronoun showing that we prepared lunch for the same group as the subject 'we'.",
       "taskText": "The cafe was closed, so we made lunch for ___.",
       "options": [
         "themselves",
@@ -913,12 +913,12 @@
         "myself"
       ],
       "answer": "ourselves",
-      "explanation": "Ourselves makes the people preparing lunch and its intended recipients the same we group.",
+      "explanation": "'Ourselves' makes the people preparing lunch and its intended recipients the same 'we' group.",
       "rationales": {
-        "themselves": "Themselves refers back to a they group, not the subject we.",
-        "our": "Our needs a noun after it and cannot be the object of for alone.",
-        "ourselves": "Ourselves makes the people preparing lunch and its intended recipients the same we group.",
-        "myself": "Myself singles out the speaker and does not refer to the whole group represented by we."
+        "themselves": "'Themselves' refers back to a 'they' group, not the subject 'we'.",
+        "our": "'Our' needs a noun after it and cannot be the object of 'for' alone.",
+        "ourselves": "'Ourselves' makes the people preparing lunch and its intended recipients the same 'we' group.",
+        "myself": "'Myself' singles out the speaker and does not refer to the whole group represented by 'we'."
       },
       "audit": {
         "status": "reviewed",
@@ -966,7 +966,7 @@
     {
       "id": "coverage-pronouns-and-reference-a2-2672",
       "level": "A2",
-      "setupText": "Choose the pair that gives ownership first and it is second.",
+      "setupText": "Choose the pair that gives ownership first and 'it is' second.",
       "taskText": "My phone will not start. ___ screen is black. ___ completely dead.",
       "options": [
         "It's / Its",
@@ -975,12 +975,12 @@
         "Its / It's"
       ],
       "answer": "Its / It's",
-      "explanation": "Its shows that the screen belongs to the phone; it's is the contraction of it is in the final sentence.",
+      "explanation": "'Its' shows that the screen belongs to the phone; \"it's\" is the contraction of 'it is' in the final sentence.",
       "rationales": {
-        "Its / It's": "Its shows that the screen belongs to the phone; it's is the contraction of it is in the final sentence.",
-        "It's / Its": "This reverses the two forms: it is screen does not express ownership, and its cannot replace it is.",
-        "Its / Its": "The first form is correct, but the last sentence needs a verb: it's completely dead.",
-        "It's / It's": "The final contraction is correct, but the screen needs possessive its, without an apostrophe."
+        "Its / It's": "'Its' shows that the screen belongs to the phone; \"it's\" is the contraction of 'it is' in the final sentence.",
+        "It's / Its": "This reverses the two forms: 'it is screen' does not express ownership, and 'its' cannot replace 'it is'.",
+        "Its / Its": "The first form is correct, but the last sentence needs a verb: \"it's completely dead\".",
+        "It's / It's": "The final contraction is correct, but the screen needs possessive 'its', without an apostrophe."
       },
       "audit": {
         "status": "reviewed",
@@ -1214,7 +1214,7 @@
     {
       "id": "coverage-pronouns-and-reference-a2-2680",
       "level": "A2",
-      "setupText": "Choose what it and you refer to in my reply.",
+      "setupText": "Choose what 'it' and 'you' refer to in my reply.",
       "taskText": "Omar asks me for the address. I say, 'I will send it to you.'",
       "options": [
         "It means Omar; you means the address.",
@@ -1223,11 +1223,11 @@
         "It means a message already sent; you means Omar."
       ],
       "answer": "It means the address; you means Omar.",
-      "explanation": "It replaces the requested address, and you addresses Omar, the person who asked.",
+      "explanation": "'It' replaces the requested address, and 'you' addresses Omar, the person who asked.",
       "rationales": {
-        "It means the address; you means Omar.": "It replaces the requested address, and you addresses Omar, the person who asked.",
+        "It means the address; you means Omar.": "'It' replaces the requested address, and 'you' addresses Omar, the person who asked.",
         "It means Omar; you means the address.": "This reverses a thing reference and a direct personal address.",
-        "It means the address; you means the person speaking.": "The person speaking uses I; you refers to the listener Omar.",
+        "It means the address; you means the person speaking.": "The person speaking uses 'I'; 'you' refers to the listener Omar.",
         "It means a message already sent; you means Omar.": "The reply refers back to the requested address and describes a future action, not an earlier message."
       },
       "audit": {
@@ -1307,7 +1307,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2683",
       "level": "B1",
-      "setupText": "Choose what by themselves establishes, without assuming that the volunteers worked separately.",
+      "setupText": "Choose what 'by themselves' establishes, without assuming that the volunteers worked separately.",
       "taskText": "The four volunteers designed the poster by themselves.",
       "options": [
         "They designed it without help from people outside their group.",
@@ -1316,12 +1316,12 @@
         "They were physically far apart while designing it."
       ],
       "answer": "They designed it without help from people outside their group.",
-      "explanation": "By themselves can describe a group working unaided; it does not require its members to work individually.",
+      "explanation": "'By themselves' can describe a group working unaided; it does not require its members to work individually.",
       "rationales": {
-        "Each volunteer designed a separate poster.": "By themselves does not distribute a different poster to every volunteer; the sentence refers to the poster.",
+        "Each volunteer designed a separate poster.": "'By themselves' does not distribute a different poster to every volunteer; the sentence refers to the poster.",
         "They designed the poster for their personal use.": "The phrase concerns who did the work, not who will use the result.",
         "They were physically far apart while designing it.": "Without outside help does not establish separate locations.",
-        "They designed it without help from people outside their group.": "By themselves can describe a group working unaided; it does not require its members to work individually."
+        "They designed it without help from people outside their group.": "'By themselves' can describe a group working unaided; it does not require its members to work individually."
       },
       "audit": {
         "status": "reviewed",
@@ -1338,7 +1338,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2684",
       "level": "B1",
-      "setupText": "Choose what her own makes explicit about the car.",
+      "setupText": "Choose what 'her own' makes explicit about the car.",
       "taskText": "Instead of borrowing the company vehicle, Salma used her own car for the trip.",
       "options": [
         "Salma was the only person in the car.",
@@ -1347,11 +1347,11 @@
         "The company had bought a car especially for Salma."
       ],
       "answer": "The car belonged to Salma rather than the company.",
-      "explanation": "Her own emphasizes Salma's personal possession in contrast with the company vehicle.",
+      "explanation": "'Her own' emphasizes Salma's personal possession in contrast with the company vehicle.",
       "rationales": {
-        "The car belonged to Salma rather than the company.": "Her own emphasizes Salma's personal possession in contrast with the company vehicle.",
-        "Salma was the only person in the car.": "Own emphasizes possession; it does not establish that she travelled alone.",
-        "Salma drove without help learning the route.": "Her own car says nothing about navigation help or how she learned the route.",
+        "The car belonged to Salma rather than the company.": "'Her own' emphasizes Salma's personal possession in contrast with the company vehicle.",
+        "Salma was the only person in the car.": "'Own' emphasizes possession; it does not establish that she travelled alone.",
+        "Salma drove without help learning the route.": "'Her own car' says nothing about navigation help or how she learned the route.",
         "The company had bought a car especially for Salma.": "The stated contrast is between the company's vehicle and Salma's own car, not a new company purchase."
       },
       "audit": {
@@ -1369,7 +1369,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2685",
       "level": "B1",
-      "setupText": "Choose the person identified by whose in this sentence.",
+      "setupText": "Choose the person identified by 'whose' in this sentence.",
       "taskText": "Please contact the employee whose security pass was found in the lift.",
       "options": [
         "The employee who found someone else's pass.",
@@ -1378,10 +1378,10 @@
         "The employee who issued all the security passes."
       ],
       "answer": "The employee who owns the lost pass.",
-      "explanation": "Whose links security pass to the employee as its owner.",
+      "explanation": "'Whose' links 'security pass' to the employee as its owner.",
       "rationales": {
-        "The employee who found someone else's pass.": "Whose makes the pass belong to the employee; it does not identify that employee as the finder.",
-        "The employee who owns the lost pass.": "Whose links security pass to the employee as its owner.",
+        "The employee who found someone else's pass.": "'Whose' makes the pass belong to the employee; it does not identify that employee as the finder.",
+        "The employee who owns the lost pass.": "'Whose' links 'security pass' to the employee as its owner.",
         "The employee who operates the lift.": "The lift supplies the finding location, not the employee's job.",
         "The employee who issued all the security passes.": "Ownership of this pass does not identify who issued it or other passes."
       },
@@ -1431,7 +1431,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2687",
       "level": "B1",
-      "setupText": "Choose the role of it in this instruction.",
+      "setupText": "Choose the role of 'it' in this instruction.",
       "taskText": "It is important to lock the side door after the last delivery.",
       "options": [
         "It names the last delivery.",
@@ -1440,12 +1440,12 @@
         "It refers to a person responsible for deliveries."
       ],
       "answer": "It introduces an assessment of the action described later.",
-      "explanation": "Here it is a grammatical subject leading to to lock the side door; it need not refer back to an earlier object.",
+      "explanation": "Here 'it' is a grammatical subject leading to 'to lock the side door'; it need not refer back to an earlier object.",
       "rationales": {
-        "It names the last delivery.": "The importance concerns locking the door; it does not replace the noun delivery.",
+        "It names the last delivery.": "The importance concerns locking the door; it does not replace the noun 'delivery'.",
         "It refers to the side door as an important object.": "The sentence evaluates the action of locking the door, not the object's general importance.",
-        "It refers to a person responsible for deliveries.": "No person is represented by this it.",
-        "It introduces an assessment of the action described later.": "Here it is a grammatical subject leading to to lock the side door; it need not refer back to an earlier object."
+        "It refers to a person responsible for deliveries.": "No person is represented by this 'it'.",
+        "It introduces an assessment of the action described later.": "Here 'it' is a grammatical subject leading to 'to lock the side door'; it need not refer back to an earlier object."
       },
       "audit": {
         "status": "reviewed",
@@ -1462,7 +1462,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2688",
       "level": "B1",
-      "setupText": "Choose what This refers to in the second sentence.",
+      "setupText": "Choose what 'This' refers to in the second sentence.",
       "taskText": "Our train was cancelled at the last minute. This made us late for the concert.",
       "options": [
         "The people attending the concert.",
@@ -1471,11 +1471,11 @@
         "Our arrival at the concert before the train was cancelled."
       ],
       "answer": "The last-minute cancellation of our train.",
-      "explanation": "This can refer to the event described by the whole preceding sentence, not just to one noun.",
+      "explanation": "'This' can refer to the event described by the whole preceding sentence, not just to one noun.",
       "rationales": {
-        "The last-minute cancellation of our train.": "This can refer to the event described by the whole preceding sentence, not just to one noun.",
-        "The people attending the concert.": "This is singular event reference; it does not stand for the people represented by us.",
-        "The concert's location.": "No location has been supplied for this to refer to.",
+        "The last-minute cancellation of our train.": "'This' can refer to the event described by the whole preceding sentence, not just to one noun.",
+        "The people attending the concert.": "'This' is singular event reference; it does not stand for the people represented by 'us'.",
+        "The concert's location.": "No location has been supplied for 'this' to refer to.",
         "Our arrival at the concert before the train was cancelled.": "The sequence is reversed: the cancellation caused lateness, rather than following an earlier arrival."
       },
       "audit": {
@@ -1493,7 +1493,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2689",
       "level": "B1",
-      "setupText": "Choose the effect of herself in this sentence.",
+      "setupText": "Choose the effect of 'herself' in this sentence.",
       "taskText": "The owner herself answered the complaint, rather than leaving it to an assistant.",
       "options": [
         "It makes the owner the person receiving her own complaint.",
@@ -1502,10 +1502,10 @@
         "It emphasizes that the owner personally took the action."
       ],
       "answer": "It emphasizes that the owner personally took the action.",
-      "explanation": "The contrast with an assistant shows that herself highlights the owner's personal involvement.",
+      "explanation": "The contrast with an assistant shows that 'herself' highlights the owner's personal involvement.",
       "rationales": {
-        "It makes the owner the person receiving her own complaint.": "Herself adds emphasis to the subject owner; the object of answered is the complaint.",
-        "It emphasizes that the owner personally took the action.": "The contrast with an assistant shows that herself highlights the owner's personal involvement.",
+        "It makes the owner the person receiving her own complaint.": "'Herself' adds emphasis to the subject 'owner'; the object of 'answered' is the complaint.",
+        "It emphasizes that the owner personally took the action.": "The contrast with an assistant shows that 'herself' highlights the owner's personal involvement.",
         "It says that the owner wrote the complaint.": "The owner answered it; the sentence does not make her its author.",
         "It says that the owner was alone when she replied.": "Personal involvement does not establish that nobody else was present."
       },
@@ -1524,7 +1524,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2690",
       "level": "B1",
-      "setupText": "Choose who one and oneself refer to in this general advice.",
+      "setupText": "Choose who 'one' and 'oneself' refer to in this general advice.",
       "taskText": "With regular practice, one can teach oneself basic keyboard skills.",
       "options": [
         "Only the writer, describing a personal lesson already completed.",
@@ -1533,12 +1533,12 @@
         "Only the reader, whom the writer identifies as the sole person needing practice."
       ],
       "answer": "A person in general, learning without a separate teacher.",
-      "explanation": "Generic one means a person in general, and oneself refers back to that same person as the learner.",
+      "explanation": "Generic 'one' means a person in general, and 'oneself' refers back to that same person as the learner.",
       "rationales": {
-        "Only the writer, describing a personal lesson already completed.": "Generic one gives advice about a person in general; it does not report the writer's completed experience.",
-        "The writer and reader teaching one another as a pair.": "Oneself makes the learning self-directed, not reciprocal between a pair of people.",
-        "A person in general, learning without a separate teacher.": "Generic one means a person in general, and oneself refers back to that same person as the learner.",
-        "Only the reader, whom the writer identifies as the sole person needing practice.": "One does not single out the reader or state that nobody else needs practice."
+        "Only the writer, describing a personal lesson already completed.": "Generic 'one' gives advice about a person in general; it does not report the writer's completed experience.",
+        "The writer and reader teaching one another as a pair.": "'Oneself' makes the learning self-directed, not reciprocal between a pair of people.",
+        "A person in general, learning without a separate teacher.": "Generic 'one' means a person in general, and 'oneself' refers back to that same person as the learner.",
+        "Only the reader, whom the writer identifies as the sole person needing practice.": "'One' does not single out the reader or state that nobody else needs practice."
       },
       "audit": {
         "status": "reviewed",
@@ -1617,7 +1617,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2693",
       "level": "B1",
-      "setupText": "Choose the person represented by himself in the instruction Paul gave.",
+      "setupText": "Choose the person represented by 'himself' in the instruction Paul gave.",
       "taskText": "Paul asked Ahmed to introduce himself to the new neighbours.",
       "options": [
         "Paul, because he is the first name in the sentence.",
@@ -1626,12 +1626,12 @@
         "Paul and Ahmed together."
       ],
       "answer": "Ahmed, who was asked to give the introduction.",
-      "explanation": "Ahmed is the understood subject of to introduce, so himself refers to Ahmed in that action.",
+      "explanation": "Ahmed is the understood subject of 'to introduce', so himself refers to Ahmed in that action.",
       "rationales": {
-        "Paul, because he is the first name in the sentence.": "The action introduce is assigned to Ahmed; the first name is not automatically the reflexive's reference.",
-        "Ahmed, who was asked to give the introduction.": "Ahmed is the understood subject of to introduce, so himself refers to Ahmed in that action.",
-        "A neighbour whose name has not yet been given.": "Himself refers back to the person introducing, not to an unnamed recipient.",
-        "Paul and Ahmed together.": "Himself is singular and relates to Ahmed's introduction, not a joint introduction by both men."
+        "Paul, because he is the first name in the sentence.": "The action 'introduce' is assigned to Ahmed; the first name is not automatically the reflexive's reference.",
+        "Ahmed, who was asked to give the introduction.": "Ahmed is the understood subject of 'to introduce', so himself refers to Ahmed in that action.",
+        "A neighbour whose name has not yet been given.": "'Himself' refers back to the person introducing, not to an unnamed recipient.",
+        "Paul and Ahmed together.": "'Himself' is singular and relates to Ahmed's introduction, not a joint introduction by both men."
       },
       "audit": {
         "status": "reviewed",
@@ -1648,7 +1648,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2694",
       "level": "B1",
-      "setupText": "Choose the intended reference of you in this general travel advice.",
+      "setupText": "Choose the intended reference of 'you' in this general travel advice.",
       "taskText": "In this city, you can buy a day ticket from machines at the tram stops.",
       "options": [
         "Travellers in general, including the reader.",
@@ -1657,12 +1657,12 @@
         "The city transport office as an organization."
       ],
       "answer": "Travellers in general, including the reader.",
-      "explanation": "You can address people generally in advice, rather than identifying one named listener.",
+      "explanation": "'You' can address people generally in advice, rather than identifying one named listener.",
       "rationales": {
         "Only the writer's travelling companion.": "The advice is general and does not identify one particular companion.",
-        "The people who repair the ticket machines.": "You refers to potential ticket buyers, not to machine technicians.",
-        "Travellers in general, including the reader.": "You can address people generally in advice, rather than identifying one named listener.",
-        "The city transport office as an organization.": "The organization may sell tickets, but you names the people following the advice."
+        "The people who repair the ticket machines.": "'You' refers to potential ticket buyers, not to machine technicians.",
+        "Travellers in general, including the reader.": "'You' can address people generally in advice, rather than identifying one named listener.",
+        "The city transport office as an organization.": "The organization may sell tickets, but 'you' names the people following the advice."
       },
       "audit": {
         "status": "reviewed",
@@ -1679,7 +1679,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2695",
       "level": "B1",
-      "setupText": "Choose what any stands for in the question.",
+      "setupText": "Choose what 'any' stands for in the question.",
       "taskText": "We need milk for breakfast. Have we got any?",
       "options": [
         "Any breakfast that can be made using milk.",
@@ -1688,12 +1688,12 @@
         "Any milk available to us."
       ],
       "answer": "Any milk available to us.",
-      "explanation": "Any can stand without a repeated noun when the context makes that noun clear; here the omitted content is milk.",
+      "explanation": "'Any' can stand without a repeated noun when the context makes that noun clear; here the omitted content is 'milk'.",
       "rationales": {
-        "Any breakfast that can be made using milk.": "Any stands for the needed ingredient, not for possible meals made with it.",
+        "Any breakfast that can be made using milk.": "'Any' stands for the needed ingredient, not for possible meals made with it.",
         "Any unopened cartons, with their exact number already stated.": "The question does not name cartons or give a count; it asks whether milk is available.",
-        "Any shop where milk can be bought.": "No shop has been introduced, and have we got asks about the available ingredient.",
-        "Any milk available to us.": "Any can stand without a repeated noun when the context makes that noun clear; here the omitted content is milk."
+        "Any shop where milk can be bought.": "No shop has been introduced, and 'have we got' asks about the available ingredient.",
+        "Any milk available to us.": "'Any' can stand without a repeated noun when the context makes that noun clear; here the omitted content is 'milk'."
       },
       "audit": {
         "status": "reviewed",
@@ -1710,7 +1710,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2696",
       "level": "B1",
-      "setupText": "Choose the likely reference of they in this exchange, without inventing a named person.",
+      "setupText": "Choose the likely reference of 'they' in this exchange, without inventing a named person.",
       "taskText": "I called the clinic about my appointment. They have moved it to Thursday.",
       "options": [
         "Other patients whose appointments were also changed.",
@@ -1719,11 +1719,11 @@
         "One specifically identified doctor who will see the speaker."
       ],
       "answer": "The people handling appointments at the clinic.",
-      "explanation": "They can refer to the relevant staff of an organization already mentioned, even when individual staff members are unnamed.",
+      "explanation": "'They' can refer to the relevant staff of an organization already mentioned, even when individual staff members are unnamed.",
       "rationales": {
-        "The people handling appointments at the clinic.": "They can refer to the relevant staff of an organization already mentioned, even when individual staff members are unnamed.",
+        "The people handling appointments at the clinic.": "'They' can refer to the relevant staff of an organization already mentioned, even when individual staff members are unnamed.",
         "Other patients whose appointments were also changed.": "The sentence gives no group of other patients and does not identify patients as the people changing the booking.",
-        "The speaker and the clinic staff acting together.": "They does not include the current speaker in the group carrying out the change.",
+        "The speaker and the clinic staff acting together.": "'They' does not include the current speaker in the group carrying out the change.",
         "One specifically identified doctor who will see the speaker.": "The context supplies a clinic and its appointment arrangements, but does not identify a particular doctor as responsible."
       },
       "audit": {
@@ -1803,7 +1803,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2699",
       "level": "B1",
-      "setupText": "Choose the continuation that rejects both options without repeating bus.",
+      "setupText": "Choose the continuation that rejects both options without repeating 'bus'.",
       "taskText": "The morning bus leaves too early; the evening bus arrives too late.",
       "options": [
         "Either suits my schedule.",
@@ -1812,12 +1812,12 @@
         "One suits my schedule."
       ],
       "answer": "Neither suits my schedule.",
-      "explanation": "Neither stands for neither of the two buses and rejects both as suitable for the speaker's schedule.",
+      "explanation": "'Neither' stands for 'neither of the two buses' and rejects both as suitable for the speaker's schedule.",
       "rationales": {
-        "Either suits my schedule.": "Either in this positive statement says that each option is acceptable, contrary to both being unsuitable.",
-        "Both suit my schedule.": "Both explicitly accepts the two options, reversing the intended assessment.",
-        "One suits my schedule.": "One selects a suitable option, but the task says that both are unsuitable.",
-        "Neither suits my schedule.": "Neither stands for neither of the two buses and rejects both as suitable for the speaker's schedule."
+        "Either suits my schedule.": "'Either' in this positive statement says that each option is acceptable, contrary to both being unsuitable.",
+        "Both suit my schedule.": "'Both' explicitly accepts the two options, reversing the intended assessment.",
+        "One suits my schedule.": "'One' selects a suitable option, but the task says that both are unsuitable.",
+        "Neither suits my schedule.": "'Neither' stands for 'neither of the two buses' and rejects both as suitable for the speaker's schedule."
       },
       "audit": {
         "status": "reviewed",
@@ -1834,7 +1834,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2700",
       "level": "B1",
-      "setupText": "Choose what this points to in the reminder.",
+      "setupText": "Choose what 'this' points to in the reminder.",
       "taskText": "Remember this: switch off the lights before you leave the studio.",
       "options": [
         "The instruction that follows the colon.",
@@ -1843,12 +1843,12 @@
         "The studio as a physical building."
       ],
       "answer": "The instruction that follows the colon.",
-      "explanation": "This can point forward to content that immediately follows, here the instruction about the lights.",
+      "explanation": "'This' can point forward to content that immediately follows, here the instruction about the lights.",
       "rationales": {
-        "The instruction that follows the colon.": "This can point forward to content that immediately follows, here the instruction about the lights.",
-        "A particular light already identified in an earlier sentence.": "No earlier light is identified; this introduces the whole following reminder.",
-        "The person who will leave the studio.": "This points to what must be remembered, not to the person addressed by you.",
-        "The studio as a physical building.": "The instruction concerns the studio, but this refers to the reminder rather than replacing the building noun."
+        "The instruction that follows the colon.": "'This' can point forward to content that immediately follows, here the instruction about the lights.",
+        "A particular light already identified in an earlier sentence.": "No earlier light is identified; 'this' introduces the whole following reminder.",
+        "The person who will leave the studio.": "'This' points to what must be remembered, not to the person addressed by 'you'.",
+        "The studio as a physical building.": "The instruction concerns the studio, but 'this' refers to the reminder rather than replacing the building noun."
       },
       "audit": {
         "status": "reviewed",
@@ -1866,7 +1866,7 @@
       "id": "coverage-pronouns-and-reference-b2-2701",
       "level": "B2",
       "setupText": "Choose the accurate response to the editor's objection in contemporary standard English.",
-      "taskText": "Draft: 'Each applicant receives a code. They must keep it private.' An editor says that they cannot refer back to each applicant because each is singular.",
+      "taskText": "Draft: 'Each applicant receives a code. They must keep it private.' An editor says that 'they' cannot refer back to 'each applicant' because 'each' is singular.",
       "options": [
         "They necessarily refers to the applicants as one group sharing one code.",
         "They refers to the codes because it follows the sentence about receiving a code.",
@@ -1874,11 +1874,11 @@
         "They can refer to each individual applicant without specifying gender."
       ],
       "answer": "They can refer to each individual applicant without specifying gender.",
-      "explanation": "Each applicant is grammatically singular, but singular personal they is available for the same gender-unspecified individual.",
+      "explanation": "'Each applicant' is grammatically singular, but singular personal 'they' is available for the same gender-unspecified individual.",
       "rationales": {
-        "They necessarily refers to the applicants as one group sharing one code.": "Singular they can refer to each applicant individually; it does not turn individually received codes into one shared code.",
-        "They can refer to each individual applicant without specifying gender.": "Each applicant is grammatically singular, but singular personal they is available for the same gender-unspecified individual.",
-        "They refers to the codes because it follows the sentence about receiving a code.": "The people keep codes private; they refers to applicants, while it refers to the code in each case.",
+        "They necessarily refers to the applicants as one group sharing one code.": "Singular 'they' can refer to 'each applicant' individually; it does not turn individually received codes into one shared code.",
+        "They can refer to each individual applicant without specifying gender.": "'Each applicant' is grammatically singular, but singular personal 'they' is available for the same gender-unspecified individual.",
+        "They refers to the codes because it follows the sentence about receiving a code.": "The people keep codes private; 'they' refers to applicants, while 'it' refers to the code in each case.",
         "They changes the instruction into a requirement for the person who issued the code.": "No code issuer is identified as the pronoun's reference; the instruction continues to concern the applicant."
       },
       "audit": {
@@ -2020,7 +2020,7 @@
     {
       "id": "coverage-pronouns-and-reference-b2-2706",
       "level": "B2",
-      "setupText": "Choose the accurate reference of former and latter.",
+      "setupText": "Choose the accurate reference of 'former' and 'latter'.",
       "taskText": "The editor compared the interview transcript with the final article. The former preserves hesitations; the latter removes most of them.",
       "options": [
         "Former means the interviewee; latter means the editor.",
@@ -2029,11 +2029,11 @@
         "Former and latter both mean different sections of the final article."
       ],
       "answer": "Former means the transcript; latter means the article.",
-      "explanation": "Former points to the first of the two named texts, and latter to the second; them then refers to hesitations.",
+      "explanation": "'Former' points to the first of the two named texts, and 'latter' to the second; 'them' then refers to hesitations.",
       "rationales": {
         "Former means the interviewee; latter means the editor.": "The paired comparison names two texts, not two people.",
         "Former means the article; latter means the transcript.": "This reverses the order of the two texts as introduced.",
-        "Former means the transcript; latter means the article.": "Former points to the first of the two named texts, and latter to the second; them then refers to hesitations.",
+        "Former means the transcript; latter means the article.": "'Former' points to the first of the two named texts, and 'latter' to the second; 'them' then refers to hesitations.",
         "Former and latter both mean different sections of the final article.": "The references follow the two named texts, not unstated sections within one text."
       },
       "audit": {
@@ -2082,7 +2082,7 @@
     {
       "id": "coverage-pronouns-and-reference-b2-2708",
       "level": "B2",
-      "setupText": "Choose the group identified by those who, without extending it to everyone mentioned.",
+      "setupText": "Choose the group identified by 'those who', without extending it to everyone mentioned.",
       "taskText": "All residents may attend the briefing, but those who submitted objections will receive the detailed response.",
       "options": [
         "All residents who are allowed to attend the briefing.",
@@ -2091,11 +2091,11 @@
         "Only residents who decide not to attend."
       ],
       "answer": "The residents who submitted objections.",
-      "explanation": "Those who introduces the subset identified by the following clause; it does not simply repeat all residents.",
+      "explanation": "'Those who' introduces the subset identified by the following clause; it does not simply repeat 'all residents'.",
       "rationales": {
-        "The residents who submitted objections.": "Those who introduces the subset identified by the following clause; it does not simply repeat all residents.",
+        "The residents who submitted objections.": "'Those who' introduces the subset identified by the following clause; it does not simply repeat 'all residents'.",
         "All residents who are allowed to attend the briefing.": "Attendance is open to all, but receiving the detailed response is linked to submitting objections.",
-        "The officials who wrote the detailed response.": "Those who refers back to the resident group and identifies objectors, not the response's authors.",
+        "The officials who wrote the detailed response.": "'Those who' refers back to the resident group and identifies objectors, not the response's authors.",
         "Only residents who decide not to attend.": "Nothing ties receipt of the response to nonattendance; the condition is submitting objections."
       },
       "audit": {
@@ -2207,7 +2207,7 @@
       "id": "coverage-pronouns-and-reference-b2-2712",
       "level": "B2",
       "setupText": "Choose the accurate editorial advice in contemporary standard English.",
-      "taskText": "Draft: 'The three partners consult each other before making an offer.' An editor objects that each other is only possible with two people.",
+      "taskText": "Draft: 'The three partners consult each other before making an offer.' An editor objects that 'each other' is only possible with two people.",
       "options": [
         "Replace each other with themselves to preserve the mutual consultation.",
         "Each other is acceptable for three people; one another is also available.",
@@ -2215,12 +2215,12 @@
         "The phrase means that all three consult the same outside adviser."
       ],
       "answer": "Each other is acceptable for three people; one another is also available.",
-      "explanation": "Contemporary standard usage does not enforce a two-person versus more-than-two distinction between each other and one another.",
+      "explanation": "Contemporary standard usage does not enforce a two-person versus more-than-two distinction between 'each other' and 'one another'.",
       "rationales": {
-        "Each other is acceptable for three people; one another is also available.": "Contemporary standard usage does not enforce a two-person versus more-than-two distinction between each other and one another.",
-        "Replace each other with themselves to preserve the mutual consultation.": "Themselves would suggest self-directed consultation rather than consulting the other partners.",
+        "Each other is acceptable for three people; one another is also available.": "Contemporary standard usage does not enforce a two-person versus more-than-two distinction between 'each other' and 'one another'.",
+        "Replace each other with themselves to preserve the mutual consultation.": "'Themselves' would suggest self-directed consultation rather than consulting the other partners.",
         "Keep each other only if one partner is excluded from the discussions.": "The expression can include all three partners; exclusion is not required by its form.",
-        "The phrase means that all three consult the same outside adviser.": "Each other links the partners to one another, not to one shared person outside their group."
+        "The phrase means that all three consult the same outside adviser.": "'Each other' links the partners to one another, not to one shared person outside their group."
       },
       "audit": {
         "status": "reviewed",
@@ -2237,7 +2237,7 @@
     {
       "id": "coverage-pronouns-and-reference-b2-2713",
       "level": "B2",
-      "setupText": "Choose the revision that consistently uses formal generic one for the person evaluating their own work.",
+      "setupText": "Choose the revision that consistently uses formal generic 'one' for the person evaluating their own work.",
       "taskText": "Draft: 'One should review your own work before asking others to evaluate it.'",
       "options": [
         "One should review one's own work before asking others to evaluate it.",
@@ -2246,11 +2246,11 @@
         "One should review their colleagues' work before asking others to evaluate it."
       ],
       "answer": "One should review one's own work before asking others to evaluate it.",
-      "explanation": "One's matches generic one as the owner, while it continues to refer to the work.",
+      "explanation": "\"One's\" matches generic 'one' as the owner, while 'it' continues to refer to the work.",
       "rationales": {
-        "One should review our own work before asking others to evaluate it.": "Our shifts ownership to a speaker-inclusive group instead of keeping the same generic person.",
-        "One should review one's own work before asking others to evaluate it.": "One's matches generic one as the owner, while it continues to refer to the work.",
-        "You should review your own work before asking others to evaluate it.": "This is a coherent revision, but it adopts generic you instead of the explicitly requested formal one.",
+        "One should review our own work before asking others to evaluate it.": "'Our' shifts ownership to a speaker-inclusive group instead of keeping the same generic person.",
+        "One should review one's own work before asking others to evaluate it.": "\"One's\" matches generic 'one' as the owner, while 'it' continues to refer to the work.",
+        "You should review your own work before asking others to evaluate it.": "This is a coherent revision, but it adopts generic 'you' instead of the explicitly requested formal 'one'.",
         "One should review their colleagues' work before asking others to evaluate it.": "This changes the work's owner from the evaluator themself to the evaluator's colleagues."
       },
       "audit": {
@@ -2299,7 +2299,7 @@
     {
       "id": "coverage-pronouns-and-reference-b2-2715",
       "level": "B2",
-      "setupText": "Choose the accurate account of it in this sentence.",
+      "setupText": "Choose the accurate account of 'it' in this sentence.",
       "taskText": "The committee found it difficult to reach a decision before the deadline.",
       "options": [
         "It refers to the deadline as a difficult object.",
@@ -2308,12 +2308,12 @@
         "It replaces the committee to avoid repeating that noun."
       ],
       "answer": "It introduces the later action that the committee found difficult.",
-      "explanation": "Find it difficult to do something uses it before an adjective and a later infinitive clause; no previously named object is required.",
+      "explanation": "'Find it difficult to do something' uses 'it' before an adjective and a later infinitive clause; no previously named object is required.",
       "rationales": {
         "It refers to the deadline as a difficult object.": "The difficulty concerns reaching a decision in time, not the deadline as an object.",
         "It refers to a decision that the committee had already reached.": "The sentence does not establish a completed decision; the assessed action is to reach one.",
-        "It replaces the committee to avoid repeating that noun.": "The committee is the finder or evaluator; it is not a second reference to that group here.",
-        "It introduces the later action that the committee found difficult.": "Find it difficult to do something uses it before an adjective and a later infinitive clause; no previously named object is required."
+        "It replaces the committee to avoid repeating that noun.": "The committee is the finder or evaluator; 'it' is not a second reference to that group here.",
+        "It introduces the later action that the committee found difficult.": "'Find it difficult to do something' uses 'it' before an adjective and a later infinitive clause; no previously named object is required."
       },
       "audit": {
         "status": "reviewed",
@@ -2330,7 +2330,7 @@
     {
       "id": "coverage-pronouns-and-reference-b2-2716",
       "level": "B2",
-      "setupText": "Choose the statement replaced by so in the reply.",
+      "setupText": "Choose the statement replaced by 'so' in the reply.",
       "taskText": "A visitor asks, 'Will the bridge reopen on Friday?' The guide replies, 'I hope so.'",
       "options": [
         "The bridge will reopen on Friday.",
@@ -2339,11 +2339,11 @@
         "Friday will suit the visitor's plans better than another day."
       ],
       "answer": "The bridge will reopen on Friday.",
-      "explanation": "So stands for the proposition in the question; the guide hopes that reopening on Friday will happen.",
+      "explanation": "'So' stands for the proposition in the question; the guide hopes that reopening on Friday will happen.",
       "rationales": {
-        "The bridge will reopen on Friday.": "So stands for the proposition in the question; the guide hopes that reopening on Friday will happen.",
+        "The bridge will reopen on Friday.": "'So' stands for the proposition in the question; the guide hopes that reopening on Friday will happen.",
         "The guide has received confirmation of Friday's reopening.": "The short reply expresses hope for reopening, not receipt of a confirmation.",
-        "The bridge will remain closed on Friday.": "That would correspond to hoping not; so retains the positive reopening proposition.",
+        "The bridge will remain closed on Friday.": "That would correspond to 'hoping not'; 'so' retains the positive reopening proposition.",
         "Friday will suit the visitor's plans better than another day.": "The question concerns reopening, not a comparison between possible visiting days."
       },
       "audit": {
@@ -2361,7 +2361,7 @@
     {
       "id": "coverage-pronouns-and-reference-b2-2717",
       "level": "B2",
-      "setupText": "Replace did so with an explicit action to say that Nadia fulfilled her promise after forwarding the files, not merely that she made the promise then.",
+      "setupText": "Replace 'did so' with an explicit action to say that Nadia fulfilled her promise after forwarding the files, not merely that she made the promise then.",
       "taskText": "Draft: 'Nadia promised to delete the draft files. She did so after forwarding them to the archivist.'",
       "options": [
         "She made the promise after forwarding the draft files to the archivist.",
@@ -2370,10 +2370,10 @@
         "She kept the draft files after forwarding them to the archivist."
       ],
       "answer": "She deleted the draft files after forwarding them to the archivist.",
-      "explanation": "The explicit verb deleted selects performance of the promised action. Them still refers to the files that were forwarded beforehand.",
+      "explanation": "The explicit verb 'deleted' selects performance of the promised action. 'Them' still refers to the files that were forwarded beforehand.",
       "rationales": {
         "She made the promise after forwarding the draft files to the archivist.": "This explicitly dates the promise, but the brief requires the later action that fulfilled it.",
-        "She deleted the draft files after forwarding them to the archivist.": "The explicit verb deleted selects performance of the promised action. Them still refers to the files that were forwarded beforehand.",
+        "She deleted the draft files after forwarding them to the archivist.": "The explicit verb 'deleted' selects performance of the promised action. 'Them' still refers to the files that were forwarded beforehand.",
         "She forwarded the draft files after deleting them from the archive.": "This reverses the stated forwarding/deletion order and changes the deletion location.",
         "She kept the draft files after forwarding them to the archivist.": "Keeping the files would not fulfill the stated promise to delete them."
       },
@@ -2393,7 +2393,7 @@
     {
       "id": "coverage-pronouns-and-reference-b2-2718",
       "level": "B2",
-      "setupText": "Choose the intended audience reference of we in this sentence from a report.",
+      "setupText": "Choose the intended audience reference of 'we' in this sentence from a report.",
       "taskText": "As we can see from Table 2, demand rose during the summer. The report does not identify its readers as members of the research team.",
       "options": [
         "The writer states that every reader helped collect the data.",
@@ -2402,11 +2402,11 @@
         "The writer claims that the table was written jointly by all readers."
       ],
       "answer": "The writer invites readers to examine the table together.",
-      "explanation": "We can include writer and readers in a shared act of looking at evidence without making them a single research team.",
+      "explanation": "'We' can include writer and readers in a shared act of looking at evidence without making them a single research team.",
       "rationales": {
-        "The writer states that every reader helped collect the data.": "Inclusive we in presenting a table does not establish participation in data collection.",
-        "The writer excludes readers and refers only to the people shown in the table.": "As we can see addresses the act of examining the table, not necessarily its subjects.",
-        "The writer invites readers to examine the table together.": "We can include writer and readers in a shared act of looking at evidence without making them a single research team.",
+        "The writer states that every reader helped collect the data.": "Inclusive 'we' in presenting a table does not establish participation in data collection.",
+        "The writer excludes readers and refers only to the people shown in the table.": "'As we can see' addresses the act of examining the table, not necessarily its subjects.",
+        "The writer invites readers to examine the table together.": "'We' can include writer and readers in a shared act of looking at evidence without making them a single research team.",
         "The writer claims that the table was written jointly by all readers.": "Inviting readers to observe a table does not attribute its authorship to them."
       },
       "audit": {
@@ -2424,7 +2424,7 @@
     {
       "id": "coverage-pronouns-and-reference-b2-2719",
       "level": "B2",
-      "setupText": "Choose what those of us who identifies without including the whole group.",
+      "setupText": "Choose what 'those of us who' identifies without including the whole group.",
       "taskText": "Those of us who work weekends need access cards that function outside normal office hours.",
       "options": [
         "All employees, whether or not they work weekends.",
@@ -2433,12 +2433,12 @@
         "The speaker alone, excluding the other weekend workers."
       ],
       "answer": "The weekend workers within a group that includes the speaker.",
-      "explanation": "Of us supplies the larger speaker-inclusive group; who work weekends selects the relevant members. The wording does not by itself say that the speaker belongs to that subset.",
+      "explanation": "'Of us' supplies the larger speaker-inclusive group; 'who work weekends' selects the relevant members. The wording does not by itself say that the speaker belongs to that subset.",
       "rationales": {
-        "All employees, whether or not they work weekends.": "Who work weekends restricts the larger us group to its weekend-working members.",
-        "Only employees outside the speaker's group.": "Of us explicitly places the selected people within a speaker-inclusive group.",
-        "The speaker alone, excluding the other weekend workers.": "Those is plural and does not select only the speaker.",
-        "The weekend workers within a group that includes the speaker.": "Of us supplies the larger speaker-inclusive group; who work weekends selects the relevant members. The wording does not by itself say that the speaker belongs to that subset."
+        "All employees, whether or not they work weekends.": "'Who work weekends' restricts the larger 'us' group to its weekend-working members.",
+        "Only employees outside the speaker's group.": "'Of us' explicitly places the selected people within a speaker-inclusive group.",
+        "The speaker alone, excluding the other weekend workers.": "'Those' is plural and does not select only the speaker.",
+        "The weekend workers within a group that includes the speaker.": "'Of us' supplies the larger speaker-inclusive group; 'who work weekends' selects the relevant members. The wording does not by itself say that the speaker belongs to that subset."
       },
       "audit": {
         "status": "reviewed",
@@ -2455,7 +2455,7 @@
     {
       "id": "coverage-pronouns-and-reference-b2-2720",
       "level": "B2",
-      "setupText": "Choose the accurate account of they in this conditional instruction.",
+      "setupText": "Choose the accurate account of 'they' in this conditional instruction.",
       "taskText": "If a guest needs a quieter room, they should contact reception. The notice names no particular guest.",
       "options": [
         "They refers to whichever individual guest meets the stated condition.",
@@ -2464,9 +2464,9 @@
         "They requires the notice to have named the guest in an earlier sentence."
       ],
       "answer": "They refers to whichever individual guest meets the stated condition.",
-      "explanation": "The conditional introduces a possible guest, and singular they continues that reference without identifying an actual person in advance.",
+      "explanation": "The conditional introduces a possible guest, and singular 'they' continues that reference without identifying an actual person in advance.",
       "rationales": {
-        "They refers to whichever individual guest meets the stated condition.": "The conditional introduces a possible guest, and singular they continues that reference without identifying an actual person in advance.",
+        "They refers to whichever individual guest meets the stated condition.": "The conditional introduces a possible guest, and singular 'they' continues that reference without identifying an actual person in advance.",
         "They proves that several guests have already complained.": "The instruction is conditional; the pronoun establishes neither actual complaints nor a plural guest count.",
         "They refers to the reception staff who receive the request.": "The guest is the person instructed to contact reception, not the staff receiving contact.",
         "They requires the notice to have named the guest in an earlier sentence.": "A conditional can introduce a hypothetical person whose reference continues into the instruction."
@@ -2548,7 +2548,7 @@
     {
       "id": "coverage-pronouns-and-reference-c1-2723",
       "level": "C1",
-      "setupText": "Follow the formal editing convention that uses who for subjects and whom for objects. Choose the pair for the two relative clauses.",
+      "setupText": "Follow the formal editing convention that uses 'who' for subjects and 'whom' for objects. Choose the pair for the two relative clauses.",
       "taskText": "We appointed the adviser ___ we believed would help us and ___ the team had recommended.",
       "options": [
         "whom / who",
@@ -2557,12 +2557,12 @@
         "whom / whom"
       ],
       "answer": "who / whom",
-      "explanation": "Who supplies the subject of would help; whom is the person the team recommended. The intervening reporting words do not determine the first pronoun's case.",
+      "explanation": "'Who' supplies the subject of 'would help'; 'whom' is the person the team recommended. The intervening reporting words do not determine the first pronoun's case.",
       "rationales": {
-        "whom / who": "The first pronoun is the subject of would help despite intervening we believed; the second is the object of had recommended.",
-        "who / who": "The first who fits its subject role. Under the specified formal convention, the object of recommended is whom.",
-        "whom / whom": "The second whom fits its object role, but the first pronoun is the subject of would help, not the object of believed.",
-        "who / whom": "Who supplies the subject of would help; whom is the person the team recommended. The intervening reporting words do not determine the first pronoun's case."
+        "whom / who": "The first pronoun is the subject of 'would help' despite intervening 'we believed'; the second is the object of 'had recommended'.",
+        "who / who": "The first 'who' fits its subject role. Under the specified formal convention, the object of 'recommended' is 'whom'.",
+        "whom / whom": "The second 'whom' fits its object role, but the first pronoun is the subject of 'would help', not the object of 'believed'.",
+        "who / whom": "'Who' supplies the subject of 'would help'; 'whom' is the person the team recommended. The intervening reporting words do not determine the first pronoun's case."
       },
       "audit": {
         "status": "reviewed",
@@ -2642,7 +2642,7 @@
       "id": "coverage-pronouns-and-reference-c1-2726",
       "level": "C1",
       "setupText": "Preserve the source's uncertainty about who was tired; do not guess a referent merely to make the summary shorter.",
-      "taskText": "Source: 'Ari spoke to Morgan because they were tired.' Both people use they/them. The writer confirms that they refers to one person but cannot identify which. Which summary preserves that uncertainty?",
+      "taskText": "Source: 'Ari spoke to Morgan because they were tired.' Both people use they/them. The writer confirms that 'they' refers to one person but cannot identify which. Which summary preserves that uncertainty?",
       "options": [
         "Ari was tired and therefore spoke to Morgan.",
         "Ari spoke to Morgan because one of them was tired; the source does not identify which person.",
@@ -2655,7 +2655,7 @@
         "Ari was tired and therefore spoke to Morgan.": "This chooses Ari as the tired person, which the source does not establish.",
         "Ari spoke to Morgan because Morgan was tired.": "This chooses Morgan as the tired person without source support.",
         "Ari spoke to Morgan because one of them was tired; the source does not identify which person.": "The summary preserves the confirmed singular reference while leaving its unresolved personal identity open.",
-        "Ari and Morgan were both tired when they spoke.": "This chooses a plural reference, contrary to the writer's confirmation that they refers to one person."
+        "Ari and Morgan were both tired when they spoke.": "This chooses a plural reference, contrary to the writer's confirmation that 'they' refers to one person."
       },
       "audit": {
         "status": "reviewed",
@@ -2704,7 +2704,7 @@
       "id": "coverage-pronouns-and-reference-c1-2728",
       "level": "C1",
       "setupText": "Choose the accurate response to the editor's objection in standard English.",
-      "taskText": "Draft: 'The proposal, whose cost remains uncertain, has been postponed.' An editor says whose cannot refer to an inanimate proposal.",
+      "taskText": "Draft: 'The proposal, whose cost remains uncertain, has been postponed.' An editor says 'whose' cannot refer to an inanimate proposal.",
       "options": [
         "Whose identifies the proposal's author as the person with uncertain costs.",
         "The sentence requires which cost because ownership words only apply to people.",
@@ -2712,11 +2712,11 @@
         "Whose can express this relation with an inanimate noun; the proposal's cost is meant."
       ],
       "answer": "Whose can express this relation with an inanimate noun; the proposal's cost is meant.",
-      "explanation": "Whose is not restricted to human owners. It can link a thing with an associated feature, as with a proposal and its cost.",
+      "explanation": "'Whose' is not restricted to human owners. It can link a thing with an associated feature, as with a proposal and its cost.",
       "rationales": {
-        "Whose can express this relation with an inanimate noun; the proposal's cost is meant.": "Whose is not restricted to human owners. It can link a thing with an associated feature, as with a proposal and its cost.",
-        "Whose identifies the proposal's author as the person with uncertain costs.": "The noun linked to cost is proposal; no author is identified by whose.",
-        "The sentence requires which cost because ownership words only apply to people.": "Which cost would not supply this possessive relative construction, and the proposed human-only rule is false.",
+        "Whose can express this relation with an inanimate noun; the proposal's cost is meant.": "'Whose' is not restricted to human owners. It can link a thing with an associated feature, as with a proposal and its cost.",
+        "Whose identifies the proposal's author as the person with uncertain costs.": "The noun linked to 'cost' is 'proposal'; no author is identified by 'whose'.",
+        "The sentence requires which cost because ownership words only apply to people.": "'Which cost' would not supply this possessive relative construction, and the proposed human-only rule is false.",
         "The relative clause explicitly states that cost uncertainty caused the postponement.": "The clause supplies information about cost, but it does not explicitly assert a causal connection with postponement."
       },
       "audit": {
@@ -2797,7 +2797,7 @@
     {
       "id": "coverage-pronouns-and-reference-c1-2731",
       "level": "C1",
-      "setupText": "Choose the accurate account of it and the emphasized information.",
+      "setupText": "Choose the accurate account of 'it' and the emphasized information.",
       "taskText": "It was only after the rehearsal that the director changed the ending.",
       "options": [
         "It organizes emphasis on the timing; it does not name the rehearsal or the director.",
@@ -2806,12 +2806,12 @@
         "It refers to the rehearsal and says that no ending existed before it."
       ],
       "answer": "It organizes emphasis on the timing; it does not name the rehearsal or the director.",
-      "explanation": "This it-cleft highlights only after the rehearsal. It is a grammatical subject in the emphasis pattern, not a noun reference.",
+      "explanation": "This it-cleft highlights 'only after the rehearsal'. 'It' is a grammatical subject in the emphasis pattern, not a noun reference.",
       "rationales": {
-        "It refers to the ending, which changed the director's decision.": "The director changes the ending; it does not make the ending an actor.",
-        "It organizes emphasis on the timing; it does not name the rehearsal or the director.": "This it-cleft highlights only after the rehearsal. It is a grammatical subject in the emphasis pattern, not a noun reference.",
-        "It identifies the director as the only person present at the rehearsal.": "Only restricts the timing phrase, not the number of people attending.",
-        "It refers to the rehearsal and says that no ending existed before it.": "The sentence dates a change to the ending; it does not claim that the ending previously did not exist."
+        "It refers to the ending, which changed the director's decision.": "The director changes the ending; 'it' does not make the ending an actor.",
+        "It organizes emphasis on the timing; it does not name the rehearsal or the director.": "This it-cleft highlights 'only after the rehearsal'. 'It' is a grammatical subject in the emphasis pattern, not a noun reference.",
+        "It identifies the director as the only person present at the rehearsal.": "'Only' restricts the timing phrase, not the number of people attending.",
+        "It refers to the rehearsal and says that no ending existed before it.": "The sentence dates a change to the ending; 'it' does not claim that the ending previously did not exist."
       },
       "audit": {
         "status": "reviewed",
@@ -2890,7 +2890,7 @@
     {
       "id": "coverage-pronouns-and-reference-c1-2734",
       "level": "C1",
-      "setupText": "Choose what role as such resumes in this sentence.",
+      "setupText": "Choose what role 'as such' resumes in this sentence.",
       "taskText": "Jules attends the board meetings as an observer, not as a voting member; as such, Jules may comment but may not vote.",
       "options": [
         "Jules's role as a voting member.",
@@ -2899,11 +2899,11 @@
         "The fact that Jules has already voted at several meetings."
       ],
       "answer": "Jules's role as an observer.",
-      "explanation": "As such resumes the affirmed observer role. The denied voting-member role does not become its reference just because it is nearer.",
+      "explanation": "'As such' resumes the affirmed observer role. The denied voting-member role does not become its reference just because it is nearer.",
       "rationales": {
-        "Jules's role as an observer.": "As such resumes the affirmed observer role. The denied voting-member role does not become its reference just because it is nearer.",
-        "Jules's role as a voting member.": "Not as a voting member explicitly denies that role; the nearest role phrase is not automatically the reference.",
-        "The board's right to vote on Jules's comments.": "As such links Jules's status to Jules's permissions, not the board's response to comments.",
+        "Jules's role as an observer.": "'As such' resumes the affirmed observer role. The denied voting-member role does not become its reference just because it is nearer.",
+        "Jules's role as a voting member.": "'Not as a voting member' explicitly denies that role; the nearest role phrase is not automatically the reference.",
+        "The board's right to vote on Jules's comments.": "'As such' links Jules's status to Jules's permissions, not the board's response to comments.",
         "The fact that Jules has already voted at several meetings.": "Attendance is stated, but voting is expressly prohibited and no earlier votes are reported."
       },
       "audit": {
@@ -2921,7 +2921,7 @@
     {
       "id": "coverage-pronouns-and-reference-c1-2735",
       "level": "C1",
-      "setupText": "Choose the accurate assessment of it in this project note.",
+      "setupText": "Choose the accurate assessment of 'it' in this project note.",
       "taskText": "We are designing a portable scanner. It must fit inside a coat pocket, although no prototype exists yet.",
       "options": [
         "It proves that at least one complete scanner is already available.",
@@ -2983,7 +2983,7 @@
     {
       "id": "coverage-pronouns-and-reference-c1-2737",
       "level": "C1",
-      "setupText": "Choose what the phrase This limitation refers to and adds to the discussion.",
+      "setupText": "Choose what the phrase 'This limitation' refers to and adds to the discussion.",
       "taskText": "The survey excluded people who worked night shifts. This limitation makes its findings less useful for planning overnight services.",
       "options": [
         "It identifies the night workers' decision to withdraw as the source of the limitation.",
@@ -2992,12 +2992,12 @@
         "It identifies the exclusion as a limitation relevant to the findings' use."
       ],
       "answer": "It identifies the exclusion as a limitation relevant to the findings' use.",
-      "explanation": "This points back to the exclusion, while limitation categorizes that event as a constraint on applying the findings.",
+      "explanation": "'This' points back to the exclusion, while 'limitation' categorizes that event as a constraint on applying the findings.",
       "rationales": {
-        "It identifies the night workers' decision to withdraw as the source of the limitation.": "Excluded reports their omission from the survey, not a decision by the workers to withdraw.",
+        "It identifies the night workers' decision to withdraw as the source of the limitation.": "'Excluded' reports their omission from the survey, not a decision by the workers to withdraw.",
         "It identifies a restriction imposed by the overnight services on the researchers.": "The limitation belongs to the survey's coverage; the services are the intended use of its findings.",
         "It identifies a coverage gap but says the findings apply only to night workers.": "The gap makes application to night workers less useful, not exclusive or especially well supported.",
-        "It identifies the exclusion as a limitation relevant to the findings' use.": "This points back to the exclusion, while limitation categorizes that event as a constraint on applying the findings."
+        "It identifies the exclusion as a limitation relevant to the findings' use.": "'This' points back to the exclusion, while 'limitation' categorizes that event as a constraint on applying the findings."
       },
       "audit": {
         "status": "reviewed",
@@ -3138,7 +3138,7 @@
     {
       "id": "coverage-pronouns-and-reference-c2-2742",
       "level": "C2",
-      "setupText": "Use the formal convention that selects whoever for a subject within its clause and whomever for an object within its clause.",
+      "setupText": "Use the formal convention that selects 'whoever' for a subject within its clause and 'whomever' for an object within its clause.",
       "taskText": "The task will go to ___ the panel believes can finish it; the panel will consult ___ the chair recommends.",
       "options": [
         "whomever / whoever",
@@ -3147,12 +3147,12 @@
         "whomever / whomever"
       ],
       "answer": "whoever / whomever",
-      "explanation": "The whole first clause follows to, but whoever is the subject inside that clause. Whomever is the person the chair recommends in the second clause.",
+      "explanation": "The whole first clause follows 'to', but 'whoever' is the subject inside that clause. 'Whomever' is the person the chair recommends in the second clause.",
       "rationales": {
-        "whomever / whoever": "In the first clause, the pronoun is the subject of can finish despite the preceding to. In the second it is the object of recommends.",
+        "whomever / whoever": "In the first clause, the pronoun is the subject of 'can finish' despite the preceding 'to'. In the second it is the object of 'recommends'.",
         "whoever / whoever": "The first form matches its subject role; the second requires the object form under the stated formal convention.",
-        "whoever / whomever": "The whole first clause follows to, but whoever is the subject inside that clause. Whomever is the person the chair recommends in the second clause.",
-        "whomever / whomever": "The second form fits. The first incorrectly chooses case from the outer preposition rather than the pronoun's role as subject of can finish."
+        "whoever / whomever": "The whole first clause follows 'to', but 'whoever' is the subject inside that clause. 'Whomever' is the person the chair recommends in the second clause.",
+        "whomever / whomever": "The second form fits. The first incorrectly chooses case from the outer preposition rather than the pronoun's role as subject of 'can finish'."
       },
       "audit": {
         "status": "reviewed",
@@ -3231,7 +3231,7 @@
     {
       "id": "coverage-pronouns-and-reference-c2-2745",
       "level": "C2",
-      "setupText": "In the first clause, her means Rosa's. Choose the accurate assessment of the editor's expansion of the omitted verb phrase.",
+      "setupText": "In the first clause, 'her' means \"Rosa's\". Choose the accurate assessment of the editor's expansion of the omitted verb phrase.",
       "taskText": "Original: 'Rosa revised her abstract, and Nina did too.' Edit: 'Rosa revised her abstract, and Nina revised Rosa's abstract too.'",
       "options": [
         "The edit is required because omitted words must keep every possessive reference unchanged.",
@@ -3240,10 +3240,10 @@
         "The edit selects a shared-abstract reading; the original also allows Nina to revise her own abstract."
       ],
       "answer": "The edit selects a shared-abstract reading; the original also allows Nina to revise her own abstract.",
-      "explanation": "Did too can mean revised Rosa's abstract or revised her own abstract with Nina as the new subject. Naming Rosa removes the second reading.",
+      "explanation": "'Did too' can mean \"revised Rosa's abstract\" or 'revised her own abstract' with Nina as the new subject. Naming Rosa removes the second reading.",
       "rationales": {
         "The edit is required because omitted words must keep every possessive reference unchanged.": "Ellipsis can preserve Rosa's abstract or adapt the possessive relation so that Nina revises Nina's own abstract.",
-        "The edit selects a shared-abstract reading; the original also allows Nina to revise her own abstract.": "Did too can mean revised Rosa's abstract or revised her own abstract with Nina as the new subject. Naming Rosa removes the second reading.",
+        "The edit selects a shared-abstract reading; the original also allows Nina to revise her own abstract.": "'Did too' can mean \"revised Rosa's abstract\" or 'revised her own abstract' with Nina as the new subject. Naming Rosa removes the second reading.",
         "The edit contradicts the original, which requires Nina to revise a different abstract.": "The original permits the shared-abstract reading; it does not require a different abstract for Nina.",
         "The edit adds that Rosa revised Nina's abstract before revising her own.": "The first clause still refers only to Rosa revising Rosa's abstract; the edit clarifies the object of Nina's action."
       },
@@ -3356,7 +3356,7 @@
       "id": "coverage-pronouns-and-reference-c2-2749",
       "level": "C2",
       "setupText": "Choose the edit that preserves the witness as the source of both the discovery claim and the description; the narrator has verified neither.",
-      "taskText": "Draft: 'The witness said that police had found a weapon. It was rusty.' The intended source of rusty is also the witness.",
+      "taskText": "Draft: 'The witness said that police had found a weapon. It was rusty.' The intended source of 'rusty' is also the witness.",
       "options": [
         "Police found a weapon, which the witness said was rusty.",
         "The witness said that police had found a weapon and that it was rusty.",
@@ -3364,10 +3364,10 @@
         "The weapon was rusty, although the witness denied that police had found it."
       ],
       "answer": "The witness said that police had found a weapon and that it was rusty.",
-      "explanation": "The repeated that explicitly places both linked claims inside the witness's report; it continues the same weapon reference without claiming narrator verification.",
+      "explanation": "The repeated 'that' explicitly places both linked claims inside the witness's report; 'it' continues the same weapon reference without claiming narrator verification.",
       "rationales": {
         "Police found a weapon, which the witness said was rusty.": "This places the discovery outside the witness's reported claim and presents it as the narrator's assertion.",
-        "The witness said that police had found a weapon and that it was rusty.": "The repeated that explicitly places both linked claims inside the witness's report; it continues the same weapon reference without claiming narrator verification.",
+        "The witness said that police had found a weapon and that it was rusty.": "The repeated 'that' explicitly places both linked claims inside the witness's report; 'it' continues the same weapon reference without claiming narrator verification.",
         "The witness said police had found a weapon, and the narrator confirmed that it was rusty.": "The narrator has confirmed neither claim; this adds independent verification of the condition.",
         "The weapon was rusty, although the witness denied that police had found it.": "This asserts the condition directly and turns the witness's discovery claim into a denial."
       },
@@ -3510,7 +3510,7 @@
     {
       "id": "coverage-pronouns-and-reference-c2-2754",
       "level": "C2",
-      "setupText": "The second sentence deliberately invites the report's readers to inspect the results. Choose the accurate assessment of the two uses of we.",
+      "setupText": "The second sentence deliberately invites the report's readers to inspect the results. Choose the accurate assessment of the two uses of 'we'.",
       "taskText": "'We interviewed the applicants in March. As we can see from the table, their preferences varied.' The readers did not conduct the interviews.",
       "options": [
         "The second we retroactively makes every reader one of the interviewers.",
@@ -3522,8 +3522,8 @@
       "explanation": "First-person plural reference can shift with the discourse action: conducting interviews involves the team, while inspecting displayed results can include the audience.",
       "rationales": {
         "The second we retroactively makes every reader one of the interviewers.": "A later inclusive use does not change who performed the earlier research action.",
-        "Both uses must refer only to the applicants because they are the nearest plural noun.": "Applicants are the object of interviewed and the source of preferences, not the people represented by the first we.",
-        "The shift means that the writer denies having participated in the interviews.": "Broadening we for shared observation does not retract the first sentence's researcher-inclusive claim.",
+        "Both uses must refer only to the applicants because they are the nearest plural noun.": "Applicants are the object of 'interviewed' and the source of preferences, not the people represented by the first 'we'.",
+        "The shift means that the writer denies having participated in the interviews.": "Broadening 'we' for shared observation does not retract the first sentence's researcher-inclusive claim.",
         "The first we refers to the researchers; the second can include researchers and readers without attributing the interviews to readers.": "First-person plural reference can shift with the discourse action: conducting interviews involves the team, while inspecting displayed results can include the audience."
       },
       "audit": {
@@ -3634,7 +3634,7 @@
     {
       "id": "coverage-pronouns-and-reference-c2-2758",
       "level": "C2",
-      "setupText": "Choose the expansion of one that preserves the requested text and the explicitly excluded text.",
+      "setupText": "Choose the expansion of 'one' that preserves the requested text and the explicitly excluded text.",
       "taskText": "The editor requested an English translation of the appendix to the report, not of the report itself. The agency supplied one.",
       "options": [
         "The agency supplied an appendix to its English translation of the report.",
@@ -3643,12 +3643,12 @@
         "The agency supplied an English translation of the report except for its appendix."
       ],
       "answer": "The agency supplied an English translation of the report's appendix.",
-      "explanation": "One recovers the requested translation, including the appendix relationship and the contrast excluding the whole report. It does not attach appendix to an already translated report.",
+      "explanation": "'One' recovers the requested translation, including the appendix relationship and the contrast excluding the whole report. It does not attach 'appendix' to an already translated report.",
       "rationales": {
         "The agency supplied an appendix to its English translation of the report.": "This makes the appendix an addition to a translated report, instead of making the appendix itself the translated text.",
         "The agency supplied an English report with an untranslated appendix.": "This translates the excluded whole report while leaving the requested appendix untranslated.",
         "The agency supplied an English translation of the report except for its appendix.": "This reverses the explicit contrast: the appendix, not the report itself, was requested for translation.",
-        "The agency supplied an English translation of the report's appendix.": "One recovers the requested translation, including the appendix relationship and the contrast excluding the whole report. It does not attach appendix to an already translated report."
+        "The agency supplied an English translation of the report's appendix.": "'One' recovers the requested translation, including the appendix relationship and the contrast excluding the whole report. It does not attach 'appendix' to an already translated report."
       },
       "audit": {
         "status": "reviewed",
@@ -3667,7 +3667,7 @@
       "id": "coverage-pronouns-and-reference-c2-2759",
       "level": "C2",
       "setupText": "Choose the editorial assessment that preserves what the possessive does and does not identify.",
-      "taskText": "A catalogue says, 'The curator moved her portrait into the smaller gallery.' No other context says who painted the portrait, whom it depicts or who owns it. An editor changes her portrait to the portrait she painted.",
+      "taskText": "A catalogue says, 'The curator moved her portrait into the smaller gallery.' No other context says who painted the portrait, whom it depicts or who owns it. An editor changes 'her portrait' to 'the portrait she painted'.",
       "options": [
         "The edit is required because a possessive before an artwork always identifies its artist.",
         "The edit selects authorship from several possible relationships expressed by her portrait.",
@@ -3675,10 +3675,10 @@
         "The edit removes an explicit statement that the curator owns the painting."
       ],
       "answer": "The edit selects authorship from several possible relationships expressed by her portrait.",
-      "explanation": "Her portrait can be a portrait she painted, owns or appears in. The possessive alone does not settle that relationship, so the edit adds a specific interpretation.",
+      "explanation": "'Her portrait' can be a portrait she painted, owns or appears in. The possessive alone does not settle that relationship, so the edit adds a specific interpretation.",
       "rationales": {
-        "The edit selects authorship from several possible relationships expressed by her portrait.": "Her portrait can be a portrait she painted, owns or appears in. The possessive alone does not settle that relationship, so the edit adds a specific interpretation.",
-        "The edit is required because a possessive before an artwork always identifies its artist.": "Possessive relationships are broader than authorship; her portrait can also identify its subject or owner.",
+        "The edit selects authorship from several possible relationships expressed by her portrait.": "'Her portrait' can be a portrait she painted, owns or appears in. The possessive alone does not settle that relationship, so the edit adds a specific interpretation.",
+        "The edit is required because a possessive before an artwork always identifies its artist.": "Possessive relationships are broader than authorship; 'her portrait' can also identify its subject or owner.",
         "The edit is wrong because her portrait can only mean a portrait depicting her.": "Depiction is a natural reading, but context can support ownership or authorship too; it is not the only possible relationship.",
         "The edit removes an explicit statement that the curator owns the painting.": "Ownership is a possible original reading, not an explicit unique relationship. The edit selects authorship but does not deny ownership."
       },

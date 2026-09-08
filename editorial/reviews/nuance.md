@@ -912,21 +912,21 @@ ID: `coverage-nuance-a2-2069`
 
 A receptionist says, 'I'm afraid there are no rooms left tonight.'
 
-What does 'I'm afraid' do in this message?
+What does "I'm afraid" do in this message?
 
 1. Says the receptionist is frightened of a room.
 2. Asks the visitor to be afraid too.
 3. Softens news the visitor may not welcome. **[Correct]**
 4. Makes the room availability uncertain.
 
-**Explanation:** I'm afraid commonly introduces unwelcome information politely; it need not describe fear.
+**Explanation:** "I'm afraid" commonly introduces unwelcome information politely; it need not describe fear.
 
 **Choice feedback:**
 
 - **Says the receptionist is frightened of a room.:** Here the phrase introduces disappointing news, not a frightening object.
 - **Asks the visitor to be afraid too.:** No instruction about the visitor's feelings is given.
-- **Softens news the visitor may not welcome.:** I'm afraid commonly introduces unwelcome information politely; it need not describe fear.
-- **Makes the room availability uncertain.:** There are no rooms left remains a clear statement; the phrase softens its delivery.
+- **Softens news the visitor may not welcome.:** "I'm afraid" commonly introduces unwelcome information politely; it need not describe fear.
+- **Makes the room availability uncertain.:** 'There are no rooms left' remains a clear statement; the phrase softens its delivery.
 
 **Decision:** replaced.
 
@@ -1040,20 +1040,20 @@ ID: `coverage-nuance-a2-2073`
 
 The whole office joined the dance lesson. Even Dan came, though he usually avoids dancing.
 
-Why is 'even' used before Dan?
+Why is 'even' used before 'Dan'?
 
 1. He attended for longer than everyone else.
 2. His attendance is presented as surprising. **[Correct]**
 3. He was the instructor for the group.
 4. He attended instead of the other workers.
 
-**Explanation:** Even highlights an unexpected included person; Dan's usual avoidance explains the surprise.
+**Explanation:** 'Even' highlights an unexpected included person; Dan's usual avoidance explains the surprise.
 
 **Choice feedback:**
 
-- **He attended for longer than everyone else.:** Even marks unexpected inclusion, not duration.
-- **His attendance is presented as surprising.:** Even highlights an unexpected included person; Dan's usual avoidance explains the surprise.
-- **He was the instructor for the group.:** Came says he attended; even does not assign a teaching role.
+- **He attended for longer than everyone else.:** 'Even' marks unexpected inclusion, not duration.
+- **His attendance is presented as surprising.:** 'Even' highlights an unexpected included person; Dan's usual avoidance explains the surprise.
+- **He was the instructor for the group.:** 'Came' says he attended; 'even' does not assign a teaching role.
 - **He attended instead of the other workers.:** The whole office came, so Dan was included rather than substituted.
 
 **Decision:** replaced.
@@ -2296,21 +2296,21 @@ ID: `coverage-nuance-b2-2112`
 
 A journalist writes, 'The contractor claims that the repairs are complete.'
 
-Compared with 'says,' what can 'claims' signal here?
+Compared with 'says', what can 'claims' signal here?
 
 1. The journalist has proved the repairs incomplete.
 2. The contractor has supplied documentary proof.
 3. The journalist personally inspected and endorsed the work.
 4. The assertion is attributed without the journalist endorsing it. **[Correct]**
 
-**Explanation:** Claims can mark distance from an assertion's truth; it need not mean that the journalist has disproved it.
+**Explanation:** 'Claims' can mark distance from an assertion's truth; it need not mean that the journalist has disproved it.
 
 **Choice feedback:**
 
 - **The journalist has proved the repairs incomplete.:** Distance from a claim does not establish that it is false.
-- **The contractor has supplied documentary proof.:** Claims does not identify evidence supplied.
+- **The contractor has supplied documentary proof.:** 'Claims' does not identify evidence supplied.
 - **The journalist personally inspected and endorsed the work.:** The wording attributes the assertion instead of expressing personal endorsement.
-- **The assertion is attributed without the journalist endorsing it.:** Claims can mark distance from an assertion's truth; it need not mean that the journalist has disproved it.
+- **The assertion is attributed without the journalist endorsing it.:** 'Claims' can mark distance from an assertion's truth; it need not mean that the journalist has disproved it.
 
 **Decision:** replaced.
 
@@ -3550,7 +3550,7 @@ What stance does 'tellingly' add to the observation?
 
 ID: `coverage-nuance-c2-2151`
 
-The interviewer called the decision a retreat. The minister let that characterization pass.
+The interviewer called the decision 'a retreat'. The minister let that characterization pass.
 
 Which account preserves the distinction between response and belief?
 
@@ -3559,11 +3559,11 @@ Which account preserves the distinction between response and belief?
 3. The minister formally adopted retreat as the administration's description.
 4. The minister did not hear the interviewer's characterization.
 
-**Explanation:** Let a characterization pass describes non-challenge; acquiescence may be suggested, but explicit endorsement and private agreement are not established.
+**Explanation:** 'Let a characterization pass' describes non-challenge; acquiescence may be suggested, but explicit endorsement and private agreement are not established.
 
 **Choice feedback:**
 
-- **The minister did not contest the wording in that exchange.:** Let a characterization pass describes non-challenge; acquiescence may be suggested, but explicit endorsement and private agreement are not established.
+- **The minister did not contest the wording in that exchange.:** 'Let a characterization pass' describes non-challenge; acquiescence may be suggested, but explicit endorsement and private agreement are not established.
 - **The minister privately accepted that retreat was the correct term.:** Not contesting a characterization does not reveal a private belief with certainty.
 - **The minister formally adopted retreat as the administration's description.:** Letting wording pass is not the same as formally adopting it.
 - **The minister did not hear the interviewer's characterization.:** Failure to hear is one possible explanation of silence, not what the report asserts.
@@ -3838,7 +3838,7 @@ What shift in evaluation does this introduce?
 
 ID: `coverage-nuance-c2-2160`
 
-The spokesperson calls the charge a contribution rather than a fee. A commentator replies that this is 'a distinction without a difference.'
+The spokesperson calls the charge 'a contribution' rather than 'a fee'. A commentator replies that this is 'a distinction without a difference.'
 
 What does the commentator most likely challenge?
 
@@ -3847,13 +3847,13 @@ What does the commentator most likely challenge?
 3. Whether the changed label corresponds to a relevant substantive change **[Correct]**
 4. Whether the spokesperson sincerely prefers the new label
 
-**Explanation:** A distinction without a difference concedes a verbal or formal distinction while denying a relevant substantive contrast in the present context.
+**Explanation:** 'A distinction without a difference' concedes a verbal or formal distinction while denying a relevant substantive contrast in the present context.
 
 **Choice feedback:**
 
 - **Whether contribution is the conventional term in formal accounts:** The expression disputes substantive difference, not conventional terminology within a genre.
 - **Whether the audience understands the intended distinction:** The commentator can understand a proposed distinction while judging that it makes no relevant difference.
-- **Whether the changed label corresponds to a relevant substantive change:** A distinction without a difference concedes a verbal or formal distinction while denying a relevant substantive contrast in the present context.
+- **Whether the changed label corresponds to a relevant substantive change:** 'A distinction without a difference' concedes a verbal or formal distinction while denying a relevant substantive contrast in the present context.
 - **Whether the spokesperson sincerely prefers the new label:** Sincerity about a naming preference is separate from whether the renamed charge changes in substance.
 
 **Decision:** replaced.

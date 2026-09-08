@@ -12,7 +12,7 @@ ID: `coverage-academic-vocabulary-a1-1`
 
 My driving lesson is from two to three.
 
-What is a lesson here?
+What does 'lesson' mean here?
 
 1. a time when you repair something
 2. a journey you make to work
@@ -24,7 +24,7 @@ What is a lesson here?
 **Choice feedback:**
 
 - **a time when you repair something:** Repair work fixes something; a driving lesson teaches a skill.
-- **a journey you make to work:** A journey can involve driving, but lesson names the teaching time.
+- **a journey you make to work:** A journey can involve driving, but 'lesson' names the teaching time.
 - **a time when someone teaches you:** A lesson is a period of teaching, here learning to drive.
 - **a break before you start work:** A lesson involves learning, not a rest from work.
 
@@ -56,7 +56,7 @@ What is the main purpose of the test?
 **Choice feedback:**
 
 - **to check what we have learned:** A course test checks learners' knowledge or skills.
-- **to choose our next teacher:** Choosing staff is not what test means in this course.
+- **to choose our next teacher:** Choosing staff is not what 'test' means in this course.
 - **to buy our course books:** Buying books is preparation, not a test of learning.
 - **to arrange our lesson times:** A timetable arranges times; a test checks learning.
 
@@ -83,14 +83,14 @@ Which part is the learner's answer?
 3. Learner
 4. In Lima. **[Correct]**
 
-**Explanation:** An answer responds to a question; In Lima gives the requested place.
+**Explanation:** An answer responds to a question; 'In Lima' gives the requested place.
 
 **Choice feedback:**
 
-- **Tutor:** Tutor names the person asking, not the reply.
+- **Tutor:** 'Tutor' names the person asking, not the reply.
 - **Where do you live?:** This asks for information; it is the question.
-- **Learner:** Learner labels the speaker, not the words of the answer.
-- **In Lima.:** An answer responds to a question; In Lima gives the requested place.
+- **Learner:** 'Learner' labels the speaker, not the words of the answer.
+- **In Lima.:** An answer responds to a question; 'In Lima' gives the requested place.
 
 **Decision:** replaced.
 
@@ -108,20 +108,20 @@ ID: `coverage-academic-vocabulary-a1-4`
 
 After work, Mei studies English at home.
 
-What does studies mean here?
+What does 'studies' mean here?
 
 1. teaches other people
 2. works to learn something **[Correct]**
 3. stops learning a subject
 4. chooses a different language
 
-**Explanation:** To study is to spend time learning a subject, for example by reading and doing exercises.
+**Explanation:** 'To study' is to spend time learning a subject, for example by reading and doing exercises.
 
 **Choice feedback:**
 
 - **teaches other people:** Teaching helps others learn; this sentence describes Mei's own learning.
-- **works to learn something:** To study is to spend time learning a subject, for example by reading and doing exercises.
-- **stops learning a subject:** Studies means works at learning, not stops.
+- **works to learn something:** 'To study' is to spend time learning a subject, for example by reading and doing exercises.
+- **stops learning a subject:** 'Studies' means 'works at learning', not 'stops'.
 - **chooses a different language:** Studying does not mean changing the subject she chose.
 
 **Decision:** replaced.
@@ -153,7 +153,7 @@ What is the topic of the talk?
 
 - **food:** The topic is what a talk is about; here it is food.
 - **A Taste of Home:** These words are the title, the name given to the talk.
-- **the person speaking:** The speaker gives the talk; topic names its subject.
+- **the person speaking:** The speaker gives the talk; 'topic' names its subject.
 - **the room for the talk:** The room is its location, not what it is about.
 
 **Decision:** replaced.
@@ -172,20 +172,20 @@ ID: `coverage-academic-vocabulary-a1-6`
 
 Our English class has twelve adults from five countries.
 
-What does class mean in this sentence?
+What does 'class' mean in this sentence?
 
 1. the room where we learn
 2. the book we use to learn
 3. the group learning together **[Correct]**
 4. the time when we have a break
 
-**Explanation:** Class can mean the learners taught together, as it does here.
+**Explanation:** 'Class' can mean the learners taught together, as it does here.
 
 **Choice feedback:**
 
-- **the room where we learn:** The room holds learners, but twelve adults describes the group itself.
+- **the room where we learn:** The room holds learners, but 'twelve adults' describes the group itself.
 - **the book we use to learn:** A book contains material; it is not the group of adults.
-- **the group learning together:** Class can mean the learners taught together, as it does here.
+- **the group learning together:** 'Class' can mean the learners taught together, as it does here.
 - **the time when we have a break:** The number and countries describe people, not a break time.
 
 **Decision:** replaced.
@@ -247,7 +247,7 @@ What should you look for?
 
 **Choice feedback:**
 
-- **the sixth book on the shelf:** Page is part of one book, not a separate book on a shelf.
+- **the sixth book on the shelf:** 'Page' refers to part of one book, not a separate book on a shelf.
 - **the side of a sheet numbered 6:** A page is one side of a sheet in a book; its printed number helps you find it.
 - **the sixth word on the cover:** A word is much smaller than the numbered page requested.
 - **the sixth lesson on the timetable:** The instruction names a page inside the book, not a lesson time.
@@ -275,13 +275,13 @@ Which choice is one whole word from the sentence?
 3. work here
 4. I work here.
 
-**Explanation:** Work is a complete word between the spaces in this sentence.
+**Explanation:** 'Work' is a complete word between the spaces in this sentence.
 
 **Choice feedback:**
 
-- **work:** Work is a complete word between the spaces in this sentence.
-- **w:** W is one letter from work, not the whole word.
-- **work here:** This contains two words, work and here.
+- **work:** 'Work' is a complete word between the spaces in this sentence.
+- **w:** 'W' is one letter from 'work', not the whole word.
+- **work here:** This contains two words, 'work' and 'here'.
 - **I work here.:** This is the whole three-word sentence, not one word.
 
 **Decision:** replaced.
@@ -343,10 +343,10 @@ At college, Ben is a student. What does that mean?
 
 **Choice feedback:**
 
-- **He sells the course books.:** Selling books is a job; student describes his learning role.
+- **He sells the course books.:** Selling books is a job; 'student' describes his learning role.
 - **He is learning on the course.:** A student is someone studying; students can be adults of any age.
 - **He teaches the Friday course.:** Teaching is the teacher's role; a student attends to learn.
-- **He cleans the college rooms.:** Cleaning is not the meaning of student, even if a student also has a job.
+- **He cleans the college rooms.:** Cleaning is not the meaning of 'student', even if a student also has a job.
 
 **Decision:** replaced.
 
@@ -364,20 +364,20 @@ ID: `coverage-academic-vocabulary-a1-12`
 
 The worksheet says, 'Match each word to a picture.'
 
-What does match ask you to do?
+What does 'match' ask you to do?
 
 1. write each word three times
 2. draw a new picture for each word
 3. put each word with the right picture **[Correct]**
 4. read each word to the class
 
-**Explanation:** Match means connect things that belong together, here words and their pictures.
+**Explanation:** 'Match' means connect things that belong together, here words and their pictures.
 
 **Choice feedback:**
 
 - **write each word three times:** Repeating the word practises writing; it does not connect words and pictures.
 - **draw a new picture for each word:** The instruction uses the pictures already provided.
-- **put each word with the right picture:** Match means connect things that belong together, here words and their pictures.
+- **put each word with the right picture:** 'Match' means connect things that belong together, here words and their pictures.
 - **read each word to the class:** Reading aloud does not show which picture belongs with each word.
 
 **Decision:** replaced.
@@ -407,9 +407,9 @@ What is happening on Monday?
 
 **Choice feedback:**
 
-- **the first lesson of the course:** Final points to the end; exam names a test rather than a lesson.
+- **the first lesson of the course:** 'Final' points to the end; 'exam' names a test rather than a lesson.
 - **a test at the end of the course:** A final exam checks learning at the end of a course or stage.
-- **a meeting to buy new pens:** Bring a pen tells you what to take, not the purpose of the event.
+- **a meeting to buy new pens:** 'Bring a pen' tells you what to take, not the purpose of the event.
 - **a break from the course:** An exam is an assessment activity, not time away from learning.
 
 **Decision:** replaced.
@@ -435,13 +435,13 @@ Which action follows that instruction?
 3. Look at the written words without speaking. **[Correct]**
 4. Write the same message on a new page.
 
-**Explanation:** Read silently means take in the written message without saying it aloud.
+**Explanation:** 'Read silently' means take in the written message without saying it aloud.
 
 **Choice feedback:**
 
-- **Say the message so everyone hears it.:** Silently means without speaking; this would be reading aloud.
+- **Say the message so everyone hears it.:** 'Silently' means without speaking; this would be reading aloud.
 - **Listen while someone says the message.:** Listening uses another person's voice; the instruction asks you to read.
-- **Look at the written words without speaking.:** Read silently means take in the written message without saying it aloud.
+- **Look at the written words without speaking.:** 'Read silently' means take in the written message without saying it aloud.
 - **Write the same message on a new page.:** Writing it again is copying, not the requested silent reading.
 
 **Decision:** replaced.
@@ -467,12 +467,12 @@ What should you put in the box?
 3. a picture of your face
 4. a link to the next exercise
 
-**Explanation:** Write asks you to produce written words, here by typing in the box.
+**Explanation:** 'Write' asks you to produce written words, here by typing in the box.
 
 **Choice feedback:**
 
-- **words that answer the question:** Write asks you to produce written words, here by typing in the box.
-- **a recording of your voice:** A recording is a spoken answer; write asks for written words.
+- **words that answer the question:** 'Write' asks you to produce written words, here by typing in the box.
+- **a recording of your voice:** A recording is a spoken answer; 'write' asks for written words.
 - **a picture of your face:** A photograph does not provide the requested written answer.
 - **a link to the next exercise:** The box is for your answer, not a way to move to another exercise.
 
@@ -505,7 +505,7 @@ What should you pay attention to?
 
 - **the words on the next page:** The books are closed; this is not a reading task.
 - **your partner's written answer:** A written answer is something to read, not the recording named here.
-- **the pictures on the cover:** Pictures are visual; listen directs attention to sound.
+- **the pictures on the cover:** Pictures are visual; 'listen' directs attention to sound.
 - **the voices you can hear:** Listening means paying attention to sound, here the recorded voices.
 
 **Decision:** replaced.
@@ -524,7 +524,7 @@ ID: `coverage-academic-vocabulary-a1-17`
 
 The piano teacher says, 'Ten minutes of practice every day will help.'
 
-What does practice mean here?
+What does 'practice' mean here?
 
 1. time spent choosing an instrument
 2. time spent watching a concert
@@ -536,7 +536,7 @@ What does practice mean here?
 **Choice feedback:**
 
 - **time spent choosing an instrument:** Choosing is preparation; it is not working on the playing skill.
-- **time spent watching a concert:** Watching may be useful, but practice here means doing the playing yourself.
+- **time spent watching a concert:** Watching may be useful, but 'practice' here means doing the playing yourself.
 - **time spent waiting for a lesson:** Waiting does not involve the repeated work the teacher recommends.
 - **time spent playing to improve:** Practice is activity done to develop a skill, here playing the piano regularly.
 
@@ -569,7 +569,7 @@ What does my score tell me?
 
 - **how many minutes I used:** A score measures points here, not time.
 - **how many pages I read:** Page count is not what the quiz awards points for.
-- **how many quizzes I took:** Eight out of ten is the result of this quiz, not a count of quizzes.
+- **how many quizzes I took:** 'Eight out of ten' is the result of this quiz, not a count of quizzes.
 - **how many points I got:** Your score is the points awarded: eight from a possible ten.
 
 **Decision:** replaced.
@@ -656,7 +656,7 @@ ID: `coverage-academic-vocabulary-a2-21`
 
 One learner remembers new words with pictures. Another uses short recordings.
 
-They use different methods. What are methods here?
+They use different methods. What does 'methods' mean here?
 
 1. reasons for joining
 2. subjects to learn
@@ -668,7 +668,7 @@ They use different methods. What are methods here?
 **Choice feedback:**
 
 - **reasons for joining:** A reason explains why they joined, not how they learn.
-- **subjects to learn:** Both learners are working on words; method describes their approach, not a different subject.
+- **subjects to learn:** Both learners are working on words; 'method' describes their approach, not a different subject.
 - **results of learning:** Results come from the activity; the methods are ways of doing it.
 - **ways of learning:** A method is a way of doing something; pictures and recordings are different ways to learn words.
 
@@ -727,12 +727,12 @@ Which word describes the second statement as a personal view?
 3. a measurement
 4. an instruction
 
-**Explanation:** An opinion is a person's view; nicest depends on what someone likes.
+**Explanation:** An opinion is a person's view; 'nicest' depends on what someone likes.
 
 **Choice feedback:**
 
-- **a date:** A date tells when something happened; nicest expresses a judgment.
-- **an opinion:** An opinion is a person's view; nicest depends on what someone likes.
+- **a date:** A date tells when something happened; 'nicest' expresses a judgment.
+- **an opinion:** An opinion is a person's view; 'nicest' depends on what someone likes.
 - **a measurement:** A measurement gives an amount or size, not a personal judgment of beauty.
 - **an instruction:** An instruction tells someone what to do; this statement expresses a view.
 
@@ -784,7 +784,7 @@ ID: `coverage-academic-vocabulary-a2-25`
 
 The course aim is to help adults use email. At the start, many learners cannot send a message.
 
-What does aim mean here?
+What does 'aim' mean here?
 
 1. what learners have already achieved
 2. how long each lesson lasts
@@ -823,13 +823,13 @@ Which part is the definition?
 3. the name of the dictionary
 4. the page number of the entry
 
-**Explanation:** A definition explains what a word means; these words explain island.
+**Explanation:** A definition explains what a word means; these words explain 'island'.
 
 **Choice feedback:**
 
-- **island:** Island is the word being explained, not its explanation.
-- **land with water all around it:** A definition explains what a word means; these words explain island.
-- **the name of the dictionary:** The dictionary's name identifies the book, not the meaning of island.
+- **island:** 'Island' is the word being explained, not its explanation.
+- **land with water all around it:** A definition explains what a word means; these words explain 'island'.
+- **the name of the dictionary:** The dictionary's name identifies the book, not the meaning of 'island'.
 - **the page number of the entry:** A page number helps locate the entry but does not explain the word.
 
 **Decision:** replaced.
@@ -912,7 +912,7 @@ ID: `coverage-academic-vocabulary-a2-29`
 
 On this course, written work receives A, B, C or D. My essay received a grade of B.
 
-What does grade mean here?
+What does 'grade' mean here?
 
 1. a rating of my work **[Correct]**
 2. my current year level at school
@@ -924,8 +924,8 @@ What does grade mean here?
 **Choice feedback:**
 
 - **a rating of my work:** A grade shows how work was assessed; this course uses letters for its ratings.
-- **my current year level at school:** Grade can refer to a school year in some varieties, but here it rates an essay.
-- **the number of words I wrote:** B is the assessment result, not a word count.
+- **my current year level at school:** 'Grade' can refer to a school year in some varieties, but here it rates an essay.
+- **the number of words I wrote:** 'B' is the assessment result, not a word count.
 - **a comment about one spelling error:** A grade is the overall rating here; a detailed comment explains a specific issue.
 
 **Decision:** replaced.
@@ -944,7 +944,7 @@ ID: `coverage-academic-vocabulary-a2-30`
 
 Marta is choosing between history and computing at college.
 
-These are subjects. What does subjects mean here?
+These are subjects. What does 'subjects' mean here?
 
 1. people taking part in a study
 2. pieces of work she must hand in
@@ -955,7 +955,7 @@ These are subjects. What does subjects mean here?
 
 **Choice feedback:**
 
-- **people taking part in a study:** Subjects can mean participants, but history and computing are not people.
+- **people taking part in a study:** 'Subjects' can mean participants, but history and computing are not people.
 - **pieces of work she must hand in:** Assignments are pieces of work; subjects are the areas the work concerns.
 - **rooms where lessons take place:** Subjects name what is studied, not the location of teaching.
 - **areas she can study:** A subject is an area of knowledge studied on a course, such as history.
@@ -1008,7 +1008,7 @@ ID: `coverage-academic-vocabulary-a2-32`
 
 For a project on local shops, we read old records and ask long-time residents questions. Our research takes a month.
 
-What does research name here?
+What does 'research' name here?
 
 1. the final talk we give
 2. the work we do to find information **[Correct]**
@@ -1019,7 +1019,7 @@ What does research name here?
 
 **Choice feedback:**
 
-- **the final talk we give:** A talk may report the research; research names the investigation itself.
+- **the final talk we give:** A talk may report the research; 'research' names the investigation itself.
 - **the work we do to find information:** Research involves investigating a subject to learn more about it, using sources such as records and interviews.
 - **the pictures on our front page:** Pictures can be part of a project but are not the whole investigation.
 - **the marks our tutor gives:** Marks assess the work; they are not the work of finding things out.
@@ -1104,7 +1104,7 @@ ID: `coverage-academic-vocabulary-a2-35`
 
 Four learners came in the morning and six in the afternoon. The total was ten.
 
-What does total mean here?
+What does 'total' mean here?
 
 1. the largest of the two groups
 2. the number from both groups together **[Correct]**
@@ -1115,10 +1115,10 @@ What does total mean here?
 
 **Choice feedback:**
 
-- **the largest of the two groups:** The larger group has six; total combines both groups.
+- **the largest of the two groups:** The larger group has six; 'total' combines both groups.
 - **the number from both groups together:** A total is the whole amount after the parts are added together.
 - **the number in each group:** The groups have different numbers, four and six; ten is not the count in each.
-- **the difference between the groups:** The difference is two; total refers to combining, not subtracting.
+- **the difference between the groups:** The difference is two; 'total' refers to combining, not subtracting.
 
 **Decision:** replaced.
 
@@ -1136,20 +1136,20 @@ ID: `coverage-academic-vocabulary-a2-36`
 
 The task says, 'Compare the two college websites.'
 
-Which action matches compare?
+Which action matches 'compare'?
 
 1. Copy the words from one website.
 2. Choose a website without looking at the other.
 3. Find ways the websites are alike or different. **[Correct]**
 4. Write instructions for building a website.
 
-**Explanation:** Compare means examine things in relation to each other, including similarities and differences.
+**Explanation:** 'Compare' means examine things in relation to each other, including similarities and differences.
 
 **Choice feedback:**
 
 - **Copy the words from one website.:** Copying reproduces text; it does not examine the two sites together.
 - **Choose a website without looking at the other.:** Comparison requires considering both, not choosing after viewing only one.
-- **Find ways the websites are alike or different.:** Compare means examine things in relation to each other, including similarities and differences.
+- **Find ways the websites are alike or different.:** 'Compare' means examine things in relation to each other, including similarities and differences.
 - **Write instructions for building a website.:** That describes a procedure, not similarities or differences between these sites.
 
 **Decision:** replaced.
@@ -1200,20 +1200,20 @@ ID: `coverage-academic-vocabulary-a2-38`
 
 A worksheet asks you to identify the capital city named in a short text.
 
-What does identify ask you to do?
+What does 'identify' ask you to do?
 
 1. explain the city's whole history
 2. replace it with a different city
 3. find it and say which city it is **[Correct]**
 4. decide whether you like the city
 
-**Explanation:** Identify means recognize or name the thing requested.
+**Explanation:** 'Identify' means recognize or name the thing requested.
 
 **Choice feedback:**
 
-- **explain the city's whole history:** Identify asks which city it is, not for a full historical explanation.
+- **explain the city's whole history:** 'Identify' asks which city it is, not for a full historical explanation.
 - **replace it with a different city:** Changing the city is editing the information, not identifying it.
-- **find it and say which city it is:** Identify means recognize or name the thing requested.
+- **find it and say which city it is:** 'Identify' means recognize or name the thing requested.
 - **decide whether you like the city:** Personal preference does not identify the city mentioned.
 
 **Decision:** replaced.
@@ -1264,7 +1264,7 @@ ID: `coverage-academic-vocabulary-a2-40`
 
 The article is about a new public garden. It says the gates open at seven each morning.
 
-The opening time is a detail. What does detail mean here?
+The opening time is a detail. What does 'detail' mean here?
 
 1. the whole subject of the article
 2. the name given to the article
@@ -1307,14 +1307,14 @@ What do the blue lines do?
 3. explain why rivers formed
 4. show where rivers are **[Correct]**
 
-**Explanation:** Indicate can mean show or point out; the lines represent the rivers' locations.
+**Explanation:** 'Indicate' can mean show or point out; the lines represent the rivers' locations.
 
 **Choice feedback:**
 
-- **cause rivers to change direction:** Indicate describes representation on the map, not an effect on real rivers.
+- **cause rivers to change direction:** 'Indicate' describes representation on the map, not an effect on real rivers.
 - **measure how deep rivers are:** The sentence assigns the lines a location function, not a depth scale.
 - **explain why rivers formed:** A symbol can show a river without explaining its origin.
-- **show where rivers are:** Indicate can mean show or point out; the lines represent the rivers' locations.
+- **show where rivers are:** 'Indicate' can mean show or point out; the lines represent the rivers' locations.
 
 **Decision:** replaced.
 
@@ -1332,21 +1332,21 @@ ID: `coverage-academic-vocabulary-b1-42`
 
 A historian calls the opening of the first public school a significant event in the town's history.
 
-The history book is not reporting a statistical test. What does significant mean here?
+The history book is not reporting a statistical test. What does 'significant' mean here?
 
 1. difficult to date precisely
 2. mentioned only in private records
 3. recent compared with other events
 4. important in the town's development **[Correct]**
 
-**Explanation:** Significant in this ordinary historical use means important or meaningful.
+**Explanation:** 'Significant' in this ordinary historical use means important or meaningful.
 
 **Choice feedback:**
 
 - **difficult to date precisely:** An event's significance does not tell us whether its date is known.
 - **mentioned only in private records:** The adjective does not specify where records are kept.
 - **recent compared with other events:** An event can be significant whether it happened recently or long ago.
-- **important in the town's development:** Significant in this ordinary historical use means important or meaningful.
+- **important in the town's development:** 'Significant' in this ordinary historical use means important or meaningful.
 
 **Decision:** replaced.
 
@@ -1460,21 +1460,21 @@ ID: `coverage-academic-vocabulary-b1-46`
 
 A report claims that its new reading app improves concentration, but gives no supporting results.
 
-What does claims tell us about that statement?
+What does 'claims' tell us about that statement?
 
 1. The report asks whether the app helps.
 2. The report has withdrawn the statement.
 3. The report presents the statement as true. **[Correct]**
 4. The report proves the statement is false.
 
-**Explanation:** To claim is to assert that something is true; the word does not itself establish proof.
+**Explanation:** 'To claim' is to assert that something is true; the word does not itself establish proof.
 
 **Choice feedback:**
 
 - **The report asks whether the app helps.:** A claim asserts something; it is not just a question.
-- **The report has withdrawn the statement.:** Claims presents the statement rather than takes it back.
-- **The report presents the statement as true.:** To claim is to assert that something is true; the word does not itself establish proof.
-- **The report proves the statement is false.:** The absence of support does not prove falsehood, and claim does not mean disprove.
+- **The report has withdrawn the statement.:** 'Claims' presents the statement rather than takes it back.
+- **The report presents the statement as true.:** 'To claim' is to assert that something is true; the word does not itself establish proof.
+- **The report proves the statement is false.:** The absence of support does not prove falsehood, and 'claim' does not mean 'disprove'.
 
 **Decision:** replaced.
 
@@ -1588,20 +1588,20 @@ ID: `coverage-academic-vocabulary-b1-50`
 
 After comparing the two versions, the tutor concludes that the shorter instructions are easier to follow.
 
-What does concludes mean in this sentence?
+What does 'concludes' mean in this sentence?
 
 1. starts the comparison with a question
 2. finishes the lesson without giving a view
 3. reaches a judgment from the comparison **[Correct]**
 4. defines the word instructions
 
-**Explanation:** Conclude that means reach a view after considering information or reasons.
+**Explanation:** 'Conclude that' means reach a view after considering information or reasons.
 
 **Choice feedback:**
 
-- **starts the comparison with a question:** The comparison precedes the judgment; concludes names the resulting view.
-- **finishes the lesson without giving a view:** Conclude can mean finish, but concludes that introduces a judgment here.
-- **reaches a judgment from the comparison:** Conclude that means reach a view after considering information or reasons.
+- **starts the comparison with a question:** The comparison precedes the judgment; 'concludes' names the resulting view.
+- **finishes the lesson without giving a view:** 'Conclude' can mean 'finish', but 'concludes that' introduces a judgment here.
+- **reaches a judgment from the comparison:** 'Conclude that' means reach a view after considering information or reasons.
 - **defines the word instructions:** A definition explains a word; this statement judges the two versions.
 
 **Decision:** replaced.
@@ -1618,9 +1618,9 @@ What does concludes mean in this sentence?
 
 ID: `coverage-academic-vocabulary-b1-51`
 
-The guide says, 'In this chapter, the term habitat means the natural place where a living thing lives.'
+The guide says, "In this chapter, the term 'habitat' means the natural place where a living thing lives."
 
-What does term mean here?
+What does 'term' mean here?
 
 1. a period in the teaching year
 2. a word used for a particular idea **[Correct]**
@@ -1631,10 +1631,10 @@ What does term mean here?
 
 **Choice feedback:**
 
-- **a period in the teaching year:** Term can name a teaching period, but here it labels habitat as vocabulary.
+- **a period in the teaching year:** 'Term' can name a teaching period, but here it labels 'habitat' as vocabulary.
 - **a word used for a particular idea:** A term is a word or expression with a particular meaning in a subject.
-- **a rule agreed in a contract:** Terms can be conditions, but this sentence is explaining a word.
-- **the final date for an assignment:** The sentence gives no deadline; it defines habitat.
+- **a rule agreed in a contract:** 'Terms' can be conditions, but this sentence is explaining a word.
+- **the final date for an assignment:** The sentence gives no deadline; it defines 'habitat'.
 
 **Decision:** replaced.
 
@@ -1652,7 +1652,7 @@ ID: `coverage-academic-vocabulary-b1-52`
 
 The diagram shows how paper is made, from preparing the fibers to drying the sheets.
 
-What does process refer to in 'the paper-making process'?
+What does 'process' refer to in 'the paper-making process'?
 
 1. the quality rating of the finished paper
 2. the tools listed beside the diagram
@@ -1748,21 +1748,21 @@ ID: `coverage-academic-vocabulary-b1-55`
 
 The project leader selected five photographs because each showed a different stage of construction.
 
-Which statement preserves what selected means here?
+Which statement preserves what 'selected' means here?
 
 1. She took five new photographs.
 2. She approved every photograph submitted.
 3. She arranged the photographs by date.
 4. She chose five photographs for the project. **[Correct]**
 
-**Explanation:** Select means choose from available possibilities; the context gives a reason for the choice.
+**Explanation:** 'Select' means choose from available possibilities; the context gives a reason for the choice.
 
 **Choice feedback:**
 
 - **She took five new photographs.:** Selecting chooses among photographs; it does not say she created them.
 - **She approved every photograph submitted.:** Selecting five is not approving the whole collection.
 - **She arranged the photographs by date.:** Selection chooses the images; their ordering is a separate step.
-- **She chose five photographs for the project.:** Select means choose from available possibilities; the context gives a reason for the choice.
+- **She chose five photographs for the project.:** 'Select' means choose from available possibilities; the context gives a reason for the choice.
 
 **Decision:** replaced.
 
@@ -1780,7 +1780,7 @@ ID: `coverage-academic-vocabulary-b1-56`
 
 Attendance was 60, 65, 63, 70 and 74 over five weeks. The report describes an upward trend.
 
-What does upward trend mean?
+What does 'upward trend' mean?
 
 1. an increase in every single week
 2. an overall movement toward higher numbers **[Correct]**
@@ -1908,7 +1908,7 @@ ID: `coverage-academic-vocabulary-b1-60`
 
 The sentence says, 'After rowing all morning, we stopped at the bank for lunch.'
 
-A tutor says to use the context to understand bank. What should the learner use?
+A tutor says to use the context to understand 'bank'. What should the learner use?
 
 1. the surrounding words about the activity **[Correct]**
 2. the number of letters in bank
@@ -2072,20 +2072,20 @@ ID: `coverage-academic-vocabulary-b2-65`
 
 The regional totals were derived from individual library records by adding the recorded visitor counts.
 
-Which wording preserves derived from in this context?
+Which wording preserves 'derived from' in this context?
 
 1. copied unchanged from a regional report
 2. used to replace the individual records
 3. obtained by working with the individual records **[Correct]**
 4. estimated before the individual records were available
 
-**Explanation:** Derive from identifies an origin; here the totals are obtained through calculation using those records.
+**Explanation:** 'Derive from' identifies an origin; here the totals are obtained through calculation using those records.
 
 **Choice feedback:**
 
 - **copied unchanged from a regional report:** The totals were calculated from individual records, not copied as existing regional totals.
 - **used to replace the individual records:** Derivation describes how the totals were obtained, not deletion or replacement of records.
-- **obtained by working with the individual records:** Derive from identifies an origin; here the totals are obtained through calculation using those records.
+- **obtained by working with the individual records:** 'Derive from' identifies an origin; here the totals are obtained through calculation using those records.
 - **estimated before the individual records were available:** The sentence says the records were the basis of the totals, not unavailable at the time.
 
 **Decision:** replaced.
@@ -2104,7 +2104,7 @@ ID: `coverage-academic-vocabulary-b2-66`
 
 Only photographs taken before 1900 can enter the historical collection. This date limit is a selection criterion.
 
-What does criterion mean here?
+What does 'criterion' mean here?
 
 1. a photograph that has already been selected
 2. a prediction about the collection's popularity
@@ -2168,7 +2168,7 @@ ID: `coverage-academic-vocabulary-b2-68`
 
 Twenty of College A's 100 learners cycle to class. Forty of College B's 400 learners do so.
 
-Which statement correctly uses proportion rather than just number?
+Which statement correctly uses 'proportion' rather than just 'number'?
 
 1. College B has the higher proportion because forty exceeds twenty.
 2. College A has the higher proportion: 20% compared with 10%. **[Correct]**
@@ -2207,11 +2207,11 @@ Which response carries out that contrast?
 3. The first account was published in a magazine.
 4. The journey took place in the eighteenth century.
 
-**Explanation:** To contrast is to bring out differences, here opposing portrayals of the same people.
+**Explanation:** 'To contrast' is to bring out differences, here opposing portrayals of the same people.
 
 **Choice feedback:**
 
-- **One portrays the travelers as prepared; the other presents them as reckless.:** To contrast is to bring out differences, here opposing portrayals of the same people.
+- **One portrays the travelers as prepared; the other presents them as reckless.:** 'To contrast' is to bring out differences, here opposing portrayals of the same people.
 - **Both accounts concern the same journey.:** That notes a similarity, whereas the instruction focuses on differences in portrayal.
 - **The first account was published in a magazine.:** This describes one source alone without relating the portrayals.
 - **The journey took place in the eighteenth century.:** That supplies shared background rather than contrasts the accounts.
@@ -2243,10 +2243,10 @@ Which term best describes this emphasis on meanings and experiences?
 
 **Choice feedback:**
 
-- **historical:** Historical specifies a focus on the past; the interview emphasis alone does not establish that.
+- **historical:** 'Historical' specifies a focus on the past; the interview emphasis alone does not establish that.
 - **qualitative:** Qualitative research examines qualities, meanings or experiences, often through material such as interviews.
 - **numerical:** Numerical work centers on quantities, unlike the thematic emphasis described.
-- **experimental:** Experimental concerns testing through planned interventions; no such intervention is described.
+- **experimental:** 'Experimental' concerns testing through planned interventions; no such intervention is described.
 
 **Decision:** replaced.
 
@@ -2264,7 +2264,7 @@ ID: `coverage-academic-vocabulary-b2-71`
 
 A report examines access to city parks but excludes how the parks are financed. Its scope is stated in the introduction.
 
-What does scope describe here?
+What does 'scope' describe here?
 
 1. the issues the report covers and leaves outside **[Correct]**
 2. the strength of the evidence for each finding
@@ -2278,7 +2278,7 @@ What does scope describe here?
 - **the issues the report covers and leaves outside:** Scope sets the range or boundaries of the inquiry, here access but not financing.
 - **the strength of the evidence for each finding:** Evidence quality is a separate question from the range of subjects covered.
 - **the writer's reason for preferring city life:** The scope does not tell us the writer's personal preference.
-- **the total number of words allowed:** Length can constrain a report, but scope here describes its subject boundaries.
+- **the total number of words allowed:** Length can constrain a report, but 'scope' here describes its subject boundaries.
 
 **Decision:** replaced.
 
@@ -2303,13 +2303,13 @@ Who is doing the inferring?
 3. The reader, by reaching a conclusion from clues **[Correct]**
 4. The traveler, by copying another person's words
 
-**Explanation:** Infer means reason from evidence or indications to a conclusion.
+**Explanation:** 'Infer' means reason from evidence or indications to a conclusion.
 
 **Choice feedback:**
 
-- **The writer, by suggesting more than is stated:** That describes implying; infer names drawing the conclusion from clues.
+- **The writer, by suggesting more than is stated:** That describes implying; 'infer' names drawing the conclusion from clues.
 - **The editor, by deleting the writer's complaints:** No deletion is described; inference is an act of interpretation.
-- **The reader, by reaching a conclusion from clues:** Infer means reason from evidence or indications to a conclusion.
+- **The reader, by reaching a conclusion from clues:** 'Infer' means reason from evidence or indications to a conclusion.
 - **The traveler, by copying another person's words:** Copying wording is not drawing a conclusion, and it is not described here.
 
 **Decision:** replaced.
@@ -2335,14 +2335,14 @@ Which activity is assessment rather than description alone?
 3. Retelling each journey in date order
 4. Judging how well it answers the research question **[Correct]**
 
-**Explanation:** Assess means evaluate; here the judgment is about usefulness for a specified inquiry.
+**Explanation:** 'Assess' means 'evaluate'; here the judgment is about usefulness for a specified inquiry.
 
 **Choice feedback:**
 
 - **Listing the diary's chapter headings:** A list describes organization but does not judge usefulness.
 - **Copying its publication details:** Bibliographic details identify the source without evaluating it.
 - **Retelling each journey in date order:** Retelling describes content but may leave its usefulness unevaluated.
-- **Judging how well it answers the research question:** Assess means evaluate; here the judgment is about usefulness for a specified inquiry.
+- **Judging how well it answers the research question:** 'Assess' means 'evaluate'; here the judgment is about usefulness for a specified inquiry.
 
 **Decision:** replaced.
 
@@ -2360,7 +2360,7 @@ ID: `coverage-academic-vocabulary-b2-74`
 
 The two observers gave different amounts of detail, but their accounts were consistent with each other.
 
-Which paraphrase preserves consistent here?
+Which paraphrase preserves 'consistent' here?
 
 1. They used exactly the same sentences.
 2. Their accounts did not contradict each other. **[Correct]**
@@ -2424,7 +2424,7 @@ ID: `coverage-academic-vocabulary-b2-76`
 
 A linguist examines 500 messages selected from a collection of 40,000. The 500 messages form the sample.
 
-What does sample mean in this study?
+What does 'sample' mean in this study?
 
 1. the full collection of 40,000 messages
 2. the conclusions written after the analysis
@@ -2463,13 +2463,13 @@ What is it attempting to do?
 3. repeat the investigation to check its findings **[Correct]**
 4. revise the first team's recorded measurements
 
-**Explanation:** Replicate a study means carry it out again to examine whether its findings recur; success is not guaranteed.
+**Explanation:** 'Replicate a study' means carry it out again to examine whether its findings recur; success is not guaranteed.
 
 **Choice feedback:**
 
 - **publish the first team's text under new names:** That would concern copying authorship, not repeating the investigation.
 - **translate the original article into another language:** Translation changes language rather than repeats the study.
-- **repeat the investigation to check its findings:** Replicate a study means carry it out again to examine whether its findings recur; success is not guaranteed.
+- **repeat the investigation to check its findings:** 'Replicate a study' means carry it out again to examine whether its findings recur; success is not guaranteed.
 - **revise the first team's recorded measurements:** The second laboratory gathers its own material rather than edits earlier measurements.
 
 **Decision:** replaced.
@@ -2488,7 +2488,7 @@ ID: `coverage-academic-vocabulary-b2-78`
 
 Before the main article, a short section states the study's purpose, method and main findings. It is headed 'Abstract'.
 
-What does abstract mean as this heading?
+What does 'abstract' mean as this heading?
 
 1. a brief overview of the research article **[Correct]**
 2. an idea that cannot be pictured physically
@@ -2500,7 +2500,7 @@ What does abstract mean as this heading?
 **Choice feedback:**
 
 - **a brief overview of the research article:** An abstract summarizes the study so readers can quickly understand its purpose and main content.
-- **an idea that cannot be pictured physically:** That is a different sense of abstract; the heading names a part of an article.
+- **an idea that cannot be pictured physically:** That is a different sense of 'abstract'; the heading names a part of an article.
 - **the complete list of cited publications:** That list supplies references, not an overview of the study.
 - **an early unfinished version of the article:** A draft is a preliminary version; an abstract can accompany the finished article.
 
@@ -2520,7 +2520,7 @@ ID: `coverage-academic-vocabulary-b2-79`
 
 The researchers use a simplified computer model of traffic flow, leaving out details that are not needed for their question.
 
-Which understanding of model fits?
+Which understanding of 'model' fits?
 
 1. a complete copy containing every real-world detail
 2. a prediction that replaces the need for observations
@@ -2532,8 +2532,8 @@ Which understanding of model fits?
 **Choice feedback:**
 
 - **a complete copy containing every real-world detail:** The model is explicitly simplified, so completeness is not required.
-- **a prediction that replaces the need for observations:** Models can produce predictions, but model does not mean observations become unnecessary.
-- **an ideal driver whom other people should imitate:** Model can mean an example to follow, but here it is a representation of traffic.
+- **a prediction that replaces the need for observations:** Models can produce predictions, but 'model' does not mean observations become unnecessary.
+- **an ideal driver whom other people should imitate:** 'Model' can mean an example to follow, but here it is a representation of traffic.
 - **a representation used to study the real system:** A model represents selected features of a system; useful simplification is part of its purpose.
 
 **Decision:** replaced.
@@ -2588,7 +2588,7 @@ ID: `coverage-academic-vocabulary-c1-81`
 
 Under 'Methodology', the author explains why observation suits her question, what assumptions guide it, and how those assumptions shaped the design.
 
-What does methodology encompass in this particular section?
+What does 'methodology' encompass in this particular section?
 
 1. The approach and reasoning behind the research design **[Correct]**
 2. The resulting measurements, arranged for inspection
@@ -2620,19 +2620,19 @@ ID: `coverage-academic-vocabulary-c1-82`
 
 Across surveyed neighborhoods, longer commutes were associated with lower course attendance. The report calls this a negative correlation.
 
-What does negative describe in this expression?
+What does 'negative' describe in this expression?
 
 1. The measures tend to move in opposite directions. **[Correct]**
 2. The association is undesirable for the researchers.
 3. The recorded values are all below zero.
 4. The evidence contradicts the existence of any relationship.
 
-**Explanation:** Negative correlation describes an inverse association; negative does not mean undesirable or statistically worthless.
+**Explanation:** 'Negative correlation' describes an inverse association; 'negative' does not mean 'undesirable' or 'statistically worthless'.
 
 **Choice feedback:**
 
-- **The measures tend to move in opposite directions.:** Negative correlation describes an inverse association; negative does not mean undesirable or statistically worthless.
-- **The association is undesirable for the researchers.:** Negative describes the direction of the relationship, not the researchers' feelings about it.
+- **The measures tend to move in opposite directions.:** 'Negative correlation' describes an inverse association; 'negative' does not mean 'undesirable' or 'statistically worthless'.
+- **The association is undesirable for the researchers.:** 'Negative' describes the direction of the relationship, not the researchers' feelings about it.
 - **The recorded values are all below zero.:** Positive values can be negatively correlated; the term concerns their relationship.
 - **The evidence contradicts the existence of any relationship.:** A negative correlation is a relationship, not the absence of one.
 
@@ -2684,21 +2684,21 @@ ID: `coverage-academic-vocabulary-c1-84`
 
 The excavation team releases preliminary findings from the first trench while work continues elsewhere on the site.
 
-Which meaning is carried by preliminary rather than added by assumption?
+Which meaning is carried by 'preliminary' rather than added by assumption?
 
 1. The findings have already been disproved.
 2. The findings were produced without observation.
 3. The findings concern events before written history.
 4. The findings come from an early stage of the work. **[Correct]**
 
-**Explanation:** Preliminary identifies an initial, not-yet-final stage; it does not itself measure evidential quality.
+**Explanation:** 'Preliminary' identifies an initial, not-yet-final stage; it does not itself measure evidential quality.
 
 **Choice feedback:**
 
-- **The findings have already been disproved.:** Preliminary does not mean false; later work may confirm or revise the findings.
+- **The findings have already been disproved.:** 'Preliminary' does not mean 'false'; later work may confirm or revise the findings.
 - **The findings were produced without observation.:** An early stage can still produce observational evidence.
-- **The findings concern events before written history.:** That would be prehistoric; preliminary concerns the stage of the investigation.
-- **The findings come from an early stage of the work.:** Preliminary identifies an initial, not-yet-final stage; it does not itself measure evidential quality.
+- **The findings concern events before written history.:** That would be 'prehistoric'; 'preliminary' concerns the stage of the investigation.
+- **The findings come from an early stage of the work.:** 'Preliminary' identifies an initial, not-yet-final stage; it does not itself measure evidential quality.
 
 **Decision:** replaced.
 
@@ -2716,7 +2716,7 @@ ID: `coverage-academic-vocabulary-c1-85`
 
 A study finds that readers miss information placed only in footnotes. Its discussion considers the implications for textbook design, without yet recommending a particular layout.
 
-What are the implications in this use?
+What does 'implications' mean in this use?
 
 1. The exact layout changes the authors have prescribed
 2. The unspoken personal criticisms of textbook writers
@@ -2728,7 +2728,7 @@ What are the implications in this use?
 **Choice feedback:**
 
 - **The exact layout changes the authors have prescribed:** The passage explicitly separates implications from specific recommendations.
-- **The unspoken personal criticisms of textbook writers:** Implications can mean unstated meanings, but here practical consequences for design are intended.
+- **The unspoken personal criticisms of textbook writers:** 'Implications' can mean unstated meanings, but here practical consequences for design are intended.
 - **The original conditions under which readers were recruited:** Recruitment conditions concern methods, not what follows from the finding.
 - **The consequences the finding may have for design choices:** Practical implications are what a finding could mean for subsequent understanding or action.
 
@@ -2748,7 +2748,7 @@ ID: `coverage-academic-vocabulary-c1-86`
 
 Researchers interview the same adults each year for a decade to follow changes in their reading habits.
 
-Why is longitudinal an appropriate description of this design?
+Why is 'longitudinal' an appropriate description of this design?
 
 1. It compares different age groups at one moment.
 2. It follows change in the participants over time. **[Correct]**
@@ -2762,7 +2762,7 @@ Why is longitudinal an appropriate description of this design?
 - **It compares different age groups at one moment.:** That describes a cross-sectional comparison rather than repeated observation of these adults.
 - **It follows change in the participants over time.:** Longitudinal research follows a subject or group across time, enabling examination of change.
 - **It combines findings from several published investigations.:** Combining prior studies is a research synthesis, not what repeated interviews describe.
-- **It studies participants from widely separated locations.:** Geographical spread is not the meaning of longitudinal in research design.
+- **It studies participants from widely separated locations.:** Geographical spread is not the meaning of 'longitudinal' in research design.
 
 **Decision:** replaced.
 
@@ -2844,7 +2844,7 @@ ID: `coverage-academic-vocabulary-c1-89`
 
 Researchers know that a coating slows water loss. They investigate the mechanism: how its layer changes the movement of moisture.
 
-What does mechanism focus on?
+What does 'mechanism' focus on?
 
 1. The frequency with which the coating is sold
 2. The strength of the statistical association alone
@@ -2940,20 +2940,20 @@ ID: `coverage-academic-vocabulary-c1-92`
 
 The seminar asks whether the ending is contingent on the narrator's final decision or would occur regardless of what she chooses.
 
-Which meaning of contingent on fits that contrast?
+Which meaning of 'contingent on' fits that contrast?
 
 1. chronologically earlier than
 2. accidentally similar to
 3. dependent on **[Correct]**
 4. fully explained before
 
-**Explanation:** Contingent on means dependent on a condition; regardless of presents the contrasting independence.
+**Explanation:** 'Contingent on' means 'dependent on a condition'; 'regardless of' presents the contrasting independence.
 
 **Choice feedback:**
 
 - **chronologically earlier than:** Contingency is about dependence, not simply time order.
-- **accidentally similar to:** Similarity does not express the dependence being contrasted with regardless.
-- **dependent on:** Contingent on means dependent on a condition; regardless of presents the contrasting independence.
+- **accidentally similar to:** Similarity does not express the dependence being contrasted with 'regardless'.
+- **dependent on:** 'Contingent on' means 'dependent on a condition'; 'regardless of' presents the contrasting independence.
 - **fully explained before:** An explanation's timing is not the issue in the seminar question.
 
 **Decision:** replaced.
@@ -3043,13 +3043,13 @@ What does the sentence report?
 3. The review divides a shared conclusion into separate topics.
 4. The field agrees on the effect but disagrees about terminology.
 
-**Explanation:** The literature means the body of relevant writing; divided indicates a lack of agreement within it.
+**Explanation:** 'The literature' means the body of relevant writing; 'divided' indicates a lack of agreement within it.
 
 **Choice feedback:**
 
 - **Each individual study contradicts itself about the effect.:** Disagreement across the literature does not require internal contradiction within each study.
-- **Published work in the field reaches differing positions.:** The literature means the body of relevant writing; divided indicates a lack of agreement within it.
-- **The review divides a shared conclusion into separate topics.:** The phrase divided on whether signals disagreement about the question, not the review's section structure.
+- **Published work in the field reaches differing positions.:** 'The literature' means the body of relevant writing; 'divided' indicates a lack of agreement within it.
+- **The review divides a shared conclusion into separate topics.:** The phrase 'divided on whether' signals disagreement about the question, not the review's section structure.
 - **The field agrees on the effect but disagrees about terminology.:** The stated disagreement concerns whether the effect lasts, not merely the words used to describe it.
 
 **Decision:** replaced.
@@ -3080,7 +3080,7 @@ What has the researcher done?
 **Choice feedback:**
 
 - **Established the only legitimate meaning of walkability:** An operational definition selects a way to investigate a concept; it need not exhaust the concept's meaning.
-- **Completed the construction of new pedestrian routes:** Operationalize in research does not mean put a building project into operation.
+- **Completed the construction of new pedestrian routes:** 'Operationalize' in research does not mean put a building project into operation.
 - **Demonstrated that walking causes access to services:** The definition provides a measure, not a causal demonstration.
 - **Specified an observable measure for the concept:** Operationalizing connects an abstract concept to defined observations or procedures, here a service count within a time limit.
 
@@ -3100,7 +3100,7 @@ ID: `coverage-academic-vocabulary-c1-97`
 
 In reviewing a transcript, the analyst identifies repeated references to losing contact with neighbors as especially salient.
 
-Which meaning does salient add?
+Which meaning does 'salient' add?
 
 1. statistically representative of the wider population
 2. chronologically earlier than the other references
@@ -3176,8 +3176,8 @@ What makes the evidence empirical in this contrast?
 **Choice feedback:**
 
 - **It consists exclusively of numerical measurements.:** Empirical material may include qualitative observations and interviews, not only numbers.
-- **It has been accepted as beyond further challenge.:** Empirical describes the evidence's basis, not immunity from criticism.
-- **It was obtained without any guiding research ideas.:** Observation can be guided by theory; empirical does not mean theory-free.
+- **It has been accepted as beyond further challenge.:** 'Empirical' describes the evidence's basis, not immunity from criticism.
+- **It was obtained without any guiding research ideas.:** Observation can be guided by theory; 'empirical' does not mean 'theory-free'.
 - **It comes from observation or experience.:** Empirical evidence is grounded in observation or experience, in contrast to derivation from theory alone.
 
 **Decision:** replaced.
@@ -3230,9 +3230,9 @@ Where does the reviewer locate the problem?
 
 ID: `coverage-academic-vocabulary-c2-101`
 
-A reviewer questions one author's use of the expression paradigm shift.
+A reviewer questions one author's use of the expression 'paradigm shift'.
 
-Which use of paradigm shift most clearly overstates the development described?
+Which use of 'paradigm shift' most clearly overstates the development described?
 
 1. A field begins treating readers as makers of meaning rather than passive recipients.
 2. The team puts its existing questionnaire online while retaining the same questions and assumptions. **[Correct]**
@@ -3262,7 +3262,7 @@ Which use of paradigm shift most clearly overstates the development described?
 
 ID: `coverage-academic-vocabulary-c2-102`
 
-An editor checks whether a critic has used reify accurately in an analysis of culture.
+An editor checks whether a critic has used 'reify' accurately in an analysis of culture.
 
 Which sentence uses the word in its critical academic sense?
 
@@ -3340,7 +3340,7 @@ Which restatement preserves both parts?
 **Choice feedback:**
 
 - **They yield equal scores but need different names.:** Equal values do not establish commensurability, and different names do not explain noninterchangeability.
-- **They concern the same topic but cannot be compared.:** Commensurable permits a common basis of comparison, not merely a shared topic.
+- **They concern the same topic but cannot be compared.:** 'Commensurable' permits a common basis of comparison, not merely a shared topic.
 - **They can replace each other once their units are renamed.:** The reviewer explicitly distinguishes comparability from substituting one scale for the other.
 - **They may share a basis for comparison without being substitutes.:** Commensurability allows comparison on a common basis; it need not make measures interchangeable.
 
@@ -3367,14 +3367,14 @@ Which adjective most precisely labels the source of the innovations in this acco
 3. autonomous
 4. spontaneous
 
-**Explanation:** Endogenous locates the source within the system or community under discussion; it does not imply isolation or lack of planning.
+**Explanation:** 'Endogenous' locates the source within the system or community under discussion; it does not imply isolation or lack of planning.
 
 **Choice feedback:**
 
-- **exogenous:** Exogenous locates the source outside the system, like an imposed external policy.
-- **endogenous:** Endogenous locates the source within the system or community under discussion; it does not imply isolation or lack of planning.
-- **autonomous:** Autonomous emphasizes independence or self-government, which the account does not establish.
-- **spontaneous:** Spontaneous emphasizes an unplanned or unprompted occurrence, not simply an internal source.
+- **exogenous:** 'Exogenous' locates the source outside the system, like an imposed external policy.
+- **endogenous:** 'Endogenous' locates the source within the system or community under discussion; it does not imply isolation or lack of planning.
+- **autonomous:** 'Autonomous' emphasizes independence or self-government, which the account does not establish.
+- **spontaneous:** 'Spontaneous' emphasizes an unplanned or unprompted occurrence, not simply an internal source.
 
 **Decision:** replaced.
 
@@ -3527,14 +3527,14 @@ Which sentence makes a normative claim in the writer's own voice?
 3. The review records widespread agreement that appeals are desirable.
 4. Universities owe students a fair opportunity to challenge an assessment. **[Correct]**
 
-**Explanation:** Owe expresses a normative obligation advocated by the writer, without relying on should.
+**Explanation:** 'Owe' expresses a normative obligation advocated by the writer, without relying on 'should'.
 
 **Choice feedback:**
 
 - **Most respondents said that universities ought to provide an appeal process.:** This reports respondents' normative views; it does not itself adopt them as the writer's standard.
 - **The handbook describes access to an appeal as essential.:** This describes the handbook's position; reporting its language is not the same as endorsing it.
 - **The review records widespread agreement that appeals are desirable.:** This reports an observed consensus rather than independently advocates the standard.
-- **Universities owe students a fair opportunity to challenge an assessment.:** Owe expresses a normative obligation advocated by the writer, without relying on should.
+- **Universities owe students a fair opportunity to challenge an assessment.:** 'Owe' expresses a normative obligation advocated by the writer, without relying on 'should'.
 
 **Decision:** replaced.
 
@@ -3559,12 +3559,12 @@ Which paraphrase preserves that distinction?
 3. It selects one cause and leaves other causes unexplored.
 4. It avoids technical vocabulary by removing difficult ideas.
 
-**Explanation:** Concise concerns economical expression; not reductive means the economy does not oversimplify what matters.
+**Explanation:** 'Concise' concerns economical expression; 'not reductive' means the economy does not oversimplify what matters.
 
 **Choice feedback:**
 
 - **It limits its evidence while making broad claims.:** Restricting evidence while broadening claims does not express the praised distinction between brevity and oversimplification.
-- **It is brief but preserves the essential complexity.:** Concise concerns economical expression; not reductive means the economy does not oversimplify what matters.
+- **It is brief but preserves the essential complexity.:** 'Concise' concerns economical expression; 'not reductive' means the economy does not oversimplify what matters.
 - **It selects one cause and leaves other causes unexplored.:** A single-cause restriction might be reductive; the reviewer is not praising that restriction.
 - **It avoids technical vocabulary by removing difficult ideas.:** Removing important difficult ideas could be reductive; plain vocabulary alone is not the distinction.
 
@@ -3623,14 +3623,14 @@ Which follow-up is inconsistent with that assessment?
 3. Calling it falsifiable concedes that its conclusion is wrong. **[Correct]**
 4. No successful disconfirmation is being reported here.
 
-**Explanation:** Falsifiable means open to possible disconfirmation; it does not report that disconfirmation has occurred.
+**Explanation:** 'Falsifiable' means open to possible disconfirmation; it does not report that disconfirmation has occurred.
 
 **Choice feedback:**
 
 - **An appropriately specified observation could count against it.:** That is compatible with falsifiability: some possible evidence would challenge the account.
 - **The proposed test could leave the account standing.:** A falsifiable account can survive a test; the label does not predetermine failure.
-- **Calling it falsifiable concedes that its conclusion is wrong.:** Falsifiable means open to possible disconfirmation; it does not report that disconfirmation has occurred.
-- **No successful disconfirmation is being reported here.:** Not yet falsified explicitly distinguishes testability from a reported refutation.
+- **Calling it falsifiable concedes that its conclusion is wrong.:** 'Falsifiable' means open to possible disconfirmation; it does not report that disconfirmation has occurred.
+- **No successful disconfirmation is being reported here.:** 'Not yet falsified' explicitly distinguishes testability from a reported refutation.
 
 **Decision:** replaced.
 

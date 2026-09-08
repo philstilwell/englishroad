@@ -1942,7 +1942,7 @@ Which replacement makes the second heading match the first in form and meaning?
 
 ID: `coverage-parallel-structure-b2-2221`
 
-The event had plenty of interest but too little space. State the rejected and actual reasons for postponement in a balanced not ... but ... contrast.
+The event had plenty of interest but too little space. State the rejected and actual reasons for postponement in a balanced 'not ... but ...' contrast.
 
 Which sentence accurately contrasts those reasons?
 
@@ -1958,7 +1958,7 @@ Which sentence accurately contrasts those reasons?
 - **We postponed it not for lack of space but for lack of interest.:** This reverses the two reasons, rejecting the shortage of space and asserting insufficient interest.
 - **We postponed it not because interest was low but despite having enough space.:** The second phrase asserts enough space and expresses concession rather than the actual reason for postponement.
 - **We postponed it not for lack of interest but for lack of space.:** The parallel for-phrases reject one causal explanation and supply the other, matching the stated circumstances.
-- **We postponed it not only for lack of interest but also for lack of space.:** Not only ... but also adds both reasons; it does not reject lack of interest as required.
+- **We postponed it not only for lack of interest but also for lack of space.:** 'Not only ... but also' adds both reasons; it does not reject lack of interest as required.
 
 **Decision:** replaced.
 
@@ -2326,7 +2326,7 @@ Which comparison makes those two subjects explicit?
 
 ID: `coverage-parallel-structure-b2-2233`
 
-The writer wants both adjectives to keep their usual prepositions: interested in and committed to.
+The writer wants both adjectives to keep their usual prepositions: 'interested in' and 'committed to'.
 
 Which sentence achieves that while sharing the activity phrase?
 
@@ -3232,7 +3232,7 @@ ID: `coverage-parallel-structure-c2-2261`
 
 A meeting note says, 'Ava revised her proposal, and Mina did too.' Ava's proposal is her own; no context specifies the owner of the proposal Mina revised.
 
-Which account captures the available interpretations of the omitted possessive phrase after Mina?
+Which account captures the available interpretations of the omitted possessive phrase after 'Mina'?
 
 1. It retains Ava as the owner when the verb phrase is repeated.
 2. Either woman's proposal could be meant. **[Correct]**
@@ -3616,19 +3616,19 @@ ID: `coverage-parallel-structure-c2-2273`
 
 The contractor offers two packages: inspect and repair the existing pump, or replace it without an inspection. A sentence must preserve those two packages.
 
-Which placement of either makes the intended coordination clear?
+Which placement of 'either' makes the intended coordination clear?
 
 1. We will inspect the pump and either repair or replace it.
 2. We will either inspect and repair the pump or replace it without inspection. **[Correct]**
 3. Either we will inspect the pump, or we will repair and replace it.
 4. We will either inspect or repair the pump before replacing it.
 
-**Explanation:** Either begins the first complete package, whose two linked actions are contrasted with replacement without inspection.
+**Explanation:** 'Either' begins the first complete package, whose two linked actions are contrasted with replacement without inspection.
 
 **Choice feedback:**
 
 - **We will inspect the pump and either repair or replace it.:** Here inspection belongs to both possible routes, contrary to the replacement package.
-- **We will either inspect and repair the pump or replace it without inspection.:** Either begins the first complete package, whose two linked actions are contrasted with replacement without inspection.
+- **We will either inspect and repair the pump or replace it without inspection.:** 'Either' begins the first complete package, whose two linked actions are contrasted with replacement without inspection.
 - **Either we will inspect the pump, or we will repair and replace it.:** This groups repair and replacement together and makes inspection the alternative package.
 - **We will either inspect or repair the pump before replacing it.:** Replacement follows either preliminary action; it is no longer an alternative to the inspect-and-repair package.
 

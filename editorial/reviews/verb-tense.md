@@ -2040,21 +2040,21 @@ ID: `coverage-verb-tense-b2-3904`
 
 Choose the accurate interpretation of the reported tense.
 
-Yesterday, Nadia said she lived near the station. What does lived establish?
+Yesterday, Nadia said she lived near the station. What does 'lived' establish?
 
 1. It establishes that she moved away before yesterday's conversation.
 2. It establishes that she will move there after yesterday's conversation.
 3. It reports a visit to the station during yesterday's conversation.
 4. It reports her residence from the viewpoint of yesterday's conversation. **[Correct]**
 
-**Explanation:** Lived can be the backshifted form of live after said. It reports her situation then without establishing whether it has changed since.
+**Explanation:** 'Lived' can be the backshifted form of 'live' after 'said'. It reports her situation then without establishing whether it has changed since.
 
 **Choice feedback:**
 
-- **It establishes that she moved away before yesterday's conversation.:** A past form after said does not by itself show that the situation had already ended.
-- **It establishes that she will move there after yesterday's conversation.:** Lived is not a future-in-the-past form for a later move.
-- **It reports a visit to the station during yesterday's conversation.:** Lived near describes residence, not a visit to the station.
-- **It reports her residence from the viewpoint of yesterday's conversation.:** Lived can be the backshifted form of live after said. It reports her situation then without establishing whether it has changed since.
+- **It establishes that she moved away before yesterday's conversation.:** A past form after 'said' does not by itself show that the situation had already ended.
+- **It establishes that she will move there after yesterday's conversation.:** 'Lived' is not a future-in-the-past form for a later move.
+- **It reports a visit to the station during yesterday's conversation.:** 'Lived near' describes residence, not a visit to the station.
+- **It reports her residence from the viewpoint of yesterday's conversation.:** 'Lived' can be the backshifted form of 'live' after 'said'. It reports her situation then without establishing whether it has changed since.
 
 **Decision:** replaced.
 
@@ -2134,7 +2134,7 @@ Choose the interpretation supported by the complaint and the continuous form.
 
 ID: `coverage-verb-tense-b2-3907`
 
-Choose the meaning of will in this account of repeated current behavior.
+Choose the meaning of 'will' in this account of repeated current behavior.
 
 'This old printer will jam whenever we use thick paper. It happened twice again today.'
 
@@ -2143,13 +2143,13 @@ Choose the meaning of will in this account of repeated current behavior.
 3. Jamming is presented as characteristic behavior under that condition. **[Correct]**
 4. The printer stopped jamming before today.
 
-**Explanation:** Will can express characteristic behavior. Whenever and twice again today establish repeated jamming here.
+**Explanation:** 'Will' can express characteristic behavior. 'Whenever' and 'twice again today' establish repeated jamming here.
 
 **Choice feedback:**
 
-- **The printer is scheduled to jam for the first time tomorrow.:** Twice again today establishes an existing pattern, not a first future event.
+- **The printer is scheduled to jam for the first time tomorrow.:** 'Twice again today' establishes an existing pattern, not a first future event.
 - **The speaker is promising to make the printer jam.:** The subject is the printer, and the sentence describes its behavior rather than a speaker's promise.
-- **Jamming is presented as characteristic behavior under that condition.:** Will can express characteristic behavior. Whenever and twice again today establish repeated jamming here.
+- **Jamming is presented as characteristic behavior under that condition.:** 'Will' can express characteristic behavior. 'Whenever' and 'twice again today' establish repeated jamming here.
 - **The printer stopped jamming before today.:** The two events today contradict a claim that the behavior ended earlier.
 
 **Decision:** replaced.
@@ -2454,7 +2454,7 @@ Luis ___ the presentation three times before he finally ___ ready to deliver it.
 
 ID: `coverage-verb-tense-b2-3917`
 
-Choose the meaning of would in this recollection.
+Choose the meaning of 'would' in this recollection.
 
 'When we shared a flat, Emma would leave a note on the fridge whenever she went out.'
 
@@ -2463,14 +2463,14 @@ Choose the meaning of would in this recollection.
 3. Leaving notes was a repeated action during that past period. **[Correct]**
 4. One note had been left before they began sharing the flat.
 
-**Explanation:** Would plus an action verb can describe past habits; whenever supplies the recurring occasions.
+**Explanation:** 'Would' plus an action verb can describe past habits; 'whenever' supplies the recurring occasions.
 
 **Choice feedback:**
 
-- **Leaving notes was a future plan made after they stopped sharing.:** When we shared sets the period for the repeated behavior, not a later plan.
-- **Emma refused to leave notes while they shared the flat.:** Would leave is affirmative; refusal would require a different construction such as wouldn't leave.
-- **Leaving notes was a repeated action during that past period.:** Would plus an action verb can describe past habits; whenever supplies the recurring occasions.
-- **One note had been left before they began sharing the flat.:** Whenever indicates repeated occasions during the shared-flat period, not one prior completed note.
+- **Leaving notes was a future plan made after they stopped sharing.:** 'When we shared' sets the period for the repeated behavior, not a later plan.
+- **Emma refused to leave notes while they shared the flat.:** 'Would leave' is affirmative; refusal would require a different construction such as "wouldn't leave".
+- **Leaving notes was a repeated action during that past period.:** 'Would' plus an action verb can describe past habits; 'whenever' supplies the recurring occasions.
+- **One note had been left before they began sharing the flat.:** 'Whenever' indicates repeated occasions during the shared-flat period, not one prior completed note.
 
 **Decision:** replaced.
 
@@ -2874,7 +2874,7 @@ Several clients have complained about delays during the last few weeks.
 
 ID: `coverage-verb-tense-c1-3930`
 
-Choose the inference supported by the whole account, not by had hoped alone.
+Choose the inference supported by the whole account, not by 'had hoped' alone.
 
 'We had hoped to finish before lunch, but a missing part kept us there until six.'
 
@@ -2883,14 +2883,14 @@ Choose the inference supported by the whole account, not by had hoped alone.
 3. The work had already finished when the hope was formed.
 4. The past perfect guarantees that the missing part was later found.
 
-**Explanation:** The but clause establishes the missed deadline. Had hoped supplies the earlier expectation, which alone would not prove disappointment.
+**Explanation:** The 'but' clause establishes the missed deadline. 'Had hoped' supplies the earlier expectation, which alone would not prove disappointment.
 
 **Choice feedback:**
 
-- **The intended lunch deadline was missed, as the later clause confirms.:** The but clause establishes the missed deadline. Had hoped supplies the earlier expectation, which alone would not prove disappointment.
-- **The hope itself began only after the work finished.:** Had hoped places the hope before the later outcome, not after the work ended.
-- **The work had already finished when the hope was formed.:** Hoping to finish treats completion as prospective from the earlier hope.
-- **The past perfect guarantees that the missing part was later found.:** Had hoped does not establish what happened to the missing part.
+- **The intended lunch deadline was missed, as the later clause confirms.:** The 'but' clause establishes the missed deadline. 'Had hoped' supplies the earlier expectation, which alone would not prove disappointment.
+- **The hope itself began only after the work finished.:** 'Had hoped' places the hope before the later outcome, not after the work ended.
+- **The work had already finished when the hope was formed.:** 'Hoping to finish' treats completion as prospective from the earlier hope.
+- **The past perfect guarantees that the missing part was later found.:** 'Had hoped' does not establish what happened to the missing part.
 
 **Decision:** replaced.
 
@@ -3002,7 +3002,7 @@ At last week's hearing, the manager said, 'We hadn't heard from our former partn
 
 ID: `coverage-verb-tense-c1-3934`
 
-Choose the interpretation of have completed in this future eligibility condition.
+Choose the interpretation of 'have completed' in this future eligibility condition.
 
 Applications open next April. If you have completed the trial by then, you can apply for membership.
 
@@ -3011,14 +3011,14 @@ Applications open next April. If you have completed the trial by then, you can a
 3. The trial begins after membership has already been granted.
 4. Applicants must be completing the trial while submitting their applications.
 
-**Explanation:** The present perfect expresses completion relative to a future point supplied by by then; it does not require completion before speech time.
+**Explanation:** The present perfect expresses completion relative to a future point supplied by 'by then'; it does not require completion before speech time.
 
 **Choice feedback:**
 
-- **The trial must already be complete at the time this notice is written.:** By then points to next April, so completion may still lie in the future from the notice's date.
-- **Trial completion must precede the relevant application point next April.:** The present perfect expresses completion relative to a future point supplied by by then; it does not require completion before speech time.
+- **The trial must already be complete at the time this notice is written.:** 'By then' points to next April, so completion may still lie in the future from the notice's date.
+- **Trial completion must precede the relevant application point next April.:** The present perfect expresses completion relative to a future point supplied by 'by then'; it does not require completion before speech time.
 - **The trial begins after membership has already been granted.:** The condition places completion before application, not after membership is granted.
-- **Applicants must be completing the trial while submitting their applications.:** Have completed requires reaching completion, rather than merely being in progress at application time.
+- **Applicants must be completing the trial while submitting their applications.:** 'Have completed' requires reaching completion, rather than merely being in progress at application time.
 
 **Decision:** replaced.
 
@@ -3130,7 +3130,7 @@ Choose the interpretation that preserves the distinction between imminent action
 
 ID: `coverage-verb-tense-c1-3938`
 
-Choose the function of hear in this conversational opening.
+Choose the function of 'hear' in this conversational opening.
 
 'I hear you've accepted the fellowship. Congratulations!'
 
@@ -3139,14 +3139,14 @@ Choose the function of hear in this conversational opening.
 3. It reports a sound that the speaker heard before learning any news.
 4. It presents received news as information currently available to the speaker. **[Correct]**
 
-**Explanation:** I hear can introduce news the speaker has learned and regards as current; the present form need not describe literal hearing at that instant.
+**Explanation:** 'I hear' can introduce news the speaker has learned and regards as current; the present form need not describe literal hearing at that instant.
 
 **Choice feedback:**
 
-- **It describes a hearing process occurring continuously during the fellowship.:** Hear introduces information here, not an ongoing sensory process during the fellowship.
-- **It makes acceptance conditional on a future announcement.:** You've accepted treats acceptance as prior news, not as conditional on a later announcement.
-- **It reports a sound that the speaker heard before learning any news.:** This use of hear concerns learning news, not identifying an earlier sound.
-- **It presents received news as information currently available to the speaker.:** I hear can introduce news the speaker has learned and regards as current; the present form need not describe literal hearing at that instant.
+- **It describes a hearing process occurring continuously during the fellowship.:** 'Hear' introduces information here, not an ongoing sensory process during the fellowship.
+- **It makes acceptance conditional on a future announcement.:** "You've accepted" treats acceptance as prior news, not as conditional on a later announcement.
+- **It reports a sound that the speaker heard before learning any news.:** This use of 'hear' concerns learning news, not identifying an earlier sound.
+- **It presents received news as information currently available to the speaker.:** 'I hear' can introduce news the speaker has learned and regards as current; the present form need not describe literal hearing at that instant.
 
 **Decision:** replaced.
 

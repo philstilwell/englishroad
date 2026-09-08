@@ -2114,7 +2114,7 @@
       "id": "coverage-everyday-vocabulary-b2-1389",
       "level": "B2",
       "setupText": "The roof repairs are essential, although the builder says they can safely wait until next month.",
-      "taskText": "Which interpretation preserves the distinction between essential and urgent?",
+      "taskText": "Which interpretation preserves the distinction between 'essential' and 'urgent'?",
       "options": [
         "The repairs are necessary but not immediately urgent.",
         "The repairs are optional because they can wait.",
@@ -2122,12 +2122,12 @@
         "The repairs are mainly decorative improvements."
       ],
       "answer": "The repairs are necessary but not immediately urgent.",
-      "explanation": "Essential describes necessity; urgency concerns how soon action is needed, which the second clause specifies.",
+      "explanation": "'Essential' describes necessity; urgency concerns how soon action is needed, which the second clause specifies.",
       "rationales": {
         "The repairs are optional because they can wait.": "Postponement does not make necessary repairs optional.",
-        "The repairs must be completed immediately.": "The sentence explicitly permits waiting; essential does not automatically mean urgent.",
-        "The repairs are mainly decorative improvements.": "Essential means necessary, not merely cosmetic.",
-        "The repairs are necessary but not immediately urgent.": "Essential describes necessity; urgency concerns how soon action is needed, which the second clause specifies."
+        "The repairs must be completed immediately.": "The sentence explicitly permits waiting; 'essential' does not automatically mean 'urgent'.",
+        "The repairs are mainly decorative improvements.": "'Essential' means 'necessary', not 'merely cosmetic'.",
+        "The repairs are necessary but not immediately urgent.": "'Essential' describes necessity; urgency concerns how soon action is needed, which the second clause specifies."
       },
       "audit": {
         "status": "reviewed",

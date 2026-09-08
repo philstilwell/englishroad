@@ -160,7 +160,7 @@
     {
       "id": "coverage-phrasal-verbs-a1-2406",
       "level": "A1",
-      "setupText": "Use it for the lamp. Choose the grammatically correct instruction.",
+      "setupText": "Use 'it' for the lamp. Choose the grammatically correct instruction.",
       "taskText": "You want someone to turn on the lamp. Which wording is correct?",
       "options": [
         "Turn it on.",
@@ -169,12 +169,12 @@
         "It turn on."
       ],
       "answer": "Turn it on.",
-      "explanation": "With turn on, put an object pronoun between the two words: turn it on.",
+      "explanation": "With 'turn on', put an object pronoun between the two words: 'turn it on'.",
       "rationales": {
-        "Turn on it.": "With this verb, the short object it goes between turn and on.",
-        "Turn it on it.": "It already names the lamp once; do not repeat the object after on.",
-        "Turn it on.": "With turn on, put an object pronoun between the two words: turn it on.",
-        "It turn on.": "In this instruction, turn comes first and it follows the verb."
+        "Turn on it.": "With this verb, the short object 'it' goes between 'turn' and 'on'.",
+        "Turn it on it.": "'It' already names the lamp once; do not repeat the object after 'on'.",
+        "Turn it on.": "With 'turn on', put an object pronoun between the two words: 'turn it on'.",
+        "It turn on.": "In this instruction, 'turn' comes first and 'it' follows the verb."
       },
       "audit": {
         "status": "reviewed",
@@ -254,7 +254,7 @@
       "id": "coverage-phrasal-verbs-a1-2409",
       "level": "A1",
       "setupText": "Read about a short rest.",
-      "taskText": "'After work, I lie down on the sofa.' What does lie down describe?",
+      "taskText": "'After work, I lie down on the sofa.' What does 'lie down' describe?",
       "options": [
         "Sitting with both feet on the floor.",
         "Going to sleep for the night.",
@@ -262,12 +262,12 @@
         "Putting your body in a flat resting position."
       ],
       "answer": "Putting your body in a flat resting position.",
-      "explanation": "Lie down means move into a flat resting position. Sleeping is possible but is not part of the meaning.",
+      "explanation": "'Lie down' means move into a flat resting position. Sleeping is possible but is not part of the meaning.",
       "rationales": {
         "Sitting with both feet on the floor.": "That is a sitting position, not lying down.",
         "Going to sleep for the night.": "A person can lie down while awake. The phrase does not say how long they rest.",
-        "Putting your body in a flat resting position.": "Lie down means move into a flat resting position. Sleeping is possible but is not part of the meaning.",
-        "Standing beside the sofa.": "Standing keeps the body upright, so it does not match lie down."
+        "Putting your body in a flat resting position.": "'Lie down' means move into a flat resting position. Sleeping is possible but is not part of the meaning.",
+        "Standing beside the sofa.": "Standing keeps the body upright, so it does not match 'lie down'."
       },
       "audit": {
         "status": "reviewed",
@@ -316,7 +316,7 @@
       "id": "coverage-phrasal-verbs-a1-2411",
       "level": "A1",
       "setupText": "Complete the sentence about getting dressed.",
-      "taskText": "'It's cold. I'm going to ___ my coat.' Choose the words that mean start wearing it.",
+      "taskText": "'It's cold. I'm going to ___ my coat.' Choose the words that mean 'start wearing it'.",
       "options": [
         "take off",
         "give back",
@@ -324,12 +324,12 @@
         "put on"
       ],
       "answer": "put on",
-      "explanation": "Put on means place clothes on your body so that you are wearing them.",
+      "explanation": "'Put on' means place clothes on your body so that you are wearing them.",
       "rationales": {
-        "take off": "Take off means remove the coat, not start wearing it.",
-        "put on": "Put on means place clothes on your body so that you are wearing them.",
-        "give back": "Give back means return the coat to someone, not get dressed in it.",
-        "pick up": "Pick up means lift or collect the coat. That does not necessarily mean wear it."
+        "take off": "'Take off' means remove the coat, not start wearing it.",
+        "put on": "'Put on' means place clothes on your body so that you are wearing them.",
+        "give back": "'Give back' means return the coat to someone, not get dressed in it.",
+        "pick up": "'Pick up' means lift or collect the coat. That does not necessarily mean wear it."
       },
       "audit": {
         "status": "reviewed",
@@ -1154,7 +1154,7 @@
       "id": "coverage-phrasal-verbs-a2-2438",
       "level": "A2",
       "setupText": "You want a neighbour to water and care for your plants during your trip.",
-      "taskText": "Use them for the plants. Choose the natural request that asks for this care.",
+      "taskText": "Use 'them' for the plants. Choose the natural request that asks for this care.",
       "options": [
         "Could you look after them?",
         "Could you look them after?",
@@ -1162,11 +1162,11 @@
         "Could you look at them?"
       ],
       "answer": "Could you look after them?",
-      "explanation": "Look after means take care of someone or something. Its object stays after after: look after them.",
+      "explanation": "'Look after' means take care of someone or something. Its object stays after 'after': 'look after them'.",
       "rationales": {
-        "Could you look after them?": "Look after means take care of someone or something. Its object stays after after: look after them.",
-        "Could you look them after?": "The object cannot go between look and after in this meaning. Use look after them.",
-        "Could you look for them?": "Look for asks someone to search for missing plants, not care for plants in a known place.",
+        "Could you look after them?": "'Look after' means take care of someone or something. Its object stays after 'after': 'look after them'.",
+        "Could you look them after?": "The object cannot go between 'look' and 'after' in this meaning. Use 'look after them'.",
+        "Could you look for them?": "'Look for' asks someone to search for missing plants, not care for plants in a known place.",
         "Could you look at them?": "Looking at the plants does not itself ask for the continuing care described in the task."
       },
       "audit": {
@@ -1247,7 +1247,7 @@
       "id": "coverage-phrasal-verbs-b1-2441",
       "level": "B1",
       "setupText": "Read the update about an exhibition opening.",
-      "taskText": "'The opening has been put off.' Which meaning does put off express here?",
+      "taskText": "'The opening has been put off.' Which meaning does 'put off' express here?",
       "options": [
         "The opening has been postponed.",
         "The opening has been announced publicly.",
@@ -1255,11 +1255,11 @@
         "The opening has been cancelled altogether."
       ],
       "answer": "The opening has been postponed.",
-      "explanation": "Put off an event means postpone it until later. This does not itself mean cancel it permanently.",
+      "explanation": "'Put off an event' means postpone it until later. This does not itself mean cancel it permanently.",
       "rationales": {
         "The opening has been announced publicly.": "Announcing an event makes it known; putting it off changes its timing.",
         "The opening has been brought forward.": "Bringing it forward moves it earlier, whereas putting it off postpones it.",
-        "The opening has been postponed.": "Put off an event means postpone it until later. This does not itself mean cancel it permanently.",
+        "The opening has been postponed.": "'Put off an event' means postpone it until later. This does not itself mean cancel it permanently.",
         "The opening has been cancelled altogether.": "Cancellation abandons the event; postponement leaves it for a later time."
       },
       "audit": {
@@ -1309,7 +1309,7 @@
       "id": "coverage-phrasal-verbs-b1-2443",
       "level": "B1",
       "setupText": "You want to consult a reference source for the meaning of an unfamiliar term.",
-      "taskText": "Use it for the term. Which reply has correct word order and expresses consulting the source?",
+      "taskText": "Use 'it' for the term. Which reply has correct word order and expresses consulting the source?",
       "options": [
         "I'll look it up.",
         "I'll look up it.",
@@ -1317,12 +1317,12 @@
         "I'll look it over."
       ],
       "answer": "I'll look it up.",
-      "explanation": "Look something up means consult a source to obtain information about it. With a pronoun, use look it up.",
+      "explanation": "'Look something up' means consult a source to obtain information about it. With a pronoun, use 'look it up'.",
       "rationales": {
-        "I'll look up it.": "A pronoun object goes before up in this sense: look it up.",
-        "I'll look up to it.": "Look up to means admire or respect; the added to changes the expression rather than fixing its word order.",
-        "I'll look it over.": "Look over means examine something. It does not specifically express searching a reference source for a term's meaning.",
-        "I'll look it up.": "Look something up means consult a source to obtain information about it. With a pronoun, use look it up."
+        "I'll look up it.": "A pronoun object goes before 'up' in this sense: 'look it up'.",
+        "I'll look up to it.": "'Look up to' means admire or respect; the added 'to' changes the expression rather than fixing its word order.",
+        "I'll look it over.": "'Look over' means examine something. It does not specifically express searching a reference source for a term's meaning.",
+        "I'll look it up.": "'Look something up' means consult a source to obtain information about it. With a pronoun, use 'look it up'."
       },
       "audit": {
         "status": "reviewed",
@@ -1433,7 +1433,7 @@
       "id": "coverage-phrasal-verbs-b1-2447",
       "level": "B1",
       "setupText": "Read a short career history.",
-      "taskText": "'After leaving the agency, Marta set up a translation business.' What does set up mean?",
+      "taskText": "'After leaving the agency, Marta set up a translation business.' What does 'set up' mean?",
       "options": [
         "Established the business.",
         "Sold the business to the agency.",
@@ -1441,12 +1441,12 @@
         "Joined the staff of an existing business."
       ],
       "answer": "Established the business.",
-      "explanation": "Set up a business means create and organise it so that it can operate. It need not involve building new premises.",
+      "explanation": "'Set up a business' means create and organise it so that it can operate. It need not involve building new premises.",
       "rationales": {
         "Sold the business to the agency.": "Selling transfers an existing business; setting one up establishes it.",
-        "Closed a business for repairs.": "Set up does not mean suspend operations or repair a building.",
+        "Closed a business for repairs.": "'Set up' does not mean suspend operations or repair a building.",
         "Joined the staff of an existing business.": "Joining as an employee is different from establishing the business.",
-        "Established the business.": "Set up a business means create and organise it so that it can operate. It need not involve building new premises."
+        "Established the business.": "'Set up a business' means create and organise it so that it can operate. It need not involve building new premises."
       },
       "audit": {
         "status": "reviewed",
@@ -1526,7 +1526,7 @@
       "id": "coverage-phrasal-verbs-b1-2450",
       "level": "B1",
       "setupText": "Completed expense forms must be submitted to the accounts office.",
-      "taskText": "Use them for the forms. Which instruction requests submission?",
+      "taskText": "Use 'them' for the forms. Which instruction requests submission?",
       "options": [
         "Hand them out by Friday.",
         "Fill them in by Friday.",
@@ -1534,11 +1534,11 @@
         "Hand them in by Friday."
       ],
       "answer": "Hand them in by Friday.",
-      "explanation": "Hand in means submit something to the person or office that should receive it. With them, the object goes before in.",
+      "explanation": "'Hand in' means submit something to the person or office that should receive it. With 'them', the object goes before 'in'.",
       "rationales": {
-        "Hand them in by Friday.": "Hand in means submit something to the person or office that should receive it. With them, the object goes before in.",
-        "Hand them out by Friday.": "Hand out means distribute the forms to people, not submit the completed forms for processing.",
-        "Fill them in by Friday.": "Fill in asks for completion of the information. These forms are already completed and must now be submitted.",
+        "Hand them in by Friday.": "'Hand in' means submit something to the person or office that should receive it. With 'them', the object goes before 'in'.",
+        "Hand them out by Friday.": "'Hand out' means distribute the forms to people, not submit the completed forms for processing.",
+        "Fill them in by Friday.": "'Fill in' asks for completion of the information. These forms are already completed and must now be submitted.",
         "Look them over by Friday.": "Looking them over means checking them; submission is a separate step."
       },
       "audit": {
@@ -1650,7 +1650,7 @@
       "id": "coverage-phrasal-verbs-b1-2454",
       "level": "B1",
       "setupText": "Two friends are checking a restaurant booking.",
-      "taskText": "'Hold on, that's the old address.' What is the speaker doing with Hold on?",
+      "taskText": "'Hold on, that's the old address.' What is the speaker doing with 'Hold on'?",
       "options": [
         "Telling the friend to grip the booking paper tightly.",
         "Asking the friend to keep the old address unchanged.",
@@ -1658,12 +1658,12 @@
         "Promising to keep the table reserved."
       ],
       "answer": "Pausing the discussion to point out a problem.",
-      "explanation": "Hold on can interrupt the current course of a conversation. The comment about the old address explains why the speaker pauses it.",
+      "explanation": "'Hold on' can interrupt the current course of a conversation. The comment about the old address explains why the speaker pauses it.",
       "rationales": {
-        "Telling the friend to grip the booking paper tightly.": "There is no object to hold. Here hold on pauses the discussion so the speaker can flag a problem.",
+        "Telling the friend to grip the booking paper tightly.": "There is no object to hold. Here 'hold on' pauses the discussion so the speaker can flag a problem.",
         "Asking the friend to keep the old address unchanged.": "The phrase does not request preserving the address; the following words question its use.",
-        "Promising to keep the table reserved.": "Hold on is not a promise to hold a reservation in this exchange.",
-        "Pausing the discussion to point out a problem.": "Hold on can interrupt the current course of a conversation. The comment about the old address explains why the speaker pauses it."
+        "Promising to keep the table reserved.": "'Hold on' is not a promise to hold a reservation in this exchange.",
+        "Pausing the discussion to point out a problem.": "'Hold on' can interrupt the current course of a conversation. The comment about the old address explains why the speaker pauses it."
       },
       "audit": {
         "status": "reviewed",
@@ -1805,7 +1805,7 @@
       "id": "coverage-phrasal-verbs-b1-2459",
       "level": "B1",
       "setupText": "Read a meeting summary.",
-      "taskText": "'A question about parking came up during the discussion.' What does came up report?",
+      "taskText": "'A question about parking came up during the discussion.' What does 'came up' report?",
       "options": [
         "The group agreed on an answer about parking.",
         "The question arose in the discussion.",
@@ -1813,12 +1813,12 @@
         "The group withdrew the parking question."
       ],
       "answer": "The question arose in the discussion.",
-      "explanation": "Come up can mean arise or become a topic. The phrase does not name who introduced the question or say that it was answered.",
+      "explanation": "'Come up' can mean arise or become a topic. The phrase does not name who introduced the question or say that it was answered.",
       "rationales": {
-        "The question arose in the discussion.": "Come up can mean arise or become a topic. The phrase does not name who introduced the question or say that it was answered.",
+        "The question arose in the discussion.": "'Come up' can mean arise or become a topic. The phrase does not name who introduced the question or say that it was answered.",
         "The group agreed on an answer about parking.": "A question coming up means it entered the discussion, not that agreement followed.",
-        "The question was sent to a more senior committee.": "Up does not identify a higher level of authority in this expression.",
-        "The group withdrew the parking question.": "Withdrawal removes a question from consideration; came up introduces it into the discussion."
+        "The question was sent to a more senior committee.": "'Up' does not identify a higher level of authority in this expression.",
+        "The group withdrew the parking question.": "Withdrawal removes a question from consideration; 'came up' introduces it into the discussion."
       },
       "audit": {
         "status": "reviewed",
@@ -1867,7 +1867,7 @@
       "id": "coverage-phrasal-verbs-b2-2461",
       "level": "B2",
       "setupText": "A visitor reports a recurring fault in the booking system. You promise an investigation, not a search for a listed definition.",
-      "taskText": "Use it for the fault. Which reply expresses that promise with correct word order?",
+      "taskText": "Use 'it' for the fault. Which reply expresses that promise with correct word order?",
       "options": [
         "I'll look it into.",
         "I'll look it up.",
@@ -1875,12 +1875,12 @@
         "I'll look out for it."
       ],
       "answer": "I'll look into it.",
-      "explanation": "Look into means investigate a matter. Its pronoun object follows into: look into it.",
+      "explanation": "'Look into' means investigate a matter. Its pronoun object follows 'into': 'look into it'.",
       "rationales": {
-        "I'll look it into.": "In the investigate sense, look into keeps its object after into. It is not separated like look it up.",
-        "I'll look into it.": "Look into means investigate a matter. Its pronoun object follows into: look into it.",
-        "I'll look it up.": "Look up means consult a source for information. It does not specifically promise to investigate the reported fault.",
-        "I'll look out for it.": "Look out for means watch for something's appearance. That is not the same commitment as investigating the existing report."
+        "I'll look it into.": "In the 'investigate' sense, 'look into' keeps its object after 'into'. It is not separated like 'look it up'.",
+        "I'll look into it.": "'Look into' means investigate a matter. Its pronoun object follows 'into': 'look into it'.",
+        "I'll look it up.": "'Look up' means consult a source for information. It does not specifically promise to investigate the reported fault.",
+        "I'll look out for it.": "'Look out for' means watch for something's appearance. That is not the same commitment as investigating the existing report."
       },
       "audit": {
         "status": "reviewed",
@@ -1929,7 +1929,7 @@
       "id": "coverage-phrasal-verbs-b2-2463",
       "level": "B2",
       "setupText": "You want to introduce an issue for discussion at a meeting.",
-      "taskText": "Use it for the issue. Which sentence expresses introducing it with correct word order?",
+      "taskText": "Use 'it' for the issue. Which sentence expresses introducing it with correct word order?",
       "options": [
         "I'd like to bring up it at the meeting.",
         "I'd like to bring it up at the meeting.",
@@ -1937,12 +1937,12 @@
         "I'd like to put it off until after the meeting."
       ],
       "answer": "I'd like to bring it up at the meeting.",
-      "explanation": "Bring up an issue means introduce it into a discussion. A pronoun object belongs between bring and up: bring it up.",
+      "explanation": "'Bring up an issue' means introduce it into a discussion. A pronoun object belongs between 'bring' and 'up': 'bring it up'.",
       "rationales": {
-        "I'd like to bring it up at the meeting.": "Bring up an issue means introduce it into a discussion. A pronoun object belongs between bring and up: bring it up.",
-        "I'd like to bring up it at the meeting.": "With a pronoun, the object cannot follow up in this sense. Use bring it up.",
-        "I'd like to bring it about at the meeting.": "Bring about means cause something to happen, not introduce an existing issue for discussion.",
-        "I'd like to put it off until after the meeting.": "Put off postpones dealing with it; the task calls for introducing it during the meeting."
+        "I'd like to bring it up at the meeting.": "'Bring up an issue' means introduce it into a discussion. A pronoun object belongs between 'bring' and 'up': 'bring it up'.",
+        "I'd like to bring up it at the meeting.": "With a pronoun, the object cannot follow 'up' in this sense. Use 'bring it up'.",
+        "I'd like to bring it about at the meeting.": "'Bring about' means cause something to happen, not introduce an existing issue for discussion.",
+        "I'd like to put it off until after the meeting.": "'Put off' postpones dealing with it; the task calls for introducing it during the meeting."
       },
       "audit": {
         "status": "reviewed",
@@ -1991,7 +1991,7 @@
       "id": "coverage-phrasal-verbs-b2-2465",
       "level": "B2",
       "setupText": "A tenant describes the flat above hers.",
-      "taskText": "'I can put up with footsteps, but not music after midnight.' What does put up with express?",
+      "taskText": "'I can put up with footsteps, but not music after midnight.' What does 'put up with' express?",
       "options": [
         "Taking responsibility for stopping a disturbance.",
         "Arranging for the disturbance to happen later.",
@@ -1999,11 +1999,11 @@
         "Tolerating a disturbance."
       ],
       "answer": "Tolerating a disturbance.",
-      "explanation": "Put up with means tolerate something unpleasant. The contrast distinguishes what she can endure from what she considers unacceptable.",
+      "explanation": "'Put up with' means tolerate something unpleasant. The contrast distinguishes what she can endure from what she considers unacceptable.",
       "rationales": {
-        "Tolerating a disturbance.": "Put up with means tolerate something unpleasant. The contrast distinguishes what she can endure from what she considers unacceptable.",
+        "Tolerating a disturbance.": "'Put up with' means tolerate something unpleasant. The contrast distinguishes what she can endure from what she considers unacceptable.",
         "Taking responsibility for stopping a disturbance.": "Tolerance does not mean accepting a duty to eliminate the noise.",
-        "Arranging for the disturbance to happen later.": "That would concern postponement. Put up with expresses endurance, not scheduling.",
+        "Arranging for the disturbance to happen later.": "That would concern postponement. 'Put up with' expresses endurance, not scheduling.",
         "Agreeing that the disturbance is beneficial.": "People can put up with something they dislike. Tolerance is not a positive evaluation of it."
       },
       "audit": {
@@ -2146,7 +2146,7 @@
       "id": "coverage-phrasal-verbs-b2-2470",
       "level": "B2",
       "setupText": "A coordinator is choosing between two updates about a booking problem.",
-      "taskText": "How does 'We've sorted it out' differ from 'We're looking into it'?",
+      "taskText": "How does \"We've sorted it out\" differ from \"We're looking into it\"?",
       "options": [
         "The first reports a physical rearrangement; the second reports reading instructions.",
         "Both report resolution, but the first says the solution took longer.",
@@ -2154,12 +2154,12 @@
         "The first reports resolution; the second reports investigation in progress."
       ],
       "answer": "The first reports resolution; the second reports investigation in progress.",
-      "explanation": "Sort out a problem means resolve it. Looking into it describes investigation, which can still leave the outcome open.",
+      "explanation": "'Sort out a problem' means resolve it. 'Looking into it' describes investigation, which can still leave the outcome open.",
       "rationales": {
-        "The first reports resolution; the second reports investigation in progress.": "Sort out a problem means resolve it. Looking into it describes investigation, which can still leave the outcome open.",
-        "The first reports a physical rearrangement; the second reports reading instructions.": "With the booking problem as it, sorted out concerns resolution, not sorting objects into groups.",
+        "The first reports resolution; the second reports investigation in progress.": "'Sort out a problem' means resolve it. 'Looking into it' describes investigation, which can still leave the outcome open.",
+        "The first reports a physical rearrangement; the second reports reading instructions.": "With the booking problem as 'it', 'sorted out' concerns resolution, not sorting objects into groups.",
         "Both report resolution, but the first says the solution took longer.": "Looking into a problem does not report a solution, and neither expression compares duration.",
-        "Both report investigation, but the first identifies who caused the problem.": "Sorted it out goes beyond investigation to resolution; it does not itself identify the person responsible."
+        "Both report investigation, but the first identifies who caused the problem.": "'Sorted it out' goes beyond investigation to resolution; it does not itself identify the person responsible."
       },
       "audit": {
         "status": "reviewed",
@@ -2208,7 +2208,7 @@
       "id": "coverage-phrasal-verbs-b2-2472",
       "level": "B2",
       "setupText": "Read an update about flexible opening hours.",
-      "taskText": "'The staff group has put forward a proposal.' What stage does put forward itself establish?",
+      "taskText": "'The staff group has put forward a proposal.' What stage does 'put forward' itself establish?",
       "options": [
         "The proposal has been offered for consideration.",
         "The director has adopted the proposed hours.",
@@ -2216,11 +2216,11 @@
         "The proposal has been withdrawn from discussion."
       ],
       "answer": "The proposal has been offered for consideration.",
-      "explanation": "Put forward means present an idea or proposal for consideration. The expression does not itself report a decision to adopt or implement it.",
+      "explanation": "'Put forward' means present an idea or proposal for consideration. The expression does not itself report a decision to adopt or implement it.",
       "rationales": {
         "The director has adopted the proposed hours.": "Putting a proposal forward offers it for consideration. It does not establish the director's acceptance.",
         "The centre has begun using the proposed hours.": "Implementation is an additional action, not part of putting forward the proposal.",
-        "The proposal has been offered for consideration.": "Put forward means present an idea or proposal for consideration. The expression does not itself report a decision to adopt or implement it.",
+        "The proposal has been offered for consideration.": "'Put forward' means present an idea or proposal for consideration. The expression does not itself report a decision to adopt or implement it.",
         "The proposal has been withdrawn from discussion.": "Withdrawal removes a proposal from consideration; putting it forward presents it for consideration."
       },
       "audit": {
@@ -2240,7 +2240,7 @@
       "id": "coverage-phrasal-verbs-b2-2473",
       "level": "B2",
       "setupText": "Read a breakdown of a theatre's annual spending.",
-      "taskText": "'Building repairs account for forty percent of expenditure.' How is account for used?",
+      "taskText": "'Building repairs account for forty percent of expenditure.' How is 'account for' used?",
       "options": [
         "To explain why the expenditure was incorrectly recorded.",
         "To say what proportion the repairs make up.",
@@ -2248,9 +2248,9 @@
         "To predict how much spending will rise next year."
       ],
       "answer": "To say what proportion the repairs make up.",
-      "explanation": "Account for can mean constitute a stated share of a total. The percentage selects that sense, rather than explain why an event occurred.",
+      "explanation": "'Account for' can mean constitute a stated share of a total. The percentage selects that sense, rather than 'explain why an event occurred'.",
       "rationales": {
-        "To say what proportion the repairs make up.": "Account for can mean constitute a stated share of a total. The percentage selects that sense, rather than explain why an event occurred.",
+        "To say what proportion the repairs make up.": "'Account for' can mean constitute a stated share of a total. The percentage selects that sense, rather than 'explain why an event occurred'.",
         "To explain why the expenditure was incorrectly recorded.": "The sentence assigns a share of spending; it does not report an accounting error or its cause.",
         "To justify the decision to spend money on repairs.": "Stating a proportion does not provide a justification for the spending.",
         "To predict how much spending will rise next year.": "Forty percent is a share of the stated expenditure, not a forecast increase."
@@ -2302,7 +2302,7 @@
       "id": "coverage-phrasal-verbs-b2-2475",
       "level": "B2",
       "setupText": "A language centre explains its lesson-credit policy.",
-      "taskText": "'Unused credits can be carried over into the following month.' What does carried over mean here?",
+      "taskText": "'Unused credits can be carried over into the following month.' What does 'carried over' mean here?",
       "options": [
         "Converted into a cash refund.",
         "Transferred to another student's account.",
@@ -2310,12 +2310,12 @@
         "Replaced with a fresh allocation unrelated to the unused balance."
       ],
       "answer": "Kept available for use in the next month.",
-      "explanation": "Carry over means transfer or continue something into a later period. The credits remain usable rather than disappearing at the current month's end.",
+      "explanation": "'Carry over' means transfer or continue something into a later period. The credits remain usable rather than disappearing at the current month's end.",
       "rationales": {
         "Converted into a cash refund.": "Carrying credits over preserves them for later use; it does not itself promise a refund.",
         "Transferred to another student's account.": "The following month is a later period, not another recipient.",
-        "Replaced with a fresh allocation unrelated to the unused balance.": "Carry over keeps the unused credits available; it does not discard and replace that balance.",
-        "Kept available for use in the next month.": "Carry over means transfer or continue something into a later period. The credits remain usable rather than disappearing at the current month's end."
+        "Replaced with a fresh allocation unrelated to the unused balance.": "'Carry over' keeps the unused credits available; it does not discard and replace that balance.",
+        "Kept available for use in the next month.": "'Carry over' means transfer or continue something into a later period. The credits remain usable rather than disappearing at the current month's end."
       },
       "audit": {
         "status": "reviewed",
@@ -2395,7 +2395,7 @@
       "id": "coverage-phrasal-verbs-b2-2478",
       "level": "B2",
       "setupText": "Read a staff member's reflection on a company merger.",
-      "taskText": "'The team went through a difficult reorganisation.' Which sense of went through fits?",
+      "taskText": "'The team went through a difficult reorganisation.' Which sense of 'went through' fits?",
       "options": [
         "Examined a written proposal for reorganisation.",
         "Formally approved the reorganisation.",
@@ -2403,12 +2403,12 @@
         "Experienced the difficult process."
       ],
       "answer": "Experienced the difficult process.",
-      "explanation": "Go through an experience or period means undergo it. The phrase does not say the team approved it or benefited from it.",
+      "explanation": "'Go through an experience or period' means undergo it. The phrase does not say the team approved it or benefited from it.",
       "rationales": {
-        "Examined a written proposal for reorganisation.": "Go through can mean examine material, but here the object is the difficult process experienced, not a document.",
+        "Examined a written proposal for reorganisation.": "'Go through' can mean examine material, but here the object is the difficult process experienced, not a document.",
         "Formally approved the reorganisation.": "Approval is not part of the experience sense. A team may go through a process it did not choose.",
         "Designed the reorganisation for another team.": "The team is presented as experiencing the process, not designing it for others.",
-        "Experienced the difficult process.": "Go through an experience or period means undergo it. The phrase does not say the team approved it or benefited from it."
+        "Experienced the difficult process.": "'Go through an experience or period' means undergo it. The phrase does not say the team approved it or benefited from it."
       },
       "audit": {
         "status": "reviewed",
@@ -2457,7 +2457,7 @@
       "id": "coverage-phrasal-verbs-b2-2480",
       "level": "B2",
       "setupText": "A team leader sets a boundary for discussion.",
-      "taskText": "'We won't stand for personal insults.' What does won't stand for mean?",
+      "taskText": "\"We won't stand for personal insults.\" What does \"won't stand for\" mean?",
       "options": [
         "Will not represent the people who were insulted.",
         "Will not tolerate personal insults.",
@@ -2465,11 +2465,11 @@
         "Will not discuss whether the insults were accurate."
       ],
       "answer": "Will not tolerate personal insults.",
-      "explanation": "Stand for can mean tolerate or accept unpleasant behaviour, especially in negative statements. The leader says such behaviour will not be accepted.",
+      "explanation": "'Stand for' can mean tolerate or accept unpleasant behaviour, especially in negative statements. The leader says such behaviour will not be accepted.",
       "rationales": {
-        "Will not represent the people who were insulted.": "Stand for can mean represent, but personal insults as the object of this boundary selects tolerate.",
+        "Will not represent the people who were insulted.": "'Stand for' can mean represent, but 'personal insults' as the object of this boundary selects 'tolerate'.",
         "Will not explain what the insults mean.": "The leader is refusing to tolerate conduct, not declining to define expressions.",
-        "Will not tolerate personal insults.": "Stand for can mean tolerate or accept unpleasant behaviour, especially in negative statements. The leader says such behaviour will not be accepted.",
+        "Will not tolerate personal insults.": "'Stand for' can mean tolerate or accept unpleasant behaviour, especially in negative statements. The leader says such behaviour will not be accepted.",
         "Will not discuss whether the insults were accurate.": "The statement concerns allowing the behaviour, not debating the accuracy of particular remarks."
       },
       "audit": {
@@ -2705,7 +2705,7 @@
       "id": "coverage-phrasal-verbs-c1-2488",
       "level": "C1",
       "setupText": "A journal describes a museum reorganisation.",
-      "taskText": "'The collection came under the new department, and the arrangement soon came under criticism.' How does under function in the two expressions?",
+      "taskText": "'The collection came under the new department, and the arrangement soon came under criticism.' How does 'under' function in the two expressions?",
       "options": [
         "Both uses locate something below another object in the building.",
         "The first reports criticism by the department; the second reports a transfer to another department.",
@@ -2713,11 +2713,11 @@
         "Both uses mean that the collection was being examined for possible transfer."
       ],
       "answer": "The first marks oversight by a department; the second marks being subjected to criticism.",
-      "explanation": "Come under can mean enter someone's authority or become subject to an influence or response. The complement selects oversight in the first clause and criticism in the second.",
+      "explanation": "'Come under' can mean enter someone's authority or become subject to an influence or response. The complement selects oversight in the first clause and criticism in the second.",
       "rationales": {
-        "Both uses locate something below another object in the building.": "The department denotes administrative responsibility, and criticism denotes an adverse response; neither is a physical location.",
-        "The first marks oversight by a department; the second marks being subjected to criticism.": "Come under can mean enter someone's authority or become subject to an influence or response. The complement selects oversight in the first clause and criticism in the second.",
-        "The first reports criticism by the department; the second reports a transfer to another department.": "This swaps the relations selected by the complements: department supplies authority, while criticism supplies the response.",
+        "Both uses locate something below another object in the building.": "The 'department' denotes administrative responsibility, and 'criticism' denotes an adverse response; neither is a physical location.",
+        "The first marks oversight by a department; the second marks being subjected to criticism.": "'Come under' can mean enter someone's authority or become subject to an influence or response. The complement selects oversight in the first clause and criticism in the second.",
+        "The first reports criticism by the department; the second reports a transfer to another department.": "This swaps the relations selected by the complements: 'department' supplies authority, while 'criticism' supplies the response.",
         "Both uses mean that the collection was being examined for possible transfer.": "The first states that it came under the department, not merely that a transfer was considered. Criticism does not necessarily involve transfer."
       },
       "audit": {
@@ -2767,7 +2767,7 @@
       "id": "coverage-phrasal-verbs-c1-2490",
       "level": "C1",
       "setupText": "A reviewer objects to the conditions attached to an archive request.",
-      "taskText": "'Demanding a separate approval for every page amounts to refusing access.' What kind of claim is the reviewer making with amounts to?",
+      "taskText": "'Demanding a separate approval for every page amounts to refusing access.' What kind of claim is the reviewer making with 'amounts to'?",
       "options": [
         "That the archive has issued an explicit written refusal.",
         "That approval requirements will probably cause a later refusal.",
@@ -2775,12 +2775,12 @@
         "That the number of approvals can be calculated from a refusal."
       ],
       "answer": "That the requirement is effectively equivalent to a refusal.",
-      "explanation": "Amount to can mean be equivalent in effect or significance. The reviewer treats the conditions as a practical refusal without claiming that the archive has used those words.",
+      "explanation": "'Amount to' can mean be equivalent in effect or significance. The reviewer treats the conditions as a practical refusal without claiming that the archive has used those words.",
       "rationales": {
         "That the archive has issued an explicit written refusal.": "The reviewer equates practical effects; the phrase does not require a formal refusal document.",
-        "That approval requirements will probably cause a later refusal.": "Amounts to classifies the present requirement by its effect, rather than predicting a later event.",
-        "That the number of approvals can be calculated from a refusal.": "This is not the numerical-total sense of amount to; refusing access names the practical equivalent.",
-        "That the requirement is effectively equivalent to a refusal.": "Amount to can mean be equivalent in effect or significance. The reviewer treats the conditions as a practical refusal without claiming that the archive has used those words."
+        "That approval requirements will probably cause a later refusal.": "'Amounts to' classifies the present requirement by its effect, rather than predicting a later event.",
+        "That the number of approvals can be calculated from a refusal.": "This is not the numerical-total sense of 'amount to'; 'refusing access' names the practical equivalent.",
+        "That the requirement is effectively equivalent to a refusal.": "'Amount to' can mean be equivalent in effect or significance. The reviewer treats the conditions as a practical refusal without claiming that the archive has used those words."
       },
       "audit": {
         "status": "reviewed",
@@ -2921,7 +2921,7 @@
     {
       "id": "coverage-phrasal-verbs-c1-2495",
       "level": "C1",
-      "setupText": "An editor inserts for into a sentence about negotiations.",
+      "setupText": "An editor inserts 'for' into a sentence about negotiations.",
       "taskText": "'The negotiators held out an improved deal' becomes 'The negotiators held out for an improved deal.' What changes?",
       "options": [
         "They change from guaranteeing acceptance to predicting acceptance.",
@@ -2930,12 +2930,12 @@
         "They change from offering a deal to persisting in pursuit of one."
       ],
       "answer": "They change from offering a deal to persisting in pursuit of one.",
-      "explanation": "Hold out a deal means offer or present it. Hold out for a deal means continue seeking acceptable terms rather than settle for what is available; for changes the negotiators' role from offering to seeking.",
+      "explanation": "'Hold out a deal' means offer or present it. 'Hold out for a deal' means continue seeking acceptable terms rather than settle for what is available; 'for' changes the negotiators' role from offering to seeking.",
       "rationales": {
-        "They change from offering a deal to persisting in pursuit of one.": "Hold out a deal means offer or present it. Hold out for a deal means continue seeking acceptable terms rather than settle for what is available; for changes the negotiators' role from offering to seeking.",
+        "They change from offering a deal to persisting in pursuit of one.": "'Hold out a deal' means offer or present it. 'Hold out for a deal' means continue seeking acceptable terms rather than settle for what is available; 'for' changes the negotiators' role from offering to seeking.",
         "They change from guaranteeing acceptance to predicting acceptance.": "Neither phrase guarantees or predicts the other side's acceptance. The edit changes what the negotiators are doing.",
         "They change from agreeing immediate terms to agreeing terms after a fixed delay.": "Neither construction establishes agreement or a fixed delay. Holding out for something describes persistence in seeking it.",
-        "They change from withdrawing an offer to renewing the same offer.": "Hold out a deal presents it rather than withdraws it; hold out for does not mean renew an offer."
+        "They change from withdrawing an offer to renewing the same offer.": "'Hold out a deal' presents it rather than withdraws it; 'hold out for' does not mean renew an offer."
       },
       "audit": {
         "status": "reviewed",
@@ -3016,7 +3016,7 @@
       "id": "coverage-phrasal-verbs-c1-2498",
       "level": "C1",
       "setupText": "Read the conclusion of a discussion about lending a fragile object.",
-      "taskText": "'In the end, the decision comes down to whether it can travel safely.' What role does the whether-clause have?",
+      "taskText": "'In the end, the decision comes down to whether it can travel safely.' What role does the 'whether'-clause have?",
       "options": [
         "It describes a consequence expected after the decision has been made.",
         "It identifies the question on which the decision ultimately depends.",
@@ -3024,12 +3024,12 @@
         "It states that safe travel has already been demonstrated."
       ],
       "answer": "It identifies the question on which the decision ultimately depends.",
-      "explanation": "Come down to means reduce ultimately to a key factor or question. The whether-clause identifies that question without answering it.",
+      "explanation": "'Come down to' means reduce ultimately to a key factor or question. The 'whether'-clause identifies that question without answering it.",
       "rationales": {
         "It describes a consequence expected after the decision has been made.": "The clause gives the deciding issue, not a later consequence of the decision.",
-        "It names a minor detail left over after the important questions were settled.": "Come down to presents this as the central determining issue, not a minor remainder.",
-        "It states that safe travel has already been demonstrated.": "Whether leaves the answer open; it does not assert that the condition is satisfied.",
-        "It identifies the question on which the decision ultimately depends.": "Come down to means reduce ultimately to a key factor or question. The whether-clause identifies that question without answering it."
+        "It names a minor detail left over after the important questions were settled.": "'Come down to' presents this as the central determining issue, not a minor remainder.",
+        "It states that safe travel has already been demonstrated.": "'Whether' leaves the answer open; it does not assert that the condition is satisfied.",
+        "It identifies the question on which the decision ultimately depends.": "'Come down to' means reduce ultimately to a key factor or question. The 'whether'-clause identifies that question without answering it."
       },
       "audit": {
         "status": "reviewed",
@@ -3264,7 +3264,7 @@
       "id": "coverage-phrasal-verbs-c2-2506",
       "level": "C2",
       "setupText": "A translator says, 'I promise to try to finish by Friday.' The client replies, 'I'll hold you to that.'",
-      "taskText": "Reading that as exactly the commitment offered, what can the client hold the translator to?",
+      "taskText": "Reading 'that' as exactly the commitment offered, what can the client hold the translator to?",
       "options": [
         "Delivering the finished translation by Friday regardless of circumstances.",
         "Giving an explanation on Friday instead of attempting the work.",
@@ -3272,12 +3272,12 @@
         "Making the promised attempt to finish by Friday."
       ],
       "answer": "Making the promised attempt to finish by Friday.",
-      "explanation": "Hold someone to a commitment means require them to keep it. The translator promised an attempt, so the phrase does not turn that into a guarantee of a completed translation by Friday.",
+      "explanation": "'Hold someone to a commitment' means require them to keep it. The translator promised an attempt, so the phrase does not turn that into a guarantee of a completed translation by Friday.",
       "rationales": {
-        "Making the promised attempt to finish by Friday.": "Hold someone to a commitment means require them to keep it. The translator promised an attempt, so the phrase does not turn that into a guarantee of a completed translation by Friday.",
-        "Delivering the finished translation by Friday regardless of circumstances.": "This removes try from the promise and makes the commitment stronger than the translator stated.",
+        "Making the promised attempt to finish by Friday.": "'Hold someone to a commitment' means require them to keep it. The translator promised an attempt, so the phrase does not turn that into a guarantee of a completed translation by Friday.",
+        "Delivering the finished translation by Friday regardless of circumstances.": "This removes 'try' from the promise and makes the commitment stronger than the translator stated.",
         "Giving an explanation on Friday instead of attempting the work.": "An explanation is not the promised action. The promise concerns trying to meet the deadline.",
-        "Accepting a deadline the client is free to move earlier.": "Hold to preserves the stated commitment; it does not grant the client authority to replace it with an earlier one."
+        "Accepting a deadline the client is free to move earlier.": "'Hold to' preserves the stated commitment; it does not grant the client authority to replace it with an earlier one."
       },
       "audit": {
         "status": "reviewed",
@@ -3357,7 +3357,7 @@
     {
       "id": "coverage-phrasal-verbs-c2-2509",
       "level": "C2",
-      "setupText": "An editor adds with to a sentence about a workshop's printed instructions.",
+      "setupText": "An editor adds 'with' to a sentence about a workshop's printed instructions.",
       "taskText": "'The organisers dispensed printed instructions' becomes 'The organisers dispensed with printed instructions.' What is the consequence?",
       "options": [
         "The organisers distribute the instructions more widely than before.",
@@ -3366,11 +3366,11 @@
         "The organisers change who distributes the instructions while keeping the same procedure."
       ],
       "answer": "Distribution of the instructions becomes proceeding without them.",
-      "explanation": "Dispense something means supply or distribute it. Dispense with something means do without it or remove it as a requirement; adding with reverses its role in the organisers' procedure.",
+      "explanation": "'Dispense something' means supply or distribute it. 'Dispense with something' means do without it or remove it as a requirement; adding 'with' reverses its role in the organisers' procedure.",
       "rationales": {
-        "Distribution of the instructions becomes proceeding without them.": "Dispense something means supply or distribute it. Dispense with something means do without it or remove it as a requirement; adding with reverses its role in the organisers' procedure.",
-        "The organisers distribute the instructions more widely than before.": "With does not intensify distribution. It creates the different expression dispense with.",
-        "The instructions change from compulsory reading to optional reading, but are still supplied.": "Dispensed with does not itself preserve supply while merely changing how recipients should read them.",
+        "Distribution of the instructions becomes proceeding without them.": "'Dispense something' means supply or distribute it. 'Dispense with something' means do without it or remove it as a requirement; adding 'with' reverses its role in the organisers' procedure.",
+        "The organisers distribute the instructions more widely than before.": "'With' does not intensify distribution. It creates the different expression 'dispense with'.",
+        "The instructions change from compulsory reading to optional reading, but are still supplied.": "'Dispensed with' does not itself preserve supply while merely changing how recipients should read them.",
         "The organisers change who distributes the instructions while keeping the same procedure.": "The organisers remain the subject. The edit changes the action, not its agent."
       },
       "audit": {
@@ -3389,7 +3389,7 @@
       "id": "coverage-phrasal-verbs-c2-2510",
       "level": "C2",
       "setupText": "A passenger describes the railway company's response to a complaint.",
-      "taskText": "'We were fobbed off with a promise of a later review.' What criticism is conveyed by fobbed off with?",
+      "taskText": "'We were fobbed off with a promise of a later review.' What criticism is conveyed by 'fobbed off with'?",
       "options": [
         "An unsatisfactory response was used to put the complainants off.",
         "The company transferred the complaint to a more competent investigator.",
@@ -3397,12 +3397,12 @@
         "The company obtained the passengers' informed agreement that the problem was resolved."
       ],
       "answer": "An unsatisfactory response was used to put the complainants off.",
-      "explanation": "Fob someone off with something means use an inadequate answer or substitute to satisfy or deflect them. The phrase criticises how the promise functions; it does not by itself prove that no review will ever occur.",
+      "explanation": "'Fob someone off with something' means use an inadequate answer or substitute to satisfy or deflect them. The phrase criticises how the promise functions; it does not by itself prove that no review will ever occur.",
       "rationales": {
         "The company transferred the complaint to a more competent investigator.": "A transfer of responsibility is not part of this expression. The passenger criticises the adequacy of the response given.",
-        "An unsatisfactory response was used to put the complainants off.": "Fob someone off with something means use an inadequate answer or substitute to satisfy or deflect them. The phrase criticises how the promise functions; it does not by itself prove that no review will ever occur.",
+        "An unsatisfactory response was used to put the complainants off.": "'Fob someone off with something' means use an inadequate answer or substitute to satisfy or deflect them. The phrase criticises how the promise functions; it does not by itself prove that no review will ever occur.",
         "The passenger has proof that the company knowingly made an impossible promise.": "A false promise could be used this way, but proof of impossibility and knowledge goes beyond the expression.",
-        "The company obtained the passengers' informed agreement that the problem was resolved.": "Fobbed off is a negative assessment of inadequate treatment, not an account of an informed, satisfactory resolution."
+        "The company obtained the passengers' informed agreement that the problem was resolved.": "'Fobbed off' is a negative assessment of inadequate treatment, not an account of an informed, satisfactory resolution."
       },
       "audit": {
         "status": "reviewed",
@@ -3545,7 +3545,7 @@
       "id": "coverage-phrasal-verbs-c2-2515",
       "level": "C2",
       "setupText": "Read an employee's account of a promotion round.",
-      "taskText": "'I was passed over for team leader in favour of a less experienced colleague.' What does passed over establish?",
+      "taskText": "'I was passed over for team leader in favour of a less experienced colleague.' What does 'passed over' establish?",
       "options": [
         "The employee was never considered as a candidate.",
         "The employee was selected but declined the appointment.",
@@ -3553,12 +3553,12 @@
         "Someone else was selected rather than this employee."
       ],
       "answer": "Someone else was selected rather than this employee.",
-      "explanation": "Pass someone over for a position means not choose them, typically choosing someone else. The expression can convey disappointment without proving that the employee was never considered or that the choice was unjustified.",
+      "explanation": "'Pass someone over for a position' means not choose them, typically choosing someone else. The expression can convey disappointment without proving that the employee was never considered or that the choice was unjustified.",
       "rationales": {
-        "The employee was never considered as a candidate.": "Passed over can describe not being chosen even after consideration; it does not establish exclusion from the candidate pool.",
+        "The employee was never considered as a candidate.": "'Passed over' can describe not being chosen even after consideration; it does not establish exclusion from the candidate pool.",
         "The employee was selected but declined the appointment.": "That would be a refusal after selection, not being passed over in favour of another candidate.",
-        "Someone else was selected rather than this employee.": "Pass someone over for a position means not choose them, typically choosing someone else. The expression can convey disappointment without proving that the employee was never considered or that the choice was unjustified.",
-        "The employee's appointment was confirmed but postponed.": "A postponed appointment still selects the employee. In favour of a colleague instead identifies another successful candidate."
+        "Someone else was selected rather than this employee.": "'Pass someone over for a position' means not choose them, typically choosing someone else. The expression can convey disappointment without proving that the employee was never considered or that the choice was unjustified.",
+        "The employee's appointment was confirmed but postponed.": "A postponed appointment still selects the employee. 'In favour of a colleague' instead identifies another successful candidate."
       },
       "audit": {
         "status": "reviewed",
@@ -3638,7 +3638,7 @@
       "id": "coverage-phrasal-verbs-c2-2518",
       "level": "C2",
       "setupText": "An analyst describes the framework onto which local job titles were mapped.",
-      "taskText": "What relationship does mapped onto establish between the titles and the framework?",
+      "taskText": "What relationship does 'mapped onto' establish between the titles and the framework?",
       "options": [
         "The local titles were associated with positions or categories in the framework.",
         "The local titles were replaced in actual employment contracts by identical national titles.",
@@ -3646,10 +3646,10 @@
         "Every framework category was proved equivalent to exactly one local title."
       ],
       "answer": "The local titles were associated with positions or categories in the framework.",
-      "explanation": "Map something onto a framework means establish correspondences that represent it there. It does not guarantee identical wording, identical structure, or a one-to-one relationship.",
+      "explanation": "'Map something onto a framework' means establish correspondences that represent it there. It does not guarantee identical wording, identical structure, or a one-to-one relationship.",
       "rationales": {
         "The local titles were replaced in actual employment contracts by identical national titles.": "Mapping establishes a representation or correspondence; it does not itself change employees' contracts or titles.",
-        "The local titles were associated with positions or categories in the framework.": "Map something onto a framework means establish correspondences that represent it there. It does not guarantee identical wording, identical structure, or a one-to-one relationship.",
+        "The local titles were associated with positions or categories in the framework.": "'Map something onto a framework' means establish correspondences that represent it there. It does not guarantee identical wording, identical structure, or a one-to-one relationship.",
         "The framework was created by merging all the local titles into one new title.": "The framework is the target of the mapping, not necessarily a new product formed by merging the titles.",
         "Every framework category was proved equivalent to exactly one local title.": "A mapping does not by itself guarantee a complete one-to-one equivalence between the systems."
       },

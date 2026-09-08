@@ -106,7 +106,7 @@ Here are the holiday photos. ___ are ready to print.
 
 ID: `coverage-pronouns-and-reference-a1-2644`
 
-Choose the pronoun for the speaker after call, in standard English.
+Choose the pronoun for the speaker after 'call', in standard English.
 
 I finish work at six. Please call ___ after that.
 
@@ -115,14 +115,14 @@ I finish work at six. Please call ___ after that.
 3. my
 4. mine
 
-**Explanation:** Me is the object of call and refers to the speaker.
+**Explanation:** 'Me' is the object of 'call' and refers to the speaker.
 
 **Choice feedback:**
 
-- **I:** I is the subject form, but the speaker receives the call here.
-- **me:** Me is the object of call and refers to the speaker.
-- **my:** My needs a following noun, such as my phone.
-- **mine:** Mine refers to something belonging to the speaker, not the person being called.
+- **I:** 'I' is the subject form, but the speaker receives the call here.
+- **me:** 'Me' is the object of 'call' and refers to the speaker.
+- **my:** 'My' needs a following noun, such as 'my phone'.
+- **mine:** 'Mine' refers to something belonging to the speaker, not the person being called.
 
 **Decision:** replaced.
 
@@ -170,7 +170,7 @@ Are these ___ keys, Mr Shah?
 
 ID: `coverage-pronouns-and-reference-a1-2646`
 
-Choose the word that means my bag without repeating bag.
+Choose the word that means 'my bag' without repeating 'bag'.
 
 The blue bag belongs to me. It is ___.
 
@@ -179,14 +179,14 @@ The blue bag belongs to me. It is ___.
 3. me
 4. I
 
-**Explanation:** Mine replaces my bag and can stand after is.
+**Explanation:** 'Mine' replaces 'my bag' and can stand after 'is'.
 
 **Choice feedback:**
 
-- **my:** My must introduce a noun, as in my bag.
-- **mine:** Mine replaces my bag and can stand after is.
-- **me:** Me refers to the speaker, not to something the speaker owns.
-- **I:** I is a subject pronoun and does not express bag ownership here.
+- **my:** 'My' must introduce a noun, as in 'my bag'.
+- **mine:** 'Mine' replaces 'my bag' and can stand after 'is'.
+- **me:** 'Me' refers to the speaker, not to something the speaker owns.
+- **I:** 'I' is a subject pronoun and does not express bag ownership here.
 
 **Decision:** replaced.
 
@@ -266,7 +266,7 @@ My friend and I cannot find the address. Can you help ___?
 
 ID: `coverage-pronouns-and-reference-a1-2649`
 
-Choose the word that means her coat without repeating coat.
+Choose the word that means 'her coat' without repeating 'coat'.
 
 This coat belongs to my sister. It is ___.
 
@@ -275,14 +275,14 @@ This coat belongs to my sister. It is ___.
 3. hers **[Correct]**
 4. herself
 
-**Explanation:** Hers can stand alone to mean her coat.
+**Explanation:** 'Hers' can stand alone to mean 'her coat'.
 
 **Choice feedback:**
 
-- **her:** Her shows possession before a noun, but the noun coat is omitted here.
-- **she:** She refers to the sister as a person, not her coat.
-- **hers:** Hers can stand alone to mean her coat.
-- **herself:** Herself refers back to the sister, not to a possession.
+- **her:** 'Her' shows possession before a noun, but the noun 'coat' is omitted here.
+- **she:** 'She' refers to the sister as a person, not her coat.
+- **hers:** 'Hers' can stand alone to mean 'her coat'.
+- **herself:** 'Herself' refers back to the sister, not to a possession.
 
 **Decision:** replaced.
 
@@ -426,7 +426,7 @@ My aunt lives nearby. I invited ___ to dinner.
 
 ID: `coverage-pronouns-and-reference-a1-2654`
 
-Choose the word that means his phone without repeating phone.
+Choose the word that means 'his phone' without repeating 'phone'.
 
 This phone belongs to my brother. The phone is ___.
 
@@ -435,14 +435,14 @@ This phone belongs to my brother. The phone is ___.
 3. himself
 4. his **[Correct]**
 
-**Explanation:** His can stand alone to mean his phone; its form does not change when the noun is omitted.
+**Explanation:** 'His' can stand alone to mean 'his phone'; its form does not change when the noun is omitted.
 
 **Choice feedback:**
 
-- **he:** He refers to the brother as a person and does not express ownership here.
-- **him:** Him is an object pronoun, not a possessive form.
-- **himself:** Himself refers to the brother, not to an object belonging to him.
-- **his:** His can stand alone to mean his phone; its form does not change when the noun is omitted.
+- **he:** 'He' refers to the brother as a person and does not express ownership here.
+- **him:** 'Him' is an object pronoun, not a possessive form.
+- **himself:** 'Himself' refers to the brother, not to an object belonging to him.
+- **his:** 'His' can stand alone to mean 'his phone'; its form does not change when the noun is omitted.
 
 **Decision:** replaced.
 
@@ -618,7 +618,7 @@ The shoes are across the room. I point and say, 'I like ___.'
 
 ID: `coverage-pronouns-and-reference-a1-2660`
 
-Choose the phrase for an apartment belonging to the speaker and his partner, without repeating apartment.
+Choose the phrase for an apartment belonging to the speaker and his partner, without repeating 'apartment'.
 
 My partner and I own this apartment. It is ___.
 
@@ -627,14 +627,14 @@ My partner and I own this apartment. It is ___.
 3. our
 4. we
 
-**Explanation:** Ours stands alone for our apartment and includes the speaker among the owners.
+**Explanation:** 'Ours' stands alone for 'our apartment' and includes the speaker among the owners.
 
 **Choice feedback:**
 
-- **ours:** Ours stands alone for our apartment and includes the speaker among the owners.
-- **us:** Us refers to the two owners, not to their apartment.
-- **our:** Our needs a noun after it, such as our apartment.
-- **we:** We is the subject form for the owners and does not express possession after is.
+- **ours:** 'Ours' stands alone for 'our apartment' and includes the speaker among the owners.
+- **us:** 'Us' refers to the two owners, not to their apartment.
+- **our:** 'Our' needs a noun after it, such as 'our apartment'.
+- **we:** 'We' is the subject form for the owners and does not express possession after 'is'.
 
 **Decision:** replaced.
 
@@ -718,7 +718,7 @@ I lost my umbrella, so I need to buy a new ___.
 
 ID: `coverage-pronouns-and-reference-a2-2663`
 
-Choose the word replacing the plural noun cups in standard English.
+Choose the word replacing the plural noun 'cups' in standard English.
 
 The large cups are on the shelf. The small ___ are in the cupboard.
 
@@ -727,14 +727,14 @@ The large cups are on the shelf. The small ___ are in the cupboard.
 3. them
 4. it
 
-**Explanation:** Ones replaces plural cups and can follow the small.
+**Explanation:** 'Ones' replaces plural 'cups' and can follow 'the small'.
 
 **Choice feedback:**
 
-- **ones:** Ones replaces plural cups and can follow the small.
-- **one:** One is singular; the sentence refers to several small cups and uses are.
-- **them:** Them cannot follow the adjective in the small them; use a noun substitute.
-- **it:** It refers to one particular thing and cannot follow the small as a noun substitute.
+- **ones:** 'Ones' replaces plural 'cups' and can follow 'the small'.
+- **one:** 'One' is singular; the sentence refers to several small cups and uses 'are'.
+- **them:** 'Them' cannot follow the adjective in 'the small them'; use a noun substitute.
+- **it:** 'It' refers to one particular thing and cannot follow 'the small' as a noun substitute.
 
 **Decision:** replaced.
 
@@ -782,7 +782,7 @@ A jacket has been left in the meeting room. ___ is this?
 
 ID: `coverage-pronouns-and-reference-a2-2665`
 
-Choose what mine refers to in my reply.
+Choose what 'mine' refers to in my reply.
 
 Lena says, 'I forgot my notebook.' I reply, 'You can borrow mine.'
 
@@ -791,13 +791,13 @@ Lena says, 'I forgot my notebook.' I reply, 'You can borrow mine.'
 3. Both notebooks together.
 4. A notebook belonging to someone neither speaker has mentioned.
 
-**Explanation:** Mine means my notebook; its owner is the speaker of the reply.
+**Explanation:** 'Mine' means 'my notebook'; its owner is the speaker of the reply.
 
 **Choice feedback:**
 
-- **The notebook belonging to me, the person replying.:** Mine means my notebook; its owner is the speaker of the reply.
-- **Lena's missing notebook.:** Mine is used by the replying speaker, so it does not refer to Lena's notebook.
-- **Both notebooks together.:** Mine identifies the speaker's possession, not a combined group of both notebooks.
+- **The notebook belonging to me, the person replying.:** 'Mine' means 'my notebook'; its owner is the speaker of the reply.
+- **Lena's missing notebook.:** 'Mine' is used by the replying speaker, so it does not refer to Lena's notebook.
+- **Both notebooks together.:** 'Mine' identifies the speaker's possession, not a combined group of both notebooks.
 - **A notebook belonging to someone neither speaker has mentioned.:** The first-person possessive identifies the owner as the person replying, not an unspecified third person.
 
 **Decision:** replaced.
@@ -878,7 +878,7 @@ Be careful with that knife. You might cut ___.
 
 ID: `coverage-pronouns-and-reference-a2-2668`
 
-Choose who himself refers to.
+Choose who 'himself' refers to.
 
 Ravi checked himself in the mirror before his interview.
 
@@ -887,14 +887,14 @@ Ravi checked himself in the mirror before his interview.
 3. Another man standing beside Ravi.
 4. The person who owns the mirror.
 
-**Explanation:** Himself refers back to Ravi, so Ravi looks at his own appearance.
+**Explanation:** 'Himself' refers back to Ravi, so Ravi looks at his own appearance.
 
 **Choice feedback:**
 
-- **The interviewer, who is waiting for Ravi.:** Himself refers back to the subject Ravi, not to another person at the interview.
-- **Ravi, the person doing the checking.:** Himself refers back to Ravi, so Ravi looks at his own appearance.
+- **The interviewer, who is waiting for Ravi.:** 'Himself' refers back to the subject Ravi, not to another person at the interview.
+- **Ravi, the person doing the checking.:** 'Himself' refers back to Ravi, so Ravi looks at his own appearance.
 - **Another man standing beside Ravi.:** The reflexive does not introduce a second man; it makes Ravi both the checker and the person checked.
-- **The person who owns the mirror.:** Owning the mirror is not stated and does not determine the reference of himself.
+- **The person who owns the mirror.:** Owning the mirror is not stated and does not determine the reference of 'himself'.
 
 **Decision:** replaced.
 
@@ -910,7 +910,7 @@ Ravi checked himself in the mirror before his interview.
 
 ID: `coverage-pronouns-and-reference-a2-2669`
 
-Choose the meaning of by herself in this sentence.
+Choose the meaning of 'by herself' in this sentence.
 
 Nora assembled the bookshelf by herself.
 
@@ -919,12 +919,12 @@ Nora assembled the bookshelf by herself.
 3. She assembled it for someone else's home.
 4. She asked another person to assemble it.
 
-**Explanation:** In this task context, by herself describes Nora completing the assembly unaided.
+**Explanation:** In this task context, 'by herself' describes Nora completing the assembly unaided.
 
 **Choice feedback:**
 
-- **She assembled it beside another woman.:** By herself is an expression for acting alone or unaided, not the location phrase beside her.
-- **She assembled it without another person's help.:** In this task context, by herself describes Nora completing the assembly unaided.
+- **She assembled it beside another woman.:** 'By herself' is an expression for acting alone or unaided, not the location phrase 'beside her'.
+- **She assembled it without another person's help.:** In this task context, 'by herself' describes Nora completing the assembly unaided.
 - **She assembled it for someone else's home.:** The phrase describes how she did the work, not who will use the bookshelf.
 - **She asked another person to assemble it.:** Nora is the person who assembled it, not merely the person who requested the work.
 
@@ -942,7 +942,7 @@ Nora assembled the bookshelf by herself.
 
 ID: `coverage-pronouns-and-reference-a2-2670`
 
-Choose the pronoun showing that we prepared lunch for the same group as the subject we.
+Choose the pronoun showing that we prepared lunch for the same group as the subject 'we'.
 
 The cafe was closed, so we made lunch for ___.
 
@@ -951,14 +951,14 @@ The cafe was closed, so we made lunch for ___.
 3. ourselves **[Correct]**
 4. myself
 
-**Explanation:** Ourselves makes the people preparing lunch and its intended recipients the same we group.
+**Explanation:** 'Ourselves' makes the people preparing lunch and its intended recipients the same 'we' group.
 
 **Choice feedback:**
 
-- **themselves:** Themselves refers back to a they group, not the subject we.
-- **our:** Our needs a noun after it and cannot be the object of for alone.
-- **ourselves:** Ourselves makes the people preparing lunch and its intended recipients the same we group.
-- **myself:** Myself singles out the speaker and does not refer to the whole group represented by we.
+- **themselves:** 'Themselves' refers back to a 'they' group, not the subject 'we'.
+- **our:** 'Our' needs a noun after it and cannot be the object of 'for' alone.
+- **ourselves:** 'Ourselves' makes the people preparing lunch and its intended recipients the same 'we' group.
+- **myself:** 'Myself' singles out the speaker and does not refer to the whole group represented by 'we'.
 
 **Decision:** replaced.
 
@@ -1006,7 +1006,7 @@ The automatic door opened ___.
 
 ID: `coverage-pronouns-and-reference-a2-2672`
 
-Choose the pair that gives ownership first and it is second.
+Choose the pair that gives ownership first and 'it is' second.
 
 My phone will not start. ___ screen is black. ___ completely dead.
 
@@ -1015,14 +1015,14 @@ My phone will not start. ___ screen is black. ___ completely dead.
 3. It's / It's
 4. Its / It's **[Correct]**
 
-**Explanation:** Its shows that the screen belongs to the phone; it's is the contraction of it is in the final sentence.
+**Explanation:** 'Its' shows that the screen belongs to the phone; "it's" is the contraction of 'it is' in the final sentence.
 
 **Choice feedback:**
 
-- **It's / Its:** This reverses the two forms: it is screen does not express ownership, and its cannot replace it is.
-- **Its / Its:** The first form is correct, but the last sentence needs a verb: it's completely dead.
-- **It's / It's:** The final contraction is correct, but the screen needs possessive its, without an apostrophe.
-- **Its / It's:** Its shows that the screen belongs to the phone; it's is the contraction of it is in the final sentence.
+- **It's / Its:** This reverses the two forms: 'it is screen' does not express ownership, and 'its' cannot replace 'it is'.
+- **Its / Its:** The first form is correct, but the last sentence needs a verb: "it's completely dead".
+- **It's / It's:** The final contraction is correct, but the screen needs possessive 'its', without an apostrophe.
+- **Its / It's:** 'Its' shows that the screen belongs to the phone; "it's" is the contraction of 'it is' in the final sentence.
 
 **Decision:** replaced.
 
@@ -1262,7 +1262,7 @@ Please come with May and ___ to the station.
 
 ID: `coverage-pronouns-and-reference-a2-2680`
 
-Choose what it and you refer to in my reply.
+Choose what 'it' and 'you' refer to in my reply.
 
 Omar asks me for the address. I say, 'I will send it to you.'
 
@@ -1271,13 +1271,13 @@ Omar asks me for the address. I say, 'I will send it to you.'
 3. It means the address; you means the person speaking.
 4. It means a message already sent; you means Omar.
 
-**Explanation:** It replaces the requested address, and you addresses Omar, the person who asked.
+**Explanation:** 'It' replaces the requested address, and 'you' addresses Omar, the person who asked.
 
 **Choice feedback:**
 
 - **It means Omar; you means the address.:** This reverses a thing reference and a direct personal address.
-- **It means the address; you means Omar.:** It replaces the requested address, and you addresses Omar, the person who asked.
-- **It means the address; you means the person speaking.:** The person speaking uses I; you refers to the listener Omar.
+- **It means the address; you means Omar.:** 'It' replaces the requested address, and 'you' addresses Omar, the person who asked.
+- **It means the address; you means the person speaking.:** The person speaking uses 'I'; 'you' refers to the listener Omar.
 - **It means a message already sent; you means Omar.:** The reply refers back to the requested address and describes a future action, not an earlier message.
 
 **Decision:** replaced.
@@ -1362,7 +1362,7 @@ After watching the recording, ___.
 
 ID: `coverage-pronouns-and-reference-b1-2683`
 
-Choose what by themselves establishes, without assuming that the volunteers worked separately.
+Choose what 'by themselves' establishes, without assuming that the volunteers worked separately.
 
 The four volunteers designed the poster by themselves.
 
@@ -1371,12 +1371,12 @@ The four volunteers designed the poster by themselves.
 3. They designed the poster for their personal use.
 4. They were physically far apart while designing it.
 
-**Explanation:** By themselves can describe a group working unaided; it does not require its members to work individually.
+**Explanation:** 'By themselves' can describe a group working unaided; it does not require its members to work individually.
 
 **Choice feedback:**
 
-- **They designed it without help from people outside their group.:** By themselves can describe a group working unaided; it does not require its members to work individually.
-- **Each volunteer designed a separate poster.:** By themselves does not distribute a different poster to every volunteer; the sentence refers to the poster.
+- **They designed it without help from people outside their group.:** 'By themselves' can describe a group working unaided; it does not require its members to work individually.
+- **Each volunteer designed a separate poster.:** 'By themselves' does not distribute a different poster to every volunteer; the sentence refers to the poster.
 - **They designed the poster for their personal use.:** The phrase concerns who did the work, not who will use the result.
 - **They were physically far apart while designing it.:** Without outside help does not establish separate locations.
 
@@ -1394,7 +1394,7 @@ The four volunteers designed the poster by themselves.
 
 ID: `coverage-pronouns-and-reference-b1-2684`
 
-Choose what her own makes explicit about the car.
+Choose what 'her own' makes explicit about the car.
 
 Instead of borrowing the company vehicle, Salma used her own car for the trip.
 
@@ -1403,13 +1403,13 @@ Instead of borrowing the company vehicle, Salma used her own car for the trip.
 3. The car belonged to Salma rather than the company. **[Correct]**
 4. The company had bought a car especially for Salma.
 
-**Explanation:** Her own emphasizes Salma's personal possession in contrast with the company vehicle.
+**Explanation:** 'Her own' emphasizes Salma's personal possession in contrast with the company vehicle.
 
 **Choice feedback:**
 
-- **Salma was the only person in the car.:** Own emphasizes possession; it does not establish that she travelled alone.
-- **Salma drove without help learning the route.:** Her own car says nothing about navigation help or how she learned the route.
-- **The car belonged to Salma rather than the company.:** Her own emphasizes Salma's personal possession in contrast with the company vehicle.
+- **Salma was the only person in the car.:** 'Own' emphasizes possession; it does not establish that she travelled alone.
+- **Salma drove without help learning the route.:** 'Her own car' says nothing about navigation help or how she learned the route.
+- **The car belonged to Salma rather than the company.:** 'Her own' emphasizes Salma's personal possession in contrast with the company vehicle.
 - **The company had bought a car especially for Salma.:** The stated contrast is between the company's vehicle and Salma's own car, not a new company purchase.
 
 **Decision:** replaced.
@@ -1426,7 +1426,7 @@ Instead of borrowing the company vehicle, Salma used her own car for the trip.
 
 ID: `coverage-pronouns-and-reference-b1-2685`
 
-Choose the person identified by whose in this sentence.
+Choose the person identified by 'whose' in this sentence.
 
 Please contact the employee whose security pass was found in the lift.
 
@@ -1435,13 +1435,13 @@ Please contact the employee whose security pass was found in the lift.
 3. The employee who owns the lost pass. **[Correct]**
 4. The employee who issued all the security passes.
 
-**Explanation:** Whose links security pass to the employee as its owner.
+**Explanation:** 'Whose' links 'security pass' to the employee as its owner.
 
 **Choice feedback:**
 
-- **The employee who found someone else's pass.:** Whose makes the pass belong to the employee; it does not identify that employee as the finder.
+- **The employee who found someone else's pass.:** 'Whose' makes the pass belong to the employee; it does not identify that employee as the finder.
 - **The employee who operates the lift.:** The lift supplies the finding location, not the employee's job.
-- **The employee who owns the lost pass.:** Whose links security pass to the employee as its owner.
+- **The employee who owns the lost pass.:** 'Whose' links 'security pass' to the employee as its owner.
 - **The employee who issued all the security passes.:** Ownership of this pass does not identify who issued it or other passes.
 
 **Decision:** replaced.
@@ -1490,7 +1490,7 @@ I liked Jo's desk, so I bought one like it.
 
 ID: `coverage-pronouns-and-reference-b1-2687`
 
-Choose the role of it in this instruction.
+Choose the role of 'it' in this instruction.
 
 It is important to lock the side door after the last delivery.
 
@@ -1499,14 +1499,14 @@ It is important to lock the side door after the last delivery.
 3. It refers to the side door as an important object.
 4. It refers to a person responsible for deliveries.
 
-**Explanation:** Here it is a grammatical subject leading to to lock the side door; it need not refer back to an earlier object.
+**Explanation:** Here 'it' is a grammatical subject leading to 'to lock the side door'; it need not refer back to an earlier object.
 
 **Choice feedback:**
 
-- **It names the last delivery.:** The importance concerns locking the door; it does not replace the noun delivery.
-- **It introduces an assessment of the action described later.:** Here it is a grammatical subject leading to to lock the side door; it need not refer back to an earlier object.
+- **It names the last delivery.:** The importance concerns locking the door; it does not replace the noun 'delivery'.
+- **It introduces an assessment of the action described later.:** Here 'it' is a grammatical subject leading to 'to lock the side door'; it need not refer back to an earlier object.
 - **It refers to the side door as an important object.:** The sentence evaluates the action of locking the door, not the object's general importance.
-- **It refers to a person responsible for deliveries.:** No person is represented by this it.
+- **It refers to a person responsible for deliveries.:** No person is represented by this 'it'.
 
 **Decision:** replaced.
 
@@ -1522,7 +1522,7 @@ It is important to lock the side door after the last delivery.
 
 ID: `coverage-pronouns-and-reference-b1-2688`
 
-Choose what This refers to in the second sentence.
+Choose what 'This' refers to in the second sentence.
 
 Our train was cancelled at the last minute. This made us late for the concert.
 
@@ -1531,13 +1531,13 @@ Our train was cancelled at the last minute. This made us late for the concert.
 3. The concert's location.
 4. Our arrival at the concert before the train was cancelled.
 
-**Explanation:** This can refer to the event described by the whole preceding sentence, not just to one noun.
+**Explanation:** 'This' can refer to the event described by the whole preceding sentence, not just to one noun.
 
 **Choice feedback:**
 
-- **The people attending the concert.:** This is singular event reference; it does not stand for the people represented by us.
-- **The last-minute cancellation of our train.:** This can refer to the event described by the whole preceding sentence, not just to one noun.
-- **The concert's location.:** No location has been supplied for this to refer to.
+- **The people attending the concert.:** 'This' is singular event reference; it does not stand for the people represented by 'us'.
+- **The last-minute cancellation of our train.:** 'This' can refer to the event described by the whole preceding sentence, not just to one noun.
+- **The concert's location.:** No location has been supplied for 'this' to refer to.
 - **Our arrival at the concert before the train was cancelled.:** The sequence is reversed: the cancellation caused lateness, rather than following an earlier arrival.
 
 **Decision:** replaced.
@@ -1554,7 +1554,7 @@ Our train was cancelled at the last minute. This made us late for the concert.
 
 ID: `coverage-pronouns-and-reference-b1-2689`
 
-Choose the effect of herself in this sentence.
+Choose the effect of 'herself' in this sentence.
 
 The owner herself answered the complaint, rather than leaving it to an assistant.
 
@@ -1563,14 +1563,14 @@ The owner herself answered the complaint, rather than leaving it to an assistant
 3. It says that the owner was alone when she replied.
 4. It emphasizes that the owner personally took the action. **[Correct]**
 
-**Explanation:** The contrast with an assistant shows that herself highlights the owner's personal involvement.
+**Explanation:** The contrast with an assistant shows that 'herself' highlights the owner's personal involvement.
 
 **Choice feedback:**
 
-- **It makes the owner the person receiving her own complaint.:** Herself adds emphasis to the subject owner; the object of answered is the complaint.
+- **It makes the owner the person receiving her own complaint.:** 'Herself' adds emphasis to the subject 'owner'; the object of 'answered' is the complaint.
 - **It says that the owner wrote the complaint.:** The owner answered it; the sentence does not make her its author.
 - **It says that the owner was alone when she replied.:** Personal involvement does not establish that nobody else was present.
-- **It emphasizes that the owner personally took the action.:** The contrast with an assistant shows that herself highlights the owner's personal involvement.
+- **It emphasizes that the owner personally took the action.:** The contrast with an assistant shows that 'herself' highlights the owner's personal involvement.
 
 **Decision:** replaced.
 
@@ -1586,7 +1586,7 @@ The owner herself answered the complaint, rather than leaving it to an assistant
 
 ID: `coverage-pronouns-and-reference-b1-2690`
 
-Choose who one and oneself refer to in this general advice.
+Choose who 'one' and 'oneself' refer to in this general advice.
 
 With regular practice, one can teach oneself basic keyboard skills.
 
@@ -1595,14 +1595,14 @@ With regular practice, one can teach oneself basic keyboard skills.
 3. A person in general, learning without a separate teacher. **[Correct]**
 4. Only the reader, whom the writer identifies as the sole person needing practice.
 
-**Explanation:** Generic one means a person in general, and oneself refers back to that same person as the learner.
+**Explanation:** Generic 'one' means a person in general, and 'oneself' refers back to that same person as the learner.
 
 **Choice feedback:**
 
-- **Only the writer, describing a personal lesson already completed.:** Generic one gives advice about a person in general; it does not report the writer's completed experience.
-- **The writer and reader teaching one another as a pair.:** Oneself makes the learning self-directed, not reciprocal between a pair of people.
-- **A person in general, learning without a separate teacher.:** Generic one means a person in general, and oneself refers back to that same person as the learner.
-- **Only the reader, whom the writer identifies as the sole person needing practice.:** One does not single out the reader or state that nobody else needs practice.
+- **Only the writer, describing a personal lesson already completed.:** Generic 'one' gives advice about a person in general; it does not report the writer's completed experience.
+- **The writer and reader teaching one another as a pair.:** 'Oneself' makes the learning self-directed, not reciprocal between a pair of people.
+- **A person in general, learning without a separate teacher.:** Generic 'one' means a person in general, and 'oneself' refers back to that same person as the learner.
+- **Only the reader, whom the writer identifies as the sole person needing practice.:** 'One' does not single out the reader or state that nobody else needs practice.
 
 **Decision:** replaced.
 
@@ -1682,7 +1682,7 @@ At the first meeting, the new colleagues introduced themselves to each other.
 
 ID: `coverage-pronouns-and-reference-b1-2693`
 
-Choose the person represented by himself in the instruction Paul gave.
+Choose the person represented by 'himself' in the instruction Paul gave.
 
 Paul asked Ahmed to introduce himself to the new neighbours.
 
@@ -1691,14 +1691,14 @@ Paul asked Ahmed to introduce himself to the new neighbours.
 3. Ahmed, who was asked to give the introduction. **[Correct]**
 4. Paul and Ahmed together.
 
-**Explanation:** Ahmed is the understood subject of to introduce, so himself refers to Ahmed in that action.
+**Explanation:** Ahmed is the understood subject of 'to introduce', so himself refers to Ahmed in that action.
 
 **Choice feedback:**
 
-- **Paul, because he is the first name in the sentence.:** The action introduce is assigned to Ahmed; the first name is not automatically the reflexive's reference.
-- **A neighbour whose name has not yet been given.:** Himself refers back to the person introducing, not to an unnamed recipient.
-- **Ahmed, who was asked to give the introduction.:** Ahmed is the understood subject of to introduce, so himself refers to Ahmed in that action.
-- **Paul and Ahmed together.:** Himself is singular and relates to Ahmed's introduction, not a joint introduction by both men.
+- **Paul, because he is the first name in the sentence.:** The action 'introduce' is assigned to Ahmed; the first name is not automatically the reflexive's reference.
+- **A neighbour whose name has not yet been given.:** 'Himself' refers back to the person introducing, not to an unnamed recipient.
+- **Ahmed, who was asked to give the introduction.:** Ahmed is the understood subject of 'to introduce', so himself refers to Ahmed in that action.
+- **Paul and Ahmed together.:** 'Himself' is singular and relates to Ahmed's introduction, not a joint introduction by both men.
 
 **Decision:** replaced.
 
@@ -1714,7 +1714,7 @@ Paul asked Ahmed to introduce himself to the new neighbours.
 
 ID: `coverage-pronouns-and-reference-b1-2694`
 
-Choose the intended reference of you in this general travel advice.
+Choose the intended reference of 'you' in this general travel advice.
 
 In this city, you can buy a day ticket from machines at the tram stops.
 
@@ -1723,14 +1723,14 @@ In this city, you can buy a day ticket from machines at the tram stops.
 3. The people who repair the ticket machines.
 4. The city transport office as an organization.
 
-**Explanation:** You can address people generally in advice, rather than identifying one named listener.
+**Explanation:** 'You' can address people generally in advice, rather than identifying one named listener.
 
 **Choice feedback:**
 
-- **Travellers in general, including the reader.:** You can address people generally in advice, rather than identifying one named listener.
+- **Travellers in general, including the reader.:** 'You' can address people generally in advice, rather than identifying one named listener.
 - **Only the writer's travelling companion.:** The advice is general and does not identify one particular companion.
-- **The people who repair the ticket machines.:** You refers to potential ticket buyers, not to machine technicians.
-- **The city transport office as an organization.:** The organization may sell tickets, but you names the people following the advice.
+- **The people who repair the ticket machines.:** 'You' refers to potential ticket buyers, not to machine technicians.
+- **The city transport office as an organization.:** The organization may sell tickets, but 'you' names the people following the advice.
 
 **Decision:** replaced.
 
@@ -1746,7 +1746,7 @@ In this city, you can buy a day ticket from machines at the tram stops.
 
 ID: `coverage-pronouns-and-reference-b1-2695`
 
-Choose what any stands for in the question.
+Choose what 'any' stands for in the question.
 
 We need milk for breakfast. Have we got any?
 
@@ -1755,14 +1755,14 @@ We need milk for breakfast. Have we got any?
 3. Any shop where milk can be bought.
 4. Any milk available to us. **[Correct]**
 
-**Explanation:** Any can stand without a repeated noun when the context makes that noun clear; here the omitted content is milk.
+**Explanation:** 'Any' can stand without a repeated noun when the context makes that noun clear; here the omitted content is 'milk'.
 
 **Choice feedback:**
 
-- **Any breakfast that can be made using milk.:** Any stands for the needed ingredient, not for possible meals made with it.
+- **Any breakfast that can be made using milk.:** 'Any' stands for the needed ingredient, not for possible meals made with it.
 - **Any unopened cartons, with their exact number already stated.:** The question does not name cartons or give a count; it asks whether milk is available.
-- **Any shop where milk can be bought.:** No shop has been introduced, and have we got asks about the available ingredient.
-- **Any milk available to us.:** Any can stand without a repeated noun when the context makes that noun clear; here the omitted content is milk.
+- **Any shop where milk can be bought.:** No shop has been introduced, and 'have we got' asks about the available ingredient.
+- **Any milk available to us.:** 'Any' can stand without a repeated noun when the context makes that noun clear; here the omitted content is 'milk'.
 
 **Decision:** replaced.
 
@@ -1778,7 +1778,7 @@ We need milk for breakfast. Have we got any?
 
 ID: `coverage-pronouns-and-reference-b1-2696`
 
-Choose the likely reference of they in this exchange, without inventing a named person.
+Choose the likely reference of 'they' in this exchange, without inventing a named person.
 
 I called the clinic about my appointment. They have moved it to Thursday.
 
@@ -1787,13 +1787,13 @@ I called the clinic about my appointment. They have moved it to Thursday.
 3. The speaker and the clinic staff acting together.
 4. One specifically identified doctor who will see the speaker.
 
-**Explanation:** They can refer to the relevant staff of an organization already mentioned, even when individual staff members are unnamed.
+**Explanation:** 'They' can refer to the relevant staff of an organization already mentioned, even when individual staff members are unnamed.
 
 **Choice feedback:**
 
 - **Other patients whose appointments were also changed.:** The sentence gives no group of other patients and does not identify patients as the people changing the booking.
-- **The people handling appointments at the clinic.:** They can refer to the relevant staff of an organization already mentioned, even when individual staff members are unnamed.
-- **The speaker and the clinic staff acting together.:** They does not include the current speaker in the group carrying out the change.
+- **The people handling appointments at the clinic.:** 'They' can refer to the relevant staff of an organization already mentioned, even when individual staff members are unnamed.
+- **The speaker and the clinic staff acting together.:** 'They' does not include the current speaker in the group carrying out the change.
 - **One specifically identified doctor who will see the speaker.:** The context supplies a clinic and its appointment arrangements, but does not identify a particular doctor as responsible.
 
 **Decision:** replaced.
@@ -1874,7 +1874,7 @@ Version A: 'He dressed quickly.' Version B: 'He dressed himself quickly.'
 
 ID: `coverage-pronouns-and-reference-b1-2699`
 
-Choose the continuation that rejects both options without repeating bus.
+Choose the continuation that rejects both options without repeating 'bus'.
 
 The morning bus leaves too early; the evening bus arrives too late.
 
@@ -1883,14 +1883,14 @@ The morning bus leaves too early; the evening bus arrives too late.
 3. Both suit my schedule.
 4. One suits my schedule.
 
-**Explanation:** Neither stands for neither of the two buses and rejects both as suitable for the speaker's schedule.
+**Explanation:** 'Neither' stands for 'neither of the two buses' and rejects both as suitable for the speaker's schedule.
 
 **Choice feedback:**
 
-- **Either suits my schedule.:** Either in this positive statement says that each option is acceptable, contrary to both being unsuitable.
-- **Neither suits my schedule.:** Neither stands for neither of the two buses and rejects both as suitable for the speaker's schedule.
-- **Both suit my schedule.:** Both explicitly accepts the two options, reversing the intended assessment.
-- **One suits my schedule.:** One selects a suitable option, but the task says that both are unsuitable.
+- **Either suits my schedule.:** 'Either' in this positive statement says that each option is acceptable, contrary to both being unsuitable.
+- **Neither suits my schedule.:** 'Neither' stands for 'neither of the two buses' and rejects both as suitable for the speaker's schedule.
+- **Both suit my schedule.:** 'Both' explicitly accepts the two options, reversing the intended assessment.
+- **One suits my schedule.:** 'One' selects a suitable option, but the task says that both are unsuitable.
 
 **Decision:** replaced.
 
@@ -1906,7 +1906,7 @@ The morning bus leaves too early; the evening bus arrives too late.
 
 ID: `coverage-pronouns-and-reference-b1-2700`
 
-Choose what this points to in the reminder.
+Choose what 'this' points to in the reminder.
 
 Remember this: switch off the lights before you leave the studio.
 
@@ -1915,14 +1915,14 @@ Remember this: switch off the lights before you leave the studio.
 3. The person who will leave the studio.
 4. The studio as a physical building.
 
-**Explanation:** This can point forward to content that immediately follows, here the instruction about the lights.
+**Explanation:** 'This' can point forward to content that immediately follows, here the instruction about the lights.
 
 **Choice feedback:**
 
-- **The instruction that follows the colon.:** This can point forward to content that immediately follows, here the instruction about the lights.
-- **A particular light already identified in an earlier sentence.:** No earlier light is identified; this introduces the whole following reminder.
-- **The person who will leave the studio.:** This points to what must be remembered, not to the person addressed by you.
-- **The studio as a physical building.:** The instruction concerns the studio, but this refers to the reminder rather than replacing the building noun.
+- **The instruction that follows the colon.:** 'This' can point forward to content that immediately follows, here the instruction about the lights.
+- **A particular light already identified in an earlier sentence.:** No earlier light is identified; 'this' introduces the whole following reminder.
+- **The person who will leave the studio.:** 'This' points to what must be remembered, not to the person addressed by 'you'.
+- **The studio as a physical building.:** The instruction concerns the studio, but 'this' refers to the reminder rather than replacing the building noun.
 
 **Decision:** replaced.
 
@@ -1944,21 +1944,21 @@ ID: `coverage-pronouns-and-reference-b2-2701`
 
 Choose the accurate response to the editor's objection in contemporary standard English.
 
-Draft: 'Each applicant receives a code. They must keep it private.' An editor says that they cannot refer back to each applicant because each is singular.
+Draft: 'Each applicant receives a code. They must keep it private.' An editor says that 'they' cannot refer back to 'each applicant' because 'each' is singular.
 
 1. They necessarily refers to the applicants as one group sharing one code.
 2. They refers to the codes because it follows the sentence about receiving a code.
 3. They changes the instruction into a requirement for the person who issued the code.
 4. They can refer to each individual applicant without specifying gender. **[Correct]**
 
-**Explanation:** Each applicant is grammatically singular, but singular personal they is available for the same gender-unspecified individual.
+**Explanation:** 'Each applicant' is grammatically singular, but singular personal 'they' is available for the same gender-unspecified individual.
 
 **Choice feedback:**
 
-- **They necessarily refers to the applicants as one group sharing one code.:** Singular they can refer to each applicant individually; it does not turn individually received codes into one shared code.
-- **They refers to the codes because it follows the sentence about receiving a code.:** The people keep codes private; they refers to applicants, while it refers to the code in each case.
+- **They necessarily refers to the applicants as one group sharing one code.:** Singular 'they' can refer to 'each applicant' individually; it does not turn individually received codes into one shared code.
+- **They refers to the codes because it follows the sentence about receiving a code.:** The people keep codes private; 'they' refers to applicants, while 'it' refers to the code in each case.
 - **They changes the instruction into a requirement for the person who issued the code.:** No code issuer is identified as the pronoun's reference; the instruction continues to concern the applicant.
-- **They can refer to each individual applicant without specifying gender.:** Each applicant is grammatically singular, but singular personal they is available for the same gender-unspecified individual.
+- **They can refer to each individual applicant without specifying gender.:** 'Each applicant' is grammatically singular, but singular personal 'they' is available for the same gender-unspecified individual.
 
 **Decision:** replaced.
 
@@ -2102,7 +2102,7 @@ A colleague proposes cancelling all evening appointments. I reply, 'That would e
 
 ID: `coverage-pronouns-and-reference-b2-2706`
 
-Choose the accurate reference of former and latter.
+Choose the accurate reference of 'former' and 'latter'.
 
 The editor compared the interview transcript with the final article. The former preserves hesitations; the latter removes most of them.
 
@@ -2111,12 +2111,12 @@ The editor compared the interview transcript with the final article. The former 
 3. Former means the article; latter means the transcript.
 4. Former and latter both mean different sections of the final article.
 
-**Explanation:** Former points to the first of the two named texts, and latter to the second; them then refers to hesitations.
+**Explanation:** 'Former' points to the first of the two named texts, and 'latter' to the second; 'them' then refers to hesitations.
 
 **Choice feedback:**
 
 - **Former means the interviewee; latter means the editor.:** The paired comparison names two texts, not two people.
-- **Former means the transcript; latter means the article.:** Former points to the first of the two named texts, and latter to the second; them then refers to hesitations.
+- **Former means the transcript; latter means the article.:** 'Former' points to the first of the two named texts, and 'latter' to the second; 'them' then refers to hesitations.
 - **Former means the article; latter means the transcript.:** This reverses the order of the two texts as introduced.
 - **Former and latter both mean different sections of the final article.:** The references follow the two named texts, not unstated sections within one text.
 
@@ -2166,7 +2166,7 @@ The head chef's salary is higher than ___.
 
 ID: `coverage-pronouns-and-reference-b2-2708`
 
-Choose the group identified by those who, without extending it to everyone mentioned.
+Choose the group identified by 'those who', without extending it to everyone mentioned.
 
 All residents may attend the briefing, but those who submitted objections will receive the detailed response.
 
@@ -2175,13 +2175,13 @@ All residents may attend the briefing, but those who submitted objections will r
 3. The residents who submitted objections. **[Correct]**
 4. Only residents who decide not to attend.
 
-**Explanation:** Those who introduces the subset identified by the following clause; it does not simply repeat all residents.
+**Explanation:** 'Those who' introduces the subset identified by the following clause; it does not simply repeat 'all residents'.
 
 **Choice feedback:**
 
 - **All residents who are allowed to attend the briefing.:** Attendance is open to all, but receiving the detailed response is linked to submitting objections.
-- **The officials who wrote the detailed response.:** Those who refers back to the resident group and identifies objectors, not the response's authors.
-- **The residents who submitted objections.:** Those who introduces the subset identified by the following clause; it does not simply repeat all residents.
+- **The officials who wrote the detailed response.:** 'Those who' refers back to the resident group and identifies objectors, not the response's authors.
+- **The residents who submitted objections.:** 'Those who' introduces the subset identified by the following clause; it does not simply repeat 'all residents'.
 - **Only residents who decide not to attend.:** Nothing ties receipt of the response to nonattendance; the condition is submitting objections.
 
 **Decision:** replaced.
@@ -2296,21 +2296,21 @@ ID: `coverage-pronouns-and-reference-b2-2712`
 
 Choose the accurate editorial advice in contemporary standard English.
 
-Draft: 'The three partners consult each other before making an offer.' An editor objects that each other is only possible with two people.
+Draft: 'The three partners consult each other before making an offer.' An editor objects that 'each other' is only possible with two people.
 
 1. Replace each other with themselves to preserve the mutual consultation.
 2. Each other is acceptable for three people; one another is also available. **[Correct]**
 3. Keep each other only if one partner is excluded from the discussions.
 4. The phrase means that all three consult the same outside adviser.
 
-**Explanation:** Contemporary standard usage does not enforce a two-person versus more-than-two distinction between each other and one another.
+**Explanation:** Contemporary standard usage does not enforce a two-person versus more-than-two distinction between 'each other' and 'one another'.
 
 **Choice feedback:**
 
-- **Replace each other with themselves to preserve the mutual consultation.:** Themselves would suggest self-directed consultation rather than consulting the other partners.
-- **Each other is acceptable for three people; one another is also available.:** Contemporary standard usage does not enforce a two-person versus more-than-two distinction between each other and one another.
+- **Replace each other with themselves to preserve the mutual consultation.:** 'Themselves' would suggest self-directed consultation rather than consulting the other partners.
+- **Each other is acceptable for three people; one another is also available.:** Contemporary standard usage does not enforce a two-person versus more-than-two distinction between 'each other' and 'one another'.
 - **Keep each other only if one partner is excluded from the discussions.:** The expression can include all three partners; exclusion is not required by its form.
-- **The phrase means that all three consult the same outside adviser.:** Each other links the partners to one another, not to one shared person outside their group.
+- **The phrase means that all three consult the same outside adviser.:** 'Each other' links the partners to one another, not to one shared person outside their group.
 
 **Decision:** replaced.
 
@@ -2326,7 +2326,7 @@ Draft: 'The three partners consult each other before making an offer.' An editor
 
 ID: `coverage-pronouns-and-reference-b2-2713`
 
-Choose the revision that consistently uses formal generic one for the person evaluating their own work.
+Choose the revision that consistently uses formal generic 'one' for the person evaluating their own work.
 
 Draft: 'One should review your own work before asking others to evaluate it.'
 
@@ -2335,13 +2335,13 @@ Draft: 'One should review your own work before asking others to evaluate it.'
 3. You should review your own work before asking others to evaluate it.
 4. One should review their colleagues' work before asking others to evaluate it.
 
-**Explanation:** One's matches generic one as the owner, while it continues to refer to the work.
+**Explanation:** "One's" matches generic 'one' as the owner, while 'it' continues to refer to the work.
 
 **Choice feedback:**
 
-- **One should review one's own work before asking others to evaluate it.:** One's matches generic one as the owner, while it continues to refer to the work.
-- **One should review our own work before asking others to evaluate it.:** Our shifts ownership to a speaker-inclusive group instead of keeping the same generic person.
-- **You should review your own work before asking others to evaluate it.:** This is a coherent revision, but it adopts generic you instead of the explicitly requested formal one.
+- **One should review one's own work before asking others to evaluate it.:** "One's" matches generic 'one' as the owner, while 'it' continues to refer to the work.
+- **One should review our own work before asking others to evaluate it.:** 'Our' shifts ownership to a speaker-inclusive group instead of keeping the same generic person.
+- **You should review your own work before asking others to evaluate it.:** This is a coherent revision, but it adopts generic 'you' instead of the explicitly requested formal 'one'.
 - **One should review their colleagues' work before asking others to evaluate it.:** This changes the work's owner from the evaluator themself to the evaluator's colleagues.
 
 **Decision:** replaced.
@@ -2390,7 +2390,7 @@ Elena said to me, 'I sent your draft to my editor.' I later tell a colleague wha
 
 ID: `coverage-pronouns-and-reference-b2-2715`
 
-Choose the accurate account of it in this sentence.
+Choose the accurate account of 'it' in this sentence.
 
 The committee found it difficult to reach a decision before the deadline.
 
@@ -2399,14 +2399,14 @@ The committee found it difficult to reach a decision before the deadline.
 3. It introduces the later action that the committee found difficult. **[Correct]**
 4. It replaces the committee to avoid repeating that noun.
 
-**Explanation:** Find it difficult to do something uses it before an adjective and a later infinitive clause; no previously named object is required.
+**Explanation:** 'Find it difficult to do something' uses 'it' before an adjective and a later infinitive clause; no previously named object is required.
 
 **Choice feedback:**
 
 - **It refers to the deadline as a difficult object.:** The difficulty concerns reaching a decision in time, not the deadline as an object.
 - **It refers to a decision that the committee had already reached.:** The sentence does not establish a completed decision; the assessed action is to reach one.
-- **It introduces the later action that the committee found difficult.:** Find it difficult to do something uses it before an adjective and a later infinitive clause; no previously named object is required.
-- **It replaces the committee to avoid repeating that noun.:** The committee is the finder or evaluator; it is not a second reference to that group here.
+- **It introduces the later action that the committee found difficult.:** 'Find it difficult to do something' uses 'it' before an adjective and a later infinitive clause; no previously named object is required.
+- **It replaces the committee to avoid repeating that noun.:** The committee is the finder or evaluator; 'it' is not a second reference to that group here.
 
 **Decision:** replaced.
 
@@ -2422,7 +2422,7 @@ The committee found it difficult to reach a decision before the deadline.
 
 ID: `coverage-pronouns-and-reference-b2-2716`
 
-Choose the statement replaced by so in the reply.
+Choose the statement replaced by 'so' in the reply.
 
 A visitor asks, 'Will the bridge reopen on Friday?' The guide replies, 'I hope so.'
 
@@ -2431,13 +2431,13 @@ A visitor asks, 'Will the bridge reopen on Friday?' The guide replies, 'I hope s
 3. The bridge will remain closed on Friday.
 4. Friday will suit the visitor's plans better than another day.
 
-**Explanation:** So stands for the proposition in the question; the guide hopes that reopening on Friday will happen.
+**Explanation:** 'So' stands for the proposition in the question; the guide hopes that reopening on Friday will happen.
 
 **Choice feedback:**
 
-- **The bridge will reopen on Friday.:** So stands for the proposition in the question; the guide hopes that reopening on Friday will happen.
+- **The bridge will reopen on Friday.:** 'So' stands for the proposition in the question; the guide hopes that reopening on Friday will happen.
 - **The guide has received confirmation of Friday's reopening.:** The short reply expresses hope for reopening, not receipt of a confirmation.
-- **The bridge will remain closed on Friday.:** That would correspond to hoping not; so retains the positive reopening proposition.
+- **The bridge will remain closed on Friday.:** That would correspond to 'hoping not'; 'so' retains the positive reopening proposition.
 - **Friday will suit the visitor's plans better than another day.:** The question concerns reopening, not a comparison between possible visiting days.
 
 **Decision:** replaced.
@@ -2454,7 +2454,7 @@ A visitor asks, 'Will the bridge reopen on Friday?' The guide replies, 'I hope s
 
 ID: `coverage-pronouns-and-reference-b2-2717`
 
-Replace did so with an explicit action to say that Nadia fulfilled her promise after forwarding the files, not merely that she made the promise then.
+Replace 'did so' with an explicit action to say that Nadia fulfilled her promise after forwarding the files, not merely that she made the promise then.
 
 Draft: 'Nadia promised to delete the draft files. She did so after forwarding them to the archivist.'
 
@@ -2463,12 +2463,12 @@ Draft: 'Nadia promised to delete the draft files. She did so after forwarding th
 3. She forwarded the draft files after deleting them from the archive.
 4. She kept the draft files after forwarding them to the archivist.
 
-**Explanation:** The explicit verb deleted selects performance of the promised action. Them still refers to the files that were forwarded beforehand.
+**Explanation:** The explicit verb 'deleted' selects performance of the promised action. 'Them' still refers to the files that were forwarded beforehand.
 
 **Choice feedback:**
 
 - **She made the promise after forwarding the draft files to the archivist.:** This explicitly dates the promise, but the brief requires the later action that fulfilled it.
-- **She deleted the draft files after forwarding them to the archivist.:** The explicit verb deleted selects performance of the promised action. Them still refers to the files that were forwarded beforehand.
+- **She deleted the draft files after forwarding them to the archivist.:** The explicit verb 'deleted' selects performance of the promised action. 'Them' still refers to the files that were forwarded beforehand.
 - **She forwarded the draft files after deleting them from the archive.:** This reverses the stated forwarding/deletion order and changes the deletion location.
 - **She kept the draft files after forwarding them to the archivist.:** Keeping the files would not fulfill the stated promise to delete them.
 
@@ -2486,7 +2486,7 @@ Draft: 'Nadia promised to delete the draft files. She did so after forwarding th
 
 ID: `coverage-pronouns-and-reference-b2-2718`
 
-Choose the intended audience reference of we in this sentence from a report.
+Choose the intended audience reference of 'we' in this sentence from a report.
 
 As we can see from Table 2, demand rose during the summer. The report does not identify its readers as members of the research team.
 
@@ -2495,13 +2495,13 @@ As we can see from Table 2, demand rose during the summer. The report does not i
 3. The writer invites readers to examine the table together. **[Correct]**
 4. The writer claims that the table was written jointly by all readers.
 
-**Explanation:** We can include writer and readers in a shared act of looking at evidence without making them a single research team.
+**Explanation:** 'We' can include writer and readers in a shared act of looking at evidence without making them a single research team.
 
 **Choice feedback:**
 
-- **The writer states that every reader helped collect the data.:** Inclusive we in presenting a table does not establish participation in data collection.
-- **The writer excludes readers and refers only to the people shown in the table.:** As we can see addresses the act of examining the table, not necessarily its subjects.
-- **The writer invites readers to examine the table together.:** We can include writer and readers in a shared act of looking at evidence without making them a single research team.
+- **The writer states that every reader helped collect the data.:** Inclusive 'we' in presenting a table does not establish participation in data collection.
+- **The writer excludes readers and refers only to the people shown in the table.:** 'As we can see' addresses the act of examining the table, not necessarily its subjects.
+- **The writer invites readers to examine the table together.:** 'We' can include writer and readers in a shared act of looking at evidence without making them a single research team.
 - **The writer claims that the table was written jointly by all readers.:** Inviting readers to observe a table does not attribute its authorship to them.
 
 **Decision:** replaced.
@@ -2518,7 +2518,7 @@ As we can see from Table 2, demand rose during the summer. The report does not i
 
 ID: `coverage-pronouns-and-reference-b2-2719`
 
-Choose what those of us who identifies without including the whole group.
+Choose what 'those of us who' identifies without including the whole group.
 
 Those of us who work weekends need access cards that function outside normal office hours.
 
@@ -2527,14 +2527,14 @@ Those of us who work weekends need access cards that function outside normal off
 3. Only employees outside the speaker's group.
 4. The speaker alone, excluding the other weekend workers.
 
-**Explanation:** Of us supplies the larger speaker-inclusive group; who work weekends selects the relevant members. The wording does not by itself say that the speaker belongs to that subset.
+**Explanation:** 'Of us' supplies the larger speaker-inclusive group; 'who work weekends' selects the relevant members. The wording does not by itself say that the speaker belongs to that subset.
 
 **Choice feedback:**
 
-- **All employees, whether or not they work weekends.:** Who work weekends restricts the larger us group to its weekend-working members.
-- **The weekend workers within a group that includes the speaker.:** Of us supplies the larger speaker-inclusive group; who work weekends selects the relevant members. The wording does not by itself say that the speaker belongs to that subset.
-- **Only employees outside the speaker's group.:** Of us explicitly places the selected people within a speaker-inclusive group.
-- **The speaker alone, excluding the other weekend workers.:** Those is plural and does not select only the speaker.
+- **All employees, whether or not they work weekends.:** 'Who work weekends' restricts the larger 'us' group to its weekend-working members.
+- **The weekend workers within a group that includes the speaker.:** 'Of us' supplies the larger speaker-inclusive group; 'who work weekends' selects the relevant members. The wording does not by itself say that the speaker belongs to that subset.
+- **Only employees outside the speaker's group.:** 'Of us' explicitly places the selected people within a speaker-inclusive group.
+- **The speaker alone, excluding the other weekend workers.:** 'Those' is plural and does not select only the speaker.
 
 **Decision:** replaced.
 
@@ -2550,7 +2550,7 @@ Those of us who work weekends need access cards that function outside normal off
 
 ID: `coverage-pronouns-and-reference-b2-2720`
 
-Choose the accurate account of they in this conditional instruction.
+Choose the accurate account of 'they' in this conditional instruction.
 
 If a guest needs a quieter room, they should contact reception. The notice names no particular guest.
 
@@ -2559,11 +2559,11 @@ If a guest needs a quieter room, they should contact reception. The notice names
 3. They refers to the reception staff who receive the request.
 4. They requires the notice to have named the guest in an earlier sentence.
 
-**Explanation:** The conditional introduces a possible guest, and singular they continues that reference without identifying an actual person in advance.
+**Explanation:** The conditional introduces a possible guest, and singular 'they' continues that reference without identifying an actual person in advance.
 
 **Choice feedback:**
 
-- **They refers to whichever individual guest meets the stated condition.:** The conditional introduces a possible guest, and singular they continues that reference without identifying an actual person in advance.
+- **They refers to whichever individual guest meets the stated condition.:** The conditional introduces a possible guest, and singular 'they' continues that reference without identifying an actual person in advance.
 - **They proves that several guests have already complained.:** The instruction is conditional; the pronoun establishes neither actual complaints nor a plural guest count.
 - **They refers to the reception staff who receive the request.:** The guest is the person instructed to contact reception, not the staff receiving contact.
 - **They requires the notice to have named the guest in an earlier sentence.:** A conditional can introduce a hypothetical person whose reference continues into the instruction.
@@ -2650,7 +2650,7 @@ Report: 'The analyst checked the figures for herself.' Summary: 'The analyst rec
 
 ID: `coverage-pronouns-and-reference-c1-2723`
 
-Follow the formal editing convention that uses who for subjects and whom for objects. Choose the pair for the two relative clauses.
+Follow the formal editing convention that uses 'who' for subjects and 'whom' for objects. Choose the pair for the two relative clauses.
 
 We appointed the adviser ___ we believed would help us and ___ the team had recommended.
 
@@ -2659,14 +2659,14 @@ We appointed the adviser ___ we believed would help us and ___ the team had reco
 3. who / who
 4. whom / whom
 
-**Explanation:** Who supplies the subject of would help; whom is the person the team recommended. The intervening reporting words do not determine the first pronoun's case.
+**Explanation:** 'Who' supplies the subject of 'would help'; 'whom' is the person the team recommended. The intervening reporting words do not determine the first pronoun's case.
 
 **Choice feedback:**
 
-- **whom / who:** The first pronoun is the subject of would help despite intervening we believed; the second is the object of had recommended.
-- **who / whom:** Who supplies the subject of would help; whom is the person the team recommended. The intervening reporting words do not determine the first pronoun's case.
-- **who / who:** The first who fits its subject role. Under the specified formal convention, the object of recommended is whom.
-- **whom / whom:** The second whom fits its object role, but the first pronoun is the subject of would help, not the object of believed.
+- **whom / who:** The first pronoun is the subject of 'would help' despite intervening 'we believed'; the second is the object of 'had recommended'.
+- **who / whom:** 'Who' supplies the subject of 'would help'; 'whom' is the person the team recommended. The intervening reporting words do not determine the first pronoun's case.
+- **who / who:** The first 'who' fits its subject role. Under the specified formal convention, the object of 'recommended' is 'whom'.
+- **whom / whom:** The second 'whom' fits its object role, but the first pronoun is the subject of 'would help', not the object of 'believed'.
 
 **Decision:** replaced.
 
@@ -2748,7 +2748,7 @@ ID: `coverage-pronouns-and-reference-c1-2726`
 
 Preserve the source's uncertainty about who was tired; do not guess a referent merely to make the summary shorter.
 
-Source: 'Ari spoke to Morgan because they were tired.' Both people use they/them. The writer confirms that they refers to one person but cannot identify which. Which summary preserves that uncertainty?
+Source: 'Ari spoke to Morgan because they were tired.' Both people use they/them. The writer confirms that 'they' refers to one person but cannot identify which. Which summary preserves that uncertainty?
 
 1. Ari was tired and therefore spoke to Morgan.
 2. Ari spoke to Morgan because one of them was tired; the source does not identify which person. **[Correct]**
@@ -2762,7 +2762,7 @@ Source: 'Ari spoke to Morgan because they were tired.' Both people use they/them
 - **Ari was tired and therefore spoke to Morgan.:** This chooses Ari as the tired person, which the source does not establish.
 - **Ari spoke to Morgan because one of them was tired; the source does not identify which person.:** The summary preserves the confirmed singular reference while leaving its unresolved personal identity open.
 - **Ari spoke to Morgan because Morgan was tired.:** This chooses Morgan as the tired person without source support.
-- **Ari and Morgan were both tired when they spoke.:** This chooses a plural reference, contrary to the writer's confirmation that they refers to one person.
+- **Ari and Morgan were both tired when they spoke.:** This chooses a plural reference, contrary to the writer's confirmation that 'they' refers to one person.
 
 **Decision:** replaced.
 
@@ -2812,21 +2812,21 @@ ID: `coverage-pronouns-and-reference-c1-2728`
 
 Choose the accurate response to the editor's objection in standard English.
 
-Draft: 'The proposal, whose cost remains uncertain, has been postponed.' An editor says whose cannot refer to an inanimate proposal.
+Draft: 'The proposal, whose cost remains uncertain, has been postponed.' An editor says 'whose' cannot refer to an inanimate proposal.
 
 1. Whose identifies the proposal's author as the person with uncertain costs.
 2. The sentence requires which cost because ownership words only apply to people.
 3. The relative clause explicitly states that cost uncertainty caused the postponement.
 4. Whose can express this relation with an inanimate noun; the proposal's cost is meant. **[Correct]**
 
-**Explanation:** Whose is not restricted to human owners. It can link a thing with an associated feature, as with a proposal and its cost.
+**Explanation:** 'Whose' is not restricted to human owners. It can link a thing with an associated feature, as with a proposal and its cost.
 
 **Choice feedback:**
 
-- **Whose identifies the proposal's author as the person with uncertain costs.:** The noun linked to cost is proposal; no author is identified by whose.
-- **The sentence requires which cost because ownership words only apply to people.:** Which cost would not supply this possessive relative construction, and the proposed human-only rule is false.
+- **Whose identifies the proposal's author as the person with uncertain costs.:** The noun linked to 'cost' is 'proposal'; no author is identified by 'whose'.
+- **The sentence requires which cost because ownership words only apply to people.:** 'Which cost' would not supply this possessive relative construction, and the proposed human-only rule is false.
 - **The relative clause explicitly states that cost uncertainty caused the postponement.:** The clause supplies information about cost, but it does not explicitly assert a causal connection with postponement.
-- **Whose can express this relation with an inanimate noun; the proposal's cost is meant.:** Whose is not restricted to human owners. It can link a thing with an associated feature, as with a proposal and its cost.
+- **Whose can express this relation with an inanimate noun; the proposal's cost is meant.:** 'Whose' is not restricted to human owners. It can link a thing with an associated feature, as with a proposal and its cost.
 
 **Decision:** replaced.
 
@@ -2906,7 +2906,7 @@ The archivist compared two photocopies with the signed original. Neither matched
 
 ID: `coverage-pronouns-and-reference-c1-2731`
 
-Choose the accurate account of it and the emphasized information.
+Choose the accurate account of 'it' and the emphasized information.
 
 It was only after the rehearsal that the director changed the ending.
 
@@ -2915,14 +2915,14 @@ It was only after the rehearsal that the director changed the ending.
 3. It identifies the director as the only person present at the rehearsal.
 4. It refers to the rehearsal and says that no ending existed before it.
 
-**Explanation:** This it-cleft highlights only after the rehearsal. It is a grammatical subject in the emphasis pattern, not a noun reference.
+**Explanation:** This it-cleft highlights 'only after the rehearsal'. 'It' is a grammatical subject in the emphasis pattern, not a noun reference.
 
 **Choice feedback:**
 
-- **It organizes emphasis on the timing; it does not name the rehearsal or the director.:** This it-cleft highlights only after the rehearsal. It is a grammatical subject in the emphasis pattern, not a noun reference.
-- **It refers to the ending, which changed the director's decision.:** The director changes the ending; it does not make the ending an actor.
-- **It identifies the director as the only person present at the rehearsal.:** Only restricts the timing phrase, not the number of people attending.
-- **It refers to the rehearsal and says that no ending existed before it.:** The sentence dates a change to the ending; it does not claim that the ending previously did not exist.
+- **It organizes emphasis on the timing; it does not name the rehearsal or the director.:** This it-cleft highlights 'only after the rehearsal'. 'It' is a grammatical subject in the emphasis pattern, not a noun reference.
+- **It refers to the ending, which changed the director's decision.:** The director changes the ending; 'it' does not make the ending an actor.
+- **It identifies the director as the only person present at the rehearsal.:** 'Only' restricts the timing phrase, not the number of people attending.
+- **It refers to the rehearsal and says that no ending existed before it.:** The sentence dates a change to the ending; 'it' does not claim that the ending previously did not exist.
 
 **Decision:** replaced.
 
@@ -3002,7 +3002,7 @@ Draft: 'Our office has no printer. We should replace it with a more efficient mo
 
 ID: `coverage-pronouns-and-reference-c1-2734`
 
-Choose what role as such resumes in this sentence.
+Choose what role 'as such' resumes in this sentence.
 
 Jules attends the board meetings as an observer, not as a voting member; as such, Jules may comment but may not vote.
 
@@ -3011,13 +3011,13 @@ Jules attends the board meetings as an observer, not as a voting member; as such
 3. Jules's role as an observer. **[Correct]**
 4. The fact that Jules has already voted at several meetings.
 
-**Explanation:** As such resumes the affirmed observer role. The denied voting-member role does not become its reference just because it is nearer.
+**Explanation:** 'As such' resumes the affirmed observer role. The denied voting-member role does not become its reference just because it is nearer.
 
 **Choice feedback:**
 
-- **Jules's role as a voting member.:** Not as a voting member explicitly denies that role; the nearest role phrase is not automatically the reference.
-- **The board's right to vote on Jules's comments.:** As such links Jules's status to Jules's permissions, not the board's response to comments.
-- **Jules's role as an observer.:** As such resumes the affirmed observer role. The denied voting-member role does not become its reference just because it is nearer.
+- **Jules's role as a voting member.:** 'Not as a voting member' explicitly denies that role; the nearest role phrase is not automatically the reference.
+- **The board's right to vote on Jules's comments.:** 'As such' links Jules's status to Jules's permissions, not the board's response to comments.
+- **Jules's role as an observer.:** 'As such' resumes the affirmed observer role. The denied voting-member role does not become its reference just because it is nearer.
 - **The fact that Jules has already voted at several meetings.:** Attendance is stated, but voting is expressly prohibited and no earlier votes are reported.
 
 **Decision:** replaced.
@@ -3034,7 +3034,7 @@ Jules attends the board meetings as an observer, not as a voting member; as such
 
 ID: `coverage-pronouns-and-reference-c1-2735`
 
-Choose the accurate assessment of it in this project note.
+Choose the accurate assessment of 'it' in this project note.
 
 We are designing a portable scanner. It must fit inside a coat pocket, although no prototype exists yet.
 
@@ -3098,7 +3098,7 @@ Note: 'The editor compared Mara's draft with Ivo's response. She thought the for
 
 ID: `coverage-pronouns-and-reference-c1-2737`
 
-Choose what the phrase This limitation refers to and adds to the discussion.
+Choose what the phrase 'This limitation' refers to and adds to the discussion.
 
 The survey excluded people who worked night shifts. This limitation makes its findings less useful for planning overnight services.
 
@@ -3107,14 +3107,14 @@ The survey excluded people who worked night shifts. This limitation makes its fi
 3. It identifies a coverage gap but says the findings apply only to night workers.
 4. It identifies the exclusion as a limitation relevant to the findings' use. **[Correct]**
 
-**Explanation:** This points back to the exclusion, while limitation categorizes that event as a constraint on applying the findings.
+**Explanation:** 'This' points back to the exclusion, while 'limitation' categorizes that event as a constraint on applying the findings.
 
 **Choice feedback:**
 
-- **It identifies the night workers' decision to withdraw as the source of the limitation.:** Excluded reports their omission from the survey, not a decision by the workers to withdraw.
+- **It identifies the night workers' decision to withdraw as the source of the limitation.:** 'Excluded' reports their omission from the survey, not a decision by the workers to withdraw.
 - **It identifies a restriction imposed by the overnight services on the researchers.:** The limitation belongs to the survey's coverage; the services are the intended use of its findings.
 - **It identifies a coverage gap but says the findings apply only to night workers.:** The gap makes application to night workers less useful, not exclusive or especially well supported.
-- **It identifies the exclusion as a limitation relevant to the findings' use.:** This points back to the exclusion, while limitation categorizes that event as a constraint on applying the findings.
+- **It identifies the exclusion as a limitation relevant to the findings' use.:** 'This' points back to the exclusion, while 'limitation' categorizes that event as a constraint on applying the findings.
 
 **Decision:** replaced.
 
@@ -3262,7 +3262,7 @@ Original: 'The committee members disagreed among themselves in front of the repo
 
 ID: `coverage-pronouns-and-reference-c2-2742`
 
-Use the formal convention that selects whoever for a subject within its clause and whomever for an object within its clause.
+Use the formal convention that selects 'whoever' for a subject within its clause and 'whomever' for an object within its clause.
 
 The task will go to ___ the panel believes can finish it; the panel will consult ___ the chair recommends.
 
@@ -3271,14 +3271,14 @@ The task will go to ___ the panel believes can finish it; the panel will consult
 3. whoever / whomever **[Correct]**
 4. whomever / whomever
 
-**Explanation:** The whole first clause follows to, but whoever is the subject inside that clause. Whomever is the person the chair recommends in the second clause.
+**Explanation:** The whole first clause follows 'to', but 'whoever' is the subject inside that clause. 'Whomever' is the person the chair recommends in the second clause.
 
 **Choice feedback:**
 
-- **whomever / whoever:** In the first clause, the pronoun is the subject of can finish despite the preceding to. In the second it is the object of recommends.
+- **whomever / whoever:** In the first clause, the pronoun is the subject of 'can finish' despite the preceding 'to'. In the second it is the object of 'recommends'.
 - **whoever / whoever:** The first form matches its subject role; the second requires the object form under the stated formal convention.
-- **whoever / whomever:** The whole first clause follows to, but whoever is the subject inside that clause. Whomever is the person the chair recommends in the second clause.
-- **whomever / whomever:** The second form fits. The first incorrectly chooses case from the outer preposition rather than the pronoun's role as subject of can finish.
+- **whoever / whomever:** The whole first clause follows 'to', but 'whoever' is the subject inside that clause. 'Whomever' is the person the chair recommends in the second clause.
+- **whomever / whomever:** The second form fits. The first incorrectly chooses case from the outer preposition rather than the pronoun's role as subject of 'can finish'.
 
 **Decision:** replaced.
 
@@ -3358,7 +3358,7 @@ The expert on whose estimate the panel relied later withdrew that estimate.
 
 ID: `coverage-pronouns-and-reference-c2-2745`
 
-In the first clause, her means Rosa's. Choose the accurate assessment of the editor's expansion of the omitted verb phrase.
+In the first clause, 'her' means "Rosa's". Choose the accurate assessment of the editor's expansion of the omitted verb phrase.
 
 Original: 'Rosa revised her abstract, and Nina did too.' Edit: 'Rosa revised her abstract, and Nina revised Rosa's abstract too.'
 
@@ -3367,14 +3367,14 @@ Original: 'Rosa revised her abstract, and Nina did too.' Edit: 'Rosa revised her
 3. The edit adds that Rosa revised Nina's abstract before revising her own.
 4. The edit selects a shared-abstract reading; the original also allows Nina to revise her own abstract. **[Correct]**
 
-**Explanation:** Did too can mean revised Rosa's abstract or revised her own abstract with Nina as the new subject. Naming Rosa removes the second reading.
+**Explanation:** 'Did too' can mean "revised Rosa's abstract" or 'revised her own abstract' with Nina as the new subject. Naming Rosa removes the second reading.
 
 **Choice feedback:**
 
 - **The edit is required because omitted words must keep every possessive reference unchanged.:** Ellipsis can preserve Rosa's abstract or adapt the possessive relation so that Nina revises Nina's own abstract.
 - **The edit contradicts the original, which requires Nina to revise a different abstract.:** The original permits the shared-abstract reading; it does not require a different abstract for Nina.
 - **The edit adds that Rosa revised Nina's abstract before revising her own.:** The first clause still refers only to Rosa revising Rosa's abstract; the edit clarifies the object of Nina's action.
-- **The edit selects a shared-abstract reading; the original also allows Nina to revise her own abstract.:** Did too can mean revised Rosa's abstract or revised her own abstract with Nina as the new subject. Naming Rosa removes the second reading.
+- **The edit selects a shared-abstract reading; the original also allows Nina to revise her own abstract.:** 'Did too' can mean "revised Rosa's abstract" or 'revised her own abstract' with Nina as the new subject. Naming Rosa removes the second reading.
 
 **Decision:** replaced.
 
@@ -3488,19 +3488,19 @@ ID: `coverage-pronouns-and-reference-c2-2749`
 
 Choose the edit that preserves the witness as the source of both the discovery claim and the description; the narrator has verified neither.
 
-Draft: 'The witness said that police had found a weapon. It was rusty.' The intended source of rusty is also the witness.
+Draft: 'The witness said that police had found a weapon. It was rusty.' The intended source of 'rusty' is also the witness.
 
 1. Police found a weapon, which the witness said was rusty.
 2. The witness said that police had found a weapon and that it was rusty. **[Correct]**
 3. The witness said police had found a weapon, and the narrator confirmed that it was rusty.
 4. The weapon was rusty, although the witness denied that police had found it.
 
-**Explanation:** The repeated that explicitly places both linked claims inside the witness's report; it continues the same weapon reference without claiming narrator verification.
+**Explanation:** The repeated 'that' explicitly places both linked claims inside the witness's report; 'it' continues the same weapon reference without claiming narrator verification.
 
 **Choice feedback:**
 
 - **Police found a weapon, which the witness said was rusty.:** This places the discovery outside the witness's reported claim and presents it as the narrator's assertion.
-- **The witness said that police had found a weapon and that it was rusty.:** The repeated that explicitly places both linked claims inside the witness's report; it continues the same weapon reference without claiming narrator verification.
+- **The witness said that police had found a weapon and that it was rusty.:** The repeated 'that' explicitly places both linked claims inside the witness's report; 'it' continues the same weapon reference without claiming narrator verification.
 - **The witness said police had found a weapon, and the narrator confirmed that it was rusty.:** The narrator has confirmed neither claim; this adds independent verification of the condition.
 - **The weapon was rusty, although the witness denied that police had found it.:** This asserts the condition directly and turns the witness's discovery claim into a denial.
 
@@ -3646,7 +3646,7 @@ Original: 'The views expressed are the employees' own, not statements on behalf 
 
 ID: `coverage-pronouns-and-reference-c2-2754`
 
-The second sentence deliberately invites the report's readers to inspect the results. Choose the accurate assessment of the two uses of we.
+The second sentence deliberately invites the report's readers to inspect the results. Choose the accurate assessment of the two uses of 'we'.
 
 'We interviewed the applicants in March. As we can see from the table, their preferences varied.' The readers did not conduct the interviews.
 
@@ -3660,9 +3660,9 @@ The second sentence deliberately invites the report's readers to inspect the res
 **Choice feedback:**
 
 - **The second we retroactively makes every reader one of the interviewers.:** A later inclusive use does not change who performed the earlier research action.
-- **Both uses must refer only to the applicants because they are the nearest plural noun.:** Applicants are the object of interviewed and the source of preferences, not the people represented by the first we.
+- **Both uses must refer only to the applicants because they are the nearest plural noun.:** Applicants are the object of 'interviewed' and the source of preferences, not the people represented by the first 'we'.
 - **The first we refers to the researchers; the second can include researchers and readers without attributing the interviews to readers.:** First-person plural reference can shift with the discourse action: conducting interviews involves the team, while inspecting displayed results can include the audience.
-- **The shift means that the writer denies having participated in the interviews.:** Broadening we for shared observation does not retract the first sentence's researcher-inclusive claim.
+- **The shift means that the writer denies having participated in the interviews.:** Broadening 'we' for shared observation does not retract the first sentence's researcher-inclusive claim.
 
 **Decision:** replaced.
 
@@ -3774,7 +3774,7 @@ Original: 'The record establishes that approval was granted, but leaves open who
 
 ID: `coverage-pronouns-and-reference-c2-2758`
 
-Choose the expansion of one that preserves the requested text and the explicitly excluded text.
+Choose the expansion of 'one' that preserves the requested text and the explicitly excluded text.
 
 The editor requested an English translation of the appendix to the report, not of the report itself. The agency supplied one.
 
@@ -3783,13 +3783,13 @@ The editor requested an English translation of the appendix to the report, not o
 3. The agency supplied an English translation of the report's appendix. **[Correct]**
 4. The agency supplied an English translation of the report except for its appendix.
 
-**Explanation:** One recovers the requested translation, including the appendix relationship and the contrast excluding the whole report. It does not attach appendix to an already translated report.
+**Explanation:** 'One' recovers the requested translation, including the appendix relationship and the contrast excluding the whole report. It does not attach 'appendix' to an already translated report.
 
 **Choice feedback:**
 
 - **The agency supplied an appendix to its English translation of the report.:** This makes the appendix an addition to a translated report, instead of making the appendix itself the translated text.
 - **The agency supplied an English report with an untranslated appendix.:** This translates the excluded whole report while leaving the requested appendix untranslated.
-- **The agency supplied an English translation of the report's appendix.:** One recovers the requested translation, including the appendix relationship and the contrast excluding the whole report. It does not attach appendix to an already translated report.
+- **The agency supplied an English translation of the report's appendix.:** 'One' recovers the requested translation, including the appendix relationship and the contrast excluding the whole report. It does not attach 'appendix' to an already translated report.
 - **The agency supplied an English translation of the report except for its appendix.:** This reverses the explicit contrast: the appendix, not the report itself, was requested for translation.
 
 **Decision:** replaced.
@@ -3808,19 +3808,19 @@ ID: `coverage-pronouns-and-reference-c2-2759`
 
 Choose the editorial assessment that preserves what the possessive does and does not identify.
 
-A catalogue says, 'The curator moved her portrait into the smaller gallery.' No other context says who painted the portrait, whom it depicts or who owns it. An editor changes her portrait to the portrait she painted.
+A catalogue says, 'The curator moved her portrait into the smaller gallery.' No other context says who painted the portrait, whom it depicts or who owns it. An editor changes 'her portrait' to 'the portrait she painted'.
 
 1. The edit is required because a possessive before an artwork always identifies its artist.
 2. The edit selects authorship from several possible relationships expressed by her portrait. **[Correct]**
 3. The edit is wrong because her portrait can only mean a portrait depicting her.
 4. The edit removes an explicit statement that the curator owns the painting.
 
-**Explanation:** Her portrait can be a portrait she painted, owns or appears in. The possessive alone does not settle that relationship, so the edit adds a specific interpretation.
+**Explanation:** 'Her portrait' can be a portrait she painted, owns or appears in. The possessive alone does not settle that relationship, so the edit adds a specific interpretation.
 
 **Choice feedback:**
 
-- **The edit is required because a possessive before an artwork always identifies its artist.:** Possessive relationships are broader than authorship; her portrait can also identify its subject or owner.
-- **The edit selects authorship from several possible relationships expressed by her portrait.:** Her portrait can be a portrait she painted, owns or appears in. The possessive alone does not settle that relationship, so the edit adds a specific interpretation.
+- **The edit is required because a possessive before an artwork always identifies its artist.:** Possessive relationships are broader than authorship; 'her portrait' can also identify its subject or owner.
+- **The edit selects authorship from several possible relationships expressed by her portrait.:** 'Her portrait' can be a portrait she painted, owns or appears in. The possessive alone does not settle that relationship, so the edit adds a specific interpretation.
 - **The edit is wrong because her portrait can only mean a portrait depicting her.:** Depiction is a natural reading, but context can support ownership or authorship too; it is not the only possible relationship.
 - **The edit removes an explicit statement that the curator owns the painting.:** Ownership is a possible original reading, not an explicit unique relationship. The edit selects authorship but does not deny ownership.
 

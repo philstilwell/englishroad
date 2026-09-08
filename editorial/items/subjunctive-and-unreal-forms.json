@@ -253,7 +253,7 @@
     {
       "id": "coverage-subjunctive-and-unreal-forms-a1-3609",
       "level": "A1",
-      "setupText": "What does I'd mean in this sentence?",
+      "setupText": "What does \"I'd\" mean in this sentence?",
       "taskText": "I'd like two tickets for the concert.",
       "options": [
         "I did",
@@ -262,12 +262,12 @@
         "I do"
       ],
       "answer": "I would",
-      "explanation": "I'd expands to I would before like in this request.",
+      "explanation": "\"I'd\" expands to 'I would' before 'like' in this request.",
       "rationales": {
-        "I did": "I did like would emphasize a past liking, not expand this polite request.",
-        "I would": "I'd expands to I would before like in this request.",
-        "I had": "I had like is not the construction used here; had would need a different complement.",
-        "I do": "I do like expresses emphasis about liking, not the contraction I'd."
+        "I did": "'I did like' would emphasize a past liking, not expand this polite request.",
+        "I would": "\"I'd\" expands to 'I would' before 'like' in this request.",
+        "I had": "'I had like' is not the construction used here; 'had' would need a different complement.",
+        "I do": "'I do like' expresses emphasis about liking, not the contraction \"I'd\"."
       },
       "audit": {
         "status": "reviewed",
@@ -935,7 +935,7 @@
     {
       "id": "coverage-subjunctive-and-unreal-forms-a2-3631",
       "level": "A2",
-      "setupText": "Complete the imagined result using the correct form after would.",
+      "setupText": "Complete the imagined result using the correct form after 'would'.",
       "taskText": "If I had enough savings, I would ___ a better camera.",
       "options": [
         "bought",
@@ -944,12 +944,12 @@
         "to buy"
       ],
       "answer": "buy",
-      "explanation": "Would buy gives the imagined purchase with the correct base form.",
+      "explanation": "'Would buy' gives the imagined purchase with the correct base form.",
       "rationales": {
-        "bought": "Would takes buy, not the past form bought.",
-        "buying": "Buying cannot follow would directly in this phrase.",
-        "to buy": "Would is followed by the base verb without to.",
-        "buy": "Would buy gives the imagined purchase with the correct base form."
+        "bought": "'Would' takes 'buy', not the past form 'bought'.",
+        "buying": "'Buying' cannot follow 'would' directly in this phrase.",
+        "to buy": "'Would' is followed by the base verb without 'to'.",
+        "buy": "'Would buy' gives the imagined purchase with the correct base form."
       },
       "audit": {
         "status": "reviewed",
@@ -1029,7 +1029,7 @@
       "id": "coverage-subjunctive-and-unreal-forms-a2-3634",
       "level": "A2",
       "setupText": "It is cold now. Read the imagined alternative.",
-      "taskText": "If it were warmer, we could eat on the terrace. What time does warmer concern here?",
+      "taskText": "If it were warmer, we could eat on the terrace. What time does 'warmer' concern here?",
       "options": [
         "The present situation, imagined differently.",
         "Only last winter.",
@@ -1037,11 +1037,11 @@
         "A confirmed weather forecast for next week."
       ],
       "answer": "The present situation, imagined differently.",
-      "explanation": "The context is cold now, so were warmer imagines a different temperature in the present.",
+      "explanation": "The context is cold now, so 'were warmer' imagines a different temperature in the present.",
       "rationales": {
-        "Only last winter.": "Were is used for the imagined present temperature here, not to report last winter.",
+        "Only last winter.": "'Were' is used for the imagined present temperature here, not to report last winter.",
         "A day when the meal has already ended.": "No completed meal supplies the time reference; the speakers are considering eating now.",
-        "The present situation, imagined differently.": "The context is cold now, so were warmer imagines a different temperature in the present.",
+        "The present situation, imagined differently.": "The context is cold now, so 'were warmer' imagines a different temperature in the present.",
         "A confirmed weather forecast for next week.": "The sentence supplies neither a forecast nor a next-week time reference."
       },
       "audit": {
@@ -1059,7 +1059,7 @@
     {
       "id": "coverage-subjunctive-and-unreal-forms-a2-3635",
       "level": "A2",
-      "setupText": "Compare the time meaning of had in the two sentences.",
+      "setupText": "Compare the time meaning of 'had' in the two sentences.",
       "taskText": "A: 'I had a bicycle when I was eighteen.' B: 'I wish I had a bicycle now.'",
       "options": [
         "Both sentences state that the speaker owned a bicycle at eighteen.",
@@ -1068,12 +1068,12 @@
         "A is a wish about now, while B describes ownership at eighteen."
       ],
       "answer": "A reports past ownership; B expresses a wish about the present.",
-      "explanation": "When I was eighteen anchors a real past statement, while wish and now give had an unreal present use.",
+      "explanation": "'When I was eighteen' anchors a real past statement, while 'wish' and 'now' give 'had' an unreal present use.",
       "rationales": {
         "Both sentences state that the speaker owned a bicycle at eighteen.": "Only A reports ownership at eighteen; B gives a present wish.",
         "Both sentences state that the speaker owns a bicycle now.": "A is about the past, and B does not assert present possession.",
         "A is a wish about now, while B describes ownership at eighteen.": "This reverses the actual past time in A and unreal present meaning in B.",
-        "A reports past ownership; B expresses a wish about the present.": "When I was eighteen anchors a real past statement, while wish and now give had an unreal present use."
+        "A reports past ownership; B expresses a wish about the present.": "'When I was eighteen' anchors a real past statement, while 'wish' and 'now' give 'had' an unreal present use."
       },
       "audit": {
         "status": "reviewed",
@@ -1276,7 +1276,7 @@
     {
       "id": "coverage-subjunctive-and-unreal-forms-b1-3642",
       "level": "B1",
-      "setupText": "The workshop is crowded today. Use were in a wish for a different present situation.",
+      "setupText": "The workshop is crowded today. Use 'were' in a wish for a different present situation.",
       "taskText": "I wish the workshop ___ so crowded.",
       "options": [
         "weren't",
@@ -1285,12 +1285,12 @@
         "being not"
       ],
       "answer": "weren't",
-      "explanation": "Weren't combines the requested unreal were with the negative needed for a less crowded workshop.",
+      "explanation": "\"Weren't\" combines the requested unreal 'were' with the negative needed for a less crowded workshop.",
       "rationales": {
-        "isn't": "Isn't uses the present indicative rather than the requested unreal were form.",
-        "not be": "Not be has no finite verb for this wish clause.",
-        "weren't": "Weren't combines the requested unreal were with the negative needed for a less crowded workshop.",
-        "being not": "Being not is not a finite predicate in this clause."
+        "isn't": "\"Isn't\" uses the present indicative rather than the requested unreal 'were' form.",
+        "not be": "'Not be' has no finite verb for this wish clause.",
+        "weren't": "\"Weren't\" combines the requested unreal 'were' with the negative needed for a less crowded workshop.",
+        "being not": "'Being not' is not a finite predicate in this clause."
       },
       "audit": {
         "status": "reviewed",
@@ -1431,7 +1431,7 @@
     {
       "id": "coverage-subjunctive-and-unreal-forms-b1-3647",
       "level": "B1",
-      "setupText": "Complete the imagined result with would and a base verb.",
+      "setupText": "Complete the imagined result with 'would' and a base verb.",
       "taskText": "If the membership fee were lower, more residents ___.",
       "options": [
         "would joined",
@@ -1440,12 +1440,12 @@
         "would to join"
       ],
       "answer": "would join",
-      "explanation": "Would join states the imagined consequence with the correct modal-plus-base structure.",
+      "explanation": "'Would join' states the imagined consequence with the correct modal-plus-base structure.",
       "rationales": {
-        "would joined": "Would requires join rather than the past form joined.",
-        "would joining": "Joining cannot follow would directly in this result clause.",
-        "would to join": "Would does not take to before the main verb.",
-        "would join": "Would join states the imagined consequence with the correct modal-plus-base structure."
+        "would joined": "'Would' requires 'join' rather than the past form 'joined'.",
+        "would joining": "'Joining' cannot follow 'would' directly in this result clause.",
+        "would to join": "'Would' does not take 'to' before the main verb.",
+        "would join": "'Would join' states the imagined consequence with the correct modal-plus-base structure."
       },
       "audit": {
         "status": "reviewed",
@@ -1586,7 +1586,7 @@
     {
       "id": "coverage-subjunctive-and-unreal-forms-b1-3652",
       "level": "B1",
-      "setupText": "Use the conventional past-form clause after would rather to express a preference about your friend's action now.",
+      "setupText": "Use the conventional past-form clause after 'would rather' to express a preference about your friend's action now.",
       "taskText": "I'd rather you ___ your shoes by the door.",
       "options": [
         "leave",
@@ -1595,12 +1595,12 @@
         "left"
       ],
       "answer": "left",
-      "explanation": "Left is the conventional past form for another person's desired present action after would rather.",
+      "explanation": "'Left' is the conventional past form for another person's desired present action after 'would rather'.",
       "rationales": {
-        "left": "Left is the conventional past form for another person's desired present action after would rather.",
-        "leave": "Leave does not meet the requested past-form construction; this exercise is not using a base-form variant.",
-        "had left": "Had left would concern an earlier completed action, not the current request.",
-        "leaving": "Leaving lacks a finite verb after the subject you."
+        "left": "'Left' is the conventional past form for another person's desired present action after 'would rather'.",
+        "leave": "'Leave' does not meet the requested past-form construction; this exercise is not using a base-form variant.",
+        "had left": "'Had left' would concern an earlier completed action, not the current request.",
+        "leaving": "'Leaving' lacks a finite verb after the subject 'you'."
       },
       "audit": {
         "status": "reviewed",
@@ -1803,7 +1803,7 @@
     {
       "id": "coverage-subjunctive-and-unreal-forms-b1-3659",
       "level": "B1",
-      "setupText": "Complete the preference using the object-plus-to pattern after would prefer.",
+      "setupText": "Complete the preference using the object-plus-to pattern after 'would prefer'.",
       "taskText": "I'd prefer you ___ until the paint is dry.",
       "options": [
         "waited",
@@ -1812,12 +1812,12 @@
         "wait"
       ],
       "answer": "to wait",
-      "explanation": "To wait gives the action preferred from the listener in the requested construction.",
+      "explanation": "'To wait' gives the action preferred from the listener in the requested construction.",
       "rationales": {
-        "waited": "Waited belongs in a different finite pattern, such as I'd prefer it if you waited, not the requested object-plus-to construction.",
-        "waiting": "Waiting does not provide the requested to-infinitive after you.",
-        "wait": "Wait lacks to in the specified would-prefer-you-to pattern.",
-        "to wait": "To wait gives the action preferred from the listener in the requested construction."
+        "waited": "'Waited' belongs in a different finite pattern, such as \"I'd prefer it if you waited\", not the requested object-plus-to construction.",
+        "waiting": "'Waiting' does not provide the requested to-infinitive after 'you'.",
+        "wait": "'Wait' lacks 'to' in the specified would-prefer-you-to pattern.",
+        "to wait": "'To wait' gives the action preferred from the listener in the requested construction."
       },
       "audit": {
         "status": "reviewed",
@@ -2793,7 +2793,7 @@
     {
       "id": "coverage-subjunctive-and-unreal-forms-c1-3690",
       "level": "C1",
-      "setupText": "How is should functioning in the archivist's response?",
+      "setupText": "How is 'should' functioning in the archivist's response?",
       "taskText": "The missing negatives have turned up in a biscuit tin. 'How extraordinary that they should have survived there!' the archivist says.",
       "options": [
         "It imposes a past duty on someone to preserve the negatives.",
@@ -3049,7 +3049,7 @@
     {
       "id": "coverage-subjunctive-and-unreal-forms-c1-3698",
       "level": "C1",
-      "setupText": "Assess the attendant's use of would in the if-clause.",
+      "setupText": "Assess the attendant's use of 'would' in the if-clause.",
       "taskText": "At a cloakroom: 'If you would leave your bag on the counter, I'll attach a numbered tag.'",
       "options": [
         "It makes a polite request for the visitor's cooperation.",
@@ -3060,7 +3060,7 @@
       "answer": "It makes a polite request for the visitor's cooperation.",
       "explanation": "The attendant uses the conditional to solicit cooperation politely before offering the next action.",
       "rationales": {
-        "It must be removed because would cannot occur after if.": "Would is legitimate in an if-clause when it concerns willingness or polite cooperation; a blanket ban is inaccurate.",
+        "It must be removed because would cannot occur after if.": "'Would' is legitimate in an if-clause when it concerns willingness or polite cooperation; a blanket ban is inaccurate.",
         "It reports that the visitor repeatedly left bags there in the past.": "The immediate service exchange concerns a proposed action, not a past habit.",
         "It makes a polite request for the visitor's cooperation.": "The attendant uses the conditional to solicit cooperation politely before offering the next action.",
         "It establishes that leaving the bag is contrary to fact.": "This is a live request the visitor can fulfill, not a statement that the proposed action is unreal or impossible."
@@ -3403,7 +3403,7 @@
     {
       "id": "coverage-subjunctive-and-unreal-forms-c2-3709",
       "level": "C2",
-      "setupText": "What qualification does as it were introduce?",
+      "setupText": "What qualification does 'as it were' introduce?",
       "taskText": "'The disused canal became, as it were, the city's spine: the new pedestrian routes branched out from it. The canal itself remained exactly where it had been.'",
       "options": [
         "The narrator qualifies the metaphor, not the stated layout of the routes.",

@@ -1746,7 +1746,7 @@ Choose the standard written completion: James ___ the post every morning.
 
 ID: `coverage-subject-verb-agreement-b1-3535`
 
-The Three Bridges is the title of a single novel in the book club's programme.
+'The Three Bridges' is the title of a single novel in the book club's programme.
 
 Choose the standard written completion referring to the novel: The Three Bridges ___ our next choice.
 
@@ -1759,10 +1759,10 @@ Choose the standard written completion referring to the novel: The Three Bridges
 
 **Choice feedback:**
 
-- **are:** The title names one novel; the plural word Bridges inside it does not make the book plural.
+- **are:** The title names one novel; the plural word 'Bridges' inside it does not make the book plural.
 - **is:** A title referring to one work takes singular agreement here, whatever plural words the title contains.
-- **am:** Am cannot agree with a book title.
-- **be:** The sentence needs the finite present form is, not the base form be.
+- **am:** 'Am' cannot agree with a book title.
+- **be:** The sentence needs the finite present form 'is', not the base form 'be'.
 
 **Decision:** replaced.
 
@@ -2038,7 +2038,7 @@ Which editorial response is best?
 
 ID: `coverage-subject-verb-agreement-b2-3544`
 
-A software help page says, 'Your data is stored locally.' No publisher rule requires plural treatment of data.
+A software help page says, 'Your data is stored locally.' No publisher rule requires plural treatment of 'data'.
 
 Which comment on the agreement is justified?
 
@@ -2047,14 +2047,14 @@ Which comment on the agreement is justified?
 3. Are would necessarily change the subject from information to several databases.
 4. The sentence needs datum because any singular verb requires the singular Latin form.
 
-**Explanation:** Data has both plural and mass-singular uses; absent a contrary house rule, this software sentence need not be corrected.
+**Explanation:** 'Data' has both plural and mass-singular uses; absent a contrary house rule, this software sentence need not be corrected.
 
 **Choice feedback:**
 
-- **Is proves that the page refers to exactly one recorded fact.:** Mass singular data can contain many facts; singular agreement does not mean one datum.
-- **Data can take singular agreement when treated as uncountable information.:** Data has both plural and mass-singular uses; absent a contrary house rule, this software sentence need not be corrected.
-- **Are would necessarily change the subject from information to several databases.:** Plural data can still denote the same information or observations, not databases.
-- **The sentence needs datum because any singular verb requires the singular Latin form.:** Modern English permits data as an uncountable noun with a singular verb; datum is not required here.
+- **Is proves that the page refers to exactly one recorded fact.:** Mass singular 'data' can contain many facts; singular agreement does not mean one datum.
+- **Data can take singular agreement when treated as uncountable information.:** 'Data' has both plural and mass-singular uses; absent a contrary house rule, this software sentence need not be corrected.
+- **Are would necessarily change the subject from information to several databases.:** Plural 'data' can still denote the same information or observations, not databases.
+- **The sentence needs datum because any singular verb requires the singular Latin form.:** Modern English permits 'data' as an uncountable noun with a singular verb; 'datum' is not required here.
 
 **Decision:** replaced.
 
@@ -2136,20 +2136,20 @@ ID: `coverage-subject-verb-agreement-b2-3547`
 
 An editor writes, 'More than one visitor has asked about the missing display.'
 
-Which explanation of has is correct in standard formal English?
+Which explanation of 'has' is correct in standard formal English?
 
 1. Has shows that exactly one person has asked about the display.
 2. More than one plus a singular noun conventionally takes a singular verb despite its plural meaning. **[Correct]**
 3. Has agrees with the singular missing display at the end of the sentence.
 4. Has is permitted only because visitor refers to an unidentified person.
 
-**Explanation:** This construction keeps singular grammatical agreement with one visitor although it describes multiple visitors.
+**Explanation:** This construction keeps singular grammatical agreement with 'one visitor' although it describes multiple visitors.
 
 **Choice feedback:**
 
-- **Has shows that exactly one person has asked about the display.:** More than one explicitly rules out an exact count of one; the agreement does not override that meaning.
-- **More than one plus a singular noun conventionally takes a singular verb despite its plural meaning.:** This construction keeps singular grammatical agreement with one visitor although it describes multiple visitors.
-- **Has agrees with the singular missing display at the end of the sentence.:** The display is inside the complement of about and does not control the main auxiliary.
+- **Has shows that exactly one person has asked about the display.:** 'More than one' explicitly rules out an exact count of one; the agreement does not override that meaning.
+- **More than one plus a singular noun conventionally takes a singular verb despite its plural meaning.:** This construction keeps singular grammatical agreement with 'one visitor' although it describes multiple visitors.
+- **Has agrees with the singular missing display at the end of the sentence.:** The display is inside the complement of 'about' and does not control the main auxiliary.
 - **Has is permitted only because visitor refers to an unidentified person.:** Whether visitors are identified does not determine this agreement pattern.
 
 **Decision:** replaced.
@@ -2198,7 +2198,7 @@ Which comment avoids an overstrict agreement rule?
 
 ID: `coverage-subject-verb-agreement-b2-3549`
 
-A journal consistently treats data as plural. A new sentence begins 'A complete set of these data ...'.
+A journal consistently treats 'data' as plural. A new sentence begins 'A complete set of these data ...'.
 
 Which explanation correctly identifies the number of the main subject?
 
@@ -2207,13 +2207,13 @@ Which explanation correctly identifies the number of the main subject?
 3. The main subject is singular because set is its head, even under the journal's plural-data rule. **[Correct]**
 4. The main subject is singular only if the set contains one datum.
 
-**Explanation:** A complete set is the head phrase; plural these data belongs inside its of complement and does not determine the main verb.
+**Explanation:** 'A complete set' is the head phrase; plural 'these data' belongs inside its of complement and does not determine the main verb.
 
 **Choice feedback:**
 
-- **The main subject must be plural because the journal requires plural agreement for data.:** That policy governs data when it controls agreement, not every larger phrase containing the word.
-- **The demonstrative these makes the entire set phrase plural.:** These modifies data inside the complement; it does not change a complete set into several sets.
-- **The main subject is singular because set is its head, even under the journal's plural-data rule.:** A complete set is the head phrase; plural these data belongs inside its of complement and does not determine the main verb.
+- **The main subject must be plural because the journal requires plural agreement for data.:** That policy governs 'data' when it controls agreement, not every larger phrase containing the word.
+- **The demonstrative these makes the entire set phrase plural.:** 'These' modifies 'data' inside the complement; it does not change 'a complete set' into several sets.
+- **The main subject is singular because set is its head, even under the journal's plural-data rule.:** 'A complete set' is the head phrase; plural 'these data' belongs inside its of complement and does not determine the main verb.
 - **The main subject is singular only if the set contains one datum.:** One set may contain many data points and still be grammatically singular.
 
 **Decision:** replaced.
@@ -2262,7 +2262,7 @@ Choose the standard written pair: Sixty percent of the funding ___ allocated, an
 
 ID: `coverage-subject-verb-agreement-b2-3551`
 
-An article uses the phrase the unemployed to refer to people without jobs.
+An article uses the phrase 'the unemployed' to refer to people without jobs.
 
 Which explanation supports 'The unemployed are eligible for the scheme'?
 
@@ -2271,13 +2271,13 @@ Which explanation supports 'The unemployed are eligible for the scheme'?
 3. The adjective phrase names a group of people and takes plural agreement. **[Correct]**
 4. Are makes the phrase refer to several unemployment programmes.
 
-**Explanation:** The unemployed is a conventional adjective-based expression for people as a class, so the verb is plural.
+**Explanation:** 'The unemployed' is a conventional adjective-based expression for people as a class, so the verb is plural.
 
 **Choice feedback:**
 
-- **Are is required because eligible is a plural adjective.:** English adjectives such as eligible do not take plural endings or control the subject's number.
-- **The article the makes every following subject plural.:** The occurs with singular and plural subjects; it does not determine number by itself.
-- **The adjective phrase names a group of people and takes plural agreement.:** The unemployed is a conventional adjective-based expression for people as a class, so the verb is plural.
+- **Are is required because eligible is a plural adjective.:** English adjectives such as 'eligible' do not take plural endings or control the subject's number.
+- **The article the makes every following subject plural.:** 'The' occurs with singular and plural subjects; it does not determine number by itself.
+- **The adjective phrase names a group of people and takes plural agreement.:** 'The unemployed' is a conventional adjective-based expression for people as a class, so the verb is plural.
 - **Are makes the phrase refer to several unemployment programmes.:** The subject denotes people, not the schemes for which they may qualify.
 
 **Decision:** replaced.
@@ -2488,21 +2488,21 @@ ID: `coverage-subject-verb-agreement-b2-3558`
 
 Several engineers have worked offshore. Mara belongs to that group.
 
-Choose the formal present-perfect completion making who refer to those engineers: Mara is one of the engineers who ___ worked offshore.
+Choose the formal present-perfect completion making 'who' refer to those engineers: Mara is one of the engineers who ___ worked offshore.
 
 1. has
 2. is
 3. are
 4. have **[Correct]**
 
-**Explanation:** Who represents the plural engineers in the stipulated reading, so the relative clause uses have worked.
+**Explanation:** 'Who' represents the plural 'engineers' in the stipulated reading, so the relative clause uses 'have worked'.
 
 **Choice feedback:**
 
-- **has:** Has would attach the experience specifically to a singular referent; the task makes engineers the antecedent of who.
-- **is:** Is does not form the intended active perfect with worked offshore.
-- **are:** Are is plural but does not form this active present-perfect experience statement.
-- **have:** Who represents the plural engineers in the stipulated reading, so the relative clause uses have worked.
+- **has:** 'Has' would attach the experience specifically to a singular referent; the task makes 'engineers' the antecedent of 'who'.
+- **is:** 'Is' does not form the intended active perfect with 'worked offshore'.
+- **are:** 'Are' is plural but does not form this active present-perfect experience statement.
+- **have:** 'Who' represents the plural 'engineers' in the stipulated reading, so the relative clause uses 'have worked'.
 
 **Decision:** replaced.
 
@@ -2620,21 +2620,21 @@ ID: `coverage-subject-verb-agreement-c1-3562`
 
 A report distinguishes 'This series of tests has finished' from 'These two series of tests have finished.'
 
-What determines agreement despite the unchanged spelling of series?
+What determines agreement despite the unchanged spelling of 'series'?
 
 1. The number of tests, since tests is the nearest plural noun
 2. Whether the perfect construction describes a finished event or an ongoing one
 3. The determiners identify the number of series, not the number of tests **[Correct]**
 4. Whether series is a subject in the first phrase but an object of tests in the second
 
-**Explanation:** Series has the same written singular and plural form; this identifies one series, while these two identifies more than one.
+**Explanation:** 'Series' has the same written singular and plural form; 'this' identifies one series, while 'these two' identifies more than one.
 
 **Choice feedback:**
 
-- **The number of tests, since tests is the nearest plural noun:** Tests is inside the of-phrase in both examples. Its unchanged plural number does not explain the contrast between has and have.
-- **Whether the perfect construction describes a finished event or an ongoing one:** Both versions use the present perfect of finish. The auxiliary contrast expresses the subject's number, not a change from completed to ongoing action.
-- **The determiners identify the number of series, not the number of tests:** Series has the same written singular and plural form; this identifies one series, while these two identifies more than one.
-- **Whether series is a subject in the first phrase but an object of tests in the second:** Series heads the main subject in both sentences. The determiners change its number without reversing the relation between series and tests.
+- **The number of tests, since tests is the nearest plural noun:** 'Tests' is inside the of-phrase in both examples. Its unchanged plural number does not explain the contrast between 'has' and 'have'.
+- **Whether the perfect construction describes a finished event or an ongoing one:** Both versions use the present perfect of 'finish'. The auxiliary contrast expresses the subject's number, not a change from completed to ongoing action.
+- **The determiners identify the number of series, not the number of tests:** 'Series' has the same written singular and plural form; 'this' identifies one series, while 'these two' identifies more than one.
+- **Whether series is a subject in the first phrase but an object of tests in the second:** 'Series' heads the main subject in both sentences. The determiners change its number without reversing the relation between 'series' and 'tests'.
 
 **Decision:** replaced.
 
@@ -2780,7 +2780,7 @@ ID: `coverage-subject-verb-agreement-c1-3567`
 
 An editor compares 'The main problem is the travel expenses' with 'The travel expenses are the main problem.'
 
-Why need the two versions not use the same form of be?
+Why need the two versions not use the same form of 'be'?
 
 1. Each version agrees with its own subject: singular problem or plural expenses. **[Correct]**
 2. The version with is describes one expense, while the version with are describes several.
@@ -2793,8 +2793,8 @@ Why need the two versions not use the same form of be?
 
 - **Each version agrees with its own subject: singular problem or plural expenses.:** Reversing the identifying sentence changes which noun phrase occupies the subject position and thus the ordinary agreement.
 - **The version with is describes one expense, while the version with are describes several.:** Both sentences refer to the travel expenses as plural; singular agreement in the first does not reduce the expenses to one.
-- **Be agrees with whichever noun phrase supplies the identifying information after it.:** The noun phrase after be is the complement. These examples show ordinary agreement with the preceding subject, not a rule based on which phrase supplies new information.
-- **The singular version requires an understood one of before the travel expenses.:** The first version can identify the expenses collectively as the problem. No omitted one of is needed to select one expense.
+- **Be agrees with whichever noun phrase supplies the identifying information after it.:** The noun phrase after 'be' is the complement. These examples show ordinary agreement with the preceding subject, not a rule based on which phrase supplies new information.
+- **The singular version requires an understood one of before the travel expenses.:** The first version can identify the expenses collectively as the problem. No omitted 'one of' is needed to select one expense.
 
 **Decision:** replaced.
 
@@ -2908,20 +2908,20 @@ ID: `coverage-subject-verb-agreement-c1-3571`
 
 One person holds both offices. The minutes say, 'Our secretary and treasurer has submitted her report.'
 
-Which account of has fits this stipulated role arrangement?
+Which account of 'has' fits this stipulated role arrangement?
 
 1. Has agrees with report because the document, not its author, is singular.
 2. And forces plural agreement even when both titles identify the same person.
 3. The coordinated titles identify a single office-holder, so singular agreement is appropriate. **[Correct]**
 4. Has implies that only the treasurer submitted a report and the secretary did not.
 
-**Explanation:** Secretary and treasurer names two roles of the same person in this context, not two independent subjects.
+**Explanation:** 'Secretary and treasurer' names two roles of the same person in this context, not two independent subjects.
 
 **Choice feedback:**
 
-- **Has agrees with report because the document, not its author, is singular.:** Report is the object; the subject's single-person reference explains has.
+- **Has agrees with report because the document, not its author, is singular.:** 'Report' is the object; the subject's single-person reference explains 'has'.
 - **And forces plural agreement even when both titles identify the same person.:** Titles can jointly name one individual; such co-reference supports singular agreement.
-- **The coordinated titles identify a single office-holder, so singular agreement is appropriate.:** Secretary and treasurer names two roles of the same person in this context, not two independent subjects.
+- **The coordinated titles identify a single office-holder, so singular agreement is appropriate.:** 'Secretary and treasurer' names two roles of the same person in this context, not two independent subjects.
 - **Has implies that only the treasurer submitted a report and the secretary did not.:** Both roles belong to the same person; singular agreement does not exclude one role-holder.
 
 **Decision:** replaced.
@@ -2940,21 +2940,21 @@ ID: `coverage-subject-verb-agreement-c1-3572`
 
 A news draft says, 'An estimated five hundred residents have received the notice.'
 
-Which explanation correctly accounts for plural have despite an?
+Which explanation correctly accounts for plural 'have' despite 'an'?
 
 1. The phrase names one estimated total, so has is required even though residents is plural.
 2. An should be removed because plural agreement rules out this estimated-number construction.
 3. Estimated is a past-tense verb here, so the following have should be changed to had.
 4. An belongs to the estimated-number expression; the residents remain a plural subject. **[Correct]**
 
-**Explanation:** An estimated plus a numeral is an established quantity expression; the people counted still form a plural subject.
+**Explanation:** 'An estimated' plus a numeral is an established quantity expression; the people counted still form a plural subject.
 
 **Choice feedback:**
 
-- **The phrase names one estimated total, so has is required even though residents is plural.:** The sentence says that the residents received notices, not that an abstract estimated total received one. The quantity expression supports plural have.
-- **An should be removed because plural agreement rules out this estimated-number construction.:** An estimated followed by a numeral is an established construction. The article can remain while the quantified residents take plural agreement.
-- **Estimated is a past-tense verb here, so the following have should be changed to had.:** Estimated modifies the number; it is not the sentence's finite past-tense verb. Have received supplies the finite present-perfect predicate.
-- **An belongs to the estimated-number expression; the residents remain a plural subject.:** An estimated plus a numeral is an established quantity expression; the people counted still form a plural subject.
+- **The phrase names one estimated total, so has is required even though residents is plural.:** The sentence says that the residents received notices, not that an abstract estimated total received one. The quantity expression supports plural 'have'.
+- **An should be removed because plural agreement rules out this estimated-number construction.:** 'An estimated' followed by a numeral is an established construction. The article can remain while the quantified residents take plural agreement.
+- **Estimated is a past-tense verb here, so the following have should be changed to had.:** 'Estimated' modifies the number; it is not the sentence's finite past-tense verb. 'Have received' supplies the finite present-perfect predicate.
+- **An belongs to the estimated-number expression; the residents remain a plural subject.:** 'An estimated' plus a numeral is an established quantity expression; the people counted still form a plural subject.
 
 **Decision:** replaced.
 
@@ -2972,21 +2972,21 @@ ID: `coverage-subject-verb-agreement-c1-3573`
 
 A researcher writes, 'The estimates have changed again, which is inconvenient for the planning team.'
 
-Why does is not have to become are to match estimates?
+Why does 'is' not have to become 'are' to match 'estimates'?
 
 1. Which takes singular agreement because its spelling does not contain a plural ending.
 2. Which singles out one particular estimate from the set as the inconvenient one.
 3. Is agrees with the singular planning team at the end of the sentence.
 4. Which refers to the whole change just reported, not to the estimates as plural objects. **[Correct]**
 
-**Explanation:** A sentential relative can refer back to a complete event or proposition; that singular reference supports which is inconvenient.
+**Explanation:** A sentential relative can refer back to a complete event or proposition; that singular reference supports 'which is inconvenient'.
 
 **Choice feedback:**
 
-- **Which takes singular agreement because its spelling does not contain a plural ending.:** The form which does not display number, but it can represent singular or plural antecedents. Its reference, not its spelling, matters.
+- **Which takes singular agreement because its spelling does not contain a plural ending.:** The form 'which' does not display number, but it can represent singular or plural antecedents. Its reference, not its spelling, matters.
 - **Which singles out one particular estimate from the set as the inconvenient one.:** The sentence comments on the estimates' changing again. It does not select one estimate as a singular antecedent.
-- **Is agrees with the singular planning team at the end of the sentence.:** Planning team is inside the for-phrase. It identifies who is inconvenienced, not the subject controlling is.
-- **Which refers to the whole change just reported, not to the estimates as plural objects.:** A sentential relative can refer back to a complete event or proposition; that singular reference supports which is inconvenient.
+- **Is agrees with the singular planning team at the end of the sentence.:** 'Planning team' is inside the for-phrase. It identifies who is inconvenienced, not the subject controlling 'is'.
+- **Which refers to the whole change just reported, not to the estimates as plural objects.:** A sentential relative can refer back to a complete event or proposition; that singular reference supports 'which is inconvenient'.
 
 **Decision:** replaced.
 
@@ -3098,7 +3098,7 @@ Which explanation accounts for the change in number?
 
 ID: `coverage-subject-verb-agreement-c1-3577`
 
-A proposal says, 'If this room were larger, we could hold the rehearsal here.' A proofreader flags were because room is singular.
+A proposal says, 'If this room were larger, we could hold the rehearsal here.' A proofreader flags 'were' because 'room' is singular.
 
 Which response correctly distinguishes mood from ordinary number agreement?
 
@@ -3107,13 +3107,13 @@ Which response correctly distinguishes mood from ordinary number agreement?
 3. Were needs to become was because an unreal condition still requires ordinary singular agreement.
 4. Were reports a past fact, so the proposal implies that the room used to be larger.
 
-**Explanation:** Irrealis were, a form used for hypothetical or unreal situations, is licensed with singular subjects in this conditional pattern.
+**Explanation:** Irrealis 'were', a form used for hypothetical or unreal situations, is licensed with singular subjects in this conditional pattern.
 
 **Choice feedback:**
 
-- **Were indicates that this room is being treated as several connected rooms.:** This room remains singular. Were marks the hypothetical construction rather than a plural reinterpretation of room.
-- **Were can mark an unreal condition with a singular subject, so this is not a plural-agreement error.:** Irrealis were, a form used for hypothetical or unreal situations, is licensed with singular subjects in this conditional pattern.
-- **Were needs to become was because an unreal condition still requires ordinary singular agreement.:** That rule would exclude the established irrealis form. Was also occurs in some usage, but singular room does not make were an error.
+- **Were indicates that this room is being treated as several connected rooms.:** 'This room' remains singular. 'Were' marks the hypothetical construction rather than a plural reinterpretation of 'room'.
+- **Were can mark an unreal condition with a singular subject, so this is not a plural-agreement error.:** Irrealis 'were', a form used for hypothetical or unreal situations, is licensed with singular subjects in this conditional pattern.
+- **Were needs to become was because an unreal condition still requires ordinary singular agreement.:** That rule would exclude the established irrealis form. 'Was' also occurs in some usage, but singular 'room' does not make 'were' an error.
 - **Were reports a past fact, so the proposal implies that the room used to be larger.:** The if-clause considers an unreal possibility. The form does not establish a past period when the room actually was larger.
 
 **Decision:** replaced.
@@ -3130,7 +3130,7 @@ Which response correctly distinguishes mood from ordinary number agreement?
 
 ID: `coverage-subject-verb-agreement-c1-3578`
 
-A careful report states, 'There appear to be several discrepancies in the ledger.' A reviewer proposes appears solely because the sentence begins with there.
+A careful report states, 'There appear to be several discrepancies in the ledger.' A reviewer proposes 'appears' solely because the sentence begins with 'there'.
 
 Which response best addresses that reasoning?
 
@@ -3139,14 +3139,14 @@ Which response best addresses that reasoning?
 3. Appear is an infinitive after there, so its form is not affected by number.
 4. Discrepancies is the object of appear, so it cannot help explain the verb's number.
 
-**Explanation:** In this existential raising construction, the later plural noun phrase supports plural agreement on appear; there does not refer to a single object.
+**Explanation:** In this existential raising construction, the later plural noun phrase supports plural agreement on 'appear'; 'there' does not refer to a single object.
 
 **Choice feedback:**
 
-- **Appear can agree with the later discrepancies; there does not denote one object.:** In this existential raising construction, the later plural noun phrase supports plural agreement on appear; there does not refer to a single object.
-- **Appear should be singular because to be prevents discrepancies from affecting the finite verb.:** The intervening infinitive does not block plural agreement in this construction. The later noun phrase can support appear.
-- **Appear is an infinitive after there, so its form is not affected by number.:** Appear is the finite verb here, and to be is the infinitive. Compare the singular 'There appears to be a discrepancy.'
-- **Discrepancies is the object of appear, so it cannot help explain the verb's number.:** Appear does not take discrepancies as a direct object. The existential construction links agreement to the postponed noun phrase.
+- **Appear can agree with the later discrepancies; there does not denote one object.:** In this existential raising construction, the later plural noun phrase supports plural agreement on 'appear'; 'there' does not refer to a single object.
+- **Appear should be singular because to be prevents discrepancies from affecting the finite verb.:** The intervening infinitive does not block plural agreement in this construction. The later noun phrase can support 'appear'.
+- **Appear is an infinitive after there, so its form is not affected by number.:** 'Appear' is the finite verb here, and 'to be' is the infinitive. Compare the singular 'There appears to be a discrepancy.'
+- **Discrepancies is the object of appear, so it cannot help explain the verb's number.:** 'Appear' does not take 'discrepancies' as a direct object. The existential construction links agreement to the postponed noun phrase.
 
 **Decision:** replaced.
 
@@ -3196,21 +3196,21 @@ ID: `coverage-subject-verb-agreement-c1-3580`
 
 A correction reads, 'It is the conservators who are responsible for moving the exhibits, not the guides.'
 
-Why can singular is and plural are both be correct?
+Why can singular 'is' and plural 'are' both be correct?
 
 1. The opening it-cleft stays singular, while who represents the plural conservators. **[Correct]**
 2. Is agrees with the singular job of moving exhibits, while are agrees with the guides.
 3. Is should become are because conservators follows it immediately.
 4. Are should become is because who repeats the opening it.
 
-**Explanation:** The two clauses have distinct agreement patterns: it is introduces the focus, and the relative clause agrees with the plural people identified.
+**Explanation:** The two clauses have distinct agreement patterns: 'it is' introduces the focus, and the relative clause agrees with the plural people identified.
 
 **Choice feedback:**
 
-- **The opening it-cleft stays singular, while who represents the plural conservators.:** The two clauses have distinct agreement patterns: it is introduces the focus, and the relative clause agrees with the plural people identified.
-- **Is agrees with the singular job of moving exhibits, while are agrees with the guides.:** The first verb belongs to the cleft frame, and the relative who represents conservators, not the rejected guides.
-- **Is should become are because conservators follows it immediately.:** A plural focus does not normally make the introductory it + be frame plural.
-- **Are should become is because who repeats the opening it.:** Who represents the focused conservators, not the introductory it.
+- **The opening it-cleft stays singular, while who represents the plural conservators.:** The two clauses have distinct agreement patterns: 'it is' introduces the focus, and the relative clause agrees with the plural people identified.
+- **Is agrees with the singular job of moving exhibits, while are agrees with the guides.:** The first verb belongs to the cleft frame, and the relative 'who' represents 'conservators', not the rejected guides.
+- **Is should become are because conservators follows it immediately.:** A plural focus does not normally make the introductory 'it' + 'be' frame plural.
+- **Are should become is because who repeats the opening it.:** 'Who' represents the focused conservators, not the introductory 'it'.
 
 **Decision:** replaced.
 
@@ -3262,7 +3262,7 @@ Which analysis accounts for both agreement patterns?
 
 ID: `coverage-subject-verb-agreement-c2-3582`
 
-An editor encounters: 'The cost of the repairs, the insurers estimate, exceeds the original budget.' A colleague proposes exceed because insurers is plural.
+An editor encounters: 'The cost of the repairs, the insurers estimate, exceeds the original budget.' A colleague proposes 'exceed' because 'insurers' is plural.
 
 Which response correctly analyses the proposed change?
 
@@ -3271,14 +3271,14 @@ Which response correctly analyses the proposed change?
 3. The change is optional because either repairs or cost can head the main subject here.
 4. Exceeds should remain, but estimate needs to become estimates to match cost.
 
-**Explanation:** Removing the parenthetical gives 'The cost of the repairs exceeds the original budget.' The insurers estimate that proposition; their plural number controls estimate, not exceeds.
+**Explanation:** Removing the parenthetical gives 'The cost of the repairs exceeds the original budget.' The insurers estimate that proposition; their plural number controls 'estimate', not 'exceeds'.
 
 **Choice feedback:**
 
-- **The change is needed because insurers becomes the subject when inserted before exceeds.:** Position alone does not make insurers the subject of exceeds. The inserted clause attributes an estimate to the insurers.
-- **Insurers belongs to the inserted reporting clause; cost controls exceeds.:** Removing the parenthetical gives 'The cost of the repairs exceeds the original budget.' The insurers estimate that proposition; their plural number controls estimate, not exceeds.
-- **The change is optional because either repairs or cost can head the main subject here.:** The sentence concerns the cost exceeding a budget, not the repairs doing so. Repairs is inside the of-phrase and is not an alternative head on this reading.
-- **Exceeds should remain, but estimate needs to become estimates to match cost.:** Estimate belongs to its own clause with the plural subject the insurers. The two clauses have separate agreement controllers.
+- **The change is needed because insurers becomes the subject when inserted before exceeds.:** Position alone does not make 'insurers' the subject of 'exceeds'. The inserted clause attributes an estimate to the insurers.
+- **Insurers belongs to the inserted reporting clause; cost controls exceeds.:** Removing the parenthetical gives 'The cost of the repairs exceeds the original budget.' The insurers estimate that proposition; their plural number controls 'estimate', not 'exceeds'.
+- **The change is optional because either repairs or cost can head the main subject here.:** The sentence concerns the cost exceeding a budget, not the repairs doing so. 'Repairs' is inside the of-phrase and is not an alternative head on this reading.
+- **Exceeds should remain, but estimate needs to become estimates to match cost.:** 'Estimate' belongs to its own clause with the plural subject 'the insurers'. The two clauses have separate agreement controllers.
 
 **Decision:** replaced.
 
@@ -3294,7 +3294,7 @@ Which response correctly analyses the proposed change?
 
 ID: `coverage-subject-verb-agreement-c2-3583`
 
-An editor reviews 'One in ten applicants have worked abroad.' A colleague proposes has. Neither has checked the publication's house style.
+An editor reviews 'One in ten applicants have worked abroad.' A colleague proposes 'has'. Neither has checked the publication's house style.
 
 Which editorial advice is accurate?
 
@@ -3303,13 +3303,13 @@ Which editorial advice is accurate?
 3. Keep have: in ten applicants makes applicants the grammatical head of the entire subject, so has is an agreement error.
 4. Choose by national variety: British English permits have here, whereas American English requires has even in conversational use.
 
-**Explanation:** Formal prose commonly follows singular one, while informal usage often allows plural agreement with the population being discussed. Check the intended register and any house rule before presenting either choice as a required correction.
+**Explanation:** Formal prose commonly follows singular 'one', while informal usage often allows plural agreement with the population being discussed. Check the intended register and any house rule before presenting either choice as a required correction.
 
 **Choice feedback:**
 
 - **Use has: one is singular, so the plural applicants cannot support have in an established one-in-ten construction.:** This extends a formal singular preference into an unrestricted prohibition. Plural agreement is established in informal one-in-N expressions with people.
-- **Has follows the usual formal convention; have also occurs naturally, particularly in informal speech and writing.:** Formal prose commonly follows singular one, while informal usage often allows plural agreement with the population being discussed. Check the intended register and any house rule before presenting either choice as a required correction.
-- **Keep have: in ten applicants makes applicants the grammatical head of the entire subject, so has is an agreement error.:** The in-phrase does not simply replace one with applicants as the subject's head. Singular has follows a conventional formal pattern and is not an error.
+- **Has follows the usual formal convention; have also occurs naturally, particularly in informal speech and writing.:** Formal prose commonly follows singular 'one', while informal usage often allows plural agreement with the population being discussed. Check the intended register and any house rule before presenting either choice as a required correction.
+- **Keep have: in ten applicants makes applicants the grammatical head of the entire subject, so has is an agreement error.:** The in-phrase does not simply replace 'one' with 'applicants' as the subject's head. Singular 'has' follows a conventional formal pattern and is not an error.
 - **Choose by national variety: British English permits have here, whereas American English requires has even in conversational use.:** The variation is not a categorical British-versus-American division. Informal plural agreement is recognized in American usage guidance too; register and house convention matter.
 
 **Decision:** replaced.
@@ -3326,7 +3326,7 @@ Which editorial advice is accurate?
 
 ID: `coverage-subject-verb-agreement-c2-3584`
 
-A draft contains 'A range of objections have been raised' and 'The range of objections is unusually broad.' No house rule specifies singular agreement after a range of.
+A draft contains 'A range of objections have been raised' and 'The range of objections is unusually broad.' No house rule specifies singular agreement after 'a range of'.
 
 Which editorial comment best accounts for this contrast?
 
@@ -3335,12 +3335,12 @@ Which editorial comment best accounts for this contrast?
 3. Is must become are because the earlier sentence has already established plural agreement.
 4. Have makes objections the speakers who raised the issue, rather than the issues raised.
 
-**Explanation:** A range of can function as a quantity expression and occur with plural agreement; singular agreement is also used. In the second sentence, broad describes the range itself, supporting is.
+**Explanation:** 'A range of' can function as a quantity expression and occur with plural agreement; singular agreement is also used. In the second sentence, 'broad' describes the range itself, supporting 'is'.
 
 **Choice feedback:**
 
-- **Have is defensible only if range is being used as an abbreviation for several ranges.:** Plural agreement with a range of objections does not require an omitted plural word. It can reflect the quantity expression and its plural complement.
-- **The first use is quantifying; the second describes the breadth of the range itself.:** A range of can function as a quantity expression and occur with plural agreement; singular agreement is also used. In the second sentence, broad describes the range itself, supporting is.
+- **Have is defensible only if range is being used as an abbreviation for several ranges.:** Plural agreement with 'a range of objections' does not require an omitted plural word. It can reflect the quantity expression and its plural complement.
+- **The first use is quantifying; the second describes the breadth of the range itself.:** 'A range of' can function as a quantity expression and occur with plural agreement; singular agreement is also used. In the second sentence, 'broad' describes the range itself, supporting 'is'.
 - **Is must become are because the earlier sentence has already established plural agreement.:** The later sentence presents the range as the thing whose breadth is described. Agreement is not fixed for every occurrence of a noun by its first use.
 - **Have makes objections the speakers who raised the issue, rather than the issues raised.:** Objections remain the things raised in the passive construction. Verb number does not convert them into the people doing the raising.
 
@@ -3358,7 +3358,7 @@ Which editorial comment best accounts for this contrast?
 
 ID: `coverage-subject-verb-agreement-c2-3585`
 
-A writer wants to say that both the director and the auditors have already approved the proposal. Keep their subjects in separate coordinated clauses, use the present perfect in both, and share the final words approved the proposal.
+A writer wants to say that both the director and the auditors have already approved the proposal. Keep their subjects in separate coordinated clauses, use the present perfect in both, and share the final words 'approved the proposal'.
 
 Which sentence meets all three editing requirements?
 
@@ -3367,14 +3367,14 @@ Which sentence meets all three editing requirements?
 3. The director has approved the proposal, and so have the auditors.
 4. The director has, and the auditors have, approved the proposal. **[Correct]**
 
-**Explanation:** Has agrees with the director and have with the auditors. The clauses share approved the proposal, while each retains its own present-perfect auxiliary.
+**Explanation:** 'Has' agrees with 'the director' and 'have' with 'the auditors'. The clauses share 'approved the proposal', while each retains its own present-perfect auxiliary.
 
 **Choice feedback:**
 
 - **The director and the auditors have approved the proposal.:** This is grammatical and preserves the approval claim, but combines the subjects into one clause instead of retaining separate clauses.
-- **The director had, and the auditors have, approved the proposal.:** Each auxiliary agrees with its subject, but had changes the director's clause to the past perfect, contrary to the requested tense in both clauses.
-- **The director has approved the proposal, and so have the auditors.:** This expresses the right facts and tense, but approved the proposal occurs in the first clause rather than as the shared final wording.
-- **The director has, and the auditors have, approved the proposal.:** Has agrees with the director and have with the auditors. The clauses share approved the proposal, while each retains its own present-perfect auxiliary.
+- **The director had, and the auditors have, approved the proposal.:** Each auxiliary agrees with its subject, but 'had' changes the director's clause to the past perfect, contrary to the requested tense in both clauses.
+- **The director has approved the proposal, and so have the auditors.:** This expresses the right facts and tense, but 'approved the proposal' occurs in the first clause rather than as the shared final wording.
+- **The director has, and the auditors have, approved the proposal.:** 'Has' agrees with 'the director' and 'have' with 'the auditors'. The clauses share 'approved the proposal', while each retains its own present-perfect auxiliary.
 
 **Decision:** replaced.
 
@@ -3390,7 +3390,7 @@ Which sentence meets all three editing requirements?
 
 ID: `coverage-subject-verb-agreement-c2-3586`
 
-An archivist writes, 'The donor insisted that the original manuscript be returned before the exhibition.' An editor changes be to is solely because manuscript is singular.
+An archivist writes, 'The donor insisted that the original manuscript be returned before the exhibition.' An editor changes 'be' to 'is' solely because 'manuscript' is singular.
 
 Which assessment of that change is accurate?
 
@@ -3399,14 +3399,14 @@ Which assessment of that change is accurate?
 3. Be can express the demanded action; changing it to is is not a number-agreement repair. **[Correct]**
 4. Be is an infinitive whose understood subject is the donor rather than the manuscript.
 
-**Explanation:** This is a mandative subjunctive: a base verb form used for an action being demanded. It can have a singular subject. Is is an indicative form, so the proposed substitution concerns the construction and reading, not a missing singular ending.
+**Explanation:** This is a mandative subjunctive: a base verb form used for an action being demanded. It can have a singular subject. 'Is' is an indicative form, so the proposed substitution concerns the construction and reading, not a missing singular ending.
 
 **Choice feedback:**
 
 - **Be shows that the donor is uncertain whether the manuscript is a single object.:** The form does not express uncertainty about the noun's number. The subject still denotes the original manuscript.
-- **Is preserves the same construction because insisted automatically makes the following verb subjunctive.:** Insisted can introduce a demand or an asserted claim. Its presence does not make the indicative form is into a subjunctive.
-- **Be can express the demanded action; changing it to is is not a number-agreement repair.:** This is a mandative subjunctive: a base verb form used for an action being demanded. It can have a singular subject. Is is an indicative form, so the proposed substitution concerns the construction and reading, not a missing singular ending.
-- **Be is an infinitive whose understood subject is the donor rather than the manuscript.:** The that-clause has its own stated subject, the original manuscript. This use of be is not a subjectless infinitive controlled by the donor.
+- **Is preserves the same construction because insisted automatically makes the following verb subjunctive.:** 'Insisted' can introduce a demand or an asserted claim. Its presence does not make the indicative form 'is' into a subjunctive.
+- **Be can express the demanded action; changing it to is is not a number-agreement repair.:** This is a mandative subjunctive: a base verb form used for an action being demanded. It can have a singular subject. 'Is' is an indicative form, so the proposed substitution concerns the construction and reading, not a missing singular ending.
+- **Be is an infinitive whose understood subject is the donor rather than the manuscript.:** The that-clause has its own stated subject, the original manuscript. This use of 'be' is not a subjectless infinitive controlled by the donor.
 
 **Decision:** replaced.
 
@@ -3486,7 +3486,7 @@ Which rewrite best meets the publisher's request?
 
 ID: `coverage-subject-verb-agreement-c2-3589`
 
-A partnership agreement says, 'Each partner and each supplier has its own account.' A reader argues that singular has means that the partners and suppliers share one account.
+A partnership agreement says, 'Each partner and each supplier has its own account.' A reader argues that singular 'has' means that the partners and suppliers share one account.
 
 Which response best explains the grammar and its consequence for that reading?
 
@@ -3495,14 +3495,14 @@ Which response best explains the grammar and its consequence for that reading?
 3. Has applies the account requirement only to each supplier, the nearer subject.
 4. The sentence needs have before own can refer separately to partners and suppliers.
 
-**Explanation:** Each partner and each supplier supports singular agreement in formal usage. With its own account, the sentence assigns an account individually; it does not describe one account shared by everyone.
+**Explanation:** 'Each partner and each supplier' supports singular agreement in formal usage. With 'its own account', the sentence assigns an account individually; it does not describe one account shared by everyone.
 
 **Choice feedback:**
 
-- **Has treats partner and supplier as two job titles held by the same person.:** Nothing in the sentence requires a person to hold both roles. Each distributes the requirement across members of both named categories.
-- **Repeated each distributes the statement; singular has does not imply a shared account.:** Each partner and each supplier supports singular agreement in formal usage. With its own account, the sentence assigns an account individually; it does not describe one account shared by everyone.
-- **Has applies the account requirement only to each supplier, the nearer subject.:** The coordinated subject includes both each partner and each supplier. Agreement does not remove partners from the requirement.
-- **The sentence needs have before own can refer separately to partners and suppliers.:** The distributive each construction already permits the individual reading with has. A plural verb is not needed to create separate account holders.
+- **Has treats partner and supplier as two job titles held by the same person.:** Nothing in the sentence requires a person to hold both roles. 'Each' distributes the requirement across members of both named categories.
+- **Repeated each distributes the statement; singular has does not imply a shared account.:** 'Each partner and each supplier' supports singular agreement in formal usage. With 'its own account', the sentence assigns an account individually; it does not describe one account shared by everyone.
+- **Has applies the account requirement only to each supplier, the nearer subject.:** The coordinated subject includes both 'each partner' and 'each supplier'. Agreement does not remove partners from the requirement.
+- **The sentence needs have before own can refer separately to partners and suppliers.:** The distributive 'each' construction already permits the individual reading with 'has'. A plural verb is not needed to create separate account holders.
 
 **Decision:** replaced.
 
@@ -3550,7 +3550,7 @@ Which account explains the different agreement without changing either statement
 
 ID: `coverage-subject-verb-agreement-c2-3591`
 
-A meeting secretary asks, 'No one has withdrawn their objection, have they?' A reviewer thinks has and have cannot both belong in this question.
+A meeting secretary asks, 'No one has withdrawn their objection, have they?' A reviewer thinks 'has' and 'have' cannot both belong in this question.
 
 Which response correctly explains both agreement and the checking question's polarity?
 
@@ -3559,14 +3559,14 @@ Which response correctly explains both agreement and the checking question's pol
 3. No one takes has; the tag uses they with have and checks the negative claim. **[Correct]**
 4. The singular verb is appropriate only if their refers to someone outside the meeting.
 
-**Explanation:** No one has singular agreement in the main clause. They can refer back without specifying gender and takes have in the tag. Since no one makes the statement negative, the positive tag is appropriate for checking it.
+**Explanation:** 'No one' has singular agreement in the main clause. 'They' can refer back without specifying gender and takes 'have' in the tag. Since 'no one' makes the statement negative, the positive tag is appropriate for checking it.
 
 **Choice feedback:**
 
-- **Have shows that the secretary now assumes several people have withdrawn their objections.:** They with have does not assert a plural group of withdrawals. The tag checks the preceding claim that no person has withdrawn an objection.
-- **The tag should use hasn't because the first clause contains no negative auxiliary.:** No one makes the first clause negative even though has is not contracted with not. The ordinary opposite-polarity checking tag is therefore positive.
-- **No one takes has; the tag uses they with have and checks the negative claim.:** No one has singular agreement in the main clause. They can refer back without specifying gender and takes have in the tag. Since no one makes the statement negative, the positive tag is appropriate for checking it.
-- **The singular verb is appropriate only if their refers to someone outside the meeting.:** Their can refer back to the people considered individually by no one. No outside person is needed to license either their or the tag's they.
+- **Have shows that the secretary now assumes several people have withdrawn their objections.:** 'They' with 'have' does not assert a plural group of withdrawals. The tag checks the preceding claim that no person has withdrawn an objection.
+- **The tag should use hasn't because the first clause contains no negative auxiliary.:** 'No one' makes the first clause negative even though 'has' is not contracted with 'not'. The ordinary opposite-polarity checking tag is therefore positive.
+- **No one takes has; the tag uses they with have and checks the negative claim.:** 'No one' has singular agreement in the main clause. 'They' can refer back without specifying gender and takes 'have' in the tag. Since 'no one' makes the statement negative, the positive tag is appropriate for checking it.
+- **The singular verb is appropriate only if their refers to someone outside the meeting.:** 'Their' can refer back to the people considered individually by 'no one'. No outside person is needed to license either 'their' or the tag's 'they'.
 
 **Decision:** replaced.
 
@@ -3614,7 +3614,7 @@ Which rewrite uses relative-clause agreement to express the intended relationshi
 
 ID: `coverage-subject-verb-agreement-c2-3593`
 
-A researcher writes, 'I am a linguist who studies workplace conversations.' An editor proposes study, arguing that who ultimately refers to the first-person speaker.
+A researcher writes, 'I am a linguist who studies workplace conversations.' An editor proposes 'study', arguing that 'who' ultimately refers to the first-person speaker.
 
 Which assessment correctly distinguishes reference from the relative clause's grammatical antecedent?
 
@@ -3623,14 +3623,14 @@ Which assessment correctly distinguishes reference from the relative clause's gr
 3. Studies is appropriate only if the linguist is someone other than the writer.
 4. Am makes the whole sentence first person, but studies is retained as reported speech.
 
-**Explanation:** The relative clause is attached to a linguist, which supports third-person singular studies. In a different construction such as 'I, who study these conversations, ...', who would attach directly to I.
+**Explanation:** The relative clause is attached to 'a linguist', which supports third-person singular 'studies'. In a different construction such as 'I, who study these conversations, ...', 'who' would attach directly to 'I'.
 
 **Choice feedback:**
 
-- **Who modifies a linguist here, so studies need not agree directly with I.:** The relative clause is attached to a linguist, which supports third-person singular studies. In a different construction such as 'I, who study these conversations, ...', who would attach directly to I.
-- **Study is required because two expressions referring to one person must share grammatical person.:** Different expressions for the same person need not have the same grammatical person. I is first person, while a linguist is a third-person noun phrase.
+- **Who modifies a linguist here, so studies need not agree directly with I.:** The relative clause is attached to 'a linguist', which supports third-person singular 'studies'. In a different construction such as 'I, who study these conversations, ...', 'who' would attach directly to 'I'.
+- **Study is required because two expressions referring to one person must share grammatical person.:** Different expressions for the same person need not have the same grammatical person. 'I' is first person, while 'a linguist' is a third-person noun phrase.
 - **Studies is appropriate only if the linguist is someone other than the writer.:** The sentence identifies the writer as a linguist. Third-person agreement inside the relative clause does not introduce a second person.
-- **Am makes the whole sentence first person, but studies is retained as reported speech.:** Am does not assign first-person agreement to every later clause, and no one is being quoted or reported here. The relevant fact is the attachment to a linguist.
+- **Am makes the whole sentence first person, but studies is retained as reported speech.:** 'Am' does not assign first-person agreement to every later clause, and no one is being quoted or reported here. The relevant fact is the attachment to 'a linguist'.
 
 **Decision:** replaced.
 
@@ -3646,7 +3646,7 @@ Which assessment correctly distinguishes reference from the relative clause's gr
 
 ID: `coverage-subject-verb-agreement-c2-3594`
 
-Compare 'A lot of defects have appeared' with 'The cause of the defects has become clear.' A learner proposes a rule: use the number of the noun immediately after of in both constructions.
+Compare 'A lot of defects have appeared' with 'The cause of the defects has become clear.' A learner proposes a rule: use the number of the noun immediately after 'of' in both constructions.
 
 Which evaluation best explains why that proposed rule is unreliable?
 
@@ -3655,14 +3655,14 @@ Which evaluation best explains why that proposed rule is unreliable?
 3. The rule fails because both sentences should agree with the singular word before of.
 4. A lot of quantifies defects; cause names a separate thing about which a claim is made. **[Correct]**
 
-**Explanation:** In the first subject, a lot of means roughly many, and the defects are what have appeared. In the second, the cause is what has become clear. An of-phrase does not have one uniform effect on agreement.
+**Explanation:** In the first subject, 'a lot of' means roughly 'many', and the defects are what have appeared. In the second, the cause is what has become clear. An of-phrase does not have one uniform effect on agreement.
 
 **Choice feedback:**
 
-- **The rule works in the first sentence because have is active, but fails with become because it is passive.:** Has become is not passive. The difference concerns the subjects, not active versus passive voice.
-- **The rule works whenever the of-phrase begins with an indefinite article rather than the.:** An article alone does not settle the structure. A cause of the defects would still name a cause and normally take singular agreement.
-- **The rule fails because both sentences should agree with the singular word before of.:** That would wrongly force singular agreement in a lot of defects have appeared. A lot of functions as a quantity expression here.
-- **A lot of quantifies defects; cause names a separate thing about which a claim is made.:** In the first subject, a lot of means roughly many, and the defects are what have appeared. In the second, the cause is what has become clear. An of-phrase does not have one uniform effect on agreement.
+- **The rule works in the first sentence because have is active, but fails with become because it is passive.:** 'Has become' is not passive. The difference concerns the subjects, not active versus passive voice.
+- **The rule works whenever the of-phrase begins with an indefinite article rather than the.:** An article alone does not settle the structure. 'A cause of the defects' would still name a cause and normally take singular agreement.
+- **The rule fails because both sentences should agree with the singular word before of.:** That would wrongly force singular agreement in 'a lot of defects have appeared'. 'A lot of' functions as a quantity expression here.
+- **A lot of quantifies defects; cause names a separate thing about which a claim is made.:** In the first subject, 'a lot of' means roughly 'many', and the defects are what have appeared. In the second, the cause is what has become clear. An of-phrase does not have one uniform effect on agreement.
 
 **Decision:** replaced.
 
@@ -3678,7 +3678,7 @@ Which evaluation best explains why that proposed rule is unreliable?
 
 ID: `coverage-subject-verb-agreement-c2-3595`
 
-A formal response reads, 'The redesign would save space. Be that as it may, the access problem remains.' An editor wants to replace be with is because that is singular.
+A formal response reads, 'The redesign would save space. Be that as it may, the access problem remains.' An editor wants to replace 'be' with 'is' because 'that' is singular.
 
 Which comment best assesses this proposed agreement edit?
 
@@ -3687,14 +3687,14 @@ Which comment best assesses this proposed agreement edit?
 3. Be is retained because the preceding would makes the following independent clause infinitival.
 4. Be belongs to a fixed concessive expression, not an ordinary indicative statement needing is. **[Correct]**
 
-**Explanation:** Be that as it may is an established formal expression that sets a point aside before continuing the argument. Its be is not a missing singular indicative ending, so changing it to is does not preserve the expression.
+**Explanation:** 'Be that as it may' is an established formal expression that sets a point aside before continuing the argument. Its 'be' is not a missing singular indicative ending, so changing it to 'is' does not preserve the expression.
 
 **Choice feedback:**
 
-- **Be is simply the infinitive governed by the later may, with the same structure as may be.:** The opening be belongs to the concessive frame, not a reordered ordinary may be verb phrase. The expression cannot be explained by moving a modal's infinitive across its subject.
-- **Is is preferable because it strengthens the same concession without changing its grammatical construction.:** Is that as it may does not retain the conventional concessive construction. This is not merely a stronger version of the same wording.
-- **Be is retained because the preceding would makes the following independent clause infinitival.:** Would governs save in the preceding sentence. It does not turn a separate sentence's opening expression into its infinitival complement.
-- **Be belongs to a fixed concessive expression, not an ordinary indicative statement needing is.:** Be that as it may is an established formal expression that sets a point aside before continuing the argument. Its be is not a missing singular indicative ending, so changing it to is does not preserve the expression.
+- **Be is simply the infinitive governed by the later may, with the same structure as may be.:** The opening 'be' belongs to the concessive frame, not a reordered ordinary 'may be' verb phrase. The expression cannot be explained by moving a modal's infinitive across its subject.
+- **Is is preferable because it strengthens the same concession without changing its grammatical construction.:** 'Is that as it may' does not retain the conventional concessive construction. This is not merely a stronger version of the same wording.
+- **Be is retained because the preceding would makes the following independent clause infinitival.:** 'Would' governs 'save' in the preceding sentence. It does not turn a separate sentence's opening expression into its infinitival complement.
+- **Be belongs to a fixed concessive expression, not an ordinary indicative statement needing is.:** 'Be that as it may' is an established formal expression that sets a point aside before continuing the argument. Its 'be' is not a missing singular indicative ending, so changing it to 'is' does not preserve the expression.
 
 **Decision:** replaced.
 
@@ -3710,7 +3710,7 @@ Which comment best assesses this proposed agreement edit?
 
 ID: `coverage-subject-verb-agreement-c2-3596`
 
-A formal narrative says, 'The last guests having left, the caretaker locks the courtyard.' A reviewer says having should become have because guests is plural.
+A formal narrative says, 'The last guests having left, the caretaker locks the courtyard.' A reviewer says 'having' should become 'have' because 'guests' is plural.
 
 Which response best diagnoses the proposed change?
 
@@ -3719,13 +3719,13 @@ Which response best diagnoses the proposed change?
 3. Have would preserve the same nonfinite construction while making its plural agreement visible.
 4. Having left is a shortened relative clause modifying guests, equivalent in structure to who have left.
 
-**Explanation:** The opening is an absolute construction: a nonfinite clause with the last guests as its subject. Having does not change for number. Replacing it with have creates a finite clause and would require different punctuation or linkage to the main clause.
+**Explanation:** The opening is an absolute construction: a nonfinite clause with 'the last guests' as its subject. 'Having' does not change for number. Replacing it with 'have' creates a finite clause and would require different punctuation or linkage to the main clause.
 
 **Choice feedback:**
 
-- **Having left is nonfinite and has its own stated subject; it does not inflect for guests.:** The opening is an absolute construction: a nonfinite clause with the last guests as its subject. Having does not change for number. Replacing it with have creates a finite clause and would require different punctuation or linkage to the main clause.
-- **Having is singular because its subject is the later caretaker, while guests is its object.:** The guests are the people who have left; they are not an object of having. The caretaker is the separate subject of locks.
-- **Have would preserve the same nonfinite construction while making its plural agreement visible.:** Have left with the last guests as its subject is a finite present-perfect clause. It is not an inflected version of the original nonfinite construction.
+- **Having left is nonfinite and has its own stated subject; it does not inflect for guests.:** The opening is an absolute construction: a nonfinite clause with 'the last guests' as its subject. 'Having' does not change for number. Replacing it with 'have' creates a finite clause and would require different punctuation or linkage to the main clause.
+- **Having is singular because its subject is the later caretaker, while guests is its object.:** The guests are the people who have left; they are not an object of 'having'. The caretaker is the separate subject of 'locks'.
+- **Have would preserve the same nonfinite construction while making its plural agreement visible.:** 'Have left' with 'the last guests' as its subject is a finite present-perfect clause. It is not an inflected version of the original nonfinite construction.
 - **Having left is a shortened relative clause modifying guests, equivalent in structure to who have left.:** The opening supplies a background circumstance in a separate nonfinite clause. It is not a relative modifier within a noun phrase; treating it as one would leave that opening noun phrase without a role in the main clause.
 
 **Decision:** replaced.
@@ -3742,7 +3742,7 @@ Which response best diagnoses the proposed change?
 
 ID: `coverage-subject-verb-agreement-c2-3597`
 
-An inventory report says, 'Five thousand dollars' worth of paintings have been recovered.' A colleague objects that have can be correct only if actual dollars, not paintings, were recovered.
+An inventory report says, 'Five thousand dollars' worth of paintings have been recovered.' A colleague objects that 'have' can be correct only if actual dollars, not paintings, were recovered.
 
 Which response best addresses that objection without imposing an unstated house style?
 
@@ -3751,14 +3751,14 @@ Which response best addresses that objection without imposing an unstated house 
 3. Changing have to has would mean that only one painting had been recovered.
 4. Plural agreement can reflect paintings; it does not turn their stated value into recovered cash. **[Correct]**
 
-**Explanation:** A monetary worth-of expression can occur with plural agreement reflecting the goods named after of. It still denotes paintings of the stated total value. A singular amount-focused version is also possible; neither reading requires recovered banknotes.
+**Explanation:** A monetary worth-of expression can occur with plural agreement reflecting the goods named after 'of'. It still denotes paintings of the stated total value. A singular amount-focused version is also possible; neither reading requires recovered banknotes.
 
 **Choice feedback:**
 
 - **Have implies that each painting was individually worth five thousand dollars.:** The value expression describes the quantity of paintings collectively. Plural agreement does not distribute that full value to each painting.
 - **The sentence refers to both paintings and money, with have agreeing with their combined value.:** The dollars specify how much the paintings are worth. They are not an additional recovered item coordinated with paintings.
 - **Changing have to has would mean that only one painting had been recovered.:** Singular agreement can present the valued quantity as an amount. It need not reduce the number of paintings to one.
-- **Plural agreement can reflect paintings; it does not turn their stated value into recovered cash.:** A monetary worth-of expression can occur with plural agreement reflecting the goods named after of. It still denotes paintings of the stated total value. A singular amount-focused version is also possible; neither reading requires recovered banknotes.
+- **Plural agreement can reflect paintings; it does not turn their stated value into recovered cash.:** A monetary worth-of expression can occur with plural agreement reflecting the goods named after 'of'. It still denotes paintings of the stated total value. A singular amount-focused version is also possible; neither reading requires recovered banknotes.
 
 **Decision:** replaced.
 
@@ -3774,7 +3774,7 @@ Which response best addresses that objection without imposing an unstated house 
 
 ID: `coverage-subject-verb-agreement-c2-3598`
 
-Exactly one of the speaker and the addressee is to chair the session. Rewrite without making either you or I a shared subject before an agreement-sensitive verb; name both parties and keep the one-person restriction explicit.
+Exactly one of the speaker and the addressee is to chair the session. Rewrite without making either 'you' or 'I' a shared subject before an agreement-sensitive verb; name both parties and keep the one-person restriction explicit.
 
 Which sentence meets the editing goal?
 
@@ -3783,13 +3783,13 @@ Which sentence meets the editing goal?
 3. Either you will chair the session or I will, but not both of us. **[Correct]**
 4. Either you and I will chair the session or neither of us will.
 
-**Explanation:** Each alternative has its own subject and will, whose form does not vary with person. The second clause omits the repeated predicate, and but not both of us preserves the explicit one-person restriction.
+**Explanation:** Each alternative has its own subject and 'will', whose form does not vary with person. The second clause omits the repeated predicate, and 'but not both of us' preserves the explicit one-person restriction.
 
 **Choice feedback:**
 
 - **You and I will decide who chairs the session, but only one chair is needed.:** This makes the two people decision-makers. It does not require either of them to be the chair; they could choose someone else.
 - **Either you or I am to chair the session, but not both of us.:** This keeps the mixed-person shared subject that the editing brief asks you to avoid. The task is a structural recast, not a claim that this proximity-based form is never used.
-- **Either you will chair the session or I will, but not both of us.:** Each alternative has its own subject and will, whose form does not vary with person. The second clause omits the repeated predicate, and but not both of us preserves the explicit one-person restriction.
+- **Either you will chair the session or I will, but not both of us.:** Each alternative has its own subject and 'will', whose form does not vary with person. The second clause omits the repeated predicate, and 'but not both of us' preserves the explicit one-person restriction.
 - **Either you and I will chair the session or neither of us will.:** This offers both people together or neither person, excluding the intended exactly-one arrangement. Its agreement is grammatical but its alternatives are different.
 
 **Decision:** replaced.
@@ -3808,21 +3808,21 @@ ID: `coverage-subject-verb-agreement-c2-3599`
 
 A report says, 'The assistant of the curator who was interviewed has resigned.' The surrounding text has mentioned interviews with both people, but does not identify which interview this sentence concerns.
 
-What can an editor conclude from was about the relative clause's attachment?
+What can an editor conclude from 'was' about the relative clause's attachment?
 
 1. Was proves that the curator was interviewed, because the nearest noun controls relative agreement.
 2. Was cannot settle the attachment, since both possible antecedents are singular. **[Correct]**
 3. Was proves that the assistant was interviewed, because the main subject controls relative agreement.
 4. Was cannot help because past-tense be has the same form with singular and plural subjects.
 
-**Explanation:** Both assistant and curator can support singular was. Agreement therefore does not disambiguate this sentence; the editor should clarify which person's interview is intended rather than treating a preferred attachment as compulsory.
+**Explanation:** Both 'assistant' and 'curator' can support singular 'was'. Agreement therefore does not disambiguate this sentence; the editor should clarify which person's interview is intended rather than treating a preferred attachment as compulsory.
 
 **Choice feedback:**
 
-- **Was proves that the curator was interviewed, because the nearest noun controls relative agreement.:** Proximity may encourage that reading, but it is not proof. The more distant assistant is also singular and can support was.
-- **Was cannot settle the attachment, since both possible antecedents are singular.:** Both assistant and curator can support singular was. Agreement therefore does not disambiguate this sentence; the editor should clarify which person's interview is intended rather than treating a preferred attachment as compulsory.
-- **Was proves that the assistant was interviewed, because the main subject controls relative agreement.:** A relative clause inside a subject phrase need not modify the phrase's head. Curator is also a possible antecedent here.
-- **Was cannot help because past-tense be has the same form with singular and plural subjects.:** Past-tense be does distinguish singular was from plural were in ordinary statements. It cannot help here because both candidate antecedents have the same number, not because it lacks agreement.
+- **Was proves that the curator was interviewed, because the nearest noun controls relative agreement.:** Proximity may encourage that reading, but it is not proof. The more distant 'assistant' is also singular and can support 'was'.
+- **Was cannot settle the attachment, since both possible antecedents are singular.:** Both 'assistant' and 'curator' can support singular 'was'. Agreement therefore does not disambiguate this sentence; the editor should clarify which person's interview is intended rather than treating a preferred attachment as compulsory.
+- **Was proves that the assistant was interviewed, because the main subject controls relative agreement.:** A relative clause inside a subject phrase need not modify the phrase's head. 'Curator' is also a possible antecedent here.
+- **Was cannot help because past-tense be has the same form with singular and plural subjects.:** Past-tense 'be' does distinguish singular 'was' from plural 'were' in ordinary statements. It cannot help here because both candidate antecedents have the same number, not because it lacks agreement.
 
 **Decision:** replaced.
 
@@ -3838,7 +3838,7 @@ What can an editor conclude from was about the relative clause's attachment?
 
 ID: `coverage-subject-verb-agreement-c2-3600`
 
-A policy draft says, 'The trustees, each of whom has signed a separate declaration, are eligible to vote.' An editor proposes have in the relative clause to make both verbs plural like trustees.
+A policy draft says, 'The trustees, each of whom has signed a separate declaration, are eligible to vote.' An editor proposes 'have' in the relative clause to make both verbs plural like 'trustees'.
 
 Which response correctly evaluates the proposed change and the original declaration claim?
 
@@ -3847,14 +3847,14 @@ Which response correctly evaluates the proposed change and the original declarat
 3. Each governs has within the relative clause; trustees governs are in the main clause. **[Correct]**
 4. Have is required because whom is plural, while each modifies declaration rather than the subject.
 
-**Explanation:** In this formal draft, each of whom has makes an individual statement about every trustee. The main subject the trustees independently takes are. Repeating one verb number across the sentence is not the agreement requirement.
+**Explanation:** In this formal draft, 'each of whom has' makes an individual statement about every trustee. The main subject 'the trustees' independently takes 'are'. Repeating one verb number across the sentence is not the agreement requirement.
 
 **Choice feedback:**
 
-- **Has means one declaration was signed jointly, so have is needed to express separate declarations.:** Each and a separate declaration already distribute the signing across individual trustees. Singular agreement inside that clause does not make the declaration joint.
-- **The main clause should use is because each of whom becomes the subject after the comma.:** The relative clause supplements the trustees; it does not replace that plural main subject. Its singular each governs only its own finite verb.
-- **Each governs has within the relative clause; trustees governs are in the main clause.:** In this formal draft, each of whom has makes an individual statement about every trustee. The main subject the trustees independently takes are. Repeating one verb number across the sentence is not the agreement requirement.
-- **Have is required because whom is plural, while each modifies declaration rather than the subject.:** Each is the head of each of whom, not a modifier of declaration. Whom links the phrase to the trustees without making each a plural subject in the formal pattern used here.
+- **Has means one declaration was signed jointly, so have is needed to express separate declarations.:** 'Each' and 'a separate declaration' already distribute the signing across individual trustees. Singular agreement inside that clause does not make the declaration joint.
+- **The main clause should use is because each of whom becomes the subject after the comma.:** The relative clause supplements the trustees; it does not replace that plural main subject. Its singular 'each' governs only its own finite verb.
+- **Each governs has within the relative clause; trustees governs are in the main clause.:** In this formal draft, 'each of whom has' makes an individual statement about every trustee. The main subject 'the trustees' independently takes 'are'. Repeating one verb number across the sentence is not the agreement requirement.
+- **Have is required because whom is plural, while each modifies declaration rather than the subject.:** 'Each' is the head of 'each of whom', not a modifier of 'declaration'. 'Whom' links the phrase to the trustees without making 'each' a plural subject in the formal pattern used here.
 
 **Decision:** replaced.
 

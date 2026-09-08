@@ -1865,7 +1865,7 @@
     {
       "id": "coverage-parallel-structure-b2-2221",
       "level": "B2",
-      "setupText": "The event had plenty of interest but too little space. State the rejected and actual reasons for postponement in a balanced not ... but ... contrast.",
+      "setupText": "The event had plenty of interest but too little space. State the rejected and actual reasons for postponement in a balanced 'not ... but ...' contrast.",
       "taskText": "Which sentence accurately contrasts those reasons?",
       "options": [
         "We postponed it not for lack of space but for lack of interest.",
@@ -1879,7 +1879,7 @@
         "We postponed it not for lack of space but for lack of interest.": "This reverses the two reasons, rejecting the shortage of space and asserting insufficient interest.",
         "We postponed it not for lack of interest but for lack of space.": "The parallel for-phrases reject one causal explanation and supply the other, matching the stated circumstances.",
         "We postponed it not because interest was low but despite having enough space.": "The second phrase asserts enough space and expresses concession rather than the actual reason for postponement.",
-        "We postponed it not only for lack of interest but also for lack of space.": "Not only ... but also adds both reasons; it does not reject lack of interest as required."
+        "We postponed it not only for lack of interest but also for lack of space.": "'Not only ... but also' adds both reasons; it does not reject lack of interest as required."
       },
       "audit": {
         "status": "reviewed",
@@ -2237,7 +2237,7 @@
     {
       "id": "coverage-parallel-structure-b2-2233",
       "level": "B2",
-      "setupText": "The writer wants both adjectives to keep their usual prepositions: interested in and committed to.",
+      "setupText": "The writer wants both adjectives to keep their usual prepositions: 'interested in' and 'committed to'.",
       "taskText": "Which sentence achieves that while sharing the activity phrase?",
       "options": [
         "She is interested and committed to improving the service.",
@@ -3106,7 +3106,7 @@
       "id": "coverage-parallel-structure-c2-2261",
       "level": "C2",
       "setupText": "A meeting note says, 'Ava revised her proposal, and Mina did too.' Ava's proposal is her own; no context specifies the owner of the proposal Mina revised.",
-      "taskText": "Which account captures the available interpretations of the omitted possessive phrase after Mina?",
+      "taskText": "Which account captures the available interpretations of the omitted possessive phrase after 'Mina'?",
       "options": [
         "It retains Ava as the owner when the verb phrase is repeated.",
         "Either woman's proposal could be meant.",
@@ -3478,7 +3478,7 @@
       "id": "coverage-parallel-structure-c2-2273",
       "level": "C2",
       "setupText": "The contractor offers two packages: inspect and repair the existing pump, or replace it without an inspection. A sentence must preserve those two packages.",
-      "taskText": "Which placement of either makes the intended coordination clear?",
+      "taskText": "Which placement of 'either' makes the intended coordination clear?",
       "options": [
         "We will inspect the pump and either repair or replace it.",
         "We will either inspect and repair the pump or replace it without inspection.",
@@ -3486,12 +3486,12 @@
         "We will either inspect or repair the pump before replacing it."
       ],
       "answer": "We will either inspect and repair the pump or replace it without inspection.",
-      "explanation": "Either begins the first complete package, whose two linked actions are contrasted with replacement without inspection.",
+      "explanation": "'Either' begins the first complete package, whose two linked actions are contrasted with replacement without inspection.",
       "rationales": {
         "We will inspect the pump and either repair or replace it.": "Here inspection belongs to both possible routes, contrary to the replacement package.",
         "Either we will inspect the pump, or we will repair and replace it.": "This groups repair and replacement together and makes inspection the alternative package.",
         "We will either inspect or repair the pump before replacing it.": "Replacement follows either preliminary action; it is no longer an alternative to the inspect-and-repair package.",
-        "We will either inspect and repair the pump or replace it without inspection.": "Either begins the first complete package, whose two linked actions are contrasted with replacement without inspection."
+        "We will either inspect and repair the pump or replace it without inspection.": "'Either' begins the first complete package, whose two linked actions are contrasted with replacement without inspection."
       },
       "audit": {
         "status": "reviewed",

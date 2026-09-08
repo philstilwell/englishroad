@@ -880,21 +880,21 @@ ID: `coverage-advanced-sentence-structure-a2-268`
 
 We had lunch at the cafe where Tomas works.
 
-Which statement preserves what the where clause tells us?
+Which statement preserves what the 'where' clause tells us?
 
 1. Tomas had lunch at the cafe where we work.
 2. We work at the cafe where Tomas had lunch.
 3. We had lunch while Tomas worked somewhere else.
 4. Tomas works at the cafe where we had lunch. **[Correct]**
 
-**Explanation:** Where links Tomas's workplace to the cafe named in the main clause.
+**Explanation:** 'Where' links Tomas's workplace to the cafe named in the main clause.
 
 **Choice feedback:**
 
 - **Tomas had lunch at the cafe where we work.:** This swaps who works at the cafe and who ate there.
 - **We work at the cafe where Tomas had lunch.:** The original identifies Tomas as the worker and us as the lunch guests.
-- **We had lunch while Tomas worked somewhere else.:** The where clause identifies the same cafe as his workplace, not a different place.
-- **Tomas works at the cafe where we had lunch.:** Where links Tomas's workplace to the cafe named in the main clause.
+- **We had lunch while Tomas worked somewhere else.:** The 'where' clause identifies the same cafe as his workplace, not a different place.
+- **Tomas works at the cafe where we had lunch.:** 'Where' links Tomas's workplace to the cafe named in the main clause.
 
 **Decision:** replaced.
 
@@ -1136,20 +1136,20 @@ ID: `coverage-advanced-sentence-structure-a2-276`
 
 I like jazz, but my partner doesn't.
 
-What words are understood after doesn't?
+What words are understood after "doesn't"?
 
 1. have a partner
 2. like jazz **[Correct]**
 3. play jazz
 4. know my partner
 
-**Explanation:** Doesn't stands in for does not like jazz; the shared verb phrase need not be repeated.
+**Explanation:** "Doesn't" stands in for 'does not like jazz'; the shared verb phrase need not be repeated.
 
 **Choice feedback:**
 
-- **have a partner:** The omitted action comes from like jazz, not from the noun partner.
-- **like jazz:** Doesn't stands in for does not like jazz; the shared verb phrase need not be repeated.
-- **play jazz:** The first clause says like, so playing is not the activity being left out.
+- **have a partner:** The omitted action comes from 'like jazz', not from the noun 'partner'.
+- **like jazz:** "Doesn't" stands in for 'does not like jazz'; the shared verb phrase need not be repeated.
+- **play jazz:** The first clause says 'like', so playing is not the activity being left out.
 - **know my partner:** Knowing a person is not mentioned in the first clause and cannot be recovered from it.
 
 **Decision:** replaced.
@@ -1428,20 +1428,20 @@ ID: `coverage-advanced-sentence-structure-b1-285`
 
 I had my watch repaired at the shop.
 
-Which reading matches the service arrangement expressed by had my watch repaired?
+Which reading matches the service arrangement expressed by 'had my watch repaired'?
 
 1. I repaired the watch for the shop.
 2. I asked the shop whether the watch needed repair.
 3. I arranged for someone at the shop to repair my watch. **[Correct]**
 4. I bought a watch that the shop had repaired earlier.
 
-**Explanation:** Have + object + past participle can express arranging for someone else to perform a service.
+**Explanation:** 'Have' + object + past participle can express arranging for someone else to perform a service.
 
 **Choice feedback:**
 
 - **I repaired the watch for the shop.:** That makes the speaker the repairer, not the person arranging service.
 - **I asked the shop whether the watch needed repair.:** Asking about a need does not express having the repair performed.
-- **I arranged for someone at the shop to repair my watch.:** Have + object + past participle can express arranging for someone else to perform a service.
+- **I arranged for someone at the shop to repair my watch.:** 'Have' + object + past participle can express arranging for someone else to perform a service.
 - **I bought a watch that the shop had repaired earlier.:** That adds a purchase and a repair before it, neither of which the original construction states.
 
 **Decision:** replaced.
@@ -1588,20 +1588,20 @@ ID: `coverage-advanced-sentence-structure-b1-290`
 
 A receptionist addresses the queue forming now: 'People waiting outside may use the covered entrance.'
 
-Which expansion of waiting outside preserves its meaning here?
+Which expansion of 'waiting outside' preserves its meaning here?
 
 1. People who waited outside yesterday
 2. People who will wait outside next week
 3. People who are waiting outside **[Correct]**
 4. People who are being waited for outside
 
-**Explanation:** The -ing modifier can identify people by an ongoing action, equivalent here to who are waiting.
+**Explanation:** The -ing modifier can identify people by an ongoing action, equivalent here to 'who are waiting'.
 
 **Choice feedback:**
 
 - **People who waited outside yesterday:** This changes current waiting into a specified past event.
 - **People who will wait outside next week:** This introduces future waiting rather than identifies those waiting now.
-- **People who are waiting outside:** The -ing modifier can identify people by an ongoing action, equivalent here to who are waiting.
+- **People who are waiting outside:** The -ing modifier can identify people by an ongoing action, equivalent here to 'who are waiting'.
 - **People who are being waited for outside:** This makes the people the objects of someone else's waiting, not the people doing it.
 
 **Decision:** replaced.
@@ -1716,21 +1716,21 @@ ID: `coverage-advanced-sentence-structure-b1-294`
 
 The organizer says, 'Neither Tuesday nor Thursday is available for the rehearsal.'
 
-Which paraphrase preserves the exclusion expressed by neither ... nor?
+Which paraphrase preserves the exclusion expressed by 'neither ... nor'?
 
 1. Tuesday is available, but Thursday is not.
 2. Tuesday and Thursday are both unavailable. **[Correct]**
 3. Thursday is available, but Tuesday is not.
 4. One of the two days is available, but we do not know which.
 
-**Explanation:** Neither ... nor excludes each of the two coordinated alternatives.
+**Explanation:** 'Neither ... nor' excludes each of the two coordinated alternatives.
 
 **Choice feedback:**
 
-- **Tuesday is available, but Thursday is not.:** Neither excludes Tuesday too; this leaves one excluded day available.
-- **Tuesday and Thursday are both unavailable.:** Neither ... nor excludes each of the two coordinated alternatives.
-- **Thursday is available, but Tuesday is not.:** Thursday is also excluded by nor Thursday.
-- **One of the two days is available, but we do not know which.:** Neither ... nor excludes both named alternatives rather than leaves one unspecified.
+- **Tuesday is available, but Thursday is not.:** 'Neither' excludes Tuesday too; this leaves one excluded day available.
+- **Tuesday and Thursday are both unavailable.:** 'Neither ... nor' excludes each of the two coordinated alternatives.
+- **Thursday is available, but Tuesday is not.:** Thursday is also excluded by 'nor Thursday'.
+- **One of the two days is available, but we do not know which.:** 'Neither ... nor' excludes both named alternatives rather than leaves one unspecified.
 
 **Decision:** replaced.
 
@@ -2008,20 +2008,20 @@ ID: `coverage-advanced-sentence-structure-b2-303`
 
 The containers stored in the basement must be inspected.
 
-Which expansion preserves stored in the basement as a passive modifier?
+Which expansion preserves 'stored in the basement' as a passive modifier?
 
 1. The containers that store equipment in the basement
 2. The containers that will be stored in the basement next month
 3. The containers that are stored in the basement **[Correct]**
 4. The containers whose contents are stored in the basement
 
-**Explanation:** Stored modifies containers as things placed in storage, corresponding to a passive relative clause.
+**Explanation:** 'Stored' modifies 'containers' as things placed in storage, corresponding to a passive relative clause.
 
 **Choice feedback:**
 
 - **The containers that store equipment in the basement:** This makes the containers do the storing and adds equipment as their object.
 - **The containers that will be stored in the basement next month:** This adds a future storage event rather than describes the stated stored location.
-- **The containers that are stored in the basement:** Stored modifies containers as things placed in storage, corresponding to a passive relative clause.
+- **The containers that are stored in the basement:** 'Stored' modifies 'containers' as things placed in storage, corresponding to a passive relative clause.
 - **The containers whose contents are stored in the basement:** This locates their contents in the basement, not necessarily the containers themselves.
 
 **Decision:** replaced.
@@ -2040,7 +2040,7 @@ ID: `coverage-advanced-sentence-structure-b2-304`
 
 Pat was driving home when she noticed a crack in the windscreen.
 
-Keep Driving home as the opening phrase and make Pat clearly its understood subject in edited prose.
+Keep 'Driving home' as the opening phrase and make Pat clearly its understood subject in edited prose.
 
 1. Driving home, a crack in the windscreen caught Pat's attention.
 2. Driving home, the windscreen appeared cracked to Pat.
@@ -2136,20 +2136,20 @@ ID: `coverage-advanced-sentence-structure-b2-307`
 
 With the emergency exit blocked, the audience used the side doors.
 
-Which reading preserves blocked as the circumstance expressed in the with phrase?
+Which reading preserves 'blocked' as the circumstance expressed in the 'with' phrase?
 
 1. The audience blocked the emergency exit by using the side doors.
 2. The audience used the side doors in order to block the emergency exit.
 3. The emergency exit was blocked when the audience used the side doors. **[Correct]**
 4. The emergency exit became blocked only after the audience had left.
 
-**Explanation:** With + noun phrase + past participle supplies a background circumstance without saying who caused it.
+**Explanation:** 'With' + noun phrase + past participle supplies a background circumstance without saying who caused it.
 
 **Choice feedback:**
 
 - **The audience blocked the emergency exit by using the side doors.:** This turns the blockage into a result of the audience's action and assigns them responsibility.
 - **The audience used the side doors in order to block the emergency exit.:** This changes the background state into a purpose.
-- **The emergency exit was blocked when the audience used the side doors.:** With + noun phrase + past participle supplies a background circumstance without saying who caused it.
+- **The emergency exit was blocked when the audience used the side doors.:** 'With' + noun phrase + past participle supplies a background circumstance without saying who caused it.
 - **The emergency exit became blocked only after the audience had left.:** This shifts the blockage to a later event rather than the circumstance of using the side doors.
 
 **Decision:** replaced.
@@ -2200,19 +2200,19 @@ ID: `coverage-advanced-sentence-structure-b2-309`
 
 The scanner stores the pages. It also converts the printed words into searchable text.
 
-Which sentence uses not only ... but also to link those two actions by the scanner?
+Which sentence uses 'not only ... but also' to link those two actions by the scanner?
 
 1. Not only the scanner but also the copier stores the pages.
 2. The scanner not only stores pages but also creates searchable text. **[Correct]**
 3. The scanner stores not only pages but also converted text.
 4. The scanner stores pages not only locally but also online.
 
-**Explanation:** The paired expression coordinates two verb phrases with the shared subject the scanner.
+**Explanation:** The paired expression coordinates two verb phrases with the shared subject 'the scanner'.
 
 **Choice feedback:**
 
 - **Not only the scanner but also the copier stores the pages.:** This coordinates two devices as subjects rather than the scanner's two actions.
-- **The scanner not only stores pages but also creates searchable text.:** The paired expression coordinates two verb phrases with the shared subject the scanner.
+- **The scanner not only stores pages but also creates searchable text.:** The paired expression coordinates two verb phrases with the shared subject 'the scanner'.
 - **The scanner stores not only pages but also converted text.:** This coordinates stored objects rather than the actions of storing and converting.
 - **The scanner stores pages not only locally but also online.:** This coordinates storage locations, not the two stated actions.
 
@@ -2232,21 +2232,21 @@ ID: `coverage-advanced-sentence-structure-b2-310`
 
 Whether you book online or call the box office, the booking fee is the same.
 
-Which paraphrase keeps the role of whether ... or in this sentence?
+Which paraphrase keeps the role of 'whether ... or' in this sentence?
 
 1. The writer does not know which method carries a booking fee.
 2. Calling the box office is necessary before an online booking is valid.
 3. The two methods must be used together to obtain the stated fee.
 4. The booking method does not change the fee between these two options. **[Correct]**
 
-**Explanation:** Whether ... or presents alternative circumstances under which the same main statement applies.
+**Explanation:** 'Whether ... or' presents alternative circumstances under which the same main statement applies.
 
 **Choice feedback:**
 
-- **The writer does not know which method carries a booking fee.:** Here whether does not introduce the writer's uncertainty; both alternatives share the same fee.
+- **The writer does not know which method carries a booking fee.:** Here 'whether' does not introduce the writer's uncertainty; both alternatives share the same fee.
 - **Calling the box office is necessary before an online booking is valid.:** The construction presents alternatives, not sequential requirements.
-- **The two methods must be used together to obtain the stated fee.:** Or separates alternatives; it does not require using both methods.
-- **The booking method does not change the fee between these two options.:** Whether ... or presents alternative circumstances under which the same main statement applies.
+- **The two methods must be used together to obtain the stated fee.:** 'Or' separates alternatives; it does not require using both methods.
+- **The booking method does not change the fee between these two options.:** 'Whether ... or' presents alternative circumstances under which the same main statement applies.
 
 **Decision:** replaced.
 
@@ -2488,7 +2488,7 @@ ID: `coverage-advanced-sentence-structure-b2-318`
 
 A pipe burst, flooding the cellar.
 
-Expand flooding as the result of the main event, keeping the stated direction of cause and result.
+Expand 'flooding' as the result of the main event, keeping the stated direction of cause and result.
 
 1. A pipe burst because the cellar had already flooded.
 2. A pipe burst before anyone decided to flood the cellar.
@@ -2586,7 +2586,7 @@ Which full version restores the omitted verb without changing the coordination?
 
 ID: `coverage-advanced-sentence-structure-c1-321`
 
-An account of a restoration begins with the restrictive phrase Only after the varnish had been removed.
+An account of a restoration begins with the restrictive phrase 'Only after the varnish had been removed'.
 
 Choose the grammatically correct continuation in standard written English.
 
@@ -2595,14 +2595,14 @@ Choose the grammatically correct continuation in standard written English.
 3. Only after the varnish had been removed did emerge the original colours.
 4. Only after the varnish had been removed did the original colours emerge. **[Correct]**
 
-**Explanation:** Fronted only after triggers did before the main-clause subject, while the subordinate after-clause keeps its usual order.
+**Explanation:** Fronted 'only after' triggers 'did' before the main-clause subject, while the subordinate after-clause keeps its usual order.
 
 **Choice feedback:**
 
-- **Only after the varnish had been removed the original colours did emerge.:** The fronted restrictive phrase requires auxiliary-subject inversion in the main clause: did the original colours emerge.
+- **Only after the varnish had been removed the original colours did emerge.:** The fronted restrictive phrase requires auxiliary-subject inversion in the main clause: 'did the original colours emerge'.
 - **Only after had the varnish been removed did the original colours emerge.:** The after-clause keeps ordinary subject-auxiliary order; inversion belongs in the main clause, not both clauses.
-- **Only after the varnish had been removed did emerge the original colours.:** With this did construction, the subject goes between did and emerge, not after the lexical verb.
-- **Only after the varnish had been removed did the original colours emerge.:** Fronted only after triggers did before the main-clause subject, while the subordinate after-clause keeps its usual order.
+- **Only after the varnish had been removed did emerge the original colours.:** With this 'did' construction, the subject goes between 'did' and 'emerge', not after the lexical verb.
+- **Only after the varnish had been removed did the original colours emerge.:** Fronted 'only after' triggers 'did' before the main-clause subject, while the subordinate after-clause keeps its usual order.
 
 **Decision:** replaced.
 
@@ -2682,7 +2682,7 @@ Which passive version preserves the predicted state of the hall and its time bou
 
 ID: `coverage-advanced-sentence-structure-c1-324`
 
-Mara declined to sing the encore, which surprised the conductor. The writer wants which to refer to Mara's refusal, not to the encore itself.
+Mara declined to sing the encore, which surprised the conductor. The writer wants 'which' to refer to Mara's refusal, not to the encore itself.
 
 Which revision makes that reference explicit without changing the cause of the surprise?
 
@@ -2691,13 +2691,13 @@ Which revision makes that reference explicit without changing the cause of the s
 3. Mara's refusal to sing the encore surprised the conductor. **[Correct]**
 4. Mara, surprised by the conductor, declined to sing the encore.
 
-**Explanation:** Turning the whole preceding event into the noun phrase Mara's refusal removes the competing noun reference.
+**Explanation:** Turning the whole preceding event into the noun phrase "Mara's refusal" removes the competing noun reference.
 
 **Choice feedback:**
 
-- **The encore that Mara declined to sing surprised the conductor.:** This makes the encore itself the surprising thing, rather than Mara's refusal.
+- **The encore that Mara declined to sing surprised the conductor.:** This makes the encore itself the surprising thing, rather than "Mara's refusal".
 - **Mara declined to sing the encore that had surprised the conductor.:** The relative now identifies an already surprising encore and no longer comments on the refusal.
-- **Mara's refusal to sing the encore surprised the conductor.:** Turning the whole preceding event into the noun phrase Mara's refusal removes the competing noun reference.
+- **Mara's refusal to sing the encore surprised the conductor.:** Turning the whole preceding event into the noun phrase "Mara's refusal" removes the competing noun reference.
 - **Mara, surprised by the conductor, declined to sing the encore.:** This makes Mara the surprised person and changes the direction of the reaction.
 
 **Decision:** replaced.
@@ -2876,7 +2876,7 @@ ID: `coverage-advanced-sentence-structure-c1-330`
 
 Which portrait did the collector say the museum had borrowed for the exhibition?
 
-Which clause relationship accounts for which portrait?
+Which clause relationship accounts for 'which portrait'?
 
 1. It is the object of say; the museum clause explains how the collector spoke.
 2. It is the subject of had borrowed, replacing the museum.
@@ -2887,9 +2887,9 @@ Which clause relationship accounts for which portrait?
 
 **Choice feedback:**
 
-- **It is the object of say; the museum clause explains how the collector spoke.:** The collector said a proposition, not a portrait; the missing object belongs after borrowed.
+- **It is the object of say; the museum clause explains how the collector spoke.:** The collector said a proposition, not a portrait; the missing object belongs after 'borrowed'.
 - **It is the subject of had borrowed, replacing the museum.:** The museum remains the borrower and therefore the embedded subject; the portrait is what was borrowed.
-- **It is the object of for and identifies which exhibition was meant.:** For already has the exhibition as its complement; the question asks about the borrowed artwork.
+- **It is the object of for and identifies which exhibition was meant.:** 'For' already has 'the exhibition' as its complement; the question asks about the borrowed artwork.
 - **It is understood as the object of borrowed inside the clause after say.:** The question phrase is fronted across the reporting clause: the museum had borrowed that portrait.
 
 **Decision:** replaced.
@@ -2938,7 +2938,7 @@ How do the two that-clauses differ in structure?
 
 ID: `coverage-advanced-sentence-structure-c1-332`
 
-'The technicians who had worked overnight were given the afternoon off.' An editor adds commas around who had worked overnight.
+'The technicians who had worked overnight were given the afternoon off.' An editor adds commas around 'who had worked overnight'.
 
 In ordinary edited prose, what distinction does that change most directly affect?
 
@@ -2953,7 +2953,7 @@ In ordinary edited prose, what distinction does that change most directly affect
 
 - **Whether the overnight work identifies the relevant technicians or supplies extra information about them.:** Without commas the relative selects the technicians being discussed; commas present the overnight work as supplementary information about an already identified group.
 - **Whether the technicians worked before or after they received the afternoon off.:** The past perfect still places the work earlier; the commas do not reverse the event order.
-- **Whether the technicians granted time off or received it from someone else.:** Were given remains passive in either version, so the technicians remain the recipients.
+- **Whether the technicians granted time off or received it from someone else.:** 'Were given' remains passive in either version, so the technicians remain the recipients.
 - **Whether the afternoon off was a promised reward or an action that actually occurred.:** Neither punctuation pattern introduces a promise; both versions report that time off was given.
 
 **Decision:** replaced.
@@ -3164,7 +3164,7 @@ ID: `coverage-advanced-sentence-structure-c1-339`
 
 The engineers designed, and the volunteers built, a footbridge across the stream.
 
-How is a footbridge across the stream connected to the coordinated clauses?
+How is 'a footbridge across the stream' connected to the coordinated clauses?
 
 1. It is the subject of built but the object of designed.
 2. It modifies the stream and leaves both verbs without an expressed object.
@@ -3175,8 +3175,8 @@ How is a footbridge across the stream connected to the coordinated clauses?
 
 **Choice feedback:**
 
-- **It is the subject of built but the object of designed.:** The volunteers are the subject of built; the footbridge is what they built.
-- **It modifies the stream and leaves both verbs without an expressed object.:** Across the stream modifies the footbridge; the whole noun phrase supplies the object understood with each verb.
+- **It is the subject of built but the object of designed.:** The volunteers are the subject of 'built'; the footbridge is what they built.
+- **It modifies the stream and leaves both verbs without an expressed object.:** 'Across the stream' modifies the footbridge; the whole noun phrase supplies the object understood with each verb.
 - **It is the shared object of designed and built.:** The object is placed after both clauses but is understood with each: engineers designed the footbridge and volunteers built it.
 - **It is the object only of built, so the design's object is unspecified.:** The delayed noun phrase is shared by both coordinated predicates; the sentence says what the engineers designed as well.
 
@@ -3520,7 +3520,7 @@ ID: `coverage-advanced-sentence-structure-c2-350`
 
 Not until the doors had closed did the presenter realize that the interpreter was still outside.
 
-Which statement correctly locates the force of not until in this sentence?
+Which statement correctly locates the force of 'not until' in this sentence?
 
 1. It denies that the doors closed before the interpreter came inside.
 2. It makes the interpreter's being outside begin when the doors closed.
@@ -3532,7 +3532,7 @@ Which statement correctly locates the force of not until in this sentence?
 **Choice feedback:**
 
 - **It denies that the doors closed before the interpreter came inside.:** The restriction applies to the presenter's realization, not to whether or when the interpreter entered.
-- **It makes the interpreter's being outside begin when the doors closed.:** Still outside presents a continuing state; the fronted phrase does not date the start of that state.
+- **It makes the interpreter's being outside begin when the doors closed.:** 'Still outside' presents a continuing state; the fronted phrase does not date the start of that state.
 - **It denies the presenter's eventual realization, despite the closure of the doors.:** The construction reports a realization at or after the boundary, rather than denying that it occurred.
 - **It excludes an earlier realization, while the that-clause gives what was realized.:** The time restriction attaches to the main-clause realization; inversion does not move it inside the content clause.
 
@@ -3582,7 +3582,7 @@ Which grammatical arrangement satisfies that information-order goal?
 
 ID: `coverage-advanced-sentence-structure-c2-352`
 
-'Some envelopes were unmarked, the rest bearing only initials.' A proofreader says that bearing must become bore because every clause needs a finite verb.
+'Some envelopes were unmarked, the rest bearing only initials.' A proofreader says that 'bearing' must become 'bore' because every clause needs a finite verb.
 
 Which response gives the soundest grammatical assessment of the existing sentence?
 
@@ -3595,10 +3595,10 @@ Which response gives the soundest grammatical assessment of the existing sentenc
 
 **Choice feedback:**
 
-- **The change is required because the rest must agree with a singular finite verb.:** The issue is not singular agreement: the rest refers to the remaining envelopes, and the supplement can be non-finite.
+- **The change is required because the rest must agree with a singular finite verb.:** The issue is not singular agreement: 'the rest' refers to the remaining envelopes, and the supplement can be non-finite.
 - **It is grammatical: the rest is the subject of a non-finite supplement.:** An absolute supplement can have a noun-phrase subject and an ing-form without becoming an independent finite clause.
-- **The sentence is acceptable only if bearing describes the same envelopes as unmarked.:** The rest explicitly introduces a different group and supplies the supplement's own subject.
-- **The sentence is grammatical because bearing is a present-tense verb parallel to were.:** Bearing is non-finite, not a present-tense equivalent of were; accepting the sentence requires recognizing a different clause type.
+- **The sentence is acceptable only if bearing describes the same envelopes as unmarked.:** 'The rest' explicitly introduces a different group and supplies the supplement's own subject.
+- **The sentence is grammatical because bearing is a present-tense verb parallel to were.:** 'Bearing' is non-finite, not a present-tense equivalent of 'were'; accepting the sentence requires recognizing a different clause type.
 
 **Decision:** replaced.
 
@@ -3712,20 +3712,20 @@ ID: `coverage-advanced-sentence-structure-c2-356`
 
 The workshop failed not so much because the tools were old as because nobody knew how to use them.
 
-Which editorial comment accurately describes the not so much ... as construction here?
+Which editorial comment accurately describes the 'not so much ... as' construction here?
 
 1. It makes the second cause conditional on the first cause having been proved false.
 2. It gives equal causal weight to tool age and lack of training.
 3. It makes lack of know-how the stronger explanation without necessarily excluding tool age as a factor. **[Correct]**
 4. It contrasts an early failure caused by old tools with a later failure caused by inexperience.
 
-**Explanation:** The comparative contrast shifts causal emphasis; it is weaker than a categorical not because A but because B rejection.
+**Explanation:** The comparative contrast shifts causal emphasis; it is weaker than a categorical 'not because A but because B' rejection.
 
 **Choice feedback:**
 
 - **It makes the second cause conditional on the first cause having been proved false.:** The construction does not set up a condition or require the first factor to be false.
-- **It gives equal causal weight to tool age and lack of training.:** Not so much ... as expressly ranks the second explanation above the first rather than balancing them equally.
-- **It makes lack of know-how the stronger explanation without necessarily excluding tool age as a factor.:** The comparative contrast shifts causal emphasis; it is weaker than a categorical not because A but because B rejection.
+- **It gives equal causal weight to tool age and lack of training.:** 'Not so much ... as' expressly ranks the second explanation above the first rather than balancing them equally.
+- **It makes lack of know-how the stronger explanation without necessarily excluding tool age as a factor.:** The comparative contrast shifts causal emphasis; it is weaker than a categorical 'not because A but because B' rejection.
 - **It contrasts an early failure caused by old tools with a later failure caused by inexperience.:** Both because-clauses explain the same failure; their order does not create two separate events.
 
 **Decision:** replaced.
@@ -3774,7 +3774,7 @@ Which edit makes those clause boundaries clear without changing who dismissed wh
 
 ID: `coverage-advanced-sentence-structure-c2-358`
 
-'The pianist said that she would record the sonata in June.' The editor wants in June to date the saying, while leaving the recording date unspecified.
+'The pianist said that she would record the sonata in June.' The editor wants 'in June' to date the saying, while leaving the recording date unspecified.
 
 Which revision makes that attachment explicit without asserting that the recording took place?
 
@@ -3806,7 +3806,7 @@ Which revision makes that attachment explicit without asserting that the recordi
 
 ID: `coverage-advanced-sentence-structure-c2-359`
 
-'The plumber I thought had cancelled arrived at the flat.' A learner proposes adding she after thought because had cancelled otherwise seems to lack a subject.
+'The plumber I thought had cancelled arrived at the flat.' A learner proposes adding 'she' after 'thought' because 'had cancelled' otherwise seems to lack a subject.
 
 Which explanation correctly assesses the original and the proposed addition in standard edited English?
 
@@ -3815,14 +3815,14 @@ Which explanation correctly assesses the original and the proposed addition in s
 3. The original is complete: the relative links plumber to the subject of had cancelled. She would duplicate that role. **[Correct]**
 4. The addition makes no structural difference because she is the subject of arrived.
 
-**Explanation:** The relative can be expanded to the plumber who I thought had cancelled. Its subject relationship crosses the intervening I thought clause.
+**Explanation:** The relative can be expanded to 'the plumber who I thought had cancelled'. Its subject relationship crosses the intervening 'I thought' clause.
 
 **Choice feedback:**
 
-- **The addition is needed because I must be the subject of both thought and had cancelled.:** I is the subject of thought, but the relative refers to the plumber as the person thought to have cancelled.
-- **The original is incomplete because a relative marker can never be omitted before I thought.:** A zero relative is possible here; the embedded subject dependency should not be confused with simply omitting who in who had cancelled.
-- **The original is complete: the relative links plumber to the subject of had cancelled. She would duplicate that role.:** The relative can be expanded to the plumber who I thought had cancelled. Its subject relationship crosses the intervening I thought clause.
-- **The addition makes no structural difference because she is the subject of arrived.:** Arrived already has the whole noun phrase the plumber ... as its subject; an inserted she after thought would sit inside the relative clause.
+- **The addition is needed because I must be the subject of both thought and had cancelled.:** 'I' is the subject of 'thought', but the relative refers to the plumber as the person thought to have cancelled.
+- **The original is incomplete because a relative marker can never be omitted before I thought.:** A zero relative is possible here; the embedded subject dependency should not be confused with simply omitting 'who' in 'who had cancelled'.
+- **The original is complete: the relative links plumber to the subject of had cancelled. She would duplicate that role.:** The relative can be expanded to 'the plumber who I thought had cancelled'. Its subject relationship crosses the intervening 'I thought' clause.
+- **The addition makes no structural difference because she is the subject of arrived.:** 'Arrived' already has the whole noun phrase 'the plumber ...' as its subject; an inserted 'she' after 'thought' would sit inside the relative clause.
 
 **Decision:** replaced.
 

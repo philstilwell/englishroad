@@ -686,7 +686,7 @@ What has happened?
 
 ID: `coverage-meaning-in-context-a2-1822`
 
-Before closing the document, click Save so your changes are there when you open it again.
+Before closing the document, click 'Save' so your changes are there when you open it again.
 
 What does 'Save' do in this instruction?
 
@@ -695,14 +695,14 @@ What does 'Save' do in this instruction?
 3. It removes the document from the computer.
 4. It makes the document shorter.
 
-**Explanation:** Opening the document again with the changes present is the clue to the computer meaning of save.
+**Explanation:** Opening the document again with the changes present is the clue to the computer meaning of 'save'.
 
 **Choice feedback:**
 
-- **It stores the changes for later use.:** Opening the document again with the changes present is the clue to the computer meaning of save.
+- **It stores the changes for later use.:** Opening the document again with the changes present is the clue to the computer meaning of 'save'.
 - **It sends the document to another person.:** Saving stores changes; sending requires a separate action not described here.
 - **It removes the document from the computer.:** The changes are to remain available, not be deleted.
-- **It makes the document shorter.:** Save concerns storing the current document, not shortening its contents.
+- **It makes the document shorter.:** 'Save' concerns storing the current document, not shortening its contents.
 
 **Decision:** replaced.
 

@@ -98,7 +98,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-a1-964",
       "level": "A1",
-      "setupText": "Choose the noun that agrees with these in standard English.",
+      "setupText": "Choose the noun that agrees with 'these' in standard English.",
       "taskText": "These ___ are comfortable to sit on.",
       "options": [
         "furniture",
@@ -107,12 +107,12 @@
         "equipment"
       ],
       "answer": "chairs",
-      "explanation": "Chairs names separate seats and has the plural form required by these and are.",
+      "explanation": "'Chairs' names separate seats and has the plural form required by 'these' and 'are'.",
       "rationales": {
-        "chairs": "Chairs names separate seats and has the plural form required by these and are.",
-        "furniture": "Furniture is uncountable; say this furniture is comfortable.",
-        "seating": "Seating names seats collectively; this seating is would fit that noun.",
-        "equipment": "Equipment is uncountable in this meaning and cannot follow these directly."
+        "chairs": "'Chairs' names separate seats and has the plural form required by 'these' and 'are'.",
+        "furniture": "'Furniture' is uncountable; say 'this furniture is comfortable'.",
+        "seating": "'Seating' names seats collectively; 'this seating is' would fit that noun.",
+        "equipment": "'Equipment' is uncountable in this meaning and cannot follow 'these' directly."
       },
       "audit": {
         "status": "reviewed",
@@ -129,7 +129,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-a1-965",
       "level": "A1",
-      "setupText": "Choose the sentence about the cooked rice in one bowl, using rice as an uncountable food noun.",
+      "setupText": "Choose the sentence about the cooked rice in one bowl, using 'rice' as an uncountable food noun.",
       "taskText": "Dinner is ready.",
       "options": [
         "The rice are hot.",
@@ -138,12 +138,12 @@
         "The rice is hot."
       ],
       "answer": "The rice is hot.",
-      "explanation": "Rice names the food as an amount here, so it takes singular is.",
+      "explanation": "'Rice' names the food as an amount here, so it takes singular 'is'.",
       "rationales": {
-        "The rice are hot.": "Uncountable rice takes is, even though it contains many small grains.",
-        "The rice is hot.": "Rice names the food as an amount here, so it takes singular is.",
-        "These rice are hot.": "These needs a plural countable noun, such as grains, not rice in this use.",
-        "A rice is hot.": "A rice would name a type in a special context; the task concerns the cooked food as an amount."
+        "The rice are hot.": "Uncountable 'rice' takes 'is', even though it contains many small grains.",
+        "The rice is hot.": "'Rice' names the food as an amount here, so it takes singular 'is'.",
+        "These rice are hot.": "'These' needs a plural countable noun, such as 'grains', not 'rice' in this use.",
+        "A rice is hot.": "'A rice' would name a type in a special context; the task concerns the cooked food as an amount."
       },
       "audit": {
         "status": "reviewed",
@@ -315,7 +315,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-a1-971",
       "level": "A1",
-      "setupText": "Choose the noun phrase that agrees with these.",
+      "setupText": "Choose the noun phrase that agrees with 'these'.",
       "taskText": "Please put these ___ in the storeroom.",
       "options": [
         "box",
@@ -324,12 +324,12 @@
         "some box"
       ],
       "answer": "boxes",
-      "explanation": "Boxes is the plural of box and agrees with these.",
+      "explanation": "'Boxes' is the plural of 'box' and agrees with 'these'.",
       "rationales": {
-        "box": "These refers to more than one, so use boxes.",
-        "a box": "A box is singular and cannot follow these.",
-        "some box": "Some box is a singular indefinite phrase and cannot be added after these.",
-        "boxes": "Boxes is the plural of box and agrees with these."
+        "box": "'These' refers to more than one, so use 'boxes'.",
+        "a box": "'A box' is singular and cannot follow 'these'.",
+        "some box": "'Some box' is a singular indefinite phrase and cannot be added after 'these'.",
+        "boxes": "'Boxes' is the plural of 'box' and agrees with 'these'."
       },
       "audit": {
         "status": "reviewed",
@@ -997,7 +997,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-a2-993",
       "level": "A2",
-      "setupText": "Choose the normal meaning of coffees in this cafe order.",
+      "setupText": "Choose the normal meaning of 'coffees' in this cafe order.",
       "taskText": "Two coffees, please, one for me and one for my colleague.",
       "options": [
         "Two kinds of coffee beans.",
@@ -1006,12 +1006,12 @@
         "An amount of coffee with no number of drinks specified."
       ],
       "answer": "Two servings of coffee.",
-      "explanation": "In cafe orders, coffees commonly counts cups or servings of the drink.",
+      "explanation": "In cafe orders, 'coffees' commonly counts cups or servings of the drink.",
       "rationales": {
-        "Two kinds of coffee beans.": "Coffees can name varieties elsewhere, but one drink for each person makes servings the relevant meaning here.",
-        "Two packets of ground coffee.": "Packets would need to be specified; the ordinary cafe order uses coffees for prepared drinks.",
-        "Two servings of coffee.": "In cafe orders, coffees commonly counts cups or servings of the drink.",
-        "An amount of coffee with no number of drinks specified.": "Two gives an exact serving count, even though the drink's volume is not stated."
+        "Two kinds of coffee beans.": "'Coffees' can name varieties elsewhere, but one drink for each person makes servings the relevant meaning here.",
+        "Two packets of ground coffee.": "Packets would need to be specified; the ordinary cafe order uses 'coffees' for prepared drinks.",
+        "Two servings of coffee.": "In cafe orders, 'coffees' commonly counts cups or servings of the drink.",
+        "An amount of coffee with no number of drinks specified.": "'Two' gives an exact serving count, even though the drink's volume is not stated."
       },
       "audit": {
         "status": "reviewed",
@@ -1090,7 +1090,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-a2-996",
       "level": "A2",
-      "setupText": "Choose the continuation that refers directly to furniture in standard English.",
+      "setupText": "Choose the continuation that refers directly to 'furniture' in standard English.",
       "taskText": "We ordered new furniture for the office.",
       "options": [
         "They arrives on Thursday.",
@@ -1099,12 +1099,12 @@
         "These arrives on Thursday."
       ],
       "answer": "It arrives on Thursday.",
-      "explanation": "Furniture is an uncountable noun phrase, so it takes singular reference with it.",
+      "explanation": "'Furniture' is an uncountable noun phrase, so it takes singular reference with 'it'.",
       "rationales": {
-        "It arrives on Thursday.": "Furniture is an uncountable noun phrase, so it takes singular reference with it.",
-        "They arrives on Thursday.": "They is plural and also requires arrive; it does not agree with the noun furniture.",
-        "It arrive on Thursday.": "It needs the singular present verb arrives.",
-        "These arrives on Thursday.": "These is plural and cannot pair with arrives or directly refer back to furniture as a mass noun."
+        "It arrives on Thursday.": "'Furniture' is an uncountable noun phrase, so it takes singular reference with 'it'.",
+        "They arrives on Thursday.": "'They' is plural and also requires 'arrive'; it does not agree with the noun 'furniture'.",
+        "It arrive on Thursday.": "'It' needs the singular present verb 'arrives'.",
+        "These arrives on Thursday.": "'These' is plural and cannot pair with 'arrives' or directly refer back to 'furniture' as a mass noun."
       },
       "audit": {
         "status": "reviewed",
@@ -1307,7 +1307,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b1-1003",
       "level": "B1",
-      "setupText": "Choose the meaning of room in this sentence.",
+      "setupText": "Choose the meaning of 'room' in this sentence.",
       "taskText": "The lift is full, so there is no room for another suitcase.",
       "options": [
         "A separate part of a building.",
@@ -1316,12 +1316,12 @@
         "A hotel booking."
       ],
       "answer": "Available space.",
-      "explanation": "Room is uncountable when it means space or capacity; no room means no space available.",
+      "explanation": "'Room' is uncountable when it means space or capacity; 'no room' means no space available.",
       "rationales": {
-        "A separate part of a building.": "That is the countable meaning of a room; this sentence concerns space inside a lift.",
-        "An additional lift.": "Room does not name another lift; it describes capacity within the existing one.",
-        "A hotel booking.": "A room can be booked at a hotel, but no room for a suitcase concerns physical space.",
-        "Available space.": "Room is uncountable when it means space or capacity; no room means no space available."
+        "A separate part of a building.": "That is the countable meaning of 'a room'; this sentence concerns space inside a lift.",
+        "An additional lift.": "'Room' does not name another lift; it describes capacity within the existing one.",
+        "A hotel booking.": "A room can be booked at a hotel, but 'no room for a suitcase' concerns physical space.",
+        "Available space.": "'Room' is uncountable when it means space or capacity; 'no room' means no space available."
       },
       "audit": {
         "status": "reviewed",
@@ -1493,7 +1493,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b1-1009",
       "level": "B1",
-      "setupText": "Choose the meaning of coffees in this supplier's description.",
+      "setupText": "Choose the meaning of 'coffees' in this supplier's description.",
       "taskText": "The catalogue compares coffees grown in three different regions, with notes on each variety's flavor.",
       "options": [
         "Individual beans from one bag.",
@@ -1504,7 +1504,7 @@
       "answer": "Different varieties of coffee.",
       "explanation": "A normally uncountable drink noun can be plural when distinct kinds or varieties are being compared.",
       "rationales": {
-        "Individual beans from one bag.": "Coffees does not count individual beans; the catalogue contrasts regional varieties.",
+        "Individual beans from one bag.": "'Coffees' does not count individual beans; the catalogue contrasts regional varieties.",
         "Different varieties of coffee.": "A normally uncountable drink noun can be plural when distinct kinds or varieties are being compared.",
         "Cups ordered by three customers.": "Serving counts are possible in a cafe, but the regional varieties in this catalogue establish a types meaning.",
         "The total amount of coffee produced.": "The plural and the notes on each variety divide coffee into kinds rather than giving one total amount."
@@ -1586,7 +1586,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b1-1012",
       "level": "B1",
-      "setupText": "Choose the meaning of a wood in this British English description.",
+      "setupText": "Choose the meaning of 'a wood' in this British English description.",
       "taskText": "A footpath runs through a wood behind the village.",
       "options": [
         "Timber used for construction.",
@@ -1595,12 +1595,12 @@
         "A wooden object on the path."
       ],
       "answer": "An area covered with trees.",
-      "explanation": "In British English, a wood can mean an area of trees; this is a countable place meaning.",
+      "explanation": "In British English, 'a wood' can mean an area of trees; this is a countable place meaning.",
       "rationales": {
-        "Timber used for construction.": "Wood without an article can mean timber, but a wood here names a place a path can cross.",
-        "An area covered with trees.": "In British English, a wood can mean an area of trees; this is a countable place meaning.",
-        "One tree that has fallen.": "A wood names a wooded area, not one individual tree or log.",
-        "A wooden object on the path.": "The path runs through an area; a wood is not a general name for a wooden object."
+        "Timber used for construction.": "'Wood' without an article can mean timber, but 'a wood' here names a place a path can cross.",
+        "An area covered with trees.": "In British English, 'a wood' can mean an area of trees; this is a countable place meaning.",
+        "One tree that has fallen.": "'A wood' names a wooded area, not one individual tree or log.",
+        "A wooden object on the path.": "The path runs through an area; 'a wood' is not a general name for a wooden object."
       },
       "audit": {
         "status": "reviewed",
@@ -1617,7 +1617,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b1-1013",
       "level": "B1",
-      "setupText": "Choose the sentence that keeps accommodation as an uncountable noun, as is usual in British English for lodging.",
+      "setupText": "Choose the sentence that keeps 'accommodation' as an uncountable noun, as is usual in British English for lodging.",
       "taskText": "The training centre has somewhere for visiting tutors to stay.",
       "options": [
         "Accommodations are available for visiting tutors.",
@@ -1626,12 +1626,12 @@
         "Accommodation are available for visiting tutors."
       ],
       "answer": "Accommodation is available for visiting tutors.",
-      "explanation": "Accommodation can name lodging as an uncountable provision in British English, so is agrees with it.",
+      "explanation": "'Accommodation' can name lodging as an uncountable provision in British English, so 'is' agrees with it.",
       "rationales": {
-        "Accommodations are available for visiting tutors.": "Plural accommodations is common for lodging in American English, but it does not meet this task's stated uncountable British usage.",
-        "An accommodation is available for visiting tutors.": "The task asks for lodging as an uncountable provision, not an individual arrangement introduced with an.",
-        "Accommodation are available for visiting tutors.": "Uncountable accommodation takes singular is in this construction.",
-        "Accommodation is available for visiting tutors.": "Accommodation can name lodging as an uncountable provision in British English, so is agrees with it."
+        "Accommodations are available for visiting tutors.": "Plural 'accommodations' is common for lodging in American English, but it does not meet this task's stated uncountable British usage.",
+        "An accommodation is available for visiting tutors.": "The task asks for lodging as an uncountable provision, not an individual arrangement introduced with 'an'.",
+        "Accommodation are available for visiting tutors.": "Uncountable 'accommodation' takes singular 'is' in this construction.",
+        "Accommodation is available for visiting tutors.": "'Accommodation' can name lodging as an uncountable provision in British English, so 'is' agrees with it."
       },
       "audit": {
         "status": "reviewed",
@@ -1648,7 +1648,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b1-1014",
       "level": "B1",
-      "setupText": "Choose the verb phrase that agrees with equipment in standard English.",
+      "setupText": "Choose the verb phrase that agrees with 'equipment' in standard English.",
       "taskText": "The equipment, including two cameras and a microphone, ___.",
       "options": [
         "are insured",
@@ -1657,12 +1657,12 @@
         "were insured"
       ],
       "answer": "is insured",
-      "explanation": "Equipment is the uncountable subject; the intervening list does not change its singular agreement.",
+      "explanation": "'Equipment' is the uncountable subject; the intervening list does not change its singular agreement.",
       "rationales": {
-        "is insured": "Equipment is the uncountable subject; the intervening list does not change its singular agreement.",
-        "are insured": "Are would agree with cameras and a microphone as the subject, but those words only give examples of the equipment.",
-        "have been insured": "Have requires a plural subject here; uncountable equipment takes has been insured.",
-        "were insured": "Were does not agree with singular equipment in this statement; was would be the singular past form."
+        "is insured": "'Equipment' is the uncountable subject; the intervening list does not change its singular agreement.",
+        "are insured": "'Are' would agree with 'cameras and a microphone' as the subject, but those words only give examples of the equipment.",
+        "have been insured": "'Have' requires a plural subject here; uncountable 'equipment' takes 'has been insured'.",
+        "were insured": "'Were' does not agree with singular 'equipment' in this statement; 'was' would be the singular past form."
       },
       "audit": {
         "status": "reviewed",
@@ -1710,7 +1710,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b1-1016",
       "level": "B1",
-      "setupText": "Choose the sentence that reports improvement using progress in its ordinary uncountable sense.",
+      "setupText": "Choose the sentence that reports improvement using 'progress' in its ordinary uncountable sense.",
       "taskText": "The prototype now runs faster and uses less power.",
       "options": [
         "We have made good progress.",
@@ -1719,12 +1719,12 @@
         "We have made three progresses."
       ],
       "answer": "We have made good progress.",
-      "explanation": "Progress names improvement as a process or amount; it does not need an indefinite article.",
+      "explanation": "'Progress' names improvement as a process or amount; it does not need an indefinite article.",
       "rationales": {
-        "We have made a good progress.": "Progress does not take a in this ordinary improvement meaning.",
-        "We have made several progress.": "Several needs a plural count noun, such as improvements or advances.",
-        "We have made good progress.": "Progress names improvement as a process or amount; it does not need an indefinite article.",
-        "We have made three progresses.": "To count specific improvements, say three improvements or advances rather than progresses in this use."
+        "We have made a good progress.": "'Progress' does not take 'a' in this ordinary improvement meaning.",
+        "We have made several progress.": "'Several' needs a plural count noun, such as 'improvements' or 'advances'.",
+        "We have made good progress.": "'Progress' names improvement as a process or amount; it does not need an indefinite article.",
+        "We have made three progresses.": "To count specific improvements, say 'three improvements or advances' rather than 'progresses' in this use."
       },
       "audit": {
         "status": "reviewed",
@@ -1772,7 +1772,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b1-1018",
       "level": "B1",
-      "setupText": "Choose the meaning of trouble in this sentence.",
+      "setupText": "Choose the meaning of 'trouble' in this sentence.",
       "taskText": "We had trouble opening the old archive files.",
       "options": [
         "A named technical fault that the sentence identifies.",
@@ -1781,11 +1781,11 @@
         "A disagreement between the people opening the files."
       ],
       "answer": "Difficulty carrying out the task.",
-      "explanation": "Have trouble doing something uses trouble as uncountable difficulty with an action.",
+      "explanation": "'Have trouble doing something' uses 'trouble' as uncountable difficulty with an action.",
       "rationales": {
-        "Difficulty carrying out the task.": "Have trouble doing something uses trouble as uncountable difficulty with an action.",
+        "Difficulty carrying out the task.": "'Have trouble doing something' uses 'trouble' as uncountable difficulty with an action.",
         "A named technical fault that the sentence identifies.": "The sentence reports difficulty but does not name a particular fault.",
-        "Several separate problems that have been counted.": "Troubles can name separate worries or problems, but uncountable trouble here supplies no count.",
+        "Several separate problems that have been counted.": "'Troubles' can name separate worries or problems, but uncountable 'trouble' here supplies no count.",
         "A disagreement between the people opening the files.": "The difficulty is linked to opening files, not to a stated interpersonal dispute."
       },
       "audit": {
@@ -1803,7 +1803,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b1-1019",
       "level": "B1",
-      "setupText": "Choose the interpretation of a success in this assessment.",
+      "setupText": "Choose the interpretation of 'a success' in this assessment.",
       "taskText": "Despite the late change of venue, the conference was a success.",
       "options": [
         "Only the change of venue was successful.",
@@ -1812,12 +1812,12 @@
         "The conference had been expected to succeed before the venue changed."
       ],
       "answer": "The conference was a successful event.",
-      "explanation": "A success can be a countable use describing a person, event or project that succeeds.",
+      "explanation": "'A success' can be a countable use describing a person, event or project that succeeds.",
       "rationales": {
-        "Only the change of venue was successful.": "A success describes the conference itself, not just the practical change of venue.",
-        "The conference was a successful event.": "A success can be a countable use describing a person, event or project that succeeds.",
-        "The conference succeeded because its venue was changed.": "Despite introduces a difficulty overcome, not the stated cause of the event's success.",
-        "The conference had been expected to succeed before the venue changed.": "Was a success reports the outcome; it does not tell us what people expected beforehand."
+        "Only the change of venue was successful.": "'A success' describes the conference itself, not just the practical change of venue.",
+        "The conference was a successful event.": "'A success' can be a countable use describing a person, event or project that succeeds.",
+        "The conference succeeded because its venue was changed.": "'Despite' introduces a difficulty overcome, not the stated cause of the event's success.",
+        "The conference had been expected to succeed before the venue changed.": "'Was a success' reports the outcome; it does not tell us what people expected beforehand."
       },
       "audit": {
         "status": "reviewed",
@@ -1896,7 +1896,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1022",
       "level": "B2",
-      "setupText": "The journal treats data as plural. Choose consistent wording in which the later pronoun refers to the data, not the trend.",
+      "setupText": "The journal treats 'data' as plural. Choose consistent wording in which the later pronoun refers to the data, not the trend.",
       "taskText": "The results paragraph needs an opening sentence.",
       "options": [
         "This data suggests a trend, but it remains incomplete.",
@@ -1905,12 +1905,12 @@
         "These data suggest a trend, but it remains incomplete."
       ],
       "answer": "These data suggest a trend, but they remain incomplete.",
-      "explanation": "These, suggest and they consistently treat data as plural, as the journal requires.",
+      "explanation": "'These', 'suggest' and 'they' consistently treat 'data' as plural, as the journal requires.",
       "rationales": {
-        "This data suggests a trend, but it remains incomplete.": "This is consistent with a modern mass-noun use of data, but not with the journal's explicitly plural convention.",
-        "These data suggests a trend, but they remain incomplete.": "These and they follow the plural convention, but the verb must be suggest rather than suggests.",
-        "These data suggest a trend, but they remain incomplete.": "These, suggest and they consistently treat data as plural, as the journal requires.",
-        "These data suggest a trend, but it remains incomplete.": "The plural opening is followed by singular it; use they to keep reference consistent under this style."
+        "This data suggests a trend, but it remains incomplete.": "This is consistent with a modern mass-noun use of 'data', but not with the journal's explicitly plural convention.",
+        "These data suggests a trend, but they remain incomplete.": "'These' and 'they' follow the plural convention, but the verb must be 'suggest' rather than 'suggests'.",
+        "These data suggest a trend, but they remain incomplete.": "'These', 'suggest' and 'they' consistently treat 'data' as plural, as the journal requires.",
+        "These data suggest a trend, but it remains incomplete.": "The plural opening is followed by singular 'it'; use 'they' to keep reference consistent under this style."
       },
       "audit": {
         "status": "reviewed",
@@ -1927,7 +1927,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1023",
       "level": "B2",
-      "setupText": "Choose the reading of supports that fits the inspection report.",
+      "setupText": "Choose the reading of 'supports' that fits the inspection report.",
       "taskText": "Two of the wooden supports beneath the platform need replacing.",
       "options": [
         "Two expressions of approval for the platform.",
@@ -1936,12 +1936,12 @@
         "The platform's overall ability to remain stable."
       ],
       "answer": "Two load-bearing parts of the structure.",
-      "explanation": "A support can be a physical part holding something up; supports counts those separate components.",
+      "explanation": "'A support' can be a physical part holding something up; 'supports' counts those separate components.",
       "rationales": {
-        "Two expressions of approval for the platform.": "Support can mean approval, but wooden and beneath the platform identify physical structural parts.",
+        "Two expressions of approval for the platform.": "'Support' can mean approval, but 'wooden' and 'beneath the platform' identify physical structural parts.",
         "Two amounts of help with the replacement work.": "The supports are what need replacing, not assistance with the task.",
         "The platform's overall ability to remain stable.": "The plural noun counts particular components rather than the structure's support considered as a whole.",
-        "Two load-bearing parts of the structure.": "A support can be a physical part holding something up; supports counts those separate components."
+        "Two load-bearing parts of the structure.": "'A support' can be a physical part holding something up; 'supports' counts those separate components."
       },
       "audit": {
         "status": "reviewed",
@@ -1958,7 +1958,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1024",
       "level": "B2",
-      "setupText": "Choose the pair that uses content for material on a website and contents for items inside a box.",
+      "setupText": "Choose the pair that uses 'content' for material on a website and 'contents' for items inside a box.",
       "taskText": "The website's ___ has changed, but the box's ___ are untouched.",
       "options": [
         "contents / content",
@@ -1967,12 +1967,12 @@
         "a content / contents"
       ],
       "answer": "content / contents",
-      "explanation": "Content can name website material collectively; contents names the items contained in a box and takes plural are.",
+      "explanation": "'Content' can name website material collectively; 'contents' names the items contained in a box and takes plural 'are'.",
       "rationales": {
-        "content / contents": "Content can name website material collectively; contents names the items contained in a box and takes plural are.",
-        "contents / content": "This reverses the specified meanings and conflicts with has in the first clause and are in the second.",
-        "content / a content": "A content does not name one physical item in a box in this ordinary use.",
-        "a content / contents": "The website's a content combines a possessive with an incompatible article; use content for the collective material."
+        "content / contents": "'Content' can name website material collectively; 'contents' names the items contained in a box and takes plural 'are'.",
+        "contents / content": "This reverses the specified meanings and conflicts with 'has' in the first clause and 'are' in the second.",
+        "content / a content": "'A content' does not name one physical item in a box in this ordinary use.",
+        "a content / contents": "\"The website's a content\" combines a possessive with an incompatible article; use 'content' for the collective material."
       },
       "audit": {
         "status": "reviewed",
@@ -1989,7 +1989,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1025",
       "level": "B2",
-      "setupText": "Choose the sentence that treats statistics first as a subject of study and then as numerical figures.",
+      "setupText": "Choose the sentence that treats 'statistics' first as a subject of study and then as numerical figures.",
       "taskText": "The course concerns statistical methods; the report supplies figures that may be unreliable.",
       "options": [
         "Statistics is central to the course, but the report's statistics are unreliable.",
@@ -1998,12 +1998,12 @@
         "Statistics is central to the course, but the report's a statistic are unreliable."
       ],
       "answer": "Statistics is central to the course, but the report's statistics are unreliable.",
-      "explanation": "Statistics as a discipline takes singular is; statistics as separate figures takes plural are.",
+      "explanation": "'Statistics' as a discipline takes singular 'is'; 'statistics' as separate figures takes plural 'are'.",
       "rationales": {
         "Statistics are central to the course, but the report's statistics is unreliable.": "This reverses the agreement required by the specified discipline and figures meanings.",
-        "Statistics is central to the course, but the report's statistics are unreliable.": "Statistics as a discipline takes singular is; statistics as separate figures takes plural are.",
-        "A statistics is central to the course, but the report's statistics are unreliable.": "Use statistics without a for the discipline; a statistic would mean one numerical fact.",
-        "Statistics is central to the course, but the report's a statistic are unreliable.": "A statistic would be one figure with singular is, and cannot follow the possessive report's in this form."
+        "Statistics is central to the course, but the report's statistics are unreliable.": "'Statistics' as a discipline takes singular 'is'; 'statistics' as separate figures takes plural 'are'.",
+        "A statistics is central to the course, but the report's statistics are unreliable.": "Use 'statistics' without 'a' for the discipline; 'a statistic' would mean one numerical fact.",
+        "Statistics is central to the course, but the report's a statistic are unreliable.": "'A statistic' would be one figure with singular 'is', and cannot follow the possessive \"report's\" in this form."
       },
       "audit": {
         "status": "reviewed",
@@ -2020,7 +2020,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1026",
       "level": "B2",
-      "setupText": "Choose the statement that distinguishes the two uses of customs accurately.",
+      "setupText": "Choose the statement that distinguishes the two uses of 'customs' accurately.",
       "taskText": "The guide explains local customs and gives advice about going through customs at the airport.",
       "options": [
         "Local customs are traditions; airport customs is the border-control service.",
@@ -2029,11 +2029,11 @@
         "Local customs means a single tradition; airport customs means several borders."
       ],
       "answer": "Local customs are traditions; airport customs is the border-control service.",
-      "explanation": "Customs counts practices in the first phrase but names the border service in the second; identical spelling does not guarantee the same noun sense.",
+      "explanation": "'Customs' counts practices in the first phrase but names the border service in the second; identical spelling does not guarantee the same noun sense.",
       "rationales": {
-        "Both uses count local traditions, with the second referring to airport traditions.": "Going through customs is a border procedure, not an example of a local social tradition.",
-        "Both uses name offices where travellers' goods are checked.": "Local customs in the guide refers to cultural practices, not necessarily offices.",
-        "Local customs are traditions; airport customs is the border-control service.": "Customs counts practices in the first phrase but names the border service in the second; identical spelling does not guarantee the same noun sense.",
+        "Both uses count local traditions, with the second referring to airport traditions.": "'Going through customs' is a border procedure, not an example of a local social tradition.",
+        "Both uses name offices where travellers' goods are checked.": "'Local customs' in the guide refers to cultural practices, not necessarily offices.",
+        "Local customs are traditions; airport customs is the border-control service.": "'Customs' counts practices in the first phrase but names the border service in the second; identical spelling does not guarantee the same noun sense.",
         "Local customs means a single tradition; airport customs means several borders.": "The first plural can cover several traditions, while the second names a service rather than counting borders."
       },
       "audit": {
@@ -2082,7 +2082,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1028",
       "level": "B2",
-      "setupText": "Choose what premises refers to in this notice.",
+      "setupText": "Choose what 'premises' refers to in this notice.",
       "taskText": "Visitors must leave these premises by six. The notice is posted at the entrance to one office building.",
       "options": [
         "The property occupied by the office.",
@@ -2091,11 +2091,11 @@
         "The visitors' reasons for entering the office."
       ],
       "answer": "The property occupied by the office.",
-      "explanation": "Premises is a plural-form noun for a building or property; its form does not require several separate buildings.",
+      "explanation": "'Premises' is a plural-form noun for a building or property; its form does not require several separate buildings.",
       "rationales": {
-        "The property occupied by the office.": "Premises is a plural-form noun for a building or property; its form does not require several separate buildings.",
-        "Several assumptions supporting an argument.": "Premises can mean assumptions in reasoning, but a notice about visitors leaving a building uses the property sense.",
-        "Exactly two separate office buildings.": "The plural form premises does not specify a building count, and the context identifies one building.",
+        "The property occupied by the office.": "'Premises' is a plural-form noun for a building or property; its form does not require several separate buildings.",
+        "Several assumptions supporting an argument.": "'Premises' can mean assumptions in reasoning, but a notice about visitors leaving a building uses the property sense.",
+        "Exactly two separate office buildings.": "The plural form 'premises' does not specify a building count, and the context identifies one building.",
         "The visitors' reasons for entering the office.": "The instruction concerns where visitors must leave, not the grounds for their visit."
       },
       "audit": {
@@ -2113,7 +2113,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1029",
       "level": "B2",
-      "setupText": "Choose the interpretation of means in this financial statement.",
+      "setupText": "Choose the interpretation of 'means' in this financial statement.",
       "taskText": "The artist lives within her means, despite earning an irregular income.",
       "options": [
         "She uses only one method to earn her income.",
@@ -2122,12 +2122,12 @@
         "She keeps her spending within her financial resources."
       ],
       "answer": "She keeps her spending within her financial resources.",
-      "explanation": "Means in this expression refers to available financial resources, not a count of methods.",
+      "explanation": "'Means' in this expression refers to available financial resources, not a count of methods.",
       "rationales": {
-        "She uses only one method to earn her income.": "A means can be a method, but within her means concerns spending relative to resources.",
-        "She keeps her spending within her financial resources.": "Means in this expression refers to available financial resources, not a count of methods.",
+        "She uses only one method to earn her income.": "'A means' can be a method, but 'within her means' concerns spending relative to resources.",
+        "She keeps her spending within her financial resources.": "'Means' in this expression refers to available financial resources, not a count of methods.",
         "She lives in a place that provides equipment for artists.": "The expression does not describe a location or equipment.",
-        "She spends the same amount as every other artist.": "Her means refers to her own resources, not a comparison with other artists' spending."
+        "She spends the same amount as every other artist.": "'Her means' refers to her own resources, not a comparison with other artists' spending."
       },
       "audit": {
         "status": "reviewed",
@@ -2144,7 +2144,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1030",
       "level": "B2",
-      "setupText": "Choose the meaning of peoples in the museum description.",
+      "setupText": "Choose the meaning of 'peoples' in the museum description.",
       "taskText": "The exhibition traces the histories of three peoples who have lived in the region.",
       "options": [
         "Three individual residents.",
@@ -2153,12 +2153,12 @@
         "Three generations of the same family."
       ],
       "answer": "Three distinct cultural or national groups.",
-      "explanation": "A people can mean a cultural or national group; peoples is its plural in this historical context.",
+      "explanation": "'A people' can mean a cultural or national group; 'peoples' is its plural in this historical context.",
       "rationales": {
-        "Three individual residents.": "Individual persons would normally be three people; peoples counts groups.",
-        "All residents of the region viewed as one group.": "Three peoples explicitly distinguishes three groups rather than combining the population into one.",
-        "Three distinct cultural or national groups.": "A people can mean a cultural or national group; peoples is its plural in this historical context.",
-        "Three generations of the same family.": "Peoples does not by itself mean family generations; it identifies larger historical or cultural groups."
+        "Three individual residents.": "Individual persons would normally be 'three people'; 'peoples' counts groups.",
+        "All residents of the region viewed as one group.": "'Three peoples' explicitly distinguishes three groups rather than combining the population into one.",
+        "Three distinct cultural or national groups.": "'A people' can mean a cultural or national group; 'peoples' is its plural in this historical context.",
+        "Three generations of the same family.": "'Peoples' does not by itself mean family generations; it identifies larger historical or cultural groups."
       },
       "audit": {
         "status": "reviewed",
@@ -2175,7 +2175,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1031",
       "level": "B2",
-      "setupText": "Choose the interpretation of staff as a counted group, without treating a staff as one employee.",
+      "setupText": "Choose the interpretation of 'staff' as a counted group, without treating 'a staff' as one employee.",
       "taskText": "The new hotel has a staff of thirty, including receptionists and cleaners.",
       "options": [
         "It has thirty departments with separate workforces.",
@@ -2184,12 +2184,12 @@
         "Its workforce consists of thirty employees."
       ],
       "answer": "Its workforce consists of thirty employees.",
-      "explanation": "A staff can name one workforce; of thirty states how many employees belong to that group.",
+      "explanation": "'A staff' can name one workforce; 'of thirty' states how many employees belong to that group.",
       "rationales": {
-        "It has thirty departments with separate workforces.": "Thirty counts the people within a staff, not separate departments or staff groups.",
-        "It employs one person in addition to thirty cleaners.": "A staff names the group containing thirty employees; it is not an additional person.",
-        "It has thirty receptionists plus an unspecified number of cleaners.": "Thirty is the total staff count, and including introduces examples within it.",
-        "Its workforce consists of thirty employees.": "A staff can name one workforce; of thirty states how many employees belong to that group."
+        "It has thirty departments with separate workforces.": "'Thirty' counts the people within 'a staff', not separate departments or staff groups.",
+        "It employs one person in addition to thirty cleaners.": "'A staff' names the group containing thirty employees; it is not an additional person.",
+        "It has thirty receptionists plus an unspecified number of cleaners.": "'Thirty' is the total staff count, and 'including' introduces examples within it.",
+        "Its workforce consists of thirty employees.": "'A staff' can name one workforce; 'of thirty' states how many employees belong to that group."
       },
       "audit": {
         "status": "reviewed",
@@ -2237,7 +2237,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1033",
       "level": "B2",
-      "setupText": "Choose the paraphrase that preserves strengths as particular professional advantages without ranking them or making the list exhaustive.",
+      "setupText": "Choose the paraphrase that preserves 'strengths' as particular professional advantages without ranking them or making the list exhaustive.",
       "taskText": "Her professional strengths include careful listening and clear writing.",
       "options": [
         "Careful listening and clear writing are two of her professional strong points.",
@@ -2246,12 +2246,12 @@
         "She is developing careful listening and clear writing to overcome professional weaknesses."
       ],
       "answer": "Careful listening and clear writing are two of her professional strong points.",
-      "explanation": "Plural strengths counts particular advantages. Include lists two without saying that these are her only strong points.",
+      "explanation": "Plural 'strengths' counts particular advantages. 'Include' lists two without saying that these are her only strong points.",
       "rationales": {
         "Careful listening is her main strength, while clear writing is less developed.": "The list does not rank the two strengths or describe writing as less developed.",
-        "Careful listening and clear writing are two of her professional strong points.": "Plural strengths counts particular advantages. Include lists two without saying that these are her only strong points.",
-        "Her professional strength consists entirely of careful listening and clear writing.": "Entirely makes the list exhaustive, which include does not do.",
-        "She is developing careful listening and clear writing to overcome professional weaknesses.": "Strengths identifies existing advantages, not weaknesses she is working to overcome."
+        "Careful listening and clear writing are two of her professional strong points.": "Plural 'strengths' counts particular advantages. 'Include' lists two without saying that these are her only strong points.",
+        "Her professional strength consists entirely of careful listening and clear writing.": "'Entirely' makes the list exhaustive, which 'include' does not do.",
+        "She is developing careful listening and clear writing to overcome professional weaknesses.": "'Strengths' identifies existing advantages, not weaknesses she is working to overcome."
       },
       "audit": {
         "status": "reviewed",
@@ -2299,7 +2299,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1035",
       "level": "B2",
-      "setupText": "Choose the interpretation of pleasures that fits the writer's list.",
+      "setupText": "Choose the interpretation of 'pleasures' that fits the writer's list.",
       "taskText": "A quiet breakfast and an unhurried walk are among the pleasures of working from home.",
       "options": [
         "They are measured quantities of one continuous feeling.",
@@ -2308,12 +2308,12 @@
         "They are formal duties required when working from home."
       ],
       "answer": "They are particular activities or experiences that give enjoyment.",
-      "explanation": "A pleasure can be a source or experience of enjoyment; pleasures counts such things rather than the feeling itself.",
+      "explanation": "'A pleasure' can be a source or experience of enjoyment; 'pleasures' counts such things rather than the feeling itself.",
       "rationales": {
-        "They are measured quantities of one continuous feeling.": "Pleasures identifies sources or occasions of enjoyment, not measurements of the feeling.",
-        "They are the only enjoyable aspects of working from home.": "Among explicitly places them within a larger possible set.",
-        "They are formal duties required when working from home.": "Pleasures describes enjoyable experiences, not obligations.",
-        "They are particular activities or experiences that give enjoyment.": "A pleasure can be a source or experience of enjoyment; pleasures counts such things rather than the feeling itself."
+        "They are measured quantities of one continuous feeling.": "'Pleasures' identifies sources or occasions of enjoyment, not measurements of the feeling.",
+        "They are the only enjoyable aspects of working from home.": "'Among' explicitly places them within a larger possible set.",
+        "They are formal duties required when working from home.": "'Pleasures' describes enjoyable experiences, not obligations.",
+        "They are particular activities or experiences that give enjoyment.": "'A pleasure' can be a source or experience of enjoyment; 'pleasures' counts such things rather than the feeling itself."
       },
       "audit": {
         "status": "reviewed",
@@ -2361,7 +2361,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1037",
       "level": "B2",
-      "setupText": "Choose the interpretation of uncertainties in this planning note.",
+      "setupText": "Choose the interpretation of 'uncertainties' in this planning note.",
       "taskText": "Two uncertainties remain: whether the site will be available and whether transport can be arranged.",
       "options": [
         "The team experiences twice as much anxiety as before.",
@@ -2370,12 +2370,12 @@
         "Two specific matters have not yet been settled."
       ],
       "answer": "Two specific matters have not yet been settled.",
-      "explanation": "Uncertainties can count distinct unresolved questions, here site availability and transport.",
+      "explanation": "'Uncertainties' can count distinct unresolved questions, here site availability and transport.",
       "rationales": {
         "The team experiences twice as much anxiety as before.": "The plural counts unresolved matters; it does not measure a feeling or compare anxiety over time.",
-        "Two specific matters have not yet been settled.": "Uncertainties can count distinct unresolved questions, here site availability and transport.",
-        "Two team members are uncertain about the entire plan.": "Two modifies uncertainties, not the number of people involved.",
-        "The plan has already failed in two separate ways.": "Uncertainty means the outcomes are unsettled, not that failure has occurred."
+        "Two specific matters have not yet been settled.": "'Uncertainties' can count distinct unresolved questions, here site availability and transport.",
+        "Two team members are uncertain about the entire plan.": "'Two' modifies 'uncertainties', not the number of people involved.",
+        "The plan has already failed in two separate ways.": "'Uncertainty' means the outcomes are unsettled, not that failure has occurred."
       },
       "audit": {
         "status": "reviewed",
@@ -2392,7 +2392,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1038",
       "level": "B2",
-      "setupText": "Choose the meaning of room that preserves the negotiation context.",
+      "setupText": "Choose the meaning of 'room' that preserves the negotiation context.",
       "taskText": "The draft agreement still leaves room for compromise.",
       "options": [
         "It reserves a meeting room for the negotiators.",
@@ -2401,12 +2401,12 @@
         "It allows some scope for changing the proposed terms."
       ],
       "answer": "It allows some scope for changing the proposed terms.",
-      "explanation": "Room can mean opportunity or scope, not just physical space, and remains uncountable in this figurative use.",
+      "explanation": "'Room' can mean opportunity or scope, not just physical space, and remains uncountable in this figurative use.",
       "rationales": {
-        "It reserves a meeting room for the negotiators.": "A room would name a physical space; room for compromise is a figurative uncountable use.",
+        "It reserves a meeting room for the negotiators.": "'A room' would name a physical space; 'room for compromise' is a figurative uncountable use.",
         "It guarantees that a compromise will be reached.": "Having room for compromise makes it possible but does not guarantee agreement.",
-        "It allows some scope for changing the proposed terms.": "Room can mean opportunity or scope, not just physical space, and remains uncountable in this figurative use.",
-        "It identifies a fixed number of terms that must change.": "Room gives no exact count and does not require changes to occur."
+        "It allows some scope for changing the proposed terms.": "'Room' can mean opportunity or scope, not just physical space, and remains uncountable in this figurative use.",
+        "It identifies a fixed number of terms that must change.": "'Room' gives no exact count and does not require changes to occur."
       },
       "audit": {
         "status": "reviewed",
@@ -2454,7 +2454,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-b2-1040",
       "level": "B2",
-      "setupText": "Choose the reading of the two uses of capital.",
+      "setupText": "Choose the reading of the two uses of 'capital'.",
       "taskText": "The company opened an office in the capital but had little capital left to expand it.",
       "options": [
         "Both uses count offices in important cities.",
@@ -2463,11 +2463,11 @@
         "Both uses refer to the company's written capital letters."
       ],
       "answer": "The first names a city; the second refers to financial resources.",
-      "explanation": "The capital identifies a capital city; little capital quantifies funds as an uncountable resource.",
+      "explanation": "'The capital' identifies a capital city; 'little capital' quantifies funds as an uncountable resource.",
       "rationales": {
-        "The first names a city; the second refers to financial resources.": "The capital identifies a capital city; little capital quantifies funds as an uncountable resource.",
-        "Both uses count offices in important cities.": "Capital does not count offices, and the second use concerns available funds.",
-        "The first refers to funds; the second names a city.": "This reverses the meanings fixed by in the capital and little capital left to expand.",
+        "The first names a city; the second refers to financial resources.": "'The capital' identifies a capital city; 'little capital' quantifies funds as an uncountable resource.",
+        "Both uses count offices in important cities.": "'Capital' does not count offices, and the second use concerns available funds.",
+        "The first refers to funds; the second names a city.": "This reverses the meanings fixed by 'in the capital' and 'little capital left to expand'.",
         "Both uses refer to the company's written capital letters.": "The location and funding context exclude the typographic meaning of capitals."
       },
       "audit": {
@@ -2485,7 +2485,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-c1-1041",
       "level": "C1",
-      "setupText": "Choose the editorial objection that follows from the difference between evidence and proof.",
+      "setupText": "Choose the editorial objection that follows from the difference between 'evidence' and 'proof'.",
       "taskText": "Original: 'The chapter presents several pieces of evidence for the claim.' Edit: 'The chapter presents several conclusive proofs of the claim.'",
       "options": [
         "The edit turns supporting material into conclusive demonstrations, which the original does not promise.",
@@ -2494,12 +2494,12 @@
         "The edit merely changes an exact count into an approximate one."
       ],
       "answer": "The edit turns supporting material into conclusive demonstrations, which the original does not promise.",
-      "explanation": "Pieces of evidence counts supporting items; calling them conclusive proofs adds an unwarranted claim about their decisive force.",
+      "explanation": "'Pieces of evidence' counts supporting items; calling them 'conclusive proofs' adds an unwarranted claim about their decisive force.",
       "rationales": {
-        "The edit turns supporting material into conclusive demonstrations, which the original does not promise.": "Pieces of evidence counts supporting items; calling them conclusive proofs adds an unwarranted claim about their decisive force.",
-        "The edit is wrong because proof can never be a countable noun.": "Proof can count a demonstration, especially in mathematics or argument; the issue here is the added strength of the assertion.",
+        "The edit turns supporting material into conclusive demonstrations, which the original does not promise.": "'Pieces of evidence' counts supporting items; calling them 'conclusive proofs' adds an unwarranted claim about their decisive force.",
+        "The edit is wrong because proof can never be a countable noun.": "'Proof' can count a demonstration, especially in mathematics or argument; the issue here is the added strength of the assertion.",
         "The edit preserves the meaning because each piece of evidence is one complete proof.": "An item of evidence may contribute to a case without independently proving it.",
-        "The edit merely changes an exact count into an approximate one.": "Several is nonexact in both versions; the important change is from evidence to conclusive proof."
+        "The edit merely changes an exact count into an approximate one.": "'Several' is nonexact in both versions; the important change is from 'evidence' to 'conclusive proof'."
       },
       "audit": {
         "status": "reviewed",
@@ -2610,7 +2610,7 @@
       "id": "coverage-count-and-noncount-nouns-c1-1045",
       "level": "C1",
       "setupText": "Choose the accurate editorial response to the proposed rule.",
-      "taskText": "Draft: 'The team collected insufficient samples to assess seasonal variation.' An editor claims that insufficient can modify only uncountable nouns and wants sample instead.",
+      "taskText": "Draft: 'The team collected insufficient samples to assess seasonal variation.' An editor claims that 'insufficient' can modify only uncountable nouns and wants 'sample' instead.",
       "options": [
         "Use sample because insufficient makes the following noun uncountable.",
         "Use samples only if every sample is individually incomplete.",
@@ -2618,12 +2618,12 @@
         "Replace insufficient with little while keeping samples."
       ],
       "answer": "Keep samples: insufficient can modify plural count nouns as well as uncountable nouns.",
-      "explanation": "Insufficient samples means the number or adequacy of the samples was not enough; insufficient is not restricted to mass nouns.",
+      "explanation": "'Insufficient samples' means the number or adequacy of the samples was not enough; 'insufficient' is not restricted to mass nouns.",
       "rationales": {
-        "Keep samples: insufficient can modify plural count nouns as well as uncountable nouns.": "Insufficient samples means the number or adequacy of the samples was not enough; insufficient is not restricted to mass nouns.",
-        "Use sample because insufficient makes the following noun uncountable.": "Insufficient expresses inadequacy; it does not automatically change the noun's countability.",
+        "Keep samples: insufficient can modify plural count nouns as well as uncountable nouns.": "'Insufficient samples' means the number or adequacy of the samples was not enough; 'insufficient' is not restricted to mass nouns.",
+        "Use sample because insufficient makes the following noun uncountable.": "'Insufficient' expresses inadequacy; it does not automatically change the noun's countability.",
         "Use samples only if every sample is individually incomplete.": "The phrase can concern an inadequate number or coverage of complete samples; individual incompleteness is not required.",
-        "Replace insufficient with little while keeping samples.": "Little does not directly quantify plural countable samples in this meaning; too few samples would express a numerical shortage."
+        "Replace insufficient with little while keeping samples.": "'Little' does not directly quantify plural countable 'samples' in this meaning; 'too few samples' would express a numerical shortage."
       },
       "audit": {
         "status": "reviewed",
@@ -2640,7 +2640,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-c1-1046",
       "level": "C1",
-      "setupText": "Choose the reading that preserves the countable plural understandings.",
+      "setupText": "Choose the reading that preserves the countable plural 'understandings'.",
       "taskText": "The two departments have different understandings of what counts as a completed case.",
       "options": [
         "One department understands the criterion better than the other.",
@@ -2649,10 +2649,10 @@
         "Both departments have agreed on a single completion criterion."
       ],
       "answer": "They interpret the completion criterion differently.",
-      "explanation": "Understandings can count interpretations or conceptions of a matter, while understanding without s often describes comprehension generally.",
+      "explanation": "'Understandings' can count interpretations or conceptions of a matter, while 'understanding' without 's' often describes comprehension generally.",
       "rationales": {
-        "One department understands the criterion better than the other.": "Different understandings identifies differing interpretations, not a ranking of comprehension.",
-        "They interpret the completion criterion differently.": "Understandings can count interpretations or conceptions of a matter, while understanding without s often describes comprehension generally.",
+        "One department understands the criterion better than the other.": "'Different understandings' identifies differing interpretations, not a ranking of comprehension.",
+        "They interpret the completion criterion differently.": "'Understandings' can count interpretations or conceptions of a matter, while 'understanding' without 's' often describes comprehension generally.",
         "Neither department understands what a case is.": "Different interpretations do not establish absence of understanding in either department.",
         "Both departments have agreed on a single completion criterion.": "The sentence points to a difference between their interpretations, not agreement on one reading."
       },
@@ -2671,7 +2671,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-c1-1047",
       "level": "C1",
-      "setupText": "Choose the paraphrase of an understanding that fits the negotiation context.",
+      "setupText": "Choose the paraphrase of 'an understanding' that fits the negotiation context.",
       "taskText": "After discussing the timetable, the two teams reached an understanding about weekend access.",
       "options": [
         "They developed a common explanation of why the access system was unreliable.",
@@ -2680,12 +2680,12 @@
         "They came to an agreement about weekend access."
       ],
       "answer": "They came to an agreement about weekend access.",
-      "explanation": "An understanding can be a countable agreement, distinct from uncountable understanding as comprehension.",
+      "explanation": "'An understanding' can be a countable agreement, distinct from uncountable 'understanding' as comprehension.",
       "rationales": {
-        "They developed a common explanation of why the access system was unreliable.": "A shared explanation would concern comprehension of a problem; reached an understanding here reports an agreement about access.",
+        "They developed a common explanation of why the access system was unreliable.": "A shared explanation would concern comprehension of a problem; 'reached an understanding' here reports an agreement about access.",
         "They recognized each other's objections without agreeing on access.": "Reaching an understanding goes beyond recognizing opposing views: it presents an agreement.",
-        "They came to an agreement about weekend access.": "An understanding can be a countable agreement, distinct from uncountable understanding as comprehension.",
-        "They each developed a separate interpretation of weekend access.": "Reached an understanding presents a shared agreement, not separate readings that may differ."
+        "They came to an agreement about weekend access.": "'An understanding' can be a countable agreement, distinct from uncountable 'understanding' as comprehension.",
+        "They each developed a separate interpretation of weekend access.": "'Reached an understanding' presents a shared agreement, not separate readings that may differ."
       },
       "audit": {
         "status": "reviewed",
@@ -2702,7 +2702,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-c1-1048",
       "level": "C1",
-      "setupText": "Choose the interpretation of interests that preserves the disclosure context.",
+      "setupText": "Choose the interpretation of 'interests' that preserves the disclosure context.",
       "taskText": "Before joining the panel, she declared her financial interests in two companies.",
       "options": [
         "She disclosed financial stakes or connections in those companies.",
@@ -2711,12 +2711,12 @@
         "She reported that the companies had identical financial goals."
       ],
       "answer": "She disclosed financial stakes or connections in those companies.",
-      "explanation": "Financial interests can be countable stakes or connections that matter in a disclosure; the plural does not simply measure curiosity or interest income.",
+      "explanation": "'Financial interests' can be countable stakes or connections that matter in a disclosure; the plural does not simply measure curiosity or interest income.",
       "rationales": {
-        "She disclosed the interest rates paid by the companies.": "Interest rates would concern charges or returns on money; interests here refers to her financial stakes or connections.",
-        "She described how curious she was about the companies' finances.": "Interest as curiosity is not the financial-stake meaning required by declared...interests in this context.",
+        "She disclosed the interest rates paid by the companies.": "'Interest rates' would concern charges or returns on money; 'interests' here refers to her financial stakes or connections.",
+        "She described how curious she was about the companies' finances.": "'Interest' as curiosity is not the financial-stake meaning required by 'declared...interests' in this context.",
         "She reported that the companies had identical financial goals.": "The sentence describes her interests, not a shared objective of the companies.",
-        "She disclosed financial stakes or connections in those companies.": "Financial interests can be countable stakes or connections that matter in a disclosure; the plural does not simply measure curiosity or interest income."
+        "She disclosed financial stakes or connections in those companies.": "'Financial interests' can be countable stakes or connections that matter in a disclosure; the plural does not simply measure curiosity or interest income."
       },
       "audit": {
         "status": "reviewed",
@@ -2795,7 +2795,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-c1-1051",
       "level": "C1",
-      "setupText": "Choose the interpretation of histories that fits the contrast between accounts.",
+      "setupText": "Choose the interpretation of 'histories' that fits the contrast between accounts.",
       "taskText": "The exhibition presents competing histories of the same town, each written from a different social perspective.",
       "options": [
         "Different pasts lived by several unrelated towns.",
@@ -2804,11 +2804,11 @@
         "Separate historical periods that cannot overlap."
       ],
       "answer": "Different accounts or interpretations of the town's past.",
-      "explanation": "A history can be a written account of past events; competing histories can recount one town from different perspectives.",
+      "explanation": "'A history' can be a written account of past events; 'competing histories' can recount one town from different perspectives.",
       "rationales": {
-        "Different pasts lived by several unrelated towns.": "The sentence identifies the same town; histories counts accounts of its past, not separate towns.",
-        "Different lengths of time for which the town has existed.": "Histories does not give competing durations of existence; it identifies differing narratives.",
-        "Different accounts or interpretations of the town's past.": "A history can be a written account of past events; competing histories can recount one town from different perspectives.",
+        "Different pasts lived by several unrelated towns.": "The sentence identifies the same town; 'histories' counts accounts of its past, not separate towns.",
+        "Different lengths of time for which the town has existed.": "'Histories' does not give competing durations of existence; it identifies differing narratives.",
+        "Different accounts or interpretations of the town's past.": "'A history' can be a written account of past events; 'competing histories' can recount one town from different perspectives.",
         "Separate historical periods that cannot overlap.": "The accounts may cover overlapping periods; the plural does not establish a division into nonoverlapping eras."
       },
       "audit": {
@@ -2826,7 +2826,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-c1-1052",
       "level": "C1",
-      "setupText": "Choose the interpretation of a literature that fits this academic usage.",
+      "setupText": "Choose the interpretation of 'a literature' that fits this academic usage.",
       "taskText": "A substantial literature has developed on how cities reuse industrial buildings.",
       "options": [
         "One unusually long book addresses the topic.",
@@ -2835,12 +2835,12 @@
         "A substantial body of published work addresses the topic."
       ],
       "answer": "A substantial body of published work addresses the topic.",
-      "explanation": "A literature is a conventional academic use for a body of writing on a particular topic, even though literature is often uncountable more generally.",
+      "explanation": "'A literature' is a conventional academic use for a body of writing on a particular topic, even though 'literature' is often uncountable more generally.",
       "rationales": {
-        "One unusually long book addresses the topic.": "A literature can refer to a body of work; the article does not reduce it to one book.",
-        "An extensive annotated list of publications has been produced.": "A literature means the body of writing itself, not necessarily a bibliography or annotated list of it.",
+        "One unusually long book addresses the topic.": "'A literature' can refer to a body of work; the article does not reduce it to one book.",
+        "An extensive annotated list of publications has been produced.": "'A literature' means the body of writing itself, not necessarily a bibliography or annotated list of it.",
         "Researchers have reached a shared conclusion about the topic.": "A substantial literature can include disagreement; the existence of a body of work does not establish consensus.",
-        "A substantial body of published work addresses the topic.": "A literature is a conventional academic use for a body of writing on a particular topic, even though literature is often uncountable more generally."
+        "A substantial body of published work addresses the topic.": "'A literature' is a conventional academic use for a body of writing on a particular topic, even though 'literature' is often uncountable more generally."
       },
       "audit": {
         "status": "reviewed",
@@ -2919,7 +2919,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-c1-1055",
       "level": "C1",
-      "setupText": "Choose the paraphrase that treats an injustice as a particular wrong without limiting its effects to one person.",
+      "setupText": "Choose the paraphrase that treats 'an injustice' as a particular wrong without limiting its effects to one person.",
       "taskText": "The campaign challenged an injustice that affected several neighbourhoods.",
       "options": [
         "It challenged one identifiable wrong affecting several neighbourhoods.",
@@ -2928,12 +2928,12 @@
         "It challenged several unrelated wrongs, one in each neighbourhood."
       ],
       "answer": "It challenged one identifiable wrong affecting several neighbourhoods.",
-      "explanation": "An injustice counts a particular wrong or unfair arrangement; the following clause states that its effects extend across neighbourhoods.",
+      "explanation": "'An injustice' counts a particular wrong or unfair arrangement; the following clause states that its effects extend across neighbourhoods.",
       "rationales": {
-        "It challenged the general existence of unfairness without identifying any particular wrong.": "An injustice presents an identifiable instance or form of unfairness, not only the abstract condition.",
-        "It challenged a wrong affecting exactly one resident.": "A singular injustice can affect many people; its grammatical number does not count those affected.",
-        "It challenged one identifiable wrong affecting several neighbourhoods.": "An injustice counts a particular wrong or unfair arrangement; the following clause states that its effects extend across neighbourhoods.",
-        "It challenged several unrelated wrongs, one in each neighbourhood.": "The original uses one injustice and does not distribute separate wrongs across the neighbourhoods."
+        "It challenged the general existence of unfairness without identifying any particular wrong.": "'An injustice' presents an identifiable instance or form of unfairness, not only the abstract condition.",
+        "It challenged a wrong affecting exactly one resident.": "A singular 'injustice' can affect many people; its grammatical number does not count those affected.",
+        "It challenged one identifiable wrong affecting several neighbourhoods.": "'An injustice' counts a particular wrong or unfair arrangement; the following clause states that its effects extend across neighbourhoods.",
+        "It challenged several unrelated wrongs, one in each neighbourhood.": "The original uses 'one injustice' and does not distribute separate wrongs across the neighbourhoods."
       },
       "audit": {
         "status": "reviewed",
@@ -3012,7 +3012,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-c1-1058",
       "level": "C1",
-      "setupText": "Choose the meaning of economy in this explanation of the editor's cuts.",
+      "setupText": "Choose the meaning of 'economy' in this explanation of the editor's cuts.",
       "taskText": "Several repeated examples were removed for reasons of economy, not because their content was inaccurate.",
       "options": [
         "They were removed because the writer charged a separate fee for every example.",
@@ -3021,12 +3021,12 @@
         "They were removed to use words or space more efficiently."
       ],
       "answer": "They were removed to use words or space more efficiently.",
-      "explanation": "Economy can be an uncountable quality of avoiding waste; repeated examples invite a concise-editing interpretation.",
+      "explanation": "'Economy' can be an uncountable quality of avoiding waste; repeated examples invite a concise-editing interpretation.",
       "rationales": {
-        "They were removed because the writer charged a separate fee for every example.": "Reasons of economy can concern resources, but the editing context does not establish a fee arrangement.",
-        "They were removed to use words or space more efficiently.": "Economy can be an uncountable quality of avoiding waste; repeated examples invite a concise-editing interpretation.",
+        "They were removed because the writer charged a separate fee for every example.": "'Reasons of economy' can concern resources, but the editing context does not establish a fee arrangement.",
+        "They were removed to use words or space more efficiently.": "'Economy' can be an uncountable quality of avoiding waste; repeated examples invite a concise-editing interpretation.",
         "They were removed because repetition made the underlying claims false.": "The sentence explicitly excludes inaccuracy as the reason for the cuts.",
-        "They were removed to narrow the article to one economic theory.": "Economy describes efficiency of expression here, not a named theory or a change in subject matter."
+        "They were removed to narrow the article to one economic theory.": "'Economy' describes efficiency of expression here, not a named theory or a change in subject matter."
       },
       "audit": {
         "status": "reviewed",
@@ -3074,7 +3074,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-c1-1060",
       "level": "C1",
-      "setupText": "Choose the reading of languages that fits this comparison of academic disciplines.",
+      "setupText": "Choose the reading of 'languages' that fits this comparison of academic disciplines.",
       "taskText": "Although both articles are written in English, the editor says that sociology and engineering use different languages to discuss risk.",
       "options": [
         "The disciplines have translated the same analysis from different national languages.",
@@ -3083,12 +3083,12 @@
         "The disciplines use different specialized vocabularies and ways of expressing ideas."
       ],
       "answer": "The disciplines use different specialized vocabularies and ways of expressing ideas.",
-      "explanation": "Languages can count distinct systems or styles of expression within one natural language, especially in this disciplinary comparison.",
+      "explanation": "'Languages' can count distinct systems or styles of expression within one natural language, especially in this disciplinary comparison.",
       "rationales": {
         "The disciplines have translated the same analysis from different national languages.": "Both articles are written in English, and the comment concerns disciplinary expression rather than a stated translation history.",
-        "The disciplines use the same terminology but disagree only about numerical results.": "Different languages points to different expressive systems or terminology, not merely different numerical conclusions.",
+        "The disciplines use the same terminology but disagree only about numerical results.": "'Different languages' points to different expressive systems or terminology, not merely different numerical conclusions.",
         "The disciplines address readers with different levels of English proficiency.": "Specialized disciplinary language does not by itself establish the readers' general proficiency in English.",
-        "The disciplines use different specialized vocabularies and ways of expressing ideas.": "Languages can count distinct systems or styles of expression within one natural language, especially in this disciplinary comparison."
+        "The disciplines use different specialized vocabularies and ways of expressing ideas.": "'Languages' can count distinct systems or styles of expression within one natural language, especially in this disciplinary comparison."
       },
       "audit": {
         "status": "reviewed",
@@ -3384,7 +3384,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-c2-1070",
       "level": "C2",
-      "setupText": "Choose the accurate assessment of the plural methods in the proposed rewrite.",
+      "setupText": "Choose the accurate assessment of the plural 'methods' in the proposed rewrite.",
       "taskText": "Original: 'Their means of communication proved reliable.' Edit: 'Their communication methods were reliable.' No other context identifies how many methods were used.",
       "options": [
         "The edit preserves an explicit plural because their assigns a separate method to each person.",
@@ -3393,12 +3393,12 @@
         "The edit reduces several methods to one shared system of communication."
       ],
       "answer": "The edit fixes a plural count that the original wording leaves open.",
-      "explanation": "Means can be singular or plural, their does not decide its number, and past-tense proved supplies no agreement distinction. Methods explicitly chooses plural.",
+      "explanation": "'Means' can be singular or plural, 'their' does not decide its number, and past-tense 'proved' supplies no agreement distinction. 'Methods' explicitly chooses plural.",
       "rationales": {
-        "The edit preserves an explicit plural because their assigns a separate method to each person.": "Their can refer to a shared method as well as separate ones; a plural possessor does not determine the number of means.",
+        "The edit preserves an explicit plural because their assigns a separate method to each person.": "'Their' can refer to a shared method as well as separate ones; a plural possessor does not determine the number of 'means'.",
         "The edit removes a claim that each person used the same method.": "The original allows a shared method but does not assert one; the edit does not remove an established shared-method claim.",
-        "The edit fixes a plural count that the original wording leaves open.": "Means can be singular or plural, their does not decide its number, and past-tense proved supplies no agreement distinction. Methods explicitly chooses plural.",
-        "The edit reduces several methods to one shared system of communication.": "Methods is explicitly plural. It does not reduce the count to one system."
+        "The edit fixes a plural count that the original wording leaves open.": "'Means' can be singular or plural, 'their' does not decide its number, and past-tense 'proved' supplies no agreement distinction. 'Methods' explicitly chooses plural.",
+        "The edit reduces several methods to one shared system of communication.": "'Methods' is explicitly plural. It does not reduce the count to one system."
       },
       "audit": {
         "status": "reviewed",
@@ -3415,7 +3415,7 @@
     {
       "id": "coverage-count-and-noncount-nouns-c2-1071",
       "level": "C2",
-      "setupText": "Choose the editorial assessment that best accounts for the change from plural to uncountable silence.",
+      "setupText": "Choose the editorial assessment that best accounts for the change from plural to uncountable 'silence'.",
       "taskText": "A memoir describes an interview: 'Her silences unsettled me.' An editor proposes 'Her silence unsettled me.' No other sentence describes the pauses.",
       "options": [
         "The edit establishes that she said nothing throughout the interview.",
@@ -3424,12 +3424,12 @@
         "The edit changes deliberate pauses into an involuntary inability to speak."
       ],
       "answer": "The edit no longer explicitly presents separate episodes of silence.",
-      "explanation": "Silences presents distinct stretches or occasions. Silence presents the state generally, so the explicit segmentation is lost, even though repeated pauses remain possible.",
+      "explanation": "'Silences' presents distinct stretches or occasions. 'Silence' presents the state generally, so the explicit segmentation is lost, even though repeated pauses remain possible.",
       "rationales": {
-        "The edit establishes that she said nothing throughout the interview.": "Singular silence does not by itself establish an uninterrupted absence of speech throughout the interview.",
-        "The edit no longer explicitly presents separate episodes of silence.": "Silences presents distinct stretches or occasions. Silence presents the state generally, so the explicit segmentation is lost, even though repeated pauses remain possible.",
+        "The edit establishes that she said nothing throughout the interview.": "Singular 'silence' does not by itself establish an uninterrupted absence of speech throughout the interview.",
+        "The edit no longer explicitly presents separate episodes of silence.": "'Silences' presents distinct stretches or occasions. 'Silence' presents the state generally, so the explicit segmentation is lost, even though repeated pauses remain possible.",
         "The edit preserves the same segmentation because her refers to the same speaker.": "The possessive identifies whose silence is involved, not whether it is presented as separate episodes.",
-        "The edit changes deliberate pauses into an involuntary inability to speak.": "Neither countable silences nor uncountable silence by itself establishes intention or an inability to speak."
+        "The edit changes deliberate pauses into an involuntary inability to speak.": "Neither countable 'silences' nor uncountable 'silence' by itself establishes intention or an inability to speak."
       },
       "audit": {
         "status": "reviewed",

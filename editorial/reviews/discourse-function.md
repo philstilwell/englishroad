@@ -1586,7 +1586,7 @@ What does the opening phrase signal?
 
 ID: `coverage-discourse-function-b1-1250`
 
-A manager writes, 'Please send the draft soon. By soon, I mean before noon tomorrow.'
+A manager writes, 'Please send the draft soon. By "soon", I mean before noon tomorrow.'
 
 What is the function of the second sentence?
 
@@ -1595,11 +1595,11 @@ What is the function of the second sentence?
 3. It gives a second task for tomorrow.
 4. It withdraws the request to send the draft.
 
-**Explanation:** 'By soon, I mean' defines the intended timing of the earlier request as before noon tomorrow.
+**Explanation:** 'By "soon", I mean' defines the intended timing of the earlier request as before noon tomorrow.
 
 **Choice feedback:**
 
-- **It makes a vague deadline specific.:** 'By soon, I mean' defines the intended timing of the earlier request as before noon tomorrow.
+- **It makes a vague deadline specific.:** 'By "soon", I mean' defines the intended timing of the earlier request as before noon tomorrow.
 - **It explains why the draft is needed.:** A deadline is supplied, but the reason for needing the draft is not.
 - **It gives a second task for tomorrow.:** Both sentences concern sending the same draft.
 - **It withdraws the request to send the draft.:** The request remains in place with a clearer deadline.
@@ -1874,7 +1874,7 @@ What role does your suggestion play?
 
 ID: `coverage-discourse-function-b1-1259`
 
-During a presentation, you say, 'Sorry to interrupt, but could you explain what you mean by a trial account?'
+During a presentation, you say, 'Sorry to interrupt, but could you explain what you mean by "a trial account"?'
 
 What does 'Sorry to interrupt' do before the question?
 
@@ -2938,7 +2938,7 @@ Why place this sentence at that point?
 
 ID: `coverage-discourse-function-c1-1292`
 
-An author writes, 'I use resilience here to mean the ability to restore basic services after disruption. I do not use it as a synonym for economic growth.'
+An author writes, 'I use "resilience" here to mean the ability to restore basic services after disruption. I do not use it as a synonym for "economic growth".'
 
 What is accomplished by adding the second sentence?
 
@@ -3230,7 +3230,7 @@ How does the conclusion relate to the mixed findings?
 
 ID: `coverage-discourse-function-c2-1301`
 
-A response states, 'Calling the review hostile tells us how it was received. The relevant question is whether its specific objections survive scrutiny.'
+A response states, 'Calling the review "hostile" tells us how it was received. The relevant question is whether its specific objections survive scrutiny.'
 
 What argumentative move does the second sentence make?
 
@@ -3326,7 +3326,7 @@ How does the passage respond to the limitation?
 
 ID: `coverage-discourse-function-c2-1304`
 
-A critique notes, 'The introduction uses participation to mean attending meetings. The conclusion uses it to mean shaping decisions. The apparent improvement depends on this shift.'
+A critique notes, 'The introduction uses "participation" to mean attending meetings. The conclusion uses it to mean shaping decisions. The apparent improvement depends on this shift.'
 
 What is the final sentence diagnosing?
 
@@ -3582,7 +3582,7 @@ What argumentative gap does the response identify?
 
 ID: `coverage-discourse-function-c2-1312`
 
-A reviewer writes, 'The label community is carrying more weight than the analysis supports: it turns a set of neighboring households into a group with supposedly shared priorities.'
+A reviewer writes, 'The label "community" is carrying more weight than the analysis supports: it turns a set of neighboring households into a group with supposedly shared priorities.'
 
 What is the criticism directed at?
 
@@ -3591,12 +3591,12 @@ What is the criticism directed at?
 3. The use of an unfamiliar word that readers cannot understand
 4. The claim that neighboring households have disagreed about priorities
 
-**Explanation:** The reviewer argues that naming neighbors a community makes shared priorities seem established without supplying evidence for them.
+**Explanation:** The reviewer argues that naming neighbors 'a community' makes shared priorities seem established without supplying evidence for them.
 
 **Choice feedback:**
 
 - **The author's decision to study households rather than public organizations:** The objection concerns an inference from the label, not the choice of population itself.
-- **The unsupported inference imported through the chosen label:** The reviewer argues that naming neighbors a community makes shared priorities seem established without supplying evidence for them.
+- **The unsupported inference imported through the chosen label:** The reviewer argues that naming neighbors 'a community' makes shared priorities seem established without supplying evidence for them.
 - **The use of an unfamiliar word that readers cannot understand:** The issue is the word's argumentative implications, not its unfamiliarity.
 - **The claim that neighboring households have disagreed about priorities:** The passage criticizes presumed agreement; it does not identify a documented disagreement.
 

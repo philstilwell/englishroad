@@ -874,7 +874,7 @@
       "id": "coverage-nuance-a2-2069",
       "level": "A2",
       "setupText": "A receptionist says, 'I'm afraid there are no rooms left tonight.'",
-      "taskText": "What does 'I'm afraid' do in this message?",
+      "taskText": "What does \"I'm afraid\" do in this message?",
       "options": [
         "Says the receptionist is frightened of a room.",
         "Asks the visitor to be afraid too.",
@@ -882,12 +882,12 @@
         "Makes the room availability uncertain."
       ],
       "answer": "Softens news the visitor may not welcome.",
-      "explanation": "I'm afraid commonly introduces unwelcome information politely; it need not describe fear.",
+      "explanation": "\"I'm afraid\" commonly introduces unwelcome information politely; it need not describe fear.",
       "rationales": {
-        "Softens news the visitor may not welcome.": "I'm afraid commonly introduces unwelcome information politely; it need not describe fear.",
+        "Softens news the visitor may not welcome.": "\"I'm afraid\" commonly introduces unwelcome information politely; it need not describe fear.",
         "Says the receptionist is frightened of a room.": "Here the phrase introduces disappointing news, not a frightening object.",
         "Asks the visitor to be afraid too.": "No instruction about the visitor's feelings is given.",
-        "Makes the room availability uncertain.": "There are no rooms left remains a clear statement; the phrase softens its delivery."
+        "Makes the room availability uncertain.": "'There are no rooms left' remains a clear statement; the phrase softens its delivery."
       },
       "audit": {
         "status": "reviewed",
@@ -998,7 +998,7 @@
       "id": "coverage-nuance-a2-2073",
       "level": "A2",
       "setupText": "The whole office joined the dance lesson. Even Dan came, though he usually avoids dancing.",
-      "taskText": "Why is 'even' used before Dan?",
+      "taskText": "Why is 'even' used before 'Dan'?",
       "options": [
         "He attended for longer than everyone else.",
         "His attendance is presented as surprising.",
@@ -1006,11 +1006,11 @@
         "He attended instead of the other workers."
       ],
       "answer": "His attendance is presented as surprising.",
-      "explanation": "Even highlights an unexpected included person; Dan's usual avoidance explains the surprise.",
+      "explanation": "'Even' highlights an unexpected included person; Dan's usual avoidance explains the surprise.",
       "rationales": {
-        "His attendance is presented as surprising.": "Even highlights an unexpected included person; Dan's usual avoidance explains the surprise.",
-        "He attended for longer than everyone else.": "Even marks unexpected inclusion, not duration.",
-        "He was the instructor for the group.": "Came says he attended; even does not assign a teaching role.",
+        "His attendance is presented as surprising.": "'Even' highlights an unexpected included person; Dan's usual avoidance explains the surprise.",
+        "He attended for longer than everyone else.": "'Even' marks unexpected inclusion, not duration.",
+        "He was the instructor for the group.": "'Came' says he attended; 'even' does not assign a teaching role.",
         "He attended instead of the other workers.": "The whole office came, so Dan was included rather than substituted."
       },
       "audit": {
@@ -2207,7 +2207,7 @@
       "id": "coverage-nuance-b2-2112",
       "level": "B2",
       "setupText": "A journalist writes, 'The contractor claims that the repairs are complete.'",
-      "taskText": "Compared with 'says,' what can 'claims' signal here?",
+      "taskText": "Compared with 'says', what can 'claims' signal here?",
       "options": [
         "The journalist has proved the repairs incomplete.",
         "The contractor has supplied documentary proof.",
@@ -2215,12 +2215,12 @@
         "The assertion is attributed without the journalist endorsing it."
       ],
       "answer": "The assertion is attributed without the journalist endorsing it.",
-      "explanation": "Claims can mark distance from an assertion's truth; it need not mean that the journalist has disproved it.",
+      "explanation": "'Claims' can mark distance from an assertion's truth; it need not mean that the journalist has disproved it.",
       "rationales": {
         "The journalist has proved the repairs incomplete.": "Distance from a claim does not establish that it is false.",
-        "The contractor has supplied documentary proof.": "Claims does not identify evidence supplied.",
+        "The contractor has supplied documentary proof.": "'Claims' does not identify evidence supplied.",
         "The journalist personally inspected and endorsed the work.": "The wording attributes the assertion instead of expressing personal endorsement.",
-        "The assertion is attributed without the journalist endorsing it.": "Claims can mark distance from an assertion's truth; it need not mean that the journalist has disproved it."
+        "The assertion is attributed without the journalist endorsing it.": "'Claims' can mark distance from an assertion's truth; it need not mean that the journalist has disproved it."
       },
       "audit": {
         "status": "reviewed",
@@ -3415,7 +3415,7 @@
     {
       "id": "coverage-nuance-c2-2151",
       "level": "C2",
-      "setupText": "The interviewer called the decision a retreat. The minister let that characterization pass.",
+      "setupText": "The interviewer called the decision 'a retreat'. The minister let that characterization pass.",
       "taskText": "Which account preserves the distinction between response and belief?",
       "options": [
         "The minister did not contest the wording in that exchange.",
@@ -3424,11 +3424,11 @@
         "The minister did not hear the interviewer's characterization."
       ],
       "answer": "The minister did not contest the wording in that exchange.",
-      "explanation": "Let a characterization pass describes non-challenge; acquiescence may be suggested, but explicit endorsement and private agreement are not established.",
+      "explanation": "'Let a characterization pass' describes non-challenge; acquiescence may be suggested, but explicit endorsement and private agreement are not established.",
       "rationales": {
         "The minister privately accepted that retreat was the correct term.": "Not contesting a characterization does not reveal a private belief with certainty.",
         "The minister formally adopted retreat as the administration's description.": "Letting wording pass is not the same as formally adopting it.",
-        "The minister did not contest the wording in that exchange.": "Let a characterization pass describes non-challenge; acquiescence may be suggested, but explicit endorsement and private agreement are not established.",
+        "The minister did not contest the wording in that exchange.": "'Let a characterization pass' describes non-challenge; acquiescence may be suggested, but explicit endorsement and private agreement are not established.",
         "The minister did not hear the interviewer's characterization.": "Failure to hear is one possible explanation of silence, not what the report asserts."
       },
       "audit": {
@@ -3694,7 +3694,7 @@
     {
       "id": "coverage-nuance-c2-2160",
       "level": "C2",
-      "setupText": "The spokesperson calls the charge a contribution rather than a fee. A commentator replies that this is 'a distinction without a difference.'",
+      "setupText": "The spokesperson calls the charge 'a contribution' rather than 'a fee'. A commentator replies that this is 'a distinction without a difference.'",
       "taskText": "What does the commentator most likely challenge?",
       "options": [
         "Whether contribution is the conventional term in formal accounts",
@@ -3703,12 +3703,12 @@
         "Whether the spokesperson sincerely prefers the new label"
       ],
       "answer": "Whether the changed label corresponds to a relevant substantive change",
-      "explanation": "A distinction without a difference concedes a verbal or formal distinction while denying a relevant substantive contrast in the present context.",
+      "explanation": "'A distinction without a difference' concedes a verbal or formal distinction while denying a relevant substantive contrast in the present context.",
       "rationales": {
         "Whether contribution is the conventional term in formal accounts": "The expression disputes substantive difference, not conventional terminology within a genre.",
         "Whether the audience understands the intended distinction": "The commentator can understand a proposed distinction while judging that it makes no relevant difference.",
         "Whether the spokesperson sincerely prefers the new label": "Sincerity about a naming preference is separate from whether the renamed charge changes in substance.",
-        "Whether the changed label corresponds to a relevant substantive change": "A distinction without a difference concedes a verbal or formal distinction while denying a relevant substantive contrast in the present context."
+        "Whether the changed label corresponds to a relevant substantive change": "'A distinction without a difference' concedes a verbal or formal distinction while denying a relevant substantive contrast in the present context."
       },
       "audit": {
         "status": "reviewed",

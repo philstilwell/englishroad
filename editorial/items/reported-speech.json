@@ -160,7 +160,7 @@
     {
       "id": "coverage-reported-speech-a1-3246",
       "level": "A1",
-      "setupText": "Choose the verb that fits directly before me in this sentence.",
+      "setupText": "Choose the verb that fits directly before 'me' in this sentence.",
       "taskText": "The driver ___ me that this is the last stop.",
       "options": [
         "says",
@@ -169,12 +169,12 @@
         "tells"
       ],
       "answer": "tells",
-      "explanation": "Tell can take the listener directly: tells me that this is the last stop.",
+      "explanation": "'Tell' can take the listener directly: 'tells me that this is the last stop'.",
       "rationales": {
-        "says": "Say needs to before a listener: says to me, not says me.",
-        "speaks": "Speaks does not take me directly before a that clause in this pattern.",
-        "tells": "Tell can take the listener directly: tells me that this is the last stop.",
-        "talks": "Talk normally uses a preposition for the listener, such as talks to me, not talks me that."
+        "says": "'Say' needs 'to' before a listener: 'says to me', not 'says me'.",
+        "speaks": "'Speaks' does not take 'me' directly before a that clause in this pattern.",
+        "tells": "'Tell' can take the listener directly: 'tells me that this is the last stop'.",
+        "talks": "'Talk' normally uses a preposition for the listener, such as 'talks to me', not 'talks me that'."
       },
       "audit": {
         "status": "reviewed",
@@ -191,7 +191,7 @@
     {
       "id": "coverage-reported-speech-a1-3247",
       "level": "A1",
-      "setupText": "Complete the report using said and the listener correctly.",
+      "setupText": "Complete the report using 'said' and the listener correctly.",
       "taskText": "The host said ___ the guest that dinner was ready.",
       "options": [
         "at",
@@ -200,12 +200,12 @@
         "with"
       ],
       "answer": "to",
-      "explanation": "Said to the guest identifies the person who heard the host's message.",
+      "explanation": "'Said to the guest' identifies the person who heard the host's message.",
       "rationales": {
-        "at": "At does not introduce the listener after said in this reporting pattern.",
-        "for": "For can suggest speaking on someone's behalf, not saying these words to that person.",
-        "with": "With does not mark the person receiving the message after said.",
-        "to": "Said to the guest identifies the person who heard the host's message."
+        "at": "'At' does not introduce the listener after 'said' in this reporting pattern.",
+        "for": "'For' can suggest speaking on someone's behalf, not saying these words to that person.",
+        "with": "'With' does not mark the person receiving the message after 'said'.",
+        "to": "'Said to the guest' identifies the person who heard the host's message."
       },
       "audit": {
         "status": "reviewed",
@@ -439,7 +439,7 @@
     {
       "id": "coverage-reported-speech-a1-3255",
       "level": "A1",
-      "setupText": "Choose the report keeping the meaning of can.",
+      "setupText": "Choose the report keeping the meaning of 'can'.",
       "taskText": "My aunt says, 'I can drive.'",
       "options": [
         "My aunt says she wants to drive.",
@@ -448,12 +448,12 @@
         "My aunt says she cannot drive."
       ],
       "answer": "My aunt says she can drive.",
-      "explanation": "Can keeps the aunt's statement that she is able to drive.",
+      "explanation": "'Can' keeps the aunt's statement that she is able to drive.",
       "rationales": {
-        "My aunt says she wants to drive.": "Want expresses a wish, not the ability stated with can.",
-        "My aunt says she needs to drive.": "Need expresses necessity, not the stated ability.",
-        "My aunt says she cannot drive.": "Cannot reverses the positive statement about driving.",
-        "My aunt says she can drive.": "Can keeps the aunt's statement that she is able to drive."
+        "My aunt says she wants to drive.": "'Want' expresses a wish, not the ability stated with 'can'.",
+        "My aunt says she needs to drive.": "'Need' expresses necessity, not the stated ability.",
+        "My aunt says she cannot drive.": "'Cannot' reverses the positive statement about driving.",
+        "My aunt says she can drive.": "'Can' keeps the aunt's statement that she is able to drive."
       },
       "audit": {
         "status": "reviewed",
@@ -749,7 +749,7 @@
     {
       "id": "coverage-reported-speech-a2-3265",
       "level": "A2",
-      "setupText": "The swimmer said, 'I can swim a kilometer.' Use could to report the same ability from that past conversation.",
+      "setupText": "The swimmer said, 'I can swim a kilometer.' Use 'could' to report the same ability from that past conversation.",
       "taskText": "The swimmer said that she ___.",
       "options": [
         "could not swim a kilometer",
@@ -758,12 +758,12 @@
         "could swim a kilometer"
       ],
       "answer": "could swim a kilometer",
-      "explanation": "Could plus the base form swim reports the ability without changing its positive meaning.",
+      "explanation": "'Could' plus the base form 'swim' reports the ability without changing its positive meaning.",
       "rationales": {
-        "could not swim a kilometer": "Could not adds a negative and reverses the stated ability.",
-        "could swim a kilometer": "Could plus the base form swim reports the ability without changing its positive meaning.",
-        "could swimming a kilometer": "A modal such as could takes the base form swim, not swimming.",
-        "could to swim a kilometer": "Could is followed directly by swim, without to."
+        "could not swim a kilometer": "'Could not' adds a negative and reverses the stated ability.",
+        "could swim a kilometer": "'Could' plus the base form 'swim' reports the ability without changing its positive meaning.",
+        "could swimming a kilometer": "A modal such as 'could' takes the base form 'swim', not 'swimming'.",
+        "could to swim a kilometer": "'Could' is followed directly by 'swim', without 'to'."
       },
       "audit": {
         "status": "reviewed",
@@ -780,7 +780,7 @@
     {
       "id": "coverage-reported-speech-a2-3266",
       "level": "A2",
-      "setupText": "The plumber said, 'I will call before I arrive.' Choose the report using would for that future action viewed from the past.",
+      "setupText": "The plumber said, 'I will call before I arrive.' Choose the report using 'would' for that future action viewed from the past.",
       "taskText": "The plumber said that he ___.",
       "options": [
         "would called before he arrived",
@@ -789,12 +789,12 @@
         "would to call before he arrived"
       ],
       "answer": "would call before he arrived",
-      "explanation": "Would call keeps the promised call later than the original conversation and uses the required base verb.",
+      "explanation": "'Would call' keeps the promised call later than the original conversation and uses the required base verb.",
       "rationales": {
-        "would called before he arrived": "Would needs the base form call, not the past form called.",
-        "would calling before he arrived": "Calling cannot follow would directly in this verb phrase.",
-        "would call before he arrived": "Would call keeps the promised call later than the original conversation and uses the required base verb.",
-        "would to call before he arrived": "Would does not take to before its main verb."
+        "would called before he arrived": "'Would' needs the base form 'call', not the past form 'called'.",
+        "would calling before he arrived": "'Calling' cannot follow 'would' directly in this verb phrase.",
+        "would call before he arrived": "'Would call' keeps the promised call later than the original conversation and uses the required base verb.",
+        "would to call before he arrived": "'Would' does not take 'to' before its main verb."
       },
       "audit": {
         "status": "reviewed",
@@ -966,7 +966,7 @@
     {
       "id": "coverage-reported-speech-a2-3272",
       "level": "A2",
-      "setupText": "On Tuesday the guest said, 'I arrived yesterday.' Which phrase keeps yesterday linked to the day he spoke?",
+      "setupText": "On Tuesday the guest said, 'I arrived yesterday.' Which phrase keeps 'yesterday' linked to the day he spoke?",
       "taskText": "The guest said on Tuesday that he had arrived ___.",
       "options": [
         "the next day",
@@ -975,12 +975,12 @@
         "the following week"
       ],
       "answer": "the day before",
-      "explanation": "The day before refers to Monday, the day before the guest's Tuesday statement.",
+      "explanation": "'The day before' refers to Monday, the day before the guest's Tuesday statement.",
       "rationales": {
-        "the day before": "The day before refers to Monday, the day before the guest's Tuesday statement.",
-        "the next day": "The next day points forward from Tuesday rather than back to the arrival day.",
-        "on Tuesday": "On Tuesday makes arrival happen on the speaking day instead of the previous day.",
-        "the following week": "The following week shifts arrival to a later week, not yesterday relative to the conversation."
+        "the day before": "'The day before' refers to Monday, the day before the guest's Tuesday statement.",
+        "the next day": "'The next day' points forward from Tuesday rather than back to the arrival day.",
+        "on Tuesday": "'On Tuesday' makes arrival happen on the speaking day instead of the previous day.",
+        "the following week": "'The following week' shifts arrival to a later week, not 'yesterday' relative to the conversation."
       },
       "audit": {
         "status": "reviewed",
@@ -1183,7 +1183,7 @@
     {
       "id": "coverage-reported-speech-a2-3279",
       "level": "A2",
-      "setupText": "Choose the natural pattern with told and a named listener.",
+      "setupText": "Choose the natural pattern with 'told' and a named listener.",
       "taskText": "The trainer ___ the session was free.",
       "options": [
         "told us that",
@@ -1192,12 +1192,12 @@
         "told us to that"
       ],
       "answer": "told us that",
-      "explanation": "Told us that names the listeners and introduces the information they received.",
+      "explanation": "'Told us that' names the listeners and introduces the information they received.",
       "rationales": {
-        "told that": "In this use of tell, the report needs a listener, such as us, before that.",
-        "told to us that": "Tell takes us directly here, not to us.",
-        "told us to that": "To cannot stand between us and a that clause in this pattern.",
-        "told us that": "Told us that names the listeners and introduces the information they received."
+        "told that": "In this use of 'tell', the report needs a listener, such as 'us', before 'that'.",
+        "told to us that": "'Tell' takes 'us' directly here, not 'to us'.",
+        "told us to that": "'To' cannot stand between 'us' and a 'that' clause in this pattern.",
+        "told us that": "'Told us that' names the listeners and introduces the information they received."
       },
       "audit": {
         "status": "reviewed",
@@ -1214,7 +1214,7 @@
     {
       "id": "coverage-reported-speech-a2-3280",
       "level": "A2",
-      "setupText": "A guide says, 'The river runs through the city.' The report begins with says, not said.",
+      "setupText": "A guide says, 'The river runs through the city.' The report begins with 'says', not 'said'.",
       "taskText": "The guide says that the river ___.",
       "options": [
         "run through the city",
@@ -1223,12 +1223,12 @@
         "runs through the city"
       ],
       "answer": "runs through the city",
-      "explanation": "Runs agrees with the river and keeps the present fact after the present reporting verb says.",
+      "explanation": "'Runs' agrees with 'the river' and keeps the present fact after the present reporting verb 'says'.",
       "rationales": {
-        "runs through the city": "Runs agrees with the river and keeps the present fact after the present reporting verb says.",
-        "run through the city": "Run lacks the singular -s required with the river in this present statement.",
-        "running through the city": "Running needs an auxiliary to form a complete verb phrase here.",
-        "is run through the city": "Is run is a passive form, which does not express the river's ordinary course through the city."
+        "runs through the city": "'Runs' agrees with 'the river' and keeps the present fact after the present reporting verb 'says'.",
+        "run through the city": "'Run' lacks the singular -s required with the river in this present statement.",
+        "running through the city": "'Running' needs an auxiliary to form a complete verb phrase here.",
+        "is run through the city": "'Is run' is a passive form, which does not express the river's ordinary course through the city."
       },
       "audit": {
         "status": "reviewed",
@@ -1276,7 +1276,7 @@
     {
       "id": "coverage-reported-speech-b1-3282",
       "level": "B1",
-      "setupText": "The organizer asked, 'Have you paid the entry fee?' Choose the standard indirect question with had paid.",
+      "setupText": "The organizer asked, 'Have you paid the entry fee?' Choose the standard indirect question with 'had paid'.",
       "taskText": "The organizer asked ___.",
       "options": [
         "that I had paid the entry fee",
@@ -1285,12 +1285,12 @@
         "if I had pay the entry fee"
       ],
       "answer": "if I had paid the entry fee",
-      "explanation": "If introduces the yes/no question, and I had paid has the required embedded order and perfect form.",
+      "explanation": "'If' introduces the yes/no question, and 'I had paid' has the required embedded order and perfect form.",
       "rationales": {
-        "that I had paid the entry fee": "That would introduce a statement, not the yes/no question being reported.",
-        "if had I paid the entry fee": "The embedded question needs I had, not the direct-question order had I.",
-        "if I had paid the entry fee": "If introduces the yes/no question, and I had paid has the required embedded order and perfect form.",
-        "if I had pay the entry fee": "Had must be followed by paid, the past participle, not pay."
+        "that I had paid the entry fee": "'That' would introduce a statement, not the yes/no question being reported.",
+        "if had I paid the entry fee": "The embedded question needs 'I had', not the direct-question order 'had I'.",
+        "if I had paid the entry fee": "'If' introduces the yes/no question, and 'I had paid' has the required embedded order and perfect form.",
+        "if I had pay the entry fee": "'Had' must be followed by 'paid', the past participle, not 'pay'."
       },
       "audit": {
         "status": "reviewed",
@@ -1307,7 +1307,7 @@
     {
       "id": "coverage-reported-speech-b1-3283",
       "level": "B1",
-      "setupText": "Report 'Who ordered the flowers?' using who as the subject and the past perfect.",
+      "setupText": "Report 'Who ordered the flowers?' using 'who' as the subject and the past perfect.",
       "taskText": "The florist asked ___.",
       "options": [
         "who had the flowers ordered",
@@ -1316,12 +1316,12 @@
         "who did had ordered the flowers"
       ],
       "answer": "who had ordered the flowers",
-      "explanation": "Who is the subject of had ordered, so no separate subject or do-support is needed.",
+      "explanation": "'Who' is the subject of 'had ordered', so no separate subject or do-support is needed.",
       "rationales": {
-        "who had the flowers ordered": "Who had the flowers ordered can ask who arranged the service; it is not the requested perfect report of who ordered them.",
-        "who the flowers had ordered": "This makes the flowers the subject of ordered instead of keeping who as the subject.",
-        "who did had ordered the flowers": "Did cannot precede had ordered in this form.",
-        "who had ordered the flowers": "Who is the subject of had ordered, so no separate subject or do-support is needed."
+        "who had the flowers ordered": "'Who had the flowers ordered' can ask who arranged the service; it is not the requested perfect report of who ordered them.",
+        "who the flowers had ordered": "This makes the flowers the subject of 'ordered' instead of keeping 'who' as the subject.",
+        "who did had ordered the flowers": "'Did' cannot precede 'had ordered' in this form.",
+        "who had ordered the flowers": "'Who' is the subject of 'had ordered', so no separate subject or do-support is needed."
       },
       "audit": {
         "status": "reviewed",
@@ -1338,7 +1338,7 @@
     {
       "id": "coverage-reported-speech-b1-3284",
       "level": "B1",
-      "setupText": "Choose standard written indirect-question order. Keep the simple past cost, which has the same spelling as the base form.",
+      "setupText": "Choose standard written indirect-question order. Keep the simple past 'cost', which has the same spelling as the base form.",
       "taskText": "The visitor asked how much ___.",
       "options": [
         "the tickets cost",
@@ -1347,12 +1347,12 @@
         "cost the tickets"
       ],
       "answer": "the tickets cost",
-      "explanation": "The tickets cost places the subject before the simple past verb in the embedded question.",
+      "explanation": "'The tickets cost' places the subject before the simple past verb in the embedded question.",
       "rationales": {
-        "the tickets cost": "The tickets cost places the subject before the simple past verb in the embedded question.",
-        "did the tickets cost": "Did the tickets cost is direct-question order, not the requested indirect order.",
-        "the tickets did costed": "After did the verb would be cost, not costed; this phrase also adds unnecessary do-support.",
-        "cost the tickets": "Cost the tickets puts the main verb before the subject instead of using the tickets cost."
+        "the tickets cost": "'The tickets cost' places the subject before the simple past verb in the embedded question.",
+        "did the tickets cost": "'Did the tickets cost' is direct-question order, not the requested indirect order.",
+        "the tickets did costed": "After 'did' the verb would be 'cost', not 'costed'; this phrase also adds unnecessary do-support.",
+        "cost the tickets": "'Cost the tickets' puts the main verb before the subject instead of using 'the tickets cost'."
       },
       "audit": {
         "status": "reviewed",
@@ -2206,7 +2206,7 @@
     {
       "id": "coverage-reported-speech-b2-3312",
       "level": "B2",
-      "setupText": "The librarian said, 'You ought to keep a record of your sources.' Keep ought to unchanged in the report.",
+      "setupText": "The librarian said, 'You ought to keep a record of your sources.' Keep 'ought to' unchanged in the report.",
       "taskText": "The librarian said that we ___.",
       "options": [
         "ought to keep a record of our sources",
@@ -2215,12 +2215,12 @@
         "would ought to keep a record of our sources"
       ],
       "answer": "ought to keep a record of our sources",
-      "explanation": "Ought to is retained, with the base form keep, while our adjusts the possessive to the reporting group.",
+      "explanation": "'Ought to' is retained, with the base form 'keep', while 'our' adjusts the possessive to the reporting group.",
       "rationales": {
-        "ought to keep a record of our sources": "Ought to is retained, with the base form keep, while our adjusts the possessive to the reporting group.",
-        "ought kept a record of our sources": "Ought needs to plus the base verb here, not the past form kept.",
-        "had ought to keep a record of our sources": "Had cannot be added as a backshift auxiliary before ought in this standard construction.",
-        "would ought to keep a record of our sources": "Would cannot be stacked before ought to make the intended report."
+        "ought to keep a record of our sources": "'Ought to' is retained, with the base form 'keep', while 'our' adjusts the possessive to the reporting group.",
+        "ought kept a record of our sources": "'Ought' needs 'to' plus the base verb here, not the past form 'kept'.",
+        "had ought to keep a record of our sources": "'Had' cannot be added as a backshift auxiliary before 'ought' in this standard construction.",
+        "would ought to keep a record of our sources": "'Would' cannot be stacked before 'ought' to make the intended report."
       },
       "audit": {
         "status": "reviewed",
@@ -2764,8 +2764,8 @@
     {
       "id": "coverage-reported-speech-c1-3330",
       "level": "C1",
-      "setupText": "What should an editor conclude about the reference of we in this transcript?",
-      "taskText": "A chair told visiting delegates, 'We must revise our position.' The surrounding transcript does not identify whether we includes the delegates.",
+      "setupText": "What should an editor conclude about the reference of 'we' in this transcript?",
+      "taskText": "A chair told visiting delegates, 'We must revise our position.' The surrounding transcript does not identify whether 'we' includes the delegates.",
       "options": [
         "We must become they because a report can never include its audience.",
         "We must become you because the chair was addressing delegates.",
@@ -2775,9 +2775,9 @@
       "answer": "The included group needs clarification before a report can replace we with a specific group name.",
       "explanation": "The missing group membership cannot be recovered from pronoun form alone; clarification avoids inventing who shares the position.",
       "rationales": {
-        "We must become they because a report can never include its audience.": "A reported we may include or exclude the original audience; there is no automatic they rule that resolves membership.",
-        "We must become you because the chair was addressing delegates.": "Addressing delegates does not make we refer to the delegates alone.",
-        "We proves that the chair and delegates held the same position.": "We alone does not settle whether the delegates belong to the group whose position is discussed.",
+        "We must become they because a report can never include its audience.": "A reported 'we' may include or exclude the original audience; there is no automatic 'they' rule that resolves membership.",
+        "We must become you because the chair was addressing delegates.": "Addressing delegates does not make 'we' refer to the delegates alone.",
+        "We proves that the chair and delegates held the same position.": "'We' alone does not settle whether the delegates belong to the group whose position is discussed.",
         "The included group needs clarification before a report can replace we with a specific group name.": "The missing group membership cannot be recovered from pronoun form alone; clarification avoids inventing who shares the position."
       },
       "audit": {
@@ -3602,7 +3602,7 @@
       "id": "coverage-reported-speech-c2-3357",
       "level": "C2",
       "setupText": "Which summary accurately captures the architect's correction?",
-      "taskText": "The architect said, 'I called the design unprecedented, not unacceptable.' No further evaluation was given.",
+      "taskText": "The architect said, 'I called the design \"unprecedented\", not \"unacceptable\".' No further evaluation was given.",
       "options": [
         "The architect denied finding the design unacceptable.",
         "The architect corrected the word attributed to her, without settling whether she considered the design acceptable.",
@@ -3610,12 +3610,12 @@
         "The architect admitted disapproving of the design but preferred a less direct expression."
       ],
       "answer": "The architect corrected the word attributed to her, without settling whether she considered the design acceptable.",
-      "explanation": "The contrast corrects which description she used; unprecedented does not itself mean acceptable or unacceptable.",
+      "explanation": "The contrast corrects which description she used; 'unprecedented' does not itself mean 'acceptable' or 'unacceptable'.",
       "rationales": {
-        "The architect denied finding the design unacceptable.": "Not having used unacceptable does not establish that she did not privately judge it unacceptable.",
-        "The architect corrected the word attributed to her, without settling whether she considered the design acceptable.": "The contrast corrects which description she used; unprecedented does not itself mean acceptable or unacceptable.",
-        "The architect withdrew a judgment that the design was unprecedented and endorsed it as acceptable.": "She maintains unprecedented as her wording and supplies no endorsement of acceptability.",
-        "The architect admitted disapproving of the design but preferred a less direct expression.": "The statement does not admit disapproval or say unprecedented was an indirect substitute for it."
+        "The architect denied finding the design unacceptable.": "Not having used 'unacceptable' does not establish that she did not privately judge it unacceptable.",
+        "The architect corrected the word attributed to her, without settling whether she considered the design acceptable.": "The contrast corrects which description she used; 'unprecedented' does not itself mean 'acceptable' or 'unacceptable'.",
+        "The architect withdrew a judgment that the design was unprecedented and endorsed it as acceptable.": "She maintains 'unprecedented' as her wording and supplies no endorsement of acceptability.",
+        "The architect admitted disapproving of the design but preferred a less direct expression.": "The statement does not admit disapproval or say 'unprecedented' was an indirect substitute for it."
       },
       "audit": {
         "status": "reviewed",

@@ -944,21 +944,21 @@ ID: `coverage-passive-voice-a2-2310`
 
 Choose the neutral direct question with the helping verb before the subject.
 
-Ask when someone repaired the bridge, starting with When.
+Ask when someone repaired the bridge, starting with 'When'.
 
 1. When did the bridge repaired?
 2. When was repaired the bridge?
 3. When was the bridge repaired? **[Correct]**
 4. When the bridge was repaired?
 
-**Explanation:** In a direct past passive question, place was before the bridge and repaired after it.
+**Explanation:** In a direct past passive question, place 'was' before 'the bridge' and 'repaired' after it.
 
 **Choice feedback:**
 
-- **When did the bridge repaired?:** Did cannot directly combine with repaired to make a passive question.
-- **When was repaired the bridge?:** The subject belongs between was and repaired in this direct question.
-- **When was the bridge repaired?:** In a direct past passive question, place was before the bridge and repaired after it.
-- **When the bridge was repaired?:** This is embedded-question order; the direct question needs was before the bridge.
+- **When did the bridge repaired?:** 'Did' cannot directly combine with 'repaired' to make a passive question.
+- **When was repaired the bridge?:** The subject belongs between 'was' and 'repaired' in this direct question.
+- **When was the bridge repaired?:** In a direct past passive question, place 'was' before 'the bridge' and 'repaired' after it.
+- **When the bridge was repaired?:** This is embedded-question order; the direct question needs 'was' before 'the bridge'.
 
 **Decision:** replaced.
 
@@ -974,7 +974,7 @@ Ask when someone repaired the bridge, starting with When.
 
 ID: `coverage-passive-voice-a2-2311`
 
-Choose the meaning of to the residents.
+Choose the meaning of 'to the residents'.
 
 The invitations were sent to the residents by the town hall staff.
 
@@ -983,13 +983,13 @@ The invitations were sent to the residents by the town hall staff.
 3. It names who received the invitations. **[Correct]**
 4. It says who wrote the invitations.
 
-**Explanation:** To the residents identifies the recipients. By the town hall staff identifies the senders.
+**Explanation:** 'To the residents' identifies the recipients. 'By the town hall staff' identifies the senders.
 
 **Choice feedback:**
 
-- **It names who sent the invitations.:** The senders are named after by, not after to.
+- **It names who sent the invitations.:** The senders are named after 'by', not after 'to'.
 - **It gives the place where the invitations were printed.:** The phrase identifies people receiving invitations, not a printing location.
-- **It names who received the invitations.:** To the residents identifies the recipients. By the town hall staff identifies the senders.
+- **It names who received the invitations.:** 'To the residents' identifies the recipients. 'By the town hall staff' identifies the senders.
 - **It says who wrote the invitations.:** Writing and sending are different actions, and this sentence does not identify the writer.
 
 **Decision:** replaced.
@@ -1490,7 +1490,7 @@ Travel passes ___ to the inspector on request.
 
 ID: `coverage-passive-voice-b1-2327`
 
-Choose the passive sentence keeping us as the people receiving the offer.
+Choose the passive sentence keeping 'us' as the people receiving the offer.
 
 The host offered us a quieter table.
 
@@ -1499,14 +1499,14 @@ The host offered us a quieter table.
 3. We were offered a quieter table. **[Correct]**
 4. We were offering a quieter table.
 
-**Explanation:** We becomes the passive subject as the recipient of the host's offer; the offered table stays in the sentence.
+**Explanation:** 'We' becomes the passive subject as the recipient of the host's offer; the offered table stays in the sentence.
 
 **Choice feedback:**
 
 - **We offered the host a quieter table.:** This makes us the people offering something and the host its recipient.
 - **The host was offered our quieter table.:** This makes the host receive an offer of our table, reversing the original offer to us.
-- **We were offered a quieter table.:** We becomes the passive subject as the recipient of the host's offer; the offered table stays in the sentence.
-- **We were offering a quieter table.:** Were offering is active continuous and makes us the offerers rather than recipients.
+- **We were offered a quieter table.:** 'We' becomes the passive subject as the recipient of the host's offer; the offered table stays in the sentence.
+- **We were offering a quieter table.:** 'Were offering' is active continuous and makes us the offerers rather than recipients.
 
 **Decision:** replaced.
 
@@ -1522,7 +1522,7 @@ The host offered us a quieter table.
 
 ID: `coverage-passive-voice-b1-2328`
 
-Choose the passive version beginning with the replacement battery and preserving the recipient.
+Choose the passive version beginning with 'the replacement battery' and preserving the recipient.
 
 The supplier sent the customer a replacement battery.
 
@@ -1531,14 +1531,14 @@ The supplier sent the customer a replacement battery.
 3. A replacement battery sent the customer to the supplier.
 4. A replacement battery was sending the customer.
 
-**Explanation:** When the battery is the passive subject, to the customer preserves the recipient of the supplier's sending.
+**Explanation:** When the battery is the passive subject, 'to the customer' preserves the recipient of the supplier's sending.
 
 **Choice feedback:**
 
-- **A replacement battery was sent to the customer.:** When the battery is the passive subject, to the customer preserves the recipient of the supplier's sending.
-- **A replacement battery was sent by the customer.:** By the customer makes the customer the sender, reversing the original recipient role.
+- **A replacement battery was sent to the customer.:** When the battery is the passive subject, 'to the customer' preserves the recipient of the supplier's sending.
+- **A replacement battery was sent by the customer.:** 'By the customer' makes the customer the sender, reversing the original recipient role.
 - **A replacement battery sent the customer to the supplier.:** This makes the battery act and turns the supplier into a destination.
-- **A replacement battery was sending the customer.:** Was sending is active continuous and makes the battery the sender.
+- **A replacement battery was sending the customer.:** 'Was sending' is active continuous and makes the battery the sender.
 
 **Decision:** replaced.
 
@@ -1746,7 +1746,7 @@ Describe the guests reaching the venue just after six.
 
 ID: `coverage-passive-voice-b1-2335`
 
-Choose the meaning of got promoted in this informal account.
+Choose the meaning of 'got promoted' in this informal account.
 
 My colleague got promoted after leading the successful launch.
 
@@ -1755,14 +1755,14 @@ My colleague got promoted after leading the successful launch.
 3. The colleague arranged a launch for a promoted worker.
 4. The colleague lost a promotion after the launch.
 
-**Explanation:** Got promoted is an informal get-passive: someone promoted the colleague.
+**Explanation:** 'Got promoted' is an informal get-passive: someone promoted the colleague.
 
 **Choice feedback:**
 
-- **The colleague promoted another worker.:** Got promoted makes the colleague the recipient, not the person promoting others.
-- **The colleague received a promotion.:** Got promoted is an informal get-passive: someone promoted the colleague.
+- **The colleague promoted another worker.:** 'Got promoted' makes the colleague the recipient, not the person promoting others.
+- **The colleague received a promotion.:** 'Got promoted' is an informal get-passive: someone promoted the colleague.
 - **The colleague arranged a launch for a promoted worker.:** The phrase describes the colleague's promotion, not the status of another worker.
-- **The colleague lost a promotion after the launch.:** Got promoted states a successful promotion, not its loss; get-passives need not describe bad events.
+- **The colleague lost a promotion after the launch.:** 'Got promoted' states a successful promotion, not its loss; get-passives need not describe bad events.
 
 **Decision:** replaced.
 
@@ -2326,7 +2326,7 @@ The agency reserved a seat for the traveler.
 
 ID: `coverage-passive-voice-b2-2353`
 
-Choose the sentence preserving chair as the role the members elected the candidate to fill.
+Choose the sentence preserving 'chair' as the role the members elected the candidate to fill.
 
 The members elected Dr. Bell chair of the association.
 
@@ -2335,13 +2335,13 @@ The members elected Dr. Bell chair of the association.
 3. Dr. Bell was elected chair of the association. **[Correct]**
 4. The chair elected Dr. Bell to the association.
 
-**Explanation:** Was elected is passive, and chair remains the complement naming the role Dr. Bell receives.
+**Explanation:** 'Was elected' is passive, and 'chair' remains the complement naming the role Dr. Bell receives.
 
 **Choice feedback:**
 
 - **Dr. Bell elected the chair of the association.:** This makes Dr. Bell the voter instead of the person elected.
-- **Dr. Bell was elected by the chair of the association.:** By the chair turns chair into the electing agent rather than the role awarded.
-- **Dr. Bell was elected chair of the association.:** Was elected is passive, and chair remains the complement naming the role Dr. Bell receives.
+- **Dr. Bell was elected by the chair of the association.:** 'By the chair' turns 'chair' into the electing agent rather than the role awarded.
+- **Dr. Bell was elected chair of the association.:** 'Was elected' is passive, and 'chair' remains the complement naming the role Dr. Bell receives.
 - **The chair elected Dr. Bell to the association.:** This changes both the electing agent and the role into mere association membership.
 
 **Decision:** replaced.
@@ -2714,7 +2714,7 @@ When the observatory reopened, the dome was thought to have been reinforced.
 
 ID: `coverage-passive-voice-c1-2365`
 
-Choose the passive paraphrase preserving the scope of only over the workers employed.
+Choose the passive paraphrase preserving the scope of 'only' over the workers employed.
 
 The firm employed only local workers for the restoration.
 
@@ -2723,14 +2723,14 @@ The firm employed only local workers for the restoration.
 3. Local workers were employed by the firm only for the restoration.
 4. Only the firm employed local workers for the restoration.
 
-**Explanation:** Only local workers keeps the restriction on which workers the firm employed.
+**Explanation:** 'Only local workers' keeps the restriction on which workers the firm employed.
 
 **Choice feedback:**
 
-- **Only local workers were employed by the firm for the restoration.:** Only local workers keeps the restriction on which workers the firm employed.
-- **Local workers were employed only by the firm for the restoration.:** Only by the firm excludes other employers, not nonlocal workers.
-- **Local workers were employed by the firm only for the restoration.:** Only for the restoration limits the work's purpose or occasion rather than the workers' locality.
-- **Only the firm employed local workers for the restoration.:** Only the firm restricts the employer and is active, changing the original scope.
+- **Only local workers were employed by the firm for the restoration.:** 'Only local workers' keeps the restriction on which workers the firm employed.
+- **Local workers were employed only by the firm for the restoration.:** 'Only by the firm' excludes other employers, not nonlocal workers.
+- **Local workers were employed by the firm only for the restoration.:** 'Only for the restoration' limits the work's purpose or occasion rather than the workers' locality.
+- **Only the firm employed local workers for the restoration.:** 'Only the firm' restricts the employer and is active, changing the original scope.
 
 **Decision:** replaced.
 
@@ -3002,7 +3002,7 @@ The records show a mixture of screened and unscreened passengers.
 
 ID: `coverage-passive-voice-c1-2374`
 
-Choose the analysis explaining why this passive is possible without treating all uses of arrive as transitive.
+Choose the analysis explaining why this passive is possible without treating all uses of 'arrive' as transitive.
 
 No agreement was arrived at during mediation.
 
@@ -3011,14 +3011,14 @@ No agreement was arrived at during mediation.
 3. The passive construction adds an agreement as an object to the otherwise unchanged physical-arrival sense.
 4. The preposition supplies the omitted agent, so no agreement identifies the people who failed to arrive.
 
-**Explanation:** The figurative prepositional construction licenses agreement as a passive subject. This does not make ordinary intransitive physical arrive generally passivizable.
+**Explanation:** The figurative prepositional construction licenses 'agreement' as a passive subject. This does not make ordinary intransitive physical 'arrive' generally passivizable.
 
 **Choice feedback:**
 
-- **The preposition at is an optional location phrase, so agreement is a direct object promoted to subject.:** At is part of the figurative arrive at construction here, not an optional location phrase after a direct object.
-- **The unit arrive at means reach a conclusion; agreement is promoted from its prepositional complement.:** The figurative prepositional construction licenses agreement as a passive subject. This does not make ordinary intransitive physical arrive generally passivizable.
-- **The passive construction adds an agreement as an object to the otherwise unchanged physical-arrival sense.:** The acceptability depends on the figurative prepositional construction, not on passivization creating a direct object for physical arrive.
-- **The preposition supplies the omitted agent, so no agreement identifies the people who failed to arrive.:** At does not introduce an agent here; agreement identifies the outcome that was not reached.
+- **The preposition at is an optional location phrase, so agreement is a direct object promoted to subject.:** 'At' is part of the figurative 'arrive at' construction here, not an optional location phrase after a direct object.
+- **The unit arrive at means reach a conclusion; agreement is promoted from its prepositional complement.:** The figurative prepositional construction licenses 'agreement' as a passive subject. This does not make ordinary intransitive physical 'arrive' generally passivizable.
+- **The passive construction adds an agreement as an object to the otherwise unchanged physical-arrival sense.:** The acceptability depends on the figurative prepositional construction, not on passivization creating a direct object for physical 'arrive'.
+- **The preposition supplies the omitted agent, so no agreement identifies the people who failed to arrive.:** 'At' does not introduce an agent here; agreement identifies the outcome that was not reached.
 
 **Decision:** replaced.
 
@@ -3162,7 +3162,7 @@ The customs inspection prevented the artifacts from being exported.
 
 ID: `coverage-passive-voice-c1-2379`
 
-Choose the interpretation of shown to in this research statement.
+Choose the interpretation of 'shown to' in this research statement.
 
 Participants were shown to recognize familiar melodies more quickly than unfamiliar ones.
 
@@ -3171,14 +3171,14 @@ Participants were shown to recognize familiar melodies more quickly than unfamil
 3. Evidence demonstrated a difference in participants' recognition speed. **[Correct]**
 4. Participants demonstrated the melodies to the researchers.
 
-**Explanation:** Were shown to introduces a finding established by evidence about the participants' behavior.
+**Explanation:** 'Were shown to' introduces a finding established by evidence about the participants' behavior.
 
 **Choice feedback:**
 
-- **Participants were shown pictures telling them which melodies were familiar.:** Shown to recognize is not the double-object construction in which people are shown pictures or other objects.
+- **Participants were shown pictures telling them which melodies were familiar.:** 'Shown to recognize' is not the double-object construction in which people are shown pictures or other objects.
 - **Researchers instructed participants to recognize familiar melodies more quickly.:** The sentence reports a demonstrated result, not an instruction to perform differently.
-- **Evidence demonstrated a difference in participants' recognition speed.:** Were shown to introduces a finding established by evidence about the participants' behavior.
-- **Participants demonstrated the melodies to the researchers.:** Participants are the subjects of recognize, not the people showing melodies to researchers.
+- **Evidence demonstrated a difference in participants' recognition speed.:** 'Were shown to' introduces a finding established by evidence about the participants' behavior.
+- **Participants demonstrated the melodies to the researchers.:** Participants are the subjects of 'recognize', not the people showing melodies to researchers.
 
 **Decision:** replaced.
 

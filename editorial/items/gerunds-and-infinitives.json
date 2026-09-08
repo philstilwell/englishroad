@@ -811,7 +811,7 @@
     {
       "id": "coverage-gerunds-and-infinitives-a2-1467",
       "level": "A2",
-      "setupText": "Choose the meaning of kept checking.",
+      "setupText": "Choose the meaning of 'kept checking'.",
       "taskText": "'While waiting for the delivery, I kept checking my phone.'",
       "options": [
         "I saved my phone so that I could check it later.",
@@ -820,12 +820,12 @@
         "I tried to avoid checking my phone during the wait."
       ],
       "answer": "I checked my phone repeatedly during the wait.",
-      "explanation": "Keep + -ing can describe an action that continues or happens repeatedly.",
+      "explanation": "'Keep' + -ing can describe an action that continues or happens repeatedly.",
       "rationales": {
-        "I saved my phone so that I could check it later.": "Kept followed by checking means repeated action, not storing the phone.",
+        "I saved my phone so that I could check it later.": "'Kept' followed by 'checking' means repeated action, not storing the phone.",
         "I remembered one earlier occasion when I checked my phone.": "That would describe a memory, not repeated checking during the wait.",
-        "I checked my phone repeatedly during the wait.": "Keep + -ing can describe an action that continues or happens repeatedly.",
-        "I tried to avoid checking my phone during the wait.": "Avoid checking is the opposite of the repeated action described."
+        "I checked my phone repeatedly during the wait.": "'Keep' + -ing can describe an action that continues or happens repeatedly.",
+        "I tried to avoid checking my phone during the wait.": "'Avoid checking' is the opposite of the repeated action described."
       },
       "audit": {
         "status": "reviewed",

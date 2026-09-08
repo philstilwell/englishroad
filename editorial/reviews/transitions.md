@@ -3806,7 +3806,7 @@ Which relation best captures 'for all that'?
 
 ID: `coverage-transitions-c2-3839`
 
-In this puzzle's classification system, a record is marked complete if and only if it contains both a date and a source reference.
+In this puzzle's classification system, a record is marked 'complete' if and only if it contains both a date and a source reference.
 
 Which rule expresses both directions of the condition?
 
@@ -3815,14 +3815,14 @@ Which rule expresses both directions of the condition?
 3. Records with both entries are complete, but complete records may omit the source reference.
 4. Having both entries is sufficient for completeness, and completeness requires both. **[Correct]**
 
-**Explanation:** If and only if makes the condition both sufficient and necessary; neither direction can be dropped.
+**Explanation:** 'If and only if' makes the condition both sufficient and necessary; neither direction can be dropped.
 
 **Choice feedback:**
 
-- **Records with both entries may be complete, but completion can require an additional entry.:** This withholds sufficiency, which if and only if supplies.
+- **Records with both entries may be complete, but completion can require an additional entry.:** This withholds sufficiency, which 'if and only if' supplies.
 - **Complete records require both entries, though records with both may remain incomplete.:** This states necessity but denies the given sufficiency.
 - **Records with both entries are complete, but complete records may omit the source reference.:** This retains sufficiency while abandoning necessity.
-- **Having both entries is sufficient for completeness, and completeness requires both.:** If and only if makes the condition both sufficient and necessary; neither direction can be dropped.
+- **Having both entries is sufficient for completeness, and completeness requires both.:** 'If and only if' makes the condition both sufficient and necessary; neither direction can be dropped.
 
 **Decision:** replaced.
 

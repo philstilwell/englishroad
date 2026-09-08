@@ -285,7 +285,7 @@
       "id": "coverage-comparatives-a1-730",
       "level": "A1",
       "setupText": "A: 'How is the traffic today?' B: 'Worse than yesterday. The journey took an extra hour.'",
-      "taskText": "What does worse mean here?",
+      "taskText": "What does 'worse' mean here?",
       "options": [
         "More difficult to travel in",
         "Easier to travel in",
@@ -293,11 +293,11 @@
         "Better for a quick journey"
       ],
       "answer": "More difficult to travel in",
-      "explanation": "Worse is the comparative of bad; the extra travel time supports a poorer situation.",
+      "explanation": "'Worse' is the comparative of 'bad'; the extra travel time supports a poorer situation.",
       "rationales": {
         "Easier to travel in": "That would be better traffic, not worse traffic.",
-        "More difficult to travel in": "Worse is the comparative of bad; the extra travel time supports a poorer situation.",
-        "Just as easy to travel in": "Worse signals a difference, not an equal travel situation.",
+        "More difficult to travel in": "'Worse' is the comparative of 'bad'; the extra travel time supports a poorer situation.",
+        "Just as easy to travel in": "'Worse' signals a difference, not an equal travel situation.",
         "Better for a quick journey": "A quicker journey would be an improvement; an extra hour supports the opposite."
       },
       "audit": {
@@ -471,7 +471,7 @@
       "id": "coverage-comparatives-a1-736",
       "level": "A1",
       "setupText": "A: 'Which desk do you want?' B: 'The wider one.'",
-      "taskText": "What does one stand for in B's reply?",
+      "taskText": "What does 'one' stand for in B's reply?",
       "options": [
         "person",
         "room",
@@ -479,12 +479,12 @@
         "width"
       ],
       "answer": "desk",
-      "explanation": "The wider one means the wider desk. One avoids repeating the countable noun.",
+      "explanation": "'The wider one' means 'the wider desk'. 'One' avoids repeating the countable noun.",
       "rationales": {
         "person": "The speakers are choosing furniture, not identifying a person.",
-        "room": "No room is being selected; wider describes one of the desks.",
-        "width": "One replaces the thing being compared, not its measurement.",
-        "desk": "The wider one means the wider desk. One avoids repeating the countable noun."
+        "room": "No room is being selected; 'wider' describes one of the desks.",
+        "width": "'One' replaces the thing being compared, not its measurement.",
+        "desk": "'The wider one' means 'the wider desk'. 'One' avoids repeating the countable noun."
       },
       "audit": {
         "status": "reviewed",
@@ -1308,7 +1308,7 @@
       "id": "coverage-comparatives-b1-763",
       "level": "B1",
       "setupText": "A: 'I thought last month's waiting list was long.' B: 'This month's is even longer.'",
-      "taskText": "What does even add to B's comparison?",
+      "taskText": "What does 'even' add to B's comparison?",
       "options": [
         "It says the two lists are exactly equal in length.",
         "It says both lists exceeded a fixed official maximum.",
@@ -1316,12 +1316,12 @@
         "It highlights a further increase beyond an already notable length."
       ],
       "answer": "It highlights a further increase beyond an already notable length.",
-      "explanation": "Longer gives the increase, while even presents that increase as striking given the first list's length.",
+      "explanation": "'Longer' gives the increase, while 'even' presents that increase as striking given the first list's length.",
       "rationales": {
-        "It says the two lists are exactly equal in length.": "Even modifies longer here; it does not mean equal as it can in other contexts.",
-        "It says both lists exceeded a fixed official maximum.": "Even highlights the new list's greater length but supplies no official limit for either list.",
-        "It highlights a further increase beyond an already notable length.": "Longer gives the increase, while even presents that increase as striking given the first list's length.",
-        "It changes the comparison from length to waiting time.": "Waiting time may be related, but even does not change what longer compares."
+        "It says the two lists are exactly equal in length.": "'Even' modifies 'longer' here; it does not mean 'equal' as it can in other contexts.",
+        "It says both lists exceeded a fixed official maximum.": "'Even' highlights the new list's greater length but supplies no official limit for either list.",
+        "It highlights a further increase beyond an already notable length.": "'Longer' gives the increase, while 'even' presents that increase as striking given the first list's length.",
+        "It changes the comparison from length to waiting time.": "Waiting time may be related, but 'even' does not change what 'longer' compares."
       },
       "audit": {
         "status": "reviewed",
@@ -1463,7 +1463,7 @@
       "id": "coverage-comparatives-b1-768",
       "level": "B1",
       "setupText": "The exhibition has six rooms. A visitor says, 'The final room is by far the brightest.'",
-      "taskText": "What does by far add?",
+      "taskText": "What does 'by far' add?",
       "options": [
         "The final room is only slightly brighter than the others.",
         "The final room's brightness is well above the others'.",
@@ -1471,12 +1471,12 @@
         "All six rooms have almost the same brightness."
       ],
       "answer": "The final room's brightness is well above the others'.",
-      "explanation": "By far strengthens a superlative by presenting a substantial difference from the rest.",
+      "explanation": "'By far' strengthens a superlative by presenting a substantial difference from the rest.",
       "rationales": {
-        "The final room is only slightly brighter than the others.": "By far emphasizes a large lead, not a tiny one.",
-        "The final room is the greatest distance from the entrance.": "By far modifies the brightness ranking, not physical distance here.",
-        "All six rooms have almost the same brightness.": "That would remove the clear lead expressed by by far the brightest.",
-        "The final room's brightness is well above the others'.": "By far strengthens a superlative by presenting a substantial difference from the rest."
+        "The final room is only slightly brighter than the others.": "'By far' emphasizes a large lead, not a tiny one.",
+        "The final room is the greatest distance from the entrance.": "'By far' modifies the brightness ranking, not physical distance here.",
+        "All six rooms have almost the same brightness.": "That would remove the clear lead expressed by 'by far the brightest'.",
+        "The final room's brightness is well above the others'.": "'By far' strengthens a superlative by presenting a substantial difference from the rest."
       },
       "audit": {
         "status": "reviewed",
@@ -2703,7 +2703,7 @@
       "id": "coverage-comparatives-c1-808",
       "level": "C1",
       "setupText": "The organiser writes, 'As few as six people came to the public session.'",
-      "taskText": "What stance does as few as communicate here?",
+      "taskText": "What stance does 'as few as' communicate here?",
       "options": [
         "The attendance is given only as a maximum of six.",
         "Six is described as the minimum attendance required to hold the session.",
@@ -2711,12 +2711,12 @@
         "The attendance is presented as notably low."
       ],
       "answer": "The attendance is presented as notably low.",
-      "explanation": "As few as frames six as a surprisingly or notably small count in context.",
+      "explanation": "'As few as' frames six as a surprisingly or notably small count in context.",
       "rationales": {
-        "The attendance is given only as a maximum of six.": "As few as highlights the low figure; at most six would state only an upper bound.",
-        "The attendance is presented as notably low.": "As few as frames six as a surprisingly or notably small count in context.",
+        "The attendance is given only as a maximum of six.": "'As few as' highlights the low figure; 'at most six' would state only an upper bound.",
+        "The attendance is presented as notably low.": "'As few as' frames six as a surprisingly or notably small count in context.",
         "Six is described as the minimum attendance required to hold the session.": "The sentence reports turnout; it does not establish a procedural minimum.",
-        "Six people came in addition to the usual attendees.": "As few as modifies the reported total, not an added subgroup."
+        "Six people came in addition to the usual attendees.": "'As few as' modifies the reported total, not an added subgroup."
       },
       "audit": {
         "status": "reviewed",
@@ -3478,7 +3478,7 @@
       "id": "coverage-comparatives-c2-833",
       "level": "C2",
       "setupText": "A: 'Half the catalogue entries name the wrong artist.' B: 'Then calling it less than perfect was rather generous.'",
-      "taskText": "How does B treat the phrase less than perfect in this exchange?",
+      "taskText": "How does B treat the phrase 'less than perfect' in this exchange?",
       "options": [
         "As a precise estimate that nearly all entries are correct",
         "As a comparative ranking of this catalogue below another named catalogue",
@@ -3486,12 +3486,12 @@
         "As a rejection of all useful content in the catalogue"
       ],
       "answer": "As an understatement whose weak benchmark understates the seriousness of the faults",
-      "explanation": "Less than perfect literally excludes perfection; the extensive errors make that restrained description seem overly mild to B.",
+      "explanation": "'Less than perfect' literally excludes perfection; the extensive errors make that restrained description seem overly mild to B.",
       "rationales": {
-        "As an understatement whose weak benchmark understates the seriousness of the faults": "Less than perfect literally excludes perfection; the extensive errors make that restrained description seem overly mild to B.",
+        "As an understatement whose weak benchmark understates the seriousness of the faults": "'Less than perfect' literally excludes perfection; the extensive errors make that restrained description seem overly mild to B.",
         "As a precise estimate that nearly all entries are correct": "The phrase does not quantify correctness, and the exchange gives substantial errors rather than near-perfection.",
         "As a comparative ranking of this catalogue below another named catalogue": "Perfection is the benchmark; no second catalogue is named for comparison.",
-        "As a rejection of all useful content in the catalogue": "Neither less than perfect nor B's criticism establishes that every part lacks value."
+        "As a rejection of all useful content in the catalogue": "Neither 'less than perfect' nor B's criticism establishes that every part lacks value."
       },
       "audit": {
         "status": "reviewed",
@@ -3602,7 +3602,7 @@
       "id": "coverage-comparatives-c2-837",
       "level": "C2",
       "setupText": "A review says, 'The proposal deserves attention, not least because it addresses the maintenance costs that earlier plans ignored.'",
-      "taskText": "What role does not least assign to the following reason?",
+      "taskText": "What role does 'not least' assign to the following reason?",
       "options": [
         "It ranks maintenance costs below every other reason for considering the proposal.",
         "It identifies maintenance costs as the sole reason that justifies attention.",
@@ -3610,11 +3610,11 @@
         "It withdraws the maintenance argument while preserving the other reasons."
       ],
       "answer": "It marks that reason as especially important without claiming it is the only reason.",
-      "explanation": "Not least uses a negated lowest-rank expression to give the named reason prominence among possible reasons.",
+      "explanation": "'Not least' uses a negated lowest-rank expression to give the named reason prominence among possible reasons.",
       "rationales": {
-        "It marks that reason as especially important without claiming it is the only reason.": "Not least uses a negated lowest-rank expression to give the named reason prominence among possible reasons.",
+        "It marks that reason as especially important without claiming it is the only reason.": "'Not least' uses a negated lowest-rank expression to give the named reason prominence among possible reasons.",
         "It ranks maintenance costs below every other reason for considering the proposal.": "The phrase gives this reason emphasis rather than placing it at the bottom.",
-        "It identifies maintenance costs as the sole reason that justifies attention.": "Not least highlights a reason without excluding others.",
+        "It identifies maintenance costs as the sole reason that justifies attention.": "'Not least' highlights a reason without excluding others.",
         "It withdraws the maintenance argument while preserving the other reasons.": "The negation does not reject the reason; it denies that the reason should be treated as insignificant."
       },
       "audit": {

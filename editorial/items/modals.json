@@ -1431,7 +1431,7 @@
     {
       "id": "coverage-modals-b1-1967",
       "level": "B1",
-      "setupText": "Report the speaker's ability at that past time using the usual change from can to could.",
+      "setupText": "Report the speaker's ability at that past time using the usual change from 'can' to 'could'.",
       "taskText": "In 2019, Ravi said, 'I can work night shifts.' Ravi said that he ___ work night shifts.",
       "options": [
         "must",
@@ -1440,12 +1440,12 @@
         "could"
       ],
       "answer": "could",
-      "explanation": "Could is the usual reported form of can when referring to ability at that past time.",
+      "explanation": "'Could' is the usual reported form of 'can' when referring to ability at that past time.",
       "rationales": {
-        "must": "Must changes an ability into a requirement or conclusion.",
-        "would": "Would can report willingness or a future action, but it does not preserve the stated ability.",
-        "should": "Should changes the statement into advice or expectation.",
-        "could": "Could is the usual reported form of can when referring to ability at that past time."
+        "must": "'Must' changes an ability into a requirement or conclusion.",
+        "would": "'Would' can report willingness or a future action, but it does not preserve the stated ability.",
+        "should": "'Should' changes the statement into advice or expectation.",
+        "could": "'Could' is the usual reported form of 'can' when referring to ability at that past time."
       },
       "audit": {
         "status": "reviewed",
@@ -1648,7 +1648,7 @@
     {
       "id": "coverage-modals-b1-1974",
       "level": "B1",
-      "setupText": "Choose the meaning of can in this general description.",
+      "setupText": "Choose the meaning of 'can' in this general description.",
       "taskText": "'This coastal road can be very busy in summer.'",
       "options": [
         "Drivers have permission to make the road busy.",
@@ -1657,11 +1657,11 @@
         "The speaker is predicting heavy traffic this afternoon."
       ],
       "answer": "Heavy traffic occurs on this road at some times in summer.",
-      "explanation": "Can can describe an occasional or typical possibility, such as summer traffic.",
+      "explanation": "'Can' can describe an occasional or typical possibility, such as summer traffic.",
       "rationales": {
-        "Drivers have permission to make the road busy.": "This is not permission; can describes a feature that sometimes occurs.",
-        "The road needs heavy traffic in summer.": "Can does not express a need for traffic.",
-        "Heavy traffic occurs on this road at some times in summer.": "Can can describe an occasional or typical possibility, such as summer traffic.",
+        "Drivers have permission to make the road busy.": "This is not permission; 'can' describes a feature that sometimes occurs.",
+        "The road needs heavy traffic in summer.": "'Can' does not express a need for traffic.",
+        "Heavy traffic occurs on this road at some times in summer.": "'Can' can describe an occasional or typical possibility, such as summer traffic.",
         "The speaker is predicting heavy traffic this afternoon.": "The sentence is a general description of summer conditions, not a forecast for a specific afternoon."
       },
       "audit": {
@@ -1741,7 +1741,7 @@
     {
       "id": "coverage-modals-b1-1977",
       "level": "B1",
-      "setupText": "Choose the meaning of would in this memory.",
+      "setupText": "Choose the meaning of 'would' in this memory.",
       "taskText": "'During our first year in business, we would meet every Friday to compare sales.'",
       "options": [
         "The meetings were a future plan that had not begun.",
@@ -1750,12 +1750,12 @@
         "The meetings were possible only under an unstated condition."
       ],
       "answer": "Meeting on Fridays was a repeated past activity.",
-      "explanation": "Would can describe repeated actions within an established past period.",
+      "explanation": "'Would' can describe repeated actions within an established past period.",
       "rationales": {
-        "The meetings were a future plan that had not begun.": "The opening time phrase and every Friday frame a remembered routine, not an unstarted plan.",
-        "Meeting on Fridays was a repeated past activity.": "Would can describe repeated actions within an established past period.",
+        "The meetings were a future plan that had not begun.": "The opening time phrase and 'every Friday' frame a remembered routine, not an unstarted plan.",
+        "Meeting on Fridays was a repeated past activity.": "'Would' can describe repeated actions within an established past period.",
         "The speaker is making a polite request for a meeting.": "This statement recounts what happened; it is not a request addressed to someone.",
-        "The meetings were possible only under an unstated condition.": "No hypothetical condition is needed here because would describes an actual past routine."
+        "The meetings were possible only under an unstated condition.": "No hypothetical condition is needed here because 'would' describes an actual past routine."
       },
       "audit": {
         "status": "reviewed",
@@ -1772,7 +1772,7 @@
     {
       "id": "coverage-modals-b1-1978",
       "level": "B1",
-      "setupText": "Leo has refused several offers to discuss the problem. Choose the meaning of won't here.",
+      "setupText": "Leo has refused several offers to discuss the problem. Choose the meaning of \"won't\" here.",
       "taskText": "'He won't talk to us about it.'",
       "options": [
         "He is unable to speak our language.",
@@ -1781,11 +1781,11 @@
         "He does not need to discuss it with us."
       ],
       "answer": "He refuses to discuss it with us.",
-      "explanation": "Won't can express unwillingness, as Leo's repeated refusals show.",
+      "explanation": "\"Won't\" can express unwillingness, as Leo's repeated refusals show.",
       "rationales": {
         "He is unable to speak our language.": "The stated problem is refusal, not a lack of language ability.",
         "He is not permitted to speak to us.": "Nothing indicates a ban; Leo has chosen to reject the invitations.",
-        "He refuses to discuss it with us.": "Won't can express unwillingness, as Leo's repeated refusals show.",
+        "He refuses to discuss it with us.": "\"Won't\" can express unwillingness, as Leo's repeated refusals show.",
         "He does not need to discuss it with us.": "Lack of necessity does not explain the unwillingness highlighted in the context."
       },
       "audit": {
@@ -2516,7 +2516,7 @@
     {
       "id": "coverage-modals-c1-2002",
       "level": "C1",
-      "setupText": "Asked what the sponsors' withdrawal means for next month's festival, an analyst gives this response. Choose the closest meaning of may well.",
+      "setupText": "Asked what the sponsors' withdrawal means for next month's festival, an analyst gives this response. Choose the closest meaning of 'may well'.",
       "taskText": "'With two major sponsors withdrawing, the festival may well be cancelled.'",
       "options": [
         "Cancellation is the action the analyst recommends.",
@@ -2525,11 +2525,11 @@
         "Cancellation is an established fact that the analyst concedes."
       ],
       "answer": "Cancellation is a credible, perhaps likely outcome.",
-      "explanation": "May well presents an outcome as quite possible or unsurprising given the circumstances, without making it certain.",
+      "explanation": "'May well' presents an outcome as quite possible or unsurprising given the circumstances, without making it certain.",
       "rationales": {
-        "Cancellation is the action the analyst recommends.": "The context is prediction; may well does not state what organizers ought to do.",
-        "Cancellation has been formally authorized by the sponsors.": "This sentence does not use may to grant permission or report authorization.",
-        "Cancellation is a credible, perhaps likely outcome.": "May well presents an outcome as quite possible or unsurprising given the circumstances, without making it certain.",
+        "Cancellation is the action the analyst recommends.": "The context is prediction; 'may well' does not state what organizers ought to do.",
+        "Cancellation has been formally authorized by the sponsors.": "This sentence does not use 'may' to grant permission or report authorization.",
+        "Cancellation is a credible, perhaps likely outcome.": "'May well' presents an outcome as quite possible or unsurprising given the circumstances, without making it certain.",
         "Cancellation is an established fact that the analyst concedes.": "The analyst is estimating what may happen, not acknowledging a known cancellation."
       },
       "audit": {
@@ -2671,7 +2671,7 @@
     {
       "id": "coverage-modals-c1-2007",
       "level": "C1",
-      "setupText": "A colleague says, 'This is her first management job.' Another replies as below. Choose the role of may in the reply.",
+      "setupText": "A colleague says, 'This is her first management job.' Another replies as below. Choose the role of 'may' in the reply.",
       "taskText": "'She may be inexperienced, but she has already resolved the staffing problem.'",
       "options": [
         "It asks whether the director is permitted to be inexperienced.",
@@ -2680,12 +2680,12 @@
         "It recommends that the director gain more experience."
       ],
       "answer": "It acknowledges a drawback before introducing a counterbalancing point.",
-      "explanation": "May ..., but ... can concede an accepted point while limiting its force with a contrasting consideration.",
+      "explanation": "'May ..., but ...' can concede an accepted point while limiting its force with a contrasting consideration.",
       "rationales": {
         "It asks whether the director is permitted to be inexperienced.": "The statement does not request permission; it accepts a known characteristic.",
-        "It treats the director's inexperience as an unresolved factual question.": "The context establishes that inexperience is known; may introduces a concession here.",
+        "It treats the director's inexperience as an unresolved factual question.": "The context establishes that inexperience is known; 'may' introduces a concession here.",
         "It recommends that the director gain more experience.": "No recommendation is made; the speaker weighs a drawback against an achievement.",
-        "It acknowledges a drawback before introducing a counterbalancing point.": "May ..., but ... can concede an accepted point while limiting its force with a contrasting consideration."
+        "It acknowledges a drawback before introducing a counterbalancing point.": "'May ..., but ...' can concede an accepted point while limiting its force with a contrasting consideration."
       },
       "audit": {
         "status": "reviewed",
@@ -2857,7 +2857,7 @@
     {
       "id": "coverage-modals-c1-2013",
       "level": "C1",
-      "setupText": "Before discussing candidates, the chair reads this line from the panel's procedure. Choose the interpretation of are to.",
+      "setupText": "Before discussing candidates, the chair reads this line from the panel's procedure. Choose the interpretation of 'are to'.",
       "taskText": "'Panel members are to declare any personal connection with an applicant before discussion begins.'",
       "options": [
         "Panel members are instructed to make the declaration before discussion.",
@@ -2866,12 +2866,12 @@
         "Panel members were expected to declare connections at an earlier meeting."
       ],
       "answer": "Panel members are instructed to make the declaration before discussion.",
-      "explanation": "Be to + verb can give a formal instruction or establish an official requirement.",
+      "explanation": "'Be to' + verb can give a formal instruction or establish an official requirement.",
       "rationales": {
         "Panel members are likely to make the declaration of their own accord.": "The context identifies an instruction, not a prediction about voluntary behavior.",
-        "Panel members are instructed to make the declaration before discussion.": "Be to + verb can give a formal instruction or establish an official requirement.",
+        "Panel members are instructed to make the declaration before discussion.": "'Be to' + verb can give a formal instruction or establish an official requirement.",
         "Panel members would prefer to declare connections after discussion.": "The statement gives neither a preference nor permission to delay the declaration.",
-        "Panel members were expected to declare connections at an earlier meeting.": "Are to applies to the current instruction and does not locate it at an earlier meeting."
+        "Panel members were expected to declare connections at an earlier meeting.": "'Are to' applies to the current instruction and does not locate it at an earlier meeting."
       },
       "audit": {
         "status": "reviewed",
@@ -2888,7 +2888,7 @@
     {
       "id": "coverage-modals-c1-2014",
       "level": "C1",
-      "setupText": "Read this invented committee procedure as a formal rule. Choose the function of shall.",
+      "setupText": "Read this invented committee procedure as a formal rule. Choose the function of 'shall'.",
       "taskText": "'The secretary shall record any declared conflict in the minutes.'",
       "options": [
         "It offers to let the secretary decide whether recording is useful.",
@@ -2897,12 +2897,12 @@
         "It invites the secretary and speaker to write the minutes together."
       ],
       "answer": "It imposes a duty on the secretary to record the conflict.",
-      "explanation": "Shall can express a requirement in formal procedures; here it assigns the recording duty.",
+      "explanation": "'Shall' can express a requirement in formal procedures; here it assigns the recording duty.",
       "rationales": {
         "It offers to let the secretary decide whether recording is useful.": "This rule assigns a duty; it does not present recording as optional.",
-        "It predicts what the secretary will probably do based on past habits.": "In the explicitly formal rule, shall is directive rather than a forecast.",
-        "It imposes a duty on the secretary to record the conflict.": "Shall can express a requirement in formal procedures; here it assigns the recording duty.",
-        "It invites the secretary and speaker to write the minutes together.": "The offer or suggestion use of Shall we...? does not fit this third-person rule."
+        "It predicts what the secretary will probably do based on past habits.": "In the explicitly formal rule, 'shall' is directive rather than a forecast.",
+        "It imposes a duty on the secretary to record the conflict.": "'Shall' can express a requirement in formal procedures; here it assigns the recording duty.",
+        "It invites the secretary and speaker to write the minutes together.": "The offer or suggestion use of 'Shall we...?' does not fit this third-person rule."
       },
       "audit": {
         "status": "reviewed",
@@ -2919,7 +2919,7 @@
     {
       "id": "coverage-modals-c1-2015",
       "level": "C1",
-      "setupText": "'Have you read the revision?' 'Not yet. I sent the author a checklist covering every objection.' The reviewer then adds the statement below. Choose the reading of should have.",
+      "setupText": "'Have you read the revision?' 'Not yet. I sent the author a checklist covering every objection.' The reviewer then adds the statement below. Choose the reading of 'should have'.",
       "taskText": "'The author should have dealt with that objection in the revision.'",
       "options": [
         "The reviewer knows it was omitted and is criticizing the author.",
@@ -2928,12 +2928,12 @@
         "The reviewer is granting permission to address the objection later."
       ],
       "answer": "The reviewer expects a response in the unread revision.",
-      "explanation": "Here should have expresses expected completion based on the checklist, rather than known failure.",
+      "explanation": "Here 'should have' expresses expected completion based on the checklist, rather than known failure.",
       "rationales": {
         "The reviewer knows it was omitted and is criticizing the author.": "That reading is possible elsewhere, but this reviewer has not inspected the revision.",
-        "The reviewer concludes that addressing the objection was unnecessary.": "Should have does not remove the need to address the objection.",
+        "The reviewer concludes that addressing the objection was unnecessary.": "'Should have' does not remove the need to address the objection.",
         "The reviewer is granting permission to address the objection later.": "The phrase concerns expected completion in the existing revision, not future permission.",
-        "The reviewer expects a response in the unread revision.": "Here should have expresses expected completion based on the checklist, rather than known failure."
+        "The reviewer expects a response in the unread revision.": "Here 'should have' expresses expected completion based on the checklist, rather than known failure."
       },
       "audit": {
         "status": "reviewed",
@@ -2981,7 +2981,7 @@
     {
       "id": "coverage-modals-c1-2017",
       "level": "C1",
-      "setupText": "Read the speaker's words with stress on WILL. Choose the meaning it conveys in this exchange.",
+      "setupText": "Read the speaker's words with stress on 'WILL'. Choose the meaning it conveys in this exchange.",
       "taskText": "'I've asked him to wait for the agenda, but he WILL interrupt before I've finished.'",
       "options": [
         "The speaker is announcing a newly scheduled interruption.",
@@ -2990,10 +2990,10 @@
         "The speaker believes he is physically unable to remain silent."
       ],
       "answer": "The speaker is irritated by his persistent tendency to interrupt.",
-      "explanation": "Stressed will can criticize a characteristic or persistent behavior, especially when earlier requests have failed.",
+      "explanation": "Stressed 'will' can criticize a characteristic or persistent behavior, especially when earlier requests have failed.",
       "rationales": {
-        "The speaker is announcing a newly scheduled interruption.": "The repeated requests and stressed will point to recurring behavior, not an arranged future event.",
-        "The speaker is irritated by his persistent tendency to interrupt.": "Stressed will can criticize a characteristic or persistent behavior, especially when earlier requests have failed.",
+        "The speaker is announcing a newly scheduled interruption.": "The repeated requests and stressed 'will' point to recurring behavior, not an arranged future event.",
+        "The speaker is irritated by his persistent tendency to interrupt.": "Stressed 'will' can criticize a characteristic or persistent behavior, especially when earlier requests have failed.",
         "The speaker is allowing him to interrupt before the agenda ends.": "The complaint and requests to wait show that permission is not being granted.",
         "The speaker believes he is physically unable to remain silent.": "The complaint concerns persistent behavior, not an established inability."
       },
@@ -3105,7 +3105,7 @@
     {
       "id": "coverage-modals-c2-2021",
       "level": "C2",
-      "setupText": "A colleague says, 'I knew they planned to question you about the missing figures, but I didn't think to mention it.' Choose the function of might have in the reply below.",
+      "setupText": "A colleague says, 'I knew they planned to question you about the missing figures, but I didn't think to mention it.' Choose the function of 'might have' in the reply below.",
       "taskText": "'You might have warned me before I walked into that meeting.'",
       "options": [
         "It tentatively suggests that the colleague did give a warning.",
@@ -3114,10 +3114,10 @@
         "It grants retrospective permission to issue a warning."
       ],
       "answer": "It reproaches the colleague for failing to give an expected warning.",
-      "explanation": "With a known omission and irritated tone, might have can criticize a failure to take a considerate action.",
+      "explanation": "With a known omission and irritated tone, 'might have' can criticize a failure to take a considerate action.",
       "rationales": {
         "It tentatively suggests that the colleague did give a warning.": "The admitted omission rules out a speculative reading about whether a warning occurred.",
-        "It reproaches the colleague for failing to give an expected warning.": "With a known omission and irritated tone, might have can criticize a failure to take a considerate action.",
+        "It reproaches the colleague for failing to give an expected warning.": "With a known omission and irritated tone, 'might have' can criticize a failure to take a considerate action.",
         "It expresses uncertainty about whether the speaker attended the meeting.": "The uncertainty reading concerns neither the stated attendance nor the admitted omission in this context.",
         "It grants retrospective permission to issue a warning.": "The speaker is criticizing the omission, not deciding whether warning was permitted."
       },
@@ -3260,7 +3260,7 @@
     {
       "id": "coverage-modals-c2-2026",
       "level": "C2",
-      "setupText": "After sending the report, its author writes, 'I still need to compare the mailing list with the full register,' followed by the sentence below. Interpret should in that sentence.",
+      "setupText": "After sending the report, its author writes, 'I still need to compare the mailing list with the full register,' followed by the sentence below. Interpret 'should' in that sentence.",
       "taskText": "'If I should have omitted anyone from the list, please accept my apologies.'",
       "options": [
         "The sender says omitting someone would have been the proper action.",
@@ -3269,11 +3269,11 @@
         "The sender apologizes conditionally for a possible earlier omission."
       ],
       "answer": "The sender apologizes conditionally for a possible earlier omission.",
-      "explanation": "If ... should have ... can frame a tentative condition about a completed event; it need not express obligation or regret about a known failure.",
+      "explanation": "'If ... should have ...' can frame a tentative condition about a completed event; it need not express obligation or regret about a known failure.",
       "rationales": {
-        "The sender says omitting someone would have been the proper action.": "Should belongs to a tentative condition here; it does not evaluate omission as appropriate.",
+        "The sender says omitting someone would have been the proper action.": "'Should' belongs to a tentative condition here; it does not evaluate omission as appropriate.",
         "The sender admits a known omission and apologizes for it.": "The if-clause leaves the omission unconfirmed.",
-        "The sender apologizes conditionally for a possible earlier omission.": "If ... should have ... can frame a tentative condition about a completed event; it need not express obligation or regret about a known failure.",
+        "The sender apologizes conditionally for a possible earlier omission.": "'If ... should have ...' can frame a tentative condition about a completed event; it need not express obligation or regret about a known failure.",
         "The sender promises to omit someone if an apology is accepted.": "This reverses the relation: the possible omission is the condition for the apology, not its future consequence."
       },
       "audit": {
@@ -3291,7 +3291,7 @@
     {
       "id": "coverage-modals-c2-2027",
       "level": "C2",
-      "setupText": "On Monday, the analyst promised a completed review by Friday. It is now Wednesday, and the work is on schedule. Choose the reading of would have.",
+      "setupText": "On Monday, the analyst promised a completed review by Friday. It is now Wednesday, and the work is on schedule. Choose the reading of 'would have'.",
       "taskText": "'She said she would have reviewed the figures by Friday.'",
       "options": [
         "It presents the review as an unreal alternative to a known failure.",
@@ -3300,12 +3300,12 @@
         "It says she was required to finish but refused to do so."
       ],
       "answer": "It reports future completion viewed from the earlier promise.",
-      "explanation": "Would have reviewed is the reported counterpart of will have reviewed here; it does not inherently mean the action is unrealized.",
+      "explanation": "'Would have reviewed' is the reported counterpart of 'will have reviewed' here; it does not inherently mean the action is unrealized.",
       "rationales": {
         "It presents the review as an unreal alternative to a known failure.": "There is no failed condition or known failure; the work remains on schedule.",
-        "It infers that she had finished before making the promise.": "By Friday places the completion after Monday's promise, not before it.",
-        "It says she was required to finish but refused to do so.": "Would have reviewed reports anticipated completion, not necessity or refusal.",
-        "It reports future completion viewed from the earlier promise.": "Would have reviewed is the reported counterpart of will have reviewed here; it does not inherently mean the action is unrealized."
+        "It infers that she had finished before making the promise.": "'By Friday' places the completion after Monday's promise, not before it.",
+        "It says she was required to finish but refused to do so.": "'Would have reviewed' reports anticipated completion, not necessity or refusal.",
+        "It reports future completion viewed from the earlier promise.": "'Would have reviewed' is the reported counterpart of 'will have reviewed' here; it does not inherently mean the action is unrealized."
       },
       "audit": {
         "status": "reviewed",
@@ -3570,7 +3570,7 @@
     {
       "id": "coverage-modals-c2-2036",
       "level": "C2",
-      "setupText": "After the team agrees on a spending limit, a colleague selects the premium option. Read the response below with stress on WOULD. Choose its implication.",
+      "setupText": "After the team agrees on a spending limit, a colleague selects the premium option. Read the response below with stress on 'WOULD'. Choose its implication.",
       "taskText": "'You WOULD choose the one option that exceeds the budget.'",
       "options": [
         "The speaker is unsure whether the colleague has made any choice yet.",
@@ -3579,9 +3579,9 @@
         "The colleague would choose that option only if an unstated condition occurred."
       ],
       "answer": "The choice is presented as irritatingly typical of the colleague.",
-      "explanation": "Stressed would can react to a known event as characteristic and exasperating; it need not place the event in an unreal condition.",
+      "explanation": "Stressed 'would' can react to a known event as characteristic and exasperating; it need not place the event in an unreal condition.",
       "rationales": {
-        "The choice is presented as irritatingly typical of the colleague.": "Stressed would can react to a known event as characteristic and exasperating; it need not place the event in an unreal condition.",
+        "The choice is presented as irritatingly typical of the colleague.": "Stressed 'would' can react to a known event as characteristic and exasperating; it need not place the event in an unreal condition.",
         "The speaker is unsure whether the colleague has made any choice yet.": "The context establishes that the choice has just been made.",
         "The speaker is offering permission to exceed the budget next time.": "The comment criticizes a known choice rather than granting future permission.",
         "The colleague would choose that option only if an unstated condition occurred.": "The utterance reacts to an actual choice; its force is characteristic disapproval, not an incomplete hypothetical result."
@@ -3632,7 +3632,7 @@
     {
       "id": "coverage-modals-c2-2038",
       "level": "C2",
-      "setupText": "After checking the attendance record, the secretary makes the remark below. Choose the role of should have in that remark.",
+      "setupText": "After checking the attendance record, the secretary makes the remark below. Choose the role of 'should have' in that remark.",
       "taskText": "'It is extraordinary that the chair should have missed the one briefing devoted to this issue.'",
       "options": [
         "It presents an established event as striking or surprising.",
@@ -3641,12 +3641,12 @@
         "It predicts a missed briefing later than the present discussion."
       ],
       "answer": "It presents an established event as striking or surprising.",
-      "explanation": "After an evaluative expression such as it is extraordinary, should can highlight a reaction to a fact without expressing obligation.",
+      "explanation": "After an evaluative expression such as 'it is extraordinary', 'should' can highlight a reaction to a fact without expressing obligation.",
       "rationales": {
         "It identifies missing the briefing as the chair's unfulfilled duty.": "The sentence treats missing it as an established event, not as an action the chair ought to have performed.",
-        "It leaves open whether the chair missed the briefing at all.": "The context establishes the absence; should is evaluative here rather than a marker of factual uncertainty.",
-        "It presents an established event as striking or surprising.": "After an evaluative expression such as it is extraordinary, should can highlight a reaction to a fact without expressing obligation.",
-        "It predicts a missed briefing later than the present discussion.": "Should have missed refers to the completed event under evaluation, not a later briefing."
+        "It leaves open whether the chair missed the briefing at all.": "The context establishes the absence; 'should' is evaluative here rather than a marker of factual uncertainty.",
+        "It presents an established event as striking or surprising.": "After an evaluative expression such as 'it is extraordinary', 'should' can highlight a reaction to a fact without expressing obligation.",
+        "It predicts a missed briefing later than the present discussion.": "'Should have missed' refers to the completed event under evaluation, not a later briefing."
       },
       "audit": {
         "status": "reviewed",

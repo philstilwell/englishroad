@@ -654,7 +654,7 @@ The bank is on the left, the post office in the middle, and the cafe on the righ
 
 ID: `coverage-prepositions-a2-2541`
 
-Choose the usual phrase for the means of transport, without an article before train.
+Choose the usual phrase for the means of transport, without an article before 'train'.
 
 The trip will take about one hour ___ train.
 
@@ -1330,7 +1330,7 @@ In the library, Mina is responsible ___.
 
 ID: `coverage-prepositions-b1-2562`
 
-Choose the usual preposition after interested before an activity someone might do.
+Choose the usual preposition after 'interested' before an activity someone might do.
 
 Several residents are interested ___ joining the evening class.
 
@@ -1339,13 +1339,13 @@ Several residents are interested ___ joining the evening class.
 3. for
 4. about
 
-**Explanation:** 'Interested in' takes a noun or gerund: interested in the class, or in joining it.
+**Explanation:** 'Interested in' takes a noun or gerund: 'interested in the class', or 'in joining it'.
 
 **Choice feedback:**
 
-- **in:** 'Interested in' takes a noun or gerund: interested in the class, or in joining it.
-- **to:** Before the gerund joining, the construction is interested in. 'Interested to hear' is a different pattern using an infinitive.
-- **for:** 'For' can introduce purpose after other expressions, but it does not complete interested before joining.
+- **in:** 'Interested in' takes a noun or gerund: 'interested in the class', or 'in joining it'.
+- **to:** Before the gerund 'joining', the construction is 'interested in'. 'Interested to hear' is a different pattern using an infinitive.
+- **for:** 'For' can introduce purpose after other expressions, but it does not complete 'interested' before 'joining'.
 - **about:** Use 'curious about' a subject but 'interested in' an activity; the adjective determines the pattern here.
 
 **Decision:** replaced.
@@ -2620,7 +2620,7 @@ ID: `coverage-prepositions-c1-2602`
 
 Choose the sound editorial judgment about the preposition, without changing the stated relationship.
 
-'The agreement sets out the responsibilities shared between the publisher, the printer, and the distributor.' An editor objects that between cannot refer to three parties.
+'The agreement sets out the responsibilities shared between the publisher, the printer, and the distributor.' An editor objects that 'between' cannot refer to three parties.
 
 1. Among is required because between becomes ungrammatical whenever a third party is named.
 2. Between proves that each responsibility belongs jointly to exactly two of the parties.
@@ -2631,7 +2631,7 @@ Choose the sound editorial judgment about the preposition, without changing the 
 
 **Choice feedback:**
 
-- **Among is required because between becomes ungrammatical whenever a third party is named.:** The number alone does not prohibit between; it can relate three or more distinct parties.
+- **Among is required because between becomes ungrammatical whenever a third party is named.:** The number alone does not prohibit 'between'; it can relate three or more distinct parties.
 - **Between proves that each responsibility belongs jointly to exactly two of the parties.:** The preposition does not impose a pair-by-pair allocation of responsibilities.
 - **Among would prove that all three parties have identical responsibilities.:** 'Among' would not by itself establish identical duties for everyone.
 - **Between is possible because the parties are individually identified; three parties do not make it ungrammatical.:** 'Between' can express relationships among separately identified parties. It is not restricted to exactly two.
@@ -3002,7 +3002,7 @@ Which revision preserves both facts?
 
 ID: `coverage-prepositions-c1-2614`
 
-In the original, of names the target of the criticism. Choose the assessment of what the edit changes.
+In the original, 'of' names the target of the criticism. Choose the assessment of what the edit changes.
 
 Original: 'The article contains criticism of the agency.' Edit: 'The article contains criticism by the agency.'
 
@@ -3011,13 +3011,13 @@ Original: 'The article contains criticism of the agency.' Edit: 'The article con
 3. The edit makes the agency the source of criticism instead of its target. **[Correct]**
 4. The edit narrows criticism of the agency to criticism of its director.
 
-**Explanation:** With criticism, 'of the agency' identifies what is criticized; 'by the agency' identifies who voices it.
+**Explanation:** With 'criticism', 'of the agency' identifies what is criticized; 'by the agency' identifies who voices it.
 
 **Choice feedback:**
 
-- **The edit preserves the target but makes the criticism more severe.:** Changing of to by changes a participant's role, not the degree of criticism.
+- **The edit preserves the target but makes the criticism more severe.:** Changing 'of' to 'by' changes a participant's role, not the degree of criticism.
 - **The edit says the agency commissioned the article but did not supply criticism.:** 'Criticism by the agency' attributes the criticism to it; commissioning is not stated.
-- **The edit makes the agency the source of criticism instead of its target.:** With criticism, 'of the agency' identifies what is criticized; 'by the agency' identifies who voices it.
+- **The edit makes the agency the source of criticism instead of its target.:** With 'criticism', 'of the agency' identifies what is criticized; 'by the agency' identifies who voices it.
 - **The edit narrows criticism of the agency to criticism of its director.:** Neither phrase singles out the director; the change is source versus target.
 
 **Decision:** replaced.
@@ -3100,7 +3100,7 @@ ID: `coverage-prepositions-c1-2617`
 
 Choose the editorial advice that preserves a natural conversational question.
 
-A dialogue contains: 'Which proposal were you referring to?' An editor wants to remove the final to because sentences should not end with a preposition.
+A dialogue contains: 'Which proposal were you referring to?' An editor wants to remove the final 'to' because sentences should not end with a preposition.
 
 1. Delete to; referring takes the proposal as a direct object in this meaning.
 2. Keep to: refer to needs it here, and a final preposition is natural in this dialogue. **[Correct]**

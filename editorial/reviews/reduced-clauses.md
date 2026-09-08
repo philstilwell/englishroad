@@ -586,7 +586,7 @@ Please wait here with the door open.
 
 ID: `coverage-reduced-clauses-a1-2899`
 
-Choose the longer phrase with the same meaning as not buying tickets.
+Choose the longer phrase with the same meaning as 'not buying tickets'.
 
 People not buying tickets can use the other entrance.
 
@@ -595,14 +595,14 @@ People not buying tickets can use the other entrance.
 3. who have already bought tickets
 4. who plan to buy extra tickets
 
-**Explanation:** Not buying is a short version of who aren't buying in this description.
+**Explanation:** 'Not buying' is a short version of "who aren't buying" in this description.
 
 **Choice feedback:**
 
-- **who aren't selling tickets:** Not selling changes the activity from buying to selling.
-- **who aren't buying tickets:** Not buying is a short version of who aren't buying in this description.
-- **who have already bought tickets:** Already bought reports a completed purchase; not buying does not tell us that a purchase happened earlier.
-- **who plan to buy extra tickets:** Planning to buy extra tickets introduces a future plan that the negative description does not state.
+- **who aren't selling tickets:** 'Not selling' changes the activity from buying to selling.
+- **who aren't buying tickets:** 'Not buying' is a short version of "who aren't buying" in this description.
+- **who have already bought tickets:** 'Already bought' reports a completed purchase; 'not buying' does not tell us that a purchase happened earlier.
+- **who plan to buy extra tickets:** 'Planning to buy extra tickets' introduces a future plan that the negative description does not state.
 
 **Decision:** replaced.
 
@@ -974,7 +974,7 @@ The note pinned beside the lift asks visitors to use the stairs.
 
 ID: `coverage-reduced-clauses-a2-2911`
 
-Choose the meaning of lying in this description.
+Choose the meaning of 'lying' in this description.
 
 The magazines lying on the bench are free to take.
 
@@ -983,14 +983,14 @@ The magazines lying on the bench are free to take.
 3. The magazines have fallen under the bench.
 4. The magazines are resting on the bench. **[Correct]**
 
-**Explanation:** Lying on the bench means resting there; the phrase identifies the magazines available to take.
+**Explanation:** 'Lying on the bench' means resting there; the phrase identifies the magazines available to take.
 
 **Choice feedback:**
 
-- **The magazines have been left on the floor.:** On the bench gives their position, not on the floor.
-- **The magazines are being delivered to the bench.:** Lying describes their current position rather than a delivery in progress.
-- **The magazines have fallen under the bench.:** Under the bench is a different position from on the bench.
-- **The magazines are resting on the bench.:** Lying on the bench means resting there; the phrase identifies the magazines available to take.
+- **The magazines have been left on the floor.:** 'On the bench' gives their position, not on the floor.
+- **The magazines are being delivered to the bench.:** 'Lying' describes their current position rather than a delivery in progress.
+- **The magazines have fallen under the bench.:** 'Under the bench' is a different position from 'on the bench'.
+- **The magazines are resting on the bench.:** 'Lying on the bench' means resting there; the phrase identifies the magazines available to take.
 
 **Decision:** replaced.
 
@@ -1038,7 +1038,7 @@ Rafi is the only employee working today; the others have the day off.
 
 ID: `coverage-reduced-clauses-a2-2913`
 
-Choose the longer description with the same meaning as served cold.
+Choose the longer description with the same meaning as 'served cold'.
 
 The soup served cold is made with tomatoes.
 
@@ -1047,14 +1047,14 @@ The soup served cold is made with tomatoes.
 3. that must be warmed before serving
 4. that is kept frozen until tomorrow
 
-**Explanation:** Served cold is a short passive description: the soup is served at a low temperature.
+**Explanation:** 'Served cold' is a short passive description: the soup is served at a low temperature.
 
 **Choice feedback:**
 
-- **that is served at a low temperature:** Served cold is a short passive description: the soup is served at a low temperature.
-- **that becomes cold before it is cooked:** Served cold describes temperature when offered to eat, not before cooking.
-- **that must be warmed before serving:** Warmed before serving gives the opposite serving temperature.
-- **that is kept frozen until tomorrow:** Cold does not require freezing, and no future storage period is mentioned.
+- **that is served at a low temperature:** 'Served cold' is a short passive description: the soup is served at a low temperature.
+- **that becomes cold before it is cooked:** 'Served cold' describes temperature when offered to eat, not before cooking.
+- **that must be warmed before serving:** 'Warmed before serving' gives the opposite serving temperature.
+- **that is kept frozen until tomorrow:** 'Cold' does not require freezing, and no future storage period is mentioned.
 
 **Decision:** replaced.
 
@@ -1070,7 +1070,7 @@ The soup served cold is made with tomatoes.
 
 ID: `coverage-reduced-clauses-a2-2914`
 
-Choose the meaning of without paying in the notice.
+Choose the meaning of 'without paying' in the notice.
 
 You can visit the garden without paying for a museum ticket.
 
@@ -1079,12 +1079,12 @@ You can visit the garden without paying for a museum ticket.
 3. You can pay for the ticket after leaving the garden.
 4. Your garden ticket includes entry to the museum.
 
-**Explanation:** Without paying for a museum ticket means the garden visit does not require buying one.
+**Explanation:** 'Without paying for a museum ticket' means the garden visit does not require buying one.
 
 **Choice feedback:**
 
-- **You need not buy a museum ticket to visit the garden.:** Without paying for a museum ticket means the garden visit does not require buying one.
-- **You must buy a ticket before visiting the garden.:** Without paying removes the museum-ticket purchase requirement rather than imposing one.
+- **You need not buy a museum ticket to visit the garden.:** 'Without paying for a museum ticket' means the garden visit does not require buying one.
+- **You must buy a ticket before visiting the garden.:** 'Without paying' removes the museum-ticket purchase requirement rather than imposing one.
 - **You can pay for the ticket after leaving the garden.:** The phrase allows a visit without that purchase, not merely with payment postponed.
 - **Your garden ticket includes entry to the museum.:** The notice does not promise museum access as part of a garden ticket.
 
@@ -1230,7 +1230,7 @@ The packages ___ this morning are no longer on the shelf.
 
 ID: `coverage-reduced-clauses-a2-2919`
 
-Choose the full meaning of when asked in this instruction.
+Choose the full meaning of 'when asked' in this instruction.
 
 When asked for your booking number, show the confirmation email.
 
@@ -1239,14 +1239,14 @@ When asked for your booking number, show the confirmation email.
 3. While you are choosing a booking number
 4. When someone asks you for your booking number **[Correct]**
 
-**Explanation:** Asked is passive here: you receive the request and then show your confirmation.
+**Explanation:** 'Asked' is passive here: you receive the request and then show your confirmation.
 
 **Choice feedback:**
 
 - **When you ask someone for their booking number:** This makes you the person requesting someone else's number, reversing the roles.
-- **Before you receive a booking number:** When asked is tied to a request, not to the time before a booking number is issued.
-- **While you are choosing a booking number:** Choosing a number is not the event described by being asked for it.
-- **When someone asks you for your booking number:** Asked is passive here: you receive the request and then show your confirmation.
+- **Before you receive a booking number:** 'When asked' is tied to a request, not to the time before a booking number is issued.
+- **While you are choosing a booking number:** Choosing a number is not the event described by 'being asked for it'.
+- **When someone asks you for your booking number:** 'Asked' is passive here: you receive the request and then show your confirmation.
 
 **Decision:** replaced.
 
@@ -1394,7 +1394,7 @@ Complete the message: The furniture ___ will go into the new office.
 
 ID: `coverage-reduced-clauses-b1-2924`
 
-Choose the meaning of repaired in this sentence.
+Choose the meaning of 'repaired' in this sentence.
 
 The bicycles repaired yesterday are ready for collection.
 
@@ -1403,13 +1403,13 @@ The bicycles repaired yesterday are ready for collection.
 3. The bicycles will be repaired when collected.
 4. The bicycles are being repaired during collection.
 
-**Explanation:** The past-participle description repaired yesterday identifies the bicycles by completed repair work.
+**Explanation:** The past-participle description 'repaired yesterday' identifies the bicycles by completed repair work.
 
 **Choice feedback:**
 
-- **The repairs to those bicycles were completed yesterday.:** The past-participle description repaired yesterday identifies the bicycles by completed repair work.
-- **The bicycles are waiting for repairs to begin.:** Repaired yesterday identifies bicycles whose repairs have already taken place, not those awaiting a start.
-- **The bicycles will be repaired when collected.:** Yesterday places the repair in the past; collection is the next available step.
+- **The repairs to those bicycles were completed yesterday.:** The past-participle description 'repaired yesterday' identifies the bicycles by completed repair work.
+- **The bicycles are waiting for repairs to begin.:** 'Repaired yesterday' identifies bicycles whose repairs have already taken place, not those awaiting a start.
+- **The bicycles will be repaired when collected.:** 'Yesterday' places the repair in the past; collection is the next available step.
 - **The bicycles are being repaired during collection.:** The sentence says the bicycles are ready for collection, not still being repaired during it.
 
 **Decision:** replaced.
@@ -1458,7 +1458,7 @@ Priya checked the attachments. Then she sent the email to Dan.
 
 ID: `coverage-reduced-clauses-b1-2926`
 
-Choose the meaning of on arriving in the instruction.
+Choose the meaning of 'on arriving' in the instruction.
 
 On arriving at the venue, report to the reception desk.
 
@@ -1467,13 +1467,13 @@ On arriving at the venue, report to the reception desk.
 3. When you arrive at the venue **[Correct]**
 4. After leaving the reception desk
 
-**Explanation:** On arriving is a concise way to say when you arrive, making arrival the cue to report.
+**Explanation:** 'On arriving' is a concise way to say 'when you arrive', making arrival the cue to report.
 
 **Choice feedback:**
 
-- **Before travelling to the venue:** On arriving locates the action at arrival, not before the journey.
-- **While choosing a venue:** Arriving describes reaching the chosen venue, not selecting one.
-- **When you arrive at the venue:** On arriving is a concise way to say when you arrive, making arrival the cue to report.
+- **Before travelling to the venue:** 'On arriving' locates the action at arrival, not before the journey.
+- **While choosing a venue:** 'Arriving' describes reaching the chosen venue, not selecting one.
+- **When you arrive at the venue:** 'On arriving' is a concise way to say 'when you arrive', making arrival the cue to report.
 - **After leaving the reception desk:** The report follows arrival and takes you to reception; it is not scheduled after leaving reception.
 
 **Decision:** replaced.
@@ -1588,21 +1588,21 @@ ID: `coverage-reduced-clauses-b1-2930`
 
 Choose the instruction addressed to people who received an invitation, not people sending one.
 
-Use a short description beginning with Applicants.
+Use a short description beginning with 'Applicants'.
 
 1. Applicants preparing invitations should confirm a date.
 2. Applicants inviting the panel should confirm a date.
 3. Applicants requesting invitations should confirm a date.
 4. Applicants invited to an interview should confirm a date. **[Correct]**
 
-**Explanation:** Invited is passive and identifies applicants who have received an interview invitation.
+**Explanation:** 'Invited' is passive and identifies applicants who have received an interview invitation.
 
 **Choice feedback:**
 
-- **Applicants preparing invitations should confirm a date.:** Preparing invitations describes producing them, not receiving one.
-- **Applicants inviting the panel should confirm a date.:** Inviting makes applicants the senders of an invitation to the panel.
+- **Applicants preparing invitations should confirm a date.:** 'Preparing invitations' describes producing them, not receiving one.
+- **Applicants inviting the panel should confirm a date.:** 'Inviting' makes applicants the senders of an invitation to the panel.
 - **Applicants requesting invitations should confirm a date.:** Requesting an invitation does not establish that one has been received.
-- **Applicants invited to an interview should confirm a date.:** Invited is passive and identifies applicants who have received an interview invitation.
+- **Applicants invited to an interview should confirm a date.:** 'Invited' is passive and identifies applicants who have received an interview invitation.
 
 **Decision:** replaced.
 
@@ -1714,7 +1714,7 @@ There is nobody waiting outside, so we can close the desk.
 
 ID: `coverage-reduced-clauses-b1-2934`
 
-Choose the fuller version of if necessary that preserves the instruction.
+Choose the fuller version of 'if necessary' that preserves the instruction.
 
 Keep the receipt and contact the shop again if necessary.
 
@@ -1723,12 +1723,12 @@ Keep the receipt and contact the shop again if necessary.
 3. if the shop has already contacted you
 4. if you are required to buy another item
 
-**Explanation:** If necessary means if further contact is needed in the context of this instruction.
+**Explanation:** 'If necessary' means 'if further contact is needed' in the context of this instruction.
 
 **Choice feedback:**
 
-- **if the shop asks to see the receipt:** A request to see the receipt is one possible situation, not the general need expressed by if necessary.
-- **if you need to contact the shop again:** If necessary means if further contact is needed in the context of this instruction.
+- **if the shop asks to see the receipt:** A request to see the receipt is one possible situation, not the general need expressed by 'if necessary'.
+- **if you need to contact the shop again:** 'If necessary' means 'if further contact is needed' in the context of this instruction.
 - **if the shop has already contacted you:** The phrase does not limit further contact to cases where the shop contacted you first.
 - **if you are required to buy another item:** The possible necessity concerns contacting the shop, not buying something else.
 
@@ -1778,7 +1778,7 @@ Although tired, Nabil stayed to help clear the room.
 
 ID: `coverage-reduced-clauses-b1-2936`
 
-Choose the meaning of to be signed in this instruction.
+Choose the meaning of 'to be signed' in this instruction.
 
 Put the forms to be signed in the manager's tray.
 
@@ -1787,12 +1787,12 @@ Put the forms to be signed in the manager's tray.
 3. Put the forms containing the manager's signature there.
 4. Put the forms the manager refused to sign there.
 
-**Explanation:** To be signed is a passive infinitive describing a task still required for those forms.
+**Explanation:** 'To be signed' is a passive infinitive describing a task still required for those forms.
 
 **Choice feedback:**
 
-- **Put the forms the manager has already signed there.:** To be signed presents signing as still to happen, not completed.
-- **Put the forms awaiting a signature there.:** To be signed is a passive infinitive describing a task still required for those forms.
+- **Put the forms the manager has already signed there.:** 'To be signed' presents signing as still to happen, not completed.
+- **Put the forms awaiting a signature there.:** 'To be signed' is a passive infinitive describing a task still required for those forms.
 - **Put the forms containing the manager's signature there.:** An existing signature is not what the future passive description identifies.
 - **Put the forms the manager refused to sign there.:** Awaiting signature does not mean the manager has refused to sign.
 
@@ -1908,21 +1908,21 @@ ID: `coverage-reduced-clauses-b1-2940`
 
 Choose the sentence that means the speaker did not stop to buy coffee.
 
-Preserve that missing action in a short phrase with without.
+Preserve that missing action in a short phrase with 'without'.
 
 1. After stopping for coffee, I drove to work.
 2. Instead of driving, I stopped for coffee.
 3. Before stopping for coffee, I drove to work.
 4. Without stopping for coffee, I drove to work. **[Correct]**
 
-**Explanation:** Without stopping excludes the coffee stop from the drive to work.
+**Explanation:** 'Without stopping' excludes the coffee stop from the drive to work.
 
 **Choice feedback:**
 
-- **After stopping for coffee, I drove to work.:** After stopping says a coffee stop happened before the drive.
-- **Instead of driving, I stopped for coffee.:** Instead of driving replaces the drive with the stop, changing both actions.
-- **Before stopping for coffee, I drove to work.:** Before stopping anticipates a coffee stop afterward rather than describing the drive without one.
-- **Without stopping for coffee, I drove to work.:** Without stopping excludes the coffee stop from the drive to work.
+- **After stopping for coffee, I drove to work.:** 'After stopping' says a coffee stop happened before the drive.
+- **Instead of driving, I stopped for coffee.:** 'Instead of driving' replaces the drive with the stop, changing both actions.
+- **Before stopping for coffee, I drove to work.:** 'Before stopping' anticipates a coffee stop afterward rather than describing the drive without one.
+- **Without stopping for coffee, I drove to work.:** 'Without stopping' excludes the coffee stop from the drive to work.
 
 **Decision:** replaced.
 
@@ -2102,7 +2102,7 @@ Wanting to avoid a lengthy exchange, the designer sent a brief annotated sketch.
 
 ID: `coverage-reduced-clauses-b2-2946`
 
-Choose the interpretation of not having received.
+Choose the interpretation of 'not having received'.
 
 Not having received confirmation, Aisha kept her original travel booking.
 
@@ -2116,7 +2116,7 @@ Not having received confirmation, Aisha kept her original travel booking.
 **Choice feedback:**
 
 - **Aisha cancelled the original booking after confirmation arrived.:** The phrase denies earlier receipt, and the main clause says she kept rather than cancelled the booking.
-- **Aisha had received confirmation but had not read it.:** Not having received concerns receipt itself, not whether received information was read.
+- **Aisha had received confirmation but had not read it.:** 'Not having received' concerns receipt itself, not whether received information was read.
 - **Confirmation had not reached Aisha when she kept the booking.:** The negative perfect participle describes non-receipt up to the time of Aisha's decision.
 - **Aisha refused confirmation in order to keep her booking.:** Lack of receipt does not imply a deliberate refusal to accept confirmation.
 
@@ -2198,7 +2198,7 @@ With the floor repaired, the studio reopened yesterday for evening classes.
 
 ID: `coverage-reduced-clauses-b2-2949`
 
-Choose the meaning of when folded in this product description.
+Choose the meaning of 'when folded' in this product description.
 
 When folded, the display fits inside a standard storage box.
 
@@ -2207,14 +2207,14 @@ When folded, the display fits inside a standard storage box.
 3. The display has remained folded since it was delivered.
 4. The display fits inside the box in its folded state. **[Correct]**
 
-**Explanation:** When folded means when the display is folded; that state allows it to fit inside the box.
+**Explanation:** 'When folded' means 'when the display is folded'; that state allows it to fit inside the box.
 
 **Choice feedback:**
 
 - **The display was folded because it was already inside the box.:** The description states a state-dependent property, not a past reason for folding the display.
 - **The box must be folded before it can hold the display.:** The understood folded object is the display, not the box.
 - **The display has remained folded since it was delivered.:** The reduced when clause does not establish a delivery history or a continuing folded state.
-- **The display fits inside the box in its folded state.:** When folded means when the display is folded; that state allows it to fit inside the box.
+- **The display fits inside the box in its folded state.:** 'When folded' means 'when the display is folded'; that state allows it to fit inside the box.
 
 **Decision:** replaced.
 
@@ -2262,7 +2262,7 @@ Though offered a larger office, the adviser chose to remain with the team.
 
 ID: `coverage-reduced-clauses-b2-2951`
 
-Choose the meaning of unless otherwise stated in the notice.
+Choose the meaning of 'unless otherwise stated' in the notice.
 
 Unless otherwise stated, the prices shown include delivery.
 
@@ -2271,14 +2271,14 @@ Unless otherwise stated, the prices shown include delivery.
 3. Delivery is included only when a separate statement confirms it.
 4. A different price must be stated before delivery can be arranged.
 
-**Explanation:** Unless otherwise stated gives an exception to the default: shown prices include delivery unless a statement says something different.
+**Explanation:** 'Unless otherwise stated' gives an exception to the default: shown prices include delivery unless a statement says something different.
 
 **Choice feedback:**
 
-- **Delivery is included except where a different arrangement is specified.:** Unless otherwise stated gives an exception to the default: shown prices include delivery unless a statement says something different.
+- **Delivery is included except where a different arrangement is specified.:** 'Unless otherwise stated' gives an exception to the default: shown prices include delivery unless a statement says something different.
 - **Delivery is excluded until a customer asks about it.:** The default includes delivery; the phrase does not make inclusion depend on a customer's question.
 - **Delivery is included only when a separate statement confirms it.:** This reverses the default, requiring confirmation where the notice instead requires a stated exception.
-- **A different price must be stated before delivery can be arranged.:** Otherwise stated concerns whether delivery is included, not a requirement to announce a new price before arranging it.
+- **A different price must be stated before delivery can be arranged.:** 'Otherwise stated' concerns whether delivery is included, not a requirement to announce a new price before arranging it.
 
 **Decision:** replaced.
 
@@ -2746,7 +2746,7 @@ The final witness having withdrawn, the panel postponed the hearing.
 
 ID: `coverage-reduced-clauses-c1-2966`
 
-Choose the role of all other things being equal in the comparison.
+Choose the role of 'all other things being equal' in the comparison.
 
 All other things being equal, the shorter application process should attract more candidates.
 
@@ -2755,14 +2755,14 @@ All other things being equal, the shorter application process should attract mor
 3. The writer adjusts candidate totals to make the application processes appear comparable.
 4. The writer assumes that process length has the same effect as the other factors.
 
-**Explanation:** All other things being equal sets a comparison condition in which factors other than process length are treated as unchanged.
+**Explanation:** 'All other things being equal' sets a comparison condition in which factors other than process length are treated as unchanged.
 
 **Choice feedback:**
 
 - **The writer reports that relevant factors were measured and found identical.:** The phrase supplies an assumption, not a report that real-world equality was measured.
-- **The writer holds other relevant factors constant for the comparison.:** All other things being equal sets a comparison condition in which factors other than process length are treated as unchanged.
+- **The writer holds other relevant factors constant for the comparison.:** 'All other things being equal' sets a comparison condition in which factors other than process length are treated as unchanged.
 - **The writer adjusts candidate totals to make the application processes appear comparable.:** Holding other factors constant is not the same as adjusting the outcome totals to make groups look alike.
-- **The writer assumes that process length has the same effect as the other factors.:** Equal concerns the values of other factors across the comparison, not equality of their effects with the effect of process length.
+- **The writer assumes that process length has the same effect as the other factors.:** 'Equal' concerns the values of other factors across the comparison, not equality of their effects with the effect of process length.
 
 **Decision:** replaced.
 
@@ -2778,7 +2778,7 @@ All other things being equal, the shorter application process should attract mor
 
 ID: `coverage-reduced-clauses-c1-2967`
 
-Choose the interpretation of staffing permitting.
+Choose the interpretation of 'staffing permitting'.
 
 Staffing permitting, the records office will extend its opening hours next month.
 
@@ -2787,14 +2787,14 @@ Staffing permitting, the records office will extend its opening hours next month
 3. Staffing arrangements have already been confirmed for longer hours.
 4. Longer opening hours depend on sufficient staffing being available. **[Correct]**
 
-**Explanation:** Staffing is the absolute clause's subject; permitting means if staffing makes the extension possible.
+**Explanation:** 'Staffing' is the absolute clause's subject; 'permitting' means 'if staffing makes the extension possible'.
 
 **Choice feedback:**
 
-- **Current staff have formally granted permission for the extension.:** Permitting means making the extension feasible, not employees performing a formal authorization act.
+- **Current staff have formally granted permission for the extension.:** 'Permitting' means making the extension feasible, not employees performing a formal authorization act.
 - **The extension will allow staffing levels to be reduced next month.:** The staffing condition enables longer hours; the sentence does not propose reducing staffing as their result.
 - **Staffing arrangements have already been confirmed for longer hours.:** The conditional absolute leaves adequate staffing as a condition, not a confirmed arrangement.
-- **Longer opening hours depend on sufficient staffing being available.:** Staffing is the absolute clause's subject; permitting means if staffing makes the extension possible.
+- **Longer opening hours depend on sufficient staffing being available.:** 'Staffing' is the absolute clause's subject; 'permitting' means 'if staffing makes the extension possible'.
 
 **Decision:** replaced.
 
@@ -2810,7 +2810,7 @@ Staffing permitting, the records office will extend its opening hours next month
 
 ID: `coverage-reduced-clauses-c1-2968`
 
-Choose the interpretation that preserves the scope of taken together.
+Choose the interpretation that preserves the scope of 'taken together'.
 
 Taken together, the interviews and maintenance records suggest that the problem developed gradually.
 
@@ -2819,13 +2819,13 @@ Taken together, the interviews and maintenance records suggest that the problem 
 3. The records were collected at the same time as every interview.
 4. The evidence shows that the problem began only after the interviews were completed.
 
-**Explanation:** Taken together asks the reader to consider interviews and records jointly; suggest keeps the conclusion tentative.
+**Explanation:** 'Taken together' asks the reader to consider interviews and records jointly; 'suggest' keeps the conclusion tentative.
 
 **Choice feedback:**
 
-- **Each individual interview independently proves a gradual development.:** Together concerns combined consideration, and suggest does not mean each item proves the conclusion independently.
-- **The two types of evidence jointly support a tentative account of gradual development.:** Taken together asks the reader to consider interviews and records jointly; suggest keeps the conclusion tentative.
-- **The records were collected at the same time as every interview.:** Taken here means considered, not necessarily collected simultaneously.
+- **Each individual interview independently proves a gradual development.:** 'Together' concerns combined consideration, and 'suggest' does not mean each item proves the conclusion independently.
+- **The two types of evidence jointly support a tentative account of gradual development.:** 'Taken together' asks the reader to consider interviews and records jointly; 'suggest' keeps the conclusion tentative.
+- **The records were collected at the same time as every interview.:** 'Taken' here means 'considered', not necessarily collected simultaneously.
 - **The evidence shows that the problem began only after the interviews were completed.:** The phrase gives a method of considering evidence, not a time when the underlying problem began.
 
 **Decision:** replaced.
@@ -2842,7 +2842,7 @@ Taken together, the interviews and maintenance records suggest that the problem 
 
 ID: `coverage-reduced-clauses-c1-2969`
 
-Choose the reading that preserves the perspective specified by viewed solely in terms of cost.
+Choose the reading that preserves the perspective specified by 'viewed solely in terms of cost'.
 
 Viewed solely in terms of cost, the proposal is attractive; its effect on access is less reassuring.
 
@@ -2851,14 +2851,14 @@ Viewed solely in terms of cost, the proposal is attractive; its effect on access
 3. The proposal is unattractive on cost but attractive on access.
 4. The favourable assessment is limited to cost and does not settle the access question. **[Correct]**
 
-**Explanation:** The reduced passive phrase specifies the viewpoint under which attractive applies, leaving a different evaluation under access.
+**Explanation:** The reduced passive phrase specifies the viewpoint under which 'attractive' applies, leaving a different evaluation under access.
 
 **Choice feedback:**
 
-- **The proposal is attractive overall because access and cost have been assessed together.:** Solely limits the first assessment to cost; the second clause introduces a less positive access assessment.
+- **The proposal is attractive overall because access and cost have been assessed together.:** 'Solely' limits the first assessment to cost; the second clause introduces a less positive access assessment.
 - **The proposal's cost cannot be evaluated until access has been improved.:** The sentence makes a cost assessment now rather than postponing it until access improves.
 - **The proposal is unattractive on cost but attractive on access.:** This reverses both evaluations: cost is attractive, while access is less reassuring.
-- **The favourable assessment is limited to cost and does not settle the access question.:** The reduced passive phrase specifies the viewpoint under which attractive applies, leaving a different evaluation under access.
+- **The favourable assessment is limited to cost and does not settle the access question.:** The reduced passive phrase specifies the viewpoint under which 'attractive' applies, leaving a different evaluation under access.
 
 **Decision:** replaced.
 
@@ -3326,7 +3326,7 @@ Requests not yet assessed for urgency may be withdrawn without explanation.
 
 ID: `coverage-reduced-clauses-c2-2984`
 
-Choose the claim made by having rejected alone, without adding a motive.
+Choose the claim made by 'having rejected' alone, without adding a motive.
 
 Having rejected the first design, the client commissioned a second architect.
 
@@ -3335,13 +3335,13 @@ Having rejected the first design, the client commissioned a second architect.
 3. Rejection of the first design preceded the client's later commission. **[Correct]**
 4. The client had completed an assessment of the second design before rejecting the first.
 
-**Explanation:** Having rejected presents rejection as completed before the main action; a precise motive is not encoded by having itself.
+**Explanation:** 'Having rejected' presents rejection as completed before the main action; a precise motive is not encoded by 'having' itself.
 
 **Choice feedback:**
 
 - **The client rejected the design specifically to justify hiring another architect.:** The perfect participle supplies an earlier action, not the particular strategic motive proposed here.
 - **The second architect caused the client to reject the first design.:** No role for the second architect in causing the rejection is stated.
-- **Rejection of the first design preceded the client's later commission.:** Having rejected presents rejection as completed before the main action; a precise motive is not encoded by having itself.
+- **Rejection of the first design preceded the client's later commission.:** 'Having rejected' presents rejection as completed before the main action; a precise motive is not encoded by 'having' itself.
 - **The client had completed an assessment of the second design before rejecting the first.:** The sentence does not report a second design or an earlier assessment of one.
 
 **Decision:** replaced.
@@ -3358,7 +3358,7 @@ Having rejected the first design, the client commissioned a second architect.
 
 ID: `coverage-reduced-clauses-c2-2985`
 
-Choose the account of generally speaking that fits this use in edited prose.
+Choose the account of 'generally speaking' that fits this use in edited prose.
 
 Generally speaking, shorter leases offer tenants more flexibility.
 
@@ -3371,10 +3371,10 @@ Generally speaking, shorter leases offer tenants more flexibility.
 
 **Choice feedback:**
 
-- **The phrase must be removed because an introductory participle must describe the grammatical subject.:** That rule overgeneralizes from ordinary event participles; generally speaking is an established writer-oriented commentary phrase.
+- **The phrase must be removed because an introductory participle must describe the grammatical subject.:** That rule overgeneralizes from ordinary event participles; 'generally speaking' is an established writer-oriented commentary phrase.
 - **The phrase is a reduced relative selecting leases whose terms are usually discussed publicly.:** The phrase qualifies the scope of the whole claim, not a subset of leases selected by public discussion.
 - **The phrase marks the writer's generalization without describing the main subject.:** The construction frames the writer's claim as a generalization; it is not a literal event with leases as its subject.
-- **The phrase attributes the claim to tenants rather than presenting the writer's own summary.:** Generally speaking does not make the tenants the source of the statement.
+- **The phrase attributes the claim to tenants rather than presenting the writer's own summary.:** 'Generally speaking' does not make the tenants the source of the statement.
 
 **Decision:** replaced.
 
@@ -3518,7 +3518,7 @@ No corroborating evidence having emerged, the commission declined to name an ind
 
 ID: `coverage-reduced-clauses-c2-2990`
 
-Choose the meaning of far from resolving in context.
+Choose the meaning of 'far from resolving' in context.
 
 Far from resolving the disagreement, the revised wording introduced a second point of dispute.
 
@@ -3527,14 +3527,14 @@ Far from resolving the disagreement, the revised wording introduced a second poi
 3. The parties postponed resolution in order to negotiate a second version of the wording.
 4. The revision failed to resolve the disagreement and instead created an additional dispute. **[Correct]**
 
-**Explanation:** Far from resolving rejects the expected resolving effect, and introduced a second point gives the contrary outcome.
+**Explanation:** 'Far from resolving' rejects the expected resolving effect, and 'introduced a second point' gives the contrary outcome.
 
 **Choice feedback:**
 
 - **The revision resolved the disagreement but left an unrelated topic for later discussion.:** The opening phrase denies that the revision resolved the original disagreement.
 - **The revision brought resolution closer, although another point remained to be discussed.:** This presents progress towards resolution and a remaining topic, whereas the sentence emphasizes non-resolution and a newly introduced dispute.
 - **The parties postponed resolution in order to negotiate a second version of the wording.:** The sentence reports an outcome of revision, not a deliberate postponement for further negotiation.
-- **The revision failed to resolve the disagreement and instead created an additional dispute.:** Far from resolving rejects the expected resolving effect, and introduced a second point gives the contrary outcome.
+- **The revision failed to resolve the disagreement and instead created an additional dispute.:** 'Far from resolving' rejects the expected resolving effect, and 'introduced a second point' gives the contrary outcome.
 
 **Decision:** replaced.
 
@@ -3614,7 +3614,7 @@ The delegates left the hall in small groups, some discussing the vote, others qu
 
 ID: `coverage-reduced-clauses-c2-2993`
 
-Choose the inference that accounts for partly as well as the perfect participle.
+Choose the inference that accounts for 'partly' as well as the perfect participle.
 
 Having only partly restored the mural, the conservators suspended work until the funding review.
 
@@ -3623,13 +3623,13 @@ Having only partly restored the mural, the conservators suspended work until the
 3. The conservators had only planned restoration and had not begun it.
 4. The suspension occurred before the partial restoration began.
 
-**Explanation:** Having locates restoration work before the suspension, while only partly limits how much of the mural had been restored.
+**Explanation:** 'Having' locates restoration work before the suspension, while 'only partly' limits how much of the mural had been restored.
 
 **Choice feedback:**
 
-- **The mural's restoration was complete, but funding for display was not.:** Only partly explicitly limits the extent of restoration, so perfect form does not imply the whole project was complete.
-- **Some restoration had occurred, but the mural was not fully restored.:** Having locates restoration work before the suspension, while only partly limits how much of the mural had been restored.
-- **The conservators had only planned restoration and had not begun it.:** Restored reports work done, not merely a plan; partly indicates a nonzero but incomplete extent.
+- **The mural's restoration was complete, but funding for display was not.:** 'Only partly' explicitly limits the extent of restoration, so perfect form does not imply the whole project was complete.
+- **Some restoration had occurred, but the mural was not fully restored.:** 'Having' locates restoration work before the suspension, while 'only partly' limits how much of the mural had been restored.
+- **The conservators had only planned restoration and had not begun it.:** 'Restored' reports work done, not merely a plan; 'partly' indicates a nonzero but incomplete extent.
 - **The suspension occurred before the partial restoration began.:** The perfect participle puts the partial restoration before the suspension, not after it.
 
 **Decision:** replaced.
@@ -3678,7 +3678,7 @@ The photographer approached the mayor smiling broadly.
 
 ID: `coverage-reduced-clauses-c2-2995`
 
-Choose the statement that accurately contrasts the two uses of certified as authentic.
+Choose the statement that accurately contrasts the two uses of 'certified as authentic'.
 
 A: The documents certified as authentic were not destroyed. B: The documents, certified as authentic, were not destroyed.
 
@@ -3687,14 +3687,14 @@ A: The documents certified as authentic were not destroyed. B: The documents, ce
 3. A reports destruction after certification; B reports certification after destruction.
 4. Both versions deny that the certification process was completed.
 
-**Explanation:** Without commas the participle restricts documents; with commas it adds a supplementary assertion. In both, the main negation concerns destruction.
+**Explanation:** Without commas the participle restricts 'documents'; with commas it adds a supplementary assertion. In both, the main negation concerns destruction.
 
 **Choice feedback:**
 
-- **A uses certification to identify a subset; B adds certification as information about the stated documents.:** Without commas the participle restricts documents; with commas it adds a supplementary assertion. In both, the main negation concerns destruction.
+- **A uses certification to identify a subset; B adds certification as information about the stated documents.:** Without commas the participle restricts 'documents'; with commas it adds a supplementary assertion. In both, the main negation concerns destruction.
 - **A denies certification, while B denies destruction but confirms certification.:** A does not deny certification: that property identifies the documents whose destruction is denied.
 - **A reports destruction after certification; B reports certification after destruction.:** Both deny destruction, and neither gives the proposed sequence of the two events.
-- **Both versions deny that the certification process was completed.:** Not belongs to were destroyed, not to the certification description in either sentence.
+- **Both versions deny that the certification process was completed.:** 'Not' belongs to 'were destroyed', not to the certification description in either sentence.
 
 **Decision:** replaced.
 
@@ -3742,7 +3742,7 @@ His objections still unaddressed, Malik signed the meeting record but requested 
 
 ID: `coverage-reduced-clauses-c2-2997`
 
-Choose the interpretation of including the two appendices.
+Choose the interpretation of 'including the two appendices'.
 
 Including the two appendices, the submission runs to forty pages; the cover sheet is counted separately.
 
@@ -3755,9 +3755,9 @@ Including the two appendices, the submission runs to forty pages; the cover shee
 
 **Choice feedback:**
 
-- **The submission has forty pages before the appendices and cover sheet are added.:** Including places the appendices within the forty-page total, not outside it.
-- **The cover sheet and appendices together account for forty pages.:** Forty pages measures the submission with its appendices, not just the appendices and cover.
-- **Forty pages of the submission are being considered for inclusion in two appendices.:** Including is a counting qualification, not an ongoing editorial decision about relocating forty pages.
+- **The submission has forty pages before the appendices and cover sheet are added.:** 'Including' places the appendices within the forty-page total, not outside it.
+- **The cover sheet and appendices together account for forty pages.:** 'Forty pages' measures the submission with its appendices, not just the appendices and cover.
+- **Forty pages of the submission are being considered for inclusion in two appendices.:** 'Including' is a counting qualification, not an ongoing editorial decision about relocating forty pages.
 - **The forty-page total counts the appendices but not the separately counted cover sheet.:** The inclusion phrase fixes the counting domain; the following clause explicitly excludes the cover sheet from that total.
 
 **Decision:** replaced.

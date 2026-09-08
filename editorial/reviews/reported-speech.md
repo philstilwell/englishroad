@@ -170,7 +170,7 @@ The customer says, 'I don't eat meat.'
 
 ID: `coverage-reported-speech-a1-3246`
 
-Choose the verb that fits directly before me in this sentence.
+Choose the verb that fits directly before 'me' in this sentence.
 
 The driver ___ me that this is the last stop.
 
@@ -179,14 +179,14 @@ The driver ___ me that this is the last stop.
 3. talks
 4. tells **[Correct]**
 
-**Explanation:** Tell can take the listener directly: tells me that this is the last stop.
+**Explanation:** 'Tell' can take the listener directly: 'tells me that this is the last stop'.
 
 **Choice feedback:**
 
-- **says:** Say needs to before a listener: says to me, not says me.
-- **speaks:** Speaks does not take me directly before a that clause in this pattern.
-- **talks:** Talk normally uses a preposition for the listener, such as talks to me, not talks me that.
-- **tells:** Tell can take the listener directly: tells me that this is the last stop.
+- **says:** 'Say' needs 'to' before a listener: 'says to me', not 'says me'.
+- **speaks:** 'Speaks' does not take 'me' directly before a that clause in this pattern.
+- **talks:** 'Talk' normally uses a preposition for the listener, such as 'talks to me', not 'talks me that'.
+- **tells:** 'Tell' can take the listener directly: 'tells me that this is the last stop'.
 
 **Decision:** replaced.
 
@@ -202,7 +202,7 @@ The driver ___ me that this is the last stop.
 
 ID: `coverage-reported-speech-a1-3247`
 
-Complete the report using said and the listener correctly.
+Complete the report using 'said' and the listener correctly.
 
 The host said ___ the guest that dinner was ready.
 
@@ -211,14 +211,14 @@ The host said ___ the guest that dinner was ready.
 3. to **[Correct]**
 4. with
 
-**Explanation:** Said to the guest identifies the person who heard the host's message.
+**Explanation:** 'Said to the guest' identifies the person who heard the host's message.
 
 **Choice feedback:**
 
-- **at:** At does not introduce the listener after said in this reporting pattern.
-- **for:** For can suggest speaking on someone's behalf, not saying these words to that person.
-- **to:** Said to the guest identifies the person who heard the host's message.
-- **with:** With does not mark the person receiving the message after said.
+- **at:** 'At' does not introduce the listener after 'said' in this reporting pattern.
+- **for:** 'For' can suggest speaking on someone's behalf, not saying these words to that person.
+- **to:** 'Said to the guest' identifies the person who heard the host's message.
+- **with:** 'With' does not mark the person receiving the message after 'said'.
 
 **Decision:** replaced.
 
@@ -458,7 +458,7 @@ The barber says that he knows ___.
 
 ID: `coverage-reported-speech-a1-3255`
 
-Choose the report keeping the meaning of can.
+Choose the report keeping the meaning of 'can'.
 
 My aunt says, 'I can drive.'
 
@@ -467,14 +467,14 @@ My aunt says, 'I can drive.'
 3. My aunt says she needs to drive.
 4. My aunt says she cannot drive.
 
-**Explanation:** Can keeps the aunt's statement that she is able to drive.
+**Explanation:** 'Can' keeps the aunt's statement that she is able to drive.
 
 **Choice feedback:**
 
-- **My aunt says she wants to drive.:** Want expresses a wish, not the ability stated with can.
-- **My aunt says she can drive.:** Can keeps the aunt's statement that she is able to drive.
-- **My aunt says she needs to drive.:** Need expresses necessity, not the stated ability.
-- **My aunt says she cannot drive.:** Cannot reverses the positive statement about driving.
+- **My aunt says she wants to drive.:** 'Want' expresses a wish, not the ability stated with 'can'.
+- **My aunt says she can drive.:** 'Can' keeps the aunt's statement that she is able to drive.
+- **My aunt says she needs to drive.:** 'Need' expresses necessity, not the stated ability.
+- **My aunt says she cannot drive.:** 'Cannot' reverses the positive statement about driving.
 
 **Decision:** replaced.
 
@@ -782,7 +782,7 @@ The mechanic said that she ___.
 
 ID: `coverage-reported-speech-a2-3265`
 
-The swimmer said, 'I can swim a kilometer.' Use could to report the same ability from that past conversation.
+The swimmer said, 'I can swim a kilometer.' Use 'could' to report the same ability from that past conversation.
 
 The swimmer said that she ___.
 
@@ -791,14 +791,14 @@ The swimmer said that she ___.
 3. could to swim a kilometer
 4. could swim a kilometer **[Correct]**
 
-**Explanation:** Could plus the base form swim reports the ability without changing its positive meaning.
+**Explanation:** 'Could' plus the base form 'swim' reports the ability without changing its positive meaning.
 
 **Choice feedback:**
 
-- **could not swim a kilometer:** Could not adds a negative and reverses the stated ability.
-- **could swimming a kilometer:** A modal such as could takes the base form swim, not swimming.
-- **could to swim a kilometer:** Could is followed directly by swim, without to.
-- **could swim a kilometer:** Could plus the base form swim reports the ability without changing its positive meaning.
+- **could not swim a kilometer:** 'Could not' adds a negative and reverses the stated ability.
+- **could swimming a kilometer:** A modal such as 'could' takes the base form 'swim', not 'swimming'.
+- **could to swim a kilometer:** 'Could' is followed directly by 'swim', without 'to'.
+- **could swim a kilometer:** 'Could' plus the base form 'swim' reports the ability without changing its positive meaning.
 
 **Decision:** replaced.
 
@@ -814,7 +814,7 @@ The swimmer said that she ___.
 
 ID: `coverage-reported-speech-a2-3266`
 
-The plumber said, 'I will call before I arrive.' Choose the report using would for that future action viewed from the past.
+The plumber said, 'I will call before I arrive.' Choose the report using 'would' for that future action viewed from the past.
 
 The plumber said that he ___.
 
@@ -823,14 +823,14 @@ The plumber said that he ___.
 3. would call before he arrived **[Correct]**
 4. would to call before he arrived
 
-**Explanation:** Would call keeps the promised call later than the original conversation and uses the required base verb.
+**Explanation:** 'Would call' keeps the promised call later than the original conversation and uses the required base verb.
 
 **Choice feedback:**
 
-- **would called before he arrived:** Would needs the base form call, not the past form called.
-- **would calling before he arrived:** Calling cannot follow would directly in this verb phrase.
-- **would call before he arrived:** Would call keeps the promised call later than the original conversation and uses the required base verb.
-- **would to call before he arrived:** Would does not take to before its main verb.
+- **would called before he arrived:** 'Would' needs the base form 'call', not the past form 'called'.
+- **would calling before he arrived:** 'Calling' cannot follow 'would' directly in this verb phrase.
+- **would call before he arrived:** 'Would call' keeps the promised call later than the original conversation and uses the required base verb.
+- **would to call before he arrived:** 'Would' does not take 'to' before its main verb.
 
 **Decision:** replaced.
 
@@ -1006,7 +1006,7 @@ The colleague asks, 'What is your name?'
 
 ID: `coverage-reported-speech-a2-3272`
 
-On Tuesday the guest said, 'I arrived yesterday.' Which phrase keeps yesterday linked to the day he spoke?
+On Tuesday the guest said, 'I arrived yesterday.' Which phrase keeps 'yesterday' linked to the day he spoke?
 
 The guest said on Tuesday that he had arrived ___.
 
@@ -1015,14 +1015,14 @@ The guest said on Tuesday that he had arrived ___.
 3. on Tuesday
 4. the following week
 
-**Explanation:** The day before refers to Monday, the day before the guest's Tuesday statement.
+**Explanation:** 'The day before' refers to Monday, the day before the guest's Tuesday statement.
 
 **Choice feedback:**
 
-- **the next day:** The next day points forward from Tuesday rather than back to the arrival day.
-- **the day before:** The day before refers to Monday, the day before the guest's Tuesday statement.
-- **on Tuesday:** On Tuesday makes arrival happen on the speaking day instead of the previous day.
-- **the following week:** The following week shifts arrival to a later week, not yesterday relative to the conversation.
+- **the next day:** 'The next day' points forward from Tuesday rather than back to the arrival day.
+- **the day before:** 'The day before' refers to Monday, the day before the guest's Tuesday statement.
+- **on Tuesday:** 'On Tuesday' makes arrival happen on the speaking day instead of the previous day.
+- **the following week:** 'The following week' shifts arrival to a later week, not 'yesterday' relative to the conversation.
 
 **Decision:** replaced.
 
@@ -1230,7 +1230,7 @@ The passenger ___.
 
 ID: `coverage-reported-speech-a2-3279`
 
-Choose the natural pattern with told and a named listener.
+Choose the natural pattern with 'told' and a named listener.
 
 The trainer ___ the session was free.
 
@@ -1239,14 +1239,14 @@ The trainer ___ the session was free.
 3. told to us that
 4. told us to that
 
-**Explanation:** Told us that names the listeners and introduces the information they received.
+**Explanation:** 'Told us that' names the listeners and introduces the information they received.
 
 **Choice feedback:**
 
-- **told us that:** Told us that names the listeners and introduces the information they received.
-- **told that:** In this use of tell, the report needs a listener, such as us, before that.
-- **told to us that:** Tell takes us directly here, not to us.
-- **told us to that:** To cannot stand between us and a that clause in this pattern.
+- **told us that:** 'Told us that' names the listeners and introduces the information they received.
+- **told that:** In this use of 'tell', the report needs a listener, such as 'us', before 'that'.
+- **told to us that:** 'Tell' takes 'us' directly here, not 'to us'.
+- **told us to that:** 'To' cannot stand between 'us' and a 'that' clause in this pattern.
 
 **Decision:** replaced.
 
@@ -1262,7 +1262,7 @@ The trainer ___ the session was free.
 
 ID: `coverage-reported-speech-a2-3280`
 
-A guide says, 'The river runs through the city.' The report begins with says, not said.
+A guide says, 'The river runs through the city.' The report begins with 'says', not 'said'.
 
 The guide says that the river ___.
 
@@ -1271,14 +1271,14 @@ The guide says that the river ___.
 3. is run through the city
 4. runs through the city **[Correct]**
 
-**Explanation:** Runs agrees with the river and keeps the present fact after the present reporting verb says.
+**Explanation:** 'Runs' agrees with 'the river' and keeps the present fact after the present reporting verb 'says'.
 
 **Choice feedback:**
 
-- **run through the city:** Run lacks the singular -s required with the river in this present statement.
-- **running through the city:** Running needs an auxiliary to form a complete verb phrase here.
-- **is run through the city:** Is run is a passive form, which does not express the river's ordinary course through the city.
-- **runs through the city:** Runs agrees with the river and keeps the present fact after the present reporting verb says.
+- **run through the city:** 'Run' lacks the singular -s required with the river in this present statement.
+- **running through the city:** 'Running' needs an auxiliary to form a complete verb phrase here.
+- **is run through the city:** 'Is run' is a passive form, which does not express the river's ordinary course through the city.
+- **runs through the city:** 'Runs' agrees with 'the river' and keeps the present fact after the present reporting verb 'says'.
 
 **Decision:** replaced.
 
@@ -1330,7 +1330,7 @@ The parking attendant asked me ___.
 
 ID: `coverage-reported-speech-b1-3282`
 
-The organizer asked, 'Have you paid the entry fee?' Choose the standard indirect question with had paid.
+The organizer asked, 'Have you paid the entry fee?' Choose the standard indirect question with 'had paid'.
 
 The organizer asked ___.
 
@@ -1339,14 +1339,14 @@ The organizer asked ___.
 3. if had I paid the entry fee
 4. if I had pay the entry fee
 
-**Explanation:** If introduces the yes/no question, and I had paid has the required embedded order and perfect form.
+**Explanation:** 'If' introduces the yes/no question, and 'I had paid' has the required embedded order and perfect form.
 
 **Choice feedback:**
 
-- **that I had paid the entry fee:** That would introduce a statement, not the yes/no question being reported.
-- **if I had paid the entry fee:** If introduces the yes/no question, and I had paid has the required embedded order and perfect form.
-- **if had I paid the entry fee:** The embedded question needs I had, not the direct-question order had I.
-- **if I had pay the entry fee:** Had must be followed by paid, the past participle, not pay.
+- **that I had paid the entry fee:** 'That' would introduce a statement, not the yes/no question being reported.
+- **if I had paid the entry fee:** 'If' introduces the yes/no question, and 'I had paid' has the required embedded order and perfect form.
+- **if had I paid the entry fee:** The embedded question needs 'I had', not the direct-question order 'had I'.
+- **if I had pay the entry fee:** 'Had' must be followed by 'paid', the past participle, not 'pay'.
 
 **Decision:** replaced.
 
@@ -1362,7 +1362,7 @@ The organizer asked ___.
 
 ID: `coverage-reported-speech-b1-3283`
 
-Report 'Who ordered the flowers?' using who as the subject and the past perfect.
+Report 'Who ordered the flowers?' using 'who' as the subject and the past perfect.
 
 The florist asked ___.
 
@@ -1371,14 +1371,14 @@ The florist asked ___.
 3. who had ordered the flowers **[Correct]**
 4. who did had ordered the flowers
 
-**Explanation:** Who is the subject of had ordered, so no separate subject or do-support is needed.
+**Explanation:** 'Who' is the subject of 'had ordered', so no separate subject or do-support is needed.
 
 **Choice feedback:**
 
-- **who had the flowers ordered:** Who had the flowers ordered can ask who arranged the service; it is not the requested perfect report of who ordered them.
-- **who the flowers had ordered:** This makes the flowers the subject of ordered instead of keeping who as the subject.
-- **who had ordered the flowers:** Who is the subject of had ordered, so no separate subject or do-support is needed.
-- **who did had ordered the flowers:** Did cannot precede had ordered in this form.
+- **who had the flowers ordered:** 'Who had the flowers ordered' can ask who arranged the service; it is not the requested perfect report of who ordered them.
+- **who the flowers had ordered:** This makes the flowers the subject of 'ordered' instead of keeping 'who' as the subject.
+- **who had ordered the flowers:** 'Who' is the subject of 'had ordered', so no separate subject or do-support is needed.
+- **who did had ordered the flowers:** 'Did' cannot precede 'had ordered' in this form.
 
 **Decision:** replaced.
 
@@ -1394,7 +1394,7 @@ The florist asked ___.
 
 ID: `coverage-reported-speech-b1-3284`
 
-Choose standard written indirect-question order. Keep the simple past cost, which has the same spelling as the base form.
+Choose standard written indirect-question order. Keep the simple past 'cost', which has the same spelling as the base form.
 
 The visitor asked how much ___.
 
@@ -1403,14 +1403,14 @@ The visitor asked how much ___.
 3. the tickets did costed
 4. cost the tickets
 
-**Explanation:** The tickets cost places the subject before the simple past verb in the embedded question.
+**Explanation:** 'The tickets cost' places the subject before the simple past verb in the embedded question.
 
 **Choice feedback:**
 
-- **the tickets cost:** The tickets cost places the subject before the simple past verb in the embedded question.
-- **did the tickets cost:** Did the tickets cost is direct-question order, not the requested indirect order.
-- **the tickets did costed:** After did the verb would be cost, not costed; this phrase also adds unnecessary do-support.
-- **cost the tickets:** Cost the tickets puts the main verb before the subject instead of using the tickets cost.
+- **the tickets cost:** 'The tickets cost' places the subject before the simple past verb in the embedded question.
+- **did the tickets cost:** 'Did the tickets cost' is direct-question order, not the requested indirect order.
+- **the tickets did costed:** After 'did' the verb would be 'cost', not 'costed'; this phrase also adds unnecessary do-support.
+- **cost the tickets:** 'Cost the tickets' puts the main verb before the subject instead of using 'the tickets cost'.
 
 **Decision:** replaced.
 
@@ -2294,7 +2294,7 @@ The engineer asked, 'Is the sensor faulty?'
 
 ID: `coverage-reported-speech-b2-3312`
 
-The librarian said, 'You ought to keep a record of your sources.' Keep ought to unchanged in the report.
+The librarian said, 'You ought to keep a record of your sources.' Keep 'ought to' unchanged in the report.
 
 The librarian said that we ___.
 
@@ -2303,14 +2303,14 @@ The librarian said that we ___.
 3. had ought to keep a record of our sources
 4. would ought to keep a record of our sources
 
-**Explanation:** Ought to is retained, with the base form keep, while our adjusts the possessive to the reporting group.
+**Explanation:** 'Ought to' is retained, with the base form 'keep', while 'our' adjusts the possessive to the reporting group.
 
 **Choice feedback:**
 
-- **ought to keep a record of our sources:** Ought to is retained, with the base form keep, while our adjusts the possessive to the reporting group.
-- **ought kept a record of our sources:** Ought needs to plus the base verb here, not the past form kept.
-- **had ought to keep a record of our sources:** Had cannot be added as a backshift auxiliary before ought in this standard construction.
-- **would ought to keep a record of our sources:** Would cannot be stacked before ought to make the intended report.
+- **ought to keep a record of our sources:** 'Ought to' is retained, with the base form 'keep', while 'our' adjusts the possessive to the reporting group.
+- **ought kept a record of our sources:** 'Ought' needs 'to' plus the base verb here, not the past form 'kept'.
+- **had ought to keep a record of our sources:** 'Had' cannot be added as a backshift auxiliary before 'ought' in this standard construction.
+- **would ought to keep a record of our sources:** 'Would' cannot be stacked before 'ought' to make the intended report.
 
 **Decision:** replaced.
 
@@ -2874,9 +2874,9 @@ The travel writer described the rooms to an interviewer.
 
 ID: `coverage-reported-speech-c1-3330`
 
-What should an editor conclude about the reference of we in this transcript?
+What should an editor conclude about the reference of 'we' in this transcript?
 
-A chair told visiting delegates, 'We must revise our position.' The surrounding transcript does not identify whether we includes the delegates.
+A chair told visiting delegates, 'We must revise our position.' The surrounding transcript does not identify whether 'we' includes the delegates.
 
 1. We must become they because a report can never include its audience.
 2. We must become you because the chair was addressing delegates.
@@ -2887,9 +2887,9 @@ A chair told visiting delegates, 'We must revise our position.' The surrounding 
 
 **Choice feedback:**
 
-- **We must become they because a report can never include its audience.:** A reported we may include or exclude the original audience; there is no automatic they rule that resolves membership.
-- **We must become you because the chair was addressing delegates.:** Addressing delegates does not make we refer to the delegates alone.
-- **We proves that the chair and delegates held the same position.:** We alone does not settle whether the delegates belong to the group whose position is discussed.
+- **We must become they because a report can never include its audience.:** A reported 'we' may include or exclude the original audience; there is no automatic 'they' rule that resolves membership.
+- **We must become you because the chair was addressing delegates.:** Addressing delegates does not make 'we' refer to the delegates alone.
+- **We proves that the chair and delegates held the same position.:** 'We' alone does not settle whether the delegates belong to the group whose position is discussed.
 - **The included group needs clarification before a report can replace we with a specific group name.:** The missing group membership cannot be recovered from pronoun form alone; clarification avoids inventing who shares the position.
 
 **Decision:** replaced.
@@ -3744,21 +3744,21 @@ ID: `coverage-reported-speech-c2-3357`
 
 Which summary accurately captures the architect's correction?
 
-The architect said, 'I called the design unprecedented, not unacceptable.' No further evaluation was given.
+The architect said, 'I called the design "unprecedented", not "unacceptable".' No further evaluation was given.
 
 1. The architect denied finding the design unacceptable.
 2. The architect corrected the word attributed to her, without settling whether she considered the design acceptable. **[Correct]**
 3. The architect withdrew a judgment that the design was unprecedented and endorsed it as acceptable.
 4. The architect admitted disapproving of the design but preferred a less direct expression.
 
-**Explanation:** The contrast corrects which description she used; unprecedented does not itself mean acceptable or unacceptable.
+**Explanation:** The contrast corrects which description she used; 'unprecedented' does not itself mean 'acceptable' or 'unacceptable'.
 
 **Choice feedback:**
 
-- **The architect denied finding the design unacceptable.:** Not having used unacceptable does not establish that she did not privately judge it unacceptable.
-- **The architect corrected the word attributed to her, without settling whether she considered the design acceptable.:** The contrast corrects which description she used; unprecedented does not itself mean acceptable or unacceptable.
-- **The architect withdrew a judgment that the design was unprecedented and endorsed it as acceptable.:** She maintains unprecedented as her wording and supplies no endorsement of acceptability.
-- **The architect admitted disapproving of the design but preferred a less direct expression.:** The statement does not admit disapproval or say unprecedented was an indirect substitute for it.
+- **The architect denied finding the design unacceptable.:** Not having used 'unacceptable' does not establish that she did not privately judge it unacceptable.
+- **The architect corrected the word attributed to her, without settling whether she considered the design acceptable.:** The contrast corrects which description she used; 'unprecedented' does not itself mean 'acceptable' or 'unacceptable'.
+- **The architect withdrew a judgment that the design was unprecedented and endorsed it as acceptable.:** She maintains 'unprecedented' as her wording and supplies no endorsement of acceptability.
+- **The architect admitted disapproving of the design but preferred a less direct expression.:** The statement does not admit disapproval or say 'unprecedented' was an indirect substitute for it.
 
 **Decision:** replaced.
 

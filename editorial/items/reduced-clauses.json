@@ -564,7 +564,7 @@
     {
       "id": "coverage-reduced-clauses-a1-2899",
       "level": "A1",
-      "setupText": "Choose the longer phrase with the same meaning as not buying tickets.",
+      "setupText": "Choose the longer phrase with the same meaning as 'not buying tickets'.",
       "taskText": "People not buying tickets can use the other entrance.",
       "options": [
         "who aren't selling tickets",
@@ -573,12 +573,12 @@
         "who plan to buy extra tickets"
       ],
       "answer": "who aren't buying tickets",
-      "explanation": "Not buying is a short version of who aren't buying in this description.",
+      "explanation": "'Not buying' is a short version of \"who aren't buying\" in this description.",
       "rationales": {
-        "who aren't selling tickets": "Not selling changes the activity from buying to selling.",
-        "who have already bought tickets": "Already bought reports a completed purchase; not buying does not tell us that a purchase happened earlier.",
-        "who aren't buying tickets": "Not buying is a short version of who aren't buying in this description.",
-        "who plan to buy extra tickets": "Planning to buy extra tickets introduces a future plan that the negative description does not state."
+        "who aren't selling tickets": "'Not selling' changes the activity from buying to selling.",
+        "who have already bought tickets": "'Already bought' reports a completed purchase; 'not buying' does not tell us that a purchase happened earlier.",
+        "who aren't buying tickets": "'Not buying' is a short version of \"who aren't buying\" in this description.",
+        "who plan to buy extra tickets": "'Planning to buy extra tickets' introduces a future plan that the negative description does not state."
       },
       "audit": {
         "status": "reviewed",
@@ -936,7 +936,7 @@
     {
       "id": "coverage-reduced-clauses-a2-2911",
       "level": "A2",
-      "setupText": "Choose the meaning of lying in this description.",
+      "setupText": "Choose the meaning of 'lying' in this description.",
       "taskText": "The magazines lying on the bench are free to take.",
       "options": [
         "The magazines have been left on the floor.",
@@ -945,12 +945,12 @@
         "The magazines are resting on the bench."
       ],
       "answer": "The magazines are resting on the bench.",
-      "explanation": "Lying on the bench means resting there; the phrase identifies the magazines available to take.",
+      "explanation": "'Lying on the bench' means resting there; the phrase identifies the magazines available to take.",
       "rationales": {
-        "The magazines have been left on the floor.": "On the bench gives their position, not on the floor.",
-        "The magazines are being delivered to the bench.": "Lying describes their current position rather than a delivery in progress.",
-        "The magazines are resting on the bench.": "Lying on the bench means resting there; the phrase identifies the magazines available to take.",
-        "The magazines have fallen under the bench.": "Under the bench is a different position from on the bench."
+        "The magazines have been left on the floor.": "'On the bench' gives their position, not on the floor.",
+        "The magazines are being delivered to the bench.": "'Lying' describes their current position rather than a delivery in progress.",
+        "The magazines are resting on the bench.": "'Lying on the bench' means resting there; the phrase identifies the magazines available to take.",
+        "The magazines have fallen under the bench.": "'Under the bench' is a different position from 'on the bench'."
       },
       "audit": {
         "status": "reviewed",
@@ -999,7 +999,7 @@
     {
       "id": "coverage-reduced-clauses-a2-2913",
       "level": "A2",
-      "setupText": "Choose the longer description with the same meaning as served cold.",
+      "setupText": "Choose the longer description with the same meaning as 'served cold'.",
       "taskText": "The soup served cold is made with tomatoes.",
       "options": [
         "that is served at a low temperature",
@@ -1008,12 +1008,12 @@
         "that is kept frozen until tomorrow"
       ],
       "answer": "that is served at a low temperature",
-      "explanation": "Served cold is a short passive description: the soup is served at a low temperature.",
+      "explanation": "'Served cold' is a short passive description: the soup is served at a low temperature.",
       "rationales": {
-        "that becomes cold before it is cooked": "Served cold describes temperature when offered to eat, not before cooking.",
-        "that is served at a low temperature": "Served cold is a short passive description: the soup is served at a low temperature.",
-        "that must be warmed before serving": "Warmed before serving gives the opposite serving temperature.",
-        "that is kept frozen until tomorrow": "Cold does not require freezing, and no future storage period is mentioned."
+        "that becomes cold before it is cooked": "'Served cold' describes temperature when offered to eat, not before cooking.",
+        "that is served at a low temperature": "'Served cold' is a short passive description: the soup is served at a low temperature.",
+        "that must be warmed before serving": "'Warmed before serving' gives the opposite serving temperature.",
+        "that is kept frozen until tomorrow": "'Cold' does not require freezing, and no future storage period is mentioned."
       },
       "audit": {
         "status": "reviewed",
@@ -1030,7 +1030,7 @@
     {
       "id": "coverage-reduced-clauses-a2-2914",
       "level": "A2",
-      "setupText": "Choose the meaning of without paying in the notice.",
+      "setupText": "Choose the meaning of 'without paying' in the notice.",
       "taskText": "You can visit the garden without paying for a museum ticket.",
       "options": [
         "You need not buy a museum ticket to visit the garden.",
@@ -1039,12 +1039,12 @@
         "Your garden ticket includes entry to the museum."
       ],
       "answer": "You need not buy a museum ticket to visit the garden.",
-      "explanation": "Without paying for a museum ticket means the garden visit does not require buying one.",
+      "explanation": "'Without paying for a museum ticket' means the garden visit does not require buying one.",
       "rationales": {
-        "You must buy a ticket before visiting the garden.": "Without paying removes the museum-ticket purchase requirement rather than imposing one.",
+        "You must buy a ticket before visiting the garden.": "'Without paying' removes the museum-ticket purchase requirement rather than imposing one.",
         "You can pay for the ticket after leaving the garden.": "The phrase allows a visit without that purchase, not merely with payment postponed.",
         "Your garden ticket includes entry to the museum.": "The notice does not promise museum access as part of a garden ticket.",
-        "You need not buy a museum ticket to visit the garden.": "Without paying for a museum ticket means the garden visit does not require buying one."
+        "You need not buy a museum ticket to visit the garden.": "'Without paying for a museum ticket' means the garden visit does not require buying one."
       },
       "audit": {
         "status": "reviewed",
@@ -1185,7 +1185,7 @@
     {
       "id": "coverage-reduced-clauses-a2-2919",
       "level": "A2",
-      "setupText": "Choose the full meaning of when asked in this instruction.",
+      "setupText": "Choose the full meaning of 'when asked' in this instruction.",
       "taskText": "When asked for your booking number, show the confirmation email.",
       "options": [
         "When you ask someone for their booking number",
@@ -1194,12 +1194,12 @@
         "When someone asks you for your booking number"
       ],
       "answer": "When someone asks you for your booking number",
-      "explanation": "Asked is passive here: you receive the request and then show your confirmation.",
+      "explanation": "'Asked' is passive here: you receive the request and then show your confirmation.",
       "rationales": {
-        "When someone asks you for your booking number": "Asked is passive here: you receive the request and then show your confirmation.",
+        "When someone asks you for your booking number": "'Asked' is passive here: you receive the request and then show your confirmation.",
         "When you ask someone for their booking number": "This makes you the person requesting someone else's number, reversing the roles.",
-        "Before you receive a booking number": "When asked is tied to a request, not to the time before a booking number is issued.",
-        "While you are choosing a booking number": "Choosing a number is not the event described by being asked for it."
+        "Before you receive a booking number": "'When asked' is tied to a request, not to the time before a booking number is issued.",
+        "While you are choosing a booking number": "Choosing a number is not the event described by 'being asked for it'."
       },
       "audit": {
         "status": "reviewed",
@@ -1340,7 +1340,7 @@
     {
       "id": "coverage-reduced-clauses-b1-2924",
       "level": "B1",
-      "setupText": "Choose the meaning of repaired in this sentence.",
+      "setupText": "Choose the meaning of 'repaired' in this sentence.",
       "taskText": "The bicycles repaired yesterday are ready for collection.",
       "options": [
         "The repairs to those bicycles were completed yesterday.",
@@ -1349,12 +1349,12 @@
         "The bicycles are being repaired during collection."
       ],
       "answer": "The repairs to those bicycles were completed yesterday.",
-      "explanation": "The past-participle description repaired yesterday identifies the bicycles by completed repair work.",
+      "explanation": "The past-participle description 'repaired yesterday' identifies the bicycles by completed repair work.",
       "rationales": {
-        "The bicycles are waiting for repairs to begin.": "Repaired yesterday identifies bicycles whose repairs have already taken place, not those awaiting a start.",
-        "The bicycles will be repaired when collected.": "Yesterday places the repair in the past; collection is the next available step.",
+        "The bicycles are waiting for repairs to begin.": "'Repaired yesterday' identifies bicycles whose repairs have already taken place, not those awaiting a start.",
+        "The bicycles will be repaired when collected.": "'Yesterday' places the repair in the past; collection is the next available step.",
         "The bicycles are being repaired during collection.": "The sentence says the bicycles are ready for collection, not still being repaired during it.",
-        "The repairs to those bicycles were completed yesterday.": "The past-participle description repaired yesterday identifies the bicycles by completed repair work."
+        "The repairs to those bicycles were completed yesterday.": "The past-participle description 'repaired yesterday' identifies the bicycles by completed repair work."
       },
       "audit": {
         "status": "reviewed",
@@ -1402,7 +1402,7 @@
     {
       "id": "coverage-reduced-clauses-b1-2926",
       "level": "B1",
-      "setupText": "Choose the meaning of on arriving in the instruction.",
+      "setupText": "Choose the meaning of 'on arriving' in the instruction.",
       "taskText": "On arriving at the venue, report to the reception desk.",
       "options": [
         "Before travelling to the venue",
@@ -1411,11 +1411,11 @@
         "After leaving the reception desk"
       ],
       "answer": "When you arrive at the venue",
-      "explanation": "On arriving is a concise way to say when you arrive, making arrival the cue to report.",
+      "explanation": "'On arriving' is a concise way to say 'when you arrive', making arrival the cue to report.",
       "rationales": {
-        "Before travelling to the venue": "On arriving locates the action at arrival, not before the journey.",
-        "While choosing a venue": "Arriving describes reaching the chosen venue, not selecting one.",
-        "When you arrive at the venue": "On arriving is a concise way to say when you arrive, making arrival the cue to report.",
+        "Before travelling to the venue": "'On arriving' locates the action at arrival, not before the journey.",
+        "While choosing a venue": "'Arriving' describes reaching the chosen venue, not selecting one.",
+        "When you arrive at the venue": "'On arriving' is a concise way to say 'when you arrive', making arrival the cue to report.",
         "After leaving the reception desk": "The report follows arrival and takes you to reception; it is not scheduled after leaving reception."
       },
       "audit": {
@@ -1527,7 +1527,7 @@
       "id": "coverage-reduced-clauses-b1-2930",
       "level": "B1",
       "setupText": "Choose the instruction addressed to people who received an invitation, not people sending one.",
-      "taskText": "Use a short description beginning with Applicants.",
+      "taskText": "Use a short description beginning with 'Applicants'.",
       "options": [
         "Applicants preparing invitations should confirm a date.",
         "Applicants inviting the panel should confirm a date.",
@@ -1535,11 +1535,11 @@
         "Applicants invited to an interview should confirm a date."
       ],
       "answer": "Applicants invited to an interview should confirm a date.",
-      "explanation": "Invited is passive and identifies applicants who have received an interview invitation.",
+      "explanation": "'Invited' is passive and identifies applicants who have received an interview invitation.",
       "rationales": {
-        "Applicants preparing invitations should confirm a date.": "Preparing invitations describes producing them, not receiving one.",
-        "Applicants inviting the panel should confirm a date.": "Inviting makes applicants the senders of an invitation to the panel.",
-        "Applicants invited to an interview should confirm a date.": "Invited is passive and identifies applicants who have received an interview invitation.",
+        "Applicants preparing invitations should confirm a date.": "'Preparing invitations' describes producing them, not receiving one.",
+        "Applicants inviting the panel should confirm a date.": "'Inviting' makes applicants the senders of an invitation to the panel.",
+        "Applicants invited to an interview should confirm a date.": "'Invited' is passive and identifies applicants who have received an interview invitation.",
         "Applicants requesting invitations should confirm a date.": "Requesting an invitation does not establish that one has been received."
       },
       "audit": {
@@ -1651,7 +1651,7 @@
     {
       "id": "coverage-reduced-clauses-b1-2934",
       "level": "B1",
-      "setupText": "Choose the fuller version of if necessary that preserves the instruction.",
+      "setupText": "Choose the fuller version of 'if necessary' that preserves the instruction.",
       "taskText": "Keep the receipt and contact the shop again if necessary.",
       "options": [
         "if the shop asks to see the receipt",
@@ -1660,11 +1660,11 @@
         "if you are required to buy another item"
       ],
       "answer": "if you need to contact the shop again",
-      "explanation": "If necessary means if further contact is needed in the context of this instruction.",
+      "explanation": "'If necessary' means 'if further contact is needed' in the context of this instruction.",
       "rationales": {
-        "if the shop asks to see the receipt": "A request to see the receipt is one possible situation, not the general need expressed by if necessary.",
+        "if the shop asks to see the receipt": "A request to see the receipt is one possible situation, not the general need expressed by 'if necessary'.",
         "if the shop has already contacted you": "The phrase does not limit further contact to cases where the shop contacted you first.",
-        "if you need to contact the shop again": "If necessary means if further contact is needed in the context of this instruction.",
+        "if you need to contact the shop again": "'If necessary' means 'if further contact is needed' in the context of this instruction.",
         "if you are required to buy another item": "The possible necessity concerns contacting the shop, not buying something else."
       },
       "audit": {
@@ -1713,7 +1713,7 @@
     {
       "id": "coverage-reduced-clauses-b1-2936",
       "level": "B1",
-      "setupText": "Choose the meaning of to be signed in this instruction.",
+      "setupText": "Choose the meaning of 'to be signed' in this instruction.",
       "taskText": "Put the forms to be signed in the manager's tray.",
       "options": [
         "Put the forms the manager has already signed there.",
@@ -1722,12 +1722,12 @@
         "Put the forms the manager refused to sign there."
       ],
       "answer": "Put the forms awaiting a signature there.",
-      "explanation": "To be signed is a passive infinitive describing a task still required for those forms.",
+      "explanation": "'To be signed' is a passive infinitive describing a task still required for those forms.",
       "rationales": {
-        "Put the forms the manager has already signed there.": "To be signed presents signing as still to happen, not completed.",
+        "Put the forms the manager has already signed there.": "'To be signed' presents signing as still to happen, not completed.",
         "Put the forms containing the manager's signature there.": "An existing signature is not what the future passive description identifies.",
         "Put the forms the manager refused to sign there.": "Awaiting signature does not mean the manager has refused to sign.",
-        "Put the forms awaiting a signature there.": "To be signed is a passive infinitive describing a task still required for those forms."
+        "Put the forms awaiting a signature there.": "'To be signed' is a passive infinitive describing a task still required for those forms."
       },
       "audit": {
         "status": "reviewed",
@@ -1838,7 +1838,7 @@
       "id": "coverage-reduced-clauses-b1-2940",
       "level": "B1",
       "setupText": "Choose the sentence that means the speaker did not stop to buy coffee.",
-      "taskText": "Preserve that missing action in a short phrase with without.",
+      "taskText": "Preserve that missing action in a short phrase with 'without'.",
       "options": [
         "After stopping for coffee, I drove to work.",
         "Instead of driving, I stopped for coffee.",
@@ -1846,12 +1846,12 @@
         "Without stopping for coffee, I drove to work."
       ],
       "answer": "Without stopping for coffee, I drove to work.",
-      "explanation": "Without stopping excludes the coffee stop from the drive to work.",
+      "explanation": "'Without stopping' excludes the coffee stop from the drive to work.",
       "rationales": {
-        "After stopping for coffee, I drove to work.": "After stopping says a coffee stop happened before the drive.",
-        "Instead of driving, I stopped for coffee.": "Instead of driving replaces the drive with the stop, changing both actions.",
-        "Before stopping for coffee, I drove to work.": "Before stopping anticipates a coffee stop afterward rather than describing the drive without one.",
-        "Without stopping for coffee, I drove to work.": "Without stopping excludes the coffee stop from the drive to work."
+        "After stopping for coffee, I drove to work.": "'After stopping' says a coffee stop happened before the drive.",
+        "Instead of driving, I stopped for coffee.": "'Instead of driving' replaces the drive with the stop, changing both actions.",
+        "Before stopping for coffee, I drove to work.": "'Before stopping' anticipates a coffee stop afterward rather than describing the drive without one.",
+        "Without stopping for coffee, I drove to work.": "'Without stopping' excludes the coffee stop from the drive to work."
       },
       "audit": {
         "status": "reviewed",
@@ -2024,7 +2024,7 @@
     {
       "id": "coverage-reduced-clauses-b2-2946",
       "level": "B2",
-      "setupText": "Choose the interpretation of not having received.",
+      "setupText": "Choose the interpretation of 'not having received'.",
       "taskText": "Not having received confirmation, Aisha kept her original travel booking.",
       "options": [
         "Aisha cancelled the original booking after confirmation arrived.",
@@ -2036,7 +2036,7 @@
       "explanation": "The negative perfect participle describes non-receipt up to the time of Aisha's decision.",
       "rationales": {
         "Aisha cancelled the original booking after confirmation arrived.": "The phrase denies earlier receipt, and the main clause says she kept rather than cancelled the booking.",
-        "Aisha had received confirmation but had not read it.": "Not having received concerns receipt itself, not whether received information was read.",
+        "Aisha had received confirmation but had not read it.": "'Not having received' concerns receipt itself, not whether received information was read.",
         "Aisha refused confirmation in order to keep her booking.": "Lack of receipt does not imply a deliberate refusal to accept confirmation.",
         "Confirmation had not reached Aisha when she kept the booking.": "The negative perfect participle describes non-receipt up to the time of Aisha's decision."
       },
@@ -2118,7 +2118,7 @@
     {
       "id": "coverage-reduced-clauses-b2-2949",
       "level": "B2",
-      "setupText": "Choose the meaning of when folded in this product description.",
+      "setupText": "Choose the meaning of 'when folded' in this product description.",
       "taskText": "When folded, the display fits inside a standard storage box.",
       "options": [
         "The display was folded because it was already inside the box.",
@@ -2127,10 +2127,10 @@
         "The display fits inside the box in its folded state."
       ],
       "answer": "The display fits inside the box in its folded state.",
-      "explanation": "When folded means when the display is folded; that state allows it to fit inside the box.",
+      "explanation": "'When folded' means 'when the display is folded'; that state allows it to fit inside the box.",
       "rationales": {
         "The display was folded because it was already inside the box.": "The description states a state-dependent property, not a past reason for folding the display.",
-        "The display fits inside the box in its folded state.": "When folded means when the display is folded; that state allows it to fit inside the box.",
+        "The display fits inside the box in its folded state.": "'When folded' means 'when the display is folded'; that state allows it to fit inside the box.",
         "The box must be folded before it can hold the display.": "The understood folded object is the display, not the box.",
         "The display has remained folded since it was delivered.": "The reduced when clause does not establish a delivery history or a continuing folded state."
       },
@@ -2180,7 +2180,7 @@
     {
       "id": "coverage-reduced-clauses-b2-2951",
       "level": "B2",
-      "setupText": "Choose the meaning of unless otherwise stated in the notice.",
+      "setupText": "Choose the meaning of 'unless otherwise stated' in the notice.",
       "taskText": "Unless otherwise stated, the prices shown include delivery.",
       "options": [
         "Delivery is included except where a different arrangement is specified.",
@@ -2189,12 +2189,12 @@
         "A different price must be stated before delivery can be arranged."
       ],
       "answer": "Delivery is included except where a different arrangement is specified.",
-      "explanation": "Unless otherwise stated gives an exception to the default: shown prices include delivery unless a statement says something different.",
+      "explanation": "'Unless otherwise stated' gives an exception to the default: shown prices include delivery unless a statement says something different.",
       "rationales": {
-        "Delivery is included except where a different arrangement is specified.": "Unless otherwise stated gives an exception to the default: shown prices include delivery unless a statement says something different.",
+        "Delivery is included except where a different arrangement is specified.": "'Unless otherwise stated' gives an exception to the default: shown prices include delivery unless a statement says something different.",
         "Delivery is excluded until a customer asks about it.": "The default includes delivery; the phrase does not make inclusion depend on a customer's question.",
         "Delivery is included only when a separate statement confirms it.": "This reverses the default, requiring confirmation where the notice instead requires a stated exception.",
-        "A different price must be stated before delivery can be arranged.": "Otherwise stated concerns whether delivery is included, not a requirement to announce a new price before arranging it."
+        "A different price must be stated before delivery can be arranged.": "'Otherwise stated' concerns whether delivery is included, not a requirement to announce a new price before arranging it."
       },
       "audit": {
         "status": "reviewed",
@@ -2645,7 +2645,7 @@
     {
       "id": "coverage-reduced-clauses-c1-2966",
       "level": "C1",
-      "setupText": "Choose the role of all other things being equal in the comparison.",
+      "setupText": "Choose the role of 'all other things being equal' in the comparison.",
       "taskText": "All other things being equal, the shorter application process should attract more candidates.",
       "options": [
         "The writer reports that relevant factors were measured and found identical.",
@@ -2654,12 +2654,12 @@
         "The writer assumes that process length has the same effect as the other factors."
       ],
       "answer": "The writer holds other relevant factors constant for the comparison.",
-      "explanation": "All other things being equal sets a comparison condition in which factors other than process length are treated as unchanged.",
+      "explanation": "'All other things being equal' sets a comparison condition in which factors other than process length are treated as unchanged.",
       "rationales": {
-        "The writer holds other relevant factors constant for the comparison.": "All other things being equal sets a comparison condition in which factors other than process length are treated as unchanged.",
+        "The writer holds other relevant factors constant for the comparison.": "'All other things being equal' sets a comparison condition in which factors other than process length are treated as unchanged.",
         "The writer reports that relevant factors were measured and found identical.": "The phrase supplies an assumption, not a report that real-world equality was measured.",
         "The writer adjusts candidate totals to make the application processes appear comparable.": "Holding other factors constant is not the same as adjusting the outcome totals to make groups look alike.",
-        "The writer assumes that process length has the same effect as the other factors.": "Equal concerns the values of other factors across the comparison, not equality of their effects with the effect of process length."
+        "The writer assumes that process length has the same effect as the other factors.": "'Equal' concerns the values of other factors across the comparison, not equality of their effects with the effect of process length."
       },
       "audit": {
         "status": "reviewed",
@@ -2676,7 +2676,7 @@
     {
       "id": "coverage-reduced-clauses-c1-2967",
       "level": "C1",
-      "setupText": "Choose the interpretation of staffing permitting.",
+      "setupText": "Choose the interpretation of 'staffing permitting'.",
       "taskText": "Staffing permitting, the records office will extend its opening hours next month.",
       "options": [
         "Current staff have formally granted permission for the extension.",
@@ -2685,12 +2685,12 @@
         "Longer opening hours depend on sufficient staffing being available."
       ],
       "answer": "Longer opening hours depend on sufficient staffing being available.",
-      "explanation": "Staffing is the absolute clause's subject; permitting means if staffing makes the extension possible.",
+      "explanation": "'Staffing' is the absolute clause's subject; 'permitting' means 'if staffing makes the extension possible'.",
       "rationales": {
-        "Current staff have formally granted permission for the extension.": "Permitting means making the extension feasible, not employees performing a formal authorization act.",
+        "Current staff have formally granted permission for the extension.": "'Permitting' means making the extension feasible, not employees performing a formal authorization act.",
         "The extension will allow staffing levels to be reduced next month.": "The staffing condition enables longer hours; the sentence does not propose reducing staffing as their result.",
         "Staffing arrangements have already been confirmed for longer hours.": "The conditional absolute leaves adequate staffing as a condition, not a confirmed arrangement.",
-        "Longer opening hours depend on sufficient staffing being available.": "Staffing is the absolute clause's subject; permitting means if staffing makes the extension possible."
+        "Longer opening hours depend on sufficient staffing being available.": "'Staffing' is the absolute clause's subject; 'permitting' means 'if staffing makes the extension possible'."
       },
       "audit": {
         "status": "reviewed",
@@ -2707,7 +2707,7 @@
     {
       "id": "coverage-reduced-clauses-c1-2968",
       "level": "C1",
-      "setupText": "Choose the interpretation that preserves the scope of taken together.",
+      "setupText": "Choose the interpretation that preserves the scope of 'taken together'.",
       "taskText": "Taken together, the interviews and maintenance records suggest that the problem developed gradually.",
       "options": [
         "Each individual interview independently proves a gradual development.",
@@ -2716,11 +2716,11 @@
         "The evidence shows that the problem began only after the interviews were completed."
       ],
       "answer": "The two types of evidence jointly support a tentative account of gradual development.",
-      "explanation": "Taken together asks the reader to consider interviews and records jointly; suggest keeps the conclusion tentative.",
+      "explanation": "'Taken together' asks the reader to consider interviews and records jointly; 'suggest' keeps the conclusion tentative.",
       "rationales": {
-        "Each individual interview independently proves a gradual development.": "Together concerns combined consideration, and suggest does not mean each item proves the conclusion independently.",
-        "The two types of evidence jointly support a tentative account of gradual development.": "Taken together asks the reader to consider interviews and records jointly; suggest keeps the conclusion tentative.",
-        "The records were collected at the same time as every interview.": "Taken here means considered, not necessarily collected simultaneously.",
+        "Each individual interview independently proves a gradual development.": "'Together' concerns combined consideration, and 'suggest' does not mean each item proves the conclusion independently.",
+        "The two types of evidence jointly support a tentative account of gradual development.": "'Taken together' asks the reader to consider interviews and records jointly; 'suggest' keeps the conclusion tentative.",
+        "The records were collected at the same time as every interview.": "'Taken' here means 'considered', not necessarily collected simultaneously.",
         "The evidence shows that the problem began only after the interviews were completed.": "The phrase gives a method of considering evidence, not a time when the underlying problem began."
       },
       "audit": {
@@ -2738,7 +2738,7 @@
     {
       "id": "coverage-reduced-clauses-c1-2969",
       "level": "C1",
-      "setupText": "Choose the reading that preserves the perspective specified by viewed solely in terms of cost.",
+      "setupText": "Choose the reading that preserves the perspective specified by 'viewed solely in terms of cost'.",
       "taskText": "Viewed solely in terms of cost, the proposal is attractive; its effect on access is less reassuring.",
       "options": [
         "The proposal is attractive overall because access and cost have been assessed together.",
@@ -2747,11 +2747,11 @@
         "The favourable assessment is limited to cost and does not settle the access question."
       ],
       "answer": "The favourable assessment is limited to cost and does not settle the access question.",
-      "explanation": "The reduced passive phrase specifies the viewpoint under which attractive applies, leaving a different evaluation under access.",
+      "explanation": "The reduced passive phrase specifies the viewpoint under which 'attractive' applies, leaving a different evaluation under access.",
       "rationales": {
-        "The proposal is attractive overall because access and cost have been assessed together.": "Solely limits the first assessment to cost; the second clause introduces a less positive access assessment.",
+        "The proposal is attractive overall because access and cost have been assessed together.": "'Solely' limits the first assessment to cost; the second clause introduces a less positive access assessment.",
         "The proposal's cost cannot be evaluated until access has been improved.": "The sentence makes a cost assessment now rather than postponing it until access improves.",
-        "The favourable assessment is limited to cost and does not settle the access question.": "The reduced passive phrase specifies the viewpoint under which attractive applies, leaving a different evaluation under access.",
+        "The favourable assessment is limited to cost and does not settle the access question.": "The reduced passive phrase specifies the viewpoint under which 'attractive' applies, leaving a different evaluation under access.",
         "The proposal is unattractive on cost but attractive on access.": "This reverses both evaluations: cost is attractive, while access is less reassuring."
       },
       "audit": {
@@ -3203,7 +3203,7 @@
     {
       "id": "coverage-reduced-clauses-c2-2984",
       "level": "C2",
-      "setupText": "Choose the claim made by having rejected alone, without adding a motive.",
+      "setupText": "Choose the claim made by 'having rejected' alone, without adding a motive.",
       "taskText": "Having rejected the first design, the client commissioned a second architect.",
       "options": [
         "The client rejected the design specifically to justify hiring another architect.",
@@ -3212,11 +3212,11 @@
         "The client had completed an assessment of the second design before rejecting the first."
       ],
       "answer": "Rejection of the first design preceded the client's later commission.",
-      "explanation": "Having rejected presents rejection as completed before the main action; a precise motive is not encoded by having itself.",
+      "explanation": "'Having rejected' presents rejection as completed before the main action; a precise motive is not encoded by 'having' itself.",
       "rationales": {
         "The client rejected the design specifically to justify hiring another architect.": "The perfect participle supplies an earlier action, not the particular strategic motive proposed here.",
         "The second architect caused the client to reject the first design.": "No role for the second architect in causing the rejection is stated.",
-        "Rejection of the first design preceded the client's later commission.": "Having rejected presents rejection as completed before the main action; a precise motive is not encoded by having itself.",
+        "Rejection of the first design preceded the client's later commission.": "'Having rejected' presents rejection as completed before the main action; a precise motive is not encoded by 'having' itself.",
         "The client had completed an assessment of the second design before rejecting the first.": "The sentence does not report a second design or an earlier assessment of one."
       },
       "audit": {
@@ -3234,7 +3234,7 @@
     {
       "id": "coverage-reduced-clauses-c2-2985",
       "level": "C2",
-      "setupText": "Choose the account of generally speaking that fits this use in edited prose.",
+      "setupText": "Choose the account of 'generally speaking' that fits this use in edited prose.",
       "taskText": "Generally speaking, shorter leases offer tenants more flexibility.",
       "options": [
         "The phrase must be removed because an introductory participle must describe the grammatical subject.",
@@ -3245,9 +3245,9 @@
       "answer": "The phrase marks the writer's generalization without describing the main subject.",
       "explanation": "The construction frames the writer's claim as a generalization; it is not a literal event with leases as its subject.",
       "rationales": {
-        "The phrase must be removed because an introductory participle must describe the grammatical subject.": "That rule overgeneralizes from ordinary event participles; generally speaking is an established writer-oriented commentary phrase.",
+        "The phrase must be removed because an introductory participle must describe the grammatical subject.": "That rule overgeneralizes from ordinary event participles; 'generally speaking' is an established writer-oriented commentary phrase.",
         "The phrase is a reduced relative selecting leases whose terms are usually discussed publicly.": "The phrase qualifies the scope of the whole claim, not a subset of leases selected by public discussion.",
-        "The phrase attributes the claim to tenants rather than presenting the writer's own summary.": "Generally speaking does not make the tenants the source of the statement.",
+        "The phrase attributes the claim to tenants rather than presenting the writer's own summary.": "'Generally speaking' does not make the tenants the source of the statement.",
         "The phrase marks the writer's generalization without describing the main subject.": "The construction frames the writer's claim as a generalization; it is not a literal event with leases as its subject."
       },
       "audit": {
@@ -3389,7 +3389,7 @@
     {
       "id": "coverage-reduced-clauses-c2-2990",
       "level": "C2",
-      "setupText": "Choose the meaning of far from resolving in context.",
+      "setupText": "Choose the meaning of 'far from resolving' in context.",
       "taskText": "Far from resolving the disagreement, the revised wording introduced a second point of dispute.",
       "options": [
         "The revision resolved the disagreement but left an unrelated topic for later discussion.",
@@ -3398,9 +3398,9 @@
         "The revision failed to resolve the disagreement and instead created an additional dispute."
       ],
       "answer": "The revision failed to resolve the disagreement and instead created an additional dispute.",
-      "explanation": "Far from resolving rejects the expected resolving effect, and introduced a second point gives the contrary outcome.",
+      "explanation": "'Far from resolving' rejects the expected resolving effect, and 'introduced a second point' gives the contrary outcome.",
       "rationales": {
-        "The revision failed to resolve the disagreement and instead created an additional dispute.": "Far from resolving rejects the expected resolving effect, and introduced a second point gives the contrary outcome.",
+        "The revision failed to resolve the disagreement and instead created an additional dispute.": "'Far from resolving' rejects the expected resolving effect, and 'introduced a second point' gives the contrary outcome.",
         "The revision resolved the disagreement but left an unrelated topic for later discussion.": "The opening phrase denies that the revision resolved the original disagreement.",
         "The revision brought resolution closer, although another point remained to be discussed.": "This presents progress towards resolution and a remaining topic, whereas the sentence emphasizes non-resolution and a newly introduced dispute.",
         "The parties postponed resolution in order to negotiate a second version of the wording.": "The sentence reports an outcome of revision, not a deliberate postponement for further negotiation."
@@ -3482,7 +3482,7 @@
     {
       "id": "coverage-reduced-clauses-c2-2993",
       "level": "C2",
-      "setupText": "Choose the inference that accounts for partly as well as the perfect participle.",
+      "setupText": "Choose the inference that accounts for 'partly' as well as the perfect participle.",
       "taskText": "Having only partly restored the mural, the conservators suspended work until the funding review.",
       "options": [
         "The mural's restoration was complete, but funding for display was not.",
@@ -3491,11 +3491,11 @@
         "The suspension occurred before the partial restoration began."
       ],
       "answer": "Some restoration had occurred, but the mural was not fully restored.",
-      "explanation": "Having locates restoration work before the suspension, while only partly limits how much of the mural had been restored.",
+      "explanation": "'Having' locates restoration work before the suspension, while 'only partly' limits how much of the mural had been restored.",
       "rationales": {
-        "The mural's restoration was complete, but funding for display was not.": "Only partly explicitly limits the extent of restoration, so perfect form does not imply the whole project was complete.",
-        "Some restoration had occurred, but the mural was not fully restored.": "Having locates restoration work before the suspension, while only partly limits how much of the mural had been restored.",
-        "The conservators had only planned restoration and had not begun it.": "Restored reports work done, not merely a plan; partly indicates a nonzero but incomplete extent.",
+        "The mural's restoration was complete, but funding for display was not.": "'Only partly' explicitly limits the extent of restoration, so perfect form does not imply the whole project was complete.",
+        "Some restoration had occurred, but the mural was not fully restored.": "'Having' locates restoration work before the suspension, while 'only partly' limits how much of the mural had been restored.",
+        "The conservators had only planned restoration and had not begun it.": "'Restored' reports work done, not merely a plan; 'partly' indicates a nonzero but incomplete extent.",
         "The suspension occurred before the partial restoration began.": "The perfect participle puts the partial restoration before the suspension, not after it."
       },
       "audit": {
@@ -3544,7 +3544,7 @@
     {
       "id": "coverage-reduced-clauses-c2-2995",
       "level": "C2",
-      "setupText": "Choose the statement that accurately contrasts the two uses of certified as authentic.",
+      "setupText": "Choose the statement that accurately contrasts the two uses of 'certified as authentic'.",
       "taskText": "A: The documents certified as authentic were not destroyed. B: The documents, certified as authentic, were not destroyed.",
       "options": [
         "A uses certification to identify a subset; B adds certification as information about the stated documents.",
@@ -3553,12 +3553,12 @@
         "Both versions deny that the certification process was completed."
       ],
       "answer": "A uses certification to identify a subset; B adds certification as information about the stated documents.",
-      "explanation": "Without commas the participle restricts documents; with commas it adds a supplementary assertion. In both, the main negation concerns destruction.",
+      "explanation": "Without commas the participle restricts 'documents'; with commas it adds a supplementary assertion. In both, the main negation concerns destruction.",
       "rationales": {
-        "A uses certification to identify a subset; B adds certification as information about the stated documents.": "Without commas the participle restricts documents; with commas it adds a supplementary assertion. In both, the main negation concerns destruction.",
+        "A uses certification to identify a subset; B adds certification as information about the stated documents.": "Without commas the participle restricts 'documents'; with commas it adds a supplementary assertion. In both, the main negation concerns destruction.",
         "A denies certification, while B denies destruction but confirms certification.": "A does not deny certification: that property identifies the documents whose destruction is denied.",
         "A reports destruction after certification; B reports certification after destruction.": "Both deny destruction, and neither gives the proposed sequence of the two events.",
-        "Both versions deny that the certification process was completed.": "Not belongs to were destroyed, not to the certification description in either sentence."
+        "Both versions deny that the certification process was completed.": "'Not' belongs to 'were destroyed', not to the certification description in either sentence."
       },
       "audit": {
         "status": "reviewed",
@@ -3606,7 +3606,7 @@
     {
       "id": "coverage-reduced-clauses-c2-2997",
       "level": "C2",
-      "setupText": "Choose the interpretation of including the two appendices.",
+      "setupText": "Choose the interpretation of 'including the two appendices'.",
       "taskText": "Including the two appendices, the submission runs to forty pages; the cover sheet is counted separately.",
       "options": [
         "The submission has forty pages before the appendices and cover sheet are added.",
@@ -3617,10 +3617,10 @@
       "answer": "The forty-page total counts the appendices but not the separately counted cover sheet.",
       "explanation": "The inclusion phrase fixes the counting domain; the following clause explicitly excludes the cover sheet from that total.",
       "rationales": {
-        "The submission has forty pages before the appendices and cover sheet are added.": "Including places the appendices within the forty-page total, not outside it.",
+        "The submission has forty pages before the appendices and cover sheet are added.": "'Including' places the appendices within the forty-page total, not outside it.",
         "The forty-page total counts the appendices but not the separately counted cover sheet.": "The inclusion phrase fixes the counting domain; the following clause explicitly excludes the cover sheet from that total.",
-        "The cover sheet and appendices together account for forty pages.": "Forty pages measures the submission with its appendices, not just the appendices and cover.",
-        "Forty pages of the submission are being considered for inclusion in two appendices.": "Including is a counting qualification, not an ongoing editorial decision about relocating forty pages."
+        "The cover sheet and appendices together account for forty pages.": "'Forty pages' measures the submission with its appendices, not just the appendices and cover.",
+        "Forty pages of the submission are being considered for inclusion in two appendices.": "'Including' is a counting qualification, not an ongoing editorial decision about relocating forty pages."
       },
       "audit": {
         "status": "reviewed",

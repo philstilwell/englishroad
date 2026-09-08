@@ -656,7 +656,7 @@
     {
       "id": "coverage-meaning-in-context-a2-1822",
       "level": "A2",
-      "setupText": "Before closing the document, click Save so your changes are there when you open it again.",
+      "setupText": "Before closing the document, click 'Save' so your changes are there when you open it again.",
       "taskText": "What does 'Save' do in this instruction?",
       "options": [
         "It stores the changes for later use.",
@@ -665,12 +665,12 @@
         "It makes the document shorter."
       ],
       "answer": "It stores the changes for later use.",
-      "explanation": "Opening the document again with the changes present is the clue to the computer meaning of save.",
+      "explanation": "Opening the document again with the changes present is the clue to the computer meaning of 'save'.",
       "rationales": {
         "It sends the document to another person.": "Saving stores changes; sending requires a separate action not described here.",
         "It removes the document from the computer.": "The changes are to remain available, not be deleted.",
-        "It makes the document shorter.": "Save concerns storing the current document, not shortening its contents.",
-        "It stores the changes for later use.": "Opening the document again with the changes present is the clue to the computer meaning of save."
+        "It makes the document shorter.": "'Save' concerns storing the current document, not shortening its contents.",
+        "It stores the changes for later use.": "Opening the document again with the changes present is the clue to the computer meaning of 'save'."
       },
       "audit": {
         "status": "reviewed",

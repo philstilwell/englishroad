@@ -202,7 +202,7 @@ Choose the question word that fits the answer.
 
 ID: `coverage-question-forms-a1-2767`
 
-Choose the question answered by At six this evening.
+Choose the question answered by 'At six this evening'.
 
 You are asking about a bakery's closing time.
 
@@ -211,14 +211,14 @@ You are asking about a bakery's closing time.
 3. When does the bakery close? **[Correct]**
 4. Who closes the bakery?
 
-**Explanation:** When asks for time, so At six this evening directly answers it.
+**Explanation:** 'When' asks for time, so 'At six this evening' directly answers it.
 
 **Choice feedback:**
 
-- **Where does the bakery close?:** Where asks for a place, not a closing time.
-- **Why does the bakery close?:** Why asks for the reason for closing, not when it happens.
-- **When does the bakery close?:** When asks for time, so At six this evening directly answers it.
-- **Who closes the bakery?:** Who asks for the person responsible for closing.
+- **Where does the bakery close?:** 'Where' asks for a place, not a closing time.
+- **Why does the bakery close?:** 'Why' asks for the reason for closing, not when it happens.
+- **When does the bakery close?:** 'When' asks for time, so 'At six this evening' directly answers it.
+- **Who closes the bakery?:** 'Who' asks for the person responsible for closing.
 
 **Decision:** replaced.
 
@@ -458,7 +458,7 @@ Complete the short answer using the same question helper.
 
 ID: `coverage-question-forms-a1-2775`
 
-Answer about the shoes using a pronoun and the matching form of be.
+Answer about the shoes using a pronoun and the matching form of 'be'.
 
 'Are these shoes yours?' 'No, ___.'
 
@@ -467,14 +467,14 @@ Answer about the shoes using a pronoun and the matching form of be.
 3. they don't
 4. they aren't **[Correct]**
 
-**Explanation:** They refers to the plural shoes, and aren't gives the matching negative answer.
+**Explanation:** 'They' refers to the plural shoes, and "aren't" gives the matching negative answer.
 
 **Choice feedback:**
 
-- **it isn't:** It is singular, but the question refers to plural shoes.
-- **they doesn't:** Doesn't neither agrees with they nor matches the question's form of be.
-- **they don't:** Don't belongs to a do-question; this question uses are.
-- **they aren't:** They refers to the plural shoes, and aren't gives the matching negative answer.
+- **it isn't:** 'It' is singular, but the question refers to plural shoes.
+- **they doesn't:** "Doesn't" neither agrees with 'they' nor matches the question's form of 'be'.
+- **they don't:** "Don't" belongs to a do-question; this question uses 'are'.
+- **they aren't:** 'They' refers to the plural shoes, and "aren't" gives the matching negative answer.
 
 **Decision:** replaced.
 
@@ -782,7 +782,7 @@ Choose the sentence that answers the question about the recipient of the call.
 
 ID: `coverage-question-forms-a2-2785`
 
-Choose the question answered by Twice a week.
+Choose the question answered by 'Twice a week'.
 
 You are discussing a friend's swimming routine.
 
@@ -791,14 +791,14 @@ You are discussing a friend's swimming routine.
 3. How often do you go swimming? **[Correct]**
 4. How do you get to the pool?
 
-**Explanation:** How often asks for frequency, which twice a week supplies.
+**Explanation:** 'How often' asks for frequency, which 'twice a week' supplies.
 
 **Choice feedback:**
 
-- **How long do you swim for?:** How long asks for the duration of swimming, such as an hour.
-- **How far do you swim?:** How far asks for distance rather than the number of visits per week.
-- **How often do you go swimming?:** How often asks for frequency, which twice a week supplies.
-- **How do you get to the pool?:** How do you get there asks about transport, not the routine's frequency.
+- **How long do you swim for?:** 'How long' asks for the duration of swimming, such as an hour.
+- **How far do you swim?:** 'How far' asks for distance rather than the number of visits per week.
+- **How often do you go swimming?:** 'How often' asks for frequency, which 'twice a week' supplies.
+- **How do you get to the pool?:** 'How do you get there' asks about transport, not the routine's frequency.
 
 **Decision:** replaced.
 
@@ -942,7 +942,7 @@ Your coworker replies, 'He's tall, with short grey hair.'
 
 ID: `coverage-question-forms-a2-2790`
 
-Choose the usual direct question with be going to about a planned stay.
+Choose the usual direct question with 'be going to' about a planned stay.
 
 You want to know your friend's intended accommodation for the weekend.
 
@@ -951,14 +951,14 @@ You want to know your friend's intended accommodation for the weekend.
 3. Where are you going to stay? **[Correct]**
 4. Where are you go to stay?
 
-**Explanation:** Are comes before you, followed by going to and the base verb stay.
+**Explanation:** 'Are' comes before 'you', followed by 'going to' and the base verb 'stay'.
 
 **Choice feedback:**
 
-- **Where do you going to stay?:** Going to needs a form of be, not do, in this future-plan construction.
-- **Where are you going stay?:** Keep to between going and the base verb stay.
-- **Where are you going to stay?:** Are comes before you, followed by going to and the base verb stay.
-- **Where are you go to stay?:** After are in this construction, use going to rather than go to.
+- **Where do you going to stay?:** 'Going to' needs a form of 'be', not 'do', in this future-plan construction.
+- **Where are you going stay?:** Keep 'to' between 'going' and the base verb 'stay'.
+- **Where are you going to stay?:** 'Are' comes before 'you', followed by 'going to' and the base verb 'stay'.
+- **Where are you go to stay?:** After 'are' in this construction, use 'going to' rather than 'go to'.
 
 **Decision:** replaced.
 
@@ -1134,7 +1134,7 @@ How ___ rice should I put in the pot?
 
 ID: `coverage-question-forms-a2-2796`
 
-Complete the question using the have got construction.
+Complete the question using the 'have got' construction.
 
 ___ your sister got a spare helmet?
 
@@ -1143,14 +1143,14 @@ ___ your sister got a spare helmet?
 3. Has **[Correct]**
 4. Have
 
-**Explanation:** Has agrees with your sister and comes before the subject in Has your sister got ...?
+**Explanation:** 'Has' agrees with 'your sister' and comes before the subject in 'Has your sister got ...?'
 
 **Choice feedback:**
 
-- **Does:** Does would require have rather than got: Does your sister have ...? That is a different valid construction.
-- **Is:** Is does not form a possession question with got in this construction.
-- **Has:** Has agrees with your sister and comes before the subject in Has your sister got ...?
-- **Have:** Have does not agree with the singular subject your sister; use has.
+- **Does:** 'Does' would require 'have' rather than 'got': 'Does your sister have ...?' That is a different valid construction.
+- **Is:** 'Is' does not form a possession question with 'got' in this construction.
+- **Has:** 'Has' agrees with 'your sister' and comes before the subject in 'Has your sister got ...?'
+- **Have:** 'Have' does not agree with the singular subject 'your sister'; use 'has'.
 
 **Decision:** replaced.
 
@@ -1230,7 +1230,7 @@ The parcel is for you, ___?
 
 ID: `coverage-question-forms-a2-2799`
 
-Complete the standard embedded question after Could you tell me.
+Complete the standard embedded question after 'Could you tell me'.
 
 Could you tell me ___?
 
@@ -1239,14 +1239,14 @@ Could you tell me ___?
 3. where does the taxi rank is
 4. where the taxi rank are
 
-**Explanation:** Inside Could you tell me, use where plus the subject and then is.
+**Explanation:** Inside 'Could you tell me', use 'where' plus the subject and then 'is'.
 
 **Choice feedback:**
 
-- **where is the taxi rank:** The embedded where-clause uses subject before verb, unlike the direct question Where is the taxi rank?
-- **where the taxi rank is:** Inside Could you tell me, use where plus the subject and then is.
-- **where does the taxi rank is:** Do not add does to is; the embedded clause needs the taxi rank is.
-- **where the taxi rank are:** The singular taxi rank takes is, not are.
+- **where is the taxi rank:** The embedded where-clause uses subject before verb, unlike the direct question 'Where is the taxi rank?'
+- **where the taxi rank is:** Inside 'Could you tell me', use 'where' plus the subject and then 'is'.
+- **where does the taxi rank is:** Do not add 'does' to 'is'; the embedded clause needs 'the taxi rank is'.
+- **where the taxi rank are:** The singular 'taxi rank' takes 'is', not 'are'.
 
 **Decision:** replaced.
 
@@ -1426,7 +1426,7 @@ Do you know if ___ pets at the campsite?
 
 ID: `coverage-question-forms-b1-2805`
 
-The guest does not eat fish. Choose the clear negative answer with matching do.
+The guest does not eat fish. Choose the clear negative answer with matching 'do'.
 
 The host asks, 'Don't you eat fish?'
 
@@ -1435,14 +1435,14 @@ The host asks, 'Don't you eat fish?'
 3. No, I don't. I'm vegetarian. **[Correct]**
 4. Yes, I don't. I'm vegetarian.
 
-**Explanation:** No, I don't denies eating fish; the negative wording of the question does not reverse the answer's polarity.
+**Explanation:** "No, I don't" denies eating fish; the negative wording of the question does not reverse the answer's polarity.
 
 **Choice feedback:**
 
-- **Yes, I do. I'm vegetarian.:** Yes, I do affirms eating fish, which contradicts the guest's stated diet.
-- **No, I do. I'm vegetarian.:** No conflicts with the affirmative I do in this ordinary short answer.
-- **No, I don't. I'm vegetarian.:** No, I don't denies eating fish; the negative wording of the question does not reverse the answer's polarity.
-- **Yes, I don't. I'm vegetarian.:** In this standard short-answer pattern, I don't goes with no, not yes.
+- **Yes, I do. I'm vegetarian.:** 'Yes, I do' affirms eating fish, which contradicts the guest's stated diet.
+- **No, I do. I'm vegetarian.:** 'No' conflicts with the affirmative 'I do' in this ordinary short answer.
+- **No, I don't. I'm vegetarian.:** "No, I don't" denies eating fish; the negative wording of the question does not reverse the answer's polarity.
+- **Yes, I don't. I'm vegetarian.:** In this standard short-answer pattern, "I don't" goes with 'no', not 'yes'.
 
 **Decision:** replaced.
 
@@ -1522,7 +1522,7 @@ As a colleague walks towards the loading entrance, a worker says, 'Keep that doo
 
 ID: `coverage-question-forms-b1-2808`
 
-Complete the conventional tag after Let's in standard British English.
+Complete the conventional tag after "Let's" in standard British English.
 
 Let's compare the two fabric samples in daylight, ___?
 
@@ -1531,14 +1531,14 @@ Let's compare the two fabric samples in daylight, ___?
 3. are we
 4. won't they
 
-**Explanation:** Let's proposes joint action and conventionally takes shall we as its tag.
+**Explanation:** "Let's" proposes joint action and conventionally takes 'shall we' as its tag.
 
 **Choice feedback:**
 
-- **shall we:** Let's proposes joint action and conventionally takes shall we as its tag.
-- **do we:** Do we would check a present action statement; it is not the conventional tag for this let's proposal.
-- **are we:** Are we does not match the let's proposal and would need a different main-clause structure.
-- **won't they:** They excludes the speaker's joint we and does not form the tag for let's.
+- **shall we:** "Let's" proposes joint action and conventionally takes 'shall we' as its tag.
+- **do we:** 'Do we' would check a present action statement; it is not the conventional tag for this "let's" proposal.
+- **are we:** 'Are we' does not match the "let's" proposal and would need a different main-clause structure.
+- **won't they:** 'They' excludes the speaker's joint 'we' and does not form the tag for "let's".
 
 **Decision:** replaced.
 
@@ -1586,7 +1586,7 @@ The speaker does not know where the gardener left the spare key.
 
 ID: `coverage-question-forms-b1-2810`
 
-Choose the question answered by Five years ago.
+Choose the question answered by 'Five years ago'.
 
 You are asking about a friend's move to this city.
 
@@ -1595,14 +1595,14 @@ You are asking about a friend's move to this city.
 3. How soon will you move to this city?
 4. How often do you move between cities?
 
-**Explanation:** How long ago asks for elapsed time since the past event, which five years ago supplies.
+**Explanation:** 'How long ago' asks for elapsed time since the past event, which 'five years ago' supplies.
 
 **Choice feedback:**
 
 - **How long are you staying in this city?:** This asks for a stay's duration, not the time elapsed since a completed move.
-- **How long ago did you move to this city?:** How long ago asks for elapsed time since the past event, which five years ago supplies.
-- **How soon will you move to this city?:** How soon with will asks about a future move, whereas ago points into the past.
-- **How often do you move between cities?:** How often asks for frequency across repeated moves, not the date of one move.
+- **How long ago did you move to this city?:** 'How long ago' asks for elapsed time since the past event, which 'five years ago' supplies.
+- **How soon will you move to this city?:** 'How soon' with 'will' asks about a future move, whereas 'ago' points into the past.
+- **How often do you move between cities?:** 'How often' asks for frequency across repeated moves, not the date of one move.
 
 **Decision:** replaced.
 
@@ -1682,7 +1682,7 @@ You have a list of three suppliers and need to find out which can make Sunday de
 
 ID: `coverage-question-forms-b1-2813`
 
-Complete the ordinary embedded question without emphatic do.
+Complete the ordinary embedded question without emphatic 'do'.
 
 Do you know who ___ the narrow strip of land behind the garages?
 
@@ -1691,14 +1691,14 @@ Do you know who ___ the narrow strip of land behind the garages?
 3. owns **[Correct]**
 4. owning
 
-**Explanation:** Who is the subject of owns, so no additional question helper is required inside Do you know ...?
+**Explanation:** 'Who' is the subject of 'owns', so no additional question helper is required inside 'Do you know ...?'
 
 **Choice feedback:**
 
-- **does own:** Does own can be used emphatically in some contexts; this task asks for the ordinary unemphatic embedded form owns.
-- **do owns:** Do owns is an invalid combination: a do-form takes a base verb, not owns.
-- **owns:** Who is the subject of owns, so no additional question helper is required inside Do you know ...?
-- **owning:** Owning alone cannot serve as the finite verb after the subject who here.
+- **does own:** 'Does own' can be used emphatically in some contexts; this task asks for the ordinary unemphatic embedded form 'owns'.
+- **do owns:** 'Do owns' is an invalid combination: a do-form takes a base verb, not 'owns'.
+- **owns:** 'Who' is the subject of 'owns', so no additional question helper is required inside 'Do you know ...?'
+- **owning:** 'Owning' alone cannot serve as the finite verb after the subject 'who' here.
 
 **Decision:** replaced.
 
@@ -1810,7 +1810,7 @@ We haven't decided ___ to repair the chair or replace it.
 
 ID: `coverage-question-forms-b1-2817`
 
-Choose the usual direct question using will and the passive.
+Choose the usual direct question using 'will' and the passive.
 
 You want the delivery time for a set of replacement shelves.
 
@@ -1819,14 +1819,14 @@ You want the delivery time for a set of replacement shelves.
 3. When do the shelves will be delivered?
 4. When will the shelves be delivered? **[Correct]**
 
-**Explanation:** Will moves before the shelves while the passive sequence be delivered remains after the subject.
+**Explanation:** 'Will' moves before 'the shelves' while the passive sequence 'be delivered' remains after the subject.
 
 **Choice feedback:**
 
-- **When will be delivered the shelves?:** In the ordinary question, only will precedes the subject; be delivered stays after the shelves.
-- **When will the shelves delivered?:** The passive needs be before delivered after will.
-- **When do the shelves will be delivered?:** Do is not added when will already forms the question.
-- **When will the shelves be delivered?:** Will moves before the shelves while the passive sequence be delivered remains after the subject.
+- **When will be delivered the shelves?:** In the ordinary question, only 'will' precedes the subject; 'be delivered' stays after 'the shelves'.
+- **When will the shelves delivered?:** The passive needs 'be' before 'delivered' after 'will'.
+- **When do the shelves will be delivered?:** 'Do' is not added when 'will' already forms the question.
+- **When will the shelves be delivered?:** 'Will' moves before 'the shelves' while the passive sequence 'be delivered' remains after the subject.
 
 **Decision:** replaced.
 
@@ -1942,7 +1942,7 @@ During a sound check, the presenter asks, 'How well can you hear me at the back?
 
 ID: `coverage-question-forms-b2-2821`
 
-Choose the ordinary informal standard-English construction with How come.
+Choose the ordinary informal standard-English construction with 'How come'.
 
 You are surprised that a sold-out performance has so many empty seats.
 
@@ -1951,14 +1951,14 @@ You are surprised that a sold-out performance has so many empty seats.
 3. How come does there are so many empty seats?
 4. How come there is so many empty seats?
 
-**Explanation:** How come introduces a reason question with uninverted there are in this standard informal pattern.
+**Explanation:** 'How come' introduces a reason question with uninverted 'there are' in this standard informal pattern.
 
 **Choice feedback:**
 
-- **How come there are so many empty seats?:** How come introduces a reason question with uninverted there are in this standard informal pattern.
-- **How come are there so many empty seats?:** Unlike why, how come normally takes statement order in this construction: there are, not are there.
-- **How come does there are so many empty seats?:** Does cannot be added to are, and how come does not require do-support here.
-- **How come there is so many empty seats?:** The plural expression so many empty seats requires are in the existential clause.
+- **How come there are so many empty seats?:** 'How come' introduces a reason question with uninverted 'there are' in this standard informal pattern.
+- **How come are there so many empty seats?:** Unlike 'why', 'how come' normally takes statement order in this construction: 'there are', not 'are there'.
+- **How come does there are so many empty seats?:** 'Does' cannot be added to 'are', and 'how come' does not require do-support here.
+- **How come there is so many empty seats?:** The plural expression 'so many empty seats' requires 'are' in the existential clause.
 
 **Decision:** replaced.
 
@@ -2166,7 +2166,7 @@ The caretaker hardly ever uses the service lift, ___?
 
 ID: `coverage-question-forms-b2-2828`
 
-Use the standard formal embedded yes-no construction after on.
+Use the standard formal embedded yes-no construction after 'on'.
 
 Our departure depends on ___ the mountain road is open.
 
@@ -2175,14 +2175,14 @@ Our departure depends on ___ the mountain road is open.
 3. what
 4. whether **[Correct]**
 
-**Explanation:** Whether introduces the unresolved yes-no issue governed by the preposition on.
+**Explanation:** 'Whether' introduces the unresolved yes-no issue governed by the preposition 'on'.
 
 **Choice feedback:**
 
-- **that:** On that the road is open does not form the required prepositional question complement; a fuller phrase such as on the fact that would express a different structure.
-- **which:** Which would require a choice of a noun or an appropriate gap, neither of which occurs before the complete clause the road is open.
-- **what:** What does not introduce the yes-no status of the complete clause supplied here.
-- **whether:** Whether introduces the unresolved yes-no issue governed by the preposition on.
+- **that:** 'On that the road is open' does not form the required prepositional question complement; a fuller phrase such as 'on the fact that' would express a different structure.
+- **which:** 'Which' would require a choice of a noun or an appropriate gap, neither of which occurs before the complete clause 'the road is open'.
+- **what:** 'What' does not introduce the yes-no status of the complete clause supplied here.
+- **whether:** 'Whether' introduces the unresolved yes-no issue governed by the preposition 'on'.
 
 **Decision:** replaced.
 
@@ -2716,7 +2716,7 @@ ID: `coverage-question-forms-c1-2845`
 
 Compare the two deliveries of the same words.
 
-'Is the commentary in French or Spanish?' In A, the voice rises over the whole question. In B, it rises on French and falls on Spanish.
+'Is the commentary in French or Spanish?' In A, the voice rises over the whole question. In B, it rises on 'French' and falls on 'Spanish'.
 
 1. A asks which language; B checks whether either named language is used.
 2. Both deliveries ask whether French and Spanish are used simultaneously.
@@ -2728,7 +2728,7 @@ Compare the two deliveries of the same words.
 **Choice feedback:**
 
 - **A asks which language; B checks whether either named language is used.:** This reverses the usual contrast between a polar reading with final rise and an alternative reading with separate rise and fall.
-- **Both deliveries ask whether French and Spanish are used simultaneously.:** Or does not become and merely through either intonation pattern; simultaneous use is not the shared question.
+- **Both deliveries ask whether French and Spanish are used simultaneously.:** 'Or' does not become 'and' merely through either intonation pattern; simultaneous use is not the shared question.
 - **A can check whether either language is used; B normally requests a choice between them.:** The whole-question rise can support a yes-no reading, while the rise-fall pattern normally marks an alternative question asking which language.
 - **B changes the question into an assertion that Spanish is the language used.:** A fall at the end of an alternative question does not select its last alternative as a factual assertion.
 
@@ -3358,7 +3358,7 @@ Draft: 'How could you justify accepting the restricted grant?'
 
 ID: `coverage-question-forms-c2-2865`
 
-Which account of the final who is defensible without additional context?
+Which account of the final 'who' is defensible without additional context?
 
 'Someone told me that someone had borrowed my camera, but I can't remember who.'
 
@@ -3367,14 +3367,14 @@ Which account of the final who is defensible without additional context?
 3. It identifies the teller and borrower as the same forgotten person.
 4. It can ask for the teller or the borrower, depending on context. **[Correct]**
 
-**Explanation:** The omitted question can be who told me or who had borrowed the camera; context would need to choose between those recoveries.
+**Explanation:** The omitted question can be 'who told me' or 'who had borrowed the camera'; context would need to choose between those recoveries.
 
 **Choice feedback:**
 
-- **It can refer to the teller, but not to the borrower.:** Remember who can recover the borrower question as well as the teller question; the nearest clause does not force one interpretation.
-- **It can refer to the borrower, but not to the teller.:** The outer someone also supplies a possible antecedent for the missing question, so the borrower is not the sole possible target.
+- **It can refer to the teller, but not to the borrower.:** 'Remember who' can recover the borrower question as well as the teller question; the nearest clause does not force one interpretation.
+- **It can refer to the borrower, but not to the teller.:** The outer 'someone' also supplies a possible antecedent for the missing question, so the borrower is not the sole possible target.
 - **It identifies the teller and borrower as the same forgotten person.:** Ambiguity between two roles does not assert that one person filled both of them.
-- **It can ask for the teller or the borrower, depending on context.:** The omitted question can be who told me or who had borrowed the camera; context would need to choose between those recoveries.
+- **It can ask for the teller or the borrower, depending on context.:** The omitted question can be 'who told me' or 'who had borrowed the camera'; context would need to choose between those recoveries.
 
 **Decision:** replaced.
 

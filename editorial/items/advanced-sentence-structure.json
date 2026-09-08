@@ -843,7 +843,7 @@
       "id": "coverage-advanced-sentence-structure-a2-268",
       "level": "A2",
       "setupText": "We had lunch at the cafe where Tomas works.",
-      "taskText": "Which statement preserves what the where clause tells us?",
+      "taskText": "Which statement preserves what the 'where' clause tells us?",
       "options": [
         "Tomas had lunch at the cafe where we work.",
         "We work at the cafe where Tomas had lunch.",
@@ -851,12 +851,12 @@
         "Tomas works at the cafe where we had lunch."
       ],
       "answer": "Tomas works at the cafe where we had lunch.",
-      "explanation": "Where links Tomas's workplace to the cafe named in the main clause.",
+      "explanation": "'Where' links Tomas's workplace to the cafe named in the main clause.",
       "rationales": {
-        "Tomas works at the cafe where we had lunch.": "Where links Tomas's workplace to the cafe named in the main clause.",
+        "Tomas works at the cafe where we had lunch.": "'Where' links Tomas's workplace to the cafe named in the main clause.",
         "Tomas had lunch at the cafe where we work.": "This swaps who works at the cafe and who ate there.",
         "We work at the cafe where Tomas had lunch.": "The original identifies Tomas as the worker and us as the lunch guests.",
-        "We had lunch while Tomas worked somewhere else.": "The where clause identifies the same cafe as his workplace, not a different place."
+        "We had lunch while Tomas worked somewhere else.": "The 'where' clause identifies the same cafe as his workplace, not a different place."
       },
       "audit": {
         "status": "reviewed",
@@ -1091,7 +1091,7 @@
       "id": "coverage-advanced-sentence-structure-a2-276",
       "level": "A2",
       "setupText": "I like jazz, but my partner doesn't.",
-      "taskText": "What words are understood after doesn't?",
+      "taskText": "What words are understood after \"doesn't\"?",
       "options": [
         "have a partner",
         "like jazz",
@@ -1099,11 +1099,11 @@
         "know my partner"
       ],
       "answer": "like jazz",
-      "explanation": "Doesn't stands in for does not like jazz; the shared verb phrase need not be repeated.",
+      "explanation": "\"Doesn't\" stands in for 'does not like jazz'; the shared verb phrase need not be repeated.",
       "rationales": {
-        "like jazz": "Doesn't stands in for does not like jazz; the shared verb phrase need not be repeated.",
-        "have a partner": "The omitted action comes from like jazz, not from the noun partner.",
-        "play jazz": "The first clause says like, so playing is not the activity being left out.",
+        "like jazz": "\"Doesn't\" stands in for 'does not like jazz'; the shared verb phrase need not be repeated.",
+        "have a partner": "The omitted action comes from 'like jazz', not from the noun 'partner'.",
+        "play jazz": "The first clause says 'like', so playing is not the activity being left out.",
         "know my partner": "Knowing a person is not mentioned in the first clause and cannot be recovered from it."
       },
       "audit": {
@@ -1370,7 +1370,7 @@
       "id": "coverage-advanced-sentence-structure-b1-285",
       "level": "B1",
       "setupText": "I had my watch repaired at the shop.",
-      "taskText": "Which reading matches the service arrangement expressed by had my watch repaired?",
+      "taskText": "Which reading matches the service arrangement expressed by 'had my watch repaired'?",
       "options": [
         "I repaired the watch for the shop.",
         "I asked the shop whether the watch needed repair.",
@@ -1378,11 +1378,11 @@
         "I bought a watch that the shop had repaired earlier."
       ],
       "answer": "I arranged for someone at the shop to repair my watch.",
-      "explanation": "Have + object + past participle can express arranging for someone else to perform a service.",
+      "explanation": "'Have' + object + past participle can express arranging for someone else to perform a service.",
       "rationales": {
         "I repaired the watch for the shop.": "That makes the speaker the repairer, not the person arranging service.",
         "I asked the shop whether the watch needed repair.": "Asking about a need does not express having the repair performed.",
-        "I arranged for someone at the shop to repair my watch.": "Have + object + past participle can express arranging for someone else to perform a service.",
+        "I arranged for someone at the shop to repair my watch.": "'Have' + object + past participle can express arranging for someone else to perform a service.",
         "I bought a watch that the shop had repaired earlier.": "That adds a purchase and a repair before it, neither of which the original construction states."
       },
       "audit": {
@@ -1525,7 +1525,7 @@
       "id": "coverage-advanced-sentence-structure-b1-290",
       "level": "B1",
       "setupText": "A receptionist addresses the queue forming now: 'People waiting outside may use the covered entrance.'",
-      "taskText": "Which expansion of waiting outside preserves its meaning here?",
+      "taskText": "Which expansion of 'waiting outside' preserves its meaning here?",
       "options": [
         "People who waited outside yesterday",
         "People who will wait outside next week",
@@ -1533,12 +1533,12 @@
         "People who are being waited for outside"
       ],
       "answer": "People who are waiting outside",
-      "explanation": "The -ing modifier can identify people by an ongoing action, equivalent here to who are waiting.",
+      "explanation": "The -ing modifier can identify people by an ongoing action, equivalent here to 'who are waiting'.",
       "rationales": {
         "People who waited outside yesterday": "This changes current waiting into a specified past event.",
         "People who will wait outside next week": "This introduces future waiting rather than identifies those waiting now.",
         "People who are being waited for outside": "This makes the people the objects of someone else's waiting, not the people doing it.",
-        "People who are waiting outside": "The -ing modifier can identify people by an ongoing action, equivalent here to who are waiting."
+        "People who are waiting outside": "The -ing modifier can identify people by an ongoing action, equivalent here to 'who are waiting'."
       },
       "audit": {
         "status": "reviewed",
@@ -1649,7 +1649,7 @@
       "id": "coverage-advanced-sentence-structure-b1-294",
       "level": "B1",
       "setupText": "The organizer says, 'Neither Tuesday nor Thursday is available for the rehearsal.'",
-      "taskText": "Which paraphrase preserves the exclusion expressed by neither ... nor?",
+      "taskText": "Which paraphrase preserves the exclusion expressed by 'neither ... nor'?",
       "options": [
         "Tuesday is available, but Thursday is not.",
         "Tuesday and Thursday are both unavailable.",
@@ -1657,12 +1657,12 @@
         "One of the two days is available, but we do not know which."
       ],
       "answer": "Tuesday and Thursday are both unavailable.",
-      "explanation": "Neither ... nor excludes each of the two coordinated alternatives.",
+      "explanation": "'Neither ... nor' excludes each of the two coordinated alternatives.",
       "rationales": {
-        "Tuesday is available, but Thursday is not.": "Neither excludes Tuesday too; this leaves one excluded day available.",
-        "Thursday is available, but Tuesday is not.": "Thursday is also excluded by nor Thursday.",
-        "One of the two days is available, but we do not know which.": "Neither ... nor excludes both named alternatives rather than leaves one unspecified.",
-        "Tuesday and Thursday are both unavailable.": "Neither ... nor excludes each of the two coordinated alternatives."
+        "Tuesday is available, but Thursday is not.": "'Neither' excludes Tuesday too; this leaves one excluded day available.",
+        "Thursday is available, but Tuesday is not.": "Thursday is also excluded by 'nor Thursday'.",
+        "One of the two days is available, but we do not know which.": "'Neither ... nor' excludes both named alternatives rather than leaves one unspecified.",
+        "Tuesday and Thursday are both unavailable.": "'Neither ... nor' excludes each of the two coordinated alternatives."
       },
       "audit": {
         "status": "reviewed",
@@ -1928,7 +1928,7 @@
       "id": "coverage-advanced-sentence-structure-b2-303",
       "level": "B2",
       "setupText": "The containers stored in the basement must be inspected.",
-      "taskText": "Which expansion preserves stored in the basement as a passive modifier?",
+      "taskText": "Which expansion preserves 'stored in the basement' as a passive modifier?",
       "options": [
         "The containers that store equipment in the basement",
         "The containers that will be stored in the basement next month",
@@ -1936,10 +1936,10 @@
         "The containers whose contents are stored in the basement"
       ],
       "answer": "The containers that are stored in the basement",
-      "explanation": "Stored modifies containers as things placed in storage, corresponding to a passive relative clause.",
+      "explanation": "'Stored' modifies 'containers' as things placed in storage, corresponding to a passive relative clause.",
       "rationales": {
         "The containers that store equipment in the basement": "This makes the containers do the storing and adds equipment as their object.",
-        "The containers that are stored in the basement": "Stored modifies containers as things placed in storage, corresponding to a passive relative clause.",
+        "The containers that are stored in the basement": "'Stored' modifies 'containers' as things placed in storage, corresponding to a passive relative clause.",
         "The containers that will be stored in the basement next month": "This adds a future storage event rather than describes the stated stored location.",
         "The containers whose contents are stored in the basement": "This locates their contents in the basement, not necessarily the containers themselves."
       },
@@ -1959,7 +1959,7 @@
       "id": "coverage-advanced-sentence-structure-b2-304",
       "level": "B2",
       "setupText": "Pat was driving home when she noticed a crack in the windscreen.",
-      "taskText": "Keep Driving home as the opening phrase and make Pat clearly its understood subject in edited prose.",
+      "taskText": "Keep 'Driving home' as the opening phrase and make Pat clearly its understood subject in edited prose.",
       "options": [
         "Driving home, a crack in the windscreen caught Pat's attention.",
         "Driving home, the windscreen appeared cracked to Pat.",
@@ -2052,7 +2052,7 @@
       "id": "coverage-advanced-sentence-structure-b2-307",
       "level": "B2",
       "setupText": "With the emergency exit blocked, the audience used the side doors.",
-      "taskText": "Which reading preserves blocked as the circumstance expressed in the with phrase?",
+      "taskText": "Which reading preserves 'blocked' as the circumstance expressed in the 'with' phrase?",
       "options": [
         "The audience blocked the emergency exit by using the side doors.",
         "The audience used the side doors in order to block the emergency exit.",
@@ -2060,10 +2060,10 @@
         "The emergency exit became blocked only after the audience had left."
       ],
       "answer": "The emergency exit was blocked when the audience used the side doors.",
-      "explanation": "With + noun phrase + past participle supplies a background circumstance without saying who caused it.",
+      "explanation": "'With' + noun phrase + past participle supplies a background circumstance without saying who caused it.",
       "rationales": {
         "The audience blocked the emergency exit by using the side doors.": "This turns the blockage into a result of the audience's action and assigns them responsibility.",
-        "The emergency exit was blocked when the audience used the side doors.": "With + noun phrase + past participle supplies a background circumstance without saying who caused it.",
+        "The emergency exit was blocked when the audience used the side doors.": "'With' + noun phrase + past participle supplies a background circumstance without saying who caused it.",
         "The audience used the side doors in order to block the emergency exit.": "This changes the background state into a purpose.",
         "The emergency exit became blocked only after the audience had left.": "This shifts the blockage to a later event rather than the circumstance of using the side doors."
       },
@@ -2114,7 +2114,7 @@
       "id": "coverage-advanced-sentence-structure-b2-309",
       "level": "B2",
       "setupText": "The scanner stores the pages. It also converts the printed words into searchable text.",
-      "taskText": "Which sentence uses not only ... but also to link those two actions by the scanner?",
+      "taskText": "Which sentence uses 'not only ... but also' to link those two actions by the scanner?",
       "options": [
         "Not only the scanner but also the copier stores the pages.",
         "The scanner not only stores pages but also creates searchable text.",
@@ -2122,12 +2122,12 @@
         "The scanner stores pages not only locally but also online."
       ],
       "answer": "The scanner not only stores pages but also creates searchable text.",
-      "explanation": "The paired expression coordinates two verb phrases with the shared subject the scanner.",
+      "explanation": "The paired expression coordinates two verb phrases with the shared subject 'the scanner'.",
       "rationales": {
         "Not only the scanner but also the copier stores the pages.": "This coordinates two devices as subjects rather than the scanner's two actions.",
         "The scanner stores not only pages but also converted text.": "This coordinates stored objects rather than the actions of storing and converting.",
         "The scanner stores pages not only locally but also online.": "This coordinates storage locations, not the two stated actions.",
-        "The scanner not only stores pages but also creates searchable text.": "The paired expression coordinates two verb phrases with the shared subject the scanner."
+        "The scanner not only stores pages but also creates searchable text.": "The paired expression coordinates two verb phrases with the shared subject 'the scanner'."
       },
       "audit": {
         "status": "reviewed",
@@ -2145,7 +2145,7 @@
       "id": "coverage-advanced-sentence-structure-b2-310",
       "level": "B2",
       "setupText": "Whether you book online or call the box office, the booking fee is the same.",
-      "taskText": "Which paraphrase keeps the role of whether ... or in this sentence?",
+      "taskText": "Which paraphrase keeps the role of 'whether ... or' in this sentence?",
       "options": [
         "The writer does not know which method carries a booking fee.",
         "Calling the box office is necessary before an online booking is valid.",
@@ -2153,12 +2153,12 @@
         "The booking method does not change the fee between these two options."
       ],
       "answer": "The booking method does not change the fee between these two options.",
-      "explanation": "Whether ... or presents alternative circumstances under which the same main statement applies.",
+      "explanation": "'Whether ... or' presents alternative circumstances under which the same main statement applies.",
       "rationales": {
-        "The booking method does not change the fee between these two options.": "Whether ... or presents alternative circumstances under which the same main statement applies.",
-        "The writer does not know which method carries a booking fee.": "Here whether does not introduce the writer's uncertainty; both alternatives share the same fee.",
+        "The booking method does not change the fee between these two options.": "'Whether ... or' presents alternative circumstances under which the same main statement applies.",
+        "The writer does not know which method carries a booking fee.": "Here 'whether' does not introduce the writer's uncertainty; both alternatives share the same fee.",
         "Calling the box office is necessary before an online booking is valid.": "The construction presents alternatives, not sequential requirements.",
-        "The two methods must be used together to obtain the stated fee.": "Or separates alternatives; it does not require using both methods."
+        "The two methods must be used together to obtain the stated fee.": "'Or' separates alternatives; it does not require using both methods."
       },
       "audit": {
         "status": "reviewed",
@@ -2393,7 +2393,7 @@
       "id": "coverage-advanced-sentence-structure-b2-318",
       "level": "B2",
       "setupText": "A pipe burst, flooding the cellar.",
-      "taskText": "Expand flooding as the result of the main event, keeping the stated direction of cause and result.",
+      "taskText": "Expand 'flooding' as the result of the main event, keeping the stated direction of cause and result.",
       "options": [
         "A pipe burst because the cellar had already flooded.",
         "A pipe burst before anyone decided to flood the cellar.",
@@ -2485,7 +2485,7 @@
     {
       "id": "coverage-advanced-sentence-structure-c1-321",
       "level": "C1",
-      "setupText": "An account of a restoration begins with the restrictive phrase Only after the varnish had been removed.",
+      "setupText": "An account of a restoration begins with the restrictive phrase 'Only after the varnish had been removed'.",
       "taskText": "Choose the grammatically correct continuation in standard written English.",
       "options": [
         "Only after the varnish had been removed the original colours did emerge.",
@@ -2494,12 +2494,12 @@
         "Only after the varnish had been removed did the original colours emerge."
       ],
       "answer": "Only after the varnish had been removed did the original colours emerge.",
-      "explanation": "Fronted only after triggers did before the main-clause subject, while the subordinate after-clause keeps its usual order.",
+      "explanation": "Fronted 'only after' triggers 'did' before the main-clause subject, while the subordinate after-clause keeps its usual order.",
       "rationales": {
-        "Only after the varnish had been removed the original colours did emerge.": "The fronted restrictive phrase requires auxiliary-subject inversion in the main clause: did the original colours emerge.",
+        "Only after the varnish had been removed the original colours did emerge.": "The fronted restrictive phrase requires auxiliary-subject inversion in the main clause: 'did the original colours emerge'.",
         "Only after had the varnish been removed did the original colours emerge.": "The after-clause keeps ordinary subject-auxiliary order; inversion belongs in the main clause, not both clauses.",
-        "Only after the varnish had been removed did the original colours emerge.": "Fronted only after triggers did before the main-clause subject, while the subordinate after-clause keeps its usual order.",
-        "Only after the varnish had been removed did emerge the original colours.": "With this did construction, the subject goes between did and emerge, not after the lexical verb."
+        "Only after the varnish had been removed did the original colours emerge.": "Fronted 'only after' triggers 'did' before the main-clause subject, while the subordinate after-clause keeps its usual order.",
+        "Only after the varnish had been removed did emerge the original colours.": "With this 'did' construction, the subject goes between 'did' and 'emerge', not after the lexical verb."
       },
       "audit": {
         "status": "reviewed",
@@ -2578,7 +2578,7 @@
     {
       "id": "coverage-advanced-sentence-structure-c1-324",
       "level": "C1",
-      "setupText": "Mara declined to sing the encore, which surprised the conductor. The writer wants which to refer to Mara's refusal, not to the encore itself.",
+      "setupText": "Mara declined to sing the encore, which surprised the conductor. The writer wants 'which' to refer to Mara's refusal, not to the encore itself.",
       "taskText": "Which revision makes that reference explicit without changing the cause of the surprise?",
       "options": [
         "The encore that Mara declined to sing surprised the conductor.",
@@ -2587,10 +2587,10 @@
         "Mara, surprised by the conductor, declined to sing the encore."
       ],
       "answer": "Mara's refusal to sing the encore surprised the conductor.",
-      "explanation": "Turning the whole preceding event into the noun phrase Mara's refusal removes the competing noun reference.",
+      "explanation": "Turning the whole preceding event into the noun phrase \"Mara's refusal\" removes the competing noun reference.",
       "rationales": {
-        "The encore that Mara declined to sing surprised the conductor.": "This makes the encore itself the surprising thing, rather than Mara's refusal.",
-        "Mara's refusal to sing the encore surprised the conductor.": "Turning the whole preceding event into the noun phrase Mara's refusal removes the competing noun reference.",
+        "The encore that Mara declined to sing surprised the conductor.": "This makes the encore itself the surprising thing, rather than \"Mara's refusal\".",
+        "Mara's refusal to sing the encore surprised the conductor.": "Turning the whole preceding event into the noun phrase \"Mara's refusal\" removes the competing noun reference.",
         "Mara declined to sing the encore that had surprised the conductor.": "The relative now identifies an already surprising encore and no longer comments on the refusal.",
         "Mara, surprised by the conductor, declined to sing the encore.": "This makes Mara the surprised person and changes the direction of the reaction."
       },
@@ -2765,7 +2765,7 @@
       "id": "coverage-advanced-sentence-structure-c1-330",
       "level": "C1",
       "setupText": "Which portrait did the collector say the museum had borrowed for the exhibition?",
-      "taskText": "Which clause relationship accounts for which portrait?",
+      "taskText": "Which clause relationship accounts for 'which portrait'?",
       "options": [
         "It is the object of say; the museum clause explains how the collector spoke.",
         "It is the subject of had borrowed, replacing the museum.",
@@ -2775,10 +2775,10 @@
       "answer": "It is understood as the object of borrowed inside the clause after say.",
       "explanation": "The question phrase is fronted across the reporting clause: the museum had borrowed that portrait.",
       "rationales": {
-        "It is the object of say; the museum clause explains how the collector spoke.": "The collector said a proposition, not a portrait; the missing object belongs after borrowed.",
+        "It is the object of say; the museum clause explains how the collector spoke.": "The collector said a proposition, not a portrait; the missing object belongs after 'borrowed'.",
         "It is understood as the object of borrowed inside the clause after say.": "The question phrase is fronted across the reporting clause: the museum had borrowed that portrait.",
         "It is the subject of had borrowed, replacing the museum.": "The museum remains the borrower and therefore the embedded subject; the portrait is what was borrowed.",
-        "It is the object of for and identifies which exhibition was meant.": "For already has the exhibition as its complement; the question asks about the borrowed artwork."
+        "It is the object of for and identifies which exhibition was meant.": "'For' already has 'the exhibition' as its complement; the question asks about the borrowed artwork."
       },
       "audit": {
         "status": "reviewed",
@@ -2826,7 +2826,7 @@
     {
       "id": "coverage-advanced-sentence-structure-c1-332",
       "level": "C1",
-      "setupText": "'The technicians who had worked overnight were given the afternoon off.' An editor adds commas around who had worked overnight.",
+      "setupText": "'The technicians who had worked overnight were given the afternoon off.' An editor adds commas around 'who had worked overnight'.",
       "taskText": "In ordinary edited prose, what distinction does that change most directly affect?",
       "options": [
         "Whether the overnight work identifies the relevant technicians or supplies extra information about them.",
@@ -2839,7 +2839,7 @@
       "rationales": {
         "Whether the overnight work identifies the relevant technicians or supplies extra information about them.": "Without commas the relative selects the technicians being discussed; commas present the overnight work as supplementary information about an already identified group.",
         "Whether the technicians worked before or after they received the afternoon off.": "The past perfect still places the work earlier; the commas do not reverse the event order.",
-        "Whether the technicians granted time off or received it from someone else.": "Were given remains passive in either version, so the technicians remain the recipients.",
+        "Whether the technicians granted time off or received it from someone else.": "'Were given' remains passive in either version, so the technicians remain the recipients.",
         "Whether the afternoon off was a promised reward or an action that actually occurred.": "Neither punctuation pattern introduces a promise; both versions report that time off was given."
       },
       "audit": {
@@ -3044,7 +3044,7 @@
       "id": "coverage-advanced-sentence-structure-c1-339",
       "level": "C1",
       "setupText": "The engineers designed, and the volunteers built, a footbridge across the stream.",
-      "taskText": "How is a footbridge across the stream connected to the coordinated clauses?",
+      "taskText": "How is 'a footbridge across the stream' connected to the coordinated clauses?",
       "options": [
         "It is the subject of built but the object of designed.",
         "It modifies the stream and leaves both verbs without an expressed object.",
@@ -3054,8 +3054,8 @@
       "answer": "It is the shared object of designed and built.",
       "explanation": "The object is placed after both clauses but is understood with each: engineers designed the footbridge and volunteers built it.",
       "rationales": {
-        "It is the subject of built but the object of designed.": "The volunteers are the subject of built; the footbridge is what they built.",
-        "It modifies the stream and leaves both verbs without an expressed object.": "Across the stream modifies the footbridge; the whole noun phrase supplies the object understood with each verb.",
+        "It is the subject of built but the object of designed.": "The volunteers are the subject of 'built'; the footbridge is what they built.",
+        "It modifies the stream and leaves both verbs without an expressed object.": "'Across the stream' modifies the footbridge; the whole noun phrase supplies the object understood with each verb.",
         "It is the object only of built, so the design's object is unspecified.": "The delayed noun phrase is shared by both coordinated predicates; the sentence says what the engineers designed as well.",
         "It is the shared object of designed and built.": "The object is placed after both clauses but is understood with each: engineers designed the footbridge and volunteers built it."
       },
@@ -3385,7 +3385,7 @@
       "id": "coverage-advanced-sentence-structure-c2-350",
       "level": "C2",
       "setupText": "Not until the doors had closed did the presenter realize that the interpreter was still outside.",
-      "taskText": "Which statement correctly locates the force of not until in this sentence?",
+      "taskText": "Which statement correctly locates the force of 'not until' in this sentence?",
       "options": [
         "It denies that the doors closed before the interpreter came inside.",
         "It makes the interpreter's being outside begin when the doors closed.",
@@ -3396,7 +3396,7 @@
       "explanation": "The time restriction attaches to the main-clause realization; inversion does not move it inside the content clause.",
       "rationales": {
         "It denies that the doors closed before the interpreter came inside.": "The restriction applies to the presenter's realization, not to whether or when the interpreter entered.",
-        "It makes the interpreter's being outside begin when the doors closed.": "Still outside presents a continuing state; the fronted phrase does not date the start of that state.",
+        "It makes the interpreter's being outside begin when the doors closed.": "'Still outside' presents a continuing state; the fronted phrase does not date the start of that state.",
         "It denies the presenter's eventual realization, despite the closure of the doors.": "The construction reports a realization at or after the boundary, rather than denying that it occurred.",
         "It excludes an earlier realization, while the that-clause gives what was realized.": "The time restriction attaches to the main-clause realization; inversion does not move it inside the content clause."
       },
@@ -3446,7 +3446,7 @@
     {
       "id": "coverage-advanced-sentence-structure-c2-352",
       "level": "C2",
-      "setupText": "'Some envelopes were unmarked, the rest bearing only initials.' A proofreader says that bearing must become bore because every clause needs a finite verb.",
+      "setupText": "'Some envelopes were unmarked, the rest bearing only initials.' A proofreader says that 'bearing' must become 'bore' because every clause needs a finite verb.",
       "taskText": "Which response gives the soundest grammatical assessment of the existing sentence?",
       "options": [
         "The change is required because the rest must agree with a singular finite verb.",
@@ -3457,10 +3457,10 @@
       "answer": "It is grammatical: the rest is the subject of a non-finite supplement.",
       "explanation": "An absolute supplement can have a noun-phrase subject and an ing-form without becoming an independent finite clause.",
       "rationales": {
-        "The change is required because the rest must agree with a singular finite verb.": "The issue is not singular agreement: the rest refers to the remaining envelopes, and the supplement can be non-finite.",
-        "The sentence is acceptable only if bearing describes the same envelopes as unmarked.": "The rest explicitly introduces a different group and supplies the supplement's own subject.",
+        "The change is required because the rest must agree with a singular finite verb.": "The issue is not singular agreement: 'the rest' refers to the remaining envelopes, and the supplement can be non-finite.",
+        "The sentence is acceptable only if bearing describes the same envelopes as unmarked.": "'The rest' explicitly introduces a different group and supplies the supplement's own subject.",
         "It is grammatical: the rest is the subject of a non-finite supplement.": "An absolute supplement can have a noun-phrase subject and an ing-form without becoming an independent finite clause.",
-        "The sentence is grammatical because bearing is a present-tense verb parallel to were.": "Bearing is non-finite, not a present-tense equivalent of were; accepting the sentence requires recognizing a different clause type."
+        "The sentence is grammatical because bearing is a present-tense verb parallel to were.": "'Bearing' is non-finite, not a present-tense equivalent of 'were'; accepting the sentence requires recognizing a different clause type."
       },
       "audit": {
         "status": "reviewed",
@@ -3571,7 +3571,7 @@
       "id": "coverage-advanced-sentence-structure-c2-356",
       "level": "C2",
       "setupText": "The workshop failed not so much because the tools were old as because nobody knew how to use them.",
-      "taskText": "Which editorial comment accurately describes the not so much ... as construction here?",
+      "taskText": "Which editorial comment accurately describes the 'not so much ... as' construction here?",
       "options": [
         "It makes the second cause conditional on the first cause having been proved false.",
         "It gives equal causal weight to tool age and lack of training.",
@@ -3579,11 +3579,11 @@
         "It contrasts an early failure caused by old tools with a later failure caused by inexperience."
       ],
       "answer": "It makes lack of know-how the stronger explanation without necessarily excluding tool age as a factor.",
-      "explanation": "The comparative contrast shifts causal emphasis; it is weaker than a categorical not because A but because B rejection.",
+      "explanation": "The comparative contrast shifts causal emphasis; it is weaker than a categorical 'not because A but because B' rejection.",
       "rationales": {
         "It makes the second cause conditional on the first cause having been proved false.": "The construction does not set up a condition or require the first factor to be false.",
-        "It gives equal causal weight to tool age and lack of training.": "Not so much ... as expressly ranks the second explanation above the first rather than balancing them equally.",
-        "It makes lack of know-how the stronger explanation without necessarily excluding tool age as a factor.": "The comparative contrast shifts causal emphasis; it is weaker than a categorical not because A but because B rejection.",
+        "It gives equal causal weight to tool age and lack of training.": "'Not so much ... as' expressly ranks the second explanation above the first rather than balancing them equally.",
+        "It makes lack of know-how the stronger explanation without necessarily excluding tool age as a factor.": "The comparative contrast shifts causal emphasis; it is weaker than a categorical 'not because A but because B' rejection.",
         "It contrasts an early failure caused by old tools with a later failure caused by inexperience.": "Both because-clauses explain the same failure; their order does not create two separate events."
       },
       "audit": {
@@ -3632,7 +3632,7 @@
     {
       "id": "coverage-advanced-sentence-structure-c2-358",
       "level": "C2",
-      "setupText": "'The pianist said that she would record the sonata in June.' The editor wants in June to date the saying, while leaving the recording date unspecified.",
+      "setupText": "'The pianist said that she would record the sonata in June.' The editor wants 'in June' to date the saying, while leaving the recording date unspecified.",
       "taskText": "Which revision makes that attachment explicit without asserting that the recording took place?",
       "options": [
         "The pianist said that, in June, she would record the sonata.",
@@ -3663,7 +3663,7 @@
     {
       "id": "coverage-advanced-sentence-structure-c2-359",
       "level": "C2",
-      "setupText": "'The plumber I thought had cancelled arrived at the flat.' A learner proposes adding she after thought because had cancelled otherwise seems to lack a subject.",
+      "setupText": "'The plumber I thought had cancelled arrived at the flat.' A learner proposes adding 'she' after 'thought' because 'had cancelled' otherwise seems to lack a subject.",
       "taskText": "Which explanation correctly assesses the original and the proposed addition in standard edited English?",
       "options": [
         "The addition is needed because I must be the subject of both thought and had cancelled.",
@@ -3672,12 +3672,12 @@
         "The addition makes no structural difference because she is the subject of arrived."
       ],
       "answer": "The original is complete: the relative links plumber to the subject of had cancelled. She would duplicate that role.",
-      "explanation": "The relative can be expanded to the plumber who I thought had cancelled. Its subject relationship crosses the intervening I thought clause.",
+      "explanation": "The relative can be expanded to 'the plumber who I thought had cancelled'. Its subject relationship crosses the intervening 'I thought' clause.",
       "rationales": {
-        "The original is complete: the relative links plumber to the subject of had cancelled. She would duplicate that role.": "The relative can be expanded to the plumber who I thought had cancelled. Its subject relationship crosses the intervening I thought clause.",
-        "The addition is needed because I must be the subject of both thought and had cancelled.": "I is the subject of thought, but the relative refers to the plumber as the person thought to have cancelled.",
-        "The original is incomplete because a relative marker can never be omitted before I thought.": "A zero relative is possible here; the embedded subject dependency should not be confused with simply omitting who in who had cancelled.",
-        "The addition makes no structural difference because she is the subject of arrived.": "Arrived already has the whole noun phrase the plumber ... as its subject; an inserted she after thought would sit inside the relative clause."
+        "The original is complete: the relative links plumber to the subject of had cancelled. She would duplicate that role.": "The relative can be expanded to 'the plumber who I thought had cancelled'. Its subject relationship crosses the intervening 'I thought' clause.",
+        "The addition is needed because I must be the subject of both thought and had cancelled.": "'I' is the subject of 'thought', but the relative refers to the plumber as the person thought to have cancelled.",
+        "The original is incomplete because a relative marker can never be omitted before I thought.": "A zero relative is possible here; the embedded subject dependency should not be confused with simply omitting 'who' in 'who had cancelled'.",
+        "The addition makes no structural difference because she is the subject of arrived.": "'Arrived' already has the whole noun phrase 'the plumber ...' as its subject; an inserted 'she' after 'thought' would sit inside the relative clause."
       },
       "audit": {
         "status": "reviewed",

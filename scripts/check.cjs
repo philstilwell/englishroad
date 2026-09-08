@@ -20,6 +20,31 @@ function context(app) {
 const c = context('app.js');
 const run = (code) => vm.runInContext(code, c);
 const bank = run('state.bank');
+// Catch bare vocabulary targets, but leave references to people or situations alone.
+function unquotedMeaningTarget(task) {
+  const match = task.match(/^What (?:does|do) (.+?) (?:mean|refer to|stand for)(?=\s|[?.,])/);
+  if (!match) return null;
+  const explicitLabel = /^(?:the )?(?:word|words|phrase|expression|term|verb|noun|adjective|adverb)\s+/;
+  const target = match[1].replace(explicitLabel, '');
+  if (/^(?:'[^\n]+'|"[^\n]+"|\u2018[^\n]+\u2019|\u201c[^\n]+\u201d)$/.test(target)) return null;
+  if (!explicitLabel.test(match[1]) && /^(?:this|that|these|those|it|he|she|they|you|we|I|the|a|an|his|her|their|our|your|my)\b|^[A-Z]/.test(target)) return null;
+  return target;
+}
+for (const [task, expected] of [
+  ['What does studies mean here?', 'studies'],
+  ['What does carry on mean in this message?', 'carry on'],
+  ['What does the word studies mean here?', 'studies'],
+  ["What does 'studies' mean here?", null],
+  ['What does "one\'s own" mean here?', null],
+  ['What does \u2018carry on\u2019 mean here?', null],
+  ['What does she mean here?', null],
+  ['What does the test mean for the learner?', null],
+  ['What does Mei mean here?', null]
+]) assert.equal(unquotedMeaningTarget(task), expected, task);
+for (const q of bank) {
+  assert.equal(unquotedMeaningTarget(q.taskText), null, `${q.id}: put a word or phrase being defined in quotation marks`);
+}
+assert.equal(bank.find(q => q.id === 'coverage-academic-vocabulary-a1-4').taskText, "What does 'studies' mean here?", 'The studies prompt must keep its quoted vocabulary target');
 const missingBankContext = context();
 delete missingBankContext.window.createEnglishRoadCoverageBlueprints;
 assert.throws(() => vm.runInContext('window.EnglishRoadQuestions.createQuestionBank()', missingBankContext), /question bank did not load/, 'A missing bank must not revive legacy template questions');

@@ -718,7 +718,7 @@ A colleague worked with a lot of effort to finish a project. Describe that effor
 
 ID: `coverage-adjective-and-adverb-forms-a2-143`
 
-You have seen a neighbour several times in recent days. Choose the word meaning recently.
+You have seen a neighbour several times in recent days. Choose the word meaning 'recently'.
 
 'I've seen Jo a lot ___.'
 
@@ -727,12 +727,12 @@ You have seen a neighbour several times in recent days. Choose the word meaning 
 3. later
 4. latest
 
-**Explanation:** 'Lately' means recently, often with the present perfect as here.
+**Explanation:** 'Lately' means 'recently', often with the present perfect as here.
 
 **Choice feedback:**
 
 - **late:** 'Late' relates to a delayed or late-hour event, not generally to recent days.
-- **lately:** 'Lately' means recently, often with the present perfect as here.
+- **lately:** 'Lately' means 'recently', often with the present perfect as here.
 - **later:** 'Later' points to a subsequent time, not the recent period described here.
 - **latest:** 'Latest' normally describes the most recent item, not this period of seeing Jo.
 

@@ -1959,7 +1959,7 @@
       "id": "coverage-verb-tense-b2-3904",
       "level": "B2",
       "setupText": "Choose the accurate interpretation of the reported tense.",
-      "taskText": "Yesterday, Nadia said she lived near the station. What does lived establish?",
+      "taskText": "Yesterday, Nadia said she lived near the station. What does 'lived' establish?",
       "options": [
         "It establishes that she moved away before yesterday's conversation.",
         "It establishes that she will move there after yesterday's conversation.",
@@ -1967,12 +1967,12 @@
         "It reports her residence from the viewpoint of yesterday's conversation."
       ],
       "answer": "It reports her residence from the viewpoint of yesterday's conversation.",
-      "explanation": "Lived can be the backshifted form of live after said. It reports her situation then without establishing whether it has changed since.",
+      "explanation": "'Lived' can be the backshifted form of 'live' after 'said'. It reports her situation then without establishing whether it has changed since.",
       "rationales": {
-        "It reports her residence from the viewpoint of yesterday's conversation.": "Lived can be the backshifted form of live after said. It reports her situation then without establishing whether it has changed since.",
-        "It establishes that she moved away before yesterday's conversation.": "A past form after said does not by itself show that the situation had already ended.",
-        "It establishes that she will move there after yesterday's conversation.": "Lived is not a future-in-the-past form for a later move.",
-        "It reports a visit to the station during yesterday's conversation.": "Lived near describes residence, not a visit to the station."
+        "It reports her residence from the viewpoint of yesterday's conversation.": "'Lived' can be the backshifted form of 'live' after 'said'. It reports her situation then without establishing whether it has changed since.",
+        "It establishes that she moved away before yesterday's conversation.": "A past form after 'said' does not by itself show that the situation had already ended.",
+        "It establishes that she will move there after yesterday's conversation.": "'Lived' is not a future-in-the-past form for a later move.",
+        "It reports a visit to the station during yesterday's conversation.": "'Lived near' describes residence, not a visit to the station."
       },
       "audit": {
         "status": "reviewed",
@@ -2051,7 +2051,7 @@
     {
       "id": "coverage-verb-tense-b2-3907",
       "level": "B2",
-      "setupText": "Choose the meaning of will in this account of repeated current behavior.",
+      "setupText": "Choose the meaning of 'will' in this account of repeated current behavior.",
       "taskText": "'This old printer will jam whenever we use thick paper. It happened twice again today.'",
       "options": [
         "The printer is scheduled to jam for the first time tomorrow.",
@@ -2060,12 +2060,12 @@
         "The printer stopped jamming before today."
       ],
       "answer": "Jamming is presented as characteristic behavior under that condition.",
-      "explanation": "Will can express characteristic behavior. Whenever and twice again today establish repeated jamming here.",
+      "explanation": "'Will' can express characteristic behavior. 'Whenever' and 'twice again today' establish repeated jamming here.",
       "rationales": {
-        "The printer is scheduled to jam for the first time tomorrow.": "Twice again today establishes an existing pattern, not a first future event.",
+        "The printer is scheduled to jam for the first time tomorrow.": "'Twice again today' establishes an existing pattern, not a first future event.",
         "The speaker is promising to make the printer jam.": "The subject is the printer, and the sentence describes its behavior rather than a speaker's promise.",
         "The printer stopped jamming before today.": "The two events today contradict a claim that the behavior ended earlier.",
-        "Jamming is presented as characteristic behavior under that condition.": "Will can express characteristic behavior. Whenever and twice again today establish repeated jamming here."
+        "Jamming is presented as characteristic behavior under that condition.": "'Will' can express characteristic behavior. 'Whenever' and 'twice again today' establish repeated jamming here."
       },
       "audit": {
         "status": "reviewed",
@@ -2361,7 +2361,7 @@
     {
       "id": "coverage-verb-tense-b2-3917",
       "level": "B2",
-      "setupText": "Choose the meaning of would in this recollection.",
+      "setupText": "Choose the meaning of 'would' in this recollection.",
       "taskText": "'When we shared a flat, Emma would leave a note on the fridge whenever she went out.'",
       "options": [
         "Leaving notes was a future plan made after they stopped sharing.",
@@ -2370,12 +2370,12 @@
         "One note had been left before they began sharing the flat."
       ],
       "answer": "Leaving notes was a repeated action during that past period.",
-      "explanation": "Would plus an action verb can describe past habits; whenever supplies the recurring occasions.",
+      "explanation": "'Would' plus an action verb can describe past habits; 'whenever' supplies the recurring occasions.",
       "rationales": {
-        "Leaving notes was a future plan made after they stopped sharing.": "When we shared sets the period for the repeated behavior, not a later plan.",
-        "Emma refused to leave notes while they shared the flat.": "Would leave is affirmative; refusal would require a different construction such as wouldn't leave.",
-        "Leaving notes was a repeated action during that past period.": "Would plus an action verb can describe past habits; whenever supplies the recurring occasions.",
-        "One note had been left before they began sharing the flat.": "Whenever indicates repeated occasions during the shared-flat period, not one prior completed note."
+        "Leaving notes was a future plan made after they stopped sharing.": "'When we shared' sets the period for the repeated behavior, not a later plan.",
+        "Emma refused to leave notes while they shared the flat.": "'Would leave' is affirmative; refusal would require a different construction such as \"wouldn't leave\".",
+        "Leaving notes was a repeated action during that past period.": "'Would' plus an action verb can describe past habits; 'whenever' supplies the recurring occasions.",
+        "One note had been left before they began sharing the flat.": "'Whenever' indicates repeated occasions during the shared-flat period, not one prior completed note."
       },
       "audit": {
         "status": "reviewed",
@@ -2764,7 +2764,7 @@
     {
       "id": "coverage-verb-tense-c1-3930",
       "level": "C1",
-      "setupText": "Choose the inference supported by the whole account, not by had hoped alone.",
+      "setupText": "Choose the inference supported by the whole account, not by 'had hoped' alone.",
       "taskText": "'We had hoped to finish before lunch, but a missing part kept us there until six.'",
       "options": [
         "The intended lunch deadline was missed, as the later clause confirms.",
@@ -2773,12 +2773,12 @@
         "The past perfect guarantees that the missing part was later found."
       ],
       "answer": "The intended lunch deadline was missed, as the later clause confirms.",
-      "explanation": "The but clause establishes the missed deadline. Had hoped supplies the earlier expectation, which alone would not prove disappointment.",
+      "explanation": "The 'but' clause establishes the missed deadline. 'Had hoped' supplies the earlier expectation, which alone would not prove disappointment.",
       "rationales": {
-        "The hope itself began only after the work finished.": "Had hoped places the hope before the later outcome, not after the work ended.",
-        "The work had already finished when the hope was formed.": "Hoping to finish treats completion as prospective from the earlier hope.",
-        "The past perfect guarantees that the missing part was later found.": "Had hoped does not establish what happened to the missing part.",
-        "The intended lunch deadline was missed, as the later clause confirms.": "The but clause establishes the missed deadline. Had hoped supplies the earlier expectation, which alone would not prove disappointment."
+        "The hope itself began only after the work finished.": "'Had hoped' places the hope before the later outcome, not after the work ended.",
+        "The work had already finished when the hope was formed.": "'Hoping to finish' treats completion as prospective from the earlier hope.",
+        "The past perfect guarantees that the missing part was later found.": "'Had hoped' does not establish what happened to the missing part.",
+        "The intended lunch deadline was missed, as the later clause confirms.": "The 'but' clause establishes the missed deadline. 'Had hoped' supplies the earlier expectation, which alone would not prove disappointment."
       },
       "audit": {
         "status": "reviewed",
@@ -2888,7 +2888,7 @@
     {
       "id": "coverage-verb-tense-c1-3934",
       "level": "C1",
-      "setupText": "Choose the interpretation of have completed in this future eligibility condition.",
+      "setupText": "Choose the interpretation of 'have completed' in this future eligibility condition.",
       "taskText": "Applications open next April. If you have completed the trial by then, you can apply for membership.",
       "options": [
         "The trial must already be complete at the time this notice is written.",
@@ -2897,12 +2897,12 @@
         "Applicants must be completing the trial while submitting their applications."
       ],
       "answer": "Trial completion must precede the relevant application point next April.",
-      "explanation": "The present perfect expresses completion relative to a future point supplied by by then; it does not require completion before speech time.",
+      "explanation": "The present perfect expresses completion relative to a future point supplied by 'by then'; it does not require completion before speech time.",
       "rationales": {
-        "The trial must already be complete at the time this notice is written.": "By then points to next April, so completion may still lie in the future from the notice's date.",
+        "The trial must already be complete at the time this notice is written.": "'By then' points to next April, so completion may still lie in the future from the notice's date.",
         "The trial begins after membership has already been granted.": "The condition places completion before application, not after membership is granted.",
-        "Applicants must be completing the trial while submitting their applications.": "Have completed requires reaching completion, rather than merely being in progress at application time.",
-        "Trial completion must precede the relevant application point next April.": "The present perfect expresses completion relative to a future point supplied by by then; it does not require completion before speech time."
+        "Applicants must be completing the trial while submitting their applications.": "'Have completed' requires reaching completion, rather than merely being in progress at application time.",
+        "Trial completion must precede the relevant application point next April.": "The present perfect expresses completion relative to a future point supplied by 'by then'; it does not require completion before speech time."
       },
       "audit": {
         "status": "reviewed",
@@ -3012,7 +3012,7 @@
     {
       "id": "coverage-verb-tense-c1-3938",
       "level": "C1",
-      "setupText": "Choose the function of hear in this conversational opening.",
+      "setupText": "Choose the function of 'hear' in this conversational opening.",
       "taskText": "'I hear you've accepted the fellowship. Congratulations!'",
       "options": [
         "It describes a hearing process occurring continuously during the fellowship.",
@@ -3021,12 +3021,12 @@
         "It presents received news as information currently available to the speaker."
       ],
       "answer": "It presents received news as information currently available to the speaker.",
-      "explanation": "I hear can introduce news the speaker has learned and regards as current; the present form need not describe literal hearing at that instant.",
+      "explanation": "'I hear' can introduce news the speaker has learned and regards as current; the present form need not describe literal hearing at that instant.",
       "rationales": {
-        "It describes a hearing process occurring continuously during the fellowship.": "Hear introduces information here, not an ongoing sensory process during the fellowship.",
-        "It makes acceptance conditional on a future announcement.": "You've accepted treats acceptance as prior news, not as conditional on a later announcement.",
-        "It reports a sound that the speaker heard before learning any news.": "This use of hear concerns learning news, not identifying an earlier sound.",
-        "It presents received news as information currently available to the speaker.": "I hear can introduce news the speaker has learned and regards as current; the present form need not describe literal hearing at that instant."
+        "It describes a hearing process occurring continuously during the fellowship.": "'Hear' introduces information here, not an ongoing sensory process during the fellowship.",
+        "It makes acceptance conditional on a future announcement.": "\"You've accepted\" treats acceptance as prior news, not as conditional on a later announcement.",
+        "It reports a sound that the speaker heard before learning any news.": "This use of 'hear' concerns learning news, not identifying an earlier sound.",
+        "It presents received news as information currently available to the speaker.": "'I hear' can introduce news the speaker has learned and regards as current; the present form need not describe literal hearing at that instant."
       },
       "audit": {
         "status": "reviewed",

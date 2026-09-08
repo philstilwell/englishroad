@@ -846,7 +846,7 @@ Choose who accepts the extra shift in this sentence.
 
 ID: `coverage-gerunds-and-infinitives-a2-1467`
 
-Choose the meaning of kept checking.
+Choose the meaning of 'kept checking'.
 
 'While waiting for the delivery, I kept checking my phone.'
 
@@ -855,14 +855,14 @@ Choose the meaning of kept checking.
 3. I remembered one earlier occasion when I checked my phone.
 4. I tried to avoid checking my phone during the wait.
 
-**Explanation:** Keep + -ing can describe an action that continues or happens repeatedly.
+**Explanation:** 'Keep' + -ing can describe an action that continues or happens repeatedly.
 
 **Choice feedback:**
 
-- **I saved my phone so that I could check it later.:** Kept followed by checking means repeated action, not storing the phone.
-- **I checked my phone repeatedly during the wait.:** Keep + -ing can describe an action that continues or happens repeatedly.
+- **I saved my phone so that I could check it later.:** 'Kept' followed by 'checking' means repeated action, not storing the phone.
+- **I checked my phone repeatedly during the wait.:** 'Keep' + -ing can describe an action that continues or happens repeatedly.
 - **I remembered one earlier occasion when I checked my phone.:** That would describe a memory, not repeated checking during the wait.
-- **I tried to avoid checking my phone during the wait.:** Avoid checking is the opposite of the repeated action described.
+- **I tried to avoid checking my phone during the wait.:** 'Avoid checking' is the opposite of the repeated action described.
 
 **Decision:** replaced.
 
