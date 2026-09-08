@@ -539,6 +539,8 @@ function renderFinalReport() {
   const finished = state.responses.length >= TOTAL_QUESTIONS;
   renderReportPreview(finished);
   document.getElementById("finalReport").hidden = !finished;
+  document.getElementById("manualCopyReport").hidden = true;
+  document.getElementById("reportText").value = "";
   if (!finished) return;
   if (!state.completedAt) state.completedAt = new Date().toISOString();
   document.getElementById("copyReport").disabled = false;
@@ -569,12 +571,18 @@ function copyFinalReport() {
     if (status) status.textContent = `Available after ${TOTAL_QUESTIONS} answers.`;
     return;
   }
-  copyText(buildReportText())
+  const report = buildReportText();
+  copyText(report)
     .then(() => {
       if (status) status.textContent = "Report copied.";
     })
     .catch(() => {
-      if (status) status.textContent = "Copy did not work. Please take a screenshot.";
+      const field = document.getElementById("reportText");
+      field.value = report;
+      document.getElementById("manualCopyReport").hidden = false;
+      if (status) status.textContent = "Automatic copying is unavailable. Copy the selected report text below.";
+      field.focus();
+      field.select();
     });
 }
 
@@ -636,7 +644,7 @@ function formatReportDate(date) {
 
 function restart(event, options = {}) {
   if (!options.skipConfirm && (state.responses.length || state.selected) && !window.confirm("Start a new level check? Your current answers will be cleared.")) return;
-  if (event) clearSavedSession();
+  if (event && !clearSavedSession()) return;
   const shouldPersist = options.persist !== false;
   state.questionIndex = 0;
   state.selectionCue = 1.45;
@@ -724,7 +732,7 @@ function questionMap() {
 }
 
 function clearSavedSession() {
-  sessionStore.remove();
+  return sessionStore.remove({ allowUnsaved: true });
 }
 
 function rollingAccuracy(size) {

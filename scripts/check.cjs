@@ -307,3 +307,29 @@ for (const level of ['A1','A2','B1','B2','C1','C2']) {
 }
 console.log(JSON.stringify({ activeItems: bank.length, uniqueItems: run('new Set(state.bank.map(questionSignature)).size'), topics: topics.length, practiceBands: learning.levels.length, minItemsPerTopicBand: minObservedTopicLevelItems, reviewedItems:bank.filter(q=>q.qaStatus==='reviewed').length, focusedCombinations:focused, simulations:results },null,2));
 console.log('All question-bank, scoring-boundary, shared-engine and quiz-selection checks passed.');
+
+// A saved selection is work even before the learner checks the first answer.
+let replacementConfirmations = 0;
+p.window.confirm = () => { replacementConfirmations++; return false; };
+vm.runInContext('savedAttempt = {responses: [], selected: "chosen", index: 0, quiz: [{}]}; startPractice();', p);
+assert.equal(replacementConfirmations, 1, 'Replacing a restored first selection must require confirmation');
+require('./check-ui.cjs');
+
+// Rejected clipboard permissions must expose the entire report, not a screenshot instruction.
+(async () => {
+  const elements = {
+    copyReportStatus: {textContent: ''},
+    manualCopyReport: {hidden: true},
+    reportText: {value: '', focus() {this.focused = true;}, select() {this.selected = true;}}
+  };
+  c.document = {getElementById: id => elements[id]};
+  c.navigator = {clipboard: {writeText: () => Promise.reject(new Error('Clipboard denied'))}};
+  run('copyFinalReport()');
+  await new Promise(resolve => setImmediate(resolve));
+  assert.equal(elements.manualCopyReport.hidden, false);
+  assert(elements.reportText.value.includes('100. ['), 'Manual copying must include the last answer');
+  assert.equal(elements.reportText.value, run('buildReportText()'));
+  assert(elements.reportText.focused && elements.reportText.selected);
+  assert.match(elements.copyReportStatus.textContent, /Copy the selected report/);
+  console.log('Clipboard-denial report recovery check passed.');
+})().catch(error => { console.error(error); process.exitCode = 1; });

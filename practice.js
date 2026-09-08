@@ -23,12 +23,12 @@ let copyPromptResetTimer = null;
 function startPractice(event) {
   if (event) event.preventDefault();
   const unfinished = (state.responses.length || state.selected) && state.index < state.quiz.length;
-  const savedUnfinished = savedAttempt && savedAttempt.responses.length && savedAttempt.index < savedAttempt.quiz.length;
+  const savedUnfinished = savedAttempt && (savedAttempt.responses.length || savedAttempt.selected) && savedAttempt.index < savedAttempt.quiz.length;
   if ((unfinished || savedUnfinished) && !window.confirm("Start a new practice quiz? This replaces your unfinished saved practice.")) return;
   const level = document.getElementById("levelSelect").value;
   const topic = document.getElementById("topicSelect").value;
   const quiz = selectQuizItems(level, topic);
-  if (!quiz.length) return;
+  if (!quiz.length || !sessionStore.remove({ allowUnsaved: true })) return;
   state.level = level;
   state.topic = topic;
   state.quiz = quiz;
@@ -38,7 +38,6 @@ function startPractice(event) {
   state.responses = [];
   state.optionPositionCounts = [0, 0, 0, 0];
   savedAttempt = null;
-  sessionStore.remove();
   activatePractice();
   renderAiPrompt();
   renderPractice();

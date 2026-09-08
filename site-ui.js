@@ -54,7 +54,12 @@
     // Avoid silently overwriting a different attempt edited in another tab.
     function changedElsewhere() {
       const current = localStorage.getItem(key);
-      return revision !== null && current !== revision;
+      return current !== revision;
+    }
+    function conflict() {
+      failed = true;
+      message("Saved data changed in another tab. This tab is not saving. Reload to open the saved attempt, or use Delete my data to clear browser data.", true);
+      return false;
     }
     window.addEventListener("beforeunload", (event) => {
       if (!failed || !hasWork()) return;
@@ -92,9 +97,7 @@
       save(payload, replace = false) {
         try {
           if (!replace && changedElsewhere()) {
-            failed = true;
-            message("A different attempt was saved in another tab. This tab is not saving. Reload to open the saved attempt, or use Delete my data to clear browser data.", true);
-            return false;
+            return conflict();
           }
           const raw = JSON.stringify(payload);
           localStorage.setItem(key, raw);
@@ -107,8 +110,9 @@
           return false;
         }
       },
-      remove() {
+      remove({ allowUnsaved = false } = {}) {
         try {
+          if (changedElsewhere()) return conflict();
           localStorage.removeItem(key);
           localStorage.removeItem(`${key}-previous`);
           sessionStorage.removeItem(key);
@@ -116,7 +120,7 @@
           revision = null;
           previousRaw = null;
           return true;
-        } catch { failure(); return false; }
+        } catch { failure(); return allowUnsaved; }
       },
       clearAll() {
         const cleared = removeEnglishRoadStorage();

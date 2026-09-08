@@ -39,6 +39,7 @@
   .cefr-comparison-header h2 { font-size: 19px; }
   .cefr-comparison-body { padding: 0 12px 12px; }
   .cefr-score-table { font-size: 14px; }
+  .cefr-score-table th:first-child { width: 4.5em; white-space: nowrap; }
   .cefr-score-table th, .cefr-score-table td { padding: 9px 6px; }
   .cefr-score-table small { font-size: 11px; }
 }
