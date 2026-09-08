@@ -29,6 +29,12 @@ function get(file) {
       } catch (e) { errors.push(e.message); }
     }
   }));
+  const questionFile = entries.find(([file]) => file.startsWith('data/questions/'))?.[0];
+  for (const [file, expected] of [['/', 'public, max-age=0, must-revalidate'], ...(questionFile ? [[questionFile, 'public, max-age=31536000, immutable']] : [])]) {
+    const headers = cp.execFileSync('curl', [...connection, '-sSI', '--max-time', '30', new URL(file, origin).href], {encoding:'utf8'});
+    const cache = headers.split(/\r?\n/).find(line=>/^cache-control:/i.test(line))?.replace(/^cache-control:\s*/i,'').trim();
+    if (cache !== expected) errors.push(`${file}: unexpected cache policy ${cache}`);
+  }
   const home = await get('/');
   if (crypto.createHash('sha256').update(home).digest('hex') !== manifest.files['index.html']) errors.push('Homepage mismatch');
   for (const missing of ['/missing-migration-check-74629.html','/.git/config','/README.md','/cloudflare/build.cjs',
@@ -37,5 +43,5 @@ function get(file) {
     if (status !== '404') errors.push(`${missing}: expected 404, got ${status}`);
   }
   if (errors.length) throw new Error(errors.join('\n'));
-  console.log(`Verified ${entries.length} files byte for byte, homepage, and real 404 responses at ${origin.origin}.`);
+  console.log(`Verified ${entries.length} files byte for byte, homepage, cache policies, and real 404 responses at ${origin.origin}.`);
 })().catch(e => { console.error(e.message); process.exitCode = 1; });

@@ -66,10 +66,11 @@ for (const file of files.filter(f => f.endsWith('.html') && f !== '404.html')) {
   redirects.push(`/${file.slice(0, -5)} /${file} 301`);
 }
 fs.writeFileSync(path.join(out, '_redirects'), redirects.join('\n')+'\n');
+// Cloudflare already revalidates ordinary assets by default. A global explicit
+// Cache-Control rule would concatenate with the immutable question-file rule.
 fs.writeFileSync(path.join(out, '_headers'), `/*
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
-  Cache-Control: public, max-age=0, must-revalidate
 
 /data/questions/*
   Cache-Control: public, max-age=31536000, immutable
