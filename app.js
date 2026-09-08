@@ -692,7 +692,6 @@ async function restart(event, options = {}) {
   if (!options.skipConfirm && (state.responses.length || state.selected) && !window.confirm("Start a new level check? Your current answers will be cleared.")) return;
   if (event && !clearSavedSession()) return;
   questionRequest++;
-  if (event) document.getElementById("sessionNotice").hidden = true;
   TOTAL_QUESTIONS = INITIAL_QUESTIONS;
   delete document.getElementById("submitAnswer").dataset.retry;
   const shouldPersist = options.persist !== false;
@@ -777,11 +776,6 @@ async function restoreSession() {
     renderCurrentQuestion();
     updateResults();
     sessionStore.restored();
-    if (TOTAL_QUESTIONS === 100) {
-      const notice = document.getElementById("sessionNotice");
-      notice.hidden = false;
-      notice.textContent = "Your earlier 100-question check has been restored. You can finish it, or choose Start again for the new 25-question check with an optional extension to 50.";
-    }
     return true;
   } catch (error) {
     if (error.message === "download") throw error;
