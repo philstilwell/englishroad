@@ -23,8 +23,8 @@
     <meta name="twitter:image" content="https://englishroad.com/social-preview.png">
     <title>English Practice Quizzes by Topic &amp; Band | English Road</title>
     <link rel="icon" href="favicon.svg?v=20260907-audited-v2" type="image/svg+xml">
-    <link rel="stylesheet" href="family.css?v=20260907-help-size-v1">
-    <script src="site-header.js?v=20260907-floating-header-v1" defer></script>
+    <link rel="stylesheet" href="family.css?v=20260908-learning-v1">
+    <script src="site-header.js?v=20260908-learning-v1" defer></script>
     <link rel="stylesheet" href="practice.css?v=20260908-site-audit-v1">
   </head>
   <body>
@@ -118,6 +118,7 @@
             <button id="nextPracticeItem" class="primary-action" type="button" hidden>Next question</button>
             <button id="restartPractice" class="ghost-action" type="button">New quiz</button>
           </div>
+          <section id="practiceStudyTools" class="study-tools" aria-labelledby="practiceStudyTools-title" hidden></section>
           <section id="practiceReview" class="practice-review" aria-labelledby="practiceReviewTitle" hidden><h2 id="practiceReviewTitle">Review answers</h2></section>
 
         </article>
@@ -143,13 +144,6 @@
             <h3 id="practiceSummaryTitle">Areas practiced</h3>
             <div id="practiceAreas" class="practice-chips"></div>
           </section>
-          <details id="aiPromptBox" class="ai-prompt-box" hidden>
-            <summary>Review with an AI study prompt</summary>
-            <p>After you finish, this includes your missed questions, your choices, and the site’s explanations. If you missed none, it includes all your answers. “Copy study prompt” copies text for you to paste into an AI service. Nothing is sent automatically.</p>
-            <textarea id="aiPromptText" readonly aria-label="Study prompt for your completed quiz"></textarea>
-            <button id="copyAiPrompt" class="ghost-action copy-prompt-action" type="button">Copy study prompt</button>
-            <span id="copyAiPromptStatus" class="copy-prompt-status" role="status"></span>
-          </details>
           <div class="bank-note">
             <strong id="bankSize">4,200</strong>
             <span>available quiz items, individually reviewed with AI assistance: 20 per topic at each practice band. These bands are not validated proficiency ratings.</span>
@@ -164,6 +158,6 @@
     </main>
 
     <script src="cefr-comparison.js?v=20260907-audited-v2" defer></script>
-    <script src="quiz-loader.js?v=20260907-audited-v2" data-app="practice.js" data-version="20260908-site-audit-v1"></script>
+    <script src="quiz-loader.js?v=20260908-learning-v1" data-app="practice.js" data-version="20260908-learning-v1"></script>
   </body>
 </html>

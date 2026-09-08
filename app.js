@@ -2,9 +2,11 @@ const {
   answerFeedback, clamp, copyText, createQuestionBank, escapeHtml, incrementCount, learnerSubcategory, normalizeQuestionText, orderOptionsWithBalancedAnswerPosition, questionSignature, randomInt, recordAnswerPosition, shuffleRandom, hasKnownAnswerAmbiguity, hasPluralCountQuantifierAmbiguity, hasKnownAwkwardPhrase, hasDisplayGuidanceProblem
 } = window.EnglishRoadQuestions;
 
-const TOTAL_QUESTIONS = 100;
+const INITIAL_QUESTIONS = 25;
+const MAX_QUESTIONS = 50;
+let TOTAL_QUESTIONS = INITIAL_QUESTIONS;
 const STORAGE_KEY = "englishroad-level-check-session-v1";
-const SESSION_VERSION = 5;
+const SESSION_VERSION = 6;
 const DIFFICULTY_BANDS = [
   { key: "starter", max: 2.2, target: 28 },
   { key: "developing", max: 3.3, target: 28 },
@@ -23,100 +25,100 @@ const languageGuides = {
   "en": {
     "title": "How to use English Road",
     "purpose": "Review your English grammar and vocabulary. This is practice, not an official test or an assessment of your overall English level.",
-    "functionText": "Answer 100 multiple-choice questions. The report shows your correct answers and topics to practice. Practice bands are approximate labels, not examination scores.",
+    "functionText": "Answer 25 multiple-choice questions. The report shows your correct answers and topics to practice. Practice bands are approximate labels, not examination scores. You can continue to 50 questions for a more detailed practice suggestion.",
     "steps": [
       "Choose an answer and click Check answer.",
       "Read the explanation, then click Next question.",
       "Check the save status. Use Delete my data any time to clear this browser.",
-      "After 100 answers, copy your activity report or choose a topic for more practice."
+      "After 25 answers, copy your activity report or choose a topic for more practice."
     ]
   },
   "ja": {
     "title": "English Road の使い方",
     "purpose": "英語の文法と語彙を復習します。これは練習用であり、公式試験や総合的な英語力の判定ではありません。",
-    "functionText": "100問の選択問題に答えます。レポートには正解数と練習する項目が表示されます。練習の段階はおおよその目安であり、試験スコアではありません。",
+    "functionText": "25問の選択問題に答えます。レポートには正解数と練習する項目が表示されます。練習の段階はおおよその目安であり、試験スコアではありません。 より詳しい練習の目安を得るため、50問まで続けることもできます。",
     "steps": [
       "答えを選び、Check answer を押します。",
       "説明を読んで、Next question を押します。",
       "保存状況を確認してください。Delete my data で、このブラウザのデータをいつでも削除できます。",
-      "100問の後、学習レポートをコピーするか、項目を選んで練習を続けられます。"
+      "25問の後、学習レポートをコピーするか、項目を選んで練習を続けられます。"
     ]
   },
   "zh": {
     "title": "如何使用 English Road",
     "purpose": "复习英语语法和词汇。这是练习，不是正式考试，也不是对综合英语水平的评估。",
-    "functionText": "回答100道选择题。报告显示答对的题数和可以继续练习的主题。练习等级只是大致标签，不是考试成绩。",
+    "functionText": "回答25道选择题。报告显示答对的题数和可以继续练习的主题。练习等级只是大致标签，不是考试成绩。 你也可以继续答到50题，获得更详细的练习建议。",
     "steps": [
       "选择答案，然后点击 Check answer。",
       "阅读解释，然后点击 Next question。",
       "检查保存状态。你可以随时用 Delete my data 删除此浏览器中的数据。",
-      "回答100题后，可以复制练习报告或选择一个主题继续练习。"
+      "回答25题后，可以复制练习报告或选择一个主题继续练习。"
     ]
   },
   "es": {
     "title": "Cómo usar English Road",
     "purpose": "Repasa gramática y vocabulario en inglés. Es una práctica, no un examen oficial ni una evaluación de tu nivel general de inglés.",
-    "functionText": "Responde 100 preguntas de opción múltiple. El informe muestra tus aciertos y temas para practicar. Las bandas de práctica son orientativas, no puntuaciones de examen.",
+    "functionText": "Responde 25 preguntas de opción múltiple. El informe muestra tus aciertos y temas para practicar. Las bandas de práctica son orientativas, no puntuaciones de examen. Puedes continuar hasta 50 preguntas para obtener una sugerencia de práctica más detallada.",
     "steps": [
       "Elige una respuesta y pulsa Check answer.",
       "Lee la explicación y pulsa Next question.",
       "Comprueba el estado del guardado. Puedes usar Delete my data para borrar los datos de este navegador en cualquier momento.",
-      "Después de 100 respuestas, copia el informe de la actividad o elige un tema para seguir practicando."
+      "Después de 25 respuestas, copia el informe de la actividad o elige un tema para seguir practicando."
     ]
   },
   "pt": {
     "title": "Como usar o English Road",
     "purpose": "Revise gramática e vocabulário em inglês. Esta é uma atividade de prática, não um exame oficial nem uma avaliação do seu nível geral de inglês.",
-    "functionText": "Responda a 100 perguntas de múltipla escolha. O relatório mostra seus acertos e temas para praticar. As faixas de prática são aproximadas, não notas de exames.",
+    "functionText": "Responda a 25 perguntas de múltipla escolha. O relatório mostra seus acertos e temas para praticar. As faixas de prática são aproximadas, não notas de exames. Você pode continuar até 50 perguntas para receber uma sugestão de prática mais detalhada.",
     "steps": [
       "Escolha uma resposta e clique em Check answer.",
       "Leia a explicação e clique em Next question.",
       "Verifique o estado do salvamento. Você pode usar Delete my data para apagar os dados deste navegador a qualquer momento.",
-      "Depois de 100 respostas, copie o relatório da atividade ou escolha um tema para continuar praticando."
+      "Depois de 25 respostas, copie o relatório da atividade ou escolha um tema para continuar praticando."
     ]
   },
   "pl": {
     "title": "Jak korzystać z English Road",
     "purpose": "Powtórz angielską gramatykę i słownictwo. To ćwiczenie, a nie oficjalny egzamin ani ocena ogólnego poziomu angielskiego.",
-    "functionText": "Odpowiedz na 100 pytań wielokrotnego wyboru. Raport pokazuje poprawne odpowiedzi i tematy do ćwiczeń. Poziomy ćwiczeń są orientacyjne i nie są wynikami egzaminów.",
+    "functionText": "Odpowiedz na 25 pytań wielokrotnego wyboru. Raport pokazuje poprawne odpowiedzi i tematy do ćwiczeń. Poziomy ćwiczeń są orientacyjne i nie są wynikami egzaminów. Możesz kontynuować do 50 pytań, aby otrzymać bardziej szczegółową sugestię dalszych ćwiczeń.",
     "steps": [
       "Wybierz odpowiedź i kliknij Check answer.",
       "Przeczytaj wyjaśnienie i kliknij Next question.",
       "Sprawdź stan zapisu. Możesz użyć Delete my data, aby w każdej chwili usunąć dane z tej przeglądarki.",
-      "Po 100 odpowiedziach skopiuj raport z ćwiczenia lub wybierz temat do dalszej nauki."
+      "Po 25 odpowiedziach skopiuj raport z ćwiczenia lub wybierz temat do dalszej nauki."
     ]
   },
   "ko": {
     "title": "English Road 사용 방법",
     "purpose": "영어 문법과 어휘를 복습하세요. 이 활동은 연습이며, 공식 시험이나 종합적인 영어 수준 평가가 아닙니다.",
-    "functionText": "객관식 100문제에 답합니다. 보고서는 맞힌 문제 수와 연습할 주제를 보여 줍니다. 연습 단계는 대략적인 구분이며 시험 점수가 아닙니다.",
+    "functionText": "객관식 25문제에 답합니다. 보고서는 맞힌 문제 수와 연습할 주제를 보여 줍니다. 연습 단계는 대략적인 구분이며 시험 점수가 아닙니다. 더 자세한 연습 제안을 받으려면 50문제까지 계속할 수 있습니다.",
     "steps": [
       "답을 고르고 Check answer를 누르세요.",
       "설명을 읽고 Next question을 누르세요.",
       "저장 상태를 확인하세요. Delete my data로 이 브라우저의 데이터를 언제든지 삭제할 수 있습니다.",
-      "100문제 후 활동 보고서를 복사하거나 주제를 골라 연습을 계속하세요."
+      "25문제 후 활동 보고서를 복사하거나 주제를 골라 연습을 계속하세요."
     ]
   },
   "fr": {
     "title": "Comment utiliser English Road",
     "purpose": "Révisez la grammaire et le vocabulaire anglais. Cette activité est un entraînement, pas un examen officiel ni une évaluation de votre niveau général d’anglais.",
-    "functionText": "Répondez à 100 questions à choix multiple. Le rapport indique vos bonnes réponses et les thèmes à travailler. Les catégories de pratique sont approximatives, pas des scores d’examen.",
+    "functionText": "Répondez à 25 questions à choix multiple. Le rapport indique vos bonnes réponses et les thèmes à travailler. Les catégories de pratique sont approximatives, pas des scores d’examen. Vous pouvez poursuivre jusqu’à 50 questions pour obtenir une suggestion de pratique plus détaillée.",
     "steps": [
       "Choisissez une réponse et cliquez sur Check answer.",
       "Lisez l’explication, puis cliquez sur Next question.",
       "Vérifiez l’état de l’enregistrement. Vous pouvez utiliser Delete my data pour supprimer à tout moment les données de ce navigateur.",
-      "Après 100 réponses, copiez le rapport de l’activité ou choisissez un thème pour continuer à vous entraîner."
+      "Après 25 réponses, copiez le rapport de l’activité ou choisissez un thème pour continuer à vous entraîner."
     ]
   },
   "te": {
     "title": "English Road ఎలా ఉపయోగించాలి",
     "purpose": "ఆంగ్ల వ్యాకరణం మరియు పదజాలాన్ని అభ్యసించండి. ఇది సాధన మాత్రమే; అధికారిక పరీక్ష లేదా మీ మొత్తం ఆంగ్ల స్థాయి అంచనా కాదు.",
-    "functionText": "100 బహుళ ఎంపిక ప్రశ్నలకు సమాధానం ఇవ్వండి. నివేదిక మీ సరైన సమాధానాలను, సాధన చేయాల్సిన అంశాలను చూపిస్తుంది. సాధన స్థాయులు సుమారు సూచనలు మాత్రమే; పరీక్ష స్కోర్లు కావు.",
+    "functionText": "25 బహుళ ఎంపిక ప్రశ్నలకు సమాధానం ఇవ్వండి. నివేదిక మీ సరైన సమాధానాలను, సాధన చేయాల్సిన అంశాలను చూపిస్తుంది. సాధన స్థాయులు సుమారు సూచనలు మాత్రమే; పరీక్ష స్కోర్లు కావు. మరింత వివరమైన సాధన సూచన కోసం 50 ప్రశ్నల వరకు కొనసాగించవచ్చు.",
     "steps": [
       "ఒక సమాధానం ఎంచుకొని Check answer నొక్కండి.",
       "వివరణ చదివి Next question నొక్కండి.",
       "సేవ్ స్థితిని తనిఖీ చేయండి. Delete my data తో, ఈ బ్రౌజర్‌లోని డేటాను ఎప్పుడైనా తొలగించవచ్చు.",
-      "100 సమాధానాల తర్వాత, సాధన నివేదికను కాపీ చేయండి లేదా మరింత సాధన కోసం ఒక అంశాన్ని ఎంచుకోండి."
+      "25 సమాధానాల తర్వాత, సాధన నివేదికను కాపీ చేయండి లేదా మరింత సాధన కోసం ఒక అంశాన్ని ఎంచుకోండి."
     ]
   }
 };
@@ -149,7 +151,7 @@ function createCandidateOrder() {
   return shuffleRandom(state.bank);
 }
 
-function chooseQuestion() {
+function chooseQuestion(prepare = true) {
   const target = targetDifficulty();
   const ceiling = difficultyCeiling();
   const floor = difficultyFloor();
@@ -188,7 +190,7 @@ function chooseQuestion() {
   if (!best) throw new Error("No unused question is available.");
   state.usedIds.add(best.id);
   state.usedTexts.add(cachedQuestionSignature(best));
-  return prepareQuestionOptions(best);
+  return prepare ? prepareQuestionOptions(best) : best;
 }
 
 function canUseLevelCheckCandidate(question, balance, diversityPass, recentBlueprints) {
@@ -246,7 +248,7 @@ function createMixTargets() {
     categoryTargets,
     subcategoryTargets,
     difficultyTargets: DIFFICULTY_BANDS.reduce((targets, band) => {
-      targets[band.key] = band.target;
+      targets[band.key] = Math.max(1, Math.round(TOTAL_QUESTIONS * band.target / 100));
       return targets;
     }, {})
   };
@@ -343,20 +345,40 @@ function difficultyCeiling() {
   const answered = state.responses.length;
   const rolling = rollingAccuracy(8);
   if (answered < 5) return 2.1;
-  if (answered < 10) return rolling >= 0.8 ? 2.8 : 2.35;
-  if (answered < 20) return rolling >= 0.85 ? 3.5 : rolling >= 0.65 ? 3.0 : 2.55;
+  if (answered < 8) return rolling >= 0.8 ? 3.7 : 2.35;
   if (answered < 40) return rolling >= 0.85 ? state.selectionCue + 1.0 : state.selectionCue + 0.55;
   return rolling >= 0.85 ? state.selectionCue + 1.15 : rolling >= 0.65 ? state.selectionCue + 0.75 : state.selectionCue + 0.35;
 }
 
-function renderQuestion(options = {}) {
-  const shouldPersist = options.persist !== false;
-  state.current = chooseQuestion();
-  state.answered = false;
-  state.selected = "";
-  renderCurrentQuestion();
-  updateResults();
-  if (shouldPersist) persistSession();
+let questionRequest = 0;
+async function renderQuestion(options = {}) {
+  const request = ++questionRequest;
+  const button = document.getElementById("submitAnswer");
+  button.disabled = true;
+  button.textContent = "Loading question…";
+  const candidate = chooseQuestion(false);
+  try {
+    if (window.EnglishRoadBank) await window.EnglishRoadBank.ensure([candidate.id]);
+    if (request !== questionRequest) return;
+    state.current = prepareQuestionOptions(candidate);
+    state.answered = false;
+    state.selected = "";
+    renderCurrentQuestion();
+    updateResults();
+    if (options.persist !== false) persistSession();
+    document.getElementById("loadStatus").hidden = true;
+    window.englishRoadReady();
+    window.EnglishRoadUI.focusQuestion("questionText");
+  } catch {
+    if (request !== questionRequest) return;
+    state.usedIds.delete(candidate.id);
+    state.usedTexts.delete(cachedQuestionSignature(candidate));
+    document.getElementById("loadStatus").hidden = false;
+    document.getElementById("loadMessage").textContent = "This question could not load. Your checked answers are saved if saving is available. Retry the question or reload the page.";
+    button.disabled = false;
+    button.textContent = "Retry question";
+    button.dataset.retry = "true";
+  }
 }
 
 function renderCurrentQuestion() {
@@ -412,8 +434,8 @@ function renderCurrentQuestion() {
     const correct = state.selected === state.current.answer;
     feedback.textContent = answerFeedback(state.current, state.selected);
     feedback.className = `feedback ${correct ? "good" : "needs-work"}`;
-    button.textContent = state.questionIndex >= TOTAL_QUESTIONS ? "Completed" : "Next question";
-    button.disabled = state.questionIndex >= TOTAL_QUESTIONS;
+    button.textContent = state.questionIndex >= TOTAL_QUESTIONS ? "See my report" : "Next question";
+    button.disabled = false;
   } else {
     feedback.textContent = "";
     feedback.className = "feedback";
@@ -423,15 +445,16 @@ function renderCurrentQuestion() {
 }
 
 function submitAnswer() {
+  const retryButton = document.getElementById("submitAnswer");
+  if (retryButton.dataset.retry) { delete retryButton.dataset.retry; renderQuestion(); return; }
   if (!state.selected && !state.answered) {
     document.getElementById("feedback").textContent = "Choose an answer first.";
     return;
   }
 
   if (state.answered) {
-    if (state.questionIndex >= TOTAL_QUESTIONS) return;
+    if (state.questionIndex >= TOTAL_QUESTIONS) {window.EnglishRoadUI.focusQuestion("finalReportTitle"); return;}
     renderQuestion();
-    window.EnglishRoadUI.focusQuestion("questionText");
     return;
   }
 
@@ -440,7 +463,7 @@ function submitAnswer() {
   state.responses.push({ ...state.current, correct, selected: state.selected });
   state.questionIndex += 1;
   state.answered = true;
-  if (state.questionIndex >= TOTAL_QUESTIONS && !state.completedAt) state.completedAt = new Date().toISOString();
+  if (state.questionIndex >= INITIAL_QUESTIONS) state.completedAt = new Date().toISOString();
 
   document.querySelectorAll(".answer-option").forEach((option) => {
     const input = option.querySelector("input");
@@ -463,8 +486,8 @@ function submitAnswer() {
 
   const button = document.getElementById("submitAnswer");
   if (state.questionIndex >= TOTAL_QUESTIONS) {
-    button.textContent = "Completed";
-    button.disabled = true;
+    button.textContent = "See my report";
+    button.disabled = false;
   } else {
     button.textContent = "Next question";
   }
@@ -496,7 +519,7 @@ function updateResults() {
     ? `${count} of ${TOTAL_QUESTIONS} answered · ${correct} correct, ${incorrect} incorrect`
     : `${count} of ${TOTAL_QUESTIONS} answered`;
   updateResultMeter(state.responses, TOTAL_QUESTIONS);
-  document.getElementById("completionLink").hidden = count < TOTAL_QUESTIONS;
+  document.getElementById("completionLink").hidden = count < INITIAL_QUESTIONS;
   document.getElementById("result-title").textContent = count ? `${correct} of ${count} correct` : "Your answers so far";
   document.getElementById("precisionText").textContent = "This is a record of this grammar and vocabulary activity. It does not measure your overall English level or predict examination scores.";
   document.getElementById("practiceSuggestions").hidden = !count;
@@ -536,7 +559,7 @@ function practiceUrl(topic = "") {
 }
 
 function renderFinalReport() {
-  const finished = state.responses.length >= TOTAL_QUESTIONS;
+  const finished = state.responses.length >= INITIAL_QUESTIONS;
   renderReportPreview(finished);
   document.getElementById("finalReport").hidden = !finished;
   document.getElementById("manualCopyReport").hidden = true;
@@ -546,7 +569,12 @@ function renderFinalReport() {
   document.getElementById("copyReport").disabled = false;
   document.getElementById("copyReportStatus").textContent = "";
   document.getElementById("finalReportDate").textContent = `Completed: ${formatReportDate(new Date(state.completedAt))}`;
-  document.getElementById("finalCorrect").textContent = `${state.responses.filter((response) => response.correct).length}/${TOTAL_QUESTIONS}`;
+  document.getElementById("finalCorrect").textContent = `${state.responses.filter((response) => response.correct).length}/${state.responses.length}`;
+  document.getElementById("finalReportTitle").textContent = `${state.responses.length}-question report`;
+  document.getElementById("extendCheck").hidden = TOTAL_QUESTIONS !== INITIAL_QUESTIONS || state.responses.length !== INITIAL_QUESTIONS;
+  document.getElementById("precisionNote").textContent = state.responses.length < MAX_QUESTIONS ? "This is an initial practice suggestion. More answers can confirm or change it and give more evidence about your grammar and vocabulary." : "Your suggestion now uses more answers. It remains a practice starting point, not a certified proficiency level.";
+  renderBandEvidence();
+  window.EnglishRoadStudy?.mount(document.getElementById("assessmentStudyTools"), {responses:state.responses, level:window.EnglishRoadLearning.practiceSuggestion(state.responses).level});
   const suggestion = window.EnglishRoadLearning.practiceSuggestion(state.responses);
   document.getElementById("finalSuggestion").textContent = suggestion.reason;
   document.getElementById("finalPracticeLink").href = practiceUrl();
@@ -558,17 +586,35 @@ function renderFinalReport() {
     `<a class="chip" href="${escapeHtml(practiceUrl(area.subcategory))}">${escapeHtml(area.label)} · ${area.correct}/${area.attempted} correct${area.attempted < 3 ? " · small sample" : ""} →</a>`).join("") || '<span class="chip">No missed answers recorded</span>';
 }
 
+function renderBandEvidence() {
+  document.getElementById("bandEvidence").innerHTML = window.EnglishRoadLearning.levels.map(level => {
+    const answers = state.responses.filter(r => window.EnglishRoadLearning.levelForDifficulty(r.difficulty) === level);
+    const correct = answers.filter(r => r.correct).length;
+    return `<tr><th scope="row">${level}</th><td>${answers.length ? `${correct} / ${answers.length}` : "Not sampled"}</td><td>${answers.length < 5 ? "Limited evidence" : correct / answers.length >= .75 ? "Supports trying this band" : "More practice suggested"}</td></tr>`;
+  }).join("");
+}
+function extendCheck() {
+  if (TOTAL_QUESTIONS !== INITIAL_QUESTIONS || state.responses.length !== INITIAL_QUESTIONS) return;
+  TOTAL_QUESTIONS = MAX_QUESTIONS;
+  state.completedAt = "";
+  state.mixTargets = createMixTargets();
+  persistSession();
+  updateResults();
+  renderQuestion();
+  window.EnglishRoadUI.focusQuestion("questionText");
+}
+
 function renderReportPreview(finished) {
   const preview = document.getElementById("reportPreview");
   if (!preview) return;
   preview.hidden = finished;
-  document.getElementById("reportPreviewNote").textContent = `Your report will be available after ${TOTAL_QUESTIONS} answers.`;
+  document.getElementById("reportPreviewNote").textContent = `Your first report will be available after ${INITIAL_QUESTIONS} answers. You can then continue to ${MAX_QUESTIONS}.`;
 }
 
 function copyFinalReport() {
   const status = document.getElementById("copyReportStatus");
-  if (state.responses.length < TOTAL_QUESTIONS) {
-    if (status) status.textContent = `Available after ${TOTAL_QUESTIONS} answers.`;
+  if (state.responses.length < INITIAL_QUESTIONS) {
+    if (status) status.textContent = `Available after ${INITIAL_QUESTIONS} answers.`;
     return;
   }
   const report = buildReportText();
@@ -642,20 +688,27 @@ function formatReportDate(date) {
   });
 }
 
-function restart(event, options = {}) {
+async function restart(event, options = {}) {
   if (!options.skipConfirm && (state.responses.length || state.selected) && !window.confirm("Start a new level check? Your current answers will be cleared.")) return;
   if (event && !clearSavedSession()) return;
+  questionRequest++;
+  TOTAL_QUESTIONS = INITIAL_QUESTIONS;
+  delete document.getElementById("submitAnswer").dataset.retry;
   const shouldPersist = options.persist !== false;
   state.questionIndex = 0;
   state.selectionCue = 1.45;
   state.responses = [];
+  state.current = null;
+  state.selected = "";
+  state.answered = false;
+  state.mixTargets = createMixTargets();
   state.candidateOrder = createCandidateOrder();
   state.usedIds = new Set();
   state.usedTexts = new Set();
   state.completedAt = "";
   state.optionPositionCounts = [0, 0, 0, 0];
   updateResults();
-  renderQuestion({ persist: shouldPersist });
+  await renderQuestion({ persist: shouldPersist });
   if (event) window.EnglishRoadUI.focusQuestion("questionText");
 }
 
@@ -675,17 +728,27 @@ function persistSession() {
     selected: state.selected,
     currentId: state.current.id,
     completedAt: state.completedAt,
+    targetQuestions: TOTAL_QUESTIONS, legacy: TOTAL_QUESTIONS === 100,
     currentOptions: state.current.options,
     candidateOrderIds: state.candidateOrder.map((question) => question.id),
     responses: state.responses.map((response) => ({ id: response.id, options: response.options, selected: response.selected }))
   });
 }
 
-function restoreSession() {
+async function restoreSession() {
   const saved = sessionStore.read();
   if (!saved) return false;
   try {
-    if (saved.version !== SESSION_VERSION || saved.bankSize !== state.bank.length || saved.bankRevision !== BANK_REVISION) throw new Error("updated");
+    if (![5, SESSION_VERSION].includes(saved.version) || saved.bankSize !== state.bank.length || saved.bankRevision !== BANK_REVISION) throw new Error("updated");
+    const target = saved.version === 5 ? 100 : saved.targetQuestions;
+    if (![INITIAL_QUESTIONS, MAX_QUESTIONS].includes(target) && !(target === 100 && (saved.version === 5 || saved.legacy === true))) throw new Error("invalid");
+    if (!Array.isArray(saved.responses) || saved.responses.length > target) throw new Error("invalid");
+    const ids = [saved.currentId, ...saved.responses.map(r => r?.id)];
+    if (ids.some(id => !state.bank.some(q => q.id === id))) throw new Error("invalid");
+    if (window.EnglishRoadBank) {
+      try { await window.EnglishRoadBank.ensure(ids); } catch { throw new Error("download"); }
+    }
+    TOTAL_QUESTIONS = target;
     const byId = questionMap();
     const current = byId.get(saved.currentId);
     const order = saved.candidateOrderIds;
@@ -715,6 +778,8 @@ function restoreSession() {
     sessionStore.restored();
     return true;
   } catch (error) {
+    if (error.message === "download") throw error;
+    TOTAL_QUESTIONS = INITIAL_QUESTIONS;
     sessionStore.reject(error.message === "updated" ? "The questions and reports have been updated. The old saved attempt was cleared, and a new attempt is ready." : "The saved attempt is incomplete or unreadable. A new attempt is ready.");
     return false;
   }
@@ -964,12 +1029,16 @@ document.getElementById("languageSelect").addEventListener("change", (event) => 
   renderLanguageInfo(event.target.value);
 });
 document.getElementById("copyReport").addEventListener("click", copyFinalReport);
+document.getElementById("extendCheck").addEventListener("click", extendCheck);
 state.bank = createQuestionBank();
 const BANK_REVISION = window.EnglishRoadQuestions.bankRevision(state.bank);
 state.mixTargets = createMixTargets();
 document.getElementById("bankSize").textContent = state.bank.length.toLocaleString();
 renderLanguageInfo(document.getElementById("languageSelect").value);
-renderQaDashboard();
-if (!restoreSession()) restart();
-document.getElementById("restart").disabled = false;
-window.englishRoadReady();
+(async () => {
+  if (isQaDashboardEnabled() && window.EnglishRoadBank) await window.EnglishRoadBank.ensure(state.bank.map(q=>q.id));
+  renderQaDashboard();
+  if (await restoreSession()) window.englishRoadReady();
+  else await restart();
+  document.getElementById("restart").disabled = false;
+})().catch(() => window.englishRoadLoadError());

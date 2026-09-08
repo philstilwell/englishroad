@@ -3,14 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Review English grammar and vocabulary with 100 questions, answer explanations, and personal practice suggestions. A self-study review, not a proficiency test.">
+    <meta name="description" content="Get a grammar and vocabulary practice suggestion after 25 questions. Continue to 50 for more detail, then use targeted follow-up quizzes and ready-made AI prompts.">
     <meta name="theme-color" content="#FAF9F6">
     <meta name="englishroad-version" content="20260907-quotes-v1">
     <link rel="canonical" href="https://englishroad.com/level-check.html">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://englishroad.com/level-check.html">
-    <meta property="og:title" content="Grammar &amp; Vocabulary Check: 100 Questions | English Road">
-    <meta property="og:description" content="Review English grammar and vocabulary with 100 questions, answer explanations, and personal practice suggestions. A self-study review, not a proficiency test.">
+    <meta property="og:title" content="Grammar &amp; Vocabulary Check: 25–50 Questions | English Road">
+    <meta property="og:description" content="Get a grammar and vocabulary practice suggestion after 25 questions. Continue to 50 for more detail, then use targeted follow-up quizzes and ready-made AI prompts.">
     <meta property="og:image" content="https://englishroad.com/social-preview.png">
     <meta property="og:image:type" content="image/png">
     <meta property="og:image:width" content="1200">
@@ -18,13 +18,13 @@
     <meta name="referrer" content="strict-origin-when-cross-origin">
     <meta property="og:image:alt" content="English Road: grammar and vocabulary practice in the green English Family design">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Grammar &amp; Vocabulary Check: 100 Questions | English Road">
-    <meta name="twitter:description" content="Review English grammar and vocabulary with 100 questions, answer explanations, and personal practice suggestions. A self-study review, not a proficiency test.">
+    <meta name="twitter:title" content="Grammar &amp; Vocabulary Check: 25–50 Questions | English Road">
+    <meta name="twitter:description" content="Get a grammar and vocabulary practice suggestion after 25 questions. Continue to 50 for more detail, then use targeted follow-up quizzes and ready-made AI prompts.">
     <meta name="twitter:image" content="https://englishroad.com/social-preview.png">
-    <title>Grammar &amp; Vocabulary Check: 100 Questions | English Road</title>
+    <title>Grammar &amp; Vocabulary Check: 25–50 Questions | English Road</title>
     <link rel="icon" href="favicon.svg?v=20260907-audited-v2" type="image/svg+xml">
-    <link rel="stylesheet" href="family.css?v=20260907-help-size-v1">
-    <script src="site-header.js?v=20260907-floating-header-v1" defer></script>
+    <link rel="stylesheet" href="family.css?v=20260908-learning-v1">
+    <script src="site-header.js?v=20260908-learning-v1" defer></script>
     <link rel="stylesheet" href="styles.css?v=20260908-site-audit-v1">
   </head>
   <body>
@@ -46,7 +46,7 @@
             <h1 id="app-title">Find what to practice.</h1>
             <div class="save-bar"><p id="saveStatus" role="status" aria-live="polite">Progress can be saved in this browser.</p><button id="deleteStudentData" class="text-action danger-action" type="button">Delete my data</button></div>
           </div>
-          <p>100 questions to explore your grammar and vocabulary. See what you answered correctly and choose what to practice next.</p>
+          <p>Start with 25 questions to explore your grammar and vocabulary. Continue to 50 for a more detailed practice suggestion. See what you answered correctly and choose what to practice next.</p>
         </div>
 
         <section id="introPanel" class="intro-panel is-collapsed" aria-label="Instructions and language help">
@@ -57,12 +57,12 @@
           <div id="instructionsContent" class="intro-grid is-hidden">
             <div class="intro-copy">
               <h2 id="intro-title">Explore your grammar and vocabulary.</h2>
-              <p>Answer 100 questions, beginning with easier practice. Review each answer and see topic-by-topic results. This activity does not assess speaking, listening, extended writing, or your overall English level.</p>
+              <p>Answer 25 questions, with an optional extension to 50, beginning with easier practice. Review each answer and see topic-by-topic results. This activity does not assess speaking, listening, extended writing, or your overall English level.</p>
               <ol class="simple-steps">
                 <li>Choose one answer, then select Check answer.</li>
                 <li>Read the explanation, then choose Next question.</li>
                 <li>Check the save status. Use Delete my data any time to clear this browser.</li>
-                <li>After 100 answers, copy your activity report and follow a topic link into practice.</li>
+                <li>After 25 answers, copy your activity report and follow a topic link into practice.</li>
               </ol>
               <p><a href="about.html#method">How the questions and practice suggestions work</a></p>
             </div>
@@ -99,8 +99,8 @@
           <article class="panel assessment-panel" aria-label="Level check question">
             <div class="progress-row">
               <div>
-                <p class="progress-count">Question <span id="questionNumber">1</span> of <span id="totalQuestions">100</span></p>
-                <p id="answerProgress" class="progress-detail">0 of 100 answered</p>
+                <p class="progress-count">Question <span id="questionNumber">1</span> of <span id="totalQuestions">25</span></p>
+                <p id="answerProgress" class="progress-detail">0 of 25 answered</p>
               </div>
               <div id="meterSegments" class="meter result-meter" aria-hidden="true"></div>
             </div>
@@ -114,7 +114,7 @@
               <button id="restart" class="ghost-action" type="button" disabled>Start again</button>
             </div>
             <p id="feedback" class="feedback" role="status" aria-live="polite" aria-atomic="true"></p>
-            <a id="completionLink" class="completion-link" href="#finalReport" hidden>Level check complete. View your report ↓</a>
+            <a id="completionLink" class="completion-link" href="#finalReport" hidden>View your report and AI practice options ↓</a>
             <p class="screenshot-note">Choose one answer, then check it. Your answer is locked after checking.</p>
           </article>
 
@@ -134,7 +134,7 @@
               <p><a id="suggestedPractice" href="practice.html">Try a practice quiz →</a></p>
               <p class="side-note">Practice bands are approximate content labels, not a measured CEFR level. You can change bands.</p>
             </section>
-            <section id="reportPreview" class="report-preview" aria-label="Report availability"><p id="reportPreviewNote">Your report will be available after 100 answers.</p></section>
+            <section id="reportPreview" class="report-preview" aria-label="Report availability"><p id="reportPreviewNote">Your report will be available after 25 answers.</p></section>
 
             <section id="practiceSuggestions" hidden class="weaknesses" aria-labelledby="weakness-title">
               <h3 id="weakness-title">Things to practice</h3><p class="side-note">Choose a topic for focused practice. A few answers cannot establish a lasting strength or weakness.</p>
@@ -165,18 +165,18 @@
           <div class="final-report-header">
             <div>
               <p class="label">English Road · Unofficial final report</p>
-              <h2 id="finalReportTitle">Level check complete</h2>
+              <h2 id="finalReportTitle" tabindex="-1">Level check complete</h2>
               <p id="finalReportDate" class="final-report-date">Completed: —</p>
             </div>
             <div class="final-correct">
               <span>Total correct</span>
-              <strong id="finalCorrect">0/100</strong>
+              <strong id="finalCorrect">0/25</strong>
             </div>
           </div>
           <p>This report records a self-study grammar and vocabulary activity. It does not measure an overall English level, predict examination scores, or certify proficiency.</p>
           <div class="final-report-actions">
             <button id="copyReport" class="ghost-action copy-report-action" type="button" disabled>Copy report text</button>
-            <span id="copyReportStatus" class="copy-status" role="status">Available after 100 answers.</span>
+            <span id="copyReportStatus" class="copy-status" role="status">Available after 25 answers.</span>
           </div>
 
           <div id="manualCopyReport" class="manual-copy-report" hidden>
@@ -185,6 +185,13 @@
           </div>
 
           <p id="finalSuggestion"></p>
+          <p id="precisionNote"></p>
+          <button id="extendCheck" class="primary-action" type="button" hidden>Refine my result: continue to 50 questions</button>
+          <details class="band-evidence"><summary>See the evidence by practice band</summary>
+            <p>Five or more answers with at least 75% correct supports trying a band. These are practice guidelines, not validated proficiency thresholds.</p>
+            <table><thead><tr><th>Practice band</th><th>Correct / answered</th><th>What this suggests</th></tr></thead><tbody id="bandEvidence"></tbody></table>
+          </details>
+          <section id="assessmentStudyTools" class="study-tools" aria-labelledby="assessmentStudyTools-title" hidden></section>
           <div class="final-area-grid">
             <section aria-labelledby="strongAreasTitle">
               <h3 id="strongAreasTitle">Consistent answers in this activity</h3>
@@ -210,6 +217,6 @@
       </section>
       <footer class="site-footer"><span>English Road · Find your next step. <a href="about.html">About &amp; privacy</a></span><a href="https://englishladder.com/">Read today’s English lesson at English Ladder <span aria-hidden="true">↗</span></a></footer>
     </main>
-    <script src="quiz-loader.js?v=20260907-audited-v2" data-app="app.js" data-version="20260908-site-audit-v1"></script>
+    <script src="quiz-loader.js?v=20260908-learning-v1" data-app="app.js" data-version="20260908-learning-v1"></script>
   </body>
 </html>

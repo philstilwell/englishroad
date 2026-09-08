@@ -4,29 +4,31 @@ Static Cloudflare Workers site for `englishroad.com`, with source and automatic 
 
 English Road offers grammar and vocabulary self-study, using 4,200 available quiz items across 35 topics and six practice bands.
 
-- **Level Check**: a 100-question review with answer explanations, correct-answer totals, topic counts, and a copyable activity report. It does not claim a measured CEFR level, numerical confidence, or predicted examination scores.
-- **Practice**: 25-question mixed sets across A1–C2 practice bands, or shorter focused topic sets. No question repeats within an attempt. A completed quiz offers a review and an optional study prompt containing the learner’s actual choices.
+- **Level Check**: a 25-question review, with an optional extension to 50 questions with answer explanations, correct-answer totals, topic counts, a copyable activity report, and ready-made AI lessons. The report shows supporting evidence by practice band. It does not claim a measured CEFR level, numerical confidence, or predicted examination scores.
+- **Practice**: 25-question mixed sets across A1–C2 practice bands, or shorter focused topic sets. No question repeats within an attempt. A completed quiz offers an answer review and prominent AI lesson controls, focused on missed answers, a topic, or an individual item. Follow-up quizzes offer up to 10 unseen questions on that focus.
 - **About and privacy**: the method, limits of the completed AI-assisted editorial review, and deletion controls.
 
-Both tools can save one attempt in the browser. Save failures are visible and unsaved work has a leave warning. Each quiz page has a Delete my data button that clears English Road browser data and resets the current page. Previous sessions using obsolete questions/calculations cannot be resumed. A content fingerprint detects changed questions even if the saved-session format has not changed. Concurrent changes in another tab are detected before overwriting them.
+Both tools can save one attempt in the browser. The assessment checkpoint target is saved too; older 100-question attempts remain resumable. Save failures are visible and unsaved work has a leave warning. Each quiz page has a Delete my data button that clears English Road browser data and resets the current page. Previous sessions using obsolete questions/calculations cannot be resumed. A content fingerprint detects changed questions even if the saved-session format has not changed. Concurrent changes in another tab are detected before overwriting them.
 
 ## Shared code and data
 
 - `editorial/items/`: item-level editorial source and audit decisions. The compiler prevents an incomplete audit from replacing the active bank.
-- `coverage-bank-data.js`: compiled, individually authored records for all 4,200 items, with 20 per topic and practice band. It does not create question variants by substituting words into templates.
+- `coverage-bank-data.js`: internal compiled, individually authored records for all 4,200 items, with 20 per topic and practice band. It does not create question variants by substituting words into templates.
+- `bank-index.js`, `bank-loader.js`, `data/questions/`: a small catalogue and 210 verified topic/band files loaded on demand. The original full bank is no longer a public download. Files use content-based names, integrity checks, bounded download timeouts, and retry support; saved attempts keep the same content fingerprint.
+- `study-tools.js`: fully written coaching, vocabulary, grammar, and dialogue prompts, plus targeted follow-up selection. No AI service is called.
 - `question-engine.js`: one bank builder, authored explanations, display helpers, option ordering, and structural validation. Every active item records its AI-assisted review provenance and date.
 - `learning-summary.js`: whole-history difficulty pacing and conservative, changeable practice suggestions. The logistic pacing cue is internal only; it is not a validated proficiency score. It has no recency weighting, and an incorrect response cannot increase it.
 - `site-ui.js`: save status, saved-data deletion and validation helpers, and question focus/scroll behavior.
-- `quiz-loader.js`: concurrent script fetching with ordered execution, bounded waiting, and retry guidance. Each app signals readiness only after initialization succeeds.
+- `quiz-loader.js`: concurrent script fetching with ordered execution, bounded waiting, and retry guidance. Each app signals readiness only after initialization succeeds, including saved-question downloads.
 - `app.js` / `practice.js`: the distinct activity flows and saved-session handling.
 
 Suggested bands require at least five responses in the band and at least 75% correct; suggestions appear after ten total answers. When no band qualifies, A1 is offered as a starting point. These are transparent practice rules, not psychometric thresholds. Topic links choose an available band closest to the general suggestion, and learners can change it.
 
 ## Checks before publishing
 
-Run `node scripts/check.cjs` (Node.js 22 or newer). No dependency installation is needed. It checks the active bank size, unique question-and-choice combinations, answer metadata, known content regressions, minimum topic/band coverage, monotonic pacing, order independence for identical responses, full synthetic runs, all six mixed sets, and every topic/band combination. These checks do not establish linguistic correctness or CEFR validity.
+Run `node scripts/check.cjs` (Node.js 22 or newer). No dependency installation is needed. It checks the active bank size, unique question-and-choice combinations, answer metadata, known content regressions, minimum topic/band coverage, monotonic pacing, order independence for identical responses, 25-, 50-, and legacy 100-question synthetic runs, on-demand loading integrity and retry checks, all six mixed sets, and every topic/band combination. These checks do not establish linguistic correctness or CEFR validity.
 
-The [full audit report](editorial/AUDIT-REPORT.md) links to all 35 readable item sets and their individual decisions. After editing the source, run `node scripts/balance-editorial-options.cjs`, `node scripts/compile-editorial-bank.cjs`, and `node scripts/check-editorial-bank.cjs --full-checks`. Recreate the screening and review copies with `node scripts/screen-reviewed-items.cjs` followed by `node scripts/write-editorial-report.cjs`. Publishing requires `node scripts/compile-editorial-bank.cjs --check` to confirm the active file matches all 4,200 reviewed records.
+The [full audit report](editorial/AUDIT-REPORT.md) links to all 35 readable item sets and their individual decisions. After editing the source, run `node scripts/balance-editorial-options.cjs`, `node scripts/compile-editorial-bank.cjs`, `node scripts/split-question-bank.cjs`, and `node scripts/check-editorial-bank.cjs --full-checks`. Recreate the screening and review copies with `node scripts/screen-reviewed-items.cjs` followed by `node scripts/write-editorial-report.cjs`. Publishing requires `node scripts/compile-editorial-bank.cjs --check` to confirm the active file matches all 4,200 reviewed records.
 
 For browser verification, test both complete quiz flows, selected/checked/completed restore, ordinary navigation, 320-pixel Next positioning, keyboard focus, nine help languages, clipboard actions, Delete my data, blocked storage, obsolete/corrupt saves, script failures and retry, and every public page at 320/390/768/1280 pixels. Use an isolated browser profile; do not clear a learner’s actual progress. Keep temporary evidence under ignored `output/`.
 
@@ -40,7 +42,7 @@ Cloudflare Web Analytics uses **Automatic setup** for the public domain. Cloudfl
 
 Cloudflare's existing GitHub integration publishes the `main` branch to the `englishroad` Worker. `wrangler.jsonc` runs the question checks and `cloudflare/build.cjs`, which stages only public files under ignored `.cf-site/`. No paid Worker code or databases are required.
 
-Public `.html` addresses are preserved, `/` serves `index.html`, and missing pages return a real 404. Preview addresses on `workers.dev` carry `X-Robots-Tag: noindex, nofollow`; the public domain remains indexable. Files revalidate with browsers so updates do not strand learners on older scripts. Learner storage stays on the same domain.
+Public `.html` addresses are preserved, `/` serves `index.html`, and missing pages return a real 404. Preview addresses on `workers.dev` carry `X-Robots-Tag: noindex, nofollow`; the public domain remains indexable. HTML and scripts revalidate with browsers. Content-named question files use long-lived immutable caching; their catalogue changes with the content. Learner storage stays on the same domain.
 
 Validate a deployment with:
 

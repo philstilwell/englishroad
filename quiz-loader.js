@@ -11,6 +11,7 @@
     status.setAttribute("role", "alert");
   }
   const timeout = setTimeout(fail, 10000);
+  window.englishRoadLoadError = fail;
   window.englishRoadReady = () => {
     finished = true;
     clearTimeout(timeout);
@@ -32,8 +33,8 @@
   }
   (async () => {
     try {
-      await Promise.all(["site-ui.js", "coverage-bank-data.js", "question-engine.js", "learning-summary.js", app].map(load));
-      if (!finished) fail();
+      await Promise.all(["site-ui.js", "bank-index.js", "bank-loader.js", "question-engine.js", "learning-summary.js", "study-tools.js", app].map(load));
+
     } catch { clearTimeout(timeout); fail(); }
     finally { window.removeEventListener("error", runtimeError); }
   })();

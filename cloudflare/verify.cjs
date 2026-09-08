@@ -32,7 +32,7 @@ function get(file) {
   const home = await get('/');
   if (crypto.createHash('sha256').update(home).digest('hex') !== manifest.files['index.html']) errors.push('Homepage mismatch');
   for (const missing of ['/missing-migration-check-74629.html','/.git/config','/README.md','/cloudflare/build.cjs',
-    '/editorial/items/articles.json','/editorial/AUDIT-REPORT.md','/scripts/compile-editorial-bank.cjs','/item-bank-data.js']) {
+    '/editorial/items/articles.json','/editorial/AUDIT-REPORT.md','/scripts/compile-editorial-bank.cjs','/item-bank-data.js','/coverage-bank-data.js']) {
     const status = cp.execFileSync('curl',[...connection,'-sS','-o','/dev/null','-w','%{http_code}','--max-time','30',new URL(missing,origin).href],{encoding:'utf8'});
     if (status !== '404') errors.push(`${missing}: expected 404, got ${status}`);
   }

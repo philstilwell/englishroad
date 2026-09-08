@@ -7,12 +7,14 @@ const crypto = require('node:crypto');
 const root = path.resolve(__dirname, '..');
 // Publish only a complete bank that matches its individually reviewed source.
 cp.execFileSync(process.execPath, [path.join(root, 'scripts', 'compile-editorial-bank.cjs'), '--check'], { cwd: root, stdio: 'inherit' });
+cp.execFileSync(process.execPath, [path.join(root, 'scripts', 'split-question-bank.cjs'), '--check'], {cwd:root, stdio:'inherit'});
 const out = path.join(root, '.cf-site');
 const domain = fs.readFileSync(path.join(root, 'CNAME'), 'utf8').trim();
 const publicDirs = new Set(['assets', 'pdf', 'prompts', 'news', 'stories', 'grammar-concepts', 'english-for-work', 'sitemaps', 'archive', 'data']);
 const extensions = new Set(['.html', '.css', '.js', '.svg', '.png', '.jpg', '.jpeg', '.webp', '.ico', '.pdf', '.txt', '.json', '.xml', '.woff', '.woff2', '.ttf']);
 const paths = cp.execFileSync('git', ['ls-files', '-z', '--cached', '--others', '--exclude-standard'], {cwd: root, encoding: 'utf8'}).split('\0').filter(Boolean);
 const files = [...new Set(paths)].filter(file => {
+  if (file === 'coverage-bank-data.js') return false;
   const parts = file.split('/');
   if (parts.some(part => part.startsWith('.'))) return false;
   if (parts.length > 1) return publicDirs.has(parts[0]) && extensions.has(path.extname(file));
@@ -68,6 +70,9 @@ fs.writeFileSync(path.join(out, '_headers'), `/*
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Cache-Control: public, max-age=0, must-revalidate
+
+/data/questions/*
+  Cache-Control: public, max-age=31536000, immutable
 
 https://:worker.philstilwell.workers.dev/*
   X-Robots-Tag: noindex, nofollow

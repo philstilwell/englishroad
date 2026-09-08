@@ -27,14 +27,16 @@ The audit implementation supersedes the first design release’s scoring and sto
 - Display observed performance and small-sample cautions. Do not restore unvalidated confidence percentages, examination conversions, or measured CEFR claims.
 - Draw both tools from the same balanced bank and explanation engine. Practice bands describe content, not certified learner ability. Every topic in every practice band must have at least five active items.
 - Keep native radio controls, clear focus, locked checked answers, and explicit correct/incorrect feedback. Keep feedback stationary; scroll the new question into view when Next is chosen.
-- Level Check has 100 questions; mixed Practice has 25; focused Practice can be shorter. Both tools show truthful saving status, offer an always-visible Delete my data button, and can resume compatible browser-saved attempts.
+- New Level Checks show a report after 25 questions and offer an extension to 50; legacy 100-question saves remain resumable; mixed Practice has 25; focused Practice can be shorter. Both tools show truthful saving status, offer an always-visible Delete my data button, and can resume compatible browser-saved attempts.
 - Ask before replacing unfinished attempts. Make obsolete/corrupt data notices visible and clear old incompatible data without offering downloads.
-- Show the AI study prompt only after completion, including the learner’s choices. Copying writes to the clipboard only.
+- Show fully written AI prompts at the assessment report checkpoint and directly before completed practice reviews, including the learner’s choices. Provide topic/item focus and targeted follow-up questions. Copying writes to the clipboard only.
 - Report topic links carry a practice band and topic, without individual answers. English Ladder links are broad reading-track suggestions with no personal data in the URL.
-- Loading failures offer recovery and never silently leave a permanent disabled button.
+- Load question text on demand in verified topic/band files; keep saved progress intact when a download fails. Loading failures offer recovery and never silently leave a permanent disabled button.
 
 ## Verification
 
 Use the checks in README.md and `node scripts/check.cjs`. Browser verification covers complete sessions, mobile Next positioning, narrow widths, save/restore/failure states, loading errors, translated language metadata, focused topic sets, clipboard, and screenshots. Accessibility scans supplement manual checks; they do not prove complete accessibility.
 
 Use `output/playwright/` for local screenshots. The shared social card is a browser capture of the updated homepage, not generated artwork. The existing legacy banner files are no longer referenced by active page metadata.
+
+On phones, the header stays sticky at about 61 CSS pixels with a Menu button. Its navigation remains a native link list, with Escape and outside-click dismissal. Without JavaScript, the links remain visible.

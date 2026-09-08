@@ -18,19 +18,45 @@ const state = {
   optionPositionCounts: [0, 0, 0, 0]
 };
 
-let copyPromptResetTimer = null;
+let practiceRequest = 0;
 
-function startPractice(event) {
+async function startPractice(event, followup = null) {
   if (event) event.preventDefault();
   const unfinished = (state.responses.length || state.selected) && state.index < state.quiz.length;
   const savedUnfinished = savedAttempt && (savedAttempt.responses.length || savedAttempt.selected) && savedAttempt.index < savedAttempt.quiz.length;
-  if ((unfinished || savedUnfinished) && !window.confirm("Start a new practice quiz? This replaces your unfinished saved practice.")) return;
-  const level = document.getElementById("levelSelect").value;
-  const topic = document.getElementById("topicSelect").value;
-  const quiz = selectQuizItems(level, topic);
-  if (!quiz.length || !sessionStore.remove({ allowUnsaved: true })) return;
+  if ((unfinished || savedUnfinished) && !window.confirm("Start a new practice quiz? This replaces your unfinished saved practice.")) return "cancelled";
+  const level = followup?.level || document.getElementById("levelSelect").value;
+  const topic = followup?.topics.length === 1 ? followup.topics[0] : followup ? "" : document.getElementById("topicSelect").value;
+  const candidates = followup ? selectFollowupItems(followup) : selectQuizItems(level, topic);
+  if (!candidates.length) {
+    document.getElementById("setupStatus").textContent = "You have used all available questions for this focus. Choose another topic or use the AI prompt for fresh questions.";
+    if (followup && document.querySelector('#practiceStudyTools [data-study-status]')) document.querySelector('#practiceStudyTools [data-study-status]').textContent = "No unseen questions remain for this focus. Choose another focus or copy the AI prompt for more practice.";
+    return;
+  }
+  const request = ++practiceRequest;
+  const start = document.getElementById("startPracticeQuiz");
+  start.disabled = true; start.textContent = "Loading questions…";
+  try {
+    if (window.EnglishRoadBank) await window.EnglishRoadBank.ensure(candidates.map(q=>q.id));
+    if (request !== practiceRequest) return;
+  } catch {
+    if (request !== practiceRequest) return;
+    updateSetup();
+    const message = "The questions could not load. Your previous quiz is unchanged. " + (followup ? "Reload this page to retry the follow-up, or try the follow-up button again." : "Check your connection and try again.");
+    document.getElementById("setupStatus").textContent = message;
+    const followupStatus = document.querySelector('#practiceStudyTools [data-study-status]');
+    if (followupStatus) followupStatus.textContent = message;
+    return;
+  }
+  if (!sessionStore.remove({ allowUnsaved: true })) {updateSetup();return;}
+  const quiz = applyBalancedOptionOrders(candidates, [0,0,0,0]);
+  state.excludeIds = followup?.excludeIds || [];
+  state.followup = Boolean(followup);
   state.level = level;
   state.topic = topic;
+  document.getElementById("levelSelect").value = level;
+  document.getElementById("topicSelect").value = topic;
+  updateSetup();
   state.quiz = quiz;
   state.index = 0;
   state.selected = "";
@@ -43,6 +69,7 @@ function startPractice(event) {
   renderPractice();
   persistPractice();
   window.EnglishRoadUI.focusQuestion("practicePrompt");
+  return true;
 }
 
 function activatePractice() {
@@ -92,7 +119,7 @@ function balancedSample(candidates, length) {
     if (selected.length >= length) break;
   }
 
-  return applyBalancedOptionOrders(selected.slice(0, length), state.optionPositionCounts);
+  return selected.slice(0, length);
 }
 
 function createPracticeTrackers() {
@@ -289,7 +316,7 @@ function renderPracticeReview() {
   review.hidden = false;
   review.innerHTML = `
     <h2 id="practiceReviewTitle">Review answers</h2>
-    <p>Use this after the quiz to see the answer, the main reason, and your selected choice.</p>
+    <p>Review each answer, or choose “Ask AI about this item” for a focused lesson.</p>
     <div class="review-list">
       ${state.responses.map((response, index) => {
         const selectedRationale = response.rationales && response.rationales[response.selected]
@@ -306,6 +333,7 @@ function renderPracticeReview() {
             <p class="review-meta">Correct answer: <strong>${escapeHtml(response.answer)}</strong></p>
             <p class="review-rationale">${escapeHtml(response.explanation || "This is the best answer for the item.")}</p>
             <p class="review-rationale">${escapeHtml(selectedLine)}</p>
+            <button type="button" class="text-action" data-study-item="${escapeHtml(response.id)}">Ask AI about this item</button>
           </article>
         `;
       }).join("")}
@@ -313,72 +341,23 @@ function renderPracticeReview() {
   `;
 }
 
-function renderAiPrompt() {
-  const completed = state.quiz.length > 0 && state.index >= state.quiz.length;
-  document.getElementById("aiPromptBox").hidden = !completed;
-  const promptField = document.getElementById("aiPromptText");
-  const status = document.getElementById("copyAiPromptStatus");
-  if (!promptField) return;
-  promptField.value = completed ? buildAiPrompt() : "";
-  resetCopyPromptButton();
-  if (status) status.textContent = "";
+function renderAiPrompt(focus) {
+  const container = document.getElementById("practiceStudyTools");
+  const completed = state.quiz.length && state.index >= state.quiz.length;
+  container.hidden = !completed;
+  if (!completed) {container.replaceChildren(); return;}
+  window.EnglishRoadStudy.mount(container, {responses:state.responses, level:state.level, excludeIds:state.excludeIds || [], focus,
+    onFollowup: plan => startPractice(null, plan)});
 }
-
 function buildAiPrompt() {
   if (!state.quiz.length || state.index < state.quiz.length) return "";
-  const missed = state.responses.filter((response) => !response.correct);
-  const review = missed.length ? missed : state.responses;
-  return [
-    `Help me review my completed English Road ${state.level} practice quiz${state.topic ? ` on ${learnerSubcategory(state.topic)}` : ""}.`,
-    "This is self-study grammar and vocabulary practice, not a validated English-level assessment.",
-    missed.length ? "Focus on my missed answers below." : "All my answers matched the key. Help me reinforce the patterns below.",
-    "For each question, explain how my choice differs from the keyed answer. Check whether the key and explanation are defensible; flag ambiguity or valid alternatives instead of assuming the key is always right.",
-    "Use simple English and give three new example sentences for each pattern. Do not infer an examination score or overall English level.",
-    "", ...review.map((response) => formatItemForAiPrompt(response, state.responses.indexOf(response)))
-  ].join("\n\n");
+  const missed = state.responses.filter(r=>!r.correct);
+  return window.EnglishRoadStudy.buildPrompt(missed.length ? missed : state.responses, state.level);
 }
-
-function formatItemForAiPrompt(item, index) {
-  return [
-    `Item ${index + 1} [${item.id}]`,
-    `Context and instruction: ${item.setupText}`,
-    `Question: ${item.taskText}`,
-    `Choices: ${item.options.join(" | ")}`,
-    `My answer: ${item.selected}`,
-    `Keyed answer: ${item.answer}`,
-    `Site explanation: ${item.explanation}`,
-    `Feedback on my answer: ${item.rationales[item.selected]}`,
-    `Area: ${item.category} / ${learnerSubcategory(item.subcategory)}`
-  ].join("\n");
-}
-
-function copyAiPrompt() {
-  const button = document.getElementById("copyAiPrompt");
-  const status = document.getElementById("copyAiPromptStatus");
-  const prompt = document.getElementById("aiPromptText").value;
-  if (!prompt) return;
-  copyText(prompt)
-    .then(() => {
-      if (status) status.textContent = "Study prompt copied. Paste it into your chosen AI service.";
-      if (!button) return;
-      button.textContent = "Copied!";
-      button.classList.add("is-copied");
-      window.clearTimeout(copyPromptResetTimer);
-      copyPromptResetTimer = window.setTimeout(resetCopyPromptButton, 5000);
-    })
-    .catch(() => {
-      resetCopyPromptButton();
-      if (status) status.textContent = "Copy did not work. Select the text and copy it.";
-    });
-}
-
-function resetCopyPromptButton() {
-  const button = document.getElementById("copyAiPrompt");
-  window.clearTimeout(copyPromptResetTimer);
-  copyPromptResetTimer = null;
-  if (!button) return;
-  button.textContent = "Copy study prompt";
-  button.classList.remove("is-copied");
+function formatItemForAiPrompt(item, index) {return window.EnglishRoadStudy.formatItem(item, index);}
+function selectFollowupItems(plan) {
+  const excluded = new Set(plan.excludeIds);
+  return balancedSample(practicePool(plan.level).filter(q=>plan.topics.includes(q.subcategory) && !excluded.has(q.id)), 10);
 }
 
 function updatePracticeMeter(responses, total) {
@@ -426,19 +405,25 @@ function persistPractice() {
   sessionStore.save({
     version: PRACTICE_SESSION_VERSION, bankSize: state.bank.length, bankRevision: BANK_REVISION,
     level: state.level, topic: state.topic, index: state.index,
+    excludeIds: state.excludeIds || [], followup: state.followup || false,
     selected: state.selected, answered: state.answered,
     quiz: state.quiz.map((item) => ({ id: item.id, options: item.options })),
     responses: state.responses.map((response) => ({ id: response.id, selected: response.selected }))
   });
 }
 
-function readPractice() {
+async function readPractice() {
   const saved = sessionStore.read();
   if (!saved) return null;
   try {
     if (saved.version !== PRACTICE_SESSION_VERSION || saved.bankSize !== state.bank.length || saved.bankRevision !== BANK_REVISION) throw new Error("updated");
     if (!Object.hasOwn(levelBands, saved.level) || typeof saved.topic !== "string" || (saved.topic && !state.bank.some((q) => q.subcategory === saved.topic))) throw new Error("invalid");
     if (!Array.isArray(saved.quiz) || saved.quiz.length < 1 || saved.quiz.length > PRACTICE_LENGTH) throw new Error("invalid");
+    if (saved.quiz.some(item => !state.bank.some(q=>q.id === item?.id))) throw new Error("invalid");
+    if (window.EnglishRoadBank) {
+      try {await window.EnglishRoadBank.ensure(saved.quiz.map(item=>item.id));} catch {throw new Error("download");}
+    }
+    if (saved.excludeIds !== undefined && (!Array.isArray(saved.excludeIds) || saved.excludeIds.length > 4200 || saved.excludeIds.some(id=>!state.bank.some(q=>q.id===id)))) throw new Error("invalid");
     const byId = new Map(state.bank.map((question) => [question.id, question]));
     const quiz = saved.quiz.map((item) => {
       const question = item && byId.get(item.id);
@@ -456,6 +441,7 @@ function readPractice() {
     if (saved.answered && saved.selected !== responses.at(-1).selected) throw new Error("invalid");
     return { ...saved, quiz, responses };
   } catch (error) {
+    if (error.message === "download") throw error;
     sessionStore.reject(error.message === "updated" ? "The practice bank has changed. The old saved practice was cleared. Choose a new quiz." : "The saved practice is incomplete or unreadable. Choose a new quiz.");
     return null;
   }
@@ -463,7 +449,7 @@ function readPractice() {
 
 function resumePractice() {
   if (!savedAttempt) return;
-  Object.assign(state, { level: savedAttempt.level, topic: savedAttempt.topic, quiz: savedAttempt.quiz, responses: savedAttempt.responses, index: savedAttempt.index, selected: savedAttempt.selected, answered: savedAttempt.answered });
+  Object.assign(state, { level: savedAttempt.level, topic: savedAttempt.topic, quiz: savedAttempt.quiz, responses: savedAttempt.responses, index: savedAttempt.index, selected: savedAttempt.selected, answered: savedAttempt.answered, excludeIds: savedAttempt.excludeIds || [], followup: savedAttempt.followup || false });
   document.getElementById("levelSelect").value = state.level;
   document.getElementById("topicSelect").value = state.topic;
   updateSetup();
@@ -478,6 +464,7 @@ function resumePractice() {
 function clearStudentData() {
   if (!window.confirm("Delete all English Road data from this browser and reset this page? This cannot be undone.")) return;
   if (!sessionStore.clearAll()) return;
+  practiceRequest++;
   Object.assign(state, {
     quiz: [],
     index: 0,
@@ -521,15 +508,35 @@ document.getElementById("topicSelect").addEventListener("change", updateSetup);
 document.getElementById("checkPracticeAnswer").addEventListener("click", checkPracticeAnswer);
 document.getElementById("nextPracticeItem").addEventListener("click", nextPracticeItem);
 document.getElementById("restartPractice").addEventListener("click", startPractice);
-document.getElementById("copyAiPrompt").addEventListener("click", copyAiPrompt);
+document.getElementById("practiceReview").addEventListener("click", event => {
+  const button = event.target.closest('[data-study-item]');
+  if (!button) return;
+  renderAiPrompt(`item:${button.dataset.studyItem}`);
+  window.EnglishRoadUI.focusQuestion("practiceStudyTools-title");
+});
 document.getElementById("resumePractice").addEventListener("click", resumePractice);
 document.getElementById("deleteStudentData").addEventListener("click", clearStudentData);
 document.getElementById("bankSize").textContent = state.bank.length.toLocaleString();
-savedAttempt = readPractice();
-if (savedAttempt) {
-  document.getElementById("resumePracticeBox").hidden = false;
-  document.getElementById("resumePracticeMessage").textContent = `${savedAttempt.level} practice${savedAttempt.topic ? ` · ${learnerSubcategory(savedAttempt.topic)}` : ""}: ${savedAttempt.responses.length} of ${savedAttempt.quiz.length} answered.`;
-  document.getElementById("resumePractice").textContent = savedAttempt.index === savedAttempt.quiz.length ? "Open saved review" : "Resume saved quiz";
-}
-updateSetup();
-window.englishRoadReady();
+(async () => {
+  savedAttempt = await readPractice();
+  if (savedAttempt) {
+    document.getElementById("resumePracticeBox").hidden = false;
+    document.getElementById("resumePracticeMessage").textContent = `${savedAttempt.level} practice${savedAttempt.topic ? ` · ${learnerSubcategory(savedAttempt.topic)}` : ""}: ${savedAttempt.responses.length} of ${savedAttempt.quiz.length} answered.`;
+    document.getElementById("resumePractice").textContent = savedAttempt.index === savedAttempt.quiz.length ? "Open saved review" : "Resume saved quiz";
+  }
+  updateSetup();
+  window.englishRoadReady();
+  if (params.get("followup") === "1") {
+    let plan;
+    try {plan = JSON.parse(sessionStorage.getItem('englishroad-followup'));} catch {}
+    if (plan?.version === 1 && plan.revision === BANK_REVISION && Object.hasOwn(levelBands,plan.level) &&
+      Array.isArray(plan.topics) && plan.topics.length && plan.topics.every(t=>topics.includes(t)) &&
+      Array.isArray(plan.excludeIds) && plan.excludeIds.length <= 4200 && plan.excludeIds.every(id=>state.bank.some(q=>q.id===id))) {
+      const started = await startPractice(null,plan);
+      if (started) {
+        try {sessionStorage.removeItem('englishroad-followup');} catch {}
+        history.replaceState(null, '', location.pathname);
+      }
+    } else document.getElementById("setupStatus").textContent = "The follow-up selection is unavailable. Choose a topic to start fresh practice.";
+  }
+})().catch(() => window.englishRoadLoadError());

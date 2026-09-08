@@ -168,6 +168,7 @@ function copyText(text) {
 }
 
 function createQuestionBank() {
+  if (window.EnglishRoadBank) return window.EnglishRoadBank.bank;
   if (typeof window.createEnglishRoadCoverageBlueprints !== "function") {
     throw new Error("The question bank did not load. Please reload to try again.");
   }
@@ -589,6 +590,7 @@ function pick(values, index, offset = 0) {
 }
 
 function questionSignature(question) {
+  if (question._catalogue) return question.id;
   const optionKey = question.options.map(normalizeQuestionText).sort().join(" | ");
   return normalizeQuestionText(question.taskText) + " || " + optionKey;
 }
@@ -856,6 +858,7 @@ function hasDisplayGuidanceProblem(question) {
 }
 
 function bankRevision(bank) {
+  if (window.EnglishRoadBank && bank.every(q => q._catalogue)) return window.EnglishRoadBank.revision;
   // Context and feedback are part of an attempt too, not just its answer key.
   const content = JSON.stringify(bank.map((q) => [q.id, q.setupText, q.taskText, q.options, q.answer, q.explanation,
     q.options.map((option) => q.rationales?.[option]), q.category, q.subcategory, q.difficulty]));

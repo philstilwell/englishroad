@@ -8,7 +8,7 @@ function context(app) {
     crypto: { getRandomValues(values) { for (let i = 0; i < values.length; i++) { seed = (Math.imul(1664525, seed) + 1013904223) >>> 0; values[i] = seed; } } },
     EnglishRoadUI: { sessionStore: () => ({}) }
   } });
-  for (const file of ['coverage-bank-data.js', 'question-engine.js', 'learning-summary.js']) vm.runInContext(fs.readFileSync(file, 'utf8'), c);
+  for (const file of ['coverage-bank-data.js', 'question-engine.js', 'learning-summary.js', 'study-tools.js']) vm.runInContext(fs.readFileSync(file, 'utf8'), c);
   if (app) {
     let code = fs.readFileSync(app, 'utf8');
     code = code.slice(0, code.indexOf(app === 'app.js' ? '\nconst sessionStore =' : '\nstate.bank = createQuestionBank();'));
@@ -251,25 +251,25 @@ assert.equal(learning.practiceSuggestion([]).level, 'A1');
 assert.equal(learning.practiceSuggestion(Array.from({length: 4}, () => ({difficulty: 6, correct: true}))).level, 'A1');
 assert.equal(learning.practiceSuggestion(Array.from({length: 5}, () => ({difficulty: 6, correct: true}))).level, 'C2');
 const results = [];
-for (const pattern of ['all-correct', 'all-wrong', 'quarter-correct', 'early-correct', 'late-correct']) {
-  c.pattern = pattern;
+for (const quizLength of [25, 50, 100]) for (const pattern of ['all-correct', 'all-wrong', 'quarter-correct', 'early-correct', 'late-correct']) {
+  c.pattern = pattern; c.quizLength = quizLength;
   const result = run(`(() => {
-    state.questionIndex=0;state.selectionCue=1.45;state.responses=[];state.usedIds=new Set();state.usedTexts=new Set();state.optionPositionCounts=[0,0,0,0];state.mixTargets=createMixTargets();state.candidateOrder=createCandidateOrder();
-    for(let i=0;i<100;i++) {
+    TOTAL_QUESTIONS=quizLength;state.questionIndex=0;state.selectionCue=1.45;state.responses=[];state.usedIds=new Set();state.usedTexts=new Set();state.optionPositionCounts=[0,0,0,0];state.mixTargets=createMixTargets();state.candidateOrder=createCandidateOrder();
+    for(let i=0;i<quizLength;i++) {
       state.current=chooseQuestion();
-      const correct=pattern==='all-correct'?true:pattern==='all-wrong'?false:pattern==='quarter-correct'?i%4===0:pattern==='early-correct'?i<50:i>=50;
+      const correct=pattern==='all-correct'?true:pattern==='all-wrong'?false:pattern==='quarter-correct'?i%4===0:pattern==='early-correct'?i<quizLength/2:i>=quizLength/2;
       const previous=state.selectionCue;
       updateSelectionCue(correct);
       if ((!correct && state.selectionCue > previous + 1e-9) || (correct && state.selectionCue < previous - 1e-9)) throw new Error('Non-monotonic update');
       state.responses.push({...state.current,correct,selected:correct?state.current.answer:state.current.options.find(o=>o!==state.current.answer)});state.questionIndex++;
     }
-    return { pattern, correct:state.responses.filter(r=>r.correct).length, cue:state.selectionCue, distinct:new Set(state.responses.map(questionSignature)).size, report:buildReportText() };
+    return { pattern, correct:state.responses.filter(r=>r.correct).length, cue:state.selectionCue, distinct:new Set(state.responses.map(questionSignature)).size, report:buildReportText(), suggestion:window.EnglishRoadLearning.practiceSuggestion(state.responses).level };
   })()`);
-  assert.equal(result.distinct, 100);
+  assert.equal(result.distinct, quizLength);
   assert.doesNotMatch(result.report, /Confidence:|TOEFL iBT estimate:|CEFR estimate:|English Road level range:/);
   if(pattern === 'all-wrong') assert(result.cue < 1.01);
-  if(pattern === 'all-correct') assert(result.cue > 5.99);
-  results.push({ pattern, correct: result.correct, selectionCue: Number(result.cue.toFixed(2)), distinct: result.distinct });
+  if(pattern === 'all-correct') {assert(result.cue > 5.99);assert.equal(result.suggestion, 'C2', 'Strong answers must be able to reach advanced practice in the short check');}
+  results.push({ questions:quizLength, pattern, correct: result.correct, selectionCue: Number(result.cue.toFixed(2)), distinct: result.distinct });
 }
 const p = context('practice.js');
 assert.equal(JSON.stringify(bank), JSON.stringify(vm.runInContext('state.bank', p)), 'Both tools must use identical questions and feedback');
@@ -333,3 +333,11 @@ require('./check-ui.cjs');
   assert.match(elements.copyReportStatus.textContent, /Copy the selected report/);
   console.log('Clipboard-denial report recovery check passed.');
 })().catch(error => { console.error(error); process.exitCode = 1; });
+
+// Follow-ups use the selected topics and exclude every previously seen item.
+p.followupPlan = {level:'A2', topics:['Articles'], excludeIds:vm.runInContext("practicePool('A2', 'Articles').slice(0, 5).map(q=>q.id)",p)};
+const followup = vm.runInContext('selectFollowupItems(followupPlan)',p);
+assert.equal(followup.length,10);
+assert(followup.every(q=>q.subcategory==='Articles'&&!p.followupPlan.excludeIds.includes(q.id)));
+assert.equal(new Set(followup.map(q=>q.id)).size,10);
+require('./check-loading.cjs');
