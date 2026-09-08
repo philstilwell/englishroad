@@ -117,6 +117,8 @@ function innerItemSurface(question) {
 const levelCheckHtml = fs.readFileSync('level-check.html', 'utf8');
 const practiceHtml = fs.readFileSync('practice.html', 'utf8');
 const familyCss = fs.readFileSync('family.css', 'utf8');
+assert(/\.question-setup, \.prompt-help \{[^}]*font-size: 20px/.test(familyCss), 'Helpful information must use larger, readable text');
+assert(familyCss.includes('.question-setup > .question-part-label, .prompt-help > .part-label { font-size: inherit; }'), 'Helpful information labels must inherit the full quiz text size');
 assert(levelCheckHtml.includes('id="meterSegments"'), 'Level check needs a sequential result meter container');
 assert(practiceHtml.includes('id="practiceMeterSegments"'), 'Practice needs a sequential result meter container');
 assert(!levelCheckHtml.includes('id="meterFill"'), 'Old level-check single-fill meter should not return');
