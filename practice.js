@@ -168,7 +168,7 @@ function renderPractice() {
 
   document.getElementById("practicePrompt").innerHTML = `
     <div class="prompt-help">
-      <span class="part-label">Helpful information</span>
+      <span class="part-label">Information</span>
       ${escapeHtml(item.setupText)}
     </div>
     <div class="prompt-task">

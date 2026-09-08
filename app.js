@@ -371,7 +371,7 @@ function renderCurrentQuestion() {
   ].map((tag) => `<span class="tag">${tag}</span>`).join("");
   document.getElementById("questionText").innerHTML = `
     <span class="question-setup">
-      <span class="question-part-label">Helpful information</span>
+      <span class="question-part-label">Information</span>
       ${escapeHtml(state.current.setupText)}
     </span>
     <span class="question-stem">
