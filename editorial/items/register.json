@@ -1618,7 +1618,7 @@
       "id": "coverage-register-b1-3053",
       "level": "B1",
       "setupText": "You write a team memo about a printer: 'It's playing up again, so don't count on it.' The memo needs neutral, clear wording.",
-      "taskText": "Which version preserves the warning about an unreliable printer?",
+      "taskText": "Which version preserves the warning while using neutral, clear wording suitable for the team memo?",
       "options": [
         "The printer has been repaired and is ready to use.",
         "The printer has been removed from the office permanently.",
@@ -1626,18 +1626,19 @@
         "The printer is acting weird again, so don't bank on it."
       ],
       "answer": "The printer is faulty again, so it may not work reliably.",
-      "explanation": "This replaces the informal idioms with a clear statement of the fault and its practical consequence.",
+      "explanation": "'Faulty again' states the recurring problem directly, and 'may not work reliably' preserves the warning without conversational idioms.",
       "rationales": {
         "The printer has been repaired and is ready to use.": "This changes the warning into reassurance that the problem is resolved.",
         "The printer has been removed from the office permanently.": "This adds permanent removal, which the original does not state.",
-        "The printer is acting weird again, so don't bank on it.": "This retains conversational idioms instead of making the wording neutral and clear.",
-        "The printer is faulty again, so it may not work reliably.": "This replaces the informal idioms with a clear statement of the fault and its practical consequence."
+        "The printer is acting weird again, so don't bank on it.": "This preserves the warning, but 'acting weird' and 'don't bank on it' are informal expressions. The memo calls for neutral, clear wording.",
+        "The printer is faulty again, so it may not work reliably.": "'Faulty again' states the recurring problem directly, and 'may not work reliably' preserves the warning without conversational idioms."
       },
       "audit": {
         "status": "reviewed",
         "decision": "replaced",
         "findings": [
-          "The manual/team-review version was a repeated request with a grammar-based setup inappropriate to register."
+          "The manual/team-review version was a repeated request with a grammar-based setup inappropriate to register.",
+          "The replacement question asked only which version preserved the warning, which both the neutral and informal paraphrases did. Clarified the requirement for neutral memo wording and acknowledged the informal option's preserved meaning in its feedback."
         ],
         "microSkill": "Neutralizing conversational equipment idioms",
         "pedagogicalValue": "Keeps the useful warning while making a memo easier to understand.",

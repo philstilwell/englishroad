@@ -64,4 +64,4 @@ Advisory screening found 0 close wording pairs, 0 repeated explanations, 0 flagg
 
 See [the review guide](REVIEW-GUIDE.md), [audit status and language references](AUDIT-STATUS.md), and [browser verification](BROWSER-VERIFICATION.md) for the method, qualifications, and observed interface checks.
 
-Editorial source SHA-256: `ca639955a2de767d690cd1ce10a4e238dd563a84bd50533ec2d798819ee4ed2b`. This fingerprint ties this report and the compiled bank to the same source records.
+Editorial source SHA-256: `1cff2654603eb9682c2b634cd6a5fac5a7ebf8ae2ba66c4d6addda7ad602cb34`. This fingerprint ties this report and the compiled bank to the same source records.

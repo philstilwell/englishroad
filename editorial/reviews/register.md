@@ -1684,25 +1684,25 @@ ID: `coverage-register-b1-3053`
 
 You write a team memo about a printer: 'It's playing up again, so don't count on it.' The memo needs neutral, clear wording.
 
-Which version preserves the warning about an unreliable printer?
+Which version preserves the warning while using neutral, clear wording suitable for the team memo?
 
 1. The printer has been repaired and is ready to use.
 2. The printer has been removed from the office permanently.
 3. The printer is faulty again, so it may not work reliably. **[Correct]**
 4. The printer is acting weird again, so don't bank on it.
 
-**Explanation:** This replaces the informal idioms with a clear statement of the fault and its practical consequence.
+**Explanation:** 'Faulty again' states the recurring problem directly, and 'may not work reliably' preserves the warning without conversational idioms.
 
 **Choice feedback:**
 
 - **The printer has been repaired and is ready to use.:** This changes the warning into reassurance that the problem is resolved.
 - **The printer has been removed from the office permanently.:** This adds permanent removal, which the original does not state.
-- **The printer is faulty again, so it may not work reliably.:** This replaces the informal idioms with a clear statement of the fault and its practical consequence.
-- **The printer is acting weird again, so don't bank on it.:** This retains conversational idioms instead of making the wording neutral and clear.
+- **The printer is faulty again, so it may not work reliably.:** 'Faulty again' states the recurring problem directly, and 'may not work reliably' preserves the warning without conversational idioms.
+- **The printer is acting weird again, so don't bank on it.:** This preserves the warning, but 'acting weird' and 'don't bank on it' are informal expressions. The memo calls for neutral, clear wording.
 
 **Decision:** replaced.
 
-**Original findings:** The manual/team-review version was a repeated request with a grammar-based setup inappropriate to register.
+**Original findings:** The manual/team-review version was a repeated request with a grammar-based setup inappropriate to register. The replacement question asked only which version preserved the warning, which both the neutral and informal paraphrases did. Clarified the requirement for neutral memo wording and acknowledged the informal option's preserved meaning in its feedback.
 
 **Learning value:** Keeps the useful warning while making a memo easier to understand.
 
