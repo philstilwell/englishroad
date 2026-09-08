@@ -1682,7 +1682,7 @@ Choose a polite question that checks that meaning.
 
 ID: `coverage-register-b1-3053`
 
-You write a team memo about a printer: 'It's playing up again, so don't count on it.' The memo needs neutral, clear wording.
+You write a team memo about a printer: 'It's acting up again, so don't count on it.' The memo needs neutral, clear wording.
 
 Which version preserves the warning while using neutral, clear wording suitable for the team memo?
 

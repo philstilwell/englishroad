@@ -1617,7 +1617,7 @@
     {
       "id": "coverage-register-b1-3053",
       "level": "B1",
-      "setupText": "You write a team memo about a printer: 'It's playing up again, so don't count on it.' The memo needs neutral, clear wording.",
+      "setupText": "You write a team memo about a printer: 'It's acting up again, so don't count on it.' The memo needs neutral, clear wording.",
       "taskText": "Which version preserves the warning while using neutral, clear wording suitable for the team memo?",
       "options": [
         "The printer has been repaired and is ready to use.",
