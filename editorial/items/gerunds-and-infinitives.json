@@ -14,12 +14,12 @@
         "bought"
       ],
       "answer": "to buy",
-      "explanation": "Want takes to + basic verb: want to buy.",
+      "explanation": "'Want' takes 'to' + basic verb: 'want to buy'.",
       "rationales": {
-        "buy": "After want, use to before the action verb.",
-        "to buy": "Want takes to + basic verb: want to buy.",
+        "buy": "After 'want', use 'to' before the action verb.",
+        "to buy": "'Want' takes 'to' + basic verb: 'want to buy'.",
         "to buying": "Use buy, not buying, after this to.",
-        "bought": "Bought is a past form; want needs to buy here."
+        "bought": "'Bought' is a past form; 'want' needs 'to buy' here."
       },
       "audit": {
         "status": "reviewed",
@@ -45,12 +45,12 @@
         "uses"
       ],
       "answer": "to use",
-      "explanation": "Learn to + verb describes learning how to do something.",
+      "explanation": "'Learn to' + verb describes learning how to do something.",
       "rationales": {
-        "to use": "Learn to + verb describes learning how to do something.",
-        "use": "Learn needs to before use in this sentence.",
+        "to use": "'Learn to' + verb describes learning how to do something.",
+        "use": "'Learn' needs 'to' before 'use' in this sentence.",
         "to used": "Use the basic form use after to, not used.",
-        "uses": "Uses cannot follow learning here; say learning to use."
+        "uses": "'Uses' cannot follow 'learning' here; say 'learning to use'."
       },
       "audit": {
         "status": "reviewed",
@@ -78,10 +78,10 @@
       "answer": "cooking",
       "explanation": "Enjoy + -ing describes an activity you find pleasant.",
       "rationales": {
-        "to cook": "Enjoy takes cooking, not to cook.",
-        "cook": "Use the -ing form of the action after enjoy.",
+        "to cook": "'Enjoy' takes 'cooking', not 'to cook'.",
+        "cook": "Use the -ing form of the action after 'enjoy'.",
         "cooking": "Enjoy + -ing describes an activity you find pleasant.",
-        "cooked": "Cooked is a past form; it does not name the activity after enjoy."
+        "cooked": "'Cooked' is a past form; it does not name the activity after 'enjoy'."
       },
       "audit": {
         "status": "reviewed",
@@ -107,12 +107,12 @@
         "to rented"
       ],
       "answer": "to rent",
-      "explanation": "Hope to + verb expresses a desired future action.",
+      "explanation": "'Hope to' + verb expresses a desired future action.",
       "rationales": {
-        "renting": "Hope does not take renting directly in this sentence; use hope to rent.",
-        "rent": "Put to before rent after hope.",
-        "to rented": "To is followed by the basic verb rent, not rented.",
-        "to rent": "Hope to + verb expresses a desired future action."
+        "renting": "'Hope' does not take 'renting' directly in this sentence; use 'hope to rent'.",
+        "rent": "Put 'to' before 'rent' after 'hope'.",
+        "to rented": "'To' is followed by the basic verb 'rent', not 'rented'.",
+        "to rent": "'Hope to' + verb expresses a desired future action."
       },
       "audit": {
         "status": "reviewed",
@@ -138,12 +138,12 @@
         "Cycled"
       ],
       "answer": "Cycling",
-      "explanation": "Cycling names an activity and can be the subject before is.",
+      "explanation": "'Cycling' names an activity and can be the subject before 'is'.",
       "rationales": {
         "Cycle": "The basic verb alone cannot be the subject of this statement.",
-        "Cycling": "Cycling names an activity and can be the subject before is.",
-        "Cycles": "Cycles is plural, so it cannot fit this singular activity statement with is.",
-        "Cycled": "Cycled describes a past action; it does not name the activity here."
+        "Cycling": "'Cycling' names an activity and can be the subject before 'is'.",
+        "Cycles": "'Cycles' is plural, so it cannot fit this singular activity statement with 'is'.",
+        "Cycled": "'Cycled' describes a past action; it does not name the activity here."
       },
       "audit": {
         "status": "reviewed",
@@ -171,10 +171,10 @@
       "answer": "to buy",
       "explanation": "To buy gives the reason for going: buying fruit was your purpose.",
       "rationales": {
-        "bought": "A past verb cannot connect this purpose to went without another clause.",
-        "buy": "The basic verb needs to when it gives the purpose of going.",
+        "bought": "A past verb cannot connect this purpose to 'went' without another clause.",
+        "buy": "The basic verb needs 'to' when it gives the purpose of going.",
         "to buy": "To buy gives the reason for going: buying fruit was your purpose.",
-        "to buying": "A purpose phrase uses to + basic verb, not to buying."
+        "to buying": "A purpose phrase uses 'to' + basic verb, not 'to buying'."
       },
       "audit": {
         "status": "reviewed",
@@ -203,7 +203,7 @@
       "explanation": "Like can take an -ing activity. Like to read would also be grammatical, but it is not one of these options.",
       "rationales": {
         "I like read travel books.": "After like, use reading or to read, not read alone.",
-        "I like to reading travel books.": "To takes the basic form read in this pattern, not reading.",
+        "I like to reading travel books.": "'To' takes the basic form 'read' in this pattern, not 'reading'.",
         "I like reads travel books.": "Do not use reads after like; use reading or to read.",
         "I like reading travel books.": "Like can take an -ing activity. Like to read would also be grammatical, but it is not one of these options."
       },
@@ -231,12 +231,12 @@
         "to meet"
       ],
       "answer": "to meet",
-      "explanation": "Nice to meet you is a common greeting when people first meet.",
+      "explanation": "'Nice to meet you' is a common greeting when people first meet.",
       "rationales": {
-        "to meet": "Nice to meet you is a common greeting when people first meet.",
+        "to meet": "'Nice to meet you' is a common greeting when people first meet.",
         "meet": "In this greeting, use nice to meet, not nice meet.",
-        "to meeting": "After to in this phrase, use meet without -ing.",
-        "met": "Met is a past form; the greeting needs to meet."
+        "to meeting": "After 'to' in this phrase, use 'meet' without '-ing'.",
+        "met": "'Met' is a past form; the greeting needs 'to meet'."
       },
       "audit": {
         "status": "reviewed",
@@ -262,10 +262,10 @@
         "eating"
       ],
       "answer": "eating",
-      "explanation": "Finish eating means completing the activity of eating.",
+      "explanation": "'Finish eating' means completing the activity of eating.",
       "rationales": {
         "eat": "Finish needs the -ing form of the activity.",
-        "eating": "Finish eating means completing the activity of eating.",
+        "eating": "'Finish eating' means completing the activity of eating.",
         "to eat": "Use finish eating, not finish to eat.",
         "to eating": "Do not put to before the -ing form after finish."
       },
@@ -293,11 +293,11 @@
         "to went"
       ],
       "answer": "to go",
-      "explanation": "Ready to + verb says you are prepared for the action.",
+      "explanation": "'Ready to' + verb says you are prepared for the action.",
       "rationales": {
-        "going": "Ready is followed by to go in this sentence, not going alone.",
-        "go": "Put to before go after ready.",
-        "to go": "Ready to + verb says you are prepared for the action.",
+        "going": "'Ready' is followed by 'to go' in this sentence, not 'going' alone.",
+        "go": "Put 'to' before 'go' after 'ready'.",
+        "to go": "'Ready to' + verb says you are prepared for the action.",
         "to went": "Use go, not the past form went, after to."
       },
       "audit": {
@@ -324,12 +324,12 @@
         "shopped"
       ],
       "answer": "shopping",
-      "explanation": "Go shopping is a common phrase for the activity of visiting shops to buy things.",
+      "explanation": "'Go shopping' is a common phrase for the activity of visiting shops to buy things.",
       "rationales": {
-        "shops": "Shops cannot follow go to name this activity; use shopping.",
-        "to shopping": "Do not add to before shopping in the activity phrase go shopping.",
+        "shops": "'Shops' cannot follow 'go' to name this activity; use 'shopping'.",
+        "to shopping": "Do not add 'to' before 'shopping' in the activity phrase 'go shopping'.",
         "shopped": "A past form does not follow go to name this activity.",
-        "shopping": "Go shopping is a common phrase for the activity of visiting shops to buy things."
+        "shopping": "'Go shopping' is a common phrase for the activity of visiting shops to buy things."
       },
       "audit": {
         "status": "reviewed",
@@ -355,12 +355,12 @@
         "to called"
       ],
       "answer": "to call",
-      "explanation": "Use want + person + to + verb when you want another person to act.",
+      "explanation": "Use 'want' + person + 'to' + verb when you want another person to act.",
       "rationales": {
-        "to call": "Use want + person + to + verb when you want another person to act.",
-        "called": "Called me cannot follow I want my brother in this pattern; use my brother to call me.",
-        "calls": "Calls is a finite verb; this want pattern needs to call.",
-        "to called": "Use call, not called, after to."
+        "to call": "Use 'want' + person + 'to' + verb when you want another person to act.",
+        "called": "'Called me' cannot follow 'I want my brother' in this pattern; use 'my brother to call me'.",
+        "calls": "'Calls' is a finite verb; this 'want' pattern needs 'to call'.",
+        "to called": "Use 'call', not 'called', after 'to'."
       },
       "audit": {
         "status": "reviewed",
@@ -388,9 +388,9 @@
       "answer": "reading",
       "explanation": "Use an -ing activity after good at: good at reading maps.",
       "rationales": {
-        "to read": "After the preposition at, use reading rather than to read.",
+        "to read": "After the preposition 'at', use 'reading' rather than 'to read'.",
         "reading": "Use an -ing activity after good at: good at reading maps.",
-        "reads": "Reads cannot follow at to name an activity.",
+        "reads": "'Reads' cannot follow 'at' to name an activity.",
         "to reading": "The needed preposition at is already present; do not add to."
       },
       "audit": {
@@ -417,11 +417,11 @@
         "drank"
       ],
       "answer": "to drink",
-      "explanation": "Something to drink means something available for a person to drink.",
+      "explanation": "'Something to drink' means something available for a person to drink.",
       "rationales": {
-        "drinks": "Drinks cannot directly follow something in this phrase.",
-        "to drinking": "Use the basic verb drink after to here.",
-        "to drink": "Something to drink means something available for a person to drink.",
+        "drinks": "'Drinks' cannot directly follow 'something' in this phrase.",
+        "to drinking": "Use the basic verb 'drink' after 'to' here.",
+        "to drink": "'Something to drink' means something available for a person to drink.",
         "drank": "The past form drank does not describe what something is available for."
       },
       "audit": {
@@ -451,8 +451,8 @@
       "explanation": "Thank you for + -ing expresses thanks for an action.",
       "rationales": {
         "help": "After for, use helping to name the action.",
-        "to help": "For is followed by helping here, not a to-infinitive.",
-        "helped": "Helped is a past form, but for needs the activity form helping.",
+        "to help": "'For' is followed by 'helping' here, not a to-infinitive.",
+        "helped": "'Helped' is a past form, but 'for' needs the activity form 'helping'.",
         "helping": "Thank you for + -ing expresses thanks for an action."
       },
       "audit": {
@@ -479,11 +479,11 @@
         "to close"
       ],
       "answer": "to close",
-      "explanation": "It's time to + verb says the moment for that action has arrived.",
+      "explanation": "\"It's time to\" + verb says the moment for that action has arrived.",
       "rationales": {
-        "to close": "It's time to + verb says the moment for that action has arrived.",
+        "to close": "\"It's time to\" + verb says the moment for that action has arrived.",
         "closing": "Use time to close for this meaning, not time closing.",
-        "close": "The action needs to after time in this phrase.",
+        "close": "The action needs 'to' after 'time' in this phrase.",
         "to closed": "Use close rather than the past form closed after to."
       },
       "audit": {
@@ -514,7 +514,7 @@
       "rationales": {
         "run": "Stop needs running when the instruction is to end this activity.",
         "running": "Stop running asks someone to end the activity of running.",
-        "to running": "Stop does not take to plus an -ing form here.",
+        "to running": "'Stop' does not take 'to' plus an -ing form here.",
         "ran": "A past form cannot follow stop in this instruction."
       },
       "audit": {
@@ -541,11 +541,11 @@
         "to is"
       ],
       "answer": "to be",
-      "explanation": "Want takes to + basic verb, including be before an adjective.",
+      "explanation": "'Want' takes 'to' + basic verb, including 'be' before an adjective.",
       "rationales": {
-        "is": "Is cannot directly follow wants; use wants to be.",
+        "is": "'Is' cannot directly follow 'wants'; use 'wants to be'.",
         "to being": "After this to, use the basic form be.",
-        "to be": "Want takes to + basic verb, including be before an adjective.",
+        "to be": "'Want' takes 'to' + basic verb, including 'be' before an adjective.",
         "to is": "The basic form is be, not is, after to."
       },
       "audit": {
@@ -574,7 +574,7 @@
       "answer": "I started writing the letter.",
       "explanation": "Start can take writing. Started to write would also be correct, but it is not offered here.",
       "rationales": {
-        "I started writes the letter.": "Writes cannot follow started to name the next action.",
+        "I started writes the letter.": "'Writes' cannot follow 'started' to name the next action.",
         "I started to wrote the letter.": "After to, the basic form would be write, not wrote.",
         "I started write the letter.": "Start needs writing or to write, not write alone.",
         "I started writing the letter.": "Start can take writing. Started to write would also be correct, but it is not offered here."
@@ -606,7 +606,7 @@
       "explanation": "Enjoy walking says the activity is pleasant for you.",
       "rationales": {
         "I enjoy walking after dinner.": "Enjoy walking says the activity is pleasant for you.",
-        "I need to walk after dinner.": "Need to describes something necessary, not something you enjoy.",
+        "I need to walk after dinner.": "'Need to' describes something necessary, not something you enjoy.",
         "I forgot to walk after dinner.": "Forgot to says an intended walk did not happen because you forgot it.",
         "I agreed to walk after dinner.": "Agreed to accepts a plan for a walk; it does not say that you enjoy walking."
       },
@@ -636,9 +636,9 @@
       "answer": "touching",
       "explanation": "After before, an -ing form can name the action: before touching the food.",
       "rationales": {
-        "to touch": "Before does not take a to-infinitive for this action.",
+        "to touch": "'Before' does not take a to-infinitive for this action.",
         "touching": "After before, an -ing form can name the action: before touching the food.",
-        "touches": "A clause with touches would need its own subject; this phrase uses touching.",
+        "touches": "A clause with 'touches' would need its own subject; this phrase uses 'touching'.",
         "to touching": "Do not insert to between before and touching."
       },
       "audit": {
@@ -696,12 +696,12 @@
         "not to booked"
       ],
       "answer": "not to book",
-      "explanation": "Decide not to + verb expresses a decision against an action.",
+      "explanation": "'Decide not to' + verb expresses a decision against an action.",
       "rationales": {
-        "not booking": "Decide needs an infinitive or a clause here; use decided not to book.",
-        "not book": "The infinitive after decided requires to.",
-        "not to booked": "Use the basic verb book after to.",
-        "not to book": "Decide not to + verb expresses a decision against an action."
+        "not booking": "'Decide' needs an infinitive or a clause here; use 'decided not to book'.",
+        "not book": "The infinitive after 'decided' requires 'to'.",
+        "not to booked": "Use the basic verb 'book' after 'to'.",
+        "not to book": "'Decide not to' + verb expresses a decision against an action."
       },
       "audit": {
         "status": "reviewed",
@@ -729,10 +729,10 @@
       "answer": "parking",
       "explanation": "Avoid + -ing identifies the activity you should not do.",
       "rationales": {
-        "to park": "Avoid takes parking, not to park.",
-        "park": "Use an -ing activity after avoid.",
+        "to park": "'Avoid' takes 'parking', not 'to park'.",
+        "park": "Use an -ing activity after 'avoid'.",
         "parking": "Avoid + -ing identifies the activity you should not do.",
-        "to parking": "Avoid does not take the added preposition to in this pattern."
+        "to parking": "'Avoid' does not take the added preposition 'to' in this pattern."
       },
       "audit": {
         "status": "reviewed",
@@ -793,8 +793,8 @@
       "rationales": {
         "Leila accepts the extra work.": "With agreed to cover, the subject Leila is also the person who will cover the shift.",
         "Jo accepts the extra work.": "Jo is part of the earlier conversation, not the subject of agreed to cover.",
-        "Leila asks Jo to accept the extra work.": "Agreed to cover describes Leila's agreement, not a request to Jo.",
-        "Leila refuses the extra work.": "Agreed expresses acceptance, not refusal."
+        "Leila asks Jo to accept the extra work.": "'Agreed to cover' describes Leila's agreement, not a request to Jo.",
+        "Leila refuses the extra work.": "'Agreed' expresses acceptance, not refusal."
       },
       "audit": {
         "status": "reviewed",
@@ -851,12 +851,12 @@
         "to fit"
       ],
       "answer": "to fit",
-      "explanation": "How to + verb can name a method or explain an action.",
+      "explanation": "'How to' + verb can name a method or explain an action.",
       "rationales": {
-        "fitting": "After how in this instruction phrase, use to fit rather than fitting.",
+        "fitting": "After 'how' in this instruction phrase, use 'to fit' rather than 'fitting'.",
         "fit": "The phrase is how to fit, not how fit.",
         "to fitted": "Use the basic form fit after to.",
-        "to fit": "How to + verb can name a method or explain an action."
+        "to fit": "'How to' + verb can name a method or explain an action."
       },
       "audit": {
         "status": "reviewed",
@@ -884,10 +884,10 @@
       "answer": "taking",
       "explanation": "Without taking says the departure happened but taking the umbrella did not.",
       "rationales": {
-        "to take": "Without takes an -ing phrase rather than to take.",
+        "to take": "'Without' takes an -ing phrase rather than 'to take'.",
         "taking": "Without taking says the departure happened but taking the umbrella did not.",
-        "took": "Took is a past verb; without needs taking in this phrase.",
-        "to taking": "Do not add to after without."
+        "took": "'Took' is a past verb; 'without' needs 'taking' in this phrase.",
+        "to taking": "Do not add 'to' after 'without'."
       },
       "audit": {
         "status": "reviewed",
@@ -917,7 +917,7 @@
       "rationales": {
         "to drive": "Offer to + verb proposes an action the person offering will perform.",
         "driving": "After offered, the proposed action uses to drive here.",
-        "drive": "The infinitive after offered needs to.",
+        "drive": "The infinitive after 'offered' needs 'to'.",
         "to drove": "Use drive rather than the past form drove after to."
       },
       "audit": {
@@ -947,7 +947,7 @@
       "explanation": "Spend + time + -ing says how the time was used.",
       "rationales": {
         "to assemble": "After spend time, use assembling to name the activity.",
-        "assemble": "The basic verb cannot directly follow an hour in this spend-time pattern.",
+        "assemble": "The basic verb cannot directly follow 'an hour' in this spend-time pattern.",
         "assembling": "Spend + time + -ing says how the time was used.",
         "to assembling": "Do not insert to before the -ing activity after spent an hour."
       },
@@ -975,12 +975,12 @@
         "to fitting"
       ],
       "answer": "to fit",
-      "explanation": "Too + adjective + to + verb says the degree prevents the action or result.",
+      "explanation": "'Too' + adjective + 'to' + verb says the degree prevents the action or result.",
       "rationales": {
-        "fitting": "Too large takes to fit in this result pattern, not fitting.",
-        "fit": "Add to before the verb after too large.",
+        "fitting": "'Too large' takes 'to fit' in this result pattern, not 'fitting'.",
+        "fit": "Add 'to' before the verb after 'too large'.",
         "to fitting": "Use fit, not fitting, after this to.",
-        "to fit": "Too + adjective + to + verb says the degree prevents the action or result."
+        "to fit": "'Too' + adjective + 'to' + verb says the degree prevents the action or result."
       },
       "audit": {
         "status": "reviewed",
@@ -1006,12 +1006,12 @@
         "introduced"
       ],
       "answer": "introducing",
-      "explanation": "Practice takes an -ing activity: practiced introducing myself.",
+      "explanation": "'Practice' takes an -ing activity: 'practiced introducing myself'.",
       "rationales": {
-        "introducing": "Practice takes an -ing activity: practiced introducing myself.",
+        "introducing": "'Practice' takes an -ing activity: 'practiced introducing myself'.",
         "to introduce": "Practice does not directly take to introduce as its complement here.",
         "introduce": "Use introducing after practiced, not introduce alone.",
-        "introduced": "Introduced is a past form; the practiced activity needs introducing."
+        "introduced": "'Introduced' is a past form; the practiced activity needs 'introducing'."
       },
       "audit": {
         "status": "reviewed",
@@ -1037,10 +1037,10 @@
         "The speaker and the driver together."
       ],
       "answer": "The delivery driver.",
-      "explanation": "In expect + person + to + verb, that person performs the expected action.",
+      "explanation": "In 'expect' + person + 'to' + verb, that person performs the expected action.",
       "rationales": {
         "The speaker.": "The object the delivery driver, not I, performs the action in to arrive.",
-        "The delivery driver.": "In expect + person + to + verb, that person performs the expected action.",
+        "The delivery driver.": "In 'expect' + person + 'to' + verb, that person performs the expected action.",
         "The person who ordered the goods.": "The sentence identifies the driver; it does not identify who ordered anything.",
         "The speaker and the driver together.": "Only the driver is attached to the expected arrival; no shared arrival is stated."
       },
@@ -1071,9 +1071,9 @@
       "explanation": "Miss + -ing describes an activity or experience that you no longer have and would like again.",
       "rationales": {
         "to live": "Miss uses living to name the activity or situation you feel the loss of.",
-        "live": "A basic verb alone cannot complete miss here.",
+        "live": "A basic verb alone cannot complete 'miss' here.",
         "living": "Miss + -ing describes an activity or experience that you no longer have and would like again.",
-        "lived": "Lived is a past form, but the complement after miss needs living."
+        "lived": "'Lived' is a past form, but the complement after 'miss' needs 'living'."
       },
       "audit": {
         "status": "reviewed",
@@ -1102,7 +1102,7 @@
       "explanation": "Teach + person + to + verb identifies the learner and the skill taught.",
       "rationales": {
         "changing": "In taught me + action, use to change rather than changing.",
-        "changed": "Changed is a past form, not the infinitive needed after taught me.",
+        "changed": "'Changed' is a past form, not the infinitive needed after 'taught me'.",
         "to changing": "This to requires the basic form change.",
         "to change": "Teach + person + to + verb identifies the learner and the skill taught."
       },
@@ -1130,12 +1130,12 @@
         "to taking"
       ],
       "answer": "taking",
-      "explanation": "Suggest takes an -ing activity here: suggested taking the earlier bus.",
+      "explanation": "'Suggest' takes an -ing activity here: 'suggested taking the earlier bus'.",
       "rationales": {
-        "taking": "Suggest takes an -ing activity here: suggested taking the earlier bus.",
+        "taking": "'Suggest' takes an -ing activity here: 'suggested taking the earlier bus'.",
         "to take": "Do not directly follow suggested with to take in this pattern.",
         "take": "A clause with take would need a subject, as in suggested that we take.",
-        "to taking": "Suggest does not require an extra to before taking."
+        "to taking": "'Suggest' does not require an extra 'to' before 'taking'."
       },
       "audit": {
         "status": "reviewed",
@@ -1161,12 +1161,12 @@
         "The customer hoped to give an address."
       ],
       "answer": "The customer refused to give an address.",
-      "explanation": "Refused to + verb expresses unwillingness to perform the requested action.",
+      "explanation": "'Refused to' + verb expresses unwillingness to perform the requested action.",
       "rationales": {
-        "The customer forgot to give an address.": "Forgot to describes an omission caused by memory, not an unwilling response to the requests.",
+        "The customer forgot to give an address.": "'Forgot to' describes an omission caused by memory, not an unwilling response to the requests.",
         "The customer offered to give an address.": "Offered to volunteers the action rather than refusing it.",
-        "The customer refused to give an address.": "Refused to + verb expresses unwillingness to perform the requested action.",
-        "The customer hoped to give an address.": "Hoped to expresses a desired action, not refusal."
+        "The customer refused to give an address.": "'Refused to' + verb expresses unwillingness to perform the requested action.",
+        "The customer hoped to give an address.": "'Hoped to' expresses a desired action, not refusal."
       },
       "audit": {
         "status": "reviewed",
@@ -1194,9 +1194,9 @@
       "answer": "closing",
       "explanation": "Would you mind + -ing is a polite way to ask someone to act.",
       "rationales": {
-        "to close": "Mind takes closing, not to close, in this request.",
+        "to close": "'Mind' takes 'closing', not 'to close', in this request.",
         "closing": "Would you mind + -ing is a polite way to ask someone to act.",
-        "close": "Use the -ing form after mind, not the basic verb alone.",
+        "close": "Use the -ing form after 'mind', not the basic verb alone.",
         "to closing": "Do not put to before closing after mind."
       },
       "audit": {
@@ -1225,7 +1225,7 @@
       "answer": "not to wear",
       "explanation": "Ask + person + not to + verb reports a request against an action.",
       "rationales": {
-        "don't wear": "After asked us, use an infinitive phrase, not the direct instruction don't wear.",
+        "don't wear": "After 'asked us', use an infinitive phrase, not the direct instruction \"don't wear\".",
         "not wearing": "This reported request needs not to wear after us.",
         "not to wore": "Use wear rather than wore after to.",
         "not to wear": "Ask + person + not to + verb reports a request against an action."
@@ -1256,9 +1256,9 @@
       "answer": "repairing",
       "explanation": "Agree on + -ing names the action people have jointly selected.",
       "rationales": {
-        "to repair": "The preposition on needs repairing, not a to-infinitive.",
+        "to repair": "The preposition 'on' needs 'repairing', not a to-infinitive.",
         "repairing": "Agree on + -ing names the action people have jointly selected.",
-        "repair": "The noun would need wording such as the repair of the fence; this action phrase needs repairing the fence.",
+        "repair": "The noun would need wording such as 'the repair of the fence'; this action phrase needs 'repairing the fence'.",
         "repaired": "Repaired is not the activity form required after on."
       },
       "audit": {
@@ -1285,9 +1285,9 @@
         "to open / open"
       ],
       "answer": "opening / to opening",
-      "explanation": "Both admit doing and admit to doing are grammatical; to is a preposition in the second pattern.",
+      "explanation": "Both 'admit doing' and 'admit to doing' are grammatical; 'to' is a preposition in the second pattern.",
       "rationales": {
-        "opening / to opening": "Both admit doing and admit to doing are grammatical; to is a preposition in the second pattern.",
+        "opening / to opening": "Both 'admit doing' and 'admit to doing' are grammatical; 'to' is a preposition in the second pattern.",
         "opening / to open": "Opening works, but admitted to open does not express this admission; use to opening.",
         "open / to opening": "To opening works, but the basic form open cannot directly follow admitted here.",
         "to open / open": "Neither the to-infinitive nor the basic form fits this admission pattern."
@@ -1316,12 +1316,12 @@
         "to pack"
       ],
       "answer": "to pack",
-      "explanation": "Remember to pack means keep the task in mind and do it before leaving.",
+      "explanation": "'Remember to pack' means keep the task in mind and do it before leaving.",
       "rationales": {
         "packing": "Remember packing recalls a previous action; this reminder concerns an action still to do.",
         "pack": "Remember needs to pack for a future duty, not pack alone.",
         "to packing": "Use the basic form pack after to in this reminder.",
-        "to pack": "Remember to pack means keep the task in mind and do it before leaving."
+        "to pack": "'Remember to pack' means keep the task in mind and do it before leaving."
       },
       "audit": {
         "status": "reviewed",
@@ -1347,11 +1347,11 @@
         "handing"
       ],
       "answer": "handing",
-      "explanation": "Remember + -ing recalls an experience; the thanks is a detail of that remembered event.",
+      "explanation": "'Remember' + -ing recalls an experience; 'the thanks' is a detail of that remembered event.",
       "rationales": {
         "to hand": "Remember to hand concerns remembering a task to perform, not recollecting the scene described.",
         "hand": "The basic form hand cannot directly complete remember here.",
-        "handing": "Remember + -ing recalls an experience; the thanks is a detail of that remembered event.",
+        "handing": "'Remember' + -ing recalls an experience; 'the thanks' is a detail of that remembered event.",
         "to handing": "This memory pattern takes handing without to."
       },
       "audit": {
@@ -1380,7 +1380,7 @@
       "answer": "to hear",
       "explanation": "Manage to + verb reports success despite a difficulty.",
       "rationales": {
-        "hearing": "Manage meaning succeed takes to hear, not hearing directly.",
+        "hearing": "'Manage' meaning 'succeed' takes 'to hear', not 'hearing' directly.",
         "to hear": "Manage to + verb reports success despite a difficulty.",
         "hear": "Put to before the action after managed.",
         "to heard": "Use the basic form hear, not heard, after to."
@@ -1412,9 +1412,9 @@
       "explanation": "Stop to + verb means pause another activity in order to do this action.",
       "rationales": {
         "to buy": "Stop to + verb means pause another activity in order to do this action.",
-        "buying": "Stopped buying would mean she ended the activity of buying coffee.",
+        "buying": "'Stopped buying' would mean she ended the activity of buying coffee.",
         "buy": "The purpose of the stop needs to buy, not buy alone.",
-        "to buying": "A purpose infinitive uses the basic form buy after to."
+        "to buying": "A purpose infinitive uses the basic form 'buy' after 'to'."
       },
       "audit": {
         "status": "reviewed",
@@ -1443,7 +1443,7 @@
       "explanation": "Never forget + -ing describes a past experience that remains memorable.",
       "rationales": {
         "to see": "Forget to see would concern failing to carry out a task, not remembering an experience.",
-        "see": "Forget cannot take see alone to name this memory.",
+        "see": "'Forget' cannot take 'see' alone to name this memory.",
         "seeing": "Never forget + -ing describes a past experience that remains memorable.",
         "to seeing": "Use seeing without to after forget in this memory pattern."
       },
@@ -1475,7 +1475,7 @@
       "rationales": {
         "restart": "Try needs restarting or to restart as a complement, not restart alone here.",
         "to restarting": "Do not combine to with restarting in this pattern.",
-        "restarted": "Restarted is a past form; it cannot name the proposed experiment after try.",
+        "restarted": "'Restarted' is a past form; it cannot name the proposed experiment after 'try'.",
         "restarting": "Try + -ing suggests doing something as an experiment to see whether it solves a problem."
       },
       "audit": {
@@ -1502,10 +1502,10 @@
         "to answering"
       ],
       "answer": "to answer",
-      "explanation": "Mean to + verb expresses an intention; the context shows it was not carried out.",
+      "explanation": "'Mean to' + verb expresses an intention; the context shows it was not carried out.",
       "rationales": {
-        "answering": "Meant answering would mean involved answering, not intended to answer.",
-        "to answer": "Mean to + verb expresses an intention; the context shows it was not carried out.",
+        "answering": "'Meant answering' would mean 'involved answering', not 'intended to answer'.",
+        "to answer": "'Mean to' + verb expresses an intention; the context shows it was not carried out.",
         "answer": "The intended action needs to before answer after meant.",
         "to answering": "This to is followed by the basic verb answer, not answering."
       },
@@ -1536,7 +1536,7 @@
       "explanation": "Regret + -ing expresses unhappiness about an earlier action, here the completed sale.",
       "rationales": {
         "selling": "Regret + -ing expresses unhappiness about an earlier action, here the completed sale.",
-        "to sell": "Regret to is used especially when announcing unwelcome information; it does not describe this completed sale.",
+        "to sell": "'Regret to' is used especially when announcing unwelcome information; it does not describe this completed sale.",
         "sell": "Regret does not directly take the basic form sell in this meaning.",
         "to selling": "The past action after regret uses selling without to."
       },
@@ -1564,12 +1564,12 @@
         "met"
       ],
       "answer": "meeting",
-      "explanation": "Look forward to takes an -ing activity because to is a preposition here.",
+      "explanation": "'Look forward to' takes an -ing activity because 'to' is a preposition here.",
       "rationales": {
-        "meet": "To in look forward to is a preposition, so the action takes -ing.",
+        "meet": "'To' in 'look forward to' is a preposition, so the action takes '-ing'.",
         "to meet": "The existing to belongs to look forward to; do not add another to-infinitive.",
-        "meeting": "Look forward to takes an -ing activity because to is a preposition here.",
-        "met": "Met is a past form, not the activity form required after this to."
+        "meeting": "'Look forward to' takes an -ing activity because 'to' is a preposition here.",
+        "met": "'Met' is a past form, not the activity form required after this 'to'."
       },
       "audit": {
         "status": "reviewed",
@@ -1595,12 +1595,12 @@
         "to lose"
       ],
       "answer": "losing",
-      "explanation": "Object to + -ing names the action or situation a person opposes.",
+      "explanation": "'Object to' + '-ing' names the action or situation a person opposes.",
       "rationales": {
-        "lose": "Object to takes an -ing action because to is a preposition.",
-        "lost": "Lost cannot follow to here to name the action opposed.",
+        "lose": "'Object to' takes an -ing action because 'to' is a preposition.",
+        "lost": "'Lost' cannot follow 'to' here to name the action opposed.",
         "to lose": "Do not add a second to before the action after objected to.",
-        "losing": "Object to + -ing names the action or situation a person opposes."
+        "losing": "'Object to' + '-ing' names the action or situation a person opposes."
       },
       "audit": {
         "status": "reviewed",
@@ -1630,8 +1630,8 @@
       "rationales": {
         "to leave": "Allow + person + to + verb identifies who has permission and what they may do.",
         "to leaving": "After allow guests to, use the basic form leave, not leaving.",
-        "leave": "Unlike let, allow needs to before the following action verb.",
-        "to left": "The infinitive uses leave, not left."
+        "leave": "Unlike 'let', 'allow' needs 'to' before the following action verb.",
+        "to left": "The infinitive uses 'leave', not 'left'."
       },
       "audit": {
         "status": "reviewed",
@@ -1657,12 +1657,12 @@
         "left"
       ],
       "answer": "leave",
-      "explanation": "Active make takes a person followed by the basic verb: made everyone leave.",
+      "explanation": "Active 'make' takes a person followed by the basic verb: 'made everyone leave'.",
       "rationales": {
-        "to leave": "In the active pattern make + person + verb, leave has no to.",
-        "leave": "Active make takes a person followed by the basic verb: made everyone leave.",
+        "to leave": "In the active pattern 'make' + person + verb, 'leave' has no 'to'.",
+        "leave": "Active 'make' takes a person followed by the basic verb: 'made everyone leave'.",
         "leaving": "Leaving does not complete this active causative pattern.",
-        "left": "Use the basic form leave, not the past form left, after made everyone."
+        "left": "Use the basic form 'leave', not the past form 'left', after 'made everyone'."
       },
       "audit": {
         "status": "reviewed",
@@ -1688,12 +1688,12 @@
         "joined"
       ],
       "answer": "join",
-      "explanation": "Use let + person + basic verb to express permission.",
+      "explanation": "Use 'let' + person + basic verb to express permission.",
       "rationales": {
-        "to join": "Let takes the basic verb without to: let me join.",
-        "joining": "The person after let is followed by join, not joining.",
-        "join": "Use let + person + basic verb to express permission.",
-        "joined": "Joined is a past form; let me requires the basic verb join."
+        "to join": "'Let' takes the basic verb without 'to': 'let me join'.",
+        "joining": "The person after 'let' is followed by 'join', not 'joining'.",
+        "join": "Use 'let' + person + basic verb to express permission.",
+        "joined": "'Joined' is a past form; 'let me' requires the basic verb 'join'."
       },
       "audit": {
         "status": "reviewed",
@@ -1750,12 +1750,12 @@
         "reaching"
       ],
       "answer": "reaching",
-      "explanation": "Prevent + object + from + -ing describes an action that something blocks.",
+      "explanation": "'Prevent' + object + 'from' + '-ing' describes an action that something blocks.",
       "rationales": {
         "to reach": "After from, use reaching rather than to reach.",
-        "reaching": "Prevent + object + from + -ing describes an action that something blocks.",
-        "reach": "The preposition from needs the -ing action form here.",
-        "reached": "Reached cannot follow from as the action being prevented."
+        "reaching": "'Prevent' + object + 'from' + '-ing' describes an action that something blocks.",
+        "reach": "The preposition 'from' needs the -ing action form here.",
+        "reached": "'Reached' cannot follow 'from' as the action being prevented."
       },
       "audit": {
         "status": "reviewed",
@@ -1814,7 +1814,7 @@
       "answer": "driving",
       "explanation": "Prefer + -ing + to + -ing compares two activities using parallel forms.",
       "rationales": {
-        "drive": "In prefer cycling to, to is a preposition; use driving as the compared activity.",
+        "drive": "In 'prefer cycling to', 'to' is a preposition; use 'driving' as the compared activity.",
         "to drive": "Do not add a second to when comparing activities with prefer cycling to.",
         "driving": "Prefer + -ing + to + -ing compares two activities using parallel forms.",
         "drove": "The past form drove cannot name the second activity after this to."
@@ -1843,12 +1843,12 @@
         "to visit / to reach"
       ],
       "answer": "visiting / to reach",
-      "explanation": "Worth takes an -ing activity; easy takes a to-infinitive describing what can be done to the subject.",
+      "explanation": "'Worth' takes an -ing activity; 'easy' takes a to-infinitive describing what can be done to the subject.",
       "rationales": {
-        "to visit / reaching": "Worth takes visiting, while easy takes to reach in this sentence.",
+        "to visit / reaching": "'Worth' takes 'visiting', while 'easy' takes 'to reach' in this sentence.",
         "visiting / reaching": "Visiting fits worth, but easy needs to reach rather than reaching.",
         "to visit / to reach": "To reach fits easy, but worth needs visiting.",
-        "visiting / to reach": "Worth takes an -ing activity; easy takes a to-infinitive describing what can be done to the subject."
+        "visiting / to reach": "'Worth' takes an -ing activity; 'easy' takes a to-infinitive describing what can be done to the subject."
       },
       "audit": {
         "status": "reviewed",
@@ -1874,10 +1874,10 @@
         "having seen"
       ],
       "answer": "being seen",
-      "explanation": "Avoid takes an -ing form; being seen makes her the person receiving the visitors' attention.",
+      "explanation": "'Avoid' takes an -ing form; 'being seen' makes her the person receiving the visitors' attention.",
       "rationales": {
         "seeing": "Seeing makes her the observer, whereas the visitors would see her.",
-        "being seen": "Avoid takes an -ing form; being seen makes her the person receiving the visitors' attention.",
+        "being seen": "'Avoid' takes an -ing form; 'being seen' makes her the person receiving the visitors' attention.",
         "to be seen": "The passive meaning fits, but avoid needs being seen rather than to be seen.",
         "having seen": "Having seen makes her the person who had observed something, reversing the roles."
       },
@@ -1907,10 +1907,10 @@
       "answer": "to be reliable",
       "explanation": "Is considered to be reports an assessment of the subject; this differs from consider doing an action.",
       "rationales": {
-        "being reliable": "Passive considered uses to be here, not an -ing clause naming an option under consideration.",
+        "being reliable": "Passive 'considered' uses 'to be' here, not an -ing clause naming an option under consideration.",
         "to have been reliable": "The perfect phrase places the reliability earlier instead of preserving the present assessment.",
         "to be reliable": "Is considered to be reports an assessment of the subject; this differs from consider doing an action.",
-        "reliably": "Reliably describes how something acts; the judgment is that the camera itself is reliable."
+        "reliably": "'Reliably' describes how something acts; the judgment is that the camera itself is 'reliable'."
       },
       "audit": {
         "status": "reviewed",
@@ -1936,12 +1936,12 @@
         "to have repairing"
       ],
       "answer": "to have repaired",
-      "explanation": "To have + past participle presents repair as complete before the inspection time.",
+      "explanation": "'To have' + past participle presents repair as complete before the inspection time.",
       "rationales": {
-        "to have repaired": "To have + past participle presents repair as complete before the inspection time.",
-        "to having repaired": "After infinitival to, use have rather than having.",
-        "having repaired": "Expect does not directly take this -ing clause for the expected action.",
-        "to have repairing": "Have needs repaired, not repairing, in the perfect infinitive."
+        "to have repaired": "'To have' + past participle presents repair as complete before the inspection time.",
+        "to having repaired": "After infinitival 'to', use 'have' rather than 'having'.",
+        "having repaired": "'Expect' does not directly take this -ing clause for the expected action.",
+        "to have repairing": "'Have' needs 'repaired', not 'repairing', in the perfect infinitive."
       },
       "audit": {
         "status": "reviewed",
@@ -1967,12 +1967,12 @@
         "to decide / to interview"
       ],
       "answer": "deciding / to interview",
-      "explanation": "Postpone takes an -ing activity; decide can be followed by a question-word phrase with a to-infinitive.",
+      "explanation": "'Postpone' takes an -ing activity; 'decide' can be followed by a question-word phrase with a to-infinitive.",
       "rationales": {
         "deciding / interviewing": "Deciding fits postponed, but the embedded choice uses whom to interview, not whom interviewing.",
         "to decide / interviewing": "Postpone needs deciding, and the embedded question needs whom to interview.",
-        "to decide / to interview": "To interview fits after whom, but postpone takes deciding rather than to decide.",
-        "deciding / to interview": "Postpone takes an -ing activity; decide can be followed by a question-word phrase with a to-infinitive."
+        "to decide / to interview": "'To interview' fits after 'whom', but 'postpone' takes 'deciding' rather than 'to decide'.",
+        "deciding / to interview": "'Postpone' takes an -ing activity; 'decide' can be followed by a question-word phrase with a to-infinitive."
       },
       "audit": {
         "status": "reviewed",
@@ -2029,11 +2029,11 @@
         "The speaker attempted to open it; the account does not report success."
       ],
       "answer": "The speaker attempted to open it; the account does not report success.",
-      "explanation": "Try to + verb expresses an effort toward an action; it does not itself assert achievement.",
+      "explanation": "'Try to' + verb expresses an effort toward an action; it does not itself assert achievement.",
       "rationales": {
         "The speaker opened it by experimenting with a new technique.": "The account supplies neither a successful opening nor a newly tested method.",
         "The speaker avoided attempting to open it until help arrived.": "Tried to open explicitly states that an attempt was made.",
-        "The speaker attempted to open it; the account does not report success.": "Try to + verb expresses an effort toward an action; it does not itself assert achievement.",
+        "The speaker attempted to open it; the account does not report success.": "'Try to' + verb expresses an effort toward an action; it does not itself assert achievement.",
         "The speaker remembers opening it before it became jammed.": "This is an attempt at the jammed drawer, not recollection of an earlier opening."
       },
       "audit": {
@@ -2064,7 +2064,7 @@
       "rationales": {
         "being told": "Remember being told recalls receiving someone else's instruction.",
         "telling": "Telling would make the speaker give the warning rather than receive it.",
-        "to tell": "Remember to tell describes a pending duty to give a warning, not a memory of receiving one.",
+        "to tell": "'Remember to tell' describes a pending duty to give a warning, not a memory of receiving one.",
         "to be told": "This does not express recollection of an earlier experience; that requires the passive -ing form."
       },
       "audit": {
@@ -2091,12 +2091,12 @@
         "to informing"
       ],
       "answer": "to inform",
-      "explanation": "Regret to inform conventionally expresses regret while delivering unwelcome information.",
+      "explanation": "'Regret to inform' conventionally expresses regret while delivering unwelcome information.",
       "rationales": {
         "informing": "Regret informing normally looks back unhappily on having informed someone, rather than introducing the news now.",
-        "inform": "Regret does not take the basic verb inform directly in this formula.",
+        "inform": "'Regret' does not take the basic verb 'inform' directly in this formula.",
         "to informing": "This formula needs the basic verb after to.",
-        "to inform": "Regret to inform conventionally expresses regret while delivering unwelcome information."
+        "to inform": "'Regret to inform' conventionally expresses regret while delivering unwelcome information."
       },
       "audit": {
         "status": "reviewed",
@@ -2122,11 +2122,11 @@
         "to discussing"
       ],
       "answer": "to discuss",
-      "explanation": "Go on to + verb introduces a subsequent action or stage after an earlier one.",
+      "explanation": "'Go on to' + verb introduces a subsequent action or stage after an earlier one.",
       "rationales": {
-        "discussing": "Went on discussing would mean continuing the same discussion, not moving to the new subject specified.",
-        "to discuss": "Go on to + verb introduces a subsequent action or stage after an earlier one.",
-        "discuss": "The basic verb cannot directly follow went on in this construction.",
+        "discussing": "'Went on discussing' would mean continuing the same discussion, not moving to the new subject specified.",
+        "to discuss": "'Go on to' + verb introduces a subsequent action or stage after an earlier one.",
+        "discuss": "The basic verb cannot directly follow 'went on' in this construction.",
         "to discussing": "To discussing does not form either the continuing or subsequent-action pattern."
       },
       "audit": {
@@ -2153,11 +2153,11 @@
         "Weekend work is part of what accepting the post involves."
       ],
       "answer": "Weekend work is part of what accepting the post involves.",
-      "explanation": "Mean + -ing expresses what a situation involves or entails.",
+      "explanation": "'Mean' + '-ing' expresses what a situation involves or entails.",
       "rationales": {
-        "The speaker intends to accept the post on a weekend.": "Means working expresses a consequence, not the intention conveyed by mean to.",
+        "The speaker intends to accept the post on a weekend.": "'Means working' expresses a consequence, not the intention conveyed by 'mean to'.",
         "Weekend work is something the speaker remembers doing in an earlier post.": "The statement describes what the new post involves, not a remembered previous job.",
-        "Weekend work is part of what accepting the post involves.": "Mean + -ing expresses what a situation involves or entails.",
+        "Weekend work is part of what accepting the post involves.": "'Mean' + '-ing' expresses what a situation involves or entails.",
         "The speaker tried weekend work to decide whether to accept the post.": "No experiment is described; the sentence links acceptance with its consequence."
       },
       "audit": {
@@ -2188,8 +2188,8 @@
       "rationales": {
         "The roof needs repairing.": "Need + -ing can have passive meaning: the roof needs someone to repair it.",
         "The roof needs to repair.": "This makes the roof the performer of repair rather than the thing needing repair.",
-        "The roof needs to repairing.": "After infinitival to, use a basic verb; this combination is malformed.",
-        "The roof needs to be repair.": "The passive infinitive needs the past participle repaired after to be, not repair."
+        "The roof needs to repairing.": "After infinitival 'to', use a basic verb; this combination is malformed.",
+        "The roof needs to be repair.": "The passive infinitive needs the past participle 'repaired' after 'to be', not 'repair'."
       },
       "audit": {
         "status": "reviewed",
@@ -2215,12 +2215,12 @@
         "to keeping"
       ],
       "answer": "to keep",
-      "explanation": "Afford to + verb can concern practical resources, including space, as well as money.",
+      "explanation": "'Afford to' + verb can concern practical resources, including space, as well as money.",
       "rationales": {
         "kept": "The past form kept cannot directly follow afford; use to keep.",
-        "keep": "The infinitive after afford requires to.",
-        "to keeping": "After this to, the verb must be the basic form keep.",
-        "to keep": "Afford to + verb can concern practical resources, including space, as well as money."
+        "keep": "The infinitive after 'afford' requires 'to'.",
+        "to keeping": "After this 'to', the verb must be the basic form 'keep'.",
+        "to keep": "'Afford to' + verb can concern practical resources, including space, as well as money."
       },
       "audit": {
         "status": "reviewed",
@@ -2246,10 +2246,10 @@
         "crossed"
       ],
       "answer": "cross",
-      "explanation": "See + object + basic verb can present the observed action as a whole event.",
+      "explanation": "'See' + object + basic verb can present the observed action as a whole event.",
       "rationales": {
-        "to cross": "Active see + object does not take a to-infinitive in this direct perception pattern.",
-        "cross": "See + object + basic verb can present the observed action as a whole event.",
+        "to cross": "Active 'see' + object does not take a to-infinitive in this direct perception pattern.",
+        "cross": "'See' + object + basic verb can present the observed action as a whole event.",
         "crossing": "Crossing presents the action in progress; it does not foreground the whole crossing as requested.",
         "crossed": "Crossed cannot serve as the action complement after saw the woman here."
       },
@@ -2277,12 +2277,12 @@
         "to repeated"
       ],
       "answer": "to repeat",
-      "explanation": "The bare infinitive after active make gains to in the passive: were made to repeat.",
+      "explanation": "The bare infinitive after active 'make' gains 'to' in the passive: 'were made to repeat'.",
       "rationales": {
         "repeat": "The active pattern uses repeat without to, but passive were made requires to repeat.",
         "repeating": "This passive causative does not use an -ing complement.",
-        "to repeat": "The bare infinitive after active make gains to in the passive: were made to repeat.",
-        "to repeated": "Use the basic verb repeat after to, not repeated."
+        "to repeat": "The bare infinitive after active 'make' gains 'to' in the passive: 'were made to repeat'.",
+        "to repeated": "Use the basic verb 'repeat' after 'to', not 'repeated'."
       },
       "audit": {
         "status": "reviewed",
@@ -2311,7 +2311,7 @@
       "explanation": "Allowed to supplies the ordinary passive expression for the permission given by let someone do.",
       "rationales": {
         "The guests were allowed to use the kitchen.": "Allowed to supplies the ordinary passive expression for the permission given by let someone do.",
-        "The guests were let to use the kitchen.": "Let does not form this ordinary passive with to use; use were allowed to use.",
+        "The guests were let to use the kitchen.": "'Let' does not form this ordinary passive with 'to use'; use 'were allowed to use'.",
         "The guests were made to use the kitchen.": "Made to changes permission into an enforced action.",
         "The guests were allowed using the kitchen.": "When the guests are permitted to act, allowed is followed by to use, not using."
       },
@@ -2339,12 +2339,12 @@
         "to leave / to carry"
       ],
       "answer": "leaving / to carry",
-      "explanation": "Advise can take an -ing activity directly or a person followed by a to-infinitive.",
+      "explanation": "'Advise' can take an -ing activity directly or a person followed by a to-infinitive.",
       "rationales": {
         "to leave / carrying": "Without a person after advised, use leaving; with us, use to carry.",
         "leaving / carrying": "Leaving fits the first pattern, but advised us needs to carry.",
         "to leave / to carry": "To carry fits advised us, but directly advised to leave lacks the person required by that active pattern.",
-        "leaving / to carry": "Advise can take an -ing activity directly or a person followed by a to-infinitive."
+        "leaving / to carry": "'Advise' can take an -ing activity directly or a person followed by a to-infinitive."
       },
       "audit": {
         "status": "reviewed",
@@ -2370,12 +2370,12 @@
         "to checking"
       ],
       "answer": "being checked",
-      "explanation": "Being checked supplies a passive -ing form after worth; the report receives the checking.",
+      "explanation": "'Being checked' supplies a passive -ing form after 'worth'; the report receives the checking.",
       "rationales": {
-        "to be checked": "Worth takes an -ing complement, not a to-infinitive.",
-        "being checked": "Being checked supplies a passive -ing form after worth; the report receives the checking.",
+        "to be checked": "'Worth' takes an -ing complement, not a to-infinitive.",
+        "being checked": "'Being checked' supplies a passive -ing form after 'worth'; the report receives the checking.",
         "having checked": "This active perfect form would make the report the checker rather than the checked object.",
-        "to checking": "Worth does not take the extra to in this pattern."
+        "to checking": "'Worth' does not take the extra 'to' in this pattern."
       },
       "audit": {
         "status": "reviewed",
@@ -2401,12 +2401,12 @@
         "being recorded"
       ],
       "answer": "being recorded",
-      "explanation": "Object to + being + past participle expresses opposition to receiving an action.",
+      "explanation": "'Object to' + 'being' + past participle expresses opposition to receiving an action.",
       "rationales": {
         "recording": "Recording would make her the person producing a recording, not the person recorded.",
-        "to be recorded": "The to in object to is a preposition, so it takes being recorded.",
-        "being recorded": "Object to + being + past participle expresses opposition to receiving an action.",
-        "have been recorded": "After the preposition to, this form would need having, not have."
+        "to be recorded": "The 'to' in 'object to' is a preposition, so it takes 'being recorded'.",
+        "being recorded": "'Object to' + 'being' + past participle expresses opposition to receiving an action.",
+        "have been recorded": "After the preposition 'to', this form would need 'having', not 'have'."
       },
       "audit": {
         "status": "reviewed",
@@ -2437,7 +2437,7 @@
         "to have been painted": "The perfect passive infinitive places the painting before the present appearance and makes the wall its receiver.",
         "to have painted": "This active perfect form would make the wall perform the painting.",
         "to be painting": "This makes the wall the painter and presents an action in progress now.",
-        "having been painted": "Appear does not take this -ing clause directly as its complement."
+        "having been painted": "'Appear' does not take this -ing clause directly as its complement."
       },
       "audit": {
         "status": "reviewed",
@@ -2463,12 +2463,12 @@
         "for visitors to keeping"
       ],
       "answer": "for visitors to keep",
-      "explanation": "For introduces the subject of the infinitive, making visitors the people who must keep the tickets.",
+      "explanation": "'For' introduces the subject of the infinitive, making 'visitors' the people who must keep the tickets.",
       "rationales": {
         "visitors keeping": "This does not supply the standard for-plus-subject infinitive after important in the given frame.",
-        "for visitors keeping": "After the subject visitors in this for-clause, use to keep.",
-        "for visitors to keeping": "An infinitival to takes keep rather than keeping.",
-        "for visitors to keep": "For introduces the subject of the infinitive, making visitors the people who must keep the tickets."
+        "for visitors keeping": "After the subject 'visitors' in this for-clause, use 'to keep'.",
+        "for visitors to keeping": "An infinitival 'to' takes 'keep' rather than 'keeping'.",
+        "for visitors to keep": "'For' introduces the subject of the infinitive, making 'visitors' the people who must keep the tickets."
       },
       "audit": {
         "status": "reviewed",
@@ -2494,12 +2494,12 @@
         "to have justified"
       ],
       "answer": "having to justify",
-      "explanation": "Accustomed to takes an -ing complement; having to justify expresses the recurring requirement within it.",
+      "explanation": "'Accustomed to' takes an -ing complement; 'having to justify' expresses the recurring requirement within it.",
       "rationales": {
-        "have to justify": "The preposition to after accustomed needs having, not have.",
-        "having to justify": "Accustomed to takes an -ing complement; having to justify expresses the recurring requirement within it.",
-        "having justify": "Have to requires to before justify, even when have becomes having.",
-        "to have justified": "The existing to is prepositional; adding a perfect infinitive does not form the required complement."
+        "have to justify": "The preposition 'to' after 'accustomed' needs 'having', not 'have'.",
+        "having to justify": "'Accustomed to' takes an -ing complement; 'having to justify' expresses the recurring requirement within it.",
+        "having justify": "'Have to' requires 'to' before 'justify', even when 'have' becomes 'having'.",
+        "to have justified": "The existing 'to' is prepositional; adding a perfect infinitive does not form the required complement."
       },
       "audit": {
         "status": "reviewed",
@@ -2558,10 +2558,10 @@
       "answer": "of reducing queues",
       "explanation": "Changing aims to into with the aim of changes the following action to an -ing clause.",
       "rationales": {
-        "to reducing queues": "The noun phrase with the aim takes of reducing in this construction.",
-        "of reduce queues": "After of, use reducing rather than the basic verb reduce.",
+        "to reducing queues": "The noun phrase 'with the aim' takes 'of reducing' in this construction.",
+        "of reduce queues": "After 'of', use 'reducing' rather than the basic verb 'reduce'.",
         "of reducing queues": "Changing aims to into with the aim of changes the following action to an -ing clause.",
-        "of to reduce queues": "A to-infinitive cannot directly follow of here."
+        "of to reduce queues": "A to-infinitive cannot directly follow 'of' here."
       },
       "audit": {
         "status": "reviewed",
@@ -2715,7 +2715,7 @@
       "rationales": {
         "to alter before publication": "This makes the figures perform an action rather than receive an earlier alteration.",
         "to be altering before publication": "This is active and ongoing, not an earlier completed passive action.",
-        "having been altered before publication": "Appear requires an infinitive complement in this rewrite, not a direct -ing clause.",
+        "having been altered before publication": "'Appear' requires an infinitive complement in this rewrite, not a direct -ing clause.",
         "to have been altered before publication": "The perfect passive infinitive preserves the earlier alteration while appear retains the source's tentative assessment."
       },
       "audit": {
@@ -2744,7 +2744,7 @@
       "answer": "The speaker watched Amira assist the visitor with the case.",
       "explanation": "Remember seeing gives the speaker's memory; Amira performs help, and the visitor is assisted with lifting.",
       "rationales": {
-        "Amira watched the speaker assist the visitor with the case.": "I is the person remembering and seeing; Amira is the helper observed.",
+        "Amira watched the speaker assist the visitor with the case.": "'I' is the person remembering and seeing; Amira is the helper observed.",
         "The speaker watched Amira assist the visitor with the case.": "Remember seeing gives the speaker's memory; Amira performs help, and the visitor is assisted with lifting.",
         "The visitor watched Amira and the speaker lift the case.": "The visitor is the person helped, not the observer identified by the sentence.",
         "The speaker remembers intending to help Amira find a visitor.": "Seeing reports an observed scene, and help the visitor lift is not an intention to find someone."
@@ -2773,11 +2773,11 @@
         "not having been consulted"
       ],
       "answer": "not having been consulted",
-      "explanation": "Not negates the earlier passive event; the perfect gerund places the missing consultation before publication.",
+      "explanation": "'Not' negates the earlier passive event; the perfect gerund places the missing consultation before publication.",
       "rationales": {
         "not having consulted": "This makes her the person who failed to consult someone else.",
-        "to have been consulted": "Regret about an earlier event takes an -ing complement, and this also loses the negation.",
-        "not having been consulted": "Not negates the earlier passive event; the perfect gerund places the missing consultation before publication.",
+        "to have been consulted": "'Regret' about an earlier event takes an -ing complement, and this also loses the negation.",
+        "not having been consulted": "'Not' negates the earlier passive event; the perfect gerund places the missing consultation before publication.",
         "having been consulted": "This says consultation occurred and was regretted, reversing the stated exclusion."
       },
       "audit": {
@@ -2808,7 +2808,7 @@
       "rationales": {
         "checking / to be checked": "Need checking and need to be checked both give the wiring a passive role.",
         "to check / checking": "Checking works, but to check would make the wiring perform the inspection.",
-        "being check / to be checked": "To be checked works, but the passive -ing form would require checked after being.",
+        "being check / to be checked": "'To be checked' works, but the passive -ing form would require 'checked' after 'being'.",
         "to checking / checked": "To checking is incorrect here, so this pair cannot be accepted. Checking and to be checked are the two alternatives in the correct pair."
       },
       "audit": {
@@ -2837,7 +2837,7 @@
       "answer": "Ibrahim, with Rosa organizing the meeting.",
       "explanation": "Arrange for + person + to + verb identifies a performer distinct from the organizer.",
       "rationales": {
-        "Rosa, with Ibrahim organizing the meeting.": "Rosa is the subject of arranged; Ibrahim is the subject introduced by for before to meet.",
+        "Rosa, with Ibrahim organizing the meeting.": "Rosa is the subject of 'arranged'; Ibrahim is the subject introduced by 'for' before 'to meet'.",
         "Rosa and Ibrahim, both explicitly required to attend.": "The sentence names Ibrahim as the person meeting them; it does not state that Rosa will attend.",
         "The delegation, which arranged to collect Rosa.": "The delegation is the object of meet and is not described as making the arrangement.",
         "Ibrahim, with Rosa organizing the meeting.": "Arrange for + person + to + verb identifies a performer distinct from the organizer."
@@ -2866,10 +2866,10 @@
         "She cautiously dismissed the crack after establishing its cause."
       ],
       "answer": "Her caution prevented her from simply dismissing the crack.",
-      "explanation": "Too + adjective + to + verb can describe a degree of a quality that prevents the action.",
+      "explanation": "'Too' + adjective + 'to' + verb can describe a degree of a quality that prevents the action.",
       "rationales": {
         "She dismissed the crack because her caution was excessive.": "Too cautious to dismiss presents caution as an obstacle to dismissal, not its cause.",
-        "Her caution prevented her from simply dismissing the crack.": "Too + adjective + to + verb can describe a degree of a quality that prevents the action.",
+        "Her caution prevented her from simply dismissing the crack.": "'Too' + adjective + 'to' + verb can describe a degree of a quality that prevents the action.",
         "She needed more caution before she would be permitted to dismiss the crack.": "The sentence does not describe a permission threshold or insufficient caution.",
         "She cautiously dismissed the crack after establishing its cause.": "This asserts the dismissal that the original presents as prevented by caution."
       },
@@ -2897,11 +2897,11 @@
         "It reports the group's earlier reason for cancelling the event."
       ],
       "answer": "It presents an unwelcome discovery after the arrival.",
-      "explanation": "Only to + verb can introduce an unexpected or disappointing result following an action.",
+      "explanation": "'Only to' + verb can introduce an unexpected or disappointing result following an action.",
       "rationales": {
         "It states the purpose for which the group drove to the venue.": "Only to discover presents the outcome, not a purpose of travelling there to learn of cancellation.",
         "It describes a discovery the group avoided making.": "The account states that they did discover the cancellation.",
-        "It presents an unwelcome discovery after the arrival.": "Only to + verb can introduce an unexpected or disappointing result following an action.",
+        "It presents an unwelcome discovery after the arrival.": "'Only to' + verb can introduce an unexpected or disappointing result following an action.",
         "It reports the group's earlier reason for cancelling the event.": "The group discovers a prior cancellation; it is not described as having caused it."
       },
       "audit": {
@@ -2928,12 +2928,12 @@
         "for solving the assistant"
       ],
       "answer": "for the assistant to solve",
-      "explanation": "For identifies the solver; the problem is understood as the object of solve after enough.",
+      "explanation": "'For' identifies the solver; the problem is understood as the object of 'solve' after 'enough'.",
       "rationales": {
         "for the assistant to be solved": "This makes the assistant, rather than the problem, the thing being solved.",
-        "the assistant solving": "This does not form the required for-plus-subject infinitive after enough.",
+        "the assistant solving": "This does not form the required for-plus-subject infinitive after 'enough'.",
         "for solving the assistant": "This makes the assistant the object of solving and loses the intended actor.",
-        "for the assistant to solve": "For identifies the solver; the problem is understood as the object of solve after enough."
+        "for the assistant to solve": "'For' identifies the solver; the problem is understood as the object of 'solve' after 'enough'."
       },
       "audit": {
         "status": "reviewed",
@@ -3054,7 +3054,7 @@
       "answer": "The question keeps occurring to the speaker and is hard to avoid.",
       "explanation": "Can't help + -ing can describe an involuntary or hard-to-avoid thought or reaction; wondering still leaves the answer open.",
       "rationales": {
-        "The speaker cannot assist someone else in identifying the missing assumption.": "Can't help + -ing here means cannot avoid the thought, not inability to provide assistance.",
+        "The speaker cannot assist someone else in identifying the missing assumption.": "\"Can't help\" + '-ing' here means cannot avoid the thought, not inability to provide assistance.",
         "The speaker has proved that the assumption was omitted.": "Wondering raises a question; it does not establish that an omission occurred.",
         "The speaker refuses to consider the possibility of an omitted assumption.": "The phrase says the thought persists, not that it is rejected.",
         "The question keeps occurring to the speaker and is hard to avoid.": "Can't help + -ing can describe an involuntary or hard-to-avoid thought or reaction; wondering still leaves the answer open."
@@ -3116,7 +3116,7 @@
       "answer": "The attribution of all the design work to Rowan.",
       "explanation": "Rowan's is the subject of the passive gerund clause; the objection concerns credit being assigned to Rowan.",
       "rationales": {
-        "Rowan's refusal to credit the other designers.": "Rowan is the recipient of credit in being credited; the sentence does not say Rowan controls the attribution.",
+        "Rowan's refusal to credit the other designers.": "Rowan is the recipient of credit in 'being credited'; the sentence does not say Rowan controls the attribution.",
         "The attribution of all the design work to Rowan.": "Rowan's is the subject of the passive gerund clause; the objection concerns credit being assigned to Rowan.",
         "The speaker's having designed the project without Rowan.": "No such authorship claim is made; the disputed matter is the attribution described by the gerund clause.",
         "Rowan's objection to being named in the project report.": "The speaker objects; Rowan is not presented as the person raising the objection."
@@ -3463,7 +3463,7 @@
         "Both accounts establish that Nico withheld the letter and later regretted it.": "Denied reports rejection of the claim and does not express regret.",
         "Neither account presents any position on whether withholding occurred.": "Regretted treats the earlier act as something regretted; denied explicitly reports a position against the allegation.",
         "(1) presents withholding as a fact; (2) reports Nico's rejection of that claim.": "The same perfect gerund locates an earlier action, but regretted and denied give that action different evidential status.",
-        "(1) concerns future withholding; (2) concerns an earlier act of withholding.": "Having withheld gives earlier reference in both; the contrast is the main verb's stance."
+        "(1) concerns future withholding; (2) concerns an earlier act of withholding.": "'Having withheld' gives earlier reference in both; the contrast is the main verb's stance."
       },
       "audit": {
         "status": "reviewed",
@@ -3711,9 +3711,9 @@
       "explanation": "A perfect infinitive marks completion relative to a reference point; here that point is a future opening.",
       "rationales": {
         "Cataloguing is already complete when the curator speaks in January.": "The perfect infinitive places completion before the exhibition, not necessarily before the speaking time.",
-        "The curator remembers cataloguing the loans at an earlier exhibition.": "Hope describes a desired outcome, not recollection of an earlier event.",
+        "The curator remembers cataloguing the loans at an earlier exhibition.": "'Hope' describes a desired outcome, not recollection of an earlier event.",
         "Cataloguing is hoped to be complete before the May opening, not necessarily before January.": "A perfect infinitive marks completion relative to a reference point; here that point is a future opening.",
-        "The curator plans to start cataloguing only after the exhibition opens.": "Have catalogued and before require completed cataloguing before the opening, not a later start."
+        "The curator plans to start cataloguing only after the exhibition opens.": "'Have catalogued' and 'before' require completed cataloguing before the opening, not a later start."
       },
       "audit": {
         "status": "reviewed",

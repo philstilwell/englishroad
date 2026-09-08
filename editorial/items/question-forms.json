@@ -16,10 +16,10 @@
       "answer": "Where is the cash machine?",
       "explanation": "Put where first and is before the cash machine to ask for its location.",
       "rationales": {
-        "Where the cash machine is?": "In the usual direct where-question, is goes before the subject: where is the cash machine?",
+        "Where the cash machine is?": "In the usual direct where-question, 'is' goes before the subject: 'where is the cash machine?'",
         "Where is the cash machine?": "Put where first and is before the cash machine to ask for its location.",
-        "Where does the cash machine is?": "Do not add does to a question whose main verb is is.",
-        "Where are the cash machine?": "The singular cash machine takes is, not are."
+        "Where does the cash machine is?": "Do not add 'does' to a question whose main verb is 'is'.",
+        "Where are the cash machine?": "The singular 'cash machine' takes 'is', not 'are'."
       },
       "audit": {
         "status": "reviewed",
@@ -48,10 +48,10 @@
       "answer": "Are",
       "explanation": "Are goes before you in the question Are you ready to leave?",
       "rationales": {
-        "Is": "You takes are, not is, with the adjective ready.",
-        "Do": "Do cannot connect you directly to the adjective ready; this question needs be.",
+        "Is": "'You' takes 'are', not 'is', with the adjective 'ready'.",
+        "Do": "'Do' cannot connect 'you' directly to the adjective 'ready'; this question needs 'be'.",
         "Are": "Are goes before you in the question Are you ready to leave?",
-        "Does": "Does does not agree with you and cannot introduce the adjective ready directly."
+        "Does": "'Does' does not agree with 'you' and cannot introduce the adjective 'ready' directly."
       },
       "audit": {
         "status": "reviewed",
@@ -78,12 +78,12 @@
         "Is"
       ],
       "answer": "Do",
-      "explanation": "Use do before you and the base verb work to ask about a regular schedule.",
+      "explanation": "Use 'do' before 'you' and the base verb 'work' to ask about a regular schedule.",
       "rationales": {
         "Are": "Are would require a different complement, such as working, not the base verb work here.",
-        "Does": "Does is for a third-person singular subject, not you.",
+        "Does": "'Does' is for a third-person singular subject, not 'you'.",
         "Is": "Is neither agrees with you nor forms this simple-present work question.",
-        "Do": "Use do before you and the base verb work to ask about a regular schedule."
+        "Do": "Use 'do' before 'you' and the base verb 'work' to ask about a regular schedule."
       },
       "audit": {
         "status": "reviewed",
@@ -110,12 +110,12 @@
         "Are"
       ],
       "answer": "Does",
-      "explanation": "The singular subject this button takes does; open stays in its base form.",
+      "explanation": "The singular subject 'this button' takes 'does'; 'open' stays in its base form.",
       "rationales": {
-        "Does": "The singular subject this button takes does; open stays in its base form.",
-        "Do": "Do would be used with a plural subject such as these buttons, not this button.",
-        "Is": "Is cannot introduce the base action verb open followed by its object in this question.",
-        "Are": "Are does not agree with this button and cannot be followed by open the window here."
+        "Does": "The singular subject 'this button' takes 'does'; 'open' stays in its base form.",
+        "Do": "'Do' would be used with a plural subject such as 'these buttons', not 'this button'.",
+        "Is": "'Is' cannot introduce the base action verb 'open' followed by its object in this question.",
+        "Are": "'Are' does not agree with 'this button' and cannot be followed by 'open the window' here."
       },
       "audit": {
         "status": "reviewed",
@@ -142,12 +142,12 @@
         "be"
       ],
       "answer": "are",
-      "explanation": "Use are with the plural subject my gloves when asking where they are.",
+      "explanation": "Use 'are' with the plural subject 'my gloves' when asking where they are.",
       "rationales": {
-        "is": "Gloves is plural, so the question needs are rather than is.",
-        "are": "Use are with the plural subject my gloves when asking where they are.",
-        "does": "Does cannot replace be in this location question and would also be singular.",
-        "be": "The base form be cannot serve as the finite verb of this ordinary present question."
+        "is": "'Gloves' is plural, so the question needs 'are' rather than 'is'.",
+        "are": "Use 'are' with the plural subject 'my gloves' when asking where they are.",
+        "does": "'Does' cannot replace 'be' in this location question and would also be singular.",
+        "be": "The base form 'be' cannot serve as the finite verb of this ordinary present question."
       },
       "audit": {
         "status": "reviewed",
@@ -243,7 +243,7 @@
         "Why": "Why asks for a reason, and the because-clause explains the closure.",
         "When": "When would ask for the time of the closure, not its cause.",
         "Where": "Where would ask for a place; the reply explains why the cafe is closed.",
-        "Who": "Who asks for a person, but the question's subject is already the cafe."
+        "Who": "'Who' asks for a person, but the question's subject is already 'the cafe'."
       },
       "audit": {
         "status": "reviewed",
@@ -270,10 +270,10 @@
         "Who goes to the harbor with you?"
       ],
       "answer": "How do you get to the harbor?",
-      "explanation": "How do you get there asks about the means of travel, which on foot supplies.",
+      "explanation": "'How do you get there' asks about the means of travel, which 'on foot' supplies.",
       "rationales": {
         "Why do you go to the harbor?": "Why asks about the purpose or reason for the trip, not the means of travel.",
-        "How do you get to the harbor?": "How do you get there asks about the means of travel, which on foot supplies.",
+        "How do you get to the harbor?": "'How do you get there' asks about the means of travel, which 'on foot' supplies.",
         "When do you go to the harbor?": "When asks for a time, but on foot describes a way of traveling.",
         "Who goes to the harbor with you?": "Who ... with you asks about a companion rather than transport."
       },
@@ -304,7 +304,7 @@
       "answer": "Which",
       "explanation": "Which before umbrella asks you to identify one from the alternatives named.",
       "rationales": {
-        "Who": "Who asks about a person and does not determine the noun umbrella here.",
+        "Who": "'Who' asks about a person and does not determine the noun 'umbrella' here.",
         "When": "When asks for time, not a selection between objects.",
         "Which": "Which before umbrella asks you to identify one from the alternatives named.",
         "Where": "Where asks about location, not which of the two umbrellas belongs to you."
@@ -366,10 +366,10 @@
         "often"
       ],
       "answer": "many",
-      "explanation": "Chairs is a plural count noun, so how many asks for their number.",
+      "explanation": "'Chairs' is a plural count noun, so 'how many' asks for their number.",
       "rationales": {
-        "many": "Chairs is a plural count noun, so how many asks for their number.",
-        "much": "How much is used for an amount with an uncountable noun, not plural chairs.",
+        "many": "'Chairs' is a plural count noun, so 'how many' asks for their number.",
+        "much": "'How much' is used for an amount with an uncountable noun, not plural 'chairs'.",
         "long": "How long asks about duration or length; it does not determine chairs in this question.",
         "often": "How often asks about frequency, not a number of chairs."
       },
@@ -400,10 +400,10 @@
       "answer": "Whose",
       "explanation": "Whose before car asks for the owner's identity.",
       "rationales": {
-        "Who's": "Who's means who is or who has; it is not the possessive word before car.",
+        "Who's": "\"Who's\" means 'who is' or 'who has'; it is not the possessive word before 'car'.",
         "Whose": "Whose before car asks for the owner's identity.",
-        "Who": "Who cannot directly show possession before the noun car in this structure.",
-        "Whom": "Whom is an object pronoun, not a possessive determiner for car."
+        "Who": "'Who' cannot directly show possession before the noun 'car' in this structure.",
+        "Whom": "'Whom' is an object pronoun, not a possessive determiner for 'car'."
       },
       "audit": {
         "status": "reviewed",
@@ -433,9 +433,9 @@
       "explanation": "Repeat do in the affirmative short answer with we: Yes, we do.",
       "rationales": {
         "are": "Are answers a question formed with be, not the do-question shown.",
-        "have": "Have does not match the question's helper do in this short answer.",
+        "have": "'Have' does not match the question's helper 'do' in this short answer.",
         "do": "Repeat do in the affirmative short answer with we: Yes, we do.",
-        "does": "We takes do, not the singular form does."
+        "does": "'We' takes 'do', not the singular form 'does'."
       },
       "audit": {
         "status": "reviewed",
@@ -494,12 +494,12 @@
         "Can I sitting here?"
       ],
       "answer": "Can I sit here?",
-      "explanation": "Put can before I and use the base verb sit to ask permission.",
+      "explanation": "Put 'can' before 'I' and use the base verb 'sit' to ask permission.",
       "rationales": {
-        "Can I sit here?": "Put can before I and use the base verb sit to ask permission.",
+        "Can I sit here?": "Put 'can' before 'I' and use the base verb 'sit' to ask permission.",
         "Do I can sit here?": "Can forms the question itself; do is not added before it.",
         "Can I to sit here?": "The modal can takes sit directly, without to.",
-        "Can I sitting here?": "After can, use the base verb sit rather than sitting."
+        "Can I sitting here?": "After 'can', use the base verb 'sit' rather than 'sitting'."
       },
       "audit": {
         "status": "reviewed",
@@ -560,8 +560,8 @@
       "answer": "are",
       "explanation": "Are plus cooking forms the present continuous question about the current activity.",
       "rationales": {
-        "do": "Do does not combine with cooking to form the present continuous.",
-        "does": "Does does not agree with you and does not support the -ing form here.",
+        "do": "'Do' does not combine with 'cooking' to form the present continuous.",
+        "does": "'Does' does not agree with 'you' and does not support the -ing form here.",
         "are": "Are plus cooking forms the present continuous question about the current activity.",
         "have": "Have would need a perfect construction such as have you cooked, not have you cooking."
       },
@@ -592,9 +592,9 @@
       "answer": "What is",
       "explanation": "Here what's means what is: What is your address?",
       "rationales": {
-        "What has": "What has would not form a complete question before your address without another verb or object relationship.",
-        "What does": "Does is not shortened to 's in this question and would need a main verb.",
-        "What was": "Was is a past form and is not the expansion of what's.",
+        "What has": "'What has' would not form a complete question before 'your address' without another verb or object relationship.",
+        "What does": "'Does' is not shortened to \"'s\" in this question and would need a main verb.",
+        "What was": "'Was' is a past form and is not the expansion of \"what's\".",
         "What is": "Here what's means what is: What is your address?"
       },
       "audit": {
@@ -622,9 +622,9 @@
         "From platform two."
       ],
       "answer": "A return, please.",
-      "explanation": "A return names one of the two alternatives and completes the requested choice.",
+      "explanation": "'A return' names one of the two alternatives and completes the requested choice.",
       "rationales": {
-        "A return, please.": "A return names one of the two alternatives and completes the requested choice.",
+        "A return, please.": "'A return' names one of the two alternatives and completes the requested choice.",
         "Yes, please.": "Yes accepts something but does not tell the clerk which ticket type you want.",
         "At nine o'clock.": "This supplies a time, not a choice between single and return tickets.",
         "From platform two.": "This supplies a platform, not the ticket type requested."
@@ -654,12 +654,12 @@
         "repairing"
       ],
       "answer": "repair",
-      "explanation": "Use the base form repair after did in a past yes-no question.",
+      "explanation": "Use the base form 'repair' after 'did' in a past yes-no question.",
       "rationales": {
         "repaired": "Did already marks the past, so repair does not also take -ed.",
-        "repair": "Use the base form repair after did in a past yes-no question.",
-        "repairs": "Repairs is a present singular form; did requires the base verb here.",
-        "repairing": "Repairing cannot follow did directly in this simple-past question."
+        "repair": "Use the base form 'repair' after 'did' in a past yes-no question.",
+        "repairs": "'Repairs' is a present singular form; 'did' requires the base verb here.",
+        "repairing": "'Repairing' cannot follow 'did' directly in this simple-past question."
       },
       "audit": {
         "status": "reviewed",
@@ -688,10 +688,10 @@
       "answer": "were",
       "explanation": "Were agrees with you and places the location at the past time of the alarm.",
       "rationales": {
-        "was": "You takes were rather than was in this standard past question.",
-        "did": "Did cannot stand alone as the verb of location; the question needs a past form of be.",
+        "was": "'You' takes 'were' rather than 'was' in this standard past question.",
+        "did": "'Did' cannot stand alone as the verb of location; the question needs a past form of 'be'.",
         "were": "Were agrees with you and places the location at the past time of the alarm.",
-        "are": "Are is present, whereas this question explicitly asks about last night's location."
+        "are": "'Are' is present, whereas this question explicitly asks about last night's location."
       },
       "audit": {
         "status": "reviewed",
@@ -718,12 +718,12 @@
         "Who do you usually call?"
       ],
       "answer": "Who called you?",
-      "explanation": "Who is the subject performing called, so the question directly asks for the caller.",
+      "explanation": "'Who' is the subject performing 'called', so the question directly asks for the caller.",
       "rationales": {
         "Who did you call?": "This asks whom you contacted, reversing the caller and recipient.",
         "Who will call you?": "This asks about a future caller rather than the person who made the earlier call.",
         "Who do you usually call?": "This asks about your usual contact, not the source of a particular past call.",
-        "Who called you?": "Who is the subject performing called, so the question directly asks for the caller."
+        "Who called you?": "'Who' is the subject performing 'called', so the question directly asks for the caller."
       },
       "audit": {
         "status": "reviewed",
@@ -976,8 +976,8 @@
       "answer": "Have",
       "explanation": "Have plus ridden forms the present perfect, and ever asks about experience up to now.",
       "rationales": {
-        "Do": "Do requires the base verb ride, not the past participle ridden.",
-        "Are": "Are does not form an active experience question with ridden; the present perfect needs have.",
+        "Do": "'Do' requires the base verb 'ride', not the past participle 'ridden'.",
+        "Are": "'Are' does not form an active experience question with 'ridden'; the present perfect needs 'have'.",
         "Did": "Did would take ride rather than ridden and would form a past-simple question instead.",
         "Have": "Have plus ridden forms the present perfect, and ever asks about experience up to now."
       },
@@ -1010,7 +1010,7 @@
       "rationales": {
         "didn't": "Didn't matches did and gives a negative answer about the completed session.",
         "wasn't": "Wasn't matches a past be-question, not did you enjoy.",
-        "don't": "Don't is present; the supplied question uses past did.",
+        "don't": "\"Don't\" is present; the supplied question uses past 'did'.",
         "haven't": "Haven't belongs to a have-question and does not repeat the helper used here."
       },
       "audit": {
@@ -1102,12 +1102,12 @@
         "much"
       ],
       "answer": "much",
-      "explanation": "Rice is uncountable in this use, so how much asks for the amount.",
+      "explanation": "'Rice' is uncountable in this use, so 'how much' asks for the amount.",
       "rationales": {
-        "many": "Many needs a plural count noun, such as cups, not the uncountable rice here.",
-        "often": "Often asks for frequency; the blank before rice needs an amount word.",
+        "many": "'Many' needs a plural count noun, such as 'cups', not the uncountable 'rice' here.",
+        "often": "'Often' asks for frequency; the blank before 'rice' needs an amount word.",
         "long": "Long asks about time or length, not the amount of rice to add.",
-        "much": "Rice is uncountable in this use, so how much asks for the amount."
+        "much": "'Rice' is uncountable in this use, so 'how much' asks for the amount."
       },
       "audit": {
         "status": "reviewed",
@@ -1198,12 +1198,12 @@
         "aren't they"
       ],
       "answer": "isn't it",
-      "explanation": "A positive statement with singular is takes the negative tag isn't it in this confirmation pattern.",
+      "explanation": "A positive statement with singular 'is' takes the negative tag \"isn't it\" in this confirmation pattern.",
       "rationales": {
         "doesn't it": "The statement uses is, so the tag repeats be rather than switching to does.",
-        "isn't you": "The tag refers to the parcel, not to the person in for you; its subject is it.",
-        "isn't it": "A positive statement with singular is takes the negative tag isn't it in this confirmation pattern.",
-        "aren't they": "The parcel is singular and needs it and is, not plural they and are."
+        "isn't you": "The tag refers to the parcel, not to the person in 'for you'; its subject is 'it'.",
+        "isn't it": "A positive statement with singular 'is' takes the negative tag \"isn't it\" in this confirmation pattern.",
+        "aren't they": "The parcel is singular and needs 'it' and 'is', not plural 'they' and 'are'."
       },
       "audit": {
         "status": "reviewed",
@@ -1294,12 +1294,12 @@
         "did you known"
       ],
       "answer": "have you known",
-      "explanation": "Have comes before you, and known is the past participle describing a state that began earlier and continues now.",
+      "explanation": "'Have' comes before 'you', and 'known' is the past participle describing a state that began earlier and continues now.",
       "rationales": {
         "do you know": "For this state continuing up to now, the requested present perfect is have you known, not do you know.",
-        "have you known": "Have comes before you, and known is the past participle describing a state that began earlier and continues now.",
-        "have you knowing": "Have needs the past participle known here, not knowing.",
-        "did you known": "Did takes a base verb, so it cannot combine with known."
+        "have you known": "'Have' comes before 'you', and 'known' is the past participle describing a state that began earlier and continues now.",
+        "have you knowing": "'Have' needs the past participle 'known' here, not 'knowing'.",
+        "did you known": "'Did' takes a base verb, so it cannot combine with 'known'."
       },
       "audit": {
         "status": "reviewed",
@@ -1329,9 +1329,9 @@
       "explanation": "The order is question word, have, subject, been, and the -ing form doing.",
       "rationales": {
         "What have you been do?": "The continuous sequence needs been doing, not been do.",
-        "What have been you doing?": "Only have moves before the subject; been remains after you.",
+        "What have been you doing?": "Only 'have' moves before the subject; 'been' remains after 'you'.",
         "What have you been doing?": "The order is question word, have, subject, been, and the -ing form doing.",
-        "What do you have been doing?": "Have already forms the question; adding do before it creates an invalid auxiliary sequence."
+        "What do you have been doing?": "'Have' already forms the question; adding 'do' before it creates an invalid auxiliary sequence."
       },
       "audit": {
         "status": "reviewed",
@@ -1393,9 +1393,9 @@
       "explanation": "After if, use statement order they allow inside the larger question Do you know ...?",
       "rationales": {
         "they allow": "After if, use statement order they allow inside the larger question Do you know ...?",
-        "do they allow": "The embedded clause does not use the direct-question order do they allow.",
-        "they allows": "They takes allow without the third-person singular -s.",
-        "are they allow": "Are does not combine with the base verb allow to form this clause."
+        "do they allow": "The embedded clause does not use the direct-question order 'do they allow'.",
+        "they allows": "'They' takes 'allow' without the third-person singular '-s'.",
+        "are they allow": "'Are' does not combine with the base verb 'allow' to form this clause."
       },
       "audit": {
         "status": "reviewed",
@@ -1459,7 +1459,7 @@
         "didn't they": "Nobody already gives the statement negative meaning, so this confirmation pattern takes a positive tag.",
         "didn't it": "The statement concerns an unspecified person booking, not the room performing an action; its negative meaning also calls for a positive tag.",
         "did they": "Nobody makes the clause negative, while they supplies the standard pronoun in the positive tag did they.",
-        "did nobody": "A confirmation tag uses a pronoun such as they rather than repeating nobody."
+        "did nobody": "A confirmation tag uses a pronoun such as 'they' rather than repeating 'nobody'."
       },
       "audit": {
         "status": "reviewed",
@@ -1552,7 +1552,7 @@
       "answer": "I wonder where the gardener left the spare key.",
       "explanation": "The embedded question uses subject then verb, and the whole sentence is a statement about wondering.",
       "rationales": {
-        "I wonder where did the gardener leave the spare key.": "The embedded where-clause does not use direct-question inversion after I wonder.",
+        "I wonder where did the gardener leave the spare key.": "The embedded where-clause does not use direct-question inversion after 'I wonder'.",
         "I wonder where the gardener left the spare key.": "The embedded question uses subject then verb, and the whole sentence is a statement about wondering.",
         "I wonder where the gardener did left the spare key.": "Did would require leave, not left; it also is not needed for this unemphatic embedded clause.",
         "I wonder where left the gardener the spare key.": "The ordinary embedded order puts the gardener before left, not after it."
@@ -1774,10 +1774,10 @@
         "whether"
       ],
       "answer": "whether",
-      "explanation": "Whether can introduce the alternatives directly before to repair ... or replace it.",
+      "explanation": "'Whether' can introduce the alternatives directly before 'to repair ... or replace it'.",
       "rationales": {
-        "whether": "Whether can introduce the alternatives directly before to repair ... or replace it.",
-        "if": "If can introduce many finite embedded questions, but not this whether-to infinitive construction.",
+        "whether": "'Whether' can introduce the alternatives directly before 'to repair ... or replace it'.",
+        "if": "'If' can introduce many finite embedded questions, but not this whether-to infinitive construction.",
         "that": "That introduces a declarative clause, not the infinitive choice presented here.",
         "what": "Both repair the chair and replace it already have objects; what does not introduce this yes-no choice between the two actions."
       },
@@ -1870,12 +1870,12 @@
         "we paid"
       ],
       "answer": "we paid",
-      "explanation": "The embedded clause uses subject before the past verb: how much we paid.",
+      "explanation": "The embedded clause uses subject before the past verb: 'how much we paid'.",
       "rationales": {
-        "did we pay": "Did we pay is direct-question order; after how much in this embedded clause, use we paid.",
-        "we did paid": "Did requires the base verb pay, not the past form paid.",
+        "did we pay": "'Did we pay' is direct-question order; after 'how much' in this embedded clause, use 'we paid'.",
+        "we did paid": "'Did' requires the base verb 'pay', not the past form 'paid'.",
         "we payed": "The past form for paying money is paid, not payed.",
-        "we paid": "The embedded clause uses subject before the past verb: how much we paid."
+        "we paid": "The embedded clause uses subject before the past verb: 'how much we paid'."
       },
       "audit": {
         "status": "reviewed",
@@ -1902,9 +1902,9 @@
         "From the rear entrance."
       ],
       "answer": "Clearly enough to follow every word.",
-      "explanation": "Clearly enough describes the quality or degree of hearing, which how well requests.",
+      "explanation": "'Clearly enough' describes the quality or degree of hearing, which 'how well' requests.",
       "rationales": {
-        "Clearly enough to follow every word.": "Clearly enough describes the quality or degree of hearing, which how well requests.",
+        "Clearly enough to follow every word.": "'Clearly enough' describes the quality or degree of hearing, which 'how well' requests.",
         "About once every five minutes.": "This gives a frequency, not the clarity of the sound.",
         "For another half an hour.": "This gives a duration, not how clearly the presenter can be heard.",
         "From the rear entrance.": "This gives a location, while at the back already supplies the listeners' location."
@@ -1966,11 +1966,11 @@
         "Who thinks the manager appointed the chef?"
       ],
       "answer": "Who does the manager think appointed the chef?",
-      "explanation": "Who belongs as the subject of appointed inside the manager's belief; the outer question uses does the manager think.",
+      "explanation": "'Who' belongs as the subject of 'appointed' inside the manager's belief; the outer question uses 'does the manager think'.",
       "rationales": {
         "Who appointed the manager as chef?": "This makes the manager the person appointed as chef, rather than the source of a belief about a separate appointment.",
         "Who does the manager think the chef appointed?": "This makes the chef the appointing agent and asks for the person appointed.",
-        "Who does the manager think appointed the chef?": "Who belongs as the subject of appointed inside the manager's belief; the outer question uses does the manager think.",
+        "Who does the manager think appointed the chef?": "'Who' belongs as the subject of 'appointed' inside the manager's belief; the outer question uses 'does the manager think'.",
         "Who thinks the manager appointed the chef?": "This asks for the holder of a belief about the manager appointing someone, not the agent identified in the manager's belief."
       },
       "audit": {
@@ -1998,12 +1998,12 @@
         "Who does the distributor hope to negotiate with?"
       ],
       "answer": "With whom is the distributor negotiating?",
-      "explanation": "With comes before formal whom, followed by the inversion is the distributor.",
+      "explanation": "'With' comes before formal 'whom', followed by the inversion 'is the distributor'.",
       "rationales": {
         "Who is the distributor negotiating with?": "This is a valid conversational question, but its preposition is at the end rather than before the question word as requested.",
         "Which person is negotiating with the distributor?": "This makes which person the subject and does not use the requested fronted-preposition construction.",
         "Who does the distributor hope to negotiate with?": "This leaves with at the end and changes current negotiation into a hoped-for negotiation.",
-        "With whom is the distributor negotiating?": "With comes before formal whom, followed by the inversion is the distributor."
+        "With whom is the distributor negotiating?": "'With' comes before formal 'whom', followed by the inversion 'is the distributor'."
       },
       "audit": {
         "status": "reviewed",
@@ -2099,7 +2099,7 @@
         "The customer wants a list of previous buyers of the cabinet.": "The conditional question reacts to the proposed price, rather than requesting a historical customer list.",
         "The customer is volunteering to pay the full amount.": "The question challenges the attractiveness of the purchase; it does not offer to make it.",
         "The customer doubts that full price is reasonable for the damaged item.": "In this exchange, who would ...? rhetorically questions the reasonableness of paying that price.",
-        "The customer is asking which employee sets the prices.": "The grammatical subject who would pay concerns a buyer, not an employee who sets the price."
+        "The customer is asking which employee sets the prices.": "The grammatical subject 'who would pay' concerns a buyer, not an employee who sets the price."
       },
       "audit": {
         "status": "reviewed",
@@ -2126,12 +2126,12 @@
         "isn't it"
       ],
       "answer": "does he",
-      "explanation": "Hardly ever triggers a positive tag; does matches the simple-present verb and he refers to the caretaker.",
+      "explanation": "'Hardly ever' triggers a positive tag; 'does' matches the simple-present verb and 'he' refers to the caretaker.",
       "rationales": {
         "doesn't he": "Hardly ever gives the clause negative force, so the conventional confirmation tag is positive.",
         "has he": "Uses is simple present, so the matching helper is does, not has.",
-        "isn't it": "The tag refers to the caretaker and the action uses, not to the lift with is.",
-        "does he": "Hardly ever triggers a positive tag; does matches the simple-present verb and he refers to the caretaker."
+        "isn't it": "The tag refers to the caretaker and the action 'uses', not to the lift with 'is'.",
+        "does he": "'Hardly ever' triggers a positive tag; 'does' matches the simple-present verb and 'he' refers to the caretaker."
       },
       "audit": {
         "status": "reviewed",
@@ -2254,12 +2254,12 @@
         "It asks which person has already moved the rehearsal."
       ],
       "answer": "It is a conventional elliptical question proposing an alternative.",
-      "explanation": "What about plus an -ing phrase can propose an option for discussion without a full finite clause.",
+      "explanation": "'What about' plus an -ing phrase can propose an option for discussion without a full finite clause.",
       "rationales": {
-        "It is incomplete because a question must contain a finite verb.": "Conventional conversational questions such as What about ...? can be grammatical without an overt finite verb.",
-        "It asks what happened during an earlier outdoor rehearsal.": "Moving here names an action being considered, not a completed rehearsal being narrated.",
+        "It is incomplete because a question must contain a finite verb.": "Conventional conversational questions such as 'What about ...?' can be grammatical without an overt finite verb.",
+        "It asks what happened during an earlier outdoor rehearsal.": "'Moving' here names an action being considered, not a completed rehearsal being narrated.",
         "It asks which person has already moved the rehearsal.": "The phrase asks for consideration of an alternative action, not for an agent's identity.",
-        "It is a conventional elliptical question proposing an alternative.": "What about plus an -ing phrase can propose an option for discussion without a full finite clause."
+        "It is a conventional elliptical question proposing an alternative.": "'What about' plus an -ing phrase can propose an option for discussion without a full finite clause."
       },
       "audit": {
         "status": "reviewed",
@@ -2289,7 +2289,7 @@
       "explanation": "Not at all denies any objection, and Go ahead explicitly grants permission.",
       "rationales": {
         "Not at all. Go ahead.": "Not at all denies any objection, and Go ahead explicitly grants permission.",
-        "I'm afraid I would; it isn't ready.": "I would here means I would mind, so this expresses an objection rather than permission.",
+        "I'm afraid I would; it isn't ready.": "'I would' here means 'I would mind', so this expresses an objection rather than permission.",
         "I'd rather you didn't just yet.": "This states a preference against photographing it at present.",
         "I'd prefer to wait until it's finished.": "This postpones permission until completion instead of granting it now."
       },
@@ -2352,10 +2352,10 @@
       "answer": "hasn't there",
       "explanation": "There's been expands to there has been, giving the negative tag hasn't there.",
       "rationales": {
-        "isn't there": "In there's been, 's means has, not is, so the tag must repeat have.",
+        "isn't there": "In \"there's been\", \"'s\" means 'has', not 'is', so the tag must repeat 'have'.",
         "hasn't it": "Existential there is retained in the tag rather than replaced by it.",
         "hasn't there": "There's been expands to there has been, giving the negative tag hasn't there.",
-        "wasn't it": "The main clause is present perfect, not past be, and its tag subject remains there."
+        "wasn't it": "The main clause is present perfect, not past 'be', and its tag subject remains 'there'."
       },
       "audit": {
         "status": "reviewed",
@@ -2382,12 +2382,12 @@
         "How many seats will been have installed by opening night?"
       ],
       "answer": "How many seats will have been installed by opening night?",
-      "explanation": "How many seats is the subject, followed by will have been installed to ask about completed installation by the future boundary.",
+      "explanation": "'How many seats' is the subject, followed by 'will have been installed' to ask about completed installation by the future boundary.",
       "rationales": {
         "How many seats will have installed by opening night?": "Without been, will have installed is active; seats are the things installed, not the installing agents.",
-        "How many seats will have been install by opening night?": "After have been in the passive, use the past participle installed rather than install.",
+        "How many seats will have been install by opening night?": "After 'have been' in the passive, use the past participle 'installed' rather than 'install'.",
         "How many seats will been have installed by opening night?": "The auxiliary order is will have been, not will been have.",
-        "How many seats will have been installed by opening night?": "How many seats is the subject, followed by will have been installed to ask about completed installation by the future boundary."
+        "How many seats will have been installed by opening night?": "'How many seats' is the subject, followed by 'will have been installed' to ask about completed installation by the future boundary."
       },
       "audit": {
         "status": "reviewed",
@@ -2478,11 +2478,11 @@
         "Both ask for the same yes-no information with different placement of or not."
       ],
       "answer": "Both ask for the same yes-no information with different placement of or not.",
-      "explanation": "Or not can occur immediately after whether or at the end of this clause without changing the basic alternatives.",
+      "explanation": "'Or not' can occur immediately after 'whether' or at the end of this clause without changing the basic alternatives.",
       "rationales": {
         "A asks about waterproofing; B asks whether a tent exists.": "Both clauses have the tent's waterproof status as their subject matter; neither shifts to existence.",
         "A asks a question; B states that the tent is not waterproof.": "Or not remains part of an embedded alternative question in B rather than an assertion of non-waterproofing.",
-        "Both ask for the same yes-no information with different placement of or not.": "Or not can occur immediately after whether or at the end of this clause without changing the basic alternatives.",
+        "Both ask for the same yes-no information with different placement of or not.": "'Or not' can occur immediately after 'whether' or at the end of this clause without changing the basic alternatives.",
         "B reverses A's meaning by moving not after the adjective.": "The relocated or not spells out the negative alternative; it does not reverse the question's meaning."
       },
       "audit": {
@@ -2576,7 +2576,7 @@
       "answer": "Not all; three accepted and two declined.",
       "explanation": "Not all denies universal acceptance while the numbers preserve the partial positive outcome.",
       "rationales": {
-        "No; none of the five accepted.": "A negative answer to all does not mean none; this contradicts the three acceptances.",
+        "No; none of the five accepted.": "A negative answer to 'all' does not mean 'none'; this contradicts the three acceptances.",
         "Not all; three accepted and two declined.": "Not all denies universal acceptance while the numbers preserve the partial positive outcome.",
         "Yes; three of the five accepted.": "Three acceptances do not make the answer to did all five accept positive.",
         "No; all five declined their places.": "This converts the failure of universal acceptance into universal refusal, contrary to the stated distribution."
@@ -2675,7 +2675,7 @@
         "isn't it": "Isn't it checks the embedded proposition that the side entrance is locked, which is the requested target.",
         "don't I": "Don't I would focus on whether I think that; it is not the intended check of the door's state.",
         "aren't I": "Aren't I would require an I-am proposition and does not match either think or the door's is locked.",
-        "doesn't it": "The embedded state uses is, not a lexical verb that would take does."
+        "doesn't it": "The embedded state uses 'is', not a lexical verb that would take 'does'."
       },
       "audit": {
         "status": "reviewed",
@@ -2888,17 +2888,17 @@
       "setupText": "Assess the emphasized helper in the follow-up question.",
       "taskText": "'Neither the owner nor the manager authorized the mural.' 'Then who DID authorize it?'",
       "options": [
-        "Did is required because who is the object of authorize.",
+        "'Did' is required because 'who' is the object of 'authorize'.",
         "Did turns the question into a denial that authorization occurred.",
         "Did emphasizes the search for the actual authorizer after two candidates are excluded.",
-        "Did is an error because a subject question cannot contain it."
+        "'Did' is an error because a subject question cannot contain it."
       ],
       "answer": "Did emphasizes the search for the actual authorizer after two candidates are excluded.",
       "explanation": "The stress on did contrasts an actual but unidentified authorizer with the people just ruled out.",
       "rationales": {
-        "Did is required because who is the object of authorize.": "Who is the subject performing authorize, not its object; emphatic do is not evidence of an object question.",
+        "'Did' is required because 'who' is the object of 'authorize'.": "'Who' is the subject performing 'authorize', not its object; emphatic 'do' is not evidence of an object question.",
         "Did turns the question into a denial that authorization occurred.": "The follow-up seeks an agent after excluding two possibilities, rather than denying that anyone authorized the work.",
-        "Did is an error because a subject question cannot contain it.": "Subject questions can contain emphatic do; the restriction concerns unnecessary ordinary do-support, not this contrastive use.",
+        "'Did' is an error because a subject question cannot contain it.": "Subject questions can contain emphatic 'do'; the restriction concerns unnecessary ordinary do-support, not this contrastive use.",
         "Did emphasizes the search for the actual authorizer after two candidates are excluded.": "The stress on did contrasts an actual but unidentified authorizer with the people just ruled out."
       },
       "audit": {
@@ -2922,16 +2922,16 @@
       "options": [
         "Both embed the same question, with asked and tasted indicating different ways of answering it.",
         "A refers to the food; B embeds a question about its preparation.",
-        "Both refer to the food, with asked serving as a shortened request for the dish.",
+        "Both refer to the food, with 'asked' serving as a shortened request for the dish.",
         "A embeds a question; B refers to the prepared food."
       ],
       "answer": "A embeds a question; B refers to the prepared food.",
-      "explanation": "Asked introduces an inquiry, while tasted takes the prepared food as its object; the identical wh-clause has a different function.",
+      "explanation": "'Asked' introduces an inquiry, while 'tasted' takes the prepared food as its object; the identical wh-clause has a different function.",
       "rationales": {
-        "A embeds a question; B refers to the prepared food.": "Asked introduces an inquiry, while tasted takes the prepared food as its object; the identical wh-clause has a different function.",
-        "Both embed the same question, with asked and tasted indicating different ways of answering it.": "Tasting can supply information, but grammatically tasted takes the food referred to by the clause, not an interrogative complement here.",
-        "A refers to the food; B embeds a question about its preparation.": "This reverses the contrast between the inquiry after asked and the referring expression after tasted.",
-        "Both refer to the food, with asked serving as a shortened request for the dish.": "Asked what was prepared asks for information; asking for the dish would need a different construction, such as asked for what the chef had prepared."
+        "A embeds a question; B refers to the prepared food.": "'Asked' introduces an inquiry, while 'tasted' takes the prepared food as its object; the identical wh-clause has a different function.",
+        "Both embed the same question, with asked and tasted indicating different ways of answering it.": "Tasting can supply information, but grammatically 'tasted' takes the food referred to by the clause, not an interrogative complement here.",
+        "A refers to the food; B embeds a question about its preparation.": "This reverses the contrast between the inquiry after 'asked' and the referring expression after 'tasted'.",
+        "Both refer to the food, with 'asked' serving as a shortened request for the dish.": "Asked what was prepared asks for information; asking for the dish would need a different construction, such as asked for what the chef had prepared."
       },
       "audit": {
         "status": "reviewed",
@@ -3376,7 +3376,7 @@
       "answer": "A excludes other nominators; B contrasts nomination with appointment.",
       "explanation": "A asks about a nominee for whom the curator was the only nominator; B asks about someone merely nominated, not appointed, by the curator.",
       "rationales": {
-        "A asks for a nominee supported by everyone except the curator; B distinguishes nomination from appointment.": "Only the curator includes the curator and excludes other nominators; it does not mean everyone except the curator.",
+        "A asks for a nominee supported by everyone except the curator; B distinguishes nomination from appointment.": "'Only the curator' includes the curator and excludes other nominators; it does not mean everyone except the curator.",
         "Both ask for the sole person nominated by the curator, with different emphasis.": "Neither placement attaches only to the nominee as a restriction to one person; the emphasized agent and action differ.",
         "A excludes other nominators; B contrasts nomination with appointment.": "A asks about a nominee for whom the curator was the only nominator; B asks about someone merely nominated, not appointed, by the curator.",
         "A restricts the action to nomination; B restricts the identity of the nominator.": "This reverses the focused constituents: A restricts the agent, while B restricts the action."
@@ -3408,7 +3408,7 @@
       "answer": "Being lost is presented as actual; the guide's knowledge is entertained conditionally.",
       "explanation": "The speaker asks how the actual problem can coexist with the hypothesized knowledge, without asserting that the guide has it.",
       "rationales": {
-        "The guide's knowledge is established, while being lost is only hypothetical.": "The if-clause does not establish the guide's knowledge, while still lost is the condition the speaker is trying to explain.",
+        "The guide's knowledge is established, while being lost is only hypothetical.": "The if-clause does not establish the guide's knowledge, while 'still lost' is the condition the speaker is trying to explain.",
         "Neither the guide's knowledge nor the group's being lost is presented as actual.": "The current problem is not itself introduced by if; the question treats the group's continuing lost state as given.",
         "The question establishes that the guide does not know the entrance's location.": "The question raises a tension with the guide's supposed knowledge, but it does not deductively prove ignorance.",
         "Being lost is presented as actual; the guide's knowledge is entertained conditionally.": "The speaker asks how the actual problem can coexist with the hypothesized knowledge, without asserting that the guide has it."
@@ -3434,16 +3434,16 @@
       "options": [
         "Both match case to the wh-word's role in the lower clause.",
         "A needs whom because believe is immediately followed by an understood person object.",
-        "B needs who because a word at the start of a question must be its subject.",
+        "B needs 'who' because a word at the start of a question must be its subject.",
         "Both need the same case because their main clause is do you believe."
       ],
       "answer": "Both match case to the wh-word's role in the lower clause.",
-      "explanation": "Who is the lower-clause subject in A; whom is the lower-clause object in B. The intervening belief clause does not determine their case.",
+      "explanation": "'Who' is the lower-clause subject in A; 'whom' is the lower-clause object in B. The intervening belief clause does not determine their case.",
       "rationales": {
-        "Both match case to the wh-word's role in the lower clause.": "Who is the lower-clause subject in A; whom is the lower-clause object in B. The intervening belief clause does not determine their case.",
+        "Both match case to the wh-word's role in the lower clause.": "'Who' is the lower-clause subject in A; 'whom' is the lower-clause object in B. The intervening belief clause does not determine their case.",
         "A needs whom because believe is immediately followed by an understood person object.": "A's wh-word performs has nominated; it is not the object of believe merely because it is linked across that verb.",
-        "B needs who because a word at the start of a question must be its subject.": "Initial position does not make a wh-word a subject. In B, the candidate is the lower-clause subject and whom its object.",
-        "Both need the same case because their main clause is do you believe.": "The matching higher clause does not erase the different grammatical roles in the clause containing nominated."
+        "B needs 'who' because a word at the start of a question must be its subject.": "Initial position does not make a wh-word a subject. In B, 'the candidate' is the lower-clause subject and 'whom' its object.",
+        "Both need the same case because their main clause is do you believe.": "The matching higher clause does not erase the different grammatical roles in the clause containing 'nominated'."
       },
       "audit": {
         "status": "reviewed",
@@ -3795,7 +3795,7 @@
         "The trial established that the coating does not repel water and asks why it fails physically.": "Failure to demonstrate a property is not equivalent to demonstrating that the property is absent.",
         "The question assumes failed demonstration, not a demonstrated failure of the coating.": "The why-question backgrounds unsuccessful demonstration; it does not thereby settle the coating's actual effectiveness.",
         "The coating repels water, but the investigators failed to understand why.": "Demonstrate is non-factive in this failed-demonstration clause; neither effectiveness nor the investigators' lack of understanding is established.",
-        "No trial was completed, and the question asks why it was cancelled.": "Fail to demonstrate does not mean fail to conduct a trial; a completed trial may yield inconclusive evidence."
+        "No trial was completed, and the question asks why it was cancelled.": "'Fail to demonstrate' does not mean 'fail to conduct a trial'; a completed trial may yield inconclusive evidence."
       },
       "audit": {
         "status": "reviewed",

@@ -76,9 +76,9 @@
         "ask Luis to take a rest"
       ],
       "answer": "give Luis money",
-      "explanation": "Pay someone for work means give that person money for doing it.",
+      "explanation": "'Pay someone for work' means give that person money for doing it.",
       "rationales": {
-        "give Luis money": "Pay someone for work means give that person money for doing it.",
+        "give Luis money": "'Pay someone for work' means give that person money for doing it.",
         "ask Luis for money": "That reverses the payment: the garage is paying Luis.",
         "give Luis another job": "Payment rewards work; it does not mean assigning more work.",
         "ask Luis to take a rest": "A rest is a break, not payment."
@@ -448,10 +448,10 @@
         "wait for the driver to call you"
       ],
       "answer": "speak to the driver in a call",
-      "explanation": "Phone is a verb here: make a telephone call to someone.",
+      "explanation": "'Phone' is a verb here: make a telephone call to someone.",
       "rationales": {
         "write the driver a short message": "The instruction explicitly asks for a call instead of a text.",
-        "speak to the driver in a call": "Phone is a verb here: make a telephone call to someone.",
+        "speak to the driver in a call": "'Phone' is a verb here: make a telephone call to someone.",
         "write down the driver's number": "Recording a number does not contact the driver.",
         "wait for the driver to call you": "The instruction asks you to make the call."
       },
@@ -574,10 +574,10 @@
       "answer": "I work fewer hours than a full-time worker.",
       "explanation": "Part-time work uses only part of the usual full working week.",
       "rationales": {
-        "I work there for no money.": "Part-time describes working hours, not whether the work is paid.",
+        "I work there for no money.": "'Part-time' describes working hours, not whether the work is paid.",
         "I work fewer hours than a full-time worker.": "Part-time work uses only part of the usual full working week.",
-        "I work in two different shops.": "Two afternoons do not mean two employers; part-time concerns hours.",
-        "I work there only while travelling.": "Part-time does not describe a travel arrangement."
+        "I work in two different shops.": "Two afternoons do not mean two employers; 'part-time' concerns hours.",
+        "I work there only while travelling.": "'Part-time' does not describe a travel arrangement."
       },
       "audit": {
         "status": "reviewed",
@@ -761,9 +761,9 @@
       "explanation": "Overtime is work outside the normal working hours.",
       "rationales": {
         "I worked beyond my usual hours.": "Overtime is work outside the normal working hours.",
-        "I arrived after my usual start time.": "Arriving late is not what overtime means; the sentence concerns extra hours at the end.",
+        "I arrived after my usual start time.": "Arriving late is not what 'overtime' means; the sentence concerns extra hours at the end.",
         "I took extra time off.": "Time off is time not working, whereas overtime adds work.",
-        "I did the same work more quickly.": "Overtime describes additional working time, not speed."
+        "I did the same work more quickly.": "'Overtime' describes additional working time, not speed."
       },
       "audit": {
         "status": "reviewed",
@@ -1101,10 +1101,10 @@
       "answer": "a job someone can apply for",
       "explanation": "A position in a job advertisement is a role available for employment.",
       "rationales": {
-        "a place to stand during a tour": "Position can mean location, but advertising a guide position concerns employment.",
+        "a place to stand during a tour": "'Position' can mean location, but advertising a guide position concerns employment.",
         "a job someone can apply for": "A position in a job advertisement is a role available for employment.",
         "a route visitors should follow": "A route describes movement, not the guide's job vacancy.",
-        "an opinion about museum opening hours": "Position can mean viewpoint, but this advertisement names a work role."
+        "an opinion about museum opening hours": "'Position' can mean viewpoint, but this advertisement names a work role."
       },
       "audit": {
         "status": "reviewed",
@@ -1130,12 +1130,12 @@
         "employ two assistants"
       ],
       "answer": "employ two assistants",
-      "explanation": "To hire a person for work means employ that person.",
+      "explanation": "'To hire a person for work' means employ that person.",
       "rationales": {
         "ask two assistants to leave": "That would reduce staff; hiring brings people into employment.",
         "send two assistants on holiday": "Leave is time away from an existing job, not hiring.",
-        "employ two assistants": "To hire a person for work means employ that person.",
-        "ask two assistants to pay for training": "Hiring does not mean charging applicants a training fee."
+        "employ two assistants": "'To hire a person for work' means employ that person.",
+        "ask two assistants to pay for training": "'Hiring' does not mean charging applicants a training fee."
       },
       "audit": {
         "status": "reviewed",
@@ -1165,7 +1165,7 @@
       "rationales": {
         "give up his current job officially": "To resign is to leave a position by one's own decision, usually notifying the employer.",
         "take a short break and then return": "A break or leave does not end the employment relationship.",
-        "be dismissed by the garage": "Dismissal is the employer's action; resignation is the employee's decision.",
+        "be dismissed by the garage": "'Dismissal' is the employer's action; 'resignation' is the employee's decision.",
         "move to a different task at the garage": "Changing duties within the same employment is not resigning from it."
       },
       "audit": {
@@ -1192,12 +1192,12 @@
         "bringing the parcel to the client"
       ],
       "answer": "bringing the parcel to the client",
-      "explanation": "Deliver means take something to its intended recipient or destination.",
+      "explanation": "'Deliver' means take something to its intended recipient or destination.",
       "rationales": {
         "taking the parcel from our office": "That is collection, which has already happened.",
         "placing the order with a supplier": "Ordering occurred before the courier collected the parcel.",
         "wrapping the goods for travel": "Packing prepares goods for transport; delivery is the later arrival.",
-        "bringing the parcel to the client": "Deliver means take something to its intended recipient or destination."
+        "bringing the parcel to the client": "'Deliver' means take something to its intended recipient or destination."
       },
       "audit": {
         "status": "reviewed",
@@ -1223,10 +1223,10 @@
         "teach participants to make gloves"
       ],
       "answer": "provide gloves for participants to use",
-      "explanation": "Supply means provide something needed; the sentence removes the need to bring gloves.",
+      "explanation": "'Supply' means provide something needed; the sentence removes the need to bring gloves.",
       "rationales": {
         "ask participants to buy gloves elsewhere": "That conflicts with supplying gloves itself.",
-        "provide gloves for participants to use": "Supply means provide something needed; the sentence removes the need to bring gloves.",
+        "provide gloves for participants to use": "'Supply' means provide something needed; the sentence removes the need to bring gloves.",
         "collect participants' gloves at the door": "Collecting their gloves would take them in, not provide them.",
         "teach participants to make gloves": "Teaching a skill is different from providing the actual equipment."
       },
@@ -1412,7 +1412,7 @@
       "explanation": "A colleague is someone you work with; identical duties are not required.",
       "rationales": {
         "We work in the same organization.": "A colleague is someone you work with; identical duties are not required.",
-        "Farah must be my supervisor.": "Colleague does not specify authority over the speaker.",
+        "Farah must be my supervisor.": "'Colleague' does not specify authority over the speaker.",
         "Farah and I must have the same duties.": "They work on different collections; colleagues need not do identical jobs.",
         "Farah and I are close friends outside work.": "A working relationship does not establish a personal friendship."
       },
@@ -1657,11 +1657,11 @@
         "the materials written after filming"
       ],
       "answer": "the tools and devices used for the work",
-      "explanation": "Equipment refers to the items needed to perform an activity.",
+      "explanation": "'Equipment' refers to the items needed to perform an activity.",
       "rationales": {
-        "the tools and devices used for the work": "Equipment refers to the items needed to perform an activity.",
+        "the tools and devices used for the work": "'Equipment' refers to the items needed to perform an activity.",
         "the people who will appear in the film": "People are participants, not the equipment listed here.",
-        "the tasks planned for the filming day": "Tasks describe actions; equipment names the things used.",
+        "the tasks planned for the filming day": "'Tasks' describe actions; 'equipment' names the things used.",
         "the materials written after filming": "Later reports or scripts are not the devices being checked."
       },
       "audit": {
@@ -1721,7 +1721,7 @@
       "answer": "work during the hours assigned to Asha",
       "explanation": "To cover someone's shift is to work in their place for that period.",
       "rationales": {
-        "keep her absence secret": "Cover can mean conceal, but covering a shift means working it.",
+        "keep her absence secret": "'Cover' can mean conceal, but 'covering a shift' means working it.",
         "pay Asha for the hours she misses": "The phrase concerns doing the work, not funding her absence.",
         "cancel her shift from the schedule": "Covering keeps the shift staffed rather than cancelling it.",
         "work during the hours assigned to Asha": "To cover someone's shift is to work in their place for that period."
@@ -1846,7 +1846,7 @@
       "explanation": "An hourly wage is the rate earned per hour, distinct from total earnings.",
       "rationales": {
         "my total pay for the week": "Fewer hours may offset the higher rate; total pay is not established.",
-        "the number of hours in each shift": "Wage describes pay, not shift length.",
+        "the number of hours in each shift": "'Wage' describes pay, not shift length.",
         "the bonus for finishing early": "An hourly wage is a regular rate, not a completion bonus.",
         "the amount paid for each hour of work": "An hourly wage is the rate earned per hour, distinct from total earnings."
       },
@@ -1905,9 +1905,9 @@
         "request the supplier's original price"
       ],
       "answer": "give the necessary permission for it",
-      "explanation": "Authorize means formally permit an action; checking figures does not itself supply approval.",
+      "explanation": "'Authorize' means formally permit an action; checking figures does not itself supply approval.",
       "rationales": {
-        "give the necessary permission for it": "Authorize means formally permit an action; checking figures does not itself supply approval.",
+        "give the necessary permission for it": "'Authorize' means formally permit an action; checking figures does not itself supply approval.",
         "calculate the total again": "Verification has happened; authorization is a different responsibility.",
         "confirm that the supplier has received it": "Receipt occurs after payment; the payment still needs permission.",
         "request the supplier's original price": "The figures already exist; authorization does not mean asking for a quotation."
@@ -1936,12 +1936,12 @@
         "assess last year's results from using it"
       ],
       "answer": "put the approved system into operation",
-      "explanation": "Implement means carry out a plan or put a system into practical use.",
+      "explanation": "'Implement' means carry out a plan or put a system into practical use.",
       "rationales": {
         "decide whether the idea is worth considering": "Design and approval are complete; implementation is beyond initial consideration.",
         "draw up the first proposal for it": "A proposal precedes the approved design.",
         "assess last year's results from using it": "It has not yet been put into use, so that assessment is premature.",
-        "put the approved system into operation": "Implement means carry out a plan or put a system into practical use."
+        "put the approved system into operation": "'Implement' means carry out a plan or put a system into practical use."
       },
       "audit": {
         "status": "reviewed",
@@ -1967,10 +1967,10 @@
         "an increase in my regular salary"
       ],
       "answer": "repayment of my work-related expense",
-      "explanation": "Reimburse means pay someone back for money they have spent.",
+      "explanation": "'Reimburse' means pay someone back for money they have spent.",
       "rationales": {
         "an advance before I incur the cost": "An advance precedes spending; the taxi fare has already been paid.",
-        "repayment of my work-related expense": "Reimburse means pay someone back for money they have spent.",
+        "repayment of my work-related expense": "'Reimburse' means pay someone back for money they have spent.",
         "a refund from the taxi driver for poor service": "The company, not the taxi driver, will repay this expense.",
         "an increase in my regular salary": "Reimbursement covers a specific cost, not a new rate of pay."
       },
@@ -2029,9 +2029,9 @@
         "Resources have been assigned to a purpose."
       ],
       "answer": "Resources have been assigned to a purpose.",
-      "explanation": "Allocate means assign resources for a particular use; the work may begin later.",
+      "explanation": "'Allocate' means assign resources for a particular use; the work may begin later.",
       "rationales": {
-        "Resources have been assigned to a purpose.": "Allocate means assign resources for a particular use; the work may begin later.",
+        "Resources have been assigned to a purpose.": "'Allocate' means assign resources for a particular use; the work may begin later.",
         "The technicians have finished testing.": "Assigning people does not mean the task is completed.",
         "The project has recruited two new employees.": "The technicians may already work there; allocation does not imply recruitment.",
         "The testing work has been removed from the plan.": "Resources have been assigned to testing, not withdrawn from it."
@@ -2060,12 +2060,12 @@
         "She gave Priya a permanent promotion."
       ],
       "answer": "She entrusted a task to another team member.",
-      "explanation": "Delegate means give someone responsibility for carrying out a task.",
+      "explanation": "'Delegate' means give someone responsibility for carrying out a task.",
       "rationales": {
         "She asked another company to run staffing.": "Priya is on the team; external contracting would be outsourcing.",
         "She checked Priya's completed rota.": "Delegating assigns the preparation; it does not describe reviewing finished work.",
         "She gave Priya a permanent promotion.": "Receiving a task does not itself change Priya's job level.",
-        "She entrusted a task to another team member.": "Delegate means give someone responsibility for carrying out a task."
+        "She entrusted a task to another team member.": "'Delegate' means give someone responsibility for carrying out a task."
       },
       "audit": {
         "status": "reviewed",
@@ -2091,10 +2091,10 @@
         "advertising the services to guests"
       ],
       "answer": "assessing how well the services met relevant criteria",
-      "explanation": "Evaluate means judge quality or value against relevant considerations.",
+      "explanation": "'Evaluate' means judge quality or value against relevant considerations.",
       "rationales": {
         "rewriting the services' offers": "Evaluation judges offers; it need not alter their wording.",
-        "assessing how well the services met relevant criteria": "Evaluate means judge quality or value against relevant considerations.",
+        "assessing how well the services met relevant criteria": "'Evaluate' means judge quality or value against relevant considerations.",
         "agreeing to purchase all three services": "Evaluation precedes or informs a choice; it is not acceptance of every option.",
         "advertising the services to guests": "Promotion publicizes a service rather than assessing it for purchase."
       },
@@ -2184,12 +2184,12 @@
         "encouraging current animators to stay"
       ],
       "answer": "encouraging current animators to stay",
-      "explanation": "Retain staff means keep existing employees in the organization.",
+      "explanation": "'Retain staff' means keep existing employees in the organization.",
       "rationales": {
         "attracting applicants who have never worked there": "Recruiting new people is different from retaining existing employees.",
-        "encouraging current animators to stay": "Retain staff means keep existing employees in the organization.",
+        "encouraging current animators to stay": "'Retain staff' means keep existing employees in the organization.",
         "replacing experienced animators with trainees": "Replacement loses the staff the studio wants to retain.",
-        "reducing every animator's working hours": "Career paths may involve several measures, but retain does not mean shorten hours."
+        "reducing every animator's working hours": "Career paths may involve several measures, but 'retain' does not mean shorten hours."
       },
       "audit": {
         "status": "reviewed",
@@ -2215,12 +2215,12 @@
         "Employees work rotating morning and evening shifts."
       ],
       "answer": "Employees leave and need replacing frequently.",
-      "explanation": "Staff turnover describes the rate of departures and replacement within a workforce.",
+      "explanation": "'Staff turnover' describes the rate of departures and replacement within a workforce.",
       "rationales": {
         "Employees spend too much time serving each customer.": "Service time is not the staffing movement called turnover.",
-        "Employees generate unusually high sales.": "Turnover can refer to business sales, but staff turnover concerns employees leaving and being replaced.",
+        "Employees generate unusually high sales.": "'Turnover' can refer to business sales, but 'staff turnover' concerns employees leaving and being replaced.",
         "Employees work rotating morning and evening shifts.": "Shift rotation is a schedule pattern, not staff turnover.",
-        "Employees leave and need replacing frequently.": "Staff turnover describes the rate of departures and replacement within a workforce."
+        "Employees leave and need replacing frequently.": "'Staff turnover' describes the rate of departures and replacement within a workforce."
       },
       "audit": {
         "status": "reviewed",
@@ -2277,11 +2277,11 @@
         "whether the required labeling steps were being followed"
       ],
       "answer": "whether the required labeling steps were being followed",
-      "explanation": "Compliance means acting in accordance with specified rules or requirements.",
+      "explanation": "'Compliance' means acting in accordance with specified rules or requirements.",
       "rationales": {
         "whether workers personally liked the procedure": "Compliance concerns following requirements, not agreeing with them.",
         "whether a new labeling method could be invented": "Designing a method differs from checking adherence to an existing one.",
-        "whether the required labeling steps were being followed": "Compliance means acting in accordance with specified rules or requirements.",
+        "whether the required labeling steps were being followed": "'Compliance' means acting in accordance with specified rules or requirements.",
         "whether the labels were selling profitably": "Labeling compliance is unrelated to selling labels for profit."
       },
       "audit": {
@@ -2463,10 +2463,10 @@
         "the payment sent to the chosen supplier"
       ],
       "answer": "the team responsible for obtaining goods and services",
-      "explanation": "A department's function can stand for its staff; Procurement here means the buying team.",
+      "explanation": "A department's function can stand for its staff; 'Procurement' here means the buying team.",
       "rationales": {
         "the goods that have already arrived": "Goods cannot ask the manager to compare quotes.",
-        "the team responsible for obtaining goods and services": "A department's function can stand for its staff; Procurement here means the buying team.",
+        "the team responsible for obtaining goods and services": "A department's function can stand for its staff; 'Procurement' here means the buying team.",
         "the customer waiting for the finished product": "The quotation request comes from the organization's purchasing function.",
         "the payment sent to the chosen supplier": "A payment cannot issue the request, and selection has not yet occurred."
       },
@@ -2623,7 +2623,7 @@
         "the amount of work assigned to each employee": "The sentence distinguishes organization of work from the amount of work.",
         "the organization and passage of work between stages": "Workflow concerns the organization and movement of work through stages.",
         "the range of benefits offered to the staff": "Benefits concern employment conditions, not how illustrations reach layout.",
-        "the total number of publications commissioned": "Assignment numbers are unchanged; workflow does not mean total commissioned output."
+        "the total number of publications commissioned": "Assignment numbers are unchanged; 'workflow' does not mean total commissioned output."
       },
       "audit": {
         "status": "reviewed",
@@ -2649,12 +2649,12 @@
         "It will be negotiated without reference to working hours."
       ],
       "answer": "The amount is adjusted in proportion to the hours worked.",
-      "explanation": "Pro rata means in proportion; here the full-time figure is scaled to the agreed working hours.",
+      "explanation": "'Pro rata' means in proportion; here the full-time figure is scaled to the agreed working hours.",
       "rationales": {
-        "It is the minimum regardless of hours worked.": "Pro rata indicates proportional adjustment, not the same guaranteed amount for all hours.",
+        "It is the minimum regardless of hours worked.": "'Pro rata' indicates proportional adjustment, not the same guaranteed amount for all hours.",
         "It is paid only as a bonus after the first year.": "The phrase concerns proportion, not a performance bonus or waiting period.",
         "It will be negotiated without reference to working hours.": "The advertisement explicitly links the proportion to part-time hours.",
-        "The amount is adjusted in proportion to the hours worked.": "Pro rata means in proportion; here the full-time figure is scaled to the agreed working hours."
+        "The amount is adjusted in proportion to the hours worked.": "'Pro rata' means in proportion; here the full-time figure is scaled to the agreed working hours."
       },
       "audit": {
         "status": "reviewed",
@@ -2705,16 +2705,16 @@
       "setupText": "A British employer announced redundancies after closing its print room, while thanking the affected staff for their excellent work.",
       "taskText": "Which interpretation explains why the thanks and redundancies are compatible?",
       "options": [
-        "Redundancy means a temporary break until printing restarts.",
+        "'Redundancy' means a temporary break until printing restarts.",
         "The jobs, not their performance, are the issue.",
-        "Redundancy means the employees chose to retire.",
+        "'Redundancy' means the employees chose to retire.",
         "The employees are being promoted into more senior posts."
       ],
       "answer": "The jobs, not their performance, are the issue.",
       "explanation": "In British employment usage, redundancy concerns jobs no longer required, not necessarily the workers' performance.",
       "rationales": {
-        "Redundancy means a temporary break until printing restarts.": "Redundancy concerns losing an unneeded job, not necessarily a temporary absence.",
-        "Redundancy means the employees chose to retire.": "Voluntary retirement is a different employment event.",
+        "'Redundancy' means a temporary break until printing restarts.": "Redundancy concerns losing an unneeded job, not necessarily a temporary absence.",
+        "'Redundancy' means the employees chose to retire.": "Voluntary retirement is a different employment event.",
         "The jobs, not their performance, are the issue.": "In British employment usage, redundancy concerns jobs no longer required, not necessarily the workers' performance.",
         "The employees are being promoted into more senior posts.": "Redundancy is not a promotion, even when the employees' work is praised."
       },
@@ -2804,9 +2804,9 @@
         "withdrew the issue from consideration"
       ],
       "answer": "referred it to someone with greater authority",
-      "explanation": "In a workplace process, escalating an issue can mean referring it to a higher decision-making level.",
+      "explanation": "In a workplace process, 'escalating an issue' can mean referring it to a higher decision-making level.",
       "rationales": {
-        "referred it to someone with greater authority": "In a workplace process, escalating an issue can mean referring it to a higher decision-making level.",
+        "referred it to someone with greater authority": "In a workplace process, 'escalating an issue' can mean referring it to a higher decision-making level.",
         "made the disagreement deliberately more hostile": "Escalate can describe worsening conflict, but this sentence identifies referral to a director.",
         "increased the size of the requested exception": "The requested exception is unchanged; its decision-maker changes.",
         "withdrew the issue from consideration": "Referral continues consideration rather than ending it."
@@ -2870,7 +2870,7 @@
       "rationales": {
         "The bakery sold a smaller range of products.": "Product range is not the margin between sales income and the relevant cost of goods.",
         "Less remained from sales after the cost of goods sold.": "A narrower gross margin means a smaller gap between sales income and the cost of the goods sold.",
-        "The bakery had less physical room for production.": "Margin here is a financial measure, not workspace.",
+        "The bakery had less physical room for production.": "'Margin' here is a financial measure, not workspace.",
         "Customers received a larger price discount.": "Selling prices were unchanged; higher costs explain the reduced margin."
       },
       "audit": {
@@ -2933,7 +2933,7 @@
         "the other party to the agreement": "A counterparty is the other participant in an agreement or transaction; the relationship need not be adversarial.",
         "an independent observer with no part in the agreement": "An observer is not a party to the transaction.",
         "a competitor trying to prevent the agreement": "The other contracting party is not necessarily a market competitor or opponent.",
-        "our own employee responsible for checking the figures": "Counterparty refers to the other side, not an internal checker."
+        "our own employee responsible for checking the figures": "'Counterparty' refers to the other side, not an internal checker."
       },
       "audit": {
         "status": "reviewed",
@@ -3021,11 +3021,11 @@
         "a possible event the organizers need to prepare for"
       ],
       "answer": "a possible event the organizers need to prepare for",
-      "explanation": "Contingency can name an event that may occur; a contingency plan specifies how to respond.",
+      "explanation": "'Contingency' can name an event that may occur; 'a contingency plan' specifies how to respond.",
       "rationales": {
         "the backup supplier already booked": "The backup response is separate from the possible closure.",
         "the event's ordinary day-to-day schedule": "A contingency is a possible eventuality, not the routine timetable.",
-        "a possible event the organizers need to prepare for": "Contingency can name an event that may occur; a contingency plan specifies how to respond.",
+        "a possible event the organizers need to prepare for": "'Contingency' can name an event that may occur; 'a contingency plan' specifies how to respond.",
         "the confirmed reason the event has been cancelled": "No closure or cancellation is confirmed; the plan anticipates a possibility."
       },
       "audit": {
@@ -3052,9 +3052,9 @@
         "The team has formally approved a new project brief."
       ],
       "answer": "Unmanaged requests are expanding the agreed work.",
-      "explanation": "Scope creep is the gradual, unmanaged expansion of a project's requirements.",
+      "explanation": "'Scope creep' is the gradual, unmanaged expansion of a project's requirements.",
       "rationales": {
-        "Unmanaged requests are expanding the agreed work.": "Scope creep is the gradual, unmanaged expansion of a project's requirements.",
+        "Unmanaged requests are expanding the agreed work.": "'Scope creep' is the gradual, unmanaged expansion of a project's requirements.",
         "The agreed work is being completed faster than expected.": "The concern is expanding requirements, not improved speed.",
         "The original requirements are being deliberately reduced.": "Additional pages and tools expand rather than reduce the work.",
         "The team has formally approved a new project brief.": "The absence of a revised brief distinguishes uncontrolled expansion from an agreed change."
@@ -3365,9 +3365,9 @@
       "explanation": "A clawback provision permits recovery in specified circumstances; the word itself does not establish that those circumstances occurred.",
       "rationales": {
         "increasing future bonuses to correct an underestimate": "A clawback recovers value, rather than increases a later award.",
-        "deferring an award that has not yet become payable": "Deferral postpones payment; clawback concerns recovering an award already made.",
+        "deferring an award that has not yet become payable": "Deferral postpones payment; 'clawback' concerns recovering an award already made.",
         "recovering an award already paid or granted": "A clawback provision permits recovery in specified circumstances; the word itself does not establish that those circumstances occurred.",
-        "replacing a performance award with ordinary wages": "Changing the type of pay is not the recovery described by clawback."
+        "replacing a performance award with ordinary wages": "Changing the type of pay is not the recovery described by 'clawback'."
       },
       "audit": {
         "status": "reviewed",
@@ -3424,12 +3424,12 @@
         "a pause in customer service until the replacement is complete"
       ],
       "answer": "normal operations despite the change happening alongside them",
-      "explanation": "Business as usual refers to ordinary ongoing activity, even when a separate change is underway.",
+      "explanation": "'Business as usual' refers to ordinary ongoing activity, even when a separate change is underway.",
       "rationales": {
         "the existing stock software indefinitely": "The software is being replaced; the phrase does not cancel that change.",
         "exactly the same staffing and sales figures every day": "Routine operation does not mean all numerical measures remain identical.",
-        "a pause in customer service until the replacement is complete": "Business as usual calls for continuity rather than a service pause.",
-        "normal operations despite the change happening alongside them": "Business as usual refers to ordinary ongoing activity, even when a separate change is underway."
+        "a pause in customer service until the replacement is complete": "'Business as usual' calls for continuity rather than a service pause.",
+        "normal operations despite the change happening alongside them": "'Business as usual' refers to ordinary ongoing activity, even when a separate change is underway."
       },
       "audit": {
         "status": "reviewed",
@@ -3703,10 +3703,10 @@
         "the total duration of its longest supplier contract"
       ],
       "answer": "how long cash can sustain operations at that rate",
-      "explanation": "Business runway describes how long available cash can sustain the net outflow under the stated conditions.",
+      "explanation": "'Business runway' describes how long available cash can sustain the net outflow under the stated conditions.",
       "rationales": {
-        "the time until its first profitable sale is guaranteed": "Runway estimates how long resources last, not when profit will arrive.",
-        "how long cash can sustain operations at that rate": "Business runway describes how long available cash can sustain the net outflow under the stated conditions.",
+        "the time until its first profitable sale is guaranteed": "'Runway' estimates how long resources last, not when profit will arrive.",
+        "how long cash can sustain operations at that rate": "'Business runway' describes how long available cash can sustain the net outflow under the stated conditions.",
         "the period customers must wait for their orders": "Customer waiting time is lead time, not the company's cash runway.",
         "the total duration of its longest supplier contract": "Contract length does not determine the cash period described here."
       },

@@ -18,8 +18,8 @@
       "rationales": {
         "It": "It refers to the one book and agrees with is.",
         "They": "They would refer to more than one book and would need are.",
-        "Them": "Them is an object form; this sentence needs a subject before is.",
-        "She": "She would refer to Mina, not the book specified in the task."
+        "Them": "'Them' is an object form; this sentence needs a subject before 'is'.",
+        "She": "'She' would refer to Mina, not the book specified in the task."
       },
       "audit": {
         "status": "reviewed",
@@ -45,12 +45,12 @@
         "I"
       ],
       "answer": "I",
-      "explanation": "I is the subject form for the speaker and pairs with am.",
+      "explanation": "'I' is the subject form for the speaker and pairs with 'am'.",
       "rationales": {
-        "Me": "Me is used as an object; a subject is needed before am.",
-        "I": "I is the subject form for the speaker and pairs with am.",
-        "My": "My introduces a noun, as in my name; it cannot stand as the subject here.",
-        "Mine": "Mine refers to something belonging to the speaker, not the speaker introducing themself."
+        "Me": "'Me' is used as an object; a subject is needed before 'am'.",
+        "I": "'I' is the subject form for the speaker and pairs with 'am'.",
+        "My": "'My' introduces a noun, as in 'my name'; it cannot stand as the subject here.",
+        "Mine": "'Mine' refers to something belonging to the speaker, not the speaker introducing themself."
       },
       "audit": {
         "status": "reviewed",
@@ -76,11 +76,11 @@
         "It"
       ],
       "answer": "They",
-      "explanation": "They is the plural subject pronoun referring to the photos.",
+      "explanation": "'They' is the plural subject pronoun referring to the photos.",
       "rationales": {
-        "Them": "Them can be the object of print, but not the standard subject of are.",
-        "Their": "Their shows possession before a noun; it does not replace the photos by itself.",
-        "They": "They is the plural subject pronoun referring to the photos.",
+        "Them": "'Them' can be the object of 'print', but not the standard subject of 'are'.",
+        "Their": "'Their' shows possession before a noun; it does not replace the photos by itself.",
+        "They": "'They' is the plural subject pronoun referring to the photos.",
         "It": "It would refer to one photo and require is, not are."
       },
       "audit": {
@@ -141,9 +141,9 @@
       "explanation": "Your goes before keys and identifies the listener as their owner.",
       "rationales": {
         "your": "Your goes before keys and identifies the listener as their owner.",
-        "you": "You names the listener but cannot introduce the noun keys as a possessive.",
+        "you": "'You' names the listener but cannot introduce the noun 'keys' as a possessive.",
         "yours": "Yours stands alone; before keys, use your.",
-        "yourself": "Yourself refers back to the listener as a person, not to ownership before a noun."
+        "yourself": "'Yourself' refers back to the listener as a person, not to ownership before a noun."
       },
       "audit": {
         "status": "reviewed",
@@ -202,10 +202,10 @@
       "answer": "We",
       "explanation": "We includes the speaker and the other person, her husband.",
       "rationales": {
-        "Us": "Us is an object form; a subject is needed before walk.",
+        "Us": "'Us' is an object form; a subject is needed before 'walk'.",
         "They": "They would exclude the speaker from the group described.",
         "We": "We includes the speaker and the other person, her husband.",
-        "Our": "Our needs a following noun, such as our office, and cannot replace the two people alone."
+        "Our": "'Our' needs a following noun, such as 'our office', and cannot replace the two people alone."
       },
       "audit": {
         "status": "reviewed",
@@ -231,12 +231,12 @@
         "ours"
       ],
       "answer": "us",
-      "explanation": "Us is the object pronoun for the speaker and her friend together.",
+      "explanation": "'Us' is the object pronoun for the speaker and her friend together.",
       "rationales": {
-        "we": "We is the subject form; the group receives help here.",
+        "we": "'We' is the subject form; the group receives help here.",
         "our": "Our would need a noun naming something belonging to the group.",
-        "ours": "Ours expresses ownership, not the people needing help.",
-        "us": "Us is the object pronoun for the speaker and her friend together."
+        "ours": "'Ours' expresses ownership, not the people needing help.",
+        "us": "'Us' is the object pronoun for the speaker and her friend together."
       },
       "audit": {
         "status": "reviewed",
@@ -295,10 +295,10 @@
       "answer": "their",
       "explanation": "Their introduces tickets and links ownership to the neighbours.",
       "rationales": {
-        "them": "Them is an object pronoun, not the form used before an owned noun.",
+        "them": "'Them' is an object pronoun, not the form used before an owned noun.",
         "their": "Their introduces tickets and links ownership to the neighbours.",
-        "theirs": "Theirs would stand alone after are; before tickets, use their.",
-        "they": "They is a subject pronoun and cannot show ownership before tickets."
+        "theirs": "'Theirs' would stand alone after 'are'; before 'tickets', use 'their'.",
+        "they": "'They' is a subject pronoun and cannot show ownership before 'tickets'."
       },
       "audit": {
         "status": "reviewed",
@@ -324,11 +324,11 @@
         "them"
       ],
       "answer": "them",
-      "explanation": "Them is the plural object pronoun referring to the two parcels.",
+      "explanation": "'Them' is the plural object pronoun referring to the two parcels.",
       "rationales": {
-        "they": "They is a subject form, not the object of bring.",
-        "their": "Their introduces a possessed noun; it does not replace parcels on its own.",
-        "them": "Them is the plural object pronoun referring to the two parcels.",
+        "they": "'They' is a subject form, not the object of 'bring'.",
+        "their": "'Their' introduces a possessed noun; it does not replace 'parcels' on its own.",
+        "them": "'Them' is the plural object pronoun referring to the two parcels.",
         "it": "It would refer to one parcel rather than both of them."
       },
       "audit": {
@@ -355,12 +355,12 @@
         "Himself"
       ],
       "answer": "He",
-      "explanation": "He is the subject pronoun referring back to my father.",
+      "explanation": "'He' is the subject pronoun referring back to 'my father'.",
       "rationales": {
-        "Him": "Him is an object form, not a subject before starts.",
+        "Him": "'Him' is an object form, not a subject before 'starts'.",
         "His": "His can show ownership, but it does not replace the father as the person starting work.",
-        "Himself": "Himself normally refers back to a subject or adds emphasis; it is not the ordinary subject pronoun needed here.",
-        "He": "He is the subject pronoun referring back to my father."
+        "Himself": "'Himself' normally refers back to a subject or adds emphasis; it is not the ordinary subject pronoun needed here.",
+        "He": "'He' is the subject pronoun referring back to 'my father'."
       },
       "audit": {
         "status": "reviewed",
@@ -386,12 +386,12 @@
         "herself"
       ],
       "answer": "her",
-      "explanation": "Her is the object form for the aunt who receives the invitation.",
+      "explanation": "'Her' is the object form for the aunt who receives the invitation.",
       "rationales": {
-        "her": "Her is the object form for the aunt who receives the invitation.",
-        "she": "She would be a subject; after invited, use the object form her.",
-        "hers": "Hers means something belonging to the aunt, not the aunt herself.",
-        "herself": "The subject is I, so herself does not express the speaker inviting the aunt in this sentence."
+        "her": "'Her' is the object form for the aunt who receives the invitation.",
+        "she": "'She' would be a subject; after 'invited', use the object form 'her'.",
+        "hers": "'Hers' means something belonging to the aunt, not the aunt herself.",
+        "herself": "The subject is 'I', so 'herself' does not express the speaker inviting the aunt in this sentence."
       },
       "audit": {
         "status": "reviewed",
@@ -448,12 +448,12 @@
         "yourself"
       ],
       "answer": "you",
-      "explanation": "You addresses Ms Chen directly and works as the subject after are.",
+      "explanation": "'You' addresses Ms Chen directly and works as the subject after 'are'.",
       "rationales": {
-        "your": "Your must introduce a noun, such as your interview.",
-        "yours": "Yours refers to something belonging to the listener, not the listener attending.",
-        "you": "You addresses Ms Chen directly and works as the subject after are.",
-        "yourself": "Yourself is not the ordinary personal subject in this question; use you."
+        "your": "'Your' must introduce a noun, such as 'your interview'.",
+        "yours": "'Yours' refers to something belonging to the listener, not the listener attending.",
+        "you": "'You' addresses Ms Chen directly and works as the subject after 'are'.",
+        "yourself": "'Yourself' is not the ordinary personal subject in this question; use 'you'."
       },
       "audit": {
         "status": "reviewed",
@@ -479,12 +479,12 @@
         "They"
       ],
       "answer": "It",
-      "explanation": "Weather expressions use it as a subject even though it does not stand for a particular object.",
+      "explanation": "Weather expressions use 'it' as a subject even though it does not stand for a particular object.",
       "rationales": {
-        "This": "This would point to an identified thing; the ordinary weather sentence uses it without such a reference.",
+        "This": "This would point to an identified thing; the ordinary weather sentence uses 'it' without such a reference.",
         "There": "There is raining is not the standard weather construction; use it is raining.",
-        "They": "They needs are and refers to people or things, not the weather subject here.",
-        "It": "Weather expressions use it as a subject even though it does not stand for a particular object."
+        "They": "'They' needs 'are' and refers to people or things, not the weather subject here.",
+        "It": "Weather expressions use 'it' as a subject even though it does not stand for a particular object."
       },
       "audit": {
         "status": "reviewed",
@@ -634,10 +634,10 @@
         "another person"
       ],
       "answer": "each other",
-      "explanation": "Each other describes the two people sending messages to one another.",
+      "explanation": "'Each other' describes the two people sending messages to one another.",
       "rationales": {
         "themselves": "This would mean that each person sends messages to themself, not to the other person.",
-        "each other": "Each other describes the two people sending messages to one another.",
+        "each other": "'Each other' describes the two people sending messages to one another.",
         "herself": "Herself refers back to one woman, not to the two-way action of they.",
         "another person": "This introduces someone outside the named pair instead of keeping the exchange between Ada and Bo."
       },
@@ -665,11 +665,11 @@
         "ones"
       ],
       "answer": "one",
-      "explanation": "One replaces the countable noun umbrella while allowing a different umbrella to be described as new.",
+      "explanation": "'One' replaces the countable noun 'umbrella' while allowing a different umbrella to be described as 'new'.",
       "rationales": {
         "it": "It refers to a particular umbrella and cannot follow a new this way.",
-        "them": "Them is a plural object form and cannot replace the singular noun after a new.",
-        "one": "One replaces the countable noun umbrella while allowing a different umbrella to be described as new.",
+        "them": "'Them' is a plural object form and cannot replace the singular noun after 'a new'.",
+        "one": "'One' replaces the countable noun 'umbrella' while allowing a different umbrella to be described as 'new'.",
         "ones": "A new calls for singular one; ones would refer to several umbrellas."
       },
       "audit": {
@@ -789,12 +789,12 @@
         "them"
       ],
       "answer": "they",
-      "explanation": "Singular they can refer to one person whose gender is unknown, while still taking the verb form come.",
+      "explanation": "Singular 'they' can refer to one person whose gender is unknown, while still taking the verb form 'come'.",
       "rationales": {
         "he": "This assumes a male owner and would need comes rather than come.",
         "it": "It would refer to the wallet or another thing, not the unknown person returning.",
-        "they": "Singular they can refer to one person whose gender is unknown, while still taking the verb form come.",
-        "them": "Them is an object form, but the returning person is the subject of come."
+        "they": "Singular 'they' can refer to one person whose gender is unknown, while still taking the verb form 'come'.",
+        "them": "'Them' is an object form, but the returning person is the subject of 'come'."
       },
       "audit": {
         "status": "reviewed",
@@ -822,9 +822,9 @@
       "answer": "yourself",
       "explanation": "Yourself links the object of cut back to the subject you.",
       "rationales": {
-        "myself": "Myself refers to the speaker, but the person at risk here is you.",
-        "yours": "Yours expresses ownership and does not identify the person being cut.",
-        "you": "When subject you and the object refer to the same person in this ordinary construction, use yourself.",
+        "myself": "'Myself' refers to the speaker, but the person at risk here is you.",
+        "yours": "'Yours' expresses ownership and does not identify the person being cut.",
+        "you": "When subject 'you' and the object refer to the same person in this ordinary construction, use 'yourself'.",
         "yourself": "Yourself links the object of cut back to the subject you."
       },
       "audit": {
@@ -944,12 +944,12 @@
         "by themselves"
       ],
       "answer": "by itself",
-      "explanation": "By itself describes the door opening without someone manually moving it.",
+      "explanation": "'By itself' describes the door opening without someone manually moving it.",
       "rationales": {
-        "beside it": "Beside it describes a location relative to something else, not automatic operation.",
+        "beside it": "'Beside it' describes a location relative to something else, not automatic operation.",
         "for itself": "For itself suggests a beneficiary or independent purpose; it does not naturally describe a door opening automatically.",
-        "by themselves": "Themselves is plural, but the subject is one door.",
-        "by itself": "By itself describes the door opening without someone manually moving it."
+        "by themselves": "'Themselves' is plural, but the subject is one door.",
+        "by itself": "'By itself' describes the door opening without someone manually moving it."
       },
       "audit": {
         "status": "reviewed",
@@ -1006,11 +1006,11 @@
         "Someone"
       ],
       "answer": "Someone",
-      "explanation": "Someone refers to a person whose identity has not been supplied.",
+      "explanation": "'Someone' refers to a person whose identity has not been supplied.",
       "rationales": {
-        "Something": "Something refers to an unidentified thing rather than a person.",
-        "Someone": "Someone refers to a person whose identity has not been supplied.",
-        "Somewhere": "Somewhere is a place expression and cannot identify the person waiting.",
+        "Something": "'Something' refers to an unidentified thing rather than a person.",
+        "Someone": "'Someone' refers to a person whose identity has not been supplied.",
+        "Somewhere": "'Somewhere' is a place expression and cannot identify the person waiting.",
         "Anyone": "In this positive announcement, someone presents an actual waiting person; anyone would not give that ordinary meaning."
       },
       "audit": {
@@ -1037,12 +1037,12 @@
         "everything"
       ],
       "answer": "anything",
-      "explanation": "Not anything means no thing at all was inside the locker.",
+      "explanation": "'Not anything' means no thing at all was inside the locker.",
       "rationales": {
         "something": "Not something can deny a particular thing, but it does not straightforwardly state that the locker was empty.",
         "nothing": "Not nothing creates a double negative in this standard written construction and does not express the requested empty-locker meaning.",
-        "anything": "Not anything means no thing at all was inside the locker.",
-        "everything": "Not everything means that some expected things were missing; it does not say the locker was empty."
+        "anything": "'Not anything' means no thing at all was inside the locker.",
+        "everything": "'Not everything' means that some expected things were missing; it does not say the locker was empty."
       },
       "audit": {
         "status": "reviewed",
@@ -1068,12 +1068,12 @@
         "Someone is missing."
       ],
       "answer": "Nothing is missing.",
-      "explanation": "Nothing means no thing; with is missing, it says that no required item is absent.",
+      "explanation": "'Nothing' means no thing; with 'is missing', it says that no required item is absent.",
       "rationales": {
         "Everything is missing.": "This says the required things are absent, contrary to having them.",
         "Something is missing.": "This says at least one thing is absent; the task states that all required items are present.",
         "Someone is missing.": "Someone concerns a person, not the equipment on the packing list.",
-        "Nothing is missing.": "Nothing means no thing; with is missing, it says that no required item is absent."
+        "Nothing is missing.": "'Nothing' means no thing; with 'is missing', it says that no required item is absent."
       },
       "audit": {
         "status": "reviewed",
@@ -1099,12 +1099,12 @@
         "something warm"
       ],
       "answer": "something warm",
-      "explanation": "An adjective follows something: something warm means an unspecified item that is warm.",
+      "explanation": "An adjective follows 'something': 'something warm' means an unspecified item that is warm.",
       "rationales": {
-        "something warm": "An adjective follows something: something warm means an unspecified item that is warm.",
-        "warm something": "In this ordinary phrase, warm comes after the indefinite pronoun, not before it.",
-        "someone warm": "Someone refers to a person, not an item of clothing.",
-        "somewhere warm": "Somewhere describes a place; it cannot name the clothing item to wear."
+        "something warm": "An adjective follows 'something': 'something warm' means an unspecified item that is warm.",
+        "warm something": "In this ordinary phrase, 'warm' comes after the indefinite pronoun, not before it.",
+        "someone warm": "'Someone' refers to a person, not an item of clothing.",
+        "somewhere warm": "'Somewhere' describes a place; it cannot name the clothing item to wear."
       },
       "audit": {
         "status": "reviewed",
@@ -1130,12 +1130,12 @@
         "myself"
       ],
       "answer": "mine",
-      "explanation": "A friend of mine means one of my friends and uses the independent possessive form.",
+      "explanation": "'A friend of mine' means one of my friends and uses the independent possessive form.",
       "rationales": {
-        "my": "My needs a following noun; it cannot stand alone after of.",
-        "mine": "A friend of mine means one of my friends and uses the independent possessive form.",
-        "I": "I is a subject form, not the possessive required by this expression.",
-        "myself": "Myself refers back to a subject or adds emphasis; it is not the ordinary ownership form in a friend of mine."
+        "my": "'My' needs a following noun; it cannot stand alone after 'of'.",
+        "mine": "'A friend of mine' means one of my friends and uses the independent possessive form.",
+        "I": "'I' is a subject form, not the possessive required by this expression.",
+        "myself": "'Myself' refers back to a subject or adds emphasis; it is not the ordinary ownership form in 'a friend of mine'."
       },
       "audit": {
         "status": "reviewed",
@@ -1161,12 +1161,12 @@
         "theirs"
       ],
       "answer": "yours",
-      "explanation": "Yours refers to the listener's charger, matching belongs to you.",
+      "explanation": "'Yours' refers to the listener's charger, matching 'belongs to you'.",
       "rationales": {
         "mine": "Mine would make the replying speaker the owner, contrary to belongs to you.",
         "ours": "Ours would make ownership shared with the speaker, which is not stated.",
-        "yours": "Yours refers to the listener's charger, matching belongs to you.",
-        "theirs": "Theirs would refer to another person or group, not the colleague being addressed."
+        "yours": "'Yours' refers to the listener's charger, matching 'belongs to you'.",
+        "theirs": "'Theirs' would refer to another person or group, not the colleague being addressed."
       },
       "audit": {
         "status": "reviewed",
@@ -1192,12 +1192,12 @@
         "me"
       ],
       "answer": "me",
-      "explanation": "Me is the object form after with; adding May and does not change that role.",
+      "explanation": "'Me' is the object form after 'with'; adding 'May and' does not change that role.",
       "rationales": {
-        "I": "The whole phrase follows with, so use the object form me even when May and is included.",
+        "I": "The whole phrase follows 'with', so use the object form 'me' even when 'May and' is included.",
         "my": "My introduces a possession and cannot replace the speaker alone.",
-        "mine": "Mine refers to something belonging to the speaker, not the person accompanying May.",
-        "me": "Me is the object form after with; adding May and does not change that role."
+        "mine": "'Mine' refers to something belonging to the speaker, not the person accompanying May.",
+        "me": "'Me' is the object form after 'with'; adding 'May and' does not change that role."
       },
       "audit": {
         "status": "reviewed",
@@ -1217,18 +1217,18 @@
       "setupText": "Choose what 'it' and 'you' refer to in my reply.",
       "taskText": "Omar asks me for the address. I say, 'I will send it to you.'",
       "options": [
-        "It means Omar; you means the address.",
-        "It means the address; you means Omar.",
-        "It means the address; you means the person speaking.",
-        "It means a message already sent; you means Omar."
+        "'It' means Omar; 'you' means the address.",
+        "'It' means the address; 'you' means Omar.",
+        "'It' means the address; 'you' means the person speaking.",
+        "'It' means a message already sent; 'you' means Omar."
       ],
-      "answer": "It means the address; you means Omar.",
+      "answer": "'It' means the address; 'you' means Omar.",
       "explanation": "'It' replaces the requested address, and 'you' addresses Omar, the person who asked.",
       "rationales": {
-        "It means the address; you means Omar.": "'It' replaces the requested address, and 'you' addresses Omar, the person who asked.",
-        "It means Omar; you means the address.": "This reverses a thing reference and a direct personal address.",
-        "It means the address; you means the person speaking.": "The person speaking uses 'I'; 'you' refers to the listener Omar.",
-        "It means a message already sent; you means Omar.": "The reply refers back to the requested address and describes a future action, not an earlier message."
+        "'It' means the address; 'you' means Omar.": "'It' replaces the requested address, and 'you' addresses Omar, the person who asked.",
+        "'It' means Omar; 'you' means the address.": "This reverses a thing reference and a direct personal address.",
+        "'It' means the address; 'you' means the person speaking.": "The person speaking uses 'I'; 'you' refers to the listener Omar.",
+        "'It' means a message already sent; 'you' means Omar.": "The reply refers back to the requested address and describes a future action, not an earlier message."
       },
       "audit": {
         "status": "reviewed",
@@ -1254,10 +1254,10 @@
         "I put it beside the phone because the charger was damaged."
       ],
       "answer": "Because the charger was damaged, I put it beside the phone.",
-      "explanation": "The charger is explicitly named as damaged before it refers back to that object as the thing moved.",
+      "explanation": "The charger is explicitly named as damaged before 'it' refers back to that object as the thing moved.",
       "rationales": {
         "I put the charger beside the phone because the phone was damaged.": "This names a damaged object but assigns the damage to the phone rather than the charger.",
-        "Because the charger was damaged, I put it beside the phone.": "The charger is explicitly named as damaged before it refers back to that object as the thing moved.",
+        "Because the charger was damaged, I put it beside the phone.": "The charger is explicitly named as damaged before 'it' refers back to that object as the thing moved.",
         "Because it was damaged, I put the charger beside the phone.": "The pronoun still comes before the damaged object is named, contrary to the requested reference order.",
         "I put it beside the phone because the charger was damaged.": "This places it before the reference noun charger, so it does not meet the instruction to name the object first."
       },
@@ -1412,9 +1412,9 @@
       "explanation": "One substitutes for desk, while it refers to Jo's particular desk as the comparison.",
       "rationales": {
         "I bought Jo's desk from Jo.": "One like it introduces a comparable desk; it does not establish purchase of Jo's particular desk.",
-        "Jo bought the desk that I already owned.": "I is the buyer in the sentence, not Jo.",
+        "Jo bought the desk that I already owned.": "'I' is the buyer in the sentence, not Jo.",
         "I bought a similar desk, not necessarily Jo's actual desk.": "One substitutes for desk, while it refers to Jo's particular desk as the comparison.",
-        "I bought one part of Jo's desk.": "One replaces the noun desk, not an unstated part of it."
+        "I bought one part of Jo's desk.": "'One' replaces the noun 'desk', not an unstated part of it."
       },
       "audit": {
         "status": "reviewed",
@@ -1555,7 +1555,7 @@
     {
       "id": "coverage-pronouns-and-reference-b1-2691",
       "level": "B1",
-      "setupText": "Alex uses they/them pronouns. Choose the continuation that refers to Alex and uses standard verb agreement.",
+      "setupText": "Alex uses 'they'/'them' pronouns. Choose the continuation that refers to Alex and uses standard verb agreement.",
       "taskText": "Alex is the new librarian.",
       "options": [
         "They are joining the evening team.",
@@ -1564,12 +1564,12 @@
         "Their are joining the evening team."
       ],
       "answer": "They are joining the evening team.",
-      "explanation": "They refers to the one named person Alex and takes the usual they are agreement.",
+      "explanation": "'They' refers to the one named person Alex and takes the usual 'they are' agreement.",
       "rationales": {
-        "They is joining the evening team.": "Singular personal they still takes are, not is.",
-        "Them are joining the evening team.": "Them is the object form; the subject form is they.",
-        "Their are joining the evening team.": "Their shows possession before a noun and cannot serve as this personal subject.",
-        "They are joining the evening team.": "They refers to the one named person Alex and takes the usual they are agreement."
+        "They is joining the evening team.": "Singular personal 'they' still takes 'are', not 'is'.",
+        "Them are joining the evening team.": "'Them' is the object form; the subject form is 'they'.",
+        "Their are joining the evening team.": "'Their' shows possession before a noun and cannot serve as this personal subject.",
+        "They are joining the evening team.": "'They' refers to the one named person Alex and takes the usual 'they are' agreement."
       },
       "audit": {
         "status": "reviewed",
@@ -1599,7 +1599,7 @@
       "rationales": {
         "Each person gave their own introduction to the other people.": "Themselves links each introduction to its speaker, while each other identifies the other colleagues as recipients.",
         "They introduced a separate group of colleagues who were not at the meeting.": "Themselves refers back to the new colleagues present, not an outside group.",
-        "Each person introduced only the colleague sitting next to them.": "Introducing themselves means presenting their own identity, not only another person's identity.",
+        "Each person introduced only the colleague sitting next to them.": "'Introducing themselves' means presenting their own identity, not only another person's identity.",
         "Each person practised a private introduction without addressing anyone.": "To each other makes the introductions directed to other colleagues, not private practice."
       },
       "audit": {
@@ -1626,10 +1626,10 @@
         "Paul and Ahmed together."
       ],
       "answer": "Ahmed, who was asked to give the introduction.",
-      "explanation": "Ahmed is the understood subject of 'to introduce', so himself refers to Ahmed in that action.",
+      "explanation": "Ahmed is the understood subject of 'to introduce', so 'himself' refers to Ahmed in that action.",
       "rationales": {
         "Paul, because he is the first name in the sentence.": "The action 'introduce' is assigned to Ahmed; the first name is not automatically the reflexive's reference.",
-        "Ahmed, who was asked to give the introduction.": "Ahmed is the understood subject of 'to introduce', so himself refers to Ahmed in that action.",
+        "Ahmed, who was asked to give the introduction.": "Ahmed is the understood subject of 'to introduce', so 'himself' refers to Ahmed in that action.",
         "A neighbour whose name has not yet been given.": "'Himself' refers back to the person introducing, not to an unnamed recipient.",
         "Paul and Ahmed together.": "'Himself' is singular and relates to Ahmed's introduction, not a joint introduction by both men."
       },
@@ -1750,11 +1750,11 @@
         "anyone else's"
       ],
       "answer": "anyone else's",
-      "explanation": "Anyone else's shows possession by another person and places the ending after the complete expression.",
+      "explanation": "\"Anyone else's\" shows possession by another person and places the ending after the complete expression.",
       "rationales": {
         "anyone's else": "The possessive ending belongs at the end of anyone else: anyone else's.",
-        "anyone else's": "Anyone else's shows possession by another person and places the ending after the complete expression.",
-        "anyone else": "Anyone else names another person but lacks the possessive ending needed before account.",
+        "anyone else's": "\"Anyone else's\" shows possession by another person and places the ending after the complete expression.",
+        "anyone else": "'Anyone else' names another person but lacks the possessive ending needed before 'account'.",
         "anyone elses'": "Else is not a plural noun requiring s plus an apostrophe; the form is else's."
       },
       "audit": {
@@ -1775,7 +1775,7 @@
       "setupText": "Choose the accurate comparison in the ordinary getting-dressed sense.",
       "taskText": "Version A: 'He dressed quickly.' Version B: 'He dressed himself quickly.'",
       "options": [
-        "Only B is grammatical because dress always requires an object.",
+        "Only B is grammatical because 'dress' always requires an object.",
         "A says he dressed someone else, while B says he dressed himself.",
         "B says he bought the clothes, while A leaves their buyer unknown.",
         "Both can describe him putting on his own clothes; B makes the self-reference explicit."
@@ -1783,7 +1783,7 @@
       "answer": "Both can describe him putting on his own clothes; B makes the self-reference explicit.",
       "explanation": "Some everyday self-care verbs allow the reflexive object to be omitted when the self-directed meaning is clear.",
       "rationales": {
-        "Only B is grammatical because dress always requires an object.": "Dress can be used without an object when someone puts on their own clothes.",
+        "Only B is grammatical because 'dress' always requires an object.": "'Dress' can be used without an object when someone puts on their own clothes.",
         "A says he dressed someone else, while B says he dressed himself.": "In the stated getting-dressed sense, A does not introduce another person being dressed.",
         "Both can describe him putting on his own clothes; B makes the self-reference explicit.": "Some everyday self-care verbs allow the reflexive object to be omitted when the self-directed meaning is clear.",
         "B says he bought the clothes, while A leaves their buyer unknown.": "Himself concerns who was dressed, not who bought or owns the clothes."
@@ -1868,17 +1868,17 @@
       "setupText": "Choose the accurate response to the editor's objection in contemporary standard English.",
       "taskText": "Draft: 'Each applicant receives a code. They must keep it private.' An editor says that 'they' cannot refer back to 'each applicant' because 'each' is singular.",
       "options": [
-        "They necessarily refers to the applicants as one group sharing one code.",
-        "They refers to the codes because it follows the sentence about receiving a code.",
+        "'They' necessarily refers to the applicants as one group sharing one code.",
+        "'They' refers to the codes because it follows the sentence about receiving a code.",
         "They changes the instruction into a requirement for the person who issued the code.",
-        "They can refer to each individual applicant without specifying gender."
+        "'They' can refer to each individual applicant without specifying gender."
       ],
-      "answer": "They can refer to each individual applicant without specifying gender.",
+      "answer": "'They' can refer to each individual applicant without specifying gender.",
       "explanation": "'Each applicant' is grammatically singular, but singular personal 'they' is available for the same gender-unspecified individual.",
       "rationales": {
-        "They necessarily refers to the applicants as one group sharing one code.": "Singular 'they' can refer to 'each applicant' individually; it does not turn individually received codes into one shared code.",
-        "They can refer to each individual applicant without specifying gender.": "'Each applicant' is grammatically singular, but singular personal 'they' is available for the same gender-unspecified individual.",
-        "They refers to the codes because it follows the sentence about receiving a code.": "The people keep codes private; 'they' refers to applicants, while 'it' refers to the code in each case.",
+        "'They' necessarily refers to the applicants as one group sharing one code.": "Singular 'they' can refer to 'each applicant' individually; it does not turn individually received codes into one shared code.",
+        "'They' can refer to each individual applicant without specifying gender.": "'Each applicant' is grammatically singular, but singular personal 'they' is available for the same gender-unspecified individual.",
+        "'They' refers to the codes because it follows the sentence about receiving a code.": "The people keep codes private; 'they' refers to applicants, while 'it' refers to the code in each case.",
         "They changes the instruction into a requirement for the person who issued the code.": "No code issuer is identified as the pronoun's reference; the instruction continues to concern the applicant."
       },
       "audit": {
@@ -1899,17 +1899,17 @@
       "setupText": "Choose the accurate assessment of the British English sentence, which views the committee as individual members.",
       "taskText": "The committee have returned to their offices to consider the proposal separately.",
       "options": [
-        "Their means that the offices belong to people outside the committee.",
-        "Have means that several different committees are involved.",
+        "'Their' means that the offices belong to people outside the committee.",
+        "'Have' means that several different committees are involved.",
         "The sentence presents the committee as one unit making a single joint decision.",
         "Plural have and their are consistent with the member-focused reading."
       ],
       "answer": "Plural have and their are consistent with the member-focused reading.",
-      "explanation": "British English permits plural agreement and pronouns when a collective noun is viewed as its individual members; separately supports that reading.",
+      "explanation": "British English permits plural agreement and pronouns when a collective noun is viewed as its individual members; 'separately' supports that reading.",
       "rationales": {
-        "Their means that the offices belong to people outside the committee.": "Their can refer to the committee's members under the stated member-focused reading.",
-        "Have means that several different committees are involved.": "Plural agreement with a collective noun in British English need not count several committees.",
-        "Plural have and their are consistent with the member-focused reading.": "British English permits plural agreement and pronouns when a collective noun is viewed as its individual members; separately supports that reading.",
+        "'Their' means that the offices belong to people outside the committee.": "'Their' can refer to the committee's members under the stated member-focused reading.",
+        "'Have' means that several different committees are involved.": "Plural agreement with a collective noun in British English need not count several committees.",
+        "Plural have and their are consistent with the member-focused reading.": "British English permits plural agreement and pronouns when a collective noun is viewed as its individual members; 'separately' supports that reading.",
         "The sentence presents the committee as one unit making a single joint decision.": "Returned to their offices and separately focus on individual members, not one unit acting jointly."
       },
       "audit": {
@@ -1936,12 +1936,12 @@
         "Both versions emphasize the departments' personal involvement in exactly the same way."
       ],
       "answer": "A emphasizes who did the solving; B emphasizes the problem as the thing addressed.",
-      "explanation": "An emphatic self form can attach to the subject or an object. The plural themselves matches departments; singular itself matches problem.",
+      "explanation": "An emphatic self form can attach to the subject or an object. The plural 'themselves' matches 'departments'; singular 'itself' matches 'problem'.",
       "rationales": {
         "A emphasizes that the departments worked for their own benefit; B emphasizes their joint effort.": "Themselves here emphasizes who solved the problem, not who benefited; itself emphasizes the problem rather than the departments' cooperation.",
         "B signals that the problem was solved without outside intervention.": "The problem itself emphasizes the object addressed; it is not the expression by itself for an unaided or automatic process.",
-        "Both versions emphasize the departments' personal involvement in exactly the same way.": "Themselves refers to the departments, but itself refers to the problem, so the emphasis has a different target.",
-        "A emphasizes who did the solving; B emphasizes the problem as the thing addressed.": "An emphatic self form can attach to the subject or an object. The plural themselves matches departments; singular itself matches problem."
+        "Both versions emphasize the departments' personal involvement in exactly the same way.": "'Themselves' refers to the departments, but 'itself' refers to the problem, so the emphasis has a different target.",
+        "A emphasizes who did the solving; B emphasizes the problem as the thing addressed.": "An emphatic self form can attach to the subject or an object. The plural 'themselves' matches 'departments'; singular 'itself' matches 'problem'."
       },
       "audit": {
         "status": "reviewed",
@@ -1967,11 +1967,11 @@
         "which"
       ],
       "answer": "whom",
-      "explanation": "Whom is the object form following the fronted preposition to in this formal relative clause.",
+      "explanation": "'Whom' is the object form following the fronted preposition 'to' in this formal relative clause.",
       "rationales": {
-        "whom": "Whom is the object form following the fronted preposition to in this formal relative clause.",
-        "who": "Who is common when the preposition is left later in the clause, but the stated formal to whom construction requires whom.",
-        "whose": "Whose introduces an ownership relation before a noun; no owned noun follows it here.",
+        "whom": "'Whom' is the object form following the fronted preposition 'to' in this formal relative clause.",
+        "who": "'Who' is common when the preposition is left later in the clause, but the stated formal 'to whom' construction requires 'whom'.",
+        "whose": "'Whose' introduces an ownership relation before a noun; no owned noun follows it here.",
         "which": "The relative pronoun refers to a colleague as a person, not a thing selected with which."
       },
       "audit": {
@@ -2023,18 +2023,18 @@
       "setupText": "Choose the accurate reference of 'former' and 'latter'.",
       "taskText": "The editor compared the interview transcript with the final article. The former preserves hesitations; the latter removes most of them.",
       "options": [
-        "Former means the interviewee; latter means the editor.",
-        "Former means the transcript; latter means the article.",
-        "Former means the article; latter means the transcript.",
-        "Former and latter both mean different sections of the final article."
+        "'Former' means the interviewee; 'latter' means the editor.",
+        "'Former' means the transcript; 'latter' means the article.",
+        "'Former' means the article; 'latter' means the transcript.",
+        "'Former' and 'latter' both mean different sections of the final article."
       ],
-      "answer": "Former means the transcript; latter means the article.",
+      "answer": "'Former' means the transcript; 'latter' means the article.",
       "explanation": "'Former' points to the first of the two named texts, and 'latter' to the second; 'them' then refers to hesitations.",
       "rationales": {
-        "Former means the interviewee; latter means the editor.": "The paired comparison names two texts, not two people.",
-        "Former means the article; latter means the transcript.": "This reverses the order of the two texts as introduced.",
-        "Former means the transcript; latter means the article.": "'Former' points to the first of the two named texts, and 'latter' to the second; 'them' then refers to hesitations.",
-        "Former and latter both mean different sections of the final article.": "The references follow the two named texts, not unstated sections within one text."
+        "'Former' means the interviewee; 'latter' means the editor.": "The paired comparison names two texts, not two people.",
+        "'Former' means the article; 'latter' means the transcript.": "This reverses the order of the two texts as introduced.",
+        "'Former' means the transcript; 'latter' means the article.": "'Former' points to the first of the two named texts, and 'latter' to the second; 'them' then refers to hesitations.",
+        "'Former' and 'latter' both mean different sections of the final article.": "The references follow the two named texts, not unstated sections within one text."
       },
       "audit": {
         "status": "reviewed",
@@ -2063,7 +2063,7 @@
       "explanation": "That replaces salary, allowing the second salary to be identified by of the restaurant manager.",
       "rationales": {
         "the restaurant manager": "This compares a salary with a person rather than explicitly comparing the two salaries.",
-        "those of the restaurant manager": "Those is plural, but the task compares the one salary attached to each job.",
+        "those of the restaurant manager": "'Those' is plural, but the task compares the one salary attached to each job.",
         "the restaurant manager's working hours": "This changes the comparison from salary to working hours.",
         "that of the restaurant manager": "That replaces salary, allowing the second salary to be identified by of the restaurant manager."
       },
@@ -2122,10 +2122,10 @@
         "The agency's decision to delay the centre's opening attracted criticism."
       ],
       "answer": "The agency's decision to delay the centre's opening attracted criticism.",
-      "explanation": "The rewrite names the decision as the criticized cause instead of leaving which open to a noun or clause reference.",
+      "explanation": "The rewrite names the decision as the criticized cause instead of leaving 'which' open to a noun or clause reference.",
       "rationales": {
         "The centre, which attracted criticism, was opened late by the agency.": "This attaches the criticism directly to the centre rather than explicitly to delaying its opening.",
-        "The agency's decision to delay the centre's opening attracted criticism.": "The rewrite names the decision as the criticized cause instead of leaving which open to a noun or clause reference.",
+        "The agency's decision to delay the centre's opening attracted criticism.": "The rewrite names the decision as the criticized cause instead of leaving 'which' open to a noun or clause reference.",
         "The agency delayed the opening of the centre that attracted criticism.": "That now identifies the centre as the thing attracting criticism, not the delay decision.",
         "The agency delayed an opening because the centre had attracted criticism.": "This makes criticism the cause of the delay rather than its consequence."
       },
@@ -2178,18 +2178,18 @@
       "setupText": "Choose what the sentence leaves uncertain about ownership.",
       "taskText": "When Daniel spoke to Felix about his promotion, both were in a hurry. No earlier context identifies whose promotion was being discussed.",
       "options": [
-        "His must mean Felix because Felix is the nearest name.",
-        "His must mean Daniel because Daniel is the subject.",
-        "His refers jointly to one promotion shared by Daniel and Felix.",
-        "His could refer to Daniel or Felix; their order alone does not settle the owner."
+        "'His' must mean Felix because Felix is the nearest name.",
+        "'His' must mean Daniel because Daniel is the subject.",
+        "'His' refers jointly to one promotion shared by Daniel and Felix.",
+        "'His' could refer to Daniel or Felix; their order alone does not settle the owner."
       ],
-      "answer": "His could refer to Daniel or Felix; their order alone does not settle the owner.",
+      "answer": "'His' could refer to Daniel or Felix; their order alone does not settle the owner.",
       "explanation": "Both men are plausible references for his. Naming the owner would resolve the uncertainty without relying on a supposed nearest-name rule.",
       "rationales": {
-        "His must mean Felix because Felix is the nearest name.": "A nearby name can influence a reading, but proximity alone does not make it the required owner.",
-        "His must mean Daniel because Daniel is the subject.": "The subject is a possible owner, but his can also refer to Felix in this context.",
-        "His refers jointly to one promotion shared by Daniel and Felix.": "The singular possessive does not establish joint ownership or a shared promotion.",
-        "His could refer to Daniel or Felix; their order alone does not settle the owner.": "Both men are plausible references for his. Naming the owner would resolve the uncertainty without relying on a supposed nearest-name rule."
+        "'His' must mean Felix because Felix is the nearest name.": "A nearby name can influence a reading, but proximity alone does not make it the required owner.",
+        "'His' must mean Daniel because Daniel is the subject.": "The subject is a possible owner, but 'his' can also refer to Felix in this context.",
+        "'His' refers jointly to one promotion shared by Daniel and Felix.": "The singular possessive does not establish joint ownership or a shared promotion.",
+        "'His' could refer to Daniel or Felix; their order alone does not settle the owner.": "Both men are plausible references for his. Naming the owner would resolve the uncertainty without relying on a supposed nearest-name rule."
       },
       "audit": {
         "status": "reviewed",
@@ -2458,18 +2458,18 @@
       "setupText": "Choose the accurate account of 'they' in this conditional instruction.",
       "taskText": "If a guest needs a quieter room, they should contact reception. The notice names no particular guest.",
       "options": [
-        "They refers to whichever individual guest meets the stated condition.",
+        "'They' refers to whichever individual guest meets the stated condition.",
         "They proves that several guests have already complained.",
-        "They refers to the reception staff who receive the request.",
-        "They requires the notice to have named the guest in an earlier sentence."
+        "'They' refers to the reception staff who receive the request.",
+        "'They' requires the notice to have named the guest in an earlier sentence."
       ],
-      "answer": "They refers to whichever individual guest meets the stated condition.",
+      "answer": "'They' refers to whichever individual guest meets the stated condition.",
       "explanation": "The conditional introduces a possible guest, and singular 'they' continues that reference without identifying an actual person in advance.",
       "rationales": {
-        "They refers to whichever individual guest meets the stated condition.": "The conditional introduces a possible guest, and singular 'they' continues that reference without identifying an actual person in advance.",
+        "'They' refers to whichever individual guest meets the stated condition.": "The conditional introduces a possible guest, and singular 'they' continues that reference without identifying an actual person in advance.",
         "They proves that several guests have already complained.": "The instruction is conditional; the pronoun establishes neither actual complaints nor a plural guest count.",
-        "They refers to the reception staff who receive the request.": "The guest is the person instructed to contact reception, not the staff receiving contact.",
-        "They requires the notice to have named the guest in an earlier sentence.": "A conditional can introduce a hypothetical person whose reference continues into the instruction."
+        "'They' refers to the reception staff who receive the request.": "The guest is the person instructed to contact reception, not the staff receiving contact.",
+        "'They' requires the notice to have named the guest in an earlier sentence.": "A conditional can introduce a hypothetical person whose reference continues into the instruction."
       },
       "audit": {
         "status": "reviewed",
@@ -2495,11 +2495,11 @@
         "The edit merely corrects a plural pronoun that could not refer to either individual."
       ],
       "answer": "The edit assumes gender without settling which of the two people missed the deadline.",
-      "explanation": "Singular they can refer to either person here. Replacing it with he supplies an unsupported gender choice but does not resolve the competing references.",
+      "explanation": "Singular 'they' can refer to either person here. Replacing it with 'he' supplies an unsupported gender choice but does not resolve the competing references.",
       "rationales": {
-        "The edit makes the translator the deadline-holder because he follows translator.": "The nearest noun is not a binding rule for personal reference; he could still be read as referring to the editor.",
-        "The edit assumes gender without settling which of the two people missed the deadline.": "Singular they can refer to either person here. Replacing it with he supplies an unsupported gender choice but does not resolve the competing references.",
-        "The edit establishes that only the editor could have missed the deadline.": "Subject status in the main clause does not force he in the reported clause to refer to the editor.",
+        "The edit makes the translator the deadline-holder because he follows translator.": "The nearest noun is not a binding rule for personal reference; 'he' could still be read as referring to the editor.",
+        "The edit assumes gender without settling which of the two people missed the deadline.": "Singular 'they' can refer to either person here. Replacing it with 'he' supplies an unsupported gender choice but does not resolve the competing references.",
+        "The edit establishes that only the editor could have missed the deadline.": "Subject status in the main clause does not force 'he' in the reported clause to refer to the editor.",
         "The edit merely corrects a plural pronoun that could not refer to either individual.": "They is available for singular personal reference, so the proposed correction is not required by number."
       },
       "audit": {
@@ -2522,16 +2522,16 @@
       "options": [
         "For herself proves that nobody else had access to the figures.",
         "For herself identifies another analyst as the person who benefited.",
-        "For herself means that the analyst checked only figures about her own finances.",
+        "'For herself' means that the analyst checked only figures about her own finances.",
         "For herself can emphasize personal verification without ruling out assistance."
       ],
       "answer": "For herself can emphasize personal verification without ruling out assistance.",
-      "explanation": "Checking for herself can mean making her own verification. It does not necessarily mean that nobody explained, supplied or helped check the material.",
+      "explanation": "Checking 'for herself' can mean making her own verification. It does not necessarily mean that nobody explained, supplied or helped check the material.",
       "rationales": {
         "For herself proves that nobody else had access to the figures.": "Personal verification does not establish exclusive access to the material.",
         "For herself identifies another analyst as the person who benefited.": "Herself refers back to the analyst, not to a different beneficiary.",
-        "For herself can emphasize personal verification without ruling out assistance.": "Checking for herself can mean making her own verification. It does not necessarily mean that nobody explained, supplied or helped check the material.",
-        "For herself means that the analyst checked only figures about her own finances.": "The reflexive does not identify the figures' subject matter as her personal finances."
+        "For herself can emphasize personal verification without ruling out assistance.": "Checking 'for herself' can mean making her own verification. It does not necessarily mean that nobody explained, supplied or helped check the material.",
+        "'For herself' means that the analyst checked only figures about her own finances.": "The reflexive does not identify the figures' subject matter as her personal finances."
       },
       "audit": {
         "status": "reviewed",
@@ -2707,7 +2707,7 @@
       "taskText": "Draft: 'The proposal, whose cost remains uncertain, has been postponed.' An editor says 'whose' cannot refer to an inanimate proposal.",
       "options": [
         "Whose identifies the proposal's author as the person with uncertain costs.",
-        "The sentence requires which cost because ownership words only apply to people.",
+        "The sentence requires 'which cost' because ownership words only apply to people.",
         "The relative clause explicitly states that cost uncertainty caused the postponement.",
         "Whose can express this relation with an inanimate noun; the proposal's cost is meant."
       ],
@@ -2716,7 +2716,7 @@
       "rationales": {
         "Whose can express this relation with an inanimate noun; the proposal's cost is meant.": "'Whose' is not restricted to human owners. It can link a thing with an associated feature, as with a proposal and its cost.",
         "Whose identifies the proposal's author as the person with uncertain costs.": "The noun linked to 'cost' is 'proposal'; no author is identified by 'whose'.",
-        "The sentence requires which cost because ownership words only apply to people.": "'Which cost' would not supply this possessive relative construction, and the proposed human-only rule is false.",
+        "The sentence requires 'which cost' because ownership words only apply to people.": "'Which cost' would not supply this possessive relative construction, and the proposed human-only rule is false.",
         "The relative clause explicitly states that cost uncertainty caused the postponement.": "The clause supplies information about cost, but it does not explicitly assert a causal connection with postponement."
       },
       "audit": {
@@ -2776,7 +2776,7 @@
       "answer": "The archivist flagged both photocopies because each differed from the signed original.",
       "explanation": "Neither applies to the two photocopies, it identifies the original used for comparison, and them returns to the copies marked for review.",
       "rationales": {
-        "The archivist flagged the original because both photocopies agreed with one another.": "Them refers to the photocopies, not the original, and their agreement with each other is not stated.",
+        "The archivist flagged the original because both photocopies agreed with one another.": "'Them' refers to the photocopies, not the original, and their agreement with each other is not stated.",
         "The archivist flagged only one photocopy because the other matched the original.": "Neither matched rejects an exact match for both copies; it does not clear one of them.",
         "The archivist flagged both photocopies because they contradicted each other.": "Both could differ from the original in the same way. The reason given is failure to match the original, not mutual contradiction.",
         "The archivist flagged both photocopies because each differed from the signed original.": "Neither applies to the two photocopies, it identifies the original used for comparison, and them returns to the copies marked for review."
@@ -2837,11 +2837,11 @@
         "A and B both establish that Nora criticized an unnamed third woman."
       ],
       "answer": "In A Nora criticized Nora; B can instead report Nora criticizing Lena or another woman.",
-      "explanation": "Herself links to the local subject Nora. Ordinary her can point outside that local subject relation, including to Lena in the reporting clause.",
+      "explanation": "'Herself' links to the local subject Nora. Ordinary 'her' can point outside that local subject relation, including to Lena in the reporting clause.",
       "rationales": {
         "Both versions require Nora to have criticized Lena because Lena reports the event.": "Reporting the event does not make Lena the local reference of herself; the reflexive relates to Nora's action.",
-        "A makes Lena the critic, whereas B makes Nora the critic.": "Nora is the subject of had criticized in both versions; the object reference is what changes.",
-        "In A Nora criticized Nora; B can instead report Nora criticizing Lena or another woman.": "Herself links to the local subject Nora. Ordinary her can point outside that local subject relation, including to Lena in the reporting clause.",
+        "A makes Lena the critic, whereas B makes Nora the critic.": "'Nora' is the subject of 'had criticized' in both versions; the object reference is what changes.",
+        "In A Nora criticized Nora; B can instead report Nora criticizing Lena or another woman.": "'Herself' links to the local subject Nora. Ordinary 'her' can point outside that local subject relation, including to Lena in the reporting clause.",
         "A and B both establish that Nora criticized an unnamed third woman.": "A is self-directed, while B allows but does not require an unnamed third woman."
       },
       "audit": {
@@ -2868,12 +2868,12 @@
         "Our office has no printer. We should replace them with efficient models."
       ],
       "answer": "Our office has no printer. We should buy an efficient model.",
-      "explanation": "Buy introduces a proposed acquisition without using it to refer to a printer that the preceding sentence says the office lacks.",
+      "explanation": "'Buy' introduces a proposed acquisition without using 'it' to refer to a printer that the preceding sentence says the office lacks.",
       "rationales": {
         "Our office has no printer. We should replace the printer with a more efficient model.": "Repeating the noun does not fix the unsupported assumption that there is a printer to replace.",
         "Our office has no printer. It should be repaired before we buy another.": "It and repaired still presuppose an existing printer, contrary to the stated context.",
         "Our office has no printer. We should replace them with efficient models.": "Pluralizing the pronoun invents multiple existing printers instead of removing the existence assumption.",
-        "Our office has no printer. We should buy an efficient model.": "Buy introduces a proposed acquisition without using it to refer to a printer that the preceding sentence says the office lacks."
+        "Our office has no printer. We should buy an efficient model.": "'Buy' introduces a proposed acquisition without using 'it' to refer to a printer that the preceding sentence says the office lacks."
       },
       "audit": {
         "status": "reviewed",
@@ -2925,17 +2925,17 @@
       "taskText": "We are designing a portable scanner. It must fit inside a coat pocket, although no prototype exists yet.",
       "options": [
         "It proves that at least one complete scanner is already available.",
-        "It can refer to the planned scanner without implying that it already exists as a built object.",
-        "It must refer to the coat pocket because only existing objects can be pronoun references.",
-        "It refers to the design team collectively rather than to the scanner."
+        "'It' can refer to the planned scanner without implying that it already exists as a built object.",
+        "'It' must refer to the coat pocket because only existing objects can be pronoun references.",
+        "'It' refers to the design team collectively rather than to the scanner."
       ],
-      "answer": "It can refer to the planned scanner without implying that it already exists as a built object.",
+      "answer": "'It' can refer to the planned scanner without implying that it already exists as a built object.",
       "explanation": "Discourse can introduce a planned or imagined object and continue referring to that object with a pronoun.",
       "rationales": {
         "It proves that at least one complete scanner is already available.": "The scanner is introduced as a design target, and the note explicitly says no prototype exists.",
-        "It can refer to the planned scanner without implying that it already exists as a built object.": "Discourse can introduce a planned or imagined object and continue referring to that object with a pronoun.",
-        "It must refer to the coat pocket because only existing objects can be pronoun references.": "The pocket is a later size constraint; the pronoun refers to the planned scanner, and physical existence is not required.",
-        "It refers to the design team collectively rather than to the scanner.": "The size requirement concerns the scanner, not the people designing it."
+        "'It' can refer to the planned scanner without implying that it already exists as a built object.": "Discourse can introduce a planned or imagined object and continue referring to that object with a pronoun.",
+        "'It' must refer to the coat pocket because only existing objects can be pronoun references.": "The pocket is a later size constraint; the pronoun refers to the planned scanner, and physical existence is not required.",
+        "'It' refers to the design team collectively rather than to the scanner.": "The size requirement concerns the scanner, not the people designing it."
       },
       "audit": {
         "status": "reviewed",
@@ -3023,11 +3023,11 @@
         "The same objections concerned both cost and access to the building."
       ],
       "answer": "Other objections concerned access to the building.",
-      "explanation": "Others replaces other objections, and the second clause omits the repeated verb concerned.",
+      "explanation": "'Others' replaces 'other objections', and the second clause omits the repeated verb 'concerned'.",
       "rationales": {
-        "Other objections concerned access to the building.": "Others replaces other objections, and the second clause omits the repeated verb concerned.",
+        "Other objections concerned access to the building.": "'Others' replaces 'other objections', and the second clause omits the repeated verb 'concerned'.",
         "Other objectors were concerned about the building's cost.": "This changes objections into people and repeats cost instead of preserving the access topic.",
-        "Other buildings were accessible only at an additional cost.": "Others refers to objections, not buildings, and no additional access charge is stated.",
+        "Other buildings were accessible only at an additional cost.": "'Others' refers to objections, not buildings, and no additional access charge is stated.",
         "The same objections concerned both cost and access to the building.": "Others introduces different objections, not another topic assigned to the same subset."
       },
       "audit": {
@@ -3209,9 +3209,9 @@
         "The panel relied on the expert's later withdrawal of the estimate."
       ],
       "answer": "The panel relied on the expert's estimate, which the expert later withdrew.",
-      "explanation": "Whose connects the estimate to the expert, while on makes the estimate the object of reliance. The rewrite retains both relationships.",
+      "explanation": "'Whose' connects the estimate to the expert, while 'on' makes the estimate the object of reliance. The rewrite retains both relationships.",
       "rationales": {
-        "The panel relied on the expert's estimate, which the expert later withdrew.": "Whose connects the estimate to the expert, while on makes the estimate the object of reliance. The rewrite retains both relationships.",
+        "The panel relied on the expert's estimate, which the expert later withdrew.": "'Whose' connects the estimate to the expert, while 'on' makes the estimate the object of reliance. The rewrite retains both relationships.",
         "The panel relied on the expert, who later withdrew from the panel.": "This changes reliance on an estimate into reliance on a person and changes withdrawing an estimate into leaving the panel.",
         "The expert relied on the panel's estimate and later withdrew it.": "This reverses who relied on whose estimate.",
         "The panel relied on the expert's later withdrawal of the estimate.": "The original makes the estimate, not its withdrawal, the basis of the panel's reliance."
@@ -3327,17 +3327,17 @@
       "setupText": "Choose who the two first-person forms refer to at their different quotation levels.",
       "taskText": "In her diary, Leila writes: 'When my brother arrived, I told him, \"You can stay in my room.\"' A biographer quotes this entry without changing it.",
       "options": [
-        "I refers to the biographer, while my in the offer refers to Leila.",
-        "I refers to Leila, but my in the offer refers to her brother because he is the listener.",
-        "I in the narration and my in the offer both refer to Leila.",
+        "'I' refers to the biographer, while 'my' in the offer refers to Leila.",
+        "'I' refers to Leila, but 'my' in the offer refers to her brother because he is the listener.",
+        "'I' in the narration and 'my' in the offer both refer to Leila.",
         "Both forms refer to the brother because the entry begins with his arrival."
       ],
-      "answer": "I in the narration and my in the offer both refer to Leila.",
+      "answer": "'I' in the narration and 'my' in the offer both refer to Leila.",
       "explanation": "Leila is the diary's first-person narrator and the speaker of the nested offer. Quoting the entry does not transfer those first-person references to the biographer.",
       "rationales": {
-        "I in the narration and my in the offer both refer to Leila.": "Leila is the diary's first-person narrator and the speaker of the nested offer. Quoting the entry does not transfer those first-person references to the biographer.",
-        "I refers to the biographer, while my in the offer refers to Leila.": "The biographer is quoting Leila's text, not adopting the diary's I as a self-reference.",
-        "I refers to Leila, but my in the offer refers to her brother because he is the listener.": "My is determined by the offer's speaker, Leila; you addresses her brother.",
+        "'I' in the narration and 'my' in the offer both refer to Leila.": "Leila is the diary's first-person narrator and the speaker of the nested offer. Quoting the entry does not transfer those first-person references to the biographer.",
+        "'I' refers to the biographer, while 'my' in the offer refers to Leila.": "The biographer is quoting Leila's text, not adopting the diary's I as a self-reference.",
+        "'I' refers to Leila, but 'my' in the offer refers to her brother because he is the listener.": "My is determined by the offer's speaker, Leila; you addresses her brother.",
         "Both forms refer to the brother because the entry begins with his arrival.": "Being the first participant mentioned does not make the brother the speaker of Leila's narration or offer."
       },
       "audit": {
@@ -3480,7 +3480,7 @@
       "id": "coverage-pronouns-and-reference-c2-2753",
       "level": "C2",
       "setupText": "Choose the assessment that preserves the disclaimer's attribution without inventing disagreement.",
-      "taskText": "Original: 'The views expressed are the employees' own, not statements on behalf of the company.' Summary: 'The employees' views oppose the company's position.'",
+      "taskText": "Original: \"The views expressed are the employees' own, not statements on behalf of the company.\" Summary: \"The employees' views oppose the company's position.\"",
       "options": [
         "The summary accurately expands not on behalf of into a report of a different substantive position.",
         "The summary weakens an explicit disagreement into a mere distance from company authorization.",
@@ -3515,16 +3515,16 @@
       "options": [
         "The second we retroactively makes every reader one of the interviewers.",
         "Both uses must refer only to the applicants because they are the nearest plural noun.",
-        "The first we refers to the researchers; the second can include researchers and readers without attributing the interviews to readers.",
+        "The first 'we' refers to the researchers; the second can include researchers and readers without attributing the interviews to readers.",
         "The shift means that the writer denies having participated in the interviews."
       ],
-      "answer": "The first we refers to the researchers; the second can include researchers and readers without attributing the interviews to readers.",
+      "answer": "The first 'we' refers to the researchers; the second can include researchers and readers without attributing the interviews to readers.",
       "explanation": "First-person plural reference can shift with the discourse action: conducting interviews involves the team, while inspecting displayed results can include the audience.",
       "rationales": {
         "The second we retroactively makes every reader one of the interviewers.": "A later inclusive use does not change who performed the earlier research action.",
         "Both uses must refer only to the applicants because they are the nearest plural noun.": "Applicants are the object of 'interviewed' and the source of preferences, not the people represented by the first 'we'.",
         "The shift means that the writer denies having participated in the interviews.": "Broadening 'we' for shared observation does not retract the first sentence's researcher-inclusive claim.",
-        "The first we refers to the researchers; the second can include researchers and readers without attributing the interviews to readers.": "First-person plural reference can shift with the discourse action: conducting interviews involves the team, while inspecting displayed results can include the audience."
+        "The first 'we' refers to the researchers; the second can include researchers and readers without attributing the interviews to readers.": "First-person plural reference can shift with the discourse action: conducting interviews involves the team, while inspecting displayed results can include the audience."
       },
       "audit": {
         "status": "reviewed",
@@ -3577,16 +3577,16 @@
       "options": [
         "The edit necessarily changes the comments into documents legally owned by the reviewers.",
         "The phrase 'their comments' loses the distinction between receiving and being credited with comments.",
-        "The edit preserves both relationships because their can only mean addressed to them.",
+        "The edit preserves both relationships because 'their' can only mean 'addressed to them'.",
         "The edit changes reviewers from recipients into the people who must deliver the comments."
       ],
       "answer": "The phrase 'their comments' loses the distinction between receiving and being credited with comments.",
-      "explanation": "The original distinguishes addressees from attributed authors. The broad possessive their can obscure that contrast instead of retaining the intended recipient relationship.",
+      "explanation": "The original distinguishes addressees from attributed authors. The broad possessive 'their' can obscure that contrast instead of retaining the intended recipient relationship.",
       "rationales": {
-        "The edit necessarily changes the comments into documents legally owned by the reviewers.": "A possessive does not necessarily express legal ownership; their comments can indicate several kinds of association.",
-        "The phrase 'their comments' loses the distinction between receiving and being credited with comments.": "The original distinguishes addressees from attributed authors. The broad possessive their can obscure that contrast instead of retaining the intended recipient relationship.",
-        "The edit preserves both relationships because their can only mean addressed to them.": "Their comments can naturally mean comments they made, among other associations; it does not uniquely identify addressees.",
-        "The edit changes reviewers from recipients into the people who must deliver the comments.": "Assess still names the task; the edit does not explicitly add a delivery responsibility."
+        "The edit necessarily changes the comments into documents legally owned by the reviewers.": "A possessive does not necessarily express legal ownership; 'their comments' can indicate several kinds of association.",
+        "The phrase 'their comments' loses the distinction between receiving and being credited with comments.": "The original distinguishes addressees from attributed authors. The broad possessive 'their' can obscure that contrast instead of retaining the intended recipient relationship.",
+        "The edit preserves both relationships because 'their' can only mean 'addressed to them'.": "'Their comments' can naturally mean comments they made, among other associations; it does not uniquely identify addressees.",
+        "The edit changes reviewers from recipients into the people who must deliver the comments.": "'Assess' still names the task; the edit does not explicitly add a delivery responsibility."
       },
       "audit": {
         "status": "reviewed",
@@ -3612,11 +3612,11 @@
         "The edit preserves the established approval but changes the identity of the person who granted it."
       ],
       "answer": "The edit changes an open question about the approver into an open question about whether approval occurred.",
-      "explanation": "Who asks for the approver's identity; whether asks about occurrence. The original object it refers to approval, while the edit's opening it introduces the later question.",
+      "explanation": "'Who' asks for the approver's identity; 'whether' asks about occurrence. The original object 'it' refers to approval, while the edit's opening 'it' introduces the later question.",
       "rationales": {
         "The edit merely replaces who with a gender-neutral personal pronoun.": "The new it is a grammatical placeholder, not a personal substitute for who; the question changes from identity to occurrence.",
         "The edit establishes that the approval was invalid because the approver is unknown.": "Neither version determines validity; the original distinguishes established approval from unknown identity.",
-        "The edit changes an open question about the approver into an open question about whether approval occurred.": "Who asks for the approver's identity; whether asks about occurrence. The original object it refers to approval, while the edit's opening it introduces the later question.",
+        "The edit changes an open question about the approver into an open question about whether approval occurred.": "'Who' asks for the approver's identity; 'whether' asks about occurrence. The original object 'it' refers to approval, while the edit's opening 'it' introduces the later question.",
         "The edit preserves the established approval but changes the identity of the person who granted it.": "The edit supplies no identity and withdraws the original's explicit certainty that approval occurred."
       },
       "audit": {
@@ -3671,7 +3671,7 @@
       "options": [
         "The edit is required because a possessive before an artwork always identifies its artist.",
         "The edit selects authorship from several possible relationships expressed by her portrait.",
-        "The edit is wrong because her portrait can only mean a portrait depicting her.",
+        "The edit is wrong because 'her portrait' can only mean a portrait depicting her.",
         "The edit removes an explicit statement that the curator owns the painting."
       ],
       "answer": "The edit selects authorship from several possible relationships expressed by her portrait.",
@@ -3679,7 +3679,7 @@
       "rationales": {
         "The edit selects authorship from several possible relationships expressed by her portrait.": "'Her portrait' can be a portrait she painted, owns or appears in. The possessive alone does not settle that relationship, so the edit adds a specific interpretation.",
         "The edit is required because a possessive before an artwork always identifies its artist.": "Possessive relationships are broader than authorship; 'her portrait' can also identify its subject or owner.",
-        "The edit is wrong because her portrait can only mean a portrait depicting her.": "Depiction is a natural reading, but context can support ownership or authorship too; it is not the only possible relationship.",
+        "The edit is wrong because 'her portrait' can only mean a portrait depicting her.": "Depiction is a natural reading, but context can support ownership or authorship too; it is not the only possible relationship.",
         "The edit removes an explicit statement that the curator owns the painting.": "Ownership is a possible original reading, not an explicit unique relationship. The edit selects authorship but does not deny ownership."
       },
       "audit": {

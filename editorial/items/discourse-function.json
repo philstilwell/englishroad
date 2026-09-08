@@ -1685,7 +1685,7 @@
         "It gives the reason the designers are available.",
         "It introduces another person's availability.",
         "It draws a scheduling conclusion from the stated availability.",
-        "It defines what Thursday means in the schedule."
+        "It defines what 'Thursday' means in the schedule."
       ],
       "answer": "It draws a scheduling conclusion from the stated availability.",
       "explanation": "'Therefore' presents Thursday's suitability as the conclusion supported by the earlier availability facts.",
@@ -1693,7 +1693,7 @@
         "It draws a scheduling conclusion from the stated availability.": "'Therefore' presents Thursday's suitability as the conclusion supported by the earlier availability facts.",
         "It gives the reason the designers are available.": "The conclusion uses their availability; it does not explain what caused it.",
         "It introduces another person's availability.": "No new participant or availability detail is added.",
-        "It defines what Thursday means in the schedule.": "The sentence evaluates the day rather than defining a term."
+        "It defines what 'Thursday' means in the schedule.": "The sentence evaluates the day rather than defining a term."
       },
       "audit": {
         "status": "reviewed",
@@ -2644,14 +2644,14 @@
       "taskText": "What does the footbridge detail do immediately after the quotation?",
       "options": [
         "It places the developer's broad claim under scrutiny.",
-        "It supplies a definition of what the developer means by project.",
+        "It supplies a definition of what the developer means by 'project'.",
         "It endorses the developer's district-wide benefit claim.",
         "It explains why the developer chose to give a quotation."
       ],
       "answer": "It places the developer's broad claim under scrutiny.",
       "explanation": "The specific service area gives readers a concrete reason to question how well the quoted claim describes the project's reach.",
       "rationales": {
-        "It supplies a definition of what the developer means by project.": "The detail identifies a limitation in the claimed reach, not a definition of project.",
+        "It supplies a definition of what the developer means by 'project'.": "The detail identifies a limitation in the claimed reach, not a definition of project.",
         "It endorses the developer's district-wide benefit claim.": "Serving only the western side complicates rather than supports the claim of district-wide benefit.",
         "It places the developer's broad claim under scrutiny.": "The specific service area gives readers a concrete reason to question how well the quoted claim describes the project's reach.",
         "It explains why the developer chose to give a quotation.": "The writer supplies project information, not the developer's motivation for speaking."
@@ -3167,7 +3167,7 @@
     {
       "id": "coverage-discourse-function-c2-1303",
       "level": "C2",
-      "setupText": "A researcher writes, 'Granted, the participants were unusually experienced. Nevertheless, their accounts identify questions worth putting to newcomers; they do not supply newcomers' answers.'",
+      "setupText": "A researcher writes, \"Granted, the participants were unusually experienced. Nevertheless, their accounts identify questions worth putting to newcomers; they do not supply newcomers' answers.\"",
       "taskText": "How does the passage respond to the limitation?",
       "options": [
         "It treats the limitation as a reason to generalize the participants' answers.",

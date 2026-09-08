@@ -14,12 +14,12 @@
         "these"
       ],
       "answer": "a",
-      "explanation": "Use a before a singular countable noun beginning with a consonant sound: a pen.",
+      "explanation": "Use 'a' before a singular countable noun beginning with a consonant sound: 'a pen'.",
       "rationales": {
-        "a": "Use a before a singular countable noun beginning with a consonant sound: a pen.",
+        "a": "Use 'a' before a singular countable noun beginning with a consonant sound: 'a pen'.",
         "an": "Pen begins with the consonant sound /p/, so use a, not an.",
-        "many": "Many needs a plural noun: many pens.",
-        "these": "These refers to more than one thing; pen is singular."
+        "many": "'Many' needs a plural noun: 'many pens'.",
+        "these": "'These' refers to more than one thing; 'pen' is singular."
       },
       "audit": {
         "status": "reviewed",
@@ -76,11 +76,11 @@
         "any"
       ],
       "answer": "any",
-      "explanation": "Not any money means no money. Any can go before the uncountable noun money.",
+      "explanation": "'Not any money' means no money. 'Any' can go before the uncountable noun 'money'.",
       "rationales": {
-        "many": "Many goes with plural things we count, such as coins; money is uncountable.",
+        "many": "'Many' goes with plural things we count, such as 'coins'; 'money' is uncountable.",
         "a": "We do not say a money for cash; use a coin or a note for one piece.",
-        "any": "Not any money means no money. Any can go before the uncountable noun money.",
+        "any": "'Not any money' means no money. 'Any' can go before the uncountable noun 'money'.",
         "these": "These needs a plural countable noun, such as notes, not money."
       },
       "audit": {
@@ -142,8 +142,8 @@
       "rationales": {
         "some bread": "Some bread gives an amount without saying how many slices.",
         "two slices of bread": "This gives an exact number of slices; the request asks for no exact amount.",
-        "these bread": "Bread is not plural here, so these cannot go directly before it.",
-        "many bread": "Use many slices of bread when counting slices; bread itself is uncountable."
+        "these bread": "'Bread' is not plural here, so 'these' cannot go directly before it.",
+        "many bread": "Use 'many slices of bread' when counting slices; 'bread' itself is uncountable."
       },
       "audit": {
         "status": "reviewed",
@@ -171,10 +171,10 @@
       "answer": "an",
       "explanation": "Use an before the vowel sound at the start of email.",
       "rationales": {
-        "a": "Email starts with a vowel sound, so the article is an.",
+        "a": "'Email' starts with a vowel sound, so the article is 'an'.",
         "an": "Use an before the vowel sound at the start of email.",
         "many": "Many emails would need a plural noun and There are.",
-        "those": "Those emails is plural, but this sentence has is and singular email."
+        "those": "'Those emails' is plural, but this sentence has 'is' and singular 'email'."
       },
       "audit": {
         "status": "reviewed",
@@ -202,7 +202,7 @@
       "answer": "this",
       "explanation": "This points to one thing near the speaker, such as the photo in their hand.",
       "rationales": {
-        "these": "These is for more than one photo; photo is singular.",
+        "these": "'These' is for more than one photo; 'photo' is singular.",
         "that": "That usually points to something farther away; the task asks for the near form.",
         "this": "This points to one thing near the speaker, such as the photo in their hand.",
         "those": "Those is for plural things farther away, not this one nearby photo."
@@ -233,9 +233,9 @@
       "answer": "these",
       "explanation": "These points to plural things near the speaker, here the shoes by their feet.",
       "rationales": {
-        "this": "This goes with one thing; shoes is plural.",
+        "this": "'This' goes with one thing; 'shoes' is plural.",
         "that": "That is singular and does not match shoes.",
-        "those": "Those is the farther-away form; the task asks for the near form.",
+        "those": "'Those' is the farther-away form; the task asks for the near form.",
         "these": "These points to plural things near the speaker, here the shoes by their feet."
       },
       "audit": {
@@ -266,8 +266,8 @@
       "rationales": {
         "That": "That points to one thing farther away, matching building over there.",
         "This": "This is the near form; the task asks for a distant building.",
-        "These": "These refers to several nearby things; building is singular.",
-        "Those": "Those is the distant plural form, but only one building is named."
+        "These": "'These' refers to several nearby things; 'building' is singular.",
+        "Those": "'Those' is the distant plural form, but only one building is named."
       },
       "audit": {
         "status": "reviewed",
@@ -295,10 +295,10 @@
       "answer": "those",
       "explanation": "Those matches the plural signs and the distance across the road.",
       "rationales": {
-        "that": "That needs a singular noun such as sign.",
+        "that": "'That' needs a singular noun such as 'sign'.",
         "those": "Those matches the plural signs and the distance across the road.",
         "this": "This is singular and near; neither matches the task.",
-        "these": "These is plural but points to nearby things; the signs are distant."
+        "these": "'These' is plural but points to nearby things; the signs are distant."
       },
       "audit": {
         "status": "reviewed",
@@ -324,12 +324,12 @@
         "I"
       ],
       "answer": "my",
-      "explanation": "My goes before a noun to show that it belongs or relates to the speaker.",
+      "explanation": "'My' goes before a noun to show that it belongs or relates to the speaker.",
       "rationales": {
         "mine": "Mine can stand alone, as in The address is mine; it does not go before address.",
-        "me": "Me is an object form, not a word showing whose address it is.",
-        "my": "My goes before a noun to show that it belongs or relates to the speaker.",
-        "I": "I is used as a subject, as in I live here, not before address."
+        "me": "'Me' is an object form, not a word showing whose address it is.",
+        "my": "'My' goes before a noun to show that it belongs or relates to the speaker.",
+        "I": "'I' is used as a subject, as in 'I live here', not before 'address'."
       },
       "audit": {
         "status": "reviewed",
@@ -357,8 +357,8 @@
       "answer": "her",
       "explanation": "Her goes before phone to show that the phone belongs to Sara.",
       "rationales": {
-        "hers": "Hers replaces a noun phrase, but phone is still present.",
-        "she": "She is a subject form; use her to show whose phone it is.",
+        "hers": "'Hers' replaces a noun phrase, but 'phone' is still present.",
+        "she": "'She' is a subject form; use 'her' to show whose phone it is.",
         "herself": "Herself refers back to Sara as a person; it does not introduce phone.",
         "her": "Her goes before phone to show that the phone belongs to Sara."
       },
@@ -390,8 +390,8 @@
       "rationales": {
         "Our": "Our goes before first break and shows that the break is for us.",
         "Ours": "Ours stands alone; it cannot introduce first break.",
-        "Us": "Us is an object form, as in Tell us, not a possessive word before break.",
-        "We": "We is a subject pronoun; Our first break is the subject needed here."
+        "Us": "'Us' is an object form, as in 'Tell us', not a possessive word before 'break'.",
+        "We": "'We' is a subject pronoun; 'Our first break' is the subject needed here."
       },
       "audit": {
         "status": "reviewed",
@@ -448,12 +448,12 @@
         "many"
       ],
       "answer": "no",
-      "explanation": "No keys means zero keys, which matches an empty box.",
+      "explanation": "'No keys' means zero keys, which matches an empty box.",
       "rationales": {
-        "some": "Some keys would mean that the box is not empty.",
+        "some": "'Some keys' would mean that the box is not empty.",
         "two": "Two keys would be a positive number; the box has none.",
-        "no": "No keys means zero keys, which matches an empty box.",
-        "many": "Many keys means a large number, not an empty box."
+        "no": "'No keys' means zero keys, which matches an empty box.",
+        "many": "'Many keys' means a large number, not an empty box."
       },
       "audit": {
         "status": "reviewed",
@@ -481,9 +481,9 @@
       "answer": "Both",
       "explanation": "Both means the two together: the bread shop and the fruit shop.",
       "rationales": {
-        "One": "One needs singular shop and does not include the two shops.",
+        "One": "'One' needs singular 'shop' and does not include the two shops.",
         "No": "No shops are open would mean the two shops are closed.",
-        "Every": "Every takes a singular noun: every shop. It cannot go before shops.",
+        "Every": "'Every' takes a singular noun: 'every shop'. It cannot go before 'shops'.",
         "Both": "Both means the two together: the bread shop and the fruit shop."
       },
       "audit": {
@@ -510,12 +510,12 @@
         "many of"
       ],
       "answer": "a lot of",
-      "explanation": "A lot of buses means a large number of buses; keep of before the noun.",
+      "explanation": "'A lot of buses' means a large number of buses; keep 'of' before the noun.",
       "rationales": {
-        "a lot of": "A lot of buses means a large number of buses; keep of before the noun.",
-        "a lot": "A lot needs of when a noun follows: a lot of buses.",
-        "much": "Much goes with uncountable nouns; buses are countable and plural.",
-        "many of": "Many of needs a word such as the before buses: many of the buses."
+        "a lot of": "'A lot of buses' means a large number of buses; keep 'of' before the noun.",
+        "a lot": "'A lot' needs 'of' when a noun follows: 'a lot of buses'.",
+        "much": "'Much' goes with uncountable nouns; 'buses' are countable and plural.",
+        "many of": "'Many of' needs a word such as 'the' before 'buses': 'many of the buses'."
       },
       "audit": {
         "status": "reviewed",
@@ -543,7 +543,7 @@
       "answer": "many",
       "explanation": "How many asks for the number of plural countable things, here emails.",
       "rationales": {
-        "much": "Much asks about an uncountable amount; individual emails can be counted.",
+        "much": "'Much' asks about an uncountable amount; individual emails can be counted.",
         "many": "How many asks for the number of plural countable things, here emails.",
         "some": "How some does not form a question about a number.",
         "any": "How any is not the quantity-question pattern; use how many emails."
@@ -572,12 +572,12 @@
         "every"
       ],
       "answer": "much",
-      "explanation": "How much asks for an amount; rent here is an amount of money.",
+      "explanation": "'How much' asks for an amount; 'rent' here is an amount of money.",
       "rationales": {
-        "many": "Rent is an amount of money here, not plural things to count.",
+        "many": "'Rent' is an amount of money here, not plural things to count.",
         "a": "How a rent is not a question about an amount.",
-        "much": "How much asks for an amount; rent here is an amount of money.",
-        "every": "Every refers to all members of a group and cannot follow how in this amount question."
+        "much": "'How much' asks for an amount; 'rent' here is an amount of money.",
+        "every": "'Every' refers to all members of a group and cannot follow 'how' in this amount question."
       },
       "audit": {
         "status": "reviewed",
@@ -603,12 +603,12 @@
         "do not have enough cups"
       ],
       "answer": "do not have enough cups",
-      "explanation": "Enough means as many as needed. Three cups are not enough for four people.",
+      "explanation": "'Enough' means as many as needed. Three cups are not enough for four people.",
       "rationales": {
         "have no cups": "There are three cups, so the number is not zero.",
         "have four cups": "The sentence says there are three cups, not four.",
         "have enough cups": "One cup per person needs four cups; three is too few.",
-        "do not have enough cups": "Enough means as many as needed. Three cups are not enough for four people."
+        "do not have enough cups": "'Enough' means as many as needed. Three cups are not enough for four people."
       },
       "audit": {
         "status": "reviewed",
@@ -634,11 +634,11 @@
         "a little"
       ],
       "answer": "a little",
-      "explanation": "A little means a small amount and draws attention to what is available.",
+      "explanation": "'A little' means a small amount and draws attention to what is available.",
       "rationales": {
         "little": "Little emphasizes how small the supply is; the requested meaning emphasizes that some is available.",
-        "a little": "A little means a small amount and draws attention to what is available.",
-        "a few": "A few goes with plural countable things, such as cartons, not milk here.",
+        "a little": "'A little' means a small amount and draws attention to what is available.",
+        "a few": "'A few' goes with plural countable things, such as 'cartons', not 'milk' here.",
         "no": "No milk would leave none to put in the coffee."
       },
       "audit": {
@@ -665,12 +665,12 @@
         "Each"
       ],
       "answer": "Several",
-      "explanation": "Several indicates a number of people without specifying exactly how many.",
+      "explanation": "'Several' indicates a number of people without specifying exactly how many.",
       "rationales": {
         "Three": "Three is grammatical, but it states an exact number, which the task excludes.",
-        "Much": "Much cannot go before the plural countable noun neighbors.",
-        "Several": "Several indicates a number of people without specifying exactly how many.",
-        "Each": "Each requires a singular noun: each neighbor."
+        "Much": "'Much' cannot go before the plural countable noun 'neighbors'.",
+        "Several": "'Several' indicates a number of people without specifying exactly how many.",
+        "Each": "'Each' requires a singular noun: 'each neighbor'."
       },
       "audit": {
         "status": "reviewed",
@@ -698,9 +698,9 @@
       "answer": "your",
       "explanation": "Your goes before ID card to show that the card belongs to the person being addressed.",
       "rationales": {
-        "you": "You names the person directly; it does not show whose ID card to bring.",
+        "you": "'You' names the person directly; it does not show whose ID card to bring.",
         "yours": "Yours can stand alone, as in Bring yours, but cannot introduce ID card.",
-        "yourself": "Yourself refers to you as a person, not to a possession before a noun.",
+        "yourself": "'Yourself' refers to you as a person, not to a possession before a noun.",
         "your": "Your goes before ID card to show that the card belongs to the person being addressed."
       },
       "audit": {
@@ -727,10 +727,10 @@
         "enough chairs"
       ],
       "answer": "not enough chairs",
-      "explanation": "Not enough means fewer than needed; eight chairs cannot seat twelve guests.",
+      "explanation": "'Not enough' means fewer than needed; eight chairs cannot seat twelve guests.",
       "rationales": {
-        "not enough chairs": "Not enough means fewer than needed; eight chairs cannot seat twelve guests.",
-        "too many chairs": "Too many means more than needed; here the room needs four more.",
+        "not enough chairs": "'Not enough' means fewer than needed; eight chairs cannot seat twelve guests.",
+        "too many chairs": "'Too many' means more than needed; here the room needs four more.",
         "no chairs": "There are eight chairs, so saying no chairs would be inaccurate.",
         "enough chairs": "Enough would provide a seat for every guest, but four guests lack seats."
       },
@@ -758,12 +758,12 @@
         "others"
       ],
       "answer": "another",
-      "explanation": "Another means one more or a different one, without identifying a particular cup.",
+      "explanation": "'Another' means one more or a different one, without identifying a particular cup.",
       "rationales": {
         "the other": "The other identifies a particular remaining cup in a known pair; no such pair is given.",
-        "another": "Another means one more or a different one, without identifying a particular cup.",
-        "other": "Before singular cup, use another or a phrase such as the other, not other alone.",
-        "others": "Others stands for plural things and does not go directly before cup."
+        "another": "'Another' means one more or a different one, without identifying a particular cup.",
+        "other": "Before singular 'cup', use 'another' or a phrase such as 'the other', not 'other' alone.",
+        "others": "'Others' stands for plural things and does not go directly before 'cup'."
       },
       "audit": {
         "status": "reviewed",
@@ -789,11 +789,11 @@
         "a few"
       ],
       "answer": "a few",
-      "explanation": "A few means a small number and presents those contacts as available.",
+      "explanation": "'A few' means a small number and presents those contacts as available.",
       "rationales": {
         "few": "Few emphasizes the smallness of the number, rather than the positive availability requested here.",
-        "a little": "A little describes an uncountable amount; people is plural and countable.",
-        "a few": "A few means a small number and presents those contacts as available.",
+        "a little": "'A little' describes an uncountable amount; 'people' is plural and countable.",
+        "a few": "'A few' means a small number and presents those contacts as available.",
         "no": "No people would not support having someone local to ask."
       },
       "audit": {
@@ -822,9 +822,9 @@
       "answer": "Both of us",
       "explanation": "Both of us refers to the two speakers together and uses us after of.",
       "rationales": {
-        "Both we": "Before the pronoun us, use both of us; both we does not work here.",
-        "Both of we": "Of takes the object form us, not the subject form we.",
-        "Both us": "Use We both or Both of us as the subject, not Both us.",
+        "Both we": "Before the pronoun 'us', use 'both of us'; 'both we' does not work here.",
+        "Both of we": "'Of' takes the object form 'us', not the subject form 'we'.",
+        "Both us": "Use 'We both' or 'Both of us' as the subject, not 'Both us'.",
         "Both of us": "Both of us refers to the two speakers together and uses us after of."
       },
       "audit": {
@@ -856,7 +856,7 @@
         "Neither": "Neither means not one and not the other, matching the two full hotels.",
         "Either": "Either would indicate that one or the other had a room, contrary to both replies.",
         "Each": "Each hotel had a room would say that rooms were available at both hotels.",
-        "One": "One hotel had a room would mean a room was available at one of them."
+        "One": "'One hotel had a room' would mean a room was available at one of them."
       },
       "audit": {
         "status": "reviewed",
@@ -886,7 +886,7 @@
       "rationales": {
         "neither": "Neither would rule out both days, but both are available.",
         "either": "Either allows you to choose one or the other of the two available days.",
-        "both": "Both requires plural days and would select two days, not one.",
+        "both": "'Both' requires plural 'days' and would select two days, not one.",
         "every": "Every day extends the choice beyond the two named days."
       },
       "audit": {
@@ -915,10 +915,10 @@
       "answer": "all",
       "explanation": "All the windows includes the complete group of windows and keeps the plural form.",
       "rationales": {
-        "every": "Every needs a singular noun without the: every window.",
-        "whole": "Whole cannot directly quantify the plural phrase the windows this way.",
+        "every": "'Every' needs a singular noun without 'the': 'every window'.",
+        "whole": "'Whole' cannot directly quantify the plural phrase 'the windows' this way.",
         "all": "All the windows includes the complete group of windows and keeps the plural form.",
-        "each": "Each needs a singular noun, or each of the windows; each the windows is incorrect."
+        "each": "'Each' needs a singular noun, or 'each of the windows'; 'each the windows' is incorrect."
       },
       "audit": {
         "status": "reviewed",
@@ -946,8 +946,8 @@
       "answer": "the whole day",
       "explanation": "The whole day treats one day as a complete period.",
       "rationales": {
-        "a few hours": "A few hours describes only part of the stated morning-to-evening period.",
-        "every day": "Every day describes repetition across days, not the length of one repair.",
+        "a few hours": "'A few hours' describes only part of the stated morning-to-evening period.",
+        "every day": "'Every day' describes repetition across days, not the length of one repair.",
         "half the day": "Half the day covers only part of the full day in the task.",
         "the whole day": "The whole day treats one day as a complete period."
       },
@@ -975,12 +975,12 @@
         "Most of them"
       ],
       "answer": "Most of them",
-      "explanation": "Most of them means more than half of this known group, matching eight out of ten.",
+      "explanation": "'Most of them' means more than half of this known group, matching eight out of ten.",
       "rationales": {
-        "Most of them": "Most of them means more than half of this known group, matching eight out of ten.",
+        "Most of them": "'Most of them' means more than half of this known group, matching eight out of ten.",
         "Half of them": "Half of ten is five; eight is more than half.",
         "All of them": "All would include ten people, but two do not cycle.",
-        "None of them": "None would mean zero cyclists, contrary to the eight stated."
+        "None of them": "'None' would mean zero cyclists, contrary to the eight stated."
       },
       "audit": {
         "status": "reviewed",
@@ -1008,7 +1008,7 @@
       "answer": "Some of the",
       "explanation": "Some of the apples selects an unspecified part of the identified bagful.",
       "rationales": {
-        "Some of": "After some of, a noun group needs a word such as the: some of the apples.",
+        "Some of": "After 'some of', a noun group needs a word such as 'the': 'some of the apples'.",
         "Some of the": "Some of the apples selects an unspecified part of the identified bagful.",
         "Some the": "Some the omits the of needed between some and the apples.",
         "Some of this": "This is singular, but apples is plural; use these or the after of."
@@ -1037,11 +1037,11 @@
         "none"
       ],
       "answer": "none",
-      "explanation": "None can stand alone and means zero batteries in this answer.",
+      "explanation": "'None' can stand alone and means zero batteries in this answer.",
       "rationales": {
         "no": "No needs a noun here: no spare batteries. It cannot complete We have by itself.",
         "neither": "Neither refers to two specified alternatives, not an unspecified stock of batteries.",
-        "none": "None can stand alone and means zero batteries in this answer.",
+        "none": "'None' can stand alone and means zero batteries in this answer.",
         "any": "We have any does not state zero; use We do not have any or We have none."
       },
       "audit": {
@@ -1068,12 +1068,12 @@
         "too many"
       ],
       "answer": "too much",
-      "explanation": "Too much salt means more salt than wanted, explaining the unpleasant taste.",
+      "explanation": "'Too much salt' means more salt than wanted, explaining the unpleasant taste.",
       "rationales": {
-        "a little": "A little describes a small amount without saying it was excessive.",
+        "a little": "'A little' describes a small amount without saying it was excessive.",
         "not enough": "Not enough says more was needed, the opposite of the stated problem.",
-        "too many": "Many cannot quantify the uncountable noun salt here.",
-        "too much": "Too much salt means more salt than wanted, explaining the unpleasant taste."
+        "too many": "'Many' cannot quantify the uncountable noun 'salt' here.",
+        "too much": "'Too much salt' means more salt than wanted, explaining the unpleasant taste."
       },
       "audit": {
         "status": "reviewed",
@@ -1099,10 +1099,10 @@
         "no"
       ],
       "answer": "too many",
-      "explanation": "Too many meetings means the number causes a problem, here leaving too little work time.",
+      "explanation": "'Too many meetings' means the number causes a problem, here leaving too little work time.",
       "rationales": {
-        "too many": "Too many meetings means the number causes a problem, here leaving too little work time.",
-        "too much": "Much does not fit the plural countable noun meetings.",
+        "too many": "'Too many meetings' means the number causes a problem, here leaving too little work time.",
+        "too much": "'Much' does not fit the plural countable noun 'meetings'.",
         "a few": "A few gives a small number without expressing the excess required by the task.",
         "no": "No meetings would leave no meeting-related reason for the stated difficulty."
       },
@@ -1130,12 +1130,12 @@
         "many useful advice"
       ],
       "answer": "some useful advice",
-      "explanation": "Some can introduce uncountable advice, even when useful comes between them.",
+      "explanation": "'Some' can introduce uncountable 'advice', even when 'useful' comes between them.",
       "rationales": {
-        "a useful advice": "Advice is uncountable in this meaning. For one suggestion, say a useful piece of advice.",
-        "some useful advice": "Some can introduce uncountable advice, even when useful comes between them.",
-        "a few useful advice": "A few needs plural countable things: a few useful suggestions.",
-        "many useful advice": "Many needs a plural countable noun; use much advice or many suggestions."
+        "a useful advice": "'Advice' is uncountable in this meaning. For one suggestion, say 'a useful piece of advice'.",
+        "some useful advice": "'Some' can introduce uncountable 'advice', even when 'useful' comes between them.",
+        "a few useful advice": "'A few' needs plural countable things: 'a few useful suggestions'.",
+        "many useful advice": "'Many' needs a plural countable noun; use 'much advice' or 'many suggestions'."
       },
       "audit": {
         "status": "reviewed",
@@ -1161,12 +1161,12 @@
         "other"
       ],
       "answer": "other",
-      "explanation": "Other goes before a plural noun to refer to additional or different members of a group.",
+      "explanation": "'Other' goes before a plural noun to refer to additional or different members of a group.",
       "rationales": {
-        "another": "Another normally introduces one singular guest; guests is plural here.",
-        "others": "Others replaces a plural noun; it cannot go directly before guests.",
-        "other": "Other goes before a plural noun to refer to additional or different members of a group.",
-        "an other": "Before plural guests, use other without an; the article an is singular."
+        "another": "'Another' normally introduces one singular guest; 'guests' is plural here.",
+        "others": "'Others' replaces a plural noun; it cannot go directly before 'guests'.",
+        "other": "'Other' goes before a plural noun to refer to additional or different members of a group.",
+        "an other": "Before plural 'guests', use 'other' without 'an'; the article 'an' is singular."
       },
       "audit": {
         "status": "reviewed",
@@ -1194,9 +1194,9 @@
       "answer": "the other",
       "explanation": "The other identifies the second and remaining lift after one of two has been mentioned.",
       "rationales": {
-        "others": "Others is a standalone plural form and cannot introduce lift.",
-        "other": "Singular lift needs a determiner; other lift alone is incomplete.",
-        "another": "Another can introduce a different lift, but does not explicitly identify the remaining member of this pair.",
+        "others": "'Others' is a standalone plural form and cannot introduce 'lift'.",
+        "other": "Singular 'lift' needs a determiner; 'other lift' alone is incomplete.",
+        "another": "'Another' can introduce a different lift, but does not explicitly identify the remaining member of this pair.",
         "the other": "The other identifies the second and remaining lift after one of two has been mentioned."
       },
       "audit": {
@@ -1254,12 +1254,12 @@
         "Several of"
       ],
       "answer": "Each of",
-      "explanation": "Each of the volunteers treats the members individually and takes has in this sentence.",
+      "explanation": "'Each of the volunteers' treats the members individually and takes 'has' in this sentence.",
       "rationales": {
-        "Every of": "Every cannot stand before of; use every volunteer or each of the volunteers.",
-        "Each of": "Each of the volunteers treats the members individually and takes has in this sentence.",
-        "All of": "All of the volunteers is plural and would need have, not has.",
-        "Several of": "Several of the volunteers would need have because it refers to multiple volunteers together."
+        "Every of": "'Every' cannot stand before 'of'; use 'every volunteer' or 'each of the volunteers'.",
+        "Each of": "'Each of the volunteers' treats the members individually and takes 'has' in this sentence.",
+        "All of": "'All of the volunteers' is plural and would need 'have', not 'has'.",
+        "Several of": "'Several of the volunteers' would need 'have' because it refers to multiple volunteers together."
       },
       "audit": {
         "status": "reviewed",
@@ -1285,12 +1285,12 @@
         "enough of large"
       ],
       "answer": "large enough",
-      "explanation": "Enough comes after large and before the purpose phrase to hold all our files.",
+      "explanation": "'Enough' comes after 'large' and before the purpose phrase 'to hold all our files'.",
       "rationales": {
-        "enough large": "Enough follows an adjective: large enough.",
-        "large enough of": "Of cannot link large enough to the infinitive to hold here.",
-        "large enough": "Enough comes after large and before the purpose phrase to hold all our files.",
-        "enough of large": "Enough of needs a noun phrase or pronoun, not the adjective large in this position."
+        "enough large": "'Enough' follows an adjective: 'large enough'.",
+        "large enough of": "'Of' cannot link 'large enough' to the infinitive 'to hold' here.",
+        "large enough": "'Enough' comes after 'large' and before the purpose phrase 'to hold all our files'.",
+        "enough of large": "'Enough of' needs a noun phrase or pronoun, not the adjective 'large' in this position."
       },
       "audit": {
         "status": "reviewed",
@@ -1350,7 +1350,7 @@
       "explanation": "Neither of them means that quotation A and quotation B were both unaffordable.",
       "rationales": {
         "neither": "Neither of them means that quotation A and quotation B were both unaffordable.",
-        "either": "Could afford either would mean either option was affordable, contrary to the budget limit.",
+        "either": "'Could afford either' would mean either option was affordable, contrary to the budget limit.",
         "each": "Could afford each would make both quotations affordable.",
         "one": "One would indicate that a single quotation was within budget; both exceeded it."
       },
@@ -1382,7 +1382,7 @@
       "rationales": {
         "The workers share a locker.": "Sharing a locker describes joint use of one locker, not six separate assignments.",
         "The workers have a locker each.": "Each after a locker distributes one locker to every worker.",
-        "The workers have one locker between them.": "Between them describes a single shared locker for the group.",
+        "The workers have one locker between them.": "'Between them' describes a single shared locker for the group.",
         "The workers have six lockers each.": "Six lockers each would allocate six to every worker, giving thirty-six assignments."
       },
       "audit": {
@@ -1442,8 +1442,8 @@
       "answer": "Most of these",
       "explanation": "Most of these people selects the majority from the course participants just introduced.",
       "rationales": {
-        "Most these": "Most cannot directly precede these; use most of these.",
-        "Most of": "Most of people is incomplete here; of needs a determiner such as these.",
+        "Most these": "'Most' cannot directly precede 'these'; use 'most of these'.",
+        "Most of": "'Most of people' is incomplete here; 'of' needs a determiner such as 'these'.",
         "Most of this": "This is singular, whereas people refers to the twenty participants.",
         "Most of these": "Most of these people selects the majority from the course participants just introduced."
       },
@@ -1475,7 +1475,7 @@
       "rationales": {
         "little": "Little information emphasizes scarcity, supporting the difficulty comparing the offers.",
         "a little": "A little emphasizes that some information was available, rather than the limitation requested.",
-        "few": "Few needs a plural countable noun, such as details, not information.",
+        "few": "'Few' needs a plural countable noun, such as 'details', not 'information'.",
         "several": "Several cannot directly quantify information; use several details or pieces of information."
       },
       "audit": {
@@ -1507,7 +1507,7 @@
         "every": "Every printer would cover all six individually; it does not express the requested choice of one.",
         "any": "Any printer gives a free choice: whichever of the six you select will work.",
         "neither": "Neither would rule out both of two alternatives; six printers are available.",
-        "both": "Both requires a plural noun and applies to two, not a choice from six."
+        "both": "'Both' requires a plural noun and applies to two, not a choice from six."
       },
       "audit": {
         "status": "reviewed",
@@ -1533,12 +1533,12 @@
         "every three days"
       ],
       "answer": "another three days",
-      "explanation": "Another can come before a number plus plural noun to mean an additional amount.",
+      "explanation": "'Another' can come before a number plus plural noun to mean an additional amount.",
       "rationales": {
-        "three days each": "Each needs separate people or things to receive three days; the task gives one repair period.",
+        "three days each": "'Each' needs separate people or things to receive three days; the task gives one repair period.",
         "three days in all": "In all gives the total duration, not three days added to the original schedule.",
-        "another three days": "Another can come before a number plus plural noun to mean an additional amount.",
-        "every three days": "Every three days expresses a repeating interval rather than an extension."
+        "another three days": "'Another' can come before a number plus plural noun to mean an additional amount.",
+        "every three days": "'Every three days' expresses a repeating interval rather than an extension."
       },
       "audit": {
         "status": "reviewed",
@@ -1566,8 +1566,8 @@
       "answer": "others",
       "explanation": "Others stands for other clients, allowing the plural noun to be omitted.",
       "rationales": {
-        "other": "Other needs a following noun here: other clients.",
-        "another": "Another refers to one client and would take prefers, not prefer.",
+        "other": "'Other' needs a following noun here: 'other clients'.",
+        "another": "'Another' refers to one client and would take 'prefers', not 'prefer'.",
         "the another": "The and another cannot be combined in this way.",
         "others": "Others stands for other clients, allowing the plural noun to be omitted."
       },
@@ -1595,12 +1595,12 @@
         "most mornings"
       ],
       "answer": "all morning",
-      "explanation": "All morning describes the whole duration of this morning in this present-perfect sentence.",
+      "explanation": "'All morning' describes the whole duration of this morning in this present-perfect sentence.",
       "rationales": {
-        "all morning": "All morning describes the whole duration of this morning in this present-perfect sentence.",
-        "every morning": "Every morning describes a repeated routine across different mornings.",
+        "all morning": "'All morning' describes the whole duration of this morning in this present-perfect sentence.",
+        "every morning": "'Every morning' describes a repeated routine across different mornings.",
         "half the morning": "Half covers only part of the period, not the whole morning requested.",
-        "most mornings": "Most mornings describes frequency over several days, not today's duration."
+        "most mornings": "'Most mornings' describes frequency over several days, not today's duration."
       },
       "audit": {
         "status": "reviewed",
@@ -1626,12 +1626,12 @@
         "None of money has been spent."
       ],
       "answer": "None of the money has been spent.",
-      "explanation": "None of the money means zero of that amount. Money is uncountable and takes has here.",
+      "explanation": "'None of the money' means zero of that amount. 'Money' is uncountable and takes 'has' here.",
       "rationales": {
         "No of the money has been spent.": "Use none of before the money; no would go directly before money without of the.",
-        "None of the money has been spent.": "None of the money means zero of that amount. Money is uncountable and takes has here.",
-        "None the money has been spent.": "None needs of before the noun phrase the money.",
-        "None of money has been spent.": "After none of, specify the amount with a determiner: none of the money."
+        "None of the money has been spent.": "'None of the money' means zero of that amount. 'Money' is uncountable and takes 'has' here.",
+        "None the money has been spent.": "'None' needs 'of' before the noun phrase 'the money'.",
+        "None of money has been spent.": "After 'none of', specify the amount with a determiner: 'none of the money'."
       },
       "audit": {
         "status": "reviewed",
@@ -1657,11 +1657,11 @@
         "every other day"
       ],
       "answer": "every other day",
-      "explanation": "Every other day means alternating days, with one day between watering days.",
+      "explanation": "'Every other day' means alternating days, with one day between watering days.",
       "rationales": {
-        "twice a day": "Twice a day means two times in each day, not alternating days.",
+        "twice a day": "'Twice a day' means two times in each day, not alternating days.",
         "every third day": "Every third day leaves two days between watering days; the pattern leaves one.",
-        "every other day": "Every other day means alternating days, with one day between watering days.",
+        "every other day": "'Every other day' means alternating days, with one day between watering days.",
         "every weekday": "Every weekday would include Tuesday and Thursday and exclude Sunday."
       },
       "audit": {
@@ -1688,12 +1688,12 @@
         "several"
       ],
       "answer": "less",
-      "explanation": "Less traffic means a smaller amount of traffic; traffic is uncountable in this use.",
+      "explanation": "'Less traffic' means a smaller amount of traffic; 'traffic' is uncountable in this use.",
       "rationales": {
-        "fewer": "Fewer goes with separate countable things, such as cars; traffic is uncountable here.",
-        "many": "Many does not fit uncountable traffic or form the required comparison with than.",
-        "several": "Several would need a plural count noun and does not compare an amount with than.",
-        "less": "Less traffic means a smaller amount of traffic; traffic is uncountable in this use."
+        "fewer": "'Fewer' goes with separate countable things, such as 'cars'; 'traffic' is uncountable here.",
+        "many": "'Many' does not fit uncountable 'traffic' or form the required comparison with 'than'.",
+        "several": "'Several' would need a plural count noun and does not compare an amount with 'than'.",
+        "less": "'Less traffic' means a smaller amount of traffic; 'traffic' is uncountable in this use."
       },
       "audit": {
         "status": "reviewed",
@@ -1722,9 +1722,9 @@
       "explanation": "Sixty exceeds the forty-five needed, so the order contains too many meals.",
       "rationales": {
         "too many meals": "Sixty exceeds the forty-five needed, so the order contains too many meals.",
-        "too few meals": "Too few would mean fewer than forty-five; sixty is more.",
+        "too few meals": "'Too few' would mean fewer than forty-five; sixty is more.",
         "not enough meals": "Not enough would indicate a shortage, but the order has fifteen extra meals.",
-        "just enough meals": "Just enough would mean forty-five meals, with no extra meals."
+        "just enough meals": "'Just enough' would mean forty-five meals, with no extra meals."
       },
       "audit": {
         "status": "reviewed",
@@ -1750,12 +1750,12 @@
         "We have all completed the training."
       ],
       "answer": "We have all completed the training.",
-      "explanation": "All after have applies to every member of we, explicitly including the entire team.",
+      "explanation": "'All' after 'have' applies to every member of 'we', explicitly including the entire team.",
       "rationales": {
         "We have almost all completed the training.": "Almost all leaves some team members outside the completed group.",
-        "We have all completed the training.": "All after have applies to every member of we, explicitly including the entire team.",
-        "We have completed all the training.": "All here describes the amount of training, not explicitly every member of the team.",
-        "We have completed most of the training.": "Most of the training describes course content and does not assert full completion by everyone."
+        "We have all completed the training.": "'All' after 'have' applies to every member of 'we', explicitly including the entire team.",
+        "We have completed all the training.": "'All' here describes the amount of training, not explicitly every member of the team.",
+        "We have completed most of the training.": "'Most of the training' describes course content and does not assert full completion by everyone."
       },
       "audit": {
         "status": "reviewed",
@@ -1784,7 +1784,7 @@
       "explanation": "A few of selects a small number from the suggestions identified by my.",
       "rationales": {
         "a few": "A few cannot directly precede my suggestions; insert of before my.",
-        "a little of": "A little of is used for an uncountable amount, not plural suggestions.",
+        "a little of": "'A little of' is used for an uncountable amount, not plural suggestions.",
         "a few of": "A few of selects a small number from the suggestions identified by my.",
         "a few of the": "The cannot be placed before my suggestions; my already identifies whose suggestions they are."
       },
@@ -1905,11 +1905,11 @@
         "One application was approved and the rest were rejected."
       ],
       "answer": "At least one application was approved and at least one was not.",
-      "explanation": "Only some indicates a nonempty approved subset smaller than the whole group.",
+      "explanation": "'Only some' indicates a nonempty approved subset smaller than the whole group.",
       "rationales": {
         "Fewer than half of the applications were approved.": "Only some excludes all, but it does not specify whether approval was below half.",
         "Exactly half of the applications were approved.": "No exact fraction is given; some could cover different-sized subsets.",
-        "At least one application was approved and at least one was not.": "Only some indicates a nonempty approved subset smaller than the whole group.",
+        "At least one application was approved and at least one was not.": "'Only some' indicates a nonempty approved subset smaller than the whole group.",
         "One application was approved and the rest were rejected.": "The wording does not give an exact number or say that nonapproved applications were rejected rather than pending."
       },
       "audit": {
@@ -1998,10 +1998,10 @@
         "One proposal was rejected; the other was accepted."
       ],
       "answer": "Neither proposal was accepted.",
-      "explanation": "Rejection of both proposals means acceptance of neither; neither applies separately to the two members.",
+      "explanation": "Rejection of both proposals means acceptance of neither; 'neither' applies separately to the two members.",
       "rationales": {
         "Not both proposals were rejected.": "Not both denies rejection of the complete pair, but the committee rejected the pair.",
-        "Neither proposal was accepted.": "Rejection of both proposals means acceptance of neither; neither applies separately to the two members.",
+        "Neither proposal was accepted.": "Rejection of both proposals means acceptance of neither; 'neither' applies separately to the two members.",
         "Neither proposal was rejected.": "This excludes rejection of either proposal, reversing the decision.",
         "One proposal was rejected; the other was accepted.": "This splits the outcomes between the two proposals, whereas both had the same rejection outcome."
       },
@@ -2029,11 +2029,11 @@
         "Visits recur after short intervals of several days."
       ],
       "answer": "Visits recur after short intervals of several days.",
-      "explanation": "Every few days describes repeated visits at short, nonexact multi-day intervals.",
+      "explanation": "'Every few days' describes repeated visits at short, nonexact multi-day intervals.",
       "rationales": {
         "Exactly three days separate every pair of visits.": "A few does not fix an exact three-day interval.",
         "The technician makes several visits during each day.": "Every few days measures the interval between visits, not visits per day.",
-        "Visits recur after short intervals of several days.": "Every few days describes repeated visits at short, nonexact multi-day intervals.",
+        "Visits recur after short intervals of several days.": "'Every few days' describes repeated visits at short, nonexact multi-day intervals.",
         "There are a few visits in total and then they stop.": "The phrase describes a recurring schedule, not the total number of visits."
       },
       "audit": {
@@ -2060,12 +2060,12 @@
         "Many resident"
       ],
       "answer": "Many a resident",
-      "explanation": "The formal expression many a takes a singular noun and verb while referring to many individuals.",
+      "explanation": "The formal expression 'many a' takes a singular noun and verb while referring to many individuals.",
       "rationales": {
-        "Many residents": "Many residents is plural and needs have raised, not has raised.",
+        "Many residents": "'Many residents' is plural and needs 'have raised', not 'has raised'.",
         "Many of the residents": "This plural subject also requires have raised.",
-        "Many resident": "Many directly before a count noun requires plural residents; alternatively use many a resident.",
-        "Many a resident": "The formal expression many a takes a singular noun and verb while referring to many individuals."
+        "Many resident": "'Many' directly before a count noun requires plural 'residents'; alternatively use 'many a resident'.",
+        "Many a resident": "The formal expression 'many a' takes a singular noun and verb while referring to many individuals."
       },
       "audit": {
         "status": "reviewed",
@@ -2091,12 +2091,12 @@
         "a good deal"
       ],
       "answer": "a good deal of",
-      "explanation": "A good deal of public support means a substantial amount, with no built-in sufficiency claim.",
+      "explanation": "'A good deal of public support' means a substantial amount, with no built-in sufficiency claim.",
       "rationales": {
-        "a good deal of": "A good deal of public support means a substantial amount, with no built-in sufficiency claim.",
+        "a good deal of": "'A good deal of public support' means a substantial amount, with no built-in sufficiency claim.",
         "enough": "Enough states that the support met a need, which the task does not authorize.",
         "a little": "A little presents a small amount, not the substantial amount requested.",
-        "a good deal": "The expression needs of before the noun phrase public support."
+        "a good deal": "The expression needs 'of' before the noun phrase 'public support'."
       },
       "audit": {
         "status": "reviewed",
@@ -2124,10 +2124,10 @@
       "answer": "all three of my",
       "explanation": "All three of my identifies and includes the full group of three former managers.",
       "rationales": {
-        "all of three my": "The number and possessive are misplaced; use all three of my former managers.",
+        "all of three my": "The number and possessive are misplaced; use 'all three of my former managers'.",
         "all three of my": "All three of my identifies and includes the full group of three former managers.",
         "my all three": "All normally precedes the possessive in this pattern: all my three or all three of my.",
-        "all three of the my": "The and my cannot both occupy the determiner position before former managers."
+        "all three of the my": "'The' and 'my' cannot both occupy the determiner position before 'former managers'."
       },
       "audit": {
         "status": "reviewed",
@@ -2219,8 +2219,8 @@
       "rationales": {
         "the other seven": "The other seven identifies all seven files remaining after three of ten are accounted for.",
         "another seven": "Another seven introduces an additional quantity without explicitly identifying the remainder of this set.",
-        "seven others": "Seven others refers to seven different files but does not explicitly mark them as the entire known remainder.",
-        "other seven": "Other seven lacks the determiner needed to identify these seven remaining files."
+        "seven others": "'Seven others' refers to seven different files but does not explicitly mark them as the entire known remainder.",
+        "other seven": "'Other seven' lacks the determiner needed to identify these seven remaining files."
       },
       "audit": {
         "status": "reviewed",
@@ -2248,7 +2248,7 @@
       "answer": "the few witnesses",
       "explanation": "The few witnesses identifies the small known set and presents its members as the interview group.",
       "rationales": {
-        "few witnesses": "Few witnesses describes a small number interviewed without identifying the whole set who came forward.",
+        "few witnesses": "'Few witnesses' describes a small number interviewed without identifying the whole set who came forward.",
         "the few witnesses": "The few witnesses identifies the small known set and presents its members as the interview group.",
         "a few witnesses": "A few witnesses selects a small number and does not specify that the set is complete.",
         "fewer witnesses": "Fewer witnesses makes a comparison with another number rather than identifying the complete small set."
@@ -2277,11 +2277,11 @@
         "twice my monthly salary"
       ],
       "answer": "half my monthly salary",
-      "explanation": "Half can directly precede a possessive noun phrase; half of 2,000 is 1,000.",
+      "explanation": "'Half' can directly precede a possessive noun phrase; half of 2,000 is 1,000.",
       "rationales": {
         "half of half my monthly salary": "Half of half is a quarter, or 500 euros here.",
         "my monthly salary and a half": "A salary and a half totals 3,000 euros, more than the entire salary.",
-        "half my monthly salary": "Half can directly precede a possessive noun phrase; half of 2,000 is 1,000.",
+        "half my monthly salary": "'Half' can directly precede a possessive noun phrase; half of 2,000 is 1,000.",
         "twice my monthly salary": "Twice the salary is 4,000 euros, not the stated rent."
       },
       "audit": {
@@ -2339,12 +2339,12 @@
         "more than enough time"
       ],
       "answer": "more than enough time",
-      "explanation": "More than enough means the available time exceeds what is needed; five hours allows a three-hour margin.",
+      "explanation": "'More than enough' means the available time exceeds what is needed; five hours allows a three-hour margin.",
       "rationales": {
-        "more than enough time": "More than enough means the available time exceeds what is needed; five hours allows a three-hour margin.",
-        "barely enough time": "Barely enough means only just meeting the requirement, not having a large margin.",
-        "just enough time": "Just enough indicates meeting the need without extra time.",
-        "not quite enough time": "Not quite enough indicates a small shortage; there is no shortage here."
+        "more than enough time": "'More than enough' means the available time exceeds what is needed; five hours allows a three-hour margin.",
+        "barely enough time": "'Barely enough' means only just meeting the requirement, not having a large margin.",
+        "just enough time": "'Just enough' indicates meeting the need without extra time.",
+        "not quite enough time": "'Not quite enough' indicates a small shortage; there is no shortage here."
       },
       "audit": {
         "status": "reviewed",
@@ -2372,10 +2372,10 @@
       "answer": "The number of",
       "explanation": "The number of complaints makes the count the singular subject, so has risen is appropriate.",
       "rationales": {
-        "A number of": "A number of complaints means several complaints and normally takes a plural verb, have.",
+        "A number of": "'A number of complaints' means several complaints and normally takes a plural verb, 'have'.",
         "The number of": "The number of complaints makes the count the singular subject, so has risen is appropriate.",
-        "Large numbers of": "Large numbers of complaints is plural and requires have risen.",
-        "Several of the": "Several of the complaints is plural and requires have risen; it also refers to complaints, not their count."
+        "Large numbers of": "'Large numbers of complaints' is plural and requires 'have risen'.",
+        "Several of the": "'Several of the complaints' is plural and requires 'have risen'; it also refers to complaints, not their count."
       },
       "audit": {
         "status": "reviewed",
@@ -2432,12 +2432,12 @@
         "Fewer than ten apartments have balconies."
       ],
       "answer": "Ten apartments have balconies.",
-      "explanation": "All but two means all except two; twelve minus two leaves ten.",
+      "explanation": "'All but two' means all except two; twelve minus two leaves ten.",
       "rationales": {
-        "Two apartments have balconies.": "Two names the exceptions after but, not the apartments included by all.",
+        "Two apartments have balconies.": "'Two' names the exceptions after 'but', not the apartments included by 'all'.",
         "Twelve apartments have balconies.": "But two removes two apartments from the twelve covered by all.",
         "Fewer than ten apartments have balconies.": "The phrase fixes exactly two exceptions, leaving ten, not an unspecified smaller number.",
-        "Ten apartments have balconies.": "All but two means all except two; twelve minus two leaves ten."
+        "Ten apartments have balconies.": "'All but two' means all except two; twelve minus two leaves ten."
       },
       "audit": {
         "status": "reviewed",
@@ -2556,12 +2556,12 @@
         "Each case has exactly one proposed explanation."
       ],
       "answer": "Each proposed explanation fails to account for at least one case.",
-      "explanation": "None with every means there is no explanation with complete coverage; each has at least one gap.",
+      "explanation": "'None' with 'every' means there is no explanation with complete coverage; each has at least one gap.",
       "rationales": {
         "No case is accounted for by any proposed explanation.": "The sentence denies complete coverage by an explanation, not coverage of individual cases.",
         "The explanations collectively leave at least one case unexplained.": "They could cover all cases between them even though no single explanation covers every case.",
         "Each case has exactly one proposed explanation.": "Nothing in the sentence specifies how many explanations cover a particular case.",
-        "Each proposed explanation fails to account for at least one case.": "None with every means there is no explanation with complete coverage; each has at least one gap."
+        "Each proposed explanation fails to account for at least one case.": "'None' with 'every' means there is no explanation with complete coverage; each has at least one gap."
       },
       "audit": {
         "status": "reviewed",
@@ -2592,7 +2592,7 @@
         "The number of registrations was too low for the workshop to go ahead.": "So few...that links a low number to its consequence; too low for... preserves that relationship.",
         "A few people registered after the workshop was cancelled.": "This reverses the time relationship and loses the low-number cause.",
         "Fewer people registered because the workshop was cancelled.": "This makes cancellation the cause rather than the consequence of low registration.",
-        "Some people registered, although the workshop was cancelled.": "Although expresses contrast but does not retain the stated causal threshold."
+        "Some people registered, although the workshop was cancelled.": "'Although' expresses contrast but does not retain the stated causal threshold."
       },
       "audit": {
         "status": "reviewed",
@@ -2649,11 +2649,11 @@
         "One cause can be selected at random as the true cause."
       ],
       "answer": "There are many possible causes of the delay.",
-      "explanation": "Any number of is an idiomatic way of saying many possible things; it does not identify the actual cause.",
+      "explanation": "'Any number of' is an idiomatic way of saying many possible things; it does not identify the actual cause.",
       "rationales": {
         "Every suggested cause is equally likely.": "The expression says there are many possibilities, without comparing their likelihoods.",
         "The delay was caused by a known number of things.": "Could have and any number of leave both the cause and its count unsettled.",
-        "There are many possible causes of the delay.": "Any number of is an idiomatic way of saying many possible things; it does not identify the actual cause.",
+        "There are many possible causes of the delay.": "'Any number of' is an idiomatic way of saying many possible things; it does not identify the actual cause.",
         "One cause can be selected at random as the true cause.": "Many possibilities do not justify randomly choosing one as true."
       },
       "audit": {
@@ -2684,7 +2684,7 @@
       "rationales": {
         "a little more money than": "This introduces a comparison and an additional amount rather than the entire existing remainder.",
         "a little of the money": "A little of selects a small part of the remaining money, not the whole small amount.",
-        "less money than": "Less money than it had left describes spending below the available amount.",
+        "less money than": "'Less money than it had left' describes spending below the available amount.",
         "the little money": "The little money it had left identifies the entire remaining sum and presents that sum as small."
       },
       "audit": {
@@ -2808,7 +2808,7 @@
       "rationales": {
         "Exactly twelve endorsed it.": "At least establishes a minimum; it does not exclude a higher total.",
         "More than twelve endorsed it.": "The lower bound includes exactly twelve, so a higher total is not guaranteed.",
-        "No more than twelve endorsed it.": "No more than is an upper bound, the opposite direction from at least.",
+        "No more than twelve endorsed it.": "'No more than' is an upper bound, the opposite direction from 'at least'.",
         "Twelve endorsed it, and there may have been more.": "At least twelve guarantees twelve endorsements while leaving larger numbers possible."
       },
       "audit": {
@@ -2990,10 +2990,10 @@
         "Every resident opposed it."
       ],
       "answer": "A considerable number of residents opposed it.",
-      "explanation": "Not a few is an emphatic, somewhat formal way to say quite a large number.",
+      "explanation": "'Not a few' is an emphatic, somewhat formal way to say quite a large number.",
       "rationales": {
-        "No residents opposed it.": "Not a few does not mean none; the negation denies that the number was small.",
-        "A considerable number of residents opposed it.": "Not a few is an emphatic, somewhat formal way to say quite a large number.",
+        "No residents opposed it.": "'Not a few' does not mean 'none'; the negation denies that the number was small.",
+        "A considerable number of residents opposed it.": "'Not a few' is an emphatic, somewhat formal way to say quite a large number.",
         "Only a small handful of residents opposed it.": "The expression rejects the characterization of the number as merely a few.",
         "Every resident opposed it.": "A considerable number need not include the entire population."
       },
@@ -3428,7 +3428,7 @@
       "explanation": "What few combines all of the available set with an assessment that the set was small.",
       "rationales": {
         "The historian consulted a few of the independent sources available.": "A few of selects a small subset and does not retain consultation of the full available set.",
-        "The historian consulted fewer independent sources than expected.": "Fewer introduces a comparison with an expectation, not the totality of the available small set.",
+        "The historian consulted fewer independent sources than expected.": "'Fewer' introduces a comparison with an expectation, not the totality of the available small set.",
         "The historian consulted independent sources whenever any became available.": "Whenever adds a repeated timing condition and does not state exhaustive consultation of the small set.",
         "The historian consulted all the independent sources available, which were few.": "What few combines all of the available set with an assessment that the set was small."
       },
@@ -3611,11 +3611,11 @@
         "Some of the sixty participants joined the consultation."
       ],
       "answer": "Some sixty participants joined the consultation.",
-      "explanation": "Some already means approximately before sixty, so or so can be removed without losing the estimate.",
+      "explanation": "'Some' already means approximately before 'sixty', so 'or so' can be removed without losing the estimate.",
       "rationales": {
         "Sixty participants joined the consultation.": "Removing both markers turns an approximate number into an unqualified count.",
         "At least sixty participants joined the consultation.": "At least introduces a minimum, not an estimate around sixty.",
-        "Some sixty participants joined the consultation.": "Some already means approximately before sixty, so or so can be removed without losing the estimate.",
+        "Some sixty participants joined the consultation.": "'Some' already means approximately before 'sixty', so 'or so' can be removed without losing the estimate.",
         "Some of the sixty participants joined the consultation.": "Of the changes the meaning to an unspecified subset of a defined group of sixty."
       },
       "audit": {

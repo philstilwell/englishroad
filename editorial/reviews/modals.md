@@ -19,14 +19,14 @@ I can ___ a car.
 3. drives
 4. drive **[Correct]**
 
-**Explanation:** Use the basic verb form after can: can drive.
+**Explanation:** Use the basic verb form after 'can': 'can drive'.
 
 **Choice feedback:**
 
 - **to drive:** Can goes directly before drive; do not add to.
-- **driving:** Driving does not follow can on its own. Use can drive.
-- **drives:** Do not add -s to the verb after can.
-- **drive:** Use the basic verb form after can: can drive.
+- **driving:** 'Driving' does not follow 'can' on its own. Use 'can drive'.
+- **drives:** Do not add '-s' to the verb after 'can'.
+- **drive:** Use the basic verb form after 'can': 'can drive'.
 
 **Decision:** replaced.
 
@@ -55,9 +55,9 @@ My sister ___ speak English.
 
 **Choice feedback:**
 
-- **cans:** Can does not take -s, even with my sister or she.
-- **is can:** Do not put is before can. Can is already the helping verb.
-- **can to:** Use can speak without to.
+- **cans:** 'Can' does not take '-s', even with 'my sister' or 'she'.
+- **is can:** Do not put 'is' before 'can'. 'Can' is already the helping verb.
+- **can to:** Use 'can speak' without 'to'.
 - **can:** Can stays the same with I, she, and other subjects: my sister can speak.
 
 **Decision:** replaced.
@@ -83,13 +83,13 @@ Ana ___ swim.
 3. cannot **[Correct]**
 4. will
 
-**Explanation:** Cannot swim means Ana does not have this ability.
+**Explanation:** 'Cannot swim' means Ana does not have this ability.
 
 **Choice feedback:**
 
 - **can:** Can swim says Ana knows how to do it, the opposite of the information given.
 - **must:** Must swim says she needs to swim; it does not say whether she knows how.
-- **cannot:** Cannot swim means Ana does not have this ability.
+- **cannot:** 'Cannot swim' means Ana does not have this ability.
 - **will:** Will swim says what she is going to do, not what she is unable to do.
 
 **Decision:** replaced.
@@ -115,14 +115,14 @@ You want to know whether Ben knows how to cook.
 3. Can cooks Ben?
 4. Can Ben cooks?
 
-**Explanation:** For a standard question with can, use can + person + basic verb: Can Ben cook?
+**Explanation:** For a standard question with 'can', use 'can' + person + basic verb: 'Can Ben cook?'
 
 **Choice feedback:**
 
 - **Does Ben can cook?:** With can, put can before Ben. Do not add does.
-- **Can Ben cook?:** For a standard question with can, use can + person + basic verb: Can Ben cook?
-- **Can cooks Ben?:** Put Ben after can, then use cook without -s.
-- **Can Ben cooks?:** Use cook without -s after can, even with Ben as the subject.
+- **Can Ben cook?:** For a standard question with 'can', use 'can' + person + basic verb: 'Can Ben cook?'
+- **Can cooks Ben?:** Put 'Ben' after 'can', then use 'cook' without '-s'.
+- **Can Ben cooks?:** Use 'cook' without '-s' after 'can', even with 'Ben' as the subject.
 
 **Decision:** replaced.
 
@@ -179,14 +179,14 @@ You must ___ your ticket at the door.
 3. to show
 4. shown
 
-**Explanation:** Use must followed by the basic verb: must show.
+**Explanation:** Use 'must' followed by the basic verb: 'must show'.
 
 **Choice feedback:**
 
-- **showing:** Must needs show here, not showing.
-- **show:** Use must followed by the basic verb: must show.
+- **showing:** 'Must' needs 'show' here, not 'showing'.
+- **show:** Use 'must' followed by the basic verb: 'must show'.
 - **to show:** Do not use to between must and show.
-- **shown:** Shown is a past participle; the verb directly after must is show.
+- **shown:** 'Shown' is a past participle; the verb directly after 'must' is 'show'.
 
 **Decision:** replaced.
 
@@ -218,7 +218,7 @@ Choose the positive short answer that repeats the helping verb in the question.
 - **I can:** A positive short answer repeats the modal: Yes, I can.
 - **I do:** Repeat can in the short answer; do does not match this question.
 - **I am:** Am answers a question with are, such as Are you ready?, not Can you use it?
-- **I can use:** Use needs an object here. For a short answer, stop after can.
+- **I can use:** 'Use' needs an object here. For a short answer, stop after 'can'.
 
 **Decision:** replaced.
 
@@ -275,13 +275,13 @@ What does Sam say?
 3. I will call tonight. **[Correct]**
 4. I cannot call tonight.
 
-**Explanation:** Will can express a promise about a future action.
+**Explanation:** 'Will' can express a promise about a future action.
 
 **Choice feedback:**
 
 - **I can call tonight.:** Can says calling is possible for Sam; it does not itself make the promise.
-- **I called tonight.:** Called describes a past action, not the future promise in this situation.
-- **I will call tonight.:** Will can express a promise about a future action.
+- **I called tonight.:** 'Called' describes a past action, not the future promise in this situation.
+- **I will call tonight.:** 'Will' can express a promise about a future action.
 - **I cannot call tonight.:** Cannot says Sam is unable to call, which conflicts with the promise.
 
 **Decision:** replaced.
@@ -339,13 +339,13 @@ We ___ go now.
 3. must **[Correct]**
 4. cannot
 
-**Explanation:** Must expresses the need to act now: leaving is necessary to catch the train.
+**Explanation:** 'Must' expresses the need to act now: leaving is necessary to catch the train.
 
 **Choice feedback:**
 
 - **can:** Can says going is possible or allowed; it does not express the need to leave.
 - **must not:** Must not tells people not to leave, the opposite of the situation.
-- **must:** Must expresses the need to act now: leaving is necessary to catch the train.
+- **must:** 'Must' expresses the need to act now: leaving is necessary to catch the train.
 - **cannot:** Cannot says leaving is not possible or allowed, not that it is necessary.
 
 **Decision:** replaced.
@@ -371,14 +371,14 @@ With these glasses, I can ___ the sign.
 3. see **[Correct]**
 4. saw
 
-**Explanation:** Can see describes what is visible to you; see is the basic form after can.
+**Explanation:** 'Can see' describes what is visible to you; 'see' is the basic form after 'can'.
 
 **Choice feedback:**
 
-- **seeing:** Can needs the basic verb see here, not seeing.
-- **to see:** Use can see without to.
-- **see:** Can see describes what is visible to you; see is the basic form after can.
-- **saw:** Saw is a past form; after can, use see.
+- **seeing:** 'Can' needs the basic verb 'see' here, not 'seeing'.
+- **to see:** Use 'can see' without 'to'.
+- **see:** 'Can see' describes what is visible to you; 'see' is the basic form after 'can'.
+- **saw:** 'Saw' is a past form; after 'can', use 'see'.
 
 **Decision:** replaced.
 
@@ -403,14 +403,14 @@ The cafe will ___ at eight tomorrow.
 3. opening
 4. to open
 
-**Explanation:** Use the basic verb after will: will open.
+**Explanation:** Use the basic verb after 'will': 'will open'.
 
 **Choice feedback:**
 
-- **opens:** Will is followed by open, even when the subject is the cafe.
-- **open:** Use the basic verb after will: will open.
+- **opens:** 'Will' is followed by 'open', even when the subject is 'the cafe'.
+- **open:** Use the basic verb after 'will': 'will open'.
 - **opening:** Will opening is incomplete here; use will open.
-- **to open:** Will does not take to before the next verb.
+- **to open:** 'Will' does not take 'to' before the next verb.
 
 **Decision:** replaced.
 
@@ -435,14 +435,14 @@ It may ___ cold tonight.
 3. to be
 4. being
 
-**Explanation:** May be means that cold weather is possible. Be is the basic verb form.
+**Explanation:** 'May be' means that cold weather is possible. 'Be' is the basic verb form.
 
 **Choice feedback:**
 
-- **be:** May be means that cold weather is possible. Be is the basic verb form.
-- **is:** After may, use be rather than is.
-- **to be:** May goes directly before be without to.
-- **being:** May being does not form a complete verb phrase here. Use may be.
+- **be:** 'May be' means that cold weather is possible. 'Be' is the basic verb form.
+- **is:** After 'may', use 'be' rather than 'is'.
+- **to be:** 'May' goes directly before 'be' without 'to'.
+- **being:** 'May being' does not form a complete verb phrase here. Use 'may be'.
 
 **Decision:** replaced.
 
@@ -499,14 +499,14 @@ What time ___ the lesson start tomorrow?
 3. will to
 4. is will
 
-**Explanation:** Use question words + will + subject + basic verb: What time will the lesson start?
+**Explanation:** Use question words + 'will' + subject + basic verb: 'What time will the lesson start?'
 
 **Choice feedback:**
 
 - **does will:** Will already forms the future question; do not add does.
-- **will:** Use question words + will + subject + basic verb: What time will the lesson start?
-- **will to:** Put will before the subject without to.
-- **is will:** Do not place is before will in this question.
+- **will:** Use question words + 'will' + subject + basic verb: 'What time will the lesson start?'
+- **will to:** Put 'will' before the subject without 'to'.
+- **is will:** Do not place 'is' before 'will' in this question.
 
 **Decision:** replaced.
 
@@ -531,13 +531,13 @@ Read Omar's words. Choose what he means.
 3. I know some Spanish. **[Correct]**
 4. I cannot speak Spanish.
 
-**Explanation:** Can speak describes Omar's ability to use some Spanish.
+**Explanation:** 'Can speak' describes Omar's ability to use some Spanish.
 
 **Choice feedback:**
 
 - **I need to learn Spanish.:** A need to learn is different from an ability Omar already has.
 - **I will speak Spanish tomorrow.:** Omar says what he is able to do, not when he plans to do it.
-- **I know some Spanish.:** Can speak describes Omar's ability to use some Spanish.
+- **I know some Spanish.:** 'Can speak' describes Omar's ability to use some Spanish.
 - **I cannot speak Spanish.:** Cannot would deny the ability that Omar says he has.
 
 **Decision:** replaced.
@@ -570,7 +570,7 @@ I ___ be at work tomorrow. It is my day off.
 - **won't:** Won't means will not: the speaker will not be at work tomorrow.
 - **don't will:** The negative of will is will not or won't; do not add don't.
 - **won't to:** Use won't be without to.
-- **am not will:** Will does not follow am not. Use I won't be.
+- **am not will:** 'Will' does not follow 'am not'. Use "I won't be".
 
 **Decision:** replaced.
 
@@ -595,14 +595,14 @@ My phone ___ be in my bag.
 3. cannot
 4. may **[Correct]**
 
-**Explanation:** May be means perhaps it is there; the speaker is not certain.
+**Explanation:** 'May be' means perhaps it is there; the speaker is not certain.
 
 **Choice feedback:**
 
-- **will not:** Will not predicts that the phone is not there; it does not mean perhaps.
+- **will not:** 'Will not' predicts that the phone is not there; it does not mean 'perhaps'.
 - **must not:** Must not can express a negative rule or conclusion, not this positive possibility.
 - **cannot:** Cannot be rules out the bag as a possible place.
-- **may:** May be means perhaps it is there; the speaker is not certain.
+- **may:** 'May be' means perhaps it is there; the speaker is not certain.
 
 **Decision:** replaced.
 
@@ -670,7 +670,7 @@ Your bag is very heavy. You ___ use a small suitcase instead.
 - **had to:** Had to reports a past necessity instead of advising you about the present heavy bag.
 - **must:** Must makes the action necessary, which is stronger than the advice requested.
 - **should:** Should gives advice about a useful action without making it a requirement.
-- **will:** Will predicts an action or expresses a decision rather than advising the listener.
+- **will:** 'Will' predicts an action or expresses a decision rather than advising the listener.
 
 **Decision:** replaced.
 
@@ -695,14 +695,14 @@ Every visitor ___ show a photo ID before entering.
 3. has to showing
 4. has to **[Correct]**
 
-**Explanation:** Every visitor is singular, so use has to followed by show.
+**Explanation:** 'Every visitor' is singular, so use 'has to' followed by 'show'.
 
 **Choice feedback:**
 
-- **have to:** Every visitor takes has, not have, in a positive statement.
+- **have to:** 'Every visitor' takes 'has', not 'have', in a positive statement.
 - **has show to:** Keep has to together before the action: has to show.
-- **has to showing:** After has to, use the basic verb show.
-- **has to:** Every visitor is singular, so use has to followed by show.
+- **has to showing:** After 'has to', use the basic verb 'show'.
+- **has to:** 'Every visitor' is singular, so use 'has to' followed by 'show'.
 
 **Decision:** replaced.
 
@@ -766,7 +766,7 @@ Read the librarian's words. Choose their meaning.
 - **You are required to borrow two books.:** Can gives permission here; it does not require you to borrow anything.
 - **Borrowing two books together is allowed.:** In this library rule, can tells you what you are permitted to do.
 - **You will borrow two books tomorrow.:** The librarian states a borrowing rule, not your future plan.
-- **Borrowing two books together is forbidden.:** Forbidden is the opposite of the permission given by can.
+- **Borrowing two books together is forbidden.:** 'Forbidden' is the opposite of the permission given by 'can'.
 
 **Decision:** replaced.
 
@@ -791,14 +791,14 @@ The speaker is unsure whether the office will open. Choose the matching meaning.
 3. The office does not need to open.
 4. Perhaps the office will stay closed. **[Correct]**
 
-**Explanation:** Here may not means it is possible that the office will not open.
+**Explanation:** Here 'may not' means it is possible that the office will not open.
 
 **Choice feedback:**
 
 - **The office is not allowed to open.:** That would be a permission reading of may not; the stated context is uncertainty about opening.
-- **The office needs to open tomorrow.:** A need to open expresses obligation, not uncertainty about closure.
+- **The office needs to open tomorrow.:** 'A need to open' expresses obligation, not uncertainty about closure.
 - **The office does not need to open.:** No need to open removes a requirement; it does not describe an uncertain outcome.
-- **Perhaps the office will stay closed.:** Here may not means it is possible that the office will not open.
+- **Perhaps the office will stay closed.:** Here 'may not' means it is possible that the office will not open.
 
 **Decision:** replaced.
 
@@ -855,14 +855,14 @@ The lift was broken, so we ___ use the stairs.
 3. can
 4. will
 
-**Explanation:** Had to expresses a requirement or necessity in the past.
+**Explanation:** 'Had to' expresses a requirement or necessity in the past.
 
 **Choice feedback:**
 
-- **had to:** Had to expresses a requirement or necessity in the past.
-- **might:** Might use refers to a possibility, not the necessary past action described.
-- **can:** Can use describes present ability or permission rather than past necessity.
-- **will:** Will use points forward rather than describing what was necessary yesterday.
+- **had to:** 'Had to' expresses a requirement or necessity in the past.
+- **might:** 'Might use' refers to a possibility, not the necessary past action described.
+- **can:** 'Can use' describes present ability or permission rather than past necessity.
+- **will:** 'Will use' points forward rather than describing what was necessary yesterday.
 
 **Decision:** replaced.
 
@@ -887,14 +887,14 @@ Did Sofia ___ pay for the extra form?
 3. has to
 4. having to
 
-**Explanation:** Use did + subject + have to to ask about past necessity.
+**Explanation:** Use 'did' + subject + 'have to' to ask about past necessity.
 
 **Choice feedback:**
 
-- **have to:** Use did + subject + have to to ask about past necessity.
-- **had to:** Did already marks the past; use have rather than had after it.
-- **has to:** After did, use have regardless of the subject.
-- **having to:** Did is followed by the basic verb have, not having.
+- **have to:** Use 'did' + subject + 'have to' to ask about past necessity.
+- **had to:** 'Did' already marks the past; use 'have' rather than 'had' after it.
+- **has to:** After 'did', use 'have' regardless of the subject.
+- **having to:** 'Did' is followed by the basic verb 'have', not 'having'.
 
 **Decision:** replaced.
 
@@ -919,14 +919,14 @@ You ___ use the computers after class.
 3. can't
 4. shouldn't
 
-**Explanation:** Don't have to means using the computers is not required; you may choose to use them.
+**Explanation:** "Don't have to" means using the computers is not required; you may choose to use them.
 
 **Choice feedback:**
 
 - **mustn't:** Mustn't would ban computer use, but the room is available.
-- **don't have to:** Don't have to means using the computers is not required; you may choose to use them.
+- **don't have to:** "Don't have to" means using the computers is not required; you may choose to use them.
 - **can't:** Can't would say use is impossible or not allowed, contrary to the available room.
-- **shouldn't:** Shouldn't advises against using the computers, which optional does not mean.
+- **shouldn't:** "Shouldn't" advises against using the computers, which 'optional' does not mean.
 
 **Decision:** replaced.
 
@@ -951,14 +951,14 @@ We need ___ before the evening class starts.
 3. to eat **[Correct]**
 4. ate
 
-**Explanation:** When need is an ordinary positive verb, use need to + basic verb.
+**Explanation:** When 'need' is an ordinary positive verb, use 'need to' + basic verb.
 
 **Choice feedback:**
 
 - **eat:** In this positive sentence, ordinary need requires to before eat.
 - **to eating:** After need to, use eat rather than eating.
-- **to eat:** When need is an ordinary positive verb, use need to + basic verb.
-- **ate:** A past form cannot follow need here; use need to eat.
+- **to eat:** When 'need' is an ordinary positive verb, use 'need to' + basic verb.
+- **ate:** A past form cannot follow 'need' here; use 'need to eat'.
 
 **Decision:** replaced.
 
@@ -1015,12 +1015,12 @@ Staff ___ eat in the room.
 3. may
 4. should
 
-**Explanation:** Must not expresses a rule forbidding staff to eat in the room.
+**Explanation:** 'Must not' expresses a rule forbidding staff to eat in the room.
 
 **Choice feedback:**
 
 - **do not have to:** This would make eating optional, not forbidden.
-- **must not:** Must not expresses a rule forbidding staff to eat in the room.
+- **must not:** 'Must not' expresses a rule forbidding staff to eat in the room.
 - **may:** May would permit eating, which conflicts with the ban.
 - **should:** Should recommends eating, the opposite of the notice's instruction.
 
@@ -1047,14 +1047,14 @@ When I lived in Rome, I ___ understand the local radio quite well.
 3. will
 4. may
 
-**Explanation:** Could describes a general ability during a past period.
+**Explanation:** 'Could' describes a general ability during a past period.
 
 **Choice feedback:**
 
-- **could:** Could describes a general ability during a past period.
-- **must:** Must expresses a need or a conclusion, not the stated past ability.
-- **will:** Will does not locate the ability in the period when the speaker lived in Rome.
-- **may:** May expresses permission or possibility rather than that past ability.
+- **could:** 'Could' describes a general ability during a past period.
+- **must:** 'Must' expresses a need or a conclusion, not the stated past ability.
+- **will:** 'Will' does not locate the ability in the period when the speaker lived in Rome.
+- **may:** 'May' expresses permission or possibility rather than that past ability.
 
 **Decision:** replaced.
 
@@ -1083,7 +1083,7 @@ Sunday parking is free. Choose the reply saying payment is unnecessary.
 
 **Choice feedback:**
 
-- **you mustn't:** Mustn't would forbid payment; free parking means payment is unnecessary.
+- **you mustn't:** "Mustn't" would forbid payment; free parking means payment is unnecessary.
 - **you shouldn't:** Shouldn't advises against paying instead of directly saying that payment is not required.
 - **you can't:** Can't would answer a question about ability or permission, not whether payment is required.
 - **you don't:** A question with do gets a short answer with do: No, you don't means payment is unnecessary.
@@ -1143,14 +1143,14 @@ I'd like ___ a copy of the receipt.
 3. to keep **[Correct]**
 4. to kept
 
-**Explanation:** I'd like means I would like, and it is followed by to + basic verb.
+**Explanation:** "I'd like" means 'I would like', and it is followed by 'to' + basic verb.
 
 **Choice feedback:**
 
-- **keep:** After would like, use to keep, unlike after can or must.
+- **keep:** After 'would like', use 'to keep', unlike after 'can' or 'must'.
 - **keeping to:** The order is would like to keep; keeping to does not fit this meaning.
-- **to keep:** I'd like means I would like, and it is followed by to + basic verb.
-- **to kept:** Use the basic verb keep after to, not kept.
+- **to keep:** "I'd like" means 'I would like', and it is followed by 'to' + basic verb.
+- **to kept:** Use the basic verb 'keep' after 'to', not 'kept'.
 
 **Decision:** replaced.
 
@@ -1271,14 +1271,14 @@ Don't get up. I ___ answer it.
 3. might
 4. will **[Correct]**
 
-**Explanation:** Will can express a decision made as you speak, including an offer to do something.
+**Explanation:** 'Will' can express a decision made as you speak, including an offer to do something.
 
 **Choice feedback:**
 
 - **mustn't:** Mustn't would mean you are forbidden to answer, opposite to the intended action.
-- **used to:** Used to describes a past habit, not a decision made now.
+- **used to:** 'Used to' describes a past habit, not a decision made now.
 - **might:** Might leaves answering uncertain; it does not make the definite offer described.
-- **will:** Will can express a decision made as you speak, including an offer to do something.
+- **will:** 'Will' can express a decision made as you speak, including an offer to do something.
 
 **Decision:** replaced.
 
@@ -1339,14 +1339,14 @@ The speaker now works as a translator.
 3. I use a bookshop.
 4. I would like to own a bookshop.
 
-**Explanation:** Used to + verb describes a former situation; here the speaker no longer owns the shop.
+**Explanation:** 'Used to' + verb describes a former situation; here the speaker no longer owns the shop.
 
 **Choice feedback:**
 
-- **I used to own a bookshop.:** Used to + verb describes a former situation; here the speaker no longer owns the shop.
-- **I am used to owning a bookshop.:** Am used to means ownership is familiar to you; it does not describe a situation that has ended.
+- **I used to own a bookshop.:** 'Used to' + verb describes a former situation; here the speaker no longer owns the shop.
+- **I am used to owning a bookshop.:** 'Am used to' means ownership is familiar to you; it does not describe a situation that has ended.
 - **I use a bookshop.:** This describes making use of a shop, not owning one in the past.
-- **I would like to own a bookshop.:** Would like to expresses a wish, not a former state.
+- **I would like to own a bookshop.:** 'Would like to' expresses a wish, not a former state.
 
 **Decision:** replaced.
 
@@ -1407,9 +1407,9 @@ After the training, the new clerk will ___ handle refunds independently.
 
 **Choice feedback:**
 
-- **can:** Standard English does not put can directly after will; use will be able to.
-- **able to:** Able needs be after will: will be able to.
-- **be able:** Able requires to before the action verb: able to handle.
+- **can:** Standard English does not put 'can' directly after 'will'; use 'will be able to'.
+- **able to:** 'Able' needs 'be' after 'will': 'will be able to'.
+- **be able:** 'Able' requires 'to' before the action verb: 'able to handle'.
 - **be able to:** After will, use be able to to express future ability: will be able to handle.
 
 **Decision:** replaced.
@@ -1435,13 +1435,13 @@ The travel form has to ___ before payment can be made.
 3. be signed **[Correct]**
 4. been signed
 
-**Explanation:** The form receives the action, so use has to be + past participle: be signed.
+**Explanation:** The form receives the action, so use 'has to be' + past participle: 'be signed'.
 
 **Choice feedback:**
 
 - **signed:** After has to, a passive needs be before signed.
-- **be sign:** A passive needs the past participle signed after be, not the basic form sign.
-- **be signed:** The form receives the action, so use has to be + past participle: be signed.
+- **be sign:** A passive needs the past participle 'signed' after 'be', not the basic form 'sign'.
+- **be signed:** The form receives the action, so use 'has to be' + past participle: 'be signed'.
 - **been signed:** After has to, use the basic form be, not been.
 
 **Decision:** replaced.
@@ -1473,7 +1473,7 @@ The machine had stopped working, but the technician solved the problem.
 
 - **The technician might restart it.:** Might restart leaves the action as a possibility rather than a completed success.
 - **The technician had to restart it.:** Had to reports necessity, not whether the restart succeeded.
-- **The technician hoped to restart it.:** Hoped to describes an aim without saying that it was achieved.
+- **The technician hoped to restart it.:** 'Hoped to' describes an aim without saying that it was achieved.
 - **The technician managed to restart it.:** Managed to explicitly reports successful completion, often after difficulty.
 
 **Decision:** replaced.
@@ -1531,14 +1531,14 @@ The road is icy. You ought ___ more slowly.
 3. to drive **[Correct]**
 4. driven
 
-**Explanation:** Ought is followed by to + basic verb: ought to drive.
+**Explanation:** 'Ought' is followed by 'to' + basic verb: 'ought to drive'.
 
 **Choice feedback:**
 
-- **drive:** Unlike should, ought normally needs to before its following verb.
-- **to driving:** Use the basic form drive after ought to.
-- **to drive:** Ought is followed by to + basic verb: ought to drive.
-- **driven:** A past participle alone cannot follow ought; use ought to drive.
+- **drive:** Unlike 'should', 'ought' normally needs 'to' before its following verb.
+- **to driving:** Use the basic form 'drive' after 'ought to'.
+- **to drive:** 'Ought' is followed by 'to' + basic verb: 'ought to drive'.
+- **driven:** A past participle alone cannot follow 'ought'; use 'ought to drive'.
 
 **Decision:** replaced.
 
@@ -1563,12 +1563,12 @@ Choose the interpretation of the agreed arrangement.
 3. The courier is able to lift the parcel at three.
 4. The courier would prefer a three o'clock collection.
 
-**Explanation:** Be supposed to can refer to an agreed plan or an expected duty; it does not confirm performance.
+**Explanation:** 'Be supposed to' can refer to an agreed plan or an expected duty; it does not confirm performance.
 
 **Choice feedback:**
 
-- **The courier collected the parcel before three.:** Is supposed to describes the arrangement, not a completed collection.
-- **The arrangement says collection should happen at three.:** Be supposed to can refer to an agreed plan or an expected duty; it does not confirm performance.
+- **The courier collected the parcel before three.:** 'Is supposed to' describes the arrangement, not a completed collection.
+- **The arrangement says collection should happen at three.:** 'Be supposed to' can refer to an agreed plan or an expected duty; it does not confirm performance.
 - **The courier is able to lift the parcel at three.:** Ability to lift is different from an arrangement to collect.
 - **The courier would prefer a three o'clock collection.:** The sentence reports what is arranged, not the courier's preference.
 
@@ -1627,12 +1627,12 @@ The printer ___ be ready by four.
 3. must not
 4. has to
 
-**Explanation:** Should can express an expected result based on what normally happens or on current information.
+**Explanation:** 'Should' can express an expected result based on what normally happens or on current information.
 
 **Choice feedback:**
 
 - **might:** Might leaves readiness as a possibility without expressing the technician's expectation.
-- **should:** Should can express an expected result based on what normally happens or on current information.
+- **should:** 'Should' can express an expected result based on what normally happens or on current information.
 - **must not:** Must not gives a negative rule or conclusion, not the expected completion time.
 - **has to:** Has to would make four a necessary deadline, which is not what the technician is estimating.
 
@@ -1659,14 +1659,14 @@ The speaker has worked morning shifts for a year.
 3. I'm used to getting up at five. **[Correct]**
 4. I'd rather get up at five.
 
-**Explanation:** Be used to + -ing means an activity is familiar or normal to you.
+**Explanation:** 'Be used to' + -ing means an activity is familiar or normal to you.
 
 **Choice feedback:**
 
-- **I used to get up at five.:** Used to + basic verb describes a former habit rather than present familiarity.
+- **I used to get up at five.:** 'Used to' + basic verb describes a former habit rather than present familiarity.
 - **I ought to get up at five.:** Ought to recommends the action, not how familiar it feels.
-- **I'm used to getting up at five.:** Be used to + -ing means an activity is familiar or normal to you.
-- **I'd rather get up at five.:** Would rather expresses a preference, not being accustomed to the routine.
+- **I'm used to getting up at five.:** 'Be used to' + -ing means an activity is familiar or normal to you.
+- **I'd rather get up at five.:** 'Would rather' expresses a preference, not being accustomed to the routine.
 
 **Decision:** replaced.
 
@@ -1691,14 +1691,14 @@ Both options are available and allowed.
 3. I might walk rather than take a taxi.
 4. I'd rather walk than take a taxi. **[Correct]**
 
-**Explanation:** Would rather + verb + than states a preference between two available actions.
+**Explanation:** 'Would rather' + verb + 'than' states a preference between two available actions.
 
 **Choice feedback:**
 
 - **I ought to walk rather than take a taxi.:** Ought to says walking is advisable, not simply what the speaker prefers.
 - **I have to walk rather than take a taxi.:** Have to makes walking necessary, contrary to both options being available.
-- **I might walk rather than take a taxi.:** Might describes a possible choice without directly stating a preference.
-- **I'd rather walk than take a taxi.:** Would rather + verb + than states a preference between two available actions.
+- **I might walk rather than take a taxi.:** 'Might' describes a possible choice without directly stating a preference.
+- **I'd rather walk than take a taxi.:** 'Would rather' + verb + 'than' states a preference between two available actions.
 
 **Decision:** replaced.
 
@@ -1787,13 +1787,13 @@ Choose the negative form that preserves this strong advice.
 3. not to ignore
 4. not ignoring
 
-**Explanation:** The usual negative is had better not + basic verb: you'd better not ignore.
+**Explanation:** The usual negative is 'had better not' + basic verb: "you'd better not ignore".
 
 **Choice feedback:**
 
-- **not ignore:** The usual negative is had better not + basic verb: you'd better not ignore.
-- **don't ignore:** Do not add don't after had better. Put not before ignore.
-- **not to ignore:** Had better takes the basic verb without to, including after not.
+- **not ignore:** The usual negative is 'had better not' + basic verb: "you'd better not ignore".
+- **don't ignore:** Do not add "don't" after 'had better'. Put 'not' before 'ignore'.
+- **not to ignore:** 'Had better' takes the basic verb without 'to', including after 'not'.
 - **not ignoring:** Had better not is followed by ignore rather than ignoring.
 
 **Decision:** replaced.
@@ -1919,7 +1919,7 @@ If the website stays offline, we ___ submit the appeal by post instead.
 
 **Choice feedback:**
 
-- **used to:** Used to describes a past habit, not a possible future requirement.
+- **used to:** 'Used to' describes a past habit, not a possible future requirement.
 - **might have to:** Might makes the future necessity uncertain: postal submission may become necessary.
 - **would rather:** Would rather states a preference, not a change that may be required.
 - **must not:** Must not would forbid postal submission, the opposite of the possible requirement.
@@ -1951,14 +1951,14 @@ Mina cannot find the file. She may ___ it on the train yesterday.
 3. have left **[Correct]**
 4. had left
 
-**Explanation:** May have + past participle expresses a possible past event: may have left.
+**Explanation:** 'May have' + past participle expresses a possible past event: 'may have left'.
 
 **Choice feedback:**
 
 - **has left:** After may, use the basic form have, not has.
-- **have leave:** The perfect phrase needs the past participle left after have.
-- **have left:** May have + past participle expresses a possible past event: may have left.
-- **had left:** A modal takes the basic form have, not had, even when the event is in the past.
+- **have leave:** The perfect phrase needs the past participle 'left' after 'have'.
+- **have left:** 'May have' + past participle expresses a possible past event: 'may have left'.
+- **had left:** A modal takes the basic form 'have', not 'had', even when the event is in the past.
 
 **Decision:** replaced.
 
@@ -1983,12 +1983,12 @@ The office is locked and its closing alarm is set. The staff ___ have left for t
 3. might
 4. ought to
 
-**Explanation:** Must have left expresses a confident conclusion about a past event from present evidence.
+**Explanation:** 'Must have left' expresses a confident conclusion about a past event from present evidence.
 
 **Choice feedback:**
 
 - **should:** Should have left would express an expectation or judgment about what was appropriate, rather than the strong inference requested.
-- **must:** Must have left expresses a confident conclusion about a past event from present evidence.
+- **must:** 'Must have left' expresses a confident conclusion about a past event from present evidence.
 - **might:** Might have left presents departure as only a possibility.
 - **ought to:** Ought to have left concerns what was advisable or expected, not the specified strong inference.
 
@@ -2047,14 +2047,14 @@ What can you say to Nora?
 3. You might not have printed it.
 4. You needn't have printed it. **[Correct]**
 
-**Explanation:** Needn't have + past participle says an action occurred but was not necessary.
+**Explanation:** "Needn't have" + past participle says an action occurred but was not necessary.
 
 **Choice feedback:**
 
 - **You mustn't have printed it.:** This does not express lack of necessity; depending on context it can convey a negative conclusion about whether printing happened.
 - **You couldn't have printed it.:** This denies the possibility or ability to print, contrary to the completed printing.
 - **You might not have printed it.:** This makes non-printing a possibility, although the context confirms that Nora printed it.
-- **You needn't have printed it.:** Needn't have + past participle says an action occurred but was not necessary.
+- **You needn't have printed it.:** "Needn't have" + past participle says an action occurred but was not necessary.
 
 **Decision:** replaced.
 
@@ -2079,13 +2079,13 @@ We ___ money by booking earlier, but we paid the full price.
 3. could have saved **[Correct]**
 4. had to save
 
-**Explanation:** Could have saved describes an available past opportunity that the following clause shows was missed.
+**Explanation:** 'Could have saved' describes an available past opportunity that the following clause shows was missed.
 
 **Choice feedback:**
 
 - **must have saved:** This concludes that a saving actually occurred, contradicting payment of the full price.
 - **will have saved:** This expresses a confident conclusion or future completion, not the unrealized opportunity described.
-- **could have saved:** Could have saved describes an available past opportunity that the following clause shows was missed.
+- **could have saved:** 'Could have saved' describes an available past opportunity that the following clause shows was missed.
 - **had to save:** This states a necessity to save money without expressing the missed opportunity.
 
 **Decision:** replaced.
@@ -2111,11 +2111,11 @@ The message ___ reached the client.
 3. should not have
 4. must have
 
-**Explanation:** Might not have reached means non-delivery is possible, while delivery remains possible too.
+**Explanation:** 'Might not have reached' means non-delivery is possible, while delivery remains possible too.
 
 **Choice feedback:**
 
-- **might not have:** Might not have reached means non-delivery is possible, while delivery remains possible too.
+- **might not have:** 'Might not have reached' means non-delivery is possible, while delivery remains possible too.
 - **cannot have:** Cannot have rules out delivery more strongly than the stated uncertainty allows.
 - **should not have:** Should not have judges delivery as inappropriate or unexpected rather than merely uncertain.
 - **must have:** Must have reached strongly concludes that delivery occurred, reversing the intended uncertainty.
@@ -2207,14 +2207,14 @@ Choose the sentence that preserves the original advice while putting the documen
 3. These documents should been stored securely.
 4. These documents should be stored securely. **[Correct]**
 
-**Explanation:** Should be + past participle keeps the advice while making the documents the recipients of the action.
+**Explanation:** 'Should be' + past participle keeps the advice while making the documents the recipients of the action.
 
 **Choice feedback:**
 
 - **These documents should store securely.:** This active form does not express someone storing the documents; the intended passive needs be stored.
 - **These documents should have stored securely.:** Have stored is active and perfect; it does not preserve the present advice in the passive.
-- **These documents should been stored securely.:** Been cannot directly follow should. Use should be stored.
-- **These documents should be stored securely.:** Should be + past participle keeps the advice while making the documents the recipients of the action.
+- **These documents should been stored securely.:** 'Been' cannot directly follow 'should'. Use 'should be stored'.
+- **These documents should be stored securely.:** 'Should be' + past participle keeps the advice while making the documents the recipients of the action.
 
 **Decision:** replaced.
 
@@ -2303,14 +2303,14 @@ No one answered during the shift. The operators must ___ a break when I called.
 3. had been taking
 4. have been taking **[Correct]**
 
-**Explanation:** Must have been + -ing infers an action that was in progress at the past time.
+**Explanation:** 'Must have been' + -ing infers an action that was in progress at the past time.
 
 **Choice feedback:**
 
-- **have taking:** The ongoing perfect phrase needs been between have and taking.
+- **have taking:** The ongoing perfect phrase needs 'been' between 'have' and 'taking'.
 - **be took:** An ongoing action needs taking, and the past inference requires have been.
-- **had been taking:** After must, use have rather than had: must have been taking.
-- **have been taking:** Must have been + -ing infers an action that was in progress at the past time.
+- **had been taking:** After 'must', use 'have' rather than 'had': 'must have been taking'.
+- **have been taking:** 'Must have been' + -ing infers an action that was in progress at the past time.
 
 **Decision:** replaced.
 
@@ -2335,14 +2335,14 @@ The attachment might ___ by the email filter.
 3. been removed
 4. have been removed **[Correct]**
 
-**Explanation:** Might have been + past participle combines past possibility with a passive action.
+**Explanation:** 'Might have been' + past participle combines past possibility with a passive action.
 
 **Choice feedback:**
 
 - **have removed:** This active form would make the attachment do the removing, not receive it.
-- **have been remove:** Use the past participle removed after been in this passive phrase.
-- **been removed:** The modal perfect requires have before been: might have been removed.
-- **have been removed:** Might have been + past participle combines past possibility with a passive action.
+- **have been remove:** Use the past participle 'removed' after 'been' in this passive phrase.
+- **been removed:** The modal perfect requires 'have' before 'been': 'might have been removed'.
+- **have been removed:** 'Might have been' + past participle combines past possibility with a passive action.
 
 **Decision:** replaced.
 
@@ -2367,13 +2367,13 @@ The staff ___ in the training room now.
 3. should be working **[Correct]**
 4. should have to work
 
-**Explanation:** Should be + -ing expresses an activity expected to be happening at the present moment.
+**Explanation:** 'Should be' + -ing expresses an activity expected to be happening at the present moment.
 
 **Choice feedback:**
 
 - **should have worked:** This looks back at completed work instead of describing expected activity in progress now.
 - **should have been working:** This looks back at an expected ongoing activity; it does not directly locate the expected work in progress now.
-- **should be working:** Should be + -ing expresses an activity expected to be happening at the present moment.
+- **should be working:** 'Should be' + -ing expresses an activity expected to be happening at the present moment.
 - **should have to work:** This introduces expected necessity, not simply an activity expected to be underway.
 
 **Decision:** replaced.
@@ -2406,7 +2406,7 @@ With a longer cable, we ___ have reached the socket.
 - **might:** Might have reached presents success as possible under the unreal condition, without guaranteeing it.
 - **would:** Would have reached presents reaching as the expected result, stronger than the chance specified.
 - **must:** Must have reached makes a strong inference about a past result, not this uncertain alternative.
-- **will:** Will have reached expresses a confident completion or inference, not the uncertain unreal result.
+- **will:** 'Will have reached' expresses a confident completion or inference, not the uncertain unreal result.
 
 **Decision:** replaced.
 
@@ -2431,12 +2431,12 @@ The bill is much higher than you expected.
 3. I may have asked for a quotation.
 4. I used to ask for a quotation.
 
-**Explanation:** Ought to have + past participle expresses what would have been advisable before the past event.
+**Explanation:** 'Ought to have' + past participle expresses what would have been advisable before the past event.
 
 **Choice feedback:**
 
 - **I must have asked for a quotation.:** This concludes that you did ask, contrary to the stated omission.
-- **I ought to have asked for a quotation.:** Ought to have + past participle expresses what would have been advisable before the past event.
+- **I ought to have asked for a quotation.:** 'Ought to have' + past participle expresses what would have been advisable before the past event.
 - **I may have asked for a quotation.:** This leaves whether you asked uncertain, rather than evaluating the known omission.
 - **I used to ask for a quotation.:** This describes a former habit rather than regret about this repair.
 
@@ -2463,13 +2463,13 @@ The technician is reasonably optimistic but has not guaranteed success. Choose t
 3. The technician expects the part to make restoring the signal possible. **[Correct]**
 4. The technician gives the team permission to restore the signal.
 
-**Explanation:** Should expresses an expectation, while be able to concerns capability; together they predict that restoration will be possible.
+**Explanation:** 'Should' expresses an expectation, while 'be able to' concerns capability; together they predict that restoration will be possible.
 
 **Choice feedback:**
 
 - **The technician says that using the part is a compulsory repair step.:** The comment expresses expected capability, not an instruction making a particular step compulsory.
 - **The technician concludes that the signal has already been restored.:** Be able to restore concerns capability for a coming action, not completed restoration.
-- **The technician expects the part to make restoring the signal possible.:** Should expresses an expectation, while be able to concerns capability; together they predict that restoration will be possible.
+- **The technician expects the part to make restoring the signal possible.:** 'Should' expresses an expectation, while 'be able to' concerns capability; together they predict that restoration will be possible.
 - **The technician gives the team permission to restore the signal.:** The technician is estimating what the repair can achieve, not granting authorization.
 
 **Decision:** replaced.
@@ -2495,14 +2495,14 @@ By the time the van arrives tomorrow, we ___ all the boxes.
 3. might have packed
 4. will have packed **[Correct]**
 
-**Explanation:** Will have + past participle locates completion before a specified future point.
+**Explanation:** 'Will have' + past participle locates completion before a specified future point.
 
 **Choice feedback:**
 
 - **would have packed:** Would have packed suggests an unreal or reported perspective, not this direct confident future prediction.
 - **must have packed:** Must have packed normally draws an inference about completed packing rather than locating a future completion as requested.
 - **might have packed:** Might have packed leaves completion uncertain, weaker than the stated confidence.
-- **will have packed:** Will have + past participle locates completion before a specified future point.
+- **will have packed:** 'Will have' + past participle locates completion before a specified future point.
 
 **Decision:** replaced.
 
@@ -2559,13 +2559,13 @@ We need ___ the report by the time the meeting begins.
 3. have finished
 4. to having finished
 
-**Explanation:** Need to have + past participle makes completion before the stated point explicit.
+**Explanation:** 'Need to have' + past participle makes completion before the stated point explicit.
 
 **Choice feedback:**
 
-- **to have finishing:** The perfect construction takes finished, not finishing, after have.
-- **to have finished:** Need to have + past participle makes completion before the stated point explicit.
-- **have finished:** Ordinary positive need requires to before the following verb phrase.
+- **to have finishing:** The perfect construction takes 'finished', not 'finishing', after 'have'.
+- **to have finished:** 'Need to have' + past participle makes completion before the stated point explicit.
+- **have finished:** Ordinary positive 'need' requires 'to' before the following verb phrase.
 - **to having finished:** After need to, use the basic form have, not having.
 
 **Decision:** replaced.
@@ -2595,14 +2595,14 @@ I'd rather you ___ the results until we have checked the calculations.
 3. didn't announce **[Correct]**
 4. not to announce
 
-**Explanation:** With a different subject after would rather, a past form can express a present or future preference.
+**Explanation:** With a different subject after 'would rather', a past form can express a present or future preference.
 
 **Choice feedback:**
 
 - **hadn't announced:** The past perfect would express a preference about an earlier announcement, not the future action specified.
 - **didn't announced:** Did already carries the past form; use announce, not announced, after didn't.
-- **didn't announce:** With a different subject after would rather, a past form can express a present or future preference.
-- **not to announce:** After I'd rather you, use a finite clause such as you didn't announce, not a to-infinitive.
+- **didn't announce:** With a different subject after 'would rather', a past form can express a present or future preference.
+- **not to announce:** After "I'd rather you", use a finite clause such as "you didn't announce", not a to-infinitive.
 
 **Decision:** replaced.
 
@@ -2663,7 +2663,7 @@ Read the cautious planning statement. Choose what is and is not settled.
 
 **Choice feedback:**
 
-- **The licence will be lost, making relocation necessary.:** The if-clause does not predict loss of the licence, and might leaves the resulting necessity open.
+- **The licence will be lost, making relocation necessary.:** The if-clause does not predict loss of the licence, and 'might' leaves the resulting necessity open.
 - **The organizers prefer relocation if the licence is lost.:** Have to concerns necessity rather than their preference.
 - **Relocation could become necessary if the licence is lost.:** Might makes the necessity expressed by have to uncertain within the stated condition.
 - **The organizers are permitted to relocate only if the licence is lost.:** Might have to does not express permission or make licence loss the only condition for it.
@@ -2691,12 +2691,12 @@ Choose the paraphrase that preserves this formal instruction's conditional meani
 3. Names are expected to remain, so remove them before circulation.
 4. Names should have remained until circulation.
 
-**Explanation:** Initial should + subject is a formal conditional pattern meaning if this happens to be the case.
+**Explanation:** Initial 'should' + subject is a formal conditional pattern meaning 'if this happens to be the case'.
 
 **Choice feedback:**
 
-- **If any names remain, remove them before circulation.:** Initial should + subject is a formal conditional pattern meaning if this happens to be the case.
-- **Because names ought to remain, remove them before circulation.:** Conditional should does not recommend retaining names; it introduces a possible circumstance.
+- **If any names remain, remove them before circulation.:** Initial 'should' + subject is a formal conditional pattern meaning 'if this happens to be the case'.
+- **Because names ought to remain, remove them before circulation.:** Conditional 'should' does not recommend retaining names; it introduces a possible circumstance.
 - **Names are expected to remain, so remove them before circulation.:** The original does not predict that names will remain; it tells you what to do if they do.
 - **Names should have remained until circulation.:** This changes a conditional instruction into a judgment about an earlier action.
 
@@ -2755,14 +2755,14 @@ I'd rather the interviewer ___ salary until the end.
 3. won't mention
 4. hasn't mentioned
 
-**Explanation:** Would rather + another subject + past perfect expresses a preference about an unreal alternative to a past action.
+**Explanation:** 'Would rather' + another subject + past perfect expresses a preference about an unreal alternative to a past action.
 
 **Choice feedback:**
 
-- **hadn't mentioned:** Would rather + another subject + past perfect expresses a preference about an unreal alternative to a past action.
-- **didn't mention:** A past-simple clause after would rather normally expresses a present or future preference, not this earlier completed interview.
-- **won't mention:** Will not does not form the retrospective preference clause needed here.
-- **hasn't mentioned:** The present perfect does not express the unreal past alternative after would rather.
+- **hadn't mentioned:** 'Would rather' + another subject + past perfect expresses a preference about an unreal alternative to a past action.
+- **didn't mention:** A past-simple clause after 'would rather' normally expresses a present or future preference, not this earlier completed interview.
+- **won't mention:** 'Will not' does not form the retrospective preference clause needed here.
+- **hasn't mentioned:** The present perfect does not express the unreal past alternative after 'would rather'.
 
 **Decision:** replaced.
 
@@ -2819,14 +2819,14 @@ The exemption rules have not been finalized. Choose the interpretation of the la
 3. Existing members will probably fail to submit required fresh references.
 4. Existing members might be exempt from providing fresh references. **[Correct]**
 
-**Explanation:** May expresses uncertainty about the absence of a requirement: perhaps members will not have to submit references.
+**Explanation:** 'May' expresses uncertainty about the absence of a requirement: perhaps members will not have to submit references.
 
 **Choice feedback:**
 
 - **Existing members will be forbidden to submit fresh references.:** Not applies to have to, removing necessity; it does not create a ban on submission.
 - **Existing members are certain to be exempt from providing fresh references.:** May leaves the exemption uncertain; it does not establish it as definite.
 - **Existing members will probably fail to submit required fresh references.:** The sentence concerns whether submission is required, not whether members will comply.
-- **Existing members might be exempt from providing fresh references.:** May expresses uncertainty about the absence of a requirement: perhaps members will not have to submit references.
+- **Existing members might be exempt from providing fresh references.:** 'May' expresses uncertainty about the absence of a requirement: perhaps members will not have to submit references.
 
 **Decision:** replaced.
 
@@ -3075,14 +3075,14 @@ A daytime journey was also available.
 3. I must have travelled during the day.
 4. I would rather have travelled during the day. **[Correct]**
 
-**Explanation:** Would rather have + past participle expresses a preferred alternative to a past action.
+**Explanation:** 'Would rather have' + past participle expresses a preferred alternative to a past action.
 
 **Choice feedback:**
 
 - **I would rather travel during the day.:** This states a present or future preference rather than explicitly looking back at the completed trip.
 - **I would have to travel during the day.:** Would have to introduces a conditional necessity, not a preference about the past journey.
 - **I must have travelled during the day.:** This infers an actual daytime journey, contradicting the stated overnight trip.
-- **I would rather have travelled during the day.:** Would rather have + past participle expresses a preferred alternative to a past action.
+- **I would rather have travelled during the day.:** 'Would rather have' + past participle expresses a preferred alternative to a past action.
 
 **Decision:** replaced.
 
@@ -3139,12 +3139,12 @@ The launch was cancelled yesterday. Choose the meaning of the earlier arrangemen
 3. The speaker strongly infers that the launch happened earlier than planned.
 4. The service is now expected to launch tomorrow instead of this morning.
 
-**Explanation:** Was to have + past participle can look back on an intended event; the cancellation establishes that it did not happen.
+**Explanation:** 'Was to have' + past participle can look back on an intended event; the cancellation establishes that it did not happen.
 
 **Choice feedback:**
 
 - **The launch happened this morning, as the earlier arrangement required.:** The cancellation rules out this actual-completion reading.
-- **A launch this morning had been arranged, but the cancellation prevented it.:** Was to have + past participle can look back on an intended event; the cancellation establishes that it did not happen.
+- **A launch this morning had been arranged, but the cancellation prevented it.:** 'Was to have' + past participle can look back on an intended event; the cancellation establishes that it did not happen.
 - **The speaker strongly infers that the launch happened earlier than planned.:** Was to have been states a prior arrangement, not an evidence-based inference.
 - **The service is now expected to launch tomorrow instead of this morning.:** No replacement date is supplied by the phrase or the context.
 
@@ -3203,11 +3203,11 @@ To obtain approval for that system, they ___ replace the wiring.
 3. should have been able to
 4. might have preferred to
 
-**Explanation:** Must expresses the present inference; have had to places the inferred necessity in the past.
+**Explanation:** 'Must' expresses the present inference; 'have had to' places the inferred necessity in the past.
 
 **Choice feedback:**
 
-- **must have had to:** Must expresses the present inference; have had to places the inferred necessity in the past.
+- **must have had to:** 'Must' expresses the present inference; 'have had to' places the inferred necessity in the past.
 - **must not have to:** This concerns an inferred absence of present necessity, not a past requirement.
 - **should have been able to:** This expresses expected past ability instead of a strong inference about necessity.
 - **might have preferred to:** This expresses uncertain past preference, not the inferred requirement.
@@ -3303,13 +3303,13 @@ Original: 'The researcher may not disclose the source.'
 3. The researcher must keep the source confidential. **[Correct]**
 4. The researcher is unlikely to disclose the source.
 
-**Explanation:** Must keep the source confidential explicitly requires non-disclosure, removing may not's possible uncertainty reading.
+**Explanation:** 'Must keep the source confidential' explicitly requires non-disclosure, removing the possible uncertainty in 'may not'.
 
 **Choice feedback:**
 
 - **The researcher might not disclose the source.:** This selects the uncertain non-disclosure reading, not the intended prohibition.
 - **The researcher need not disclose the source.:** Need not removes a requirement but still permits disclosure.
-- **The researcher must keep the source confidential.:** Must keep the source confidential explicitly requires non-disclosure, removing may not's possible uncertainty reading.
+- **The researcher must keep the source confidential.:** 'Must keep the source confidential' explicitly requires non-disclosure, removing the possible uncertainty in 'may not'.
 - **The researcher is unlikely to disclose the source.:** Unlikely predicts behavior without forbidding it.
 
 **Decision:** replaced.
@@ -3367,14 +3367,14 @@ The reviewer is judging the agency's completed conduct.
 3. The agency might not have disclosed the records.
 4. The agency ought not to have disclosed the records. **[Correct]**
 
-**Explanation:** Ought not to have expresses a retrospective judgment against the known action, leaving its occurrence intact.
+**Explanation:** 'Ought not to have' expresses a retrospective judgment against the known action, leaving its occurrence intact.
 
 **Choice feedback:**
 
 - **The agency cannot have disclosed the records.:** This challenges the possibility of disclosure, contrary to the known event.
 - **The agency need not have disclosed the records.:** This says the disclosure was unnecessary; it does not by itself evaluate it as improper.
 - **The agency might not have disclosed the records.:** This entertains non-disclosure as possible instead of evaluating the established disclosure.
-- **The agency ought not to have disclosed the records.:** Ought not to have expresses a retrospective judgment against the known action, leaving its occurrence intact.
+- **The agency ought not to have disclosed the records.:** 'Ought not to have' expresses a retrospective judgment against the known action, leaving its occurrence intact.
 
 **Decision:** replaced.
 
@@ -3495,11 +3495,11 @@ An interviewer asks, 'You have never met her former manager, so why expect him t
 3. It expresses the speaker's preference to become the candidate's manager.
 4. It guarantees that the candidate's manager will request evidence tomorrow.
 
-**Explanation:** Would can characterize an expected response in an imagined situation without referring to past time.
+**Explanation:** 'Would' can characterize an expected response in an imagined situation without referring to past time.
 
 **Choice feedback:**
 
-- **It describes a hypothetical careful manager's expected response.:** Would can characterize an expected response in an imagined situation without referring to past time.
+- **It describes a hypothetical careful manager's expected response.:** 'Would' can characterize an expected response in an imagined situation without referring to past time.
 - **It reports what the candidate's actual manager repeatedly did.:** The indefinite any and the stated lack of contact make this a general hypothetical judgment, not a past memory.
 - **It expresses the speaker's preference to become the candidate's manager.:** The subject is any careful manager; no personal preference about employment is stated.
 - **It guarantees that the candidate's manager will request evidence tomorrow.:** A general hypothetical judgment does not establish a particular person's future action.
@@ -3531,7 +3531,7 @@ The speaker reasons from the notice's prominent placement. Choose the closest pa
 
 **Choice feedback:**
 
-- **The speaker is strongly convinced that the visitors missed the warning.:** Failed to notice means missed; cannot have rejects that possibility rather than asserting it.
+- **The speaker is strongly convinced that the visitors missed the warning.:** 'Failed to notice' means 'missed'; 'cannot have' rejects that possibility rather than asserting it.
 - **The visitors were forbidden to overlook the warning.:** The phrase makes a deduction about a past event, not a rule governing their conduct.
 - **The speaker is strongly convinced that the visitors noticed the warning.:** Cannot have rules out failure to notice, yielding a strong positive inference that they noticed it.
 - **The speaker considers noticing and missing the warning equally possible.:** The modal rules out one alternative in the speaker's judgment; it does not leave the two alternatives equally open.
@@ -3655,12 +3655,12 @@ The admissions rule is still under discussion. Choose the interpretation preserv
 3. Applicants are already required to finish the placement after applying.
 4. Applicants are allowed to submit an application without completing the placement.
 
-**Explanation:** May marks an uncertain requirement; have to expresses that requirement; have completed locates completion before applying.
+**Explanation:** 'May' marks an uncertain requirement; 'have to' expresses that requirement; 'have completed' locates completion before applying.
 
 **Choice feedback:**
 
 - **Applicants probably completed the placement because they submitted applications.:** This turns an uncertain rule into an inference about actual applicants; the sentence establishes neither event.
-- **A rule may require completion of the placement before an application is submitted.:** May marks an uncertain requirement; have to expresses that requirement; have completed locates completion before applying.
+- **A rule may require completion of the placement before an application is submitted.:** 'May' marks an uncertain requirement; 'have to' expresses that requirement; 'have completed' locates completion before applying.
 - **Applicants are already required to finish the placement after applying.:** May leaves the rule unsettled, and before places completion earlier than submission.
 - **Applicants are allowed to submit an application without completing the placement.:** The phrase considers a possible completion requirement rather than granting an exemption.
 
@@ -3687,12 +3687,12 @@ A critic ends a review with this sentence. Choose the recommendation it conveys.
 3. The critic cannot judge the performance because evidence is missing.
 4. The critic advises readers against attending the performance.
 
-**Explanation:** Cannot ... too highly means that even very high praise would not be excessive, so the recommendation is emphatic.
+**Explanation:** 'Cannot ... too highly' means that even very high praise would not be excessive, so the recommendation is emphatic.
 
 **Choice feedback:**
 
-- **The critic gives the performance an exceptionally strong recommendation.:** Cannot ... too highly means that even very high praise would not be excessive, so the recommendation is emphatic.
-- **The critic recommends it, but only with substantial reservations.:** The too highly idiom intensifies the recommendation here rather than limiting it.
+- **The critic gives the performance an exceptionally strong recommendation.:** 'Cannot ... too highly' means that even very high praise would not be excessive, so the recommendation is emphatic.
+- **The critic recommends it, but only with substantial reservations.:** The 'too highly' idiom intensifies the recommendation here rather than limiting it.
 - **The critic cannot judge the performance because evidence is missing.:** In cannot recommend too highly, the negative intensifies the recommendation; it does not signal a lack of evidence.
 - **The critic advises readers against attending the performance.:** This mistakes the negative wording for a negative recommendation; the idiom has positive force.
 
@@ -3821,7 +3821,7 @@ A supplier says, 'We'll bill your firm for correcting the error in our installat
 
 - **It asks how the payment can be processed efficiently.:** The question challenges who should bear the duty rather than how payment works.
 - **It expresses doubt about whether the supplier made any mistake.:** Their mistake is treated as the basis of the objection, not an uncertain event.
-- **It concludes that the speaker's group already paid the charge.:** Have to pay describes a requirement, not a completed payment.
+- **It concludes that the speaker's group already paid the charge.:** 'Have to pay' describes a requirement, not a completed payment.
 - **It challenges why this group should bear the cost.:** Rhetorical why should challenges justification; have to identifies the obligation being challenged.
 
 **Decision:** replaced.
@@ -3853,7 +3853,7 @@ During discussion of a proposed compulsory evening timetable, the manager says t
 
 - **The manager prefers the employee to be free of the requirement to attend them all.:** Would rather introduces a preference; didn't have to removes the duty, not the option of attending voluntarily.
 - **The manager prefers the employee to be prohibited from attending any evening session.:** Absence of obligation does not create a prohibition, and every is not equivalent to any in this rewrite.
-- **The manager states that the employee has already missed all evening sessions.:** The past form after would rather expresses a current preference, not a report of past absence.
+- **The manager states that the employee has already missed all evening sessions.:** The past form after 'would rather' expresses a current preference, not a report of past absence.
 - **The manager prefers compulsory attendance at fewer sessions but rules out voluntary attendance at others.:** The sentence does not impose a new smaller quota or rule out additional voluntary attendance.
 
 **Decision:** replaced.

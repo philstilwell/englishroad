@@ -19,12 +19,12 @@ I'd like a quiet seat, please.
 3. I usually sit in quiet places.
 4. I do not want to sit down.
 
-**Explanation:** Would like is a polite way to express this wish or request.
+**Explanation:** 'Would like' is a polite way to express this wish or request.
 
 **Choice feedback:**
 
 - **I already have a quiet seat.:** I'd like expresses what the traveler wants, not what the traveler already has.
-- **I want a quiet seat.:** Would like is a polite way to express this wish or request.
+- **I want a quiet seat.:** 'Would like' is a polite way to express this wish or request.
 - **I usually sit in quiet places.:** The request concerns a seat now, not a usual habit.
 - **I do not want to sit down.:** The traveler asks for a seat rather than refusing to sit.
 
@@ -51,14 +51,14 @@ I would ___ a bowl of soup, please.
 3. like **[Correct]**
 4. liking
 
-**Explanation:** Would like is the correct form for this polite order.
+**Explanation:** 'Would like' is the correct form for this polite order.
 
 **Choice feedback:**
 
-- **likes:** Would takes like without a third-person -s.
-- **liked:** Liked is a past form; after would, use the base form like.
-- **like:** Would like is the correct form for this polite order.
-- **liking:** Liking cannot follow would directly in this expression.
+- **likes:** 'Would' takes 'like' without a third-person '-s'.
+- **liked:** 'Liked' is a past form; after 'would', use the base form 'like'.
+- **like:** 'Would like' is the correct form for this polite order.
+- **liking:** 'Liking' cannot follow 'would' directly in this expression.
 
 **Decision:** replaced.
 
@@ -83,14 +83,14 @@ I'd like ___ a room for Saturday.
 3. to book **[Correct]**
 4. to booking
 
-**Explanation:** To book names the action the guest would like to take.
+**Explanation:** 'To book' names the action the guest would like to take.
 
 **Choice feedback:**
 
 - **book:** Would like needs to before the requested action in this pattern.
 - **booking:** Booking is not the to-infinitive used for the action the guest wants to take.
-- **to book:** To book names the action the guest would like to take.
-- **to booking:** After to in this infinitive, use book rather than booking.
+- **to book:** 'To book' names the action the guest would like to take.
+- **to booking:** After 'to' in this infinitive, use 'book' rather than 'booking'.
 
 **Decision:** replaced.
 
@@ -115,14 +115,14 @@ I hope the bus arrives soon.
 3. The speaker says the bus never arrives.
 4. The speaker wants the bus to arrive soon. **[Correct]**
 
-**Explanation:** Hope expresses the desired arrival; it does not say the arrival has happened.
+**Explanation:** 'Hope' expresses the desired arrival; it does not say the arrival has happened.
 
 **Choice feedback:**
 
 - **The speaker knows the bus has arrived.:** Has arrived would describe a completed arrival, which hope does not establish.
-- **The speaker wants the bus to arrive late.:** Soon expresses a wish for an early arrival, not a late one.
+- **The speaker wants the bus to arrive late.:** 'Soon' expresses a wish for an early arrival, not a late one.
 - **The speaker says the bus never arrives.:** The sentence gives no claim that the bus never arrives.
-- **The speaker wants the bus to arrive soon.:** Hope expresses the desired arrival; it does not say the arrival has happened.
+- **The speaker wants the bus to arrive soon.:** 'Hope' expresses the desired arrival; it does not say the arrival has happened.
 
 **Decision:** replaced.
 
@@ -151,7 +151,7 @@ What would you like to drink?
 
 **Choice feedback:**
 
-- **I like tea.:** I like tea describes a general preference rather than directly stating this order.
+- **I like tea.:** 'I like tea' describes a general preference rather than directly stating this order.
 - **I liked the tea yesterday.:** Liked ... yesterday comments on a past drink, not today's order.
 - **I'd like some tea, please.:** I'd like some tea politely names the drink wanted now.
 - **I don't usually drink tea.:** This states a usual habit and does not name a drink the customer wants now.
@@ -179,14 +179,14 @@ I want to ___ how to cook rice.
 3. learned
 4. learns
 
-**Explanation:** Want to learn expresses the skill the speaker wants to gain.
+**Explanation:** 'Want to learn' expresses the skill the speaker wants to gain.
 
 **Choice feedback:**
 
-- **learn:** Want to learn expresses the skill the speaker wants to gain.
-- **learning:** To in this infinitive needs the base form learn, not learning.
-- **learned:** Learned is a past form and does not follow want to here.
-- **learns:** Learns has a third-person ending, which is not used after to in this infinitive.
+- **learn:** 'Want to learn' expresses the skill the speaker wants to gain.
+- **learning:** 'To' in this infinitive needs the base form 'learn', not 'learning'.
+- **learned:** 'Learned' is a past form and does not follow 'want to' here.
+- **learns:** 'Learns' has a third-person ending, which is not used after 'to' in this infinitive.
 
 **Decision:** replaced.
 
@@ -215,10 +215,10 @@ A friend asks, 'Do you want to go to the party?' You do not want to go.
 
 **Choice feedback:**
 
-- **I don't want go to the party.:** Want needs to before go in this action complement.
-- **I not want to go to the party.:** The present negative needs do: I do not want, not I not want.
+- **I don't want go to the party.:** 'Want' needs 'to' before 'go' in this action complement.
+- **I not want to go to the party.:** The present negative needs 'do': 'I do not want', not 'I not want'.
 - **I don't want to go to the party.:** Don't want to go correctly expresses the speaker's negative desire.
-- **I don't wanting to go to the party.:** After don't, use the base form want rather than wanting.
+- **I don't wanting to go to the party.:** After "don't", use the base form 'want' rather than 'wanting'.
 
 **Decision:** replaced.
 
@@ -314,7 +314,7 @@ We ___ like a table near the window.
 - **would:** Would works with plural we without changing its form.
 - **woulds:** Would has no -s form, regardless of the subject.
 - **would to:** To does not go between would and like.
-- **are would:** Would is itself a modal auxiliary and does not need are before it.
+- **are would:** 'Would' is itself a modal auxiliary and does not need 'are' before it.
 
 **Decision:** replaced.
 
@@ -343,9 +343,9 @@ I wish ___ good luck in your new job.
 
 **Choice feedback:**
 
-- **your:** Your is a possessive form and cannot name the person receiving this wish by itself.
-- **yours:** Yours refers to a possession, not the person being wished good luck.
-- **you're:** You're means you are and does not fit after wish in this pattern.
+- **your:** 'Your' is a possessive form and cannot name the person receiving this wish by itself.
+- **yours:** 'Yours' refers to a possession, not the person being wished good luck.
+- **you're:** "You're" means 'you are' and does not fit after 'wish' in this pattern.
 - **you:** Wish you good luck uses you as the person receiving the good wish.
 
 **Decision:** replaced.
@@ -403,14 +403,14 @@ I hope ___ your visit to the city.
 3. you enjoying
 4. you enjoys
 
-**Explanation:** You enjoy supplies a subject and present verb after hope.
+**Explanation:** 'You enjoy' supplies a subject and present verb after 'hope'.
 
 **Choice feedback:**
 
-- **you to enjoy:** Hope does not take you to enjoy as its direct complement in this pattern.
-- **you enjoy:** You enjoy supplies a subject and present verb after hope.
-- **you enjoying:** You enjoying lacks a finite verb needed for this clause.
-- **you enjoys:** Enjoys does not agree with the subject you.
+- **you to enjoy:** 'Hope' does not take 'you to enjoy' as its direct complement in this pattern.
+- **you enjoy:** 'You enjoy' supplies a subject and present verb after 'hope'.
+- **you enjoying:** 'You enjoying' lacks a finite verb needed for this clause.
+- **you enjoys:** 'Enjoys' does not agree with the subject 'you'.
 
 **Decision:** replaced.
 
@@ -440,9 +440,9 @@ I hope ___ you again soon.
 **Choice feedback:**
 
 - **to see:** To see gives the action the speaker hopes to do.
-- **see:** Hope needs to before the base verb when its own subject will perform the action.
+- **see:** 'Hope' needs 'to' before the base verb when its own subject will perform the action.
 - **seeing:** Seeing is not the direct complement used in hope to see.
-- **to seeing:** The infinitive uses to see, not to seeing.
+- **to seeing:** The infinitive uses 'to see', not 'to seeing'.
 
 **Decision:** replaced.
 
@@ -467,14 +467,14 @@ Will the weather be sunny for our walk? I hope ___.
 3. it
 4. them
 
-**Explanation:** I hope so means I hope the weather will be sunny.
+**Explanation:** 'I hope so' means 'I hope the weather will be sunny'.
 
 **Choice feedback:**
 
 - **that:** That would need a following clause, such as that it will be sunny.
-- **so:** I hope so means I hope the weather will be sunny.
-- **it:** It does not replace the whole sunny-weather statement after hope here.
-- **them:** Them refers to plural things or people, not the whole hoped-for proposition.
+- **so:** 'I hope so' means 'I hope the weather will be sunny'.
+- **it:** It does not replace the whole sunny-weather statement after 'hope' here.
+- **them:** 'Them' refers to plural things or people, not the whole hoped-for proposition.
 
 **Decision:** replaced.
 
@@ -536,8 +536,8 @@ Yesterday I ___ to buy a warmer coat, but the shop was closed.
 **Choice feedback:**
 
 - **wanted:** Wanted places the desire in the past; it does not say the coat was bought.
-- **want:** Want is present or base form, not the ordinary past form for yesterday's desire.
-- **wanting:** Wanting cannot serve as the finite past verb on its own here.
+- **want:** 'Want' is present or base form, not the ordinary past form for yesterday's desire.
+- **wanting:** 'Wanting' cannot serve as the finite past verb on its own here.
 - **wants:** Wants is third-person present and agrees neither with I nor with the past time.
 
 **Decision:** replaced.
@@ -567,8 +567,8 @@ I'd like to join the walk, but I have to work.
 
 **Choice feedback:**
 
-- **The speaker dislikes walking.:** Would like to join expresses interest, not dislike.
-- **The speaker has agreed to join the walk.:** The but clause explains an obstacle; the sentence does not accept the invitation.
+- **The speaker dislikes walking.:** 'Would like to join' expresses interest, not dislike.
+- **The speaker has agreed to join the walk.:** The 'but' clause explains an obstacle; the sentence does not accept the invitation.
 - **The speaker wants everyone to work instead.:** The work duty concerns the speaker, not everyone else.
 - **The speaker wants to join but has another duty.:** The desire is positive, but having to work prevents the simple acceptance suggested by that desire alone.
 
@@ -595,14 +595,14 @@ Do you think the train will be late? I hope ___.
 3. yes
 4. late
 
-**Explanation:** I hope not means the speaker hopes the train will not be late.
+**Explanation:** 'I hope not' means the speaker hopes the train will not be late.
 
 **Choice feedback:**
 
-- **not:** I hope not means the speaker hopes the train will not be late.
-- **so:** I hope so would mean the speaker wants the train to be late, contrary to the context.
+- **not:** 'I hope not' means the speaker hopes the train will not be late.
+- **so:** 'I hope so' would mean the speaker wants the train to be late, contrary to the context.
 - **yes:** I hope yes is not the usual short response to this question, and yes would favor lateness.
-- **late:** Late cannot by itself replace the negative clause after hope.
+- **late:** 'Late' cannot by itself replace the negative clause after 'hope'.
 
 **Decision:** replaced.
 
@@ -627,14 +627,14 @@ A community center asks about your interests for a new course.
 3. I teach pottery every week.
 4. I am teaching pottery now.
 
-**Explanation:** Would like to try expresses the new activity the speaker wants to experience.
+**Explanation:** 'Would like to try' expresses the new activity the speaker wants to experience.
 
 **Choice feedback:**
 
-- **I tried pottery last summer.:** Tried describes a past experience rather than the desired new choice.
-- **I'd like to try pottery.:** Would like to try expresses the new activity the speaker wants to experience.
-- **I teach pottery every week.:** Teach every week describes an existing routine, not a wish to try the activity.
-- **I am teaching pottery now.:** Am teaching describes a present activity, not the desired future experience.
+- **I tried pottery last summer.:** 'Tried' describes a past experience rather than the desired new choice.
+- **I'd like to try pottery.:** 'Would like to try' expresses the new activity the speaker wants to experience.
+- **I teach pottery every week.:** 'Teach every week' describes an existing routine, not a wish to try the activity.
+- **I am teaching pottery now.:** 'Am teaching' describes a present activity, not the desired future experience.
 
 **Decision:** replaced.
 
@@ -663,14 +663,14 @@ If I ___ you, I'd keep a copy of the receipt.
 3. being
 4. were **[Correct]**
 
-**Explanation:** If I were you is the conventional expression for advice from an imagined position.
+**Explanation:** 'If I were you' is the conventional expression for advice from an imagined position.
 
 **Choice feedback:**
 
-- **am:** Am states a real present identity rather than the imagined position used in this advice expression.
-- **be:** Be alone does not form this if-I-were-you expression.
-- **being:** Being cannot be the finite verb of this clause on its own.
-- **were:** If I were you is the conventional expression for advice from an imagined position.
+- **am:** 'Am' states a real present identity rather than the imagined position used in this advice expression.
+- **be:** 'Be' alone does not form this if-I-were-you expression.
+- **being:** 'Being' cannot be the finite verb of this clause on its own.
+- **were:** 'If I were you' is the conventional expression for advice from an imagined position.
 
 **Decision:** replaced.
 
@@ -699,7 +699,7 @@ I work six days a week. I wish I had more free time now.
 
 **Choice feedback:**
 
-- **I had more free time before I started this job.:** Had after wish refers here to a desired present difference, not a stated fact about an earlier job.
+- **I had more free time before I started this job.:** 'Had' after 'wish' refers here to a desired present difference, not a stated fact about an earlier job.
 - **I want more free time than I have now.:** The speaker wants the present amount of free time to be greater.
 - **I am saying that I now have enough free time.:** The wish expresses dissatisfaction with the amount of free time, not satisfaction that it is enough.
 - **I am promising to work for more hours.:** The sentence expresses a desire for more free time, not a commitment to extra work.
@@ -727,14 +727,14 @@ I wish I ___ drive.
 3. could **[Correct]**
 4. could have
 
-**Explanation:** Could drive expresses the ability the speaker wishes to have now.
+**Explanation:** 'Could drive' expresses the ability the speaker wishes to have now.
 
 **Choice feedback:**
 
-- **can:** For this unfulfilled present ability, use the remote form could after wish, not can.
-- **could to:** Could takes the base verb drive directly, without to.
-- **could:** Could drive expresses the ability the speaker wishes to have now.
-- **could have:** Could have needs a past participle and refers to a past possibility; it cannot take drive here.
+- **can:** For this unfulfilled present ability, use the remote form 'could' after 'wish', not 'can'.
+- **could to:** 'Could' takes the base verb 'drive' directly, without 'to'.
+- **could:** 'Could drive' expresses the ability the speaker wishes to have now.
+- **could have:** 'Could have' needs a past participle and refers to a past possibility; it cannot take 'drive' here.
 
 **Decision:** replaced.
 
@@ -791,14 +791,14 @@ It's quiet outside. I'd rather ___ there.
 3. sitting
 4. sat
 
-**Explanation:** I'd rather sit expresses the preferred action using the base form.
+**Explanation:** "I'd rather sit" expresses the preferred action using the base form.
 
 **Choice feedback:**
 
-- **sit:** I'd rather sit expresses the preferred action using the base form.
-- **to sit:** Would rather takes the base verb sit directly, without to.
-- **sitting:** Sitting is not the form immediately following would rather in this pattern.
-- **sat:** Sat is past form; would rather needs sit for this current choice.
+- **sit:** "I'd rather sit" expresses the preferred action using the base form.
+- **to sit:** 'Would rather' takes the base verb 'sit' directly, without 'to'.
+- **sitting:** 'Sitting' is not the form immediately following 'would rather' in this pattern.
+- **sat:** 'Sat' is past form; 'would rather' needs 'sit' for this current choice.
 
 **Decision:** replaced.
 
@@ -827,8 +827,8 @@ I'd rather walk ___ wait for another bus.
 
 **Choice feedback:**
 
-- **to:** To does not introduce the alternative after would rather in this comparison.
-- **as:** As is used in other comparison patterns, not rather walk as wait.
+- **to:** 'To' does not introduce the alternative after 'would rather' in this comparison.
+- **as:** 'As' is used in other comparison patterns, not 'rather walk as wait'.
 - **than:** Than links the preferred action walk to the alternative wait.
 - **from:** From does not connect the two alternatives in the would-rather pattern.
 
@@ -862,7 +862,7 @@ The passenger wants the driver ___ at the next corner.
 - **stop:** Want someone needs to before the action that person is to perform.
 - **stopping:** Stopping does not form the wanted-action complement in this pattern.
 - **to stop:** To stop identifies the action wanted from the driver.
-- **that stop:** That stop lacks a subject and does not fit after wants the driver.
+- **that stop:** 'That stop' lacks a subject and does not fit after 'wants the driver'.
 
 **Decision:** replaced.
 
@@ -919,14 +919,14 @@ I wish ___ my subscription.
 3. to canceled
 4. to cancel **[Correct]**
 
-**Explanation:** Wish to cancel is a formal way to state that the speaker wants to cancel.
+**Explanation:** 'Wish to cancel' is a formal way to state that the speaker wants to cancel.
 
 **Choice feedback:**
 
-- **canceling:** Wish does not take canceling directly for this formal statement of intention.
+- **canceling:** 'Wish' does not take 'canceling' directly for this formal statement of intention.
 - **that cancel:** That cancel is not a complete clause and does not fit this request.
-- **to canceled:** The infinitive uses to cancel, not to canceled.
-- **to cancel:** Wish to cancel is a formal way to state that the speaker wants to cancel.
+- **to canceled:** The infinitive uses 'to cancel', not 'to canceled'.
+- **to cancel:** 'Wish to cancel' is a formal way to state that the speaker wants to cancel.
 
 **Decision:** replaced.
 
@@ -1052,7 +1052,7 @@ I'll visit the market if I finish work early.
 **Choice feedback:**
 
 - **The visit depends on finishing work early.:** Finishing early is the condition attached to the planned visit.
-- **The speaker has already finished work early.:** The if clause does not say early finishing has already occurred.
+- **The speaker has already finished work early.:** The 'if' clause does not say early finishing has already occurred.
 - **The visit will happen even if work finishes late.:** Even if work finishes late removes the stated condition.
 - **The speaker never plans to visit the market.:** The sentence gives a possible plan rather than ruling out a visit.
 
@@ -1143,14 +1143,14 @@ Would you mind ___ the window a little?
 3. opened
 4. opening **[Correct]**
 
-**Explanation:** Would you mind takes an -ing action, so opening completes the polite request.
+**Explanation:** 'Would you mind' takes an -ing action, so 'opening' completes the polite request.
 
 **Choice feedback:**
 
 - **open:** Open is not the complement form after mind in this request.
-- **to open:** Mind does not take a to-infinitive for the requested action here.
-- **opened:** Opened is a past form, not the -ing complement required after mind.
-- **opening:** Would you mind takes an -ing action, so opening completes the polite request.
+- **to open:** 'Mind' does not take a to-infinitive for the requested action here.
+- **opened:** 'Opened' is a past form, not the -ing complement required after 'mind'.
+- **opening:** 'Would you mind' takes an -ing action, so 'opening' completes the polite request.
 
 **Decision:** replaced.
 
@@ -1179,10 +1179,10 @@ It would ___ nice to meet your family one day.
 
 **Choice feedback:**
 
-- **is:** Would takes the base form be, not the present form is.
+- **is:** 'Would' takes the base form 'be', not the present form 'is'.
 - **be:** Would be nice evaluates a possible future meeting rather than stating that it has happened.
-- **being:** Being cannot follow would directly in this clause.
-- **to be:** Would does not take to before be.
+- **being:** 'Being' cannot follow 'would' directly in this clause.
+- **to be:** 'Would' does not take 'to' before 'be'.
 
 **Decision:** replaced.
 
@@ -1211,9 +1211,9 @@ Let's ___ outside for some fresh air.
 
 **Choice feedback:**
 
-- **going:** Let's is followed by the base verb go, not going.
+- **going:** "Let's" is followed by the base verb 'go', not 'going'.
 - **to go:** To is not used between let's and the suggested action.
-- **goes:** Goes has a third-person ending that is not used after let's.
+- **goes:** 'Goes' has a third-person ending that is not used after "let's".
 - **go:** Let's go proposes an action for the speaker and the listener together.
 
 **Decision:** replaced.
@@ -1271,13 +1271,13 @@ Imagine ___ beside the sea.
 3. live
 4. lived
 
-**Explanation:** Imagine takes an -ing complement here: living describes the possible experience being pictured.
+**Explanation:** 'Imagine' takes an -ing complement here: 'living' describes the possible experience being pictured.
 
 **Choice feedback:**
 
-- **living:** Imagine takes an -ing complement here: living describes the possible experience being pictured.
-- **to live:** Imagine does not take a to-infinitive for this experience in standard usage.
-- **live:** Live cannot directly follow imagine in this pattern without a different clause structure.
+- **living:** 'Imagine' takes an -ing complement here: 'living' describes the possible experience being pictured.
+- **to live:** 'Imagine' does not take a to-infinitive for this experience in standard usage.
+- **live:** 'Live' cannot directly follow 'imagine' in this pattern without a different clause structure.
 - **lived:** Lived is not the -ing complement needed for the invited mental picture.
 
 **Decision:** replaced.
@@ -1307,14 +1307,14 @@ I wish I ___ closer to the studio.
 3. will live
 4. living
 
-**Explanation:** Lived expresses the desired present situation, contrasting with the actual long journey.
+**Explanation:** 'Lived' expresses the desired present situation, contrasting with the actual long journey.
 
 **Choice feedback:**
 
-- **lived:** Lived expresses the desired present situation, contrasting with the actual long journey.
+- **lived:** 'Lived' expresses the desired present situation, contrasting with the actual long journey.
 - **live:** Live is not the standard past-form complement used for this unreal present wish.
 - **will live:** Will live predicts a future location rather than forming this wish about the present.
-- **living:** Living lacks a finite verb for the clause after I wish I.
+- **living:** 'Living' lacks a finite verb for the clause after 'I wish I'.
 
 **Decision:** replaced.
 
@@ -1403,14 +1403,14 @@ I wish I ___ what the announcer is saying.
 3. could to hear
 4. could hear **[Correct]**
 
-**Explanation:** Could hear expresses the ability to hear that is wanted but unavailable in the current situation.
+**Explanation:** 'Could hear' expresses the ability to hear that is wanted but unavailable in the current situation.
 
 **Choice feedback:**
 
-- **can hearing:** Can must take a base verb, and can hearing does not form this unreal-ability wish.
-- **could heard:** Could needs hear rather than the past form heard.
+- **can hearing:** 'Can' must take a base verb, and 'can hearing' does not form this unreal-ability wish.
+- **could heard:** 'Could' needs 'hear' rather than the past form 'heard'.
 - **could to hear:** To is not used between could and hear.
-- **could hear:** Could hear expresses the ability to hear that is wanted but unavailable in the current situation.
+- **could hear:** 'Could hear' expresses the ability to hear that is wanted but unavailable in the current situation.
 
 **Decision:** replaced.
 
@@ -1435,14 +1435,14 @@ I wish my neighbor ___ the music down.
 3. turning
 4. would turn **[Correct]**
 
-**Explanation:** Would turn expresses the desired change in the neighbor's willing behavior.
+**Explanation:** 'Would turn' expresses the desired change in the neighbor's willing behavior.
 
 **Choice feedback:**
 
 - **will turn:** Will turn is not the usual modal form in this wish for another person's behavior to change.
 - **turns:** Turns states a present habit rather than forming the requested behavior-change wish.
-- **turning:** Turning lacks the finite verb needed after my neighbor.
-- **would turn:** Would turn expresses the desired change in the neighbor's willing behavior.
+- **turning:** 'Turning' lacks the finite verb needed after 'my neighbor'.
+- **would turn:** 'Would turn' expresses the desired change in the neighbor's willing behavior.
 
 **Decision:** replaced.
 
@@ -1535,10 +1535,10 @@ If the apartment were quiet, I ___ earplugs.
 
 **Choice feedback:**
 
-- **wouldn't needed:** Wouldn't takes the base form need, not needed.
+- **wouldn't needed:** "Wouldn't" takes the base form 'need', not 'needed'.
 - **wouldn't needing:** Needing cannot directly follow wouldn't here.
 - **wouldn't need:** Wouldn't need gives the negative imagined consequence of removing the noise.
-- **wouldn't to need:** To is not used after wouldn't before need.
+- **wouldn't to need:** 'To' is not used after "wouldn't" before 'need'.
 
 **Decision:** replaced.
 
@@ -1601,7 +1601,7 @@ I wish I ___ earlier.
 
 - **book:** Book is not the past-perfect form used for this regret about an earlier decision.
 - **would book:** Would book looks to a desired future behavior rather than undoing the completed late booking.
-- **am booking:** Am booking describes a current activity rather than regret about the earlier event.
+- **am booking:** 'Am booking' describes a current activity rather than regret about the earlier event.
 - **had booked:** Had booked imagines an earlier booking in a past that can no longer be changed.
 
 **Decision:** replaced.
@@ -1634,7 +1634,7 @@ If I ___ the alarm, I would have arrived on time.
 - **hear:** Hear gives a present form rather than the required earlier unreal event.
 - **had heard:** Had heard gives the unreal past condition that would have changed the arrival outcome.
 - **would hear:** Would hear does not form the past-perfect condition requested here.
-- **have heard:** Have heard is present perfect, not the past perfect locating the unreal hearing before the missed arrival.
+- **have heard:** 'Have heard' is present perfect, not the past perfect locating the unreal hearing before the missed arrival.
 
 **Decision:** replaced.
 
@@ -1691,14 +1691,14 @@ It's time we ___ downstairs.
 3. had gone
 4. going
 
-**Explanation:** Went is a past form with a present recommendation: we should go downstairs now.
+**Explanation:** 'Went' is a past form with a present recommendation: we should go downstairs now.
 
 **Choice feedback:**
 
-- **went:** Went is a past form with a present recommendation: we should go downstairs now.
+- **went:** 'Went' is a past form with a present recommendation: we should go downstairs now.
 - **go:** Go can occur in other usage, but it does not supply the simple past form requested for this construction.
 - **had gone:** Had gone suggests an earlier completed action rather than the requested simple past form for action now.
-- **going:** Going cannot serve as the finite verb of we going in this clause.
+- **going:** 'Going' cannot serve as the finite verb of 'we going' in this clause.
 
 **Decision:** replaced.
 
@@ -1755,14 +1755,14 @@ A: 'I wish I was taller.' B: 'I wish I were taller.' Which comparison is accurat
 3. Both can express the same present wish. **[Correct]**
 4. Only B can express this wish in informal English.
 
-**Explanation:** Both express a wish about present height. Were is the conventional irrealis form and also suits formal styles.
+**Explanation:** Both express a wish about present height. 'Were' is the conventional irrealis form and also suits formal styles.
 
 **Choice feedback:**
 
-- **A refers to a past wish; B expresses a present wish.:** Was can express the present unreal wish here; it need not place the wish in the past.
-- **A expresses a present wish; B expresses a past wish.:** Were also expresses a wish about current height here, not a past wish.
-- **Both can express the same present wish.:** Both express a wish about present height. Were is the conventional irrealis form and also suits formal styles.
-- **Only B can express this wish in informal English.:** Was is a standard informal alternative in this singular wish clause, so A should not be excluded.
+- **A refers to a past wish; B expresses a present wish.:** 'Was' can express the present unreal wish here; it need not place the wish in the past.
+- **A expresses a present wish; B expresses a past wish.:** 'Were' also expresses a wish about current height here, not a past wish.
+- **Both can express the same present wish.:** Both express a wish about present height. 'Were' is the conventional irrealis form and also suits formal styles.
+- **Only B can express this wish in informal English.:** 'Was' is a standard informal alternative in this singular wish clause, so A should not be excluded.
 
 **Decision:** replaced.
 
@@ -1787,14 +1787,14 @@ The coach recommends that each runner ___ enough water.
 3. drank
 4. drinking
 
-**Explanation:** Drink is the base form used with each runner in the requested mandative subjunctive.
+**Explanation:** 'Drink' is the base form used with 'each runner' in the requested mandative subjunctive.
 
 **Choice feedback:**
 
-- **drinks:** Drinks is an indicative form, not the base-form subjunctive requested; indicative recommendation patterns occur in some usage.
-- **drink:** Drink is the base form used with each runner in the requested mandative subjunctive.
-- **drank:** Drank is a past indicative form and does not supply the requested base-form recommendation.
-- **drinking:** Drinking cannot serve as the finite predicate in this that clause on its own.
+- **drinks:** 'Drinks' is an indicative form, not the base-form subjunctive requested; indicative recommendation patterns occur in some usage.
+- **drink:** 'Drink' is the base form used with 'each runner' in the requested mandative subjunctive.
+- **drank:** 'Drank' is a past indicative form and does not supply the requested base-form recommendation.
+- **drinking:** 'Drinking' cannot serve as the finite predicate in this 'that' clause on its own.
 
 **Decision:** replaced.
 
@@ -1819,14 +1819,14 @@ It is essential that all protective equipment ___ available before work begins.
 3. be **[Correct]**
 4. being
 
-**Explanation:** Be is the base-form subjunctive following this statement of necessity.
+**Explanation:** 'Be' is the base-form subjunctive following this statement of necessity.
 
 **Choice feedback:**
 
 - **is:** Is would be indicative rather than the requested subjunctive be.
-- **was:** Was describes a past state and is not the requested subjunctive form of the requirement.
-- **be:** Be is the base-form subjunctive following this statement of necessity.
-- **being:** Being needs a finite auxiliary and cannot stand alone as this clause's verb.
+- **was:** 'Was' describes a past state and is not the requested subjunctive form of the requirement.
+- **be:** 'Be' is the base-form subjunctive following this statement of necessity.
+- **being:** 'Being' needs a finite auxiliary and cannot stand alone as this clause's verb.
 
 **Decision:** replaced.
 
@@ -1851,12 +1851,12 @@ The organizer requested that the entrance ___ blocked during the event.
 3. is not
 4. not being
 
-**Explanation:** Not goes directly before the base form be in this negative subjunctive request.
+**Explanation:** 'Not' goes directly before the base form 'be' in this negative subjunctive request.
 
 **Choice feedback:**
 
-- **not be:** Not goes directly before the base form be in this negative subjunctive request.
-- **does not be:** The mandative subjunctive does not use does before be to make its negative.
+- **not be:** 'Not' goes directly before the base form 'be' in this negative subjunctive request.
+- **does not be:** The mandative subjunctive does not use 'does' before 'be' to make its negative.
 - **is not:** Is not is indicative, not the requested negative base-form subjunctive.
 - **not being:** Not being is nonfinite and lacks the finite form required by the requested construction.
 
@@ -3492,7 +3492,7 @@ What qualification does 'as it were' introduce?
 
 1. The narrator qualifies the metaphor, not the stated layout of the routes. **[Correct]**
 2. The narrator is uncertain whether the pedestrian routes actually existed.
-3. The narrator attributes the word spine to an unidentified earlier speaker.
+3. The narrator attributes the word 'spine' to an unidentified earlier speaker.
 4. The narrator describes the route layout as a counterfactual alternative to the actual city.
 
 **Explanation:** 'As it were' signals an approximate or figurative description; the account of branching routes remains an ordinary factual claim within the passage.
@@ -3501,7 +3501,7 @@ What qualification does 'as it were' introduce?
 
 - **The narrator qualifies the metaphor, not the stated layout of the routes.:** 'As it were' signals an approximate or figurative description; the account of branching routes remains an ordinary factual claim within the passage.
 - **The narrator is uncertain whether the pedestrian routes actually existed.:** The qualifying phrase is attached to the metaphorical identification as a spine, not a doubt about the routes' existence.
-- **The narrator attributes the word spine to an unidentified earlier speaker.:** The expression does not function as a quotation attribution and supplies no prior speaker.
+- **The narrator attributes the word 'spine' to an unidentified earlier speaker.:** The expression does not function as a quotation attribution and supplies no prior speaker.
 - **The narrator describes the route layout as a counterfactual alternative to the actual city.:** The formula does not place the city layout inside an unreal scenario; it marks the figurative way that layout is described.
 
 **Decision:** replaced.

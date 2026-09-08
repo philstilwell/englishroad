@@ -14,12 +14,12 @@
         "to stay"
       ],
       "answer": "stay",
-      "explanation": "Will takes the base form stay to describe the plan for tomorrow.",
+      "explanation": "'Will' takes the base form 'stay' to describe the plan for tomorrow.",
       "rationales": {
         "staying": "After will, use stay, not the -ing form.",
-        "stay": "Will takes the base form stay to describe the plan for tomorrow.",
-        "stays": "Do not add -s to a verb after will.",
-        "to stay": "Will is followed directly by stay, without to."
+        "stay": "'Will' takes the base form 'stay' to describe the plan for tomorrow.",
+        "stays": "Do not add '-s' to a verb after 'will'.",
+        "to stay": "'Will' is followed directly by 'stay', without 'to'."
       },
       "audit": {
         "status": "reviewed",
@@ -45,11 +45,11 @@
         "am"
       ],
       "answer": "is",
-      "explanation": "The seat is singular, so the condition uses is free.",
+      "explanation": "The seat is singular, so the condition uses 'is free'.",
       "rationales": {
-        "be": "The seat needs a present-tense verb; use is, not be.",
-        "are": "Are goes with plural subjects or you, not the seat.",
-        "is": "The seat is singular, so the condition uses is free.",
+        "be": "The seat needs a present-tense verb; use 'is', not 'be'.",
+        "are": "'Are' goes with plural subjects or 'you', not the seat.",
+        "is": "The seat is singular, so the condition uses 'is free'.",
         "am": "Am goes with I, not the seat."
       },
       "audit": {
@@ -76,12 +76,12 @@
         "to call"
       ],
       "answer": "call",
-      "explanation": "Call is the base verb used to give the instruction after the condition.",
+      "explanation": "'Call' is the base verb used to give the instruction after the condition.",
       "rationales": {
         "calls": "A direct instruction uses call, without -s.",
         "calling": "Calling alone cannot give this instruction.",
         "to call": "An instruction begins with call, not to call.",
-        "call": "Call is the base verb used to give the instruction after the condition."
+        "call": "'Call' is the base verb used to give the instruction after the condition."
       },
       "audit": {
         "status": "reviewed",
@@ -107,9 +107,9 @@
         "When you want a shower."
       ],
       "answer": "When you want food.",
-      "explanation": "Hungry means wanting food; the speaker tells you where to find some.",
+      "explanation": "'Hungry' means wanting food; the speaker tells you where to find some.",
       "rationales": {
-        "When you want food.": "Hungry means wanting food; the speaker tells you where to find some.",
+        "When you want food.": "'Hungry' means wanting food; the speaker tells you where to find some.",
         "When you want sleep.": "Wanting sleep means being tired, not hungry.",
         "When you want directions.": "The message offers food, not help finding a place.",
         "When you want a shower.": "A shower is for washing; hungry describes needing food."
@@ -140,10 +140,10 @@
       "answer": "can",
       "explanation": "Can walk gives an available choice when the bus is late.",
       "rationales": {
-        "can to": "Can takes walk directly, without to.",
-        "cans": "Can does not take an -s ending.",
+        "can to": "'Can' takes 'walk' directly, without 'to'.",
+        "cans": "'Can' does not take an '-s' ending.",
         "can": "Can walk gives an available choice when the bus is late.",
-        "are can": "Do not put are before can; can is already the helping verb."
+        "are can": "Do not put 'are' before 'can'; 'can' is already the helping verb."
       },
       "audit": {
         "status": "reviewed",
@@ -169,12 +169,12 @@
         "are"
       ],
       "answer": "are",
-      "explanation": "You takes are: if you are cold.",
+      "explanation": "'You' takes 'are': 'if you are cold'.",
       "rationales": {
-        "are": "You takes are: if you are cold.",
-        "is": "Is does not agree with you.",
+        "are": "'You' takes 'are': 'if you are cold'.",
+        "is": "'Is' does not agree with 'you'.",
         "am": "Am belongs with I, not you.",
-        "be": "Use are as the present-tense verb after you."
+        "be": "Use 'are' as the present-tense verb after 'you'."
       },
       "audit": {
         "status": "reviewed",
@@ -262,11 +262,11 @@
         "rings"
       ],
       "answer": "rings",
-      "explanation": "My phone takes rings in this present-tense condition.",
+      "explanation": "'My phone' takes 'rings' in this present-tense condition.",
       "rationales": {
-        "ring": "My phone is singular, so add -s in the present simple.",
-        "rings": "My phone takes rings in this present-tense condition.",
-        "ringing": "Ringing needs a helping verb; it cannot stand here alone.",
+        "ring": "'My phone' is singular, so add '-s' in the present simple.",
+        "rings": "'My phone' takes 'rings' in this present-tense condition.",
+        "ringing": "'Ringing' needs a helping verb; it cannot stand here alone.",
         "to ring": "To ring is not a complete verb for the subject my phone."
       },
       "audit": {
@@ -326,9 +326,9 @@
       "answer": "need",
       "explanation": "You need completes the condition; one refers to an umbrella.",
       "rationales": {
-        "needs": "After you, the present-simple verb is need, without -s.",
+        "needs": "After 'you', the present-simple verb is 'need', without '-s'.",
         "needing": "Needing alone does not complete the condition.",
-        "to need": "To need cannot serve as the complete verb after you.",
+        "to need": "'To need' cannot serve as the complete verb after 'you'.",
         "need": "You need completes the condition; one refers to an umbrella."
       },
       "audit": {
@@ -357,7 +357,7 @@
       "answer": "You can go in.",
       "explanation": "The green-light condition is true, so the message permits entry.",
       "rationales": {
-        "You must leave now.": "Enter means go in, not leave.",
+        "You must leave now.": "'Enter' means go in, not leave.",
         "You can turn off the light.": "The message gives permission to enter, not to use the light switch.",
         "You can go in.": "The green-light condition is true, so the message permits entry.",
         "You must wait outside.": "Waiting outside does not match the permission to enter when the light is green."
@@ -390,7 +390,7 @@
       "rationales": {
         "have": "There have does not introduce the existence of the cups; use there are.",
         "are": "There are introduces more than one cup.",
-        "am": "Am can follow I, not there with two cups.",
+        "am": "'Am' can follow 'I', not 'there' with 'two cups'.",
         "be": "This condition needs the present-tense form are, not be."
       },
       "audit": {
@@ -417,11 +417,11 @@
         "don't want"
       ],
       "answer": "don't want",
-      "explanation": "You don't want uses don't plus the base verb to make a negative condition.",
+      "explanation": "\"You don't want\" uses \"don't\" plus the base verb to make a negative condition.",
       "rationales": {
-        "don't want": "You don't want uses don't plus the base verb to make a negative condition.",
+        "don't want": "\"You don't want\" uses \"don't\" plus the base verb to make a negative condition.",
         "doesn't want": "With you, use don't, not doesn't.",
-        "not want": "Add don't before want to form this negative present-tense clause.",
+        "not want": "Add \"don't\" before 'want' to form this negative present-tense clause.",
         "don't wants": "After don't, use want without -s."
       },
       "audit": {
@@ -448,11 +448,11 @@
         "Turn on the light."
       ],
       "answer": "Have some water.",
-      "explanation": "Thirsty means needing a drink, so the water instruction applies.",
+      "explanation": "'Thirsty' means needing a drink, so the water instruction applies.",
       "rationales": {
         "Sit down.": "Sitting down is the instruction for being tired, not thirsty.",
         "Open the door.": "Opening the door is not an instruction in this message.",
-        "Have some water.": "Thirsty means needing a drink, so the water instruction applies.",
+        "Have some water.": "'Thirsty' means needing a drink, so the water instruction applies.",
         "Turn on the light.": "The message gives no instruction about a light."
       },
       "audit": {
@@ -481,7 +481,7 @@
       "answer": "isn't",
       "explanation": "Isn't means is not and agrees with the singular subject Sam.",
       "rationales": {
-        "not is": "Put not after is: is not, or isn't.",
+        "not is": "Put 'not' after 'is': 'is not', or \"isn't\".",
         "doesn't is": "Do not use doesn't with is; negate is directly.",
         "aren't": "Sam is one person, so use isn't, not aren't.",
         "isn't": "Isn't means is not and agrees with the singular subject Sam."
@@ -513,8 +513,8 @@
       "explanation": "The words after if describe the situation that makes the instruction useful.",
       "rationales": {
         "The room is hot.": "The words after if describe the situation that makes the instruction useful.",
-        "Open the door.": "Open the door is the action to take, not the condition.",
-        "The door is hot.": "Hot describes the room in the message, not the door.",
+        "Open the door.": "'Open the door' is the action to take, not the condition.",
+        "The door is hot.": "'Hot' describes the room in the message, not the door.",
         "The room is open.": "The message does not say the room is open."
       },
       "audit": {
@@ -545,7 +545,7 @@
       "rationales": {
         "doesn't": "Doesn't goes with he, she or it, not you.",
         "don't": "You don't need forms the negative condition in this request.",
-        "isn't": "Isn't cannot be followed directly by the base verb need here.",
+        "isn't": "\"Isn't\" cannot be followed directly by the base verb 'need' here.",
         "not": "You need don't, not just not, to make this present-simple negative."
       },
       "audit": {
@@ -607,7 +607,7 @@
       "rationales": {
         "Because": "Because presents having time as a reason, rather than an open condition.",
         "Before": "Before puts the visit earlier than having time; it does not express this condition.",
-        "So": "So introduces a result and does not connect these clauses in the intended way.",
+        "So": "'So' introduces a result and does not connect these clauses in the intended way.",
         "If": "If leaves having time open and makes the visit depend on it."
       },
       "audit": {
@@ -634,11 +634,11 @@
         "rain"
       ],
       "answer": "rains",
-      "explanation": "Rains describes the possible future condition; will belongs in the predicted result.",
+      "explanation": "'Rains' describes the possible future condition; 'will' belongs in the predicted result.",
       "rationales": {
-        "will rain": "For this ordinary weather condition, use the present simple, not will in the if-clause.",
-        "rains": "Rains describes the possible future condition; will belongs in the predicted result.",
-        "raining": "Raining needs a helping verb such as is.",
+        "will rain": "For this ordinary weather condition, use the present simple, not 'will' in the if-clause.",
+        "rains": "'Rains' describes the possible future condition; 'will' belongs in the predicted result.",
+        "raining": "'Raining' needs a helping verb such as 'is'.",
         "rain": "It takes rains, with -s, in the present simple."
       },
       "audit": {
@@ -665,12 +665,12 @@
         "will send"
       ],
       "answer": "will send",
-      "explanation": "Will send expresses the future action promised if the address is provided.",
+      "explanation": "'Will send' expresses the future action promised if the address is provided.",
       "rationales": {
         "sent": "Sent places the action in the past, not next week.",
-        "sending": "Sending cannot stand alone as the main verb here.",
-        "will send": "Will send expresses the future action promised if the address is provided.",
-        "have sent": "Have sent describes a completed action, not the promised future one."
+        "sending": "'Sending' cannot stand alone as the main verb here.",
+        "will send": "'Will send' expresses the future action promised if the address is provided.",
+        "have sent": "'Have sent' describes a completed action, not the promised future one."
       },
       "audit": {
         "status": "reviewed",
@@ -698,9 +698,9 @@
       "answer": "doesn't",
       "explanation": "Doesn't work forms the negative condition for a singular lift.",
       "rationales": {
-        "don't": "The lift is singular, so its negative uses doesn't.",
-        "isn't": "Isn't cannot directly precede the base verb work here.",
-        "not": "A present-simple negative needs doesn't before work.",
+        "don't": "The lift is singular, so its negative uses \"doesn't\".",
+        "isn't": "\"Isn't\" cannot directly precede the base verb 'work' here.",
+        "not": "A present-simple negative needs \"doesn't\" before 'work'.",
         "doesn't": "Doesn't work forms the negative condition for a singular lift."
       },
       "audit": {
@@ -758,10 +758,10 @@
         "If we have seats, you won't book a table."
       ],
       "answer": "Unless you book a table, we won't have seats.",
-      "explanation": "Unless you book means if you don't book in this warning.",
+      "explanation": "'Unless you book' means \"if you don't book\" in this warning.",
       "rationales": {
         "If you book a table, we won't have seats.": "This makes booking the condition for not having seats, reversing the warning.",
-        "Unless you book a table, we won't have seats.": "Unless you book means if you don't book in this warning.",
+        "Unless you book a table, we won't have seats.": "'Unless you book' means \"if you don't book\" in this warning.",
         "Unless you don't book a table, we won't have seats.": "The extra don't reverses the condition: it now applies when you do book.",
         "If we have seats, you won't book a table.": "This reverses the relationship and predicts your booking behavior."
       },
@@ -792,7 +792,7 @@
       "explanation": "If keeps the arrival uncertain and links the call to it.",
       "rationales": {
         "Because": "Because treats the arrival as a reason, not an uncertain event.",
-        "Although": "Although expresses a contrast; it does not make the call depend on arrival.",
+        "Although": "'Although' expresses a contrast; it does not make the call depend on arrival.",
         "If": "If keeps the arrival uncertain and links the call to it.",
         "Since": "Since would present arrival as a reason here rather than an open condition."
       },
@@ -820,12 +820,12 @@
         "What will you do if the last train is cancelled?"
       ],
       "answer": "What will you do if the last train is cancelled?",
-      "explanation": "The question order is what + will + you + do; the if-clause states the situation.",
+      "explanation": "The question order is 'what' + 'will' + 'you' + 'do'; the if-clause states the situation.",
       "rationales": {
         "What you will do if the last train is cancelled?": "A direct question needs will before you.",
         "What will do you if the last train is cancelled?": "The subject you belongs between will and do.",
-        "What will you to do if the last train is cancelled?": "Will takes do directly, without to.",
-        "What will you do if the last train is cancelled?": "The question order is what + will + you + do; the if-clause states the situation."
+        "What will you to do if the last train is cancelled?": "'Will' takes 'do' directly, without 'to'.",
+        "What will you do if the last train is cancelled?": "The question order is 'what' + 'will' + 'you' + 'do'; the if-clause states the situation."
       },
       "audit": {
         "status": "reviewed",
@@ -884,10 +884,10 @@
       "answer": "should",
       "explanation": "Should plus tell gives advice for the situation in the if-clause.",
       "rationales": {
-        "used to": "Used to describes a past habit, not current advice.",
+        "used to": "'Used to' describes a past habit, not current advice.",
         "have already": "Have already says telling is completed, not recommended.",
         "should": "Should plus tell gives advice for the situation in the if-clause.",
-        "were going to": "Were going to describes an earlier intention, not advice now."
+        "were going to": "'Were going to' describes an earlier intention, not advice now."
       },
       "audit": {
         "status": "reviewed",
@@ -917,7 +917,7 @@
       "rationales": {
         "only if": "Only if makes charging depend on needing the phone, instead of describing preparation now.",
         "in case": "In case introduces the possible later need that you prepare for now.",
-        "unless": "Unless means except if and reverses the intended reason for charging.",
+        "unless": "'Unless' means 'except if' and reverses the intended reason for charging.",
         "even though": "Even though treats the need as an accepted fact and introduces a contrast."
       },
       "audit": {
@@ -1009,9 +1009,9 @@
       "explanation": "Must makes returning the laptop by six a requirement for borrowers.",
       "rationales": {
         "may": "May gives permission or possibility; it does not state the return requirement.",
-        "can": "Can expresses ability or permission, not an obligation.",
+        "can": "'Can' expresses ability or permission, not an obligation.",
         "must": "Must makes returning the laptop by six a requirement for borrowers.",
-        "might": "Might expresses possibility and weakens the rule into an uncertain event."
+        "might": "'Might' expresses possibility and weakens the rule into an uncertain event."
       },
       "audit": {
         "status": "reviewed",
@@ -1042,7 +1042,7 @@
         "will": "Will leave says the speaker will go, which contradicts waiting.",
         "won't": "Won't leave is a negative promise: the speaker will wait for you.",
         "might": "Might leave keeps leaving possible; it does not promise to wait.",
-        "can": "Can leave describes an available action, not a promise to stay."
+        "can": "'Can leave' describes an available action, not a promise to stay."
       },
       "audit": {
         "status": "reviewed",
@@ -1102,9 +1102,9 @@
       "explanation": "Will get gives the predicted result of leaving at eight tomorrow.",
       "rationales": {
         "will get": "Will get gives the predicted result of leaving at eight tomorrow.",
-        "would have got": "Would have got describes an imagined completed result, not this open future plan.",
+        "would have got": "'Would have got' describes an imagined completed result, not this open future plan.",
         "had got": "Had got places the arrival before a past reference point.",
-        "got": "Got is past tense and does not express the intended future arrival."
+        "got": "'Got' is past tense and does not express the intended future arrival."
       },
       "audit": {
         "status": "reviewed",
@@ -1130,12 +1130,12 @@
         "arrive"
       ],
       "answer": "arrive",
-      "explanation": "The plural subject your guests takes arrive in the present simple.",
+      "explanation": "The plural subject 'your guests' takes 'arrive' in the present simple.",
       "rationales": {
-        "arrives": "Guests is plural, so the present verb has no -s.",
-        "arriving": "Arriving needs a helping verb to form a complete condition.",
-        "arrive": "The plural subject your guests takes arrive in the present simple.",
-        "to arrive": "To arrive cannot stand as the complete verb after your guests."
+        "arrives": "'Guests' is plural, so the present verb has no '-s'.",
+        "arriving": "'Arriving' needs a helping verb to form a complete condition.",
+        "arrive": "The plural subject 'your guests' takes 'arrive' in the present simple.",
+        "to arrive": "'To arrive' cannot stand as the complete verb after 'your guests'."
       },
       "audit": {
         "status": "reviewed",
@@ -1166,7 +1166,7 @@
         "Does the shop sell receipts?": "The question is about getting money back, not buying a receipt.",
         "Is a refund possible when I show proof of payment?": "The speaker asks whether bringing the receipt meets the condition for getting money back.",
         "Can I get a receipt without buying anything?": "The speaker already has a receipt and asks about returning with it.",
-        "Does the shop need me to pay again?": "Money back refers to a refund, not making a second payment."
+        "Does the shop need me to pay again?": "'Money back' refers to a refund, not making a second payment."
       },
       "audit": {
         "status": "reviewed",
@@ -1194,7 +1194,7 @@
       "answer": "if",
       "explanation": "If makes the offer depend on whether there is room.",
       "rationales": {
-        "although": "Although introduces a contrast rather than the required condition.",
+        "although": "'Although' introduces a contrast rather than the required condition.",
         "because": "Because treats there being room as an established reason, not a condition still to check.",
         "unless": "Unless makes the offer apply if there is no room, reversing the intended condition.",
         "if": "If makes the offer depend on whether there is room."
@@ -1254,10 +1254,10 @@
         "am having"
       ],
       "answer": "had",
-      "explanation": "Had marks imagined present ownership; it does not describe past ownership here.",
+      "explanation": "'Had' marks imagined present ownership; it does not describe past ownership here.",
       "rationales": {
         "have": "Have presents ownership as an open real condition, not the stated imagined alternative.",
-        "had": "Had marks imagined present ownership; it does not describe past ownership here.",
+        "had": "'Had' marks imagined present ownership; it does not describe past ownership here.",
         "will have": "Will have looks ahead to ownership rather than imagining it now.",
         "am having": "Am having is not the ordinary way to express owning a car."
       },
@@ -1351,9 +1351,9 @@
       "explanation": "Present simple can express an open future condition, and could gives a possible benefit.",
       "rationales": {
         "stays": "Present simple can express an open future condition, and could gives a possible benefit.",
-        "had stayed": "Had stayed refers to an earlier hypothetical situation, not this open next-month decision.",
-        "has been staying": "Has been staying describes an activity continuing up to a reference point, not the planned future opening policy here.",
-        "staying": "Staying alone does not form a complete if-clause."
+        "had stayed": "'Had stayed' refers to an earlier hypothetical situation, not this open next-month decision.",
+        "has been staying": "'Has been staying' describes an activity continuing up to a reference point, not the planned future opening policy here.",
+        "staying": "'Staying' alone does not form a complete if-clause."
       },
       "audit": {
         "status": "reviewed",
@@ -1379,10 +1379,10 @@
         "We can't finish the repair if the part doesn't arrive."
       ],
       "answer": "We can't finish the repair if the part doesn't arrive.",
-      "explanation": "Unless the part arrives means if it does not arrive in this sentence.",
+      "explanation": "'Unless the part arrives' means 'if it does not arrive' in this sentence.",
       "rationales": {
         "If the part arrives, we can't finish the repair.": "This makes arrival prevent completion, reversing the original requirement.",
-        "We can't finish the repair if the part doesn't arrive.": "Unless the part arrives means if it does not arrive in this sentence.",
+        "We can't finish the repair if the part doesn't arrive.": "'Unless the part arrives' means 'if it does not arrive' in this sentence.",
         "The part won't arrive unless we finish the repair.": "This makes completing the repair a condition for the part arriving.",
         "We can finish the repair even if the part doesn't arrive.": "Even if removes the requirement for the part and contradicts the original."
       },
@@ -1410,12 +1410,12 @@
         "have to"
       ],
       "answer": "could",
-      "explanation": "Could record means would be able to record under the imagined condition.",
+      "explanation": "'Could record' means would be able to record under the imagined condition.",
       "rationales": {
-        "must": "Must expresses obligation or a deduction, not the intended imagined ability.",
+        "must": "'Must' expresses obligation or a deduction, not the intended imagined ability.",
         "did": "Did reports a past action and does not express ability here.",
-        "could": "Could record means would be able to record under the imagined condition.",
-        "have to": "Have to expresses a requirement, not the ability described."
+        "could": "'Could record' means would be able to record under the imagined condition.",
+        "have to": "'Have to' expresses a requirement, not the ability described."
       },
       "audit": {
         "status": "reviewed",
@@ -1441,12 +1441,12 @@
         "have wanted"
       ],
       "answer": "wanted",
-      "explanation": "Wanted marks the imagined condition in this where-would-you question.",
+      "explanation": "'Wanted' marks the imagined condition in this 'where-would-you' question.",
       "rationales": {
         "want": "Want leaves the condition open; the prompt asks for an imagined change paired with would move.",
         "will want": "Will want predicts a later desire rather than setting up the imagined present alternative.",
         "have wanted": "Have wanted focuses on desire before now, not the hypothetical choice being posed.",
-        "wanted": "Wanted marks the imagined condition in this where-would-you question."
+        "wanted": "'Wanted' marks the imagined condition in this 'where-would-you' question."
       },
       "audit": {
         "status": "reviewed",
@@ -1475,7 +1475,7 @@
       "explanation": "As long as sets the condition that must be met for permission to use the kitchen.",
       "rationales": {
         "as long as": "As long as sets the condition that must be met for permission to use the kitchen.",
-        "even though": "Even though expresses a concession and treats cleaning as a fact, not a condition.",
+        "even though": "'Even though' expresses a concession and treats cleaning as a fact, not a condition.",
         "in case": "In case would make using the kitchen preparation for cleaning, which changes the relationship.",
         "so that": "So that gives a purpose: using the kitchen in order to clean it."
       },
@@ -1565,9 +1565,9 @@
         "live"
       ],
       "answer": "live",
-      "explanation": "Didn't takes the base verb live; the past form is carried by did.",
+      "explanation": "\"Didn't\" takes the base verb 'live'; the past form is carried by 'did'.",
       "rationales": {
-        "live": "Didn't takes the base verb live; the past form is carried by did.",
+        "live": "\"Didn't\" takes the base verb 'live'; the past form is carried by 'did'.",
         "lived": "Did already carries the past form, so use live rather than lived.",
         "living": "Didn't cannot take living directly in this condition.",
         "to live": "Do not add to after didn't."
@@ -1596,12 +1596,12 @@
         "have taken"
       ],
       "answer": "took",
-      "explanation": "Took describes what actually happened repeatedly when the past condition occurred.",
+      "explanation": "'Took' describes what actually happened repeatedly when the past condition occurred.",
       "rationales": {
-        "take": "Take is present tense; the whole account is set last year.",
-        "will take": "Will take predicts a future response, not the stated past routine.",
-        "have taken": "Have taken does not fit the finished period last year in this past account.",
-        "took": "Took describes what actually happened repeatedly when the past condition occurred."
+        "take": "'Take' is present tense; the whole account is set last year.",
+        "will take": "'Will take' predicts a future response, not the stated past routine.",
+        "have taken": "'Have taken' does not fit the finished period 'last year' in this past account.",
+        "took": "'Took' describes what actually happened repeatedly when the past condition occurred."
       },
       "audit": {
         "status": "reviewed",
@@ -1632,7 +1632,7 @@
         "will complete": "Will complete looks ahead and does not confirm completion before submitting now.",
         "have completed": "Have completed presents finishing as already achieved and relevant to the next step.",
         "are completing": "Are completing says the work is in progress, not finished.",
-        "were completing": "Were completing describes work in progress in the past, not a finished prerequisite now."
+        "were completing": "'Were completing' describes work in progress in the past, not a finished prerequisite now."
       },
       "audit": {
         "status": "reviewed",
@@ -1661,7 +1661,7 @@
       "explanation": "Might presents staying as one possible outcome of the imagined rent reduction.",
       "rationales": {
         "will certainly": "Will certainly makes staying definite, stronger than the uncertainty in the context.",
-        "are required to": "Are required to introduces an obligation that the context does not state.",
+        "are required to": "'Are required to' introduces an obligation that the context does not state.",
         "might": "Might presents staying as one possible outcome of the imagined rent reduction.",
         "have already": "Have already treats staying as completed rather than a possible future decision."
       },
@@ -1689,9 +1689,9 @@
         "Even if you leave now, you'll miss the ferry."
       ],
       "answer": "If you don't leave now, you'll miss the ferry.",
-      "explanation": "Otherwise refers to not following the instruction to leave now.",
+      "explanation": "'Otherwise' refers to not following the instruction to leave now.",
       "rationales": {
-        "If you don't leave now, you'll miss the ferry.": "Otherwise refers to not following the instruction to leave now.",
+        "If you don't leave now, you'll miss the ferry.": "'Otherwise' refers to not following the instruction to leave now.",
         "If you leave now, you'll miss the ferry.": "This turns leaving into the cause of missing the ferry, reversing the warning.",
         "If you miss the ferry, you won't leave now.": "This reverses the condition and result and changes the time relationship.",
         "Even if you leave now, you'll miss the ferry.": "Even if says leaving now will not help, which the original does not say."
@@ -1751,11 +1751,11 @@
         "will have left work"
       ],
       "answer": "are working",
-      "explanation": "Are working can refer to an arranged work shift on Sunday.",
+      "explanation": "'Are working' can refer to an arranged work shift on Sunday.",
       "rationales": {
         "have finished work": "Have finished work presents the shift as completed, rather than in progress when help is offered.",
         "had stopped working": "Had stopped working imagines an earlier end to work, not an ongoing Sunday shift.",
-        "are working": "Are working can refer to an arranged work shift on Sunday.",
+        "are working": "'Are working' can refer to an arranged work shift on Sunday.",
         "will have left work": "Will have left work looks ahead to departure already being complete, not work being in progress."
       },
       "audit": {
@@ -1784,7 +1784,7 @@
       "answer": "As a more distant imagined possibility.",
       "explanation": "Won with I'd presents the condition more remotely than win with I'll; it does not give a numerical probability.",
       "rationales": {
-        "As something that happened last year.": "Won is a past form here, but it need not refer to a past event.",
+        "As something that happened last year.": "'Won' is a past form here, but it need not refer to a past event.",
         "As a plan already agreed with the employer.": "The sentence does not establish an agreed leave arrangement.",
         "As an event currently taking place.": "B is imagining winning, not describing winning in progress.",
         "As a more distant imagined possibility.": "Won with I'd presents the condition more remotely than win with I'll; it does not give a numerical probability."
@@ -1817,8 +1817,8 @@
       "rationales": {
         "be rented": "Could be rented is passive: someone would rent the apartment to us.",
         "rent": "Rent makes the apartment the actor renting something, rather than the property offered.",
-        "have renting": "Have renting does not form a passive verb phrase.",
-        "be rent": "The passive needs the participle rented after be."
+        "have renting": "'Have renting' does not form a passive verb phrase.",
+        "be rent": "The passive needs the participle 'rented' after 'be'."
       },
       "audit": {
         "status": "reviewed",
@@ -1937,11 +1937,11 @@
         "The speaker is unsure whether a copy was saved."
       ],
       "answer": "Saving a copy would have made restoration possible.",
-      "explanation": "Could have restored describes an ability that the imagined saved copy would have provided.",
+      "explanation": "'Could have restored' describes an ability that the imagined saved copy would have provided.",
       "rationales": {
-        "Saving a copy would have made restoration possible.": "Could have restored describes an ability that the imagined saved copy would have provided.",
+        "Saving a copy would have made restoration possible.": "'Could have restored' describes an ability that the imagined saved copy would have provided.",
         "The speaker restored the file from a saved copy.": "The speaker explicitly says no copy was saved and does not report restoration.",
-        "Saving a copy would have required restoration.": "Could expresses possibility or ability, not a requirement to restore.",
+        "Saving a copy would have required restoration.": "'Could' expresses possibility or ability, not a requirement to restore.",
         "The speaker is unsure whether a copy was saved.": "The first sentence explicitly states that no copy was saved."
       },
       "audit": {
@@ -1972,7 +1972,7 @@
       "rationales": {
         "might have missed": "Might have missed leaves missing possible, contrary to the guide's confident claim of avoiding the delay.",
         "would not have missed": "Would not have missed gives the confident negative past result intended by the guide.",
-        "may have missed": "May have missed expresses uncertainty about missing, not the guide's firm alternative outcome.",
+        "may have missed": "'May have missed' expresses uncertainty about missing, not the guide's firm alternative outcome.",
         "would have missed": "Would have missed predicts the very failure the guide says the shortcut would have prevented."
       },
       "audit": {
@@ -2004,7 +2004,7 @@
         "would certainly have approved": "Would certainly have approved makes the alternative outcome certain, which the context explicitly denies.",
         "has approved": "Has approved reports actual approval, contradicting the rejection.",
         "might have approved": "Might have approved presents approval as a possible unreal past outcome without guaranteeing it.",
-        "must have approved": "Must have approved expresses a strong deduction about actual approval, not an uncertain alternative."
+        "must have approved": "'Must have approved' expresses a strong deduction about actual approval, not an uncertain alternative."
       },
       "audit": {
         "status": "reviewed",
@@ -2092,10 +2092,10 @@
         "The speaker is instructing Ana to take the next train."
       ],
       "answer": "The speaker uses a possible past fact to estimate Ana's arrival.",
-      "explanation": "Took refers to an uncertain past fact; the result is an expectation about now.",
+      "explanation": "'Took' refers to an uncertain past fact; the result is an expectation about now.",
       "rationales": {
         "The speaker knows Ana missed the nine o'clock train.": "The final sentence explicitly leaves Ana's train unknown.",
-        "The speaker uses a possible past fact to estimate Ana's arrival.": "Took refers to an uncertain past fact; the result is an expectation about now.",
+        "The speaker uses a possible past fact to estimate Ana's arrival.": "'Took' refers to an uncertain past fact; the result is an expectation about now.",
         "The speaker imagines changing Ana's known departure time.": "No departure time is known to be false, so this is not an imagined reversal of a known fact.",
         "The speaker is instructing Ana to take the next train.": "The sentence assesses an arrival; it gives Ana no instruction."
       },
@@ -2154,12 +2154,12 @@
         "had been inspected"
       ],
       "answer": "had been inspected",
-      "explanation": "Had been inspected is past-perfect passive: an earlier inspection of the bridge is imagined.",
+      "explanation": "'Had been inspected' is past-perfect passive: an earlier inspection of the bridge is imagined.",
       "rationales": {
         "had inspected": "Had inspected makes the bridge the inspector, not the object of inspection.",
         "has been inspecting": "Has been inspecting is active and present perfect, so it gives the bridge an ongoing inspecting role.",
         "had been inspecting": "Had been inspecting is also active; it describes the bridge performing an inspection.",
-        "had been inspected": "Had been inspected is past-perfect passive: an earlier inspection of the bridge is imagined."
+        "had been inspected": "'Had been inspected' is past-perfect passive: an earlier inspection of the bridge is imagined."
       },
       "audit": {
         "status": "reviewed",
@@ -2185,12 +2185,12 @@
         "had been completing"
       ],
       "answer": "have completed",
-      "explanation": "Have completed can mark completion by a future deadline inside an if-clause.",
+      "explanation": "'Have completed' can mark completion by a future deadline inside an if-clause.",
       "rationales": {
-        "have completed": "Have completed can mark completion by a future deadline inside an if-clause.",
+        "have completed": "'Have completed' can mark completion by a future deadline inside an if-clause.",
         "are completing": "Are completing presents work in progress and does not establish completion by Friday.",
         "were completing": "Were completing presents past or remote ongoing work, not the required completed future prerequisite.",
-        "had been completing": "Had been completing describes an earlier ongoing process rather than completion by the specified deadline."
+        "had been completing": "'Had been completing' describes an earlier ongoing process rather than completion by the specified deadline."
       },
       "audit": {
         "status": "reviewed",
@@ -2216,10 +2216,10 @@
         "If you hadn't warned me, I would have signed the wrong document."
       ],
       "answer": "If you hadn't warned me, I would have signed the wrong document.",
-      "explanation": "But for your warning means without that warning; the if-clause makes the absent-warning alternative explicit.",
+      "explanation": "'But for your warning' means 'without that warning'; the if-clause makes the absent-warning alternative explicit.",
       "rationales": {
         "Because you warned me, I signed the wrong document.": "This makes the warning cause the mistake, reversing its protective role.",
-        "If you hadn't warned me, I would have signed the wrong document.": "But for your warning means without that warning; the if-clause makes the absent-warning alternative explicit.",
+        "If you hadn't warned me, I would have signed the wrong document.": "'But for your warning' means 'without that warning'; the if-clause makes the absent-warning alternative explicit.",
         "Even if you had warned me, I would have signed the wrong document.": "Even if says the warning would not have prevented the mistake.",
         "Unless you had stayed silent, I would have signed the wrong document.": "Unless you had stayed silent applies when there was a warning, reversing the original condition."
       },
@@ -2247,12 +2247,12 @@
         "should"
       ],
       "answer": "should",
-      "explanation": "Should in this if-clause means if the need happens to arise.",
+      "explanation": "'Should' in this if-clause means if the need happens to arise.",
       "rationales": {
         "did": "Did adds emphasis to a past-form need; it does not itself mark the tentative future contingency requested.",
-        "must": "Must introduces necessity or an inference, not a tentative unexpected possibility.",
-        "should": "Should in this if-clause means if the need happens to arise.",
-        "used to": "Used to refers to a former recurring need, not an unexpected need at next month's conference."
+        "must": "'Must' introduces necessity or an inference, not a tentative unexpected possibility.",
+        "should": "'Should' in this if-clause means if the need happens to arise.",
+        "used to": "'Used to' refers to a former recurring need, not an unexpected need at next month's conference."
       },
       "audit": {
         "status": "reviewed",
@@ -2406,7 +2406,7 @@
       "rationales": {
         "have picked": "Have picked reports an actual completed pickup, contrary to the account.",
         "will pick": "Will pick concerns a future pickup, not the missed opportunity last night.",
-        "am picking": "Am picking describes an ongoing or arranged pickup, not the past alternative.",
+        "am picking": "'Am picking' describes an ongoing or arranged pickup, not the past alternative.",
         "could have picked": "Could have picked presents a missed opportunity or available help in the unreal past situation."
       },
       "audit": {
@@ -2495,10 +2495,10 @@
         "If we approve"
       ],
       "answer": "Had we approved",
-      "explanation": "Had we approved means if we had approved; the inverted past condition can have a present result.",
+      "explanation": "'Had we approved' means 'if we had approved'; the inverted past condition can have a present result.",
       "rationales": {
         "Should we approve": "Should we approve introduces an open future contingency, not the rejected June decision.",
-        "Had we approved": "Had we approved means if we had approved; the inverted past condition can have a present result.",
+        "Had we approved": "'Had we approved' means 'if we had approved'; the inverted past condition can have a present result.",
         "Were we to approve": "Were we to approve imagines a prospective decision, not an alternative to June's completed decision.",
         "If we approve": "If we approve leaves approval open and prospective, contrary to the fixed past decision."
       },
@@ -2557,12 +2557,12 @@
         "If the parties should not reach"
       ],
       "answer": "Should the parties not reach",
-      "explanation": "Should + subject + not + base verb gives a formal future contingency with the negative after the subject.",
+      "explanation": "'Should' + subject + 'not' + base verb gives a formal future contingency with the negative after the subject.",
       "rationales": {
         "Had the parties not reached": "Had ... not reached describes a past condition, not the future contingency requested.",
         "Were the parties not reaching": "Were ... not reaching presents a hypothetical ongoing process rather than a failure to reach agreement at the next stage.",
         "If the parties should not reach": "This has the intended contingency meaning, but it retains if and is not an inverted condition.",
-        "Should the parties not reach": "Should + subject + not + base verb gives a formal future contingency with the negative after the subject."
+        "Should the parties not reach": "'Should' + subject + 'not' + base verb gives a formal future contingency with the negative after the subject."
       },
       "audit": {
         "status": "reviewed",
@@ -2746,7 +2746,7 @@
       "explanation": "The rule guarantees proceeding in the absence of the specified exception.",
       "rationales": {
         "The hearing will proceed whether the chair adjourns it or not.": "This removes the stated exception involving adjournment.",
-        "The chair is expected to adjourn the hearing.": "Unless introduces an exception without forecasting whether it will occur.",
+        "The chair is expected to adjourn the hearing.": "'Unless' introduces an exception without forecasting whether it will occur.",
         "If the chair does not adjourn it, the hearing will proceed.": "The rule guarantees proceeding in the absence of the specified exception.",
         "The hearing has already been adjourned.": "The chair's decision is unknown; the rule reports no completed adjournment."
       },
@@ -2776,10 +2776,10 @@
       "answer": "Only if the board agrees may the director sign.",
       "explanation": "The if-clause keeps normal order, while the main clause inverts may and the director.",
       "rationales": {
-        "Only if the board agrees the director may sign.": "Fronted only if requires inversion in the main clause: may the director sign.",
+        "Only if the board agrees the director may sign.": "Fronted 'only if' requires inversion in the main clause: 'may the director sign'.",
         "Only if the board agrees may the director sign.": "The if-clause keeps normal order, while the main clause inverts may and the director.",
-        "Only if agrees the board may the director sign.": "The conditional clause needs subject before verb: the board agrees.",
-        "Only if the board agrees may sign the director.": "The main-clause subject belongs after may and before sign."
+        "Only if agrees the board may the director sign.": "The conditional clause needs subject before verb: 'the board agrees'.",
+        "Only if the board agrees may sign the director.": "The main-clause subject belongs after 'may' and before 'sign'."
       },
       "audit": {
         "status": "reviewed",
@@ -2840,7 +2840,7 @@
       "rationales": {
         "The speaker asks the analyst to reason from a temporary assumption.": "Supposing invites consideration of a premise without verifying or endorsing it.",
         "The speaker certifies that the figures are accurate.": "The question leaves accuracy unverified rather than certifying it.",
-        "The speaker reports that the figures used to be accurate.": "Were marks the hypothetical assumption here; it need not describe a past state.",
+        "The speaker reports that the figures used to be accurate.": "'Were' marks the hypothetical assumption here; it need not describe a past state.",
         "The speaker requires the analyst to change the figures.": "The requested action is reasoning about a recommendation, not altering data."
       },
       "audit": {
@@ -3301,12 +3301,12 @@
         "If only I check the account, the decision is mine."
       ],
       "answer": "If only I had checked the account before trusting it.",
-      "explanation": "If only plus past perfect expresses a wish that a completed past choice had been different.",
+      "explanation": "'If only' plus past perfect expresses a wish that a completed past choice had been different.",
       "rationales": {
         "Only if I had checked the account would I have trusted it.": "Only if states a necessary condition for trusting; it does not express the curator's regret.",
         "If I check the account, I can decide whether to trust it.": "This sets up a current or future checking condition rather than wishing the past were different.",
-        "If only I check the account, the decision is mine.": "Here only restricts the subject I; it does not form the intended past regret.",
-        "If only I had checked the account before trusting it.": "If only plus past perfect expresses a wish that a completed past choice had been different."
+        "If only I check the account, the decision is mine.": "Here 'only' restricts the subject 'I'; it does not form the intended past regret.",
+        "If only I had checked the account before trusting it.": "'If only' plus past perfect expresses a wish that a completed past choice had been different."
       },
       "audit": {
         "status": "reviewed",
@@ -3399,7 +3399,7 @@
         "Access must be withheld only when both checks are incomplete.": "The original triggers withholding when even one check is incomplete, not only when both are.",
         "If the two checks are not both complete, access must be withheld.": "Not both complete covers either incomplete check or both incomplete checks, preserving the original trigger.",
         "If either check is complete, access must be withheld.": "A complete check is not itself the reason for withholding; the other check's status matters.",
-        "If neither check is incomplete, access must be withheld.": "Neither incomplete means both complete, reversing the triggering condition."
+        "If neither check is incomplete, access must be withheld.": "'Neither incomplete' means 'both complete', reversing the triggering condition."
       },
       "audit": {
         "status": "reviewed",
@@ -3489,7 +3489,7 @@
       "answer": "had been monitoring",
       "explanation": "Had been monitoring imagines sustained observation during the past outage; its information would be available now.",
       "rationales": {
-        "is monitoring": "Is monitoring describes activity now, not an unreal activity during the completed outage.",
+        "is monitoring": "'Is monitoring' describes activity now, not an unreal activity during the completed outage.",
         "will have monitored": "Will have monitored places completion in the future and cannot supply the missing observation from the outage.",
         "had been monitoring": "Had been monitoring imagines sustained observation during the past outage; its information would be available now.",
         "were to start monitoring": "This imagines a prospective start rather than sustained observation during the completed outage."

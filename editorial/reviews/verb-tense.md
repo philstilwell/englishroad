@@ -19,14 +19,14 @@ Mina ___ the bus to work every day.
 3. is taking
 4. takes **[Correct]**
 
-**Explanation:** Takes is present simple: it describes Mina's usual journey. Add -s with she or a person's name.
+**Explanation:** 'Takes' is present simple: it describes Mina's usual journey. Add '-s' with 'she' or a person's name.
 
 **Choice feedback:**
 
 - **take:** With Mina, the present simple needs takes, with -s.
-- **took:** Took describes a past journey or past habit, not her usual journey now.
+- **took:** 'Took' describes a past journey or past habit, not her usual journey now.
 - **is taking:** Is taking presents an activity in progress or a temporary arrangement, not the usual routine requested.
-- **takes:** Takes is present simple: it describes Mina's usual journey. Add -s with she or a person's name.
+- **takes:** 'Takes' is present simple: it describes Mina's usual journey. Add '-s' with 'she' or a person's name.
 
 **Decision:** replaced.
 
@@ -51,14 +51,14 @@ The bank ___ closed yesterday.
 3. be
 4. are
 
-**Explanation:** Was is the past form of is for one bank. Yesterday identifies the past time.
+**Explanation:** 'Was' is the past form of 'is' for one bank. 'Yesterday' identifies the past time.
 
 **Choice feedback:**
 
-- **is:** Is describes the bank now; yesterday places this statement in the past.
-- **was:** Was is the past form of is for one bank. Yesterday identifies the past time.
-- **be:** Be cannot stand alone here; use the past form was.
-- **are:** Are is present tense and goes with a plural subject, not the bank.
+- **is:** 'Is' describes the bank now; 'yesterday' places this statement in the past.
+- **was:** 'Was' is the past form of 'is' for one bank. 'Yesterday' identifies the past time.
+- **be:** 'Be' cannot stand alone here; use the past form 'was'.
+- **are:** 'Are' is present tense and goes with a plural subject, not the bank.
 
 **Decision:** replaced.
 
@@ -83,14 +83,14 @@ I don't ___ coffee.
 3. drinking
 4. drink **[Correct]**
 
-**Explanation:** After don't, use the base form drink. Don't carries the present-tense negative.
+**Explanation:** After "don't", use the base form 'drink'. "Don't" carries the present-tense negative.
 
 **Choice feedback:**
 
-- **drinks:** Don't already supplies the helping verb; the next verb does not take -s.
-- **drank:** Drank is a past form. After don't, use drink.
+- **drinks:** "Don't" already supplies the helping verb; the next verb does not take '-s'.
+- **drank:** 'Drank' is a past form. After "don't", use 'drink'.
 - **drinking:** Drinking needs a different construction, such as am not drinking.
-- **drink:** After don't, use the base form drink. Don't carries the present-tense negative.
+- **drink:** After "don't", use the base form 'drink'. "Don't" carries the present-tense negative.
 
 **Decision:** replaced.
 
@@ -115,14 +115,14 @@ Please wait. The hotel workers ___ your bags now.
 3. has carried
 4. are carrying **[Correct]**
 
-**Explanation:** Are carrying shows the workers doing the action now. The continuous form uses be plus an -ing verb.
+**Explanation:** 'Are carrying' shows the workers doing the action now. The continuous form uses 'be' plus an -ing verb.
 
 **Choice feedback:**
 
 - **carried:** Carried presents the action as past, not happening as you wait.
 - **carry:** Carry can describe their job or routine; it does not present this action as in progress.
-- **has carried:** Has carried presents completed carrying and uses singular has, but hotel workers is plural.
-- **are carrying:** Are carrying shows the workers doing the action now. The continuous form uses be plus an -ing verb.
+- **has carried:** 'Has carried' presents completed carrying and uses singular 'has', but 'hotel workers' is plural.
+- **are carrying:** 'Are carrying' shows the workers doing the action now. The continuous form uses 'be' plus an -ing verb.
 
 **Decision:** replaced.
 
@@ -147,14 +147,14 @@ Omar ___ to the market yesterday.
 3. went **[Correct]**
 4. go
 
-**Explanation:** Went is the past form of go. It describes Omar's completed trip yesterday.
+**Explanation:** 'Went' is the past form of 'go'. It describes Omar's completed trip yesterday.
 
 **Choice feedback:**
 
-- **goes:** Goes is present tense; the trip happened yesterday.
-- **going:** Going alone is not a complete verb after Omar.
-- **went:** Went is the past form of go. It describes Omar's completed trip yesterday.
-- **go:** Go is the base form; this past statement needs went.
+- **goes:** 'Goes' is present tense; the trip happened yesterday.
+- **going:** 'Going' alone is not a complete verb after 'Omar'.
+- **went:** 'Went' is the past form of 'go'. It describes Omar's completed trip yesterday.
+- **go:** 'Go' is the base form; this past statement needs 'went'.
 
 **Decision:** replaced.
 
@@ -179,14 +179,14 @@ Ask about Lena's location now.
 3. Where is Lena be?
 4. Where is Lena? **[Correct]**
 
-**Explanation:** Where is Lena? puts the present form is before the subject in a direct question.
+**Explanation:** 'Where is Lena?' puts the present form 'is' before the subject in a direct question.
 
 **Choice feedback:**
 
 - **Where Lena is?:** In a direct question with be, put is before Lena.
-- **Where does Lena is?:** Do not add does when is is the main verb; ask Where is Lena?
-- **Where is Lena be?:** Is already supplies the verb be; an extra be does not belong after Lena.
-- **Where is Lena?:** Where is Lena? puts the present form is before the subject in a direct question.
+- **Where does Lena is?:** Do not add 'does' when 'is' is the main verb; ask 'Where is Lena?'
+- **Where is Lena be?:** 'Is' already supplies the verb 'be'; an extra 'be' does not belong after 'Lena'.
+- **Where is Lena?:** 'Where is Lena?' puts the present form 'is' before the subject in a direct question.
 
 **Decision:** replaced.
 
@@ -211,14 +211,14 @@ Sofia doesn't ___ on Sundays.
 3. work **[Correct]**
 4. working
 
-**Explanation:** Use work after doesn't. The -s belongs to does, not to the main verb.
+**Explanation:** Use 'work' after "doesn't". The '-s' belongs to 'does', not to the main verb.
 
 **Choice feedback:**
 
 - **works:** Doesn't carries the singular present marking, so the main verb stays work.
-- **worked:** Worked is a past form and cannot follow doesn't here.
-- **work:** Use work after doesn't. The -s belongs to does, not to the main verb.
-- **working:** Working does not follow doesn't; use the base form work.
+- **worked:** 'Worked' is a past form and cannot follow "doesn't" here.
+- **work:** Use 'work' after "doesn't". The '-s' belongs to 'does', not to the main verb.
+- **working:** 'Working' does not follow "doesn't"; use the base form 'work'.
 
 **Decision:** replaced.
 
@@ -248,9 +248,9 @@ We ___ a film last night.
 **Choice feedback:**
 
 - **watched:** Watched uses -ed for a completed past action. Last night gives the finished time.
-- **watch:** Watch is present tense with we; this sentence describes last night.
-- **watches:** Watches is present tense for he, she, or it, not a past action with we.
-- **watching:** Watching alone needs a helping verb; the complete simple-past form is watched.
+- **watch:** 'Watch' is present tense with 'we'; this sentence describes 'last night'.
+- **watches:** 'Watches' is present tense for 'he', 'she', or 'it', not a past action with 'we'.
+- **watching:** 'Watching' alone needs a helping verb; the complete simple-past form is 'watched'.
 
 **Decision:** replaced.
 
@@ -275,14 +275,14 @@ I ___ waiting outside your building.
 3. be
 4. are
 
-**Explanation:** I takes am. Am waiting is the present continuous form for an action in progress.
+**Explanation:** 'I' takes 'am'. 'Am waiting' is the present continuous form for an action in progress.
 
 **Choice feedback:**
 
 - **is:** Is goes with he, she, or it; I needs am.
-- **am:** I takes am. Am waiting is the present continuous form for an action in progress.
-- **be:** The base form be cannot follow I alone in this present statement.
-- **are:** Are goes with you, we, or they; use am with I.
+- **am:** 'I' takes 'am'. 'Am waiting' is the present continuous form for an action in progress.
+- **be:** The base form 'be' cannot follow 'I' alone in this present statement.
+- **are:** 'Are' goes with 'you', 'we', or 'they'; use 'am' with 'I'.
 
 **Decision:** replaced.
 
@@ -307,14 +307,14 @@ Did you ___ the door?
 3. locking
 4. locks
 
-**Explanation:** Did marks the question as past, so the main verb remains lock.
+**Explanation:** 'Did' marks the question as past, so the main verb remains 'lock'.
 
 **Choice feedback:**
 
-- **lock:** Did marks the question as past, so the main verb remains lock.
+- **lock:** 'Did' marks the question as past, so the main verb remains 'lock'.
 - **locked:** Did already marks past time; use lock, not locked, after it.
-- **locking:** Locking cannot follow did in this question.
-- **locks:** Locks is a singular present form; did needs the base form lock.
+- **locking:** 'Locking' cannot follow 'did' in this question.
+- **locks:** 'Locks' is a singular present form; 'did' needs the base form 'lock'.
 
 **Decision:** replaced.
 
@@ -344,7 +344,7 @@ Hana moved to Seoul last year. Seoul is still her home.
 **Choice feedback:**
 
 - **Hana lived in Seoul.:** Lived places her home in a past period; it does not state her home now.
-- **Hana will live in Seoul.:** Will live refers to a future home, not where she lives now.
+- **Hana will live in Seoul.:** 'Will live' refers to a future home, not where she lives now.
 - **Hana lives in Seoul.:** Lives states Hana's present home. Present simple can describe a current state.
 - **Hana doesn't live in Seoul.:** Doesn't live denies the information that Seoul is still her home.
 
@@ -376,9 +376,9 @@ Jonas ___ at work last Monday; he was at home.
 **Choice feedback:**
 
 - **isn't:** Isn't denies a present location, but the sentence is about last Monday.
-- **doesn't:** Doesn't needs a base-form action verb; it cannot replace wasn't before at work.
+- **doesn't:** "Doesn't" needs a base-form action verb; it cannot replace "wasn't" before 'at work'.
 - **wasn't:** Wasn't means was not. It denies a past location and matches he was at home.
-- **not was:** Put not after was: was not, or wasn't.
+- **not was:** Put 'not' after 'was': 'was not', or "wasn't".
 
 **Decision:** replaced.
 
@@ -403,14 +403,14 @@ I'll ___ you tomorrow.
 3. calls
 4. call **[Correct]**
 
-**Explanation:** I'll means I will. Will is followed by the base form call.
+**Explanation:** "I'll" means 'I will'. 'Will' is followed by the base form 'call'.
 
 **Choice feedback:**
 
-- **called:** After will, use the base form call, not the past form called.
-- **calling:** Calling would need be after will: I'll be calling.
-- **calls:** Calls cannot follow will; the verb after will has no -s.
-- **call:** I'll means I will. Will is followed by the base form call.
+- **called:** After 'will', use the base form 'call', not the past form 'called'.
+- **calling:** 'Calling' would need 'be' after 'will': "I'll be calling".
+- **calls:** 'Calls' cannot follow 'will'; the verb after 'will' has no '-s'.
+- **call:** "I'll" means 'I will'. 'Will' is followed by the base form 'call'.
 
 **Decision:** replaced.
 
@@ -435,14 +435,14 @@ They ___ cooking dinner.
 3. doesn't
 4. don't
 
-**Explanation:** Aren't means are not. Use it with they before cooking for a negative continuous statement.
+**Explanation:** "Aren't" means 'are not'. Use it with 'they' before 'cooking' for a negative continuous statement.
 
 **Choice feedback:**
 
-- **isn't:** Isn't takes a singular subject; they needs aren't.
-- **aren't:** Aren't means are not. Use it with they before cooking for a negative continuous statement.
-- **doesn't:** Doesn't cannot come directly before an -ing verb and does not agree with they.
-- **don't:** Don't goes with a base verb, as in don't cook, not directly with cooking.
+- **isn't:** "Isn't" takes a singular subject; 'they' needs "aren't".
+- **aren't:** "Aren't" means 'are not'. Use it with 'they' before 'cooking' for a negative continuous statement.
+- **doesn't:** "Doesn't" cannot come directly before an -ing verb and does not agree with 'they'.
+- **don't:** "Don't" goes with a base verb, as in "don't cook", not directly with 'cooking'.
 
 **Decision:** replaced.
 
@@ -467,14 +467,14 @@ My phone ___ two cameras.
 3. having
 4. had
 
-**Explanation:** Has describes what one phone possesses now. Use has with it.
+**Explanation:** 'Has' describes what one phone possesses now. Use 'has' with 'it'.
 
 **Choice feedback:**
 
-- **has:** Has describes what one phone possesses now. Use has with it.
+- **has:** 'Has' describes what one phone possesses now. Use 'has' with 'it'.
 - **have:** With one phone, the present form is has, not have.
-- **having:** Having alone cannot be the complete verb in this statement.
-- **had:** Had describes the phone at a past time; the task asks for a present fact.
+- **having:** 'Having' alone cannot be the complete verb in this statement.
+- **had:** 'Had' describes the phone at a past time; the task asks for a present fact.
 
 **Decision:** replaced.
 
@@ -499,14 +499,14 @@ What time does the class ___?
 3. started
 4. starting
 
-**Explanation:** Does is followed by the base form start in a present-simple question.
+**Explanation:** 'Does' is followed by the base form 'start' in a present-simple question.
 
 **Choice feedback:**
 
-- **start:** Does is followed by the base form start in a present-simple question.
-- **starts:** Does already carries the singular -s marking; do not add -s to start.
-- **started:** Started is a past form, but does requires the base form.
-- **starting:** Starting cannot directly follow the subject after does in this question.
+- **start:** 'Does' is followed by the base form 'start' in a present-simple question.
+- **starts:** 'Does' already carries the singular '-s' marking; do not add '-s' to 'start'.
+- **started:** 'Started' is a past form, but 'does' requires the base form.
+- **starting:** 'Starting' cannot directly follow the subject after 'does' in this question.
 
 **Decision:** replaced.
 
@@ -531,13 +531,13 @@ Were you and Emma late yesterday? No, we ___.
 3. wasn't
 4. don't
 
-**Explanation:** Weren't matches both we and the past helping verb were in the question.
+**Explanation:** "Weren't" matches both 'we' and the past helping verb 'were' in the question.
 
 **Choice feedback:**
 
-- **weren't:** Weren't matches both we and the past helping verb were in the question.
+- **weren't:** "Weren't" matches both 'we' and the past helping verb 'were' in the question.
 - **aren't:** Aren't answers about the present; the question uses were and yesterday.
-- **wasn't:** Wasn't does not agree with we; the plural past form is weren't.
+- **wasn't:** "Wasn't" does not agree with 'we'; the plural past form is "weren't".
 - **don't:** Don't answers a question with do, not one with were.
 
 **Decision:** replaced.
@@ -563,14 +563,14 @@ We are going to ___ a room near the station.
 3. rent **[Correct]**
 4. rents
 
-**Explanation:** Use rent after are going to. This construction describes a plan.
+**Explanation:** Use 'rent' after 'are going to'. This construction describes a plan.
 
 **Choice feedback:**
 
-- **rented:** Going to takes a base verb, not the past form rented.
+- **rented:** 'Going to' takes a base verb, not the past form 'rented'.
 - **renting:** Here to is followed by rent, not renting.
-- **rent:** Use rent after are going to. This construction describes a plan.
-- **rents:** Rents cannot follow going to; the planned action uses the base form.
+- **rent:** Use 'rent' after 'are going to'. This construction describes a plan.
+- **rents:** 'Rents' cannot follow 'going to'; the planned action uses the base form.
 
 **Decision:** replaced.
 
@@ -595,12 +595,12 @@ Yara is on the phone at this moment.
 3. She called her sister last night.
 4. She will call her sister tomorrow.
 
-**Explanation:** Is talking describes an action in progress at this moment.
+**Explanation:** 'Is talking' describes an action in progress at this moment.
 
 **Choice feedback:**
 
-- **She calls her sister every week.:** Every week describes a routine, not this call in progress.
-- **She is talking to her sister.:** Is talking describes an action in progress at this moment.
+- **She calls her sister every week.:** 'Every week' describes a routine, not this call in progress.
+- **She is talking to her sister.:** 'Is talking' describes an action in progress at this moment.
 - **She called her sister last night.:** Last night places that call in the past.
 - **She will call her sister tomorrow.:** Tomorrow places the call in the future, not at this moment.
 
@@ -627,14 +627,14 @@ Theo didn't ___ breakfast today.
 3. eaten
 4. eating
 
-**Explanation:** After didn't, use the base form eat. Didn't marks the negative as past.
+**Explanation:** After "didn't", use the base form 'eat'. "Didn't" marks the negative as past.
 
 **Choice feedback:**
 
-- **ate:** Ate is the positive past form; didn't must be followed by eat.
-- **eat:** After didn't, use the base form eat. Didn't marks the negative as past.
-- **eaten:** Eaten is used with have or be, not directly after didn't.
-- **eating:** Eating cannot follow didn't; use the base form eat.
+- **ate:** 'Ate' is the positive past form; "didn't" must be followed by 'eat'.
+- **eat:** After "didn't", use the base form 'eat'. "Didn't" marks the negative as past.
+- **eaten:** 'Eaten' is used with 'have' or 'be', not directly after "didn't".
+- **eating:** 'Eating' cannot follow "didn't"; use the base form 'eat'.
 
 **Decision:** replaced.
 
@@ -667,7 +667,7 @@ Our office is being painted, so I ___ from home this week.
 
 **Choice feedback:**
 
-- **worked:** Worked places the work in the past rather than presenting this week's temporary situation.
+- **worked:** 'Worked' places the work in the past rather than presenting this week's temporary situation.
 - **have worked:** Have worked looks back at work done up to now; it does not directly present the temporary arrangement.
 - **am working:** Am working presents the home-working arrangement as temporary during the painting.
 - **work:** Work can describe a schedule or routine. The requested temporary perspective uses am working.
@@ -695,11 +695,11 @@ Carlos has decided to take a course. What does he say?
 3. I've studied design before.
 4. I study design every evening.
 
-**Explanation:** Going to expresses an intention Carlos has already formed for the future.
+**Explanation:** 'Going to' expresses an intention Carlos has already formed for the future.
 
 **Choice feedback:**
 
-- **I'm going to study design.:** Going to expresses an intention Carlos has already formed for the future.
+- **I'm going to study design.:** 'Going to' expresses an intention Carlos has already formed for the future.
 - **I studied design last year.:** This reports completed study last year, not next year's plan.
 - **I've studied design before.:** This describes earlier experience without stating a future intention.
 - **I study design every evening.:** This describes a current study routine rather than the stated plan for next year.
@@ -732,7 +732,7 @@ I ___ dinner when the phone rang.
 **Choice feedback:**
 
 - **have cooked:** Have cooked links cooking to now, not to the past moment of the ring.
-- **cook:** Cook describes a present routine, not this past background activity.
+- **cook:** 'Cook' describes a present routine, not this past background activity.
 - **had cooked:** Had cooked would put the cooking before the ring as an already completed action.
 - **was cooking:** Was cooking shows dinner preparation in progress at the moment the phone rang.
 
@@ -759,14 +759,14 @@ Have you ever ___ a night train?
 3. taking
 4. took
 
-**Explanation:** Have you ever taken asks about experience up to now. Taken is the past participle of take.
+**Explanation:** 'Have you ever taken' asks about experience up to now. 'Taken' is the past participle of 'take'.
 
 **Choice feedback:**
 
-- **taken:** Have you ever taken asks about experience up to now. Taken is the past participle of take.
-- **take:** Have needs the past participle taken here, not the base form take.
-- **taking:** Taking would need been after have and would change the construction.
-- **took:** Took is simple past; after have, use taken.
+- **taken:** 'Have you ever taken' asks about experience up to now. 'Taken' is the past participle of 'take'.
+- **take:** 'Have' needs the past participle 'taken' here, not the base form 'take'.
+- **taking:** 'Taking' would need 'been' after 'have' and would change the construction.
+- **took:** 'Took' is simple past; after 'have', use 'taken'.
 
 **Decision:** replaced.
 
@@ -796,7 +796,7 @@ Omar can't open the door because he ___ his key.
 **Choice feedback:**
 
 - **is losing:** Is losing presents loss as in progress, not as the completed cause of the current problem.
-- **loses:** Loses normally describes repeated losses; this sentence concerns one completed loss.
+- **loses:** 'Loses' normally describes repeated losses; this sentence concerns one completed loss.
 - **will lose:** Will lose predicts a later loss, which cannot explain this earlier cause of the problem now.
 - **has lost:** Has lost links the earlier loss to its present result: Omar cannot open the door.
 
@@ -828,7 +828,7 @@ Lena ___ her first car in 2018.
 **Choice feedback:**
 
 - **bought:** Bought places the purchase in the finished past year 2018.
-- **buys:** Buys is present simple; this is a past purchase, not a current routine or narrative present.
+- **buys:** 'Buys' is present simple; this is a past purchase, not a current routine or narrative present.
 - **has bought:** In this ordinary past-time statement, has bought cannot be tied to the finished event time in 2018.
 - **is buying:** Is buying presents a purchase in progress now or an arrangement, not a finished 2018 event.
 
@@ -855,14 +855,14 @@ The timetable shows a 6:10 departure tomorrow.
 3. The train was leaving at 6:10.
 4. The train leaves at 6:10. **[Correct]**
 
-**Explanation:** Leaves is present simple, which can state a future departure listed on a timetable.
+**Explanation:** 'Leaves' is present simple, which can state a future departure listed on a timetable.
 
 **Choice feedback:**
 
 - **The train left at 6:10.:** Left reports a past departure, not the timetable for tomorrow.
 - **The train has left at 6:10.:** Has left looks back from now and does not state tomorrow's scheduled departure.
-- **The train was leaving at 6:10.:** Was leaving describes a past activity or arrangement, not the present timetable statement requested.
-- **The train leaves at 6:10.:** Leaves is present simple, which can state a future departure listed on a timetable.
+- **The train was leaving at 6:10.:** 'Was leaving' describes a past activity or arrangement, not the present timetable statement requested.
+- **The train leaves at 6:10.:** 'Leaves' is present simple, which can state a future departure listed on a timetable.
 
 **Decision:** replaced.
 
@@ -887,14 +887,14 @@ Daniel ___ to work, but now he takes the bus.
 3. will cycle
 4. has cycled
 
-**Explanation:** Used to cycle describes a past habit. But now signals that Daniel's routine has changed.
+**Explanation:** 'Used to cycle' describes a past habit. 'But now' signals that Daniel's routine has changed.
 
 **Choice feedback:**
 
-- **used to cycle:** Used to cycle describes a past habit. But now signals that Daniel's routine has changed.
+- **used to cycle:** 'Used to cycle' describes a past habit. 'But now' signals that Daniel's routine has changed.
 - **is cycling:** Is cycling presents a current activity or arrangement, not the discontinued habit.
 - **will cycle:** Will cycle points to the future rather than the past habit.
-- **has cycled:** Has cycled describes past experience but does not express the old repeated habit that stopped.
+- **has cycled:** 'Has cycled' describes past experience but does not express the old repeated habit that stopped.
 
 **Decision:** replaced.
 
@@ -925,7 +925,7 @@ That glass is too close to the edge. It ___!
 
 - **is going to fall:** Is going to fall predicts a near-future event using visible evidence: the glass's position.
 - **has fallen:** Has fallen says the fall has already happened, but the glass is still on the edge.
-- **fell:** Fell describes a completed past fall.
+- **fell:** 'Fell' describes a completed past fall.
 - **falls:** Falls can describe a repeated event or tell a story in the present; it does not express this warning prediction.
 
 **Decision:** replaced.
@@ -987,8 +987,8 @@ Ask what your guest was doing at eight last night.
 
 **Choice feedback:**
 
-- **What did your guest doing at eight?:** Did cannot be followed directly by doing; the continuous question uses was.
-- **What was your guest do at eight?:** After was in this continuous question, use doing, not do.
+- **What did your guest doing at eight?:** 'Did' cannot be followed directly by 'doing'; the continuous question uses 'was'.
+- **What was your guest do at eight?:** After 'was' in this continuous question, use 'doing', not 'do'.
 - **What your guest was doing at eight?:** A direct question needs was before your guest; this order belongs inside an embedded question.
 - **What was your guest doing at eight?:** Was comes before your guest, followed by doing, to ask about an activity in progress then.
 
@@ -1051,10 +1051,10 @@ You can stop looking. Priya ___ the missing ticket.
 
 **Choice feedback:**
 
-- **is looking for:** Is looking for means the search is still happening and does not establish success.
+- **is looking for:** 'Is looking for' means the search is still happening and does not establish success.
 - **will look for:** Will look for promises a later search, so it does not explain why you can stop now.
 - **has found:** Has found reports a successful completed search with a result now: the ticket is available.
-- **looks for:** Looks for describes searching as a routine or narrative action, not a completed successful search.
+- **looks for:** 'Looks for' describes searching as a routine or narrative action, not a completed successful search.
 
 **Decision:** replaced.
 
@@ -1079,13 +1079,13 @@ Ask Kenji for directions. He ___ this neighborhood well.
 3. knows **[Correct]**
 4. will know
 
-**Explanation:** Knows describes a present state of knowledge. This sense of know normally uses the simple form.
+**Explanation:** 'Knows' describes a present state of knowledge. This sense of 'know' normally uses the simple form.
 
 **Choice feedback:**
 
 - **knew:** Knew locates the knowledge in the past; the request relies on his knowledge now.
-- **is knowing:** For an existing state of knowledge in neutral standard English, use knows rather than is knowing.
-- **knows:** Knows describes a present state of knowledge. This sense of know normally uses the simple form.
+- **is knowing:** For an existing state of knowledge in neutral standard English, use 'knows' rather than 'is knowing'.
+- **knows:** 'Knows' describes a present state of knowledge. This sense of 'know' normally uses the simple form.
 - **will know:** Will know predicts or infers knowledge; the task asks for a direct statement of his present knowledge.
 
 **Decision:** replaced.
@@ -1143,12 +1143,12 @@ Luis and Ana have agreed to meet at six tomorrow.
 3. Luis has met Ana at six.
 4. Luis was meeting Ana at six.
 
-**Explanation:** Is meeting is present continuous. With the given future context, it expresses an agreed arrangement.
+**Explanation:** 'Is meeting' is present continuous. With the given future context, it expresses an agreed arrangement.
 
 **Choice feedback:**
 
-- **Luis met Ana at six.:** Met places the meeting in the past rather than the agreed future.
-- **Luis is meeting Ana at six.:** Is meeting is present continuous. With the given future context, it expresses an agreed arrangement.
+- **Luis met Ana at six.:** 'Met' places the meeting in the past rather than the agreed future.
+- **Luis is meeting Ana at six.:** 'Is meeting' is present continuous. With the given future context, it expresses an agreed arrangement.
 - **Luis has met Ana at six.:** Has met looks back at an earlier meeting; it does not state the arrangement for tomorrow.
 - **Luis was meeting Ana at six.:** Was meeting gives a past viewpoint, not Luis's current arrangement for tomorrow.
 
@@ -1277,8 +1277,8 @@ Theo wants to say when he moved to this apartment.
 
 - **I move here in two years.:** In two years points forward, not two years before now.
 - **I moved here two years ago.:** Moved with two years ago reports a completed event at a measured distance before now.
-- **I have moved here for two years.:** For two years expresses duration, but this completed move is an event with a past date.
-- **I am moving here in two years.:** Am moving with in two years describes a future arrangement, not the completed move.
+- **I have moved here for two years.:** 'For two years' expresses duration, but this completed move is an event with a past date.
+- **I am moving here in two years.:** 'Am moving' with 'in two years' describes a future arrangement, not the completed move.
 
 **Decision:** replaced.
 
@@ -1311,8 +1311,8 @@ It's Thursday. Since Monday, Mina ___ three job applications.
 
 **Choice feedback:**
 
-- **is sending:** Is sending describes an activity in progress rather than the total already completed.
-- **sends:** Sends describes a routine, not an accumulated total since Monday.
+- **is sending:** 'Is sending' describes an activity in progress rather than the total already completed.
+- **sends:** 'Sends' describes a routine, not an accumulated total since Monday.
 - **has sent:** Has sent counts completed applications within a period that reaches the present Thursday.
 - **had sent:** Had sent counts back from a past reference point; this total is measured up to now.
 
@@ -1339,14 +1339,14 @@ I'll meet you outside when your bus ___ tomorrow.
 3. will arrive
 4. arrived
 
-**Explanation:** After when in a future time clause, present simple can refer to tomorrow: when your bus arrives.
+**Explanation:** After 'when' in a future time clause, present simple can refer to tomorrow: 'when your bus arrives'.
 
 **Choice feedback:**
 
-- **arrives:** After when in a future time clause, present simple can refer to tomorrow: when your bus arrives.
-- **arriving:** Arriving alone does not provide a complete verb after your bus.
-- **will arrive:** Will arrive works in a main prediction. In this standard future time clause after when, use the present form arrives.
-- **arrived:** Arrived puts the arrival in the past rather than in this open future arrangement.
+- **arrives:** After 'when' in a future time clause, present simple can refer to tomorrow: 'when your bus arrives'.
+- **arriving:** 'Arriving' alone does not provide a complete verb after 'your bus'.
+- **will arrive:** 'Will arrive' works in a main prediction. In this standard future time clause after 'when', use the present form 'arrives'.
+- **arrived:** 'Arrived' puts the arrival in the past rather than in this open future arrangement.
 
 **Decision:** replaced.
 
@@ -1376,7 +1376,7 @@ Aiko started practicing at nine. It's eleven and she is still at the piano: she 
 **Choice feedback:**
 
 - **had practiced:** Had practiced measures earlier practice from a past viewpoint, not from the present eleven o'clock.
-- **will practice:** Will practice describes future practice, not the two hours already underway.
+- **will practice:** 'Will practice' describes future practice, not the two hours already underway.
 - **practices:** Practices can state a routine of two-hour sessions; it does not express this continuing session from nine until now.
 - **has been practicing:** Has been practicing looks back over two hours of activity that continues at the present time.
 
@@ -1403,13 +1403,13 @@ When I reached the station, Nadia ___; her train was already on its way.
 3. had left **[Correct]**
 4. is leaving
 
-**Explanation:** Had left places Nadia's departure before another past event, my arrival at the station.
+**Explanation:** 'Had left' places Nadia's departure before another past event, my arrival at the station.
 
 **Choice feedback:**
 
 - **was leaving:** Was leaving would put departure in progress at my arrival, not already over.
 - **has left:** Has left relates departure to now, but the reference point is my past arrival.
-- **had left:** Had left places Nadia's departure before another past event, my arrival at the station.
+- **had left:** 'Had left' places Nadia's departure before another past event, my arrival at the station.
 - **is leaving:** Is leaving gives a present viewpoint rather than the past sequence described.
 
 **Decision:** replaced.
@@ -1435,13 +1435,13 @@ My grandfather, who died in 2006, ___ as a chef for forty years.
 3. worked **[Correct]**
 4. will work
 
-**Explanation:** Worked presents the forty-year career within a finished life period. For can accompany simple past when the period is over.
+**Explanation:** 'Worked' presents the forty-year career within a finished life period. 'For' can accompany simple past when the period is over.
 
 **Choice feedback:**
 
 - **has worked:** Has worked connects a work history to a present period; this sentence explicitly closes his life and career in the past.
 - **is working:** Is working presents current work, which conflicts with the stated death.
-- **worked:** Worked presents the forty-year career within a finished life period. For can accompany simple past when the period is over.
+- **worked:** 'Worked' presents the forty-year career within a finished life period. 'For' can accompany simple past when the period is over.
 - **will work:** Will work places the career in the future, contrary to this completed biography.
 
 **Decision:** replaced.
@@ -1467,12 +1467,12 @@ If you've already paid online, you won't need to pay at the door.
 3. Online payment is no longer possible.
 4. Everyone has already paid online.
 
-**Explanation:** You've already paid refers to payment completed before the relevant check. Present perfect is valid in an if clause.
+**Explanation:** "You've already paid" refers to payment completed before the relevant check. Present perfect is valid in an 'if' clause.
 
 **Choice feedback:**
 
-- **Earlier online payment removes the need to pay at the door.:** You've already paid refers to payment completed before the relevant check. Present perfect is valid in an if clause.
-- **Online payment will begin at the door.:** Already paid refers to completed payment, not payment beginning at the door.
+- **Earlier online payment removes the need to pay at the door.:** "You've already paid" refers to payment completed before the relevant check. Present perfect is valid in an 'if' clause.
+- **Online payment will begin at the door.:** 'Already paid' refers to completed payment, not payment beginning at the door.
 - **Online payment is no longer possible.:** The sentence says nothing about whether online payment remains available.
 - **Everyone has already paid online.:** If leaves it open whether a particular person has paid; it does not claim everyone has.
 
@@ -1499,12 +1499,12 @@ Before the supermarket was built, this corner ___ a small bakery.
 3. has had
 4. is having
 
-**Explanation:** Used to have describes the former state of this corner and implies a change since then.
+**Explanation:** 'Used to have' describes the former state of this corner and implies a change since then.
 
 **Choice feedback:**
 
-- **used to have:** Used to have describes the former state of this corner and implies a change since then.
-- **would having:** Would cannot be followed by having; for this former state, used to have is the natural construction.
+- **used to have:** 'Used to have' describes the former state of this corner and implies a change since then.
+- **would having:** 'Would' cannot be followed by 'having'; for this former state, 'used to have' is the natural construction.
 - **has had:** Has had looks back from now rather than locating this state wholly before the supermarket was built.
 - **is having:** Is having presents a current activity and does not express this former state of possession.
 
@@ -1535,7 +1535,7 @@ Don't call at eight tomorrow evening. I ___ an online class then.
 
 **Choice feedback:**
 
-- **attended:** Attended describes past attendance, not tomorrow evening.
+- **attended:** 'Attended' describes past attendance, not tomorrow evening.
 - **will be attending:** Will be attending places the class in progress at the future time when the call would interrupt it.
 - **have attended:** Have attended reports experience or completion before now.
 - **had attended:** Had attended looks back from a past point rather than forward to tomorrow.
@@ -1568,7 +1568,7 @@ Rina ___ much happier since she ___ jobs last autumn.
 **Choice feedback:**
 
 - **has been / changed:** Has been connects her happiness to now; changed names the finished past event that began that period.
-- **was / has changed:** Was does not establish the continuing present situation, and has changed does not fit the dated starting event last autumn.
+- **was / has changed:** 'Was' does not establish the continuing present situation, and 'has changed' does not fit the dated starting event 'last autumn'.
 - **is being / changes:** Is being suggests current behavior rather than a continuing state; changes does not locate the job change last autumn.
 - **had been / changes:** Had been needs a past reference point, while changes is present rather than the stated past starting event.
 
@@ -1601,7 +1601,7 @@ Mateo isn't here. He ___ to the pharmacy.
 
 - **has been:** Has been to normally reports a completed visit, often with a return, so it does not express the requested still-away meaning.
 - **was going:** Was going reports a past journey in progress or intention without establishing where he is now.
-- **used to go:** Used to go describes a discontinued habit, not today's absence.
+- **used to go:** 'Used to go' describes a discontinued habit, not today's absence.
 - **has gone:** Has gone to the pharmacy presents his departure as resulting in his current absence.
 
 **Decision:** replaced.
@@ -1634,7 +1634,7 @@ A decorator has paint on her hands. Some of the wall is still bare.
 - **The decorator has painted the whole wall.:** The whole wall makes a completion claim that conflicts with the bare section.
 - **The decorator painted the wall last year.:** Last year's work does not describe the recent activity indicated by her hands.
 - **The decorator has been painting the wall.:** Has been painting focuses on recent activity with visible evidence now and does not claim the wall is finished.
-- **The decorator will paint the wall tomorrow.:** Tomorrow describes future work rather than the activity responsible for the current paint on her hands.
+- **The decorator will paint the wall tomorrow.:** 'Tomorrow' describes future work rather than the activity responsible for the current paint on her hands.
 
 **Decision:** replaced.
 
@@ -1698,7 +1698,7 @@ I ___ the curtains, but the shop closed before I got there.
 - **have bought:** Have bought says the purchase has happened, not that an earlier intention was interrupted.
 - **was going to buy:** Was going to buy reports a past intention. The shop's closure explains why this planned purchase did not happen then.
 - **am buying:** Am buying presents a current arrangement or activity rather than the earlier plan.
-- **buy:** Buy describes a present routine or narrative action, not the past intention requested.
+- **buy:** 'Buy' describes a present routine or narrative action, not the past intention requested.
 
 **Decision:** replaced.
 
@@ -1729,7 +1729,7 @@ This is the quietest hotel I ___ at.
 
 - **will ever stay:** Will ever stay extends the claim into the future, beyond the earlier experience requested.
 - **have ever stayed:** Have ever stayed compares this hotel with the speaker's experience up to the present.
-- **had ever stayed:** Had ever stayed requires a past comparison point, as in That was the quietest hotel I had ever stayed at.
+- **had ever stayed:** 'Had ever stayed' requires a past comparison point, as in 'That was the quietest hotel I had ever stayed at'.
 - **am ever staying:** Am ever staying does not form an experience comparison across previous visits.
 
 **Decision:** replaced.
@@ -1787,14 +1787,14 @@ Don't switch off the computer until it has saved the file.
 3. Wait until someone starts editing the file.
 4. Wait for saving to finish before switching it off. **[Correct]**
 
-**Explanation:** Until it has saved makes completed saving the condition for switching off. Present perfect can refer to completion before a future action.
+**Explanation:** 'Until it has saved' makes completed saving the condition for switching off. Present perfect can refer to completion before a future action.
 
 **Choice feedback:**
 
 - **Switch it off while saving is in progress.:** Has saved presents saving as completed; switching off during saving would not meet the condition.
 - **Switch it off before saving starts.:** This reverses the instruction by switching off before the required saving.
 - **Wait until someone starts editing the file.:** Editing is a different action; the instruction's condition concerns saving.
-- **Wait for saving to finish before switching it off.:** Until it has saved makes completed saving the condition for switching off. Present perfect can refer to completion before a future action.
+- **Wait for saving to finish before switching it off.:** 'Until it has saved' makes completed saving the condition for switching off. Present perfect can refer to completion before a future action.
 
 **Decision:** replaced.
 
@@ -1819,14 +1819,14 @@ On Monday, the guide promised that she ___ me the address the following day.
 3. would send **[Correct]**
 4. sends
 
-**Explanation:** Would send looks forward from the past promise to the following day; it is the reported counterpart of will send.
+**Explanation:** 'Would send' looks forward from the past promise to the following day; it is the reported counterpart of 'will send'.
 
 **Choice feedback:**
 
 - **has sent:** Has sent reports a result before now, not a promise about a later day from Monday's viewpoint.
 - **had sent:** Had sent places sending before the promise, reversing the intended order.
-- **would send:** Would send looks forward from the past promise to the following day; it is the reported counterpart of will send.
-- **sends:** Sends is present simple and does not express this future promise viewed from Monday.
+- **would send:** 'Would send' looks forward from the past promise to the following day; it is the reported counterpart of 'will send'.
+- **sends:** 'Sends' is present simple and does not express this future promise viewed from Monday.
 
 **Decision:** replaced.
 
@@ -1856,8 +1856,8 @@ Choose the forms for a life-experience question followed by a dated answer.
 **Choice feedback:**
 
 - **Did / have gone:** The dated answer in 2022 needs went, not have gone, in this ordinary past account.
-- **Had / go:** Had needs a past reference point for the experience question, and go is not the past form for the dated answer.
-- **Do / am going:** Do cannot form do you ever visited, and am going does not report a completed 2022 visit.
+- **Had / go:** 'Had' needs a past reference point for the experience question, and 'go' is not the past form for the dated answer.
+- **Do / am going:** 'Do' cannot form 'do you ever visited', and 'am going' does not report a completed 2022 visit.
 - **Have / went:** Have you ever visited asks about experience up to now; went locates the visit in the finished year 2022.
 
 **Decision:** replaced.
@@ -1987,7 +1987,7 @@ By next Friday, our volunteer group ___ its hundredth food parcel.
 
 **Choice feedback:**
 
-- **delivered:** Delivered places the milestone in the past rather than before a future reference point.
+- **delivered:** 'Delivered' places the milestone in the past rather than before a future reference point.
 - **will be delivering:** Will be delivering presents delivery as in progress at a future time, not as a completed milestone viewed retrospectively.
 - **will have delivered:** Will have delivered looks back from next Friday at a delivery already completed by then.
 - **had delivered:** Had delivered looks back from a past point, not from next Friday.
@@ -2207,13 +2207,13 @@ By the time the guests ___ tomorrow, we ___ every room.
 3. will arrive / had checked
 4. had arrived / are checking
 
-**Explanation:** Arrive is present simple in the future time clause; will have checked marks completion before that arrival.
+**Explanation:** 'Arrive' is present simple in the future time clause; 'will have checked' marks completion before that arrival.
 
 **Choice feedback:**
 
 - **arrived / have checked:** Arrived gives a past arrival and have checked looks back from now; neither matches the stated future relationship.
-- **arrive / will have checked:** Arrive is present simple in the future time clause; will have checked marks completion before that arrival.
-- **will arrive / had checked:** The future time clause normally takes arrive, and had checked looks back from a past point instead of from the future arrival.
+- **arrive / will have checked:** 'Arrive' is present simple in the future time clause; 'will have checked' marks completion before that arrival.
+- **will arrive / had checked:** The future time clause normally takes 'arrive', and 'had checked' looks back from a past point instead of from the future arrival.
 - **had arrived / are checking:** Had arrived gives an earlier past event, while are checking presents current activity rather than future completion.
 
 **Decision:** replaced.
@@ -2271,14 +2271,14 @@ Hana ___ this apartment since 2015, although she rents it to someone else.
 3. will own
 4. has owned **[Correct]**
 
-**Explanation:** Has owned presents a state continuing from 2015 to now. Duration does not require a continuous form with a state verb.
+**Explanation:** 'Has owned' presents a state continuing from 2015 to now. Duration does not require a continuous form with a state verb.
 
 **Choice feedback:**
 
 - **was owning:** Was owning gives a past progressive viewpoint, not ownership continuing to now.
-- **has been owning:** Own in the literal possession sense normally takes a simple form, not has been owning, in neutral standard English.
+- **has been owning:** 'Own' in the literal possession sense normally takes a simple form, not 'has been owning', in neutral standard English.
 - **will own:** Will own places ownership in the future and conflicts with the stated continuing ownership since 2015.
-- **has owned:** Has owned presents a state continuing from 2015 to now. Duration does not require a continuous form with a state verb.
+- **has owned:** 'Has owned' presents a state continuing from 2015 to now. Duration does not require a continuous form with a state verb.
 
 **Decision:** replaced.
 
@@ -2309,7 +2309,7 @@ At the reception desk now: 'I was wondering whether you could print my boarding 
 
 - **It withdraws a request that has already been refused.:** Nothing in the wording says the request was previously refused or is being withdrawn.
 - **It makes the current request less direct.:** Was wondering can soften a request made now; the past form need not locate the request in the past.
-- **It says the boarding pass was printed earlier.:** Wondering describes the speaker's approach to asking, not a completed printing action.
+- **It says the boarding pass was printed earlier.:** 'Wondering' describes the speaker's approach to asking, not a completed printing action.
 - **It reports a question the speaker no longer wants answered.:** In this reception context the speaker is making a current request, not abandoning one.
 
 **Decision:** replaced.
@@ -2341,7 +2341,7 @@ Priya is usually patient, but she ___ rather impatient with the new receptionist
 
 - **is being:** Is being presents impatience as behavior being displayed now, contrasted with Priya's usual patience.
 - **has been:** Has been looks back over behavior up to now; it does not give the requested in-progress perspective on this conversation.
-- **was:** Was places the behavior in the past rather than inside the current conversation.
+- **was:** 'Was' places the behavior in the past rather than inside the current conversation.
 - **will be:** Will be predicts or infers behavior rather than directly presenting what is happening during this conversation.
 
 **Decision:** replaced.
@@ -2595,11 +2595,11 @@ Choose the interpretation supported by the speaker's reasoning.
 3. The speaker reports a promise the listener made yesterday.
 4. The speaker describes hearing as an activity in progress tomorrow.
 
-**Explanation:** Will have heard expresses an inference about an event presumed complete by now, based on yesterday's announcement.
+**Explanation:** 'Will have heard' expresses an inference about an event presumed complete by now, based on yesterday's announcement.
 
 **Choice feedback:**
 
-- **The speaker assumes that hearing has already occurred.:** Will have heard expresses an inference about an event presumed complete by now, based on yesterday's announcement.
+- **The speaker assumes that hearing has already occurred.:** 'Will have heard' expresses an inference about an event presumed complete by now, based on yesterday's announcement.
 - **The speaker predicts that hearing will first occur tomorrow.:** By now sets a present limit, not a first hearing tomorrow.
 - **The speaker reports a promise the listener made yesterday.:** There is no reported promise; the speaker is drawing a conclusion from the announcement's timing.
 - **The speaker describes hearing as an activity in progress tomorrow.:** Have heard presents prior occurrence, not progressive activity at a future time.
@@ -2634,7 +2634,7 @@ The mediator wanted to describe the work preceding Tuesday's rejection.
 - **We had negotiated an agreement when the proposal was rejected.:** Had negotiated an agreement claims a completed agreement, which the requested account must not claim.
 - **We have been negotiating since the proposal was rejected.:** Have been negotiating since places the activity after rejection and extends it to now.
 - **We had been negotiating when the proposal was rejected.:** Had been negotiating looks back from the rejection over activity leading up to it, without asserting a successful agreement.
-- **We would negotiate after the proposal was rejected.:** Would negotiate after makes the negotiation later than the rejection.
+- **We would negotiate after the proposal was rejected.:** 'Would negotiate' after makes the negotiation later than the rejection.
 
 **Decision:** replaced.
 
@@ -2659,12 +2659,12 @@ The last bus leaves in ten minutes. It's time we ___ the office.
 3. have left
 4. would leave
 
-**Explanation:** After it's time, a past form can refer to action due now: it's time we left. Left does not place this departure in the past.
+**Explanation:** After "it's time", a past form can refer to action due now: "it's time we left". 'Left' does not place this departure in the past.
 
 **Choice feedback:**
 
 - **had left:** Had left introduces past-perfect anteriority rather than the ordinary present call to act in it's time we left.
-- **left:** After it's time, a past form can refer to action due now: it's time we left. Left does not place this departure in the past.
+- **left:** After "it's time", a past form can refer to action due now: "it's time we left". 'Left' does not place this departure in the past.
 - **have left:** Have left does not fit this it's time construction, which uses a past form for the action now due.
 - **would leave:** Would leave does not fit this call to act after it's time we; use the plain past form left.
 
@@ -2691,14 +2691,14 @@ If I ___ the earlier flight yesterday, I ___ in this airport now.
 3. had taken / wouldn't be waiting **[Correct]**
 4. have taken / wasn't waiting
 
-**Explanation:** Had taken marks the unreal past choice; wouldn't be waiting describes its imagined present consequence.
+**Explanation:** 'Had taken' marks the unreal past choice; "wouldn't be waiting" describes its imagined present consequence.
 
 **Choice feedback:**
 
 - **take / won't wait:** Take does not locate the unreal choice yesterday, and won't wait does not give the counterfactual situation now.
 - **took / hadn't waited:** Took does not clearly mark the unreal earlier choice, and hadn't waited puts the result before a past point rather than now.
-- **had taken / wouldn't be waiting:** Had taken marks the unreal past choice; wouldn't be waiting describes its imagined present consequence.
-- **have taken / wasn't waiting:** Have taken conflicts with the finished event time yesterday, and wasn't waiting reports a past situation rather than the imagined present result.
+- **had taken / wouldn't be waiting:** 'Had taken' marks the unreal past choice; "wouldn't be waiting" describes its imagined present consequence.
+- **have taken / wasn't waiting:** 'Have taken' conflicts with the finished event time 'yesterday', and "wasn't waiting" reports a past situation rather than the imagined present result.
 
 **Decision:** replaced.
 
@@ -2728,9 +2728,9 @@ I deleted the original recordings. I wish I ___ a backup first.
 **Choice feedback:**
 
 - **had kept:** Had kept presents the unreal earlier action the speaker now regrets not taking.
-- **keep:** Keep does not express the unreal earlier action required after wish in this past regret.
+- **keep:** 'Keep' does not express the unreal earlier action required after 'wish' in this past regret.
 - **will keep:** Will keep predicts a future action rather than changing the imagined past decision.
-- **am keeping:** Am keeping describes current activity, not a backup that should have preceded deletion.
+- **am keeping:** 'Am keeping' describes current activity, not a backup that should have preceded deletion.
 
 **Decision:** replaced.
 
@@ -2755,14 +2755,14 @@ I'd rather the contractor ___ after nine tomorrow; the residents work late shift
 3. arrived **[Correct]**
 4. arriving
 
-**Explanation:** After I'd rather with a different subject, arrived can express a preference about a present or future action.
+**Explanation:** After "I'd rather" with a different subject, 'arrived' can express a preference about a present or future action.
 
 **Choice feedback:**
 
 - **had arrived:** Had arrived would express a preference about an earlier unreal arrival, not tomorrow's action.
-- **has arrived:** Has arrived does not fit the different-subject preference construction after I'd rather here.
-- **arrived:** After I'd rather with a different subject, arrived can express a preference about a present or future action.
-- **arriving:** Arriving lacks a finite verb after the contractor in this clause.
+- **has arrived:** 'Has arrived' does not fit the different-subject preference construction after "I'd rather" here.
+- **arrived:** After "I'd rather" with a different subject, 'arrived' can express a preference about a present or future action.
+- **arriving:** 'Arriving' lacks a finite verb after 'the contractor' in this clause.
 
 **Decision:** replaced.
 
@@ -2787,13 +2787,13 @@ Sofia has never met the director, yet she talks as if she ___ him personally.
 3. knew **[Correct]**
 4. has met
 
-**Explanation:** Knew is a modal past: it presents current personal familiarity as an imagined state rather than a past event.
+**Explanation:** 'Knew' is a modal past: it presents current personal familiarity as an imagined state rather than a past event.
 
 **Choice feedback:**
 
 - **had met:** Had met would describe an imagined earlier meeting, not the requested current state of knowing someone; met him personally changes the target meaning.
 - **will know:** Will know places familiarity in the future, not in the imagined current relationship.
-- **knew:** Knew is a modal past: it presents current personal familiarity as an imagined state rather than a past event.
+- **knew:** 'Knew' is a modal past: it presents current personal familiarity as an imagined state rather than a past event.
 - **has met:** Has met presents an earlier meeting without the requested remote present-state form and changes knowledge to meeting.
 
 **Decision:** replaced.
@@ -2858,7 +2858,7 @@ Several clients have complained about delays during the last few weeks.
 - **Support staff have been taking several days to answer requests.:** Have been taking presents repeated delays over a recent period without making them a permanent rule.
 - **Support staff answered requests within a day last year.:** Last year's response time does not describe the recent pattern behind these complaints.
 - **Support staff will answer requests within several days next year.:** Next year's prediction does not characterize the recent delays already reported.
-- **Support staff had answered the requests before the complaints began.:** Had answered describes earlier completion, not a recurring recent pattern of slow responses.
+- **Support staff had answered the requests before the complaints began.:** 'Had answered' describes earlier completion, not a recurring recent pattern of slow responses.
 
 **Decision:** replaced.
 
@@ -2947,14 +2947,14 @@ Choose the continuation that returns to the main past timeline after the flashba
 3. will photograph
 4. photographed **[Correct]**
 
-**Explanation:** Photographed advances the main past scene after the earlier events marked with had; now is the narrative now beside the inspector.
+**Explanation:** 'Photographed' advances the main past scene after the earlier events marked with 'had'; 'now' is the narrative now beside the inspector.
 
 **Choice feedback:**
 
 - **has photographed:** Has photographed changes the reporting center to the present instead of continuing the past scene.
 - **had photographed:** Had photographed keeps the photograph earlier than a past reference point rather than advancing the scene beside the inspector.
 - **will photograph:** Will photograph looks forward from the narrator's present rather than advancing the action in the past scene.
-- **photographed:** Photographed advances the main past scene after the earlier events marked with had; now is the narrative now beside the inspector.
+- **photographed:** 'Photographed' advances the main past scene after the earlier events marked with 'had'; 'now' is the narrative now beside the inspector.
 
 **Decision:** replaced.
 
@@ -3047,9 +3047,9 @@ The receptionist explained the rule yesterday. You are now writing guidance for 
 
 **Choice feedback:**
 
-- **The receptionist explained that visitors had needed photo identification in 2019.:** Had needed in 2019 restricts the claim to an earlier period rather than stating today's requirement.
+- **The receptionist explained that visitors had needed photo identification in 2019.:** 'Had needed in 2019' restricts the claim to an earlier period rather than stating today's requirement.
 - **The receptionist explained that visitors need photo identification.:** Keeping need in the present presents the requirement as current, even though the explanation happened yesterday.
-- **The receptionist explained that visitors would need photo identification after the rule changed.:** Would need after a change looks forward from a past viewpoint and does not explicitly identify today's rule.
+- **The receptionist explained that visitors would need photo identification after the rule changed.:** 'Would need after a change' looks forward from a past viewpoint and does not explicitly identify today's rule.
 - **The receptionist explained that visitors had been needing photo identification before it was replaced.:** Before it was replaced locates the requirement in a superseded period, not today's guidance.
 
 **Decision:** replaced.
@@ -3112,7 +3112,7 @@ Choose the interpretation that preserves the distinction between imminent action
 **Choice feedback:**
 
 - **The tenant had signed before she noticed the fee.:** Was about to sign places signing just ahead of the noticing, not already completed.
-- **The tenant had been signing leases repeatedly before the fee appeared.:** About to indicates imminence on this occasion, not repeated earlier signing.
+- **The tenant had been signing leases repeatedly before the fee appeared.:** 'About to' indicates imminence on this occasion, not repeated earlier signing.
 - **The tenant made a new appointment to sign after the fee was removed.:** No later appointment or removal of the fee is reported.
 - **Signing was imminent when she noticed the fee; actual signing is not stated.:** Was about to presents a near-future action from a past viewpoint; the sentence does not establish whether she went on to sign.
 
@@ -3276,7 +3276,7 @@ Hardly had the appeal begun to be heard when the hearing was adjourned.
 **Choice feedback:**
 
 - **The appeal had just been heard in full; only the formal adjournment remained.:** Had begun marks completion of the starting phase, not completion of the appeal's consideration.
-- **The appeal was close to being heard, but adjournment prevented the hearing from starting.:** Hardly had ... begun means the start had just occurred; it does not mean the hearing merely nearly began.
+- **The appeal was close to being heard, but adjournment prevented the hearing from starting.:** 'Hardly had ... begun' means the start had just occurred; it does not mean the hearing merely nearly began.
 - **The hearing had just started; the appeal's consideration need not have been completed.:** The perfect applies to begun: the start has occurred. Hardly ... when places adjournment soon afterward without making the whole hearing complete.
 - **The appeal's consideration and the adjournment are both presented as completed before the hearing began.:** Adjournment follows the start in the main past sequence; it is not inside the earlier event marked by had begun.
 
@@ -3300,7 +3300,7 @@ A: 'The mason rebuilt the arch during the shutdown.' B: 'The mason was rebuildin
 
 1. The continuation fits both equally because past tense leaves completion unasserted.
 2. The continuation fits A more directly because simple past separates activity from its result.
-3. The continuation conflicts with both because the definite object the arch requires a finished result.
+3. The continuation conflicts with both because the definite object 'the arch' requires a finished result.
 4. The continuation fits B; with A it clashes with the ordinary completed-event reading. **[Correct]**
 
 **Explanation:** Was rebuilding leaves eventual completion open, so abandonment halfway is coherent. Rebuilt the arch ordinarily asserts the completed event, creating a clash.
@@ -3309,7 +3309,7 @@ A: 'The mason rebuilt the arch during the shutdown.' B: 'The mason was rebuildin
 
 - **The continuation fits both equally because past tense leaves completion unasserted.:** Simple past with rebuilt the arch ordinarily presents the bounded rebuilding as completed, unlike the progressive.
 - **The continuation fits A more directly because simple past separates activity from its result.:** The simple clause includes the ordinary completion reading; the progressive is the form that leaves the endpoint unasserted.
-- **The continuation conflicts with both because the definite object the arch requires a finished result.:** A definite object helps make rebuilding bounded, but progressive aspect can present its internal activity without asserting the endpoint.
+- **The continuation conflicts with both because the definite object 'the arch' requires a finished result.:** A definite object helps make rebuilding bounded, but progressive aspect can present its internal activity without asserting the endpoint.
 - **The continuation fits B; with A it clashes with the ordinary completed-event reading.:** Was rebuilding leaves eventual completion open, so abandonment halfway is coherent. Rebuilt the arch ordinarily asserts the completed event, creating a clash.
 
 **Decision:** replaced.
@@ -3431,14 +3431,14 @@ A: 'If the courier was at the depot yesterday, she may have seen the parcel; I d
 3. A makes past presence counterfactual; B merely expresses uncertainty about current presence.
 4. A leaves past presence open; B imagines a present state contradicted by the context. **[Correct]**
 
-**Explanation:** Was in A refers to an uncertain past fact. Were in B marks a remote present possibility that the surrounding statement identifies as contrary to fact.
+**Explanation:** 'Was' in A refers to an uncertain past fact. 'Were' in B marks a remote present possibility that the surrounding statement identifies as contrary to fact.
 
 **Choice feedback:**
 
 - **A leaves seeing the parcel uncertain but establishes presence; B leaves current presence uncertain.:** A explicitly withholds knowledge of presence, while B explicitly states that the courier is away.
 - **Both conditions establish absence because their verbs have past forms.:** Past form alone does not establish absence; A is an open question about a past fact.
 - **A makes past presence counterfactual; B merely expresses uncertainty about current presence.:** This reverses the contexts: A leaves presence unknown, whereas B supplies evidence of present absence.
-- **A leaves past presence open; B imagines a present state contradicted by the context.:** Was in A refers to an uncertain past fact. Were in B marks a remote present possibility that the surrounding statement identifies as contrary to fact.
+- **A leaves past presence open; B imagines a present state contradicted by the context.:** 'Was' in A refers to an uncertain past fact. 'Were' in B marks a remote present possibility that the surrounding statement identifies as contrary to fact.
 
 **Decision:** replaced.
 
@@ -3467,10 +3467,10 @@ A dispatcher said, 'If the road is open tomorrow, we'll deliver then.' A later r
 
 **Choice feedback:**
 
-- **Backshift converts the possible road opening into a condition known not to have been met.:** Backshift after said does not by itself convert an open condition into a counterfactual one.
+- **Backshift converts the possible road opening into a condition known not to have been met.:** Backshift after 'said' does not by itself convert an open condition into a counterfactual one.
 - **The backshifted forms preserve an open condition and leave its fulfillment unverified.:** Was and would can reflect the past reporting frame while preserving the original open condition. Neither the road's status nor delivery is verified by the report.
-- **Would turns the conditional promise into a commitment to deliver regardless of the road's status.:** The if clause still restricts the delivery commitment; would does not remove that condition.
-- **Was preserves uncertainty about delivery but establishes that the road had opened before the original promise.:** Was can correspond to the original is through reporting backshift and does not assert an earlier opening event.
+- **Would turns the conditional promise into a commitment to deliver regardless of the road's status.:** The 'if' clause still restricts the delivery commitment; 'would' does not remove that condition.
+- **Was preserves uncertainty about delivery but establishes that the road had opened before the original promise.:** 'Was' can correspond to the original 'is' through reporting backshift and does not assert an earlier opening event.
 
 **Decision:** replaced.
 
@@ -3523,7 +3523,7 @@ Choose the editorial comment that preserves the independent time references in t
 The 1970 expedition mapped a glacier that is retreating rapidly.
 
 1. Is retreating shifts mapped into a historical-present account despite its past form.
-2. Mapped requires was retreating, because a relative clause must share its main clause's past viewpoint.
+2. 'Mapped' requires 'was retreating', because a relative clause must share its main clause's past viewpoint.
 3. Changing is retreating to has retreated would confine the retreat to the expedition's finished period.
 4. Mapped dates the expedition's work; the relative clause can describe the glacier's condition now. **[Correct]**
 
@@ -3531,8 +3531,8 @@ The 1970 expedition mapped a glacier that is retreating rapidly.
 
 **Choice feedback:**
 
-- **Is retreating shifts mapped into a historical-present account despite its past form.:** The relative clause does not change the past-tense reference of mapped.
-- **Mapped requires was retreating, because a relative clause must share its main clause's past viewpoint.:** Tense in a relative clause need not be mechanically backshifted with the main clause; was retreating would supply a past rather than current viewpoint.
+- **Is retreating shifts mapped into a historical-present account despite its past form.:** The relative clause does not change the past-tense reference of 'mapped'.
+- **'Mapped' requires 'was retreating', because a relative clause must share its main clause's past viewpoint.:** Tense in a relative clause need not be mechanically backshifted with the main clause; 'was retreating' would supply a past rather than current viewpoint.
 - **Changing is retreating to has retreated would confine the retreat to the expedition's finished period.:** Has retreated would look back from a present reference point, not automatically restrict retreat to the expedition's year.
 - **Mapped dates the expedition's work; the relative clause can describe the glacier's condition now.:** A relative clause can have its own temporal reference. The article can combine a completed historical mapping with a currently developing retreat.
 
@@ -3598,7 +3598,7 @@ Although the novelist died in 1920, her work has influenced generations of trans
 - **The perfect requires the influence to be confined to translators who met the novelist.:** The work can influence later readers indirectly, so personal contact and overlapping lifetimes are not required.
 - **The perfect closes the influence period, and continues introduces a separate new influence period.:** Has influenced can present an open history of effects, and continues can extend that same history rather than restart it.
 - **Died closes the life period; the work's influence extends to the present.:** The death and the influence concern different subjects and temporal spans. A closed authorial lifetime does not close the work's history of effects.
-- **The perfect attributes continuing personal activity to the novelist despite the dated death.:** The subject of has influenced is her work; the sentence does not claim the deceased novelist is personally still acting.
+- **The perfect attributes continuing personal activity to the novelist despite the dated death.:** The subject of 'has influenced' is 'her work'; the sentence does not claim the deceased novelist is personally still acting.
 
 **Decision:** replaced.
 
@@ -3724,7 +3724,7 @@ I'm loving the quieter pace here, though I expect I'll miss the city soon.
 **Choice feedback:**
 
 - **The progressive presents enjoyment as a situated current experience, compatible with later change.:** In this register, I'm loving can foreground currently experienced enjoyment. The anticipated later change fits that situated perspective.
-- **The progressive recasts the emotion as a deliberate performance rather than an experienced response.:** Progressive love in this informal use need not mean pretending or intentionally performing an emotion; it can express actual enjoyment.
+- **The progressive recasts the emotion as a deliberate performance rather than an experienced response.:** Progressive 'love' in this informal use need not mean pretending or intentionally performing an emotion; it can express actual enjoyment.
 - **The progressive confines enjoyment to the exact moment when the diary entry is being written.:** Continuous aspect can cover a current phase of experience, not just the instant of writing.
 - **The future expectation makes the present enjoyment an unreal rather than an actual feeling.:** Anticipating a later different feeling does not make the present enjoyment counterfactual.
 
@@ -3821,7 +3821,7 @@ Work has not started. The engineers hope to have stabilized the sea wall before 
 
 - **The perfect makes stabilization earlier than the expression of hope, so the first sentence conflicts with it.:** The perfect infinitive can take a future reference point supplied by the tides; it does not force stabilization to precede the present hope.
 - **Completion is projected before the tides, not necessarily before the hope is expressed.:** To have stabilized presents the desired result as complete before a future boundary. Hope does not assert that this desired completion will occur.
-- **The perfect makes completion an established fact, even though hope leaves its desirability uncertain.:** Hope is not a factive reporting verb: a perfect infinitive inside its scope does not establish that the hoped-for event occurred.
+- **The perfect makes completion an established fact, even though hope leaves its desirability uncertain.:** 'Hope' is not a factive reporting verb: a perfect infinitive inside its scope does not establish that the hoped-for event occurred.
 - **Replacing to have stabilized with to stabilize would rule out completion before the tides.:** To stabilize before the tides can also express timely completion. The perfect explicitly adds a retrospective completed-result perspective, not an exclusive ability to meet a deadline.
 
 **Decision:** replaced.
@@ -3854,7 +3854,7 @@ At the theater's closure, the costumes were already packed. The trustees expecte
 - **By the closure, the costumes were expected to have been packed, and the auction took place the following month.:** This demotes known packing to an expectation and promotes the unverified auction to an actual event.
 - **By the closure, the costumes had been packed, and the auction took place the following month.:** Had been packed preserves preparation correctly, but took place asserts the auction's occurrence without support.
 - **By the closure, the costumes had been packed and were expected to be auctioned the following month.:** Had been packed presents known completion before closure; were expected to be auctioned attributes a later expectation without asserting fulfillment.
-- **By the closure, the costumes were expected to have been packed and to be auctioned the following month.:** Expected now takes scope over both packing and auction, weakening the known completion of packing into an expectation.
+- **By the closure, the costumes were expected to have been packed and to be auctioned the following month.:** 'Expected now' takes scope over both packing and auction, weakening the known completion of packing into an expectation.
 
 **Decision:** replaced.
 

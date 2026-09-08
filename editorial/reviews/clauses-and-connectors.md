@@ -51,14 +51,14 @@ I forgot my key, ___ I called my flatmate.
 3. or
 4. so **[Correct]**
 
-**Explanation:** So introduces what the speaker did as a result of forgetting the key.
+**Explanation:** 'So' introduces what the speaker did as a result of forgetting the key.
 
 **Choice feedback:**
 
 - **because:** Because would make the call the reason for forgetting the key.
 - **but:** But introduces a contrast, not the requested result.
 - **or:** Or presents alternatives instead of the resulting action.
-- **so:** So introduces what the speaker did as a result of forgetting the key.
+- **so:** 'So' introduces what the speaker did as a result of forgetting the key.
 
 **Decision:** replaced.
 
@@ -122,7 +122,7 @@ Please buy milk ___ eggs.
 - **or:** Or offers a choice instead of requiring both items.
 - **and:** And adds eggs to milk: buy both.
 - **but:** But introduces a contrast, not a simple shopping list.
-- **because:** Because introduces a reason and cannot join these two list items.
+- **because:** 'Because' introduces a reason and cannot join these two list items.
 
 **Decision:** replaced.
 
@@ -186,7 +186,7 @@ Would you like juice ___ water?
 - **and:** And asks about the two drinks together, not the requested choice of one.
 - **or:** Or presents juice and water as alternatives.
 - **because:** Because would introduce a reason, not a drink choice.
-- **so:** So introduces a result and cannot connect these alternatives.
+- **so:** 'So' introduces a result and cannot connect these alternatives.
 
 **Decision:** replaced.
 
@@ -250,7 +250,7 @@ I'll call you ___ I finish work.
 - **before:** Before would place the call earlier than finishing.
 - **because:** Because gives finishing as a reason rather than explicitly ordering the events.
 - **after:** After places the call later than finishing work.
-- **but:** But signals contrast, not the requested later time.
+- **but:** 'But' signals contrast, not the requested later time.
 
 **Decision:** replaced.
 
@@ -307,13 +307,13 @@ Choose the answer to the why-question.
 3. Because it's cold. **[Correct]**
 4. The blue one.
 
-**Explanation:** Because introduces the reason for wearing the coat.
+**Explanation:** 'Because' introduces the reason for wearing the coat.
 
 **Choice feedback:**
 
 - **At the bus stop.:** This answers where, not why.
 - **After nine o'clock.:** This answers when, not why.
-- **Because it's cold.:** Because introduces the reason for wearing the coat.
+- **Because it's cold.:** 'Because' introduces the reason for wearing the coat.
 - **The blue one.:** This identifies a coat rather than explaining why it is needed.
 
 **Decision:** replaced.
@@ -471,7 +471,7 @@ I don't want tea ___ coffee. Water is fine.
 
 **Choice feedback:**
 
-- **because:** Because cannot join the two unwanted drinks as alternatives.
+- **because:** 'Because' cannot join the two unwanted drinks as alternatives.
 - **so:** So would introduce a result rather than another unwanted drink.
 - **but:** But suggests a contrast that the statement rejecting both drinks does not intend.
 - **or:** Under don't want, tea or coffee rejects both alternatives.
@@ -506,7 +506,7 @@ Eva checked her bag ___ took out her passport.
 - **unless:** Unless would introduce an exception, not simply add the second action.
 - **because:** Because would need a complete reason clause, such as because she needed her passport.
 - **and:** And connects the two actions sharing the subject Eva.
-- **although:** Although would require a contrasting clause rather than directly adding took out here.
+- **although:** 'Although' would require a contrasting clause rather than directly adding 'took out' here.
 
 **Decision:** replaced.
 
@@ -531,11 +531,11 @@ I cook dinner, ___ my partner washes the dishes.
 3. unless
 4. or
 
-**Explanation:** And adds a second fact with a different subject.
+**Explanation:** 'And' adds a second fact with a different subject.
 
 **Choice feedback:**
 
-- **and:** And adds a second fact with a different subject.
+- **and:** 'And' adds a second fact with a different subject.
 - **because:** Because makes the partner's action a reason for cooking, rather than just adding a fact.
 - **unless:** Unless makes dishwashing an exception affecting cooking, not an additional fact.
 - **or:** Or offers alternative arrangements instead of describing both people's jobs.
@@ -595,11 +595,11 @@ Choose the reason given in the message.
 3. The road is closed.
 4. The speaker has no bicycle.
 
-**Explanation:** The words after because give the stated reason for walking.
+**Explanation:** The words after 'because' give the stated reason for walking.
 
 **Choice feedback:**
 
-- **The bicycle has a flat tire.:** The words after because give the stated reason for walking.
+- **The bicycle has a flat tire.:** The words after 'because' give the stated reason for walking.
 - **The speaker likes walking.:** The message does not state a preference for walking.
 - **The road is closed.:** No road closure is mentioned.
 - **The speaker has no bicycle.:** The speaker has a bicycle, but its tire has a problem.
@@ -695,14 +695,14 @@ The outdoor concert stopped ___ a storm.
 3. although
 4. so that
 
-**Explanation:** Because of introduces the noun phrase a storm as the reason.
+**Explanation:** 'Because of' introduces the noun phrase 'a storm' as the reason.
 
 **Choice feedback:**
 
-- **because of:** Because of introduces the noun phrase a storm as the reason.
-- **because:** Because needs a clause, such as because a storm began.
-- **although:** Although needs a clause here and would introduce contrast, not the requested reason.
-- **so that:** So that needs a clause expressing a purpose or result, not just a storm.
+- **because of:** 'Because of' introduces the noun phrase 'a storm' as the reason.
+- **because:** 'Because' needs a clause, such as 'because a storm began'.
+- **although:** 'Although' needs a clause here and would introduce contrast, not the requested reason.
+- **so that:** 'So that' needs a clause expressing a purpose or result, not just 'a storm'.
 
 **Decision:** replaced.
 
@@ -796,9 +796,9 @@ I went to the bank ___ pay in a cheque.
 **Choice feedback:**
 
 - **because:** Because would need a full clause, such as because I needed to pay in a cheque.
-- **so that:** So that needs a subject and verb, such as so that I could pay.
+- **so that:** 'So that' needs a subject and verb, such as 'so that I could pay'.
 - **to:** To plus pay gives the purpose of going to the bank.
-- **for:** For does not directly introduce the base verb pay in this purpose phrase.
+- **for:** 'For' does not directly introduce the base verb 'pay' in this purpose phrase.
 
 **Decision:** replaced.
 
@@ -823,14 +823,14 @@ The guide spoke slowly ___ everyone could understand the directions.
 3. until
 4. so that **[Correct]**
 
-**Explanation:** So that introduces the intended benefit for a different subject, everyone.
+**Explanation:** 'So that' introduces the intended benefit for a different subject, 'everyone'.
 
 **Choice feedback:**
 
 - **even though:** Even though presents understanding as a fact in contrast, not the guide's purpose.
-- **because of:** Because of cannot directly introduce the full clause everyone could understand.
+- **because of:** 'Because of' cannot directly introduce the full clause 'everyone could understand'.
 - **until:** Until sets an endpoint rather than stating the intended benefit.
-- **so that:** So that introduces the intended benefit for a different subject, everyone.
+- **so that:** 'So that' introduces the intended benefit for a different subject, 'everyone'.
 
 **Decision:** replaced.
 
@@ -955,7 +955,7 @@ Send me a message ___ you land, so I know you've arrived safely.
 
 **Choice feedback:**
 
-- **long before:** Long before would put the message well ahead of landing.
+- **long before:** 'Long before' would put the message well ahead of landing.
 - **as soon as:** As soon as asks for the message immediately after landing.
 - **unless:** Unless makes landing an exception to sending, rather than the trigger.
 - **even though:** Even though introduces a contrast and does not specify prompt timing.
@@ -983,13 +983,13 @@ I've lived in this building ___ I moved to this city.
 3. during
 4. before
 
-**Explanation:** Since introduces the past event from which the residence continues to now.
+**Explanation:** 'Since' introduces the past event from which the residence continues to now.
 
 **Choice feedback:**
 
-- **since:** Since introduces the past event from which the residence continues to now.
-- **until:** Until marks an endpoint and would not give the requested beginning of the continuing residence.
-- **during:** During takes a noun phrase, not the full clause I moved to this city.
+- **since:** 'Since' introduces the past event from which the residence continues to now.
+- **until:** 'Until' marks an endpoint and would not give the requested beginning of the continuing residence.
+- **during:** 'During' takes a noun phrase, not the full clause 'I moved to this city'.
 - **before:** Before places residence earlier than the move instead of starting with it.
 
 **Decision:** replaced.
@@ -1051,7 +1051,7 @@ You can come either on Tuesday ___ on Thursday.
 
 **Choice feedback:**
 
-- **nor:** Nor follows neither in a negative pair, not either in this offer.
+- **nor:** 'Nor' follows 'neither' in a negative pair, not 'either' in this offer.
 - **or:** Either ... or presents Tuesday and Thursday as the available alternatives.
 - **and:** And adds both days instead of completing the alternative pair either ... or.
 - **but:** But introduces contrast rather than completing the paired choice.
@@ -1111,14 +1111,14 @@ The hotel room was small. ___, it had a beautiful view.
 3. Then
 4. However **[Correct]**
 
-**Explanation:** However introduces a positive feature that balances the small room.
+**Explanation:** 'However' introduces a positive feature that balances the small room.
 
 **Choice feedback:**
 
 - **Therefore:** Therefore makes the view a result of the room being small.
 - **For example:** For example would make the view an example of small size.
 - **Then:** Then orders events in time rather than contrasting two features.
-- **However:** However introduces a positive feature that balances the small room.
+- **However:** 'However' introduces a positive feature that balances the small room.
 
 **Decision:** replaced.
 
@@ -1148,7 +1148,7 @@ The shop repairs phones. It ___ sells chargers.
 **Choice feedback:**
 
 - **instead:** Instead would replace repairing phones with selling chargers.
-- **otherwise:** Otherwise introduces an alternative situation or consequence, not another service.
+- **otherwise:** 'Otherwise' introduces an alternative situation or consequence, not another service.
 - **also:** Also adds charger sales to phone repairs.
 - **therefore:** Therefore presents sales as a conclusion from repairs, rather than simply adding information.
 
@@ -1214,7 +1214,7 @@ You can borrow tools here, ___ a hammer or a drill.
 - **because of:** Because of would make the tools a reason for borrowing rather than examples.
 - **instead of:** Instead of would present these tools as things replaced, not things included.
 - **such as:** Such as introduces a hammer and a drill as examples of tools.
-- **as soon as:** As soon as introduces a time clause, not a list of examples.
+- **as soon as:** 'As soon as' introduces a time clause, not a list of examples.
 
 **Decision:** replaced.
 
@@ -1307,14 +1307,14 @@ ___ the noise from the road, we slept well.
 3. Because of
 4. Since
 
-**Explanation:** Despite takes the noun phrase and marks the unexpected success of sleeping well.
+**Explanation:** 'Despite' takes the noun phrase and marks the unexpected success of sleeping well.
 
 **Choice feedback:**
 
-- **Although:** Although needs a clause here, such as although the road was noisy.
-- **Despite:** Despite takes the noun phrase and marks the unexpected success of sleeping well.
+- **Although:** 'Although' needs a clause here, such as 'although the road was noisy'.
+- **Despite:** 'Despite' takes the noun phrase and marks the unexpected success of sleeping well.
 - **Because of:** Because of would make the noise a reason for sleeping well, not an obstacle overcome.
-- **Since:** Since does not directly introduce this noun phrase as a conceded obstacle.
+- **Since:** 'Since' does not directly introduce this noun phrase as a conceded obstacle.
 
 **Decision:** replaced.
 
@@ -1346,7 +1346,7 @@ The meeting did not start ___ the interpreter arrived.
 - **although:** Although contrasts facts rather than identifying the first possible starting point.
 - **until:** Not ... until postpones the start to the interpreter's arrival.
 - **because:** Because would make arrival the reason the meeting failed to start.
-- **while:** While describes overlapping time rather than the endpoint of the delay.
+- **while:** 'While' describes overlapping time rather than the endpoint of the delay.
 
 **Decision:** replaced.
 
@@ -1467,14 +1467,14 @@ The cafe stayed open ___ there were only two customers.
 3. because of
 4. in spite of
 
-**Explanation:** Although introduces the complete clause describing an obstacle to staying open.
+**Explanation:** 'Although' introduces the complete clause describing an obstacle to staying open.
 
 **Choice feedback:**
 
-- **although:** Although introduces the complete clause describing an obstacle to staying open.
-- **despite:** Despite needs a noun or -ing phrase here, not the unintroduced full clause there were.
-- **because of:** Because of requires a noun phrase and would express reason rather than concession.
-- **in spite of:** In spite of also needs a noun or -ing phrase, such as in spite of having few customers.
+- **although:** 'Although' introduces the complete clause describing an obstacle to staying open.
+- **despite:** 'Despite' needs a noun or -ing phrase here, not the unintroduced full clause 'there were'.
+- **because of:** 'Because of' requires a noun phrase and would express reason rather than concession.
+- **in spite of:** 'In spite of' also needs a noun or -ing phrase, such as 'in spite of having few customers'.
 
 **Decision:** replaced.
 
@@ -1499,14 +1499,14 @@ The instructions were ___ unclear that I called the help desk.
 3. enough
 4. so **[Correct]**
 
-**Explanation:** So + adjective + that expresses a degree of unclearness leading to the call.
+**Explanation:** 'So' + adjective + 'that' expresses a degree of unclearness leading to the call.
 
 **Choice feedback:**
 
-- **such:** Such normally introduces a noun phrase, such as such unclear instructions.
+- **such:** 'Such' normally introduces a noun phrase, such as 'such unclear instructions'.
 - **too:** Too normally leads to a to-infinitive result, not this that-clause.
-- **enough:** Enough follows the adjective and does not form enough unclear that.
-- **so:** So + adjective + that expresses a degree of unclearness leading to the call.
+- **enough:** 'Enough' follows the adjective and does not form 'enough unclear that'.
+- **so:** 'So' + adjective + 'that' expresses a degree of unclearness leading to the call.
 
 **Decision:** replaced.
 
@@ -1531,13 +1531,13 @@ It was ___ a long queue that we missed the start of the film.
 3. too
 4. enough
 
-**Explanation:** Such + a + adjective + noun can be followed by that and a result.
+**Explanation:** 'Such' + 'a' + adjective + noun can be followed by 'that' and a result.
 
 **Choice feedback:**
 
-- **such:** Such + a + adjective + noun can be followed by that and a result.
-- **so:** So cannot directly precede a long queue in this pattern; use such a long queue.
-- **too:** Too does not form too a long queue that.
+- **such:** 'Such' + 'a' + adjective + noun can be followed by 'that' and a result.
+- **so:** 'So' cannot directly precede 'a long queue' in this pattern; use 'such a long queue'.
+- **too:** 'Too' does not form 'too a long queue that'.
 - **enough:** Enough would follow a noun or adjective in a different structure, not precede a here.
 
 **Decision:** replaced.
@@ -1563,14 +1563,14 @@ I put my phone on silent ___ wake my partner.
 3. in order to
 4. in order not to **[Correct]**
 
-**Explanation:** In order not to plus wake expresses the intended prevention of an unwanted action.
+**Explanation:** 'In order not to' plus 'wake' expresses the intended prevention of an unwanted action.
 
 **Choice feedback:**
 
 - **because I didn't:** Because I didn't gives an actual reason about not waking, not the purpose of setting the phone.
 - **even though I didn't:** Even though I didn't states a concession rather than an intended precaution.
 - **in order to:** Without not, this gives waking the partner as the purpose, reversing the intended precaution.
-- **in order not to:** In order not to plus wake expresses the intended prevention of an unwanted action.
+- **in order not to:** 'In order not to' plus 'wake' expresses the intended prevention of an unwanted action.
 
 **Decision:** replaced.
 
@@ -1601,7 +1601,7 @@ The menu was in a language we didn't know. We managed to order a good meal.
 
 - **Even though we couldn't read the menu, we ordered a good meal.:** Even though concedes the actual difficulty and contrasts it with the successful result.
 - **We ordered a good meal because we couldn't read the menu.:** Because would make not understanding the menu a cause of the successful order.
-- **We couldn't read the menu so that we could order a good meal.:** So that turns the difficulty into a deliberate means to achieve a purpose.
+- **We couldn't read the menu so that we could order a good meal.:** 'So that' turns the difficulty into a deliberate means to achieve a purpose.
 - **We could read the menu, so we ordered a good meal.:** This changes the stated inability to read into an ability and makes it the cause of success.
 
 **Decision:** replaced.
@@ -1627,11 +1627,11 @@ The bridge was closed for repairs. ___, delivery drivers had to use a longer rou
 3. For instance
 4. Meanwhile
 
-**Explanation:** Consequently marks the detour as a result of the bridge closure.
+**Explanation:** 'Consequently' marks the detour as a result of the bridge closure.
 
 **Choice feedback:**
 
-- **Consequently:** Consequently marks the detour as a result of the bridge closure.
+- **Consequently:** 'Consequently' marks the detour as a result of the bridge closure.
 - **Nevertheless:** Nevertheless would present the longer route as an unexpected contrast rather than a consequence.
 - **For instance:** For instance would make the drivers' route an example of the bridge closure, rather than a result of it.
 - **Meanwhile:** Meanwhile only places events at the same time and does not express the requested causal link.
@@ -1695,10 +1695,10 @@ The train fare is more than I can afford. ___, I have to work that weekend.
 
 **Choice feedback:**
 
-- **Instead:** Instead introduces a replacement, not another reason to decline.
-- **Otherwise:** Otherwise introduces a consequence of a different situation, not an additional obstacle.
+- **Instead:** 'Instead' introduces a replacement, not another reason to decline.
+- **Otherwise:** 'Otherwise' introduces a consequence of a different situation, not an additional obstacle.
 - **Besides:** Besides adds the work commitment as a further reason for not going.
-- **Nevertheless:** Nevertheless introduces a contrast against the first reason, rather than reinforcing it.
+- **Nevertheless:** 'Nevertheless' introduces a contrast against the first reason, rather than reinforcing it.
 
 **Decision:** replaced.
 
@@ -1755,14 +1755,14 @@ The beach was crowded. We enjoyed the day, ___.
 3. even though
 4. despite
 
-**Explanation:** Sentence-final though means however here and contrasts enjoyment with the crowds.
+**Explanation:** Sentence-final 'though' means 'however' here and contrasts enjoyment with the crowds.
 
 **Choice feedback:**
 
-- **although:** Although introduces a clause and cannot function alone as this final contrast marker.
-- **though:** Sentence-final though means however here and contrasts enjoyment with the crowds.
-- **even though:** Even though also needs a following clause rather than standing alone at the end.
-- **despite:** Despite needs a complement, such as despite the crowds.
+- **although:** 'Although' introduces a clause and cannot function alone as this final contrast marker.
+- **though:** Sentence-final 'though' means 'however' here and contrasts enjoyment with the crowds.
+- **even though:** 'Even though' also needs a following clause rather than standing alone at the end.
+- **despite:** 'Despite' needs a complement, such as 'despite the crowds'.
 
 **Decision:** replaced.
 
@@ -1851,14 +1851,14 @@ The system sends a receipt ___ I renew my membership.
 3. whenever **[Correct]**
 4. once before
 
-**Explanation:** Whenever means on every occasion that the membership is renewed.
+**Explanation:** 'Whenever' means on every occasion that the membership is renewed.
 
 **Choice feedback:**
 
-- **until:** Until marks an endpoint for sending, not a receipt for each renewal.
-- **although:** Although introduces a contrast and does not express repeated timing.
-- **whenever:** Whenever means on every occasion that the membership is renewed.
-- **once before:** Once before describes a single earlier occasion rather than every renewal.
+- **until:** 'Until' marks an endpoint for sending, not a receipt for each renewal.
+- **although:** 'Although' introduces a contrast and does not express repeated timing.
+- **whenever:** 'Whenever' means on every occasion that the membership is renewed.
+- **once before:** 'Once before' describes a single earlier occasion rather than every renewal.
 
 **Decision:** replaced.
 
@@ -1919,7 +1919,7 @@ The hotel already offered free parking. This existing service persuaded us to bo
 
 **Choice feedback:**
 
-- **We booked the hotel so that we could park there for free.:** So that expresses the intended purpose of booking rather than explicitly giving the established benefit as a reason.
+- **We booked the hotel so that we could park there for free.:** 'So that' expresses the intended purpose of booking rather than explicitly giving the established benefit as a reason.
 - **We booked the hotel because we could park there for free.:** Because presents the confirmed parking service as the reason that motivated the booking.
 - **We booked the hotel although we could park there for free.:** Although contrasts the parking benefit with booking, contrary to its motivating role.
 - **We booked the hotel until we could park there for free.:** Until makes parking an endpoint of a booking period rather than the reason for choosing the hotel.
@@ -2115,9 +2115,9 @@ The team combined the two delivery routes, ___ reducing fuel use.
 
 **Choice feedback:**
 
-- **nevertheless:** Nevertheless marks an unexpected contrast, not a result achieved by the route change.
+- **nevertheless:** 'Nevertheless' marks an unexpected contrast, not a result achieved by the route change.
 - **thereby:** Thereby connects the action to an effect achieved through that action.
-- **otherwise:** Otherwise describes a different situation or other respects, not the stated effect of combining routes.
+- **otherwise:** 'Otherwise' describes a different situation or other respects, not the stated effect of combining routes.
 - **instead:** Instead suggests replacement rather than identifying the fuel reduction as a result of the combination.
 
 **Decision:** replaced.
@@ -2245,7 +2245,7 @@ The sentence 'As the manager was away, I handled the complaint' could be read in
 
 - **While the manager was away, I handled the complaint.:** While explicitly highlights the shared period and may retain ambiguity about the intended relationship.
 - **When the manager was away, I handled the complaint.:** When specifies a time and does not explicitly state the causal link.
-- **Throughout the manager's absence, I handled the complaint.:** Throughout describes duration over the absence rather than identifying the reason.
+- **Throughout the manager's absence, I handled the complaint.:** 'Throughout' describes duration over the absence rather than identifying the reason.
 - **Because the manager was away, I handled the complaint.:** Because directly identifies the absence as the reason for taking responsibility.
 
 **Decision:** replaced.
@@ -2468,7 +2468,7 @@ The deposit is one quarter of the total, ___ 25 percent.
 **Choice feedback:**
 
 - **that is:** That is introduces a clarification giving the same amount in another form.
-- **for instance:** For instance introduces an example, but 25 percent is an equivalent expression of the whole amount.
+- **for instance:** 'For instance' introduces an example, but 25 percent is an equivalent expression of the whole amount.
 - **in contrast:** In contrast would suggest a difference between equal quantities.
 - **as a result:** As a result would make 25 percent a consequence rather than a restatement.
 
@@ -2698,7 +2698,7 @@ The survey is informative ___ it reveals residents' reported preferences; it doe
 - **even though:** Even though would cast revealing preferences as a concession rather than the basis and limit of usefulness.
 - **insofar as:** Insofar as limits the survey's value to the specified respect, reported preferences.
 - **now that:** Now that emphasizes a new factual circumstance rather than restricting the scope of the claim.
-- **so that:** So that expresses purpose, not the extent or respect in which the survey is informative.
+- **so that:** 'So that' expresses purpose, not the extent or respect in which the survey is informative.
 
 **Decision:** replaced.
 
@@ -2723,11 +2723,11 @@ The comparison is misleading ___ the two totals cover different periods, not bec
 3. even though
 4. until
 
-**Explanation:** Inasmuch as introduces the respect or reason that makes the comparison misleading; the following clause excludes a different reason.
+**Explanation:** 'Inasmuch as' introduces the respect or reason that makes the comparison misleading; the following clause excludes a different reason.
 
 **Choice feedback:**
 
-- **inasmuch as:** Inasmuch as introduces the respect or reason that makes the comparison misleading; the following clause excludes a different reason.
+- **inasmuch as:** 'Inasmuch as' introduces the respect or reason that makes the comparison misleading; the following clause excludes a different reason.
 - **lest:** Lest introduces an event to prevent, not an existing reason for criticism.
 - **even though:** Even though concedes the different periods rather than making them the stated basis of the criticism.
 - **until:** Until creates a time endpoint, which does not express the methodological criticism.
@@ -2787,11 +2787,11 @@ Choose the rewrite preserving a concession, not a reason or an exact comparison.
 3. Agreement was possible only while the negotiations remained difficult.
 4. Negotiating and reaching agreement were equally difficult.
 
-**Explanation:** Fronted adjective + as + subject + verb expresses concession here, equivalent to although.
+**Explanation:** Fronted adjective + 'as' + subject + verb expresses concession here, equivalent to 'although'.
 
 **Choice feedback:**
 
-- **Although the negotiations were difficult, both sides reached an agreement.:** Fronted adjective + as + subject + verb expresses concession here, equivalent to although.
+- **Although the negotiations were difficult, both sides reached an agreement.:** Fronted adjective + 'as' + subject + verb expresses concession here, equivalent to 'although'.
 - **The sides agreed because the negotiations were difficult.:** Because makes difficulty the cause of agreement instead of a conceded obstacle.
 - **Agreement was possible only while the negotiations remained difficult.:** This turns a conceded obstacle into a necessary time condition for agreement.
 - **Negotiating and reaching agreement were equally difficult.:** This changes concessive as into a comparison of degrees of difficulty.
@@ -3107,14 +3107,14 @@ ___ the consultant's advice to postpone, the organizers confirmed the original d
 3. For the purpose of
 4. Notwithstanding **[Correct]**
 
-**Explanation:** Notwithstanding means despite and highlights that the decision runs against the advice.
+**Explanation:** 'Notwithstanding' means 'despite' and highlights that the decision runs against the advice.
 
 **Choice feedback:**
 
 - **In accordance with:** In accordance with would say the decision followed the advice, but the advice was to postpone.
 - **As a consequence of:** As a consequence of treats the advice as a cause rather than explicitly conceding its contrary direction.
 - **For the purpose of:** For the purpose of gives an intended goal, not an acknowledged contrary recommendation.
-- **Notwithstanding:** Notwithstanding means despite and highlights that the decision runs against the advice.
+- **Notwithstanding:** 'Notwithstanding' means 'despite' and highlights that the decision runs against the advice.
 
 **Decision:** replaced.
 
@@ -3139,13 +3139,13 @@ Choose the interpretation preserving the limited exception.
 3. The revised version replaces the original text with a glossary.
 4. The versions will become identical after the glossary is added.
 
-**Explanation:** Save that means except that and isolates the added glossary as the stated difference.
+**Explanation:** 'Save that' means 'except that' and isolates the added glossary as the stated difference.
 
 **Choice feedback:**
 
 - **The versions differ throughout because a glossary was added.:** Save that limits the difference rather than extending it throughout the versions.
-- **The glossary is presented as the exception to their identity.:** Save that means except that and isolates the added glossary as the stated difference.
-- **The revised version replaces the original text with a glossary.:** Includes does not mean replaces; the other text remains identical according to the statement.
+- **The glossary is presented as the exception to their identity.:** 'Save that' means 'except that' and isolates the added glossary as the stated difference.
+- **The revised version replaces the original text with a glossary.:** 'Includes' does not mean 'replaces'; the other text remains identical according to the statement.
 - **The versions will become identical after the glossary is added.:** The sentence compares existing versions and reports no future step toward identity.
 
 **Decision:** replaced.
@@ -3207,7 +3207,7 @@ Choose what the whether-clause does in the sentence.
 
 **Choice feedback:**
 
-- **It states that the evidence justified a second trial.:** Whether introduces the issue for debate, not an assertion of the positive answer.
+- **It states that the evidence justified a second trial.:** 'Whether' introduces the issue for debate, not an assertion of the positive answer.
 - **It gives the cause of holding a second trial.:** The sentence reports discussion and does not report a second trial being held.
 - **It identifies an unresolved question that the panel discussed.:** The clause supplies the content of the debate as an open yes-or-no issue.
 - **It sets a condition that automatically requires another trial.:** This is an embedded question, not a rule stating a sufficient condition for a trial.
@@ -3308,7 +3308,7 @@ Choose the paraphrase preserving the unwanted outcome in the lest-clause.
 **Choice feedback:**
 
 - **The editor retained it to avoid making the conclusion seem unjustifiably strong.:** The unwanted outcome is an impression of excessive strength; retaining the qualification is intended to prevent it.
-- **The editor retained it because the conclusion had already been proved too strong.:** Lest expresses prevention of a possible appearance, not a finding already proved.
+- **The editor retained it because the conclusion had already been proved too strong.:** 'Lest' expresses prevention of a possible appearance, not a finding already proved.
 - **The editor retained it to make the conclusion seem more forceful.:** This promotes the outcome the editor intended to prevent.
 - **The editor retained it despite knowing the conclusion could not seem too strong.:** This turns a feared risk into a denied possibility and changes prevention into concession.
 
@@ -3335,13 +3335,13 @@ Choose the interpretation that preserves the writer's acceptance of a premise wh
 3. The archive's incompleteness weakens the proposed inference from missing documentation. **[Correct]**
 4. The missing record caused the whole archive to become incomplete.
 
-**Explanation:** Given that adopts incompleteness as a premise; the main clause limits what a missing record can establish on its own.
+**Explanation:** 'Given that' adopts incompleteness as a premise; the main clause limits what a missing record can establish on its own.
 
 **Choice feedback:**
 
 - **The archive's incompleteness proves the transaction occurred.:** Failure to prove nonoccurrence does not prove occurrence.
 - **The writer merely hypothesizes that the archive might be incomplete.:** Given that presents incompleteness as accepted for this argument, rather than marking it as a mere possibility.
-- **The archive's incompleteness weakens the proposed inference from missing documentation.:** Given that adopts incompleteness as a premise; the main clause limits what a missing record can establish on its own.
+- **The archive's incompleteness weakens the proposed inference from missing documentation.:** 'Given that' adopts incompleteness as a premise; the main clause limits what a missing record can establish on its own.
 - **The missing record caused the whole archive to become incomplete.:** The relationship concerns evidential support, not a claim about how the archive became incomplete.
 
 **Decision:** replaced.
@@ -3758,7 +3758,7 @@ Choose the interpretation preserving the intensifying role of the because-clause
 - **Independent checking is presented as the mechanism that caused the error.:** The because-clause explains the degree of concern, not the physical or procedural cause of the error.
 - **Independent checking makes the writer less concerned about the error.:** All the more explicitly intensifies concern rather than reducing it.
 - **Prior checking strengthens the reason for concern because the error is harder to explain away.:** The clause gives a reason for the writer's stronger evaluation: the error persisted despite a safeguard.
-- **The writer is uncertain whether the figures were checked.:** Had already been checked is presented as an established fact in the explanation.
+- **The writer is uncertain whether the figures were checked.:** 'Had already been checked' is presented as an established fact in the explanation.
 
 **Decision:** replaced.
 

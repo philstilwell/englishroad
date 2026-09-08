@@ -27,9 +27,9 @@ const languageGuides = {
     "purpose": "Review your English grammar and vocabulary. This is practice, not an official test or an assessment of your overall English level.",
     "functionText": "Answer 25 multiple-choice questions. The report shows your correct answers and topics to practice. Practice bands are approximate labels, not examination scores. You can continue to 50 questions for a more detailed practice suggestion.",
     "steps": [
-      "Choose an answer and click Check answer.",
-      "Read the explanation, then click Next question.",
-      "Check the save status. Use Delete my data any time to clear this browser.",
+      "Choose an answer and click “Check answer”.",
+      "Read the explanation, then click “Next question”.",
+      "Check the save status. Use “Delete my data” any time to clear this browser.",
       "After 25 answers, copy your activity report or choose a topic for more practice."
     ]
   },
@@ -38,9 +38,9 @@ const languageGuides = {
     "purpose": "英語の文法と語彙を復習します。これは練習用であり、公式試験や総合的な英語力の判定ではありません。",
     "functionText": "25問の選択問題に答えます。レポートには正解数と練習する項目が表示されます。練習の段階はおおよその目安であり、試験スコアではありません。 より詳しい練習の目安を得るため、50問まで続けることもできます。",
     "steps": [
-      "答えを選び、Check answer を押します。",
-      "説明を読んで、Next question を押します。",
-      "保存状況を確認してください。Delete my data で、このブラウザのデータをいつでも削除できます。",
+      "答えを選び、“Check answer” を押します。",
+      "説明を読んで、“Next question” を押します。",
+      "保存状況を確認してください。“Delete my data” で、このブラウザのデータをいつでも削除できます。",
       "25問の後、学習レポートをコピーするか、項目を選んで練習を続けられます。"
     ]
   },
@@ -49,9 +49,9 @@ const languageGuides = {
     "purpose": "复习英语语法和词汇。这是练习，不是正式考试，也不是对综合英语水平的评估。",
     "functionText": "回答25道选择题。报告显示答对的题数和可以继续练习的主题。练习等级只是大致标签，不是考试成绩。 你也可以继续答到50题，获得更详细的练习建议。",
     "steps": [
-      "选择答案，然后点击 Check answer。",
-      "阅读解释，然后点击 Next question。",
-      "检查保存状态。你可以随时用 Delete my data 删除此浏览器中的数据。",
+      "选择答案，然后点击 “Check answer”。",
+      "阅读解释，然后点击 “Next question”。",
+      "检查保存状态。你可以随时用 “Delete my data” 删除此浏览器中的数据。",
       "回答25题后，可以复制练习报告或选择一个主题继续练习。"
     ]
   },
@@ -60,9 +60,9 @@ const languageGuides = {
     "purpose": "Repasa gramática y vocabulario en inglés. Es una práctica, no un examen oficial ni una evaluación de tu nivel general de inglés.",
     "functionText": "Responde 25 preguntas de opción múltiple. El informe muestra tus aciertos y temas para practicar. Las bandas de práctica son orientativas, no puntuaciones de examen. Puedes continuar hasta 50 preguntas para obtener una sugerencia de práctica más detallada.",
     "steps": [
-      "Elige una respuesta y pulsa Check answer.",
-      "Lee la explicación y pulsa Next question.",
-      "Comprueba el estado del guardado. Puedes usar Delete my data para borrar los datos de este navegador en cualquier momento.",
+      "Elige una respuesta y pulsa “Check answer”.",
+      "Lee la explicación y pulsa “Next question”.",
+      "Comprueba el estado del guardado. Puedes usar “Delete my data” para borrar los datos de este navegador en cualquier momento.",
       "Después de 25 respuestas, copia el informe de la actividad o elige un tema para seguir practicando."
     ]
   },
@@ -71,9 +71,9 @@ const languageGuides = {
     "purpose": "Revise gramática e vocabulário em inglês. Esta é uma atividade de prática, não um exame oficial nem uma avaliação do seu nível geral de inglês.",
     "functionText": "Responda a 25 perguntas de múltipla escolha. O relatório mostra seus acertos e temas para praticar. As faixas de prática são aproximadas, não notas de exames. Você pode continuar até 50 perguntas para receber uma sugestão de prática mais detalhada.",
     "steps": [
-      "Escolha uma resposta e clique em Check answer.",
-      "Leia a explicação e clique em Next question.",
-      "Verifique o estado do salvamento. Você pode usar Delete my data para apagar os dados deste navegador a qualquer momento.",
+      "Escolha uma resposta e clique em “Check answer”.",
+      "Leia a explicação e clique em “Next question”.",
+      "Verifique o estado do salvamento. Você pode usar “Delete my data” para apagar os dados deste navegador a qualquer momento.",
       "Depois de 25 respostas, copie o relatório da atividade ou escolha um tema para continuar praticando."
     ]
   },
@@ -82,9 +82,9 @@ const languageGuides = {
     "purpose": "Powtórz angielską gramatykę i słownictwo. To ćwiczenie, a nie oficjalny egzamin ani ocena ogólnego poziomu angielskiego.",
     "functionText": "Odpowiedz na 25 pytań wielokrotnego wyboru. Raport pokazuje poprawne odpowiedzi i tematy do ćwiczeń. Poziomy ćwiczeń są orientacyjne i nie są wynikami egzaminów. Możesz kontynuować do 50 pytań, aby otrzymać bardziej szczegółową sugestię dalszych ćwiczeń.",
     "steps": [
-      "Wybierz odpowiedź i kliknij Check answer.",
-      "Przeczytaj wyjaśnienie i kliknij Next question.",
-      "Sprawdź stan zapisu. Możesz użyć Delete my data, aby w każdej chwili usunąć dane z tej przeglądarki.",
+      "Wybierz odpowiedź i kliknij “Check answer”.",
+      "Przeczytaj wyjaśnienie i kliknij “Next question”.",
+      "Sprawdź stan zapisu. Możesz użyć “Delete my data”, aby w każdej chwili usunąć dane z tej przeglądarki.",
       "Po 25 odpowiedziach skopiuj raport z ćwiczenia lub wybierz temat do dalszej nauki."
     ]
   },
@@ -93,9 +93,9 @@ const languageGuides = {
     "purpose": "영어 문법과 어휘를 복습하세요. 이 활동은 연습이며, 공식 시험이나 종합적인 영어 수준 평가가 아닙니다.",
     "functionText": "객관식 25문제에 답합니다. 보고서는 맞힌 문제 수와 연습할 주제를 보여 줍니다. 연습 단계는 대략적인 구분이며 시험 점수가 아닙니다. 더 자세한 연습 제안을 받으려면 50문제까지 계속할 수 있습니다.",
     "steps": [
-      "답을 고르고 Check answer를 누르세요.",
-      "설명을 읽고 Next question을 누르세요.",
-      "저장 상태를 확인하세요. Delete my data로 이 브라우저의 데이터를 언제든지 삭제할 수 있습니다.",
+      "답을 고르고 “Check answer”를 누르세요.",
+      "설명을 읽고 “Next question”을 누르세요.",
+      "저장 상태를 확인하세요. “Delete my data”로 이 브라우저의 데이터를 언제든지 삭제할 수 있습니다.",
       "25문제 후 활동 보고서를 복사하거나 주제를 골라 연습을 계속하세요."
     ]
   },
@@ -104,9 +104,9 @@ const languageGuides = {
     "purpose": "Révisez la grammaire et le vocabulaire anglais. Cette activité est un entraînement, pas un examen officiel ni une évaluation de votre niveau général d’anglais.",
     "functionText": "Répondez à 25 questions à choix multiple. Le rapport indique vos bonnes réponses et les thèmes à travailler. Les catégories de pratique sont approximatives, pas des scores d’examen. Vous pouvez poursuivre jusqu’à 50 questions pour obtenir une suggestion de pratique plus détaillée.",
     "steps": [
-      "Choisissez une réponse et cliquez sur Check answer.",
-      "Lisez l’explication, puis cliquez sur Next question.",
-      "Vérifiez l’état de l’enregistrement. Vous pouvez utiliser Delete my data pour supprimer à tout moment les données de ce navigateur.",
+      "Choisissez une réponse et cliquez sur “Check answer”.",
+      "Lisez l’explication, puis cliquez sur “Next question”.",
+      "Vérifiez l’état de l’enregistrement. Vous pouvez utiliser “Delete my data” pour supprimer à tout moment les données de ce navigateur.",
       "Après 25 réponses, copiez le rapport de l’activité ou choisissez un thème pour continuer à vous entraîner."
     ]
   },
@@ -115,9 +115,9 @@ const languageGuides = {
     "purpose": "ఆంగ్ల వ్యాకరణం మరియు పదజాలాన్ని అభ్యసించండి. ఇది సాధన మాత్రమే; అధికారిక పరీక్ష లేదా మీ మొత్తం ఆంగ్ల స్థాయి అంచనా కాదు.",
     "functionText": "25 బహుళ ఎంపిక ప్రశ్నలకు సమాధానం ఇవ్వండి. నివేదిక మీ సరైన సమాధానాలను, సాధన చేయాల్సిన అంశాలను చూపిస్తుంది. సాధన స్థాయులు సుమారు సూచనలు మాత్రమే; పరీక్ష స్కోర్లు కావు. మరింత వివరమైన సాధన సూచన కోసం 50 ప్రశ్నల వరకు కొనసాగించవచ్చు.",
     "steps": [
-      "ఒక సమాధానం ఎంచుకొని Check answer నొక్కండి.",
-      "వివరణ చదివి Next question నొక్కండి.",
-      "సేవ్ స్థితిని తనిఖీ చేయండి. Delete my data తో, ఈ బ్రౌజర్‌లోని డేటాను ఎప్పుడైనా తొలగించవచ్చు.",
+      "ఒక సమాధానం ఎంచుకొని “Check answer” నొక్కండి.",
+      "వివరణ చదివి “Next question” నొక్కండి.",
+      "సేవ్ స్థితిని తనిఖీ చేయండి. “Delete my data” తో, ఈ బ్రౌజర్‌లోని డేటాను ఎప్పుడైనా తొలగించవచ్చు.",
       "25 సమాధానాల తర్వాత, సాధన నివేదికను కాపీ చేయండి లేదా మరింత సాధన కోసం ఒక అంశాన్ని ఎంచుకోండి."
     ]
   }

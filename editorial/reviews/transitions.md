@@ -19,14 +19,14 @@ Choose the word that introduces the reason for taking a taxi.
 3. or
 4. because **[Correct]**
 
-**Explanation:** Because introduces the car problem as the reason for the taxi journey.
+**Explanation:** 'Because' introduces the car problem as the reason for the taxi journey.
 
 **Choice feedback:**
 
 - **but:** But marks contrast rather than explaining the taxi choice.
 - **so:** So would present the car's location as a result of taking the taxi.
 - **or:** Or offers alternatives; these are a journey and its reason.
-- **because:** Because introduces the car problem as the reason for the taxi journey.
+- **because:** 'Because' introduces the car problem as the reason for the taxi journey.
 
 **Decision:** replaced.
 
@@ -58,7 +58,7 @@ Which word joins the two required documents?
 - **or:** Or would offer an alternative instead of requiring both.
 - **and:** And joins the passport and work permit as two required items.
 - **but:** But introduces contrast, not a straightforward list of documents.
-- **because:** Because needs a reason clause here, not just the second document name.
+- **because:** 'Because' needs a reason clause here, not just the second document name.
 
 **Decision:** replaced.
 
@@ -90,7 +90,7 @@ Choose the word that marks a contrast between the price and the purchase.
 - **because:** Because would make buying it the reason for its price.
 - **so:** So would make the purchase an expected result of the high price.
 - **but:** But presents the purchase as contrasting with the possible reason not to buy it.
-- **when:** When links times rather than explicitly marking the requested contrast.
+- **when:** 'When' links times rather than explicitly marking the requested contrast.
 
 **Decision:** replaced.
 
@@ -115,14 +115,14 @@ Which sentence preserves that reason and result?
 3. We went home before the shop closed.
 4. The shop was closed, so we went home. **[Correct]**
 
-**Explanation:** So introduces going home as the result of finding the shop closed.
+**Explanation:** 'So' introduces going home as the result of finding the shop closed.
 
 **Choice feedback:**
 
 - **We went home, so the shop was closed.:** This reverses the stated cause and result.
 - **The shop was closed because we went home.:** This makes going home the reason for closure.
 - **We went home before the shop closed.:** This gives a time order that differs from finding the shop closed.
-- **The shop was closed, so we went home.:** So introduces going home as the result of finding the shop closed.
+- **The shop was closed, so we went home.:** 'So' introduces going home as the result of finding the shop closed.
 
 **Decision:** replaced.
 
@@ -151,7 +151,7 @@ Which action comes second?
 
 **Choice feedback:**
 
-- **Buying the ticket:** Buying is the first stated action, before then.
+- **Buying the ticket:** Buying is the first stated action, before 'then'.
 - **Both happen at the same time:** Then marks a later action, not simultaneous actions.
 - **Going to the platform:** Then places going to the platform after buying the ticket.
 - **The order is not given:** Then supplies the order between the two actions.
@@ -185,7 +185,7 @@ Which word presents the two choices?
 
 - **and:** And joins items rather than marking the requested choice between them.
 - **or:** Or presents tea and coffee as alternatives in this one-drink instruction.
-- **because:** Because introduces a reason, not a pair of drink choices.
+- **because:** 'Because' introduces a reason, not a pair of drink choices.
 - **then:** Then would suggest an order of drinks, not one choice.
 
 **Decision:** replaced.
@@ -275,14 +275,14 @@ Which event tells the listener when to send the text?
 3. Leaving the hotel the next day
 4. Arrival at the hotel **[Correct]**
 
-**Explanation:** When links the text to reaching the hotel, which provides the time trigger.
+**Explanation:** 'When' links the text to reaching the hotel, which provides the time trigger.
 
 **Choice feedback:**
 
 - **Departure from home:** That is a different stage of the journey.
 - **Booking the hotel room:** Booking is not the event named in the when-clause.
 - **Leaving the hotel the next day:** The instruction names arrival, not departure.
-- **Arrival at the hotel:** When links the text to reaching the hotel, which provides the time trigger.
+- **Arrival at the hotel:** 'When' links the text to reaching the hotel, which provides the time trigger.
 
 **Decision:** replaced.
 
@@ -376,7 +376,7 @@ Choose the marker for the opening step.
 **Choice feedback:**
 
 - **After that:** After that refers back to an earlier step, but this is the opening one.
-- **Again:** Again signals repetition, not the beginning of this sequence.
+- **Again:** 'Again' signals repetition, not the beginning of this sequence.
 - **First:** First begins the ordered sequence that next and finally continue.
 - **Finally:** Finally would wrongly mark the opening as the last step.
 
@@ -439,7 +439,7 @@ Which word marks the last packing action?
 
 **Choice feedback:**
 
-- **Because:** Because introduces a reason clause, not a final stage before this comma.
+- **Because:** 'Because' introduces a reason clause, not a final stage before this comma.
 - **First:** First would put the action at the beginning rather than the end.
 - **Finally:** Finally marks adding the address as the closing action in the packing sequence.
 - **Or:** Or offers an alternative rather than a final action.
@@ -467,14 +467,14 @@ What information does the second speaker add?
 3. The second speaker does not work on Saturdays.
 4. The second speaker works because the first speaker does.
 
-**Explanation:** Too links the second person's habit to the same habit already mentioned.
+**Explanation:** 'Too' links the second person's habit to the same habit already mentioned.
 
 **Choice feedback:**
 
-- **The second speaker also works on Saturdays.:** Too links the second person's habit to the same habit already mentioned.
+- **The second speaker also works on Saturdays.:** 'Too' links the second person's habit to the same habit already mentioned.
 - **The first speaker works on Sundays as well.:** Too adds the second person's matching habit, not another day for the first.
-- **The second speaker does not work on Saturdays.:** Too expresses a matching positive statement, not a negative.
-- **The second speaker works because the first speaker does.:** Too marks shared information, not a cause.
+- **The second speaker does not work on Saturdays.:** 'Too' expresses a matching positive statement, not a negative.
+- **The second speaker works because the first speaker does.:** 'Too' marks shared information, not a cause.
 
 **Decision:** replaced.
 
@@ -499,14 +499,14 @@ How does 'now' link the final sentence to the preparation?
 3. It asks for the preparation to be repeated.
 4. It moves from completed preparation to leaving. **[Correct]**
 
-**Explanation:** Now marks the point reached after the preparation and introduces the next action.
+**Explanation:** 'Now' marks the point reached after the preparation and introduces the next action.
 
 **Choice feedback:**
 
 - **It gives the reason for buying the bags.:** The passage concerns leaving after preparation, not buying bags.
 - **It says the preparation happens tomorrow.:** The preparation is presented as complete before the proposed departure.
-- **It asks for the preparation to be repeated.:** Now moves to departure rather than repeating the checks.
-- **It moves from completed preparation to leaving.:** Now marks the point reached after the preparation and introduces the next action.
+- **It asks for the preparation to be repeated.:** 'Now' moves to departure rather than repeating the checks.
+- **It moves from completed preparation to leaving.:** 'Now' marks the point reached after the preparation and introduces the next action.
 
 **Decision:** replaced.
 
@@ -531,14 +531,14 @@ What does 'later' tell us about the lunch meeting?
 3. It caused the bank visit.
 4. It happened before the bank visit.
 
-**Explanation:** Later is relative to the bank visit; both events can still be in the past.
+**Explanation:** 'Later' is relative to the bank visit; both events can still be in the past.
 
 **Choice feedback:**
 
-- **It came after the bank visit.:** Later is relative to the bank visit; both events can still be in the past.
-- **It will happen tomorrow.:** Later does not always mean future from now; this story is about yesterday.
-- **It caused the bank visit.:** Later supplies order, not cause.
-- **It happened before the bank visit.:** Before reverses the relationship marked by later.
+- **It came after the bank visit.:** 'Later' is relative to the bank visit; both events can still be in the past.
+- **It will happen tomorrow.:** 'Later' does not always mean future from now; this story is about yesterday.
+- **It caused the bank visit.:** 'Later' supplies order, not cause.
+- **It happened before the bank visit.:** 'Before' reverses the relationship marked by 'later'.
 
 **Decision:** replaced.
 
@@ -595,12 +595,12 @@ How do apples and bananas relate to 'fruit'?
 3. They explain why the shop sells fruit.
 4. They show the order in which fruit arrives.
 
-**Explanation:** For example introduces particular members of the wider group fruit.
+**Explanation:** 'For example' introduces particular members of the wider group 'fruit'.
 
 **Choice feedback:**
 
-- **They are examples from that group.:** For example introduces particular members of the wider group fruit.
-- **They replace fruit in the shop.:** For example presents them as fruit, not replacements for it.
+- **They are examples from that group.:** 'For example' introduces particular members of the wider group 'fruit'.
+- **They replace fruit in the shop.:** 'For example' presents them as fruit, not replacements for it.
 - **They explain why the shop sells fruit.:** Named items illustrate the group; they do not give a reason for selling it.
 - **They show the order in which fruit arrives.:** No arrival sequence is given by for example.
 
@@ -663,14 +663,14 @@ Choose the transition that explicitly contrasts the location with the quiet insi
 3. In addition
 4. However **[Correct]**
 
-**Explanation:** However marks quiet inside as contrasting with the expectation created by a busy road.
+**Explanation:** 'However' marks quiet inside as contrasting with the expectation created by a busy road.
 
 **Choice feedback:**
 
 - **Therefore:** Therefore would present quiet as a result of facing the road.
 - **For example:** The quiet interior is not an example of the road's busyness.
 - **In addition:** In addition adds information without explicitly marking the requested contrast.
-- **However:** However marks quiet inside as contrasting with the expectation created by a busy road.
+- **However:** 'However' marks quiet inside as contrasting with the expectation created by a busy road.
 
 **Decision:** replaced.
 
@@ -727,12 +727,12 @@ What does 'for example' tell us about the two activities?
 3. They are reasons for cancelling the evening program.
 4. They must be taken in the order listed.
 
-**Explanation:** For example introduces selected members of a wider group without closing the list.
+**Explanation:** 'For example' introduces selected members of a wider group without closing the list.
 
 **Choice feedback:**
 
-- **They are two examples of the activities offered.:** For example introduces selected members of a wider group without closing the list.
-- **They are the complete list of available activities.:** For example gives instances, not necessarily an exhaustive list.
+- **They are two examples of the activities offered.:** 'For example' introduces selected members of a wider group without closing the list.
+- **They are the complete list of available activities.:** 'For example' gives instances, not necessarily an exhaustive list.
 - **They are reasons for cancelling the evening program.:** They illustrate the activities offered, not cancellation reasons.
 - **They must be taken in the order listed.:** An example marker does not set a timetable.
 
@@ -766,7 +766,7 @@ Choose the transition that adds another advantage without suggesting a cause.
 - **As a result:** Proximity is not presented as causing heating to be included.
 - **In addition:** In addition places included heating alongside location as another benefit.
 - **Instead:** The second advantage does not replace the first.
-- **However:** However marks opposition, not the requested addition of an advantage.
+- **However:** 'However' marks opposition, not the requested addition of an advantage.
 
 **Decision:** replaced.
 
@@ -791,13 +791,13 @@ What does 'instead' connect the cafe meal to?
 3. A second meal after cooking at home
 4. The reason the tap broke
 
-**Explanation:** Instead identifies the cafe meal as the alternative to the earlier plan.
+**Explanation:** 'Instead' identifies the cafe meal as the alternative to the earlier plan.
 
 **Choice feedback:**
 
 - **The repair of the kitchen tap:** The meal replaces cooking, not the act of repairing the tap.
-- **The plan to cook at home:** Instead identifies the cafe meal as the alternative to the earlier plan.
-- **A second meal after cooking at home:** Instead marks replacement, not an additional meal.
+- **The plan to cook at home:** 'Instead' identifies the cafe meal as the alternative to the earlier plan.
+- **A second meal after cooking at home:** 'Instead' marks replacement, not an additional meal.
 - **The reason the tap broke:** The transition does not explain the breakage.
 
 **Decision:** replaced.
@@ -855,14 +855,14 @@ Which question does the because-clause answer?
 3. Who made the incorrect booking?
 4. Why did the speaker email? **[Correct]**
 
-**Explanation:** Because introduces the wrong date as the reason for emailing.
+**Explanation:** 'Because' introduces the wrong date as the reason for emailing.
 
 **Choice feedback:**
 
 - **What did the email change?:** The clause gives the reason for writing, not the result achieved.
 - **When did the email arrive?:** It does not identify a delivery time.
 - **Who made the incorrect booking?:** The clause does not identify who made the error.
-- **Why did the speaker email?:** Because introduces the wrong date as the reason for emailing.
+- **Why did the speaker email?:** 'Because' introduces the wrong date as the reason for emailing.
 
 **Decision:** replaced.
 
@@ -887,12 +887,12 @@ Which version keeps the required order of actions?
 3. Confirm the order so that you can check the address.
 4. Check the address because you confirmed the order.
 
-**Explanation:** Before plus confirming keeps the check earlier than confirmation, just as the original clause does.
+**Explanation:** 'Before' plus 'confirming' keeps the check earlier than confirmation, just as the original clause does.
 
 **Choice feedback:**
 
 - **Check the address while you are confirming the order.:** While permits overlap rather than requiring the check beforehand.
-- **Before confirming the order, check the delivery address.:** Before plus confirming keeps the check earlier than confirmation, just as the original clause does.
+- **Before confirming the order, check the delivery address.:** 'Before' plus 'confirming' keeps the check earlier than confirmation, just as the original clause does.
 - **Confirm the order so that you can check the address.:** This reverses the practical sequence and introduces a purpose.
 - **Check the address because you confirmed the order.:** That makes confirmation already completed and gives a reason instead.
 
@@ -919,14 +919,14 @@ What timing does 'after' establish?
 3. Renewal came later than reopening. **[Correct]**
 4. Renewal and reopening began together.
 
-**Explanation:** After orders the events but does not by itself say how soon renewal followed.
+**Explanation:** 'After' orders the events but does not by itself say how soon renewal followed.
 
 **Choice feedback:**
 
 - **Renewal happened the instant the doors opened.:** Immediate timing would need a stronger expression such as as soon as.
 - **Renewal caused the reopening.:** A time sequence does not itself express that causal claim.
-- **Renewal came later than reopening.:** After orders the events but does not by itself say how soon renewal followed.
-- **Renewal and reopening began together.:** After puts renewal later rather than at the same starting point.
+- **Renewal came later than reopening.:** 'After' orders the events but does not by itself say how soon renewal followed.
+- **Renewal and reopening began together.:** 'After' puts renewal later rather than at the same starting point.
 
 **Decision:** replaced.
 
@@ -1015,12 +1015,12 @@ What relationship does 'so that' express here?
 3. Large letters are an example of his reading.
 4. He read it before the writing was finished.
 
-**Explanation:** So that plus could expresses the intended result of writing large letters; purpose does not by itself prove success.
+**Explanation:** 'So that' plus 'could' expresses the intended result of writing large letters; purpose does not by itself prove success.
 
 **Choice feedback:**
 
 - **His reading caused the large writing.:** This reverses the direction and treats the intended benefit as an earlier cause.
-- **His being able to read it was the purpose.:** So that plus could expresses the intended result of writing large letters; purpose does not by itself prove success.
+- **His being able to read it was the purpose.:** 'So that' plus 'could' expresses the intended result of writing large letters; purpose does not by itself prove success.
 - **Large letters are an example of his reading.:** The second clause gives the intended benefit, not an example.
 - **He read it before the writing was finished.:** The sentence does not establish that timing.
 
@@ -1079,14 +1079,14 @@ Which interpretation preserves 'such as'?
 3. A sweater is one suitable example. **[Correct]**
 4. Only a sweater meets the request.
 
-**Explanation:** Such as introduces an example; another suitable warm item may also meet the request.
+**Explanation:** 'Such as' introduces an example; another suitable warm item may also meet the request.
 
 **Choice feedback:**
 
 - **A sweater is required in addition to a warm item.:** The sweater is a member of the warm-item category, not an extra category.
 - **A sweater is unsuitable for this purpose.:** The phrase offers it as suitable, not excluded.
-- **A sweater is one suitable example.:** Such as introduces an example; another suitable warm item may also meet the request.
-- **Only a sweater meets the request.:** Such as does not make the example an exhaustive requirement.
+- **A sweater is one suitable example.:** 'Such as' introduces an example; another suitable warm item may also meet the request.
+- **Only a sweater meets the request.:** 'Such as' does not make the example an exhaustive requirement.
 
 **Decision:** replaced.
 
@@ -1111,13 +1111,13 @@ How does 'besides' link the final point?
 3. It adds another reason to take the train. **[Correct]**
 4. It gives an example of expensive parking.
 
-**Explanation:** Besides introduces a further supporting reason, here a preference against driving.
+**Explanation:** 'Besides' introduces a further supporting reason, here a preference against driving.
 
 **Choice feedback:**
 
 - **It explains why parking prices increased.:** The speaker's preference does not explain the parking price.
 - **It replaces the concern about parking.:** The preference adds to the cost concern rather than withdrawing it.
-- **It adds another reason to take the train.:** Besides introduces a further supporting reason, here a preference against driving.
+- **It adds another reason to take the train.:** 'Besides' introduces a further supporting reason, here a preference against driving.
 - **It gives an example of expensive parking.:** A wish not to drive is not an example of a parking price.
 
 **Decision:** replaced.
@@ -1147,7 +1147,7 @@ When is the suggested waiting period?
 
 **Choice feedback:**
 
-- **Before the mechanic starts the inspection:** In the meantime refers to the period while the inspection is taking place.
+- **Before the mechanic starts the inspection:** 'In the meantime' refers to the period while the inspection is taking place.
 - **Only after the car is ready:** That would be after the waiting period described.
 - **During the inspection:** In the meantime introduces an activity in the interval occupied by another ongoing event.
 - **At the next scheduled inspection:** The suggestion concerns the current inspection, not a later appointment.
@@ -1175,11 +1175,11 @@ What does 'finally' mark here?
 3. A result caused by the parking instructions
 4. A correction to the entrance information
 
-**Explanation:** Finally can close a list of instructions without saying the real-world action must happen last.
+**Explanation:** 'Finally' can close a list of instructions without saying the real-world action must happen last.
 
 **Choice feedback:**
 
-- **The last point in the message:** Finally can close a list of instructions without saying the real-world action must happen last.
+- **The last point in the message:** 'Finally' can close a list of instructions without saying the real-world action must happen last.
 - **The last action to perform after entering:** The text position alone does not make bringing ID an action after entry.
 - **A result caused by the parking instructions:** The ID request is another point, not an effect of parking advice.
 - **A correction to the entrance information:** Nothing retracts or changes the entrance instructions.
@@ -1207,14 +1207,14 @@ Which connection does 'while' make in this sentence?
 3. The radio caused the decision to cook.
 4. The speaker chose listening instead of cooking.
 
-**Explanation:** While connects the listening with the period spent cooking; their starting and ending times need not match exactly.
+**Explanation:** 'While' connects the listening with the period spent cooking; their starting and ending times need not match exactly.
 
 **Choice feedback:**
 
-- **The two activities overlapped in time.:** While connects the listening with the period spent cooking; their starting and ending times need not match exactly.
-- **Cooking finished before the listening began.:** While places listening during cooking, not wholly after it.
+- **The two activities overlapped in time.:** 'While' connects the listening with the period spent cooking; their starting and ending times need not match exactly.
+- **Cooking finished before the listening began.:** 'While' places listening during cooking, not wholly after it.
 - **The radio caused the decision to cook.:** The sentence links time rather than giving a cause.
-- **The speaker chose listening instead of cooking.:** While allows both activities rather than replacing one with the other.
+- **The speaker chose listening instead of cooking.:** 'While' allows both activities rather than replacing one with the other.
 
 **Decision:** replaced.
 
@@ -1239,14 +1239,14 @@ Which version preserves the stated plan and exception?
 3. We will use the terrace after the rain begins.
 4. If it does not rain, we will use the terrace. **[Correct]**
 
-**Explanation:** Unless introduces the rain exception; if it does not rain preserves the stated default plan.
+**Explanation:** 'Unless' introduces the rain exception; 'if it does not rain' preserves the stated default plan.
 
 **Choice feedback:**
 
 - **We will use the terrace only when it rains.:** This makes rain the condition for terrace use instead of the exception.
 - **We will use the terrace because it is raining.:** Rain becomes an actual reason, which changes the conditional plan.
 - **We will use the terrace after the rain begins.:** That changes the exception into a starting time.
-- **If it does not rain, we will use the terrace.:** Unless introduces the rain exception; if it does not rain preserves the stated default plan.
+- **If it does not rain, we will use the terrace.:** 'Unless' introduces the rain exception; 'if it does not rain' preserves the stated default plan.
 
 **Decision:** replaced.
 
@@ -1271,14 +1271,14 @@ Which summary preserves the link made by 'as well'?
 3. Pronunciation work happens only after conversation practice.
 4. Both conversation and pronunciation are included. **[Correct]**
 
-**Explanation:** As well links pronunciation as another included component alongside conversation practice.
+**Explanation:** 'As well' links pronunciation as another included component alongside conversation practice.
 
 **Choice feedback:**
 
-- **Pronunciation work replaces conversation practice.:** As well adds pronunciation rather than replacing the first activity.
+- **Pronunciation work replaces conversation practice.:** 'As well' adds pronunciation rather than replacing the first activity.
 - **Conversation practice is an example of pronunciation work.:** The text presents two components, not one as an example of the other.
-- **Pronunciation work happens only after conversation practice.:** As well does not set their time order.
-- **Both conversation and pronunciation are included.:** As well links pronunciation as another included component alongside conversation practice.
+- **Pronunciation work happens only after conversation practice.:** 'As well' does not set their time order.
+- **Both conversation and pronunciation are included.:** 'As well' links pronunciation as another included component alongside conversation practice.
 
 **Decision:** replaced.
 
@@ -1307,14 +1307,14 @@ Which version preserves the contrast?
 3. The festival went ahead so that the hall would need repairs.
 4. Despite the need for repairs, the festival went ahead in the hall. **[Correct]**
 
-**Explanation:** Despite takes the noun phrase the need for repairs and preserves the concession expressed by although plus a clause.
+**Explanation:** 'Despite' takes the noun phrase 'the need for repairs' and preserves the concession expressed by 'although' plus a clause.
 
 **Choice feedback:**
 
 - **Because the hall needed repairs, the festival went ahead there.:** Because changes the repair problem into a reason for proceeding.
 - **Once the hall needed repairs, the festival went ahead there.:** Once gives a time or triggering condition instead of contrast.
 - **The festival went ahead so that the hall would need repairs.:** So that introduces an intended outcome that reverses the relationship.
-- **Despite the need for repairs, the festival went ahead in the hall.:** Despite takes the noun phrase the need for repairs and preserves the concession expressed by although plus a clause.
+- **Despite the need for repairs, the festival went ahead in the hall.:** 'Despite' takes the noun phrase 'the need for repairs' and preserves the concession expressed by 'although' plus a clause.
 
 **Decision:** replaced.
 
@@ -1403,14 +1403,14 @@ Which replacement for 'since' preserves its role here?
 3. Because **[Correct]**
 4. Until
 
-**Explanation:** Since supplies the reason for booking a taxi; because preserves that causal use rather than a from-then-to-now meaning.
+**Explanation:** 'Since' supplies the reason for booking a taxi; 'because' preserves that causal use rather than a from-then-to-now meaning.
 
 **Choice feedback:**
 
 - **From the time when:** That temporal reading would require a continuing interval, not the stated reason for a recommendation.
 - **Even though:** Even though changes the missed train into a contrasting circumstance.
-- **Because:** Since supplies the reason for booking a taxi; because preserves that causal use rather than a from-then-to-now meaning.
-- **Until:** Until introduces an endpoint, not a reason for the advice.
+- **Because:** 'Since' supplies the reason for booking a taxi; 'because' preserves that causal use rather than a from-then-to-now meaning.
+- **Until:** 'Until' introduces an endpoint, not a reason for the advice.
 
 **Decision:** replaced.
 
@@ -1499,14 +1499,14 @@ Choose the phrase that gives the failure as the reason for the move.
 3. in addition to
 4. because of **[Correct]**
 
-**Explanation:** Because of introduces the noun phrase naming the cause of the move.
+**Explanation:** 'Because of' introduces the noun phrase naming the cause of the move.
 
 **Choice feedback:**
 
 - **in spite of:** In spite of would make the failure an obstacle overcome, not the stated cause.
 - **instead of:** Instead of marks replacement; a move does not replace the failure in the intended sense.
 - **in addition to:** In addition to adds a parallel matter without expressing the causal link.
-- **because of:** Because of introduces the noun phrase naming the cause of the move.
+- **because of:** 'Because of' introduces the noun phrase naming the cause of the move.
 
 **Decision:** replaced.
 
@@ -1531,14 +1531,14 @@ Which account keeps the direction of the explanation?
 3. The delay was intended to obtain another address.
 4. The missing address caused the delay. **[Correct]**
 
-**Explanation:** Due to names the cause after the result; the active paraphrase preserves that relationship.
+**Explanation:** 'Due to' names the cause after the result; the active paraphrase preserves that relationship.
 
 **Choice feedback:**
 
 - **The address went missing as a result of the delay.:** That reverses cause and effect.
 - **The delay happened before the address was removed.:** This adds a removal event and substitutes a time relation.
 - **The delay was intended to obtain another address.:** Due to gives a cause, not a purpose.
-- **The missing address caused the delay.:** Due to names the cause after the result; the active paraphrase preserves that relationship.
+- **The missing address caused the delay.:** 'Due to' names the cause after the result; the active paraphrase preserves that relationship.
 
 **Decision:** replaced.
 
@@ -1563,13 +1563,13 @@ What relation does 'as' establish?
 3. The action must happen during the demonstration.
 4. The demonstration is an alternative to doing the task.
 
-**Explanation:** As links the action to a model of how to perform it; this is manner, not cause or time.
+**Explanation:** 'As' links the action to a model of how to perform it; this is manner, not cause or time.
 
 **Choice feedback:**
 
-- **The demonstration supplies the manner to follow.:** As links the action to a model of how to perform it; this is manner, not cause or time.
+- **The demonstration supplies the manner to follow.:** 'As' links the action to a model of how to perform it; this is manner, not cause or time.
 - **The demonstration caused the old sheet to be printed.:** The clause does not explain the sheet's origin.
-- **The action must happen during the demonstration.:** Demonstrated refers to an earlier model, not simultaneous activity.
+- **The action must happen during the demonstration.:** 'Demonstrated' refers to an earlier model, not simultaneous activity.
 - **The demonstration is an alternative to doing the task.:** It supplies a model for the task rather than replacing it.
 
 **Decision:** replaced.
@@ -1595,14 +1595,14 @@ Which interpretation fits the link made by 'once'?
 3. Drying and replacing must begin together.
 4. Shelf replacement becomes possible after the paint dries. **[Correct]**
 
-**Explanation:** Once marks reaching a state that permits the next action; here dryness comes before replacement.
+**Explanation:** 'Once' marks reaching a state that permits the next action; here dryness comes before replacement.
 
 **Choice feedback:**
 
-- **The shelves must be replaced one time only.:** Once introduces a clause here; it does not count replacements.
+- **The shelves must be replaced one time only.:** 'Once' introduces a clause here; it does not count replacements.
 - **Replacing the shelves makes the paint dry.:** That reverses the relationship between readiness and action.
-- **Drying and replacing must begin together.:** Once the paint is dry places replacement after the required state is reached.
-- **Shelf replacement becomes possible after the paint dries.:** Once marks reaching a state that permits the next action; here dryness comes before replacement.
+- **Drying and replacing must begin together.:** 'Once the paint is dry' places replacement after the required state is reached.
+- **Shelf replacement becomes possible after the paint dries.:** 'Once' marks reaching a state that permits the next action; here dryness comes before replacement.
 
 **Decision:** replaced.
 
@@ -1723,13 +1723,13 @@ How does 'in fact' relate the second sentence to the first?
 3. It corrects the speaker's earlier belief. **[Correct]**
 4. It describes a later reopening.
 
-**Explanation:** In fact introduces information that replaces the mistaken 1990 date with 1982.
+**Explanation:** 'In fact' introduces information that replaces the mistaken 1990 date with 1982.
 
 **Choice feedback:**
 
 - **It gives another example of the 1990 opening.:** A different opening year corrects the earlier belief rather than exemplifying it.
 - **It explains why the museum opened.:** A corrected date does not provide a reason for opening.
-- **It corrects the speaker's earlier belief.:** In fact introduces information that replaces the mistaken 1990 date with 1982.
+- **It corrects the speaker's earlier belief.:** 'In fact' introduces information that replaces the mistaken 1990 date with 1982.
 - **It describes a later reopening.:** First opened identifies the original opening, not a second event.
 
 **Decision:** replaced.
@@ -1819,12 +1819,12 @@ Choose the transition that presents the second point as a consequence.
 3. For instance
 4. Meanwhile
 
-**Explanation:** Therefore connects the inability to swap seats to the lack of reserve seats.
+**Explanation:** 'Therefore' connects the inability to swap seats to the lack of reserve seats.
 
 **Choice feedback:**
 
 - **Nevertheless:** Nevertheless would present the refusal as surprising despite the sold-out state.
-- **Therefore:** Therefore connects the inability to swap seats to the lack of reserve seats.
+- **Therefore:** 'Therefore' connects the inability to swap seats to the lack of reserve seats.
 - **For instance:** The refusal is not a member of a category of sold seats.
 - **Meanwhile:** Meanwhile links timing rather than the requested consequence.
 
@@ -1851,11 +1851,11 @@ Which fact does 'as a result' point back to?
 3. The existence of an online training platform
 4. The decision to organize a workshop
 
-**Explanation:** As a result links the changed format to the previous event, the flood.
+**Explanation:** 'As a result' links the changed format to the previous event, the flood.
 
 **Choice feedback:**
 
-- **The flooding of the training room:** As a result links the changed format to the previous event, the flood.
+- **The flooding of the training room:** 'As a result' links the changed format to the previous event, the flood.
 - **The workshop being scheduled for tomorrow:** The timing identifies the affected event but is not the stated cause.
 - **The existence of an online training platform:** No platform is described as the cause of the change.
 - **The decision to organize a workshop:** The original organization is not what forced the new format.
@@ -1883,14 +1883,14 @@ Which claim would go beyond the purpose link?
 3. The reason for repeating concerned possible confusion.
 4. The repetition successfully removed the listeners' confusion. **[Correct]**
 
-**Explanation:** In order to expresses purpose, not proof that the intended effect was achieved.
+**Explanation:** 'In order to' expresses purpose, not proof that the intended effect was achieved.
 
 **Choice feedback:**
 
 - **Preventing confusion was an aim of the repetition.:** In order to explicitly supplies that purpose.
 - **The repetition was intended to help listeners avoid confusion.:** This restates the preventive aim.
 - **The reason for repeating concerned possible confusion.:** The preventive purpose makes possible confusion relevant to the action.
-- **The repetition successfully removed the listeners' confusion.:** In order to expresses purpose, not proof that the intended effect was achieved.
+- **The repetition successfully removed the listeners' confusion.:** 'In order to' expresses purpose, not proof that the intended effect was achieved.
 
 **Decision:** replaced.
 
@@ -1915,12 +1915,12 @@ What does 'after all' contribute?
 3. It marks the last event in the training schedule.
 4. It announces a change from granting a chance to refusing one.
 
-**Explanation:** After all presents the first-day circumstance as a reason the listener should take into account; it need not have been explicitly mentioned earlier.
+**Explanation:** 'After all' presents the first-day circumstance as a reason the listener should take into account; it need not have been explicitly mentioned earlier.
 
 **Choice feedback:**
 
-- **It places Ren's first day after the decision.:** After all is not a chronological after phrase here.
-- **It introduces a consideration supporting another chance.:** After all presents the first-day circumstance as a reason the listener should take into account; it need not have been explicitly mentioned earlier.
+- **It places Ren's first day after the decision.:** 'After all' is not a chronological 'after' phrase here.
+- **It introduces a consideration supporting another chance.:** 'After all' presents the first-day circumstance as a reason the listener should take into account; it need not have been explicitly mentioned earlier.
 - **It marks the last event in the training schedule.:** The clause supplies a consideration supporting the request, not a final stage.
 - **It announces a change from granting a chance to refusing one.:** The second sentence supports rather than retracts the suggestion.
 
@@ -2047,13 +2047,13 @@ Which relationship is expressed by 'meanwhile'?
 3. A separate strand of work is taking place in the same period. **[Correct]**
 4. The cataloging explains why roof repairs were needed.
 
-**Explanation:** Meanwhile shifts attention to concurrent activity; exact start and finish times need not coincide.
+**Explanation:** 'Meanwhile' shifts attention to concurrent activity; exact start and finish times need not coincide.
 
 **Choice feedback:**
 
-- **Cataloging is the consequence of completing the roof.:** Meanwhile presents overlap, not a result after completion.
+- **Cataloging is the consequence of completing the roof.:** 'Meanwhile' presents overlap, not a result after completion.
 - **The volunteers are replacing the restoration team.:** The groups perform different concurrent tasks; no replacement is stated.
-- **A separate strand of work is taking place in the same period.:** Meanwhile shifts attention to concurrent activity; exact start and finish times need not coincide.
+- **A separate strand of work is taking place in the same period.:** 'Meanwhile' shifts attention to concurrent activity; exact start and finish times need not coincide.
 - **The cataloging explains why roof repairs were needed.:** No causal explanation of the roof damage is given.
 
 **Decision:** replaced.
@@ -2079,14 +2079,14 @@ Which condition does 'otherwise' refer to?
 3. Both pages are signed but submitted separately.
 4. Processing has already been delayed.
 
-**Explanation:** Otherwise means if the preceding requirement is not met; leaving either required page unsigned is enough to fail that requirement.
+**Explanation:** 'Otherwise' means if the preceding requirement is not met; leaving either required page unsigned is enough to fail that requirement.
 
 **Choice feedback:**
 
-- **The requirement to sign both pages is not met.:** Otherwise means if the preceding requirement is not met; leaving either required page unsigned is enough to fail that requirement.
+- **The requirement to sign both pages is not met.:** 'Otherwise' means if the preceding requirement is not met; leaving either required page unsigned is enough to fail that requirement.
 - **Neither page contains any personal details.:** The stated condition concerns signatures, not other details.
 - **Both pages are signed but submitted separately.:** Separate submission is not the condition named in the instruction.
-- **Processing has already been delayed.:** Delay is the possible consequence, not the condition otherwise points back to.
+- **Processing has already been delayed.:** Delay is the possible consequence, not the condition 'otherwise' points back to.
 
 **Decision:** replaced.
 
@@ -2111,11 +2111,11 @@ What does 'by comparison' establish?
 3. The two venues must be visited in the stated order.
 4. The gallery is a smaller example of the museum's collection.
 
-**Explanation:** By comparison evaluates the second case against the first; it does not make two hours short in every setting.
+**Explanation:** 'By comparison' evaluates the second case against the first; it does not make two hours short in every setting.
 
 **Choice feedback:**
 
-- **The museum provides the reference point for judging the gallery visit.:** By comparison evaluates the second case against the first; it does not make two hours short in every setting.
+- **The museum provides the reference point for judging the gallery visit.:** 'By comparison' evaluates the second case against the first; it does not make two hours short in every setting.
 - **The museum causes visitors to spend less time at the gallery.:** The transition compares visit lengths rather than explaining visitor behavior.
 - **The two venues must be visited in the stated order.:** Comparison does not prescribe an itinerary.
 - **The gallery is a smaller example of the museum's collection.:** Visit duration is compared; no collection relationship is stated.
@@ -2143,14 +2143,14 @@ How does 'consequently' function in this passage?
 3. It introduces an exception to the booking rule.
 4. It draws a conclusion from a rule and a stated case. **[Correct]**
 
-**Explanation:** Consequently can introduce an inference, here applying the booking requirement to Mara's situation, not just a physical cause's effect.
+**Explanation:** 'Consequently' can introduce an inference, here applying the booking requirement to Mara's situation, not just a physical cause's effect.
 
 **Choice feedback:**
 
 - **It explains what caused Mara to omit a booking.:** The rule supports a conclusion about entry, not a cause of her missing booking.
 - **It reports an event occurring after she entered.:** The passage concludes that she cannot enter; it does not narrate a later event.
 - **It introduces an exception to the booking rule.:** The conclusion applies the rule rather than suspends it.
-- **It draws a conclusion from a rule and a stated case.:** Consequently can introduce an inference, here applying the booking requirement to Mara's situation, not just a physical cause's effect.
+- **It draws a conclusion from a rule and a stated case.:** 'Consequently' can introduce an inference, here applying the booking requirement to Mara's situation, not just a physical cause's effect.
 
 **Decision:** replaced.
 
@@ -2335,14 +2335,14 @@ What is reversed by 'conversely'?
 3. The claim that either person can change their methods
 4. The direction of influence between the two roles **[Correct]**
 
-**Explanation:** Conversely presents influence running from trainee-related work back to the mentor, reversing who influences whom.
+**Explanation:** 'Conversely' presents influence running from trainee-related work back to the mentor, reversing who influences whom.
 
 **Choice feedback:**
 
 - **The evaluation of mentoring from useful to useless:** Both directions can be useful; no negative evaluation is stated.
 - **The order in which mentor and trainee are appointed:** The passage concerns influence, not appointments.
 - **The claim that either person can change their methods:** The second claim adds the reverse influence rather than denies change.
-- **The direction of influence between the two roles:** Conversely presents influence running from trainee-related work back to the mentor, reversing who influences whom.
+- **The direction of influence between the two roles:** 'Conversely' presents influence running from trainee-related work back to the mentor, reversing who influences whom.
 
 **Decision:** replaced.
 
@@ -2367,14 +2367,14 @@ What does 'this' gather together in the transition?
 3. A reason that guarantees the program would be complete
 4. The preceding disruptions to the event **[Correct]**
 
-**Explanation:** Despite this gathers the withdrawals and venue changes as difficulties that did not prevent the stated outcome.
+**Explanation:** 'Despite this' gathers the withdrawals and venue changes as difficulties that did not prevent the stated outcome.
 
 **Choice feedback:**
 
 - **The eventual delivery of the complete program:** That is the maintained outcome after the transition, not its antecedent.
 - **Only the fact that tickets had been sold:** Ticket sales are not the preceding disruption described.
-- **A reason that guarantees the program would be complete:** Despite marks an obstacle, not a guarantee or positive cause.
-- **The preceding disruptions to the event:** Despite this gathers the withdrawals and venue changes as difficulties that did not prevent the stated outcome.
+- **A reason that guarantees the program would be complete:** 'Despite' marks an obstacle, not a guarantee or positive cause.
+- **The preceding disruptions to the event:** 'Despite this' gathers the withdrawals and venue changes as difficulties that did not prevent the stated outcome.
 
 **Decision:** replaced.
 
@@ -2431,12 +2431,12 @@ What would changing 'namely' to 'for example' change?
 3. It would turn the second obstacle into a contrast with the first.
 4. It would make the two obstacles reasons for choosing the venue.
 
-**Explanation:** Namely identifies exactly which two are meant; for example would offer instances without the same exhaustive identification.
+**Explanation:** 'Namely' identifies exactly which two are meant; 'for example' would offer instances without the same exhaustive identification.
 
 **Choice feedback:**
 
 - **It would turn the obstacles into results of the article.:** Both phrases relate the listed matters to obstacles, not to consequences.
-- **It would present the named obstacles as examples rather than the specified two.:** Namely identifies exactly which two are meant; for example would offer instances without the same exhaustive identification.
+- **It would present the named obstacles as examples rather than the specified two.:** 'Namely' identifies exactly which two are meant; 'for example' would offer instances without the same exhaustive identification.
 - **It would turn the second obstacle into a contrast with the first.:** Neither phrase sets the list members against each other.
 - **It would make the two obstacles reasons for choosing the venue.:** Changing the marker does not reverse their unfavorable status.
 
@@ -2534,7 +2534,7 @@ Which combination explicitly compares the different schedules without claiming c
 - **The daytime course meets three times a week, whereas the evening course meets once.:** Whereas places the two schedules in explicit comparative contrast without making either cause the other.
 - **The daytime course meets three times a week because the evening course meets once.:** Because asserts a causal dependence not supplied by the schedules.
 - **The daytime course meets three times a week so that the evening course can meet once.:** So that makes the second timetable a purpose of the first.
-- **The daytime course meets three times a week unless the evening course meets once.:** Unless introduces an exception rather than comparing fixed schedules.
+- **The daytime course meets three times a week unless the evening course meets once.:** 'Unless' introduces an exception rather than comparing fixed schedules.
 
 **Decision:** replaced.
 
@@ -2595,14 +2595,14 @@ Why would 'By contrast' better express the intended comparison?
 3. The second archive is chronologically later than the first.
 4. The second arrangement differs from the first without denying its existence. **[Correct]**
 
-**Explanation:** By contrast compares independent cases; on the contrary normally rejects a preceding claim or characterization.
+**Explanation:** 'By contrast' compares independent cases; 'on the contrary' normally rejects a preceding claim or characterization.
 
 **Choice feedback:**
 
 - **The second arrangement must be a consequence of the first.:** Comparison does not establish such dependence.
 - **The second paragraph repeats the first arrangement in simpler terms.:** Donor-based and date-based arrangements are different, not paraphrases.
 - **The second archive is chronologically later than the first.:** No founding dates are supplied, and the transition compares organization.
-- **The second arrangement differs from the first without denying its existence.:** By contrast compares independent cases; on the contrary normally rejects a preceding claim or characterization.
+- **The second arrangement differs from the first without denying its existence.:** 'By contrast' compares independent cases; 'on the contrary' normally rejects a preceding claim or characterization.
 
 **Decision:** replaced.
 
@@ -2659,12 +2659,12 @@ What relation does 'for' establish between the paper and the proposed date?
 3. The dating conclusion caused the office to change its address.
 4. The address is a difficulty conceded despite the proposed date.
 
-**Explanation:** For can introduce grounds for believing a conclusion; here the new address supports the inferred timing rather than causes the historical event.
+**Explanation:** 'For' can introduce grounds for believing a conclusion; here the new address supports the inferred timing rather than causes the historical event.
 
 **Choice feedback:**
 
 - **The new address caused the writer to compose the letter.:** The clause supplies evidence for a dating inference, not a motive for writing.
-- **The address provides a reason for inferring that the letter came later.:** For can introduce grounds for believing a conclusion; here the new address supports the inferred timing rather than causes the historical event.
+- **The address provides a reason for inferring that the letter came later.:** 'For' can introduce grounds for believing a conclusion; here the new address supports the inferred timing rather than causes the historical event.
 - **The dating conclusion caused the office to change its address.:** That reverses the explanation and adds an unstated administrative event.
 - **The address is a difficulty conceded despite the proposed date.:** The address supports the proposed date instead of counting against it.
 
@@ -2691,13 +2691,13 @@ Which relationship is maintained by 'nonetheless'?
 3. Value in one respect is retained despite a limitation in another. **[Correct]**
 4. The memoir's value makes its chronological defects irrelevant to every use.
 
-**Explanation:** Nonetheless preserves the positive judgment without retracting the earlier limitation or turning it into a cause.
+**Explanation:** 'Nonetheless' preserves the positive judgment without retracting the earlier limitation or turning it into a cause.
 
 **Choice feedback:**
 
 - **Unreliable dates make the routine descriptions more accurate.:** The transition does not establish that one defect improves another aspect.
 - **The later sentence corrects the claim that dates are unreliable.:** The unreliability claim stands; a different kind of value is maintained.
-- **Value in one respect is retained despite a limitation in another.:** Nonetheless preserves the positive judgment without retracting the earlier limitation or turning it into a cause.
+- **Value in one respect is retained despite a limitation in another.:** 'Nonetheless' preserves the positive judgment without retracting the earlier limitation or turning it into a cause.
 - **The memoir's value makes its chronological defects irrelevant to every use.:** The qualified value does not erase the defect for chronological research.
 
 **Decision:** replaced.
@@ -2723,14 +2723,14 @@ What does 'rather' do here?
 3. It replaces a rejected characterization with the intended one. **[Correct]**
 4. It moderates the degree to which restoration succeeded.
 
-**Explanation:** Not X, rather Y corrects how the project should be understood; it does not necessarily report a change of project over time.
+**Explanation:** 'Not X, rather Y' corrects how the project should be understood; it does not necessarily report a change of project over time.
 
 **Choice feedback:**
 
 - **It explains why the old square was restored.:** Restoration is the characterization rejected, not the event being explained.
 - **It adds a second project alongside the restoration.:** Both clauses characterize the same redesign.
-- **It replaces a rejected characterization with the intended one.:** Not X, rather Y corrects how the project should be understood; it does not necessarily report a change of project over time.
-- **It moderates the degree to which restoration succeeded.:** Rather is a corrective transition here, not a degree adverb.
+- **It replaces a rejected characterization with the intended one.:** 'Not X, rather Y' corrects how the project should be understood; it does not necessarily report a change of project over time.
+- **It moderates the degree to which restoration succeeded.:** 'Rather' is a corrective transition here, not a degree adverb.
 
 **Decision:** replaced.
 
@@ -2784,16 +2784,16 @@ What does 'in that' introduce?
 
 1. The respect in which the arrangement is unusual **[Correct]**
 2. A hypothetical condition under which the arrangement would become unusual
-3. An exception that cancels the description unusual
+3. An exception that cancels the description 'unusual'
 4. A later event caused by the unusual arrangement
 
-**Explanation:** In that links an evaluation to the specific feature that accounts for it, not to an unrelated example.
+**Explanation:** 'In that' links an evaluation to the specific feature that accounts for it, not to an unrelated example.
 
 **Choice feedback:**
 
-- **The respect in which the arrangement is unusual:** In that links an evaluation to the specific feature that accounts for it, not to an unrelated example.
+- **The respect in which the arrangement is unusual:** 'In that' links an evaluation to the specific feature that accounts for it, not to an unrelated example.
 - **A hypothetical condition under which the arrangement would become unusual:** The selection method is stated as the actual respect in which it is unusual.
-- **An exception that cancels the description unusual:** The clause explains the description rather than cancels it.
+- **An exception that cancels the description 'unusual':** The clause explains the description rather than cancels it.
 - **A later event caused by the unusual arrangement:** No later causal sequence is narrated.
 
 **Decision:** replaced.
@@ -2819,14 +2819,14 @@ What does 'accordingly' connect the revision to?
 3. A comparable terminology change in another museum
 4. The stated requirement for accessible language **[Correct]**
 
-**Explanation:** Accordingly means in a way that responds to the preceding requirement here; it links the revision's manner to the curator's request.
+**Explanation:** 'Accordingly' means in a way that responds to the preceding requirement here; it links the revision's manner to the curator's request.
 
 **Choice feedback:**
 
 - **A conclusion that specialist visitors should be excluded:** The request concerns accessibility, not excluding a group.
 - **A later date on which the labels would be installed:** No installation date supplies the reference.
 - **A comparable terminology change in another museum:** No comparison case is mentioned.
-- **The stated requirement for accessible language:** Accordingly means in a way that responds to the preceding requirement here; it links the revision's manner to the curator's request.
+- **The stated requirement for accessible language:** 'Accordingly' means in a way that responds to the preceding requirement here; it links the revision's manner to the curator's request.
 
 **Decision:** replaced.
 
@@ -2883,11 +2883,11 @@ What does 'conversely' signal about the second claim?
 3. It introduces a historical exception to the first claim.
 4. It proves the reversed relation solely by using the transition.
 
-**Explanation:** Conversely reverses direction. All funded projects being reviewed does not alone establish that all reviewed projects are funded.
+**Explanation:** 'Conversely' reverses direction. All funded projects being reviewed does not alone establish that all reviewed projects are funded.
 
 **Choice feedback:**
 
-- **It asserts the reversed relation, which needs its own support.:** Conversely reverses direction. All funded projects being reviewed does not alone establish that all reviewed projects are funded.
+- **It asserts the reversed relation, which needs its own support.:** 'Conversely' reverses direction. All funded projects being reviewed does not alone establish that all reviewed projects are funded.
 - **It merely rephrases the first claim.:** Reversing the groups changes the claim; it is not an equivalent restatement.
 - **It introduces a historical exception to the first claim.:** The second sentence states a general reversed relation, not an exception.
 - **It proves the reversed relation solely by using the transition.:** A transition signals a relation between claims; it does not supply evidence for the second claim.
@@ -2915,11 +2915,11 @@ What does 'moreover' add to the case for retention?
 3. Evidence that the architectural assessment is mistaken
 4. A consequence that occurs only if retention is chosen
 
-**Explanation:** Moreover adds support for retention; the access concern need not be caused by the architectural merit.
+**Explanation:** 'Moreover' adds support for retention; the access concern need not be caused by the architectural merit.
 
 **Choice feedback:**
 
-- **A distinct supporting consideration with the same practical direction:** Moreover adds support for retention; the access concern need not be caused by the architectural merit.
+- **A distinct supporting consideration with the same practical direction:** 'Moreover' adds support for retention; the access concern need not be caused by the architectural merit.
 - **An explanation of what architectural importance means:** Access disruption is not a definition of architectural importance.
 - **Evidence that the architectural assessment is mistaken:** The practical concern does not dispute the aesthetic or historical assessment.
 - **A consequence that occurs only if retention is chosen:** The interruption is attached to demolition, not retention.
@@ -2947,11 +2947,11 @@ What point anchors 'thereafter'?
 3. The initial issue of the temporary index
 4. The final update to the temporary index
 
-**Explanation:** Thereafter means after that point; here it points to the full catalog's appearance, not to the earlier move.
+**Explanation:** 'Thereafter' means after that point; here it points to the full catalog's appearance, not to the earlier move.
 
 **Choice feedback:**
 
-- **The appearance of the full catalog in October:** Thereafter means after that point; here it points to the full catalog's appearance, not to the earlier move.
+- **The appearance of the full catalog in October:** 'Thereafter' means after that point; here it points to the full catalog's appearance, not to the earlier move.
 - **The beginning of the move:** The nearer completed event is publication of the full catalog.
 - **The initial issue of the temporary index:** That earlier event introduces the object, but not the transition's time anchor.
 - **The final update to the temporary index:** Stopping updates follows the anchor; it is not the preceding event referred to.
@@ -2979,12 +2979,12 @@ Choose an action that advances the stated aim rather than reports its success.
 3. the archive received the collection from retired broadcasters
 4. visitors have found the listening room increasingly comfortable
 
-**Explanation:** Digitization and searchable transcripts are means toward remote access; to that end introduces intended means.
+**Explanation:** Digitization and searchable transcripts are means toward remote access; 'to that end' introduces intended means.
 
 **Choice feedback:**
 
 - **the recordings are now used by researchers in forty countries:** This reports an achieved outcome rather than an action being taken toward the aim.
-- **it is digitizing the recordings and preparing a searchable transcript collection:** Digitization and searchable transcripts are means toward remote access; to that end introduces intended means.
+- **it is digitizing the recordings and preparing a searchable transcript collection:** Digitization and searchable transcripts are means toward remote access; 'to that end' introduces intended means.
 - **the archive received the collection from retired broadcasters:** This gives provenance, not a means of remote access.
 - **visitors have found the listening room increasingly comfortable:** This concerns on-site comfort rather than remote use.
 
@@ -3011,14 +3011,14 @@ What does 'insofar as' restrict?
 3. The reason one guide replaced the other
 4. The respect in which overlap is being claimed **[Correct]**
 
-**Explanation:** Insofar as limits the overlap claim to the shared maintenance content, rather than presenting the guides as equivalent overall.
+**Explanation:** 'Insofar as' limits the overlap claim to the shared maintenance content, rather than presenting the guides as equivalent overall.
 
 **Choice feedback:**
 
 - **Whether either guide contains a finance section:** Both finance sections are mentioned; their existence is not conditional.
 - **The order in which maintenance and finance must be read:** No reading order is set.
 - **The reason one guide replaced the other:** No replacement event is stated.
-- **The respect in which overlap is being claimed:** Insofar as limits the overlap claim to the shared maintenance content, rather than presenting the guides as equivalent overall.
+- **The respect in which overlap is being claimed:** 'Insofar as' limits the overlap claim to the shared maintenance content, rather than presenting the guides as equivalent overall.
 
 **Decision:** replaced.
 
@@ -3075,13 +3075,13 @@ How does 'more specifically' organize the two points?
 3. It narrows a broad need to a particular requirement. **[Correct]**
 4. It gives an unrelated administrative problem equal prominence.
 
-**Explanation:** More specifically moves from a general area to a precise aspect of it, without implying that the broad statement was false.
+**Explanation:** 'More specifically' moves from a general area to a precise aspect of it, without implying that the broad statement was false.
 
 **Choice feedback:**
 
 - **It retracts the general need for better documentation.:** The specific requirement develops rather than denies the broader need.
 - **It describes a consequence of documentation already improving.:** The second point is a requirement, not a measured outcome.
-- **It narrows a broad need to a particular requirement.:** More specifically moves from a general area to a precise aspect of it, without implying that the broad statement was false.
+- **It narrows a broad need to a particular requirement.:** 'More specifically' moves from a general area to a precise aspect of it, without implying that the broad statement was false.
 - **It gives an unrelated administrative problem equal prominence.:** Arrival-condition records belong within the broader documentation concern.
 
 **Decision:** replaced.
@@ -3107,14 +3107,14 @@ Which chain does 'in turn' present?
 3. Improved retention occurred after recruitment costs had already fallen.
 4. Flexible shifts improved retention; improved retention then reduced recruitment costs. **[Correct]**
 
-**Explanation:** In turn makes retention the intermediate link in a chain, rather than treating both outcomes as separately linked to shifts.
+**Explanation:** 'In turn' makes retention the intermediate link in a chain, rather than treating both outcomes as separately linked to shifts.
 
 **Choice feedback:**
 
 - **Flexible shifts and retention each independently caused lower recruitment costs.:** The sentence specifically routes the second effect through retention.
 - **Lower recruitment costs enabled the introduction of flexible shifts.:** That reverses the direction of the stated chain.
 - **Improved retention occurred after recruitment costs had already fallen.:** The transition presents lower costs as the next effect, not an earlier cause.
-- **Flexible shifts improved retention; improved retention then reduced recruitment costs.:** In turn makes retention the intermediate link in a chain, rather than treating both outcomes as separately linked to shifts.
+- **Flexible shifts improved retention; improved retention then reduced recruitment costs.:** 'In turn' makes retention the intermediate link in a chain, rather than treating both outcomes as separately linked to shifts.
 
 **Decision:** replaced.
 
@@ -3139,11 +3139,11 @@ What does 'by extension' claim about the second application?
 3. It is a historical cause of the first application.
 4. It is an exception that invalidates the principle.
 
-**Explanation:** By extension transfers an idea beyond its initial case; it signals the proposed reach, not automatic proof that the transfer is sound.
+**Explanation:** 'By extension' transfers an idea beyond its initial case; it signals the proposed reach, not automatic proof that the transfer is sound.
 
 **Choice feedback:**
 
-- **The first principle is being carried into a related decision.:** By extension transfers an idea beyond its initial case; it signals the proposed reach, not automatic proof that the transfer is sound.
+- **The first principle is being carried into a related decision.:** 'By extension' transfers an idea beyond its initial case; it signals the proposed reach, not automatic proof that the transfer is sound.
 - **It is a restatement of the same decision using different words.:** Beginning and ending are related but distinct decisions.
 - **It is a historical cause of the first application.:** The relation is conceptual application, not historical causation.
 - **It is an exception that invalidates the principle.:** The author extends rather than rejects the principle.
@@ -3203,13 +3203,13 @@ What relation does the transition establish?
 3. The finding supplied grounds for reconsidering the proposal. **[Correct]**
 4. The revision merely occurred later, with no relevance attributed to the finding.
 
-**Explanation:** In light of means considering the new information; it links that information to the revision without specifying every change made.
+**Explanation:** 'In light of' means considering the new information; it links that information to the revision without specifying every change made.
 
 **Choice feedback:**
 
 - **The revision happened in spite of the ownership finding.:** In light of presents the finding as a basis for reconsideration, not an obstacle disregarded.
 - **The finding was an outcome of revising the proposal.:** The direction runs from finding to revision.
-- **The finding supplied grounds for reconsidering the proposal.:** In light of means considering the new information; it links that information to the revision without specifying every change made.
+- **The finding supplied grounds for reconsidering the proposal.:** 'In light of' means considering the new information; it links that information to the revision without specifying every change made.
 - **The revision merely occurred later, with no relevance attributed to the finding.:** The phrase explicitly makes the finding relevant to the decision.
 
 **Decision:** replaced.
@@ -3271,11 +3271,11 @@ Which reading best preserves the connection expressed by 'inasmuch as'?
 3. Participation is an objection conceded despite an overall inequity.
 4. Participation is a future condition whose fulfillment is not asserted.
 
-**Explanation:** Inasmuch as can identify a respect or reason supporting an assessment. It does not establish that all other aspects of the scheme are equitable.
+**Explanation:** 'Inasmuch as' can identify a respect or reason supporting an assessment. It does not establish that all other aspects of the scheme are equitable.
 
 **Choice feedback:**
 
-- **Participation is the respect or basis on which the equity assessment rests.:** Inasmuch as can identify a respect or reason supporting an assessment. It does not establish that all other aspects of the scheme are equitable.
+- **Participation is the respect or basis on which the equity assessment rests.:** 'Inasmuch as' can identify a respect or reason supporting an assessment. It does not establish that all other aspects of the scheme are equitable.
 - **Giving associations a voice is a consequence of the scheme's independently established equity.:** This reverses the explanatory relation.
 - **Participation is an objection conceded despite an overall inequity.:** The clause supports the positive assessment rather than opposes it.
 - **Participation is a future condition whose fulfillment is not asserted.:** Gives presents the feature as actual here, not as an unfulfilled future condition.
@@ -3303,14 +3303,14 @@ What extra relation would be lost if 'thereby' were replaced by 'subsequently'?
 3. The claim that the visibility improvement came before the removals
 4. The claim that visibility was achieved through removing duplicates **[Correct]**
 
-**Explanation:** Thereby means by that action or means; subsequently would preserve later timing without the same instrumental link.
+**Explanation:** 'Thereby' means by that action or means; 'subsequently' would preserve later timing without the same instrumental link.
 
 **Choice feedback:**
 
 - **The claim that removing duplicates occurred at all:** Both versions retain that action.
 - **The claim that the catalog contains distinct objects:** Both versions still refer to a count of distinct objects.
 - **The claim that the visibility improvement came before the removals:** The original does not place the improvement before its stated means.
-- **The claim that visibility was achieved through removing duplicates:** Thereby means by that action or means; subsequently would preserve later timing without the same instrumental link.
+- **The claim that visibility was achieved through removing duplicates:** 'Thereby' means by that action or means; 'subsequently' would preserve later timing without the same instrumental link.
 
 **Decision:** replaced.
 
@@ -3367,13 +3367,13 @@ Which interpretation keeps the force of 'lest' without upgrading it into a findi
 3. The distinction is made to guard against a possible misclassification. **[Correct]**
 4. The misclassification is a condition that must be met before distinguishing the texts.
 
-**Explanation:** Lest introduces an unwanted outcome being guarded against; it need not assert that the error has occurred or that prevention is guaranteed.
+**Explanation:** 'Lest' introduces an unwanted outcome being guarded against; it need not assert that the error has occurred or that prevention is guaranteed.
 
 **Choice feedback:**
 
-- **The distinction is made because readers have been shown to misclassify the commentary.:** Lest alone does not establish actual documented confusion.
+- **The distinction is made because readers have been shown to misclassify the commentary.:** 'Lest' alone does not establish actual documented confusion.
 - **The distinction has proved sufficient to prevent the misclassification.:** A preventive purpose does not establish successful prevention.
-- **The distinction is made to guard against a possible misclassification.:** Lest introduces an unwanted outcome being guarded against; it need not assert that the error has occurred or that prevention is guaranteed.
+- **The distinction is made to guard against a possible misclassification.:** 'Lest' introduces an unwanted outcome being guarded against; it need not assert that the error has occurred or that prevention is guaranteed.
 - **The misclassification is a condition that must be met before distinguishing the texts.:** The feared error is what the distinction seeks to avoid, not its prerequisite.
 
 **Decision:** replaced.
@@ -3527,12 +3527,12 @@ Which relation does 'whereby' establish between the rota and chairing?
 3. The rota was justified by evidence that equal chairing had already occurred.
 4. The rota applies only after each member has already chaired.
 
-**Explanation:** Whereby means by or through which; it identifies the operative arrangement rather than a location or an external reason.
+**Explanation:** 'Whereby' means 'by or through which'; it identifies the operative arrangement rather than a location or an external reason.
 
 **Choice feedback:**
 
-- **The rota is the arrangement through which the chairing is allocated.:** Whereby means by or through which; it identifies the operative arrangement rather than a location or an external reason.
-- **The chairing obligation arose despite the rota's provisions.:** Whereby links the arrangement as a means, not an obstacle.
+- **The rota is the arrangement through which the chairing is allocated.:** 'Whereby' means 'by or through which'; it identifies the operative arrangement rather than a location or an external reason.
+- **The chairing obligation arose despite the rota's provisions.:** 'Whereby' links the arrangement as a means, not an obstacle.
 - **The rota was justified by evidence that equal chairing had already occurred.:** The sentence specifies how the arrangement works, not prior proof used to justify it.
 - **The rota applies only after each member has already chaired.:** That makes completed chairing a prerequisite rather than the action organized by the rota.
 
@@ -3623,14 +3623,14 @@ Which interpretation best preserves the limited exception?
 3. The sameness claim is postponed until spelling has been modernized.
 4. Textual sameness is asserted apart from the specified spelling change. **[Correct]**
 
-**Explanation:** Save that means except that: it identifies a bounded departure from the preceding sameness claim, not a reason or an illustrative difference.
+**Explanation:** 'Save that' means 'except that': it identifies a bounded departure from the preceding sameness claim, not a reason or an illustrative difference.
 
 **Choice feedback:**
 
 - **The spelling change is one example among several stated differences.:** Save that presents an exception to sameness, not an open-ended example list.
 - **Modernized spelling is the reason the texts are considered the same.:** The spelling change is exempted from sameness rather than used to establish it.
 - **The sameness claim is postponed until spelling has been modernized.:** The transition marks an exception, not a future condition.
-- **Textual sameness is asserted apart from the specified spelling change.:** Save that means except that: it identifies a bounded departure from the preceding sameness claim, not a reason or an illustrative difference.
+- **Textual sameness is asserted apart from the specified spelling change.:** 'Save that' means 'except that': it identifies a bounded departure from the preceding sameness claim, not a reason or an illustrative difference.
 
 **Decision:** replaced.
 
@@ -3655,14 +3655,14 @@ What does 'not least because' imply about the reason introduced?
 3. It is a limitation conceded despite the case for support.
 4. It is highlighted as an important supporting reason without being declared the only one. **[Correct]**
 
-**Explanation:** Not least because adds an emphatic reason; it neither makes the list exhaustive nor necessarily ranks this reason first.
+**Explanation:** 'Not least because' adds an emphatic reason; it neither makes the list exhaustive nor necessarily ranks this reason first.
 
 **Choice feedback:**
 
 - **It is admitted to be the weakest supporting reason.:** Not least denies a low place in importance rather than assigning one.
 - **It is the sole consideration on which support can rest.:** The phrase gives emphasis, not exclusivity.
 - **It is a limitation conceded despite the case for support.:** Because supplies support, not a counterconsideration.
-- **It is highlighted as an important supporting reason without being declared the only one.:** Not least because adds an emphatic reason; it neither makes the list exhaustive nor necessarily ranks this reason first.
+- **It is highlighted as an important supporting reason without being declared the only one.:** 'Not least because' adds an emphatic reason; it neither makes the list exhaustive nor necessarily ranks this reason first.
 
 **Decision:** replaced.
 
@@ -3687,12 +3687,12 @@ How does 'or rather' adjust the first formulation?
 3. It states that the reconstruction took place after a full recreation.
 4. It introduces an independent reason to approve the display.
 
-**Explanation:** Or rather revises the speaker's own wording, here narrowing whole-workshop recreation to one reconstructed room.
+**Explanation:** 'Or rather' revises the speaker's own wording, here narrowing whole-workshop recreation to one reconstructed room.
 
 **Choice feedback:**
 
-- **It offers two equally preferred descriptions as alternatives.:** Or rather gives priority to the second, corrected formulation.
-- **It substitutes a more restricted and accurate characterization.:** Or rather revises the speaker's own wording, here narrowing whole-workshop recreation to one reconstructed room.
+- **It offers two equally preferred descriptions as alternatives.:** 'Or rather' gives priority to the second, corrected formulation.
+- **It substitutes a more restricted and accurate characterization.:** 'Or rather' revises the speaker's own wording, here narrowing whole-workshop recreation to one reconstructed room.
 - **It states that the reconstruction took place after a full recreation.:** The transition repairs wording rather than narrates two construction stages.
 - **It introduces an independent reason to approve the display.:** The second phrase corrects descriptive scope, not the grounds for approval.
 
@@ -3719,13 +3719,13 @@ What does 'in either case' commit the writer to?
 3. The stated conclusion holds under each of the two alternatives. **[Correct]**
 4. The two explanations are equivalent in every historical respect.
 
-**Explanation:** In either case carries the conclusion across both possibilities while leaving their factual resolution open.
+**Explanation:** 'In either case' carries the conclusion across both possibilities while leaving their factual resolution open.
 
 **Choice feedback:**
 
 - **Both explanations are historically true.:** The writer considers alternatives without asserting that both occurred.
-- **The evidence favors the first explanation over the second.:** In either case does not rank the alternatives.
-- **The stated conclusion holds under each of the two alternatives.:** In either case carries the conclusion across both possibilities while leaving their factual resolution open.
+- **The evidence favors the first explanation over the second.:** 'In either case' does not rank the alternatives.
+- **The stated conclusion holds under each of the two alternatives.:** 'In either case' carries the conclusion across both possibilities while leaving their factual resolution open.
 - **The two explanations are equivalent in every historical respect.:** A shared consequence does not make the explanations interchangeable overall.
 
 **Decision:** replaced.
@@ -3751,14 +3751,14 @@ What does 'alone' restrict within the transition?
 3. The aspects of the paper that the reviewer examined
 4. The ground invoked for this rejection **[Correct]**
 
-**Explanation:** On that basis alone says the incomplete source list is the sole ground invoked; it does not establish that no other defects or grounds exist.
+**Explanation:** 'On that basis alone' says the incomplete source list is the sole ground invoked; it does not establish that no other defects or grounds exist.
 
 **Choice feedback:**
 
 - **The defects the reviewer could identify in the paper:** A sole ground used for rejection does not mean the reviewer could identify no other defect.
 - **The evidence that could ever justify rejecting the paper:** The phrase restricts this stated decision's basis, not every possible justification.
 - **The aspects of the paper that the reviewer examined:** The reviewer may have examined many aspects while relying on one ground for rejection.
-- **The ground invoked for this rejection:** On that basis alone says the incomplete source list is the sole ground invoked; it does not establish that no other defects or grounds exist.
+- **The ground invoked for this rejection:** 'On that basis alone' says the incomplete source list is the sole ground invoked; it does not establish that no other defects or grounds exist.
 
 **Decision:** replaced.
 
@@ -3783,11 +3783,11 @@ Which relation best captures 'for all that'?
 3. The material evidence restates the same weakness in different terms.
 4. The second sentence withdraws the admission that dating is weak.
 
-**Explanation:** For all that means despite that: the objection's force is acknowledged, but the second point survives it.
+**Explanation:** 'For all that' means 'despite that': the objection's force is acknowledged, but the second point survives it.
 
 **Choice feedback:**
 
-- **The weakness is granted without extending its force to independent evidence.:** For all that means despite that: the objection's force is acknowledged, but the second point survives it.
+- **The weakness is granted without extending its force to independent evidence.:** 'For all that' means 'despite that': the objection's force is acknowledged, but the second point survives it.
 - **The untouched material evidence is the cause of the dating weakness.:** The transition concedes one point and limits its reach rather than reversing causality.
 - **The material evidence restates the same weakness in different terms.:** Separate evidence being untouched is not a reformulation of the dating defect.
 - **The second sentence withdraws the admission that dating is weak.:** The weakness remains conceded; the transition limits its consequences.

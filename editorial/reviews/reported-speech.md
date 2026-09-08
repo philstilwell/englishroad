@@ -19,14 +19,14 @@ Daniel says that ___ is ready.
 3. he **[Correct]**
 4. his
 
-**Explanation:** He refers to Daniel as the person who is ready.
+**Explanation:** 'He' refers to Daniel as the person who is ready.
 
 **Choice feedback:**
 
-- **I:** I would refer to the person reporting the message, but Daniel is talking about himself.
-- **him:** Him is an object form; the person before is needs a subject form.
-- **he:** He refers to Daniel as the person who is ready.
-- **his:** His shows possession and cannot stand as the subject meaning Daniel here.
+- **I:** 'I' would refer to the person reporting the message, but Daniel is talking about himself.
+- **him:** 'Him' is an object form; the person before 'is' needs a subject form.
+- **he:** 'He' refers to Daniel as the person who is ready.
+- **his:** 'His' shows possession and cannot stand as the subject meaning Daniel here.
 
 **Decision:** replaced.
 
@@ -51,11 +51,11 @@ She says that ___.
 3. they are early
 4. we are early
 
-**Explanation:** The cashier's you refers to the person reporting, so my report uses I am.
+**Explanation:** The cashier's 'you' refers to the person reporting, so my report uses 'I am'.
 
 **Choice feedback:**
 
-- **I am early:** The cashier's you refers to the person reporting, so my report uses I am.
+- **I am early:** The cashier's 'you' refers to the person reporting, so my report uses 'I am'.
 - **she is early:** She would make the cashier the early person, but her you refers to me.
 - **they are early:** They introduces other people whom the cashier did not mention.
 - **we are early:** We adds the cashier or other people to the early group; the message addresses only me.
@@ -89,8 +89,8 @@ My neighbors say that ___ live nearby.
 
 - **we:** We would include me, but the neighbors are speaking about their own household.
 - **they:** They refers to both neighbors without including the reporter.
-- **he:** He refers to one man and does not keep the two neighbors together.
-- **she:** She refers to one woman, not the two people who spoke.
+- **he:** 'He' refers to one man and does not keep the two neighbors together.
+- **she:** 'She' refers to one woman, not the two people who spoke.
 
 **Decision:** replaced.
 
@@ -247,10 +247,10 @@ The assistant says that the shop ___ open.
 
 **Choice feedback:**
 
-- **are:** Are does not agree with the singular shop.
+- **are:** 'Are' does not agree with the singular shop.
 - **is:** Is agrees with the singular subject the shop in the reported statement.
-- **am:** Am is used with I, not with the shop.
-- **be:** Be is the base form; this present statement needs the finite form is.
+- **am:** 'Am' is used with 'I', not with the shop.
+- **be:** 'Be' is the base form; this present statement needs the finite form 'is'.
 
 **Decision:** replaced.
 
@@ -279,7 +279,7 @@ The receptionist says that the hotel is full tonight.
 
 **Choice feedback:**
 
-- **There are many rooms to choose from tonight.:** Full means there are no available rooms, not many choices.
+- **There are many rooms to choose from tonight.:** 'Full' means there are no available rooms, not many choices.
 - **The hotel does not serve dinner tonight.:** The message concerns room availability, not food service.
 - **The hotel has no guests tonight.:** No guests would mean the hotel was empty, the opposite of full.
 - **There are no rooms available tonight.:** A full hotel has no rooms available for new guests for the stated night.
@@ -371,14 +371,14 @@ Yesterday, our guide ___ us a story about the village.
 3. told **[Correct]**
 4. telling
 
-**Explanation:** Told is the past form of tell and can be followed by us a story.
+**Explanation:** 'Told' is the past form of 'tell' and can be followed by 'us a story'.
 
 **Choice feedback:**
 
 - **telled:** The past form is irregular: told, not telled.
-- **tell:** Tell is the base form, not the past form needed for yesterday's event.
-- **told:** Told is the past form of tell and can be followed by us a story.
-- **telling:** Telling cannot be the finite past verb on its own here.
+- **tell:** 'Tell' is the base form, not the past form needed for yesterday's event.
+- **told:** 'Told' is the past form of 'tell' and can be followed by 'us a story'.
+- **telling:** 'Telling' cannot be the finite past verb on its own here.
 
 **Decision:** replaced.
 
@@ -408,7 +408,7 @@ A: 'The cook says that lunch is ready.' B: 'The cook says lunch is ready.'
 **Choice feedback:**
 
 - **Both can report the same message.:** Both sentences say what the cook's message is; leaving out that does not change it.
-- **Only A can report the cook's message.:** That can be left out after says in this short report, so B is also possible.
+- **Only A can report the cook's message.:** 'That' can be left out after 'says' in this short report, so B is also possible.
 - **B means that the cook is ready, not lunch.:** Lunch remains the subject of is ready in both sentences.
 - **A reports a question, but B reports an answer.:** Both report a statement about lunch; that does not turn A into a question.
 
@@ -435,14 +435,14 @@ The barber says that he knows ___.
 3. mine
 4. me **[Correct]**
 
-**Explanation:** Me is the object form referring to the original listener, who is now reporting.
+**Explanation:** 'Me' is the object form referring to the original listener, who is now reporting.
 
 **Choice feedback:**
 
-- **I:** I is a subject form, but knows needs an object here.
-- **my:** My needs a following noun and cannot mean me by itself.
+- **I:** 'I' is a subject form, but 'knows' needs an object here.
+- **my:** 'My' needs a following noun and cannot mean 'me' by itself.
 - **mine:** Mine shows possession; the message is about knowing a person, not owning something.
-- **me:** Me is the object form referring to the original listener, who is now reporting.
+- **me:** 'Me' is the object form referring to the original listener, who is now reporting.
 
 **Decision:** replaced.
 
@@ -503,8 +503,8 @@ Our friends say that they ___ outside.
 
 **Choice feedback:**
 
-- **is waiting:** Is does not agree with the plural subject they.
-- **waiting:** Waiting needs are to make a complete present-continuous verb here.
+- **is waiting:** 'Is' does not agree with the plural subject 'they'.
+- **waiting:** 'Waiting' needs 'are' to make a complete present-continuous verb here.
 - **are wait:** After are, this ongoing activity needs the -ing form waiting.
 - **are waiting:** Are waiting agrees with they and keeps the activity in progress now.
 
@@ -531,14 +531,14 @@ The tourist ___, 'Where is the station?'
 3. asks **[Correct]**
 4. agrees
 
-**Explanation:** Asks introduces a question seeking the station's location.
+**Explanation:** 'Asks' introduces a question seeking the station's location.
 
 **Choice feedback:**
 
 - **answers:** Answers would give information in reply; these words request information.
-- **thanks:** Thanks expresses gratitude, which this location question does not do.
-- **asks:** Asks introduces a question seeking the station's location.
-- **agrees:** Agrees expresses acceptance of another idea, not a request for directions.
+- **thanks:** 'Thanks' expresses gratitude, which this location question does not do.
+- **asks:** 'Asks' introduces a question seeking the station's location.
+- **agrees:** 'Agrees' expresses acceptance of another idea, not a request for directions.
 
 **Decision:** replaced.
 
@@ -570,7 +570,7 @@ The shopkeeper says, 'We close at six.'
 - **The shopkeeper says the shop closes at six.:** This reports the shop's closing time without changing the action or time.
 - **The shopkeeper says the shop opens at six.:** Opens reverses the action described by close.
 - **The shopkeeper says the shop closes before six.:** Before six moves closing earlier than the stated time.
-- **The shopkeeper says the shop is closed all day.:** Closed all day is different from closing at six after being open.
+- **The shopkeeper says the shop is closed all day.:** 'Closed all day' is different from 'closing at six' after being open.
 
 **Decision:** replaced.
 
@@ -595,14 +595,14 @@ Yesterday, the farmer ___ that the apples were ready to pick.
 3. saying
 4. said **[Correct]**
 
-**Explanation:** Said is the past form of say, matching yesterday's message.
+**Explanation:** 'Said' is the past form of 'say', matching yesterday's message.
 
 **Choice feedback:**
 
 - **say:** Say is not the past form required for yesterday's message.
-- **says:** Says is a present form; the message is explicitly placed yesterday.
-- **saying:** Saying needs an auxiliary and cannot be the only finite verb here.
-- **said:** Said is the past form of say, matching yesterday's message.
+- **says:** 'Says' is a present form; the message is explicitly placed yesterday.
+- **saying:** 'Saying' needs an auxiliary and cannot be the only finite verb here.
+- **said:** 'Said' is the past form of 'say', matching yesterday's message.
 
 **Decision:** replaced.
 
@@ -669,7 +669,7 @@ The baker said that she ___ ill.
 
 - **is:** Is presents the illness as current, but this report concerns Monday's condition and she is well now.
 - **be:** Be is not a finite past form for this clause.
-- **were:** Were does not agree with singular she in this ordinary past statement.
+- **were:** 'Were' does not agree with singular 'she' in this ordinary past statement.
 - **was:** Was reports the baker's condition at the earlier time when she spoke.
 
 **Decision:** replaced.
@@ -695,14 +695,14 @@ The hikers said that they ___ hungry.
 3. is
 4. were **[Correct]**
 
-**Explanation:** Were is the past form of be that agrees with the plural subject they.
+**Explanation:** 'Were' is the past form of 'be' that agrees with the plural subject 'they'.
 
 **Choice feedback:**
 
-- **was:** Was is singular and does not agree with they in this ordinary past statement.
-- **be:** Be needs a finite form in the reported clause.
-- **is:** Is is singular present, not the plural past form requested.
-- **were:** Were is the past form of be that agrees with the plural subject they.
+- **was:** 'Was' is singular and does not agree with 'they' in this ordinary past statement.
+- **be:** 'Be' needs a finite form in the reported clause.
+- **is:** 'Is' is singular present, not the plural past form requested.
+- **were:** 'Were' is the past form of 'be' that agrees with the plural subject 'they'.
 
 **Decision:** replaced.
 
@@ -731,9 +731,9 @@ The waiter said that he ___ at the restaurant.
 
 **Choice feedback:**
 
-- **work:** Work does not agree with he and does not supply the requested past form.
+- **work:** 'Work' does not agree with 'he' and does not supply the requested past form.
 - **worked:** Worked reports the job he had at the earlier speaking time.
-- **working:** Working needs an auxiliary to form a complete clause here.
+- **working:** 'Working' needs an auxiliary to form a complete clause here.
 - **is work:** Is work incorrectly combines be with the base verb for this meaning.
 
 **Decision:** replaced.
@@ -862,7 +862,7 @@ She asks me ___.
 - **to wait by the lift:** Asks me to wait reports the action she wants me to take.
 - **wait by the lift:** Ask someone needs to before the requested action in this pattern.
 - **waiting by the lift:** Waiting does not form the requested ask-me-to construction.
-- **that wait by the lift:** That cannot introduce this bare command after asks me.
+- **that wait by the lift:** 'That' cannot introduce this bare command after 'asks me'.
 
 **Decision:** replaced.
 
@@ -887,13 +887,13 @@ The attendant tells us ___.
 3. not to touch the glass **[Correct]**
 4. don't touch the glass
 
-**Explanation:** Not to touch reports the negative instruction after tells us.
+**Explanation:** 'Not to touch' reports the negative instruction after 'tells us'.
 
 **Choice feedback:**
 
 - **to touch the glass:** To touch removes the prohibition and tells us to do the opposite.
 - **not touching the glass:** Not touching is not the infinitive complement required in this tell-us instruction pattern.
-- **not to touch the glass:** Not to touch reports the negative instruction after tells us.
+- **not to touch the glass:** 'Not to touch' reports the negative instruction after 'tells us'.
 - **don't touch the glass:** Don't touch is the direct command; an indirect instruction here uses not to touch.
 
 **Decision:** replaced.
@@ -951,14 +951,14 @@ The visitor asks ___.
 3. where the cash machine is **[Correct]**
 4. where the cash machine be
 
-**Explanation:** The subject the cash machine comes before is in the reported question.
+**Explanation:** The subject 'the cash machine' comes before 'is' in the reported question.
 
 **Choice feedback:**
 
 - **where is the cash machine:** This keeps direct-question inversion; the indirect question uses the cash machine is.
-- **where does the cash machine is:** Does cannot combine with is in this way, and the embedded question does not need do-support.
-- **where the cash machine is:** The subject the cash machine comes before is in the reported question.
-- **where the cash machine be:** Be is not the finite present form required after this singular subject.
+- **where does the cash machine is:** 'Does' cannot combine with 'is' in this way, and the embedded question does not need do-support.
+- **where the cash machine is:** The subject 'the cash machine' comes before 'is' in the reported question.
+- **where the cash machine be:** 'Be' is not the finite present form required after this singular subject.
 
 **Decision:** replaced.
 
@@ -988,7 +988,7 @@ The colleague asks, 'What is your name?'
 **Choice feedback:**
 
 - **The colleague tells me his name.:** This makes the colleague give information about himself instead of asking about me.
-- **The colleague says my name.:** Says my name means he speaks the name, not that he asks what it is.
+- **The colleague says my name.:** 'Says my name' means he speaks the name, not that he asks what it is.
 - **The colleague asks me to choose a name.:** Asking me to choose a name requests an action different from giving my existing name.
 - **The colleague asks me my name.:** Asks me my name reports the information he wants from me.
 
@@ -1079,14 +1079,14 @@ The owner said he lived ___.
 3. where I live now
 4. wherever his listener lives
 
-**Explanation:** Here in the original harbor conversation refers to the harbor, so naming it preserves the location.
+**Explanation:** 'Here' in the original harbor conversation refers to the harbor, so naming it preserves the location.
 
 **Choice feedback:**
 
 - **in the other town:** The other town is the later reporter's location, not the location of the owner's here.
-- **at the harbor:** Here in the original harbor conversation refers to the harbor, so naming it preserves the location.
+- **at the harbor:** 'Here' in the original harbor conversation refers to the harbor, so naming it preserves the location.
 - **where I live now:** The owner's here refers to where he spoke, not automatically to where the reporter now lives.
-- **wherever his listener lives:** A speaker's here does not mean any place a listener happens to live.
+- **wherever his listener lives:** A speaker's 'here' does not mean any place a listener happens to live.
 
 **Decision:** replaced.
 
@@ -1143,13 +1143,13 @@ The guests say that ___ room is quiet.
 3. their **[Correct]**
 4. his
 
-**Explanation:** Their refers to the room belonging to the two guests in the message.
+**Explanation:** 'Their' refers to the room belonging to the two guests in the message.
 
 **Choice feedback:**
 
 - **our:** Our would include me as a person sharing the room, contrary to the context.
 - **my:** My would make the room mine alone instead of the guests'.
-- **their:** Their refers to the room belonging to the two guests in the message.
+- **their:** 'Their' refers to the room belonging to the two guests in the message.
 - **his:** His changes a two-person possession into one man's possession.
 
 **Decision:** replaced.
@@ -1180,8 +1180,8 @@ During a walk, my friend says, 'Let's stop for a rest.'
 **Choice feedback:**
 
 - **My friend suggests a rest.:** Let's stop proposes a shared action, so suggests a rest captures its purpose.
-- **My friend refuses to stop for a rest.:** Refuses would mean the friend does not agree to stop, the opposite of the suggestion.
-- **My friend says we have already rested.:** Have already rested describes a completed event instead of suggesting a new rest.
+- **My friend refuses to stop for a rest.:** 'Refuses' would mean the friend does not agree to stop, the opposite of the suggestion.
+- **My friend says we have already rested.:** 'Have already rested' describes a completed event instead of suggesting a new rest.
 - **My friend asks why I rested.:** Why I rested asks about a reason for an earlier action, not a shared next step.
 
 **Decision:** replaced.
@@ -1311,9 +1311,9 @@ The parking attendant asked me ___.
 
 **Choice feedback:**
 
-- **where had I parked:** An indirect question uses subject-before-auxiliary order: I had, not had I.
-- **where did I had parked:** Did cannot combine with had parked in this question structure.
-- **where I had park:** Had needs the past participle parked, not the base form park.
+- **where had I parked:** An indirect question uses subject-before-auxiliary order: 'I had', not 'had I'.
+- **where did I had parked:** 'Did' cannot combine with 'had parked' in this question structure.
+- **where I had park:** 'Had' needs the past participle 'parked', not the base form 'park'.
 - **where I had parked:** Where I had parked keeps indirect-question order and the requested past-perfect verb.
 
 **Decision:** replaced.
@@ -1471,10 +1471,10 @@ The supervisor ___.
 
 **Choice feedback:**
 
-- **said me to wait until the machine stopped:** Say does not take me to wait as a reported-instruction complement in standard English.
+- **said me to wait until the machine stopped:** 'Say' does not take 'me to wait' as a reported-instruction complement in standard English.
 - **told me to wait until the machine stopped:** Told me to wait identifies the person instructed and the action required.
 - **told that I to wait until the machine stopped:** This combines that with an incomplete infinitive clause; the instruction pattern is told me to wait.
-- **told me waiting until the machine stopped:** Told me needs a to-infinitive for this instruction, not waiting.
+- **told me waiting until the machine stopped:** 'Told me' needs a to-infinitive for this instruction, not 'waiting'.
 
 **Decision:** replaced.
 
@@ -1504,7 +1504,7 @@ The member said that she ___.
 **Choice feedback:**
 
 - **has lost her membership card:** Has lost can occur in a current-relevance report, but it does not meet the instruction to use the past perfect.
-- **had lose her membership card:** Had needs the participle lost rather than the base form lose.
+- **had lose her membership card:** 'Had' needs the participle 'lost' rather than the base form 'lose'.
 - **had lost her membership card:** Had lost provides the requested past perfect, and her keeps the card as the member's.
 - **had lost my membership card:** My membership card makes the card the reporter's rather than the member's.
 
@@ -1536,9 +1536,9 @@ The performer said that she ___ when the lights failed.
 **Choice feedback:**
 
 - **had already left:** Had already left remains past perfect; no extra had is added merely because it is reported.
-- **had had already left:** A second had is not needed before the participle left and makes this sequence malformed.
+- **had had already left:** A second 'had' is not needed before the participle 'left' and makes this sequence malformed.
 - **has had already left:** Has had cannot combine with already left to form the intended past-perfect report.
-- **did had already leave:** Did cannot be stacked before had in this verb phrase, and leave is not the required participle.
+- **did had already leave:** 'Did' cannot be stacked before 'had' in this verb phrase, and 'leave' is not the required participle.
 
 **Decision:** replaced.
 
@@ -1567,7 +1567,7 @@ The instructor said that we ___.
 
 **Choice feedback:**
 
-- **must have brought our own tools:** Must have brought expresses a deduction about what happened, not the earlier requirement.
+- **must have brought our own tools:** 'Must have brought' expresses a deduction about what happened, not the earlier requirement.
 - **had brought our own tools:** Had brought asserts an earlier completed action instead of the requirement to act.
 - **did not have to bring our own tools:** Did not have to removes the obligation, reversing the instructor's must.
 - **had to bring our own tools:** Had to bring reports the obligation applying to us at that past time without saying whether we complied.
@@ -1600,9 +1600,9 @@ The ranger told us that we ___.
 **Choice feedback:**
 
 - **were not allowed to light fires in that area:** Were not allowed to preserves the ban expressed by must not.
-- **did not have to light fires in that area:** Did not have to means lighting fires was unnecessary; it does not forbid them.
+- **did not have to light fires in that area:** 'Did not have to' means lighting fires was unnecessary; it does not forbid them.
 - **were expected to light fires in that area:** Were expected to makes lighting fires expected behavior, reversing the rule.
-- **had not lit fires in that area:** Had not lit describes a past absence of fires rather than a rule about what we could do.
+- **had not lit fires in that area:** 'Had not lit' describes a past absence of fires rather than a rule about what we could do.
 
 **Decision:** replaced.
 
@@ -1631,8 +1631,8 @@ The steward said that we ___.
 
 **Choice feedback:**
 
-- **might have used the side entrance:** Might have used expresses possibility about an earlier action, not permission granted to us.
-- **had used the side entrance:** Had used reports an action as completed instead of granting permission.
+- **might have used the side entrance:** 'Might have used' expresses possibility about an earlier action, not permission granted to us.
+- **had used the side entrance:** 'Had used' reports an action as completed instead of granting permission.
 - **had to use the side entrance:** Had to turns an available option into a requirement.
 - **were allowed to use the side entrance:** Were allowed to reports may as permission without making the action compulsory or completed.
 
@@ -1695,8 +1695,8 @@ My sister suggested ___.
 
 **Choice feedback:**
 
-- **to take the train:** Suggest does not take a to-infinitive directly in this pattern.
-- **us to take the train:** Suggest does not use the object-plus-to pattern of advise us to take.
+- **to take the train:** 'Suggest' does not take a to-infinitive directly in this pattern.
+- **us to take the train:** 'Suggest' does not use the object-plus-to pattern of 'advise us to take'.
 - **that taking the train:** That needs a complete clause, such as that we take the train, not just taking the train.
 - **taking the train:** Suggested taking uses the -ing complement to report the proposed shared action.
 
@@ -1787,14 +1787,14 @@ The guest apologized ___.
 3. that arriving late
 4. for arrive late
 
-**Explanation:** Apologized for takes an -ing phrase naming the action the guest regrets.
+**Explanation:** 'Apologized for' takes an -ing phrase naming the action the guest regrets.
 
 **Choice feedback:**
 
 - **to arrive late:** To arrive would not give the normal complement naming the reason for this apology.
-- **for arriving late:** Apologized for takes an -ing phrase naming the action the guest regrets.
+- **for arriving late:** 'Apologized for' takes an -ing phrase naming the action the guest regrets.
 - **that arriving late:** That arriving is not a complete clause and does not fit this apology pattern.
-- **for arrive late:** After for, use arriving rather than the base form arrive.
+- **for arrive late:** After 'for', use 'arriving' rather than the base form 'arrive'.
 
 **Decision:** replaced.
 
@@ -1915,14 +1915,14 @@ Victor says: 'Leah told me that ___.'
 3. he would send me her recipe
 4. she would send me her recipe **[Correct]**
 
-**Explanation:** She refers to Leah, me to Victor as reporter, and her recipe remains Leah's recipe.
+**Explanation:** 'She' refers to Leah, 'me' to Victor as reporter, and 'her recipe' remains Leah's recipe.
 
 **Choice feedback:**
 
 - **I would send her my recipe:** This makes Victor the sender and recipe owner, reversing the original roles.
 - **she would send him my recipe:** Him fails to keep Victor's first-person reporting viewpoint, and my changes the owner to Victor.
 - **he would send me her recipe:** He changes the sender from Leah to a male person not identified as the original sender.
-- **she would send me her recipe:** She refers to Leah, me to Victor as reporter, and her recipe remains Leah's recipe.
+- **she would send me her recipe:** 'She' refers to Leah, 'me' to Victor as reporter, and 'her recipe' remains Leah's recipe.
 
 **Decision:** replaced.
 
@@ -1951,12 +1951,12 @@ The technician said that the casing was waterproof. No later test is mentioned.
 3. The sentence independently confirms that the casing is still waterproof now.
 4. The technician said that the casing had stopped being waterproof before she spoke.
 
-**Explanation:** Was can locate the reported property at the speaking time without saying whether it has since changed.
+**Explanation:** 'Was' can locate the reported property at the speaking time without saying whether it has since changed.
 
 **Choice feedback:**
 
-- **The past was proves that the casing is no longer waterproof.:** Backshift after said does not itself imply that the reported property has ceased.
-- **Was can reflect the past reporting viewpoint; it does not establish a later loss of waterproofing.:** Was can locate the reported property at the speaking time without saying whether it has since changed.
+- **The past was proves that the casing is no longer waterproof.:** Backshift after 'said' does not itself imply that the reported property has ceased.
+- **Was can reflect the past reporting viewpoint; it does not establish a later loss of waterproofing.:** 'Was' can locate the reported property at the speaking time without saying whether it has since changed.
 - **The sentence independently confirms that the casing is still waterproof now.:** The sentence reports the technician's statement and does not independently verify a current property.
 - **The technician said that the casing had stopped being waterproof before she spoke.:** Was waterproof reports the property, not its ending before the conversation.
 
@@ -2020,8 +2020,8 @@ The dispatcher asked us ___.
 **Choice feedback:**
 
 - **how long we had been waiting:** We had been waiting preserves the duration question with embedded order and the requested aspect.
-- **how long had we been waiting:** Had we is direct-question inversion; the indirect clause requires we had.
-- **how long we had being waiting:** Had must be followed by been, not being, in the perfect continuous.
+- **how long had we been waiting:** 'Had we' is direct-question inversion; the indirect clause requires 'we had'.
+- **how long we had being waiting:** 'Had' must be followed by 'been', not 'being', in the perfect continuous.
 - **how long we have been waiting:** Have been waiting can be used in some current reports, but the instruction specifically requires past perfect continuous.
 
 **Decision:** replaced.
@@ -2047,13 +2047,13 @@ The host asked ___.
 3. who had invited me **[Correct]**
 4. whether I had invited anyone
 
-**Explanation:** Who is the inviter, and me remains the person who received the invitation.
+**Explanation:** 'Who' is the inviter, and 'me' remains the person who received the invitation.
 
 **Choice feedback:**
 
 - **whom I had invited:** This makes me the inviter and asks for the person I invited, reversing the original roles.
 - **who I had sent an invitation to:** Sending an invitation also makes me the inviter rather than the recipient.
-- **who had invited me:** Who is the inviter, and me remains the person who received the invitation.
+- **who had invited me:** 'Who' is the inviter, and 'me' remains the person who received the invitation.
 - **whether I had invited anyone:** This changes a who question about my inviter into a yes/no question about my own invitations.
 
 **Decision:** replaced.
@@ -2083,7 +2083,7 @@ The tenants discussed ___ to renew the lease or move elsewhere.
 
 **Choice feedback:**
 
-- **if:** If does not normally introduce a to-infinitive choice in this standard written construction.
+- **if:** 'If' does not normally introduce a to-infinitive choice in this standard written construction.
 - **that:** That introduces a finite content clause, not this choice followed by a to-infinitive.
 - **what:** What would ask which thing to renew, whereas the sentence asks whether renewal should happen.
 - **whether:** Whether to renew introduces the choice between renewal and moving.
@@ -2143,14 +2143,14 @@ The passenger accused the driver ___.
 3. that he ignored the stop
 4. of ignoring the stop **[Correct]**
 
-**Explanation:** Accused the driver of ignoring names the person blamed and the alleged action without confirming the accusation.
+**Explanation:** 'Accused the driver of ignoring' names the person blamed and the alleged action without confirming the accusation.
 
 **Choice feedback:**
 
-- **to ignore the stop:** Accuse someone does not take a to-infinitive for the alleged act in this construction.
-- **for ignoring the stop:** The conventional preposition after accused the driver is of, not for.
-- **that he ignored the stop:** A that clause cannot directly replace the of-phrase after accused the driver here.
-- **of ignoring the stop:** Accused the driver of ignoring names the person blamed and the alleged action without confirming the accusation.
+- **to ignore the stop:** 'Accuse someone' does not take a to-infinitive for the alleged act in this construction.
+- **for ignoring the stop:** The conventional preposition after 'accused the driver' is 'of', not 'for'.
+- **that he ignored the stop:** A 'that' clause cannot directly replace the of-phrase after 'accused the driver' here.
+- **of ignoring the stop:** 'Accused the driver of ignoring' names the person blamed and the alleged action without confirming the accusation.
 
 **Decision:** replaced.
 
@@ -2181,7 +2181,7 @@ The coach congratulated the runners ___.
 
 - **for to finish their first marathon:** For to finish incorrectly combines a preposition and to-infinitive in this compliment pattern.
 - **on finishing their first marathon:** Congratulated them on finishing reports praise for the achievement already completed.
-- **to finish their first marathon:** To finish sounds like an intended action, but congratulate does not take this direct infinitive complement.
+- **to finish their first marathon:** 'To finish' sounds like an intended action, but 'congratulate' does not take this direct infinitive complement.
 - **that finishing their first marathon:** That finishing is not a complete content clause and does not fit this pattern.
 
 **Decision:** replaced.
@@ -2213,7 +2213,7 @@ A: 'She insisted on paying the bill.' B: 'She insisted that she had paid the bil
 
 - **Both report her assertion that payment had already happened.:** Only B explicitly reports the claim that payment had already occurred; A concerns insisting on doing it.
 - **A reports her determination to pay; B reports her firm claim of earlier payment.:** On paying presents her insistence on the action, whereas that she had paid supplies the content of an assertion about earlier payment.
-- **A reports a demand that someone else pay; B reports her own refusal to pay.:** She is the intended payer in A, and B asserts payment rather than refusing it.
+- **A reports a demand that someone else pay; B reports her own refusal to pay.:** 'She' is the intended payer in A, and B asserts payment rather than refusing it.
 - **Both independently prove that she paid the bill.:** Neither the insistence on an action nor the report of a claim independently proves the payment outcome.
 
 **Decision:** replaced.
@@ -2495,11 +2495,11 @@ The repair shop said, 'Delivery can take up to six weeks.'
 3. The shop guaranteed delivery in exactly six weeks.
 4. The shop said delivery would take more than six weeks.
 
-**Explanation:** Could take as long as preserves the possibility of the upper duration without requiring every delivery to take that long.
+**Explanation:** 'Could take as long as' preserves the possibility of the upper duration without requiring every delivery to take that long.
 
 **Choice feedback:**
 
-- **The shop said delivery could take as long as six weeks.:** Could take as long as preserves the possibility of the upper duration without requiring every delivery to take that long.
+- **The shop said delivery could take as long as six weeks.:** 'Could take as long as' preserves the possibility of the upper duration without requiring every delivery to take that long.
 - **The shop said delivery would take at least six weeks.:** At least makes six weeks a lower limit, reversing the up-to limit.
 - **The shop guaranteed delivery in exactly six weeks.:** Exactly fixes the duration, and guaranteed strengthens the original can statement.
 - **The shop said delivery would take more than six weeks.:** More than places the duration beyond the limit given in the source.
@@ -3075,14 +3075,14 @@ The captain reported asking the crew to check the lifeboat ropes.
 3. The captain asked the crew to report that he had checked the ropes.
 4. The captain said he had asked the crew to check the ropes. **[Correct]**
 
-**Explanation:** Reported asking means he reported his own earlier request; the crew's checking remains the requested action.
+**Explanation:** 'Reported asking' means he reported his own earlier request; the crew's checking remains the requested action.
 
 **Choice feedback:**
 
 - **The captain reported that the crew had checked the ropes.:** This moves the content from a request to a completed crew action that the source does not assert.
 - **The crew asked the captain to report on the checked ropes.:** This reverses the requesting roles and treats checking as completed.
 - **The captain asked the crew to report that he had checked the ropes.:** This makes reporting the crew's requested action and makes the captain the checker, changing both layers.
-- **The captain said he had asked the crew to check the ropes.:** Reported asking means he reported his own earlier request; the crew's checking remains the requested action.
+- **The captain said he had asked the crew to check the ropes.:** 'Reported asking' means he reported his own earlier request; the crew's checking remains the requested action.
 
 **Decision:** replaced.
 
@@ -3102,7 +3102,7 @@ In this passage the delegate is rejecting the allocation's fairness. Which repor
 
 Looking at the unequal allocation, the delegate exclaimed, 'How could anyone call this fair?'
 
-1. The delegate asked which person had used the word fair.
+1. The delegate asked which person had used the word 'fair'.
 2. The delegate sought instructions on how to make the allocation fair.
 3. The delegate admitted that the allocation could reasonably be called fair.
 4. The delegate challenged the claim that the allocation was fair. **[Correct]**
@@ -3111,7 +3111,7 @@ Looking at the unequal allocation, the delegate exclaimed, 'How could anyone cal
 
 **Choice feedback:**
 
-- **The delegate asked which person had used the word fair.:** A search for a named person would treat the rhetorical anyone question as a literal identity inquiry.
+- **The delegate asked which person had used the word 'fair'.:** A search for a named person would treat the rhetorical anyone question as a literal identity inquiry.
 - **The delegate sought instructions on how to make the allocation fair.:** How could anyone call this fair challenges a description; it is not a request for a procedure to improve the allocation.
 - **The delegate admitted that the allocation could reasonably be called fair.:** Admitted that it could be fair reverses the rejection conveyed in the supplied rhetorical context.
 - **The delegate challenged the claim that the allocation was fair.:** Challenged captures the objection to describing the allocation as fair without inventing an information request.
@@ -3783,11 +3783,11 @@ Not all the witnesses denied seeing the cyclist.
 3. None of the witnesses denied seeing the cyclist.
 4. At least one witness saw the cyclist, whether or not that witness admitted it.
 
-**Explanation:** Negating all requires at least one non-denial but does not identify the person's response as an admission.
+**Explanation:** Negating 'all' requires at least one non-denial but does not identify the person's response as an admission.
 
 **Choice feedback:**
 
-- **There was at least one non-denial, which need not have been an admission.:** Negating all requires at least one non-denial but does not identify the person's response as an admission.
+- **There was at least one non-denial, which need not have been an admission.:** Negating 'all' requires at least one non-denial but does not identify the person's response as an admission.
 - **Some witnesses admitted seeing the cyclist.:** Failure to deny can include silence or another response; it does not necessarily constitute an admission.
 - **None of the witnesses denied seeing the cyclist.:** Not all leaves open that some witnesses did deny it, so none is stronger than the source.
 - **At least one witness saw the cyclist, whether or not that witness admitted it.:** The sentence quantifies over denials, not over verified sightings; a non-denial does not prove the sighting occurred.
@@ -3815,12 +3815,12 @@ If the newsletter's account is accurate, the choir has withdrawn from the festiv
 3. The narrator confirms withdrawal and merely doubts the newsletter's explanation for it.
 4. The newsletter makes its own accuracy conditional on whether the choir withdraws.
 
-**Explanation:** The if clause marks the narrator's evidential reservation about drawing the withdrawal conclusion from the source.
+**Explanation:** The 'if' clause marks the narrator's evidential reservation about drawing the withdrawal conclusion from the source.
 
 **Choice feedback:**
 
 - **The newsletter says the choir will withdraw if the newsletter's account is accurate.:** This moves the narrator's source-accuracy condition into the content of the newsletter and changes a reported withdrawal into a future one.
-- **The narrator's conclusion about withdrawal is conditional on accepting the newsletter's account.:** The if clause marks the narrator's evidential reservation about drawing the withdrawal conclusion from the source.
+- **The narrator's conclusion about withdrawal is conditional on accepting the newsletter's account.:** The 'if' clause marks the narrator's evidential reservation about drawing the withdrawal conclusion from the source.
 - **The narrator confirms withdrawal and merely doubts the newsletter's explanation for it.:** The condition qualifies the conclusion that withdrawal occurred, not just an explanation for a confirmed event.
 - **The newsletter makes its own accuracy conditional on whether the choir withdraws.:** This reverses the dependency and assigns the condition to the newsletter rather than the narrator.
 

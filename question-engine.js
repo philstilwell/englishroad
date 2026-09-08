@@ -80,9 +80,9 @@ function editorialNotes(made, blueprint) {
   if (made.qaStatus === "reviewed" && made.reviewer && made.reviewDate && made.explanation && made.rationales) return made;
   const notes = {
     "I bought a new car. ___ car is red.": { subcategory: "Articles", explanation: 'Use "the" for the car already introduced in the first sentence. Both sentences refer to the same car.' },
-    "I found my keys under ___ old chair.": { subcategory: "Articles", explanation: 'Use "an" before the vowel sound at the beginning of "old": an old chair. A singular countable noun needs a determiner here.' },
+    "I found my keys under ___ old chair.": { subcategory: "Articles", explanation: 'Use "an" before the vowel sound at the beginning of "old": "an old chair". A singular countable noun needs a determiner here.' },
     "Are you able to play ___ piano?": { subcategory: "Articles", explanation: 'The usual expression is "play the piano." The other offered forms do not fit this sentence.' },
-    "We invited ten people. Eight replied, so ___ of them replied.": { explanation: 'Eight out of ten is most, but not all. "Each of them replied" would mean that all ten replied.' },
+    "We invited ten people. Eight replied, so ___ of them replied.": { explanation: 'Eight out of ten is "most", but not "all". "Each of them replied" would mean that all ten replied.' },
     "The trip will take about one hour ___ train.": { explanation: '"By train" tells us the means of transport. There is no article between "by" and "train" in this expression.' }
   };
   if (["s-formal-requirements", "g-subjunctive"].includes(blueprint.code)) {
@@ -255,12 +255,12 @@ function wordFormExplanation(question) {
     "worried about": 'The expression is "worried about" a danger or problem.',
     "got worse": '"Got worse" describes a change to a less healthy condition after leaving hospital.',
     "very stressful": '"Stressful" describes an activity that causes stress. "Very" modifies this adjective.',
-    "appreciative of": 'Use "appreciative of" before the thing you value: appreciative of your friendship.',
+    "appreciative of": 'Use "appreciative of" before the thing you value: "appreciative of your friendship".',
     able: 'The pattern is "be able to" plus the base verb. The sentence already contains "to walk".',
     amazing: '"Amazing" describes the prize that causes surprise; "amazed" describes a person who feels it.',
     chose: 'Use "chose," the past tense of "choose," for the completed decision. "Choice" is a noun.',
     clearly: 'Use the adverb "clearly" to describe how the instructions were written.',
-    confidential: '"Keep" + object + adjective describes the state to maintain: keep information confidential.',
+    confidential: '"Keep" + object + adjective describes the state to maintain: "keep information confidential".',
     optimistic: 'Use the adjective "optimistic" after "made investors more" to describe their outlook.',
     height: '"His" needs a noun here. "Height" names how tall someone is; "high" and "tall" are adjectives.',
     skills: 'The plural noun "skills" is the subject of the plural verb "are."',
@@ -296,10 +296,10 @@ function explainAnswer(question) {
   const normalizedTask = normalizeQuestionText(task);
 
   if (question.subcategory === "Prepositions") {
-    if (answer === "on" && /\b(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\b/.test(task)) return explanationWithCompletion(question, "We use \"on\" with days: on Monday, on Saturday.");
-    if (answer === "at" && /\d/.test(task)) return explanationWithCompletion(question, "We use \"at\" with clock times: at 9:30, at 2:15.");
+    if (answer === "on" && /\b(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\b/.test(task)) return explanationWithCompletion(question, 'We use "on" with days: "on Monday", "on Saturday".');
+    if (answer === "at" && /\d/.test(task)) return explanationWithCompletion(question, 'We use "at" with clock times: "at 9:30", "at 2:15".');
     if (answer === "in" && /\b(January|February|March|April|May|June|July|August|September|October|November|December|Paris|London|Tokyo|Boston)\b/.test(task)) return explanationWithCompletion(question, "We use \"in\" with months, cities, and larger places.");
-    if (answer === "by" && /___ (train|bus|car|plane)\b/.test(task)) return explanationWithCompletion(question, '"By" followed by a vehicle without an article names the means of transport: by train, by bus.');
+    if (answer === "by" && /___ (train|bus|car|plane)\b/.test(task)) return explanationWithCompletion(question, '"By" followed by a vehicle without an article names the means of transport: "by train", "by bus".');
     if (answer === "by") return explanationWithCompletion(question, "\"By\" means no later than a time or day.");
     return explanationWithCompletion(question, `\"${answer}\" is the small word that fits this sentence.`);
   }
@@ -329,7 +329,7 @@ function explainAnswer(question) {
   }
   if (question.subcategory === "Reduced clauses") return explanationWithCompletion(question, "This is the only option with correct grammar.");
   if (question.subcategory === "Advanced sentence structure") return explanationWithCompletion(question, "Only this option has natural English word order and grammar.");
-  if (question.subcategory === "Gerunds and infinitives") return explanationWithCompletion(question, "Some verbs and adjectives need an -ing form, and some need to plus a verb.");
+  if (question.subcategory === "Gerunds and infinitives") return explanationWithCompletion(question, "Some verbs and adjectives need an -ing form, and some need 'to' plus a verb.");
   if (question.subcategory === "Question forms") return explanationWithCompletion(question, "The question needs the correct helper word and word order.");
   if (question.subcategory === "Pronouns and reference") return explanationWithCompletion(question, "The pronoun must clearly point to the right person or thing.");
   if (question.subcategory === "Determiners and quantifiers") return explanationWithCompletion(question, "The amount word must fit the noun and meaning.");
@@ -503,7 +503,7 @@ function helpfulSetup(text, blueprint, index = 0, made = {}) {
   if (blueprint.code === "g-second-conditional") {
     return pick([
       "The sentence imagines a different situation.",
-      "The if part is not about a real plan.",
+      "The 'if' part is not about a real plan.",
       "Choose the result that fits an imagined situation.",
       "The sentence talks about what could happen in a different case."
     ], index);
@@ -517,7 +517,7 @@ function helpfulSetup(text, blueprint, index = 0, made = {}) {
     Modals: ["A rule or notice is giving an instruction.", "The sentence says what people are required to do.", "Choose the helping verb that shows a requirement.", "The sentence gives a rule, not a preference."],
     Comparatives: ["The sentence compares two things.", "Choose the form used to compare two things.", "The answer should fit the comparison.", "Look at both things being compared."],
     "Clauses and connectors": ["Choose the phrase that fits the sentence.", "The answer must connect clearly with the rest of the sentence.", "Read the whole sentence before choosing.", "Choose the best answer."],
-    "Passive voice": ["The sentence describes what happened to a document yesterday.", "The focus is on the thing, not the person.", "Choose the form that shows the document received the action.", "The by phrase names who did the action."],
+    "Passive voice": ["The sentence describes what happened to a document yesterday.", "The focus is on the thing, not the person.", "Choose the form that shows the document received the action.", "The 'by' phrase names who did the action."],
     "Relative clauses": ["The sentence gives more information about a person.", "Choose the word that connects the extra information.", "Choose the word that shows possession.", "Read the whole sentence before choosing."],
     "Reported speech": ["A person is telling someone what another person said earlier.", "Choose the sentence that reports the direct quote.", "The original words are being retold later.", "The answer should sound like reported information."],
     "Reduced clauses": ["Choose the sentence with correct grammar.", "Only one choice is a complete, correct sentence.", "Look for the form that fits the noun before it.", "The answer should be a correct English sentence."],

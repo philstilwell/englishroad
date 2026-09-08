@@ -23,9 +23,9 @@ The ___ helped the morning class.
 
 **Choice feedback:**
 
-- **teach:** Teach names an action. It does not name a person after the.
-- **teaches:** Teaches is a present-tense verb, as in 'She teaches'. It is not the person's name.
-- **taught:** Taught is a past form of teach, not the usual noun for the person who teaches.
+- **teach:** 'Teach' names an action. It does not name a person after 'the'.
+- **teaches:** 'Teaches' is a present-tense verb, as in 'She teaches'. It is not the person's name.
+- **taught:** 'Taught' is a past form of 'teach', not the usual noun for the person who teaches.
 - **teacher:** A teacher is a person who teaches; the sentence needs the name of that person.
 
 **Decision:** revised.
@@ -83,13 +83,13 @@ The room is very ___.
 3. cleans
 4. cleaned
 
-**Explanation:** Clean is the adjective for something free from dirt: very clean.
+**Explanation:** 'Clean' is the adjective for something free from dirt: 'very clean'.
 
 **Choice feedback:**
 
-- **clean:** Clean is the adjective for something free from dirt: very clean.
-- **cleaning:** Cleaning names the activity or forms part of a continuing verb; it does not describe this room's condition after very.
-- **cleans:** Cleans is a present-tense verb, not an adjective after very.
+- **clean:** 'Clean' is the adjective for something free from dirt: 'very clean'.
+- **cleaning:** 'Cleaning' names the activity or forms part of a continuing verb; it does not describe this room's condition after 'very'.
+- **cleans:** 'Cleans' is a present-tense verb, not an adjective after 'very'.
 - **cleaned:** Cleaned tells us about an action done to something; 'very cleaned' is not the usual description of this condition.
 
 **Decision:** replaced.
@@ -115,14 +115,14 @@ Please ___ the door when you leave.
 3. close **[Correct]**
 4. closely
 
-**Explanation:** A request with please can use the base verb: please close the door.
+**Explanation:** A request with 'please' can use the base verb: 'please close the door'.
 
 **Choice feedback:**
 
-- **closed:** Closed is a past form or adjective; this request needs close.
+- **closed:** 'Closed' is a past form or adjective; this request needs 'close'.
 - **closing:** Closing does not form a complete command here.
-- **close:** A request with please can use the base verb: please close the door.
-- **closely:** Closely describes how an action is done; it cannot replace the action close.
+- **close:** A request with 'please' can use the base verb: 'please close the door'.
+- **closely:** 'Closely' describes how an action is done; it cannot replace the action 'close'.
 
 **Decision:** replaced.
 
@@ -152,7 +152,7 @@ A museum ___ can ask for a map at the desk.
 **Choice feedback:**
 
 - **visit:** A visit is the occasion or activity, not the person who asks for a map.
-- **visited:** Visited is a verb form; it does not name the person after museum.
+- **visited:** 'Visited' is a verb form; it does not name the person after 'museum'.
 - **visitor:** The ending -or in visitor helps form a noun naming a person who visits.
 - **visiting:** Visiting names an activity or describes it; 'a museum visiting' does not name the person.
 
@@ -179,13 +179,13 @@ This tin contains blue ___.
 3. painted
 4. painting
 
-**Explanation:** Paint is the noun for the coloured material used on a surface.
+**Explanation:** 'Paint' is the noun for the coloured material used on a surface.
 
 **Choice feedback:**
 
 - **painter:** A painter is a person who uses paint, not the material in the tin.
-- **paint:** Paint is the noun for the coloured material used on a surface.
-- **painted:** Painted describes a past action or a surface; it does not name the material.
+- **paint:** 'Paint' is the noun for the coloured material used on a surface.
+- **painted:** 'Painted' describes a past action or a surface; it does not name the material.
 - **painting:** A painting can be a picture or the activity of painting, not the coloured material itself.
 
 **Decision:** replaced.
@@ -211,14 +211,14 @@ Her voice is ___.
 3. noise
 4. noisily
 
-**Explanation:** Loud is an adjective that describes a strong sound or voice.
+**Explanation:** 'Loud' is an adjective that describes a strong sound or voice.
 
 **Choice feedback:**
 
 - **loudly:** Loudly describes an action, as in 'She speaks loudly'; voice is needs an adjective here.
-- **loud:** Loud is an adjective that describes a strong sound or voice.
-- **noise:** Noise is a noun for sound, not the adjective describing the strength of her voice.
-- **noisily:** Noisily is an adverb describing how an action happens, not this voice's quality.
+- **loud:** 'Loud' is an adjective that describes a strong sound or voice.
+- **noise:** 'Noise' is a noun for sound, not the adjective describing the strength of her voice.
+- **noisily:** 'Noisily' is an adverb describing how an action happens, not this voice's quality.
 
 **Decision:** replaced.
 
@@ -307,14 +307,14 @@ My sister is a ___ dancer.
 3. good **[Correct]**
 4. successfully
 
-**Explanation:** Good is an adjective before a person noun: a good dancer.
+**Explanation:** 'Good' is an adjective before a person noun: 'a good dancer'.
 
 **Choice feedback:**
 
 - **well:** To describe skill before dancer, use good; well usually describes the action in 'She dances well'.
-- **success:** Success is a noun, not the adjective needed before dancer.
-- **good:** Good is an adjective before a person noun: a good dancer.
-- **successfully:** Successfully describes how an action is completed; it does not describe dancer in this position.
+- **success:** 'Success' is a noun, not the adjective needed before 'dancer'.
+- **good:** 'Good' is an adjective before a person noun: 'a good dancer'.
+- **successfully:** 'Successfully' describes how an action is completed; it does not describe 'dancer' in this position.
 
 **Decision:** replaced.
 
@@ -343,8 +343,8 @@ I bought two ___ for the train journey.
 
 **Choice feedback:**
 
-- **book:** Two requires a plural count noun here: books.
-- **booked:** Booked is a verb form, as in booked a seat, not the plural object noun.
+- **book:** 'Two' requires a plural count noun here: 'books'.
+- **booked:** 'Booked' is a verb form, as in 'booked a seat', not the plural object noun.
 - **booking:** A booking is a reservation; two would require bookings, and the task asks for reading material.
 - **books:** The ending -s makes the regular plural: one book, two books.
 
@@ -371,14 +371,14 @@ Lunch is ___.
 3. readily
 4. prepare
 
-**Explanation:** Ready describes something prepared for use or an activity: lunch is ready.
+**Explanation:** 'Ready' describes something prepared for use or an activity: 'lunch is ready'.
 
 **Choice feedback:**
 
-- **ready:** Ready describes something prepared for use or an activity: lunch is ready.
-- **readiness:** Readiness is a noun for the state; the sentence needs the adjective ready.
-- **readily:** Readily is an adverb, often meaning easily; it does not complete this description.
-- **prepare:** Prepare is the action of getting something ready, not the state after is.
+- **ready:** 'Ready' describes something prepared for use or an activity: 'lunch is ready'.
+- **readiness:** 'Readiness' is a noun for the state; the sentence needs the adjective 'ready'.
+- **readily:** 'Readily' is an adverb, often meaning easily; it does not complete this description.
+- **prepare:** 'Prepare' is the action of getting something ready, not the state after 'is'.
 
 **Decision:** replaced.
 
@@ -435,14 +435,14 @@ It's a ___ day, so take an umbrella.
 3. rains
 4. raining
 
-**Explanation:** Rainy is the adjective formed from rain to describe wet weather.
+**Explanation:** 'Rainy' is the adjective formed from 'rain' to describe wet weather.
 
 **Choice feedback:**
 
-- **rain:** Rain names the water or weather; the usual description here is a rainy day.
-- **rainy:** Rainy is the adjective formed from rain to describe wet weather.
-- **rains:** Rains is a verb form or plural noun, not the adjective before day.
-- **raining:** Say 'It is raining' for the current action; a rainy day is the usual adjective-plus-noun description.
+- **rain:** 'Rain' names the water or weather; the usual description here is 'a rainy day'.
+- **rainy:** 'Rainy' is the adjective formed from 'rain' to describe wet weather.
+- **rains:** 'Rains' is a verb form or plural noun, not the adjective before 'day'.
+- **raining:** Say 'It is raining' for the current action; 'a rainy day' is the usual adjective-plus-noun description.
 
 **Decision:** replaced.
 
@@ -531,14 +531,14 @@ Thank you for your ___.
 3. helpless
 4. help **[Correct]**
 
-**Explanation:** Help is the noun for assistance; it can also be a verb in other sentences.
+**Explanation:** 'Help' is the noun for assistance; it can also be a verb in other sentences.
 
 **Choice feedback:**
 
-- **helpful:** Helpful describes a person or thing; after your here, name the assistance: help.
-- **helpfully:** Helpfully describes the manner of an action, not the assistance after your.
-- **helpless:** Helpless means unable to act or manage, not the assistance received.
-- **help:** Help is the noun for assistance; it can also be a verb in other sentences.
+- **helpful:** 'Helpful' describes a person or thing; after 'your' here, name the assistance: 'help'.
+- **helpfully:** 'Helpfully' describes the manner of an action, not the assistance after 'your'.
+- **helpless:** 'Helpless' means unable to act or manage, not the assistance received.
+- **help:** 'Help' is the noun for assistance; it can also be a verb in other sentences.
 
 **Decision:** replaced.
 
@@ -563,14 +563,14 @@ The shop is ___.
 3. closely
 4. closure
 
-**Explanation:** Closed can be an adjective meaning not open.
+**Explanation:** 'Closed' can be an adjective meaning not open.
 
 **Choice feedback:**
 
-- **closed:** Closed can be an adjective meaning not open.
-- **closing:** Closing describes the action of shutting, not the completed state requested.
-- **closely:** Closely is an adverb meaning with close attention or at a short distance, not not open.
-- **closure:** Closure is a noun for an act or state of closing; it does not fit this adjective position.
+- **closed:** 'Closed' can be an adjective meaning not open.
+- **closing:** 'Closing' describes the action of shutting, not the completed state requested.
+- **closely:** 'Closely' is an adverb meaning with close attention or at a short distance, not 'not open'.
+- **closure:** 'Closure' is a noun for an act or state of closing; it does not fit this adjective position.
 
 **Decision:** replaced.
 
@@ -595,14 +595,14 @@ My neighbour is a fast ___.
 3. running
 4. runs
 
-**Explanation:** Runner names a person who runs; the final consonant is doubled before -er.
+**Explanation:** 'Runner' names a person who runs; the final consonant is doubled before '-er'.
 
 **Choice feedback:**
 
 - **run:** A run is an activity or event, not the person described.
-- **runner:** Runner names a person who runs; the final consonant is doubled before -er.
+- **runner:** 'Runner' names a person who runs; the final consonant is doubled before '-er'.
 - **running:** Running names the activity; 'a fast running' does not name a person.
-- **runs:** Runs can be a verb or a plural noun, not one person after a.
+- **runs:** 'Runs' can be a verb or a plural noun, not one person after 'a'.
 
 **Decision:** replaced.
 
@@ -663,14 +663,14 @@ Could you ___ this bill? I need a clear ___.
 3. explained / explaining
 4. explaining / explained
 
-**Explanation:** Explain is the action after could you; explanation is the noun after a clear.
+**Explanation:** 'Explain' is the action after 'could you'; 'explanation' is the noun after 'a clear'.
 
 **Choice feedback:**
 
-- **explanation / explain:** The noun explanation cannot follow could you as the action; explain cannot name the thing after a clear.
-- **explain / explanation:** Explain is the action after could you; explanation is the noun after a clear.
-- **explained / explaining:** Could takes the base form explain; the usual noun in a clear explanation is not explaining.
-- **explaining / explained:** Explaining cannot follow could without be, and explained needs a noun if it describes something after a clear.
+- **explanation / explain:** The noun 'explanation' cannot follow 'could you' as the action; 'explain' cannot name the thing after 'a clear'.
+- **explain / explanation:** 'Explain' is the action after 'could you'; 'explanation' is the noun after 'a clear'.
+- **explained / explaining:** 'Could' takes the base form 'explain'; the usual noun in 'a clear explanation' is not 'explaining'.
+- **explaining / explained:** 'Explaining' cannot follow 'could' without 'be', and 'explained' needs a noun if it describes something after 'a clear'.
 
 **Decision:** replaced.
 
@@ -695,14 +695,14 @@ We have not ___ which sofa to buy yet.
 3. decided **[Correct]**
 4. decide
 
-**Explanation:** Have not is followed by the past participle decided in this present-perfect sentence.
+**Explanation:** 'Have not' is followed by the past participle 'decided' in this present-perfect sentence.
 
 **Choice feedback:**
 
-- **decision:** Decision is the noun, as in make a decision; have not needs a verb form here.
+- **decision:** 'Decision' is the noun, as in 'make a decision'; 'have not' needs a verb form here.
 - **deciding:** For a continuing process use have been deciding; have not deciding is incomplete.
-- **decided:** Have not is followed by the past participle decided in this present-perfect sentence.
-- **decide:** Decide is the base form; after have not here, use decided.
+- **decided:** 'Have not' is followed by the past participle 'decided' in this present-perfect sentence.
+- **decide:** 'Decide' is the base form; after 'have not' here, use 'decided'.
 
 **Decision:** replaced.
 
@@ -727,13 +727,13 @@ The housing office sent an ___.
 3. invitation **[Correct]**
 4. inviting
 
-**Explanation:** Invitation is the usual noun in neutral formal writing for a request to attend something.
+**Explanation:** 'Invitation' is the usual noun in neutral formal writing for a request to attend something.
 
 **Choice feedback:**
 
-- **invite:** Invite can be a noun in informal English. It is not ungrammatical, but this task asks for the formal-notice choice.
-- **invited:** Invited is a verb form or adjective, not the noun naming what the office sent.
-- **invitation:** Invitation is the usual noun in neutral formal writing for a request to attend something.
+- **invite:** 'Invite' can be a noun in informal English. It is not ungrammatical, but this task asks for the formal-notice choice.
+- **invited:** 'Invited' is a verb form or adjective, not the noun naming what the office sent.
+- **invitation:** 'Invitation' is the usual noun in neutral formal writing for a request to attend something.
 - **inviting:** Inviting can describe something attractive; it does not name the document after an here.
 
 **Decision:** revised.
@@ -759,14 +759,14 @@ The assistant checks each payment ___.
 3. careless
 4. carefully **[Correct]**
 
-**Explanation:** Carefully is the adverb formed from careful; it describes checking with attention.
+**Explanation:** 'Carefully' is the adverb formed from 'careful'; it describes checking with attention.
 
 **Choice feedback:**
 
-- **careful:** Careful describes a person or action noun; use carefully to describe how the checking is done.
-- **carefulness:** Carefulness names the quality, but the sentence needs a word describing the checking.
-- **careless:** Careless describes a lack of attention and is also an adjective, not the required manner form.
-- **carefully:** Carefully is the adverb formed from careful; it describes checking with attention.
+- **careful:** 'Careful' describes a person or action noun; use 'carefully' to describe how the checking is done.
+- **carefulness:** 'Carefulness' names the quality, but the sentence needs a word describing the checking.
+- **careless:** 'Careless' describes a lack of attention and is also an adjective, not the required manner form.
+- **carefully:** 'Carefully' is the adverb formed from 'careful'; it describes checking with attention.
 
 **Decision:** replaced.
 
@@ -791,14 +791,14 @@ The new microphone has made a noticeable ___.
 3. improved
 4. improvable
 
-**Explanation:** Improvement is the noun for a change that makes something better.
+**Explanation:** 'Improvement' is the noun for a change that makes something better.
 
 **Choice feedback:**
 
-- **improvement:** Improvement is the noun for a change that makes something better.
-- **improve:** Improve is the action verb; after a noticeable, name the change with improvement.
-- **improved:** Improved could describe something, such as improved sound, but no noun follows it here.
-- **improvable:** Improvable describes something that can be made better; it does not name a change already made.
+- **improvement:** 'Improvement' is the noun for a change that makes something better.
+- **improve:** 'Improve' is the action verb; after 'a noticeable', name the change with 'improvement'.
+- **improved:** 'Improved' could describe something, such as 'improved sound', but no noun follows it here.
+- **improvable:** 'Improvable' describes something that can be made better; it does not name a change already made.
 
 **Decision:** replaced.
 
@@ -855,12 +855,12 @@ We have a ___ of two rooms. Which one shall we ___?
 3. choice / chosen
 4. chosen / choosing
 
-**Explanation:** Choice names the available selection; choose is the action of selecting.
+**Explanation:** 'Choice' names the available selection; 'choose' is the action of selecting.
 
 **Choice feedback:**
 
-- **choose / choice:** Choose is the verb needed after shall we, while choice is the noun after a.
-- **choice / choose:** Choice names the available selection; choose is the action of selecting.
+- **choose / choice:** 'Choose' is the verb needed after 'shall we', while 'choice' is the noun after 'a'.
+- **choice / choose:** 'Choice' names the available selection; 'choose' is the action of selecting.
 - **choice / chosen:** The first noun fits, but shall takes the base verb choose, not chosen.
 - **chosen / choosing:** Chosen does not name the selection after a, and shall we needs choose rather than choosing.
 
@@ -919,14 +919,14 @@ After an hour of the same story, I felt ___.
 3. boringly
 4. bore
 
-**Explanation:** Bored describes the person experiencing lack of interest; boring describes its cause.
+**Explanation:** 'Bored' describes the person experiencing lack of interest; 'boring' describes its cause.
 
 **Choice feedback:**
 
-- **bored:** Bored describes the person experiencing lack of interest; boring describes its cause.
-- **boring:** Boring describes someone or something that causes boredom; it would describe your effect on others, not the listener's feeling requested.
-- **boringly:** Boringly describes how an action is done, not the listener's feeling in this sentence.
-- **bore:** Bore can name a dull person or be a verb; it does not describe the listener's state in this position.
+- **bored:** 'Bored' describes the person experiencing lack of interest; 'boring' describes its cause.
+- **boring:** 'Boring' describes someone or something that causes boredom; it would describe your effect on others, not the listener's feeling requested.
+- **boringly:** 'Boringly' describes how an action is done, not the listener's feeling in this sentence.
+- **bore:** 'Bore' can name a dull person or be a verb; it does not describe the listener's state in this position.
 
 **Decision:** replaced.
 
@@ -951,14 +951,14 @@ One partner wants morning deliveries; the other wants evenings. There is a ___ a
 3. disagree
 4. agreeable
 
-**Explanation:** Disagreement is the noun for a difference of opinion; dis- gives it the opposite meaning from agreement.
+**Explanation:** 'Disagreement' is the noun for a difference of opinion; 'dis-' gives it the opposite meaning from 'agreement'.
 
 **Choice feedback:**
 
-- **disagreement:** Disagreement is the noun for a difference of opinion; dis- gives it the opposite meaning from agreement.
-- **agreement:** Agreement means the partners share a view, the opposite of the requested meaning.
-- **disagree:** Disagree is a verb; after there is a, the sentence needs a noun.
-- **agreeable:** Agreeable is an adjective, often meaning pleasant or acceptable, not the noun for this dispute.
+- **disagreement:** 'Disagreement' is the noun for a difference of opinion; 'dis-' gives it the opposite meaning from 'agreement'.
+- **agreement:** 'Agreement' means the partners share a view, the opposite of the requested meaning.
+- **disagree:** 'Disagree' is a verb; after 'there is a', the sentence needs a noun.
+- **agreeable:** 'Agreeable' is an adjective, often meaning pleasant or acceptable, not the noun for this dispute.
 
 **Decision:** replaced.
 
@@ -983,14 +983,14 @@ Please ___ me if the collection time changes.
 3. informative
 4. informed
 
-**Explanation:** Inform is the verb meaning tell someone; please inform me is a polite request.
+**Explanation:** 'Inform' is the verb meaning tell someone; 'please inform me' is a polite request.
 
 **Choice feedback:**
 
-- **information:** Information names what is communicated, not the command to communicate it.
-- **inform:** Inform is the verb meaning tell someone; please inform me is a polite request.
-- **informative:** Informative describes something that gives useful information; it is not an action verb here.
-- **informed:** Informed is a past form or adjective; this request needs the base verb inform.
+- **information:** 'Information' names what is communicated, not the command to communicate it.
+- **inform:** 'Inform' is the verb meaning tell someone; 'please inform me' is a polite request.
+- **informative:** 'Informative' describes something that gives useful information; it is not an action verb here.
+- **informed:** 'Informed' is a past form or adjective; this request needs the base verb 'inform'.
 
 **Decision:** replaced.
 
@@ -1015,14 +1015,14 @@ The bags are packed and the tickets are checked. We are fully ___ for the trip.
 3. prepared **[Correct]**
 4. prepare
 
-**Explanation:** Prepared describes the ready state after preparations have been made.
+**Explanation:** 'Prepared' describes the ready state after preparations have been made.
 
 **Choice feedback:**
 
 - **preparing:** Preparing would describe the process still happening, not the completed readiness requested.
-- **preparation:** Preparation is the noun; the people are prepared, not preparation.
-- **prepared:** Prepared describes the ready state after preparations have been made.
-- **prepare:** Prepare is the base verb and cannot follow are fully in this state description.
+- **preparation:** 'Preparation' is the noun; the people are 'prepared', not 'preparation'.
+- **prepared:** 'Prepared' describes the ready state after preparations have been made.
+- **prepare:** 'Prepare' is the base verb and cannot follow 'are fully' in this state description.
 
 **Decision:** replaced.
 
@@ -1047,14 +1047,14 @@ This shopping bag is ___.
 3. used
 4. using
 
-**Explanation:** Re- suggests again, and -able suggests possibility: reusable means able to be used again.
+**Explanation:** 'Re-' suggests again, and '-able' suggests possibility: 'reusable' means able to be used again.
 
 **Choice feedback:**
 
 - **useful:** Useful says the bag helps with a purpose, not specifically that it can be used again.
-- **reusable:** Re- suggests again, and -able suggests possibility: reusable means able to be used again.
+- **reusable:** 'Re-' suggests again, and '-able' suggests possibility: 'reusable' means able to be used again.
 - **used:** Used says the bag has already been used; it does not itself say another use is possible.
-- **using:** Using describes an action, not the bag's ability to be used again.
+- **using:** 'Using' describes an action, not the bag's ability to be used again.
 
 **Decision:** replaced.
 
@@ -1079,14 +1079,14 @@ The email confirmed the ___ of our walking tour.
 3. cancelled
 4. cancellable
 
-**Explanation:** Cancellation is the noun for calling something off: the cancellation of a tour.
+**Explanation:** 'Cancellation' is the noun for calling something off: 'the cancellation of a tour'.
 
 **Choice feedback:**
 
-- **cancellation:** Cancellation is the noun for calling something off: the cancellation of a tour.
-- **cancel:** Cancel is the action verb; this phrase needs the noun naming the cancellation.
-- **cancelled:** Cancelled describes something called off, such as a cancelled tour; it does not name the event after the here.
-- **cancellable:** Cancellable describes a tour that can be called off; it does not name the event of calling it off.
+- **cancellation:** 'Cancellation' is the noun for calling something off: 'the cancellation of a tour'.
+- **cancel:** 'Cancel' is the action verb; this phrase needs the noun naming the cancellation.
+- **cancelled:** 'Cancelled' describes something called off, such as 'a cancelled tour'; it does not name the event after 'the' here.
+- **cancellable:** 'Cancellable' describes a tour that can be called off; it does not name the event of calling it off.
 
 **Decision:** replaced.
 
@@ -1111,14 +1111,14 @@ The handle is ___ to turn. It turns ___.
 3. eased / ease
 4. easy / easily **[Correct]**
 
-**Explanation:** Easy is the adjective in easy to turn; easily is the adverb describing turns.
+**Explanation:** 'Easy' is the adjective in 'easy to turn'; 'easily' is the adverb describing 'turns'.
 
 **Choice feedback:**
 
-- **easily / easy:** Easily does not describe the handle after is; the standard adjective/adverb pairing is easy, then easily.
-- **ease / easing:** Ease is a noun or verb, not the adjective required; easing does not give the intended manner after turns.
-- **eased / ease:** Eased describes a past change, and ease is not the standard manner adverb for turns.
-- **easy / easily:** Easy is the adjective in easy to turn; easily is the adverb describing turns.
+- **easily / easy:** 'Easily' does not describe the handle after 'is'; the standard adjective/adverb pairing is 'easy', then 'easily'.
+- **ease / easing:** 'Ease' is a noun or verb, not the adjective required; 'easing' does not give the intended manner after 'turns'.
+- **eased / ease:** 'Eased' describes a past change, and 'ease' is not the standard manner adverb for 'turns'.
+- **easy / easily:** 'Easy' is the adjective in 'easy to turn'; 'easily' is the adverb describing 'turns'.
 
 **Decision:** replaced.
 
@@ -1147,9 +1147,9 @@ Nora keeps a clear schedule and never loses her notes. She is very ___.
 
 **Choice feedback:**
 
-- **organization:** Organization is a noun for arranging things or for a group, not the adjective describing Nora.
-- **organize:** Organize is the action verb; after is very, describe the person with organized.
-- **organizing:** Organizing describes the activity or something that performs that function, not the usual personal quality requested here.
+- **organization:** 'Organization' is a noun for arranging things or for a group, not the adjective describing Nora.
+- **organize:** 'Organize' is the action verb; after 'is very', describe the person with 'organized'.
+- **organizing:** 'Organizing' describes the activity or something that performs that function, not the usual personal quality requested here.
 - **organized:** Organized can describe a person who plans and arranges things well.
 
 **Decision:** replaced.
@@ -1179,9 +1179,9 @@ The shop expects a large ___ of rice tomorrow.
 
 **Choice feedback:**
 
-- **deliver:** Deliver is the action of bringing goods, not the noun for the arriving load.
-- **delivered:** Delivered could describe goods already brought, but it needs a noun after it here.
-- **delivering:** Delivering names the activity; delivery is the usual noun for a load of goods arriving at an address.
+- **deliver:** 'Deliver' is the action of bringing goods, not the noun for the arriving load.
+- **delivered:** 'Delivered' could describe goods already brought, but it needs a noun after it here.
+- **delivering:** 'Delivering' names the activity; 'delivery' is the usual noun for a load of goods arriving at an address.
 - **delivery:** A delivery can be the goods brought or the act of bringing them; here it names the arriving load.
 
 **Decision:** replaced.
@@ -1207,14 +1207,14 @@ Employees are ___ to leave early today.
 3. permitting
 4. permit
 
-**Explanation:** Are permitted is a passive form meaning are allowed.
+**Explanation:** 'Are permitted' is a passive form meaning 'are allowed'.
 
 **Choice feedback:**
 
-- **permitted:** Are permitted is a passive form meaning are allowed.
-- **permission:** Permission is the noun for authorization; the people themselves are permitted to leave.
+- **permitted:** 'Are permitted' is a passive form meaning 'are allowed'.
+- **permission:** 'Permission' is the noun for authorization; the people themselves are permitted to leave.
 - **permitting:** Are permitting would make employees the people granting permission, and would need to identify whom they permit.
-- **permit:** Permit is a base verb or a document noun, not the form after are in this passive statement.
+- **permit:** 'Permit' is a base verb or a document noun, not the form after 'are' in this passive statement.
 
 **Decision:** replaced.
 
@@ -1239,14 +1239,14 @@ You must pay by card at this cafe. It is ___.
 3. cashless **[Correct]**
 4. cashed
 
-**Explanation:** The suffix -less means without: a cashless cafe does not take cash payments.
+**Explanation:** The suffix '-less' means without: a cashless cafe does not take cash payments.
 
 **Choice feedback:**
 
 - **cashier:** A cashier is the person taking payments, not a description of the cafe's payment system.
-- **cashing:** Cashing names an action, such as cashing a cheque, not operating without cash.
-- **cashless:** The suffix -less means without: a cashless cafe does not take cash payments.
-- **cashed:** Cashed describes something already exchanged for cash; it does not mean without cash.
+- **cashing:** 'Cashing' names an action, such as 'cashing a cheque', not operating without cash.
+- **cashless:** The suffix '-less' means without: a cashless cafe does not take cash payments.
+- **cashed:** 'Cashed' describes something already exchanged for cash; it does not mean without cash.
 
 **Decision:** replaced.
 
@@ -1271,14 +1271,14 @@ This app is ___ for translating menus.
 3. useful **[Correct]**
 4. useless
 
-**Explanation:** Useful describes something that helps with a purpose or task.
+**Explanation:** 'Useful' describes something that helps with a purpose or task.
 
 **Choice feedback:**
 
-- **usefully:** Usefully is an adverb; the app itself is described by the adjective useful.
-- **usefulness:** Usefulness names the quality, but the sentence needs a description after is.
-- **useful:** Useful describes something that helps with a purpose or task.
-- **useless:** Useless is an adjective with the opposite meaning: it does not help with the task.
+- **usefully:** 'Usefully' is an adverb; the app itself is described by the adjective 'useful'.
+- **usefulness:** 'Usefulness' names the quality, but the sentence needs a description after 'is'.
+- **useful:** 'Useful' describes something that helps with a purpose or task.
+- **useless:** 'Useless' is an adjective with the opposite meaning: it does not help with the task.
 
 **Decision:** replaced.
 
@@ -1307,14 +1307,14 @@ Before confirming the booking, check that the passenger details are ___.
 3. inaccuracy
 4. accurate **[Correct]**
 
-**Explanation:** Accurate is the adjective describing information that is correct.
+**Explanation:** 'Accurate' is the adjective describing information that is correct.
 
 **Choice feedback:**
 
-- **accuracy:** Accuracy names the quality; details are accurate, not accuracy.
-- **accurately:** Accurately describes an action, as in record details accurately, not the details themselves.
-- **inaccuracy:** Inaccuracy is a noun for an error or lack of correctness, not the positive adjective requested.
-- **accurate:** Accurate is the adjective describing information that is correct.
+- **accuracy:** 'Accuracy' names the quality; details are 'accurate', not 'accuracy'.
+- **accurately:** 'Accurately' describes an action, as in 'record details accurately', not the details themselves.
+- **inaccuracy:** 'Inaccuracy' is a noun for an error or lack of correctness, not the positive adjective requested.
+- **accurate:** 'Accurate' is the adjective describing information that is correct.
 
 **Decision:** replaced.
 
@@ -1403,14 +1403,14 @@ The organiser handled the complaint ___ and calmly.
 3. responsibly **[Correct]**
 4. irresponsible
 
-**Explanation:** Responsibly is an adverb, parallel to calmly, describing the manner of handling the complaint.
+**Explanation:** 'Responsibly' is an adverb, parallel to 'calmly', describing the manner of handling the complaint.
 
 **Choice feedback:**
 
-- **responsible:** Responsible describes a person or thing; here the word must describe how the complaint was handled.
-- **responsibility:** Responsibility names a duty or accountability; it is not a manner word coordinated with calmly.
-- **responsibly:** Responsibly is an adverb, parallel to calmly, describing the manner of handling the complaint.
-- **irresponsible:** Irresponsible is an adjective meaning lacking responsibility, not the required adverb in this coordination.
+- **responsible:** 'Responsible' describes a person or thing; here the word must describe how the complaint was handled.
+- **responsibility:** 'Responsibility' names a duty or accountability; it is not a manner word coordinated with 'calmly'.
+- **responsibly:** 'Responsibly' is an adverb, parallel to 'calmly', describing the manner of handling the complaint.
+- **irresponsible:** 'Irresponsible' is an adjective meaning lacking responsibility, not the required adverb in this coordination.
 
 **Decision:** replaced.
 
@@ -1435,14 +1435,14 @@ The first attempt failed, but the team eventually ___.
 3. success
 4. successfully
 
-**Explanation:** Succeeded is the past-tense verb corresponding to the noun success and adjective successful.
+**Explanation:** 'Succeeded' is the past-tense verb corresponding to the noun 'success' and adjective 'successful'.
 
 **Choice feedback:**
 
-- **successful:** Successful is an adjective; it would need 'was successful' rather than standing as the past action.
-- **succeeded:** Succeeded is the past-tense verb corresponding to the noun success and adjective successful.
-- **success:** Success is a noun; the team needs a finite verb in this clause.
-- **successfully:** Successfully describes an action but does not supply the missing action verb.
+- **successful:** 'Successful' is an adjective; it would need 'was successful' rather than standing as the past action.
+- **succeeded:** 'Succeeded' is the past-tense verb corresponding to the noun 'success' and adjective 'successful'.
+- **success:** 'Success' is a noun; the team needs a finite verb in this clause.
+- **successfully:** 'Successfully' describes an action but does not supply the missing action verb.
 
 **Decision:** replaced.
 
@@ -1467,13 +1467,13 @@ For ___ reasons, visitors must keep this door clear.
 3. safely
 4. safer
 
-**Explanation:** Safety is a noun used before reasons to identify their subject or purpose.
+**Explanation:** 'Safety' is a noun used before 'reasons' to identify their subject or purpose.
 
 **Choice feedback:**
 
-- **safety:** Safety is a noun used before reasons to identify their subject or purpose.
-- **safe:** Safe describes something without danger; the conventional phrase naming the purpose is safety reasons.
-- **safely:** Safely describes how an action happens, not the type of reasons.
+- **safety:** 'Safety' is a noun used before 'reasons' to identify their subject or purpose.
+- **safe:** 'Safe' describes something without danger; the conventional phrase naming the purpose is 'safety reasons'.
+- **safely:** 'Safely' describes how an action happens, not the type of reasons.
 - **safer:** Safer compares levels of safety; safer reasons does not express the reason of avoiding danger requested here.
 
 **Decision:** replaced.
@@ -1499,12 +1499,12 @@ She speaks ___ French. She also speaks Italian ___.
 3. fluently / fluency
 4. fluent / fluency
 
-**Explanation:** Fluent describes French as used by the speaker; fluently describes how she speaks Italian.
+**Explanation:** 'Fluent' describes 'French' as used by the speaker; 'fluently' describes how she speaks Italian.
 
 **Choice feedback:**
 
-- **fluency / fluent:** Fluency is a noun and cannot directly describe French here; the second gap describes speaks and needs an adverb.
-- **fluent / fluently:** Fluent describes French as used by the speaker; fluently describes how she speaks Italian.
+- **fluency / fluent:** 'Fluency' is a noun and cannot directly describe 'French' here; the second gap describes 'speaks' and needs an adverb.
+- **fluent / fluently:** 'Fluent' describes 'French' as used by the speaker; 'fluently' describes how she speaks Italian.
 - **fluently / fluency:** The first gap before French needs the adjective in this pattern, while fluency cannot serve as the second clause's manner adverb.
 - **fluent / fluency:** Fluent fits the first gap, but the second needs fluently to describe the action.
 
@@ -1531,14 +1531,14 @@ The repair may take a while, so please be ___.
 3. patient **[Correct]**
 4. patients
 
-**Explanation:** Patient is an adjective here, meaning able to wait without becoming annoyed.
+**Explanation:** 'Patient' is an adjective here, meaning able to wait without becoming annoyed.
 
 **Choice feedback:**
 
-- **patience:** Patience is the noun for waiting calmly; after be, describe the person as patient.
-- **patiently:** Patiently describes waiting, as in wait patiently, but not the person after be.
-- **patient:** Patient is an adjective here, meaning able to wait without becoming annoyed.
-- **patients:** Patients is a plural noun for people receiving treatment, not the quality requested.
+- **patience:** 'Patience' is the noun for waiting calmly; after 'be', describe the person as 'patient'.
+- **patiently:** 'Patiently' describes waiting, as in 'wait patiently', but not the person after 'be'.
+- **patient:** 'Patient' is an adjective here, meaning able to wait without becoming annoyed.
+- **patients:** 'Patients' is a plural noun for people receiving treatment, not the quality requested.
 
 **Decision:** replaced.
 
@@ -1627,14 +1627,14 @@ The new ramp will ___ wheelchair users to enter through the main door.
 3. enabled
 4. enable **[Correct]**
 
-**Explanation:** Enable means make it possible for someone to do something: enable users to enter.
+**Explanation:** 'Enable' means make it possible for someone to do something: 'enable users to enter'.
 
 **Choice feedback:**
 
-- **ability:** Ability is the noun for being able to do something; it cannot follow will as the action.
-- **able:** Able is an adjective; 'will able users' is not the modern verb construction needed here.
-- **enabled:** Will takes the base form enable, not the past form enabled.
-- **enable:** Enable means make it possible for someone to do something: enable users to enter.
+- **ability:** 'Ability' is the noun for being able to do something; it cannot follow 'will' as the action.
+- **able:** 'Able' is an adjective; 'will able users' is not the modern verb construction needed here.
+- **enabled:** 'Will' takes the base form 'enable', not the past form 'enabled'.
+- **enable:** 'Enable' means make it possible for someone to do something: 'enable users to enter'.
 
 **Decision:** replaced.
 
@@ -1659,14 +1659,14 @@ The unusual window display shows considerable ___.
 3. creative
 4. creatively
 
-**Explanation:** Creativity is the noun for the ability or quality of producing original ideas.
+**Explanation:** 'Creativity' is the noun for the ability or quality of producing original ideas.
 
 **Choice feedback:**
 
-- **creativity:** Creativity is the noun for the ability or quality of producing original ideas.
+- **creativity:** 'Creativity' is the noun for the ability or quality of producing original ideas.
 - **creation:** Creation can name something made or the process of making it; it does not specifically name the inventive quality requested.
-- **creative:** Creative is an adjective, as in a creative display, not the quality noun after considerable.
-- **creatively:** Creatively describes how something is done, not a quality named after considerable.
+- **creative:** 'Creative' is an adjective, as in 'a creative display', not the quality noun after 'considerable'.
+- **creatively:** 'Creatively' describes how something is done, not a quality named after 'considerable'.
 
 **Decision:** replaced.
 
@@ -1691,14 +1691,14 @@ I will answer your question ___, even if the answer is disappointing.
 3. honest
 4. dishonesty
 
-**Explanation:** Honestly describes answering truthfully; it is the manner adverb formed from honest.
+**Explanation:** 'Honestly' describes answering truthfully; it is the manner adverb formed from 'honest'.
 
 **Choice feedback:**
 
-- **honesty:** Honesty names the quality, but the sentence needs a word describing answer.
-- **honestly:** Honestly describes answering truthfully; it is the manner adverb formed from honest.
-- **honest:** Honest describes a person or an answer; honestly is the standard manner-adverb choice requested.
-- **dishonesty:** Dishonesty is a noun meaning lack of honesty, the opposite quality from truthful answering.
+- **honesty:** 'Honesty' names the quality, but the sentence needs a word describing 'answer'.
+- **honestly:** 'Honestly' describes answering truthfully; it is the manner adverb formed from 'honest'.
+- **honest:** 'Honest' describes a person or an answer; 'honestly' is the standard manner-adverb choice requested.
+- **dishonesty:** 'Dishonesty' is a noun meaning lack of honesty, the opposite quality from truthful answering.
 
 **Decision:** replaced.
 
@@ -1723,14 +1723,14 @@ The island is densely ___.
 3. popularity
 4. populating
 
-**Explanation:** Populated means inhabited; densely populated describes many residents in the available area.
+**Explanation:** 'Populated' means inhabited; 'densely populated' describes many residents in the available area.
 
 **Choice feedback:**
 
-- **popular:** Popular means liked or frequently chosen; it does not describe residential density.
-- **populated:** Populated means inhabited; densely populated describes many residents in the available area.
-- **popularity:** Popularity is the noun for being liked, not a description after densely.
-- **populating:** Populating is the action of filling an area with people, not the resulting inhabited state here.
+- **popular:** 'Popular' means liked or frequently chosen; it does not describe residential density.
+- **populated:** 'Populated' means inhabited; 'densely populated' describes many residents in the available area.
+- **popularity:** 'Popularity' is the noun for being liked, not a description after 'densely'.
+- **populating:** 'Populating' is the action of filling an area with people, not the resulting inhabited state here.
 
 **Decision:** replaced.
 
@@ -1759,9 +1759,9 @@ The staff took part in a ___ of a hotel check-in.
 
 **Choice feedback:**
 
-- **similarity:** Similarity names likeness between things, not a practice situation that reproduces one.
-- **simulate:** Simulate is the verb for creating that practice situation; after a, name the event.
-- **similarly:** Similarly is an adverb meaning in a similar way, not the noun naming the exercise.
+- **similarity:** 'Similarity' names likeness between things, not a practice situation that reproduces one.
+- **simulate:** 'Simulate' is the verb for creating that practice situation; after 'a', name the event.
+- **similarly:** 'Similarly' is an adverb meaning in a similar way, not the noun naming the exercise.
 - **simulation:** A simulation reproduces aspects of a real situation for practice or study.
 
 **Decision:** replaced.
@@ -1855,7 +1855,7 @@ I misread the date on the appointment card.
 
 **Choice feedback:**
 
-- **I did not read the date.:** Misread means the reading happened but was wrong; it does not mean the date was unread.
+- **I did not read the date.:** 'Misread' means the reading happened but was wrong; it does not mean the date was unread.
 - **I read the date again.:** Again would be expressed by reread, with re-, not mis-.
 - **I read the date aloud.:** Reading aloud concerns sound, not the error expressed by mis-.
 - **I read the date incorrectly.:** The prefix mis- often means wrongly: misread means read or interpret incorrectly.
@@ -1883,14 +1883,14 @@ The two plans ___ considerably in cost.
 3. differ **[Correct]**
 4. differently
 
-**Explanation:** Differ is the verb meaning be different; it agrees with the plural subject plans.
+**Explanation:** 'Differ' is the verb meaning be different; it agrees with the plural subject 'plans'.
 
 **Choice feedback:**
 
-- **difference:** Difference is a noun; the sentence needs a verb after the plural subject.
-- **different:** Different is an adjective and would require are: the plans are different.
-- **differ:** Differ is the verb meaning be different; it agrees with the plural subject plans.
-- **differently:** Differently is an adverb and would need an action to describe.
+- **difference:** 'Difference' is a noun; the sentence needs a verb after the plural subject.
+- **different:** 'Different' is an adjective and would require 'are': 'the plans are different'.
+- **differ:** 'Differ' is the verb meaning be different; it agrees with the plural subject 'plans'.
+- **differently:** 'Differently' is an adverb and would need an action to describe.
 
 **Decision:** replaced.
 
@@ -1915,14 +1915,14 @@ We ___ receive calls after the advertised closing time.
 3. frequented
 4. frequently **[Correct]**
 
-**Explanation:** Frequently is an adverb meaning often and modifies receive.
+**Explanation:** 'Frequently' is an adverb meaning 'often' and modifies 'receive'.
 
 **Choice feedback:**
 
-- **frequency:** Frequency names how often something happens; it cannot modify receive in this position.
-- **frequent:** Frequent is an adjective or a verb meaning visit regularly, not the adverb before receive.
-- **frequented:** Frequented is the past form of the visit-regularly verb; it does not describe how often these calls arrive.
-- **frequently:** Frequently is an adverb meaning often and modifies receive.
+- **frequency:** 'Frequency' names how often something happens; it cannot modify 'receive' in this position.
+- **frequent:** 'Frequent' is an adjective or a verb meaning visit regularly, not the adverb before 'receive'.
+- **frequented:** 'Frequented' is the past form of the visit-regularly verb; it does not describe how often these calls arrive.
+- **frequently:** 'Frequently' is an adverb meaning 'often' and modifies 'receive'.
 
 **Decision:** replaced.
 
@@ -1951,14 +1951,14 @@ The analyst examined the accounts carefully.
 3. The analyst recommended that the accounts receive careful analysis.
 4. The analyst carried out a careful analysis of the accounts. **[Correct]**
 
-**Explanation:** Analysis names the completed examination; carried out keeps the analyst as its agent and careful preserves the manner.
+**Explanation:** 'Analysis' names the completed examination; 'carried out' keeps the analyst as its agent and 'careful' preserves the manner.
 
 **Choice feedback:**
 
 - **The accounts were prepared for careful analysis by the analyst.:** Preparation for analysis does not say the analyst actually examined the accounts.
 - **The accounts demonstrated the analyst's ability to work analytically.:** This reports an ability demonstrated by the accounts rather than the specified examination.
 - **The analyst recommended that the accounts receive careful analysis.:** A recommendation is not the completed action reported in the original.
-- **The analyst carried out a careful analysis of the accounts.:** Analysis names the completed examination; carried out keeps the analyst as its agent and careful preserves the manner.
+- **The analyst carried out a careful analysis of the accounts.:** 'Analysis' names the completed examination; 'carried out' keeps the analyst as its agent and 'careful' preserves the manner.
 
 **Decision:** replaced.
 
@@ -1983,14 +1983,14 @@ Residents helped design the survey questions, not just answer them. The research
 3. participant
 4. participation
 
-**Explanation:** Participatory describes a process in which the people concerned actively take part, here in designing the questions.
+**Explanation:** 'Participatory' describes a process in which the people concerned actively take part, here in designing the questions.
 
 **Choice feedback:**
 
-- **participating:** Participating normally describes those taking part; it does not identify this approach's design for involving them in decisions.
-- **participatory:** Participatory describes a process in which the people concerned actively take part, here in designing the questions.
-- **participant:** Participant is a person noun and can modify some nouns, but participatory is the adjective describing this kind of involvement-based approach.
-- **participation:** Participation names the act of taking part, not the usual descriptive adjective before approach in this meaning.
+- **participating:** 'Participating' normally describes those taking part; it does not identify this approach's design for involving them in decisions.
+- **participatory:** 'Participatory' describes a process in which the people concerned actively take part, here in designing the questions.
+- **participant:** 'Participant' is a person noun and can modify some nouns, but 'participatory' is the adjective describing this kind of involvement-based approach.
+- **participation:** 'Participation' names the act of taking part, not the usual descriptive adjective before 'approach' in this meaning.
 
 **Decision:** replaced.
 
@@ -2047,14 +2047,14 @@ The director gave an approving nod but said the application still needed written
 3. The director withheld any positive reaction until the application was approved.
 4. The director reacted positively without yet granting the required written approval. **[Correct]**
 
-**Explanation:** Approving describes a favourable reaction; approval names the authorization still required.
+**Explanation:** 'Approving' describes a favourable reaction; 'approval' names the authorization still required.
 
 **Choice feedback:**
 
 - **The director's nod replaced the need for written approval.:** The second clause explicitly says written approval is still needed.
 - **The application had already been approved before the director nodded.:** An approving reaction does not establish prior formal approval.
 - **The director withheld any positive reaction until the application was approved.:** The nod is described as approving, so a positive reaction has already occurred.
-- **The director reacted positively without yet granting the required written approval.:** Approving describes a favourable reaction; approval names the authorization still required.
+- **The director reacted positively without yet granting the required written approval.:** 'Approving' describes a favourable reaction; 'approval' names the authorization still required.
 
 **Decision:** replaced.
 
@@ -2079,14 +2079,14 @@ Because the surveys used the same definitions, their results are ___.
 3. compared
 4. comparing
 
-**Explanation:** Comparable describes things sufficiently similar in relevant respects for a meaningful comparison.
+**Explanation:** 'Comparable' describes things sufficiently similar in relevant respects for a meaningful comparison.
 
 **Choice feedback:**
 
-- **comparative:** Comparative describes work based on comparison, such as a comparative study, not the results' suitability for comparison.
-- **comparable:** Comparable describes things sufficiently similar in relevant respects for a meaningful comparison.
+- **comparative:** 'Comparative' describes work based on comparison, such as 'a comparative study', not the results' suitability for comparison.
+- **comparable:** 'Comparable' describes things sufficiently similar in relevant respects for a meaningful comparison.
 - **compared:** Compared reports an action performed on the results, not their suitability for it.
-- **comparing:** Comparing describes an action; the results are not themselves carrying out the comparison.
+- **comparing:** 'Comparing' describes an action; the results are not themselves carrying out the comparison.
 
 **Decision:** replaced.
 
@@ -2111,14 +2111,14 @@ The review should be evaluative, not just descriptive.
 3. It should record whether another reviewer has already evaluated the product.
 4. It should judge strengths and weaknesses, not only describe features. **[Correct]**
 
-**Explanation:** Evaluative means concerned with judging quality or value, whereas descriptive gives an account of features.
+**Explanation:** 'Evaluative' means concerned with judging quality or value, whereas 'descriptive' gives an account of features.
 
 **Choice feedback:**
 
 - **It should list features without commenting on their quality.:** That would be descriptive; evaluative writing also makes judgments.
-- **It should be valuable to readers by being shorter than the product guide.:** Valuable means useful or important; it is not equivalent to evaluative, and no length limit is stated.
+- **It should be valuable to readers by being shorter than the product guide.:** 'Valuable' means useful or important; it is not equivalent to 'evaluative', and no length limit is stated.
 - **It should record whether another reviewer has already evaluated the product.:** A record of someone else's review does not itself meet the request to evaluate strengths and weaknesses.
-- **It should judge strengths and weaknesses, not only describe features.:** Evaluative means concerned with judging quality or value, whereas descriptive gives an account of features.
+- **It should judge strengths and weaknesses, not only describe features.:** 'Evaluative' means concerned with judging quality or value, whereas 'descriptive' gives an account of features.
 
 **Decision:** replaced.
 
@@ -2207,14 +2207,14 @@ The new worktable is height-___.
 3. adjustable **[Correct]**
 4. adjustment
 
-**Explanation:** Adjustable means capable of being adjusted; it does not report that adjustment has occurred.
+**Explanation:** 'Adjustable' means capable of being adjusted; it does not report that adjustment has occurred.
 
 **Choice feedback:**
 
-- **adjusted:** Adjusted describes a change already made, not the continuing possibility of changing height.
-- **adjusting:** Adjusting describes the process of changing height, not this capability adjective.
-- **adjustable:** Adjustable means capable of being adjusted; it does not report that adjustment has occurred.
-- **adjustment:** Adjustment is the noun for a change, not the adjective completing the compound.
+- **adjusted:** 'Adjusted' describes a change already made, not the continuing possibility of changing height.
+- **adjusting:** 'Adjusting' describes the process of changing height, not this capability adjective.
+- **adjustable:** 'Adjustable' means capable of being adjusted; it does not report that adjustment has occurred.
+- **adjustment:** 'Adjustment' is the noun for a change, not the adjective completing the compound.
 
 **Decision:** replaced.
 
@@ -2271,14 +2271,14 @@ Although the exhibition was successful, the assistants' work remained ___.
 3. repayable
 4. payable
 
-**Explanation:** Unpaid means not paid; un- negates the payment state rather than describing an insufficient amount.
+**Explanation:** 'Unpaid' means not paid; 'un-' negates the payment state rather than describing an insufficient amount.
 
 **Choice feedback:**
 
-- **unpaid:** Unpaid means not paid; un- negates the payment state rather than describing an insufficient amount.
-- **underpaid:** Underpaid means paid less than is appropriate; the requested meaning is that no payment was made.
-- **repayable:** Repayable describes money that can or must be paid back, not work receiving no payment.
-- **payable:** Payable describes an amount due for payment, not the absence of payment for work.
+- **unpaid:** 'Unpaid' means not paid; 'un-' negates the payment state rather than describing an insufficient amount.
+- **underpaid:** 'Underpaid' means paid less than is appropriate; the requested meaning is that no payment was made.
+- **repayable:** 'Repayable' describes money that can or must be paid back, not work receiving no payment.
+- **payable:** 'Payable' describes an amount due for payment, not the absence of payment for work.
 
 **Decision:** replaced.
 
@@ -2303,12 +2303,12 @@ The newspaper wants to describe someone who researches hidden facts for stories.
 3. She is an investigated journalist.
 4. She is the journalist named in the investigation.
 
-**Explanation:** Investigative describes journalism concerned with discovering and examining facts, especially those not readily available.
+**Explanation:** 'Investigative' describes journalism concerned with discovering and examining facts, especially those not readily available.
 
 **Choice feedback:**
 
 - **She is a journalist under investigation.:** This makes the journalist the subject being investigated, reversing the intended role.
-- **She is an investigative journalist.:** Investigative describes journalism concerned with discovering and examining facts, especially those not readily available.
+- **She is an investigative journalist.:** 'Investigative' describes journalism concerned with discovering and examining facts, especially those not readily available.
 - **She is an investigated journalist.:** Investigated presents her as someone examined in an investigation, not the person doing the investigative work.
 - **She is the journalist named in the investigation.:** Being named in an investigation does not identify her professional method or make her its investigator.
 
@@ -2342,7 +2342,7 @@ The map shows the proposed station beside the hospital.
 - **A station beside the hospital has already opened for passengers.:** Proposed does not establish completion or operation.
 - **A station beside the hospital has been put forward as a plan.:** Proposed identifies a suggestion or plan, not an approved or completed project.
 - **Construction of the station has been formally approved.:** A proposal can exist before approval; the adjective does not settle that stage.
-- **The existing station beside the hospital will be demolished.:** The word proposed does not establish an existing station or a demolition plan.
+- **The existing station beside the hospital will be demolished.:** The word 'proposed' does not establish an existing station or a demolition plan.
 
 **Decision:** replaced.
 
@@ -2367,11 +2367,11 @@ After she answered the criticism, an observer praised her 'measured response'.
 3. She gave precise figures instead of an argument about the criticism.
 4. She had rehearsed the exact wording before the criticism was made.
 
-**Explanation:** Measured is an evaluative adjective here, describing a controlled, considered response.
+**Explanation:** 'Measured' is an evaluative adjective here, describing a controlled, considered response.
 
 **Choice feedback:**
 
-- **She answered with deliberation and restraint.:** Measured is an evaluative adjective here, describing a controlled, considered response.
+- **She answered with deliberation and restraint.:** 'Measured' is an evaluative adjective here, describing a controlled, considered response.
 - **She answered only after deciding that the criticism was entirely justified.:** A measured response can disagree with criticism; the adjective does not imply conceding that it is justified.
 - **She gave precise figures instead of an argument about the criticism.:** This treats measurement literally; the observer is evaluating the manner of her response.
 - **She had rehearsed the exact wording before the criticism was made.:** Deliberation in a response does not establish prior rehearsal or an already prepared script.
@@ -2431,14 +2431,14 @@ The technical support team is very ___.
 3. responsive **[Correct]**
 4. response
 
-**Explanation:** Responsive describes reacting readily and appropriately to requests or needs.
+**Explanation:** 'Responsive' describes reacting readily and appropriately to requests or needs.
 
 **Choice feedback:**
 
 - **responsible:** Responsible concerns duty or accountability, not specifically quick reactions to requests.
 - **respondent:** A respondent is a person who answers a survey or responds in another defined role, not this quality adjective.
-- **responsive:** Responsive describes reacting readily and appropriately to requests or needs.
-- **response:** Response is the noun for a reaction, not an adjective after very.
+- **responsive:** 'Responsive' describes reacting readily and appropriately to requests or needs.
+- **response:** 'Response' is the noun for a reaction, not an adjective after 'very'.
 
 **Decision:** replaced.
 
@@ -2463,14 +2463,14 @@ Does this rule remain ___ when the office is closed?
 3. applicable **[Correct]**
 4. application
 
-**Explanation:** Applicable means relevant or able to be applied to the case under discussion.
+**Explanation:** 'Applicable' means relevant or able to be applied to the case under discussion.
 
 **Choice feedback:**
 
 - **applied:** Applied reports the rule being used; it does not ask whether the rule covers the case.
 - **applicant:** An applicant is someone making an application, not a quality of a rule.
-- **applicable:** Applicable means relevant or able to be applied to the case under discussion.
-- **application:** Application names a request or use of something; it cannot describe the rule after remain in this way.
+- **applicable:** 'Applicable' means relevant or able to be applied to the case under discussion.
+- **application:** 'Application' names a request or use of something; it cannot describe the rule after 'remain' in this way.
 
 **Decision:** replaced.
 
@@ -2502,7 +2502,7 @@ The brochure describes the window frame as maintenance-free.
 - **The supplier promises to carry out its maintenance without charging.:** That would be free maintenance; maintenance-free describes not needing the service.
 - **The frame can be maintained only when it is not in use.:** The compound gives no such timing restriction.
 - **The frame is described as not needing maintenance.:** In maintenance-free, -free means without a need for maintenance, not a zero price for maintenance work.
-- **The maintenance has already been completed before the frame is sold.:** Maintenance-free is a claimed property, not a report of an earlier completed service.
+- **The maintenance has already been completed before the frame is sold.:** 'Maintenance-free' is a claimed property, not a report of an earlier completed service.
 
 **Decision:** replaced.
 
@@ -2527,11 +2527,11 @@ The committee is consultative; final decisions remain with the board.
 3. The board advises the committee, which makes the final decision.
 4. The committee implements decisions without contributing views to their formation.
 
-**Explanation:** Consultative describes an advisory role. The second clause confirms that providing advice does not transfer final authority.
+**Explanation:** 'Consultative' describes an advisory role. The second clause confirms that providing advice does not transfer final authority.
 
 **Choice feedback:**
 
-- **The committee provides advice, while the board retains decision-making authority.:** Consultative describes an advisory role. The second clause confirms that providing advice does not transfer final authority.
+- **The committee provides advice, while the board retains decision-making authority.:** 'Consultative' describes an advisory role. The second clause confirms that providing advice does not transfer final authority.
 - **The committee must approve a decision before the board can act.:** A consultative role provides advice; the sentence reserves final decision-making for the board rather than giving the committee approval power.
 - **The board advises the committee, which makes the final decision.:** This reverses the two bodies' roles.
 - **The committee implements decisions without contributing views to their formation.:** Implementation is not the consultative function: consultation concerns supplying views or advice.
@@ -2599,7 +2599,7 @@ Original: 'The procedure is still unvalidated.' Edit: 'The procedure is invalid.
 
 **Choice feedback:**
 
-- **The edit merely replaces a participle with an equivalent adjective.:** Unvalidated describes a lack of completed validation; invalid judges the procedure not valid. These are not equivalent claims.
+- **The edit merely replaces a participle with an equivalent adjective.:** 'Unvalidated' describes a lack of completed validation; 'invalid' judges the procedure not valid. These are not equivalent claims.
 - **The edit reports that earlier validation has expired.:** Neither unvalidated nor invalid specifies that validation once existed and later expired.
 - **The edit turns absence of validation into a negative judgment about validity.:** The negative prefix has different scope: unvalidated negates having been validated, while invalid negates validity itself.
 - **The edit weakens a definite negative judgment into a statement that testing is incomplete.:** That is the reverse of the change: the original leaves validity unestablished, while the edit judges it negatively.
@@ -2627,12 +2627,12 @@ Mina and Omar were appointed chair and treasurer, respectively. They responded r
 3. Mina and Omar received equally respected positions and replied together to the outgoing committee.
 4. Mina became chair and Omar treasurer; the outgoing committee replied to them with respect.
 
-**Explanation:** Respectively connects names and positions in sequence; respectfully describes their courteous manner. Similar-looking adverbs perform different functions.
+**Explanation:** 'Respectively' connects names and positions in sequence; 'respectfully' describes their courteous manner. Similar-looking adverbs perform different functions.
 
 **Choice feedback:**
 
 - **Mina became treasurer and Omar chair; both replied courteously to the outgoing committee.:** Respectively pairs each name with the role in the same order, so reversing the appointments changes the account.
-- **Mina became chair and Omar treasurer; both replied courteously to the outgoing committee.:** Respectively connects names and positions in sequence; respectfully describes their courteous manner. Similar-looking adverbs perform different functions.
+- **Mina became chair and Omar treasurer; both replied courteously to the outgoing committee.:** 'Respectively' connects names and positions in sequence; 'respectfully' describes their courteous manner. Similar-looking adverbs perform different functions.
 - **Mina and Omar received equally respected positions and replied together to the outgoing committee.:** Respectively maps the ordered pairs, not their prestige; respectfully describes courtesy, not simultaneous speaking.
 - **Mina became chair and Omar treasurer; the outgoing committee replied to them with respect.:** The appointments are preserved, but the direction of the response is reversed: Mina and Omar responded to the committee.
 
@@ -2723,14 +2723,14 @@ Original: 'The team made consistent progress throughout the season.' Edit: 'The 
 3. The edit says the team trained continuously rather than competing regularly.
 4. The edit replaces steady progress with an unchanged level of performance. **[Correct]**
 
-**Explanation:** Consistent progress describes a sustained pattern of improvement; constant performance describes a level that does not change.
+**Explanation:** 'Consistent progress' describes a sustained pattern of improvement; 'constant performance' describes a level that does not change.
 
 **Choice feedback:**
 
-- **The edit preserves the improvement but specifies that it happened at a fixed speed.:** Constant performance means an unchanged level, not a fixed rate of improvement.
+- **The edit preserves the improvement but specifies that it happened at a fixed speed.:** 'Constant performance' means an unchanged level, not a fixed rate of improvement.
 - **The edit changes a steady pattern into one interrupted by setbacks.:** Neither version introduces interruptions or setbacks.
 - **The edit says the team trained continuously rather than competing regularly.:** The edit concerns performance, not the frequency of training or competition.
-- **The edit replaces steady progress with an unchanged level of performance.:** Consistent progress describes a sustained pattern of improvement; constant performance describes a level that does not change.
+- **The edit replaces steady progress with an unchanged level of performance.:** 'Consistent progress' describes a sustained pattern of improvement; 'constant performance' describes a level that does not change.
 
 **Decision:** replaced.
 
@@ -2755,13 +2755,13 @@ Original: 'The buyer was credible.' Edit: 'The buyer was credulous.'
 3. The edit describes readiness to believe others rather than being believable oneself. **[Correct]**
 4. The edit describes the buyer's ability to obtain credit rather than the truth of an account.
 
-**Explanation:** Credible means believable or convincing; credulous means too ready to believe what one is told.
+**Explanation:** 'Credible' means believable or convincing; 'credulous' means too ready to believe what one is told.
 
 **Choice feedback:**
 
 - **The edit changes believability into a judgment that the buyer deserves praise.:** Deserving praise is creditable; credulous describes believing too readily.
 - **The edit strengthens the judgment that other people can trust the buyer's account.:** Credulous concerns the buyer's susceptibility to belief, not stronger support for the buyer's own account.
-- **The edit describes readiness to believe others rather than being believable oneself.:** Credible means believable or convincing; credulous means too ready to believe what one is told.
+- **The edit describes readiness to believe others rather than being believable oneself.:** 'Credible' means believable or convincing; 'credulous' means too ready to believe what one is told.
 - **The edit describes the buyer's ability to obtain credit rather than the truth of an account.:** Ability to obtain credit is creditworthiness, not credulity.
 
 **Decision:** replaced.
@@ -2787,14 +2787,14 @@ Anita, the manager, wants a reliable supplier but does not want the firm to beco
 3. She rejects suppliers whose services the firm can rely on.
 4. She wants dependable service without dependence on one provider. **[Correct]**
 
-**Explanation:** Reliable describes trustworthiness in providing service; reliant describes depending on someone or something.
+**Explanation:** 'Reliable' describes trustworthiness in providing service; 'reliant' describes depending on someone or something.
 
 **Choice feedback:**
 
 - **She wants the supplier to depend on the firm while remaining free to provide unreliable service.:** This reverses the direction of reliance and contradicts the request for reliability.
 - **She thinks a dependable supplier must become dependent on the firm.:** Reliability and reliance are different relationships; the sentence imposes no dependence on the supplier.
 - **She rejects suppliers whose services the firm can rely on.:** The first clause seeks a reliable supplier; the concern is dependence on a single provider, not dependability itself.
-- **She wants dependable service without dependence on one provider.:** Reliable describes trustworthiness in providing service; reliant describes depending on someone or something.
+- **She wants dependable service without dependence on one provider.:** 'Reliable' describes trustworthiness in providing service; 'reliant' describes depending on someone or something.
 
 **Decision:** replaced.
 
@@ -2851,13 +2851,13 @@ Original: 'The course is practical.' Edit: 'The course is practicable.'
 3. The edit describes feasibility rather than the hands-on character intended in the original. **[Correct]**
 4. The edit narrows the course to preparing students for a specific occupation.
 
-**Explanation:** Practical has the hands-on meaning fixed by the scenario; practicable instead means possible to carry out.
+**Explanation:** 'Practical' has the hands-on meaning fixed by the scenario; 'practicable' instead means possible to carry out.
 
 **Choice feedback:**
 
-- **The edit strengthens the claim that students work with real materials rather than theory.:** Practicable means capable of being carried out; it does not intensify the hands-on sense of practical.
-- **The edit says the course has already been put into practice.:** Practicable expresses feasibility, not a completed implementation.
-- **The edit describes feasibility rather than the hands-on character intended in the original.:** Practical has the hands-on meaning fixed by the scenario; practicable instead means possible to carry out.
+- **The edit strengthens the claim that students work with real materials rather than theory.:** 'Practicable' means capable of being carried out; it does not intensify the hands-on sense of 'practical'.
+- **The edit says the course has already been put into practice.:** 'Practicable' expresses feasibility, not a completed implementation.
+- **The edit describes feasibility rather than the hands-on character intended in the original.:** 'Practical' has the hands-on meaning fixed by the scenario; 'practicable' instead means possible to carry out.
 - **The edit narrows the course to preparing students for a specific occupation.:** Neither the suffix nor the adjective practicable specifies an occupational purpose.
 
 **Decision:** replaced.
@@ -2883,12 +2883,12 @@ Original: 'These costs approximate our budget.' Edit: 'These costs are approxima
 3. The edit says that the budget was calculated from these costs.
 4. The edit turns an estimate into a statement that the costs exceed the budget.
 
-**Explanation:** Approximate as a verb means come close to; as an adjective after are, it means not exact.
+**Explanation:** 'Approximate' as a verb means come close to; as an adjective after 'are', it means not exact.
 
 **Choice feedback:**
 
-- **The edit preserves the budget comparison but makes the costs more precise.:** The budget comparison disappears, and approximate as an adjective does not mean more precise.
-- **The edit changes closeness to the budget into a claim that the stated costs are inexact.:** Approximate as a verb means come close to; as an adjective after are, it means not exact.
+- **The edit preserves the budget comparison but makes the costs more precise.:** The budget comparison disappears, and 'approximate' as an adjective does not mean more precise.
+- **The edit changes closeness to the budget into a claim that the stated costs are inexact.:** 'Approximate' as a verb means come close to; as an adjective after 'are', it means not exact.
 - **The edit says that the budget was calculated from these costs.:** Neither sentence establishes how the budget was calculated.
 - **The edit turns an estimate into a statement that the costs exceed the budget.:** The original expresses closeness, not an estimate, and the edit gives no above-or-below comparison.
 
@@ -2979,11 +2979,11 @@ Original: 'The engineers began stabilizing the platform.' Edit: 'The engineers a
 3. The edit weakens an achieved result into an intention to start work.
 4. The edit changes lasting stability into a temporary improvement.
 
-**Explanation:** Stability names the state sought; combining it with achieved claims that the stabilizing process reached its goal.
+**Explanation:** 'Stability' names the state sought; combining it with 'achieved' claims that the stabilizing process reached its goal.
 
 **Choice feedback:**
 
-- **The edit adds a successful result to an action that the original only says began.:** Stability names the state sought; combining it with achieved claims that the stabilizing process reached its goal.
+- **The edit adds a successful result to an action that the original only says began.:** 'Stability' names the state sought; combining it with 'achieved' claims that the stabilizing process reached its goal.
 - **The edit simply replaces the verb with its noun while preserving the same stage of work.:** Achieved stability reports a result, while began stabilizing reports the start of a process.
 - **The edit weakens an achieved result into an intention to start work.:** That reverses the change: the original reports beginning and the edit reports achieving.
 - **The edit changes lasting stability into a temporary improvement.:** Neither version specifies duration. The contrast is between starting stabilization and achieving its result.
@@ -3043,13 +3043,13 @@ The display changes its brightness whenever the surrounding light changes. It us
 3. adaptable
 4. adopted
 
-**Explanation:** Adaptive describes a system that changes in response to its conditions, matching the automatic brightness behaviour.
+**Explanation:** 'Adaptive' describes a system that changes in response to its conditions, matching the automatic brightness behaviour.
 
 **Choice feedback:**
 
-- **adaptive:** Adaptive describes a system that changes in response to its conditions, matching the automatic brightness behaviour.
+- **adaptive:** 'Adaptive' describes a system that changes in response to its conditions, matching the automatic brightness behaviour.
 - **adapted:** Adapted says controls have been modified for a purpose; it does not itself describe continuing responses to changing conditions.
-- **adaptable:** Adaptable describes a capacity to be adjusted or suit different circumstances, not necessarily automatic adjustment as conditions change.
+- **adaptable:** 'Adaptable' describes a capacity to be adjusted or suit different circumstances, not necessarily automatic adjustment as conditions change.
 - **adopted:** Adopted says the controls have been selected or taken into use, not how they respond.
 
 **Decision:** replaced.
@@ -3112,7 +3112,7 @@ Original: 'The review contains a moral argument about consumption.' Edit: 'The r
 **Choice feedback:**
 
 - **The edit says the argument improves the readers' morale.:** Morale concerns confidence or spirits; moralistic concerns the manner of judging morality.
-- **The edit removes ethical concerns and describes a practical calculation.:** Moralistic still concerns moral judgment; it does not turn the subject into a calculation.
+- **The edit removes ethical concerns and describes a practical calculation.:** 'Moralistic' still concerns moral judgment; it does not turn the subject into a calculation.
 - **The edit adds a suggestion of preachy moral judgment, not merely an ethical subject.:** Moralistic commonly carries disapproval of excessive or self-righteous moralizing, unlike the more neutral moral argument.
 - **The edit confirms that the argument reaches the ethically correct conclusion.:** Moralistic evaluates the manner of moralizing, not whether the conclusion is ethically correct.
 
@@ -3139,12 +3139,12 @@ Before publication, the editor anonymized the quotations.
 3. The editor published quotations whose sources had volunteered to be named.
 4. The editor verified the quotations' wording while retaining identifying details.
 
-**Explanation:** Anonymize is the verb for making material anonymous by removing identifying information; the past form reports that action.
+**Explanation:** 'Anonymize' is the verb for making material anonymous by removing identifying information; the past form reports that action.
 
 **Choice feedback:**
 
 - **The editor established that the speakers' identities had never been known.:** Anonymized reports a process applied to the quotations, not that identities were never known.
-- **The editor removed identifying information from the quotations.:** Anonymize is the verb for making material anonymous by removing identifying information; the past form reports that action.
+- **The editor removed identifying information from the quotations.:** 'Anonymize' is the verb for making material anonymous by removing identifying information; the past form reports that action.
 - **The editor published quotations whose sources had volunteered to be named.:** That concerns identification and permission, not the removal of identifying information.
 - **The editor verified the quotations' wording while retaining identifying details.:** Verification is different from anonymizing; retaining identifying details does not preserve the stated action.
 
@@ -3171,14 +3171,14 @@ The restaurant's menu is varied, but the quality of its cooking is variable.
 3. The menu offers few choices, although the cooking uses several techniques.
 4. There is a wide choice of dishes, but cooking quality is inconsistent. **[Correct]**
 
-**Explanation:** Varied describes diversity; variable here describes a quality that changes rather than remaining dependable.
+**Explanation:** 'Varied' describes diversity; 'variable' here describes a quality that changes rather than remaining dependable.
 
 **Choice feedback:**
 
 - **The menu changes unpredictably, but every dish is of the same quality.:** This assigns variability to the menu and consistency to the cooking, reversing the contrast.
 - **The dishes differ in quality because there are too many choices.:** The original does not give variety as the cause of inconsistent quality or say the choice is excessive.
 - **The menu offers few choices, although the cooking uses several techniques.:** That reverses varied's wide-range meaning and changes quality into technique.
-- **There is a wide choice of dishes, but cooking quality is inconsistent.:** Varied describes diversity; variable here describes a quality that changes rather than remaining dependable.
+- **There is a wide choice of dishes, but cooking quality is inconsistent.:** 'Varied' describes diversity; 'variable' here describes a quality that changes rather than remaining dependable.
 
 **Decision:** replaced.
 
@@ -3239,13 +3239,13 @@ Original: 'Her reply was noncommittal about the proposal.' Edit: 'She was uncomm
 3. The edit turns a description of her reply into a claim about her commitment. **[Correct]**
 4. The edit replaces a claim about her private intentions with one about public wording.
 
-**Explanation:** Noncommittal describes avoiding a definite position in what is communicated. Uncommitted describes the person's lack of commitment, which the reply alone need not establish.
+**Explanation:** 'Noncommittal' describes avoiding a definite position in what is communicated. 'Uncommitted' describes the person's lack of commitment, which the reply alone need not establish.
 
 **Choice feedback:**
 
 - **The edit gives the same information but moves it from the reply to its speaker.:** A noncommittal reply does not reveal a definite position; a committed supporter could still give one. The change adds a claim about her actual stance.
-- **The edit says she communicated her opposition more directly than before.:** Uncommitted does not mean opposed, and the edit does not describe a more direct reply.
-- **The edit turns a description of her reply into a claim about her commitment.:** Noncommittal describes avoiding a definite position in what is communicated. Uncommitted describes the person's lack of commitment, which the reply alone need not establish.
+- **The edit says she communicated her opposition more directly than before.:** 'Uncommitted' does not mean 'opposed', and the edit does not describe a more direct reply.
+- **The edit turns a description of her reply into a claim about her commitment.:** 'Noncommittal' describes avoiding a definite position in what is communicated. 'Uncommitted' describes the person's lack of commitment, which the reply alone need not establish.
 - **The edit replaces a claim about her private intentions with one about public wording.:** That reverses the direction: the original describes the reply; the edit attributes a stance to the person.
 
 **Decision:** replaced.
@@ -3307,7 +3307,7 @@ Original: 'The novel draws on the author's family diaries.' Edit: 'The novel is 
 
 **Choice feedback:**
 
-- **It merely uses an adjective to restate where the novel's material came from.:** The evaluative adjective derivative carries a judgment about originality that the neutral source description does not supply.
+- **It merely uses an adjective to restate where the novel's material came from.:** The evaluative adjective 'derivative' carries a judgment about originality that the neutral source description does not supply.
 - **It changes the stated source from family diaries to another published novel.:** The edit still identifies the diaries; derivative does not require a previously published novel as the source.
 - **It praises the novelist's skill in transforming private documents into fiction.:** Derivative is normally disparaging in this reviewing context, not praise for the transformation.
 - **It adds a criticism of originality to the statement about source material.:** Derivative in an artistic evaluation commonly criticizes dependence on existing ideas. Drawing on diaries identifies a source without by itself making that criticism.
@@ -3335,13 +3335,13 @@ Assuming the deliveries arrive on time, I estimate completion by Friday.
 3. My estimate of completion by Friday rests on the assumption of timely deliveries. **[Correct]**
 4. My assumption of completion by Friday rests on an estimate of timely deliveries.
 
-**Explanation:** Assumption names the provisional premise introduced by assuming; rests on preserves its role in the estimate, and by Friday keeps the deadline rather than fixing the exact day.
+**Explanation:** 'Assumption' names the provisional premise introduced by 'assuming'; 'rests on' preserves its role in the estimate, and 'by Friday' keeps the deadline rather than fixing the exact day.
 
 **Choice feedback:**
 
 - **My estimate of completion by Friday establishes that the deliveries will arrive on time.:** The rewrite turns a premise used for estimating into a conclusion supposedly established by the estimate.
 - **Timely deliveries are a requirement imposed by my estimate of completion by Friday.:** A working assumption does not impose a delivery requirement; this changes the estimator's role.
-- **My estimate of completion by Friday rests on the assumption of timely deliveries.:** Assumption names the provisional premise introduced by assuming; rests on preserves its role in the estimate, and by Friday keeps the deadline rather than fixing the exact day.
+- **My estimate of completion by Friday rests on the assumption of timely deliveries.:** 'Assumption' names the provisional premise introduced by 'assuming'; 'rests on' preserves its role in the estimate, and 'by Friday' keeps the deadline rather than fixing the exact day.
 - **My assumption of completion by Friday rests on an estimate of timely deliveries.:** This exchanges what is assumed with what is estimated: the original assumes timely deliveries and estimates completion.
 
 **Decision:** replaced.
@@ -3399,14 +3399,14 @@ Original: 'The evidence remained equivocal.' Paraphrase: 'The researchers contin
 3. The paraphrase locates uncertainty in the researchers' understanding rather than in the evidence.
 4. The paraphrase narrows the claim to researchers disagreeing with one another.
 
-**Explanation:** Equivocal evidence does not settle an interpretation. Researchers who equivocate avoid clear expression; inconclusive evidence alone does not establish that behaviour.
+**Explanation:** 'Equivocal' evidence does not settle an interpretation. Researchers who 'equivocate' avoid clear expression; inconclusive evidence alone does not establish that behaviour.
 
 **Choice feedback:**
 
-- **The paraphrase reports the same uncertainty, changing only the word class.:** Equivocal evidence can be inconclusive without the researchers speaking evasively; changing the subject and form changes the claim.
-- **The paraphrase attributes evasive communication to people instead of uncertainty to evidence.:** Equivocal evidence does not settle an interpretation. Researchers who equivocate avoid clear expression; inconclusive evidence alone does not establish that behaviour.
+- **The paraphrase reports the same uncertainty, changing only the word class.:** 'Equivocal' evidence can be inconclusive without the researchers speaking evasively; changing the subject and form changes the claim.
+- **The paraphrase attributes evasive communication to people instead of uncertainty to evidence.:** 'Equivocal' evidence does not settle an interpretation. Researchers who 'equivocate' avoid clear expression; inconclusive evidence alone does not establish that behaviour.
 - **The paraphrase locates uncertainty in the researchers' understanding rather than in the evidence.:** Equivocating concerns how people express themselves; it need not mean their own understanding is uncertain.
-- **The paraphrase narrows the claim to researchers disagreeing with one another.:** Researchers can equivocate without disagreeing with one another; the verb concerns unclear or evasive communication.
+- **The paraphrase narrows the claim to researchers disagreeing with one another.:** Researchers can 'equivocate' without disagreeing with one another; the verb concerns unclear or evasive communication.
 
 **Decision:** replaced.
 
@@ -3431,11 +3431,11 @@ The editor made a substantial number of corrections to spelling and punctuation,
 3. The editor substantially changed the substance through corrections to spelling and punctuation.
 4. The editor made a few substantial corrections rather than many minor ones.
 
-**Explanation:** Substantial modifies number here. It reports quantity, whereas substantive corrections would concern content rather than just spelling and punctuation.
+**Explanation:** 'Substantial' modifies 'number' here. It reports quantity, whereas 'substantive' corrections would concern content rather than just spelling and punctuation.
 
 **Choice feedback:**
 
-- **The editor made numerous surface corrections, leaving the substance unchanged.:** Substantial modifies number here. It reports quantity, whereas substantive corrections would concern content rather than just spelling and punctuation.
+- **The editor made numerous surface corrections, leaving the substance unchanged.:** 'Substantial' modifies 'number' here. It reports quantity, whereas 'substantive' corrections would concern content rather than just spelling and punctuation.
 - **The editor made substantive corrections while preserving the original spelling and punctuation.:** This exchanges surface corrections for changes to substance and says the corrected features were preserved.
 - **The editor substantially changed the substance through corrections to spelling and punctuation.:** This relocates substantial from the number of corrections to their effect on substance, contradicting their stated limitation.
 - **The editor made a few substantial corrections rather than many minor ones.:** The original explicitly describes a substantial number, not a small set of major interventions.
@@ -3463,12 +3463,12 @@ Original: 'The repeated reminders proved counterproductive.' Edit: 'The repeated
 3. The edit removes the judgment that sending reminders was unnecessary.
 4. The edit removes a positive result and leaves only criticism of how it was achieved.
 
-**Explanation:** Counterproductive describes effects contrary to the intended result; unproductive describes lack of useful results without necessarily asserting that opposing effect.
+**Explanation:** 'Counterproductive' describes effects contrary to the intended result; 'unproductive' describes lack of useful results without necessarily asserting that opposing effect.
 
 **Choice feedback:**
 
 - **The edit no longer conveys that the reminders produced no effect of any kind.:** Counterproductive can describe a definite harmful effect, not an absence of effects.
-- **The edit no longer conveys that the reminders worked against their intended goal.:** Counterproductive describes effects contrary to the intended result; unproductive describes lack of useful results without necessarily asserting that opposing effect.
+- **The edit no longer conveys that the reminders worked against their intended goal.:** 'Counterproductive' describes effects contrary to the intended result; 'unproductive' describes lack of useful results without necessarily asserting that opposing effect.
 - **The edit removes the judgment that sending reminders was unnecessary.:** Counterproductive judges their effects as contrary to the goal, not merely whether they were needed.
 - **The edit removes a positive result and leaves only criticism of how it was achieved.:** Counterproductive is already a negative evaluation of the reminders' effects, not praise for a result.
 
@@ -3531,10 +3531,10 @@ Original: 'The mayor-elect met the transport planners.' Edit: 'The elected mayor
 
 **Choice feedback:**
 
-- **The edit says the meeting occurred before the election rather than after it.:** Elected still describes someone selected by an election; it does not place the meeting before that event.
+- **The edit says the meeting occurred before the election rather than after it.:** 'Elected' still describes someone selected by an election; it does not place the meeting before that event.
 - **The edit no longer explicitly places the meeting before the mayor takes office.:** Mayor-elect identifies an elected successor who has not yet taken office. Elected mayor states the selection status but does not itself fix whether the term has begun.
 - **The edit explicitly places the meeting after the mayor has taken office.:** Elected mayor can also describe someone awaiting office. The edit loses the precise stage; it does not necessarily assert the opposite stage.
-- **The edit changes an appointed mayor into one chosen by a public vote.:** Mayor-elect already indicates election; the original does not describe appointment instead.
+- **The edit changes an appointed mayor into one chosen by a public vote.:** 'Mayor-elect' already indicates election; the original does not describe appointment instead.
 
 **Decision:** replaced.
 
@@ -3559,14 +3559,14 @@ Although Rafi oversaw the repairs, he overlooked the damage behind the cupboard 
 3. Rafi's inspection of the hidden damage made supervision of the repairs unnecessary.
 4. Despite supervising the repairs, Rafi failed to notice the hidden damage until afterwards. **[Correct]**
 
-**Explanation:** Oversaw means supervised; the later discovery fixes overlooked as failed to notice here. The rewrite retains the concession and the timing of that discovery.
+**Explanation:** 'Oversaw' means supervised; the later discovery fixes 'overlooked' as failed to notice here. The rewrite retains the concession and the timing of that discovery.
 
 **Choice feedback:**
 
 - **Rafi's failure to supervise the repairs explains why he did not notice the hidden damage.:** He did oversee the repairs. This changes the concession into a cause and denies the supervision.
 - **Rafi's supervision ensured that the hidden damage was noticed but deliberately left unrepaired.:** Only noticed it afterwards fixes overlooked as an earlier failure to notice, not a choice to leave known damage unrepaired.
 - **Rafi's inspection of the hidden damage made supervision of the repairs unnecessary.:** The sentence does not report an earlier inspection of that damage or dispense with supervision.
-- **Despite supervising the repairs, Rafi failed to notice the hidden damage until afterwards.:** Oversaw means supervised; the later discovery fixes overlooked as failed to notice here. The rewrite retains the concession and the timing of that discovery.
+- **Despite supervising the repairs, Rafi failed to notice the hidden damage until afterwards.:** 'Oversaw' means supervised; the later discovery fixes 'overlooked' as failed to notice here. The rewrite retains the concession and the timing of that discovery.
 
 **Decision:** replaced.
 
@@ -3623,11 +3623,11 @@ Mira's disinterested advocacy for the scheme was tireless; she would gain nothin
 3. Mira described the scheme impartially without supporting either outcome.
 4. Mira supported the scheme tirelessly in exchange for benefits owed to her.
 
-**Explanation:** Here disinterested means free from personal advantage, as the second clause confirms. It does not mean she lacked interest in the cause; that other established sense does not fit this sentence.
+**Explanation:** Here 'disinterested' means free from personal advantage, as the second clause confirms. It does not mean she lacked interest in the cause; that other established sense does not fit this sentence.
 
 **Choice feedback:**
 
-- **Mira tirelessly supported the scheme without a personal stake in its success.:** Here disinterested means free from personal advantage, as the second clause confirms. It does not mean she lacked interest in the cause; that other established sense does not fit this sentence.
+- **Mira tirelessly supported the scheme without a personal stake in its success.:** Here 'disinterested' means free from personal advantage, as the second clause confirms. It does not mean she lacked interest in the cause; that other established sense does not fit this sentence.
 - **Mira reluctantly promoted a scheme that she found too dull to care about.:** That uses the uninterested sense of disinterested, but the tireless advocacy and absence of personal gain establish a different sense here.
 - **Mira described the scheme impartially without supporting either outcome.:** She actively advocated its adoption; absence of personal gain does not erase that support.
 - **Mira supported the scheme tirelessly in exchange for benefits owed to her.:** An exchange of personal benefits contradicts the statement that she would gain nothing personally.
@@ -3661,7 +3661,7 @@ The panel dismissed the critic's assessment as needlessly dismissive.
 
 - **The panel accepted the assessment's conclusions while conceding that its tone was dismissive.:** The source says the panel dismissed the assessment, not that it accepted the conclusions despite the tone.
 - **The critic rejected the panel's assessment because she found its attitude contemptuous.:** This exchanges the critic and panel as the source of the assessment and the party rejecting it.
-- **The panel's contemptuous attitude was criticized for making a substantive assessment unnecessary.:** Dismissive describes the critic's assessment, not the panel's attitude; the original does not say that assessment was unnecessary.
+- **The panel's contemptuous attitude was criticized for making a substantive assessment unnecessary.:** 'Dismissive' describes the critic's assessment, not the panel's attitude; the original does not say that assessment was unnecessary.
 - **The panel rejected an assessment it considered unduly contemptuous.:** Dismissed reports rejection of the assessment; dismissive characterizes its disparaging attitude. The rewrite also retains that the panel makes the judgment.
 
 **Decision:** replaced.
@@ -3691,7 +3691,7 @@ An ingenious question elicited a disarmingly ingenuous answer.
 
 **Choice feedback:**
 
-- **A deceptively simple question received a reply crafted to conceal the speaker's intentions.:** Ingenuous describes an open, unguarded reply, not a deliberately concealing one. Ingenious need not mean deceptively simple.
+- **A deceptively simple question received a reply crafted to conceal the speaker's intentions.:** 'Ingenuous' describes an open, unguarded reply, not a deliberately concealing one. 'Ingenious' need not mean deceptively simple.
 - **A clever question drew a candid reply that tended to ease suspicion.:** Ingenious praises clever devising; ingenuous describes candid openness, sometimes with naivety. Disarmingly adds the effect of taking an edge off resistance or suspicion.
 - **A naive question received a strategically clever answer that defeated its premise.:** This transfers ingenuity to the answer and ingenuousness to the question; neither a defeated premise nor that reversal is stated.
 - **A technically complex question received an answer praised mainly for its precision.:** Ingenious is not necessarily technically complex, and ingenuous evaluates openness rather than technical precision.
@@ -3719,14 +3719,14 @@ Original: 'The recommendations are unexceptionable.' Edit: 'The recommendations 
 3. The edit preserves the same criticism but expresses it less formally.
 4. The edit substitutes a judgment of ordinariness for one of acceptability. **[Correct]**
 
-**Explanation:** Unexceptionable means not reasonably open to objection; unexceptional ordinarily means not remarkable. The different endings lead to distinct usual evaluations.
+**Explanation:** 'Unexceptionable' means not reasonably open to objection; 'unexceptional' ordinarily means not remarkable. The different endings lead to distinct usual evaluations.
 
 **Choice feedback:**
 
-- **The edit strengthens the claim that the recommendations are unusually good.:** Unexceptional usually means not out of the ordinary, not an intensified compliment.
+- **The edit strengthens the claim that the recommendations are unusually good.:** 'Unexceptional' usually means not out of the ordinary, not an intensified compliment.
 - **The edit says the recommendations admit exceptions that the original ruled out.:** Unexceptionable concerns grounds for objection, not whether a recommendation permits exceptions.
 - **The edit preserves the same criticism but expresses it less formally.:** The original is not a criticism of ordinariness; the edit changes the evaluation rather than just its formality.
-- **The edit substitutes a judgment of ordinariness for one of acceptability.:** Unexceptionable means not reasonably open to objection; unexceptional ordinarily means not remarkable. The different endings lead to distinct usual evaluations.
+- **The edit substitutes a judgment of ordinariness for one of acceptability.:** 'Unexceptionable' means not reasonably open to objection; 'unexceptional' ordinarily means not remarkable. The different endings lead to distinct usual evaluations.
 
 **Decision:** replaced.
 
@@ -3787,7 +3787,7 @@ Original: 'Ari, a self-styled expert, spoke at the meeting.' Edit: 'Ari, a self-
 
 **Choice feedback:**
 
-- **The edit retains the writer's doubt about the title and specifies its official source.:** Self-taught neither names an official source for the title nor necessarily retains the scepticism conveyed by self-styled.
+- **The edit retains the writer's doubt about the title and specifies its official source.:** 'Self-taught' neither names an official source for the title nor necessarily retains the scepticism conveyed by 'self-styled'.
 - **The edit merely makes explicit that Ari's expertise has been independently verified.:** Self-styled does not establish verification, and self-taught describes education rather than an independent assessment.
 - **The edit replaces a claim about Ari's title with one about how Ari learned.:** Self-styled attributes the designation to Ari and can signal the writer's distance from it. Self-taught concerns learning without a teacher; the first description does not establish that history.
 - **The edit replaces an account of unsuccessful study with one of successful certification.:** Neither version reports unsuccessful study or certification; both readings add events not encoded by the compounds.
@@ -3853,7 +3853,7 @@ Defensive though her reply sounded, its central claim was defensible.
 
 - **Her reply sounded protective of her position, but its main claim could be justified.:** Defensive characterizes the stance or tone of the reply; defensible concerns whether a claim can be supported. Though preserves the contrast between these independent evaluations.
 - **Because her main claim could be justified, the reply did not sound defensive.:** This makes justification remove the defensive tone, whereas the original allows the two to coexist.
-- **Her reply established its main claim by defending it against the criticism.:** Defensible expresses capacity for justification, not a report that the reply actually established the claim.
+- **Her reply established its main claim by defending it against the criticism.:** 'Defensible' expresses capacity for justification, not a report that the reply actually established the claim.
 - **Although the reply sounded impartial, its main claim lacked a plausible defence.:** This reverses both evaluations: defensive is not impartial, and defensible does not mean lacking a defence.
 
 **Decision:** replaced.

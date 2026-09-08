@@ -499,14 +499,14 @@ What should you pay attention to?
 3. the pictures on the cover
 4. the voices you can hear **[Correct]**
 
-**Explanation:** Listening means paying attention to sound, here the recorded voices.
+**Explanation:** 'Listening' means paying attention to sound, here the recorded voices.
 
 **Choice feedback:**
 
 - **the words on the next page:** The books are closed; this is not a reading task.
 - **your partner's written answer:** A written answer is something to read, not the recording named here.
 - **the pictures on the cover:** Pictures are visual; 'listen' directs attention to sound.
-- **the voices you can hear:** Listening means paying attention to sound, here the recorded voices.
+- **the voices you can hear:** 'Listening' means paying attention to sound, here the recorded voices.
 
 **Decision:** replaced.
 
@@ -634,7 +634,7 @@ What is this homework?
 - **course work to do outside the lesson:** Homework is work set for learners to complete outside class; it can be done in a library too.
 - **cleaning the rooms in our homes:** Cleaning is housework, not work set by a tutor.
 - **work we do for our employers:** Paid job tasks are work, but not homework set on this course.
-- **a lesson taught in our homes:** Homework is a learner's task, not necessarily a lesson or something done at home.
+- **a lesson taught in our homes:** 'Homework' is a learner's task, not necessarily a lesson or something done at home.
 
 **Decision:** replaced.
 
@@ -1593,7 +1593,7 @@ What does 'concludes' mean in this sentence?
 1. starts the comparison with a question
 2. finishes the lesson without giving a view
 3. reaches a judgment from the comparison **[Correct]**
-4. defines the word instructions
+4. defines the word 'instructions'
 
 **Explanation:** 'Conclude that' means reach a view after considering information or reasons.
 
@@ -1602,7 +1602,7 @@ What does 'concludes' mean in this sentence?
 - **starts the comparison with a question:** The comparison precedes the judgment; 'concludes' names the resulting view.
 - **finishes the lesson without giving a view:** 'Conclude' can mean 'finish', but 'concludes that' introduces a judgment here.
 - **reaches a judgment from the comparison:** 'Conclude that' means reach a view after considering information or reasons.
-- **defines the word instructions:** A definition explains a word; this statement judges the two versions.
+- **defines the word 'instructions':** A definition explains a word; this statement judges the two versions.
 
 **Decision:** replaced.
 
@@ -1691,14 +1691,14 @@ What is the tutor asking the writer to change?
 3. the size of the printed letters
 4. the way the parts are arranged **[Correct]**
 
-**Explanation:** Structure is the organization of a text; moving explanation and examples changes that organization.
+**Explanation:** 'Structure' is the organization of a text; moving explanation and examples changes that organization.
 
 **Choice feedback:**
 
 - **the spelling of individual words:** Spelling concerns word forms; the suggestion changes the order of parts.
 - **the subject being discussed:** The tutor keeps the ideas and changes their arrangement, not the topic.
 - **the size of the printed letters:** Print size concerns appearance rather than the order of the reasoning.
-- **the way the parts are arranged:** Structure is the organization of a text; moving explanation and examples changes that organization.
+- **the way the parts are arranged:** 'Structure' is the organization of a text; moving explanation and examples changes that organization.
 
 **Decision:** replaced.
 
@@ -1851,11 +1851,11 @@ What is the concern?
 3. The club members could not understand the questions.
 4. The survey must contain too many questions.
 
-**Explanation:** Bias here is an uneven selection that may distort the picture of the wider town.
+**Explanation:** 'Bias' here is an uneven selection that may distort the picture of the wider town.
 
 **Choice feedback:**
 
-- **Cyclists' experiences may be overrepresented.:** Bias here is an uneven selection that may distort the picture of the wider town.
+- **Cyclists' experiences may be overrepresented.:** 'Bias' here is an uneven selection that may distort the picture of the wider town.
 - **The answers must have been invented.:** A biased sample can contain honest answers; fabrication is a different problem.
 - **The club members could not understand the questions.:** No comprehension problem is described; the concern is who was included.
 - **The survey must contain too many questions.:** The number of questions is not the sampling issue described.
@@ -1878,19 +1878,19 @@ Lena explains an author's idea in her own words and gives the author's name and 
 
 She cites the book but does not quote it. What is the distinction?
 
-1. Citing means agreeing with the author.
-2. Quoting means changing the author's wording.
-3. Citing names a source; quoting reproduces its wording. **[Correct]**
-4. Citing means naming a source without using its ideas.
+1. 'Citing' means agreeing with the author.
+2. 'Quoting' means changing the author's wording.
+3. 'Citing' names a source; 'quoting' reproduces its wording. **[Correct]**
+4. 'Citing' means naming a source without using its ideas.
 
 **Explanation:** A citation points to a source, while a quotation reproduces wording from it.
 
 **Choice feedback:**
 
-- **Citing means agreeing with the author.:** A writer can cite a source while disagreeing with it.
-- **Quoting means changing the author's wording.:** Quoting reproduces the original words rather than replaces them.
-- **Citing names a source; quoting reproduces its wording.:** A citation points to a source, while a quotation reproduces wording from it.
-- **Citing means naming a source without using its ideas.:** A citation can acknowledge ideas used in the text, as Lena's does here.
+- **'Citing' means agreeing with the author.:** A writer can cite a source while disagreeing with it.
+- **'Quoting' means changing the author's wording.:** Quoting reproduces the original words rather than replaces them.
+- **'Citing' names a source; 'quoting' reproduces its wording.:** A citation points to a source, while a quotation reproduces wording from it.
+- **'Citing' means naming a source without using its ideas.:** A citation can acknowledge ideas used in the text, as Lena's does here.
 
 **Decision:** replaced.
 
@@ -1911,7 +1911,7 @@ The sentence says, 'After rowing all morning, we stopped at the bank for lunch.'
 A tutor says to use the context to understand 'bank'. What should the learner use?
 
 1. the surrounding words about the activity **[Correct]**
-2. the number of letters in bank
+2. the number of letters in 'bank'
 3. the first meaning in any dictionary entry
 4. the typeface used to print bank
 
@@ -1920,7 +1920,7 @@ A tutor says to use the context to understand 'bank'. What should the learner us
 **Choice feedback:**
 
 - **the surrounding words about the activity:** Context includes nearby language and the situation; rowing helps suggest a river bank here.
-- **the number of letters in bank:** Word length does not distinguish the place beside a river from a financial bank.
+- **the number of letters in 'bank':** Word length does not distinguish the place beside a river from a financial bank.
 - **the first meaning in any dictionary entry:** Dictionary order alone does not show which meaning fits this sentence.
 - **the typeface used to print bank:** Typeface does not explain the sense suggested by the activity.
 
@@ -3134,19 +3134,19 @@ The aggregate completion rate rose, although several individual courses saw thei
 
 How can both parts be true?
 
-1. Aggregate means the rate for the least successful course.
-2. Aggregate describes the combined result, not every component. **[Correct]**
-3. Aggregate means a rate predicted for the following year.
-4. Aggregate means the figures have been corrected for errors.
+1. 'Aggregate' means the rate for the least successful course.
+2. 'Aggregate' describes the combined result, not every component. **[Correct]**
+3. 'Aggregate' means a rate predicted for the following year.
+4. 'Aggregate' means the figures have been corrected for errors.
 
 **Explanation:** An aggregate combines data across parts; its direction need not match the direction in each part.
 
 **Choice feedback:**
 
-- **Aggregate means the rate for the least successful course.:** The term refers to combination, not selection of the lowest-performing component.
-- **Aggregate describes the combined result, not every component.:** An aggregate combines data across parts; its direction need not match the direction in each part.
-- **Aggregate means a rate predicted for the following year.:** Aggregation concerns how data are combined, not whether they are forecasts.
-- **Aggregate means the figures have been corrected for errors.:** Combining figures does not itself mean that errors were detected or corrected.
+- **'Aggregate' means the rate for the least successful course.:** The term refers to combination, not selection of the lowest-performing component.
+- **'Aggregate' describes the combined result, not every component.:** An aggregate combines data across parts; its direction need not match the direction in each part.
+- **'Aggregate' means a rate predicted for the following year.:** Aggregation concerns how data are combined, not whether they are forecasts.
+- **'Aggregate' means the figures have been corrected for errors.:** Combining figures does not itself mean that errors were detected or corrected.
 
 **Decision:** replaced.
 
@@ -3303,11 +3303,11 @@ Which paraphrase preserves the relationship between evidence and explanation?
 3. The investigator has not yet formed a personal preference.
 4. The report expresses its preferred explanation in imprecise language.
 
-**Explanation:** Underdetermination means the evidence does not uniquely determine the explanation, not that no explanation is possible.
+**Explanation:** 'Underdetermination' means the evidence does not uniquely determine the explanation, not that no explanation is possible.
 
 **Choice feedback:**
 
-- **The surviving record permits more than one explanation.:** Underdetermination means the evidence does not uniquely determine the explanation, not that no explanation is possible.
+- **The surviving record permits more than one explanation.:** 'Underdetermination' means the evidence does not uniquely determine the explanation, not that no explanation is possible.
 - **The surviving record contradicts the proposed explanations.:** Contradiction rules accounts out; underdetermination leaves more than one compatible account available.
 - **The investigator has not yet formed a personal preference.:** Personal indecision is not the same as the evidence failing to discriminate among accounts.
 - **The report expresses its preferred explanation in imprecise language.:** Imprecise wording is a presentation issue; the phrase locates the problem in what the record can determine.

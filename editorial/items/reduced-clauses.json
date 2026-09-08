@@ -14,10 +14,10 @@
         "The person looking for a bag"
       ],
       "answer": "The person holding and moving two bags",
-      "explanation": "Carrying two heavy bags means holding the bags while moving with them.",
+      "explanation": "'Carrying two heavy bags' means holding the bags while moving with them.",
       "rationales": {
-        "The person buying two bags": "Carrying describes holding and moving the bags, not buying them.",
-        "The person holding and moving two bags": "Carrying two heavy bags means holding the bags while moving with them.",
+        "The person buying two bags": "'Carrying' describes holding and moving the bags, not buying them.",
+        "The person holding and moving two bags": "'Carrying two heavy bags' means holding the bags while moving with them.",
         "The person selling heavy bags": "Selling bags is a different action from carrying them.",
         "The person looking for a bag": "The person described already has two bags and is not looking for one."
       },
@@ -45,11 +45,11 @@
         "The speaker"
       ],
       "answer": "The speaker's sister",
-      "explanation": "Talking to the clerk describes the woman, and my sister tells us who she is.",
+      "explanation": "'Talking to the clerk' describes the woman, and 'my sister' tells us who she is.",
       "rationales": {
         "The speaker's mother": "My sister, not my mother, identifies the woman.",
         "The clerk's sister": "My belongs to the person saying the sentence, not the clerk.",
-        "The speaker's sister": "Talking to the clerk describes the woman, and my sister tells us who she is.",
+        "The speaker's sister": "'Talking to the clerk' describes the woman, and 'my sister' tells us who she is.",
         "The speaker": "The speaker identifies another person as my sister; the speaker is not the woman described."
       },
       "audit": {
@@ -76,12 +76,12 @@
         "Metal"
       ],
       "answer": "Glass",
-      "explanation": "Made of glass describes the cups' material.",
+      "explanation": "'Made of glass' describes the cups' material.",
       "rationales": {
-        "Glass": "Made of glass describes the cups' material.",
+        "Glass": "'Made of glass' describes the cups' material.",
         "Wood": "Wood is a different material; the description says glass.",
         "Paper": "Paper cups are not the glass cups identified here.",
-        "Metal": "Metal is not the material named after made of."
+        "Metal": "'Metal' is not the material named after 'made of'."
       },
       "audit": {
         "status": "reviewed",
@@ -107,12 +107,12 @@
         "Beside the kitchen door"
       ],
       "answer": "On the kitchen table",
-      "explanation": "Left on the kitchen table describes where someone put the keys.",
+      "explanation": "'Left on the kitchen table' describes where someone put the keys.",
       "rationales": {
         "Inside the kitchen cupboard": "The description gives the table, not the cupboard, as the keys' location.",
-        "Under the kitchen table": "On means on top of the table, not underneath it.",
+        "Under the kitchen table": "'On' means on top of the table, not underneath it.",
         "Beside the kitchen door": "The door is not the place named in left on the kitchen table.",
-        "On the kitchen table": "Left on the kitchen table describes where someone put the keys."
+        "On the kitchen table": "'Left on the kitchen table' describes where someone put the keys."
       },
       "audit": {
         "status": "reviewed",
@@ -138,10 +138,10 @@
         "Water was waiting in a closed bottle."
       ],
       "answer": "Water was flowing into the sink.",
-      "explanation": "Water running means water flowing; into the sink tells us where it was going.",
+      "explanation": "'Water running' means water flowing; 'into the sink' tells us where it was going.",
       "rationales": {
-        "The water was too hot.": "Running describes movement, not temperature.",
-        "Water was flowing into the sink.": "Water running means water flowing; into the sink tells us where it was going.",
+        "The water was too hot.": "'Running' describes movement, not temperature.",
+        "Water was flowing into the sink.": "'Water running' means water flowing; 'into the sink' tells us where it was going.",
         "The tap had no water.": "Flowing water is present, so this does not describe a tap with no water.",
         "Water was waiting in a closed bottle.": "The water was moving into the sink, not stored in a bottle."
       },
@@ -170,12 +170,12 @@
         "The door with the sign OFFICE"
       ],
       "answer": "The door with the sign EXIT",
-      "explanation": "Marked EXIT is a short way to describe a door carrying that label.",
+      "explanation": "'Marked EXIT' is a short way to describe a door carrying that label.",
       "rationales": {
-        "The door beside the sign SHOP": "SHOP names a shop entrance, not the exit identified in the instruction.",
-        "The door with no sign": "Marked EXIT means that a sign or label is present.",
-        "The door with the sign EXIT": "Marked EXIT is a short way to describe a door carrying that label.",
-        "The door with the sign OFFICE": "OFFICE is a different label from EXIT."
+        "The door beside the sign SHOP": "'SHOP' names a shop entrance, not the exit identified in the instruction.",
+        "The door with no sign": "'Marked EXIT' means that a sign or label is present.",
+        "The door with the sign EXIT": "'Marked EXIT' is a short way to describe a door carrying that label.",
+        "The door with the sign OFFICE": "'OFFICE' is a different label from 'EXIT'."
       },
       "audit": {
         "status": "reviewed",
@@ -201,11 +201,11 @@
         "be"
       ],
       "answer": "are",
-      "explanation": "Two people is plural, so the main verb is are; waiting outside describes those people.",
+      "explanation": "'Two people' is plural, so the main verb is 'are'; 'waiting outside' describes those people.",
       "rationales": {
-        "are": "Two people is plural, so the main verb is are; waiting outside describes those people.",
-        "is": "Is goes with a singular subject, but two people is plural.",
-        "am": "Am is used with I, not with two people.",
+        "are": "'Two people' is plural, so the main verb is 'are'; 'waiting outside' describes those people.",
+        "is": "'Is' goes with a singular subject, but 'two people' is plural.",
+        "am": "'Am' is used with 'I', not with 'two people'.",
         "be": "Be alone does not make this present-tense statement; use are."
       },
       "audit": {
@@ -235,7 +235,7 @@
       "explanation": "This morning belongs to cooked and gives the preparation time.",
       "rationales": {
         "Yesterday evening": "The cooking time is this morning, not yesterday evening.",
-        "Tomorrow morning": "Cooked describes food already prepared, and this morning is not tomorrow.",
+        "Tomorrow morning": "'Cooked' describes food already prepared, and 'this morning' is not tomorrow.",
         "After lunch today": "After lunch is later than the morning named in the description.",
         "This morning": "This morning belongs to cooked and gives the preparation time."
       },
@@ -263,10 +263,10 @@
         "The last person to arrive"
       ],
       "answer": "You",
-      "explanation": "The command close is addressed to you; before leaving refers to your departure.",
+      "explanation": "The command 'close' is addressed to you; 'before leaving' refers to your departure.",
       "rationales": {
         "The next visitor": "The notice addresses you, not a visitor arriving later.",
-        "You": "The command close is addressed to you; before leaving refers to your departure.",
+        "You": "The command 'close' is addressed to you; 'before leaving' refers to your departure.",
         "The person outside": "No person outside is given responsibility in the notice.",
         "The last person to arrive": "The instruction concerns the reader leaving, not whoever arrived last."
       },
@@ -294,11 +294,11 @@
         "During cooking"
       ],
       "answer": "During cooking",
-      "explanation": "While cooking means during the time you are cooking.",
+      "explanation": "'While cooking' means during the time you are cooking.",
       "rationales": {
         "Before you buy the food": "While links the instruction to cooking, not shopping beforehand.",
         "After you finish eating": "After eating is later than the activity named in while cooking.",
-        "During cooking": "While cooking means during the time you are cooking.",
+        "During cooking": "'While cooking' means during the time you are cooking.",
         "After you close the kitchen": "The instruction says to keep the door open during cooking, not wait until the kitchen closes."
       },
       "audit": {
@@ -325,11 +325,11 @@
         "A newspaper"
       ],
       "answer": "A map",
-      "explanation": "A map is the object after holding; a bus belongs to waiting for.",
+      "explanation": "'A map' is the object after 'holding'; 'a bus' belongs to 'waiting for'.",
       "rationales": {
         "A bus ticket": "The description names a map, not a ticket, as the object in his hands.",
         "A phone": "Holding a map does not describe holding a phone.",
-        "A map": "A map is the object after holding; a bus belongs to waiting for.",
+        "A map": "'A map' is the object after 'holding'; 'a bus' belongs to 'waiting for'.",
         "A newspaper": "A newspaper is a different object from the map named in the description."
       },
       "audit": {
@@ -356,12 +356,12 @@
         "selling a raincoat"
       ],
       "answer": "wearing a raincoat",
-      "explanation": "Wearing a raincoat means that the coat is on Leo now.",
+      "explanation": "'Wearing a raincoat' means that the coat is on Leo now.",
       "rationales": {
         "buying a raincoat": "Buying tells us about a purchase, not what Leo has on.",
-        "washing a raincoat": "Washing describes cleaning the coat, not wearing it.",
-        "selling a raincoat": "Selling describes offering the coat to someone else, not having it on.",
-        "wearing a raincoat": "Wearing a raincoat means that the coat is on Leo now."
+        "washing a raincoat": "'Washing' describes cleaning the coat, not wearing it.",
+        "selling a raincoat": "'Selling' describes offering the coat to someone else, not having it on.",
+        "wearing a raincoat": "'Wearing a raincoat' means that the coat is on Leo now."
       },
       "audit": {
         "status": "reviewed",
@@ -387,12 +387,12 @@
         "The speaker has finished moving the chair."
       ],
       "answer": "The speaker wants a helper.",
-      "explanation": "Someone to help describes the person the speaker needs.",
+      "explanation": "'Someone to help' describes the person the speaker needs.",
       "rationales": {
-        "The speaker wants a helper.": "Someone to help describes the person the speaker needs.",
+        "The speaker wants a helper.": "'Someone to help' describes the person the speaker needs.",
         "The speaker wants a different chair.": "The chair is the thing to move; the request is for help, not a replacement chair.",
         "The speaker is helping someone sit.": "The speaker wants to receive help moving the chair, not help someone sit down.",
-        "The speaker has finished moving the chair.": "Need someone to help describes a task still needing help, not a completed move."
+        "The speaker has finished moving the chair.": "'Need someone to help' describes a task still needing help, not a completed move."
       },
       "audit": {
         "status": "reviewed",
@@ -418,10 +418,10 @@
         "A place where a person can sit"
       ],
       "answer": "A place where a person can sit",
-      "explanation": "A place to sit means a place suitable for someone to sit down.",
+      "explanation": "'A place to sit' means a place suitable for someone to sit down.",
       "rationales": {
-        "A place to buy a ticket": "To sit names sitting as the use of the place, not buying tickets.",
-        "A place where a person can sit": "A place to sit means a place suitable for someone to sit down.",
+        "A place to buy a ticket": "'To sit' names sitting as the use of the place, not buying tickets.",
+        "A place where a person can sit": "'A place to sit' means a place suitable for someone to sit down.",
         "A person sitting at the entrance": "The question asks for an available place, not a person already sitting there.",
         "A sign showing the exit": "A sign may give directions, but it is not the place to sit that the visitor requests."
       },
@@ -449,11 +449,11 @@
         "Finish eating, then move the plate."
       ],
       "answer": "Finish eating, then move the plate.",
-      "explanation": "After eating means once you have eaten; putting the plate in the sink comes next.",
+      "explanation": "'After eating' means once you have eaten; putting the plate in the sink comes next.",
       "rationales": {
         "Put the plate away, then eat.": "After eating puts eating before moving the plate, not after it.",
-        "Eat while washing the plate.": "After describes one action following another, not two actions happening together.",
-        "Finish eating, then move the plate.": "After eating means once you have eaten; putting the plate in the sink comes next.",
+        "Eat while washing the plate.": "'After' describes one action following another, not two actions happening together.",
+        "Finish eating, then move the plate.": "'After eating' means once you have eaten; putting the plate in the sink comes next.",
         "Wash the plate before eating.": "The instruction asks you to move the plate after eating, not wash it beforehand."
       },
       "audit": {
@@ -480,12 +480,12 @@
         "A drink only"
       ],
       "answer": "Lunch",
-      "explanation": "Included in the price describes lunch; at noon gives its serving time.",
+      "explanation": "'Included in the price' describes lunch; 'at noon' gives its serving time.",
       "rationales": {
         "Dinner": "Dinner is a different meal from lunch.",
         "Breakfast": "Breakfast is not the meal named in the sentence.",
         "A drink only": "The sentence includes lunch, not just a drink, in the price.",
-        "Lunch": "Included in the price describes lunch; at noon gives its serving time."
+        "Lunch": "'Included in the price' describes lunch; 'at noon' gives its serving time."
       },
       "audit": {
         "status": "reviewed",
@@ -511,11 +511,11 @@
         "The table near the window is available."
       ],
       "answer": "The table near the window is available.",
-      "explanation": "By the window describes the table's location, and free means available here.",
+      "explanation": "'By the window' describes the table's location, and 'free' means available here.",
       "rationales": {
-        "The table near the window is available.": "By the window describes the table's location, and free means available here.",
+        "The table near the window is available.": "'By the window' describes the table's location, and 'free' means available here.",
         "The window beside the table is open.": "The sentence says the table is free; it does not say the window is open.",
-        "The table is outside the window.": "By means beside or near, not outside through the window.",
+        "The table is outside the window.": "'By' means beside or near, not outside through the window.",
         "The table has no window beside it.": "By the window places the table near a window, not away from one."
       },
       "audit": {
@@ -606,7 +606,7 @@
       "answer": "Press the green button when you are ready.",
       "explanation": "When ready is short for when you are ready in this instruction addressed to you.",
       "rationales": {
-        "Press the button before it is ready.": "The understood person getting ready is you, and when does not mean before.",
+        "Press the button before it is ready.": "The understood person getting ready is you, and 'when' does not mean 'before'.",
         "Wait until the button turns red.": "The request names the green button and says nothing about waiting for red.",
         "Press the button while getting ready.": "When ready places readiness before the action, not partway through getting ready.",
         "Press the green button when you are ready.": "When ready is short for when you are ready in this instruction addressed to you."
@@ -697,11 +697,11 @@
         "The person choosing the repair time"
       ],
       "answer": "The speaker's landlord",
-      "explanation": "By my landlord names the writer in the passive description written by my landlord.",
+      "explanation": "'By my landlord' names the writer in the passive description 'written by my landlord'.",
       "rationales": {
-        "The speaker's landlord": "By my landlord names the writer in the passive description written by my landlord.",
+        "The speaker's landlord": "'By my landlord' names the writer in the passive description 'written by my landlord'.",
         "The person doing the repair": "The repair worker is not identified as the writer of the letter.",
-        "The speaker": "Me is the recipient of the request; the landlord wrote the letter.",
+        "The speaker": "'Me' is the recipient of the request; the landlord wrote the letter.",
         "The person choosing the repair time": "The speaker is asked to choose a time, but the writer is the landlord."
       },
       "audit": {
@@ -728,12 +728,12 @@
         "Tickets purchased through the website"
       ],
       "answer": "Tickets purchased through the website",
-      "explanation": "Bought online describes tickets purchased through the website, the cheaper group.",
+      "explanation": "'Bought online' describes tickets purchased through the website, the cheaper group.",
       "rationales": {
         "Tickets sold near the entrance": "At the door identifies the more expensive group in the comparison.",
         "Tickets bought after the event": "The description concerns the place of purchase, not a purchase after the event.",
-        "Tickets purchased through the website": "Bought online describes tickets purchased through the website, the cheaper group.",
-        "Tickets reserved but not yet paid for": "Bought refers to a purchase, not an unpaid reservation."
+        "Tickets purchased through the website": "'Bought online' describes tickets purchased through the website, the cheaper group.",
+        "Tickets reserved but not yet paid for": "'Bought' refers to a purchase, not an unpaid reservation."
       },
       "audit": {
         "status": "reviewed",
@@ -759,10 +759,10 @@
         "The room used by the car-park staff"
       ],
       "answer": "The room with a view towards the sea",
-      "explanation": "Facing the sea describes the direction of the room's view.",
+      "explanation": "'Facing the sea' describes the direction of the room's view.",
       "rationales": {
-        "The room with a view of parked cars": "Facing the car park describes the room the speaker did not book.",
-        "The room with a view towards the sea": "Facing the sea describes the direction of the room's view.",
+        "The room with a view of parked cars": "'Facing the car park' describes the room the speaker did not book.",
+        "The room with a view towards the sea": "'Facing the sea' describes the direction of the room's view.",
         "The room between the sea and a shop": "Facing gives a direction, not a position between two places.",
         "The room used by the car-park staff": "The sentence contrasts views, not who uses or maintains the room."
       },
@@ -824,9 +824,9 @@
       "explanation": "Before can be followed by an ing form when the person is understood: before using the machine.",
       "rationales": {
         "using": "Before can be followed by an ing form when the person is understood: before using the machine.",
-        "use": "The base form use needs a subject after before in a full clause, such as before you use.",
-        "used": "Used does not form the active instruction before you use the machine in this position.",
-        "uses": "Uses is a finite verb and needs a subject, which is absent from this shortened phrase."
+        "use": "The base form 'use' needs a subject after 'before' in a full clause, such as 'before you use'.",
+        "used": "'Used' does not form the active instruction 'before you use the machine' in this position.",
+        "uses": "'Uses' is a finite verb and needs a subject, which is absent from this shortened phrase."
       },
       "audit": {
         "status": "reviewed",
@@ -854,8 +854,8 @@
       "answer": "A cyclist was making a turn into the street.",
       "explanation": "Turning presents the action the speaker saw as it was happening.",
       "rationales": {
-        "A cyclist had already left the street.": "Turning into describes entry in progress, not a completed departure.",
-        "A cyclist was waiting to enter the street.": "Waiting describes a pause before movement, whereas turning describes the movement itself.",
+        "A cyclist had already left the street.": "'Turning into' describes entry in progress, not a completed departure.",
+        "A cyclist was waiting to enter the street.": "'Waiting' describes a pause before movement, whereas 'turning' describes the movement itself.",
         "A cyclist was making a turn into the street.": "Turning presents the action the speaker saw as it was happening.",
         "A cyclist asked how to find the street.": "Asking for directions is not the action named after saw a cyclist."
       },
@@ -883,10 +883,10 @@
         "take"
       ],
       "answer": "taken",
-      "explanation": "Taken is the past participle of take and describes photos that someone took.",
+      "explanation": "'Taken' is the past participle of 'take' and describes photos that someone took.",
       "rationales": {
         "taking": "Taking is active; the photos are the result of someone taking them, not the agent taking pictures.",
-        "taken": "Taken is the past participle of take and describes photos that someone took.",
+        "taken": "'Taken' is the past participle of 'take' and describes photos that someone took.",
         "to take": "To take would describe photos still to be taken, not completed dinner photographs ready to view.",
         "take": "Take does not supply the required passive description after photos."
       },
@@ -916,7 +916,7 @@
       "answer": "Use the stairs",
       "explanation": "Asks visitors to use the stairs gives the main request; pinned beside the lift only describes the note.",
       "rationales": {
-        "Pin a note beside the stairs": "Pinned beside the lift describes the note's placement, not an action visitors should perform.",
+        "Pin a note beside the stairs": "'Pinned beside the lift' describes the note's placement, not an action visitors should perform.",
         "Use the lift to reach the next floor": "The message directs visitors to the stairs, not to travel in the lift.",
         "Wait for someone to repair the lift": "The sentence does not ask anyone to wait or state that repairs are underway.",
         "Use the stairs": "Asks visitors to use the stairs gives the main request; pinned beside the lift only describes the note."
@@ -1070,9 +1070,9 @@
         "The road that goes to the station"
       ],
       "answer": "The road that goes to the station",
-      "explanation": "Leading to the station describes the road's destination.",
+      "explanation": "'Leading to the station' describes the road's destination.",
       "rationales": {
-        "The road that goes to the station": "Leading to the station describes the road's destination.",
+        "The road that goes to the station": "'Leading to the station' describes the road's destination.",
         "The road behind the beach": "Behind the beach gives a location, not the station destination named in the instruction.",
         "The road closed near the station": "The sentence says where the road leads, not that it is closed.",
         "The road that goes towards the beach": "The beach road is explicitly contrasted with the road the reader should take."
@@ -1101,11 +1101,11 @@
         "He visited an injured family member."
       ],
       "answer": "He was hurt in the accident.",
-      "explanation": "Injured in the accident is a short passive description of the man who was hurt.",
+      "explanation": "'Injured in the accident' is a short passive description of the man who was hurt.",
       "rationales": {
-        "He caused an accident at the hospital.": "Injured describes what happened to the man, not who caused the accident or where it occurred.",
+        "He caused an accident at the hospital.": "'Injured' describes what happened to the man, not who caused the accident or where it occurred.",
         "He called because his family was injured.": "The injured person is the man; his family receives the call.",
-        "He was hurt in the accident.": "Injured in the accident is a short passive description of the man who was hurt.",
+        "He was hurt in the accident.": "'Injured in the accident' is a short passive description of the man who was hurt.",
         "He visited an injured family member.": "The sentence reports his own injury and a telephone call, not a visit to another patient."
       },
       "audit": {
@@ -1132,10 +1132,10 @@
         "The train waiting at a different platform"
       ],
       "answer": "The train that will depart from platform two next",
-      "explanation": "To leave after next describes the train with the next scheduled departure from that platform.",
+      "explanation": "'To leave' after 'next' describes the train with the next scheduled departure from that platform.",
       "rationales": {
         "The train that most recently left platform two": "Next to leave points forward to a departure, not back to the last departure.",
-        "The train that will depart from platform two next": "To leave after next describes the train with the next scheduled departure from that platform.",
+        "The train that will depart from platform two next": "'To leave' after 'next' describes the train with the next scheduled departure from that platform.",
         "The train that arrives from York next": "Goes to York gives the destination, not the train's origin.",
         "The train waiting at a different platform": "Platform two identifies the departure location, not a different platform."
       },
@@ -1163,12 +1163,12 @@
         "collect"
       ],
       "answer": "collected",
-      "explanation": "Collected describes packages that someone picked up this morning, matching their absence from the shelf.",
+      "explanation": "'Collected' describes packages that someone picked up this morning, matching their absence from the shelf.",
       "rationales": {
         "to collect": "To collect presents a collection still to do, not packages already picked up.",
         "collecting": "Collecting is active and does not describe packages someone has picked up.",
         "collect": "Collect does not form the shortened passive description after packages.",
-        "collected": "Collected describes packages that someone picked up this morning, matching their absence from the shelf."
+        "collected": "'Collected' describes packages that someone picked up this morning, matching their absence from the shelf."
       },
       "audit": {
         "status": "reviewed",
@@ -1261,7 +1261,7 @@
         "The notices printed about the council contain the new collection dates.": "About the council makes the council the topic of the notices, not their printer.",
         "The notices printed for the council contain the new collection dates.": "For the council identifies a beneficiary or intended user, not necessarily the printer.",
         "The notices printed by the council contain the new collection dates.": "Removing that were retains the passive printed by the council and the original printing agent.",
-        "The notices sent to the council contain the new collection dates.": "Sent to names the recipient rather than the organization that printed the notices."
+        "The notices sent to the council contain the new collection dates.": "'Sent to' names the recipient rather than the organization that printed the notices."
       },
       "audit": {
         "status": "reviewed",
@@ -1322,8 +1322,8 @@
       "rationales": {
         "delivered last week": "Delivered last week presents a completed past delivery, not one in progress.",
         "being delivered now": "Being delivered keeps passive meaning and marks the delivery as currently in progress.",
-        "to be delivered next month": "To be delivered next month describes a future plan, not an ongoing delivery.",
-        "ordered but not yet delivered": "Not yet delivered describes delivery as still outstanding rather than happening now."
+        "to be delivered next month": "'To be delivered next month' describes a future plan, not an ongoing delivery.",
+        "ordered but not yet delivered": "'Not yet delivered' describes delivery as still outstanding rather than happening now."
       },
       "audit": {
         "status": "reviewed",
@@ -1380,10 +1380,10 @@
         "After Dan checked the attachments, Priya sent the email."
       ],
       "answer": "After checking the attachments, Priya sent the email to Dan.",
-      "explanation": "Priya is the main subject and the understood subject of checking, preserving her two actions in order.",
+      "explanation": "'Priya' is the main subject and the understood subject of 'checking', preserving her two actions in order.",
       "rationales": {
         "After checking the attachments, Dan sent the email to Priya.": "The main subject Dan becomes the understood checker and sender, reversing both roles.",
-        "After checking the attachments, Priya sent the email to Dan.": "Priya is the main subject and the understood subject of checking, preserving her two actions in order.",
+        "After checking the attachments, Priya sent the email to Dan.": "'Priya' is the main subject and the understood subject of 'checking', preserving her two actions in order.",
         "After sending the email to Dan, Priya checked the attachments.": "This puts sending before checking, reversing the sequence.",
         "After Dan checked the attachments, Priya sent the email.": "This gives the checking to Dan, although Priya performed it in the original."
       },
@@ -1473,12 +1473,12 @@
         "Elena did not know where she needed to go."
       ],
       "answer": "Elena did not know where she needed to go.",
-      "explanation": "Not knowing the address describes Elena's missing information and explains her request for directions.",
+      "explanation": "'Not knowing the address' describes Elena's missing information and explains her request for directions.",
       "rationales": {
         "Elena's host did not know the address.": "The opening phrase has Elena as its understood subject, not her host.",
         "Elena called to tell her host the address.": "Elena is seeking directions because she lacks the address; she is not supplying it.",
-        "Elena refused to give her host the address.": "Not knowing describes lack of information, not unwillingness to share known information.",
-        "Elena did not know where she needed to go.": "Not knowing the address describes Elena's missing information and explains her request for directions."
+        "Elena refused to give her host the address.": "'Not knowing' describes lack of information, not unwillingness to share known information.",
+        "Elena did not know where she needed to go.": "'Not knowing the address' describes Elena's missing information and explains her request for directions."
       },
       "audit": {
         "status": "reviewed",
@@ -1629,9 +1629,9 @@
         "No one is waiting outside."
       ],
       "answer": "No one is waiting outside.",
-      "explanation": "Nobody waiting outside means that no person is currently waiting there.",
+      "explanation": "'Nobody waiting outside' means that no person is currently waiting there.",
       "rationales": {
-        "No one is waiting outside.": "Nobody waiting outside means that no person is currently waiting there.",
+        "No one is waiting outside.": "'Nobody waiting outside' means that no person is currently waiting there.",
         "Everyone waiting outside has left the desk open.": "The sentence denies an outside waiting group; it does not report that such a group left anything open.",
         "Someone outside is waiting for the desk to close.": "Someone waiting contradicts nobody waiting.",
         "No one inside is allowed to wait outside.": "The statement concerns whether people are waiting, not permission for people inside to wait elsewhere."
@@ -1726,7 +1726,7 @@
       "rationales": {
         "Put the forms the manager has already signed there.": "'To be signed' presents signing as still to happen, not completed.",
         "Put the forms containing the manager's signature there.": "An existing signature is not what the future passive description identifies.",
-        "Put the forms the manager refused to sign there.": "Awaiting signature does not mean the manager has refused to sign.",
+        "Put the forms the manager refused to sign there.": "'Awaiting signature' does not mean the manager has refused to sign.",
         "Put the forms awaiting a signature there.": "'To be signed' is a passive infinitive describing a task still required for those forms."
       },
       "audit": {
@@ -1815,12 +1815,12 @@
         "The jacket which hanging beside the stairs belongs to me."
       ],
       "answer": "The jacket hanging beside the stairs belongs to me.",
-      "explanation": "Hanging beside the stairs describes the jacket; belongs supplies the main statement.",
+      "explanation": "'Hanging beside the stairs' describes the jacket; 'belongs' supplies the main statement.",
       "rationales": {
         "The jacket hanging beside the stairs belonging to me.": "Hanging and belonging are both non-finite forms here, leaving the sentence without a finite main verb.",
-        "The jacket hanging beside the stairs belongs to me.": "Hanging beside the stairs describes the jacket; belongs supplies the main statement.",
+        "The jacket hanging beside the stairs belongs to me.": "'Hanging beside the stairs' describes the jacket; 'belongs' supplies the main statement.",
         "The jacket hangs beside the stairs belongs to me.": "Hangs and belongs are two finite verbs without a clause link between them.",
-        "The jacket which hanging beside the stairs belongs to me.": "A full which clause would need is hanging; which cannot stand directly before hanging alone here."
+        "The jacket which hanging beside the stairs belongs to me.": "A full 'which' clause would need 'is hanging'; 'which' cannot stand directly before 'hanging' alone here."
       },
       "audit": {
         "status": "reviewed",
@@ -1877,10 +1877,10 @@
         "Mara finished the stock check before considering the schedule."
       ],
       "answer": "Mara finished the stock check before considering the schedule.",
-      "explanation": "The perfect participle having completed places the completed stock check before Mara's change of focus.",
+      "explanation": "The perfect participle 'having completed' places the completed stock check before Mara's change of focus.",
       "rationales": {
         "Mara considered the schedule while checking the stock.": "Having completed presents the check as finished before the main action, not simultaneous with it.",
-        "Mara finished the stock check before considering the schedule.": "The perfect participle having completed places the completed stock check before Mara's change of focus.",
+        "Mara finished the stock check before considering the schedule.": "The perfect participle 'having completed' places the completed stock check before Mara's change of focus.",
         "Mara checked the stock because the schedule required it.": "The phrase gives an earlier completed action, not a requirement imposed by the schedule.",
         "Mara planned to complete the stock check after reviewing the schedule.": "This reverses the order and turns a completed check into a future plan."
       },
@@ -1942,7 +1942,7 @@
       "explanation": "Being interviewed presents the candidate as receiving the interview in progress at the moment of the request.",
       "rationales": {
         "being interviewed": "Being interviewed presents the candidate as receiving the interview in progress at the moment of the request.",
-        "interviewed earlier": "Interviewed earlier describes a completed interview, not one currently in progress.",
+        "interviewed earlier": "'Interviewed earlier' describes a completed interview, not one currently in progress.",
         "to be interviewed tomorrow": "To be interviewed tomorrow identifies a future appointment rather than a present interview.",
         "selected for interview": "Selection establishes an invitation or eligibility for interview, not that the interview is already underway."
       },
@@ -1973,7 +1973,7 @@
       "explanation": "Signed by tenants retains the completed signature, while awaiting keeps the office's countersignature outstanding.",
       "rationales": {
         "Contracts countersigned by the office and awaiting tenants' signatures must be held for checking.": "This reverses which signature has been supplied and which is still outstanding.",
-        "Contracts signed by tenants but rejected by the office must be held for checking.": "Not yet countersigned describes an unfinished stage, not a rejection by the office.",
+        "Contracts signed by tenants but rejected by the office must be held for checking.": "'Not yet countersigned' describes an unfinished stage, not a rejection by the office.",
         "Contracts signed by tenants and awaiting the office's countersignature must be held for checking.": "Signed by tenants retains the completed signature, while awaiting keeps the office's countersignature outstanding.",
         "Contracts signed by both tenants and the office must be held for checking.": "Both signatures are complete in this version, losing the distinction that identifies the contracts to hold."
       },
@@ -2004,7 +2004,7 @@
       "answer": "The designer intended to keep the exchange short.",
       "explanation": "The participle phrase gives the designer's motive: avoiding a lengthy exchange.",
       "rationales": {
-        "The sketch successfully prevented further discussion.": "Wanting expresses an intention, not evidence that the sketch achieved it.",
+        "The sketch successfully prevented further discussion.": "'Wanting' expresses an intention, not evidence that the sketch achieved it.",
         "The designer intended to keep the exchange short.": "The participle phrase gives the designer's motive: avoiding a lengthy exchange.",
         "The recipient had requested a lengthy explanation.": "The sentence does not report the recipient's request or preferred length.",
         "The designer regretted sending a short sketch.": "Wanting explains the choice at the time; it does not report later regret."
@@ -2064,12 +2064,12 @@
         "The team had brought the deadline forward."
       ],
       "answer": "The deadline was getting closer.",
-      "explanation": "Deadline is the explicit subject of approaching, describing time drawing near.",
+      "explanation": "'Deadline' is the explicit subject of 'approaching', describing time drawing near.",
       "rationales": {
-        "The deadline was getting closer.": "Deadline is the explicit subject of approaching, describing time drawing near.",
+        "The deadline was getting closer.": "'Deadline' is the explicit subject of 'approaching', describing time drawing near.",
         "The team had reached the exhibition venue.": "Approaching belongs to deadline in the with clause, not to the team's physical movement.",
         "The exhibition's opening date had been postponed.": "A deadline drawing near does not mean that the opening date was postponed.",
-        "The team had brought the deadline forward.": "Approaching describes the passage of time towards a deadline, not a decision to change it."
+        "The team had brought the deadline forward.": "'Approaching' describes the passage of time towards a deadline, not a decision to change it."
       },
       "audit": {
         "status": "reviewed",
@@ -2097,7 +2097,7 @@
       "answer": "The repaired floor made it possible for the studio to reopen.",
       "explanation": "With the floor repaired presents a completed condition enabling the reopening reported in the main clause.",
       "rationales": {
-        "The studio reopened to begin repairing the floor.": "Repaired describes the achieved state before reopening, not the purpose of opening for repairs.",
+        "The studio reopened to begin repairing the floor.": "'Repaired' describes the achieved state before reopening, not the purpose of opening for repairs.",
         "The students repaired the floor during evening classes.": "No repairers are named; the phrase does not attribute the work to students during classes.",
         "The repaired floor made it possible for the studio to reopen.": "With the floor repaired presents a completed condition enabling the reopening reported in the main clause.",
         "The floor was still being repaired, so the studio remained closed.": "Reopened yesterday conflicts with remained closed, and repaired does not describe ongoing work here."
@@ -2132,7 +2132,7 @@
         "The display was folded because it was already inside the box.": "The description states a state-dependent property, not a past reason for folding the display.",
         "The display fits inside the box in its folded state.": "'When folded' means 'when the display is folded'; that state allows it to fit inside the box.",
         "The box must be folded before it can hold the display.": "The understood folded object is the display, not the box.",
-        "The display has remained folded since it was delivered.": "The reduced when clause does not establish a delivery history or a continuing folded state."
+        "The display has remained folded since it was delivered.": "The reduced 'when' clause does not establish a delivery history or a continuing folded state."
       },
       "audit": {
         "status": "reviewed",
@@ -2222,7 +2222,7 @@
       "answer": "For applicants to qualify for the exhibition, they must submit a portfolio.",
       "explanation": "For applicants makes the infinitive's subject explicit and keeps submitting a portfolio as their qualifying requirement.",
       "rationales": {
-        "To be eligible for the exhibition, a portfolio must be submitted by applicants.": "The main grammatical subject is portfolio, leaving the intended human subject of eligible unclear.",
+        "To be eligible for the exhibition, a portfolio must be submitted by applicants.": "The main grammatical subject is 'portfolio', leaving the intended human subject of 'eligible' unclear.",
         "For a portfolio to be accepted, it must include recent work.": "This states a condition for a portfolio's acceptance rather than the applicants' eligibility requirement.",
         "For applicants to qualify for the exhibition, they must submit a portfolio.": "For applicants makes the infinitive's subject explicit and keeps submitting a portfolio as their qualifying requirement.",
         "For applicants to submit a portfolio, the exhibition must first accept them.": "This reverses the dependency, making acceptance a prerequisite for submission."
@@ -2313,9 +2313,9 @@
         "The meeting organizers hoped the residents would revise the drawing."
       ],
       "answer": "The architect hoped the drawing would resolve the residents' concerns.",
-      "explanation": "Hoping describes the architect, the person performing the main action of sending the drawing.",
+      "explanation": "'Hoping' describes the architect, the person performing the main action of sending the drawing.",
       "rationales": {
-        "The architect hoped the drawing would resolve the residents' concerns.": "Hoping describes the architect, the person performing the main action of sending the drawing.",
+        "The architect hoped the drawing would resolve the residents' concerns.": "'Hoping' describes the architect, the person performing the main action of sending the drawing.",
         "The residents hoped to send the architect their concerns.": "The residents receive the drawing; they are not the understood subject of hoping here.",
         "The residents had already resolved their concerns before receiving the drawing.": "A hope to resolve concerns does not establish that those concerns were already resolved.",
         "The meeting organizers hoped the residents would revise the drawing.": "No separate meeting organizers are introduced as the people hoping for a revision."
@@ -2346,8 +2346,8 @@
       "answer": "The caretaker discovered that the side gate was in a locked state.",
       "explanation": "The object gate has the state locked; the later choice of another entrance responds to that discovery.",
       "rationales": {
-        "The caretaker found the person who had locked the gate.": "Found the gate locked describes the gate's state, not the identity of the person responsible.",
-        "The caretaker locked the gate before finding the main entrance.": "Locked is a description of the gate when found, not a finite action performed by the caretaker.",
+        "The caretaker found the person who had locked the gate.": "'Found the gate locked' describes the gate's state, not the identity of the person responsible.",
+        "The caretaker locked the gate before finding the main entrance.": "'Locked' is a description of the gate when found, not a finite action performed by the caretaker.",
         "The caretaker discovered that the side gate was in a locked state.": "The object gate has the state locked; the later choice of another entrance responds to that discovery.",
         "The caretaker discovered that the main entrance needed locking.": "The locked state belongs to the side gate, not to the main entrance used afterward."
       },
@@ -2440,7 +2440,7 @@
       "explanation": "Became places the achievement in the past; to lead identifies the leadership achievement rather than a future plan.",
       "rationales": {
         "Leena actually took the leadership role in 1986.": "Became places the achievement in the past; to lead identifies the leadership achievement rather than a future plan.",
-        "Leena planned in 1986 to lead the station at a later date.": "An infinitive after first does not itself make the event future; became locates the achieved role in 1986.",
+        "Leena planned in 1986 to lead the station at a later date.": "An infinitive after 'first' does not itself make the event future; 'became' locates the achieved role in 1986.",
         "Leena was the first woman to apply but was not appointed.": "The phrase says first woman to lead, not first to apply unsuccessfully.",
         "Leena was already leading the station before 1986.": "Became in 1986 marks entry into the role then, not an earlier period of leadership."
       },
@@ -2530,9 +2530,9 @@
         "The curator's years of experience prove that the system could not be replaced."
       ],
       "answer": "The curator's experience preceded the understanding; continued employment is not ruled out.",
-      "explanation": "Having worked places relevant experience before the main-clause understanding, but it does not by itself say the association had ended.",
+      "explanation": "'Having worked' places relevant experience before the main-clause understanding, but it does not by itself say the association had ended.",
       "rationales": {
-        "The curator's experience preceded the understanding; continued employment is not ruled out.": "Having worked places relevant experience before the main-clause understanding, but it does not by itself say the association had ended.",
+        "The curator's experience preceded the understanding; continued employment is not ruled out.": "'Having worked' places relevant experience before the main-clause understanding, but it does not by itself say the association had ended.",
         "The curator had stopped working with the archive before understanding the problem.": "Perfect experience does not require the curator to have left the archive.",
         "The curator understood the problem before gaining experience with the archive.": "This reverses the temporal relationship supplied by having worked.",
         "The curator's years of experience prove that the system could not be replaced.": "Understood why replacement was difficult does not establish impossibility of replacement."
@@ -2626,7 +2626,7 @@
       "explanation": "The opening clause has its own subject, the final witness, while panel remains the actor of postponed.",
       "rationales": {
         "The final witness postponed the hearing after the panel withdrew.": "This swaps the witness's withdrawal and the panel's postponement.",
-        "The panel withdrew the final witness before attending the hearing.": "Having withdrawn is active with witness as its subject; it does not say the panel removed the witness.",
+        "The panel withdrew the final witness before attending the hearing.": "'Having withdrawn' is active with 'witness' as its subject; it does not say the panel removed the witness.",
         "After the final witness withdrew, the panel postponed the hearing.": "The opening clause has its own subject, the final witness, while panel remains the actor of postponed.",
         "The panel postponed the hearing so that the final witness could withdraw.": "The withdrawal is presented as already having happened, not a purpose for the postponement."
       },
@@ -2871,12 +2871,12 @@
         "The musician reported a future departure by someone else in the orchestra."
       ],
       "answer": "A report places the departure before the report, while the website still lists the musician.",
-      "explanation": "Reported to have left uses the perfect infinitive for a departure represented as earlier than the reporting; still listed contrasts with that report.",
+      "explanation": "'Reported to have left' uses the perfect infinitive for a departure represented as earlier than the reporting; 'still listed' contrasts with that report.",
       "rationales": {
-        "A report places the departure before the report, while the website still lists the musician.": "Reported to have left uses the perfect infinitive for a departure represented as earlier than the reporting; still listed contrasts with that report.",
+        "A report places the departure before the report, while the website still lists the musician.": "'Reported to have left' uses the perfect infinitive for a departure represented as earlier than the reporting; 'still listed' contrasts with that report.",
         "The report predicts that the musician will leave after the website is updated.": "To have left is retrospective, not a prediction about leaving after a future update.",
         "The website confirms that the musician has already left the orchestra.": "The website's listing is the contrasting fact, not confirmation of the reported departure.",
-        "The musician reported a future departure by someone else in the orchestra.": "Reported is passive here; the musician is the reported leaver, not the speaker reporting someone else's plan."
+        "The musician reported a future departure by someone else in the orchestra.": "'Reported' is passive here; the musician is the reported leaver, not the speaker reporting someone else's plan."
       },
       "audit": {
         "status": "reviewed",
@@ -2938,7 +2938,7 @@
         "Residents refused to take part in a consultation offered to them.": "Not having been consulted reports an event that did not occur, not an invitation the residents refused.",
         "Residents had not been consulted before they questioned the decision-making process.": "The negative perfect passive presents lack of consultation before their questioning of the process.",
         "Residents consulted the planners but refused to accept their recommendation.": "This adds consultation and refusal that the opening phrase does not report.",
-        "Residents asked for a consultation after approving the decision-making process.": "Questioned expresses doubt or inquiry, not approval of the process."
+        "Residents asked for a consultation after approving the decision-making process.": "'Questioned' expresses doubt or inquiry, not approval of the process."
       },
       "audit": {
         "status": "reviewed",
@@ -2964,12 +2964,12 @@
         "The traders supported the festival in general but opposed the week-long closure."
       ],
       "answer": "The traders supported the festival in general but opposed the week-long closure.",
-      "explanation": "While broadly supportive means although the traders were supportive overall; the main clause narrows their objection to the closure.",
+      "explanation": "'While broadly supportive' means although the traders were supportive overall; the main clause narrows their objection to the closure.",
       "rationales": {
-        "The festival organizers supported closing the square despite traders' opposition.": "The supportive subject is local traders, not the festival organizers.",
+        "The festival organizers supported closing the square despite traders' opposition.": "The supportive subject is 'local traders', not the festival organizers.",
         "The traders supported the festival only while the market square was closed.": "While is concessive here, not a limit on the time during which traders offered support.",
         "The traders withdrew their support for the festival as soon as the closure was announced.": "A specific objection does not establish that broad support was withdrawn.",
-        "The traders supported the festival in general but opposed the week-long closure.": "While broadly supportive means although the traders were supportive overall; the main clause narrows their objection to the closure."
+        "The traders supported the festival in general but opposed the week-long closure.": "'While broadly supportive' means although the traders were supportive overall; the main clause narrows their objection to the closure."
       },
       "audit": {
         "status": "reviewed",
@@ -3090,7 +3090,7 @@
       "answer": "While reading the draft on the train, Sora noticed the different dates.",
       "explanation": "While makes the overlapping reading explicit while leaving completion unstated.",
       "rationales": {
-        "Having finished the draft on the train, Sora noticed the different dates.": "Having finished adds completion that the simple participle background does not state.",
+        "Having finished the draft on the train, Sora noticed the different dates.": "'Having finished' adds completion that the simple participle background does not state.",
         "Before reading the draft, Sora noticed its two conflicting dates.": "Before reading moves the discovery ahead of the activity during which it occurred.",
         "To finish reading the draft, Sora changed the conflicting dates.": "This changes noticing into editing and introduces a purpose not in the original.",
         "While reading the draft on the train, Sora noticed the different dates.": "While makes the overlapping reading explicit while leaving completion unstated."
@@ -3584,11 +3584,11 @@
         "Malik signed while his objections remained unresolved and sought a record of disagreement."
       ],
       "answer": "Malik signed while his objections remained unresolved and sought a record of disagreement.",
-      "explanation": "His objections is the absolute's subject, and still unaddressed maintains their status alongside the qualified signing action.",
+      "explanation": "'His objections' is the absolute's subject, and 'still unaddressed' maintains their status alongside the qualified signing action.",
       "rationales": {
         "Malik signed after the committee had answered his objections to his satisfaction.": "Still unaddressed keeps the objections unanswered, not resolved to Malik's satisfaction.",
         "The signature proves that Malik withdrew his objections before requesting a note.": "The absolute and the request to record dissent do not support withdrawal of the objections.",
-        "Malik signed while his objections remained unresolved and sought a record of disagreement.": "His objections is the absolute's subject, and still unaddressed maintains their status alongside the qualified signing action.",
+        "Malik signed while his objections remained unresolved and sought a record of disagreement.": "'His objections' is the absolute's subject, and 'still unaddressed' maintains their status alongside the qualified signing action.",
         "The committee's objections to Malik's signature had prevented agreement on the minutes.": "His identifies Malik's objections, not the committee's objections to him."
       },
       "audit": {
@@ -3646,12 +3646,12 @@
         "For the technician to compare the samples, the researcher must first thaw them."
       ],
       "answer": "For the researcher to compare the samples, the technician must first thaw them.",
-      "explanation": "For the researcher explicitly assigns the infinitive's subject while technician remains the subject of must thaw.",
+      "explanation": "'For the researcher' explicitly assigns the infinitive's subject while 'technician' remains the subject of 'must thaw'.",
       "rationales": {
-        "To compare the samples, the technician must thaw them before asking the researcher to help.": "The purpose infinitive still has technician as its natural understood subject; help from the researcher does not transfer the comparing role.",
+        "To compare the samples, the technician must thaw them before asking the researcher to help.": "The purpose infinitive still has 'technician' as its natural understood subject; help from the researcher does not transfer the comparing role.",
         "Having compared the samples, the researcher must ask the technician to thaw them.": "This places comparison before thawing and makes it completed rather than the intended subsequent task.",
         "For the technician to compare the samples, the researcher must first thaw them.": "This exchanges the intended comparator and the person performing the thawing.",
-        "For the researcher to compare the samples, the technician must first thaw them.": "For the researcher explicitly assigns the infinitive's subject while technician remains the subject of must thaw."
+        "For the researcher to compare the samples, the technician must first thaw them.": "'For the researcher' explicitly assigns the infinitive's subject while 'technician' remains the subject of 'must thaw'."
       },
       "audit": {
         "status": "reviewed",

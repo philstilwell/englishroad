@@ -19,14 +19,14 @@ Sam wakes up at six. What happens at six?
 3. He starts sleeping.
 4. He stops sleeping. **[Correct]**
 
-**Explanation:** Wake up means stop sleeping. It does not mean you leave bed immediately.
+**Explanation:** 'Wake up' means stop sleeping. It does not mean you leave bed immediately.
 
 **Choice feedback:**
 
 - **He leaves his bed.:** He may stay in bed after waking. Leaving bed is getting up.
 - **He starts work.:** Waking is the end of sleep, not the start of a work shift.
 - **He starts sleeping.:** Starting to sleep is falling asleep, the opposite change.
-- **He stops sleeping.:** Wake up means stop sleeping. It does not mean you leave bed immediately.
+- **He stops sleeping.:** 'Wake up' means stop sleeping. It does not mean you leave bed immediately.
 
 **Decision:** replaced.
 
@@ -115,14 +115,14 @@ Read a message between friends.
 3. Bring dinner to a friend's home.
 4. Finish dinner before Friday.
 
-**Explanation:** Go out for dinner means leave home to eat somewhere else, commonly a restaurant.
+**Explanation:** 'Go out for dinner' means leave home to eat somewhere else, commonly a restaurant.
 
 **Choice feedback:**
 
 - **Cook dinner at home.:** Cooking at home does not express go out for dinner.
-- **Have dinner away from home.:** Go out for dinner means leave home to eat somewhere else, commonly a restaurant.
+- **Have dinner away from home.:** 'Go out for dinner' means leave home to eat somewhere else, commonly a restaurant.
 - **Bring dinner to a friend's home.:** That describes bringing food to someone; it is not the plan expressed by go out for dinner.
-- **Finish dinner before Friday.:** Go out describes an activity away from home, not finishing a meal early.
+- **Finish dinner before Friday.:** 'Go out' describes an activity away from home, not finishing a meal early.
 
 **Decision:** replaced.
 
@@ -147,12 +147,12 @@ The photographer says, 'Please stand up.' What should people do?
 3. Stand closer together.
 4. Walk to the door.
 
-**Explanation:** Stand up means move from sitting or lying to a standing position.
+**Explanation:** 'Stand up' means move from sitting or lying to a standing position.
 
 **Choice feedback:**
 
 - **Stay in their seats.:** Staying seated does not follow the request to stand up.
-- **Get onto their feet.:** Stand up means move from sitting or lying to a standing position.
+- **Get onto their feet.:** 'Stand up' means move from sitting or lying to a standing position.
 - **Stand closer together.:** Stand up changes body position; it does not tell people how close to stand.
 - **Walk to the door.:** The request does not specify walking or a destination.
 
@@ -211,13 +211,13 @@ A shop assistant speaks to a customer.
 3. Return to the shop tomorrow. **[Correct]**
 4. Bring another customer tomorrow.
 
-**Explanation:** Come back means return to the place being discussed, here the shop.
+**Explanation:** 'Come back' means return to the place being discussed, here the shop.
 
 **Choice feedback:**
 
 - **Wait in the shop until tomorrow.:** Come back asks for a return, not a wait lasting until the next day.
-- **Walk to the back of the shop.:** Back in come back means return; it does not name the rear of the shop.
-- **Return to the shop tomorrow.:** Come back means return to the place being discussed, here the shop.
+- **Walk to the back of the shop.:** 'Back' in 'come back' means return; it does not name the rear of the shop.
+- **Return to the shop tomorrow.:** 'Come back' means return to the place being discussed, here the shop.
 - **Bring another customer tomorrow.:** The assistant asks this customer to return, not to bring someone else.
 
 **Decision:** replaced.
@@ -243,13 +243,13 @@ You are entering a friend's home.
 3. Remove your shoes. **[Correct]**
 4. Carry your shoes outside.
 
-**Explanation:** Take off means remove something you are wearing, such as shoes or a coat.
+**Explanation:** 'Take off' means remove something you are wearing, such as shoes or a coat.
 
 **Choice feedback:**
 
-- **Clean your shoes.:** Taking shoes off means removing them, not cleaning them.
+- **Clean your shoes.:** 'Taking shoes off' means removing them, not cleaning them.
 - **Put your shoes on.:** Putting shoes on is the opposite action: starting to wear them.
-- **Remove your shoes.:** Take off means remove something you are wearing, such as shoes or a coat.
+- **Remove your shoes.:** 'Take off' means remove something you are wearing, such as shoes or a coat.
 - **Carry your shoes outside.:** The request says to remove the shoes; it does not say where to carry them.
 
 **Decision:** replaced.
@@ -314,7 +314,7 @@ Which instruction asks for that change?
 - **Come in.:** Come in asks for entry, not a change in which way you face.
 - **Turn around.:** Turn around asks you to change the direction you are facing, here towards the camera behind you.
 - **Sit down.:** Sitting down changes your body position but does not ask you to face the other way.
-- **Move in.:** Move in can mean start living somewhere; it is not the instruction for turning towards the camera.
+- **Move in.:** 'Move in' can mean start living somewhere; it is not the instruction for turning towards the camera.
 
 **Decision:** replaced.
 
@@ -371,11 +371,11 @@ You and a friend are getting ready to leave.
 3. Wait for another taxi.
 4. Stop getting ready.
 
-**Explanation:** Hurry up means do what you are doing more quickly. It can apply to getting ready, not just walking.
+**Explanation:** 'Hurry up' means do what you are doing more quickly. It can apply to getting ready, not just walking.
 
 **Choice feedback:**
 
-- **Get ready more quickly.:** Hurry up means do what you are doing more quickly. It can apply to getting ready, not just walking.
+- **Get ready more quickly.:** 'Hurry up' means do what you are doing more quickly. It can apply to getting ready, not just walking.
 - **Go upstairs.:** Up is part of hurry up; it does not give a direction to another floor.
 - **Wait for another taxi.:** The request asks for greater speed, not a different taxi.
 - **Stop getting ready.:** Hurry up asks your friend to continue faster, not stop the activity.
@@ -435,13 +435,13 @@ At a museum, a member of staff speaks to a group.
 3. In a row beside the door. **[Correct]**
 4. Outside the building.
 
-**Explanation:** Line up means form a line or row. By the door tells the visitors where to do it.
+**Explanation:** 'Line up' means form a line or row. 'By the door' tells the visitors where to do it.
 
 **Choice feedback:**
 
 - **In small groups around the room.:** Separate groups do not make the line requested by line up.
 - **In seats facing the door.:** The instruction asks for a line, not for everyone to take a seat.
-- **In a row beside the door.:** Line up means form a line or row. By the door tells the visitors where to do it.
+- **In a row beside the door.:** 'Line up' means form a line or row. 'By the door' tells the visitors where to do it.
 - **Outside the building.:** By the door locates the line. It does not necessarily place it outside.
 
 **Decision:** replaced.
@@ -467,12 +467,12 @@ You have finished cooking in a shared kitchen.
 3. Buy new kitchen things.
 4. Leave the kitchen earlier.
 
-**Explanation:** Clean up means remove dirt or mess. Here the speaker offers to deal with the kitchen after cooking.
+**Explanation:** 'Clean up' means remove dirt or mess. Here the speaker offers to deal with the kitchen after cooking.
 
 **Choice feedback:**
 
 - **Prepare another meal.:** Clean up concerns the mess after an activity, not cooking another meal.
-- **Make the kitchen clean and tidy.:** Clean up means remove dirt or mess. Here the speaker offers to deal with the kitchen after cooking.
+- **Make the kitchen clean and tidy.:** 'Clean up' means remove dirt or mess. Here the speaker offers to deal with the kitchen after cooking.
 - **Buy new kitchen things.:** Buying equipment does not mean removing the mess.
 - **Leave the kitchen earlier.:** The phrase describes work before leaving, not a change in departure time.
 
@@ -499,14 +499,14 @@ Complete: 'I'll ___ your umbrella tonight.'
 3. give back **[Correct]**
 4. take out
 
-**Explanation:** Give back means return something to the person who had it before.
+**Explanation:** 'Give back' means return something to the person who had it before.
 
 **Choice feedback:**
 
-- **throw away:** Throw away means put something in the rubbish, not return it to its owner.
-- **put on:** Put on means start wearing clothing; it does not express returning an umbrella.
-- **give back:** Give back means return something to the person who had it before.
-- **take out:** Take out means remove or carry something out. It does not state that the owner will receive it again.
+- **throw away:** 'Throw away' means put something in the rubbish, not return it to its owner.
+- **put on:** 'Put on' means start wearing clothing; it does not express returning an umbrella.
+- **give back:** 'Give back' means return something to the person who had it before.
+- **take out:** 'Take out' means remove or carry something out. It does not state that the owner will receive it again.
 
 **Decision:** replaced.
 
@@ -531,14 +531,14 @@ You are in the hall outside a meeting room.
 3. From the hall to another floor.
 4. From the room into the hall. **[Correct]**
 
-**Explanation:** Come out of describes movement from inside the named place towards the outside, here the hall.
+**Explanation:** 'Come out of' describes movement from inside the named place towards the outside, here the hall.
 
 **Choice feedback:**
 
 - **From the hall into the room.:** That is the reverse direction; she would go into the room.
 - **From one chair to another in the room.:** Moving between chairs does not take her out of the room.
 - **From the hall to another floor.:** The sentence names the room as the place she leaves, not a change of floor.
-- **From the room into the hall.:** Come out of describes movement from inside the named place towards the outside, here the hall.
+- **From the room into the hall.:** 'Come out of' describes movement from inside the named place towards the outside, here the hall.
 
 **Decision:** replaced.
 
@@ -563,14 +563,14 @@ Which request clearly asks for this action?
 3. Please give it back.
 4. Please pick it up. **[Correct]**
 
-**Explanation:** Pick it up means lift it from where it is, here the floor. The pronoun it goes between pick and up.
+**Explanation:** 'Pick it up' means lift it from where it is, here the floor. The pronoun 'it' goes between 'pick' and 'up'.
 
 **Choice feedback:**
 
 - **Please put it down.:** Put it down asks someone already holding it to place it on a surface.
 - **Please turn it on.:** Turning the phone on starts it; this is not the request to lift it.
 - **Please give it back.:** Give it back asks for a return to a previous holder, which is a different action.
-- **Please pick it up.:** Pick it up means lift it from where it is, here the floor. The pronoun it goes between pick and up.
+- **Please pick it up.:** 'Pick it up' means lift it from where it is, here the floor. The pronoun 'it' goes between 'pick' and 'up'.
 
 **Decision:** replaced.
 
@@ -595,12 +595,12 @@ Which instruction asks someone to switch it off?
 3. Move the television.
 4. Turn on the television.
 
-**Explanation:** Turn off means stop a device operating by using its control or switch.
+**Explanation:** 'Turn off' means stop a device operating by using its control or switch.
 
 **Choice feedback:**
 
 - **Turn down the television.:** Turn down normally reduces the television's sound; the television remains on.
-- **Turn off the television.:** Turn off means stop a device operating by using its control or switch.
+- **Turn off the television.:** 'Turn off' means stop a device operating by using its control or switch.
 - **Move the television.:** Moving changes its position, not whether it is on.
 - **Turn on the television.:** Turn on starts the device, the opposite of the requested action.
 
@@ -627,14 +627,14 @@ Read a message about a new flat.
 3. They leave the flat to live elsewhere.
 4. They repair the flat's front door.
 
-**Explanation:** Move in means begin using a place as your home. Entering it for a visit is not enough.
+**Explanation:** 'Move in' means begin using a place as your home. Entering it for a visit is not enough.
 
 **Choice feedback:**
 
-- **They start living in the flat.:** Move in means begin using a place as your home. Entering it for a visit is not enough.
+- **They start living in the flat.:** 'Move in' means begin using a place as your home. Entering it for a visit is not enough.
 - **They visit the flat for an hour.:** A short visit is not the residence change expressed by move in.
 - **They leave the flat to live elsewhere.:** Leaving a home to live elsewhere is moving out, not moving in.
-- **They repair the flat's front door.:** Repairs may happen near a move, but move in does not mean repair anything.
+- **They repair the flat's front door.:** Repairs may happen near a move, but 'move in' does not mean repair anything.
 
 **Decision:** replaced.
 
@@ -667,10 +667,10 @@ Which instruction asks you to do that?
 
 **Choice feedback:**
 
-- **Hand it in.:** Hand in means submit the form. It does not tell you to write the missing information.
+- **Hand it in.:** 'Hand in' means submit the form. It does not tell you to write the missing information.
 - **Fill it in or fill it out.:** Both fill in a form and fill out a form mean complete its required information. With it, put the pronoun before in or out.
 - **Send it back.:** Sending the form back returns it to the sender; the form could still be blank.
-- **Look it over.:** Looking it over means examining it, not necessarily completing its empty spaces.
+- **Look it over.:** 'Looking it over' means examining it, not necessarily completing its empty spaces.
 
 **Decision:** replaced.
 
@@ -695,13 +695,13 @@ Complete: 'Could you ___ the printer?'
 3. take apart
 4. pack away
 
-**Explanation:** Plug in means connect a device to a power supply using its plug. The printer may still need to be switched on afterwards.
+**Explanation:** 'Plug in' means connect a device to a power supply using its plug. The printer may still need to be switched on afterwards.
 
 **Choice feedback:**
 
 - **turn down:** Turn down can reduce a setting, but it does not connect the cable.
-- **plug in:** Plug in means connect a device to a power supply using its plug. The printer may still need to be switched on afterwards.
-- **take apart:** Taking the printer apart means separating its parts, not connecting it to power.
+- **plug in:** 'Plug in' means connect a device to a power supply using its plug. The printer may still need to be switched on afterwards.
+- **take apart:** 'Taking the printer apart' means separating its parts, not connecting it to power.
 - **pack away:** Packing it away puts it into storage; it does not supply electricity.
 
 **Decision:** replaced.
@@ -727,14 +727,14 @@ Choose the reply with correct word order that expresses this offer.
 3. I'll look after it.
 4. I'll look for it. **[Correct]**
 
-**Explanation:** Look for means try to find something. Its object follows for, including a pronoun: look for it.
+**Explanation:** 'Look for' means try to find something. Its object follows 'for', including a pronoun: 'look for it'.
 
 **Choice feedback:**
 
 - **I'll look it for.:** Look for does not separate this way. Put it after for: look for it.
-- **I'll look at it.:** Looking at the receipt means directing your eyes to it; this does not express searching for a missing receipt.
-- **I'll look after it.:** Look after means take care of it, not search for it.
-- **I'll look for it.:** Look for means try to find something. Its object follows for, including a pronoun: look for it.
+- **I'll look at it.:** 'Looking at the receipt' means directing your eyes to it; this does not express searching for a missing receipt.
+- **I'll look after it.:** 'Look after' means take care of it, not search for it.
+- **I'll look for it.:** 'Look for' means try to find something. Its object follows 'for', including a pronoun: 'look for it'.
 
 **Decision:** replaced.
 
@@ -759,14 +759,14 @@ A colleague leaves you a voicemail.
 3. Send the colleague their phone.
 4. Return the colleague's phone call. **[Correct]**
 
-**Explanation:** Call someone back means phone them in response to an earlier call or request.
+**Explanation:** 'Call someone back' means phone them in response to an earlier call or request.
 
 **Choice feedback:**
 
 - **Repeat the last words of the message.:** Back marks a return call, not repetition of the words.
-- **Telephone the person who called before this colleague.:** Me names this colleague. Back does not refer to an earlier person in a call list.
+- **Telephone the person who called before this colleague.:** 'Me' names this colleague. 'Back' does not refer to an earlier person in a call list.
 - **Send the colleague their phone.:** The object me is the person to telephone, not a phone to return.
-- **Return the colleague's phone call.:** Call someone back means phone them in response to an earlier call or request.
+- **Return the colleague's phone call.:** 'Call someone back' means phone them in response to an earlier call or request.
 
 **Decision:** replaced.
 
@@ -791,14 +791,14 @@ Which instruction expresses that goal?
 3. Put the tools down.
 4. Throw the tools away.
 
-**Explanation:** Put away means return things to an appropriate storage place. Put away the tools is also possible with this noun object.
+**Explanation:** 'Put away' means return things to an appropriate storage place. 'Put away the tools' is also possible with this noun object.
 
 **Choice feedback:**
 
-- **Put the tools away.:** Put away means return things to an appropriate storage place. Put away the tools is also possible with this noun object.
+- **Put the tools away.:** 'Put away' means return things to an appropriate storage place. 'Put away the tools' is also possible with this noun object.
 - **Leave the tools out.:** Leaving them out keeps them available rather than returning them to storage.
-- **Put the tools down.:** Put down means stop holding them. It does not identify their normal storage place.
-- **Throw the tools away.:** Throw away means discard them, not store them for future use.
+- **Put the tools down.:** 'Put down' means stop holding them. It does not identify their normal storage place.
+- **Throw the tools away.:** 'Throw away' means discard them, not store them for future use.
 
 **Decision:** replaced.
 
@@ -823,13 +823,13 @@ What does your friend want?
 3. For you to continue the story. **[Correct]**
 4. For you to speak more loudly.
 
-**Explanation:** Go on can mean continue an activity. Here it invites you to keep telling the story.
+**Explanation:** 'Go on' can mean continue an activity. Here it invites you to keep telling the story.
 
 **Choice feedback:**
 
 - **For you to leave the room.:** Go on in this exchange concerns continuing your story, not going to another place.
 - **For you to tell a different story.:** Continuing the current story is different from starting a new one.
-- **For you to continue the story.:** Go on can mean continue an activity. Here it invites you to keep telling the story.
+- **For you to continue the story.:** 'Go on' can mean continue an activity. Here it invites you to keep telling the story.
 - **For you to speak more loudly.:** That would be a request to speak up. Go on does not specify volume.
 
 **Decision:** replaced.
@@ -855,11 +855,11 @@ Read about a coat left at a restaurant.
 3. I put my coat on backwards.
 4. I returned someone else's coat to them.
 
-**Explanation:** Get something back means recover it or receive it again. The speaker is the person receiving the coat.
+**Explanation:** 'Get something back' means recover it or receive it again. The speaker is the person receiving the coat.
 
 **Choice feedback:**
 
-- **I received my coat again.:** Get something back means recover it or receive it again. The speaker is the person receiving the coat.
+- **I received my coat again.:** 'Get something back' means recover it or receive it again. The speaker is the person receiving the coat.
 - **I lent my coat to someone yesterday.:** Lending transfers the coat away from you; getting it back returns it to you.
 - **I put my coat on backwards.:** Back belongs to get back, meaning recover; it does not describe how the coat is worn.
 - **I returned someone else's coat to them.:** That would describe giving a coat back. The subject of got my coat back is the recipient.
@@ -891,7 +891,7 @@ Read a travel update.
 
 **Choice feedback:**
 
-- **The plane arrived at its destination.:** Arrival is the end of the flight; take off refers to leaving the ground.
+- **The plane arrived at its destination.:** Arrival is the end of the flight; 'take off' refers to leaving the ground.
 - **The passengers entered the plane.:** Boarding usually happens before take-off; the phrase describes the aircraft's movement.
 - **The plane left the ground.:** When a plane takes off, it rises from the ground to begin its flight. This differs from taking off clothing.
 - **The airline cancelled the flight.:** Cancellation prevents the planned flight; took off states that the aircraft became airborne.
@@ -919,14 +919,14 @@ A workshop leader gives a short instruction.
 3. Two answers to the speaker's questions.
 4. Two questions recorded in writing. **[Correct]**
 
-**Explanation:** Write down means record information in writing. The questions can be written on paper or entered as text on a device.
+**Explanation:** 'Write down' means record information in writing. The questions can be written on paper or entered as text on a device.
 
 **Choice feedback:**
 
 - **Two questions remembered without notes.:** Remembering them silently does not satisfy the writing part of write down.
 - **Two questions spoken to the speaker.:** Speaking the questions is not the same as recording them in writing.
 - **Two answers to the speaker's questions.:** The instruction names questions to produce, not answers to existing questions.
-- **Two questions recorded in writing.:** Write down means record information in writing. The questions can be written on paper or entered as text on a device.
+- **Two questions recorded in writing.:** 'Write down' means record information in writing. The questions can be written on paper or entered as text on a device.
 
 **Decision:** replaced.
 
@@ -951,14 +951,14 @@ A friend sends you a message about your arrival.
 3. To collect you and take you from the station. **[Correct]**
 4. To carry your luggage up the stairs.
 
-**Explanation:** Pick someone up at a place means collect them there, commonly in a vehicle, to take them elsewhere.
+**Explanation:** 'Pick someone up at a place' means collect them there, commonly in a vehicle, to take them elsewhere.
 
 **Choice feedback:**
 
 - **To buy your train ticket.:** Picking someone up concerns collecting the person, not purchasing their ticket.
 - **To put you on the train.:** The phrase does not mean helping you board a train at the station.
-- **To collect you and take you from the station.:** Pick someone up at a place means collect them there, commonly in a vehicle, to take them elsewhere.
-- **To carry your luggage up the stairs.:** You is the person being collected. The phrase does not refer to lifting luggage.
+- **To collect you and take you from the station.:** 'Pick someone up at a place' means collect them there, commonly in a vehicle, to take them elsewhere.
+- **To carry your luggage up the stairs.:** 'You' is the person being collected. The phrase does not refer to lifting luggage.
 
 **Decision:** replaced.
 
@@ -983,11 +983,11 @@ Complete: 'Could you ___ at the library?'
 3. call me back
 4. wait for me
 
-**Explanation:** Drop someone off means take them to a place and leave them there during a journey. The pronoun me goes before off.
+**Explanation:** 'Drop someone off' means take them to a place and leave them there during a journey. The pronoun 'me' goes before 'off'.
 
 **Choice feedback:**
 
-- **drop me off:** Drop someone off means take them to a place and leave them there during a journey. The pronoun me goes before off.
+- **drop me off:** 'Drop someone off' means take them to a place and leave them there during a journey. The pronoun 'me' goes before 'off'.
 - **pick me up:** Pick me up asks the driver to collect you there, not leave you there.
 - **call me back:** Call me back requests a return phone call, not a stop during this journey.
 - **wait for me:** Waiting for you at the library is different from taking you there and leaving you there.
@@ -1015,14 +1015,14 @@ The receptionist says, 'You can check in here.' What can you do?
 3. Complete the steps for leaving the hotel.
 4. Inspect the inside of every room.
 
-**Explanation:** Check in at a hotel means complete the arrival process as a guest. It is different from making the booking.
+**Explanation:** 'Check in at a hotel' means complete the arrival process as a guest. It is different from making the booking.
 
 **Choice feedback:**
 
-- **Register your arrival for the stay.:** Check in at a hotel means complete the arrival process as a guest. It is different from making the booking.
+- **Register your arrival for the stay.:** 'Check in at a hotel' means complete the arrival process as a guest. It is different from making the booking.
 - **Reserve a room for a later visit.:** Booking arranges a stay; checking in records arrival for the current stay.
 - **Complete the steps for leaving the hotel.:** Those are check-out steps, not check-in steps.
-- **Inspect the inside of every room.:** Check in is an arrival expression; it does not mean look inside the rooms.
+- **Inspect the inside of every room.:** 'Check in' is an arrival expression; it does not mean look inside the rooms.
 
 **Decision:** replaced.
 
@@ -1047,12 +1047,12 @@ The hotel says, 'Please check out by eleven.' What must you do by eleven?
 3. Book a room for your next trip.
 4. Return to the hotel after sightseeing.
 
-**Explanation:** Check out means complete the process of ending a hotel stay. Payment may be part of it, but guests who have prepaid still check out.
+**Explanation:** 'Check out' means complete the process of ending a hotel stay. Payment may be part of it, but guests who have prepaid still check out.
 
 **Choice feedback:**
 
 - **Pay for a second night.:** Checking out ends this stay; it does not request another night's payment.
-- **Finish the hotel's departure process.:** Check out means complete the process of ending a hotel stay. Payment may be part of it, but guests who have prepaid still check out.
+- **Finish the hotel's departure process.:** 'Check out' means complete the process of ending a hotel stay. Payment may be part of it, but guests who have prepaid still check out.
 - **Book a room for your next trip.:** A future reservation is separate from checking out of the current stay.
 - **Return to the hotel after sightseeing.:** A temporary return during a stay is not checking out.
 
@@ -1079,14 +1079,14 @@ Which pair of instructions preserves those two actions in that order?
 3. Get off the bus; get out of the taxi.
 4. Get on the bus; get out of the taxi. **[Correct]**
 
-**Explanation:** Get on the bus means board it; get out of the taxi means leave its interior. The two phrases preserve the required directions.
+**Explanation:** 'Get on the bus' means board it; 'get out of the taxi' means leave its interior. The two phrases preserve the required directions.
 
 **Choice feedback:**
 
 - **Get off the bus; get into the taxi.:** This reverses both actions: it asks you to leave the bus and enter the taxi.
 - **Get on the bus; get into the taxi.:** The first action is correct, but the second asks you to enter rather than leave the taxi.
 - **Get off the bus; get out of the taxi.:** The taxi instruction is correct, but get off tells you to leave the bus rather than board it.
-- **Get on the bus; get out of the taxi.:** Get on the bus means board it; get out of the taxi means leave its interior. The two phrases preserve the required directions.
+- **Get on the bus; get out of the taxi.:** 'Get on the bus' means board it; 'get out of the taxi' means leave its interior. The two phrases preserve the required directions.
 
 **Decision:** replaced.
 
@@ -1111,12 +1111,12 @@ You are on a train. A passenger tells you how to reach the museum.
 3. Stop the train yourself.
 4. Wait on the platform for the next train.
 
-**Explanation:** Get off means leave a bus, train, or similar vehicle. At the next stop gives the point where you should leave.
+**Explanation:** 'Get off' means leave a bus, train, or similar vehicle. 'At the next stop' gives the point where you should leave.
 
 **Choice feedback:**
 
 - **Change seats when the train stops.:** Changing seats keeps you on the train; get off asks you to leave it.
-- **Leave the train at its next stop.:** Get off means leave a bus, train, or similar vehicle. At the next stop gives the point where you should leave.
+- **Leave the train at its next stop.:** 'Get off' means leave a bus, train, or similar vehicle. 'At the next stop' gives the point where you should leave.
 - **Stop the train yourself.:** Get off concerns the passenger leaving, not operating the train's controls.
 - **Wait on the platform for the next train.:** The instruction tells you when to leave this train, not whether to wait for another one.
 
@@ -1143,13 +1143,13 @@ You are choosing a jacket in a shop.
 3. Wear it briefly to see how it fits or looks. **[Correct]**
 4. Take it home for someone else to wear.
 
-**Explanation:** Try on means put clothing on to test its fit or appearance. It does not commit you to buying it.
+**Explanation:** 'Try on' means put clothing on to test its fit or appearance. It does not commit you to buying it.
 
 **Choice feedback:**
 
-- **Buy it without wearing it first.:** Trying on is the wearing test, not the purchase itself.
+- **Buy it without wearing it first.:** 'Trying on' is the wearing test, not the purchase itself.
 - **Change its colour before buying it.:** Trying on does not alter the jacket's colour or design.
-- **Wear it briefly to see how it fits or looks.:** Try on means put clothing on to test its fit or appearance. It does not commit you to buying it.
+- **Wear it briefly to see how it fits or looks.:** 'Try on' means put clothing on to test its fit or appearance. It does not commit you to buying it.
 - **Take it home for someone else to wear.:** The request concerns your own fitting test, not taking it home for another person.
 
 **Decision:** replaced.
@@ -1175,13 +1175,13 @@ A recorded message says, 'Please don't hang up.' What should you avoid doing?
 3. Ending the call. **[Correct]**
 4. Turning the sound up.
 
-**Explanation:** Hang up means end a telephone call. Don't hang up asks you to stay connected while waiting.
+**Explanation:** 'Hang up' means end a telephone call. "Don't hang up" asks you to stay connected while waiting.
 
 **Choice feedback:**
 
 - **Speaking before the person answers.:** The message does not prohibit speaking; it asks you not to end the call.
-- **Holding the phone in your hand.:** Hang up refers to ending the connection, even when a modern phone has no physical receiver to hang.
-- **Ending the call.:** Hang up means end a telephone call. Don't hang up asks you to stay connected while waiting.
+- **Holding the phone in your hand.:** 'Hang up' refers to ending the connection, even when a modern phone has no physical receiver to hang.
+- **Ending the call.:** 'Hang up' means end a telephone call. "Don't hang up" asks you to stay connected while waiting.
 - **Turning the sound up.:** Changing volume is different from ending the call.
 
 **Decision:** replaced.
@@ -1239,14 +1239,14 @@ Read a message from the office kitchen.
 3. The coffee is too old to drink.
 4. There is no coffee left. **[Correct]**
 
-**Explanation:** Run out of something means use up or exhaust the available supply, so there is none left.
+**Explanation:** 'Run out of something' means use up or exhaust the available supply, so there is none left.
 
 **Choice feedback:**
 
 - **There is less coffee than usual, but some remains.:** That would describe running low. Run out says none remains in the relevant supply.
 - **The coffee has been moved to another cupboard.:** Moving a supply does not mean running out of it.
 - **The coffee is too old to drink.:** Run out concerns the amount available, not the coffee's age or quality.
-- **There is no coffee left.:** Run out of something means use up or exhaust the available supply, so there is none left.
+- **There is no coffee left.:** 'Run out of something' means use up or exhaust the available supply, so there is none left.
 
 **Decision:** replaced.
 
@@ -1271,12 +1271,12 @@ Read a message about planning a visit.
 3. Changed the library's opening time.
 4. Asked the library to open earlier.
 
-**Explanation:** Find out means discover or learn information. The that-clause gives the fact the speaker learned.
+**Explanation:** 'Find out' means discover or learn information. The that-clause gives the fact the speaker learned.
 
 **Choice feedback:**
 
 - **Started searching for the opening time.:** Found out reports learning the information, not merely starting a search.
-- **Learned when the library opens.:** Find out means discover or learn information. The that-clause gives the fact the speaker learned.
+- **Learned when the library opens.:** 'Find out' means discover or learn information. The that-clause gives the fact the speaker learned.
 - **Changed the library's opening time.:** Finding out a fact does not mean changing it.
 - **Asked the library to open earlier.:** The sentence reports a discovered fact, not a request to change the schedule.
 
@@ -1339,12 +1339,12 @@ Read an exchange during preparation of a theatre poster.
 3. Explained why the spelling error happened.
 4. Decided to remove the title.
 
-**Explanation:** Point out means draw someone's attention to a fact or problem. It does not say that Leila corrected the title herself.
+**Explanation:** 'Point out' means draw someone's attention to a fact or problem. It does not say that Leila corrected the title herself.
 
 **Choice feedback:**
 
 - **Corrected the spelling on the poster.:** She may have corrected it later, but pointing it out only states that she made the error known.
-- **Drew attention to the spelling error.:** Point out means draw someone's attention to a fact or problem. It does not say that Leila corrected the title herself.
+- **Drew attention to the spelling error.:** 'Point out' means draw someone's attention to a fact or problem. It does not say that Leila corrected the title herself.
 - **Explained why the spelling error happened.:** Pointing out an error need not include an explanation of its cause.
 - **Decided to remove the title.:** The sentence reports drawing attention to the error, not choosing how to revise the poster.
 
@@ -1403,13 +1403,13 @@ Read about a job offer.
 3. He refused the offer. **[Correct]**
 4. He asked for more time to decide.
 
-**Explanation:** Turn down an offer means decline it. With an offer as object, the phrase does not mean reduce a device's volume.
+**Explanation:** 'Turn down an offer' means decline it. With an offer as object, the phrase does not mean reduce a device's volume.
 
 **Choice feedback:**
 
 - **He asked for fewer working hours.:** Turning down the offer states refusal, not a request to negotiate its hours.
 - **He accepted the offer for less pay.:** Accepting on changed terms is not what turned down says; it reports a rejection.
-- **He refused the offer.:** Turn down an offer means decline it. With an offer as object, the phrase does not mean reduce a device's volume.
+- **He refused the offer.:** 'Turn down an offer' means decline it. With an offer as object, the phrase does not mean reduce a device's volume.
 - **He asked for more time to decide.:** Delaying a decision leaves it open. Turning the offer down gives a negative answer.
 
 **Decision:** replaced.
@@ -1435,14 +1435,14 @@ Two friends are planning to share a studio.
 3. Persuaded the owner to lower the rent.
 4. Earned the money by doing extra work.
 
-**Explanation:** Work out can mean solve or calculate something. The how-much clause specifies the calculation here.
+**Explanation:** 'Work out' can mean solve or calculate something. The how-much clause specifies the calculation here.
 
 **Choice feedback:**
 
-- **Calculated each person's share.:** Work out can mean solve or calculate something. The how-much clause specifies the calculation here.
+- **Calculated each person's share.:** 'Work out' can mean solve or calculate something. The how-much clause specifies the calculation here.
 - **Paid their shares in advance.:** Calculating the amounts does not mean the money has been paid.
 - **Persuaded the owner to lower the rent.:** The sentence says they determined their shares, not that they negotiated a lower total.
-- **Earned the money by doing extra work.:** Worked out is a complete expression meaning calculated here, not an account of paid work.
+- **Earned the money by doing extra work.:** 'Worked out' is a complete expression meaning 'calculated' here, not an account of paid work.
 
 **Decision:** replaced.
 
@@ -1467,14 +1467,14 @@ Despite the light rain, the volunteers decided to carry on ___ the fence.
 3. painted
 4. paint
 
-**Explanation:** Carry on doing something means continue that activity. Use the -ing form: carry on painting.
+**Explanation:** 'Carry on doing something' means continue that activity. Use the -ing form: 'carry on painting'.
 
 **Choice feedback:**
 
-- **to paint:** For continuing this activity, carry on takes the -ing form, not a to-infinitive.
-- **painting:** Carry on doing something means continue that activity. Use the -ing form: carry on painting.
+- **to paint:** For continuing this activity, 'carry on' takes the -ing form, not a to-infinitive.
+- **painting:** 'Carry on doing something' means continue that activity. Use the -ing form: 'carry on painting'.
 - **painted:** Painted cannot name the continuing activity after carry on here.
-- **paint:** The bare verb paint does not fit after carry on in this construction.
+- **paint:** The bare verb 'paint' does not fit after 'carry on' in this construction.
 
 **Decision:** replaced.
 
@@ -1531,13 +1531,13 @@ Two housemates describe living together.
 3. They have a good relationship. **[Correct]**
 4. They spend their free time in the same places.
 
-**Explanation:** Get along well means have a friendly or comfortable relationship. People can get along without sharing the same interests.
+**Explanation:** 'Get along well' means have a friendly or comfortable relationship. People can get along without sharing the same interests.
 
 **Choice feedback:**
 
 - **They agree about which hobbies are best.:** Getting along does not require agreement about hobbies; their interests are explicitly different.
 - **They are progressing at the same speed in their work.:** Get along can concern progress elsewhere, but we and the housemate context support the relationship sense here.
-- **They have a good relationship.:** Get along well means have a friendly or comfortable relationship. People can get along without sharing the same interests.
+- **They have a good relationship.:** 'Get along well' means have a friendly or comfortable relationship. People can get along without sharing the same interests.
 - **They spend their free time in the same places.:** The phrase describes their relationship, not where they spend their time.
 
 **Decision:** replaced.
@@ -1563,14 +1563,14 @@ A community centre explains its staff responsibilities.
 3. Nora creates the rules for booking rooms.
 4. Nora handles questions about booking rooms. **[Correct]**
 
-**Explanation:** Deal with means attend to or handle a matter. It states responsibility here, not that every problem is solved or request granted.
+**Explanation:** 'Deal with' means attend to or handle a matter. It states responsibility here, not that every problem is solved or request granted.
 
 **Choice feedback:**
 
 - **Nora approves every room-booking request.:** Dealing with enquiries does not guarantee that each request is approved.
 - **Nora sends all room-booking enquiries elsewhere.:** Referral can be part of handling an enquiry, but deals with does not say she forwards them all.
 - **Nora creates the rules for booking rooms.:** Handling questions about a process does not mean writing its rules.
-- **Nora handles questions about booking rooms.:** Deal with means attend to or handle a matter. It states responsibility here, not that every problem is solved or request granted.
+- **Nora handles questions about booking rooms.:** 'Deal with' means attend to or handle a matter. It states responsibility here, not that every problem is solved or request granted.
 
 **Decision:** replaced.
 
@@ -1601,7 +1601,7 @@ Use 'them' for the forms. Which instruction requests submission?
 
 - **Hand them out by Friday.:** 'Hand out' means distribute the forms to people, not submit the completed forms for processing.
 - **Fill them in by Friday.:** 'Fill in' asks for completion of the information. These forms are already completed and must now be submitted.
-- **Look them over by Friday.:** Looking them over means checking them; submission is a separate step.
+- **Look them over by Friday.:** 'Looking them over' means checking them; submission is a separate step.
 - **Hand them in by Friday.:** 'Hand in' means submit something to the person or office that should receive it. With 'them', the object goes before 'in'.
 
 **Decision:** replaced.
@@ -1627,13 +1627,13 @@ Read the organiser's brief account of a workshop.
 3. Eight people arrived late, while four arrived on time.
 4. Eight registered before four others did.
 
-**Explanation:** Sign up means register to take part; show up means arrive or be present. Showing up does not itself say whether someone was late or unexpected.
+**Explanation:** 'Sign up' means register to take part; 'show up' means arrive or be present. Showing up does not itself say whether someone was late or unexpected.
 
 **Choice feedback:**
 
-- **Eight people gave presentations, although twelve attended.:** Showed up means arrived or attended, not performed or presented something.
-- **Twelve registered, but eight attended.:** Sign up means register to take part; show up means arrive or be present. Showing up does not itself say whether someone was late or unexpected.
-- **Eight people arrived late, while four arrived on time.:** Show up does not itself mean arrive late, and the sentence does not report twelve arrivals.
+- **Eight people gave presentations, although twelve attended.:** 'Showed up' means arrived or attended, not performed or presented something.
+- **Twelve registered, but eight attended.:** 'Sign up' means register to take part; 'show up' means arrive or be present. Showing up does not itself say whether someone was late or unexpected.
+- **Eight people arrived late, while four arrived on time.:** 'Show up' does not itself mean arrive late, and the sentence does not report twelve arrivals.
 - **Eight registered before four others did.:** The sentence contrasts registration with attendance, not two stages of registration.
 
 **Decision:** replaced.
@@ -1659,12 +1659,12 @@ Read about passengers waiting after a train cancellation.
 3. The staff who cancelled the train.
 4. The people writing a later announcement.
 
-**Explanation:** Calm someone down means make that person less upset, anxious, or excited. Them identifies the passengers affected by the announcement.
+**Explanation:** 'Calm someone down' means make that person less upset, anxious, or excited. 'Them' identifies the passengers affected by the announcement.
 
 **Choice feedback:**
 
-- **The person reading the announcement.:** Them refers to the passengers, not the announcer.
-- **The waiting passengers.:** Calm someone down means make that person less upset, anxious, or excited. Them identifies the passengers affected by the announcement.
+- **The person reading the announcement.:** 'Them' refers to the passengers, not the announcer.
+- **The waiting passengers.:** 'Calm someone down' means make that person less upset, anxious, or excited. 'Them' identifies the passengers affected by the announcement.
 - **The staff who cancelled the train.:** The sentence does not name the cancelling staff as the people being calmed.
 - **The people writing a later announcement.:** No later announcement or its writers are introduced; them refers to the waiting passengers.
 
@@ -1691,13 +1691,13 @@ She asks her accountant, 'Could you go over these figures with me?' What does sh
 3. Examine the figures together. **[Correct]**
 4. Send the figures to everyone at the meeting.
 
-**Explanation:** Go over something means review or examine it. With me makes the requested review a shared activity.
+**Explanation:** 'Go over something' means review or examine it. 'With me' makes the requested review a shared activity.
 
 **Choice feedback:**
 
 - **Round all the figures upwards.:** Go over does not instruct the accountant to increase or round the amounts.
 - **Replace the figures with last year's totals.:** Reviewing figures does not itself mean replacing them with another set.
-- **Examine the figures together.:** Go over something means review or examine it. With me makes the requested review a shared activity.
+- **Examine the figures together.:** 'Go over something' means review or examine it. 'With me' makes the requested review a shared activity.
 - **Send the figures to everyone at the meeting.:** Go over concerns examining the figures, not distributing them.
 
 **Decision:** replaced.
@@ -1755,13 +1755,13 @@ Which sentence expresses that plan?
 3. I'm going to cut down on takeaway meals. **[Correct]**
 4. I'm going to put off ordering tonight's takeaway.
 
-**Explanation:** Cut down on means reduce the amount or frequency of something. It does not require stopping it altogether.
+**Explanation:** 'Cut down on' means reduce the amount or frequency of something. It does not require stopping it altogether.
 
 **Choice feedback:**
 
-- **I'm going to give up takeaway meals.:** Give up means stop the habit, which is stronger than the requested reduction.
-- **I'm going to cut out takeaway meals.:** Cut out means eliminate them from the routine, not merely have them less often.
-- **I'm going to cut down on takeaway meals.:** Cut down on means reduce the amount or frequency of something. It does not require stopping it altogether.
+- **I'm going to give up takeaway meals.:** 'Give up' means stop the habit, which is stronger than the requested reduction.
+- **I'm going to cut out takeaway meals.:** 'Cut out' means eliminate them from the routine, not merely have them less often.
+- **I'm going to cut down on takeaway meals.:** 'Cut down on' means reduce the amount or frequency of something. It does not require stopping it altogether.
 - **I'm going to put off ordering tonight's takeaway.:** Put off postpones one order here; it does not state a plan to reduce the wider habit.
 
 **Decision:** replaced.
@@ -1787,14 +1787,14 @@ Read a comment made outside a bakery.
 3. It proves the bakery uses the grandmother's recipes.
 4. It makes the speaker remember the kitchen. **[Correct]**
 
-**Explanation:** Bring back memories means cause past experiences to return to someone's mind. The kitchen itself does not physically return.
+**Explanation:** 'Bring back memories' means cause past experiences to return to someone's mind. The kitchen itself does not physically return.
 
 **Choice feedback:**
 
 - **It encourages the speaker to rebuild the kitchen.:** Remembering a place does not mean deciding to reconstruct it.
 - **It makes the speaker forget the kitchen's present condition.:** The phrase states renewed memories, not forgetting current information.
 - **It proves the bakery uses the grandmother's recipes.:** A smell can remind someone of a place without establishing which recipes the bakery uses.
-- **It makes the speaker remember the kitchen.:** Bring back memories means cause past experiences to return to someone's mind. The kitchen itself does not physically return.
+- **It makes the speaker remember the kitchen.:** 'Bring back memories' means cause past experiences to return to someone's mind. The kitchen itself does not physically return.
 
 **Decision:** replaced.
 
@@ -1819,14 +1819,14 @@ An old photograph shows a large group at a wedding.
 3. Persuade the sister to move to another row.
 4. Recognise the sister among the people pictured. **[Correct]**
 
-**Explanation:** Pick out can mean distinguish or recognise someone among others. The group photograph and back row support that sense.
+**Explanation:** 'Pick out' can mean distinguish or recognise someone among others. The group photograph and back row support that sense.
 
 **Choice feedback:**
 
-- **Choose the sister as the next photographer.:** Pick out can mean choose, but here the object is a person being located in an existing picture.
-- **Remove the sister's image from the photograph.:** Pick out does not mean edit the person out of the image.
+- **Choose the sister as the next photographer.:** 'Pick out' can mean choose, but here the object is a person being located in an existing picture.
+- **Remove the sister's image from the photograph.:** 'Pick out' does not mean edit the person out of the image.
 - **Persuade the sister to move to another row.:** The photograph records a past arrangement; the phrase does not ask the sister to move.
-- **Recognise the sister among the people pictured.:** Pick out can mean distinguish or recognise someone among others. The group photograph and back row support that sense.
+- **Recognise the sister among the people pictured.:** 'Pick out' can mean distinguish or recognise someone among others. The group photograph and back row support that sense.
 
 **Decision:** replaced.
 
@@ -1851,14 +1851,14 @@ Read a note about a revised newsletter.
 3. The editor delayed publication of the paragraph until next month.
 4. The editor did not include the final paragraph. **[Correct]**
 
-**Explanation:** Leave out means omit or exclude. The phrase alone does not tell us whether that happened deliberately or by mistake.
+**Explanation:** 'Leave out' means omit or exclude. The phrase alone does not tell us whether that happened deliberately or by mistake.
 
 **Choice feedback:**
 
 - **The editor moved the paragraph to the front.:** Moving it within the newsletter would retain it, whereas left out says it was omitted.
 - **The editor shortened the final paragraph.:** Shortening changes its length; leaving it out excludes it from the version.
 - **The editor delayed publication of the paragraph until next month.:** A later publication plan is not stated. Left out concerns omission from this version.
-- **The editor did not include the final paragraph.:** Leave out means omit or exclude. The phrase alone does not tell us whether that happened deliberately or by mistake.
+- **The editor did not include the final paragraph.:** 'Leave out' means omit or exclude. The phrase alone does not tell us whether that happened deliberately or by mistake.
 
 **Decision:** replaced.
 
@@ -1983,14 +1983,14 @@ Read an announcement about a community theatre.
 3. The theatre's activities to a different building.
 4. Responsibility for its daily operation. **[Correct]**
 
-**Explanation:** Take over means assume control or responsibility previously held by someone else. Day-to-day running specifies the responsibility; the leave context makes this an interim arrangement.
+**Explanation:** 'Take over' means assume control or responsibility previously held by someone else. 'Day-to-day running' specifies the responsibility; the leave context makes this an interim arrangement.
 
 **Choice feedback:**
 
 - **Ownership of the theatre building.:** Taking over day-to-day running transfers operational responsibility, not necessarily ownership.
-- **Responsibility for recruiting Joel's replacement permanently.:** The object is running the theatre. The announcement does not give Amina a recruitment assignment.
-- **The theatre's activities to a different building.:** Take over does not mean move the activities elsewhere.
-- **Responsibility for its daily operation.:** Take over means assume control or responsibility previously held by someone else. Day-to-day running specifies the responsibility; the leave context makes this an interim arrangement.
+- **Responsibility for recruiting Joel's replacement permanently.:** The object is 'running the theatre'. The announcement does not give Amina a recruitment assignment.
+- **The theatre's activities to a different building.:** 'Take over' does not mean move the activities elsewhere.
+- **Responsibility for its daily operation.:** 'Take over' means assume control or responsibility previously held by someone else. 'Day-to-day running' specifies the responsibility; the leave context makes this an interim arrangement.
 
 **Decision:** replaced.
 
@@ -2047,12 +2047,12 @@ A manager reflects on a new staff rota.
 3. They exercised together, but could not agree when to meet.
 4. They solved the rota's problems, but then lost the written copy.
 
-**Explanation:** Work out a rota means devise or determine an arrangement. In it didn't work out, the arrangement is the subject and work out means turn out successfully.
+**Explanation:** 'Work out a rota' means devise or determine an arrangement. In "it didn't work out", the arrangement is the subject and 'work out' means turn out successfully.
 
 **Choice feedback:**
 
 - **They implemented a rota, but could not calculate its total cost.:** The first use says they devised the rota, not necessarily implemented it. The second concerns how the arrangement turned out, not a missing calculation.
-- **They devised the rota, but it was not successful in practice.:** Work out a rota means devise or determine an arrangement. In it didn't work out, the arrangement is the subject and work out means turn out successfully.
+- **They devised the rota, but it was not successful in practice.:** 'Work out a rota' means devise or determine an arrangement. In "it didn't work out", the arrangement is the subject and 'work out' means turn out successfully.
 - **They exercised together, but could not agree when to meet.:** A rota as object rules out physical exercise as the first work-out meaning.
 - **They solved the rota's problems, but then lost the written copy.:** Losing a document is not a meaning of didn't work out; the second clause evaluates the arrangement's success.
 
@@ -2111,11 +2111,11 @@ Read a description of contact with a supplier.
 3. She recorded an enquiry while answering the supplier's call.
 4. She replaced her enquiry with a request not to be contacted.
 
-**Explanation:** Follow up an action with another means take that additional action afterwards. The object names the earlier enquiry; with introduces the later call.
+**Explanation:** 'Follow up an action with another' means take that additional action afterwards. The object names the earlier enquiry; 'with' introduces the later call.
 
 **Choice feedback:**
 
-- **She added a phone call after making the enquiry.:** Follow up an action with another means take that additional action afterwards. The object names the earlier enquiry; with introduces the later call.
+- **She added a phone call after making the enquiry.:** 'Follow up an action with another' means take that additional action afterwards. The object names the earlier enquiry; 'with' introduces the later call.
 - **A phone call prompted the supplier to send her an enquiry.:** Her enquiry is the earlier action being followed up, not a later response from the supplier.
 - **She recorded an enquiry while answering the supplier's call.:** The construction does not describe simultaneous note-taking during an incoming call.
 - **She replaced her enquiry with a request not to be contacted.:** Following up continues contact about the matter; it does not cancel the enquiry or prohibit a reply.
@@ -2143,13 +2143,13 @@ Read an update about a festival sponsor.
 3. The company withdrew from the arrangement. **[Correct]**
 4. The company persuaded another sponsor to join it.
 
-**Explanation:** Back out of means decide not to continue with an agreement or planned commitment. It contrasts with simply refusing a new proposal before becoming involved.
+**Explanation:** 'Back out of' means decide not to continue with an agreement or planned commitment. It contrasts with simply refusing a new proposal before becoming involved.
 
 **Choice feedback:**
 
-- **The company reduced the amount while keeping its commitment.:** Reducing the contribution is a modification; backing out means withdrawing from the arrangement.
+- **The company reduced the amount while keeping its commitment.:** Reducing the contribution is a modification; 'backing out' means withdrawing from the arrangement.
 - **The company completed its part of the arrangement.:** Completion fulfils a commitment rather than withdrawing from it.
-- **The company withdrew from the arrangement.:** Back out of means decide not to continue with an agreement or planned commitment. It contrasts with simply refusing a new proposal before becoming involved.
+- **The company withdrew from the arrangement.:** 'Back out of' means decide not to continue with an agreement or planned commitment. It contrasts with simply refusing a new proposal before becoming involved.
 - **The company persuaded another sponsor to join it.:** Recruiting support is not expressed by back out of.
 
 **Decision:** replaced.
@@ -2175,13 +2175,13 @@ Read a comment about an interview podcast.
 3. I encountered the podcast; he gave an impatient impression. **[Correct]**
 4. I recommended his podcast; he persuaded me that patience was unnecessary.
 
-**Explanation:** Come across something means encounter or find it, often by chance. Come across as describes how someone appears to an audience, which need not reveal their actual disposition.
+**Explanation:** 'Come across something' means encounter or find it, often by chance. 'Come across as' describes how someone appears to an audience, which need not reveal their actual disposition.
 
 **Choice feedback:**
 
 - **I searched for his podcast; he described himself as impatient.:** Come across does not specifically describe a planned search, and come across as concerns the impression given, not self-description.
 - **I crossed to his studio; he became impatient during the interview.:** The first object is a podcast encountered, not a place crossed to. The second describes an impression, not necessarily a change in feeling.
-- **I encountered the podcast; he gave an impatient impression.:** Come across something means encounter or find it, often by chance. Come across as describes how someone appears to an audience, which need not reveal their actual disposition.
+- **I encountered the podcast; he gave an impatient impression.:** 'Come across something' means encounter or find it, often by chance. 'Come across as' describes how someone appears to an audience, which need not reveal their actual disposition.
 - **I recommended his podcast; he persuaded me that patience was unnecessary.:** Neither recommendation nor persuasion is expressed by these come-across constructions.
 
 **Decision:** replaced.
@@ -2207,14 +2207,14 @@ Read a participant's assessment of a pottery course.
 3. The cramped room helped produce the excellent teaching.
 4. The benefit of the teaching compensated for the room's drawback. **[Correct]**
 
-**Explanation:** Make up for means compensate for a disadvantage or loss. The teaching offsets the drawback in the participant's assessment without removing the cramped conditions.
+**Explanation:** 'Make up for' means compensate for a disadvantage or loss. The teaching offsets the drawback in the participant's assessment without removing the cramped conditions.
 
 **Choice feedback:**
 
 - **The teaching caused the room to feel physically larger.:** Compensation is evaluative here. The sentence does not claim the room's size or perception changed.
-- **The teaching was designed to explain why the room was cramped.:** Make up for does not mean explain or justify the cause of the small space.
+- **The teaching was designed to explain why the room was cramped.:** 'Make up for' does not mean explain or justify the cause of the small space.
 - **The cramped room helped produce the excellent teaching.:** This reverses the relationship and adds causation: the teaching is the compensating benefit, not an effect of the room.
-- **The benefit of the teaching compensated for the room's drawback.:** Make up for means compensate for a disadvantage or loss. The teaching offsets the drawback in the participant's assessment without removing the cramped conditions.
+- **The benefit of the teaching compensated for the room's drawback.:** 'Make up for' means compensate for a disadvantage or loss. The teaching offsets the drawback in the participant's assessment without removing the cramped conditions.
 
 **Decision:** replaced.
 
@@ -2271,13 +2271,13 @@ Read a review of the final scene in a play.
 3. The conversation becomes somebody else's responsibility.
 4. The letter replaces the earlier conversation in the script.
 
-**Explanation:** Take on can mean acquire a quality or character. Here the letter changes how the audience understands the earlier conversation.
+**Explanation:** 'Take on' can mean acquire a quality or character. Here the letter changes how the audience understands the earlier conversation.
 
 **Choice feedback:**
 
 - **The actors repeat the conversation using different words.:** Taking on a meaning changes how the conversation is interpreted, not necessarily the dialogue performed.
-- **The earlier conversation acquires a new significance.:** Take on can mean acquire a quality or character. Here the letter changes how the audience understands the earlier conversation.
-- **The conversation becomes somebody else's responsibility.:** Take on can concern responsibilities, but meaning as object selects the acquire-a-quality sense.
+- **The earlier conversation acquires a new significance.:** 'Take on' can mean acquire a quality or character. Here the letter changes how the audience understands the earlier conversation.
+- **The conversation becomes somebody else's responsibility.:** 'Take on' can concern responsibilities, but 'meaning' as object selects the acquire-a-quality sense.
 - **The letter replaces the earlier conversation in the script.:** The earlier conversation remains relevant; the new information changes its significance rather than removing it.
 
 **Decision:** replaced.
@@ -2367,13 +2367,13 @@ A speaker opens a discussion about extending a cycle route.
 3. To describe the alternatives clearly and systematically. **[Correct]**
 4. To remove the alternatives that are difficult to explain.
 
-**Explanation:** Set out information means present or explain it in an organised way. It can be done orally as well as in writing.
+**Explanation:** 'Set out information' means present or explain it in an organised way. It can be done orally as well as in writing.
 
 **Choice feedback:**
 
 - **To choose one alternative for everyone.:** Setting out alternatives presents them; it does not decide which should be adopted.
 - **To put the alternatives into practice before discussion.:** Implementation is different from explaining options for debate.
-- **To describe the alternatives clearly and systematically.:** Set out information means present or explain it in an organised way. It can be done orally as well as in writing.
+- **To describe the alternatives clearly and systematically.:** 'Set out information' means present or explain it in an organised way. It can be done orally as well as in writing.
 - **To remove the alternatives that are difficult to explain.:** Setting out the alternatives does not mean filtering or rejecting some of them.
 
 **Decision:** replaced.
@@ -2431,11 +2431,11 @@ Read a description of a documentary.
 3. The film consists entirely of unedited interview recordings.
 4. The film instructs viewers how to conduct similar interviews.
 
-**Explanation:** Draw on means use something as a source or resource. The filmmakers may select and reshape material rather than reproduce it all.
+**Explanation:** 'Draw on' means use something as a source or resource. The filmmakers may select and reshape material rather than reproduce it all.
 
 **Choice feedback:**
 
-- **The interviews supply material used in the film.:** Draw on means use something as a source or resource. The filmmakers may select and reshape material rather than reproduce it all.
+- **The interviews supply material used in the film.:** 'Draw on' means use something as a source or resource. The filmmakers may select and reshape material rather than reproduce it all.
 - **The film establishes that every interview account is accurate.:** Using interviews as a source does not certify the truth of each account.
 - **The film consists entirely of unedited interview recordings.:** Draw on does not require exclusive use or verbatim reproduction of a source.
 - **The film instructs viewers how to conduct similar interviews.:** Source use does not imply that the film teaches the interview method.
@@ -2463,14 +2463,14 @@ Why does that edit fail to preserve the request?
 3. It changes a request for editing into a request for spoken feedback only.
 4. It changes the draft into a completed version ready for publication.
 
-**Explanation:** Look over means examine or review. Overlook normally means fail to notice or choose to disregard, so joining these words does not create an equivalent request.
+**Explanation:** 'Look over' means examine or review. 'Overlook' normally means fail to notice or choose to disregard, so joining these words does not create an equivalent request.
 
 **Choice feedback:**
 
-- **It changes examination into failing to notice or disregarding the draft.:** Look over means examine or review. Overlook normally means fail to notice or choose to disregard, so joining these words does not create an equivalent request.
+- **It changes examination into failing to notice or disregarding the draft.:** 'Look over' means examine or review. 'Overlook' normally means fail to notice or choose to disregard, so joining these words does not create an equivalent request.
 - **It changes a required quick check into a required detailed check.:** The contrast is not a fixed quick-versus-detailed scale. Look over can involve careful examination.
 - **It changes a request for editing into a request for spoken feedback only.:** Neither expression sets that written-versus-spoken distinction; the error concerns examine versus overlook.
-- **It changes the draft into a completed version ready for publication.:** The noun draft has not changed, and overlook does not confer completed status.
+- **It changes the draft into a completed version ready for publication.:** The noun 'draft' has not changed, and 'overlook' does not confer completed status.
 
 **Decision:** replaced.
 
@@ -2520,18 +2520,18 @@ ID: `coverage-phrasal-verbs-b2-2479`
 
 Read a report about changes at a public garden.
 
-'The change in opening hours was brought about by residents' complaints.' Which active version preserves the relationship?
+"The change in opening hours was brought about by residents' complaints." Which active version preserves the relationship?
 
 1. Residents' complaints brought about the change in opening hours. **[Correct]**
 2. The change in opening hours brought about residents' complaints.
 3. Residents' complaints described the change in opening hours.
 4. Residents' complaints prevented a change in opening hours.
 
-**Explanation:** Bring about means cause a change or event. In the passive original, the by-phrase names the cause; it becomes the subject of this active version.
+**Explanation:** 'Bring about' means cause a change or event. In the passive original, the by-phrase names the cause; it becomes the subject of this active version.
 
 **Choice feedback:**
 
-- **Residents' complaints brought about the change in opening hours.:** Bring about means cause a change or event. In the passive original, the by-phrase names the cause; it becomes the subject of this active version.
+- **Residents' complaints brought about the change in opening hours.:** 'Bring about' means cause a change or event. In the passive original, the by-phrase names the cause; it becomes the subject of this active version.
 - **The change in opening hours brought about residents' complaints.:** This reverses the reported cause and result: the complaints preceded and caused the change in the original.
 - **Residents' complaints described the change in opening hours.:** Description is not causation. The original credits the complaints with producing the change.
 - **Residents' complaints prevented a change in opening hours.:** Preventing would stop the change; brought about says the complaints caused it.
@@ -2595,13 +2595,13 @@ Compare two versions of a progress report.
 3. That the removal had been completed by the stated time. **[Correct]**
 4. That the agency intended the change to be permanent.
 
-**Explanation:** Phase out means discontinue gradually. Had phased out presents the process as completed by June; was phasing out presents it as ongoing without asserting its completion then.
+**Explanation:** 'Phase out' means discontinue gradually. 'Had phased out' presents the process as completed by June; 'was phasing out' presents it as ongoing without asserting its completion then.
 
 **Choice feedback:**
 
 - **That the agency had decided to reduce paper use.:** The ongoing phasing-out process still presents a move towards ending paper permits.
 - **That the transition involved stages rather than one immediate switch.:** Phase out retains its gradual-removal meaning in both versions.
-- **That the removal had been completed by the stated time.:** Phase out means discontinue gradually. Had phased out presents the process as completed by June; was phasing out presents it as ongoing without asserting its completion then.
+- **That the removal had been completed by the stated time.:** 'Phase out' means discontinue gradually. 'Had phased out' presents the process as completed by June; 'was phasing out' presents it as ongoing without asserting its completion then.
 - **That the agency intended the change to be permanent.:** Changing the aspect does not replace discontinuation with a temporary suspension; the lost claim concerns completion.
 
 **Decision:** replaced.
@@ -2627,14 +2627,14 @@ A curator reports on efforts to retain a concert hall.
 3. The board persuaded Lea that selling was preferable.
 4. Her persuasion did not secure the board's abandonment of the sale plan. **[Correct]**
 
-**Explanation:** Talk someone out of doing something means persuade them not to do it. Failed to negates that persuasive success, not the possibility that the plan ended for some other reason.
+**Explanation:** 'Talk someone out of doing something' means persuade them not to do it. 'Failed to' negates that persuasive success, not the possibility that the plan ended for some other reason.
 
 **Choice feedback:**
 
 - **The board sold the hall despite Lea's advice.:** Failure to persuade does not establish that a sale subsequently occurred; another event could still have prevented it.
 - **Lea abandoned her own plan to sell the hall.:** The board is the party she tried to persuade. The sentence does not make the sale Lea's own plan.
 - **The board persuaded Lea that selling was preferable.:** This reverses the direction of persuasion and adds a change in Lea's view.
-- **Her persuasion did not secure the board's abandonment of the sale plan.:** Talk someone out of doing something means persuade them not to do it. Failed to negates that persuasive success, not the possibility that the plan ended for some other reason.
+- **Her persuasion did not secure the board's abandonment of the sale plan.:** 'Talk someone out of doing something' means persuade them not to do it. 'Failed to' negates that persuasive success, not the possibility that the plan ended for some other reason.
 
 **Decision:** replaced.
 
@@ -2659,12 +2659,12 @@ Read a project leader's account of a difficult decision.
 3. Money was withheld from the trial; the reservations were kept for later publication.
 4. Money and reservations were both rejected as unnecessary.
 
-**Explanation:** Set aside funds means reserve them for a purpose. Set aside reservations means stop allowing those concerns to govern the immediate decision; it need not establish that the concerns were disproved.
+**Explanation:** 'Set aside funds' means reserve them for a purpose. 'Set aside reservations' means stop allowing those concerns to govern the immediate decision; it need not establish that the concerns were disproved.
 
 **Choice feedback:**
 
 - **Money was spent; the reservations were answered with evidence.:** Reserving a budget does not itself spend it, and putting concerns aside does not necessarily answer them.
-- **Money was reserved; the reservations were put to one side in proceeding.:** Set aside funds means reserve them for a purpose. Set aside reservations means stop allowing those concerns to govern the immediate decision; it need not establish that the concerns were disproved.
+- **Money was reserved; the reservations were put to one side in proceeding.:** 'Set aside funds' means reserve them for a purpose. 'Set aside reservations' means stop allowing those concerns to govern the immediate decision; it need not establish that the concerns were disproved.
 - **Money was withheld from the trial; the reservations were kept for later publication.:** For the trial specifies the purpose of the reserved money. Nothing in set aside our reservations says they were saved for publication.
 - **Money and reservations were both rejected as unnecessary.:** The financial use allocates a resource rather than rejecting it. The same phrase has different relations to its two objects.
 
@@ -2723,12 +2723,12 @@ A project manager gives two instructions about records.
 3. Publish the files, then obtain permission to publish the account.
 4. Make several copies, then treat each copy as independent confirmation of the account.
 
-**Explanation:** Back up files means create copies for recovery. Back up an account means substantiate it; the records must actually support the account, since copying alone adds no evidence.
+**Explanation:** 'Back up files' means create copies for recovery. 'Back up an account' means substantiate it; the records must actually support the account, since copying alone adds no evidence.
 
 **Choice feedback:**
 
-- **Make recovery copies of the files, then use the records as support for the account.:** Back up files means create copies for recovery. Back up an account means substantiate it; the records must actually support the account, since copying alone adds no evidence.
-- **Move the original files elsewhere, then retell the account in reverse order.:** A backup preserves recoverable copies; back up an account means support it, not reverse its chronology.
+- **Make recovery copies of the files, then use the records as support for the account.:** 'Back up files' means create copies for recovery. 'Back up an account' means substantiate it; the records must actually support the account, since copying alone adds no evidence.
+- **Move the original files elsewhere, then retell the account in reverse order.:** A backup preserves recoverable copies; 'back up an account' means support it, not reverse its chronology.
 - **Publish the files, then obtain permission to publish the account.:** Neither back-up use inherently involves public release or permission.
 - **Make several copies, then treat each copy as independent confirmation of the account.:** Copies preserve the same source; they do not become independent corroborating sources merely because they are duplicated.
 
@@ -2750,19 +2750,19 @@ An exhibition organiser reflects on vendors who repeatedly broke a display rule.
 
 'Their conduct was widely noticed, yet they got away with it.' Why is this not contradictory?
 
-1. Get away with it requires only that the vendors later left the building.
+1. 'Get away with it' requires only that the vendors later left the building.
 2. They could escape consequences even though others knew about the conduct. **[Correct]**
 3. Being noticed proves that the conduct was permitted under the rule.
-4. Get away with it means they persuaded everyone that the conduct never occurred.
+4. 'Get away with it' means they persuaded everyone that the conduct never occurred.
 
-**Explanation:** Get away with something means avoid the punishment or adverse consequences one might expect. Lack of detection can enable that, but is not necessary to the meaning.
+**Explanation:** 'Get away with something' means avoid the punishment or adverse consequences one might expect. Lack of detection can enable that, but is not necessary to the meaning.
 
 **Choice feedback:**
 
-- **Get away with it requires only that the vendors later left the building.:** The phrase concerns escaping consequences for conduct, not physically leaving the venue.
-- **They could escape consequences even though others knew about the conduct.:** Get away with something means avoid the punishment or adverse consequences one might expect. Lack of detection can enable that, but is not necessary to the meaning.
+- **'Get away with it' requires only that the vendors later left the building.:** The phrase concerns escaping consequences for conduct, not physically leaving the venue.
+- **They could escape consequences even though others knew about the conduct.:** 'Get away with something' means avoid the punishment or adverse consequences one might expect. Lack of detection can enable that, but is not necessary to the meaning.
 - **Being noticed proves that the conduct was permitted under the rule.:** Awareness does not confer permission; the sentence can describe a known breach that went unpunished.
-- **Get away with it means they persuaded everyone that the conduct never occurred.:** Denial accepted by everyone would conflict with widely noticed. Escaping consequences does not require such a denial.
+- **'Get away with it' means they persuaded everyone that the conduct never occurred.:** Denial accepted by everyone would conflict with widely noticed. Escaping consequences does not require such a denial.
 
 **Decision:** replaced.
 
@@ -2787,12 +2787,12 @@ A volunteer offered to help catalogue a collection.
 3. They trained the volunteer but did not publicise the training afterwards.
 4. They ignored the offer but continued training other volunteers.
 
-**Explanation:** Follow up means take subsequent action on a matter. Follow through on a promise means act on it through to fulfilment; the negative clause withholds that fulfilment here.
+**Explanation:** 'Follow up' means take subsequent action on a matter. 'Follow through on a promise' means act on it through to fulfilment; the negative clause withholds that fulfilment here.
 
 **Choice feedback:**
 
 - **They fulfilled the volunteer's offer but declined to make a training promise.:** The offer belongs to the volunteer, not to the trustees to fulfil. Their own promise is already presented as having been made.
-- **They acted further on the offer but did not carry their training commitment into effect.:** Follow up means take subsequent action on a matter. Follow through on a promise means act on it through to fulfilment; the negative clause withholds that fulfilment here.
+- **They acted further on the offer but did not carry their training commitment into effect.:** 'Follow up' means take subsequent action on a matter. 'Follow through on a promise' means act on it through to fulfilment; the negative clause withholds that fulfilment here.
 - **They trained the volunteer but did not publicise the training afterwards.:** Failure to follow through concerns carrying out the commitment, not publicising a completed action.
 - **They ignored the offer but continued training other volunteers.:** Followed up says they took further action on the offer. The sentence says nothing about other volunteers.
 
@@ -2851,13 +2851,13 @@ What extra claim does the replacement normally make?
 3. That the observations support the hypothesis, not merely relate to it. **[Correct]**
 4. That the hypothesis caused the observations to be recorded.
 
-**Explanation:** Bear on means be relevant to or have a bearing on. Bear out means support or confirm, so the replacement adds a favourable evidential relation.
+**Explanation:** 'Bear on' means be relevant to or have a bearing on. 'Bear out' means support or confirm, so the replacement adds a favourable evidential relation.
 
 **Choice feedback:**
 
 - **That the observations were made before the hypothesis was proposed.:** Neither expression determines when the observations were made.
 - **That the observations contradict the hypothesis rather than concern it.:** Bear out gives support or confirmation, not contradiction.
-- **That the observations support the hypothesis, not merely relate to it.:** Bear on means be relevant to or have a bearing on. Bear out means support or confirm, so the replacement adds a favourable evidential relation.
+- **That the observations support the hypothesis, not merely relate to it.:** 'Bear on' means be relevant to or have a bearing on. 'Bear out' means support or confirm, so the replacement adds a favourable evidential relation.
 - **That the hypothesis caused the observations to be recorded.:** The expressions concern relevance and support, not a causal account of data collection.
 
 **Decision:** replaced.
@@ -2910,19 +2910,19 @@ Read a research review.
 
 'The new study builds on Rao's sampling method while challenging Rao's conclusion.' Why can both parts be true?
 
-1. Building on a method means merely mentioning it before rejecting it.
+1. 'Building on a method' means merely mentioning it before rejecting it.
 2. Challenging the conclusion guarantees that the new method is unrelated to Rao's.
 3. The new study must use a different meaning of conclusion to avoid contradiction.
 4. It can develop from one part of Rao's work without accepting every conclusion. **[Correct]**
 
-**Explanation:** Build on means use something as a basis for further development. The object is the sampling method, so this dependence does not require agreement with Rao's separate conclusion.
+**Explanation:** 'Build on' means use something as a basis for further development. The object is the sampling method, so this dependence does not require agreement with Rao's separate conclusion.
 
 **Choice feedback:**
 
-- **Building on a method means merely mentioning it before rejecting it.:** Build on indicates using the method as a basis, not just a passing reference before rejection.
+- **'Building on a method' means merely mentioning it before rejecting it.:** 'Build on' indicates using the method as a basis, not just a passing reference before rejection.
 - **Challenging the conclusion guarantees that the new method is unrelated to Rao's.:** Disagreement about a conclusion does not erase the stated methodological dependence.
 - **The new study must use a different meaning of conclusion to avoid contradiction.:** There is no need to change the word's meaning: the two clauses concern different parts of the earlier work.
-- **It can develop from one part of Rao's work without accepting every conclusion.:** Build on means use something as a basis for further development. The object is the sampling method, so this dependence does not require agreement with Rao's separate conclusion.
+- **It can develop from one part of Rao's work without accepting every conclusion.:** 'Build on' means use something as a basis for further development. The object is the sampling method, so this dependence does not require agreement with Rao's separate conclusion.
 
 **Decision:** replaced.
 
@@ -2947,14 +2947,14 @@ Which sentence meets that description?
 3. The book glosses over transport history.
 4. The book touches on transport history. **[Correct]**
 
-**Explanation:** Touch on means mention or deal briefly with a topic. It can describe limited coverage without the criticism often conveyed by gloss over.
+**Explanation:** 'Touch on' means mention or deal briefly with a topic. It can describe limited coverage without the criticism often conveyed by 'gloss over'.
 
 **Choice feedback:**
 
 - **The book dwells on transport history.:** Dwell on presents sustained attention, often more than seems necessary, rather than brief neutral coverage.
 - **The book delves into transport history.:** Delve into suggests detailed examination, which goes beyond the requested brief attention.
 - **The book glosses over transport history.:** Gloss over suggests treating something too lightly or avoiding its difficulties. That adds the criticism the reviewer wishes to avoid.
-- **The book touches on transport history.:** Touch on means mention or deal briefly with a topic. It can describe limited coverage without the criticism often conveyed by gloss over.
+- **The book touches on transport history.:** 'Touch on' means mention or deal briefly with a topic. It can describe limited coverage without the criticism often conveyed by 'gloss over'.
 
 **Decision:** replaced.
 
@@ -2979,13 +2979,13 @@ A film crew describes working on location.
 3. The crew could have repaired its lights but chose to replace them.
 4. Better lighting was available, but the crew preferred the existing equipment.
 
-**Explanation:** Could have done with means would have benefited from having. Make do with means manage using what is available despite its limitations; it does not promise an ideal result.
+**Explanation:** 'Could have done with' means would have benefited from having. 'Make do with' means manage using what is available despite its limitations; it does not promise an ideal result.
 
 **Choice feedback:**
 
-- **Better lighting would have helped, but the crew managed with the available alternative.:** Could have done with means would have benefited from having. Make do with means manage using what is available despite its limitations; it does not promise an ideal result.
+- **Better lighting would have helped, but the crew managed with the available alternative.:** 'Could have done with' means would have benefited from having. 'Make do with' means manage using what is available despite its limitations; it does not promise an ideal result.
 - **The crew rejected poor equipment and obtained the better lights it requested.:** Make do with states that the crew managed with what was available, not that it obtained the preferred equipment.
-- **The crew could have repaired its lights but chose to replace them.:** Could have done with expresses a useful unmet need, not an unrealised repair action.
+- **The crew could have repaired its lights but chose to replace them.:** 'Could have done with' expresses a useful unmet need, not an unrealised repair action.
 - **Better lighting was available, but the crew preferred the existing equipment.:** The first expression presents better lighting as something wanted; make do suggests accepting a less satisfactory available option, not preferring it.
 
 **Decision:** replaced.
@@ -3075,13 +3075,13 @@ What action does the new verb add to identification?
 3. Removing the duplicates from the relevant set. **[Correct]**
 4. Ranking the duplicates by how recently they were created.
 
-**Explanation:** Weed out means identify and remove unwanted members of a set. It adds exclusion from that set, but does not itself say every physical or backup copy was destroyed.
+**Explanation:** 'Weed out' means identify and remove unwanted members of a set. It adds exclusion from that set, but does not itself say every physical or backup copy was destroyed.
 
 **Choice feedback:**
 
-- **Combining each duplicate with the original to make a longer entry.:** Weed out means remove selected unwanted items, not merge their content.
+- **Combining each duplicate with the original to make a longer entry.:** 'Weed out' means remove selected unwanted items, not merge their content.
 - **Correcting the information inside the duplicate entries.:** Correction keeps and amends an entry; weeding out removes it from the set being processed.
-- **Removing the duplicates from the relevant set.:** Weed out means identify and remove unwanted members of a set. It adds exclusion from that set, but does not itself say every physical or backup copy was destroyed.
+- **Removing the duplicates from the relevant set.:** 'Weed out' means identify and remove unwanted members of a set. It adds exclusion from that set, but does not itself say every physical or backup copy was destroyed.
 - **Ranking the duplicates by how recently they were created.:** A review might rank entries, but weed out does not specify that ordering operation.
 
 **Decision:** replaced.
@@ -3107,12 +3107,12 @@ Which summary preserves that focus without adding a causal conclusion?
 3. They traced the failure to the scheduling software.
 4. They ruled out the scheduling software.
 
-**Explanation:** Home in on means move towards a precise target or focus attention increasingly on it. The phrase does not itself establish that the target caused the failure.
+**Explanation:** 'Home in on' means move towards a precise target or focus attention increasingly on it. The phrase does not itself establish that the target caused the failure.
 
 **Choice feedback:**
 
 - **They pinned the failure on the scheduling software.:** Pin a failure on something assigns blame or responsibility; the stated focus has not reached that conclusion.
-- **They homed in on the scheduling software.:** Home in on means move towards a precise target or focus attention increasingly on it. The phrase does not itself establish that the target caused the failure.
+- **They homed in on the scheduling software.:** 'Home in on' means move towards a precise target or focus attention increasingly on it. The phrase does not itself establish that the target caused the failure.
 - **They traced the failure to the scheduling software.:** Trace a failure to a source presents that source as identified, which goes beyond the stated investigative focus.
 - **They ruled out the scheduling software.:** Rule out excludes the software as a candidate rather than focusing investigation on it.
 
@@ -3171,11 +3171,11 @@ A biographer describes an interview with a retired composer.
 3. She published the papers but limited discussion of their personal significance.
 4. She let researchers inspect the papers while concealing her own involvement.
 
-**Explanation:** Open up to someone about a subject means disclose thoughts or feelings more freely. Open something up to a group means make it accessible; the second clause withholds that access.
+**Explanation:** 'Open up to someone about a subject' means disclose thoughts or feelings more freely. 'Open something up to a group' means make it accessible; the second clause withholds that access.
 
 **Choice feedback:**
 
-- **She spoke more freely about them without granting researchers access to them.:** Open up to someone about a subject means disclose thoughts or feelings more freely. Open something up to a group means make it accessible; the second clause withholds that access.
+- **She spoke more freely about them without granting researchers access to them.:** 'Open up to someone about a subject' means disclose thoughts or feelings more freely. 'Open something up to a group' means make it accessible; the second clause withholds that access.
 - **She showed the papers to the biographer but refused to describe their contents.:** The first clause concerns speaking openly, not necessarily showing documents; it does not report a refusal to describe them.
 - **She published the papers but limited discussion of their personal significance.:** Neither publication nor a limit on personal discussion is asserted by opened up to me.
 - **She let researchers inspect the papers while concealing her own involvement.:** The second clause explicitly withholds opening the papers to researchers, while the first reports personal openness.
@@ -3203,12 +3203,12 @@ Why should the editor verify what happened before making that change?
 3. The second says the deadline was brought forward rather than delayed.
 4. The second changes the staff from opponents into the people affected by someone else's decision.
 
-**Explanation:** Push back against something means oppose or challenge it. Push back a deadline means move it later; resistance alone does not establish that the date changed.
+**Explanation:** 'Push back against something' means oppose or challenge it. 'Push back a deadline' means move it later; resistance alone does not establish that the date changed.
 
 **Choice feedback:**
 
-- **The second adds an actual postponement where the first reports resistance.:** Push back against something means oppose or challenge it. Push back a deadline means move it later; resistance alone does not establish that the date changed.
-- **The second says staff accepted the deadline after initially opposing it.:** Push back a deadline means postpone it, not accept it after resistance.
+- **The second adds an actual postponement where the first reports resistance.:** 'Push back against something' means oppose or challenge it. 'Push back a deadline' means move it later; resistance alone does not establish that the date changed.
+- **The second says staff accepted the deadline after initially opposing it.:** 'Push back a deadline' means postpone it, not accept it after resistance.
 - **The second says the deadline was brought forward rather than delayed.:** Pushing a date back moves it later, not earlier.
 - **The second changes the staff from opponents into the people affected by someone else's decision.:** Staff remains the grammatical subject. The important change is from opposition to causing a later deadline.
 
@@ -3239,11 +3239,11 @@ A colleague reflects on an unusually guarded briefing.
 3. The team correctly understood her knowledge but underestimated how much she disclosed.
 4. Her knowledge grew after she spoke, allowing her later answers to correct the team.
 
-**Explanation:** Let on means reveal or disclose. She disclosed less than she knew; read into describes the meaning the team attributed to her answers, here more knowledge than she actually had.
+**Explanation:** 'Let on' means reveal or disclose. She disclosed less than she knew; 'read into' describes the meaning the team attributed to her answers, here more knowledge than she actually had.
 
 **Choice feedback:**
 
-- **Her disclosure fell below her knowledge, and the team's interpretation exceeded it.:** Let on means reveal or disclose. She disclosed less than she knew; read into describes the meaning the team attributed to her answers, here more knowledge than she actually had.
+- **Her disclosure fell below her knowledge, and the team's interpretation exceeded it.:** 'Let on' means reveal or disclose. She disclosed less than she knew; 'read into' describes the meaning the team attributed to her answers, here more knowledge than she actually had.
 - **Nadia's disclosure exceeded her knowledge, while the team underestimated both.:** More than she let on places her knowledge above her disclosure; the team's interpretation goes above her knowledge, not below it.
 - **The team correctly understood her knowledge but underestimated how much she disclosed.:** Less than the team read into says the team's interpretation exceeded her actual knowledge, so it was not an accurate measure of it.
 - **Her knowledge grew after she spoke, allowing her later answers to correct the team.:** The comparison concerns knowledge, disclosure, and interpretation at the briefing. It does not report later learning or correction.
@@ -3271,12 +3271,12 @@ Which analysis preserves the two verb meanings while allowing that listeners mig
 3. Both expressions deny that the team's success really occurred.
 4. The first admits a criticism that the second then retracts.
 
-**Explanation:** Put someone down means belittle them. Put success down to luck attributes it to a cause; that attribution can still sound belittling even though the expressions have different meanings.
+**Explanation:** 'Put someone down' means belittle them. 'Put success down to luck' attributes it to a cause; that attribution can still sound belittling even though the expressions have different meanings.
 
 **Choice feedback:**
 
 - **The first denies a causal explanation; the second provides a negative description of the players.:** Put someone down concerns disparagement, while put something down to a cause concerns attribution. This option reverses those functions.
-- **The speaker denies disparagement but attributes success to luck.:** Put someone down means belittle them. Put success down to luck attributes it to a cause; that attribution can still sound belittling even though the expressions have different meanings.
+- **The speaker denies disparagement but attributes success to luck.:** 'Put someone down' means belittle them. 'Put success down to luck' attributes it to a cause; that attribution can still sound belittling even though the expressions have different meanings.
 - **Both expressions deny that the team's success really occurred.:** Neither expression denies the result. The dispute concerns how the players and the cause of success are characterised.
 - **The first admits a criticism that the second then retracts.:** I wasn't denies putting the team down. Attributing success to luck does not itself retract the potentially disparaging assessment.
 
@@ -3303,12 +3303,12 @@ An analyst produces a total delivery-cost estimate and a separate comparison of 
 3. The costs are considered in both calculations, with factored out specifying a smaller numerical weight.
 4. The costs are included initially, so excluding them later establishes that the original estimate was wrong.
 
-**Explanation:** Factor into means include as a consideration or calculation component. Factor out means exclude from the assessment at issue; neither operation removes the real-world charges.
+**Explanation:** 'Factor into' means include as a consideration or calculation component. 'Factor out' means exclude from the assessment at issue; neither operation removes the real-world charges.
 
 **Choice feedback:**
 
 - **The costs are paid from the estimated budget and refunded after the comparison.:** These verbs describe treatment within calculations, not payments or refunds.
-- **The costs enter one calculation and are excluded from the other, without the actual charges being removed.:** Factor into means include as a consideration or calculation component. Factor out means exclude from the assessment at issue; neither operation removes the real-world charges.
+- **The costs enter one calculation and are excluded from the other, without the actual charges being removed.:** 'Factor into' means include as a consideration or calculation component. 'Factor out' means exclude from the assessment at issue; neither operation removes the real-world charges.
 - **The costs are considered in both calculations, with factored out specifying a smaller numerical weight.:** Factored out excludes the costs from that comparison; it does not merely assign an unspecified smaller weight.
 - **The costs are included initially, so excluding them later establishes that the original estimate was wrong.:** The calculations answer different questions. Including a cost in a total and excluding it from a narrower comparison need not be inconsistent.
 
@@ -3335,14 +3335,14 @@ A choir member comments on an apparently successful committee meeting.
 3. The committee postponed discussing the differences until it could collect written evidence.
 4. The committee concealed the differences instead of resolving them. **[Correct]**
 
-**Explanation:** Paper over differences means mask them or give an appearance of agreement. Iron them out means work through and resolve them; the contrast questions the substance of the apparent success.
+**Explanation:** 'Paper over differences' means mask them or give an appearance of agreement. 'Iron them out' means work through and resolve them; the contrast questions the substance of the apparent success.
 
 **Choice feedback:**
 
 - **The committee resolved the differences but failed to record the resolution.:** Ironing differences out would resolve them. The speaker contrasts that with merely covering them over.
-- **The committee exaggerated minor differences to make the meeting seem important.:** Paper over means conceal or mask difficulties, not magnify them.
+- **The committee exaggerated minor differences to make the meeting seem important.:** 'Paper over' means conceal or mask difficulties, not magnify them.
 - **The committee postponed discussing the differences until it could collect written evidence.:** Neither the need for evidence nor a definite later discussion is stated. The criticism concerns apparent harmony without resolution.
-- **The committee concealed the differences instead of resolving them.:** Paper over differences means mask them or give an appearance of agreement. Iron them out means work through and resolve them; the contrast questions the substance of the apparent success.
+- **The committee concealed the differences instead of resolving them.:** 'Paper over differences' means mask them or give an appearance of agreement. 'Iron them out' means work through and resolve them; the contrast questions the substance of the apparent success.
 
 **Decision:** replaced.
 
@@ -3367,13 +3367,13 @@ A committee member comments on a possible leak of the agenda.
 3. The speaker regards such conduct as within Mara's capabilities or character. **[Correct]**
 4. The speaker has evidence of an earlier leak by Mara, but none about this agenda.
 
-**Explanation:** Wouldn't put it past someone to do something means one would not be surprised if they did that, usually something discreditable. It does not assert that Mara actually leaked the agenda.
+**Explanation:** "Wouldn't put it past someone to do something" means one would not be surprised if they did that, usually something discreditable. It does not assert that Mara actually leaked the agenda.
 
 **Choice feedback:**
 
 - **Mara has already leaked it, but the speaker intends to forgive her.:** Put it past someone is not about forgiving a past act. The conditional expression assesses what Mara might be capable of doing.
 - **Mara is unlikely to leak it because the speaker trusts her discretion.:** This reverses the idiom's negative assessment: the speaker does not exclude Mara as capable of the act.
-- **The speaker regards such conduct as within Mara's capabilities or character.:** Wouldn't put it past someone to do something means one would not be surprised if they did that, usually something discreditable. It does not assert that Mara actually leaked the agenda.
+- **The speaker regards such conduct as within Mara's capabilities or character.:** "Wouldn't put it past someone to do something" means one would not be surprised if they did that, usually something discreditable. It does not assert that Mara actually leaked the agenda.
 - **The speaker has evidence of an earlier leak by Mara, but none about this agenda.:** A prior incident may inform such a judgment, but the expression does not establish that one occurred.
 
 **Decision:** replaced.
@@ -3431,13 +3431,13 @@ A neighbour describes a disagreement about a shared courtyard.
 3. The speaker confronted Ravi but denies an ongoing hostile attitude towards him. **[Correct]**
 4. Ravi was removed from the courtyard arrangement, but the speaker regrets excluding him.
 
-**Explanation:** Have it out with someone means discuss or confront a grievance frankly. Have it in for someone means hold a hostile intention towards them; one confrontation does not necessarily establish that continuing hostility.
+**Explanation:** 'Have it out with someone' means discuss or confront a grievance frankly. 'Have it in for someone' means hold a hostile intention towards them; one confrontation does not necessarily establish that continuing hostility.
 
 **Choice feedback:**
 
-- **The dispute is fully resolved, although the speaker still intends to retaliate.:** Having it out describes a frank confrontation, not a guarantee of resolution. Don't have it in for denies hostile intent rather than affirming retaliation.
+- **The dispute is fully resolved, although the speaker still intends to retaliate.:** 'Having it out' describes a frank confrontation, not a guarantee of resolution. "Don't have it in for" denies hostile intent rather than affirming retaliation.
 - **The speaker concealed the complaint but arranged for someone else to raise it.:** Had it out with reports directly confronting Ravi, not concealing the complaint or using an intermediary.
-- **The speaker confronted Ravi but denies an ongoing hostile attitude towards him.:** Have it out with someone means discuss or confront a grievance frankly. Have it in for someone means hold a hostile intention towards them; one confrontation does not necessarily establish that continuing hostility.
+- **The speaker confronted Ravi but denies an ongoing hostile attitude towards him.:** 'Have it out with someone' means discuss or confront a grievance frankly. 'Have it in for someone' means hold a hostile intention towards them; one confrontation does not necessarily establish that continuing hostility.
 - **Ravi was removed from the courtyard arrangement, but the speaker regrets excluding him.:** Neither expression says Ravi was expelled or that the speaker regrets an exclusion.
 
 **Decision:** replaced.
@@ -3463,11 +3463,11 @@ Which interpretation accounts for the apparent tension?
 3. The member initially refused compliance but now approves of the rule.
 4. The member will tolerate breaches of the rule while defending its purpose.
 
-**Explanation:** Can't abide means cannot bear or strongly dislikes. Abide by means comply with; the added by separates obedience in conduct from approval in attitude.
+**Explanation:** "Can't abide" means cannot bear or strongly dislikes. 'Abide by' means comply with; the added 'by' separates obedience in conduct from approval in attitude.
 
 **Choice feedback:**
 
-- **The member strongly dislikes the rule but intends to comply with it.:** Can't abide means cannot bear or strongly dislikes. Abide by means comply with; the added by separates obedience in conduct from approval in attitude.
+- **The member strongly dislikes the rule but intends to comply with it.:** "Can't abide" means cannot bear or strongly dislikes. 'Abide by' means comply with; the added 'by' separates obedience in conduct from approval in attitude.
 - **The member cannot understand the rule but will ask others to explain it.:** Can't abide expresses strong dislike or intolerance, not failure to understand.
 - **The member initially refused compliance but now approves of the rule.:** The two clauses contrast current attitude with intended conduct. No change to approval is stated.
 - **The member will tolerate breaches of the rule while defending its purpose.:** Abide by commits the speaker to following the rule, not tolerating other people's breaches.
@@ -3559,14 +3559,14 @@ A reviewer describes an improvised theatre performance.
 3. It reports that both the effect and the performer succeeded, but by different technical methods.
 4. It denies the effect's success while describing the performer's resulting impression favourably. **[Correct]**
 
-**Explanation:** Come off can mean succeed or achieve the intended result. Come off looking a certain way describes how someone emerges from a situation in others' eyes, not necessarily how skilful they actually are.
+**Explanation:** 'Come off' can mean succeed or achieve the intended result. 'Come off looking a certain way' describes how someone emerges from a situation in others' eyes, not necessarily how skilful they actually are.
 
 **Choice feedback:**
 
 - **It reports that the effect remained attached to the stage while the performer removed part of the scenery.:** Neither use concerns physical detachment. The first evaluates the effect's success; the second describes the impression the performer made.
 - **It reports that the performer intended the failure in order to appear resourceful.:** The contrasting outcomes do not establish that the failure was planned.
 - **It reports that both the effect and the performer succeeded, but by different technical methods.:** Didn't come off gives a negative assessment of the effect. A favourable impression of the performer does not change that outcome.
-- **It denies the effect's success while describing the performer's resulting impression favourably.:** Come off can mean succeed or achieve the intended result. Come off looking a certain way describes how someone emerges from a situation in others' eyes, not necessarily how skilful they actually are.
+- **It denies the effect's success while describing the performer's resulting impression favourably.:** 'Come off' can mean succeed or achieve the intended result. 'Come off looking a certain way' describes how someone emerges from a situation in others' eyes, not necessarily how skilful they actually are.
 
 **Decision:** replaced.
 
@@ -3591,13 +3591,13 @@ How does the phrasal verb frame the questioner's action?
 3. As a question made possible by accommodation provided by another person.
 4. As a question whose factual answer must come from an expert.
 
-**Explanation:** Put someone up to doing something means encourage or instigate it, often something troublesome. Who frames an instigator as the assumed source, but the question itself does not prove anyone actually prompted it.
+**Explanation:** 'Put someone up to doing something' means encourage or instigate it, often something troublesome. 'Who' frames an instigator as the assumed source, but the question itself does not prove anyone actually prompted it.
 
 **Choice feedback:**
 
-- **As an action prompted by someone else, whose identity the chair asks for.:** Put someone up to doing something means encourage or instigate it, often something troublesome. Who frames an instigator as the assumed source, but the question itself does not prove anyone actually prompted it.
+- **As an action prompted by someone else, whose identity the chair asks for.:** 'Put someone up to doing something' means encourage or instigate it, often something troublesome. 'Who' frames an instigator as the assumed source, but the question itself does not prove anyone actually prompted it.
 - **As a question the chair authorised the person to ask.:** Put someone up to doing something concerns prompting or instigating the action, not necessarily giving legitimate permission.
-- **As a question made possible by accommodation provided by another person.:** Put someone up can mean provide lodging, but up to asking selects instigation rather than accommodation.
+- **As a question made possible by accommodation provided by another person.:** 'Put someone up' can mean provide lodging, but 'up to asking' selects instigation rather than accommodation.
 - **As a question whose factual answer must come from an expert.:** The chair asks about who prompted the question, not who can supply its answer.
 
 **Decision:** replaced.
@@ -3623,14 +3623,14 @@ An employee describes a private conversation with a factory manager.
 3. Agreeing to participate in the relocation as a condition of employment.
 4. Knowing information about the plan that was not openly shared. **[Correct]**
 
-**Explanation:** Let someone in on something means share previously private or restricted information with them. It grants knowledge, not necessarily a planning role, decision power, or approval.
+**Explanation:** 'Let someone in on something' means share previously private or restricted information with them. It grants knowledge, not necessarily a planning role, decision power, or approval.
 
 **Choice feedback:**
 
 - **Having authority to approve or reject the relocation.:** Being informed about a plan is not the same as receiving decision-making authority.
 - **Becoming responsible for drafting the relocation plan.:** The phrase gives access to information, not an assignment to create the plan.
 - **Agreeing to participate in the relocation as a condition of employment.:** Let in on does not report the employee's agreement or impose a participation condition.
-- **Knowing information about the plan that was not openly shared.:** Let someone in on something means share previously private or restricted information with them. It grants knowledge, not necessarily a planning role, decision power, or approval.
+- **Knowing information about the plan that was not openly shared.:** 'Let someone in on something' means share previously private or restricted information with them. It grants knowledge, not necessarily a planning role, decision power, or approval.
 
 **Decision:** replaced.
 
@@ -3659,7 +3659,7 @@ A manager comments on a colleague whose first product launch went badly.
 
 **Choice feedback:**
 
-- **That the failed launch should be included in the colleague's record.:** Write someone off is an evaluative expression, not a statement about removing an event from a written record.
+- **That the failed launch should be included in the colleague's record.:** 'Write someone off' is an evaluative expression, not a statement about removing an event from a written record.
 - **That the colleague performed well on the first launch.:** The speaker withholds a dismissive negative conclusion; this is not the same as withholding praise for a successful launch.
 - **That the colleague should be dismissed as having no worthwhile leadership prospects.:** Here, write her off as a project leader means dismiss her prospects in that role as not worth further consideration. Refusing to do so yet leaves those prospects open without endorsing her performance.
 - **That the colleague must receive another project immediately.:** Not dismissing her prospects does not commit the manager to an immediate assignment.
@@ -3719,12 +3719,12 @@ A project group receives a short reply to its announcement.
 3. That an endorsement was removed from the written announcement.
 4. That the recipient has read the announcement more than once.
 
-**Explanation:** Read something into something means attribute a meaning or implication to it. The writer rejects treating silence as endorsement, without thereby declaring opposition to the project.
+**Explanation:** 'Read something into something' means attribute a meaning or implication to it. The writer rejects treating silence as endorsement, without thereby declaring opposition to the project.
 
 **Choice feedback:**
 
 - **That the group has already issued an explicit rejection.:** The writer rejects an endorsement inference from silence, not an earlier explicit rejection.
-- **That the silence should be taken as approval.:** Read something into something means attribute a meaning or implication to it. The writer rejects treating silence as endorsement, without thereby declaring opposition to the project.
+- **That the silence should be taken as approval.:** 'Read something into something' means attribute a meaning or implication to it. The writer rejects treating silence as endorsement, without thereby declaring opposition to the project.
 - **That an endorsement was removed from the written announcement.:** Read into concerns interpretation of a source, not editing words out of a document.
 - **That the recipient has read the announcement more than once.:** The expression concerns meaning attributed to silence, not the number of readings.
 
@@ -3751,12 +3751,12 @@ A historian comments on a quotation used in a documentary.
 3. Removing the historical context also removes the quotation's hostile content.
 4. The historian has established the speaker's hostile intention independently of the context.
 
-**Explanation:** Strip something of a feature means deprive it of that feature. The reduced passive clause describes the quotation without its context; appears reports the resulting impression, not an unconditional judgment of hostility.
+**Explanation:** 'Strip something of a feature' means deprive it of that feature. The reduced passive clause describes the quotation without its context; 'appears' reports the resulting impression, not an unconditional judgment of hostility.
 
 **Choice feedback:**
 
 - **The historical context has been removed because it proves the quotation was hostile.:** The sentence does not state why the context was removed or claim that it proves hostility.
-- **The quotation seems hostile when presented without its historical context.:** Strip something of a feature means deprive it of that feature. The reduced passive clause describes the quotation without its context; appears reports the resulting impression, not an unconditional judgment of hostility.
+- **The quotation seems hostile when presented without its historical context.:** 'Strip something of a feature' means deprive it of that feature. The reduced passive clause describes the quotation without its context; 'appears' reports the resulting impression, not an unconditional judgment of hostility.
 - **Removing the historical context also removes the quotation's hostile content.:** The sentence says the decontextualised quotation appears hostile, not that hostility has been stripped away.
 - **The historian has established the speaker's hostile intention independently of the context.:** An appearance created by loss of context does not establish the original speaker's intention.
 
@@ -3815,13 +3815,13 @@ A club secretary discusses revised equipment spending.
 3. Obtain the treasurer's agreement to the change. **[Correct]**
 4. Explain why the figures cannot be reconciled with the invoices.
 
-**Explanation:** Square figures with invoices means reconcile the records. Square a change with someone means check or arrange their approval; the change, rather than another set of figures, is the object of the second use.
+**Explanation:** 'Square figures with invoices' means reconcile the records. 'Square a change with someone' means check or arrange their approval; the change, rather than another set of figures, is the object of the second use.
 
 **Choice feedback:**
 
 - **Pay the treasurer a sum equal to the invoice total.:** Square a change with a person concerns checking their agreement, not paying them the amount in the records.
 - **Make the treasurer's figures numerically identical to the revised invoice total.:** The financial reconciliation is in the first clause. The second concerns getting the relevant person's agreement to the change.
-- **Obtain the treasurer's agreement to the change.:** Square figures with invoices means reconcile the records. Square a change with someone means check or arrange their approval; the change, rather than another set of figures, is the object of the second use.
+- **Obtain the treasurer's agreement to the change.:** 'Square figures with invoices' means reconcile the records. 'Square a change with someone' means check or arrange their approval; the change, rather than another set of figures, is the object of the second use.
 - **Explain why the figures cannot be reconciled with the invoices.:** I've squared reports the reconciliation as accomplished. The remaining task concerns the treasurer's agreement.
 
 **Decision:** replaced.
@@ -3847,13 +3847,13 @@ Read two sentences from a committee's equipment review.
 3. The first compares competing considerations; the second names a factor counting against an action. **[Correct]**
 4. The first calculates a numerical ratio; the second cancels the proposed purchase.
 
-**Explanation:** Weigh something against something means compare competing considerations. When a factor itself weighs against an action, it counts as a reason not to take it; that reason need not be decisive.
+**Explanation:** 'Weigh something against something' means compare competing considerations. When a factor itself 'weighs against' an action, it counts as a reason not to take it; that reason need not be decisive.
 
 **Choice feedback:**
 
 - **Both state that costs outweighed benefits; the first merely identifies who calculated them.:** Weighing one consideration against another reports comparison, not which won. Weighed against purchase gives an adverse consideration without necessarily deciding the outcome.
 - **The first treats cost as decisive; the second compares two factors without favouring either.:** This reverses the functions. The first is a comparison, while the second makes cost a consideration against the action.
-- **The first compares competing considerations; the second names a factor counting against an action.:** Weigh something against something means compare competing considerations. When a factor itself weighs against an action, it counts as a reason not to take it; that reason need not be decisive.
+- **The first compares competing considerations; the second names a factor counting against an action.:** 'Weigh something against something' means compare competing considerations. When a factor itself 'weighs against' an action, it counts as a reason not to take it; that reason need not be decisive.
 - **The first calculates a numerical ratio; the second cancels the proposed purchase.:** Weigh against need not be a numerical calculation, and an adverse consideration is not itself a cancellation.
 
 **Decision:** replaced.

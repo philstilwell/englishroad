@@ -83,11 +83,11 @@ What will the garage do?
 3. give Luis another job
 4. ask Luis to take a rest
 
-**Explanation:** Pay someone for work means give that person money for doing it.
+**Explanation:** 'Pay someone for work' means give that person money for doing it.
 
 **Choice feedback:**
 
-- **give Luis money:** Pay someone for work means give that person money for doing it.
+- **give Luis money:** 'Pay someone for work' means give that person money for doing it.
 - **ask Luis for money:** That reverses the payment: the garage is paying Luis.
 - **give Luis another job:** Payment rewards work; it does not mean assigning more work.
 - **ask Luis to take a rest:** A rest is a break, not payment.
@@ -467,11 +467,11 @@ What should you do?
 3. write down the driver's number
 4. wait for the driver to call you
 
-**Explanation:** Phone is a verb here: make a telephone call to someone.
+**Explanation:** 'Phone' is a verb here: make a telephone call to someone.
 
 **Choice feedback:**
 
-- **speak to the driver in a call:** Phone is a verb here: make a telephone call to someone.
+- **speak to the driver in a call:** 'Phone' is a verb here: make a telephone call to someone.
 - **write the driver a short message:** The instruction explicitly asks for a call instead of a text.
 - **write down the driver's number:** Recording a number does not contact the driver.
 - **wait for the driver to call you:** The instruction asks you to make the call.
@@ -599,10 +599,10 @@ What does 'part-time' tell you?
 
 **Choice feedback:**
 
-- **I work there for no money.:** Part-time describes working hours, not whether the work is paid.
+- **I work there for no money.:** 'Part-time' describes working hours, not whether the work is paid.
 - **I work fewer hours than a full-time worker.:** Part-time work uses only part of the usual full working week.
-- **I work in two different shops.:** Two afternoons do not mean two employers; part-time concerns hours.
-- **I work there only while travelling.:** Part-time does not describe a travel arrangement.
+- **I work in two different shops.:** Two afternoons do not mean two employers; 'part-time' concerns hours.
+- **I work there only while travelling.:** 'Part-time' does not describe a travel arrangement.
 
 **Decision:** replaced.
 
@@ -795,9 +795,9 @@ What was different yesterday?
 
 **Choice feedback:**
 
-- **I arrived after my usual start time.:** Arriving late is not what overtime means; the sentence concerns extra hours at the end.
+- **I arrived after my usual start time.:** Arriving late is not what 'overtime' means; the sentence concerns extra hours at the end.
 - **I took extra time off.:** Time off is time not working, whereas overtime adds work.
-- **I did the same work more quickly.:** Overtime describes additional working time, not speed.
+- **I did the same work more quickly.:** 'Overtime' describes additional working time, not speed.
 - **I worked beyond my usual hours.:** Overtime is work outside the normal working hours.
 
 **Decision:** replaced.
@@ -1148,9 +1148,9 @@ What is being advertised?
 **Choice feedback:**
 
 - **a job someone can apply for:** A position in a job advertisement is a role available for employment.
-- **a place to stand during a tour:** Position can mean location, but advertising a guide position concerns employment.
+- **a place to stand during a tour:** 'Position' can mean location, but advertising a guide position concerns employment.
 - **a route visitors should follow:** A route describes movement, not the guide's job vacancy.
-- **an opinion about museum opening hours:** Position can mean viewpoint, but this advertisement names a work role.
+- **an opinion about museum opening hours:** 'Position' can mean viewpoint, but this advertisement names a work role.
 
 **Decision:** replaced.
 
@@ -1175,14 +1175,14 @@ What does the bakery plan to do?
 3. ask two assistants to pay for training
 4. employ two assistants **[Correct]**
 
-**Explanation:** To hire a person for work means employ that person.
+**Explanation:** 'To hire a person for work' means employ that person.
 
 **Choice feedback:**
 
 - **ask two assistants to leave:** That would reduce staff; hiring brings people into employment.
 - **send two assistants on holiday:** Leave is time away from an existing job, not hiring.
-- **ask two assistants to pay for training:** Hiring does not mean charging applicants a training fee.
-- **employ two assistants:** To hire a person for work means employ that person.
+- **ask two assistants to pay for training:** 'Hiring' does not mean charging applicants a training fee.
+- **employ two assistants:** 'To hire a person for work' means employ that person.
 
 **Decision:** replaced.
 
@@ -1212,7 +1212,7 @@ What will Tariq do?
 **Choice feedback:**
 
 - **take a short break and then return:** A break or leave does not end the employment relationship.
-- **be dismissed by the garage:** Dismissal is the employer's action; resignation is the employee's decision.
+- **be dismissed by the garage:** 'Dismissal' is the employer's action; 'resignation' is the employee's decision.
 - **give up his current job officially:** To resign is to leave a position by one's own decision, usually notifying the employer.
 - **move to a different task at the garage:** Changing duties within the same employment is not resigning from it.
 
@@ -1239,14 +1239,14 @@ Which action is still to happen?
 3. wrapping the goods for travel
 4. bringing the parcel to the client **[Correct]**
 
-**Explanation:** Deliver means take something to its intended recipient or destination.
+**Explanation:** 'Deliver' means take something to its intended recipient or destination.
 
 **Choice feedback:**
 
 - **taking the parcel from our office:** That is collection, which has already happened.
 - **placing the order with a supplier:** Ordering occurred before the courier collected the parcel.
 - **wrapping the goods for travel:** Packing prepares goods for transport; delivery is the later arrival.
-- **bringing the parcel to the client:** Deliver means take something to its intended recipient or destination.
+- **bringing the parcel to the client:** 'Deliver' means take something to its intended recipient or destination.
 
 **Decision:** replaced.
 
@@ -1271,12 +1271,12 @@ What will the workshop do?
 3. collect participants' gloves at the door
 4. teach participants to make gloves
 
-**Explanation:** Supply means provide something needed; the sentence removes the need to bring gloves.
+**Explanation:** 'Supply' means provide something needed; the sentence removes the need to bring gloves.
 
 **Choice feedback:**
 
 - **ask participants to buy gloves elsewhere:** That conflicts with supplying gloves itself.
-- **provide gloves for participants to use:** Supply means provide something needed; the sentence removes the need to bring gloves.
+- **provide gloves for participants to use:** 'Supply' means provide something needed; the sentence removes the need to bring gloves.
 - **collect participants' gloves at the door:** Collecting their gloves would take them in, not provide them.
 - **teach participants to make gloves:** Teaching a skill is different from providing the actual equipment.
 
@@ -1471,7 +1471,7 @@ What does 'colleague' establish?
 
 **Choice feedback:**
 
-- **Farah must be my supervisor.:** Colleague does not specify authority over the speaker.
+- **Farah must be my supervisor.:** 'Colleague' does not specify authority over the speaker.
 - **Farah and I must have the same duties.:** They work on different collections; colleagues need not do identical jobs.
 - **Farah and I are close friends outside work.:** A working relationship does not establish a personal friendship.
 - **We work in the same organization.:** A colleague is someone you work with; identical duties are not required.
@@ -1723,13 +1723,13 @@ Which description fits 'equipment'?
 3. the tasks planned for the filming day
 4. the materials written after filming
 
-**Explanation:** Equipment refers to the items needed to perform an activity.
+**Explanation:** 'Equipment' refers to the items needed to perform an activity.
 
 **Choice feedback:**
 
 - **the people who will appear in the film:** People are participants, not the equipment listed here.
-- **the tools and devices used for the work:** Equipment refers to the items needed to perform an activity.
-- **the tasks planned for the filming day:** Tasks describe actions; equipment names the things used.
+- **the tools and devices used for the work:** 'Equipment' refers to the items needed to perform an activity.
+- **the tasks planned for the filming day:** 'Tasks' describe actions; 'equipment' names the things used.
 - **the materials written after filming:** Later reports or scripts are not the devices being checked.
 
 **Decision:** replaced.
@@ -1791,7 +1791,7 @@ What am I agreeing to do?
 
 **Choice feedback:**
 
-- **keep her absence secret:** Cover can mean conceal, but covering a shift means working it.
+- **keep her absence secret:** 'Cover' can mean conceal, but 'covering a shift' means working it.
 - **pay Asha for the hours she misses:** The phrase concerns doing the work, not funding her absence.
 - **cancel her shift from the schedule:** Covering keeps the shift staffed rather than cancelling it.
 - **work during the hours assigned to Asha:** To cover someone's shift is to work in their place for that period.
@@ -1921,7 +1921,7 @@ What has definitely increased?
 
 - **the amount paid for each hour of work:** An hourly wage is the rate earned per hour, distinct from total earnings.
 - **my total pay for the week:** Fewer hours may offset the higher rate; total pay is not established.
-- **the number of hours in each shift:** Wage describes pay, not shift length.
+- **the number of hours in each shift:** 'Wage' describes pay, not shift length.
 - **the bonus for finishing early:** An hourly wage is a regular rate, not a completion bonus.
 
 **Decision:** replaced.
@@ -1983,11 +1983,11 @@ What remains for the director to do?
 3. confirm that the supplier has received it
 4. request the supplier's original price
 
-**Explanation:** Authorize means formally permit an action; checking figures does not itself supply approval.
+**Explanation:** 'Authorize' means formally permit an action; checking figures does not itself supply approval.
 
 **Choice feedback:**
 
-- **give the necessary permission for it:** Authorize means formally permit an action; checking figures does not itself supply approval.
+- **give the necessary permission for it:** 'Authorize' means formally permit an action; checking figures does not itself supply approval.
 - **calculate the total again:** Verification has happened; authorization is a different responsibility.
 - **confirm that the supplier has received it:** Receipt occurs after payment; the payment still needs permission.
 - **request the supplier's original price:** The figures already exist; authorization does not mean asking for a quotation.
@@ -2015,12 +2015,12 @@ What will the team do next month?
 3. draw up the first proposal for it
 4. assess last year's results from using it
 
-**Explanation:** Implement means carry out a plan or put a system into practical use.
+**Explanation:** 'Implement' means carry out a plan or put a system into practical use.
 
 **Choice feedback:**
 
 - **decide whether the idea is worth considering:** Design and approval are complete; implementation is beyond initial consideration.
-- **put the approved system into operation:** Implement means carry out a plan or put a system into practical use.
+- **put the approved system into operation:** 'Implement' means carry out a plan or put a system into practical use.
 - **draw up the first proposal for it:** A proposal precedes the approved design.
 - **assess last year's results from using it:** It has not yet been put into use, so that assessment is premature.
 
@@ -2047,12 +2047,12 @@ What payment is being promised?
 3. a refund from the taxi driver for poor service
 4. an increase in my regular salary
 
-**Explanation:** Reimburse means pay someone back for money they have spent.
+**Explanation:** 'Reimburse' means pay someone back for money they have spent.
 
 **Choice feedback:**
 
 - **an advance before I incur the cost:** An advance precedes spending; the taxi fare has already been paid.
-- **repayment of my work-related expense:** Reimburse means pay someone back for money they have spent.
+- **repayment of my work-related expense:** 'Reimburse' means pay someone back for money they have spent.
 - **a refund from the taxi driver for poor service:** The company, not the taxi driver, will repay this expense.
 - **an increase in my regular salary:** Reimbursement covers a specific cost, not a new rate of pay.
 
@@ -2111,14 +2111,14 @@ What has already happened?
 3. The testing work has been removed from the plan.
 4. Resources have been assigned to a purpose. **[Correct]**
 
-**Explanation:** Allocate means assign resources for a particular use; the work may begin later.
+**Explanation:** 'Allocate' means assign resources for a particular use; the work may begin later.
 
 **Choice feedback:**
 
 - **The technicians have finished testing.:** Assigning people does not mean the task is completed.
 - **The project has recruited two new employees.:** The technicians may already work there; allocation does not imply recruitment.
 - **The testing work has been removed from the plan.:** Resources have been assigned to testing, not withdrawn from it.
-- **Resources have been assigned to a purpose.:** Allocate means assign resources for a particular use; the work may begin later.
+- **Resources have been assigned to a purpose.:** 'Allocate' means assign resources for a particular use; the work may begin later.
 
 **Decision:** replaced.
 
@@ -2143,11 +2143,11 @@ Which action did the manager take?
 3. She checked Priya's completed rota.
 4. She gave Priya a permanent promotion.
 
-**Explanation:** Delegate means give someone responsibility for carrying out a task.
+**Explanation:** 'Delegate' means give someone responsibility for carrying out a task.
 
 **Choice feedback:**
 
-- **She entrusted a task to another team member.:** Delegate means give someone responsibility for carrying out a task.
+- **She entrusted a task to another team member.:** 'Delegate' means give someone responsibility for carrying out a task.
 - **She asked another company to run staffing.:** Priya is on the team; external contracting would be outsourcing.
 - **She checked Priya's completed rota.:** Delegating assigns the preparation; it does not describe reviewing finished work.
 - **She gave Priya a permanent promotion.:** Receiving a task does not itself change Priya's job level.
@@ -2175,13 +2175,13 @@ Which activity does 'evaluated' describe?
 3. assessing how well the services met relevant criteria **[Correct]**
 4. advertising the services to guests
 
-**Explanation:** Evaluate means judge quality or value against relevant considerations.
+**Explanation:** 'Evaluate' means judge quality or value against relevant considerations.
 
 **Choice feedback:**
 
 - **rewriting the services' offers:** Evaluation judges offers; it need not alter their wording.
 - **agreeing to purchase all three services:** Evaluation precedes or informs a choice; it is not acceptance of every option.
-- **assessing how well the services met relevant criteria:** Evaluate means judge quality or value against relevant considerations.
+- **assessing how well the services met relevant criteria:** 'Evaluate' means judge quality or value against relevant considerations.
 - **advertising the services to guests:** Promotion publicizes a service rather than assessing it for purchase.
 
 **Decision:** replaced.
@@ -2271,14 +2271,14 @@ What is its main staffing aim?
 3. reducing every animator's working hours
 4. encouraging current animators to stay **[Correct]**
 
-**Explanation:** Retain staff means keep existing employees in the organization.
+**Explanation:** 'Retain staff' means keep existing employees in the organization.
 
 **Choice feedback:**
 
 - **attracting applicants who have never worked there:** Recruiting new people is different from retaining existing employees.
 - **replacing experienced animators with trainees:** Replacement loses the staff the studio wants to retain.
-- **reducing every animator's working hours:** Career paths may involve several measures, but retain does not mean shorten hours.
-- **encouraging current animators to stay:** Retain staff means keep existing employees in the organization.
+- **reducing every animator's working hours:** Career paths may involve several measures, but 'retain' does not mean shorten hours.
+- **encouraging current animators to stay:** 'Retain staff' means keep existing employees in the organization.
 
 **Decision:** replaced.
 
@@ -2303,13 +2303,13 @@ What problem does 'staff turnover' name?
 3. Employees generate unusually high sales.
 4. Employees work rotating morning and evening shifts.
 
-**Explanation:** Staff turnover describes the rate of departures and replacement within a workforce.
+**Explanation:** 'Staff turnover' describes the rate of departures and replacement within a workforce.
 
 **Choice feedback:**
 
 - **Employees spend too much time serving each customer.:** Service time is not the staffing movement called turnover.
-- **Employees leave and need replacing frequently.:** Staff turnover describes the rate of departures and replacement within a workforce.
-- **Employees generate unusually high sales.:** Turnover can refer to business sales, but staff turnover concerns employees leaving and being replaced.
+- **Employees leave and need replacing frequently.:** 'Staff turnover' describes the rate of departures and replacement within a workforce.
+- **Employees generate unusually high sales.:** 'Turnover' can refer to business sales, but 'staff turnover' concerns employees leaving and being replaced.
 - **Employees work rotating morning and evening shifts.:** Shift rotation is a schedule pattern, not staff turnover.
 
 **Decision:** replaced.
@@ -2367,14 +2367,14 @@ What did the inspectors examine?
 3. whether the labels were selling profitably
 4. whether the required labeling steps were being followed **[Correct]**
 
-**Explanation:** Compliance means acting in accordance with specified rules or requirements.
+**Explanation:** 'Compliance' means acting in accordance with specified rules or requirements.
 
 **Choice feedback:**
 
 - **whether workers personally liked the procedure:** Compliance concerns following requirements, not agreeing with them.
 - **whether a new labeling method could be invented:** Designing a method differs from checking adherence to an existing one.
 - **whether the labels were selling profitably:** Labeling compliance is unrelated to selling labels for profit.
-- **whether the required labeling steps were being followed:** Compliance means acting in accordance with specified rules or requirements.
+- **whether the required labeling steps were being followed:** 'Compliance' means acting in accordance with specified rules or requirements.
 
 **Decision:** replaced.
 
@@ -2559,11 +2559,11 @@ Who or what does 'Procurement' refer to here?
 3. the customer waiting for the finished product
 4. the payment sent to the chosen supplier
 
-**Explanation:** A department's function can stand for its staff; Procurement here means the buying team.
+**Explanation:** A department's function can stand for its staff; 'Procurement' here means the buying team.
 
 **Choice feedback:**
 
-- **the team responsible for obtaining goods and services:** A department's function can stand for its staff; Procurement here means the buying team.
+- **the team responsible for obtaining goods and services:** A department's function can stand for its staff; 'Procurement' here means the buying team.
 - **the goods that have already arrived:** Goods cannot ask the manager to compare quotes.
 - **the customer waiting for the finished product:** The quotation request comes from the organization's purchasing function.
 - **the payment sent to the chosen supplier:** A payment cannot issue the request, and selection has not yet occurred.
@@ -2730,7 +2730,7 @@ What changed, rather than the workload?
 - **the amount of work assigned to each employee:** The sentence distinguishes organization of work from the amount of work.
 - **the range of benefits offered to the staff:** Benefits concern employment conditions, not how illustrations reach layout.
 - **the organization and passage of work between stages:** Workflow concerns the organization and movement of work through stages.
-- **the total number of publications commissioned:** Assignment numbers are unchanged; workflow does not mean total commissioned output.
+- **the total number of publications commissioned:** Assignment numbers are unchanged; 'workflow' does not mean total commissioned output.
 
 **Decision:** replaced.
 
@@ -2755,12 +2755,12 @@ What does 'pro rata' tell a part-time applicant about the advertised figure?
 3. It is paid only as a bonus after the first year.
 4. It will be negotiated without reference to working hours.
 
-**Explanation:** Pro rata means in proportion; here the full-time figure is scaled to the agreed working hours.
+**Explanation:** 'Pro rata' means in proportion; here the full-time figure is scaled to the agreed working hours.
 
 **Choice feedback:**
 
-- **The amount is adjusted in proportion to the hours worked.:** Pro rata means in proportion; here the full-time figure is scaled to the agreed working hours.
-- **It is the minimum regardless of hours worked.:** Pro rata indicates proportional adjustment, not the same guaranteed amount for all hours.
+- **The amount is adjusted in proportion to the hours worked.:** 'Pro rata' means in proportion; here the full-time figure is scaled to the agreed working hours.
+- **It is the minimum regardless of hours worked.:** 'Pro rata' indicates proportional adjustment, not the same guaranteed amount for all hours.
 - **It is paid only as a bonus after the first year.:** The phrase concerns proportion, not a performance bonus or waiting period.
 - **It will be negotiated without reference to working hours.:** The advertisement explicitly links the proportion to part-time hours.
 
@@ -2814,18 +2814,18 @@ A British employer announced redundancies after closing its print room, while th
 
 Which interpretation explains why the thanks and redundancies are compatible?
 
-1. Redundancy means a temporary break until printing restarts.
+1. 'Redundancy' means a temporary break until printing restarts.
 2. The jobs, not their performance, are the issue. **[Correct]**
-3. Redundancy means the employees chose to retire.
+3. 'Redundancy' means the employees chose to retire.
 4. The employees are being promoted into more senior posts.
 
 **Explanation:** In British employment usage, redundancy concerns jobs no longer required, not necessarily the workers' performance.
 
 **Choice feedback:**
 
-- **Redundancy means a temporary break until printing restarts.:** Redundancy concerns losing an unneeded job, not necessarily a temporary absence.
+- **'Redundancy' means a temporary break until printing restarts.:** Redundancy concerns losing an unneeded job, not necessarily a temporary absence.
 - **The jobs, not their performance, are the issue.:** In British employment usage, redundancy concerns jobs no longer required, not necessarily the workers' performance.
-- **Redundancy means the employees chose to retire.:** Voluntary retirement is a different employment event.
+- **'Redundancy' means the employees chose to retire.:** Voluntary retirement is a different employment event.
 - **The employees are being promoted into more senior posts.:** Redundancy is not a promotion, even when the employees' work is praised.
 
 **Decision:** replaced.
@@ -2915,12 +2915,12 @@ What does 'escalated' mean here?
 3. increased the size of the requested exception
 4. withdrew the issue from consideration
 
-**Explanation:** In a workplace process, escalating an issue can mean referring it to a higher decision-making level.
+**Explanation:** In a workplace process, 'escalating an issue' can mean referring it to a higher decision-making level.
 
 **Choice feedback:**
 
 - **made the disagreement deliberately more hostile:** Escalate can describe worsening conflict, but this sentence identifies referral to a director.
-- **referred it to someone with greater authority:** In a workplace process, escalating an issue can mean referring it to a higher decision-making level.
+- **referred it to someone with greater authority:** In a workplace process, 'escalating an issue' can mean referring it to a higher decision-making level.
 - **increased the size of the requested exception:** The requested exception is unchanged; its decision-maker changes.
 - **withdrew the issue from consideration:** Referral continues consideration rather than ending it.
 
@@ -2984,7 +2984,7 @@ What does 'narrowed' say about the gross margin?
 **Choice feedback:**
 
 - **The bakery sold a smaller range of products.:** Product range is not the margin between sales income and the relevant cost of goods.
-- **The bakery had less physical room for production.:** Margin here is a financial measure, not workspace.
+- **The bakery had less physical room for production.:** 'Margin' here is a financial measure, not workspace.
 - **Less remained from sales after the cost of goods sold.:** A narrower gross margin means a smaller gap between sales income and the cost of the goods sold.
 - **Customers received a larger price discount.:** Selling prices were unchanged; higher costs explain the reduced margin.
 
@@ -3050,7 +3050,7 @@ What does 'counterparty' identify without implying hostility?
 - **the other party to the agreement:** A counterparty is the other participant in an agreement or transaction; the relationship need not be adversarial.
 - **an independent observer with no part in the agreement:** An observer is not a party to the transaction.
 - **a competitor trying to prevent the agreement:** The other contracting party is not necessarily a market competitor or opponent.
-- **our own employee responsible for checking the figures:** Counterparty refers to the other side, not an internal checker.
+- **our own employee responsible for checking the figures:** 'Counterparty' refers to the other side, not an internal checker.
 
 **Decision:** replaced.
 
@@ -3139,14 +3139,14 @@ What does 'contingency' name here?
 3. the confirmed reason the event has been cancelled
 4. a possible event the organizers need to prepare for **[Correct]**
 
-**Explanation:** Contingency can name an event that may occur; a contingency plan specifies how to respond.
+**Explanation:** 'Contingency' can name an event that may occur; 'a contingency plan' specifies how to respond.
 
 **Choice feedback:**
 
 - **the backup supplier already booked:** The backup response is separate from the possible closure.
 - **the event's ordinary day-to-day schedule:** A contingency is a possible eventuality, not the routine timetable.
 - **the confirmed reason the event has been cancelled:** No closure or cancellation is confirmed; the plan anticipates a possibility.
-- **a possible event the organizers need to prepare for:** Contingency can name an event that may occur; a contingency plan specifies how to respond.
+- **a possible event the organizers need to prepare for:** 'Contingency' can name an event that may occur; 'a contingency plan' specifies how to respond.
 
 **Decision:** replaced.
 
@@ -3171,12 +3171,12 @@ What problem does 'scope creep' identify?
 3. The original requirements are being deliberately reduced.
 4. The team has formally approved a new project brief.
 
-**Explanation:** Scope creep is the gradual, unmanaged expansion of a project's requirements.
+**Explanation:** 'Scope creep' is the gradual, unmanaged expansion of a project's requirements.
 
 **Choice feedback:**
 
 - **The agreed work is being completed faster than expected.:** The concern is expanding requirements, not improved speed.
-- **Unmanaged requests are expanding the agreed work.:** Scope creep is the gradual, unmanaged expansion of a project's requirements.
+- **Unmanaged requests are expanding the agreed work.:** 'Scope creep' is the gradual, unmanaged expansion of a project's requirements.
 - **The original requirements are being deliberately reduced.:** Additional pages and tools expand rather than reduce the work.
 - **The team has formally approved a new project brief.:** The absence of a revised brief distinguishes uncontrolled expansion from an agreed change.
 
@@ -3501,8 +3501,8 @@ What action does 'clawback' refer to, without deciding whether it applies in a p
 
 - **increasing future bonuses to correct an underestimate:** A clawback recovers value, rather than increases a later award.
 - **recovering an award already paid or granted:** A clawback provision permits recovery in specified circumstances; the word itself does not establish that those circumstances occurred.
-- **deferring an award that has not yet become payable:** Deferral postpones payment; clawback concerns recovering an award already made.
-- **replacing a performance award with ordinary wages:** Changing the type of pay is not the recovery described by clawback.
+- **deferring an award that has not yet become payable:** Deferral postpones payment; 'clawback' concerns recovering an award already made.
+- **replacing a performance award with ordinary wages:** Changing the type of pay is not the recovery described by 'clawback'.
 
 **Decision:** replaced.
 
@@ -3559,14 +3559,14 @@ What does 'business as usual' ask store staff to sustain?
 3. normal operations despite the change happening alongside them **[Correct]**
 4. a pause in customer service until the replacement is complete
 
-**Explanation:** Business as usual refers to ordinary ongoing activity, even when a separate change is underway.
+**Explanation:** 'Business as usual' refers to ordinary ongoing activity, even when a separate change is underway.
 
 **Choice feedback:**
 
 - **the existing stock software indefinitely:** The software is being replaced; the phrase does not cancel that change.
 - **exactly the same staffing and sales figures every day:** Routine operation does not mean all numerical measures remain identical.
-- **normal operations despite the change happening alongside them:** Business as usual refers to ordinary ongoing activity, even when a separate change is underway.
-- **a pause in customer service until the replacement is complete:** Business as usual calls for continuity rather than a service pause.
+- **normal operations despite the change happening alongside them:** 'Business as usual' refers to ordinary ongoing activity, even when a separate change is underway.
+- **a pause in customer service until the replacement is complete:** 'Business as usual' calls for continuity rather than a service pause.
 
 **Decision:** replaced.
 
@@ -3847,12 +3847,12 @@ Which reading captures 'runway' in this business update?
 3. the period customers must wait for their orders
 4. the total duration of its longest supplier contract
 
-**Explanation:** Business runway describes how long available cash can sustain the net outflow under the stated conditions.
+**Explanation:** 'Business runway' describes how long available cash can sustain the net outflow under the stated conditions.
 
 **Choice feedback:**
 
-- **the time until its first profitable sale is guaranteed:** Runway estimates how long resources last, not when profit will arrive.
-- **how long cash can sustain operations at that rate:** Business runway describes how long available cash can sustain the net outflow under the stated conditions.
+- **the time until its first profitable sale is guaranteed:** 'Runway' estimates how long resources last, not when profit will arrive.
+- **how long cash can sustain operations at that rate:** 'Business runway' describes how long available cash can sustain the net outflow under the stated conditions.
 - **the period customers must wait for their orders:** Customer waiting time is lead time, not the company's cash runway.
 - **the total duration of its longest supplier contract:** Contract length does not determine the cash period described here.
 

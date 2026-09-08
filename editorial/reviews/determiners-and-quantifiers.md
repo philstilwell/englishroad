@@ -19,14 +19,14 @@ I need ___ pen to sign this form.
 3. many
 4. these
 
-**Explanation:** Use a before a singular countable noun beginning with a consonant sound: a pen.
+**Explanation:** Use 'a' before a singular countable noun beginning with a consonant sound: 'a pen'.
 
 **Choice feedback:**
 
 - **an:** Pen begins with the consonant sound /p/, so use a, not an.
-- **a:** Use a before a singular countable noun beginning with a consonant sound: a pen.
-- **many:** Many needs a plural noun: many pens.
-- **these:** These refers to more than one thing; pen is singular.
+- **a:** Use 'a' before a singular countable noun beginning with a consonant sound: 'a pen'.
+- **many:** 'Many' needs a plural noun: 'many pens'.
+- **these:** 'These' refers to more than one thing; 'pen' is singular.
 
 **Decision:** replaced.
 
@@ -83,14 +83,14 @@ I cannot pay. I do not have ___ money.
 3. these
 4. any **[Correct]**
 
-**Explanation:** Not any money means no money. Any can go before the uncountable noun money.
+**Explanation:** 'Not any money' means no money. 'Any' can go before the uncountable noun 'money'.
 
 **Choice feedback:**
 
-- **many:** Many goes with plural things we count, such as coins; money is uncountable.
+- **many:** 'Many' goes with plural things we count, such as 'coins'; 'money' is uncountable.
 - **a:** We do not say a money for cash; use a coin or a note for one piece.
 - **these:** These needs a plural countable noun, such as notes, not money.
-- **any:** Not any money means no money. Any can go before the uncountable noun money.
+- **any:** 'Not any money' means no money. 'Any' can go before the uncountable noun 'money'.
 
 **Decision:** replaced.
 
@@ -153,8 +153,8 @@ Please cut ___ for lunch.
 
 - **some bread:** Some bread gives an amount without saying how many slices.
 - **two slices of bread:** This gives an exact number of slices; the request asks for no exact amount.
-- **these bread:** Bread is not plural here, so these cannot go directly before it.
-- **many bread:** Use many slices of bread when counting slices; bread itself is uncountable.
+- **these bread:** 'Bread' is not plural here, so 'these' cannot go directly before it.
+- **many bread:** Use 'many slices of bread' when counting slices; 'bread' itself is uncountable.
 
 **Decision:** replaced.
 
@@ -183,9 +183,9 @@ There is ___ email from the hotel in my inbox.
 
 **Choice feedback:**
 
-- **a:** Email starts with a vowel sound, so the article is an.
+- **a:** 'Email' starts with a vowel sound, so the article is 'an'.
 - **many:** Many emails would need a plural noun and There are.
-- **those:** Those emails is plural, but this sentence has is and singular email.
+- **those:** 'Those emails' is plural, but this sentence has 'is' and singular 'email'.
 - **an:** Use an before the vowel sound at the start of email.
 
 **Decision:** replaced.
@@ -216,7 +216,7 @@ Look at ___ photo here in my hand.
 **Choice feedback:**
 
 - **this:** This points to one thing near the speaker, such as the photo in their hand.
-- **these:** These is for more than one photo; photo is singular.
+- **these:** 'These' is for more than one photo; 'photo' is singular.
 - **that:** That usually points to something farther away; the task asks for the near form.
 - **those:** Those is for plural things farther away, not this one nearby photo.
 
@@ -248,9 +248,9 @@ Are ___ shoes here by my feet yours?
 **Choice feedback:**
 
 - **these:** These points to plural things near the speaker, here the shoes by their feet.
-- **this:** This goes with one thing; shoes is plural.
+- **this:** 'This' goes with one thing; 'shoes' is plural.
 - **that:** That is singular and does not match shoes.
-- **those:** Those is the farther-away form; the task asks for the near form.
+- **those:** 'Those' is the farther-away form; the task asks for the near form.
 
 **Decision:** replaced.
 
@@ -281,8 +281,8 @@ ___ building over there is our hotel.
 
 - **This:** This is the near form; the task asks for a distant building.
 - **That:** That points to one thing farther away, matching building over there.
-- **These:** These refers to several nearby things; building is singular.
-- **Those:** Those is the distant plural form, but only one building is named.
+- **These:** 'These' refers to several nearby things; 'building' is singular.
+- **Those:** 'Those' is the distant plural form, but only one building is named.
 
 **Decision:** replaced.
 
@@ -311,10 +311,10 @@ Can you read ___ signs over there, across the road?
 
 **Choice feedback:**
 
-- **that:** That needs a singular noun such as sign.
+- **that:** 'That' needs a singular noun such as 'sign'.
 - **this:** This is singular and near; neither matches the task.
 - **those:** Those matches the plural signs and the distance across the road.
-- **these:** These is plural but points to nearby things; the signs are distant.
+- **these:** 'These' is plural but points to nearby things; the signs are distant.
 
 **Decision:** replaced.
 
@@ -339,14 +339,14 @@ I live here. This is ___ address.
 3. me
 4. I
 
-**Explanation:** My goes before a noun to show that it belongs or relates to the speaker.
+**Explanation:** 'My' goes before a noun to show that it belongs or relates to the speaker.
 
 **Choice feedback:**
 
-- **my:** My goes before a noun to show that it belongs or relates to the speaker.
+- **my:** 'My' goes before a noun to show that it belongs or relates to the speaker.
 - **mine:** Mine can stand alone, as in The address is mine; it does not go before address.
-- **me:** Me is an object form, not a word showing whose address it is.
-- **I:** I is used as a subject, as in I live here, not before address.
+- **me:** 'Me' is an object form, not a word showing whose address it is.
+- **I:** 'I' is used as a subject, as in 'I live here', not before 'address'.
 
 **Decision:** replaced.
 
@@ -375,9 +375,9 @@ Sara cannot find ___ phone.
 
 **Choice feedback:**
 
-- **hers:** Hers replaces a noun phrase, but phone is still present.
+- **hers:** 'Hers' replaces a noun phrase, but 'phone' is still present.
 - **her:** Her goes before phone to show that the phone belongs to Sara.
-- **she:** She is a subject form; use her to show whose phone it is.
+- **she:** 'She' is a subject form; use 'her' to show whose phone it is.
 - **herself:** Herself refers back to Sara as a person; it does not introduce phone.
 
 **Decision:** replaced.
@@ -408,8 +408,8 @@ We start work at nine. ___ first break is at eleven.
 **Choice feedback:**
 
 - **Ours:** Ours stands alone; it cannot introduce first break.
-- **Us:** Us is an object form, as in Tell us, not a possessive word before break.
-- **We:** We is a subject pronoun; Our first break is the subject needed here.
+- **Us:** 'Us' is an object form, as in 'Tell us', not a possessive word before 'break'.
+- **We:** 'We' is a subject pronoun; 'Our first break' is the subject needed here.
 - **Our:** Our goes before first break and shows that the break is for us.
 
 **Decision:** replaced.
@@ -467,14 +467,14 @@ My key box is empty. There are ___ keys in it.
 3. no **[Correct]**
 4. many
 
-**Explanation:** No keys means zero keys, which matches an empty box.
+**Explanation:** 'No keys' means zero keys, which matches an empty box.
 
 **Choice feedback:**
 
-- **some:** Some keys would mean that the box is not empty.
+- **some:** 'Some keys' would mean that the box is not empty.
 - **two:** Two keys would be a positive number; the box has none.
-- **no:** No keys means zero keys, which matches an empty box.
-- **many:** Many keys means a large number, not an empty box.
+- **no:** 'No keys' means zero keys, which matches an empty box.
+- **many:** 'Many keys' means a large number, not an empty box.
 
 **Decision:** replaced.
 
@@ -503,9 +503,9 @@ The bread shop is open and the fruit shop is open. ___ shops are open.
 
 **Choice feedback:**
 
-- **One:** One needs singular shop and does not include the two shops.
+- **One:** 'One' needs singular 'shop' and does not include the two shops.
 - **No:** No shops are open would mean the two shops are closed.
-- **Every:** Every takes a singular noun: every shop. It cannot go before shops.
+- **Every:** 'Every' takes a singular noun: 'every shop'. It cannot go before 'shops'.
 - **Both:** Both means the two together: the bread shop and the fruit shop.
 
 **Decision:** replaced.
@@ -531,14 +531,14 @@ This road is busy. There are ___ buses.
 3. a lot of **[Correct]**
 4. many of
 
-**Explanation:** A lot of buses means a large number of buses; keep of before the noun.
+**Explanation:** 'A lot of buses' means a large number of buses; keep 'of' before the noun.
 
 **Choice feedback:**
 
-- **a lot:** A lot needs of when a noun follows: a lot of buses.
-- **much:** Much goes with uncountable nouns; buses are countable and plural.
-- **a lot of:** A lot of buses means a large number of buses; keep of before the noun.
-- **many of:** Many of needs a word such as the before buses: many of the buses.
+- **a lot:** 'A lot' needs 'of' when a noun follows: 'a lot of buses'.
+- **much:** 'Much' goes with uncountable nouns; 'buses' are countable and plural.
+- **a lot of:** 'A lot of buses' means a large number of buses; keep 'of' before the noun.
+- **many of:** 'Many of' needs a word such as 'the' before 'buses': 'many of the buses'.
 
 **Decision:** replaced.
 
@@ -567,7 +567,7 @@ How ___ emails did you send today?
 
 **Choice feedback:**
 
-- **much:** Much asks about an uncountable amount; individual emails can be counted.
+- **much:** 'Much' asks about an uncountable amount; individual emails can be counted.
 - **many:** How many asks for the number of plural countable things, here emails.
 - **some:** How some does not form a question about a number.
 - **any:** How any is not the quantity-question pattern; use how many emails.
@@ -595,14 +595,14 @@ How ___ rent do you pay each month?
 3. a
 4. every
 
-**Explanation:** How much asks for an amount; rent here is an amount of money.
+**Explanation:** 'How much' asks for an amount; 'rent' here is an amount of money.
 
 **Choice feedback:**
 
-- **many:** Rent is an amount of money here, not plural things to count.
-- **much:** How much asks for an amount; rent here is an amount of money.
+- **many:** 'Rent' is an amount of money here, not plural things to count.
+- **much:** 'How much' asks for an amount; 'rent' here is an amount of money.
 - **a:** How a rent is not a question about an amount.
-- **every:** Every refers to all members of a group and cannot follow how in this amount question.
+- **every:** 'Every' refers to all members of a group and cannot follow 'how' in this amount question.
 
 **Decision:** replaced.
 
@@ -627,14 +627,14 @@ Four people want tea. We have only three cups. We ___.
 3. have enough cups
 4. do not have enough cups **[Correct]**
 
-**Explanation:** Enough means as many as needed. Three cups are not enough for four people.
+**Explanation:** 'Enough' means as many as needed. Three cups are not enough for four people.
 
 **Choice feedback:**
 
 - **have no cups:** There are three cups, so the number is not zero.
 - **have four cups:** The sentence says there are three cups, not four.
 - **have enough cups:** One cup per person needs four cups; three is too few.
-- **do not have enough cups:** Enough means as many as needed. Three cups are not enough for four people.
+- **do not have enough cups:** 'Enough' means as many as needed. Three cups are not enough for four people.
 
 **Decision:** replaced.
 
@@ -663,14 +663,14 @@ There is ___ milk left, so you can have some in your coffee.
 3. no
 4. a little **[Correct]**
 
-**Explanation:** A little means a small amount and draws attention to what is available.
+**Explanation:** 'A little' means a small amount and draws attention to what is available.
 
 **Choice feedback:**
 
 - **little:** Little emphasizes how small the supply is; the requested meaning emphasizes that some is available.
-- **a few:** A few goes with plural countable things, such as cartons, not milk here.
+- **a few:** 'A few' goes with plural countable things, such as 'cartons', not 'milk' here.
 - **no:** No milk would leave none to put in the coffee.
-- **a little:** A little means a small amount and draws attention to what is available.
+- **a little:** 'A little' means a small amount and draws attention to what is available.
 
 **Decision:** replaced.
 
@@ -695,14 +695,14 @@ ___ neighbors helped us carry the sofa upstairs.
 3. Much
 4. Each
 
-**Explanation:** Several indicates a number of people without specifying exactly how many.
+**Explanation:** 'Several' indicates a number of people without specifying exactly how many.
 
 **Choice feedback:**
 
 - **Three:** Three is grammatical, but it states an exact number, which the task excludes.
-- **Several:** Several indicates a number of people without specifying exactly how many.
-- **Much:** Much cannot go before the plural countable noun neighbors.
-- **Each:** Each requires a singular noun: each neighbor.
+- **Several:** 'Several' indicates a number of people without specifying exactly how many.
+- **Much:** 'Much' cannot go before the plural countable noun 'neighbors'.
+- **Each:** 'Each' requires a singular noun: 'each neighbor'.
 
 **Decision:** replaced.
 
@@ -731,10 +731,10 @@ Please bring ___ ID card to the housing office.
 
 **Choice feedback:**
 
-- **you:** You names the person directly; it does not show whose ID card to bring.
+- **you:** 'You' names the person directly; it does not show whose ID card to bring.
 - **your:** Your goes before ID card to show that the card belongs to the person being addressed.
 - **yours:** Yours can stand alone, as in Bring yours, but cannot introduce ID card.
-- **yourself:** Yourself refers to you as a person, not to a possession before a noun.
+- **yourself:** 'Yourself' refers to you as a person, not to a possession before a noun.
 
 **Decision:** revised.
 
@@ -759,13 +759,13 @@ Twelve guests need seats, but the room has eight chairs. There are ___.
 3. not enough chairs **[Correct]**
 4. enough chairs
 
-**Explanation:** Not enough means fewer than needed; eight chairs cannot seat twelve guests.
+**Explanation:** 'Not enough' means fewer than needed; eight chairs cannot seat twelve guests.
 
 **Choice feedback:**
 
-- **too many chairs:** Too many means more than needed; here the room needs four more.
+- **too many chairs:** 'Too many' means more than needed; here the room needs four more.
 - **no chairs:** There are eight chairs, so saying no chairs would be inaccurate.
-- **not enough chairs:** Not enough means fewer than needed; eight chairs cannot seat twelve guests.
+- **not enough chairs:** 'Not enough' means fewer than needed; eight chairs cannot seat twelve guests.
 - **enough chairs:** Enough would provide a seat for every guest, but four guests lack seats.
 
 **Decision:** replaced.
@@ -791,14 +791,14 @@ This cup is dirty. Could I have ___ cup, please?
 3. another **[Correct]**
 4. others
 
-**Explanation:** Another means one more or a different one, without identifying a particular cup.
+**Explanation:** 'Another' means one more or a different one, without identifying a particular cup.
 
 **Choice feedback:**
 
 - **the other:** The other identifies a particular remaining cup in a known pair; no such pair is given.
-- **other:** Before singular cup, use another or a phrase such as the other, not other alone.
-- **another:** Another means one more or a different one, without identifying a particular cup.
-- **others:** Others stands for plural things and does not go directly before cup.
+- **other:** Before singular 'cup', use 'another' or a phrase such as 'the other', not 'other' alone.
+- **another:** 'Another' means one more or a different one, without identifying a particular cup.
+- **others:** 'Others' stands for plural things and does not go directly before 'cup'.
 
 **Decision:** replaced.
 
@@ -823,14 +823,14 @@ I know ___ people in this town, so I have someone to ask for help.
 3. no
 4. a few **[Correct]**
 
-**Explanation:** A few means a small number and presents those contacts as available.
+**Explanation:** 'A few' means a small number and presents those contacts as available.
 
 **Choice feedback:**
 
 - **few:** Few emphasizes the smallness of the number, rather than the positive availability requested here.
-- **a little:** A little describes an uncountable amount; people is plural and countable.
+- **a little:** 'A little' describes an uncountable amount; 'people' is plural and countable.
 - **no:** No people would not support having someone local to ask.
-- **a few:** A few means a small number and presents those contacts as available.
+- **a few:** 'A few' means a small number and presents those contacts as available.
 
 **Decision:** replaced.
 
@@ -859,10 +859,10 @@ My partner and I work from home. ___ use the same desk at different times.
 
 **Choice feedback:**
 
-- **Both we:** Before the pronoun us, use both of us; both we does not work here.
+- **Both we:** Before the pronoun 'us', use 'both of us'; 'both we' does not work here.
 - **Both of us:** Both of us refers to the two speakers together and uses us after of.
-- **Both of we:** Of takes the object form us, not the subject form we.
-- **Both us:** Use We both or Both of us as the subject, not Both us.
+- **Both of we:** 'Of' takes the object form 'us', not the subject form 'we'.
+- **Both us:** Use 'We both' or 'Both of us' as the subject, not 'Both us'.
 
 **Decision:** replaced.
 
@@ -894,7 +894,7 @@ I asked two hotels for a room. One was full and the other was full too. ___ hote
 - **Neither:** Neither means not one and not the other, matching the two full hotels.
 - **Either:** Either would indicate that one or the other had a room, contrary to both replies.
 - **Each:** Each hotel had a room would say that rooms were available at both hotels.
-- **One:** One hotel had a room would mean a room was available at one of them.
+- **One:** 'One hotel had a room' would mean a room was available at one of them.
 
 **Decision:** replaced.
 
@@ -925,7 +925,7 @@ I am free on Tuesday and Thursday. You can choose ___ day for our call.
 
 - **either:** Either allows you to choose one or the other of the two available days.
 - **neither:** Neither would rule out both days, but both are available.
-- **both:** Both requires plural days and would select two days, not one.
+- **both:** 'Both' requires plural 'days' and would select two days, not one.
 - **every:** Every day extends the choice beyond the two named days.
 
 **Decision:** replaced.
@@ -955,10 +955,10 @@ Please check that ___ the windows are closed before you leave.
 
 **Choice feedback:**
 
-- **every:** Every needs a singular noun without the: every window.
-- **whole:** Whole cannot directly quantify the plural phrase the windows this way.
+- **every:** 'Every' needs a singular noun without 'the': 'every window'.
+- **whole:** 'Whole' cannot directly quantify the plural phrase 'the windows' this way.
 - **all:** All the windows includes the complete group of windows and keeps the plural form.
-- **each:** Each needs a singular noun, or each of the windows; each the windows is incorrect.
+- **each:** 'Each' needs a singular noun, or 'each of the windows'; 'each the windows' is incorrect.
 
 **Decision:** replaced.
 
@@ -987,8 +987,8 @@ The repair took ___.
 
 **Choice feedback:**
 
-- **a few hours:** A few hours describes only part of the stated morning-to-evening period.
-- **every day:** Every day describes repetition across days, not the length of one repair.
+- **a few hours:** 'A few hours' describes only part of the stated morning-to-evening period.
+- **every day:** 'Every day' describes repetition across days, not the length of one repair.
 - **the whole day:** The whole day treats one day as a complete period.
 - **half the day:** Half the day covers only part of the full day in the task.
 
@@ -1015,14 +1015,14 @@ Eight of the ten team members cycle to work. ___ cycle to work.
 3. None of them
 4. Most of them **[Correct]**
 
-**Explanation:** Most of them means more than half of this known group, matching eight out of ten.
+**Explanation:** 'Most of them' means more than half of this known group, matching eight out of ten.
 
 **Choice feedback:**
 
 - **Half of them:** Half of ten is five; eight is more than half.
 - **All of them:** All would include ten people, but two do not cycle.
-- **None of them:** None would mean zero cyclists, contrary to the eight stated.
-- **Most of them:** Most of them means more than half of this known group, matching eight out of ten.
+- **None of them:** 'None' would mean zero cyclists, contrary to the eight stated.
+- **Most of them:** 'Most of them' means more than half of this known group, matching eight out of ten.
 
 **Decision:** replaced.
 
@@ -1052,7 +1052,7 @@ ___ apples in this bag are damaged.
 **Choice feedback:**
 
 - **Some of the:** Some of the apples selects an unspecified part of the identified bagful.
-- **Some of:** After some of, a noun group needs a word such as the: some of the apples.
+- **Some of:** After 'some of', a noun group needs a word such as 'the': 'some of the apples'.
 - **Some the:** Some the omits the of needed between some and the apples.
 - **Some of this:** This is singular, but apples is plural; use these or the after of.
 
@@ -1079,14 +1079,14 @@ How many spare batteries do we have? We have ___.
 3. any
 4. none **[Correct]**
 
-**Explanation:** None can stand alone and means zero batteries in this answer.
+**Explanation:** 'None' can stand alone and means zero batteries in this answer.
 
 **Choice feedback:**
 
 - **no:** No needs a noun here: no spare batteries. It cannot complete We have by itself.
 - **neither:** Neither refers to two specified alternatives, not an unspecified stock of batteries.
 - **any:** We have any does not state zero; use We do not have any or We have none.
-- **none:** None can stand alone and means zero batteries in this answer.
+- **none:** 'None' can stand alone and means zero batteries in this answer.
 
 **Decision:** replaced.
 
@@ -1111,14 +1111,14 @@ This soup is very salty. I put ___ salt in it.
 3. not enough
 4. too many
 
-**Explanation:** Too much salt means more salt than wanted, explaining the unpleasant taste.
+**Explanation:** 'Too much salt' means more salt than wanted, explaining the unpleasant taste.
 
 **Choice feedback:**
 
-- **too much:** Too much salt means more salt than wanted, explaining the unpleasant taste.
-- **a little:** A little describes a small amount without saying it was excessive.
+- **too much:** 'Too much salt' means more salt than wanted, explaining the unpleasant taste.
+- **a little:** 'A little' describes a small amount without saying it was excessive.
 - **not enough:** Not enough says more was needed, the opposite of the stated problem.
-- **too many:** Many cannot quantify the uncountable noun salt here.
+- **too many:** 'Many' cannot quantify the uncountable noun 'salt' here.
 
 **Decision:** replaced.
 
@@ -1143,13 +1143,13 @@ I have ___ meetings today; I cannot finish my other work.
 3. too many **[Correct]**
 4. no
 
-**Explanation:** Too many meetings means the number causes a problem, here leaving too little work time.
+**Explanation:** 'Too many meetings' means the number causes a problem, here leaving too little work time.
 
 **Choice feedback:**
 
-- **too much:** Much does not fit the plural countable noun meetings.
+- **too much:** 'Much' does not fit the plural countable noun 'meetings'.
 - **a few:** A few gives a small number without expressing the excess required by the task.
-- **too many:** Too many meetings means the number causes a problem, here leaving too little work time.
+- **too many:** 'Too many meetings' means the number causes a problem, here leaving too little work time.
 - **no:** No meetings would leave no meeting-related reason for the stated difficulty.
 
 **Decision:** replaced.
@@ -1175,14 +1175,14 @@ Maya gave me ___ about my first day at work.
 3. a few useful advice
 4. many useful advice
 
-**Explanation:** Some can introduce uncountable advice, even when useful comes between them.
+**Explanation:** 'Some' can introduce uncountable 'advice', even when 'useful' comes between them.
 
 **Choice feedback:**
 
-- **a useful advice:** Advice is uncountable in this meaning. For one suggestion, say a useful piece of advice.
-- **some useful advice:** Some can introduce uncountable advice, even when useful comes between them.
-- **a few useful advice:** A few needs plural countable things: a few useful suggestions.
-- **many useful advice:** Many needs a plural countable noun; use much advice or many suggestions.
+- **a useful advice:** 'Advice' is uncountable in this meaning. For one suggestion, say 'a useful piece of advice'.
+- **some useful advice:** 'Some' can introduce uncountable 'advice', even when 'useful' comes between them.
+- **a few useful advice:** 'A few' needs plural countable things: 'a few useful suggestions'.
+- **many useful advice:** 'Many' needs a plural countable noun; use 'much advice' or 'many suggestions'.
 
 **Decision:** replaced.
 
@@ -1207,14 +1207,14 @@ Some guests are eating inside; ___ guests are eating on the terrace.
 3. an other
 4. other **[Correct]**
 
-**Explanation:** Other goes before a plural noun to refer to additional or different members of a group.
+**Explanation:** 'Other' goes before a plural noun to refer to additional or different members of a group.
 
 **Choice feedback:**
 
-- **another:** Another normally introduces one singular guest; guests is plural here.
-- **others:** Others replaces a plural noun; it cannot go directly before guests.
-- **an other:** Before plural guests, use other without an; the article an is singular.
-- **other:** Other goes before a plural noun to refer to additional or different members of a group.
+- **another:** 'Another' normally introduces one singular guest; 'guests' is plural here.
+- **others:** 'Others' replaces a plural noun; it cannot go directly before 'guests'.
+- **an other:** Before plural 'guests', use 'other' without 'an'; the article 'an' is singular.
+- **other:** 'Other' goes before a plural noun to refer to additional or different members of a group.
 
 **Decision:** replaced.
 
@@ -1244,9 +1244,9 @@ This building has two lifts. One is broken, but ___ lift works.
 **Choice feedback:**
 
 - **the other:** The other identifies the second and remaining lift after one of two has been mentioned.
-- **others:** Others is a standalone plural form and cannot introduce lift.
-- **other:** Singular lift needs a determiner; other lift alone is incomplete.
-- **another:** Another can introduce a different lift, but does not explicitly identify the remaining member of this pair.
+- **others:** 'Others' is a standalone plural form and cannot introduce 'lift'.
+- **other:** Singular 'lift' needs a determiner; 'other lift' alone is incomplete.
+- **another:** 'Another' can introduce a different lift, but does not explicitly identify the remaining member of this pair.
 
 **Decision:** replaced.
 
@@ -1307,14 +1307,14 @@ ___ the volunteers has been given a different job.
 3. All of
 4. Several of
 
-**Explanation:** Each of the volunteers treats the members individually and takes has in this sentence.
+**Explanation:** 'Each of the volunteers' treats the members individually and takes 'has' in this sentence.
 
 **Choice feedback:**
 
-- **Every of:** Every cannot stand before of; use every volunteer or each of the volunteers.
-- **Each of:** Each of the volunteers treats the members individually and takes has in this sentence.
-- **All of:** All of the volunteers is plural and would need have, not has.
-- **Several of:** Several of the volunteers would need have because it refers to multiple volunteers together.
+- **Every of:** 'Every' cannot stand before 'of'; use 'every volunteer' or 'each of the volunteers'.
+- **Each of:** 'Each of the volunteers' treats the members individually and takes 'has' in this sentence.
+- **All of:** 'All of the volunteers' is plural and would need 'have', not 'has'.
+- **Several of:** 'Several of the volunteers' would need 'have' because it refers to multiple volunteers together.
 
 **Decision:** replaced.
 
@@ -1339,14 +1339,14 @@ The new cupboard is ___ to hold all our files.
 3. large enough of
 4. enough of large
 
-**Explanation:** Enough comes after large and before the purpose phrase to hold all our files.
+**Explanation:** 'Enough' comes after 'large' and before the purpose phrase 'to hold all our files'.
 
 **Choice feedback:**
 
-- **large enough:** Enough comes after large and before the purpose phrase to hold all our files.
-- **enough large:** Enough follows an adjective: large enough.
-- **large enough of:** Of cannot link large enough to the infinitive to hold here.
-- **enough of large:** Enough of needs a noun phrase or pronoun, not the adjective large in this position.
+- **large enough:** 'Enough' comes after 'large' and before the purpose phrase 'to hold all our files'.
+- **enough large:** 'Enough' follows an adjective: 'large enough'.
+- **large enough of:** 'Of' cannot link 'large enough' to the infinitive 'to hold' here.
+- **enough of large:** 'Enough of' needs a noun phrase or pronoun, not the adjective 'large' in this position.
 
 **Decision:** replaced.
 
@@ -1407,7 +1407,7 @@ We compared two quotations, but both were above our budget. We could afford ___ 
 
 **Choice feedback:**
 
-- **either:** Could afford either would mean either option was affordable, contrary to the budget limit.
+- **either:** 'Could afford either' would mean either option was affordable, contrary to the budget limit.
 - **neither:** Neither of them means that quotation A and quotation B were both unaffordable.
 - **each:** Could afford each would make both quotations affordable.
 - **one:** One would indicate that a single quotation was within budget; both exceeded it.
@@ -1441,7 +1441,7 @@ There are six workers and six lockers, with one locker assigned to each person.
 
 - **The workers share a locker.:** Sharing a locker describes joint use of one locker, not six separate assignments.
 - **The workers have a locker each.:** Each after a locker distributes one locker to every worker.
-- **The workers have one locker between them.:** Between them describes a single shared locker for the group.
+- **The workers have one locker between them.:** 'Between them' describes a single shared locker for the group.
 - **The workers have six lockers each.:** Six lockers each would allocate six to every worker, giving thirty-six assignments.
 
 **Decision:** replaced.
@@ -1503,8 +1503,8 @@ Twenty people joined our training course. ___ people already work in the industr
 
 **Choice feedback:**
 
-- **Most these:** Most cannot directly precede these; use most of these.
-- **Most of:** Most of people is incomplete here; of needs a determiner such as these.
+- **Most these:** 'Most' cannot directly precede 'these'; use 'most of these'.
+- **Most of:** 'Most of people' is incomplete here; 'of' needs a determiner such as 'these'.
 - **Most of these:** Most of these people selects the majority from the course participants just introduced.
 - **Most of this:** This is singular, whereas people refers to the twenty participants.
 
@@ -1537,7 +1537,7 @@ The company gave us ___ information, so we could not compare the two offers prop
 
 - **little:** Little information emphasizes scarcity, supporting the difficulty comparing the offers.
 - **a little:** A little emphasizes that some information was available, rather than the limitation requested.
-- **few:** Few needs a plural countable noun, such as details, not information.
+- **few:** 'Few' needs a plural countable noun, such as 'details', not 'information'.
 - **several:** Several cannot directly quantify information; use several details or pieces of information.
 
 **Decision:** replaced.
@@ -1570,7 +1570,7 @@ The code works on all six printers. You may use ___ printer.
 - **every:** Every printer would cover all six individually; it does not express the requested choice of one.
 - **neither:** Neither would rule out both of two alternatives; six printers are available.
 - **any:** Any printer gives a free choice: whichever of the six you select will work.
-- **both:** Both requires a plural noun and applies to two, not a choice from six.
+- **both:** 'Both' requires a plural noun and applies to two, not a choice from six.
 
 **Decision:** replaced.
 
@@ -1595,14 +1595,14 @@ Repairing the roof will take ___.
 3. three days in all
 4. every three days
 
-**Explanation:** Another can come before a number plus plural noun to mean an additional amount.
+**Explanation:** 'Another' can come before a number plus plural noun to mean an additional amount.
 
 **Choice feedback:**
 
-- **another three days:** Another can come before a number plus plural noun to mean an additional amount.
-- **three days each:** Each needs separate people or things to receive three days; the task gives one repair period.
+- **another three days:** 'Another' can come before a number plus plural noun to mean an additional amount.
+- **three days each:** 'Each' needs separate people or things to receive three days; the task gives one repair period.
 - **three days in all:** In all gives the total duration, not three days added to the original schedule.
-- **every three days:** Every three days expresses a repeating interval rather than an extension.
+- **every three days:** 'Every three days' expresses a repeating interval rather than an extension.
 
 **Decision:** replaced.
 
@@ -1631,8 +1631,8 @@ Some clients prefer email; ___ prefer a phone call.
 
 **Choice feedback:**
 
-- **other:** Other needs a following noun here: other clients.
-- **another:** Another refers to one client and would take prefers, not prefer.
+- **other:** 'Other' needs a following noun here: 'other clients'.
+- **another:** 'Another' refers to one client and would take 'prefers', not 'prefer'.
 - **others:** Others stands for other clients, allowing the plural noun to be omitted.
 - **the another:** The and another cannot be combined in this way.
 
@@ -1659,14 +1659,14 @@ I have been answering customer calls ___.
 3. half the morning
 4. most mornings
 
-**Explanation:** All morning describes the whole duration of this morning in this present-perfect sentence.
+**Explanation:** 'All morning' describes the whole duration of this morning in this present-perfect sentence.
 
 **Choice feedback:**
 
-- **all morning:** All morning describes the whole duration of this morning in this present-perfect sentence.
-- **every morning:** Every morning describes a repeated routine across different mornings.
+- **all morning:** 'All morning' describes the whole duration of this morning in this present-perfect sentence.
+- **every morning:** 'Every morning' describes a repeated routine across different mornings.
 - **half the morning:** Half covers only part of the period, not the whole morning requested.
-- **most mornings:** Most mornings describes frequency over several days, not today's duration.
+- **most mornings:** 'Most mornings' describes frequency over several days, not today's duration.
 
 **Decision:** replaced.
 
@@ -1691,14 +1691,14 @@ The savings are untouched.
 3. None the money has been spent.
 4. None of money has been spent.
 
-**Explanation:** None of the money means zero of that amount. Money is uncountable and takes has here.
+**Explanation:** 'None of the money' means zero of that amount. 'Money' is uncountable and takes 'has' here.
 
 **Choice feedback:**
 
 - **No of the money has been spent.:** Use none of before the money; no would go directly before money without of the.
-- **None of the money has been spent.:** None of the money means zero of that amount. Money is uncountable and takes has here.
-- **None the money has been spent.:** None needs of before the noun phrase the money.
-- **None of money has been spent.:** After none of, specify the amount with a determiner: none of the money.
+- **None of the money has been spent.:** 'None of the money' means zero of that amount. 'Money' is uncountable and takes 'has' here.
+- **None the money has been spent.:** 'None' needs 'of' before the noun phrase 'the money'.
+- **None of money has been spent.:** After 'none of', specify the amount with a determiner: 'none of the money'.
 
 **Decision:** replaced.
 
@@ -1723,14 +1723,14 @@ I water the balcony plants on Monday, Wednesday, Friday, Sunday, and so on. I wa
 3. every weekday
 4. every other day **[Correct]**
 
-**Explanation:** Every other day means alternating days, with one day between watering days.
+**Explanation:** 'Every other day' means alternating days, with one day between watering days.
 
 **Choice feedback:**
 
-- **twice a day:** Twice a day means two times in each day, not alternating days.
+- **twice a day:** 'Twice a day' means two times in each day, not alternating days.
 - **every third day:** Every third day leaves two days between watering days; the pattern leaves one.
 - **every weekday:** Every weekday would include Tuesday and Thursday and exclude Sunday.
-- **every other day:** Every other day means alternating days, with one day between watering days.
+- **every other day:** 'Every other day' means alternating days, with one day between watering days.
 
 **Decision:** replaced.
 
@@ -1755,14 +1755,14 @@ Since the new train service opened, there has been ___ traffic on this road than
 3. many
 4. several
 
-**Explanation:** Less traffic means a smaller amount of traffic; traffic is uncountable in this use.
+**Explanation:** 'Less traffic' means a smaller amount of traffic; 'traffic' is uncountable in this use.
 
 **Choice feedback:**
 
-- **less:** Less traffic means a smaller amount of traffic; traffic is uncountable in this use.
-- **fewer:** Fewer goes with separate countable things, such as cars; traffic is uncountable here.
-- **many:** Many does not fit uncountable traffic or form the required comparison with than.
-- **several:** Several would need a plural count noun and does not compare an amount with than.
+- **less:** 'Less traffic' means a smaller amount of traffic; 'traffic' is uncountable in this use.
+- **fewer:** 'Fewer' goes with separate countable things, such as 'cars'; 'traffic' is uncountable here.
+- **many:** 'Many' does not fit uncountable 'traffic' or form the required comparison with 'than'.
+- **several:** 'Several' would need a plural count noun and does not compare an amount with 'than'.
 
 **Decision:** replaced.
 
@@ -1791,10 +1791,10 @@ We ordered 60 meals for 45 confirmed guests. We ordered ___.
 
 **Choice feedback:**
 
-- **too few meals:** Too few would mean fewer than forty-five; sixty is more.
+- **too few meals:** 'Too few' would mean fewer than forty-five; sixty is more.
 - **not enough meals:** Not enough would indicate a shortage, but the order has fifteen extra meals.
 - **too many meals:** Sixty exceeds the forty-five needed, so the order contains too many meals.
-- **just enough meals:** Just enough would mean forty-five meals, with no extra meals.
+- **just enough meals:** 'Just enough' would mean forty-five meals, with no extra meals.
 
 **Decision:** replaced.
 
@@ -1819,14 +1819,14 @@ The report must leave no doubt that the entire team completed it.
 3. We have completed most of the training.
 4. We have all completed the training. **[Correct]**
 
-**Explanation:** All after have applies to every member of we, explicitly including the entire team.
+**Explanation:** 'All' after 'have' applies to every member of 'we', explicitly including the entire team.
 
 **Choice feedback:**
 
 - **We have almost all completed the training.:** Almost all leaves some team members outside the completed group.
-- **We have completed all the training.:** All here describes the amount of training, not explicitly every member of the team.
-- **We have completed most of the training.:** Most of the training describes course content and does not assert full completion by everyone.
-- **We have all completed the training.:** All after have applies to every member of we, explicitly including the entire team.
+- **We have completed all the training.:** 'All' here describes the amount of training, not explicitly every member of the team.
+- **We have completed most of the training.:** 'Most of the training' describes course content and does not assert full completion by everyone.
+- **We have all completed the training.:** 'All' after 'have' applies to every member of 'we', explicitly including the entire team.
 
 **Decision:** replaced.
 
@@ -1856,7 +1856,7 @@ Only ___ my suggestions were included in the final plan.
 **Choice feedback:**
 
 - **a few:** A few cannot directly precede my suggestions; insert of before my.
-- **a little of:** A little of is used for an uncountable amount, not plural suggestions.
+- **a little of:** 'A little of' is used for an uncountable amount, not plural suggestions.
 - **a few of:** A few of selects a small number from the suggestions identified by my.
 - **a few of the:** The cannot be placed before my suggestions; my already identifies whose suggestions they are.
 
@@ -1983,12 +1983,12 @@ Only some of the applications were approved.
 3. Exactly half of the applications were approved.
 4. One application was approved and the rest were rejected.
 
-**Explanation:** Only some indicates a nonempty approved subset smaller than the whole group.
+**Explanation:** 'Only some' indicates a nonempty approved subset smaller than the whole group.
 
 **Choice feedback:**
 
 - **Fewer than half of the applications were approved.:** Only some excludes all, but it does not specify whether approval was below half.
-- **At least one application was approved and at least one was not.:** Only some indicates a nonempty approved subset smaller than the whole group.
+- **At least one application was approved and at least one was not.:** 'Only some' indicates a nonempty approved subset smaller than the whole group.
 - **Exactly half of the applications were approved.:** No exact fraction is given; some could cover different-sized subsets.
 - **One application was approved and the rest were rejected.:** The wording does not give an exact number or say that nonapproved applications were rejected rather than pending.
 
@@ -2079,13 +2079,13 @@ The committee considered two proposals and rejected both of them.
 3. Neither proposal was accepted. **[Correct]**
 4. One proposal was rejected; the other was accepted.
 
-**Explanation:** Rejection of both proposals means acceptance of neither; neither applies separately to the two members.
+**Explanation:** Rejection of both proposals means acceptance of neither; 'neither' applies separately to the two members.
 
 **Choice feedback:**
 
 - **Not both proposals were rejected.:** Not both denies rejection of the complete pair, but the committee rejected the pair.
 - **Neither proposal was rejected.:** This excludes rejection of either proposal, reversing the decision.
-- **Neither proposal was accepted.:** Rejection of both proposals means acceptance of neither; neither applies separately to the two members.
+- **Neither proposal was accepted.:** Rejection of both proposals means acceptance of neither; 'neither' applies separately to the two members.
 - **One proposal was rejected; the other was accepted.:** This splits the outcomes between the two proposals, whereas both had the same rejection outcome.
 
 **Decision:** replaced.
@@ -2111,14 +2111,14 @@ A technician visits the site every few days.
 3. There are a few visits in total and then they stop.
 4. Visits recur after short intervals of several days. **[Correct]**
 
-**Explanation:** Every few days describes repeated visits at short, nonexact multi-day intervals.
+**Explanation:** 'Every few days' describes repeated visits at short, nonexact multi-day intervals.
 
 **Choice feedback:**
 
 - **Exactly three days separate every pair of visits.:** A few does not fix an exact three-day interval.
 - **The technician makes several visits during each day.:** Every few days measures the interval between visits, not visits per day.
 - **There are a few visits in total and then they stop.:** The phrase describes a recurring schedule, not the total number of visits.
-- **Visits recur after short intervals of several days.:** Every few days describes repeated visits at short, nonexact multi-day intervals.
+- **Visits recur after short intervals of several days.:** 'Every few days' describes repeated visits at short, nonexact multi-day intervals.
 
 **Decision:** replaced.
 
@@ -2143,14 +2143,14 @@ ___ has raised the same concern over the years.
 3. Many of the residents
 4. Many resident
 
-**Explanation:** The formal expression many a takes a singular noun and verb while referring to many individuals.
+**Explanation:** The formal expression 'many a' takes a singular noun and verb while referring to many individuals.
 
 **Choice feedback:**
 
-- **Many a resident:** The formal expression many a takes a singular noun and verb while referring to many individuals.
-- **Many residents:** Many residents is plural and needs have raised, not has raised.
+- **Many a resident:** The formal expression 'many a' takes a singular noun and verb while referring to many individuals.
+- **Many residents:** 'Many residents' is plural and needs 'have raised', not 'has raised'.
 - **Many of the residents:** This plural subject also requires have raised.
-- **Many resident:** Many directly before a count noun requires plural residents; alternatively use many a resident.
+- **Many resident:** 'Many' directly before a count noun requires plural 'residents'; alternatively use 'many a resident'.
 
 **Decision:** replaced.
 
@@ -2175,14 +2175,14 @@ The project received ___ public support.
 3. a good deal of **[Correct]**
 4. a good deal
 
-**Explanation:** A good deal of public support means a substantial amount, with no built-in sufficiency claim.
+**Explanation:** 'A good deal of public support' means a substantial amount, with no built-in sufficiency claim.
 
 **Choice feedback:**
 
 - **enough:** Enough states that the support met a need, which the task does not authorize.
 - **a little:** A little presents a small amount, not the substantial amount requested.
-- **a good deal of:** A good deal of public support means a substantial amount, with no built-in sufficiency claim.
-- **a good deal:** The expression needs of before the noun phrase public support.
+- **a good deal of:** 'A good deal of public support' means a substantial amount, with no built-in sufficiency claim.
+- **a good deal:** The expression needs 'of' before the noun phrase 'public support'.
 
 **Decision:** replaced.
 
@@ -2212,9 +2212,9 @@ I contacted ___ former managers for references.
 **Choice feedback:**
 
 - **all three of my:** All three of my identifies and includes the full group of three former managers.
-- **all of three my:** The number and possessive are misplaced; use all three of my former managers.
+- **all of three my:** The number and possessive are misplaced; use 'all three of my former managers'.
 - **my all three:** All normally precedes the possessive in this pattern: all my three or all three of my.
-- **all three of the my:** The and my cannot both occupy the determiner position before former managers.
+- **all three of the my:** 'The' and 'my' cannot both occupy the determiner position before 'former managers'.
 
 **Decision:** replaced.
 
@@ -2309,8 +2309,8 @@ There are ten files. Three are on paper; ___ are digital.
 
 - **another seven:** Another seven introduces an additional quantity without explicitly identifying the remainder of this set.
 - **the other seven:** The other seven identifies all seven files remaining after three of ten are accounted for.
-- **seven others:** Seven others refers to seven different files but does not explicitly mark them as the entire known remainder.
-- **other seven:** Other seven lacks the determiner needed to identify these seven remaining files.
+- **seven others:** 'Seven others' refers to seven different files but does not explicitly mark them as the entire known remainder.
+- **other seven:** 'Other seven' lacks the determiner needed to identify these seven remaining files.
 
 **Decision:** replaced.
 
@@ -2339,7 +2339,7 @@ The journalist interviewed ___ who came forward.
 
 **Choice feedback:**
 
-- **few witnesses:** Few witnesses describes a small number interviewed without identifying the whole set who came forward.
+- **few witnesses:** 'Few witnesses' describes a small number interviewed without identifying the whole set who came forward.
 - **a few witnesses:** A few witnesses selects a small number and does not specify that the set is complete.
 - **fewer witnesses:** Fewer witnesses makes a comparison with another number rather than identifying the complete small set.
 - **the few witnesses:** The few witnesses identifies the small known set and presents its members as the interview group.
@@ -2367,13 +2367,13 @@ My monthly salary is 2,000 euros, and rent is 1,000 euros. Rent takes ___.
 3. half my monthly salary **[Correct]**
 4. twice my monthly salary
 
-**Explanation:** Half can directly precede a possessive noun phrase; half of 2,000 is 1,000.
+**Explanation:** 'Half' can directly precede a possessive noun phrase; half of 2,000 is 1,000.
 
 **Choice feedback:**
 
 - **half of half my monthly salary:** Half of half is a quarter, or 500 euros here.
 - **my monthly salary and a half:** A salary and a half totals 3,000 euros, more than the entire salary.
-- **half my monthly salary:** Half can directly precede a possessive noun phrase; half of 2,000 is 1,000.
+- **half my monthly salary:** 'Half' can directly precede a possessive noun phrase; half of 2,000 is 1,000.
 - **twice my monthly salary:** Twice the salary is 4,000 euros, not the stated rent.
 
 **Decision:** replaced.
@@ -2431,14 +2431,14 @@ The session needs two hours, and we have five hours available. We have ___.
 3. not quite enough time
 4. more than enough time **[Correct]**
 
-**Explanation:** More than enough means the available time exceeds what is needed; five hours allows a three-hour margin.
+**Explanation:** 'More than enough' means the available time exceeds what is needed; five hours allows a three-hour margin.
 
 **Choice feedback:**
 
-- **barely enough time:** Barely enough means only just meeting the requirement, not having a large margin.
-- **just enough time:** Just enough indicates meeting the need without extra time.
-- **not quite enough time:** Not quite enough indicates a small shortage; there is no shortage here.
-- **more than enough time:** More than enough means the available time exceeds what is needed; five hours allows a three-hour margin.
+- **barely enough time:** 'Barely enough' means only just meeting the requirement, not having a large margin.
+- **just enough time:** 'Just enough' indicates meeting the need without extra time.
+- **not quite enough time:** 'Not quite enough' indicates a small shortage; there is no shortage here.
+- **more than enough time:** 'More than enough' means the available time exceeds what is needed; five hours allows a three-hour margin.
 
 **Decision:** replaced.
 
@@ -2467,10 +2467,10 @@ ___ complaints has risen since January.
 
 **Choice feedback:**
 
-- **A number of:** A number of complaints means several complaints and normally takes a plural verb, have.
+- **A number of:** 'A number of complaints' means several complaints and normally takes a plural verb, 'have'.
 - **The number of:** The number of complaints makes the count the singular subject, so has risen is appropriate.
-- **Large numbers of:** Large numbers of complaints is plural and requires have risen.
-- **Several of the:** Several of the complaints is plural and requires have risen; it also refers to complaints, not their count.
+- **Large numbers of:** 'Large numbers of complaints' is plural and requires 'have risen'.
+- **Several of the:** 'Several of the complaints' is plural and requires 'have risen'; it also refers to complaints, not their count.
 
 **Decision:** replaced.
 
@@ -2527,12 +2527,12 @@ All but two of the twelve apartments have balconies.
 3. Twelve apartments have balconies.
 4. Fewer than ten apartments have balconies.
 
-**Explanation:** All but two means all except two; twelve minus two leaves ten.
+**Explanation:** 'All but two' means all except two; twelve minus two leaves ten.
 
 **Choice feedback:**
 
-- **Two apartments have balconies.:** Two names the exceptions after but, not the apartments included by all.
-- **Ten apartments have balconies.:** All but two means all except two; twelve minus two leaves ten.
+- **Two apartments have balconies.:** 'Two' names the exceptions after 'but', not the apartments included by 'all'.
+- **Ten apartments have balconies.:** 'All but two' means all except two; twelve minus two leaves ten.
 - **Twelve apartments have balconies.:** But two removes two apartments from the twelve covered by all.
 - **Fewer than ten apartments have balconies.:** The phrase fixes exactly two exceptions, leaving ten, not an unspecified smaller number.
 
@@ -2659,12 +2659,12 @@ None of the proposed explanations accounts for every case.
 3. The explanations collectively leave at least one case unexplained.
 4. Each case has exactly one proposed explanation.
 
-**Explanation:** None with every means there is no explanation with complete coverage; each has at least one gap.
+**Explanation:** 'None' with 'every' means there is no explanation with complete coverage; each has at least one gap.
 
 **Choice feedback:**
 
 - **No case is accounted for by any proposed explanation.:** The sentence denies complete coverage by an explanation, not coverage of individual cases.
-- **Each proposed explanation fails to account for at least one case.:** None with every means there is no explanation with complete coverage; each has at least one gap.
+- **Each proposed explanation fails to account for at least one case.:** 'None' with 'every' means there is no explanation with complete coverage; each has at least one gap.
 - **The explanations collectively leave at least one case unexplained.:** They could cover all cases between them even though no single explanation covers every case.
 - **Each case has exactly one proposed explanation.:** Nothing in the sentence specifies how many explanations cover a particular case.
 
@@ -2698,7 +2698,7 @@ So few people registered that the workshop was cancelled.
 - **The number of registrations was too low for the workshop to go ahead.:** So few...that links a low number to its consequence; too low for... preserves that relationship.
 - **A few people registered after the workshop was cancelled.:** This reverses the time relationship and loses the low-number cause.
 - **Fewer people registered because the workshop was cancelled.:** This makes cancellation the cause rather than the consequence of low registration.
-- **Some people registered, although the workshop was cancelled.:** Although expresses contrast but does not retain the stated causal threshold.
+- **Some people registered, although the workshop was cancelled.:** 'Although' expresses contrast but does not retain the stated causal threshold.
 
 **Decision:** replaced.
 
@@ -2755,11 +2755,11 @@ Any number of things could have caused the delay.
 3. The delay was caused by a known number of things.
 4. One cause can be selected at random as the true cause.
 
-**Explanation:** Any number of is an idiomatic way of saying many possible things; it does not identify the actual cause.
+**Explanation:** 'Any number of' is an idiomatic way of saying many possible things; it does not identify the actual cause.
 
 **Choice feedback:**
 
-- **There are many possible causes of the delay.:** Any number of is an idiomatic way of saying many possible things; it does not identify the actual cause.
+- **There are many possible causes of the delay.:** 'Any number of' is an idiomatic way of saying many possible things; it does not identify the actual cause.
 - **Every suggested cause is equally likely.:** The expression says there are many possibilities, without comparing their likelihoods.
 - **The delay was caused by a known number of things.:** Could have and any number of leave both the cause and its count unsettled.
 - **One cause can be selected at random as the true cause.:** Many possibilities do not justify randomly choosing one as true.
@@ -2793,7 +2793,7 @@ The charity spent ___ it had left on emergency accommodation.
 
 - **a little more money than:** This introduces a comparison and an additional amount rather than the entire existing remainder.
 - **a little of the money:** A little of selects a small part of the remaining money, not the whole small amount.
-- **less money than:** Less money than it had left describes spending below the available amount.
+- **less money than:** 'Less money than it had left' describes spending below the available amount.
 - **the little money:** The little money it had left identifies the entire remaining sum and presents that sum as small.
 
 **Decision:** replaced.
@@ -2921,7 +2921,7 @@ At least twelve members endorsed the proposal.
 
 - **Exactly twelve endorsed it.:** At least establishes a minimum; it does not exclude a higher total.
 - **More than twelve endorsed it.:** The lower bound includes exactly twelve, so a higher total is not guaranteed.
-- **No more than twelve endorsed it.:** No more than is an upper bound, the opposite direction from at least.
+- **No more than twelve endorsed it.:** 'No more than' is an upper bound, the opposite direction from 'at least'.
 - **Twelve endorsed it, and there may have been more.:** At least twelve guarantees twelve endorsements while leaving larger numbers possible.
 
 **Decision:** replaced.
@@ -3107,12 +3107,12 @@ Not a few residents opposed the redevelopment.
 3. Only a small handful of residents opposed it.
 4. Every resident opposed it.
 
-**Explanation:** Not a few is an emphatic, somewhat formal way to say quite a large number.
+**Explanation:** 'Not a few' is an emphatic, somewhat formal way to say quite a large number.
 
 **Choice feedback:**
 
-- **A considerable number of residents opposed it.:** Not a few is an emphatic, somewhat formal way to say quite a large number.
-- **No residents opposed it.:** Not a few does not mean none; the negation denies that the number was small.
+- **A considerable number of residents opposed it.:** 'Not a few' is an emphatic, somewhat formal way to say quite a large number.
+- **No residents opposed it.:** 'Not a few' does not mean 'none'; the negation denies that the number was small.
 - **Only a small handful of residents opposed it.:** The expression rejects the characterization of the number as merely a few.
 - **Every resident opposed it.:** A considerable number need not include the entire population.
 
@@ -3565,7 +3565,7 @@ The historian consulted what few independent sources there were.
 
 - **The historian consulted all the independent sources available, which were few.:** What few combines all of the available set with an assessment that the set was small.
 - **The historian consulted a few of the independent sources available.:** A few of selects a small subset and does not retain consultation of the full available set.
-- **The historian consulted fewer independent sources than expected.:** Fewer introduces a comparison with an expectation, not the totality of the available small set.
+- **The historian consulted fewer independent sources than expected.:** 'Fewer' introduces a comparison with an expectation, not the totality of the available small set.
 - **The historian consulted independent sources whenever any became available.:** Whenever adds a repeated timing condition and does not state exhaustive consultation of the small set.
 
 **Decision:** replaced.
@@ -3751,12 +3751,12 @@ Some sixty or so participants joined the consultation.
 3. At least sixty participants joined the consultation.
 4. Some of the sixty participants joined the consultation.
 
-**Explanation:** Some already means approximately before sixty, so or so can be removed without losing the estimate.
+**Explanation:** 'Some' already means approximately before 'sixty', so 'or so' can be removed without losing the estimate.
 
 **Choice feedback:**
 
 - **Sixty participants joined the consultation.:** Removing both markers turns an approximate number into an unqualified count.
-- **Some sixty participants joined the consultation.:** Some already means approximately before sixty, so or so can be removed without losing the estimate.
+- **Some sixty participants joined the consultation.:** 'Some' already means approximately before 'sixty', so 'or so' can be removed without losing the estimate.
 - **At least sixty participants joined the consultation.:** At least introduces a minimum, not an estimate around sixty.
 - **Some of the sixty participants joined the consultation.:** Of the changes the meaning to an unspecified subset of a defined group of sixty.
 

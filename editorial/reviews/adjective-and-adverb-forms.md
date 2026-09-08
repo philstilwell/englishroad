@@ -55,7 +55,7 @@ Describe two bags. Choose the grammatically correct phrase.
 
 **Choice feedback:**
 
-- **two smalls bags:** English adjectives do not take a plural -s before a plural noun.
+- **two smalls bags:** English adjectives do not take a plural '-s' before a plural noun.
 - **two bags small:** The usual adjective belongs before 'bags' in this noun phrase.
 - **two small bag:** After 'two', the countable noun needs plural 'bags'.
 - **two small bags:** 'Bags' is plural, but its adjective stays 'small'.
@@ -978,7 +978,7 @@ Compare 'We receive a daily report' and 'We receive a report daily.'
 
 Which statement describes the use of 'daily' correctly?
 
-1. It describes the report in both sentences because it ends in ly.
+1. It describes the report in both sentences because it ends in 'ly'.
 2. It describes the receiving schedule only in the first sentence.
 3. It describes the report in the first sentence and the receiving schedule in the second. **[Correct]**
 4. It is an adjective in the first, but would need a different spelling to be an adverb in the second.
@@ -987,7 +987,7 @@ Which statement describes the use of 'daily' correctly?
 
 **Choice feedback:**
 
-- **It describes the report in both sentences because it ends in ly.:** An -ly ending does not determine the function; position and meaning differ here.
+- **It describes the report in both sentences because it ends in 'ly'.:** An '-ly' ending does not determine the function; position and meaning differ here.
 - **It describes the receiving schedule only in the first sentence.:** The second use directly tells how often the receiving happens.
 - **It describes the report in the first sentence and the receiving schedule in the second.:** The same form can be an adjective before a noun or an adverb giving frequency after the verb phrase.
 - **It is an adjective in the first, but would need a different spelling to be an adverb in the second.:** No spelling change is needed: 'daily' is an established form for both functions.
@@ -1019,7 +1019,7 @@ Which sentence has that ordinary frequency-adverb order?
 
 **Choice feedback:**
 
-- **The train often late is.:** The be verb normally precedes the frequency adverb and the adjective in this neutral statement.
+- **The train often late is.:** The 'be' verb normally precedes the frequency adverb and the adjective in this neutral statement.
 - **Often late the train is.:** This fronted order is marked, not the requested ordinary neutral sentence.
 - **The train is late often.:** This is possible in speech with a different rhythm, but the ordinary mid-position requested is after 'is'.
 - **The train is often late.:** A frequency adverb normally comes after main-verb 'be' and before the adjective.
@@ -1367,8 +1367,8 @@ A photographer says, 'Stand close to the wall, and listen closely to my instruct
 Which distinction between the two forms is accurate?
 
 1. Both forms say the photographer should move nearer.
-2. Closely gives distance; close describes attention.
-3. Close gives physical distance; closely describes attention. **[Correct]**
+2. 'Closely' gives distance; 'close' describes attention.
+3. 'Close' gives physical distance; 'closely' describes attention. **[Correct]**
 4. Both forms describe how little time the instructions take.
 
 **Explanation:** The flat adverb 'close' locates someone nearby, while 'closely' with listening means attentively.
@@ -1376,8 +1376,8 @@ Which distinction between the two forms is accurate?
 **Choice feedback:**
 
 - **Both forms say the photographer should move nearer.:** The first concerns where the listener stands; the second concerns how the listener listens.
-- **Closely gives distance; close describes attention.:** This reverses the two uses in the instructions.
-- **Close gives physical distance; closely describes attention.:** The flat adverb 'close' locates someone nearby, while 'closely' with listening means attentively.
+- **'Closely' gives distance; 'close' describes attention.:** This reverses the two uses in the instructions.
+- **'Close' gives physical distance; 'closely' describes attention.:** The flat adverb 'close' locates someone nearby, while 'closely' with listening means attentively.
 - **Both forms describe how little time the instructions take.:** Neither form gives a duration in this context.
 
 **Decision:** replaced.
@@ -2108,7 +2108,7 @@ Which distinction between the two uses of 'qualified' is accurate?
 
 1. The approval has reservations; the applicant has strong relevant credentials. **[Correct]**
 2. Both describe approval given by a person with professional credentials.
-3. The applicant's suitability is doubtful because qualified means approval with reservations.
+3. The applicant's suitability is doubtful because 'qualified' means approval with reservations.
 4. Both say a final decision has been postponed until more information arrives.
 
 **Explanation:** Before 'approval', 'qualified' means limited by conditions or reservations; with 'highly' and 'for the post', it describes a high level of relevant qualifications.
@@ -2117,7 +2117,7 @@ Which distinction between the two uses of 'qualified' is accurate?
 
 - **The approval has reservations; the applicant has strong relevant credentials.:** Before 'approval', 'qualified' means limited by conditions or reservations; with 'highly' and 'for the post', it describes a high level of relevant qualifications.
 - **Both describe approval given by a person with professional credentials.:** The first use limits the approval itself; it does not specify the reviewer's credentials.
-- **The applicant's suitability is doubtful because qualified means approval with reservations.:** The reservations sense in 'qualified approval' does not carry over to 'highly qualified for the post'.
+- **The applicant's suitability is doubtful because 'qualified' means approval with reservations.:** The reservations sense in 'qualified approval' does not carry over to 'highly qualified for the post'.
 - **Both say a final decision has been postponed until more information arrives.:** Neither expression necessarily reports postponement; limited approval and strong qualifications can both be stated now.
 
 **Decision:** replaced.
@@ -2234,7 +2234,7 @@ Compare two phrases identifying the sole survivor among the witnesses: 'the only
 
 Which analysis correctly describes these alternatives?
 
-1. Only the first is grammatical because living cannot describe a person before a noun.
+1. Only the first is grammatical because 'living' cannot describe a person before a noun.
 2. Both are grammatical, but only living guarantees that the witness is conscious.
 3. Only the second is grammatical because every adjective must come before its noun.
 4. Both identify the sole survivor, using different adjective positions. **[Correct]**
@@ -2243,7 +2243,7 @@ Which analysis correctly describes these alternatives?
 
 **Choice feedback:**
 
-- **Only the first is grammatical because living cannot describe a person before a noun.:** 'Living witness' is a normal noun phrase; a participial adjective can occur before this noun.
+- **Only the first is grammatical because 'living' cannot describe a person before a noun.:** 'Living witness' is a normal noun phrase; a participial adjective can occur before this noun.
 - **Both are grammatical, but only living guarantees that the witness is conscious.:** Neither being alive nor being living guarantees consciousness.
 - **Only the second is grammatical because every adjective must come before its noun.:** Adjectives can follow nouns in several constructions, including 'the only witness alive'.
 - **Both identify the sole survivor, using different adjective positions.:** 'Alive' commonly follows the noun in this construction, while 'living' can precede it; both retain the survival meaning.
@@ -2330,7 +2330,7 @@ Compare 'The speech moved her deeply' with 'The crew moved deep into the tunnel.
 
 Which distinction is supported by these uses?
 
-1. Deeply describes an emotional effect; deep gives extent of movement into a place. **[Correct]**
+1. 'Deeply' describes an emotional effect; 'deep' gives extent of movement into a place. **[Correct]**
 2. Both describe a movement downwards caused by physical force.
 3. The first describes distance; the second describes the crew's feelings.
 4. Both describe a slow manner of movement.
@@ -2339,7 +2339,7 @@ Which distinction is supported by these uses?
 
 **Choice feedback:**
 
-- **Deeply describes an emotional effect; deep gives extent of movement into a place.:** 'Moved deeply' can mean strongly affected emotionally, while 'deep into' specifies penetration into a location.
+- **'Deeply' describes an emotional effect; 'deep' gives extent of movement into a place.:** 'Moved deeply' can mean strongly affected emotionally, while 'deep into' specifies penetration into a location.
 - **Both describe a movement downwards caused by physical force.:** The speech produces an emotional response, not physical downward motion.
 - **The first describes distance; the second describes the crew's feelings.:** This reverses the two meanings selected by their contexts.
 - **Both describe a slow manner of movement.:** Neither expression specifies speed; they concern emotional intensity and spatial extent.
@@ -2458,18 +2458,18 @@ Compare 'Send the report direct to the editor' and 'Send the report directly to 
 
 Which usage judgment is accurate for this intended route?
 
-1. Only directly is possible because every word modifying a verb must end in ly.
+1. Only 'directly' is possible because every word modifying a verb must end in 'ly'.
 2. Both forms can express the intended no-intermediary route. **[Correct]**
-3. Only direct is possible because directly can refer only to time.
+3. Only 'direct' is possible because 'directly' can refer only to time.
 4. Both are grammatical, but direct necessarily promises faster delivery.
 
 **Explanation:** 'Direct' and 'directly' can both describe sending the report to the editor without an intermediary.
 
 **Choice feedback:**
 
-- **Only directly is possible because every word modifying a verb must end in ly.:** English has established flat adverbs, including 'direct' in descriptions of routing.
+- **Only 'directly' is possible because every word modifying a verb must end in 'ly'.:** English has established flat adverbs, including 'direct' in descriptions of routing.
 - **Both forms can express the intended no-intermediary route.:** 'Direct' and 'directly' can both describe sending the report to the editor without an intermediary.
-- **Only direct is possible because directly can refer only to time.:** 'Directly' can describe a route or connection as well as having time-related senses.
+- **Only 'direct' is possible because 'directly' can refer only to time.:** 'Directly' can describe a route or connection as well as having time-related senses.
 - **Both are grammatical, but direct necessarily promises faster delivery.:** Neither form by itself compares delivery times.
 
 **Decision:** replaced.
@@ -2491,8 +2491,8 @@ Compare 'The plan is practically complete' and 'Practically speaking, we cannot 
 Which distinction between the two expressions is accurate?
 
 1. Both assert that the plan is completely ready for use.
-2. The first describes usefulness; the second means almost speaking.
-3. The first means almost; the second introduces a practical viewpoint. **[Correct]**
+2. The first describes usefulness; the second means 'almost' speaking.
+3. The first means 'almost'; the second introduces a practical viewpoint. **[Correct]**
 4. Both describe the speaker's pronunciation rather than the plan.
 
 **Explanation:** Before 'complete', 'practically' is a degree adverb; in 'practically speaking', it frames the basis of the whole assessment.
@@ -2500,8 +2500,8 @@ Which distinction between the two expressions is accurate?
 **Choice feedback:**
 
 - **Both assert that the plan is completely ready for use.:** The first stops short of completeness, and the second explicitly denies present usability.
-- **The first describes usefulness; the second means almost speaking.:** This reverses or misassigns the conventional senses of the two expressions.
-- **The first means almost; the second introduces a practical viewpoint.:** Before 'complete', 'practically' is a degree adverb; in 'practically speaking', it frames the basis of the whole assessment.
+- **The first describes usefulness; the second means 'almost' speaking.:** This reverses or misassigns the conventional senses of the two expressions.
+- **The first means 'almost'; the second introduces a practical viewpoint.:** Before 'complete', 'practically' is a degree adverb; in 'practically speaking', it frames the basis of the whole assessment.
 - **Both describe the speaker's pronunciation rather than the plan.:** Only the fixed viewpoint phrase contains 'speaking', and it does not evaluate pronunciation.
 
 **Decision:** replaced.
@@ -2592,8 +2592,8 @@ Which distinction between the final modifiers is accurate?
 
 1. Both describe the workers as clean while they acted.
 2. Both guarantee that the surface had no dirt afterwards.
-3. Clean gives the resulting state; cleanly describes the manner of cutting. **[Correct]**
-4. Cleanly gives a resulting state, while clean means they wiped without difficulty.
+3. 'Clean' gives the resulting state; 'cleanly' describes the manner of cutting. **[Correct]**
+4. 'Cleanly' gives a resulting state, while 'clean' means they wiped without difficulty.
 
 **Explanation:** The adjective is an object-result complement after 'wiped'; the adverb modifies the action 'cut'.
 
@@ -2601,8 +2601,8 @@ Which distinction between the final modifiers is accurate?
 
 - **Both describe the workers as clean while they acted.:** Neither modifier describes the workers; one describes the surface and the other the cutting.
 - **Both guarantee that the surface had no dirt afterwards.:** 'Cleanly' can describe a neat cut without asserting a dirt-free surface.
-- **Clean gives the resulting state; cleanly describes the manner of cutting.:** The adjective is an object-result complement after 'wiped'; the adverb modifies the action 'cut'.
-- **Cleanly gives a resulting state, while clean means they wiped without difficulty.:** This reverses the grammatical relations of adjective and adverb in the two predicates.
+- **'Clean' gives the resulting state; 'cleanly' describes the manner of cutting.:** The adjective is an object-result complement after 'wiped'; the adverb modifies the action 'cut'.
+- **'Cleanly' gives a resulting state, while 'clean' means they wiped without difficulty.:** This reverses the grammatical relations of adjective and adverb in the two predicates.
 
 **Decision:** replaced.
 
@@ -2817,7 +2817,7 @@ How can both uses of 'responsible' fit without contradiction?
 1. Both certify that the employees managed the outage successfully.
 2. The first describes dependable conduct; the second assigns blame for the outage.
 3. Event responsibility is distinct from general dependability. **[Correct]**
-4. Otherwise means that different employees caused the outage.
+4. 'Otherwise' means that different employees caused the outage.
 
 **Explanation:** The complement 'for the outage' selects an event relation, while the adjective before 'employees' evaluates their usual behaviour.
 
@@ -2826,7 +2826,7 @@ How can both uses of 'responsible' fit without contradiction?
 - **Both certify that the employees managed the outage successfully.:** Being responsible for the outage does not mean managing it successfully.
 - **The first describes dependable conduct; the second assigns blame for the outage.:** This reverses the contextually selected senses.
 - **Event responsibility is distinct from general dependability.:** The complement 'for the outage' selects an event relation, while the adjective before 'employees' evaluates their usual behaviour.
-- **Otherwise means that different employees caused the outage.:** 'Otherwise' qualifies the evaluation of the same employees; it does not introduce a new group.
+- **'Otherwise' means that different employees caused the outage.:** 'Otherwise' qualifies the evaluation of the same employees; it does not introduce a new group.
 
 **Decision:** replaced.
 
@@ -2846,8 +2846,8 @@ A delivery record states, 'The courier delivered the sculpture damaged.'
 
 Which analysis correctly identifies the adjective's role?
 
-1. Damaged describes the courier's manner of working as careless.
-2. Damaged describes the sculpture's state at delivery. **[Correct]**
+1. 'Damaged' describes the courier's manner of working as careless.
+2. 'Damaged' describes the sculpture's state at delivery. **[Correct]**
 3. The sentence presents delivery itself as the action that damaged the sculpture.
 4. The sentence says the sender intentionally prepared a damaged sculpture for shipment.
 
@@ -2855,8 +2855,8 @@ Which analysis correctly identifies the adjective's role?
 
 **Choice feedback:**
 
-- **Damaged describes the courier's manner of working as careless.:** The adjective describes the sculpture's condition, not the courier's manner or care.
-- **Damaged describes the sculpture's state at delivery.:** This object-oriented adjective gives the condition accompanying delivery; unlike a result construction such as 'wiped it clean', it does not say delivery caused that condition.
+- **'Damaged' describes the courier's manner of working as careless.:** The adjective describes the sculpture's condition, not the courier's manner or care.
+- **'Damaged' describes the sculpture's state at delivery.:** This object-oriented adjective gives the condition accompanying delivery; unlike a result construction such as 'wiped it clean', it does not say delivery caused that condition.
 - **The sentence presents delivery itself as the action that damaged the sculpture.:** The condition is recorded at delivery, but its cause is left unstated.
 - **The sentence says the sender intentionally prepared a damaged sculpture for shipment.:** Neither the sender's action nor any deliberate intention is established.
 
@@ -3038,18 +3038,18 @@ An editor praises an assessor who has no stake in the result and examines the wo
 
 Which editorial response best preserves the intended evaluation?
 
-1. Replace it because disinterested can only mean bored, regardless of context.
+1. Replace it because 'disinterested' can only mean 'bored', regardless of context.
 2. Replace it because both words guarantee that the assessor has no financial stake.
-3. Retain disinterested but remove the praise for attention because the adjective does not itself mean diligent.
+3. Retain 'disinterested' but remove the praise for attention because the adjective does not itself mean 'diligent'.
 4. Keep disinterested here, or use impartial; uninterested would suggest disengagement. **[Correct]**
 
 **Explanation:** The context selects freedom from personal interest, not lack of attention. 'Impartial' can make that sense explicit without denying other uses of 'disinterested'.
 
 **Choice feedback:**
 
-- **Replace it because disinterested can only mean bored, regardless of context.:** Disinterested has an established impartial sense, supported by the lack of a stake and the attentive examination here.
+- **Replace it because 'disinterested' can only mean 'bored', regardless of context.:** 'Disinterested' has an established impartial sense, supported by the lack of a stake and the attentive examination here.
 - **Replace it because both words guarantee that the assessor has no financial stake.:** 'Uninterested' normally describes lack of interest or engagement; it does not guarantee impartiality or a lack of financial stake.
-- **Retain disinterested but remove the praise for attention because the adjective does not itself mean diligent.:** An adjective need not encode every separately supported fact; impartiality is compatible with the documented attentive examination.
+- **Retain 'disinterested' but remove the praise for attention because the adjective does not itself mean 'diligent'.:** An adjective need not encode every separately supported fact; impartiality is compatible with the documented attentive examination.
 - **Keep disinterested here, or use impartial; uninterested would suggest disengagement.:** The context selects freedom from personal interest, not lack of attention. 'Impartial' can make that sense explicit without denying other uses of 'disinterested'.
 
 **Decision:** replaced.
@@ -3145,7 +3145,7 @@ Which paraphrase keeps the qualification and the contrast intact?
 
 - **The report contains no analysis of any kind.:** 'Largely' qualifies the characterization and leaves room for some analysis.
 - **Description predominates; the wording does not exclude every analytical passage.:** The adverb limits the extent of the first characterization, while 'rather than' contrasts the report's main approach.
-- **The report's description has been proved factually inaccurate.:** Descriptive versus analytical concerns what the writing does, not whether its facts are wrong.
+- **The report's description has been proved factually inaccurate.:** 'Descriptive' versus 'analytical' concerns what the writing does, not whether its facts are wrong.
 - **The report presents analysis first and description afterwards.:** The construction contrasts kinds of writing, not their order.
 
 **Decision:** replaced.
@@ -3566,7 +3566,7 @@ Which revision preserves both the evidence domain and the limit on the material 
 - **The presented material supplies no empirical support for the claim.:** The adverb specifies the kind of support, and the following phrase limits the assessment to the supplied material.
 - **The claim is logically impossible under every interpretation.:** Lack of empirical support in specified material does not establish logical impossibility.
 - **No evidence for the claim could exist anywhere.:** This extends a bounded assessment into a universal claim about possible evidence.
-- **The reviewer finds the claim impossible to investigate using observations.:** Unsupported does not mean untestable; the source says nothing about the possibility of investigation.
+- **The reviewer finds the claim impossible to investigate using observations.:** 'Unsupported' does not mean 'untestable'; the source says nothing about the possibility of investigation.
 
 **Decision:** replaced.
 
@@ -3685,7 +3685,7 @@ Which analysis resolves the apparently conflicting adjectives?
 1. Both adjectives independently describe how long this person will hold the post.
 2. Temporary qualifies the appointment; permanent belongs to the established post title. **[Correct]**
 3. The notice changes the role itself from permanent to temporary for all future holders.
-4. Permanent cancels temporary, making the six-week limit figurative.
+4. 'Permanent' cancels 'temporary', making the six-week limit figurative.
 
 **Explanation:** The modifiers operate at different levels, so a temporary holder can occupy a role whose title contains 'permanent'.
 
@@ -3694,7 +3694,7 @@ Which analysis resolves the apparently conflicting adjectives?
 - **Both adjectives independently describe how long this person will hold the post.:** That ignores the supplied fact that 'permanent secretary' is a fixed role title.
 - **Temporary qualifies the appointment; permanent belongs to the established post title.:** The modifiers operate at different levels, so a temporary holder can occupy a role whose title contains 'permanent'.
 - **The notice changes the role itself from permanent to temporary for all future holders.:** The notice concerns this six-week appointment, not a redefinition of the post.
-- **Permanent cancels temporary, making the six-week limit figurative.:** The title word does not cancel the explicit duration of this appointment.
+- **'Permanent' cancels 'temporary', making the six-week limit figurative.:** The title word does not cancel the explicit duration of this appointment.
 
 **Decision:** replaced.
 
@@ -3778,7 +3778,7 @@ A profile says, 'She is a civil engineer, though her replies to colleagues can b
 
 Why do the adjective choices not contradict each other?
 
-1. Civil describes her private behaviour, while uncivil describes her technical competence.
+1. 'Civil' describes her private behaviour, while 'uncivil' describes her technical competence.
 2. The negative adjective cancels her professional qualification.
 3. Both adjectives describe the same behaviour at different historical periods.
 4. Civil identifies an engineering field, while uncivil evaluates interpersonal behaviour. **[Correct]**
@@ -3787,7 +3787,7 @@ Why do the adjective choices not contradict each other?
 
 **Choice feedback:**
 
-- **Civil describes her private behaviour, while uncivil describes her technical competence.:** Neither modifier has those targets in the sentence.
+- **'Civil' describes her private behaviour, while 'uncivil' describes her technical competence.:** Neither modifier has those targets in the sentence.
 - **The negative adjective cancels her professional qualification.:** A criticism of manners does not negate the occupational category.
 - **Both adjectives describe the same behaviour at different historical periods.:** The sentence distinguishes profession from manners, not past from present behaviour.
 - **Civil identifies an engineering field, while uncivil evaluates interpersonal behaviour.:** The adjective inside the occupational term is relational, not a claim of politeness; 'uncivil' is a behavioural evaluation.
@@ -3842,7 +3842,7 @@ An editor requests 'a sufficiently detailed but deliberately non-exhaustive acco
 
 Which response best preserves both qualifications in that request?
 
-1. List every detail, since sufficient detail requires complete coverage.
+1. List every detail, since 'sufficient detail' requires complete coverage.
 2. Give a vague account and let any omissions occur by chance.
 3. Provide enough detail for the chapter's purpose while intentionally leaving some material out. **[Correct]**
 4. Omit the subject's main points so that the account cannot be considered detailed.
@@ -3851,10 +3851,10 @@ Which response best preserves both qualifications in that request?
 
 **Choice feedback:**
 
-- **List every detail, since sufficient detail requires complete coverage.:** Sufficiency is relative to the purpose; the second qualification explicitly rejects exhaustive coverage.
+- **List every detail, since 'sufficient detail' requires complete coverage.:** Sufficiency is relative to the purpose; the second qualification explicitly rejects exhaustive coverage.
 - **Give a vague account and let any omissions occur by chance.:** That loses both the required adequacy and the intentional limit on coverage.
 - **Provide enough detail for the chapter's purpose while intentionally leaving some material out.:** 'Sufficiently' sets a purpose-relative threshold, while 'deliberately' makes non-exhaustiveness a chosen limit rather than an accidental failure.
-- **Omit the subject's main points so that the account cannot be considered detailed.:** Non-exhaustive does not mean inadequate; the first adjective phrase requires enough detail for the purpose.
+- **Omit the subject's main points so that the account cannot be considered detailed.:** 'Non-exhaustive' does not mean 'inadequate'; the first adjective phrase requires enough detail for the purpose.
 
 **Decision:** replaced.
 

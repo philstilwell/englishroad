@@ -88,7 +88,7 @@ Which meaning of 'fast' fits?
 **Choice feedback:**
 
 - **leaving soon:** Soon tells us when a train leaves, not how quickly it travels.
-- **arriving early:** Early compares arrival with an expected time; a fast train can still be late.
+- **arriving early:** 'Early' compares arrival with an expected time; a fast train can still be late.
 - **moving quickly:** 'Fast' describes speed; the train covers the journey in less time.
 - **stopping often:** Frequent stops do not mean high speed and may lengthen the journey.
 
@@ -121,8 +121,8 @@ Which phrase means 'near' here?
 
 - **inside:** The pharmacy is a short walk away, not inside the flat.
 - **close to:** 'Near' means close in distance; the two-minute walk supports this meaning.
-- **far from:** Far from means a long distance away, the opposite of near.
-- **above:** Above describes a higher position; the sentence gives walking distance.
+- **far from:** 'Far from' means a long distance away, the opposite of 'near'.
+- **above:** 'Above' describes a higher position; the sentence gives walking distance.
 
 **Decision:** replaced.
 
@@ -151,9 +151,9 @@ Which word can replace 'begin'?
 
 **Choice feedback:**
 
-- **finish:** Finish means end; you need to be seated before the film starts.
-- **continue:** Continue means go on after something has already started.
-- **pause:** Pause means stop for a short time during an activity.
+- **finish:** 'Finish' means end; you need to be seated before the film starts.
+- **continue:** 'Continue' means go on after something has already started.
+- **pause:** 'Pause' means stop for a short time during an activity.
 - **start:** 'Begin' and 'start' both describe the first point of an activity.
 
 **Decision:** replaced.
@@ -183,10 +183,10 @@ Which word is closest to 'happy'?
 
 **Choice feedback:**
 
-- **worried:** Worried means thinking anxiously about a problem, not feeling pleased.
-- **angry:** Angry describes a feeling of annoyance or upset with someone or something.
+- **worried:** 'Worried' means thinking anxiously about a problem, not feeling pleased.
+- **angry:** 'Angry' describes a feeling of annoyance or upset with someone or something.
 - **pleased:** 'Happy about' something means pleased about it; Eva's smile fits that feeling.
-- **tired:** Tired means needing rest; it does not mean happy.
+- **tired:** 'Tired' means needing rest; it does not mean 'happy'.
 
 **Decision:** replaced.
 
@@ -216,8 +216,8 @@ What does 'sad' mean here?
 **Choice feedback:**
 
 - **not feeling well:** Feeling ill concerns health; the sentence describes an emotion about separation.
-- **very sleepy:** Sleepy means wanting sleep, not missing someone.
-- **very busy:** Busy means having much to do; it does not name this feeling.
+- **very sleepy:** 'Sleepy' means wanting sleep, not missing someone.
+- **very busy:** 'Busy' means having much to do; it does not name this feeling.
 - **unhappy:** 'Sad' means unhappy; Rui's sister leaving causes this feeling.
 
 **Decision:** replaced.
@@ -249,7 +249,7 @@ What does 'clean' mean?
 
 - **not wet:** The plates are still wet, so clean cannot mean dry.
 - **not dirty:** Washing removes dirt. Something can be clean and wet at the same time.
-- **not used:** Used plates can become clean after washing; clean does not mean unused.
+- **not used:** Used plates can become clean after washing; 'clean' does not mean 'unused'.
 - **not broken:** An unbroken plate can be dirty; clean describes the absence of dirt.
 
 **Decision:** replaced.
@@ -280,9 +280,9 @@ What does 'hot' mean in this sentence?
 **Choice feedback:**
 
 - **strong with spices:** The context points to cooling, not a spicy taste.
-- **full of salt:** Salty describes salt content, which hot does not name.
+- **full of salt:** 'Salty' describes salt content, which 'hot' does not name.
 - **high in temperature:** The instruction to let the soup cool selects the temperature meaning of hot.
-- **ready to serve cold:** Cold is the opposite temperature; the soup needs time to cool.
+- **ready to serve cold:** 'Cold' is the opposite temperature; the soup needs time to cool.
 
 **Decision:** replaced.
 
@@ -311,7 +311,7 @@ Which description matches 'brand-new'?
 
 **Choice feedback:**
 
-- **repaired after use:** A repaired toaster has been used; brand-new means unused.
+- **repaired after use:** A repaired toaster has been used; 'brand-new' means unused.
 - **not used before:** 'Brand-new' emphasizes that something is completely new and unused.
 - **used by another owner:** That would be a second-hand toaster, not a brand-new one.
 - **kept for many years:** This describes age or storage time rather than the stated completely new condition.
@@ -345,7 +345,7 @@ What does 'old' tell us?
 
 - **It has existed for a long time.:** 'Old' describes age; the family history shows that the house has existed for many years.
 - **It needs cleaning.:** Age does not tell us whether the house is dirty.
-- **It is unsafe to enter.:** Old does not itself mean unsafe, and the house is in good condition.
+- **It is unsafe to enter.:** 'Old' does not itself mean 'unsafe', and the house is in good condition.
 - **It has no one living in it.:** An empty house has no residents; old does not tell us whether anyone lives there.
 
 **Decision:** replaced.
@@ -376,7 +376,7 @@ What does 'easy to follow' mean?
 **Choice feedback:**
 
 - **not far to travel:** A simple route can still cover a long distance.
-- **not expensive to use:** Cost is not what easy describes here.
+- **not expensive to use:** Cost is not what 'easy' describes here.
 - **not difficult to understand:** Easy directions can be understood and followed without much difficulty.
 - **not quick to walk:** Walking time is separate from how simple the directions are.
 
@@ -409,7 +409,7 @@ What does 'hard' mean here?
 
 - **not soft:** The contrast with the soft middle shows that hard describes the crust's texture.
 - **not fresh:** The bread is explicitly fresh; a hard crust does not mean stale bread.
-- **not warm:** Temperature is different from texture; hard does not mean cold.
+- **not warm:** Temperature is different from texture; 'hard' does not mean 'cold'.
 - **not tasty:** A hard crust can taste good; the word does not judge flavor.
 
 **Decision:** replaced.
@@ -435,14 +435,14 @@ What does 'open' tell you about the cafe?
 3. Every table is free.
 4. Its drinks cost nothing.
 
-**Explanation:** For a cafe, open means operating so customers can use its services.
+**Explanation:** For a cafe, 'open' means operating so customers can use its services.
 
 **Choice feedback:**
 
 - **The entrance door is not shut.:** A cafe can serve customers with its door closed; open here describes the business.
-- **It is serving customers.:** For a cafe, open means operating so customers can use its services.
+- **It is serving customers.:** For a cafe, 'open' means operating so customers can use its services.
 - **Every table is free.:** An open cafe may have occupied tables; open does not mean empty.
-- **Its drinks cost nothing.:** Free means no payment is needed; open does not describe prices.
+- **Its drinks cost nothing.:** 'Free' means no payment is needed; 'open' does not describe prices.
 
 **Decision:** replaced.
 
@@ -467,13 +467,13 @@ Which phrase explains 'late'?
 3. moving very slowly
 4. leaving very soon
 
-**Explanation:** The bus arrives after its planned time; that is the meaning of late here.
+**Explanation:** The bus arrives after its planned time; that is the meaning of 'late' here.
 
 **Choice feedback:**
 
-- **after the expected time:** The bus arrives after its planned time; that is the meaning of late here.
+- **after the expected time:** The bus arrives after its planned time; that is the meaning of 'late' here.
 - **earlier than planned:** That would mean early; the bus arrives after ten.
-- **moving very slowly:** Late compares times. The sentence does not tell us the bus's speed.
+- **moving very slowly:** 'Late' compares times. The sentence does not tell us the bus's speed.
 - **leaving very soon:** Soon concerns time from now, not whether a timetable has been met.
 
 **Decision:** replaced.
@@ -499,14 +499,14 @@ What does 'full' mean?
 3. It has reached the final stop.
 4. It has as many passengers as it can take. **[Correct]**
 
-**Explanation:** Full means there is no space or capacity for more; the next sentence makes that limit clear.
+**Explanation:** 'Full' means there is no space or capacity for more; the next sentence makes that limit clear.
 
 **Choice feedback:**
 
 - **It has no passengers.:** That would describe an empty bus, the opposite of full.
 - **It has stopped working.:** A broken bus cannot run; full describes capacity, not a mechanical fault.
-- **It has reached the final stop.:** Full does not tell us where the bus is on its route.
-- **It has as many passengers as it can take.:** Full means there is no space or capacity for more; the next sentence makes that limit clear.
+- **It has reached the final stop.:** 'Full' does not tell us where the bus is on its route.
+- **It has as many passengers as it can take.:** 'Full' means there is no space or capacity for more; the next sentence makes that limit clear.
 
 **Decision:** replaced.
 
@@ -531,14 +531,14 @@ What does 'empty' mean?
 3. The box cannot be used again.
 4. There is nothing inside. **[Correct]**
 
-**Explanation:** Removing the last book leaves no contents; this is the meaning of empty.
+**Explanation:** Removing the last book leaves no contents; this is the meaning of 'empty'.
 
 **Choice feedback:**
 
 - **The lid is not closed.:** An open box can contain things; empty describes its contents, not its lid.
 - **The box is very light.:** An empty box may still be heavy because of its material; empty does not mean light.
-- **The box cannot be used again.:** Empty does not mean broken or unusable; the box can hold things again.
-- **There is nothing inside.:** Removing the last book leaves no contents; this is the meaning of empty.
+- **The box cannot be used again.:** 'Empty' does not mean broken or unusable; the box can hold things again.
+- **There is nothing inside.:** Removing the last book leaves no contents; this is the meaning of 'empty'.
 
 **Decision:** replaced.
 
@@ -563,14 +563,14 @@ What does she plan to do?
 3. take it back to its owner
 4. pay the neighbor and become its owner **[Correct]**
 
-**Explanation:** Buying means obtaining something by paying for it; a used bicycle can still be bought.
+**Explanation:** 'Buying' means obtaining something by paying for it; a used bicycle can still be bought.
 
 **Choice feedback:**
 
 - **use it and give it back:** That is borrowing; buying transfers ownership in return for payment.
 - **give it to the neighbor for money:** That describes selling the bicycle to the neighbor, reversing the direction.
 - **take it back to its owner:** That describes returning something rather than buying it.
-- **pay the neighbor and become its owner:** Buying means obtaining something by paying for it; a used bicycle can still be bought.
+- **pay the neighbor and become its owner:** 'Buying' means obtaining something by paying for it; a used bicycle can still be bought.
 
 **Decision:** replaced.
 
@@ -595,13 +595,13 @@ What happened when she 'found' them?
 3. She started to look for them.
 4. She left them somewhere else.
 
-**Explanation:** 'Found' is the past form of find; it means she located the missing keys.
+**Explanation:** 'Found' is the past form of 'find'; it means she located the missing keys.
 
 **Choice feedback:**
 
 - **She forgot where they were.:** Forgetting the place would make her need to look again; finding ends this search.
-- **She discovered where they were.:** 'Found' is the past form of find; it means she located the missing keys.
-- **She started to look for them.:** Looking is the search; finding is the successful result.
+- **She discovered where they were.:** 'Found' is the past form of 'find'; it means she located the missing keys.
+- **She started to look for them.:** 'Looking' is the search; 'finding' is the successful result.
 - **She left them somewhere else.:** Moving or leaving the keys elsewhere is not the meaning of finding them.
 
 **Decision:** replaced.
@@ -667,7 +667,7 @@ What will Mina do?
 
 **Choice feedback:**
 
-- **buy another chair instead:** That is replacing the chair; repair means fixing the existing one.
+- **buy another chair instead:** That is replacing the chair; 'repair' means fixing the existing one.
 - **put the chair in a different room:** Moving the chair does not fix its loose leg.
 - **make the damaged part work properly again:** Repairing restores the existing chair so it can be used again.
 - **wash the dirt off the chair:** Cleaning removes dirt; it does not repair the loose leg.
@@ -727,14 +727,14 @@ What does she want you to do on Sunday?
 3. buy it from her
 4. exchange it for another saucepan
 
-**Explanation:** Return a borrowed object means give it back to the person it belongs to.
+**Explanation:** 'Return a borrowed object' means give it back to the person it belongs to.
 
 **Choice feedback:**
 
 - **use it for the first time:** Returning concerns giving it back, not beginning to use it.
-- **give the saucepan back to her:** Return a borrowed object means give it back to the person it belongs to.
+- **give the saucepan back to her:** 'Return a borrowed object' means give it back to the person it belongs to.
 - **buy it from her:** Payment would change the arrangement; the saucepan is a loan.
-- **exchange it for another saucepan:** Exchanging means swapping items, which her note does not request.
+- **exchange it for another saucepan:** 'Exchanging' means swapping items, which her note does not request.
 
 **Decision:** replaced.
 
@@ -759,12 +759,12 @@ What does 'quiet' mean in this description?
 3. closed for the day
 4. with slow service
 
-**Explanation:** Low music and soft speech select the low-noise meaning of quiet.
+**Explanation:** Low music and soft speech select the low-noise meaning of 'quiet'.
 
 **Choice feedback:**
 
-- **without customers:** Every table is occupied, so quiet cannot mean empty of customers here.
-- **with little noise:** Low music and soft speech select the low-noise meaning of quiet.
+- **without customers:** Every table is occupied, so 'quiet' cannot mean empty of customers here.
+- **with little noise:** Low music and soft speech select the low-noise meaning of 'quiet'.
 - **closed for the day:** The customers are using the cafe; quiet does not mean closed.
 - **with slow service:** The description concerns sound, not how quickly customers are served.
 
@@ -791,11 +791,11 @@ What does 'chose' mean?
 3. changed the color of the coat
 4. asked someone else to decide
 
-**Explanation:** Chose is the past form of choose; Nora selected one of the alternatives.
+**Explanation:** 'Chose' is the past form of 'choose'; Nora selected one of the alternatives.
 
 **Choice feedback:**
 
-- **decided which coat she wanted:** Chose is the past form of choose; Nora selected one of the alternatives.
+- **decided which coat she wanted:** 'Chose' is the past form of 'choose'; Nora selected one of the alternatives.
 - **looked at all the options:** That is comparing or considering; choosing is deciding on one.
 - **changed the color of the coat:** Choosing a blue coat does not mean recoloring it.
 - **asked someone else to decide:** The sentence says Nora herself made the choice.
@@ -823,12 +823,12 @@ What does this mean for today's tour?
 3. It will start at a different place.
 4. It will start later today.
 
-**Explanation:** Cancellation means the scheduled event will not happen; the context also rules out a replacement tour.
+**Explanation:** 'Cancellation' means the scheduled event will not happen; the context also rules out a replacement tour.
 
 **Choice feedback:**
 
-- **It will be shorter than advertised.:** Shortening changes the length; cancellation means this tour will not run.
-- **It will not take place.:** Cancellation means the scheduled event will not happen; the context also rules out a replacement tour.
+- **It will be shorter than advertised.:** Shortening changes the length; 'cancellation' means this tour will not run.
+- **It will not take place.:** 'Cancellation' means the scheduled event will not happen; the context also rules out a replacement tour.
 - **It will start at a different place.:** A different starting place would be a route change, not cancellation.
 - **It will start later today.:** A delayed tour still runs; this notice says the tour is cancelled.
 
@@ -855,11 +855,11 @@ What happened on Thursday?
 3. You ordered the things inside the parcel.
 4. Your sister packed the parcel at home.
 
-**Explanation:** Arrive means reach a destination; sending happened earlier on Monday.
+**Explanation:** 'Arrive' means reach a destination; sending happened earlier on Monday.
 
 **Choice feedback:**
 
-- **The parcel reached your house.:** Arrive means reach a destination; sending happened earlier on Monday.
+- **The parcel reached your house.:** 'Arrive' means reach a destination; sending happened earlier on Monday.
 - **Your sister started sending the parcel.:** The parcel was sent on Monday; Thursday is the destination date.
 - **You ordered the things inside the parcel.:** Ordering is requesting goods, not the arrival of a parcel.
 - **Your sister packed the parcel at home.:** Packing prepares it for sending; it does not mean reaching your house.
@@ -983,14 +983,14 @@ What do I need to do?
 3. carry the suitcase from the car
 4. put the things I need into my bag **[Correct]**
 
-**Explanation:** Packing means putting items into a bag or other container ready for travel or storage.
+**Explanation:** 'Packing' means putting items into a bag or other container ready for travel or storage.
 
 **Choice feedback:**
 
 - **take everything out of my suitcase:** That is unpacking, the opposite direction from preparing to leave.
 - **wash the clothes for the trip:** Washing cleans clothes; packing puts the needed things into luggage.
 - **carry the suitcase from the car:** Carrying moves luggage, but the clothes still need to go inside it.
-- **put the things I need into my bag:** Packing means putting items into a bag or other container ready for travel or storage.
+- **put the things I need into my bag:** 'Packing' means putting items into a bag or other container ready for travel or storage.
 
 **Decision:** replaced.
 
@@ -1015,11 +1015,11 @@ What does 'moving' mean here?
 3. making our present flat larger
 4. visiting a friend in another flat
 
-**Explanation:** With a new flat as context, moving means changing home.
+**Explanation:** With a new flat as context, 'moving' means changing home.
 
 **Choice feedback:**
 
-- **changing where we live:** With a new flat as context, moving means changing home.
+- **changing where we live:** With a new flat as context, 'moving' means changing home.
 - **travelling around town for a day:** A day's travel does not involve taking up residence in a new flat.
 - **making our present flat larger:** That would be extending or altering the current home, not going to a new one.
 - **visiting a friend in another flat:** A visit is temporary and does not itself mean changing home.
@@ -1047,14 +1047,14 @@ What did we do while we 'waited'?
 3. went inside before the doors opened
 4. asked to change the opening time
 
-**Explanation:** Waiting means remaining until the expected event happens; here that event is the doors opening.
+**Explanation:** 'Waiting' means remaining until the expected event happens; here that event is the doors opening.
 
 **Choice feedback:**
 
 - **walked away without coming back:** That would mean leaving, not staying for the opening.
-- **stayed there until we could enter:** Waiting means remaining until the expected event happens; here that event is the doors opening.
+- **stayed there until we could enter:** 'Waiting' means remaining until the expected event happens; here that event is the doors opening.
 - **went inside before the doors opened:** The sentence locates the waiting outside, before entry was possible.
-- **asked to change the opening time:** Waiting does not mean requesting a different schedule.
+- **asked to change the opening time:** 'Waiting' does not mean requesting a different schedule.
 
 **Decision:** replaced.
 
@@ -1079,14 +1079,14 @@ What does 'enough' tell us?
 3. Everyone can have a chair. **[Correct]**
 4. The chairs are all the same size.
 
-**Explanation:** Enough means sufficient for the need; having more than six still counts as enough.
+**Explanation:** 'Enough' means sufficient for the need; having more than six still counts as enough.
 
 **Choice feedback:**
 
 - **There are exactly as many as people.:** There are eight chairs and six people; enough does not require an exact match.
 - **There are fewer than we need.:** That would mean not enough, but everyone can have a chair.
-- **Everyone can have a chair.:** Enough means sufficient for the need; having more than six still counts as enough.
-- **The chairs are all the same size.:** Enough concerns quantity relative to need, not matching dimensions.
+- **Everyone can have a chair.:** 'Enough' means sufficient for the need; having more than six still counts as enough.
+- **The chairs are all the same size.:** 'Enough' concerns quantity relative to need, not matching dimensions.
 
 **Decision:** replaced.
 
@@ -1111,14 +1111,14 @@ What does 'early' mean here?
 3. soon after it began
 4. before the expected finishing time **[Correct]**
 
-**Explanation:** Early describes the finish as earlier than planned, regardless of when the concert began.
+**Explanation:** 'Early' describes the finish as earlier than planned, regardless of when the concert began.
 
 **Choice feedback:**
 
 - **at the planned finishing time:** That would mean on time; the concert finished before ten.
 - **after the audience expected:** That would mean late, the opposite of this timing.
-- **soon after it began:** We do not know the starting time; early compares the finish with the expected finish.
-- **before the expected finishing time:** Early describes the finish as earlier than planned, regardless of when the concert began.
+- **soon after it began:** We do not know the starting time; 'early' compares the finish with the expected finish.
+- **before the expected finishing time:** 'Early' describes the finish as earlier than planned, regardless of when the concert began.
 
 **Decision:** replaced.
 
@@ -1143,14 +1143,14 @@ What does 'busy' mean here?
 3. working unusually quickly
 4. occupied with things to do **[Correct]**
 
-**Explanation:** Busy means engaged in activities that take up time and attention.
+**Explanation:** 'Busy' means engaged in activities that take up time and attention.
 
 **Choice feedback:**
 
 - **unable to hear you clearly:** That would concern hearing; the speaker gives tasks as the reason for being unavailable.
 - **not interested in joining you:** Being busy explains current activity; it does not necessarily express lack of interest.
 - **working unusually quickly:** A busy person has things to do but may do them slowly or quickly.
-- **occupied with things to do:** Busy means engaged in activities that take up time and attention.
+- **occupied with things to do:** 'Busy' means engaged in activities that take up time and attention.
 
 **Decision:** replaced.
 
@@ -1175,14 +1175,14 @@ What does 'safe' mean in this instruction?
 3. protected from likely damage **[Correct]**
 4. fixed permanently to the shelf
 
-**Explanation:** The following clause identifies the danger: being knocked over. Safe means protected from that danger.
+**Explanation:** The following clause identifies the danger: being knocked over. 'Safe' means protected from that danger.
 
 **Choice feedback:**
 
 - **easy for anyone to reach:** Easy access does not guarantee the dishes are protected from being knocked over.
 - **hidden from everyone's view:** A hidden place can still expose dishes to damage; hiding is not the meaning of safe.
-- **protected from likely damage:** The following clause identifies the danger: being knocked over. Safe means protected from that danger.
-- **fixed permanently to the shelf:** Safe describes protection; it does not require fastening the dishes permanently.
+- **protected from likely damage:** The following clause identifies the danger: being knocked over. 'Safe' means protected from that danger.
+- **fixed permanently to the shelf:** 'Safe' describes protection; it does not require fastening the dishes permanently.
 
 **Decision:** replaced.
 
@@ -1239,13 +1239,13 @@ What does 'different' describe?
 3. The days do not match. **[Correct]**
 4. One person works more quickly.
 
-**Explanation:** Different means not the same; the listed days show the two schedules differ.
+**Explanation:** 'Different' means not the same; the listed days show the two schedules differ.
 
 **Choice feedback:**
 
 - **One set of days is incorrect.:** Different schedules can both be correct; difference does not mean error.
 - **Both schedules change each week.:** The sentence lists differing schedules but does not say either one changes weekly.
-- **The days do not match.:** Different means not the same; the listed days show the two schedules differ.
+- **The days do not match.:** 'Different' means not the same; the listed days show the two schedules differ.
 - **One person works more quickly.:** Working days concern when someone works, not their speed.
 
 **Decision:** replaced.
@@ -1271,14 +1271,14 @@ What does 'usually' mean here?
 3. at a time earlier than planned
 4. on most days **[Correct]**
 
-**Explanation:** Usually means most of the time; the Sunday exception is compatible with that pattern.
+**Explanation:** 'Usually' means most of the time; the Sunday exception is compatible with that pattern.
 
 **Choice feedback:**
 
-- **at an unknown time each day:** Usually describes a normal pattern, not completely unpredictable timing.
+- **at an unknown time each day:** 'Usually' describes a normal pattern, not completely unpredictable timing.
 - **for the first time today:** First-time opening would describe a new event, not a regular habit.
-- **at a time earlier than planned:** Earlier than planned means early; usually describes frequency.
-- **on most days:** Usually means most of the time; the Sunday exception is compatible with that pattern.
+- **at a time earlier than planned:** 'Earlier than planned' means 'early'; 'usually' describes frequency.
+- **on most days:** 'Usually' means most of the time; the Sunday exception is compatible with that pattern.
 
 **Decision:** replaced.
 
@@ -1345,7 +1345,7 @@ What does 'improved' mean here?
 
 - **made better:** Here improve has an object: the lamp made the lighting better.
 - **became better:** The lamp did not become better; it caused the lighting to improve.
-- **made brighter than necessary:** Improved does not mean the lighting became excessive.
+- **made brighter than necessary:** 'Improved' does not mean the lighting became excessive.
 - **kept exactly the same:** Reading became easier, so the lighting did change.
 
 **Decision:** replaced.
@@ -1371,14 +1371,14 @@ Which verb expresses this necessity? 'The walk ___ a torch.'
 3. requires **[Correct]**
 4. supplies
 
-**Explanation:** Requires means needs as a necessary condition; walkers cannot join without a torch.
+**Explanation:** 'Requires' means needs as a necessary condition; walkers cannot join without a torch.
 
 **Choice feedback:**
 
 - **recommends:** Recommending suggests something desirable, not necessary for participation.
 - **permits:** Permitting allows a torch but does not require one.
-- **requires:** Requires means needs as a necessary condition; walkers cannot join without a torch.
-- **supplies:** Supplying would mean the organizer provides the torch.
+- **requires:** 'Requires' means needs as a necessary condition; walkers cannot join without a torch.
+- **supplies:** 'Supplying' would mean the organizer provides the torch.
 
 **Decision:** replaced.
 
@@ -1403,13 +1403,13 @@ What does 'allow' mean here?
 3. set aside that amount of time **[Correct]**
 4. make the walk last exactly twenty minutes
 
-**Explanation:** Allowing time means including it in your plans, often with some extra space for delays.
+**Explanation:** 'Allowing time' means including it in your plans, often with some extra space for delays.
 
 **Choice feedback:**
 
 - **ask someone for permission:** The instruction concerns planning time, not permission.
 - **wait twenty minutes before leaving:** The twenty minutes are for the walk itself, not a wait beforehand.
-- **set aside that amount of time:** Allowing time means including it in your plans, often with some extra space for delays.
+- **set aside that amount of time:** 'Allowing time' means including it in your plans, often with some extra space for delays.
 - **make the walk last exactly twenty minutes:** The instruction does not require deliberately slowing down to match an exact duration.
 
 **Decision:** replaced.
@@ -1435,14 +1435,14 @@ What am I trying to do?
 3. wait until the traffic disappears
 4. find a way not to use the main road **[Correct]**
 
-**Explanation:** Avoiding something means keeping away from it or preventing contact; this route bypasses it.
+**Explanation:** 'Avoiding something' means keeping away from it or preventing contact; this route bypasses it.
 
 **Choice feedback:**
 
 - **make the main road quieter:** Avoiding the road does not change its noise.
 - **reach the main road sooner:** The speaker chooses another street to stay away from it.
 - **wait until the traffic disappears:** Taking a side street is a route choice, not waiting.
-- **find a way not to use the main road:** Avoiding something means keeping away from it or preventing contact; this route bypasses it.
+- **find a way not to use the main road:** 'Avoiding something' means keeping away from it or preventing contact; this route bypasses it.
 
 **Decision:** replaced.
 
@@ -1537,7 +1537,7 @@ What does 'includes' tell you?
 
 - **Garden entry must be bought separately.:** The sentence explicitly rules out an extra payment.
 - **Garden entry is part of what the ticket covers.:** If a ticket includes an activity, that activity is covered by the ticket price.
-- **Garden entry is available only on another day.:** Includes does not establish a different visiting day.
+- **Garden entry is available only on another day.:** 'Includes' does not establish a different visiting day.
 - **The ticket costs less if you skip the garden.:** An included activity does not imply a refund for not using it.
 
 **Decision:** replaced.
@@ -1563,12 +1563,12 @@ Which statement preserves the meaning?
 3. The new charge is 50 euros.
 4. The charge stayed at 30 euros.
 
-**Explanation:** Reduce means make smaller; 'to 20' gives the resulting charge.
+**Explanation:** 'Reduce' means make smaller; 'to 20' gives the resulting charge.
 
 **Choice feedback:**
 
 - **The new charge is 10 euros.:** Ten euros is the amount removed, not the new charge.
-- **The charge became lower, at 20 euros.:** Reduce means make smaller; 'to 20' gives the resulting charge.
+- **The charge became lower, at 20 euros.:** 'Reduce' means make smaller; 'to 20' gives the resulting charge.
 - **The new charge is 50 euros.:** That adds the two amounts instead of following the change from 30 to 20.
 - **The charge stayed at 30 euros.:** The verb reduced states that the charge changed downward.
 
@@ -1627,12 +1627,12 @@ What do the brackets do?
 3. cover the books to keep off dust
 4. move the shelf along the wall
 
-**Explanation:** Support can mean physically bear weight, not only help a person.
+**Explanation:** 'Support' can mean physically bear weight, not only help a person.
 
 **Choice feedback:**
 
 - **make the shelf look attractive:** Decoration is not the physical supporting function.
-- **hold the shelf and its weight up:** Support can mean physically bear weight, not only help a person.
+- **hold the shelf and its weight up:** 'Support' can mean physically bear weight, not only help a person.
 - **cover the books to keep off dust:** A cover protects from dust; brackets bear weight.
 - **move the shelf along the wall:** Supporting keeps it up rather than moving it.
 
@@ -1659,12 +1659,12 @@ What does 'remained damp' mean?
 3. became completely dry
 4. were taken indoors while wet
 
-**Explanation:** Remaining damp means continuing to be damp despite the time passing.
+**Explanation:** 'Remaining damp' means continuing to be damp despite the time passing.
 
 **Choice feedback:**
 
-- **were still slightly wet:** Remaining damp means continuing to be damp despite the time passing.
-- **became wet for the first time:** Remain means continue in a state, not enter it for the first time.
+- **were still slightly wet:** 'Remaining damp' means continuing to be damp despite the time passing.
+- **became wet for the first time:** 'Remain' means continue in a state, not enter it for the first time.
 - **became completely dry:** That would end the damp state.
 - **were taken indoors while wet:** The phrase describes their condition, not a change of location.
 
@@ -1691,13 +1691,13 @@ What will I do?
 3. put several parcels into one box
 4. ask the sender to cancel the order
 
-**Explanation:** Collecting a waiting parcel means going to get it, even when there is only one item.
+**Explanation:** 'Collecting a waiting parcel' means going to get it, even when there is only one item.
 
 **Choice feedback:**
 
 - **send it to another address:** Sending moves it onward; collection retrieves it.
-- **go there and pick it up:** Collecting a waiting parcel means going to get it, even when there is only one item.
-- **put several parcels into one box:** Collect can mean gather, but here it means retrieve the single waiting parcel.
+- **go there and pick it up:** 'Collecting a waiting parcel' means going to get it, even when there is only one item.
+- **put several parcels into one box:** 'Collect' can mean gather, but here it means retrieve the single waiting parcel.
 - **ask the sender to cancel the order:** Collection completes receipt rather than cancelling it.
 
 **Decision:** replaced.
@@ -1723,11 +1723,11 @@ Which phrase can replace 'provides towels'?
 3. teaches guests how to wash towels
 4. allows guests to bring towels
 
-**Explanation:** Provide means supply something for use; the guests therefore need not bring it.
+**Explanation:** 'Provide' means supply something for use; the guests therefore need not bring it.
 
 **Choice feedback:**
 
-- **makes towels available to guests:** Provide means supply something for use; the guests therefore need not bring it.
+- **makes towels available to guests:** 'Provide' means supply something for use; the guests therefore need not bring it.
 - **asks guests for towels:** That reverses who supplies the towels.
 - **teaches guests how to wash towels:** Instructions about washing are not the supplied items themselves.
 - **allows guests to bring towels:** Permission to bring your own is different from supplying them.
@@ -1787,12 +1787,12 @@ What happened when I 'noticed' the crack?
 3. I accidentally made it.
 4. I decided to repair it.
 
-**Explanation:** Notice means see or become aware of something, before any decision to tell someone.
+**Explanation:** 'Notice' means see or become aware of something, before any decision to tell someone.
 
 **Choice feedback:**
 
-- **I told my housemate about it.:** Telling is the later action; noticing is becoming aware.
-- **I became aware that it was there.:** Notice means see or become aware of something, before any decision to tell someone.
+- **I told my housemate about it.:** 'Telling' is the later action; 'noticing' is becoming aware.
+- **I became aware that it was there.:** 'Notice' means see or become aware of something, before any decision to tell someone.
 - **I accidentally made it.:** Noticing a crack does not mean causing it.
 - **I decided to repair it.:** Noticing identifies the problem; it does not itself mean deciding on a repair.
 
@@ -1819,14 +1819,14 @@ What does 'depends on' express?
 3. We have already decided the weather will improve.
 4. Our choice is affected by the weather. **[Correct]**
 
-**Explanation:** Depends on identifies a factor that determines or influences the outcome.
+**Explanation:** 'Depends on' identifies a factor that determines or influences the outcome.
 
 **Choice feedback:**
 
 - **The weather is caused by our choice.:** That reverses the relationship; weather affects the choice.
 - **We will eat outside in any weather.:** The dry-weather condition rules out an unconditional plan.
 - **We have already decided the weather will improve.:** The sentence gives a condition, not a forecast of improvement.
-- **Our choice is affected by the weather.:** Depends on identifies a factor that determines or influences the outcome.
+- **Our choice is affected by the weather.:** 'Depends on' identifies a factor that determines or influences the outcome.
 
 **Decision:** replaced.
 
@@ -1883,11 +1883,11 @@ What was the purpose of the paper?
 3. to make them easier to see
 4. to stop them being used again
 
-**Explanation:** Protecting means helping keep something safe from harm; the wrapping cushions the glasses.
+**Explanation:** 'Protecting' means helping keep something safe from harm; the wrapping cushions the glasses.
 
 **Choice feedback:**
 
-- **to reduce the risk of damage:** Protecting means helping keep something safe from harm; the wrapping cushions the glasses.
+- **to reduce the risk of damage:** 'Protecting' means helping keep something safe from harm; the wrapping cushions the glasses.
 - **to repair glasses already broken:** Wrapping does not repair existing breakage.
 - **to make them easier to see:** Paper covers the glasses; visibility is not the stated purpose.
 - **to stop them being used again:** Protection during transport does not mean permanent removal from use.
@@ -1951,14 +1951,14 @@ What does 'brief' describe, without implying that the conversation was poor?
 3. its uncertain accuracy
 4. its short duration **[Correct]**
 
-**Explanation:** Brief means short in time or length; a short conversation can still achieve its purpose.
+**Explanation:** 'Brief' means short in time or length; a short conversation can still achieve its purpose.
 
 **Choice feedback:**
 
 - **its lack of useful information:** The speakers settled a date; brevity does not mean their exchange lacked useful content.
 - **its unfriendly delivery:** An abrupt tone can be unfriendly; brief concerns length rather than attitude.
 - **its uncertain accuracy:** A short conversation can be accurate; brief does not assess truth.
-- **its short duration:** Brief means short in time or length; a short conversation can still achieve its purpose.
+- **its short duration:** 'Brief' means short in time or length; a short conversation can still achieve its purpose.
 
 **Decision:** replaced.
 
@@ -1983,12 +1983,12 @@ What quality is being praised?
 3. its ability to change speed quickly
 4. its unusual appearance
 
-**Explanation:** Reliable means it can be depended on to work as expected, without implying that failure is impossible.
+**Explanation:** 'Reliable' means it can be depended on to work as expected, without implying that failure is impossible.
 
 **Choice feedback:**
 
 - **its high resale value:** Reliable does not tell us what it would sell for.
-- **its dependable performance:** Reliable means it can be depended on to work as expected, without implying that failure is impossible.
+- **its dependable performance:** 'Reliable' means it can be depended on to work as expected, without implying that failure is impossible.
 - **its ability to change speed quickly:** Acceleration is different from dependable operation.
 - **its unusual appearance:** The sentence explicitly separates reliability from style.
 
@@ -2054,7 +2054,7 @@ What makes the arrangements 'complex'?
 - **They have already taken a long time.:** Complexity concerns interacting parts; elapsed time alone does not establish it.
 - **They cost more than the family can pay.:** Different budgets complicate planning, but the sentence does not say the trip is unaffordable.
 - **They involve several connected factors to coordinate.:** Complex arrangements have interrelated parts, so changing one factor can affect others.
-- **They are impossible to complete successfully.:** Complex does not mean impossible; difficult coordination can succeed.
+- **They are impossible to complete successfully.:** 'Complex' does not mean 'impossible'; difficult coordination can succeed.
 
 **Decision:** replaced.
 
@@ -2079,12 +2079,12 @@ What can 'available' tell us here?
 3. It is close to the town center.
 4. The owner has reserved it for us.
 
-**Explanation:** Available means not already committed or otherwise unavailable for the intended use; payment is a separate matter.
+**Explanation:** 'Available' means not already committed or otherwise unavailable for the intended use; payment is a separate matter.
 
 **Choice feedback:**
 
-- **It is free to be booked for those dates.:** Available means not already committed or otherwise unavailable for the intended use; payment is a separate matter.
-- **We can stay there without paying.:** Available does not mean free of charge; no price has been given.
+- **It is free to be booked for those dates.:** 'Available' means not already committed or otherwise unavailable for the intended use; payment is a separate matter.
+- **We can stay there without paying.:** 'Available' does not mean free of charge; no price has been given.
 - **It is close to the town center.:** Availability does not describe location.
 - **The owner has reserved it for us.:** An apartment can be available without a booking having been made.
 
@@ -2149,7 +2149,7 @@ What does 'flexible' mean here?
 
 - **not remembered accurately:** Flexibility concerns willingness or ability to adjust, not poor memory.
 - **free from any cost:** Flexible dates can still involve travel costs.
-- **already changed without our agreement:** Flexible does not report a change already imposed by someone else.
+- **already changed without our agreement:** 'Flexible' does not report a change already imposed by someone else.
 - **able to be adjusted to suit circumstances:** The alternative days show that the timing can change to fit the available flights.
 
 **Decision:** replaced.
@@ -2179,7 +2179,7 @@ What is limited?
 
 **Choice feedback:**
 
-- **the time each cup can be used:** Supply refers to the number available, not the cups' lifespan.
+- **the time each cup can be used:** 'Supply' refers to the number available, not the cups' lifespan.
 - **the number of colors on each cup:** The sentence concerns the supply of blue cups, not their decoration.
 - **the period during which the shop is open:** Opening hours are different from supply levels.
 - **the number currently available:** A limited supply means availability is restricted in quantity; the twelve remaining cups illustrate it.
@@ -2239,11 +2239,11 @@ Which statement follows from 'optional extra'?
 3. Guests must pay for it even if they do not eat.
 4. Breakfast is available only when staff choose to serve it.
 
-**Explanation:** Optional means not compulsory; extra indicates it is additional to the basic package.
+**Explanation:** 'Optional' means not compulsory; 'extra' indicates it is additional to the basic package.
 
 **Choice feedback:**
 
-- **Guests may choose it and pay the additional charge.:** Optional means not compulsory; extra indicates it is additional to the basic package.
+- **Guests may choose it and pay the additional charge.:** 'Optional' means not compulsory; 'extra' indicates it is additional to the basic package.
 - **Breakfast is included in the room price.:** An extra with a stated price is not included in the basic room charge.
 - **Guests must pay for it even if they do not eat.:** That contradicts its being optional.
 - **Breakfast is available only when staff choose to serve it.:** Optional here concerns the guest's choice, not an unpredictable staff decision.
@@ -2303,14 +2303,14 @@ Which address does 'current' refer to?
 3. the place I plan to move to next year
 4. the address where I lived longest
 
-**Explanation:** Current means applicable at the present time, even if the arrangement is temporary.
+**Explanation:** 'Current' means applicable at the present time, even if the arrangement is temporary.
 
 **Choice feedback:**
 
-- **the place where I live now:** Current means applicable at the present time, even if the arrangement is temporary.
+- **the place where I live now:** 'Current' means applicable at the present time, even if the arrangement is temporary.
 - **the home my family owns:** Ownership does not determine where I currently live.
 - **the place I plan to move to next year:** A future address is not current yet.
-- **the address where I lived longest:** Duration in the past does not make an address current.
+- **the address where I lived longest:** Duration in the past does not make an address 'current'.
 
 **Decision:** replaced.
 
@@ -2335,14 +2335,14 @@ What is the scope of 'entire' here?
 3. We share rooms on the upper floor with the other family.
 4. We occupy the upper floor for the whole year.
 
-**Explanation:** Entire means whole, but its scope is the specified floor, leaving the ground floor outside it.
+**Explanation:** 'Entire' means whole, but its scope is the specified floor, leaving the ground floor outside it.
 
 **Choice feedback:**
 
-- **The whole house is ours to use.:** Entire modifies upper floor, not the house as a whole.
-- **All of the upper floor is rented by us.:** Entire means whole, but its scope is the specified floor, leaving the ground floor outside it.
+- **The whole house is ours to use.:** 'Entire' modifies 'upper floor', not the house as a whole.
+- **All of the upper floor is rented by us.:** 'Entire' means whole, but its scope is the specified floor, leaving the ground floor outside it.
 - **We share rooms on the upper floor with the other family.:** Renting the entire upper floor gives us that whole floor in this arrangement.
-- **We occupy the upper floor for the whole year.:** Entire describes the space rented, not the length of the rental.
+- **We occupy the upper floor for the whole year.:** 'Entire' describes the space rented, not the length of the rental.
 
 **Decision:** replaced.
 
@@ -2399,12 +2399,12 @@ Which pair best preserves the contrast?
 3. cause / result
 4. requirement / choice
 
-**Explanation:** A benefit is a positive feature or result; a drawback is a disadvantage.
+**Explanation:** A 'benefit' is a positive feature or result; a 'drawback' is a disadvantage.
 
 **Choice feedback:**
 
 - **rule / exception:** These are evaluated effects, not a rule and an unusual case.
-- **advantage / disadvantage:** A benefit is a positive feature or result; a drawback is a disadvantage.
+- **advantage / disadvantage:** A 'benefit' is a positive feature or result; a 'drawback' is a disadvantage.
 - **cause / result:** The short commute does not cause the morning noise.
 - **requirement / choice:** Neither feature is being described as an obligation or a decision.
 
@@ -2495,13 +2495,13 @@ What does that description imply?
 3. It helps for now without fixing the underlying fault. **[Correct]**
 4. It explains what originally caused the leak.
 
-**Explanation:** Temporary solution can mean an interim way to manage a problem, not a permanent repair.
+**Explanation:** 'Temporary solution' can mean an interim way to manage a problem, not a permanent repair.
 
 **Choice feedback:**
 
 - **It has permanently stopped the leak.:** The tap still needs repair, so the underlying leak remains.
-- **It cannot provide any useful help.:** Temporary does not mean useless; the bucket can contain the water for now.
-- **It helps for now without fixing the underlying fault.:** Temporary solution can mean an interim way to manage a problem, not a permanent repair.
+- **It cannot provide any useful help.:** 'Temporary' does not mean 'useless'; the bucket can contain the water for now.
+- **It helps for now without fixing the underlying fault.:** 'Temporary solution' can mean an interim way to manage a problem, not a permanent repair.
 - **It explains what originally caused the leak.:** A solution addresses a problem; it need not explain its cause.
 
 **Decision:** replaced.
@@ -2595,13 +2595,13 @@ Which interpretation of 'reluctant' fits the whole sentence?
 3. I felt unwilling at first, although I later agreed. **[Correct]**
 4. I did not understand what lending involved.
 
-**Explanation:** Reluctant expresses resistance or unwillingness; it does not imply a final refusal.
+**Explanation:** 'Reluctant' expresses resistance or unwillingness; it does not imply a final refusal.
 
 **Choice feedback:**
 
 - **I lacked the ability to lend it.:** Reluctance concerns willingness, not whether lending was possible.
 - **I accepted immediately but later regretted it.:** That reverses the sequence: reluctance preceded agreement.
-- **I felt unwilling at first, although I later agreed.:** Reluctant expresses resistance or unwillingness; it does not imply a final refusal.
+- **I felt unwilling at first, although I later agreed.:** 'Reluctant' expresses resistance or unwillingness; it does not imply a final refusal.
 - **I did not understand what lending involved.:** The sentence describes a reservation, not ignorance of the arrangement.
 
 **Decision:** replaced.
@@ -2631,8 +2631,8 @@ Which description best captures 'subtle' here?
 
 **Choice feedback:**
 
-- **so weak that nobody can detect it:** Subtle does not mean undetectable; the sentence says it can be noticed.
-- **so unusual that the ingredients are unrecognizable:** Subtle describes restrained intensity, not strangeness.
+- **so weak that nobody can detect it:** 'Subtle' does not mean 'undetectable'; the sentence says it can be noticed.
+- **so unusual that the ingredients are unrecognizable:** 'Subtle' describes restrained intensity, not strangeness.
 - **unpleasant despite being carefully concealed:** The adjective does not judge the flavor unpleasant or deliberately hidden.
 - **mild and not immediately prominent:** A subtle flavor is delicate or understated while remaining perceptible.
 
@@ -2664,8 +2664,8 @@ What kind of breakfast did we want?
 **Choice feedback:**
 
 - **one large and filling enough to sustain us:** A substantial meal is satisfying in amount or substance; the contrast with toast selects this everyday sense.
-- **one presented in an especially elegant way:** Presentation is not what substantial describes here.
-- **one containing only solid food:** Substantial does not mean liquids are excluded.
+- **one presented in an especially elegant way:** Presentation is not what 'substantial' describes here.
+- **one containing only solid food:** 'Substantial' does not mean liquids are excluded.
 - **one prepared from unusually expensive ingredients:** Cost is separate from how filling the meal is.
 
 **Decision:** replaced.
@@ -2686,19 +2686,19 @@ The family has spent eighteen months in temporary accommodation while its home i
 
 Why can 'temporary' still describe an arrangement lasting eighteen months?
 
-1. Temporary means the place is unsuitable for living in.
+1. 'Temporary' means the place is unsuitable for living in.
 2. The arrangement is intended to end, rather than be permanent. **[Correct]**
-3. Temporary means the family does not pay rent.
-4. Temporary means the end date has already passed.
+3. 'Temporary' means the family does not pay rent.
+4. 'Temporary' means the end date has already passed.
 
-**Explanation:** Temporary contrasts with permanent; it does not impose a fixed short duration in every situation.
+**Explanation:** 'Temporary' contrasts with 'permanent'; it does not impose a fixed short duration in every situation.
 
 **Choice feedback:**
 
-- **Temporary means the place is unsuitable for living in.:** Temporary concerns intended duration, not habitability.
-- **The arrangement is intended to end, rather than be permanent.:** Temporary contrasts with permanent; it does not impose a fixed short duration in every situation.
-- **Temporary means the family does not pay rent.:** The word does not specify cost or ownership.
-- **Temporary means the end date has already passed.:** It does not mean overdue or expired.
+- **'Temporary' means the place is unsuitable for living in.:** 'Temporary' concerns intended duration, not habitability.
+- **The arrangement is intended to end, rather than be permanent.:** 'Temporary' contrasts with 'permanent'; it does not impose a fixed short duration in every situation.
+- **'Temporary' means the family does not pay rent.:** The word does not specify cost or ownership.
+- **'Temporary' means the end date has already passed.:** It does not mean overdue or expired.
 
 **Decision:** replaced.
 
@@ -2723,14 +2723,14 @@ What is consistent according to this description?
 3. her refusal to try new methods
 4. the dependable quality of the results **[Correct]**
 
-**Explanation:** Consistently good means the quality stays reliably high, not that every feature is identical.
+**Explanation:** 'Consistently good' means the quality stays reliably high, not that every feature is identical.
 
 **Choice feedback:**
 
 - **the exact ingredients she uses:** The recipe varies, so the ingredients need not be identical.
 - **the exact size of every loaf:** No claim about size is made.
 - **her refusal to try new methods:** Varying recipes contradicts an assumed refusal to experiment.
-- **the dependable quality of the results:** Consistently good means the quality stays reliably high, not that every feature is identical.
+- **the dependable quality of the results:** 'Consistently good' means the quality stays reliably high, not that every feature is identical.
 
 **Decision:** replaced.
 
@@ -2755,11 +2755,11 @@ Which description best matches my feelings?
 3. I feel equally uninterested in either place.
 4. I have decided that the move is undesirable.
 
-**Explanation:** Ambivalent means experiencing conflicting feelings, not simply knowing too little to decide.
+**Explanation:** 'Ambivalent' means experiencing conflicting feelings, not simply knowing too little to decide.
 
 **Choice feedback:**
 
-- **I have both positive and negative feelings about it.:** Ambivalent means experiencing conflicting feelings, not simply knowing too little to decide.
+- **I have both positive and negative feelings about it.:** 'Ambivalent' means experiencing conflicting feelings, not simply knowing too little to decide.
 - **I have not considered the move at all.:** The speaker identifies both attraction and loss, showing active consideration.
 - **I feel equally uninterested in either place.:** Indifference is lack of concern; the speaker cares about both places.
 - **I have decided that the move is undesirable.:** The positive attraction remains; ambivalence does not imply a settled rejection.
@@ -2787,13 +2787,13 @@ What quality does 'resourceful' praise?
 3. finding practical solutions with what is available **[Correct]**
 4. accepting the situation without trying to change it
 
-**Explanation:** Resourceful describes the ability to respond inventively and effectively to a difficulty.
+**Explanation:** 'Resourceful' describes the ability to respond inventively and effectively to a difficulty.
 
 **Choice feedback:**
 
 - **having more equipment than other people:** The solution comes from inventive use of limited materials, not abundance.
 - **following instructions exactly as written:** She improvised rather than following a stated procedure.
-- **finding practical solutions with what is available:** Resourceful describes the ability to respond inventively and effectively to a difficulty.
+- **finding practical solutions with what is available:** 'Resourceful' describes the ability to respond inventively and effectively to a difficulty.
 - **accepting the situation without trying to change it:** She acted to solve the problem instead of merely accepting it.
 
 **Decision:** replaced.
@@ -2819,13 +2819,13 @@ What does 'redundant' mean in their assessment?
 3. rare and therefore worth keeping
 4. needed as the primary way to enter
 
-**Explanation:** Redundant can mean unnecessary because another means now performs the function; literal repetition is not required.
+**Explanation:** 'Redundant' can mean unnecessary because another means now performs the function; literal repetition is not required.
 
 **Choice feedback:**
 
 - **damaged beyond repair:** A card can be redundant while still physically intact.
-- **no longer needed for their purpose:** Redundant can mean unnecessary because another means now performs the function; literal repetition is not required.
-- **rare and therefore worth keeping:** Rarity or collectible value is not the meaning of redundant.
+- **no longer needed for their purpose:** 'Redundant' can mean unnecessary because another means now performs the function; literal repetition is not required.
+- **rare and therefore worth keeping:** Rarity or collectible value is not the meaning of 'redundant'.
 - **needed as the primary way to enter:** That contradicts the residents' assessment that the phone system replaces their function.
 
 **Decision:** replaced.
@@ -2851,14 +2851,14 @@ What does 'make out' mean in this context?
 3. explain why the sender chose that address
 4. decipher the address with difficulty **[Correct]**
 
-**Explanation:** Make out can mean distinguish or understand something barely perceptible; the faded writing provides that context.
+**Explanation:** 'Make out' can mean distinguish or understand something barely perceptible; the faded writing provides that context.
 
 **Choice feedback:**
 
-- **invent a likely address:** Making out the writing means deciphering it, not fabricating missing information.
+- **invent a likely address:** 'Making out the writing' means deciphering it, not fabricating missing information.
 - **rewrite the address more neatly:** The action is reading what is there, not rewriting it.
 - **explain why the sender chose that address:** The phrase concerns reading the marks, not the sender's reasons.
-- **decipher the address with difficulty:** Make out can mean distinguish or understand something barely perceptible; the faded writing provides that context.
+- **decipher the address with difficulty:** 'Make out' can mean distinguish or understand something barely perceptible; the faded writing provides that context.
 
 **Decision:** replaced.
 
@@ -2883,11 +2883,11 @@ What had I done before the failure?
 3. deliberately avoided using it
 4. checked its availability with unusual care
 
-**Explanation:** Taking something for granted means treating it as a normal, dependable part of life, often without noticing its value.
+**Explanation:** 'Taking something for granted' means treating it as a normal, dependable part of life, often without noticing its value.
 
 **Choice feedback:**
 
-- **assumed it would be available without appreciating it much:** Taking something for granted means treating it as a normal, dependable part of life, often without noticing its value.
+- **assumed it would be available without appreciating it much:** 'Taking something for granted' means treating it as a normal, dependable part of life, often without noticing its value.
 - **formally asked permission to use it:** The expression concerns an assumption, not a granted request.
 - **deliberately avoided using it:** The speaker relied on it rather than avoided it.
 - **checked its availability with unusual care:** Taking it for granted implies the opposite of repeatedly checking it.
@@ -2915,14 +2915,14 @@ What does 'not clear-cut' describe?
 3. There was no simple, obvious choice. **[Correct]**
 4. The physical boundaries of the flats were unclear.
 
-**Explanation:** Not clear-cut means the issue does not divide neatly into an obvious right or best alternative.
+**Explanation:** 'Not clear-cut' means the issue does not divide neatly into an obvious right or best alternative.
 
 **Choice feedback:**
 
 - **The agents had given no descriptions of the flats.:** The competing features are known; the difficulty is deciding their relative value.
 - **Neither flat could be rented legally.:** No problem with permission or legality is stated.
-- **There was no simple, obvious choice.:** Not clear-cut means the issue does not divide neatly into an obvious right or best alternative.
-- **The physical boundaries of the flats were unclear.:** Here clear-cut describes the decision, not property boundaries.
+- **There was no simple, obvious choice.:** 'Not clear-cut' means the issue does not divide neatly into an obvious right or best alternative.
+- **The physical boundaries of the flats were unclear.:** Here 'clear-cut' describes the decision, not property boundaries.
 
 **Decision:** replaced.
 
@@ -2979,12 +2979,12 @@ What does 'out of the question' mean here?
 3. It would happen without further discussion.
 4. It was possible but not especially attractive.
 
-**Explanation:** Out of the question means not possible or not to be considered; here the transport constraints select practical impossibility.
+**Explanation:** 'Out of the question' means not possible or not to be considered; here the transport constraints select practical impossibility.
 
 **Choice feedback:**
 
 - **It had not yet been discussed.:** The expression is not about whether anyone asked a question.
-- **It was not a feasible option in those circumstances.:** Out of the question means not possible or not to be considered; here the transport constraints select practical impossibility.
+- **It was not a feasible option in those circumstances.:** 'Out of the question' means not possible or not to be considered; here the transport constraints select practical impossibility.
 - **It would happen without further discussion.:** The circumstances prevent the journey rather than guarantee it.
 - **It was possible but not especially attractive.:** That is weaker than the stated exclusion of the option.
 
@@ -3011,12 +3011,12 @@ What had changed?
 3. I had found a house of the right size.
 4. I had stopped caring what anyone thought.
 
-**Explanation:** Fitting in socially means belonging or being accepted; it need not require identical habits or speech.
+**Explanation:** 'Fitting in socially' means belonging or being accepted; it need not require identical habits or speech.
 
 **Choice feedback:**
 
 - **I had adopted every local habit.:** The sentence explicitly says differences remained.
-- **I felt accepted as part of the community.:** Fitting in socially means belonging or being accepted; it need not require identical habits or speech.
+- **I felt accepted as part of the community.:** 'Fitting in socially' means belonging or being accepted; it need not require identical habits or speech.
 - **I had found a house of the right size.:** The social context selects belonging, not physical fit.
 - **I had stopped caring what anyone thought.:** Indifference to others is not the meaning of social belonging.
 
@@ -3043,14 +3043,14 @@ What does 'made do with' imply?
 3. I stopped doing the paperwork altogether.
 4. I used an available substitute that was not ideal. **[Correct]**
 
-**Explanation:** Making do means managing with what is available despite its limitations.
+**Explanation:** 'Making do' means managing with what is available despite its limitations.
 
 **Choice feedback:**
 
 - **I repaired the table before using it.:** Make do concerns accepting a substitute, not repairing it.
 - **I bought exactly the furniture I preferred.:** The missing desk leads to an alternative, not the preferred purchase.
 - **I stopped doing the paperwork altogether.:** The speaker continued by using the table.
-- **I used an available substitute that was not ideal.:** Making do means managing with what is available despite its limitations.
+- **I used an available substitute that was not ideal.:** 'Making do' means managing with what is available despite its limitations.
 
 **Decision:** replaced.
 
@@ -3075,13 +3075,13 @@ What was I doing?
 3. complaining about each delivery
 4. recording only the purchase prices
 
-**Explanation:** Keep tabs on means monitor or follow what is happening, here through delivery updates.
+**Explanation:** 'Keep tabs on' means monitor or follow what is happening, here through delivery updates.
 
 **Choice feedback:**
 
-- **checking their progress so I stayed informed:** Keep tabs on means monitor or follow what is happening, here through delivery updates.
+- **checking their progress so I stayed informed:** 'Keep tabs on' means monitor or follow what is happening, here through delivery updates.
 - **changing the delivery dates repeatedly:** Tracking does not itself reschedule delivery.
-- **complaining about each delivery:** Keeping tabs does not mean objecting or contacting anyone.
+- **complaining about each delivery:** 'Keeping tabs' does not mean objecting or contacting anyone.
 - **recording only the purchase prices:** The context concerns delivery progress rather than cost.
 
 **Decision:** replaced.
@@ -3107,13 +3107,13 @@ What does 'patched things up' mean here?
 3. restored friendly relations after the disagreement **[Correct]**
 4. settled the garden's ownership in writing
 
-**Explanation:** Patching things up can mean repairing a damaged relationship; it does not require agreement on every issue.
+**Explanation:** 'Patching things up' can mean repairing a damaged relationship; it does not require agreement on every issue.
 
 **Choice feedback:**
 
 - **repaired the damaged garden furniture:** The sentence links an argument to resumed conversation, selecting a relationship meaning.
 - **pretended they had never met:** Resuming conversation shows renewed social contact.
-- **restored friendly relations after the disagreement:** Patching things up can mean repairing a damaged relationship; it does not require agreement on every issue.
+- **restored friendly relations after the disagreement:** 'Patching things up' can mean repairing a damaged relationship; it does not require agreement on every issue.
 - **settled the garden's ownership in writing:** A formal ownership agreement is not stated or required by the expression.
 
 **Decision:** replaced.
@@ -3203,13 +3203,13 @@ What is being criticized?
 3. The strength of his reaction was excessive for its cause. **[Correct]**
 4. He reacted later than people expected.
 
-**Explanation:** Out of proportion means poorly matched in scale; the minor inconvenience does not seem to warrant such a strong reaction.
+**Explanation:** 'Out of proportion' means poorly matched in scale; the minor inconvenience does not seem to warrant such a strong reaction.
 
 **Choice feedback:**
 
 - **The mug was an unusual size.:** Proportion here concerns the relationship between reaction and cause, not the mug's dimensions.
 - **His account of the event was incomplete.:** The criticism targets intensity, not missing details.
-- **The strength of his reaction was excessive for its cause.:** Out of proportion means poorly matched in scale; the minor inconvenience does not seem to warrant such a strong reaction.
+- **The strength of his reaction was excessive for its cause.:** 'Out of proportion' means poorly matched in scale; the minor inconvenience does not seem to warrant such a strong reaction.
 - **He reacted later than people expected.:** Timing is not the stated mismatch.
 
 **Decision:** replaced.
@@ -3239,11 +3239,11 @@ Which account preserves what 'having second thoughts' adds to the situation?
 3. I am thinking about the arrangement for the first time.
 4. I have already withdrawn my agreement and arranged another flat.
 
-**Explanation:** Having second thoughts means doubts lead you to revisit a previous view or decision; it does not itself cancel the agreement.
+**Explanation:** 'Having second thoughts' means doubts lead you to revisit a previous view or decision; it does not itself cancel the agreement.
 
 **Choice feedback:**
 
-- **I am reconsidering an earlier decision because doubts have arisen.:** Having second thoughts means doubts lead you to revisit a previous view or decision; it does not itself cancel the agreement.
+- **I am reconsidering an earlier decision because doubts have arisen.:** 'Having second thoughts' means doubts lead you to revisit a previous view or decision; it does not itself cancel the agreement.
 - **I have forgotten the reasons for my original decision.:** Reconsideration does not imply forgetting the earlier reasons.
 - **I am thinking about the arrangement for the first time.:** An earlier agreement is already in place.
 - **I have already withdrawn my agreement and arranged another flat.:** The expression signals reconsideration, not necessarily a completed reversal or replacement plan.
@@ -3271,14 +3271,14 @@ What is my sister advising me against?
 3. Discussing the message with anyone else.
 4. Assuming the shortness reveals more than it reasonably does. **[Correct]**
 
-**Explanation:** Read too much into means attach excessive significance to a detail; it does not prove the friend's actual feelings.
+**Explanation:** 'Read too much into' means attach excessive significance to a detail; it does not prove the friend's actual feelings.
 
 **Choice feedback:**
 
 - **Replying before I have read the whole text.:** The issue is the significance inferred from brevity, not incomplete reading.
 - **Taking my friend's stated anger seriously.:** The friend has not explicitly stated anger; that is the worried interpretation.
 - **Discussing the message with anyone else.:** The advice limits interpretation rather than forbidding discussion.
-- **Assuming the shortness reveals more than it reasonably does.:** Read too much into means attach excessive significance to a detail; it does not prove the friend's actual feelings.
+- **Assuming the shortness reveals more than it reasonably does.:** 'Read too much into' means attach excessive significance to a detail; it does not prove the friend's actual feelings.
 
 **Decision:** replaced.
 
@@ -3335,14 +3335,14 @@ What does the host's description mean?
 3. Leo openly listed several faults in the cake.
 4. Leo offered such minimal approval that it suggested a poor opinion. **[Correct]**
 
-**Explanation:** Damning with faint praise means weak praise conveys an unfavorable evaluation, especially when stronger approval was relevant.
+**Explanation:** 'Damning with faint praise' means weak praise conveys an unfavorable evaluation, especially when stronger approval was relevant.
 
 **Choice feedback:**
 
 - **Leo praised the cake so strongly that the praise sounded unbelievable.:** Faint praise is weak, not excessive.
-- **Leo spoke too quietly for the host to hear the compliment.:** Faint refers to the strength of the endorsement, not the volume of the voice.
+- **Leo spoke too quietly for the host to hear the compliment.:** 'Faint' refers to the strength of the endorsement, not the volume of the voice.
 - **Leo openly listed several faults in the cake.:** He supplied minimal positive wording instead of explicit detailed criticism.
-- **Leo offered such minimal approval that it suggested a poor opinion.:** Damning with faint praise means weak praise conveys an unfavorable evaluation, especially when stronger approval was relevant.
+- **Leo offered such minimal approval that it suggested a poor opinion.:** 'Damning with faint praise' means weak praise conveys an unfavorable evaluation, especially when stronger approval was relevant.
 
 **Decision:** replaced.
 
@@ -3367,13 +3367,13 @@ Which paraphrase captures the expression without exaggerating it?
 3. The chair is worn and no longer in its best condition. **[Correct]**
 4. The chair has recently been restored to its former condition.
 
-**Explanation:** Seen better days means past its best; it need not mean broken or without remaining value.
+**Explanation:** 'Seen better days' means past its best; it need not mean broken or without remaining value.
 
 **Choice feedback:**
 
 - **The chair has become more comfortable with age.:** Comfort is retained, but the expression describes deterioration from an earlier condition.
 - **The chair is impossible to use safely.:** The description does not establish danger or unusability.
-- **The chair is worn and no longer in its best condition.:** Seen better days means past its best; it need not mean broken or without remaining value.
+- **The chair is worn and no longer in its best condition.:** 'Seen better days' means past its best; it need not mean broken or without remaining value.
 - **The chair has recently been restored to its former condition.:** Restoration would reverse wear; the sentence describes existing deterioration.
 
 **Decision:** replaced.
@@ -3399,13 +3399,13 @@ What does 'grudging' qualify?
 3. His deliberate invention of praise for work he believed worthless.
 4. His enthusiasm for every decorating choice she had made.
 
-**Explanation:** Grudging praise is offered unwillingly or without warmth; it need not be insincere or factually false.
+**Explanation:** 'Grudging praise' is offered unwillingly or without warmth; it need not be insincere or factually false.
 
 **Choice feedback:**
 
-- **His reluctance to give the praise, not necessarily its truth.:** Grudging praise is offered unwillingly or without warmth; it need not be insincere or factually false.
+- **His reluctance to give the praise, not necessarily its truth.:** 'Grudging praise' is offered unwillingly or without warmth; it need not be insincere or factually false.
 - **His inability to recognize that any work had been done.:** He did recognize the successful restoration enough to compliment it.
-- **His deliberate invention of praise for work he believed worthless.:** Grudging does not itself establish deception or a wholly negative belief.
+- **His deliberate invention of praise for work he believed worthless.:** 'Grudging' does not itself establish deception or a wholly negative belief.
 - **His enthusiasm for every decorating choice she had made.:** The sentence preserves his dislike of her broader choices.
 
 **Decision:** replaced.
@@ -3431,14 +3431,14 @@ What did his action take away from me?
 3. the right to mention work at dinner
 4. the impact and attention of making my own announcement **[Correct]**
 
-**Explanation:** Stealing someone's thunder can mean spoiling their moment by doing or announcing something first; deliberate malice is not required.
+**Explanation:** "Stealing someone's thunder" can mean spoiling their moment by doing or announcing something first; deliberate malice is not required.
 
 **Choice feedback:**
 
 - **the promotion itself:** Sharing the news does not remove the promotion.
 - **credit for doing my job successfully:** The expression here concerns making the announcement first, not claiming to have done the work.
 - **the right to mention work at dinner:** No such permission or ban is stated.
-- **the impact and attention of making my own announcement:** Stealing someone's thunder can mean spoiling their moment by doing or announcing something first; deliberate malice is not required.
+- **the impact and attention of making my own announcement:** "Stealing someone's thunder" can mean spoiling their moment by doing or announcing something first; deliberate malice is not required.
 
 **Decision:** replaced.
 
@@ -3495,14 +3495,14 @@ What does the expression say about my state?
 3. I had stopped noticing changes to the arrangements.
 4. I was becoming less able to tolerate further changes. **[Correct]**
 
-**Explanation:** Patience wearing thin means tolerance is diminishing; it does not itself imply an outburst has occurred.
+**Explanation:** 'Patience wearing thin' means tolerance is diminishing; it does not itself imply an outburst has occurred.
 
 **Choice feedback:**
 
-- **I had become more willing to accept changes.:** Wearing thin indicates diminishing tolerance, not growing flexibility.
+- **I had become more willing to accept changes.:** 'Wearing thin' indicates diminishing tolerance, not growing flexibility.
 - **I had already lost control and shouted.:** The sentence explicitly says no complaint had been made yet.
 - **I had stopped noticing changes to the arrangements.:** The repeated changes are provoking a response rather than becoming unnoticed.
-- **I was becoming less able to tolerate further changes.:** Patience wearing thin means tolerance is diminishing; it does not itself imply an outburst has occurred.
+- **I was becoming less able to tolerate further changes.:** 'Patience wearing thin' means tolerance is diminishing; it does not itself imply an outburst has occurred.
 
 **Decision:** replaced.
 
@@ -3527,12 +3527,12 @@ What attitude did I adopt?
 3. I decided the camera had never been borrowed.
 4. I promised never to question my friend's actions again.
 
-**Explanation:** Giving someone the benefit of the doubt means choosing a favorable or less accusatory interpretation while uncertainty remains.
+**Explanation:** 'Giving someone the benefit of the doubt' means choosing a favorable or less accusatory interpretation while uncertainty remains.
 
 **Choice feedback:**
 
 - **I proved that my friend had a good reason.:** Giving the benefit of the doubt is an attitude under uncertainty, not proof.
-- **I withheld an unfavorable judgment while allowing a reasonable explanation.:** Giving someone the benefit of the doubt means choosing a favorable or less accusatory interpretation while uncertainty remains.
+- **I withheld an unfavorable judgment while allowing a reasonable explanation.:** 'Giving someone the benefit of the doubt' means choosing a favorable or less accusatory interpretation while uncertainty remains.
 - **I decided the camera had never been borrowed.:** The loan and late return are established; the uncertainty concerns the reason.
 - **I promised never to question my friend's actions again.:** The expression concerns this unresolved occasion, not unlimited future trust.
 
@@ -3591,13 +3591,13 @@ Which account captures 'cut my losses'?
 3. I accepted the sunk cost and avoided giving up more time. **[Correct]**
 4. I persuaded the organizer to reduce the original course fee.
 
-**Explanation:** Cutting losses means stopping further loss or waste, not necessarily recovering what has already been spent.
+**Explanation:** 'Cutting losses' means stopping further loss or waste, not necessarily recovering what has already been spent.
 
 **Choice feedback:**
 
 - **I recovered the fee through another payment arrangement.:** The scenario rules out a refund; the fee remained lost.
 - **I kept attending until I obtained the value I expected.:** The speaker stopped attending rather than continuing to justify the initial payment.
-- **I accepted the sunk cost and avoided giving up more time.:** Cutting losses means stopping further loss or waste, not necessarily recovering what has already been spent.
+- **I accepted the sunk cost and avoided giving up more time.:** 'Cutting losses' means stopping further loss or waste, not necessarily recovering what has already been spent.
 - **I persuaded the organizer to reduce the original course fee.:** The expression here describes stopping further investment, not renegotiating the fee.
 
 **Decision:** replaced.
@@ -3655,14 +3655,14 @@ Which paraphrase distinguishes 'taken with' from 'taken in by'?
 3. I felt compelled to buy the lamp despite disliking it.
 4. I found the lamp appealing without necessarily choosing to buy it. **[Correct]**
 
-**Explanation:** Taken with means charmed or favorably impressed; attraction need not result in acquisition.
+**Explanation:** 'Taken with' means charmed or favorably impressed; attraction need not result in acquisition.
 
 **Choice feedback:**
 
 - **I was deceived about the lamp's quality.:** That would fit taken in by; taken with expresses attraction or admiration.
 - **I had already removed the lamp from the shop.:** The phrase does not describe taking possession, and the lamp was left behind.
 - **I felt compelled to buy the lamp despite disliking it.:** The attraction was genuine, but no purchase followed.
-- **I found the lamp appealing without necessarily choosing to buy it.:** Taken with means charmed or favorably impressed; attraction need not result in acquisition.
+- **I found the lamp appealing without necessarily choosing to buy it.:** 'Taken with' means charmed or favorably impressed; attraction need not result in acquisition.
 
 **Decision:** replaced.
 
@@ -3687,13 +3687,13 @@ What does the reply say about my observation?
 3. It may be true but does not address the decisive issue. **[Correct]**
 4. It is too vague to identify which cafe we mean.
 
-**Explanation:** Beside the point means irrelevant to what matters in the discussion, not necessarily false.
+**Explanation:** 'Beside the point' means irrelevant to what matters in the discussion, not necessarily false.
 
 **Choice feedback:**
 
 - **The cakes must be poor because the cafe closes early.:** Closing time does not determine the quality of the cakes.
 - **The cakes outweigh our need for a late meeting place.:** The reply treats opening hours, not cakes, as decisive for this meeting.
-- **It may be true but does not address the decisive issue.:** Beside the point means irrelevant to what matters in the discussion, not necessarily false.
+- **It may be true but does not address the decisive issue.:** 'Beside the point' means irrelevant to what matters in the discussion, not necessarily false.
 - **It is too vague to identify which cafe we mean.:** The problem is relevance, not uncertainty about which cafe is being discussed.
 
 **Decision:** replaced.
@@ -3751,11 +3751,11 @@ What did I recognize?
 3. I had arrived before the agreed time.
 4. They wanted me to help organize another visit.
 
-**Explanation:** Outstay one's welcome means remain longer than others want, even after a genuinely friendly invitation.
+**Explanation:** "Outstay one's welcome" means remain longer than others want, even after a genuinely friendly invitation.
 
 **Choice feedback:**
 
-- **My visit had continued beyond the point when it was welcome.:** Outstay one's welcome means remain longer than others want, even after a genuinely friendly invitation.
+- **My visit had continued beyond the point when it was welcome.:** "Outstay one's welcome" means remain longer than others want, even after a genuinely friendly invitation.
 - **They had never wanted me to come.:** The initial welcome was warm; the issue is the length of the visit.
 - **I had arrived before the agreed time.:** Outstaying concerns staying too long, not arriving too early.
 - **They wanted me to help organize another visit.:** No new visit is proposed; the cues suggest winding this one down.
@@ -3815,12 +3815,12 @@ What does 'a foregone conclusion' describe in this account?
 3. a result that the rules made impossible
 4. a decision that Aunt May had chosen to surrender
 
-**Explanation:** Foregone conclusion describes how certain the outcome seemed beforehand; the expectation can still prove wrong.
+**Explanation:** 'Foregone conclusion' describes how certain the outcome seemed beforehand; the expectation can still prove wrong.
 
 **Choice feedback:**
 
 - **a victory that had already taken place:** The phrase occurs before the quiz outcome, which was different.
-- **an outcome regarded as settled before it actually occurred:** Foregone conclusion describes how certain the outcome seemed beforehand; the expectation can still prove wrong.
+- **an outcome regarded as settled before it actually occurred:** 'Foregone conclusion' describes how certain the outcome seemed beforehand; the expectation can still prove wrong.
 - **a result that the rules made impossible:** The expected victory was possible, merely not achieved.
 - **a decision that Aunt May had chosen to surrender:** No voluntary surrender is described; others assumed she would win.
 
@@ -3847,11 +3847,11 @@ What perspective does 'in hindsight' establish?
 3. The speaker is expressing regret about a decision that went badly.
 4. The speaker is describing events visible behind them during the journey.
 
-**Explanation:** In hindsight means looking back with later knowledge; the judgment may be positive, not only regretful.
+**Explanation:** 'In hindsight' means looking back with later knowledge; the judgment may be positive, not only regretful.
 
 **Choice feedback:**
 
-- **The speaker is judging the decision using knowledge gained afterwards.:** In hindsight means looking back with later knowledge; the judgment may be positive, not only regretful.
+- **The speaker is judging the decision using knowledge gained afterwards.:** 'In hindsight' means looking back with later knowledge; the judgment may be positive, not only regretful.
 - **The speaker predicted the exact outcome before travelling.:** The speaker explicitly did not anticipate the extent of the tiredness.
 - **The speaker is expressing regret about a decision that went badly.:** The decision is judged a good idea, so hindsight does not necessarily imply regret.
 - **The speaker is describing events visible behind them during the journey.:** The phrase concerns retrospective understanding, not physical direction of sight.

@@ -58,7 +58,7 @@
     }
     function conflict() {
       failed = true;
-      message("Saved data changed in another tab. This tab is not saving. Reload to open the saved attempt, or use Delete my data to clear browser data.", true);
+      message("Saved data changed in another tab. This tab is not saving. Reload to open the saved attempt, or use “Delete my data” to clear browser data.", true);
       return false;
     }
     window.addEventListener("beforeunload", (event) => {

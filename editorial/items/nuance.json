@@ -14,11 +14,11 @@
         "A more polite way to ask"
       ],
       "answer": "A more polite way to ask",
-      "explanation": "Please makes the request more polite; it does not change the seat or action.",
+      "explanation": "'Please' makes the request more polite; it does not change the seat or action.",
       "rationales": {
-        "A more polite way to ask": "Please makes the request more polite; it does not change the seat or action.",
+        "A more polite way to ask": "'Please' makes the request more polite; it does not change the seat or action.",
         "A different place to sit": "Here points to the same place in both requests.",
-        "A reason for sitting": "Please marks politeness, not a reason.",
+        "A reason for sitting": "'Please' marks politeness, not a reason.",
         "A later time to sit": "Neither request names a later time."
       },
       "audit": {
@@ -107,12 +107,12 @@
         "I need a little more time."
       ],
       "answer": "I need a little more time.",
-      "explanation": "Almost ready means close to ready, with something still left to do.",
+      "explanation": "'Almost ready' means close to ready, with something still left to do.",
       "rationales": {
         "I am ready now.": "Almost ready stops short of being ready.",
         "I am starting to get ready.": "Almost suggests being near the end, not just starting.",
         "I do not want to go.": "Readiness and willingness are different; no refusal is expressed.",
-        "I need a little more time.": "Almost ready means close to ready, with something still left to do."
+        "I need a little more time.": "'Almost ready' means close to ready, with something still left to do."
       },
       "audit": {
         "status": "reviewed",
@@ -138,12 +138,12 @@
         "As an amount paid yesterday"
       ],
       "answer": "As a small amount",
-      "explanation": "Only presents five dollars as little in this reaction; it adds the speaker's view of the price.",
+      "explanation": "'Only' presents five dollars as little in this reaction; it adds the speaker's view of the price.",
       "rationales": {
-        "As a small amount": "Only presents five dollars as little in this reaction; it adds the speaker's view of the price.",
-        "As a large amount": "Only lowers the apparent size of the amount rather than emphasizing a high price.",
-        "As an unknown amount": "Five dollars states the amount; only is not an uncertainty word here.",
-        "As an amount paid yesterday": "Only does not tell us when payment happened."
+        "As a small amount": "'Only' presents five dollars as little in this reaction; it adds the speaker's view of the price.",
+        "As a large amount": "'Only' lowers the apparent size of the amount rather than emphasizing a high price.",
+        "As an unknown amount": "'Five dollars' states the amount; 'only' is not an uncertainty word here.",
+        "As an amount paid yesterday": "'Only' does not tell us when payment happened."
       },
       "audit": {
         "status": "reviewed",
@@ -171,7 +171,7 @@
       "answer": "It describes a pattern across occasions.",
       "explanation": "Always extends the description across occasions; today limits it to the present day.",
       "rationales": {
-        "It describes an earlier part of today.": "Always describes a pattern across occasions, not an earlier hour.",
+        "It describes an earlier part of today.": "'Always' describes a pattern across occasions, not an earlier hour.",
         "It describes a pattern across occasions.": "Always extends the description across occasions; today limits it to the present day.",
         "It describes how long one visit lasted.": "Always concerns the repeated state of the shop, not one visit's duration.",
         "It describes a change expected tomorrow.": "The sentence gives a general pattern, not a future change."
@@ -200,11 +200,11 @@
         "Tom does not eat fish at breakfast."
       ],
       "answer": "Eating fish is not part of Tom's habits.",
-      "explanation": "Never means on no occasions in this description of Tom's habits; it does not supply a reason.",
+      "explanation": "'Never' means on no occasions in this description of Tom's habits; it does not supply a reason.",
       "rationales": {
         "Tom does not like fish.": "He may have another reason; never describes what he does, not why.",
         "Tom cannot cook fish.": "The statement says nothing about his cooking skills.",
-        "Eating fish is not part of Tom's habits.": "Never means on no occasions in this description of Tom's habits; it does not supply a reason.",
+        "Eating fish is not part of Tom's habits.": "'Never' means on no occasions in this description of Tom's habits; it does not supply a reason.",
         "Tom does not eat fish at breakfast.": "Never is not limited to breakfast; this answer narrows the statement."
       },
       "audit": {
@@ -293,12 +293,12 @@
         "It works faster than before."
       ],
       "answer": "It works now after not working.",
-      "explanation": "Working again presents a return to an earlier working state after an interruption.",
+      "explanation": "'Working again' presents a return to an earlier working state after an interruption.",
       "rationales": {
-        "It is working for the first time.": "Again points to an earlier working state, not a first use.",
-        "It works now after not working.": "Working again presents a return to an earlier working state after an interruption.",
-        "It will start working tomorrow.": "Is working describes the present, not tomorrow.",
-        "It works faster than before.": "Again signals a return, not an increase in speed."
+        "It is working for the first time.": "'Again' points to an earlier working state, not a first use.",
+        "It works now after not working.": "'Working again' presents a return to an earlier working state after an interruption.",
+        "It will start working tomorrow.": "'Is working' describes the present, not tomorrow.",
+        "It works faster than before.": "'Again' signals a return, not an increase in speed."
       },
       "audit": {
         "status": "reviewed",
@@ -324,12 +324,12 @@
         "Ali is going back to work."
       ],
       "answer": "Ali has not left work yet.",
-      "explanation": "Still shows that being at work continues from seven to eight.",
+      "explanation": "'Still' shows that being at work continues from seven to eight.",
       "rationales": {
-        "Ali arrived at eight.": "Still links the later message to the earlier state, not a new arrival.",
-        "Ali works at a different place.": "Still concerns continuation; no change of workplace is stated.",
-        "Ali has not left work yet.": "Still shows that being at work continues from seven to eight.",
-        "Ali is going back to work.": "Going back would mean a return; still presents an uninterrupted state."
+        "Ali arrived at eight.": "'Still' links the later message to the earlier state, not a new arrival.",
+        "Ali works at a different place.": "'Still' concerns continuation; no change of workplace is stated.",
+        "Ali has not left work yet.": "'Still' shows that being at work continues from seven to eight.",
+        "Ali is going back to work.": "'Going back' would mean a return; 'still' presents an uninterrupted state."
       },
       "audit": {
         "status": "reviewed",
@@ -355,12 +355,12 @@
         "Mia is home earlier than I expected."
       ],
       "answer": "Mia is home earlier than I expected.",
-      "explanation": "Already highlights that the state has been reached by now; five is before the expected arrival.",
+      "explanation": "'Already' highlights that the state has been reached by now; five is before the expected arrival.",
       "rationales": {
         "Mia wants to go home.": "She says she is home, not that she wants to go there.",
         "Mia is late getting home.": "Five is earlier than the expected six.",
-        "Mia is leaving home soon.": "Already says nothing about her next departure.",
-        "Mia is home earlier than I expected.": "Already highlights that the state has been reached by now; five is before the expected arrival."
+        "Mia is leaving home soon.": "'Already' says nothing about her next departure.",
+        "Mia is home earlier than I expected.": "'Already' highlights that the state has been reached by now; five is before the expected arrival."
       },
       "audit": {
         "status": "reviewed",
@@ -386,10 +386,10 @@
         "One bag, not more"
       ],
       "answer": "One bag, not more",
-      "explanation": "Before one bag, just limits the quantity; it does not describe when the bag was bought.",
+      "explanation": "Before 'one bag', 'just' limits the quantity; it does not describe when the bag was bought.",
       "rationales": {
-        "One bag, not more": "Before one bag, just limits the quantity; it does not describe when the bag was bought.",
-        "One bag bought a moment ago": "Just can concern recent time elsewhere, but here it modifies one bag.",
+        "One bag, not more": "Before 'one bag', 'just' limits the quantity; it does not describe when the bag was bought.",
+        "One bag bought a moment ago": "'Just' can concern recent time elsewhere, but here it modifies 'one bag'.",
         "One bag at a lower price": "No discount is requested.",
         "One bag for each person": "The reply limits the total requested; it does not distribute bags among people."
       },
@@ -479,12 +479,12 @@
         "You think it is perfect."
       ],
       "answer": "You think it is okay or good.",
-      "explanation": "Not bad can give a modest positive judgment; I like it confirms that reading here.",
+      "explanation": "'Not bad' can give a modest positive judgment; 'I like it' confirms that reading here.",
       "rationales": {
         "You are unhappy with it.": "I like it rules out this negative reading in this exchange.",
         "You have not seen it yet.": "The answer gives a view of the flat, not a statement about visiting it.",
-        "You think it is perfect.": "Not bad is a modest positive comment, not a claim of perfection.",
-        "You think it is okay or good.": "Not bad can give a modest positive judgment; I like it confirms that reading here."
+        "You think it is perfect.": "'Not bad' is a modest positive comment, not a claim of perfection.",
+        "You think it is okay or good.": "'Not bad' can give a modest positive judgment; 'I like it' confirms that reading here."
       },
       "audit": {
         "status": "reviewed",
@@ -513,7 +513,7 @@
       "explanation": "The old expectation of twenty dollars makes Really? a surprised check of the new claim.",
       "rationales": {
         "Surprise at the new information": "The old expectation of twenty dollars makes Really? a surprised check of the new claim.",
-        "Certainty that the first speaker is wrong": "Really? checks unexpected news; it does not insist that the news is false.",
+        "Certainty that the first speaker is wrong": "'Really?' checks unexpected news; it does not insist that the news is false.",
         "Thanks for an offer of free tickets": "The reply checks the price information rather than accepting or thanking for a gift.",
         "Agreement that the tickets still cost twenty dollars": "The reply responds to a changed price claim, not an agreement about twenty dollars."
       },
@@ -541,12 +541,12 @@
         "They cooked for the same number of people."
       ],
       "answer": "They cooked with each other.",
-      "explanation": "Together presents cooking as a shared activity; both alone only says each person cooked.",
+      "explanation": "'Together' presents cooking as a shared activity; 'both' alone only says each person cooked.",
       "rationales": {
         "They made different meals on different days.": "That could fit both cooked, but not the shared activity described by together.",
-        "They cooked with each other.": "Together presents cooking as a shared activity; both alone only says each person cooked.",
+        "They cooked with each other.": "'Together' presents cooking as a shared activity; 'both' alone only says each person cooked.",
         "They enjoyed cooking equally.": "Neither together nor both tells us how much they enjoyed it.",
-        "They cooked for the same number of people.": "Together concerns participation, not the number of diners."
+        "They cooked for the same number of people.": "'Together' concerns participation, not the number of diners."
       },
       "audit": {
         "status": "reviewed",
@@ -572,12 +572,12 @@
         "She feels sad when she is at home."
       ],
       "answer": "No other person lives in her home.",
-      "explanation": "Alone describes living without another person; it does not mean feeling lonely.",
+      "explanation": "'Alone' describes living without another person; it does not mean feeling 'lonely'.",
       "rationales": {
         "She wants someone to move in.": "Enjoying living alone does not express a wish for a housemate.",
         "She has no friends.": "Living arrangements do not tell us whether she has friends.",
-        "No other person lives in her home.": "Alone describes living without another person; it does not mean feeling lonely.",
-        "She feels sad when she is at home.": "Alone does not itself mean sad, and Rosa says she enjoys it."
+        "No other person lives in her home.": "'Alone' describes living without another person; it does not mean feeling 'lonely'.",
+        "She feels sad when she is at home.": "'Alone' does not itself mean 'sad', and Rosa says she enjoys it."
       },
       "audit": {
         "status": "reviewed",
@@ -607,7 +607,7 @@
       "rationales": {
         "They have a very large amount.": "Enough concerns their need; that need might be small.",
         "They have less than they need.": "Enough says the amount meets the need, not that it falls short.",
-        "They need to buy some now.": "Enough does not state a shortage requiring more.",
+        "They need to buy some now.": "'Enough' does not state a shortage requiring more.",
         "They have as much as they need.": "Enough measures the amount against the need, without saying it is a large amount."
       },
       "audit": {
@@ -696,11 +696,11 @@
         "She behaves pleasantly without being a personal friend."
       ],
       "answer": "She behaves pleasantly without being a personal friend.",
-      "explanation": "Friendly describes behavior; a friend names a personal relationship.",
+      "explanation": "'Friendly' describes behavior; 'a friend' names a personal relationship.",
       "rationales": {
         "The receptionist is a friend outside work.": "The speaker explicitly denies that personal relationship.",
         "The receptionist knows the speaker's family.": "Friendly behavior does not establish family connections.",
-        "She behaves pleasantly without being a personal friend.": "Friendly describes behavior; a friend names a personal relationship.",
+        "She behaves pleasantly without being a personal friend.": "'Friendly' describes behavior; 'a friend' names a personal relationship.",
         "She is pleasant only to people she knows well.": "The reply does not limit her friendliness to close acquaintances."
       },
       "audit": {
@@ -758,10 +758,10 @@
         "The speaker does not know whether it was sent."
       ],
       "answer": "Sending it remains something to do later.",
-      "explanation": "Not yet says it has not happened up to now; the next sentence confirms it is still planned.",
+      "explanation": "'Not yet' says it has not happened up to now; the next sentence confirms it is still planned.",
       "rationales": {
-        "Sending it remains something to do later.": "Not yet says it has not happened up to now; the next sentence confirms it is still planned.",
-        "The invitation was sent late.": "Not yet says the sending has not happened.",
+        "Sending it remains something to do later.": "'Not yet' says it has not happened up to now; the next sentence confirms it is still planned.",
+        "The invitation was sent late.": "'Not yet' says the sending has not happened.",
         "The speaker has decided not to send it.": "I'll do it after lunch confirms a plan to send it.",
         "The speaker does not know whether it was sent.": "The answer gives a clear negative about completion, not uncertainty."
       },
@@ -784,16 +784,16 @@
       "taskText": "Which contrast is intended in these ordinary travel statements?",
       "options": [
         "Both say we missed it.",
-        "Barely caught means we caught it; nearly caught means we missed it.",
-        "Barely caught means we missed it; nearly caught means we caught it.",
+        "'Barely caught' means we caught it; 'nearly caught' means we missed it.",
+        "'Barely caught' means we missed it; 'nearly caught' means we caught it.",
         "Both say we caught it comfortably."
       ],
-      "answer": "Barely caught means we caught it; nearly caught means we missed it.",
+      "answer": "'Barely caught' means we caught it; 'nearly caught' means we missed it.",
       "explanation": "Barely places success close to failure; nearly caught approaches success without reaching it.",
       "rationales": {
         "Both say we missed it.": "Barely caught reports success, though by a small margin.",
-        "Barely caught means we caught it; nearly caught means we missed it.": "Barely places success close to failure; nearly caught approaches success without reaching it.",
-        "Barely caught means we missed it; nearly caught means we caught it.": "This reverses the outcome contrast between barely and nearly.",
+        "'Barely caught' means we caught it; 'nearly caught' means we missed it.": "Barely places success close to failure; nearly caught approaches success without reaching it.",
+        "'Barely caught' means we missed it; 'nearly caught' means we caught it.": "This reverses the outcome contrast between barely and nearly.",
         "Both say we caught it comfortably.": "Barely implies a close margin, while nearly caught reports falling short."
       },
       "audit": {
@@ -820,12 +820,12 @@
         "Lee made three visits today."
       ],
       "answer": "The visit happened after a long wait or difficulty.",
-      "explanation": "Finally highlights reaching an expected event after delay; the cancellations explain that delay.",
+      "explanation": "'Finally' highlights reaching an expected event after delay; the cancellations explain that delay.",
       "rationales": {
-        "This was Lee's last visit ever.": "Finally concerns the end of the wait, not the end of future visits.",
-        "The visit ended very late at night.": "Finally does not identify an hour of the day.",
-        "The visit happened after a long wait or difficulty.": "Finally highlights reaching an expected event after delay; the cancellations explain that delay.",
-        "Lee made three visits today.": "Three appointments were cancelled; finally does not mean three completed visits."
+        "This was Lee's last visit ever.": "'Finally' concerns the end of the wait, not the end of future visits.",
+        "The visit ended very late at night.": "'Finally' does not identify an hour of the day.",
+        "The visit happened after a long wait or difficulty.": "'Finally' highlights reaching an expected event after delay; the cancellations explain that delay.",
+        "Lee made three visits today.": "Three appointments were cancelled; 'finally' does not mean three completed visits."
       },
       "audit": {
         "status": "reviewed",
@@ -851,12 +851,12 @@
         "It stands out among the classes I enjoy."
       ],
       "answer": "It stands out among the classes I enjoy.",
-      "explanation": "Especially gives cooking particular emphasis within the enjoyable group.",
+      "explanation": "'Especially' gives cooking particular emphasis within the enjoyable group.",
       "rationales": {
-        "It is the only class I enjoy.": "Especially singles it out without excluding enjoyment of other classes.",
+        "It is the only class I enjoy.": "'Especially' singles it out without excluding enjoyment of other classes.",
         "It is the last class in the evening.": "The word marks preference here, not the timetable.",
         "It is the class I attend least.": "No attendance frequency is stated.",
-        "It stands out among the classes I enjoy.": "Especially gives cooking particular emphasis within the enjoyable group."
+        "It stands out among the classes I enjoy.": "'Especially' gives cooking particular emphasis within the enjoyable group."
       },
       "audit": {
         "status": "reviewed",
@@ -915,7 +915,7 @@
       "answer": "Sympathy for the other person's bad experience",
       "explanation": "Sorry to hear that responds with concern to someone's unwelcome news.",
       "rationales": {
-        "Responsibility for taking the bicycle": "Sorry to hear that expresses sympathy; it does not admit taking anything.",
+        "Responsibility for taking the bicycle": "'Sorry to hear that' expresses sympathy; it does not admit taking anything.",
         "Sympathy for the other person's bad experience": "Sorry to hear that responds with concern to someone's unwelcome news.",
         "A promise to buy a replacement": "Sympathy does not include a promise of payment.",
         "Doubt about whether the story is true": "The response acknowledges the bad news rather than questioning it."
@@ -944,11 +944,11 @@
         "Uncertainty about which floor is correct"
       ],
       "answer": "A correction to the other person's belief",
-      "explanation": "Actually introduces information that differs from the second-floor assumption.",
+      "explanation": "'Actually' introduces information that differs from the second-floor assumption.",
       "rationales": {
         "Agreement with the suggested floor": "The response supplies a different floor.",
         "A change in office during the conversation": "Correcting the other person's belief does not mean the office has just moved.",
-        "A correction to the other person's belief": "Actually introduces information that differs from the second-floor assumption.",
+        "A correction to the other person's belief": "'Actually' introduces information that differs from the second-floor assumption.",
         "Uncertainty about which floor is correct": "I'm on the third floor is a direct correction, not a guess."
       },
       "audit": {
@@ -975,12 +975,12 @@
         "The speaker has chosen a moving-out date."
       ],
       "answer": "This is the present arrangement, not necessarily the final one.",
-      "explanation": "For now limits the arrangement to the current situation and leaves later arrangements open.",
+      "explanation": "'For now' limits the arrangement to the current situation and leaves later arrangements open.",
       "rationales": {
-        "The speaker is moving in this minute.": "For now describes the arrangement's temporary status, not the exact moving time.",
+        "The speaker is moving in this minute.": "'For now' describes the arrangement's temporary status, not the exact moving time.",
         "The speaker lived there in the past only.": "The reply concerns the current or upcoming arrangement.",
-        "The speaker has chosen a moving-out date.": "For now does not specify an end date.",
-        "This is the present arrangement, not necessarily the final one.": "For now limits the arrangement to the current situation and leaves later arrangements open."
+        "The speaker has chosen a moving-out date.": "'For now' does not specify an end date.",
+        "This is the present arrangement, not necessarily the final one.": "'For now' limits the arrangement to the current situation and leaves later arrangements open."
       },
       "audit": {
         "status": "reviewed",
@@ -1037,10 +1037,10 @@
         "The speaker prefers tea in this choice."
       ],
       "answer": "The speaker prefers tea in this choice.",
-      "explanation": "Would rather expresses a preference between the offered alternatives, not a judgment that the other is bad.",
+      "explanation": "'Would rather' expresses a preference between the offered alternatives, not a judgment that the other is bad.",
       "rationales": {
         "The speaker dislikes coffee.": "Preferring tea in this choice does not establish dislike of coffee.",
-        "The speaker prefers tea in this choice.": "Would rather expresses a preference between the offered alternatives, not a judgment that the other is bad.",
+        "The speaker prefers tea in this choice.": "'Would rather' expresses a preference between the offered alternatives, not a judgment that the other is bad.",
         "The speaker wants both drinks.": "Rather selects tea over coffee here.",
         "The speaker wants the host to drink tea.": "I'd rather describes the speaker's own choice, not the host's."
       },
@@ -1099,12 +1099,12 @@
         "As a softened negative answer"
       ],
       "answer": "As a softened negative answer",
-      "explanation": "Not really gives a less abrupt negative than no; the traffic explains the lack of quiet.",
+      "explanation": "'Not really' gives a less abrupt negative than 'no'; the traffic explains the lack of quiet.",
       "rationales": {
         "As enthusiastic agreement": "The traffic explanation supports a negative response.",
         "As a claim that the room did not exist": "Really is not questioning the room's existence in this answer.",
         "As a request for a different question": "The speaker answers the question and gives a reason.",
-        "As a softened negative answer": "Not really gives a less abrupt negative than no; the traffic explains the lack of quiet."
+        "As a softened negative answer": "'Not really' gives a less abrupt negative than 'no'; the traffic explains the lack of quiet."
       },
       "audit": {
         "status": "reviewed",
@@ -1135,7 +1135,7 @@
         "Both are acceptable choices.": "Either day is fine accepts each alternative without requiring meetings on both days.",
         "The speaker wants two meetings.": "Accepting either option does not request both.",
         "Thursday is preferred.": "The reply does not favor Thursday over Tuesday.",
-        "Neither day works.": "Fine expresses acceptability, not rejection."
+        "Neither day works.": "'Fine' expresses acceptability, not rejection."
       },
       "audit": {
         "status": "reviewed",
@@ -1254,9 +1254,9 @@
         "Criticism of her ungenerosity"
       ],
       "answer": "Criticism of her ungenerosity",
-      "explanation": "Mean with money criticizes lack of generosity; careful with money can describe sensible management.",
+      "explanation": "'Mean with money' criticizes lack of generosity; 'careful with money' can describe sensible management.",
       "rationales": {
-        "Criticism of her ungenerosity": "Mean with money criticizes lack of generosity; careful with money can describe sensible management.",
+        "Criticism of her ungenerosity": "'Mean with money' criticizes lack of generosity; 'careful with money' can describe sensible management.",
         "Approval of her skill at planning a budget": "That positive reading fits careful more readily than mean.",
         "A statement that her income was limited": "Neither phrase establishes income; the revision evaluates behavior.",
         "A statement that she often lost money": "Mean with money concerns reluctance to spend, not financial losses."
@@ -1285,10 +1285,10 @@
         "She is boastful."
       ],
       "answer": "She is confident.",
-      "explanation": "Confident describes belief in one's abilities without the negative superiority judgment carried by arrogant.",
+      "explanation": "'Confident' describes belief in one's abilities without the negative superiority judgment carried by 'arrogant'.",
       "rationales": {
         "She is arrogant.": "Arrogant negatively suggests an inflated view of one's importance or superiority.",
-        "She is confident.": "Confident describes belief in one's abilities without the negative superiority judgment carried by arrogant.",
+        "She is confident.": "'Confident' describes belief in one's abilities without the negative superiority judgment carried by 'arrogant'.",
         "She is conceited.": "Conceited criticizes an excessively favorable opinion of oneself.",
         "She is boastful.": "Boastful criticizes talking too proudly about oneself rather than praising self-belief."
       },
@@ -1316,12 +1316,12 @@
         "The error was noticed almost immediately."
       ],
       "answer": "Insufficient attention caused the error.",
-      "explanation": "Careless attributes the error to a lack of care, adding a judgment beyond the fact of an error.",
+      "explanation": "'Careless' attributes the error to a lack of care, adding a judgment beyond the fact of an error.",
       "rationales": {
-        "The error affected the price.": "Careless does not identify which part of the order was wrong.",
+        "The error affected the price.": "'Careless' does not identify which part of the order was wrong.",
         "The error was difficult to correct.": "Ease of correction is separate from the attention that produced it.",
-        "Insufficient attention caused the error.": "Careless attributes the error to a lack of care, adding a judgment beyond the fact of an error.",
-        "The error was noticed almost immediately.": "Careless concerns how the error arose, not when it was detected."
+        "Insufficient attention caused the error.": "'Careless' attributes the error to a lack of care, adding a judgment beyond the fact of an error.",
+        "The error was noticed almost immediately.": "'Careless' concerns how the error arose, not when it was detected."
       },
       "audit": {
         "status": "reviewed",
@@ -1349,7 +1349,7 @@
       "answer": "Disaster gives a much stronger negative judgment.",
       "explanation": "Calling an event a disaster presents it as a serious failure; problem is less strongly evaluative.",
       "rationales": {
-        "Disaster identifies the exact cause.": "Disaster expresses a severe evaluation without identifying a cause.",
+        "Disaster identifies the exact cause.": "'Disaster' expresses a severe evaluation without identifying a cause.",
         "Problem says more people attended.": "Neither noun specifies attendance.",
         "Disaster makes the statement less negative.": "Disaster intensifies, rather than softens, the negative judgment.",
         "Disaster gives a much stronger negative judgment.": "Calling an event a disaster presents it as a serious failure; problem is less strongly evaluative."
@@ -1409,12 +1409,12 @@
         "Sam had already delivered it."
       ],
       "answer": "The arrangement was for Sam to bring it.",
-      "explanation": "Be supposed to refers here to what was expected or arranged, which need not have happened.",
+      "explanation": "'Be supposed to' refers here to what was expected or arranged, which need not have happened.",
       "rationales": {
-        "Sam was physically able to carry it.": "Supposed to concerns the expected arrangement, not physical ability.",
-        "The arrangement was for Sam to bring it.": "Be supposed to refers here to what was expected or arranged, which need not have happened.",
+        "Sam was physically able to carry it.": "'Supposed to' concerns the expected arrangement, not physical ability.",
+        "The arrangement was for Sam to bring it.": "'Be supposed to' refers here to what was expected or arranged, which need not have happened.",
         "Sam enjoyed bringing it.": "An expectation does not describe enjoyment.",
-        "Sam had already delivered it.": "Supposed to does not establish completion, and Sam has not arrived."
+        "Sam had already delivered it.": "'Supposed to' does not establish completion, and Sam has not arrived."
       },
       "audit": {
         "status": "reviewed",
@@ -1442,7 +1442,7 @@
       "answer": "The coat is inexpensive.",
       "explanation": "Inexpensive identifies a low price without the poor-quality connotation cheap can carry.",
       "rationales": {
-        "The coat is cheap.": "Cheap can mean low-priced, but it can also carry the poor-quality suggestion the task asks you to avoid.",
+        "The coat is cheap.": "'Cheap' can mean low-priced, but it can also carry the poor-quality suggestion the task asks you to avoid.",
         "The coat is flimsy.": "Flimsy criticizes weak construction, not just price.",
         "The coat is inexpensive.": "Inexpensive identifies a low price without the poor-quality connotation cheap can carry.",
         "The coat is shoddy.": "Shoddy directly criticizes quality or workmanship."
@@ -1466,7 +1466,7 @@
       "taskText": "Which contrast in emphasis is usual?",
       "options": [
         "A few sounds negative; few sounds encouraging.",
-        "A few means none; few means several.",
+        "'A few' means none; 'few' means several.",
         "Both guarantee enough volunteers for the event.",
         "A few stresses some; few stresses scarcity."
       ],
@@ -1474,7 +1474,7 @@
       "explanation": "A few commonly has a positive some focus, while few emphasizes scarcity; sufficiency still depends on the task.",
       "rationales": {
         "A few sounds negative; few sounds encouraging.": "This reverses the usual contrast in emphasis.",
-        "A few means none; few means several.": "A few clearly indicates some volunteers, not none.",
+        "'A few' means none; 'few' means several.": "A few clearly indicates some volunteers, not none.",
         "Both guarantee enough volunteers for the event.": "Neither expression establishes the number required for the event.",
         "A few stresses some; few stresses scarcity.": "A few commonly has a positive some focus, while few emphasizes scarcity; sufficiency still depends on the task."
       },
@@ -1505,7 +1505,7 @@
       "explanation": "Manage to presents successful achievement, often despite difficulty; the failed attempts support that emphasis.",
       "rationales": {
         "Success despite some difficulty": "Manage to presents successful achievement, often despite difficulty; the failed attempts support that emphasis.",
-        "An attempt whose result is unknown": "Managed to reports success, not just an attempt.",
+        "An attempt whose result is unknown": "'Managed to' reports success, not just an attempt.",
         "A duty to open the file later": "The past-tense statement reports an outcome rather than a future obligation.",
         "Permission to open someone else's file": "Managing an action does not mean permission was granted."
       },
@@ -1537,7 +1537,7 @@
       "rationales": {
         "Cycling is a new habit.": "Used to identifies a past habit, not a newly begun one.",
         "Cycling belonged to an earlier routine.": "Used to presents a past routine; but now contrasts it with the current arrangement.",
-        "The speaker is learning to cycle.": "Used to plus a base verb describes a former habit, not the process of learning.",
+        "The speaker is learning to cycle.": "'Used to' plus a base verb describes a former habit, not the process of learning.",
         "The speaker prefers cycling to walking.": "No comparison with walking is made."
       },
       "audit": {
@@ -1599,7 +1599,7 @@
       "rationales": {
         "It says the neighbor owns the furniture.": "Keep plus an -ing action concerns repetition, not ownership here.",
         "It says the furniture is being stored safely.": "The object of keeps is the moving activity, not furniture being kept in storage.",
-        "It says the moving happened only tonight.": "Keeps presents a repeated or persistent activity.",
+        "It says the moving happened only tonight.": "'Keeps' presents a repeated or persistent activity.",
         "It presents the noise-making action as repeated.": "Keep doing presents continuation or repetition; the wish for another time makes the repeated action a complaint."
       },
       "audit": {
@@ -1626,11 +1626,11 @@
         "It concerns only difficult subjects."
       ],
       "answer": "It is very limited.",
-      "explanation": "Hardly gives a near-negative answer: the single conversation amounts to little knowledge.",
+      "explanation": "'Hardly' gives a near-negative answer: the single conversation amounts to little knowledge.",
       "rationales": {
-        "It is very limited.": "Hardly gives a near-negative answer: the single conversation amounts to little knowledge.",
-        "It was difficult to obtain.": "Hardly does not mean with difficulty here; that would be hard.",
-        "It is more extensive than expected.": "Hardly minimizes the extent rather than emphasizing abundance.",
+        "It is very limited.": "'Hardly' gives a near-negative answer: the single conversation amounts to little knowledge.",
+        "It was difficult to obtain.": "'Hardly' does not mean with difficulty here; that would be 'hard'.",
+        "It is more extensive than expected.": "'Hardly' minimizes the extent rather than emphasizing abundance.",
         "It concerns only difficult subjects.": "The word does not describe the subjects they discussed."
       },
       "audit": {
@@ -1657,11 +1657,11 @@
         "Noor says the speaker was bored."
       ],
       "answer": "An interested listener may show little outward activity.",
-      "explanation": "Interested describes the listener's engagement; silence alone does not establish boredom.",
+      "explanation": "'Interested' describes the listener's engagement; silence alone does not establish boredom.",
       "rationales": {
         "Interest requires asking several questions.": "Noor's account explicitly separates interest from that outward action.",
-        "An interested listener may show little outward activity.": "Interested describes the listener's engagement; silence alone does not establish boredom.",
-        "A silent listener is an interesting speaker.": "Interesting describes something that attracts interest, not the listener's state.",
+        "An interested listener may show little outward activity.": "'Interested' describes the listener's engagement; silence alone does not establish boredom.",
+        "A silent listener is an interesting speaker.": "'Interesting' describes something that attracts interest, not the listener's state.",
         "Noor says the speaker was bored.": "The speaker thought Noor was bored; that is not a report of the speaker's own feeling."
       },
       "audit": {
@@ -1719,12 +1719,12 @@
         "A claim that she cooks professionally"
       ],
       "answer": "A critical view of her selectiveness",
-      "explanation": "Fussy presents particular preferences as excessively demanding; knows what she likes need not criticize them.",
+      "explanation": "'Fussy' presents particular preferences as excessively demanding; 'knows what she likes' need not criticize them.",
       "rationales": {
-        "Praise for a broad knowledge of food": "Fussy criticizes selectiveness rather than praising knowledge.",
+        "Praise for a broad knowledge of food": "'Fussy' criticizes selectiveness rather than praising knowledge.",
         "A claim that she cannot afford the meal": "Food preferences do not establish what she can afford.",
-        "A claim that she cooks professionally": "Fussy does not identify an occupation.",
-        "A critical view of her selectiveness": "Fussy presents particular preferences as excessively demanding; knows what she likes need not criticize them."
+        "A claim that she cooks professionally": "'Fussy' does not identify an occupation.",
+        "A critical view of her selectiveness": "'Fussy' presents particular preferences as excessively demanding; 'knows what she likes' need not criticize them."
       },
       "audit": {
         "status": "reviewed",
@@ -1781,10 +1781,10 @@
         "The notice comes with the office's authority."
       ],
       "answer": "The notice comes with the office's authority.",
-      "explanation": "Official concerns authorized status or source; formal concerns style or procedure and need not establish authority.",
+      "explanation": "'Official' concerns authorized status or source; 'formal' concerns style or procedure and need not establish authority.",
       "rationales": {
         "The notice uses complex sentences.": "Official status does not determine sentence complexity.",
-        "The notice comes with the office's authority.": "Official concerns authorized status or source; formal concerns style or procedure and need not establish authority.",
+        "The notice comes with the office's authority.": "'Official' concerns authorized status or source; 'formal' concerns style or procedure and need not establish authority.",
         "The notice avoids contractions.": "Contractions are a style choice, not a test of official status.",
         "The notice is difficult for residents to understand.": "An official notice can use accessible everyday language."
       },
@@ -1812,11 +1812,11 @@
         "Informality implies careless work."
       ],
       "answer": "Informality implies careless work.",
-      "explanation": "Informal describes a relaxed style; careful preparation and a completed agenda show that it need not mean careless work.",
+      "explanation": "'Informal' describes a relaxed style; careful preparation and a completed agenda show that it need not mean careless work.",
       "rationales": {
         "Careful preparation requires a written agenda.": "The sentence describes preparation and an agenda without making one a requirement for the other.",
         "Finishing an agenda means ending a meeting early.": "The sentence says they finish the agenda, not that they finish early.",
-        "Informality implies careless work.": "Informal describes a relaxed style; careful preparation and a completed agenda show that it need not mean careless work.",
+        "Informality implies careless work.": "'Informal' describes a relaxed style; careful preparation and a completed agenda show that it need not mean careless work.",
         "Team members must agree on the meeting's length.": "No requirement about agreeing a duration is discussed."
       },
       "audit": {
@@ -1843,12 +1843,12 @@
         "Agreement occurs at every committee meeting."
       ],
       "answer": "Agreement was reached after the preceding difficulties.",
-      "explanation": "Eventually marks the outcome reached in the end, here after several designs were rejected.",
+      "explanation": "'Eventually' marks the outcome reached in the end, here after several designs were rejected.",
       "rationales": {
-        "Agreement is only a possible future event.": "Eventually does not mean possibly; agreed reports an actual past outcome.",
-        "Agreement happened immediately.": "Eventually presents the outcome after time or preceding events.",
+        "Agreement is only a possible future event.": "'Eventually' does not mean 'possibly'; 'agreed' reports an actual past outcome.",
+        "Agreement happened immediately.": "'Eventually' presents the outcome after time or preceding events.",
         "Agreement occurs at every committee meeting.": "The adverb does not describe a regular frequency.",
-        "Agreement was reached after the preceding difficulties.": "Eventually marks the outcome reached in the end, here after several designs were rejected."
+        "Agreement was reached after the preceding difficulties.": "'Eventually' marks the outcome reached in the end, here after several designs were rejected."
       },
       "audit": {
         "status": "reviewed",
@@ -1874,9 +1874,9 @@
         "She is confrontational in discussions."
       ],
       "answer": "She is assertive in discussions.",
-      "explanation": "Assertive positively describes confident, firm self-expression without the hostility implied by aggressive.",
+      "explanation": "'Assertive' positively describes confident, firm self-expression without the hostility implied by 'aggressive'.",
       "rationales": {
-        "She is assertive in discussions.": "Assertive positively describes confident, firm self-expression without the hostility implied by aggressive.",
+        "She is assertive in discussions.": "'Assertive' positively describes confident, firm self-expression without the hostility implied by 'aggressive'.",
         "She is aggressive in discussions.": "Aggressive adds an adverse suggestion of hostility or excessive force.",
         "She is submissive in discussions.": "Submissive suggests yielding rather than firmly expressing needs.",
         "She is confrontational in discussions.": "Confrontational emphasizes provoking or engaging in conflict rather than respectful firmness."
@@ -1998,9 +1998,9 @@
         "It withdraws an earlier complaint about speed."
       ],
       "answer": "It makes a criticism through restrained wording.",
-      "explanation": "Not exactly quick understates a negative evaluation; the long wait supports criticism rather than a demand for precise timing.",
+      "explanation": "'Not exactly quick' understates a negative evaluation; the long wait supports criticism rather than a demand for precise timing.",
       "rationales": {
-        "It makes a criticism through restrained wording.": "Not exactly quick understates a negative evaluation; the long wait supports criticism rather than a demand for precise timing.",
+        "It makes a criticism through restrained wording.": "'Not exactly quick' understates a negative evaluation; the long wait supports criticism rather than a demand for precise timing.",
         "It requests a more accurate timing measurement.": "The diner is evaluating the service, not requesting stopwatch accuracy.",
         "It praises the staff for taking care.": "Careful service is not asserted by this comment about slowness.",
         "It withdraws an earlier complaint about speed.": "The words convey a complaint; no earlier judgment is retracted."
@@ -2020,7 +2020,7 @@
     {
       "id": "coverage-nuance-b2-2106",
       "level": "B2",
-      "setupText": "'With respect, that proposal does not address the residents' main concern.'",
+      "setupText": "\"With respect, that proposal does not address the residents' main concern.\"",
       "taskText": "How does the opening relate to the rest of the sentence?",
       "options": [
         "It marks a courteous approach to disagreement.",
@@ -2034,7 +2034,7 @@
         "It converts the criticism into agreement.": "The proposal is still explicitly criticized.",
         "It marks a courteous approach to disagreement.": "With respect frames the objection as respectful; it does not remove the objection or prove the speaker's inner feelings.",
         "It attributes the criticism to the residents.": "The residents have a concern, but the speaker makes the judgment about the proposal.",
-        "It makes the proposal's failure merely hypothetical.": "Does not address is a direct negative claim, despite the courteous opening."
+        "It makes the proposal's failure merely hypothetical.": "'Does not address' is a direct negative claim, despite the courteous opening."
       },
       "audit": {
         "status": "reviewed",
@@ -2060,11 +2060,11 @@
         "An agreement to discuss the closure next week"
       ],
       "answer": "Knowledge of the forthcoming closure",
-      "explanation": "As you know presents the information as already known to the listener; it does not establish that the listener actually knows it.",
+      "explanation": "'As you know' presents the information as already known to the listener; it does not establish that the listener actually knows it.",
       "rationales": {
         "Responsibility for arranging the repairs": "The phrase concerns knowledge, not who arranged the work.",
         "Approval of the closure": "Knowing about a closure does not mean approving it.",
-        "Knowledge of the forthcoming closure": "As you know presents the information as already known to the listener; it does not establish that the listener actually knows it.",
+        "Knowledge of the forthcoming closure": "'As you know' presents the information as already known to the listener; it does not establish that the listener actually knows it.",
         "An agreement to discuss the closure next week": "No discussion arrangement is created by the phrase."
       },
       "audit": {
@@ -2091,12 +2091,12 @@
         "It identifies a mistake in the bookings."
       ],
       "answer": "It downplays the significance of that contribution.",
-      "explanation": "Merely presents the action as limited or less impressive, adding evaluation to the same reported task.",
+      "explanation": "'Merely' presents the action as limited or less impressive, adding evaluation to the same reported task.",
       "rationales": {
-        "It questions whether the bookings were organized.": "Merely minimizes the contribution; it does not normally question that it occurred.",
-        "It praises the organization as unusually difficult.": "Merely reduces the apparent significance rather than praising difficulty.",
+        "It questions whether the bookings were organized.": "'Merely' minimizes the contribution; it does not normally question that it occurred.",
+        "It praises the organization as unusually difficult.": "'Merely' reduces the apparent significance rather than praising difficulty.",
         "It identifies a mistake in the bookings.": "The adverb does not report an error.",
-        "It downplays the significance of that contribution.": "Merely presents the action as limited or less impressive, adding evaluation to the same reported task."
+        "It downplays the significance of that contribution.": "'Merely' presents the action as limited or less impressive, adding evaluation to the same reported task."
       },
       "audit": {
         "status": "reviewed",
@@ -2122,9 +2122,9 @@
         "It argues that the concert was worth attending."
       ],
       "answer": "It identifies a consolation within a disappointing situation.",
-      "explanation": "At least highlights a favorable point despite the cancellation, not a numerical minimum in this use.",
+      "explanation": "'At least' highlights a favorable point despite the cancellation, not a numerical minimum in this use.",
       "rationales": {
-        "It identifies a consolation within a disappointing situation.": "At least highlights a favorable point despite the cancellation, not a numerical minimum in this use.",
+        "It identifies a consolation within a disappointing situation.": "'At least' highlights a favorable point despite the cancellation, not a numerical minimum in this use.",
         "It expresses disappointment that the refund was too large.": "No concern about an excessive refund is expressed.",
         "It disputes whether the cancellation happened.": "The response accepts the situation and draws attention to the refund.",
         "It argues that the concert was worth attending.": "The concert did not take place, and the reply concerns compensation."
@@ -2153,12 +2153,12 @@
         "Only a computer specialist could assess the deadline."
       ],
       "answer": "The narrow requirement was met, though the wider result was unsatisfactory.",
-      "explanation": "Technically limits the favorable claim to a particular formal criterion; missing attachments qualify the practical achievement.",
+      "explanation": "'Technically' limits the favorable claim to a particular formal criterion; missing attachments qualify the practical achievement.",
       "rationales": {
         "The speaker rejects the recorded arrival time.": "The arrival time is offered as the narrow basis for compliance.",
-        "The narrow requirement was met, though the wider result was unsatisfactory.": "Technically limits the favorable claim to a particular formal criterion; missing attachments qualify the practical achievement.",
+        "The narrow requirement was met, though the wider result was unsatisfactory.": "'Technically' limits the favorable claim to a particular formal criterion; missing attachments qualify the practical achievement.",
         "The speaker regards the submission as fully satisfactory.": "The missing attachments prevent that broad positive reading.",
-        "Only a computer specialist could assess the deadline.": "Technically concerns a narrow criterion here, not specialist personnel."
+        "Only a computer specialist could assess the deadline.": "'Technically' concerns a narrow criterion here, not specialist personnel."
       },
       "audit": {
         "status": "reviewed",
@@ -2277,12 +2277,12 @@
         "Dana accepted the transfer despite reservations."
       ],
       "answer": "Dana accepted the transfer despite reservations.",
-      "explanation": "Reluctant describes unwillingness or hesitation in attitude, which can coexist with eventual acceptance.",
+      "explanation": "'Reluctant' describes unwillingness or hesitation in attitude, which can coexist with eventual acceptance.",
       "rationales": {
         "Dana refused the transfer and then signed a different agreement.": "No different agreement is given; she accepted despite reluctance.",
-        "Dana accepted the transfer despite reservations.": "Reluctant describes unwillingness or hesitation in attitude, which can coexist with eventual acceptance.",
+        "Dana accepted the transfer despite reservations.": "'Reluctant' describes unwillingness or hesitation in attitude, which can coexist with eventual acceptance.",
         "Dana wanted the transfer but lacked permission.": "Reluctance concerns her attitude, not missing permission.",
-        "Dana accepted without having any concerns.": "Reluctant signals reservations rather than untroubled acceptance."
+        "Dana accepted without having any concerns.": "'Reluctant' signals reservations rather than untroubled acceptance."
       },
       "audit": {
         "status": "reviewed",
@@ -2401,10 +2401,10 @@
         "The spokesperson gave accurate information in few words."
       ],
       "answer": "The spokesperson withheld or distorted relevant truth.",
-      "explanation": "Economical with the truth is a restrained, often ironic way to suggest dishonesty or misleading omission.",
+      "explanation": "'Economical with the truth' is a restrained, often ironic way to suggest dishonesty or misleading omission.",
       "rationales": {
         "The spokesperson explained financial matters efficiently.": "Despite economical, the phrase concerns misleading truthfulness, not efficient financial explanation.",
-        "The spokesperson withheld or distorted relevant truth.": "Economical with the truth is a restrained, often ironic way to suggest dishonesty or misleading omission.",
+        "The spokesperson withheld or distorted relevant truth.": "'Economical with the truth' is a restrained, often ironic way to suggest dishonesty or misleading omission.",
         "The spokesperson used unnecessarily technical words.": "The criticism concerns truth, not specialist vocabulary.",
         "The spokesperson gave accurate information in few words.": "The idiom is not ordinary praise for concise accuracy."
       },
@@ -2432,11 +2432,11 @@
         "The audience could not understand the plot."
       ],
       "answer": "The production failed to make the expected impression.",
-      "explanation": "Underwhelming describes something less impressive than expected, which can still be competently made.",
+      "explanation": "'Underwhelming' describes something less impressive than expected, which can still be competently made.",
       "rationales": {
-        "The performers lacked basic ability.": "Competent grants basic ability; underwhelming concerns the disappointing impression.",
+        "The performers lacked basic ability.": "'Competent' grants basic ability; 'underwhelming' concerns the disappointing impression.",
         "The publicity understated the production's success.": "The contrast points to the production falling short of the publicity's promise.",
-        "The production failed to make the expected impression.": "Underwhelming describes something less impressive than expected, which can still be competently made.",
+        "The production failed to make the expected impression.": "'Underwhelming' describes something less impressive than expected, which can still be competently made.",
         "The audience could not understand the plot.": "No comprehension problem is identified."
       },
       "audit": {
@@ -2556,11 +2556,11 @@
         "The architect has previous experience of controversy."
       ],
       "answer": "The architect has previous experience of controversy.",
-      "explanation": "No stranger to is an indirect way to say familiar with or experienced in; it does not itself assign blame or praise.",
+      "explanation": "'No stranger to' is an indirect way to say familiar with or experienced in; it does not itself assign blame or praise.",
       "rationales": {
         "The architect actively seeks controversy for publicity.": "Familiarity with controversy does not establish a motive for seeking it.",
         "The architect has been vindicated in earlier disputes.": "The phrase does not say how previous controversies were resolved.",
-        "The architect has previous experience of controversy.": "No stranger to is an indirect way to say familiar with or experienced in; it does not itself assign blame or praise.",
+        "The architect has previous experience of controversy.": "'No stranger to' is an indirect way to say familiar with or experienced in; it does not itself assign blame or praise.",
         "The architect's current proposal is likely to be rejected.": "Past familiarity does not predict the outcome of the current proposal."
       },
       "audit": {
@@ -2649,10 +2649,10 @@
         "The volunteers themselves doubted the purpose."
       ],
       "answer": "Gratitude is the presented purpose, whose completeness or genuineness is left in question.",
-      "explanation": "Ostensibly identifies an apparent or professed purpose while leaving room for a different underlying motive; it does not prove pretense.",
+      "explanation": "'Ostensibly' identifies an apparent or professed purpose while leaving room for a different underlying motive; it does not prove pretense.",
       "rationales": {
-        "The columnist verifies gratitude as the sole motive.": "Ostensibly distances the writer from full endorsement of the presented purpose.",
-        "Gratitude is the presented purpose, whose completeness or genuineness is left in question.": "Ostensibly identifies an apparent or professed purpose while leaving room for a different underlying motive; it does not prove pretense.",
+        "The columnist verifies gratitude as the sole motive.": "'Ostensibly' distances the writer from full endorsement of the presented purpose.",
+        "Gratitude is the presented purpose, whose completeness or genuineness is left in question.": "'Ostensibly' identifies an apparent or professed purpose while leaving room for a different underlying motive; it does not prove pretense.",
         "The columnist identifies a specific concealed purpose.": "The word leaves room for another motive but does not name one.",
         "The volunteers themselves doubted the purpose.": "The stance belongs to the columnist's description, not necessarily to the volunteers."
       },
@@ -2680,11 +2680,11 @@
         "The identity of the person who organized the event"
       ],
       "answer": "The appropriateness of calling the event a consultation",
-      "explanation": "So-called marks distance from a name or classification, here suggesting the event may not deserve that label.",
+      "explanation": "'So-called' marks distance from a name or classification, here suggesting the event may not deserve that label.",
       "rationales": {
-        "The fact that an event took place": "So-called can challenge the label without denying that the event happened.",
+        "The fact that an event took place": "'So-called' can challenge the label without denying that the event happened.",
         "The spelling of the company's chosen title": "The expression usually questions the label's appropriateness, not its spelling.",
-        "The appropriateness of calling the event a consultation": "So-called marks distance from a name or classification, here suggesting the event may not deserve that label.",
+        "The appropriateness of calling the event a consultation": "'So-called' marks distance from a name or classification, here suggesting the event may not deserve that label.",
         "The identity of the person who organized the event": "The phrase does not identify or dispute the organizer."
       },
       "audit": {
@@ -2711,12 +2711,12 @@
         "Partial success is the most favorable assessment the reviewer allows."
       ],
       "answer": "Partial success is the most favorable assessment the reviewer allows.",
-      "explanation": "At best places an upper limit on praise: even a favorable reading goes no further than partial success.",
+      "explanation": "'At best' places an upper limit on praise: even a favorable reading goes no further than partial success.",
       "rationales": {
-        "Partial success is the least favorable defensible assessment.": "At best sets the favorable end of the range, not the unfavorable end.",
-        "The pilot succeeded partly because conditions were unusually favorable.": "At best frames an assessment; it does not give a cause of the success.",
+        "Partial success is the least favorable defensible assessment.": "'At best' sets the favorable end of the range, not the unfavorable end.",
+        "The pilot succeeded partly because conditions were unusually favorable.": "'At best' frames an assessment; it does not give a cause of the success.",
         "The reviewer predicts full success in a later trial.": "No forecast about a later trial follows from at best.",
-        "Partial success is the most favorable assessment the reviewer allows.": "At best places an upper limit on praise: even a favorable reading goes no further than partial success."
+        "Partial success is the most favorable assessment the reviewer allows.": "'At best' places an upper limit on praise: even a favorable reading goes no further than partial success."
       },
       "audit": {
         "status": "reviewed",
@@ -2959,12 +2959,12 @@
         "She lacked feelings but expressed a firm public opinion."
       ],
       "answer": "She clearly expressed conflicting feelings about the promotion.",
-      "explanation": "Ambivalent describes mixed or opposed attitudes; unambiguous describes an account with clear meaning. Conflict in feeling need not create unclear language.",
+      "explanation": "'Ambivalent' describes mixed or opposed attitudes; 'unambiguous' describes an account with clear meaning. Conflict in feeling need not create unclear language.",
       "rationales": {
-        "Her feelings were weak, and she described them briefly.": "Ambivalent means conflicting feelings, not necessarily weak ones; unambiguous concerns clarity, not length.",
+        "Her feelings were weak, and she described them briefly.": "'Ambivalent' means conflicting feelings, not necessarily weak ones; 'unambiguous' concerns clarity, not length.",
         "She concealed her feelings behind uncertain wording.": "Unambiguous rules out unclear wording as the intended contrast.",
         "She lacked feelings but expressed a firm public opinion.": "Ambivalence is not indifference or absence of feeling.",
-        "She clearly expressed conflicting feelings about the promotion.": "Ambivalent describes mixed or opposed attitudes; unambiguous describes an account with clear meaning. Conflict in feeling need not create unclear language."
+        "She clearly expressed conflicting feelings about the promotion.": "'Ambivalent' describes mixed or opposed attitudes; 'unambiguous' describes an account with clear meaning. Conflict in feeling need not create unclear language."
       },
       "audit": {
         "status": "reviewed",
@@ -3083,12 +3083,12 @@
         "It removes the writer's responsibility for the description."
       ],
       "answer": "It is a lenient description of something that could be judged more harshly.",
-      "explanation": "To put it charitably signals that the chosen evaluation is generous, inviting readers to recognize the possibility of stronger criticism.",
+      "explanation": "'To put it charitably' signals that the chosen evaluation is generous, inviting readers to recognize the possibility of stronger criticism.",
       "rationales": {
         "It is the most severe description the writer can defend.": "Charitably presents a favorable or lenient wording, not the harshest available one.",
         "It is quoted from a charitable organization's assessment.": "The phrase marks an attitude to wording, not a source.",
         "It removes the writer's responsibility for the description.": "The writer still chooses and owns the description.",
-        "It is a lenient description of something that could be judged more harshly.": "To put it charitably signals that the chosen evaluation is generous, inviting readers to recognize the possibility of stronger criticism."
+        "It is a lenient description of something that could be judged more harshly.": "'To put it charitably' signals that the chosen evaluation is generous, inviting readers to recognize the possibility of stronger criticism."
       },
       "audit": {
         "status": "reviewed",
@@ -3300,12 +3300,12 @@
         "It grants the label while suggesting an imperfect or limited instance."
       ],
       "answer": "It grants the label while suggesting an imperfect or limited instance.",
-      "explanation": "Of sorts allows something to count as a settlement while withholding the full expectations associated with that label.",
+      "explanation": "'Of sorts' allows something to count as a settlement while withholding the full expectations associated with that label.",
       "rationales": {
-        "It divides the settlement into several formally defined categories.": "Of sorts is a qualification of category membership, not a taxonomy.",
+        "It divides the settlement into several formally defined categories.": "'Of sorts' is a qualification of category membership, not a taxonomy.",
         "It signals that the reviewer cannot identify who negotiated it.": "The phrase questions the adequacy of the label, not authorship.",
-        "It grants the label while suggesting an imperfect or limited instance.": "Of sorts allows something to count as a settlement while withholding the full expectations associated with that label.",
-        "It treats settlement as a later possibility rather than an outcome.": "Produced reports an outcome; of sorts qualifies its character rather than postponing it."
+        "It grants the label while suggesting an imperfect or limited instance.": "'Of sorts' allows something to count as a settlement while withholding the full expectations associated with that label.",
+        "It treats settlement as a later possibility rather than an outcome.": "'Produced' reports an outcome; 'of sorts' qualifies its character rather than postponing it."
       },
       "audit": {
         "status": "reviewed",
@@ -3393,10 +3393,10 @@
         "The reviewer claims that the memoir explicitly explains the omitted period."
       ],
       "answer": "The reviewer treats the limited coverage as revealing in itself.",
-      "explanation": "Tellingly marks a detail as significant or diagnostic; it turns the omission into interpretive evidence without specifying a proven motive.",
+      "explanation": "'Tellingly' marks a detail as significant or diagnostic; it turns the omission into interpretive evidence without specifying a proven motive.",
       "rationales": {
-        "The reviewer attributes the omission to a documented instruction from the publisher.": "Tellingly interprets significance but does not identify a documented cause.",
-        "The reviewer treats the limited coverage as revealing in itself.": "Tellingly marks a detail as significant or diagnostic; it turns the omission into interpretive evidence without specifying a proven motive.",
+        "The reviewer attributes the omission to a documented instruction from the publisher.": "'Tellingly' interprets significance but does not identify a documented cause.",
+        "The reviewer treats the limited coverage as revealing in itself.": "'Tellingly' marks a detail as significant or diagnostic; it turns the omission into interpretive evidence without specifying a proven motive.",
         "The reviewer regards the omission as an ordinary consequence of limited space.": "The adverb singles it out as revealing rather than dismissing it as routine.",
         "The reviewer claims that the memoir explicitly explains the omitted period.": "The description concerns what the memoir scarcely discusses, not an explicit explanation."
       },
@@ -3455,12 +3455,12 @@
         "The host's effort to sound casual failed visibly."
       ],
       "answer": "An apparently effortless manner was deliberately cultivated.",
-      "explanation": "Studied means deliberate or calculated here; casualness describes the effect being presented, so the combination is not a literal contradiction.",
+      "explanation": "'Studied' means deliberate or calculated here; 'casualness' describes the effect being presented, so the combination is not a literal contradiction.",
       "rationales": {
-        "The host's manner became relaxed through repeated academic study.": "Studied describes deliberateness of presentation, not an academic learning history.",
+        "The host's manner became relaxed through repeated academic study.": "'Studied' describes deliberateness of presentation, not an academic learning history.",
         "The greeting was spontaneous despite sounding formal.": "The phrase combines deliberate presentation with an apparently relaxed manner, not the reverse.",
         "The host's effort to sound casual failed visibly.": "Studied can expose calculation to the narrator, but it does not itself establish that the performance failed.",
-        "An apparently effortless manner was deliberately cultivated.": "Studied means deliberate or calculated here; casualness describes the effect being presented, so the combination is not a literal contradiction."
+        "An apparently effortless manner was deliberately cultivated.": "'Studied' means deliberate or calculated here; 'casualness' describes the effect being presented, so the combination is not a literal contradiction."
       },
       "audit": {
         "status": "reviewed",
@@ -3517,10 +3517,10 @@
         "It prevents further questions from being procedurally allowed."
       ],
       "answer": "It makes a critical or defensive response harder to sustain.",
-      "explanation": "Disarming describes a manner that reduces hostility or resistance; it does not establish competence or erase the admitted weakness.",
+      "explanation": "'Disarming' describes a manner that reduces hostility or resistance; it does not establish competence or erase the admitted weakness.",
       "rationales": {
         "It removes the practical disadvantages of inexperience.": "Disarming concerns other people's reactions, not elimination of the underlying limitation.",
-        "It makes a critical or defensive response harder to sustain.": "Disarming describes a manner that reduces hostility or resistance; it does not establish competence or erase the admitted weakness.",
+        "It makes a critical or defensive response harder to sustain.": "'Disarming' describes a manner that reduces hostility or resistance; it does not establish competence or erase the admitted weakness.",
         "It establishes that the candidate has underestimated their qualifications.": "The reaction to frankness does not prove the self-assessment inaccurate.",
         "It prevents further questions from being procedurally allowed.": "The adjective describes an interpersonal effect, not a rule governing the interview."
       },
@@ -3641,10 +3641,10 @@
         "The comments were unwarranted for the review's purpose."
       ],
       "answer": "The comments were unwarranted for the review's purpose.",
-      "explanation": "Gratuitous describes something unnecessary or unjustified in context; even factually true comments may be gratuitous.",
+      "explanation": "'Gratuitous' describes something unnecessary or unjustified in context; even factually true comments may be gratuitous.",
       "rationales": {
         "The comments were invented rather than sourced.": "Gratuitous criticizes lack of justification or relevance, not necessarily factual accuracy.",
-        "The comments were unwarranted for the review's purpose.": "Gratuitous describes something unnecessary or unjustified in context; even factually true comments may be gratuitous.",
+        "The comments were unwarranted for the review's purpose.": "'Gratuitous' describes something unnecessary or unjustified in context; even factually true comments may be gratuitous.",
         "The comments were more restrained than the evidence allowed.": "The adjective objects to their inclusion, not to insufficiently severe wording.",
         "The comments required a more detailed explanation of the divorce.": "Calling comments gratuitous does not request expanded coverage of the same material."
       },
@@ -3674,7 +3674,7 @@
       "answer": "From cautious handling of information to a misleading lack of candor",
       "explanation": "Discreet can commend tactful reserve; disingenuous criticizes a presentation that is not straightforward, without requiring each statement to be false.",
       "rationales": {
-        "From withholding detail to necessarily inventing the meeting": "Disingenuous need not mean inventing an event; misleading presentation can involve true details.",
+        "From withholding detail to necessarily inventing the meeting": "'Disingenuous' need not mean inventing an event; misleading presentation can involve true details.",
         "From uncertainty about events to certainty about their timing": "The adjectives evaluate manner and candor, not the chronology's certainty.",
         "From cautious handling of information to a misleading lack of candor": "Discreet can commend tactful reserve; disingenuous criticizes a presentation that is not straightforward, without requiring each statement to be false.",
         "From private communication to an officially published account": "The wording change does not identify a new communication channel."
@@ -3697,7 +3697,7 @@
       "setupText": "The spokesperson calls the charge 'a contribution' rather than 'a fee'. A commentator replies that this is 'a distinction without a difference.'",
       "taskText": "What does the commentator most likely challenge?",
       "options": [
-        "Whether contribution is the conventional term in formal accounts",
+        "Whether 'contribution' is the conventional term in formal accounts",
         "Whether the audience understands the intended distinction",
         "Whether the changed label corresponds to a relevant substantive change",
         "Whether the spokesperson sincerely prefers the new label"
@@ -3705,7 +3705,7 @@
       "answer": "Whether the changed label corresponds to a relevant substantive change",
       "explanation": "'A distinction without a difference' concedes a verbal or formal distinction while denying a relevant substantive contrast in the present context.",
       "rationales": {
-        "Whether contribution is the conventional term in formal accounts": "The expression disputes substantive difference, not conventional terminology within a genre.",
+        "Whether 'contribution' is the conventional term in formal accounts": "The expression disputes substantive difference, not conventional terminology within a genre.",
         "Whether the audience understands the intended distinction": "The commentator can understand a proposed distinction while judging that it makes no relevant difference.",
         "Whether the spokesperson sincerely prefers the new label": "Sincerity about a naming preference is separate from whether the renamed charge changes in substance.",
         "Whether the changed label corresponds to a relevant substantive change": "'A distinction without a difference' concedes a verbal or formal distinction while denying a relevant substantive contrast in the present context."

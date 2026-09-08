@@ -83,12 +83,12 @@ Choose the phrase for eating the midday meal now.
 3. order lunch
 4. make lunch
 
-**Explanation:** Have lunch is a common phrase meaning eat the midday meal.
+**Explanation:** 'Have lunch' is a common phrase meaning eat the midday meal.
 
 **Choice feedback:**
 
-- **have lunch:** Have lunch is a common phrase meaning eat the midday meal.
-- **pack lunch:** Pack lunch means put food into a container to take elsewhere.
+- **have lunch:** 'Have lunch' is a common phrase meaning eat the midday meal.
+- **pack lunch:** 'Pack lunch' means put food into a container to take elsewhere.
 - **order lunch:** Ordering asks for food; it does not itself mean eating it.
 - **make lunch:** Making lunch prepares the food, which is already ready here.
 
@@ -120,9 +120,9 @@ Which phrase means 'get on the bus in time'?
 **Choice feedback:**
 
 - **catch the bus:** 'Catch the bus' means get on it, especially in time for its departure.
-- **miss the bus:** Missing the bus means failing to get on it in time.
+- **miss the bus:** 'Missing the bus' means failing to get on it in time.
 - **drive the bus:** The driver operates the bus; Nadia is a passenger.
-- **leave the bus:** Leaving the bus means getting off, not boarding it.
+- **leave the bus:** 'Leaving the bus' means getting off, not boarding it.
 
 **Decision:** replaced.
 
@@ -211,13 +211,13 @@ Which phrase names that everyday action?
 3. brush my teeth **[Correct]**
 4. check my teeth
 
-**Explanation:** Brush your teeth is the ordinary phrase for cleaning them with a toothbrush.
+**Explanation:** 'Brush your teeth' is the ordinary phrase for cleaning them with a toothbrush.
 
 **Choice feedback:**
 
 - **rinse my mouth:** Rinsing moves liquid around the mouth; it does not name brushing.
 - **whiten my teeth:** Whitening changes tooth color rather than naming routine brushing.
-- **brush my teeth:** Brush your teeth is the ordinary phrase for cleaning them with a toothbrush.
+- **brush my teeth:** 'Brush your teeth' is the ordinary phrase for cleaning them with a toothbrush.
 - **check my teeth:** Checking examines them; it does not describe cleaning with a brush.
 
 **Decision:** replaced.
@@ -275,11 +275,11 @@ Choose the phrase that makes the lamp give light.
 3. unplug the lamp
 4. move the lamp away
 
-**Explanation:** Turn on a lamp means switch it from off to on.
+**Explanation:** 'Turn on a lamp' means switch it from off to on.
 
 **Choice feedback:**
 
-- **turn on the lamp:** Turn on a lamp means switch it from off to on.
+- **turn on the lamp:** 'Turn on a lamp' means switch it from off to on.
 - **turn off the lamp:** Turning it off stops its light.
 - **unplug the lamp:** Unplugging disconnects its power rather than supplying light.
 - **move the lamp away:** Moving it changes its position, not whether it is lit.
@@ -339,14 +339,14 @@ Choose the phrase for cleaning your hands with soap and water.
 3. raise your hands
 4. wash your hands **[Correct]**
 
-**Explanation:** Wash your hands is the familiar phrase for cleaning them with water, usually with soap.
+**Explanation:** 'Wash your hands' is the familiar phrase for cleaning them with water, usually with soap.
 
 **Choice feedback:**
 
 - **dry your hands:** Drying removes water after washing; it is not washing itself.
 - **shake hands:** Shaking hands is a greeting between people.
 - **raise your hands:** Raising moves the hands upward, not into a washing action.
-- **wash your hands:** Wash your hands is the familiar phrase for cleaning them with water, usually with soap.
+- **wash your hands:** 'Wash your hands' is the familiar phrase for cleaning them with water, usually with soap.
 
 **Decision:** replaced.
 
@@ -377,7 +377,7 @@ Choose the phrase meaning 'read it so someone can hear': 'read it ___'.
 
 - **silently:** Reading silently does not let another person hear the words.
 - **aloud:** 'Read aloud' means say the written words so they can be heard.
-- **alone:** Reading alone describes who is present, not whether you speak.
+- **alone:** 'Reading alone' describes who is present, not whether you speak.
 - **again:** 'Again' means one more time; it does not specify reading with your voice.
 
 **Decision:** replaced.
@@ -403,14 +403,14 @@ Which phrase describes what she wants me to do?
 3. sign my name
 4. spell my name **[Correct]**
 
-**Explanation:** Spell your name means give the letters that form it, in order.
+**Explanation:** 'Spell your name' means give the letters that form it, in order.
 
 **Choice feedback:**
 
 - **write my name:** Writing records the name; it does not necessarily say its letters.
 - **change my name:** Changing chooses a different name, not its letter sequence.
 - **sign my name:** Signing makes a personal written signature, not an oral list of letters.
-- **spell my name:** Spell your name means give the letters that form it, in order.
+- **spell my name:** 'Spell your name' means give the letters that form it, in order.
 
 **Decision:** replaced.
 
@@ -435,12 +435,12 @@ Choose the phrase for travelling on the bicycle in this way.
 3. repair a bike
 4. store a bike
 
-**Explanation:** Ride a bike means travel on it as its rider.
+**Explanation:** 'Ride a bike' means travel on it as its rider.
 
 **Choice feedback:**
 
 - **push a bike:** Pushing moves the bike while you walk beside it.
-- **ride a bike:** Ride a bike means travel on it as its rider.
+- **ride a bike:** 'Ride a bike' means travel on it as its rider.
 - **repair a bike:** Repairing fixes a problem rather than travels on the bike.
 - **store a bike:** Storing keeps it somewhere when it is not being used.
 
@@ -471,10 +471,10 @@ Choose the usual phrase for this activity.
 
 **Choice feedback:**
 
-- **listen music:** Listen needs to before its object in this phrase.
+- **listen music:** 'Listen' needs 'to' before its object in this phrase.
 - **listen to music:** Listen to music pairs listen with to before the thing heard.
 - **listen at music:** Use to, not at, to introduce what someone listens to.
-- **listen for music:** Listen for music means try to detect it, not simply enjoy songs already playing.
+- **listen for music:** 'Listen for music' means try to detect it, not simply enjoy songs already playing.
 
 **Decision:** replaced.
 
@@ -531,14 +531,14 @@ Which phrase describes that action?
 3. leave a bag beside me
 4. carry a bag by its handles **[Correct]**
 
-**Explanation:** Carry a bag describes supporting it while transporting it; by its handles specifies how.
+**Explanation:** 'Carry a bag' describes supporting it while transporting it; 'by its handles' specifies how.
 
 **Choice feedback:**
 
 - **wear a bag on my back:** The described bag has no arrangement for wearing it on the back.
 - **drag a bag behind me:** Dragging leaves the bag on the ground, unlike the stated action.
 - **leave a bag beside me:** Leaving the bag does not move it along with the person.
-- **carry a bag by its handles:** Carry a bag describes supporting it while transporting it; by its handles specifies how.
+- **carry a bag by its handles:** 'Carry a bag' describes supporting it while transporting it; 'by its handles' specifies how.
 
 **Decision:** replaced.
 
@@ -595,11 +595,11 @@ Choose the phrase for creating the photo with the camera.
 3. print a picture
 4. delete a picture
 
-**Explanation:** Take a picture is the ordinary phrase for photographing something.
+**Explanation:** 'Take a picture' is the ordinary phrase for photographing something.
 
 **Choice feedback:**
 
-- **take a picture:** Take a picture is the ordinary phrase for photographing something.
+- **take a picture:** 'Take a picture' is the ordinary phrase for photographing something.
 - **send a picture:** Sending shares an existing picture rather than creates it with the camera.
 - **print a picture:** Printing puts an existing image onto paper.
 - **delete a picture:** Deleting removes the image instead of making a new photograph.
@@ -663,13 +663,13 @@ Which phrase describes deciding between the options?
 3. make a choice **[Correct]**
 4. question a choice
 
-**Explanation:** Make a choice means decide which option to select.
+**Explanation:** 'Make a choice' means decide which option to select.
 
 **Choice feedback:**
 
 - **offer a choice:** Offering gives someone else options; it is not choosing for yourself.
 - **limit the choice:** Limiting reduces the options rather than selects one.
-- **make a choice:** Make a choice means decide which option to select.
+- **make a choice:** 'Make a choice' means decide which option to select.
 - **question a choice:** Questioning challenges a decision rather than makes it.
 
 **Decision:** replaced.
@@ -695,12 +695,12 @@ Which phrase describes doing what I said I would do?
 3. make a promise
 4. withdraw a promise
 
-**Explanation:** Keep a promise means do what you promised.
+**Explanation:** 'Keep a promise' means do what you promised.
 
 **Choice feedback:**
 
-- **keep a promise:** Keep a promise means do what you promised.
-- **break a promise:** Breaking a promise means failing to do what was promised.
+- **keep a promise:** 'Keep a promise' means do what you promised.
+- **break a promise:** 'Breaking a promise' means failing to do what was promised.
 - **make a promise:** Making is giving the commitment; the question asks about carrying it out.
 - **withdraw a promise:** Withdrawing takes back the commitment rather than fulfills it.
 
@@ -791,12 +791,12 @@ Which phrase expresses that expectation?
 3. break the rules
 4. review the rules
 
-**Explanation:** Follow the rules means act as the rules require.
+**Explanation:** 'Follow the rules' means act as the rules require.
 
 **Choice feedback:**
 
 - **set the rules:** Setting establishes the rules; these have already been agreed.
-- **follow the rules:** Follow the rules means act as the rules require.
+- **follow the rules:** 'Follow the rules' means act as the rules require.
 - **break the rules:** Breaking acts against the rules, opposite to the expectation.
 - **review the rules:** Reviewing examines the rules; it does not itself mean obeying them.
 
@@ -887,12 +887,12 @@ Which phrase names introducing the error, not finding it?
 3. correct a mistake
 4. explain a mistake
 
-**Explanation:** Make a mistake means do something incorrectly, such as type the wrong address.
+**Explanation:** 'Make a mistake' means do something incorrectly, such as type the wrong address.
 
 **Choice feedback:**
 
 - **spot a mistake:** Spotting is noticing the mistake, which happened later.
-- **make a mistake:** Make a mistake means do something incorrectly, such as type the wrong address.
+- **make a mistake:** 'Make a mistake' means do something incorrectly, such as type the wrong address.
 - **correct a mistake:** Correcting removes the error rather than introduces it.
 - **explain a mistake:** Explaining tells why an error happened; it does not name making it.
 
@@ -919,13 +919,13 @@ Which phrase says a large amount of rain is falling, rather than describing its 
 3. heavy rain **[Correct]**
 4. overnight rain
 
-**Explanation:** Heavy rain is the usual partnership for rain falling in large amounts.
+**Explanation:** 'Heavy rain' is the usual partnership for rain falling in large amounts.
 
 **Choice feedback:**
 
-- **steady rain:** Steady describes continuity; it can be steady but light.
-- **occasional rain:** Occasional describes how often rain occurs, not a large amount.
-- **heavy rain:** Heavy rain is the usual partnership for rain falling in large amounts.
+- **steady rain:** 'Steady' describes continuity; it can be steady but light.
+- **occasional rain:** 'Occasional' describes how often rain occurs, not a large amount.
+- **heavy rain:** 'Heavy rain' is the usual partnership for rain falling in large amounts.
 - **overnight rain:** Overnight identifies when it rains, not its intensity.
 
 **Decision:** replaced.
@@ -951,13 +951,13 @@ Choose the phrase that expresses becoming ill.
 3. recover from a cold
 4. pass on a cold
 
-**Explanation:** Catch a cold is the ordinary phrase for developing this illness.
+**Explanation:** 'Catch a cold' is the ordinary phrase for developing this illness.
 
 **Choice feedback:**
 
-- **catch a cold:** Catch a cold is the ordinary phrase for developing this illness.
+- **catch a cold:** 'Catch a cold' is the ordinary phrase for developing this illness.
 - **treat a cold:** Treating deals with an illness that has developed.
-- **recover from a cold:** Recovering means getting better, not becoming ill.
+- **recover from a cold:** 'Recovering' means getting better, not becoming ill.
 - **pass on a cold:** Passing it on concerns another person becoming infected.
 
 **Decision:** replaced.
@@ -983,12 +983,12 @@ Choose the expression for that change.
 3. wake up
 4. lie down
 
-**Explanation:** Fall asleep describes the change from being awake to sleeping.
+**Explanation:** 'Fall asleep' describes the change from being awake to sleeping.
 
 **Choice feedback:**
 
-- **stay awake:** Staying awake means continuing not to sleep.
-- **fall asleep:** Fall asleep describes the change from being awake to sleeping.
+- **stay awake:** 'Staying awake' means continuing not to sleep.
+- **fall asleep:** 'Fall asleep' describes the change from being awake to sleeping.
 - **wake up:** Waking up is the opposite change, from sleeping to being awake.
 - **lie down:** Lying down changes position but does not necessarily begin sleep.
 
@@ -1047,13 +1047,13 @@ Which phrase describes what the visitors should do?
 3. pay attention **[Correct]**
 4. divide their attention
 
-**Explanation:** Pay attention means focus your mind on what you see or hear.
+**Explanation:** 'Pay attention' means focus your mind on what you see or hear.
 
 **Choice feedback:**
 
-- **attract attention:** Attracting attention makes others notice you; it does not mean concentrating on the guide.
-- **avoid attention:** Avoiding attention means trying not to be noticed.
-- **pay attention:** Pay attention means focus your mind on what you see or hear.
+- **attract attention:** 'Attracting attention' makes others notice you; it does not mean concentrating on the guide.
+- **avoid attention:** 'Avoiding attention' means trying not to be noticed.
+- **pay attention:** 'Pay attention' means focus your mind on what you see or hear.
 - **divide their attention:** Dividing attention focuses on more than one thing rather than on the guide alone.
 
 **Decision:** replaced.
@@ -1111,11 +1111,11 @@ Choose the phrase for saying a short funny story to them.
 3. write a joke
 4. forget a joke
 
-**Explanation:** Tell a joke is the common partnership for presenting a joke to listeners.
+**Explanation:** 'Tell a joke' is the common partnership for presenting a joke to listeners.
 
 **Choice feedback:**
 
-- **tell a joke:** Tell a joke is the common partnership for presenting a joke to listeners.
+- **tell a joke:** 'Tell a joke' is the common partnership for presenting a joke to listeners.
 - **hear a joke:** Hearing makes Sara the listener, not the storyteller.
 - **write a joke:** Writing creates text but does not itself tell it to the group.
 - **forget a joke:** Forgetting means not remembering it, which prevents telling it successfully.
@@ -1149,7 +1149,7 @@ Choose the phrase matching that intention: '___ the appointment'.
 
 - **cancel:** 'Cancel an appointment' means end the arrangement so it will not take place.
 - **postpone:** Postponing moves it to a later time, which Luis does not want.
-- **keep:** Keeping the appointment means retaining the arrangement.
+- **keep:** 'Keeping the appointment' means retaining the arrangement.
 - **book:** Booking creates an appointment rather than ends this one.
 
 **Decision:** replaced.
@@ -1175,14 +1175,14 @@ Which phrase describes strength of flavor, not temperature or the absence of mil
 3. black coffee
 4. iced coffee
 
-**Explanation:** Strong coffee is the usual partnership for a concentrated or intense coffee flavor.
+**Explanation:** 'Strong coffee' is the usual partnership for a concentrated or intense coffee flavor.
 
 **Choice feedback:**
 
-- **strong coffee:** Strong coffee is the usual partnership for a concentrated or intense coffee flavor.
-- **hot coffee:** Hot describes temperature rather than strength of flavor.
-- **black coffee:** Black means coffee without milk; it can be weak or strong.
-- **iced coffee:** Iced describes a chilled preparation, not how strong it tastes.
+- **strong coffee:** 'Strong coffee' is the usual partnership for a concentrated or intense coffee flavor.
+- **hot coffee:** 'Hot' describes temperature rather than strength of flavor.
+- **black coffee:** 'Black' means coffee without milk; it can be weak or strong.
+- **iced coffee:** 'Iced' describes a chilled preparation, not how strong it tastes.
 
 **Decision:** replaced.
 
@@ -1207,14 +1207,14 @@ Choose the phrase for preparing the table for the meal.
 3. move the table
 4. lay the table **[Correct]**
 
-**Explanation:** Lay the table means put plates, cutlery and other needed items in place for a meal.
+**Explanation:** 'Lay the table' means put plates, cutlery and other needed items in place for a meal.
 
 **Choice feedback:**
 
 - **clear the table:** Clearing removes items, often after a meal.
 - **wipe the table:** Wiping cleans the surface but does not set out plates and cutlery.
 - **move the table:** Moving changes the furniture's location, not its place settings.
-- **lay the table:** Lay the table means put plates, cutlery and other needed items in place for a meal.
+- **lay the table:** 'Lay the table' means put plates, cutlery and other needed items in place for a meal.
 
 **Decision:** replaced.
 
@@ -1239,12 +1239,12 @@ Which phrase describes Yara's role?
 3. follow advice
 4. ignore advice
 
-**Explanation:** Give advice means offer suggestions intended to help someone.
+**Explanation:** 'Give advice' means offer suggestions intended to help someone.
 
 **Choice feedback:**
 
 - **ask for advice:** The friend asks; Yara supplies the suggestions.
-- **give advice:** Give advice means offer suggestions intended to help someone.
+- **give advice:** 'Give advice' means offer suggestions intended to help someone.
 - **follow advice:** Following acts on suggestions received, not gives them.
 - **ignore advice:** Ignoring declines to act on advice, not offers it.
 
@@ -1440,7 +1440,7 @@ Choose the phrase for deciding on a target, not reaching it: '___ a goal'.
 **Choice feedback:**
 
 - **set:** 'Set a goal' means establish what you intend to achieve.
-- **achieve:** Achieving a goal means reaching it, not choosing it in advance.
+- **achieve:** 'Achieving a goal' means reaching it, not choosing it in advance.
 - **exceed:** Exceeding goes beyond a target after performance.
 - **abandon:** Abandoning gives up a target rather than establishes it.
 
@@ -1467,14 +1467,14 @@ Which partnership expresses that relationship?
 3. a mutual friend
 4. a new friend
 
-**Explanation:** Close friend describes a strong personal relationship, not physical distance.
+**Explanation:** 'Close friend' describes a strong personal relationship, not physical distance.
 
 **Choice feedback:**
 
 - **an old friend:** Old friend emphasizes a long-standing relationship, not necessarily emotional closeness.
-- **a close friend:** Close friend describes a strong personal relationship, not physical distance.
+- **a close friend:** 'Close friend' describes a strong personal relationship, not physical distance.
 - **a mutual friend:** A mutual friend is shared by two people; that does not specify intimacy.
-- **a new friend:** New friend describes how recently the friendship began.
+- **a new friend:** 'New friend' describes how recently the friendship began.
 
 **Decision:** replaced.
 
@@ -1563,13 +1563,13 @@ Choose the phrase for formally sending the request for consideration.
 3. submit a request **[Correct]**
 4. review a request
 
-**Explanation:** Submit a request means formally send or present it to the person who will consider it.
+**Explanation:** 'Submit a request' means formally send or present it to the person who will consider it.
 
 **Choice feedback:**
 
 - **grant a request:** Granting approves it; that is the hall's later decision.
 - **withdraw a request:** Withdrawing takes the request out of consideration.
-- **submit a request:** Submit a request means formally send or present it to the person who will consider it.
+- **submit a request:** 'Submit a request' means formally send or present it to the person who will consider it.
 - **review a request:** Reviewing examines it; it does not mean sending it in.
 
 **Decision:** replaced.
@@ -1595,12 +1595,12 @@ Which phrase describes the journalist's role?
 3. decline an interview
 4. quote an interview
 
-**Explanation:** Conduct an interview means organize and lead the questioning.
+**Explanation:** 'Conduct an interview' means organize and lead the questioning.
 
 **Choice feedback:**
 
-- **give an interview:** Giving an interview normally describes the person answering the journalist's questions.
-- **conduct an interview:** Conduct an interview means organize and lead the questioning.
+- **give an interview:** 'Giving an interview' normally describes the person answering the journalist's questions.
+- **conduct an interview:** 'Conduct an interview' means organize and lead the questioning.
 - **decline an interview:** Declining refuses the interview; this conversation took place.
 - **quote an interview:** Quoting reproduces words from an interview rather than conducts it.
 
@@ -1755,14 +1755,14 @@ Which phrase describes maintaining that contact?
 3. keep in touch **[Correct]**
 4. be out of touch
 
-**Explanation:** Keep in touch means continue communicating with someone over time.
+**Explanation:** 'Keep in touch' means continue communicating with someone over time.
 
 **Choice feedback:**
 
-- **lose touch:** Losing touch means communication stops or becomes absent.
-- **get in touch:** Getting in touch describes making contact, not specifically maintaining it.
-- **keep in touch:** Keep in touch means continue communicating with someone over time.
-- **be out of touch:** Being out of touch means lacking current contact or information.
+- **lose touch:** 'Losing touch' means communication stops or becomes absent.
+- **get in touch:** 'Getting in touch' describes making contact, not specifically maintaining it.
+- **keep in touch:** 'Keep in touch' means continue communicating with someone over time.
+- **be out of touch:** 'Being out of touch' means lacking current contact or information.
 
 **Decision:** replaced.
 
@@ -1851,13 +1851,13 @@ Which phrase expresses the intended reduction?
 3. cut costs **[Correct]**
 4. increase costs
 
-**Explanation:** Cut costs means reduce expenditure.
+**Explanation:** 'Cut costs' means reduce expenditure.
 
 **Choice feedback:**
 
-- **cover costs:** Covering costs means provide enough money to pay them, not reduce them.
+- **cover costs:** 'Covering costs' means provide enough money to pay them, not reduce them.
 - **estimate costs:** Estimating calculates likely costs rather than reduces them.
-- **cut costs:** Cut costs means reduce expenditure.
+- **cut costs:** 'Cut costs' means reduce expenditure.
 - **increase costs:** Increasing makes costs higher, opposite to the intention.
 
 **Decision:** replaced.
@@ -1883,12 +1883,12 @@ Which expression has that meaning?
 3. half asleep
 4. fully awake
 
-**Explanation:** Fast asleep is an established phrase meaning deeply asleep; fast does not describe speed here.
+**Explanation:** 'Fast asleep' is an established phrase meaning deeply asleep; 'fast' does not describe speed here.
 
 **Choice feedback:**
 
-- **fast asleep:** Fast asleep is an established phrase meaning deeply asleep; fast does not describe speed here.
-- **wide awake:** Wide awake means fully awake, opposite to sleeping deeply.
+- **fast asleep:** 'Fast asleep' is an established phrase meaning deeply asleep; 'fast' does not describe speed here.
+- **wide awake:** 'Wide awake' means fully awake, opposite to sleeping deeply.
 - **half asleep:** Half asleep suggests drowsiness or only partial wakefulness, not deep sleep.
 - **fully awake:** Fully awake confirms wakefulness rather than sleep.
 
@@ -1915,14 +1915,14 @@ Which phrase describes that change in Theo himself?
 3. have confidence in someone
 4. gain confidence **[Correct]**
 
-**Explanation:** Gain confidence means become more sure of your own ability or prospects.
+**Explanation:** 'Gain confidence' means become more sure of your own ability or prospects.
 
 **Choice feedback:**
 
-- **lose confidence:** Losing confidence means becoming less sure, opposite to the change.
-- **give someone confidence:** Giving someone confidence describes helping another person become more sure.
-- **have confidence in someone:** Having confidence in someone expresses trust in that person, not an increase in one's own self-assurance.
-- **gain confidence:** Gain confidence means become more sure of your own ability or prospects.
+- **lose confidence:** 'Losing confidence' means becoming less sure, opposite to the change.
+- **give someone confidence:** 'Giving someone confidence' describes helping another person become more sure.
+- **have confidence in someone:** 'Having confidence in someone' expresses trust in that person, not an increase in one's own self-assurance.
+- **gain confidence:** 'Gain confidence' means become more sure of your own ability or prospects.
 
 **Decision:** replaced.
 
@@ -1983,14 +1983,14 @@ Which phrase describes directing other people's notice toward it?
 3. divert attention from the omission
 4. escape attention entirely
 
-**Explanation:** Draw attention to something means cause others to notice it.
+**Explanation:** 'Draw attention to something' means cause others to notice it.
 
 **Choice feedback:**
 
-- **draw attention to the omission:** Draw attention to something means cause others to notice it.
-- **pay attention to the omission:** Paying attention describes the observer's own focus, not directing readers' notice.
+- **draw attention to the omission:** 'Draw attention to something' means cause others to notice it.
+- **pay attention to the omission:** 'Paying attention' describes the observer's own focus, not directing readers' notice.
 - **divert attention from the omission:** Diverting attention moves notice away from it.
-- **escape attention entirely:** Escaping attention means going unnoticed, opposite to highlighting.
+- **escape attention entirely:** 'Escaping attention' means going unnoticed, opposite to highlighting.
 
 **Decision:** replaced.
 
@@ -2015,11 +2015,11 @@ Which phrase combines accepting accountability with the error named here?
 3. deny responsibility for the error
 4. evade responsibility for the error
 
-**Explanation:** Take responsibility for something means accept that you are accountable for it.
+**Explanation:** 'Take responsibility for something' means accept that you are accountable for it.
 
 **Choice feedback:**
 
-- **take responsibility for the error:** Take responsibility for something means accept that you are accountable for it.
+- **take responsibility for the error:** 'Take responsibility for something' means accept that you are accountable for it.
 - **shift responsibility for the error:** Shifting responsibility tries to move accountability elsewhere.
 - **deny responsibility for the error:** Denying rejects accountability, contrary to the admission.
 - **evade responsibility for the error:** Evading avoids being held accountable rather than accepts the error as one's own.
@@ -2053,8 +2053,8 @@ Which phrase explicitly says the experience came from direct involvement?
 
 - **extensive experience:** Extensive says there was a great deal, not how the knowledge was obtained.
 - **first-hand experience:** First-hand experience comes from personal involvement rather than others' accounts.
-- **limited experience:** Limited describes amount; it does not specify the source.
-- **relevant experience:** Relevant describes usefulness to a purpose, not direct participation.
+- **limited experience:** 'Limited' describes amount; it does not specify the source.
+- **relevant experience:** 'Relevant' describes usefulness to a purpose, not direct participation.
 
 **Decision:** replaced.
 
@@ -2079,14 +2079,14 @@ Which partnership describes the emotional intensity, not the duration or format?
 3. a heated debate **[Correct]**
 4. a structured debate
 
-**Explanation:** Heated debate describes intense, often angry disagreement.
+**Explanation:** 'Heated debate' describes intense, often angry disagreement.
 
 **Choice feedback:**
 
 - **a lengthy debate:** Lengthy concerns time spent, not anger or passion.
 - **a public debate:** Public identifies the audience or access, not emotional intensity.
-- **a heated debate:** Heated debate describes intense, often angry disagreement.
-- **a structured debate:** Structured describes organization, which can coexist with any emotional tone.
+- **a heated debate:** 'Heated debate' describes intense, often angry disagreement.
+- **a structured debate:** 'Structured' describes organization, which can coexist with any emotional tone.
 
 **Decision:** replaced.
 
@@ -2175,14 +2175,14 @@ Which expression asks you to keep that fact under consideration?
 3. make up your mind
 4. bear it in mind **[Correct]**
 
-**Explanation:** Bear something in mind means remember and consider it when acting or deciding.
+**Explanation:** 'Bear something in mind' means remember and consider it when acting or deciding.
 
 **Choice feedback:**
 
 - **change your mind:** Changing your mind alters a decision rather than simply keeps a fact in view.
-- **speak your mind:** Speaking your mind expresses your opinion openly.
-- **make up your mind:** Making up your mind means reach a decision, not remember a relevant fact.
-- **bear it in mind:** Bear something in mind means remember and consider it when acting or deciding.
+- **speak your mind:** 'Speaking your mind' expresses your opinion openly.
+- **make up your mind:** 'Making up your mind' means reach a decision, not remember a relevant fact.
+- **bear it in mind:** 'Bear something in mind' means remember and consider it when acting or deciding.
 
 **Decision:** replaced.
 
@@ -2239,14 +2239,14 @@ Choose the phrase that states a response, without claiming that anyone became le
 3. addressed the concerns **[Correct]**
 4. voiced the concerns
 
-**Explanation:** Address concerns means deal with or respond to them; it does not guarantee that concern is removed.
+**Explanation:** 'Address concerns' means deal with or respond to them; it does not guarantee that concern is removed.
 
 **Choice feedback:**
 
-- **allayed the concerns:** Allaying means reducing or calming worries, a stronger outcome than merely responding.
+- **allayed the concerns:** 'Allaying' means reducing or calming worries, a stronger outcome than merely responding.
 - **dismissed the concerns:** Dismissing treats worries as unworthy of attention, not a substantive response to them.
-- **addressed the concerns:** Address concerns means deal with or respond to them; it does not guarantee that concern is removed.
-- **voiced the concerns:** Voicing expresses the worries; here the organizer responds to concerns already raised.
+- **addressed the concerns:** 'Address concerns' means deal with or respond to them; it does not guarantee that concern is removed.
+- **voiced the concerns:** 'Voicing' expresses the worries; here the organizer responds to concerns already raised.
 
 **Decision:** replaced.
 
@@ -2303,11 +2303,11 @@ Which phrase describes showing some leniency in judging her, rather than arrangi
 3. made mention of her inexperience
 4. made provision for her inexperience
 
-**Explanation:** Make allowances for means adjust judgment or expectations in view of someone's circumstances.
+**Explanation:** 'Make allowances for' means adjust judgment or expectations in view of someone's circumstances.
 
 **Choice feedback:**
 
-- **made allowances for her inexperience:** Make allowances for means adjust judgment or expectations in view of someone's circumstances.
+- **made allowances for her inexperience:** 'Make allowances for' means adjust judgment or expectations in view of someone's circumstances.
 - **made amends for her inexperience:** Making amends repairs a wrong; the tutor is not compensating for one here.
 - **made mention of her inexperience:** Mentioning could merely name the circumstance, without adapting the judgment.
 - **made provision for her inexperience:** Making provision prepares support or arrangements; the sentence concerns how performance was judged.
@@ -2342,7 +2342,7 @@ Choose the phrase meaning 'help explain the decision'.
 - **cast doubt on the decision:** Casting doubt questions validity or certainty rather than explains why something occurred.
 - **shed light on the decision:** 'Shed light on' means provide information that improves understanding.
 - **draw attention away from the decision:** Drawing attention away reduces focus instead of clarifies the issue.
-- **lose sight of the decision:** Losing sight means failing to keep something in view, not explaining it.
+- **lose sight of the decision:** 'Losing sight' means failing to keep something in view, not explaining it.
 
 **Decision:** replaced.
 
@@ -2403,7 +2403,7 @@ Choose the phrase meaning 'encountered opposition': 'The proposal ___.'
 
 **Choice feedback:**
 
-- **overcame resistance:** Overcoming means defeating or getting past opposition; that has not happened.
+- **overcame resistance:** 'Overcoming' means defeating or getting past opposition; that has not happened.
 - **met with resistance:** 'Meet with resistance' means encounter opposition to an action or proposal.
 - **weakened resistance:** Weakening reduces opposition rather than simply encounters it.
 - **eliminated resistance:** Eliminating removes opposition, contrary to the objections.
@@ -2436,7 +2436,7 @@ Choose the phrase expressing exposure to that possible loss: 'You ___.'
 **Choice feedback:**
 
 - **run the risk of losing the draft:** 'Run the risk of' means expose yourself to a possible adverse outcome.
-- **bear the cost of losing the draft:** Bearing the cost describes carrying consequences, not merely facing a possibility.
+- **bear the cost of losing the draft:** 'Bearing the cost' describes carrying consequences, not merely facing a possibility.
 - **avoid the risk of losing the draft:** Avoiding the risk prevents exposure; working on the only copy leaves the possible loss described here.
 - **take responsibility for losing the draft:** Taking responsibility accepts accountability for a loss, rather than names exposure to the possibility.
 
@@ -2499,7 +2499,7 @@ Which phrase means 'match the rate of increasing demand'?
 
 **Choice feedback:**
 
-- **fall behind demand:** Falling behind means capacity fails to match demand.
+- **fall behind demand:** 'Falling behind' means capacity fails to match demand.
 - **drive demand upward:** Driving demand creates more requests rather than responds to them at a matching rate.
 - **keep pace with demand:** 'Keep pace with' means develop or move at a rate sufficient to match something else.
 - **put demand on hold:** Putting demand on hold would delay it rather than keep up with its growth.
@@ -2559,14 +2559,14 @@ Which phrase describes customs as firmly established rather than newly created o
 3. loosely connected customs
 4. deeply rooted customs **[Correct]**
 
-**Explanation:** Deeply rooted describes ideas or practices strongly established over time.
+**Explanation:** 'Deeply rooted' describes ideas or practices strongly established over time.
 
 **Choice feedback:**
 
 - **widely advertised customs:** Advertising concerns publicity, not how firmly practices are established.
 - **recently introduced customs:** Recently introduced conflicts with the multi-generation history.
-- **loosely connected customs:** Loosely connected describes relationships among customs, not their strength of establishment.
-- **deeply rooted customs:** Deeply rooted describes ideas or practices strongly established over time.
+- **loosely connected customs:** 'Loosely connected' describes relationships among customs, not their strength of establishment.
+- **deeply rooted customs:** 'Deeply rooted' describes ideas or practices strongly established over time.
 
 **Decision:** replaced.
 
@@ -2595,14 +2595,14 @@ Which phrase describes that anticipated difficulty rather than the likelihood of
 3. a welcome development
 4. a daunting prospect **[Correct]**
 
-**Explanation:** Daunting prospect describes a future situation that feels difficult or intimidating.
+**Explanation:** 'Daunting prospect' describes a future situation that feels difficult or intimidating.
 
 **Choice feedback:**
 
 - **a remote possibility:** Remote possibility concerns low likelihood, whereas the role has been accepted.
 - **a foregone conclusion:** Foregone conclusion treats an outcome as already settled; it does not describe intimidation.
-- **a welcome development:** Welcome development expresses a favorable response, not the intimidating aspect specified.
-- **a daunting prospect:** Daunting prospect describes a future situation that feels difficult or intimidating.
+- **a welcome development:** 'Welcome development' expresses a favorable response, not the intimidating aspect specified.
+- **a daunting prospect:** 'Daunting prospect' describes a future situation that feels difficult or intimidating.
 
 **Decision:** replaced.
 
@@ -2659,13 +2659,13 @@ Which phrase emphasizes gathering and organizing resources for use?
 3. marshal resources **[Correct]**
 4. exhaust resources
 
-**Explanation:** Marshal resources means bring them together and organize them effectively for a purpose.
+**Explanation:** 'Marshal resources' means bring them together and organize them effectively for a purpose.
 
 **Choice feedback:**
 
 - **allocate resources:** Allocating assigns resources to uses; it does not specifically emphasize gathering them into an organized effort.
 - **conserve resources:** Conserving saves resources from consumption rather than mobilizes them.
-- **marshal resources:** Marshal resources means bring them together and organize them effectively for a purpose.
+- **marshal resources:** 'Marshal resources' means bring them together and organize them effectively for a purpose.
 - **exhaust resources:** Exhausting uses them up, not organizes them for use.
 
 **Decision:** replaced.
@@ -2723,13 +2723,13 @@ Which evidence phrase expresses persuasive force rather than conclusiveness or s
 3. compelling evidence **[Correct]**
 4. circumstantial evidence
 
-**Explanation:** Compelling evidence is strongly persuasive; the adjective does not itself claim a final proof.
+**Explanation:** 'Compelling evidence' is strongly persuasive; the adjective does not itself claim a final proof.
 
 **Choice feedback:**
 
 - **conclusive evidence:** Conclusive claims that the evidence settles the matter, stronger than the intended praise.
-- **anecdotal evidence:** Anecdotal describes evidence from particular accounts or experiences, not its persuasive force.
-- **compelling evidence:** Compelling evidence is strongly persuasive; the adjective does not itself claim a final proof.
+- **anecdotal evidence:** 'Anecdotal' describes evidence from particular accounts or experiences, not its persuasive force.
+- **compelling evidence:** 'Compelling evidence' is strongly persuasive; the adjective does not itself claim a final proof.
 - **circumstantial evidence:** Circumstantial concerns an indirect type of support, not a judgment that it is persuasive.
 
 **Decision:** replaced.
@@ -2755,12 +2755,12 @@ Choose the phrase for devising the plan, not communicating or carrying out an ex
 3. execute a strategy
 4. reassess a strategy
 
-**Explanation:** Formulate a strategy means develop a coherent plan from ideas and considerations.
+**Explanation:** 'Formulate a strategy' means develop a coherent plan from ideas and considerations.
 
 **Choice feedback:**
 
-- **articulate a strategy:** Articulating expresses a strategy clearly; it does not specifically mean devising it.
-- **formulate a strategy:** Formulate a strategy means develop a coherent plan from ideas and considerations.
+- **articulate a strategy:** 'Articulating' expresses a strategy clearly; it does not specifically mean devising it.
+- **formulate a strategy:** 'Formulate a strategy' means develop a coherent plan from ideas and considerations.
 - **execute a strategy:** Executing puts a strategy into action after it exists.
 - **reassess a strategy:** Reassessing evaluates an existing strategy again.
 
@@ -2793,7 +2793,7 @@ Which phrase specifically emphasizes resilience rather than severity, complexity
 
 - **robust safeguards:** Robust safeguards remain effective under difficult conditions or stresses.
 - **stringent safeguards:** Stringent emphasizes strict requirements rather than resilience to failures.
-- **elaborate safeguards:** Elaborate describes complexity and detail; complexity need not make protection robust.
+- **elaborate safeguards:** 'Elaborate' describes complexity and detail; complexity need not make protection robust.
 - **statutory safeguards:** Statutory identifies a legal source, not how reliably protection works.
 
 **Decision:** replaced.
@@ -2824,8 +2824,8 @@ Which partnership makes that understanding central?
 **Choice feedback:**
 
 - **informed consent:** Informed consent emphasizes agreement based on relevant information and understanding.
-- **explicit consent:** Explicit means clearly expressed; expression alone does not establish understanding.
-- **tacit consent:** Tacit describes agreement inferred without an explicit statement, not informed understanding.
+- **explicit consent:** 'Explicit' means clearly expressed; expression alone does not establish understanding.
+- **tacit consent:** 'Tacit' describes agreement inferred without an explicit statement, not informed understanding.
 - **retrospective consent:** Retrospective identifies agreement given after an event rather than prior understanding.
 
 **Decision:** replaced.
@@ -2851,13 +2851,13 @@ Which phrase emphasizes receiving the positive results of earlier effort?
 3. reap the benefits **[Correct]**
 4. offset the benefits
 
-**Explanation:** Reap the benefits means receive advantages resulting from previous work or developments.
+**Explanation:** 'Reap the benefits' means receive advantages resulting from previous work or developments.
 
 **Choice feedback:**
 
 - **weigh the benefits:** Weighing evaluates benefits rather than enjoys the returns.
 - **forgo the benefits:** Forgoing gives up advantages rather than receives them.
-- **reap the benefits:** Reap the benefits means receive advantages resulting from previous work or developments.
+- **reap the benefits:** 'Reap the benefits' means receive advantages resulting from previous work or developments.
 - **offset the benefits:** Offsetting counterbalances the advantages, reducing their net effect.
 
 **Decision:** replaced.
@@ -2883,12 +2883,12 @@ Which phrase describes creating that example for later decisions?
 3. cite a precedent
 4. overturn a precedent
 
-**Explanation:** Set a precedent means establish an example that may guide later actions.
+**Explanation:** 'Set a precedent' means establish an example that may guide later actions.
 
 **Choice feedback:**
 
 - **follow a precedent:** Following uses an earlier example; this archive created the first one in the network.
-- **set a precedent:** Set a precedent means establish an example that may guide later actions.
+- **set a precedent:** 'Set a precedent' means establish an example that may guide later actions.
 - **cite a precedent:** Citing mentions an existing example rather than establishes the new model.
 - **overturn a precedent:** Overturning rejects an existing rule or practice; the sentence describes creating a model.
 
@@ -2979,11 +2979,11 @@ Which phrase preserves the existing method while emphasizing minor improvements?
 3. devise the method
 4. abandon the method
 
-**Explanation:** Fine-tune means make small, precise adjustments to improve an already functioning approach.
+**Explanation:** 'Fine-tune' means make small, precise adjustments to improve an already functioning approach.
 
 **Choice feedback:**
 
-- **fine-tune the method:** Fine-tune means make small, precise adjustments to improve an already functioning approach.
+- **fine-tune the method:** 'Fine-tune' means make small, precise adjustments to improve an already functioning approach.
 - **overhaul the method:** Overhauling suggests substantial revision rather than small adjustments.
 - **devise the method:** Devising creates a method; this one already works.
 - **abandon the method:** Abandoning stops using it rather than improves it.
@@ -3011,14 +3011,14 @@ Which phrase expresses questioning that belief's validity?
 3. base a plan on the assumption
 4. challenge the assumption **[Correct]**
 
-**Explanation:** Challenge an assumption means question whether the accepted premise is justified.
+**Explanation:** 'Challenge an assumption' means question whether the accepted premise is justified.
 
 **Choice feedback:**
 
 - **take the assumption for granted:** Taking it for granted accepts it without the questioning described.
 - **lend credence to the assumption:** Lending credence makes it more believable rather than challenges it.
 - **base a plan on the assumption:** Using it as a planning basis does not itself test its truth.
-- **challenge the assumption:** Challenge an assumption means question whether the accepted premise is justified.
+- **challenge the assumption:** 'Challenge an assumption' means question whether the accepted premise is justified.
 
 **Decision:** replaced.
 
@@ -3043,11 +3043,11 @@ Choose the phrase for recognizing those weaknesses without claiming a remedy.
 3. conceal the limitations
 4. eliminate the limitations
 
-**Explanation:** Acknowledge limitations means recognize or admit them; it does not itself claim to remove them.
+**Explanation:** 'Acknowledge limitations' means recognize or admit them; it does not itself claim to remove them.
 
 **Choice feedback:**
 
-- **acknowledge the limitations:** Acknowledge limitations means recognize or admit them; it does not itself claim to remove them.
+- **acknowledge the limitations:** 'Acknowledge limitations' means recognize or admit them; it does not itself claim to remove them.
 - **overcome the limitations:** Overcoming suggests getting past the weaknesses, which is not claimed.
 - **conceal the limitations:** Concealing hides weaknesses rather than openly names them.
 - **eliminate the limitations:** Eliminating removes them, stronger than the recognition described.
@@ -3075,14 +3075,14 @@ Choose the phrase for acquiring that deeper understanding.
 3. keep a record of workshop life
 4. gain an insight into workshop life **[Correct]**
 
-**Explanation:** Gain an insight into means come to understand an aspect of something more clearly or deeply.
+**Explanation:** 'Gain an insight into' means come to understand an aspect of something more clearly or deeply.
 
 **Choice feedback:**
 
 - **gain a foothold in workshop life:** Gaining a foothold establishes a position or initial access, not necessarily understanding.
-- **take an interest in workshop life:** Taking an interest describes curiosity, which need not lead to insight.
-- **keep a record of workshop life:** Keeping a record documents events rather than names the historian's new understanding.
-- **gain an insight into workshop life:** Gain an insight into means come to understand an aspect of something more clearly or deeply.
+- **take an interest in workshop life:** 'Taking an interest' describes curiosity, which need not lead to insight.
+- **keep a record of workshop life:** 'Keeping a record' documents events rather than names the historian's new understanding.
+- **gain an insight into workshop life:** 'Gain an insight into' means come to understand an aspect of something more clearly or deeply.
 
 **Decision:** replaced.
 
@@ -3144,9 +3144,9 @@ Which phrase says the alternative can work, without saying it is preferred or ch
 **Choice feedback:**
 
 - **a viable alternative:** A viable alternative is a realistic option capable of working in practice.
-- **a preferred alternative:** Preferred describes choice or desirability, which the context distinguishes from practicality.
-- **a provisional alternative:** Provisional describes temporary or not-yet-final status, not workability.
-- **a low-cost alternative:** Low-cost describes price, which the statement does not establish.
+- **a preferred alternative:** 'Preferred' describes choice or desirability, which the context distinguishes from practicality.
+- **a provisional alternative:** 'Provisional' describes temporary or not-yet-final status, not workability.
+- **a low-cost alternative:** 'Low-cost' describes price, which the statement does not establish.
 
 **Decision:** replaced.
 
@@ -3171,13 +3171,13 @@ Which phrase describes controlling her own reaction, not placing rules on other 
 3. exercise restraint **[Correct]**
 4. resist restraints
 
-**Explanation:** Exercise restraint means deliberately hold back one's own impulses or actions.
+**Explanation:** 'Exercise restraint' means deliberately hold back one's own impulses or actions.
 
 **Choice feedback:**
 
 - **impose restraints:** Imposing restraints places external limits on someone or something.
 - **relax restraints:** Relaxing restraints reduces limits rather than exercises self-control.
-- **exercise restraint:** Exercise restraint means deliberately hold back one's own impulses or actions.
+- **exercise restraint:** 'Exercise restraint' means deliberately hold back one's own impulses or actions.
 - **resist restraints:** Resisting restraints opposes limits rather than voluntarily holds back.
 
 **Decision:** replaced.
@@ -3203,14 +3203,14 @@ Which phrase emphasizes actively creating the new alliance rather than strengthe
 3. sever an alliance
 4. forge an alliance **[Correct]**
 
-**Explanation:** Forge an alliance means create a strong cooperative relationship through deliberate effort.
+**Explanation:** 'Forge an alliance' means create a strong cooperative relationship through deliberate effort.
 
 **Choice feedback:**
 
 - **cement an alliance:** Cementing makes an existing alliance firmer; the specified emphasis is its creation.
 - **inherit an alliance:** Inheriting receives an existing relationship rather than actively negotiates a new one.
 - **sever an alliance:** Severing ends the relationship, opposite to creating one.
-- **forge an alliance:** Forge an alliance means create a strong cooperative relationship through deliberate effort.
+- **forge an alliance:** 'Forge an alliance' means create a strong cooperative relationship through deliberate effort.
 
 **Decision:** replaced.
 
@@ -3239,14 +3239,14 @@ Which phrase emphasizes preventing the crisis from occurring, rather than limiti
 3. weather a crisis
 4. avert a crisis **[Correct]**
 
-**Explanation:** Avert a crisis means prevent a threatened crisis from happening.
+**Explanation:** 'Avert a crisis' means prevent a threatened crisis from happening.
 
 **Choice feedback:**
 
 - **contain a crisis:** Contain limits the spread or severity of a crisis that exists.
 - **resolve a crisis:** Resolve brings an existing crisis to an end rather than specifically prevents it.
-- **weather a crisis:** Weather means endure a crisis successfully, not prevent its occurrence.
-- **avert a crisis:** Avert a crisis means prevent a threatened crisis from happening.
+- **weather a crisis:** 'Weather' means endure a crisis successfully, not prevent its occurrence.
+- **avert a crisis:** 'Avert a crisis' means prevent a threatened crisis from happening.
 
 **Decision:** replaced.
 
@@ -3271,14 +3271,14 @@ Which phrase marks useful results without implying the work is finished or finan
 3. bear fruit **[Correct]**
 4. gather pace
 
-**Explanation:** Bear fruit means produce worthwhile results; it does not require completion or profit.
+**Explanation:** 'Bear fruit' means produce worthwhile results; it does not require completion or profit.
 
 **Choice feedback:**
 
 - **break even:** Break even concerns income matching costs, not simply useful discoveries.
 - **run its course:** Run its course suggests a process proceeding to its natural end, unlike the continuing search.
-- **bear fruit:** Bear fruit means produce worthwhile results; it does not require completion or profit.
-- **gather pace:** Gather pace means accelerate, which does not itself establish useful results.
+- **bear fruit:** 'Bear fruit' means produce worthwhile results; it does not require completion or profit.
+- **gather pace:** 'Gather pace' means accelerate, which does not itself establish useful results.
 
 **Decision:** replaced.
 
@@ -3303,11 +3303,11 @@ Which phrase describes this practical power without assigning formal authority?
 3. exercise statutory powers
 4. enjoy ceremonial status
 
-**Explanation:** Wield influence means use or possess an effective ability to shape outcomes, without necessarily holding office.
+**Explanation:** 'Wield influence' means use or possess an effective ability to shape outcomes, without necessarily holding office.
 
 **Choice feedback:**
 
-- **wield considerable influence:** Wield influence means use or possess an effective ability to shape outcomes, without necessarily holding office.
+- **wield considerable influence:** 'Wield influence' means use or possess an effective ability to shape outcomes, without necessarily holding office.
 - **hold executive office:** Holding office would give a formal role, which the sentence excludes.
 - **exercise statutory powers:** Statutory powers arise from legal authority, not the informal influence described.
 - **enjoy ceremonial status:** Ceremonial status need not affect decisions; her opinions have a practical effect.
@@ -3335,14 +3335,14 @@ Which phrase says the design survived critical examination, not merely received 
 3. escaped scrutiny
 4. invited scrutiny
 
-**Explanation:** Withstand scrutiny means remain defensible or convincing under close examination.
+**Explanation:** 'Withstand scrutiny' means remain defensible or convincing under close examination.
 
 **Choice feedback:**
 
-- **underwent scrutiny:** Undergoing scrutiny means being examined; it does not specify whether the design survived the challenge.
-- **withstood scrutiny:** Withstand scrutiny means remain defensible or convincing under close examination.
-- **escaped scrutiny:** Escaping scrutiny means avoiding examination, contrary to the reviewers' work.
-- **invited scrutiny:** Inviting scrutiny prompts examination rather than describes surviving it.
+- **underwent scrutiny:** 'Undergoing scrutiny' means being examined; it does not specify whether the design survived the challenge.
+- **withstood scrutiny:** 'Withstand scrutiny' means remain defensible or convincing under close examination.
+- **escaped scrutiny:** 'Escaping scrutiny' means avoiding examination, contrary to the reviewers' work.
+- **invited scrutiny:** 'Inviting scrutiny' prompts examination rather than describes surviving it.
 
 **Decision:** replaced.
 
@@ -3374,7 +3374,7 @@ Which phrase best describes functional ability without claiming deep mastery?
 - **a working knowledge of Italian:** Working knowledge is enough to use something for practical purposes, without implying comprehensive mastery.
 - **an intimate knowledge of Italian:** Intimate knowledge suggests depth and familiarity beyond the practical ability described.
 - **a nodding acquaintance with Italian:** A nodding acquaintance suggests only slight familiarity, less than routinely using manuals.
-- **a passing interest in Italian:** Interest describes curiosity, not the ability to work with the language.
+- **a passing interest in Italian:** 'Interest' describes curiosity, not the ability to work with the language.
 
 **Decision:** replaced.
 
@@ -3399,11 +3399,11 @@ Which phrase names presenting material as support, rather than interpreting it o
 3. infer a conclusion
 4. qualify a conclusion
 
-**Explanation:** Adduce evidence means bring evidence forward in support of an argument or claim.
+**Explanation:** 'Adduce evidence' means bring evidence forward in support of an argument or claim.
 
 **Choice feedback:**
 
-- **adduce evidence:** Adduce evidence means bring evidence forward in support of an argument or claim.
+- **adduce evidence:** 'Adduce evidence' means bring evidence forward in support of an argument or claim.
 - **interpret evidence:** Interpreting establishes what the material means rather than names its presentation as support.
 - **infer a conclusion:** Inferring draws a conclusion from material rather than supplies the supporting material.
 - **qualify a conclusion:** Qualifying limits or modifies a conclusion, not presents evidence for it.
@@ -3431,11 +3431,11 @@ Which phrase expresses invalidating the argument, not merely limiting or restati
 3. amplify the claim
 4. corroborate the reasoning
 
-**Explanation:** Vitiate an argument means impair its validity or effectiveness; here the circularity is presented as fatal.
+**Explanation:** 'Vitiate an argument' means impair its validity or effectiveness; here the circularity is presented as fatal.
 
 **Choice feedback:**
 
-- **vitiate the argument:** Vitiate an argument means impair its validity or effectiveness; here the circularity is presented as fatal.
+- **vitiate the argument:** 'Vitiate an argument' means impair its validity or effectiveness; here the circularity is presented as fatal.
 - **qualify the conclusion:** Qualifying narrows a conclusion; the identified defect undermines the argument's validity.
 - **amplify the claim:** Amplifying expands or emphasizes a claim rather than invalidates the reasoning.
 - **corroborate the reasoning:** Corroborating supports the reasoning, opposite to identifying a fatal defect.
@@ -3495,12 +3495,12 @@ Which sentence reports the reviewer's interpretation without adding endorsement 
 3. The reviewer elicited the author's refusal to offer comfort.
 4. The reviewer endorsed the ending as a refusal to offer comfort.
 
-**Explanation:** Construe something as means interpret it in a particular way; it attributes a reading without proving intention.
+**Explanation:** 'Construe something as' means interpret it in a particular way; it attributes a reading without proving intention.
 
 **Choice feedback:**
 
 - **The reviewer established the author's refusal to offer comfort.:** Established presents the intention as demonstrated rather than as the reviewer's reading.
-- **The reviewer construed the ending as a refusal to offer comfort.:** Construe something as means interpret it in a particular way; it attributes a reading without proving intention.
+- **The reviewer construed the ending as a refusal to offer comfort.:** 'Construe something as' means interpret it in a particular way; it attributes a reading without proving intention.
 - **The reviewer elicited the author's refusal to offer comfort.:** Elicited implies obtaining that response from the author, whose explanation is unknown.
 - **The reviewer endorsed the ending as a refusal to offer comfort.:** Endorsed adds approval of the ending; identifying a meaning does not itself express approval.
 
@@ -3527,13 +3527,13 @@ Choose the phrase for supporting the allegation with evidence, not merely making
 3. substantiate the allegation **[Correct]**
 4. withdraw the allegation
 
-**Explanation:** Substantiate an allegation means provide supporting evidence for it.
+**Explanation:** 'Substantiate an allegation' means provide supporting evidence for it.
 
 **Choice feedback:**
 
 - **publicize the allegation:** Publicizing makes it widely known, whether or not support is supplied.
 - **reiterate the allegation:** Reiterating repeats it rather than adds evidential support.
-- **substantiate the allegation:** Substantiate an allegation means provide supporting evidence for it.
+- **substantiate the allegation:** 'Substantiate an allegation' means provide supporting evidence for it.
 - **withdraw the allegation:** Withdrawing takes it back rather than supports it.
 
 **Decision:** replaced.
@@ -3559,14 +3559,14 @@ Which phrase best captures the overall reception?
 3. a polarized reception
 4. a lukewarm reception **[Correct]**
 
-**Explanation:** Lukewarm reception describes an unenthusiastic or only mildly favorable response without necessarily implying hostility.
+**Explanation:** 'Lukewarm reception' describes an unenthusiastic or only mildly favorable response without necessarily implying hostility.
 
 **Choice feedback:**
 
 - **a frosty reception:** Frosty suggests coldness or hostility, stronger than polite lack of enthusiasm.
-- **a rapturous reception:** Rapturous describes intense delight, opposite to the limited enthusiasm.
+- **a rapturous reception:** 'Rapturous' describes intense delight, opposite to the limited enthusiasm.
 - **a polarized reception:** The described responses show limited enthusiasm, not sharply opposed camps.
-- **a lukewarm reception:** Lukewarm reception describes an unenthusiastic or only mildly favorable response without necessarily implying hostility.
+- **a lukewarm reception:** 'Lukewarm reception' describes an unenthusiastic or only mildly favorable response without necessarily implying hostility.
 
 **Decision:** replaced.
 
@@ -3591,12 +3591,12 @@ Which phrase presents tradition as a reason or authority, not merely as a subjec
 3. revive tradition
 4. reinterpret tradition
 
-**Explanation:** Invoke tradition means appeal to established practice as a reason or authority.
+**Explanation:** 'Invoke tradition' means appeal to established practice as a reason or authority.
 
 **Choice feedback:**
 
 - **document tradition:** Documenting records practices without necessarily using them to justify a decision.
-- **invoke tradition:** Invoke tradition means appeal to established practice as a reason or authority.
+- **invoke tradition:** 'Invoke tradition' means appeal to established practice as a reason or authority.
 - **revive tradition:** Reviving restores a discontinued practice; the issue here is keeping a current one.
 - **reinterpret tradition:** Reinterpreting gives tradition a new reading rather than necessarily appeals to it as authority.
 
@@ -3623,14 +3623,14 @@ Which phrase describes countering that presumption with contrary evidence?
 3. revive the presumption
 4. rebut the presumption **[Correct]**
 
-**Explanation:** Rebut a presumption means counter it with argument or evidence to the contrary.
+**Explanation:** 'Rebut a presumption' means counter it with argument or evidence to the contrary.
 
 **Choice feedback:**
 
 - **entertain the presumption:** Entertaining considers it as a possibility, not counters it.
-- **articulate the presumption:** Articulating expresses it clearly without disproving it.
+- **articulate the presumption:** 'Articulating' expresses it clearly without disproving it.
 - **revive the presumption:** Reviving restores an assumption previously set aside, opposite to the older recipe's role.
-- **rebut the presumption:** Rebut a presumption means counter it with argument or evidence to the contrary.
+- **rebut the presumption:** 'Rebut a presumption' means counter it with argument or evidence to the contrary.
 
 **Decision:** replaced.
 
@@ -3687,14 +3687,14 @@ Which phrase emphasizes fragile understanding rather than breadth or practical m
 3. a practical grasp of the subject
 4. a tenuous grasp of the subject **[Correct]**
 
-**Explanation:** Tenuous grasp describes understanding that is weak, uncertain or easily lost.
+**Explanation:** 'Tenuous grasp' describes understanding that is weak, uncertain or easily lost.
 
 **Choice feedback:**
 
 - **a firm grasp of the subject:** Firm grasp suggests secure understanding, contrary to the uncertainty in application.
-- **a broad grasp of the subject:** Broad describes range; it does not specifically characterize understanding as fragile.
+- **a broad grasp of the subject:** 'Broad' describes range; it does not specifically characterize understanding as fragile.
 - **a practical grasp of the subject:** Practical grasp suggests the ability to use the knowledge, which is the trainee's weakness.
-- **a tenuous grasp of the subject:** Tenuous grasp describes understanding that is weak, uncertain or easily lost.
+- **a tenuous grasp of the subject:** 'Tenuous grasp' describes understanding that is weak, uncertain or easily lost.
 
 **Decision:** replaced.
 
@@ -3751,14 +3751,14 @@ Which phrase identifies the example's role as a concrete instance, not the inven
 3. qualify the principle
 4. instantiate the principle **[Correct]**
 
-**Explanation:** Instantiate a principle means provide a concrete instance of it.
+**Explanation:** 'Instantiate a principle' means provide a concrete instance of it.
 
 **Choice feedback:**
 
 - **formulate the principle:** Formulating devises or states the principle, which the article has already done.
 - **derive the principle:** Deriving reasons toward a principle; this example is presented after it as an instance.
 - **qualify the principle:** Qualifying limits or modifies the principle rather than simply exemplifies it.
-- **instantiate the principle:** Instantiate a principle means provide a concrete instance of it.
+- **instantiate the principle:** 'Instantiate a principle' means provide a concrete instance of it.
 
 **Decision:** replaced.
 
@@ -3783,13 +3783,13 @@ Which interpretation preserves the negative phrase without turning it into a pre
 3. The disagreements do not make cooperation impossible. **[Correct]**
 4. The disagreements postpone cooperation until agreement on style is reached.
 
-**Explanation:** Do not preclude means do not rule out; it leaves cooperation possible without promising it.
+**Explanation:** 'Do not preclude' means do not rule out; it leaves cooperation possible without promising it.
 
 **Choice feedback:**
 
 - **The disagreements ensure the partners will cooperate.:** Not ruling out cooperation is weaker than ensuring it will happen.
 - **The disagreements have already been resolved through cooperation.:** The phrase states neither resolution nor an event already completed.
-- **The disagreements do not make cooperation impossible.:** Do not preclude means do not rule out; it leaves cooperation possible without promising it.
+- **The disagreements do not make cooperation impossible.:** 'Do not preclude' means do not rule out; it leaves cooperation possible without promising it.
 - **The disagreements postpone cooperation until agreement on style is reached.:** The phrase does not make stylistic agreement a prerequisite for cooperation.
 
 **Decision:** replaced.
@@ -3821,8 +3821,8 @@ Which phrase uses 'distinction' to mean 'honor', not 'a difference between categ
 
 - **drew a distinction between ensembles:** 'Draw a distinction' identifies a difference, not an honor bestowed.
 - **conferred distinction on the ensemble:** 'Confer distinction on' means bestow honor or prestige; this partnership uses a different sense from 'draw a distinction'.
-- **maintained a distinction between ensembles:** Maintaining a distinction preserves a difference between categories or groups.
-- **blurred the distinction between ensembles:** Blurring a distinction makes a difference less clear rather than confers honor.
+- **maintained a distinction between ensembles:** 'Maintaining a distinction' preserves a difference between categories or groups.
+- **blurred the distinction between ensembles:** 'Blurring a distinction' makes a difference less clear rather than confers honor.
 
 **Decision:** replaced.
 
@@ -3847,12 +3847,12 @@ Choose the phrase for fulfilling that duty, not being excused from it or passing
 3. transfer the obligation
 4. incur the obligation
 
-**Explanation:** Discharge an obligation means fulfill the duty or requirement.
+**Explanation:** 'Discharge an obligation' means fulfill the duty or requirement.
 
 **Choice feedback:**
 
 - **waive the obligation:** Waiving releases a requirement; the volunteer actually performed the promised work.
-- **discharge the obligation:** Discharge an obligation means fulfill the duty or requirement.
+- **discharge the obligation:** 'Discharge an obligation' means fulfill the duty or requirement.
 - **transfer the obligation:** Transferring passes the duty to someone else rather than performs it.
 - **incur the obligation:** Incurring becomes subject to the duty, an earlier stage than fulfillment.
 

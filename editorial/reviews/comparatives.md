@@ -23,7 +23,7 @@ Choose the grammatically correct completion: This bag is ___ than that one.
 
 **Choice feedback:**
 
-- **small:** Small describes size but does not fit directly before than here.
+- **small:** 'Small' describes size but does not fit directly before 'than' here.
 - **smaller:** Smaller compares the size of this bag with that one; than introduces the other bag.
 - **smallest:** Smallest ranks a bag within a group; this sentence needs the comparative before than.
 - **more smaller:** Smaller already contains the comparison ending; do not add more to it.
@@ -58,7 +58,7 @@ Complete the comparison correctly: The train is faster ___ the bus.
 - **than:** Than introduces the bus, the second thing in the faster comparison.
 - **as:** As belongs in as fast as, not after faster in this comparison.
 - **that:** That cannot connect faster to the bus in this sentence.
-- **then:** Then relates to time or sequence; than is the comparison word.
+- **then:** 'Then' relates to time or sequence; 'than' is the comparison word.
 
 **Decision:** replaced.
 
@@ -83,14 +83,14 @@ Which sentence matches the temperatures?
 3. The office is as cold as yesterday.
 4. The office is less hot today.
 
-**Explanation:** Hotter means higher in temperature. Twenty-four degrees is higher than eighteen.
+**Explanation:** 'Hotter' means higher in temperature. Twenty-four degrees is higher than eighteen.
 
 **Choice feedback:**
 
-- **The office is hotter today.:** Hotter means higher in temperature. Twenty-four degrees is higher than eighteen.
-- **The office is colder today.:** Colder means a lower temperature, but today's temperature is higher.
-- **The office is as cold as yesterday.:** As cold as describes an equal temperature; the two temperatures differ.
-- **The office is less hot today.:** Less hot means a lower temperature, the opposite of the change shown.
+- **The office is hotter today.:** 'Hotter' means higher in temperature. Twenty-four degrees is higher than eighteen.
+- **The office is colder today.:** 'Colder' means a lower temperature, but today's temperature is higher.
+- **The office is as cold as yesterday.:** 'As cold as' describes an equal temperature; the two temperatures differ.
+- **The office is less hot today.:** 'Less hot' means a lower temperature, the opposite of the change shown.
 
 **Decision:** replaced.
 
@@ -120,7 +120,7 @@ Choose the grammatically correct completion: This box is ___ than the other one.
 **Choice feedback:**
 
 - **heavy:** Heavy does not supply the comparative required before than.
-- **heaviest:** Heaviest is a superlative, not the comparative needed in this sentence.
+- **heaviest:** 'Heaviest' is a superlative, not the comparative needed in this sentence.
 - **heavier:** Heavy changes to heavier in this comparison: the final y becomes i before -er.
 - **more heavier:** Heavier already marks the comparison; adding more repeats it.
 
@@ -179,14 +179,14 @@ Choose the grammatically correct neutral question.
 3. Is this street quiet than yours?
 4. Is this street quieter than yours? **[Correct]**
 
-**Explanation:** Put is before the subject to ask about the street's comparative quality.
+**Explanation:** Put 'is' before the subject to ask about the street's comparative quality.
 
 **Choice feedback:**
 
-- **Does this street quieter than yours?:** Quieter is an adjective; this question needs is, not does without a main verb.
-- **Is this street more quieter than yours?:** Quieter already expresses comparison; more quieter doubles that marking.
+- **Does this street quieter than yours?:** 'Quieter' is an adjective; this question needs 'is', not 'does' without a main verb.
+- **Is this street more quieter than yours?:** 'Quieter' already expresses comparison; 'more quieter' doubles that marking.
 - **Is this street quiet than yours?:** The direct comparison with than needs quieter, not quiet.
-- **Is this street quieter than yours?:** Put is before the subject to ask about the street's comparative quality.
+- **Is this street quieter than yours?:** Put 'is' before the subject to ask about the street's comparative quality.
 
 **Decision:** replaced.
 
@@ -215,7 +215,7 @@ What does Lina mean?
 
 **Choice feedback:**
 
-- **Her bag is heavier than yours.:** Not as heavy means lower in weight, not higher.
+- **Her bag is heavier than yours.:** 'Not as heavy' means lower in weight, not higher.
 - **Her bag is lighter than yours.:** Not as heavy as places Lina's bag below yours in weight: hers is lighter.
 - **The two bags have the same weight.:** As heavy as would express equal weight; not changes that meaning.
 - **Your bag is lighter than hers.:** This reverses which bag has the lower weight.
@@ -275,14 +275,14 @@ Choose the grammatically correct completion: This camera is ___ than my old one.
 3. more better
 4. better **[Correct]**
 
-**Explanation:** Better is the comparative of good; it compares the cameras' quality.
+**Explanation:** 'Better' is the comparative of 'good'; it compares the cameras' quality.
 
 **Choice feedback:**
 
-- **best:** Best is the superlative of good, not the form used before than here.
-- **good:** Good describes quality without making the required than comparison.
-- **more better:** Better already means more good in quality; do not add more.
-- **better:** Better is the comparative of good; it compares the cameras' quality.
+- **best:** 'Best' is the superlative of 'good', not the form used before 'than' here.
+- **good:** 'Good' describes quality without making the required 'than' comparison.
+- **more better:** 'Better' already means 'more good' in quality; do not add 'more'.
+- **better:** 'Better' is the comparative of 'good'; it compares the cameras' quality.
 
 **Decision:** replaced.
 
@@ -339,12 +339,12 @@ Which coffee is the cheapest?
 3. The $3 coffee
 4. The $3 and $4 coffees
 
-**Explanation:** Cheapest means lowest in price within the group; two dollars is the lowest price.
+**Explanation:** 'Cheapest' means lowest in price within the group; two dollars is the lowest price.
 
 **Choice feedback:**
 
 - **The $4 coffee:** Four dollars is the highest price, so this coffee is the most expensive.
-- **The $2 coffee:** Cheapest means lowest in price within the group; two dollars is the lowest price.
+- **The $2 coffee:** 'Cheapest' means lowest in price within the group; two dollars is the lowest price.
 - **The $3 coffee:** Three dollars is the middle price, not the lowest.
 - **The $3 and $4 coffees:** Neither of these has the lowest price, and their prices are different.
 
@@ -371,14 +371,14 @@ Complete the sentence to match the prices: The apartment is ___ expensive than t
 3. most
 4. less **[Correct]**
 
-**Explanation:** Less expensive means lower in price; the apartment costs twenty dollars less.
+**Explanation:** 'Less expensive' means lower in price; the apartment costs twenty dollars less.
 
 **Choice feedback:**
 
 - **more:** More expensive would give the apartment the higher price.
 - **as:** As expensive needs another as and would describe equal prices.
 - **most:** Most ranks something highest; it does not fit this than comparison.
-- **less:** Less expensive means lower in price; the apartment costs twenty dollars less.
+- **less:** 'Less expensive' means lower in price; the apartment costs twenty dollars less.
 
 **Decision:** replaced.
 
@@ -536,7 +536,7 @@ Which sentence describes Sara?
 **Choice feedback:**
 
 - **Sara is five years older than her sister.:** Older reverses the direction: Sara has the lower age.
-- **Sara is as old as her sister.:** As old as means equal ages, but the sisters' ages differ.
+- **Sara is as old as her sister.:** 'As old as' means equal ages, but the sisters' ages differ.
 - **Sara is thirty-five years younger than her sister.:** Thirty-five is the sister's age, not the difference between their ages.
 - **Sara is five years younger than her sister.:** Younger compares ages; thirty is five years below thirty-five.
 
@@ -567,7 +567,7 @@ Complete the sentence to match the numbers: That office has ___ chairs than this
 
 **Choice feedback:**
 
-- **fewer:** Fewer means a lower number; that office has six, not four.
+- **fewer:** 'Fewer' means a lower number; that office has six, not four.
 - **as many:** An equal-number comparison would need as many ... as, and the numbers are unequal.
 - **most:** Most ranks the largest number in a group; this than sentence needs more.
 - **more:** More compares the number of chairs; six is more than four.
@@ -627,13 +627,13 @@ Ask which restaurant has the highest quality: Which is the ___ restaurant on thi
 3. good
 4. most best
 
-**Explanation:** Best is the superlative of good. It asks which restaurant ranks highest in the list.
+**Explanation:** 'Best' is the superlative of 'good'. It asks which restaurant ranks highest in the list.
 
 **Choice feedback:**
 
-- **best:** Best is the superlative of good. It asks which restaurant ranks highest in the list.
+- **best:** 'Best' is the superlative of 'good'. It asks which restaurant ranks highest in the list.
 - **better:** Better compares alternatives; the question asks for the top-ranked restaurant among five.
-- **good:** Good describes quality but does not mean highest in quality in the group.
+- **good:** 'Good' describes quality but does not mean highest in quality in the group.
 - **most best:** Best already has superlative meaning; most best doubles it.
 
 **Decision:** replaced.
@@ -656,21 +656,21 @@ ID: `coverage-comparatives-a2-741`
 
 Using the lift takes one minute; using the stairs takes five.
 
-Choose the standard written completion that describes this large difference: The lift is ___ faster.
+Choose the standard written completion that describes this large difference: 'The lift is ___ faster'.
 
 1. very
 2. much **[Correct]**
 3. a little
 4. as
 
-**Explanation:** Much can strengthen a comparative: much faster describes a large speed difference.
+**Explanation:** 'Much' can strengthen a comparative: 'much faster' describes a large speed difference.
 
 **Choice feedback:**
 
 - **very:** Very normally modifies the basic adjective, as in very fast, not very faster.
-- **much:** Much can strengthen a comparative: much faster describes a large speed difference.
-- **a little:** A little faster describes a small difference, not the large one specified.
-- **as:** As needs the basic adjective and another as for equality; as faster does not fit.
+- **much:** 'Much' can strengthen a comparative: 'much faster' describes a large speed difference.
+- **a little:** 'A little faster' describes a small difference, not the large one specified.
+- **as:** 'As' needs the basic adjective and another 'as' for equality; 'as faster' does not fit.
 
 **Decision:** replaced.
 
@@ -827,9 +827,9 @@ Choose the grammatically correct completion: The case with wheels is easier ___ 
 
 **Choice feedback:**
 
-- **moving:** After easier, an infinitive identifies the action made easier: easier to move.
-- **move:** The bare verb move needs to after easier in this construction.
-- **for move:** For cannot introduce the bare verb move after easier.
+- **moving:** After 'easier', an infinitive identifies the action made easier: 'easier to move'.
+- **move:** The bare verb 'move' needs 'to' after 'easier' in this construction.
+- **for move:** 'For' cannot introduce the bare verb 'move' after 'easier'.
 - **to move:** Easier to move compares the effort needed for moving the case.
 
 **Decision:** replaced.
@@ -860,9 +860,9 @@ Choose the grammatically correct completion: Ren checks the totals ___ than I do
 **Choice feedback:**
 
 - **more carefully:** More carefully compares the manner of checking; than I do supplies the other person's action.
-- **more careful:** Checks needs a manner adverb here; more careful would describe a person or thing.
+- **more careful:** 'Checks' needs a manner adverb here; 'more careful' would describe a person or thing.
 - **as carefully:** An equality comparison needs as carefully as, not as carefully than.
-- **most carefully:** Most carefully is a superlative; the direct than comparison needs more carefully.
+- **most carefully:** 'Most carefully' is a superlative; the direct 'than' comparison needs 'more carefully'.
 
 **Decision:** replaced.
 
@@ -891,8 +891,8 @@ How does B compare the notices?
 
 **Choice feedback:**
 
-- **The new one is much harder to read.:** More clearly describes improvement, and a little describes a small amount.
-- **The two are equally easy to read.:** More clearly indicates a difference, even though it is small.
+- **The new one is much harder to read.:** 'More clearly' describes improvement, and 'a little' describes a small amount.
+- **The two are equally easy to read.:** 'More clearly' indicates a difference, even though it is small.
 - **The new one is much easier to read.:** Much overstates the size of the improvement expressed by a little.
 - **The new one is slightly easier to read.:** A little more clearly reports a small improvement; the glasses are still needed.
 
@@ -919,13 +919,13 @@ What change does Jo describe?
 3. The room keeps becoming colder. **[Correct]**
 4. The room alternates between cold and warm.
 
-**Explanation:** Repeating the comparative with and describes a continuing change in one direction.
+**Explanation:** Repeating the comparative with 'and' describes a continuing change in one direction.
 
 **Choice feedback:**
 
 - **The room is colder than every other room.:** Colder and colder tracks change over time; it does not rank this room against all others.
-- **The room stays at the same low temperature.:** Getting colder and colder means the temperature is changing, not staying the same.
-- **The room keeps becoming colder.:** Repeating the comparative with and describes a continuing change in one direction.
+- **The room stays at the same low temperature.:** Getting 'colder and colder' means the temperature is changing, not staying the same.
+- **The room keeps becoming colder.:** Repeating the comparative with 'and' describes a continuing change in one direction.
 - **The room alternates between cold and warm.:** The repeated colder points in one direction, not back and forth.
 
 **Decision:** replaced.
@@ -987,10 +987,10 @@ Choose the grammatically correct completion: You leave home earlier than I ___.
 
 **Choice feedback:**
 
-- **am:** Am cannot replace the ordinary verb leave in this comparison.
+- **am:** 'Am' cannot replace the ordinary verb 'leave' in this comparison.
 - **do:** Do stands for leave home, avoiding repetition of the action in the comparison.
-- **have:** Have does not replace the simple present leave without a participle.
-- **does:** The subject I takes do, not does.
+- **have:** 'Have' does not replace the simple present 'leave' without a participle.
+- **does:** The subject 'I' takes 'do', not 'does'.
 
 **Decision:** replaced.
 
@@ -1015,12 +1015,12 @@ Complete the sentence correctly: Our team has ___ people as theirs.
 3. more
 4. the most
 
-**Explanation:** As many ... as expresses equal numbers of countable people.
+**Explanation:** 'As many ... as' expresses equal numbers of countable people.
 
 **Choice feedback:**
 
-- **as many:** As many ... as expresses equal numbers of countable people.
-- **as much:** People is plural and countable, so this equal-number comparison uses many.
+- **as many:** 'As many ... as' expresses equal numbers of countable people.
+- **as much:** 'People' is plural and countable, so this equal-number comparison uses 'many'.
 - **more:** More would need than, and it would describe unequal numbers.
 - **the most:** The most ranks a number above others; it does not complete an as equality pattern.
 
@@ -1047,13 +1047,13 @@ Which description matches the change?
 3. More and more people are joining the class. **[Correct]**
 4. The number joining each month is falling.
 
-**Explanation:** More and more plus a plural noun describes an increasing count; the monthly numbers of new arrivals rise.
+**Explanation:** 'More and more' plus a plural noun describes an increasing count; the monthly numbers of new arrivals rise.
 
 **Choice feedback:**
 
-- **Fewer and fewer people are joining the class.:** Fewer and fewer describes declining new arrivals, but the monthly counts increase.
+- **Fewer and fewer people are joining the class.:** 'Fewer and fewer' describes declining new arrivals, but the monthly counts increase.
 - **Just as many people join each month.:** Just as many suggests equal monthly numbers, not eight, twelve, and sixteen.
-- **More and more people are joining the class.:** More and more plus a plural noun describes an increasing count; the monthly numbers of new arrivals rise.
+- **More and more people are joining the class.:** 'More and more' plus a plural noun describes an increasing count; the monthly numbers of new arrivals rise.
 - **The number joining each month is falling.:** Falling gives the opposite trend to the rising counts of new members.
 
 **Decision:** replaced.
@@ -1079,13 +1079,13 @@ Choose the sentence that expresses the price relationship.
 3. The office chair is twice as expensive as the basic chair. **[Correct]**
 4. The chairs are equally expensive.
 
-**Explanation:** Twice as expensive means two times the price: eighty dollars compared with forty.
+**Explanation:** 'Twice as expensive' means two times the price: eighty dollars compared with forty.
 
 **Choice feedback:**
 
 - **The office chair is half as expensive as the basic chair.:** Half would make it twenty dollars; eighty is double forty.
 - **The basic chair is twice as expensive as the office chair.:** This reverses which chair has the double price.
-- **The office chair is twice as expensive as the basic chair.:** Twice as expensive means two times the price: eighty dollars compared with forty.
+- **The office chair is twice as expensive as the basic chair.:** 'Twice as expensive' means two times the price: eighty dollars compared with forty.
 - **The chairs are equally expensive.:** Their prices are eighty and forty, not equal.
 
 **Decision:** replaced.
@@ -1111,11 +1111,11 @@ Which sentence keeps the same comparison?
 3. The road is as dangerous as the river path.
 4. The road is less dangerous than the river path.
 
-**Explanation:** Reversing the order of the routes requires less in place of more to preserve the relation.
+**Explanation:** Reversing the order of the routes requires 'less' in place of 'more' to preserve the relation.
 
 **Choice feedback:**
 
-- **The river path is less dangerous than the road.:** Reversing the order of the routes requires less in place of more to preserve the relation.
+- **The river path is less dangerous than the road.:** Reversing the order of the routes requires 'less' in place of 'more' to preserve the relation.
 - **The river path is more dangerous than the road.:** This swaps the danger ranking between the routes.
 - **The road is as dangerous as the river path.:** As dangerous as would describe equal danger, not the difference stated.
 - **The road is less dangerous than the river path.:** This keeps the route order but reverses more to less, changing the meaning.
@@ -1180,7 +1180,7 @@ Which statement matches the tutor's comparison?
 **Choice feedback:**
 
 - **The two exercises have the same difficulty.:** Just strengthens the equality in as easy as; neither exercise is described as harder.
-- **The online exercise is slightly easier.:** Just as easy as expresses equality, not a small advantage.
+- **The online exercise is slightly easier.:** 'Just as easy as' expresses equality, not a small advantage.
 - **The paper exercise is much easier.:** The sentence does not give the paper exercise an advantage.
 - **The online exercise is only for beginners.:** Just modifies the equality comparison; it does not restrict who may do the exercise.
 
@@ -1207,13 +1207,13 @@ Complete the comparison with the right possession: Our printer is noisier than _
 3. they
 4. them
 
-**Explanation:** Theirs can stand for their printer, keeping a printer-to-printer comparison without repeating the noun.
+**Explanation:** 'Theirs' can stand for 'their printer', keeping a printer-to-printer comparison without repeating the noun.
 
 **Choice feedback:**
 
-- **their:** Their needs a noun after it, such as their printer.
-- **theirs:** Theirs can stand for their printer, keeping a printer-to-printer comparison without repeating the noun.
-- **they:** They refers to the people and does not replace their printer here.
+- **their:** 'Their' needs a noun after it, such as 'their printer'.
+- **theirs:** 'Theirs' can stand for 'their printer', keeping a printer-to-printer comparison without repeating the noun.
+- **they:** 'They' refers to the people and does not replace 'their printer' here.
 - **them:** Them would compare the printer with the people, not with their printer.
 
 **Decision:** replaced.
@@ -1239,12 +1239,12 @@ Which description matches the bookings, not the tour length?
 3. The museum tour is the most popular.
 4. The museum tour is as popular as the others.
 
-**Explanation:** Least popular describes the tour attracting the fewest bookings in this group.
+**Explanation:** 'Least popular' describes the tour attracting the fewest bookings in this group.
 
 **Choice feedback:**
 
 - **The museum tour is the shortest.:** Shortest compares length or duration; all the tours last two hours.
-- **The museum tour is the least popular.:** Least popular describes the tour attracting the fewest bookings in this group.
+- **The museum tour is the least popular.:** 'Least popular' describes the tour attracting the fewest bookings in this group.
 - **The museum tour is the most popular.:** Most popular would fit the highest number of bookings, not the lowest.
 - **The museum tour is as popular as the others.:** As popular as would describe equal popularity rather than the lowest booking count.
 
@@ -1312,7 +1312,7 @@ Choose the grammatically correct sentence expressing this linked change.
 **Choice feedback:**
 
 - **The more you practise, the easier the interview becomes.:** The more ... the easier links an increase in practice to an increase in ease.
-- **More you practise, the easier the interview becomes.:** This paired comparative construction needs the before more as well as before easier.
+- **More you practise, the easier the interview becomes.:** This paired comparative construction needs 'the' before 'more' as well as before 'easier'.
 - **The more you practise, easier the interview becomes.:** The second half of the paired comparison needs the easier.
 - **The more you practise, the more easier the interview becomes.:** Easier already carries the comparative ending, so more easier is double marking.
 
@@ -1503,9 +1503,9 @@ Choose the grammatically correct completion: This is one of the most useful ___ 
 
 **Choice feedback:**
 
-- **guide:** One of selects one member from a plural group, so guide must be plural here.
-- **guide's:** The possessive guide's does not name the plural set selected by one of.
-- **guides':** The possessive guides' needs a possessed noun; it cannot replace the group noun here.
+- **guide:** 'One of' selects one member from a plural group, so 'guide' must be plural here.
+- **guide's:** The possessive "guide's" does not name the plural set selected by 'one of'.
+- **guides':** The possessive "guides'" needs a possessed noun; it cannot replace the group noun here.
 - **guides:** One of the most useful guides selects this guide from a group ranked highly for usefulness.
 
 **Decision:** replaced.
@@ -1631,7 +1631,7 @@ Which conclusion follows from this comparison alone?
 
 **Choice feedback:**
 
-- **The coastal path has no risks for walkers.:** Safer is relative; a lower risk does not mean no risk.
+- **The coastal path has no risks for walkers.:** 'Safer' is relative; a lower risk does not mean no risk.
 - **The cliff path is too dangerous for anyone to use.:** The comparison gives relative risk, not a rule about whether a path may be used.
 - **The coastal path is safer than every path in the area.:** Only the cliff path is named as the comparison point.
 - **The coastal path has the lower level of risk of the two.:** Safer places one path below the other in risk without setting an absolute safety level.
@@ -1666,7 +1666,7 @@ What does B prefer?
 - **Receiving them at a fixed time tomorrow:** The expression favors earlier delivery but gives no fixed time.
 - **Receiving the numbers earlier:** The sooner, the better means that an earlier action would be preferable.
 - **Receiving a smaller number of room numbers:** Sooner compares timing, not the quantity of information.
-- **Receiving them later so they can be checked again:** Later is the opposite of the timing preference expressed.
+- **Receiving them later so they can be checked again:** 'Later' is the opposite of the timing preference expressed.
 
 **Decision:** replaced.
 
@@ -1697,7 +1697,7 @@ Which comparison point is stated?
 
 - **The duration of yesterday's briefing specifically:** Yesterday could be typical or unusual; the sentence does not specifically select it.
 - **The time allowed in today's written schedule:** A scheduled duration can differ from what normally happens; usual names the normal pattern.
-- **The longest briefing the speaker has attended:** Usual is a typical benchmark, not a record maximum.
+- **The longest briefing the speaker has attended:** 'Usual' is a typical benchmark, not a record maximum.
 - **The normal duration of these briefings:** Than usual compares today's event with the typical duration of events of this kind.
 
 **Decision:** replaced.
@@ -1723,14 +1723,14 @@ Choose the grammatically correct completion: The evening shift handles twice ___
 3. as many parcels as **[Correct]**
 4. as many parcels than
 
-**Explanation:** Twice as many parcels as compares two counts and expresses a two-to-one ratio.
+**Explanation:** 'Twice as many parcels as' compares two counts and expresses a two-to-one ratio.
 
 **Choice feedback:**
 
-- **as much parcels as:** Parcels are separate countable items, so use many rather than much.
+- **as much parcels as:** Parcels are separate countable items, so use 'many' rather than 'much'.
 - **many parcels than:** The twice construction here needs as many ... as, not many ... than.
-- **as many parcels as:** Twice as many parcels as compares two counts and expresses a two-to-one ratio.
-- **as many parcels than:** The second comparison word must be as in twice as many ... as.
+- **as many parcels as:** 'Twice as many parcels as' compares two counts and expresses a two-to-one ratio.
+- **as many parcels than:** The second comparison word must be 'as' in 'twice as many ... as'.
 
 **Decision:** replaced.
 
@@ -1819,14 +1819,14 @@ Which capacity belongs to the second-largest room by seating capacity?
 3. 35 people **[Correct]**
 4. Either 35 or 50 people
 
-**Explanation:** Second-largest means one place below the largest; 35 lies between 50 and 20.
+**Explanation:** 'Second-largest' means one place below the largest; 35 lies between 50 and 20.
 
 **Choice feedback:**
 
 - **50 people:** Fifty is the largest capacity, not the second-largest.
 - **20 people:** Twenty is the smallest capacity, two places below the largest in this group.
-- **35 people:** Second-largest means one place below the largest; 35 lies between 50 and 20.
-- **Either 35 or 50 people:** Second-largest names a single rank here; the different capacities leave no tie.
+- **35 people:** 'Second-largest' means one place below the largest; 35 lies between 50 and 20.
+- **Either 35 or 50 people:** 'Second-largest' names a single rank here; the different capacities leave no tie.
 
 **Decision:** replaced.
 
@@ -1876,20 +1876,20 @@ ID: `coverage-comparatives-b1-779`
 
 As the course progresses, each task requires more effort than the previous one.
 
-Choose the standard completion that describes this trend: The tasks are becoming ___.
+Choose the standard completion that describes this trend: 'The tasks are becoming ___'.
 
 1. most and most demanding
 2. more demanding and more
 3. more and more demanding **[Correct]**
 4. more and demanding
 
-**Explanation:** Repeating more around and expresses a growing degree with a longer adjective.
+**Explanation:** Repeating 'more' around 'and' expresses a growing degree with a longer adjective.
 
 **Choice feedback:**
 
-- **most and most demanding:** Most is a superlative; repeating it does not form this increasing-degree expression.
+- **most and most demanding:** 'Most' is a superlative; repeating it does not form this increasing-degree expression.
 - **more demanding and more:** The repeated degree words belong together before demanding: more and more demanding.
-- **more and more demanding:** Repeating more around and expresses a growing degree with a longer adjective.
+- **more and more demanding:** Repeating 'more' around 'and' expresses a growing degree with a longer adjective.
 - **more and demanding:** The second comparative marker is missing; and cannot join more directly to demanding this way.
 
 **Decision:** replaced.
@@ -1911,18 +1911,18 @@ Two notices say 'The new stop is farther from the school' and 'The new stop is f
 Which comment on these distance comparisons is accurate in standard English?
 
 1. Both farther and further can compare physical distance. **[Correct]**
-2. Only farther can refer to physical distance.
-3. Only further can refer to physical distance.
-4. Farther and further describe equal distances.
+2. Only 'farther' can refer to physical distance.
+3. Only 'further' can refer to physical distance.
+4. 'Farther' and 'further' describe equal distances.
 
 **Explanation:** For physical distance, farther and further are both established alternatives; this context does not force one.
 
 **Choice feedback:**
 
 - **Both farther and further can compare physical distance.:** For physical distance, farther and further are both established alternatives; this context does not force one.
-- **Only farther can refer to physical distance.:** Further also commonly compares physical distance; it is not restricted to figurative uses.
-- **Only further can refer to physical distance.:** Farther is a standard physical-distance comparative too.
-- **Farther and further describe equal distances.:** Both are comparative forms of far; neither expresses equality here.
+- **Only 'farther' can refer to physical distance.:** Further also commonly compares physical distance; it is not restricted to figurative uses.
+- **Only 'further' can refer to physical distance.:** 'Farther' is a standard physical-distance comparative too.
+- **'Farther' and 'further' describe equal distances.:** Both are comparative forms of far; neither expresses equality here.
 
 **Decision:** replaced.
 
@@ -2012,17 +2012,17 @@ Which editorial comment is accurate?
 
 1. Only the version with the can express a group ranking.
 2. The bare version compares two rooms; the version with the compares three.
-3. The bare version means very cheap without comparing the rooms.
+3. The bare version means 'very cheap' without comparing the rooms.
 4. Both can express the same lowest-price ranking in this context. **[Correct]**
 
-**Explanation:** After is with no following noun, informal English permits the to be omitted here; both versions rank this room lowest in price.
+**Explanation:** After 'is' with no following noun, informal English permits 'the' to be omitted here; both versions rank this room lowest in price.
 
 **Choice feedback:**
 
-- **Only the version with the can express a group ranking.:** A predicative superlative without a following noun can omit the in informal use and still rank the group.
-- **The bare version compares two rooms; the version with the compares three.:** The phrase of the three sets the group in both versions; article choice does not change its size.
-- **The bare version means very cheap without comparing the rooms.:** Cheapest and of the three still supply a superlative ranking; omitting the does not turn it into very cheap.
-- **Both can express the same lowest-price ranking in this context.:** After is with no following noun, informal English permits the to be omitted here; both versions rank this room lowest in price.
+- **Only the version with the can express a group ranking.:** A predicative superlative without a following noun can omit 'the' in informal use and still rank the group.
+- **The bare version compares two rooms; the version with the compares three.:** The phrase 'of the three' sets the group in both versions; article choice does not change its size.
+- **The bare version means 'very cheap' without comparing the rooms.:** Cheapest and of the three still supply a superlative ranking; omitting the does not turn it into very cheap.
+- **Both can express the same lowest-price ranking in this context.:** After 'is' with no following noun, informal English permits 'the' to be omitted here; both versions rank this room lowest in price.
 
 **Decision:** replaced.
 
@@ -2342,7 +2342,7 @@ What does this wording allow?
 - **Every desk in the shop has a 30% reduction.:** Selected restricts the stock, and up to does not promise the maximum for every selected item.
 - **Thirty percent is the minimum reduction for selected desks.:** Up to makes 30% the upper, not the lower, limit.
 - **Some selected desks may have a reduction smaller than 30%.:** Up to sets an upper limit on the advertised reduction; it does not give every selected desk the maximum discount.
-- **The desks now cost 30% of last month's prices.:** Thirty percent cheaper means a reduction from the old price, not a final price equal to 30% of it.
+- **The desks now cost 30% of last month's prices.:** 'Thirty percent cheaper' means a reduction from the old price, not a final price equal to 30% of it.
 
 **Decision:** replaced.
 
@@ -2915,13 +2915,13 @@ What does the edit incorrectly add?
 3. A participant-by-participant advantage that an average comparison does not establish. **[Correct]**
 4. A statement that the methods had equal sample sizes.
 
-**Explanation:** An average can be lower even when some individual results favor B; every participant is a stronger, distributive claim.
+**Explanation:** An average can be lower even when some individual results favor B; 'every participant' is a stronger, distributive claim.
 
 **Choice feedback:**
 
 - **A comparison with a method that was not tested.:** Both sentences compare A with B; the edit changes how broadly the advantage applies.
 - **A claim that B has the lower average completion time.:** The edit does not reverse the named winner; it overextends that winner's advantage.
-- **A participant-by-participant advantage that an average comparison does not establish.:** An average can be lower even when some individual results favor B; every participant is a stronger, distributive claim.
+- **A participant-by-participant advantage that an average comparison does not establish.:** An average can be lower even when some individual results favor B; 'every participant' is a stronger, distributive claim.
 - **A statement that the methods had equal sample sizes.:** Every participant does not itself report or compare the sample sizes.
 
 **Decision:** replaced.
@@ -2983,7 +2983,7 @@ Which requirement does the comparison impose?
 
 **Choice feedback:**
 
-- **The process should collect exactly the same data as the current process.:** Necessary for confirming membership is the benchmark, not the existing process.
+- **The process should collect exactly the same data as the current process.:** 'Necessary for confirming membership' is the benchmark, not the existing process.
 - **Intrusion should not exceed what the stated membership check requires.:** No more ... than caps the degree at a purpose-specific necessity threshold, allowing less if the purpose can still be met.
 - **The process should be less intrusive than every available alternative.:** The sentence sets a necessity-based ceiling; it does not rank every design.
 - **Any information that might later be useful should be collected.:** Possible future usefulness is broader than what is necessary for the named membership check.
@@ -3011,14 +3011,14 @@ Which revision removes the ambiguity while preserving that meaning?
 3. Ravi is trusted by Lena more than Sam is.
 4. Ravi trusts Lena more than Sam does. **[Correct]**
 
-**Explanation:** Does restores trusts Lena after Sam, making Sam the second subject rather than a second object of Ravi's trust.
+**Explanation:** 'Does' restores 'trusts Lena' after 'Sam', making Sam the second subject rather than a second object of Ravi's trust.
 
 **Choice feedback:**
 
 - **Ravi trusts Lena more than he trusts Sam.:** This compares Ravi's trust in two different people, not two people's trust in Lena.
 - **Ravi trusts Lena more than Sam trusts Ravi.:** This changes the recipient of Sam's trust from Lena to Ravi.
 - **Ravi is trusted by Lena more than Sam is.:** This makes Lena the trusting person and compares her trust in Ravi and Sam.
-- **Ravi trusts Lena more than Sam does.:** Does restores trusts Lena after Sam, making Sam the second subject rather than a second object of Ravi's trust.
+- **Ravi trusts Lena more than Sam does.:** 'Does' restores 'trusts Lena' after 'Sam', making Sam the second subject rather than a second object of Ravi's trust.
 
 **Decision:** replaced.
 
@@ -3079,7 +3079,7 @@ Which claim preserves the report's ranking and comparison set?
 
 **Choice feedback:**
 
-- **Noor earns more per hour than any employee in the department.:** Hourly pay is a different measure, and any employee expands the group beyond part-time staff.
+- **Noor earns more per hour than any employee in the department.:** 'Hourly pay' is a different measure, and 'any employee' expands the group beyond part-time staff.
 - **Noor's annual earnings exceed those of all full-time departmental staff.:** Full-time staff are outside the stated comparison group.
 - **No other part-time departmental employee has higher annual earnings before tax.:** This retains the subgroup and annual measure without inventing an hourly ranking or excluding possible ties.
 - **Noor is the department's only part-time employee at that annual earnings level.:** Highest-paid does not by itself exclude another employee tied at the same level.
@@ -3139,12 +3139,12 @@ What does B's comparative expression convey?
 3. B knows less about the reason than before the briefing.
 4. B understands less than every other person at the briefing.
 
-**Explanation:** None the wiser means no better informed as a result of the intervening event.
+**Explanation:** 'None the wiser' means no better informed as a result of the intervening event.
 
 **Choice feedback:**
 
 - **B now understands the reason but disagrees with the decision.:** None the wiser denies a gain in understanding; disagreement is not the stated issue.
-- **The briefing has not improved B's understanding of the reason.:** None the wiser means no better informed as a result of the intervening event.
+- **The briefing has not improved B's understanding of the reason.:** 'None the wiser' means no better informed as a result of the intervening event.
 - **B knows less about the reason than before the briefing.:** The idiom signals no improvement, not necessarily an actual loss of knowledge.
 - **B understands less than every other person at the briefing.:** The comparison concerns B's change in understanding, not a ranking of participants.
 
@@ -3171,13 +3171,13 @@ Which reading best fits B's reply?
 3. B says approval and rejection remain equally likely.
 4. B confirms that every required approval step has been completed.
 
-**Explanation:** As good as approved means effectively or almost approved here; the missing signature keeps formal completion separate.
+**Explanation:** 'As good as approved' means effectively or almost approved here; the missing signature keeps formal completion separate.
 
 **Choice feedback:**
 
-- **B treats approval as virtually settled while acknowledging it is not formally complete.:** As good as approved means effectively or almost approved here; the missing signature keeps formal completion separate.
+- **B treats approval as virtually settled while acknowledging it is not formally complete.:** 'As good as approved' means effectively or almost approved here; the missing signature keeps formal completion separate.
 - **B compares the quality of this approval with that of an earlier approval.:** As good as before approved has a near-equivalence meaning, not a quality ranking between approvals.
-- **B says approval and rejection remain equally likely.:** As good as approved expresses strong expectation of approval, not an evenly balanced outcome.
+- **B says approval and rejection remain equally likely.:** 'As good as approved' expresses strong expectation of approval, not an evenly balanced outcome.
 - **B confirms that every required approval step has been completed.:** The routine signature is explicitly still missing, so formal completion is not claimed.
 
 **Decision:** replaced.
@@ -3403,7 +3403,7 @@ Which paraphrase preserves the ranking while avoiding an extra uniqueness claim?
 
 **Choice feedback:**
 
-- **Chen is better qualified than every applicant, including those not interviewed.:** The relative clause restricts the set to interviewees, and as ... as any does not require strict superiority.
+- **Chen is better qualified than every applicant, including those not interviewed.:** The relative clause restricts the set to interviewees, and 'as ... as any' does not require strict superiority.
 - **Chen has the same qualifications as every applicant who was interviewed.:** Matching the top level does not require every interviewee to be equal, nor does degree equality mean identical qualifications.
 - **Among those interviewed, no applicant is better qualified than Chen; a tie is possible.:** As well qualified as any places Chen at the top of the stated set without excluding equal qualifications.
 - **Chen is the uniquely best-qualified interviewee, though someone unexamined may be better.:** The external caveat is compatible with the set restriction, but uniquely adds a distinction the original does not establish.
@@ -3499,7 +3499,7 @@ Why is the edit not a reliable preservation of the quantitative claim?
 
 **Choice feedback:**
 
-- **A reversal is impossible because twice as ... as can compare only physical quantities.:** Twice as likely is an established way to express a probability ratio; the problem is complementing it.
+- **A reversal is impossible because twice as ... as can compare only physical quantities.:** 'Twice as likely' is an established way to express a probability ratio; the problem is complementing it.
 - **A ratio of delay probabilities does not give the same inverse ratio for their complements.:** If delay probabilities are 40% and 20%, no-delay probabilities are 60% and 80%, not a two-to-one ratio. Likely and unlikely cannot simply exchange places in a numerical claim.
 - **The first sentence compares expected delay duration, while the second compares delay frequency.:** The first already concerns the probability of a delay, not how long a delay lasts.
 - **The edit is reliable whenever Route A has the higher delay probability.:** Having the higher probability sets an order, but it does not establish the required ratio for the complementary probabilities.
@@ -3597,7 +3597,7 @@ Which edit retains exactly that claim without converting a relative lead into a 
 
 - **A received more first preferences than either rival separately.:** The most identifies the largest individual tally; it does not require more than half of all votes.
 - **A received more first preferences than the two rivals combined.:** The rivals together received fifty-five, so a relative lead over each is not a lead over their combined support.
-- **Most voters gave A their first preference.:** Most voters would mean a majority here, but forty-five of one hundred is below half.
+- **Most voters gave A their first preference.:** 'Most voters' would mean a majority here, but forty-five of one hundred is below half.
 - **A received first-preference support from more than half of the electorate.:** The count establishes neither a majority of the voters nor a majority of the potentially larger electorate.
 
 **Decision:** replaced.
@@ -3692,7 +3692,7 @@ Which reading preserves the comparative degree and the evidential qualification?
 **Choice feedback:**
 
 - **The unsigned account is close to the signed one in persuasiveness; that does not establish either account's truth.:** Scarcely limits the lower degree to a small difference; the separate corroboration caveat prevents the persuasive comparison from becoming a truth claim.
-- **The unsigned account is substantially weaker, but independent checking has made both credible.:** Scarcely less indicates at most a small shortfall, and the sentence explicitly withholds independent corroboration.
+- **The unsigned account is substantially weaker, but independent checking has made both credible.:** 'Scarcely less' indicates at most a small shortfall, and the sentence explicitly withholds independent corroboration.
 - **The accounts are exactly equal in persuasiveness because neither has corroboration.:** Scarcely less does not require exact equality, and shared lack of corroboration does not establish equal persuasiveness.
 - **The unsigned account is more convincing because a signature would imply a conflict of interest.:** Neither an advantage for the unsigned account nor a conflict created by a signature is stated.
 

@@ -19,14 +19,14 @@ I want ___ a train ticket.
 3. to buy **[Correct]**
 4. bought
 
-**Explanation:** Want takes to + basic verb: want to buy.
+**Explanation:** 'Want' takes 'to' + basic verb: 'want to buy'.
 
 **Choice feedback:**
 
-- **buy:** After want, use to before the action verb.
+- **buy:** After 'want', use 'to' before the action verb.
 - **to buying:** Use buy, not buying, after this to.
-- **to buy:** Want takes to + basic verb: want to buy.
-- **bought:** Bought is a past form; want needs to buy here.
+- **to buy:** 'Want' takes 'to' + basic verb: 'want to buy'.
+- **bought:** 'Bought' is a past form; 'want' needs 'to buy' here.
 
 **Decision:** replaced.
 
@@ -51,14 +51,14 @@ My father is learning ___ a computer.
 3. to use **[Correct]**
 4. uses
 
-**Explanation:** Learn to + verb describes learning how to do something.
+**Explanation:** 'Learn to' + verb describes learning how to do something.
 
 **Choice feedback:**
 
-- **use:** Learn needs to before use in this sentence.
+- **use:** 'Learn' needs 'to' before 'use' in this sentence.
 - **to used:** Use the basic form use after to, not used.
-- **to use:** Learn to + verb describes learning how to do something.
-- **uses:** Uses cannot follow learning here; say learning to use.
+- **to use:** 'Learn to' + verb describes learning how to do something.
+- **uses:** 'Uses' cannot follow 'learning' here; say 'learning to use'.
 
 **Decision:** replaced.
 
@@ -88,9 +88,9 @@ Do you enjoy ___ for friends?
 **Choice feedback:**
 
 - **cooking:** Enjoy + -ing describes an activity you find pleasant.
-- **to cook:** Enjoy takes cooking, not to cook.
-- **cook:** Use the -ing form of the action after enjoy.
-- **cooked:** Cooked is a past form; it does not name the activity after enjoy.
+- **to cook:** 'Enjoy' takes 'cooking', not 'to cook'.
+- **cook:** Use the -ing form of the action after 'enjoy'.
+- **cooked:** 'Cooked' is a past form; it does not name the activity after 'enjoy'.
 
 **Decision:** replaced.
 
@@ -115,14 +115,14 @@ We hope ___ an apartment near work.
 3. to rent **[Correct]**
 4. to rented
 
-**Explanation:** Hope to + verb expresses a desired future action.
+**Explanation:** 'Hope to' + verb expresses a desired future action.
 
 **Choice feedback:**
 
-- **renting:** Hope does not take renting directly in this sentence; use hope to rent.
-- **rent:** Put to before rent after hope.
-- **to rent:** Hope to + verb expresses a desired future action.
-- **to rented:** To is followed by the basic verb rent, not rented.
+- **renting:** 'Hope' does not take 'renting' directly in this sentence; use 'hope to rent'.
+- **rent:** Put 'to' before 'rent' after 'hope'.
+- **to rent:** 'Hope to' + verb expresses a desired future action.
+- **to rented:** 'To' is followed by the basic verb 'rent', not 'rented'.
 
 **Decision:** replaced.
 
@@ -147,14 +147,14 @@ ___ is my favorite way to travel around town.
 3. Cycles
 4. Cycled
 
-**Explanation:** Cycling names an activity and can be the subject before is.
+**Explanation:** 'Cycling' names an activity and can be the subject before 'is'.
 
 **Choice feedback:**
 
-- **Cycling:** Cycling names an activity and can be the subject before is.
+- **Cycling:** 'Cycling' names an activity and can be the subject before 'is'.
 - **Cycle:** The basic verb alone cannot be the subject of this statement.
-- **Cycles:** Cycles is plural, so it cannot fit this singular activity statement with is.
-- **Cycled:** Cycled describes a past action; it does not name the activity here.
+- **Cycles:** 'Cycles' is plural, so it cannot fit this singular activity statement with 'is'.
+- **Cycled:** 'Cycled' describes a past action; it does not name the activity here.
 
 **Decision:** replaced.
 
@@ -183,10 +183,10 @@ I went to the market ___ some fruit.
 
 **Choice feedback:**
 
-- **bought:** A past verb cannot connect this purpose to went without another clause.
+- **bought:** A past verb cannot connect this purpose to 'went' without another clause.
 - **to buy:** To buy gives the reason for going: buying fruit was your purpose.
-- **buy:** The basic verb needs to when it gives the purpose of going.
-- **to buying:** A purpose phrase uses to + basic verb, not to buying.
+- **buy:** The basic verb needs 'to' when it gives the purpose of going.
+- **to buying:** A purpose phrase uses 'to' + basic verb, not 'to buying'.
 
 **Decision:** replaced.
 
@@ -217,7 +217,7 @@ Describe an activity that gives you pleasure.
 
 - **I like reading travel books.:** Like can take an -ing activity. Like to read would also be grammatical, but it is not one of these options.
 - **I like read travel books.:** After like, use reading or to read, not read alone.
-- **I like to reading travel books.:** To takes the basic form read in this pattern, not reading.
+- **I like to reading travel books.:** 'To' takes the basic form 'read' in this pattern, not 'reading'.
 - **I like reads travel books.:** Do not use reads after like; use reading or to read.
 
 **Decision:** replaced.
@@ -243,14 +243,14 @@ Hello, Eva. It's nice ___ you.
 3. met
 4. to meet **[Correct]**
 
-**Explanation:** Nice to meet you is a common greeting when people first meet.
+**Explanation:** 'Nice to meet you' is a common greeting when people first meet.
 
 **Choice feedback:**
 
 - **meet:** In this greeting, use nice to meet, not nice meet.
-- **to meeting:** After to in this phrase, use meet without -ing.
-- **met:** Met is a past form; the greeting needs to meet.
-- **to meet:** Nice to meet you is a common greeting when people first meet.
+- **to meeting:** After 'to' in this phrase, use 'meet' without '-ing'.
+- **met:** 'Met' is a past form; the greeting needs 'to meet'.
+- **to meet:** 'Nice to meet you' is a common greeting when people first meet.
 
 **Decision:** replaced.
 
@@ -275,14 +275,14 @@ Have you finished ___ your lunch?
 3. to eating
 4. eating **[Correct]**
 
-**Explanation:** Finish eating means completing the activity of eating.
+**Explanation:** 'Finish eating' means completing the activity of eating.
 
 **Choice feedback:**
 
 - **eat:** Finish needs the -ing form of the activity.
 - **to eat:** Use finish eating, not finish to eat.
 - **to eating:** Do not put to before the -ing form after finish.
-- **eating:** Finish eating means completing the activity of eating.
+- **eating:** 'Finish eating' means completing the activity of eating.
 
 **Decision:** replaced.
 
@@ -307,13 +307,13 @@ Are you ready ___ home?
 3. go
 4. to went
 
-**Explanation:** Ready to + verb says you are prepared for the action.
+**Explanation:** 'Ready to' + verb says you are prepared for the action.
 
 **Choice feedback:**
 
-- **going:** Ready is followed by to go in this sentence, not going alone.
-- **to go:** Ready to + verb says you are prepared for the action.
-- **go:** Put to before go after ready.
+- **going:** 'Ready' is followed by 'to go' in this sentence, not 'going' alone.
+- **to go:** 'Ready to' + verb says you are prepared for the action.
+- **go:** Put 'to' before 'go' after 'ready'.
 - **to went:** Use go, not the past form went, after to.
 
 **Decision:** replaced.
@@ -339,13 +339,13 @@ On Saturday mornings, I go ___ at the town market.
 3. to shopping
 4. shopped
 
-**Explanation:** Go shopping is a common phrase for the activity of visiting shops to buy things.
+**Explanation:** 'Go shopping' is a common phrase for the activity of visiting shops to buy things.
 
 **Choice feedback:**
 
-- **shops:** Shops cannot follow go to name this activity; use shopping.
-- **shopping:** Go shopping is a common phrase for the activity of visiting shops to buy things.
-- **to shopping:** Do not add to before shopping in the activity phrase go shopping.
+- **shops:** 'Shops' cannot follow 'go' to name this activity; use 'shopping'.
+- **shopping:** 'Go shopping' is a common phrase for the activity of visiting shops to buy things.
+- **to shopping:** Do not add 'to' before 'shopping' in the activity phrase 'go shopping'.
 - **shopped:** A past form does not follow go to name this activity.
 
 **Decision:** replaced.
@@ -371,14 +371,14 @@ I want my brother ___ me tonight.
 3. calls
 4. to called
 
-**Explanation:** Use want + person + to + verb when you want another person to act.
+**Explanation:** Use 'want' + person + 'to' + verb when you want another person to act.
 
 **Choice feedback:**
 
-- **called:** Called me cannot follow I want my brother in this pattern; use my brother to call me.
-- **to call:** Use want + person + to + verb when you want another person to act.
-- **calls:** Calls is a finite verb; this want pattern needs to call.
-- **to called:** Use call, not called, after to.
+- **called:** 'Called me' cannot follow 'I want my brother' in this pattern; use 'my brother to call me'.
+- **to call:** Use 'want' + person + 'to' + verb when you want another person to act.
+- **calls:** 'Calls' is a finite verb; this 'want' pattern needs 'to call'.
+- **to called:** Use 'call', not 'called', after 'to'.
 
 **Decision:** replaced.
 
@@ -407,9 +407,9 @@ Nadia is good at ___ maps.
 
 **Choice feedback:**
 
-- **to read:** After the preposition at, use reading rather than to read.
+- **to read:** After the preposition 'at', use 'reading' rather than 'to read'.
 - **reading:** Use an -ing activity after good at: good at reading maps.
-- **reads:** Reads cannot follow at to name an activity.
+- **reads:** 'Reads' cannot follow 'at' to name an activity.
 - **to reading:** The needed preposition at is already present; do not add to.
 
 **Decision:** replaced.
@@ -435,13 +435,13 @@ I'm thirsty. Is there something ___?
 3. to drinking
 4. drank
 
-**Explanation:** Something to drink means something available for a person to drink.
+**Explanation:** 'Something to drink' means something available for a person to drink.
 
 **Choice feedback:**
 
-- **to drink:** Something to drink means something available for a person to drink.
-- **drinks:** Drinks cannot directly follow something in this phrase.
-- **to drinking:** Use the basic verb drink after to here.
+- **to drink:** 'Something to drink' means something available for a person to drink.
+- **drinks:** 'Drinks' cannot directly follow 'something' in this phrase.
+- **to drinking:** Use the basic verb 'drink' after 'to' here.
 - **drank:** The past form drank does not describe what something is available for.
 
 **Decision:** replaced.
@@ -472,9 +472,9 @@ Thank you for ___ me with these bags.
 **Choice feedback:**
 
 - **help:** After for, use helping to name the action.
-- **to help:** For is followed by helping here, not a to-infinitive.
+- **to help:** 'For' is followed by 'helping' here, not a to-infinitive.
 - **helping:** Thank you for + -ing expresses thanks for an action.
-- **helped:** Helped is a past form, but for needs the activity form helping.
+- **helped:** 'Helped' is a past form, but 'for' needs the activity form 'helping'.
 
 **Decision:** replaced.
 
@@ -499,14 +499,14 @@ It's time ___ the shop.
 3. to closed
 4. to close **[Correct]**
 
-**Explanation:** It's time to + verb says the moment for that action has arrived.
+**Explanation:** "It's time to" + verb says the moment for that action has arrived.
 
 **Choice feedback:**
 
 - **closing:** Use time to close for this meaning, not time closing.
-- **close:** The action needs to after time in this phrase.
+- **close:** The action needs 'to' after 'time' in this phrase.
 - **to closed:** Use close rather than the past form closed after to.
-- **to close:** It's time to + verb says the moment for that action has arrived.
+- **to close:** "It's time to" + verb says the moment for that action has arrived.
 
 **Decision:** replaced.
 
@@ -536,7 +536,7 @@ Please stop ___ on the stairs.
 **Choice feedback:**
 
 - **run:** Stop needs running when the instruction is to end this activity.
-- **to running:** Stop does not take to plus an -ing form here.
+- **to running:** 'Stop' does not take 'to' plus an -ing form here.
 - **ran:** A past form cannot follow stop in this instruction.
 - **running:** Stop running asks someone to end the activity of running.
 
@@ -563,13 +563,13 @@ My partner wants ___ early for dinner.
 3. to be **[Correct]**
 4. to is
 
-**Explanation:** Want takes to + basic verb, including be before an adjective.
+**Explanation:** 'Want' takes 'to' + basic verb, including 'be' before an adjective.
 
 **Choice feedback:**
 
-- **is:** Is cannot directly follow wants; use wants to be.
+- **is:** 'Is' cannot directly follow 'wants'; use 'wants to be'.
 - **to being:** After this to, use the basic form be.
-- **to be:** Want takes to + basic verb, including be before an adjective.
+- **to be:** 'Want' takes 'to' + basic verb, including 'be' before an adjective.
 - **to is:** The basic form is be, not is, after to.
 
 **Decision:** replaced.
@@ -599,7 +599,7 @@ Describe the start of your work on a letter.
 
 **Choice feedback:**
 
-- **I started writes the letter.:** Writes cannot follow started to name the next action.
+- **I started writes the letter.:** 'Writes' cannot follow 'started' to name the next action.
 - **I started to wrote the letter.:** After to, the basic form would be write, not wrote.
 - **I started write the letter.:** Start needs writing or to write, not write alone.
 - **I started writing the letter.:** Start can take writing. Started to write would also be correct, but it is not offered here.
@@ -632,7 +632,7 @@ What can you say about your free time?
 **Choice feedback:**
 
 - **I enjoy walking after dinner.:** Enjoy walking says the activity is pleasant for you.
-- **I need to walk after dinner.:** Need to describes something necessary, not something you enjoy.
+- **I need to walk after dinner.:** 'Need to' describes something necessary, not something you enjoy.
 - **I forgot to walk after dinner.:** Forgot to says an intended walk did not happen because you forgot it.
 - **I agreed to walk after dinner.:** Agreed to accepts a plan for a walk; it does not say that you enjoy walking.
 
@@ -667,8 +667,8 @@ Please wash your hands before ___ the food.
 
 **Choice feedback:**
 
-- **to touch:** Before does not take a to-infinitive for this action.
-- **touches:** A clause with touches would need its own subject; this phrase uses touching.
+- **to touch:** 'Before' does not take a to-infinitive for this action.
+- **touches:** A clause with 'touches' would need its own subject; this phrase uses 'touching'.
 - **to touching:** Do not insert to between before and touching.
 - **touching:** After before, an -ing form can name the action: before touching the food.
 
@@ -727,14 +727,14 @@ The room was too expensive, so we decided ___ it.
 3. not book
 4. not to booked
 
-**Explanation:** Decide not to + verb expresses a decision against an action.
+**Explanation:** 'Decide not to' + verb expresses a decision against an action.
 
 **Choice feedback:**
 
-- **not booking:** Decide needs an infinitive or a clause here; use decided not to book.
-- **not to book:** Decide not to + verb expresses a decision against an action.
-- **not book:** The infinitive after decided requires to.
-- **not to booked:** Use the basic verb book after to.
+- **not booking:** 'Decide' needs an infinitive or a clause here; use 'decided not to book'.
+- **not to book:** 'Decide not to' + verb expresses a decision against an action.
+- **not book:** The infinitive after 'decided' requires 'to'.
+- **not to booked:** Use the basic verb 'book' after 'to'.
 
 **Decision:** replaced.
 
@@ -763,10 +763,10 @@ To keep the entrance clear, avoid ___ beside the gate.
 
 **Choice feedback:**
 
-- **to park:** Avoid takes parking, not to park.
-- **park:** Use an -ing activity after avoid.
+- **to park:** 'Avoid' takes 'parking', not 'to park'.
+- **park:** Use an -ing activity after 'avoid'.
 - **parking:** Avoid + -ing identifies the activity you should not do.
-- **to parking:** Avoid does not take the added preposition to in this pattern.
+- **to parking:** 'Avoid' does not take the added preposition 'to' in this pattern.
 
 **Decision:** replaced.
 
@@ -829,8 +829,8 @@ Choose who accepts the extra shift in this sentence.
 
 - **Leila accepts the extra work.:** With agreed to cover, the subject Leila is also the person who will cover the shift.
 - **Jo accepts the extra work.:** Jo is part of the earlier conversation, not the subject of agreed to cover.
-- **Leila asks Jo to accept the extra work.:** Agreed to cover describes Leila's agreement, not a request to Jo.
-- **Leila refuses the extra work.:** Agreed expresses acceptance, not refusal.
+- **Leila asks Jo to accept the extra work.:** 'Agreed to cover' describes Leila's agreement, not a request to Jo.
+- **Leila refuses the extra work.:** 'Agreed' expresses acceptance, not refusal.
 
 **Decision:** replaced.
 
@@ -887,14 +887,14 @@ This diagram shows you how ___ the shelf.
 3. to fitted
 4. to fit **[Correct]**
 
-**Explanation:** How to + verb can name a method or explain an action.
+**Explanation:** 'How to' + verb can name a method or explain an action.
 
 **Choice feedback:**
 
-- **fitting:** After how in this instruction phrase, use to fit rather than fitting.
+- **fitting:** After 'how' in this instruction phrase, use 'to fit' rather than 'fitting'.
 - **fit:** The phrase is how to fit, not how fit.
 - **to fitted:** Use the basic form fit after to.
-- **to fit:** How to + verb can name a method or explain an action.
+- **to fit:** 'How to' + verb can name a method or explain an action.
 
 **Decision:** replaced.
 
@@ -923,9 +923,9 @@ I left the house without ___ my umbrella.
 
 **Choice feedback:**
 
-- **to take:** Without takes an -ing phrase rather than to take.
-- **took:** Took is a past verb; without needs taking in this phrase.
-- **to taking:** Do not add to after without.
+- **to take:** 'Without' takes an -ing phrase rather than 'to take'.
+- **took:** 'Took' is a past verb; 'without' needs 'taking' in this phrase.
+- **to taking:** Do not add 'to' after 'without'.
 - **taking:** Without taking says the departure happened but taking the umbrella did not.
 
 **Decision:** replaced.
@@ -956,7 +956,7 @@ When my bicycle broke, a neighbor offered ___ me home.
 **Choice feedback:**
 
 - **driving:** After offered, the proposed action uses to drive here.
-- **drive:** The infinitive after offered needs to.
+- **drive:** The infinitive after 'offered' needs 'to'.
 - **to drive:** Offer to + verb proposes an action the person offering will perform.
 - **to drove:** Use drive rather than the past form drove after to.
 
@@ -988,7 +988,7 @@ We spent an hour ___ the new desk.
 **Choice feedback:**
 
 - **to assemble:** After spend time, use assembling to name the activity.
-- **assemble:** The basic verb cannot directly follow an hour in this spend-time pattern.
+- **assemble:** The basic verb cannot directly follow 'an hour' in this spend-time pattern.
 - **assembling:** Spend + time + -ing says how the time was used.
 - **to assembling:** Do not insert to before the -ing activity after spent an hour.
 
@@ -1015,13 +1015,13 @@ The suitcase is too large ___ under the seat.
 3. fit
 4. to fitting
 
-**Explanation:** Too + adjective + to + verb says the degree prevents the action or result.
+**Explanation:** 'Too' + adjective + 'to' + verb says the degree prevents the action or result.
 
 **Choice feedback:**
 
-- **fitting:** Too large takes to fit in this result pattern, not fitting.
-- **to fit:** Too + adjective + to + verb says the degree prevents the action or result.
-- **fit:** Add to before the verb after too large.
+- **fitting:** 'Too large' takes 'to fit' in this result pattern, not 'fitting'.
+- **to fit:** 'Too' + adjective + 'to' + verb says the degree prevents the action or result.
+- **fit:** Add 'to' before the verb after 'too large'.
 - **to fitting:** Use fit, not fitting, after this to.
 
 **Decision:** replaced.
@@ -1047,14 +1047,14 @@ Before the interview, I practiced ___ myself in English.
 3. introduce
 4. introduced
 
-**Explanation:** Practice takes an -ing activity: practiced introducing myself.
+**Explanation:** 'Practice' takes an -ing activity: 'practiced introducing myself'.
 
 **Choice feedback:**
 
-- **introducing:** Practice takes an -ing activity: practiced introducing myself.
+- **introducing:** 'Practice' takes an -ing activity: 'practiced introducing myself'.
 - **to introduce:** Practice does not directly take to introduce as its complement here.
 - **introduce:** Use introducing after practiced, not introduce alone.
-- **introduced:** Introduced is a past form; the practiced activity needs introducing.
+- **introduced:** 'Introduced' is a past form; the practiced activity needs 'introducing'.
 
 **Decision:** replaced.
 
@@ -1079,13 +1079,13 @@ Choose who is expected to arrive.
 3. The delivery driver. **[Correct]**
 4. The speaker and the driver together.
 
-**Explanation:** In expect + person + to + verb, that person performs the expected action.
+**Explanation:** In 'expect' + person + 'to' + verb, that person performs the expected action.
 
 **Choice feedback:**
 
 - **The speaker.:** The object the delivery driver, not I, performs the action in to arrive.
 - **The person who ordered the goods.:** The sentence identifies the driver; it does not identify who ordered anything.
-- **The delivery driver.:** In expect + person + to + verb, that person performs the expected action.
+- **The delivery driver.:** In 'expect' + person + 'to' + verb, that person performs the expected action.
 - **The speaker and the driver together.:** Only the driver is attached to the expected arrival; no shared arrival is stated.
 
 **Decision:** replaced.
@@ -1117,8 +1117,8 @@ Since moving inland, I miss ___ beside the sea.
 
 - **living:** Miss + -ing describes an activity or experience that you no longer have and would like again.
 - **to live:** Miss uses living to name the activity or situation you feel the loss of.
-- **live:** A basic verb alone cannot complete miss here.
-- **lived:** Lived is a past form, but the complement after miss needs living.
+- **live:** A basic verb alone cannot complete 'miss' here.
+- **lived:** 'Lived' is a past form, but the complement after 'miss' needs 'living'.
 
 **Decision:** replaced.
 
@@ -1148,7 +1148,7 @@ My aunt taught me ___ a bicycle tire.
 **Choice feedback:**
 
 - **changing:** In taught me + action, use to change rather than changing.
-- **changed:** Changed is a past form, not the infinitive needed after taught me.
+- **changed:** 'Changed' is a past form, not the infinitive needed after 'taught me'.
 - **to changing:** This to requires the basic form change.
 - **to change:** Teach + person + to + verb identifies the learner and the skill taught.
 
@@ -1175,14 +1175,14 @@ The receptionist suggested ___ the earlier bus.
 3. take
 4. to taking
 
-**Explanation:** Suggest takes an -ing activity here: suggested taking the earlier bus.
+**Explanation:** 'Suggest' takes an -ing activity here: 'suggested taking the earlier bus'.
 
 **Choice feedback:**
 
 - **to take:** Do not directly follow suggested with to take in this pattern.
-- **taking:** Suggest takes an -ing activity here: suggested taking the earlier bus.
+- **taking:** 'Suggest' takes an -ing activity here: 'suggested taking the earlier bus'.
 - **take:** A clause with take would need a subject, as in suggested that we take.
-- **to taking:** Suggest does not require an extra to before taking.
+- **to taking:** 'Suggest' does not require an extra 'to' before 'taking'.
 
 **Decision:** replaced.
 
@@ -1207,14 +1207,14 @@ The clerk asked for the address twice.
 3. The customer offered to give an address.
 4. The customer hoped to give an address.
 
-**Explanation:** Refused to + verb expresses unwillingness to perform the requested action.
+**Explanation:** 'Refused to' + verb expresses unwillingness to perform the requested action.
 
 **Choice feedback:**
 
-- **The customer refused to give an address.:** Refused to + verb expresses unwillingness to perform the requested action.
-- **The customer forgot to give an address.:** Forgot to describes an omission caused by memory, not an unwilling response to the requests.
+- **The customer refused to give an address.:** 'Refused to' + verb expresses unwillingness to perform the requested action.
+- **The customer forgot to give an address.:** 'Forgot to' describes an omission caused by memory, not an unwilling response to the requests.
 - **The customer offered to give an address.:** Offered to volunteers the action rather than refusing it.
-- **The customer hoped to give an address.:** Hoped to expresses a desired action, not refusal.
+- **The customer hoped to give an address.:** 'Hoped to' expresses a desired action, not refusal.
 
 **Decision:** replaced.
 
@@ -1243,8 +1243,8 @@ Would you mind ___ the window? It's cold in here.
 
 **Choice feedback:**
 
-- **to close:** Mind takes closing, not to close, in this request.
-- **close:** Use the -ing form after mind, not the basic verb alone.
+- **to close:** 'Mind' takes 'closing', not 'to close', in this request.
+- **close:** Use the -ing form after 'mind', not the basic verb alone.
 - **to closing:** Do not put to before closing after mind.
 - **closing:** Would you mind + -ing is a polite way to ask someone to act.
 
@@ -1275,7 +1275,7 @@ The host asked us ___ our shoes inside.
 
 **Choice feedback:**
 
-- **don't wear:** After asked us, use an infinitive phrase, not the direct instruction don't wear.
+- **don't wear:** After 'asked us', use an infinitive phrase, not the direct instruction "don't wear".
 - **not to wear:** Ask + person + not to + verb reports a request against an action.
 - **not wearing:** This reported request needs not to wear after us.
 - **not to wore:** Use wear rather than wore after to.
@@ -1311,9 +1311,9 @@ After a long discussion, the neighbors agreed on ___ the shared fence.
 
 **Choice feedback:**
 
-- **to repair:** The preposition on needs repairing, not a to-infinitive.
+- **to repair:** The preposition 'on' needs 'repairing', not a to-infinitive.
 - **repairing:** Agree on + -ing names the action people have jointly selected.
-- **repair:** The noun would need wording such as the repair of the fence; this action phrase needs repairing the fence.
+- **repair:** The noun would need wording such as 'the repair of the fence'; this action phrase needs 'repairing the fence'.
 - **repaired:** Repaired is not the activity form required after on.
 
 **Decision:** replaced.
@@ -1339,13 +1339,13 @@ Carlos admitted ___ the wrong file.
 3. opening / to opening **[Correct]**
 4. to open / open
 
-**Explanation:** Both admit doing and admit to doing are grammatical; to is a preposition in the second pattern.
+**Explanation:** Both 'admit doing' and 'admit to doing' are grammatical; 'to' is a preposition in the second pattern.
 
 **Choice feedback:**
 
 - **opening / to open:** Opening works, but admitted to open does not express this admission; use to opening.
 - **open / to opening:** To opening works, but the basic form open cannot directly follow admitted here.
-- **opening / to opening:** Both admit doing and admit to doing are grammatical; to is a preposition in the second pattern.
+- **opening / to opening:** Both 'admit doing' and 'admit to doing' are grammatical; 'to' is a preposition in the second pattern.
 - **to open / open:** Neither the to-infinitive nor the basic form fits this admission pattern.
 
 **Decision:** replaced.
@@ -1371,14 +1371,14 @@ Leo, remember ___ your passport.
 3. to packing
 4. to pack **[Correct]**
 
-**Explanation:** Remember to pack means keep the task in mind and do it before leaving.
+**Explanation:** 'Remember to pack' means keep the task in mind and do it before leaving.
 
 **Choice feedback:**
 
 - **packing:** Remember packing recalls a previous action; this reminder concerns an action still to do.
 - **pack:** Remember needs to pack for a future duty, not pack alone.
 - **to packing:** Use the basic form pack after to in this reminder.
-- **to pack:** Remember to pack means keep the task in mind and do it before leaving.
+- **to pack:** 'Remember to pack' means keep the task in mind and do it before leaving.
 
 **Decision:** replaced.
 
@@ -1403,14 +1403,14 @@ I remember ___ the parcel to the receptionist; she thanked me for it.
 3. to handing
 4. handing **[Correct]**
 
-**Explanation:** Remember + -ing recalls an experience; the thanks is a detail of that remembered event.
+**Explanation:** 'Remember' + -ing recalls an experience; 'the thanks' is a detail of that remembered event.
 
 **Choice feedback:**
 
 - **to hand:** Remember to hand concerns remembering a task to perform, not recollecting the scene described.
 - **hand:** The basic form hand cannot directly complete remember here.
 - **to handing:** This memory pattern takes handing without to.
-- **handing:** Remember + -ing recalls an experience; the thanks is a detail of that remembered event.
+- **handing:** 'Remember' + -ing recalls an experience; 'the thanks' is a detail of that remembered event.
 
 **Decision:** replaced.
 
@@ -1439,7 +1439,7 @@ Despite the noise, the interpreter managed ___ the final question.
 
 **Choice feedback:**
 
-- **hearing:** Manage meaning succeed takes to hear, not hearing directly.
+- **hearing:** 'Manage' meaning 'succeed' takes 'to hear', not 'hearing' directly.
 - **hear:** Put to before the action after managed.
 - **to heard:** Use the basic form hear, not heard, after to.
 - **to hear:** Manage to + verb reports success despite a difficulty.
@@ -1471,10 +1471,10 @@ She stopped ___ a coffee.
 
 **Choice feedback:**
 
-- **buying:** Stopped buying would mean she ended the activity of buying coffee.
+- **buying:** 'Stopped buying' would mean she ended the activity of buying coffee.
 - **buy:** The purpose of the stop needs to buy, not buy alone.
 - **to buy:** Stop to + verb means pause another activity in order to do this action.
-- **to buying:** A purpose infinitive uses the basic form buy after to.
+- **to buying:** A purpose infinitive uses the basic form 'buy' after 'to'.
 
 **Decision:** replaced.
 
@@ -1505,7 +1505,7 @@ I'll never forget ___ the northern lights for the first time.
 
 - **to see:** Forget to see would concern failing to carry out a task, not remembering an experience.
 - **seeing:** Never forget + -ing describes a past experience that remains memorable.
-- **see:** Forget cannot take see alone to name this memory.
+- **see:** 'Forget' cannot take 'see' alone to name this memory.
 - **to seeing:** Use seeing without to after forget in this memory pattern.
 
 **Decision:** replaced.
@@ -1538,7 +1538,7 @@ Try ___ the browser and see whether that helps.
 - **restarting:** Try + -ing suggests doing something as an experiment to see whether it solves a problem.
 - **restart:** Try needs restarting or to restart as a complement, not restart alone here.
 - **to restarting:** Do not combine to with restarting in this pattern.
-- **restarted:** Restarted is a past form; it cannot name the proposed experiment after try.
+- **restarted:** 'Restarted' is a past form; it cannot name the proposed experiment after 'try'.
 
 **Decision:** replaced.
 
@@ -1563,12 +1563,12 @@ I meant ___ your message yesterday.
 3. answer
 4. to answering
 
-**Explanation:** Mean to + verb expresses an intention; the context shows it was not carried out.
+**Explanation:** 'Mean to' + verb expresses an intention; the context shows it was not carried out.
 
 **Choice feedback:**
 
-- **to answer:** Mean to + verb expresses an intention; the context shows it was not carried out.
-- **answering:** Meant answering would mean involved answering, not intended to answer.
+- **to answer:** 'Mean to' + verb expresses an intention; the context shows it was not carried out.
+- **answering:** 'Meant answering' would mean 'involved answering', not 'intended to answer'.
 - **answer:** The intended action needs to before answer after meant.
 - **to answering:** This to is followed by the basic verb answer, not answering.
 
@@ -1599,7 +1599,7 @@ I regret ___ my old bicycle.
 
 **Choice feedback:**
 
-- **to sell:** Regret to is used especially when announcing unwelcome information; it does not describe this completed sale.
+- **to sell:** 'Regret to' is used especially when announcing unwelcome information; it does not describe this completed sale.
 - **sell:** Regret does not directly take the basic form sell in this meaning.
 - **to selling:** The past action after regret uses selling without to.
 - **selling:** Regret + -ing expresses unhappiness about an earlier action, here the completed sale.
@@ -1627,14 +1627,14 @@ We're looking forward to ___ the new neighbors at dinner.
 3. meeting **[Correct]**
 4. met
 
-**Explanation:** Look forward to takes an -ing activity because to is a preposition here.
+**Explanation:** 'Look forward to' takes an -ing activity because 'to' is a preposition here.
 
 **Choice feedback:**
 
-- **meet:** To in look forward to is a preposition, so the action takes -ing.
+- **meet:** 'To' in 'look forward to' is a preposition, so the action takes '-ing'.
 - **to meet:** The existing to belongs to look forward to; do not add another to-infinitive.
-- **meeting:** Look forward to takes an -ing activity because to is a preposition here.
-- **met:** Met is a past form, not the activity form required after this to.
+- **meeting:** 'Look forward to' takes an -ing activity because 'to' is a preposition here.
+- **met:** 'Met' is a past form, not the activity form required after this 'to'.
 
 **Decision:** replaced.
 
@@ -1659,13 +1659,13 @@ The residents objected to ___ the only local bus route.
 3. lost
 4. to lose
 
-**Explanation:** Object to + -ing names the action or situation a person opposes.
+**Explanation:** 'Object to' + '-ing' names the action or situation a person opposes.
 
 **Choice feedback:**
 
-- **lose:** Object to takes an -ing action because to is a preposition.
-- **losing:** Object to + -ing names the action or situation a person opposes.
-- **lost:** Lost cannot follow to here to name the action opposed.
+- **lose:** 'Object to' takes an -ing action because 'to' is a preposition.
+- **losing:** 'Object to' + '-ing' names the action or situation a person opposes.
+- **lost:** 'Lost' cannot follow 'to' here to name the action opposed.
 - **to lose:** Do not add a second to before the action after objected to.
 
 **Decision:** replaced.
@@ -1696,9 +1696,9 @@ The owner allows guests ___ bicycles in the courtyard.
 **Choice feedback:**
 
 - **to leaving:** After allow guests to, use the basic form leave, not leaving.
-- **leave:** Unlike let, allow needs to before the following action verb.
+- **leave:** Unlike 'let', 'allow' needs 'to' before the following action verb.
 - **to leave:** Allow + person + to + verb identifies who has permission and what they may do.
-- **to left:** The infinitive uses leave, not left.
+- **to left:** The infinitive uses 'leave', not 'left'.
 
 **Decision:** replaced.
 
@@ -1723,14 +1723,14 @@ The unexpected alarm made everyone ___ the room.
 3. leaving
 4. left
 
-**Explanation:** Active make takes a person followed by the basic verb: made everyone leave.
+**Explanation:** Active 'make' takes a person followed by the basic verb: 'made everyone leave'.
 
 **Choice feedback:**
 
-- **leave:** Active make takes a person followed by the basic verb: made everyone leave.
-- **to leave:** In the active pattern make + person + verb, leave has no to.
+- **leave:** Active 'make' takes a person followed by the basic verb: 'made everyone leave'.
+- **to leave:** In the active pattern 'make' + person + verb, 'leave' has no 'to'.
 - **leaving:** Leaving does not complete this active causative pattern.
-- **left:** Use the basic form leave, not the past form left, after made everyone.
+- **left:** Use the basic form 'leave', not the past form 'left', after 'made everyone'.
 
 **Decision:** replaced.
 
@@ -1755,14 +1755,14 @@ My supervisor let me ___ the afternoon meeting online.
 3. joining
 4. joined
 
-**Explanation:** Use let + person + basic verb to express permission.
+**Explanation:** Use 'let' + person + basic verb to express permission.
 
 **Choice feedback:**
 
-- **to join:** Let takes the basic verb without to: let me join.
-- **join:** Use let + person + basic verb to express permission.
-- **joining:** The person after let is followed by join, not joining.
-- **joined:** Joined is a past form; let me requires the basic verb join.
+- **to join:** 'Let' takes the basic verb without 'to': 'let me join'.
+- **join:** Use 'let' + person + basic verb to express permission.
+- **joining:** The person after 'let' is followed by 'join', not 'joining'.
+- **joined:** 'Joined' is a past form; 'let me' requires the basic verb 'join'.
 
 **Decision:** replaced.
 
@@ -1819,14 +1819,14 @@ A fallen tree prevented the bus from ___ the village.
 3. reached
 4. reaching **[Correct]**
 
-**Explanation:** Prevent + object + from + -ing describes an action that something blocks.
+**Explanation:** 'Prevent' + object + 'from' + '-ing' describes an action that something blocks.
 
 **Choice feedback:**
 
 - **to reach:** After from, use reaching rather than to reach.
-- **reach:** The preposition from needs the -ing action form here.
-- **reached:** Reached cannot follow from as the action being prevented.
-- **reaching:** Prevent + object + from + -ing describes an action that something blocks.
+- **reach:** The preposition 'from' needs the -ing action form here.
+- **reached:** 'Reached' cannot follow 'from' as the action being prevented.
+- **reaching:** 'Prevent' + object + 'from' + '-ing' describes an action that something blocks.
 
 **Decision:** replaced.
 
@@ -1887,7 +1887,7 @@ For short journeys, I prefer cycling to ___ a car.
 
 **Choice feedback:**
 
-- **drive:** In prefer cycling to, to is a preposition; use driving as the compared activity.
+- **drive:** In 'prefer cycling to', 'to' is a preposition; use 'driving' as the compared activity.
 - **to drive:** Do not add a second to when comparing activities with prefer cycling to.
 - **driving:** Prefer + -ing + to + -ing compares two activities using parallel forms.
 - **drove:** The past form drove cannot name the second activity after this to.
@@ -1915,12 +1915,12 @@ The hilltop museum is worth ___ and easy ___.
 3. visiting / reaching
 4. to visit / to reach
 
-**Explanation:** Worth takes an -ing activity; easy takes a to-infinitive describing what can be done to the subject.
+**Explanation:** 'Worth' takes an -ing activity; 'easy' takes a to-infinitive describing what can be done to the subject.
 
 **Choice feedback:**
 
-- **to visit / reaching:** Worth takes visiting, while easy takes to reach in this sentence.
-- **visiting / to reach:** Worth takes an -ing activity; easy takes a to-infinitive describing what can be done to the subject.
+- **to visit / reaching:** 'Worth' takes 'visiting', while 'easy' takes 'to reach' in this sentence.
+- **visiting / to reach:** 'Worth' takes an -ing activity; 'easy' takes a to-infinitive describing what can be done to the subject.
 - **visiting / reaching:** Visiting fits worth, but easy needs to reach rather than reaching.
 - **to visit / to reach:** To reach fits easy, but worth needs visiting.
 
@@ -1951,13 +1951,13 @@ She avoided ___ by the visitors.
 3. being seen **[Correct]**
 4. having seen
 
-**Explanation:** Avoid takes an -ing form; being seen makes her the person receiving the visitors' attention.
+**Explanation:** 'Avoid' takes an -ing form; 'being seen' makes her the person receiving the visitors' attention.
 
 **Choice feedback:**
 
 - **seeing:** Seeing makes her the observer, whereas the visitors would see her.
 - **to be seen:** The passive meaning fits, but avoid needs being seen rather than to be seen.
-- **being seen:** Avoid takes an -ing form; being seen makes her the person receiving the visitors' attention.
+- **being seen:** 'Avoid' takes an -ing form; 'being seen' makes her the person receiving the visitors' attention.
 - **having seen:** Having seen makes her the person who had observed something, reversing the roles.
 
 **Decision:** replaced.
@@ -1987,9 +1987,9 @@ Rewrite the judgment with the camera as subject, preserving the present assessme
 
 **Choice feedback:**
 
-- **being reliable:** Passive considered uses to be here, not an -ing clause naming an option under consideration.
+- **being reliable:** Passive 'considered' uses 'to be' here, not an -ing clause naming an option under consideration.
 - **to have been reliable:** The perfect phrase places the reliability earlier instead of preserving the present assessment.
-- **reliably:** Reliably describes how something acts; the judgment is that the camera itself is reliable.
+- **reliably:** 'Reliably' describes how something acts; the judgment is that the camera itself is 'reliable'.
 - **to be reliable:** Is considered to be reports an assessment of the subject; this differs from consider doing an action.
 
 **Decision:** replaced.
@@ -2015,14 +2015,14 @@ The builder expects ___ the roof by the time the inspector arrives.
 3. having repaired
 4. to have repairing
 
-**Explanation:** To have + past participle presents repair as complete before the inspection time.
+**Explanation:** 'To have' + past participle presents repair as complete before the inspection time.
 
 **Choice feedback:**
 
-- **to have repaired:** To have + past participle presents repair as complete before the inspection time.
-- **to having repaired:** After infinitival to, use have rather than having.
-- **having repaired:** Expect does not directly take this -ing clause for the expected action.
-- **to have repairing:** Have needs repaired, not repairing, in the perfect infinitive.
+- **to have repaired:** 'To have' + past participle presents repair as complete before the inspection time.
+- **to having repaired:** After infinitival 'to', use 'have' rather than 'having'.
+- **having repaired:** 'Expect' does not directly take this -ing clause for the expected action.
+- **to have repairing:** 'Have' needs 'repaired', not 'repairing', in the perfect infinitive.
 
 **Decision:** replaced.
 
@@ -2047,14 +2047,14 @@ The panel postponed ___ whom ___ until all applications were in.
 3. deciding / to interview **[Correct]**
 4. to decide / to interview
 
-**Explanation:** Postpone takes an -ing activity; decide can be followed by a question-word phrase with a to-infinitive.
+**Explanation:** 'Postpone' takes an -ing activity; 'decide' can be followed by a question-word phrase with a to-infinitive.
 
 **Choice feedback:**
 
 - **deciding / interviewing:** Deciding fits postponed, but the embedded choice uses whom to interview, not whom interviewing.
 - **to decide / interviewing:** Postpone needs deciding, and the embedded question needs whom to interview.
-- **deciding / to interview:** Postpone takes an -ing activity; decide can be followed by a question-word phrase with a to-infinitive.
-- **to decide / to interview:** To interview fits after whom, but postpone takes deciding rather than to decide.
+- **deciding / to interview:** 'Postpone' takes an -ing activity; 'decide' can be followed by a question-word phrase with a to-infinitive.
+- **to decide / to interview:** 'To interview' fits after 'whom', but 'postpone' takes 'deciding' rather than 'to decide'.
 
 **Decision:** replaced.
 
@@ -2111,14 +2111,14 @@ Read the complete account. Choose the conclusion it supports.
 3. The speaker remembers opening it before it became jammed.
 4. The speaker attempted to open it; the account does not report success. **[Correct]**
 
-**Explanation:** Try to + verb expresses an effort toward an action; it does not itself assert achievement.
+**Explanation:** 'Try to' + verb expresses an effort toward an action; it does not itself assert achievement.
 
 **Choice feedback:**
 
 - **The speaker opened it by experimenting with a new technique.:** The account supplies neither a successful opening nor a newly tested method.
 - **The speaker avoided attempting to open it until help arrived.:** Tried to open explicitly states that an attempt was made.
 - **The speaker remembers opening it before it became jammed.:** This is an attempt at the jammed drawer, not recollection of an earlier opening.
-- **The speaker attempted to open it; the account does not report success.:** Try to + verb expresses an effort toward an action; it does not itself assert achievement.
+- **The speaker attempted to open it; the account does not report success.:** 'Try to' + verb expresses an effort toward an action; it does not itself assert achievement.
 
 **Decision:** replaced.
 
@@ -2148,7 +2148,7 @@ I remember ___ not to unplug the device during the update.
 **Choice feedback:**
 
 - **telling:** Telling would make the speaker give the warning rather than receive it.
-- **to tell:** Remember to tell describes a pending duty to give a warning, not a memory of receiving one.
+- **to tell:** 'Remember to tell' describes a pending duty to give a warning, not a memory of receiving one.
 - **to be told:** This does not express recollection of an earlier experience; that requires the passive -ing form.
 - **being told:** Remember being told recalls receiving someone else's instruction.
 
@@ -2175,13 +2175,13 @@ We regret ___ you that the venue is unavailable on your chosen date.
 3. to inform **[Correct]**
 4. to informing
 
-**Explanation:** Regret to inform conventionally expresses regret while delivering unwelcome information.
+**Explanation:** 'Regret to inform' conventionally expresses regret while delivering unwelcome information.
 
 **Choice feedback:**
 
 - **informing:** Regret informing normally looks back unhappily on having informed someone, rather than introducing the news now.
-- **inform:** Regret does not take the basic verb inform directly in this formula.
-- **to inform:** Regret to inform conventionally expresses regret while delivering unwelcome information.
+- **inform:** 'Regret' does not take the basic verb 'inform' directly in this formula.
+- **to inform:** 'Regret to inform' conventionally expresses regret while delivering unwelcome information.
 - **to informing:** This formula needs the basic verb after to.
 
 **Decision:** replaced.
@@ -2207,13 +2207,13 @@ She then went on ___ staffing needs.
 3. discuss
 4. to discussing
 
-**Explanation:** Go on to + verb introduces a subsequent action or stage after an earlier one.
+**Explanation:** 'Go on to' + verb introduces a subsequent action or stage after an earlier one.
 
 **Choice feedback:**
 
-- **to discuss:** Go on to + verb introduces a subsequent action or stage after an earlier one.
-- **discussing:** Went on discussing would mean continuing the same discussion, not moving to the new subject specified.
-- **discuss:** The basic verb cannot directly follow went on in this construction.
+- **to discuss:** 'Go on to' + verb introduces a subsequent action or stage after an earlier one.
+- **discussing:** 'Went on discussing' would mean continuing the same discussion, not moving to the new subject specified.
+- **discuss:** The basic verb cannot directly follow 'went on' in this construction.
 - **to discussing:** To discussing does not form either the continuing or subsequent-action pattern.
 
 **Decision:** replaced.
@@ -2239,14 +2239,14 @@ The rota now includes Saturdays. Choose the meaning of the speaker's comment.
 3. The speaker tried weekend work to decide whether to accept the post.
 4. Weekend work is part of what accepting the post involves. **[Correct]**
 
-**Explanation:** Mean + -ing expresses what a situation involves or entails.
+**Explanation:** 'Mean' + '-ing' expresses what a situation involves or entails.
 
 **Choice feedback:**
 
-- **The speaker intends to accept the post on a weekend.:** Means working expresses a consequence, not the intention conveyed by mean to.
+- **The speaker intends to accept the post on a weekend.:** 'Means working' expresses a consequence, not the intention conveyed by 'mean to'.
 - **Weekend work is something the speaker remembers doing in an earlier post.:** The statement describes what the new post involves, not a remembered previous job.
 - **The speaker tried weekend work to decide whether to accept the post.:** No experiment is described; the sentence links acceptance with its consequence.
-- **Weekend work is part of what accepting the post involves.:** Mean + -ing expresses what a situation involves or entails.
+- **Weekend work is part of what accepting the post involves.:** 'Mean' + '-ing' expresses what a situation involves or entails.
 
 **Decision:** replaced.
 
@@ -2277,8 +2277,8 @@ Put the roof first.
 
 - **The roof needs to repair.:** This makes the roof the performer of repair rather than the thing needing repair.
 - **The roof needs repairing.:** Need + -ing can have passive meaning: the roof needs someone to repair it.
-- **The roof needs to repairing.:** After infinitival to, use a basic verb; this combination is malformed.
-- **The roof needs to be repair.:** The passive infinitive needs the past participle repaired after to be, not repair.
+- **The roof needs to repairing.:** After infinitival 'to', use a basic verb; this combination is malformed.
+- **The roof needs to be repair.:** The passive infinitive needs the past participle 'repaired' after 'to be', not 'repair'.
 
 **Decision:** replaced.
 
@@ -2303,14 +2303,14 @@ With such a small storage room, we cannot afford ___ every old display.
 3. keep
 4. to keeping
 
-**Explanation:** Afford to + verb can concern practical resources, including space, as well as money.
+**Explanation:** 'Afford to' + verb can concern practical resources, including space, as well as money.
 
 **Choice feedback:**
 
 - **kept:** The past form kept cannot directly follow afford; use to keep.
-- **to keep:** Afford to + verb can concern practical resources, including space, as well as money.
-- **keep:** The infinitive after afford requires to.
-- **to keeping:** After this to, the verb must be the basic form keep.
+- **to keep:** 'Afford to' + verb can concern practical resources, including space, as well as money.
+- **keep:** The infinitive after 'afford' requires 'to'.
+- **to keeping:** After this 'to', the verb must be the basic form 'keep'.
 
 **Decision:** replaced.
 
@@ -2335,13 +2335,13 @@ The witness saw the woman ___ the bridge.
 3. cross **[Correct]**
 4. crossed
 
-**Explanation:** See + object + basic verb can present the observed action as a whole event.
+**Explanation:** 'See' + object + basic verb can present the observed action as a whole event.
 
 **Choice feedback:**
 
-- **to cross:** Active see + object does not take a to-infinitive in this direct perception pattern.
+- **to cross:** Active 'see' + object does not take a to-infinitive in this direct perception pattern.
 - **crossing:** Crossing presents the action in progress; it does not foreground the whole crossing as requested.
-- **cross:** See + object + basic verb can present the observed action as a whole event.
+- **cross:** 'See' + object + basic verb can present the observed action as a whole event.
 - **crossed:** Crossed cannot serve as the action complement after saw the woman here.
 
 **Decision:** replaced.
@@ -2367,14 +2367,14 @@ Rewrite the sentence in the passive while preserving the enforced action.
 3. repeating
 4. to repeated
 
-**Explanation:** The bare infinitive after active make gains to in the passive: were made to repeat.
+**Explanation:** The bare infinitive after active 'make' gains 'to' in the passive: 'were made to repeat'.
 
 **Choice feedback:**
 
-- **to repeat:** The bare infinitive after active make gains to in the passive: were made to repeat.
+- **to repeat:** The bare infinitive after active 'make' gains 'to' in the passive: 'were made to repeat'.
 - **repeat:** The active pattern uses repeat without to, but passive were made requires to repeat.
 - **repeating:** This passive causative does not use an -ing complement.
-- **to repeated:** Use the basic verb repeat after to, not repeated.
+- **to repeated:** Use the basic verb 'repeat' after 'to', not 'repeated'.
 
 **Decision:** replaced.
 
@@ -2403,7 +2403,7 @@ Put the guests first, preserving permission to use the kitchen in standard writt
 
 **Choice feedback:**
 
-- **The guests were let to use the kitchen.:** Let does not form this ordinary passive with to use; use were allowed to use.
+- **The guests were let to use the kitchen.:** 'Let' does not form this ordinary passive with 'to use'; use 'were allowed to use'.
 - **The guests were allowed to use the kitchen.:** Allowed to supplies the ordinary passive expression for the permission given by let someone do.
 - **The guests were made to use the kitchen.:** Made to changes permission into an enforced action.
 - **The guests were allowed using the kitchen.:** When the guests are permitted to act, allowed is followed by to use, not using.
@@ -2431,12 +2431,12 @@ The guide advised ___ early and advised us ___ a map.
 3. leaving / carrying
 4. to leave / to carry
 
-**Explanation:** Advise can take an -ing activity directly or a person followed by a to-infinitive.
+**Explanation:** 'Advise' can take an -ing activity directly or a person followed by a to-infinitive.
 
 **Choice feedback:**
 
 - **to leave / carrying:** Without a person after advised, use leaving; with us, use to carry.
-- **leaving / to carry:** Advise can take an -ing activity directly or a person followed by a to-infinitive.
+- **leaving / to carry:** 'Advise' can take an -ing activity directly or a person followed by a to-infinitive.
 - **leaving / carrying:** Leaving fits the first pattern, but advised us needs to carry.
 - **to leave / to carry:** To carry fits advised us, but directly advised to leave lacks the person required by that active pattern.
 
@@ -2463,14 +2463,14 @@ The report is worth ___ carefully before publication.
 3. having checked
 4. to checking
 
-**Explanation:** Being checked supplies a passive -ing form after worth; the report receives the checking.
+**Explanation:** 'Being checked' supplies a passive -ing form after 'worth'; the report receives the checking.
 
 **Choice feedback:**
 
-- **to be checked:** Worth takes an -ing complement, not a to-infinitive.
-- **being checked:** Being checked supplies a passive -ing form after worth; the report receives the checking.
+- **to be checked:** 'Worth' takes an -ing complement, not a to-infinitive.
+- **being checked:** 'Being checked' supplies a passive -ing form after 'worth'; the report receives the checking.
 - **having checked:** This active perfect form would make the report the checker rather than the checked object.
-- **to checking:** Worth does not take the extra to in this pattern.
+- **to checking:** 'Worth' does not take the extra 'to' in this pattern.
 
 **Decision:** replaced.
 
@@ -2495,14 +2495,14 @@ She objected to ___ without her knowledge.
 3. have been recorded
 4. being recorded **[Correct]**
 
-**Explanation:** Object to + being + past participle expresses opposition to receiving an action.
+**Explanation:** 'Object to' + 'being' + past participle expresses opposition to receiving an action.
 
 **Choice feedback:**
 
 - **recording:** Recording would make her the person producing a recording, not the person recorded.
-- **to be recorded:** The to in object to is a preposition, so it takes being recorded.
-- **have been recorded:** After the preposition to, this form would need having, not have.
-- **being recorded:** Object to + being + past participle expresses opposition to receiving an action.
+- **to be recorded:** The 'to' in 'object to' is a preposition, so it takes 'being recorded'.
+- **have been recorded:** After the preposition 'to', this form would need 'having', not 'have'.
+- **being recorded:** 'Object to' + 'being' + past participle expresses opposition to receiving an action.
 
 **Decision:** replaced.
 
@@ -2534,7 +2534,7 @@ The wall appears ___ recently.
 - **to have been painted:** The perfect passive infinitive places the painting before the present appearance and makes the wall its receiver.
 - **to have painted:** This active perfect form would make the wall perform the painting.
 - **to be painting:** This makes the wall the painter and presents an action in progress now.
-- **having been painted:** Appear does not take this -ing clause directly as its complement.
+- **having been painted:** 'Appear' does not take this -ing clause directly as its complement.
 
 **Decision:** replaced.
 
@@ -2559,14 +2559,14 @@ Rewrite the sentence without changing who performs the action.
 3. for visitors to keep **[Correct]**
 4. for visitors to keeping
 
-**Explanation:** For introduces the subject of the infinitive, making visitors the people who must keep the tickets.
+**Explanation:** 'For' introduces the subject of the infinitive, making 'visitors' the people who must keep the tickets.
 
 **Choice feedback:**
 
 - **visitors keeping:** This does not supply the standard for-plus-subject infinitive after important in the given frame.
-- **for visitors keeping:** After the subject visitors in this for-clause, use to keep.
-- **for visitors to keep:** For introduces the subject of the infinitive, making visitors the people who must keep the tickets.
-- **for visitors to keeping:** An infinitival to takes keep rather than keeping.
+- **for visitors keeping:** After the subject 'visitors' in this for-clause, use 'to keep'.
+- **for visitors to keep:** 'For' introduces the subject of the infinitive, making 'visitors' the people who must keep the tickets.
+- **for visitors to keeping:** An infinitival 'to' takes 'keep' rather than 'keeping'.
 
 **Decision:** replaced.
 
@@ -2595,14 +2595,14 @@ As a freelance translator, Hana is accustomed to ___ her choice of words to clie
 3. having justify
 4. to have justified
 
-**Explanation:** Accustomed to takes an -ing complement; having to justify expresses the recurring requirement within it.
+**Explanation:** 'Accustomed to' takes an -ing complement; 'having to justify' expresses the recurring requirement within it.
 
 **Choice feedback:**
 
-- **have to justify:** The preposition to after accustomed needs having, not have.
-- **having to justify:** Accustomed to takes an -ing complement; having to justify expresses the recurring requirement within it.
-- **having justify:** Have to requires to before justify, even when have becomes having.
-- **to have justified:** The existing to is prepositional; adding a perfect infinitive does not form the required complement.
+- **have to justify:** The preposition 'to' after 'accustomed' needs 'having', not 'have'.
+- **having to justify:** 'Accustomed to' takes an -ing complement; 'having to justify' expresses the recurring requirement within it.
+- **having justify:** 'Have to' requires 'to' before 'justify', even when 'have' becomes 'having'.
+- **to have justified:** The existing 'to' is prepositional; adding a perfect infinitive does not form the required complement.
 
 **Decision:** replaced.
 
@@ -2663,10 +2663,10 @@ Rewrite the purpose using the supplied noun phrase and correct grammar.
 
 **Choice feedback:**
 
-- **to reducing queues:** The noun phrase with the aim takes of reducing in this construction.
-- **of reduce queues:** After of, use reducing rather than the basic verb reduce.
+- **to reducing queues:** The noun phrase 'with the aim' takes 'of reducing' in this construction.
+- **of reduce queues:** After 'of', use 'reducing' rather than the basic verb 'reduce'.
 - **of reducing queues:** Changing aims to into with the aim of changes the following action to an -ing clause.
-- **of to reduce queues:** A to-infinitive cannot directly follow of here.
+- **of to reduce queues:** A to-infinitive cannot directly follow 'of' here.
 
 **Decision:** replaced.
 
@@ -2826,7 +2826,7 @@ Rewrite the report while preserving its source and earlier time reference.
 - **to alter before publication:** This makes the figures perform an action rather than receive an earlier alteration.
 - **to be altering before publication:** This is active and ongoing, not an earlier completed passive action.
 - **to have been altered before publication:** The perfect passive infinitive preserves the earlier alteration while appear retains the source's tentative assessment.
-- **having been altered before publication:** Appear requires an infinitive complement in this rewrite, not a direct -ing clause.
+- **having been altered before publication:** 'Appear' requires an infinitive complement in this rewrite, not a direct -ing clause.
 
 **Decision:** replaced.
 
@@ -2855,7 +2855,7 @@ Choose the participants in the remembered scene.
 
 **Choice feedback:**
 
-- **Amira watched the speaker assist the visitor with the case.:** I is the person remembering and seeing; Amira is the helper observed.
+- **Amira watched the speaker assist the visitor with the case.:** 'I' is the person remembering and seeing; Amira is the helper observed.
 - **The speaker watched Amira assist the visitor with the case.:** Remember seeing gives the speaker's memory; Amira performs help, and the visitor is assisted with lifting.
 - **The visitor watched Amira and the speaker lift the case.:** The visitor is the person helped, not the observer identified by the sentence.
 - **The speaker remembers intending to help Amira find a visitor.:** Seeing reports an observed scene, and help the visitor lift is not an intention to find someone.
@@ -2883,14 +2883,14 @@ She regrets ___ before the biography appeared.
 3. having been consulted
 4. not having been consulted **[Correct]**
 
-**Explanation:** Not negates the earlier passive event; the perfect gerund places the missing consultation before publication.
+**Explanation:** 'Not' negates the earlier passive event; the perfect gerund places the missing consultation before publication.
 
 **Choice feedback:**
 
 - **not having consulted:** This makes her the person who failed to consult someone else.
-- **to have been consulted:** Regret about an earlier event takes an -ing complement, and this also loses the negation.
+- **to have been consulted:** 'Regret' about an earlier event takes an -ing complement, and this also loses the negation.
 - **having been consulted:** This says consultation occurred and was regretted, reversing the stated exclusion.
-- **not having been consulted:** Not negates the earlier passive event; the perfect gerund places the missing consultation before publication.
+- **not having been consulted:** 'Not' negates the earlier passive event; the perfect gerund places the missing consultation before publication.
 
 **Decision:** replaced.
 
@@ -2921,7 +2921,7 @@ The wiring needs ___.
 
 - **checking / to be checked:** Need checking and need to be checked both give the wiring a passive role.
 - **to check / checking:** Checking works, but to check would make the wiring perform the inspection.
-- **being check / to be checked:** To be checked works, but the passive -ing form would require checked after being.
+- **being check / to be checked:** 'To be checked' works, but the passive -ing form would require 'checked' after 'being'.
 - **to checking / checked:** To checking is incorrect here, so this pair cannot be accepted. Checking and to be checked are the two alternatives in the correct pair.
 
 **Decision:** replaced.
@@ -2951,7 +2951,7 @@ Choose who is scheduled to meet the delegation.
 
 **Choice feedback:**
 
-- **Rosa, with Ibrahim organizing the meeting.:** Rosa is the subject of arranged; Ibrahim is the subject introduced by for before to meet.
+- **Rosa, with Ibrahim organizing the meeting.:** Rosa is the subject of 'arranged'; Ibrahim is the subject introduced by 'for' before 'to meet'.
 - **Rosa and Ibrahim, both explicitly required to attend.:** The sentence names Ibrahim as the person meeting them; it does not state that Rosa will attend.
 - **The delegation, which arranged to collect Rosa.:** The delegation is the object of meet and is not described as making the arrangement.
 - **Ibrahim, with Rosa organizing the meeting.:** Arrange for + person + to + verb identifies a performer distinct from the organizer.
@@ -2979,13 +2979,13 @@ Choose the paraphrase preserving the speaker's assessment.
 3. Her caution prevented her from simply dismissing the crack. **[Correct]**
 4. She cautiously dismissed the crack after establishing its cause.
 
-**Explanation:** Too + adjective + to + verb can describe a degree of a quality that prevents the action.
+**Explanation:** 'Too' + adjective + 'to' + verb can describe a degree of a quality that prevents the action.
 
 **Choice feedback:**
 
 - **She dismissed the crack because her caution was excessive.:** Too cautious to dismiss presents caution as an obstacle to dismissal, not its cause.
 - **She needed more caution before she would be permitted to dismiss the crack.:** The sentence does not describe a permission threshold or insufficient caution.
-- **Her caution prevented her from simply dismissing the crack.:** Too + adjective + to + verb can describe a degree of a quality that prevents the action.
+- **Her caution prevented her from simply dismissing the crack.:** 'Too' + adjective + 'to' + verb can describe a degree of a quality that prevents the action.
 - **She cautiously dismissed the crack after establishing its cause.:** This asserts the dismissal that the original presents as prevented by caution.
 
 **Decision:** replaced.
@@ -3011,12 +3011,12 @@ Read the travel account. Choose the function of the infinitive at the end.
 3. It describes a discovery the group avoided making.
 4. It reports the group's earlier reason for cancelling the event.
 
-**Explanation:** Only to + verb can introduce an unexpected or disappointing result following an action.
+**Explanation:** 'Only to' + verb can introduce an unexpected or disappointing result following an action.
 
 **Choice feedback:**
 
 - **It states the purpose for which the group drove to the venue.:** Only to discover presents the outcome, not a purpose of travelling there to learn of cancellation.
-- **It presents an unwelcome discovery after the arrival.:** Only to + verb can introduce an unexpected or disappointing result following an action.
+- **It presents an unwelcome discovery after the arrival.:** 'Only to' + verb can introduce an unexpected or disappointing result following an action.
 - **It describes a discovery the group avoided making.:** The account states that they did discover the cancellation.
 - **It reports the group's earlier reason for cancelling the event.:** The group discovers a prior cancellation; it is not described as having caused it.
 
@@ -3043,13 +3043,13 @@ The problem is simple enough ___ independently.
 3. the assistant solving
 4. for solving the assistant
 
-**Explanation:** For identifies the solver; the problem is understood as the object of solve after enough.
+**Explanation:** 'For' identifies the solver; the problem is understood as the object of 'solve' after 'enough'.
 
 **Choice feedback:**
 
 - **for the assistant to be solved:** This makes the assistant, rather than the problem, the thing being solved.
-- **for the assistant to solve:** For identifies the solver; the problem is understood as the object of solve after enough.
-- **the assistant solving:** This does not form the required for-plus-subject infinitive after enough.
+- **for the assistant to solve:** 'For' identifies the solver; the problem is understood as the object of 'solve' after 'enough'.
+- **the assistant solving:** This does not form the required for-plus-subject infinitive after 'enough'.
 - **for solving the assistant:** This makes the assistant the object of solving and loses the intended actor.
 
 **Decision:** replaced.
@@ -3176,7 +3176,7 @@ The speaker has already read the report several times. Interpret this comment af
 **Choice feedback:**
 
 - **The question keeps occurring to the speaker and is hard to avoid.:** Can't help + -ing can describe an involuntary or hard-to-avoid thought or reaction; wondering still leaves the answer open.
-- **The speaker cannot assist someone else in identifying the missing assumption.:** Can't help + -ing here means cannot avoid the thought, not inability to provide assistance.
+- **The speaker cannot assist someone else in identifying the missing assumption.:** "Can't help" + '-ing' here means cannot avoid the thought, not inability to provide assistance.
 - **The speaker has proved that the assumption was omitted.:** Wondering raises a question; it does not establish that an omission occurred.
 - **The speaker refuses to consider the possibility of an omitted assumption.:** The phrase says the thought persists, not that it is rejected.
 
@@ -3244,7 +3244,7 @@ A draft names Rowan as the project's sole designer. A colleague reads the object
 **Choice feedback:**
 
 - **The attribution of all the design work to Rowan.:** Rowan's is the subject of the passive gerund clause; the objection concerns credit being assigned to Rowan.
-- **Rowan's refusal to credit the other designers.:** Rowan is the recipient of credit in being credited; the sentence does not say Rowan controls the attribution.
+- **Rowan's refusal to credit the other designers.:** Rowan is the recipient of credit in 'being credited'; the sentence does not say Rowan controls the attribution.
 - **The speaker's having designed the project without Rowan.:** No such authorship claim is made; the disputed matter is the attribution described by the gerund clause.
 - **Rowan's objection to being named in the project report.:** The speaker objects; Rowan is not presented as the person raising the objection.
 
@@ -3598,7 +3598,7 @@ Compare the accounts as their narrators present them. Choose the distinction bet
 - **Both accounts establish that Nico withheld the letter and later regretted it.:** Denied reports rejection of the claim and does not express regret.
 - **Neither account presents any position on whether withholding occurred.:** Regretted treats the earlier act as something regretted; denied explicitly reports a position against the allegation.
 - **(1) presents withholding as a fact; (2) reports Nico's rejection of that claim.:** The same perfect gerund locates an earlier action, but regretted and denied give that action different evidential status.
-- **(1) concerns future withholding; (2) concerns an earlier act of withholding.:** Having withheld gives earlier reference in both; the contrast is the main verb's stance.
+- **(1) concerns future withholding; (2) concerns an earlier act of withholding.:** 'Having withheld' gives earlier reference in both; the contrast is the main verb's stance.
 
 **Decision:** replaced.
 
@@ -3853,8 +3853,8 @@ It is January. The curator is preparing an exhibition for May and says the follo
 
 - **Cataloguing is already complete when the curator speaks in January.:** The perfect infinitive places completion before the exhibition, not necessarily before the speaking time.
 - **Cataloguing is hoped to be complete before the May opening, not necessarily before January.:** A perfect infinitive marks completion relative to a reference point; here that point is a future opening.
-- **The curator remembers cataloguing the loans at an earlier exhibition.:** Hope describes a desired outcome, not recollection of an earlier event.
-- **The curator plans to start cataloguing only after the exhibition opens.:** Have catalogued and before require completed cataloguing before the opening, not a later start.
+- **The curator remembers cataloguing the loans at an earlier exhibition.:** 'Hope' describes a desired outcome, not recollection of an earlier event.
+- **The curator plans to start cataloguing only after the exhibition opens.:** 'Have catalogued' and 'before' require completed cataloguing before the opening, not a later start.
 
 **Decision:** replaced.
 

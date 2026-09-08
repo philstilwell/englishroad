@@ -19,14 +19,14 @@ Choose the grammatically correct sentence in standard written English.
 3. There is pharmacy a opposite the hotel.
 4. There is a pharmacy opposite the hotel. **[Correct]**
 
-**Explanation:** Use there is to introduce the existence of one place or thing.
+**Explanation:** Use 'there is' to introduce the existence of one place or thing.
 
 **Choice feedback:**
 
-- **There a pharmacy opposite the hotel.:** There needs a verb here: there is a pharmacy.
-- **There has a pharmacy opposite the hotel.:** Existential there uses be, not has, to introduce the pharmacy.
-- **There is pharmacy a opposite the hotel.:** The article goes before the noun: a pharmacy.
-- **There is a pharmacy opposite the hotel.:** Use there is to introduce the existence of one place or thing.
+- **There a pharmacy opposite the hotel.:** 'There' needs a verb here: 'there is a pharmacy'.
+- **There has a pharmacy opposite the hotel.:** Existential 'there' uses 'be', not 'has', to introduce the pharmacy.
+- **There is pharmacy a opposite the hotel.:** The article goes before the noun: 'a pharmacy'.
+- **There is a pharmacy opposite the hotel.:** Use 'there is' to introduce the existence of one place or thing.
 
 **Decision:** replaced.
 
@@ -51,12 +51,12 @@ Which sentence keeps Mina as the person giving help?
 3. Mina and Leo need help.
 4. Leo asks Mina for help.
 
-**Explanation:** In this active sentence, the subject Mina gives help and the object Leo receives it.
+**Explanation:** In this active sentence, the subject 'Mina' gives help and the object 'Leo' receives it.
 
 **Choice feedback:**
 
 - **Leo helps Mina.:** This reverses the roles and makes Leo the helper.
-- **Mina helps Leo.:** In this active sentence, the subject Mina gives help and the object Leo receives it.
+- **Mina helps Leo.:** In this active sentence, the subject 'Mina' gives help and the object 'Leo' receives it.
 - **Mina and Leo need help.:** This says both need help, not that Mina helps Leo.
 - **Leo asks Mina for help.:** A request for help does not itself say that Mina gives the help.
 
@@ -83,14 +83,14 @@ Choose the complete, grammatically correct sentence in standard written English.
 3. The soup is very is hot.
 4. The soup does very hot.
 
-**Explanation:** Use subject + be + adjective to describe something: the soup is hot.
+**Explanation:** Use subject + 'be' + adjective to describe something: 'the soup is hot'.
 
 **Choice feedback:**
 
-- **The soup is very hot.:** Use subject + be + adjective to describe something: the soup is hot.
-- **The soup very hot.:** A complete statement needs is between the subject and hot.
-- **The soup is very is hot.:** Only one linking verb is needed; remove the second is.
-- **The soup does very hot.:** Does cannot link soup to the adjective hot; use is.
+- **The soup is very hot.:** Use subject + 'be' + adjective to describe something: 'the soup is hot'.
+- **The soup very hot.:** A complete statement needs 'is' between the subject and 'hot'.
+- **The soup is very is hot.:** Only one linking verb is needed; remove the second 'is'.
+- **The soup does very hot.:** 'Does' cannot link 'soup' to the adjective 'hot'; use 'is'.
 
 **Decision:** replaced.
 
@@ -115,14 +115,14 @@ Choose a complete, grammatically correct answer in standard written English.
 3. My keys are my bag in.
 4. My keys are in my bag. **[Correct]**
 
-**Explanation:** A location statement can use subject + be + place phrase.
+**Explanation:** A location statement can use subject + 'be' + place phrase.
 
 **Choice feedback:**
 
-- **My keys in my bag.:** This leaves out the verb are needed in a complete statement.
-- **My keys are in my bag are.:** The final are has no role; the sentence already has its verb.
-- **My keys are my bag in.:** Put in before its noun phrase: in my bag.
-- **My keys are in my bag.:** A location statement can use subject + be + place phrase.
+- **My keys in my bag.:** This leaves out the verb 'are' needed in a complete statement.
+- **My keys are in my bag are.:** The final 'are' has no role; the sentence already has its verb.
+- **My keys are my bag in.:** Put 'in' before its noun phrase: 'in my bag'.
+- **My keys are in my bag.:** A location statement can use subject + 'be' + place phrase.
 
 **Decision:** replaced.
 
@@ -147,13 +147,13 @@ Which sentence correctly says that you do this work?
 3. You work at a bakery.
 4. A bakery works for me.
 
-**Explanation:** I supplies the subject for a complete statement about the speaker's work.
+**Explanation:** 'I' supplies the subject for a complete statement about the speaker's work.
 
 **Choice feedback:**
 
 - **Work at a bakery.:** This can be an instruction, but it is not a statement saying who works there.
-- **I work at a bakery.:** I supplies the subject for a complete statement about the speaker's work.
-- **You work at a bakery.:** You makes the statement about the person addressed, not about the speaker.
+- **I work at a bakery.:** 'I' supplies the subject for a complete statement about the speaker's work.
+- **You work at a bakery.:** 'You' makes the statement about the person addressed, not about the speaker.
 - **A bakery works for me.:** This makes the bakery the subject and changes the relationship; it does not state your job.
 
 **Decision:** replaced.
@@ -179,14 +179,14 @@ Choose the grammatically correct sentence in standard written English.
 3. I need a ticket York for.
 4. I a ticket need for York.
 
-**Explanation:** The object noun phrase a ticket follows need; for York adds the destination.
+**Explanation:** The object noun phrase 'a ticket' follows 'need'; 'for York' adds the destination.
 
 **Choice feedback:**
 
-- **I need a ticket for York.:** The object noun phrase a ticket follows need; for York adds the destination.
-- **I need a for ticket York.:** For belongs before the destination, not between the article and ticket.
-- **I need a ticket York for.:** The preposition comes before its destination phrase: for York.
-- **I a ticket need for York.:** In this ordinary statement, the object follows the verb: I need a ticket.
+- **I need a ticket for York.:** The object noun phrase 'a ticket' follows 'need'; 'for York' adds the destination.
+- **I need a for ticket York.:** 'For' belongs before the destination, not between the article and 'ticket'.
+- **I need a ticket York for.:** The preposition comes before its destination phrase: 'for York'.
+- **I a ticket need for York.:** In this ordinary statement, the object follows the verb: 'I need a ticket'.
 
 **Decision:** replaced.
 
@@ -211,14 +211,14 @@ Choose the grammatically correct sentence in standard written English.
 3. I am not be ready.
 4. I do not am ready.
 
-**Explanation:** With be, form the negative by putting not after the verb.
+**Explanation:** With 'be', form the negative by putting 'not' after the verb.
 
 **Choice feedback:**
 
-- **I not am ready.:** Place not after am in this statement: I am not ready.
-- **I am not ready.:** With be, form the negative by putting not after the verb.
-- **I am not be ready.:** Am already links the subject to ready; adding be is incorrect here.
-- **I do not am ready.:** Do is not added to negate am; use am not.
+- **I not am ready.:** Place 'not' after 'am' in this statement: 'I am not ready'.
+- **I am not ready.:** With 'be', form the negative by putting 'not' after the verb.
+- **I am not be ready.:** 'Am' already links the subject to 'ready'; adding 'be' is incorrect here.
+- **I do not am ready.:** 'Do' is not added to negate 'am'; use 'am not'.
 
 **Decision:** replaced.
 
@@ -243,14 +243,14 @@ Choose the grammatically correct sentence in standard written English.
 3. We do not eating meat.
 4. We are not eat meat.
 
-**Explanation:** Use do not + base verb to make a negative present-simple statement with we.
+**Explanation:** Use 'do not' + base verb to make a negative present-simple statement with 'we'.
 
 **Choice feedback:**
 
-- **We do not eat meat.:** Use do not + base verb to make a negative present-simple statement with we.
-- **We not eat meat.:** A standard present-simple negative needs do not before eat.
-- **We do not eating meat.:** After do not, use the base verb eat, not eating.
-- **We are not eat meat.:** Are not cannot be followed by base eat in this construction; use do not eat.
+- **We do not eat meat.:** Use 'do not' + base verb to make a negative present-simple statement with 'we'.
+- **We not eat meat.:** A standard present-simple negative needs 'do not' before 'eat'.
+- **We do not eating meat.:** After 'do not', use the base verb 'eat', not 'eating'.
+- **We are not eat meat.:** 'Are not' cannot be followed by base 'eat' in this construction; use 'do not eat'.
 
 **Decision:** replaced.
 
@@ -275,14 +275,14 @@ Choose the grammatically correct question in standard written English.
 3. Is you free tomorrow?
 4. Are you free tomorrow? **[Correct]**
 
-**Explanation:** A direct question with be puts are before the subject you.
+**Explanation:** A direct question with 'be' puts 'are' before the subject 'you'.
 
 **Choice feedback:**
 
-- **Do you are free tomorrow?:** Do is not added before are; invert are and you instead.
-- **Are free you tomorrow?:** Keep the subject immediately after are: Are you free?
-- **Is you free tomorrow?:** The subject you takes are, not is.
-- **Are you free tomorrow?:** A direct question with be puts are before the subject you.
+- **Do you are free tomorrow?:** 'Do' is not added before 'are'; invert 'are' and 'you' instead.
+- **Are free you tomorrow?:** Keep the subject immediately after 'are': 'Are you free?'
+- **Is you free tomorrow?:** The subject 'you' takes 'are', not 'is'.
+- **Are you free tomorrow?:** A direct question with 'be' puts 'are' before the subject 'you'.
 
 **Decision:** replaced.
 
@@ -307,14 +307,14 @@ Choose the grammatically correct question in standard written English.
 3. Where does you live?
 4. Where do you lives?
 
-**Explanation:** Use question word + do + subject + base verb with a present-simple location question.
+**Explanation:** Use question word + 'do' + subject + base verb with a present-simple location question.
 
 **Choice feedback:**
 
-- **Where do you live?:** Use question word + do + subject + base verb with a present-simple location question.
-- **Where you do live?:** In this direct question, do comes before you: Where do you live?
-- **Where does you live?:** You uses do rather than does.
-- **Where do you lives?:** After do, the main verb stays in its base form, live.
+- **Where do you live?:** Use question word + 'do' + subject + base verb with a present-simple location question.
+- **Where you do live?:** In this direct question, 'do' comes before 'you': 'Where do you live?'
+- **Where does you live?:** 'You' uses 'do' rather than 'does'.
+- **Where do you lives?:** After 'do', the main verb stays in its base form, 'live'.
 
 **Decision:** replaced.
 
@@ -339,14 +339,14 @@ Choose the grammatically correct question in standard written English.
 3. Who works at reception? **[Correct]**
 4. Who working at reception?
 
-**Explanation:** Who is the subject of this question, so it can be followed directly by works.
+**Explanation:** 'Who' is the subject of this question, so it can be followed directly by 'works'.
 
 **Choice feedback:**
 
-- **Who does works at reception?:** If emphatic does is used, it must be followed by work, not works.
-- **Who is works at reception?:** Works does not combine with is here; use Who works?
-- **Who works at reception?:** Who is the subject of this question, so it can be followed directly by works.
-- **Who working at reception?:** Working alone does not supply a finite verb; use works or is working.
+- **Who does works at reception?:** If emphatic 'does' is used, it must be followed by 'work', not 'works'.
+- **Who is works at reception?:** 'Works' does not combine with 'is' here; use 'Who works?'
+- **Who works at reception?:** 'Who' is the subject of this question, so it can be followed directly by 'works'.
+- **Who working at reception?:** 'Working' alone does not supply a finite verb; use 'works' or 'is working'.
 
 **Decision:** replaced.
 
@@ -371,14 +371,14 @@ Choose the complete, grammatically correct instruction in standard written Engli
 3. Please wait here. **[Correct]**
 4. Please waiting here.
 
-**Explanation:** A basic instruction uses the base verb and can omit you: Please wait here.
+**Explanation:** A basic instruction uses the base verb and can omit 'you': 'Please wait here'.
 
 **Choice feedback:**
 
-- **Please waits here.:** An instruction uses base wait, not third-person waits.
-- **Please to wait here.:** A direct please instruction does not add to before the verb.
-- **Please wait here.:** A basic instruction uses the base verb and can omit you: Please wait here.
-- **Please waiting here.:** Waiting alone is not the finite command form; use wait.
+- **Please waits here.:** An instruction uses base 'wait', not third-person 'waits'.
+- **Please to wait here.:** A direct 'please' instruction does not add 'to' before the verb.
+- **Please wait here.:** A basic instruction uses the base verb and can omit 'you': 'Please wait here'.
+- **Please waiting here.:** 'Waiting' alone is not the finite command form; use 'wait'.
 
 **Decision:** replaced.
 
@@ -403,13 +403,13 @@ Choose one sentence saying Elena does both jobs.
 3. Elena opens the cafe and serves the first customers. **[Correct]**
 4. Elena opens the cafe but does not serve the first customers.
 
-**Explanation:** The two verbs can share the subject Elena when and joins her two actions.
+**Explanation:** The two verbs can share the subject 'Elena' when 'and' joins her two actions.
 
 **Choice feedback:**
 
 - **Elena opens the cafe and the first customers serve her.:** This makes the customers do the serving instead of Elena.
-- **Elena opens the cafe or serves the first customers.:** Or presents alternatives rather than clearly saying she does both.
-- **Elena opens the cafe and serves the first customers.:** The two verbs can share the subject Elena when and joins her two actions.
+- **Elena opens the cafe or serves the first customers.:** 'Or' presents alternatives rather than clearly saying she does both.
+- **Elena opens the cafe and serves the first customers.:** The two verbs can share the subject 'Elena' when 'and' joins her two actions.
 - **Elena opens the cafe but does not serve the first customers.:** This denies the second action, changing the original information.
 
 **Decision:** replaced.
@@ -428,21 +428,21 @@ ID: `coverage-advanced-sentence-structure-a1-254`
 
 I want to walk to work. The rain stops me from doing that.
 
-Which joining word clearly marks the contrast: I want to walk, ___ it is raining?
+Which joining word clearly marks the contrast: 'I want to walk, ___ it is raining'?
 
 1. because
 2. but **[Correct]**
 3. or
 4. so
 
-**Explanation:** But connects contrasting ideas: the wish to walk and the rain that prevents it.
+**Explanation:** 'But' connects contrasting ideas: the wish to walk and the rain that prevents it.
 
 **Choice feedback:**
 
-- **because:** Because presents the rain as the reason for wanting to walk, not the obstacle described.
-- **but:** But connects contrasting ideas: the wish to walk and the rain that prevents it.
-- **or:** Or presents alternatives rather than marks this contrast.
-- **so:** So presents the rain as a result of wanting to walk, reversing the relationship.
+- **because:** 'Because' presents the rain as the reason for wanting to walk, not the obstacle described.
+- **but:** 'But' connects contrasting ideas: the wish to walk and the rain that prevents it.
+- **or:** 'Or' presents alternatives rather than marks this contrast.
+- **so:** 'So' presents the rain as a result of wanting to walk, reversing the relationship.
 
 **Decision:** replaced.
 
@@ -467,14 +467,14 @@ Choose the grammatically correct sentence in standard written English.
 3. I want to visits my uncle.
 4. I want to visit my uncle. **[Correct]**
 
-**Explanation:** Use want + to + base verb to say what action you would like to do.
+**Explanation:** Use 'want' + 'to' + base verb to say what action you would like to do.
 
 **Choice feedback:**
 
-- **I want visit my uncle.:** Want followed by another verb normally needs to here: want to visit.
-- **I want to visiting my uncle.:** Infinitival to is followed by base visit, not visiting.
-- **I want to visits my uncle.:** Visits is not the base form required after to.
-- **I want to visit my uncle.:** Use want + to + base verb to say what action you would like to do.
+- **I want visit my uncle.:** 'Want' followed by another verb normally needs 'to' here: 'want to visit'.
+- **I want to visiting my uncle.:** Infinitival 'to' is followed by base 'visit', not 'visiting'.
+- **I want to visits my uncle.:** 'Visits' is not the base form required after 'to'.
+- **I want to visit my uncle.:** Use 'want' + 'to' + base verb to say what action you would like to do.
 
 **Decision:** replaced.
 
@@ -499,14 +499,14 @@ Choose the grammatically correct sentence in standard written English.
 3. I can swim. **[Correct]**
 4. I can swims.
 
-**Explanation:** Use can + base verb to describe an ability.
+**Explanation:** Use 'can' + base verb to describe an ability.
 
 **Choice feedback:**
 
-- **I can to swim.:** Can takes a base verb directly, without to.
-- **I can swimming.:** Swimming cannot directly follow can in this ability statement; use swim.
-- **I can swim.:** Use can + base verb to describe an ability.
-- **I can swims.:** The verb after can does not take an -s ending.
+- **I can to swim.:** 'Can' takes a base verb directly, without 'to'.
+- **I can swimming.:** 'Swimming' cannot directly follow 'can' in this ability statement; use 'swim'.
+- **I can swim.:** Use 'can' + base verb to describe an ability.
+- **I can swims.:** The verb after 'can' does not take an '-s' ending.
 
 **Decision:** replaced.
 
@@ -531,14 +531,14 @@ Choose the grammatically correct sentence in standard written English.
 3. Nora and Ben are outside. **[Correct]**
 4. Nora and Ben be outside.
 
-**Explanation:** Two names joined by and form a plural subject, which takes are.
+**Explanation:** Two names joined by 'and' form a plural subject, which takes 'are'.
 
 **Choice feedback:**
 
-- **Nora and Ben is outside.:** The combined subject names two people, so is does not agree with it.
-- **Nora and Ben am outside.:** Am is used with I, not with two names joined by and.
-- **Nora and Ben are outside.:** Two names joined by and form a plural subject, which takes are.
-- **Nora and Ben be outside.:** A present statement needs finite are here, not base be.
+- **Nora and Ben is outside.:** The combined subject names two people, so 'is' does not agree with it.
+- **Nora and Ben am outside.:** 'Am' is used with 'I', not with two names joined by 'and'.
+- **Nora and Ben are outside.:** Two names joined by 'and' form a plural subject, which takes 'are'.
+- **Nora and Ben be outside.:** A present statement needs finite 'are' here, not base 'be'.
 
 **Decision:** replaced.
 
@@ -563,14 +563,14 @@ Choose the grammatically correct sentence in standard written English.
 3. It cold today.
 4. It are cold today.
 
-**Explanation:** English uses it as the subject in a basic weather statement.
+**Explanation:** English uses 'it' as the subject in a basic weather statement.
 
 **Choice feedback:**
 
-- **It is cold today.:** English uses it as the subject in a basic weather statement.
-- **Is cold today.:** A full weather statement needs the subject it before is.
-- **It cold today.:** The adjective cold needs the linking verb is in this statement.
-- **It are cold today.:** The singular subject it takes is, not are.
+- **It is cold today.:** English uses 'it' as the subject in a basic weather statement.
+- **Is cold today.:** A full weather statement needs the subject 'it' before 'is'.
+- **It cold today.:** The adjective 'cold' needs the linking verb 'is' in this statement.
+- **It are cold today.:** The singular subject 'it' takes 'is', not 'are'.
 
 **Decision:** replaced.
 
@@ -595,14 +595,14 @@ Which sentence uses a pronoun for this one place?
 3. We open at seven.
 4. You open at seven.
 
-**Explanation:** It refers back to the singular place, the cafe, without repeating its name.
+**Explanation:** 'It' refers back to the singular place, the cafe, without repeating its name.
 
 **Choice feedback:**
 
-- **They open at seven.:** They can refer to the people running a cafe, but the task asks for a pronoun referring to this one place.
-- **It opens at seven.:** It refers back to the singular place, the cafe, without repeating its name.
-- **We open at seven.:** We introduces the speaker as part of a group rather than refers to the place itself.
-- **You open at seven.:** You addresses another person rather than refers to the cafe as a place.
+- **They open at seven.:** 'They' can refer to the people running a cafe, but the task asks for a pronoun referring to this one place.
+- **It opens at seven.:** 'It' refers back to the singular place, the cafe, without repeating its name.
+- **We open at seven.:** 'We' introduces the speaker as part of a group rather than refers to the place itself.
+- **You open at seven.:** 'You' addresses another person rather than refers to the cafe as a place.
 
 **Decision:** replaced.
 
@@ -627,14 +627,14 @@ Which question clearly offers the drinks as alternatives?
 3. Would you like tea with coffee?
 4. Would you like tea or coffee? **[Correct]**
 
-**Explanation:** Or joins alternatives in a choice question.
+**Explanation:** 'Or' joins alternatives in a choice question.
 
 **Choice feedback:**
 
-- **Would you like tea and coffee?:** And asks about having both drinks together, not clearly choosing one.
-- **Would you like tea after coffee?:** After puts the drinks in a time sequence rather than offers a choice.
-- **Would you like tea with coffee?:** With combines the drinks rather than presents the intended alternatives.
-- **Would you like tea or coffee?:** Or joins alternatives in a choice question.
+- **Would you like tea and coffee?:** 'And' asks about having both drinks together, not clearly choosing one.
+- **Would you like tea after coffee?:** 'After' puts the drinks in a time sequence rather than offers a choice.
+- **Would you like tea with coffee?:** 'With' combines the drinks rather than presents the intended alternatives.
+- **Would you like tea or coffee?:** 'Or' joins alternatives in a choice question.
 
 **Decision:** replaced.
 
@@ -663,13 +663,13 @@ Which sentence keeps that reason and action?
 3. I took the bus because my car would not start. **[Correct]**
 4. I took the bus although my car started.
 
-**Explanation:** Because introduces the reason for taking the bus; the main clause states the action.
+**Explanation:** 'Because' introduces the reason for taking the bus; the main clause states the action.
 
 **Choice feedback:**
 
 - **My car would not start because I took the bus.:** This reverses the relationship and makes taking the bus the cause of the car problem.
-- **I took the bus before my car would not start.:** Before places the bus journey first in time rather than explains it through the car problem.
-- **I took the bus because my car would not start.:** Because introduces the reason for taking the bus; the main clause states the action.
+- **I took the bus before my car would not start.:** 'Before' places the bus journey first in time rather than explains it through the car problem.
+- **I took the bus because my car would not start.:** 'Because' introduces the reason for taking the bus; the main clause states the action.
 - **I took the bus although my car started.:** This changes the car's condition and presents a contrast rather than the stated reason.
 
 **Decision:** replaced.
@@ -695,13 +695,13 @@ Which sentence keeps the order of these events?
 3. While the shop is closing, I call my sister.
 4. The shop closes after I call my sister.
 
-**Explanation:** The initial after clause places the shop's closing before the call.
+**Explanation:** The initial 'after' clause places the shop's closing before the call.
 
 **Choice feedback:**
 
-- **After the shop closes, I call my sister.:** The initial after clause places the shop's closing before the call.
-- **Before the shop closes, I call my sister.:** Before puts the call earlier than the closing, reversing the stated order.
-- **While the shop is closing, I call my sister.:** While places the call during the closing, not later in the evening.
+- **After the shop closes, I call my sister.:** The initial 'after' clause places the shop's closing before the call.
+- **Before the shop closes, I call my sister.:** 'Before' puts the call earlier than the closing, reversing the stated order.
+- **While the shop is closing, I call my sister.:** 'While' places the call during the closing, not later in the evening.
 - **The shop closes after I call my sister.:** This makes the call happen first, the reverse of the given sequence.
 
 **Decision:** replaced.
@@ -731,9 +731,9 @@ Which sentence presents collecting the parcel as the purpose of the trip?
 
 **Choice feedback:**
 
-- **I went to the post office after collecting a parcel.:** After makes collecting an earlier event rather than the trip's purpose.
+- **I went to the post office after collecting a parcel.:** 'After' makes collecting an earlier event rather than the trip's purpose.
 - **I went to the post office because I had collected a parcel.:** This treats completed collection as the cause of going, not the intended action there.
-- **I went to the post office while someone collected a parcel.:** While links simultaneous events and changes who collects the parcel.
+- **I went to the post office while someone collected a parcel.:** 'While' links simultaneous events and changes who collects the parcel.
 - **I went to the post office to collect a parcel.:** A to-infinitive can express purpose: the reason for going was to collect the parcel.
 
 **Decision:** replaced.
@@ -759,14 +759,14 @@ Choose the grammatically correct sentence in standard written English.
 3. I think the train leaving at eight.
 4. I think the train leaves at eight. **[Correct]**
 
-**Explanation:** A clause after think keeps statement order: the train leaves at eight.
+**Explanation:** A clause after 'think' keeps statement order: 'the train leaves at eight'.
 
 **Choice feedback:**
 
 - **I think does the train leave at eight.:** Do not use direct-question inversion inside this statement of a belief.
-- **I think the train it leaves at eight.:** The train already supplies the embedded subject; adding it duplicates that subject.
-- **I think the train leaving at eight.:** This finite statement needs leaves, or a complete form such as is leaving.
-- **I think the train leaves at eight.:** A clause after think keeps statement order: the train leaves at eight.
+- **I think the train it leaves at eight.:** 'The train' already supplies the embedded subject; adding 'it' duplicates that subject.
+- **I think the train leaving at eight.:** This finite statement needs 'leaves', or a complete form such as 'is leaving'.
+- **I think the train leaves at eight.:** A clause after 'think' keeps statement order: 'the train leaves at eight'.
 
 **Decision:** replaced.
 
@@ -791,14 +791,14 @@ Choose the grammatically correct question in standard written English.
 3. Do you know where the toilets are? **[Correct]**
 4. Do you know where the toilets they are?
 
-**Explanation:** The outer question uses Do you know; the where clause keeps subject before are.
+**Explanation:** The outer question uses 'Do you know'; the 'where' clause keeps subject before 'are'.
 
 **Choice feedback:**
 
-- **Do you know where are the toilets?:** After know where, use statement order within the embedded question: the toilets are.
-- **Do you know where the toilets?:** The embedded clause is missing are after the toilets.
-- **Do you know where the toilets are?:** The outer question uses Do you know; the where clause keeps subject before are.
-- **Do you know where the toilets they are?:** The toilets already names the subject; they repeats it unnecessarily in this standard written construction.
+- **Do you know where are the toilets?:** After 'know where', use statement order within the embedded question: 'the toilets are'.
+- **Do you know where the toilets?:** The embedded clause is missing 'are' after 'the toilets'.
+- **Do you know where the toilets are?:** The outer question uses 'Do you know'; the 'where' clause keeps subject before 'are'.
+- **Do you know where the toilets they are?:** 'The toilets' already names the subject; 'they' repeats it unnecessarily in this standard written construction.
 
 **Decision:** replaced.
 
@@ -823,14 +823,14 @@ Choose the grammatically correct sentence in standard written English.
 3. The woman who lives next door is a nurse. **[Correct]**
 4. The woman who is lives next door is a nurse.
 
-**Explanation:** Who lives next door identifies the woman; is a nurse completes the main statement.
+**Explanation:** 'Who lives next door' identifies the woman; 'is a nurse' completes the main statement.
 
 **Choice feedback:**
 
-- **The woman who she lives next door is a nurse.:** Who supplies the relative clause's subject; do not add she for the same person.
-- **The woman who lives next door a nurse.:** The whole sentence needs is before a nurse, even though the relative clause already contains lives.
-- **The woman who lives next door is a nurse.:** Who lives next door identifies the woman; is a nurse completes the main statement.
-- **The woman who is lives next door is a nurse.:** Use lives or is living inside the relative clause, not is lives.
+- **The woman who she lives next door is a nurse.:** 'Who' supplies the relative clause's subject; do not add 'she' for the same person.
+- **The woman who lives next door a nurse.:** The whole sentence needs 'is' before 'a nurse', even though the relative clause already contains 'lives'.
+- **The woman who lives next door is a nurse.:** 'Who lives next door' identifies the woman; 'is a nurse' completes the main statement.
+- **The woman who is lives next door is a nurse.:** Use 'lives' or 'is living' inside the relative clause, not 'is lives'.
 
 **Decision:** replaced.
 
@@ -855,14 +855,14 @@ Choose the grammatically correct sentence in standard written English.
 3. This is the jacket that I bought yesterday. **[Correct]**
 4. This is the jacket that bought I yesterday.
 
-**Explanation:** In the relative clause, I is the subject and that links back to the jacket as the object of bought.
+**Explanation:** In the relative clause, 'I' is the subject and 'that' links back to the jacket as the object of 'bought'.
 
 **Choice feedback:**
 
-- **This is the jacket that I bought it yesterday.:** The relative construction already links jacket to the object of bought; it repeats that object.
-- **This is the jacket that I yesterday.:** The relative clause has a subject but is missing its verb, bought.
-- **This is the jacket that I bought yesterday.:** In the relative clause, I is the subject and that links back to the jacket as the object of bought.
-- **This is the jacket that bought I yesterday.:** The relative clause needs subject before verb: I bought, not bought I.
+- **This is the jacket that I bought it yesterday.:** The relative construction already links 'jacket' to the object of 'bought'; 'it' repeats that object.
+- **This is the jacket that I yesterday.:** The relative clause has a subject but is missing its verb, 'bought'.
+- **This is the jacket that I bought yesterday.:** In the relative clause, 'I' is the subject and 'that' links back to the jacket as the object of 'bought'.
+- **This is the jacket that bought I yesterday.:** The relative clause needs subject before verb: 'I bought', not 'bought I'.
 
 **Decision:** replaced.
 
@@ -912,21 +912,21 @@ ID: `coverage-advanced-sentence-structure-a2-269`
 
 You are thirsty and want a drink, not a place, time or companion.
 
-Which phrase completes your request: Could I have ___?
+Which phrase completes your request: 'Could I have ___?'
 
 1. something to drink **[Correct]**
 2. somewhere to drink
 3. someone to drink with
 4. some time to drink
 
-**Explanation:** Something names the thing wanted, and to drink describes its intended use.
+**Explanation:** 'Something' names the thing wanted, and 'to drink' describes its intended use.
 
 **Choice feedback:**
 
-- **something to drink:** Something names the thing wanted, and to drink describes its intended use.
-- **somewhere to drink:** Somewhere asks for a place in which to drink, not the drink itself.
-- **someone to drink with:** Someone to drink with asks for a companion rather than a drink.
-- **some time to drink:** Some time requests an opportunity or period for drinking, not a drink.
+- **something to drink:** 'Something' names the thing wanted, and 'to drink' describes its intended use.
+- **somewhere to drink:** 'Somewhere' asks for a place in which to drink, not the drink itself.
+- **someone to drink with:** 'Someone to drink with' asks for a companion rather than a drink.
+- **some time to drink:** 'Some time' requests an opportunity or period for drinking, not a drink.
 
 **Decision:** replaced.
 
@@ -951,14 +951,14 @@ Choose the grammatically correct sentence in standard written English.
 3. The box is light enough for me carry.
 4. The box is light enough for me to carrying.
 
-**Explanation:** Enough follows the adjective; for me to carry names the person and action made possible.
+**Explanation:** 'Enough' follows the adjective; 'for me to carry' names the person and action made possible.
 
 **Choice feedback:**
 
-- **The box is light enough for I to carry.:** After for in this pattern, use object-form me, not I.
-- **The box is light enough for me to carry.:** Enough follows the adjective; for me to carry names the person and action made possible.
-- **The box is light enough for me carry.:** The carrying action needs to: for me to carry.
-- **The box is light enough for me to carrying.:** To in this infinitive takes base carry, not carrying.
+- **The box is light enough for I to carry.:** After 'for' in this pattern, use object-form 'me', not 'I'.
+- **The box is light enough for me to carry.:** 'Enough' follows the adjective; 'for me to carry' names the person and action made possible.
+- **The box is light enough for me carry.:** The carrying action needs 'to': 'for me to carry'.
+- **The box is light enough for me to carrying.:** 'To' in this infinitive takes base 'carry', not 'carrying'.
 
 **Decision:** replaced.
 
@@ -983,14 +983,14 @@ Which sentence keeps the meaning?
 3. The bag fits, but putting it in takes a long time.
 4. The bag is large enough to fill the locker.
 
-**Explanation:** Too + adjective + to can express a degree that prevents the following action.
+**Explanation:** 'Too' + adjective + 'to' can express a degree that prevents the following action.
 
 **Choice feedback:**
 
 - **The bag fits because the locker is large.:** The original says the bag's size prevents it from fitting.
-- **The bag cannot fit because of its size.:** Too + adjective + to can express a degree that prevents the following action.
-- **The bag fits, but putting it in takes a long time.:** Too large to fit concerns impossibility from size, not the time needed.
-- **The bag is large enough to fill the locker.:** Large enough expresses sufficient size for an action, not the obstacle expressed by too large.
+- **The bag cannot fit because of its size.:** 'Too' + adjective + 'to' can express a degree that prevents the following action.
+- **The bag fits, but putting it in takes a long time.:** 'Too large to fit' concerns impossibility from size, not the time needed.
+- **The bag is large enough to fill the locker.:** 'Large enough' expresses sufficient size for an action, not the obstacle expressed by 'too large'.
 
 **Decision:** replaced.
 
@@ -1015,14 +1015,14 @@ Choose the grammatically correct sentence in standard written English.
 3. Please ask Jun to bringing a spare key.
 4. Please ask to Jun bring a spare key.
 
-**Explanation:** Ask + person + to-infinitive says what action you want that person to perform.
+**Explanation:** 'Ask' + person + to-infinitive says what action you want that person to perform.
 
 **Choice feedback:**
 
-- **Please ask Jun to bring a spare key.:** Ask + person + to-infinitive says what action you want that person to perform.
-- **Please ask Jun bring a spare key.:** The requested action needs to before bring in this ask pattern.
-- **Please ask Jun to bringing a spare key.:** Use base bring after infinitival to, not bringing.
-- **Please ask to Jun bring a spare key.:** The person follows ask directly, with to before the requested action: ask Jun to bring.
+- **Please ask Jun to bring a spare key.:** 'Ask' + person + to-infinitive says what action you want that person to perform.
+- **Please ask Jun bring a spare key.:** The requested action needs 'to' before 'bring' in this 'ask' pattern.
+- **Please ask Jun to bringing a spare key.:** Use base 'bring' after infinitival 'to', not 'bringing'.
+- **Please ask to Jun bring a spare key.:** The person follows 'ask' directly, with 'to' before the requested action: 'ask Jun to bring'.
 
 **Decision:** replaced.
 
@@ -1047,14 +1047,14 @@ Choose the grammatically correct sentence in standard written English.
 3. Let me checking the booking.
 4. Let me check the booking. **[Correct]**
 
-**Explanation:** Use let + object pronoun + base verb in this common request for a moment to act.
+**Explanation:** Use 'let' + object pronoun + base verb in this common request for a moment to act.
 
 **Choice feedback:**
 
-- **Let me to check the booking.:** Let takes an object followed directly by a base verb, without to.
-- **Let I check the booking.:** The pronoun after let is object-form me, not subject-form I.
-- **Let me checking the booking.:** Checking cannot directly fill the base-verb position after let me.
-- **Let me check the booking.:** Use let + object pronoun + base verb in this common request for a moment to act.
+- **Let me to check the booking.:** 'Let' takes an object followed directly by a base verb, without 'to'.
+- **Let I check the booking.:** The pronoun after 'let' is object-form 'me', not subject-form 'I'.
+- **Let me checking the booking.:** 'Checking' cannot directly fill the base-verb position after 'let me'.
+- **Let me check the booking.:** Use 'let' + object pronoun + base verb in this common request for a moment to act.
 
 **Decision:** replaced.
 
@@ -1079,14 +1079,14 @@ Choose the grammatically correct sentence in standard written English.
 3. I enjoy to cooking for friends.
 4. I enjoy cooking for friends. **[Correct]**
 
-**Explanation:** Use enjoy + -ing to name an activity you like doing.
+**Explanation:** Use 'enjoy' + '-ing' to name an activity you like doing.
 
 **Choice feedback:**
 
-- **I enjoy to cook for friends.:** Enjoy takes an -ing clause, not a to-infinitive, for this activity.
-- **I enjoy cook for friends.:** A base verb cannot directly fill the activity complement after enjoy; use cooking.
-- **I enjoy to cooking for friends.:** Enjoy does not take the preposition to before its -ing complement here.
-- **I enjoy cooking for friends.:** Use enjoy + -ing to name an activity you like doing.
+- **I enjoy to cook for friends.:** 'Enjoy' takes an -ing clause, not a to-infinitive, for this activity.
+- **I enjoy cook for friends.:** A base verb cannot directly fill the activity complement after 'enjoy'; use 'cooking'.
+- **I enjoy to cooking for friends.:** 'Enjoy' does not take the preposition 'to' before its -ing complement here.
+- **I enjoy cooking for friends.:** Use 'enjoy' + '-ing' to name an activity you like doing.
 
 **Decision:** replaced.
 
@@ -1111,11 +1111,11 @@ Which sentence keeps both people's roles?
 3. Dina sent her aunt to the flower shop.
 4. Dina received flowers from her aunt.
 
-**Explanation:** Flowers names what was sent; to her aunt names the recipient.
+**Explanation:** 'Flowers' names what was sent; 'to her aunt' names the recipient.
 
 **Choice feedback:**
 
-- **Dina sent flowers to her aunt.:** Flowers names what was sent; to her aunt names the recipient.
+- **Dina sent flowers to her aunt.:** 'Flowers' names what was sent; 'to her aunt' names the recipient.
 - **Dina's aunt sent her flowers.:** This makes the aunt the sender and Dina the recipient.
 - **Dina sent her aunt to the flower shop.:** Here the aunt is the person sent somewhere, not the recipient of flowers.
 - **Dina received flowers from her aunt.:** This reverses the direction of the gift.
@@ -1175,14 +1175,14 @@ Choose the grammatically correct sentence in standard written English.
 3. I'll call you when I am arrive home.
 4. I'll call you when I arrives home.
 
-**Explanation:** Use a present form in this when clause to identify the future time of the call.
+**Explanation:** Use a present form in this 'when' clause to identify the future time of the call.
 
 **Choice feedback:**
 
-- **I'll call you when I arriving home.:** The when clause needs a finite verb; arriving alone is incomplete.
-- **I'll call you when I arrive home.:** Use a present form in this when clause to identify the future time of the call.
-- **I'll call you when I am arrive home.:** Am cannot be followed by base arrive in this construction.
-- **I'll call you when I arrives home.:** With I, the present form is arrive rather than arrives.
+- **I'll call you when I arriving home.:** The 'when' clause needs a finite verb; 'arriving' alone is incomplete.
+- **I'll call you when I arrive home.:** Use a present form in this 'when' clause to identify the future time of the call.
+- **I'll call you when I am arrive home.:** 'Am' cannot be followed by base 'arrive' in this construction.
+- **I'll call you when I arrives home.:** With 'I', the present form is 'arrive' rather than 'arrives'.
 
 **Decision:** replaced.
 
@@ -1207,12 +1207,12 @@ What does the sentence say helps the speaker relax?
 3. the people described in a book
 4. the work the speaker does after reading
 
-**Explanation:** The -ing clause reading before bed acts as the subject of helps.
+**Explanation:** The -ing clause 'reading before bed' acts as the subject of 'helps'.
 
 **Choice feedback:**
 
-- **the activity of reading before bed:** The -ing clause reading before bed acts as the subject of helps.
-- **the bed itself:** Before bed gives the time; the helping activity is reading.
+- **the activity of reading before bed:** The -ing clause 'reading before bed' acts as the subject of 'helps'.
+- **the bed itself:** 'Before bed' gives the time; the helping activity is reading.
 - **the people described in a book:** No book characters are named as the cause of relaxation.
 - **the work the speaker does after reading:** The sentence names reading, not an activity that follows it.
 
@@ -1239,14 +1239,14 @@ Which sentence explicitly presents the booking as the result?
 3. The train was canceled, so I booked a coach ticket. **[Correct]**
 4. The train was canceled before I booked a coach ticket.
 
-**Explanation:** So introduces the result of the situation in the first clause.
+**Explanation:** 'So' introduces the result of the situation in the first clause.
 
 **Choice feedback:**
 
-- **The train was canceled because I booked a coach ticket.:** Because makes the booking the cause of cancellation, reversing the relationship.
-- **The train was canceled although I booked a coach ticket.:** Although expresses contrast rather than the stated cause and result.
-- **The train was canceled, so I booked a coach ticket.:** So introduces the result of the situation in the first clause.
-- **The train was canceled before I booked a coach ticket.:** Before preserves a time order but does not explicitly mark the booking as a result.
+- **The train was canceled because I booked a coach ticket.:** 'Because' makes the booking the cause of cancellation, reversing the relationship.
+- **The train was canceled although I booked a coach ticket.:** 'Although' expresses contrast rather than the stated cause and result.
+- **The train was canceled, so I booked a coach ticket.:** 'So' introduces the result of the situation in the first clause.
+- **The train was canceled before I booked a coach ticket.:** 'Before' preserves a time order but does not explicitly mark the booking as a result.
 
 **Decision:** replaced.
 
@@ -1271,14 +1271,14 @@ Choose the grammatically correct sentence in standard written English.
 3. I don't know what I to do.
 4. I don't know what do.
 
-**Explanation:** What to do is a compact clause naming the action that is unknown.
+**Explanation:** 'What to do' is a compact clause naming the action that is unknown.
 
 **Choice feedback:**
 
-- **I don't know what to doing.:** Infinitival to requires base do, not doing.
-- **I don't know what to do.:** What to do is a compact clause naming the action that is unknown.
-- **I don't know what I to do.:** With the subject I expressed, this clause needs a finite verb such as should: what I should do.
-- **I don't know what do.:** This construction needs either to do or a complete finite clause after what.
+- **I don't know what to doing.:** Infinitival 'to' requires base 'do', not 'doing'.
+- **I don't know what to do.:** 'What to do' is a compact clause naming the action that is unknown.
+- **I don't know what I to do.:** With the subject 'I' expressed, this clause needs a finite verb such as 'should': 'what I should do'.
+- **I don't know what do.:** This construction needs either 'to do' or a complete finite clause after 'what'.
 
 **Decision:** replaced.
 
@@ -1307,14 +1307,14 @@ Choose the grammatically correct sentence in standard written English.
 3. It was difficult for Marta the shelf to repair.
 4. It was difficult for Marta to repair the shelf. **[Correct]**
 
-**Explanation:** Anticipatory it allows the longer for Marta to repair the shelf clause to follow the adjective.
+**Explanation:** Anticipatory 'it' allows the longer 'for Marta to repair the shelf' clause to follow the adjective.
 
 **Choice feedback:**
 
-- **It was difficult for Marta repair the shelf.:** The for-person construction needs a to-infinitive: for Marta to repair.
-- **It was difficult for Marta to repaired the shelf.:** After infinitival to, use base repair; was already locates the difficulty in the past.
-- **It was difficult for Marta the shelf to repair.:** Within this active infinitive, the object the shelf follows repair rather than comes between Marta and to.
-- **It was difficult for Marta to repair the shelf.:** Anticipatory it allows the longer for Marta to repair the shelf clause to follow the adjective.
+- **It was difficult for Marta repair the shelf.:** The for-person construction needs a to-infinitive: 'for Marta to repair'.
+- **It was difficult for Marta to repaired the shelf.:** After infinitival 'to', use base 'repair'; 'was' already locates the difficulty in the past.
+- **It was difficult for Marta the shelf to repair.:** Within this active infinitive, the object 'the shelf' follows 'repair' rather than comes between 'Marta' and 'to'.
+- **It was difficult for Marta to repair the shelf.:** Anticipatory 'it' allows the longer 'for Marta to repair the shelf' clause to follow the adjective.
 
 **Decision:** replaced.
 
@@ -1339,14 +1339,14 @@ Which sentence evaluates the neighbor's character through that action?
 3. It was unusual for you to carry my shopping.
 4. It was kind of you to carry my shopping. **[Correct]**
 
-**Explanation:** Kind of you evaluates the person through the action described by the following infinitive.
+**Explanation:** 'Kind of you' evaluates the person through the action described by the following infinitive.
 
 **Choice feedback:**
 
-- **It was easy for you to carry my shopping.:** Easy evaluates the action's difficulty for the neighbor, not the neighbor's kindness.
-- **It was necessary for you to carry my shopping.:** Necessary says the action was required, not that it showed thoughtfulness.
-- **It was unusual for you to carry my shopping.:** Unusual comments on how exceptional the action was, without praising the person's character.
-- **It was kind of you to carry my shopping.:** Kind of you evaluates the person through the action described by the following infinitive.
+- **It was easy for you to carry my shopping.:** 'Easy' evaluates the action's difficulty for the neighbor, not the neighbor's kindness.
+- **It was necessary for you to carry my shopping.:** 'Necessary' says the action was required, not that it showed thoughtfulness.
+- **It was unusual for you to carry my shopping.:** 'Unusual' comments on how exceptional the action was, without praising the person's character.
+- **It was kind of you to carry my shopping.:** 'Kind of you' evaluates the person through the action described by the following infinitive.
 
 **Decision:** replaced.
 
@@ -1371,14 +1371,14 @@ Choose the grammatically correct sentence in standard written English.
 3. It took us two hours to assembling the bookcase.
 4. It took us two hours to assemble the bookcase. **[Correct]**
 
-**Explanation:** Use it takes + person + duration + to-infinitive to state the time an activity requires.
+**Explanation:** Use 'it takes' + person + duration + to-infinitive to state the time an activity requires.
 
 **Choice feedback:**
 
-- **It took we two hours to assemble the bookcase.:** The pronoun after took is object-form us, not subject-form we.
+- **It took we two hours to assemble the bookcase.:** The pronoun after 'took' is object-form 'us', not subject-form 'we'.
 - **It took us two hours assemble the bookcase.:** The activity needs a to-infinitive after the time expression.
-- **It took us two hours to assembling the bookcase.:** Infinitival to takes base assemble rather than assembling.
-- **It took us two hours to assemble the bookcase.:** Use it takes + person + duration + to-infinitive to state the time an activity requires.
+- **It took us two hours to assembling the bookcase.:** Infinitival 'to' takes base 'assemble' rather than 'assembling'.
+- **It took us two hours to assemble the bookcase.:** Use 'it takes' + person + duration + to-infinitive to state the time an activity requires.
 
 **Decision:** replaced.
 
@@ -1403,14 +1403,14 @@ Choose the grammatically correct sentence in standard written English.
 3. These instructions are easy to follow. **[Correct]**
 4. These instructions are easy to following.
 
-**Explanation:** The subject instructions is understood as the object of follow: a reader follows them.
+**Explanation:** The subject 'instructions' is understood as the object of 'follow': a reader follows them.
 
 **Choice feedback:**
 
-- **These instructions are easy follow.:** Easy needs to before the verb in this construction.
-- **These instructions are easily to follow.:** After are, the construction needs adjective easy, not adverb easily.
-- **These instructions are easy to follow.:** The subject instructions is understood as the object of follow: a reader follows them.
-- **These instructions are easy to following.:** Use base follow after infinitival to, not following.
+- **These instructions are easy follow.:** 'Easy' needs 'to' before the verb in this construction.
+- **These instructions are easily to follow.:** After 'are', the construction needs adjective 'easy', not adverb 'easily'.
+- **These instructions are easy to follow.:** The subject 'instructions' is understood as the object of 'follow': a reader follows them.
+- **These instructions are easy to following.:** Use base 'follow' after infinitival 'to', not 'following'.
 
 **Decision:** replaced.
 
@@ -1467,13 +1467,13 @@ Who is expected to do the collecting in this sentence?
 3. Sam, because the tickets are for him
 4. Nora and Sam together
 
-**Explanation:** With ask + person + to-infinitive, the person asked is understood as the actor in the infinitive.
+**Explanation:** With 'ask' + person + to-infinitive, the person asked is understood as the actor in the infinitive.
 
 **Choice feedback:**
 
-- **Nora, because she made the request:** Nora is the requester; Lea is the person named after asked and before to collect.
-- **Lea, because the request is directed to her:** With ask + person + to-infinitive, the person asked is understood as the actor in the infinitive.
-- **Sam, because the tickets are for him:** For Sam identifies the beneficiary, not the requested collector.
+- **Nora, because she made the request:** Nora is the requester; Lea is the person named after 'asked' and before 'to collect'.
+- **Lea, because the request is directed to her:** With 'ask' + person + to-infinitive, the person asked is understood as the actor in the infinitive.
+- **Sam, because the tickets are for him:** 'For Sam' identifies the beneficiary, not the requested collector.
 - **Nora and Sam together:** The sentence does not coordinate them as the people who should collect the tickets.
 
 **Decision:** replaced.
@@ -1499,14 +1499,14 @@ Choose the grammatically correct combined sentence in standard written English.
 3. I met a man whose bicycle had been stolen. **[Correct]**
 4. I met a man whom bicycle had been stolen.
 
-**Explanation:** Whose connects the man to the bicycle that belongs to him inside the relative clause.
+**Explanation:** 'Whose' connects the man to the bicycle that belongs to him inside the relative clause.
 
 **Choice feedback:**
 
-- **I met a man who bicycle had been stolen.:** Who cannot directly mark possession before bicycle; use whose.
-- **I met a man whose his bicycle had been stolen.:** Whose already marks the possessive relationship, so his duplicates it.
-- **I met a man whose bicycle had been stolen.:** Whose connects the man to the bicycle that belongs to him inside the relative clause.
-- **I met a man whom bicycle had been stolen.:** Whom is an object pronoun, not the possessive determiner needed before bicycle.
+- **I met a man who bicycle had been stolen.:** 'Who' cannot directly mark possession before 'bicycle'; use 'whose'.
+- **I met a man whose his bicycle had been stolen.:** 'Whose' already marks the possessive relationship, so 'his' duplicates it.
+- **I met a man whose bicycle had been stolen.:** 'Whose' connects the man to the bicycle that belongs to him inside the relative clause.
+- **I met a man whom bicycle had been stolen.:** 'Whom' is an object pronoun, not the possessive determiner needed before 'bicycle'.
 
 **Decision:** replaced.
 
@@ -1536,7 +1536,7 @@ Which sentence marks the extra information with standard written punctuation?
 **Choice feedback:**
 
 - **My brother who lives in Bath is visiting on Friday.:** Without commas, the relative clause is presented as identifying information; that is not the requested added aside.
-- **My brother, who lives in Bath is visiting on Friday.:** The supplementary clause needs a closing comma after Bath before the main verb.
+- **My brother, who lives in Bath is visiting on Friday.:** The supplementary clause needs a closing comma after 'Bath' before the main verb.
 - **My brother who lives in Bath, is visiting on Friday.:** A lone comma here separates the whole subject from its verb without properly marking a supplementary clause.
 - **My brother, who lives in Bath, is visiting on Friday.:** The pair of commas marks the relative clause as supplementary information about an already identified person.
 
@@ -1563,14 +1563,14 @@ Choose the grammatically correct combined sentence in standard written English.
 3. The architect met you designed this room.
 4. The architect you met designing this room.
 
-**Explanation:** An object relative can omit its relative pronoun: the architect whom you met becomes the architect you met.
+**Explanation:** An object relative can omit its relative pronoun: 'the architect whom you met' becomes 'the architect you met'.
 
 **Choice feedback:**
 
-- **The architect you met her designed this room.:** The relative object is already linked to architect; her repeats it.
-- **The architect you met designed this room.:** An object relative can omit its relative pronoun: the architect whom you met becomes the architect you met.
-- **The architect met you designed this room.:** Without a relative marker, met you cannot function as a subject relative between architect and designed.
-- **The architect you met designing this room.:** The main clause lacks a finite verb; designing must be replaced by designed or another complete verb phrase.
+- **The architect you met her designed this room.:** The relative object is already linked to 'architect'; 'her' repeats it.
+- **The architect you met designed this room.:** An object relative can omit its relative pronoun: 'the architect whom you met' becomes 'the architect you met'.
+- **The architect met you designed this room.:** Without a relative marker, 'met you' cannot function as a subject relative between 'architect' and 'designed'.
+- **The architect you met designing this room.:** The main clause lacks a finite verb; 'designing' must be replaced by 'designed' or another complete verb phrase.
 
 **Decision:** replaced.
 
@@ -1627,14 +1627,14 @@ Choose the grammatically correct sentence in standard written English.
 3. I held the door open so that the guests could entering.
 4. I held the door open so that could the guests enter.
 
-**Explanation:** So that introduces a purpose clause with its own subject and finite verb: the guests could enter.
+**Explanation:** 'So that' introduces a purpose clause with its own subject and finite verb: 'the guests could enter'.
 
 **Choice feedback:**
 
-- **I held the door open so that the guests to enter.:** After so that, the clause needs a finite verb such as could enter, not a to-infinitive alone.
-- **I held the door open so that the guests could enter.:** So that introduces a purpose clause with its own subject and finite verb: the guests could enter.
-- **I held the door open so that the guests could entering.:** Could takes the base form enter, not the ing-form entering.
-- **I held the door open so that could the guests enter.:** The purpose clause uses statement order, the guests could, rather than question inversion.
+- **I held the door open so that the guests to enter.:** After 'so that', the clause needs a finite verb such as 'could enter', not a to-infinitive alone.
+- **I held the door open so that the guests could enter.:** 'So that' introduces a purpose clause with its own subject and finite verb: 'the guests could enter'.
+- **I held the door open so that the guests could entering.:** 'Could' takes the base form 'enter', not the ing-form 'entering'.
+- **I held the door open so that could the guests enter.:** The purpose clause uses statement order, 'the guests could', rather than question inversion.
 
 **Decision:** replaced.
 
@@ -1659,14 +1659,14 @@ Choose the grammatically correct sentence in standard written English.
 3. Although Arun's tiredness, he finished his run.
 4. In spite Arun was tired, he finished his run.
 
-**Explanation:** Although introduces the finite clause Arun was tired and links it to the contrasting main action.
+**Explanation:** 'Although' introduces the finite clause 'Arun was tired' and links it to the contrasting main action.
 
 **Choice feedback:**
 
-- **Despite Arun was tired, he finished his run.:** Despite does not directly introduce this finite clause; use although, or despite being tired.
-- **Although Arun was tired, he finished his run.:** Although introduces the finite clause Arun was tired and links it to the contrasting main action.
-- **Although Arun's tiredness, he finished his run.:** Although does not introduce this noun phrase; use although Arun was tired or despite Arun's tiredness.
-- **In spite Arun was tired, he finished his run.:** In spite needs of and an appropriate complement, such as in spite of being tired.
+- **Despite Arun was tired, he finished his run.:** 'Despite' does not directly introduce this finite clause; use 'although', or 'despite being tired'.
+- **Although Arun was tired, he finished his run.:** 'Although' introduces the finite clause 'Arun was tired' and links it to the contrasting main action.
+- **Although Arun's tiredness, he finished his run.:** 'Although' does not introduce this noun phrase; use 'although Arun was tired' or "despite Arun's tiredness".
+- **In spite Arun was tired, he finished his run.:** 'In spite' needs 'of' and an appropriate complement, such as 'in spite of being tired'.
 
 **Decision:** replaced.
 
@@ -1691,14 +1691,14 @@ Choose the grammatically correct sentence in standard written English.
 3. The job involves to check bookings and to answer calls.
 4. The job involves checking bookings and answer calls.
 
-**Explanation:** The two -ing clauses form parallel activity complements after involves.
+**Explanation:** The two -ing clauses form parallel activity complements after 'involves'.
 
 **Choice feedback:**
 
-- **The job involves checking bookings and answering calls.:** The two -ing clauses form parallel activity complements after involves.
-- **The job involves checking bookings and to answer calls.:** Involves takes activity complements in the -ing form; to answer does not match this construction.
-- **The job involves to check bookings and to answer calls.:** Involves is not followed by these to-infinitives; use checking and answering.
-- **The job involves checking bookings and answer calls.:** Base answer cannot serve as the second activity complement after involves; use answering.
+- **The job involves checking bookings and answering calls.:** The two -ing clauses form parallel activity complements after 'involves'.
+- **The job involves checking bookings and to answer calls.:** 'Involves' takes activity complements in the -ing form; 'to answer' does not match this construction.
+- **The job involves to check bookings and to answer calls.:** 'Involves' is not followed by these to-infinitives; use 'checking' and 'answering'.
+- **The job involves checking bookings and answer calls.:** Base 'answer' cannot serve as the second activity complement after 'involves'; use 'answering'.
 
 **Decision:** replaced.
 
@@ -1755,14 +1755,14 @@ Choose the grammatically correct sentence in standard written English.
 3. What do you decide matters.
 4. What you deciding matters.
 
-**Explanation:** The whole clause what you decide functions as the subject and takes singular matters.
+**Explanation:** The whole clause 'what you decide' functions as the subject and takes singular 'matters'.
 
 **Choice feedback:**
 
-- **What you decide matters.:** The whole clause what you decide functions as the subject and takes singular matters.
-- **What you decide matter.:** The clause acting as subject takes singular matters, not plural-form matter.
-- **What do you decide matters.:** Inside this subject clause, use statement order rather than direct-question do you decide.
-- **What you deciding matters.:** The subject clause needs a finite verb, such as decide or are deciding.
+- **What you decide matters.:** The whole clause 'what you decide' functions as the subject and takes singular 'matters'.
+- **What you decide matter.:** The clause acting as subject takes singular 'matters', not plural-form 'matter'.
+- **What do you decide matters.:** Inside this subject clause, use statement order rather than direct-question 'do you decide'.
+- **What you deciding matters.:** The subject clause needs a finite verb, such as 'decide' or 'are deciding'.
 
 **Decision:** replaced.
 
@@ -1787,14 +1787,14 @@ Choose the grammatically correct sentence in standard written English.
 3. I wonder whether the shop are open.
 4. I wonder whether the shop being open.
 
-**Explanation:** Whether introduces an embedded yes/no question and is followed by subject before verb.
+**Explanation:** 'Whether' introduces an embedded yes/no question and is followed by subject before verb.
 
 **Choice feedback:**
 
-- **I wonder whether the shop is open.:** Whether introduces an embedded yes/no question and is followed by subject before verb.
-- **I wonder whether is the shop open.:** The embedded question needs statement order: whether the shop is open.
-- **I wonder whether the shop are open.:** The singular subject the shop needs is, not are.
-- **I wonder whether the shop being open.:** Being alone does not complete the finite embedded question.
+- **I wonder whether the shop is open.:** 'Whether' introduces an embedded yes/no question and is followed by subject before verb.
+- **I wonder whether is the shop open.:** The embedded question needs statement order: 'whether the shop is open'.
+- **I wonder whether the shop are open.:** The singular subject 'the shop' needs 'is', not 'are'.
+- **I wonder whether the shop being open.:** 'Being' alone does not complete the finite embedded question.
 
 **Decision:** replaced.
 
@@ -1819,13 +1819,13 @@ Which sentence uses its structure to create that focus?
 3. What I need is a rest. **[Correct]**
 4. It is because I am tired that I need a rest.
 
-**Explanation:** The what-clause sets up the need, and the phrase after is supplies the focused answer: a rest.
+**Explanation:** The what-clause sets up the need, and the phrase after 'is' supplies the focused answer: 'a rest'.
 
 **Choice feedback:**
 
-- **It is I who need a rest.:** This puts the person I in focus, not the thing needed.
-- **It is now that I need a rest.:** This focuses the time now rather than identifies what is needed.
-- **What I need is a rest.:** The what-clause sets up the need, and the phrase after is supplies the focused answer: a rest.
+- **It is I who need a rest.:** This puts the person 'I' in focus, not the thing needed.
+- **It is now that I need a rest.:** This focuses the time 'now' rather than identifies what is needed.
+- **What I need is a rest.:** The what-clause sets up the need, and the phrase after 'is' supplies the focused answer: 'a rest'.
 - **It is because I am tired that I need a rest.:** This places the reason in focus rather than the thing needed.
 
 **Decision:** replaced.
@@ -1851,14 +1851,14 @@ Choose the grammatically correct sentence in standard written English.
 3. She left without said goodbye.
 4. She left without she said goodbye.
 
-**Explanation:** Without can take an -ing clause; its understood subject here is the woman who left.
+**Explanation:** 'Without' can take an -ing clause; its understood subject here is the woman who left.
 
 **Choice feedback:**
 
-- **She left without saying goodbye.:** Without can take an -ing clause; its understood subject here is the woman who left.
-- **She left without say goodbye.:** A bare verb cannot follow without here; use the -ing form saying.
-- **She left without said goodbye.:** Past said cannot directly follow this preposition; the main verb left already marks past time.
-- **She left without she said goodbye.:** Without does not directly introduce a finite she said clause in this construction.
+- **She left without saying goodbye.:** 'Without' can take an -ing clause; its understood subject here is the woman who left.
+- **She left without say goodbye.:** A bare verb cannot follow 'without' here; use the -ing form 'saying'.
+- **She left without said goodbye.:** Past 'said' cannot directly follow this preposition; the main verb 'left' already marks past time.
+- **She left without she said goodbye.:** 'Without' does not directly introduce a finite 'she said' clause in this construction.
 
 **Decision:** replaced.
 
@@ -1883,14 +1883,14 @@ Which revision supplies a main clause while keeping the concession?
 3. Although the tickets were expensive, despite our excitement.
 4. Although the tickets were expensive, we bought them. **[Correct]**
 
-**Explanation:** We bought them supplies the main clause; although keeps the price as a contrasting circumstance.
+**Explanation:** 'We bought them' supplies the main clause; 'although' keeps the price as a contrasting circumstance.
 
 **Choice feedback:**
 
-- **Although the tickets were expensive, because the venue was small.:** Both parts are subordinate; because does not supply the missing main clause.
+- **Although the tickets were expensive, because the venue was small.:** Both parts are subordinate; 'because' does not supply the missing main clause.
 - **Because the tickets were expensive, although we wanted to go.:** This still leaves two subordinate clauses and changes the role of the price clause.
-- **Although the tickets were expensive, despite our excitement.:** Despite our excitement is a prepositional phrase, not the main clause needed to complete the statement.
-- **Although the tickets were expensive, we bought them.:** We bought them supplies the main clause; although keeps the price as a contrasting circumstance.
+- **Although the tickets were expensive, despite our excitement.:** 'Despite our excitement' is a prepositional phrase, not the main clause needed to complete the statement.
+- **Although the tickets were expensive, we bought them.:** 'We bought them' supplies the main clause; 'although' keeps the price as a contrasting circumstance.
 
 **Decision:** replaced.
 
@@ -1915,14 +1915,14 @@ Choose the grammatically correct sentence in standard written English.
 3. The music made it hard to hearing the guide.
 4. The music made it hard hear the guide.
 
-**Explanation:** Anticipatory object it occupies the object position while the following infinitive names what was hard.
+**Explanation:** Anticipatory object 'it' occupies the object position while the following infinitive names what was hard.
 
 **Choice feedback:**
 
-- **The music made it hard to hear the guide.:** Anticipatory object it occupies the object position while the following infinitive names what was hard.
-- **The music made hard it to hear the guide.:** In this construction, object it precedes the adjective hard.
-- **The music made it hard to hearing the guide.:** Infinitival to takes base hear, not hearing.
-- **The music made it hard hear the guide.:** The action after hard needs a to-infinitive in this pattern.
+- **The music made it hard to hear the guide.:** Anticipatory object 'it' occupies the object position while the following infinitive names what was hard.
+- **The music made hard it to hear the guide.:** In this construction, object 'it' precedes the adjective 'hard'.
+- **The music made it hard to hearing the guide.:** Infinitival 'to' takes base 'hear', not 'hearing'.
+- **The music made it hard hear the guide.:** The action after 'hard' needs a to-infinitive in this pattern.
 
 **Decision:** replaced.
 
@@ -1951,11 +1951,11 @@ Which sentence places the correction in focus?
 3. It was yesterday that Jo found the letters in the attic.
 4. It was the letters that Jo found in the attic.
 
-**Explanation:** The cleft places the location phrase after it was, making that the explicit contrast.
+**Explanation:** The cleft places the location phrase after 'it was', making that the explicit contrast.
 
 **Choice feedback:**
 
-- **It was in the attic, not the cellar, that Jo found the letters.:** The cleft places the location phrase after it was, making that the explicit contrast.
+- **It was in the attic, not the cellar, that Jo found the letters.:** The cleft places the location phrase after 'it was', making that the explicit contrast.
 - **It was Jo who found the letters in the attic.:** This focuses the finder Jo rather than contrasts the location with the cellar.
 - **It was yesterday that Jo found the letters in the attic.:** This puts the discovery time in focus rather than corrects the location.
 - **It was the letters that Jo found in the attic.:** This highlights what Jo found, not where the discovery occurred.
@@ -1983,13 +1983,13 @@ What does the first sentence evaluate, as distinct from the second?
 3. the thing supplied rather than the fact of its being supplied **[Correct]**
 4. the supply date rather than the technician's reason
 
-**Explanation:** What the technician supplied names the supplied thing; the fact that clause instead names an event as a fact.
+**Explanation:** 'What the technician supplied' names the supplied thing; 'the fact that' clause instead names an event as a fact.
 
 **Choice feedback:**
 
 - **the technician's skill rather than the supplied thing:** Neither sentence directly evaluates the technician's skill; the first evaluates what was supplied.
 - **the fact of supplying rather than the supplied thing:** This reverses the distinction between the two subjects.
-- **the thing supplied rather than the fact of its being supplied:** What the technician supplied names the supplied thing; the fact that clause instead names an event as a fact.
+- **the thing supplied rather than the fact of its being supplied:** 'What the technician supplied' names the supplied thing; 'the fact that' clause instead names an event as a fact.
 - **the supply date rather than the technician's reason:** No date or reason is specified by either subject clause.
 
 **Decision:** replaced.
@@ -2019,7 +2019,7 @@ Which expansion preserves 'stored in the basement' as a passive modifier?
 
 **Choice feedback:**
 
-- **The containers that store equipment in the basement:** This makes the containers do the storing and adds equipment as their object.
+- **The containers that store equipment in the basement:** This makes the containers do the storing and adds 'equipment' as their object.
 - **The containers that will be stored in the basement next month:** This adds a future storage event rather than describes the stated stored location.
 - **The containers that are stored in the basement:** 'Stored' modifies 'containers' as things placed in storage, corresponding to a passive relative clause.
 - **The containers whose contents are stored in the basement:** This locates their contents in the basement, not necessarily the containers themselves.
@@ -2047,14 +2047,14 @@ Keep 'Driving home' as the opening phrase and make Pat clearly its understood su
 3. Driving home, Pat noticed a crack in the windscreen. **[Correct]**
 4. Driving home, Pat's attention was caught by a crack in the windscreen.
 
-**Explanation:** Pat is the main subject and the understood driver, so the reduced opening clause has a clear actor.
+**Explanation:** 'Pat' is the main subject and the understood driver, so the reduced opening clause has a clear actor.
 
 **Choice feedback:**
 
-- **Driving home, a crack in the windscreen caught Pat's attention.:** The main subject is a crack, so the opening phrase does not attach directly to the intended driver.
-- **Driving home, the windscreen appeared cracked to Pat.:** The main subject is the windscreen rather than Pat; the intended driver is left structurally unattached.
-- **Driving home, Pat noticed a crack in the windscreen.:** Pat is the main subject and the understood driver, so the reduced opening clause has a clear actor.
-- **Driving home, Pat's attention was caught by a crack in the windscreen.:** The main subject is Pat's attention, not Pat herself; naming her possessively does not supply the intended subject.
+- **Driving home, a crack in the windscreen caught Pat's attention.:** The main subject is 'a crack', so the opening phrase does not attach directly to the intended driver.
+- **Driving home, the windscreen appeared cracked to Pat.:** The main subject is 'the windscreen' rather than Pat; the intended driver is left structurally unattached.
+- **Driving home, Pat noticed a crack in the windscreen.:** 'Pat' is the main subject and the understood driver, so the reduced opening clause has a clear actor.
+- **Driving home, Pat's attention was caught by a crack in the windscreen.:** The main subject is "Pat's attention", not Pat herself; naming her possessively does not supply the intended subject.
 
 **Decision:** replaced.
 
@@ -2079,14 +2079,14 @@ Which expansion keeps both the actor and the event order?
 3. Before locking the shed, the gardener returned to the house.
 4. While locking the shed, the gardener returned to the house.
 
-**Explanation:** Having locked presents an earlier completed action whose understood actor is the gardener.
+**Explanation:** 'Having locked' presents an earlier completed action whose understood actor is the gardener.
 
 **Choice feedback:**
 
 - **While someone else locked the shed, the gardener returned to the house.:** This changes both the actor and completed-before relationship.
-- **After she had locked the shed, the gardener returned to the house.:** Having locked presents an earlier completed action whose understood actor is the gardener.
+- **After she had locked the shed, the gardener returned to the house.:** 'Having locked' presents an earlier completed action whose understood actor is the gardener.
 - **Before locking the shed, the gardener returned to the house.:** This reverses the order by putting the return before locking.
-- **While locking the shed, the gardener returned to the house.:** While makes the actions overlap instead of presenting locking as completed first.
+- **While locking the shed, the gardener returned to the house.:** 'While' makes the actions overlap instead of presenting locking as completed first.
 
 **Decision:** replaced.
 
@@ -2111,11 +2111,11 @@ Which expansion preserves the opening clause's voice and roles?
 3. When the driver explained why she had asked about the delay, she pointed to the road.
 4. When someone explained the delay to the driver, she pointed to the road.
 
-**Explanation:** Asked is passive here: the driver receives the request and then responds.
+**Explanation:** 'Asked' is passive here: the driver receives the request and then responds.
 
 **Choice feedback:**
 
-- **When someone asked the driver to explain the delay, she pointed to the road.:** Asked is passive here: the driver receives the request and then responds.
+- **When someone asked the driver to explain the delay, she pointed to the road.:** 'Asked' is passive here: the driver receives the request and then responds.
 - **When the driver asked someone to explain the delay, she pointed to the road.:** This makes the driver the requester rather than the person asked.
 - **When the driver explained why she had asked about the delay, she pointed to the road.:** This invents an earlier question from the driver instead of expanding the request made to her.
 - **When someone explained the delay to the driver, she pointed to the road.:** Receiving an explanation is not the same as receiving a request to provide one.
@@ -2175,14 +2175,14 @@ Which paraphrase preserves the relationship expressed by the two comparative cla
 3. The labels become clearer because we spend more time tracing the cables.
 4. Greater care in labeling goes with reduced time spent tracing. **[Correct]**
 
-**Explanation:** The more ... the less links an increase on one scale with a decrease on the other.
+**Explanation:** 'The more ... the less' links an increase on one scale with a decrease on the other.
 
 **Choice feedback:**
 
 - **Careful labeling and later tracing both take increasingly more time.:** The second clause predicts less tracing time, not increases in both activities.
 - **Spending less time on labels lets us trace the cables more carefully.:** This changes what becomes more careful and reverses the role of labeling.
 - **The labels become clearer because we spend more time tracing the cables.:** This reverses the direction of the stated relationship and introduces increased tracing time.
-- **Greater care in labeling goes with reduced time spent tracing.:** The more ... the less links an increase on one scale with a decrease on the other.
+- **Greater care in labeling goes with reduced time spent tracing.:** 'The more ... the less' links an increase on one scale with a decrease on the other.
 
 **Decision:** replaced.
 
@@ -2271,14 +2271,14 @@ Which sentence presents rain as a possible obstacle that would not change the pl
 3. We will rehearse outdoors only if it rains tomorrow.
 4. Unless it rains tomorrow, we will rehearse outdoors.
 
-**Explanation:** Even if introduces a possible condition while saying the main plan would still hold.
+**Explanation:** 'Even if' introduces a possible condition while saying the main plan would still hold.
 
 **Choice feedback:**
 
-- **Although it will rain tomorrow, we will rehearse outdoors.:** Although presents the rain as accepted information; the context asks you not to assume the forecast.
-- **Even if it rains tomorrow, we will rehearse outdoors.:** Even if introduces a possible condition while saying the main plan would still hold.
-- **We will rehearse outdoors only if it rains tomorrow.:** Only if makes rain a requirement for the rehearsal rather than a possible obstacle.
-- **Unless it rains tomorrow, we will rehearse outdoors.:** Unless allows rain to be an exception that changes the plan, contrary to the stated goal.
+- **Although it will rain tomorrow, we will rehearse outdoors.:** 'Although' presents the rain as accepted information; the context asks you not to assume the forecast.
+- **Even if it rains tomorrow, we will rehearse outdoors.:** 'Even if' introduces a possible condition while saying the main plan would still hold.
+- **We will rehearse outdoors only if it rains tomorrow.:** 'Only if' makes rain a requirement for the rehearsal rather than a possible obstacle.
+- **Unless it rains tomorrow, we will rehearse outdoors.:** 'Unless' allows rain to be an exception that changes the plan, contrary to the stated goal.
 
 **Decision:** replaced.
 
@@ -2303,11 +2303,11 @@ Which active version preserves the reporting structure?
 3. The courtyard is beneath what the builders believed was a workshop.
 4. People intend to place the original workshop beneath the courtyard.
 
-**Explanation:** Is believed to be attributes a belief about the workshop without naming the people who hold it.
+**Explanation:** 'Is believed to be' attributes a belief about the workshop without naming the people who hold it.
 
 **Choice feedback:**
 
-- **People believe that the original workshop is beneath the present courtyard.:** Is believed to be attributes a belief about the workshop without naming the people who hold it.
+- **People believe that the original workshop is beneath the present courtyard.:** 'Is believed to be' attributes a belief about the workshop without naming the people who hold it.
 - **The workshop's builders believe the courtyard should be moved.:** This invents believers and changes the content of the belief.
 - **The courtyard is beneath what the builders believed was a workshop.:** This reverses the location relationship and changes who holds the belief.
 - **People intend to place the original workshop beneath the courtyard.:** An intention about a future action is not the belief about an existing location expressed here.
@@ -2335,12 +2335,12 @@ Which paraphrase preserves the time relationships in the reporting construction?
 3. People now think the artist will paint it after moving abroad.
 4. The artist thought about painting it before moving, but the portrait was not made.
 
-**Explanation:** Is thought locates the reported belief in the present; to have been painted places the painting earlier.
+**Explanation:** 'Is thought' locates the reported belief in the present; 'to have been painted' places the painting earlier.
 
 **Choice feedback:**
 
 - **People used to think the artist is painting it now.:** This shifts the belief into the past and the painting into the present.
-- **People now think it was painted before the artist's move abroad.:** Is thought locates the reported belief in the present; to have been painted places the painting earlier.
+- **People now think it was painted before the artist's move abroad.:** 'Is thought' locates the reported belief in the present; 'to have been painted' places the painting earlier.
 - **People now think the artist will paint it after moving abroad.:** The perfect passive infinitive refers to earlier painting, not a future event after the move.
 - **The artist thought about painting it before moving, but the portrait was not made.:** This changes the reporting subject and replaces a belief about a painting with an unfulfilled intention.
 
@@ -2367,13 +2367,13 @@ Which version places the surprising fact first without changing who was surprise
 3. That Jules remembered the old address surprised Nora. **[Correct]**
 4. That Jules surprised Nora helped her remember the old address.
 
-**Explanation:** The that-clause can function as the subject in place of anticipatory it; Nora remains the person surprised.
+**Explanation:** The that-clause can function as the subject in place of anticipatory 'it'; Nora remains the person surprised.
 
 **Choice feedback:**
 
 - **That Nora remembered the old address surprised Jules.:** This swaps the rememberer and the person surprised.
 - **Nora surprised Jules by remembering the old address.:** This makes Nora the rememberer and Jules the affected person, reversing both roles.
-- **That Jules remembered the old address surprised Nora.:** The that-clause can function as the subject in place of anticipatory it; Nora remains the person surprised.
+- **That Jules remembered the old address surprised Nora.:** The that-clause can function as the subject in place of anticipatory 'it'; Nora remains the person surprised.
 - **That Jules surprised Nora helped her remember the old address.:** This makes the surprise cause remembering, a relationship not in the original.
 
 **Decision:** replaced.
@@ -2399,14 +2399,14 @@ Which clause states the main event rather than information inside a relative cla
 3. The donated photographs need repairs.
 4. The gallery has closed for repairs. **[Correct]**
 
-**Explanation:** Gallery is the main subject and has closed is its main verb; the two relative clauses sit inside that subject phrase.
+**Explanation:** 'Gallery' is the main subject and 'has closed' is its main verb; the two relative clauses sit inside that subject phrase.
 
 **Choice feedback:**
 
-- **Local residents donated photographs.:** This is information within the relative clause modifying photographs, not the main event.
-- **The gallery displays photographs.:** Displays belongs to the relative clause identifying the gallery; the main statement is its closure.
-- **The donated photographs need repairs.:** For repairs explains the gallery's closure; it does not state that the photographs themselves need repair.
-- **The gallery has closed for repairs.:** Gallery is the main subject and has closed is its main verb; the two relative clauses sit inside that subject phrase.
+- **Local residents donated photographs.:** This is information within the relative clause modifying 'photographs', not the main event.
+- **The gallery displays photographs.:** 'Displays' belongs to the relative clause identifying the gallery; the main statement is its closure.
+- **The donated photographs need repairs.:** 'For repairs' explains the gallery's closure; it does not state that the photographs themselves need repair.
+- **The gallery has closed for repairs.:** 'Gallery' is the main subject and 'has closed' is its main verb; the two relative clauses sit inside that subject phrase.
 
 **Decision:** replaced.
 
@@ -2431,14 +2431,14 @@ Combine the facts using a relative clause introduced after the comma.
 3. We borrowed ten books, three of that were in French.
 4. We borrowed ten books, three which were in French.
 
-**Explanation:** Three of which introduces a relative clause referring to a subset of the borrowed books.
+**Explanation:** 'Three of which' introduces a relative clause referring to a subset of the borrowed books.
 
 **Choice feedback:**
 
-- **We borrowed ten books, three of which were in French.:** Three of which introduces a relative clause referring to a subset of the borrowed books.
-- **We borrowed ten books, three of them were in French.:** Three of them were in French is an independent clause, not the requested relative clause; it would need a suitable separate-clause join.
-- **We borrowed ten books, three of that were in French.:** That cannot follow of as the relative pronoun in this supplementary construction.
-- **We borrowed ten books, three which were in French.:** The partitive link needs of: three of which, not three which.
+- **We borrowed ten books, three of which were in French.:** 'Three of which' introduces a relative clause referring to a subset of the borrowed books.
+- **We borrowed ten books, three of them were in French.:** 'Three of them were in French' is an independent clause, not the requested relative clause; it would need a suitable separate-clause join.
+- **We borrowed ten books, three of that were in French.:** 'That' cannot follow 'of' as the relative pronoun in this supplementary construction.
+- **We borrowed ten books, three which were in French.:** The partitive link needs 'of': 'three of which', not 'three which'.
 
 **Decision:** replaced.
 
@@ -2463,12 +2463,12 @@ Which sentence makes the guests the object with an informed-state complement?
 3. The guests kept informing us.
 4. The guests kept us informed.
 
-**Explanation:** The guests is the object and informed describes the state we maintained for them.
+**Explanation:** 'The guests' is the object and 'informed' describes the state we maintained for them.
 
 **Choice feedback:**
 
-- **We kept the guests informed.:** The guests is the object and informed describes the state we maintained for them.
-- **We kept informing the guests.:** This presents our informing as a continuing or repeated activity, rather than makes informed the guests' state complement.
+- **We kept the guests informed.:** 'The guests' is the object and 'informed' describes the state we maintained for them.
+- **We kept informing the guests.:** This presents our informing as a continuing or repeated activity, rather than makes 'informed' the guests' state complement.
 - **The guests kept informing us.:** This reverses the information-giving roles and describes their repeated action.
 - **The guests kept us informed.:** This makes us, not the guests, the people whose informed state is maintained.
 
@@ -2527,14 +2527,14 @@ Which version attaches the returning information clearly to Jo?
 3. A portrait, which had just returned from Peru, was shown to Jo by Leila.
 4. Jo, who had just returned from Peru, was shown a portrait of his father by Leila. **[Correct]**
 
-**Explanation:** Placing the relative clause immediately after Jo makes him its clear referent while the passive keeps the showing roles.
+**Explanation:** Placing the relative clause immediately after 'Jo' makes him its clear referent while the passive keeps the showing roles.
 
 **Choice feedback:**
 
-- **Leila, who had just returned from Peru, showed Jo a portrait of his father.:** The relative clause attaches to Leila and changes the returning person's identity.
+- **Leila, who had just returned from Peru, showed Jo a portrait of his father.:** The relative clause attaches to 'Leila' and changes the returning person's identity.
 - **Jo's father, who had just returned from Peru, appeared in the portrait Leila showed Jo.:** This makes the father the returning person rather than Jo.
 - **A portrait, which had just returned from Peru, was shown to Jo by Leila.:** This describes a returned portrait, not Jo's return.
-- **Jo, who had just returned from Peru, was shown a portrait of his father by Leila.:** Placing the relative clause immediately after Jo makes him its clear referent while the passive keeps the showing roles.
+- **Jo, who had just returned from Peru, was shown a portrait of his father by Leila.:** Placing the relative clause immediately after 'Jo' makes him its clear referent while the passive keeps the showing roles.
 
 **Decision:** replaced.
 
@@ -2565,7 +2565,7 @@ Which full version restores the omitted verb without changing the coordination?
 
 - **Maya brought bread and cheese for Lee.:** This makes Maya the source of both foods and Lee a recipient, rather than a second bringer.
 - **Maya brought bread, and Lee brought cheese.:** The second coordinated clause can omit a repeated verb while retaining its own subject and object.
-- **Maya brought bread, and Lee bought cheese.:** Bought is a new verb; the omitted verb is recovered from brought in the first clause.
+- **Maya brought bread, and Lee bought cheese.:** 'Bought' is a new verb; the omitted verb is recovered from 'brought' in the first clause.
 - **Lee brought Maya bread and cheese.:** This reverses the participants' roles and combines both objects under Lee's action.
 
 **Decision:** replaced.
@@ -2627,13 +2627,13 @@ Which revision preserves the relationship expressed by the fronted adjective con
 3. Despite finding the climb demanding, I would gladly attempt it again. **[Correct]**
 4. Once the climb became demanding, I would gladly attempt it again.
 
-**Explanation:** Adjective + though introduces a concession: the difficulty might discourage another attempt, but does not do so here.
+**Explanation:** Adjective + 'though' introduces a concession: the difficulty might discourage another attempt, but does not do so here.
 
 **Choice feedback:**
 
 - **Because I found the climb demanding, I would gladly attempt it again.:** This makes difficulty the reason for another attempt; the original presents it as a concession.
 - **Provided the climb remained demanding, I would gladly attempt it again.:** This makes difficulty a condition of trying again, which the original does not impose.
-- **Despite finding the climb demanding, I would gladly attempt it again.:** Adjective + though introduces a concession: the difficulty might discourage another attempt, but does not do so here.
+- **Despite finding the climb demanding, I would gladly attempt it again.:** Adjective + 'though' introduces a concession: the difficulty might discourage another attempt, but does not do so here.
 - **Once the climb became demanding, I would gladly attempt it again.:** This treats difficulty as a time boundary rather than a circumstance contrasted with willingness.
 
 **Decision:** replaced.
@@ -2659,14 +2659,14 @@ Which passive version preserves the predicted state of the hall and its time bou
 3. The rehearsal hall was expected to have been empty since dawn.
 4. The rehearsal hall was expected to be empty by noon. **[Correct]**
 
-**Explanation:** The hall becomes the passive subject and remains the thing predicted to be empty by the stated time; the holders of the expectation can be left unexpressed.
+**Explanation:** 'The hall' becomes the passive subject and remains the thing predicted to be empty by the stated time; the holders of the expectation can be left unexpressed.
 
 **Choice feedback:**
 
 - **We were expected to empty the rehearsal hall by noon.:** This makes us the people expected to perform an action, rather than preserving our expectation about the hall's state.
 - **We were expected to find the rehearsal hall empty by noon.:** This adds an expected act of finding by us; the original predicts the hall's state, not our discovery of it.
 - **The rehearsal hall was expected to have been empty since dawn.:** This changes the time claim to an earlier state continuing from dawn, not simply emptiness by noon.
-- **The rehearsal hall was expected to be empty by noon.:** The hall becomes the passive subject and remains the thing predicted to be empty by the stated time; the holders of the expectation can be left unexpressed.
+- **The rehearsal hall was expected to be empty by noon.:** 'The hall' becomes the passive subject and remains the thing predicted to be empty by the stated time; the holders of the expectation can be left unexpressed.
 
 **Decision:** replaced.
 
@@ -2723,13 +2723,13 @@ Which expansion preserves the subjects and the completed background event?
 3. Before its roof collapsed, the chapel remained closed throughout the winter.
 4. The chapel stayed closed throughout the winter so that workers could replace its roof.
 
-**Explanation:** The absolute clause has its own subject, its roof, and having collapsed places that event before the chapel's continued closure.
+**Explanation:** The absolute clause has its own subject, 'its roof', and 'having collapsed' places that event before the chapel's continued closure.
 
 **Choice feedback:**
 
 - **After the chapel had collapsed, its replacement remained closed throughout the winter.:** The absolute clause's subject is the roof, not the whole chapel; this version also introduces a replacement as the main subject.
-- **After its roof had collapsed, the chapel remained closed throughout the winter.:** The absolute clause has its own subject, its roof, and having collapsed places that event before the chapel's continued closure.
-- **Before its roof collapsed, the chapel remained closed throughout the winter.:** Before places the collapse after the period of closure, whereas having collapsed supplies an earlier completed event.
+- **After its roof had collapsed, the chapel remained closed throughout the winter.:** The absolute clause has its own subject, 'its roof', and 'having collapsed' places that event before the chapel's continued closure.
+- **Before its roof collapsed, the chapel remained closed throughout the winter.:** 'Before' places the collapse after the period of closure, whereas 'having collapsed' supplies an earlier completed event.
 - **The chapel stayed closed throughout the winter so that workers could replace its roof.:** This supplies a purpose for the closure and a proposed replacement; it does not preserve the prior roof collapse as background.
 
 **Decision:** replaced.
@@ -2755,12 +2755,12 @@ Which revision achieves that structural change?
 3. It remains unclear how often the old lift stops between floors.
 4. Why the old lift repeatedly stops between floors is still unclear.
 
-**Explanation:** Anticipatory it occupies the subject position, allowing the why-clause to follow the main predicate.
+**Explanation:** Anticipatory 'it' occupies the subject position, allowing the why-clause to follow the main predicate.
 
 **Choice feedback:**
 
-- **It remains unclear whether the old lift repeatedly stops between floors.:** Whether makes the occurrence of the stops uncertain; the original asks why they occur.
-- **It remains unclear why the old lift repeatedly stops between floors.:** Anticipatory it occupies the subject position, allowing the why-clause to follow the main predicate.
+- **It remains unclear whether the old lift repeatedly stops between floors.:** 'Whether' makes the occurrence of the stops uncertain; the original asks why they occur.
+- **It remains unclear why the old lift repeatedly stops between floors.:** Anticipatory 'it' occupies the subject position, allowing the why-clause to follow the main predicate.
 - **It remains unclear how often the old lift stops between floors.:** This replaces the unknown cause with an unknown frequency, changing the content of the embedded question.
 - **Why the old lift repeatedly stops between floors is still unclear.:** This preserves the uncertainty but keeps the long why-clause as the initial subject, contrary to the requested relocation.
 
@@ -2785,16 +2785,16 @@ What is the structural effect of placing the chapter phrases first?
 1. It makes the chapter phrases the subjects of admired and found.
 2. It turns the two evaluations into questions about the chapters.
 3. It omits the evaluator from both clauses and leaves the judgments impersonal.
-4. It sets the chapter groups up as contrasting topics while I remains the subject. **[Correct]**
+4. It sets the chapter groups up as contrasting topics while 'I' remains the subject. **[Correct]**
 
 **Explanation:** Object fronting makes the two evaluated parts prominent and parallel without changing who evaluates them.
 
 **Choice feedback:**
 
-- **It makes the chapter phrases the subjects of admired and found.:** The subject of both verbs remains I; the fronted phrases retain their object roles.
+- **It makes the chapter phrases the subjects of admired and found.:** The subject of both verbs remains 'I'; the fronted phrases retain their object roles.
 - **It turns the two evaluations into questions about the chapters.:** There is no question inversion or interrogative construction; these remain statements.
-- **It omits the evaluator from both clauses and leaves the judgments impersonal.:** I explicitly remains in both clauses, so the evaluator has not been removed.
-- **It sets the chapter groups up as contrasting topics while I remains the subject.:** Object fronting makes the two evaluated parts prominent and parallel without changing who evaluates them.
+- **It omits the evaluator from both clauses and leaves the judgments impersonal.:** 'I' explicitly remains in both clauses, so the evaluator has not been removed.
+- **It sets the chapter groups up as contrasting topics while 'I' remains the subject.:** Object fronting makes the two evaluated parts prominent and parallel without changing who evaluates them.
 
 **Decision:** replaced.
 
@@ -2819,12 +2819,12 @@ Which revision removes the ambiguity while preserving that comparison?
 3. Amir trusts Leila more than Leila trusts Sam.
 4. Amir trusts Leila more than Sam trusts him.
 
-**Explanation:** Does restores Sam as the subject of the omitted trusts Leila, making the two trusters the basis of comparison.
+**Explanation:** 'Does' restores Sam as the subject of the omitted 'trusts Leila', making the two trusters the basis of comparison.
 
 **Choice feedback:**
 
 - **Amir trusts Leila more than he trusts Sam.:** This compares two people Amir trusts, not Amir's trust with Sam's.
-- **Amir trusts Leila more than Sam does.:** Does restores Sam as the subject of the omitted trusts Leila, making the two trusters the basis of comparison.
+- **Amir trusts Leila more than Sam does.:** 'Does' restores Sam as the subject of the omitted 'trusts Leila', making the two trusters the basis of comparison.
 - **Amir trusts Leila more than Leila trusts Sam.:** This makes Leila the second truster and Sam the person trusted, changing both roles.
 - **Amir trusts Leila more than Sam trusts him.:** This compares Sam's trust in Amir, whereas the intended object of both trust relations is Leila.
 
@@ -2851,14 +2851,14 @@ Which revision preserves the relation between the opening phrase and the main cl
 3. In order to simplify the booking process, the new form added three extra steps.
 4. Besides simplifying the booking process, the new form added three extra steps.
 
-**Explanation:** Far from introduces a rejected description, and the main clause supplies evidence of the opposite effect.
+**Explanation:** 'Far from' introduces a rejected description, and the main clause supplies evidence of the opposite effect.
 
 **Choice feedback:**
 
-- **After simplifying the booking process, the new form added three extra steps.:** After accepts that simplification occurred and locates the extra steps later; far from rejects that characterization.
-- **Rather than making booking simpler, the new form made it more complicated.:** Far from introduces a rejected description, and the main clause supplies evidence of the opposite effect.
+- **After simplifying the booking process, the new form added three extra steps.:** 'After' accepts that simplification occurred and locates the extra steps later; 'far from' rejects that characterization.
+- **Rather than making booking simpler, the new form made it more complicated.:** 'Far from' introduces a rejected description, and the main clause supplies evidence of the opposite effect.
 - **In order to simplify the booking process, the new form added three extra steps.:** This supplies simplification as the purpose, rather than contrasting it with what the form actually did.
-- **Besides simplifying the booking process, the new form added three extra steps.:** Besides presents both descriptions as true, while the original denies that the form simplified the process.
+- **Besides simplifying the booking process, the new form added three extra steps.:** 'Besides' presents both descriptions as true, while the original denies that the form simplified the process.
 
 **Decision:** replaced.
 
@@ -2878,19 +2878,19 @@ Which portrait did the collector say the museum had borrowed for the exhibition?
 
 Which clause relationship accounts for 'which portrait'?
 
-1. It is the object of say; the museum clause explains how the collector spoke.
-2. It is the subject of had borrowed, replacing the museum.
-3. It is the object of for and identifies which exhibition was meant.
-4. It is understood as the object of borrowed inside the clause after say. **[Correct]**
+1. It is the object of 'say'; the museum clause explains how the collector spoke.
+2. It is the subject of 'had borrowed', replacing 'the museum'.
+3. It is the object of 'for' and identifies which exhibition was meant.
+4. It is understood as the object of 'borrowed' inside the clause after 'say'. **[Correct]**
 
-**Explanation:** The question phrase is fronted across the reporting clause: the museum had borrowed that portrait.
+**Explanation:** The question phrase is fronted across the reporting clause: 'the museum had borrowed that portrait'.
 
 **Choice feedback:**
 
-- **It is the object of say; the museum clause explains how the collector spoke.:** The collector said a proposition, not a portrait; the missing object belongs after 'borrowed'.
-- **It is the subject of had borrowed, replacing the museum.:** The museum remains the borrower and therefore the embedded subject; the portrait is what was borrowed.
-- **It is the object of for and identifies which exhibition was meant.:** 'For' already has 'the exhibition' as its complement; the question asks about the borrowed artwork.
-- **It is understood as the object of borrowed inside the clause after say.:** The question phrase is fronted across the reporting clause: the museum had borrowed that portrait.
+- **It is the object of 'say'; the museum clause explains how the collector spoke.:** The collector said a proposition, not a portrait; the missing object belongs after 'borrowed'.
+- **It is the subject of 'had borrowed', replacing 'the museum'.:** The museum remains the borrower and therefore the embedded subject; the portrait is what was borrowed.
+- **It is the object of 'for' and identifies which exhibition was meant.:** 'For' already has 'the exhibition' as its complement; the question asks about the borrowed artwork.
+- **It is understood as the object of 'borrowed' inside the clause after 'say'.:** The question phrase is fronted across the reporting clause: 'the museum had borrowed that portrait'.
 
 **Decision:** replaced.
 
@@ -2911,18 +2911,18 @@ Compare A: 'The rumour that the paintings had been stolen spread quickly.' B: 'T
 How do the two that-clauses differ in structure?
 
 1. A identifies who started the rumour; B gives the rumour's content.
-2. A and B both have that as the object of the verb immediately after it.
+2. A and B both have 'that' as the object of the verb immediately after it.
 3. A and B both leave an object missing after their final verb.
 4. A states the rumour's content; B modifies the rumour with a relative clause. **[Correct]**
 
-**Explanation:** A is a content clause after a noun; B is a relative clause in which the rumour fills the subject role of shocked.
+**Explanation:** A is a content clause after a noun; B is a relative clause in which 'the rumour' fills the subject role of 'shocked'.
 
 **Choice feedback:**
 
 - **A identifies who started the rumour; B gives the rumour's content.:** Neither clause names the source; B describes the rumour's effect rather than what it said.
-- **A and B both have that as the object of the verb immediately after it.:** A contains a complete clause with its own subject, the paintings; in B, that is the subject of shocked.
-- **A and B both leave an object missing after their final verb.:** Had been stolen is passive and needs no object; shocked already has the owner as its object.
-- **A states the rumour's content; B modifies the rumour with a relative clause.:** A is a content clause after a noun; B is a relative clause in which the rumour fills the subject role of shocked.
+- **A and B both have 'that' as the object of the verb immediately after it.:** A contains a complete clause with its own subject, 'the paintings'; in B, 'that' is the subject of 'shocked'.
+- **A and B both leave an object missing after their final verb.:** 'Had been stolen' is passive and needs no object; 'shocked' already has 'the owner' as its object.
+- **A states the rumour's content; B modifies the rumour with a relative clause.:** A is a content clause after a noun; B is a relative clause in which 'the rumour' fills the subject role of 'shocked'.
 
 **Decision:** replaced.
 
@@ -2979,13 +2979,13 @@ Which account correctly distinguishes the placement of the negative?
 3. The first denies Jules's action; the second denies the speaker's act of saying.
 4. The first reports uncertainty about copying; the second reports uncertainty about speaking.
 
-**Explanation:** In the first, not modifies say in the main clause; in the second, it belongs inside the reported proposition.
+**Explanation:** In the first, 'not' modifies 'say' in the main clause; in the second, it belongs inside the reported proposition.
 
 **Choice feedback:**
 
-- **The first denies making a claim; the second reports making a negative claim.:** In the first, not modifies say in the main clause; in the second, it belongs inside the reported proposition.
+- **The first denies making a claim; the second reports making a negative claim.:** In the first, 'not' modifies 'say' in the main clause; in the second, it belongs inside the reported proposition.
 - **Both sentences report the speaker's explicit statement that Jules was not the copier.:** Only the second reports that explicit negative claim; the first denies making the positive claim.
-- **The first denies Jules's action; the second denies the speaker's act of saying.:** This reverses the clause containing not in each sentence.
+- **The first denies Jules's action; the second denies the speaker's act of saying.:** This reverses the clause containing 'not' in each sentence.
 - **The first reports uncertainty about copying; the second reports uncertainty about speaking.:** Neither construction itself means uncertainty; their difference is which clause is negated.
 
 **Decision:** replaced.
@@ -3018,7 +3018,7 @@ Which revision preserves the relationships and makes the sequence easier to foll
 - **The shop hired a mechanic. The bicycle that this mechanic repaired is now ready.:** The revision separates the hiring from the repair while keeping the mechanic as repairer and the bicycle as the thing now ready.
 - **The mechanic hired the shop that repaired the bicycle, which is now ready.:** This reverses the hiring relationship: the shop hired the mechanic, not the other way round.
 - **The shop repaired the bicycle that the mechanic hired, and it is now ready.:** This makes the bicycle something the mechanic hired and the shop the repairer, changing the embedded roles.
-- **The mechanic repaired the shop's bicycle and is now ready to be hired.:** This moves now ready to the mechanic and turns completed hiring into a prospective event.
+- **The mechanic repaired the shop's bicycle and is now ready to be hired.:** This moves 'now ready' to the mechanic and turns completed hiring into a prospective event.
 
 **Decision:** replaced.
 
@@ -3043,14 +3043,14 @@ Which version compresses the relative clause while retaining its attachment?
 3. The conductor, recently moved to Leeds, chose a piece by the composer.
 4. The conductor chose a piece after recently moving to Leeds with the composer.
 
-**Explanation:** The shortened postmodifier remains next to composer, so the relocation continues to describe that person.
+**Explanation:** The shortened postmodifier remains next to 'composer', so the relocation continues to describe that person.
 
 **Choice feedback:**
 
-- **The conductor chose a piece by the composer recently relocated to Leeds.:** The shortened postmodifier remains next to composer, so the relocation continues to describe that person.
+- **The conductor chose a piece by the composer recently relocated to Leeds.:** The shortened postmodifier remains next to 'composer', so the relocation continues to describe that person.
 - **Having recently moved to Leeds, the conductor chose a piece by the composer.:** The opening participial clause attaches to the conductor, changing who moved.
 - **The conductor, recently moved to Leeds, chose a piece by the composer.:** The supplement follows and describes the conductor, not the composer.
-- **The conductor chose a piece after recently moving to Leeds with the composer.:** The understood mover is the conductor, and with adds the composer as a companion rather than preserving the original modifier.
+- **The conductor chose a piece after recently moving to Leeds with the composer.:** The understood mover is the conductor, and 'with' adds the composer as a companion rather than preserving the original modifier.
 
 **Decision:** replaced.
 
@@ -3107,14 +3107,14 @@ Which relative clause keeps the channel's role as the route the water follows?
 3. the channel through which water reaches the courtyard **[Correct]**
 4. the channel into which water drains from the courtyard
 
-**Explanation:** Through which retains the channel as a passage and links that role to the clause water reaches the courtyard.
+**Explanation:** 'Through which' retains the channel as a passage and links that role to the clause 'water reaches the courtyard'.
 
 **Choice feedback:**
 
-- **the channel from which water is removed before reaching the courtyard:** From which makes the channel a source for removal, not the passage carrying the water to the courtyard.
-- **the channel beside which water flows away from the courtyard:** Beside changes the path to one outside the channel, and away from reverses its relation to the courtyard.
-- **the channel through which water reaches the courtyard:** Through which retains the channel as a passage and links that role to the clause water reaches the courtyard.
-- **the channel into which water drains from the courtyard:** Into which makes the channel a destination for water leaving the courtyard, not the route of incoming water.
+- **the channel from which water is removed before reaching the courtyard:** 'From which' makes the channel a source for removal, not the passage carrying the water to the courtyard.
+- **the channel beside which water flows away from the courtyard:** 'Beside' changes the path to one outside the channel, and 'away from' reverses its relation to the courtyard.
+- **the channel through which water reaches the courtyard:** 'Through which' retains the channel as a passage and links that role to the clause 'water reaches the courtyard'.
+- **the channel into which water drains from the courtyard:** 'Into which' makes the channel a destination for water leaving the courtyard, not the route of incoming water.
 
 **Decision:** replaced.
 
@@ -3135,16 +3135,16 @@ Whoever returns the borrowed projector should put it on the reception desk.
 Which account best explains the role of the opening clause?
 
 1. It asks which person will return the projector and leaves the instruction incomplete.
-2. It denotes the returner and serves as the subject of should put. **[Correct]**
+2. It denotes the returner and serves as the subject of 'should put'. **[Correct]**
 3. It gives a reason why an already named person should use the desk.
 4. It reports what the receptionist asked the borrower to do earlier.
 
-**Explanation:** Whoever combines a person reference with a relative clause, so the whole clause can be the subject of should put.
+**Explanation:** 'Whoever' combines a person reference with a relative clause, so the whole clause can be the subject of 'should put'.
 
 **Choice feedback:**
 
-- **It asks which person will return the projector and leaves the instruction incomplete.:** This is a statement, not a direct question; the opening clause supplies the subject of should put.
-- **It denotes the returner and serves as the subject of should put.:** Whoever combines a person reference with a relative clause, so the whole clause can be the subject of should put.
+- **It asks which person will return the projector and leaves the instruction incomplete.:** This is a statement, not a direct question; the opening clause supplies the subject of 'should put'.
+- **It denotes the returner and serves as the subject of 'should put'.:** 'Whoever' combines a person reference with a relative clause, so the whole clause can be the subject of 'should put'.
 - **It gives a reason why an already named person should use the desk.:** No particular person has been named, and the clause identifies who the instruction applies to rather than a reason.
 - **It reports what the receptionist asked the borrower to do earlier.:** There is no reporting verb or earlier request; the clause directly identifies the prospective returner.
 
@@ -3166,19 +3166,19 @@ The engineers designed, and the volunteers built, a footbridge across the stream
 
 How is 'a footbridge across the stream' connected to the coordinated clauses?
 
-1. It is the subject of built but the object of designed.
+1. It is the subject of 'built' but the object of 'designed'.
 2. It modifies the stream and leaves both verbs without an expressed object.
-3. It is the shared object of designed and built. **[Correct]**
-4. It is the object only of built, so the design's object is unspecified.
+3. It is the shared object of 'designed' and 'built'. **[Correct]**
+4. It is the object only of 'built', so the design's object is unspecified.
 
 **Explanation:** The object is placed after both clauses but is understood with each: engineers designed the footbridge and volunteers built it.
 
 **Choice feedback:**
 
-- **It is the subject of built but the object of designed.:** The volunteers are the subject of 'built'; the footbridge is what they built.
+- **It is the subject of 'built' but the object of 'designed'.:** The volunteers are the subject of 'built'; the footbridge is what they built.
 - **It modifies the stream and leaves both verbs without an expressed object.:** 'Across the stream' modifies the footbridge; the whole noun phrase supplies the object understood with each verb.
-- **It is the shared object of designed and built.:** The object is placed after both clauses but is understood with each: engineers designed the footbridge and volunteers built it.
-- **It is the object only of built, so the design's object is unspecified.:** The delayed noun phrase is shared by both coordinated predicates; the sentence says what the engineers designed as well.
+- **It is the shared object of 'designed' and 'built'.:** The object is placed after both clauses but is understood with each: engineers designed the footbridge and volunteers built it.
+- **It is the object only of 'built', so the design's object is unspecified.:** The delayed noun phrase is shared by both coordinated predicates; the sentence says what the engineers designed as well.
 
 **Decision:** replaced.
 
@@ -3203,13 +3203,13 @@ Which report preserves who would have received the warning and when it was alleg
 3. The tenant denied that someone would warn her after the inspection.
 4. The tenant admitted receiving a warning but disputed its details.
 
-**Explanation:** The perfect passive having been warned places the alleged warning earlier and makes the tenant its recipient; denied rejects that account.
+**Explanation:** The perfect passive 'having been warned' places the alleged warning earlier and makes the tenant its recipient; 'denied' rejects that account.
 
 **Choice feedback:**
 
-- **The tenant said that nobody had warned her before she made the denial.:** The perfect passive having been warned places the alleged warning earlier and makes the tenant its recipient; denied rejects that account.
+- **The tenant said that nobody had warned her before she made the denial.:** The perfect passive 'having been warned' places the alleged warning earlier and makes the tenant its recipient; 'denied' rejects that account.
 - **The tenant said that she had not warned anyone before the inspection.:** This makes the tenant the giver of a warning rather than its alleged recipient.
-- **The tenant denied that someone would warn her after the inspection.:** This substitutes a future warning for the earlier event expressed by having been warned.
+- **The tenant denied that someone would warn her after the inspection.:** This substitutes a future warning for the earlier event expressed by 'having been warned'.
 - **The tenant admitted receiving a warning but disputed its details.:** This accepts that the warning occurred; the original denial concerns having received it.
 
 **Decision:** replaced.
@@ -3239,12 +3239,12 @@ Which revision makes that intended scope explicit without requiring a different 
 3. Every instrument was inspected by a different specialist from the one who inspected any other instrument.
 4. For every specialist, there was an instrument that the specialist inspected.
 
-**Explanation:** Putting every instrument first and qualifying the inspector explicitly permits either shared or different specialists.
+**Explanation:** Putting 'every instrument' first and qualifying the inspector explicitly permits either shared or different specialists.
 
 **Choice feedback:**
 
-- **One specialist inspected the instruments, each of which needed an inspection.:** One specialist keeps a single inspector outside the scope of each instrument; it does not express the intended distribution.
-- **Every instrument was inspected by a specialist, not necessarily the same one.:** Putting every instrument first and qualifying the inspector explicitly permits either shared or different specialists.
+- **One specialist inspected the instruments, each of which needed an inspection.:** 'One specialist' keeps a single inspector outside the scope of each instrument; it does not express the intended distribution.
+- **Every instrument was inspected by a specialist, not necessarily the same one.:** Putting 'every instrument' first and qualifying the inspector explicitly permits either shared or different specialists.
 - **Every instrument was inspected by a different specialist from the one who inspected any other instrument.:** This requires separate inspectors, whereas the intended claim permits but does not require them.
 - **For every specialist, there was an instrument that the specialist inspected.:** This distributes instruments over specialists and does not establish that every instrument received an inspection.
 
@@ -3268,16 +3268,16 @@ Which paraphrase best preserves the nominal comparison rather than turning it in
 
 1. The essay contains a larger number of provocations than explanations.
 2. The essay was provocative before it became explanatory.
-3. Provocation describes the essay's function better than explanation does. **[Correct]**
+3. 'Provocation' describes the essay's function better than 'explanation' does. **[Correct]**
 4. The essay gives a more detailed explanation of provocation than of other subjects.
 
-**Explanation:** More a ... than a ... compares the appropriateness of two characterizations, not necessarily their numerical amount.
+**Explanation:** 'More a ... than a ...' compares the appropriateness of two characterizations, not necessarily their numerical amount.
 
 **Choice feedback:**
 
 - **The essay contains a larger number of provocations than explanations.:** This counts separate instances; the original compares how aptly two categories describe the essay as a whole.
-- **The essay was provocative before it became explanatory.:** This creates a change over time, which the more ... than construction does not express here.
-- **Provocation describes the essay's function better than explanation does.:** More a ... than a ... compares the appropriateness of two characterizations, not necessarily their numerical amount.
+- **The essay was provocative before it became explanatory.:** This creates a change over time, which the 'more ... than' construction does not express here.
+- **'Provocation' describes the essay's function better than 'explanation' does.:** 'More a ... than a ...' compares the appropriateness of two characterizations, not necessarily their numerical amount.
 - **The essay gives a more detailed explanation of provocation than of other subjects.:** This makes provocation the essay's topic and compares detail, rather than comparing the essay's functions.
 
 **Decision:** replaced.
@@ -3303,14 +3303,14 @@ Which expansion correctly recovers the delegate's different roles in the two inf
 3. Others hesitated to question the delegate, but the delegate found it easy to persuade them.
 4. The delegate hesitated to question others, but others found it easy to persuade the delegate. **[Correct]**
 
-**Explanation:** With reluctant, the delegate is the understood questioner; with easy to persuade, the delegate is the person being persuaded.
+**Explanation:** With 'reluctant', the delegate is the understood questioner; with 'easy to persuade', the delegate is the person being persuaded.
 
 **Choice feedback:**
 
-- **Others hesitated to question the delegate, but found it easy to persuade the delegate.:** This treats the delegate as the object of question as well as persuade; reluctant makes the delegate the reluctant actor.
-- **The delegate hesitated to question others, but found it easy to persuade them.:** This makes the delegate the persuader, whereas easy to persuade presents the delegate as the person persuaded.
+- **Others hesitated to question the delegate, but found it easy to persuade the delegate.:** This treats the delegate as the object of 'question' as well as 'persuade'; 'reluctant' makes the delegate the reluctant actor.
+- **The delegate hesitated to question others, but found it easy to persuade them.:** This makes the delegate the persuader, whereas 'easy to persuade' presents the delegate as the person persuaded.
 - **Others hesitated to question the delegate, but the delegate found it easy to persuade them.:** This reverses both dependencies: who does the questioning and who receives the persuasion.
-- **The delegate hesitated to question others, but others found it easy to persuade the delegate.:** With reluctant, the delegate is the understood questioner; with easy to persuade, the delegate is the person being persuaded.
+- **The delegate hesitated to question others, but others found it easy to persuade the delegate.:** With 'reluctant', the delegate is the understood questioner; with 'easy to persuade', the delegate is the person being persuaded.
 
 **Decision:** replaced.
 
@@ -3399,11 +3399,11 @@ Which revision preserves the contrastive focus and what is excluded from the cri
 3. The reviewer did not question the violinist, but instead questioned her technique.
 4. The reviewer questioned whether her tempo choice reflected a weakness in technique.
 
-**Explanation:** The not ... but contrast selects the object of questioned within the cleft, rather than negating the act of criticism.
+**Explanation:** The 'not ... but' contrast selects the object of 'questioned' within the cleft, rather than negating the act of criticism.
 
 **Choice feedback:**
 
-- **The reviewer's criticism concerned her tempo choice, not her technique.:** The not ... but contrast selects the object of questioned within the cleft, rather than negating the act of criticism.
+- **The reviewer's criticism concerned her tempo choice, not her technique.:** The 'not ... but' contrast selects the object of 'questioned' within the cleft, rather than negating the act of criticism.
 - **The reviewer questioned both the violinist's tempo and, less strongly, her technique.:** The original excludes technique from what was questioned; it does not merely rank two criticisms.
 - **The reviewer did not question the violinist, but instead questioned her technique.:** This moves the contrast from two aspects of the performance to the person versus her technique.
 - **The reviewer questioned whether her tempo choice reflected a weakness in technique.:** This introduces a possible technical weakness as an explanation; the original expressly removes technique from the focus of criticism.
@@ -3431,11 +3431,11 @@ Which expansion fixes that reading of the ellipsis without adding a claim about 
 3. Iris revised Mei's review before Mei revised her own review.
 4. Iris wrote and revised her review before Mei wrote and revised hers.
 
-**Explanation:** Repeating the predicate with her own for each subject preserves the reading in which the review changes with the reviewer.
+**Explanation:** Repeating the predicate with 'her own' for each subject preserves the reading in which the review changes with the reviewer.
 
 **Choice feedback:**
 
-- **Iris revised her own review before Mei revised her own review.:** Repeating the predicate with her own for each subject preserves the reading in which the review changes with the reviewer.
+- **Iris revised her own review before Mei revised her own review.:** Repeating the predicate with 'her own' for each subject preserves the reading in which the review changes with the reviewer.
 - **Iris revised her review before Mei revised Iris's review.:** This fixes the object of both revisions as Iris's review, the other possible reading the editor wants to exclude.
 - **Iris revised Mei's review before Mei revised her own review.:** This makes both actions concern Mei's review and changes the object of Iris's action.
 - **Iris wrote and revised her review before Mei wrote and revised hers.:** This adds authorship and an order for the writing events; the original reports only revision.
@@ -3459,18 +3459,18 @@ Whether the keys are collected by the tenant or by a friend makes no difference 
 Which analysis keeps the two embedded clauses and their roles distinct?
 
 1. The whether-clause asks a direct question; the what-clause gives its answer.
-2. The what-clause is the subject of makes; the whether-clause modifies the caretaker.
+2. The what-clause is the subject of 'makes'; the whether-clause modifies the caretaker.
 3. Both clauses modify keys, specifying which keys are to be collected and recorded.
-4. The whether-clause is the subject; the what-clause is the complement of to. **[Correct]**
+4. The whether-clause is the subject; the what-clause is the complement of 'to'. **[Correct]**
 
-**Explanation:** One embedded clause names the alternatives whose relevance is denied, while the other functions as the complement of the preposition to.
+**Explanation:** One embedded clause names the alternatives whose relevance is denied, while the other functions as the complement of the preposition 'to'.
 
 **Choice feedback:**
 
 - **The whether-clause asks a direct question; the what-clause gives its answer.:** The sentence is a statement: the whether-clause acts as its subject, and the what-clause identifies the information to be recorded.
-- **The what-clause is the subject of makes; the whether-clause modifies the caretaker.:** Makes follows the entire whether-clause, which is its subject; the what-clause follows to as its complement.
-- **Both clauses modify keys, specifying which keys are to be collected and recorded.:** Neither is an identifying relative attached to keys; their positions give them separate roles in the main sentence.
-- **The whether-clause is the subject; the what-clause is the complement of to.:** One embedded clause names the alternatives whose relevance is denied, while the other functions as the complement of the preposition to.
+- **The what-clause is the subject of 'makes'; the whether-clause modifies the caretaker.:** 'Makes' follows the entire whether-clause, which is its subject; the what-clause follows 'to' as its complement.
+- **Both clauses modify keys, specifying which keys are to be collected and recorded.:** Neither is an identifying relative attached to 'keys'; their positions give them separate roles in the main sentence.
+- **The whether-clause is the subject; the what-clause is the complement of 'to'.:** One embedded clause names the alternatives whose relevance is denied, while the other functions as the complement of the preposition 'to'.
 
 **Decision:** replaced.
 
@@ -3495,13 +3495,13 @@ Which expansion preserves all three relationships?
 3. The engineer inspected the hotel's wiring while the opening was delayed for another reason.
 4. The inspection was delayed because the engineer needed wiring details for the hotel's opening.
 
-**Explanation:** The first possessive supplies the inspector, of introduces what was inspected, and because retains the causal link.
+**Explanation:** The first possessive supplies the inspector, 'of' introduces what was inspected, and 'because' retains the causal link.
 
 **Choice feedback:**
 
 - **The opening was delayed because the hotel had asked the engineer to inspect the wiring.:** This adds a request from the hotel and makes that request the stated cause; the original attributes the delay to the inspection itself.
-- **The opening was delayed because the engineer inspected the hotel's wiring.:** The first possessive supplies the inspector, of introduces what was inspected, and because retains the causal link.
-- **The engineer inspected the hotel's wiring while the opening was delayed for another reason.:** While makes the events simultaneous and another reason expressly removes the inspection as the cause.
+- **The opening was delayed because the engineer inspected the hotel's wiring.:** The first possessive supplies the inspector, 'of' introduces what was inspected, and 'because' retains the causal link.
+- **The engineer inspected the hotel's wiring while the opening was delayed for another reason.:** 'While' makes the events simultaneous and 'another reason' expressly removes the inspection as the cause.
 - **The inspection was delayed because the engineer needed wiring details for the hotel's opening.:** This changes which event was delayed: the original delays the opening, not the inspection.
 
 **Decision:** replaced.
@@ -3559,12 +3559,12 @@ Which grammatical arrangement satisfies that information-order goal?
 3. Against the far wall, a cabinet containing dozens of miniature glass houses stood.
 4. Dozens of miniature glass houses stood inside a cabinet against the far wall.
 
-**Explanation:** Locative inversion keeps the established place first and postpones the new, longer subject phrase until after stood.
+**Explanation:** Locative inversion keeps the established place first and postpones the new, longer subject phrase until after 'stood'.
 
 **Choice feedback:**
 
 - **A cabinet containing dozens of miniature glass houses stood against the far wall.:** This is grammatical, but it introduces the cabinet first and ends with the already established location.
-- **Against the far wall stood a cabinet containing dozens of miniature glass houses.:** Locative inversion keeps the established place first and postpones the new, longer subject phrase until after stood.
+- **Against the far wall stood a cabinet containing dozens of miniature glass houses.:** Locative inversion keeps the established place first and postpones the new, longer subject phrase until after 'stood'.
 - **Against the far wall, a cabinet containing dozens of miniature glass houses stood.:** This starts with the location, but leaves the short verb at the end rather than the new cabinet phrase requested.
 - **Dozens of miniature glass houses stood inside a cabinet against the far wall.:** This changes the main subject to the contents and ends with the wall, reversing the requested progression.
 
@@ -3586,19 +3586,19 @@ ID: `coverage-advanced-sentence-structure-c2-352`
 
 Which response gives the soundest grammatical assessment of the existing sentence?
 
-1. The change is required because the rest must agree with a singular finite verb.
-2. It is grammatical: the rest is the subject of a non-finite supplement. **[Correct]**
-3. The sentence is acceptable only if bearing describes the same envelopes as unmarked.
-4. The sentence is grammatical because bearing is a present-tense verb parallel to were.
+1. The change is required because 'the rest' must agree with a singular finite verb.
+2. It is grammatical: 'the rest' is the subject of a non-finite supplement. **[Correct]**
+3. The sentence is acceptable only if 'bearing' describes the same envelopes as 'unmarked'.
+4. The sentence is grammatical because 'bearing' is a present-tense verb parallel to 'were'.
 
 **Explanation:** An absolute supplement can have a noun-phrase subject and an ing-form without becoming an independent finite clause.
 
 **Choice feedback:**
 
-- **The change is required because the rest must agree with a singular finite verb.:** The issue is not singular agreement: 'the rest' refers to the remaining envelopes, and the supplement can be non-finite.
-- **It is grammatical: the rest is the subject of a non-finite supplement.:** An absolute supplement can have a noun-phrase subject and an ing-form without becoming an independent finite clause.
-- **The sentence is acceptable only if bearing describes the same envelopes as unmarked.:** 'The rest' explicitly introduces a different group and supplies the supplement's own subject.
-- **The sentence is grammatical because bearing is a present-tense verb parallel to were.:** 'Bearing' is non-finite, not a present-tense equivalent of 'were'; accepting the sentence requires recognizing a different clause type.
+- **The change is required because 'the rest' must agree with a singular finite verb.:** The issue is not singular agreement: 'the rest' refers to the remaining envelopes, and the supplement can be non-finite.
+- **It is grammatical: 'the rest' is the subject of a non-finite supplement.:** An absolute supplement can have a noun-phrase subject and an ing-form without becoming an independent finite clause.
+- **The sentence is acceptable only if 'bearing' describes the same envelopes as 'unmarked'.:** 'The rest' explicitly introduces a different group and supplies the supplement's own subject.
+- **The sentence is grammatical because 'bearing' is a present-tense verb parallel to 'were'.:** 'Bearing' is non-finite, not a present-tense equivalent of 'were'; accepting the sentence requires recognizing a different clause type.
 
 **Decision:** replaced.
 
@@ -3630,7 +3630,7 @@ Which explanation best accounts for the opener in this use?
 - **It comments on the speaker's choice of words.:** Some infinitival supplements comment on the act of speaking and take the speaker as their understood agent, rather than the main-clause subject.
 - **It gives the landlord's purpose in increasing the rent.:** The opener does not explain the landlord's aim; it comments on how the speaker describes the increase.
 - **It identifies who experienced the increase, leaving that person unstated in the main clause.:** The opener does not identify an affected tenant; its understood speaker is someone choosing a description.
-- **It says that the increase itself was mild, despite being unwelcome.:** Mildly describes how the speaker is putting the judgment into words, not the size or severity of the increase.
+- **It says that the increase itself was mild, despite being unwelcome.:** 'Mildly' describes how the speaker is putting the judgment into words, not the size or severity of the increase.
 
 **Decision:** replaced.
 
@@ -3655,14 +3655,14 @@ Which interpretation preserves the nested infinitives without strengthening the 
 3. The beginner's expectations make the pattern too irregular for us to reproduce accurately.
 4. Its irregularity makes accurate reproduction an unreasonable expectation of a beginner. **[Correct]**
 
-**Explanation:** For us supplies the subject of expect, while a beginner supplies the subject of reproduce; the degree construction limits the expectation.
+**Explanation:** 'For us' supplies the subject of 'expect', while 'a beginner' supplies the subject of 'reproduce'; the degree construction limits the expectation.
 
 **Choice feedback:**
 
-- **Its irregularity means that a beginner is physically incapable of reproducing it accurately.:** Too irregular for us to expect limits the reasonableness of our expectation; it does not establish physical impossibility.
-- **Its irregularity prevents us from reproducing what a beginner expects to see.:** This exchanges the subjects of expect and reproduce, and changes it from the pattern to an expected sight.
+- **Its irregularity means that a beginner is physically incapable of reproducing it accurately.:** 'Too irregular for us to expect' limits the reasonableness of our expectation; it does not establish physical impossibility.
+- **Its irregularity prevents us from reproducing what a beginner expects to see.:** This exchanges the subjects of 'expect' and 'reproduce', and changes 'it' from the pattern to an expected sight.
 - **The beginner's expectations make the pattern too irregular for us to reproduce accurately.:** This makes the beginner the holder of the expectation and us the reproducers, reversing the embedded roles.
-- **Its irregularity makes accurate reproduction an unreasonable expectation of a beginner.:** For us supplies the subject of expect, while a beginner supplies the subject of reproduce; the degree construction limits the expectation.
+- **Its irregularity makes accurate reproduction an unreasonable expectation of a beginner.:** 'For us' supplies the subject of 'expect', while 'a beginner' supplies the subject of 'reproduce'; the degree construction limits the expectation.
 
 **Decision:** replaced.
 
@@ -3687,14 +3687,14 @@ Which expansion preserves the opening infinitive's conditional function?
 3. If the sea had been perfectly calm, he would have described the crossing to you.
 4. If you heard his account, you would picture a perfectly calm sea. **[Correct]**
 
-**Explanation:** To hear him describe sets up a hypothetical basis for an impression; it is not a purpose for thinking or proof of the actual sea conditions.
+**Explanation:** 'To hear him describe' sets up a hypothetical basis for an impression; it is not a purpose for thinking or proof of the actual sea conditions.
 
 **Choice feedback:**
 
 - **You would assume the sea was calm in order to hear his description of the crossing.:** This changes the opening into a purpose and reverses the relation between hearing and forming an impression.
 - **Having heard his description of the crossing, you knew the sea had been perfectly calm.:** This asserts an actual hearing and certain knowledge, replacing the hypothetical impression.
 - **If the sea had been perfectly calm, he would have described the crossing to you.:** This makes sea conditions determine whether he speaks, rather than his account shape the listener's impression.
-- **If you heard his account, you would picture a perfectly calm sea.:** To hear him describe sets up a hypothetical basis for an impression; it is not a purpose for thinking or proof of the actual sea conditions.
+- **If you heard his account, you would picture a perfectly calm sea.:** 'To hear him describe' sets up a hypothetical basis for an impression; it is not a purpose for thinking or proof of the actual sea conditions.
 
 **Decision:** replaced.
 
@@ -3751,12 +3751,12 @@ Which edit makes those clause boundaries clear without changing who dismissed wh
 3. After the actor dismissed the director, the theatre he had left fell silent.
 4. After the director whom the actor had dismissed left, the theatre fell silent.
 
-**Explanation:** Whom marks the embedded relative, and the comma closes the after-clause after left, leaving the theatre as the main subject.
+**Explanation:** 'Whom' marks the embedded relative, and the comma closes the after-clause after 'left', leaving 'the theatre' as the main subject.
 
 **Choice feedback:**
 
-- **After the actor left the theatre, the director who had dismissed him fell silent.:** This makes the director, not the theatre, fall silent and takes the theatre as the object of left.
-- **After the actor whom the director had dismissed left, the theatre fell silent.:** Whom marks the embedded relative, and the comma closes the after-clause after left, leaving the theatre as the main subject.
+- **After the actor left the theatre, the director who had dismissed him fell silent.:** This makes the director, not the theatre, fall silent and takes 'the theatre' as the object of 'left'.
+- **After the actor whom the director had dismissed left, the theatre fell silent.:** 'Whom' marks the embedded relative, and the comma closes the after-clause after 'left', leaving 'the theatre' as the main subject.
 - **After the actor dismissed the director, the theatre he had left fell silent.:** This reverses the dismissal and makes it the preceding event, rather than the actor's departure.
 - **After the director whom the actor had dismissed left, the theatre fell silent.:** The broad clause pattern is clear, but the actor and director exchange their roles in both departure and dismissal.
 
@@ -3810,19 +3810,19 @@ ID: `coverage-advanced-sentence-structure-c2-359`
 
 Which explanation correctly assesses the original and the proposed addition in standard edited English?
 
-1. The addition is needed because I must be the subject of both thought and had cancelled.
+1. The addition is needed because 'I' must be the subject of both 'thought' and 'had cancelled'.
 2. The original is incomplete because a relative marker can never be omitted before I thought.
-3. The original is complete: the relative links plumber to the subject of had cancelled. She would duplicate that role. **[Correct]**
-4. The addition makes no structural difference because she is the subject of arrived.
+3. The original is complete: the relative links 'plumber' to the subject of 'had cancelled'. 'She' would duplicate that role. **[Correct]**
+4. The addition makes no structural difference because 'she' is the subject of 'arrived'.
 
 **Explanation:** The relative can be expanded to 'the plumber who I thought had cancelled'. Its subject relationship crosses the intervening 'I thought' clause.
 
 **Choice feedback:**
 
-- **The addition is needed because I must be the subject of both thought and had cancelled.:** 'I' is the subject of 'thought', but the relative refers to the plumber as the person thought to have cancelled.
+- **The addition is needed because 'I' must be the subject of both 'thought' and 'had cancelled'.:** 'I' is the subject of 'thought', but the relative refers to the plumber as the person thought to have cancelled.
 - **The original is incomplete because a relative marker can never be omitted before I thought.:** A zero relative is possible here; the embedded subject dependency should not be confused with simply omitting 'who' in 'who had cancelled'.
-- **The original is complete: the relative links plumber to the subject of had cancelled. She would duplicate that role.:** The relative can be expanded to 'the plumber who I thought had cancelled'. Its subject relationship crosses the intervening 'I thought' clause.
-- **The addition makes no structural difference because she is the subject of arrived.:** 'Arrived' already has the whole noun phrase 'the plumber ...' as its subject; an inserted 'she' after 'thought' would sit inside the relative clause.
+- **The original is complete: the relative links 'plumber' to the subject of 'had cancelled'. 'She' would duplicate that role.:** The relative can be expanded to 'the plumber who I thought had cancelled'. Its subject relationship crosses the intervening 'I thought' clause.
+- **The addition makes no structural difference because 'she' is the subject of 'arrived'.:** 'Arrived' already has the whole noun phrase 'the plumber ...' as its subject; an inserted 'she' after 'thought' would sit inside the relative clause.
 
 **Decision:** replaced.
 
@@ -3847,13 +3847,13 @@ Which expansion preserves both the hypothetical road condition and the concessiv
 3. Even if the road had stayed open, we would have walked despite our cumbersome bags. **[Correct]**
 4. If our bags had been less cumbersome, we would have walked while the road remained open.
 
-**Explanation:** The inverted condition imagines an open road, still preserves walking under that alternative, and though presents the bags as a concession.
+**Explanation:** The inverted condition imagines an open road, 'still' preserves walking under that alternative, and 'though' presents the bags as a concession.
 
 **Choice feedback:**
 
 - **If the road had remained open and our bags had been cumbersome, we would have walked.:** This makes the bags' cumbersomeness another hypothetical condition instead of a conceded circumstance.
 - **Because the road remained open, we walked despite the cumbersome bags.:** This asserts an open road and actual walking, replacing the hypothetical alternative.
-- **Even if the road had stayed open, we would have walked despite our cumbersome bags.:** The inverted condition imagines an open road, still preserves walking under that alternative, and though presents the bags as a concession.
+- **Even if the road had stayed open, we would have walked despite our cumbersome bags.:** The inverted condition imagines an open road, 'still' preserves walking under that alternative, and 'though' presents the bags as a concession.
 - **If our bags had been less cumbersome, we would have walked while the road remained open.:** This moves the hypothetical condition to the bags and makes the road's openness background to a different decision.
 
 **Decision:** replaced.

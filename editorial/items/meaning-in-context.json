@@ -50,7 +50,7 @@
         "very cheap": "Price does not explain why the bag is easy to carry.",
         "nearly empty": "A nearly empty bag may be light, but 'light' describes weight, not how full it is.",
         "not heavy": "The ease of carrying the bag shows that 'light' refers to low weight.",
-        "pale in color": "Light can describe color elsewhere, but the carrying sentence points to weight."
+        "pale in color": "'Light' can describe color elsewhere, but the carrying sentence points to weight."
       },
       "audit": {
         "status": "reviewed",
@@ -109,7 +109,7 @@
       "answer": "difficult to do",
       "explanation": "The speaker needs help understanding the task, so 'hard' means difficult.",
       "rationales": {
-        "made of a firm material": "Hard can describe a surface, but this sentence concerns understanding a task.",
+        "made of a firm material": "'Hard' can describe a surface, but this sentence concerns understanding a task.",
         "taking place very soon": "The sentence gives difficulty, not a starting time.",
         "finished completely": "Needing an explanation does not mean the task is completed.",
         "difficult to do": "The speaker needs help understanding the task, so 'hard' means difficult."
@@ -142,7 +142,7 @@
       "rationales": {
         "The class has no teacher.": "A class can have a teacher without charging students.",
         "The class has no cost for students.": "'Pay nothing' identifies the no-cost meaning of free.",
-        "The class has no students yet.": "Free does not mean empty or unbooked in this payment context.",
+        "The class has no students yet.": "'Free' does not mean empty or unbooked in this payment context.",
         "The class has no fixed time.": "The sentence gives no information about scheduling freedom."
       },
       "audit": {
@@ -203,7 +203,7 @@
       "explanation": "A fair price is reasonable; the similar prices help explain this judgment.",
       "rationales": {
         "reasonable": "A fair price is reasonable; the similar prices help explain this judgment.",
-        "the lowest possible": "Fair does not mean no seller could charge less.",
+        "the lowest possible": "'Fair' does not mean no seller could charge less.",
         "too high": "The speaker calls the price reasonable, not excessive.",
         "not yet decided": "The price is already given as $30; fair evaluates it rather than leaving it open."
       },
@@ -262,10 +262,10 @@
         "finished with all your work"
       ],
       "answer": "well; not feeling bad",
-      "explanation": "Being ready to go out supports fine as feeling well or okay.",
+      "explanation": "Being ready to go out supports 'fine' as feeling well or okay.",
       "rationales": {
-        "very thin": "Fine can describe thin things, but here it describes your condition.",
-        "well; not feeling bad": "Being ready to go out supports fine as feeling well or okay.",
+        "very thin": "'Fine' can describe thin things, but here it describes your condition.",
+        "well; not feeling bad": "Being ready to go out supports 'fine' as feeling well or okay.",
         "angry about the journey": "The reply gives no anger and presents a positive condition.",
         "finished with all your work": "The question concerns how you feel, not whether work is complete."
       },
@@ -355,12 +355,12 @@
         "unkind"
       ],
       "answer": "unkind",
-      "explanation": "Laughing at another person's mistake supplies the clue: mean describes an unkind comment.",
+      "explanation": "Laughing at another person's mistake supplies the clue: 'mean' describes an unkind comment.",
       "rationales": {
         "too quiet to hear": "The sentence evaluates its unkindness, not its volume.",
         "hard to understand": "Jo objects to how the comment treats someone, not to unclear language.",
-        "unkind": "Laughing at another person's mistake supplies the clue: mean describes an unkind comment.",
-        "very accurate": "Accuracy is not what mean expresses in this evaluation."
+        "unkind": "Laughing at another person's mistake supplies the clue: 'mean' describes an unkind comment.",
+        "very accurate": "Accuracy is not what 'mean' expresses in this evaluation."
       },
       "audit": {
         "status": "reviewed",
@@ -388,7 +388,7 @@
       "answer": "not long to read",
       "explanation": "The two-sentence clue shows that the message is brief.",
       "rationales": {
-        "sent a little while ago": "Short describes the email's length, not how recently it was sent.",
+        "sent a little while ago": "'Short' describes the email's length, not how recently it was sent.",
         "not long to read": "The two-sentence clue shows that the message is brief.",
         "written by a small person": "The writer's height has no connection to the email's length.",
         "sent to only two people": "Two counts the sentences, not the recipients."
@@ -421,7 +421,7 @@
       "rationales": {
         "There was a large distance to walk.": "The sentence measures waiting in hours, not distance.",
         "There were many people in a line.": "A long wait can happen for different reasons; no number of people is given.",
-        "The office was very large.": "Long describes the time spent waiting, not the building.",
+        "The office was very large.": "'Long' describes the time spent waiting, not the building.",
         "It took a lot of time.": "The two-hour duration shows that long refers to time."
       },
       "audit": {
@@ -448,9 +448,9 @@
         "made at an earlier time"
       ],
       "answer": "still available",
-      "explanation": "After eight are sold, two remain for sale; left means remaining.",
+      "explanation": "After eight are sold, two remain for sale; 'left' means remaining.",
       "rationales": {
-        "still available": "After eight are sold, two remain for sale; left means remaining.",
+        "still available": "After eight are sold, two remain for sale; 'left' means remaining.",
         "on the left side of the shop": "The numbers concern sales and stock, not the sandwiches' position.",
         "taken away by customers": "Eight were taken by customers; the two left have not been sold.",
         "made at an earlier time": "The sentence gives no information about when the remaining sandwiches were made."
@@ -484,7 +484,7 @@
         "How good the breakfast is": "The sign gives a route, not an evaluation of the food.",
         "The correct time for breakfast": "No breakfast time is stated.",
         "The direction to turn": "After 'turn', right names a direction opposite to left.",
-        "How quickly to walk": "Right gives direction, not speed."
+        "How quickly to walk": "'Right' gives direction, not speed."
       },
       "audit": {
         "status": "reviewed",
@@ -514,7 +514,7 @@
       "rationales": {
         "Below the photo on the same side": "The instruction names the back, not another position on the front.",
         "On the other side of the card": "Back contrasts with the front already described; turn the card over to write there.",
-        "On the last card in the pack": "Back describes a side of this card, not its place among other cards.",
+        "On the last card in the pack": "'Back' describes a side of this card, not its place among other cards.",
         "On the photo itself": "The photo is on the front, which the instruction contrasts with the back."
       },
       "audit": {
@@ -544,7 +544,7 @@
       "explanation": "'Switch on' and 'above the table' identify an electric light or lamp.",
       "rationales": {
         "A pale color for the table": "A color cannot be switched on; the instruction concerns lighting the room.",
-        "Something on the table that weighs little": "Light is a noun with 'the' here, and it is above the table, not a weight description.",
+        "Something on the table that weighs little": "'Light' is a noun with 'the' here, and it is above the table, not a weight description.",
         "The time when the sun comes up": "Sunrise is not something the listener can switch on.",
         "The lamp that lights the table area": "'Switch on' and 'above the table' identify an electric light or lamp."
       },
@@ -884,7 +884,7 @@
       "answer": "The money returned because you paid more than the price",
       "explanation": "The $2 is the difference between the $5 paid and the $3 cost.",
       "rationales": {
-        "The new price of the coffee": "The price remains $3; change is the money returned after payment.",
+        "The new price of the coffee": "The price remains $3; 'change' is the money returned after payment.",
         "The money returned because you paid more than the price": "The $2 is the difference between the $5 paid and the $3 cost.",
         "The full amount you paid": "The full payment is $5; only $2 is returned as change.",
         "A discount added after the purchase": "The price has not been reduced; the cashier returns the excess payment."
@@ -916,7 +916,7 @@
       "explanation": "Soup, the fish dish, and fruit are successive parts of the dinner, so each is a course.",
       "rationales": {
         "A choice of three restaurants": "The list gives parts of one meal, not dining locations.",
-        "A cooking lesson": "Course can mean lessons, but this sentence lists what is served for dinner.",
+        "A cooking lesson": "'Course' can mean lessons, but this sentence lists what is served for dinner.",
         "A complete meal on a separate day": "The three listed parts belong to the same dinner.",
         "One part of a meal served in a sequence": "Soup, the fish dish, and fruit are successive parts of the dinner, so each is a course."
       },
@@ -1006,11 +1006,11 @@
         "Stop the bus during the journey"
       ],
       "answer": "Travel on their feet without sitting",
-      "explanation": "With no seats available, stand means remain upright rather than sit.",
+      "explanation": "With no seats available, 'stand' means remain upright rather than sit.",
       "rationales": {
         "Wait outside until the journey ends": "The passengers travel on the bus; lack of seats explains their posture.",
-        "Travel on their feet without sitting": "With no seats available, stand means remain upright rather than sit.",
-        "Tolerate a journey they have refused to take": "They are already traveling; stand here describes posture, not the expression can't stand.",
+        "Travel on their feet without sitting": "With no seats available, 'stand' means remain upright rather than sit.",
+        "Tolerate a journey they have refused to take": "They are already traveling; 'stand' here describes posture, not the expression \"can't stand\".",
         "Stop the bus during the journey": "Passengers standing does not mean they make the bus stop."
       },
       "audit": {
@@ -1068,10 +1068,10 @@
         "Without any road signs"
       ],
       "answer": "Not blocked",
-      "explanation": "Removing the branch makes passage possible; clear describes the absence of the obstruction.",
+      "explanation": "Removing the branch makes passage possible; 'clear' describes the absence of the obstruction.",
       "rationales": {
-        "Not blocked": "Removing the branch makes passage possible; clear describes the absence of the obstruction.",
-        "Easy to explain": "Clear can describe instructions, but the road context concerns a physical blockage.",
+        "Not blocked": "Removing the branch makes passage possible; 'clear' describes the absence of the obstruction.",
+        "Easy to explain": "'Clear' can describe instructions, but the road context concerns a physical blockage.",
         "Newly built": "Removing a branch does not mean the road was just built.",
         "Without any road signs": "The sentence mentions a branch, not the removal of signs."
       },
@@ -1099,11 +1099,11 @@
         "Enter the room immediately"
       ],
       "answer": "Reserve the room",
-      "explanation": "Having the room kept for the group explains book as arrange its use in advance.",
+      "explanation": "Having the room kept for the group explains 'book' as arrange its use in advance.",
       "rationales": {
-        "Write about the room in a book": "Book is a verb here, and the purpose is to secure future use.",
+        "Write about the room in a book": "'Book' is a verb here, and the purpose is to secure future use.",
         "Pay for repairs to the room": "Nothing is broken; the sentence concerns availability for the meeting.",
-        "Reserve the room": "Having the room kept for the group explains book as arrange its use in advance.",
+        "Reserve the room": "Having the room kept for the group explains 'book' as arrange its use in advance.",
         "Enter the room immediately": "The meeting is next week; booking now is not entering now."
       },
       "audit": {
@@ -1161,12 +1161,12 @@
         "A queue of people waiting their turn"
       ],
       "answer": "A queue of people waiting their turn",
-      "explanation": "Joining behind the last person establishes line as an ordered queue at the counter.",
+      "explanation": "Joining behind the last person establishes 'line' as an ordered queue at the counter.",
       "rationales": {
         "A train route shown on a map": "The context describes waiting people at a counter, not a rail route.",
         "A row of words on a ticket": "People are waiting in order; no written text is being described.",
         "A mark on the floor that needs repair": "The speaker joins people, not a damaged physical mark.",
-        "A queue of people waiting their turn": "Joining behind the last person establishes line as an ordered queue at the counter."
+        "A queue of people waiting their turn": "Joining behind the last person establishes 'line' as an ordered queue at the counter."
       },
       "audit": {
         "status": "reviewed",
@@ -1192,12 +1192,12 @@
         "Change your decision about"
       ],
       "answer": "Be bothered by",
-      "explanation": "The assistant checks whether waiting would bother you; mind takes the activity waiting as its object.",
+      "explanation": "The assistant checks whether waiting would bother you; 'mind' takes the activity 'waiting' as its object.",
       "rationales": {
-        "Be bothered by": "The assistant checks whether waiting would bother you; mind takes the activity waiting as its object.",
+        "Be bothered by": "The assistant checks whether waiting would bother you; 'mind' takes the activity 'waiting' as its object.",
         "Remember to do": "The question is about your reaction to waiting, not your memory of an instruction.",
-        "Take care of someone": "No person is named for you to supervise; waiting is the activity being checked.",
-        "Change your decision about": "Mind here is a verb meaning object to, not the noun in change your mind."
+        "Take care of someone": "No person is named for you to supervise; 'waiting' is the activity being checked.",
+        "Change your decision about": "'Mind' here is a verb meaning object to, not the noun in 'change your mind'."
       },
       "audit": {
         "status": "reviewed",
@@ -1254,11 +1254,11 @@
         "Influence or change"
       ],
       "answer": "Influence or change",
-      "explanation": "Affect means have an influence on; the different transfer is a possible change, without an implied benefit or harm.",
+      "explanation": "'Affect' means have an influence on; the different transfer is a possible change, without an implied benefit or harm.",
       "rationales": {
         "Prevent me from making": "Needing a different transfer does not prevent the journey.",
-        "Influence or change": "Affect means have an influence on; the different transfer is a possible change, without an implied benefit or harm.",
-        "Make more convenient": "Affect does not itself mean improve, and convenience is not established.",
+        "Influence or change": "'Affect' means have an influence on; the different transfer is a possible change, without an implied benefit or harm.",
+        "Make more convenient": "'Affect' does not itself mean 'improve', and convenience is not established.",
         "Make more expensive": "A route can affect a journey without changing its cost; no fare change is stated."
       },
       "audit": {
@@ -1347,11 +1347,11 @@
         "Completed the address checks"
       ],
       "answer": "Gave special importance to checking addresses",
-      "explanation": "Emphasize means give special importance to something; repeating the point directs particular attention to it.",
+      "explanation": "'Emphasize' means give special importance to something; repeating the point directs particular attention to it.",
       "rationales": {
         "Changed the addresses on the forms": "The supervisor stressed a need; no address corrections are reported.",
         "Demonstrated how to check addresses": "Repeating the need for checks is not a demonstration of the procedure.",
-        "Gave special importance to checking addresses": "Emphasize means give special importance to something; repeating the point directs particular attention to it.",
+        "Gave special importance to checking addresses": "'Emphasize' means give special importance to something; repeating the point directs particular attention to it.",
         "Completed the address checks": "Stressing the need for an action does not mean performing it."
       },
       "audit": {
@@ -1471,11 +1471,11 @@
         "Brought a worry or problem into the discussion"
       ],
       "answer": "Brought a worry or problem into the discussion",
-      "explanation": "Raise a concern means introduce an issue for attention; Priya's question puts access before the group.",
+      "explanation": "'Raise a concern' means introduce an issue for attention; Priya's question puts access before the group.",
       "rationales": {
         "Suggested a solution to the doorway problem": "Priya asks how deliveries will get through; she does not offer a solution.",
         "Established that deliveries were impossible": "Asking about access does not establish that delivery cannot happen.",
-        "Brought a worry or problem into the discussion": "Raise a concern means introduce an issue for attention; Priya's question puts access before the group.",
+        "Brought a worry or problem into the discussion": "'Raise a concern' means introduce an issue for attention; Priya's question puts access before the group.",
         "Increased the group's anxiety about deliveries": "The phrase identifies the act of mentioning the concern, not its emotional effect on listeners."
       },
       "audit": {
@@ -1568,7 +1568,7 @@
       "rationales": {
         "Is the rule that visitors must follow": "A restriction applying to a group governs that group's parking in this context.",
         "Was written by the visitors": "Applies to identifies who is covered, not who wrote the rule.",
-        "Is a request from visitors for more parking": "Apply can refer to making a request elsewhere, but here a restriction is the subject.",
+        "Is a request from visitors for more parking": "'Apply' can refer to making a request elsewhere, but here a restriction is the subject.",
         "Will be sent only to visitors who ask for it": "The phrase concerns the rule's scope, not how a notice is distributed."
       },
       "audit": {
@@ -1600,7 +1600,7 @@
         "Physically carries": "Complaints are cases managed through actions, not objects carried by hand.",
         "Creates": "The team responds to complaints rather than causing or writing them for customers.",
         "Deals with and manages": "The listed activities describe managing cases; the final sentence shows handling does not necessarily mean completing a solution.",
-        "Has fully resolved": "Some cases remain open, so handles does not mean every problem is already solved."
+        "Has fully resolved": "Some cases remain open, so 'handles' does not mean every problem is already solved."
       },
       "audit": {
         "status": "reviewed",
@@ -1719,11 +1719,11 @@
         "Lee chose not to accept the offer."
       ],
       "answer": "Lee chose not to accept the offer.",
-      "explanation": "Accepting another job supports decline as reject or not accept. The verb alone does not tell us Lee's exact tone.",
+      "explanation": "Accepting another job supports 'decline' as reject or not accept. The verb alone does not tell us Lee's exact tone.",
       "rationales": {
         "Lee asked for a lower salary.": "The offer was not accepted; the sentence does not report salary negotiation.",
         "The company withdrew the position.": "Lee is the person who declines; the action is not the company's withdrawal.",
-        "Lee chose not to accept the offer.": "Accepting another job supports decline as reject or not accept. The verb alone does not tell us Lee's exact tone.",
+        "Lee chose not to accept the offer.": "Accepting another job supports 'decline' as reject or not accept. The verb alone does not tell us Lee's exact tone.",
         "Lee postponed deciding about the offer.": "The sentence reports refusal and acceptance elsewhere, not an undecided delay."
       },
       "audit": {
@@ -1812,10 +1812,10 @@
         "Check whether the entrance has moved"
       ],
       "answer": "Notice and remember the information",
-      "explanation": "Please note asks readers to pay attention to information they will need, here the new entrance location.",
+      "explanation": "'Please note' asks readers to pay attention to information they will need, here the new entrance location.",
       "rationales": {
-        "Notice and remember the information": "Please note asks readers to pay attention to information they will need, here the new entrance location.",
-        "Write down a complaint about the entrance": "Note requests attention here, not the production of a written complaint.",
+        "Notice and remember the information": "'Please note' asks readers to pay attention to information they will need, here the new entrance location.",
+        "Write down a complaint about the entrance": "'Note' requests attention here, not the production of a written complaint.",
         "Explain why the doorway was closed": "The notice supplies a change but does not ask readers to explain it.",
         "Check whether the entrance has moved": "The move is presented as information to register, not a claim readers must investigate."
       },
@@ -1874,10 +1874,10 @@
         "Caused for the first time"
       ],
       "answer": "Took up for consideration",
-      "explanation": "Addressing concerns means dealing with or giving attention to them; it need not mean completing a solution.",
+      "explanation": "'Addressing concerns' means dealing with or giving attention to them; it need not mean completing a solution.",
       "rationales": {
         "Made disappear": "The remaining need for action shows that the concerns were not all removed.",
-        "Took up for consideration": "Addressing concerns means dealing with or giving attention to them; it need not mean completing a solution.",
+        "Took up for consideration": "'Addressing concerns' means dealing with or giving attention to them; it need not mean completing a solution.",
         "Sent to a different address": "The object concerns refers to issues being discussed, not mail being delivered.",
         "Caused for the first time": "The meeting responded to existing concerns rather than necessarily creating them."
       },
@@ -1907,7 +1907,7 @@
       "answer": "Officially provides",
       "explanation": "The office supplies an authorized membership card after the approval step.",
       "rationales": {
-        "Raises a question about": "Issue can be a noun for a problem, but the verb here concerns supplying a card.",
+        "Raises a question about": "'Issue' can be a noun for a problem, but the verb here concerns supplying a card.",
         "Withdraws from use": "The card is given after approval, not taken out of use.",
         "Requests permission to inspect": "Approval has occurred; issuing is the office's next action, not an inspection request.",
         "Officially provides": "The office supplies an authorized membership card after the approval step."
@@ -2033,7 +2033,7 @@
       "rationales": {
         "Guarantees that the panel will select her": "The selection is still open; qualification is not appointment.",
         "Requires her to accept the role": "Eligibility does not oblige her to apply or accept.",
-        "Restricts the claims she can make about training": "Qualify can mean limit a statement, but the object her and the application context concern eligibility.",
+        "Restricts the claims she can make about training": "'Qualify' can mean limit a statement, but the object 'her' and the application context concern eligibility.",
         "Makes her eligible to apply": "Her training meets the requirement for applying, while selection remains a separate decision."
       },
       "audit": {
@@ -2248,7 +2248,7 @@
       "answer": "Gave others an impression of confidence",
       "explanation": "Steady speech and calm answers conveyed confidence despite her private nervousness.",
       "rationales": {
-        "Predicted how confident she would feel later": "Projected can mean forecast, but here the actions concern the impression given to listeners.",
+        "Predicted how confident she would feel later": "'Projected' can mean forecast, but here the actions concern the impression given to listeners.",
         "Gave others an impression of confidence": "Steady speech and calm answers conveyed confidence despite her private nervousness.",
         "Discovered that she no longer felt nervous": "The sentence contrasts her feelings with her outward presentation rather than reporting a change in feelings.",
         "Asked the audience to be more confident": "The presenter conveyed a quality; she did not request that quality from the audience."
@@ -2308,9 +2308,9 @@
         "Adjust the arrangement to meet their needs"
       ],
       "answer": "Adjust the arrangement to meet their needs",
-      "explanation": "Moving the session makes participation more practical for overnight staff, so accommodate concerns adapting to their circumstances.",
+      "explanation": "Moving the session makes participation more practical for overnight staff, so 'accommodate' concerns adapting to their circumstances.",
       "rationales": {
-        "Adjust the arrangement to meet their needs": "Moving the session makes participation more practical for overnight staff, so accommodate concerns adapting to their circumstances.",
+        "Adjust the arrangement to meet their needs": "Moving the session makes participation more practical for overnight staff, so 'accommodate' concerns adapting to their circumstances.",
         "Provide overnight staff with somewhere to live": "The change concerns meeting time, not housing.",
         "Require staff to stop working overnight": "The session changes to fit their work pattern rather than requiring a new work pattern.",
         "Count how many staff worked overnight": "Rescheduling responds to their needs; no count is described."
@@ -2463,11 +2463,11 @@
         "She acted according to a firm belief about proper conduct."
       ],
       "answer": "She acted according to a firm belief about proper conduct.",
-      "explanation": "Her consistent rule about gifts from evaluated suppliers supplies the ethical basis expressed by on principle.",
+      "explanation": "Her consistent rule about gifts from evaluated suppliers supplies the ethical basis expressed by 'on principle'.",
       "rationales": {
         "She refused because the gift was too expensive to store.": "Her stated reason is a rule about impartiality, not practical storage or price.",
         "She refused before understanding what the gift was.": "The sentence explains a reason for refusal, not a lack of information about the gift.",
-        "She acted according to a firm belief about proper conduct.": "Her consistent rule about gifts from evaluated suppliers supplies the ethical basis expressed by on principle.",
+        "She acted according to a firm belief about proper conduct.": "Her consistent rule about gifts from evaluated suppliers supplies the ethical basis expressed by 'on principle'.",
         "She refused because the supplier had personally offended her.": "The explanation invokes a general rule rather than a personal grievance."
       },
       "audit": {
@@ -2525,11 +2525,11 @@
         "It amounts to a departure under the stated procedure."
       ],
       "answer": "It amounts to a departure under the stated procedure.",
-      "explanation": "Constitutes classifies the action as the departure itself, regardless of whether the outcome is sensible.",
+      "explanation": "'Constitutes' classifies the action as the departure itself, regardless of whether the outcome is sensible.",
       "rationales": {
-        "It is evidence suggesting that a later departure might occur.": "Constitutes identifies the action itself as a departure rather than evidence of a different future event.",
+        "It is evidence suggesting that a later departure might occur.": "'Constitutes' identifies the action itself as a departure rather than evidence of a different future event.",
         "It causes a departure only when the decision is unwise.": "The final clause separates procedural status from the wisdom of the decision.",
-        "It amounts to a departure under the stated procedure.": "Constitutes classifies the action as the departure itself, regardless of whether the outcome is sensible.",
+        "It amounts to a departure under the stated procedure.": "'Constitutes' classifies the action as the departure itself, regardless of whether the outcome is sensible.",
         "It compensates for a departure elsewhere in the procedure.": "The verb assigns a category; it does not describe compensation for another error."
       },
       "audit": {
@@ -2556,12 +2556,12 @@
         "Engaged her professional services"
       ],
       "answer": "Engaged her professional services",
-      "explanation": "Retaining a professional means securing their services for a purpose; it need not mean adding them as a permanent employee.",
+      "explanation": "'Retaining a professional' means securing their services for a purpose; it need not mean adding them as a permanent employee.",
       "rationales": {
         "Kept her in an existing permanent position": "The account expressly distinguishes the arrangement from permanent employment.",
         "Preserved copies of her architectural plans": "The person, not her plans, is the object of retained.",
         "Prevented her from accepting any other clients": "The sentence states engagement for advice, not an exclusive restriction on other work.",
-        "Engaged her professional services": "Retaining a professional means securing their services for a purpose; it need not mean adding them as a permanent employee."
+        "Engaged her professional services": "'Retaining a professional' means securing their services for a purpose; it need not mean adding them as a permanent employee."
       },
       "audit": {
         "status": "reviewed",
@@ -2587,10 +2587,10 @@
         "Removed from consideration"
       ],
       "answer": "Gave less weight to",
-      "explanation": "Discounting the estimate means reducing its evidential weight; the final clause rules out complete dismissal here.",
+      "explanation": "'Discounting the estimate' means reducing its evidential weight; the final clause rules out complete dismissal here.",
       "rationales": {
         "Reduced the amount the witness would be paid": "The object is an estimate assessed as evidence, not a fee.",
-        "Gave less weight to": "Discounting the estimate means reducing its evidential weight; the final clause rules out complete dismissal here.",
+        "Gave less weight to": "'Discounting the estimate' means reducing its evidential weight; the final clause rules out complete dismissal here.",
         "Accepted as a reliable minimum": "No numerical lower bound is established by discounting a memory-based estimate.",
         "Removed from consideration": "The panel did not disregard it entirely, so complete exclusion is too strong."
       },
@@ -2649,11 +2649,11 @@
         "Conversion would provide the reason the database had already been adopted."
       ],
       "answer": "Conversion would be required as part of adopting the database.",
-      "explanation": "Entail identifies a necessary part or consequence of the proposed change; keeping originals does not remove that requirement.",
+      "explanation": "'Entail' identifies a necessary part or consequence of the proposed change; keeping originals does not remove that requirement.",
       "rationales": {
-        "Conversion would become an optional benefit of adoption.": "Entail presents conversion as something adoption involves or requires, not an optional benefit.",
+        "Conversion would become an optional benefit of adoption.": "'Entail' presents conversion as something adoption involves or requires, not an optional benefit.",
         "Keeping the originals would make adoption unnecessary.": "Retaining reference copies is allowed but is not said to remove the need for the new system.",
-        "Conversion would be required as part of adopting the database.": "Entail identifies a necessary part or consequence of the proposed change; keeping originals does not remove that requirement.",
+        "Conversion would be required as part of adopting the database.": "'Entail' identifies a necessary part or consequence of the proposed change; keeping originals does not remove that requirement.",
         "Conversion would provide the reason the database had already been adopted.": "Adoption is hypothetical, and conversion is its requirement rather than a reported past reason."
       },
       "audit": {
@@ -2680,12 +2680,12 @@
         "The agreement requires full publication with names removed."
       ],
       "answer": "Publishing the interviews in full is ruled out by the agreement.",
-      "explanation": "Precludes means prevents or rules out the specified action; the summary permission shows that the restriction is not a ban on all reporting.",
+      "explanation": "'Precludes' means prevents or rules out the specified action; the summary permission shows that the restriction is not a ban on all reporting.",
       "rationales": {
         "Full publication is delayed until the summary appears.": "Precludes rules out full publication under the agreement; no temporary delay is stated.",
         "Full publication is less desirable than a summary but still permitted.": "The verb expresses exclusion, not a preference among permitted options.",
         "The agreement requires full publication with names removed.": "An anonymized summary is allowed, which is different from full publication being required.",
-        "Publishing the interviews in full is ruled out by the agreement.": "Precludes means prevents or rules out the specified action; the summary permission shows that the restriction is not a ban on all reporting."
+        "Publishing the interviews in full is ruled out by the agreement.": "'Precludes' means prevents or rules out the specified action; the summary permission shows that the restriction is not a ban on all reporting."
       },
       "audit": {
         "status": "reviewed",
@@ -2715,7 +2715,7 @@
       "rationales": {
         "Revisions that make the document substantially longer": "A change to eligibility affects content even if the document becomes no longer.",
         "Revisions affecting the underlying content or rules": "Changing who is eligible changes the substance of the instructions, unlike polishing their expression.",
-        "Revisions approved through the publisher's formal procedure": "Substantive identifies the kind of change, not the procedure used to approve it.",
+        "Revisions approved through the publisher's formal procedure": "'Substantive' identifies the kind of change, not the procedure used to approve it.",
         "Revisions limited to the document's physical presentation": "The requested change concerns the criteria themselves rather than layout or printing."
       },
       "audit": {
@@ -2742,9 +2742,9 @@
         "Was interpreted as"
       ],
       "answer": "Was interpreted as",
-      "explanation": "Construe as describes the meaning others assigned to the silence; the later explanation shows this need not match her intention.",
+      "explanation": "'Construe as' describes the meaning others assigned to the silence; the later explanation shows this need not match her intention.",
       "rationales": {
-        "Was interpreted as": "Construe as describes the meaning others assigned to the silence; the later explanation shows this need not match her intention.",
+        "Was interpreted as": "'Construe as' describes the meaning others assigned to the silence; the later explanation shows this need not match her intention.",
         "Was deliberately intended as": "The later explanation undermines an intention to signal agreement; construe concerns interpretation.",
         "Was required as a condition of": "The silence is being read as agreement, not imposed as a prerequisite.",
         "Was proved to be": "An interpretation may be mistaken, so construed does not establish proof of actual agreement."
@@ -2775,7 +2775,7 @@
       "answer": "Important enough to affect the outcome",
       "explanation": "The error changes the top-ranked applicant, making it consequential despite its small written size.",
       "rationales": {
-        "Printed on a physical document": "Material can refer to physical substance, but the ranking consequence establishes a significance judgment.",
+        "Printed on a physical document": "'Material' can refer to physical substance, but the ranking consequence establishes a significance judgment.",
         "Large in the number of characters affected": "Only two digits were involved, so size on the page is not the intended criterion.",
         "Important enough to affect the outcome": "The error changes the top-ranked applicant, making it consequential despite its small written size.",
         "Made intentionally to favor an applicant": "A consequential error is not necessarily deliberate; intent is not stated."
@@ -2932,7 +2932,7 @@
       "rationales": {
         "Identifies the exhibition as the place where the technique was invented": "The earlier decades of use exclude that interpretation.",
         "Pays the exhibition organizers for each use of the technique": "Credit here is recognition of a contribution, not a payment arrangement.",
-        "Claims that the technique became popular only among touring artists": "Touring describes the exhibition, not a restricted group of users.",
+        "Claims that the technique became popular only among touring artists": "'Touring' describes the exhibition, not a restricted group of users.",
         "Recognizes the exhibition as contributing to the technique becoming widely known": "The curator assigns credit for wider popularity while distinguishing that achievement from invention."
       },
       "audit": {
@@ -2990,9 +2990,9 @@
         "Brought about"
       ],
       "answer": "Brought about",
-      "explanation": "The signed compromise is an achieved outcome; effect as a verb means cause something to happen.",
+      "explanation": "The signed compromise is an achieved outcome; 'effect' as a verb means cause something to happen.",
       "rationales": {
-        "Brought about": "The signed compromise is an achieved outcome; effect as a verb means cause something to happen.",
+        "Brought about": "The signed compromise is an achieved outcome; 'effect' as a verb means cause something to happen.",
         "Influenced without necessarily achieving": "That is closer to affect; the sentence reports that a compromise was brought about and signed.",
         "Explained why a compromise would be useful": "The negotiators achieved an agreement rather than merely explaining its value.",
         "Recorded a compromise made by someone else": "The verb credits them with bringing about the outcome, not simply documenting it."
@@ -3114,10 +3114,10 @@
         "They give the account an evidential basis."
       ],
       "answer": "They give the account an evidential basis.",
-      "explanation": "Substantiate means support a claim with evidence; it does not by itself explain its causes or improve its wording.",
+      "explanation": "'Substantiate' means support a claim with evidence; it does not by itself explain its causes or improve its wording.",
       "rationales": {
-        "They give the account a more specific formulation.": "Substantiate supplies evidential backing, not merely detail or precision in wording.",
-        "They give the account an evidential basis.": "Substantiate means support a claim with evidence; it does not by itself explain its causes or improve its wording.",
+        "They give the account a more specific formulation.": "'Substantiate' supplies evidential backing, not merely detail or precision in wording.",
+        "They give the account an evidential basis.": "'Substantiate' means support a claim with evidence; it does not by itself explain its causes or improve its wording.",
         "They trace the account's origin to an earlier statement.": "Tracing provenance identifies where an account came from, not whether evidence supports it.",
         "They make the account internally consistent.": "Internal consistency concerns relations within the account; substantiation concerns evidence for it."
       },
@@ -3145,12 +3145,12 @@
         "It makes manual adjustment easier to perform."
       ],
       "answer": "It makes manual adjustment unnecessary.",
-      "explanation": "Obviate the need means remove the need, not merely make an action easier or postpone it.",
+      "explanation": "'Obviate the need' means remove the need, not merely make an action easier or postpone it.",
       "rationales": {
         "It makes manual adjustment inadmissible.": "Obviating a need does not prohibit the action; an unnecessary action may remain permitted.",
         "It makes manual adjustment less urgent.": "Removing necessity is stronger than lowering urgency while leaving the action required.",
         "It makes manual adjustment easier to perform.": "Facilitating an action reduces its difficulty; obviating the need removes its necessity.",
-        "It makes manual adjustment unnecessary.": "Obviate the need means remove the need, not merely make an action easier or postpone it."
+        "It makes manual adjustment unnecessary.": "'Obviate the need' means remove the need, not merely make an action easier or postpone it."
       },
       "audit": {
         "status": "reviewed",
@@ -3176,9 +3176,9 @@
         "The staff's estimate of the delays became more accurate."
       ],
       "answer": "The delay problem became less severe.",
-      "explanation": "Ameliorate means improve an undesirable condition. The named improvement is to delays; other costs or consequences remain unspecified.",
+      "explanation": "'Ameliorate' means improve an undesirable condition. The named improvement is to delays; other costs or consequences remain unspecified.",
       "rationales": {
-        "The delay problem became less severe.": "Ameliorate means improve an undesirable condition. The named improvement is to delays; other costs or consequences remain unspecified.",
+        "The delay problem became less severe.": "'Ameliorate' means improve an undesirable condition. The named improvement is to delays; other costs or consequences remain unspecified.",
         "The causes of the delays became clearer.": "Diagnosing a problem can clarify causes without improving the condition; ameliorate asserts improvement.",
         "The delays became more predictable.": "Greater predictability can help planning without reducing the severity of delays.",
         "The staff's estimate of the delays became more accurate.": "Improving measurement is different from improving the problem measured."
@@ -3207,11 +3207,11 @@
         "Its judgments should not be driven by strong feeling."
       ],
       "answer": "Its judgments should not be driven by strong feeling.",
-      "explanation": "Dispassionate means not influenced by strong emotion; it allows reasoned judgments and discussion of others' emotions.",
+      "explanation": "'Dispassionate' means not influenced by strong emotion; it allows reasoned judgments and discussion of others' emotions.",
       "rationales": {
         "It should avoid taking a position on disputed evidence.": "A dispassionate account can judge evidence; it need not suspend judgment.",
         "It should omit the participants' emotional experiences.": "Emotions can be relevant subject matter even when the narration is dispassionate.",
-        "Its judgments should not be driven by strong feeling.": "Dispassionate means not influenced by strong emotion; it allows reasoned judgments and discussion of others' emotions.",
+        "Its judgments should not be driven by strong feeling.": "'Dispassionate' means not influenced by strong emotion; it allows reasoned judgments and discussion of others' emotions.",
         "Its author should have no specialist interest in the subject.": "Emotional restraint does not require lack of expertise or interest."
       },
       "audit": {
@@ -3238,10 +3238,10 @@
         "The chair exempted the reviewers from preserving anonymity."
       ],
       "answer": "The chair firmly instructed the reviewers to preserve anonymity.",
-      "explanation": "Enjoin someone to do something means firmly direct that action. The to-complement identifies what must be done.",
+      "explanation": "'Enjoin someone to do something' means firmly direct that action. The to-complement identifies what must be done.",
       "rationales": {
         "The chair secured the reviewers' permission to preserve anonymity.": "Enjoining directs the reviewers' conduct; it does not obtain permission from them.",
-        "The chair firmly instructed the reviewers to preserve anonymity.": "Enjoin someone to do something means firmly direct that action. The to-complement identifies what must be done.",
+        "The chair firmly instructed the reviewers to preserve anonymity.": "'Enjoin someone to do something' means firmly direct that action. The to-complement identifies what must be done.",
         "The chair commended the reviewers for preserving anonymity.": "Commend evaluates conduct favorably; enjoin directs conduct.",
         "The chair exempted the reviewers from preserving anonymity.": "Enjoin ... to imposes the instruction rather than releasing someone from it."
       },
@@ -3269,12 +3269,12 @@
         "The burden explains why retention was selected previously."
       ],
       "answer": "The burden is a consideration weighing against retention.",
-      "explanation": "Militate against means count or exert influence against something; competing considerations may still favor it.",
+      "explanation": "'Militate against' means count or exert influence against something; competing considerations may still favor it.",
       "rationales": {
         "The burden is a difficulty that retaining it would alleviate.": "This confuses militate with mitigate: the burden weighs against retention rather than being eased by it.",
-        "The burden is a sufficient basis for ruling retention out.": "Militates against identifies an adverse consideration, not necessarily a decisive one.",
+        "The burden is a sufficient basis for ruling retention out.": "'Militates against' identifies an adverse consideration, not necessarily a decisive one.",
         "The burden explains why retention was selected previously.": "The phrase weighs negatively on the proposed retention; it does not supply a past decision's rationale.",
-        "The burden is a consideration weighing against retention.": "Militate against means count or exert influence against something; competing considerations may still favor it."
+        "The burden is a consideration weighing against retention.": "'Militate against' means count or exert influence against something; competing considerations may still favor it."
       },
       "audit": {
         "status": "reviewed",
@@ -3300,9 +3300,9 @@
         "Tracing the historical origin of the distinction"
       ],
       "answer": "Subjecting an apparently straightforward distinction to critical scrutiny",
-      "explanation": "Problematize means make something an object of critical inquiry, exposing questions or complications in what may have seemed settled.",
+      "explanation": "'Problematize' means make something an object of critical inquiry, exposing questions or complications in what may have seemed settled.",
       "rationales": {
-        "Subjecting an apparently straightforward distinction to critical scrutiny": "Problematize means make something an object of critical inquiry, exposing questions or complications in what may have seemed settled.",
+        "Subjecting an apparently straightforward distinction to critical scrutiny": "'Problematize' means make something an object of critical inquiry, exposing questions or complications in what may have seemed settled.",
         "Giving a disputed distinction a more operational definition": "Operational definition makes terms usable for a procedure; problematizing opens them to scrutiny and need not settle their use.",
         "Recommending that the distinction be removed from the analysis": "Questioning a distinction is not necessarily a recommendation to abandon it.",
         "Tracing the historical origin of the distinction": "Historical tracing may contribute to problematization, but it is not what the verb itself specifies."
@@ -3331,11 +3331,11 @@
         "The procedure revises the principle to fit institutional conditions."
       ],
       "answer": "The procedure embodies the principle in a concrete arrangement.",
-      "explanation": "Instantiate means give a general idea a particular instance; embodiment is different from proving or deriving the idea.",
+      "explanation": "'Instantiate' means give a general idea a particular instance; embodiment is different from proving or deriving the idea.",
       "rationales": {
         "The procedure supplies the justification for adopting the principle.": "An instance realizes a principle; it need not justify adopting it.",
         "The procedure establishes the historical source of the principle.": "Instantiation concerns embodiment, not historical origin.",
-        "The procedure embodies the principle in a concrete arrangement.": "Instantiate means give a general idea a particular instance; embodiment is different from proving or deriving the idea.",
+        "The procedure embodies the principle in a concrete arrangement.": "'Instantiate' means give a general idea a particular instance; embodiment is different from proving or deriving the idea.",
         "The procedure revises the principle to fit institutional conditions.": "Adapting or revising a principle changes it; instantiating presents a case of it."
       },
       "audit": {
@@ -3362,10 +3362,10 @@
         "They set bounds on the choices the panel may make."
       ],
       "answer": "They set bounds on the choices the panel may make.",
-      "explanation": "Circumscribe means restrict within limits; it need not determine a single outcome or prescribe a justification procedure.",
+      "explanation": "'Circumscribe' means restrict within limits; it need not determine a single outcome or prescribe a justification procedure.",
       "rationales": {
-        "They specify how the panel must justify each choice.": "Procedural accountability may accompany limits, but circumscribe concerns the range of discretion.",
-        "They set bounds on the choices the panel may make.": "Circumscribe means restrict within limits; it need not determine a single outcome or prescribe a justification procedure.",
+        "They specify how the panel must justify each choice.": "Procedural accountability may accompany limits, but 'circumscribe' concerns the range of discretion.",
+        "They set bounds on the choices the panel may make.": "'Circumscribe' means restrict within limits; it need not determine a single outcome or prescribe a justification procedure.",
         "They describe how the panel has exercised its discretion.": "Description reports past practice; circumscription constrains the available scope.",
         "They transfer the panel's discretion to a different authority.": "Limiting authority is distinct from assigning it to someone else."
       },
@@ -3393,12 +3393,12 @@
         "It makes the comparison's presentation less transparent."
       ],
       "answer": "It compromises the comparison's validity.",
-      "explanation": "Vitiate means spoil or impair validity. A compromised comparison does not thereby establish the opposite conclusion.",
+      "explanation": "'Vitiate' means spoil or impair validity. A compromised comparison does not thereby establish the opposite conclusion.",
       "rationales": {
         "It makes the comparison harder to reproduce.": "Reproducibility may be affected by a method, but vitiate specifically attacks validity or soundness.",
         "It narrows the range of cases addressed by the comparison.": "A narrower scope can remain valid; vitiate asserts a defect in validity, not simply coverage.",
         "It makes the comparison's presentation less transparent.": "Clarity of presentation is distinct from the soundness attacked by vitiate.",
-        "It compromises the comparison's validity.": "Vitiate means spoil or impair validity. A compromised comparison does not thereby establish the opposite conclusion."
+        "It compromises the comparison's validity.": "'Vitiate' means spoil or impair validity. A compromised comparison does not thereby establish the opposite conclusion."
       },
       "audit": {
         "status": "reviewed",
@@ -3424,9 +3424,9 @@
         "Brought it forward as evidence"
       ],
       "answer": "Brought it forward as evidence",
-      "explanation": "Adduce means introduce or cite something as evidence. It does not itself authenticate the source or explain how it was obtained.",
+      "explanation": "'Adduce' means introduce or cite something as evidence. It does not itself authenticate the source or explain how it was obtained.",
       "rationales": {
-        "Brought it forward as evidence": "Adduce means introduce or cite something as evidence. It does not itself authenticate the source or explain how it was obtained.",
+        "Brought it forward as evidence": "'Adduce' means introduce or cite something as evidence. It does not itself authenticate the source or explain how it was obtained.",
         "Established its documentary authenticity": "Authentication establishes whether a document is genuine; adducing uses it evidentially.",
         "Supplied an interpretation of its ambiguous wording": "Interpretation explains meaning; adducing identifies the letter's evidential use, not an act of interpretation.",
         "Inferred its existence from the surviving correspondence": "Inference reconstructs what may exist; adducing brings material forward in an argument."
@@ -3486,10 +3486,10 @@
         "It reduces a complex concept to a single explanatory cause."
       ],
       "answer": "It treats an abstraction as though it were a concrete entity.",
-      "explanation": "Reify means give an abstraction the status of a concrete thing, rather than simply using examples or studying its origins.",
+      "explanation": "'Reify' means give an abstraction the status of a concrete thing, rather than simply using examples or studying its origins.",
       "rationales": {
         "It uses particular people to illustrate a general concept.": "Concrete illustration can retain a concept's abstract status; reification treats the abstraction itself as a thing.",
-        "It treats an abstraction as though it were a concrete entity.": "Reify means give an abstraction the status of a concrete thing, rather than simply using examples or studying its origins.",
+        "It treats an abstraction as though it were a concrete entity.": "'Reify' means give an abstraction the status of a concrete thing, rather than simply using examples or studying its origins.",
         "It attributes a present-day concept to people in an earlier period.": "That is a charge of historical projection; it need not involve reification.",
         "It reduces a complex concept to a single explanatory cause.": "Reduction to one cause is not identical to treating a concept as an independently existing thing."
       },
@@ -3517,12 +3517,12 @@
         "The revision establishes that the earlier scheme was invalid when introduced."
       ],
       "answer": "The revision takes the earlier scheme's place as the operative scheme.",
-      "explanation": "Supersede means replace in a role. It says nothing by itself about destroying earlier editions or invalidating their historical use.",
+      "explanation": "'Supersede' means replace in a role. It says nothing by itself about destroying earlier editions or invalidating their historical use.",
       "rationales": {
         "The revision corrects errors while retaining the earlier scheme as authoritative.": "Correction alone can leave an earlier authority intact; supersede assigns its role to a replacement.",
         "The revision supplements the earlier scheme with an equally authoritative alternative.": "Supplementation adds alongside; supersession replaces in the relevant role.",
         "The revision establishes that the earlier scheme was invalid when introduced.": "Current replacement does not entail retrospective invalidity.",
-        "The revision takes the earlier scheme's place as the operative scheme.": "Supersede means replace in a role. It says nothing by itself about destroying earlier editions or invalidating their historical use."
+        "The revision takes the earlier scheme's place as the operative scheme.": "'Supersede' means replace in a role. It says nothing by itself about destroying earlier editions or invalidating their historical use."
       },
       "audit": {
         "status": "reviewed",
@@ -3548,9 +3548,9 @@
         "The association was expressed on a different measurement scale."
       ],
       "answer": "The estimated association was reduced in strength.",
-      "explanation": "Attenuate means weaken or reduce in strength. It does not itself specify improved precision, narrower scope, or a causal explanation.",
+      "explanation": "'Attenuate' means weaken or reduce in strength. It does not itself specify improved precision, narrower scope, or a causal explanation.",
       "rationales": {
-        "The estimated association was reduced in strength.": "Attenuate means weaken or reduce in strength. It does not itself specify improved precision, narrower scope, or a causal explanation.",
+        "The estimated association was reduced in strength.": "'Attenuate' means weaken or reduce in strength. It does not itself specify improved precision, narrower scope, or a causal explanation.",
         "The association was estimated with greater precision.": "Precision concerns uncertainty around an estimate; attenuation concerns the association's strength.",
         "The association was restricted to a narrower group of participants.": "Restriction of scope concerns whom the finding covers, not its strength.",
         "The association was expressed on a different measurement scale.": "A scale conversion changes representation; attenuation asserts weakening rather than mere re-expression."
@@ -3579,11 +3579,11 @@
         "It supplies a revised sequence that replaces the oral account."
       ],
       "answer": "It supplies additional evidence supporting the sequence.",
-      "explanation": "Corroborate means support or confirm through additional evidence. Support is a legitimate paraphrase; the target concerns an evidential relationship.",
+      "explanation": "'Corroborate' means support or confirm through additional evidence. 'Support' is a legitimate paraphrase; the target concerns an evidential relationship.",
       "rationales": {
         "It supplies background that makes the sequence easier to understand.": "Explanatory context can aid understanding without confirming the sequence; corroboration provides support.",
         "It supplies missing stages that make the sequence more complete.": "Supplementing an account's contents is distinct from confirming what it says.",
-        "It supplies additional evidence supporting the sequence.": "Corroborate means support or confirm through additional evidence. Support is a legitimate paraphrase; the target concerns an evidential relationship.",
+        "It supplies additional evidence supporting the sequence.": "'Corroborate' means support or confirm through additional evidence. 'Support' is a legitimate paraphrase; the target concerns an evidential relationship.",
         "It supplies a revised sequence that replaces the oral account.": "Corroboration supports the account rather than superseding it with a revised version."
       },
       "audit": {
@@ -3610,10 +3610,10 @@
         "A return is the preferred longer-term outcome."
       ],
       "answer": "A return remains an available option.",
-      "explanation": "Does not foreclose means does not rule out. Availability alone establishes neither intention nor likelihood.",
+      "explanation": "'Does not foreclose' means 'does not rule out'. Availability alone establishes neither intention nor likelihood.",
       "rationales": {
         "A return has been scheduled for the interim period's end.": "Not ruling out an option does not schedule it.",
-        "A return remains an available option.": "Does not foreclose means does not rule out. Availability alone establishes neither intention nor likelihood.",
+        "A return remains an available option.": "'Does not foreclose' means 'does not rule out'. Availability alone establishes neither intention nor likelihood.",
         "A return has received the authorization required for implementation.": "Leaving an option open does not itself complete an approval process.",
         "A return is the preferred longer-term outcome.": "Preserving an option does not rank it above alternatives."
       },
@@ -3641,12 +3641,12 @@
         "Continuity is an assumption on which the strategy is based."
       ],
       "answer": "Continuity is an assumption on which the strategy is based.",
-      "explanation": "Be predicated on means be founded on a premise or condition, not aimed at producing or proving it.",
+      "explanation": "'Be predicated on' means be founded on a premise or condition, not aimed at producing or proving it.",
       "rationales": {
         "Continuity is the outcome the strategy chiefly seeks to produce.": "A strategy's premise is different from its objective.",
-        "Continuity is the finding the strategy is designed to test.": "Testing a proposition leaves it as an object of investigation; being predicated on it uses it as a basis.",
+        "Continuity is the finding the strategy is designed to test.": "Testing a proposition leaves it as an object of investigation; 'being predicated on' it uses it as a basis.",
         "Continuity is a consequence used to assess the strategy retrospectively.": "A retrospective assessment criterion is not the assumption underlying the strategy.",
-        "Continuity is an assumption on which the strategy is based.": "Be predicated on means be founded on a premise or condition, not aimed at producing or proving it."
+        "Continuity is an assumption on which the strategy is based.": "'Be predicated on' means be founded on a premise or condition, not aimed at producing or proving it."
       },
       "audit": {
         "status": "reviewed",
@@ -3672,10 +3672,10 @@
         "They establish the historical origin of the reform proposal."
       ],
       "answer": "They lend additional support to the argument for reform.",
-      "explanation": "Buttress means reinforce or support. The verb identifies added argumentative strength, not a blueprint, a reformulation, or proof of a stronger conclusion.",
+      "explanation": "'Buttress' means reinforce or support. The verb identifies added argumentative strength, not a blueprint, a reformulation, or proof of a stronger conclusion.",
       "rationales": {
-        "They lend additional support to the argument for reform.": "Buttress means reinforce or support. The verb identifies added argumentative strength, not a blueprint, a reformulation, or proof of a stronger conclusion.",
-        "They make the proposed reform more concrete by specifying its operation.": "Operational detail can illustrate a proposal, but buttress concerns support for the case.",
+        "They lend additional support to the argument for reform.": "'Buttress' means reinforce or support. The verb identifies added argumentative strength, not a blueprint, a reformulation, or proof of a stronger conclusion.",
+        "They make the proposed reform more concrete by specifying its operation.": "Operational detail can illustrate a proposal, but 'buttress' concerns support for the case.",
         "They recast the argument for reform in more accessible terms.": "Restatement changes presentation; buttressing increases support.",
         "They establish the historical origin of the reform proposal.": "Provenance explains where a proposal came from, not why its case is stronger."
       },
@@ -3703,11 +3703,11 @@
         "It treats the difference as more consequential than it is."
       ],
       "answer": "It passes over the difference instead of maintaining it.",
-      "explanation": "Elide a distinction means omit or gloss over it, potentially making different statuses seem equivalent.",
+      "explanation": "'Elide a distinction' means omit or gloss over it, potentially making different statuses seem equivalent.",
       "rationales": {
         "It expresses the difference with greater economy.": "Economical explanation preserves a distinction; eliding passes over it.",
         "It interprets the difference more narrowly than the reviewer does.": "Narrowing a distinction is not the same as failing to maintain it.",
-        "It passes over the difference instead of maintaining it.": "Elide a distinction means omit or gloss over it, potentially making different statuses seem equivalent.",
+        "It passes over the difference instead of maintaining it.": "'Elide a distinction' means omit or gloss over it, potentially making different statuses seem equivalent.",
         "It treats the difference as more consequential than it is.": "That would exaggerate the distinction's importance; elision suppresses rather than enlarges it."
       },
       "audit": {

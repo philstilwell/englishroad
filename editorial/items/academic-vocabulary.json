@@ -479,12 +479,12 @@
         "the voices you can hear"
       ],
       "answer": "the voices you can hear",
-      "explanation": "Listening means paying attention to sound, here the recorded voices.",
+      "explanation": "'Listening' means paying attention to sound, here the recorded voices.",
       "rationales": {
         "the words on the next page": "The books are closed; this is not a reading task.",
         "your partner's written answer": "A written answer is something to read, not the recording named here.",
         "the pictures on the cover": "Pictures are visual; 'listen' directs attention to sound.",
-        "the voices you can hear": "Listening means paying attention to sound, here the recorded voices."
+        "the voices you can hear": "'Listening' means paying attention to sound, here the recorded voices."
       },
       "audit": {
         "status": "reviewed",
@@ -607,7 +607,7 @@
       "rationales": {
         "cleaning the rooms in our homes": "Cleaning is housework, not work set by a tutor.",
         "work we do for our employers": "Paid job tasks are work, but not homework set on this course.",
-        "a lesson taught in our homes": "Homework is a learner's task, not necessarily a lesson or something done at home.",
+        "a lesson taught in our homes": "'Homework' is a learner's task, not necessarily a lesson or something done at home.",
         "course work to do outside the lesson": "Homework is work set for learners to complete outside class; it can be done in a library too."
       },
       "audit": {
@@ -1530,7 +1530,7 @@
         "starts the comparison with a question",
         "finishes the lesson without giving a view",
         "reaches a judgment from the comparison",
-        "defines the word instructions"
+        "defines the word 'instructions'"
       ],
       "answer": "reaches a judgment from the comparison",
       "explanation": "'Conclude that' means reach a view after considering information or reasons.",
@@ -1538,7 +1538,7 @@
         "starts the comparison with a question": "The comparison precedes the judgment; 'concludes' names the resulting view.",
         "finishes the lesson without giving a view": "'Conclude' can mean 'finish', but 'concludes that' introduces a judgment here.",
         "reaches a judgment from the comparison": "'Conclude that' means reach a view after considering information or reasons.",
-        "defines the word instructions": "A definition explains a word; this statement judges the two versions."
+        "defines the word 'instructions'": "A definition explains a word; this statement judges the two versions."
       },
       "audit": {
         "status": "reviewed",
@@ -1626,10 +1626,10 @@
         "the way the parts are arranged"
       ],
       "answer": "the way the parts are arranged",
-      "explanation": "Structure is the organization of a text; moving explanation and examples changes that organization.",
+      "explanation": "'Structure' is the organization of a text; moving explanation and examples changes that organization.",
       "rationales": {
         "the spelling of individual words": "Spelling concerns word forms; the suggestion changes the order of parts.",
-        "the way the parts are arranged": "Structure is the organization of a text; moving explanation and examples changes that organization.",
+        "the way the parts are arranged": "'Structure' is the organization of a text; moving explanation and examples changes that organization.",
         "the subject being discussed": "The tutor keeps the ideas and changes their arrangement, not the topic.",
         "the size of the printed letters": "Print size concerns appearance rather than the order of the reasoning."
       },
@@ -1781,11 +1781,11 @@
         "The survey must contain too many questions."
       ],
       "answer": "Cyclists' experiences may be overrepresented.",
-      "explanation": "Bias here is an uneven selection that may distort the picture of the wider town.",
+      "explanation": "'Bias' here is an uneven selection that may distort the picture of the wider town.",
       "rationales": {
         "The answers must have been invented.": "A biased sample can contain honest answers; fabrication is a different problem.",
         "The club members could not understand the questions.": "No comprehension problem is described; the concern is who was included.",
-        "Cyclists' experiences may be overrepresented.": "Bias here is an uneven selection that may distort the picture of the wider town.",
+        "Cyclists' experiences may be overrepresented.": "'Bias' here is an uneven selection that may distort the picture of the wider town.",
         "The survey must contain too many questions.": "The number of questions is not the sampling issue described."
       },
       "audit": {
@@ -1806,18 +1806,18 @@
       "setupText": "Lena explains an author's idea in her own words and gives the author's name and the book details.",
       "taskText": "She cites the book but does not quote it. What is the distinction?",
       "options": [
-        "Citing means agreeing with the author.",
-        "Quoting means changing the author's wording.",
-        "Citing names a source; quoting reproduces its wording.",
-        "Citing means naming a source without using its ideas."
+        "'Citing' means agreeing with the author.",
+        "'Quoting' means changing the author's wording.",
+        "'Citing' names a source; 'quoting' reproduces its wording.",
+        "'Citing' means naming a source without using its ideas."
       ],
-      "answer": "Citing names a source; quoting reproduces its wording.",
+      "answer": "'Citing' names a source; 'quoting' reproduces its wording.",
       "explanation": "A citation points to a source, while a quotation reproduces wording from it.",
       "rationales": {
-        "Citing means agreeing with the author.": "A writer can cite a source while disagreeing with it.",
-        "Quoting means changing the author's wording.": "Quoting reproduces the original words rather than replaces them.",
-        "Citing means naming a source without using its ideas.": "A citation can acknowledge ideas used in the text, as Lena's does here.",
-        "Citing names a source; quoting reproduces its wording.": "A citation points to a source, while a quotation reproduces wording from it."
+        "'Citing' means agreeing with the author.": "A writer can cite a source while disagreeing with it.",
+        "'Quoting' means changing the author's wording.": "Quoting reproduces the original words rather than replaces them.",
+        "'Citing' means naming a source without using its ideas.": "A citation can acknowledge ideas used in the text, as Lena's does here.",
+        "'Citing' names a source; 'quoting' reproduces its wording.": "A citation points to a source, while a quotation reproduces wording from it."
       },
       "audit": {
         "status": "reviewed",
@@ -1838,7 +1838,7 @@
       "taskText": "A tutor says to use the context to understand 'bank'. What should the learner use?",
       "options": [
         "the surrounding words about the activity",
-        "the number of letters in bank",
+        "the number of letters in 'bank'",
         "the first meaning in any dictionary entry",
         "the typeface used to print bank"
       ],
@@ -1846,7 +1846,7 @@
       "explanation": "Context includes nearby language and the situation; rowing helps suggest a river bank here.",
       "rationales": {
         "the surrounding words about the activity": "Context includes nearby language and the situation; rowing helps suggest a river bank here.",
-        "the number of letters in bank": "Word length does not distinguish the place beside a river from a financial bank.",
+        "the number of letters in 'bank'": "Word length does not distinguish the place beside a river from a financial bank.",
         "the first meaning in any dictionary entry": "Dictionary order alone does not show which meaning fits this sentence.",
         "the typeface used to print bank": "Typeface does not explain the sense suggested by the activity."
       },
@@ -3015,18 +3015,18 @@
       "setupText": "The aggregate completion rate rose, although several individual courses saw their rates fall.",
       "taskText": "How can both parts be true?",
       "options": [
-        "Aggregate means the rate for the least successful course.",
-        "Aggregate describes the combined result, not every component.",
-        "Aggregate means a rate predicted for the following year.",
-        "Aggregate means the figures have been corrected for errors."
+        "'Aggregate' means the rate for the least successful course.",
+        "'Aggregate' describes the combined result, not every component.",
+        "'Aggregate' means a rate predicted for the following year.",
+        "'Aggregate' means the figures have been corrected for errors."
       ],
-      "answer": "Aggregate describes the combined result, not every component.",
+      "answer": "'Aggregate' describes the combined result, not every component.",
       "explanation": "An aggregate combines data across parts; its direction need not match the direction in each part.",
       "rationales": {
-        "Aggregate describes the combined result, not every component.": "An aggregate combines data across parts; its direction need not match the direction in each part.",
-        "Aggregate means the rate for the least successful course.": "The term refers to combination, not selection of the lowest-performing component.",
-        "Aggregate means a rate predicted for the following year.": "Aggregation concerns how data are combined, not whether they are forecasts.",
-        "Aggregate means the figures have been corrected for errors.": "Combining figures does not itself mean that errors were detected or corrected."
+        "'Aggregate' describes the combined result, not every component.": "An aggregate combines data across parts; its direction need not match the direction in each part.",
+        "'Aggregate' means the rate for the least successful course.": "The term refers to combination, not selection of the lowest-performing component.",
+        "'Aggregate' means a rate predicted for the following year.": "Aggregation concerns how data are combined, not whether they are forecasts.",
+        "'Aggregate' means the figures have been corrected for errors.": "Combining figures does not itself mean that errors were detected or corrected."
       },
       "audit": {
         "status": "reviewed",
@@ -3178,11 +3178,11 @@
         "The report expresses its preferred explanation in imprecise language."
       ],
       "answer": "The surviving record permits more than one explanation.",
-      "explanation": "Underdetermination means the evidence does not uniquely determine the explanation, not that no explanation is possible.",
+      "explanation": "'Underdetermination' means the evidence does not uniquely determine the explanation, not that no explanation is possible.",
       "rationales": {
         "The surviving record contradicts the proposed explanations.": "Contradiction rules accounts out; underdetermination leaves more than one compatible account available.",
         "The investigator has not yet formed a personal preference.": "Personal indecision is not the same as the evidence failing to discriminate among accounts.",
-        "The surviving record permits more than one explanation.": "Underdetermination means the evidence does not uniquely determine the explanation, not that no explanation is possible.",
+        "The surviving record permits more than one explanation.": "'Underdetermination' means the evidence does not uniquely determine the explanation, not that no explanation is possible.",
         "The report expresses its preferred explanation in imprecise language.": "Imprecise wording is a presentation issue; the phrase locates the problem in what the record can determine."
       },
       "audit": {

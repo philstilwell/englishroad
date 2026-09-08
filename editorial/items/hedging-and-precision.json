@@ -1906,10 +1906,10 @@
         "The proposal is supported by figures that are probably inaccurate."
       ],
       "answer": "The proposal has tentative support from the figures.",
-      "explanation": "Tentative support means the figures are provisionally interpreted as favouring the proposal, but that conclusion remains open to revision. The qualification concerns their significance, not whether the numbers were checked.",
+      "explanation": "'Tentative support' means the figures are provisionally interpreted as favouring the proposal, but that conclusion remains open to revision. The qualification concerns their significance, not whether the numbers were checked.",
       "rationales": {
         "The figures themselves may not have been checked adequately.": "This moves uncertainty to data checking, which the context says is complete.",
-        "The proposal has tentative support from the figures.": "Tentative support means the figures are provisionally interpreted as favouring the proposal, but that conclusion remains open to revision. The qualification concerns their significance, not whether the numbers were checked.",
+        "The proposal has tentative support from the figures.": "'Tentative support' means the figures are provisionally interpreted as favouring the proposal, but that conclusion remains open to revision. The qualification concerns their significance, not whether the numbers were checked.",
         "The figures show that the proposal has already been adopted.": "Support for a proposal does not establish an adoption decision.",
         "The proposal is supported by figures that are probably inaccurate.": "This invents a concern about numerical accuracy rather than interpretation."
       },

@@ -76,12 +76,12 @@
         "make lunch"
       ],
       "answer": "have lunch",
-      "explanation": "Have lunch is a common phrase meaning eat the midday meal.",
+      "explanation": "'Have lunch' is a common phrase meaning eat the midday meal.",
       "rationales": {
-        "pack lunch": "Pack lunch means put food into a container to take elsewhere.",
+        "pack lunch": "'Pack lunch' means put food into a container to take elsewhere.",
         "order lunch": "Ordering asks for food; it does not itself mean eating it.",
         "make lunch": "Making lunch prepares the food, which is already ready here.",
-        "have lunch": "Have lunch is a common phrase meaning eat the midday meal."
+        "have lunch": "'Have lunch' is a common phrase meaning eat the midday meal."
       },
       "audit": {
         "status": "reviewed",
@@ -109,10 +109,10 @@
       "answer": "catch the bus",
       "explanation": "'Catch the bus' means get on it, especially in time for its departure.",
       "rationales": {
-        "miss the bus": "Missing the bus means failing to get on it in time.",
+        "miss the bus": "'Missing the bus' means failing to get on it in time.",
         "catch the bus": "'Catch the bus' means get on it, especially in time for its departure.",
         "drive the bus": "The driver operates the bus; Nadia is a passenger.",
-        "leave the bus": "Leaving the bus means getting off, not boarding it."
+        "leave the bus": "'Leaving the bus' means getting off, not boarding it."
       },
       "audit": {
         "status": "reviewed",
@@ -200,9 +200,9 @@
         "check my teeth"
       ],
       "answer": "brush my teeth",
-      "explanation": "Brush your teeth is the ordinary phrase for cleaning them with a toothbrush.",
+      "explanation": "'Brush your teeth' is the ordinary phrase for cleaning them with a toothbrush.",
       "rationales": {
-        "brush my teeth": "Brush your teeth is the ordinary phrase for cleaning them with a toothbrush.",
+        "brush my teeth": "'Brush your teeth' is the ordinary phrase for cleaning them with a toothbrush.",
         "rinse my mouth": "Rinsing moves liquid around the mouth; it does not name brushing.",
         "whiten my teeth": "Whitening changes tooth color rather than naming routine brushing.",
         "check my teeth": "Checking examines them; it does not describe cleaning with a brush."
@@ -262,11 +262,11 @@
         "move the lamp away"
       ],
       "answer": "turn on the lamp",
-      "explanation": "Turn on a lamp means switch it from off to on.",
+      "explanation": "'Turn on a lamp' means switch it from off to on.",
       "rationales": {
         "turn off the lamp": "Turning it off stops its light.",
         "unplug the lamp": "Unplugging disconnects its power rather than supplying light.",
-        "turn on the lamp": "Turn on a lamp means switch it from off to on.",
+        "turn on the lamp": "'Turn on a lamp' means switch it from off to on.",
         "move the lamp away": "Moving it changes its position, not whether it is lit."
       },
       "audit": {
@@ -324,12 +324,12 @@
         "wash your hands"
       ],
       "answer": "wash your hands",
-      "explanation": "Wash your hands is the familiar phrase for cleaning them with water, usually with soap.",
+      "explanation": "'Wash your hands' is the familiar phrase for cleaning them with water, usually with soap.",
       "rationales": {
         "dry your hands": "Drying removes water after washing; it is not washing itself.",
         "shake hands": "Shaking hands is a greeting between people.",
         "raise your hands": "Raising moves the hands upward, not into a washing action.",
-        "wash your hands": "Wash your hands is the familiar phrase for cleaning them with water, usually with soap."
+        "wash your hands": "'Wash your hands' is the familiar phrase for cleaning them with water, usually with soap."
       },
       "audit": {
         "status": "reviewed",
@@ -359,7 +359,7 @@
       "rationales": {
         "silently": "Reading silently does not let another person hear the words.",
         "aloud": "'Read aloud' means say the written words so they can be heard.",
-        "alone": "Reading alone describes who is present, not whether you speak.",
+        "alone": "'Reading alone' describes who is present, not whether you speak.",
         "again": "'Again' means one more time; it does not specify reading with your voice."
       },
       "audit": {
@@ -386,11 +386,11 @@
         "spell my name"
       ],
       "answer": "spell my name",
-      "explanation": "Spell your name means give the letters that form it, in order.",
+      "explanation": "'Spell your name' means give the letters that form it, in order.",
       "rationales": {
         "write my name": "Writing records the name; it does not necessarily say its letters.",
         "change my name": "Changing chooses a different name, not its letter sequence.",
-        "spell my name": "Spell your name means give the letters that form it, in order.",
+        "spell my name": "'Spell your name' means give the letters that form it, in order.",
         "sign my name": "Signing makes a personal written signature, not an oral list of letters."
       },
       "audit": {
@@ -417,12 +417,12 @@
         "store a bike"
       ],
       "answer": "ride a bike",
-      "explanation": "Ride a bike means travel on it as its rider.",
+      "explanation": "'Ride a bike' means travel on it as its rider.",
       "rationales": {
         "push a bike": "Pushing moves the bike while you walk beside it.",
         "repair a bike": "Repairing fixes a problem rather than travels on the bike.",
         "store a bike": "Storing keeps it somewhere when it is not being used.",
-        "ride a bike": "Ride a bike means travel on it as its rider."
+        "ride a bike": "'Ride a bike' means travel on it as its rider."
       },
       "audit": {
         "status": "reviewed",
@@ -451,9 +451,9 @@
       "explanation": "Listen to music pairs listen with to before the thing heard.",
       "rationales": {
         "listen to music": "Listen to music pairs listen with to before the thing heard.",
-        "listen music": "Listen needs to before its object in this phrase.",
+        "listen music": "'Listen' needs 'to' before its object in this phrase.",
         "listen at music": "Use to, not at, to introduce what someone listens to.",
-        "listen for music": "Listen for music means try to detect it, not simply enjoy songs already playing."
+        "listen for music": "'Listen for music' means try to detect it, not simply enjoy songs already playing."
       },
       "audit": {
         "status": "reviewed",
@@ -510,11 +510,11 @@
         "carry a bag by its handles"
       ],
       "answer": "carry a bag by its handles",
-      "explanation": "Carry a bag describes supporting it while transporting it; by its handles specifies how.",
+      "explanation": "'Carry a bag' describes supporting it while transporting it; 'by its handles' specifies how.",
       "rationales": {
         "wear a bag on my back": "The described bag has no arrangement for wearing it on the back.",
         "drag a bag behind me": "Dragging leaves the bag on the ground, unlike the stated action.",
-        "carry a bag by its handles": "Carry a bag describes supporting it while transporting it; by its handles specifies how.",
+        "carry a bag by its handles": "'Carry a bag' describes supporting it while transporting it; 'by its handles' specifies how.",
         "leave a bag beside me": "Leaving the bag does not move it along with the person."
       },
       "audit": {
@@ -572,12 +572,12 @@
         "delete a picture"
       ],
       "answer": "take a picture",
-      "explanation": "Take a picture is the ordinary phrase for photographing something.",
+      "explanation": "'Take a picture' is the ordinary phrase for photographing something.",
       "rationales": {
         "send a picture": "Sending shares an existing picture rather than creates it with the camera.",
         "print a picture": "Printing puts an existing image onto paper.",
         "delete a picture": "Deleting removes the image instead of making a new photograph.",
-        "take a picture": "Take a picture is the ordinary phrase for photographing something."
+        "take a picture": "'Take a picture' is the ordinary phrase for photographing something."
       },
       "audit": {
         "status": "reviewed",
@@ -634,10 +634,10 @@
         "question a choice"
       ],
       "answer": "make a choice",
-      "explanation": "Make a choice means decide which option to select.",
+      "explanation": "'Make a choice' means decide which option to select.",
       "rationales": {
         "offer a choice": "Offering gives someone else options; it is not choosing for yourself.",
-        "make a choice": "Make a choice means decide which option to select.",
+        "make a choice": "'Make a choice' means decide which option to select.",
         "limit the choice": "Limiting reduces the options rather than selects one.",
         "question a choice": "Questioning challenges a decision rather than makes it."
       },
@@ -665,12 +665,12 @@
         "withdraw a promise"
       ],
       "answer": "keep a promise",
-      "explanation": "Keep a promise means do what you promised.",
+      "explanation": "'Keep a promise' means do what you promised.",
       "rationales": {
-        "break a promise": "Breaking a promise means failing to do what was promised.",
+        "break a promise": "'Breaking a promise' means failing to do what was promised.",
         "make a promise": "Making is giving the commitment; the question asks about carrying it out.",
         "withdraw a promise": "Withdrawing takes back the commitment rather than fulfills it.",
-        "keep a promise": "Keep a promise means do what you promised."
+        "keep a promise": "'Keep a promise' means do what you promised."
       },
       "audit": {
         "status": "reviewed",
@@ -758,10 +758,10 @@
         "review the rules"
       ],
       "answer": "follow the rules",
-      "explanation": "Follow the rules means act as the rules require.",
+      "explanation": "'Follow the rules' means act as the rules require.",
       "rationales": {
         "set the rules": "Setting establishes the rules; these have already been agreed.",
-        "follow the rules": "Follow the rules means act as the rules require.",
+        "follow the rules": "'Follow the rules' means act as the rules require.",
         "break the rules": "Breaking acts against the rules, opposite to the expectation.",
         "review the rules": "Reviewing examines the rules; it does not itself mean obeying them."
       },
@@ -851,11 +851,11 @@
         "explain a mistake"
       ],
       "answer": "make a mistake",
-      "explanation": "Make a mistake means do something incorrectly, such as type the wrong address.",
+      "explanation": "'Make a mistake' means do something incorrectly, such as type the wrong address.",
       "rationales": {
         "spot a mistake": "Spotting is noticing the mistake, which happened later.",
         "correct a mistake": "Correcting removes the error rather than introduces it.",
-        "make a mistake": "Make a mistake means do something incorrectly, such as type the wrong address.",
+        "make a mistake": "'Make a mistake' means do something incorrectly, such as type the wrong address.",
         "explain a mistake": "Explaining tells why an error happened; it does not name making it."
       },
       "audit": {
@@ -882,11 +882,11 @@
         "overnight rain"
       ],
       "answer": "heavy rain",
-      "explanation": "Heavy rain is the usual partnership for rain falling in large amounts.",
+      "explanation": "'Heavy rain' is the usual partnership for rain falling in large amounts.",
       "rationales": {
-        "steady rain": "Steady describes continuity; it can be steady but light.",
-        "heavy rain": "Heavy rain is the usual partnership for rain falling in large amounts.",
-        "occasional rain": "Occasional describes how often rain occurs, not a large amount.",
+        "steady rain": "'Steady' describes continuity; it can be steady but light.",
+        "heavy rain": "'Heavy rain' is the usual partnership for rain falling in large amounts.",
+        "occasional rain": "'Occasional' describes how often rain occurs, not a large amount.",
         "overnight rain": "Overnight identifies when it rains, not its intensity."
       },
       "audit": {
@@ -913,12 +913,12 @@
         "pass on a cold"
       ],
       "answer": "catch a cold",
-      "explanation": "Catch a cold is the ordinary phrase for developing this illness.",
+      "explanation": "'Catch a cold' is the ordinary phrase for developing this illness.",
       "rationales": {
         "treat a cold": "Treating deals with an illness that has developed.",
-        "recover from a cold": "Recovering means getting better, not becoming ill.",
+        "recover from a cold": "'Recovering' means getting better, not becoming ill.",
         "pass on a cold": "Passing it on concerns another person becoming infected.",
-        "catch a cold": "Catch a cold is the ordinary phrase for developing this illness."
+        "catch a cold": "'Catch a cold' is the ordinary phrase for developing this illness."
       },
       "audit": {
         "status": "reviewed",
@@ -944,10 +944,10 @@
         "lie down"
       ],
       "answer": "fall asleep",
-      "explanation": "Fall asleep describes the change from being awake to sleeping.",
+      "explanation": "'Fall asleep' describes the change from being awake to sleeping.",
       "rationales": {
-        "fall asleep": "Fall asleep describes the change from being awake to sleeping.",
-        "stay awake": "Staying awake means continuing not to sleep.",
+        "fall asleep": "'Fall asleep' describes the change from being awake to sleeping.",
+        "stay awake": "'Staying awake' means continuing not to sleep.",
         "wake up": "Waking up is the opposite change, from sleeping to being awake.",
         "lie down": "Lying down changes position but does not necessarily begin sleep."
       },
@@ -1006,11 +1006,11 @@
         "divide their attention"
       ],
       "answer": "pay attention",
-      "explanation": "Pay attention means focus your mind on what you see or hear.",
+      "explanation": "'Pay attention' means focus your mind on what you see or hear.",
       "rationales": {
-        "attract attention": "Attracting attention makes others notice you; it does not mean concentrating on the guide.",
-        "pay attention": "Pay attention means focus your mind on what you see or hear.",
-        "avoid attention": "Avoiding attention means trying not to be noticed.",
+        "attract attention": "'Attracting attention' makes others notice you; it does not mean concentrating on the guide.",
+        "pay attention": "'Pay attention' means focus your mind on what you see or hear.",
+        "avoid attention": "'Avoiding attention' means trying not to be noticed.",
         "divide their attention": "Dividing attention focuses on more than one thing rather than on the guide alone."
       },
       "audit": {
@@ -1068,9 +1068,9 @@
         "forget a joke"
       ],
       "answer": "tell a joke",
-      "explanation": "Tell a joke is the common partnership for presenting a joke to listeners.",
+      "explanation": "'Tell a joke' is the common partnership for presenting a joke to listeners.",
       "rationales": {
-        "tell a joke": "Tell a joke is the common partnership for presenting a joke to listeners.",
+        "tell a joke": "'Tell a joke' is the common partnership for presenting a joke to listeners.",
         "hear a joke": "Hearing makes Sara the listener, not the storyteller.",
         "write a joke": "Writing creates text but does not itself tell it to the group.",
         "forget a joke": "Forgetting means not remembering it, which prevents telling it successfully."
@@ -1102,7 +1102,7 @@
       "explanation": "'Cancel an appointment' means end the arrangement so it will not take place.",
       "rationales": {
         "postpone": "Postponing moves it to a later time, which Luis does not want.",
-        "keep": "Keeping the appointment means retaining the arrangement.",
+        "keep": "'Keeping the appointment' means retaining the arrangement.",
         "cancel": "'Cancel an appointment' means end the arrangement so it will not take place.",
         "book": "Booking creates an appointment rather than ends this one."
       },
@@ -1130,12 +1130,12 @@
         "iced coffee"
       ],
       "answer": "strong coffee",
-      "explanation": "Strong coffee is the usual partnership for a concentrated or intense coffee flavor.",
+      "explanation": "'Strong coffee' is the usual partnership for a concentrated or intense coffee flavor.",
       "rationales": {
-        "hot coffee": "Hot describes temperature rather than strength of flavor.",
-        "strong coffee": "Strong coffee is the usual partnership for a concentrated or intense coffee flavor.",
-        "black coffee": "Black means coffee without milk; it can be weak or strong.",
-        "iced coffee": "Iced describes a chilled preparation, not how strong it tastes."
+        "hot coffee": "'Hot' describes temperature rather than strength of flavor.",
+        "strong coffee": "'Strong coffee' is the usual partnership for a concentrated or intense coffee flavor.",
+        "black coffee": "'Black' means coffee without milk; it can be weak or strong.",
+        "iced coffee": "'Iced' describes a chilled preparation, not how strong it tastes."
       },
       "audit": {
         "status": "reviewed",
@@ -1161,12 +1161,12 @@
         "lay the table"
       ],
       "answer": "lay the table",
-      "explanation": "Lay the table means put plates, cutlery and other needed items in place for a meal.",
+      "explanation": "'Lay the table' means put plates, cutlery and other needed items in place for a meal.",
       "rationales": {
         "clear the table": "Clearing removes items, often after a meal.",
         "wipe the table": "Wiping cleans the surface but does not set out plates and cutlery.",
         "move the table": "Moving changes the furniture's location, not its place settings.",
-        "lay the table": "Lay the table means put plates, cutlery and other needed items in place for a meal."
+        "lay the table": "'Lay the table' means put plates, cutlery and other needed items in place for a meal."
       },
       "audit": {
         "status": "reviewed",
@@ -1192,9 +1192,9 @@
         "ignore advice"
       ],
       "answer": "give advice",
-      "explanation": "Give advice means offer suggestions intended to help someone.",
+      "explanation": "'Give advice' means offer suggestions intended to help someone.",
       "rationales": {
-        "give advice": "Give advice means offer suggestions intended to help someone.",
+        "give advice": "'Give advice' means offer suggestions intended to help someone.",
         "ask for advice": "The friend asks; Yara supplies the suggestions.",
         "follow advice": "Following acts on suggestions received, not gives them.",
         "ignore advice": "Ignoring declines to act on advice, not offers it."
@@ -1380,7 +1380,7 @@
       "answer": "set",
       "explanation": "'Set a goal' means establish what you intend to achieve.",
       "rationales": {
-        "achieve": "Achieving a goal means reaching it, not choosing it in advance.",
+        "achieve": "'Achieving a goal' means reaching it, not choosing it in advance.",
         "exceed": "Exceeding goes beyond a target after performance.",
         "abandon": "Abandoning gives up a target rather than establishes it.",
         "set": "'Set a goal' means establish what you intend to achieve."
@@ -1409,12 +1409,12 @@
         "a new friend"
       ],
       "answer": "a close friend",
-      "explanation": "Close friend describes a strong personal relationship, not physical distance.",
+      "explanation": "'Close friend' describes a strong personal relationship, not physical distance.",
       "rationales": {
         "an old friend": "Old friend emphasizes a long-standing relationship, not necessarily emotional closeness.",
-        "a close friend": "Close friend describes a strong personal relationship, not physical distance.",
+        "a close friend": "'Close friend' describes a strong personal relationship, not physical distance.",
         "a mutual friend": "A mutual friend is shared by two people; that does not specify intimacy.",
-        "a new friend": "New friend describes how recently the friendship began."
+        "a new friend": "'New friend' describes how recently the friendship began."
       },
       "audit": {
         "status": "reviewed",
@@ -1502,12 +1502,12 @@
         "review a request"
       ],
       "answer": "submit a request",
-      "explanation": "Submit a request means formally send or present it to the person who will consider it.",
+      "explanation": "'Submit a request' means formally send or present it to the person who will consider it.",
       "rationales": {
         "grant a request": "Granting approves it; that is the hall's later decision.",
         "withdraw a request": "Withdrawing takes the request out of consideration.",
         "review a request": "Reviewing examines it; it does not mean sending it in.",
-        "submit a request": "Submit a request means formally send or present it to the person who will consider it."
+        "submit a request": "'Submit a request' means formally send or present it to the person who will consider it."
       },
       "audit": {
         "status": "reviewed",
@@ -1533,10 +1533,10 @@
         "quote an interview"
       ],
       "answer": "conduct an interview",
-      "explanation": "Conduct an interview means organize and lead the questioning.",
+      "explanation": "'Conduct an interview' means organize and lead the questioning.",
       "rationales": {
-        "give an interview": "Giving an interview normally describes the person answering the journalist's questions.",
-        "conduct an interview": "Conduct an interview means organize and lead the questioning.",
+        "give an interview": "'Giving an interview' normally describes the person answering the journalist's questions.",
+        "conduct an interview": "'Conduct an interview' means organize and lead the questioning.",
         "decline an interview": "Declining refuses the interview; this conversation took place.",
         "quote an interview": "Quoting reproduces words from an interview rather than conducts it."
       },
@@ -1688,12 +1688,12 @@
         "be out of touch"
       ],
       "answer": "keep in touch",
-      "explanation": "Keep in touch means continue communicating with someone over time.",
+      "explanation": "'Keep in touch' means continue communicating with someone over time.",
       "rationales": {
-        "keep in touch": "Keep in touch means continue communicating with someone over time.",
-        "lose touch": "Losing touch means communication stops or becomes absent.",
-        "get in touch": "Getting in touch describes making contact, not specifically maintaining it.",
-        "be out of touch": "Being out of touch means lacking current contact or information."
+        "keep in touch": "'Keep in touch' means continue communicating with someone over time.",
+        "lose touch": "'Losing touch' means communication stops or becomes absent.",
+        "get in touch": "'Getting in touch' describes making contact, not specifically maintaining it.",
+        "be out of touch": "'Being out of touch' means lacking current contact or information."
       },
       "audit": {
         "status": "reviewed",
@@ -1781,10 +1781,10 @@
         "increase costs"
       ],
       "answer": "cut costs",
-      "explanation": "Cut costs means reduce expenditure.",
+      "explanation": "'Cut costs' means reduce expenditure.",
       "rationales": {
-        "cover costs": "Covering costs means provide enough money to pay them, not reduce them.",
-        "cut costs": "Cut costs means reduce expenditure.",
+        "cover costs": "'Covering costs' means provide enough money to pay them, not reduce them.",
+        "cut costs": "'Cut costs' means reduce expenditure.",
         "estimate costs": "Estimating calculates likely costs rather than reduces them.",
         "increase costs": "Increasing makes costs higher, opposite to the intention."
       },
@@ -1812,10 +1812,10 @@
         "fully awake"
       ],
       "answer": "fast asleep",
-      "explanation": "Fast asleep is an established phrase meaning deeply asleep; fast does not describe speed here.",
+      "explanation": "'Fast asleep' is an established phrase meaning deeply asleep; 'fast' does not describe speed here.",
       "rationales": {
-        "fast asleep": "Fast asleep is an established phrase meaning deeply asleep; fast does not describe speed here.",
-        "wide awake": "Wide awake means fully awake, opposite to sleeping deeply.",
+        "fast asleep": "'Fast asleep' is an established phrase meaning deeply asleep; 'fast' does not describe speed here.",
+        "wide awake": "'Wide awake' means fully awake, opposite to sleeping deeply.",
         "half asleep": "Half asleep suggests drowsiness or only partial wakefulness, not deep sleep.",
         "fully awake": "Fully awake confirms wakefulness rather than sleep."
       },
@@ -1843,12 +1843,12 @@
         "gain confidence"
       ],
       "answer": "gain confidence",
-      "explanation": "Gain confidence means become more sure of your own ability or prospects.",
+      "explanation": "'Gain confidence' means become more sure of your own ability or prospects.",
       "rationales": {
-        "lose confidence": "Losing confidence means becoming less sure, opposite to the change.",
-        "give someone confidence": "Giving someone confidence describes helping another person become more sure.",
-        "gain confidence": "Gain confidence means become more sure of your own ability or prospects.",
-        "have confidence in someone": "Having confidence in someone expresses trust in that person, not an increase in one's own self-assurance."
+        "lose confidence": "'Losing confidence' means becoming less sure, opposite to the change.",
+        "give someone confidence": "'Giving someone confidence' describes helping another person become more sure.",
+        "gain confidence": "'Gain confidence' means become more sure of your own ability or prospects.",
+        "have confidence in someone": "'Having confidence in someone' expresses trust in that person, not an increase in one's own self-assurance."
       },
       "audit": {
         "status": "reviewed",
@@ -1905,12 +1905,12 @@
         "escape attention entirely"
       ],
       "answer": "draw attention to the omission",
-      "explanation": "Draw attention to something means cause others to notice it.",
+      "explanation": "'Draw attention to something' means cause others to notice it.",
       "rationales": {
-        "draw attention to the omission": "Draw attention to something means cause others to notice it.",
-        "pay attention to the omission": "Paying attention describes the observer's own focus, not directing readers' notice.",
+        "draw attention to the omission": "'Draw attention to something' means cause others to notice it.",
+        "pay attention to the omission": "'Paying attention' describes the observer's own focus, not directing readers' notice.",
         "divert attention from the omission": "Diverting attention moves notice away from it.",
-        "escape attention entirely": "Escaping attention means going unnoticed, opposite to highlighting."
+        "escape attention entirely": "'Escaping attention' means going unnoticed, opposite to highlighting."
       },
       "audit": {
         "status": "reviewed",
@@ -1936,12 +1936,12 @@
         "evade responsibility for the error"
       ],
       "answer": "take responsibility for the error",
-      "explanation": "Take responsibility for something means accept that you are accountable for it.",
+      "explanation": "'Take responsibility for something' means accept that you are accountable for it.",
       "rationales": {
         "shift responsibility for the error": "Shifting responsibility tries to move accountability elsewhere.",
         "deny responsibility for the error": "Denying rejects accountability, contrary to the admission.",
         "evade responsibility for the error": "Evading avoids being held accountable rather than accepts the error as one's own.",
-        "take responsibility for the error": "Take responsibility for something means accept that you are accountable for it."
+        "take responsibility for the error": "'Take responsibility for something' means accept that you are accountable for it."
       },
       "audit": {
         "status": "reviewed",
@@ -1971,8 +1971,8 @@
       "rationales": {
         "extensive experience": "Extensive says there was a great deal, not how the knowledge was obtained.",
         "first-hand experience": "First-hand experience comes from personal involvement rather than others' accounts.",
-        "limited experience": "Limited describes amount; it does not specify the source.",
-        "relevant experience": "Relevant describes usefulness to a purpose, not direct participation."
+        "limited experience": "'Limited' describes amount; it does not specify the source.",
+        "relevant experience": "'Relevant' describes usefulness to a purpose, not direct participation."
       },
       "audit": {
         "status": "reviewed",
@@ -1998,12 +1998,12 @@
         "a structured debate"
       ],
       "answer": "a heated debate",
-      "explanation": "Heated debate describes intense, often angry disagreement.",
+      "explanation": "'Heated debate' describes intense, often angry disagreement.",
       "rationales": {
         "a lengthy debate": "Lengthy concerns time spent, not anger or passion.",
         "a public debate": "Public identifies the audience or access, not emotional intensity.",
-        "a heated debate": "Heated debate describes intense, often angry disagreement.",
-        "a structured debate": "Structured describes organization, which can coexist with any emotional tone."
+        "a heated debate": "'Heated debate' describes intense, often angry disagreement.",
+        "a structured debate": "'Structured' describes organization, which can coexist with any emotional tone."
       },
       "audit": {
         "status": "reviewed",
@@ -2091,12 +2091,12 @@
         "bear it in mind"
       ],
       "answer": "bear it in mind",
-      "explanation": "Bear something in mind means remember and consider it when acting or deciding.",
+      "explanation": "'Bear something in mind' means remember and consider it when acting or deciding.",
       "rationales": {
         "change your mind": "Changing your mind alters a decision rather than simply keeps a fact in view.",
-        "bear it in mind": "Bear something in mind means remember and consider it when acting or deciding.",
-        "speak your mind": "Speaking your mind expresses your opinion openly.",
-        "make up your mind": "Making up your mind means reach a decision, not remember a relevant fact."
+        "bear it in mind": "'Bear something in mind' means remember and consider it when acting or deciding.",
+        "speak your mind": "'Speaking your mind' expresses your opinion openly.",
+        "make up your mind": "'Making up your mind' means reach a decision, not remember a relevant fact."
       },
       "audit": {
         "status": "reviewed",
@@ -2153,12 +2153,12 @@
         "voiced the concerns"
       ],
       "answer": "addressed the concerns",
-      "explanation": "Address concerns means deal with or respond to them; it does not guarantee that concern is removed.",
+      "explanation": "'Address concerns' means deal with or respond to them; it does not guarantee that concern is removed.",
       "rationales": {
-        "addressed the concerns": "Address concerns means deal with or respond to them; it does not guarantee that concern is removed.",
-        "allayed the concerns": "Allaying means reducing or calming worries, a stronger outcome than merely responding.",
+        "addressed the concerns": "'Address concerns' means deal with or respond to them; it does not guarantee that concern is removed.",
+        "allayed the concerns": "'Allaying' means reducing or calming worries, a stronger outcome than merely responding.",
         "dismissed the concerns": "Dismissing treats worries as unworthy of attention, not a substantive response to them.",
-        "voiced the concerns": "Voicing expresses the worries; here the organizer responds to concerns already raised."
+        "voiced the concerns": "'Voicing' expresses the worries; here the organizer responds to concerns already raised."
       },
       "audit": {
         "status": "reviewed",
@@ -2215,10 +2215,10 @@
         "made provision for her inexperience"
       ],
       "answer": "made allowances for her inexperience",
-      "explanation": "Make allowances for means adjust judgment or expectations in view of someone's circumstances.",
+      "explanation": "'Make allowances for' means adjust judgment or expectations in view of someone's circumstances.",
       "rationales": {
         "made amends for her inexperience": "Making amends repairs a wrong; the tutor is not compensating for one here.",
-        "made allowances for her inexperience": "Make allowances for means adjust judgment or expectations in view of someone's circumstances.",
+        "made allowances for her inexperience": "'Make allowances for' means adjust judgment or expectations in view of someone's circumstances.",
         "made mention of her inexperience": "Mentioning could merely name the circumstance, without adapting the judgment.",
         "made provision for her inexperience": "Making provision prepares support or arrangements; the sentence concerns how performance was judged."
       },
@@ -2251,7 +2251,7 @@
         "cast doubt on the decision": "Casting doubt questions validity or certainty rather than explains why something occurred.",
         "draw attention away from the decision": "Drawing attention away reduces focus instead of clarifies the issue.",
         "shed light on the decision": "'Shed light on' means provide information that improves understanding.",
-        "lose sight of the decision": "Losing sight means failing to keep something in view, not explaining it."
+        "lose sight of the decision": "'Losing sight' means failing to keep something in view, not explaining it."
       },
       "audit": {
         "status": "reviewed",
@@ -2310,7 +2310,7 @@
       "answer": "met with resistance",
       "explanation": "'Meet with resistance' means encounter opposition to an action or proposal.",
       "rationales": {
-        "overcame resistance": "Overcoming means defeating or getting past opposition; that has not happened.",
+        "overcame resistance": "'Overcoming' means defeating or getting past opposition; that has not happened.",
         "weakened resistance": "Weakening reduces opposition rather than simply encounters it.",
         "eliminated resistance": "Eliminating removes opposition, contrary to the objections.",
         "met with resistance": "'Meet with resistance' means encounter opposition to an action or proposal."
@@ -2341,7 +2341,7 @@
       "answer": "run the risk of losing the draft",
       "explanation": "'Run the risk of' means expose yourself to a possible adverse outcome.",
       "rationales": {
-        "bear the cost of losing the draft": "Bearing the cost describes carrying consequences, not merely facing a possibility.",
+        "bear the cost of losing the draft": "'Bearing the cost' describes carrying consequences, not merely facing a possibility.",
         "run the risk of losing the draft": "'Run the risk of' means expose yourself to a possible adverse outcome.",
         "avoid the risk of losing the draft": "Avoiding the risk prevents exposure; working on the only copy leaves the possible loss described here.",
         "take responsibility for losing the draft": "Taking responsibility accepts accountability for a loss, rather than names exposure to the possibility."
@@ -2404,7 +2404,7 @@
       "explanation": "'Keep pace with' means develop or move at a rate sufficient to match something else.",
       "rationales": {
         "keep pace with demand": "'Keep pace with' means develop or move at a rate sufficient to match something else.",
-        "fall behind demand": "Falling behind means capacity fails to match demand.",
+        "fall behind demand": "'Falling behind' means capacity fails to match demand.",
         "drive demand upward": "Driving demand creates more requests rather than responds to them at a matching rate.",
         "put demand on hold": "Putting demand on hold would delay it rather than keep up with its growth."
       },
@@ -2463,12 +2463,12 @@
         "deeply rooted customs"
       ],
       "answer": "deeply rooted customs",
-      "explanation": "Deeply rooted describes ideas or practices strongly established over time.",
+      "explanation": "'Deeply rooted' describes ideas or practices strongly established over time.",
       "rationales": {
         "widely advertised customs": "Advertising concerns publicity, not how firmly practices are established.",
-        "deeply rooted customs": "Deeply rooted describes ideas or practices strongly established over time.",
+        "deeply rooted customs": "'Deeply rooted' describes ideas or practices strongly established over time.",
         "recently introduced customs": "Recently introduced conflicts with the multi-generation history.",
-        "loosely connected customs": "Loosely connected describes relationships among customs, not their strength of establishment."
+        "loosely connected customs": "'Loosely connected' describes relationships among customs, not their strength of establishment."
       },
       "audit": {
         "status": "reviewed",
@@ -2494,12 +2494,12 @@
         "a daunting prospect"
       ],
       "answer": "a daunting prospect",
-      "explanation": "Daunting prospect describes a future situation that feels difficult or intimidating.",
+      "explanation": "'Daunting prospect' describes a future situation that feels difficult or intimidating.",
       "rationales": {
         "a remote possibility": "Remote possibility concerns low likelihood, whereas the role has been accepted.",
-        "a daunting prospect": "Daunting prospect describes a future situation that feels difficult or intimidating.",
+        "a daunting prospect": "'Daunting prospect' describes a future situation that feels difficult or intimidating.",
         "a foregone conclusion": "Foregone conclusion treats an outcome as already settled; it does not describe intimidation.",
-        "a welcome development": "Welcome development expresses a favorable response, not the intimidating aspect specified."
+        "a welcome development": "'Welcome development' expresses a favorable response, not the intimidating aspect specified."
       },
       "audit": {
         "status": "reviewed",
@@ -2556,9 +2556,9 @@
         "exhaust resources"
       ],
       "answer": "marshal resources",
-      "explanation": "Marshal resources means bring them together and organize them effectively for a purpose.",
+      "explanation": "'Marshal resources' means bring them together and organize them effectively for a purpose.",
       "rationales": {
-        "marshal resources": "Marshal resources means bring them together and organize them effectively for a purpose.",
+        "marshal resources": "'Marshal resources' means bring them together and organize them effectively for a purpose.",
         "allocate resources": "Allocating assigns resources to uses; it does not specifically emphasize gathering them into an organized effort.",
         "conserve resources": "Conserving saves resources from consumption rather than mobilizes them.",
         "exhaust resources": "Exhausting uses them up, not organizes them for use."
@@ -2618,11 +2618,11 @@
         "circumstantial evidence"
       ],
       "answer": "compelling evidence",
-      "explanation": "Compelling evidence is strongly persuasive; the adjective does not itself claim a final proof.",
+      "explanation": "'Compelling evidence' is strongly persuasive; the adjective does not itself claim a final proof.",
       "rationales": {
         "conclusive evidence": "Conclusive claims that the evidence settles the matter, stronger than the intended praise.",
-        "compelling evidence": "Compelling evidence is strongly persuasive; the adjective does not itself claim a final proof.",
-        "anecdotal evidence": "Anecdotal describes evidence from particular accounts or experiences, not its persuasive force.",
+        "compelling evidence": "'Compelling evidence' is strongly persuasive; the adjective does not itself claim a final proof.",
+        "anecdotal evidence": "'Anecdotal' describes evidence from particular accounts or experiences, not its persuasive force.",
         "circumstantial evidence": "Circumstantial concerns an indirect type of support, not a judgment that it is persuasive."
       },
       "audit": {
@@ -2649,12 +2649,12 @@
         "reassess a strategy"
       ],
       "answer": "formulate a strategy",
-      "explanation": "Formulate a strategy means develop a coherent plan from ideas and considerations.",
+      "explanation": "'Formulate a strategy' means develop a coherent plan from ideas and considerations.",
       "rationales": {
-        "articulate a strategy": "Articulating expresses a strategy clearly; it does not specifically mean devising it.",
+        "articulate a strategy": "'Articulating' expresses a strategy clearly; it does not specifically mean devising it.",
         "execute a strategy": "Executing puts a strategy into action after it exists.",
         "reassess a strategy": "Reassessing evaluates an existing strategy again.",
-        "formulate a strategy": "Formulate a strategy means develop a coherent plan from ideas and considerations."
+        "formulate a strategy": "'Formulate a strategy' means develop a coherent plan from ideas and considerations."
       },
       "audit": {
         "status": "reviewed",
@@ -2684,7 +2684,7 @@
       "rationales": {
         "robust safeguards": "Robust safeguards remain effective under difficult conditions or stresses.",
         "stringent safeguards": "Stringent emphasizes strict requirements rather than resilience to failures.",
-        "elaborate safeguards": "Elaborate describes complexity and detail; complexity need not make protection robust.",
+        "elaborate safeguards": "'Elaborate' describes complexity and detail; complexity need not make protection robust.",
         "statutory safeguards": "Statutory identifies a legal source, not how reliably protection works."
       },
       "audit": {
@@ -2713,8 +2713,8 @@
       "answer": "informed consent",
       "explanation": "Informed consent emphasizes agreement based on relevant information and understanding.",
       "rationales": {
-        "explicit consent": "Explicit means clearly expressed; expression alone does not establish understanding.",
-        "tacit consent": "Tacit describes agreement inferred without an explicit statement, not informed understanding.",
+        "explicit consent": "'Explicit' means clearly expressed; expression alone does not establish understanding.",
+        "tacit consent": "'Tacit' describes agreement inferred without an explicit statement, not informed understanding.",
         "informed consent": "Informed consent emphasizes agreement based on relevant information and understanding.",
         "retrospective consent": "Retrospective identifies agreement given after an event rather than prior understanding."
       },
@@ -2742,10 +2742,10 @@
         "offset the benefits"
       ],
       "answer": "reap the benefits",
-      "explanation": "Reap the benefits means receive advantages resulting from previous work or developments.",
+      "explanation": "'Reap the benefits' means receive advantages resulting from previous work or developments.",
       "rationales": {
         "weigh the benefits": "Weighing evaluates benefits rather than enjoys the returns.",
-        "reap the benefits": "Reap the benefits means receive advantages resulting from previous work or developments.",
+        "reap the benefits": "'Reap the benefits' means receive advantages resulting from previous work or developments.",
         "forgo the benefits": "Forgoing gives up advantages rather than receives them.",
         "offset the benefits": "Offsetting counterbalances the advantages, reducing their net effect."
       },
@@ -2773,12 +2773,12 @@
         "overturn a precedent"
       ],
       "answer": "set a precedent",
-      "explanation": "Set a precedent means establish an example that may guide later actions.",
+      "explanation": "'Set a precedent' means establish an example that may guide later actions.",
       "rationales": {
         "follow a precedent": "Following uses an earlier example; this archive created the first one in the network.",
         "cite a precedent": "Citing mentions an existing example rather than establishes the new model.",
         "overturn a precedent": "Overturning rejects an existing rule or practice; the sentence describes creating a model.",
-        "set a precedent": "Set a precedent means establish an example that may guide later actions."
+        "set a precedent": "'Set a precedent' means establish an example that may guide later actions."
       },
       "audit": {
         "status": "reviewed",
@@ -2866,10 +2866,10 @@
         "abandon the method"
       ],
       "answer": "fine-tune the method",
-      "explanation": "Fine-tune means make small, precise adjustments to improve an already functioning approach.",
+      "explanation": "'Fine-tune' means make small, precise adjustments to improve an already functioning approach.",
       "rationales": {
         "overhaul the method": "Overhauling suggests substantial revision rather than small adjustments.",
-        "fine-tune the method": "Fine-tune means make small, precise adjustments to improve an already functioning approach.",
+        "fine-tune the method": "'Fine-tune' means make small, precise adjustments to improve an already functioning approach.",
         "devise the method": "Devising creates a method; this one already works.",
         "abandon the method": "Abandoning stops using it rather than improves it."
       },
@@ -2897,12 +2897,12 @@
         "challenge the assumption"
       ],
       "answer": "challenge the assumption",
-      "explanation": "Challenge an assumption means question whether the accepted premise is justified.",
+      "explanation": "'Challenge an assumption' means question whether the accepted premise is justified.",
       "rationales": {
         "take the assumption for granted": "Taking it for granted accepts it without the questioning described.",
         "lend credence to the assumption": "Lending credence makes it more believable rather than challenges it.",
         "base a plan on the assumption": "Using it as a planning basis does not itself test its truth.",
-        "challenge the assumption": "Challenge an assumption means question whether the accepted premise is justified."
+        "challenge the assumption": "'Challenge an assumption' means question whether the accepted premise is justified."
       },
       "audit": {
         "status": "reviewed",
@@ -2928,9 +2928,9 @@
         "eliminate the limitations"
       ],
       "answer": "acknowledge the limitations",
-      "explanation": "Acknowledge limitations means recognize or admit them; it does not itself claim to remove them.",
+      "explanation": "'Acknowledge limitations' means recognize or admit them; it does not itself claim to remove them.",
       "rationales": {
-        "acknowledge the limitations": "Acknowledge limitations means recognize or admit them; it does not itself claim to remove them.",
+        "acknowledge the limitations": "'Acknowledge limitations' means recognize or admit them; it does not itself claim to remove them.",
         "overcome the limitations": "Overcoming suggests getting past the weaknesses, which is not claimed.",
         "conceal the limitations": "Concealing hides weaknesses rather than openly names them.",
         "eliminate the limitations": "Eliminating removes them, stronger than the recognition described."
@@ -2959,12 +2959,12 @@
         "gain an insight into workshop life"
       ],
       "answer": "gain an insight into workshop life",
-      "explanation": "Gain an insight into means come to understand an aspect of something more clearly or deeply.",
+      "explanation": "'Gain an insight into' means come to understand an aspect of something more clearly or deeply.",
       "rationales": {
         "gain a foothold in workshop life": "Gaining a foothold establishes a position or initial access, not necessarily understanding.",
-        "take an interest in workshop life": "Taking an interest describes curiosity, which need not lead to insight.",
-        "gain an insight into workshop life": "Gain an insight into means come to understand an aspect of something more clearly or deeply.",
-        "keep a record of workshop life": "Keeping a record documents events rather than names the historian's new understanding."
+        "take an interest in workshop life": "'Taking an interest' describes curiosity, which need not lead to insight.",
+        "gain an insight into workshop life": "'Gain an insight into' means come to understand an aspect of something more clearly or deeply.",
+        "keep a record of workshop life": "'Keeping a record' documents events rather than names the historian's new understanding."
       },
       "audit": {
         "status": "reviewed",
@@ -3023,9 +3023,9 @@
       "answer": "a viable alternative",
       "explanation": "A viable alternative is a realistic option capable of working in practice.",
       "rationales": {
-        "a preferred alternative": "Preferred describes choice or desirability, which the context distinguishes from practicality.",
-        "a provisional alternative": "Provisional describes temporary or not-yet-final status, not workability.",
-        "a low-cost alternative": "Low-cost describes price, which the statement does not establish.",
+        "a preferred alternative": "'Preferred' describes choice or desirability, which the context distinguishes from practicality.",
+        "a provisional alternative": "'Provisional' describes temporary or not-yet-final status, not workability.",
+        "a low-cost alternative": "'Low-cost' describes price, which the statement does not establish.",
         "a viable alternative": "A viable alternative is a realistic option capable of working in practice."
       },
       "audit": {
@@ -3052,9 +3052,9 @@
         "resist restraints"
       ],
       "answer": "exercise restraint",
-      "explanation": "Exercise restraint means deliberately hold back one's own impulses or actions.",
+      "explanation": "'Exercise restraint' means deliberately hold back one's own impulses or actions.",
       "rationales": {
-        "exercise restraint": "Exercise restraint means deliberately hold back one's own impulses or actions.",
+        "exercise restraint": "'Exercise restraint' means deliberately hold back one's own impulses or actions.",
         "impose restraints": "Imposing restraints places external limits on someone or something.",
         "relax restraints": "Relaxing restraints reduces limits rather than exercises self-control.",
         "resist restraints": "Resisting restraints opposes limits rather than voluntarily holds back."
@@ -3083,11 +3083,11 @@
         "forge an alliance"
       ],
       "answer": "forge an alliance",
-      "explanation": "Forge an alliance means create a strong cooperative relationship through deliberate effort.",
+      "explanation": "'Forge an alliance' means create a strong cooperative relationship through deliberate effort.",
       "rationales": {
         "cement an alliance": "Cementing makes an existing alliance firmer; the specified emphasis is its creation.",
         "inherit an alliance": "Inheriting receives an existing relationship rather than actively negotiates a new one.",
-        "forge an alliance": "Forge an alliance means create a strong cooperative relationship through deliberate effort.",
+        "forge an alliance": "'Forge an alliance' means create a strong cooperative relationship through deliberate effort.",
         "sever an alliance": "Severing ends the relationship, opposite to creating one."
       },
       "audit": {
@@ -3114,12 +3114,12 @@
         "avert a crisis"
       ],
       "answer": "avert a crisis",
-      "explanation": "Avert a crisis means prevent a threatened crisis from happening.",
+      "explanation": "'Avert a crisis' means prevent a threatened crisis from happening.",
       "rationales": {
         "contain a crisis": "Contain limits the spread or severity of a crisis that exists.",
         "resolve a crisis": "Resolve brings an existing crisis to an end rather than specifically prevents it.",
-        "avert a crisis": "Avert a crisis means prevent a threatened crisis from happening.",
-        "weather a crisis": "Weather means endure a crisis successfully, not prevent its occurrence."
+        "avert a crisis": "'Avert a crisis' means prevent a threatened crisis from happening.",
+        "weather a crisis": "'Weather' means endure a crisis successfully, not prevent its occurrence."
       },
       "audit": {
         "status": "reviewed",
@@ -3145,12 +3145,12 @@
         "gather pace"
       ],
       "answer": "bear fruit",
-      "explanation": "Bear fruit means produce worthwhile results; it does not require completion or profit.",
+      "explanation": "'Bear fruit' means produce worthwhile results; it does not require completion or profit.",
       "rationales": {
-        "bear fruit": "Bear fruit means produce worthwhile results; it does not require completion or profit.",
+        "bear fruit": "'Bear fruit' means produce worthwhile results; it does not require completion or profit.",
         "break even": "Break even concerns income matching costs, not simply useful discoveries.",
         "run its course": "Run its course suggests a process proceeding to its natural end, unlike the continuing search.",
-        "gather pace": "Gather pace means accelerate, which does not itself establish useful results."
+        "gather pace": "'Gather pace' means accelerate, which does not itself establish useful results."
       },
       "audit": {
         "status": "reviewed",
@@ -3176,12 +3176,12 @@
         "enjoy ceremonial status"
       ],
       "answer": "wield considerable influence",
-      "explanation": "Wield influence means use or possess an effective ability to shape outcomes, without necessarily holding office.",
+      "explanation": "'Wield influence' means use or possess an effective ability to shape outcomes, without necessarily holding office.",
       "rationales": {
         "hold executive office": "Holding office would give a formal role, which the sentence excludes.",
         "exercise statutory powers": "Statutory powers arise from legal authority, not the informal influence described.",
         "enjoy ceremonial status": "Ceremonial status need not affect decisions; her opinions have a practical effect.",
-        "wield considerable influence": "Wield influence means use or possess an effective ability to shape outcomes, without necessarily holding office."
+        "wield considerable influence": "'Wield influence' means use or possess an effective ability to shape outcomes, without necessarily holding office."
       },
       "audit": {
         "status": "reviewed",
@@ -3207,12 +3207,12 @@
         "invited scrutiny"
       ],
       "answer": "withstood scrutiny",
-      "explanation": "Withstand scrutiny means remain defensible or convincing under close examination.",
+      "explanation": "'Withstand scrutiny' means remain defensible or convincing under close examination.",
       "rationales": {
-        "underwent scrutiny": "Undergoing scrutiny means being examined; it does not specify whether the design survived the challenge.",
-        "withstood scrutiny": "Withstand scrutiny means remain defensible or convincing under close examination.",
-        "escaped scrutiny": "Escaping scrutiny means avoiding examination, contrary to the reviewers' work.",
-        "invited scrutiny": "Inviting scrutiny prompts examination rather than describes surviving it."
+        "underwent scrutiny": "'Undergoing scrutiny' means being examined; it does not specify whether the design survived the challenge.",
+        "withstood scrutiny": "'Withstand scrutiny' means remain defensible or convincing under close examination.",
+        "escaped scrutiny": "'Escaping scrutiny' means avoiding examination, contrary to the reviewers' work.",
+        "invited scrutiny": "'Inviting scrutiny' prompts examination rather than describes surviving it."
       },
       "audit": {
         "status": "reviewed",
@@ -3243,7 +3243,7 @@
         "an intimate knowledge of Italian": "Intimate knowledge suggests depth and familiarity beyond the practical ability described.",
         "a nodding acquaintance with Italian": "A nodding acquaintance suggests only slight familiarity, less than routinely using manuals.",
         "a working knowledge of Italian": "Working knowledge is enough to use something for practical purposes, without implying comprehensive mastery.",
-        "a passing interest in Italian": "Interest describes curiosity, not the ability to work with the language."
+        "a passing interest in Italian": "'Interest' describes curiosity, not the ability to work with the language."
       },
       "audit": {
         "status": "reviewed",
@@ -3269,9 +3269,9 @@
         "qualify a conclusion"
       ],
       "answer": "adduce evidence",
-      "explanation": "Adduce evidence means bring evidence forward in support of an argument or claim.",
+      "explanation": "'Adduce evidence' means bring evidence forward in support of an argument or claim.",
       "rationales": {
-        "adduce evidence": "Adduce evidence means bring evidence forward in support of an argument or claim.",
+        "adduce evidence": "'Adduce evidence' means bring evidence forward in support of an argument or claim.",
         "interpret evidence": "Interpreting establishes what the material means rather than names its presentation as support.",
         "infer a conclusion": "Inferring draws a conclusion from material rather than supplies the supporting material.",
         "qualify a conclusion": "Qualifying limits or modifies a conclusion, not presents evidence for it."
@@ -3300,12 +3300,12 @@
         "corroborate the reasoning"
       ],
       "answer": "vitiate the argument",
-      "explanation": "Vitiate an argument means impair its validity or effectiveness; here the circularity is presented as fatal.",
+      "explanation": "'Vitiate an argument' means impair its validity or effectiveness; here the circularity is presented as fatal.",
       "rationales": {
         "qualify the conclusion": "Qualifying narrows a conclusion; the identified defect undermines the argument's validity.",
         "amplify the claim": "Amplifying expands or emphasizes a claim rather than invalidates the reasoning.",
         "corroborate the reasoning": "Corroborating supports the reasoning, opposite to identifying a fatal defect.",
-        "vitiate the argument": "Vitiate an argument means impair its validity or effectiveness; here the circularity is presented as fatal."
+        "vitiate the argument": "'Vitiate an argument' means impair its validity or effectiveness; here the circularity is presented as fatal."
       },
       "audit": {
         "status": "reviewed",
@@ -3362,11 +3362,11 @@
         "The reviewer endorsed the ending as a refusal to offer comfort."
       ],
       "answer": "The reviewer construed the ending as a refusal to offer comfort.",
-      "explanation": "Construe something as means interpret it in a particular way; it attributes a reading without proving intention.",
+      "explanation": "'Construe something as' means interpret it in a particular way; it attributes a reading without proving intention.",
       "rationales": {
         "The reviewer established the author's refusal to offer comfort.": "Established presents the intention as demonstrated rather than as the reviewer's reading.",
         "The reviewer elicited the author's refusal to offer comfort.": "Elicited implies obtaining that response from the author, whose explanation is unknown.",
-        "The reviewer construed the ending as a refusal to offer comfort.": "Construe something as means interpret it in a particular way; it attributes a reading without proving intention.",
+        "The reviewer construed the ending as a refusal to offer comfort.": "'Construe something as' means interpret it in a particular way; it attributes a reading without proving intention.",
         "The reviewer endorsed the ending as a refusal to offer comfort.": "Endorsed adds approval of the ending; identifying a meaning does not itself express approval."
       },
       "audit": {
@@ -3393,9 +3393,9 @@
         "withdraw the allegation"
       ],
       "answer": "substantiate the allegation",
-      "explanation": "Substantiate an allegation means provide supporting evidence for it.",
+      "explanation": "'Substantiate an allegation' means provide supporting evidence for it.",
       "rationales": {
-        "substantiate the allegation": "Substantiate an allegation means provide supporting evidence for it.",
+        "substantiate the allegation": "'Substantiate an allegation' means provide supporting evidence for it.",
         "publicize the allegation": "Publicizing makes it widely known, whether or not support is supplied.",
         "reiterate the allegation": "Reiterating repeats it rather than adds evidential support.",
         "withdraw the allegation": "Withdrawing takes it back rather than supports it."
@@ -3424,12 +3424,12 @@
         "a lukewarm reception"
       ],
       "answer": "a lukewarm reception",
-      "explanation": "Lukewarm reception describes an unenthusiastic or only mildly favorable response without necessarily implying hostility.",
+      "explanation": "'Lukewarm reception' describes an unenthusiastic or only mildly favorable response without necessarily implying hostility.",
       "rationales": {
         "a frosty reception": "Frosty suggests coldness or hostility, stronger than polite lack of enthusiasm.",
-        "a rapturous reception": "Rapturous describes intense delight, opposite to the limited enthusiasm.",
+        "a rapturous reception": "'Rapturous' describes intense delight, opposite to the limited enthusiasm.",
         "a polarized reception": "The described responses show limited enthusiasm, not sharply opposed camps.",
-        "a lukewarm reception": "Lukewarm reception describes an unenthusiastic or only mildly favorable response without necessarily implying hostility."
+        "a lukewarm reception": "'Lukewarm reception' describes an unenthusiastic or only mildly favorable response without necessarily implying hostility."
       },
       "audit": {
         "status": "reviewed",
@@ -3455,10 +3455,10 @@
         "reinterpret tradition"
       ],
       "answer": "invoke tradition",
-      "explanation": "Invoke tradition means appeal to established practice as a reason or authority.",
+      "explanation": "'Invoke tradition' means appeal to established practice as a reason or authority.",
       "rationales": {
         "document tradition": "Documenting records practices without necessarily using them to justify a decision.",
-        "invoke tradition": "Invoke tradition means appeal to established practice as a reason or authority.",
+        "invoke tradition": "'Invoke tradition' means appeal to established practice as a reason or authority.",
         "revive tradition": "Reviving restores a discontinued practice; the issue here is keeping a current one.",
         "reinterpret tradition": "Reinterpreting gives tradition a new reading rather than necessarily appeals to it as authority."
       },
@@ -3486,11 +3486,11 @@
         "rebut the presumption"
       ],
       "answer": "rebut the presumption",
-      "explanation": "Rebut a presumption means counter it with argument or evidence to the contrary.",
+      "explanation": "'Rebut a presumption' means counter it with argument or evidence to the contrary.",
       "rationales": {
         "entertain the presumption": "Entertaining considers it as a possibility, not counters it.",
-        "articulate the presumption": "Articulating expresses it clearly without disproving it.",
-        "rebut the presumption": "Rebut a presumption means counter it with argument or evidence to the contrary.",
+        "articulate the presumption": "'Articulating' expresses it clearly without disproving it.",
+        "rebut the presumption": "'Rebut a presumption' means counter it with argument or evidence to the contrary.",
         "revive the presumption": "Reviving restores an assumption previously set aside, opposite to the older recipe's role."
       },
       "audit": {
@@ -3548,12 +3548,12 @@
         "a tenuous grasp of the subject"
       ],
       "answer": "a tenuous grasp of the subject",
-      "explanation": "Tenuous grasp describes understanding that is weak, uncertain or easily lost.",
+      "explanation": "'Tenuous grasp' describes understanding that is weak, uncertain or easily lost.",
       "rationales": {
         "a firm grasp of the subject": "Firm grasp suggests secure understanding, contrary to the uncertainty in application.",
-        "a broad grasp of the subject": "Broad describes range; it does not specifically characterize understanding as fragile.",
+        "a broad grasp of the subject": "'Broad' describes range; it does not specifically characterize understanding as fragile.",
         "a practical grasp of the subject": "Practical grasp suggests the ability to use the knowledge, which is the trainee's weakness.",
-        "a tenuous grasp of the subject": "Tenuous grasp describes understanding that is weak, uncertain or easily lost."
+        "a tenuous grasp of the subject": "'Tenuous grasp' describes understanding that is weak, uncertain or easily lost."
       },
       "audit": {
         "status": "reviewed",
@@ -3610,11 +3610,11 @@
         "instantiate the principle"
       ],
       "answer": "instantiate the principle",
-      "explanation": "Instantiate a principle means provide a concrete instance of it.",
+      "explanation": "'Instantiate a principle' means provide a concrete instance of it.",
       "rationales": {
         "formulate the principle": "Formulating devises or states the principle, which the article has already done.",
         "derive the principle": "Deriving reasons toward a principle; this example is presented after it as an instance.",
-        "instantiate the principle": "Instantiate a principle means provide a concrete instance of it.",
+        "instantiate the principle": "'Instantiate a principle' means provide a concrete instance of it.",
         "qualify the principle": "Qualifying limits or modifies the principle rather than simply exemplifies it."
       },
       "audit": {
@@ -3641,9 +3641,9 @@
         "The disagreements postpone cooperation until agreement on style is reached."
       ],
       "answer": "The disagreements do not make cooperation impossible.",
-      "explanation": "Do not preclude means do not rule out; it leaves cooperation possible without promising it.",
+      "explanation": "'Do not preclude' means do not rule out; it leaves cooperation possible without promising it.",
       "rationales": {
-        "The disagreements do not make cooperation impossible.": "Do not preclude means do not rule out; it leaves cooperation possible without promising it.",
+        "The disagreements do not make cooperation impossible.": "'Do not preclude' means do not rule out; it leaves cooperation possible without promising it.",
         "The disagreements ensure the partners will cooperate.": "Not ruling out cooperation is weaker than ensuring it will happen.",
         "The disagreements have already been resolved through cooperation.": "The phrase states neither resolution nor an event already completed.",
         "The disagreements postpone cooperation until agreement on style is reached.": "The phrase does not make stylistic agreement a prerequisite for cooperation."
@@ -3675,8 +3675,8 @@
       "explanation": "'Confer distinction on' means bestow honor or prestige; this partnership uses a different sense from 'draw a distinction'.",
       "rationales": {
         "drew a distinction between ensembles": "'Draw a distinction' identifies a difference, not an honor bestowed.",
-        "maintained a distinction between ensembles": "Maintaining a distinction preserves a difference between categories or groups.",
-        "blurred the distinction between ensembles": "Blurring a distinction makes a difference less clear rather than confers honor.",
+        "maintained a distinction between ensembles": "'Maintaining a distinction' preserves a difference between categories or groups.",
+        "blurred the distinction between ensembles": "'Blurring a distinction' makes a difference less clear rather than confers honor.",
         "conferred distinction on the ensemble": "'Confer distinction on' means bestow honor or prestige; this partnership uses a different sense from 'draw a distinction'."
       },
       "audit": {
@@ -3703,10 +3703,10 @@
         "incur the obligation"
       ],
       "answer": "discharge the obligation",
-      "explanation": "Discharge an obligation means fulfill the duty or requirement.",
+      "explanation": "'Discharge an obligation' means fulfill the duty or requirement.",
       "rationales": {
         "waive the obligation": "Waiving releases a requirement; the volunteer actually performed the promised work.",
-        "discharge the obligation": "Discharge an obligation means fulfill the duty or requirement.",
+        "discharge the obligation": "'Discharge an obligation' means fulfill the duty or requirement.",
         "transfer the obligation": "Transferring passes the duty to someone else rather than performs it.",
         "incur the obligation": "Incurring becomes subject to the duty, an earlier stage than fulfillment."
       },

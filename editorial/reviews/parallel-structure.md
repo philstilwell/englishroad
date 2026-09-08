@@ -702,7 +702,7 @@ Complete: 'We want to rent a room and ___ a small business.'
 - **starting:** 'Starting' does not fit the shared 'want to' construction.
 - **started:** 'Started' changes to a past form rather than completing the second planned action.
 - **start:** The shared infinitive marker applies to both verbs: 'to rent ... and start ...'.
-- **starts:** The infinitive after 'to' takes no third-person -s ending.
+- **starts:** The infinitive after 'to' takes no third-person '-s' ending.
 
 **Decision:** replaced.
 
@@ -797,8 +797,8 @@ Complete: 'She speaks calmly and ___.'
 
 - **clear:** Clear does not meet the requested -ly pattern; use clearly in this list.
 - **clearly:** Calmly and clearly both describe the manner of speaking and follow the requested -ly pattern.
-- **clarity:** Clarity is a noun, not a matching manner adverb.
-- **clears:** Clears is a verb form and does not describe how she speaks.
+- **clarity:** 'Clarity' is a noun, not a matching manner adverb.
+- **clears:** 'Clears' is a verb form and does not describe how she speaks.
 
 **Decision:** replaced.
 
@@ -1345,7 +1345,7 @@ Complete: 'I prefer walking to work to ___ in traffic.'
 
 - **wait:** The second activity needs an -ing form after prepositional to in the requested pattern.
 - **waiting:** The balanced activities are walking to work and waiting in traffic; the middle to links them.
-- **a long wait:** A long wait is grammatical here, but it is a noun phrase rather than the requested -ing activity matching walking.
+- **a long wait:** 'A long wait' is grammatical here, but it is a noun phrase rather than the requested -ing activity matching 'walking'.
 - **waited:** The past-tense form does not name the second activity in this preference comparison.
 
 **Decision:** replaced.
@@ -1727,9 +1727,9 @@ Complete: 'We moved from selling furniture to ___ it.'
 
 **Choice feedback:**
 
-- **repair:** The to in from ... to is a preposition, so this verb naming the new activity takes -ing.
+- **repair:** The 'to' in 'from ... to' is a preposition, so this verb naming the new activity takes '-ing'.
 - **repairing:** Selling furniture and repairing it are matching activity phrases after from and to.
-- **repairs:** Repairs is a finite verb form here, not an activity phrase after the preposition; as a noun it also cannot take it as a direct object.
+- **repairs:** 'Repairs' is a finite verb form here, not an activity phrase after the preposition; as a noun it also cannot take 'it' as a direct object.
 - **repaired:** A past participle does not name the new activity in this construction.
 
 **Decision:** replaced.
@@ -1856,9 +1856,9 @@ Which response preserves the intended meaning of fast, serious effort?
 **Choice feedback:**
 
 - **Keep 'quickly and hard'; different endings need not mean different grammatical roles.:** Quickly and hard both function as adverbs here. Their different endings preserve speed and effort without the near-negative meaning of hardly.
-- **Use 'quickly and hardly'; the ending makes both words describe manner.:** Hardly means almost not, not with effort. Matching endings would therefore change the meaning.
-- **Use 'quickly and easily'; easy work expresses the same effort as hard work.:** Easily describes a lack of difficulty, not the serious effort expressed by hard.
-- **Use 'quickly and briefly'; a short period of work expresses strong effort.:** Briefly describes duration, not effort; someone may work briefly without working hard.
+- **Use 'quickly and hardly'; the ending makes both words describe manner.:** 'Hardly' means almost not, not with effort. Matching endings would therefore change the meaning.
+- **Use 'quickly and easily'; easy work expresses the same effort as hard work.:** 'Easily' describes a lack of difficulty, not the serious effort expressed by 'hard'.
+- **Use 'quickly and briefly'; a short period of work expresses strong effort.:** 'Briefly' describes duration, not effort; someone may work briefly without working hard.
 
 **Decision:** replaced.
 
@@ -2084,7 +2084,7 @@ Which assessment correctly identifies what the coordination expresses?
 **Choice feedback:**
 
 - **The second member gives the speaker's reason for understanding the concern.:** Why you raised it is itself something understood, not a because-clause explaining the speaker's understanding.
-- **The second member reports why the listener understands the speaker's concern.:** The subject of understand remains I; you is the subject only of raised in the embedded clause.
+- **The second member reports why the listener understands the speaker's concern.:** The subject of 'understand' remains 'I'; 'you' is the subject only of 'raised' in the embedded clause.
 - **Both members identify what the speaker understands, despite their different forms.:** Both complements belong to understand: the concern itself and the reason it was raised. Shared function permits these different forms.
 - **The first member expresses understanding, but the second asks the listener for a reason.:** The embedded why-clause is not a direct request for information; the speaker says that reason is understood.
 
@@ -2271,14 +2271,14 @@ Which concise coordination retains both events and their shared topic?
 3. The team discussed changing the rota it had agreed on.
 4. The team discussed and agreed on a new rota. **[Correct]**
 
-**Explanation:** The final noun phrase supplies the topic of discussed and the object of on after agreed. Both completed actions are asserted.
+**Explanation:** The final noun phrase supplies the topic of 'discussed' and the object of 'on' after 'agreed'. Both completed actions are asserted.
 
 **Choice feedback:**
 
 - **The team discussed whether to agree on a new rota.:** This reports discussion of a possible agreement, not that agreement was reached.
 - **The team agreed to discuss a new rota.:** This reports an agreement to have a discussion, not a completed discussion followed by agreement on its content.
 - **The team discussed changing the rota it had agreed on.:** This introduces a discussion about changing an earlier agreement, rather than the stated process of reaching the new one.
-- **The team discussed and agreed on a new rota.:** The final noun phrase supplies the topic of discussed and the object of on after agreed. Both completed actions are asserted.
+- **The team discussed and agreed on a new rota.:** The final noun phrase supplies the topic of 'discussed' and the object of 'on' after 'agreed'. Both completed actions are asserted.
 
 **Decision:** replaced.
 
@@ -2791,7 +2791,7 @@ Which editorial assessment best accounts for the coordinated objects?
 
 **Choice feedback:**
 
-- **The verb keeps its physical-misplacement meaning for both objects.:** Losing patience is a change of emotional state, not physical misplacement. Sharing the verb does not force the same lexical sense.
+- **The verb keeps its physical-misplacement meaning for both objects.:** 'Losing patience' is a change of emotional state, not physical misplacement. Sharing the verb does not force the same lexical sense.
 - **The coordination explicitly makes the missing ticket the cause of his impatience.:** The missing ticket may explain his impatience in a fuller story, but and does not explicitly state that causal link.
 - **The whole phrase means frustration, without reporting an actual missing ticket.:** The familiar figurative sense of losing patience does not cancel the literal report that the ticket was lost.
 - **One verb links a literal loss with a figurative one.:** Lose combines naturally with the physical ticket and, figuratively, with patience. Their coordination creates the literary effect without requiring identical senses.
@@ -2915,13 +2915,13 @@ Which revision repairs the shared verb while preserving both relationships?
 3. The firm has supported local clubs and will continue to support them. **[Correct]**
 4. The firm has supported local clubs and hopes they will continue to support it.
 
-**Explanation:** Has needs supported, whereas continue to needs support. Giving each construction its required form preserves the firm as provider in both claims.
+**Explanation:** 'Has' needs 'supported', whereas 'continue to' needs 'support'. Giving each construction its required form preserves the firm as provider in both claims.
 
 **Choice feedback:**
 
 - **The firm has local support and will continue to support clubs.:** Has local support makes the firm a recipient of support, not the provider in the past claim.
 - **The firm has been supported by local clubs and will continue to support them.:** The passive first clause reverses the past direction of support, making clubs support the firm.
-- **The firm has supported local clubs and will continue to support them.:** Has needs supported, whereas continue to needs support. Giving each construction its required form preserves the firm as provider in both claims.
+- **The firm has supported local clubs and will continue to support them.:** 'Has' needs 'supported', whereas 'continue to' needs 'support'. Giving each construction its required form preserves the firm as provider in both claims.
 - **The firm has supported local clubs and hopes they will continue to support it.:** The future relationship is reversed: this hopes for support from clubs instead of promising continuing support for them.
 
 **Decision:** replaced.
@@ -3245,7 +3245,7 @@ Which account captures the available interpretations of the omitted possessive p
 
 - **It retains Ava as the owner when the verb phrase is repeated.:** Keeping Ava as owner is one available reading, but the ellipsis also permits a corresponding reference to Mina's own proposal.
 - **Either woman's proposal could be meant.:** The omitted wording can preserve Ava as the possessor or shift to the new subject, Mina. Without context, neither reading excludes the other.
-- **It shifts ownership to Mina when the subject changes.:** Shifting to Mina's proposal is possible, but the change of subject does not force the possessive to shift too.
+- **It shifts ownership to Mina when the subject changes.:** Shifting to "Mina's proposal" is possible, but the change of subject does not force the possessive to shift too.
 - **It refers to a proposal jointly owned by the two women.:** The parallel actions do not establish joint ownership. The ambiguity is between retaining the first possessor and shifting to the second subject.
 
 **Decision:** replaced.
@@ -3399,12 +3399,12 @@ How should an editor understand the apparent coordination in this promise?
 3. The organiser predicts a successful booking without undertaking the attempt.
 4. The organiser commits to a successful booking but softens the certainty of that commitment.
 
-**Explanation:** Informal try and secure means try to secure. The commitment concerns the attempt, not a separately promised successful outcome.
+**Explanation:** Informal 'try and secure' means 'try to secure'. The commitment concerns the attempt, not a separately promised successful outcome.
 
 **Choice feedback:**
 
-- **The organiser promises to attempt to secure a larger room.:** Informal try and secure means try to secure. The commitment concerns the attempt, not a separately promised successful outcome.
-- **The organiser promises an attempt followed by a successful booking.:** Try and does not separately guarantee the success expressed by the following verb.
+- **The organiser promises to attempt to secure a larger room.:** Informal 'try and secure' means 'try to secure'. The commitment concerns the attempt, not a separately promised successful outcome.
+- **The organiser promises an attempt followed by a successful booking.:** 'Try and' does not separately guarantee the success expressed by the following verb.
 - **The organiser predicts a successful booking without undertaking the attempt.:** I'll try undertakes an attempt; it is not simply a prediction about the room becoming available.
 - **The organiser commits to a successful booking but softens the certainty of that commitment.:** The construction limits what is undertaken to an attempt; it is more than a softer-sounding guarantee of the booking.
 
@@ -3661,7 +3661,7 @@ Which account preserves the scope of the two coordinated clauses?
 
 - **The report establishes that she neither received nor forwarded the file.:** A report of her denial is not independent evidence that the events did not happen.
 - **She denied receiving the file but accepted that she had forwarded it.:** The second that-clause is inside the scope of both ... and, so forwarding is denied rather than accepted.
-- **She denied only receiving and forwarding the file as a combined course of action.:** Both marks the two propositions individually as objects of denial; this is not merely a denial of their conjunction.
+- **She denied only receiving and forwarding the file as a combined course of action.:** 'Both' marks the two propositions individually as objects of denial; this is not merely a denial of their conjunction.
 - **She denied receiving the file and also denied forwarding it.:** Both clauses fall under denied, so the report attributes two denials to the witness without endorsing their truth.
 
 **Decision:** replaced.

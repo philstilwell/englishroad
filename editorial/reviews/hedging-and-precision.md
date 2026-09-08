@@ -1983,11 +1983,11 @@ Which paraphrase places the uncertainty on the interpretation?
 3. The figures show that the proposal has already been adopted.
 4. The proposal is supported by figures that are probably inaccurate.
 
-**Explanation:** Tentative support means the figures are provisionally interpreted as favouring the proposal, but that conclusion remains open to revision. The qualification concerns their significance, not whether the numbers were checked.
+**Explanation:** 'Tentative support' means the figures are provisionally interpreted as favouring the proposal, but that conclusion remains open to revision. The qualification concerns their significance, not whether the numbers were checked.
 
 **Choice feedback:**
 
-- **The proposal has tentative support from the figures.:** Tentative support means the figures are provisionally interpreted as favouring the proposal, but that conclusion remains open to revision. The qualification concerns their significance, not whether the numbers were checked.
+- **The proposal has tentative support from the figures.:** 'Tentative support' means the figures are provisionally interpreted as favouring the proposal, but that conclusion remains open to revision. The qualification concerns their significance, not whether the numbers were checked.
 - **The figures themselves may not have been checked adequately.:** This moves uncertainty to data checking, which the context says is complete.
 - **The figures show that the proposal has already been adopted.:** Support for a proposal does not establish an adoption decision.
 - **The proposal is supported by figures that are probably inaccurate.:** This invents a concern about numerical accuracy rather than interpretation.

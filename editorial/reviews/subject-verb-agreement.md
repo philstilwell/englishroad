@@ -25,8 +25,8 @@ Choose the standard written completion about her usual work: Mina ___ there on M
 
 - **work:** Work goes with I, you, we, or they here; Mina needs works.
 - **works:** Mina is one person, like she. In a simple present statement, work takes -s: she works.
-- **working:** Working needs a form of be to make a complete verb, such as is working.
-- **are working:** Are does not agree with the singular name Mina; the progressive would be is working.
+- **working:** 'Working' needs a form of 'be' to make a complete verb, such as 'is working'.
+- **are working:** 'Are' does not agree with the singular name 'Mina'; the progressive would be 'is working'.
 
 **Decision:** replaced.
 
@@ -51,14 +51,14 @@ Choose the standard written completion: Trains to Oak Hill ___ every hour.
 3. leaving
 4. is leaving
 
-**Explanation:** Trains means more than one train, so the simple present verb has no -s ending.
+**Explanation:** 'Trains' means more than one train, so the simple present verb has no '-s' ending.
 
 **Choice feedback:**
 
-- **leave:** Trains means more than one train, so the simple present verb has no -s ending.
-- **leaves:** The plural subject trains uses leave, not the third-person singular leaves.
-- **leaving:** Leaving alone does not provide a complete finite verb for this timetable statement.
-- **is leaving:** Is is singular and does not agree with trains.
+- **leave:** 'Trains' means more than one train, so the simple present verb has no '-s' ending.
+- **leaves:** The plural subject 'trains' uses 'leave', not the third-person singular 'leaves'.
+- **leaving:** 'Leaving' alone does not provide a complete finite verb for this timetable statement.
+- **is leaving:** 'Is' is singular and does not agree with 'trains'.
 
 **Decision:** replaced.
 
@@ -83,14 +83,14 @@ Complete the standard written sentence: The visitors ___ here for an interview.
 3. am
 4. be
 
-**Explanation:** The plural subject the visitors takes are in this statement.
+**Explanation:** The plural subject 'the visitors' takes 'are' in this statement.
 
 **Choice feedback:**
 
-- **are:** The plural subject the visitors takes are in this statement.
-- **is:** Is agrees with one visitor; the visitors is plural.
-- **am:** Am is the present form used with I, not with the visitors.
-- **be:** Be is the base form; a standard present statement needs are with this plural subject.
+- **are:** The plural subject 'the visitors' takes 'are' in this statement.
+- **is:** 'Is' agrees with one visitor; 'the visitors' is plural.
+- **am:** 'Am' is the present form used with 'I', not with 'the visitors'.
+- **be:** 'Be' is the base form; a standard present statement needs 'are' with this plural subject.
 
 **Decision:** replaced.
 
@@ -115,11 +115,11 @@ Complete the standard written sentence: This ___ the form you need.
 3. am
 4. be
 
-**Explanation:** This points to one document and takes singular is.
+**Explanation:** This points to one document and takes singular 'is'.
 
 **Choice feedback:**
 
-- **is:** This points to one document and takes singular is.
+- **is:** This points to one document and takes singular 'is'.
 - **are:** This refers to one item here, so are does not agree with it.
 - **am:** Am belongs with I, not with this.
 - **be:** A present statement with this needs the finite form is, not base-form be.
@@ -151,10 +151,10 @@ Complete the standard written sentence: I ___ the new office assistant.
 
 **Choice feedback:**
 
-- **is:** Is is used with he, she, it, or a singular noun, not with I.
+- **is:** 'Is' is used with 'he', 'she', 'it', or a singular noun, not with 'I'.
 - **am:** I has its own present form of be: I am.
-- **are:** Are is used with you, we, and they; the first-person singular form is am.
-- **be:** Base-form be cannot be the finite verb in this ordinary standard present statement.
+- **are:** 'Are' is used with 'you', 'we', and 'they'; the first-person singular form is 'am'.
+- **be:** Base-form 'be' cannot be the finite verb in this ordinary standard present statement.
 
 **Decision:** replaced.
 
@@ -179,14 +179,14 @@ Complete the standard written sentence: You ___ next.
 3. be
 4. are **[Correct]**
 
-**Explanation:** You takes are for one addressee as well as for several addressees.
+**Explanation:** 'You' takes 'are' for one addressee as well as for several addressees.
 
 **Choice feedback:**
 
-- **is:** Even when you means one person, its standard present form is are, not is.
-- **am:** Am is used with I, the speaker, not with you.
-- **be:** The base form be does not complete this ordinary present statement.
-- **are:** You takes are for one addressee as well as for several addressees.
+- **is:** Even when 'you' means one person, its standard present form is 'are', not 'is'.
+- **am:** 'Am' is used with 'I', the speaker, not with 'you'.
+- **be:** The base form 'be' does not complete this ordinary present statement.
+- **are:** 'You' takes 'are' for one addressee as well as for several addressees.
 
 **Decision:** replaced.
 
@@ -211,14 +211,14 @@ Choose the standard written completion: We ___ a reservation for two nights.
 3. is have
 4. have **[Correct]**
 
-**Explanation:** We takes have, whether it refers to two people or a larger group.
+**Explanation:** 'We' takes 'have', whether it refers to two people or a larger group.
 
 **Choice feedback:**
 
-- **has:** Has is the third-person singular form; we needs have.
+- **has:** 'Has' is the third-person singular form; 'we' needs 'have'.
 - **having:** Having alone cannot complete this present possession statement.
 - **is have:** Is neither agrees with we nor combines with base-form have this way.
-- **have:** We takes have, whether it refers to two people or a larger group.
+- **have:** 'We' takes 'have', whether it refers to two people or a larger group.
 
 **Decision:** replaced.
 
@@ -248,8 +248,8 @@ Choose the standard written completion: He ___ a bicycle but no car.
 **Choice feedback:**
 
 - **have:** He is third-person singular, so the present possession form is has.
-- **having:** Having needs additional verb structure; it is not the finite verb in this statement.
-- **are having:** Are does not agree with he, and this sentence describes ordinary possession.
+- **having:** 'Having' needs additional verb structure; it is not the finite verb in this statement.
+- **are having:** 'Are' does not agree with 'he', and this sentence describes ordinary possession.
 - **has:** Have changes to has with he, she, and it in a simple present possession statement.
 
 **Decision:** replaced.
@@ -275,14 +275,14 @@ Choose the standard written completion: Rosa ___ drive to work.
 3. doesn't **[Correct]**
 4. not
 
-**Explanation:** Rosa takes does in a present negative. Doesn't carries the agreement, so drive stays in the base form.
+**Explanation:** 'Rosa' takes 'does' in a present negative. "Doesn't" carries the agreement, so 'drive' stays in the base form.
 
 **Choice feedback:**
 
 - **don't:** Don't goes with I, you, we, or they; Rosa needs doesn't.
-- **isn't:** Isn't needs an adjective, noun, or an -ing form here; it cannot precede base-form drive this way.
-- **doesn't:** Rosa takes does in a present negative. Doesn't carries the agreement, so drive stays in the base form.
-- **not:** Not alone does not supply the auxiliary required for this standard present negative.
+- **isn't:** "Isn't" needs an adjective, noun, or an -ing form here; it cannot precede base-form 'drive' this way.
+- **doesn't:** 'Rosa' takes 'does' in a present negative. "Doesn't" carries the agreement, so 'drive' stays in the base form.
+- **not:** 'Not' alone does not supply the auxiliary required for this standard present negative.
 
 **Decision:** replaced.
 
@@ -307,14 +307,14 @@ Choose the standard written completion: They ___ drink coffee.
 3. aren't
 4. not
 
-**Explanation:** Don't agrees with they, and drink remains the base verb after it.
+**Explanation:** "Don't" agrees with 'they', and 'drink' remains the base verb after it.
 
 **Choice feedback:**
 
-- **doesn't:** They takes do, not third-person singular does, in a present negative.
-- **don't:** Don't agrees with they, and drink remains the base verb after it.
-- **aren't:** Aren't could be followed by drinking, but it cannot precede the base verb drink here.
-- **not:** They not drink is missing the auxiliary do required in this ordinary standard statement.
+- **doesn't:** 'They' takes 'do', not third-person singular 'does', in a present negative.
+- **don't:** "Don't" agrees with 'they', and 'drink' remains the base verb after it.
+- **aren't:** "Aren't" could be followed by 'drinking', but it cannot precede the base verb 'drink' here.
+- **not:** 'They not drink' is missing the auxiliary 'do' required in this ordinary standard statement.
 
 **Decision:** replaced.
 
@@ -339,12 +339,12 @@ Complete the standard written question: ___ Nadia eat lunch here?
 3. Is
 4. Are
 
-**Explanation:** Does agrees with Nadia; the main verb eat has no -s after it.
+**Explanation:** 'Does' agrees with 'Nadia'; the main verb 'eat' has no '-s' after it.
 
 **Choice feedback:**
 
-- **Does:** Does agrees with Nadia; the main verb eat has no -s after it.
-- **Do:** Nadia is one third-person subject, so the question needs does rather than do.
+- **Does:** 'Does' agrees with 'Nadia'; the main verb 'eat' has no '-s' after it.
+- **Do:** 'Nadia' is one third-person subject, so the question needs 'does' rather than 'do'.
 - **Is:** Is would require eating here, not the base form eat in this routine question.
 - **Are:** Are neither agrees with Nadia nor combines with base-form eat in this question.
 
@@ -375,10 +375,10 @@ Complete the standard written question: ___ these shops open on Sunday mornings?
 
 **Choice feedback:**
 
-- **Does:** These shops is plural, so does does not agree with the subject.
-- **Is:** Is is singular and cannot serve before these shops here.
+- **Does:** 'These shops' is plural, so 'does' does not agree with the subject.
+- **Is:** 'Is' is singular and cannot serve before 'these shops' here.
 - **Do:** Do agrees with the plural subject these shops when open is the ordinary verb.
-- **Has:** Has is singular and does not form this simple present question with open.
+- **Has:** 'Has' is singular and does not form this simple present question with 'open'.
 
 **Decision:** replaced.
 
@@ -403,14 +403,14 @@ Complete the standard written sentence: Omar and his wife ___ ready for the deli
 3. be
 4. are **[Correct]**
 
-**Explanation:** And joins two people into a plural subject, so use are.
+**Explanation:** 'And' joins two people into a plural subject, so use 'are'.
 
 **Choice feedback:**
 
 - **is:** Omar alone would take is, but Omar and his wife names two people.
 - **am:** Am is reserved for I, not a subject naming two other people.
 - **be:** This ordinary present statement needs are rather than the base form be.
-- **are:** And joins two people into a plural subject, so use are.
+- **are:** 'And' joins two people into a plural subject, so use 'are'.
 
 **Decision:** replaced.
 
@@ -435,14 +435,14 @@ Choose the correct past form: I ___ at the dentist's.
 3. am
 4. are
 
-**Explanation:** Was is the past form of be used with I in this factual statement.
+**Explanation:** 'Was' is the past form of 'be' used with 'I' in this factual statement.
 
 **Choice feedback:**
 
-- **were:** I takes was in an ordinary statement about a real past visit.
-- **was:** Was is the past form of be used with I in this factual statement.
-- **am:** Am is present; the task asks about yesterday.
-- **are:** Are is present and also does not agree with I.
+- **were:** 'I' takes 'was' in an ordinary statement about a real past visit.
+- **was:** 'Was' is the past form of 'be' used with 'I' in this factual statement.
+- **am:** 'Am' is present; the task asks about yesterday.
+- **are:** 'Are' is present and also does not agree with 'I'.
 
 **Decision:** replaced.
 
@@ -467,14 +467,14 @@ Choose the correct past form: You ___ near the station.
 3. were **[Correct]**
 4. is
 
-**Explanation:** Were is the past form of be with you, for either one person or several.
+**Explanation:** 'Were' is the past form of 'be' with 'you', for either one person or several.
 
 **Choice feedback:**
 
-- **was:** You takes were even when it addresses just one person.
-- **are:** Are is present, but the sentence reports yesterday's location.
-- **were:** Were is the past form of be with you, for either one person or several.
-- **is:** Is is present and does not agree with you.
+- **was:** 'You' takes 'were' even when it addresses just one person.
+- **are:** 'Are' is present, but the sentence reports yesterday's location.
+- **were:** 'Were' is the past form of 'be' with 'you', for either one person or several.
+- **is:** 'Is' is present and does not agree with 'you'.
 
 **Decision:** replaced.
 
@@ -499,14 +499,14 @@ Choose the standard written completion: The children ___ their homework after di
 3. doing
 4. is doing
 
-**Explanation:** Children is the plural of child, so the routine uses do rather than does.
+**Explanation:** 'Children' is the plural of 'child', so the routine uses 'do' rather than 'does'.
 
 **Choice feedback:**
 
-- **does:** Children is plural even though it does not end in -s; use do.
-- **do:** Children is the plural of child, so the routine uses do rather than does.
+- **does:** 'Children' is plural even though it does not end in '-s'; use 'do'.
+- **do:** 'Children' is the plural of 'child', so the routine uses 'do' rather than 'does'.
 - **doing:** Doing alone is not a complete present verb for this routine statement.
-- **is doing:** Is does not agree with the plural subject children.
+- **is doing:** 'Is' does not agree with the plural subject 'children'.
 
 **Decision:** replaced.
 
@@ -531,14 +531,14 @@ Complete the standard written sentence: The people on the platform ___ waiting f
 3. be
 4. are **[Correct]**
 
-**Explanation:** People refers to several persons here, so the progressive uses are waiting.
+**Explanation:** 'People' refers to several persons here, so the progressive uses 'are waiting'.
 
 **Choice feedback:**
 
-- **is:** People is plural in this passenger context; is waiting would need a singular subject.
-- **am:** Am is used with I, not the people.
-- **be:** The statement needs the finite auxiliary are before waiting, not base-form be.
-- **are:** People refers to several persons here, so the progressive uses are waiting.
+- **is:** 'People' is plural in this passenger context; 'is waiting' would need a singular subject.
+- **am:** 'Am' is used with 'I', not the people.
+- **be:** The statement needs the finite auxiliary 'are' before 'waiting', not base-form 'be'.
+- **are:** 'People' refers to several persons here, so the progressive uses 'are waiting'.
 
 **Decision:** replaced.
 
@@ -563,13 +563,13 @@ Choose the standard written completion describing the table: There ___ a table b
 3. is **[Correct]**
 4. be
 
-**Explanation:** The table is the singular thing being introduced; there is a table is the matching pattern.
+**Explanation:** The table is the singular thing being introduced; 'there is a table' is the matching pattern.
 
 **Choice feedback:**
 
-- **are:** The noun phrase a table is singular, so this standard written there sentence uses is.
-- **am:** Am does not agree with a table; it is used with I.
-- **is:** The table is the singular thing being introduced; there is a table is the matching pattern.
+- **are:** The noun phrase 'a table' is singular, so this standard written 'there' sentence uses 'is'.
+- **am:** 'Am' does not agree with 'a table'; it is used with 'I'.
+- **is:** The table is the singular thing being introduced; 'there is a table' is the matching pattern.
 - **be:** An ordinary present statement needs is, not base-form be.
 
 **Decision:** replaced.
@@ -595,14 +595,14 @@ Choose the standard written completion about the usual weather: It ___ a lot in 
 3. raining
 4. are raining
 
-**Explanation:** Weather it is grammatically singular, so the routine statement uses rains.
+**Explanation:** Weather 'it' is grammatically singular, so the routine statement uses 'rains'.
 
 **Choice feedback:**
 
-- **rains:** Weather it is grammatically singular, so the routine statement uses rains.
-- **rain:** The weather subject it takes the third-person singular form rains in a simple present statement.
-- **raining:** Raining alone needs an auxiliary, such as is, to make the sentence complete.
-- **are raining:** Are does not agree with it; the progressive would be is raining.
+- **rains:** Weather 'it' is grammatically singular, so the routine statement uses 'rains'.
+- **rain:** The weather subject 'it' takes the third-person singular form 'rains' in a simple present statement.
+- **raining:** 'Raining' alone needs an auxiliary, such as 'is', to make the sentence complete.
+- **are raining:** 'Are' does not agree with 'it'; the progressive would be 'is raining'.
 
 **Decision:** replaced.
 
@@ -632,7 +632,7 @@ Choose the standard written pair: I ___ at eight, but she ___ at nine.
 **Choice feedback:**
 
 - **starts / starts:** She starts is correct, but I needs start without -s.
-- **start / start:** I start is correct, but she needs the third-person singular starts.
+- **start / start:** 'I start' is correct, but 'she' needs the third-person singular 'starts'.
 - **start / starts:** Both subjects refer to one person, but their grammatical person differs: I start and she starts.
 - **starts / start:** Both forms are reversed: I start and she starts are the required pair.
 
@@ -663,14 +663,14 @@ Choose the completion suitable for standard formal writing: There ___ three repo
 3. are **[Correct]**
 4. am
 
-**Explanation:** The introduced noun phrase three reports is plural, so formal writing uses there are.
+**Explanation:** The introduced noun phrase 'three reports' is plural, so formal writing uses 'there are'.
 
 **Choice feedback:**
 
 - **is:** There is or there's with a plural noun occurs in informal speech, but there are is expected in this formal note.
-- **has:** Has cannot introduce the reports in this existence statement; a form of be is needed.
-- **are:** The introduced noun phrase three reports is plural, so formal writing uses there are.
-- **am:** Am belongs with I, not the plural reports introduced after there.
+- **has:** 'Has' cannot introduce the reports in this existence statement; a form of 'be' is needed.
+- **are:** The introduced noun phrase 'three reports' is plural, so formal writing uses 'there are'.
+- **am:** 'Am' belongs with 'I', not the plural reports introduced after 'there'.
 
 **Decision:** replaced.
 
@@ -695,14 +695,14 @@ Complete the standard written sentence: One of the cards ___ missing.
 3. be
 4. is **[Correct]**
 
-**Explanation:** One is the singular head of the subject, even though the phrase also contains plural cards.
+**Explanation:** 'One' is the singular head of the subject, even though the phrase also contains plural 'cards'.
 
 **Choice feedback:**
 
-- **are:** The subject is one of the cards; one selects a single card, so nearby cards does not require are.
+- **are:** The subject is 'one of the cards'; 'one' selects a single card, so nearby 'cards' does not require 'are'.
 - **am:** Am agrees with I, not with one of the cards.
 - **be:** This present statement requires a finite form of be: is.
-- **is:** One is the singular head of the subject, even though the phrase also contains plural cards.
+- **is:** 'One' is the singular head of the subject, even though the phrase also contains plural 'cards'.
 
 **Decision:** replaced.
 
@@ -727,14 +727,14 @@ Complete the standard present-perfect update: The guests ___ arrived.
 3. had
 4. have **[Correct]**
 
-**Explanation:** The plural subject takes have before the past participle arrived in the present perfect.
+**Explanation:** The plural subject takes 'have' before the past participle 'arrived' in the present perfect.
 
 **Choice feedback:**
 
-- **has:** The guests is plural, so present-perfect have must be plural too.
-- **is:** Is is singular and does not form the ordinary present perfect with arrived.
+- **has:** 'The guests' is plural, so present-perfect 'have' must be plural too.
+- **is:** 'Is' is singular and does not form the ordinary present perfect with 'arrived'.
 - **had:** Had would form the past perfect; the requested update uses the present perfect.
-- **have:** The plural subject takes have before the past participle arrived in the present perfect.
+- **have:** The plural subject takes 'have' before the past participle 'arrived' in the present perfect.
 
 **Decision:** replaced.
 
@@ -759,14 +759,14 @@ Choose the standard written completion: Each apartment ___ its own meter.
 3. are having
 4. has **[Correct]**
 
-**Explanation:** Each apartment means every apartment considered separately; the singular phrase takes has.
+**Explanation:** 'Each apartment' means every apartment considered separately; the singular phrase takes 'has'.
 
 **Choice feedback:**
 
-- **have:** Each treats the apartments individually and takes a singular verb, not plural have.
-- **having:** Having needs a finite auxiliary to form a verb phrase; this simple statement about each apartment's meter uses has.
-- **are having:** Each apartment is singular, so are does not agree with it.
-- **has:** Each apartment means every apartment considered separately; the singular phrase takes has.
+- **have:** 'Each' treats the apartments individually and takes a singular verb, not plural 'have'.
+- **having:** 'Having' needs a finite auxiliary to form a verb phrase; this simple statement about each apartment's meter uses 'has'.
+- **are having:** 'Each apartment' is singular, so 'are' does not agree with it.
+- **has:** 'Each apartment' means every apartment considered separately; the singular phrase takes 'has'.
 
 **Decision:** replaced.
 
@@ -791,14 +791,14 @@ Choose the correct past-progressive completion: Several customers ___ waiting ou
 3. were **[Correct]**
 4. have
 
-**Explanation:** Several customers is plural; the past progressive therefore uses were waiting.
+**Explanation:** 'Several customers' is plural; the past progressive therefore uses 'were waiting'.
 
 **Choice feedback:**
 
-- **was:** Was is singular, but several customers names more than one person.
+- **was:** 'Was' is singular, but 'several customers' names more than one person.
 - **are:** Are would put the progressive in the present, not the specified past scene.
-- **were:** Several customers is plural; the past progressive therefore uses were waiting.
-- **have:** Have does not directly form a progressive with waiting; it would need been for a perfect progressive.
+- **were:** 'Several customers' is plural; the past progressive therefore uses 'were waiting'.
+- **have:** 'Have' does not directly form a progressive with 'waiting'; it would need 'been' for a perfect progressive.
 
 **Decision:** replaced.
 
@@ -823,14 +823,14 @@ Complete the standard written announcement: Everyone ___ here now.
 3. am
 4. be
 
-**Explanation:** Everyone takes singular is even when it refers to many people.
+**Explanation:** 'Everyone' takes singular 'is' even when it refers to many people.
 
 **Choice feedback:**
 
-- **are:** Everyone refers to all people individually but is grammatically singular in this statement.
-- **is:** Everyone takes singular is even when it refers to many people.
-- **am:** Am is used with I, not with everyone.
-- **be:** Base-form be does not serve as the finite verb in this ordinary present statement.
+- **are:** 'Everyone' refers to all people individually but is grammatically singular in this statement.
+- **is:** 'Everyone' takes singular 'is' even when it refers to many people.
+- **am:** 'Am' is used with 'I', not with 'everyone'.
+- **be:** Base-form 'be' does not serve as the finite verb in this ordinary present statement.
 
 **Decision:** replaced.
 
@@ -855,14 +855,14 @@ Choose the standard written completion: This information ___ useful.
 3. be
 4. is **[Correct]**
 
-**Explanation:** Information is treated as an uncountable singular noun in this context, so use is.
+**Explanation:** 'Information' is treated as an uncountable singular noun in this context, so use 'is'.
 
 **Choice feedback:**
 
-- **are:** Information is uncountable here and takes singular agreement, even when it includes several details.
+- **are:** 'Information' is uncountable here and takes singular agreement, even when it includes several details.
 - **am:** Am agrees with I, not information.
-- **be:** This present statement needs the finite verb is, not base-form be.
-- **is:** Information is treated as an uncountable singular noun in this context, so use is.
+- **be:** This present statement needs the finite verb 'is', not base-form 'be'.
+- **is:** 'Information' is treated as an uncountable singular noun in this context, so use 'is'.
 
 **Decision:** replaced.
 
@@ -887,13 +887,13 @@ Complete the standard written question: Where ___ the scissors?
 3. am
 4. be
 
-**Explanation:** Scissors is a plural-form noun, so the location question uses are.
+**Explanation:** 'Scissors' is a plural-form noun, so the location question uses 'are'.
 
 **Choice feedback:**
 
-- **is:** Scissors takes plural agreement even when it names a single cutting tool.
-- **are:** Scissors is a plural-form noun, so the location question uses are.
-- **am:** Am is used with I, not scissors.
+- **is:** 'Scissors' takes plural agreement even when it names a single cutting tool.
+- **are:** 'Scissors' is a plural-form noun, so the location question uses 'are'.
+- **am:** 'Am' is used with 'I', not 'scissors'.
 - **be:** An ordinary present location question needs a finite form, here are.
 
 **Decision:** replaced.
@@ -919,14 +919,14 @@ Choose the present-tense completion giving the current price: This pair of sciss
 3. costs **[Correct]**
 4. are costing
 
-**Explanation:** Pair is the singular head, so this present-tense price statement takes costs.
+**Explanation:** 'Pair' is the singular head, so this present-tense price statement takes 'costs'.
 
 **Choice feedback:**
 
 - **cost:** Cost could describe a past price, but the task asks for the current price in the present tense. With this pair, use costs.
-- **costing:** Costing alone does not supply the finite verb needed for this price statement.
-- **costs:** Pair is the singular head, so this present-tense price statement takes costs.
-- **are costing:** The auxiliary are does not agree with this pair, even though scissors is plural.
+- **costing:** 'Costing' alone does not supply the finite verb needed for this price statement.
+- **costs:** 'Pair' is the singular head, so this present-tense price statement takes 'costs'.
+- **are costing:** The auxiliary 'are' does not agree with 'this pair', even though 'scissors' is plural.
 
 **Decision:** replaced.
 
@@ -951,14 +951,14 @@ Complete the standard written response: The news ___ good.
 3. am
 4. be
 
-**Explanation:** News is a singular uncountable noun, so its present verb is is.
+**Explanation:** 'News' is a singular uncountable noun, so its present verb is 'is'.
 
 **Choice feedback:**
 
 - **are:** News ends in -s but is grammatically singular in this meaning.
-- **is:** News is a singular uncountable noun, so its present verb is is.
-- **am:** Am is the form for I, not news.
-- **be:** This statement about the news needs singular is; bare be does not supply ordinary present-tense agreement.
+- **is:** 'News' is a singular uncountable noun, so its present verb is 'is'.
+- **am:** 'Am' is the form for 'I', not 'news'.
+- **be:** This statement about the news needs singular 'is'; bare 'be' does not supply ordinary present-tense agreement.
 
 **Decision:** replaced.
 
@@ -988,9 +988,9 @@ Choose the standard written completion treating the time as one duration: Two ho
 **Choice feedback:**
 
 - **is:** A measured duration can be treated as one amount of time, so two hours takes is here.
-- **are:** The task presents the two hours as one total duration, not as separately considered hours, so singular is fits that reading.
-- **have:** Have cannot connect this duration to too long in the required sentence; a form of be is needed.
-- **am:** Am is used with I, not with a phrase naming a duration.
+- **are:** The task presents the two hours as one total duration, not as separately considered hours, so singular 'is' fits that reading.
+- **have:** 'Have' cannot connect this duration to 'too long' in the required sentence; a form of 'be' is needed.
+- **am:** 'Am' is used with 'I', not with a phrase naming a duration.
 
 **Decision:** replaced.
 
@@ -1015,14 +1015,14 @@ Choose the standard written completion: Both colleagues ___ work at eight.
 3. start **[Correct]**
 4. is starting
 
-**Explanation:** Both requires two people here, and the plural subject takes start.
+**Explanation:** 'Both' requires two people here, and the plural subject takes 'start'.
 
 **Choice feedback:**
 
-- **starts:** Both colleagues is plural, so the simple present verb must not take singular -s.
+- **starts:** 'Both colleagues' is plural, so the simple present verb must not take singular '-s'.
 - **starting:** Starting alone is not a finite verb for this habitual statement.
-- **start:** Both requires two people here, and the plural subject takes start.
-- **is starting:** Is is singular and cannot agree with both colleagues.
+- **start:** 'Both' requires two people here, and the plural subject takes 'start'.
+- **is starting:** 'Is' is singular and cannot agree with 'both colleagues'.
 
 **Decision:** replaced.
 
@@ -1047,13 +1047,13 @@ Choose the standard written completion: The receptionist ___ all incoming calls.
 3. answering
 4. are answering
 
-**Explanation:** The receptionist is the singular subject; plural calls is the object and does not control agreement.
+**Explanation:** 'The receptionist' is the singular subject; plural 'calls' is the object and does not control agreement.
 
 **Choice feedback:**
 
-- **answers:** The receptionist is the singular subject; plural calls is the object and does not control agreement.
-- **answer:** Answer would fit a plural subject such as receptionists, not the receptionist.
-- **answering:** Answering alone needs an auxiliary to form a complete verb.
+- **answers:** 'The receptionist' is the singular subject; plural 'calls' is the object and does not control agreement.
+- **answer:** 'Answer' would fit a plural subject such as 'receptionists', not 'the receptionist'.
+- **answering:** 'Answering' alone needs an auxiliary to form a complete verb.
 - **are answering:** Are incorrectly agrees as though the singular receptionist were plural.
 
 **Decision:** replaced.
@@ -1079,14 +1079,14 @@ Complete the standard written sentence: The key to the storage rooms ___ on this
 3. be
 4. is **[Correct]**
 
-**Explanation:** The subject's main noun is key. To the storage rooms describes that key but does not make it plural.
+**Explanation:** The subject's main noun is 'key'. 'To the storage rooms' describes that key but does not make it plural.
 
 **Choice feedback:**
 
 - **are:** Rooms is inside the to phrase; the singular key controls the main verb.
-- **am:** Am cannot agree with the key; it belongs with I.
+- **am:** 'Am' cannot agree with 'the key'; it belongs with 'I'.
 - **be:** A standard present statement needs the finite form is.
-- **is:** The subject's main noun is key. To the storage rooms describes that key but does not make it plural.
+- **is:** The subject's main noun is 'key'. 'To the storage rooms' describes that key but does not make it plural.
 
 **Decision:** replaced.
 
@@ -1111,14 +1111,14 @@ Choose the standard written pair: She ___ the gate and ___ the lights.
 3. opens / check
 4. open / check
 
-**Explanation:** And joins two verbs sharing the singular subject she; each simple present verb takes -s.
+**Explanation:** 'And' joins two verbs sharing the singular subject 'she'; each simple present verb takes '-s'.
 
 **Choice feedback:**
 
 - **open / checks:** Both actions have she as their subject, so open needs -s too.
-- **opens / checks:** And joins two verbs sharing the singular subject she; each simple present verb takes -s.
-- **opens / check:** The subject remains she after and, so check also needs -s.
-- **open / check:** Both base forms would fit they, but the stated subject is she.
+- **opens / checks:** 'And' joins two verbs sharing the singular subject 'she'; each simple present verb takes '-s'.
+- **opens / check:** The subject remains 'she' after 'and', so 'check' also needs '-s'.
+- **open / check:** Both base forms would fit 'they', but the stated subject is 'she'.
 
 **Decision:** replaced.
 
@@ -1143,14 +1143,14 @@ Complete the standard written sentence: You and I ___ carrying it together.
 3. is
 4. be
 
-**Explanation:** You and I can be replaced by we; the plural progressive is are carrying.
+**Explanation:** 'You and I' can be replaced by 'we'; the plural progressive is 'are carrying'.
 
 **Choice feedback:**
 
-- **are:** You and I can be replaced by we; the plural progressive is are carrying.
+- **are:** 'You and I' can be replaced by 'we'; the plural progressive is 'are carrying'.
 - **am:** I alone would take am, but the combined subject you and I is plural.
-- **is:** Is does not agree with a subject naming both speaker and listener.
-- **be:** The ongoing-action statement needs a finite auxiliary rather than base-form be.
+- **is:** 'Is' does not agree with a subject naming both speaker and listener.
+- **be:** The ongoing-action statement needs a finite auxiliary rather than base-form 'be'.
 
 **Decision:** replaced.
 
@@ -1175,14 +1175,14 @@ Choose the standard written sentence about her ability.
 3. Nora can repair a puncture. **[Correct]**
 4. Nora can repairing a puncture.
 
-**Explanation:** Can is unchanged with a singular subject, and the following verb stays in its base form repair.
+**Explanation:** 'Can' is unchanged with a singular subject, and the following verb stays in its base form 'repair'.
 
 **Choice feedback:**
 
-- **Nora cans repair a puncture.:** Modal can does not add -s with Nora; it stays can for every subject.
-- **Nora can repairs a puncture.:** Do not put singular -s on repairs after can; the modal requires base-form repair.
-- **Nora can repair a puncture.:** Can is unchanged with a singular subject, and the following verb stays in its base form repair.
-- **Nora can repairing a puncture.:** Can is followed by the base verb repair, not repairing.
+- **Nora cans repair a puncture.:** Modal 'can' does not add '-s' with 'Nora'; it stays 'can' for every subject.
+- **Nora can repairs a puncture.:** Do not put singular '-s' on 'repairs' after 'can'; the modal requires base-form 'repair'.
+- **Nora can repair a puncture.:** 'Can' is unchanged with a singular subject, and the following verb stays in its base form 'repair'.
+- **Nora can repairing a puncture.:** 'Can' is followed by the base verb 'repair', not 'repairing'.
 
 **Decision:** replaced.
 
@@ -1207,13 +1207,13 @@ Choose the standard present-perfect completion: Someone ___ taken it upstairs.
 3. is
 4. are
 
-**Explanation:** The indefinite pronoun someone is singular, so use has before taken.
+**Explanation:** The indefinite pronoun 'someone' is singular, so use 'has' before 'taken'.
 
 **Choice feedback:**
 
-- **has:** The indefinite pronoun someone is singular, so use has before taken.
-- **have:** Someone takes singular agreement, so the present-perfect auxiliary is has.
-- **is:** Is does not form this active present perfect with taken.
+- **has:** The indefinite pronoun 'someone' is singular, so use 'has' before 'taken'.
+- **have:** 'Someone' takes singular agreement, so the present-perfect auxiliary is 'has'.
+- **is:** 'Is' does not form this active present perfect with 'taken'.
 - **are:** Are neither agrees with someone nor forms the required perfect construction.
 
 **Decision:** replaced.
@@ -1239,14 +1239,14 @@ Choose the standard written completion: The tenants who ___ above the cafe use t
 3. living
 4. is living
 
-**Explanation:** The relative pronoun who represents the tenants here; its verb therefore takes plural agreement.
+**Explanation:** The relative pronoun 'who' represents the tenants here; its verb therefore takes plural agreement.
 
 **Choice feedback:**
 
-- **lives:** Who refers back to plural tenants, so the relative-clause verb is live.
-- **live:** The relative pronoun who represents the tenants here; its verb therefore takes plural agreement.
-- **living:** Who living lacks the finite verb needed in this relative clause; who live or who are living would work.
-- **is living:** Is does not agree with the plural people represented by who.
+- **lives:** 'Who' refers back to plural 'tenants', so the relative-clause verb is 'live'.
+- **live:** The relative pronoun 'who' represents the tenants here; its verb therefore takes plural agreement.
+- **living:** 'Who living' lacks the finite verb needed in this relative clause; 'who live' or 'who are living' would work.
+- **is living:** 'Is' does not agree with the plural people represented by 'who'.
 
 **Decision:** replaced.
 
@@ -1271,14 +1271,14 @@ Choose the standard written completion: Whose keys ___ these?
 3. am
 4. be
 
-**Explanation:** Keys and these are plural; the question uses are regardless of whether the owner is one person or several.
+**Explanation:** 'Keys' and 'these' are plural; the question uses 'are' regardless of whether the owner is one person or several.
 
 **Choice feedback:**
 
-- **are:** Keys and these are plural; the question uses are regardless of whether the owner is one person or several.
-- **is:** The question concerns plural keys, so is does not agree with them.
+- **are:** 'Keys' and 'these' are plural; the question uses 'are' regardless of whether the owner is one person or several.
+- **is:** The question concerns plural 'keys', so 'is' does not agree with them.
 - **am:** Am belongs with I and cannot agree with these keys.
-- **be:** A normal present question needs the finite verb are, not base-form be.
+- **be:** A normal present question needs the finite verb 'are', not base-form 'be'.
 
 **Decision:** replaced.
 
@@ -1307,14 +1307,14 @@ Choose the standard formal completion: Each of the rooms ___ a working smoke ala
 3. having
 4. are having
 
-**Explanation:** Each is the singular head; of the rooms gives the set whose members are considered individually.
+**Explanation:** 'Each' is the singular head; 'of the rooms' gives the set whose members are considered individually.
 
 **Choice feedback:**
 
-- **have:** The nearby plural rooms does not control the verb after each of the rooms in formal writing.
-- **has:** Each is the singular head; of the rooms gives the set whose members are considered individually.
+- **have:** The nearby plural 'rooms' does not control the verb after 'each of the rooms' in formal writing.
+- **has:** 'Each' is the singular head; 'of the rooms' gives the set whose members are considered individually.
 - **having:** Having alone leaves the main clause without a finite verb.
-- **are having:** Are incorrectly treats each as plural; the ordinary possession statement uses has.
+- **are having:** 'Are' incorrectly treats 'each' as plural; the ordinary possession statement uses 'has'.
 
 **Decision:** replaced.
 
@@ -1339,12 +1339,12 @@ Choose the standard modern English pair: Everyone ___ welcome; they ___ to sign 
 3. is / needs
 4. are / needs
 
-**Explanation:** Everyone takes is. The following gender-neutral they retains the ordinary they verb form need.
+**Explanation:** 'Everyone' takes 'is'. The following gender-neutral 'they' retains the ordinary 'they' verb form 'need'.
 
 **Choice feedback:**
 
-- **is / need:** Everyone takes is. The following gender-neutral they retains the ordinary they verb form need.
-- **are / need:** They need is correct, but everyone itself takes singular is.
+- **is / need:** 'Everyone' takes 'is'. The following gender-neutral 'they' retains the ordinary 'they' verb form 'need'.
+- **are / need:** 'They need' is correct, but 'everyone' itself takes singular 'is'.
 - **is / needs:** Everyone is is correct, but they takes need even when it refers back to each individual.
 - **are / needs:** Both agreements are misplaced: everyone is, followed by they need.
 
@@ -1371,13 +1371,13 @@ Choose the standard written pair: The number of requests ___ rising. A number of
 3. is / has
 4. are / has
 
-**Explanation:** The number of focuses on a singular total, while a number of functions like several and takes plural agreement.
+**Explanation:** 'The number of' focuses on a singular total, while 'a number of' functions like 'several' and takes plural agreement.
 
 **Choice feedback:**
 
-- **is / have:** The number of focuses on a singular total, while a number of functions like several and takes plural agreement.
+- **is / have:** 'The number of' focuses on a singular total, while 'a number of' functions like 'several' and takes plural agreement.
 - **are / have:** A number of employees have is correct, but the number names one total and takes is.
-- **is / has:** The first clause is correct; a number of employees means several employees and takes have.
+- **is / has:** The first clause is correct; 'a number of employees' means several employees and takes 'have'.
 - **are / has:** Both patterns are reversed: the number is, but a number of employees have.
 
 **Decision:** replaced.
@@ -1403,14 +1403,14 @@ Choose the standard written completion: The forms in the blue folder ___ a signa
 3. require **[Correct]**
 4. is requiring
 
-**Explanation:** The head of the subject is forms. The phrase in the blue folder does not change its plural number.
+**Explanation:** The head of the subject is 'forms'. The phrase 'in the blue folder' does not change its plural number.
 
 **Choice feedback:**
 
-- **requires:** Folder is singular but belongs to the modifying phrase; plural forms controls the verb.
+- **requires:** 'Folder' is singular but belongs to the modifying phrase; plural 'forms' controls the verb.
 - **requiring:** Requiring alone does not form a complete finite predicate.
-- **require:** The head of the subject is forms. The phrase in the blue folder does not change its plural number.
-- **is requiring:** Is does not agree with the plural head forms.
+- **require:** The head of the subject is 'forms'. The phrase 'in the blue folder' does not change its plural number.
+- **is requiring:** 'Is' does not agree with the plural head 'forms'.
 
 **Decision:** replaced.
 
@@ -1435,14 +1435,14 @@ Choose the standard formal present completion: Either the manager or the assista
 3. confirming
 4. are confirming
 
-**Explanation:** Either ... or presents two singular alternatives; this formal sentence takes singular confirms.
+**Explanation:** 'Either ... or' presents two singular alternatives; this formal sentence takes singular 'confirms'.
 
 **Choice feedback:**
 
-- **confirms:** Either ... or presents two singular alternatives; this formal sentence takes singular confirms.
-- **confirm:** The alternatives are not joined into a plural and subject; each alternative is singular.
+- **confirms:** 'Either ... or' presents two singular alternatives; this formal sentence takes singular 'confirms'.
+- **confirm:** The alternatives are not joined into a plural 'and' subject; each alternative is singular.
 - **confirming:** Confirming alone leaves the sentence without a finite main verb.
-- **are confirming:** Are gives plural agreement to a subject made of singular alternatives in this formal pattern.
+- **are confirming:** 'Are' gives plural agreement to a subject made of singular alternatives in this formal pattern.
 
 **Decision:** replaced.
 
@@ -1467,14 +1467,14 @@ Choose the standard formal completion: The manager, as well as two assistants, _
 3. am
 4. be
 
-**Explanation:** The singular manager remains the subject; the parenthetical addition does not control the finite auxiliary.
+**Explanation:** The singular 'manager' remains the subject; the parenthetical addition does not control the finite auxiliary.
 
 **Choice feedback:**
 
-- **is:** The singular manager remains the subject; the parenthetical addition does not control the finite auxiliary.
-- **are:** The as well as phrase adds information but does not make the manager a plural grammatical subject in this formal construction.
+- **is:** The singular 'manager' remains the subject; the parenthetical addition does not control the finite auxiliary.
+- **are:** The 'as well as' phrase adds information but does not make the manager a plural grammatical subject in this formal construction.
 - **am:** Am belongs with I, not the manager.
-- **be:** The progressive statement needs a finite auxiliary, here is, before attending.
+- **be:** The progressive statement needs a finite auxiliary, here 'is', before 'attending'.
 
 **Decision:** replaced.
 
@@ -1499,13 +1499,13 @@ Choose the standard written pair: Half the milk ___ left, but half the sandwiche
 3. is / is
 4. are / is
 
-**Explanation:** Half takes agreement appropriate to what is divided: singular mass milk and plural countable sandwiches.
+**Explanation:** 'Half' takes agreement appropriate to what is divided: singular mass 'milk' and plural countable 'sandwiches'.
 
 **Choice feedback:**
 
-- **are / are:** Sandwiches takes are, but milk is an uncountable amount and takes is.
-- **is / are:** Half takes agreement appropriate to what is divided: singular mass milk and plural countable sandwiches.
-- **is / is:** Milk takes is, but the portion of plural sandwiches takes are.
+- **are / are:** 'Sandwiches' takes 'are', but 'milk' is an uncountable amount and takes 'is'.
+- **is / are:** 'Half' takes agreement appropriate to what is divided: singular mass 'milk' and plural countable 'sandwiches'.
+- **is / is:** 'Milk' takes 'is', but the portion of plural 'sandwiches' takes 'are'.
 - **are / is:** The agreements are reversed: half the milk is, and half the sandwiches are.
 
 **Decision:** replaced.
@@ -1531,14 +1531,14 @@ Choose the standard written completion: All of the equipment ___ to the theatre.
 3. are belonging
 4. belongs **[Correct]**
 
-**Explanation:** All of the equipment refers to an uncountable whole, so the verb is singular belongs.
+**Explanation:** 'All of the equipment' refers to an uncountable whole, so the verb is singular 'belongs'.
 
 **Choice feedback:**
 
-- **belong:** All does not force plural agreement; equipment is an uncountable singular noun here.
+- **belong:** 'All' does not force plural agreement; 'equipment' is an uncountable singular noun here.
 - **belonging:** Belonging alone is not the finite verb required in this ownership statement.
-- **are belonging:** Are incorrectly treats equipment as plural; ordinary ownership uses belongs.
-- **belongs:** All of the equipment refers to an uncountable whole, so the verb is singular belongs.
+- **are belonging:** 'Are' incorrectly treats 'equipment' as plural; ordinary ownership uses 'belongs'.
+- **belongs:** 'All of the equipment' refers to an uncountable whole, so the verb is singular 'belongs'.
 
 **Decision:** replaced.
 
@@ -1568,7 +1568,7 @@ Choose the standard written completion: Keeping the records in date order ___ ti
 **Choice feedback:**
 
 - **saves:** The whole activity keeping the records in date order is the subject and is treated as singular.
-- **save:** Plural records is an object inside the activity phrase, not the main-clause subject.
+- **save:** Plural 'records' is an object inside the activity phrase, not the main-clause subject.
 - **are saving:** Are incorrectly makes the single activity subject plural.
 - **saving:** A second -ing form does not supply the finite verb needed after the subject activity.
 
@@ -1595,14 +1595,14 @@ Choose the standard written completion: Mathematics ___ required for this course
 3. am
 4. be
 
-**Explanation:** A school subject such as mathematics normally takes singular agreement in this meaning.
+**Explanation:** A school subject such as 'mathematics' normally takes singular agreement in this meaning.
 
 **Choice feedback:**
 
-- **are:** Mathematics names a subject of study here and is singular despite its final -s.
-- **is:** A school subject such as mathematics normally takes singular agreement in this meaning.
+- **are:** 'Mathematics' names a subject of study here and is singular despite its final '-s'.
+- **is:** A school subject such as 'mathematics' normally takes singular agreement in this meaning.
 - **am:** Am agrees with I, not a subject name.
-- **be:** This factual present statement needs the finite verb is.
+- **be:** This factual present statement needs the finite verb 'is'.
 
 **Decision:** replaced.
 
@@ -1627,14 +1627,14 @@ Choose the standard modern English completion about that one country: The United
 3. is **[Correct]**
 4. be
 
-**Explanation:** The United States names one country in this sentence and takes singular agreement.
+**Explanation:** 'The United States' names one country in this sentence and takes singular agreement.
 
 **Choice feedback:**
 
-- **are:** In its modern country-name use, the United States is treated as singular, despite the plural-looking states.
-- **am:** Am cannot agree with a country name.
-- **is:** The United States names one country in this sentence and takes singular agreement.
-- **be:** A factual present statement requires the finite verb is, not base-form be.
+- **are:** In its modern country-name use, 'the United States' is treated as singular, despite the plural-looking 'states'.
+- **am:** 'Am' cannot agree with a country name.
+- **is:** 'The United States' names one country in this sentence and takes singular agreement.
+- **be:** A factual present statement requires the finite verb 'is', not base-form 'be'.
 
 **Decision:** replaced.
 
@@ -1659,14 +1659,14 @@ Choose the standard written completion: The police ___ checking tickets at the e
 3. are **[Correct]**
 4. be
 
-**Explanation:** The police refers to the officers and conventionally takes plural agreement here.
+**Explanation:** 'The police' refers to the officers and conventionally takes plural agreement here.
 
 **Choice feedback:**
 
-- **is:** Police takes plural agreement when it refers to police officers as a group in standard English.
-- **am:** Am is used with I, not police.
-- **are:** The police refers to the officers and conventionally takes plural agreement here.
-- **be:** The progressive needs the finite auxiliary are before checking.
+- **is:** 'Police' takes plural agreement when it refers to police officers as a group in standard English.
+- **am:** 'Am' is used with 'I', not 'police'.
+- **are:** 'The police' refers to the officers and conventionally takes plural agreement here.
+- **be:** The progressive needs the finite auxiliary 'are' before 'checking'.
 
 **Decision:** replaced.
 
@@ -1691,14 +1691,14 @@ Choose the standard written completion: None of the water ___ left.
 3. be
 4. is **[Correct]**
 
-**Explanation:** With uncountable water, none of the water takes singular agreement.
+**Explanation:** With uncountable 'water', 'none of the water' takes singular agreement.
 
 **Choice feedback:**
 
-- **are:** Plural agreement can occur with none referring to plural things, but water is an uncountable amount here.
+- **are:** Plural agreement can occur with 'none' referring to plural things, but 'water' is an uncountable amount here.
 - **am:** Am is restricted to I, not none of the water.
 - **be:** This ordinary present statement needs a finite form of be, here is.
-- **is:** With uncountable water, none of the water takes singular agreement.
+- **is:** With uncountable 'water', 'none of the water' takes singular agreement.
 
 **Decision:** replaced.
 
@@ -1723,14 +1723,14 @@ Choose the standard written completion: James ___ the post every morning.
 3. collecting
 4. are collecting
 
-**Explanation:** James names one third-person subject, so the routine verb takes singular -s.
+**Explanation:** 'James' names one third-person subject, so the routine verb takes singular '-s'.
 
 **Choice feedback:**
 
-- **collect:** The final -s belongs to James's name; it does not make the subject plural.
-- **collects:** James names one third-person subject, so the routine verb takes singular -s.
+- **collect:** The final '-s' belongs to James's name; it does not make the subject plural.
+- **collects:** 'James' names one third-person subject, so the routine verb takes singular '-s'.
 - **collecting:** Collecting alone is not a complete finite verb for this routine.
-- **are collecting:** Are does not agree with the one person named James.
+- **are collecting:** 'Are' does not agree with the one person named James.
 
 **Decision:** replaced.
 
@@ -1787,14 +1787,14 @@ Choose the standard written completion: The display cases ___ locked by the care
 3. be
 4. are **[Correct]**
 
-**Explanation:** In the passive, plural display cases is the subject, so use are locked even though one caretaker performs the action.
+**Explanation:** In the passive, plural 'display cases' is the subject, so use 'are locked' even though one caretaker performs the action.
 
 **Choice feedback:**
 
-- **is:** The passive subject cases is plural; the singular caretaker in the by phrase does not control agreement.
+- **is:** The passive subject 'cases' is plural; the singular caretaker in the 'by' phrase does not control agreement.
 - **am:** Am agrees with I, not the display cases.
-- **be:** An ordinary present passive needs a finite be form, here are.
-- **are:** In the passive, plural display cases is the subject, so use are locked even though one caretaker performs the action.
+- **be:** An ordinary present passive needs a finite 'be' form, here 'are'.
+- **are:** In the passive, plural 'display cases' is the subject, so use 'are locked' even though one caretaker performs the action.
 
 **Decision:** replaced.
 
@@ -1819,14 +1819,14 @@ Choose the standard written completion: Nobody ___ the answer yet.
 3. knows **[Correct]**
 4. are knowing
 
-**Explanation:** Nobody is a singular indefinite pronoun, so its simple present verb takes -s.
+**Explanation:** 'Nobody' is a singular indefinite pronoun, so its simple present verb takes '-s'.
 
 **Choice feedback:**
 
-- **know:** The negative meaning does not make nobody plural; standard agreement requires knows.
+- **know:** The negative meaning does not make 'nobody' plural; standard agreement requires 'knows'.
 - **knowing:** Knowing alone leaves the clause without a finite main verb.
-- **knows:** Nobody is a singular indefinite pronoun, so its simple present verb takes -s.
-- **are knowing:** Are incorrectly treats nobody as plural and does not fit this ordinary statement of knowledge.
+- **knows:** 'Nobody' is a singular indefinite pronoun, so its simple present verb takes '-s'.
+- **are knowing:** 'Are' incorrectly treats 'nobody' as plural and does not fit this ordinary statement of knowledge.
 
 **Decision:** replaced.
 
@@ -1851,13 +1851,13 @@ Choose the standard written pair: The woman who ___ the buildings ___ next door.
 3. manages / lives **[Correct]**
 4. manage / live
 
-**Explanation:** Both who and the main-clause subject refer to the same singular woman; each present verb takes -s.
+**Explanation:** Both 'who' and the main-clause subject refer to the same singular woman; each present verb takes '-s'.
 
 **Choice feedback:**
 
 - **manage / lives:** Who represents the singular woman, so manages is needed in the relative clause.
-- **manages / live:** Buildings is inside the relative clause; it does not turn the main subject woman into a plural.
-- **manages / lives:** Both who and the main-clause subject refer to the same singular woman; each present verb takes -s.
+- **manages / live:** 'Buildings' is inside the relative clause; it does not turn the main subject 'woman' into a plural.
+- **manages / lives:** Both 'who' and the main-clause subject refer to the same singular woman; each present verb takes '-s'.
 - **manage / live:** Both verbs need singular agreement with the woman, despite the plural object buildings.
 
 **Decision:** replaced.
@@ -1887,9 +1887,9 @@ Choose the standard formal completion: The instructions, not the diagram, ___ ho
 
 **Choice feedback:**
 
-- **explains:** The diagram is in a contrastive parenthetical, not the main subject; instructions requires explain.
-- **explaining:** Explaining alone cannot complete the finite main clause.
-- **is explaining:** Is incorrectly follows the singular noun in the parenthetical rather than the plural subject.
+- **explains:** 'The diagram' is in a contrastive parenthetical, not the main subject; 'instructions' requires 'explain'.
+- **explaining:** 'Explaining' alone cannot complete the finite main clause.
+- **is explaining:** 'Is' incorrectly follows the singular noun in the parenthetical rather than the plural subject.
 - **explain:** The plural instructions remains the subject. Not the diagram excludes an alternative without changing agreement.
 
 **Decision:** replaced.
@@ -1910,19 +1910,19 @@ You compare yesterday's actions by one courier and several couriers.
 
 Which comment on 'She delivered the parcel' and 'They delivered the parcels' is accurate in standard English?
 
-1. Delivered is past tense with she but a past participle with they.
+1. 'Delivered' is past tense with 'she' but a past participle with 'they'.
 2. The singular sentence needs has before delivered for its verb to agree with she.
 3. The second sentence needs deliver because they is plural.
 4. Delivered stays the same with singular and plural subjects in the simple past. **[Correct]**
 
-**Explanation:** Ordinary lexical verbs do not distinguish person or number in the simple past; be is the major exception.
+**Explanation:** Ordinary lexical verbs do not distinguish person or number in the simple past; 'be' is the major exception.
 
 **Choice feedback:**
 
-- **Delivered is past tense with she but a past participle with they.:** Delivered is the finite simple-past verb in both sentences. The same written form can be a participle elsewhere, but changing the subject to they does not make it one here.
-- **The singular sentence needs has before delivered for its verb to agree with she.:** She delivered is already a complete simple-past clause. Adding has would create a present-perfect construction rather than repair agreement.
-- **The second sentence needs deliver because they is plural.:** Deliver is the base or present form; the completed past event uses delivered with they too.
-- **Delivered stays the same with singular and plural subjects in the simple past.:** Ordinary lexical verbs do not distinguish person or number in the simple past; be is the major exception.
+- **'Delivered' is past tense with 'she' but a past participle with 'they'.:** 'Delivered' is the finite simple-past verb in both sentences. The same written form can be a participle elsewhere, but changing the subject to 'they' does not make it one here.
+- **The singular sentence needs has before delivered for its verb to agree with she.:** 'She delivered' is already a complete simple-past clause. Adding 'has' would create a present-perfect construction rather than repair agreement.
+- **The second sentence needs deliver because they is plural.:** 'Deliver' is the base or present form; the completed past event uses 'delivered' with 'they' too.
+- **Delivered stays the same with singular and plural subjects in the simple past.:** Ordinary lexical verbs do not distinguish person or number in the simple past; 'be' is the major exception.
 
 **Decision:** replaced.
 
@@ -1951,13 +1951,13 @@ Choose the standard written pair preserving that meaning: The list of reports th
 3. are / are
 4. is / are
 
-**Explanation:** That refers to plural reports, while the main subject is singular list; the two clauses therefore need are and is.
+**Explanation:** 'That' refers to plural 'reports', while the main subject is singular 'list'; the two clauses therefore need 'are' and 'is'.
 
 **Choice feedback:**
 
-- **are / is:** That refers to plural reports, while the main subject is singular list; the two clauses therefore need are and is.
-- **is / is:** The main is is right, but the intended relative clause describes the overdue reports, not an overdue list.
-- **are / are:** The relative clause correctly uses are for reports, but the list itself takes singular is.
+- **are / is:** 'That' refers to plural 'reports', while the main subject is singular 'list'; the two clauses therefore need 'are' and 'is'.
+- **is / is:** The main 'is' is right, but the intended relative clause describes the overdue reports, not an overdue list.
+- **are / are:** The relative clause correctly uses 'are' for 'reports', but the list itself takes singular 'is'.
 - **is / are:** This assigns singular agreement to the reports and plural agreement to the list, reversing both intended controllers.
 
 **Decision:** replaced.
@@ -1981,7 +1981,7 @@ Which assessment of agreement is accurate?
 1. Were necessarily changes the meaning from one group to several groups.
 2. Both are standard, with a unit or a member-focused reading. **[Correct]**
 3. Was is correct only if exactly one visitor is waiting.
-4. Were is a past-tense error because group has no written plural ending.
+4. 'Were' is a past-tense error because 'group' has no written plural ending.
 
 **Explanation:** British English permits singular or plural agreement with many collective nouns, depending on how the group is viewed.
 
@@ -1990,7 +1990,7 @@ Which assessment of agreement is accurate?
 - **Were necessarily changes the meaning from one group to several groups.:** Plural agreement can reflect the members of one collective; it need not introduce several groups.
 - **Both are standard, with a unit or a member-focused reading.:** British English permits singular or plural agreement with many collective nouns, depending on how the group is viewed.
 - **Was is correct only if exactly one visitor is waiting.:** A single group can contain many people and still take singular agreement.
-- **Were is a past-tense error because group has no written plural ending.:** The absence of a plural ending does not rule out member-focused collective agreement in British English.
+- **'Were' is a past-tense error because 'group' has no written plural ending.:** The absence of a plural ending does not rule out member-focused collective agreement in British English.
 
 **Decision:** replaced.
 
@@ -2011,7 +2011,7 @@ A colleague says, 'Neither of the answers explain the procedure.' You are adapti
 Which editorial response is best?
 
 1. Use formal explains here; the spoken plural is also established usage. **[Correct]**
-2. Keep explain because the nearer answers is the main subject of the sentence.
+2. Keep 'explain' because the nearer 'answers' is the main subject of the sentence.
 3. Replace neither with both while keeping the intended negative claim about the answers.
 4. Use does not explain because neither needs a negative auxiliary to convey the intended meaning.
 
@@ -2020,7 +2020,7 @@ Which editorial response is best?
 **Choice feedback:**
 
 - **Use formal explains here; the spoken plural is also established usage.:** Formal editing normally favors singular agreement with neither of; plural agreement is nevertheless common in less formal usage.
-- **Keep explain because the nearer answers is the main subject of the sentence.:** Answers belongs to the of-phrase. Conventional formal editing treats neither as the head and uses singular explains.
+- **Keep 'explain' because the nearer 'answers' is the main subject of the sentence.:** 'Answers' belongs to the of-phrase. Conventional formal editing treats 'neither' as the head and uses singular 'explains'.
 - **Replace neither with both while keeping the intended negative claim about the answers.:** Both answers explain would assert that both succeed. It would not preserve the claim that neither does.
 - **Use does not explain because neither needs a negative auxiliary to convey the intended meaning.:** Neither already supplies the negative meaning. Adding not would not be a simple formal-agreement correction and could invite a different interpretation.
 
@@ -2042,19 +2042,19 @@ A software help page says, 'Your data is stored locally.' No publisher rule requ
 
 Which comment on the agreement is justified?
 
-1. Is proves that the page refers to exactly one recorded fact.
+1. 'Is' proves that the page refers to exactly one recorded fact.
 2. Data can take singular agreement when treated as uncountable information. **[Correct]**
 3. Are would necessarily change the subject from information to several databases.
-4. The sentence needs datum because any singular verb requires the singular Latin form.
+4. The sentence needs 'datum' because any singular verb requires the singular Latin form.
 
 **Explanation:** 'Data' has both plural and mass-singular uses; absent a contrary house rule, this software sentence need not be corrected.
 
 **Choice feedback:**
 
-- **Is proves that the page refers to exactly one recorded fact.:** Mass singular 'data' can contain many facts; singular agreement does not mean one datum.
+- **'Is' proves that the page refers to exactly one recorded fact.:** Mass singular 'data' can contain many facts; singular agreement does not mean one datum.
 - **Data can take singular agreement when treated as uncountable information.:** 'Data' has both plural and mass-singular uses; absent a contrary house rule, this software sentence need not be corrected.
 - **Are would necessarily change the subject from information to several databases.:** Plural 'data' can still denote the same information or observations, not databases.
-- **The sentence needs datum because any singular verb requires the singular Latin form.:** Modern English permits 'data' as an uncountable noun with a singular verb; 'datum' is not required here.
+- **The sentence needs 'datum' because any singular verb requires the singular Latin form.:** Modern English permits 'data' as an uncountable noun with a singular verb; 'datum' is not required here.
 
 **Decision:** replaced.
 
@@ -2079,13 +2079,13 @@ Choose the standard written pair: Each assistant ___ a locker. The assistants ea
 3. have / have
 4. have / has
 
-**Explanation:** Each assistant is singular; in the second sentence assistants remains the plural subject and each distributes the keys without changing agreement.
+**Explanation:** 'Each assistant' is singular; in the second sentence 'assistants' remains the plural subject and 'each' distributes the keys without changing agreement.
 
 **Choice feedback:**
 
-- **has / has:** The first has is correct, but each after the plural subject does not make assistants singular.
-- **has / have:** Each assistant is singular; in the second sentence assistants remains the plural subject and each distributes the keys without changing agreement.
-- **have / have:** The second have is right; each assistant in the first clause requires singular has.
+- **has / has:** The first 'has' is correct, but 'each' after the plural subject does not make 'assistants' singular.
+- **has / have:** 'Each assistant' is singular; in the second sentence 'assistants' remains the plural subject and 'each' distributes the keys without changing agreement.
+- **have / have:** The second 'have' is right; 'each assistant' in the first clause requires singular 'has'.
 - **have / has:** This reverses the controlling subjects: each assistant is singular and the assistants is plural.
 
 **Decision:** replaced.
@@ -2111,14 +2111,14 @@ Choose the standard written pair: Statistics ___ compulsory here, but these surv
 3. are / is
 4. is / are **[Correct]**
 
-**Explanation:** Statistics as a discipline takes is; these statistics as numerical findings takes are.
+**Explanation:** 'Statistics' as a discipline takes 'is'; 'these statistics' as numerical findings takes 'are'.
 
 **Choice feedback:**
 
 - **are / are:** The second statistics means figures and is plural, but the discipline name in the first clause is singular.
 - **is / is:** The first is is correct, but these survey statistics denotes plural figures.
-- **are / is:** The forms are reversed for the two meanings: the subject is singular, the figures plural.
-- **is / are:** Statistics as a discipline takes is; these statistics as numerical findings takes are.
+- **are / is:** The forms are reversed for the two meanings: the 'subject' is singular, the 'figures' plural.
+- **is / are:** 'Statistics' as a discipline takes 'is'; 'these statistics' as numerical findings takes 'are'.
 
 **Decision:** replaced.
 
@@ -2139,18 +2139,18 @@ An editor writes, 'More than one visitor has asked about the missing display.'
 Which explanation of 'has' is correct in standard formal English?
 
 1. Has shows that exactly one person has asked about the display.
-2. More than one plus a singular noun conventionally takes a singular verb despite its plural meaning. **[Correct]**
+2. 'More than one' plus a singular noun conventionally takes a singular verb despite its plural meaning. **[Correct]**
 3. Has agrees with the singular missing display at the end of the sentence.
-4. Has is permitted only because visitor refers to an unidentified person.
+4. 'Has' is permitted only because 'visitor' refers to an unidentified person.
 
 **Explanation:** This construction keeps singular grammatical agreement with 'one visitor' although it describes multiple visitors.
 
 **Choice feedback:**
 
 - **Has shows that exactly one person has asked about the display.:** 'More than one' explicitly rules out an exact count of one; the agreement does not override that meaning.
-- **More than one plus a singular noun conventionally takes a singular verb despite its plural meaning.:** This construction keeps singular grammatical agreement with 'one visitor' although it describes multiple visitors.
+- **'More than one' plus a singular noun conventionally takes a singular verb despite its plural meaning.:** This construction keeps singular grammatical agreement with 'one visitor' although it describes multiple visitors.
 - **Has agrees with the singular missing display at the end of the sentence.:** The display is inside the complement of 'about' and does not control the main auxiliary.
-- **Has is permitted only because visitor refers to an unidentified person.:** Whether visitors are identified does not determine this agreement pattern.
+- **'Has' is permitted only because 'visitor' refers to an unidentified person.:** Whether visitors are identified does not determine this agreement pattern.
 
 **Decision:** replaced.
 
@@ -2182,7 +2182,7 @@ Which comment avoids an overstrict agreement rule?
 - **The singular version means one design is suitable, while the plural means none is.:** Both versions negate suitability; number choice does not reverse none's meaning.
 - **Both agreements are established, with different ways of viewing the set.:** None with plural reference admits singular and plural agreement, with singular often favored in more formal styles.
 - **The plural version must refer to a different set of designs from the singular version.:** Both can refer to exactly the same submitted set.
-- **The singular version is possible only if one design was submitted.:** None of a plural set can take singular agreement emphasizing not one of its members.
+- **The singular version is possible only if one design was submitted.:** 'None' of a plural set can take singular agreement emphasizing not one of its members.
 
 **Decision:** replaced.
 
@@ -2202,8 +2202,8 @@ A journal consistently treats 'data' as plural. A new sentence begins 'A complet
 
 Which explanation correctly identifies the number of the main subject?
 
-1. The main subject must be plural because the journal requires plural agreement for data.
-2. The demonstrative these makes the entire set phrase plural.
+1. The main subject must be plural because the journal requires plural agreement for 'data'.
+2. The demonstrative 'these' makes the entire 'set' phrase plural.
 3. The main subject is singular because set is its head, even under the journal's plural-data rule. **[Correct]**
 4. The main subject is singular only if the set contains one datum.
 
@@ -2211,8 +2211,8 @@ Which explanation correctly identifies the number of the main subject?
 
 **Choice feedback:**
 
-- **The main subject must be plural because the journal requires plural agreement for data.:** That policy governs 'data' when it controls agreement, not every larger phrase containing the word.
-- **The demonstrative these makes the entire set phrase plural.:** 'These' modifies 'data' inside the complement; it does not change 'a complete set' into several sets.
+- **The main subject must be plural because the journal requires plural agreement for 'data'.:** That policy governs 'data' when it controls agreement, not every larger phrase containing the word.
+- **The demonstrative 'these' makes the entire 'set' phrase plural.:** 'These' modifies 'data' inside the complement; it does not change 'a complete set' into several sets.
 - **The main subject is singular because set is its head, even under the journal's plural-data rule.:** 'A complete set' is the head phrase; plural 'these data' belongs inside its of complement and does not determine the main verb.
 - **The main subject is singular only if the set contains one datum.:** One set may contain many data points and still be grammatically singular.
 
@@ -2243,7 +2243,7 @@ Choose the standard written pair: Sixty percent of the funding ___ allocated, an
 
 **Choice feedback:**
 
-- **are / are:** Staff members takes are, but funding is an uncountable amount and takes is.
+- **are / are:** 'Staff members' takes 'are', but 'funding' is an uncountable amount and takes 'is'.
 - **is / is:** The funding clause is right, but the staff-member percentage refers to plural individuals.
 - **are / is:** This reverses the number of the mass funding and countable staff members.
 - **is / are:** Percentage subjects take agreement suited to what is measured: funding is singular mass, staff members plural count.
@@ -2269,7 +2269,7 @@ Which explanation supports 'The unemployed are eligible for the scheme'?
 1. Are is required because eligible is a plural adjective.
 2. The article the makes every following subject plural.
 3. The adjective phrase names a group of people and takes plural agreement. **[Correct]**
-4. Are makes the phrase refer to several unemployment programmes.
+4. 'Are' makes the phrase refer to several unemployment programmes.
 
 **Explanation:** 'The unemployed' is a conventional adjective-based expression for people as a class, so the verb is plural.
 
@@ -2278,7 +2278,7 @@ Which explanation supports 'The unemployed are eligible for the scheme'?
 - **Are is required because eligible is a plural adjective.:** English adjectives such as 'eligible' do not take plural endings or control the subject's number.
 - **The article the makes every following subject plural.:** 'The' occurs with singular and plural subjects; it does not determine number by itself.
 - **The adjective phrase names a group of people and takes plural agreement.:** 'The unemployed' is a conventional adjective-based expression for people as a class, so the verb is plural.
-- **Are makes the phrase refer to several unemployment programmes.:** The subject denotes people, not the schemes for which they may qualify.
+- **'Are' makes the phrase refer to several unemployment programmes.:** The subject denotes people, not the schemes for which they may qualify.
 
 **Decision:** replaced.
 
@@ -2301,16 +2301,16 @@ Which account preserves both the grammar and the meaning?
 1. The expression refers to many visitors but uses singular noun and verb forms. **[Correct]**
 2. The sentence refers to one unusually frequent visitor.
 3. Has shows that many a must be changed to a single.
-4. Many a is a plural noun phrase that requires have in a memoir.
+4. 'Many a' is a plural noun phrase that requires 'have' in a memoir.
 
-**Explanation:** Many a is a formal distributive expression: the quantity is large, but each imagined visitor is grammatically singular.
+**Explanation:** 'Many a' is a formal distributive expression: the quantity is large, but each imagined visitor is grammatically singular.
 
 **Choice feedback:**
 
-- **The expression refers to many visitors but uses singular noun and verb forms.:** Many a is a formal distributive expression: the quantity is large, but each imagined visitor is grammatically singular.
+- **The expression refers to many visitors but uses singular noun and verb forms.:** 'Many a' is a formal distributive expression: the quantity is large, but each imagined visitor is grammatically singular.
 - **The sentence refers to one unusually frequent visitor.:** Many a distributes the experience over many visitors; it does not describe repeated visits by one person.
-- **Has shows that many a must be changed to a single.:** Singular agreement is normal in many a plus a singular noun and does not require reducing the number meant.
-- **Many a is a plural noun phrase that requires have in a memoir.:** The formal construction conventionally uses a singular noun and singular agreement.
+- **Has shows that many a must be changed to a single.:** Singular agreement is normal in 'many a' plus a singular noun and does not require reducing the number meant.
+- **'Many a' is a plural noun phrase that requires 'have' in a memoir.:** The formal construction conventionally uses a singular noun and singular agreement.
 
 **Decision:** replaced.
 
@@ -2335,14 +2335,14 @@ Which sentence follows that stated convention?
 3. Either the director or the assistants is attending.
 4. Either the assistants or the director have confirmed.
 
-**Explanation:** The nearer alternative assistants is plural, so are follows the stated proximity convention.
+**Explanation:** The nearer alternative 'assistants' is plural, so 'are' follows the stated proximity convention.
 
 **Choice feedback:**
 
-- **Either the director or the assistants are attending.:** The nearer alternative assistants is plural, so are follows the stated proximity convention.
+- **Either the director or the assistants are attending.:** The nearer alternative 'assistants' is plural, so 'are' follows the stated proximity convention.
 - **Either the assistants or the director are attending.:** With the singular director nearest, that convention calls for is.
-- **Either the director or the assistants is attending.:** The nearer assistants is plural; is follows the farther singular alternative instead.
-- **Either the assistants or the director have confirmed.:** The nearer director is singular, so this convention requires has confirmed.
+- **Either the director or the assistants is attending.:** The nearer 'assistants' is plural; 'is' follows the farther singular alternative instead.
+- **Either the assistants or the director have confirmed.:** The nearer 'director' is singular, so this convention requires 'has confirmed'.
 
 **Decision:** replaced.
 
@@ -2362,19 +2362,19 @@ A report mentions the directors-general of two separate agencies.
 
 Which explanation supports 'The directors-general have approved the exchange'?
 
-1. General refers to all the directors together, so it makes the subject singular.
+1. 'General' refers to all the directors together, so it makes the subject singular.
 2. Have agrees with the plural agencies mentioned in the context rather than the subject.
-3. Directors is the plural head of the compound subject. **[Correct]**
+3. 'Directors' is the plural head of the compound subject. **[Correct]**
 4. The hyphen makes have possible even if there is just one director-general.
 
 **Explanation:** The compound title pluralizes director, so directors-general denotes multiple office-holders and takes have.
 
 **Choice feedback:**
 
-- **General refers to all the directors together, so it makes the subject singular.:** General is part of the title and does not override the plural head directors.
-- **Have agrees with the plural agencies mentioned in the context rather than the subject.:** The actual subject directors-general already supplies plural number; agreement does not depend on an earlier contextual noun.
-- **Directors is the plural head of the compound subject.:** The compound title pluralizes director, so directors-general denotes multiple office-holders and takes have.
-- **The hyphen makes have possible even if there is just one director-general.:** Punctuation does not create plural number; a single director-general takes has.
+- **'General' refers to all the directors together, so it makes the subject singular.:** 'General' is part of the title and does not override the plural head 'directors'.
+- **Have agrees with the plural agencies mentioned in the context rather than the subject.:** The actual subject 'directors-general' already supplies plural number; agreement does not depend on an earlier contextual noun.
+- **'Directors' is the plural head of the compound subject.:** The compound title pluralizes director, so directors-general denotes multiple office-holders and takes have.
+- **The hyphen makes have possible even if there is just one director-general.:** Punctuation does not create plural number; a single 'director-general' takes 'has'.
 
 **Decision:** replaced.
 
@@ -2403,7 +2403,7 @@ Which comment best explains the agreement contrast?
 
 **Choice feedback:**
 
-- **The singular version is possible only because workshop is singular.:** Workshop is inside a later prepositional phrase and does not control the subject's agreement.
+- **The singular version is possible only because workshop is singular.:** 'Workshop' is inside a later prepositional phrase and does not control the subject's agreement.
 - **The plural version refers to many workshops, and the singular to one.:** The number contrast concerns the activities or their combination, not the number of workshops.
 - **Plural treats them as separate activities; singular presents their combination as one process.:** Coordinated activities normally take plural agreement, but a clearly unified activity can receive singular notional agreement.
 - **The first sentence changes the activities into finished past events.:** Present are does not give the activities past time; both examples are present descriptions.
@@ -2431,13 +2431,13 @@ Which sentence preserves that wording and gives the single quotation standard ag
 3. 'The offices are closed' is printed at the top of the notice. **[Correct]**
 4. 'The offices is closed' are printed at the top of the notice.
 
-**Explanation:** The quotation is one piece of wording, so the outside verb is singular is. The original are remains inside the preserved quotation.
+**Explanation:** The quotation is one piece of wording, so the outside verb is singular 'is'. The original 'are' remains inside the preserved quotation.
 
 **Choice feedback:**
 
-- **'The offices are closed' are printed at the top of the notice.:** This preserves the words but incorrectly lets plural offices control the outside verb, whose subject is the single quotation.
-- **'The offices is closed' is printed at the top of the notice.:** The outside is is appropriate, but the option changes the supplied quotation. Quoting nonstandard wording is possible; preserving the specified wording is the requirement here.
-- **'The offices are closed' is printed at the top of the notice.:** The quotation is one piece of wording, so the outside verb is singular is. The original are remains inside the preserved quotation.
+- **'The offices are closed' are printed at the top of the notice.:** This preserves the words but incorrectly lets plural 'offices' control the outside verb, whose subject is the single quotation.
+- **'The offices is closed' is printed at the top of the notice.:** The outside 'is' is appropriate, but the option changes the supplied quotation. Quoting nonstandard wording is possible; preserving the specified wording is the requirement here.
+- **'The offices are closed' is printed at the top of the notice.:** The quotation is one piece of wording, so the outside verb is singular 'is'. The original 'are' remains inside the preserved quotation.
 - **'The offices is closed' are printed at the top of the notice.:** This changes the required quotation and uses plural outside agreement for one quoted sentence. Both conflict with the editing task.
 
 **Decision:** replaced.
@@ -2463,12 +2463,12 @@ Choose the standard formal completion: Whether the venues can open ___ still unc
 3. have been
 4. were
 
-**Explanation:** The whether clause names one unresolved issue and takes singular main-clause agreement.
+**Explanation:** The 'whether' clause names one unresolved issue and takes singular main-clause agreement.
 
 **Choice feedback:**
 
-- **is:** The whether clause names one unresolved issue and takes singular main-clause agreement.
-- **are:** Venues is the subject inside the whether clause, not the head of the main subject as a whole.
+- **is:** The 'whether' clause names one unresolved issue and takes singular main-clause agreement.
+- **are:** 'Venues' is the subject inside the whether clause, not the head of the main subject as a whole.
 - **have been:** Have would give plural agreement to the single clausal subject; has been would be grammatical with a different tense.
 - **were:** Were would incorrectly treat this single factual issue as plural in the ordinary declarative reading.
 
@@ -2527,14 +2527,14 @@ Choose the standard formal completion preserving the exclusive claim: Mara is th
 3. having
 4. has **[Correct]**
 
-**Explanation:** The intended relative clause identifies the only one, Mara; the singular antecedent takes has worked.
+**Explanation:** The intended relative clause identifies 'the only one', Mara; the singular antecedent takes 'has worked'.
 
 **Choice feedback:**
 
-- **have:** Plural have would describe the engineers as an experienced group rather than the stipulated unique person.
-- **are:** Are cannot form the intended active present perfect and would also be plural.
-- **having:** Having does not supply the finite verb needed after relative who.
-- **has:** The intended relative clause identifies the only one, Mara; the singular antecedent takes has worked.
+- **have:** Plural 'have' would describe the engineers as an experienced group rather than the stipulated unique person.
+- **are:** 'Are' cannot form the intended active present perfect and would also be plural.
+- **having:** 'Having' does not supply the finite verb needed after relative 'who'.
+- **has:** The intended relative clause identifies 'the only one', Mara; the singular antecedent takes 'has worked'.
 
 **Decision:** replaced.
 
@@ -2559,14 +2559,14 @@ Choose the standard written completion: On the top shelf ___ two unopened boxes 
 3. am
 4. are **[Correct]**
 
-**Explanation:** With this location-first order, the subject follows the verb. Two unopened boxes requires are.
+**Explanation:** With this location-first order, the subject follows the verb. 'Two unopened boxes' requires 'are'.
 
 **Choice feedback:**
 
-- **is:** The singular shelf is in the fronted location phrase; the following two boxes is the plural subject.
+- **is:** The singular 'shelf' is in the fronted location phrase; the following 'two boxes' is the plural subject.
 - **has:** Has neither agrees with boxes nor supplies the required location predicate.
-- **am:** Am cannot agree with the plural noun phrase naming the boxes.
-- **are:** With this location-first order, the subject follows the verb. Two unopened boxes requires are.
+- **am:** 'Am' cannot agree with the plural noun phrase naming the boxes.
+- **are:** With this location-first order, the subject follows the verb. 'Two unopened boxes' requires 'are'.
 
 **Decision:** replaced.
 
@@ -2625,7 +2625,7 @@ What determines agreement despite the unchanged spelling of 'series'?
 1. The number of tests, since tests is the nearest plural noun
 2. Whether the perfect construction describes a finished event or an ongoing one
 3. The determiners identify the number of series, not the number of tests **[Correct]**
-4. Whether series is a subject in the first phrase but an object of tests in the second
+4. Whether 'series' is a subject in the first phrase but an object of 'tests' in the second
 
 **Explanation:** 'Series' has the same written singular and plural form; 'this' identifies one series, while 'these two' identifies more than one.
 
@@ -2634,7 +2634,7 @@ What determines agreement despite the unchanged spelling of 'series'?
 - **The number of tests, since tests is the nearest plural noun:** 'Tests' is inside the of-phrase in both examples. Its unchanged plural number does not explain the contrast between 'has' and 'have'.
 - **Whether the perfect construction describes a finished event or an ongoing one:** Both versions use the present perfect of 'finish'. The auxiliary contrast expresses the subject's number, not a change from completed to ongoing action.
 - **The determiners identify the number of series, not the number of tests:** 'Series' has the same written singular and plural form; 'this' identifies one series, while 'these two' identifies more than one.
-- **Whether series is a subject in the first phrase but an object of tests in the second:** 'Series' heads the main subject in both sentences. The determiners change its number without reversing the relation between 'series' and 'tests'.
+- **Whether 'series' is a subject in the first phrase but an object of 'tests' in the second:** 'Series' heads the main subject in both sentences. The determiners change its number without reversing the relation between 'series' and 'tests'.
 
 **Decision:** replaced.
 
@@ -2654,7 +2654,7 @@ Two proposed sentences are 'What we need is more copies' and 'What we need are m
 
 Which editorial assessment is accurate?
 
-1. Is requires copies to be changed to copy in order to preserve agreement.
+1. 'Is' requires 'copies' to be changed to 'copy' in order to preserve agreement.
 2. Both are established: is follows the what-clause; are can reflect the plural complement. **[Correct]**
 3. Are is justified only if more copies is a second subject coordinated with the what-clause.
 4. The choice changes whether the copies are needed by one person or several.
@@ -2663,10 +2663,10 @@ Which editorial assessment is accurate?
 
 **Choice feedback:**
 
-- **Is requires copies to be changed to copy in order to preserve agreement.:** Singular is can follow the what-clause even when the focused complement names plural copies.
+- **'Is' requires 'copies' to be changed to 'copy' in order to preserve agreement.:** Singular 'is' can follow the what-clause even when the focused complement names plural copies.
 - **Both are established: is follows the what-clause; are can reflect the plural complement.:** Such specifying what-clefts permit singular treatment of the clause or plural agreement influenced by the focused complement.
-- **Are is justified only if more copies is a second subject coordinated with the what-clause.:** More copies is the specifying complement, not a second subject joined to the what-clause. Plural agreement is possible without that proposed coordination.
-- **The choice changes whether the copies are needed by one person or several.:** We identifies the people who need them in both versions; main-clause number does not change that reference.
+- **Are is justified only if more copies is a second subject coordinated with the what-clause.:** 'More copies' is the specifying complement, not a second subject joined to the what-clause. Plural agreement is possible without that proposed coordination.
+- **The choice changes whether the copies are needed by one person or several.:** 'We' identifies the people who need them in both versions; main-clause number does not change that reference.
 
 **Decision:** replaced.
 
@@ -2727,7 +2727,7 @@ Which sentence preserves that meaning and standard agreement?
 
 **Choice feedback:**
 
-- **The editor was concerned, as was the reviewers.:** The postverbal subject reviewers is plural, so the as-clause needs were.
+- **The editor was concerned, as was the reviewers.:** The postverbal subject 'reviewers' is plural, so the as-clause needs 'were'.
 - **The editor was concerned, as were the reviewers.:** The first clause agrees with editor; the inverted as-clause has plural reviewers as its subject and repeats were concerned elliptically.
 - **The editor was concerned, as the reviewers were not.:** This denies concern among the reviewers, changing the stated shared reaction.
 - **The editor was not concerned, as were the reviewers.:** This denies the editor's concern and no longer expresses the required shared positive state.
@@ -2783,18 +2783,18 @@ An editor compares 'The main problem is the travel expenses' with 'The travel ex
 Why need the two versions not use the same form of 'be'?
 
 1. Each version agrees with its own subject: singular problem or plural expenses. **[Correct]**
-2. The version with is describes one expense, while the version with are describes several.
-3. Be agrees with whichever noun phrase supplies the identifying information after it.
-4. The singular version requires an understood one of before the travel expenses.
+2. The version with 'is' describes one expense, while the version with 'are' describes several.
+3. 'Be' agrees with whichever noun phrase supplies the identifying information after it.
+4. The singular version requires an understood 'one of' before 'the travel expenses'.
 
 **Explanation:** Reversing the identifying sentence changes which noun phrase occupies the subject position and thus the ordinary agreement.
 
 **Choice feedback:**
 
 - **Each version agrees with its own subject: singular problem or plural expenses.:** Reversing the identifying sentence changes which noun phrase occupies the subject position and thus the ordinary agreement.
-- **The version with is describes one expense, while the version with are describes several.:** Both sentences refer to the travel expenses as plural; singular agreement in the first does not reduce the expenses to one.
-- **Be agrees with whichever noun phrase supplies the identifying information after it.:** The noun phrase after 'be' is the complement. These examples show ordinary agreement with the preceding subject, not a rule based on which phrase supplies new information.
-- **The singular version requires an understood one of before the travel expenses.:** The first version can identify the expenses collectively as the problem. No omitted 'one of' is needed to select one expense.
+- **The version with 'is' describes one expense, while the version with 'are' describes several.:** Both sentences refer to the travel expenses as plural; singular agreement in the first does not reduce the expenses to one.
+- **'Be' agrees with whichever noun phrase supplies the identifying information after it.:** The noun phrase after 'be' is the complement. These examples show ordinary agreement with the preceding subject, not a rule based on which phrase supplies new information.
+- **The singular version requires an understood 'one of' before 'the travel expenses'.:** The first version can identify the expenses collectively as the problem. No omitted 'one of' is needed to select one expense.
 
 **Decision:** replaced.
 
@@ -2824,7 +2824,7 @@ Which explanation fits the different agreement choices?
 **Choice feedback:**
 
 - **Present tense requires singular money agreement, while past tense requires plural.:** Tense does not impose that distinction; the difference is amount versus separate units.
-- **Enough makes any preceding subject singular, regardless of what it names.:** Enough does not mechanically control agreement; the sum is being construed as one amount.
+- **Enough makes any preceding subject singular, regardless of what it names.:** 'Enough' does not mechanically control agreement; the sum is being construed as one amount.
 - **The second sentence must describe a larger total because its verb is plural.:** Both totals are five dollars; plural agreement need not imply a higher monetary value.
 - **The first describes a total sum; the second describes individual monetary units.:** A monetary total can take singular agreement, while separately considered coins or monetary units can take plural agreement.
 
@@ -2855,9 +2855,9 @@ Which standard written agreement contrast is appropriate?
 
 **Choice feedback:**
 
-- **The proceeds has been transferred; the income has been recorded.:** The shared amount does not remove the lexical plural agreement of proceeds.
+- **The proceeds has been transferred; the income has been recorded.:** The shared amount does not remove the lexical plural agreement of 'proceeds'.
 - **The proceeds have been transferred; the income has been recorded.:** Proceeds is conventionally plural in this financial meaning, whereas income is an uncountable singular noun, even when they refer to the same money.
-- **The proceeds have been transferred; the income have been recorded.:** Income is uncountable singular in this meaning and requires has.
+- **The proceeds have been transferred; the income have been recorded.:** 'Income' is uncountable singular in this meaning and requires 'has'.
 - **The proceeds has been transferred; the income have been recorded.:** This reverses the established number of both nouns: proceeds plural, income singular.
 
 **Decision:** replaced.
@@ -2881,16 +2881,16 @@ Which editing comment respects the spoken construction while offering straightfo
 1. The singular indicates that the speaker considers the chairs part of the lectern itself.
 2. The spoken wording is singular because two chairs is the object of there's.
 3. The spoken singular is possible; a subject-first recast gives plural agreement. **[Correct]**
-4. The recast would need singular is because the first noun phrase remains a lectern.
+4. The recast would need singular 'is' because the first noun phrase remains 'a lectern'.
 
 **Explanation:** A clear formal recast is 'A lectern and two chairs are on the stage.' The original conversational list can begin with singular agreement when its first item is singular.
 
 **Choice feedback:**
 
 - **The singular indicates that the speaker considers the chairs part of the lectern itself.:** Singular agreement at the start of this existential list does not collapse the distinct objects into parts of one lectern.
-- **The spoken wording is singular because two chairs is the object of there's.:** Existential be does not take two chairs as an object. The two chairs are additional items introduced by the existential list.
+- **The spoken wording is singular because two chairs is the object of there's.:** Existential 'be' does not take 'two chairs' as an object. The two chairs are additional items introduced by the existential list.
 - **The spoken singular is possible; a subject-first recast gives plural agreement.:** A clear formal recast is 'A lectern and two chairs are on the stage.' The original conversational list can begin with singular agreement when its first item is singular.
-- **The recast would need singular is because the first noun phrase remains a lectern.:** Once the whole list is the ordinary preceding subject, its three separate objects support plural are; the first item's number is not enough.
+- **The recast would need singular 'is' because the first noun phrase remains 'a lectern'.:** Once the whole list is the ordinary preceding subject, its three separate objects support plural 'are'; the first item's number is not enough.
 
 **Decision:** replaced.
 
@@ -2942,18 +2942,18 @@ A news draft says, 'An estimated five hundred residents have received the notice
 
 Which explanation correctly accounts for plural 'have' despite 'an'?
 
-1. The phrase names one estimated total, so has is required even though residents is plural.
+1. The phrase names one estimated total, so 'has' is required even though 'residents' is plural.
 2. An should be removed because plural agreement rules out this estimated-number construction.
-3. Estimated is a past-tense verb here, so the following have should be changed to had.
+3. 'Estimated' is a past-tense verb here, so the following 'have' should be changed to 'had'.
 4. An belongs to the estimated-number expression; the residents remain a plural subject. **[Correct]**
 
 **Explanation:** 'An estimated' plus a numeral is an established quantity expression; the people counted still form a plural subject.
 
 **Choice feedback:**
 
-- **The phrase names one estimated total, so has is required even though residents is plural.:** The sentence says that the residents received notices, not that an abstract estimated total received one. The quantity expression supports plural 'have'.
+- **The phrase names one estimated total, so 'has' is required even though 'residents' is plural.:** The sentence says that the residents received notices, not that an abstract estimated total received one. The quantity expression supports plural 'have'.
 - **An should be removed because plural agreement rules out this estimated-number construction.:** 'An estimated' followed by a numeral is an established construction. The article can remain while the quantified residents take plural agreement.
-- **Estimated is a past-tense verb here, so the following have should be changed to had.:** 'Estimated' modifies the number; it is not the sentence's finite past-tense verb. 'Have received' supplies the finite present-perfect predicate.
+- **'Estimated' is a past-tense verb here, so the following 'have' should be changed to 'had'.:** 'Estimated' modifies the number; it is not the sentence's finite past-tense verb. 'Have received' supplies the finite present-perfect predicate.
 - **An belongs to the estimated-number expression; the residents remain a plural subject.:** 'An estimated' plus a numeral is an established quantity expression; the people counted still form a plural subject.
 
 **Decision:** replaced.
@@ -2974,19 +2974,19 @@ A researcher writes, 'The estimates have changed again, which is inconvenient fo
 
 Why does 'is' not have to become 'are' to match 'estimates'?
 
-1. Which takes singular agreement because its spelling does not contain a plural ending.
+1. 'Which' takes singular agreement because its spelling does not contain a plural ending.
 2. Which singles out one particular estimate from the set as the inconvenient one.
 3. Is agrees with the singular planning team at the end of the sentence.
-4. Which refers to the whole change just reported, not to the estimates as plural objects. **[Correct]**
+4. 'Which' refers to the whole change just reported, not to the estimates as plural objects. **[Correct]**
 
 **Explanation:** A sentential relative can refer back to a complete event or proposition; that singular reference supports 'which is inconvenient'.
 
 **Choice feedback:**
 
-- **Which takes singular agreement because its spelling does not contain a plural ending.:** The form 'which' does not display number, but it can represent singular or plural antecedents. Its reference, not its spelling, matters.
+- **'Which' takes singular agreement because its spelling does not contain a plural ending.:** The form 'which' does not display number, but it can represent singular or plural antecedents. Its reference, not its spelling, matters.
 - **Which singles out one particular estimate from the set as the inconvenient one.:** The sentence comments on the estimates' changing again. It does not select one estimate as a singular antecedent.
 - **Is agrees with the singular planning team at the end of the sentence.:** 'Planning team' is inside the for-phrase. It identifies who is inconvenienced, not the subject controlling 'is'.
-- **Which refers to the whole change just reported, not to the estimates as plural objects.:** A sentential relative can refer back to a complete event or proposition; that singular reference supports 'which is inconvenient'.
+- **'Which' refers to the whole change just reported, not to the estimates as plural objects.:** A sentential relative can refer back to a complete event or proposition; that singular reference supports 'which is inconvenient'.
 
 **Decision:** replaced.
 
@@ -3015,7 +3015,7 @@ Which sentence reflects that two-fact structure with standard agreement?
 
 **Choice feedback:**
 
-- **That the files were missing and that the backup failed is two distinct reasons for the delay.:** The explicitly separate that clauses are presented as two reasons, so the coordinated subject takes are.
+- **That the files were missing and that the backup failed is two distinct reasons for the delay.:** The explicitly separate 'that' clauses are presented as two reasons, so the coordinated subject takes 'are'.
 - **That the files were missing and that the backup failed is one combined reason for the delay.:** This can express a unified construal, but the task explicitly preserves two independent reasons.
 - **That the files were missing is the only reason for the delay.:** This drops the independently relevant backup failure and changes the number of reasons.
 - **That the files were missing and that the backup failed are two distinct reasons for the delay.:** Each that clause contributes one fact; coordinating them as two distinct reasons supports plural agreement.
@@ -3048,9 +3048,9 @@ Which judgment of this exchange is most accurate?
 **Choice feedback:**
 
 - **The answer is inconsistent because are proves at least two files must be missing.:** The question can anticipate several possibilities without asserting how many files will satisfy the description.
-- **The question has to use is because which is inherently singular.:** Which can introduce singular or plural selection; it has no fixed singular number.
+- **The question has to use is because which is inherently singular.:** 'Which' can introduce singular or plural selection; it has no fixed singular number.
 - **The question allows several files as an answer without ruling out just one.:** Plural agreement opens a potentially plural selection; the response can narrow the result to one file.
-- **The reply is an unfinished correction of the question rather than an answer to it.:** Only the January file is a sufficient short answer identifying the missing member. It need not be treated as a correction simply because it supplies one file.
+- **The reply is an unfinished correction of the question rather than an answer to it.:** 'Only the January file' is a sufficient short answer identifying the missing member. It need not be treated as a correction simply because it supplies one file.
 
 **Decision:** replaced.
 
@@ -3070,19 +3070,19 @@ After inspecting an empty building, an officer says, 'All is quiet.' After check
 
 Which explanation accounts for the change in number?
 
-1. Quiet requires a singular subject, whereas ready requires a plural subject.
-2. All is an omitted form of all the guests in both statements.
-3. All refers first to the overall situation, then to the waiting people. **[Correct]**
-4. Are means every guest is ready at a different time rather than together.
+1. 'Quiet' requires a singular subject, whereas 'ready' requires a plural subject.
+2. 'All' is an omitted form of 'all the guests' in both statements.
+3. 'All' refers first to the overall situation, then to the waiting people. **[Correct]**
+4. 'Are' means every guest is ready at a different time rather than together.
 
-**Explanation:** Standalone all can mean everything in a situation or all the people or things in a set; that reference controls singular or plural agreement.
+**Explanation:** Standalone 'all' can mean 'everything' in a situation or all the people or things in a set; that reference controls singular or plural agreement.
 
 **Choice feedback:**
 
-- **Quiet requires a singular subject, whereas ready requires a plural subject.:** Both adjectives can describe singular or plural subjects. The different referents of all explain the number choices.
-- **All is an omitted form of all the guests in both statements.:** The first statement follows an inspection of an empty building and summarizes its overall condition, not the readiness of guests.
-- **All refers first to the overall situation, then to the waiting people.:** Standalone all can mean everything in a situation or all the people or things in a set; that reference controls singular or plural agreement.
-- **Are means every guest is ready at a different time rather than together.:** Plural agreement identifies multiple people without specifying different readiness times.
+- **'Quiet' requires a singular subject, whereas 'ready' requires a plural subject.:** Both adjectives can describe singular or plural subjects. The different referents of all explain the number choices.
+- **'All' is an omitted form of 'all the guests' in both statements.:** The first statement follows an inspection of an empty building and summarizes its overall condition, not the readiness of guests.
+- **'All' refers first to the overall situation, then to the waiting people.:** Standalone 'all' can mean 'everything' in a situation or all the people or things in a set; that reference controls singular or plural agreement.
+- **'Are' means every guest is ready at a different time rather than together.:** Plural agreement identifies multiple people without specifying different readiness times.
 
 **Decision:** replaced.
 
@@ -3104,7 +3104,7 @@ Which response correctly distinguishes mood from ordinary number agreement?
 
 1. Were indicates that this room is being treated as several connected rooms.
 2. Were can mark an unreal condition with a singular subject, so this is not a plural-agreement error. **[Correct]**
-3. Were needs to become was because an unreal condition still requires ordinary singular agreement.
+3. 'Were' needs to become 'was' because an unreal condition still requires ordinary singular agreement.
 4. Were reports a past fact, so the proposal implies that the room used to be larger.
 
 **Explanation:** Irrealis 'were', a form used for hypothetical or unreal situations, is licensed with singular subjects in this conditional pattern.
@@ -3113,7 +3113,7 @@ Which response correctly distinguishes mood from ordinary number agreement?
 
 - **Were indicates that this room is being treated as several connected rooms.:** 'This room' remains singular. 'Were' marks the hypothetical construction rather than a plural reinterpretation of 'room'.
 - **Were can mark an unreal condition with a singular subject, so this is not a plural-agreement error.:** Irrealis 'were', a form used for hypothetical or unreal situations, is licensed with singular subjects in this conditional pattern.
-- **Were needs to become was because an unreal condition still requires ordinary singular agreement.:** That rule would exclude the established irrealis form. 'Was' also occurs in some usage, but singular 'room' does not make 'were' an error.
+- **'Were' needs to become 'was' because an unreal condition still requires ordinary singular agreement.:** That rule would exclude the established irrealis form. 'Was' also occurs in some usage, but singular 'room' does not make 'were' an error.
 - **Were reports a past fact, so the proposal implies that the room used to be larger.:** The if-clause considers an unreal possibility. The form does not establish a past period when the room actually was larger.
 
 **Decision:** replaced.
@@ -3136,8 +3136,8 @@ Which response best addresses that reasoning?
 
 1. Appear can agree with the later discrepancies; there does not denote one object. **[Correct]**
 2. Appear should be singular because to be prevents discrepancies from affecting the finite verb.
-3. Appear is an infinitive after there, so its form is not affected by number.
-4. Discrepancies is the object of appear, so it cannot help explain the verb's number.
+3. 'Appear' is an infinitive after 'there', so its form is not affected by number.
+4. 'Discrepancies' is the object of 'appear', so it cannot help explain the verb's number.
 
 **Explanation:** In this existential raising construction, the later plural noun phrase supports plural agreement on 'appear'; 'there' does not refer to a single object.
 
@@ -3145,8 +3145,8 @@ Which response best addresses that reasoning?
 
 - **Appear can agree with the later discrepancies; there does not denote one object.:** In this existential raising construction, the later plural noun phrase supports plural agreement on 'appear'; 'there' does not refer to a single object.
 - **Appear should be singular because to be prevents discrepancies from affecting the finite verb.:** The intervening infinitive does not block plural agreement in this construction. The later noun phrase can support 'appear'.
-- **Appear is an infinitive after there, so its form is not affected by number.:** 'Appear' is the finite verb here, and 'to be' is the infinitive. Compare the singular 'There appears to be a discrepancy.'
-- **Discrepancies is the object of appear, so it cannot help explain the verb's number.:** 'Appear' does not take 'discrepancies' as a direct object. The existential construction links agreement to the postponed noun phrase.
+- **'Appear' is an infinitive after 'there', so its form is not affected by number.:** 'Appear' is the finite verb here, and 'to be' is the infinitive. Compare the singular 'There appears to be a discrepancy.'
+- **'Discrepancies' is the object of 'appear', so it cannot help explain the verb's number.:** 'Appear' does not take 'discrepancies' as a direct object. The existential construction links agreement to the postponed noun phrase.
 
 **Decision:** replaced.
 
@@ -3171,13 +3171,13 @@ Which account correctly assigns the two agreement controllers?
 3. The whole that-clause makes both finite verbs singular.
 4. It refers to one operating cost considered separately from the remaining costs.
 
-**Explanation:** Introductory it takes singular agreement outside the content clause; the embedded plural subject has its own agreement.
+**Explanation:** Introductory 'it' takes singular agreement outside the content clause; the embedded plural subject has its own agreement.
 
 **Choice feedback:**
 
 - **Operating costs controls both verbs because the that-clause carries the main information.:** The informational importance of the costs does not merge the two clauses' grammatical subjects. Introductory it still supports is.
-- **It controls is in the main clause, while operating costs controls have in the that-clause.:** Introductory it takes singular agreement outside the content clause; the embedded plural subject has its own agreement.
-- **The whole that-clause makes both finite verbs singular.:** The postponed clause supplies the surprising fact, but costs remains the plural subject inside that clause and takes have.
+- **It controls is in the main clause, while operating costs controls have in the that-clause.:** Introductory 'it' takes singular agreement outside the content clause; the embedded plural subject has its own agreement.
+- **The whole that-clause makes both finite verbs singular.:** The postponed clause supplies the surprising fact, but 'costs' remains the plural subject inside that clause and takes 'have'.
 - **It refers to one operating cost considered separately from the remaining costs.:** It is introductory here, not a reference to one selected cost. The entire fact that the costs have fallen is what is surprising.
 
 **Decision:** replaced.
@@ -3235,17 +3235,17 @@ Compare two instructions: 'Whatever remains is to be archived' and 'Whatever doc
 Which analysis accounts for both agreement patterns?
 
 1. The second subject contains plural documents; the first has no such plural head. **[Correct]**
-2. Documents is the object of remain, so its number affects only the later passive.
+2. 'Documents' is the object of 'remain', so its number affects only the later passive.
 3. The first instruction refers to one document, whereas the second refers to several.
 4. The presence of to be archived licenses either agreement pattern in both instructions.
 
-**Explanation:** Whatever remains means roughly 'anything that remains' and has singular agreement. In whatever documents remain, documents supplies plural number, also reflected in are.
+**Explanation:** 'Whatever remains' means roughly 'anything that remains' and has singular agreement. In 'whatever documents remain', 'documents' supplies plural number, also reflected in 'are'.
 
 **Choice feedback:**
 
-- **The second subject contains plural documents; the first has no such plural head.:** Whatever remains means roughly 'anything that remains' and has singular agreement. In whatever documents remain, documents supplies plural number, also reflected in are.
-- **Documents is the object of remain, so its number affects only the later passive.:** Remain has no object here. Documents supplies the plural subject within the relative construction and supports both remain and are.
-- **The first instruction refers to one document, whereas the second refers to several.:** Singular agreement with whatever remains does not count the remaining material. It could include numerous documents.
+- **The second subject contains plural documents; the first has no such plural head.:** 'Whatever remains' means roughly 'anything that remains' and has singular agreement. In 'whatever documents remain', 'documents' supplies plural number, also reflected in 'are'.
+- **'Documents' is the object of 'remain', so its number affects only the later passive.:** Remain has no object here. Documents supplies the plural subject within the relative construction and supports both remain and are.
+- **The first instruction refers to one document, whereas the second refers to several.:** Singular agreement with 'whatever remains' does not count the remaining material. It could include numerous documents.
 - **The presence of to be archived licenses either agreement pattern in both instructions.:** The infinitival passive does not determine the subject's number. The difference lies in the structure of the two subjects.
 
 **Decision:** replaced.
@@ -3301,7 +3301,7 @@ Which editorial advice is accurate?
 1. Use has: one is singular, so the plural applicants cannot support have in an established one-in-ten construction.
 2. Has follows the usual formal convention; have also occurs naturally, particularly in informal speech and writing. **[Correct]**
 3. Keep have: in ten applicants makes applicants the grammatical head of the entire subject, so has is an agreement error.
-4. Choose by national variety: British English permits have here, whereas American English requires has even in conversational use.
+4. Choose by national variety: British English permits 'have' here, whereas American English requires 'has' even in conversational use.
 
 **Explanation:** Formal prose commonly follows singular 'one', while informal usage often allows plural agreement with the population being discussed. Check the intended register and any house rule before presenting either choice as a required correction.
 
@@ -3310,7 +3310,7 @@ Which editorial advice is accurate?
 - **Use has: one is singular, so the plural applicants cannot support have in an established one-in-ten construction.:** This extends a formal singular preference into an unrestricted prohibition. Plural agreement is established in informal one-in-N expressions with people.
 - **Has follows the usual formal convention; have also occurs naturally, particularly in informal speech and writing.:** Formal prose commonly follows singular 'one', while informal usage often allows plural agreement with the population being discussed. Check the intended register and any house rule before presenting either choice as a required correction.
 - **Keep have: in ten applicants makes applicants the grammatical head of the entire subject, so has is an agreement error.:** The in-phrase does not simply replace 'one' with 'applicants' as the subject's head. Singular 'has' follows a conventional formal pattern and is not an error.
-- **Choose by national variety: British English permits have here, whereas American English requires has even in conversational use.:** The variation is not a categorical British-versus-American division. Informal plural agreement is recognized in American usage guidance too; register and house convention matter.
+- **Choose by national variety: British English permits 'have' here, whereas American English requires 'has' even in conversational use.:** The variation is not a categorical British-versus-American division. Informal plural agreement is recognized in American usage guidance too; register and house convention matter.
 
 **Decision:** replaced.
 
@@ -3342,7 +3342,7 @@ Which editorial comment best accounts for this contrast?
 - **Have is defensible only if range is being used as an abbreviation for several ranges.:** Plural agreement with 'a range of objections' does not require an omitted plural word. It can reflect the quantity expression and its plural complement.
 - **The first use is quantifying; the second describes the breadth of the range itself.:** 'A range of' can function as a quantity expression and occur with plural agreement; singular agreement is also used. In the second sentence, 'broad' describes the range itself, supporting 'is'.
 - **Is must become are because the earlier sentence has already established plural agreement.:** The later sentence presents the range as the thing whose breadth is described. Agreement is not fixed for every occurrence of a noun by its first use.
-- **Have makes objections the speakers who raised the issue, rather than the issues raised.:** Objections remain the things raised in the passive construction. Verb number does not convert them into the people doing the raising.
+- **Have makes objections the speakers who raised the issue, rather than the issues raised.:** 'Objections' remain the things raised in the passive construction. Verb number does not convert them into the people doing the raising.
 
 **Decision:** replaced.
 
@@ -3397,7 +3397,7 @@ Which assessment of that change is accurate?
 1. Be shows that the donor is uncertain whether the manuscript is a single object.
 2. Is preserves the same construction because insisted automatically makes the following verb subjunctive.
 3. Be can express the demanded action; changing it to is is not a number-agreement repair. **[Correct]**
-4. Be is an infinitive whose understood subject is the donor rather than the manuscript.
+4. 'Be' is an infinitive whose understood subject is the donor rather than the manuscript.
 
 **Explanation:** This is a mandative subjunctive: a base verb form used for an action being demanded. It can have a singular subject. 'Is' is an indicative form, so the proposed substitution concerns the construction and reading, not a missing singular ending.
 
@@ -3406,7 +3406,7 @@ Which assessment of that change is accurate?
 - **Be shows that the donor is uncertain whether the manuscript is a single object.:** The form does not express uncertainty about the noun's number. The subject still denotes the original manuscript.
 - **Is preserves the same construction because insisted automatically makes the following verb subjunctive.:** 'Insisted' can introduce a demand or an asserted claim. Its presence does not make the indicative form 'is' into a subjunctive.
 - **Be can express the demanded action; changing it to is is not a number-agreement repair.:** This is a mandative subjunctive: a base verb form used for an action being demanded. It can have a singular subject. 'Is' is an indicative form, so the proposed substitution concerns the construction and reading, not a missing singular ending.
-- **Be is an infinitive whose understood subject is the donor rather than the manuscript.:** The that-clause has its own stated subject, the original manuscript. This use of 'be' is not a subjectless infinitive controlled by the donor.
+- **'Be' is an infinitive whose understood subject is the donor rather than the manuscript.:** The that-clause has its own stated subject, the original manuscript. This use of 'be' is not a subjectless infinitive controlled by the donor.
 
 **Decision:** replaced.
 
@@ -3426,7 +3426,7 @@ Consider: 'Not one of the reports that the inspectors say were altered contains 
 
 Which analysis correctly links all three finite verbs to their subjects?
 
-1. Say follows inspectors, were refers back to reports, and contains follows not one. **[Correct]**
+1. 'Say' follows 'inspectors', 'were' refers back to 'reports', and 'contains' follows 'not one'. **[Correct]**
 2. Say follows reports, were follows inspectors, and contains follows the original signature.
 3. Say follows inspectors, while were and contains both follow reports within the relative clause.
 4. Say and were both follow inspectors, while contains agrees with the whole negative relative clause.
@@ -3435,10 +3435,10 @@ Which analysis correctly links all three finite verbs to their subjects?
 
 **Choice feedback:**
 
-- **Say follows inspectors, were refers back to reports, and contains follows not one.:** The relative construction spans the intervening reporting words the inspectors say: the reports were altered. The main subject remains not one, giving contains, while inspectors controls say.
-- **Say follows reports, were follows inspectors, and contains follows the original signature.:** The inspectors do the saying, the reports were altered, and not one is the main subject. Signature is the object of contains.
+- **'Say' follows 'inspectors', 'were' refers back to 'reports', and 'contains' follows 'not one'.:** The relative construction spans the intervening reporting words the inspectors say: the reports were altered. The main subject remains not one, giving contains, while inspectors controls say.
+- **Say follows reports, were follows inspectors, and contains follows the original signature.:** The inspectors do the saying, the reports were altered, and 'not one' is the main subject. 'Signature' is the object of 'contains'.
 - **Say follows inspectors, while were and contains both follow reports within the relative clause.:** Were belongs to the relative construction about the reports. Contains is outside that construction and makes the main claim about not one.
-- **Say and were both follow inspectors, while contains agrees with the whole negative relative clause.:** The inspectors are not said to have been altered. The main subject is the noun phrase not one of the reports, not the relative clause that modifies reports.
+- **Say and were both follow inspectors, while contains agrees with the whole negative relative clause.:** The inspectors are not said to have been altered. The main subject is the noun phrase 'not one of the reports', not the relative clause that modifies 'reports'.
 
 **Decision:** replaced.
 
@@ -3463,13 +3463,13 @@ Which rewrite best meets the publisher's request?
 3. The committee members disagree with one another about the timetable. **[Correct]**
 4. The committee's disagreement with the timetable remains unresolved.
 
-**Explanation:** Members supplies an explicitly plural subject, and with one another preserves disagreement within the committee. The original plural collective agreement is possible in British English, not an error that must be corrected everywhere.
+**Explanation:** 'Members' supplies an explicitly plural subject, and 'with one another' preserves disagreement within the committee. The original plural collective agreement is possible in British English, not an error that must be corrected everywhere.
 
 **Choice feedback:**
 
 - **The committee disagrees with its members about the timetable.:** This contrasts the committee as a body with its own members. The original describes disagreement among the members themselves.
 - **The committees disagree with one another about the timetable.:** This makes several committees the disputing parties. The original concerns members within one committee.
-- **The committee members disagree with one another about the timetable.:** Members supplies an explicitly plural subject, and with one another preserves disagreement within the committee. The original plural collective agreement is possible in British English, not an error that must be corrected everywhere.
+- **The committee members disagree with one another about the timetable.:** 'Members' supplies an explicitly plural subject, and 'with one another' preserves disagreement within the committee. The original plural collective agreement is possible in British English, not an error that must be corrected everywhere.
 - **The committee's disagreement with the timetable remains unresolved.:** This presents opposition to the timetable as the committee's position. It does not preserve the internal disagreement about it.
 
 **Decision:** replaced.
@@ -3493,7 +3493,7 @@ Which response best explains the grammar and its consequence for that reading?
 1. Has treats partner and supplier as two job titles held by the same person.
 2. Repeated each distributes the statement; singular has does not imply a shared account. **[Correct]**
 3. Has applies the account requirement only to each supplier, the nearer subject.
-4. The sentence needs have before own can refer separately to partners and suppliers.
+4. The sentence needs 'have' before 'own' can refer separately to partners and suppliers.
 
 **Explanation:** 'Each partner and each supplier' supports singular agreement in formal usage. With 'its own account', the sentence assigns an account individually; it does not describe one account shared by everyone.
 
@@ -3502,7 +3502,7 @@ Which response best explains the grammar and its consequence for that reading?
 - **Has treats partner and supplier as two job titles held by the same person.:** Nothing in the sentence requires a person to hold both roles. 'Each' distributes the requirement across members of both named categories.
 - **Repeated each distributes the statement; singular has does not imply a shared account.:** 'Each partner and each supplier' supports singular agreement in formal usage. With 'its own account', the sentence assigns an account individually; it does not describe one account shared by everyone.
 - **Has applies the account requirement only to each supplier, the nearer subject.:** The coordinated subject includes both 'each partner' and 'each supplier'. Agreement does not remove partners from the requirement.
-- **The sentence needs have before own can refer separately to partners and suppliers.:** The distributive 'each' construction already permits the individual reading with 'has'. A plural verb is not needed to create separate account holders.
+- **The sentence needs 'have' before 'own' can refer separately to partners and suppliers.:** The distributive 'each' construction already permits the individual reading with 'has'. A plural verb is not needed to create separate account holders.
 
 **Decision:** replaced.
 
@@ -3527,14 +3527,14 @@ Which account explains the different agreement without changing either statement
 3. The record should use is unless the meeting has more than one distinct majority.
 4. The rule names a required threshold; the record predicates absence of people. **[Correct]**
 
-**Explanation:** In the rule, a majority is the requirement considered as one threshold. In the record, a majority of the delegates can take plural agreement because the delegates are the people described as absent.
+**Explanation:** In the rule, 'a majority' is the requirement considered as one threshold. In the record, 'a majority of the delegates' can take plural agreement because the delegates are the people described as absent.
 
 **Choice feedback:**
 
 - **The rule concerns exactly one voter, whereas the record concerns several voters.:** A required majority is a threshold for support, not a single voter. The singular verb does not determine the number needed.
 - **The record implies that each absent delegate personally holds a majority of votes.:** A majority of the delegates identifies a proportion of the people. It does not give a majority of voting power to each one.
-- **The record should use is unless the meeting has more than one distinct majority.:** Plural agreement with a majority of people does not require multiple majorities. It can reflect the people making up the majority.
-- **The rule names a required threshold; the record predicates absence of people.:** In the rule, a majority is the requirement considered as one threshold. In the record, a majority of the delegates can take plural agreement because the delegates are the people described as absent.
+- **The record should use is unless the meeting has more than one distinct majority.:** Plural agreement with 'a majority of people' does not require multiple majorities. It can reflect the people making up the majority.
+- **The rule names a required threshold; the record predicates absence of people.:** In the rule, 'a majority' is the requirement considered as one threshold. In the record, 'a majority of the delegates' can take plural agreement because the delegates are the people described as absent.
 
 **Decision:** replaced.
 
@@ -3556,8 +3556,8 @@ Which response correctly explains both agreement and the checking question's pol
 
 1. Have shows that the secretary now assumes several people have withdrawn their objections.
 2. The tag should use hasn't because the first clause contains no negative auxiliary.
-3. No one takes has; the tag uses they with have and checks the negative claim. **[Correct]**
-4. The singular verb is appropriate only if their refers to someone outside the meeting.
+3. 'No one' takes 'has'; the tag uses 'they' with 'have' and checks the negative claim. **[Correct]**
+4. The singular verb is appropriate only if 'their' refers to someone outside the meeting.
 
 **Explanation:** 'No one' has singular agreement in the main clause. 'They' can refer back without specifying gender and takes 'have' in the tag. Since 'no one' makes the statement negative, the positive tag is appropriate for checking it.
 
@@ -3565,8 +3565,8 @@ Which response correctly explains both agreement and the checking question's pol
 
 - **Have shows that the secretary now assumes several people have withdrawn their objections.:** 'They' with 'have' does not assert a plural group of withdrawals. The tag checks the preceding claim that no person has withdrawn an objection.
 - **The tag should use hasn't because the first clause contains no negative auxiliary.:** 'No one' makes the first clause negative even though 'has' is not contracted with 'not'. The ordinary opposite-polarity checking tag is therefore positive.
-- **No one takes has; the tag uses they with have and checks the negative claim.:** 'No one' has singular agreement in the main clause. 'They' can refer back without specifying gender and takes 'have' in the tag. Since 'no one' makes the statement negative, the positive tag is appropriate for checking it.
-- **The singular verb is appropriate only if their refers to someone outside the meeting.:** 'Their' can refer back to the people considered individually by 'no one'. No outside person is needed to license either 'their' or the tag's 'they'.
+- **'No one' takes 'has'; the tag uses 'they' with 'have' and checks the negative claim.:** 'No one' has singular agreement in the main clause. 'They' can refer back without specifying gender and takes 'have' in the tag. Since 'no one' makes the statement negative, the positive tag is appropriate for checking it.
+- **The singular verb is appropriate only if 'their' refers to someone outside the meeting.:** 'Their' can refer back to the people considered individually by 'no one'. No outside person is needed to license either 'their' or the tag's 'they'.
 
 **Decision:** replaced.
 
@@ -3618,7 +3618,7 @@ A researcher writes, 'I am a linguist who studies workplace conversations.' An e
 
 Which assessment correctly distinguishes reference from the relative clause's grammatical antecedent?
 
-1. Who modifies a linguist here, so studies need not agree directly with I. **[Correct]**
+1. 'Who' modifies 'a linguist' here, so 'studies' need not agree directly with 'I'. **[Correct]**
 2. Study is required because two expressions referring to one person must share grammatical person.
 3. Studies is appropriate only if the linguist is someone other than the writer.
 4. Am makes the whole sentence first person, but studies is retained as reported speech.
@@ -3627,7 +3627,7 @@ Which assessment correctly distinguishes reference from the relative clause's gr
 
 **Choice feedback:**
 
-- **Who modifies a linguist here, so studies need not agree directly with I.:** The relative clause is attached to 'a linguist', which supports third-person singular 'studies'. In a different construction such as 'I, who study these conversations, ...', 'who' would attach directly to 'I'.
+- **'Who' modifies 'a linguist' here, so 'studies' need not agree directly with 'I'.:** The relative clause is attached to 'a linguist', which supports third-person singular 'studies'. In a different construction such as 'I, who study these conversations, ...', 'who' would attach directly to 'I'.
 - **Study is required because two expressions referring to one person must share grammatical person.:** Different expressions for the same person need not have the same grammatical person. 'I' is first person, while 'a linguist' is a third-person noun phrase.
 - **Studies is appropriate only if the linguist is someone other than the writer.:** The sentence identifies the writer as a linguist. Third-person agreement inside the relative clause does not introduce a second person.
 - **Am makes the whole sentence first person, but studies is retained as reported speech.:** 'Am' does not assign first-person agreement to every later clause, and no one is being quoted or reported here. The relevant fact is the attachment to 'a linguist'.
@@ -3651,8 +3651,8 @@ Compare 'A lot of defects have appeared' with 'The cause of the defects has beco
 Which evaluation best explains why that proposed rule is unreliable?
 
 1. The rule works in the first sentence because have is active, but fails with become because it is passive.
-2. The rule works whenever the of-phrase begins with an indefinite article rather than the.
-3. The rule fails because both sentences should agree with the singular word before of.
+2. The rule works whenever the of-phrase begins with an indefinite article rather than 'the'.
+3. The rule fails because both sentences should agree with the singular word before 'of'.
 4. A lot of quantifies defects; cause names a separate thing about which a claim is made. **[Correct]**
 
 **Explanation:** In the first subject, 'a lot of' means roughly 'many', and the defects are what have appeared. In the second, the cause is what has become clear. An of-phrase does not have one uniform effect on agreement.
@@ -3660,8 +3660,8 @@ Which evaluation best explains why that proposed rule is unreliable?
 **Choice feedback:**
 
 - **The rule works in the first sentence because have is active, but fails with become because it is passive.:** 'Has become' is not passive. The difference concerns the subjects, not active versus passive voice.
-- **The rule works whenever the of-phrase begins with an indefinite article rather than the.:** An article alone does not settle the structure. 'A cause of the defects' would still name a cause and normally take singular agreement.
-- **The rule fails because both sentences should agree with the singular word before of.:** That would wrongly force singular agreement in 'a lot of defects have appeared'. 'A lot of' functions as a quantity expression here.
+- **The rule works whenever the of-phrase begins with an indefinite article rather than 'the'.:** An article alone does not settle the structure. 'A cause of the defects' would still name a cause and normally take singular agreement.
+- **The rule fails because both sentences should agree with the singular word before 'of'.:** That would wrongly force singular agreement in 'a lot of defects have appeared'. 'A lot of' functions as a quantity expression here.
 - **A lot of quantifies defects; cause names a separate thing about which a claim is made.:** In the first subject, 'a lot of' means roughly 'many', and the defects are what have appeared. In the second, the cause is what has become clear. An of-phrase does not have one uniform effect on agreement.
 
 **Decision:** replaced.
@@ -3715,18 +3715,18 @@ A formal narrative says, 'The last guests having left, the caretaker locks the c
 Which response best diagnoses the proposed change?
 
 1. Having left is nonfinite and has its own stated subject; it does not inflect for guests. **[Correct]**
-2. Having is singular because its subject is the later caretaker, while guests is its object.
+2. 'Having' is singular because its subject is the later 'caretaker', while 'guests' is its object.
 3. Have would preserve the same nonfinite construction while making its plural agreement visible.
-4. Having left is a shortened relative clause modifying guests, equivalent in structure to who have left.
+4. 'Having left' is a shortened relative clause modifying 'guests', equivalent in structure to 'who have left'.
 
 **Explanation:** The opening is an absolute construction: a nonfinite clause with 'the last guests' as its subject. 'Having' does not change for number. Replacing it with 'have' creates a finite clause and would require different punctuation or linkage to the main clause.
 
 **Choice feedback:**
 
 - **Having left is nonfinite and has its own stated subject; it does not inflect for guests.:** The opening is an absolute construction: a nonfinite clause with 'the last guests' as its subject. 'Having' does not change for number. Replacing it with 'have' creates a finite clause and would require different punctuation or linkage to the main clause.
-- **Having is singular because its subject is the later caretaker, while guests is its object.:** The guests are the people who have left; they are not an object of 'having'. The caretaker is the separate subject of 'locks'.
+- **'Having' is singular because its subject is the later 'caretaker', while 'guests' is its object.:** The guests are the people who have left; they are not an object of 'having'. The caretaker is the separate subject of 'locks'.
 - **Have would preserve the same nonfinite construction while making its plural agreement visible.:** 'Have left' with 'the last guests' as its subject is a finite present-perfect clause. It is not an inflected version of the original nonfinite construction.
-- **Having left is a shortened relative clause modifying guests, equivalent in structure to who have left.:** The opening supplies a background circumstance in a separate nonfinite clause. It is not a relative modifier within a noun phrase; treating it as one would leave that opening noun phrase without a role in the main clause.
+- **'Having left' is a shortened relative clause modifying 'guests', equivalent in structure to 'who have left'.:** The opening supplies a background circumstance in a separate nonfinite clause. It is not a relative modifier within a noun phrase; treating it as one would leave that opening noun phrase without a role in the main clause.
 
 **Decision:** replaced.
 
@@ -3747,8 +3747,8 @@ An inventory report says, 'Five thousand dollars' worth of paintings have been r
 Which response best addresses that objection without imposing an unstated house style?
 
 1. Have implies that each painting was individually worth five thousand dollars.
-2. The sentence refers to both paintings and money, with have agreeing with their combined value.
-3. Changing have to has would mean that only one painting had been recovered.
+2. The sentence refers to both paintings and money, with 'have' agreeing with their combined value.
+3. Changing 'have' to 'has' would mean that only one painting had been recovered.
 4. Plural agreement can reflect paintings; it does not turn their stated value into recovered cash. **[Correct]**
 
 **Explanation:** A monetary worth-of expression can occur with plural agreement reflecting the goods named after 'of'. It still denotes paintings of the stated total value. A singular amount-focused version is also possible; neither reading requires recovered banknotes.
@@ -3756,8 +3756,8 @@ Which response best addresses that objection without imposing an unstated house 
 **Choice feedback:**
 
 - **Have implies that each painting was individually worth five thousand dollars.:** The value expression describes the quantity of paintings collectively. Plural agreement does not distribute that full value to each painting.
-- **The sentence refers to both paintings and money, with have agreeing with their combined value.:** The dollars specify how much the paintings are worth. They are not an additional recovered item coordinated with paintings.
-- **Changing have to has would mean that only one painting had been recovered.:** Singular agreement can present the valued quantity as an amount. It need not reduce the number of paintings to one.
+- **The sentence refers to both paintings and money, with 'have' agreeing with their combined value.:** The dollars specify how much the paintings are worth. They are not an additional recovered item coordinated with paintings.
+- **Changing 'have' to 'has' would mean that only one painting had been recovered.:** Singular agreement can present the valued quantity as an amount. It need not reduce the number of paintings to one.
 - **Plural agreement can reflect paintings; it does not turn their stated value into recovered cash.:** A monetary worth-of expression can occur with plural agreement reflecting the goods named after 'of'. It still denotes paintings of the stated total value. A singular amount-focused version is also possible; neither reading requires recovered banknotes.
 
 **Decision:** replaced.
@@ -3842,19 +3842,19 @@ A policy draft says, 'The trustees, each of whom has signed a separate declarati
 
 Which response correctly evaluates the proposed change and the original declaration claim?
 
-1. Has means one declaration was signed jointly, so have is needed to express separate declarations.
+1. 'Has' means one declaration was signed jointly, so 'have' is needed to express separate declarations.
 2. The main clause should use is because each of whom becomes the subject after the comma.
 3. Each governs has within the relative clause; trustees governs are in the main clause. **[Correct]**
-4. Have is required because whom is plural, while each modifies declaration rather than the subject.
+4. 'Have' is required because 'whom' is plural, while 'each' modifies 'declaration' rather than the subject.
 
 **Explanation:** In this formal draft, 'each of whom has' makes an individual statement about every trustee. The main subject 'the trustees' independently takes 'are'. Repeating one verb number across the sentence is not the agreement requirement.
 
 **Choice feedback:**
 
-- **Has means one declaration was signed jointly, so have is needed to express separate declarations.:** 'Each' and 'a separate declaration' already distribute the signing across individual trustees. Singular agreement inside that clause does not make the declaration joint.
+- **'Has' means one declaration was signed jointly, so 'have' is needed to express separate declarations.:** 'Each' and 'a separate declaration' already distribute the signing across individual trustees. Singular agreement inside that clause does not make the declaration joint.
 - **The main clause should use is because each of whom becomes the subject after the comma.:** The relative clause supplements the trustees; it does not replace that plural main subject. Its singular 'each' governs only its own finite verb.
 - **Each governs has within the relative clause; trustees governs are in the main clause.:** In this formal draft, 'each of whom has' makes an individual statement about every trustee. The main subject 'the trustees' independently takes 'are'. Repeating one verb number across the sentence is not the agreement requirement.
-- **Have is required because whom is plural, while each modifies declaration rather than the subject.:** 'Each' is the head of 'each of whom', not a modifier of 'declaration'. 'Whom' links the phrase to the trustees without making 'each' a plural subject in the formal pattern used here.
+- **'Have' is required because 'whom' is plural, while 'each' modifies 'declaration' rather than the subject.:** 'Each' is the head of 'each of whom', not a modifier of 'declaration'. 'Whom' links the phrase to the trustees without making 'each' a plural subject in the formal pattern used here.
 
 **Decision:** replaced.
 

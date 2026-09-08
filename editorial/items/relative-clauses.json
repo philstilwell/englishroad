@@ -14,11 +14,11 @@
         "whose"
       ],
       "answer": "who",
-      "explanation": "Who refers to the mechanic and is the subject of repairs.",
+      "explanation": "'Who' refers to the mechanic and is the subject of 'repairs'.",
       "rationales": {
-        "where": "Where introduces a place, not the person doing the repair.",
-        "who": "Who refers to the mechanic and is the subject of repairs.",
-        "which": "Which normally describes a thing, not a named type of person in this use.",
+        "where": "'Where' introduces a place, not the person doing the repair.",
+        "who": "'Who' refers to the mechanic and is the subject of 'repairs'.",
+        "which": "'Which' normally describes a thing, not a named type of person in this use.",
         "whose": "Whose would need a following noun for a possession, such as whose garage."
       },
       "audit": {
@@ -45,11 +45,11 @@
         "which"
       ],
       "answer": "where",
-      "explanation": "Where means at which place; you pay at this desk.",
+      "explanation": "'Where' means at which place; you pay at this desk.",
       "rationales": {
-        "who": "Who describes a person, not the place for payment.",
-        "whose": "Whose introduces possession and needs a following noun.",
-        "where": "Where means at which place; you pay at this desk.",
+        "who": "'Who' describes a person, not the place for payment.",
+        "whose": "'Whose' introduces possession and needs a following noun.",
+        "where": "'Where' means at which place; you pay at this desk.",
         "which": "Which alone would make the desk the thing you pay, rather than the place where payment happens."
       },
       "audit": {
@@ -78,8 +78,8 @@
       "answer": "that",
       "explanation": "That refers to the key and acts as the subject of opens.",
       "rationales": {
-        "who": "Who describes people, not a key in this sentence.",
-        "where": "Where introduces a place and cannot be the subject of opens here.",
+        "who": "'Who' describes people, not a key in this sentence.",
+        "where": "'Where' introduces a place and cannot be the subject of 'opens' here.",
         "whose": "Whose would introduce a possession, not the key's action.",
         "that": "That refers to the key and acts as the subject of opens."
       },
@@ -107,9 +107,9 @@
         "The woman's friend."
       ],
       "answer": "The woman.",
-      "explanation": "Whose links the red jacket to the woman being described.",
+      "explanation": "'Whose' links the red jacket to the woman being described.",
       "rationales": {
-        "The woman.": "Whose links the red jacket to the woman being described.",
+        "The woman.": "'Whose' links the red jacket to the woman being described.",
         "The speaker.": "My neighbor identifies the woman's relationship to the speaker; it does not make the jacket the speaker's.",
         "A different neighbor.": "The jacket belongs to the same woman identified as the neighbor, not a different person.",
         "The woman's friend.": "No friend is mentioned as the owner."
@@ -140,7 +140,7 @@
       "answer": "The person who repairs bicycles.",
       "explanation": "The clause who repairs bicycles repeats the action that identifies Amir.",
       "rationales": {
-        "The person who sells bread.": "Selling bread describes Jo, not Amir.",
+        "The person who sells bread.": "'Selling bread' describes Jo, not Amir.",
         "The person who buys bread.": "The information says who sells bread; it does not say Amir buys it.",
         "The person who repairs bicycles.": "The clause who repairs bicycles repeats the action that identifies Amir.",
         "The person who sells bicycles.": "Repairing bicycles is not the same as selling them."
@@ -200,12 +200,12 @@
         "The speaker eats dinner at that cafe."
       ],
       "answer": "The speaker eats breakfast at that cafe.",
-      "explanation": "Where links the cafe to the place of the speaker's breakfast.",
+      "explanation": "'Where' links the cafe to the place of the speaker's breakfast.",
       "rationales": {
-        "The speaker works at that cafe.": "Where I have breakfast describes eating there, not working there.",
+        "The speaker works at that cafe.": "'Where I have breakfast' describes eating there, not working there.",
         "The speaker has breakfast at the station.": "Next to the station gives the cafe's location; breakfast happens at the cafe.",
-        "The speaker eats dinner at that cafe.": "The relative clause names breakfast, not dinner.",
-        "The speaker eats breakfast at that cafe.": "Where links the cafe to the place of the speaker's breakfast."
+        "The speaker eats dinner at that cafe.": "The relative clause names 'breakfast', not dinner.",
+        "The speaker eats breakfast at that cafe.": "'Where' links the cafe to the place of the speaker's breakfast."
       },
       "audit": {
         "status": "reviewed",
@@ -234,7 +234,7 @@
       "explanation": "That has a green label identifies the bag by the label's color.",
       "rationales": {
         "The bag with a green label.": "That has a green label identifies the bag by the label's color.",
-        "The green bag with no label.": "Green describes the label, not necessarily the bag itself.",
+        "The green bag with no label.": "'Green' describes the label, not necessarily the bag itself.",
         "The bag beside the green bag.": "The sentence identifies a label, not the bag's position beside another one.",
         "The bag with a blue label.": "A blue label does not match the specified green one."
       },
@@ -262,12 +262,12 @@
         "whose"
       ],
       "answer": "whose",
-      "explanation": "Whose phone means the man's phone; the description identifies its owner.",
+      "explanation": "'Whose phone' means the man's phone; the description identifies its owner.",
       "rationales": {
-        "who": "Who cannot directly show possession before phone.",
-        "where": "Where refers to a place and does not tell us who owns the phone.",
-        "whose": "Whose phone means the man's phone; the description identifies its owner.",
-        "which": "Which does not mark the man's possession of the phone."
+        "who": "'Who' cannot directly show possession before 'phone'.",
+        "where": "'Where' refers to a place and does not tell us who owns the phone.",
+        "whose": "'Whose phone' means the man's phone; the description identifies its owner.",
+        "which": "'Which' does not mark the man's possession of the phone."
       },
       "audit": {
         "status": "reviewed",
@@ -293,12 +293,12 @@
         "to live"
       ],
       "answer": "live",
-      "explanation": "Who refers to the plural people, so use live.",
+      "explanation": "'Who' refers to the plural people, so use 'live'.",
       "rationales": {
-        "lives": "People is plural, so the present verb has no -s.",
-        "live": "Who refers to the plural people, so use live.",
-        "living": "Living needs a helping verb in this full who-clause.",
-        "to live": "To live cannot stand as the complete verb after who here."
+        "lives": "'People' is plural, so the present verb has no '-s'.",
+        "live": "'Who' refers to the plural people, so use 'live'.",
+        "living": "'Living' needs a helping verb in this full who-clause.",
+        "to live": "'To live' cannot stand as the complete verb after 'who' here."
       },
       "audit": {
         "status": "reviewed",
@@ -324,12 +324,12 @@
         "am"
       ],
       "answer": "is",
-      "explanation": "The subject the woman is singular; who cleans our office describes her but does not change the subject's number.",
+      "explanation": "The subject 'the woman' is singular; 'who cleans our office' describes her but does not change the subject's number.",
       "rationales": {
-        "are": "The main subject is one woman, so are does not agree.",
+        "are": "The main subject is one woman, so 'are' does not agree.",
         "be": "The main statement needs the present-tense form is, not be.",
-        "am": "Am is used with I, not the woman.",
-        "is": "The subject the woman is singular; who cleans our office describes her but does not change the subject's number."
+        "am": "'Am' is used with 'I', not the woman.",
+        "is": "The subject 'the woman' is singular; 'who cleans our office' describes her but does not change the subject's number."
       },
       "audit": {
         "status": "reviewed",
@@ -417,10 +417,10 @@
         "The man who drives a taxi lives across the road."
       ],
       "answer": "The man who lives next door drives a taxi.",
-      "explanation": "Who lives next door describes the man, and drives a taxi keeps his job or activity.",
+      "explanation": "'Who lives next door' describes the man, and 'drives a taxi' keeps his job or activity.",
       "rationales": {
         "The man who drives a taxi visits next door.": "Visits next door does not say that he lives there.",
-        "The man who lives next door drives a taxi.": "Who lives next door describes the man, and drives a taxi keeps his job or activity.",
+        "The man who lives next door drives a taxi.": "'Who lives next door' describes the man, and 'drives a taxi' keeps his job or activity.",
         "The man who lives next door rides in a taxi.": "Rides in a taxi makes him a passenger, not the driver.",
         "The man who drives a taxi lives across the road.": "Across the road is a different place from next door."
       },
@@ -511,12 +511,12 @@
         "wear"
       ],
       "answer": "is wearing",
-      "explanation": "Is wearing describes the singular visitor's clothing now.",
+      "explanation": "'Is wearing' describes the singular visitor's clothing now.",
       "rationales": {
-        "wearing": "Wearing needs a form of be after who in this full clause.",
-        "are wearing": "The visitor is singular, so use is rather than are.",
-        "is wearing": "Is wearing describes the singular visitor's clothing now.",
-        "wear": "Wear does not agree with a singular visitor and does not give the requested ongoing form."
+        "wearing": "'Wearing' needs a form of 'be' after 'who' in this full clause.",
+        "are wearing": "The visitor is singular, so use 'is' rather than 'are'.",
+        "is wearing": "'Is wearing' describes the singular visitor's clothing now.",
+        "wear": "'Wear' does not agree with a singular visitor and does not give the requested ongoing form."
       },
       "audit": {
         "status": "reviewed",
@@ -542,12 +542,12 @@
         "The staff start selling sandwiches."
       ],
       "answer": "The cafe closes.",
-      "explanation": "Closes at three is the main statement about the cafe; that sells sandwiches identifies it.",
+      "explanation": "'Closes at three' is the main statement about the cafe; 'that sells sandwiches' identifies it.",
       "rationales": {
         "The sandwiches arrive.": "No sandwich delivery time is given.",
-        "The cafe closes.": "Closes at three is the main statement about the cafe; that sells sandwiches identifies it.",
-        "The cafe opens.": "Closes means stops being open, not opens.",
-        "The staff start selling sandwiches.": "Selling sandwiches describes the cafe's service, not an action beginning at three."
+        "The cafe closes.": "'Closes at three' is the main statement about the cafe; 'that sells sandwiches' identifies it.",
+        "The cafe opens.": "'Closes' means stops being open, not 'opens'.",
+        "The staff start selling sandwiches.": "'Selling sandwiches' describes the cafe's service, not an action beginning at three."
       },
       "audit": {
         "status": "reviewed",
@@ -635,12 +635,12 @@
         "who"
       ],
       "answer": "that",
-      "explanation": "That refers to the receipt and is the object of need; I is the person who needs it.",
+      "explanation": "'That' refers to the receipt and is the object of 'need'; 'I' is the person who needs it.",
       "rationales": {
         "where": "Where gives a place, but the receipt is the thing needed.",
-        "that": "That refers to the receipt and is the object of need; I is the person who needs it.",
-        "whose": "Whose needs a following noun showing possession and does not stand for the receipt here.",
-        "who": "Who refers to a person, not a receipt."
+        "that": "'That' refers to the receipt and is the object of 'need'; 'I' is the person who needs it.",
+        "whose": "'Whose' needs a following noun showing possession and does not stand for the receipt here.",
+        "who": "'Who' refers to a person, not a receipt."
       },
       "audit": {
         "status": "reviewed",
@@ -669,9 +669,9 @@
       "explanation": "Where supplies the place relationship: we stayed at the hotel.",
       "rationales": {
         "which": "Which would need a place preposition, as in which we stayed at or at which we stayed.",
-        "whose": "Whose introduces possession, not the location of staying.",
+        "whose": "'Whose' introduces possession, not the location of staying.",
         "where": "Where supplies the place relationship: we stayed at the hotel.",
-        "who": "Who would refer to a person, not this hotel."
+        "who": "'Who' would refer to a person, not this hotel."
       },
       "audit": {
         "status": "reviewed",
@@ -697,12 +697,12 @@
         "The neighbor whose collects our mail is away."
       ],
       "answer": "The neighbor who collects our mail is away.",
-      "explanation": "Who is the subject of collects, and the full subject the neighbor takes is in the main clause.",
+      "explanation": "'Who' is the subject of 'collects', and the full subject 'the neighbor' takes 'is' in the main clause.",
       "rationales": {
         "The neighbor who she collects our mail is away.": "Who already fills the subject role of collects; adding she repeats that subject.",
-        "The neighbor who collect our mail is away.": "The singular neighbor requires collects, not collect.",
-        "The neighbor whose collects our mail is away.": "Whose needs a noun for a possession; it cannot be the subject before collects here.",
-        "The neighbor who collects our mail is away.": "Who is the subject of collects, and the full subject the neighbor takes is in the main clause."
+        "The neighbor who collect our mail is away.": "The singular neighbor requires 'collects', not 'collect'.",
+        "The neighbor whose collects our mail is away.": "'Whose' needs a noun for a possession; it cannot be the subject before 'collects' here.",
+        "The neighbor who collects our mail is away.": "'Who' is the subject of 'collects', and the full subject 'the neighbor' takes 'is' in the main clause."
       },
       "audit": {
         "status": "reviewed",
@@ -728,12 +728,12 @@
         "which"
       ],
       "answer": "whose",
-      "explanation": "Whose car means the guest's car and identifies its owner.",
+      "explanation": "'Whose car' means the guest's car and identifies its owner.",
       "rationales": {
-        "whose": "Whose car means the guest's car and identifies its owner.",
-        "who's": "Who's means who is or who has; neither gives possession before car is.",
+        "whose": "'Whose car' means the guest's car and identifies its owner.",
+        "who's": "\"Who's\" means 'who is' or 'who has'; neither gives possession before 'car is'.",
         "who": "Who alone does not show that the car belongs to the guest.",
-        "which": "Which cannot express this person's ownership of the following car."
+        "which": "'Which' cannot express this person's ownership of the following 'car'."
       },
       "audit": {
         "status": "reviewed",
@@ -759,12 +759,12 @@
         "which"
       ],
       "answer": "which",
-      "explanation": "Which refers to the machine and is the subject of prints.",
+      "explanation": "'Which' refers to the machine and is the subject of 'prints'.",
       "rationales": {
-        "where": "Where introduces a place and cannot act as the subject of prints here.",
-        "whose": "Whose would need a possessed noun, such as whose printer, rather than a verb directly after it.",
-        "which": "Which refers to the machine and is the subject of prints.",
-        "who": "Who normally refers to a person rather than a machine in this use."
+        "where": "'Where' introduces a place and cannot act as the subject of 'prints' here.",
+        "whose": "'Whose' would need a possessed noun, such as 'whose printer', rather than a verb directly after it.",
+        "which": "'Which' refers to the machine and is the subject of 'prints'.",
+        "who": "'Who' normally refers to a person rather than a machine in this use."
       },
       "audit": {
         "status": "reviewed",
@@ -790,10 +790,10 @@
         "The jacket's maker."
       ],
       "answer": "The speaker.",
-      "explanation": "I bought yesterday describes the jacket, so the speaker made the purchase.",
+      "explanation": "'I bought yesterday' describes the jacket, so the speaker made the purchase.",
       "rationales": {
-        "The brother.": "My brother appears in the main description of fit; I is the subject of bought.",
-        "The speaker.": "I bought yesterday describes the jacket, so the speaker made the purchase.",
+        "The brother.": "'My brother' appears in the main description of 'fit'; 'I' is the subject of 'bought'.",
+        "The speaker.": "'I bought yesterday' describes the jacket, so the speaker made the purchase.",
         "The shop assistant.": "No shop assistant is identified as the buyer.",
         "The jacket's maker.": "The sentence says nothing about the person who made the jacket."
       },
@@ -821,12 +821,12 @@
         "who"
       ],
       "answer": "which",
-      "explanation": "Which is the object of visited: we visited the museum.",
+      "explanation": "'Which' is the object of 'visited': 'we visited the museum'.",
       "rationales": {
-        "where": "Where would need an action taking place at the museum; visited here needs the museum as its object.",
-        "whose": "Whose introduces a possession, not the object of visited.",
-        "who": "Who refers to a person, not the museum building visited.",
-        "which": "Which is the object of visited: we visited the museum."
+        "where": "'Where' would need an action taking place at the museum; 'visited' here needs the museum as its object.",
+        "whose": "'Whose' introduces a possession, not the object of 'visited'.",
+        "who": "'Who' refers to a person, not the museum building visited.",
+        "which": "'Which' is the object of 'visited': 'we visited the museum'."
       },
       "audit": {
         "status": "reviewed",
@@ -852,9 +852,9 @@
         "The driver who I called arrived ten minutes later."
       ],
       "answer": "The driver who I called arrived ten minutes later.",
-      "explanation": "Who refers to the driver as the object of I called; using who as an object is normal in everyday English.",
+      "explanation": "'Who' refers to the driver as the object of 'I called'; using 'who' as an object is normal in everyday English.",
       "rationales": {
-        "The driver who I called arrived ten minutes later.": "Who refers to the driver as the object of I called; using who as an object is normal in everyday English.",
+        "The driver who I called arrived ten minutes later.": "'Who' refers to the driver as the object of 'I called'; using 'who' as an object is normal in everyday English.",
         "The driver who called me arrived ten minutes later.": "This reverses who made the call: the driver becomes the caller.",
         "I arrived ten minutes after the driver called me.": "This changes both the caller and the person who arrived.",
         "The driver arrived ten minutes before I called.": "This puts arrival before the call, reversing the stated sequence."
@@ -885,8 +885,8 @@
       "answer": "are",
       "explanation": "Are agrees with children; the singular parent belongs to the main clause, which has works.",
       "rationales": {
-        "is": "Inside this clause, children is the plural subject, so is does not agree.",
-        "be": "The clause needs a present-tense form of be, here are.",
+        "is": "Inside this clause, 'children' is the plural subject, so 'is' does not agree.",
+        "be": "The clause needs a present-tense form of 'be', here 'are'.",
         "are": "Are agrees with children; the singular parent belongs to the main clause, which has works.",
         "am": "Am agrees only with I, not children."
       },
@@ -918,8 +918,8 @@
       "rationales": {
         "The apartment that we rented it was very small.": "That already represents the object of rented; it repeats the same object.",
         "The apartment that we rented was very small.": "That stands for the apartment as the object of we rented, without an extra it.",
-        "The apartment that we renting was very small.": "We renting has no finite verb; use we rented or we were renting.",
-        "The apartment whose we rented was very small.": "Whose needs a possessed noun and cannot replace the object by itself here."
+        "The apartment that we renting was very small.": "'We renting' has no finite verb; use 'we rented' or 'we were renting'.",
+        "The apartment whose we rented was very small.": "'Whose' needs a possessed noun and cannot replace the object by itself here."
       },
       "audit": {
         "status": "reviewed",
@@ -945,10 +945,10 @@
         "Lena and Omar together"
       ],
       "answer": "Lena",
-      "explanation": "Lena is the subject of sent inside the description of the message.",
+      "explanation": "'Lena' is the subject of 'sent' inside the description of the message.",
       "rationales": {
         "Omar": "Omar follows to, so he receives the message.",
-        "Lena": "Lena is the subject of sent inside the description of the message.",
+        "Lena": "'Lena' is the subject of 'sent' inside the description of the message.",
         "The speaker": "My phone tells us where the message is, not who sent it.",
         "Lena and Omar together": "Only Lena is named as the sender; Omar is the receiver."
       },
@@ -980,8 +980,8 @@
       "rationales": {
         "which": "Which alone does not express the location: we work in a building.",
         "in which": "In which links the building to work in that building; where would also work.",
-        "whose": "Whose needs a noun after it, such as whose entrance, to show possession.",
-        "who": "Who refers to a person, not this building."
+        "whose": "'Whose' needs a noun after it, such as 'whose entrance', to show possession.",
+        "who": "'Who' refers to a person, not this building."
       },
       "audit": {
         "status": "reviewed",
@@ -1038,12 +1038,12 @@
         "The speaker's son"
       ],
       "answer": "The woman's son",
-      "explanation": "Whose son means the son of the woman, and that son studies with the daughter.",
+      "explanation": "'Whose son' means the son of the woman, and that son studies with the daughter.",
       "rationales": {
         "The woman": "The woman is the person spoken to; her son is the student.",
         "The woman's daughter": "The relative clause says son, not daughter, for the woman's child.",
         "The speaker's son": "My identifies the speaker's daughter; whose identifies the woman's son.",
-        "The woman's son": "Whose son means the son of the woman, and that son studies with the daughter."
+        "The woman's son": "'Whose son' means the son of the woman, and that son studies with the daughter."
       },
       "audit": {
         "status": "reviewed",
@@ -1071,9 +1071,9 @@
       "answer": "The parcel that arrived this morning",
       "explanation": "Was delivered tells us that the delivery happened this morning.",
       "rationales": {
-        "The parcel the manager sent yesterday": "Belongs to names the owner; it does not say the manager sent the parcel yesterday.",
+        "The parcel the manager sent yesterday": "'Belongs to' names the owner; it does not say the manager sent the parcel yesterday.",
         "The parcel that arrived this morning": "Was delivered tells us that the delivery happened this morning.",
-        "The parcel waiting to be sent this morning": "Was delivered describes a completed delivery, not an item still waiting to be sent.",
+        "The parcel waiting to be sent this morning": "'Was delivered' describes a completed delivery, not an item still waiting to be sent.",
         "The parcel the manager will collect tomorrow": "The sentence gives a delivery time, not a future collection arrangement."
       },
       "audit": {
@@ -1100,12 +1100,12 @@
         "what"
       ],
       "answer": "when",
-      "explanation": "When links the day to the time at which the shop closes early.",
+      "explanation": "'When' links the day to the time at which the shop closes early.",
       "rationales": {
-        "who": "Who links a description to a person, not the day of an event.",
-        "whose": "Whose would need a possessed noun after it; the is an article, not that noun.",
-        "when": "When links the day to the time at which the shop closes early.",
-        "what": "What cannot follow the explicit noun the day as a relative word here."
+        "who": "'Who' links a description to a person, not the day of an event.",
+        "whose": "'Whose' would need a possessed noun after it; 'the' is an article, not that noun.",
+        "when": "'When' links the day to the time at which the shop closes early.",
+        "what": "'What' cannot follow the explicit noun 'the day' as a relative word here."
       },
       "audit": {
         "status": "reviewed",
@@ -1193,10 +1193,10 @@
         "The person who spoke with the speaker supplied a map."
       ],
       "answer": "The person who spoke with the speaker supplied a map.",
-      "explanation": "I spoke to describes the person, and gave me a map says what that person did.",
+      "explanation": "'I spoke to' describes the person, and 'gave me a map' says what that person did.",
       "rationales": {
-        "The speaker gave a map to the receptionist.": "Gave me means the speaker received the map, not gave it away.",
-        "The person who spoke with the speaker supplied a map.": "I spoke to describes the person, and gave me a map says what that person did.",
+        "The speaker gave a map to the receptionist.": "'Gave me' means the speaker received the map, not gave it away.",
+        "The person who spoke with the speaker supplied a map.": "'I spoke to' describes the person, and 'gave me a map' says what that person did.",
         "The speaker spoke to the person who made the map.": "The sentence identifies the person by a conversation, not by making the map.",
         "The person at reception asked the speaker for a map.": "Gave me reports supplying a map, not requesting one from the speaker."
       },
@@ -1227,7 +1227,7 @@
       "explanation": "That you borrowed last week identifies the books; by Friday sets the deadline for returning them.",
       "rationales": {
         "Borrow the books again on Friday.": "Please return requests giving books back, not borrowing them again.",
-        "Return the books that you borrowed on Friday.": "Last week belongs to borrowed; Friday is the return deadline, not the borrowing day.",
+        "Return the books that you borrowed on Friday.": "'Last week' belongs to 'borrowed'; Friday is the return deadline, not the borrowing day.",
         "Give back last week's books by Friday.": "That you borrowed last week identifies the books; by Friday sets the deadline for returning them.",
         "Choose the books you will borrow next week.": "The relative clause refers to an earlier loan, not a future choice of books."
       },
@@ -1258,7 +1258,7 @@
       "explanation": "That is the object of viewed, so it can be omitted while we remains the subject.",
       "rationales": {
         "The flat we viewed yesterday has a balcony.": "That is the object of viewed, so it can be omitted while we remains the subject.",
-        "The flat we viewing yesterday has a balcony.": "Viewing needs an auxiliary after we; simply omitting that leaves the finite verb viewed unchanged.",
+        "The flat we viewing yesterday has a balcony.": "'Viewing' needs an auxiliary after 'we'; simply omitting 'that' leaves the finite verb 'viewed' unchanged.",
         "The flat we viewed it yesterday has a balcony.": "The flat is already the understood object of viewed; adding it repeats that object.",
         "The flat was viewed yesterday has a balcony.": "Replacing the relative with was viewed leaves two finite predicates without a link and loses the subject we."
       },
@@ -1286,11 +1286,11 @@
         "The volunteers who they organized the collection thanked the donors."
       ],
       "answer": "The volunteers who organized the collection thanked the donors.",
-      "explanation": "Who is the subject of organized and links that action to volunteers; thanked is the main verb.",
+      "explanation": "'Who' is the subject of 'organized' and links that action to 'volunteers'; 'thanked' is the main verb.",
       "rationales": {
         "The volunteers they organized the collection thanked the donors.": "They does not connect the description to volunteers and leaves two clauses without a suitable link.",
-        "The volunteers organized the collection thanked the donors.": "The subject relative who cannot simply be omitted before organized in this sentence.",
-        "The volunteers who organized the collection thanked the donors.": "Who is the subject of organized and links that action to volunteers; thanked is the main verb.",
+        "The volunteers organized the collection thanked the donors.": "The subject relative 'who' cannot simply be omitted before 'organized' in this sentence.",
+        "The volunteers who organized the collection thanked the donors.": "'Who' is the subject of 'organized' and links that action to 'volunteers'; 'thanked' is the main verb.",
         "The volunteers who they organized the collection thanked the donors.": "Who already supplies the subject of organized, so they repeats it."
       },
       "audit": {
@@ -1348,12 +1348,12 @@
         "The tenant whose kitchen ceiling leaks has offered to help."
       ],
       "answer": "The tenant whose kitchen ceiling leaks has asked for help.",
-      "explanation": "Whose links the kitchen ceiling to the tenant, and has asked preserves the tenant's request.",
+      "explanation": "'Whose' links the kitchen ceiling to the tenant, and 'has asked' preserves the tenant's request.",
       "rationales": {
         "The tenant whose ceiling was repaired has asked for help.": "Was repaired replaces the current leak with a completed repair.",
         "The landlord whose kitchen ceiling leaks has asked for help.": "This transfers both the leaking kitchen and the request to the landlord.",
         "The tenant whose kitchen ceiling leaks has offered to help.": "Offering help changes the tenant from someone requesting help to someone providing it.",
-        "The tenant whose kitchen ceiling leaks has asked for help.": "Whose links the kitchen ceiling to the tenant, and has asked preserves the tenant's request."
+        "The tenant whose kitchen ceiling leaks has asked for help.": "'Whose' links the kitchen ceiling to the tenant, and 'has asked' preserves the tenant's request."
       },
       "audit": {
         "status": "reviewed",
@@ -1380,9 +1380,9 @@
         "I'll never forget the day when we first met."
       ],
       "answer": "I'll never forget the day when we first met.",
-      "explanation": "When connects the day to the time of the first meeting.",
+      "explanation": "'When' connects the day to the time of the first meeting.",
       "rationales": {
-        "I'll never forget the day when we first met.": "When connects the day to the time of the first meeting.",
+        "I'll never forget the day when we first met.": "'When' connects the day to the time of the first meeting.",
         "I'll never forget the day that we chose for our first meeting.": "Choosing a meeting day is not the same event as actually meeting on that day.",
         "I'll never forget the day that you remembered.": "This identifies the day through your memory, without saying it was when we first met.",
         "I'll never forget the day before we first met.": "Before places the remembered day earlier than the meeting, changing the relationship."
@@ -1413,10 +1413,10 @@
       "answer": "The restaurant where we had lunch overlooks the river.",
       "explanation": "Where replaces in that restaurant and needs no extra there.",
       "rationales": {
-        "The restaurant where we had lunch there overlooks the river.": "Where already expresses the location of lunch, so there repeats that location.",
+        "The restaurant where we had lunch there overlooks the river.": "'Where' already expresses the location of lunch, so 'there' repeats that location.",
         "The restaurant which we had lunch overlooks the river.": "We had lunch in a restaurant; which alone does not supply the necessary location relationship.",
         "The restaurant where we had lunch overlooks the river.": "Where replaces in that restaurant and needs no extra there.",
-        "The restaurant whose we had lunch overlooks the river.": "Whose introduces a possessed noun, not the location of we had lunch."
+        "The restaurant whose we had lunch overlooks the river.": "'Whose' introduces a possessed noun, not the location of 'we had lunch'."
       },
       "audit": {
         "status": "reviewed",
@@ -1465,7 +1465,7 @@
       "id": "coverage-relative-clauses-b1-3168",
       "level": "B1",
       "setupText": "Choose the option that preserves the intended group.",
-      "taskText": "The manager thanked the staff who had stayed late. Which group does the relative clause identify?",
+      "taskText": "'The manager thanked the staff who had stayed late.' Which group does the relative clause identify?",
       "options": [
         "Staff who remained after their usual hours",
         "Staff whose manager stayed late",
@@ -1475,7 +1475,7 @@
       "answer": "Staff who remained after their usual hours",
       "explanation": "Who had stayed late restricts staff to those who remained beyond their usual working time.",
       "rationales": {
-        "Staff whose manager stayed late": "Who had stayed late describes the staff's action, not the manager's.",
+        "Staff whose manager stayed late": "'Who had stayed late' describes the staff's action, not the manager's.",
         "Staff whom the manager asked to stay late": "The sentence says they stayed; it does not say the manager asked them to.",
         "Staff who thanked the manager afterward": "The manager thanked the staff, so this reverses the direction of thanks.",
         "Staff who remained after their usual hours": "Who had stayed late restricts staff to those who remained beyond their usual working time."
@@ -1504,9 +1504,9 @@
         "The book I borrowed from Rosa is about urban gardens."
       ],
       "answer": "The book I lent Rosa is about urban gardens.",
-      "explanation": "I is the lender and Rosa the recipient inside the relative clause I lent Rosa.",
+      "explanation": "'I' is the lender and Rosa the recipient inside the relative clause 'I lent Rosa'.",
       "rationales": {
-        "The book I lent Rosa is about urban gardens.": "I is the lender and Rosa the recipient inside the relative clause I lent Rosa.",
+        "The book I lent Rosa is about urban gardens.": "'I' is the lender and Rosa the recipient inside the relative clause 'I lent Rosa'.",
         "The book Rosa lent me is about urban gardens.": "Rosa becomes the lender here, reversing the intended loan.",
         "The book Rosa borrowed from the library is about urban gardens.": "This makes the library the source of Rosa's book instead of the speaker.",
         "The book I borrowed from Rosa is about urban gardens.": "Borrowed from Rosa makes the speaker the recipient rather than the lender."
@@ -1535,11 +1535,11 @@
         "The parcel I keep the knife in is missing."
       ],
       "answer": "The knife I open parcels with is missing.",
-      "explanation": "With links the knife to opening parcels; the object relative pronoun can be omitted before I.",
+      "explanation": "'With' links the knife to opening parcels; the object relative pronoun can be omitted before 'I'.",
       "rationales": {
         "The knife that arrived in the parcel is missing.": "The original identifies the knife by its use, not by how it arrived.",
         "The knife that I use to cut bread is missing.": "Cutting bread changes the stated purpose of the knife.",
-        "The knife I open parcels with is missing.": "With links the knife to opening parcels; the object relative pronoun can be omitted before I.",
+        "The knife I open parcels with is missing.": "'With' links the knife to opening parcels; the object relative pronoun can be omitted before 'I'.",
         "The parcel I keep the knife in is missing.": "This says the parcel is missing and describes storage, changing both the missing object and the relationship."
       },
       "audit": {
@@ -1628,11 +1628,11 @@
         "Carlos, who he speaks Arabic, will meet the guests."
       ],
       "answer": "Carlos, who speaks Arabic, will meet the guests.",
-      "explanation": "Who introduces extra information about the named person between commas.",
+      "explanation": "'Who' introduces extra information about the named person between commas.",
       "rationales": {
-        "Carlos, who speaks Arabic, will meet the guests.": "Who introduces extra information about the named person between commas.",
+        "Carlos, who speaks Arabic, will meet the guests.": "'Who' introduces extra information about the named person between commas.",
         "Carlos, that speaks Arabic, will meet the guests.": "That is not used for this comma-separated supplementary relative in standard written English.",
-        "Carlos, speaks Arabic, will meet the guests.": "A finite supplementary relative needs its subject who; the commas do not supply it.",
+        "Carlos, speaks Arabic, will meet the guests.": "A finite supplementary relative needs its subject 'who'; the commas do not supply it.",
         "Carlos, who he speaks Arabic, will meet the guests.": "Who already serves as the subject of speaks, making he redundant."
       },
       "audit": {
@@ -1659,11 +1659,11 @@
         "The company whose logo was redesigned sells household appliances."
       ],
       "answer": "The company whose logo is green repairs household appliances.",
-      "explanation": "Whose links the logo to the company; organizations, as well as people, can have whose descriptions.",
+      "explanation": "'Whose' links the logo to the company; organizations, as well as people, can have 'whose' descriptions.",
       "rationales": {
         "The company whose logo is green makes household appliances.": "Makes changes the company's work from repairing appliances to manufacturing them.",
         "The company whose appliances are green repairs household goods.": "This attaches the colour to the appliances, not to the logo.",
-        "The company whose logo is green repairs household appliances.": "Whose links the logo to the company; organizations, as well as people, can have whose descriptions.",
+        "The company whose logo is green repairs household appliances.": "'Whose' links the logo to the company; organizations, as well as people, can have 'whose' descriptions.",
         "The company whose logo was redesigned sells household appliances.": "This substitutes redesign for the stated colour and selling for repairing."
       },
       "audit": {
@@ -1691,12 +1691,12 @@
         "whose"
       ],
       "answer": "that",
-      "explanation": "That links the remaining possessions to was left; it is the subject of the relative clause.",
+      "explanation": "'That' links the remaining possessions to 'was left'; 'it' is the subject of the relative clause.",
       "rationales": {
-        "what": "Everything already supplies the antecedent; what cannot follow it as the relative pronoun here.",
-        "that": "That links the remaining possessions to was left; it is the subject of the relative clause.",
-        "who": "Who refers to people, not the possessions represented by everything.",
-        "whose": "Whose requires a following possessed noun and cannot act alone as this subject."
+        "what": "'Everything' already supplies the antecedent; 'what' cannot follow it as the relative pronoun here.",
+        "that": "'That' links the remaining possessions to 'was left'; 'it' is the subject of the relative clause.",
+        "who": "'Who' refers to people, not the possessions represented by 'everything'.",
+        "whose": "'Whose' requires a following possessed noun and cannot act alone as this subject."
       },
       "audit": {
         "status": "reviewed",
@@ -1753,9 +1753,9 @@
         "The timetable that my colleague sent has been replied to."
       ],
       "answer": "The colleague I sent the timetable to has replied.",
-      "explanation": "The preposition moves to the end, and the object relative can be omitted: I sent the timetable to that colleague.",
+      "explanation": "The preposition moves to the end, and the object relative can be omitted: 'I sent the timetable to that colleague'.",
       "rationales": {
-        "The colleague I sent the timetable to has replied.": "The preposition moves to the end, and the object relative can be omitted: I sent the timetable to that colleague.",
+        "The colleague I sent the timetable to has replied.": "The preposition moves to the end, and the object relative can be omitted: 'I sent the timetable to that colleague'.",
         "The colleague who sent me the timetable has replied.": "This makes the colleague the sender of the timetable rather than its recipient.",
         "The colleague whose timetable I replied to has sent it.": "This changes a reply from the colleague into the speaker's response to a timetable.",
         "The timetable that my colleague sent has been replied to.": "This shifts the described head to timetable and reverses who sent it."
@@ -1818,8 +1818,8 @@
       "explanation": "That can refer to a person in a defining relative; who I spoke to would also be valid.",
       "rationales": {
         "The customer that I spoke to her has left an address.": "That already represents the person after to; her repeats the object.",
-        "The customer whose I spoke to has left an address.": "Whose needs a possessed noun and cannot introduce I spoke to alone.",
-        "The customer where I spoke to has left an address.": "Where refers to a location, but the customer is the person addressed.",
+        "The customer whose I spoke to has left an address.": "'Whose' needs a possessed noun and cannot introduce 'I spoke to' alone.",
+        "The customer where I spoke to has left an address.": "'Where' refers to a location, but the customer is the person addressed.",
         "The customer that I spoke to has left an address.": "That can refer to a person in a defining relative; who I spoke to would also be valid."
       },
       "audit": {
@@ -1974,8 +1974,8 @@
       "explanation": "About which identifies the plan as the topic of the negotiations, preserving the original relationship.",
       "rationales": {
         "about which the teams negotiated": "About which identifies the plan as the topic of the negotiations, preserving the original relationship.",
-        "through which the teams exchanged proposals": "Through which presents the plan as a means of exchanging proposals, not their subject.",
-        "to which the teams attached their agreement": "To which describes attaching agreement to the plan, not negotiations about it.",
+        "through which the teams exchanged proposals": "'Through which' presents the plan as a means of exchanging proposals, not their subject.",
+        "to which the teams attached their agreement": "'To which' describes attaching agreement to the plan, not negotiations about it.",
         "under which the teams held negotiations": "Under which makes the plan a framework governing negotiations rather than their topic."
       },
       "audit": {
@@ -2034,10 +2034,10 @@
         "The clinic, which offers free check-ups, will move in June."
       ],
       "answer": "The clinic, which offers free check-ups, will move in June.",
-      "explanation": "The comma-separated which clause adds information about the already identified clinic; the move remains the main statement.",
+      "explanation": "The comma-separated 'which' clause adds information about the already identified clinic; the move remains the main statement.",
       "rationales": {
         "The clinic that offers free check-ups will move in June.": "The defining clause uses the service to identify which clinic, instead of presenting it as supplementary information.",
-        "The clinic, which offers free check-ups, will move in June.": "The comma-separated which clause adds information about the already identified clinic; the move remains the main statement.",
+        "The clinic, which offers free check-ups, will move in June.": "The comma-separated 'which' clause adds information about the already identified clinic; the move remains the main statement.",
         "The free check-ups which the clinic offers will move in June.": "This makes the check-ups, rather than the clinic, the thing that will move.",
         "The clinic will offer free check-ups when it moves in June.": "This ties the service to the future move instead of reporting its current availability."
       },
@@ -2065,12 +2065,12 @@
         "Forty tenants were invited to complete the survey."
       ],
       "answer": "Forty responses came from tenants.",
-      "explanation": "Which refers to the eighty responses; half of that set is forty.",
+      "explanation": "'Which' refers to the eighty responses; half of that set is forty.",
       "rationales": {
         "Half the tenants who were contacted responded.": "Half of which quantifies responses, not the proportion of contacted tenants who replied.",
         "Eighty tenants supplied half the responses.": "Eighty is the total response count, not the number of tenant respondents.",
         "Forty tenants were invited to complete the survey.": "The relative counts responses received, not people invited to participate.",
-        "Forty responses came from tenants.": "Which refers to the eighty responses; half of that set is forty."
+        "Forty responses came from tenants.": "'Which' refers to the eighty responses; half of that set is forty."
       },
       "audit": {
         "status": "reviewed",
@@ -2127,11 +2127,11 @@
         "The software that creates invoices is the one our accountant recommended."
       ],
       "answer": "The software that stores invoices is the one our accountant recommended.",
-      "explanation": "That stores invoices is a subject relative; our accountant recommended is an object relative identifying the same software.",
+      "explanation": "'That stores invoices' is a subject relative; 'our accountant recommended' is an object relative identifying the same software.",
       "rationales": {
         "The accountant who stores invoices recommended the software.": "This makes the accountant the person storing invoices, rather than describing a software function.",
         "The software our accountant designed stores invoices.": "Designed replaces a recommendation with authorship of the software.",
-        "The software that stores invoices is the one our accountant recommended.": "That stores invoices is a subject relative; our accountant recommended is an object relative identifying the same software.",
+        "The software that stores invoices is the one our accountant recommended.": "'That stores invoices' is a subject relative; 'our accountant recommended' is an object relative identifying the same software.",
         "The software that creates invoices is the one our accountant recommended.": "Creating invoices is a different function from storing them."
       },
       "audit": {
@@ -2160,7 +2160,7 @@
       "answer": "The designers approved of postponing the launch.",
       "explanation": "A decision explicitly identifies the postponement as what the designers welcomed.",
       "rationales": {
-        "The designers welcomed the product that was due to launch.": "Which describes a decision, not the product itself.",
+        "The designers welcomed the product that was due to launch.": "'Which' describes a decision, not the product itself.",
         "The designers approved of postponing the launch.": "A decision explicitly identifies the postponement as what the designers welcomed.",
         "The designers proposed the postponement themselves.": "Welcoming a decision does not establish who proposed it.",
         "The designers approved of the original launch date.": "Welcoming the postponement does not mean approving the original launch date."
@@ -2315,7 +2315,7 @@
       "answer": "The receptionist identified the technician as the expected repairer.",
       "explanation": "The relative refers to the technician across the embedded phrase the receptionist said.",
       "rationales": {
-        "The receptionist will repair the scanner.": "The receptionist is the subject of said; the technician is the understood subject of would repair.",
+        "The receptionist will repair the scanner.": "'The receptionist' is the subject of 'said'; 'the technician' is the understood subject of 'would repair'.",
         "The technician said the receptionist would repair it.": "This swaps the speaker of the report and the expected repairer.",
         "The receptionist identified the technician as the expected repairer.": "The relative refers to the technician across the embedded phrase the receptionist said.",
         "The speaker told the technician to replace the scanner.": "The main clause reports a conversation, not an instruction to replace the equipment."
@@ -2410,7 +2410,7 @@
       "explanation": "The nurse made the referral, me received it, and to whom points to the specialist as the destination.",
       "rationales": {
         "The specialist referred the nurse to the speaker.": "The nurse, not the specialist, is the subject of referred in the relative clause.",
-        "The speaker referred the nurse to the specialist.": "Me is the person referred, not the person making the referral.",
+        "The speaker referred the nurse to the specialist.": "'Me' is the person referred, not the person making the referral.",
         "The nurse received a referral from the specialist.": "To whom identifies the referral's destination; it does not make the specialist its source.",
         "The nurse directed the speaker to the specialist.": "The nurse made the referral, me received it, and to whom points to the specialist as the destination."
       },
@@ -2534,7 +2534,7 @@
       "explanation": "Award-winning directly modifies architect, removing the possible competing attachment to assistant.",
       "rationales": {
         "The curator interviewed the assistant who worked for the architect after winning the award.": "After winning attaches naturally to the assistant's working history and does not unambiguously make the architect the winner.",
-        "The curator interviewed the architect's assistant, who had won the award.": "The relative follows the whole phrase the architect's assistant, identifying the assistant as the winner.",
+        "The curator interviewed the architect's assistant, who had won the award.": "The relative follows the whole phrase \"the architect's assistant\", identifying the assistant as the winner.",
         "The curator interviewed the assistant of the award-winning architect.": "Award-winning directly modifies architect, removing the possible competing attachment to assistant.",
         "The curator interviewed the award-winning assistant employed by the architect.": "Award-winning explicitly modifies assistant, the wrong recipient under the editing instruction."
       },
@@ -2565,7 +2565,7 @@
       "explanation": "By which time sets publication as the reference point before or at which closure will be complete.",
       "rationales": {
         "The consultation will be closed no later than publication of the decision.": "By which time sets publication as the reference point before or at which closure will be complete.",
-        "The consultation will begin once the committee publishes its decision.": "Will have closed describes completed closure by then, not the start of consultation afterward.",
+        "The consultation will begin once the committee publishes its decision.": "'Will have closed' describes completed closure by then, not the start of consultation afterward.",
         "Publication and closure are scheduled for the same exact moment.": "By allows completion earlier; it does not require the events to coincide exactly.",
         "The consultation's closure determines when publication may begin.": "The sentence states a time relationship, not that closure authorizes or determines publication."
       },
@@ -2593,12 +2593,12 @@
         "The lawyer accepted the witness's account because it was detailed."
       ],
       "answer": "The lawyer doubted the witness, despite the detail of the account.",
-      "explanation": "Whom is the person assessed by the lawyer; nevertheless contrasts that assessment with the detailed testimony.",
+      "explanation": "'Whom' is the person assessed by the lawyer; 'nevertheless' contrasts that assessment with the detailed testimony.",
       "rationales": {
         "The narrator establishes that the witness's account was unreliable.": "Considered attributes the assessment to the lawyer; the narrator does not independently establish unreliability.",
         "The witness considered the lawyer's account unreliable.": "The lawyer is the subject of considered and the witness its object, not the reverse.",
         "The lawyer accepted the witness's account because it was detailed.": "Nevertheless contrasts the negative assessment with the detailed account; it does not report acceptance.",
-        "The lawyer doubted the witness, despite the detail of the account.": "Whom is the person assessed by the lawyer; nevertheless contrasts that assessment with the detailed testimony."
+        "The lawyer doubted the witness, despite the detail of the account.": "'Whom' is the person assessed by the lawyer; 'nevertheless' contrasts that assessment with the detailed testimony."
       },
       "audit": {
         "status": "reviewed",
@@ -2624,10 +2624,10 @@
         "The procedure provided a means for tenants to challenge disputed charges."
       ],
       "answer": "The procedure provided a means for tenants to challenge disputed charges.",
-      "explanation": "Whereby means by which here: the procedure is the means enabling tenants to challenge charges.",
+      "explanation": "'Whereby' means 'by which' here: the procedure is the means enabling tenants to challenge charges.",
       "rationales": {
         "The procedure described the circumstances in which disputed charges usually arose.": "This describes background circumstances, not how a challenge could be made.",
-        "The procedure provided a means for tenants to challenge disputed charges.": "Whereby means by which here: the procedure is the means enabling tenants to challenge charges.",
+        "The procedure provided a means for tenants to challenge disputed charges.": "'Whereby' means 'by which' here: the procedure is the means enabling tenants to challenge charges.",
         "The procedure recorded the occasions on which tenants had challenged charges.": "Could presents an available mechanism, not a record of previous challenges.",
         "The procedure identified the location where tenants received their charges.": "A physical location for receiving charges is different from a process for contesting them."
       },
@@ -2691,7 +2691,7 @@
         "Three proposals submitted by the delegates were adopted.": "Three of whose proposals quantifies proposals belonging to the delegate group, not the delegates themselves.",
         "Three delegates each had all their proposals adopted.": "The number applies to proposals; the sentence does not distribute success across three individual delegates.",
         "Each delegate had exactly three proposals adopted.": "There is no each in the relative, so three cannot be read as a per-delegate total.",
-        "Three adopted proposals were submitted by other delegates.": "Whose connects the proposals to the delegates being discussed, not an outside group."
+        "Three adopted proposals were submitted by other delegates.": "'Whose' connects the proposals to the delegates being discussed, not an outside group."
       },
       "audit": {
         "status": "reviewed",
@@ -2717,12 +2717,12 @@
         "The audit investigated the process used to deal with complaints."
       ],
       "answer": "The audit investigated the process used to deal with complaints.",
-      "explanation": "The way in which introduces manner or method; it identifies the handling process as the object of examination.",
+      "explanation": "'The way in which' introduces manner or method; it identifies the handling process as the object of examination.",
       "rationales": {
         "The audit tested how satisfied complainants were with each outcome.": "Satisfaction is explicitly outside the stated focus of the audit.",
         "The audit established why complainants accepted the decisions.": "Reasons for accepting decisions concern reactions, not the handling method identified by the way in which.",
         "The audit checked whether complaints had produced favourable decisions.": "Whether decisions were favourable evaluates outcomes rather than how complaints were processed.",
-        "The audit investigated the process used to deal with complaints.": "The way in which introduces manner or method; it identifies the handling process as the object of examination."
+        "The audit investigated the process used to deal with complaints.": "'The way in which' introduces manner or method; it identifies the handling process as the object of examination."
       },
       "audit": {
         "status": "reviewed",
@@ -2750,7 +2750,7 @@
       "answer": "The supervisor was interviewed; the analyst was later asked to respond in writing.",
       "explanation": "The committee interviewed the analyst's supervisor inside the relative clause; the main-clause invitation went to the analyst.",
       "rationales": {
-        "The analyst was interviewed, then asked to send the supervisor a response.": "Whose supervisor is the object of interviewed; the analyst is the owner of that relationship, not the interviewee.",
+        "The analyst was interviewed, then asked to send the supervisor a response.": "'Whose supervisor' is the object of 'interviewed'; the analyst is the owner of that relationship, not the interviewee.",
         "The supervisor was interviewed; the analyst was later asked to respond in writing.": "The committee interviewed the analyst's supervisor inside the relative clause; the main-clause invitation went to the analyst.",
         "The committee interviewed the analyst and invited the supervisor to respond.": "This swaps the interviewee and the recipient of the invitation.",
         "The supervisor interviewed the committee before inviting the analyst to respond.": "The committee is the interviewer, not the group interviewed by the supervisor."
@@ -2935,11 +2935,11 @@
         "The archive introduced the backup system because the power failure had destroyed the work."
       ],
       "answer": "The backup system prevented the power failure from destroying the work.",
-      "explanation": "Without which refers to the backup system and frames destruction as what would have happened in its absence.",
+      "explanation": "'Without which' refers to the backup system and frames destruction as what would have happened in its absence.",
       "rationales": {
-        "The power failure destroyed the backup system and the archived work.": "Would have destroyed under without which describes the hypothetical loss without the safeguard, not an actual loss of both.",
+        "The power failure destroyed the backup system and the archived work.": "'Would have destroyed' under 'without which' describes the hypothetical loss without the safeguard, not an actual loss of both.",
         "The archive had already lost the work before the backup system was introduced.": "The sentence presents the system as effective during the recent failure, not as arriving after the work was lost.",
-        "The backup system prevented the power failure from destroying the work.": "Without which refers to the backup system and frames destruction as what would have happened in its absence.",
+        "The backup system prevented the power failure from destroying the work.": "'Without which' refers to the backup system and frames destruction as what would have happened in its absence.",
         "The archive introduced the backup system because the power failure had destroyed the work.": "This turns the unrealized destruction into an actual earlier cause of introducing the system."
       },
       "audit": {
@@ -2966,9 +2966,9 @@
         "The return of the statements prompted the original request for evidence."
       ],
       "answer": "The applicant supplied statements in response to the request for evidence.",
-      "explanation": "Which follows in response to and refers to the request for evidence.",
+      "explanation": "'Which' follows 'in response to' and refers to the request for evidence.",
       "rationales": {
-        "The applicant supplied statements in response to the request for evidence.": "Which follows in response to and refers to the request for evidence.",
+        "The applicant supplied statements in response to the request for evidence.": "'Which' follows 'in response to' and refers to the request for evidence.",
         "The application was returned because the applicant had supplied statements.": "This reverses the sequence, making the statements the reason for returning the application.",
         "The applicant supplied statements in response to a bank's request.": "The bank supplies the statements but is not identified as making the evidence request.",
         "The return of the statements prompted the original request for evidence.": "The application was returned; the sentence does not report returned bank statements."
@@ -3093,7 +3093,7 @@
       "explanation": "Such as they were refers back to the menus with a qualified, often dismissive assessment of their adequacy.",
       "rationales": {
         "The menus were retained, though the speaker implies they were of limited quality.": "Such as they were refers back to the menus with a qualified, often dismissive assessment of their adequacy.",
-        "The menus were retained as examples of other familiar features that were removed.": "Such as they were is a parenthetical qualification here, not an example list headed by such as.",
+        "The menus were retained as examples of other familiar features that were removed.": "'Such as they were' is a parenthetical qualification here, not an example list headed by 'such as'.",
         "The menus were retained in whatever form users might choose in future.": "They were refers to the menus as they existed, not a future free choice of form.",
         "The menus were retained because their quality made other changes unnecessary.": "The phrase qualifies the menus' merits; it does not praise them as making further changes unnecessary."
       },
@@ -3183,12 +3183,12 @@
         "The questioned accounts came only from witnesses who remained in the country."
       ],
       "answer": "The witnesses with questioned accounts were recalled, including some who had left.",
-      "explanation": "The defining whose clause selects the recalled group; the supplementary partitive describes some members within it.",
+      "explanation": "The defining 'whose' clause selects the recalled group; the supplementary partitive describes some members within it.",
       "rationales": {
         "The witnesses who had left the country were the only ones recalled.": "Several of whom adds information about some members; it does not restrict recalled to that subgroup.",
         "The analyst recalled witnesses without questioning their accounts.": "Whose accounts the analyst questioned explicitly defines the witness group by the questioned accounts.",
         "The questioned accounts came only from witnesses who remained in the country.": "Several of whom refers back to that defined group, so some with questioned accounts had left.",
-        "The witnesses with questioned accounts were recalled, including some who had left.": "The defining whose clause selects the recalled group; the supplementary partitive describes some members within it."
+        "The witnesses with questioned accounts were recalled, including some who had left.": "The defining 'whose' clause selects the recalled group; the supplementary partitive describes some members within it."
       },
       "audit": {
         "status": "reviewed",
@@ -3248,7 +3248,7 @@
       "explanation": "In the first, allegation is the understood object of repeated in a relative; in the second, the that-clause supplies what is alleged.",
       "rationales": {
         "Both clauses state that the auditor made a false allegation.": "Neither wording by itself establishes that the allegation is false; the second reports what is alleged.",
-        "The first gives the allegation's content; the second identifies its source.": "The functions are reversed: repeated takes the allegation as its missing object, while falsified the figures supplies a full proposition.",
+        "The first gives the allegation's content; the second identifies its source.": "The functions are reversed: 'repeated' takes the allegation as its missing object, while 'falsified the figures' supplies a full proposition.",
         "The first identifies an allegation by an action; the second states its content.": "In the first, allegation is the understood object of repeated in a relative; in the second, the that-clause supplies what is alleged.",
         "Both clauses identify allegations by actions performed on them.": "Only repeated has allegation as an understood object; the second clause already has the figures as its object."
       },
@@ -3276,10 +3276,10 @@
         "The inquiry must appoint the person who has already disclosed previous work."
       ],
       "answer": "The disclosure requirement applies regardless of who becomes chair.",
-      "explanation": "Whoever is appointed supplies the eventual role-holder as the subject of must disclose.",
+      "explanation": "'Whoever is appointed' supplies the eventual role-holder as the subject of 'must disclose'.",
       "rationales": {
         "The speaker knows the appointee but declines to identify that person.": "Whoever makes the requirement independent of identity; it does not establish concealed knowledge of an appointment.",
-        "The disclosure requirement applies regardless of who becomes chair.": "Whoever is appointed supplies the eventual role-holder as the subject of must disclose.",
+        "The disclosure requirement applies regardless of who becomes chair.": "'Whoever is appointed' supplies the eventual role-holder as the subject of 'must disclose'.",
         "An appointee may decide whether previous work is relevant enough to disclose.": "The stated duty covers any previous work, not just work the appointee chooses to consider relevant.",
         "The inquiry must appoint the person who has already disclosed previous work.": "Disclosure is a duty of the chair, not a stated rule for selecting the chair."
       },
@@ -3493,11 +3493,11 @@
         "The proposal had already received committee approval, as the minutes confirm."
       ],
       "answer": "The proposal had already received committee approval, as the minutes confirm.",
-      "explanation": "As refers to the preceding proposition, and confirm presents the minutes as corroboration of that proposition.",
+      "explanation": "'As' refers to the preceding proposition, and 'confirm' presents the minutes as corroboration of that proposition.",
       "rationales": {
         "The minutes, which had received committee approval, mentioned the proposal.": "This makes the minutes, rather than the proposal, the thing approved and weakens corroboration to mention.",
         "The proposal had received approval from the committee that drafted the minutes.": "This identifies the committee through authorship of the minutes but does not make the minutes confirm the approval.",
-        "The proposal had already received committee approval, as the minutes confirm.": "As refers to the preceding proposition, and confirm presents the minutes as corroboration of that proposition.",
+        "The proposal had already received committee approval, as the minutes confirm.": "'As' refers to the preceding proposition, and 'confirm' presents the minutes as corroboration of that proposition.",
         "The proposal, whose approval the minutes questioned, went to the committee.": "Questioned reverses corroboration into doubt about the approval."
       },
       "audit": {
@@ -3555,12 +3555,12 @@
         "The panel said a valuation was necessary before it could recommend a sale."
       ],
       "answer": "The panel said a valuation was necessary before it could recommend a sale.",
-      "explanation": "In the absence of which refers to the requested valuation, and it said attributes the prerequisite to the panel.",
+      "explanation": "'In the absence of which' refers to the requested valuation, and 'it said' attributes the prerequisite to the panel.",
       "rationales": {
-        "The panel's absence from the sale would prevent an independent valuation.": "Which refers to valuation, not panel; the absence concerns evidence, not attendance.",
+        "The panel's absence from the sale would prevent an independent valuation.": "'Which' refers to 'valuation', not 'panel'; the absence concerns evidence, not attendance.",
         "The sale could not be valued until the panel issued its recommendation.": "This reverses the prerequisite: the valuation is required for the recommendation, not produced after it.",
         "The panel requested a valuation because the sale had already been recommended.": "Could not recommend without the valuation leaves the recommendation unavailable, not already made.",
-        "The panel said a valuation was necessary before it could recommend a sale.": "In the absence of which refers to the requested valuation, and it said attributes the prerequisite to the panel."
+        "The panel said a valuation was necessary before it could recommend a sale.": "'In the absence of which' refers to the requested valuation, and 'it said' attributes the prerequisite to the panel."
       },
       "audit": {
         "status": "reviewed",

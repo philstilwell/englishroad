@@ -122,7 +122,7 @@ My shoes are under the chair.
 - **The shoes are beside the chair.:** Beside would be 'next to', not 'under'.
 - **The shoes are on the chair.:** 'On' would put the shoes on the chair's surface.
 - **The shoes are below the chair.:** 'Under' places the shoes below the chair.
-- **The shoes are behind the chair.:** Behind describes the back, not the space below.
+- **The shoes are behind the chair.:** 'Behind' describes the back, not the space below.
 
 **Decision:** replaced.
 
@@ -601,8 +601,8 @@ Where is the hotel?
 
 - **The hotel is inside the station.:** Inside would put the hotel within the station building.
 - **The hotel is opposite the station.:** 'Opposite' can describe places facing each other across a street.
-- **The hotel is behind the station.:** Behind describes the station's back, not the facing side of the street.
-- **The hotel is next to the station.:** Next to means beside it, not across the street from it.
+- **The hotel is behind the station.:** 'Behind' describes the station's back, not the facing side of the street.
+- **The hotel is next to the station.:** 'Next to' means beside it, not across the street from it.
 
 **Decision:** replaced.
 
@@ -1051,7 +1051,7 @@ Where is the meeting room?
 
 **Choice feedback:**
 
-- **The meeting room is opposite reception.:** Opposite describes facing positions, not a lower floor.
+- **The meeting room is opposite reception.:** 'Opposite' describes facing positions, not a lower floor.
 - **The meeting room is beside reception.:** Beside puts the room next to reception rather than on the floor underneath.
 - **The meeting room is below reception.:** 'Below' describes a lower level; the context supplies the floor directly underneath.
 - **The meeting room is above reception.:** Above reverses the stated vertical relationship.
@@ -3102,8 +3102,8 @@ Choose the editorial advice that preserves a natural conversational question.
 
 A dialogue contains: 'Which proposal were you referring to?' An editor wants to remove the final 'to' because sentences should not end with a preposition.
 
-1. Delete to; referring takes the proposal as a direct object in this meaning.
-2. Keep to: refer to needs it here, and a final preposition is natural in this dialogue. **[Correct]**
+1. Delete 'to'; 'referring' takes 'the proposal' as a direct object in this meaning.
+2. Keep 'to': 'refer to' needs it here, and a final preposition is natural in this dialogue. **[Correct]**
 3. Replace to with about because final to is not allowed in direct questions.
 4. Move to before which because only indirect questions permit a final preposition.
 
@@ -3111,8 +3111,8 @@ A dialogue contains: 'Which proposal were you referring to?' An editor wants to 
 
 **Choice feedback:**
 
-- **Delete to; referring takes the proposal as a direct object in this meaning.:** For mentioning or alluding to a proposal, the construction is 'refer to', not 'refer a proposal'.
-- **Keep to: refer to needs it here, and a final preposition is natural in this dialogue.:** Preposition stranding is normal in English questions. 'To which proposal were you referring?' is possible but more formal.
+- **Delete 'to'; 'referring' takes 'the proposal' as a direct object in this meaning.:** For mentioning or alluding to a proposal, the construction is 'refer to', not 'refer a proposal'.
+- **Keep 'to': 'refer to' needs it here, and a final preposition is natural in this dialogue.:** Preposition stranding is normal in English questions. 'To which proposal were you referring?' is possible but more formal.
 - **Replace to with about because final to is not allowed in direct questions.:** The position is allowed, and 'referring about' is not the required construction.
 - **Move to before which because only indirect questions permit a final preposition.:** Direct questions also allow final prepositions; fronting is a style choice here, not a grammatical requirement.
 
@@ -3276,7 +3276,7 @@ Original: 'The release is contingent on completion of the independent review.' E
 **Choice feedback:**
 
 - **The edit merely states what completion of an independent review necessarily means.:** A review can be completed with an unfavourable recommendation; completion does not guarantee a positive outcome.
-- **The edit makes the review's conclusion a reason for release rather than a condition of it.:** Contingent on still expresses a condition, not merely an explanatory reason.
+- **The edit makes the review's conclusion a reason for release rather than a condition of it.:** 'Contingent on' still expresses a condition, not merely an explanatory reason.
 - **The edit requires a completed review but allows either recommendation.:** That describes the original requirement; the edit specifically requires a favourable recommendation.
 - **The edit replaces completion of a process with a specified outcome of that process.:** What follows contingent on defines the condition: completion and a favourable recommendation impose different requirements.
 
@@ -3435,7 +3435,7 @@ Which summary is supported by the full statement?
 
 **Choice feedback:**
 
-- **Publication will resume as soon as the review is complete, regardless of its recommendation.:** Pending describes the current wait; it does not guarantee resumption after a review that may recommend withdrawal.
+- **Publication will resume as soon as the review is complete, regardless of its recommendation.:** 'Pending' describes the current wait; it does not guarantee resumption after a review that may recommend withdrawal.
 - **Publication is on hold while the review is awaited, with its eventual course unresolved.:** Pending marks an interim state awaiting an event. The possible recommendations leave the later decision open.
 - **Publication has been withdrawn following a review of the disputed passages.:** This turns suspension pending a review into withdrawal following a completed review.
 - **Publication is postponed solely to let the reviewers choose a resumption date.:** The review may recommend withdrawal, so its role is not limited to scheduling a resumption.

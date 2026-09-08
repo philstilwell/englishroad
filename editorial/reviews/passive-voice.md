@@ -51,14 +51,14 @@ The cafe ___ The Green Cup.
 3. call
 4. is called **[Correct]**
 
-**Explanation:** Is called introduces the name people use for a place or thing.
+**Explanation:** 'Is called' introduces the name people use for a place or thing.
 
 **Choice feedback:**
 
 - **calls:** Calls would make the cafe the caller and does not give its name this way.
-- **calling:** Calling alone is not a complete verb after the cafe.
-- **call:** Call alone does not form the passive name expression and does not agree with the singular cafe.
-- **is called:** Is called introduces the name people use for a place or thing.
+- **calling:** 'Calling' alone is not a complete verb after 'the cafe'.
+- **call:** 'Call' alone does not form the passive name expression and does not agree with the singular 'cafe'.
+- **is called:** 'Is called' introduces the name people use for a place or thing.
 
 **Decision:** replaced.
 
@@ -83,13 +83,13 @@ The sign is painted by a local artist for the shop's owner.
 3. A local artist **[Correct]**
 4. The shop
 
-**Explanation:** By a local artist names the person who paints the sign.
+**Explanation:** 'By a local artist' names the person who paints the sign.
 
 **Choice feedback:**
 
 - **The sign:** The sign receives the paint; it is not the painter.
 - **The shop's owner:** For the shop's owner names the intended recipient, not the painter.
-- **A local artist:** By a local artist names the person who paints the sign.
+- **A local artist:** 'By a local artist' names the person who paints the sign.
 - **The shop:** The shop is the business associated with the sign, not the named painter.
 
 **Decision:** replaced.
@@ -147,12 +147,12 @@ Breakfast is included in the room price.
 3. Breakfast is served in your room.
 4. You must eat breakfast before paying.
 
-**Explanation:** Is included means breakfast is part of the room price, so there is no separate breakfast charge.
+**Explanation:** 'Is included' means breakfast is part of the room price, so there is no separate breakfast charge.
 
 **Choice feedback:**
 
-- **Breakfast costs extra.:** Included in the room price means it is already part of that price.
-- **You do not pay extra for breakfast.:** Is included means breakfast is part of the room price, so there is no separate breakfast charge.
+- **Breakfast costs extra.:** 'Included in the room price' means it is already part of that price.
+- **You do not pay extra for breakfast.:** 'Is included' means breakfast is part of the room price, so there is no separate breakfast charge.
 - **Breakfast is served in your room.:** The notice says nothing about the place where breakfast is served.
 - **You must eat breakfast before paying.:** The notice describes what the price covers, not when you must eat or pay.
 
@@ -179,14 +179,14 @@ Fresh eggs ___ sold here.
 3. be
 4. am
 
-**Explanation:** Eggs is plural, so use are before sold in this present passive.
+**Explanation:** 'Eggs' is plural, so use 'are' before 'sold' in this present passive.
 
 **Choice feedback:**
 
-- **are:** Eggs is plural, so use are before sold in this present passive.
-- **is:** Is takes a singular subject; eggs needs are.
-- **be:** Be is the base form and cannot stand alone after eggs in this statement.
-- **am:** Am is used with I, not with eggs.
+- **are:** 'Eggs' is plural, so use 'are' before 'sold' in this present passive.
+- **is:** 'Is' takes a singular subject; 'eggs' needs 'are'.
+- **be:** 'Be' is the base form and cannot stand alone after 'eggs' in this statement.
+- **am:** 'Am' is used with 'I', not with 'eggs'.
 
 **Decision:** replaced.
 
@@ -217,7 +217,7 @@ The building has a no-smoking rule.
 
 - **Smoking is allowed here.:** Is allowed gives permission, which reverses the rule.
 - **Smoking is taught here.:** Is taught concerns instruction, not permission.
-- **Smoking was allowed here.:** Was allowed describes past permission and does not state the rule now.
+- **Smoking was allowed here.:** 'Was allowed' describes past permission and does not state the rule now.
 - **Smoking is not allowed here.:** Is not allowed says the action is not permitted here now.
 
 **Decision:** replaced.
@@ -243,14 +243,14 @@ These cups are ___ by hand.
 3. made **[Correct]**
 4. makes
 
-**Explanation:** Made is the past participle of make. Are made describes the cups receiving the action.
+**Explanation:** 'Made' is the past participle of 'make'. 'Are made' describes the cups receiving the action.
 
 **Choice feedback:**
 
-- **make:** The passive after are needs made, not the base form make.
+- **make:** The passive after 'are' needs 'made', not the base form 'make'.
 - **making:** Are making would describe the cups as makers, not things people make.
-- **made:** Made is the past participle of make. Are made describes the cups receiving the action.
-- **makes:** Makes is a present form and cannot follow are here.
+- **made:** 'Made' is the past participle of 'make'. 'Are made' describes the cups receiving the action.
+- **makes:** 'Makes' is a present form and cannot follow 'are' here.
 
 **Decision:** replaced.
 
@@ -275,14 +275,14 @@ My grandmother ___ born in Lima.
 3. was **[Correct]**
 4. did
 
-**Explanation:** Was born is the usual expression for a person's past birth or birthplace.
+**Explanation:** 'Was born' is the usual expression for a person's past birth or birthplace.
 
 **Choice feedback:**
 
 - **is:** Is gives present tense; this sentence states a past birth.
-- **has:** Has cannot directly form has born in this birthplace expression.
-- **was:** Was born is the usual expression for a person's past birth or birthplace.
-- **did:** Did cannot be followed by born to form this statement; use was born.
+- **has:** 'Has' cannot directly form 'has born' in this birthplace expression.
+- **was:** 'Was born' is the usual expression for a person's past birth or birthplace.
+- **did:** 'Did' cannot be followed by 'born' to form this statement; use 'was born'.
 
 **Decision:** replaced.
 
@@ -343,9 +343,9 @@ The passenger ___ helped by the driver.
 
 **Choice feedback:**
 
-- **does:** Does cannot be followed by helped to form this passive.
+- **does:** 'Does' cannot be followed by 'helped' to form this passive.
 - **has:** Has helped would make the passenger the helper and would not fit by the driver here.
-- **do:** Do does not agree with the singular passenger and does not form a passive before helped.
+- **do:** 'Do' does not agree with the singular 'passenger' and does not form a passive before 'helped'.
 - **is:** Is helped is passive: the passenger receives the driver's help.
 
 **Decision:** replaced.
@@ -375,8 +375,8 @@ We ___ invited to the neighbor's party last week.
 
 **Choice feedback:**
 
-- **are:** Are is present tense, but last week gives a finished past time.
-- **was:** Was does not agree with we; use were.
+- **are:** 'Are' is present tense, but 'last week' gives a finished past time.
+- **was:** 'Was' does not agree with 'we'; use 'were'.
 - **were:** Were agrees with we and forms the past passive were invited.
 - **have:** Have invited would make us the people sending invitations, not receiving them.
 
@@ -403,14 +403,14 @@ This soup is cooked by ___.
 3. hers
 4. she's
 
-**Explanation:** Her is the object pronoun used after by to identify the cook.
+**Explanation:** 'Her' is the object pronoun used after 'by' to identify the cook.
 
 **Choice feedback:**
 
-- **she:** After the preposition by, use the object form her, not she.
-- **her:** Her is the object pronoun used after by to identify the cook.
-- **hers:** Hers expresses possession and does not name the cook after by here.
-- **she's:** She's means she is or she has; neither can be the object of by here.
+- **she:** After the preposition 'by', use the object form 'her', not 'she'.
+- **her:** 'Her' is the object pronoun used after 'by' to identify the cook.
+- **hers:** 'Hers' expresses possession and does not name the cook after 'by' here.
+- **she's:** "She's" means 'she is' or 'she has'; neither can be the object of 'by' here.
 
 **Decision:** replaced.
 
@@ -471,9 +471,9 @@ The chef ___ breakfast for our guests every day.
 
 **Choice feedback:**
 
-- **is prepared:** Is prepared makes the chef the receiver of preparation and cannot take breakfast as its object here.
+- **is prepared:** 'Is prepared' makes the chef the receiver of preparation and cannot take 'breakfast' as its object here.
 - **prepares:** Prepares is active: the chef does the preparation, and breakfast receives it.
-- **are prepared:** Are prepared is passive and does not agree with the singular chef.
+- **are prepared:** 'Are prepared' is passive and does not agree with the singular 'chef'.
 - **was prepared:** Was prepared is passive past; it does not describe the chef's daily action on breakfast.
 
 **Decision:** replaced.
@@ -499,13 +499,13 @@ The bicycles are kept inside at night.
 3. The bicycles stay inside at night because people put them there. **[Correct]**
 4. People move the bicycles outside before night.
 
-**Explanation:** Are kept inside describes where people store the bicycles at night.
+**Explanation:** 'Are kept inside' describes where people store the bicycles at night.
 
 **Choice feedback:**
 
-- **People ride the bicycles inside at night.:** Kept inside describes storage, not riding indoors.
+- **People ride the bicycles inside at night.:** 'Kept inside' describes storage, not riding indoors.
 - **People repair the bicycles every night.:** Keeping bicycles inside does not state that repairs happen.
-- **The bicycles stay inside at night because people put them there.:** Are kept inside describes where people store the bicycles at night.
+- **The bicycles stay inside at night because people put them there.:** 'Are kept inside' describes where people store the bicycles at night.
 - **People move the bicycles outside before night.:** Outside reverses the location given by inside.
 
 **Decision:** replaced.
@@ -531,14 +531,14 @@ Your name is ___ on this card.
 3. writing
 4. writes
 
-**Explanation:** Written is the past participle of write. Is written puts the name in the receiver position.
+**Explanation:** 'Written' is the past participle of 'write'. 'Is written' puts the name in the receiver position.
 
 **Choice feedback:**
 
-- **written:** Written is the past participle of write. Is written puts the name in the receiver position.
-- **write:** Write is the base form; this passive needs written.
+- **written:** 'Written' is the past participle of 'write'. 'Is written' puts the name in the receiver position.
+- **write:** 'Write' is the base form; this passive needs 'written'.
 - **writing:** Is writing would make your name the writer rather than the text on the card.
-- **writes:** Writes is present simple and cannot follow is here.
+- **writes:** 'Writes' is present simple and cannot follow 'is' here.
 
 **Decision:** replaced.
 
@@ -567,9 +567,9 @@ Ask whether lunch is served here.
 
 **Choice feedback:**
 
-- **Does lunch served here?:** Does cannot directly precede served in this passive question; use is.
+- **Does lunch served here?:** 'Does' cannot directly precede 'served' in this passive question; use 'is'.
 - **Is lunch served here?:** Put is before lunch and keep served to form a neutral passive yes/no question.
-- **Is lunch serve here?:** The passive needs the participle served after is.
+- **Is lunch serve here?:** The passive needs the participle 'served' after 'is'.
 - **Is lunch be served here?:** Is already supplies be; do not add another be before served.
 
 **Decision:** replaced.
@@ -600,9 +600,9 @@ Are the tickets included? Yes, they ___.
 **Choice feedback:**
 
 - **are:** Repeat are from the question; it agrees with they and stands for are included.
-- **do:** Do does not repeat the passive helping verb are.
-- **is:** Is does not agree with they.
-- **have:** Have does not match the question's helping verb are.
+- **do:** 'Do' does not repeat the passive helping verb 'are'.
+- **is:** 'Is' does not agree with 'they'.
+- **have:** 'Have' does not match the question's helping verb 'are'.
 
 **Decision:** replaced.
 
@@ -627,14 +627,14 @@ This key is used for the back door.
 3. The key is part of the back door.
 4. People use this key for the back door. **[Correct]**
 
-**Explanation:** Is used can describe a purpose while leaving the users unnamed; people use the key for that door.
+**Explanation:** 'Is used' can describe a purpose while leaving the users unnamed; people use the key for that door.
 
 **Choice feedback:**
 
 - **The back door uses this key.:** This makes the door the user rather than the thing opened with the key.
 - **People keep this key behind the door.:** For the back door gives the key's purpose, not its storage place.
 - **The key is part of the back door.:** The sentence describes what the key is used for, not that it forms part of the door.
-- **People use this key for the back door.:** Is used can describe a purpose while leaving the users unnamed; people use the key for that door.
+- **People use this key for the back door.:** 'Is used' can describe a purpose while leaving the users unnamed; people use the key for that door.
 
 **Decision:** replaced.
 
@@ -663,13 +663,13 @@ This railway station ___ in 1890.
 3. was built **[Correct]**
 4. has built
 
-**Explanation:** Was built is past passive: people built the station in the finished year 1890.
+**Explanation:** 'Was built' is past passive: people built the station in the finished year 1890.
 
 **Choice feedback:**
 
 - **built:** Built alone would make the station the builder; the station receives the construction action.
 - **was building:** Was building is active continuous and would describe the station doing construction.
-- **was built:** Was built is past passive: people built the station in the finished year 1890.
+- **was built:** 'Was built' is past passive: people built the station in the finished year 1890.
 - **has built:** Has built is active, not passive, and does not fit this dated construction event.
 
 **Decision:** replaced.
@@ -765,7 +765,7 @@ Which sentence says who caused the windows to open?
 
 - **The windows opened during the break.:** Opened can describe the windows changing position without identifying a person who did it.
 - **The windows were opening slowly.:** Were opening presents movement in progress without naming who caused it.
-- **The windows were open when we arrived.:** Were open describes a state; it does not identify who opened the windows.
+- **The windows were open when we arrived.:** 'Were open' describes a state; it does not identify who opened the windows.
 - **The windows were opened by the receptionist.:** Were opened is passive, and by the receptionist names the person who caused the action.
 
 **Decision:** replaced.
@@ -791,14 +791,14 @@ This photo was ___ from the roof.
 3. take
 4. taken **[Correct]**
 
-**Explanation:** Taken is the past participle of take. Was taken describes the photo as the result of someone's action.
+**Explanation:** 'Taken' is the past participle of 'take'. 'Was taken' describes the photo as the result of someone's action.
 
 **Choice feedback:**
 
-- **took:** Took is simple past; the passive after was needs taken.
+- **took:** 'Took' is simple past; the passive after 'was' needs 'taken'.
 - **taking:** Was taking would be active continuous and would make the photo the photographer.
-- **take:** Take is the base form, not the participle needed after was.
-- **taken:** Taken is the past participle of take. Was taken describes the photo as the result of someone's action.
+- **take:** 'Take' is the base form, not the participle needed after 'was'.
+- **taken:** 'Taken' is the past participle of 'take'. 'Was taken' describes the photo as the result of someone's action.
 
 **Decision:** replaced.
 
@@ -829,8 +829,8 @@ Library books can ___ at either entrance.
 
 - **be returned:** After can, use be plus returned to say what borrowers may do with the books.
 - **return them:** Return them is active and would make the books the returning agents while repeating them as an object.
-- **being returned:** Can takes the base form be, not being, before the passive participle.
-- **are returned:** Are cannot follow can; the required base form is be.
+- **being returned:** 'Can' takes the base form 'be', not 'being', before the passive participle.
+- **are returned:** 'Are' cannot follow 'can'; the required base form is 'be'.
 
 **Decision:** replaced.
 
@@ -860,9 +860,9 @@ The winners ___ tomorrow evening.
 **Choice feedback:**
 
 - **will announce:** Will announce makes the winners the announcers, rather than the people whose names are announced.
-- **will announcing:** Will cannot directly take announcing; this passive needs will be announced.
+- **will announcing:** 'Will' cannot directly take 'announcing'; this passive needs 'will be announced'.
 - **will be announced:** Will be announced is future passive and leaves the announcer unnamed.
-- **have announced:** Have announced describes a completed active announcement by the winners, not a future announcement about them.
+- **have announced:** 'Have announced' describes a completed active announcement by the winners, not a future announcement about them.
 
 **Decision:** replaced.
 
@@ -887,14 +887,14 @@ The wood was cut ___ a carpenter ___ a hand saw.
 3. from / by
 4. by / from
 
-**Explanation:** By a carpenter names the doer, while with a hand saw names the instrument.
+**Explanation:** 'By a carpenter' names the doer, while 'with a hand saw' names the instrument.
 
 **Choice feedback:**
 
 - **with / by:** By identifies the carpenter who acts; with identifies the tool used. This pair reverses those roles.
-- **by / with:** By a carpenter names the doer, while with a hand saw names the instrument.
-- **from / by:** From does not identify the acting carpenter, and by a hand saw does not give the requested tool phrase here.
-- **by / from:** By correctly names the carpenter, but from presents a source rather than the cutting tool.
+- **by / with:** 'By a carpenter' names the doer, while 'with a hand saw' names the instrument.
+- **from / by:** 'From' does not identify the acting carpenter, and 'by a hand saw' does not give the requested tool phrase here.
+- **by / from:** 'By' correctly names the carpenter, but 'from' presents a source rather than the cutting tool.
 
 **Decision:** replaced.
 
@@ -919,14 +919,14 @@ The paintings were donated by ___.
 3. theirs
 4. them **[Correct]**
 
-**Explanation:** Them is the object pronoun after by and identifies the people who donated the paintings.
+**Explanation:** 'Them' is the object pronoun after 'by' and identifies the people who donated the paintings.
 
 **Choice feedback:**
 
-- **they:** They is a subject pronoun; after by use them.
-- **their:** Their needs a following noun, such as their family; it cannot stand alone here.
-- **theirs:** Theirs expresses possession rather than naming the donating people in this sentence.
-- **them:** Them is the object pronoun after by and identifies the people who donated the paintings.
+- **they:** 'They' is a subject pronoun; after 'by' use 'them'.
+- **their:** 'Their' needs a following noun, such as 'their family'; it cannot stand alone here.
+- **theirs:** 'Theirs' expresses possession rather than naming the donating people in this sentence.
+- **them:** 'Them' is the object pronoun after 'by' and identifies the people who donated the paintings.
 
 **Decision:** replaced.
 
@@ -1047,12 +1047,12 @@ Phones must ___ during the performance.
 3. be switching off
 4. have switched off
 
-**Explanation:** Must be switched off is a passive obligation: users must switch off their phones.
+**Explanation:** 'Must be switched off' is a passive obligation: users must switch off their phones.
 
 **Choice feedback:**
 
-- **be switched off:** Must be switched off is a passive obligation: users must switch off their phones.
-- **switch off them:** Switch off them is an active phrase with incorrect pronoun placement and makes phones the actors.
+- **be switched off:** 'Must be switched off' is a passive obligation: users must switch off their phones.
+- **switch off them:** 'Switch off them' is an active phrase with incorrect pronoun placement and makes 'phones' the actors.
 - **be switching off:** Be switching off is active continuous; the rule concerns people switching the phones off.
 - **have switched off:** Have switched off is active perfect, not the passive instruction about what must happen to phones.
 
@@ -1116,9 +1116,9 @@ Most of the rice ___ grown near the river.
 **Choice feedback:**
 
 - **is:** Rice is treated as singular, so most of the rice is grown forms the passive correctly.
-- **are:** Rice is uncountable here and takes singular is, even after most of.
-- **have:** Have grown is active and does not agree with the uncountable subject in this statement.
-- **do:** Do cannot combine directly with grown to form this passive.
+- **are:** 'Rice' is uncountable here and takes singular 'is', even after 'most of'.
+- **have:** 'Have grown' is active and does not agree with the uncountable subject in this statement.
+- **do:** 'Do' cannot combine directly with 'grown' to form this passive.
 
 **Decision:** replaced.
 
@@ -1150,7 +1150,7 @@ The airline canceled Flight 208 because of snow.
 - **Flight 208 canceled the airline because of snow.:** This wrongly makes the flight the actor canceling the airline.
 - **Flight 208 was canceled because of snow.:** Was canceled keeps Flight 208 as the topic and preserves both the event and its stated cause.
 - **Snow was canceled by the airline on Flight 208.:** Snow is the cause, not something the airline canceled.
-- **Flight 208 was delayed because of snow.:** Delayed means postponed, which does not preserve the stronger original event canceled.
+- **Flight 208 was delayed because of snow.:** 'Delayed' means postponed, which does not preserve the stronger original event 'canceled'.
 
 **Decision:** replaced.
 
@@ -1175,14 +1175,14 @@ You can see the tool but do not know its English name.
 3. Who calls this tool?
 4. What is this tool calling?
 
-**Explanation:** What is this tool called? asks what name people use for the tool.
+**Explanation:** 'What is this tool called?' asks what name people use for the tool.
 
 **Choice feedback:**
 
 - **What does this tool call?:** This makes the tool the caller and does not ask what people name it.
-- **What is this tool called?:** What is this tool called? asks what name people use for the tool.
+- **What is this tool called?:** 'What is this tool called?' asks what name people use for the tool.
 - **Who calls this tool?:** Who asks about a caller, not about the tool's name.
-- **What is this tool calling?:** Is calling describes an active calling action, not a name.
+- **What is this tool calling?:** 'Is calling' describes an active calling action, not a name.
 
 **Decision:** replaced.
 
@@ -1239,14 +1239,14 @@ The gate will be repaired by Thursday by our caretaker.
 3. By Thursday
 4. Will be repaired
 
-**Explanation:** By our caretaker identifies the agent because it names the person carrying out the repair.
+**Explanation:** 'By our caretaker' identifies the agent because it names the person carrying out the repair.
 
 **Choice feedback:**
 
 - **The gate:** The gate is the thing repaired, not the person doing the work.
-- **By our caretaker:** By our caretaker identifies the agent because it names the person carrying out the repair.
+- **By our caretaker:** 'By our caretaker' identifies the agent because it names the person carrying out the repair.
 - **By Thursday:** By Thursday gives a deadline; by does not always introduce a person.
-- **Will be repaired:** Will be repaired is the passive action phrase; it does not identify the worker.
+- **Will be repaired:** 'Will be repaired' is the passive action phrase; it does not identify the worker.
 
 **Decision:** replaced.
 
@@ -1278,7 +1278,7 @@ The tickets ___ online yesterday; customers had to buy them at the door.
 - **didn't sell them:** Didn't sell them makes tickets the sellers and repeats them as an object.
 - **weren't selling them:** Weren't selling them is active continuous and makes the tickets act as sellers.
 - **weren't sold:** Weren't sold is a past passive negative. It denies online sales while allowing sales at the door.
-- **hasn't sold:** Hasn't sold is active, singular, and present perfect; it does not express the dated plural passive negative.
+- **hasn't sold:** "Hasn't sold" is active, singular, and present perfect; it does not express the dated plural passive negative.
 
 **Decision:** replaced.
 
@@ -1307,12 +1307,12 @@ You can't use the lift yet. It ___ by an engineer.
 3. is servicing
 4. was serviced
 
-**Explanation:** Is being serviced is present continuous passive; the engineer is working on the lift now.
+**Explanation:** 'Is being serviced' is present continuous passive; the engineer is working on the lift now.
 
 **Choice feedback:**
 
 - **has serviced:** Has serviced makes the lift the engineer's role: an active performer of servicing.
-- **is being serviced:** Is being serviced is present continuous passive; the engineer is working on the lift now.
+- **is being serviced:** 'Is being serviced' is present continuous passive; the engineer is working on the lift now.
 - **is servicing:** Is servicing is active continuous and would make the lift service something else.
 - **was serviced:** Was serviced reports past work rather than the current work that explains its unavailability.
 
@@ -1339,13 +1339,13 @@ There is no space on the tour because all twenty places ___.
 3. have been reserved **[Correct]**
 4. were reserving
 
-**Explanation:** Have been reserved is present perfect passive; completed reservations explain the lack of space now.
+**Explanation:** 'Have been reserved' is present perfect passive; completed reservations explain the lack of space now.
 
 **Choice feedback:**
 
 - **have reserved:** Have reserved is active and would make the places perform reservations.
 - **are reserving:** Are reserving also makes the places the actors and presents activity rather than completed reservations.
-- **have been reserved:** Have been reserved is present perfect passive; completed reservations explain the lack of space now.
+- **have been reserved:** 'Have been reserved' is present perfect passive; completed reservations explain the lack of space now.
 - **were reserving:** Were reserving is active past continuous, not a completed passive result.
 
 **Decision:** replaced.
@@ -1435,14 +1435,14 @@ The paint should ___ away from direct sunlight.
 3. have stored
 4. be stored **[Correct]**
 
-**Explanation:** Should be stored is a passive recommendation: someone should keep the paint in the stated conditions.
+**Explanation:** 'Should be stored' is a passive recommendation: someone should keep the paint in the stated conditions.
 
 **Choice feedback:**
 
 - **store it:** Store it is active and repeats the paint as an object while making it the storing agent.
-- **being stored:** Should requires the base form be, not being, before stored.
+- **being stored:** 'Should' requires the base form 'be', not 'being', before 'stored'.
 - **have stored:** Should have stored is active perfect and makes the paint the actor; it does not give the intended advice about what people should do with it.
-- **be stored:** Should be stored is a passive recommendation: someone should keep the paint in the stated conditions.
+- **be stored:** 'Should be stored' is a passive recommendation: someone should keep the paint in the stated conditions.
 
 **Decision:** replaced.
 
@@ -1467,13 +1467,13 @@ Travel passes ___ to the inspector on request.
 3. have to be shown **[Correct]**
 4. have to showing
 
-**Explanation:** Have to be shown expresses a requirement while making the passes the things shown to the inspector.
+**Explanation:** 'Have to be shown' expresses a requirement while making the passes the things shown to the inspector.
 
 **Choice feedback:**
 
 - **have to show:** Have to show is active and makes the passes the people showing something.
-- **has to be shown:** Has does not agree with the plural subject travel passes.
-- **have to be shown:** Have to be shown expresses a requirement while making the passes the things shown to the inspector.
+- **has to be shown:** 'Has' does not agree with the plural subject 'travel passes'.
+- **have to be shown:** 'Have to be shown' expresses a requirement while making the passes the things shown to the inspector.
 - **have to showing:** After have to, the passive uses be shown, not showing.
 
 **Decision:** replaced.
@@ -1531,11 +1531,11 @@ The supplier sent the customer a replacement battery.
 3. A replacement battery sent the customer to the supplier.
 4. A replacement battery was sending the customer.
 
-**Explanation:** When the battery is the passive subject, 'to the customer' preserves the recipient of the supplier's sending.
+**Explanation:** When 'the battery' is the passive subject, 'to the customer' preserves the recipient of the supplier's sending.
 
 **Choice feedback:**
 
-- **A replacement battery was sent to the customer.:** When the battery is the passive subject, 'to the customer' preserves the recipient of the supplier's sending.
+- **A replacement battery was sent to the customer.:** When 'the battery' is the passive subject, 'to the customer' preserves the recipient of the supplier's sending.
 - **A replacement battery was sent by the customer.:** 'By the customer' makes the customer the sender, reversing the original recipient role.
 - **A replacement battery sent the customer to the supplier.:** This makes the battery act and turns the supplier into a destination.
 - **A replacement battery was sending the customer.:** 'Was sending' is active continuous and makes the battery the sender.
@@ -1563,14 +1563,14 @@ The noise complaint will ___ next week.
 3. be looking into
 4. be looked into **[Correct]**
 
-**Explanation:** Be looked into is the passive of look into. Keep into because it is part of the investigation expression.
+**Explanation:** 'Be looked into' is the passive of 'look into'. Keep 'into' because it is part of the investigation expression.
 
 **Choice feedback:**
 
 - **be looked:** Looked needs into to retain the investigate meaning of look into.
 - **look into:** Look into is active and would make the complaint investigate something.
 - **be looking into:** Be looking into is active continuous rather than passive.
-- **be looked into:** Be looked into is the passive of look into. Keep into because it is part of the investigation expression.
+- **be looked into:** 'Be looked into' is the passive of 'look into'. Keep 'into' because it is part of the investigation expression.
 
 **Decision:** replaced.
 
@@ -1627,14 +1627,14 @@ I don't enjoy ___ while I am explaining a problem.
 3. being interrupted **[Correct]**
 4. be interrupted
 
-**Explanation:** Being interrupted is a passive -ing form; I receive the interruption from someone else.
+**Explanation:** 'Being interrupted' is a passive -ing form; 'I' receive the interruption from someone else.
 
 **Choice feedback:**
 
 - **interrupting someone:** Interrupting someone makes me the person who interrupts, reversing the intended role.
-- **having interrupted:** Having interrupted describes my earlier action as the interrupter, not an interruption I receive.
-- **being interrupted:** Being interrupted is a passive -ing form; I receive the interruption from someone else.
-- **be interrupted:** Enjoy takes an -ing form here, so the passive must be being interrupted.
+- **having interrupted:** 'Having interrupted' describes my earlier action as the interrupter, not an interruption I receive.
+- **being interrupted:** 'Being interrupted' is a passive -ing form; 'I' receive the interruption from someone else.
+- **be interrupted:** 'Enjoy' takes an -ing form here, so the passive must be 'being interrupted'.
 
 **Decision:** replaced.
 
@@ -1659,14 +1659,14 @@ After completing the training, I hope ___ to team leader.
 3. to promote
 4. being promote
 
-**Explanation:** To be promoted is a passive infinitive, placing me as the person receiving the hoped-for promotion.
+**Explanation:** 'To be promoted' is a passive infinitive, placing 'me' as the person receiving the hoped-for promotion.
 
 **Choice feedback:**
 
-- **promoting:** Hope normally takes a to-infinitive here, and promoting would make me the actor.
-- **to be promoted:** To be promoted is a passive infinitive, placing me as the person receiving the hoped-for promotion.
+- **promoting:** 'Hope' normally takes a to-infinitive here, and 'promoting' would make me the actor.
+- **to be promoted:** 'To be promoted' is a passive infinitive, placing 'me' as the person receiving the hoped-for promotion.
 - **to promote:** To promote makes me the person promoting someone else; the intended meaning is that I receive promotion.
-- **being promote:** Being promote combines being with a base form and does not fit after hope.
+- **being promote:** 'Being promote' combines 'being' with a base form and does not fit after 'hope'.
 
 **Decision:** replaced.
 
@@ -1696,7 +1696,7 @@ The instructor explained the safety rule to us.
 **Choice feedback:**
 
 - **The safety rule was explained to us.:** The rule becomes the passive subject, and to us keeps the people who received the explanation.
-- **We were explained the safety rule.:** In standard British English, explain takes the content as its direct object; make the rule the passive subject and retain to us.
+- **We were explained the safety rule.:** In standard British English, 'explain' takes the content as its direct object; make 'the rule' the passive subject and retain 'to us'.
 - **The safety rule was explained by us.:** By us makes us the explainers rather than the people receiving the explanation.
 - **We were explaining the safety rule.:** Were explaining is active continuous and makes us the instructors.
 
@@ -1729,8 +1729,8 @@ Describe the guests reaching the venue just after six.
 
 - **The guests were arrived just after six.:** In contemporary standard British English, arrive does not form an ordinary passive with were arrived in this meaning.
 - **The guests arrived just after six.:** Arrived is active and intransitive: the guests reach the venue without receiving an action from a separate agent.
-- **The guests were arrive just after six.:** Were cannot directly combine with the base form arrive in this statement.
-- **The guests did arrived just after six.:** Did requires the base form arrive, not arrived.
+- **The guests were arrive just after six.:** 'Were' cannot directly combine with the base form 'arrive' in this statement.
+- **The guests did arrived just after six.:** 'Did' requires the base form 'arrive', not 'arrived'.
 
 **Decision:** replaced.
 
@@ -1787,14 +1787,14 @@ I paid a tailor to shorten these trousers.
 3. I had these trousers to shorten.
 4. I had these trousers shortened. **[Correct]**
 
-**Explanation:** Had these trousers shortened uses have plus object plus participle to describe arranging work by someone else.
+**Explanation:** 'Had these trousers shortened' uses 'have' plus object plus participle to describe arranging work by someone else.
 
 **Choice feedback:**
 
 - **I shortened these trousers myself.:** Myself says I performed the alteration, contrary to the tailor doing it.
 - **I had shortened these trousers before paying.:** Had shortened is active past perfect and makes me the person who completed the shortening.
 - **I had these trousers to shorten.:** Had these trousers to shorten gives me a task to perform, not an alteration performed for me.
-- **I had these trousers shortened.:** Had these trousers shortened uses have plus object plus participle to describe arranging work by someone else.
+- **I had these trousers shortened.:** 'Had these trousers shortened' uses 'have' plus object plus participle to describe arranging work by someone else.
 
 **Decision:** replaced.
 
@@ -1857,7 +1857,7 @@ At the airport desk, ask about your suitcase.
 
 - **Has the suitcase been weighing?:** Been weighing forms an active progressive and does not place the suitcase as the thing weighed.
 - **Has the suitcase being weighed?:** After has, the passive perfect requires been, not being.
-- **Have the suitcase been weighed?:** The singular suitcase requires has, not have.
+- **Have the suitcase been weighed?:** The singular 'suitcase' requires 'has', not 'have'.
 - **Has the suitcase been weighed?:** Has ... been weighed is present perfect passive and asks whether the weighing has occurred.
 
 **Decision:** replaced.
@@ -1883,13 +1883,13 @@ The footpath was blocked by fallen branches after the storm.
 3. Fallen branches caused the blockage; no person's action is stated. **[Correct]**
 4. The storm was blocked by the footpath.
 
-**Explanation:** A passive by phrase can identify a nonhuman cause. The sentence does not establish a person acting deliberately.
+**Explanation:** A passive 'by' phrase can identify a nonhuman cause. The sentence does not establish a person acting deliberately.
 
 **Choice feedback:**
 
-- **A person deliberately used the branches to block the path.:** The by phrase names a cause, but it does not state deliberate action by a person.
+- **A person deliberately used the branches to block the path.:** The 'by' phrase names a cause, but it does not state deliberate action by a person.
 - **The footpath caused the branches to fall.:** This reverses the relation: the branches block the path, not the path causing their fall.
-- **Fallen branches caused the blockage; no person's action is stated.:** A passive by phrase can identify a nonhuman cause. The sentence does not establish a person acting deliberately.
+- **Fallen branches caused the blockage; no person's action is stated.:** A passive 'by' phrase can identify a nonhuman cause. The sentence does not establish a person acting deliberately.
 - **The storm was blocked by the footpath.:** The storm supplies the setting, not the thing blocked in the passive sentence.
 
 **Decision:** replaced.
@@ -2015,14 +2015,14 @@ The temporary seating collapsed during rehearsal. It ___ before anyone used it.
 3. should have inspected
 4. should have been inspected **[Correct]**
 
-**Explanation:** Should have been inspected says the seating ought to have received inspection before use; the criticism concerns an earlier unmet obligation.
+**Explanation:** 'Should have been inspected' says the seating ought to have received inspection before use; the criticism concerns an earlier unmet obligation.
 
 **Choice feedback:**
 
 - **should inspect:** Should inspect makes the seating the inspector and gives a current recommendation rather than a missed earlier obligation.
 - **should be inspecting:** Should be inspecting is active progressive and makes the seating the inspecting agent.
 - **should have inspected:** Should have inspected is active perfect and assigns the inspection to the seating rather than to people checking it.
-- **should have been inspected:** Should have been inspected says the seating ought to have received inspection before use; the criticism concerns an earlier unmet obligation.
+- **should have been inspected:** 'Should have been inspected' says the seating ought to have received inspection before use; the criticism concerns an earlier unmet obligation.
 
 **Decision:** replaced.
 
@@ -2079,12 +2079,12 @@ Temporary access codes are confidential. Staff are prohibited from including the
 3. The codes may be included in public notices.
 4. The codes should have been included in public notices.
 
-**Explanation:** Must not be included expresses the prohibition while keeping the confidential codes as the topic.
+**Explanation:** 'Must not be included' expresses the prohibition while keeping the confidential codes as the topic.
 
 **Choice feedback:**
 
 - **The codes need not be included in public notices.:** Need not removes an obligation but does not prohibit inclusion.
-- **The codes must not be included in public notices.:** Must not be included expresses the prohibition while keeping the confidential codes as the topic.
+- **The codes must not be included in public notices.:** 'Must not be included' expresses the prohibition while keeping the confidential codes as the topic.
 - **The codes may be included in public notices.:** May be included gives permission, contrary to the rule.
 - **The codes should have been included in public notices.:** Should have been included recommends an earlier action rather than forbidding disclosure.
 
@@ -2148,7 +2148,7 @@ People say that the mineral spring is unusually warm.
 **Choice feedback:**
 
 - **It is said the mineral spring to be unusually warm.:** This mixes the impersonal it construction with the infinitive pattern; use it is said that plus a finite clause.
-- **The mineral spring is said that it is unusually warm.:** With the spring as subject, use is said to be; the impersonal that-clause pattern instead begins it is said.
+- **The mineral spring is said that it is unusually warm.:** With the spring as subject, use 'is said to be'; the impersonal that-clause pattern instead begins 'it is said'.
 - **It is said that the mineral spring is unusually warm.:** It is said that provides an impersonal reporting passive while retaining the original claim about the spring.
 - **It says that the mineral spring is unusually warm.:** It says is active and would require it to refer to a source, such as a guidebook; it is not the requested impersonal passive.
 
@@ -2182,7 +2182,7 @@ The newspaper currently reports an unverified belief that someone stole the meda
 - **Someone is believed to have stolen the medal.:** This reports the same kind of earlier event but makes someone, not the medal, the grammatical subject.
 - **The medal is believed to be stolen.:** To be stolen can describe an expected event or a supposed current state; it does not explicitly mark the theft as earlier than the current belief.
 - **The medal is believed to have been stolen.:** Is believed gives the current reporting frame, and to have been stolen explicitly places the medal's theft before that belief.
-- **The medal was believed to have been stolen.:** Was believed locates the reporting belief in the past rather than the current belief requested.
+- **The medal was believed to have been stolen.:** 'Was believed' locates the reporting belief in the past rather than the current belief requested.
 
 **Decision:** replaced.
 
@@ -2244,8 +2244,8 @@ The account must identify a guard performing the locking.
 **Choice feedback:**
 
 - **The storeroom was locked by the guard at midnight.:** By the guard identifies an agent and at midnight locates the locking event, giving the requested action reading.
-- **The storeroom remained locked overnight.:** Remained locked describes a continuing state without reporting the guard's action.
-- **The storeroom was still locked at dawn.:** Still locked describes the state at dawn, not who performed the locking.
+- **The storeroom remained locked overnight.:** 'Remained locked' describes a continuing state without reporting the guard's action.
+- **The storeroom was still locked at dawn.:** 'Still locked' describes the state at dawn, not who performed the locking.
 - **The storeroom seemed securely locked.:** Seemed securely locked reports an apparent state rather than a locking event by a guard.
 
 **Decision:** replaced.
@@ -2367,12 +2367,12 @@ Goods manufactured locally usually arrive within two days.
 3. Goods that are manufacturing locally
 4. Goods that have manufactured locally
 
-**Explanation:** Manufactured locally is a reduced passive relative clause meaning goods that are manufactured locally.
+**Explanation:** 'Manufactured locally' is a reduced passive relative clause meaning 'goods that are manufactured locally'.
 
 **Choice feedback:**
 
 - **Goods that manufacture local products:** This makes the goods manufacture other products and changes the description.
-- **Goods that are manufactured locally:** Manufactured locally is a reduced passive relative clause meaning goods that are manufactured locally.
+- **Goods that are manufactured locally:** 'Manufactured locally' is a reduced passive relative clause meaning 'goods that are manufactured locally'.
 - **Goods that are manufacturing locally:** Are manufacturing is active progressive and gives goods the role of manufacturers.
 - **Goods that have manufactured locally:** Have manufactured is active perfect, again making goods the producers rather than their products.
 
@@ -2467,7 +2467,7 @@ During the storm, our neighbors had their fence damaged by falling debris.
 
 **Choice feedback:**
 
-- **The neighbors arranged for workers to damage the fence.:** Have an object damaged can describe an unwanted experience; this storm context does not support a commissioned service.
+- **The neighbors arranged for workers to damage the fence.:** 'Have an object damaged' can describe an unwanted experience; this storm context does not support a commissioned service.
 - **The neighbors experienced damage to their fence.:** Had their fence damaged presents an event affecting their property, with falling debris as the stated cause.
 - **The neighbors damaged someone else's fence.:** The fence belongs to the neighbors, and they are not identified as the damaging agents.
 - **The neighbors finished repairing the fence before the storm.:** The clause concerns damage during the storm, not a completed earlier repair.
@@ -2495,14 +2495,14 @@ An officer saw the visitor enter the courtyard.
 3. The visitor was seeing the officer enter the courtyard.
 4. The visitor was seen to enter the courtyard. **[Correct]**
 
-**Explanation:** Was seen to enter preserves the visitor as the observed person; the passive restores to before the infinitive.
+**Explanation:** 'Was seen to enter' preserves the visitor as the observed person; the passive restores 'to' before the infinitive.
 
 **Choice feedback:**
 
 - **The visitor was seen enter the courtyard.:** The passive counterpart of saw the visitor enter uses to enter in standard English.
-- **The visitor was seen to entering the courtyard.:** After to here, use the base form enter, not entering.
+- **The visitor was seen to entering the courtyard.:** After 'to' here, use the base form 'enter', not 'entering'.
 - **The visitor was seeing the officer enter the courtyard.:** This makes the visitor the observer and the officer the person entering, reversing the original roles.
-- **The visitor was seen to enter the courtyard.:** Was seen to enter preserves the visitor as the observed person; the passive restores to before the infinitive.
+- **The visitor was seen to enter the courtyard.:** 'Was seen to enter' preserves the visitor as the observed person; the passive restores 'to' before the infinitive.
 
 **Decision:** replaced.
 
@@ -2696,7 +2696,7 @@ When the observatory reopened, the dome was thought to have been reinforced.
 **Choice feedback:**
 
 - **People then believed earlier reinforcement had occurred; the sentence does not verify it.:** Was thought anchors the belief at the past reopening, while to have been reinforced places the supposed work earlier without verifying it.
-- **People now believe reinforcement had occurred before an earlier, unspecified belief.:** The finite was thought locates the belief in the past; it does not report a belief held now.
+- **People now believe reinforcement had occurred before an earlier, unspecified belief.:** The finite 'was thought' locates the belief in the past; it does not report a belief held now.
 - **The sentence verifies earlier reinforcement but attributes its purpose to the reopening.:** The content of thought is the supposed reinforcement itself, not just its purpose.
 - **People then considered earlier reinforcement necessary; the sentence leaves its occurrence open.:** Thought to have been reinforced reports a belief about occurrence, not a judgment that reinforcement was necessary.
 
@@ -2755,14 +2755,14 @@ The pumps need inspecting, and the engineers insist on inspecting them personall
 3. Both -ing forms make their preceding subjects the receivers of inspection.
 4. The first clause describes inspection already completed; the second describes inspection still required.
 
-**Explanation:** Need inspecting means need to be inspected, whereas the active complement of insist assigns the inspecting to the engineers.
+**Explanation:** 'Need inspecting' means 'need to be inspected', whereas the active complement of 'insist' assigns the inspecting to the engineers.
 
 **Choice feedback:**
 
 - **The pumps perform the first inspection, and the engineers perform the second.:** Need inspecting has a passive meaning here: the pumps need someone to inspect them.
-- **The pumps are to receive inspection, and the engineers intend to perform it.:** Need inspecting means need to be inspected, whereas the active complement of insist assigns the inspecting to the engineers.
+- **The pumps are to receive inspection, and the engineers intend to perform it.:** 'Need inspecting' means 'need to be inspected', whereas the active complement of 'insist' assigns the inspecting to the engineers.
 - **Both -ing forms make their preceding subjects the receivers of inspection.:** After insist on, inspecting is active and the engineers are its understood actors.
-- **The first clause describes inspection already completed; the second describes inspection still required.:** Need expresses a requirement, not a completed inspection; neither -ing ending alone determines completion.
+- **The first clause describes inspection already completed; the second describes inspection still required.:** 'Need' expresses a requirement, not a completed inspection; neither '-ing' ending alone determines completion.
 
 **Decision:** replaced.
 
@@ -2879,7 +2879,7 @@ Choose the comparison appropriate to a context in which a family hired roofers.
 A: 'We had our roof repaired.' B: 'We had repaired our roof.'
 
 1. A and B both identify the family as the people who physically carried out the repairs.
-2. A describes arranging a service; B makes we the repairers in an active past-perfect clause. **[Correct]**
+2. A describes arranging a service; B makes 'we' the repairers in an active past-perfect clause. **[Correct]**
 3. A reports an earlier completed repair by the family, while B reports hiring roofers.
 4. A is past perfect, while B is an ordinary past passive.
 
@@ -2888,9 +2888,9 @@ A: 'We had our roof repaired.' B: 'We had repaired our roof.'
 **Choice feedback:**
 
 - **A and B both identify the family as the people who physically carried out the repairs.:** In the supplied hiring context, A presents the family as arranging the service, not physically carrying out the repair.
-- **A describes arranging a service; B makes we the repairers in an active past-perfect clause.:** The position of our roof distinguishes the service construction from the active perfect; the given context selects the arranged-service reading for A.
+- **A describes arranging a service; B makes 'we' the repairers in an active past-perfect clause.:** The position of our roof distinguishes the service construction from the active perfect; the given context selects the arranged-service reading for A.
 - **A reports an earlier completed repair by the family, while B reports hiring roofers.:** This reverses the causative-service reading of A and the active perfect structure of B.
-- **A is past perfect, while B is an ordinary past passive.:** A has causative had plus object plus participle; B has the perfect auxiliary had immediately before repaired.
+- **A is past perfect, while B is an ordinary past passive.:** A has causative 'had' plus object plus participle; B has the perfect auxiliary 'had' immediately before 'repaired'.
 
 **Decision:** replaced.
 
@@ -2947,14 +2947,14 @@ A: 'The route was considered safe.' B: 'The route was considered to be safe.'
 3. To be makes B an instruction to make the route safe rather than an assessment.
 4. Both report an assessment of safety, without independently verifying safety. **[Correct]**
 
-**Explanation:** Both complements are available after was considered here. Neither construction by itself makes the reported judgment an independently established fact.
+**Explanation:** Both complements are available after 'was considered' here. Neither construction by itself makes the reported judgment an independently established fact.
 
 **Choice feedback:**
 
 - **A states proven safety; B reports only an assessment.:** Omitting to be does not turn considered into an assertion of proven safety.
 - **A describes past safety; B predicts safety after the assessment.:** To be need not place safety later; both can describe the assessment of a state at the same time.
 - **To be makes B an instruction to make the route safe rather than an assessment.:** To be is part of the complement describing the assessed state, not an instruction to change the route.
-- **Both report an assessment of safety, without independently verifying safety.:** Both complements are available after was considered here. Neither construction by itself makes the reported judgment an independently established fact.
+- **Both report an assessment of safety, without independently verifying safety.:** Both complements are available after 'was considered' here. Neither construction by itself makes the reported judgment an independently established fact.
 
 **Decision:** replaced.
 
@@ -3006,8 +3006,8 @@ Choose the analysis explaining why this passive is possible without treating all
 
 No agreement was arrived at during mediation.
 
-1. The preposition at is an optional location phrase, so agreement is a direct object promoted to subject.
-2. The unit arrive at means reach a conclusion; agreement is promoted from its prepositional complement. **[Correct]**
+1. The preposition 'at' is an optional location phrase, so 'agreement' is a direct object promoted to subject.
+2. The unit 'arrive at' means reach a conclusion; 'agreement' is promoted from its prepositional complement. **[Correct]**
 3. The passive construction adds an agreement as an object to the otherwise unchanged physical-arrival sense.
 4. The preposition supplies the omitted agent, so no agreement identifies the people who failed to arrive.
 
@@ -3015,8 +3015,8 @@ No agreement was arrived at during mediation.
 
 **Choice feedback:**
 
-- **The preposition at is an optional location phrase, so agreement is a direct object promoted to subject.:** 'At' is part of the figurative 'arrive at' construction here, not an optional location phrase after a direct object.
-- **The unit arrive at means reach a conclusion; agreement is promoted from its prepositional complement.:** The figurative prepositional construction licenses 'agreement' as a passive subject. This does not make ordinary intransitive physical 'arrive' generally passivizable.
+- **The preposition 'at' is an optional location phrase, so 'agreement' is a direct object promoted to subject.:** 'At' is part of the figurative 'arrive at' construction here, not an optional location phrase after a direct object.
+- **The unit 'arrive at' means reach a conclusion; 'agreement' is promoted from its prepositional complement.:** The figurative prepositional construction licenses 'agreement' as a passive subject. This does not make ordinary intransitive physical 'arrive' generally passivizable.
 - **The passive construction adds an agreement as an object to the otherwise unchanged physical-arrival sense.:** The acceptability depends on the figurative prepositional construction, not on passivization creating a direct object for physical 'arrive'.
 - **The preposition supplies the omitted agent, so no agreement identifies the people who failed to arrive.:** 'At' does not introduce an agent here; agreement identifies the outcome that was not reached.
 
@@ -3367,14 +3367,14 @@ The analyst reasons from the valid access token: 'The transfer ___ before it cou
 3. was confirmed to have been authorized
 4. was to have been authorized
 
-**Explanation:** Must have been authorized expresses a strong inference about an earlier passive event, supported here by the token evidence.
+**Explanation:** 'Must have been authorized' expresses a strong inference about an earlier passive event, supported here by the token evidence.
 
 **Choice feedback:**
 
-- **must have been authorized:** Must have been authorized expresses a strong inference about an earlier passive event, supported here by the token evidence.
+- **must have been authorized:** 'Must have been authorized' expresses a strong inference about an earlier passive event, supported here by the token evidence.
 - **had to be authorized under the procedure:** Had to be authorized under the procedure states a procedural necessity, not the analyst's present inference from the token.
 - **was confirmed to have been authorized:** Was confirmed reports verification, which is stronger than the stated reasoning from indirect evidence.
-- **was to have been authorized:** Was to have been authorized describes a prior arrangement or expectation and does not itself express the analyst's deduction.
+- **was to have been authorized:** 'Was to have been authorized' describes a prior arrangement or expectation and does not itself express the analyst's deduction.
 
 **Decision:** replaced.
 
@@ -3437,7 +3437,7 @@ A: 'The curator is easy to deceive.' B: 'The curator is eager to be deceived.'
 
 - **The curator receives deception in A but performs it in B because eager expresses intention.:** Eagerness does not make the curator the deceiver in B: to be deceived is passive.
 - **The curator is the potential object of deception in both; only B attributes eagerness to the curator.:** A links the curator to the missing object of active deceive; B makes the curator the subject of a passive infinitive and attributes eagerness.
-- **Both infinitives are grammatically passive, and both attribute a wish for deception to the curator.:** To deceive in A is active in form with an understood object linked to the curator; easy expresses ease, not a wish.
+- **Both infinitives are grammatically passive, and both attribute a wish for deception to the curator.:** 'To deceive' in A is active in form with an understood object linked to the curator; 'easy' expresses ease, not a wish.
 - **A describes the curator's skill at deception; B describes other people's willingness to deceive the curator.:** A evaluates how easily someone could deceive the curator, while B attributes eagerness to the curator, not to other people.
 
 **Decision:** replaced.
@@ -3469,7 +3469,7 @@ The volunteer got excluded from the planning group despite trying to remain invo
 
 - **Using got makes the volunteer's attempt to remain involved inconsistent with the exclusion.:** An unwanted outcome is compatible with the get-passive, so despite introduces a coherent contrast.
 - **The get-passive says the volunteer brought about exclusion, even if that result was unwanted.:** The construction can occur where the subject bears responsibility, but it does not encode that responsibility as a requirement.
-- **The get-passive makes the exclusion accidental, regardless of the planners' intentions.:** Got does not determine whether the excluding group acted deliberately or accidentally.
+- **The get-passive makes the exclusion accidental, regardless of the planners' intentions.:** 'Got' does not determine whether the excluding group acted deliberately or accidentally.
 - **Exclusion affected the volunteer; the sentence does not assign responsibility for causing it to the volunteer.:** Got excluded presents the volunteer as affected by the event; it does not entail self-causation or willingness.
 
 **Decision:** replaced.

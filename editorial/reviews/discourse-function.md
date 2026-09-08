@@ -1753,7 +1753,7 @@ What role does the last sentence play?
 1. It gives the reason the designers are available.
 2. It introduces another person's availability.
 3. It draws a scheduling conclusion from the stated availability. **[Correct]**
-4. It defines what Thursday means in the schedule.
+4. It defines what 'Thursday' means in the schedule.
 
 **Explanation:** 'Therefore' presents Thursday's suitability as the conclusion supported by the earlier availability facts.
 
@@ -1762,7 +1762,7 @@ What role does the last sentence play?
 - **It gives the reason the designers are available.:** The conclusion uses their availability; it does not explain what caused it.
 - **It introduces another person's availability.:** No new participant or availability detail is added.
 - **It draws a scheduling conclusion from the stated availability.:** 'Therefore' presents Thursday's suitability as the conclusion supported by the earlier availability facts.
-- **It defines what Thursday means in the schedule.:** The sentence evaluates the day rather than defining a term.
+- **It defines what 'Thursday' means in the schedule.:** The sentence evaluates the day rather than defining a term.
 
 **Decision:** replaced.
 
@@ -2751,7 +2751,7 @@ A news analysis quotes the developer: 'The project will benefit the whole distri
 What does the footbridge detail do immediately after the quotation?
 
 1. It places the developer's broad claim under scrutiny. **[Correct]**
-2. It supplies a definition of what the developer means by project.
+2. It supplies a definition of what the developer means by 'project'.
 3. It endorses the developer's district-wide benefit claim.
 4. It explains why the developer chose to give a quotation.
 
@@ -2760,7 +2760,7 @@ What does the footbridge detail do immediately after the quotation?
 **Choice feedback:**
 
 - **It places the developer's broad claim under scrutiny.:** The specific service area gives readers a concrete reason to question how well the quoted claim describes the project's reach.
-- **It supplies a definition of what the developer means by project.:** The detail identifies a limitation in the claimed reach, not a definition of project.
+- **It supplies a definition of what the developer means by 'project'.:** The detail identifies a limitation in the claimed reach, not a definition of project.
 - **It endorses the developer's district-wide benefit claim.:** Serving only the western side complicates rather than supports the claim of district-wide benefit.
 - **It explains why the developer chose to give a quotation.:** The writer supplies project information, not the developer's motivation for speaking.
 
@@ -3294,7 +3294,7 @@ What distinction structures the two sentences?
 
 ID: `coverage-discourse-function-c2-1303`
 
-A researcher writes, 'Granted, the participants were unusually experienced. Nevertheless, their accounts identify questions worth putting to newcomers; they do not supply newcomers' answers.'
+A researcher writes, "Granted, the participants were unusually experienced. Nevertheless, their accounts identify questions worth putting to newcomers; they do not supply newcomers' answers."
 
 How does the passage respond to the limitation?
 

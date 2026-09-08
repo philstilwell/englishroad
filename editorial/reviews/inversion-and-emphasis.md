@@ -121,7 +121,7 @@ Ask about the location of the toilets.
 
 - **do:** There is no action verb for 'do' to help here.
 - **is:** 'Toilets' is plural, so 'is' does not agree.
-- **does:** 'Does' neither supplies the required be verb nor agrees with the plural subject.
+- **does:** 'Does' neither supplies the required 'be' verb nor agrees with the plural subject.
 - **are:** The location question uses 'where + are + the toilets'.
 
 **Decision:** replaced.
@@ -279,7 +279,7 @@ Ask about yesterday's meeting.
 
 **Choice feedback:**
 
-- **Did:** 'Useful' needs a be verb; 'did' cannot link it to the meeting.
+- **Did:** 'Useful' needs a 'be' verb; 'did' cannot link it to the meeting.
 - **Was:** Yesterday places the question in the past: 'Was the meeting useful?'.
 - **Were:** The singular subject 'the meeting' takes 'was'.
 - **Does:** 'Does' needs a main verb and does not express past time here.
@@ -472,7 +472,7 @@ A visitor asks, 'Are your colleagues here?' Complete the usual short yes-answer.
 **Choice feedback:**
 
 - **do:** The question uses 'are', so 'do' does not repeat its meaning in the short answer.
-- **have:** The question is not a have-question; keep its be verb in the reply.
+- **have:** The question does not use 'have'; keep its 'be' verb in the reply.
 - **is:** The plural subject 'they' takes 'are', not 'is'.
 - **are:** The short answer repeats 'are' after 'they'; there is no need to repeat 'here'.
 
@@ -627,11 +627,11 @@ Which question checks availability using ordinary question word order?
 3. Where is the cash machine?
 4. There is a cash machine near here?
 
-**Explanation:** This asks whether a machine exists nearby, with the be verb first.
+**Explanation:** This asks whether a machine exists nearby, with the 'be' verb first.
 
 **Choice feedback:**
 
-- **Is there a cash machine near here?:** This asks whether a machine exists nearby, with the be verb first.
+- **Is there a cash machine near here?:** This asks whether a machine exists nearby, with the 'be' verb first.
 - **Does a cash machine near here?:** 'Does' needs a main verb; it cannot form this question about availability by itself.
 - **Where is the cash machine?:** This asks for the location of a machine assumed to exist, rather than first checking whether one is available.
 - **There is a cash machine near here?:** This uses statement order to check an expectation, not the requested neutral question order.
@@ -861,7 +861,7 @@ Which reply adds your own matching experience?
 
 - **So am I.:** Inverted 'so am I' adds a second person with the same state.
 - **So I am.:** This confirms something about yourself; it does not mean 'I am too' in this exchange.
-- **So does she.:** This neither uses the matching be verb nor adds your experience.
+- **So does she.:** This neither uses the matching 'be' verb nor adds your experience.
 - **So is she.:** This adds another woman, not you.
 
 **Decision:** revised.
@@ -1147,7 +1147,7 @@ Your friend thinks you do not want to join the class. You stress 'do' in your re
 
 **Choice feedback:**
 
-- **wants:** With emphatic 'do', the main verb has no -s ending.
+- **wants:** With emphatic 'do', the main verb has no '-s' ending.
 - **want:** 'Do want' corrects the friend's assumption while the next sentence explains your hesitation.
 - **wanting:** Use a base verb after 'do', not an -ing form.
 - **wanted:** Past 'wanted' does not follow present emphatic 'do'.
@@ -2625,7 +2625,7 @@ Why does only sentence 2 use auxiliary inversion?
 1. Sentence 1 lacks an auxiliary because two subjects cannot share one.
 2. In 1, not only is inside the subject; in 2, it introduces a negative-focused clause. **[Correct]**
 3. Sentence 2 uses inversion because reporting happens later than cost reduction.
-4. Sentence 1 is incorrect because every initial not only requires inversion.
+4. Sentence 1 is incorrect because every initial 'not only' requires inversion.
 
 **Explanation:** A not-only subject phrase keeps ordinary order, while fronted clausal not only triggers auxiliary inversion.
 
@@ -2634,7 +2634,7 @@ Why does only sentence 2 use auxiliary inversion?
 - **Sentence 1 lacks an auxiliary because two subjects cannot share one.:** A coordinated subject can share an auxiliary; subject structure, not a ban on shared auxiliaries, explains this order.
 - **In 1, not only is inside the subject; in 2, it introduces a negative-focused clause.:** A not-only subject phrase keeps ordinary order, while fronted clausal not only triggers auxiliary inversion.
 - **Sentence 2 uses inversion because reporting happens later than cost reduction.:** The structure does not establish that chronology; inversion follows the fronted expression.
-- **Sentence 1 is incorrect because every initial not only requires inversion.:** Initial position alone is insufficient: not only can be part of the subject, as in 1.
+- **Sentence 1 is incorrect because every initial 'not only' requires inversion.:** Initial position alone is insufficient: 'not only' can be part of the subject, as in 1.
 
 **Decision:** replaced.
 
@@ -2974,7 +2974,7 @@ Compare 'Little of the archive survived' and 'Little did the reviewers know abou
 
 Which explanation correctly accounts for the different word orders?
 
-1. The first sentence is wrong because every fronted little requires did.
+1. The first sentence is wrong because every fronted 'little' requires 'did'.
 2. Little is part of the subject in 1 but a negative adverbial in 2. **[Correct]**
 3. The second sentence is a direct question because did precedes reviewers.
 4. The difference is that survived is past but know is present.
@@ -2983,7 +2983,7 @@ Which explanation correctly accounts for the different word orders?
 
 **Choice feedback:**
 
-- **The first sentence is wrong because every fronted little requires did.:** 'Little of the archive' is a complete subject and does not require inversion.
+- **The first sentence is wrong because every fronted 'little' requires 'did'.:** 'Little of the archive' is a complete subject and does not require inversion.
 - **Little is part of the subject in 1 but a negative adverbial in 2.:** A negative-quantity subject keeps ordinary order, whereas fronted negative 'little' as an adverbial calls for auxiliary inversion.
 - **The second sentence is a direct question because did precedes reviewers.:** Fronted negative expressions can produce inversion in declarative statements as well as questions.
 - **The difference is that survived is past but know is present.:** The second sentence is also past; 'did' carries its tense.
@@ -3463,11 +3463,11 @@ Which editorial judgment is accurate about these temporal constructions?
 3. Both are grammatical, but 2 necessarily puts reintroduction before expiry.
 4. Only 2 is grammatical because when cannot introduce a later event.
 
-**Explanation:** Both when and before can link the second event to an earlier event that has only just occurred.
+**Explanation:** Both 'when' and 'before' can link the second event to an earlier event that has only just occurred.
 
 **Choice feedback:**
 
-- **Both describe reintroduction almost immediately after expiry.:** Both when and before can link the second event to an earlier event that has only just occurred.
+- **Both describe reintroduction almost immediately after expiry.:** Both 'when' and 'before' can link the second event to an earlier event that has only just occurred.
 - **Only 1 is grammatical because hardly must be followed by when, never before.:** 'Before' is also used with this hardly construction; the when pairing is not exclusive.
 - **Both are grammatical, but 2 necessarily puts reintroduction before expiry.:** Here 'hardly ... before' describes barely any time passing after expiry before the next event.
 - **Only 2 is grammatical because when cannot introduce a later event.:** 'When' can introduce the closely following event in this construction.

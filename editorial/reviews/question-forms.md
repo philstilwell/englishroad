@@ -23,10 +23,10 @@ You need to find a cash machine.
 
 **Choice feedback:**
 
-- **Where the cash machine is?:** In the usual direct where-question, is goes before the subject: where is the cash machine?
-- **Where does the cash machine is?:** Do not add does to a question whose main verb is is.
+- **Where the cash machine is?:** In the usual direct where-question, 'is' goes before the subject: 'where is the cash machine?'
+- **Where does the cash machine is?:** Do not add 'does' to a question whose main verb is 'is'.
 - **Where is the cash machine?:** Put where first and is before the cash machine to ask for its location.
-- **Where are the cash machine?:** The singular cash machine takes is, not are.
+- **Where are the cash machine?:** The singular 'cash machine' takes 'is', not 'are'.
 
 **Decision:** replaced.
 
@@ -56,9 +56,9 @@ ___ you ready to leave?
 **Choice feedback:**
 
 - **Are:** Are goes before you in the question Are you ready to leave?
-- **Is:** You takes are, not is, with the adjective ready.
-- **Do:** Do cannot connect you directly to the adjective ready; this question needs be.
-- **Does:** Does does not agree with you and cannot introduce the adjective ready directly.
+- **Is:** 'You' takes 'are', not 'is', with the adjective 'ready'.
+- **Do:** 'Do' cannot connect 'you' directly to the adjective 'ready'; this question needs 'be'.
+- **Does:** 'Does' does not agree with 'you' and cannot introduce the adjective 'ready' directly.
 
 **Decision:** replaced.
 
@@ -83,13 +83,13 @@ ___ you work on Saturdays?
 3. Does
 4. Is
 
-**Explanation:** Use do before you and the base verb work to ask about a regular schedule.
+**Explanation:** Use 'do' before 'you' and the base verb 'work' to ask about a regular schedule.
 
 **Choice feedback:**
 
 - **Are:** Are would require a different complement, such as working, not the base verb work here.
-- **Do:** Use do before you and the base verb work to ask about a regular schedule.
-- **Does:** Does is for a third-person singular subject, not you.
+- **Do:** Use 'do' before 'you' and the base verb 'work' to ask about a regular schedule.
+- **Does:** 'Does' is for a third-person singular subject, not 'you'.
 - **Is:** Is neither agrees with you nor forms this simple-present work question.
 
 **Decision:** replaced.
@@ -115,14 +115,14 @@ ___ this button open the window?
 3. Is
 4. Are
 
-**Explanation:** The singular subject this button takes does; open stays in its base form.
+**Explanation:** The singular subject 'this button' takes 'does'; 'open' stays in its base form.
 
 **Choice feedback:**
 
-- **Do:** Do would be used with a plural subject such as these buttons, not this button.
-- **Does:** The singular subject this button takes does; open stays in its base form.
-- **Is:** Is cannot introduce the base action verb open followed by its object in this question.
-- **Are:** Are does not agree with this button and cannot be followed by open the window here.
+- **Do:** 'Do' would be used with a plural subject such as 'these buttons', not 'this button'.
+- **Does:** The singular subject 'this button' takes 'does'; 'open' stays in its base form.
+- **Is:** 'Is' cannot introduce the base action verb 'open' followed by its object in this question.
+- **Are:** 'Are' does not agree with 'this button' and cannot be followed by 'open the window' here.
 
 **Decision:** replaced.
 
@@ -147,14 +147,14 @@ Where ___ my gloves?
 3. does
 4. be
 
-**Explanation:** Use are with the plural subject my gloves when asking where they are.
+**Explanation:** Use 'are' with the plural subject 'my gloves' when asking where they are.
 
 **Choice feedback:**
 
-- **are:** Use are with the plural subject my gloves when asking where they are.
-- **is:** Gloves is plural, so the question needs are rather than is.
-- **does:** Does cannot replace be in this location question and would also be singular.
-- **be:** The base form be cannot serve as the finite verb of this ordinary present question.
+- **are:** Use 'are' with the plural subject 'my gloves' when asking where they are.
+- **is:** 'Gloves' is plural, so the question needs 'are' rather than 'is'.
+- **does:** 'Does' cannot replace 'be' in this location question and would also be singular.
+- **be:** The base form 'be' cannot serve as the finite verb of this ordinary present question.
 
 **Decision:** replaced.
 
@@ -249,7 +249,7 @@ Complete the question so that the reply answers it.
 
 - **When:** When would ask for the time of the closure, not its cause.
 - **Where:** Where would ask for a place; the reply explains why the cafe is closed.
-- **Who:** Who asks for a person, but the question's subject is already the cafe.
+- **Who:** 'Who' asks for a person, but the question's subject is already 'the cafe'.
 - **Why:** Why asks for a reason, and the because-clause explains the closure.
 
 **Decision:** replaced.
@@ -275,11 +275,11 @@ Your neighbor replies, 'I go to the harbor on foot.'
 3. When do you go to the harbor?
 4. Who goes to the harbor with you?
 
-**Explanation:** How do you get there asks about the means of travel, which on foot supplies.
+**Explanation:** 'How do you get there' asks about the means of travel, which 'on foot' supplies.
 
 **Choice feedback:**
 
-- **How do you get to the harbor?:** How do you get there asks about the means of travel, which on foot supplies.
+- **How do you get to the harbor?:** 'How do you get there' asks about the means of travel, which 'on foot' supplies.
 - **Why do you go to the harbor?:** Why asks about the purpose or reason for the trip, not the means of travel.
 - **When do you go to the harbor?:** When asks for a time, but on foot describes a way of traveling.
 - **Who goes to the harbor with you?:** Who ... with you asks about a companion rather than transport.
@@ -311,7 +311,7 @@ ___ umbrella is yours, the red one or the black one?
 
 **Choice feedback:**
 
-- **Who:** Who asks about a person and does not determine the noun umbrella here.
+- **Who:** 'Who' asks about a person and does not determine the noun 'umbrella' here.
 - **When:** When asks for time, not a selection between objects.
 - **Which:** Which before umbrella asks you to identify one from the alternatives named.
 - **Where:** Where asks about location, not which of the two umbrellas belongs to you.
@@ -371,12 +371,12 @@ How ___ chairs do we need for the guests?
 3. long
 4. often
 
-**Explanation:** Chairs is a plural count noun, so how many asks for their number.
+**Explanation:** 'Chairs' is a plural count noun, so 'how many' asks for their number.
 
 **Choice feedback:**
 
-- **many:** Chairs is a plural count noun, so how many asks for their number.
-- **much:** How much is used for an amount with an uncountable noun, not plural chairs.
+- **many:** 'Chairs' is a plural count noun, so 'how many' asks for their number.
+- **much:** 'How much' is used for an amount with an uncountable noun, not plural 'chairs'.
 - **long:** How long asks about duration or length; it does not determine chairs in this question.
 - **often:** How often asks about frequency, not a number of chairs.
 
@@ -407,10 +407,10 @@ ___ car is blocking the entrance?
 
 **Choice feedback:**
 
-- **Who's:** Who's means who is or who has; it is not the possessive word before car.
+- **Who's:** "Who's" means 'who is' or 'who has'; it is not the possessive word before 'car'.
 - **Whose:** Whose before car asks for the owner's identity.
-- **Who:** Who cannot directly show possession before the noun car in this structure.
-- **Whom:** Whom is an object pronoun, not a possessive determiner for car.
+- **Who:** 'Who' cannot directly show possession before the noun 'car' in this structure.
+- **Whom:** 'Whom' is an object pronoun, not a possessive determiner for 'car'.
 
 **Decision:** replaced.
 
@@ -440,8 +440,8 @@ Complete the short answer using the same question helper.
 **Choice feedback:**
 
 - **are:** Are answers a question formed with be, not the do-question shown.
-- **have:** Have does not match the question's helper do in this short answer.
-- **does:** We takes do, not the singular form does.
+- **have:** 'Have' does not match the question's helper 'do' in this short answer.
+- **does:** 'We' takes 'do', not the singular form 'does'.
 - **do:** Repeat do in the affirmative short answer with we: Yes, we do.
 
 **Decision:** replaced.
@@ -499,14 +499,14 @@ You want to sit in an empty seat beside another passenger.
 3. Can I to sit here?
 4. Can I sitting here?
 
-**Explanation:** Put can before I and use the base verb sit to ask permission.
+**Explanation:** Put 'can' before 'I' and use the base verb 'sit' to ask permission.
 
 **Choice feedback:**
 
-- **Can I sit here?:** Put can before I and use the base verb sit to ask permission.
+- **Can I sit here?:** Put 'can' before 'I' and use the base verb 'sit' to ask permission.
 - **Do I can sit here?:** Can forms the question itself; do is not added before it.
 - **Can I to sit here?:** The modal can takes sit directly, without to.
-- **Can I sitting here?:** After can, use the base verb sit rather than sitting.
+- **Can I sitting here?:** After 'can', use the base verb 'sit' rather than 'sitting'.
 
 **Decision:** replaced.
 
@@ -567,9 +567,9 @@ What ___ you cooking? It smells good.
 
 **Choice feedback:**
 
-- **do:** Do does not combine with cooking to form the present continuous.
+- **do:** 'Do' does not combine with 'cooking' to form the present continuous.
 - **are:** Are plus cooking forms the present continuous question about the current activity.
-- **does:** Does does not agree with you and does not support the -ing form here.
+- **does:** 'Does' does not agree with 'you' and does not support the -ing form here.
 - **have:** Have would need a perfect construction such as have you cooked, not have you cooking.
 
 **Decision:** replaced.
@@ -599,9 +599,9 @@ A delivery driver asks, 'What's your address?'
 
 **Choice feedback:**
 
-- **What has:** What has would not form a complete question before your address without another verb or object relationship.
-- **What does:** Does is not shortened to 's in this question and would need a main verb.
-- **What was:** Was is a past form and is not the expansion of what's.
+- **What has:** 'What has' would not form a complete question before 'your address' without another verb or object relationship.
+- **What does:** 'Does' is not shortened to "'s" in this question and would need a main verb.
+- **What was:** 'Was' is a past form and is not the expansion of "what's".
 - **What is:** Here what's means what is: What is your address?
 
 **Decision:** replaced.
@@ -627,13 +627,13 @@ At the station: 'Would you like a single or a return?'
 3. A return, please. **[Correct]**
 4. From platform two.
 
-**Explanation:** A return names one of the two alternatives and completes the requested choice.
+**Explanation:** 'A return' names one of the two alternatives and completes the requested choice.
 
 **Choice feedback:**
 
 - **Yes, please.:** Yes accepts something but does not tell the clerk which ticket type you want.
 - **At nine o'clock.:** This supplies a time, not a choice between single and return tickets.
-- **A return, please.:** A return names one of the two alternatives and completes the requested choice.
+- **A return, please.:** 'A return' names one of the two alternatives and completes the requested choice.
 - **From platform two.:** This supplies a platform, not the ticket type requested.
 
 **Decision:** replaced.
@@ -663,14 +663,14 @@ Did the electrician ___ the broken switch?
 3. repairs
 4. repairing
 
-**Explanation:** Use the base form repair after did in a past yes-no question.
+**Explanation:** Use the base form 'repair' after 'did' in a past yes-no question.
 
 **Choice feedback:**
 
 - **repaired:** Did already marks the past, so repair does not also take -ed.
-- **repair:** Use the base form repair after did in a past yes-no question.
-- **repairs:** Repairs is a present singular form; did requires the base verb here.
-- **repairing:** Repairing cannot follow did directly in this simple-past question.
+- **repair:** Use the base form 'repair' after 'did' in a past yes-no question.
+- **repairs:** 'Repairs' is a present singular form; 'did' requires the base verb here.
+- **repairing:** 'Repairing' cannot follow 'did' directly in this simple-past question.
 
 **Decision:** replaced.
 
@@ -699,9 +699,9 @@ Where ___ you when the alarm rang last night?
 
 **Choice feedback:**
 
-- **was:** You takes were rather than was in this standard past question.
-- **did:** Did cannot stand alone as the verb of location; the question needs a past form of be.
-- **are:** Are is present, whereas this question explicitly asks about last night's location.
+- **was:** 'You' takes 'were' rather than 'was' in this standard past question.
+- **did:** 'Did' cannot stand alone as the verb of location; the question needs a past form of 'be'.
+- **are:** 'Are' is present, whereas this question explicitly asks about last night's location.
 - **were:** Were agrees with you and places the location at the past time of the alarm.
 
 **Decision:** replaced.
@@ -727,12 +727,12 @@ The answer is: 'The receptionist called me.'
 3. Who will call you?
 4. Who do you usually call?
 
-**Explanation:** Who is the subject performing called, so the question directly asks for the caller.
+**Explanation:** 'Who' is the subject performing 'called', so the question directly asks for the caller.
 
 **Choice feedback:**
 
 - **Who did you call?:** This asks whom you contacted, reversing the caller and recipient.
-- **Who called you?:** Who is the subject performing called, so the question directly asks for the caller.
+- **Who called you?:** 'Who' is the subject performing 'called', so the question directly asks for the caller.
 - **Who will call you?:** This asks about a future caller rather than the person who made the earlier call.
 - **Who do you usually call?:** This asks about your usual contact, not the source of a particular past call.
 
@@ -987,8 +987,8 @@ ___ you ever ridden a motorbike?
 
 **Choice feedback:**
 
-- **Do:** Do requires the base verb ride, not the past participle ridden.
-- **Are:** Are does not form an active experience question with ridden; the present perfect needs have.
+- **Do:** 'Do' requires the base verb 'ride', not the past participle 'ridden'.
+- **Are:** 'Are' does not form an active experience question with 'ridden'; the present perfect needs 'have'.
 - **Have:** Have plus ridden forms the present perfect, and ever asks about experience up to now.
 - **Did:** Did would take ride rather than ridden and would form a past-simple question instead.
 
@@ -1021,7 +1021,7 @@ Use the same helper to give the negative short answer.
 
 - **wasn't:** Wasn't matches a past be-question, not did you enjoy.
 - **didn't:** Didn't matches did and gives a negative answer about the completed session.
-- **don't:** Don't is present; the supplied question uses past did.
+- **don't:** "Don't" is present; the supplied question uses past 'did'.
 - **haven't:** Haven't belongs to a have-question and does not repeat the helper used here.
 
 **Decision:** replaced.
@@ -1111,14 +1111,14 @@ How ___ rice should I put in the pot?
 3. long
 4. much **[Correct]**
 
-**Explanation:** Rice is uncountable in this use, so how much asks for the amount.
+**Explanation:** 'Rice' is uncountable in this use, so 'how much' asks for the amount.
 
 **Choice feedback:**
 
-- **many:** Many needs a plural count noun, such as cups, not the uncountable rice here.
-- **often:** Often asks for frequency; the blank before rice needs an amount word.
+- **many:** 'Many' needs a plural count noun, such as 'cups', not the uncountable 'rice' here.
+- **often:** 'Often' asks for frequency; the blank before 'rice' needs an amount word.
 - **long:** Long asks about time or length, not the amount of rice to add.
-- **much:** Rice is uncountable in this use, so how much asks for the amount.
+- **much:** 'Rice' is uncountable in this use, so 'how much' asks for the amount.
 
 **Decision:** replaced.
 
@@ -1207,14 +1207,14 @@ The parcel is for you, ___?
 3. isn't you
 4. aren't they
 
-**Explanation:** A positive statement with singular is takes the negative tag isn't it in this confirmation pattern.
+**Explanation:** A positive statement with singular 'is' takes the negative tag "isn't it" in this confirmation pattern.
 
 **Choice feedback:**
 
-- **isn't it:** A positive statement with singular is takes the negative tag isn't it in this confirmation pattern.
+- **isn't it:** A positive statement with singular 'is' takes the negative tag "isn't it" in this confirmation pattern.
 - **doesn't it:** The statement uses is, so the tag repeats be rather than switching to does.
-- **isn't you:** The tag refers to the parcel, not to the person in for you; its subject is it.
-- **aren't they:** The parcel is singular and needs it and is, not plural they and are.
+- **isn't you:** The tag refers to the parcel, not to the person in 'for you'; its subject is 'it'.
+- **aren't they:** The parcel is singular and needs 'it' and 'is', not plural 'they' and 'are'.
 
 **Decision:** replaced.
 
@@ -1307,14 +1307,14 @@ How long ___ your neighbor?
 3. have you known **[Correct]**
 4. did you known
 
-**Explanation:** Have comes before you, and known is the past participle describing a state that began earlier and continues now.
+**Explanation:** 'Have' comes before 'you', and 'known' is the past participle describing a state that began earlier and continues now.
 
 **Choice feedback:**
 
 - **do you know:** For this state continuing up to now, the requested present perfect is have you known, not do you know.
-- **have you knowing:** Have needs the past participle known here, not knowing.
-- **have you known:** Have comes before you, and known is the past participle describing a state that began earlier and continues now.
-- **did you known:** Did takes a base verb, so it cannot combine with known.
+- **have you knowing:** 'Have' needs the past participle 'known' here, not 'knowing'.
+- **have you known:** 'Have' comes before 'you', and 'known' is the past participle describing a state that began earlier and continues now.
+- **did you known:** 'Did' takes a base verb, so it cannot combine with 'known'.
 
 **Decision:** replaced.
 
@@ -1345,8 +1345,8 @@ A friend arrives with clay on both hands. You ask about the activity leading up 
 
 - **What have you been do?:** The continuous sequence needs been doing, not been do.
 - **What have you been doing?:** The order is question word, have, subject, been, and the -ing form doing.
-- **What have been you doing?:** Only have moves before the subject; been remains after you.
-- **What do you have been doing?:** Have already forms the question; adding do before it creates an invalid auxiliary sequence.
+- **What have been you doing?:** Only 'have' moves before the subject; 'been' remains after 'you'.
+- **What do you have been doing?:** 'Have' already forms the question; adding 'do' before it creates an invalid auxiliary sequence.
 
 **Decision:** replaced.
 
@@ -1407,9 +1407,9 @@ Do you know if ___ pets at the campsite?
 
 **Choice feedback:**
 
-- **do they allow:** The embedded clause does not use the direct-question order do they allow.
-- **they allows:** They takes allow without the third-person singular -s.
-- **are they allow:** Are does not combine with the base verb allow to form this clause.
+- **do they allow:** The embedded clause does not use the direct-question order 'do they allow'.
+- **they allows:** 'They' takes 'allow' without the third-person singular '-s'.
+- **are they allow:** 'Are' does not combine with the base verb 'allow' to form this clause.
 - **they allow:** After if, use statement order they allow inside the larger question Do you know ...?
 
 **Decision:** replaced.
@@ -1474,7 +1474,7 @@ Nobody booked the small meeting room, ___?
 - **did they:** Nobody makes the clause negative, while they supplies the standard pronoun in the positive tag did they.
 - **didn't they:** Nobody already gives the statement negative meaning, so this confirmation pattern takes a positive tag.
 - **didn't it:** The statement concerns an unspecified person booking, not the room performing an action; its negative meaning also calls for a positive tag.
-- **did nobody:** A confirmation tag uses a pronoun such as they rather than repeating nobody.
+- **did nobody:** A confirmation tag uses a pronoun such as 'they' rather than repeating 'nobody'.
 
 **Decision:** replaced.
 
@@ -1567,7 +1567,7 @@ The speaker does not know where the gardener left the spare key.
 
 **Choice feedback:**
 
-- **I wonder where did the gardener leave the spare key.:** The embedded where-clause does not use direct-question inversion after I wonder.
+- **I wonder where did the gardener leave the spare key.:** The embedded where-clause does not use direct-question inversion after 'I wonder'.
 - **I wonder where the gardener left the spare key.:** The embedded question uses subject then verb, and the whole sentence is a statement about wondering.
 - **I wonder where the gardener did left the spare key.:** Did would require leave, not left; it also is not needed for this unemphatic embedded clause.
 - **I wonder where left the gardener the spare key.:** The ordinary embedded order puts the gardener before left, not after it.
@@ -1787,14 +1787,14 @@ We haven't decided ___ to repair the chair or replace it.
 3. what
 4. whether **[Correct]**
 
-**Explanation:** Whether can introduce the alternatives directly before to repair ... or replace it.
+**Explanation:** 'Whether' can introduce the alternatives directly before 'to repair ... or replace it'.
 
 **Choice feedback:**
 
-- **if:** If can introduce many finite embedded questions, but not this whether-to infinitive construction.
+- **if:** 'If' can introduce many finite embedded questions, but not this whether-to infinitive construction.
 - **that:** That introduces a declarative clause, not the infinitive choice presented here.
 - **what:** Both repair the chair and replace it already have objects; what does not introduce this yes-no choice between the two actions.
-- **whether:** Whether can introduce the alternatives directly before to repair ... or replace it.
+- **whether:** 'Whether' can introduce the alternatives directly before 'to repair ... or replace it'.
 
 **Decision:** replaced.
 
@@ -1883,14 +1883,14 @@ Do you remember how much ___ for the concert tickets?
 3. we payed
 4. we paid **[Correct]**
 
-**Explanation:** The embedded clause uses subject before the past verb: how much we paid.
+**Explanation:** The embedded clause uses subject before the past verb: 'how much we paid'.
 
 **Choice feedback:**
 
-- **did we pay:** Did we pay is direct-question order; after how much in this embedded clause, use we paid.
-- **we did paid:** Did requires the base verb pay, not the past form paid.
+- **did we pay:** 'Did we pay' is direct-question order; after 'how much' in this embedded clause, use 'we paid'.
+- **we did paid:** 'Did' requires the base verb 'pay', not the past form 'paid'.
 - **we payed:** The past form for paying money is paid, not payed.
-- **we paid:** The embedded clause uses subject before the past verb: how much we paid.
+- **we paid:** The embedded clause uses subject before the past verb: 'how much we paid'.
 
 **Decision:** replaced.
 
@@ -1915,13 +1915,13 @@ During a sound check, the presenter asks, 'How well can you hear me at the back?
 3. Clearly enough to follow every word. **[Correct]**
 4. From the rear entrance.
 
-**Explanation:** Clearly enough describes the quality or degree of hearing, which how well requests.
+**Explanation:** 'Clearly enough' describes the quality or degree of hearing, which 'how well' requests.
 
 **Choice feedback:**
 
 - **About once every five minutes.:** This gives a frequency, not the clarity of the sound.
 - **For another half an hour.:** This gives a duration, not how clearly the presenter can be heard.
-- **Clearly enough to follow every word.:** Clearly enough describes the quality or degree of hearing, which how well requests.
+- **Clearly enough to follow every word.:** 'Clearly enough' describes the quality or degree of hearing, which 'how well' requests.
 - **From the rear entrance.:** This gives a location, while at the back already supplies the listeners' location.
 
 **Decision:** replaced.
@@ -1983,12 +1983,12 @@ The answer is: 'The owner, according to the manager.'
 3. Who does the manager think the chef appointed?
 4. Who thinks the manager appointed the chef?
 
-**Explanation:** Who belongs as the subject of appointed inside the manager's belief; the outer question uses does the manager think.
+**Explanation:** 'Who' belongs as the subject of 'appointed' inside the manager's belief; the outer question uses 'does the manager think'.
 
 **Choice feedback:**
 
 - **Who appointed the manager as chef?:** This makes the manager the person appointed as chef, rather than the source of a belief about a separate appointment.
-- **Who does the manager think appointed the chef?:** Who belongs as the subject of appointed inside the manager's belief; the outer question uses does the manager think.
+- **Who does the manager think appointed the chef?:** 'Who' belongs as the subject of 'appointed' inside the manager's belief; the outer question uses 'does the manager think'.
 - **Who does the manager think the chef appointed?:** This makes the chef the appointing agent and asks for the person appointed.
 - **Who thinks the manager appointed the chef?:** This asks for the holder of a belief about the manager appointing someone, not the agent identified in the manager's belief.
 
@@ -2015,13 +2015,13 @@ You need to ask which person a distributor is negotiating with.
 3. With whom is the distributor negotiating? **[Correct]**
 4. Who does the distributor hope to negotiate with?
 
-**Explanation:** With comes before formal whom, followed by the inversion is the distributor.
+**Explanation:** 'With' comes before formal 'whom', followed by the inversion 'is the distributor'.
 
 **Choice feedback:**
 
 - **Who is the distributor negotiating with?:** This is a valid conversational question, but its preposition is at the end rather than before the question word as requested.
 - **Which person is negotiating with the distributor?:** This makes which person the subject and does not use the requested fronted-preposition construction.
-- **With whom is the distributor negotiating?:** With comes before formal whom, followed by the inversion is the distributor.
+- **With whom is the distributor negotiating?:** 'With' comes before formal 'whom', followed by the inversion 'is the distributor'.
 - **Who does the distributor hope to negotiate with?:** This leaves with at the end and changes current negotiation into a hoped-for negotiation.
 
 **Decision:** replaced.
@@ -2118,7 +2118,7 @@ The assistant says the damaged display cabinet costs the same as a new one. The 
 - **The customer doubts that full price is reasonable for the damaged item.:** In this exchange, who would ...? rhetorically questions the reasonableness of paying that price.
 - **The customer wants a list of previous buyers of the cabinet.:** The conditional question reacts to the proposed price, rather than requesting a historical customer list.
 - **The customer is volunteering to pay the full amount.:** The question challenges the attractiveness of the purchase; it does not offer to make it.
-- **The customer is asking which employee sets the prices.:** The grammatical subject who would pay concerns a buyer, not an employee who sets the price.
+- **The customer is asking which employee sets the prices.:** The grammatical subject 'who would pay' concerns a buyer, not an employee who sets the price.
 
 **Decision:** replaced.
 
@@ -2143,14 +2143,14 @@ The caretaker hardly ever uses the service lift, ___?
 3. has he
 4. isn't it
 
-**Explanation:** Hardly ever triggers a positive tag; does matches the simple-present verb and he refers to the caretaker.
+**Explanation:** 'Hardly ever' triggers a positive tag; 'does' matches the simple-present verb and 'he' refers to the caretaker.
 
 **Choice feedback:**
 
-- **does he:** Hardly ever triggers a positive tag; does matches the simple-present verb and he refers to the caretaker.
+- **does he:** 'Hardly ever' triggers a positive tag; 'does' matches the simple-present verb and 'he' refers to the caretaker.
 - **doesn't he:** Hardly ever gives the clause negative force, so the conventional confirmation tag is positive.
 - **has he:** Uses is simple present, so the matching helper is does, not has.
-- **isn't it:** The tag refers to the caretaker and the action uses, not to the lift with is.
+- **isn't it:** The tag refers to the caretaker and the action 'uses', not to the lift with 'is'.
 
 **Decision:** replaced.
 
@@ -2271,13 +2271,13 @@ Discussing a stuffy rehearsal room, a singer asks, 'What about moving the rehear
 3. It asks what happened during an earlier outdoor rehearsal.
 4. It asks which person has already moved the rehearsal.
 
-**Explanation:** What about plus an -ing phrase can propose an option for discussion without a full finite clause.
+**Explanation:** 'What about' plus an -ing phrase can propose an option for discussion without a full finite clause.
 
 **Choice feedback:**
 
-- **It is incomplete because a question must contain a finite verb.:** Conventional conversational questions such as What about ...? can be grammatical without an overt finite verb.
-- **It is a conventional elliptical question proposing an alternative.:** What about plus an -ing phrase can propose an option for discussion without a full finite clause.
-- **It asks what happened during an earlier outdoor rehearsal.:** Moving here names an action being considered, not a completed rehearsal being narrated.
+- **It is incomplete because a question must contain a finite verb.:** Conventional conversational questions such as 'What about ...?' can be grammatical without an overt finite verb.
+- **It is a conventional elliptical question proposing an alternative.:** 'What about' plus an -ing phrase can propose an option for discussion without a full finite clause.
+- **It asks what happened during an earlier outdoor rehearsal.:** 'Moving' here names an action being considered, not a completed rehearsal being narrated.
 - **It asks which person has already moved the rehearsal.:** The phrase asks for consideration of an alternative action, not for an agent's identity.
 
 **Decision:** replaced.
@@ -2307,7 +2307,7 @@ Choose the reply that clearly grants permission.
 
 **Choice feedback:**
 
-- **I'm afraid I would; it isn't ready.:** I would here means I would mind, so this expresses an objection rather than permission.
+- **I'm afraid I would; it isn't ready.:** 'I would' here means 'I would mind', so this expresses an objection rather than permission.
 - **I'd rather you didn't just yet.:** This states a preference against photographing it at present.
 - **Not at all. Go ahead.:** Not at all denies any objection, and Go ahead explicitly grants permission.
 - **I'd prefer to wait until it's finished.:** This postpones permission until completion instead of granting it now.
@@ -2371,10 +2371,10 @@ There's been a change to the festival entrance, ___?
 
 **Choice feedback:**
 
-- **isn't there:** In there's been, 's means has, not is, so the tag must repeat have.
+- **isn't there:** In "there's been", "'s" means 'has', not 'is', so the tag must repeat 'have'.
 - **hasn't there:** There's been expands to there has been, giving the negative tag hasn't there.
 - **hasn't it:** Existential there is retained in the tag rather than replaced by it.
-- **wasn't it:** The main clause is present perfect, not past be, and its tag subject remains there.
+- **wasn't it:** The main clause is present perfect, not past 'be', and its tag subject remains 'there'.
 
 **Decision:** replaced.
 
@@ -2399,13 +2399,13 @@ The seating contractor needs the number of seats expected to be installed by ope
 3. How many seats will have been install by opening night?
 4. How many seats will been have installed by opening night?
 
-**Explanation:** How many seats is the subject, followed by will have been installed to ask about completed installation by the future boundary.
+**Explanation:** 'How many seats' is the subject, followed by 'will have been installed' to ask about completed installation by the future boundary.
 
 **Choice feedback:**
 
 - **How many seats will have installed by opening night?:** Without been, will have installed is active; seats are the things installed, not the installing agents.
-- **How many seats will have been installed by opening night?:** How many seats is the subject, followed by will have been installed to ask about completed installation by the future boundary.
-- **How many seats will have been install by opening night?:** After have been in the passive, use the past participle installed rather than install.
+- **How many seats will have been installed by opening night?:** 'How many seats' is the subject, followed by 'will have been installed' to ask about completed installation by the future boundary.
+- **How many seats will have been install by opening night?:** After 'have been' in the passive, use the past participle 'installed' rather than 'install'.
 - **How many seats will been have installed by opening night?:** The auxiliary order is will have been, not will been have.
 
 **Decision:** replaced.
@@ -2495,14 +2495,14 @@ A: 'I need to know whether or not the tent is waterproof.' B: 'I need to know wh
 3. B reverses A's meaning by moving not after the adjective.
 4. Both ask for the same yes-no information with different placement of or not. **[Correct]**
 
-**Explanation:** Or not can occur immediately after whether or at the end of this clause without changing the basic alternatives.
+**Explanation:** 'Or not' can occur immediately after 'whether' or at the end of this clause without changing the basic alternatives.
 
 **Choice feedback:**
 
 - **A asks about waterproofing; B asks whether a tent exists.:** Both clauses have the tent's waterproof status as their subject matter; neither shifts to existence.
 - **A asks a question; B states that the tent is not waterproof.:** Or not remains part of an embedded alternative question in B rather than an assertion of non-waterproofing.
 - **B reverses A's meaning by moving not after the adjective.:** The relocated or not spells out the negative alternative; it does not reverse the question's meaning.
-- **Both ask for the same yes-no information with different placement of or not.:** Or not can occur immediately after whether or at the end of this clause without changing the basic alternatives.
+- **Both ask for the same yes-no information with different placement of or not.:** 'Or not' can occur immediately after 'whether' or at the end of this clause without changing the basic alternatives.
 
 **Decision:** replaced.
 
@@ -2599,7 +2599,7 @@ Three of five applicants accepted their places; two declined. The coordinator as
 
 **Choice feedback:**
 
-- **No; none of the five accepted.:** A negative answer to all does not mean none; this contradicts the three acceptances.
+- **No; none of the five accepted.:** A negative answer to 'all' does not mean 'none'; this contradicts the three acceptances.
 - **Not all; three accepted and two declined.:** Not all denies universal acceptance while the numbers preserve the partial positive outcome.
 - **Yes; three of the five accepted.:** Three acceptances do not make the answer to did all five accept positive.
 - **No; all five declined their places.:** This converts the failure of universal acceptance into universal refusal, contrary to the stated distribution.
@@ -2698,7 +2698,7 @@ I think the side entrance is locked, ___?
 - **don't I:** Don't I would focus on whether I think that; it is not the intended check of the door's state.
 - **aren't I:** Aren't I would require an I-am proposition and does not match either think or the door's is locked.
 - **isn't it:** Isn't it checks the embedded proposition that the side entrance is locked, which is the requested target.
-- **doesn't it:** The embedded state uses is, not a lexical verb that would take does.
+- **doesn't it:** The embedded state uses 'is', not a lexical verb that would take 'does'.
 
 **Decision:** replaced.
 
@@ -2910,19 +2910,19 @@ Assess the emphasized helper in the follow-up question.
 
 'Neither the owner nor the manager authorized the mural.' 'Then who DID authorize it?'
 
-1. Did is required because who is the object of authorize.
+1. 'Did' is required because 'who' is the object of 'authorize'.
 2. Did turns the question into a denial that authorization occurred.
 3. Did emphasizes the search for the actual authorizer after two candidates are excluded. **[Correct]**
-4. Did is an error because a subject question cannot contain it.
+4. 'Did' is an error because a subject question cannot contain it.
 
 **Explanation:** The stress on did contrasts an actual but unidentified authorizer with the people just ruled out.
 
 **Choice feedback:**
 
-- **Did is required because who is the object of authorize.:** Who is the subject performing authorize, not its object; emphatic do is not evidence of an object question.
+- **'Did' is required because 'who' is the object of 'authorize'.:** 'Who' is the subject performing 'authorize', not its object; emphatic 'do' is not evidence of an object question.
 - **Did turns the question into a denial that authorization occurred.:** The follow-up seeks an agent after excluding two possibilities, rather than denying that anyone authorized the work.
 - **Did emphasizes the search for the actual authorizer after two candidates are excluded.:** The stress on did contrasts an actual but unidentified authorizer with the people just ruled out.
-- **Did is an error because a subject question cannot contain it.:** Subject questions can contain emphatic do; the restriction concerns unnecessary ordinary do-support, not this contrastive use.
+- **'Did' is an error because a subject question cannot contain it.:** Subject questions can contain emphatic 'do'; the restriction concerns unnecessary ordinary do-support, not this contrastive use.
 
 **Decision:** replaced.
 
@@ -2944,17 +2944,17 @@ A: 'I asked what the chef had prepared.' B: 'I tasted what the chef had prepared
 
 1. Both embed the same question, with asked and tasted indicating different ways of answering it.
 2. A refers to the food; B embeds a question about its preparation.
-3. Both refer to the food, with asked serving as a shortened request for the dish.
+3. Both refer to the food, with 'asked' serving as a shortened request for the dish.
 4. A embeds a question; B refers to the prepared food. **[Correct]**
 
-**Explanation:** Asked introduces an inquiry, while tasted takes the prepared food as its object; the identical wh-clause has a different function.
+**Explanation:** 'Asked' introduces an inquiry, while 'tasted' takes the prepared food as its object; the identical wh-clause has a different function.
 
 **Choice feedback:**
 
-- **Both embed the same question, with asked and tasted indicating different ways of answering it.:** Tasting can supply information, but grammatically tasted takes the food referred to by the clause, not an interrogative complement here.
-- **A refers to the food; B embeds a question about its preparation.:** This reverses the contrast between the inquiry after asked and the referring expression after tasted.
-- **Both refer to the food, with asked serving as a shortened request for the dish.:** Asked what was prepared asks for information; asking for the dish would need a different construction, such as asked for what the chef had prepared.
-- **A embeds a question; B refers to the prepared food.:** Asked introduces an inquiry, while tasted takes the prepared food as its object; the identical wh-clause has a different function.
+- **Both embed the same question, with asked and tasted indicating different ways of answering it.:** Tasting can supply information, but grammatically 'tasted' takes the food referred to by the clause, not an interrogative complement here.
+- **A refers to the food; B embeds a question about its preparation.:** This reverses the contrast between the inquiry after 'asked' and the referring expression after 'tasted'.
+- **Both refer to the food, with 'asked' serving as a shortened request for the dish.:** Asked what was prepared asks for information; asking for the dish would need a different construction, such as asked for what the chef had prepared.
+- **A embeds a question; B refers to the prepared food.:** 'Asked' introduces an inquiry, while 'tasted' takes the prepared food as its object; the identical wh-clause has a different function.
 
 **Decision:** replaced.
 
@@ -3404,7 +3404,7 @@ A: 'Whom did only the CURATOR nominate?' B: 'Whom did the curator only NOMINATE,
 **Choice feedback:**
 
 - **A excludes other nominators; B contrasts nomination with appointment.:** A asks about a nominee for whom the curator was the only nominator; B asks about someone merely nominated, not appointed, by the curator.
-- **A asks for a nominee supported by everyone except the curator; B distinguishes nomination from appointment.:** Only the curator includes the curator and excludes other nominators; it does not mean everyone except the curator.
+- **A asks for a nominee supported by everyone except the curator; B distinguishes nomination from appointment.:** 'Only the curator' includes the curator and excludes other nominators; it does not mean everyone except the curator.
 - **Both ask for the sole person nominated by the curator, with different emphasis.:** Neither placement attaches only to the nominee as a restriction to one person; the emphasized agent and action differ.
 - **A restricts the action to nomination; B restricts the identity of the nominator.:** This reverses the focused constituents: A restricts the agent, while B restricts the action.
 
@@ -3435,7 +3435,7 @@ Which account of the speaker's commitments is justified?
 
 **Choice feedback:**
 
-- **The guide's knowledge is established, while being lost is only hypothetical.:** The if-clause does not establish the guide's knowledge, while still lost is the condition the speaker is trying to explain.
+- **The guide's knowledge is established, while being lost is only hypothetical.:** The if-clause does not establish the guide's knowledge, while 'still lost' is the condition the speaker is trying to explain.
 - **Neither the guide's knowledge nor the group's being lost is presented as actual.:** The current problem is not itself introduced by if; the question treats the group's continuing lost state as given.
 - **Being lost is presented as actual; the guide's knowledge is entertained conditionally.:** The speaker asks how the actual problem can coexist with the hypothesized knowledge, without asserting that the guide has it.
 - **The question establishes that the guide does not know the entrance's location.:** The question raises a tension with the guide's supposed knowledge, but it does not deductively prove ignorance.
@@ -3460,17 +3460,17 @@ A: 'Who do you believe has nominated the candidate?' B: 'Whom do you believe the
 
 1. Both match case to the wh-word's role in the lower clause. **[Correct]**
 2. A needs whom because believe is immediately followed by an understood person object.
-3. B needs who because a word at the start of a question must be its subject.
+3. B needs 'who' because a word at the start of a question must be its subject.
 4. Both need the same case because their main clause is do you believe.
 
-**Explanation:** Who is the lower-clause subject in A; whom is the lower-clause object in B. The intervening belief clause does not determine their case.
+**Explanation:** 'Who' is the lower-clause subject in A; 'whom' is the lower-clause object in B. The intervening belief clause does not determine their case.
 
 **Choice feedback:**
 
-- **Both match case to the wh-word's role in the lower clause.:** Who is the lower-clause subject in A; whom is the lower-clause object in B. The intervening belief clause does not determine their case.
+- **Both match case to the wh-word's role in the lower clause.:** 'Who' is the lower-clause subject in A; 'whom' is the lower-clause object in B. The intervening belief clause does not determine their case.
 - **A needs whom because believe is immediately followed by an understood person object.:** A's wh-word performs has nominated; it is not the object of believe merely because it is linked across that verb.
-- **B needs who because a word at the start of a question must be its subject.:** Initial position does not make a wh-word a subject. In B, the candidate is the lower-clause subject and whom its object.
-- **Both need the same case because their main clause is do you believe.:** The matching higher clause does not erase the different grammatical roles in the clause containing nominated.
+- **B needs 'who' because a word at the start of a question must be its subject.:** Initial position does not make a wh-word a subject. In B, 'the candidate' is the lower-clause subject and 'whom' its object.
+- **Both need the same case because their main clause is do you believe.:** The matching higher clause does not erase the different grammatical roles in the clause containing 'nominated'.
 
 **Decision:** replaced.
 
@@ -3822,7 +3822,7 @@ Which distinction is warranted by the question's wording?
 - **The trial established that the coating does not repel water and asks why it fails physically.:** Failure to demonstrate a property is not equivalent to demonstrating that the property is absent.
 - **The coating repels water, but the investigators failed to understand why.:** Demonstrate is non-factive in this failed-demonstration clause; neither effectiveness nor the investigators' lack of understanding is established.
 - **The question assumes failed demonstration, not a demonstrated failure of the coating.:** The why-question backgrounds unsuccessful demonstration; it does not thereby settle the coating's actual effectiveness.
-- **No trial was completed, and the question asks why it was cancelled.:** Fail to demonstrate does not mean fail to conduct a trial; a completed trial may yield inconclusive evidence.
+- **No trial was completed, and the question asks why it was cancelled.:** 'Fail to demonstrate' does not mean 'fail to conduct a trial'; a completed trial may yield inconclusive evidence.
 
 **Decision:** replaced.
 

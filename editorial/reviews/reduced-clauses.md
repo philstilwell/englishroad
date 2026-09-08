@@ -19,12 +19,12 @@ Please help the person carrying two heavy bags.
 3. The person selling heavy bags
 4. The person looking for a bag
 
-**Explanation:** Carrying two heavy bags means holding the bags while moving with them.
+**Explanation:** 'Carrying two heavy bags' means holding the bags while moving with them.
 
 **Choice feedback:**
 
-- **The person holding and moving two bags:** Carrying two heavy bags means holding the bags while moving with them.
-- **The person buying two bags:** Carrying describes holding and moving the bags, not buying them.
+- **The person holding and moving two bags:** 'Carrying two heavy bags' means holding the bags while moving with them.
+- **The person buying two bags:** 'Carrying' describes holding and moving the bags, not buying them.
 - **The person selling heavy bags:** Selling bags is a different action from carrying them.
 - **The person looking for a bag:** The person described already has two bags and is not looking for one.
 
@@ -51,11 +51,11 @@ The woman talking to the clerk is my sister.
 3. The clerk's sister
 4. The speaker
 
-**Explanation:** Talking to the clerk describes the woman, and my sister tells us who she is.
+**Explanation:** 'Talking to the clerk' describes the woman, and 'my sister' tells us who she is.
 
 **Choice feedback:**
 
-- **The speaker's sister:** Talking to the clerk describes the woman, and my sister tells us who she is.
+- **The speaker's sister:** 'Talking to the clerk' describes the woman, and 'my sister' tells us who she is.
 - **The speaker's mother:** My sister, not my mother, identifies the woman.
 - **The clerk's sister:** My belongs to the person saying the sentence, not the clerk.
 - **The speaker:** The speaker identifies another person as my sister; the speaker is not the woman described.
@@ -83,14 +83,14 @@ The cups made of glass are on the top shelf.
 3. Glass **[Correct]**
 4. Metal
 
-**Explanation:** Made of glass describes the cups' material.
+**Explanation:** 'Made of glass' describes the cups' material.
 
 **Choice feedback:**
 
 - **Wood:** Wood is a different material; the description says glass.
 - **Paper:** Paper cups are not the glass cups identified here.
-- **Glass:** Made of glass describes the cups' material.
-- **Metal:** Metal is not the material named after made of.
+- **Glass:** 'Made of glass' describes the cups' material.
+- **Metal:** 'Metal' is not the material named after 'made of'.
 
 **Decision:** replaced.
 
@@ -115,13 +115,13 @@ The keys left on the kitchen table are yours.
 3. Under the kitchen table
 4. Beside the kitchen door
 
-**Explanation:** Left on the kitchen table describes where someone put the keys.
+**Explanation:** 'Left on the kitchen table' describes where someone put the keys.
 
 **Choice feedback:**
 
-- **On the kitchen table:** Left on the kitchen table describes where someone put the keys.
+- **On the kitchen table:** 'Left on the kitchen table' describes where someone put the keys.
 - **Inside the kitchen cupboard:** The description gives the table, not the cupboard, as the keys' location.
-- **Under the kitchen table:** On means on top of the table, not underneath it.
+- **Under the kitchen table:** 'On' means on top of the table, not underneath it.
 - **Beside the kitchen door:** The door is not the place named in left on the kitchen table.
 
 **Decision:** replaced.
@@ -147,12 +147,12 @@ I heard water running into the sink.
 3. The tap had no water.
 4. Water was waiting in a closed bottle.
 
-**Explanation:** Water running means water flowing; into the sink tells us where it was going.
+**Explanation:** 'Water running' means water flowing; 'into the sink' tells us where it was going.
 
 **Choice feedback:**
 
-- **The water was too hot.:** Running describes movement, not temperature.
-- **Water was flowing into the sink.:** Water running means water flowing; into the sink tells us where it was going.
+- **The water was too hot.:** 'Running' describes movement, not temperature.
+- **Water was flowing into the sink.:** 'Water running' means water flowing; 'into the sink' tells us where it was going.
 - **The tap had no water.:** Flowing water is present, so this does not describe a tap with no water.
 - **Water was waiting in a closed bottle.:** The water was moving into the sink, not stored in a bottle.
 
@@ -179,14 +179,14 @@ Please use the door marked EXIT.
 3. The door with the sign EXIT **[Correct]**
 4. The door with the sign OFFICE
 
-**Explanation:** Marked EXIT is a short way to describe a door carrying that label.
+**Explanation:** 'Marked EXIT' is a short way to describe a door carrying that label.
 
 **Choice feedback:**
 
-- **The door beside the sign SHOP:** SHOP names a shop entrance, not the exit identified in the instruction.
-- **The door with no sign:** Marked EXIT means that a sign or label is present.
-- **The door with the sign EXIT:** Marked EXIT is a short way to describe a door carrying that label.
-- **The door with the sign OFFICE:** OFFICE is a different label from EXIT.
+- **The door beside the sign SHOP:** 'SHOP' names a shop entrance, not the exit identified in the instruction.
+- **The door with no sign:** 'Marked EXIT' means that a sign or label is present.
+- **The door with the sign EXIT:** 'Marked EXIT' is a short way to describe a door carrying that label.
+- **The door with the sign OFFICE:** 'OFFICE' is a different label from 'EXIT'.
 
 **Decision:** replaced.
 
@@ -211,13 +211,13 @@ The two people waiting outside ___ cold.
 3. am
 4. be
 
-**Explanation:** Two people is plural, so the main verb is are; waiting outside describes those people.
+**Explanation:** 'Two people' is plural, so the main verb is 'are'; 'waiting outside' describes those people.
 
 **Choice feedback:**
 
-- **are:** Two people is plural, so the main verb is are; waiting outside describes those people.
-- **is:** Is goes with a singular subject, but two people is plural.
-- **am:** Am is used with I, not with two people.
+- **are:** 'Two people' is plural, so the main verb is 'are'; 'waiting outside' describes those people.
+- **is:** 'Is' goes with a singular subject, but 'two people' is plural.
+- **am:** 'Am' is used with 'I', not with 'two people'.
 - **be:** Be alone does not make this present-tense statement; use are.
 
 **Decision:** replaced.
@@ -248,7 +248,7 @@ The food cooked this morning is in the fridge.
 **Choice feedback:**
 
 - **Yesterday evening:** The cooking time is this morning, not yesterday evening.
-- **Tomorrow morning:** Cooked describes food already prepared, and this morning is not tomorrow.
+- **Tomorrow morning:** 'Cooked' describes food already prepared, and 'this morning' is not tomorrow.
 - **This morning:** This morning belongs to cooked and gives the preparation time.
 - **After lunch today:** After lunch is later than the morning named in the description.
 
@@ -275,13 +275,13 @@ A notice says to you: 'Before leaving, close the window.'
 3. You **[Correct]**
 4. The last person to arrive
 
-**Explanation:** The command close is addressed to you; before leaving refers to your departure.
+**Explanation:** The command 'close' is addressed to you; 'before leaving' refers to your departure.
 
 **Choice feedback:**
 
 - **The next visitor:** The notice addresses you, not a visitor arriving later.
 - **The person outside:** No person outside is given responsibility in the notice.
-- **You:** The command close is addressed to you; before leaving refers to your departure.
+- **You:** The command 'close' is addressed to you; 'before leaving' refers to your departure.
 - **The last person to arrive:** The instruction concerns the reader leaving, not whoever arrived last.
 
 **Decision:** replaced.
@@ -307,14 +307,14 @@ While cooking, keep the kitchen door open.
 3. After you close the kitchen
 4. During cooking **[Correct]**
 
-**Explanation:** While cooking means during the time you are cooking.
+**Explanation:** 'While cooking' means during the time you are cooking.
 
 **Choice feedback:**
 
 - **Before you buy the food:** While links the instruction to cooking, not shopping beforehand.
 - **After you finish eating:** After eating is later than the activity named in while cooking.
 - **After you close the kitchen:** The instruction says to keep the door open during cooking, not wait until the kitchen closes.
-- **During cooking:** While cooking means during the time you are cooking.
+- **During cooking:** 'While cooking' means during the time you are cooking.
 
 **Decision:** replaced.
 
@@ -339,12 +339,12 @@ The man holding a map is waiting for a bus.
 3. A phone
 4. A newspaper
 
-**Explanation:** A map is the object after holding; a bus belongs to waiting for.
+**Explanation:** 'A map' is the object after 'holding'; 'a bus' belongs to 'waiting for'.
 
 **Choice feedback:**
 
 - **A bus ticket:** The description names a map, not a ticket, as the object in his hands.
-- **A map:** A map is the object after holding; a bus belongs to waiting for.
+- **A map:** 'A map' is the object after 'holding'; 'a bus' belongs to 'waiting for'.
 - **A phone:** Holding a map does not describe holding a phone.
 - **A newspaper:** A newspaper is a different object from the map named in the description.
 
@@ -371,14 +371,14 @@ Leo has a raincoat on. Complete: Leo is the man ___ by the door.
 3. washing a raincoat
 4. selling a raincoat
 
-**Explanation:** Wearing a raincoat means that the coat is on Leo now.
+**Explanation:** 'Wearing a raincoat' means that the coat is on Leo now.
 
 **Choice feedback:**
 
-- **wearing a raincoat:** Wearing a raincoat means that the coat is on Leo now.
+- **wearing a raincoat:** 'Wearing a raincoat' means that the coat is on Leo now.
 - **buying a raincoat:** Buying tells us about a purchase, not what Leo has on.
-- **washing a raincoat:** Washing describes cleaning the coat, not wearing it.
-- **selling a raincoat:** Selling describes offering the coat to someone else, not having it on.
+- **washing a raincoat:** 'Washing' describes cleaning the coat, not wearing it.
+- **selling a raincoat:** 'Selling' describes offering the coat to someone else, not having it on.
 
 **Decision:** replaced.
 
@@ -403,14 +403,14 @@ I need someone to help me move this chair.
 3. The speaker is helping someone sit.
 4. The speaker has finished moving the chair.
 
-**Explanation:** Someone to help describes the person the speaker needs.
+**Explanation:** 'Someone to help' describes the person the speaker needs.
 
 **Choice feedback:**
 
 - **The speaker wants a different chair.:** The chair is the thing to move; the request is for help, not a replacement chair.
-- **The speaker wants a helper.:** Someone to help describes the person the speaker needs.
+- **The speaker wants a helper.:** 'Someone to help' describes the person the speaker needs.
 - **The speaker is helping someone sit.:** The speaker wants to receive help moving the chair, not help someone sit down.
-- **The speaker has finished moving the chair.:** Need someone to help describes a task still needing help, not a completed move.
+- **The speaker has finished moving the chair.:** 'Need someone to help' describes a task still needing help, not a completed move.
 
 **Decision:** replaced.
 
@@ -435,14 +435,14 @@ Is there a place to sit near the entrance?
 3. A sign showing the exit
 4. A place where a person can sit **[Correct]**
 
-**Explanation:** A place to sit means a place suitable for someone to sit down.
+**Explanation:** 'A place to sit' means a place suitable for someone to sit down.
 
 **Choice feedback:**
 
-- **A place to buy a ticket:** To sit names sitting as the use of the place, not buying tickets.
+- **A place to buy a ticket:** 'To sit' names sitting as the use of the place, not buying tickets.
 - **A person sitting at the entrance:** The question asks for an available place, not a person already sitting there.
 - **A sign showing the exit:** A sign may give directions, but it is not the place to sit that the visitor requests.
-- **A place where a person can sit:** A place to sit means a place suitable for someone to sit down.
+- **A place where a person can sit:** 'A place to sit' means a place suitable for someone to sit down.
 
 **Decision:** replaced.
 
@@ -467,14 +467,14 @@ After eating, put your plate in the sink.
 3. Wash the plate before eating.
 4. Finish eating, then move the plate. **[Correct]**
 
-**Explanation:** After eating means once you have eaten; putting the plate in the sink comes next.
+**Explanation:** 'After eating' means once you have eaten; putting the plate in the sink comes next.
 
 **Choice feedback:**
 
 - **Put the plate away, then eat.:** After eating puts eating before moving the plate, not after it.
-- **Eat while washing the plate.:** After describes one action following another, not two actions happening together.
+- **Eat while washing the plate.:** 'After' describes one action following another, not two actions happening together.
 - **Wash the plate before eating.:** The instruction asks you to move the plate after eating, not wash it beforehand.
-- **Finish eating, then move the plate.:** After eating means once you have eaten; putting the plate in the sink comes next.
+- **Finish eating, then move the plate.:** 'After eating' means once you have eaten; putting the plate in the sink comes next.
 
 **Decision:** replaced.
 
@@ -499,12 +499,12 @@ The lunch included in the price is served at noon.
 3. Breakfast
 4. A drink only
 
-**Explanation:** Included in the price describes lunch; at noon gives its serving time.
+**Explanation:** 'Included in the price' describes lunch; 'at noon' gives its serving time.
 
 **Choice feedback:**
 
 - **Dinner:** Dinner is a different meal from lunch.
-- **Lunch:** Included in the price describes lunch; at noon gives its serving time.
+- **Lunch:** 'Included in the price' describes lunch; 'at noon' gives its serving time.
 - **Breakfast:** Breakfast is not the meal named in the sentence.
 - **A drink only:** The sentence includes lunch, not just a drink, in the price.
 
@@ -531,14 +531,14 @@ The table by the window is free.
 3. The table has no window beside it.
 4. The table near the window is available. **[Correct]**
 
-**Explanation:** By the window describes the table's location, and free means available here.
+**Explanation:** 'By the window' describes the table's location, and 'free' means available here.
 
 **Choice feedback:**
 
 - **The window beside the table is open.:** The sentence says the table is free; it does not say the window is open.
-- **The table is outside the window.:** By means beside or near, not outside through the window.
+- **The table is outside the window.:** 'By' means beside or near, not outside through the window.
 - **The table has no window beside it.:** By the window places the table near a window, not away from one.
-- **The table near the window is available.:** By the window describes the table's location, and free means available here.
+- **The table near the window is available.:** 'By the window' describes the table's location, and 'free' means available here.
 
 **Decision:** replaced.
 
@@ -631,7 +631,7 @@ When ready, press the green button.
 
 **Choice feedback:**
 
-- **Press the button before it is ready.:** The understood person getting ready is you, and when does not mean before.
+- **Press the button before it is ready.:** The understood person getting ready is you, and 'when' does not mean 'before'.
 - **Wait until the button turns red.:** The request names the green button and says nothing about waiting for red.
 - **Press the button while getting ready.:** When ready places readiness before the action, not partway through getting ready.
 - **Press the green button when you are ready.:** When ready is short for when you are ready in this instruction addressed to you.
@@ -727,13 +727,13 @@ The letter written by my landlord asks me to choose a time for the repair.
 3. The speaker
 4. The person choosing the repair time
 
-**Explanation:** By my landlord names the writer in the passive description written by my landlord.
+**Explanation:** 'By my landlord' names the writer in the passive description 'written by my landlord'.
 
 **Choice feedback:**
 
 - **The person doing the repair:** The repair worker is not identified as the writer of the letter.
-- **The speaker's landlord:** By my landlord names the writer in the passive description written by my landlord.
-- **The speaker:** Me is the recipient of the request; the landlord wrote the letter.
+- **The speaker's landlord:** 'By my landlord' names the writer in the passive description 'written by my landlord'.
+- **The speaker:** 'Me' is the recipient of the request; the landlord wrote the letter.
 - **The person choosing the repair time:** The speaker is asked to choose a time, but the writer is the landlord.
 
 **Decision:** replaced.
@@ -759,14 +759,14 @@ Tickets bought online cost less than tickets bought at the door.
 3. Tickets reserved but not yet paid for
 4. Tickets purchased through the website **[Correct]**
 
-**Explanation:** Bought online describes tickets purchased through the website, the cheaper group.
+**Explanation:** 'Bought online' describes tickets purchased through the website, the cheaper group.
 
 **Choice feedback:**
 
 - **Tickets sold near the entrance:** At the door identifies the more expensive group in the comparison.
 - **Tickets bought after the event:** The description concerns the place of purchase, not a purchase after the event.
-- **Tickets reserved but not yet paid for:** Bought refers to a purchase, not an unpaid reservation.
-- **Tickets purchased through the website:** Bought online describes tickets purchased through the website, the cheaper group.
+- **Tickets reserved but not yet paid for:** 'Bought' refers to a purchase, not an unpaid reservation.
+- **Tickets purchased through the website:** 'Bought online' describes tickets purchased through the website, the cheaper group.
 
 **Decision:** replaced.
 
@@ -791,13 +791,13 @@ We booked the room facing the sea, not the one facing the car park.
 3. The room with a view towards the sea **[Correct]**
 4. The room used by the car-park staff
 
-**Explanation:** Facing the sea describes the direction of the room's view.
+**Explanation:** 'Facing the sea' describes the direction of the room's view.
 
 **Choice feedback:**
 
-- **The room with a view of parked cars:** Facing the car park describes the room the speaker did not book.
+- **The room with a view of parked cars:** 'Facing the car park' describes the room the speaker did not book.
 - **The room between the sea and a shop:** Facing gives a direction, not a position between two places.
-- **The room with a view towards the sea:** Facing the sea describes the direction of the room's view.
+- **The room with a view towards the sea:** 'Facing the sea' describes the direction of the room's view.
 - **The room used by the car-park staff:** The sentence contrasts views, not who uses or maintains the room.
 
 **Decision:** replaced.
@@ -860,9 +860,9 @@ Before ___ the machine, read the short instruction card.
 **Choice feedback:**
 
 - **using:** Before can be followed by an ing form when the person is understood: before using the machine.
-- **use:** The base form use needs a subject after before in a full clause, such as before you use.
-- **used:** Used does not form the active instruction before you use the machine in this position.
-- **uses:** Uses is a finite verb and needs a subject, which is absent from this shortened phrase.
+- **use:** The base form 'use' needs a subject after 'before' in a full clause, such as 'before you use'.
+- **used:** 'Used' does not form the active instruction 'before you use the machine' in this position.
+- **uses:** 'Uses' is a finite verb and needs a subject, which is absent from this shortened phrase.
 
 **Decision:** replaced.
 
@@ -891,8 +891,8 @@ I saw a cyclist turning into our street.
 
 **Choice feedback:**
 
-- **A cyclist had already left the street.:** Turning into describes entry in progress, not a completed departure.
-- **A cyclist was waiting to enter the street.:** Waiting describes a pause before movement, whereas turning describes the movement itself.
+- **A cyclist had already left the street.:** 'Turning into' describes entry in progress, not a completed departure.
+- **A cyclist was waiting to enter the street.:** 'Waiting' describes a pause before movement, whereas 'turning' describes the movement itself.
 - **A cyclist was making a turn into the street.:** Turning presents the action the speaker saw as it was happening.
 - **A cyclist asked how to find the street.:** Asking for directions is not the action named after saw a cyclist.
 
@@ -919,12 +919,12 @@ The photos ___ at the farewell dinner are ready to view.
 3. to take
 4. take
 
-**Explanation:** Taken is the past participle of take and describes photos that someone took.
+**Explanation:** 'Taken' is the past participle of 'take' and describes photos that someone took.
 
 **Choice feedback:**
 
 - **taking:** Taking is active; the photos are the result of someone taking them, not the agent taking pictures.
-- **taken:** Taken is the past participle of take and describes photos that someone took.
+- **taken:** 'Taken' is the past participle of 'take' and describes photos that someone took.
 - **to take:** To take would describe photos still to be taken, not completed dinner photographs ready to view.
 - **take:** Take does not supply the required passive description after photos.
 
@@ -956,7 +956,7 @@ The note pinned beside the lift asks visitors to use the stairs.
 **Choice feedback:**
 
 - **Use the stairs:** Asks visitors to use the stairs gives the main request; pinned beside the lift only describes the note.
-- **Pin a note beside the stairs:** Pinned beside the lift describes the note's placement, not an action visitors should perform.
+- **Pin a note beside the stairs:** 'Pinned beside the lift' describes the note's placement, not an action visitors should perform.
 - **Use the lift to reach the next floor:** The message directs visitors to the stairs, not to travel in the lift.
 - **Wait for someone to repair the lift:** The sentence does not ask anyone to wait or state that repairs are underway.
 
@@ -1111,14 +1111,14 @@ Take the road leading to the station, not the one going towards the beach.
 3. The road that goes towards the beach
 4. The road that goes to the station **[Correct]**
 
-**Explanation:** Leading to the station describes the road's destination.
+**Explanation:** 'Leading to the station' describes the road's destination.
 
 **Choice feedback:**
 
 - **The road behind the beach:** Behind the beach gives a location, not the station destination named in the instruction.
 - **The road closed near the station:** The sentence says where the road leads, not that it is closed.
 - **The road that goes towards the beach:** The beach road is explicitly contrasted with the road the reader should take.
-- **The road that goes to the station:** Leading to the station describes the road's destination.
+- **The road that goes to the station:** 'Leading to the station' describes the road's destination.
 
 **Decision:** replaced.
 
@@ -1143,12 +1143,12 @@ The man injured in the accident called his family from the hospital.
 3. He called because his family was injured.
 4. He visited an injured family member.
 
-**Explanation:** Injured in the accident is a short passive description of the man who was hurt.
+**Explanation:** 'Injured in the accident' is a short passive description of the man who was hurt.
 
 **Choice feedback:**
 
-- **He caused an accident at the hospital.:** Injured describes what happened to the man, not who caused the accident or where it occurred.
-- **He was hurt in the accident.:** Injured in the accident is a short passive description of the man who was hurt.
+- **He caused an accident at the hospital.:** 'Injured' describes what happened to the man, not who caused the accident or where it occurred.
+- **He was hurt in the accident.:** 'Injured in the accident' is a short passive description of the man who was hurt.
 - **He called because his family was injured.:** The injured person is the man; his family receives the call.
 - **He visited an injured family member.:** The sentence reports his own injury and a telephone call, not a visit to another patient.
 
@@ -1175,13 +1175,13 @@ The next train to leave platform two goes to York.
 3. The train that will depart from platform two next **[Correct]**
 4. The train waiting at a different platform
 
-**Explanation:** To leave after next describes the train with the next scheduled departure from that platform.
+**Explanation:** 'To leave' after 'next' describes the train with the next scheduled departure from that platform.
 
 **Choice feedback:**
 
 - **The train that most recently left platform two:** Next to leave points forward to a departure, not back to the last departure.
 - **The train that arrives from York next:** Goes to York gives the destination, not the train's origin.
-- **The train that will depart from platform two next:** To leave after next describes the train with the next scheduled departure from that platform.
+- **The train that will depart from platform two next:** 'To leave' after 'next' describes the train with the next scheduled departure from that platform.
 - **The train waiting at a different platform:** Platform two identifies the departure location, not a different platform.
 
 **Decision:** replaced.
@@ -1207,11 +1207,11 @@ The packages ___ this morning are no longer on the shelf.
 3. collecting
 4. collect
 
-**Explanation:** Collected describes packages that someone picked up this morning, matching their absence from the shelf.
+**Explanation:** 'Collected' describes packages that someone picked up this morning, matching their absence from the shelf.
 
 **Choice feedback:**
 
-- **collected:** Collected describes packages that someone picked up this morning, matching their absence from the shelf.
+- **collected:** 'Collected' describes packages that someone picked up this morning, matching their absence from the shelf.
 - **to collect:** To collect presents a collection still to do, not packages already picked up.
 - **collecting:** Collecting is active and does not describe packages someone has picked up.
 - **collect:** Collect does not form the shortened passive description after packages.
@@ -1314,7 +1314,7 @@ The notices that were printed by the council contain the new collection dates.
 - **The notices printed about the council contain the new collection dates.:** About the council makes the council the topic of the notices, not their printer.
 - **The notices printed by the council contain the new collection dates.:** Removing that were retains the passive printed by the council and the original printing agent.
 - **The notices printed for the council contain the new collection dates.:** For the council identifies a beneficiary or intended user, not necessarily the printer.
-- **The notices sent to the council contain the new collection dates.:** Sent to names the recipient rather than the organization that printed the notices.
+- **The notices sent to the council contain the new collection dates.:** 'Sent to' names the recipient rather than the organization that printed the notices.
 
 **Decision:** replaced.
 
@@ -1377,8 +1377,8 @@ Complete the message: The furniture ___ will go into the new office.
 
 - **being delivered now:** Being delivered keeps passive meaning and marks the delivery as currently in progress.
 - **delivered last week:** Delivered last week presents a completed past delivery, not one in progress.
-- **to be delivered next month:** To be delivered next month describes a future plan, not an ongoing delivery.
-- **ordered but not yet delivered:** Not yet delivered describes delivery as still outstanding rather than happening now.
+- **to be delivered next month:** 'To be delivered next month' describes a future plan, not an ongoing delivery.
+- **ordered but not yet delivered:** 'Not yet delivered' describes delivery as still outstanding rather than happening now.
 
 **Decision:** replaced.
 
@@ -1435,11 +1435,11 @@ Priya checked the attachments. Then she sent the email to Dan.
 3. After sending the email to Dan, Priya checked the attachments.
 4. After Dan checked the attachments, Priya sent the email.
 
-**Explanation:** Priya is the main subject and the understood subject of checking, preserving her two actions in order.
+**Explanation:** 'Priya' is the main subject and the understood subject of 'checking', preserving her two actions in order.
 
 **Choice feedback:**
 
-- **After checking the attachments, Priya sent the email to Dan.:** Priya is the main subject and the understood subject of checking, preserving her two actions in order.
+- **After checking the attachments, Priya sent the email to Dan.:** 'Priya' is the main subject and the understood subject of 'checking', preserving her two actions in order.
 - **After checking the attachments, Dan sent the email to Priya.:** The main subject Dan becomes the understood checker and sender, reversing both roles.
 - **After sending the email to Dan, Priya checked the attachments.:** This puts sending before checking, reversing the sequence.
 - **After Dan checked the attachments, Priya sent the email.:** This gives the checking to Dan, although Priya performed it in the original.
@@ -1531,14 +1531,14 @@ Not knowing the address, Elena called her host for directions.
 3. Elena refused to give her host the address.
 4. Elena did not know where she needed to go. **[Correct]**
 
-**Explanation:** Not knowing the address describes Elena's missing information and explains her request for directions.
+**Explanation:** 'Not knowing the address' describes Elena's missing information and explains her request for directions.
 
 **Choice feedback:**
 
 - **Elena's host did not know the address.:** The opening phrase has Elena as its understood subject, not her host.
 - **Elena called to tell her host the address.:** Elena is seeking directions because she lacks the address; she is not supplying it.
-- **Elena refused to give her host the address.:** Not knowing describes lack of information, not unwillingness to share known information.
-- **Elena did not know where she needed to go.:** Not knowing the address describes Elena's missing information and explains her request for directions.
+- **Elena refused to give her host the address.:** 'Not knowing' describes lack of information, not unwillingness to share known information.
+- **Elena did not know where she needed to go.:** 'Not knowing the address' describes Elena's missing information and explains her request for directions.
 
 **Decision:** replaced.
 
@@ -1691,14 +1691,14 @@ There is nobody waiting outside, so we can close the desk.
 3. No one inside is allowed to wait outside.
 4. No one is waiting outside. **[Correct]**
 
-**Explanation:** Nobody waiting outside means that no person is currently waiting there.
+**Explanation:** 'Nobody waiting outside' means that no person is currently waiting there.
 
 **Choice feedback:**
 
 - **Everyone waiting outside has left the desk open.:** The sentence denies an outside waiting group; it does not report that such a group left anything open.
 - **Someone outside is waiting for the desk to close.:** Someone waiting contradicts nobody waiting.
 - **No one inside is allowed to wait outside.:** The statement concerns whether people are waiting, not permission for people inside to wait elsewhere.
-- **No one is waiting outside.:** Nobody waiting outside means that no person is currently waiting there.
+- **No one is waiting outside.:** 'Nobody waiting outside' means that no person is currently waiting there.
 
 **Decision:** replaced.
 
@@ -1794,7 +1794,7 @@ Put the forms to be signed in the manager's tray.
 - **Put the forms the manager has already signed there.:** 'To be signed' presents signing as still to happen, not completed.
 - **Put the forms awaiting a signature there.:** 'To be signed' is a passive infinitive describing a task still required for those forms.
 - **Put the forms containing the manager's signature there.:** An existing signature is not what the future passive description identifies.
-- **Put the forms the manager refused to sign there.:** Awaiting signature does not mean the manager has refused to sign.
+- **Put the forms the manager refused to sign there.:** 'Awaiting signature' does not mean the manager has refused to sign.
 
 **Decision:** replaced.
 
@@ -1883,14 +1883,14 @@ Keep both the description of the jacket and the main statement that it belongs t
 3. The jacket hanging beside the stairs belongs to me. **[Correct]**
 4. The jacket which hanging beside the stairs belongs to me.
 
-**Explanation:** Hanging beside the stairs describes the jacket; belongs supplies the main statement.
+**Explanation:** 'Hanging beside the stairs' describes the jacket; 'belongs' supplies the main statement.
 
 **Choice feedback:**
 
 - **The jacket hanging beside the stairs belonging to me.:** Hanging and belonging are both non-finite forms here, leaving the sentence without a finite main verb.
 - **The jacket hangs beside the stairs belongs to me.:** Hangs and belongs are two finite verbs without a clause link between them.
-- **The jacket hanging beside the stairs belongs to me.:** Hanging beside the stairs describes the jacket; belongs supplies the main statement.
-- **The jacket which hanging beside the stairs belongs to me.:** A full which clause would need is hanging; which cannot stand directly before hanging alone here.
+- **The jacket hanging beside the stairs belongs to me.:** 'Hanging beside the stairs' describes the jacket; 'belongs' supplies the main statement.
+- **The jacket which hanging beside the stairs belongs to me.:** A full 'which' clause would need 'is hanging'; 'which' cannot stand directly before 'hanging' alone here.
 
 **Decision:** replaced.
 
@@ -1951,14 +1951,14 @@ Having completed the stock check, Mara turned her attention to the delivery sche
 3. Mara planned to complete the stock check after reviewing the schedule.
 4. Mara finished the stock check before considering the schedule. **[Correct]**
 
-**Explanation:** The perfect participle having completed places the completed stock check before Mara's change of focus.
+**Explanation:** The perfect participle 'having completed' places the completed stock check before Mara's change of focus.
 
 **Choice feedback:**
 
 - **Mara considered the schedule while checking the stock.:** Having completed presents the check as finished before the main action, not simultaneous with it.
 - **Mara checked the stock because the schedule required it.:** The phrase gives an earlier completed action, not a requirement imposed by the schedule.
 - **Mara planned to complete the stock check after reviewing the schedule.:** This reverses the order and turns a completed check into a future plan.
-- **Mara finished the stock check before considering the schedule.:** The perfect participle having completed places the completed stock check before Mara's change of focus.
+- **Mara finished the stock check before considering the schedule.:** The perfect participle 'having completed' places the completed stock check before Mara's change of focus.
 
 **Decision:** replaced.
 
@@ -2019,7 +2019,7 @@ Please do not disturb the candidate ___ in room four.
 
 **Choice feedback:**
 
-- **interviewed earlier:** Interviewed earlier describes a completed interview, not one currently in progress.
+- **interviewed earlier:** 'Interviewed earlier' describes a completed interview, not one currently in progress.
 - **to be interviewed tomorrow:** To be interviewed tomorrow identifies a future appointment rather than a present interview.
 - **selected for interview:** Selection establishes an invitation or eligibility for interview, not that the interview is already underway.
 - **being interviewed:** Being interviewed presents the candidate as receiving the interview in progress at the moment of the request.
@@ -2053,7 +2053,7 @@ Contracts that tenants have signed but the office has not yet countersigned must
 
 - **Contracts signed by tenants and awaiting the office's countersignature must be held for checking.:** Signed by tenants retains the completed signature, while awaiting keeps the office's countersignature outstanding.
 - **Contracts countersigned by the office and awaiting tenants' signatures must be held for checking.:** This reverses which signature has been supplied and which is still outstanding.
-- **Contracts signed by tenants but rejected by the office must be held for checking.:** Not yet countersigned describes an unfinished stage, not a rejection by the office.
+- **Contracts signed by tenants but rejected by the office must be held for checking.:** 'Not yet countersigned' describes an unfinished stage, not a rejection by the office.
 - **Contracts signed by both tenants and the office must be held for checking.:** Both signatures are complete in this version, losing the distinction that identifies the contracts to hold.
 
 **Decision:** replaced.
@@ -2083,7 +2083,7 @@ Wanting to avoid a lengthy exchange, the designer sent a brief annotated sketch.
 
 **Choice feedback:**
 
-- **The sketch successfully prevented further discussion.:** Wanting expresses an intention, not evidence that the sketch achieved it.
+- **The sketch successfully prevented further discussion.:** 'Wanting' expresses an intention, not evidence that the sketch achieved it.
 - **The recipient had requested a lengthy explanation.:** The sentence does not report the recipient's request or preferred length.
 - **The designer regretted sending a short sketch.:** Wanting explains the choice at the time; it does not report later regret.
 - **The designer intended to keep the exchange short.:** The participle phrase gives the designer's motive: avoiding a lengthy exchange.
@@ -2143,14 +2143,14 @@ With the deadline approaching, the team reduced the scope of the exhibition.
 3. The exhibition's opening date had been postponed.
 4. The team had brought the deadline forward.
 
-**Explanation:** Deadline is the explicit subject of approaching, describing time drawing near.
+**Explanation:** 'Deadline' is the explicit subject of 'approaching', describing time drawing near.
 
 **Choice feedback:**
 
 - **The team had reached the exhibition venue.:** Approaching belongs to deadline in the with clause, not to the team's physical movement.
-- **The deadline was getting closer.:** Deadline is the explicit subject of approaching, describing time drawing near.
+- **The deadline was getting closer.:** 'Deadline' is the explicit subject of 'approaching', describing time drawing near.
 - **The exhibition's opening date had been postponed.:** A deadline drawing near does not mean that the opening date was postponed.
-- **The team had brought the deadline forward.:** Approaching describes the passage of time towards a deadline, not a decision to change it.
+- **The team had brought the deadline forward.:** 'Approaching' describes the passage of time towards a deadline, not a decision to change it.
 
 **Decision:** replaced.
 
@@ -2179,7 +2179,7 @@ With the floor repaired, the studio reopened yesterday for evening classes.
 
 **Choice feedback:**
 
-- **The studio reopened to begin repairing the floor.:** Repaired describes the achieved state before reopening, not the purpose of opening for repairs.
+- **The studio reopened to begin repairing the floor.:** 'Repaired' describes the achieved state before reopening, not the purpose of opening for repairs.
 - **The repaired floor made it possible for the studio to reopen.:** With the floor repaired presents a completed condition enabling the reopening reported in the main clause.
 - **The students repaired the floor during evening classes.:** No repairers are named; the phrase does not attribute the work to students during classes.
 - **The floor was still being repaired, so the studio remained closed.:** Reopened yesterday conflicts with remained closed, and repaired does not describe ongoing work here.
@@ -2213,7 +2213,7 @@ When folded, the display fits inside a standard storage box.
 
 - **The display was folded because it was already inside the box.:** The description states a state-dependent property, not a past reason for folding the display.
 - **The box must be folded before it can hold the display.:** The understood folded object is the display, not the box.
-- **The display has remained folded since it was delivered.:** The reduced when clause does not establish a delivery history or a continuing folded state.
+- **The display has remained folded since it was delivered.:** The reduced 'when' clause does not establish a delivery history or a continuing folded state.
 - **The display fits inside the box in its folded state.:** 'When folded' means 'when the display is folded'; that state allows it to fit inside the box.
 
 **Decision:** replaced.
@@ -2307,7 +2307,7 @@ To be eligible for the exhibition, applicants must submit a portfolio of recent 
 
 **Choice feedback:**
 
-- **To be eligible for the exhibition, a portfolio must be submitted by applicants.:** The main grammatical subject is portfolio, leaving the intended human subject of eligible unclear.
+- **To be eligible for the exhibition, a portfolio must be submitted by applicants.:** The main grammatical subject is 'portfolio', leaving the intended human subject of 'eligible' unclear.
 - **For applicants to qualify for the exhibition, they must submit a portfolio.:** For applicants makes the infinitive's subject explicit and keeps submitting a portfolio as their qualifying requirement.
 - **For a portfolio to be accepted, it must include recent work.:** This states a condition for a portfolio's acceptance rather than the applicants' eligibility requirement.
 - **For applicants to submit a portfolio, the exhibition must first accept them.:** This reverses the dependency, making acceptance a prerequisite for submission.
@@ -2399,13 +2399,13 @@ The architect sent the residents a revised drawing, hoping to resolve their conc
 3. The architect hoped the drawing would resolve the residents' concerns. **[Correct]**
 4. The meeting organizers hoped the residents would revise the drawing.
 
-**Explanation:** Hoping describes the architect, the person performing the main action of sending the drawing.
+**Explanation:** 'Hoping' describes the architect, the person performing the main action of sending the drawing.
 
 **Choice feedback:**
 
 - **The residents hoped to send the architect their concerns.:** The residents receive the drawing; they are not the understood subject of hoping here.
 - **The residents had already resolved their concerns before receiving the drawing.:** A hope to resolve concerns does not establish that those concerns were already resolved.
-- **The architect hoped the drawing would resolve the residents' concerns.:** Hoping describes the architect, the person performing the main action of sending the drawing.
+- **The architect hoped the drawing would resolve the residents' concerns.:** 'Hoping' describes the architect, the person performing the main action of sending the drawing.
 - **The meeting organizers hoped the residents would revise the drawing.:** No separate meeting organizers are introduced as the people hoping for a revision.
 
 **Decision:** replaced.
@@ -2435,8 +2435,8 @@ The caretaker found the side gate locked and used the main entrance instead.
 
 **Choice feedback:**
 
-- **The caretaker found the person who had locked the gate.:** Found the gate locked describes the gate's state, not the identity of the person responsible.
-- **The caretaker locked the gate before finding the main entrance.:** Locked is a description of the gate when found, not a finite action performed by the caretaker.
+- **The caretaker found the person who had locked the gate.:** 'Found the gate locked' describes the gate's state, not the identity of the person responsible.
+- **The caretaker locked the gate before finding the main entrance.:** 'Locked' is a description of the gate when found, not a finite action performed by the caretaker.
 - **The caretaker discovered that the side gate was in a locked state.:** The object gate has the state locked; the later choice of another entrance responds to that discovery.
 - **The caretaker discovered that the main entrance needed locking.:** The locked state belongs to the side gate, not to the main entrance used afterward.
 
@@ -2531,7 +2531,7 @@ In 1986, Leena became the first woman to lead the research station.
 
 **Choice feedback:**
 
-- **Leena planned in 1986 to lead the station at a later date.:** An infinitive after first does not itself make the event future; became locates the achieved role in 1986.
+- **Leena planned in 1986 to lead the station at a later date.:** An infinitive after 'first' does not itself make the event future; 'became' locates the achieved role in 1986.
 - **Leena was the first woman to apply but was not appointed.:** The phrase says first woman to lead, not first to apply unsuccessfully.
 - **Leena actually took the leadership role in 1986.:** Became places the achievement in the past; to lead identifies the leadership achievement rather than a future plan.
 - **Leena was already leading the station before 1986.:** Became in 1986 marks entry into the role then, not an earlier period of leadership.
@@ -2627,11 +2627,11 @@ Having worked with the archive for several years, the curator understood why its
 3. The curator understood the problem before gaining experience with the archive.
 4. The curator's years of experience prove that the system could not be replaced.
 
-**Explanation:** Having worked places relevant experience before the main-clause understanding, but it does not by itself say the association had ended.
+**Explanation:** 'Having worked' places relevant experience before the main-clause understanding, but it does not by itself say the association had ended.
 
 **Choice feedback:**
 
-- **The curator's experience preceded the understanding; continued employment is not ruled out.:** Having worked places relevant experience before the main-clause understanding, but it does not by itself say the association had ended.
+- **The curator's experience preceded the understanding; continued employment is not ruled out.:** 'Having worked' places relevant experience before the main-clause understanding, but it does not by itself say the association had ended.
 - **The curator had stopped working with the archive before understanding the problem.:** Perfect experience does not require the curator to have left the archive.
 - **The curator understood the problem before gaining experience with the archive.:** This reverses the temporal relationship supplied by having worked.
 - **The curator's years of experience prove that the system could not be replaced.:** Understood why replacement was difficult does not establish impossibility of replacement.
@@ -2729,7 +2729,7 @@ The final witness having withdrawn, the panel postponed the hearing.
 
 - **The final witness postponed the hearing after the panel withdrew.:** This swaps the witness's withdrawal and the panel's postponement.
 - **After the final witness withdrew, the panel postponed the hearing.:** The opening clause has its own subject, the final witness, while panel remains the actor of postponed.
-- **The panel withdrew the final witness before attending the hearing.:** Having withdrawn is active with witness as its subject; it does not say the panel removed the witness.
+- **The panel withdrew the final witness before attending the hearing.:** 'Having withdrawn' is active with 'witness' as its subject; it does not say the panel removed the witness.
 - **The panel postponed the hearing so that the final witness could withdraw.:** The withdrawal is presented as already having happened, not a purpose for the postponement.
 
 **Decision:** replaced.
@@ -2979,14 +2979,14 @@ The musician reported to have left the orchestra is still listed on its website.
 3. The website confirms that the musician has already left the orchestra.
 4. The musician reported a future departure by someone else in the orchestra.
 
-**Explanation:** Reported to have left uses the perfect infinitive for a departure represented as earlier than the reporting; still listed contrasts with that report.
+**Explanation:** 'Reported to have left' uses the perfect infinitive for a departure represented as earlier than the reporting; 'still listed' contrasts with that report.
 
 **Choice feedback:**
 
 - **The report predicts that the musician will leave after the website is updated.:** To have left is retrospective, not a prediction about leaving after a future update.
-- **A report places the departure before the report, while the website still lists the musician.:** Reported to have left uses the perfect infinitive for a departure represented as earlier than the reporting; still listed contrasts with that report.
+- **A report places the departure before the report, while the website still lists the musician.:** 'Reported to have left' uses the perfect infinitive for a departure represented as earlier than the reporting; 'still listed' contrasts with that report.
 - **The website confirms that the musician has already left the orchestra.:** The website's listing is the contrasting fact, not confirmation of the reported departure.
-- **The musician reported a future departure by someone else in the orchestra.:** Reported is passive here; the musician is the reported leaver, not the speaker reporting someone else's plan.
+- **The musician reported a future departure by someone else in the orchestra.:** 'Reported' is passive here; the musician is the reported leaver, not the speaker reporting someone else's plan.
 
 **Decision:** replaced.
 
@@ -3050,7 +3050,7 @@ Not having been consulted about the new route, residents questioned how the deci
 - **Residents refused to take part in a consultation offered to them.:** Not having been consulted reports an event that did not occur, not an invitation the residents refused.
 - **Residents had not been consulted before they questioned the decision-making process.:** The negative perfect passive presents lack of consultation before their questioning of the process.
 - **Residents consulted the planners but refused to accept their recommendation.:** This adds consultation and refusal that the opening phrase does not report.
-- **Residents asked for a consultation after approving the decision-making process.:** Questioned expresses doubt or inquiry, not approval of the process.
+- **Residents asked for a consultation after approving the decision-making process.:** 'Questioned' expresses doubt or inquiry, not approval of the process.
 
 **Decision:** replaced.
 
@@ -3075,14 +3075,14 @@ While broadly supportive of the festival, local traders objected to closing the 
 3. The traders withdrew their support for the festival as soon as the closure was announced.
 4. The traders supported the festival in general but opposed the week-long closure. **[Correct]**
 
-**Explanation:** While broadly supportive means although the traders were supportive overall; the main clause narrows their objection to the closure.
+**Explanation:** 'While broadly supportive' means although the traders were supportive overall; the main clause narrows their objection to the closure.
 
 **Choice feedback:**
 
-- **The festival organizers supported closing the square despite traders' opposition.:** The supportive subject is local traders, not the festival organizers.
+- **The festival organizers supported closing the square despite traders' opposition.:** The supportive subject is 'local traders', not the festival organizers.
 - **The traders supported the festival only while the market square was closed.:** While is concessive here, not a limit on the time during which traders offered support.
 - **The traders withdrew their support for the festival as soon as the closure was announced.:** A specific objection does not establish that broad support was withdrawn.
-- **The traders supported the festival in general but opposed the week-long closure.:** While broadly supportive means although the traders were supportive overall; the main clause narrows their objection to the closure.
+- **The traders supported the festival in general but opposed the week-long closure.:** 'While broadly supportive' means although the traders were supportive overall; the main clause narrows their objection to the closure.
 
 **Decision:** replaced.
 
@@ -3208,7 +3208,7 @@ Reading the draft on the train, Sora noticed that two sections gave different da
 **Choice feedback:**
 
 - **While reading the draft on the train, Sora noticed the different dates.:** While makes the overlapping reading explicit while leaving completion unstated.
-- **Having finished the draft on the train, Sora noticed the different dates.:** Having finished adds completion that the simple participle background does not state.
+- **Having finished the draft on the train, Sora noticed the different dates.:** 'Having finished' adds completion that the simple participle background does not state.
 - **Before reading the draft, Sora noticed its two conflicting dates.:** Before reading moves the discovery ahead of the activity during which it occurred.
 - **To finish reading the draft, Sora changed the conflicting dates.:** This changes noticing into editing and introduces a purpose not in the original.
 
@@ -3719,14 +3719,14 @@ His objections still unaddressed, Malik signed the meeting record but requested 
 3. The committee's objections to Malik's signature had prevented agreement on the minutes.
 4. Malik signed while his objections remained unresolved and sought a record of disagreement. **[Correct]**
 
-**Explanation:** His objections is the absolute's subject, and still unaddressed maintains their status alongside the qualified signing action.
+**Explanation:** 'His objections' is the absolute's subject, and 'still unaddressed' maintains their status alongside the qualified signing action.
 
 **Choice feedback:**
 
 - **Malik signed after the committee had answered his objections to his satisfaction.:** Still unaddressed keeps the objections unanswered, not resolved to Malik's satisfaction.
 - **The signature proves that Malik withdrew his objections before requesting a note.:** The absolute and the request to record dissent do not support withdrawal of the objections.
 - **The committee's objections to Malik's signature had prevented agreement on the minutes.:** His identifies Malik's objections, not the committee's objections to him.
-- **Malik signed while his objections remained unresolved and sought a record of disagreement.:** His objections is the absolute's subject, and still unaddressed maintains their status alongside the qualified signing action.
+- **Malik signed while his objections remained unresolved and sought a record of disagreement.:** 'His objections' is the absolute's subject, and 'still unaddressed' maintains their status alongside the qualified signing action.
 
 **Decision:** replaced.
 
@@ -3783,12 +3783,12 @@ To compare the samples, the technician must first thaw them for the researcher.
 3. Having compared the samples, the researcher must ask the technician to thaw them.
 4. For the technician to compare the samples, the researcher must first thaw them.
 
-**Explanation:** For the researcher explicitly assigns the infinitive's subject while technician remains the subject of must thaw.
+**Explanation:** 'For the researcher' explicitly assigns the infinitive's subject while 'technician' remains the subject of 'must thaw'.
 
 **Choice feedback:**
 
-- **For the researcher to compare the samples, the technician must first thaw them.:** For the researcher explicitly assigns the infinitive's subject while technician remains the subject of must thaw.
-- **To compare the samples, the technician must thaw them before asking the researcher to help.:** The purpose infinitive still has technician as its natural understood subject; help from the researcher does not transfer the comparing role.
+- **For the researcher to compare the samples, the technician must first thaw them.:** 'For the researcher' explicitly assigns the infinitive's subject while 'technician' remains the subject of 'must thaw'.
+- **To compare the samples, the technician must thaw them before asking the researcher to help.:** The purpose infinitive still has 'technician' as its natural understood subject; help from the researcher does not transfer the comparing role.
 - **Having compared the samples, the researcher must ask the technician to thaw them.:** This places comparison before thawing and makes it completed rather than the intended subsequent task.
 - **For the technician to compare the samples, the researcher must first thaw them.:** This exchanges the intended comparator and the person performing the thawing.
 

@@ -47,7 +47,7 @@
       "answer": "two small bags",
       "explanation": "'Bags' is plural, but its adjective stays 'small'.",
       "rationales": {
-        "two smalls bags": "English adjectives do not take a plural -s before a plural noun.",
+        "two smalls bags": "English adjectives do not take a plural '-s' before a plural noun.",
         "two bags small": "The usual adjective belongs before 'bags' in this noun phrase.",
         "two small bags": "'Bags' is plural, but its adjective stays 'small'.",
         "two small bag": "After 'two', the countable noun needs plural 'bags'."
@@ -939,7 +939,7 @@
       "setupText": "Compare 'We receive a daily report' and 'We receive a report daily.'",
       "taskText": "Which statement describes the use of 'daily' correctly?",
       "options": [
-        "It describes the report in both sentences because it ends in ly.",
+        "It describes the report in both sentences because it ends in 'ly'.",
         "It describes the receiving schedule only in the first sentence.",
         "It describes the report in the first sentence and the receiving schedule in the second.",
         "It is an adjective in the first, but would need a different spelling to be an adverb in the second."
@@ -947,7 +947,7 @@
       "answer": "It describes the report in the first sentence and the receiving schedule in the second.",
       "explanation": "The same form can be an adjective before a noun or an adverb giving frequency after the verb phrase.",
       "rationales": {
-        "It describes the report in both sentences because it ends in ly.": "An -ly ending does not determine the function; position and meaning differ here.",
+        "It describes the report in both sentences because it ends in 'ly'.": "An '-ly' ending does not determine the function; position and meaning differ here.",
         "It describes the receiving schedule only in the first sentence.": "The second use directly tells how often the receiving happens.",
         "It describes the report in the first sentence and the receiving schedule in the second.": "The same form can be an adjective before a noun or an adverb giving frequency after the verb phrase.",
         "It is an adjective in the first, but would need a different spelling to be an adverb in the second.": "No spelling change is needed: 'daily' is an established form for both functions."
@@ -978,7 +978,7 @@
       "answer": "The train is often late.",
       "explanation": "A frequency adverb normally comes after main-verb 'be' and before the adjective.",
       "rationales": {
-        "The train often late is.": "The be verb normally precedes the frequency adverb and the adjective in this neutral statement.",
+        "The train often late is.": "The 'be' verb normally precedes the frequency adverb and the adjective in this neutral statement.",
         "Often late the train is.": "This fronted order is marked, not the requested ordinary neutral sentence.",
         "The train is late often.": "This is possible in speech with a different rhythm, but the ordinary mid-position requested is after 'is'.",
         "The train is often late.": "A frequency adverb normally comes after main-verb 'be' and before the adjective."
@@ -1312,17 +1312,17 @@
       "taskText": "Which distinction between the two forms is accurate?",
       "options": [
         "Both forms say the photographer should move nearer.",
-        "Closely gives distance; close describes attention.",
-        "Close gives physical distance; closely describes attention.",
+        "'Closely' gives distance; 'close' describes attention.",
+        "'Close' gives physical distance; 'closely' describes attention.",
         "Both forms describe how little time the instructions take."
       ],
-      "answer": "Close gives physical distance; closely describes attention.",
+      "answer": "'Close' gives physical distance; 'closely' describes attention.",
       "explanation": "The flat adverb 'close' locates someone nearby, while 'closely' with listening means attentively.",
       "rationales": {
         "Both forms say the photographer should move nearer.": "The first concerns where the listener stands; the second concerns how the listener listens.",
-        "Closely gives distance; close describes attention.": "This reverses the two uses in the instructions.",
+        "'Closely' gives distance; 'close' describes attention.": "This reverses the two uses in the instructions.",
         "Both forms describe how little time the instructions take.": "Neither form gives a duration in this context.",
-        "Close gives physical distance; closely describes attention.": "The flat adverb 'close' locates someone nearby, while 'closely' with listening means attentively."
+        "'Close' gives physical distance; 'closely' describes attention.": "The flat adverb 'close' locates someone nearby, while 'closely' with listening means attentively."
       },
       "audit": {
         "status": "reviewed",
@@ -2026,14 +2026,14 @@
       "options": [
         "The approval has reservations; the applicant has strong relevant credentials.",
         "Both describe approval given by a person with professional credentials.",
-        "The applicant's suitability is doubtful because qualified means approval with reservations.",
+        "The applicant's suitability is doubtful because 'qualified' means approval with reservations.",
         "Both say a final decision has been postponed until more information arrives."
       ],
       "answer": "The approval has reservations; the applicant has strong relevant credentials.",
       "explanation": "Before 'approval', 'qualified' means limited by conditions or reservations; with 'highly' and 'for the post', it describes a high level of relevant qualifications.",
       "rationales": {
         "Both describe approval given by a person with professional credentials.": "The first use limits the approval itself; it does not specify the reviewer's credentials.",
-        "The applicant's suitability is doubtful because qualified means approval with reservations.": "The reservations sense in 'qualified approval' does not carry over to 'highly qualified for the post'.",
+        "The applicant's suitability is doubtful because 'qualified' means approval with reservations.": "The reservations sense in 'qualified approval' does not carry over to 'highly qualified for the post'.",
         "The approval has reservations; the applicant has strong relevant credentials.": "Before 'approval', 'qualified' means limited by conditions or reservations; with 'highly' and 'for the post', it describes a high level of relevant qualifications.",
         "Both say a final decision has been postponed until more information arrives.": "Neither expression necessarily reports postponement; limited approval and strong qualifications can both be stated now."
       },
@@ -2149,7 +2149,7 @@
       "setupText": "Compare two phrases identifying the sole survivor among the witnesses: 'the only witness alive' and 'the only living witness'.",
       "taskText": "Which analysis correctly describes these alternatives?",
       "options": [
-        "Only the first is grammatical because living cannot describe a person before a noun.",
+        "Only the first is grammatical because 'living' cannot describe a person before a noun.",
         "Both are grammatical, but only living guarantees that the witness is conscious.",
         "Only the second is grammatical because every adjective must come before its noun.",
         "Both identify the sole survivor, using different adjective positions."
@@ -2157,7 +2157,7 @@
       "answer": "Both identify the sole survivor, using different adjective positions.",
       "explanation": "'Alive' commonly follows the noun in this construction, while 'living' can precede it; both retain the survival meaning.",
       "rationales": {
-        "Only the first is grammatical because living cannot describe a person before a noun.": "'Living witness' is a normal noun phrase; a participial adjective can occur before this noun.",
+        "Only the first is grammatical because 'living' cannot describe a person before a noun.": "'Living witness' is a normal noun phrase; a participial adjective can occur before this noun.",
         "Both are grammatical, but only living guarantees that the witness is conscious.": "Neither being alive nor being living guarantees consciousness.",
         "Both identify the sole survivor, using different adjective positions.": "'Alive' commonly follows the noun in this construction, while 'living' can precede it; both retain the survival meaning.",
         "Only the second is grammatical because every adjective must come before its noun.": "Adjectives can follow nouns in several constructions, including 'the only witness alive'."
@@ -2243,16 +2243,16 @@
       "setupText": "Compare 'The speech moved her deeply' with 'The crew moved deep into the tunnel.'",
       "taskText": "Which distinction is supported by these uses?",
       "options": [
-        "Deeply describes an emotional effect; deep gives extent of movement into a place.",
+        "'Deeply' describes an emotional effect; 'deep' gives extent of movement into a place.",
         "Both describe a movement downwards caused by physical force.",
         "The first describes distance; the second describes the crew's feelings.",
         "Both describe a slow manner of movement."
       ],
-      "answer": "Deeply describes an emotional effect; deep gives extent of movement into a place.",
+      "answer": "'Deeply' describes an emotional effect; 'deep' gives extent of movement into a place.",
       "explanation": "'Moved deeply' can mean strongly affected emotionally, while 'deep into' specifies penetration into a location.",
       "rationales": {
         "Both describe a movement downwards caused by physical force.": "The speech produces an emotional response, not physical downward motion.",
-        "Deeply describes an emotional effect; deep gives extent of movement into a place.": "'Moved deeply' can mean strongly affected emotionally, while 'deep into' specifies penetration into a location.",
+        "'Deeply' describes an emotional effect; 'deep' gives extent of movement into a place.": "'Moved deeply' can mean strongly affected emotionally, while 'deep into' specifies penetration into a location.",
         "The first describes distance; the second describes the crew's feelings.": "This reverses the two meanings selected by their contexts.",
         "Both describe a slow manner of movement.": "Neither expression specifies speed; they concern emotional intensity and spatial extent."
       },
@@ -2367,17 +2367,17 @@
       "setupText": "Compare 'Send the report direct to the editor' and 'Send the report directly to the editor.' The intended route bypasses intermediary offices.",
       "taskText": "Which usage judgment is accurate for this intended route?",
       "options": [
-        "Only directly is possible because every word modifying a verb must end in ly.",
+        "Only 'directly' is possible because every word modifying a verb must end in 'ly'.",
         "Both forms can express the intended no-intermediary route.",
-        "Only direct is possible because directly can refer only to time.",
+        "Only 'direct' is possible because 'directly' can refer only to time.",
         "Both are grammatical, but direct necessarily promises faster delivery."
       ],
       "answer": "Both forms can express the intended no-intermediary route.",
       "explanation": "'Direct' and 'directly' can both describe sending the report to the editor without an intermediary.",
       "rationales": {
-        "Only directly is possible because every word modifying a verb must end in ly.": "English has established flat adverbs, including 'direct' in descriptions of routing.",
+        "Only 'directly' is possible because every word modifying a verb must end in 'ly'.": "English has established flat adverbs, including 'direct' in descriptions of routing.",
         "Both forms can express the intended no-intermediary route.": "'Direct' and 'directly' can both describe sending the report to the editor without an intermediary.",
-        "Only direct is possible because directly can refer only to time.": "'Directly' can describe a route or connection as well as having time-related senses.",
+        "Only 'direct' is possible because 'directly' can refer only to time.": "'Directly' can describe a route or connection as well as having time-related senses.",
         "Both are grammatical, but direct necessarily promises faster delivery.": "Neither form by itself compares delivery times."
       },
       "audit": {
@@ -2399,16 +2399,16 @@
       "taskText": "Which distinction between the two expressions is accurate?",
       "options": [
         "Both assert that the plan is completely ready for use.",
-        "The first describes usefulness; the second means almost speaking.",
-        "The first means almost; the second introduces a practical viewpoint.",
+        "The first describes usefulness; the second means 'almost' speaking.",
+        "The first means 'almost'; the second introduces a practical viewpoint.",
         "Both describe the speaker's pronunciation rather than the plan."
       ],
-      "answer": "The first means almost; the second introduces a practical viewpoint.",
+      "answer": "The first means 'almost'; the second introduces a practical viewpoint.",
       "explanation": "Before 'complete', 'practically' is a degree adverb; in 'practically speaking', it frames the basis of the whole assessment.",
       "rationales": {
         "Both assert that the plan is completely ready for use.": "The first stops short of completeness, and the second explicitly denies present usability.",
-        "The first describes usefulness; the second means almost speaking.": "This reverses or misassigns the conventional senses of the two expressions.",
-        "The first means almost; the second introduces a practical viewpoint.": "Before 'complete', 'practically' is a degree adverb; in 'practically speaking', it frames the basis of the whole assessment.",
+        "The first describes usefulness; the second means 'almost' speaking.": "This reverses or misassigns the conventional senses of the two expressions.",
+        "The first means 'almost'; the second introduces a practical viewpoint.": "Before 'complete', 'practically' is a degree adverb; in 'practically speaking', it frames the basis of the whole assessment.",
         "Both describe the speaker's pronunciation rather than the plan.": "Only the fixed viewpoint phrase contains 'speaking', and it does not evaluate pronunciation."
       },
       "audit": {
@@ -2493,16 +2493,16 @@
       "options": [
         "Both describe the workers as clean while they acted.",
         "Both guarantee that the surface had no dirt afterwards.",
-        "Clean gives the resulting state; cleanly describes the manner of cutting.",
-        "Cleanly gives a resulting state, while clean means they wiped without difficulty."
+        "'Clean' gives the resulting state; 'cleanly' describes the manner of cutting.",
+        "'Cleanly' gives a resulting state, while 'clean' means they wiped without difficulty."
       ],
-      "answer": "Clean gives the resulting state; cleanly describes the manner of cutting.",
+      "answer": "'Clean' gives the resulting state; 'cleanly' describes the manner of cutting.",
       "explanation": "The adjective is an object-result complement after 'wiped'; the adverb modifies the action 'cut'.",
       "rationales": {
         "Both describe the workers as clean while they acted.": "Neither modifier describes the workers; one describes the surface and the other the cutting.",
         "Both guarantee that the surface had no dirt afterwards.": "'Cleanly' can describe a neat cut without asserting a dirt-free surface.",
-        "Clean gives the resulting state; cleanly describes the manner of cutting.": "The adjective is an object-result complement after 'wiped'; the adverb modifies the action 'cut'.",
-        "Cleanly gives a resulting state, while clean means they wiped without difficulty.": "This reverses the grammatical relations of adjective and adverb in the two predicates."
+        "'Clean' gives the resulting state; 'cleanly' describes the manner of cutting.": "The adjective is an object-result complement after 'wiped'; the adverb modifies the action 'cut'.",
+        "'Cleanly' gives a resulting state, while 'clean' means they wiped without difficulty.": "This reverses the grammatical relations of adjective and adverb in the two predicates."
       },
       "audit": {
         "status": "reviewed",
@@ -2711,7 +2711,7 @@
         "Both certify that the employees managed the outage successfully.",
         "The first describes dependable conduct; the second assigns blame for the outage.",
         "Event responsibility is distinct from general dependability.",
-        "Otherwise means that different employees caused the outage."
+        "'Otherwise' means that different employees caused the outage."
       ],
       "answer": "Event responsibility is distinct from general dependability.",
       "explanation": "The complement 'for the outage' selects an event relation, while the adjective before 'employees' evaluates their usual behaviour.",
@@ -2719,7 +2719,7 @@
         "Event responsibility is distinct from general dependability.": "The complement 'for the outage' selects an event relation, while the adjective before 'employees' evaluates their usual behaviour.",
         "Both certify that the employees managed the outage successfully.": "Being responsible for the outage does not mean managing it successfully.",
         "The first describes dependable conduct; the second assigns blame for the outage.": "This reverses the contextually selected senses.",
-        "Otherwise means that different employees caused the outage.": "'Otherwise' qualifies the evaluation of the same employees; it does not introduce a new group."
+        "'Otherwise' means that different employees caused the outage.": "'Otherwise' qualifies the evaluation of the same employees; it does not introduce a new group."
       },
       "audit": {
         "status": "reviewed",
@@ -2739,16 +2739,16 @@
       "setupText": "A delivery record states, 'The courier delivered the sculpture damaged.'",
       "taskText": "Which analysis correctly identifies the adjective's role?",
       "options": [
-        "Damaged describes the courier's manner of working as careless.",
-        "Damaged describes the sculpture's state at delivery.",
+        "'Damaged' describes the courier's manner of working as careless.",
+        "'Damaged' describes the sculpture's state at delivery.",
         "The sentence presents delivery itself as the action that damaged the sculpture.",
         "The sentence says the sender intentionally prepared a damaged sculpture for shipment."
       ],
-      "answer": "Damaged describes the sculpture's state at delivery.",
+      "answer": "'Damaged' describes the sculpture's state at delivery.",
       "explanation": "This object-oriented adjective gives the condition accompanying delivery; unlike a result construction such as 'wiped it clean', it does not say delivery caused that condition.",
       "rationales": {
-        "Damaged describes the courier's manner of working as careless.": "The adjective describes the sculpture's condition, not the courier's manner or care.",
-        "Damaged describes the sculpture's state at delivery.": "This object-oriented adjective gives the condition accompanying delivery; unlike a result construction such as 'wiped it clean', it does not say delivery caused that condition.",
+        "'Damaged' describes the courier's manner of working as careless.": "The adjective describes the sculpture's condition, not the courier's manner or care.",
+        "'Damaged' describes the sculpture's state at delivery.": "This object-oriented adjective gives the condition accompanying delivery; unlike a result construction such as 'wiped it clean', it does not say delivery caused that condition.",
         "The sentence presents delivery itself as the action that damaged the sculpture.": "The condition is recorded at delivery, but its cause is left unstated.",
         "The sentence says the sender intentionally prepared a damaged sculpture for shipment.": "Neither the sender's action nor any deliberate intention is established."
       },
@@ -2926,18 +2926,18 @@
       "setupText": "An editor praises an assessor who has no stake in the result and examines the work attentively. The draft calls her 'a disinterested assessor'. A colleague proposes 'uninterested' instead.",
       "taskText": "Which editorial response best preserves the intended evaluation?",
       "options": [
-        "Replace it because disinterested can only mean bored, regardless of context.",
+        "Replace it because 'disinterested' can only mean 'bored', regardless of context.",
         "Replace it because both words guarantee that the assessor has no financial stake.",
-        "Retain disinterested but remove the praise for attention because the adjective does not itself mean diligent.",
+        "Retain 'disinterested' but remove the praise for attention because the adjective does not itself mean 'diligent'.",
         "Keep disinterested here, or use impartial; uninterested would suggest disengagement."
       ],
       "answer": "Keep disinterested here, or use impartial; uninterested would suggest disengagement.",
       "explanation": "The context selects freedom from personal interest, not lack of attention. 'Impartial' can make that sense explicit without denying other uses of 'disinterested'.",
       "rationales": {
-        "Replace it because disinterested can only mean bored, regardless of context.": "Disinterested has an established impartial sense, supported by the lack of a stake and the attentive examination here.",
+        "Replace it because 'disinterested' can only mean 'bored', regardless of context.": "'Disinterested' has an established impartial sense, supported by the lack of a stake and the attentive examination here.",
         "Keep disinterested here, or use impartial; uninterested would suggest disengagement.": "The context selects freedom from personal interest, not lack of attention. 'Impartial' can make that sense explicit without denying other uses of 'disinterested'.",
         "Replace it because both words guarantee that the assessor has no financial stake.": "'Uninterested' normally describes lack of interest or engagement; it does not guarantee impartiality or a lack of financial stake.",
-        "Retain disinterested but remove the praise for attention because the adjective does not itself mean diligent.": "An adjective need not encode every separately supported fact; impartiality is compatible with the documented attentive examination."
+        "Retain 'disinterested' but remove the praise for attention because the adjective does not itself mean 'diligent'.": "An adjective need not encode every separately supported fact; impartiality is compatible with the documented attentive examination."
       },
       "audit": {
         "status": "reviewed",
@@ -3029,7 +3029,7 @@
       "explanation": "The adverb limits the extent of the first characterization, while 'rather than' contrasts the report's main approach.",
       "rationales": {
         "The report contains no analysis of any kind.": "'Largely' qualifies the characterization and leaves room for some analysis.",
-        "The report's description has been proved factually inaccurate.": "Descriptive versus analytical concerns what the writing does, not whether its facts are wrong.",
+        "The report's description has been proved factually inaccurate.": "'Descriptive' versus 'analytical' concerns what the writing does, not whether its facts are wrong.",
         "Description predominates; the wording does not exclude every analytical passage.": "The adverb limits the extent of the first characterization, while 'rather than' contrasts the report's main approach.",
         "The report presents analysis first and description afterwards.": "The construction contrasts kinds of writing, not their order."
       },
@@ -3434,7 +3434,7 @@
         "The presented material supplies no empirical support for the claim.": "The adverb specifies the kind of support, and the following phrase limits the assessment to the supplied material.",
         "The claim is logically impossible under every interpretation.": "Lack of empirical support in specified material does not establish logical impossibility.",
         "No evidence for the claim could exist anywhere.": "This extends a bounded assessment into a universal claim about possible evidence.",
-        "The reviewer finds the claim impossible to investigate using observations.": "Unsupported does not mean untestable; the source says nothing about the possibility of investigation."
+        "The reviewer finds the claim impossible to investigate using observations.": "'Unsupported' does not mean 'untestable'; the source says nothing about the possibility of investigation."
       },
       "audit": {
         "status": "reviewed",
@@ -3550,7 +3550,7 @@
         "Both adjectives independently describe how long this person will hold the post.",
         "Temporary qualifies the appointment; permanent belongs to the established post title.",
         "The notice changes the role itself from permanent to temporary for all future holders.",
-        "Permanent cancels temporary, making the six-week limit figurative."
+        "'Permanent' cancels 'temporary', making the six-week limit figurative."
       ],
       "answer": "Temporary qualifies the appointment; permanent belongs to the established post title.",
       "explanation": "The modifiers operate at different levels, so a temporary holder can occupy a role whose title contains 'permanent'.",
@@ -3558,7 +3558,7 @@
         "Temporary qualifies the appointment; permanent belongs to the established post title.": "The modifiers operate at different levels, so a temporary holder can occupy a role whose title contains 'permanent'.",
         "Both adjectives independently describe how long this person will hold the post.": "That ignores the supplied fact that 'permanent secretary' is a fixed role title.",
         "The notice changes the role itself from permanent to temporary for all future holders.": "The notice concerns this six-week appointment, not a redefinition of the post.",
-        "Permanent cancels temporary, making the six-week limit figurative.": "The title word does not cancel the explicit duration of this appointment."
+        "'Permanent' cancels 'temporary', making the six-week limit figurative.": "The title word does not cancel the explicit duration of this appointment."
       },
       "audit": {
         "status": "reviewed",
@@ -3640,7 +3640,7 @@
       "setupText": "A profile says, 'She is a civil engineer, though her replies to colleagues can be distinctly uncivil.'",
       "taskText": "Why do the adjective choices not contradict each other?",
       "options": [
-        "Civil describes her private behaviour, while uncivil describes her technical competence.",
+        "'Civil' describes her private behaviour, while 'uncivil' describes her technical competence.",
         "The negative adjective cancels her professional qualification.",
         "Both adjectives describe the same behaviour at different historical periods.",
         "Civil identifies an engineering field, while uncivil evaluates interpersonal behaviour."
@@ -3649,7 +3649,7 @@
       "explanation": "The adjective inside the occupational term is relational, not a claim of politeness; 'uncivil' is a behavioural evaluation.",
       "rationales": {
         "Civil identifies an engineering field, while uncivil evaluates interpersonal behaviour.": "The adjective inside the occupational term is relational, not a claim of politeness; 'uncivil' is a behavioural evaluation.",
-        "Civil describes her private behaviour, while uncivil describes her technical competence.": "Neither modifier has those targets in the sentence.",
+        "'Civil' describes her private behaviour, while 'uncivil' describes her technical competence.": "Neither modifier has those targets in the sentence.",
         "The negative adjective cancels her professional qualification.": "A criticism of manners does not negate the occupational category.",
         "Both adjectives describe the same behaviour at different historical periods.": "The sentence distinguishes profession from manners, not past from present behaviour."
       },
@@ -3702,7 +3702,7 @@
       "setupText": "An editor requests 'a sufficiently detailed but deliberately non-exhaustive account' for an introductory chapter.",
       "taskText": "Which response best preserves both qualifications in that request?",
       "options": [
-        "List every detail, since sufficient detail requires complete coverage.",
+        "List every detail, since 'sufficient detail' requires complete coverage.",
         "Give a vague account and let any omissions occur by chance.",
         "Provide enough detail for the chapter's purpose while intentionally leaving some material out.",
         "Omit the subject's main points so that the account cannot be considered detailed."
@@ -3710,10 +3710,10 @@
       "answer": "Provide enough detail for the chapter's purpose while intentionally leaving some material out.",
       "explanation": "'Sufficiently' sets a purpose-relative threshold, while 'deliberately' makes non-exhaustiveness a chosen limit rather than an accidental failure.",
       "rationales": {
-        "List every detail, since sufficient detail requires complete coverage.": "Sufficiency is relative to the purpose; the second qualification explicitly rejects exhaustive coverage.",
+        "List every detail, since 'sufficient detail' requires complete coverage.": "Sufficiency is relative to the purpose; the second qualification explicitly rejects exhaustive coverage.",
         "Provide enough detail for the chapter's purpose while intentionally leaving some material out.": "'Sufficiently' sets a purpose-relative threshold, while 'deliberately' makes non-exhaustiveness a chosen limit rather than an accidental failure.",
         "Give a vague account and let any omissions occur by chance.": "That loses both the required adequacy and the intentional limit on coverage.",
-        "Omit the subject's main points so that the account cannot be considered detailed.": "Non-exhaustive does not mean inadequate; the first adjective phrase requires enough detail for the purpose."
+        "Omit the subject's main points so that the account cannot be considered detailed.": "'Non-exhaustive' does not mean 'inadequate'; the first adjective phrase requires enough detail for the purpose."
       },
       "audit": {
         "status": "reviewed",

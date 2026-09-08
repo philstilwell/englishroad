@@ -14,12 +14,12 @@
         "I am a nurse."
       ],
       "answer": "I am a nurse.",
-      "explanation": "Use a before the singular job noun nurse: I am a nurse. Nurse begins with the consonant sound /n/.",
+      "explanation": "Use 'a' before the singular job noun 'nurse': 'I am a nurse'. 'Nurse' begins with the consonant sound /n/.",
       "rationales": {
-        "I am nurse.": "The singular job noun nurse needs a word such as a before it: I am a nurse.",
+        "I am nurse.": "The singular job noun 'nurse' needs a word such as 'a' before it: 'I am a nurse'.",
         "I am an nurse.": "Nurse starts with the consonant sound /n/, so use a, not an.",
-        "I am a nurse.": "A nurse correctly names one person's job, with a before the singular noun.",
-        "I am a nurses.": "A needs a singular noun. Use a nurse, not a nurses."
+        "I am a nurse.": "'A nurse' correctly names one person's job, with 'a' before the singular noun.",
+        "I am a nurses.": "'A' needs a singular noun. Use 'a nurse', not 'a nurses'."
       },
       "audit": {
         "status": "reviewed",
@@ -171,11 +171,11 @@
         "at the home"
       ],
       "answer": "at home",
-      "explanation": "At home means in the place where you live. This everyday expression has no article before home.",
+      "explanation": "'At home' means in the place where you live. This everyday expression has no article before 'home'.",
       "rationales": {
-        "at a home": "A home introduces one home, often a place that provides care. It is not the usual expression for being in your own flat.",
+        "at a home": "'A home' introduces one home, often a place that provides care. It is not the usual expression for being in your own flat.",
         "at home": "This is the ordinary expression for being in the place where you live.",
-        "at an home": "Home begins with a pronounced h, so an is wrong. The expression for your location is at home, with no article.",
+        "at an home": "'Home' begins with a pronounced 'h', so 'an' is wrong. The expression for your location is 'at home', with no article.",
         "at the home": "The home points to a particular home already understood, such as a care home. To say you are in your own flat, use at home."
       },
       "audit": {
@@ -392,7 +392,7 @@
       "explanation": "In this price, \"a kilo\" means \"for each kilo\". One kilo costs two euros; two kilos cost four euros.",
       "rationales": {
         "For each apple": "The unit named is kilo, a weight, not an individual apple.",
-        "For each kilo": "Here a means for each unit, and the stated unit is one kilo.",
+        "For each kilo": "Here 'a' means for each unit, and the stated unit is one kilo.",
         "For half a kilo": "The label gives the price for a full kilo. Half a kilo would cost one euro at this rate.",
         "For all the apples": "The price applies to each kilo, not to the whole supply of apples."
       },
@@ -547,9 +547,9 @@
       "explanation": "Use a person's ordinary name without an article: \"My name is Ana.\" A vowel at the start of a name does not mean it needs \"an\".",
       "rationales": {
         "My name is an Ana.": "A name does not need an just because it begins with a vowel. In this introduction, say Ana on its own.",
-        "My name is Ana.": "The sentence has the verb is and uses the personal name without an article.",
-        "My name Ana.": "A complete statement needs the verb is between my name and Ana. An article cannot replace that verb.",
-        "My a name is Ana.": "My already identifies whose name you mean. Do not add a between my and name."
+        "My name is Ana.": "The sentence has the verb 'is' and uses the personal name without an article.",
+        "My name Ana.": "A complete statement needs the verb 'is' between 'my name' and 'Ana'. An article cannot replace that verb.",
+        "My a name is Ana.": "'My' already identifies whose name you mean. Do not add 'a' between 'my' and 'name'."
       },
       "audit": {
         "status": "reviewed",
@@ -792,7 +792,7 @@
         "a small hotel"
       ],
       "answer": "a small hotel",
-      "explanation": "A small hotel describes one place of the kind the travellers want. They can use a before they have found or chosen that place.",
+      "explanation": "'A small hotel' describes one place of the kind the travellers want. They can use 'a' before they have found or chosen that place.",
       "rationales": {
         "the small hotel": "The suggests that the listener can identify which hotel is meant. The travellers are introducing the kind they want.",
         "another small hotel": "Another asks for a different or additional hotel. That adds a comparison with a hotel not mentioned in this request.",
@@ -825,10 +825,10 @@
       "answer": "by train",
       "explanation": "Use \"by train\" to name the means of travel. In this expression, \"by\" is followed by the transport word without an article.",
       "rationales": {
-        "by train": "This names the travel method using the standard by + transport expression.",
+        "by train": "This names the travel method using the standard 'by' + transport expression.",
         "by a train": "A train counts one vehicle. The usual expression naming this means of travel is by train, without an article.",
-        "by an train": "An cannot come before the consonant sound at the start of train. The method expression also needs no article.",
-        "by the train": "The train identifies a particular vehicle. That can occur in other contexts, but the ordinary phrase for the travel method alone is by train."
+        "by an train": "'An' cannot come before the consonant sound at the start of 'train'. The method expression also needs no article.",
+        "by the train": "'The train' identifies a particular vehicle. That can occur in other contexts, but the ordinary phrase for the travel method alone is 'by train'."
       },
       "audit": {
         "status": "reviewed",
@@ -857,7 +857,7 @@
       "explanation": "\"Hour\" begins with a vowel sound because its h is silent. One period of sixty minutes is \"an hour\".",
       "rationales": {
         "a hour": "The first spoken sound in \"hour\" is a vowel, so \"a\" must become \"an\".",
-        "an hour": "The article follows the sound, not the silent written h.",
+        "an hour": "The article follows the sound, not the silent written 'h'.",
         "an hours": "\"An\" introduces one unit; \"hours\" is plural.",
         "hour": "To name one countable period here, include the article: \"an hour\"."
       },
@@ -1136,7 +1136,7 @@
       "explanation": "The cheapest flat identifies the one with the lowest price in the group of three. A cheap flat only says that its price is low; it does not rank it against the other two.",
       "rationales": {
         "a cheap flat": "This describes a flat as low-priced. It does not say it costs less than both of the others.",
-        "another cheap flat": "Another introduces a different or additional low-priced flat, not the lowest-priced one in the stated group.",
+        "another cheap flat": "'Another' introduces a different or additional low-priced flat, not the lowest-priced one in the stated group.",
         "the cheaper flat": "Cheaper makes a comparison, normally between two alternatives. It does not explicitly identify the lowest price out of all three as cheapest does.",
         "the cheapest flat": "The + cheapest + flat identifies the lowest-priced member of this group."
       },
@@ -1164,7 +1164,7 @@
         "My brother gave me some useful advices."
       ],
       "answer": "My brother gave me some useful advice.",
-      "explanation": "\"Advice\" is uncountable, so \"some useful advice\" works without a or an. An adjective does not make advice countable.",
+      "explanation": "\"Advice\" is uncountable, so \"some useful advice\" works without 'a' or 'an'. An adjective does not make 'advice' countable.",
       "rationales": {
         "My brother gave me some useful advice.": "\"Some\" can introduce an unspecified amount of the uncountable noun \"advice\".",
         "My brother gave me an useful advice.": "\"Advice\" cannot be introduced by \"an\" here, and \"useful\" begins with a consonant sound.",
@@ -1226,7 +1226,7 @@
         "a small or a large bag"
       ],
       "answer": "a small or a large bag",
-      "explanation": "A small or a large bag offers two possible sizes of one bag. Repeating a before large is correct; a small or large bag, with one shared article, is also possible.",
+      "explanation": "'A small or a large bag' offers two possible sizes of one bag. Repeating 'a' before 'large' is correct; 'a small or large bag', with one shared article, is also possible.",
       "rationales": {
         "small or large bag": "The singular noun \"bag\" needs a determiner in this full question, even when two adjectives are offered.",
         "an small or an large bag": "Both \"small\" and \"large\" begin with consonant sounds, so neither can follow \"an\".",
@@ -1257,7 +1257,7 @@
         "interesting conversations"
       ],
       "answer": "an interesting conversation",
-      "explanation": "An interesting conversation presents one exchange as a countable event and introduces it as new information. Conversation can also be uncountable, and an indefinite singular can sometimes describe a typical activity; this task specifically asks for one newly introduced exchange.",
+      "explanation": "'An interesting conversation' presents one exchange as a countable event and introduces it as new information. 'Conversation' can also be uncountable, and an indefinite singular can sometimes describe a typical activity; this task specifically asks for one newly introduced exchange.",
       "rationales": {
         "an interesting conversation": "An introduces one conversation, while interesting begins with a vowel sound. This meets both the counting and first-mention requirements.",
         "interesting conversation": "This is a possible uncountable use for the activity of talking. It does not explicitly present one countable exchange as requested.",
@@ -1288,12 +1288,12 @@
         "a clearer diagram"
       ],
       "answer": "a clearer diagram",
-      "explanation": "Diagram is a singular countable noun here, and clearer describes it. The article comes before the adjective: a clearer diagram. Unlike explanation, diagram does not have an ordinary uncountable reading in this request.",
+      "explanation": "'Diagram' is a singular countable noun here, and 'clearer' describes it. The article comes before the adjective: 'a clearer diagram'. Unlike 'explanation', 'diagram' does not have an ordinary uncountable reading in this request.",
       "rationales": {
         "an clearer diagram": "The next sound is /k/ in clearer, so the article is a, not an.",
-        "clearer diagram": "The singular count noun diagram needs a determiner; the comparative adjective does not replace one.",
+        "clearer diagram": "The singular count noun 'diagram' needs a determiner; the comparative adjective does not replace one.",
         "a clearer diagram": "This asks for one diagram whose presentation is clearer than the recipe's current instructions.",
-        "a clearer diagrams": "A introduces one item, so use singular diagram rather than diagrams."
+        "a clearer diagrams": "'A' introduces one item, so use singular 'diagram' rather than 'diagrams'."
       },
       "audit": {
         "status": "reviewed",
@@ -1352,9 +1352,9 @@
       "answer": "the roof",
       "explanation": "The house has introduced an associated roof even though the word \"roof\" is new. \"The roof\" means the roof of that house.",
       "rationales": {
-        "the roof": "The house makes its associated roof identifiable. A noun can take the on its first literal mention when that relationship supplies the reference.",
+        "the roof": "The house makes its associated roof identifiable. A noun can take 'the' on its first literal mention when that relationship supplies the reference.",
         "a roof": "This introduces a roof without identifying it through the rented house. The task asks for the roof associated with that house.",
-        "another roof": "Another introduces an additional or different roof rather than simply identifying the rented house's roof.",
+        "another roof": "'Another' introduces an additional or different roof rather than simply identifying the rented house's roof.",
         "one of the roofs": "This assumes an established set of several roofs and selects one from it. No such set is supplied."
       },
       "audit": {
@@ -1443,12 +1443,12 @@
         "so a relief"
       ],
       "answer": "such a relief",
-      "explanation": "Such comes before a/an when it intensifies a singular countable noun phrase: such a relief. So normally intensifies an adjective or adverb instead, as in so relieved.",
+      "explanation": "'Such' comes before 'a/an' when it intensifies a singular countable noun phrase: 'such a relief'. 'So' normally intensifies an adjective or adverb instead, as in 'so relieved'.",
       "rationales": {
-        "such a relief": "The order is such + a + relief, presenting the news as an instance of relief and intensifying the reaction.",
-        "a such relief": "Place such before the indefinite article in this construction: such a relief.",
-        "such the relief": "The standard intensifying construction here uses such a relief, not such followed by the definite article.",
-        "so a relief": "So does not directly introduce a noun phrase in this order. Use such a relief or an adjective phrase such as so relieved."
+        "such a relief": "The order is 'such' + 'a' + 'relief', presenting the news as an instance of relief and intensifying the reaction.",
+        "a such relief": "Place 'such' before the indefinite article in this construction: 'such a relief'.",
+        "such the relief": "The standard intensifying construction here uses 'such a relief', not 'such' followed by the definite article.",
+        "so a relief": "'So' does not directly introduce a noun phrase in this order. Use 'such a relief' or an adjective phrase such as 'so relieved'."
       },
       "audit": {
         "status": "reviewed",
@@ -1788,8 +1788,8 @@
       "rationales": {
         "a detailed feedback": "The adjective detailed does not make feedback countable. You can receive \"a detailed comment\" but not normally \"a detailed feedback\".",
         "detailed feedback": "This correctly treats the comments as an uncountable body of feedback.",
-        "an detailed feedback": "Feedback does not take an indefinite article in this meaning; an also mismatches the /d/ sound in detailed.",
-        "detailed feedbacks": "Use the uncountable form feedback. To count individual points, use a plural noun such as comments."
+        "an detailed feedback": "'Feedback' does not take an indefinite article in this meaning; 'an' also mismatches the /d/ sound in 'detailed'.",
+        "detailed feedbacks": "Use the uncountable form 'feedback'. To count individual points, use a plural noun such as 'comments'."
       },
       "audit": {
         "status": "reviewed",
@@ -1819,8 +1819,8 @@
       "rationales": {
         "a useful summary": "A introduces one summary, not the several accounts needed for the intended comparison.",
         "the useful summaries": "The assumes an identifiable set. The task asks for a first introduction without that shared identification.",
-        "some useful summaries": "Some introduces an unspecified plural set as new information, matching the comparison of several accounts.",
-        "another useful summary": "Another introduces one additional summary and assumes a previous one; it does not introduce the requested plural set."
+        "some useful summaries": "'Some' introduces an unspecified plural set as new information, matching the comparison of several accounts.",
+        "another useful summary": "'Another' introduces one additional summary and assumes a previous one; it does not introduce the requested plural set."
       },
       "audit": {
         "status": "reviewed",
@@ -1970,12 +1970,12 @@
         "Deliberately confusing as a planned part of the payment process"
       ],
       "answer": "Deliberately confusing as a planned part of the payment process",
-      "explanation": "By design is an article-free expression meaning intentionally. It says the confusing effect was planned, not that the design was unfinished or that only the visual layout causes difficulty.",
+      "explanation": "'By design' is an article-free expression meaning intentionally. It says the confusing effect was planned, not that the design was unfinished or that only the visual layout causes difficulty.",
       "rationales": {
         "Confusing because the design has not yet been completed": "The fixed phrase states intention. It does not attribute the confusion to unfinished work.",
-        "Deliberately confusing as a planned part of the payment process": "By design presents the confusing effect as deliberate, even though the phrase contains no article before design.",
-        "Confusing despite a plan intended to make the process clear": "Despite the plan would describe an unintended result. By design says the result was intended.",
-        "Confusing in its layout rather than in the information it presents": "Design here is part of an idiom about intention; it does not limit the problem to visual layout."
+        "Deliberately confusing as a planned part of the payment process": "'By design' presents the confusing effect as deliberate, even though the phrase contains no article before 'design'.",
+        "Confusing despite a plan intended to make the process clear": "'Despite the plan' would describe an unintended result. 'By design' says the result was intended.",
+        "Confusing in its layout rather than in the information it presents": "'Design' here is part of an idiom about intention; it does not limit the problem to visual layout."
       },
       "audit": {
         "status": "reviewed",
@@ -2005,7 +2005,7 @@
       "rationales": {
         "One electric vehicle being used as the main example throughout the paragraph": "An individual-car reading would need an identifiable vehicle. The statement about transport trends instead presents the vehicle type as an influence on cities.",
         "Electric cars as a technological category, rather than a particular physical vehicle": "The definite singular can stand for a class or technological development in a general statement.",
-        "The city's first electric vehicle, treated as the beginning of a wider trend": "The article does not give the car a first-in-history meaning; that would need wording such as the first electric car.",
+        "The city's first electric vehicle, treated as the beginning of a wider trend": "The article does not give the car a first-in-history meaning; that would need wording such as 'the first electric car'.",
         "The electric vehicles in one identified fleet, rather than the vehicle type generally": "No fleet is identified. The category reading fits the broad claim about how cities plan their networks."
       },
       "audit": {
@@ -2094,7 +2094,7 @@
         "The village has become better known because people have praised its improvements."
       ],
       "answer": "The village is so different that its former appearance is hard to recognise.",
-      "explanation": "Beyond recognition means changed so much that the former appearance is hard to recognise. Recognition has no article in this fixed expression; it concerns recognising the place, not acknowledging or praising the changes.",
+      "explanation": "'Beyond recognition' means changed so much that the former appearance is hard to recognise. 'Recognition' has no article in this fixed expression; it concerns recognising the place, not acknowledging or praising the changes.",
       "rationales": {
         "The village has changed in ways that few people have officially acknowledged.": "This uses recognition in the sense of acknowledgment. The resident is describing how different the village looks, not whether officials acknowledge the changes.",
         "The village is so different that its former appearance is hard to recognise.": "The paraphrase keeps the strong degree of change expressed by beyond recognition.",
@@ -2158,8 +2158,8 @@
       "answer": "It contrasts imprisonment with a later visit to an identified institution.",
       "explanation": "\"In prison\" conventionally describes imprisonment. \"The prison\" identifies a particular institution; the talk establishes that the later visit is not another statement of prisoner status.",
       "rationales": {
-        "It contrasts imprisonment with a later visit to an identified institution.": "Bare in prison expresses prisoner status; the definite phrase identifies the institution she later visits for a talk.",
-        "It introduces an unfamiliar prison, then identifies a different one for the talk.": "The first phrase expresses imprisonment rather than introducing an unfamiliar institution with a. The wording does not establish a change of prison.",
+        "It contrasts imprisonment with a later visit to an identified institution.": "Bare 'in prison' expresses prisoner status; the definite phrase identifies the institution she later visits for a talk.",
+        "It introduces an unfamiliar prison, then identifies a different one for the talk.": "The first phrase expresses imprisonment rather than introducing an unfamiliar institution with 'a'. The wording does not establish a change of prison.",
         "It contrasts time spent in prison generally with a return to prisoner status.": "The later purpose is giving a talk. The prison identifies her destination without saying that she is imprisoned again.",
         "It describes her earlier circumstances, then leaves the later destination unspecified.": "The later definite article presents the destination as identifiable, not unspecified."
       },
@@ -2214,15 +2214,15 @@
       "options": [
         "The source phrase identifies a particular body of evidence",
         "Evidence becomes a singular count noun because it comes from one inspection",
-        "Repeating evidence requires the even if the second sentence concerns a different source",
+        "Repeating 'evidence' requires 'the' even if the second sentence concerns a different source",
         "The article presents the inspection findings as conclusive rather than merely relevant"
       ],
       "answer": "The source phrase identifies a particular body of evidence",
       "explanation": "The first sentence requests evidence without identifying a body of it. The second points to evidence from a specified inspection. An uncountable noun can take \"the\" when its reference is identifiable.",
       "rationales": {
-        "Evidence becomes a singular count noun because it comes from one inspection": "Evidence remains uncountable. One identifiable source does not turn it into a count noun.",
-        "The source phrase identifies a particular body of evidence": "The inspection makes this evidence identifiable; an uncountable noun can take the for that purpose.",
-        "Repeating evidence requires the even if the second sentence concerns a different source": "Word repetition alone does not require the. Here the source phrase identifies which evidence the writer means.",
+        "Evidence becomes a singular count noun because it comes from one inspection": "'Evidence' remains uncountable. One identifiable source does not turn it into a count noun.",
+        "The source phrase identifies a particular body of evidence": "The inspection makes this evidence identifiable; an uncountable noun can take 'the' for that purpose.",
+        "Repeating 'evidence' requires 'the' even if the second sentence concerns a different source": "Word repetition alone does not require 'the'. Here the source phrase identifies which evidence the writer means.",
         "The article presents the inspection findings as conclusive rather than merely relevant": "Definiteness identifies the evidence; it does not increase its strength. The sentence describes it as particularly relevant, not conclusive."
       },
       "audit": {
@@ -2249,7 +2249,7 @@
         "The company reimburses a return journey, but not meals."
       ],
       "answer": "The company reimburses travel, but not meals.",
-      "explanation": "Bare travel names the general expense category, parallel to bare plural meals. A journey counts a trip; the journey identifies one; a travel allowance names a payment arrangement rather than reimbursement of travel costs generally.",
+      "explanation": "Bare 'travel' names the general expense category, parallel to bare plural 'meals'. 'A journey' counts a trip; 'the journey' identifies one; 'a travel allowance' names a payment arrangement rather than reimbursement of travel costs generally.",
       "rationales": {
         "The company reimburses travel, but not meals.": "The two article-free nouns name categories of expenses, preserving the intended general policy.",
         "The company reimburses the journey described above, but not meals.": "The definite phrase limits reimbursement to an identified journey rather than the general category.",
@@ -2370,7 +2370,7 @@
         "It counts one secret she has told the interviewer",
         "It presents a particular kind or instance of the feeling, described by the following clause",
         "It identifies the feeling as already shared by all the interviewers",
-        "It means the noun confidence is always countable after felt"
+        "It means the noun 'confidence' is always countable after 'felt'"
       ],
       "answer": "It presents a particular kind or instance of the feeling, described by the following clause",
       "explanation": "An abstract feeling can be presented as a particular manifestation when it is characterised: \"a confidence she had never felt before\". This does not make every use of confidence countable.",
@@ -2378,7 +2378,7 @@
         "It presents a particular kind or instance of the feeling, described by the following clause": "The following clause characterises the distinctive confidence she experienced.",
         "It counts one secret she has told the interviewer": "\"A confidence\" can mean a secret in other contexts, but \"felt\" and the repeated feeling point to self-assurance.",
         "It identifies the feeling as already shared by all the interviewers": "The sentence concerns her feeling and does not establish a shared state among interviewers.",
-        "It means the noun confidence is always countable after felt": "Compare \"She felt confidence in the plan\". Countability depends on the chosen interpretation, not a universal rule after felt."
+        "It means the noun 'confidence' is always countable after 'felt'": "Compare \"She felt confidence in the plan\". Countability depends on the chosen interpretation, not a universal rule after felt."
       },
       "audit": {
         "status": "reviewed",
@@ -2499,7 +2499,7 @@
       "answer": "A field of study is contrasted with a particular departmental course of action",
       "explanation": "Article-free \"public policy\" names a field. \"The policy she criticised\" identifies one policy through the following clause. Neither article alone tells us whether the policy has legal force or an international scope.",
       "rationales": {
-        "A field of study is contrasted with a particular departmental course of action": "Bare public policy names the academic field. The policy she criticised identifies one adopted policy through the following clause.",
+        "A field of study is contrasted with a particular departmental course of action": "Bare 'public policy' names the academic field. 'The policy she criticised' identifies one adopted policy through the following clause.",
         "One established policy is contrasted with a new example of the same policy": "The first phrase names a field rather than one established policy. The second is definite, not an indefinite introduction of a new example.",
         "Two particular policies are contrasted, with identifying details omitted from the first": "Studying public policy describes her subject area; it does not establish a first individual policy whose details have been withheld.",
         "Two fields of study are contrasted, with the second limited to work in one department": "The second phrase identifies a policy belonging to a department, not another academic discipline."
@@ -2562,7 +2562,7 @@
       "answer": "a good many more objections",
       "explanation": "\"A good many\" means quite a large number and takes a plural count noun. Here it modifies the comparison: \"a good many more objections\".",
       "rationales": {
-        "a good many more objections": "The fixed quantity phrase keeps a before good many and agrees with plural objections.",
+        "a good many more objections": "The fixed quantity phrase keeps 'a' before 'good many' and agrees with plural 'objections'.",
         "good a many more objections": "The order of the expression is \"a good many\", not \"good a many\".",
         "a good much more objections": "\"Objections\" is countable and plural; the phrase uses many rather than much.",
         "a good many more objection": "The meaning involves a number of objections, so the noun must be plural."
@@ -2627,7 +2627,7 @@
         "The quality inferred from the donor's offer in the preceding sentence": "The reader derives the quality from the event and can then identify it with the.",
         "A separate charitable act mentioned before the quoted passage": "The immediately preceding offer supplies the needed connection; no separate act is required.",
         "The donor's general character across all previous donations": "The passage supports a quality displayed in this offer, not a general biography of the donor.",
-        "The total monetary value of every contribution to the project": "Generosity names an evaluated quality here, not the sum of all contributions."
+        "The total monetary value of every contribution to the project": "'Generosity' names an evaluated quality here, not the sum of all contributions."
       },
       "audit": {
         "status": "reviewed",
@@ -2656,7 +2656,7 @@
       "explanation": "Article-free analysis can name the general activity. \"An analysis of trace metals\" presents one analytical procedure or instance. The indefinite article does not certify validity or mark prior familiarity.",
       "rationales": {
         "One particular type or instance of an analytical procedure": "The indefinite article packages the activity as an individual procedure of the specified kind.",
-        "Analytical work in general, without presenting an individual procedure": "That describes the article-free activity reading in the first clause, not the counted use an analysis of trace metals.",
+        "Analytical work in general, without presenting an individual procedure": "That describes the article-free activity reading in the first clause, not the counted use 'an analysis of trace metals'.",
         "The specific analysis already identified by the first use of the noun": "The first clause names analysis as an activity; it does not identify an individual procedure for a definite phrase to refer back to.",
         "A laboratory classified by the kind of analytical service it provides": "The second clause classifies the procedure, not the laboratory. Its subject is this particular procedure."
       },
@@ -2684,7 +2684,7 @@
         "Alex as a representative of everyone the speaker knew at university"
       ],
       "answer": "Alex as the person with his former habits and character",
-      "explanation": "The article and following clause select Alex as remembered by the speaker. A personal name can take the when the phrase identifies a particular version, aspect, or namesake; this context favours a remembered version.",
+      "explanation": "The article and following clause select Alex as remembered by the speaker. A personal name can take 'the' when the phrase identifies a particular version, aspect, or namesake; this context favours a remembered version.",
       "rationales": {
         "Another university friend who happened to have the same name": "The context explicitly concerns a change in Alex's behaviour, not confusion between two people named Alex.",
         "Alex as the person with his former habits and character": "The article and relative clause select the version of Alex preserved in the speaker's memory.",
@@ -2720,7 +2720,7 @@
         "The first names an office conferred; the second classifies her continuing professional work": "Elect licenses the bare role complement, while as a researcher gives an indefinite professional classification.",
         "The first is bare because her identity is known; the second is indefinite because her identity is unknown": "The same known person is described in both clauses. The difference is in construction and role, not knowledge of her identity.",
         "The first role is uniquely held, so bare chair would also be required after interviewed": "Interviewed does not license the same role complement: \"They interviewed the chair\" normally needs a determiner.",
-        "The second article counts a separate research project rather than classifying the person": "The noun researcher denotes a person, so the article classifies her professional role rather than counting projects."
+        "The second article counts a separate research project rather than classifying the person": "The noun 'researcher' denotes a person, so the article classifies her professional role rather than counting projects."
       },
       "audit": {
         "status": "reviewed",
@@ -2782,7 +2782,7 @@
         "Rarely have we encountered so a compelling argument.": "The so-pattern places the adjective before the article: \"so compelling an argument\".",
         "Rarely have we encountered such compelling an argument.": "With such, the normal order is \"such a compelling argument\"; this mixes the such and so patterns.",
         "Rarely have we encountered so compelling an argument.": "This correctly uses the formal so-adjective-article-noun sequence.",
-        "Rarely have we encountered a so compelling argument.": "The degree word so cannot occupy this position after the article in the standard construction."
+        "Rarely have we encountered a so compelling argument.": "The degree word 'so' cannot occupy this position after the article in the standard construction."
       },
       "audit": {
         "status": "reviewed",
@@ -2811,9 +2811,9 @@
       "explanation": "Many a has a plural meaning but uses a singular count noun and singular verb: 'Many a scheme has failed.' Keep this formal construction distinct from ordinary 'many schemes have failed'.",
       "rationales": {
         "Many a promising scheme has failed for lack of maintenance.": "The formal quantity expression combines the singular scheme with has even though it refers to many cases.",
-        "Many a promising schemes has failed for lack of maintenance.": "After many a, use the singular noun scheme. The plural meaning does not license schemes in this pattern.",
-        "Many a promising scheme have failed for lack of maintenance.": "The head noun scheme is grammatically singular in this construction, so its verb is has.",
-        "A many promising schemes have failed for lack of maintenance.": "This mixes two patterns. Use either 'many promising schemes have' or 'many a promising scheme has'; a cannot simply precede many here."
+        "Many a promising schemes has failed for lack of maintenance.": "After 'many a', use the singular noun 'scheme'. The plural meaning does not license 'schemes' in this pattern.",
+        "Many a promising scheme have failed for lack of maintenance.": "The head noun 'scheme' is grammatically singular in this construction, so its verb is 'has'.",
+        "A many promising schemes have failed for lack of maintenance.": "This mixes two patterns. Use either 'many promising schemes have' or 'many a promising scheme has'; 'a' cannot simply precede 'many' here."
       },
       "audit": {
         "status": "reviewed",
@@ -2842,7 +2842,7 @@
       "explanation": "The definite phrase can continue reference to the object of a search. It specifies what the sought framework must be like, without cancelling \"still searching\" or asserting that one has been found.",
       "rationales": {
         "It describes a framework already selected, while leaving open whether the framework can meet the requirement": "Still searching rules out treating the definite article as an announcement of selection. The phrase continues reference to what is being sought.",
-        "It sets a requirement for the framework being sought, without asserting that one has been found": "Must states the desired property of the sought object. Definite reference can remain within that projected situation.",
+        "It sets a requirement for the framework being sought, without asserting that one has been found": "'Must' states the desired property of the sought object. Definite reference can remain within that projected situation.",
         "It refers to an earlier unsuccessful framework and describes the feature that the new one should replace": "No earlier failed framework is established. The natural link is back to a framework in the ongoing search.",
         "It announces that the search has ended but that the chosen framework still needs to be tested": "Changing a to the maintains reference; it does not cancel the statement that the search is continuing."
       },
@@ -2905,7 +2905,7 @@
       "rationales": {
         "It selects the second opinion from a numbered set already identifiable to the listener": "That would fit the second opinion in an established sequence. A second opinion introduces an additional instance without requiring such a known set.",
         "It introduces an additional opinion rather than identifying an established numbered opinion": "The indefinite ordinal phrase has the additional-instance reading: another opinion beyond the one already obtained.",
-        "It introduces another clinician rather than another opinion, regardless of who gives it": "The counted noun is opinion. The phrase does not itself identify or count clinicians.",
+        "It introduces another clinician rather than another opinion, regardless of who gives it": "The counted noun is 'opinion'. The phrase does not itself identify or count clinicians.",
         "It presents the first diagnosis as mistaken and therefore in need of replacement": "Seeking an additional view does not establish that the original diagnosis is wrong; it may confirm or clarify it."
       },
       "audit": {
@@ -2932,11 +2932,11 @@
         "Extinction concerns the species as a whole; egg-laying can describe a representative member"
       ],
       "answer": "Extinction concerns the species as a whole; egg-laying can describe a representative member",
-      "explanation": "A generic indefinite singular can describe a typical member, as in a dodo laid eggs. In its literal biological sense, extinct applies to a species, not an individual bird that dies. The definite singular can name that kind: the dodo is extinct. The distinction is not a tense rule.",
+      "explanation": "A generic indefinite singular can describe a typical member, as in 'a dodo laid eggs'. In its literal biological sense, 'extinct' applies to a species, not an individual bird that dies. The definite singular can name that kind: 'the dodo is extinct'. The distinction is not a tense rule.",
       "rationales": {
-        "Present-tense general statements require the, whereas past-tense general statements require a": "Article choice is not determined by tense: a dodo has a beak is a possible generic statement, while the dodo became extinct names the species in the past tense.",
+        "Present-tense general statements require the, whereas past-tense general statements require a": "Article choice is not determined by tense: 'a dodo has a beak' is a possible generic statement, while 'the dodo became extinct' names the species in the past tense.",
         "Extinction concerns the species as a whole; egg-laying can describe a representative member": "The article needs to fit the kind of property being predicated: extinction of a species versus a characteristic of its members.",
-        "The first statement names a previously identified specimen; the second introduces another specimen": "The museum editor is making general statements, and no individual specimens have been introduced. Extinct does not literally mean that one specimen has died.",
+        "The first statement names a previously identified specimen; the second introduces another specimen": "The museum editor is making general statements, and no individual specimens have been introduced. 'Extinct' does not literally mean that one specimen has died.",
         "The identifies the only extinct species, while a identifies one of several egg-laying species": "The definite article names this species as a kind; it does not claim that no other species is extinct. The indefinite example represents a typical dodo."
       },
       "audit": {
@@ -2994,7 +2994,7 @@
         "An activity or body of investigation versus one document proposing it"
       ],
       "answer": "An activity or body of investigation versus one document proposing it",
-      "explanation": "Research is uncountable in the first phrase. In the second, the head noun is countable \"proposal\", so \"a\" introduces one document; research modifies the kind of proposal.",
+      "explanation": "'Research' is uncountable in the first phrase. In the second, the head noun is countable \"proposal\", so \"a\" introduces one document; 'research' modifies the kind of proposal.",
       "rationales": {
         "An activity or body of investigation versus one document proposing it": "This identifies the head noun and reference type of each phrase.",
         "An informal conversation versus a published scientific result": "The article contrast does not establish informality or publication.",
@@ -3056,11 +3056,11 @@
         "The original leaves how much she devoted open; the revision says she devoted her entire small supply."
       ],
       "answer": "The original commits her limited supply of free time; the revision states only that she devoted a small amount of it.",
-      "explanation": "What little free time she had refers to the small total available to her. A little of her free time selects a small amount without saying that this exhausted a limited supply.",
+      "explanation": "'What little free time she had' refers to the small total available to her. 'A little of her free time' selects a small amount without saying that this exhausted a limited supply.",
       "rationales": {
         "Both versions say her total free time was scarce; only the revision leaves its use unspecified.": "A little of her free time specifies a small amount devoted to restoration, but does not say her total supply of free time was small. Its use is still specified.",
-        "The original presents her available time as plentiful; the revision presents it as scarce.": "What little signals that her available time was limited. The revision quantifies the portion used, not the size of her total supply.",
-        "The original commits her limited supply of free time; the revision states only that she devoted a small amount of it.": "What little free time she had refers to the small total available to her. A little of her free time selects a small amount without saying that this exhausted a limited supply.",
+        "The original presents her available time as plentiful; the revision presents it as scarce.": "'What little' signals that her available time was limited. The revision quantifies the portion used, not the size of her total supply.",
+        "The original commits her limited supply of free time; the revision states only that she devoted a small amount of it.": "'What little free time she had' refers to the small total available to her. 'A little of her free time' selects a small amount without saying that this exhausted a limited supply.",
         "The original leaves how much she devoted open; the revision says she devoted her entire small supply.": "This reverses the contrast. The totalising reference belongs to what little she had, not to the partitive a little of her free time."
       },
       "audit": {
@@ -3214,7 +3214,7 @@
       "answer": "The second identifies the siblings' educational history, while the first can retain a general reading",
       "explanation": "The second sentence treats the siblings' education as an identifiable object of study. Postmodification alone does not force \"the\": \"education in coastal communities\" remains general in the first sentence.",
       "rationales": {
-        "A postmodifier makes education definite whenever it narrows the range of people being studied": "The coastal-community modifier also narrows the subject without requiring the. Restricted subject matter is not the same as an identifiable referent.",
+        "A postmodifier makes education definite whenever it narrows the range of people being studied": "The coastal-community modifier also narrows the subject without requiring 'the'. Restricted subject matter is not the same as an identifiable referent.",
         "The second identifies the siblings' educational history, while the first can retain a general reading": "The siblings' education can be identified through its relation to them. The other sentence treats education as a general subject within a setting.",
         "The second points back to an education mentioned earlier, which the first sentence must introduce": "These are separate examples. An of-phrase can make a referent identifiable without an earlier mention of it.",
         "The first refers to education generally, whereas the second must refer to one course shared by the siblings": "An identifiable education can cover different schools and many experiences. Definiteness does not turn it into a single course."
@@ -3364,15 +3364,15 @@
         "The article marks an approximation, so twenty minutes must be understood as an imprecise estimate.",
         "The article is licensed because further changes minutes from a countable noun into an uncountable noun.",
         "The article is licensed because the phrase presents one additional duration measured in plural units.",
-        "The article is an error here; the plural unit requires either the or no article instead."
+        "The article is an error here; the plural unit requires either 'the' or no article instead."
       ],
       "answer": "The article is licensed because the phrase presents one additional duration measured in plural units.",
-      "explanation": "A further twenty minutes is a valid measure expression: the twenty minutes are presented as one additional stretch of time. Minutes remains plural; this construction does not license ordinary phrases such as a minutes or a chairs.",
+      "explanation": "'A further twenty minutes' is a valid measure expression: the twenty minutes are presented as one additional stretch of time. 'Minutes' remains plural; this construction does not license ordinary phrases such as 'a minutes' or 'a chairs'.",
       "rationales": {
         "The article is licensed because the phrase presents one additional duration measured in plural units.": "The article belongs to the complete measure expression, which packages the plural units as an additional duration.",
         "The article marks an approximation, so twenty minutes must be understood as an imprecise estimate.": "The duration may be exact or approximate in the real situation. A further does not itself require an approximate reading; it marks an additional amount.",
-        "The article is licensed because further changes minutes from a countable noun into an uncountable noun.": "Minutes still counts units of time and retains plural form. The construction groups those units into a duration rather than changing the noun into a mass noun.",
-        "The article is an error here; the plural unit requires either the or no article instead.": "This applies the elementary a-plus-singular rule too broadly. Modified measure expressions such as a further twenty minutes legitimately contain a plural unit after a."
+        "The article is licensed because further changes minutes from a countable noun into an uncountable noun.": "'Minutes' still counts units of time and retains plural form. The construction groups those units into a duration rather than changing the noun into a mass noun.",
+        "The article is an error here; the plural unit requires either 'the' or no article instead.": "This applies the elementary a-plus-singular rule too broadly. Modified measure expressions such as 'a further twenty minutes' legitimately contain a plural unit after 'a'."
       },
       "audit": {
         "status": "reviewed",
@@ -3403,7 +3403,7 @@
         "Has the reviewer withdrawn?": "The yes-no question leaves withdrawal open, but the reviewer presents a relevant reviewer as identifiable. That is precisely what the editor does not yet know.",
         "Which reviewer has withdrawn?": "Which reviewer asks for an identity within a withdrawal already treated as having occurred. The editor needs first to establish whether any withdrawal happened.",
         "Has a reviewer withdrawn?": "An indefinite inside this yes-no question asks whether there is an instance of a reviewer withdrawing. It does not assert that a reviewer was assigned or that a withdrawal occurred.",
-        "When did a reviewer withdraw?": "Although a reviewer is indefinite, when asks for the time of a withdrawal treated as established. Changing the article does not remove that assumption from the question."
+        "When did a reviewer withdraw?": "Although 'a reviewer' is indefinite, 'when' asks for the time of a withdrawal treated as established. Changing the article does not remove that assumption from the question."
       },
       "audit": {
         "status": "reviewed",
@@ -3465,8 +3465,8 @@
       "rationales": {
         "Both phrases introduce particular books; the difference lies only in whether their titles have been supplied.": "An unnamed particular book is possible in a log, but it misses the handbook's genre-level generalization. A does not always introduce one particular referent.",
         "The handbook presents a representative member of a genre; the log reports an event involving a particular book.": "The first clause expresses a characteristic possibility for a kind of fiction; the second locates a disappearance involving one actual display item.",
-        "The handbook identifies the genre's only novel; the log leaves the number of missing books unrestricted.": "Representative a does not limit a genre to one member. In the log, the singular phrase reports one book's disappearance, although it does not rule out other losses.",
-        "Both phrases identify a shared book because the modifier of this kind makes the indefinite article definite.": "Of this kind narrows the class of novels. It does not by itself establish shared identification of a particular book or change a into a definite article."
+        "The handbook identifies the genre's only novel; the log leaves the number of missing books unrestricted.": "Representative 'a' does not limit a genre to one member. In the log, the singular phrase reports one book's disappearance, although it does not rule out other losses.",
+        "Both phrases identify a shared book because the modifier of this kind makes the indefinite article definite.": "'Of this kind' narrows the class of novels. It does not by itself establish shared identification of a particular book or change 'a' into a definite article."
       },
       "audit": {
         "status": "reviewed",
@@ -3525,7 +3525,7 @@
       "answer": "Her manner sounded assured, though she was not a recognised specialist in the subject.",
       "explanation": "Article-free \"authority\" describes the manner or force of her speech. \"An authority on\" is a countable expression for a recognised expert in a subject.",
       "rationales": {
-        "Her manner sounded assured, though she was not a recognised specialist in the subject.": "With authority describes the force or assurance of her speech; an authority on the period denotes an expert, which the second clause denies.",
+        "Her manner sounded assured, though she was not a recognised specialist in the subject.": "'With authority' describes the force or assurance of her speech; 'an authority on the period' denotes an expert, which the second clause denies.",
         "Her role authorised the speech, though she lacked permission to advise on that period.": "This substitutes institutional permission for both senses. The sentence contrasts an assured manner with subject expertise, not two permissions.",
         "Her subject knowledge was authoritative, though her manner failed to convey confidence.": "This reverses the contrast. She sounded authoritative, but the writer denies that she was a recognised expert on the period.",
         "Her expertise was recognised, though she held no official post governing the discussion.": "An authority on a period is a specialist, not an official who controls a meeting. The sentence denies specialist status, not an official post."
@@ -3551,7 +3551,7 @@
         "The city as experienced or represented in a particular period of her life",
         "A different city formally named Paris during her youth",
         "An unidentified city sharing some Parisian characteristics",
-        "A set of letters whose published title is Paris of Her Youth"
+        "A set of letters whose published title is 'Paris of Her Youth'"
       ],
       "answer": "The city as experienced or represented in a particular period of her life",
       "explanation": "The definite article and modifier select a temporally and personally characterised version of a place. Paris remains the same city; the phrase directs attention to the Paris represented by her youthful experience.",
@@ -3559,7 +3559,7 @@
         "A different city formally named Paris during her youth": "The phrase need not refer to another municipality or a name change; it frames the familiar city through a period of experience.",
         "The city as experienced or represented in a particular period of her life": "This captures how the modifier licenses a definite, characterised use of the proper name.",
         "An unidentified city sharing some Parisian characteristics": "That would resemble a metaphorical \"a Paris\" reading, not the identified version of the city described here.",
-        "A set of letters whose published title is Paris of Her Youth": "The words identify what the correspondence reveals, not a title assigned to the letters."
+        "A set of letters whose published title is 'Paris of Her Youth'": "The words identify what the correspondence reveals, not a title assigned to the letters."
       },
       "audit": {
         "status": "reviewed",
@@ -3642,14 +3642,14 @@
       "taskText": "The headline reads 'Court dismisses claim'. Can the missing article before 'court' be reconstructed as 'a' or 'the' from these words alone?",
       "options": [
         "No: headline compression can omit either article; the report must establish how the court is being introduced or identified.",
-        "Yes: the completed event requires the because its participants are now definite.",
+        "Yes: the completed event requires 'the' because its participants are now definite.",
         "Yes: bare court names the judicial system, so adding either article would change the subject.",
         "No article is missing: capitalisation makes Court a proper name that should remain bare in full prose."
       ],
       "answer": "No: headline compression can omit either article; the report must establish how the court is being introduced or identified.",
       "explanation": "Headlines commonly omit articles. Bare 'court' here therefore does not settle whether full prose would introduce a court with 'a' or identify the relevant court with 'the'.",
       "rationales": {
-        "Yes: the completed event requires the because its participants are now definite.": "Completion of an event does not determine article choice. A past event can introduce a participant with 'a' or refer to an identifiable participant with 'the'.",
+        "Yes: the completed event requires 'the' because its participants are now definite.": "Completion of an event does not determine article choice. A past event can introduce a participant with 'a' or refer to an identifiable participant with 'the'.",
         "No: headline compression can omit either article; the report must establish how the court is being introduced or identified.": "Headlines commonly omit articles. Bare 'court' here therefore does not settle whether full prose would introduce a court with 'a' or identify the relevant court with 'the'.",
         "Yes: bare court names the judicial system, so adding either article would change the subject.": "The headline can report a decision by an individual court. Article omission in a headline is not the same as the conventional bare institutional expression in 'go to court'.",
         "No article is missing: capitalisation makes Court a proper name that should remain bare in full prose.": "The capital occurs at the start of the headline. It does not establish 'Court' as a proper name or license ordinary prose such as 'Court dismissed a claim'."
@@ -3710,7 +3710,7 @@
         "It denotes the most frequently occurring family type among the actual respondents."
       ],
       "answer": "It denotes an abstract statistical representative rather than an individual person.",
-      "explanation": "The definite phrase presents a statistical abstraction as a representative respondent. It does not require an actual person with exactly the averaged properties. Treating the as a guarantee of one real-world individual would therefore misread the sentence.",
+      "explanation": "The definite phrase presents a statistical abstraction as a representative respondent. It does not require an actual person with exactly the averaged properties. Treating 'the' as a guarantee of one real-world individual would therefore misread the sentence.",
       "rationales": {
         "It identifies the actual respondent whose family was closest to the numerical mean.": "An average representative is not necessarily the nearest actual case. The sentence assigns the averaged value to an abstraction, not a selected person's family.",
         "It identifies the previously mentioned respondent selected to represent the sample.": "No earlier individual is supplied, and the phrase does not perform ordinary backward reference to a survey participant.",

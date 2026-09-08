@@ -19,14 +19,14 @@ I am travelling with one small ___.
 3. suitcase **[Correct]**
 4. clothing
 
-**Explanation:** Suitcase names an individual bag, so one small suitcase is grammatical.
+**Explanation:** 'Suitcase' names an individual bag, so 'one small suitcase' is grammatical.
 
 **Choice feedback:**
 
-- **luggage:** Luggage names bags collectively; use one piece of luggage when counting one item.
-- **baggage:** Baggage is uncountable in this travel meaning and cannot directly follow one.
-- **suitcase:** Suitcase names an individual bag, so one small suitcase is grammatical.
-- **clothing:** Clothing names clothes collectively; one item of clothing would count a single garment.
+- **luggage:** 'Luggage' names bags collectively; use 'one piece of luggage' when counting one item.
+- **baggage:** 'Baggage' is uncountable in this travel meaning and cannot directly follow 'one'.
+- **suitcase:** 'Suitcase' names an individual bag, so 'one small suitcase' is grammatical.
+- **clothing:** 'Clothing' names clothes collectively; 'one item of clothing' would count a single garment.
 
 **Decision:** replaced.
 
@@ -56,7 +56,7 @@ Please bring ___ to the picnic.
 **Choice feedback:**
 
 - **two bottles of water:** Bottles are the objects being counted; of water tells us what they contain.
-- **two bottle of water:** Two requires plural bottles; water stays unchanged.
+- **two bottle of water:** 'Two' requires plural 'bottles'; 'water' stays unchanged.
 - **two waters of bottle:** Count the containers as bottles of water; the words cannot be reversed this way.
 - **two bottles water:** Of connects the counted containers to their contents: bottles of water.
 
@@ -83,14 +83,14 @@ The taxi can take ___.
 3. four people **[Correct]**
 4. much people
 
-**Explanation:** People is the ordinary plural of person for a group of individual passengers.
+**Explanation:** 'People' is the ordinary plural of 'person' for a group of individual passengers.
 
 **Choice feedback:**
 
-- **four person:** Person needs a plural form after four; four people is the everyday expression.
-- **a people:** A people can refer to a whole ethnic or national group, not four individual taxi passengers.
-- **four people:** People is the ordinary plural of person for a group of individual passengers.
-- **much people:** Much does not quantify people when it means individual persons.
+- **four person:** 'Person' needs a plural form after 'four'; 'four people' is the everyday expression.
+- **a people:** 'A people' can refer to a whole ethnic or national group, not four individual taxi passengers.
+- **four people:** 'People' is the ordinary plural of 'person' for a group of individual passengers.
+- **much people:** 'Much' does not quantify 'people' when it means individual persons.
 
 **Decision:** replaced.
 
@@ -179,14 +179,14 @@ The clear part of this window is made of ___.
 3. the glasses
 4. glass **[Correct]**
 
-**Explanation:** Glass without an article names the material from which the window is made.
+**Explanation:** 'Glass' without an article names the material from which the window is made.
 
 **Choice feedback:**
 
-- **glasses:** Glasses can mean drinking containers or spectacles; the task asks for the material itself.
+- **glasses:** 'Glasses' can mean drinking containers or spectacles; the task asks for the material itself.
 - **a glass:** A glass counts one drinking container rather than naming the window material.
 - **the glasses:** The glasses identifies particular containers or spectacles, not the material as a substance.
-- **glass:** Glass without an article names the material from which the window is made.
+- **glass:** 'Glass' without an article names the material from which the window is made.
 
 **Decision:** replaced.
 
@@ -243,14 +243,14 @@ Please buy two ___.
 3. milk
 4. flour
 
-**Explanation:** Apples are separate fruits, so a number can go directly before plural apples.
+**Explanation:** Apples are separate fruits, so a number can go directly before plural 'apples'.
 
 **Choice feedback:**
 
-- **apples:** Apples are separate fruits, so a number can go directly before plural apples.
+- **apples:** Apples are separate fruits, so a number can go directly before plural 'apples'.
 - **sugar:** Sugar needs a unit when counted, such as two bags of sugar.
 - **milk:** For a count of milk containers, say two cartons of milk.
-- **flour:** Flour is uncountable here; use a unit such as two bags of flour.
+- **flour:** 'Flour' is uncountable here; use a unit such as 'two bags of flour'.
 
 **Decision:** replaced.
 
@@ -275,14 +275,14 @@ The large bag contains ___.
 3. two kilos of sugar **[Correct]**
 4. two kilo sugars
 
-**Explanation:** Kilos supplies the countable measurement; sugar names what is being weighed.
+**Explanation:** 'Kilos' supplies the countable measurement; 'sugar' names what is being weighed.
 
 **Choice feedback:**
 
-- **two kilo of sugar:** The weight unit takes a plural after two: kilos.
+- **two kilo of sugar:** The weight unit takes a plural after 'two': 'kilos'.
 - **two of kilos sugar:** Of goes after the measurement, not between the number and kilos: two kilos of sugar.
-- **two kilos of sugar:** Kilos supplies the countable measurement; sugar names what is being weighed.
-- **two kilo sugars:** The unit needs plural kilos and of before the food: two kilos of sugar.
+- **two kilos of sugar:** 'Kilos' supplies the countable measurement; 'sugar' names what is being weighed.
+- **two kilo sugars:** The unit needs plural 'kilos' and 'of' before the food: 'two kilos of sugar'.
 
 **Decision:** replaced.
 
@@ -312,8 +312,8 @@ For this cake, we need ___.
 **Choice feedback:**
 
 - **six eggs:** Eggs are separate ingredients that can be counted directly with six.
-- **six egg:** Egg is countable here and needs the plural eggs after six.
-- **six an egg:** An introduces one egg; it cannot follow the number six.
+- **six egg:** 'Egg' is countable here and needs the plural 'eggs' after 'six'.
+- **six an egg:** 'An' introduces one egg; it cannot follow the number 'six'.
 - **six of eggs:** Six goes directly before eggs, or use six of the eggs for part of a known group.
 
 **Decision:** replaced.
@@ -371,14 +371,14 @@ I usually put ___ in this salad.
 3. the chicken
 4. chicken **[Correct]**
 
-**Explanation:** Chicken without an article can name the meat as an uncountable food.
+**Explanation:** 'Chicken' without an article can name the meat as an uncountable food.
 
 **Choice feedback:**
 
-- **a chicken:** A chicken refers to one whole bird, which the task excludes.
+- **a chicken:** 'A chicken' refers to one whole bird, which the task excludes.
 - **chickens:** Chickens counts whole birds, not the meat added to a salad.
 - **the chicken:** The chicken identifies particular chicken already known, rather than naming the ingredient generally.
-- **chicken:** Chicken without an article can name the meat as an uncountable food.
+- **chicken:** 'Chicken' without an article can name the meat as an uncountable food.
 
 **Decision:** replaced.
 
@@ -403,14 +403,14 @@ The washing is finished.
 3. My clothes are clean. **[Correct]**
 4. A clothes is clean.
 
-**Explanation:** Clothes is used as a plural noun, so are clean agrees with it.
+**Explanation:** 'Clothes' is used as a plural noun, so 'are clean' agrees with it.
 
 **Choice feedback:**
 
-- **My clothes is clean.:** Clothes has a plural form and takes are, not is.
-- **My clothing are clean.:** Clothing is uncountable and takes is clean.
-- **My clothes are clean.:** Clothes is used as a plural noun, so are clean agrees with it.
-- **A clothes is clean.:** Clothes does not take a as a singular noun; say an item of clothing for one thing.
+- **My clothes is clean.:** 'Clothes' has a plural form and takes 'are', not 'is'.
+- **My clothing are clean.:** 'Clothing' is uncountable and takes 'is clean'.
+- **My clothes are clean.:** 'Clothes' is used as a plural noun, so 'are clean' agrees with it.
+- **A clothes is clean.:** 'Clothes' does not take 'a' as a singular noun; say 'an item of clothing' for one thing.
 
 **Decision:** replaced.
 
@@ -435,12 +435,12 @@ Use the ordinary meanings shown: sand on a beach, a key, a chair, a bottle.
 3. chair
 4. bottle
 
-**Explanation:** Sand names the material as an amount; count individual grains if needed.
+**Explanation:** 'Sand' names the material as an amount; count individual grains if needed.
 
 **Choice feedback:**
 
 - **key:** A key is a separate object: one key, two keys.
-- **sand:** Sand names the material as an amount; count individual grains if needed.
+- **sand:** 'Sand' names the material as an amount; count individual grains if needed.
 - **chair:** Chairs are individual seats that can be counted one by one.
 - **bottle:** A bottle is a separate container, so bottle is countable.
 
@@ -472,7 +472,7 @@ The fridge has three ___ and some ___.
 **Choice feedback:**
 
 - **oranges / orange juice:** Oranges counts whole fruit, while orange juice names the liquid as an amount.
-- **orange / orange juices:** Three needs plural oranges; orange juices would suggest servings or types rather than the drink generally.
+- **orange / orange juices:** 'Three' needs plural 'oranges'; 'orange juices' would suggest servings or types rather than the drink generally.
 - **orange juice / oranges:** This reverses the requested fruit/drink order and puts three before an uncountable drink phrase.
 - **oranges / an orange juice:** Some an cannot introduce the drink; choose some orange juice.
 
@@ -499,11 +499,11 @@ The jug is in the fridge.
 3. This milk are cold.
 4. A milk are cold.
 
-**Explanation:** Milk names an uncountable liquid here, so this and is fit it.
+**Explanation:** 'Milk' names an uncountable liquid here, so 'this' and 'is' fit it.
 
 **Choice feedback:**
 
-- **This milk is cold.:** Milk names an uncountable liquid here, so this and is fit it.
+- **This milk is cold.:** 'Milk' names an uncountable liquid here, so 'this' and 'is' fit it.
 - **These milk are cold.:** These and are need a plural count noun, such as bottles, rather than milk.
 - **This milk are cold.:** This milk is singular in grammar and needs is.
 - **A milk are cold.:** The task uses milk as a liquid, not a serving; a is unsuitable and are does not agree with a singular phrase.
@@ -531,14 +531,14 @@ There is ___ beside your breakfast.
 3. a tea of cup
 4. a cups of tea
 
-**Explanation:** Cup names one container; of tea identifies the drink inside it.
+**Explanation:** 'Cup' names one container; 'of tea' identifies the drink inside it.
 
 **Choice feedback:**
 
-- **a cup tea:** A cup needs of before the drink name in this phrase.
-- **a cup of tea:** Cup names one container; of tea identifies the drink inside it.
+- **a cup tea:** 'A cup' needs 'of' before the drink name in this phrase.
+- **a cup of tea:** 'Cup' names one container; 'of tea' identifies the drink inside it.
 - **a tea of cup:** The container comes before of and the drink, not after them.
-- **a cups of tea:** A introduces one cup, so cups must be singular here.
+- **a cups of tea:** 'A' introduces one cup, so 'cups' must be singular here.
 
 **Decision:** replaced.
 
@@ -567,10 +567,10 @@ How many ___ does the flat have?
 
 **Choice feedback:**
 
-- **space:** Space means available area here and goes with how much, not how many.
+- **space:** 'Space' means available area here and goes with 'how much', not 'how many'.
 - **bedrooms:** Bedrooms are individual rooms, so how many asks for their number.
-- **a bedroom:** How many requires a plural noun without a: how many bedrooms.
-- **bedroom:** Use plural bedrooms after how many, even when the answer may be one.
+- **a bedroom:** 'How many' requires a plural noun without 'a': 'how many bedrooms'.
+- **bedroom:** Use plural 'bedrooms' after 'how many', even when the answer may be one.
 
 **Decision:** replaced.
 
@@ -600,8 +600,8 @@ Could I try ___ before I buy it?
 **Choice feedback:**
 
 - **a piece cheese:** Of is needed between piece and cheese.
-- **a pieces of cheese:** A requires singular piece; pieces would need a plural quantity.
-- **one of cheese:** One needs a countable unit here, such as one piece of cheese.
+- **a pieces of cheese:** 'A' requires singular 'piece'; 'pieces' would need a plural quantity.
+- **one of cheese:** 'One' needs a countable unit here, such as 'one piece of cheese'.
 - **a piece of cheese:** Piece supplies a countable portion of the uncountable food cheese.
 
 **Decision:** replaced.
@@ -627,13 +627,13 @@ To start the soup, we need ___.
 3. an onion and many oil
 4. onion and an oil
 
-**Explanation:** Onion is one counted ingredient here; oil is an uncountable liquid amount.
+**Explanation:** 'Onion' is one counted ingredient here; 'oil' is an uncountable liquid amount.
 
 **Choice feedback:**
 
-- **an onions and some oil:** An needs singular onion, not plural onions.
-- **an onion and some oil:** Onion is one counted ingredient here; oil is an uncountable liquid amount.
-- **an onion and many oil:** Oil is uncountable in this use, so many oil is incorrect.
+- **an onions and some oil:** 'An' needs singular 'onion', not plural 'onions'.
+- **an onion and some oil:** 'Onion' is one counted ingredient here; 'oil' is an uncountable liquid amount.
+- **an onion and many oil:** 'Oil' is uncountable in this use, so 'many oil' is incorrect.
 - **onion and an oil:** This gives onion as an amount and an oil as a type; it reverses the requested whole-item and liquid-amount meanings.
 
 **Decision:** replaced.
@@ -663,12 +663,12 @@ The travel agent sent me three emails about the booking.
 3. I received some information about the booking.
 4. I received a message with three bookings.
 
-**Explanation:** Messages are countable communications; information names their content without taking a plural ending.
+**Explanation:** 'Messages' are countable communications; 'information' names their content without taking a plural ending.
 
 **Choice feedback:**
 
-- **I received three informations about the booking.:** Information is uncountable in this everyday meaning; three messages counts the separate communications.
-- **I received three messages with booking information.:** Messages are countable communications; information names their content without taking a plural ending.
+- **I received three informations about the booking.:** 'Information' is uncountable in this everyday meaning; 'three messages' counts the separate communications.
+- **I received three messages with booking information.:** 'Messages' are countable communications; 'information' names their content without taking a plural ending.
 - **I received some information about the booking.:** This is grammatical, but it does not retain the exact count of three messages.
 - **I received a message with three bookings.:** This changes three messages about one booking into one message about three bookings.
 
@@ -700,9 +700,9 @@ Thank you for your feedback. Your three ___ were very helpful.
 **Choice feedback:**
 
 - **comments:** Comments are separate remarks, so three comments is a grammatical count within the feedback.
-- **feedback:** Feedback is uncountable in this response meaning; count individual comments instead.
-- **advice:** Advice is uncountable and cannot directly follow three.
-- **information:** Information names content as an amount, not individual remarks to count directly.
+- **feedback:** 'Feedback' is uncountable in this response meaning; count individual 'comments' instead.
+- **advice:** 'Advice' is uncountable and cannot directly follow 'three'.
+- **information:** 'Information' names content as an amount, not individual remarks to count directly.
 
 **Decision:** replaced.
 
@@ -727,14 +727,14 @@ You suggested practising my introduction before the interview. That is ___.
 3. useful suggestions
 4. a useful information
 
-**Explanation:** Suggestion is countable and names one proposed action, here practising an introduction.
+**Explanation:** 'Suggestion' is countable and names one proposed action, here practising an introduction.
 
 **Choice feedback:**
 
-- **a useful advice:** Advice is uncountable; use a piece of advice or a useful suggestion for one idea.
-- **a useful suggestion:** Suggestion is countable and names one proposed action, here practising an introduction.
+- **a useful advice:** 'Advice' is uncountable; use 'a piece of advice' or 'a useful suggestion' for one idea.
+- **a useful suggestion:** 'Suggestion' is countable and names one proposed action, here practising an introduction.
 - **useful suggestions:** The singular That is refers to one idea, not a plural set of suggestions.
-- **a useful information:** Information does not take a in this meaning and names facts rather than one suggested action.
+- **a useful information:** 'Information' does not take 'a' in this meaning and names facts rather than one suggested action.
 
 **Decision:** replaced.
 
@@ -759,14 +759,14 @@ Starting the job involved ___.
 3. forms and two paperworks
 4. a form and some paperwork **[Correct]**
 
-**Explanation:** Form names one document; paperwork describes the administrative work or documents collectively.
+**Explanation:** 'Form' names one document; 'paperwork' describes the administrative work or documents collectively.
 
 **Choice feedback:**
 
 - **a paperwork and some forms:** Paperwork does not normally take a in this administrative meaning, and the order reverses the requested meanings.
 - **some form and a paperwork:** Some form can name an unspecified document, but a paperwork is not standard for the administrative work in this sentence.
 - **forms and two paperworks:** Forms changes one document to several; paperwork is not directly pluralized to count this work.
-- **a form and some paperwork:** Form names one document; paperwork describes the administrative work or documents collectively.
+- **a form and some paperwork:** 'Form' names one document; 'paperwork' describes the administrative work or documents collectively.
 
 **Decision:** replaced.
 
@@ -791,14 +791,14 @@ The ticket machine does not take cards. Have you got any ___?
 3. a change
 4. many change
 
-**Explanation:** Change is uncountable when it means coins or small amounts of money.
+**Explanation:** 'Change' is uncountable when it means coins or small amounts of money.
 
 **Choice feedback:**
 
-- **change:** Change is uncountable when it means coins or small amounts of money.
-- **changes:** Changes normally means alterations, not a supply of coins.
-- **a change:** Any a cannot introduce the noun; a change also normally names one alteration.
-- **many change:** Many cannot follow any in this phrase or quantify uncountable change.
+- **change:** 'Change' is uncountable when it means coins or small amounts of money.
+- **changes:** 'Changes' normally means alterations, not a supply of coins.
+- **a change:** 'Any a' cannot introduce the noun; 'a change' also normally names one alteration.
+- **many change:** 'Many' cannot follow 'any' in this phrase or quantify uncountable 'change'.
 
 **Decision:** replaced.
 
@@ -823,14 +823,14 @@ My evening course has work to do before the next class.
 3. I have many homework to finish.
 4. I have some homework to finish. **[Correct]**
 
-**Explanation:** Some introduces an amount of homework without treating it as a plural count noun.
+**Explanation:** 'Some' introduces an amount of homework without treating it as a plural count noun.
 
 **Choice feedback:**
 
-- **I have three homeworks to finish.:** Homework is uncountable in this standard course-work meaning; count three assignments instead.
+- **I have three homeworks to finish.:** 'Homework' is uncountable in this standard course-work meaning; count 'three assignments' instead.
 - **I have a homework to finish.:** For one task, say a homework assignment; homework alone does not normally take a here.
-- **I have many homework to finish.:** Many needs a plural count noun, such as exercises or assignments.
-- **I have some homework to finish.:** Some introduces an amount of homework without treating it as a plural count noun.
+- **I have many homework to finish.:** 'Many' needs a plural count noun, such as 'exercises' or 'assignments'.
+- **I have some homework to finish.:** 'Some' introduces an amount of homework without treating it as a plural count noun.
 
 **Decision:** replaced.
 
@@ -855,13 +855,13 @@ I serve breakfast at a hotel and clean an office in the evening. I have ___.
 3. two jobs **[Correct]**
 4. some work
 
-**Explanation:** Job is countable when it means a paid position, so two jobs matches the situation.
+**Explanation:** 'Job' is countable when it means a paid position, so 'two jobs' matches the situation.
 
 **Choice feedback:**
 
 - **two works:** Works does not normally count paid positions; use jobs for those positions.
-- **a job:** A job describes one position, not the two stated.
-- **two jobs:** Job is countable when it means a paid position, so two jobs matches the situation.
+- **a job:** 'A job' describes one position, not the two stated.
+- **two jobs:** 'Job' is countable when it means a paid position, so 'two jobs' matches the situation.
 - **some work:** Some work is grammatical but does not explicitly count the two positions.
 
 **Decision:** replaced.
@@ -887,14 +887,14 @@ My application was successful, and I want to tell my family.
 3. A news is good.
 4. The news is good. **[Correct]**
 
-**Explanation:** News is grammatically singular in this meaning despite its final s, so it takes is.
+**Explanation:** 'News' is grammatically singular in this meaning despite its final 's', so it takes 'is'.
 
 **Choice feedback:**
 
-- **The news are good.:** The final s does not make news a plural count noun; use is.
-- **These news are good.:** Use this news for an identified piece or body of news; these requires a plural count noun.
-- **A news is good.:** News does not take a directly; say a piece of news for one item.
-- **The news is good.:** News is grammatically singular in this meaning despite its final s, so it takes is.
+- **The news are good.:** The final 's' does not make 'news' a plural count noun; use 'is'.
+- **These news are good.:** Use 'this news' for an identified piece or body of news; 'these' requires a plural count noun.
+- **A news is good.:** 'News' does not take 'a' directly; say 'a piece of news' for one item.
+- **The news is good.:** 'News' is grammatically singular in this meaning despite its final 's', so it takes 'is'.
 
 **Decision:** replaced.
 
@@ -923,9 +923,9 @@ The delivery contains ___.
 
 **Choice feedback:**
 
-- **three furnitures:** Furniture is uncountable in this household meaning; use items or pieces to count it.
-- **three furniture:** Three cannot directly count furniture; it needs a unit noun.
-- **three item of furniture:** Item must be plural after three: three items.
+- **three furnitures:** 'Furniture' is uncountable in this household meaning; use 'items' or 'pieces' to count it.
+- **three furniture:** 'Three' cannot directly count 'furniture'; it needs a unit noun.
+- **three item of furniture:** 'Item' must be plural after 'three': 'three items'.
 - **three items of furniture:** Items counts the sofa, desk and wardrobe, while furniture remains uncountable.
 
 **Decision:** replaced.
@@ -956,8 +956,8 @@ There are two long ___ on your jacket.
 **Choice feedback:**
 
 - **hairs:** A hair is one strand, so two hairs counts two strands on the jacket.
-- **hair:** Hair without s names hair collectively; two separate strands require hairs.
-- **a hair:** A hair is singular and cannot follow two.
+- **hair:** 'Hair' without 's' names hair collectively; two separate strands require 'hairs'.
+- **a hair:** 'A hair' is singular and cannot follow 'two'.
 - **some hair:** Some hair gives an amount, but two cannot introduce some hair this way.
 
 **Decision:** replaced.
@@ -983,14 +983,14 @@ The printer has run out of ___.
 3. the papers
 4. paper **[Correct]**
 
-**Explanation:** Paper names the printing material as an uncountable supply, so it can appear without an article here.
+**Explanation:** 'Paper' names the printing material as an uncountable supply, so it can appear without an article here.
 
 **Choice feedback:**
 
-- **a paper:** A paper usually names one document, article or newspaper, not a supply of blank material.
-- **papers:** Papers refers to documents or separate published works in this use.
+- **a paper:** 'A paper' usually names one document, article or newspaper, not a supply of blank material.
+- **papers:** 'Papers' refers to documents or separate published works in this use.
 - **the papers:** The papers identifies particular documents, which the task excludes.
-- **paper:** Paper names the printing material as an uncountable supply, so it can appear without an article here.
+- **paper:** 'Paper' names the printing material as an uncountable supply, so it can appear without an article here.
 
 **Decision:** replaced.
 
@@ -1019,10 +1019,10 @@ She offered each guest two ___.
 
 **Choice feedback:**
 
-- **chocolate:** Chocolate without s names the food as a substance, not two separate sweets directly.
-- **a chocolate:** A chocolate means one sweet and cannot follow two.
+- **chocolate:** 'Chocolate' without 's' names the food as a substance, not two separate sweets directly.
+- **a chocolate:** 'A chocolate' means one sweet and cannot follow 'two'.
 - **chocolates:** Chocolates counts individual chocolate sweets, such as pieces with separate fillings.
-- **much chocolate:** Much chocolate refers to an amount and cannot follow the number two.
+- **much chocolate:** 'Much chocolate' refers to an amount and cannot follow the number 'two'.
 
 **Decision:** replaced.
 
@@ -1079,13 +1079,13 @@ The family ticket covers two adults and two ___.
 3. children **[Correct]**
 4. child's
 
-**Explanation:** Children is the standard irregular plural of child.
+**Explanation:** 'Children' is the standard irregular plural of 'child'.
 
 **Choice feedback:**
 
-- **child:** The singular child cannot directly follow two.
-- **a child:** A child names one person and cannot follow the number two.
-- **children:** Children is the standard irregular plural of child.
+- **child:** The singular 'child' cannot directly follow 'two'.
+- **a child:** 'A child' names one person and cannot follow the number 'two'.
+- **children:** 'Children' is the standard irregular plural of 'child'.
 - **child's:** Child's is a possessive form, not the plural needed for a ticket count.
 
 **Decision:** replaced.
@@ -1111,14 +1111,14 @@ Your ___ looks different. Did you have it cut?
 3. a hair
 4. some hair
 
-**Explanation:** Hair is uncountable when it names someone's hair as a whole, so hair looks and it fit.
+**Explanation:** 'Hair' is uncountable when it names someone's hair as a whole, so 'hair looks' and 'it' fit.
 
 **Choice feedback:**
 
 - **hairs:** Hairs counts separate strands and would also require look, not looks.
-- **hair:** Hair is uncountable when it names someone's hair as a whole, so hair looks and it fit.
+- **hair:** 'Hair' is uncountable when it names someone's hair as a whole, so 'hair looks' and 'it' fit.
 - **a hair:** Your a hair combines your with an incompatible article; a single strand would be one of your hairs, not your hair as a whole.
-- **some hair:** Your some hair is not a grammatical noun phrase; the possessive already introduces the noun.
+- **some hair:** 'Your some hair' is not a grammatical noun phrase; the possessive already introduces the noun.
 
 **Decision:** replaced.
 
@@ -1179,10 +1179,10 @@ For my new uniform, I need ___.
 
 **Choice feedback:**
 
-- **a trousers:** Trousers has a plural form and cannot directly follow a.
+- **a trousers:** 'Trousers' has a plural form and cannot directly follow 'a'.
 - **a pair of trousers:** Pair lets us count one complete garment while trousers remains plural.
 - **one trouser:** One trouser does not normally name the complete garment; say a pair of trousers.
-- **a pair of trouser:** After a pair of, keep the plural noun trousers.
+- **a pair of trouser:** After 'a pair of', keep the plural noun 'trousers'.
 
 **Decision:** replaced.
 
@@ -1207,13 +1207,13 @@ One pair of scissors is on the desk.
 3. The scissors has sharp blades.
 4. A scissors is sharp.
 
-**Explanation:** Scissors is grammatically plural even when it names one tool.
+**Explanation:** 'Scissors' is grammatically plural even when it names one tool.
 
 **Choice feedback:**
 
-- **The scissors is sharp.:** Scissors takes plural are when it is the subject; the pair would take singular is.
-- **The scissors are sharp.:** Scissors is grammatically plural even when it names one tool.
-- **The scissors has sharp blades.:** Plural scissors requires have, not has, even when only one tool is being discussed.
+- **The scissors is sharp.:** 'Scissors' takes plural 'are' when it is the subject; 'the pair' would take singular 'is'.
+- **The scissors are sharp.:** 'Scissors' is grammatically plural even when it names one tool.
+- **The scissors has sharp blades.:** Plural 'scissors' requires 'have', not 'has', even when only one tool is being discussed.
 - **A scissors is sharp.:** In standard usage, say a pair of scissors or the scissors; do not introduce the plural noun directly with a.
 
 **Decision:** replaced.
@@ -1244,7 +1244,7 @@ I went to the head office once in March and once in May. That was ___.
 **Choice feedback:**
 
 - **two trips:** Trip is countable, so two trips matches the two separate visits.
-- **some travel:** Some travel is grammatical but describes activity without retaining the two-journey count.
+- **some travel:** 'Some travel' is grammatical but describes activity without retaining the two-journey count.
 - **a trip:** A trip counts only one journey, whereas March and May were separate journeys.
 - **much travel:** Much travel evaluates an amount and does not state the number of journeys.
 
@@ -1271,13 +1271,13 @@ Two volunteers are already packing the boxes. We need ___ to help them.
 3. a lot of help
 4. two more helpers
 
-**Explanation:** Helper is a countable person noun; another helper asks for one more person.
+**Explanation:** 'Helper' is a countable person noun; 'another helper' asks for one more person.
 
 **Choice feedback:**
 
-- **another helper:** Helper is a countable person noun; another helper asks for one more person.
+- **another helper:** 'Helper' is a countable person noun; 'another helper' asks for one more person.
 - **more help:** More help asks for additional assistance but does not explicitly specify one person.
-- **a lot of help:** A lot of help describes an amount of assistance, not a one-person addition.
+- **a lot of help:** 'A lot of help' describes an amount of assistance, not a one-person addition.
 - **two more helpers:** This asks for two additional people, whereas the task specifies one.
 
 **Decision:** replaced.
@@ -1307,13 +1307,13 @@ Although I am new to this company, I have ___ in customer service.
 3. considerable experience **[Correct]**
 4. an experience
 
-**Explanation:** Experience without an article can mean accumulated practical knowledge; considerable describes its extent.
+**Explanation:** 'Experience' without an article can mean accumulated practical knowledge; 'considerable' describes its extent.
 
 **Choice feedback:**
 
 - **a memorable experience:** An experience is one event someone lives through; memorable describes that event, not accumulated job knowledge.
 - **several unusual experiences:** Experiences counts events, whereas the task asks about professional knowledge gained over time.
-- **considerable experience:** Experience without an article can mean accumulated practical knowledge; considerable describes its extent.
+- **considerable experience:** 'Experience' without an article can mean accumulated practical knowledge; 'considerable' describes its extent.
 - **an experience:** An experience introduces one event rather than the skill built through repeated work.
 
 **Decision:** replaced.
@@ -1343,10 +1343,10 @@ The payment failed on Monday, Tuesday and Wednesday. I tried ___.
 
 **Choice feedback:**
 
-- **for some time:** For some time describes duration without counting separate attempts.
+- **for some time:** 'For some time' describes duration without counting separate attempts.
 - **for three hours:** Hours measures how long an attempt lasted, not the three stated occasions.
 - **three times:** Times counts separate occasions; time without s often refers to duration.
-- **three time:** When counting occasions after three, use the plural times.
+- **three time:** When counting occasions after 'three', use the plural 'times'.
 
 **Decision:** replaced.
 
@@ -1403,14 +1403,14 @@ The new station has brought ___ to the shops nearby.
 3. a new business
 4. more business **[Correct]**
 
-**Explanation:** Business is uncountable when it means commercial activity or trade; more business can mean increased customer activity.
+**Explanation:** 'Business' is uncountable when it means commercial activity or trade; 'more business' can mean increased customer activity.
 
 **Choice feedback:**
 
 - **another business:** Another business introduces one additional company, not increased trade for existing shops.
 - **several businesses:** Businesses counts companies rather than the activity brought to the shops.
-- **a new business:** A new business names a newly established company; that is not the requested activity meaning.
-- **more business:** Business is uncountable when it means commercial activity or trade; more business can mean increased customer activity.
+- **a new business:** 'A new business' names a newly established company; that is not the requested activity meaning.
+- **more business:** 'Business' is uncountable when it means commercial activity or trade; 'more business' can mean increased customer activity.
 
 **Decision:** replaced.
 
@@ -1440,9 +1440,9 @@ The gallery bought three ___ by the same painter.
 **Choice feedback:**
 
 - **works:** A work can be a painting or another artistic creation, so three works counts separate pieces.
-- **work:** Work is uncountable for effort or employment; individual artistic creations are works.
-- **a work:** A work is singular and cannot follow three.
-- **some work:** Three cannot introduce some work; that phrase describes an unspecified amount or set.
+- **work:** 'Work' is uncountable for effort or employment; individual artistic creations are 'works'.
+- **a work:** 'A work' is singular and cannot follow 'three'.
+- **some work:** 'Three' cannot introduce 'some work'; that phrase describes an unspecified amount or set.
 
 **Decision:** replaced.
 
@@ -1467,14 +1467,14 @@ The studio needs more ___, so we are installing two new ___.
 3. a light / lights
 4. light / a light
 
-**Explanation:** Light is uncountable for illumination; lights counts the fittings that produce it.
+**Explanation:** 'Light' is uncountable for illumination; 'lights' counts the fittings that produce it.
 
 **Choice feedback:**
 
-- **light / lights:** Light is uncountable for illumination; lights counts the fittings that produce it.
+- **light / lights:** 'Light' is uncountable for illumination; 'lights' counts the fittings that produce it.
 - **lights / light:** The first gap refers to illumination as an amount, while two new requires plural fittings.
-- **a light / lights:** More a light is not a grammatical amount phrase; use more light for illumination.
-- **light / a light:** Two new requires a plural noun without a: two new lights.
+- **a light / lights:** 'More a light' is not a grammatical amount phrase; use 'more light' for illumination.
+- **light / a light:** 'Two new' requires a plural noun without 'a': 'two new lights'.
 
 **Decision:** replaced.
 
@@ -1499,11 +1499,11 @@ The engine was quiet until I heard ___.
 3. some background noise
 4. several sharp noises
 
-**Explanation:** A noise can mean one identifiable sound; the article and adjective present this as a single event.
+**Explanation:** 'A noise' can mean one identifiable sound; the article and adjective present this as a single event.
 
 **Choice feedback:**
 
-- **a sharp noise:** A noise can mean one identifiable sound; the article and adjective present this as a single event.
+- **a sharp noise:** 'A noise' can mean one identifiable sound; the article and adjective present this as a single event.
 - **a great deal of noise:** This describes a large amount of sound without isolating one brief event.
 - **some background noise:** Background noise presents ongoing surrounding sound, not the single sharp event requested.
 - **several sharp noises:** Several counts more than one sound, while the task specifies one.
@@ -1531,13 +1531,13 @@ The lecturer asked us to discuss ___.
 3. a recent paper on urban housing **[Correct]**
 4. a sheet of blank paper
 
-**Explanation:** A paper can be a written article; the topic phrase makes that countable document meaning clear.
+**Explanation:** 'A paper' can be a written article; the topic phrase makes that countable document meaning clear.
 
 **Choice feedback:**
 
 - **some paper for the printer:** This refers to blank material, not an article with content to discuss.
 - **several recent papers on urban housing:** This refers to several articles rather than the one specified in the task.
-- **a recent paper on urban housing:** A paper can be a written article; the topic phrase makes that countable document meaning clear.
+- **a recent paper on urban housing:** 'A paper' can be a written article; the topic phrase makes that countable document meaning clear.
 - **a sheet of blank paper:** A sheet counts one piece of writing material, not a written academic article.
 
 **Decision:** replaced.
@@ -1569,7 +1569,7 @@ The catalogue compares coffees grown in three different regions, with notes on e
 
 - **Individual beans from one bag.:** 'Coffees' does not count individual beans; the catalogue contrasts regional varieties.
 - **Cups ordered by three customers.:** Serving counts are possible in a cafe, but the regional varieties in this catalogue establish a types meaning.
-- **The total amount of coffee produced.:** The plural and the notes on each variety divide coffee into kinds rather than giving one total amount.
+- **The total amount of coffee produced.:** The plural and the notes on each variety divide 'coffee' into kinds rather than giving one total amount.
 - **Different varieties of coffee.:** A normally uncountable drink noun can be plural when distinct kinds or varieties are being compared.
 
 **Decision:** replaced.
@@ -1600,7 +1600,7 @@ For the large family meal, the cook roasted ___.
 **Choice feedback:**
 
 - **some chicken:** This gives an unspecified amount of meat without identifying two whole birds.
-- **two chicken:** When counting whole birds after two, use plural chickens.
+- **two chicken:** When counting whole birds after 'two', use plural 'chickens'.
 - **a little chicken:** This can mean a small bird or a small amount of meat; neither reading specifies two whole birds.
 - **two chickens:** Chickens counts whole birds, even when they are being prepared as food.
 
@@ -1627,14 +1627,14 @@ The hotel can lend guests ___ if their clothes are creased.
 3. a piece of iron
 4. an iron **[Correct]**
 
-**Explanation:** An iron is a countable household appliance; iron without an article can name the metal.
+**Explanation:** 'An iron' is a countable household appliance; 'iron' without an article can name the metal.
 
 **Choice feedback:**
 
-- **some iron:** Some iron describes an amount of metal, not a pressing appliance.
+- **some iron:** 'Some iron' describes an amount of metal, not a pressing appliance.
 - **much iron:** Much iron quantifies the metal and does not name one usable appliance.
 - **a piece of iron:** A piece of iron counts a piece of metal rather than the appliance guests need.
-- **an iron:** An iron is a countable household appliance; iron without an article can name the metal.
+- **an iron:** 'An iron' is a countable household appliance; 'iron' without an article can name the metal.
 
 **Decision:** replaced.
 
@@ -1755,14 +1755,14 @@ The team has completed ___ into bus use in the city.
 3. a great deal of research
 4. further research
 
-**Explanation:** Studies is countable and can name three distinct investigations into the same topic.
+**Explanation:** 'Studies' is countable and can name three distinct investigations into the same topic.
 
 **Choice feedback:**
 
-- **some research:** Some research describes an unspecified amount of investigation, not three separate completed projects.
-- **three studies:** Studies is countable and can name three distinct investigations into the same topic.
+- **some research:** 'Some research' describes an unspecified amount of investigation, not three separate completed projects.
+- **three studies:** 'Studies' is countable and can name three distinct investigations into the same topic.
 - **a great deal of research:** This indicates extensive research without stating how many studies were completed.
-- **further research:** Further research means additional investigation but gives no exact project count.
+- **further research:** 'Further research' means additional investigation but gives no exact project count.
 
 **Decision:** replaced.
 
@@ -1819,14 +1819,14 @@ Two storms interrupted the outdoor repairs in different weeks. The team lost tim
 3. bad weather
 4. two periods of bad weather **[Correct]**
 
-**Explanation:** Periods supplies the countable time units while weather names the conditions within them.
+**Explanation:** 'Periods' supplies the countable time units while 'weather' names the conditions within them.
 
 **Choice feedback:**
 
 - **two bad weathers:** Weather is not directly counted this way in ordinary descriptions of conditions; count periods or spells.
 - **a period of bad weather:** One period does not preserve the two separate interruptions in different weeks.
 - **bad weather:** This names the conditions but leaves the number of separate periods unstated.
-- **two periods of bad weather:** Periods supplies the countable time units while weather names the conditions within them.
+- **two periods of bad weather:** 'Periods' supplies the countable time units while 'weather' names the conditions within them.
 
 **Decision:** replaced.
 
@@ -1915,14 +1915,14 @@ Her parents wanted her to receive ___.
 3. several education
 4. a broad educations
 
-**Explanation:** Although education is often uncountable, a broad education can describe a particular kind or experience of schooling.
+**Explanation:** Although 'education' is often uncountable, 'a broad education' can describe a particular kind or experience of schooling.
 
 **Choice feedback:**
 
-- **a broad education:** Although education is often uncountable, a broad education can describe a particular kind or experience of schooling.
-- **many education:** Many cannot directly quantify education as a person's schooling.
-- **several education:** Several needs a plural count noun and does not describe one broad schooling experience.
-- **a broad educations:** A requires a singular form; the plural ending cannot be combined with a here.
+- **a broad education:** Although 'education' is often uncountable, 'a broad education' can describe a particular kind or experience of schooling.
+- **many education:** 'Many' cannot directly quantify 'education' as a person's schooling.
+- **several education:** 'Several' needs a plural count noun and does not describe one broad schooling experience.
+- **a broad educations:** 'A' requires a singular form; the plural ending cannot be combined with 'a' here.
 
 **Decision:** replaced.
 
@@ -1951,14 +1951,14 @@ The inspection found cracks in several walls. It recorded ___.
 3. extensive damage to the building **[Correct]**
 4. an award of damages for the building
 
-**Explanation:** Damage is uncountable when it means physical harm; extensive describes its extent.
+**Explanation:** 'Damage' is uncountable when it means physical harm; 'extensive' describes its extent.
 
 **Choice feedback:**
 
-- **substantial damages awarded for the building:** Damages awarded refers to compensation, not the physical harm documented by the inspection.
+- **substantial damages awarded for the building:** 'Damages awarded' refers to compensation, not the physical harm documented by the inspection.
 - **several damages paid for the building:** Paid and damages concern compensation, not the cracks observed in the walls.
-- **extensive damage to the building:** Damage is uncountable when it means physical harm; extensive describes its extent.
-- **an award of damages for the building:** An award of damages names a compensation decision, which the inspection does not report.
+- **extensive damage to the building:** 'Damage' is uncountable when it means physical harm; 'extensive' describes its extent.
+- **an award of damages for the building:** 'An award of damages' names a compensation decision, which the inspection does not report.
 
 **Decision:** replaced.
 
@@ -2106,19 +2106,19 @@ Choose the statement that distinguishes the two uses of 'customs' accurately.
 
 The guide explains local customs and gives advice about going through customs at the airport.
 
-1. Local customs are traditions; airport customs is the border-control service. **[Correct]**
+1. 'Local customs' are traditions; 'airport customs' is the border-control service. **[Correct]**
 2. Both uses count local traditions, with the second referring to airport traditions.
 3. Both uses name offices where travellers' goods are checked.
-4. Local customs means a single tradition; airport customs means several borders.
+4. 'Local customs' means a single tradition; 'airport customs' means several borders.
 
 **Explanation:** 'Customs' counts practices in the first phrase but names the border service in the second; identical spelling does not guarantee the same noun sense.
 
 **Choice feedback:**
 
-- **Local customs are traditions; airport customs is the border-control service.:** 'Customs' counts practices in the first phrase but names the border service in the second; identical spelling does not guarantee the same noun sense.
+- **'Local customs' are traditions; 'airport customs' is the border-control service.:** 'Customs' counts practices in the first phrase but names the border service in the second; identical spelling does not guarantee the same noun sense.
 - **Both uses count local traditions, with the second referring to airport traditions.:** 'Going through customs' is a border procedure, not an example of a local social tradition.
 - **Both uses name offices where travellers' goods are checked.:** 'Local customs' in the guide refers to cultural practices, not necessarily offices.
-- **Local customs means a single tradition; airport customs means several borders.:** The first plural can cover several traditions, while the second names a service rather than counting borders.
+- **'Local customs' means a single tradition; 'airport customs' means several borders.:** The first plural can cover several traditions, while the second names a service rather than counting borders.
 
 **Decision:** replaced.
 
@@ -2143,13 +2143,13 @@ The new service plan offers a saving of twenty euros a month.
 3. The plan reduces monthly spending by twenty euros. **[Correct]**
 4. The plan costs twenty euros per month in total.
 
-**Explanation:** A saving can be a countable reduction in expenditure; it does not itself report the customer's accumulated savings.
+**Explanation:** 'A saving' can be a countable reduction in expenditure; it does not itself report the customer's accumulated savings.
 
 **Choice feedback:**
 
-- **The customer's savings account already contains twenty euros.:** Savings can refer to accumulated money, but a saving here means a reduction in cost.
+- **The customer's savings account already contains twenty euros.:** 'Savings' can refer to accumulated money, but 'a saving' here means a reduction in cost.
 - **The plan requires a twenty-euro monthly deposit.:** A deposit is money put into an account; the sentence instead describes lower expenditure.
-- **The plan reduces monthly spending by twenty euros.:** A saving can be a countable reduction in expenditure; it does not itself report the customer's accumulated savings.
+- **The plan reduces monthly spending by twenty euros.:** 'A saving' can be a countable reduction in expenditure; it does not itself report the customer's accumulated savings.
 - **The plan costs twenty euros per month in total.:** The sentence states the reduction, not the complete monthly price.
 
 **Decision:** replaced.
@@ -2307,8 +2307,8 @@ The draft needs to identify who received the inspection report.
 
 **Choice feedback:**
 
-- **The report gave the manager greater authority.:** Authority here is uncountable decision-making power, not the recipient group.
-- **The report was written with the director's authority.:** With the director's authority means with permission or authorization; it does not identify who received the report.
+- **The report gave the manager greater authority.:** 'Authority' here is uncountable decision-making power, not the recipient group.
+- **The report was written with the director's authority.:** "With the director's authority" means with permission or authorization; it does not identify who received the report.
 - **The report questioned the manager's authority.:** This concerns the legitimacy of power rather than delivery to official organizations.
 - **The report was sent to the local authorities.:** Authorities can be the officials or organizations exercising power, making them recipients of a report.
 
@@ -2367,12 +2367,12 @@ Her responsibilities include approving purchases and arranging staff training.
 3. She has a general willingness to act responsibly.
 4. Purchase approval and training are her only duties.
 
-**Explanation:** Responsibilities is countable when it names distinct duties; include leaves room for additional duties.
+**Explanation:** 'Responsibilities' is countable when it names distinct duties; 'include' leaves room for additional duties.
 
 **Choice feedback:**
 
-- **Two of her duties are purchase approval and training arrangements.:** Responsibilities is countable when it names distinct duties; include leaves room for additional duties.
-- **She accepts blame for everything done by her staff.:** The plural responsibilities lists duties; it does not assign blame for every staff action.
+- **Two of her duties are purchase approval and training arrangements.:** 'Responsibilities' is countable when it names distinct duties; 'include' leaves room for additional duties.
+- **She accepts blame for everything done by her staff.:** The plural 'responsibilities' lists duties; it does not assign blame for every staff action.
 - **She has a general willingness to act responsibly.:** That describes an attitude, whereas responsibilities names work she is expected to do.
 - **Purchase approval and training are her only duties.:** Include does not make the two listed responsibilities exhaustive.
 
@@ -2436,7 +2436,7 @@ Applicants need a working knowledge of Spanish for routine calls; complex negoti
 **Choice feedback:**
 
 - **Applicants need knowledge of how Spanish works but no ability to use it.:** Working knowledge concerns practical use, and applicants must handle routine calls.
-- **Applicants need to have worked in Spain to acquire the required knowledge.:** Working describes usable knowledge here; it does not specify employment history or a country where it was gained.
+- **Applicants need to have worked in Spain to acquire the required knowledge.:** 'Working' describes usable knowledge here; it does not specify employment history or a country where it was gained.
 - **Applicants need practical usable familiarity, not necessarily fluent mastery.:** A working knowledge is a conventional phrase for usable familiarity. The routine-call requirement and interpreter arrangement support that level.
 - **Applicants need separate language qualifications for calls and negotiations.:** The notice gives no qualification count and assigns complex negotiations to an interpreter.
 
@@ -2527,14 +2527,14 @@ The editor is specifying how the text should be typed.
 3. Give the heading plenty of space.
 4. Use the available space more efficiently.
 
-**Explanation:** A space can be a single blank character position in typing, so one space is a countable use.
+**Explanation:** 'A space' can be a single blank character position in typing, so 'one space' is a countable use.
 
 **Choice feedback:**
 
-- **Leave more space around the text.:** Space here refers to layout area and gives no count of blank characters.
-- **Leave one space after each comma.:** A space can be a single blank character position in typing, so one space is a countable use.
+- **Leave more space around the text.:** 'Space' here refers to layout area and gives no count of blank characters.
+- **Leave one space after each comma.:** 'A space' can be a single blank character position in typing, so 'one space' is a countable use.
 - **Give the heading plenty of space.:** This concerns visual area around a heading, not typed character positions.
-- **Use the available space more efficiently.:** Available space is an uncountable layout resource, without a character count.
+- **Use the available space more efficiently.:** 'Available space' is an uncountable layout resource, without a character count.
 
 **Decision:** replaced.
 
@@ -2691,11 +2691,11 @@ The summary refers to several independently conducted research projects on night
 3. Considerable research examined night work.
 4. Several independent researchers examined night work.
 
-**Explanation:** Studies counts investigations and is a natural contemporary way to retain separate research projects in this summary.
+**Explanation:** 'Studies' counts investigations and is a natural contemporary way to retain separate research projects in this summary.
 
 **Choice feedback:**
 
-- **Several independent studies examined night work.:** Studies counts investigations and is a natural contemporary way to retain separate research projects in this summary.
+- **Several independent studies examined night work.:** 'Studies' counts investigations and is a natural contemporary way to retain separate research projects in this summary.
 - **Several independent findings emerged from research into night work.:** This counts findings, which are results, rather than the separately conducted investigations.
 - **Considerable research examined night work.:** This describes an amount of activity but does not retain the separate-project count expressed by several.
 - **Several independent researchers examined night work.:** Researchers counts people rather than projects; one project may involve several researchers.
@@ -2851,12 +2851,12 @@ The residents raised several concerns about drainage and access, although the re
 3. Several residents were anxious about one shared issue.
 4. Their lack of anxiety means that the concerns were not serious.
 
-**Explanation:** Concerns counts issues raised, whereas concern as worry can refer to an emotional state; the count does not measure that state's intensity.
+**Explanation:** 'Concerns' counts issues raised, whereas 'concern' as worry can refer to an emotional state; the count does not measure that state's intensity.
 
 **Choice feedback:**
 
 - **They showed several times as much anxiety as other residents.:** A count of concerns provides no comparison of anxiety levels or a multiplier.
-- **They identified several matters of concern; their level of anxiety is unspecified.:** Concerns counts issues raised, whereas concern as worry can refer to an emotional state; the count does not measure that state's intensity.
+- **They identified several matters of concern; their level of anxiety is unspecified.:** 'Concerns' counts issues raised, whereas 'concern' as worry can refer to an emotional state; the count does not measure that state's intensity.
 - **Several residents were anxious about one shared issue.:** Several quantifies concerns, not residents, and drainage and access need not reduce to one issue.
 - **Their lack of anxiety means that the concerns were not serious.:** The report leaves anxiety unassessed rather than establishing its absence; seriousness is not determined by that omission.
 
@@ -2888,7 +2888,7 @@ The oral-history chapter describes the workers' experiences during the factory's
 **Choice feedback:**
 
 - **The chapter recounts events the workers lived through during the closure.:** Experiences is countable for lived events; recounts events preserves that meaning without treating them as a skill measure.
-- **The chapter measures the workers' professional experience when the factory closed.:** Professional experience refers to accumulated expertise, not the events described in their life stories.
+- **The chapter measures the workers' professional experience when the factory closed.:** 'Professional experience' refers to accumulated expertise, not the events described in their life stories.
 - **The chapter compares how long each worker had been employed.:** Experiences does not supply employment durations or establish a comparison of tenure.
 - **The chapter lists the workers' qualifications for finding new jobs.:** Qualifications may relate to expertise, but they are not what the stated lived-experience noun means.
 
@@ -2979,13 +2979,13 @@ The comparison needs to identify three separate democratic systems as its units.
 3. The study compares three democracies with different electoral systems. **[Correct]**
 4. The study measures support for democracy across three generations.
 
-**Explanation:** Democracies is countable when it refers to states or systems organized as democracies, rather than the general principle.
+**Explanation:** 'Democracies' is countable when it refers to states or systems organized as democracies, rather than the general principle.
 
 **Choice feedback:**
 
 - **The study examines democracy in three different ways.:** This counts approaches to examining a general concept, not three democratic systems.
 - **The study examines three arguments in favor of democracy.:** Three counts arguments, while democracy remains the general principle being discussed.
-- **The study compares three democracies with different electoral systems.:** Democracies is countable when it refers to states or systems organized as democracies, rather than the general principle.
+- **The study compares three democracies with different electoral systems.:** 'Democracies' is countable when it refers to states or systems organized as democracies, rather than the general principle.
 - **The study measures support for democracy across three generations.:** The counted units are generations, not separate political systems.
 
 **Decision:** replaced.
@@ -3016,7 +3016,7 @@ The essay describes the less obvious beauties of the old industrial landscape.
 **Choice feedback:**
 
 - **It explains how the landscape was restored to its original beauty.:** Particular beauties may be described without any claim that restoration occurred.
-- **It judges the landscape beautiful as a whole without identifying particular features.:** Plural beauties focuses on identifiable attractive aspects, rather than only a general judgment of the whole landscape.
+- **It judges the landscape beautiful as a whole without identifying particular features.:** Plural 'beauties' focuses on identifiable attractive aspects, rather than only a general judgment of the whole landscape.
 - **It identifies particular features of the landscape that the writer finds beautiful.:** Beauties can count attractive features or things; beauty without s more often names the quality generally.
 - **It compares several industrial landscapes without discussing individual features.:** The singular landscape and plural beauties place the variety within this one landscape.
 
@@ -3107,14 +3107,14 @@ Original: 'Emergency supplies were delivered in two shipments.' Edit: 'Two emerg
 3. The edit preserves the meaning because plural supplies implies separately installed systems.
 4. The edit changes delivered provisions into installed systems and moves the count from shipments to systems. **[Correct]**
 
-**Explanation:** Supplies names provisions or equipment. The original counts delivery batches, whereas the rewrite describes the installation of two organized systems.
+**Explanation:** 'Supplies' names provisions or equipment. The original counts delivery batches, whereas the rewrite describes the installation of two organized systems.
 
 **Choice feedback:**
 
 - **The edit keeps the same counted objects and merely replaces delivered with a more formal verb.:** A shipment is a delivery batch, not a supply system, and installed is not simply a more formal synonym of delivered.
 - **The edit changes two types of provision into two deliveries of the same type.:** Two originally modifies shipments, not types; the rewrite does not count deliveries.
-- **The edit preserves the meaning because plural supplies implies separately installed systems.:** Supplies does not imply installation or identify supply systems; it can refer to ordinary stored goods.
-- **The edit changes delivered provisions into installed systems and moves the count from shipments to systems.:** Supplies names provisions or equipment. The original counts delivery batches, whereas the rewrite describes the installation of two organized systems.
+- **The edit preserves the meaning because plural supplies implies separately installed systems.:** 'Supplies' does not imply installation or identify supply systems; it can refer to ordinary stored goods.
+- **The edit changes delivered provisions into installed systems and moves the count from shipments to systems.:** 'Supplies' names provisions or equipment. The original counts delivery batches, whereas the rewrite describes the installation of two organized systems.
 
 **Decision:** replaced.
 
@@ -3171,12 +3171,12 @@ The archive holds three designs for the tower; the note does not say which were 
 3. It contains three physical models of a single design.
 4. It gives three reasons for choosing the completed tower.
 
-**Explanation:** A design can be a countable plan or version; three designs does not establish that three structures were built.
+**Explanation:** 'A design' can be a countable plan or version; 'three designs' does not establish that three structures were built.
 
 **Choice feedback:**
 
 - **It records three towers that were completed.:** Designs counts plans or proposed versions, not completed buildings.
-- **It holds three proposed versions of the tower's design.:** A design can be a countable plan or version; three designs does not establish that three structures were built.
+- **It holds three proposed versions of the tower's design.:** 'A design' can be a countable plan or version; 'three designs' does not establish that three structures were built.
 - **It contains three physical models of a single design.:** Models are representations of designs; the note counts designs themselves and does not specify models.
 - **It gives three reasons for choosing the completed tower.:** The note counts plans, not reasons, and leaves construction outcomes unstated.
 
@@ -3239,11 +3239,11 @@ The committee requested further additional research before revising its recommen
 3. The committee requested further findings before revising its recommendation.
 4. The committee requested several research projects before revising its recommendation.
 
-**Explanation:** Further already means additional here. Removing additional preserves research as an unspecified activity or body of investigation.
+**Explanation:** 'Further' already means 'additional' here. Removing 'additional' preserves 'research' as an unspecified activity or body of investigation.
 
 **Choice feedback:**
 
-- **The committee requested further research before revising its recommendation.:** Further already means additional here. Removing additional preserves research as an unspecified activity or body of investigation.
+- **The committee requested further research before revising its recommendation.:** 'Further' already means 'additional' here. Removing 'additional' preserves 'research' as an unspecified activity or body of investigation.
 - **The committee requested another study before revising its recommendation.:** Another study specifies an additional countable project, whereas the original leaves the form and number of investigations open.
 - **The committee requested further findings before revising its recommendation.:** Findings are results; the original requests investigation, which does not guarantee particular additional results.
 - **The committee requested several research projects before revising its recommendation.:** Several projects adds a count and a project structure absent from the original.
@@ -3266,19 +3266,19 @@ Choose the accurate assessment of how the edit changes the countable and uncount
 
 Original: 'The essay offers scant examples but ample discussion.' Edit: 'The essay contains numerous discussions, each offering few examples.'
 
-1. The edit preserves the same quantities because ample discussion means numerous discussions.
+1. The edit preserves the same quantities because 'ample discussion' means 'numerous discussions'.
 2. The edit corrects scant examples, which should have been expressed as few examples.
 3. The edit removes the contrast by claiming that both discussion and examples are abundant.
 4. The edit divides discussion into separate units and assigns few examples to each, neither of which the original specifies. **[Correct]**
 
-**Explanation:** Uncountable discussion leaves its segmentation open. The edit introduces countable discussions and a per-discussion claim, while the original evaluates examples across the essay.
+**Explanation:** Uncountable 'discussion' leaves its segmentation open. The edit introduces countable 'discussions' and a per-discussion claim, while the original evaluates examples across the essay.
 
 **Choice feedback:**
 
-- **The edit preserves the same quantities because ample discussion means numerous discussions.:** An ample amount of discussion need not consist of numerous separately identifiable discussions.
+- **The edit preserves the same quantities because 'ample discussion' means 'numerous discussions'.:** An ample amount of discussion need not consist of numerous separately identifiable discussions.
 - **The edit corrects scant examples, which should have been expressed as few examples.:** Scant examples is grammatical. Replacing scant with few does not justify the new discussion units or the distribution of examples.
 - **The edit removes the contrast by claiming that both discussion and examples are abundant.:** The edit still says few examples per discussion; it does not straightforwardly describe both as abundant.
-- **The edit divides discussion into separate units and assigns few examples to each, neither of which the original specifies.:** Uncountable discussion leaves its segmentation open. The edit introduces countable discussions and a per-discussion claim, while the original evaluates examples across the essay.
+- **The edit divides discussion into separate units and assigns few examples to each, neither of which the original specifies.:** Uncountable 'discussion' leaves its segmentation open. The edit introduces countable 'discussions' and a per-discussion claim, while the original evaluates examples across the essay.
 
 **Decision:** replaced.
 
@@ -3310,7 +3310,7 @@ Original: 'The laboratory renewed three site licenses for software already in us
 - **The rewrite turns a purchase of individual user accounts into a purchase of licenses.:** The original already counts site licenses, not individual accounts; the rewrite does not retain that license count.
 - **The rewrite turns renewed usage rights into newly installed programs.:** Three counts licenses in the original. Renewing those rights for existing software does not establish the installation of three new programs.
 - **The rewrite changes the institution holding the licenses from the laboratory to the software provider.:** Neither version transfers ownership or usage rights to the provider.
-- **The rewrite says that the laboratory renewed the same programs for a shorter period.:** The rewrite does not specify renewal or a period; installed new packages describes a different action and object.
+- **The rewrite says that the laboratory renewed the same programs for a shorter period.:** The rewrite does not specify renewal or a period; 'installed new packages' describes a different action and object.
 
 **Decision:** replaced.
 
@@ -3342,7 +3342,7 @@ The panel assigned different weights to cost and accessibility, but the report g
 - **The criteria received different relative importance, with the precise values unstated.:** Weights can count assigned degrees of importance; different distinguishes them, while the absence of coefficients leaves their numerical values unreported.
 - **Cost received greater weight, although the size of its advantage was not reported.:** Different weights does not identify which criterion received greater weight; listing cost first supplies no ranking.
 - **The panel used different criteria but assigned them the same importance.:** Different modifies weights, not merely the names of the criteria, so equal importance is not the reported assignment.
-- **The panel reported how often each criterion mattered, but omitted how strongly it mattered.:** Weights refers to assigned importance, not the frequency with which a criterion mattered.
+- **The panel reported how often each criterion mattered, but omitted how strongly it mattered.:** 'Weights' refers to assigned importance, not the frequency with which a criterion mattered.
 
 **Decision:** replaced.
 
@@ -3363,16 +3363,16 @@ Choose the editorial response that avoids inferring a collection count from mass
 The report consistently writes 'the data is reliable.' A reviewer concludes that this wording means the report used only one data set.
 
 1. The inference is valid because singular agreement counts the data sets as one.
-2. The inference is unsupported: mass data can refer to information pooled from several data sets. **[Correct]**
+2. The inference is unsupported: mass 'data' can refer to information pooled from several data sets. **[Correct]**
 3. The sentence must instead refer to one individual datum.
 4. The mass use proves that the report contains qualitative rather than numerical information.
 
-**Explanation:** Data treated as a mass noun can describe pooled information from one or many collections; data set is the count noun needed to establish collection number.
+**Explanation:** 'Data' treated as a mass noun can describe pooled information from one or many collections; 'data set' is the count noun needed to establish collection number.
 
 **Choice feedback:**
 
 - **The inference is valid because singular agreement counts the data sets as one.:** Grammatical singular agreement in a mass-noun use does not count the underlying collections.
-- **The inference is unsupported: mass data can refer to information pooled from several data sets.:** Data treated as a mass noun can describe pooled information from one or many collections; data set is the count noun needed to establish collection number.
+- **The inference is unsupported: mass 'data' can refer to information pooled from several data sets.:** 'Data' treated as a mass noun can describe pooled information from one or many collections; 'data set' is the count noun needed to establish collection number.
 - **The sentence must instead refer to one individual datum.:** A datum is one observation or fact; the mass use data does not specify an individual observation.
 - **The mass use proves that the report contains qualitative rather than numerical information.:** Both qualitative and numerical information can be referred to by mass data; agreement does not determine content type.
 
@@ -3438,7 +3438,7 @@ An older description notes 'the visible evidences of earlier alterations' in a b
 - **The surviving records documenting the earlier alterations.:** The supplied evidences are physical features of the building, not necessarily documentary records.
 - **The separate earlier alterations still visible in their original form.:** Traces such as a filled doorway may reveal an alteration without preserving that alteration in its original form.
 - **The visible traces of earlier alterations.:** In this marked older use, evidences can mean manifestations or signs. Traces retains those counted features without turning them into conclusive proofs.
-- **The visible signs of proposed alterations that were never carried out.:** Earlier alterations refers to past changes; the original does not describe unrealized proposals.
+- **The visible signs of proposed alterations that were never carried out.:** 'Earlier alterations' refers to past changes; the original does not describe unrealized proposals.
 
 **Decision:** replaced.
 
@@ -3459,18 +3459,18 @@ Choose the explanation that makes the two claims compatible.
 The merger produced economies of scale, yet total expenditure increased because output expanded substantially.
 
 1. The savings were forecasts, while the increased expenditure was an observed result.
-2. Economies refers to reduced output, while expenditure refers to increased output.
+2. 'Economies' refers to reduced output, while 'expenditure' refers to increased output.
 3. The merger reduced overall spending, but the same report labels that reduction an increase.
 4. Lower cost per unit can coexist with higher total spending when more is produced. **[Correct]**
 
-**Explanation:** Economies of scale refers to efficiencies associated with scale; such savings do not alone imply a lower total when production expands.
+**Explanation:** 'Economies of scale' refers to efficiencies associated with scale; such savings do not alone imply a lower total when production expands.
 
 **Choice feedback:**
 
 - **The savings were forecasts, while the increased expenditure was an observed result.:** Produced presents the economies as achieved, not merely forecast; a forecast-versus-result contrast is not supplied.
-- **Economies refers to reduced output, while expenditure refers to increased output.:** Economies of scale names efficiencies associated with scale, not a reduction in output.
+- **'Economies' refers to reduced output, while 'expenditure' refers to increased output.:** 'Economies of scale' names efficiencies associated with scale, not a reduction in output.
 - **The merger reduced overall spending, but the same report labels that reduction an increase.:** This substitutes overall spending for the efficiency measure and invents a labeling contradiction.
-- **Lower cost per unit can coexist with higher total spending when more is produced.:** Economies of scale refers to efficiencies associated with scale; such savings do not alone imply a lower total when production expands.
+- **Lower cost per unit can coexist with higher total spending when more is produced.:** 'Economies of scale' refers to efficiencies associated with scale; such savings do not alone imply a lower total when production expands.
 
 **Decision:** replaced.
 
@@ -3555,7 +3555,7 @@ Choose the editorial assessment that best accounts for the change from plural to
 A memoir describes an interview: 'Her silences unsettled me.' An editor proposes 'Her silence unsettled me.' No other sentence describes the pauses.
 
 1. The edit establishes that she said nothing throughout the interview.
-2. The edit preserves the same segmentation because her refers to the same speaker.
+2. The edit preserves the same segmentation because 'her' refers to the same speaker.
 3. The edit no longer explicitly presents separate episodes of silence. **[Correct]**
 4. The edit changes deliberate pauses into an involuntary inability to speak.
 
@@ -3564,7 +3564,7 @@ A memoir describes an interview: 'Her silences unsettled me.' An editor proposes
 **Choice feedback:**
 
 - **The edit establishes that she said nothing throughout the interview.:** Singular 'silence' does not by itself establish an uninterrupted absence of speech throughout the interview.
-- **The edit preserves the same segmentation because her refers to the same speaker.:** The possessive identifies whose silence is involved, not whether it is presented as separate episodes.
+- **The edit preserves the same segmentation because 'her' refers to the same speaker.:** The possessive identifies whose silence is involved, not whether it is presented as separate episodes.
 - **The edit no longer explicitly presents separate episodes of silence.:** 'Silences' presents distinct stretches or occasions. 'Silence' presents the state generally, so the explicit segmentation is lost, even though repeated pauses remain possible.
 - **The edit changes deliberate pauses into an involuntary inability to speak.:** Neither countable 'silences' nor uncountable 'silence' by itself establishes intention or an inability to speak.
 
@@ -3591,12 +3591,12 @@ The witness recalled several kindnesses from her former employer, while declinin
 3. She recalled his acts as kind only because she had already judged his character.
 4. She recalled several acts that she once considered kind but now regarded otherwise.
 
-**Explanation:** Countable kindnesses packages separate acts. It does not oblige the witness to endorse kindness as a general personal quality.
+**Explanation:** Countable 'kindnesses' packages separate acts. It does not oblige the witness to endorse kindness as a general personal quality.
 
 **Choice feedback:**
 
 - **She acknowledged his kind character but could not recall particular acts.:** This reverses the distinction: she recalls particular acts and declines the general character description.
-- **She recalled several kind acts by him but did not describe his character as kind.:** Countable kindnesses packages separate acts. It does not oblige the witness to endorse kindness as a general personal quality.
+- **She recalled several kind acts by him but did not describe his character as kind.:** Countable 'kindnesses' packages separate acts. It does not oblige the witness to endorse kindness as a general personal quality.
 - **She recalled his acts as kind only because she had already judged his character.:** The proposed cause is absent. The original expressly separates the remembered acts from a character judgment.
 - **She recalled several acts that she once considered kind but now regarded otherwise.:** Nothing retracts the description of the acts as kindnesses; the reservation concerns the person's character.
 
@@ -3623,12 +3623,12 @@ Source: 'The firm recorded losses on three contracts.' Summary: 'The firm operat
 3. The summary accurately compresses the plural losses into their necessary combined result.
 4. The summary changes a prediction of future losses into a report of completed losses.
 
-**Explanation:** Plural losses are attached to specified contracts. At a loss describes the firm's overall operation here, which cannot be inferred without information about other work.
+**Explanation:** Plural 'losses' are attached to specified contracts. 'At a loss' describes the firm's overall operation here, which cannot be inferred without information about other work.
 
 **Choice feedback:**
 
 - **The summary converts three causes of one loss into three separate accounting periods.:** Neither version specifies causes or accounting periods. The relevant change is from particular contracts to the firm's overall result.
-- **The summary turns losses on particular contracts into a claim about the firm's overall result.:** Plural losses are attached to specified contracts. At a loss describes the firm's overall operation here, which cannot be inferred without information about other work.
+- **The summary turns losses on particular contracts into a claim about the firm's overall result.:** Plural 'losses' are attached to specified contracts. 'At a loss' describes the firm's overall operation here, which cannot be inferred without information about other work.
 - **The summary accurately compresses the plural losses into their necessary combined result.:** Other work could be profitable enough to offset those contract losses, so the overall result is not established.
 - **The summary changes a prediction of future losses into a report of completed losses.:** Recorded already reports losses; the original is not a forecast.
 
@@ -3655,11 +3655,11 @@ The parties reached several practical accommodations on access to the archive, w
 3. They agreed in principle to seek access arrangements once ownership had been resolved.
 4. They made one comprehensive access settlement that also defined their ownership rights.
 
-**Explanation:** Here accommodations means adjustments or arrangements reached between the parties. Counting those arrangements does not imply settlement of the wider ownership dispute.
+**Explanation:** Here 'accommodations' means adjustments or arrangements reached between the parties. Counting those arrangements does not imply settlement of the wider ownership dispute.
 
 **Choice feedback:**
 
-- **They agreed on several practical access arrangements while leaving ownership unresolved.:** Here accommodations means adjustments or arrangements reached between the parties. Counting those arrangements does not imply settlement of the wider ownership dispute.
+- **They agreed on several practical access arrangements while leaving ownership unresolved.:** Here 'accommodations' means adjustments or arrangements reached between the parties. Counting those arrangements does not imply settlement of the wider ownership dispute.
 - **They resolved the ownership dispute by agreeing to several ways of accessing the archive.:** This makes the practical arrangements settle the wider dispute, contrary to without settling.
 - **They agreed in principle to seek access arrangements once ownership had been resolved.:** Reached reports completed arrangements, not a future undertaking dependent on resolving ownership.
 - **They made one comprehensive access settlement that also defined their ownership rights.:** This collapses several practical accommodations into one comprehensive settlement and adds an ownership decision.
@@ -3719,11 +3719,11 @@ The translator acknowledged taking a few liberties with the wording, though not 
 3. The translator admitted changing the argument through apparently minor wording choices.
 4. The translator admitted that the wording changes misrepresented the author's position.
 
-**Explanation:** Countable liberties here means departures from strict fidelity. The contrast limits them to wording, without establishing permission or dishonesty.
+**Explanation:** Countable 'liberties' here means departures from strict fidelity. The contrast limits them to wording, without establishing permission or dishonesty.
 
 **Choice feedback:**
 
-- **The translator admitted some departures from the wording while maintaining the argument.:** Countable liberties here means departures from strict fidelity. The contrast limits them to wording, without establishing permission or dishonesty.
+- **The translator admitted some departures from the wording while maintaining the argument.:** Countable 'liberties' here means departures from strict fidelity. The contrast limits them to wording, without establishing permission or dishonesty.
 - **The translator claimed permission to alter the wording but not the argument.:** Taking liberties reports departures, not necessarily permission granted by anyone.
 - **The translator admitted changing the argument through apparently minor wording choices.:** The original expressly excludes liberties with the argument; this paraphrase undermines that qualification.
 - **The translator admitted that the wording changes misrepresented the author's position.:** That adds an accusation about the argument or position, whereas the original says the liberties did not extend to the argument.
@@ -3751,14 +3751,14 @@ Original: 'The essay cites several authorities in support of its dating.' Summar
 3. The summary says that the essay is an authority rather than that its dating is authoritative.
 4. Citing several recognized sources does not by itself establish the dating as the authoritative view. **[Correct]**
 
-**Explanation:** Countable authorities can be recognized experts or their works. Their citation supplies support, but does not establish a uniquely authoritative position.
+**Explanation:** Countable 'authorities' can be recognized experts or their works. Their citation supplies support, but does not establish a uniquely authoritative position.
 
 **Choice feedback:**
 
 - **The summary simply replaces a plural noun with its equivalent adjective.:** The adjective changes the claim: several supporting authorities become a status assigned to the dating itself.
 - **The summary understates the original, which establishes agreement among the field's authorities.:** Several supporting authorities does not say that authorities across the field agree; other views may exist.
 - **The summary says that the essay is an authority rather than that its dating is authoritative.:** The subject of the summary is the dating, not the essay, so this identifies the wrong change.
-- **Citing several recognized sources does not by itself establish the dating as the authoritative view.:** Countable authorities can be recognized experts or their works. Their citation supplies support, but does not establish a uniquely authoritative position.
+- **Citing several recognized sources does not by itself establish the dating as the authoritative view.:** Countable 'authorities' can be recognized experts or their works. Their citation supplies support, but does not establish a uniquely authoritative position.
 
 **Decision:** replaced.
 

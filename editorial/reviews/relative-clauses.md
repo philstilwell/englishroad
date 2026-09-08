@@ -19,13 +19,13 @@ The mechanic ___ repairs my car is very helpful.
 3. which
 4. whose
 
-**Explanation:** Who refers to the mechanic and is the subject of repairs.
+**Explanation:** 'Who' refers to the mechanic and is the subject of 'repairs'.
 
 **Choice feedback:**
 
-- **who:** Who refers to the mechanic and is the subject of repairs.
-- **where:** Where introduces a place, not the person doing the repair.
-- **which:** Which normally describes a thing, not a named type of person in this use.
+- **who:** 'Who' refers to the mechanic and is the subject of 'repairs'.
+- **where:** 'Where' introduces a place, not the person doing the repair.
+- **which:** 'Which' normally describes a thing, not a named type of person in this use.
 - **whose:** Whose would need a following noun for a possession, such as whose garage.
 
 **Decision:** replaced.
@@ -51,13 +51,13 @@ This is the desk ___ you pay.
 3. whose
 4. which
 
-**Explanation:** Where means at which place; you pay at this desk.
+**Explanation:** 'Where' means at which place; you pay at this desk.
 
 **Choice feedback:**
 
-- **who:** Who describes a person, not the place for payment.
-- **where:** Where means at which place; you pay at this desk.
-- **whose:** Whose introduces possession and needs a following noun.
+- **who:** 'Who' describes a person, not the place for payment.
+- **where:** 'Where' means at which place; you pay at this desk.
+- **whose:** 'Whose' introduces possession and needs a following noun.
 - **which:** Which alone would make the desk the thing you pay, rather than the place where payment happens.
 
 **Decision:** replaced.
@@ -88,8 +88,8 @@ This is the key ___ opens the garage.
 **Choice feedback:**
 
 - **that:** That refers to the key and acts as the subject of opens.
-- **who:** Who describes people, not a key in this sentence.
-- **where:** Where introduces a place and cannot be the subject of opens here.
+- **who:** 'Who' describes people, not a key in this sentence.
+- **where:** 'Where' introduces a place and cannot be the subject of 'opens' here.
 - **whose:** Whose would introduce a possession, not the key's action.
 
 **Decision:** replaced.
@@ -115,13 +115,13 @@ Choose who has the red jacket.
 3. The woman. **[Correct]**
 4. The woman's friend.
 
-**Explanation:** Whose links the red jacket to the woman being described.
+**Explanation:** 'Whose' links the red jacket to the woman being described.
 
 **Choice feedback:**
 
 - **The speaker.:** My neighbor identifies the woman's relationship to the speaker; it does not make the jacket the speaker's.
 - **A different neighbor.:** The jacket belongs to the same woman identified as the neighbor, not a different person.
-- **The woman.:** Whose links the red jacket to the woman being described.
+- **The woman.:** 'Whose' links the red jacket to the woman being described.
 - **The woman's friend.:** No friend is mentioned as the owner.
 
 **Decision:** replaced.
@@ -152,7 +152,7 @@ Amir repairs bicycles. Jo sells bread. Who is Amir?
 **Choice feedback:**
 
 - **The person who repairs bicycles.:** The clause who repairs bicycles repeats the action that identifies Amir.
-- **The person who sells bread.:** Selling bread describes Jo, not Amir.
+- **The person who sells bread.:** 'Selling bread' describes Jo, not Amir.
 - **The person who buys bread.:** The information says who sells bread; it does not say Amir buys it.
 - **The person who sells bicycles.:** Repairing bicycles is not the same as selling them.
 
@@ -211,14 +211,14 @@ Choose the meaning of the description.
 3. The speaker has breakfast at the station.
 4. The speaker eats dinner at that cafe.
 
-**Explanation:** Where links the cafe to the place of the speaker's breakfast.
+**Explanation:** 'Where' links the cafe to the place of the speaker's breakfast.
 
 **Choice feedback:**
 
-- **The speaker works at that cafe.:** Where I have breakfast describes eating there, not working there.
-- **The speaker eats breakfast at that cafe.:** Where links the cafe to the place of the speaker's breakfast.
+- **The speaker works at that cafe.:** 'Where I have breakfast' describes eating there, not working there.
+- **The speaker eats breakfast at that cafe.:** 'Where' links the cafe to the place of the speaker's breakfast.
 - **The speaker has breakfast at the station.:** Next to the station gives the cafe's location; breakfast happens at the cafe.
-- **The speaker eats dinner at that cafe.:** The relative clause names breakfast, not dinner.
+- **The speaker eats dinner at that cafe.:** The relative clause names 'breakfast', not dinner.
 
 **Decision:** replaced.
 
@@ -247,7 +247,7 @@ Choose the bag described in the request.
 
 **Choice feedback:**
 
-- **The green bag with no label.:** Green describes the label, not necessarily the bag itself.
+- **The green bag with no label.:** 'Green' describes the label, not necessarily the bag itself.
 - **The bag beside the green bag.:** The sentence identifies a label, not the bag's position beside another one.
 - **The bag with a green label.:** That has a green label identifies the bag by the label's color.
 - **The bag with a blue label.:** A blue label does not match the specified green one.
@@ -275,14 +275,14 @@ The man ___ phone is ringing is outside.
 3. which
 4. whose **[Correct]**
 
-**Explanation:** Whose phone means the man's phone; the description identifies its owner.
+**Explanation:** 'Whose phone' means the man's phone; the description identifies its owner.
 
 **Choice feedback:**
 
-- **who:** Who cannot directly show possession before phone.
-- **where:** Where refers to a place and does not tell us who owns the phone.
-- **which:** Which does not mark the man's possession of the phone.
-- **whose:** Whose phone means the man's phone; the description identifies its owner.
+- **who:** 'Who' cannot directly show possession before 'phone'.
+- **where:** 'Where' refers to a place and does not tell us who owns the phone.
+- **which:** 'Which' does not mark the man's possession of the phone.
+- **whose:** 'Whose phone' means the man's phone; the description identifies its owner.
 
 **Decision:** replaced.
 
@@ -307,14 +307,14 @@ The people who ___ upstairs are very quiet.
 3. living
 4. to live
 
-**Explanation:** Who refers to the plural people, so use live.
+**Explanation:** 'Who' refers to the plural people, so use 'live'.
 
 **Choice feedback:**
 
-- **lives:** People is plural, so the present verb has no -s.
-- **live:** Who refers to the plural people, so use live.
-- **living:** Living needs a helping verb in this full who-clause.
-- **to live:** To live cannot stand as the complete verb after who here.
+- **lives:** 'People' is plural, so the present verb has no '-s'.
+- **live:** 'Who' refers to the plural people, so use 'live'.
+- **living:** 'Living' needs a helping verb in this full who-clause.
+- **to live:** 'To live' cannot stand as the complete verb after 'who' here.
 
 **Decision:** replaced.
 
@@ -339,14 +339,14 @@ The woman who cleans our office ___ here today.
 3. be
 4. am
 
-**Explanation:** The subject the woman is singular; who cleans our office describes her but does not change the subject's number.
+**Explanation:** The subject 'the woman' is singular; 'who cleans our office' describes her but does not change the subject's number.
 
 **Choice feedback:**
 
-- **are:** The main subject is one woman, so are does not agree.
-- **is:** The subject the woman is singular; who cleans our office describes her but does not change the subject's number.
+- **are:** The main subject is one woman, so 'are' does not agree.
+- **is:** The subject 'the woman' is singular; 'who cleans our office' describes her but does not change the subject's number.
 - **be:** The main statement needs the present-tense form is, not be.
-- **am:** Am is used with I, not the woman.
+- **am:** 'Am' is used with 'I', not the woman.
 
 **Decision:** replaced.
 
@@ -435,13 +435,13 @@ A man lives next door. He drives a taxi.
 3. The man who lives next door drives a taxi. **[Correct]**
 4. The man who drives a taxi lives across the road.
 
-**Explanation:** Who lives next door describes the man, and drives a taxi keeps his job or activity.
+**Explanation:** 'Who lives next door' describes the man, and 'drives a taxi' keeps his job or activity.
 
 **Choice feedback:**
 
 - **The man who drives a taxi visits next door.:** Visits next door does not say that he lives there.
 - **The man who lives next door rides in a taxi.:** Rides in a taxi makes him a passenger, not the driver.
-- **The man who lives next door drives a taxi.:** Who lives next door describes the man, and drives a taxi keeps his job or activity.
+- **The man who lives next door drives a taxi.:** 'Who lives next door' describes the man, and 'drives a taxi' keeps his job or activity.
 - **The man who drives a taxi lives across the road.:** Across the road is a different place from next door.
 
 **Decision:** replaced.
@@ -531,14 +531,14 @@ The visitor who ___ a yellow coat is waiting for you.
 3. are wearing
 4. wear
 
-**Explanation:** Is wearing describes the singular visitor's clothing now.
+**Explanation:** 'Is wearing' describes the singular visitor's clothing now.
 
 **Choice feedback:**
 
-- **wearing:** Wearing needs a form of be after who in this full clause.
-- **is wearing:** Is wearing describes the singular visitor's clothing now.
-- **are wearing:** The visitor is singular, so use is rather than are.
-- **wear:** Wear does not agree with a singular visitor and does not give the requested ongoing form.
+- **wearing:** 'Wearing' needs a form of 'be' after 'who' in this full clause.
+- **is wearing:** 'Is wearing' describes the singular visitor's clothing now.
+- **are wearing:** The visitor is singular, so use 'is' rather than 'are'.
+- **wear:** 'Wear' does not agree with a singular visitor and does not give the requested ongoing form.
 
 **Decision:** replaced.
 
@@ -563,14 +563,14 @@ Choose what happens at three o'clock.
 3. The cafe opens.
 4. The staff start selling sandwiches.
 
-**Explanation:** Closes at three is the main statement about the cafe; that sells sandwiches identifies it.
+**Explanation:** 'Closes at three' is the main statement about the cafe; 'that sells sandwiches' identifies it.
 
 **Choice feedback:**
 
-- **The cafe closes.:** Closes at three is the main statement about the cafe; that sells sandwiches identifies it.
+- **The cafe closes.:** 'Closes at three' is the main statement about the cafe; 'that sells sandwiches' identifies it.
 - **The sandwiches arrive.:** No sandwich delivery time is given.
-- **The cafe opens.:** Closes means stops being open, not opens.
-- **The staff start selling sandwiches.:** Selling sandwiches describes the cafe's service, not an action beginning at three.
+- **The cafe opens.:** 'Closes' means stops being open, not 'opens'.
+- **The staff start selling sandwiches.:** 'Selling sandwiches' describes the cafe's service, not an action beginning at three.
 
 **Decision:** replaced.
 
@@ -663,14 +663,14 @@ This is the receipt ___ I need for the return.
 3. whose
 4. who
 
-**Explanation:** That refers to the receipt and is the object of need; I is the person who needs it.
+**Explanation:** 'That' refers to the receipt and is the object of 'need'; 'I' is the person who needs it.
 
 **Choice feedback:**
 
 - **where:** Where gives a place, but the receipt is the thing needed.
-- **that:** That refers to the receipt and is the object of need; I is the person who needs it.
-- **whose:** Whose needs a following noun showing possession and does not stand for the receipt here.
-- **who:** Who refers to a person, not a receipt.
+- **that:** 'That' refers to the receipt and is the object of 'need'; 'I' is the person who needs it.
+- **whose:** 'Whose' needs a following noun showing possession and does not stand for the receipt here.
+- **who:** 'Who' refers to a person, not a receipt.
 
 **Decision:** replaced.
 
@@ -700,9 +700,9 @@ The hotel ___ we stayed was near the harbor.
 **Choice feedback:**
 
 - **which:** Which would need a place preposition, as in which we stayed at or at which we stayed.
-- **whose:** Whose introduces possession, not the location of staying.
+- **whose:** 'Whose' introduces possession, not the location of staying.
 - **where:** Where supplies the place relationship: we stayed at the hotel.
-- **who:** Who would refer to a person, not this hotel.
+- **who:** 'Who' would refer to a person, not this hotel.
 
 **Decision:** replaced.
 
@@ -727,14 +727,14 @@ Describe the neighbor who collects our mail.
 3. The neighbor who collect our mail is away.
 4. The neighbor whose collects our mail is away.
 
-**Explanation:** Who is the subject of collects, and the full subject the neighbor takes is in the main clause.
+**Explanation:** 'Who' is the subject of 'collects', and the full subject 'the neighbor' takes 'is' in the main clause.
 
 **Choice feedback:**
 
-- **The neighbor who collects our mail is away.:** Who is the subject of collects, and the full subject the neighbor takes is in the main clause.
+- **The neighbor who collects our mail is away.:** 'Who' is the subject of 'collects', and the full subject 'the neighbor' takes 'is' in the main clause.
 - **The neighbor who she collects our mail is away.:** Who already fills the subject role of collects; adding she repeats that subject.
-- **The neighbor who collect our mail is away.:** The singular neighbor requires collects, not collect.
-- **The neighbor whose collects our mail is away.:** Whose needs a noun for a possession; it cannot be the subject before collects here.
+- **The neighbor who collect our mail is away.:** The singular neighbor requires 'collects', not 'collect'.
+- **The neighbor whose collects our mail is away.:** 'Whose' needs a noun for a possession; it cannot be the subject before 'collects' here.
 
 **Decision:** replaced.
 
@@ -759,14 +759,14 @@ Could the guest ___ car is outside please move it?
 3. who
 4. which
 
-**Explanation:** Whose car means the guest's car and identifies its owner.
+**Explanation:** 'Whose car' means the guest's car and identifies its owner.
 
 **Choice feedback:**
 
-- **who's:** Who's means who is or who has; neither gives possession before car is.
-- **whose:** Whose car means the guest's car and identifies its owner.
+- **who's:** "Who's" means 'who is' or 'who has'; neither gives possession before 'car is'.
+- **whose:** 'Whose car' means the guest's car and identifies its owner.
 - **who:** Who alone does not show that the car belongs to the guest.
-- **which:** Which cannot express this person's ownership of the following car.
+- **which:** 'Which' cannot express this person's ownership of the following 'car'.
 
 **Decision:** replaced.
 
@@ -791,14 +791,14 @@ We need a machine ___ prints on both sides of the paper.
 3. who
 4. which **[Correct]**
 
-**Explanation:** Which refers to the machine and is the subject of prints.
+**Explanation:** 'Which' refers to the machine and is the subject of 'prints'.
 
 **Choice feedback:**
 
-- **where:** Where introduces a place and cannot act as the subject of prints here.
-- **whose:** Whose would need a possessed noun, such as whose printer, rather than a verb directly after it.
-- **who:** Who normally refers to a person rather than a machine in this use.
-- **which:** Which refers to the machine and is the subject of prints.
+- **where:** 'Where' introduces a place and cannot act as the subject of 'prints' here.
+- **whose:** 'Whose' would need a possessed noun, such as 'whose printer', rather than a verb directly after it.
+- **who:** 'Who' normally refers to a person rather than a machine in this use.
+- **which:** 'Which' refers to the machine and is the subject of 'prints'.
 
 **Decision:** replaced.
 
@@ -823,12 +823,12 @@ Choose who bought the jacket.
 3. The shop assistant.
 4. The jacket's maker.
 
-**Explanation:** I bought yesterday describes the jacket, so the speaker made the purchase.
+**Explanation:** 'I bought yesterday' describes the jacket, so the speaker made the purchase.
 
 **Choice feedback:**
 
-- **The speaker.:** I bought yesterday describes the jacket, so the speaker made the purchase.
-- **The brother.:** My brother appears in the main description of fit; I is the subject of bought.
+- **The speaker.:** 'I bought yesterday' describes the jacket, so the speaker made the purchase.
+- **The brother.:** 'My brother' appears in the main description of 'fit'; 'I' is the subject of 'bought'.
 - **The shop assistant.:** No shop assistant is identified as the buyer.
 - **The jacket's maker.:** The sentence says nothing about the person who made the jacket.
 
@@ -855,14 +855,14 @@ The museum ___ we visited has reopened.
 3. whose
 4. who
 
-**Explanation:** Which is the object of visited: we visited the museum.
+**Explanation:** 'Which' is the object of 'visited': 'we visited the museum'.
 
 **Choice feedback:**
 
-- **where:** Where would need an action taking place at the museum; visited here needs the museum as its object.
-- **which:** Which is the object of visited: we visited the museum.
-- **whose:** Whose introduces a possession, not the object of visited.
-- **who:** Who refers to a person, not the museum building visited.
+- **where:** 'Where' would need an action taking place at the museum; 'visited' here needs the museum as its object.
+- **which:** 'Which' is the object of 'visited': 'we visited the museum'.
+- **whose:** 'Whose' introduces a possession, not the object of 'visited'.
+- **who:** 'Who' refers to a person, not the museum building visited.
 
 **Decision:** replaced.
 
@@ -887,14 +887,14 @@ I called a driver. The driver arrived ten minutes later.
 3. The driver arrived ten minutes before I called.
 4. The driver who I called arrived ten minutes later. **[Correct]**
 
-**Explanation:** Who refers to the driver as the object of I called; using who as an object is normal in everyday English.
+**Explanation:** 'Who' refers to the driver as the object of 'I called'; using 'who' as an object is normal in everyday English.
 
 **Choice feedback:**
 
 - **The driver who called me arrived ten minutes later.:** This reverses who made the call: the driver becomes the caller.
 - **I arrived ten minutes after the driver called me.:** This changes both the caller and the person who arrived.
 - **The driver arrived ten minutes before I called.:** This puts arrival before the call, reversing the stated sequence.
-- **The driver who I called arrived ten minutes later.:** Who refers to the driver as the object of I called; using who as an object is normal in everyday English.
+- **The driver who I called arrived ten minutes later.:** 'Who' refers to the driver as the object of 'I called'; using 'who' as an object is normal in everyday English.
 
 **Decision:** replaced.
 
@@ -923,8 +923,8 @@ The parent whose children ___ in my class works at the hospital.
 
 **Choice feedback:**
 
-- **is:** Inside this clause, children is the plural subject, so is does not agree.
-- **be:** The clause needs a present-tense form of be, here are.
+- **is:** Inside this clause, 'children' is the plural subject, so 'is' does not agree.
+- **be:** The clause needs a present-tense form of 'be', here 'are'.
 - **are:** Are agrees with children; the singular parent belongs to the main clause, which has works.
 - **am:** Am agrees only with I, not children.
 
@@ -956,8 +956,8 @@ Identify the apartment that we rented last summer.
 **Choice feedback:**
 
 - **The apartment that we rented it was very small.:** That already represents the object of rented; it repeats the same object.
-- **The apartment that we renting was very small.:** We renting has no finite verb; use we rented or we were renting.
-- **The apartment whose we rented was very small.:** Whose needs a possessed noun and cannot replace the object by itself here.
+- **The apartment that we renting was very small.:** 'We renting' has no finite verb; use 'we rented' or 'we were renting'.
+- **The apartment whose we rented was very small.:** 'Whose' needs a possessed noun and cannot replace the object by itself here.
 - **The apartment that we rented was very small.:** That stands for the apartment as the object of we rented, without an extra it.
 
 **Decision:** replaced.
@@ -983,13 +983,13 @@ The message that Lena sent to Omar is on my phone. Who sent the message?
 3. Lena **[Correct]**
 4. Lena and Omar together
 
-**Explanation:** Lena is the subject of sent inside the description of the message.
+**Explanation:** 'Lena' is the subject of 'sent' inside the description of the message.
 
 **Choice feedback:**
 
 - **Omar:** Omar follows to, so he receives the message.
 - **The speaker:** My phone tells us where the message is, not who sent it.
-- **Lena:** Lena is the subject of sent inside the description of the message.
+- **Lena:** 'Lena' is the subject of 'sent' inside the description of the message.
 - **Lena and Omar together:** Only Lena is named as the sender; Omar is the receiver.
 
 **Decision:** replaced.
@@ -1020,9 +1020,9 @@ This is the building ___ I work.
 **Choice feedback:**
 
 - **which:** Which alone does not express the location: we work in a building.
-- **whose:** Whose needs a noun after it, such as whose entrance, to show possession.
+- **whose:** 'Whose' needs a noun after it, such as 'whose entrance', to show possession.
 - **in which:** In which links the building to work in that building; where would also work.
-- **who:** Who refers to a person, not this building.
+- **who:** 'Who' refers to a person, not this building.
 
 **Decision:** replaced.
 
@@ -1079,11 +1079,11 @@ I spoke to a woman whose son studies with my daughter. Who studies with the spea
 3. The woman's daughter
 4. The speaker's son
 
-**Explanation:** Whose son means the son of the woman, and that son studies with the daughter.
+**Explanation:** 'Whose son' means the son of the woman, and that son studies with the daughter.
 
 **Choice feedback:**
 
-- **The woman's son:** Whose son means the son of the woman, and that son studies with the daughter.
+- **The woman's son:** 'Whose son' means the son of the woman, and that son studies with the daughter.
 - **The woman:** The woman is the person spoken to; her son is the student.
 - **The woman's daughter:** The relative clause says son, not daughter, for the woman's child.
 - **The speaker's son:** My identifies the speaker's daughter; whose identifies the woman's son.
@@ -1115,8 +1115,8 @@ The parcel that was delivered this morning belongs to the manager.
 
 **Choice feedback:**
 
-- **The parcel the manager sent yesterday:** Belongs to names the owner; it does not say the manager sent the parcel yesterday.
-- **The parcel waiting to be sent this morning:** Was delivered describes a completed delivery, not an item still waiting to be sent.
+- **The parcel the manager sent yesterday:** 'Belongs to' names the owner; it does not say the manager sent the parcel yesterday.
+- **The parcel waiting to be sent this morning:** 'Was delivered' describes a completed delivery, not an item still waiting to be sent.
 - **The parcel the manager will collect tomorrow:** The sentence gives a delivery time, not a future collection arrangement.
 - **The parcel that arrived this morning:** Was delivered tells us that the delivery happened this morning.
 
@@ -1143,14 +1143,14 @@ Friday is the day ___ the repair shop closes early.
 3. whose
 4. what
 
-**Explanation:** When links the day to the time at which the shop closes early.
+**Explanation:** 'When' links the day to the time at which the shop closes early.
 
 **Choice feedback:**
 
-- **when:** When links the day to the time at which the shop closes early.
-- **who:** Who links a description to a person, not the day of an event.
-- **whose:** Whose would need a possessed noun after it; the is an article, not that noun.
-- **what:** What cannot follow the explicit noun the day as a relative word here.
+- **when:** 'When' links the day to the time at which the shop closes early.
+- **who:** 'Who' links a description to a person, not the day of an event.
+- **whose:** 'Whose' would need a possessed noun after it; 'the' is an article, not that noun.
+- **what:** 'What' cannot follow the explicit noun 'the day' as a relative word here.
 
 **Decision:** replaced.
 
@@ -1239,14 +1239,14 @@ The person I spoke to at reception gave me a map.
 3. The person at reception asked the speaker for a map.
 4. The person who spoke with the speaker supplied a map. **[Correct]**
 
-**Explanation:** I spoke to describes the person, and gave me a map says what that person did.
+**Explanation:** 'I spoke to' describes the person, and 'gave me a map' says what that person did.
 
 **Choice feedback:**
 
-- **The speaker gave a map to the receptionist.:** Gave me means the speaker received the map, not gave it away.
+- **The speaker gave a map to the receptionist.:** 'Gave me' means the speaker received the map, not gave it away.
 - **The speaker spoke to the person who made the map.:** The sentence identifies the person by a conversation, not by making the map.
 - **The person at reception asked the speaker for a map.:** Gave me reports supplying a map, not requesting one from the speaker.
-- **The person who spoke with the speaker supplied a map.:** I spoke to describes the person, and gave me a map says what that person did.
+- **The person who spoke with the speaker supplied a map.:** 'I spoke to' describes the person, and 'gave me a map' says what that person did.
 
 **Decision:** replaced.
 
@@ -1277,7 +1277,7 @@ Please return the books that you borrowed last week by Friday.
 
 - **Borrow the books again on Friday.:** Please return requests giving books back, not borrowing them again.
 - **Give back last week's books by Friday.:** That you borrowed last week identifies the books; by Friday sets the deadline for returning them.
-- **Return the books that you borrowed on Friday.:** Last week belongs to borrowed; Friday is the return deadline, not the borrowing day.
+- **Return the books that you borrowed on Friday.:** 'Last week' belongs to 'borrowed'; Friday is the return deadline, not the borrowing day.
 - **Choose the books you will borrow next week.:** The relative clause refers to an earlier loan, not a future choice of books.
 
 **Decision:** replaced.
@@ -1311,7 +1311,7 @@ Make this description shorter by omitting the relative word: The flat that we vi
 
 **Choice feedback:**
 
-- **The flat we viewing yesterday has a balcony.:** Viewing needs an auxiliary after we; simply omitting that leaves the finite verb viewed unchanged.
+- **The flat we viewing yesterday has a balcony.:** 'Viewing' needs an auxiliary after 'we'; simply omitting 'that' leaves the finite verb 'viewed' unchanged.
 - **The flat we viewed it yesterday has a balcony.:** The flat is already the understood object of viewed; adding it repeats that object.
 - **The flat we viewed yesterday has a balcony.:** That is the object of viewed, so it can be omitted while we remains the subject.
 - **The flat was viewed yesterday has a balcony.:** Replacing the relative with was viewed leaves two finite predicates without a link and loses the subject we.
@@ -1339,13 +1339,13 @@ Describe the volunteers who organized the food collection.
 3. The volunteers who organized the collection thanked the donors. **[Correct]**
 4. The volunteers who they organized the collection thanked the donors.
 
-**Explanation:** Who is the subject of organized and links that action to volunteers; thanked is the main verb.
+**Explanation:** 'Who' is the subject of 'organized' and links that action to 'volunteers'; 'thanked' is the main verb.
 
 **Choice feedback:**
 
 - **The volunteers they organized the collection thanked the donors.:** They does not connect the description to volunteers and leaves two clauses without a suitable link.
-- **The volunteers organized the collection thanked the donors.:** The subject relative who cannot simply be omitted before organized in this sentence.
-- **The volunteers who organized the collection thanked the donors.:** Who is the subject of organized and links that action to volunteers; thanked is the main verb.
+- **The volunteers organized the collection thanked the donors.:** The subject relative 'who' cannot simply be omitted before 'organized' in this sentence.
+- **The volunteers who organized the collection thanked the donors.:** 'Who' is the subject of 'organized' and links that action to 'volunteers'; 'thanked' is the main verb.
 - **The volunteers who they organized the collection thanked the donors.:** Who already supplies the subject of organized, so they repeats it.
 
 **Decision:** replaced.
@@ -1403,12 +1403,12 @@ The tenant has asked the landlord for help. The tenant's kitchen ceiling leaks.
 3. The landlord whose kitchen ceiling leaks has asked for help.
 4. The tenant whose kitchen ceiling leaks has offered to help.
 
-**Explanation:** Whose links the kitchen ceiling to the tenant, and has asked preserves the tenant's request.
+**Explanation:** 'Whose' links the kitchen ceiling to the tenant, and 'has asked' preserves the tenant's request.
 
 **Choice feedback:**
 
 - **The tenant whose ceiling was repaired has asked for help.:** Was repaired replaces the current leak with a completed repair.
-- **The tenant whose kitchen ceiling leaks has asked for help.:** Whose links the kitchen ceiling to the tenant, and has asked preserves the tenant's request.
+- **The tenant whose kitchen ceiling leaks has asked for help.:** 'Whose' links the kitchen ceiling to the tenant, and 'has asked' preserves the tenant's request.
 - **The landlord whose kitchen ceiling leaks has asked for help.:** This transfers both the leaking kitchen and the request to the landlord.
 - **The tenant whose kitchen ceiling leaks has offered to help.:** Offering help changes the tenant from someone requesting help to someone providing it.
 
@@ -1435,14 +1435,14 @@ We first met on a particular day. I will never forget that day.
 3. I'll never forget the day before we first met.
 4. I'll never forget the day when we first met. **[Correct]**
 
-**Explanation:** When connects the day to the time of the first meeting.
+**Explanation:** 'When' connects the day to the time of the first meeting.
 
 **Choice feedback:**
 
 - **I'll never forget the day that we chose for our first meeting.:** Choosing a meeting day is not the same event as actually meeting on that day.
 - **I'll never forget the day that you remembered.:** This identifies the day through your memory, without saying it was when we first met.
 - **I'll never forget the day before we first met.:** Before places the remembered day earlier than the meeting, changing the relationship.
-- **I'll never forget the day when we first met.:** When connects the day to the time of the first meeting.
+- **I'll never forget the day when we first met.:** 'When' connects the day to the time of the first meeting.
 
 **Decision:** replaced.
 
@@ -1472,9 +1472,9 @@ Describe a restaurant by saying that we had lunch there.
 **Choice feedback:**
 
 - **The restaurant where we had lunch overlooks the river.:** Where replaces in that restaurant and needs no extra there.
-- **The restaurant where we had lunch there overlooks the river.:** Where already expresses the location of lunch, so there repeats that location.
+- **The restaurant where we had lunch there overlooks the river.:** 'Where' already expresses the location of lunch, so 'there' repeats that location.
 - **The restaurant which we had lunch overlooks the river.:** We had lunch in a restaurant; which alone does not supply the necessary location relationship.
-- **The restaurant whose we had lunch overlooks the river.:** Whose introduces a possessed noun, not the location of we had lunch.
+- **The restaurant whose we had lunch overlooks the river.:** 'Whose' introduces a possessed noun, not the location of 'we had lunch'.
 
 **Decision:** replaced.
 
@@ -1524,7 +1524,7 @@ ID: `coverage-relative-clauses-b1-3168`
 
 Choose the option that preserves the intended group.
 
-The manager thanked the staff who had stayed late. Which group does the relative clause identify?
+'The manager thanked the staff who had stayed late.' Which group does the relative clause identify?
 
 1. Staff who remained after their usual hours **[Correct]**
 2. Staff whose manager stayed late
@@ -1536,7 +1536,7 @@ The manager thanked the staff who had stayed late. Which group does the relative
 **Choice feedback:**
 
 - **Staff who remained after their usual hours:** Who had stayed late restricts staff to those who remained beyond their usual working time.
-- **Staff whose manager stayed late:** Who had stayed late describes the staff's action, not the manager's.
+- **Staff whose manager stayed late:** 'Who had stayed late' describes the staff's action, not the manager's.
 - **Staff whom the manager asked to stay late:** The sentence says they stayed; it does not say the manager asked them to.
 - **Staff who thanked the manager afterward:** The manager thanked the staff, so this reverses the direction of thanks.
 
@@ -1563,13 +1563,13 @@ Preserve the direction of the loan in a relative-clause description.
 3. The book I lent Rosa is about urban gardens. **[Correct]**
 4. The book I borrowed from Rosa is about urban gardens.
 
-**Explanation:** I is the lender and Rosa the recipient inside the relative clause I lent Rosa.
+**Explanation:** 'I' is the lender and Rosa the recipient inside the relative clause 'I lent Rosa'.
 
 **Choice feedback:**
 
 - **The book Rosa lent me is about urban gardens.:** Rosa becomes the lender here, reversing the intended loan.
 - **The book Rosa borrowed from the library is about urban gardens.:** This makes the library the source of Rosa's book instead of the speaker.
-- **The book I lent Rosa is about urban gardens.:** I is the lender and Rosa the recipient inside the relative clause I lent Rosa.
+- **The book I lent Rosa is about urban gardens.:** 'I' is the lender and Rosa the recipient inside the relative clause 'I lent Rosa'.
 - **The book I borrowed from Rosa is about urban gardens.:** Borrowed from Rosa makes the speaker the recipient rather than the lender.
 
 **Decision:** replaced.
@@ -1595,12 +1595,12 @@ I use a small knife to open parcels. That knife is missing.
 3. The knife that I use to cut bread is missing.
 4. The parcel I keep the knife in is missing.
 
-**Explanation:** With links the knife to opening parcels; the object relative pronoun can be omitted before I.
+**Explanation:** 'With' links the knife to opening parcels; the object relative pronoun can be omitted before 'I'.
 
 **Choice feedback:**
 
 - **The knife that arrived in the parcel is missing.:** The original identifies the knife by its use, not by how it arrived.
-- **The knife I open parcels with is missing.:** With links the knife to opening parcels; the object relative pronoun can be omitted before I.
+- **The knife I open parcels with is missing.:** 'With' links the knife to opening parcels; the object relative pronoun can be omitted before 'I'.
 - **The knife that I use to cut bread is missing.:** Cutting bread changes the stated purpose of the knife.
 - **The parcel I keep the knife in is missing.:** This says the parcel is missing and describes storage, changing both the missing object and the relationship.
 
@@ -1691,13 +1691,13 @@ Add the information that Carlos speaks Arabic to the statement that he will meet
 3. Carlos, speaks Arabic, will meet the guests.
 4. Carlos, who he speaks Arabic, will meet the guests.
 
-**Explanation:** Who introduces extra information about the named person between commas.
+**Explanation:** 'Who' introduces extra information about the named person between commas.
 
 **Choice feedback:**
 
-- **Carlos, who speaks Arabic, will meet the guests.:** Who introduces extra information about the named person between commas.
+- **Carlos, who speaks Arabic, will meet the guests.:** 'Who' introduces extra information about the named person between commas.
 - **Carlos, that speaks Arabic, will meet the guests.:** That is not used for this comma-separated supplementary relative in standard written English.
-- **Carlos, speaks Arabic, will meet the guests.:** A finite supplementary relative needs its subject who; the commas do not supply it.
+- **Carlos, speaks Arabic, will meet the guests.:** A finite supplementary relative needs its subject 'who'; the commas do not supply it.
 - **Carlos, who he speaks Arabic, will meet the guests.:** Who already serves as the subject of speaks, making he redundant.
 
 **Decision:** replaced.
@@ -1723,13 +1723,13 @@ A company uses a green logo. That company repairs household appliances.
 3. The company whose logo is green repairs household appliances. **[Correct]**
 4. The company whose logo was redesigned sells household appliances.
 
-**Explanation:** Whose links the logo to the company; organizations, as well as people, can have whose descriptions.
+**Explanation:** 'Whose' links the logo to the company; organizations, as well as people, can have 'whose' descriptions.
 
 **Choice feedback:**
 
 - **The company whose logo is green makes household appliances.:** Makes changes the company's work from repairing appliances to manufacturing them.
 - **The company whose appliances are green repairs household goods.:** This attaches the colour to the appliances, not to the logo.
-- **The company whose logo is green repairs household appliances.:** Whose links the logo to the company; organizations, as well as people, can have whose descriptions.
+- **The company whose logo is green repairs household appliances.:** 'Whose' links the logo to the company; organizations, as well as people, can have 'whose' descriptions.
 - **The company whose logo was redesigned sells household appliances.:** This substitutes redesign for the stated colour and selling for repairing.
 
 **Decision:** replaced.
@@ -1755,14 +1755,14 @@ Everything ___ was left in the locker has been collected.
 3. who
 4. whose
 
-**Explanation:** That links the remaining possessions to was left; it is the subject of the relative clause.
+**Explanation:** 'That' links the remaining possessions to 'was left'; 'it' is the subject of the relative clause.
 
 **Choice feedback:**
 
-- **what:** Everything already supplies the antecedent; what cannot follow it as the relative pronoun here.
-- **that:** That links the remaining possessions to was left; it is the subject of the relative clause.
-- **who:** Who refers to people, not the possessions represented by everything.
-- **whose:** Whose requires a following possessed noun and cannot act alone as this subject.
+- **what:** 'Everything' already supplies the antecedent; 'what' cannot follow it as the relative pronoun here.
+- **that:** 'That' links the remaining possessions to 'was left'; 'it' is the subject of the relative clause.
+- **who:** 'Who' refers to people, not the possessions represented by 'everything'.
+- **whose:** 'Whose' requires a following possessed noun and cannot act alone as this subject.
 
 **Decision:** replaced.
 
@@ -1819,11 +1819,11 @@ The colleague to whom I sent the timetable has replied.
 3. The colleague whose timetable I replied to has sent it.
 4. The timetable that my colleague sent has been replied to.
 
-**Explanation:** The preposition moves to the end, and the object relative can be omitted: I sent the timetable to that colleague.
+**Explanation:** The preposition moves to the end, and the object relative can be omitted: 'I sent the timetable to that colleague'.
 
 **Choice feedback:**
 
-- **The colleague I sent the timetable to has replied.:** The preposition moves to the end, and the object relative can be omitted: I sent the timetable to that colleague.
+- **The colleague I sent the timetable to has replied.:** The preposition moves to the end, and the object relative can be omitted: 'I sent the timetable to that colleague'.
 - **The colleague who sent me the timetable has replied.:** This makes the colleague the sender of the timetable rather than its recipient.
 - **The colleague whose timetable I replied to has sent it.:** This changes a reply from the colleague into the speaker's response to a timetable.
 - **The timetable that my colleague sent has been replied to.:** This shifts the described head to timetable and reverses who sent it.
@@ -1888,8 +1888,8 @@ Describe the customer as the person I spoke to.
 **Choice feedback:**
 
 - **The customer that I spoke to her has left an address.:** That already represents the person after to; her repeats the object.
-- **The customer whose I spoke to has left an address.:** Whose needs a possessed noun and cannot introduce I spoke to alone.
-- **The customer where I spoke to has left an address.:** Where refers to a location, but the customer is the person addressed.
+- **The customer whose I spoke to has left an address.:** 'Whose' needs a possessed noun and cannot introduce 'I spoke to' alone.
+- **The customer where I spoke to has left an address.:** 'Where' refers to a location, but the customer is the person addressed.
 - **The customer that I spoke to has left an address.:** That can refer to a person in a defining relative; who I spoke to would also be valid.
 
 **Decision:** replaced.
@@ -2051,8 +2051,8 @@ The teams negotiated about a plan. Complete: The plan ___ has now been published
 
 **Choice feedback:**
 
-- **through which the teams exchanged proposals:** Through which presents the plan as a means of exchanging proposals, not their subject.
-- **to which the teams attached their agreement:** To which describes attaching agreement to the plan, not negotiations about it.
+- **through which the teams exchanged proposals:** 'Through which' presents the plan as a means of exchanging proposals, not their subject.
+- **to which the teams attached their agreement:** 'To which' describes attaching agreement to the plan, not negotiations about it.
 - **about which the teams negotiated:** About which identifies the plan as the topic of the negotiations, preserving the original relationship.
 - **under which the teams held negotiations:** Under which makes the plan a framework governing negotiations rather than their topic.
 
@@ -2111,14 +2111,14 @@ The town has one dental clinic. It offers free check-ups and will move in June.
 3. The clinic will offer free check-ups when it moves in June.
 4. The clinic, which offers free check-ups, will move in June. **[Correct]**
 
-**Explanation:** The comma-separated which clause adds information about the already identified clinic; the move remains the main statement.
+**Explanation:** The comma-separated 'which' clause adds information about the already identified clinic; the move remains the main statement.
 
 **Choice feedback:**
 
 - **The clinic that offers free check-ups will move in June.:** The defining clause uses the service to identify which clinic, instead of presenting it as supplementary information.
 - **The free check-ups which the clinic offers will move in June.:** This makes the check-ups, rather than the clinic, the thing that will move.
 - **The clinic will offer free check-ups when it moves in June.:** This ties the service to the future move instead of reporting its current availability.
-- **The clinic, which offers free check-ups, will move in June.:** The comma-separated which clause adds information about the already identified clinic; the move remains the main statement.
+- **The clinic, which offers free check-ups, will move in June.:** The comma-separated 'which' clause adds information about the already identified clinic; the move remains the main statement.
 
 **Decision:** replaced.
 
@@ -2143,12 +2143,12 @@ The survey received eighty responses, half of which came from tenants.
 3. Eighty tenants supplied half the responses.
 4. Forty tenants were invited to complete the survey.
 
-**Explanation:** Which refers to the eighty responses; half of that set is forty.
+**Explanation:** 'Which' refers to the eighty responses; half of that set is forty.
 
 **Choice feedback:**
 
 - **Half the tenants who were contacted responded.:** Half of which quantifies responses, not the proportion of contacted tenants who replied.
-- **Forty responses came from tenants.:** Which refers to the eighty responses; half of that set is forty.
+- **Forty responses came from tenants.:** 'Which' refers to the eighty responses; half of that set is forty.
 - **Eighty tenants supplied half the responses.:** Eighty is the total response count, not the number of tenant respondents.
 - **Forty tenants were invited to complete the survey.:** The relative counts responses received, not people invited to participate.
 
@@ -2207,12 +2207,12 @@ The software stores invoices. Our accountant recommended it.
 3. The software our accountant designed stores invoices.
 4. The software that creates invoices is the one our accountant recommended.
 
-**Explanation:** That stores invoices is a subject relative; our accountant recommended is an object relative identifying the same software.
+**Explanation:** 'That stores invoices' is a subject relative; 'our accountant recommended' is an object relative identifying the same software.
 
 **Choice feedback:**
 
 - **The accountant who stores invoices recommended the software.:** This makes the accountant the person storing invoices, rather than describing a software function.
-- **The software that stores invoices is the one our accountant recommended.:** That stores invoices is a subject relative; our accountant recommended is an object relative identifying the same software.
+- **The software that stores invoices is the one our accountant recommended.:** 'That stores invoices' is a subject relative; 'our accountant recommended' is an object relative identifying the same software.
 - **The software our accountant designed stores invoices.:** Designed replaces a recommendation with authorship of the software.
 - **The software that creates invoices is the one our accountant recommended.:** Creating invoices is a different function from storing them.
 
@@ -2243,7 +2243,7 @@ We postponed the launch, a decision which the designers welcomed.
 
 **Choice feedback:**
 
-- **The designers welcomed the product that was due to launch.:** Which describes a decision, not the product itself.
+- **The designers welcomed the product that was due to launch.:** 'Which' describes a decision, not the product itself.
 - **The designers proposed the postponement themselves.:** Welcoming a decision does not establish who proposed it.
 - **The designers approved of postponing the launch.:** A decision explicitly identifies the postponement as what the designers welcomed.
 - **The designers approved of the original launch date.:** Welcoming the postponement does not mean approving the original launch date.
@@ -2403,7 +2403,7 @@ I spoke to the technician who the receptionist said would repair the scanner.
 
 **Choice feedback:**
 
-- **The receptionist will repair the scanner.:** The receptionist is the subject of said; the technician is the understood subject of would repair.
+- **The receptionist will repair the scanner.:** 'The receptionist' is the subject of 'said'; 'the technician' is the understood subject of 'would repair'.
 - **The technician said the receptionist would repair it.:** This swaps the speaker of the report and the expected repairer.
 - **The speaker told the technician to replace the scanner.:** The main clause reports a conversation, not an instruction to replace the equipment.
 - **The receptionist identified the technician as the expected repairer.:** The relative refers to the technician across the embedded phrase the receptionist said.
@@ -2501,7 +2501,7 @@ The specialist to whom the nurse referred me has moved to another clinic.
 
 - **The nurse directed the speaker to the specialist.:** The nurse made the referral, me received it, and to whom points to the specialist as the destination.
 - **The specialist referred the nurse to the speaker.:** The nurse, not the specialist, is the subject of referred in the relative clause.
-- **The speaker referred the nurse to the specialist.:** Me is the person referred, not the person making the referral.
+- **The speaker referred the nurse to the specialist.:** 'Me' is the person referred, not the person making the referral.
 - **The nurse received a referral from the specialist.:** To whom identifies the referral's destination; it does not make the specialist its source.
 
 **Decision:** replaced.
@@ -2632,7 +2632,7 @@ The curator interviewed the assistant of the architect who had won the award.
 **Choice feedback:**
 
 - **The curator interviewed the assistant who worked for the architect after winning the award.:** After winning attaches naturally to the assistant's working history and does not unambiguously make the architect the winner.
-- **The curator interviewed the architect's assistant, who had won the award.:** The relative follows the whole phrase the architect's assistant, identifying the assistant as the winner.
+- **The curator interviewed the architect's assistant, who had won the award.:** The relative follows the whole phrase "the architect's assistant", identifying the assistant as the winner.
 - **The curator interviewed the assistant of the award-winning architect.:** Award-winning directly modifies architect, removing the possible competing attachment to assistant.
 - **The curator interviewed the award-winning assistant employed by the architect.:** Award-winning explicitly modifies assistant, the wrong recipient under the editing instruction.
 
@@ -2663,7 +2663,7 @@ The committee will publish its decision in November, by which time the consultat
 
 **Choice feedback:**
 
-- **The consultation will begin once the committee publishes its decision.:** Will have closed describes completed closure by then, not the start of consultation afterward.
+- **The consultation will begin once the committee publishes its decision.:** 'Will have closed' describes completed closure by then, not the start of consultation afterward.
 - **The consultation will be closed no later than publication of the decision.:** By which time sets publication as the reference point before or at which closure will be complete.
 - **Publication and closure are scheduled for the same exact moment.:** By allows completion earlier; it does not require the events to coincide exactly.
 - **The consultation's closure determines when publication may begin.:** The sentence states a time relationship, not that closure authorizes or determines publication.
@@ -2691,13 +2691,13 @@ The witness whom the lawyer considered unreliable nevertheless gave the most det
 3. The lawyer doubted the witness, despite the detail of the account. **[Correct]**
 4. The lawyer accepted the witness's account because it was detailed.
 
-**Explanation:** Whom is the person assessed by the lawyer; nevertheless contrasts that assessment with the detailed testimony.
+**Explanation:** 'Whom' is the person assessed by the lawyer; 'nevertheless' contrasts that assessment with the detailed testimony.
 
 **Choice feedback:**
 
 - **The narrator establishes that the witness's account was unreliable.:** Considered attributes the assessment to the lawyer; the narrator does not independently establish unreliability.
 - **The witness considered the lawyer's account unreliable.:** The lawyer is the subject of considered and the witness its object, not the reverse.
-- **The lawyer doubted the witness, despite the detail of the account.:** Whom is the person assessed by the lawyer; nevertheless contrasts that assessment with the detailed testimony.
+- **The lawyer doubted the witness, despite the detail of the account.:** 'Whom' is the person assessed by the lawyer; 'nevertheless' contrasts that assessment with the detailed testimony.
 - **The lawyer accepted the witness's account because it was detailed.:** Nevertheless contrasts the negative assessment with the detailed account; it does not report acceptance.
 
 **Decision:** replaced.
@@ -2723,14 +2723,14 @@ The agreement introduced a procedure whereby tenants could challenge incorrect c
 3. The procedure identified the location where tenants received their charges.
 4. The procedure provided a means for tenants to challenge disputed charges. **[Correct]**
 
-**Explanation:** Whereby means by which here: the procedure is the means enabling tenants to challenge charges.
+**Explanation:** 'Whereby' means 'by which' here: the procedure is the means enabling tenants to challenge charges.
 
 **Choice feedback:**
 
 - **The procedure described the circumstances in which disputed charges usually arose.:** This describes background circumstances, not how a challenge could be made.
 - **The procedure recorded the occasions on which tenants had challenged charges.:** Could presents an available mechanism, not a record of previous challenges.
 - **The procedure identified the location where tenants received their charges.:** A physical location for receiving charges is different from a process for contesting them.
-- **The procedure provided a means for tenants to challenge disputed charges.:** Whereby means by which here: the procedure is the means enabling tenants to challenge charges.
+- **The procedure provided a means for tenants to challenge disputed charges.:** 'Whereby' means 'by which' here: the procedure is the means enabling tenants to challenge charges.
 
 **Decision:** replaced.
 
@@ -2793,7 +2793,7 @@ The delegates, three of whose proposals were adopted, asked for feedback on the 
 
 - **Three delegates each had all their proposals adopted.:** The number applies to proposals; the sentence does not distribute success across three individual delegates.
 - **Each delegate had exactly three proposals adopted.:** There is no each in the relative, so three cannot be read as a per-delegate total.
-- **Three adopted proposals were submitted by other delegates.:** Whose connects the proposals to the delegates being discussed, not an outside group.
+- **Three adopted proposals were submitted by other delegates.:** 'Whose' connects the proposals to the delegates being discussed, not an outside group.
 - **Three proposals submitted by the delegates were adopted.:** Three of whose proposals quantifies proposals belonging to the delegate group, not the delegates themselves.
 
 **Decision:** replaced.
@@ -2819,14 +2819,14 @@ The audit examined the way in which complaints were handled, not whether complai
 3. The audit checked whether complaints had produced favourable decisions.
 4. The audit investigated the process used to deal with complaints. **[Correct]**
 
-**Explanation:** The way in which introduces manner or method; it identifies the handling process as the object of examination.
+**Explanation:** 'The way in which' introduces manner or method; it identifies the handling process as the object of examination.
 
 **Choice feedback:**
 
 - **The audit tested how satisfied complainants were with each outcome.:** Satisfaction is explicitly outside the stated focus of the audit.
 - **The audit established why complainants accepted the decisions.:** Reasons for accepting decisions concern reactions, not the handling method identified by the way in which.
 - **The audit checked whether complaints had produced favourable decisions.:** Whether decisions were favourable evaluates outcomes rather than how complaints were processed.
-- **The audit investigated the process used to deal with complaints.:** The way in which introduces manner or method; it identifies the handling process as the object of examination.
+- **The audit investigated the process used to deal with complaints.:** 'The way in which' introduces manner or method; it identifies the handling process as the object of examination.
 
 **Decision:** replaced.
 
@@ -2856,7 +2856,7 @@ The analyst whose supervisor the committee interviewed was subsequently invited 
 **Choice feedback:**
 
 - **The supervisor was interviewed; the analyst was later asked to respond in writing.:** The committee interviewed the analyst's supervisor inside the relative clause; the main-clause invitation went to the analyst.
-- **The analyst was interviewed, then asked to send the supervisor a response.:** Whose supervisor is the object of interviewed; the analyst is the owner of that relationship, not the interviewee.
+- **The analyst was interviewed, then asked to send the supervisor a response.:** 'Whose supervisor' is the object of 'interviewed'; the analyst is the owner of that relationship, not the interviewee.
 - **The committee interviewed the analyst and invited the supervisor to respond.:** This swaps the interviewee and the recipient of the invitation.
 - **The supervisor interviewed the committee before inviting the analyst to respond.:** The committee is the interviewer, not the group interviewed by the supervisor.
 
@@ -3043,12 +3043,12 @@ The archive introduced a backup system without which the recent power failure wo
 3. The archive had already lost the work before the backup system was introduced.
 4. The archive introduced the backup system because the power failure had destroyed the work.
 
-**Explanation:** Without which refers to the backup system and frames destruction as what would have happened in its absence.
+**Explanation:** 'Without which' refers to the backup system and frames destruction as what would have happened in its absence.
 
 **Choice feedback:**
 
-- **The backup system prevented the power failure from destroying the work.:** Without which refers to the backup system and frames destruction as what would have happened in its absence.
-- **The power failure destroyed the backup system and the archived work.:** Would have destroyed under without which describes the hypothetical loss without the safeguard, not an actual loss of both.
+- **The backup system prevented the power failure from destroying the work.:** 'Without which' refers to the backup system and frames destruction as what would have happened in its absence.
+- **The power failure destroyed the backup system and the archived work.:** 'Would have destroyed' under 'without which' describes the hypothetical loss without the safeguard, not an actual loss of both.
 - **The archive had already lost the work before the backup system was introduced.:** The sentence presents the system as effective during the recent failure, not as arriving after the work was lost.
 - **The archive introduced the backup system because the power failure had destroyed the work.:** This turns the unrealized destruction into an actual earlier cause of introducing the system.
 
@@ -3075,12 +3075,12 @@ The application was returned with a request for evidence, in response to which t
 3. The applicant supplied statements in response to a bank's request.
 4. The return of the statements prompted the original request for evidence.
 
-**Explanation:** Which follows in response to and refers to the request for evidence.
+**Explanation:** 'Which' follows 'in response to' and refers to the request for evidence.
 
 **Choice feedback:**
 
 - **The application was returned because the applicant had supplied statements.:** This reverses the sequence, making the statements the reason for returning the application.
-- **The applicant supplied statements in response to the request for evidence.:** Which follows in response to and refers to the request for evidence.
+- **The applicant supplied statements in response to the request for evidence.:** 'Which' follows 'in response to' and refers to the request for evidence.
 - **The applicant supplied statements in response to a bank's request.:** The bank supplies the statements but is not identified as making the evidence request.
 - **The return of the statements prompted the original request for evidence.:** The application was returned; the sentence does not report returned bank statements.
 
@@ -3207,7 +3207,7 @@ The new software retained its familiar menus, such as they were, while replacing
 
 **Choice feedback:**
 
-- **The menus were retained as examples of other familiar features that were removed.:** Such as they were is a parenthetical qualification here, not an example list headed by such as.
+- **The menus were retained as examples of other familiar features that were removed.:** 'Such as they were' is a parenthetical qualification here, not an example list headed by 'such as'.
 - **The menus were retained, though the speaker implies they were of limited quality.:** Such as they were refers back to the menus with a qualified, often dismissive assessment of their adequacy.
 - **The menus were retained in whatever form users might choose in future.:** They were refers to the menus as they existed, not a future free choice of form.
 - **The menus were retained because their quality made other changes unnecessary.:** The phrase qualifies the menus' merits; it does not praise them as making further changes unnecessary.
@@ -3303,11 +3303,11 @@ The witnesses whose accounts the analyst questioned, several of whom had already
 3. The analyst recalled witnesses without questioning their accounts.
 4. The questioned accounts came only from witnesses who remained in the country.
 
-**Explanation:** The defining whose clause selects the recalled group; the supplementary partitive describes some members within it.
+**Explanation:** The defining 'whose' clause selects the recalled group; the supplementary partitive describes some members within it.
 
 **Choice feedback:**
 
-- **The witnesses with questioned accounts were recalled, including some who had left.:** The defining whose clause selects the recalled group; the supplementary partitive describes some members within it.
+- **The witnesses with questioned accounts were recalled, including some who had left.:** The defining 'whose' clause selects the recalled group; the supplementary partitive describes some members within it.
 - **The witnesses who had left the country were the only ones recalled.:** Several of whom adds information about some members; it does not restrict recalled to that subgroup.
 - **The analyst recalled witnesses without questioning their accounts.:** Whose accounts the analyst questioned explicitly defines the witness group by the questioned accounts.
 - **The questioned accounts came only from witnesses who remained in the country.:** Several of whom refers back to that defined group, so some with questioned accounts had left.
@@ -3372,7 +3372,7 @@ Compare: 'the allegation that the auditor repeated' and 'the allegation that the
 **Choice feedback:**
 
 - **Both clauses state that the auditor made a false allegation.:** Neither wording by itself establishes that the allegation is false; the second reports what is alleged.
-- **The first gives the allegation's content; the second identifies its source.:** The functions are reversed: repeated takes the allegation as its missing object, while falsified the figures supplies a full proposition.
+- **The first gives the allegation's content; the second identifies its source.:** The functions are reversed: 'repeated' takes the allegation as its missing object, while 'falsified the figures' supplies a full proposition.
 - **The first identifies an allegation by an action; the second states its content.:** In the first, allegation is the understood object of repeated in a relative; in the second, the that-clause supplies what is alleged.
 - **Both clauses identify allegations by actions performed on them.:** Only repeated has allegation as an understood object; the second clause already has the figures as its object.
 
@@ -3399,12 +3399,12 @@ Whoever is appointed to chair the inquiry must disclose any previous work for th
 3. An appointee may decide whether previous work is relevant enough to disclose.
 4. The inquiry must appoint the person who has already disclosed previous work.
 
-**Explanation:** Whoever is appointed supplies the eventual role-holder as the subject of must disclose.
+**Explanation:** 'Whoever is appointed' supplies the eventual role-holder as the subject of 'must disclose'.
 
 **Choice feedback:**
 
 - **The speaker knows the appointee but declines to identify that person.:** Whoever makes the requirement independent of identity; it does not establish concealed knowledge of an appointment.
-- **The disclosure requirement applies regardless of who becomes chair.:** Whoever is appointed supplies the eventual role-holder as the subject of must disclose.
+- **The disclosure requirement applies regardless of who becomes chair.:** 'Whoever is appointed' supplies the eventual role-holder as the subject of 'must disclose'.
 - **An appointee may decide whether previous work is relevant enough to disclose.:** The stated duty covers any previous work, not just work the appointee chooses to consider relevant.
 - **The inquiry must appoint the person who has already disclosed previous work.:** Disclosure is a duty of the chair, not a stated rule for selecting the chair.
 
@@ -3623,14 +3623,14 @@ The proposal had already received committee approval. The minutes corroborate th
 3. The proposal, whose approval the minutes questioned, went to the committee.
 4. The proposal had already received committee approval, as the minutes confirm. **[Correct]**
 
-**Explanation:** As refers to the preceding proposition, and confirm presents the minutes as corroboration of that proposition.
+**Explanation:** 'As' refers to the preceding proposition, and 'confirm' presents the minutes as corroboration of that proposition.
 
 **Choice feedback:**
 
 - **The minutes, which had received committee approval, mentioned the proposal.:** This makes the minutes, rather than the proposal, the thing approved and weakens corroboration to mention.
 - **The proposal had received approval from the committee that drafted the minutes.:** This identifies the committee through authorship of the minutes but does not make the minutes confirm the approval.
 - **The proposal, whose approval the minutes questioned, went to the committee.:** Questioned reverses corroboration into doubt about the approval.
-- **The proposal had already received committee approval, as the minutes confirm.:** As refers to the preceding proposition, and confirm presents the minutes as corroboration of that proposition.
+- **The proposal had already received committee approval, as the minutes confirm.:** 'As' refers to the preceding proposition, and 'confirm' presents the minutes as corroboration of that proposition.
 
 **Decision:** replaced.
 
@@ -3687,14 +3687,14 @@ The panel requested an independent valuation, in the absence of which it said it
 3. The panel requested a valuation because the sale had already been recommended.
 4. The panel said a valuation was necessary before it could recommend a sale. **[Correct]**
 
-**Explanation:** In the absence of which refers to the requested valuation, and it said attributes the prerequisite to the panel.
+**Explanation:** 'In the absence of which' refers to the requested valuation, and 'it said' attributes the prerequisite to the panel.
 
 **Choice feedback:**
 
-- **The panel's absence from the sale would prevent an independent valuation.:** Which refers to valuation, not panel; the absence concerns evidence, not attendance.
+- **The panel's absence from the sale would prevent an independent valuation.:** 'Which' refers to 'valuation', not 'panel'; the absence concerns evidence, not attendance.
 - **The sale could not be valued until the panel issued its recommendation.:** This reverses the prerequisite: the valuation is required for the recommendation, not produced after it.
 - **The panel requested a valuation because the sale had already been recommended.:** Could not recommend without the valuation leaves the recommendation unavailable, not already made.
-- **The panel said a valuation was necessary before it could recommend a sale.:** In the absence of which refers to the requested valuation, and it said attributes the prerequisite to the panel.
+- **The panel said a valuation was necessary before it could recommend a sale.:** 'In the absence of which' refers to the requested valuation, and 'it said' attributes the prerequisite to the panel.
 
 **Decision:** replaced.
 

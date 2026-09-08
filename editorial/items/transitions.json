@@ -14,9 +14,9 @@
         "because"
       ],
       "answer": "because",
-      "explanation": "Because introduces the car problem as the reason for the taxi journey.",
+      "explanation": "'Because' introduces the car problem as the reason for the taxi journey.",
       "rationales": {
-        "because": "Because introduces the car problem as the reason for the taxi journey.",
+        "because": "'Because' introduces the car problem as the reason for the taxi journey.",
         "but": "But marks contrast rather than explaining the taxi choice.",
         "so": "So would present the car's location as a result of taking the taxi.",
         "or": "Or offers alternatives; these are a journey and its reason."
@@ -50,7 +50,7 @@
         "or": "Or would offer an alternative instead of requiring both.",
         "and": "And joins the passport and work permit as two required items.",
         "but": "But introduces contrast, not a straightforward list of documents.",
-        "because": "Because needs a reason clause here, not just the second document name."
+        "because": "'Because' needs a reason clause here, not just the second document name."
       },
       "audit": {
         "status": "reviewed",
@@ -81,7 +81,7 @@
         "because": "Because would make buying it the reason for its price.",
         "so": "So would make the purchase an expected result of the high price.",
         "but": "But presents the purchase as contrasting with the possible reason not to buy it.",
-        "when": "When links times rather than explicitly marking the requested contrast."
+        "when": "'When' links times rather than explicitly marking the requested contrast."
       },
       "audit": {
         "status": "reviewed",
@@ -107,12 +107,12 @@
         "The shop was closed, so we went home."
       ],
       "answer": "The shop was closed, so we went home.",
-      "explanation": "So introduces going home as the result of finding the shop closed.",
+      "explanation": "'So' introduces going home as the result of finding the shop closed.",
       "rationales": {
         "We went home, so the shop was closed.": "This reverses the stated cause and result.",
         "The shop was closed because we went home.": "This makes going home the reason for closure.",
         "We went home before the shop closed.": "This gives a time order that differs from finding the shop closed.",
-        "The shop was closed, so we went home.": "So introduces going home as the result of finding the shop closed."
+        "The shop was closed, so we went home.": "'So' introduces going home as the result of finding the shop closed."
       },
       "audit": {
         "status": "reviewed",
@@ -141,7 +141,7 @@
       "explanation": "Then places going to the platform after buying the ticket.",
       "rationales": {
         "Going to the platform": "Then places going to the platform after buying the ticket.",
-        "Buying the ticket": "Buying is the first stated action, before then.",
+        "Buying the ticket": "Buying is the first stated action, before 'then'.",
         "Both happen at the same time": "Then marks a later action, not simultaneous actions.",
         "The order is not given": "Then supplies the order between the two actions."
       },
@@ -173,7 +173,7 @@
       "rationales": {
         "and": "And joins items rather than marking the requested choice between them.",
         "or": "Or presents tea and coffee as alternatives in this one-drink instruction.",
-        "because": "Because introduces a reason, not a pair of drink choices.",
+        "because": "'Because' introduces a reason, not a pair of drink choices.",
         "then": "Then would suggest an order of drinks, not one choice."
       },
       "audit": {
@@ -262,9 +262,9 @@
         "Arrival at the hotel"
       ],
       "answer": "Arrival at the hotel",
-      "explanation": "When links the text to reaching the hotel, which provides the time trigger.",
+      "explanation": "'When' links the text to reaching the hotel, which provides the time trigger.",
       "rationales": {
-        "Arrival at the hotel": "When links the text to reaching the hotel, which provides the time trigger.",
+        "Arrival at the hotel": "'When' links the text to reaching the hotel, which provides the time trigger.",
         "Departure from home": "That is a different stage of the journey.",
         "Booking the hotel room": "Booking is not the event named in the when-clause.",
         "Leaving the hotel the next day": "The instruction names arrival, not departure."
@@ -358,7 +358,7 @@
       "explanation": "First begins the ordered sequence that next and finally continue.",
       "rationales": {
         "After that": "After that refers back to an earlier step, but this is the opening one.",
-        "Again": "Again signals repetition, not the beginning of this sequence.",
+        "Again": "'Again' signals repetition, not the beginning of this sequence.",
         "Finally": "Finally would wrongly mark the opening as the last step.",
         "First": "First begins the ordered sequence that next and finally continue."
       },
@@ -419,7 +419,7 @@
       "answer": "Finally",
       "explanation": "Finally marks adding the address as the closing action in the packing sequence.",
       "rationales": {
-        "Because": "Because introduces a reason clause, not a final stage before this comma.",
+        "Because": "'Because' introduces a reason clause, not a final stage before this comma.",
         "Finally": "Finally marks adding the address as the closing action in the packing sequence.",
         "First": "First would put the action at the beginning rather than the end.",
         "Or": "Or offers an alternative rather than a final action."
@@ -448,12 +448,12 @@
         "The second speaker works because the first speaker does."
       ],
       "answer": "The second speaker also works on Saturdays.",
-      "explanation": "Too links the second person's habit to the same habit already mentioned.",
+      "explanation": "'Too' links the second person's habit to the same habit already mentioned.",
       "rationales": {
         "The first speaker works on Sundays as well.": "Too adds the second person's matching habit, not another day for the first.",
-        "The second speaker does not work on Saturdays.": "Too expresses a matching positive statement, not a negative.",
-        "The second speaker also works on Saturdays.": "Too links the second person's habit to the same habit already mentioned.",
-        "The second speaker works because the first speaker does.": "Too marks shared information, not a cause."
+        "The second speaker does not work on Saturdays.": "'Too' expresses a matching positive statement, not a negative.",
+        "The second speaker also works on Saturdays.": "'Too' links the second person's habit to the same habit already mentioned.",
+        "The second speaker works because the first speaker does.": "'Too' marks shared information, not a cause."
       },
       "audit": {
         "status": "reviewed",
@@ -479,12 +479,12 @@
         "It moves from completed preparation to leaving."
       ],
       "answer": "It moves from completed preparation to leaving.",
-      "explanation": "Now marks the point reached after the preparation and introduces the next action.",
+      "explanation": "'Now' marks the point reached after the preparation and introduces the next action.",
       "rationales": {
         "It gives the reason for buying the bags.": "The passage concerns leaving after preparation, not buying bags.",
         "It says the preparation happens tomorrow.": "The preparation is presented as complete before the proposed departure.",
-        "It asks for the preparation to be repeated.": "Now moves to departure rather than repeating the checks.",
-        "It moves from completed preparation to leaving.": "Now marks the point reached after the preparation and introduces the next action."
+        "It asks for the preparation to be repeated.": "'Now' moves to departure rather than repeating the checks.",
+        "It moves from completed preparation to leaving.": "'Now' marks the point reached after the preparation and introduces the next action."
       },
       "audit": {
         "status": "reviewed",
@@ -510,12 +510,12 @@
         "It happened before the bank visit."
       ],
       "answer": "It came after the bank visit.",
-      "explanation": "Later is relative to the bank visit; both events can still be in the past.",
+      "explanation": "'Later' is relative to the bank visit; both events can still be in the past.",
       "rationales": {
-        "It came after the bank visit.": "Later is relative to the bank visit; both events can still be in the past.",
-        "It will happen tomorrow.": "Later does not always mean future from now; this story is about yesterday.",
-        "It caused the bank visit.": "Later supplies order, not cause.",
-        "It happened before the bank visit.": "Before reverses the relationship marked by later."
+        "It came after the bank visit.": "'Later' is relative to the bank visit; both events can still be in the past.",
+        "It will happen tomorrow.": "'Later' does not always mean future from now; this story is about yesterday.",
+        "It caused the bank visit.": "'Later' supplies order, not cause.",
+        "It happened before the bank visit.": "'Before' reverses the relationship marked by 'later'."
       },
       "audit": {
         "status": "reviewed",
@@ -572,11 +572,11 @@
         "They show the order in which fruit arrives."
       ],
       "answer": "They are examples from that group.",
-      "explanation": "For example introduces particular members of the wider group fruit.",
+      "explanation": "'For example' introduces particular members of the wider group 'fruit'.",
       "rationales": {
-        "They replace fruit in the shop.": "For example presents them as fruit, not replacements for it.",
+        "They replace fruit in the shop.": "'For example' presents them as fruit, not replacements for it.",
         "They explain why the shop sells fruit.": "Named items illustrate the group; they do not give a reason for selling it.",
-        "They are examples from that group.": "For example introduces particular members of the wider group fruit.",
+        "They are examples from that group.": "'For example' introduces particular members of the wider group 'fruit'.",
         "They show the order in which fruit arrives.": "No arrival sequence is given by for example."
       },
       "audit": {
@@ -634,9 +634,9 @@
         "However"
       ],
       "answer": "However",
-      "explanation": "However marks quiet inside as contrasting with the expectation created by a busy road.",
+      "explanation": "'However' marks quiet inside as contrasting with the expectation created by a busy road.",
       "rationales": {
-        "However": "However marks quiet inside as contrasting with the expectation created by a busy road.",
+        "However": "'However' marks quiet inside as contrasting with the expectation created by a busy road.",
         "Therefore": "Therefore would present quiet as a result of facing the road.",
         "For example": "The quiet interior is not an example of the road's busyness.",
         "In addition": "In addition adds information without explicitly marking the requested contrast."
@@ -696,11 +696,11 @@
         "They must be taken in the order listed."
       ],
       "answer": "They are two examples of the activities offered.",
-      "explanation": "For example introduces selected members of a wider group without closing the list.",
+      "explanation": "'For example' introduces selected members of a wider group without closing the list.",
       "rationales": {
-        "They are the complete list of available activities.": "For example gives instances, not necessarily an exhaustive list.",
+        "They are the complete list of available activities.": "'For example' gives instances, not necessarily an exhaustive list.",
         "They are reasons for cancelling the evening program.": "They illustrate the activities offered, not cancellation reasons.",
-        "They are two examples of the activities offered.": "For example introduces selected members of a wider group without closing the list.",
+        "They are two examples of the activities offered.": "'For example' introduces selected members of a wider group without closing the list.",
         "They must be taken in the order listed.": "An example marker does not set a timetable."
       },
       "audit": {
@@ -731,7 +731,7 @@
       "rationales": {
         "As a result": "Proximity is not presented as causing heating to be included.",
         "Instead": "The second advantage does not replace the first.",
-        "However": "However marks opposition, not the requested addition of an advantage.",
+        "However": "'However' marks opposition, not the requested addition of an advantage.",
         "In addition": "In addition places included heating alongside location as another benefit."
       },
       "audit": {
@@ -758,11 +758,11 @@
         "The reason the tap broke"
       ],
       "answer": "The plan to cook at home",
-      "explanation": "Instead identifies the cafe meal as the alternative to the earlier plan.",
+      "explanation": "'Instead' identifies the cafe meal as the alternative to the earlier plan.",
       "rationales": {
-        "The plan to cook at home": "Instead identifies the cafe meal as the alternative to the earlier plan.",
+        "The plan to cook at home": "'Instead' identifies the cafe meal as the alternative to the earlier plan.",
         "The repair of the kitchen tap": "The meal replaces cooking, not the act of repairing the tap.",
-        "A second meal after cooking at home": "Instead marks replacement, not an additional meal.",
+        "A second meal after cooking at home": "'Instead' marks replacement, not an additional meal.",
         "The reason the tap broke": "The transition does not explain the breakage."
       },
       "audit": {
@@ -820,11 +820,11 @@
         "Why did the speaker email?"
       ],
       "answer": "Why did the speaker email?",
-      "explanation": "Because introduces the wrong date as the reason for emailing.",
+      "explanation": "'Because' introduces the wrong date as the reason for emailing.",
       "rationales": {
         "What did the email change?": "The clause gives the reason for writing, not the result achieved.",
         "When did the email arrive?": "It does not identify a delivery time.",
-        "Why did the speaker email?": "Because introduces the wrong date as the reason for emailing.",
+        "Why did the speaker email?": "'Because' introduces the wrong date as the reason for emailing.",
         "Who made the incorrect booking?": "The clause does not identify who made the error."
       },
       "audit": {
@@ -851,12 +851,12 @@
         "Check the address because you confirmed the order."
       ],
       "answer": "Before confirming the order, check the delivery address.",
-      "explanation": "Before plus confirming keeps the check earlier than confirmation, just as the original clause does.",
+      "explanation": "'Before' plus 'confirming' keeps the check earlier than confirmation, just as the original clause does.",
       "rationales": {
         "Check the address while you are confirming the order.": "While permits overlap rather than requiring the check beforehand.",
         "Confirm the order so that you can check the address.": "This reverses the practical sequence and introduces a purpose.",
         "Check the address because you confirmed the order.": "That makes confirmation already completed and gives a reason instead.",
-        "Before confirming the order, check the delivery address.": "Before plus confirming keeps the check earlier than confirmation, just as the original clause does."
+        "Before confirming the order, check the delivery address.": "'Before' plus 'confirming' keeps the check earlier than confirmation, just as the original clause does."
       },
       "audit": {
         "status": "reviewed",
@@ -882,12 +882,12 @@
         "Renewal and reopening began together."
       ],
       "answer": "Renewal came later than reopening.",
-      "explanation": "After orders the events but does not by itself say how soon renewal followed.",
+      "explanation": "'After' orders the events but does not by itself say how soon renewal followed.",
       "rationales": {
-        "Renewal came later than reopening.": "After orders the events but does not by itself say how soon renewal followed.",
+        "Renewal came later than reopening.": "'After' orders the events but does not by itself say how soon renewal followed.",
         "Renewal happened the instant the doors opened.": "Immediate timing would need a stronger expression such as as soon as.",
         "Renewal caused the reopening.": "A time sequence does not itself express that causal claim.",
-        "Renewal and reopening began together.": "After puts renewal later rather than at the same starting point."
+        "Renewal and reopening began together.": "'After' puts renewal later rather than at the same starting point."
       },
       "audit": {
         "status": "reviewed",
@@ -975,12 +975,12 @@
         "He read it before the writing was finished."
       ],
       "answer": "His being able to read it was the purpose.",
-      "explanation": "So that plus could expresses the intended result of writing large letters; purpose does not by itself prove success.",
+      "explanation": "'So that' plus 'could' expresses the intended result of writing large letters; purpose does not by itself prove success.",
       "rationales": {
         "His reading caused the large writing.": "This reverses the direction and treats the intended benefit as an earlier cause.",
         "Large letters are an example of his reading.": "The second clause gives the intended benefit, not an example.",
         "He read it before the writing was finished.": "The sentence does not establish that timing.",
-        "His being able to read it was the purpose.": "So that plus could expresses the intended result of writing large letters; purpose does not by itself prove success."
+        "His being able to read it was the purpose.": "'So that' plus 'could' expresses the intended result of writing large letters; purpose does not by itself prove success."
       },
       "audit": {
         "status": "reviewed",
@@ -1037,12 +1037,12 @@
         "Only a sweater meets the request."
       ],
       "answer": "A sweater is one suitable example.",
-      "explanation": "Such as introduces an example; another suitable warm item may also meet the request.",
+      "explanation": "'Such as' introduces an example; another suitable warm item may also meet the request.",
       "rationales": {
         "A sweater is required in addition to a warm item.": "The sweater is a member of the warm-item category, not an extra category.",
-        "A sweater is one suitable example.": "Such as introduces an example; another suitable warm item may also meet the request.",
+        "A sweater is one suitable example.": "'Such as' introduces an example; another suitable warm item may also meet the request.",
         "A sweater is unsuitable for this purpose.": "The phrase offers it as suitable, not excluded.",
-        "Only a sweater meets the request.": "Such as does not make the example an exhaustive requirement."
+        "Only a sweater meets the request.": "'Such as' does not make the example an exhaustive requirement."
       },
       "audit": {
         "status": "reviewed",
@@ -1068,11 +1068,11 @@
         "It gives an example of expensive parking."
       ],
       "answer": "It adds another reason to take the train.",
-      "explanation": "Besides introduces a further supporting reason, here a preference against driving.",
+      "explanation": "'Besides' introduces a further supporting reason, here a preference against driving.",
       "rationales": {
         "It explains why parking prices increased.": "The speaker's preference does not explain the parking price.",
         "It replaces the concern about parking.": "The preference adds to the cost concern rather than withdrawing it.",
-        "It adds another reason to take the train.": "Besides introduces a further supporting reason, here a preference against driving.",
+        "It adds another reason to take the train.": "'Besides' introduces a further supporting reason, here a preference against driving.",
         "It gives an example of expensive parking.": "A wish not to drive is not an example of a parking price."
       },
       "audit": {
@@ -1101,7 +1101,7 @@
       "answer": "During the inspection",
       "explanation": "In the meantime introduces an activity in the interval occupied by another ongoing event.",
       "rationales": {
-        "Before the mechanic starts the inspection": "In the meantime refers to the period while the inspection is taking place.",
+        "Before the mechanic starts the inspection": "'In the meantime' refers to the period while the inspection is taking place.",
         "Only after the car is ready": "That would be after the waiting period described.",
         "At the next scheduled inspection": "The suggestion concerns the current inspection, not a later appointment.",
         "During the inspection": "In the meantime introduces an activity in the interval occupied by another ongoing event."
@@ -1130,9 +1130,9 @@
         "A correction to the entrance information"
       ],
       "answer": "The last point in the message",
-      "explanation": "Finally can close a list of instructions without saying the real-world action must happen last.",
+      "explanation": "'Finally' can close a list of instructions without saying the real-world action must happen last.",
       "rationales": {
-        "The last point in the message": "Finally can close a list of instructions without saying the real-world action must happen last.",
+        "The last point in the message": "'Finally' can close a list of instructions without saying the real-world action must happen last.",
         "The last action to perform after entering": "The text position alone does not make bringing ID an action after entry.",
         "A result caused by the parking instructions": "The ID request is another point, not an effect of parking advice.",
         "A correction to the entrance information": "Nothing retracts or changes the entrance instructions."
@@ -1161,12 +1161,12 @@
         "The speaker chose listening instead of cooking."
       ],
       "answer": "The two activities overlapped in time.",
-      "explanation": "While connects the listening with the period spent cooking; their starting and ending times need not match exactly.",
+      "explanation": "'While' connects the listening with the period spent cooking; their starting and ending times need not match exactly.",
       "rationales": {
-        "Cooking finished before the listening began.": "While places listening during cooking, not wholly after it.",
-        "The two activities overlapped in time.": "While connects the listening with the period spent cooking; their starting and ending times need not match exactly.",
+        "Cooking finished before the listening began.": "'While' places listening during cooking, not wholly after it.",
+        "The two activities overlapped in time.": "'While' connects the listening with the period spent cooking; their starting and ending times need not match exactly.",
         "The radio caused the decision to cook.": "The sentence links time rather than giving a cause.",
-        "The speaker chose listening instead of cooking.": "While allows both activities rather than replacing one with the other."
+        "The speaker chose listening instead of cooking.": "'While' allows both activities rather than replacing one with the other."
       },
       "audit": {
         "status": "reviewed",
@@ -1192,11 +1192,11 @@
         "If it does not rain, we will use the terrace."
       ],
       "answer": "If it does not rain, we will use the terrace.",
-      "explanation": "Unless introduces the rain exception; if it does not rain preserves the stated default plan.",
+      "explanation": "'Unless' introduces the rain exception; 'if it does not rain' preserves the stated default plan.",
       "rationales": {
         "We will use the terrace only when it rains.": "This makes rain the condition for terrace use instead of the exception.",
         "We will use the terrace because it is raining.": "Rain becomes an actual reason, which changes the conditional plan.",
-        "If it does not rain, we will use the terrace.": "Unless introduces the rain exception; if it does not rain preserves the stated default plan.",
+        "If it does not rain, we will use the terrace.": "'Unless' introduces the rain exception; 'if it does not rain' preserves the stated default plan.",
         "We will use the terrace after the rain begins.": "That changes the exception into a starting time."
       },
       "audit": {
@@ -1223,12 +1223,12 @@
         "Both conversation and pronunciation are included."
       ],
       "answer": "Both conversation and pronunciation are included.",
-      "explanation": "As well links pronunciation as another included component alongside conversation practice.",
+      "explanation": "'As well' links pronunciation as another included component alongside conversation practice.",
       "rationales": {
-        "Pronunciation work replaces conversation practice.": "As well adds pronunciation rather than replacing the first activity.",
+        "Pronunciation work replaces conversation practice.": "'As well' adds pronunciation rather than replacing the first activity.",
         "Conversation practice is an example of pronunciation work.": "The text presents two components, not one as an example of the other.",
-        "Pronunciation work happens only after conversation practice.": "As well does not set their time order.",
-        "Both conversation and pronunciation are included.": "As well links pronunciation as another included component alongside conversation practice."
+        "Pronunciation work happens only after conversation practice.": "'As well' does not set their time order.",
+        "Both conversation and pronunciation are included.": "'As well' links pronunciation as another included component alongside conversation practice."
       },
       "audit": {
         "status": "reviewed",
@@ -1254,9 +1254,9 @@
         "Despite the need for repairs, the festival went ahead in the hall."
       ],
       "answer": "Despite the need for repairs, the festival went ahead in the hall.",
-      "explanation": "Despite takes the noun phrase the need for repairs and preserves the concession expressed by although plus a clause.",
+      "explanation": "'Despite' takes the noun phrase 'the need for repairs' and preserves the concession expressed by 'although' plus a clause.",
       "rationales": {
-        "Despite the need for repairs, the festival went ahead in the hall.": "Despite takes the noun phrase the need for repairs and preserves the concession expressed by although plus a clause.",
+        "Despite the need for repairs, the festival went ahead in the hall.": "'Despite' takes the noun phrase 'the need for repairs' and preserves the concession expressed by 'although' plus a clause.",
         "Because the hall needed repairs, the festival went ahead there.": "Because changes the repair problem into a reason for proceeding.",
         "Once the hall needed repairs, the festival went ahead there.": "Once gives a time or triggering condition instead of contrast.",
         "The festival went ahead so that the hall would need repairs.": "So that introduces an intended outcome that reverses the relationship."
@@ -1347,12 +1347,12 @@
         "Until"
       ],
       "answer": "Because",
-      "explanation": "Since supplies the reason for booking a taxi; because preserves that causal use rather than a from-then-to-now meaning.",
+      "explanation": "'Since' supplies the reason for booking a taxi; 'because' preserves that causal use rather than a from-then-to-now meaning.",
       "rationales": {
         "From the time when": "That temporal reading would require a continuing interval, not the stated reason for a recommendation.",
         "Even though": "Even though changes the missed train into a contrasting circumstance.",
-        "Until": "Until introduces an endpoint, not a reason for the advice.",
-        "Because": "Since supplies the reason for booking a taxi; because preserves that causal use rather than a from-then-to-now meaning."
+        "Until": "'Until' introduces an endpoint, not a reason for the advice.",
+        "Because": "'Since' supplies the reason for booking a taxi; 'because' preserves that causal use rather than a from-then-to-now meaning."
       },
       "audit": {
         "status": "reviewed",
@@ -1440,11 +1440,11 @@
         "because of"
       ],
       "answer": "because of",
-      "explanation": "Because of introduces the noun phrase naming the cause of the move.",
+      "explanation": "'Because of' introduces the noun phrase naming the cause of the move.",
       "rationales": {
         "in spite of": "In spite of would make the failure an obstacle overcome, not the stated cause.",
         "instead of": "Instead of marks replacement; a move does not replace the failure in the intended sense.",
-        "because of": "Because of introduces the noun phrase naming the cause of the move.",
+        "because of": "'Because of' introduces the noun phrase naming the cause of the move.",
         "in addition to": "In addition to adds a parallel matter without expressing the causal link."
       },
       "audit": {
@@ -1471,12 +1471,12 @@
         "The missing address caused the delay."
       ],
       "answer": "The missing address caused the delay.",
-      "explanation": "Due to names the cause after the result; the active paraphrase preserves that relationship.",
+      "explanation": "'Due to' names the cause after the result; the active paraphrase preserves that relationship.",
       "rationales": {
         "The address went missing as a result of the delay.": "That reverses cause and effect.",
         "The delay happened before the address was removed.": "This adds a removal event and substitutes a time relation.",
         "The delay was intended to obtain another address.": "Due to gives a cause, not a purpose.",
-        "The missing address caused the delay.": "Due to names the cause after the result; the active paraphrase preserves that relationship."
+        "The missing address caused the delay.": "'Due to' names the cause after the result; the active paraphrase preserves that relationship."
       },
       "audit": {
         "status": "reviewed",
@@ -1502,11 +1502,11 @@
         "The demonstration is an alternative to doing the task."
       ],
       "answer": "The demonstration supplies the manner to follow.",
-      "explanation": "As links the action to a model of how to perform it; this is manner, not cause or time.",
+      "explanation": "'As' links the action to a model of how to perform it; this is manner, not cause or time.",
       "rationales": {
-        "The demonstration supplies the manner to follow.": "As links the action to a model of how to perform it; this is manner, not cause or time.",
+        "The demonstration supplies the manner to follow.": "'As' links the action to a model of how to perform it; this is manner, not cause or time.",
         "The demonstration caused the old sheet to be printed.": "The clause does not explain the sheet's origin.",
-        "The action must happen during the demonstration.": "Demonstrated refers to an earlier model, not simultaneous activity.",
+        "The action must happen during the demonstration.": "'Demonstrated' refers to an earlier model, not simultaneous activity.",
         "The demonstration is an alternative to doing the task.": "It supplies a model for the task rather than replacing it."
       },
       "audit": {
@@ -1533,12 +1533,12 @@
         "Shelf replacement becomes possible after the paint dries."
       ],
       "answer": "Shelf replacement becomes possible after the paint dries.",
-      "explanation": "Once marks reaching a state that permits the next action; here dryness comes before replacement.",
+      "explanation": "'Once' marks reaching a state that permits the next action; here dryness comes before replacement.",
       "rationales": {
-        "The shelves must be replaced one time only.": "Once introduces a clause here; it does not count replacements.",
-        "Shelf replacement becomes possible after the paint dries.": "Once marks reaching a state that permits the next action; here dryness comes before replacement.",
+        "The shelves must be replaced one time only.": "'Once' introduces a clause here; it does not count replacements.",
+        "Shelf replacement becomes possible after the paint dries.": "'Once' marks reaching a state that permits the next action; here dryness comes before replacement.",
         "Replacing the shelves makes the paint dry.": "That reverses the relationship between readiness and action.",
-        "Drying and replacing must begin together.": "Once the paint is dry places replacement after the required state is reached."
+        "Drying and replacing must begin together.": "'Once the paint is dry' places replacement after the required state is reached."
       },
       "audit": {
         "status": "reviewed",
@@ -1657,10 +1657,10 @@
         "It describes a later reopening."
       ],
       "answer": "It corrects the speaker's earlier belief.",
-      "explanation": "In fact introduces information that replaces the mistaken 1990 date with 1982.",
+      "explanation": "'In fact' introduces information that replaces the mistaken 1990 date with 1982.",
       "rationales": {
         "It gives another example of the 1990 opening.": "A different opening year corrects the earlier belief rather than exemplifying it.",
-        "It corrects the speaker's earlier belief.": "In fact introduces information that replaces the mistaken 1990 date with 1982.",
+        "It corrects the speaker's earlier belief.": "'In fact' introduces information that replaces the mistaken 1990 date with 1982.",
         "It explains why the museum opened.": "A corrected date does not provide a reason for opening.",
         "It describes a later reopening.": "First opened identifies the original opening, not a second event."
       },
@@ -1750,9 +1750,9 @@
         "Meanwhile"
       ],
       "answer": "Therefore",
-      "explanation": "Therefore connects the inability to swap seats to the lack of reserve seats.",
+      "explanation": "'Therefore' connects the inability to swap seats to the lack of reserve seats.",
       "rationales": {
-        "Therefore": "Therefore connects the inability to swap seats to the lack of reserve seats.",
+        "Therefore": "'Therefore' connects the inability to swap seats to the lack of reserve seats.",
         "Nevertheless": "Nevertheless would present the refusal as surprising despite the sold-out state.",
         "For instance": "The refusal is not a member of a category of sold seats.",
         "Meanwhile": "Meanwhile links timing rather than the requested consequence."
@@ -1781,10 +1781,10 @@
         "The decision to organize a workshop"
       ],
       "answer": "The flooding of the training room",
-      "explanation": "As a result links the changed format to the previous event, the flood.",
+      "explanation": "'As a result' links the changed format to the previous event, the flood.",
       "rationales": {
         "The workshop being scheduled for tomorrow": "The timing identifies the affected event but is not the stated cause.",
-        "The flooding of the training room": "As a result links the changed format to the previous event, the flood.",
+        "The flooding of the training room": "'As a result' links the changed format to the previous event, the flood.",
         "The existence of an online training platform": "No platform is described as the cause of the change.",
         "The decision to organize a workshop": "The original organization is not what forced the new format."
       },
@@ -1812,11 +1812,11 @@
         "The repetition successfully removed the listeners' confusion."
       ],
       "answer": "The repetition successfully removed the listeners' confusion.",
-      "explanation": "In order to expresses purpose, not proof that the intended effect was achieved.",
+      "explanation": "'In order to' expresses purpose, not proof that the intended effect was achieved.",
       "rationales": {
         "Preventing confusion was an aim of the repetition.": "In order to explicitly supplies that purpose.",
         "The repetition was intended to help listeners avoid confusion.": "This restates the preventive aim.",
-        "The repetition successfully removed the listeners' confusion.": "In order to expresses purpose, not proof that the intended effect was achieved.",
+        "The repetition successfully removed the listeners' confusion.": "'In order to' expresses purpose, not proof that the intended effect was achieved.",
         "The reason for repeating concerned possible confusion.": "The preventive purpose makes possible confusion relevant to the action."
       },
       "audit": {
@@ -1843,12 +1843,12 @@
         "It announces a change from granting a chance to refusing one."
       ],
       "answer": "It introduces a consideration supporting another chance.",
-      "explanation": "After all presents the first-day circumstance as a reason the listener should take into account; it need not have been explicitly mentioned earlier.",
+      "explanation": "'After all' presents the first-day circumstance as a reason the listener should take into account; it need not have been explicitly mentioned earlier.",
       "rationales": {
-        "It places Ren's first day after the decision.": "After all is not a chronological after phrase here.",
+        "It places Ren's first day after the decision.": "'After all' is not a chronological 'after' phrase here.",
         "It marks the last event in the training schedule.": "The clause supplies a consideration supporting the request, not a final stage.",
         "It announces a change from granting a chance to refusing one.": "The second sentence supports rather than retracts the suggestion.",
-        "It introduces a consideration supporting another chance.": "After all presents the first-day circumstance as a reason the listener should take into account; it need not have been explicitly mentioned earlier."
+        "It introduces a consideration supporting another chance.": "'After all' presents the first-day circumstance as a reason the listener should take into account; it need not have been explicitly mentioned earlier."
       },
       "audit": {
         "status": "reviewed",
@@ -1967,12 +1967,12 @@
         "The cataloging explains why roof repairs were needed."
       ],
       "answer": "A separate strand of work is taking place in the same period.",
-      "explanation": "Meanwhile shifts attention to concurrent activity; exact start and finish times need not coincide.",
+      "explanation": "'Meanwhile' shifts attention to concurrent activity; exact start and finish times need not coincide.",
       "rationales": {
-        "Cataloging is the consequence of completing the roof.": "Meanwhile presents overlap, not a result after completion.",
+        "Cataloging is the consequence of completing the roof.": "'Meanwhile' presents overlap, not a result after completion.",
         "The volunteers are replacing the restoration team.": "The groups perform different concurrent tasks; no replacement is stated.",
         "The cataloging explains why roof repairs were needed.": "No causal explanation of the roof damage is given.",
-        "A separate strand of work is taking place in the same period.": "Meanwhile shifts attention to concurrent activity; exact start and finish times need not coincide."
+        "A separate strand of work is taking place in the same period.": "'Meanwhile' shifts attention to concurrent activity; exact start and finish times need not coincide."
       },
       "audit": {
         "status": "reviewed",
@@ -1998,12 +1998,12 @@
         "Processing has already been delayed."
       ],
       "answer": "The requirement to sign both pages is not met.",
-      "explanation": "Otherwise means if the preceding requirement is not met; leaving either required page unsigned is enough to fail that requirement.",
+      "explanation": "'Otherwise' means if the preceding requirement is not met; leaving either required page unsigned is enough to fail that requirement.",
       "rationales": {
-        "The requirement to sign both pages is not met.": "Otherwise means if the preceding requirement is not met; leaving either required page unsigned is enough to fail that requirement.",
+        "The requirement to sign both pages is not met.": "'Otherwise' means if the preceding requirement is not met; leaving either required page unsigned is enough to fail that requirement.",
         "Neither page contains any personal details.": "The stated condition concerns signatures, not other details.",
         "Both pages are signed but submitted separately.": "Separate submission is not the condition named in the instruction.",
-        "Processing has already been delayed.": "Delay is the possible consequence, not the condition otherwise points back to."
+        "Processing has already been delayed.": "Delay is the possible consequence, not the condition 'otherwise' points back to."
       },
       "audit": {
         "status": "reviewed",
@@ -2029,10 +2029,10 @@
         "The gallery is a smaller example of the museum's collection."
       ],
       "answer": "The museum provides the reference point for judging the gallery visit.",
-      "explanation": "By comparison evaluates the second case against the first; it does not make two hours short in every setting.",
+      "explanation": "'By comparison' evaluates the second case against the first; it does not make two hours short in every setting.",
       "rationales": {
         "The museum causes visitors to spend less time at the gallery.": "The transition compares visit lengths rather than explaining visitor behavior.",
-        "The museum provides the reference point for judging the gallery visit.": "By comparison evaluates the second case against the first; it does not make two hours short in every setting.",
+        "The museum provides the reference point for judging the gallery visit.": "'By comparison' evaluates the second case against the first; it does not make two hours short in every setting.",
         "The two venues must be visited in the stated order.": "Comparison does not prescribe an itinerary.",
         "The gallery is a smaller example of the museum's collection.": "Visit duration is compared; no collection relationship is stated."
       },
@@ -2060,11 +2060,11 @@
         "It draws a conclusion from a rule and a stated case."
       ],
       "answer": "It draws a conclusion from a rule and a stated case.",
-      "explanation": "Consequently can introduce an inference, here applying the booking requirement to Mara's situation, not just a physical cause's effect.",
+      "explanation": "'Consequently' can introduce an inference, here applying the booking requirement to Mara's situation, not just a physical cause's effect.",
       "rationales": {
         "It explains what caused Mara to omit a booking.": "The rule supports a conclusion about entry, not a cause of her missing booking.",
         "It reports an event occurring after she entered.": "The passage concludes that she cannot enter; it does not narrate a later event.",
-        "It draws a conclusion from a rule and a stated case.": "Consequently can introduce an inference, here applying the booking requirement to Mara's situation, not just a physical cause's effect.",
+        "It draws a conclusion from a rule and a stated case.": "'Consequently' can introduce an inference, here applying the booking requirement to Mara's situation, not just a physical cause's effect.",
         "It introduces an exception to the booking rule.": "The conclusion applies the rule rather than suspends it."
       },
       "audit": {
@@ -2246,9 +2246,9 @@
         "The direction of influence between the two roles"
       ],
       "answer": "The direction of influence between the two roles",
-      "explanation": "Conversely presents influence running from trainee-related work back to the mentor, reversing who influences whom.",
+      "explanation": "'Conversely' presents influence running from trainee-related work back to the mentor, reversing who influences whom.",
       "rationales": {
-        "The direction of influence between the two roles": "Conversely presents influence running from trainee-related work back to the mentor, reversing who influences whom.",
+        "The direction of influence between the two roles": "'Conversely' presents influence running from trainee-related work back to the mentor, reversing who influences whom.",
         "The evaluation of mentoring from useful to useless": "Both directions can be useful; no negative evaluation is stated.",
         "The order in which mentor and trainee are appointed": "The passage concerns influence, not appointments.",
         "The claim that either person can change their methods": "The second claim adds the reverse influence rather than denies change."
@@ -2277,12 +2277,12 @@
         "The preceding disruptions to the event"
       ],
       "answer": "The preceding disruptions to the event",
-      "explanation": "Despite this gathers the withdrawals and venue changes as difficulties that did not prevent the stated outcome.",
+      "explanation": "'Despite this' gathers the withdrawals and venue changes as difficulties that did not prevent the stated outcome.",
       "rationales": {
         "The eventual delivery of the complete program": "That is the maintained outcome after the transition, not its antecedent.",
-        "The preceding disruptions to the event": "Despite this gathers the withdrawals and venue changes as difficulties that did not prevent the stated outcome.",
+        "The preceding disruptions to the event": "'Despite this' gathers the withdrawals and venue changes as difficulties that did not prevent the stated outcome.",
         "Only the fact that tickets had been sold": "Ticket sales are not the preceding disruption described.",
-        "A reason that guarantees the program would be complete": "Despite marks an obstacle, not a guarantee or positive cause."
+        "A reason that guarantees the program would be complete": "'Despite' marks an obstacle, not a guarantee or positive cause."
       },
       "audit": {
         "status": "reviewed",
@@ -2339,12 +2339,12 @@
         "It would make the two obstacles reasons for choosing the venue."
       ],
       "answer": "It would present the named obstacles as examples rather than the specified two.",
-      "explanation": "Namely identifies exactly which two are meant; for example would offer instances without the same exhaustive identification.",
+      "explanation": "'Namely' identifies exactly which two are meant; 'for example' would offer instances without the same exhaustive identification.",
       "rationales": {
         "It would turn the obstacles into results of the article.": "Both phrases relate the listed matters to obstacles, not to consequences.",
         "It would turn the second obstacle into a contrast with the first.": "Neither phrase sets the list members against each other.",
         "It would make the two obstacles reasons for choosing the venue.": "Changing the marker does not reverse their unfavorable status.",
-        "It would present the named obstacles as examples rather than the specified two.": "Namely identifies exactly which two are meant; for example would offer instances without the same exhaustive identification."
+        "It would present the named obstacles as examples rather than the specified two.": "'Namely' identifies exactly which two are meant; 'for example' would offer instances without the same exhaustive identification."
       },
       "audit": {
         "status": "reviewed",
@@ -2437,7 +2437,7 @@
         "The daytime course meets three times a week because the evening course meets once.": "Because asserts a causal dependence not supplied by the schedules.",
         "The daytime course meets three times a week so that the evening course can meet once.": "So that makes the second timetable a purpose of the first.",
         "The daytime course meets three times a week, whereas the evening course meets once.": "Whereas places the two schedules in explicit comparative contrast without making either cause the other.",
-        "The daytime course meets three times a week unless the evening course meets once.": "Unless introduces an exception rather than comparing fixed schedules."
+        "The daytime course meets three times a week unless the evening course meets once.": "'Unless' introduces an exception rather than comparing fixed schedules."
       },
       "audit": {
         "status": "reviewed",
@@ -2494,9 +2494,9 @@
         "The second arrangement differs from the first without denying its existence."
       ],
       "answer": "The second arrangement differs from the first without denying its existence.",
-      "explanation": "By contrast compares independent cases; on the contrary normally rejects a preceding claim or characterization.",
+      "explanation": "'By contrast' compares independent cases; 'on the contrary' normally rejects a preceding claim or characterization.",
       "rationales": {
-        "The second arrangement differs from the first without denying its existence.": "By contrast compares independent cases; on the contrary normally rejects a preceding claim or characterization.",
+        "The second arrangement differs from the first without denying its existence.": "'By contrast' compares independent cases; 'on the contrary' normally rejects a preceding claim or characterization.",
         "The second arrangement must be a consequence of the first.": "Comparison does not establish such dependence.",
         "The second paragraph repeats the first arrangement in simpler terms.": "Donor-based and date-based arrangements are different, not paraphrases.",
         "The second archive is chronologically later than the first.": "No founding dates are supplied, and the transition compares organization."
@@ -2556,11 +2556,11 @@
         "The address is a difficulty conceded despite the proposed date."
       ],
       "answer": "The address provides a reason for inferring that the letter came later.",
-      "explanation": "For can introduce grounds for believing a conclusion; here the new address supports the inferred timing rather than causes the historical event.",
+      "explanation": "'For' can introduce grounds for believing a conclusion; here the new address supports the inferred timing rather than causes the historical event.",
       "rationales": {
         "The new address caused the writer to compose the letter.": "The clause supplies evidence for a dating inference, not a motive for writing.",
         "The dating conclusion caused the office to change its address.": "That reverses the explanation and adds an unstated administrative event.",
-        "The address provides a reason for inferring that the letter came later.": "For can introduce grounds for believing a conclusion; here the new address supports the inferred timing rather than causes the historical event.",
+        "The address provides a reason for inferring that the letter came later.": "'For' can introduce grounds for believing a conclusion; here the new address supports the inferred timing rather than causes the historical event.",
         "The address is a difficulty conceded despite the proposed date.": "The address supports the proposed date instead of counting against it."
       },
       "audit": {
@@ -2587,12 +2587,12 @@
         "The memoir's value makes its chronological defects irrelevant to every use."
       ],
       "answer": "Value in one respect is retained despite a limitation in another.",
-      "explanation": "Nonetheless preserves the positive judgment without retracting the earlier limitation or turning it into a cause.",
+      "explanation": "'Nonetheless' preserves the positive judgment without retracting the earlier limitation or turning it into a cause.",
       "rationales": {
         "Unreliable dates make the routine descriptions more accurate.": "The transition does not establish that one defect improves another aspect.",
         "The later sentence corrects the claim that dates are unreliable.": "The unreliability claim stands; a different kind of value is maintained.",
         "The memoir's value makes its chronological defects irrelevant to every use.": "The qualified value does not erase the defect for chronological research.",
-        "Value in one respect is retained despite a limitation in another.": "Nonetheless preserves the positive judgment without retracting the earlier limitation or turning it into a cause."
+        "Value in one respect is retained despite a limitation in another.": "'Nonetheless' preserves the positive judgment without retracting the earlier limitation or turning it into a cause."
       },
       "audit": {
         "status": "reviewed",
@@ -2618,12 +2618,12 @@
         "It moderates the degree to which restoration succeeded."
       ],
       "answer": "It replaces a rejected characterization with the intended one.",
-      "explanation": "Not X, rather Y corrects how the project should be understood; it does not necessarily report a change of project over time.",
+      "explanation": "'Not X, rather Y' corrects how the project should be understood; it does not necessarily report a change of project over time.",
       "rationales": {
-        "It replaces a rejected characterization with the intended one.": "Not X, rather Y corrects how the project should be understood; it does not necessarily report a change of project over time.",
+        "It replaces a rejected characterization with the intended one.": "'Not X, rather Y' corrects how the project should be understood; it does not necessarily report a change of project over time.",
         "It explains why the old square was restored.": "Restoration is the characterization rejected, not the event being explained.",
         "It adds a second project alongside the restoration.": "Both clauses characterize the same redesign.",
-        "It moderates the degree to which restoration succeeded.": "Rather is a corrective transition here, not a degree adverb."
+        "It moderates the degree to which restoration succeeded.": "'Rather' is a corrective transition here, not a degree adverb."
       },
       "audit": {
         "status": "reviewed",
@@ -2676,15 +2676,15 @@
       "options": [
         "The respect in which the arrangement is unusual",
         "A hypothetical condition under which the arrangement would become unusual",
-        "An exception that cancels the description unusual",
+        "An exception that cancels the description 'unusual'",
         "A later event caused by the unusual arrangement"
       ],
       "answer": "The respect in which the arrangement is unusual",
-      "explanation": "In that links an evaluation to the specific feature that accounts for it, not to an unrelated example.",
+      "explanation": "'In that' links an evaluation to the specific feature that accounts for it, not to an unrelated example.",
       "rationales": {
         "A hypothetical condition under which the arrangement would become unusual": "The selection method is stated as the actual respect in which it is unusual.",
-        "An exception that cancels the description unusual": "The clause explains the description rather than cancels it.",
-        "The respect in which the arrangement is unusual": "In that links an evaluation to the specific feature that accounts for it, not to an unrelated example.",
+        "An exception that cancels the description 'unusual'": "The clause explains the description rather than cancels it.",
+        "The respect in which the arrangement is unusual": "'In that' links an evaluation to the specific feature that accounts for it, not to an unrelated example.",
         "A later event caused by the unusual arrangement": "No later causal sequence is narrated."
       },
       "audit": {
@@ -2711,12 +2711,12 @@
         "The stated requirement for accessible language"
       ],
       "answer": "The stated requirement for accessible language",
-      "explanation": "Accordingly means in a way that responds to the preceding requirement here; it links the revision's manner to the curator's request.",
+      "explanation": "'Accordingly' means in a way that responds to the preceding requirement here; it links the revision's manner to the curator's request.",
       "rationales": {
         "A conclusion that specialist visitors should be excluded": "The request concerns accessibility, not excluding a group.",
         "A later date on which the labels would be installed": "No installation date supplies the reference.",
         "A comparable terminology change in another museum": "No comparison case is mentioned.",
-        "The stated requirement for accessible language": "Accordingly means in a way that responds to the preceding requirement here; it links the revision's manner to the curator's request."
+        "The stated requirement for accessible language": "'Accordingly' means in a way that responds to the preceding requirement here; it links the revision's manner to the curator's request."
       },
       "audit": {
         "status": "reviewed",
@@ -2773,10 +2773,10 @@
         "It proves the reversed relation solely by using the transition."
       ],
       "answer": "It asserts the reversed relation, which needs its own support.",
-      "explanation": "Conversely reverses direction. All funded projects being reviewed does not alone establish that all reviewed projects are funded.",
+      "explanation": "'Conversely' reverses direction. All funded projects being reviewed does not alone establish that all reviewed projects are funded.",
       "rationales": {
         "It merely rephrases the first claim.": "Reversing the groups changes the claim; it is not an equivalent restatement.",
-        "It asserts the reversed relation, which needs its own support.": "Conversely reverses direction. All funded projects being reviewed does not alone establish that all reviewed projects are funded.",
+        "It asserts the reversed relation, which needs its own support.": "'Conversely' reverses direction. All funded projects being reviewed does not alone establish that all reviewed projects are funded.",
         "It introduces a historical exception to the first claim.": "The second sentence states a general reversed relation, not an exception.",
         "It proves the reversed relation solely by using the transition.": "A transition signals a relation between claims; it does not supply evidence for the second claim."
       },
@@ -2804,11 +2804,11 @@
         "A consequence that occurs only if retention is chosen"
       ],
       "answer": "A distinct supporting consideration with the same practical direction",
-      "explanation": "Moreover adds support for retention; the access concern need not be caused by the architectural merit.",
+      "explanation": "'Moreover' adds support for retention; the access concern need not be caused by the architectural merit.",
       "rationales": {
         "An explanation of what architectural importance means": "Access disruption is not a definition of architectural importance.",
         "Evidence that the architectural assessment is mistaken": "The practical concern does not dispute the aesthetic or historical assessment.",
-        "A distinct supporting consideration with the same practical direction": "Moreover adds support for retention; the access concern need not be caused by the architectural merit.",
+        "A distinct supporting consideration with the same practical direction": "'Moreover' adds support for retention; the access concern need not be caused by the architectural merit.",
         "A consequence that occurs only if retention is chosen": "The interruption is attached to demolition, not retention."
       },
       "audit": {
@@ -2835,12 +2835,12 @@
         "The final update to the temporary index"
       ],
       "answer": "The appearance of the full catalog in October",
-      "explanation": "Thereafter means after that point; here it points to the full catalog's appearance, not to the earlier move.",
+      "explanation": "'Thereafter' means after that point; here it points to the full catalog's appearance, not to the earlier move.",
       "rationales": {
         "The beginning of the move": "The nearer completed event is publication of the full catalog.",
         "The initial issue of the temporary index": "That earlier event introduces the object, but not the transition's time anchor.",
         "The final update to the temporary index": "Stopping updates follows the anchor; it is not the preceding event referred to.",
-        "The appearance of the full catalog in October": "Thereafter means after that point; here it points to the full catalog's appearance, not to the earlier move."
+        "The appearance of the full catalog in October": "'Thereafter' means after that point; here it points to the full catalog's appearance, not to the earlier move."
       },
       "audit": {
         "status": "reviewed",
@@ -2866,9 +2866,9 @@
         "visitors have found the listening room increasingly comfortable"
       ],
       "answer": "it is digitizing the recordings and preparing a searchable transcript collection",
-      "explanation": "Digitization and searchable transcripts are means toward remote access; to that end introduces intended means.",
+      "explanation": "Digitization and searchable transcripts are means toward remote access; 'to that end' introduces intended means.",
       "rationales": {
-        "it is digitizing the recordings and preparing a searchable transcript collection": "Digitization and searchable transcripts are means toward remote access; to that end introduces intended means.",
+        "it is digitizing the recordings and preparing a searchable transcript collection": "Digitization and searchable transcripts are means toward remote access; 'to that end' introduces intended means.",
         "the recordings are now used by researchers in forty countries": "This reports an achieved outcome rather than an action being taken toward the aim.",
         "the archive received the collection from retired broadcasters": "This gives provenance, not a means of remote access.",
         "visitors have found the listening room increasingly comfortable": "This concerns on-site comfort rather than remote use."
@@ -2897,10 +2897,10 @@
         "The respect in which overlap is being claimed"
       ],
       "answer": "The respect in which overlap is being claimed",
-      "explanation": "Insofar as limits the overlap claim to the shared maintenance content, rather than presenting the guides as equivalent overall.",
+      "explanation": "'Insofar as' limits the overlap claim to the shared maintenance content, rather than presenting the guides as equivalent overall.",
       "rationales": {
         "Whether either guide contains a finance section": "Both finance sections are mentioned; their existence is not conditional.",
-        "The respect in which overlap is being claimed": "Insofar as limits the overlap claim to the shared maintenance content, rather than presenting the guides as equivalent overall.",
+        "The respect in which overlap is being claimed": "'Insofar as' limits the overlap claim to the shared maintenance content, rather than presenting the guides as equivalent overall.",
         "The order in which maintenance and finance must be read": "No reading order is set.",
         "The reason one guide replaced the other": "No replacement event is stated."
       },
@@ -2959,12 +2959,12 @@
         "It gives an unrelated administrative problem equal prominence."
       ],
       "answer": "It narrows a broad need to a particular requirement.",
-      "explanation": "More specifically moves from a general area to a precise aspect of it, without implying that the broad statement was false.",
+      "explanation": "'More specifically' moves from a general area to a precise aspect of it, without implying that the broad statement was false.",
       "rationales": {
         "It retracts the general need for better documentation.": "The specific requirement develops rather than denies the broader need.",
         "It describes a consequence of documentation already improving.": "The second point is a requirement, not a measured outcome.",
         "It gives an unrelated administrative problem equal prominence.": "Arrival-condition records belong within the broader documentation concern.",
-        "It narrows a broad need to a particular requirement.": "More specifically moves from a general area to a precise aspect of it, without implying that the broad statement was false."
+        "It narrows a broad need to a particular requirement.": "'More specifically' moves from a general area to a precise aspect of it, without implying that the broad statement was false."
       },
       "audit": {
         "status": "reviewed",
@@ -2990,9 +2990,9 @@
         "Flexible shifts improved retention; improved retention then reduced recruitment costs."
       ],
       "answer": "Flexible shifts improved retention; improved retention then reduced recruitment costs.",
-      "explanation": "In turn makes retention the intermediate link in a chain, rather than treating both outcomes as separately linked to shifts.",
+      "explanation": "'In turn' makes retention the intermediate link in a chain, rather than treating both outcomes as separately linked to shifts.",
       "rationales": {
-        "Flexible shifts improved retention; improved retention then reduced recruitment costs.": "In turn makes retention the intermediate link in a chain, rather than treating both outcomes as separately linked to shifts.",
+        "Flexible shifts improved retention; improved retention then reduced recruitment costs.": "'In turn' makes retention the intermediate link in a chain, rather than treating both outcomes as separately linked to shifts.",
         "Flexible shifts and retention each independently caused lower recruitment costs.": "The sentence specifically routes the second effect through retention.",
         "Lower recruitment costs enabled the introduction of flexible shifts.": "That reverses the direction of the stated chain.",
         "Improved retention occurred after recruitment costs had already fallen.": "The transition presents lower costs as the next effect, not an earlier cause."
@@ -3021,10 +3021,10 @@
         "It is an exception that invalidates the principle."
       ],
       "answer": "The first principle is being carried into a related decision.",
-      "explanation": "By extension transfers an idea beyond its initial case; it signals the proposed reach, not automatic proof that the transfer is sound.",
+      "explanation": "'By extension' transfers an idea beyond its initial case; it signals the proposed reach, not automatic proof that the transfer is sound.",
       "rationales": {
         "It is a restatement of the same decision using different words.": "Beginning and ending are related but distinct decisions.",
-        "The first principle is being carried into a related decision.": "By extension transfers an idea beyond its initial case; it signals the proposed reach, not automatic proof that the transfer is sound.",
+        "The first principle is being carried into a related decision.": "'By extension' transfers an idea beyond its initial case; it signals the proposed reach, not automatic proof that the transfer is sound.",
         "It is a historical cause of the first application.": "The relation is conceptual application, not historical causation.",
         "It is an exception that invalidates the principle.": "The author extends rather than rejects the principle."
       },
@@ -3083,12 +3083,12 @@
         "The revision merely occurred later, with no relevance attributed to the finding."
       ],
       "answer": "The finding supplied grounds for reconsidering the proposal.",
-      "explanation": "In light of means considering the new information; it links that information to the revision without specifying every change made.",
+      "explanation": "'In light of' means considering the new information; it links that information to the revision without specifying every change made.",
       "rationales": {
         "The revision happened in spite of the ownership finding.": "In light of presents the finding as a basis for reconsideration, not an obstacle disregarded.",
         "The finding was an outcome of revising the proposal.": "The direction runs from finding to revision.",
         "The revision merely occurred later, with no relevance attributed to the finding.": "The phrase explicitly makes the finding relevant to the decision.",
-        "The finding supplied grounds for reconsidering the proposal.": "In light of means considering the new information; it links that information to the revision without specifying every change made."
+        "The finding supplied grounds for reconsidering the proposal.": "'In light of' means considering the new information; it links that information to the revision without specifying every change made."
       },
       "audit": {
         "status": "reviewed",
@@ -3145,10 +3145,10 @@
         "Participation is a future condition whose fulfillment is not asserted."
       ],
       "answer": "Participation is the respect or basis on which the equity assessment rests.",
-      "explanation": "Inasmuch as can identify a respect or reason supporting an assessment. It does not establish that all other aspects of the scheme are equitable.",
+      "explanation": "'Inasmuch as' can identify a respect or reason supporting an assessment. It does not establish that all other aspects of the scheme are equitable.",
       "rationales": {
         "Giving associations a voice is a consequence of the scheme's independently established equity.": "This reverses the explanatory relation.",
-        "Participation is the respect or basis on which the equity assessment rests.": "Inasmuch as can identify a respect or reason supporting an assessment. It does not establish that all other aspects of the scheme are equitable.",
+        "Participation is the respect or basis on which the equity assessment rests.": "'Inasmuch as' can identify a respect or reason supporting an assessment. It does not establish that all other aspects of the scheme are equitable.",
         "Participation is an objection conceded despite an overall inequity.": "The clause supports the positive assessment rather than opposes it.",
         "Participation is a future condition whose fulfillment is not asserted.": "Gives presents the feature as actual here, not as an unfulfilled future condition."
       },
@@ -3176,11 +3176,11 @@
         "The claim that visibility was achieved through removing duplicates"
       ],
       "answer": "The claim that visibility was achieved through removing duplicates",
-      "explanation": "Thereby means by that action or means; subsequently would preserve later timing without the same instrumental link.",
+      "explanation": "'Thereby' means by that action or means; 'subsequently' would preserve later timing without the same instrumental link.",
       "rationales": {
         "The claim that removing duplicates occurred at all": "Both versions retain that action.",
         "The claim that the catalog contains distinct objects": "Both versions still refer to a count of distinct objects.",
-        "The claim that visibility was achieved through removing duplicates": "Thereby means by that action or means; subsequently would preserve later timing without the same instrumental link.",
+        "The claim that visibility was achieved through removing duplicates": "'Thereby' means by that action or means; 'subsequently' would preserve later timing without the same instrumental link.",
         "The claim that the visibility improvement came before the removals": "The original does not place the improvement before its stated means."
       },
       "audit": {
@@ -3238,10 +3238,10 @@
         "The misclassification is a condition that must be met before distinguishing the texts."
       ],
       "answer": "The distinction is made to guard against a possible misclassification.",
-      "explanation": "Lest introduces an unwanted outcome being guarded against; it need not assert that the error has occurred or that prevention is guaranteed.",
+      "explanation": "'Lest' introduces an unwanted outcome being guarded against; it need not assert that the error has occurred or that prevention is guaranteed.",
       "rationales": {
-        "The distinction is made to guard against a possible misclassification.": "Lest introduces an unwanted outcome being guarded against; it need not assert that the error has occurred or that prevention is guaranteed.",
-        "The distinction is made because readers have been shown to misclassify the commentary.": "Lest alone does not establish actual documented confusion.",
+        "The distinction is made to guard against a possible misclassification.": "'Lest' introduces an unwanted outcome being guarded against; it need not assert that the error has occurred or that prevention is guaranteed.",
+        "The distinction is made because readers have been shown to misclassify the commentary.": "'Lest' alone does not establish actual documented confusion.",
         "The distinction has proved sufficient to prevent the misclassification.": "A preventive purpose does not establish successful prevention.",
         "The misclassification is a condition that must be met before distinguishing the texts.": "The feared error is what the distinction seeks to avoid, not its prerequisite."
       },
@@ -3393,10 +3393,10 @@
         "The rota applies only after each member has already chaired."
       ],
       "answer": "The rota is the arrangement through which the chairing is allocated.",
-      "explanation": "Whereby means by or through which; it identifies the operative arrangement rather than a location or an external reason.",
+      "explanation": "'Whereby' means 'by or through which'; it identifies the operative arrangement rather than a location or an external reason.",
       "rationales": {
-        "The chairing obligation arose despite the rota's provisions.": "Whereby links the arrangement as a means, not an obstacle.",
-        "The rota is the arrangement through which the chairing is allocated.": "Whereby means by or through which; it identifies the operative arrangement rather than a location or an external reason.",
+        "The chairing obligation arose despite the rota's provisions.": "'Whereby' links the arrangement as a means, not an obstacle.",
+        "The rota is the arrangement through which the chairing is allocated.": "'Whereby' means 'by or through which'; it identifies the operative arrangement rather than a location or an external reason.",
         "The rota was justified by evidence that equal chairing had already occurred.": "The sentence specifies how the arrangement works, not prior proof used to justify it.",
         "The rota applies only after each member has already chaired.": "That makes completed chairing a prerequisite rather than the action organized by the rota."
       },
@@ -3486,9 +3486,9 @@
         "Textual sameness is asserted apart from the specified spelling change."
       ],
       "answer": "Textual sameness is asserted apart from the specified spelling change.",
-      "explanation": "Save that means except that: it identifies a bounded departure from the preceding sameness claim, not a reason or an illustrative difference.",
+      "explanation": "'Save that' means 'except that': it identifies a bounded departure from the preceding sameness claim, not a reason or an illustrative difference.",
       "rationales": {
-        "Textual sameness is asserted apart from the specified spelling change.": "Save that means except that: it identifies a bounded departure from the preceding sameness claim, not a reason or an illustrative difference.",
+        "Textual sameness is asserted apart from the specified spelling change.": "'Save that' means 'except that': it identifies a bounded departure from the preceding sameness claim, not a reason or an illustrative difference.",
         "The spelling change is one example among several stated differences.": "Save that presents an exception to sameness, not an open-ended example list.",
         "Modernized spelling is the reason the texts are considered the same.": "The spelling change is exempted from sameness rather than used to establish it.",
         "The sameness claim is postponed until spelling has been modernized.": "The transition marks an exception, not a future condition."
@@ -3517,10 +3517,10 @@
         "It is highlighted as an important supporting reason without being declared the only one."
       ],
       "answer": "It is highlighted as an important supporting reason without being declared the only one.",
-      "explanation": "Not least because adds an emphatic reason; it neither makes the list exhaustive nor necessarily ranks this reason first.",
+      "explanation": "'Not least because' adds an emphatic reason; it neither makes the list exhaustive nor necessarily ranks this reason first.",
       "rationales": {
         "It is admitted to be the weakest supporting reason.": "Not least denies a low place in importance rather than assigning one.",
-        "It is highlighted as an important supporting reason without being declared the only one.": "Not least because adds an emphatic reason; it neither makes the list exhaustive nor necessarily ranks this reason first.",
+        "It is highlighted as an important supporting reason without being declared the only one.": "'Not least because' adds an emphatic reason; it neither makes the list exhaustive nor necessarily ranks this reason first.",
         "It is the sole consideration on which support can rest.": "The phrase gives emphasis, not exclusivity.",
         "It is a limitation conceded despite the case for support.": "Because supplies support, not a counterconsideration."
       },
@@ -3548,11 +3548,11 @@
         "It introduces an independent reason to approve the display."
       ],
       "answer": "It substitutes a more restricted and accurate characterization.",
-      "explanation": "Or rather revises the speaker's own wording, here narrowing whole-workshop recreation to one reconstructed room.",
+      "explanation": "'Or rather' revises the speaker's own wording, here narrowing whole-workshop recreation to one reconstructed room.",
       "rationales": {
-        "It offers two equally preferred descriptions as alternatives.": "Or rather gives priority to the second, corrected formulation.",
+        "It offers two equally preferred descriptions as alternatives.": "'Or rather' gives priority to the second, corrected formulation.",
         "It states that the reconstruction took place after a full recreation.": "The transition repairs wording rather than narrates two construction stages.",
-        "It substitutes a more restricted and accurate characterization.": "Or rather revises the speaker's own wording, here narrowing whole-workshop recreation to one reconstructed room.",
+        "It substitutes a more restricted and accurate characterization.": "'Or rather' revises the speaker's own wording, here narrowing whole-workshop recreation to one reconstructed room.",
         "It introduces an independent reason to approve the display.": "The second phrase corrects descriptive scope, not the grounds for approval."
       },
       "audit": {
@@ -3579,12 +3579,12 @@
         "The two explanations are equivalent in every historical respect."
       ],
       "answer": "The stated conclusion holds under each of the two alternatives.",
-      "explanation": "In either case carries the conclusion across both possibilities while leaving their factual resolution open.",
+      "explanation": "'In either case' carries the conclusion across both possibilities while leaving their factual resolution open.",
       "rationales": {
         "Both explanations are historically true.": "The writer considers alternatives without asserting that both occurred.",
-        "The evidence favors the first explanation over the second.": "In either case does not rank the alternatives.",
+        "The evidence favors the first explanation over the second.": "'In either case' does not rank the alternatives.",
         "The two explanations are equivalent in every historical respect.": "A shared consequence does not make the explanations interchangeable overall.",
-        "The stated conclusion holds under each of the two alternatives.": "In either case carries the conclusion across both possibilities while leaving their factual resolution open."
+        "The stated conclusion holds under each of the two alternatives.": "'In either case' carries the conclusion across both possibilities while leaving their factual resolution open."
       },
       "audit": {
         "status": "reviewed",
@@ -3610,9 +3610,9 @@
         "The ground invoked for this rejection"
       ],
       "answer": "The ground invoked for this rejection",
-      "explanation": "On that basis alone says the incomplete source list is the sole ground invoked; it does not establish that no other defects or grounds exist.",
+      "explanation": "'On that basis alone' says the incomplete source list is the sole ground invoked; it does not establish that no other defects or grounds exist.",
       "rationales": {
-        "The ground invoked for this rejection": "On that basis alone says the incomplete source list is the sole ground invoked; it does not establish that no other defects or grounds exist.",
+        "The ground invoked for this rejection": "'On that basis alone' says the incomplete source list is the sole ground invoked; it does not establish that no other defects or grounds exist.",
         "The defects the reviewer could identify in the paper": "A sole ground used for rejection does not mean the reviewer could identify no other defect.",
         "The evidence that could ever justify rejecting the paper": "The phrase restricts this stated decision's basis, not every possible justification.",
         "The aspects of the paper that the reviewer examined": "The reviewer may have examined many aspects while relying on one ground for rejection."
@@ -3641,10 +3641,10 @@
         "The second sentence withdraws the admission that dating is weak."
       ],
       "answer": "The weakness is granted without extending its force to independent evidence.",
-      "explanation": "For all that means despite that: the objection's force is acknowledged, but the second point survives it.",
+      "explanation": "'For all that' means 'despite that': the objection's force is acknowledged, but the second point survives it.",
       "rationales": {
         "The untouched material evidence is the cause of the dating weakness.": "The transition concedes one point and limits its reach rather than reversing causality.",
-        "The weakness is granted without extending its force to independent evidence.": "For all that means despite that: the objection's force is acknowledged, but the second point survives it.",
+        "The weakness is granted without extending its force to independent evidence.": "'For all that' means 'despite that': the objection's force is acknowledged, but the second point survives it.",
         "The material evidence restates the same weakness in different terms.": "Separate evidence being untouched is not a reformulation of the dating defect.",
         "The second sentence withdraws the admission that dating is weak.": "The weakness remains conceded; the transition limits its consequences."
       },

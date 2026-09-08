@@ -14,10 +14,10 @@
         "I do not want to sit down."
       ],
       "answer": "I want a quiet seat.",
-      "explanation": "Would like is a polite way to express this wish or request.",
+      "explanation": "'Would like' is a polite way to express this wish or request.",
       "rationales": {
         "I already have a quiet seat.": "I'd like expresses what the traveler wants, not what the traveler already has.",
-        "I want a quiet seat.": "Would like is a polite way to express this wish or request.",
+        "I want a quiet seat.": "'Would like' is a polite way to express this wish or request.",
         "I usually sit in quiet places.": "The request concerns a seat now, not a usual habit.",
         "I do not want to sit down.": "The traveler asks for a seat rather than refusing to sit."
       },
@@ -45,12 +45,12 @@
         "liking"
       ],
       "answer": "like",
-      "explanation": "Would like is the correct form for this polite order.",
+      "explanation": "'Would like' is the correct form for this polite order.",
       "rationales": {
-        "likes": "Would takes like without a third-person -s.",
-        "liked": "Liked is a past form; after would, use the base form like.",
-        "like": "Would like is the correct form for this polite order.",
-        "liking": "Liking cannot follow would directly in this expression."
+        "likes": "'Would' takes 'like' without a third-person '-s'.",
+        "liked": "'Liked' is a past form; after 'would', use the base form 'like'.",
+        "like": "'Would like' is the correct form for this polite order.",
+        "liking": "'Liking' cannot follow 'would' directly in this expression."
       },
       "audit": {
         "status": "reviewed",
@@ -76,12 +76,12 @@
         "to booking"
       ],
       "answer": "to book",
-      "explanation": "To book names the action the guest would like to take.",
+      "explanation": "'To book' names the action the guest would like to take.",
       "rationales": {
         "book": "Would like needs to before the requested action in this pattern.",
         "booking": "Booking is not the to-infinitive used for the action the guest wants to take.",
-        "to booking": "After to in this infinitive, use book rather than booking.",
-        "to book": "To book names the action the guest would like to take."
+        "to booking": "After 'to' in this infinitive, use 'book' rather than 'booking'.",
+        "to book": "'To book' names the action the guest would like to take."
       },
       "audit": {
         "status": "reviewed",
@@ -107,11 +107,11 @@
         "The speaker wants the bus to arrive soon."
       ],
       "answer": "The speaker wants the bus to arrive soon.",
-      "explanation": "Hope expresses the desired arrival; it does not say the arrival has happened.",
+      "explanation": "'Hope' expresses the desired arrival; it does not say the arrival has happened.",
       "rationales": {
-        "The speaker wants the bus to arrive soon.": "Hope expresses the desired arrival; it does not say the arrival has happened.",
+        "The speaker wants the bus to arrive soon.": "'Hope' expresses the desired arrival; it does not say the arrival has happened.",
         "The speaker knows the bus has arrived.": "Has arrived would describe a completed arrival, which hope does not establish.",
-        "The speaker wants the bus to arrive late.": "Soon expresses a wish for an early arrival, not a late one.",
+        "The speaker wants the bus to arrive late.": "'Soon' expresses a wish for an early arrival, not a late one.",
         "The speaker says the bus never arrives.": "The sentence gives no claim that the bus never arrives."
       },
       "audit": {
@@ -140,7 +140,7 @@
       "answer": "I'd like some tea, please.",
       "explanation": "I'd like some tea politely names the drink wanted now.",
       "rationales": {
-        "I like tea.": "I like tea describes a general preference rather than directly stating this order.",
+        "I like tea.": "'I like tea' describes a general preference rather than directly stating this order.",
         "I'd like some tea, please.": "I'd like some tea politely names the drink wanted now.",
         "I liked the tea yesterday.": "Liked ... yesterday comments on a past drink, not today's order.",
         "I don't usually drink tea.": "This states a usual habit and does not name a drink the customer wants now."
@@ -169,12 +169,12 @@
         "learns"
       ],
       "answer": "learn",
-      "explanation": "Want to learn expresses the skill the speaker wants to gain.",
+      "explanation": "'Want to learn' expresses the skill the speaker wants to gain.",
       "rationales": {
-        "learning": "To in this infinitive needs the base form learn, not learning.",
-        "learned": "Learned is a past form and does not follow want to here.",
-        "learn": "Want to learn expresses the skill the speaker wants to gain.",
-        "learns": "Learns has a third-person ending, which is not used after to in this infinitive."
+        "learning": "'To' in this infinitive needs the base form 'learn', not 'learning'.",
+        "learned": "'Learned' is a past form and does not follow 'want to' here.",
+        "learn": "'Want to learn' expresses the skill the speaker wants to gain.",
+        "learns": "'Learns' has a third-person ending, which is not used after 'to' in this infinitive."
       },
       "audit": {
         "status": "reviewed",
@@ -202,9 +202,9 @@
       "answer": "I don't want to go to the party.",
       "explanation": "Don't want to go correctly expresses the speaker's negative desire.",
       "rationales": {
-        "I don't want go to the party.": "Want needs to before go in this action complement.",
-        "I not want to go to the party.": "The present negative needs do: I do not want, not I not want.",
-        "I don't wanting to go to the party.": "After don't, use the base form want rather than wanting.",
+        "I don't want go to the party.": "'Want' needs 'to' before 'go' in this action complement.",
+        "I not want to go to the party.": "The present negative needs 'do': 'I do not want', not 'I not want'.",
+        "I don't wanting to go to the party.": "After \"don't\", use the base form 'want' rather than 'wanting'.",
         "I don't want to go to the party.": "Don't want to go correctly expresses the speaker's negative desire."
       },
       "audit": {
@@ -298,7 +298,7 @@
         "woulds": "Would has no -s form, regardless of the subject.",
         "would to": "To does not go between would and like.",
         "would": "Would works with plural we without changing its form.",
-        "are would": "Would is itself a modal auxiliary and does not need are before it."
+        "are would": "'Would' is itself a modal auxiliary and does not need 'are' before it."
       },
       "audit": {
         "status": "reviewed",
@@ -326,9 +326,9 @@
       "answer": "you",
       "explanation": "Wish you good luck uses you as the person receiving the good wish.",
       "rationales": {
-        "your": "Your is a possessive form and cannot name the person receiving this wish by itself.",
-        "yours": "Yours refers to a possession, not the person being wished good luck.",
-        "you're": "You're means you are and does not fit after wish in this pattern.",
+        "your": "'Your' is a possessive form and cannot name the person receiving this wish by itself.",
+        "yours": "'Yours' refers to a possession, not the person being wished good luck.",
+        "you're": "\"You're\" means 'you are' and does not fit after 'wish' in this pattern.",
         "you": "Wish you good luck uses you as the person receiving the good wish."
       },
       "audit": {
@@ -386,12 +386,12 @@
         "you enjoys"
       ],
       "answer": "you enjoy",
-      "explanation": "You enjoy supplies a subject and present verb after hope.",
+      "explanation": "'You enjoy' supplies a subject and present verb after 'hope'.",
       "rationales": {
-        "you to enjoy": "Hope does not take you to enjoy as its direct complement in this pattern.",
-        "you enjoy": "You enjoy supplies a subject and present verb after hope.",
-        "you enjoying": "You enjoying lacks a finite verb needed for this clause.",
-        "you enjoys": "Enjoys does not agree with the subject you."
+        "you to enjoy": "'Hope' does not take 'you to enjoy' as its direct complement in this pattern.",
+        "you enjoy": "'You enjoy' supplies a subject and present verb after 'hope'.",
+        "you enjoying": "'You enjoying' lacks a finite verb needed for this clause.",
+        "you enjoys": "'Enjoys' does not agree with the subject 'you'."
       },
       "audit": {
         "status": "reviewed",
@@ -419,10 +419,10 @@
       "answer": "to see",
       "explanation": "To see gives the action the speaker hopes to do.",
       "rationales": {
-        "see": "Hope needs to before the base verb when its own subject will perform the action.",
+        "see": "'Hope' needs 'to' before the base verb when its own subject will perform the action.",
         "seeing": "Seeing is not the direct complement used in hope to see.",
         "to see": "To see gives the action the speaker hopes to do.",
-        "to seeing": "The infinitive uses to see, not to seeing."
+        "to seeing": "The infinitive uses 'to see', not 'to seeing'."
       },
       "audit": {
         "status": "reviewed",
@@ -448,12 +448,12 @@
         "them"
       ],
       "answer": "so",
-      "explanation": "I hope so means I hope the weather will be sunny.",
+      "explanation": "'I hope so' means 'I hope the weather will be sunny'.",
       "rationales": {
         "that": "That would need a following clause, such as that it will be sunny.",
-        "it": "It does not replace the whole sunny-weather statement after hope here.",
-        "them": "Them refers to plural things or people, not the whole hoped-for proposition.",
-        "so": "I hope so means I hope the weather will be sunny."
+        "it": "It does not replace the whole sunny-weather statement after 'hope' here.",
+        "them": "'Them' refers to plural things or people, not the whole hoped-for proposition.",
+        "so": "'I hope so' means 'I hope the weather will be sunny'."
       },
       "audit": {
         "status": "reviewed",
@@ -512,9 +512,9 @@
       "answer": "wanted",
       "explanation": "Wanted places the desire in the past; it does not say the coat was bought.",
       "rationales": {
-        "want": "Want is present or base form, not the ordinary past form for yesterday's desire.",
+        "want": "'Want' is present or base form, not the ordinary past form for yesterday's desire.",
         "wanted": "Wanted places the desire in the past; it does not say the coat was bought.",
-        "wanting": "Wanting cannot serve as the finite past verb on its own here.",
+        "wanting": "'Wanting' cannot serve as the finite past verb on its own here.",
         "wants": "Wants is third-person present and agrees neither with I nor with the past time."
       },
       "audit": {
@@ -543,8 +543,8 @@
       "answer": "The speaker wants to join but has another duty.",
       "explanation": "The desire is positive, but having to work prevents the simple acceptance suggested by that desire alone.",
       "rationales": {
-        "The speaker dislikes walking.": "Would like to join expresses interest, not dislike.",
-        "The speaker has agreed to join the walk.": "The but clause explains an obstacle; the sentence does not accept the invitation.",
+        "The speaker dislikes walking.": "'Would like to join' expresses interest, not dislike.",
+        "The speaker has agreed to join the walk.": "The 'but' clause explains an obstacle; the sentence does not accept the invitation.",
         "The speaker wants to join but has another duty.": "The desire is positive, but having to work prevents the simple acceptance suggested by that desire alone.",
         "The speaker wants everyone to work instead.": "The work duty concerns the speaker, not everyone else."
       },
@@ -572,12 +572,12 @@
         "late"
       ],
       "answer": "not",
-      "explanation": "I hope not means the speaker hopes the train will not be late.",
+      "explanation": "'I hope not' means the speaker hopes the train will not be late.",
       "rationales": {
-        "so": "I hope so would mean the speaker wants the train to be late, contrary to the context.",
+        "so": "'I hope so' would mean the speaker wants the train to be late, contrary to the context.",
         "yes": "I hope yes is not the usual short response to this question, and yes would favor lateness.",
-        "late": "Late cannot by itself replace the negative clause after hope.",
-        "not": "I hope not means the speaker hopes the train will not be late."
+        "late": "'Late' cannot by itself replace the negative clause after 'hope'.",
+        "not": "'I hope not' means the speaker hopes the train will not be late."
       },
       "audit": {
         "status": "reviewed",
@@ -603,12 +603,12 @@
         "I am teaching pottery now."
       ],
       "answer": "I'd like to try pottery.",
-      "explanation": "Would like to try expresses the new activity the speaker wants to experience.",
+      "explanation": "'Would like to try' expresses the new activity the speaker wants to experience.",
       "rationales": {
-        "I'd like to try pottery.": "Would like to try expresses the new activity the speaker wants to experience.",
-        "I tried pottery last summer.": "Tried describes a past experience rather than the desired new choice.",
-        "I teach pottery every week.": "Teach every week describes an existing routine, not a wish to try the activity.",
-        "I am teaching pottery now.": "Am teaching describes a present activity, not the desired future experience."
+        "I'd like to try pottery.": "'Would like to try' expresses the new activity the speaker wants to experience.",
+        "I tried pottery last summer.": "'Tried' describes a past experience rather than the desired new choice.",
+        "I teach pottery every week.": "'Teach every week' describes an existing routine, not a wish to try the activity.",
+        "I am teaching pottery now.": "'Am teaching' describes a present activity, not the desired future experience."
       },
       "audit": {
         "status": "reviewed",
@@ -634,12 +634,12 @@
         "were"
       ],
       "answer": "were",
-      "explanation": "If I were you is the conventional expression for advice from an imagined position.",
+      "explanation": "'If I were you' is the conventional expression for advice from an imagined position.",
       "rationales": {
-        "am": "Am states a real present identity rather than the imagined position used in this advice expression.",
-        "were": "If I were you is the conventional expression for advice from an imagined position.",
-        "be": "Be alone does not form this if-I-were-you expression.",
-        "being": "Being cannot be the finite verb of this clause on its own."
+        "am": "'Am' states a real present identity rather than the imagined position used in this advice expression.",
+        "were": "'If I were you' is the conventional expression for advice from an imagined position.",
+        "be": "'Be' alone does not form this if-I-were-you expression.",
+        "being": "'Being' cannot be the finite verb of this clause on its own."
       },
       "audit": {
         "status": "reviewed",
@@ -667,7 +667,7 @@
       "answer": "I want more free time than I have now.",
       "explanation": "The speaker wants the present amount of free time to be greater.",
       "rationales": {
-        "I had more free time before I started this job.": "Had after wish refers here to a desired present difference, not a stated fact about an earlier job.",
+        "I had more free time before I started this job.": "'Had' after 'wish' refers here to a desired present difference, not a stated fact about an earlier job.",
         "I am saying that I now have enough free time.": "The wish expresses dissatisfaction with the amount of free time, not satisfaction that it is enough.",
         "I want more free time than I have now.": "The speaker wants the present amount of free time to be greater.",
         "I am promising to work for more hours.": "The sentence expresses a desire for more free time, not a commitment to extra work."
@@ -696,12 +696,12 @@
         "could have"
       ],
       "answer": "could",
-      "explanation": "Could drive expresses the ability the speaker wishes to have now.",
+      "explanation": "'Could drive' expresses the ability the speaker wishes to have now.",
       "rationales": {
-        "can": "For this unfulfilled present ability, use the remote form could after wish, not can.",
-        "could to": "Could takes the base verb drive directly, without to.",
-        "could have": "Could have needs a past participle and refers to a past possibility; it cannot take drive here.",
-        "could": "Could drive expresses the ability the speaker wishes to have now."
+        "can": "For this unfulfilled present ability, use the remote form 'could' after 'wish', not 'can'.",
+        "could to": "'Could' takes the base verb 'drive' directly, without 'to'.",
+        "could have": "'Could have' needs a past participle and refers to a past possibility; it cannot take 'drive' here.",
+        "could": "'Could drive' expresses the ability the speaker wishes to have now."
       },
       "audit": {
         "status": "reviewed",
@@ -758,12 +758,12 @@
         "sat"
       ],
       "answer": "sit",
-      "explanation": "I'd rather sit expresses the preferred action using the base form.",
+      "explanation": "\"I'd rather sit\" expresses the preferred action using the base form.",
       "rationales": {
-        "to sit": "Would rather takes the base verb sit directly, without to.",
-        "sit": "I'd rather sit expresses the preferred action using the base form.",
-        "sitting": "Sitting is not the form immediately following would rather in this pattern.",
-        "sat": "Sat is past form; would rather needs sit for this current choice."
+        "to sit": "'Would rather' takes the base verb 'sit' directly, without 'to'.",
+        "sit": "\"I'd rather sit\" expresses the preferred action using the base form.",
+        "sitting": "'Sitting' is not the form immediately following 'would rather' in this pattern.",
+        "sat": "'Sat' is past form; 'would rather' needs 'sit' for this current choice."
       },
       "audit": {
         "status": "reviewed",
@@ -791,8 +791,8 @@
       "answer": "than",
       "explanation": "Than links the preferred action walk to the alternative wait.",
       "rationales": {
-        "to": "To does not introduce the alternative after would rather in this comparison.",
-        "as": "As is used in other comparison patterns, not rather walk as wait.",
+        "to": "'To' does not introduce the alternative after 'would rather' in this comparison.",
+        "as": "'As' is used in other comparison patterns, not 'rather walk as wait'.",
         "than": "Than links the preferred action walk to the alternative wait.",
         "from": "From does not connect the two alternatives in the would-rather pattern."
       },
@@ -824,7 +824,7 @@
       "rationales": {
         "stop": "Want someone needs to before the action that person is to perform.",
         "stopping": "Stopping does not form the wanted-action complement in this pattern.",
-        "that stop": "That stop lacks a subject and does not fit after wants the driver.",
+        "that stop": "'That stop' lacks a subject and does not fit after 'wants the driver'.",
         "to stop": "To stop identifies the action wanted from the driver."
       },
       "audit": {
@@ -882,12 +882,12 @@
         "to cancel"
       ],
       "answer": "to cancel",
-      "explanation": "Wish to cancel is a formal way to state that the speaker wants to cancel.",
+      "explanation": "'Wish to cancel' is a formal way to state that the speaker wants to cancel.",
       "rationales": {
-        "canceling": "Wish does not take canceling directly for this formal statement of intention.",
-        "to cancel": "Wish to cancel is a formal way to state that the speaker wants to cancel.",
+        "canceling": "'Wish' does not take 'canceling' directly for this formal statement of intention.",
+        "to cancel": "'Wish to cancel' is a formal way to state that the speaker wants to cancel.",
         "that cancel": "That cancel is not a complete clause and does not fit this request.",
-        "to canceled": "The infinitive uses to cancel, not to canceled."
+        "to canceled": "The infinitive uses 'to cancel', not 'to canceled'."
       },
       "audit": {
         "status": "reviewed",
@@ -1008,7 +1008,7 @@
       "answer": "The visit depends on finishing work early.",
       "explanation": "Finishing early is the condition attached to the planned visit.",
       "rationales": {
-        "The speaker has already finished work early.": "The if clause does not say early finishing has already occurred.",
+        "The speaker has already finished work early.": "The 'if' clause does not say early finishing has already occurred.",
         "The visit depends on finishing work early.": "Finishing early is the condition attached to the planned visit.",
         "The visit will happen even if work finishes late.": "Even if work finishes late removes the stated condition.",
         "The speaker never plans to visit the market.": "The sentence gives a possible plan rather than ruling out a visit."
@@ -1099,12 +1099,12 @@
         "opening"
       ],
       "answer": "opening",
-      "explanation": "Would you mind takes an -ing action, so opening completes the polite request.",
+      "explanation": "'Would you mind' takes an -ing action, so 'opening' completes the polite request.",
       "rationales": {
-        "opening": "Would you mind takes an -ing action, so opening completes the polite request.",
+        "opening": "'Would you mind' takes an -ing action, so 'opening' completes the polite request.",
         "open": "Open is not the complement form after mind in this request.",
-        "to open": "Mind does not take a to-infinitive for the requested action here.",
-        "opened": "Opened is a past form, not the -ing complement required after mind."
+        "to open": "'Mind' does not take a to-infinitive for the requested action here.",
+        "opened": "'Opened' is a past form, not the -ing complement required after 'mind'."
       },
       "audit": {
         "status": "reviewed",
@@ -1132,10 +1132,10 @@
       "answer": "be",
       "explanation": "Would be nice evaluates a possible future meeting rather than stating that it has happened.",
       "rationales": {
-        "is": "Would takes the base form be, not the present form is.",
+        "is": "'Would' takes the base form 'be', not the present form 'is'.",
         "be": "Would be nice evaluates a possible future meeting rather than stating that it has happened.",
-        "being": "Being cannot follow would directly in this clause.",
-        "to be": "Would does not take to before be."
+        "being": "'Being' cannot follow 'would' directly in this clause.",
+        "to be": "'Would' does not take 'to' before 'be'."
       },
       "audit": {
         "status": "reviewed",
@@ -1163,10 +1163,10 @@
       "answer": "go",
       "explanation": "Let's go proposes an action for the speaker and the listener together.",
       "rationales": {
-        "going": "Let's is followed by the base verb go, not going.",
+        "going": "\"Let's\" is followed by the base verb 'go', not 'going'.",
         "to go": "To is not used between let's and the suggested action.",
         "go": "Let's go proposes an action for the speaker and the listener together.",
-        "goes": "Goes has a third-person ending that is not used after let's."
+        "goes": "'Goes' has a third-person ending that is not used after \"let's\"."
       },
       "audit": {
         "status": "reviewed",
@@ -1223,11 +1223,11 @@
         "lived"
       ],
       "answer": "living",
-      "explanation": "Imagine takes an -ing complement here: living describes the possible experience being pictured.",
+      "explanation": "'Imagine' takes an -ing complement here: 'living' describes the possible experience being pictured.",
       "rationales": {
-        "living": "Imagine takes an -ing complement here: living describes the possible experience being pictured.",
-        "to live": "Imagine does not take a to-infinitive for this experience in standard usage.",
-        "live": "Live cannot directly follow imagine in this pattern without a different clause structure.",
+        "living": "'Imagine' takes an -ing complement here: 'living' describes the possible experience being pictured.",
+        "to live": "'Imagine' does not take a to-infinitive for this experience in standard usage.",
+        "live": "'Live' cannot directly follow 'imagine' in this pattern without a different clause structure.",
         "lived": "Lived is not the -ing complement needed for the invited mental picture."
       },
       "audit": {
@@ -1254,12 +1254,12 @@
         "living"
       ],
       "answer": "lived",
-      "explanation": "Lived expresses the desired present situation, contrasting with the actual long journey.",
+      "explanation": "'Lived' expresses the desired present situation, contrasting with the actual long journey.",
       "rationales": {
         "live": "Live is not the standard past-form complement used for this unreal present wish.",
-        "lived": "Lived expresses the desired present situation, contrasting with the actual long journey.",
+        "lived": "'Lived' expresses the desired present situation, contrasting with the actual long journey.",
         "will live": "Will live predicts a future location rather than forming this wish about the present.",
-        "living": "Living lacks a finite verb for the clause after I wish I."
+        "living": "'Living' lacks a finite verb for the clause after 'I wish I'."
       },
       "audit": {
         "status": "reviewed",
@@ -1347,11 +1347,11 @@
         "could hear"
       ],
       "answer": "could hear",
-      "explanation": "Could hear expresses the ability to hear that is wanted but unavailable in the current situation.",
+      "explanation": "'Could hear' expresses the ability to hear that is wanted but unavailable in the current situation.",
       "rationales": {
-        "could hear": "Could hear expresses the ability to hear that is wanted but unavailable in the current situation.",
-        "can hearing": "Can must take a base verb, and can hearing does not form this unreal-ability wish.",
-        "could heard": "Could needs hear rather than the past form heard.",
+        "could hear": "'Could hear' expresses the ability to hear that is wanted but unavailable in the current situation.",
+        "can hearing": "'Can' must take a base verb, and 'can hearing' does not form this unreal-ability wish.",
+        "could heard": "'Could' needs 'hear' rather than the past form 'heard'.",
         "could to hear": "To is not used between could and hear."
       },
       "audit": {
@@ -1378,12 +1378,12 @@
         "would turn"
       ],
       "answer": "would turn",
-      "explanation": "Would turn expresses the desired change in the neighbor's willing behavior.",
+      "explanation": "'Would turn' expresses the desired change in the neighbor's willing behavior.",
       "rationales": {
         "will turn": "Will turn is not the usual modal form in this wish for another person's behavior to change.",
-        "would turn": "Would turn expresses the desired change in the neighbor's willing behavior.",
+        "would turn": "'Would turn' expresses the desired change in the neighbor's willing behavior.",
         "turns": "Turns states a present habit rather than forming the requested behavior-change wish.",
-        "turning": "Turning lacks the finite verb needed after my neighbor."
+        "turning": "'Turning' lacks the finite verb needed after 'my neighbor'."
       },
       "audit": {
         "status": "reviewed",
@@ -1474,9 +1474,9 @@
       "explanation": "Wouldn't need gives the negative imagined consequence of removing the noise.",
       "rationales": {
         "wouldn't need": "Wouldn't need gives the negative imagined consequence of removing the noise.",
-        "wouldn't needed": "Wouldn't takes the base form need, not needed.",
+        "wouldn't needed": "\"Wouldn't\" takes the base form 'need', not 'needed'.",
         "wouldn't needing": "Needing cannot directly follow wouldn't here.",
-        "wouldn't to need": "To is not used after wouldn't before need."
+        "wouldn't to need": "'To' is not used after \"wouldn't\" before 'need'."
       },
       "audit": {
         "status": "reviewed",
@@ -1538,7 +1538,7 @@
         "book": "Book is not the past-perfect form used for this regret about an earlier decision.",
         "would book": "Would book looks to a desired future behavior rather than undoing the completed late booking.",
         "had booked": "Had booked imagines an earlier booking in a past that can no longer be changed.",
-        "am booking": "Am booking describes a current activity rather than regret about the earlier event."
+        "am booking": "'Am booking' describes a current activity rather than regret about the earlier event."
       },
       "audit": {
         "status": "reviewed",
@@ -1568,7 +1568,7 @@
       "rationales": {
         "hear": "Hear gives a present form rather than the required earlier unreal event.",
         "would hear": "Would hear does not form the past-perfect condition requested here.",
-        "have heard": "Have heard is present perfect, not the past perfect locating the unreal hearing before the missed arrival.",
+        "have heard": "'Have heard' is present perfect, not the past perfect locating the unreal hearing before the missed arrival.",
         "had heard": "Had heard gives the unreal past condition that would have changed the arrival outcome."
       },
       "audit": {
@@ -1626,12 +1626,12 @@
         "going"
       ],
       "answer": "went",
-      "explanation": "Went is a past form with a present recommendation: we should go downstairs now.",
+      "explanation": "'Went' is a past form with a present recommendation: we should go downstairs now.",
       "rationales": {
         "go": "Go can occur in other usage, but it does not supply the simple past form requested for this construction.",
-        "went": "Went is a past form with a present recommendation: we should go downstairs now.",
+        "went": "'Went' is a past form with a present recommendation: we should go downstairs now.",
         "had gone": "Had gone suggests an earlier completed action rather than the requested simple past form for action now.",
-        "going": "Going cannot serve as the finite verb of we going in this clause."
+        "going": "'Going' cannot serve as the finite verb of 'we going' in this clause."
       },
       "audit": {
         "status": "reviewed",
@@ -1688,12 +1688,12 @@
         "Only B can express this wish in informal English."
       ],
       "answer": "Both can express the same present wish.",
-      "explanation": "Both express a wish about present height. Were is the conventional irrealis form and also suits formal styles.",
+      "explanation": "Both express a wish about present height. 'Were' is the conventional irrealis form and also suits formal styles.",
       "rationales": {
-        "A refers to a past wish; B expresses a present wish.": "Was can express the present unreal wish here; it need not place the wish in the past.",
-        "A expresses a present wish; B expresses a past wish.": "Were also expresses a wish about current height here, not a past wish.",
-        "Only B can express this wish in informal English.": "Was is a standard informal alternative in this singular wish clause, so A should not be excluded.",
-        "Both can express the same present wish.": "Both express a wish about present height. Were is the conventional irrealis form and also suits formal styles."
+        "A refers to a past wish; B expresses a present wish.": "'Was' can express the present unreal wish here; it need not place the wish in the past.",
+        "A expresses a present wish; B expresses a past wish.": "'Were' also expresses a wish about current height here, not a past wish.",
+        "Only B can express this wish in informal English.": "'Was' is a standard informal alternative in this singular wish clause, so A should not be excluded.",
+        "Both can express the same present wish.": "Both express a wish about present height. 'Were' is the conventional irrealis form and also suits formal styles."
       },
       "audit": {
         "status": "reviewed",
@@ -1719,12 +1719,12 @@
         "drinking"
       ],
       "answer": "drink",
-      "explanation": "Drink is the base form used with each runner in the requested mandative subjunctive.",
+      "explanation": "'Drink' is the base form used with 'each runner' in the requested mandative subjunctive.",
       "rationales": {
-        "drink": "Drink is the base form used with each runner in the requested mandative subjunctive.",
-        "drinks": "Drinks is an indicative form, not the base-form subjunctive requested; indicative recommendation patterns occur in some usage.",
-        "drank": "Drank is a past indicative form and does not supply the requested base-form recommendation.",
-        "drinking": "Drinking cannot serve as the finite predicate in this that clause on its own."
+        "drink": "'Drink' is the base form used with 'each runner' in the requested mandative subjunctive.",
+        "drinks": "'Drinks' is an indicative form, not the base-form subjunctive requested; indicative recommendation patterns occur in some usage.",
+        "drank": "'Drank' is a past indicative form and does not supply the requested base-form recommendation.",
+        "drinking": "'Drinking' cannot serve as the finite predicate in this 'that' clause on its own."
       },
       "audit": {
         "status": "reviewed",
@@ -1750,12 +1750,12 @@
         "being"
       ],
       "answer": "be",
-      "explanation": "Be is the base-form subjunctive following this statement of necessity.",
+      "explanation": "'Be' is the base-form subjunctive following this statement of necessity.",
       "rationales": {
         "is": "Is would be indicative rather than the requested subjunctive be.",
-        "be": "Be is the base-form subjunctive following this statement of necessity.",
-        "was": "Was describes a past state and is not the requested subjunctive form of the requirement.",
-        "being": "Being needs a finite auxiliary and cannot stand alone as this clause's verb."
+        "be": "'Be' is the base-form subjunctive following this statement of necessity.",
+        "was": "'Was' describes a past state and is not the requested subjunctive form of the requirement.",
+        "being": "'Being' needs a finite auxiliary and cannot stand alone as this clause's verb."
       },
       "audit": {
         "status": "reviewed",
@@ -1781,11 +1781,11 @@
         "not being"
       ],
       "answer": "not be",
-      "explanation": "Not goes directly before the base form be in this negative subjunctive request.",
+      "explanation": "'Not' goes directly before the base form 'be' in this negative subjunctive request.",
       "rationales": {
-        "does not be": "The mandative subjunctive does not use does before be to make its negative.",
+        "does not be": "The mandative subjunctive does not use 'does' before 'be' to make its negative.",
         "is not": "Is not is indicative, not the requested negative base-form subjunctive.",
-        "not be": "Not goes directly before the base form be in this negative subjunctive request.",
+        "not be": "'Not' goes directly before the base form 'be' in this negative subjunctive request.",
         "not being": "Not being is nonfinite and lacks the finite form required by the requested construction."
       },
       "audit": {
@@ -3408,7 +3408,7 @@
       "options": [
         "The narrator qualifies the metaphor, not the stated layout of the routes.",
         "The narrator is uncertain whether the pedestrian routes actually existed.",
-        "The narrator attributes the word spine to an unidentified earlier speaker.",
+        "The narrator attributes the word 'spine' to an unidentified earlier speaker.",
         "The narrator describes the route layout as a counterfactual alternative to the actual city."
       ],
       "answer": "The narrator qualifies the metaphor, not the stated layout of the routes.",
@@ -3416,7 +3416,7 @@
       "rationales": {
         "The narrator is uncertain whether the pedestrian routes actually existed.": "The qualifying phrase is attached to the metaphorical identification as a spine, not a doubt about the routes' existence.",
         "The narrator qualifies the metaphor, not the stated layout of the routes.": "'As it were' signals an approximate or figurative description; the account of branching routes remains an ordinary factual claim within the passage.",
-        "The narrator attributes the word spine to an unidentified earlier speaker.": "The expression does not function as a quotation attribution and supplies no prior speaker.",
+        "The narrator attributes the word 'spine' to an unidentified earlier speaker.": "The expression does not function as a quotation attribution and supplies no prior speaker.",
         "The narrator describes the route layout as a counterfactual alternative to the actual city.": "The formula does not place the city layout inside an unreal scenario; it marks the figurative way that layout is described."
       },
       "audit": {

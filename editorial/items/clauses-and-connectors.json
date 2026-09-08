@@ -45,11 +45,11 @@
         "so"
       ],
       "answer": "so",
-      "explanation": "So introduces what the speaker did as a result of forgetting the key.",
+      "explanation": "'So' introduces what the speaker did as a result of forgetting the key.",
       "rationales": {
         "because": "Because would make the call the reason for forgetting the key.",
         "but": "But introduces a contrast, not the requested result.",
-        "so": "So introduces what the speaker did as a result of forgetting the key.",
+        "so": "'So' introduces what the speaker did as a result of forgetting the key.",
         "or": "Or presents alternatives instead of the resulting action."
       },
       "audit": {
@@ -112,7 +112,7 @@
         "and": "And adds eggs to milk: buy both.",
         "or": "Or offers a choice instead of requiring both items.",
         "but": "But introduces a contrast, not a simple shopping list.",
-        "because": "Because introduces a reason and cannot join these two list items."
+        "because": "'Because' introduces a reason and cannot join these two list items."
       },
       "audit": {
         "status": "reviewed",
@@ -174,7 +174,7 @@
         "and": "And asks about the two drinks together, not the requested choice of one.",
         "or": "Or presents juice and water as alternatives.",
         "because": "Because would introduce a reason, not a drink choice.",
-        "so": "So introduces a result and cannot connect these alternatives."
+        "so": "'So' introduces a result and cannot connect these alternatives."
       },
       "audit": {
         "status": "reviewed",
@@ -236,7 +236,7 @@
         "after": "After places the call later than finishing work.",
         "before": "Before would place the call earlier than finishing.",
         "because": "Because gives finishing as a reason rather than explicitly ordering the events.",
-        "but": "But signals contrast, not the requested later time."
+        "but": "'But' signals contrast, not the requested later time."
       },
       "audit": {
         "status": "reviewed",
@@ -293,10 +293,10 @@
         "The blue one."
       ],
       "answer": "Because it's cold.",
-      "explanation": "Because introduces the reason for wearing the coat.",
+      "explanation": "'Because' introduces the reason for wearing the coat.",
       "rationales": {
         "At the bus stop.": "This answers where, not why.",
-        "Because it's cold.": "Because introduces the reason for wearing the coat.",
+        "Because it's cold.": "'Because' introduces the reason for wearing the coat.",
         "After nine o'clock.": "This answers when, not why.",
         "The blue one.": "This identifies a coat rather than explaining why it is needed."
       },
@@ -450,7 +450,7 @@
       "answer": "or",
       "explanation": "Under don't want, tea or coffee rejects both alternatives.",
       "rationales": {
-        "because": "Because cannot join the two unwanted drinks as alternatives.",
+        "because": "'Because' cannot join the two unwanted drinks as alternatives.",
         "so": "So would introduce a result rather than another unwanted drink.",
         "but": "But suggests a contrast that the statement rejecting both drinks does not intend.",
         "or": "Under don't want, tea or coffee rejects both alternatives."
@@ -484,7 +484,7 @@
         "and": "And connects the two actions sharing the subject Eva.",
         "unless": "Unless would introduce an exception, not simply add the second action.",
         "because": "Because would need a complete reason clause, such as because she needed her passport.",
-        "although": "Although would require a contrasting clause rather than directly adding took out here."
+        "although": "'Although' would require a contrasting clause rather than directly adding 'took out' here."
       },
       "audit": {
         "status": "reviewed",
@@ -510,10 +510,10 @@
         "or"
       ],
       "answer": "and",
-      "explanation": "And adds a second fact with a different subject.",
+      "explanation": "'And' adds a second fact with a different subject.",
       "rationales": {
         "because": "Because makes the partner's action a reason for cooking, rather than just adding a fact.",
-        "and": "And adds a second fact with a different subject.",
+        "and": "'And' adds a second fact with a different subject.",
         "unless": "Unless makes dishwashing an exception affecting cooking, not an additional fact.",
         "or": "Or offers alternative arrangements instead of describing both people's jobs."
       },
@@ -572,12 +572,12 @@
         "The speaker has no bicycle."
       ],
       "answer": "The bicycle has a flat tire.",
-      "explanation": "The words after because give the stated reason for walking.",
+      "explanation": "The words after 'because' give the stated reason for walking.",
       "rationales": {
         "The speaker likes walking.": "The message does not state a preference for walking.",
         "The road is closed.": "No road closure is mentioned.",
         "The speaker has no bicycle.": "The speaker has a bicycle, but its tire has a problem.",
-        "The bicycle has a flat tire.": "The words after because give the stated reason for walking."
+        "The bicycle has a flat tire.": "The words after 'because' give the stated reason for walking."
       },
       "audit": {
         "status": "reviewed",
@@ -665,12 +665,12 @@
         "so that"
       ],
       "answer": "because of",
-      "explanation": "Because of introduces the noun phrase a storm as the reason.",
+      "explanation": "'Because of' introduces the noun phrase 'a storm' as the reason.",
       "rationales": {
-        "because": "Because needs a clause, such as because a storm began.",
-        "although": "Although needs a clause here and would introduce contrast, not the requested reason.",
-        "because of": "Because of introduces the noun phrase a storm as the reason.",
-        "so that": "So that needs a clause expressing a purpose or result, not just a storm."
+        "because": "'Because' needs a clause, such as 'because a storm began'.",
+        "although": "'Although' needs a clause here and would introduce contrast, not the requested reason.",
+        "because of": "'Because of' introduces the noun phrase 'a storm' as the reason.",
+        "so that": "'So that' needs a clause expressing a purpose or result, not just 'a storm'."
       },
       "audit": {
         "status": "reviewed",
@@ -761,9 +761,9 @@
       "explanation": "To plus pay gives the purpose of going to the bank.",
       "rationales": {
         "because": "Because would need a full clause, such as because I needed to pay in a cheque.",
-        "so that": "So that needs a subject and verb, such as so that I could pay.",
+        "so that": "'So that' needs a subject and verb, such as 'so that I could pay'.",
         "to": "To plus pay gives the purpose of going to the bank.",
-        "for": "For does not directly introduce the base verb pay in this purpose phrase."
+        "for": "'For' does not directly introduce the base verb 'pay' in this purpose phrase."
       },
       "audit": {
         "status": "reviewed",
@@ -789,11 +789,11 @@
         "so that"
       ],
       "answer": "so that",
-      "explanation": "So that introduces the intended benefit for a different subject, everyone.",
+      "explanation": "'So that' introduces the intended benefit for a different subject, 'everyone'.",
       "rationales": {
         "even though": "Even though presents understanding as a fact in contrast, not the guide's purpose.",
-        "so that": "So that introduces the intended benefit for a different subject, everyone.",
-        "because of": "Because of cannot directly introduce the full clause everyone could understand.",
+        "so that": "'So that' introduces the intended benefit for a different subject, 'everyone'.",
+        "because of": "'Because of' cannot directly introduce the full clause 'everyone could understand'.",
         "until": "Until sets an endpoint rather than stating the intended benefit."
       },
       "audit": {
@@ -915,7 +915,7 @@
       "answer": "as soon as",
       "explanation": "As soon as asks for the message immediately after landing.",
       "rationales": {
-        "long before": "Long before would put the message well ahead of landing.",
+        "long before": "'Long before' would put the message well ahead of landing.",
         "as soon as": "As soon as asks for the message immediately after landing.",
         "unless": "Unless makes landing an exception to sending, rather than the trigger.",
         "even though": "Even though introduces a contrast and does not specify prompt timing."
@@ -944,12 +944,12 @@
         "before"
       ],
       "answer": "since",
-      "explanation": "Since introduces the past event from which the residence continues to now.",
+      "explanation": "'Since' introduces the past event from which the residence continues to now.",
       "rationales": {
-        "until": "Until marks an endpoint and would not give the requested beginning of the continuing residence.",
-        "during": "During takes a noun phrase, not the full clause I moved to this city.",
+        "until": "'Until' marks an endpoint and would not give the requested beginning of the continuing residence.",
+        "during": "'During' takes a noun phrase, not the full clause 'I moved to this city'.",
         "before": "Before places residence earlier than the move instead of starting with it.",
-        "since": "Since introduces the past event from which the residence continues to now."
+        "since": "'Since' introduces the past event from which the residence continues to now."
       },
       "audit": {
         "status": "reviewed",
@@ -1008,7 +1008,7 @@
       "answer": "or",
       "explanation": "Either ... or presents Tuesday and Thursday as the available alternatives.",
       "rationales": {
-        "nor": "Nor follows neither in a negative pair, not either in this offer.",
+        "nor": "'Nor' follows 'neither' in a negative pair, not 'either' in this offer.",
         "and": "And adds both days instead of completing the alternative pair either ... or.",
         "or": "Either ... or presents Tuesday and Thursday as the available alternatives.",
         "but": "But introduces contrast rather than completing the paired choice."
@@ -1068,12 +1068,12 @@
         "However"
       ],
       "answer": "However",
-      "explanation": "However introduces a positive feature that balances the small room.",
+      "explanation": "'However' introduces a positive feature that balances the small room.",
       "rationales": {
         "Therefore": "Therefore makes the view a result of the room being small.",
         "For example": "For example would make the view an example of small size.",
         "Then": "Then orders events in time rather than contrasting two features.",
-        "However": "However introduces a positive feature that balances the small room."
+        "However": "'However' introduces a positive feature that balances the small room."
       },
       "audit": {
         "status": "reviewed",
@@ -1103,7 +1103,7 @@
       "rationales": {
         "also": "Also adds charger sales to phone repairs.",
         "instead": "Instead would replace repairing phones with selling chargers.",
-        "otherwise": "Otherwise introduces an alternative situation or consequence, not another service.",
+        "otherwise": "'Otherwise' introduces an alternative situation or consequence, not another service.",
         "therefore": "Therefore presents sales as a conclusion from repairs, rather than simply adding information."
       },
       "audit": {
@@ -1166,7 +1166,7 @@
         "because of": "Because of would make the tools a reason for borrowing rather than examples.",
         "such as": "Such as introduces a hammer and a drill as examples of tools.",
         "instead of": "Instead of would present these tools as things replaced, not things included.",
-        "as soon as": "As soon as introduces a time clause, not a list of examples."
+        "as soon as": "'As soon as' introduces a time clause, not a list of examples."
       },
       "audit": {
         "status": "reviewed",
@@ -1254,12 +1254,12 @@
         "Since"
       ],
       "answer": "Despite",
-      "explanation": "Despite takes the noun phrase and marks the unexpected success of sleeping well.",
+      "explanation": "'Despite' takes the noun phrase and marks the unexpected success of sleeping well.",
       "rationales": {
-        "Although": "Although needs a clause here, such as although the road was noisy.",
+        "Although": "'Although' needs a clause here, such as 'although the road was noisy'.",
         "Because of": "Because of would make the noise a reason for sleeping well, not an obstacle overcome.",
-        "Despite": "Despite takes the noun phrase and marks the unexpected success of sleeping well.",
-        "Since": "Since does not directly introduce this noun phrase as a conceded obstacle."
+        "Despite": "'Despite' takes the noun phrase and marks the unexpected success of sleeping well.",
+        "Since": "'Since' does not directly introduce this noun phrase as a conceded obstacle."
       },
       "audit": {
         "status": "reviewed",
@@ -1290,7 +1290,7 @@
         "although": "Although contrasts facts rather than identifying the first possible starting point.",
         "until": "Not ... until postpones the start to the interpreter's arrival.",
         "because": "Because would make arrival the reason the meeting failed to start.",
-        "while": "While describes overlapping time rather than the endpoint of the delay."
+        "while": "'While' describes overlapping time rather than the endpoint of the delay."
       },
       "audit": {
         "status": "reviewed",
@@ -1409,12 +1409,12 @@
         "in spite of"
       ],
       "answer": "although",
-      "explanation": "Although introduces the complete clause describing an obstacle to staying open.",
+      "explanation": "'Although' introduces the complete clause describing an obstacle to staying open.",
       "rationales": {
-        "despite": "Despite needs a noun or -ing phrase here, not the unintroduced full clause there were.",
-        "although": "Although introduces the complete clause describing an obstacle to staying open.",
-        "because of": "Because of requires a noun phrase and would express reason rather than concession.",
-        "in spite of": "In spite of also needs a noun or -ing phrase, such as in spite of having few customers."
+        "despite": "'Despite' needs a noun or -ing phrase here, not the unintroduced full clause 'there were'.",
+        "although": "'Although' introduces the complete clause describing an obstacle to staying open.",
+        "because of": "'Because of' requires a noun phrase and would express reason rather than concession.",
+        "in spite of": "'In spite of' also needs a noun or -ing phrase, such as 'in spite of having few customers'."
       },
       "audit": {
         "status": "reviewed",
@@ -1440,12 +1440,12 @@
         "so"
       ],
       "answer": "so",
-      "explanation": "So + adjective + that expresses a degree of unclearness leading to the call.",
+      "explanation": "'So' + adjective + 'that' expresses a degree of unclearness leading to the call.",
       "rationales": {
-        "such": "Such normally introduces a noun phrase, such as such unclear instructions.",
+        "such": "'Such' normally introduces a noun phrase, such as 'such unclear instructions'.",
         "too": "Too normally leads to a to-infinitive result, not this that-clause.",
-        "enough": "Enough follows the adjective and does not form enough unclear that.",
-        "so": "So + adjective + that expresses a degree of unclearness leading to the call."
+        "enough": "'Enough' follows the adjective and does not form 'enough unclear that'.",
+        "so": "'So' + adjective + 'that' expresses a degree of unclearness leading to the call."
       },
       "audit": {
         "status": "reviewed",
@@ -1471,11 +1471,11 @@
         "enough"
       ],
       "answer": "such",
-      "explanation": "Such + a + adjective + noun can be followed by that and a result.",
+      "explanation": "'Such' + 'a' + adjective + noun can be followed by 'that' and a result.",
       "rationales": {
-        "such": "Such + a + adjective + noun can be followed by that and a result.",
-        "so": "So cannot directly precede a long queue in this pattern; use such a long queue.",
-        "too": "Too does not form too a long queue that.",
+        "such": "'Such' + 'a' + adjective + noun can be followed by 'that' and a result.",
+        "so": "'So' cannot directly precede 'a long queue' in this pattern; use 'such a long queue'.",
+        "too": "'Too' does not form 'too a long queue that'.",
         "enough": "Enough would follow a noun or adjective in a different structure, not precede a here."
       },
       "audit": {
@@ -1502,11 +1502,11 @@
         "in order not to"
       ],
       "answer": "in order not to",
-      "explanation": "In order not to plus wake expresses the intended prevention of an unwanted action.",
+      "explanation": "'In order not to' plus 'wake' expresses the intended prevention of an unwanted action.",
       "rationales": {
         "because I didn't": "Because I didn't gives an actual reason about not waking, not the purpose of setting the phone.",
         "even though I didn't": "Even though I didn't states a concession rather than an intended precaution.",
-        "in order not to": "In order not to plus wake expresses the intended prevention of an unwanted action.",
+        "in order not to": "'In order not to' plus 'wake' expresses the intended prevention of an unwanted action.",
         "in order to": "Without not, this gives waking the partner as the purpose, reversing the intended precaution."
       },
       "audit": {
@@ -1537,7 +1537,7 @@
       "rationales": {
         "We ordered a good meal because we couldn't read the menu.": "Because would make not understanding the menu a cause of the successful order.",
         "Even though we couldn't read the menu, we ordered a good meal.": "Even though concedes the actual difficulty and contrasts it with the successful result.",
-        "We couldn't read the menu so that we could order a good meal.": "So that turns the difficulty into a deliberate means to achieve a purpose.",
+        "We couldn't read the menu so that we could order a good meal.": "'So that' turns the difficulty into a deliberate means to achieve a purpose.",
         "We could read the menu, so we ordered a good meal.": "This changes the stated inability to read into an ability and makes it the cause of success."
       },
       "audit": {
@@ -1564,12 +1564,12 @@
         "Meanwhile"
       ],
       "answer": "Consequently",
-      "explanation": "Consequently marks the detour as a result of the bridge closure.",
+      "explanation": "'Consequently' marks the detour as a result of the bridge closure.",
       "rationales": {
         "Nevertheless": "Nevertheless would present the longer route as an unexpected contrast rather than a consequence.",
         "For instance": "For instance would make the drivers' route an example of the bridge closure, rather than a result of it.",
         "Meanwhile": "Meanwhile only places events at the same time and does not express the requested causal link.",
-        "Consequently": "Consequently marks the detour as a result of the bridge closure."
+        "Consequently": "'Consequently' marks the detour as a result of the bridge closure."
       },
       "audit": {
         "status": "reviewed",
@@ -1628,10 +1628,10 @@
       "answer": "Besides",
       "explanation": "Besides adds the work commitment as a further reason for not going.",
       "rationales": {
-        "Instead": "Instead introduces a replacement, not another reason to decline.",
-        "Otherwise": "Otherwise introduces a consequence of a different situation, not an additional obstacle.",
+        "Instead": "'Instead' introduces a replacement, not another reason to decline.",
+        "Otherwise": "'Otherwise' introduces a consequence of a different situation, not an additional obstacle.",
         "Besides": "Besides adds the work commitment as a further reason for not going.",
-        "Nevertheless": "Nevertheless introduces a contrast against the first reason, rather than reinforcing it."
+        "Nevertheless": "'Nevertheless' introduces a contrast against the first reason, rather than reinforcing it."
       },
       "audit": {
         "status": "reviewed",
@@ -1688,12 +1688,12 @@
         "despite"
       ],
       "answer": "though",
-      "explanation": "Sentence-final though means however here and contrasts enjoyment with the crowds.",
+      "explanation": "Sentence-final 'though' means 'however' here and contrasts enjoyment with the crowds.",
       "rationales": {
-        "although": "Although introduces a clause and cannot function alone as this final contrast marker.",
-        "even though": "Even though also needs a following clause rather than standing alone at the end.",
-        "despite": "Despite needs a complement, such as despite the crowds.",
-        "though": "Sentence-final though means however here and contrasts enjoyment with the crowds."
+        "although": "'Although' introduces a clause and cannot function alone as this final contrast marker.",
+        "even though": "'Even though' also needs a following clause rather than standing alone at the end.",
+        "despite": "'Despite' needs a complement, such as 'despite the crowds'.",
+        "though": "Sentence-final 'though' means 'however' here and contrasts enjoyment with the crowds."
       },
       "audit": {
         "status": "reviewed",
@@ -1781,12 +1781,12 @@
         "once before"
       ],
       "answer": "whenever",
-      "explanation": "Whenever means on every occasion that the membership is renewed.",
+      "explanation": "'Whenever' means on every occasion that the membership is renewed.",
       "rationales": {
-        "until": "Until marks an endpoint for sending, not a receipt for each renewal.",
-        "whenever": "Whenever means on every occasion that the membership is renewed.",
-        "although": "Although introduces a contrast and does not express repeated timing.",
-        "once before": "Once before describes a single earlier occasion rather than every renewal."
+        "until": "'Until' marks an endpoint for sending, not a receipt for each renewal.",
+        "whenever": "'Whenever' means on every occasion that the membership is renewed.",
+        "although": "'Although' introduces a contrast and does not express repeated timing.",
+        "once before": "'Once before' describes a single earlier occasion rather than every renewal."
       },
       "audit": {
         "status": "reviewed",
@@ -1846,7 +1846,7 @@
       "explanation": "Because presents the confirmed parking service as the reason that motivated the booking.",
       "rationales": {
         "We booked the hotel because we could park there for free.": "Because presents the confirmed parking service as the reason that motivated the booking.",
-        "We booked the hotel so that we could park there for free.": "So that expresses the intended purpose of booking rather than explicitly giving the established benefit as a reason.",
+        "We booked the hotel so that we could park there for free.": "'So that' expresses the intended purpose of booking rather than explicitly giving the established benefit as a reason.",
         "We booked the hotel although we could park there for free.": "Although contrasts the parking benefit with booking, contrary to its motivating role.",
         "We booked the hotel until we could park there for free.": "Until makes parking an endpoint of a booking period rather than the reason for choosing the hotel."
       },
@@ -2031,9 +2031,9 @@
       "answer": "thereby",
       "explanation": "Thereby connects the action to an effect achieved through that action.",
       "rationales": {
-        "nevertheless": "Nevertheless marks an unexpected contrast, not a result achieved by the route change.",
+        "nevertheless": "'Nevertheless' marks an unexpected contrast, not a result achieved by the route change.",
         "thereby": "Thereby connects the action to an effect achieved through that action.",
-        "otherwise": "Otherwise describes a different situation or other respects, not the stated effect of combining routes.",
+        "otherwise": "'Otherwise' describes a different situation or other respects, not the stated effect of combining routes.",
         "instead": "Instead suggests replacement rather than identifying the fuel reduction as a result of the combination."
       },
       "audit": {
@@ -2158,7 +2158,7 @@
         "While the manager was away, I handled the complaint.": "While explicitly highlights the shared period and may retain ambiguity about the intended relationship.",
         "Because the manager was away, I handled the complaint.": "Because directly identifies the absence as the reason for taking responsibility.",
         "When the manager was away, I handled the complaint.": "When specifies a time and does not explicitly state the causal link.",
-        "Throughout the manager's absence, I handled the complaint.": "Throughout describes duration over the absence rather than identifying the reason."
+        "Throughout the manager's absence, I handled the complaint.": "'Throughout' describes duration over the absence rather than identifying the reason."
       },
       "audit": {
         "status": "reviewed",
@@ -2372,7 +2372,7 @@
       "answer": "that is",
       "explanation": "That is introduces a clarification giving the same amount in another form.",
       "rationales": {
-        "for instance": "For instance introduces an example, but 25 percent is an equivalent expression of the whole amount.",
+        "for instance": "'For instance' introduces an example, but 25 percent is an equivalent expression of the whole amount.",
         "in contrast": "In contrast would suggest a difference between equal quantities.",
         "as a result": "As a result would make 25 percent a consequence rather than a restatement.",
         "that is": "That is introduces a clarification giving the same amount in another form."
@@ -2592,7 +2592,7 @@
         "insofar as": "Insofar as limits the survey's value to the specified respect, reported preferences.",
         "even though": "Even though would cast revealing preferences as a concession rather than the basis and limit of usefulness.",
         "now that": "Now that emphasizes a new factual circumstance rather than restricting the scope of the claim.",
-        "so that": "So that expresses purpose, not the extent or respect in which the survey is informative."
+        "so that": "'So that' expresses purpose, not the extent or respect in which the survey is informative."
       },
       "audit": {
         "status": "reviewed",
@@ -2618,11 +2618,11 @@
         "until"
       ],
       "answer": "inasmuch as",
-      "explanation": "Inasmuch as introduces the respect or reason that makes the comparison misleading; the following clause excludes a different reason.",
+      "explanation": "'Inasmuch as' introduces the respect or reason that makes the comparison misleading; the following clause excludes a different reason.",
       "rationales": {
         "lest": "Lest introduces an event to prevent, not an existing reason for criticism.",
         "even though": "Even though concedes the different periods rather than making them the stated basis of the criticism.",
-        "inasmuch as": "Inasmuch as introduces the respect or reason that makes the comparison misleading; the following clause excludes a different reason.",
+        "inasmuch as": "'Inasmuch as' introduces the respect or reason that makes the comparison misleading; the following clause excludes a different reason.",
         "until": "Until creates a time endpoint, which does not express the methodological criticism."
       },
       "audit": {
@@ -2680,12 +2680,12 @@
         "Negotiating and reaching agreement were equally difficult."
       ],
       "answer": "Although the negotiations were difficult, both sides reached an agreement.",
-      "explanation": "Fronted adjective + as + subject + verb expresses concession here, equivalent to although.",
+      "explanation": "Fronted adjective + 'as' + subject + verb expresses concession here, equivalent to 'although'.",
       "rationales": {
         "The sides agreed because the negotiations were difficult.": "Because makes difficulty the cause of agreement instead of a conceded obstacle.",
         "Agreement was possible only while the negotiations remained difficult.": "This turns a conceded obstacle into a necessary time condition for agreement.",
         "Negotiating and reaching agreement were equally difficult.": "This changes concessive as into a comparison of degrees of difficulty.",
-        "Although the negotiations were difficult, both sides reached an agreement.": "Fronted adjective + as + subject + verb expresses concession here, equivalent to although."
+        "Although the negotiations were difficult, both sides reached an agreement.": "Fronted adjective + 'as' + subject + verb expresses concession here, equivalent to 'although'."
       },
       "audit": {
         "status": "reviewed",
@@ -2991,11 +2991,11 @@
         "Notwithstanding"
       ],
       "answer": "Notwithstanding",
-      "explanation": "Notwithstanding means despite and highlights that the decision runs against the advice.",
+      "explanation": "'Notwithstanding' means 'despite' and highlights that the decision runs against the advice.",
       "rationales": {
         "In accordance with": "In accordance with would say the decision followed the advice, but the advice was to postpone.",
         "As a consequence of": "As a consequence of treats the advice as a cause rather than explicitly conceding its contrary direction.",
-        "Notwithstanding": "Notwithstanding means despite and highlights that the decision runs against the advice.",
+        "Notwithstanding": "'Notwithstanding' means 'despite' and highlights that the decision runs against the advice.",
         "For the purpose of": "For the purpose of gives an intended goal, not an acknowledged contrary recommendation."
       },
       "audit": {
@@ -3022,11 +3022,11 @@
         "The versions will become identical after the glossary is added."
       ],
       "answer": "The glossary is presented as the exception to their identity.",
-      "explanation": "Save that means except that and isolates the added glossary as the stated difference.",
+      "explanation": "'Save that' means 'except that' and isolates the added glossary as the stated difference.",
       "rationales": {
         "The versions differ throughout because a glossary was added.": "Save that limits the difference rather than extending it throughout the versions.",
-        "The glossary is presented as the exception to their identity.": "Save that means except that and isolates the added glossary as the stated difference.",
-        "The revised version replaces the original text with a glossary.": "Includes does not mean replaces; the other text remains identical according to the statement.",
+        "The glossary is presented as the exception to their identity.": "'Save that' means 'except that' and isolates the added glossary as the stated difference.",
+        "The revised version replaces the original text with a glossary.": "'Includes' does not mean 'replaces'; the other text remains identical according to the statement.",
         "The versions will become identical after the glossary is added.": "The sentence compares existing versions and reports no future step toward identity."
       },
       "audit": {
@@ -3086,7 +3086,7 @@
       "answer": "It identifies an unresolved question that the panel discussed.",
       "explanation": "The clause supplies the content of the debate as an open yes-or-no issue.",
       "rationales": {
-        "It states that the evidence justified a second trial.": "Whether introduces the issue for debate, not an assertion of the positive answer.",
+        "It states that the evidence justified a second trial.": "'Whether' introduces the issue for debate, not an assertion of the positive answer.",
         "It gives the cause of holding a second trial.": "The sentence reports discussion and does not report a second trial being held.",
         "It identifies an unresolved question that the panel discussed.": "The clause supplies the content of the debate as an open yes-or-no issue.",
         "It sets a condition that automatically requires another trial.": "This is an embedded question, not a rule stating a sufficient condition for a trial."
@@ -3179,7 +3179,7 @@
       "answer": "The editor retained it to avoid making the conclusion seem unjustifiably strong.",
       "explanation": "The unwanted outcome is an impression of excessive strength; retaining the qualification is intended to prevent it.",
       "rationales": {
-        "The editor retained it because the conclusion had already been proved too strong.": "Lest expresses prevention of a possible appearance, not a finding already proved.",
+        "The editor retained it because the conclusion had already been proved too strong.": "'Lest' expresses prevention of a possible appearance, not a finding already proved.",
         "The editor retained it to make the conclusion seem more forceful.": "This promotes the outcome the editor intended to prevent.",
         "The editor retained it despite knowing the conclusion could not seem too strong.": "This turns a feared risk into a denied possibility and changes prevention into concession.",
         "The editor retained it to avoid making the conclusion seem unjustifiably strong.": "The unwanted outcome is an impression of excessive strength; retaining the qualification is intended to prevent it."
@@ -3208,9 +3208,9 @@
         "The missing record caused the whole archive to become incomplete."
       ],
       "answer": "The archive's incompleteness weakens the proposed inference from missing documentation.",
-      "explanation": "Given that adopts incompleteness as a premise; the main clause limits what a missing record can establish on its own.",
+      "explanation": "'Given that' adopts incompleteness as a premise; the main clause limits what a missing record can establish on its own.",
       "rationales": {
-        "The archive's incompleteness weakens the proposed inference from missing documentation.": "Given that adopts incompleteness as a premise; the main clause limits what a missing record can establish on its own.",
+        "The archive's incompleteness weakens the proposed inference from missing documentation.": "'Given that' adopts incompleteness as a premise; the main clause limits what a missing record can establish on its own.",
         "The archive's incompleteness proves the transaction occurred.": "Failure to prove nonoccurrence does not prove occurrence.",
         "The writer merely hypothesizes that the archive might be incomplete.": "Given that presents incompleteness as accepted for this argument, rather than marking it as a mere possibility.",
         "The missing record caused the whole archive to become incomplete.": "The relationship concerns evidential support, not a claim about how the archive became incomplete."
@@ -3616,7 +3616,7 @@
         "Independent checking is presented as the mechanism that caused the error.": "The because-clause explains the degree of concern, not the physical or procedural cause of the error.",
         "Independent checking makes the writer less concerned about the error.": "All the more explicitly intensifies concern rather than reducing it.",
         "Prior checking strengthens the reason for concern because the error is harder to explain away.": "The clause gives a reason for the writer's stronger evaluation: the error persisted despite a safeguard.",
-        "The writer is uncertain whether the figures were checked.": "Had already been checked is presented as an established fact in the explanation."
+        "The writer is uncertain whether the figures were checked.": "'Had already been checked' is presented as an established fact in the explanation."
       },
       "audit": {
         "status": "reviewed",

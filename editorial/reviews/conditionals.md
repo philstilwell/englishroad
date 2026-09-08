@@ -19,14 +19,14 @@ If it rains tomorrow, I will ___ at home.
 3. stays
 4. to stay
 
-**Explanation:** Will takes the base form stay to describe the plan for tomorrow.
+**Explanation:** 'Will' takes the base form 'stay' to describe the plan for tomorrow.
 
 **Choice feedback:**
 
-- **stay:** Will takes the base form stay to describe the plan for tomorrow.
+- **stay:** 'Will' takes the base form 'stay' to describe the plan for tomorrow.
 - **staying:** After will, use stay, not the -ing form.
-- **stays:** Do not add -s to a verb after will.
-- **to stay:** Will is followed directly by stay, without to.
+- **stays:** Do not add '-s' to a verb after 'will'.
+- **to stay:** 'Will' is followed directly by 'stay', without 'to'.
 
 **Decision:** replaced.
 
@@ -51,13 +51,13 @@ You can sit here if the seat ___ free.
 3. are
 4. am
 
-**Explanation:** The seat is singular, so the condition uses is free.
+**Explanation:** The seat is singular, so the condition uses 'is free'.
 
 **Choice feedback:**
 
-- **is:** The seat is singular, so the condition uses is free.
-- **be:** The seat needs a present-tense verb; use is, not be.
-- **are:** Are goes with plural subjects or you, not the seat.
+- **is:** The seat is singular, so the condition uses 'is free'.
+- **be:** The seat needs a present-tense verb; use 'is', not 'be'.
+- **are:** 'Are' goes with plural subjects or 'you', not the seat.
 - **am:** Am goes with I, not the seat.
 
 **Decision:** replaced.
@@ -83,13 +83,13 @@ If you need help, ___ me.
 3. call **[Correct]**
 4. to call
 
-**Explanation:** Call is the base verb used to give the instruction after the condition.
+**Explanation:** 'Call' is the base verb used to give the instruction after the condition.
 
 **Choice feedback:**
 
 - **calls:** A direct instruction uses call, without -s.
 - **calling:** Calling alone cannot give this instruction.
-- **call:** Call is the base verb used to give the instruction after the condition.
+- **call:** 'Call' is the base verb used to give the instruction after the condition.
 - **to call:** An instruction begins with call, not to call.
 
 **Decision:** replaced.
@@ -115,11 +115,11 @@ Choose the meaning of the message.
 3. When you want directions.
 4. When you want a shower.
 
-**Explanation:** Hungry means wanting food; the speaker tells you where to find some.
+**Explanation:** 'Hungry' means wanting food; the speaker tells you where to find some.
 
 **Choice feedback:**
 
-- **When you want food.:** Hungry means wanting food; the speaker tells you where to find some.
+- **When you want food.:** 'Hungry' means wanting food; the speaker tells you where to find some.
 - **When you want sleep.:** Wanting sleep means being tired, not hungry.
 - **When you want directions.:** The message offers food, not help finding a place.
 - **When you want a shower.:** A shower is for washing; hungry describes needing food.
@@ -151,9 +151,9 @@ If the bus is late, we ___ walk to work.
 
 **Choice feedback:**
 
-- **can to:** Can takes walk directly, without to.
-- **cans:** Can does not take an -s ending.
-- **are can:** Do not put are before can; can is already the helping verb.
+- **can to:** 'Can' takes 'walk' directly, without 'to'.
+- **cans:** 'Can' does not take an '-s' ending.
+- **are can:** Do not put 'are' before 'can'; 'can' is already the helping verb.
 - **can:** Can walk gives an available choice when the bus is late.
 
 **Decision:** replaced.
@@ -179,14 +179,14 @@ If you ___ cold, close the window.
 3. be
 4. are **[Correct]**
 
-**Explanation:** You takes are: if you are cold.
+**Explanation:** 'You' takes 'are': 'if you are cold'.
 
 **Choice feedback:**
 
-- **is:** Is does not agree with you.
+- **is:** 'Is' does not agree with 'you'.
 - **am:** Am belongs with I, not you.
-- **be:** Use are as the present-tense verb after you.
-- **are:** You takes are: if you are cold.
+- **be:** Use 'are' as the present-tense verb after 'you'.
+- **are:** 'You' takes 'are': 'if you are cold'.
 
 **Decision:** replaced.
 
@@ -275,14 +275,14 @@ If my phone ___, please answer it.
 3. to ring
 4. rings **[Correct]**
 
-**Explanation:** My phone takes rings in this present-tense condition.
+**Explanation:** 'My phone' takes 'rings' in this present-tense condition.
 
 **Choice feedback:**
 
-- **ring:** My phone is singular, so add -s in the present simple.
-- **ringing:** Ringing needs a helping verb; it cannot stand here alone.
+- **ring:** 'My phone' is singular, so add '-s' in the present simple.
+- **ringing:** 'Ringing' needs a helping verb; it cannot stand here alone.
 - **to ring:** To ring is not a complete verb for the subject my phone.
-- **rings:** My phone takes rings in this present-tense condition.
+- **rings:** 'My phone' takes 'rings' in this present-tense condition.
 
 **Decision:** replaced.
 
@@ -343,10 +343,10 @@ Take this umbrella if you ___ one.
 
 **Choice feedback:**
 
-- **needs:** After you, the present-simple verb is need, without -s.
+- **needs:** After 'you', the present-simple verb is 'need', without '-s'.
 - **needing:** Needing alone does not complete the condition.
 - **need:** You need completes the condition; one refers to an umbrella.
-- **to need:** To need cannot serve as the complete verb after you.
+- **to need:** 'To need' cannot serve as the complete verb after 'you'.
 
 **Decision:** replaced.
 
@@ -375,7 +375,7 @@ Choose the meaning that matches the message.
 
 **Choice feedback:**
 
-- **You must leave now.:** Enter means go in, not leave.
+- **You must leave now.:** 'Enter' means go in, not leave.
 - **You can turn off the light.:** The message gives permission to enter, not to use the light switch.
 - **You must wait outside.:** Waiting outside does not match the permission to enter when the light is green.
 - **You can go in.:** The green-light condition is true, so the message permits entry.
@@ -409,7 +409,7 @@ If there ___ two cups, we can have tea together.
 
 - **are:** There are introduces more than one cup.
 - **have:** There have does not introduce the existence of the cups; use there are.
-- **am:** Am can follow I, not there with two cups.
+- **am:** 'Am' can follow 'I', not 'there' with 'two cups'.
 - **be:** This condition needs the present-tense form are, not be.
 
 **Decision:** replaced.
@@ -435,14 +435,14 @@ I'll make coffee if you ___ tea.
 3. don't wants
 4. don't want **[Correct]**
 
-**Explanation:** You don't want uses don't plus the base verb to make a negative condition.
+**Explanation:** "You don't want" uses "don't" plus the base verb to make a negative condition.
 
 **Choice feedback:**
 
 - **doesn't want:** With you, use don't, not doesn't.
-- **not want:** Add don't before want to form this negative present-tense clause.
+- **not want:** Add "don't" before 'want' to form this negative present-tense clause.
 - **don't wants:** After don't, use want without -s.
-- **don't want:** You don't want uses don't plus the base verb to make a negative condition.
+- **don't want:** "You don't want" uses "don't" plus the base verb to make a negative condition.
 
 **Decision:** replaced.
 
@@ -467,12 +467,12 @@ Choose the instruction that matches the situation.
 3. Open the door.
 4. Turn on the light.
 
-**Explanation:** Thirsty means needing a drink, so the water instruction applies.
+**Explanation:** 'Thirsty' means needing a drink, so the water instruction applies.
 
 **Choice feedback:**
 
 - **Sit down.:** Sitting down is the instruction for being tired, not thirsty.
-- **Have some water.:** Thirsty means needing a drink, so the water instruction applies.
+- **Have some water.:** 'Thirsty' means needing a drink, so the water instruction applies.
 - **Open the door.:** Opening the door is not an instruction in this message.
 - **Turn on the light.:** The message gives no instruction about a light.
 
@@ -504,7 +504,7 @@ If Sam ___ at work, call his home number.
 **Choice feedback:**
 
 - **isn't:** Isn't means is not and agrees with the singular subject Sam.
-- **not is:** Put not after is: is not, or isn't.
+- **not is:** Put 'not' after 'is': 'is not', or "isn't".
 - **doesn't is:** Do not use doesn't with is; negate is directly.
 - **aren't:** Sam is one person, so use isn't, not aren't.
 
@@ -535,9 +535,9 @@ Choose the words that give the condition.
 
 **Choice feedback:**
 
-- **Open the door.:** Open the door is the action to take, not the condition.
+- **Open the door.:** 'Open the door' is the action to take, not the condition.
 - **The room is hot.:** The words after if describe the situation that makes the instruction useful.
-- **The door is hot.:** Hot describes the room in the message, not the door.
+- **The door is hot.:** 'Hot' describes the room in the message, not the door.
 - **The room is open.:** The message does not say the room is open.
 
 **Decision:** replaced.
@@ -569,7 +569,7 @@ Can I use your chair if you ___ need it?
 
 - **doesn't:** Doesn't goes with he, she or it, not you.
 - **don't:** You don't need forms the negative condition in this request.
-- **isn't:** Isn't cannot be followed directly by the base verb need here.
+- **isn't:** "Isn't" cannot be followed directly by the base verb 'need' here.
 - **not:** You need don't, not just not, to make this present-simple negative.
 
 **Decision:** replaced.
@@ -634,7 +634,7 @@ ___ I have time on Saturday, I'll visit you.
 - **Because:** Because presents having time as a reason, rather than an open condition.
 - **If:** If leaves having time open and makes the visit depend on it.
 - **Before:** Before puts the visit earlier than having time; it does not express this condition.
-- **So:** So introduces a result and does not connect these clauses in the intended way.
+- **So:** 'So' introduces a result and does not connect these clauses in the intended way.
 
 **Decision:** replaced.
 
@@ -663,13 +663,13 @@ If it ___ tomorrow, we'll move the market indoors.
 3. raining
 4. rain
 
-**Explanation:** Rains describes the possible future condition; will belongs in the predicted result.
+**Explanation:** 'Rains' describes the possible future condition; 'will' belongs in the predicted result.
 
 **Choice feedback:**
 
-- **rains:** Rains describes the possible future condition; will belongs in the predicted result.
-- **will rain:** For this ordinary weather condition, use the present simple, not will in the if-clause.
-- **raining:** Raining needs a helping verb such as is.
+- **rains:** 'Rains' describes the possible future condition; 'will' belongs in the predicted result.
+- **will rain:** For this ordinary weather condition, use the present simple, not 'will' in the if-clause.
+- **raining:** 'Raining' needs a helping verb such as 'is'.
 - **rain:** It takes rains, with -s, in the present simple.
 
 **Decision:** replaced.
@@ -695,14 +695,14 @@ If you send me the address, I ___ you a postcard next week.
 3. have sent
 4. will send **[Correct]**
 
-**Explanation:** Will send expresses the future action promised if the address is provided.
+**Explanation:** 'Will send' expresses the future action promised if the address is provided.
 
 **Choice feedback:**
 
 - **sent:** Sent places the action in the past, not next week.
-- **sending:** Sending cannot stand alone as the main verb here.
-- **have sent:** Have sent describes a completed action, not the promised future one.
-- **will send:** Will send expresses the future action promised if the address is provided.
+- **sending:** 'Sending' cannot stand alone as the main verb here.
+- **have sent:** 'Have sent' describes a completed action, not the promised future one.
+- **will send:** 'Will send' expresses the future action promised if the address is provided.
 
 **Decision:** replaced.
 
@@ -732,9 +732,9 @@ If the lift ___ work, use the stairs.
 **Choice feedback:**
 
 - **doesn't:** Doesn't work forms the negative condition for a singular lift.
-- **don't:** The lift is singular, so its negative uses doesn't.
-- **isn't:** Isn't cannot directly precede the base verb work here.
-- **not:** A present-simple negative needs doesn't before work.
+- **don't:** The lift is singular, so its negative uses "doesn't".
+- **isn't:** "Isn't" cannot directly precede the base verb 'work' here.
+- **not:** A present-simple negative needs "doesn't" before 'work'.
 
 **Decision:** replaced.
 
@@ -791,13 +791,13 @@ Choose the sentence with the same meaning.
 3. Unless you book a table, we won't have seats. **[Correct]**
 4. If we have seats, you won't book a table.
 
-**Explanation:** Unless you book means if you don't book in this warning.
+**Explanation:** 'Unless you book' means "if you don't book" in this warning.
 
 **Choice feedback:**
 
 - **If you book a table, we won't have seats.:** This makes booking the condition for not having seats, reversing the warning.
 - **Unless you don't book a table, we won't have seats.:** The extra don't reverses the condition: it now applies when you do book.
-- **Unless you book a table, we won't have seats.:** Unless you book means if you don't book in this warning.
+- **Unless you book a table, we won't have seats.:** 'Unless you book' means "if you don't book" in this warning.
 - **If we have seats, you won't book a table.:** This reverses the relationship and predicts your booking behavior.
 
 **Decision:** replaced.
@@ -829,7 +829,7 @@ The parcel may not arrive today. ___ it arrives, I'll call you.
 
 - **If:** If keeps the arrival uncertain and links the call to it.
 - **Because:** Because treats the arrival as a reason, not an uncertain event.
-- **Although:** Although expresses a contrast; it does not make the call depend on arrival.
+- **Although:** 'Although' expresses a contrast; it does not make the call depend on arrival.
 - **Since:** Since would present arrival as a reason here rather than an open condition.
 
 **Decision:** replaced.
@@ -855,14 +855,14 @@ Ask about someone's plan if the last train is cancelled.
 3. What will you to do if the last train is cancelled?
 4. What will you do if the last train is cancelled? **[Correct]**
 
-**Explanation:** The question order is what + will + you + do; the if-clause states the situation.
+**Explanation:** The question order is 'what' + 'will' + 'you' + 'do'; the if-clause states the situation.
 
 **Choice feedback:**
 
 - **What you will do if the last train is cancelled?:** A direct question needs will before you.
 - **What will do you if the last train is cancelled?:** The subject you belongs between will and do.
-- **What will you to do if the last train is cancelled?:** Will takes do directly, without to.
-- **What will you do if the last train is cancelled?:** The question order is what + will + you + do; the if-clause states the situation.
+- **What will you to do if the last train is cancelled?:** 'Will' takes 'do' directly, without 'to'.
+- **What will you do if the last train is cancelled?:** The question order is 'what' + 'will' + 'you' + 'do'; the if-clause states the situation.
 
 **Decision:** replaced.
 
@@ -923,9 +923,9 @@ If you feel ill at work, you ___ tell your manager.
 
 **Choice feedback:**
 
-- **used to:** Used to describes a past habit, not current advice.
+- **used to:** 'Used to' describes a past habit, not current advice.
 - **have already:** Have already says telling is completed, not recommended.
-- **were going to:** Were going to describes an earlier intention, not advice now.
+- **were going to:** 'Were going to' describes an earlier intention, not advice now.
 - **should:** Should plus tell gives advice for the situation in the if-clause.
 
 **Decision:** replaced.
@@ -956,7 +956,7 @@ Charge your phone now ___ you need it later.
 **Choice feedback:**
 
 - **only if:** Only if makes charging depend on needing the phone, instead of describing preparation now.
-- **unless:** Unless means except if and reverses the intended reason for charging.
+- **unless:** 'Unless' means 'except if' and reverses the intended reason for charging.
 - **in case:** In case introduces the possible later need that you prepare for now.
 - **even though:** Even though treats the need as an accepted fact and introduces a contrast.
 
@@ -1052,9 +1052,9 @@ If you borrow a library laptop, you ___ return it by six.
 **Choice feedback:**
 
 - **may:** May gives permission or possibility; it does not state the return requirement.
-- **can:** Can expresses ability or permission, not an obligation.
+- **can:** 'Can' expresses ability or permission, not an obligation.
 - **must:** Must makes returning the laptop by six a requirement for borrowers.
-- **might:** Might expresses possibility and weakens the rule into an uncertain event.
+- **might:** 'Might' expresses possibility and weakens the rule into an uncertain event.
 
 **Decision:** replaced.
 
@@ -1086,7 +1086,7 @@ If you're late, I ___ leave without you.
 - **will:** Will leave says the speaker will go, which contradicts waiting.
 - **won't:** Won't leave is a negative promise: the speaker will wait for you.
 - **might:** Might leave keeps leaving possible; it does not promise to wait.
-- **can:** Can leave describes an available action, not a promise to stay.
+- **can:** 'Can leave' describes an available action, not a promise to stay.
 
 **Decision:** replaced.
 
@@ -1147,9 +1147,9 @@ If we leave at eight tomorrow, we ___ there before lunch.
 
 **Choice feedback:**
 
-- **would have got:** Would have got describes an imagined completed result, not this open future plan.
+- **would have got:** 'Would have got' describes an imagined completed result, not this open future plan.
 - **had got:** Had got places the arrival before a past reference point.
-- **got:** Got is past tense and does not express the intended future arrival.
+- **got:** 'Got' is past tense and does not express the intended future arrival.
 - **will get:** Will get gives the predicted result of leaving at eight tomorrow.
 
 **Decision:** replaced.
@@ -1175,14 +1175,14 @@ If your guests ___ early, ask them to wait in the garden.
 3. to arrive
 4. arrive **[Correct]**
 
-**Explanation:** The plural subject your guests takes arrive in the present simple.
+**Explanation:** The plural subject 'your guests' takes 'arrive' in the present simple.
 
 **Choice feedback:**
 
-- **arrives:** Guests is plural, so the present verb has no -s.
-- **arriving:** Arriving needs a helping verb to form a complete condition.
-- **to arrive:** To arrive cannot stand as the complete verb after your guests.
-- **arrive:** The plural subject your guests takes arrive in the present simple.
+- **arrives:** 'Guests' is plural, so the present verb has no '-s'.
+- **arriving:** 'Arriving' needs a helping verb to form a complete condition.
+- **to arrive:** 'To arrive' cannot stand as the complete verb after 'your guests'.
+- **arrive:** The plural subject 'your guests' takes 'arrive' in the present simple.
 
 **Decision:** replaced.
 
@@ -1214,7 +1214,7 @@ Choose the meaning of the question.
 - **Does the shop sell receipts?:** The question is about getting money back, not buying a receipt.
 - **Can I get a receipt without buying anything?:** The speaker already has a receipt and asks about returning with it.
 - **Is a refund possible when I show proof of payment?:** The speaker asks whether bringing the receipt meets the condition for getting money back.
-- **Does the shop need me to pay again?:** Money back refers to a refund, not making a second payment.
+- **Does the shop need me to pay again?:** 'Money back' refers to a refund, not making a second payment.
 
 **Decision:** replaced.
 
@@ -1244,7 +1244,7 @@ We can give you a lift ___ there is room in the car.
 **Choice feedback:**
 
 - **if:** If makes the offer depend on whether there is room.
-- **although:** Although introduces a contrast rather than the required condition.
+- **although:** 'Although' introduces a contrast rather than the required condition.
 - **because:** Because treats there being room as an established reason, not a condition still to check.
 - **unless:** Unless makes the offer apply if there is no room, reversing the intended condition.
 
@@ -1307,13 +1307,13 @@ I don't own a car. If I ___ one, I would drive to the coast more often.
 3. had **[Correct]**
 4. am having
 
-**Explanation:** Had marks imagined present ownership; it does not describe past ownership here.
+**Explanation:** 'Had' marks imagined present ownership; it does not describe past ownership here.
 
 **Choice feedback:**
 
 - **have:** Have presents ownership as an open real condition, not the stated imagined alternative.
 - **will have:** Will have looks ahead to ownership rather than imagining it now.
-- **had:** Had marks imagined present ownership; it does not describe past ownership here.
+- **had:** 'Had' marks imagined present ownership; it does not describe past ownership here.
 - **am having:** Am having is not the ordinary way to express owning a car.
 
 **Decision:** replaced.
@@ -1407,10 +1407,10 @@ If the clinic ___ open until eight next month, evening workers could attend.
 
 **Choice feedback:**
 
-- **had stayed:** Had stayed refers to an earlier hypothetical situation, not this open next-month decision.
-- **has been staying:** Has been staying describes an activity continuing up to a reference point, not the planned future opening policy here.
+- **had stayed:** 'Had stayed' refers to an earlier hypothetical situation, not this open next-month decision.
+- **has been staying:** 'Has been staying' describes an activity continuing up to a reference point, not the planned future opening policy here.
 - **stays:** Present simple can express an open future condition, and could gives a possible benefit.
-- **staying:** Staying alone does not form a complete if-clause.
+- **staying:** 'Staying' alone does not form a complete if-clause.
 
 **Decision:** replaced.
 
@@ -1435,14 +1435,14 @@ Choose the sentence with the same meaning.
 3. We can finish the repair even if the part doesn't arrive.
 4. We can't finish the repair if the part doesn't arrive. **[Correct]**
 
-**Explanation:** Unless the part arrives means if it does not arrive in this sentence.
+**Explanation:** 'Unless the part arrives' means 'if it does not arrive' in this sentence.
 
 **Choice feedback:**
 
 - **If the part arrives, we can't finish the repair.:** This makes arrival prevent completion, reversing the original requirement.
 - **The part won't arrive unless we finish the repair.:** This makes completing the repair a condition for the part arriving.
 - **We can finish the repair even if the part doesn't arrive.:** Even if removes the requirement for the part and contradicts the original.
-- **We can't finish the repair if the part doesn't arrive.:** Unless the part arrives means if it does not arrive in this sentence.
+- **We can't finish the repair if the part doesn't arrive.:** 'Unless the part arrives' means 'if it does not arrive' in this sentence.
 
 **Decision:** replaced.
 
@@ -1467,14 +1467,14 @@ With a quieter room, I would be able to record at home. If I had one, I ___ reco
 3. did
 4. have to
 
-**Explanation:** Could record means would be able to record under the imagined condition.
+**Explanation:** 'Could record' means would be able to record under the imagined condition.
 
 **Choice feedback:**
 
-- **must:** Must expresses obligation or a deduction, not the intended imagined ability.
-- **could:** Could record means would be able to record under the imagined condition.
+- **must:** 'Must' expresses obligation or a deduction, not the intended imagined ability.
+- **could:** 'Could record' means would be able to record under the imagined condition.
 - **did:** Did reports a past action and does not express ability here.
-- **have to:** Have to expresses a requirement, not the ability described.
+- **have to:** 'Have to' expresses a requirement, not the ability described.
 
 **Decision:** replaced.
 
@@ -1499,13 +1499,13 @@ You live in a busy city. Where would you move if you ___ a quieter life?
 3. wanted **[Correct]**
 4. have wanted
 
-**Explanation:** Wanted marks the imagined condition in this where-would-you question.
+**Explanation:** 'Wanted' marks the imagined condition in this 'where-would-you' question.
 
 **Choice feedback:**
 
 - **want:** Want leaves the condition open; the prompt asks for an imagined change paired with would move.
 - **will want:** Will want predicts a later desire rather than setting up the imagined present alternative.
-- **wanted:** Wanted marks the imagined condition in this where-would-you question.
+- **wanted:** 'Wanted' marks the imagined condition in this 'where-would-you' question.
 - **have wanted:** Have wanted focuses on desire before now, not the hypothetical choice being posed.
 
 **Decision:** replaced.
@@ -1535,7 +1535,7 @@ You can use the shared kitchen ___ you clean it afterwards.
 
 **Choice feedback:**
 
-- **even though:** Even though expresses a concession and treats cleaning as a fact, not a condition.
+- **even though:** 'Even though' expresses a concession and treats cleaning as a fact, not a condition.
 - **as long as:** As long as sets the condition that must be met for permission to use the kitchen.
 - **in case:** In case would make using the kitchen preparation for cleaning, which changes the relationship.
 - **so that:** So that gives a purpose: using the kitchen in order to clean it.
@@ -1627,14 +1627,14 @@ If I didn't ___ so far from work, I would cycle there.
 3. to live
 4. live **[Correct]**
 
-**Explanation:** Didn't takes the base verb live; the past form is carried by did.
+**Explanation:** "Didn't" takes the base verb 'live'; the past form is carried by 'did'.
 
 **Choice feedback:**
 
 - **lived:** Did already carries the past form, so use live rather than lived.
 - **living:** Didn't cannot take living directly in this condition.
 - **to live:** Do not add to after didn't.
-- **live:** Didn't takes the base verb live; the past form is carried by did.
+- **live:** "Didn't" takes the base verb 'live'; the past form is carried by 'did'.
 
 **Decision:** replaced.
 
@@ -1659,14 +1659,14 @@ When I worked nights last year, if I missed the staff bus, I ___ a taxi home.
 3. will take
 4. have taken
 
-**Explanation:** Took describes what actually happened repeatedly when the past condition occurred.
+**Explanation:** 'Took' describes what actually happened repeatedly when the past condition occurred.
 
 **Choice feedback:**
 
-- **took:** Took describes what actually happened repeatedly when the past condition occurred.
-- **take:** Take is present tense; the whole account is set last year.
-- **will take:** Will take predicts a future response, not the stated past routine.
-- **have taken:** Have taken does not fit the finished period last year in this past account.
+- **took:** 'Took' describes what actually happened repeatedly when the past condition occurred.
+- **take:** 'Take' is present tense; the whole account is set last year.
+- **will take:** 'Will take' predicts a future response, not the stated past routine.
+- **have taken:** 'Have taken' does not fit the finished period 'last year' in this past account.
 
 **Decision:** replaced.
 
@@ -1698,7 +1698,7 @@ If you ___ all the sections, you can click Submit now.
 - **have completed:** Have completed presents finishing as already achieved and relevant to the next step.
 - **will complete:** Will complete looks ahead and does not confirm completion before submitting now.
 - **are completing:** Are completing says the work is in progress, not finished.
-- **were completing:** Were completing describes work in progress in the past, not a finished prerequisite now.
+- **were completing:** 'Were completing' describes work in progress in the past, not a finished prerequisite now.
 
 **Decision:** replaced.
 
@@ -1729,7 +1729,7 @@ We're considering moving, but we haven't decided. If the landlord reduced the re
 
 - **might:** Might presents staying as one possible outcome of the imagined rent reduction.
 - **will certainly:** Will certainly makes staying definite, stronger than the uncertainty in the context.
-- **are required to:** Are required to introduces an obligation that the context does not state.
+- **are required to:** 'Are required to' introduces an obligation that the context does not state.
 - **have already:** Have already treats staying as completed rather than a possible future decision.
 
 **Decision:** replaced.
@@ -1755,12 +1755,12 @@ Choose the sentence that makes the implied condition explicit.
 3. If you miss the ferry, you won't leave now.
 4. Even if you leave now, you'll miss the ferry.
 
-**Explanation:** Otherwise refers to not following the instruction to leave now.
+**Explanation:** 'Otherwise' refers to not following the instruction to leave now.
 
 **Choice feedback:**
 
 - **If you leave now, you'll miss the ferry.:** This turns leaving into the cause of missing the ferry, reversing the warning.
-- **If you don't leave now, you'll miss the ferry.:** Otherwise refers to not following the instruction to leave now.
+- **If you don't leave now, you'll miss the ferry.:** 'Otherwise' refers to not following the instruction to leave now.
 - **If you miss the ferry, you won't leave now.:** This reverses the condition and result and changes the time relationship.
 - **Even if you leave now, you'll miss the ferry.:** Even if says leaving now will not help, which the original does not say.
 
@@ -1819,13 +1819,13 @@ If you ___ on Sunday morning, I can collect your parcel for you.
 3. are working **[Correct]**
 4. will have left work
 
-**Explanation:** Are working can refer to an arranged work shift on Sunday.
+**Explanation:** 'Are working' can refer to an arranged work shift on Sunday.
 
 **Choice feedback:**
 
 - **have finished work:** Have finished work presents the shift as completed, rather than in progress when help is offered.
 - **had stopped working:** Had stopped working imagines an earlier end to work, not an ongoing Sunday shift.
-- **are working:** Are working can refer to an arranged work shift on Sunday.
+- **are working:** 'Are working' can refer to an arranged work shift on Sunday.
 - **will have left work:** Will have left work looks ahead to departure already being complete, not work being in progress.
 
 **Decision:** replaced.
@@ -1855,7 +1855,7 @@ A says, 'If I win the prize, I'll take a year off.' B says, 'If I won the prize,
 
 **Choice feedback:**
 
-- **As something that happened last year.:** Won is a past form here, but it need not refer to a past event.
+- **As something that happened last year.:** 'Won' is a past form here, but it need not refer to a past event.
 - **As a plan already agreed with the employer.:** The sentence does not establish an agreed leave arrangement.
 - **As an event currently taking place.:** B is imagining winning, not describing winning in progress.
 - **As a more distant imagined possibility.:** Won with I'd presents the condition more remotely than win with I'll; it does not give a numerical probability.
@@ -1888,8 +1888,8 @@ If the owner agreed, the apartment could ___ to us for six months.
 **Choice feedback:**
 
 - **rent:** Rent makes the apartment the actor renting something, rather than the property offered.
-- **have renting:** Have renting does not form a passive verb phrase.
-- **be rent:** The passive needs the participle rented after be.
+- **have renting:** 'Have renting' does not form a passive verb phrase.
+- **be rent:** The passive needs the participle 'rented' after 'be'.
 - **be rented:** Could be rented is passive: someone would rent the apartment to us.
 
 **Decision:** replaced.
@@ -2015,13 +2015,13 @@ Choose the statement supported by the speaker's account.
 3. Saving a copy would have required restoration.
 4. The speaker is unsure whether a copy was saved.
 
-**Explanation:** Could have restored describes an ability that the imagined saved copy would have provided.
+**Explanation:** 'Could have restored' describes an ability that the imagined saved copy would have provided.
 
 **Choice feedback:**
 
-- **Saving a copy would have made restoration possible.:** Could have restored describes an ability that the imagined saved copy would have provided.
+- **Saving a copy would have made restoration possible.:** 'Could have restored' describes an ability that the imagined saved copy would have provided.
 - **The speaker restored the file from a saved copy.:** The speaker explicitly says no copy was saved and does not report restoration.
-- **Saving a copy would have required restoration.:** Could expresses possibility or ability, not a requirement to restore.
+- **Saving a copy would have required restoration.:** 'Could' expresses possibility or ability, not a requirement to restore.
 - **The speaker is unsure whether a copy was saved.:** The first sentence explicitly states that no copy was saved.
 
 **Decision:** replaced.
@@ -2053,7 +2053,7 @@ The guide is certain the shortcut would have saved enough time: 'If we'd used it
 
 - **might have missed:** Might have missed leaves missing possible, contrary to the guide's confident claim of avoiding the delay.
 - **would not have missed:** Would not have missed gives the confident negative past result intended by the guide.
-- **may have missed:** May have missed expresses uncertainty about missing, not the guide's firm alternative outcome.
+- **may have missed:** 'May have missed' expresses uncertainty about missing, not the guide's firm alternative outcome.
 - **would have missed:** Would have missed predicts the very failure the guide says the shortcut would have prevented.
 
 **Decision:** replaced.
@@ -2086,7 +2086,7 @@ The committee rejected the request. Extra funding was missing, but approval woul
 - **might have approved:** Might have approved presents approval as a possible unreal past outcome without guaranteeing it.
 - **would certainly have approved:** Would certainly have approved makes the alternative outcome certain, which the context explicitly denies.
 - **has approved:** Has approved reports actual approval, contradicting the rejection.
-- **must have approved:** Must have approved expresses a strong deduction about actual approval, not an uncertain alternative.
+- **must have approved:** 'Must have approved' expresses a strong deduction about actual approval, not an uncertain alternative.
 
 **Decision:** replaced.
 
@@ -2175,11 +2175,11 @@ Choose the interpretation of this open condition about a past event.
 3. The speaker imagines changing Ana's known departure time.
 4. The speaker is instructing Ana to take the next train.
 
-**Explanation:** Took refers to an uncertain past fact; the result is an expectation about now.
+**Explanation:** 'Took' refers to an uncertain past fact; the result is an expectation about now.
 
 **Choice feedback:**
 
-- **The speaker uses a possible past fact to estimate Ana's arrival.:** Took refers to an uncertain past fact; the result is an expectation about now.
+- **The speaker uses a possible past fact to estimate Ana's arrival.:** 'Took' refers to an uncertain past fact; the result is an expectation about now.
 - **The speaker knows Ana missed the nine o'clock train.:** The final sentence explicitly leaves Ana's train unknown.
 - **The speaker imagines changing Ana's known departure time.:** No departure time is known to be false, so this is not an imagined reversal of a known fact.
 - **The speaker is instructing Ana to take the next train.:** The sentence assesses an arrival; it gives Ana no instruction.
@@ -2239,14 +2239,14 @@ If the bridge ___ earlier, the weakness might have been discovered in time.
 3. had been inspecting
 4. had been inspected **[Correct]**
 
-**Explanation:** Had been inspected is past-perfect passive: an earlier inspection of the bridge is imagined.
+**Explanation:** 'Had been inspected' is past-perfect passive: an earlier inspection of the bridge is imagined.
 
 **Choice feedback:**
 
 - **had inspected:** Had inspected makes the bridge the inspector, not the object of inspection.
 - **has been inspecting:** Has been inspecting is active and present perfect, so it gives the bridge an ongoing inspecting role.
 - **had been inspecting:** Had been inspecting is also active; it describes the bridge performing an inspection.
-- **had been inspected:** Had been inspected is past-perfect passive: an earlier inspection of the bridge is imagined.
+- **had been inspected:** 'Had been inspected' is past-perfect passive: an earlier inspection of the bridge is imagined.
 
 **Decision:** replaced.
 
@@ -2271,14 +2271,14 @@ If you ___ the safety course by Friday, you can start on Monday.
 3. were completing
 4. had been completing
 
-**Explanation:** Have completed can mark completion by a future deadline inside an if-clause.
+**Explanation:** 'Have completed' can mark completion by a future deadline inside an if-clause.
 
 **Choice feedback:**
 
 - **are completing:** Are completing presents work in progress and does not establish completion by Friday.
-- **have completed:** Have completed can mark completion by a future deadline inside an if-clause.
+- **have completed:** 'Have completed' can mark completion by a future deadline inside an if-clause.
 - **were completing:** Were completing presents past or remote ongoing work, not the required completed future prerequisite.
-- **had been completing:** Had been completing describes an earlier ongoing process rather than completion by the specified deadline.
+- **had been completing:** 'Had been completing' describes an earlier ongoing process rather than completion by the specified deadline.
 
 **Decision:** replaced.
 
@@ -2303,14 +2303,14 @@ Choose the sentence with the same counterfactual meaning.
 3. Unless you had stayed silent, I would have signed the wrong document.
 4. If you hadn't warned me, I would have signed the wrong document. **[Correct]**
 
-**Explanation:** But for your warning means without that warning; the if-clause makes the absent-warning alternative explicit.
+**Explanation:** 'But for your warning' means 'without that warning'; the if-clause makes the absent-warning alternative explicit.
 
 **Choice feedback:**
 
 - **Because you warned me, I signed the wrong document.:** This makes the warning cause the mistake, reversing its protective role.
 - **Even if you had warned me, I would have signed the wrong document.:** Even if says the warning would not have prevented the mistake.
 - **Unless you had stayed silent, I would have signed the wrong document.:** Unless you had stayed silent applies when there was a warning, reversing the original condition.
-- **If you hadn't warned me, I would have signed the wrong document.:** But for your warning means without that warning; the if-clause makes the absent-warning alternative explicit.
+- **If you hadn't warned me, I would have signed the wrong document.:** 'But for your warning' means 'without that warning'; the if-clause makes the absent-warning alternative explicit.
 
 **Decision:** replaced.
 
@@ -2335,14 +2335,14 @@ If you ___ need an extra room during next month's conference, contact reception.
 3. used to
 4. should **[Correct]**
 
-**Explanation:** Should in this if-clause means if the need happens to arise.
+**Explanation:** 'Should' in this if-clause means if the need happens to arise.
 
 **Choice feedback:**
 
 - **did:** Did adds emphasis to a past-form need; it does not itself mark the tentative future contingency requested.
-- **must:** Must introduces necessity or an inference, not a tentative unexpected possibility.
-- **used to:** Used to refers to a former recurring need, not an unexpected need at next month's conference.
-- **should:** Should in this if-clause means if the need happens to arise.
+- **must:** 'Must' introduces necessity or an inference, not a tentative unexpected possibility.
+- **used to:** 'Used to' refers to a former recurring need, not an unexpected need at next month's conference.
+- **should:** 'Should' in this if-clause means if the need happens to arise.
 
 **Decision:** replaced.
 
@@ -2502,7 +2502,7 @@ I didn't know you were stranded. If you'd called, I ___ you up, but you chose to
 - **have picked:** Have picked reports an actual completed pickup, contrary to the account.
 - **will pick:** Will pick concerns a future pickup, not the missed opportunity last night.
 - **could have picked:** Could have picked presents a missed opportunity or available help in the unreal past situation.
-- **am picking:** Am picking describes an ongoing or arranged pickup, not the past alternative.
+- **am picking:** 'Am picking' describes an ongoing or arranged pickup, not the past alternative.
 
 **Decision:** replaced.
 
@@ -2595,11 +2595,11 @@ We rejected the merger in June and remain independent. ___ it, we would now be p
 3. Were we to approve
 4. If we approve
 
-**Explanation:** Had we approved means if we had approved; the inverted past condition can have a present result.
+**Explanation:** 'Had we approved' means 'if we had approved'; the inverted past condition can have a present result.
 
 **Choice feedback:**
 
-- **Had we approved:** Had we approved means if we had approved; the inverted past condition can have a present result.
+- **Had we approved:** 'Had we approved' means 'if we had approved'; the inverted past condition can have a present result.
 - **Should we approve:** Should we approve introduces an open future contingency, not the rejected June decision.
 - **Were we to approve:** Were we to approve imagines a prospective decision, not an alternative to June's completed decision.
 - **If we approve:** If we approve leaves approval open and prospective, contrary to the fixed past decision.
@@ -2659,12 +2659,12 @@ ___ a settlement, the mediation service will offer a second session.
 3. Were the parties not reaching
 4. If the parties should not reach
 
-**Explanation:** Should + subject + not + base verb gives a formal future contingency with the negative after the subject.
+**Explanation:** 'Should' + subject + 'not' + base verb gives a formal future contingency with the negative after the subject.
 
 **Choice feedback:**
 
 - **Had the parties not reached:** Had ... not reached describes a past condition, not the future contingency requested.
-- **Should the parties not reach:** Should + subject + not + base verb gives a formal future contingency with the negative after the subject.
+- **Should the parties not reach:** 'Should' + subject + 'not' + base verb gives a formal future contingency with the negative after the subject.
 - **Were the parties not reaching:** Were ... not reaching presents a hypothetical ongoing process rather than a failure to reach agreement at the next stage.
 - **If the parties should not reach:** This has the intended contingency meaning, but it retains if and is not an inverted condition.
 
@@ -2856,7 +2856,7 @@ Choose the conclusion warranted by this exception rule alone.
 **Choice feedback:**
 
 - **The hearing will proceed whether the chair adjourns it or not.:** This removes the stated exception involving adjournment.
-- **The chair is expected to adjourn the hearing.:** Unless introduces an exception without forecasting whether it will occur.
+- **The chair is expected to adjourn the hearing.:** 'Unless' introduces an exception without forecasting whether it will occur.
 - **The hearing has already been adjourned.:** The chair's decision is unknown; the rule reports no completed adjournment.
 - **If the chair does not adjourn it, the hearing will proceed.:** The rule guarantees proceeding in the absence of the specified exception.
 
@@ -2887,10 +2887,10 @@ Place the necessary condition first for emphasis.
 
 **Choice feedback:**
 
-- **Only if the board agrees the director may sign.:** Fronted only if requires inversion in the main clause: may the director sign.
+- **Only if the board agrees the director may sign.:** Fronted 'only if' requires inversion in the main clause: 'may the director sign'.
 - **Only if the board agrees may the director sign.:** The if-clause keeps normal order, while the main clause inverts may and the director.
-- **Only if agrees the board may the director sign.:** The conditional clause needs subject before verb: the board agrees.
-- **Only if the board agrees may sign the director.:** The main-clause subject belongs after may and before sign.
+- **Only if agrees the board may the director sign.:** The conditional clause needs subject before verb: 'the board agrees'.
+- **Only if the board agrees may sign the director.:** The main-clause subject belongs after 'may' and before 'sign'.
 
 **Decision:** replaced.
 
@@ -2952,7 +2952,7 @@ Choose the interpretation of the opening phrase.
 **Choice feedback:**
 
 - **The speaker certifies that the figures are accurate.:** The question leaves accuracy unverified rather than certifying it.
-- **The speaker reports that the figures used to be accurate.:** Were marks the hypothetical assumption here; it need not describe a past state.
+- **The speaker reports that the figures used to be accurate.:** 'Were' marks the hypothetical assumption here; it need not describe a past state.
 - **The speaker asks the analyst to reason from a temporary assumption.:** Supposing invites consideration of a premise without verifying or endorsing it.
 - **The speaker requires the analyst to change the figures.:** The requested action is reasoning about a recommendation, not altering data.
 
@@ -3431,14 +3431,14 @@ The curator trusted an unreliable account and now wishes she had checked it.
 3. If only I had checked the account before trusting it. **[Correct]**
 4. If only I check the account, the decision is mine.
 
-**Explanation:** If only plus past perfect expresses a wish that a completed past choice had been different.
+**Explanation:** 'If only' plus past perfect expresses a wish that a completed past choice had been different.
 
 **Choice feedback:**
 
 - **Only if I had checked the account would I have trusted it.:** Only if states a necessary condition for trusting; it does not express the curator's regret.
 - **If I check the account, I can decide whether to trust it.:** This sets up a current or future checking condition rather than wishing the past were different.
-- **If only I had checked the account before trusting it.:** If only plus past perfect expresses a wish that a completed past choice had been different.
-- **If only I check the account, the decision is mine.:** Here only restricts the subject I; it does not form the intended past regret.
+- **If only I had checked the account before trusting it.:** 'If only' plus past perfect expresses a wish that a completed past choice had been different.
+- **If only I check the account, the decision is mine.:** Here 'only' restricts the subject 'I'; it does not form the intended past regret.
 
 **Decision:** replaced.
 
@@ -3534,7 +3534,7 @@ Choose the equivalent condition for withholding access.
 - **Access must be withheld only when both checks are incomplete.:** The original triggers withholding when even one check is incomplete, not only when both are.
 - **If the two checks are not both complete, access must be withheld.:** Not both complete covers either incomplete check or both incomplete checks, preserving the original trigger.
 - **If either check is complete, access must be withheld.:** A complete check is not itself the reason for withholding; the other check's status matters.
-- **If neither check is incomplete, access must be withheld.:** Neither incomplete means both complete, reversing the triggering condition.
+- **If neither check is incomplete, access must be withheld.:** 'Neither incomplete' means 'both complete', reversing the triggering condition.
 
 **Decision:** replaced.
 
@@ -3628,7 +3628,7 @@ The overnight log shows no monitoring took place, and we are still reconstructin
 **Choice feedback:**
 
 - **had been monitoring:** Had been monitoring imagines sustained observation during the past outage; its information would be available now.
-- **is monitoring:** Is monitoring describes activity now, not an unreal activity during the completed outage.
+- **is monitoring:** 'Is monitoring' describes activity now, not an unreal activity during the completed outage.
 - **will have monitored:** Will have monitored places completion in the future and cannot supply the missing observation from the outage.
 - **were to start monitoring:** This imagines a prospective start rather than sustained observation during the completed outage.
 
