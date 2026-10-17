@@ -55,7 +55,7 @@ node cloudflare/verify.cjs https://englishroad.philstilwell.workers.dev
 node cloudflare/verify.cjs https://englishroad.com
 ```
 
-The verifier compares every public file with its local SHA-256 fingerprint, checks permanent redirects, filtered practice URLs, caching and indexing headers, and confirms that missing files and project sources return 404. `deployment.json` records the deployed commit and public-file fingerprints without exposing credentials.
+The verifier compares every public file with its local SHA-256 fingerprint, checks permanent redirects, filtered practice URLs, caching and indexing headers, and confirms that missing files and project sources return 404. It excludes only Cloudflare's known injected AI Labyrinth link and JavaScript-detection bootstrap before comparing HTML; authored content must still match exactly. `deployment.json` records the deployed commit and public-file fingerprints without exposing credentials.
 
 Namecheap remains the domain registrar. Cloudflare manages DNS and serves the site through Worker custom domains for the apex and `www`; the `www` hostname redirects to the apex. Domain registration renewals remain separate from the free static hosting.
 

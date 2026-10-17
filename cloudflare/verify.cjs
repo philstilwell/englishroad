@@ -11,6 +11,22 @@ const manifest = JSON.parse(fs.readFileSync(path.join(root, '.cf-site/deployment
 // curl still validates the domain's HTTPS certificate.
 const connection = process.argv[3] ? ['--resolve', `${origin.hostname}:${origin.port || (origin.protocol === 'https:' ? 443 : 80)}:${process.argv[3]}`] : [];
 const errors = [];
+function fingerprint(file, body) {
+  if (file.endsWith('.html')) {
+    // Cloudflare adds a hidden AI Labyrinth link and a JavaScript-detection
+    // bootstrap to some responses. Remove only those observed edge additions;
+    // all authored HTML, metadata, scripts and whitespace must still match.
+    let html = body.toString('utf8');
+    html = html.replace(/<a href="https:\/\/englishroad\.com\/cdn-cgi\/content\?id=[^"<>]+" aria-hidden="true" rel="nofollow noopener" style="display: none !important; visibility: hidden !important"><\/a>/g, '');
+    html = html.replace(/<script>[^<]*<\/script>/g, script =>
+      script.startsWith('<script>(function(){function c(){var b=a.contentDocument') &&
+      script.includes('window.__CF$cv$params=') &&
+      script.includes("a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js'") &&
+      script.endsWith('}})();</script>') ? '' : script);
+    body = Buffer.from(html);
+  }
+  return crypto.createHash('sha256').update(body).digest('hex');
+}
 function get(file) {
   return new Promise((resolve, reject) => {
     cp.execFile('curl', [...connection,'--silent','--show-error','--fail','--max-time','30','--user-agent','English-family-deploy-check',new URL(file, origin).href], {encoding:'buffer',maxBuffer:30*1024*1024}, (err, body) => err ? reject(new Error(`Could not fetch ${file}`)) : resolve(body));
@@ -24,7 +40,7 @@ function get(file) {
       const [file, expected] = entries[next++];
       try {
         const body = await get(file === 'index.html' ? '/' : file);
-        const actual = crypto.createHash('sha256').update(body).digest('hex');
+        const actual = fingerprint(file, body);
         if (actual !== expected) errors.push(`${file}: content mismatch`);
       } catch (e) { errors.push(e.message); }
     }
@@ -36,7 +52,7 @@ function get(file) {
     if (cache !== expected) errors.push(`${file}: unexpected cache policy ${cache}`);
   }
   const home = await get('/');
-  if (crypto.createHash('sha256').update(home).digest('hex') !== manifest.files['index.html']) errors.push('Homepage mismatch');
+  if (fingerprint('index.html', home) !== manifest.files['index.html']) errors.push('Homepage mismatch');
   const aliases = [['/index.html', '/'], ['/practice', '/practice.html'], ['/level-check', '/level-check.html'], ['/about', '/about.html']];
   for (const [alias, target] of aliases) {
     const headers = cp.execFileSync('curl', [...connection, '-sSI', '--max-time', '30', new URL(alias, origin).href], {encoding:'utf8'});
@@ -46,7 +62,7 @@ function get(file) {
   }
   // Filters must stay usable and point search engines to the main practice URL.
   const filtered = await get('/practice.html?level=B1&topic=Articles');
-  if (crypto.createHash('sha256').update(filtered).digest('hex') !== manifest.files['practice.html']) errors.push('Filtered practice page mismatch');
+  if (fingerprint('practice.html', filtered) !== manifest.files['practice.html']) errors.push('Filtered practice page mismatch');
   if (questionFile) {
     const headers = cp.execFileSync('curl', [...connection, '-sSI', '--max-time', '30', new URL(questionFile, origin).href], {encoding:'utf8'});
     if (!/^x-robots-tag:[^\r\n]*\bnoindex\b/mi.test(headers)) errors.push('Question JSON should be accessible to the quiz but excluded from search results');
@@ -57,5 +73,5 @@ function get(file) {
     if (status !== '404') errors.push(`${missing}: expected 404, got ${status}`);
   }
   if (errors.length) throw new Error(errors.join('\n'));
-  console.log(`Verified ${entries.length} files byte for byte, homepage, canonical redirects, filtered practice, cache/indexing policies, and real 404 responses at ${origin.origin}.`);
+  console.log(`Verified ${entries.length} public files (HTML excludes only known Cloudflare protection additions), homepage, canonical redirects, filtered practice, cache/indexing policies, and real 404 responses at ${origin.origin}.`);
 })().catch(e => { console.error(e.message); process.exitCode = 1; });

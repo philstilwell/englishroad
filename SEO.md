@@ -28,6 +28,8 @@ The homepage now links directly to useful existing topic filters and explains th
 
 `node scripts/check-seo.cjs` checks the four pages, metadata, structured-data references, internal destinations and fragments, sitemap, all topic links, and sample fidelity to the question bank. It runs during the Cloudflare build. `node scripts/check.cjs` checks quiz and loading behavior; `node cloudflare/verify.cjs https://englishroad.com` checks the published files and routing. Browser review covers desktop and narrow mobile layouts, topic selection, answer feedback, next-question navigation, sample answers, and console errors.
 
+Cloudflare's existing protection settings can inject a hidden AI Labyrinth link and a JavaScript-detection bootstrap into HTML responses. The deployment check removes only those recognized additions before comparing the authored HTML exactly. It does not change Cloudflare protection settings or ignore arbitrary page differences.
+
 The next measurement step is to verify ownership in Google Search Console and Bing Webmaster Tools, submit the sitemap, and review indexing, impressions, search queries, and click-through rates. This change does not create those accounts or submit a sitemap through them. Search engines determine when to recrawl pages and what titles and snippets to display.
 
 ## Official references
@@ -42,3 +44,5 @@ The next measurement step is to verify ownership in Google Search Console and Bi
 - [Google: education Q&A eligibility](https://developers.google.com/search/docs/appearance/structured-data/education-qa)
 - [Schema.org: LearningResource](https://schema.org/LearningResource)
 - [Cloudflare: static-asset redirects and rewrites](https://developers.cloudflare.com/workers/static-assets/redirects/)
+- [Cloudflare: AI Labyrinth](https://developers.cloudflare.com/bots/additional-configurations/ai-labyrinth/)
+- [Cloudflare: JavaScript detections](https://developers.cloudflare.com/cloudflare-challenges/challenge-types/javascript-detections/)
