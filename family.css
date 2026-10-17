@@ -180,6 +180,25 @@ a.chip { color: var(--primary); min-height: 44px; padding: 8px; }
 .band-evidence table { width: 100%; border-collapse: collapse; font-size: 14px; }
 .band-evidence th, .band-evidence td { padding: 8px; text-align: left; border-bottom: 1px solid var(--line); }
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.breadcrumbs { display: flex; flex-wrap: wrap; gap: 6px 10px; padding-top: 16px; color: var(--muted); font-size: 13px; }
+.learning-section { margin-top: 40px; padding-top: 28px; border-top: 1px solid var(--line); }
+.learning-section > p { max-width: 78ch; color: var(--muted); }
+.learning-columns { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px 40px; margin-top: 24px; }
+.learning-columns p { color: var(--muted); }
+.topic-links { list-style: none; margin: 16px 0 0; padding: 0; }
+.topic-links a { display: inline-flex; align-items: center; min-height: 44px; padding-block: 6px; }
+.featured-topics { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 24px; }
+.learning-section summary { min-height: 44px; padding: 12px 0; font-weight: 600; color: var(--primary); }
+.learning-section details { border-bottom: 1px solid var(--line); }
+.learning-section details > p { max-width: 78ch; margin: 0 0 20px; }
+.topic-directory > details { margin-top: 12px; }
+.topic-directory .learning-columns { margin: 12px 0 24px; }
+.practice-samples { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 24px; margin-top: 24px; }
+.practice-samples article { padding: 20px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); }
+.practice-samples ol { padding-left: 24px; }
+.practice-samples li { margin-block: 8px; }
+@media (max-width: 640px) { .learning-columns, .practice-samples, .featured-topics { grid-template-columns: 1fr; } }
+@media print { .breadcrumbs, .topic-directory, .common-questions { display: none; } }
 @media (max-width: 640px) {
   .site-header.menu-ready { padding: 8px 16px; flex-wrap: nowrap; gap: 8px; }
   .menu-ready .brand { font-size: 18px; gap: 8px; }

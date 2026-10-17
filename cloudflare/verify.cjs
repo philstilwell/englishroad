@@ -23,7 +23,7 @@ function get(file) {
     while (next < entries.length) {
       const [file, expected] = entries[next++];
       try {
-        const body = await get(file);
+        const body = await get(file === 'index.html' ? '/' : file);
         const actual = crypto.createHash('sha256').update(body).digest('hex');
         if (actual !== expected) errors.push(`${file}: content mismatch`);
       } catch (e) { errors.push(e.message); }
@@ -37,11 +37,25 @@ function get(file) {
   }
   const home = await get('/');
   if (crypto.createHash('sha256').update(home).digest('hex') !== manifest.files['index.html']) errors.push('Homepage mismatch');
+  const aliases = [['/index.html', '/'], ['/practice', '/practice.html'], ['/level-check', '/level-check.html'], ['/about', '/about.html']];
+  for (const [alias, target] of aliases) {
+    const headers = cp.execFileSync('curl', [...connection, '-sSI', '--max-time', '30', new URL(alias, origin).href], {encoding:'utf8'});
+    const status = headers.match(/^HTTP\/\S+ (\d+)/m)?.[1];
+    const location = headers.match(/^location:\s*(.+)$/mi)?.[1].trim();
+    if (status !== '301' || !location || new URL(location, origin).href !== new URL(target, origin).href) errors.push(`${alias}: expected permanent redirect to ${target}`);
+  }
+  // Filters must stay usable and point search engines to the main practice URL.
+  const filtered = await get('/practice.html?level=B1&topic=Articles');
+  if (crypto.createHash('sha256').update(filtered).digest('hex') !== manifest.files['practice.html']) errors.push('Filtered practice page mismatch');
+  if (questionFile) {
+    const headers = cp.execFileSync('curl', [...connection, '-sSI', '--max-time', '30', new URL(questionFile, origin).href], {encoding:'utf8'});
+    if (!/^x-robots-tag:[^\r\n]*\bnoindex\b/mi.test(headers)) errors.push('Question JSON should be accessible to the quiz but excluded from search results');
+  }
   for (const missing of ['/missing-migration-check-74629.html','/.git/config','/README.md','/cloudflare/build.cjs',
     '/editorial/items/articles.json','/editorial/AUDIT-REPORT.md','/scripts/compile-editorial-bank.cjs','/item-bank-data.js','/coverage-bank-data.js']) {
     const status = cp.execFileSync('curl',[...connection,'-sS','-o','/dev/null','-w','%{http_code}','--max-time','30',new URL(missing,origin).href],{encoding:'utf8'});
     if (status !== '404') errors.push(`${missing}: expected 404, got ${status}`);
   }
   if (errors.length) throw new Error(errors.join('\n'));
-  console.log(`Verified ${entries.length} files byte for byte, homepage, cache policies, and real 404 responses at ${origin.origin}.`);
+  console.log(`Verified ${entries.length} files byte for byte, homepage, canonical redirects, filtered practice, cache/indexing policies, and real 404 responses at ${origin.origin}.`);
 })().catch(e => { console.error(e.message); process.exitCode = 1; });

@@ -8,6 +8,7 @@ const root = path.resolve(__dirname, '..');
 // Publish only a complete bank that matches its individually reviewed source.
 cp.execFileSync(process.execPath, [path.join(root, 'scripts', 'compile-editorial-bank.cjs'), '--check'], { cwd: root, stdio: 'inherit' });
 cp.execFileSync(process.execPath, [path.join(root, 'scripts', 'split-question-bank.cjs'), '--check'], {cwd:root, stdio:'inherit'});
+cp.execFileSync(process.execPath, [path.join(root, 'scripts', 'check-seo.cjs')], {cwd:root, stdio:'inherit'});
 const out = path.join(root, '.cf-site');
 const domain = fs.readFileSync(path.join(root, 'CNAME'), 'utf8').trim();
 const publicDirs = new Set(['assets', 'pdf', 'prompts', 'news', 'stories', 'grammar-concepts', 'english-for-work', 'sitemaps', 'archive', 'data']);
@@ -59,8 +60,9 @@ for (const file of files.filter(f => /\.(html|css)$/.test(f))) {
 }
 const revision = cp.execFileSync('git', ['rev-parse', 'HEAD'], {cwd:root,encoding:'utf8'}).trim();
 fs.writeFileSync(path.join(out, 'deployment.json'), JSON.stringify({revision, files:hashes}, null, 2) + '\n');
-// Exact .html URLs remain canonical. The root is an internal rewrite, with no redirect.
-const redirects = ['/ /index.html 200'];
+// Inner .html URLs remain canonical; the canonical homepage is /.
+// Cloudflare applies a rewrite once, so / stays 200 while /index.html redirects.
+const redirects = ['/index.html / 301', '/ /index.html 200'];
 for (const file of files.filter(f => f.endsWith('.html') && f !== '404.html')) {
   if (file === 'index.html') continue;
   redirects.push(`/${file.slice(0, -5)} /${file} 301`);
@@ -74,6 +76,7 @@ fs.writeFileSync(path.join(out, '_headers'), `/*
 
 /data/questions/*
   Cache-Control: public, max-age=31536000, immutable
+  X-Robots-Tag: noindex
 
 https://:worker.philstilwell.workers.dev/*
   X-Robots-Tag: noindex, nofollow

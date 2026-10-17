@@ -28,6 +28,8 @@ Suggested bands require at least five responses in the band and at least 75% cor
 
 Run `node scripts/check.cjs` (Node.js 22 or newer). No dependency installation is needed. It checks the active bank size, unique question-and-choice combinations, answer metadata, known content regressions, minimum topic/band coverage, monotonic pacing, order independence for identical responses, 25-, 50-, and legacy 100-question synthetic runs, on-demand loading integrity and retry checks, all six mixed sets, and every topic/band combination. These checks do not establish linguistic correctness or CEFR validity.
 
+Run `node scripts/check-seo.cjs` after changing public pages. It checks unique metadata, canonical URLs, structured data, the sitemap, internal links, the complete topic directory, and static samples against the reviewed question bank. The publishing build also runs it. See [SEO.md](SEO.md) for the search-discovery changes and ongoing maintenance.
+
 The [full audit report](editorial/AUDIT-REPORT.md) links to all 35 readable item sets and their individual decisions. After editing the source, run `node scripts/balance-editorial-options.cjs`, `node scripts/compile-editorial-bank.cjs`, `node scripts/split-question-bank.cjs`, and `node scripts/check-editorial-bank.cjs --full-checks`. Recreate the screening and review copies with `node scripts/screen-reviewed-items.cjs` followed by `node scripts/write-editorial-report.cjs`. Publishing requires `node scripts/compile-editorial-bank.cjs --check` to confirm the active file matches all 4,200 reviewed records.
 
 For browser verification, test both complete quiz flows, selected/checked/completed restore, ordinary navigation, 320-pixel Next positioning, keyboard focus, nine help languages, clipboard actions, Delete my data, blocked storage, obsolete/corrupt saves, script failures and retry, and every public page at 320/390/768/1280 pixels. Use an isolated browser profile; do not clear a learner’s actual progress. Keep temporary evidence under ignored `output/`.
@@ -42,7 +44,7 @@ Cloudflare Web Analytics uses **Automatic setup** for the public domain. Cloudfl
 
 Cloudflare's existing GitHub integration publishes the `main` branch to the `englishroad` Worker. `wrangler.jsonc` runs the question checks and `cloudflare/build.cjs`, which stages only public files under ignored `.cf-site/`. No paid Worker code or databases are required.
 
-Public `.html` addresses are preserved, `/` serves `index.html`, and missing pages return a real 404. Preview addresses on `workers.dev` carry `X-Robots-Tag: noindex, nofollow`; the public domain remains indexable. HTML and scripts revalidate with browsers. Content-named question files use long-lived immutable caching; their catalogue changes with the content. Learner storage stays on the same domain.
+Public inner-page `.html` addresses are preserved, `/` serves the homepage, and `/index.html` permanently redirects to `/`. Missing pages return a real 404. Preview addresses on `workers.dev` carry `X-Robots-Tag: noindex, nofollow`; the public domain remains indexable. HTML and scripts revalidate with browsers. Content-named question files use long-lived immutable caching and a `noindex` header; they remain accessible for quiz loading. Their catalogue changes with the content. Learner storage stays on the same domain.
 
 Validate a deployment with:
 
@@ -53,7 +55,7 @@ node cloudflare/verify.cjs https://englishroad.philstilwell.workers.dev
 node cloudflare/verify.cjs https://englishroad.com
 ```
 
-The verifier compares every public file with its local SHA-256 fingerprint, checks the homepage, and confirms that missing files and project sources return 404. `deployment.json` records the deployed commit and public-file fingerprints without exposing credentials.
+The verifier compares every public file with its local SHA-256 fingerprint, checks permanent redirects, filtered practice URLs, caching and indexing headers, and confirms that missing files and project sources return 404. `deployment.json` records the deployed commit and public-file fingerprints without exposing credentials.
 
 Namecheap remains the domain registrar. Cloudflare manages DNS and serves the site through Worker custom domains for the apex and `www`; the `www` hostname redirects to the apex. Domain registration renewals remain separate from the free static hosting.
 
